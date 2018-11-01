@@ -62,6 +62,27 @@ When people don't use best practices in data science its almost always because t
 
 By providing concrete, incremental, but authoratitve, guidance I believe the Turing Way could provide the nudge that allows people to realise the benefits for themselves, and lowers the barrier for more researchers to acquire these highly valued skills.
 
+
+### Becky Arnold
+
+**Who are you?**
+
+I'm an astrophysics PhD student at the University of Sheffield and I do computer simulations of star forming regions. I'm a 2018 Software Sustainability Institute fellow using the funds to organise talks and workshops about various issues surrounding good programming practise. 
+ 
+ 
+**What are you passionate about?**
+
+Science. All over the world humans come together to try and figure out how the universe works and that's *amazing*, just as amazing as the answers themselves. I'm also passionate about how we actually do that science, making sure it's accurate and reproducible. If it isn't both of those things we haven't moved forwards much, or worse still end up going in circles.
+
+I care deeply about changing the culture of academia, in which abuse of power (both minor and major) is all too common.
+
+
+**Why do you care about the Turing Way?**
+
+Because I've met so many people that want to code well and follow best practise, which will benefit science enormously, but struggle to know how to do so. While there are lots of fantastic resources out there they're often scattered and the Turing Way can improve that. I also hope that it can convince people that don't consider themselves capable of being good programmers that there are steps they can take to drastically improve their coding.
+
+
+
 ### Template
 
 Please answer all questions in the first person.
