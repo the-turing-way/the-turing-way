@@ -24,6 +24,26 @@ For example, if a PhD student's supervisor says to them on the very first day: I
 And in the same vein, when funders require open access publications, then the senior members of a research project will do exactly that.
 I'm excited to build the Turing Way to both inspire the people who DO the research to make all their outputs as accessible as possible, and to nudge everyone else in the ecosystem to care about the work required to do so.
 
+### Alexander Morley
+
+**Who are you?**
+
+I am a Mozilla Fellow (2018-) and a PhD Candidate at the MRC Brain Network Dynamics Unit at the University of Oxford (2015-).
+I also receive support from the Software Sustainability Institute Fellowship programme (2018) and Microsoft/Research Software England Cloud Computing Fellowship programme (2018).
+My undergraduate degree was in Medicine at the University of Oxford (2012-2015).
+
+**What are you passionate about?**
+
+I really want research to be accessible, but in a much broader sense than the word is often used. I would love to see a world where re-mixing research is a common thing, whether that be re-mixing figures to make them easier to understand, re-using data to generate new insights, or testing new methods to see how our theories might need to change.
+
+Slightly less on topic, but just as important, I am also passionate about the development and adoption of best-practices in governance. Safe and inclusive spaces are all too rare in acedemia, and I think some part of that can be solved by doing away with our laissez-faire attitude towards governance and management.
+
+**Why do you care about the Turing Way?**
+
+When people don't use best practices in data science its almost always because they either don't know about them, or feel they don't have time. Advocates will tell people that the time is saved in the long-term, but it's a hard sell. 
+
+By providing concrete, incremental, but authoratitve, guidance I believe the Turing Way could provide the nudge that allows people to realise the benefits for themselves, and lowers the barrier for more researchers to acquire these highly valued skills.
+
 ### Template
 
 Please answer all questions in the first person.
