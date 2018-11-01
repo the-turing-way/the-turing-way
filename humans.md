@@ -24,6 +24,25 @@ For example, if a PhD student's supervisor says to them on the very first day: I
 And in the same vein, when funders require open access publications, then the senior members of a research project will do exactly that.
 I'm excited to build the Turing Way to both inspire the people who DO the research to make all their outputs as accessible as possible, and to nudge everyone else in the ecosystem to care about the work required to do so.
 
+### Patricia Herterich
+
+**Who are you?**
+
+I'm the Research Repository Advisor at the University of Birmingham which basically means I support research data management and open research as much as possible and I'm in charge of repository systems (the library kind) to enable this.
+From 2012 to 2016, I've worked at CERN as a doctoral student supporting Open Research stuff and still have to finish writing up the results in my PhD thesis and submit to the Humboldt-Universitaet in Berlin but tend to spend the time watching Netflix or crocheing :-(
+
+**What are you passionate about?**
+
+Making the world a better place. I think opening up research is part of that as open access to publications is key to provide knowledge to people who cannot afford subscriptions and going beyond this and sharing code and data has the potential to make research more inclusive and win back trust in experts and scientific results.
+I really care about collaborating and get really excited about trying new tools if my limited tech skills allow.
+I'd like to have taken down Elsevier by the end of my career. ;-)
+
+**Why do you care about the Turing Way?**
+
+I really think ways of working and reward structures in academia need to change as most discussions around open research end up with "how does that help me with my career". As a librarian, it feels like our influence is often limited, but I try to set up workshops/events to at least get the discussion started and give especially PhD students the feeling that they can challenge the status quo and there will be people in the institution that will support them that might not be their supervisor.
+I really love how the Turing Way aims to create good examples and I hope we can develop some ideas and resources that can have a positive impact in changing the current system.
+
+
 ### Template
 
 Please answer all questions in the first person.
@@ -32,7 +51,7 @@ Please feel free to use your own voice as you answer them.
 
 **Who are you?**
 
-*This answer is a pretty formal description of who you are and what you do. Please aim for <100 words.*
+ *This answer is a pretty formal description of who you are and what you do. Please aim for <100 words.*
 
 **What are you passionate about?**
 
