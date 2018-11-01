@@ -42,6 +42,25 @@ I'd like to have taken down Elsevier by the end of my career. ;-)
 I really think ways of working and reward structures in academia need to change as most discussions around open research end up with "how does that help me with my career". As a librarian, it feels like our influence is often limited, but I try to set up workshops/events to at least get the discussion started and give especially PhD students the feeling that they can challenge the status quo and there will be people in the institution that will support them that might not be their supervisor.
 I really love how the Turing Way aims to create good examples and I hope we can develop some ideas and resources that can have a positive impact in changing the current system.
 
+### Alexander Morley
+
+**Who are you?**
+
+I am a Mozilla Fellow (2018-) and a PhD Candidate at the MRC Brain Network Dynamics Unit at the University of Oxford (2015-).
+I also receive support from the Software Sustainability Institute Fellowship programme (2018) and Microsoft/Research Software England Cloud Computing Fellowship programme (2018).
+My undergraduate degree was in Medicine at the University of Oxford (2012-2015).
+
+**What are you passionate about?**
+
+I really want research to be accessible, but in a much broader sense than the word is often used. I would love to see a world where re-mixing research is a common thing, whether that be re-mixing figures to make them easier to understand, re-using data to generate new insights, or testing new methods to see how our theories might need to change.
+
+Slightly less on topic, but just as important, I am also passionate about the development and adoption of best-practices in governance. Safe and inclusive spaces are all too rare in acedemia, and I think some part of that can be solved by doing away with our laissez-faire attitude towards governance and management.
+
+**Why do you care about the Turing Way?**
+
+When people don't use best practices in data science its almost always because they either don't know about them, or feel they don't have time. Advocates will tell people that the time is saved in the long-term, but it's a hard sell. 
+
+By providing concrete, incremental, but authoratitve, guidance I believe the Turing Way could provide the nudge that allows people to realise the benefits for themselves, and lowers the barrier for more researchers to acquire these highly valued skills.
 
 ### Template
 
