@@ -58,7 +58,7 @@ Slightly less on topic, but just as important, I am also passionate about the de
 
 **Why do you care about the Turing Way?**
 
-When people don't use best practices in data science its almost always because they either don't know about them, or feel they don't have time. Advocates will tell people that the time is saved in the long-term, but it's a hard sell. 
+When people don't use best practices in data science its almost always because they either don't know about them, or feel they don't have time. Advocates will tell people that the time is saved in the long-term, but it's a hard sell.
 
 By providing concrete, incremental, but authoratitve, guidance I believe the Turing Way could provide the nudge that allows people to realise the benefits for themselves, and lowers the barrier for more researchers to acquire these highly valued skills.
 
@@ -67,9 +67,9 @@ By providing concrete, incremental, but authoratitve, guidance I believe the Tur
 
 **Who are you?**
 
-I'm an astrophysics PhD student at the University of Sheffield and I do computer simulations of star forming regions. I'm a 2018 Software Sustainability Institute fellow using the funds to organise talks and workshops about various issues surrounding good programming practise. 
- 
- 
+I'm an astrophysics PhD student at the University of Sheffield and I do computer simulations of star forming regions. I'm a 2018 Software Sustainability Institute fellow using the funds to organise talks and workshops about various issues surrounding good programming practise.
+
+
 **What are you passionate about?**
 
 Science. All over the world humans come together to try and figure out how the universe works and that's *amazing*, just as amazing as the answers themselves. I'm also passionate about how we actually do that science, making sure it's accurate and reproducible. If it isn't both of those things we haven't moved forwards much, or worse still end up going in circles.
@@ -81,6 +81,37 @@ I care deeply about changing the culture of academia, in which abuse of power (b
 
 Because I've met so many people that want to code well and follow best practise, which will benefit science enormously, but struggle to know how to do so. While there are lots of fantastic resources out there they're often scattered and the Turing Way can improve that. I also hope that it can convince people that don't consider themselves capable of being good programmers that there are steps they can take to drastically improve their coding.
 
+
+### Martin O'Reilly
+
+**Who are you?**
+
+I'm Principal Research Software Engineer and Deputy Head of the Research Engineering Group at the Alan Turing Institute.
+My focus is on using good software engineering practices to increase the impact of research software by making it reusable, reliable and robust.
+I also have a strong interest in reproducible research, and am working to improve the tools and working practices at the Turing to make it easier for our researchers to work reproducibly.
+I've moved back and forth between industry and academia over the years, gaining an MSc in Artificial Intelligence and a PhD in Computational Neuroscience along the way.
+
+
+**What are you passionate about?**
+
+I feel strongly that researchers have a responsibility to ensure that the outcomes of their research are made available to all - researchers, practitioners and the public.
+These outcomes should be made available in a way that allows others not just to reproduce them, but also to re-use and build upon them.
+
+An awful lot of researcher and practitioner time is spent getting to the point they can usefully evaluate whether some research is of use to them, or in re-discovering unpublished negative results.
+This seems extremely wasteful and I'm convinced we can and should do better.
+In particular, I feel a lot can be done to improve the effective re-use of data produced by research projects.
+While there has been significant progress in recent years in the amount of data published alongside research articles, there is still a wide gulf between open data and re-usable data.
+
+In terms of research areas, I'm fascinated by the brain and especially the approach of understanding the brain by "faking it" (i.e. modelling and simulation).
+I'm particularly interested in robots as a way of embodying these models in the real world.
+
+**Why do you care about the Turing Way?**
+
+I want to live in a world where the norm is that researchers are sharing their research outcomes in sufficient detail to permit reproduction, re-use and extension by others.
+In order for this to happen I think we need both a change in community norms and an improvement to researchers' working practices.
+I believe the Turing Way can impact positively in both these areas.
+By providing recommended working practices and guidance on associated tooling, we can make it easy for researchers to do the right thing.
+By publishing this with the weight of the Turing brand, we can apply social pressure for the adoption of these practices as new norms in the research communities we operate in.
 
 
 ### Template
