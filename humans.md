@@ -114,6 +114,27 @@ By providing recommended working practices and guidance on associated tooling, w
 By publishing this with the weight of the Turing brand, we can apply social pressure for the adoption of these practices as new norms in the research communities we operate in.
 
 
+### Anna Krystalli
+
+**Who are you?**
+
+I’m a Research Software Engineer at the University of Sheffield helping researchers do more with their code and data. I’m also an editor for rOpenSci, a community of users and developers, Creating technical infrastructure of peer-reviewed R software tools for working with scientific data sources on the web.
+
+
+**What are you passionate about?**
+
+Reproducible research in R!
+
+I learnt to code during my PhD in Marine Macroecology and was instantly hooked. Building on past experience as a quality assurance auditor, my experiences made me interested in how we practice science and specifically how we can do more out of the real workhorses of modern research, our code and data. 
+
+I’m excited about both the opportunities and challenges of next generation open science and how we can build on tools, conventions and practices from the rich and constantly evolving open source ecosystem.
+
+
+**Why do you care about the Turing Way?**
+
+This is a fantastic opportunity to take stock of the great work that has already been done in this space, aggregate and distill it to templates, checklists and  best practices guidelines that are immediately useful to researchers.  It’s an opportunity to set standards and harness the power of convention, especially with ECRs that have an opportunity to set up good practices from the start! Indeed, I hope the Turing Way will very much become the “Sheffield Way” too!
+
+
 ### Template
 
 Please answer all questions in the first person.
