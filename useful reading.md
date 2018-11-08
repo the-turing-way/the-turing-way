@@ -20,6 +20,7 @@ Business/Management:
 Bergh, D. D., Sharp, B. M., Aguinis, H., & Li, M. (2017). Is there a credibility crisis in strategic management research? Evidence on the reproducibility of study findings. Strategic Organization, 15(3), 423–436. https://doi.org/10.1177/1476127017701076
 
 Psychology:
+Open Science Collaboration (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716-aac4716. https://doi.org/10.1126/science.aac4716
 
 ### Non-computational/analog reproducibility
  
@@ -34,7 +35,8 @@ Baker, M. (2015). Reproducibility crisis: Blame it on the antibodies. Nature, 52
 
 Stodden, V. (2009). Enabling reproducible research: Open licensing for scientific innovation. Available at https://web.stanford.edu/~vcs/papers/ERROLSI03092009.pdf
 
+Wilkinson, J. M., Flaherty, B., Hearne, S., Lynch, H., Lamond, H., Dewson, N., … Amos, H. (2016). Ownership And Licensing Of Research Data (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.1167976
+
 ## Tools
 
-Wilkinson, J. M., Flaherty, B., Hearne, S., Lynch, H., Lamond, H., Dewson, N., … Amos, H. (2016). Ownership And Licensing Of Research Data (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.1167976
 
