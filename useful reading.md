@@ -8,14 +8,33 @@ This is a living document collecting useful reading on the several aspects of re
 
 ## Reproducibility crisis
 
-### Non-computational/analog reproducibility
+### General/overview studies
 
 Baker, M. (2016). 1,500 scientists lift the lid on reproducibility. Nature, 533(7604), 452–454. https://doi.org/10.1038/533452a - with the data available as Penny, D. (2016). Nature Reproducibility survey [Data set]. Figshare. https://doi.org/10.6084/m9.figshare.3394951.v1
+
+Gall T, Ioannidis JPA, Maniadis Z (2017) The credibility crisis in research: Can economics tools help? PLoS Biol 15(4): e2001846. https://doi.org/10.1371/journal.pbio.2001846
+
+### Computational/digital issues
+
+Business/Management:
+Bergh, D. D., Sharp, B. M., Aguinis, H., & Li, M. (2017). Is there a credibility crisis in strategic management research? Evidence on the reproducibility of study findings. Strategic Organization, 15(3), 423–436. https://doi.org/10.1177/1476127017701076
+
+Psychology:
+
+### Non-computational/analog reproducibility
  
 Biosciences:
 Baker, M. (2015). Reproducibility crisis: Blame it on the antibodies. Nature, 521(7552), 274–276. https://doi.org/10.1038/521274a 
 
-
 ## Sharing of code
 
 ## Digital Preservation of data and code
+
+## Licensing
+
+Stodden, V. (2009). Enabling reproducible research: Open licensing for scientific innovation. Available at https://web.stanford.edu/~vcs/papers/ERROLSI03092009.pdf
+
+## Tools
+
+Wilkinson, J. M., Flaherty, B., Hearne, S., Lynch, H., Lamond, H., Dewson, N., … Amos, H. (2016). Ownership And Licensing Of Research Data (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.1167976
+
