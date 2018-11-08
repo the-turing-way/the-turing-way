@@ -14,6 +14,8 @@ Baker, M. (2016). 1,500 scientists lift the lid on reproducibility. Nature, 533(
 
 Gall T, Ioannidis JPA, Maniadis Z (2017) The credibility crisis in research: Can economics tools help? PLoS Biol 15(4): e2001846. https://doi.org/10.1371/journal.pbio.2001846
 
+Ioannidis, J. P. A. (2005). Why Most Published Research Findings Are False. PLoS Medicine, 2(8), e124. https://doi.org/10.1371/journal.pmed.0020124
+
 ### Computational/digital issues
 
 Business/Management:
@@ -40,3 +42,16 @@ Wilkinson, J. M., Flaherty, B., Hearne, S., Lynch, H., Lamond, H., Dewson, N., â
 ## Tools
 
 ## Existing guidelines
+Center for Open Science. Transparency and Openness Promotion (TOP) Guidelines. https://cos.io/our-services/top-guidelines/
+
+Broman et al. (2017). Recommendations to Funding Agencies for Supporting Reproducible Research. American Statistical Association. https://www.amstat.org/asa/files/pdfs/POL-ReproducibleResearchRecommendations.pdf
+
+Society for Neuroscience. (2015). Practices for Scientific Rigor: A Resource for Discussion, Training, and Practice. https://www.sfn.org/sitecore/content/Home/SfN/News-and-Calendar/Neuroscience-Quarterly/Spring-2015/~/link.aspx?_id=9CC809B230444457A239368876C4A558&_z=z
+
+Federation of American Societies for Experimental Biology (2016). Enhancing Research Reproducibility: Recommendations from the Federation of American Societies for Experimental Biology. https://www.faseb.org/Portals/2/PDFs/opa/2016/FASEB_Enhancing%20Research%20Reproducibility.pdf
+
+Not that relevant but for completeness (also quite nice to see an example of a long version and a checklist):
+
+ARRIVE guidelines: https://www.nc3rs.org.uk/arrive-guidelines
+
+CONSORT guidelines: http://www.consort-statement.org/
