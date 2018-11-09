@@ -18,8 +18,8 @@ Funders and publishers are beginning to require that publications include access
 The goal is to ensure that all results can be independently verified and built upon in future work.
 This is sometimes easier said than done.
 Sharing these research outputs means understanding data management, library sciences, sofware development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists.
-The Turing Way is a handbook to support students, their supervisors and funders and journal editors in ensuring that reproducible research is "too easy not to do".
-It will include training material on version control, analysis testing and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
+The Turing Way is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do".
+It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
 This project is openly developed and any and all questions, comments and recommendations are welcome at our github repository: https://github.com/alan-turing-institute/the-turing-way.
 
 ### Contributing 
