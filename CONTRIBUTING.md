@@ -47,24 +47,29 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
 * [![question](https://img.shields.io/badge/-question-cc317c.svg)][labels-question] *These issues contain a question that you'd like to have answered.*
 
-    There are [lots of ways to ask questions](#get-in-touch) but opening an issue is a great way to start a conversation and get your answer. Ideally, we'll close it out by ***[adding the answer to the wiki][bids-starterkit-wiki]!***
+    There are [lots of ways to ask questions](#get-in-touch) but opening an issue is a great way to start a conversation and get your answer. 
 
-* [![good-first-issue](https://img.shields.io/badge/-good%20first%20issue-1b3487.svg)][labels-firstissue] *These issues are particularly appropriate if it is your first contribution to the BIDS Starter Kit, or to GitHub overall.*
+* [![good-first-issue](https://img.shields.io/badge/-good%20first%20issue-1b3487.svg)][labels-firstissue] *These issues are particularly appropriate if it is your first contribution to the Turing Way, or to GitHub overall.*
 
     If you're not sure about how to go about contributing, these are good places to start. You'll be mentored through the process by the maintainers team. If you're a seasoned contributor, please select a different issue to work from and keep these available for the newer and potentially more anxious team members.
 
 * [![Enhancement](https://img.shields.io/badge/-enhancement-84b6eb.svg)][labels-enhancement] *These issues are suggesting new features that can be added to the project.*
 
-    If you want to ask for something new, please try to make sure that your request is distinct from any others that are already in the queue (or part of the starter kit!). If you find one that's similar but there are subtle differences please reference the other enhancement in your issue.
+    If you want to ask for something new, please try to make sure that your request is distinct from any others that are already in the queue (or part of the Turing Way). If you find one that's similar but there are subtle differences please reference the other enhancement in your issue.
 
-* [![Community](https://img.shields.io/badge/-community-8605c1.svg)][labels-community] *These issues relate to building and supporting the BIDS community.*
+* [![Community](https://img.shields.io/badge/-community-8605c1.svg)][labels-community] *These issues relate to building and supporting the Turing Way community.*
 
-    BIDS won't work if people don't use the standard! YOU are the BIDS community, and we want to know how best to support you.
-
+ This is all about collaborating, so please let us know how we can best support you as a community member.
+ 
 * [![Bug](https://img.shields.io/badge/-bug-ee0701.svg)][labels-bug] *These issues are reporting a problem or a mistake in the project.*
 
-    The more details you can provide the better! If you know how to fix the bug, please open an issue first and then [submit a pull request](#making-a-change-with-a-pull-request) :sparkles:
+    The more details you can provide the better! If you know how to fix the bug, please open an issue first and then submit a pull request :sparkles:
 
+* [![Tools]()[labels-tools]
+
+* [![Travel]()[labels-travel]
+
+* [![Comms]()[labels-comms]
 
     We like to model best practice, so the Turing Way itself is managed through these issues. We may occasionally have some to coordinate some logistics.
     
