@@ -65,11 +65,13 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
     The more details you can provide the better! If you know how to fix the bug, please open an issue first and then submit a pull request :sparkles:
 
-* [![Tools](https://img.shields.io/badge/-tools-a3e07d.svg)[labels-tools]
+* [![Tools](https://img.shields.io/badge/-tools-a3e07d.svg)][labels-tools] *These issues discuss tools we use for collaboration*
 
-* [![Travel](https://img.shields.io/badge/-travel-0f42fc.svg)[labels-travel]
+If you feel that we should try new tools or some aspects of the collaboration could be improved by using tools, please let us know.
 
-* [![Comms](https://img.shields.io/badge/-comms-15c4b2.svg)[labels-comms]
+* [![Travel](https://img.shields.io/badge/-travel-0f42fc.svg)][labels-travel] *These issues are mainly for the attention of core project members to plan travel to face to face meetings*
+
+* [![Comms](https://img.shields.io/badge/-comms-15c4b2.svg)][labels-comms] *These issues discuss how we as a project interact with other initiatives.*
 
     We like to model best practice, so the Turing Way itself is managed through these issues. We may occasionally have some to coordinate some logistics.
     
