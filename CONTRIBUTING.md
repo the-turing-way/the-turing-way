@@ -65,11 +65,11 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
     The more details you can provide the better! If you know how to fix the bug, please open an issue first and then submit a pull request :sparkles:
 
-* [![Tools]()[labels-tools]
+* [![Tools](https://img.shields.io/badge/-tools-a3e07d.svg)[labels-tools]
 
-* [![Travel]()[labels-travel]
+* [![Travel](https://img.shields.io/badge/-travel-0f42fc.svg)[labels-travel]
 
-* [![Comms]()[labels-comms]
+* [![Comms](https://img.shields.io/badge/-comms-15c4b2.svg)[labels-comms]
 
     We like to model best practice, so the Turing Way itself is managed through these issues. We may occasionally have some to coordinate some logistics.
     
