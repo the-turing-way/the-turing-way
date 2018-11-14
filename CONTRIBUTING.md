@@ -39,13 +39,13 @@ Most of the writing that you'll do will be in [Markdown][markdown]. You can thin
 
 ## Where to start: issue labels
 
-The list of labels for current issues can be found [here][bids-starterkit-labels] and includes:
+The list of labels for current issues can be found [here][turing-way-labels] and includes:
 
 * [![help-wanted](https://img.shields.io/badge/-help%20wanted-159818.svg)][labels-helpwanted] *These issues contain a task that a member of the team has determined we need additional help with.*
 
     If you feel that you can contribute to one of these issues, we especially encourage you to do so!
 
-* [![Question](https://img.shields.io/badge/-question-cc317c.svg)][labels-question] *These issues contain a question that you'd like to have answered.*
+* [![question](https://img.shields.io/badge/-question-cc317c.svg)][labels-question] *These issues contain a question that you'd like to have answered.*
 
     There are [lots of ways to ask questions](#get-in-touch) but opening an issue is a great way to start a conversation and get your answer. Ideally, we'll close it out by ***[adding the answer to the wiki][bids-starterkit-wiki]!***
 
@@ -57,10 +57,6 @@ The list of labels for current issues can be found [here][bids-starterkit-labels
 
     If you want to ask for something new, please try to make sure that your request is distinct from any others that are already in the queue (or part of the starter kit!). If you find one that's similar but there are subtle differences please reference the other enhancement in your issue.
 
-* [![Documentation](https://img.shields.io/badge/-documentation-ffd700.svg)][labels-documentation] *These issues relate to improving or updating the documentation.*
-
-    These are usually really great issues to help out with: our goal is to make it easy to understand BIDS without having to ask anyone any questions! Documentation is the ultimate solution :trophy:
-
 * [![Community](https://img.shields.io/badge/-community-8605c1.svg)][labels-community] *These issues relate to building and supporting the BIDS community.*
 
     BIDS won't work if people don't use the standard! YOU are the BIDS community, and we want to know how best to support you.
@@ -69,20 +65,22 @@ The list of labels for current issues can be found [here][bids-starterkit-labels
 
     The more details you can provide the better! If you know how to fix the bug, please open an issue first and then [submit a pull request](#making-a-change-with-a-pull-request) :sparkles:
 
-* [![Closing Soon](https://img.shields.io/badge/-closing%20soon-ed6186.svg)][labels-closingsoon] *These issues are closing soon...get your opinions in asap!*
 
-    This label is mostly used to indicate that an old issue is about to be closed, or that a final decision is going to be made on a long running discussion. Speak now....or open a new issue when this one is gone :stuck_out_tongue_winking_eye:
-
-* [![Funding](https://img.shields.io/badge/-funding-55e0c2.svg)][labels-funding] *These issues relate to finding money money money to keep building the project*
-
-    We'd love to hear about any opportunities for funding to keep building the BIDS Starter Kit :moneybag:
-
-* [![Logistics](https://img.shields.io/badge/-logistics-deaefc.svg)][labels-logistics] *These issues relate to project management for the BIDS starter kit*
-
-    We like to model best practice, so the BIDS Starter Kit itself is managed through these issues. We may occasionally have some to coordinate some logistics.
+    We like to model best practice, so the Turing Way itself is managed through these issues. We may occasionally have some to coordinate some logistics.
     
+
 [git]: https://git-scm.com
 [github]: https://github.com
+[labels-link]: https://github.com/alan-turing-institute/the-turing-way/labels
+[labels-bug]: https://github.com/alan-turing-institute/the-turing-way/labels/bug
+[labels-community]: https://github.com/alan-turing-institute/the-turing-way/labels/community
+[labels-comms]: https://github.com/alan-turing-institute/the-turing-way/labels/comms
+[labels-enhancement]: https://github.com/alan-turing-institute/the-turing-way/labels/enhancement
+[labels-firstissue]: https://github.com/alan-turing-institute/the-turing-way/labels/good%20first%20issue
+[labels-helpwanted]: https://github.com/alan-turing-institute/the-turing-way/labels/help%20wanted
+[labels-question]: https://github.com/alan-turing-institute/the-turing-way/labels/question
+[labels-tools]: https://github.com/alan-turing-institute/the-turing-way/labels/tools
+[labels-travel]: https://github.com/alan-turing-institute/the-turing-way/labels/travel
 [markdown]: https://daringfireball.net/projects/markdown
 [rick-roll]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-
+[turing-way-labels]: https://github.com/alan-turing-institute/the-turing-way/labels
