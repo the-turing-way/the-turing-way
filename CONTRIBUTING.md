@@ -10,15 +10,10 @@ The point of this starter kit is to **welcome new users and contributors to the 
 
 Been here before? Already know what you're looking for in this guide? Jump to the following sections:
 
-* [Joining the BIDS community](#joining-the-community)
+* [Joining the community](#joining-the-community)
 * [Get in touch](#get-in-touch)
 * [Contributing through GitHub](#contributing-through-github)
-* [Where to start: wiki, code and templates](#where-to-start-wiki-code-and-templates)
 * [Where to start: issue labels](#where-to-start-issue-labels)
-* [Make a change with a pull request](#making-a-change-with-a-pull-request)
-  * [Example pull request](#example-pull-request)
-* [Recognizing contributions](#recognizing-contributions)
-
 
 ## Joining the community
 
@@ -26,8 +21,7 @@ The Turing Way community We therefore require that all contributions **adhere to
 
 ## Get in touch
 
-You can contact the PI of the Turing Way project - Kirstie Whitaker - by email at kwhitaker@turing.ac.uk.
- 
+You can contact the PI of the Turing Way project - Kirstie Whitaker - by email at kwhitaker@turing.ac.uk. 
 
 ## Contributing through GitHub
 
@@ -86,4 +80,9 @@ The list of labels for current issues can be found [here][bids-starterkit-labels
 * [![Logistics](https://img.shields.io/badge/-logistics-deaefc.svg)][labels-logistics] *These issues relate to project management for the BIDS starter kit*
 
     We like to model best practice, so the BIDS Starter Kit itself is managed through these issues. We may occasionally have some to coordinate some logistics.
+    
+[git]: https://git-scm.com
+[github]: https://github.com
+[markdown]: https://daringfireball.net/projects/markdown
+[rick-roll]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
