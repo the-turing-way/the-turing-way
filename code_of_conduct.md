@@ -21,15 +21,16 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 Members of the community who violate these rules - no matter how much they have contributed to the Whitaker lab, or how specialised their skill set - will be approached by Kirstie Whitaker. If inappropriate behaviour persists after a discussion with Kirstie, the contributor will be asked to discontinue their participation in Whitaker lab projects.
 
 **To report an issue** please contact [Kirstie Whitaker](https://github.com/KirstieJane). All communication will be treated as confidential.
+> Do we also want to have a more "external" person to report to? Is there someone at the Turing?
 
 ### Flexible working hours
 
-This sentence is stolen from [Bastian Greshake's](https://github.com/gedankenstuecke) email footer and forms the basis of the Whitaker Lab's policy on flexible working:
-
-> While I may be sending this email outside my normal office hours, I have no expectation to receive a reply outside yours.
-
-The hours that members of the lab choose to work is up to them. We are each welcome to send work-related emails or pull requests over the weekend or late at night, but no lab members are required to reply to them outside of their typical work hours.
+The hours that members of the lab choose to work is up to them. We are each welcome to open issues, send work-related emails or pull requests over the weekend or late at night, but no lab members are required to reply to them outside of their typical work hours.
 
 Lab members are welcome to work flexibly for any reason. Ideally, all lab members will have at least a few hours each week to overlap with Kirstie in order to stay in touch on any challenges or successes, but it is the policy of the Whitaker Lab that every member is already self-motivated and doesn't need to work a traditional 9 to 5 day in order to meet their goals.
+> *Do we need to adjust this depending on what we decide we use as a weekly catch up or something similar?*
 
-**If you experience any challenges related to flexible working within the lab** please contact [Kirstie Whitaker](https://github.com/KirstieJane). All communication will be treated as confidential.
+**If you experience any challenges related to flexible working within the project** please contact [Kirstie Whitaker](https://github.com/KirstieJane). All communication will be treated as confidential.
+
+### Responsibilities
+> PH really likes the section on responsibilities in [this template](https://github.com/dasaderi/Lab_CoC_templates/blob/master/template_v1.md) by [Daniela Saderi](https://github.com/dasaderi) but doesn't really know how we can make it fit. Maybe worth a discussion at the kick off meeting.
