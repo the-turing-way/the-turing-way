@@ -139,7 +139,7 @@ This is a fantastic opportunity to take stock of the great work that has already
 
 **Who are you?**
 
-I'm a new Data Scientist in the Research Engineering team - still exploring what that means on new projects such as the Turing Way! I completed my PhD in Astrophysics at the Uiversity of Leicester this year.
+I'm a new Data Scientist in the Research Engineering team - still exploring what that means on new projects such as the Turing Way! I completed my PhD in Astrophysics at the University of Leicester this year.
 
 **What are you passionate about?**
 
