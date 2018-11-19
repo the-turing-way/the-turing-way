@@ -135,6 +135,21 @@ I’m excited about both the opportunities and challenges of next generation ope
 This is a fantastic opportunity to take stock of the great work that has already been done in this space, aggregate and distill it to templates, checklists and  best practices guidelines that are immediately useful to researchers.  It’s an opportunity to set standards and harness the power of convention, especially with ECRs that have an opportunity to set up good practices from the start! Indeed, I hope the Turing Way will very much become the “Sheffield Way” too!
 
 
+### Sarah Gibson
+
+**Who are you?**
+
+I'm a new Data Scientist in the Research Engineering team - still exploring what that means on new projects such as the Turing Way! I completed my PhD in Astrophysics at the University of Leicester this year.
+
+**What are you passionate about?**
+
+I'm passionate about applying the skills I learnt during my PhD somewhere closer to home and learning new skills along the way. I'm also a big music fan.
+
+**Why do you care about the Turing Way?**
+
+The Turing Way is an ideal opportunity for me to learn better research practices and widen my horizons from what academia has taught me.
+
+
 ### Template
 
 Please answer all questions in the first person.
