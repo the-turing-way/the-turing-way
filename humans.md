@@ -150,6 +150,21 @@ I'm passionate about applying the skills I learnt during my PhD somewhere closer
 The Turing Way is an ideal opportunity for me to learn better research practices and widen my horizons from what academia has taught me.
 
 
+### Louise Bowler
+
+**Who are you?**
+
+I'm a Research Data Scientist in the Alan Turing Institute's Research Engineering Group. I have a degree in Physics from Imperial College London, after which I joined the Life Sciences Interface Doctoral Training Centre at the University of Oxford. My doctoral work at Oxford was highly interdisciplinary, combining mathematical modelling, cardiac electrophysiology and safety pharmacology.
+
+**What are you passionate about?**
+
+As scientists, we share our work via papers and talks, but the intricacies of precisely *how* we implement an analysis pipeline or novel algorithm can be very difficult to convey in those formats. We're currently seeing changes in the default way we want to publish our papers through the open access movement, and I'd love to see a similar change in mindset happen about the data that we collect and the code that we develop so that others can reproduce, learn from and build upon our work. I want to ensure that the route to sharing these types of research output is open to everyone, regardless of their level of programming experience - the route might not always be straightforward, but it's a great opportunity to share and learn from our experiences!
+
+**Why do you care about the Turing Way?**
+
+So many research projects now contain computational elements, yet it is easy to forget that not everyone has access to training in software engineering, or has a group of colleagues with such interests. If we say that we want people to make their research open and reproducible, we need to give them the tools they need to be confident in doing so. I see the Turing Way as the means of bridging that gap, by providing a friendly, practical and helpful guide for researchers at all stages of their careers.
+
+
 ### Template
 
 Please answer all questions in the first person.
