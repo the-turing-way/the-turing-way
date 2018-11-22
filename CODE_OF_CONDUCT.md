@@ -18,7 +18,7 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 ***Participants asked to stop any harassing behavior are expected to comply immediately.***
 
-Members of the community who violate these rules - no matter how much they have contributed to the Whitaker lab, or how specialised their skill set - will be approached by Kirstie Whitaker. If inappropriate behaviour persists after a discussion with Kirstie, the contributor will be asked to discontinue their participation in Whitaker lab projects.
+Members of the community who violate these rules - no matter how much they have contributed to the Turing Way project, or how specialised their skill set - will be approached by Kirstie Whitaker. If inappropriate behaviour persists after a discussion with Kirstie, the contributor will be asked to discontinue their participation in the Turing Way project.
 
 **To report an issue** please contact [Kirstie Whitaker](https://github.com/KirstieJane). All communication will be treated as confidential.
 > Do we also want to have a more "external" person to report to? Is there someone at the Turing?
