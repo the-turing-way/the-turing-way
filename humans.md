@@ -165,20 +165,20 @@ As scientists, we share our work via papers and talks, but the intricacies of pr
 So many research projects now contain computational elements, yet it is easy to forget that not everyone has access to training in software engineering, or has a group of colleagues with such interests. If we say that we want people to make their research open and reproducible, we need to give them the tools they need to be confident in doing so. I see the Turing Way as the means of bridging that gap, by providing a friendly, practical and helpful guide for researchers at all stages of their careers.
 
 
-### Template
-
-Please answer all questions in the first person.
-These answers should be only moderately formal.
-Please feel free to use your own voice as you answer them.
+### Rosie Higman
 
 **Who are you?**
 
- *This answer is a pretty formal description of who you are and what you do. Please aim for <100 words.*
+I am a Research Data Librarian at the University of Manchester, co-leading the research data management support service. My focus is on data sharing, training and encouraging researchers to engage in Open Research. 
+
+My background is in the social sciences and I have recently started a PhD with the British Library and the University of Sheffield looking at Open Access and the role of the National Library. 
 
 **What are you passionate about?**
 
-*This answer should be whatever you want it to be. It makes sense to say something related to science, but you can go totally broad here! Please aim for <200 words.*
+Supporting researchers! Making it as easy as possible for researchers to make their research reproducible and open, and for this to be easier than undertaking reserach in a closed manner. I try to help researchers make small improvements in making their research open, on the basis that some progress is better than none!
+
+Working in research data management I'm naturally concerned that data is not taken seriously as an independent research output and the reward system in academia is so heavily geared towards 'high impact' journal articles. As someone from a non-STEM background I'm also interested in how we can make reproducible research as accessible as possible. This will be the first project where I've worked directly in GitHub and I'm excited to get more confident in using it!
 
 **Why do you care about the Turing Way?**
 
-*This answer can be as detailed as you like, but if you can say something about why you care about this project that would be great! I understand that we're all still building the goals etc, so please use this opportunity to say what you're most passionate about.* :smiley_cat: *Please aim for <200 words.*
+I spend much of my time talking to researchers about the overarching principles of *why* reproducible and open research is a good idea and am excited by the idea of giving people practical guidance on *how* to do this. Messy code is frequently cited in these discussions as a reason for not sharing code so if we could produce something which helps people get past this barrier would be great. I hope that the Turing Way will be something we can also use at the University of Manchester and other Turing universities around the country! 
