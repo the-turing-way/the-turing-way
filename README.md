@@ -26,7 +26,7 @@ This project is openly developed and any and all questions, comments and recomme
 
 :construction: This repository is always a work in progress and **everyone** is encouraged to help us build something that is useful to the many. :construction:
 
-There will be some contributing guidelines soon...but for now please feel free to [get in touch](#get-in-touch) with any questions or comments!
+Everyone is asked to follow our [code of conduct](CODE_OF_CONDUCT.md) and to checkout our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
 
 ### Get in touch
 
