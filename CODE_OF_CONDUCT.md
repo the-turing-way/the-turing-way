@@ -1,6 +1,6 @@
 # Code of Conduct
 
-We value the participation of every member of our community and want to ensure an that every contributor has an enjoyable and fulfilling experience. Accordingly, everyone who participates in the Turing Way project is expected to show respect and courtesy to other community members at all time.
+We value the participation of every member of our community and want to ensure an that every contributor has an enjoyable and fulfilling experience. Accordingly, everyone who participates in the Turing Way project is expected to show respect and courtesy to other community members at all times.
 
 Kirstie Whitaker, as PI of this project, and all project members, are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. **We do not tolerate harassment by and/or of members of our community in any form**.
 
@@ -18,19 +18,22 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 ***Participants asked to stop any harassing behavior are expected to comply immediately.***
 
-Members of the community who violate these rules - no matter how much they have contributed to the Turing Way project, or how specialised their skill set - will be approached by Kirstie Whitaker. If inappropriate behaviour persists after a discussion with Kirstie, the contributor will be asked to discontinue their participation in the Turing Way project.
+## Enforcement
+Members of the community who violate these rules - no matter how much they have contributed to the Turing Way project, or how specialised their skill set - will be approached by Kirstie Whitaker.
+If inappropriate behaviour persists after a discussion with Kirstie, the contributor will be asked to discontinue their participation in the public aspects of the Turing Way project.
 
-**To report an issue** please contact [Kirstie Whitaker](https://github.com/KirstieJane). All communication will be treated as confidential.
-> Do we also want to have a more "external" person to report to? Is there someone at the Turing?
+If the behaviour also violates any conditions of the contributor's employment on the Turing Way project, Kirstie may also take action to terminate their contract to work on the Turing Way.
 
-### Flexible working hours
+***To report an issue please contact any member of the code of conduct enforcement team:***
 
-The hours that members of the lab choose to work is up to them. We are each welcome to open issues, send work-related emails or pull requests over the weekend or late at night, but no lab members are required to reply to them outside of their typical work hours.
+* Kirstie Whitaker: kwhitaker@turing.ac.uk
+* Anna Krystalli: a.krystalli@sheffield.ac.uk
+* Ben Murton: bmurton@turing.ac.uk
 
-Lab members are welcome to work flexibly for any reason. Ideally, all lab members will have at least a few hours each week to overlap with Kirstie in order to stay in touch on any challenges or successes, but it is the policy of the Whitaker Lab that every member is already self-motivated and doesn't need to work a traditional 9 to 5 day in order to meet their goals.
-> *Do we need to adjust this depending on what we decide we use as a weekly catch up or something similar?*
+All communication will be treated as confidential. The member of the enforcement team who records the report will discuss with you what actions you would like to take. Some actions may required you to de-annonymise yourself. No action will be taken before being discussed with you and without your explicit consent.
 
-**If you experience any challenges related to flexible working within the project** please contact [Kirstie Whitaker](https://github.com/KirstieJane). All communication will be treated as confidential.
+### Flexible working hours and responsibilities on the team
 
-### Responsibilities
-> PH really likes the section on responsibilities in [this template](https://github.com/dasaderi/Lab_CoC_templates/blob/master/template_v1.md) by [Daniela Saderi](https://github.com/dasaderi) but doesn't really know how we can make it fit. Maybe worth a discussion at the kick off meeting.
+More detailed information about how the team will work and responsibilites within the project team beyond this Code of Conduct are addressed in our ways of working document.
+
+
