@@ -32,8 +32,6 @@ If the behaviour also violates any conditions of the contributor's employment on
 
 All communication will be treated as confidential. The member of the enforcement team who records the report will discuss with you what actions you would like to take. Some actions may required you to de-annonymise yourself. No action will be taken before being discussed with you and without your explicit consent.
 
-### Flexible working hours and responsibilities on the team
+## Flexible working hours and responsibilities on the team
 
 More detailed information about how the team will work and responsibilites within the project team beyond this Code of Conduct are addressed in our ways of working document.
-
-
