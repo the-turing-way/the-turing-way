@@ -2,6 +2,15 @@
 
 This file will give you a little introduction to the various members of the Turing Way development team.
 
+* [Kirstie Whitaker](#kirstie-whitaker)
+* [Patricia Herterich](#patricia-herterich)
+* [Alexander Morley](#alexander-morley)
+* [Becky Arnold](#becky-arnold)
+* [Martin O’Reilly](#martin-oreilly)
+* [Anna Krystalli](#anna-krystalli)
+* [Sarah Gibson](#sarah-gibson)
+* [Louise Bowler](#louise-bowler)
+
 ### Kirstie Whitaker
 
 **Who are you?**
