@@ -33,7 +33,7 @@ As most team members do not work full time on the Turing Way, it might take some
 
 ## Project management
 ### Issues
-- Once completed, issues should be closed immediately.
+- Once completed, issues should be closed immediately. By adding closes #issue in a comment on a pull request, merging the pull request will close the issue automatically. 
 - The team will have a weekly catch up to go triage on open issues, update the project board and agree on priorities for the next week.
 
 ### Pull requests
