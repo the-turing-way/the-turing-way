@@ -12,8 +12,6 @@ A guide to reproducible data science
 
 Project leader 1: Kirstie Whitaker, The Alan Turing Institute
 
-Project leader 2: Martin O'Reilly, The Alan Turing Institute
-
 ## Project page main contact
 
 Contact name: Louise Bowler (add email)
