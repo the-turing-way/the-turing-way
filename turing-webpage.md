@@ -14,7 +14,7 @@ Project leader 1: Kirstie Whitaker, The Alan Turing Institute
 
 ## Project page main contact
 
-Contact name: Louise Bowler (add email)
+Contact name: Kirstie Whitaker (add email)
 
 Project start date: November 2018
 
