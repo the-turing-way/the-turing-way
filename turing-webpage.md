@@ -45,11 +45,10 @@ The Turing Way is a handbook to support students, their supervisors, funders and
 ## Applications
 *Where is this work being applied, what area/industry could it benefit? 100-300 words*
 
-The Turing Way will primarily be focussed towards the main developers of academic code: postdocs and PhD students. The format will be easy for the reader to dip in and out of, depending on their level of experience in the various topics. The project will help to answer questions that researchers don't always ask: *"How do I ensure that my code's existing functionality doesn't change as I extend the codebase?"*, *"How do I make my project easy for someone else to run?"*, and many more.
+The Turing Way will support everybody involved in data science research: the developers of the code (research engineers, postdocs and doctoral students), their supervisors and the business team members who coordinate these projects. The format will be easy for the reader to dip in and out of, depending on their level of experience in the various topics. The project will help to answer questions that researchers don't always ask: *"How do I ensure that my code's existing functionality doesn't change as I extend the codebase?"*, *"How do I make my project easy for someone else to run?"*, and many more.
 
-Supervisors will be catered for in the handbook as well, with key points tailored towards managing reproducible research projects highlighted for each topic covered. A chapter on Binder will be of interest to supervisors who want to regularly review their students' code, and will include the technical details of how to set up a BinderHub that will be useful for research software engineers.
+Senior team members - Turing fellows, program directors and managers - will be catered for with key points tailored towards managing reproducible research projects highlighted for each topic covered. The project will build and curate checklists for what can be done to ensure all project outputs are reproducible. A chapter on Binder will be of interest to supervisors who want to regularly review their students' code, and will include the technical details of how to set up a BinderHub that will be useful for research software engineers.
 
-The handbook will also contain useful resources for journal editors and funders, featuring checklists of what a publication or project proposal should contain for the project to be reproducible.
 
 ## Recent updates
 *Achievements/project milestones reached since project started, with month/year*
