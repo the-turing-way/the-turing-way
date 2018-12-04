@@ -8,7 +8,7 @@
 *Aim for 6 words or fewer. A clear description of the project, can be different to official academic
 name of the project, please avoid acronyms/initialisms*
 
-A guide to reproducible data science
+"The Turing Way": A handbook for reproducible data science
 
 Project leader 1: Kirstie Whitaker, The Alan Turing Institute
 
