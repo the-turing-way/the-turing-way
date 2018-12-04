@@ -40,6 +40,8 @@ The Turing Way is a handbook to support students, their supervisors, funders and
 ## Explaining the science
 *Is there theory or methods that would be good to explain to understand the project’s work better? Use plain English where possible. 100-300 words*
 
+[Can we skip this section? Check with comms.]
+
 ## Applications
 *Where is this work being applied, what area/industry could it benefit? 100-300 words*
 
