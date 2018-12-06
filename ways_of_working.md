@@ -23,7 +23,7 @@ In addition, you can reach the team members through their preferred way of commu
 - Becky Arnold:
 - Sarah Gibson:
 - Louise Bowler:
-- Patricia Herterich:
+- Patricia Herterich: if you need a quick answer, ping me on Twitter (https://twitter.com/PHerterich)
 - Rosie Higman:
 - Anna Krystalli:
 - Alex Morley:
@@ -33,7 +33,7 @@ As most team members do not work full time on the Turing Way, it might take some
 
 ## Project management
 ### Issues
-- Once completed, issues should be closed immediately. By adding closes #issue in a comment on a pull request, merging the pull request will close the issue automatically. 
+- Once completed, issues should be closed immediately. By adding closes #issue or [something similar](https://help.github.com/articles/closing-issues-using-keywords/) in a comment on a pull request, merging the pull request will close the issue automatically. 
 - The team will have a weekly catch up to go triage on open issues, update the project board and agree on priorities for the next week.
 
 ### Pull requests
