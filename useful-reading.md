@@ -1,6 +1,9 @@
 # Useful reading
 
-This is a living document collecting useful reading on the several aspects of reproducible research. These resources can either be used as a source for writing the book or further reading to point to. References highlighted with ! are not open access and the full text will be shared within the team through other means.
+This is a living document collecting useful reading on the several aspects of reproducible research and writing a book. These resources can either be used as a source for writing the book or further reading to point to. References highlighted with ! are not open access and the full text will be shared within the team through other means.
+
+## Accessibility
+GOV.UK (2018). Making your service accessible: an introduction. https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction.
 
 ## Open Access
 
@@ -28,6 +31,9 @@ Open Science Collaboration (2015). Estimating the reproducibility of psychologic
  
 Biosciences:
 Baker, M. (2015). Reproducibility crisis: Blame it on the antibodies. Nature, 521(7552), 274–276. https://doi.org/10.1038/521274a 
+
+## Reproducible workflows
+Lawrence, N. D. (2017). Data readiness levels. arXiv preprint arXiv:1705.02245. https://arxiv.org/abs/1705.02245
 
 ## Sharing of code
 
