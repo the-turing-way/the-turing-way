@@ -44,7 +44,7 @@ Most of the writing that you'll do will be in [Markdown][markdown]. You can thin
 
 ## Where to start: issues 
 
-Before 
+Before you open a new issue, please check if any of the open issues covers your idea already. If you open a new issue, please follow our basic guidelines laid out in our [issue template][issue-template].
 
 ### Issue labels
 
@@ -85,6 +85,13 @@ If you feel that we should try new tools or some aspects of the collaboration co
     We like to model best practice, so the Turing Way itself is managed through these issues. We may occasionally have some to coordinate some logistics.
     
 ## Making a change with a pull request
+> Needs to cover:
+- Open pull requests early
+- Use the WIP marker if you're not ready for the review 
+- You can submit pull requests to the OTHER PERSON'S BRANCH.
+- All the branch and fork and sync stuff that I kind of understand but cannot explain
+- Commit often
+- Write good commit messages
 
 ## Become a maintainer
 
@@ -99,6 +106,7 @@ You're awesome. :wave::smiley:
 [bids-starter-kit]: https://github.com/bids-standard/bids-starter-kit/blob/master/CONTRIBUTING.md
 [git]: https://git-scm.com
 [github]: https://github.com
+[issue-template]: https://github.com/alan-turing-institute/the-turing-way/blob/master/ISSUE_TEMPLATE.md
 [labels-link]: https://github.com/alan-turing-institute/the-turing-way/labels
 [labels-bug]: https://github.com/alan-turing-institute/the-turing-way/labels/bug
 [labels-community]: https://github.com/alan-turing-institute/the-turing-way/labels/community
