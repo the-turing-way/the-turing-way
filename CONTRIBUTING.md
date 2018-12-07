@@ -70,9 +70,18 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
  This is all about collaborating, so please let us know how we can best support you as a community member.
  
-* [![Bug](https://img.shields.io/badge/-bug-ee0701.svg)][labels-bug] *These issues are reporting a problem or a mistake in the project.*
+* [![Bug](https://img.shields.io/badge/-bug-d73a4a.svg)][labels-bug] *These issues are reporting a problem or a mistake in the project.*
 
     The more details you can provide the better! If you know how to fix the bug, please open an issue first and then submit a pull request :sparkles:
+
+* [![Book](https://img.shields.io/badge/-book-c5bcff.svg)][labels-book] *These issues cover everything around the process of writing the book.*
+
+* [![workshops](https://img.shields.io/badge/-workshops-c1663c.svg)][labels-workshops] *These issues help us organise our workshops.*
+
+* [![project-management](https://img.shields.io/badge/-project-management-bfd86c.svg)][labels-project-management] *We like to model best practice, so the Turing Way itself is managed through these issues. These issues help us to coordinate some logistics.*
+
+* [![jupyter](https://img.shields.io/badge/-jupyter-F37726.svg)][labels-jupyter] *
+
 
 * [![Tools](https://img.shields.io/badge/-tools-a3e07d.svg)][labels-tools] *These issues discuss tools we use for collaboration*
 
@@ -82,16 +91,16 @@ If you feel that we should try new tools or some aspects of the collaboration co
 
 * [![Comms](https://img.shields.io/badge/-comms-15c4b2.svg)][labels-comms] *These issues discuss how we as a project interact with other initiatives.*
 
-    We like to model best practice, so the Turing Way itself is managed through these issues. We may occasionally have some to coordinate some logistics.
+    
     
 ## Making a change with a pull request
 > Needs to cover:
-- Open pull requests early
-- Use the WIP marker if you're not ready for the review 
-- You can submit pull requests to the OTHER PERSON'S BRANCH.
-- All the branch and fork and sync stuff that I kind of understand but cannot explain
-- Commit often
-- Write good commit messages
+> - Open pull requests early
+> - Use the WIP marker if you're not ready for the review 
+> - You can submit pull requests to the OTHER PERSON'S BRANCH.
+> - All the branch and fork and sync stuff that I kind of understand but cannot explain
+> - Commit often
+> - Write good commit messages
 
 ## Become a maintainer
 
@@ -108,6 +117,7 @@ You're awesome. :wave::smiley:
 [github]: https://github.com
 [issue-template]: https://github.com/alan-turing-institute/the-turing-way/blob/master/ISSUE_TEMPLATE.md
 [labels-link]: https://github.com/alan-turing-institute/the-turing-way/labels
+[labels-book]
 [labels-bug]: https://github.com/alan-turing-institute/the-turing-way/labels/bug
 [labels-community]: https://github.com/alan-turing-institute/the-turing-way/labels/community
 [labels-comms]: https://github.com/alan-turing-institute/the-turing-way/labels/comms
