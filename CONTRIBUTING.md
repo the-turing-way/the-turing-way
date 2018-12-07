@@ -4,7 +4,9 @@
 
 :dizzy::hatched_chick::sunny: *We're so excited you're here and want to contribute.* :sunny::hatched_chick::dizzy:
 
-The point of this starter kit is to **welcome new users and contributors to the Turing Way community**. We hope that these guidelines are designed to make it as easy as possible to get involved. If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
+The point of this starter kit is to **welcome new users and contributors to the Turing Way community**. We hope that these guidelines are designed to make it as easy as possible to get involved. Good is better than perfect - we welcome all contributions and would love it if you could follow these guidelines to make sure your contributions can easily integrated but exiting ideas are as important as good pull requests. :heart: 
+<br>
+If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
 
 ## Table of contents
 
@@ -13,7 +15,9 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 * [Joining the community](#joining-the-community)
 * [Get in touch](#get-in-touch)
 * [Contributing through GitHub](#contributing-through-github)
-* [Where to start: issue labels](#where-to-start-issue-labels)
+* [Where to start: issues](#where-to-start-issues)
+* [Making a change with a pull request](#making-a-change-with-a-pull-request)
+* [Become a maintainer](#become-a-maintainer)
 
 ## Joining the community
 
@@ -21,7 +25,8 @@ The Turing Way community We therefore require that all contributions **adhere to
 
 ## Get in touch
 
-You can contact the PI of the Turing Way project - Kirstie Whitaker - by email at kwhitaker@turing.ac.uk. 
+Ping us in our [gitter channel](https://gitter.im/WhitakerLab/the-turing-way).\
+You can also contact the PI of the Turing Way project - Kirstie Whitaker - by email at kwhitaker@turing.ac.uk. 
 
 ## Contributing through GitHub
 
@@ -37,7 +42,11 @@ GitHub has a helpful page on [getting started with writing and formatting on Git
 
 Most of the writing that you'll do will be in [Markdown][markdown]. You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting. For example you could write words as bold (`**bold**`), or in italics (`*italics*`), or as a [link][rick-roll] (`[link](https://https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
 
-## Where to start: issue labels
+## Where to start: issues 
+
+Before 
+
+### Issue labels
 
 The list of labels for current issues can be found [here][turing-way-labels] and includes:
 
@@ -75,7 +84,19 @@ If you feel that we should try new tools or some aspects of the collaboration co
 
     We like to model best practice, so the Turing Way itself is managed through these issues. We may occasionally have some to coordinate some logistics.
     
+## Making a change with a pull request
 
+## Become a maintainer
+
+## Thank you!
+
+You're awesome. :wave::smiley:
+
+<br>
+
+*&mdash; Based on contributing guidelines from the [BIDS Starter Kit][bids-starter-kit] project.*
+
+[bids-starter-kit]: https://github.com/bids-standard/bids-starter-kit/blob/master/CONTRIBUTING.md
 [git]: https://git-scm.com
 [github]: https://github.com
 [labels-link]: https://github.com/alan-turing-institute/the-turing-way/labels
