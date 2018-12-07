@@ -78,7 +78,7 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
 * [![workshops](https://img.shields.io/badge/-workshops-c1663c.svg)][labels-workshops] *These issues help us organise our workshops.*
 
-* [![project-management](https://img.shields.io/badge/-project-management-bfd86c.svg)][labels-project-management] *We like to model best practice, so the Turing Way itself is managed through these issues. These issues help us to coordinate some logistics.*
+* [![project-management](https://img.shields.io/badge/-project%20management-bfd86c.svg)][labels-project-management] *We like to model best practice, so the Turing Way itself is managed through these issues. These issues help us to coordinate some logistics.*
 
 * [![jupyter](https://img.shields.io/badge/-jupyter-F37726.svg)][labels-jupyter] *Everything related to building a BinderHub*
 
