@@ -80,8 +80,7 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
 * [![project-management](https://img.shields.io/badge/-project-management-bfd86c.svg)][labels-project-management] *We like to model best practice, so the Turing Way itself is managed through these issues. These issues help us to coordinate some logistics.*
 
-* [![jupyter](https://img.shields.io/badge/-jupyter-F37726.svg)][labels-jupyter] *
-
+* [![jupyter](https://img.shields.io/badge/-jupyter-F37726.svg)][labels-jupyter] *Everything related to building a BinderHub*
 
 * [![Tools](https://img.shields.io/badge/-tools-a3e07d.svg)][labels-tools] *These issues discuss tools we use for collaboration*
 
@@ -117,16 +116,19 @@ You're awesome. :wave::smiley:
 [github]: https://github.com
 [issue-template]: https://github.com/alan-turing-institute/the-turing-way/blob/master/ISSUE_TEMPLATE.md
 [labels-link]: https://github.com/alan-turing-institute/the-turing-way/labels
-[labels-book]
+[labels-book]: https://github.com/alan-turing-institute/the-turing-way/labels/book
 [labels-bug]: https://github.com/alan-turing-institute/the-turing-way/labels/bug
 [labels-community]: https://github.com/alan-turing-institute/the-turing-way/labels/community
 [labels-comms]: https://github.com/alan-turing-institute/the-turing-way/labels/comms
 [labels-enhancement]: https://github.com/alan-turing-institute/the-turing-way/labels/enhancement
 [labels-firstissue]: https://github.com/alan-turing-institute/the-turing-way/labels/good%20first%20issue
 [labels-helpwanted]: https://github.com/alan-turing-institute/the-turing-way/labels/help%20wanted
+[labels-jupyter]: https://github.com/alan-turing-institute/the-turing-way/labels/jupyter
+[labels-project-management]: https://github.com/alan-turing-institute/the-turing-way/labels/project%20management
 [labels-question]: https://github.com/alan-turing-institute/the-turing-way/labels/question
 [labels-tools]: https://github.com/alan-turing-institute/the-turing-way/labels/tools
 [labels-travel]: https://github.com/alan-turing-institute/the-turing-way/labels/travel
+[labels-workshops]: https://github.com/alan-turing-institute/the-turing-way/labels/workshops
 [markdown]: https://daringfireball.net/projects/markdown
 [rick-roll]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [turing-way-labels]: https://github.com/alan-turing-institute/the-turing-way/labels
