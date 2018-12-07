@@ -39,7 +39,7 @@ Conferences will be a great opportunity to spread the word. The following confer
   Attendee(s):
 
 - Collaborations Workshop 2019, 1 - 3 April 2019, Loughborough\
-  Attendee(s): Kirstie
+  Attendee(s): Kirstie, Alex
 
 - Inaugural meeting of the UK network of Open Science Working Groups, 11 April 2019, Aston University, Birmingham\
   Attendee(s): Kirstie, 
@@ -59,8 +59,14 @@ All The Turing Way project team members are encouraged to engage with local rele
 - Reproducible Research drop-ins
 - Pizza parties scheduled around project meetings in London
 
+### Oxford
+- Reproducible Research Oxford
+- Oxford Neuroscience
+
 ### Other
 - OpenCon Librarian call updates
+- Mozilla (Global Sprint / Mozfest)
+- eLife?
 
 
 ## Twitter, Facebook and other social media
@@ -70,7 +76,7 @@ Any blog posts and announcements will be promoted through the project members' T
 - @pherterich
 - @kirstie_j
 - @annakrystalli
-- @alex_morley
+- @alex__morley (+ @mozilla for main release)
 - @martinoreilly
 
 ## Workshops
