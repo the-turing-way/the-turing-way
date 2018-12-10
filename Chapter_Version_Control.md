@@ -1,6 +1,10 @@
 # Version Control
 
+## General thoughts
 
+*Thoughts here and throughout will be in italics*
+
+*Should empahsis that version control is also useful when working alone, not just in collaborations*
 
 ## Why would you use version control software and hosting (such as GitHub)?
 
