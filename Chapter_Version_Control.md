@@ -4,7 +4,7 @@
 
 *Thoughts here and throughout will be in italics*
 
-*Should empahsis that version control is also useful when working alone, not just in collaborations*
+*Should empahsise that version control is also useful when working alone, not just in collaborations*
 
 ## Why would you use version control software and hosting (such as GitHub)?
 
@@ -18,16 +18,33 @@ From [here](https://guide.esciencecenter.nl/best_practices/version_control.html)
 
 --------
 
+From [here](http://crlionline.net/node/198). **No license but active, could reach out**
 
+If you are not ready for this yet, you will be at some time - when you have felt the horror of loosing days if not weeks of work. But versioning is useful for less dramatic purposes as well, not only for backup. For instance, to help you understand why in the past you made certain changes, why you did a certain analysis in the way you did it. Or you simply want to undo a change in your analysis. Or because you want to keep an audit trail of your analysis. Or to share it with others. 
 
+You yourself understand what the saved file does, even weeks or months later;
+Others can easier understand what you did. This is helpful should you want to share your analysis (not only your data), and/or make it auditable--more generally, reproducible, which is good scientific practice. 
+This has the additional benefit that you need to understand for yourself what it is you just did. 
+
+When you restore from a backup, you are going back in time: I want to restore the last version, or to yesterday's (last week's) version. When you restore from a versioning system, you go back to a decision: I want to restore my former version, or an alternative version (a different branch),  because that one turns out to be the better solution or approach. Backup is a special case of versioning. 
+
+There are numerous tools for versioning, and the best know one is git and its web-based version, Github. (They are not really strongly different, in that you can use GitHub as the remote repository for your local git repository). 
+
+-----
+
+From [here](http://who-t.blogspot.com/2009/12/on-commit-messages.html). **Creative Commons
+Attribution License (http://creativecommons.org/licenses/by/2.0)**
+
+*Other useful stuff in this paper, could use their into as part of the book's intro*
+
+All scientists use version control in one form or another at various stages of their research projects, from the data collection all the way to manuscript preparation. This process is often informal and haphazard, where multiple revisions of papers, code, and datasets are saved as duplicate copies with uninformative file names (e.g. draft 1.doc, draft 2.doc). As authors receive new data and feedback from peers and collaborators, maintaining those versions and merging changes can result in an unmanageable proliferation of files. One solution to these problems would be to use a formal Version Control System (VCS), which have long been used in the software industry to manage code. A key feature common to all types of VCS is that ability save versions of files during development along with informative
+comments which are referred to as commit messages. Every change and accompanying notes are stored independent of the files, which obviates the need for duplicate copies. Commits serve as checkpoints where individual files or an entire project can be safely reverted to when necessary. Most traditional VCS are centralized which means that they require a connection to a central server which maintains the master copy. Users with appropriate privileges can check out copies, make changes, and upload them back to the server.
 
 ## Git
 
-### Commits & commit messages
-
 ### Commits
 
-From [here](http://who-t.blogspot.com/2009/12/on-commit-messages.html). **No License, but blog still active, could reach out**
+From [here](https://scfbm.biomedcentral.com/track/pdf/10.1186/1751-0473-8-7). **No License, but blog still active, could reach out**
 
 A commit should contain exactly one logical change. A logical change includes adding a new feature, fixing a specific bug, etc. If it's not possible to describe the high level change in a few words, it is most likely too complex for a single commit. The diff itself should be as concise as reasonably possibly and it's almost always better to err on the side of too many patches than too few. As a rule of thumb, given only the commit message, another developer should be able to implement the same patch in a reasonable amount of time.
 
@@ -42,7 +59,7 @@ It's easier and less time consuming to first rework the infrastructure one piece
 
 ----
 
-#### Commit messages
+### Commit messages
 
 
 From [here](https://guide.esciencecenter.nl/best_practices/version_control.html). **Creative Commons Attribution 4.0 International License**
