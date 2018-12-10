@@ -6,7 +6,15 @@
 
 *Should empahsise that version control is also useful when working alone, not just in collaborations*
 
-## Why would you use version control software and hosting (such as GitHub)?
+*Talk about how to get past versions.*
+
+## What is version control
+
+*Should definetly have a diagram*
+
+*Should this section go before, after, or combined with why you should use it section?*
+
+## Why would you use version control?
 
 
 From [here](https://guide.esciencecenter.nl/best_practices/version_control.html). **Creative Commons Attribution 4.0 International License**
@@ -96,6 +104,10 @@ By [Thom Holwerda](http://www.osnews.com/story/19266/WTFs_m). **Says anyone can 
 
 ![wtf_per_min](http://www.osnews.com/images/comics/wtfm.jpg)
 
+## Branches
 
+## Merging
+
+### Resolving merge conflicts
 
 ## Github
