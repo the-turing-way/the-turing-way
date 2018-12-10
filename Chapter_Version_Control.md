@@ -8,6 +8,8 @@
 
 *Talk about how to get past versions.*
 
+*Should at least mention version control software other than git.*
+
 ## What is version control
 
 *Should definetly have a diagram*
@@ -51,8 +53,6 @@ comments which are referred to as commit messages. Every change and accompanying
 When data are analyzed programmatically using software such as R and Python, code files start out small and often become more complex over time. Somewhere along the process, inadvertent errors such as misplaced subscripts and incorrectly applied functions can lead to serious errors down the line. When such errors are discovered well into a project, comparing versions of statistical scripts can provide a way to quickly trace the source of the problem and recover from them.
 
 Similarly, figures that are published in a paper often undergo multiple revisions before resulting in a final version that gets published. Without version control, one would have to deal with multiple copies and use imperfect information such as file creation dates to determine the sequence in which they were generated. Without additional information, figuring out why certain versions were created (e.g. in response to comments from coauthors) also becomes more difficult. When figures are managed with Git, the commit messages (e.g. “Updated figure in response to Ethan’s comments regarding use of normalized data.”) provide an unambiguous way to track various versions.
-
-## Git
 
 ### Commits
 
@@ -110,4 +110,16 @@ By [Thom Holwerda](http://www.osnews.com/story/19266/WTFs_m). **Says anyone can 
 
 ### Resolving merge conflicts
 
+## Git
+
+*I think this section should go over the comand line nitty-gritty. The explanation of what branches are etc should all be done before that because that's common to all VC, this section is git specific, and command line specific*
+
+*There's a how too [here](https://tonysyu.github.io/source-control-for-scientists-and-soloists.html#.XA6Q3mj7RPY). Basic but something to build on.* **No License, but github still active, could reach out**
+
+*Very detailed how to [here](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter).* **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.**
+
+
+
 ## Github
+
+*I think this section should go over how to do this in the browser/gui nitty-gritty. Again, the explanation of what branches are etc should all be done before.*
