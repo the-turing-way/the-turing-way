@@ -20,7 +20,7 @@ We're always around for a chat in our public gitter channel: https://gitter.im/W
 
 In addition, you can reach the team members through their preferred way of communication:
 - Kirstie Whitaker:
-- Becky Arnold:
+- Becky Arnold: email r.j.arnold.uk@gmail.com
 - Sarah Gibson:
 - Louise Bowler:
 - Patricia Herterich: if you need a quick answer, ping me on Twitter (https://twitter.com/PHerterich)
