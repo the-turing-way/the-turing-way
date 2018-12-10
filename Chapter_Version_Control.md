@@ -118,8 +118,12 @@ By [Thom Holwerda](http://www.osnews.com/story/19266/WTFs_m). **Says anyone can 
 
 *Very detailed how to [here](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter).* **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.**
 
+*Very lightweight guide [here](http://rogerdudler.github.io/git-guide/)* **No license, no activity on github past year**
+
 
 
 ## Github
 
 *I think this section should go over how to do this in the browser/gui nitty-gritty. Again, the explanation of what branches are etc should all be done before.*
+
+*Detailed guide of how to use github [here](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)* **No visible license could try reaching out**
