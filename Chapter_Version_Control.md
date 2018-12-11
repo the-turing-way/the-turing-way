@@ -6,7 +6,7 @@
 
 *Maybe make the principle why you should use this as "Version control removes risk." It's a neat four-word takeaway. Follow up, maybe "Using version control keeps every version of your project stored and safe, so if future changes break you code irretrievably, or something is deleted that you later need it's the matter of seconds to retrieve your past versions. It also keeps your working directory neat..."*
 
-*Should empahsise that version control is also useful when working alone, not just in collaborations*
+*Should emphasise that version control is also useful when working alone, not just in collaborations*
 
 *Talk about how to get past versions.*
 
@@ -42,7 +42,7 @@ all the why and all the how means a person who's reading about version control c
 
 ## What is version control
 
-*Should definetly have a diagram, couldon't find one I liked so I made this one. We could replace it with a better one later*
+*Should definitely have a diagram, couldn't find one I liked so I made this one. We could replace it with a better one later*
 
 ![github_diagram](figures/github_diagram.jpg)
 
@@ -54,7 +54,7 @@ all the why and all the how means a person who's reading about version control c
 
 From [here](https://guide.esciencecenter.nl/best_practices/version_control.html). **Creative Commons Attribution 4.0 International License**
 
-- **Reproducability** By using version control, you never lose previous versions of the software. This also gives you a log of changes and allows you to understand what happened.
+- **Reproducibility** By using version control, you never lose previous versions of the software. This also gives you a log of changes and allows you to understand what happened.
 - **Backup** Version control is usually pushed to an external a shared server, which immediately provides a backup.
 - **Integration** Version control software and host makes it more easy to integrate with other software that support modern software development, such as testing (continuous integration ,automatically run tests, build documentation, check code style, integration with bug-tracker, code review infrastructure, comment on code).
 - **Easier to collaborate** Version control makes it easier to work on the same code simultaneously, while everyone still has a well defined version of the software (in contrast to a google-docs or shared file system type of system). Moreover, version control hosting websites such as Github provide way to communicate in a more structed way, such as in code reviews, about commits and about issues.
@@ -114,11 +114,11 @@ Commit messages are the way for other developers to understand changes in the co
 
 From [here](http://who-t.blogspot.com/2009/12/on-commit-messages.html). **No License, but blog still active, could reach out**
 
-Any software project is a collaborative project. It has at least two developers, the original developer and the original developer a few weeks or months later when the train of thought has long left the station. This later self needs to reestablish the context of a particular piece of code each time a new bug occurs or a new feature needs to be implemented. Re-establishing the context of a piece of code is wasteful. We can't avoid it completely, so our efforts should go to reducing it to as small as possible.
+Any software project is a collaborative project. It has at least two developers, the original developer and the original developer a few weeks or months later when the train of thought has long left the station. This later self needs to re-establish the context of a particular piece of code each time a new bug occurs or a new feature needs to be implemented. Re-establishing the context of a piece of code is wasteful. We can't avoid it completely, so our efforts should go to reducing it to as small as possible.
 
 A good commit message should answer three questions about a patch:
 
-- **Why is it necessary?** It may fix a bug, it may add a feature, it may improve performance, reliabilty, stability, or just be a change for the sake of correctness.
+- **Why is it necessary?** It may fix a bug, it may add a feature, it may improve performance, reliability, stability, or just be a change for the sake of correctness.
 - **How does it address the issue?** For short obvious patches this part can be omitted, but it should be a high level description of what the approach was.
 - **What effects does the patch have?** (In addition to the obvious ones, this may include benchmarks, side effects, etc.)
 
