@@ -4,9 +4,13 @@
 
 *Thoughts here and throughout will be in italics*
 
+*Maybe make the principle why you should use this as "Version control removes risk." It's a neat four-word takeaway. Follow up, maybe "Using version control keeps every version of your project stored and safe, so if future changes break you code irretrievably, or something is deleted that you later need it's the matter of seconds to retrieve your past versions. It also keeps your working directory neat..."*
+
 *Should empahsise that version control is also useful when working alone, not just in collaborations*
 
 *Talk about how to get past versions.*
+
+*Need to mention git status and git log somewhere.*
 
 *Should at least mention version control software other than git.*
 
@@ -108,6 +112,17 @@ By [Thom Holwerda](http://www.osnews.com/story/19266/WTFs_m). **Says anyone can 
 
 ## Branches
 
+*Think we should go over deleting branches before we go over merging. Deleting's quicker and easier to explain.*
+
+From [here](https://opensource.com/article/18/5/git-branching) **Creative Commons license**
+The main reasons for having branches are:
+
+- If you are creating a new feature for your project, there's a reasonable chance that adding it could break your working code. This would be very bad for active users of your project. It's better to start with a prototype, which you would want to design roughly in a different branch and see how it works, before you decide whether to add the feature to the repo's master for others to use.
+- Another, probably more important, reason is Git was made for collaboration. If everyone starts programming on top of your repo's master branch, it will cause a lot of confusion. Everyone has different knowledge and experience (in the programming language and/or the project); some people may write faulty/buggy code or simply the kind of code/feature you may not want in your project. Using branches allows you to verify contributions and select which to add to the project. (This assumes you are the only owner of the repo and want full control of what code is added to it. In real-life projects, there are multiple owners with the rights to merge code in a repo.)
+
+
+-------
+
 From [here](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) **GNU GENERAL PUBLIC LICENSE Version 3**
 
 Create the branch on your local machine and switch in this branch :
@@ -159,9 +174,22 @@ Delete the branch on github :
 ```
 $ git push origin :[name_of_your_new_branch]
 ```
+
+-------
+
+
+
+
+
+
+
+
+
 ## Merging
 
 ### Resolving merge conflicts
+
+## Forks
 
 ## Git
 
