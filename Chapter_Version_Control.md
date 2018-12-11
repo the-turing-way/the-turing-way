@@ -46,9 +46,8 @@ all the why and all the how means a person who's reading about version control c
 
 ![github_diagram](figures/github_diagram.jpg)
 
-*Should explain the concept of branches and merging here while I've got the diagram, but leave the details (e.g merge conflicts, what makes a good commit message) for later.
+*Should explain the concept of branches and merging here while I've got the diagram, but leave the details (e.g merge conflicts, what makes a good commit message) for later.*
 
-*Should this section go before, after, or combined with why you should use it section?*
 
 ## Why would you use version control?
 
@@ -90,18 +89,17 @@ Similarly, figures that are published in a paper often undergo multiple revision
 
 ### Commits
 
-From [here](https://scfbm.biomedcentral.com/track/pdf/10.1186/1751-0473-8-7). **No License, but blog still active, could reach out**
+From [here](http://who-t.blogspot.com/2009/12/on-commit-messages.html). **No License, but blog still active, reached out 11/12/18**
 
-A commit should contain exactly one logical change. A logical change includes adding a new feature, fixing a specific bug, etc. If it's not possible to describe the high level change in a few words, it is most likely too complex for a single commit. The diff itself should be as concise as reasonably possibly and it's almost always better to err on the side of too many patches than too few. As a rule of thumb, given only the commit message, another developer should be able to implement the same patch in a reasonable amount of time.
+A commit should contain exactly one logical change. A logical change includes adding a new feature, fixing a specific bug, etc. If it's not possible to describe the high level change in a few words, it is most likely too complex for a single commit. It's almost always better to err on the side of too many commits than too few.
 
 Don't do:
 
 - Per-file commits. More often than not a logical change affects more than one file and it should not be split up into two commits.
-- Two changes in one patch. Something like "Fixed bug 2345 and renamed all foo to bar". Unless bug 2345 required the renaming, fixes whould be split it up into multiple patches. Others may have to take one of those bug fixes and apply it to a stable branch but not the other one. Picking bad patches apart into useful chunks is one of the most time-consuming and frustrating things I've done since it doesn't actually add any value to the project.
-- Whitespace changes together with code changes. Needle in a haystack is a fun game, but not when you're looking at patches. It's a great way to introduce bugs, though because almost no-one will spot the bug hidden in hundreds of lines that got reindented for fun and profit.
-- The ever-so-lovely code drops. Patches with hundreds of lines of code to dump a new feature into the code while at the same time rewriting half the existing infrastructure to support this feature. As a result, those hundreds of lines of code need to be reviewed every time a bug is discovered that is somehow related to that area of code.
+- Two changes in one commit. Something like "Fixed bug 2345 and renamed all foo to bar". Unless bug 2345 required the renaming you should split these into two commits. If you or a collaborator want to come back to a commit containing multiple changes to modify it or reuse only some of the changes it contains then problems quickly arise. Picking bad commits apart into useful chunks extremely time-consuming and frustrating since it doesn't actually add any value to the project.
+- Whitespace changes together with code changes. Needle in a haystack is a fun game, but not when you're looking at commits. It's a great way to introduce bugs, though because almost no-one will spot the bug hidden in hundreds of lines that got reindented for fun and profit.
+- Code drops, i.e. commits with hundreds of lines of code which dump in a new feature while at the same time rewriting half the existing infrastructure to support this feature. As a result, those hundreds of lines of code need to be reviewed every time a bug is discovered that is somehow related to that area of code.
 It's easier and less time consuming to first rework the infrastructure one piece at a time, then plug the new feature on top. As a side-effect, if a project relies on code dumps too often it's discouraging outside developers. Would you like to contribute to a project where the time spent filtering the signal from the noise outweighs the actual contribution to the code?
-- Unrelated whitespace changes in patches. A reviewer needs to get the big picture of a patch into their brains. Whitespace-only hunks just confuse, a reviewer has to look extra hard to check if there's a real change or whether it can be ignored. That's not so bad for empty lines added or removed,it's really bad for indentation changes.
 
 ----
 
