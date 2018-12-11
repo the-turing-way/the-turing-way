@@ -10,15 +10,43 @@
 
 *Talk about how to get past versions.*
 
+*How should I combine high level explanation of what version control CAN do vs step by step of HOW to do it in git and github? Meshing it together seems like I'm trying to explain too many things at once, and git isn't the only version control software out there. However completly separating the
+all the why and all the how means a person who's reading about version control can't follow easily, they'd have to scroll a lot from what is a commit to how do you make one. Hmmm.*    
+
 *Need to mention git status and git log somewhere.*
 
 *Should at least mention version control software other than git.*
+
+------
+
+## *Structure*
+
+- *What is version control*
+  - *Should keep this high level, include the diagram, go over the very basics of branches and merging
+- *Why you should use version control*
+  - *First paragraph, core benefits focusing on how it helps the USER, convince people this is something they should invest time in to help thier research in the long term. Keeps versions safe and recoverable, keeps things tidy, enables collaboration
+  - *How it benefits science, reproducibility etc. Maybe not that relevant here, maybe more open source's thing?*
+- *How to use version control for your own project and how to use it well*
+  - *Say this is split into how to do it and how to do it well. In terms of how to do it we're going to give the actual commands to do all this in git because widely used, but the info on good practise, i.e. how to do it well, is still relevant even if you're using other VC software like mercurial.
+  - Set up a repo, git init. Don't talk about putting it online yet.
+  - Say how to make a commit
+    - Best practice for committing, e.g. keep bitesized
+    - Best practise for commit messages. e.g. make them meaningful.
+  - Say how to make branches
+    - Best practise for branches, i.e. make changes on them, keep master clean.
+  - How to merge
+    - Resolving merge conflicts
+- How to use version control to collaborate. Say should understand how to use it for your own project before trying to understand how to do it with other people, if reading this section need to read (or already understand) previous one.
+  - Divide into if it's your project people are collaborating on, and collaborating on someone else's?
+
 
 ## What is version control
 
 *Should definetly have a diagram, couldon't find one I liked so I made this one. We could replace it with a better one later*
 
 ![github_diagram](figures/github_diagram.jpg)
+
+*Should explain the concept of branches and merging here while I've got the diagram, but leave the details (e.g merge conflicts, what makes a good commit message) for later.
 
 *Should this section go before, after, or combined with why you should use it section?*
 
