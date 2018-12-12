@@ -12,6 +12,8 @@ conda create --name py3binder python=3.6
 conda activate py3binder
 ```
 
+Any executed code or installed packages should be within this environment where possible.
+
 ## Following the Zero-to-BinderHub Documentation
 
 [Docs Here](https://binderhub.readthedocs.io/en/latest/)
@@ -67,6 +69,26 @@ Working through these tutorials:
 * `kubectl set image deployments/current_deployment current_deployment=new_deployment` - initiated a _rolling update_ for the new deployment
 * `kubectl rollout undo __` - rollback an image to a previous working version
  
+ **Installing Minikube**
+ 
+ [Docs here](https://kubernetes.io/docs/tasks/tools/install-minikube/)
+ 
+ Requirements: Hypervisor (I chose VisualBox for macOSX)
+ 
+ Install `kubectl` via `homebrew`:
+ ```
+ brew install kubernetes-cli
+ ```
+ 
+ Tested installation by printing version:
+ ```
+ kubectl version
+ ```
+ But threw an error:
+ ```
+ Client Version: version.Info{Major:"1", Minor:"13", GitVersion:"v1.13.0", GitCommit:"ddf47ac13c1a9483ea035a79cd7c10005ff21a6d", GitTreeState:"clean", BuildDate:"2018-12-04T07:48:45Z", GoVersion:"go1.11.2", Compiler:"gc", Platform:"darwin/amd64"}
+The connection to the server localhost:8080 was refused - did you specify the right host or port?
+ ```
 
 ### 1. Installing Helm
 
