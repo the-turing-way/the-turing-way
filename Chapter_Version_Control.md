@@ -13,7 +13,7 @@
 *How should I combine high level explanation of what version control CAN do vs step by step of HOW to do it in git and github? Meshing it together seems like I'm trying to explain too many things at once, and git isn't the only version control software out there. However completly separating the
 all the why and all the how means a person who's reading about version control can't follow easily, they'd have to scroll a lot from what is a commit to how do you make one. Hmmm.*    
 
-*Need to mention git status and git log somewhere.*
+*Need to mention git status, git diff, and git log somewhere. Might be worth having a summarising table with commands and what they do.*
 
 *Should at least mention version control software other than git.*
 
@@ -103,8 +103,16 @@ It's easier and less time consuming to first rework the infrastructure one piece
 
 ----
 
-### Commit messages
+From [here](https://githowto.com/undoing_committed_changes). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
 
+To cancel the commit, we need to create a commit that deletes the changes saved by unwanted commit.
+
+RUN:
+```
+git revert HEAD
+```
+
+### Commit messages
 
 From [here](https://guide.esciencecenter.nl/best_practices/version_control.html). **Creative Commons Attribution 4.0 International License**
 
@@ -321,6 +329,207 @@ $ git commit -m "Merged master fixed conflict."
 Recorded resolution for 'lib/hello.html'.
 [style 645c4e6] Merged master fixed conflict.
 ```
+
+------
+
+From [here](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)**
+
+#### Two ways git merge/git pull can fail
+There are 2 ways in which git merge (or a git pull, which is a git fetch and then a git merge) can fail:
+
+#### Git can fail to start the merge
+This occurs because git knows there are changes in either your working directory or staging area that could be written over by the files that you are merging in. If this happens, there are no merge conflicts in individual files. You need to modify or stash the files it lists and then try to do a git pull again. The error messages are as follows:
+
+```
+error: Entry '<fileName>' not uptodate. Cannot merge. (Changes in working directory)
+```
+or
+```
+error: Entry '<fileName>' would be overwritten by merge. Cannot merge. (Changes in staging area)
+```
+
+#### Git can fail during the merge
+This occurs because you have committed changes that are in conflict with someone else's committed changes. Git will do its best to merge the files and will leave things for you to resolve manually in the files it lists. The error message is as follows:
+
+```
+CONFLICT (content): Merge conflict in <fileName>
+Automatic merge failed; fix conflicts and then commit the result.
+```
+
+#### Common questions for when git fails during the merge
+
+How do I know which files have conflicts in them?
+If your merge failed to even start, there will be no conflicts in files. If git finds conflicts during the merge, it will list all files that have conflicts after the error message. You can also check on which files have merge conflicts by doing a 'git status'.
+
+Example:
+
+```
+   Changes to be committed:
+     (use "git reset HEAD <file>..." to unstage)
+
+  	modified:   <Some file>
+
+   Changed but not updated:
+     (use "git add <file>..." to update what will be committed)
+     (use "git checkout -- <file>..." to discard changes in working directory)
+
+  	unmerged:   <file>
+
+```
+"Changes to be committed": All committed changes to files that are not affected by the conflict are staged.
+
+"Changed but not updated ... unmerged": All files that have conflicts that must be resolved before repository will be back to working order.
+
+How do I find conflicts within the file itself?
+Conflicts are marked in a file with clear line breaks:
+
+```
+ <<<<<<< HEAD:mergetest
+ This is my third line
+ =======
+ This is a fourth line I am adding
+ >>>>>>> 4e2b407f501b68f8588aa645acafffa0224b9b78:mergetest
+```
+```<<<<<<<```: Indicates the start of the lines that had a merge conflict. The first set of lines are the lines from the file that you were trying to merge the changes into.
+
+```=======```: Indicates the break point used for comparison. Breaks up changes that user has committed (above) to changes coming from merge (below) to visually see the differences.
+
+```>>>>>>>```: Indicates the end of the lines that had a merge conflict.
+
+How do I resolve a merge conflict in a file?
+You resolve a conflict by editing the file to manually merge the parts of the file that git had trouble merging. This may mean discarding either your changes or someone else's or doing a mix of the two. You will also need to delete the '<<<<<<<', '=======', and '>>>>>>>' in the file.
+
+What do I do after I've resolved conflicts in all affected files?
+git add the file(s), git commit and git push (Push only for branches tracked.)
+
+(Note added by Chin - need to commit everything, not just the resolved conflict file.)
+
+#### Tools to help you resolve both types of merge conflicts
+The following git tools below can help you resolve both simple and more complicated git merges.
+
+General tools
+```
+git diff
+```
+
+git diff: a command that helps find differences between states of a repository/files. Useful in predicting and preventing merge conflicts.
+
+git diff origin/master <fileName>: Find the differences between the current index (HEAD) of fileName and what is in the central repository (origin/msater)
+
+```
+diff --git a/mergetest b/mergetest
+index 9be56b9..0aeffac 100644
+--- a/mergetest
++++ b/mergetest
+@@ -1,3 +1,4 @@
+ hello
++I am also editing this line
+ This is a test
+-This is my third line
++This is a fourth line I am adding
+```
+Changes coming from origin/master are marked with +, while changes that are in your local repository (HEAD) are marked with -. This syntax does not notify which lines are added are deleted but just which lines originate in which state of the file.
+
+git diff FETCH_HEAD <fileName>: Will provide the same output as above except is limited to the index of the last fetch that the user did. This may not be latest revision in the central repository.
+
+```
+git status
+```
+git status: a command provides an overview of all files that have been modified and are in conflict at the time of the merge.
+
+Example:
+```
+    Changes to be committed:
+      (use "git reset HEAD <file>..." to unstage)
+
+   	modified:   <Some file>
+
+    Changed but not updated:
+      (use "git add <file>..." to update what will be committed)
+      (use "git checkout -- <file>..." to discard changes in working directory)
+
+   	unmerged:   <file>
+
+```
+"Changes to be committed": All changes to files that are not affected by the conflict are staged.
+"Changed but not updated ... unmerged": All files that have conflicts that must be resolved before repository will be back to working order.
+Tools specifically for when git refuses to start merge
+
+```
+git stash
+```
+IMPORTANT: Do not use git stash if git went through with the merge and there were merge conflicts! Only use git stash if git refused to merge because it foresees there being conflicts.
+
+git stash: stashes away any changes in your staging area and working directory. This command is useful in saving all changes not ready to be committed and the user wants to have an updated repository.
+
+git stash save "<Save Message>": Save changes to files in working directory and staging area that git is aware of
+
+```
+ git stash save "Saved changes for stash example"
+ Saved working directory and index state "On master: Saved changes for stash example"
+ HEAD is now at 4e2b407 Added second file for example.
+```
+git stash pop: Removes the most recent stash or any stash specified and applies changes as a merge. If merge fails the stash is not removed from the list and must be removed manually.
+
+```
+git checkout
+```
+git checkout <fileName>: Can be used to trash changes in the working directory so as to allow a git pull.
+
+```
+git reset --mixed
+```
+git reset --mixed: Can be used to unstage files so as to allow a git pull.
+
+#### Tools specifically for when git conflicts arise during a merge
+```
+git reset
+```
+git reset --hard: reset repository in order to back out of merge conflict situation. git reset, particularly with the --hard option can be used to back out of merge conflict (click here for more information).
+
+IMPORTANT: Do not use any other options other than --hard for reset when resolving a situation where git failed during the merge, as they will leave conflict line markers in file and you can end up committing files with conflict markers still present.
+
+#### Scenarios
+
+Git refuses to start a merge/pull
+
+Error Messages:
+
+```
+error: Entry '<fileName>' not uptodate. Cannot merge. (Changes in working directory)
+error: Entry '<fileName>' would be overwritten by merge. Cannot merge. (Changes staged, but not commited)
+```
+Steps toward Resolution:
+
+- git stash save "<Message that describes what is being Saved>" (Stashes away any changes in your staging area and working directory in a separate index.) OR git checkout <file> (throws out your changes so that you can do a merge)
+- git status (Verify all changes are staged)
+- git pull or git merge (Bring in changes from central repository or another branch)
+- Only if did a 'git stash' in step 1: git stash pop (Will repopulate your changes into your working directory, may have to resolve merge conflicts)
+
+#### Git is unable to resolve a merge/pull
+
+Error Message:
+
+```
+CONFLICT (content): Merge conflict in <fileName>
+Automatic merge failed; fix conflicts and then commit the result.
+```
+
+Steps toward Resolution:
+
+- git status (Shows all files that are in conflict as unmerged changed in working directory.)
+- Resolve merge conflicts
+- git add <files>
+- git commit -m "<Informative commit message>"
+
+#### A GitHub test repository to experiment with conflicts
+You can experiment with resolving a git conflict with this repository: https://github.com/brianleetest/testGit/blob/master/README.md
+
+You will need a GitHub account and be added as a collaborator to push your changes.
+Create two separate directories, gitClone and gitCloneLeader in two different terminals and locations. The leader can be the first to push changes (requires being a collaborator).
+Do the first "Group Member" steps up until WAIT in the gitClone directory.
+Then do all of the "Group Leader" steps in the gitCloneLeader directory (push required to cause conflict).
+Continue the "Group Member" steps (first git pull since cloning the repository and editing the file).
 
 ## Forks
 
