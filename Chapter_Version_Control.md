@@ -215,6 +215,76 @@ $ git push origin :[name_of_your_new_branch]
 
 ### Resolving merge conflicts
 
+From [here](https://githowto.com/resolving_conflicts). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
+
+RUN:
+
+```
+git checkout style
+git merge master
+```
+
+RESULT:
+```
+$ git checkout style
+Switched to branch 'style'
+$ git merge master
+Auto-merging lib/hello.html
+CONFLICT (content): Merge conflict in lib/hello.html
+Automatic merge failed; fix conflicts and then commit the result.
+```
+If you open the lib/hello.html you will see:
+
+FILE: LIB/HELLO.HTML
+```
+<!-- Author: Alexander Shvets (alex@githowto.com) -->
+<html>
+  <head>
+<<<<<<< HEAD
+    <link type="text/css" rel="stylesheet" media="all" href="style.css" />
+=======
+    <!-- no style -->
+>>>>>>> master
+  </head>
+  <body>
+    <h1>Hello,World! Life is great!</h1>
+  </body>
+</html>
+```
+The first section is the version of the current branch (style) head. The second section is the version of master branch.
+
+02 Resolution of the conflict
+
+You need to resolve the conflict manually. Make changes to lib/hello.html to achieve the following result.
+
+FILE: LIB/HELLO.HTML
+```
+<!-- Author: Alexander Shvets (alex@githowto.com) -->
+<html>
+  <head>
+    <link type="text/css" rel="stylesheet" media="all" href="style.css" />
+  </head>
+  <body>
+    <h1>Hello, World! Life is great!</h1>
+  </body>
+</html>
+```
+03 Make a commit of conflict resolution
+
+RUN:
+```
+git add lib/hello.html
+git commit -m "Merged master fixed conflict."
+```
+
+RESULT:
+```
+$ git add lib/hello.html
+$ git commit -m "Merged master fixed conflict."
+Recorded resolution for 'lib/hello.html'.
+[style 645c4e6] Merged master fixed conflict.
+```
+
 ## Forks
 
 ## Git
