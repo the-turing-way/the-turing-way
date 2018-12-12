@@ -66,3 +66,6 @@ The aim of this file is iterate/decide on:
 - Dealing with Sensitive Data
 - Getting Consent for Data Sharing
 - Ethics Approbal @ the Turing
+
+#### Scoping a data project
+- What makes a good data science project
