@@ -7,10 +7,10 @@ This documents outlines expectations and responsibilities of project members and
 |---|---|---|---|
 | Kirstie Whitaker| PI  |   |   |
 | Becky Arnold| Research Software Engineer |100% | Dec 2018 - Mar 2019 |
-| Sarah Gibson |Research Software Enginner | 50% | Nov 2018 - Mar 2019 |
-| Louise Bowler | Research Software Engineer | 50% | Nov 2018 - Mar 2019 |
+| Sarah Gibson | Research Data Scientist | 50% | Nov 2018 - Mar 2019 |
+| Louise Bowler | Research Data Scientist | 50% | Nov 2018 - Mar 2019 |
 | Patricia Herterich | Data Librarian | 40% | Nov 2018 - Mar 2019 |
-| Rosie Higman | Research Data Manager | 20% | Jan - Mar 2019 | 
+| Rosie Higman | Research Data Manager | 20% | Jan - Mar 2019 |
 | Anna Krystalli | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
 | Alex Morley | PhD Candidate in neurosccience | not paid by project |    |
 | Martin O'Reilly | principal Research Software Engineer | 10 % | Nov 2018 - Mar 2019 |
@@ -33,12 +33,12 @@ As most team members do not work full time on the Turing Way, it might take some
 
 ## Project management
 ### Issues
-- Once completed, issues should be closed immediately. By adding closes #issue or [something similar](https://help.github.com/articles/closing-issues-using-keywords/) in a comment on a pull request, merging the pull request will close the issue automatically. 
+- Once completed, issues should be closed immediately. By adding closes #issue or [something similar](https://help.github.com/articles/closing-issues-using-keywords/) in a comment on a pull request, merging the pull request will close the issue automatically.
 - The team will have a weekly catch up to go triage on open issues, update the project board and agree on priorities for the next week.
 
 ### Pull requests
 - Pull requests should be reviewed in a timely manner.
-- When reviewing a pull request, please do not use the "request a change" function but comment on the change or make a pull request to the file that should be merged. 
+- When reviewing a pull request, please do not use the "request a change" function but comment on the change or make a pull request to the file that should be merged.
 
 ## Committments
 All The Turing Way team members commit to
