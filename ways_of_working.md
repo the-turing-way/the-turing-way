@@ -12,7 +12,7 @@ This documents outlines expectations and responsibilities of project members and
 | Patricia Herterich | Data Librarian | 40% | Nov 2018 - Mar 2019 |
 | Rosie Higman | Research Data Manager | 20% | Jan - Mar 2019 |
 | Anna Krystalli | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
-| Alex Morley | PhD Candidate in neuroscience | not paid by project |    |
+| Alex Morley | Mozilla Fellow | not paid by project |  Nov 2018 - June 2019  |
 | Martin O'Reilly | principal Research Software Engineer | 10 % | Nov 2018 - Mar 2019 |
 
 ## Communication
@@ -26,7 +26,7 @@ In addition, you can reach the team members through their preferred way of commu
 - Patricia Herterich: if you need a quick answer, ping me on Twitter (https://twitter.com/PHerterich)
 - Rosie Higman:
 - Anna Krystalli: [a.krystalli@sheffield.ac.uk](mailto:a.krystalli@sheffield.ac.uk)
-- Alex Morley:
+- Alex Morley: tw: [@alex__morley](https://twitter.com/alex__morley), gh: [@alexmorley](https://github.com/alexmorley)
 - Martin O'Reilly
 
 As most team members do not work full time on the Turing Way, it might take some time until your query or contribution is addressed - especially if expert knowledge is needed.
