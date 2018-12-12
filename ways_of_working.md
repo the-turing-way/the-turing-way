@@ -12,7 +12,7 @@ This documents outlines expectations and responsibilities of project members and
 | Patricia Herterich | Data Librarian | 40% | Nov 2018 - Mar 2019 |
 | Rosie Higman | Research Data Manager | 20% | Jan - Mar 2019 |
 | Anna Krystalli | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
-| Alex Morley | PhD Candidate in neurosccience | not paid by project |    |
+| Alex Morley | PhD Candidate in neuroscience | not paid by project |    |
 | Martin O'Reilly | principal Research Software Engineer | 10 % | Nov 2018 - Mar 2019 |
 
 ## Communication
@@ -40,8 +40,8 @@ As most team members do not work full time on the Turing Way, it might take some
 - Pull requests should be reviewed in a timely manner.
 - When reviewing a pull request, please do not use the "request a change" function but comment on the change or make a pull request to the file that should be merged.
 
-## Committments
+## Commitments
 All The Turing Way team members commit to
 - making the implicit explicit by documenting their work
 - dedicating time to update contribution guidelines and other core documents needed to facilitate collaboration
-- feed back on issues in open source software used throughout the Turing Way by opeing an issue in those open source packages and trying to fix them (including documentation)
+- feed back on issues in open source software used throughout the Turing Way by opening an issue in those open source packages and trying to fix them (including documentation)
