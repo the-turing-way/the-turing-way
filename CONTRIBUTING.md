@@ -4,7 +4,9 @@
 
 :dizzy::hatched_chick::sunny: *We're so excited you're here and want to contribute.* :sunny::hatched_chick::dizzy:
 
-The point of this starter kit is to **welcome new users and contributors to the Turing Way community**. We hope that these guidelines are designed to make it as easy as possible to get involved. If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
+The point of this starter kit is to **welcome new users and contributors to the Turing Way community**. We hope that these guidelines are designed to make it as easy as possible to get involved. Good is better than perfect - we welcome all contributions and would love it if you could follow these guidelines to make sure your contributions can easily integrated but exiting ideas are as important as good pull requests. :heart: 
+<br>
+If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
 
 ## Table of contents
 
@@ -13,7 +15,9 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 * [Joining the community](#joining-the-community)
 * [Get in touch](#get-in-touch)
 * [Contributing through GitHub](#contributing-through-github)
-* [Where to start: issue labels](#where-to-start-issue-labels)
+* [Where to start: issues](#where-to-start-issues)
+* [Making a change with a pull request](#making-a-change-with-a-pull-request)
+* [Become a maintainer](#become-a-maintainer)
 
 ## Joining the community
 
@@ -21,7 +25,8 @@ The Turing Way community We therefore require that all contributions **adhere to
 
 ## Get in touch
 
-You can contact the PI of the Turing Way project - Kirstie Whitaker - by email at kwhitaker@turing.ac.uk. 
+Ping us in our [gitter channel](https://gitter.im/WhitakerLab/the-turing-way).\
+You can also contact the PI of the Turing Way project - Kirstie Whitaker - by email at kwhitaker@turing.ac.uk. 
 
 ## Contributing through GitHub
 
@@ -37,7 +42,11 @@ GitHub has a helpful page on [getting started with writing and formatting on Git
 
 Most of the writing that you'll do will be in [Markdown][markdown]. You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting. For example you could write words as bold (`**bold**`), or in italics (`*italics*`), or as a [link][rick-roll] (`[link](https://https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
 
-## Where to start: issue labels
+## Where to start: issues 
+
+Before you open a new issue, please check if any of the open issues covers your idea already. If you open a new issue, please follow our basic guidelines laid out in our [issue template][issue-template].
+
+### Issue labels
 
 The list of labels for current issues can be found [here][turing-way-labels] and includes:
 
@@ -61,9 +70,17 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
  This is all about collaborating, so please let us know how we can best support you as a community member.
  
-* [![Bug](https://img.shields.io/badge/-bug-ee0701.svg)][labels-bug] *These issues are reporting a problem or a mistake in the project.*
+* [![Bug](https://img.shields.io/badge/-bug-d73a4a.svg)][labels-bug] *These issues are reporting a problem or a mistake in the project.*
 
     The more details you can provide the better! If you know how to fix the bug, please open an issue first and then submit a pull request :sparkles:
+
+* [![Book](https://img.shields.io/badge/-book-c5bcff.svg)][labels-book] *These issues cover everything around the process of writing the book.*
+
+* [![workshops](https://img.shields.io/badge/-workshops-c1663c.svg)][labels-workshops] *These issues help us organise our workshops.*
+
+* [![project-management](https://img.shields.io/badge/-project%20management-bfd86c.svg)][labels-project-management] *We like to model best practice, so the Turing Way itself is managed through these issues. These issues help us to coordinate some logistics.*
+
+* [![jupyter](https://img.shields.io/badge/-jupyter-F37726.svg)][labels-jupyter] *Everything related to building a BinderHub*
 
 * [![Tools](https://img.shields.io/badge/-tools-a3e07d.svg)][labels-tools] *These issues discuss tools we use for collaboration*
 
@@ -73,21 +90,45 @@ If you feel that we should try new tools or some aspects of the collaboration co
 
 * [![Comms](https://img.shields.io/badge/-comms-15c4b2.svg)][labels-comms] *These issues discuss how we as a project interact with other initiatives.*
 
-    We like to model best practice, so the Turing Way itself is managed through these issues. We may occasionally have some to coordinate some logistics.
     
+    
+## Making a change with a pull request
+> Needs to cover:
+> - Open pull requests early
+> - Use the WIP marker if you're not ready for the review 
+> - You can submit pull requests to the OTHER PERSON'S BRANCH.
+> - All the branch and fork and sync stuff that I kind of understand but cannot explain
+> - Commit often
+> - Write good commit messages
 
+## Become a maintainer
+
+## Thank you!
+
+You're awesome. :wave::smiley:
+
+<br>
+
+*&mdash; Based on contributing guidelines from the [BIDS Starter Kit][bids-starter-kit] project.*
+
+[bids-starter-kit]: https://github.com/bids-standard/bids-starter-kit/blob/master/CONTRIBUTING.md
 [git]: https://git-scm.com
 [github]: https://github.com
+[issue-template]: https://github.com/alan-turing-institute/the-turing-way/blob/master/ISSUE_TEMPLATE.md
 [labels-link]: https://github.com/alan-turing-institute/the-turing-way/labels
+[labels-book]: https://github.com/alan-turing-institute/the-turing-way/labels/book
 [labels-bug]: https://github.com/alan-turing-institute/the-turing-way/labels/bug
 [labels-community]: https://github.com/alan-turing-institute/the-turing-way/labels/community
 [labels-comms]: https://github.com/alan-turing-institute/the-turing-way/labels/comms
 [labels-enhancement]: https://github.com/alan-turing-institute/the-turing-way/labels/enhancement
 [labels-firstissue]: https://github.com/alan-turing-institute/the-turing-way/labels/good%20first%20issue
 [labels-helpwanted]: https://github.com/alan-turing-institute/the-turing-way/labels/help%20wanted
+[labels-jupyter]: https://github.com/alan-turing-institute/the-turing-way/labels/jupyter
+[labels-project-management]: https://github.com/alan-turing-institute/the-turing-way/labels/project%20management
 [labels-question]: https://github.com/alan-turing-institute/the-turing-way/labels/question
 [labels-tools]: https://github.com/alan-turing-institute/the-turing-way/labels/tools
 [labels-travel]: https://github.com/alan-turing-institute/the-turing-way/labels/travel
+[labels-workshops]: https://github.com/alan-turing-institute/the-turing-way/labels/workshops
 [markdown]: https://daringfireball.net/projects/markdown
 [rick-roll]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [turing-way-labels]: https://github.com/alan-turing-institute/the-turing-way/labels
