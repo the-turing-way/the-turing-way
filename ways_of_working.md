@@ -10,7 +10,7 @@ This documents outlines expectations and responsibilities of project members and
 | Sarah Gibson | Research Data Scientist | 40% | Nov 2018 - Mar 2019 |
 | Louise Bowler | Research Data Scientist | 40% | Nov 2018 - Mar 2019 |
 | Patricia Herterich | Data Librarian | 40% | Nov 2018 - Mar 2019 |
-| Rosie Higman | Research Data Manager | 20% | Jan - Mar 2019 |
+| Rosie Higman | Research Data Librarian | 20% | Jan - Mar 2019 |
 | Anna Krystalli | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
 | Alex Morley | Mozilla Fellow | not paid by project |  Nov 2018 - June 2019  |
 | Martin O'Reilly | principal Research Software Engineer | 10 % | Nov 2018 - Mar 2019 |
@@ -24,7 +24,7 @@ In addition, you can reach the team members through their preferred way of commu
 - Sarah Gibson: [sgibson@turing.ac.uk](mailto:sgibson@turing.ac.uk)
 - Louise Bowler: drop me a message on Gitter, @LouiseABowler
 - Patricia Herterich: if you need a quick answer, ping me on Twitter (https://twitter.com/PHerterich)
-- Rosie Higman:
+- Rosie Higman: [rosie.higman@manchester.ac.uk](mailto:rosie.higman@manchester.ac.uk) or ping me on Twitter [@RosieHLib](https://twitter.com/RosieHLib)
 - Anna Krystalli: [a.krystalli@sheffield.ac.uk](mailto:a.krystalli@sheffield.ac.uk)
 - Alex Morley: tw: [@alex__morley](https://twitter.com/alex__morley), gh: [@alexmorley](https://github.com/alexmorley)
 - Martin O'Reilly
