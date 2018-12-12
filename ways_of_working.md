@@ -7,8 +7,8 @@ This documents outlines expectations and responsibilities of project members and
 |---|---|---|---|
 | Kirstie Whitaker| PI  |   |   |
 | Becky Arnold| Research Software Engineer |100% | Dec 2018 - Mar 2019 |
-| Sarah Gibson | Research Data Scientist | 50% | Nov 2018 - Mar 2019 |
-| Louise Bowler | Research Data Scientist | 50% | Nov 2018 - Mar 2019 |
+| Sarah Gibson | Research Data Scientist | 40% | Nov 2018 - Mar 2019 |
+| Louise Bowler | Research Data Scientist | 40% | Nov 2018 - Mar 2019 |
 | Patricia Herterich | Data Librarian | 40% | Nov 2018 - Mar 2019 |
 | Rosie Higman | Research Data Manager | 20% | Jan - Mar 2019 |
 | Anna Krystalli | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
