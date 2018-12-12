@@ -21,11 +21,11 @@ We're always around for a chat in our public gitter channel: https://gitter.im/W
 In addition, you can reach the team members through their preferred way of communication:
 - Kirstie Whitaker:
 - Becky Arnold: email r.j.arnold.uk@gmail.com
-- Sarah Gibson:
+- Sarah Gibson: [sgibson@turing.ac.uk](mailto:sgibson@turing.ac.uk)
 - Louise Bowler:
 - Patricia Herterich: if you need a quick answer, ping me on Twitter (https://twitter.com/PHerterich)
 - Rosie Higman:
-- Anna Krystalli:
+- Anna Krystalli: [a.krystalli@sheffield.ac.uk](mailto:a.krystalli@sheffield.ac.uk)
 - Alex Morley:
 - Martin O'Reilly
 
