@@ -18,9 +18,42 @@ conda activate py3binder
 
 ### 0. Kubernetes Cloud Resources
 
-* [Foundational resources for Kubernetes](https://kubernetes.io/docs/user-journeys/users/application-developer/foundational/)
+Working through these tutorials:
+1. [Foundational resources for Kubernetes](https://kubernetes.io/docs/user-journeys/users/application-developer/foundational/)
 
-Began working through the
+**Terminology:**
+* Cluster is a group of machines (real or virtual) to deploy apps/containers into
+* Master automatically handles scheduling across the Nodes in the cluster
+* Nodes are workers that run the applications
+* Kubernetes API manages communication between Master and Nodes
+* Deployment configuration instructs Kubernetes on how to update instances of the app being deployed (self-healing)
+* Kubelet, a process responsible for communication between the Kubernetes Master and the Node; it manages the Pods and the containers running on a machine
+* Pod is a Kubernetes abstraction that represents a group of one or more application containers and some shared resources for those containers - can include:
+  * Volumes (shared storage)
+  * Networking (unique cluster IP address)
+  * Run info on each container
+*
+
+**Required or Potential resources:**
+* `minikube` - tool to run Kubernetes locally, runs a single-node Kubernetes cluster inside a VM on your laptop
+* `kubectl` - command line interface using Kubernetes API to interact with clusters
+
+**Learned commands:**
+* `minikube version` - prints `minikube` version
+* `minikube start` - launches VM
+* `kubectl version` - prints `kubectl` version
+* `kubectl cluster-info` - prints cluster details
+* `kubectl get nodes` - prints node information
+* `kubectl run __ --image=__ --port=__` - command to deploy a containerised app, `__` needs to be replaced with deployment name, app image location and port location respectively
+* `kubectl get deployments` - lists current deployments
+* `kubectl proxy` - opens a connection between host and the Kubernetes cluster, proxy enables direct access to the API from these terminals
+* `curl http://localhost:8001/version` - query the version on host 8001 directly through API
+* `xport POD_NAME=$(kubectl get pods -o go-template --template '{{range .items}}{{.metaata.name}}{{"\n"}}{{end}}')` - get the pod name and store it in POD_NAME (`echo Name of the Pod: $POD_NAME`)
+* `curl http://localhost:8001/api/v1/namespaces/default/pods/$POD_NAME/proxy/` - make an HTTP request to the application running in that pod
+* `kubectl get` - list resources
+* `kubectl describe` - show detailed information about a resource
+* `kubectl logs` - print the logs from a container in a pod
+* `kubectl exec` - execute a command on a container in a pod
 
 ### 1. Installing Helm
 
@@ -45,5 +78,5 @@ Error: error installing: Post http://localhost:8080/apis/extensions/v1beta1/name
 
 Found [this issue](https://github.com/helm/helm/issues/3460) on the topic.
 
-_Zero-to-BinderHub_ Documentation not clear that you need to set up a Kubernetes Cluster first and no guidelines or links are given in the documentation. 
+**N.B.:** _Zero-to-BinderHub_ Documentation not clear that you need to set up a Kubernetes Cluster first and no guidelines or links are given in the documentation. (Go to section 0.)
 
