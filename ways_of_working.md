@@ -21,7 +21,7 @@ We're always around for a chat in our public gitter channel: https://gitter.im/W
 In addition, you can reach the team members through their preferred way of communication:
 - Kirstie Whitaker:
 - Becky Arnold:
-- Sarah Gibson:
+- Sarah Gibson: [sgibson@turing.ac.uk](mailto:sgibson@turing.ac.uk)
 - Louise Bowler:
 - Patricia Herterich: if you need a quick answer, ping me on Twitter (https://twitter.com/PHerterich)
 - Rosie Higman:
