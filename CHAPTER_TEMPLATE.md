@@ -1,8 +1,10 @@
 # Chapter title
 
 ## Summary
+> easy to understand summary - a bit like tl;dr
 
 ## How this will help you/ why this is useful
+> why we think you should read the whole thing
 
 ## Prerequisites / recommended skill level
 > other chapters that should have been read before or content you should be familiar with before you read this
