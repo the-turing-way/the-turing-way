@@ -18,6 +18,7 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 * [Where to start: issues](#where-to-start-issues)
 * [Making a change with a pull request](#making-a-change-with-a-pull-request)
 * [Become a maintainer](#become-a-maintainer)
+* [The process of writing chapters](#the-process-of-writing-chapters)
 
 ## Joining the community
 
@@ -91,7 +92,6 @@ If you feel that we should try new tools or some aspects of the collaboration co
 * [![Comms](https://img.shields.io/badge/-comms-15c4b2.svg)][labels-comms] *These issues discuss how we as a project interact with other initiatives.*
 
     
-    
 ## Making a change with a pull request
 > Needs to cover:
 > - Open pull requests early
@@ -100,6 +100,14 @@ If you feel that we should try new tools or some aspects of the collaboration co
 > - All the branch and fork and sync stuff that I kind of understand but cannot explain
 > - Commit often
 > - Write good commit messages
+
+## The process of writing chapters
+- Create a branch and create a markdown file on it
+- Make a pull request to the turning way master branch. The title of this request should have [WIP] meaning work in progress at the start.
+- On your branch add material to the chapter and commit. The goal of this project is to collate and build on the many good resources already available about good practise in data science. As such this material should primarily be drawn from outside sources. Note the link and (if available) license of the source.
+- Once a significant amount of material has been amassed work (preferably with others) to develop a chapter outline.
+- Edit the amased material into a coherent chapter, adding more material if gaps become apparent.
+- Edit the chapter for style.
 
 ## Become a maintainer
 
