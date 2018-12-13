@@ -9,7 +9,7 @@
 ## Prerequisites / recommended skill level
 > other chapters that should have been read before or content you should be familiar with before you read this
 
-## Links to glossary
+### Definitions/glossary
 > Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
 
 ## Chapter content 
