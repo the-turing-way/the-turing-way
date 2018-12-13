@@ -131,6 +131,26 @@ RUN:
 git revert HEAD
 ```
 
+-------
+
+From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html) **No license, reached out 13/12/18**
+
+Each commit should have a single purpose and should completely implement that purpose. This makes it easier to locate the changes related to some particular feature or bug fix, to see them all in one place, to undo them, to determine the changes that are responsible for buggy behavior, etc. The utility of the version control history is compromised if one commit contains code that serves multiple purposes, or if code for a particular purpose is spread across multiple different commits.
+
+Avoid indiscriminate commits
+As a rule, I do not run git commit -a (or hg commit or svn commit) without supplying specific files to commit. If you supply no file names, then these commands commit every changed file. You may have changes you did not intend to make permanent (such as temporary debugging changes); even if not, this creates a single commit with multiple purposes.
+
+Don't commit generated files
+Version control is intended for files that people edit. Generated files should not be committed to version control. For example, do not commit binary files that result from compilation, such as .o files or .class files. Also do not commit .pdf files that are generated from a text formatting application; as a rule, you should only commit the source files from which the .pdf files are generated.
+
+Generated files are not necessary in version control; each user can re-generate them (typically by running a build program such as make or ant).
+Generated files are prone to conflicts. They may contain a timestamp or in some other way depend on the system configuration. It is a waste of human time to resolve such uninteresting conflicts.
+Generated files can bloat the version control history (the size of the database that is stored in the repository). A small change to a source file may result in a rather different generated file. Eventually, this affects performance of the version control system.
+This is a particular problem when the generated file is binary. Version control systems can concisely record the differences between two versions of a textual file (usually the differences are much smaller than the file itself). However, version control systems have to store each version of a binary file in its entirety.
+To tell your version control system to ignore given files, create a top-level .gitignore or .hgignore file, or set the svn:ignore property.
+
+
+
 ### Commit messages
 
 From [here](https://guide.esciencecenter.nl/best_practices/version_control.html). **Creative Commons Attribution 4.0 International License**
