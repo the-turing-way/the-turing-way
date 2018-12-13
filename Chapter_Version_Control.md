@@ -277,7 +277,20 @@ $ git hist --all
 * 911e8c9 2011-03-09 | First Commit [Alexander Shvets]
 ```
 
-### Resolving merge conflicts
+### Merge conflicts
+
+From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html) **No license, reached out 13/12/18**
+
+A version control system lets multiple users simultaneously edit their own copies of a project. Usually, the version control system is able to merge simultaneous changes by two different users: for each line, the final version is the original version if neither user edited it, or is the edited version if one of the users edited it. A conflict occurs when two different users make simultaneous, different changes to the same line of a file. In this case, the version control system cannot automatically decide which of the two edits to use (or a combination of them, or neither!). Manual intervention is required to resolve the conflict.
+
+“Simultaneous” changes do not necessarily happen at the exact same moment of time. Change 1 and Change 2 are considered simultaneous if:
+
+- User A makes Change 1 before User A does an update that brings Change 2 into User A's working copy, and
+- User B makes Change 2 before User B does an update that brings Change 1 into User B's working copy.
+
+In a distributed version control system, there is an explicit operation, called merge, that combines simultaneous edits by two different users. Sometimes merge completes automatically, but if there is a conflict, merge requests help from the user by running a merge tool. In centralized version control, merging happens implicitly every time you do update.
+
+------
 
 From [here](https://githowto.com/resolving_conflicts). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
 
