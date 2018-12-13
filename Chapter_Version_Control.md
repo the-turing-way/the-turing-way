@@ -297,6 +297,23 @@ $ git hist --all
 * 911e8c9 2011-03-09 | First Commit [Alexander Shvets]
 ```
 
+------
+
+From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html) **No license, reached out 13/12/18**
+
+Incorporate others' changes frequently
+Work with the most up-to-date version of the files as possible. That means that you should run git pull, git pull -r, hg fetch, or svn update very frequently. I do this every day, on each of over 100 projects that I am involved with.
+
+When two people make conflicting edits simultaneously, then manual intervention is required to resolve the conflict. But if someone else has already completed a change before you even start to edit, it is a huge waste of time to create, then manually resolve, conflicts. You would have avoided the conflicts if your working copy had already contained the other person's changes before you started to edit.
+
+Share your changes frequently
+Once you have committed the changes for a complete, logical unit of work, you should share those changes with your colleagues as soon as possible (by doing git push or hg push). So long as your changes do not destabilize the system, do not hold the changes locally while you make unrelated changes. The reason is the same as the reason for incorporating others' changes frequently.
+
+This advice is slightly different for centralized version control such as Subversion. This advice translates to running svn commit, which both commits and shares your changes, as often as possible. However, be careful because you cannot make private commits that do not affect your teammates.
+
+Coordinate with your co-workers to avoid conflicts as best as you can.
+
+
 ### Merge conflicts
 
 From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html) **No license, reached out 13/12/18**
