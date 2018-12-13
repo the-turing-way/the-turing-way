@@ -9,7 +9,7 @@ This chapter sets out the definition of reproducibility that the Turing Way proj
 ## Prerequisites / recommended skill level
 No previous knowledge needed. 
 
-### Definition/dglossary
+### Definition/glossary
 > Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
 
 ## Chapter content 
@@ -36,6 +36,7 @@ Victoria Stodden [(2014)](http://edge.org/response-detail/25340), a prominent sc
 
 ### The Turing Way definition of reproducibility
 
+The Turing Way 
 ![Kirstie's definition of reproducible research](https://github.com/pherterich/the-turing-way/blob/master/reproducibility_kirstie.png)
 
 ## Checklist
