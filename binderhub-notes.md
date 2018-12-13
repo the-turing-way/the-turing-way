@@ -69,32 +69,32 @@ Working through these tutorials: [Foundational resources for Kubernetes](https:/
 * `kubectl scale __ --replicas=__` - scale a _Deployment_ to a desired number of instances
 * `kubectl set image deployments/current_deployment current_deployment=new_deployment` - initiated a _Rolling Update_ for the new _Deployment_
 * `kubectl rollout undo __` - rollback an image to a previous working version
+
+**Installing Minikube and Kubernetes API**
+
+[Docs here](https://kubernetes.io/docs/tasks/tools/install-minikube/)
  
- **Installing Minikube and Kubernetes API**
+Install a Hypervisor (see link above, I chose VisualBox for macOSX).
  
- [Docs here](https://kubernetes.io/docs/tasks/tools/install-minikube/)
+Install `minikube`:
+ ```
+curl -Lo minikube https://storage.googleapis.com/minikube/releases/v0.31.0/minikube-darwin-amd64 && chmod +x minikube && sudo cp minikube /usr/local/bin/ && rm minikube
+```
  
- _Requirements:_ Hypervisor (see link above, I chose VisualBox for macOSX)
+Start `minikube` (If you have launched the VirtualBox window, or whichever Hypervisor you chose, you will see a VM appear called `minikube` and it's status):
+```
+minikube start
+```
  
- Install `minikube`:
- ```
- curl -Lo minikube https://storage.googleapis.com/minikube/releases/v0.31.0/minikube-darwin-amd64 && chmod +x minikube && sudo cp minikube /usr/local/bin/ && rm minikube
- ```
+Install `kubectl` via `homebrew` (other methods for installation [here](https://kubernetes.io/docs/tasks/tools/install-kubectl/)):
+```
+brew install kubernetes-cli
+```
  
- Start `minikube` (If you have launched the VirtualBox window, or whichever Hypervisor you chose, you will see a VM appear called `minikube` and it's status):
- ```
- minikube start
- ```
- 
- Install `kubectl` via `homebrew` (other methods for installation [here](https://kubernetes.io/docs/tasks/tools/install-kubectl/)):
- ```
- brew install kubernetes-cli
- ```
- 
- Test installation by printing version:
- ```
- kubectl version
- ```
+Test installation by printing version:
+```
+kubectl version
+```
 
 ### 1. Installing Helm
 
@@ -151,7 +151,7 @@ mkdir binderhub
 cd binderhub
 ```
 
-Create two random tokens by running the following commands then copying the outputs:
+Create two random tokens by running the following commands then copying the outputs (run twice to get two keys):
 ```
 openssl rand -hex 32
 openssl rand -hex 32
