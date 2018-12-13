@@ -18,7 +18,7 @@ Any executed code or installed packages should be within this environment where 
 
 [Docs Here](https://binderhub.readthedocs.io/en/latest/)
 
-**N.B.:** _Zero-to-BinderHub_ Documentation not clear that you need to set up a Kubernetes Cluster first and no guidelines or links are given in the documentation. Hopefully my notes below will make this a bit clearer.
+**N.B.:** _Zero-to-BinderHub_ Documentation is not clear that you need to set up a Kubernetes Cluster first and no guidelines or links are provided. Hopefully my notes below will make the steps a bit clearer.
 
 ### 0. Kubernetes Cloud Resources
 
@@ -131,3 +131,80 @@ Secure Helm (details [here](https://engineering.bitnami.com/articles/helm-securi
 kubectl patch deployment tiller-deploy --namespace=kube-system --type=json --patch='[{"op": "add", "path": "/spec/template/spec/containers/0/command", "value": ["/tiller", "--listen=localhost:44134"]}]'
 ```
 
+### 2. Setting up the Container Registry
+
+BinderHub will build Docker images from Git repositories and push them to a Docker registry. JupyterHub then launches the user servers based on these Docker images. Two most popular registries are Google Container Registry and DockerHub. I am going to use DockerHub since I already have an account. Also, the Turing may have an organisation on DockerHub which would be ideal for the final BinderHub build.
+
+The configuration of DockerHub with BinderHub has been amalgamated with the next section on [Zero-to-BinderHub](https://binderhub.readthedocs.io/en/latest/).
+
+### 3. Set up BinderHub
+
+The next section will cover how to configure the Helm Chart and how to create the BinderHub deployment. Further info on Helm Charts (and Kubernetes among others) available here: [Zero-to-JupyterHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/tools.html#helm).
+
+We need to generate several pieces of information and store them in a YAML file to configure the BinderHub.
+
+**Preparing Configuration Files**
+
+Create a folder to store the config files:
+```
+mkdir binderhub
+cd binderhub
+```
+
+Create two random tokens by running the following commands then copying the outputs:
+```
+openssl rand -hex 32
+openssl rand -hex 32
+```
+
+Create a file called `secret.yaml` containing the following:
+```
+jupyterhub:
+  hub:
+    services:
+      binder:
+        apiToken: "<output of FIRST `openssl rand -hex 32` command>"
+  proxy:
+    secretToken: "<output of SECOND `openssl rand -hex 32` command>"
+```
+
+Configure this file to connect with our registry (DockerHub) by adding the following to `secret.yaml`:
+```
+registry:
+  username: <docker-id>
+  password: <password>
+```
+**WARNING:** THIS IS YOUR ACTUAL PASSWORD. DO NOT GRANT ANYONE ACCESS TO THIS FILE.
+
+Create a `config.yaml` file containing the following:
+```
+config:
+  BinderHub:
+    use_registry: true
+    image_prefix: <docker-id|organization-name>/<prefix>-
+```
+**N.B.:**
+* `<docker-id|organization-name>` is where you want to store Docker images. This can be your Docker ID account or an organization that your account belongs to.
+* `<prefix>` can be any string, and will be prepended to image names. Recommend something descriptive such as `binder-dev-` or `binder-prod-` (ending with a - is useful).
+
+**Installing BinderHub**
+
+Get the latest Helm Chart for BinderHub:
+```
+helm repo add jupyterhub https://jupyterhub.github.io/helm-chart
+helm repo update
+```
+
+Install the Helm Chart using the Config files you created where `...` is the commit hash of the BinderHub chart version you wish to deploy (list of versions [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub)):
+```
+helm install jupyterhub/binderhub --version=0.1.0-...  --name=<choose-name> --namespace=<choose-namespace> -f secret.yaml -f config.yaml
+```
+`name` and `namespace` should be short and descriptive. Can be different but recommended that they are the same.
+
+This installation step will deploy both a BinderHub and a JupyterHub, but they are not yet set up to communicate with each other. We’ll fix this in the next step. Wait a few moments before moving on as the resources may take a few minutes to be set up.
+
+To connect JupyterHub and BinderHub, get the IP address of the JupyterHub deployment:
+```
+kubectl --namespace=<namespace-from-above> get svc proxy-public
+```
+**WARNING:** `EXTERNAL_IP` field reports `<pending>` for aaaaaagggggeeeeeesssss. Seriously, go get _several_ coffees...
