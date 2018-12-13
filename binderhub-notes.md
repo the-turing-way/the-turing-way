@@ -20,6 +20,8 @@ Any executed code or installed packages should be within this environment where 
 
 **N.B.:** _Zero-to-BinderHub_ Documentation is not clear that you need to set up a Kubernetes Cluster first and no guidelines or links are provided. Hopefully my notes below will make the steps a bit clearer.
 
+**N.B.:** Probably should have done [Zero-to-JupyterHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html) first as this seems to have more links/discussion about Kubernetes and Helm, among other things.
+
 ### 0. Kubernetes Cloud Resources
 
 Working through these tutorials: [Foundational resources for Kubernetes](https://kubernetes.io/docs/user-journeys/users/application-developer/foundational/)
@@ -195,7 +197,7 @@ helm repo add jupyterhub https://jupyterhub.github.io/helm-chart
 helm repo update
 ```
 
-Install the Helm Chart using the Config files you created where `...` is the commit hash of the BinderHub chart version you wish to deploy (list of versions [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub)):
+Install the Helm Chart using the Config files you created where `...` is the commit hash of the BinderHub chart version you wish to deploy (list of versions [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub), I chose the top one):
 ```
 helm install jupyterhub/binderhub --version=0.1.0-...  --name=<choose-name> --namespace=<choose-namespace> -f secret.yaml -f config.yaml
 ```
