@@ -17,6 +17,8 @@ all the why and all the how means a person who's reading about version control c
 
 *Should at least mention version control software other than git.*
 
+*For [creative commons](https://tldrlegal.com/license/creative-commons-attribution-4.0-international-(cc-by-4) you can do whatever but you must give credit to the original author of the work, including a URI or hyperlink to the work, this Public license and a copyright notice.*
+
 ------
 
 ## *Structure*
@@ -50,12 +52,11 @@ all the why and all the how means a person who's reading about version control c
 
 From [here](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Controls) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
 
-What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book, you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.
+What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It is typically applied to managing changing in code, though in reality you can do this with nearly any type of file on a computer.
+People working on data science may have a large array of files (code, data, figures, notes) that they update
+but want to keep every version. Version control allows you to do this and to revert files you select back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Using a version control system also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead.
 
-If you are a graphic or web designer and want to keep every version of an image or layout (which you would most certainly want to), a Version Control System (VCS) is a very wise thing to use. It allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Using a VCS also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead.
-
-Local Version Control Systems
-Many people’s version-control method of choice is to copy files into another directory (perhaps a time-stamped directory, if they’re clever). This approach is very common because it is so simple, but it is also incredibly error prone. It is easy to forget which directory you’re in and accidentally write to the wrong file or copy over files you don’t mean to.
+Many people’s version-control method of choice is to copy files into another directory, or to save copies manually e.g. my_code_.py my_code_2.py my_code_2a.py, my_code_2b.py etc. This approach is very common because it is so simple, but it is also incredibly error prone. It is easy to forget what differnt files contain, or to copy over files you don’t mean to.
 
 
 ## Why would you use version control?
@@ -65,8 +66,8 @@ From [here](https://guide.esciencecenter.nl/best_practices/version_control.html)
 
 - **Reproducibility** By using version control, you never lose previous versions of the software. This also gives you a log of changes and allows you to understand what happened.
 - **Backup** Version control is usually pushed to an external a shared server, which immediately provides a backup.
+- **Easier to collaborate** Version control makes it easier for different people to work on the same code simultaneously, while everyone still has a well defined version of the software (in contrast to a google-docs or shared file system type of system). Moreover, version control hosting websites such as Github provide way to communicate in a more structed way, such as in code reviews, about commits and about issues.
 - **Integration** Version control software and host makes it more easy to integrate with other software that support modern software development, such as testing (continuous integration ,automatically run tests, build documentation, check code style, integration with bug-tracker, code review infrastructure, comment on code).
-- **Easier to collaborate** Version control makes it easier to work on the same code simultaneously, while everyone still has a well defined version of the software (in contrast to a google-docs or shared file system type of system). Moreover, version control hosting websites such as Github provide way to communicate in a more structed way, such as in code reviews, about commits and about issues.
 
 --------
 
@@ -103,8 +104,7 @@ From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html)
 A version control system serves the following purposes, among others.
 
 - Version control enables multiple people to simultaneously work on a single project. Each person edits his or her own copy of the files and chooses when to share those changes with the rest of the team. Thus, temporary or partial edits by one person do not interfere with another person's work.
-- Version control also enables one person you to use multiple computers to work on a project, so it is valuable even if you are working by yourself.
-- Version control gives access to historical versions of your project. This is insurance against computer crashes or data lossage. If you make a mistake, you can roll back to a previous version. You can reproduce and understand a bug report on a past version of your software. You can also undo specific edits without losing all the work that was done in the meanwhile. For any part of a file, you can determine when, why, and by whom it was ever edited.)
+- Version control gives access to historical versions of your project. This is insurance against computer crashes, data lossage, or code being broken in the course of future changes. If you make a mistake, you can roll back to a previous version. You can reproduce and understand a bug report on a past version of your software. You can also undo specific edits without losing all the work that was done in the meanwhile. For any part of a file, you can determine when, why, and by whom it was ever edited.
 
 ### Commits
 
@@ -135,20 +135,14 @@ git revert HEAD
 
 From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html) **No license, reached out 13/12/18**
 
-Each commit should have a single purpose and should completely implement that purpose. This makes it easier to locate the changes related to some particular feature or bug fix, to see them all in one place, to undo them, to determine the changes that are responsible for buggy behavior, etc. The utility of the version control history is compromised if one commit contains code that serves multiple purposes, or if code for a particular purpose is spread across multiple different commits.
+#### Good practise for commits
 
-Avoid indiscriminate commits
-As a rule, I do not run git commit -a (or hg commit or svn commit) without supplying specific files to commit. If you supply no file names, then these commands commit every changed file. You may have changes you did not intend to make permanent (such as temporary debugging changes); even if not, this creates a single commit with multiple purposes.
-
-Don't commit generated files
-Version control is intended for files that people edit. Generated files should not be committed to version control. For example, do not commit binary files that result from compilation, such as .o files or .class files. Also do not commit .pdf files that are generated from a text formatting application; as a rule, you should only commit the source files from which the .pdf files are generated.
-
-Generated files are not necessary in version control; each user can re-generate them (typically by running a build program such as make or ant).
-Generated files are prone to conflicts. They may contain a timestamp or in some other way depend on the system configuration. It is a waste of human time to resolve such uninteresting conflicts.
+- **Each commit should have a single purpose and should completely implement that purpose.** This makes it easier to locate the changes related to some particular feature or bug fix, to see them all in one place, to undo them, to determine the changes that are responsible for buggy behavior, etc. The utility of the version control history is compromised if one commit contains code that serves multiple purposes, or if code for a particular purpose is spread across multiple different commits.
+- **Avoid indiscriminate commits** As a rule, do not commit without supplying specific files to commit. If you supply no file names, then every change will be committed. You may have changes you did not intend to make permanent (such as temporary debugging changes).
+- **Don't commit generated files** Version control is intended for files that people edit. Generated files should not be committed to version control, as a rule, you should only commit the source files from which the files are generated.
+Generated files are not necessary in version control; each user can re-generate them from the source files.
+Further, generated files are prone to conflicts. They may contain a timestamp or in some other way depend on the system configuration. It is a waste of human time to resolve such uninteresting conflicts.
 Generated files can bloat the version control history (the size of the database that is stored in the repository). A small change to a source file may result in a rather different generated file. Eventually, this affects performance of the version control system.
-This is a particular problem when the generated file is binary. Version control systems can concisely record the differences between two versions of a textual file (usually the differences are much smaller than the file itself). However, version control systems have to store each version of a binary file in its entirety.
-To tell your version control system to ignore given files, create a top-level .gitignore or .hgignore file, or set the svn:ignore property.
-
 
 
 ### Commit messages
@@ -190,9 +184,8 @@ By [Thom Holwerda](http://www.osnews.com/story/19266/WTFs_m). **Says anyone can 
 From [here](https://opensource.com/article/18/5/git-branching) **Creative Commons license**
 The main reasons for having branches are:
 
-- If you are creating a new feature for your project, there's a reasonable chance that adding it could break your working code. This would be very bad for active users of your project. It's better to start with a prototype, which you would want to design roughly in a different branch and see how it works, before you decide whether to add the feature to the repo's master for others to use.
-- Another, probably more important, reason is Git was made for collaboration. If everyone starts programming on top of your repo's master branch, it will cause a lot of confusion. Everyone has different knowledge and experience (in the programming language and/or the project); some people may write faulty/buggy code or simply the kind of code/feature you may not want in your project. Using branches allows you to verify contributions and select which to add to the project. (This assumes you are the only owner of the repo and want full control of what code is added to it. In real-life projects, there are multiple owners with the rights to merge code in a repo.)
-
+- If you are creating a new feature for your project, there's a reasonable chance that adding it could break your working code. This would be very bad for active users of your project, even if the only active user is you. It's better to start with a prototype, which you would want to design roughly in a different branch and see how it works, before you decide whether to add the feature to the master branch.
+- Another, probably more important, reason is version control systems are regularly used for collaboration. If everyone starts programming on top of the master branch, it will cause a lot of confusion. Some people may write faulty/buggy code or simply the kind of code/feature others may not want in the project. Using branches allows you to contributions to be verified and reviewed before being added to the main project.
 
 -------
 
@@ -302,14 +295,12 @@ $ git hist --all
 From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html) **No license, reached out 13/12/18**
 
 Incorporate others' changes frequently
-Work with the most up-to-date version of the files as possible. That means that you should run git pull, git pull -r, hg fetch, or svn update very frequently. I do this every day, on each of over 100 projects that I am involved with.
+Work with the most up-to-date version of the files as possible.
 
 When two people make conflicting edits simultaneously, then manual intervention is required to resolve the conflict. But if someone else has already completed a change before you even start to edit, it is a huge waste of time to create, then manually resolve, conflicts. You would have avoided the conflicts if your working copy had already contained the other person's changes before you started to edit.
 
 Share your changes frequently
-Once you have committed the changes for a complete, logical unit of work, you should share those changes with your colleagues as soon as possible (by doing git push or hg push). So long as your changes do not destabilize the system, do not hold the changes locally while you make unrelated changes. The reason is the same as the reason for incorporating others' changes frequently.
-
-This advice is slightly different for centralized version control such as Subversion. This advice translates to running svn commit, which both commits and shares your changes, as often as possible. However, be careful because you cannot make private commits that do not affect your teammates.
+Once you have committed the changes for a complete, logical unit of work, you should share those changes with your colleagues as soon as possible. So long as your changes do not destabilize the system, do not hold the changes locally while you make unrelated changes. The reason is the same as the reason for incorporating others' changes frequently.
 
 Coordinate with your co-workers to avoid conflicts as best as you can.
 
@@ -320,12 +311,11 @@ From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html)
 
 A version control system lets multiple users simultaneously edit their own copies of a project. Usually, the version control system is able to merge simultaneous changes by two different users: for each line, the final version is the original version if neither user edited it, or is the edited version if one of the users edited it. A conflict occurs when two different users make simultaneous, different changes to the same line of a file. In this case, the version control system cannot automatically decide which of the two edits to use (or a combination of them, or neither!). Manual intervention is required to resolve the conflict.
 
-“Simultaneous” changes do not necessarily happen at the exact same moment of time. Change 1 and Change 2 are considered simultaneous if:
+"Simultaneous" changes do not necessarily happen at the exact same moment of time. Change 1 and Change 2 are considered simultaneous if:
 
 - User A makes Change 1 before User A does an update that brings Change 2 into User A's working copy, and
 - User B makes Change 2 before User B does an update that brings Change 1 into User B's working copy.
 
-In a distributed version control system, there is an explicit operation, called merge, that combines simultaneous edits by two different users. Sometimes merge completes automatically, but if there is a conflict, merge requests help from the user by running a merge tool. In centralized version control, merging happens implicitly every time you do update.
 
 ------
 
@@ -406,7 +396,7 @@ From [here](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Gi
 #### Two ways git merge/git pull can fail
 There are 2 ways in which git merge (or a git pull, which is a git fetch and then a git merge) can fail:
 
-#### Git can fail to start the merge
+1.  Git can fail to start the merge
 This occurs because git knows there are changes in either your working directory or staging area that could be written over by the files that you are merging in. If this happens, there are no merge conflicts in individual files. You need to modify or stash the files it lists and then try to do a git pull again. The error messages are as follows:
 
 ```
@@ -417,7 +407,7 @@ or
 error: Entry '<fileName>' would be overwritten by merge. Cannot merge. (Changes in staging area)
 ```
 
-#### Git can fail during the merge
+2. Git can fail during the merge
 This occurs because you have committed changes that are in conflict with someone else's committed changes. Git will do its best to merge the files and will leave things for you to resolve manually in the files it lists. The error message is as follows:
 
 ```
