@@ -45,6 +45,9 @@ Stodden, V. (2009). Enabling reproducible research: Open licensing for scientifi
 
 Wilkinson, J. M., Flaherty, B., Hearne, S., Lynch, H., Lamond, H., Dewson, N., … Amos, H. (2016). Ownership And Licensing Of Research Data (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.1167976
 
+Bernholdt, D. E. (2017). An Introduction to Software Licensing. Figshare. https://doi.org/10.6084/m9.figshare.4696285.v1
+
+
 ## Tools
 
 ## Existing guidelines
