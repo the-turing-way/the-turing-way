@@ -4,7 +4,7 @@
 
 :dizzy::hatched_chick::sunny: *We're so excited you're here and want to contribute.* :sunny::hatched_chick::dizzy:
 
-The point of this starter kit is to **welcome new users and contributors to the Turing Way community**. We hope that these guidelines are designed to make it as easy as possible to get involved. Don't let trying to be perfect get in the way of being good - we welcome all contributions and would love it if you could follow these guidelines to make sure your contributions can easily integrated but exiting ideas are more important than perfect pull requests. :heart: 
+The point of this starter kit is to **welcome new users and contributors to the Turing Way community**. We hope that these guidelines are designed to make it as easy as possible to get involved. Don't let trying to be perfect get in the way of being good - we welcome all contributions and would love it if you could follow these guidelines to make sure your contributions can easily integrated but exiting ideas are more important than perfect pull requests. :heart:
 <br>
 If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
 
@@ -27,7 +27,7 @@ The Turing Way community We therefore require that all contributions **adhere to
 ## Get in touch
 
 Ping us in our [gitter channel](https://gitter.im/WhitakerLab/the-turing-way).\
-You can also contact the PI of the Turing Way project - Kirstie Whitaker - by email at kwhitaker@turing.ac.uk. 
+You can also contact the PI of the Turing Way project - Kirstie Whitaker - by email at kwhitaker@turing.ac.uk.
 
 ## Contributing through GitHub
 
@@ -43,7 +43,7 @@ GitHub has a helpful page on [getting started with writing and formatting on Git
 
 Most of the writing that you'll do will be in [Markdown][markdown]. You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting. For example you could write words as bold (`**bold**`), or in italics (`*italics*`), or as a [link][rick-roll] (`[link](https://https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
 
-## Where to start: issues 
+## Where to start: issues
 
 Before you open a new issue, please check if any of the open issues covers your idea already. If you open a new issue, please follow our basic guidelines laid out in our [issue template][issue-template].
 
@@ -57,7 +57,7 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
 * [![question](https://img.shields.io/badge/-question-cc317c.svg)][labels-question] *These issues contain a question that you'd like to have answered.*
 
-    There are [lots of ways to ask questions](#get-in-touch) but opening an issue is a great way to start a conversation and get your answer. 
+    There are [lots of ways to ask questions](#get-in-touch) but opening an issue is a great way to start a conversation and get your answer.
 
 * [![good-first-issue](https://img.shields.io/badge/-good%20first%20issue-1b3487.svg)][labels-firstissue] *These issues are particularly appropriate if it is your first contribution to the Turing Way, or to GitHub overall.*
 
@@ -70,7 +70,7 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 * [![Community](https://img.shields.io/badge/-community-8605c1.svg)][labels-community] *These issues relate to building and supporting the Turing Way community.*
 
  This is all about collaborating, so please let us know how we can best support you as a community member.
- 
+
 * [![Bug](https://img.shields.io/badge/-bug-d73a4a.svg)][labels-bug] *These issues are reporting a problem or a mistake in the project.*
 
     The more details you can provide the better! If you know how to fix the bug, please open an issue first and then submit a pull request :sparkles:
@@ -91,17 +91,19 @@ If you feel that we should try new tools or some aspects of the collaboration co
 
 * [![Comms](https://img.shields.io/badge/-comms-15c4b2.svg)][labels-comms] *These issues discuss how we as a project interact with other initiatives.*
 
-    
+
+
 ## Making a change with a pull request
 > Needs to cover:
 > - Open pull requests early
-> - Use the WIP marker if you're not ready for the review 
+> - Use the WIP marker if you're not ready for the review
 > - You can submit pull requests to the OTHER PERSON'S BRANCH.
 > - All the branch and fork and sync stuff that I kind of understand but cannot explain
 > - Commit often
 > - Write good commit messages
 
 ## The process of writing chapters
+
 - Create a branch and create a markdown file on it
 - Make a pull request to the turning way master branch. The title of this request should have [WIP] meaning work in progress at the start.
 - On your branch add material to the chapter and commit. The goal of this project is to collate and build on the many good resources already available about good practise in data science. As such this material should primarily be drawn from outside sources. Note the link and (if available) license of the source.
@@ -109,17 +111,6 @@ If you feel that we should try new tools or some aspects of the collaboration co
 - Edit the amased material into a coherent chapter, adding more material if gaps become apparent.
 - Edit the chapter for style.
 
-## Become a maintainer
-
-## Thank you!
-
-You're awesome. :wave::smiley:
-
-<br>
-
-*&mdash; Based on contributing guidelines from the [BIDS Starter Kit][bids-starter-kit] project.*
-
-[bids-starter-kit]: https://github.com/bids-standard/bids-starter-kit/blob/master/CONTRIBUTING.md
 [git]: https://git-scm.com
 [github]: https://github.com
 [issue-template]: https://github.com/alan-turing-institute/the-turing-way/blob/master/ISSUE_TEMPLATE.md
