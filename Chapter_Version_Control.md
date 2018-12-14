@@ -13,7 +13,7 @@
 *How should I combine high level explanation of what version control CAN do vs step by step of HOW to do it in git and github? Meshing it together seems like I'm trying to explain too many things at once, and git isn't the only version control software out there. However completly separating the
 all the why and all the how means a person who's reading about version control can't follow easily, they'd have to scroll a lot from what is a commit to how do you make one. Hmmm.*    
 
-*Need to mention git status, git diff, and git log somewhere. Might be worth having a summarising table with commands and what they do.*
+*Might be worth having a summarising table with commands and what they do/glossary*
 
 *Should at least mention version control software other than git.*
 
@@ -23,26 +23,66 @@ all the why and all the how means a person who's reading about version control c
 
 ## *Structure*
 
+*I'm thinking we order subsections as*
+*1. State the problem e.g. can't retrieve past versions (commits), don't have anywhere safe to do work (branches) etc.*
+*2. Description of the version control facility that solves that problem.*
+*3. Explanation of how to actually do it.*
+*4. Best practice for actually doing it.*
+
+*Want to make sure people understand VC fist before we explain collaborative VC*
+
+- *Summary*
+  - *Worry about this last*
 - *What is version control*
-  - *Should keep this high level, include the diagram, go over the very basics of branches and merging
+  - *Should keep this high level, include the diagram, go over the very basics of branches and merging*
+  - *This should potentially be up in the summary*
 - *Why you should use version control*
-  - *First paragraph, core benefits focusing on how it helps the USER, convince people this is something they should invest time in to help thier research in the long term. Keeps versions safe and recoverable, keeps things tidy, enables collaboration
+  - *First paragraph, core benefits focusing on how it helps the USER, convince people this is something they should invest time in to help thier research in the long term. Keeps versions safe and recoverable, keeps things tidy, enables collaboration*
+  - *Again this should potentially be up in the summary*
   - *How it benefits science, reproducibility etc. Maybe not that relevant here, maybe more open source's thing?*
+- *Prerequisites / recommended skill level*
+- *Definitions/glossary*
 - *How to use version control for your own project and how to use it well*
-  - *Say this is split into how to do it and how to do it well. In terms of how to do it we're going to give the actual commands to do all this in git because widely used, but the info on good practise, i.e. how to do it well, is still relevant even if you're using other VC software like mercurial.
-  - Set up a repo, git init. Don't talk about putting it online yet.
-  - Say how to make a commit
-    - Best practice for committing, e.g. keep bitesized
-    - Best practise for commit messages. e.g. make them meaningful.
-  - Say how to make branches
-    - Best practise for branches, i.e. make changes on them, keep master clean.
-  - How to merge
-    - Resolving merge conflicts
-- How to use version control to collaborate. Say should understand how to use it for your own project before trying to understand how to do it with other people, if reading this section need to read (or already understand) previous one.
-  - Divide into if it's your project people are collaborating on, and collaborating on someone else's?
+  - *Intro*
+    - *Say in terms of how to do it we're going to give the actual commands to do all this in git because widely used, but the info on good practise, i.e. how to do it well, is still relevant even if you're using other VC software like mercurial.*
+    - *Set up a repo, git init. Don't talk about putting it online yet.*
+  - *Commits*
+    - *Problem = want to access past versions*
+    - *Say how to add files, say how git status tells you what's been added. Git diff to see the difference. How to make a commit and how to get files/whole project back to past commit. Say git log gives log of past commits. Git diff to see what changed between two commits.*
+    - *Best practice for committing, e.g. keep bitesized*
+  - *Commit messages*
+    - *Problem = when you've been working on a project for a while different versions stack up, hard to remember what does what. Having something is no good if you can't find/understand it.*
+    - *Say what commit messages are.*
+    - *Explain that when you commit (regardless(???) of what VC software you're using) you can give a commit message, say show up in git log.*
+    - *How to give a commit message.*
+    - *Best practise for commit messages. e.g. make them meaningful.*
+  - *Branches*
+    - *Problem = if you're working on something it could screw up your working version*
+    - *Describe in detail what branches are and how they fix the problem, mention can do branches from branches*
+    - *Say how to make branches and switch between them. Git status to find ou which branch you're on.*
+    - *Best practise for branches, i.e. make changes on them, keep master clean., try to limit one feature being added per branch, not a whole mess of things which may be completed at different times.*
+  - *Merging*
+    - *Problem = once you've got your changes working you want to combine them into your main thing*
+    - *VC lets you merge changes in*
+    - *How to merge*
+    - *Best practice for merging, e.g. don't put half finished stuff in.*
+  - *Merge conflicts*
+    - *Problem = May have made changes to master (or whatever sub-branch you're merging to (overcomplicating?)) since you started the branch. When you go to merge may be incompatible.*
+    - *VC will highlight those changes and let you sort them out*  
+    - *How to resolve merge conflicts*
+    - *Best practise for preventing and dealing with merge conflicts, e.g. merge from upstream often, keep branches and commits focused on limited changes, etc.*
+- *Using version control to collaborate.*
+  - *Introduction*
+    - *Science is becoming increasingly collaborative. If you have a lot of people working on the same codebase all changing it things can get messy and tangled very fast. Also how a lot of major open source projects are run by this.*  
+    - *Say should understand how to use it for your own project before trying to understand how to do it with other people, if reading this section need to read (or already understand) previous one.*
+  - *Divide into if it's your project people are collaborating on, and collaborating on someone else's?*
+  - *I could use some help from those more familiar with gitHUB and using git to collaborate for this section.* 
 
-
-## What is version control
+- *Checklist*
+- *What to learn next?*
+- *Recommended reading*
+- *Other useful links*
+- *What is version control*
 
 *Should definitely have a diagram, couldn't find one I liked so I made this one. We could replace it with a better one later*
 
