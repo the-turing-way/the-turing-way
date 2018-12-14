@@ -78,7 +78,7 @@ Working through these tutorials: [Foundational resources for Kubernetes](https:/
  
 Install a Hypervisor (see link above, I chose VisualBox for macOSX).
  
-Install `minikube`:
+Install `minikube` (alternative installation methods [here](https://github.com/kubernetes/minikube/releases)):
  ```
 curl -Lo minikube https://storage.googleapis.com/minikube/releases/v0.31.0/minikube-darwin-amd64 && chmod +x minikube && sudo cp minikube /usr/local/bin/ && rm minikube
 ```
@@ -210,3 +210,40 @@ To connect JupyterHub and BinderHub, get the IP address of the JupyterHub deploy
 kubectl --namespace=<namespace-from-above> get svc proxy-public
 ```
 **WARNING:** `EXTERNAL_IP` field reports `<pending>` for aaaaaagggggeeeeeesssss. Seriously, go get _several_ coffees...
+
+## Changing Tack
+Conversation with **@choldgraf** on GitHub [here](https://github.com/jupyterhub/binderhub/issues/695): suggested switching to the contributing guidelines for a `minikube` installation, [here](https://github.com/jupyterhub/binderhub/blob/master/CONTRIBUTING.md).
+
+Git clone BinderHub and move into it:
+```
+git clone https://github.com/jupyterhub/binderhub
+cd binderhub
+```
+
+Install a Hypervisor and `minikube` as above.
+
+Start `minikube`:
+```
+minikube start
+```
+
+Install Helm as above and initialise:
+```
+helm init
+```
+
+Add the JupyterHub Helm Charts:
+```
+helm repo add jupyterhub https://jupyterhub.github.io/helm-chart/
+helm repo update
+```
+
+Install BinderHub and the development requirements:
+```
+python3 -m pip install -e . -r dev-requirements.txt
+```
+
+Install JupyterHub in `minikube` with `helm`:
+```
+./testing/minikube/install-hub
+```
