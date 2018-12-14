@@ -6,14 +6,7 @@
 
 *Maybe make the principle why you should use this as "Version control removes risk." It's a neat four-word takeaway. Follow up, maybe "Using version control keeps every version of your project stored and safe, so if future changes break you code irretrievably, or something is deleted that you later need it's the matter of seconds to retrieve your past versions. It also keeps your working directory neat..."*
 
-*Should emphasise that version control is also useful when working alone, not just in collaborations*
-
-*Talk about how to get past versions.*
-
-*How should I combine high level explanation of what version control CAN do vs step by step of HOW to do it in git and github? Meshing it together seems like I'm trying to explain too many things at once, and git isn't the only version control software out there. However completly separating the
-all the why and all the how means a person who's reading about version control can't follow easily, they'd have to scroll a lot from what is a commit to how do you make one. Hmmm.*    
-
-*Might be worth having a summarising table with commands and what they do/glossary*
+*Might be worth having a summarising table with commands and what they do.*
 
 *Should at least mention version control software other than git.*
 
@@ -28,6 +21,8 @@ all the why and all the how means a person who's reading about version control c
 *2. Description of the version control facility that solves that problem.*
 *3. Explanation of how to actually do it.*
 *4. Best practice for actually doing it.*
+
+*I think the best practise sections should have a different background colour/be in boxes so someone who already knows about version control but wants to know more about best practise can find it easily. Also given the thrust of this project is good practise I think really highlighting those sections is meritted.*
 
 *Want to make sure people understand VC fist before we explain collaborative VC*
 
@@ -76,13 +71,22 @@ all the why and all the how means a person who's reading about version control c
     - *Science is becoming increasingly collaborative. If you have a lot of people working on the same codebase all changing it things can get messy and tangled very fast. Also how a lot of major open source projects are run by this.*  
     - *Say should understand how to use it for your own project before trying to understand how to do it with other people, if reading this section need to read (or already understand) previous one.*
   - *Divide into if it's your project people are collaborating on, and collaborating on someone else's?*
-  - *I could use some help from those more familiar with gitHUB and using git to collaborate for this section.* 
-
+  - *I could use some help from those more familiar with gitHUB and using git to collaborate for this section.*
 - *Checklist*
 - *What to learn next?*
 - *Recommended reading*
 - *Other useful links*
 - *What is version control*
+
+------
+
+## Summary
+
+
+## Prerequisites / recommended skill level
+No prerequisites. Recommended skill level: beginner - intermediate. Version control has a great deal of useful features, but total mastery is not necessary to achieve a great deal with it. Even a beginner utilising a few of the simplest features well can save themselves a great deal of time and drastically improve the reproducibility of their work. Naturally, we encourage readers to make use of the entire chapter, but readers should not be discouraged from using some tools they feel comfortable with if they are not comfortable with *all* the tools available. 
+
+## Definitions/glossary
 
 *Should definitely have a diagram, couldn't find one I liked so I made this one. We could replace it with a better one later*
 
