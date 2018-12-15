@@ -95,14 +95,39 @@ No prerequisites. Recommended skill level: beginner - intermediate. Version cont
 
 ## What is version control?
 
-*Should definitely have a diagram, couldn't find one I liked so I made this one. We could replace it with a better one later*
-
-![github_diagram](figures/github_diagram.jpg)
-
-*Should explain the concept of branches and merging here while I've got the diagram, but leave the details (e.g merge conflicts, what makes a good commit message) for later.*
 
 
-What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It is typically applied to managing changing in code, though in reality you can do this with nearly any type of file on a computer.
+
+What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It is typically applied to managing changes in code, though in reality you can do this with nearly any type of file on a computer.
+
+The typical procedure for using version control is as follows:
+
+1. Have some files
+2. Do some work- you will now have made changes. Maybe you've modified one or more files, added new ones, or deleted old ones, it doesn't matter.
+3. Make a commit. This means you take a snapshot of your work at this point in time.
+
+Keep doing work and making more and more commits. You can kind of think of commits as checkpoints. If you ever need to go back to any past checkpoint to get a file as it was then, or just return your entire project to a past state you can. An illustration of this is shown in the figure below.  
+
+*Should definitely have a diagram, couldn't find one I liked so I made these. We could replace them with better ones later*
+
+![master_branch](figures/master_branch.png)
+
+So you have your project and you want to add new or something or try something out. With version control you can make a branch to do this work on. Any work you do on your branch won't be present on your main project (referred to as your master branch) so it remains nice and safe and you can continue to work on it. Once you're happy with your New Thing you can 'merge' your branch back into your master copy.
+
+![one_branch](figures/one_branch.png)
+
+You can have more than one branch off of your master copy, and if one of your branches ends up not working you can either abandon it or delete it without the master branch of your project ever being impacted.
+
+![two_branches](figures/two_branches.png)
+
+If you want you can even have branches off of branches (and branches off of those branches and so on).
+
+![sub_branch](figures/two_branches.png)
+
+No matter how many branches you have you can access past commits you made on any of them. 
+
+## Why would you use version control?
+
 People working on data science may have a large array of files (code, data, figures, notes) that they update
 but want to keep every version. This process is often informal and haphazard, where multiple revisions of papers, code, and datasets are saved as duplicate copies with uninformative file names (e.g. my_code.py my_code_2.py my_code_2a.py, my_code_2b.py). As authors receive new data and feedback from peers and collaborators, maintaining those versions and merging changes can result in an unmanageable proliferation of files. It is also incredibly error prone. It is easy to forget what different files contain, or to copy over files you don’t mean to. This leads to a great deal of time wasted on figuring out what files contain and reproducing accidently overwritten files.
 
@@ -110,7 +135,7 @@ One solution to these problems would be to use a formal Version Control System (
 Version control allows you to do this and to revert files you select back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Using a version control system also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead.
 
 
-## Why would you use version control?
+----
 
 
 From [here](https://guide.esciencecenter.nl/best_practices/version_control.html). **Creative Commons Attribution 4.0 International License**
@@ -132,7 +157,7 @@ This has the additional benefit that you need to understand for yourself what it
 
 When you restore from a backup, you are going back in time: I want to restore the last version, or to yesterday's (last week's) version. When you restore from a versioning system, you go back to a decision: I want to restore my former version, or an alternative version (a different branch),  because that one turns out to be the better solution or approach. Backup is a special case of versioning.
 
-There are numerous tools for versioning, and the best know one is git and its web-based version, Github. (They are not really strongly different, in that you can use GitHub as the remote repository for your local git repository).
+There are numerous tools for versioning, and the best know one is git and its web-based version, Github.
 
 
 ------
