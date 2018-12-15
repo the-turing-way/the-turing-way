@@ -649,7 +649,6 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 
 *I think this section should go over the command line nitty-gritty. The explanation of what branches are etc should all be done before that because that's common to all VC, this section is git specific, and command line specific*
 
-*There's a how to [here](https://tonysyu.github.io/source-control-for-scientists-and-soloists.html#.XA6Q3mj7RPY). Basic but something to build on.* **No License, reached out 15/12/18, permission given also 15/12/18**
 
 *Very detailed how to [here](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter).* **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.**
 
@@ -668,4 +667,5 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 
 [This](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Controls) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
 [This](https://link.springer.com/article/10.1186/1751-0473-8-7). **Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0)** *Other useful stuff in this paper, could use their into as part of the book's intro*
-[This](http://crlionline.net/node/198). **Permission to use given by the author (Peter Reimann)**
+[This](http://crlionline.net/node/198). **Permission to use given by the author (Peter Reimann) 54/12/18**
+[This](https://tonysyu.github.io/source-control-for-scientists-and-soloists.html#.XA6Q3mj7RPY). **Permission given by the author (Tony Yu) 15/12/18**
