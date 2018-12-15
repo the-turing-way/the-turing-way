@@ -4,8 +4,6 @@
 
 *Thoughts here and throughout will be in italics*
 
-*Maybe make the principle why you should use this as "Version control removes risk." It's a neat four-word takeaway. Follow up, maybe "Using version control keeps every version of your project stored and safe, so if future changes break you code irretrievably, or something is deleted that you later need it's the matter of seconds to retrieve your past versions. It also keeps your working directory neat..."*
-
 *Might be worth having a summarising table with commands and what they do.*
 
 *Should at least mention version control software other than git.*
@@ -15,6 +13,8 @@
 ------
 
 ## *Structure*
+
+*Things that have already been done are ~~crossed out~~
 
 *I'm thinking we order subsections as*
 *1. State the problem e.g. can't retrieve past versions (commits), don't have anywhere safe to do work (branches) etc.*
@@ -28,9 +28,8 @@
 
 - *Summary*
   - *Worry about this last*
-- *What is version control*
-  - *Should keep this high level, include the diagram, go over the very basics of branches and merging*
-  - *This should potentially be up in the summary*
+- *~~What is version control~~*
+  - *~~Should keep this high level, include the diagram, go over the very basics of branches and merging~~*
 - *Why you should use version control*
   - *First paragraph, core benefits focusing on how it helps the USER, convince people this is something they should invest time in to help thier research in the long term. Keeps versions safe and recoverable, keeps things tidy, enables collaboration*
   - *Again this should potentially be up in the summary*
@@ -95,9 +94,6 @@ No prerequisites. Recommended skill level: beginner - intermediate. Version cont
 
 ## What is version control?
 
-
-
-
 What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It is typically applied to managing changes in code, though in reality you can do this with nearly any type of file on a computer.
 
 The typical procedure for using version control is as follows:
@@ -112,6 +108,8 @@ Keep doing work and making more and more commits. You can kind of think of commi
 
 ![master_branch](figures/master_branch.png)
 
+Every time you make a commit you can tag it with a commit message explaining what this snapshot of your project is doing. This makes it very easy to find what you're looking for when you need to go back to a past version.
+
 So you have your project and you want to add new or something or try something out. With version control you can make a branch to do this work on. Any work you do on your branch won't be present on your main project (referred to as your master branch) so it remains nice and safe and you can continue to work on it. Once you're happy with your New Thing you can 'merge' your branch back into your master copy.
 
 ![one_branch](figures/one_branch.png)
@@ -124,7 +122,7 @@ If you want you can even have branches off of branches (and branches off of thos
 
 ![sub_branch](figures/two_branches.png)
 
-No matter how many branches you have you can access past commits you made on any of them. 
+No matter how many branches you have you can access past commits you made on any of them.
 
 ## Why would you use version control?
 
@@ -132,7 +130,22 @@ People working on data science may have a large array of files (code, data, figu
 but want to keep every version. This process is often informal and haphazard, where multiple revisions of papers, code, and datasets are saved as duplicate copies with uninformative file names (e.g. my_code.py my_code_2.py my_code_2a.py, my_code_2b.py). As authors receive new data and feedback from peers and collaborators, maintaining those versions and merging changes can result in an unmanageable proliferation of files. It is also incredibly error prone. It is easy to forget what different files contain, or to copy over files you don’t mean to. This leads to a great deal of time wasted on figuring out what files contain and reproducing accidently overwritten files.
 
 One solution to these problems would be to use a formal Version Control System (VCS), which have long been used in the software industry to manage code.
-Version control allows you to do this and to revert files you select back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Using a version control system also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead.
+Version control allows you to do this and to revert files you select back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Using a version control system also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead. Many people have felt the horror of loosing days if not weeks of work when changes to a code break it irretrievably and with this lies the key reasons to use version control **it removes risk and saves time.**
+
+Further, commit messages help you understand why in the past you made certain changes, why you did a certain analysis in the way you did it.
+You yourself understand what the saved file does, even weeks or months later when you've long since forgotten what changes you made.
+Commit messages also help others working on the same project to more easily understand what you did. This is helpful should you want to share your analysis (not only your data), and/or make it auditable--more generally, reproducible, which is good scientific practice.
+
+*Should say somewhere also keeps your working directory neat, don't have multiple versions of the same file/ blocks of commented out code*
+
+
+
+
+
+
+
+
+There are numerous tools for versioning, and the best know one is git and its web-based version, Github.
 
 
 ----
@@ -146,21 +159,6 @@ From [here](https://guide.esciencecenter.nl/best_practices/version_control.html)
 - **Integration** Version control software and host makes it more easy to integrate with other software that support modern software development, such as testing (continuous integration ,automatically run tests, build documentation, check code style, integration with bug-tracker, code review infrastructure, comment on code).
 
 --------
-
-From [here](http://crlionline.net/node/198). **Permission to use given by the author (Peter Reimann)**
-
-If you are not ready for this yet, you will be at some time - when you have felt the horror of loosing days if not weeks of work. But versioning is useful for less dramatic purposes as well, not only for backup. For instance, to help you understand why in the past you made certain changes, why you did a certain analysis in the way you did it. Or you simply want to undo a change in your analysis. Or because you want to keep an audit trail of your analysis. Or to share it with others.
-
-You yourself understand what the saved file does, even weeks or months later;
-Others can easier understand what you did. This is helpful should you want to share your analysis (not only your data), and/or make it auditable--more generally, reproducible, which is good scientific practice.
-This has the additional benefit that you need to understand for yourself what it is you just did.
-
-When you restore from a backup, you are going back in time: I want to restore the last version, or to yesterday's (last week's) version. When you restore from a versioning system, you go back to a decision: I want to restore my former version, or an alternative version (a different branch),  because that one turns out to be the better solution or approach. Backup is a special case of versioning.
-
-There are numerous tools for versioning, and the best know one is git and its web-based version, Github.
-
-
-------
 
 From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html) **No license reached out 13/12/18**
 
@@ -649,3 +647,4 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 
 [This](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Controls) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
 [This](https://link.springer.com/article/10.1186/1751-0473-8-7). **Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0)** *Other useful stuff in this paper, could use their into as part of the book's intro*
+[This](http://crlionline.net/node/198). **Permission to use given by the author (Peter Reimann)**
