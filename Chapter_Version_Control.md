@@ -101,13 +101,13 @@ No prerequisites. Recommended skill level: beginner - intermediate. Version cont
 
 *Should explain the concept of branches and merging here while I've got the diagram, but leave the details (e.g merge conflicts, what makes a good commit message) for later.*
 
-From [here](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Controls) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
 
 What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It is typically applied to managing changing in code, though in reality you can do this with nearly any type of file on a computer.
 People working on data science may have a large array of files (code, data, figures, notes) that they update
-but want to keep every version. Version control allows you to do this and to revert files you select back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Using a version control system also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead.
+but want to keep every version. This process is often informal and haphazard, where multiple revisions of papers, code, and datasets are saved as duplicate copies with uninformative file names (e.g. my_code.py my_code_2.py my_code_2a.py, my_code_2b.py). As authors receive new data and feedback from peers and collaborators, maintaining those versions and merging changes can result in an unmanageable proliferation of files. It is also incredibly error prone. It is easy to forget what different files contain, or to copy over files you don’t mean to. This leads to a great deal of time wasted on figuring out what files contain and reproducing accidently overwritten files.
 
-Many people’s version-control method of choice is to copy files into another directory, or to save copies manually e.g. my_code_.py my_code_2.py my_code_2a.py, my_code_2b.py etc. This approach is very common because it is so simple, but it is also incredibly error prone. It is easy to forget what different files contain, or to copy over files you don’t mean to.
+One solution to these problems would be to use a formal Version Control System (VCS), which have long been used in the software industry to manage code.
+Version control allows you to do this and to revert files you select back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Using a version control system also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead.
 
 
 ## Why would you use version control?
@@ -134,19 +134,6 @@ When you restore from a backup, you are going back in time: I want to restore th
 
 There are numerous tools for versioning, and the best know one is git and its web-based version, Github. (They are not really strongly different, in that you can use GitHub as the remote repository for your local git repository).
 
------
-
-From [here](https://link.springer.com/article/10.1186/1751-0473-8-7). **Creative Commons
-Attribution License (http://creativecommons.org/licenses/by/2.0)**
-
-*Other useful stuff in this paper, could use their into as part of the book's intro*
-
-All scientists use version control in one form or another at various stages of their research projects, from the data collection all the way to manuscript preparation. This process is often informal and haphazard, where multiple revisions of papers, code, and datasets are saved as duplicate copies with uninformative file names (e.g. draft 1.doc, draft 2.doc). As authors receive new data and feedback from peers and collaborators, maintaining those versions and merging changes can result in an unmanageable proliferation of files. One solution to these problems would be to use a formal Version Control System (VCS), which have long been used in the software industry to manage code. A key feature common to all types of VCS is that ability save versions of files during development along with informative
-comments which are referred to as commit messages. Every change and accompanying notes are stored independent of the files, which obviates the need for duplicate copies. Commits serve as checkpoints where individual files or an entire project can be safely reverted to when necessary. Most traditional VCS are centralized which means that they require a connection to a central server which maintains the master copy. Users with appropriate privileges can check out copies, make changes, and upload them back to the server.
-
-When data are analyzed programmatically using software such as R and Python, code files start out small and often become more complex over time. Somewhere along the process, inadvertent errors such as misplaced subscripts and incorrectly applied functions can lead to serious errors down the line. When such errors are discovered well into a project, comparing versions of statistical scripts can provide a way to quickly trace the source of the problem and recover from them.
-
-Similarly, figures that are published in a paper often undergo multiple revisions before resulting in a final version that gets published. Without version control, one would have to deal with multiple copies and use imperfect information such as file creation dates to determine the sequence in which they were generated. Without additional information, figuring out why certain versions were created (e.g. in response to comments from coauthors) also becomes more difficult. When figures are managed with Git, the commit messages (e.g. “Updated figure in response to Ethan’s comments regarding use of normalized data.”) provide an unambiguous way to track various versions.
 
 ------
 
@@ -161,6 +148,8 @@ A version control system serves the following purposes, among others.
 
 
 From [here](https://githowto.com/undoing_committed_changes). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
+
+ Commits serve as checkpoints where individual files or an entire project can be safely reverted to when necessary.
 
 To cancel the commit, we need to create a commit that deletes the changes saved by unwanted commit.
 
@@ -469,11 +458,11 @@ Conflicts are marked in a file with clear line breaks:
  This is a fourth line I am adding
  >>>>>>> 4e2b407f501b68f8588aa645acafffa0224b9b78:mergetest
 ```
-```<<<<<<<```: Indicates the start of the lines that had a merge conflict. The first set of lines are the lines from the file that you were trying to merge the changes into.
+'<<<<<<<': Indicates the start of the lines that had a merge conflict. The first set of lines are the lines from the file that you were trying to merge the changes into.
 
-```=======```: Indicates the break point used for comparison. Breaks up changes that user has committed (above) to changes coming from merge (below) to visually see the differences.
+'=======': Indicates the break point used for comparison. Breaks up changes that user has committed (above) to changes coming from merge (below) to visually see the differences.
 
-```>>>>>>>```: Indicates the end of the lines that had a merge conflict.
+'>>>>>>>': Indicates the end of the lines that had a merge conflict.
 
 How do I resolve a merge conflict in a file?
 You resolve a conflict by editing the file to manually merge the parts of the file that git had trouble merging. This may mean discarding either your changes or someone else's or doing a mix of the two. You will also need to delete the '<<<<<<<', '=======', and '>>>>>>>' in the file.
@@ -624,3 +613,14 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 ## Github
 
 *I think this section should go over how to do this in the browser/gui nitty-gritty. Again, the explanation of what branches are etc should all be done before.*
+
+## What to learn next?
+
+## Recommended reading
+
+## Other useful links
+
+### Materials used in this chapter
+
+[This](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Controls) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
+[This](https://link.springer.com/article/10.1186/1751-0473-8-7). **Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0)** *Other useful stuff in this paper, could use their into as part of the book's intro*
