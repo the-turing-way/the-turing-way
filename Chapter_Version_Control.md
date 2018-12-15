@@ -628,7 +628,7 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 
 *I think this section should go over the command line nitty-gritty. The explanation of what branches are etc should all be done before that because that's common to all VC, this section is git specific, and command line specific*
 
-*There's a how too [here](https://tonysyu.github.io/source-control-for-scientists-and-soloists.html#.XA6Q3mj7RPY). Basic but something to build on.* **No License, reached out 15/12/18**
+*There's a how to [here](https://tonysyu.github.io/source-control-for-scientists-and-soloists.html#.XA6Q3mj7RPY). Basic but something to build on.* **No License, reached out 15/12/18, permission given also 15/12/18**
 
 *Very detailed how to [here](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter).* **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.**
 
