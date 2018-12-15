@@ -44,13 +44,13 @@
   - *Commits*
     - *Problem = want to access past versions*
     - *Say how to add files, say how git status tells you what's been added. Git diff to see the difference. How to make a commit and how to get files/whole project back to past commit. Say git log gives log of past commits. Git diff to see what changed between two commits.*
-    - *Best practice for committing, e.g. keep bitesized*
+    - *Best practice for committing, e.g. keep bitesized, don't do per-file commits, whitespace changes together with code changes, or code drops*
   - *Commit messages*
-    - *Problem = when you've been working on a project for a while different versions stack up, hard to remember what does what. Having something is no good if you can't find/understand it.*
+    - *Problem = when you've been working on a project for a while different versions stack up, hard to remember what does what. Having something is no good if you can't find/understand it, and figuring it out can take valuable time.*
     - *Say what commit messages are.*
     - *Explain that when you commit (regardless(???) of what VC software you're using) you can give a commit message, say show up in git log.*
     - *How to give a commit message.*
-    - *Best practise for commit messages. e.g. make them meaningful.*
+    - *Best practise for commit messages. e.g. make them meaningful, cover why the change is necessary, how it addresses the issue, and what effects the change has. Also don't describe the code, describe the intent and the approach. And keep the log in a present tense.*
   - *Branches*
     - *Problem = if you're working on something it could screw up your working version*
     - *Describe in detail what branches are and how they fix the problem, mention can do branches from branches*
@@ -83,10 +83,17 @@
 ## Summary
 
 
-## Prerequisites / recommended skill level
-No prerequisites. Recommended skill level: beginner - intermediate. Version control has a great deal of useful features, but total mastery is not necessary to achieve a great deal with it. Even a beginner utilising a few of the simplest features well can save themselves a great deal of time and drastically improve the reproducibility of their work. Naturally, we encourage readers to make use of the entire chapter, but readers should not be discouraged from using some tools they feel comfortable with if they are not comfortable with *all* the tools available. 
+## How this is helpful
 
-## Definitions/glossary
+
+## Prerequisites / recommended skill level
+No prerequisites. Recommended skill level: beginner - intermediate. Version control has a great deal of useful features, but total mastery is not necessary to achieve a great deal with it. Even a beginner utilising a few of the simplest features well can save themselves a great deal of time and drastically improve the reproducibility of their work. Naturally, we encourage readers to make use of the entire chapter, but readers should not be discouraged from using some tools they feel comfortable with if they are not comfortable with *all* the tools available.
+
+### Definitions/glossary
+
+
+
+## What is version control?
 
 *Should definitely have a diagram, couldn't find one I liked so I made this one. We could replace it with a better one later*
 
@@ -129,7 +136,7 @@ There are numerous tools for versioning, and the best know one is git and its we
 
 -----
 
-From [here](http://who-t.blogspot.com/2009/12/on-commit-messages.html). **Creative Commons
+From [here](https://link.springer.com/article/10.1186/1751-0473-8-7). **Creative Commons
 Attribution License (http://creativecommons.org/licenses/by/2.0)**
 
 *Other useful stuff in this paper, could use their into as part of the book's intro*
@@ -152,19 +159,6 @@ A version control system serves the following purposes, among others.
 
 ### Commits
 
-From [here](http://who-t.blogspot.com/2009/12/on-commit-messages.html). **No License, but blog still active, reached out 11/12/18**
-
-A commit should contain exactly one logical change. A logical change includes adding a new feature, fixing a specific bug, etc. If it's not possible to describe the high level change in a few words, it is most likely too complex for a single commit. It's almost always better to err on the side of too many commits than too few.
-
-Don't do:
-
-- Per-file commits. More often than not a logical change affects more than one file and it should not be split up into two commits.
-- Two changes in one commit. Something like "Fixed bug 2345 and renamed all foo to bar". Unless bug 2345 required the renaming you should split these into two commits. If you or a collaborator want to come back to a commit containing multiple changes to modify it or reuse only some of the changes it contains then problems quickly arise. Picking bad commits apart into useful chunks extremely time-consuming and frustrating since it doesn't actually add any value to the project.
-- Whitespace changes together with code changes. Needle in a haystack is a fun game, but not when you're looking at commits. It's a great way to introduce bugs, though because almost no-one will spot the bug hidden in hundreds of lines that got reindented for fun and profit.
-- Code drops, i.e. commits with hundreds of lines of code which dump in a new feature while at the same time rewriting half the existing infrastructure to support this feature. As a result, those hundreds of lines of code need to be reviewed every time a bug is discovered that is somehow related to that area of code.
-It's easier and less time consuming to first rework the infrastructure one piece at a time, then plug the new feature on top. As a side-effect, if a project relies on code dumps too often it's discouraging outside developers. Would you like to contribute to a project where the time spent filtering the signal from the noise outweighs the actual contribution to the code?
-
-----
 
 From [here](https://githowto.com/undoing_committed_changes). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
 
@@ -197,24 +191,6 @@ Commit messages are the way for other developers to understand changes in the co
 
 -----
 
-From [here](http://who-t.blogspot.com/2009/12/on-commit-messages.html). **No License, but blog still active, could reach out**
-
-Any software project is a collaborative project. It has at least two developers, the original developer and the original developer a few weeks or months later when the train of thought has long left the station. This later self needs to re-establish the context of a particular piece of code each time a new bug occurs or a new feature needs to be implemented. Re-establishing the context of a piece of code is wasteful. We can't avoid it completely, so our efforts should go to reducing it to as small as possible.
-
-A good commit message should answer three questions about a patch:
-
-- **Why is it necessary?** It may fix a bug, it may add a feature, it may improve performance, reliability, stability, or just be a change for the sake of correctness.
-- **How does it address the issue?** For short obvious patches this part can be omitted, but it should be a high level description of what the approach was.
-- **What effects does the patch have?** (In addition to the obvious ones, this may include benchmarks, side effects, etc.)
-
-These three questions establish the context for the actual code changes, put reviewers and others into the frame of mind to look at the diff and check if the approach chosen was correct. A good commit message also helps maintainers to decide if a given patch is suitable for stable branches or inclusion in a distribution.
-
-A patch without these questions answered is mostly useless. The burden for such a patch is on each and every reviewer to find out what the patch does and how it fixes a given issue. Given a large number of reviewers and a sufficiently complex patch, this means many man-hours get wasted just because the original developer did not write a good commit message. Worse, if the maintainers of the project enforce SCM discipline, they will reject the patch and the developer needs to spend time again to rewrite the patch, reviewers spend time reviewing it again, etc. The time wasted quickly multiplies and given that a commit message only takes a few minutes to write, it is simply not economically viable to omit them or do them badly.
-
-Don't describe the code, describe the intent and the approach. And keep the log in a present tense.
-
-
------
 By [Thom Holwerda](http://www.osnews.com/story/19266/WTFs_m). **Says anyone can do whatever, attribution nice but not compulsory**
 
 *Maybe include this somewhere else but have it somewhere*
