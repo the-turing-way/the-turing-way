@@ -31,15 +31,15 @@
 - *~~What is version control~~*
   - *~~Should keep this high level, include the diagram, go over the very basics of branches and merging~~*
 - *Why you should use version control*
-  - *First paragraph, core benefits focusing on how it helps the USER, convince people this is something they should invest time in to help thier research in the long term. Keeps versions safe and recoverable, keeps things tidy, enables collaboration*
-  - *Again this should potentially be up in the summary*
+  - *First paragraph, core benefits focusing on how it helps the USER, convince people this is something they should invest time in to help thier research in the long term. Keeps versions safe and recoverable, keeps things tidy*
+  - *Say it enables collaboration*
   - *How it benefits science, reproducibility etc. Maybe not that relevant here, maybe more open source's thing?*
-- *Prerequisites / recommended skill level*
+- *~~Prerequisites / recommended skill level~~*
 - *Definitions/glossary*
 - *How to use version control for your own project and how to use it well*
   - *Intro*
     - *Say in terms of how to do it we're going to give the actual commands to do all this in git because widely used, but the info on good practise, i.e. how to do it well, is still relevant even if you're using other VC software like mercurial.*
-    - *Set up a repo, git init. Don't talk about putting it online yet.*
+    - *~~Set up a repo, git init. Don't talk about putting it online yet.~~*
   - *Commits*
     - *Problem = want to access past versions*
     - *Say how to add files, say how git status tells you what's been added. Git diff to see the difference. How to make a commit and how to get files/whole project back to past commit. Say git log gives log of past commits. Git diff to see what changed between two commits.*
@@ -136,7 +136,7 @@ Further, commit messages help you understand why in the past you made certain ch
 You yourself understand what the saved file does, even weeks or months later when you've long since forgotten what changes you made.
 Commit messages also help others working on the same project to more easily understand what you did. This is helpful should you want to share your analysis (not only your data), and/or make it auditable--more generally, reproducible, which is good scientific practice.
 
-*Should say somewhere also keeps your working directory neat, don't have multiple versions of the same file/ blocks of commented out code*
+*Should say somewhere also keeps your working directory neat, don't have multiple versions of the same file/ blocks of commented out code "Keeping all that code around makes it harder for you when you revisit the code. "*
 
 
 
@@ -166,6 +166,27 @@ A version control system serves the following purposes, among others.
 
 - Version control enables multiple people to simultaneously work on a single project. Each person edits his or her own copy of the files and chooses when to share those changes with the rest of the team. Thus, temporary or partial edits by one person do not interfere with another person's work.
 - Version control gives access to historical versions of your project. This is insurance against computer crashes, data lossage, or code being broken in the course of future changes. If you make a mistake, you can roll back to a previous version. You can reproduce and understand a bug report on a past version of your software. You can also undo specific edits without losing all the work that was done in the meanwhile. For any part of a file, you can determine when, why, and by whom it was ever edited.
+
+### Getting Started
+
+This is important to know, but it isn't that exciting. To start using version control for your project you just go into the directory that contains all of your files (subdirectories will be included) and run
+
+```
+git init
+```
+
+in the terminal to create the git repository (often called "repo" for short). This just needs to be done once per project.
+
+Just think of the repository as a place where the history is being stored. A lot happens behind the scenes but who cares. (Maybe you care, but only after you really know how to use it.)
+
+Next add and commit your files to the repository by running
+
+```
+git add .
+git commit
+```
+
+We'll talk in more detail about these commands later, but for now just know if you run them then congratulations, you have finished setting up you repository!
 
 ### Commits
 
