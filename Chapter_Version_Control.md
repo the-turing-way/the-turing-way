@@ -107,7 +107,7 @@ What is “version control”, and why should you care? Version control is a sys
 People working on data science may have a large array of files (code, data, figures, notes) that they update
 but want to keep every version. Version control allows you to do this and to revert files you select back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Using a version control system also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead.
 
-Many people’s version-control method of choice is to copy files into another directory, or to save copies manually e.g. my_code_.py my_code_2.py my_code_2a.py, my_code_2b.py etc. This approach is very common because it is so simple, but it is also incredibly error prone. It is easy to forget what differnt files contain, or to copy over files you don’t mean to.
+Many people’s version-control method of choice is to copy files into another directory, or to save copies manually e.g. my_code_.py my_code_2.py my_code_2a.py, my_code_2b.py etc. This approach is very common because it is so simple, but it is also incredibly error prone. It is easy to forget what different files contain, or to copy over files you don’t mean to.
 
 
 ## Why would you use version control?
@@ -122,7 +122,7 @@ From [here](https://guide.esciencecenter.nl/best_practices/version_control.html)
 
 --------
 
-From [here](http://crlionline.net/node/198). **No license but active, could reach out**
+From [here](http://crlionline.net/node/198). **Permission to use given by the author (Peter Reimann)**
 
 If you are not ready for this yet, you will be at some time - when you have felt the horror of loosing days if not weeks of work. But versioning is useful for less dramatic purposes as well, not only for backup. For instance, to help you understand why in the past you made certain changes, why you did a certain analysis in the way you did it. Or you simply want to undo a change in your analysis. Or because you want to keep an audit trail of your analysis. Or to share it with others.
 
@@ -616,16 +616,11 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 
 *I think this section should go over the command line nitty-gritty. The explanation of what branches are etc should all be done before that because that's common to all VC, this section is git specific, and command line specific*
 
-*There's a how too [here](https://tonysyu.github.io/source-control-for-scientists-and-soloists.html#.XA6Q3mj7RPY). Basic but something to build on.* **No License, but github still active, could reach out**
+*There's a how too [here](https://tonysyu.github.io/source-control-for-scientists-and-soloists.html#.XA6Q3mj7RPY). Basic but something to build on.* **No License, reached out 15/12/18**
 
 *Very detailed how to [here](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter).* **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.**
-
-*Very lightweight guide [here](http://rogerdudler.github.io/git-guide/)* **No license, no activity on github past year**
-
 
 
 ## Github
 
 *I think this section should go over how to do this in the browser/gui nitty-gritty. Again, the explanation of what branches are etc should all be done before.*
-
-*Detailed guide of how to use github [here](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)* **No visible license could try reaching out**
