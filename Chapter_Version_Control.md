@@ -29,7 +29,7 @@
 - *~~What is version control~~*
   - *~~Should keep this high level, include the diagram, go over the very basics of branches and merging~~*
 - *Why you should use version control*
-  - *First paragraph, core benefits focusing on how it helps the USER, convince people this is something they should invest time in to help thier research in the long term. Keeps versions safe and recoverable, keeps things tidy*
+  - *~~First paragraph, core benefits focusing on how it helps the USER, convince people this is something they should invest time in to help thier research in the long term. Keeps versions safe and recoverable,~~ keeps things tidy*
   - *Say it enables collaboration*
   - *How it benefits science, reproducibility etc. Maybe not that relevant here, maybe more open source's thing?*
 - *~~Prerequisites / recommended skill level~~*
@@ -197,14 +197,39 @@ We'll talk in more detail about these commands later, but for now just know if y
 ### Commits
 
 - *Commits*
-  - *Problem = want to access past versions*
-  - *Say how to add files, say how git status tells you what's been added. Git diff to see the difference. How to make a commit and how to get files/whole project back to past commit. Say git log gives log of past commits. Git diff to see what changed between two commits.*
+  - *~~Problem = want to access past versions~~*
+  - *~~Say how to add files~~, say how git status tells you what's been added. Git diff to see the difference. How to make a commit and how to get files/whole project back to past commit. Say git log gives log of past commits. Git diff to see what changed between two commits.*
   - *Best practice for committing, e.g. keep bitesized, don't do per-file commits, whitespace changes together with code changes, or code drops*
 
 **The problem:** when working on a project you will make numerous changes to you files as you progress. Sometimes you may need to undo changes, take another look at past versions, or compare versions. Saving each version individually (version_1.py, version_2.py etc) is messy and quickly becomes impractical.
 
-By making commits you can save versions of your code and switch between them/compare them easily without cluttering up your directory.
+**The solution:** by making commits you can save versions of your code and switch between them/compare them easily without cluttering up your directory. Commits serve as checkpoints where individual files or an entire project can be safely reverted to when necessary.
 
+**How to do it:** when you've made a series of changes and you want to commit them you fist add these changes to your staging area using `git add`. You can add all your changes using
+
+```  
+git add .
+```
+
+or you can add the changes to specific files via
+
+```  
+git add your_file_name
+```
+
+If you're ever unsure what files have been added, what files have been changes, what files are untracked etc you can running
+
+```
+git status
+```
+
+To find out. When you're ready you can commit everythin in your staging area by running
+
+```
+git commit
+```
+
+It's that easy.
 
 
 
@@ -213,7 +238,7 @@ By making commits you can save versions of your code and switch between them/com
 
 From [here](https://githowto.com/undoing_committed_changes). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
 
- Commits serve as checkpoints where individual files or an entire project can be safely reverted to when necessary.
+
 
 To cancel the commit, we need to create a commit that deletes the changes saved by unwanted commit.
 
