@@ -6,8 +6,6 @@
 
 *Might be worth having a summarising table with commands and what they do.*
 
-*Should at least mention version control software other than git.*
-
 *For [creative commons](https://tldrlegal.com/license/creative-commons-attribution-4.0-international-(cc-by-4) you can do whatever but you must give credit to the original author of the work, including a URI or hyperlink to the work, this Public license and a copyright notice.*
 
 ------
@@ -145,7 +143,7 @@ Commit messages also help others working on the same project to more easily unde
 
 
 
-There are numerous tools for versioning, and the best know one is git and its web-based version, Github.
+There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, Github) which the instructions in this chapter will be geared towards. However the general principles and best practise described here applies regardless of what VC software you're using.  
 
 
 ----
@@ -667,5 +665,5 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 
 [This](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Controls) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
 [This](https://link.springer.com/article/10.1186/1751-0473-8-7). **Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0)** *Other useful stuff in this paper, could use their into as part of the book's intro*
-[This](http://crlionline.net/node/198). **Permission to use given by the author (Peter Reimann) 54/12/18**
+[This](http://crlionline.net/node/198). **Permission to use given by the author (Peter Reimann) 15/12/18**
 [This](https://tonysyu.github.io/source-control-for-scientists-and-soloists.html#.XA6Q3mj7RPY). **Permission given by the author (Tony Yu) 15/12/18**
