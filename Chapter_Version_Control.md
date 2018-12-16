@@ -300,25 +300,16 @@ git diff branch_name other_branch_name
 
 #### Good practise for commits
 
-from [here](http://sethrobertson.github.io/GitBestPractices/) **Creative Commons Attribution-ShareAlike 3.0 Generic**
 
 
-DO NOT
 
-- commit anything that can be regenerated from other things that were committed.
-Things that can be regenerated include binaries, object files, jars, .class, flex/yacc generated code, etc. Really the only place there is room for disagreement about this is if something might take hours to regenerate (rendered images, e.g., but see Dividing work into repositories for more best practices about this) or autoconf generated files (so people can configure and compile without autotools installed).
--commit configuration files
-Specifically configuration files that might change from environment to environment or for any reasons. See Information about local versions of configuration files
+Don't commit anything that can be regenerated from other things that were committed unless it is something might take hours to regenerate. Generated files just clutter up your repository and make contain features such as timestamps that can cause annoying merge conflicts (see below). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment.
 
 
 From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html) **No license, reached out 13/12/18**
 
 - **Each commit should have a single purpose and should completely implement that purpose.** This makes it easier to locate the changes related to some particular feature or bug fix, to see them all in one place, to undo them, to determine the changes that are responsible for buggy behaviour, etc. The utility of the version control history is compromised if one commit contains code that serves multiple purposes, or if code for a particular purpose is spread across multiple different commits.
 - **Avoid indiscriminate commits** As a rule, do not commit without supplying specific files to commit. If you supply no file names, then every change will be committed. You may have changes you did not intend to make permanent (such as temporary debugging changes).
-- **Don't commit generated files** Version control is intended for files that people edit. Generated files should not be committed to version control, as a rule, you should only commit the source files from which the files are generated.
-Generated files are not necessary in version control; each user can re-generate them from the source files.
-Further, generated files are prone to conflicts. They may contain a timestamp or in some other way depend on the system configuration. It is a waste of human time to resolve such uninteresting conflicts.
-Generated files can bloat the version control history (the size of the database that is stored in the repository). A small change to a source file may result in a rather different generated file. Eventually, this affects performance of the version control system.
 
 
 ### Commit messages
@@ -783,3 +774,4 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 [This](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter).* **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.**
 [This](https://githowto.com/undoing_committed_changes). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
 [This](https://www.atlassian.com/git/tutorials/saving-changes/git-diff) **Creative Commons Attribution 2.5 Australia License.**
+[This](http://sethrobertson.github.io/GitBestPractices/) **Creative Commons Attribution-ShareAlike 3.0 Generic**
