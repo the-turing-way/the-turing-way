@@ -93,6 +93,7 @@ Commit
 Commit message
 git
 GitHub   *say online, aids collaboration*
+HEAD
 Master branch
 Merge
 Merge conflict
@@ -254,7 +255,7 @@ git log
 
 In this log you'll see that each commit is automatically tagged with a unique string of numbers and letters called a SHA which you can use to access and compare them.
 
-#### Retrieving things from past Commits
+#### Retrieving past versions
 
 To cancel your latest commit run
 ```
@@ -273,22 +274,34 @@ git checkout SHA_of_the_version
  git checkout SHA_of_the_version -- your_file_name
  ```
 
-#### Comparing commits/files
+#### Comparing files/commits/branches
 
 In short: `git diff`.
 
+Diffing is a function that takes two input data sets and outputs the changes between them. `git diff` is a multi-use Git command that when executed runs a diff function on Git data sources. These data sources can be commits, branches, files and more.
 
+By default `git diff` will show you any uncommitted changes since the last commit. If you want to compare two specific things the syntax is
 
+```
+git diff thing_a thing_b
+```
 
+For example if you want to compare how a file has changed between two commits use `git log` to get the SHAs of those commits and run
 
+```
+git diff SHA_a:your_file_name SHA_b:your_file_name
+```
 
+Or if you wanted to compare two branches it would be
 
-
--------
-
-From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html) **No license, reached out 13/12/18**
+```
+git diff branch_name other_branch_name
+```
 
 #### Good practise for commits
+
+
+From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html) **No license, reached out 13/12/18**
 
 - **Each commit should have a single purpose and should completely implement that purpose.** This makes it easier to locate the changes related to some particular feature or bug fix, to see them all in one place, to undo them, to determine the changes that are responsible for buggy behavior, etc. The utility of the version control history is compromised if one commit contains code that serves multiple purposes, or if code for a particular purpose is spread across multiple different commits.
 - **Avoid indiscriminate commits** As a rule, do not commit without supplying specific files to commit. If you supply no file names, then every change will be committed. You may have changes you did not intend to make permanent (such as temporary debugging changes).
@@ -751,3 +764,4 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 [This](https://tonysyu.github.io/source-control-for-scientists-and-soloists.html#.XA6Q3mj7RPY). **Permission given by the author (Tony Yu) 15/12/18**
 [This](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter).* **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.**
 [This](https://githowto.com/undoing_committed_changes). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
+[This](https://www.atlassian.com/git/tutorials/saving-changes/git-diff) **Creative Commons Attribution 2.5 Australia License.**
