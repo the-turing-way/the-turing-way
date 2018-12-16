@@ -214,7 +214,7 @@ We'll talk in more detail about these commands later, but for now just know if y
 
 - *Commits*
   - *~~Problem = want to access past versions~~*
-  - *~~Say how to add files, say how git status tells you what's been added~~. Git diff to see the difference. How to make a commit and how to get files/whole project back to past commit. ~~Say git log gives log of past commits.~~*
+  - *~~Say how to add files, say how git status tells you what's been added. Git diff to see the difference. How to make a commit and how to get files/whole project back to past commit. Say git log gives log of past commits.~~*
   - *Best practice for committing, e.g. keep bitesized, don't do per-file commits, whitespace changes together with code changes, or code drops*
 
 **The problem:** when working on a project you will make numerous changes to you files as you progress. Sometimes you may need to undo changes, take another look at past versions, or compare versions. Saving each version individually (version_1.py, version_2.py etc) is messy and quickly becomes impractical.
@@ -300,10 +300,20 @@ git diff branch_name other_branch_name
 
 #### Good practise for commits
 
+from [here](http://sethrobertson.github.io/GitBestPractices/) **Creative Commons Attribution-ShareAlike 3.0 Generic**
+
+
+DO NOT
+
+- commit anything that can be regenerated from other things that were committed.
+Things that can be regenerated include binaries, object files, jars, .class, flex/yacc generated code, etc. Really the only place there is room for disagreement about this is if something might take hours to regenerate (rendered images, e.g., but see Dividing work into repositories for more best practices about this) or autoconf generated files (so people can configure and compile without autotools installed).
+-commit configuration files
+Specifically configuration files that might change from environment to environment or for any reasons. See Information about local versions of configuration files
+
 
 From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html) **No license, reached out 13/12/18**
 
-- **Each commit should have a single purpose and should completely implement that purpose.** This makes it easier to locate the changes related to some particular feature or bug fix, to see them all in one place, to undo them, to determine the changes that are responsible for buggy behavior, etc. The utility of the version control history is compromised if one commit contains code that serves multiple purposes, or if code for a particular purpose is spread across multiple different commits.
+- **Each commit should have a single purpose and should completely implement that purpose.** This makes it easier to locate the changes related to some particular feature or bug fix, to see them all in one place, to undo them, to determine the changes that are responsible for buggy behaviour, etc. The utility of the version control history is compromised if one commit contains code that serves multiple purposes, or if code for a particular purpose is spread across multiple different commits.
 - **Avoid indiscriminate commits** As a rule, do not commit without supplying specific files to commit. If you supply no file names, then every change will be committed. You may have changes you did not intend to make permanent (such as temporary debugging changes).
 - **Don't commit generated files** Version control is intended for files that people edit. Generated files should not be committed to version control, as a rule, you should only commit the source files from which the files are generated.
 Generated files are not necessary in version control; each user can re-generate them from the source files.
@@ -312,6 +322,14 @@ Generated files can bloat the version control history (the size of the database 
 
 
 ### Commit messages
+
+from [here](http://sethrobertson.github.io/GitBestPractices/) **Creative Commons Attribution-ShareAlike 3.0 Generic**
+
+Creating insightful and descriptive commit messages is one of the best things you can do for others who use the repository. It lets people quickly understand changes without having to read code. When doing history archeology to answer some question, good commit messages likewise become very important.
+
+The normal git rule of using the first line to provide a short (50-72 character) summary of the change is also very good. Looking at the output of gitk or git log --oneline might help you understand why.
+
+-----
 
 From [here](https://guide.esciencecenter.nl/best_practices/version_control.html). **Creative Commons Attribution 4.0 International License**
 
