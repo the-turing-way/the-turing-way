@@ -300,10 +300,10 @@ git diff branch_name other_branch_name
 
 #### Good practise for commits
 
+A commit should do one thing.
 
 
-
-Don't commit anything that can be regenerated from other things that were committed unless it is something might take hours to regenerate. Generated files just clutter up your repository and make contain features such as timestamps that can cause annoying merge conflicts (see below). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct git to ignore certain files by creating a file called `.gitignore` and including their names in it. 
+Don't commit anything that can be regenerated from other things that were committed unless it is something might take hours to regenerate. Generated files just clutter up your repository and make contain features such as timestamps that can cause annoying merge conflicts (see below). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct git to ignore certain files by creating a file called `.gitignore` and including their names in it.
 
 
 From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html) **No license, reached out 13/12/18**
@@ -314,18 +314,28 @@ From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html)
 
 ### Commit messages
 
-from [here](http://sethrobertson.github.io/GitBestPractices/) **Creative Commons Attribution-ShareAlike 3.0 Generic**
+**The problem:** as you work on you project you will make more and more commits. Without any other information it can be hard to remember which version of your project is in which.
 
-Creating insightful and descriptive commit messages is one of the best things you can do for others who use the repository. It lets people quickly understand changes without having to read code. When doing history archeology to answer some question, good commit messages likewise become very important.
+**The solution:** When you commit you have the chance two write a commit message, and you should always, *always,* **_always_** do so. A commit message gets attached to the commit so if you look back at it (e.g via `git log`) it will show up. 
 
-The normal git rule of using the first line to provide a short (50-72 character) summary of the change is also very good. Looking at the output of gitk or git log --oneline might help you understand why.
 
------
 
-From [here](https://guide.esciencecenter.nl/best_practices/version_control.html). **Creative Commons Attribution 4.0 International License**
+Creating insightful and descriptive commit messages is one of the best things you can do to get the most out of version control. It lets people (and your future self when you've long since forgotten what you were doing and why) quickly understand what changes a commit contains without having to carefully read code and waste time figuring it out.
 
-Commit messages are the way for other developers to understand changes in the codebase. In case of using GitHub flow model, commit messages can be very short but pull request comments should explain all the changes. It is very important to explain the why behind implementation choices.
+Not only should commit messages explain what the changes are but why you've made them
 
+
+
+**How to do it:** when you commit, instead of using `git commit` instead do
+
+```
+git commit -m "Your commit message"
+```
+
+
+**Good practise for commit messages**
+
+The normal git rule of using the first line to provide a short (50-72 character) summary of the change is also very good.
 -----
 
 By [Thom Holwerda](http://www.osnews.com/story/19266/WTFs_m). **Says anyone can do whatever, attribution nice but not compulsory**
@@ -775,3 +785,4 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 [This](https://githowto.com/undoing_committed_changes). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
 [This](https://www.atlassian.com/git/tutorials/saving-changes/git-diff) **Creative Commons Attribution 2.5 Australia License.**
 [This](http://sethrobertson.github.io/GitBestPractices/) **Creative Commons Attribution-ShareAlike 3.0 Generic**
+[This](https://guide.esciencecenter.nl/best_practices/version_control.html). **Creative Commons Attribution 4.0 International License**
