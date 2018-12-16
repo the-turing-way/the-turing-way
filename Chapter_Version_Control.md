@@ -198,7 +198,7 @@ We'll talk in more detail about these commands later, but for now just know if y
 
 - *Commits*
   - *~~Problem = want to access past versions~~*
-  - *~~Say how to add files~~, say how git status tells you what's been added. Git diff to see the difference. How to make a commit and how to get files/whole project back to past commit. Say git log gives log of past commits. Git diff to see what changed between two commits.*
+  - *~~Say how to add files, say how git status tells you what's been added~~. Git diff to see the difference. How to make a commit and how to get files/whole project back to past commit. ~~Say git log gives log of past commits.~~*
   - *Best practice for committing, e.g. keep bitesized, don't do per-file commits, whitespace changes together with code changes, or code drops*
 
 **The problem:** when working on a project you will make numerous changes to you files as you progress. Sometimes you may need to undo changes, take another look at past versions, or compare versions. Saving each version individually (version_1.py, version_2.py etc) is messy and quickly becomes impractical.
@@ -223,7 +223,7 @@ If you're ever unsure what files have been added, what files have been changes, 
 git status
 ```
 
-To find out. When you're ready you can commit everythin in your staging area by running
+To find out. When you're ready you can commit everything in your staging area by running
 
 ```
 git commit
@@ -231,21 +231,34 @@ git commit
 
 It's that easy.
 
+You can see a log of your previous commits using
 
+```
+git log
+```
 
+In this log you'll see that each commit is automatically tagged with a unique string of numbers and letters called a SHA which you can use to access and compare them.
 
+#### Retrieving things from past Commits
 
-
-From [here](https://githowto.com/undoing_committed_changes). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
-
-
-
-To cancel the commit, we need to create a commit that deletes the changes saved by unwanted commit.
-
-RUN:
+To cancel your last commit run
 ```
 git revert HEAD
 ```
+
+
+
+
+#### Comparing commits/files
+
+In short: `git diff`.
+
+
+
+
+
+
+
 
 -------
 
@@ -713,3 +726,4 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 [This](http://crlionline.net/node/198). **Permission to use given by the author (Peter Reimann) 15/12/18**
 [This](https://tonysyu.github.io/source-control-for-scientists-and-soloists.html#.XA6Q3mj7RPY). **Permission given by the author (Tony Yu) 15/12/18**
 [This](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter).* **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.**
+[This](https://githowto.com/undoing_committed_changes). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
