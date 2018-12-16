@@ -118,7 +118,7 @@ You can have more than one branch off of your master copy, and if one of your br
 
 If you want you can even have branches off of branches (and branches off of those branches and so on).
 
-![sub_branch](figures/two_branches.png)
+![sub_branch](figures/sub_branch.png)
 
 No matter how many branches you have you can access past commits you made on any of them.
 
