@@ -36,10 +36,10 @@
 - *Definitions/glossary*
 - *How to use version control for your own project and how to use it well*
   - *Intro*
-    - *Say in terms of how to do it we're going to give the actual commands to do all this in git because widely used, but the info on good practise, i.e. how to do it well, is still relevant even if you're using other VC software like mercurial.*
+    - *~~Say in terms of how to do it we're going to give the actual commands to do all this in git because widely used, but the info on good practise, i.e. how to do it well, is still relevant even if you're using other VC software like mercurial.~~*
     - *~~Set up a repo, git init. Don't talk about putting it online yet.~~*
   - *Commits*
-    - *Problem = want to access past versions*
+    - *~~Problem = want to access past versions~~*
     - *Say how to add files, say how git status tells you what's been added. Git diff to see the difference. How to make a commit and how to get files/whole project back to past commit. Say git log gives log of past commits. Git diff to see what changed between two commits.*
     - *Best practice for committing, e.g. keep bitesized, don't do per-file commits, whitespace changes together with code changes, or code drops*
   - *Commit messages*
@@ -175,18 +175,40 @@ git init
 
 in the terminal to create the git repository (often called "repo" for short). This just needs to be done once per project.
 
-Just think of the repository as a place where the history is being stored. A lot happens behind the scenes but who cares. (Maybe you care, but only after you really know how to use it.)
-
-Next add and commit your files to the repository by running
+Just think of the repository as a place where the history is being stored.
+Each file in your working directory can be in one of two states: tracked or untracked by your repository. In short, tracked files are files that Git knows about. Untracked files are everything else — any files in your working directory that were not in your last snapshot. When you first initialise a repository with `git init` all of your files will be untracked because your repository it doesn't *have* a previous snapshot yet, so it doesn't know about any of your files. Therefore your next step is to add your files to the repository using
 
 ```
 git add .
+```
+
+This puts your changes into what's called the "staging area". When you next commit any changes stored in your staging area will be recorded in your repository.
+
+![change_stage_repo](figures/change_stage_repo.png)
+
+The full stop after `git add` above adds all changes to your staging area. So now all your files are staged commit them using
+
+```
 git commit
 ```
 
 We'll talk in more detail about these commands later, but for now just know if you run them then congratulations, you have finished setting up you repository!
 
 ### Commits
+
+- *Commits*
+  - *Problem = want to access past versions*
+  - *Say how to add files, say how git status tells you what's been added. Git diff to see the difference. How to make a commit and how to get files/whole project back to past commit. Say git log gives log of past commits. Git diff to see what changed between two commits.*
+  - *Best practice for committing, e.g. keep bitesized, don't do per-file commits, whitespace changes together with code changes, or code drops*
+
+**The problem:** when working on a project you will make numerous changes to you files as you progress. Sometimes you may need to undo changes, take another look at past versions, or compare versions. Saving each version individually (version_1.py, version_2.py etc) is messy and quickly becomes impractical.
+
+By making commits you can save versions of your code and switch between them/compare them easily without cluttering up your directory.
+
+
+
+
+
 
 
 From [here](https://githowto.com/undoing_committed_changes). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
@@ -648,8 +670,6 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 *I think this section should go over the command line nitty-gritty. The explanation of what branches are etc should all be done before that because that's common to all VC, this section is git specific, and command line specific*
 
 
-*Very detailed how to [here](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter).* **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.**
-
 
 ## Github
 
@@ -667,3 +687,4 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 [This](https://link.springer.com/article/10.1186/1751-0473-8-7). **Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0)** *Other useful stuff in this paper, could use their into as part of the book's intro*
 [This](http://crlionline.net/node/198). **Permission to use given by the author (Peter Reimann) 15/12/18**
 [This](https://tonysyu.github.io/source-control-for-scientists-and-soloists.html#.XA6Q3mj7RPY). **Permission given by the author (Tony Yu) 15/12/18**
+[This](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter).* **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.**
