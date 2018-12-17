@@ -295,7 +295,7 @@ git diff branch_name other_branch_name
 
 #### Good practise for commits
 
-Commits should be 'atomic' i.e they should do one simple thing and they should do it completely. If a lot of different changes to your project are all committed together then if something goes wrong it can be hard to unpick what in this set of changes if causing the problem, and simply undoing the whole commit may throw away valid and useful work along with the bug. That said you don't necessarily need to do per-file commits. For example if I add a figure to this chapter here, let's choose something to catch the attention of someone skimming through:
+Commits should be 'atomic' i.e **they should do one simple thing and they should do it completely**. If a lot of different changes to your project are all committed together then if something goes wrong it can be hard to unpick what in this set of changes if causing the problem, and simply undoing the whole commit may throw away valid and useful work along with the bug. That said **you don't necessarily need to do per-file commits**. For example if I add a figure to this chapter here, let's choose something to catch the attention of someone skimming through:
 
 ![flipped_taj_mahal](figures/flipped_taj_mahal.png)
 
@@ -306,23 +306,19 @@ then when I do this two files are changed:
 
 So two files are affected, but "Add figure to version control chapter" is a single, *atomic* unit of work, so only one commit is necessary.
 
-To aid in making atomic commits it's good practise to specify the files to be committed, i.e. adding files to the staging area by name (`git add your_file_name`) rather than adding everything (`git add .`). This prevents you from unintentionally bundling different changes together, for example if you've made a change to file A while primarily working on file B you may have forgotten this when you go to commit, and with `git add .` file A would be brought along for the ride.
+To aid in making atomic commits it's good practise to **specify the files to be committed**, i.e. adding files to the staging area by name (`git add your_file_name`) rather than adding everything (`git add .`). This prevents you from unintentionally bundling different changes together, for example if you've made a change to file A while primarily working on file B you may have forgotten this when you go to commit, and with `git add .` file A would be brought along for the ride.
 
-Finally, don't commit anything that can be regenerated from other things that were committed unless it is something might take hours to regenerate. Generated files just clutter up your repository and make contain features such as timestamps that can cause annoying merge conflicts (see below). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct git to ignore certain files by creating a file called `.gitignore` and including their names in it.
+Finally, **don't commit anything that can be regenerated from other things that were committed unless it is something might take hours to regenerate**. Generated files just clutter up your repository and make contain features such as timestamps that can cause annoying merge conflicts (see below). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct git to ignore certain files by creating a file called `.gitignore` and including their names in it.
 
 ### Commit messages
 
+  *Also don't describe the code, describe the intent and the approach. And keep the log in a present tense.*
+
 **The problem:** as you work on you project you will make more and more commits. Without any other information it can be hard to remember which version of your project is in which.
 
-**The solution:** When you commit you have the chance two write a commit message, and you should always, *always,* **_always_** do so. A commit message gets attached to the commit so if you look back at it (e.g via `git log`) it will show up.
+**The solution:** When you commit you have the chance to write a commit message describing what the commit is and what it does, and you should always, *always,* **_always_** do so.  A commit message gets attached to the commit so if you look back at it (e.g via `git log`) it will show up. Creating insightful and descriptive commit messages is one of the best things you can do to get the most out of version control. It lets people (and your future self when you've long since forgotten what you were doing and why) quickly understand what changes a commit contains without having to carefully read code and waste time figuring it out. Good commit messages improve your code quality by drastically reducing its WTF/min ratio:
 
-
-
-Creating insightful and descriptive commit messages is one of the best things you can do to get the most out of version control. It lets people (and your future self when you've long since forgotten what you were doing and why) quickly understand what changes a commit contains without having to carefully read code and waste time figuring it out.
-
-Not only should commit messages explain what the changes are but why you've made them
-
-
+![wtf_per_min](figures/wtf_per_min.jpg)
 
 **How to do it:** when you commit, instead of using `git commit` instead do
 
@@ -330,17 +326,34 @@ Not only should commit messages explain what the changes are but why you've made
 git commit -m "Your commit message"
 ```
 
-
 **Good practise for commit messages**
 
-The normal git rule of using the first line to provide a short (50-72 character) summary of the change is also very good.
------
+The number one rule is: **make it meaningful**. A commit message like "Fixed a bug" leaves it entirely up to the person  looking at the commit (again, this person may very well be you a few mnths in the future when you've forgotten what you were doing) to waste time figuring out what the bug was, what changes you actually made, and how they fixed it. As such a good commit message should explain what you did, why you did it, and what is impacted by the change.
 
-By [Thom Holwerda](http://www.osnews.com/story/19266/WTFs_m). **Says anyone can do whatever, attribution nice but not compulsory**
+**Summarise the change** the commit contains in the first line (50-72 characters).
+It’s also a good practise to **use the imperative present tense** in these messages. In other words, use commands. Instead of "I added tests for" or "Adding tests for" use "Add tests for".
 
-*Maybe include this somewhere else but have it somewhere*
+Here's a good example of commit message structure:
 
-![wtf_per_min](figures/wtf_per_min.jpg)
+```
+Short (50 chars or less) summary of changes
+
+More detailed explanatory text, if necessary.  Wrap it to
+about 72 characters or so.  In some contexts, the first
+line is treated as the subject of an email and the rest of
+the text as the body.  The blank line separating the
+summary from the body is critical (unless you omit the body
+entirely); tools like rebase can get confused if you run
+the two together.
+
+Further paragraphs come after blank lines.
+
+  - Bullet points are okay, too
+
+  - Typically a hyphen or asterisk is used for the bullet,
+    preceded by a single space, with blank lines in
+    between, but conventions vary here
+```
 
 ## Branches
 
@@ -785,3 +798,4 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 [This](http://sethrobertson.github.io/GitBestPractices/) **Creative Commons Attribution-ShareAlike 3.0 Generic**
 [This](https://guide.esciencecenter.nl/best_practices/version_control.html). **Creative Commons Attribution 4.0 International License**
 [Taj Mahal Figure](https://commons.wikimedia.org/wiki/Taj_Mahal#/media/File:Taj_Mahal_in_March_2004.jpg)**GNU Free Documentation License**
+[This](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
