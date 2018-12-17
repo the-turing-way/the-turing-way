@@ -386,9 +386,7 @@ $ git branch -D name_of_the_branch
 
 **Good practice for branches**
 
-
-  - *Best practise for branches, i.e. make changes on them, keep master clean., try to limit one feature being added per branch, not a whole mess of things which may be completed at different times.*
-
+Branches should be used to **keep the master branch clean**. Similarly you should try to keep individual branches as clean as possible by **only adding one new feature per branch**, because if you are working on several features some may be finished and ready to merge into master while others are stull under development.
 
 
 
@@ -750,6 +748,8 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 ## What to learn next?
 
 ## Recommended reading
+
+- A free and very in depth book on gits myriad of features can be found [here](https://git-scm.com/book/en/v2)
 
 ## Other useful links
 
