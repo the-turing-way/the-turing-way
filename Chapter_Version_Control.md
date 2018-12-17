@@ -42,12 +42,12 @@
     - *~~Problem = want to access past versions~~*
     - *~~Say how to add files, say how git status tells you what's been added. Git diff to see the difference. How to make a commit and how to get files/whole project back to past commit. Say git log gives log of past commits. Git diff to see what changed between two commits.~~*
     - *~~Best practice for committing, e.g. keep bitesized, don't do per-file commits, whitespace changes together with code changes, or code drops~~*
-  - *Commit messages*
-    - *Problem = when you've been working on a project for a while different versions stack up, hard to remember what does what. Having something is no good if you can't find/understand it, and figuring it out can take valuable time.*
-    - *Say what commit messages are.*
-    - *Explain that when you commit (regardless(???) of what VC software you're using) you can give a commit message, say show up in git log.*
-    - *How to give a commit message.*
-    - *Best practise for commit messages. e.g. make them meaningful, cover why the change is necessary, how it addresses the issue, and what effects the change has. Also don't describe the code, describe the intent and the approach. And keep the log in a present tense.*
+  - *~~Commit messages~~*
+    - *~~Problem = when you've been working on a project for a while different versions stack up, hard to remember what does what. Having something is no good if you can't find/understand it, and figuring it out can take valuable time.~~*
+    - *~~Say what commit messages are~~.*
+    - *~~Explain that when you commit (regardless(???) of what VC software you're using) you can give a commit message, say show up in git log.~~*
+    - *~~How to give a commit message.~~*
+    - *~~Best practise for commit messages. e.g. make them meaningful, cover why the change is necessary, how it addresses the issue, and what effects the change has. Also don't describe the code, describe the intent and the approach. And keep the log in a present tense.~~*
   - *Branches*
     - *Problem = if you're working on something it could screw up your working version*
     - *Describe in detail what branches are and how they fix the problem, mention can do branches from branches*
@@ -311,8 +311,6 @@ To aid in making atomic commits it's good practise to **specify the files to be 
 Finally, **don't commit anything that can be regenerated from other things that were committed unless it is something might take hours to regenerate**. Generated files just clutter up your repository and make contain features such as timestamps that can cause annoying merge conflicts (see below). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct git to ignore certain files by creating a file called `.gitignore` and including their names in it.
 
 ### Commit messages
-
-  *Also don't describe the code, describe the intent and the approach. And keep the log in a present tense.*
 
 **The problem:** as you work on you project you will make more and more commits. Without any other information it can be hard to remember which version of your project is in which.
 
