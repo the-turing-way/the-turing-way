@@ -212,11 +212,6 @@ We'll talk in more detail about these commands later, but for now just know if y
 
 ### Commits
 
-- *Commits*
-  - *~~Problem = want to access past versions~~*
-  - *~~Say how to add files, say how git status tells you what's been added. Git diff to see the difference. How to make a commit and how to get files/whole project back to past commit. Say git log gives log of past commits.~~*
-  - *Best practice for committing, e.g. keep bitesized, don't do per-file commits, whitespace changes together with code changes, or code drops*
-
 **The problem:** when working on a project you will make numerous changes to you files as you progress. Sometimes you may need to undo changes, take another look at past versions, or compare versions. Saving each version individually (version_1.py, version_2.py etc) is messy and quickly becomes impractical.
 
 **The solution:** by making commits you can save versions of your code and switch between them/compare them easily without cluttering up your directory. Commits serve as checkpoints where individual files or an entire project can be safely reverted to when necessary.
@@ -300,7 +295,23 @@ git diff branch_name other_branch_name
 
 #### Good practise for commits
 
-A commit should do one thing.
+
+  - *Best practice for committing, e.g. don't do per-file commits, whitespace changes together with code changes, or code drops*
+
+
+Commits should be 'atomic' i.e they should do one simple thing and they should do it completely. If a lot of different changes are all committed together then if something goes wrong it can be hard to unpick what is this set of changes if causing the problem, and simply undoing the whole commit may throw away valid and useful work along with the bug.  
+
+That said you don't necessarily need to do per-file commits. For example if I add a figure to this chapter here, let's choose something to confuse someone skimming through,
+
+
+
+
+then when I do this two files are changed:
+
+1. The figure file had been added
+2. I've added a reference to this figure in the chapter so it will be displayed.
+
+So two files are affected, but "Add figure to version control chapter"is a single, *atomic* unit of work, so oly one commit is necessary.
 
 
 Don't commit anything that can be regenerated from other things that were committed unless it is something might take hours to regenerate. Generated files just clutter up your repository and make contain features such as timestamps that can cause annoying merge conflicts (see below). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct git to ignore certain files by creating a file called `.gitignore` and including their names in it.
@@ -316,7 +327,7 @@ From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html)
 
 **The problem:** as you work on you project you will make more and more commits. Without any other information it can be hard to remember which version of your project is in which.
 
-**The solution:** When you commit you have the chance two write a commit message, and you should always, *always,* **_always_** do so. A commit message gets attached to the commit so if you look back at it (e.g via `git log`) it will show up. 
+**The solution:** When you commit you have the chance two write a commit message, and you should always, *always,* **_always_** do so. A commit message gets attached to the commit so if you look back at it (e.g via `git log`) it will show up.
 
 
 
