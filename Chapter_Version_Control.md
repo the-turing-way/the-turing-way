@@ -355,70 +355,39 @@ Further paragraphs come after blank lines.
 
 ## Branches
 
-*Think we should go over deleting branches before we go over merging. Deleting's quicker and easier to explain.*
+**The problem:** if you are creating a new feature for your project, there's a reasonable chance that adding it could break your working code. This would be very bad for active users of your project, even if the only active user is you. It's better to start with a prototype, which you would want to design roughly in a different branch and see how it works, before you decide whether to add the feature to the master branch. Also version control systems are regularly used for collaboration. If everyone starts programming on top of the master branch, it will cause a lot of confusion. Some people may write faulty/buggy code or simply the kind of code/feature others may not want in the project. Using branches allows you to contributions to be verified and reviewed before being added to the main project. There needs to be a way allow new work to be done on a project whilst protecting work that has already been done.
 
-From [here](https://opensource.com/article/18/5/git-branching) **Creative Commons license**
-The main reasons for having branches are:
+**The solution:** branches. At the start of this chapter an overview was given of the concept of branches, but let's recap. You have a project, and you make commits on it. By default you have one branch, called 'master'. Making a
+branch essentially makes a copy of your code which you can work on and continue to make commits to. Meanwhile your master branch is untouched by these changes, and you can continue to make commits on it too. Once you're happy with whatever you were working on on a branch you can merge it into your master branch (or indeed any other branch). Merging will be covered in the next section. If your work on a branch doesn't work out you can delete or abandon it (e.g. Feature B in the diagram below) rather than spending time unpicking your changes if you were doing all your work on the master copy. You can have as many branches off of branches as you desire (e.g. Feature C).
 
-- If you are creating a new feature for your project, there's a reasonable chance that adding it could break your working code. This would be very bad for active users of your project, even if the only active user is you. It's better to start with a prototype, which you would want to design roughly in a different branch and see how it works, before you decide whether to add the feature to the master branch.
-- Another, probably more important, reason is version control systems are regularly used for collaboration. If everyone starts programming on top of the master branch, it will cause a lot of confusion. Some people may write faulty/buggy code or simply the kind of code/feature others may not want in the project. Using branches allows you to contributions to be verified and reviewed before being added to the main project.
+![sub_branch](figures/sub_branch.png)
 
--------
 
-From [here](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) **GNU GENERAL PUBLIC LICENSE Version 3**
-
-Create the branch on your local machine and switch in this branch :
+**How to do it:** You can create a branch and switch to it using:
 ```
-$ git checkout -b [name_of_your_new_branch]
+git checkout -b name_of_your_new_branch
 ```
 
-Change working branch :
+To change between branches:
 ```
-$ git checkout [name_of_your_new_branch]
-```
-
-Push the branch on github :
-```
-$ git push origin [name_of_your_new_branch]
+$ git checkout name_of_the_branch
 ```
 
-You can see all branches created by using :
+and you can see all branches of your project simply using
 ```
 $ git branch
 ```
+which will output a list with an asterix next to the branch you're on. You can also use `git status` if you've forgotten which branch you're on.
 
-Add a new remote for your branch :
+If you decide to get rid of a branch you can delete it with
 ```
-$ git remote add [name_of_your_remote] [name_of_your_new_branch]
-```
-
-Push changes from your commit into your branch :
-```
-$ git push [name_of_your_new_remote] [url]
+$ git branch -D name_of_the_branch
 ```
 
-Update your branch when the original branch from official repository has been updated :
-```
-$ git fetch [name_of_your_remote]
-```
+**Good practice for branches**
 
-Delete a branch on your local filesystem :
-```
-$ git branch -d [name_of_your_new_branch]
-```
 
-To force the deletion of local branch on your filesystem :
-```
-$ git branch -D [name_of_your_new_branch]
-```
-
-Delete the branch on github :
-```
-$ git push origin :[name_of_your_new_branch]
-```
-
--------
-
+  - *Best practise for branches, i.e. make changes on them, keep master clean., try to limit one feature being added per branch, not a whole mess of things which may be completed at different times.*
 
 
 
@@ -797,3 +766,5 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 [This](https://guide.esciencecenter.nl/best_practices/version_control.html). **Creative Commons Attribution 4.0 International License**
 [Taj Mahal Figure](https://commons.wikimedia.org/wiki/Taj_Mahal#/media/File:Taj_Mahal_in_March_2004.jpg)**GNU Free Documentation License**
 [This](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
+[This](https://opensource.com/article/18/5/git-branching) **Creative Commons license**
+[This](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) **GNU GENERAL PUBLIC LICENSE Version 3**
