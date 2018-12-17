@@ -303,8 +303,7 @@ Commits should be 'atomic' i.e they should do one simple thing and they should d
 
 That said you don't necessarily need to do per-file commits. For example if I add a figure to this chapter here, let's choose something to confuse someone skimming through,
 
-
-
+![flipped_taj_mahal](figures/flipped_taj_mahal.png)
 
 then when I do this two files are changed:
 

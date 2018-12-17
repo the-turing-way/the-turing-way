@@ -4,7 +4,8 @@
 
 | Filename                   | Chapter              | Description                                       |
 | -------------------------- | -------------------- | ------------------------------------------------- |
-| change_stage_repo          | Version Control      |Cartoon showing staging and committing changes     |
+| change_stage_repo          | Version Control      | Cartoon showing staging and committing changes    |
+| flipped_taj_mahal          | Version Control      | Upside down taj mahal to confuse people           | 
 | master_branch              | Version control      | Illustrates commits on master branch              |
 | one_branch                 | Version control      | Illustrates version control master + one branch   |
 | reproducibility_kirstie    |                      | Depicts cow code and data relate to good practise |
