@@ -38,10 +38,10 @@
   - *Intro*
     - *~~Say in terms of how to do it we're going to give the actual commands to do all this in git because widely used, but the info on good practise, i.e. how to do it well, is still relevant even if you're using other VC software like mercurial.~~*
     - *~~Set up a repo, git init. Don't talk about putting it online yet.~~*
-  - *Commits*
+  - *~~Commits~~*
     - *~~Problem = want to access past versions~~*
-    - *Say how to add files, say how git status tells you what's been added. Git diff to see the difference. How to make a commit and how to get files/whole project back to past commit. Say git log gives log of past commits. Git diff to see what changed between two commits.*
-    - *Best practice for committing, e.g. keep bitesized, don't do per-file commits, whitespace changes together with code changes, or code drops*
+    - *~~Say how to add files, say how git status tells you what's been added. Git diff to see the difference. How to make a commit and how to get files/whole project back to past commit. Say git log gives log of past commits. Git diff to see what changed between two commits.~~*
+    - *~~Best practice for committing, e.g. keep bitesized, don't do per-file commits, whitespace changes together with code changes, or code drops~~*
   - *Commit messages*
     - *Problem = when you've been working on a project for a while different versions stack up, hard to remember what does what. Having something is no good if you can't find/understand it, and figuring it out can take valuable time.*
     - *Say what commit messages are.*
@@ -295,10 +295,6 @@ git diff branch_name other_branch_name
 
 #### Good practise for commits
 
-
-  - *whitespace changes together with code changes, or code drops*
-
-
 Commits should be 'atomic' i.e they should do one simple thing and they should do it completely. If a lot of different changes to your project are all committed together then if something goes wrong it can be hard to unpick what in this set of changes if causing the problem, and simply undoing the whole commit may throw away valid and useful work along with the bug. That said you don't necessarily need to do per-file commits. For example if I add a figure to this chapter here, let's choose something to catch the attention of someone skimming through:
 
 ![flipped_taj_mahal](figures/flipped_taj_mahal.png)
@@ -310,11 +306,9 @@ then when I do this two files are changed:
 
 So two files are affected, but "Add figure to version control chapter" is a single, *atomic* unit of work, so only one commit is necessary.
 
-To aid in making atomic commits it's good practise to specify the files to be committed, i.e. adding files to the staging area by name (`git add your_file_name`) rather than adding everything (`git add .`). This prevents you from unintentionally bundling different changes together, for example if you've made a change to file A while primarily working on file B you may have forgotten this when you go to commit, and with `git add .` file  would be brought along for the ride.
+To aid in making atomic commits it's good practise to specify the files to be committed, i.e. adding files to the staging area by name (`git add your_file_name`) rather than adding everything (`git add .`). This prevents you from unintentionally bundling different changes together, for example if you've made a change to file A while primarily working on file B you may have forgotten this when you go to commit, and with `git add .` file A would be brought along for the ride.
 
-Don't commit anything that can be regenerated from other things that were committed unless it is something might take hours to regenerate. Generated files just clutter up your repository and make contain features such as timestamps that can cause annoying merge conflicts (see below). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct git to ignore certain files by creating a file called `.gitignore` and including their names in it.
-
-
+Finally, don't commit anything that can be regenerated from other things that were committed unless it is something might take hours to regenerate. Generated files just clutter up your repository and make contain features such as timestamps that can cause annoying merge conflicts (see below). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct git to ignore certain files by creating a file called `.gitignore` and including their names in it.
 
 ### Commit messages
 
