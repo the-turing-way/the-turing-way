@@ -296,12 +296,10 @@ git diff branch_name other_branch_name
 #### Good practise for commits
 
 
-  - *Best practice for committing, e.g. don't do per-file commits, whitespace changes together with code changes, or code drops*
+  - *whitespace changes together with code changes, or code drops*
 
 
-Commits should be 'atomic' i.e they should do one simple thing and they should do it completely. If a lot of different changes are all committed together then if something goes wrong it can be hard to unpick what is this set of changes if causing the problem, and simply undoing the whole commit may throw away valid and useful work along with the bug.  
-
-That said you don't necessarily need to do per-file commits. For example if I add a figure to this chapter here, let's choose something to confuse someone skimming through,
+Commits should be 'atomic' i.e they should do one simple thing and they should do it completely. If a lot of different changes to your project are all committed together then if something goes wrong it can be hard to unpick what in this set of changes if causing the problem, and simply undoing the whole commit may throw away valid and useful work along with the bug. That said you don't necessarily need to do per-file commits. For example if I add a figure to this chapter here, let's choose something to catch the attention of someone skimming through:
 
 ![flipped_taj_mahal](figures/flipped_taj_mahal.png)
 
@@ -310,16 +308,12 @@ then when I do this two files are changed:
 1. The figure file had been added
 2. I've added a reference to this figure in the chapter so it will be displayed.
 
-So two files are affected, but "Add figure to version control chapter"is a single, *atomic* unit of work, so oly one commit is necessary.
+So two files are affected, but "Add figure to version control chapter" is a single, *atomic* unit of work, so only one commit is necessary.
 
+To aid in making atomic commits it's good practise to specify the files to be committed, i.e. adding files to the staging area by name (`git add your_file_name`) rather than adding everything (`git add .`). This prevents you from unintentionally bundling different changes together, for example if you've made a change to file A while primarily working on file B you may have forgotten this when you go to commit, and with `git add .` file  would be brought along for the ride.
 
 Don't commit anything that can be regenerated from other things that were committed unless it is something might take hours to regenerate. Generated files just clutter up your repository and make contain features such as timestamps that can cause annoying merge conflicts (see below). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct git to ignore certain files by creating a file called `.gitignore` and including their names in it.
 
-
-From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html) **No license, reached out 13/12/18**
-
-- **Each commit should have a single purpose and should completely implement that purpose.** This makes it easier to locate the changes related to some particular feature or bug fix, to see them all in one place, to undo them, to determine the changes that are responsible for buggy behaviour, etc. The utility of the version control history is compromised if one commit contains code that serves multiple purposes, or if code for a particular purpose is spread across multiple different commits.
-- **Avoid indiscriminate commits** As a rule, do not commit without supplying specific files to commit. If you supply no file names, then every change will be committed. You may have changes you did not intend to make permanent (such as temporary debugging changes).
 
 
 ### Commit messages
@@ -796,3 +790,4 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 [This](https://www.atlassian.com/git/tutorials/saving-changes/git-diff) **Creative Commons Attribution 2.5 Australia License.**
 [This](http://sethrobertson.github.io/GitBestPractices/) **Creative Commons Attribution-ShareAlike 3.0 Generic**
 [This](https://guide.esciencecenter.nl/best_practices/version_control.html). **Creative Commons Attribution 4.0 International License**
+[Taj Mahal Figure](https://commons.wikimedia.org/wiki/Taj_Mahal#/media/File:Taj_Mahal_in_March_2004.jpg)**GNU Free Documentation License**
