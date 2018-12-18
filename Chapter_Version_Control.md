@@ -467,19 +467,9 @@ git reset --hard
 
 From [here](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)**
 
+**Good practise for resolving merge conflicts**
 
-
-#### A GitHub test repository to experiment with conflicts
-You can experiment with resolving a git conflict with this repository: https://github.com/brianleetest/testGit/blob/master/README.md
-
-You will need a GitHub account and be added as a collaborator to push your changes.
-Create two separate directories, gitClone and gitCloneLeader in two different terminals and locations. The leader can be the first to push changes (requires being a collaborator).
-Do the first "Group Member" steps up until WAIT in the gitClone directory.
-Then do all of the "Group Leader" steps in the gitCloneLeader directory (push required to cause conflict).
-Continue the "Group Member" steps (first git pull since cloning the repository and editing the file).
-
-
-## Github
+## Using version control to collaborate
 
 *I think this section should go over how to do this in the browser/gui nitty-gritty. Again, the explanation of what branches are etc should all be done before.*
 
