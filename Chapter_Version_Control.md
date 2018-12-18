@@ -427,9 +427,24 @@ print('Hello World')
 
 They continue doing work on their respective branches and eventually decide to merge. Their version control software then goes through and combines their changes into a single version, *but* when it gets to the hello world statement it doesn't know which version to use. This is a merge conflict: incompatible changes have been made to the same file.
 
-**The solution:** 
+**The solution:** when a merge conflict arises the incompatible sections will be marked in the file like this:
 
 
+```
+ <<<<<<< HEAD:mergetest
+ This is my third line
+ =======
+ This is a fourth line I am adding
+ >>>>>>> 4e2b407f501b68f8588aa645acafffa0224b9b78:mergetest
+```
+'<<<<<<<': Indicates the start of the lines that had a merge conflict. The first set of lines are the lines from the file that you were trying to merge the changes into.
+
+'=======': Indicates the break point used for comparison. Breaks up changes that user has committed (above) to changes coming from merge (below) to visually see the differences.
+
+'>>>>>>>': Indicates the end of the lines that had a merge conflict.
+
+
+You resolve a conflict by editing the file to manually merge the parts of the file that git had trouble merging. This may mean discarding either your changes or someone else's or doing a mix of the two. You will also need to delete the '<<<<<<<', '=======', and '>>>>>>>' in the file. So in this project the users may decide in favour of one `hello world` over another, or they may decide 
 
 ------
 
@@ -523,24 +538,7 @@ Example:
 
 "Changed but not updated ... unmerged": All files that have conflicts that must be resolved before repository will be back to working order.
 
-How do I find conflicts within the file itself?
-Conflicts are marked in a file with clear line breaks:
 
-```
- <<<<<<< HEAD:mergetest
- This is my third line
- =======
- This is a fourth line I am adding
- >>>>>>> 4e2b407f501b68f8588aa645acafffa0224b9b78:mergetest
-```
-'<<<<<<<': Indicates the start of the lines that had a merge conflict. The first set of lines are the lines from the file that you were trying to merge the changes into.
-
-'=======': Indicates the break point used for comparison. Breaks up changes that user has committed (above) to changes coming from merge (below) to visually see the differences.
-
-'>>>>>>>': Indicates the end of the lines that had a merge conflict.
-
-How do I resolve a merge conflict in a file?
-You resolve a conflict by editing the file to manually merge the parts of the file that git had trouble merging. This may mean discarding either your changes or someone else's or doing a mix of the two. You will also need to delete the '<<<<<<<', '=======', and '>>>>>>>' in the file.
 
 What do I do after I've resolved conflicts in all affected files?
 git add the file(s), git commit and git push (Push only for branches tracked.)
@@ -662,3 +660,4 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 [This](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
 [This](https://opensource.com/article/18/5/git-branching) **Creative Commons license**
 [This](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) **GNU GENERAL PUBLIC LICENSE Version 3**
+[This](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)
