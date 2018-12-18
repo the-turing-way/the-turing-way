@@ -460,14 +460,15 @@ print('Hello World!!!')
 
 Once you've fixed the conflicts commit the new version. You've now resolved the conflict.
 
-If you find there are particularly nasty conflicts you can abort the merge useing
+If you find there are particularly nasty conflicts and you want to abort the merge you can using
 ```
-git reset --hard
+git merge --abort
 ```
 
-From [here](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)**
 
 **Good practise for resolving merge conflicts**
+
+Before you start trying to resolve conflicts **make sure you fully understand the changes and how they are incompatible**. If you don't you risk making things more tangled. Once you do and you go about fixing the problem **be careful, but don't be afraid**; the whole point of version control is your past versions are all safe. Nevertheless merge conflicts can be intimidating to resolve especially if you are merging branches that diverged a great many commits ago which may now have many incompatibilities. This is why it is good practise to merge other's changes into your work frequently.
 
 ## Using version control to collaborate
 
