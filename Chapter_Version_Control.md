@@ -437,7 +437,7 @@ print('Hello World')
 
 They continue doing work on their respective branches and eventually decide to merge. Their version control software then goes through and combines their changes into a single version, *but* when it gets to the hello world statement it doesn't know which version to use. This is a merge conflict: incompatible changes have been made to the same file.
 
-**The solution:** when a merge conflict arises the incompatible sections will be marked in the file so you can fix them:
+**The solution:** when a merge conflict arises use `git status` to find out which files the conflicts are in. Within those files the incompatible changes will be marked so you can fix them:
 
 ```
 <<<<<<< HEAD
@@ -458,125 +458,16 @@ print('Hello World')
 print('Hello World!!!')
 ```
 
-Once you've fixed the conflicts add and commit the updated file. You've now resolved the conflict.
+Once you've fixed the conflicts commit the new version. You've now resolved the conflict.
 
-
+If you find there are particularly nasty conflicts you can abort the merge useing
+```
+git reset --hard
+```
 
 From [here](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)**
 
-#### Two ways git merge/git pull can fail
-There are 2 ways in which git merge (or a git pull, which is a git fetch and then a git merge) can fail:
 
-
-2. Git can fail during the merge
-This occurs because you have committed changes that are in conflict with someone else's committed changes. Git will do its best to merge the files and will leave things for you to resolve manually in the files it lists. The error message is as follows:
-
-```
-CONFLICT (content): Merge conflict in <fileName>
-Automatic merge failed; fix conflicts and then commit the result.
-```
-
-#### Common questions for when git fails during the merge
-
-How do I know which files have conflicts in them?
-If your merge failed to even start, there will be no conflicts in files. If git finds conflicts during the merge, it will list all files that have conflicts after the error message. You can also check on which files have merge conflicts by doing a 'git status'.
-
-Example:
-
-```
-   Changes to be committed:
-     (use "git reset HEAD <file>..." to unstage)
-
-  	modified:   <Some file>
-
-   Changed but not updated:
-     (use "git add <file>..." to update what will be committed)
-     (use "git checkout -- <file>..." to discard changes in working directory)
-
-  	unmerged:   <file>
-
-```
-"Changes to be committed": All committed changes to files that are not affected by the conflict are staged.
-
-"Changed but not updated ... unmerged": All files that have conflicts that must be resolved before repository will be back to working order.
-
-
-
-What do I do after I've resolved conflicts in all affected files?
-git add the file(s), git commit and git push (Push only for branches tracked.)
-
-(Note added by Chin - need to commit everything, not just the resolved conflict file.)
-
-#### Tools to help you resolve both types of merge conflicts
-The following git tools below can help you resolve both simple and more complicated git merges.
-
-General tools
-```
-git diff
-```
-
-```
-git status
-```
-
-Tools specifically for when git refuses to start merge
-
-```
-git stash
-```
-IMPORTANT: Do not use git stash if git went through with the merge and there were merge conflicts! Only use git stash if git refused to merge because it foresees there being conflicts.
-
-git stash: stashes away any changes in your staging area and working directory. This command is useful in saving all changes not ready to be committed and the user wants to have an updated repository.
-
-git stash save "<Save Message>": Save changes to files in working directory and staging area that git is aware of
-
-```
- git stash save "Saved changes for stash example"
- Saved working directory and index state "On master: Saved changes for stash example"
- HEAD is now at 4e2b407 Added second file for example.
-```
-git stash pop: Removes the most recent stash or any stash specified and applies changes as a merge. If merge fails the stash is not removed from the list and must be removed manually.
-
-#### Tools specifically for when git conflicts arise during a merge
-```
-git reset
-```
-git reset --hard: reset repository in order to back out of merge conflict situation. git reset, particularly with the --hard option can be used to back out of merge conflict (click here for more information).
-
-IMPORTANT: Do not use any other options other than --hard for reset when resolving a situation where git failed during the merge, as they will leave conflict line markers in file and you can end up committing files with conflict markers still present.
-
-#### Scenarios
-
-Git refuses to start a merge/pull
-
-Error Messages:
-
-```
-error: Entry '<fileName>' not uptodate. Cannot merge. (Changes in working directory)
-error: Entry '<fileName>' would be overwritten by merge. Cannot merge. (Changes staged, but not commited)
-```
-Steps toward Resolution:
-
-- git stash save "<Message that describes what is being Saved>" (Stashes away any changes in your staging area and working directory in a separate index.) OR git checkout <file> (throws out your changes so that you can do a merge)
-- git status (Verify all changes are staged)
-- git pull or git merge (Bring in changes from central repository or another branch)
-- Only if did a 'git stash' in step 1: git stash pop (Will repopulate your changes into your working directory, may have to resolve merge conflicts)
-
-#### Git is unable to resolve a merge/pull
-
-Error Message:
-
-```
-CONFLICT (content): Merge conflict in <fileName>
-Automatic merge failed; fix conflicts and then commit the result.
-```
-
-Steps toward Resolution:
-
-- git status (Shows all files that are in conflict as unmerged changed in working directory.)
-- Resolve merge conflicts
-- git add <files>
-- git commit -m "<Informative commit message>"
 
 #### A GitHub test repository to experiment with conflicts
 You can experiment with resolving a git conflict with this repository: https://github.com/brianleetest/testGit/blob/master/README.md
@@ -587,17 +478,14 @@ Do the first "Group Member" steps up until WAIT in the gitClone directory.
 Then do all of the "Group Leader" steps in the gitCloneLeader directory (push required to cause conflict).
 Continue the "Group Member" steps (first git pull since cloning the repository and editing the file).
 
-## Forks
-
-## Git
-
-*I think this section should go over the command line nitty-gritty. The explanation of what branches are etc should all be done before that because that's common to all VC, this section is git specific, and command line specific*
-
-
 
 ## Github
 
 *I think this section should go over how to do this in the browser/gui nitty-gritty. Again, the explanation of what branches are etc should all be done before.*
+
+## Forks
+
+
 
 ## What to learn next?
 
