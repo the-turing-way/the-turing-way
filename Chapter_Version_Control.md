@@ -159,7 +159,7 @@ Commit messages also help others working on the same project to more easily unde
 
 
 
-There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, Github) which the instructions in this chapter will be geared towards. There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "Additional material" section at the end of the chapter.) This chapter aims to cover the general principles underpinning all version control systems, and best practise applies for using such systems. 
+There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, Github) which the instructions in this chapter will be geared towards. There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "Additional material" section at the end of the chapter.) This chapter aims to cover the general principles underpinning all version control systems, and best practise applies for using such systems.
 
 
 ----
@@ -488,18 +488,19 @@ Fundamentally the best way to deal with merge conflicts is to, so far as is poss
 
 **The problem:** when multiple people work on the same project (which is becoming more and more common as research becomes more collaborative) it becomes difficult to keep track of what changes have been made and by who. It is also often difficult and time-consuming to manually incorporate the different participant's work into a whole even if all of their changes are compatible.  
 
-**The solution:** hosting your project on a centralised version control system such as GitHub. Collaborators can then clone the project and work on that copy where they can still make commits, branches, etc. Collaborators can then *push* their work to each other, and *pull* other's work into their own copy. In this way it is easy to keep everyone up to date and to track what has been done and by who.
+**The solution:** hosting your project on a distributed version control system such as GitHub. Collaborators can then clone the project and work on that copy where they can still make commits, branches, etc. Collaborators can then *push* their work to each other, and *pull* other's work into their own copy. In this way it is easy to keep everyone up to date and to track what has been done and by who. GitHub also has numerous other handy features such as the ability to raise and assign issues, discuss the project via comments, and review each other's changes.
 
-GitHub also has numerous other handy features
+Making your entire project and its history available online in this was also has two major benefits for research:
 
-Has other benefits, open sci etc.
-
-
+1. Other researchers can re-use your work more easily. Rather than writing their own code to do what you already have they can just use yours, which saves time. This also benefits you as researchers are much more likely to build on your work (and cite you) if a great deal of the work has already been done.   
+2. Your work will be much more reproducible if the entire history of the project can be tracked. This enables results to be verified more easily, which benefits science.
 
 **How to do it:**
 
-## Forks
 
+**Best practise**
+
+Include a license.  [This](https://choosealicense.com/) website offers
 
 
 ## What to learn next?
