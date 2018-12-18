@@ -470,6 +470,20 @@ git merge --abort
 
 Before you start trying to resolve conflicts **make sure you fully understand the changes and how they are incompatible**. If you don't you risk making things more tangled. Once you do and you go about fixing the problem **be careful, but don't be afraid**; the whole point of version control is your past versions are all safe. Nevertheless merge conflicts can be intimidating to resolve especially if you are merging branches that diverged a great many commits ago which may now have many incompatibilities. This is why it is good practise to merge other's changes into your work frequently.
 
+There are **tools** available to assist in resolving merge conflicts. Find and familiarise yourself with one that works for you. To set a tool as your default do
+
+```
+git config --global merge.tool name_of_the_tool
+```
+
+and launch it by
+
+```
+git mergetool
+```
+
+Fundamentally the best way to deal with merge conflicts is to, so far as is possible, **ensure they don't happen in the first place**. Keep branches clean and focused on a single issue and involve as few files as possible. Before merging make sure you know what's in both branches, and if you are not the only one that has worked on the branches then keep the lines of communication open so you are all aware of what the others are doing.
+
 ## Using version control to collaborate
 
 *I think this section should go over how to do this in the browser/gui nitty-gritty. Again, the explanation of what branches are etc should all be done before.*
