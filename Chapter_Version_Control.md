@@ -407,54 +407,38 @@ First and foremost your **master branch should always be stable**, only merge wo
 
 ### Merge conflicts
 
-From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html) **No license, reached out 13/12/18**
+**The problem:** when changes to made to the same file on different branches sometimes those changes may be incompatible. This most commonly occurs in collaborative projects, but it happens in solo projects too. Let's say there's a project and it contains a file with this line of code:
 
-A version control system lets multiple users simultaneously edit their own copies of a project. Usually, the version control system is able to merge simultaneous changes by two different users: for each line, the final version is the original version if neither user edited it, or is the edited version if one of the users edited it. A conflict occurs when two different users make simultaneous, different changes to the same line of a file. In this case, the version control system cannot automatically decide which of the two edits to use (or a combination of them, or neither!). Manual intervention is required to resolve the conflict.
+```
+print('hello world')
+```
 
-"Simultaneous" changes do not necessarily happen at the exact same moment of time. Change 1 and Change 2 are considered simultaneous if:
+Lets say one person, on their branch, decides to pep it up a bit and changes this line to
 
-- User A makes Change 1 before User A does an update that brings Change 2 into User A's working copy, and
-- User B makes Change 2 before User B does an update that brings Change 1 into User B's working copy.
+```
+print('hello world!!!')
+```
+
+while someone else on another branch instead decides to change `print('hello world')` to
+
+```
+print('Hello World')
+```
+
+They continue doing work on their respective branches and eventually decide to merge. Their version control software then goes through and combines their changes into a single version, *but* when it gets to the hello world statement it doesn't know which version to use. This is a merge conflict: incompatible changes have been made to the same file.
+
+**The solution:** 
+
 
 
 ------
 
 From [here](https://githowto.com/resolving_conflicts). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
 
-RUN:
-
-```
-git checkout style
-git merge master
-```
-
 RESULT:
-```
-$ git checkout style
-Switched to branch 'style'
-$ git merge master
-Auto-merging lib/hello.html
-CONFLICT (content): Merge conflict in lib/hello.html
-Automatic merge failed; fix conflicts and then commit the result.
-```
-If you open the lib/hello.html you will see:
 
 FILE: LIB/HELLO.HTML
-```
-<!-- Author: Alexander Shvets (alex@githowto.com) -->
-<html>
-  <head>
-<<<<<<< HEAD
-    <link type="text/css" rel="stylesheet" media="all" href="style.css" />
-=======
-    <!-- no style -->
->>>>>>> master
-  </head>
-  <body>
-    <h1>Hello,World! Life is great!</h1>
-  </body>
-</html>
-```
+
 The first section is the version of the current branch (style) head. The second section is the version of master branch.
 
 02 Resolution of the conflict
