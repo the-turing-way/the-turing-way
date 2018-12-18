@@ -159,7 +159,7 @@ Commit messages also help others working on the same project to more easily unde
 
 
 
-There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, Github) which the instructions in this chapter will be geared towards. However the general principles and best practise described here applies regardless of what VC software you're using.  
+There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, Github) which the instructions in this chapter will be geared towards. There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "Additional material" section at the end of the chapter.) This chapter aims to cover the general principles underpinning all version control systems, and best practise applies for using such systems. 
 
 
 ----
@@ -488,7 +488,9 @@ Fundamentally the best way to deal with merge conflicts is to, so far as is poss
 
 **The problem:** when multiple people work on the same project (which is becoming more and more common as research becomes more collaborative) it becomes difficult to keep track of what changes have been made and by who. It is also often difficult and time-consuming to manually incorporate the different participant's work into a whole even if all of their changes are compatible.  
 
-**The solution:**
+**The solution:** hosting your project on a centralised version control system such as GitHub. Collaborators can then clone the project and work on that copy where they can still make commits, branches, etc. Collaborators can then *push* their work to each other, and *pull* other's work into their own copy. In this way it is easy to keep everyone up to date and to track what has been done and by who.
+
+GitHub also has numerous other handy features
 
 Has other benefits, open sci etc.
 
@@ -502,12 +504,12 @@ Has other benefits, open sci etc.
 
 ## What to learn next?
 
-## Recommended reading
+## Additional materials
+
+### Recommended reading
 
 - A free and very in depth book on gits myriad of features can be found [here](https://git-scm.com/book/en/v2)
-
-## Other useful links
- - A useful git cheat sheet can be found [here](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+- A useful git cheat sheet can be found [here](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
 ### Materials used in this chapter
 
@@ -527,3 +529,5 @@ Has other benefits, open sci etc.
 [This](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)**
 [This](https://githowto.com/resolving_conflicts). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
 [This](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)**
+
+### Other useful links
