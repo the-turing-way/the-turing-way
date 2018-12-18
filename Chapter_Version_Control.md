@@ -499,6 +499,7 @@ Fundamentally the best way to deal with merge conflicts is to, so far as is poss
 - A free and very in depth book on gits myriad of features can be found [here](https://git-scm.com/book/en/v2)
 
 ## Other useful links
+ - A useful git cheat sheet can be found [here](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
 ### Materials used in this chapter
 
