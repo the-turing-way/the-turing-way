@@ -495,13 +495,25 @@ Making your entire project and its history available online in this was also has
 1. Other researchers can re-use your work more easily. Rather than writing their own code to do what you already have they can just use yours, which saves time. This also benefits you as researchers are much more likely to build on your work (and cite you) if a great deal of the work has already been done.   
 2. Your work will be much more reproducible if the entire history of the project can be tracked. This enables results to be verified more easily, which benefits science.
 
-**How to do it:**
+**How to do it:** first make an account on [GitHub](https://github.com/), and create a repository on it. To do this click  the + sign dropdown menu in the upper right hand of the screen. Enter a name for your repository (ideally the same name as your project folder on your computer) and click Create Repository. Now you just need to link the project on your computer to this online repository. If your project is not already version controlled then make it so by running `git init` and making a commit. In the terminal on your computer use
 
+```
+git remote add origin https://github.com/username/repository_name
+```
+
+then *push* all the files on your computer to the online version so they match via
+
+```
+git push -u origin master
+```
 
 **Best practise**
 
 Include a license.  [This](https://choosealicense.com/) website offers
-
+readme
+code of conduct
+pull request/issue templates
+ways of working
 
 ## What to learn next?
 
@@ -530,5 +542,7 @@ Include a license.  [This](https://choosealicense.com/) website offers
 [This](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)**
 [This](https://githowto.com/resolving_conflicts). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
 [This](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)**
+[This](https://opensource.com/article/18/1/step-step-guide-git) **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
+[This](https://kbroman.org/github_tutorial/pages/init.html) **Attribution 3.0 Unported (CC BY 3.0)**
 
 ### Other useful links
