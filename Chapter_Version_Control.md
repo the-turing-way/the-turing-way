@@ -484,9 +484,17 @@ git mergetool
 
 Fundamentally the best way to deal with merge conflicts is to, so far as is possible, **ensure they don't happen in the first place**. Keep branches clean and focused on a single issue and involve as few files as possible. Before merging make sure you know what's in both branches, and if you are not the only one that has worked on the branches then keep the lines of communication open so you are all aware of what the others are doing.
 
-## Using version control to collaborate
+## GitHub
 
-*I think this section should go over how to do this in the browser/gui nitty-gritty. Again, the explanation of what branches are etc should all be done before.*
+**The problem:** when multiple people work on the same project (which is becoming more and more common as research becomes more collaborative) it becomes difficult to keep track of what changes have been made and by who. It is also often difficult and time-consuming to manually incorporate the different participant's work into a whole even if all of their changes are compatible.  
+
+**The solution:**
+
+Has other benefits, open sci etc.
+
+
+
+**How to do it:**
 
 ## Forks
 
