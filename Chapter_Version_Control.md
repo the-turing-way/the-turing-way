@@ -402,22 +402,7 @@ git merge branch_B
 
 **Best Practise for merging**
 
-First and foremost your **master branch should always be stable**, only merge work that is finished and tested into it.
-
-
-------
-
-From [here](https://homes.cs.washington.edu/~mernst/advice/version-control.html) **No license, reached out 13/12/18**
-
-Incorporate others' changes frequently
-Work with the most up-to-date version of the files as possible.
-
-When two people make conflicting edits simultaneously, then manual intervention is required to resolve the conflict. But if someone else has already completed a change before you even start to edit, it is a huge waste of time to create, then manually resolve, conflicts. You would have avoided the conflicts if your working copy had already contained the other person's changes before you started to edit.
-
-Share your changes frequently
-Once you have committed the changes for a complete, logical unit of work, you should share those changes with your colleagues as soon as possible. So long as your changes do not destabilize the system, do not hold the changes locally while you make unrelated changes. The reason is the same as the reason for incorporating others' changes frequently.
-
-Coordinate with your co-workers to avoid conflicts as best as you can.
+First and foremost your **master branch should always be stable**, only merge work that is finished and tested into it. If your project is collaborative then it's a good idea to **merge changes that others make into you own work frequently**. If you don't it's very easy for merge conflicts to arise (next section). Similarly, share your own changes with your collaborators often.
 
 
 ### Merge conflicts
@@ -586,47 +571,10 @@ General tools
 git diff
 ```
 
-git diff: a command that helps find differences between states of a repository/files. Useful in predicting and preventing merge conflicts.
-
-git diff origin/master <fileName>: Find the differences between the current index (HEAD) of fileName and what is in the central repository (origin/msater)
-
-```
-diff --git a/mergetest b/mergetest
-index 9be56b9..0aeffac 100644
---- a/mergetest
-+++ b/mergetest
-@@ -1,3 +1,4 @@
- hello
-+I am also editing this line
- This is a test
--This is my third line
-+This is a fourth line I am adding
-```
-Changes coming from origin/master are marked with +, while changes that are in your local repository (HEAD) are marked with -. This syntax does not notify which lines are added are deleted but just which lines originate in which state of the file.
-
-git diff FETCH_HEAD <fileName>: Will provide the same output as above except is limited to the index of the last fetch that the user did. This may not be latest revision in the central repository.
-
 ```
 git status
 ```
-git status: a command provides an overview of all files that have been modified and are in conflict at the time of the merge.
 
-Example:
-```
-    Changes to be committed:
-      (use "git reset HEAD <file>..." to unstage)
-
-   	modified:   <Some file>
-
-    Changed but not updated:
-      (use "git add <file>..." to update what will be committed)
-      (use "git checkout -- <file>..." to discard changes in working directory)
-
-   	unmerged:   <file>
-
-```
-"Changes to be committed": All changes to files that are not affected by the conflict are staged.
-"Changed but not updated ... unmerged": All files that have conflicts that must be resolved before repository will be back to working order.
 Tools specifically for when git refuses to start merge
 
 ```
@@ -644,16 +592,6 @@ git stash save "<Save Message>": Save changes to files in working directory and 
  HEAD is now at 4e2b407 Added second file for example.
 ```
 git stash pop: Removes the most recent stash or any stash specified and applies changes as a merge. If merge fails the stash is not removed from the list and must be removed manually.
-
-```
-git checkout
-```
-git checkout <fileName>: Can be used to trash changes in the working directory so as to allow a git pull.
-
-```
-git reset --mixed
-```
-git reset --mixed: Can be used to unstage files so as to allow a git pull.
 
 #### Tools specifically for when git conflicts arise during a merge
 ```
