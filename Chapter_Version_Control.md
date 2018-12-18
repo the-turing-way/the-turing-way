@@ -400,6 +400,16 @@ Branches should be used to **keep the master branch clean**. Similarly you shoul
 git merge branch_B
 ```
 
+Merging will not be possible if there are changes in either your working directory or staging area that could be written over by the files that you are merging in. If this happens, there are no merge conflicts in individual files. You need to commit or stash the files it lists and then try again. The error messages are as follows:
+
+```
+error: Entry 'your_file_name' not uptodate. Cannot merge. (Changes in working directory)
+```
+or
+```
+error: Entry 'your_file_name' would be overwritten by merge. Cannot merge. (Changes in staging area)
+```
+
 **Best Practise for merging**
 
 First and foremost your **master branch should always be stable**, only merge work that is finished and tested into it. If your project is collaborative then it's a good idea to **merge changes that others make into you own work frequently**. If you don't it's very easy for merge conflicts to arise (next section). Similarly, share your own changes with your collaborators often.
@@ -427,15 +437,14 @@ print('Hello World')
 
 They continue doing work on their respective branches and eventually decide to merge. Their version control software then goes through and combines their changes into a single version, *but* when it gets to the hello world statement it doesn't know which version to use. This is a merge conflict: incompatible changes have been made to the same file.
 
-**The solution:** when a merge conflict arises the incompatible sections will be marked in the file like this:
-
+**The solution:** when a merge conflict arises the incompatible sections will be marked in the file so you can fix them:
 
 ```
- <<<<<<< HEAD:mergetest
- This is my third line
- =======
- This is a fourth line I am adding
- >>>>>>> 4e2b407f501b68f8588aa645acafffa0224b9b78:mergetest
+<<<<<<< HEAD
+print('hello world!!!')
+=======
+print('Hello World')
+>>>>>>> master
 ```
 '<<<<<<<': Indicates the start of the lines that had a merge conflict. The first set of lines are the lines from the file that you were trying to merge the changes into.
 
@@ -443,68 +452,21 @@ They continue doing work on their respective branches and eventually decide to m
 
 '>>>>>>>': Indicates the end of the lines that had a merge conflict.
 
+**How to do it:** you resolve a conflict by editing the file to manually merge the parts of the file that git had trouble merging. This may mean discarding either your changes or someone else's or doing a mix of the two. You will also need to delete the '<<<<<<<', '=======', and '>>>>>>>' in the file. So in this project the users may decide in favour of one `hello world` over another, or they may decide to replace the conflict with
 
-You resolve a conflict by editing the file to manually merge the parts of the file that git had trouble merging. This may mean discarding either your changes or someone else's or doing a mix of the two. You will also need to delete the '<<<<<<<', '=======', and '>>>>>>>' in the file. So in this project the users may decide in favour of one `hello world` over another, or they may decide 
-
-------
-
-From [here](https://githowto.com/resolving_conflicts). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
-
-RESULT:
-
-FILE: LIB/HELLO.HTML
-
-The first section is the version of the current branch (style) head. The second section is the version of master branch.
-
-02 Resolution of the conflict
-
-You need to resolve the conflict manually. Make changes to lib/hello.html to achieve the following result.
-
-FILE: LIB/HELLO.HTML
 ```
-<!-- Author: Alexander Shvets (alex@githowto.com) -->
-<html>
-  <head>
-    <link type="text/css" rel="stylesheet" media="all" href="style.css" />
-  </head>
-  <body>
-    <h1>Hello, World! Life is great!</h1>
-  </body>
-</html>
-```
-03 Make a commit of conflict resolution
-
-RUN:
-```
-git add lib/hello.html
-git commit -m "Merged master fixed conflict."
+print('Hello World!!!')
 ```
 
-RESULT:
-```
-$ git add lib/hello.html
-$ git commit -m "Merged master fixed conflict."
-Recorded resolution for 'lib/hello.html'.
-[style 645c4e6] Merged master fixed conflict.
-```
+Once you've fixed the conflicts add and commit the updated file. You've now resolved the conflict.
 
-------
+
 
 From [here](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)**
 
 #### Two ways git merge/git pull can fail
 There are 2 ways in which git merge (or a git pull, which is a git fetch and then a git merge) can fail:
 
-1.  Git can fail to start the merge
-This occurs because git knows there are changes in either your working directory or staging area that could be written over by the files that you are merging in. If this happens, there are no merge conflicts in individual files. You need to modify or stash the files it lists and then try to do a git pull again. The error messages are as follows:
-
-```
-error: Entry '<fileName>' not uptodate. Cannot merge. (Changes in working directory)
-```
-or
-```
-error: Entry '<fileName>' would be overwritten by merge. Cannot merge. (Changes in staging area)
-```
 
 2. Git can fail during the merge
 This occurs because you have committed changes that are in conflict with someone else's committed changes. Git will do its best to merge the files and will leave things for you to resolve manually in the files it lists. The error message is as follows:
@@ -660,4 +622,6 @@ Continue the "Group Member" steps (first git pull since cloning the repository a
 [This](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
 [This](https://opensource.com/article/18/5/git-branching) **Creative Commons license**
 [This](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) **GNU GENERAL PUBLIC LICENSE Version 3**
-[This](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)
+[This](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)**
+[This](https://githowto.com/resolving_conflicts). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
+[This](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)**
