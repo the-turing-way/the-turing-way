@@ -6,8 +6,6 @@
 
 *Thoughts here and throughout will be in italics*
 
-*Might be worth having a summarising table with commands and what they do.*
-
 *For [creative commons](https://tldrlegal.com/license/creative-commons-attribution-4.0-international-(cc-by-4) you can do whatever but you must give credit to the original author of the work, including a URI or hyperlink to the work, this Public license and a copyright notice.*
 
 ------
