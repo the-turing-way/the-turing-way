@@ -1,3 +1,5 @@
+## *This chapter is still a work in progress, but enough work has been completed that reviews/contributions are welcome*
+
 # Version Control
 
 ## General thoughts
@@ -496,16 +498,16 @@ Making your entire project and its history available online in this was also has
 2. Your work will be much more reproducible if the entire history of the project can be tracked. This enables results to be verified more easily, which benefits science.
 
 **How to do it:** first make an account on [GitHub](https://github.com/), and create a repository on it. To do this click  the + sign dropdown menu in the upper right hand of the screen. Enter a name for your repository (ideally the same name as your project folder on your computer) and click Create Repository. Now you just need to link the project on your computer to this online repository. If your project is not already version controlled then make it so by running `git init` and making a commit. In the terminal on your computer use
-
 ```
 git remote add origin https://github.com/username/repository_name
 ```
 
 then *push* all the files on your computer to the online version so they match via
-
 ```
 git push -u origin master
 ```
+
+
 
 **Best practise**
 
