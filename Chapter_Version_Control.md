@@ -537,7 +537,7 @@ git pull origin master
 
 **Best practise**
 
-In your GitHub repository you should **include a license** to allow others to re-use your work legally. GitHub makes this very easy, simply click the "Create new file" button and name it "License.md" and a drop down menu will appear offering you a selection to choose from. The legalese can seem intimidating however [this](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project.
+In your GitHub repository you should **include a license** to allow others to re-use your work legally. GitHub makes this very easy, simply click the "Create new file" button, name it "License.md" and a drop down menu will appear offering you a selection to choose from. The legalese can seem intimidating however [this](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project.
 
 You should also **include a readme file** where you include useful information about what the project is, how to use it and how to contribute to it. Switching between projects in your work is common, let alone that you might need to poke at your own previous projects from time to time. This information will also assist you collaborators, and your future employer might want to check your existing Github projects.
 
@@ -552,11 +552,8 @@ The best thing you can do is to just write up the installation instructions when
 - List of authors/contributors to the project, possibly with contact information
 - Acknowledgements
 
+It can be a good idea to **include documents outlining a code of conduct, agreed ways of working, and contributing guidelines**, though depending on the level of detail you want to provide the latter two can also work as sections within the readme. These documents make explicit expectations for those working on/contributing to the project, making life easier for everyone. Similarly depending on the scope of your project you may wish to **provide templates for how contributors should make pull requests or raise issues**.
 
-
-code of conduct
-pull request/issue templates
-ways of working
 
 ## What to learn next?
 
