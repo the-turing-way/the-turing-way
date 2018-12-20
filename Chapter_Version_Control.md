@@ -89,18 +89,20 @@ No prerequisites. Recommended skill level: beginner - intermediate. Version cont
 ### Definitions/glossary
 
 **Branch:**
+**Clone:** copy of an existing git repository, normally from some remote location to your local environment.
 **Commit:**
 **Commit message:**
 **git:**
 **GitHub:**   *say online, aids collaboration*
 **HEAD:**
 **Issue:**
-**Master branch:**
+**Master branch:** the repository’s main branch. Depending on the work flow it is the one people work on or the one where the integration happens.
 **Merge:**
 **Merge conflict:**
 **Pull request:**
+**Push:** Used to submit the code to a remote repository
 **Repository:**
-**SHA:**
+**SHA:** Unique string of numbers of letters used to identify every commit or node in the Git tree.
 **Staging area:**
 
 
@@ -609,3 +611,4 @@ You can also **make use of one of GitHub's major features- issues**. Anyone can 
 - [19.](https://thejunkland.com/blog/how-to-write-good-readme.html) **Creative Commons Attribution-NonCommercial 2.5 License**
 - [20.](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) **MIT**
 - [21.](https://commons.wikimedia.org/wiki/Taj_Mahal#/media/File:Taj_Mahal_in_March_2004.jpg) **GNU Free Documentation License**
+- [22.](https://juristr.com/blog/2013/04/git-explained/) **Creative Commons Attribution-ShareAlike 4.0 International License**
