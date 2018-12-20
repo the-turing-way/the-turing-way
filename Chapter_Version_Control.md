@@ -539,7 +539,21 @@ git pull origin master
 
 In your GitHub repository you should **include a license** to allow others to re-use your work legally. GitHub makes this very easy, simply click the "Create new file" button and name it "License.md" and a drop down menu will appear offering you a selection to choose from. The legalese can seem intimidating however [this](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project.
 
-readme
+You should also **include a readme file** where you include useful information about what the project is, how to use it and how to contribute to it. Switching between projects in your work is common, let alone that you might need to poke at your own previous projects from time to time. This information will also assist you collaborators, and your future employer might want to check your existing Github projects.
+
+There are plenty of readme templates available online, pick one you like, but here's a list of the main things a readme should include:
+
+- The project name and what it is. This will greatly help the random prospective contributor to get an idea of the project. Include a few key points that describe the main features of the project and what are the main features you're implementing.
+This helps to quickly compare other projects with yours and to give an idea that why the project exists in the first place.
+- Instructions on how to install the project. The installer might be a collaborator, someone that comes across and is interested in the project, or even you if you get a new machine and need to re-install your project. Nevertheless, it's a total waste of both of your resources to start figuring out how to just get started with the project. This should also include any prerequisites that will be needed to run the project.
+The best thing you can do is to just write up the installation instructions when you first do them yourself, and you'll quickly save hours of work in the future.
+- Instructions for how to run the project and any associated tests. If you've been working on your project it may seem obvious how to run it, but this will likely not be the case for someone coming across it for the first time.
+- Links to related material
+- List of authors/contributors to the project, possibly with contact information
+- Acknowledgements
+
+
+
 code of conduct
 pull request/issue templates
 ways of working
@@ -574,5 +588,6 @@ ways of working
 [This](https://opensource.com/article/18/1/step-step-guide-git) **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
 [This](https://kbroman.org/github_tutorial/pages/init.html) **Attribution 3.0 Unported (CC BY 3.0)**
 [This](https://opensource.com/article/18/2/how-clone-modify-add-delete-git-files) **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
-
+[readme](https://thejunkland.com/blog/how-to-write-good-readme.html) **Creative Commons Attribution-NonCommercial 2.5 License**
+[readme template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) **MIT**
 ### Other useful links
