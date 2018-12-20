@@ -107,7 +107,8 @@ If you feel that we should try new tools or some aspects of the collaboration co
 - Create a branch and create a markdown file on it
 - Make a pull request to the turning way master branch. The title of this request should have [WIP] meaning work in progress at the start.
 - On your branch add material to the chapter and commit. The goal of this project is to collate and build on the many good resources already available about good practise in data science. As such this material should primarily be drawn from outside sources. Note the link and (if available) license of the source.
-- Once a significant amount of material has been amassed work (preferably with others) to develop a chapter outline.
+- Once a significant amount of material has been amassed, work (preferably with others) to develop a chapter outline.
+- Once the chapter is reasonably complete, merge a version into master with a note on top of the file that the chapter is work in progress, linking to issues discussing planned changes and additions and - if available - an existing [WIP] follow up pull request. 
 - Edit the amased material into a coherent chapter, adding more material if gaps become apparent.
 - Edit the chapter for style.
 
