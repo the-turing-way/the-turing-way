@@ -575,7 +575,6 @@ You can also **make use of one of GitHub's major features- issues**. Anyone can 
 - [7.](https://www.atlassian.com/git/tutorials/saving-changes/git-diff) **Creative Commons Attribution 2.5 Australia License.**
 - [8.](http://sethrobertson.github.io/GitBestPractices/) **Creative Commons Attribution-ShareAlike 3.0 Generic**
 - [9.](https://guide.esciencecenter.nl/best_practices/version_control.html) **Creative Commons Attribution 4.0 International License**
-- [Taj Mahal Figure](https://commons.wikimedia.org/wiki/Taj_Mahal#/media/File:Taj_Mahal_in_March_2004.jpg) **GNU Free Documentation License**
 - [10.](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
 - [11.](https://opensource.com/article/18/5/git-branching) **Creative Commons license**
 - [12.](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) **GNU GENERAL PUBLIC LICENSE Version 3**
@@ -587,3 +586,4 @@ You can also **make use of one of GitHub's major features- issues**. Anyone can 
 - [18.](https://opensource.com/article/18/2/how-clone-modify-add-delete-git-files) **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
 - [19.](https://thejunkland.com/blog/how-to-write-good-readme.html) **Creative Commons Attribution-NonCommercial 2.5 License**
 - [20.](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) **MIT**
+- [21.](https://commons.wikimedia.org/wiki/Taj_Mahal#/media/File:Taj_Mahal_in_March_2004.jpg) **GNU Free Documentation License**
