@@ -161,7 +161,7 @@ Commit messages also help others working on the same project to more easily unde
 
 
 
-There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, Github) which the instructions in this chapter will be geared towards. There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "Additional material" section at the end of the chapter.) This chapter aims to cover the general principles underpinning all version control systems, and best practise applies for using such systems.
+There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, Github) which the instructions in this chapter will be geared towards. There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "Further reading" section at the end of the chapter.) This chapter aims to cover the general principles underpinning all version control systems, and best practise applies for using such systems.
 
 
 ----
@@ -556,6 +556,28 @@ It can be a good idea to **include documents outlining a code of conduct, agreed
 
 You can also **make use of one of GitHub's major features- issues**. Anyone can raise an issue with the project and discuss it. By making issues for any significant changes a record can be kept of the history of the project. GitHub has a myriad of other features such a milestones and project boards which may also be of use.
 
+## Summary of key git commands
+
+| Command                       | Use                                                                      |
+| ----------------------------- | ------------------------------------------------------------------------ |
+| git init                      | Initialises a git repository in that directory                           |
+| git add .                     | Add all changes to the staging area to be committed                      |
+| git add file_name             | Add changes to the specified file to the staging area to be committed    |
+| git commit -m "Your message"  | Commits everything in the staging area with your commit message          |
+| git checkout SHA              | Check out past commit with the given SHA                                 |
+| git checkout SHA -- file_name | Check out past version of a file from the commit with the given SHA      |  
+| git checkout -b branch_name   | Create and switch to a new branch                                        |
+| git checkout branch_name      | Switch to a specified branch                                             |
+| git merge branch_name         | Merge the branch you are on into the specified branch                    |
+| git clone url                 | Makes a clone of the repository at the specified url                     |
+| git remote add origin url     | Links local repository and repository at the specified url               |
+| git push origin branch_name   | Push local changes to the specified branch of the online repository      |
+| git pull origin branch_name   | Pull changes to online repository into local repository                  |
+| git log                       | Output a log of past commits with their commit messages                  |
+| git status                    | Output status including what branch you're on & what changes are staged  |
+| git diff                      | Output difference between working directory and most recent commit       |
+| git diff thing_a thing_b      | Output difference between two things e.g. commits, branches              |                     
+
 
 ## What to learn next?
 
@@ -568,7 +590,7 @@ You can also **make use of one of GitHub's major features- issues**. Anyone can 
 
 - [1.](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Controls) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
 - [2.](https://link.springer.com/article/10.1186/1751-0473-8-7) **Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0)** *Other useful stuff in this paper, could use their into as part of the book's intro*
-- [3.](http://crlionline.net/node/198). **Permission to use given by the author (Peter Reimann) 15/12/18**
+- [3.](http://crlionline.net/node/198) **Permission to use given by the author (Peter Reimann) 15/12/18**
 - [4.](https://tonysyu.github.io/source-control-for-scientists-and-soloists.html#.XA6Q3mj7RPY) **Permission given by the author (Tony Yu) 15/12/18**
 - [5.](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.**
 - [6.](https://githowto.com/undoing_committed_changes) **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
@@ -579,7 +601,7 @@ You can also **make use of one of GitHub's major features- issues**. Anyone can 
 - [11.](https://opensource.com/article/18/5/git-branching) **Creative Commons license**
 - [12.](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) **GNU GENERAL PUBLIC LICENSE Version 3**
 - [13.](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)**
-- [14.](https://githowto.com/resolving_conflicts). **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
+- [14.](https://githowto.com/resolving_conflicts) **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
 - [15.](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)**
 - [16.](https://opensource.com/article/18/1/step-step-guide-git) **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
 - [17.](https://kbroman.org/github_tutorial/pages/init.html) **Attribution 3.0 Unported (CC BY 3.0)**
