@@ -26,6 +26,8 @@ The following mailing lists have been identified as relevant to the project.
 ##### Sheffield
 
 ##### Manchester
+- Research IT newsletter
+- Will investigate Data Science Institute mailing list
 
 ##### Turing
 - weekly Turing bulletin
@@ -54,6 +56,7 @@ All The Turing Way project team members are encouraged to engage with local rele
 ### Sheffield
 
 ### Manchester
+- TBC - following up a few leads
 
 ### Turing
 - Reproducible Research drop-ins
@@ -78,6 +81,7 @@ Any blog posts and announcements will be promoted through the project members' T
 - @annakrystalli
 - @alex__morley (+ @mozilla for main release)
 - @martinoreilly
+- @rosiehlib
 
 ## Workshops
 The project team will aim to organise 2 workshops. Details are still under discussion and will be covered in relevant issues and documents.
