@@ -499,7 +499,7 @@ Making your entire project and its history available online in this was also has
 
 **How to do it:** first make an account on [GitHub](https://github.com/), and create a repository on it. To do this click  the + sign dropdown menu in the upper right hand of the screen. Enter a name for your repository (ideally the same name as your project folder on your computer) and click Create Repository. Now you just need to link the project on your computer to this online repository. If your project is not already version controlled then make it so by running `git init` and making a commit. In the terminal on your computer use
 ```
-git remote add origin https://github.com/username/repository_name
+git remote add origin https://github.com/your_username/repository_name
 ```
 
 then *push* all the files on your computer to the online version so they match via
@@ -507,6 +507,19 @@ then *push* all the files on your computer to the online version so they match v
 git push -u origin master
 ```
 
+You can the go on and make more commits on your computer. When you want to push them to your online version similarly you do
+
+```
+git push origin branch_you_want_to_push_to
+```
+
+Others can then clone your repository by using
+
+```
+git clone https://github.com/your_username/repository_name.git
+```
+
+Naturally the exact same procedure applies to you if you want to clone someone else's repository.
 
 
 **Best practise**
@@ -546,5 +559,6 @@ ways of working
 [This](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)**
 [This](https://opensource.com/article/18/1/step-step-guide-git) **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
 [This](https://kbroman.org/github_tutorial/pages/init.html) **Attribution 3.0 Unported (CC BY 3.0)**
+[This](https://opensource.com/article/18/2/how-clone-modify-add-delete-git-files) **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
 
 ### Other useful links
