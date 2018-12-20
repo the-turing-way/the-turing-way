@@ -508,23 +508,37 @@ git push -u origin master
 ```
 
 You can the go on and make more commits on your computer. When you want to push them to your online version similarly you do
-
 ```
 git push origin branch_you_want_to_push_to
 ```
 
-Others can then clone your repository by using
-
+Others can then clone your repository to their computer by using
 ```
 git clone https://github.com/your_username/repository_name.git
 ```
 
+They cam make and commit changes to the code without impacting the original, and push their changes to *their* online GitHub account using   
+```
+git push -u origin master
+```
+
 Naturally the exact same procedure applies to you if you want to clone someone else's repository.
+
+So everyone's got a copy of the code and they're merrily working away on it, how do collaborators share their work? Pull requests. A pull request is a request for a person to *pull* your changes into their version on the project. Say person A has made changes they want to share with person B. On GitHub Person A needs to go to person B's copy of the project and click the "New pull request" button. From there they can indicate which of their branches they would like person B to pull changes from, and which branch they want the changes pulled to. If person B accepts then person A's changes will be merged into their repository by GitHub. They can discuss the request in comments, and make further commits to the request before it is accepted if necessary.
+
+When person B is setting up the pull request GitHub will automatically check whether there would be any merge conflicts if they accept, and highlight them if there are. These can then be resolved in further commits before the request is accepted, keeping the merge clean and painless.
+
+Once the request is accepted GitHub will merge person As changes into person B's online copy of the repository. Person B can the *pull* those changes down to the copy on their computer using
+
+```
+git pull origin master
+```
 
 
 **Best practise**
 
-Include a license.  [This](https://choosealicense.com/) website offers
+In your GitHub repository you should **include a license** to allow others to re-use your work legally. GitHub makes this very easy, simply click the "Create new file" button and name it "License.md" and a drop down menu will appear offering you a selection to choose from. The legalese can seem intimidating however [this](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project.
+
 readme
 code of conduct
 pull request/issue templates
