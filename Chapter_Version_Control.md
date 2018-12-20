@@ -88,18 +88,20 @@ No prerequisites. Recommended skill level: beginner - intermediate. Version cont
 
 ### Definitions/glossary
 
-Branch
-Commit
-Commit message
-git
-GitHub   *say online, aids collaboration*
-HEAD
-Master branch
-Merge
-Merge conflict
-Repository
-SHA
-Staging area
+**Branch:**
+**Commit:**
+**Commit message:**
+**git:**
+**GitHub:**   *say online, aids collaboration*
+**HEAD:**
+**Issue:**
+**Master branch:**
+**Merge:**
+**Merge conflict:**
+**Pull request:**
+**Repository:**
+**SHA:**
+**Staging area:**
 
 
 
