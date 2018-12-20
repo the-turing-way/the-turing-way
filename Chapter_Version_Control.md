@@ -554,6 +554,8 @@ The best thing you can do is to just write up the installation instructions when
 
 It can be a good idea to **include documents outlining a code of conduct, agreed ways of working, and contributing guidelines**, though depending on the level of detail you want to provide the latter two can also work as sections within the readme. These documents make explicit expectations for those working on/contributing to the project, making life easier for everyone. Similarly depending on the scope of your project you may wish to **provide templates for how contributors should make pull requests or raise issues**.
 
+You can also **make use of one of GitHub's major features- issues**. Anyone can raise an issue with the project and discuss it. By making issues for any significant changes a record can be kept of the history of the project. GitHub has a myriad of other features such a milestones and project boards which may also be of use.
+
 
 ## What to learn next?
 
