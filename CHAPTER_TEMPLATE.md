@@ -21,10 +21,11 @@
 ## What to learn next?
 > recommended next chapters that are a good next step up
 
-## Additional material
-### Recommended reading
+## Further reading
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
-### Resources used in this chapter
-> Credit/urls for any materials that form part of the chapter's text.
-### Other useful links
 > less relevant/favourite resources in case someone wants to dig into this in detail
+
+## Bibliography
+> Credit/urls for any materials that form part of the chapter's text.
+
+
