@@ -518,12 +518,27 @@ You can also **make use of one of GitHub's major features- issues**. Anyone can 
 
 ## Checklist
 
+Before you start trying to resolve conflicts **make sure you fully understand the changes and how they are incompatible**. If you don't you risk making things more tangled. Once you do and you go about fixing the problem **be careful, but don't be afraid**; the whole point of version control is your past versions are all safe. Nevertheless merge conflicts can be intimidating to resolve, especially if you are merging branches that diverged a great many commits ago which may now have many incompatibilities. This is why it is good practise to **merge other's changes into your work frequently**.
+
+There are **tools** available to assist in resolving merge conflicts. Find and familiarise yourself with one that works for you. To set a tool as your default do
+
+Fundamentally the best way to deal with merge conflicts is to, so far as is possible, **ensure they don't happen in the first place**. You can improve your odd on this by **keeping branches clean and focused on a single issue, and involving as few files as possible**. Before merging make sure you know what's in both branches, and if you are not the only one that has worked on the branches then **keep the lines of communication open** so you are all aware of what the others are doing.
+
 ### Make use of Git
 - [ ] Make your project version controlled by initialising a git repository in its directory using `git init`
 - [ ] Add and commit all your files to the repository using `git add .` then `git commit`
 - [ ] Continue to add and commit changes as your project progresses. Stage the changes in specific files to be committed with `git add filename`, and add messages to your commits with `git commit -m "Your message"`
+  - [ ] Each commit should make one simple change
+  - [ ] No generated files committed
+  - [ ] Commit messages are meaningful, with a ~50 character summary at the top
+  - [ ] Commit messages are in the present tense and imperative
 - [ ] Develop new features on their own branches, which you can create via `git checkout -b branch_name` and switch between via `git checkout branch_name`
+  - [ ] Branches have informative names
+  - [ ] Master branch is kept clean
+  - [ ] Each branch has a single purpose and only changes related to that purpose are made on it
 - [ ] Once features are complete merge their branches into the master branch by switching to the feature branch and running `git merge master`
+  - [ ] Merge other's changes into your work frequently
+  - [ ] When dealing with merge conflicts make sure you fully understand both versions before trying to resolve them
 
 ### Put your project on GitHub
 - [ ] Create a GitHub account
