@@ -10,3 +10,13 @@ A place to organise links to resources.
 - Software Quality Guidelines of CLARIAH: Some really useful overall guidelines. Nice bit of history too. Probably too 
 detailed for our purposes but feels like useful reading for background knowledge: https://github.com/CLARIAH/software-quality-guidelines/blob/master/softwareguidelines.pdf
 - A Checklist for Reproducibility in Reinforcement Learning: https://gist.github.com/iandanforth/536472cc62a8336a96fa4e8d592c8e3f
+
+## Binder resources
+
+- Binder team's NeurIPS presentations https://twitter.com/choldgraf/status/1071092064421470208 and https://bit.ly/binder-neurips-2018
+
+## Reproducibiliy material
+- Alan Turing Institute Symposium on Reproducibility for Data-Intensive Research: https://osf.io/bcef5 (especially the provenance part)
+- ACM task force/guidelines on reproducibility https://www.acm.org/publications/task-force-on-data-software-and-reproducibility and  https://www.acm.org/publications/policies/artifact-review-badging
+- Reprodcucibility badges for conferences: http://sigmod2019.org/sigmodcfp
+- Reproducibility of Sicnetific Results: https://plato.stanford.edu/entries/scientific-reproducibility/
