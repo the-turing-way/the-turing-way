@@ -516,7 +516,7 @@ You can also **make use of one of GitHub's major features- issues**. Anyone can 
 | git diff thing_a thing_b      | Output difference between two things e.g. commits, branches              |                     
 
 
-## Checklist
+## Checklists
 
 ### Make use of Git
 - [ ] Make your project version controlled by initialising a git repository in its directory using `git init`
@@ -541,6 +541,10 @@ You can also **make use of one of GitHub's major features- issues**. Anyone can 
 - [ ] Put the files in your local version of the project online via `git push -u origin master`
 - [ ] Continue to push changes you make on your computer to the GitHub version via `git push origin branch_name`
 - [ ] Pull any changes made on GitHub to your local version via `git pull origin branch_name`
+- [ ] Include a license
+- [ ] Include a readme
+- [ ] Set expectations for how collaborators are expected to behave via a code of conduct and or ways of working document
+- [ ] Use issues to track and discuss modifications to the project
 
 ### Contribute to someone else's project
 - [ ] Clone their project's repository from GitHub `git clone repository_url`
