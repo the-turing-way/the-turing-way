@@ -493,6 +493,8 @@ It can be a good idea to **include documents outlining a code of conduct, agreed
 
 You can also **make use of one of GitHub's major features- issues**. Anyone can raise an issue with the project and discuss it. By making issues for any significant changes a record can be kept of the history of the project. GitHub has a myriad of other features such a milestones and project boards which may also be of use.
 
+In pull requests you should **clearly explain what the changes you've made are and why you made them**. If your changes address and issue that has been raised reference it directly.
+
 ## Summary of key git commands
 
 | Command                       | Use                                                                      |
@@ -550,7 +552,9 @@ You can also **make use of one of GitHub's major features- issues**. Anyone can 
 - [ ] Clone their project's repository from GitHub `git clone repository_url`
 - [ ] Make and commit changes
 - [ ] Push your changes to you GitHub version of the project
-- [ ] Make a pull request on GitHub
+- [ ] Make use of issues to discuss possible changes to a project
+- [ ] Make pull requests on GitHub to share your work
+  - [ ] Clearly explain the changes you've made and why in your pull request.
 
 
 
