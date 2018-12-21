@@ -23,19 +23,7 @@
 - *~~Prerequisites / recommended skill level~~*
 - *Definitions/glossary*
 - *How to use version control for your own project and how to use it well*
-  - *Intro*
-    - *~~Say in terms of how to do it we're going to give the actual commands to do all this in git because widely used, but the info on good practise, i.e. how to do it well, is still relevant even if you're using other VC software like mercurial.~~*
-    - *~~Set up a repo, git init. Don't talk about putting it online yet.~~*
-  - *~~Commits~~*
-    - *~~Problem = want to access past versions~~*
-    - *~~Say how to add files, say how git status tells you what's been added. Git diff to see the difference. How to make a commit and how to get files/whole project back to past commit. Say git log gives log of past commits. Git diff to see what changed between two commits.~~*
-    - *~~Best practice for committing, e.g. keep bitesized, don't do per-file commits, whitespace changes together with code changes, or code drops~~*
-  - *~~Commit messages~~*
-    - *~~Problem = when you've been working on a project for a while different versions stack up, hard to remember what does what. Having something is no good if you can't find/understand it, and figuring it out can take valuable time.~~*
-    - *~~Say what commit messages are~~.*
-    - *~~Explain that when you commit (regardless(???) of what VC software you're using) you can give a commit message, say show up in git log.~~*
-    - *~~How to give a commit message.~~*
-    - *~~Best practise for commit messages. e.g. make them meaningful, cover why the change is necessary, how it addresses the issue, and what effects the change has. Also don't describe the code, describe the intent and the approach. And keep the log in a present tense.~~*
+
   - *Branches*
     - *Problem = if you're working on something it could screw up your working version*
     - *Describe in detail what branches are and how they fix the problem, mention can do branches from branches*
@@ -275,7 +263,7 @@ Finally, **don't commit anything that can be regenerated from other things that 
 
 ### Commit messages
 
-**The problem:** as you work on you project you will make more and more commits. Without any other information it can be hard to remember which version of your project is in which.
+**The problem:** as you work on you project you will make more and more commits. Without any other information it can be hard to remember which version of your project is in which. Storing past versions is useless if you can't understand them, and figuring out what they contain by inspecting the code is frustrating and takes valuable time.  
 
 **The solution:** When you commit you have the chance to write a commit message describing what the commit is and what it does, and you should always, *always,* **_always_** do so.  A commit message gets attached to the commit so if you look back at it (e.g via `git log`) it will show up. Creating insightful and descriptive commit messages is one of the best things you can do to get the most out of version control. It lets people (and your future self when you've long since forgotten what you were doing and why) quickly understand what changes a commit contains without having to carefully read code and waste time figuring it out. Good commit messages improve your code quality by drastically reducing its WTF/min ratio:
 
@@ -289,7 +277,7 @@ git commit -m "Your commit message"
 
 **Good practise for commit messages**
 
-The number one rule is: **make it meaningful**. A commit message like "Fixed a bug" leaves it entirely up to the person  looking at the commit (again, this person may very well be you a few mnths in the future when you've forgotten what you were doing) to waste time figuring out what the bug was, what changes you actually made, and how they fixed it. As such a good commit message should explain what you did, why you did it, and what is impacted by the change.
+The number one rule is: **make it meaningful**. A commit message like "Fixed a bug" leaves it entirely up to the person  looking at the commit (again, this person may very well be you a few months in the future when you've forgotten what you were doing) to waste time figuring out what the bug was, what changes you actually made, and how they fixed it. As such a good commit message should **explain what you did, why you did it, and what is impacted by the change**. As with comments you should **describe what the code is doing rather than the code itself** e.g. it is not obvious what "Changed N_sim to 10" actually does, but "Changed number of simulations run by the program to 10" is clear.
 
 **Summarise the change** the commit contains in the first line (50-72 characters).
 It’s also a good practise to **use the imperative present tense** in these messages. In other words, use commands. Instead of "I added tests for" or "Adding tests for" use "Add tests for".
