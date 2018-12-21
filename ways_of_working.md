@@ -30,6 +30,7 @@ In addition, you can reach the team members through their preferred way of commu
 - Martin O'Reilly
 
 As most team members do not work full time on the Turing Way, it might take some time until your query or contribution is addressed - especially if expert knowledge is needed.
+The core project team will have weekly update meetings on Wednesdays from 2-4 pm either on gitter or as videocalls on zoom.
 
 ## Project management
 ### Issues
