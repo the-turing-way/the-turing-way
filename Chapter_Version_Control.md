@@ -6,19 +6,24 @@
 
 *Thoughts here and throughout will be in italics*
 
-  *I could use some help from those more familiar with gitHUB and using git to collaborate to flesh out that section (near the end).*
+*I could use some help from those more familiar with gitHUB and using git to collaborate to flesh out that section (near the end).*
 
 *For [creative commons](https://tldrlegal.com/license/creative-commons-attribution-4.0-international-(cc-by-4) you can do whatever but you must give credit to the original author of the work, including a URI or hyperlink to the work, this Public license and a copyright notice.*
 
-
 *I think the best practise sections should have a different background colour/be in boxes so someone who already knows about version control but wants to know more about best practise can find it easily. Also given the thrust of this project is good practise I think really highlighting those sections is meritted.*
+
+*Think the summary and how this is helpful sections could use fleshing out, focus on reproducibility aspect.* 
 
 ------
 
 ## Summary
 
+Version control keeps tracks of different versions of a project and allows past versions to be accessed easily. The widely used version control software git is well integrated with GitHub, an online platform which aids collaboration between researchers.
+
 
 ## How this is helpful
+
+Keeping past versions of a project stored and accessible can save researchers a great deal of time on reproducing lost code or analysis. Version control software does this in a neat and powerful way.
 
 
 ## Prerequisites / recommended skill level
