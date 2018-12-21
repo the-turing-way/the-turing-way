@@ -6,6 +6,8 @@
 
 *Thoughts here and throughout will be in italics*
 
+  *I could use some help from those more familiar with gitHUB and using git to collaborate to flesh out that section (near the end).*
+
 *For [creative commons](https://tldrlegal.com/license/creative-commons-attribution-4.0-international-(cc-by-4) you can do whatever but you must give credit to the original author of the work, including a URI or hyperlink to the work, this Public license and a copyright notice.*
 
 ------
@@ -30,7 +32,7 @@
     - *Science is becoming increasingly collaborative. If you have a lot of people working on the same codebase all changing it things can get messy and tangled very fast. Also how a lot of major open source projects are run by this.*  
     - *Say should understand how to use it for your own project before trying to understand how to do it with other people, if reading this section need to read (or already understand) previous one.*
   - *Divide into if it's your project people are collaborating on, and collaborating on someone else's?*
-  - *I could use some help from those more familiar with gitHUB and using git to collaborate for this section.*
+
 - *Checklist*
 - *What to learn next?*
 - *Recommended reading*
@@ -512,6 +514,31 @@ You can also **make use of one of GitHub's major features- issues**. Anyone can 
 | git status                    | Output status including what branch you're on & what changes are staged  |
 | git diff                      | Output difference between working directory and most recent commit       |
 | git diff thing_a thing_b      | Output difference between two things e.g. commits, branches              |                     
+
+
+## Checklist
+
+### Make use of Git
+- [ ] Make your project version controlled by initialising a git repository in its directory using `git init`
+- [ ] Add and commit all your files to the repository using `git add .` then `git commit`
+- [ ] Continue to add and commit changes as your project progresses. Stage the changes in specific files to be committed with `git add filename`, and add messages to your commits with `git commit -m "Your message"`
+- [ ] Develop new features on their own branches, which you can create via `git checkout -b branch_name` and switch between via `git checkout branch_name`
+- [ ] Once features are complete merge their branches into the master branch by switching to the feature branch and running `git merge master`
+
+### Put your project on GitHub
+- [ ] Create a GitHub account
+- [ ] Create a repository on GitHub with the same name as your project
+- [ ] Attach your local and online repositories via `git remote add origin repository_url`
+- [ ] Put the files in your local version of the project online via `git push -u origin master`
+- [ ] Continue to push changes you make on your computer to the GitHub version via `git push origin branch_name`
+- [ ] Pull any changes made on GitHub to your local version via `git pull origin branch_name`
+
+### Contribute to someone else's project
+- [ ] Clone their project's repository from GitHub `git clone repository_url`
+- [ ] Make and commit changes
+- [ ] Push your changes to you GitHub version of the project
+- [ ] Make a pull request on GitHub
+
 
 
 ## What to learn next?
