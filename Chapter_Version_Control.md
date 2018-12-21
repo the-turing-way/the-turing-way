@@ -25,16 +25,6 @@
 - *How to use version control for your own project and how to use it well*
 
 
-  - *Merging*
-    - *Problem = once you've got your changes working you want to combine them into your main thing*
-    - *VC lets you merge changes in*
-    - *How to merge*
-    - *Best practice for merging, e.g. don't put half finished stuff in.*
-  - *Merge conflicts*
-    - *Problem = May have made changes to master (or whatever sub-branch you're merging to (overcomplicating?)) since you started the branch. When you go to merge may be incompatible.*
-    - *VC will highlight those changes and let you sort them out*  
-    - *How to resolve merge conflicts*
-    - *Best practise for preventing and dealing with merge conflicts, e.g. merge from upstream often, keep branches and commits focused on limited changes, etc.*
 - *Using version control to collaborate.*
   - *Introduction*
     - *Science is becoming increasingly collaborative. If you have a lot of people working on the same codebase all changing it things can get messy and tangled very fast. Also how a lot of major open source projects are run by this.*  
@@ -340,7 +330,7 @@ Branches should be used to **keep the master branch clean**. Similarly you shoul
 
 **The problem:** once you've finished up some work on a branch you need to add it to your main project (or any other branch).
 
-**The solution:** merge the branch with your work on into your target branch. You can also use merging to combine work that other people have done with your own.
+**The solution:** merge the branch with your work on into your target branch. You can also use merging to combine work that other people have done with your own and vice versa.
 
 **How to do it:** to merge some branch, branch_A, into another branch, branch_B, switch to branch_A via `git checkout branch_A` and merge it into branch_B by
 
@@ -383,9 +373,9 @@ while someone else on another branch instead decides to change `print('hello wor
 print('Hello World')
 ```
 
-They continue doing work on their respective branches and eventually decide to merge. Their version control software then goes through and combines their changes into a single version, *but* when it gets to the hello world statement it doesn't know which version to use. This is a merge conflict: incompatible changes have been made to the same file.
+They continue doing work on their respective branches and eventually decide to merge. Their version control software then goes through and combines their changes into a single version of the file, *but* when it gets to the hello world statement it doesn't know which version to use. This is a merge conflict: incompatible changes have been made to the same file.
 
-**The solution:** when a merge conflict arises use `git status` to find out which files the conflicts are in. Within those files the incompatible changes will be marked so you can fix them:
+**The solution:** when a merge conflict arises it will be flagged during the merge process. Within the files with conflicts the incompatible changes will be marked so you can fix them:
 
 ```
 <<<<<<< HEAD
@@ -406,17 +396,16 @@ print('Hello World')
 print('Hello World!!!')
 ```
 
-Once you've fixed the conflicts commit the new version. You've now resolved the conflict.
+Once you've fixed the conflicts commit the new version. You've now resolved the conflict. If, during the process, you need a reminder of which files the conflicts are in you can use `git status` to find out.
 
 If you find there are particularly nasty conflicts and you want to abort the merge you can using
 ```
 git merge --abort
 ```
 
-
 **Good practise for resolving merge conflicts**
 
-Before you start trying to resolve conflicts **make sure you fully understand the changes and how they are incompatible**. If you don't you risk making things more tangled. Once you do and you go about fixing the problem **be careful, but don't be afraid**; the whole point of version control is your past versions are all safe. Nevertheless merge conflicts can be intimidating to resolve especially if you are merging branches that diverged a great many commits ago which may now have many incompatibilities. This is why it is good practise to merge other's changes into your work frequently.
+Before you start trying to resolve conflicts **make sure you fully understand the changes and how they are incompatible**. If you don't you risk making things more tangled. Once you do and you go about fixing the problem **be careful, but don't be afraid**; the whole point of version control is your past versions are all safe. Nevertheless merge conflicts can be intimidating to resolve, especially if you are merging branches that diverged a great many commits ago which may now have many incompatibilities. This is why it is good practise to **merge other's changes into your work frequently**.
 
 There are **tools** available to assist in resolving merge conflicts. Find and familiarise yourself with one that works for you. To set a tool as your default do
 
@@ -430,7 +419,7 @@ and launch it by
 git mergetool
 ```
 
-Fundamentally the best way to deal with merge conflicts is to, so far as is possible, **ensure they don't happen in the first place**. Keep branches clean and focused on a single issue and involve as few files as possible. Before merging make sure you know what's in both branches, and if you are not the only one that has worked on the branches then keep the lines of communication open so you are all aware of what the others are doing.
+Fundamentally the best way to deal with merge conflicts is to, so far as is possible, **ensure they don't happen in the first place**. You can improve your odd on this by **keeping branches clean and focused on a single issue, and involving as few files as possible**. Before merging make sure you know what's in both branches, and if you are not the only one that has worked on the branches then **keep the lines of communication open** so you are all aware of what the others are doing.
 
 ## GitHub
 
