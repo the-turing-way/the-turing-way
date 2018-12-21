@@ -10,34 +10,8 @@
 
 *For [creative commons](https://tldrlegal.com/license/creative-commons-attribution-4.0-international-(cc-by-4) you can do whatever but you must give credit to the original author of the work, including a URI or hyperlink to the work, this Public license and a copyright notice.*
 
-------
-
-## *Structure*
-
 
 *I think the best practise sections should have a different background colour/be in boxes so someone who already knows about version control but wants to know more about best practise can find it easily. Also given the thrust of this project is good practise I think really highlighting those sections is meritted.*
-
-
-
-- *Summary*
-  - *Worry about this last*
-
-- *~~Prerequisites / recommended skill level~~*
-- *Definitions/glossary*
-- *How to use version control for your own project and how to use it well*
-
-
-- *Using version control to collaborate.*
-  - *Introduction*
-    - *Science is becoming increasingly collaborative. If you have a lot of people working on the same codebase all changing it things can get messy and tangled very fast. Also how a lot of major open source projects are run by this.*  
-    - *Say should understand how to use it for your own project before trying to understand how to do it with other people, if reading this section need to read (or already understand) previous one.*
-  - *Divide into if it's your project people are collaborating on, and collaborating on someone else's?*
-
-- *Checklist*
-- *What to learn next?*
-- *Recommended reading*
-- *Other useful links*
-- *What is version control*
 
 ------
 
@@ -425,16 +399,20 @@ Fundamentally the best way to deal with merge conflicts is to, so far as is poss
 
 ## GitHub
 
-**The problem:** when multiple people work on the same project (which is becoming more and more common as research becomes more collaborative) it becomes difficult to keep track of what changes have been made and by who. It is also often difficult and time-consuming to manually incorporate the different participant's work into a whole even if all of their changes are compatible.  
+    - *Say should understand how to use it for your own project before trying to understand how to do it with other people, if reading this section need to read (or already understand) previous one.*
+  - *Divide into if it's your project people are collaborating on, and collaborating on someone else's?*
 
-**The solution:** hosting your project on a distributed version control system such as GitHub. Collaborators can then clone the project and work on that copy where they can still make commits, branches, etc. Collaborators can then *push* their work to each other, and *pull* other's work into their own copy. In this way it is easy to keep everyone up to date and to track what has been done and by who. GitHub also has numerous other handy features such as the ability to raise and assign issues, discuss the project via comments, and review each other's changes.
 
-Making your entire project and its history available online in this was also has two major benefits for research:
+**The problem:** when multiple people work on the same project (which is becoming more and more common as research becomes increasingly collaborative) it becomes difficult to keep track of what changes have been made and by who. It is also often difficult and time-consuming to manually incorporate the different participant's work into a whole even if all of their changes are compatible.  
 
-1. Other researchers can re-use your work more easily. Rather than writing their own code to do what you already have they can just use yours, which saves time. This also benefits you as researchers are much more likely to build on your work (and cite you) if a great deal of the work has already been done.   
-2. Your work will be much more reproducible if the entire history of the project can be tracked. This enables results to be verified more easily, which benefits science.
+**The solution:** hosting the project on a distributed version control system such as GitHub. Collaborators can then clone the project and work on that copy making commits, branches, etc without impacting the original. Collaborators can then *push* their work to each other, and *pull* other's work into their own copy. In this way it is easy to keep everyone up to date and to track what has been done and by who. GitHub also has numerous other handy features such as the ability to raise and assign issues, discuss the project via comments, and review each other's changes.
 
-**How to do it:** first make an account on [GitHub](https://github.com/), and create a repository on it. To do this click  the + sign dropdown menu in the upper right hand of the screen. Enter a name for your repository (ideally the same name as your project folder on your computer) and click Create Repository. Now you just need to link the project on your computer to this online repository. If your project is not already version controlled then make it so by running `git init` and making a commit. In the terminal on your computer use
+Making the entire project and its history available online in this was also has two major benefits for research:
+
+1. Other researchers can re-use the work more easily. Rather than writing their own code to do what has already been written they can just use the original, which saves time. This also benefits the project's original authors as other researchers are much more likely to build on the work (and cite it) if a great deal of the work has already been done.   
+2. The research will be much more reproducible if the entire history of the project can be tracked. This enables results to be verified more easily, which benefits science.
+
+**How to do it:** first make an account on [GitHub](https://github.com/), and create a repository on it. To do this click the + sign dropdown menu in the upper right hand of the screen. Enter a name for the repository (ideally the same name as the project folder on your computer) and click Create Repository. Now you just need to link the project on your computer to this online repository. If your project is not already version controlled then make it so by running `git init` and making a commit. In the terminal on your computer use
 ```
 git remote add origin https://github.com/your_username/repository_name
 ```
@@ -449,19 +427,19 @@ You can the go on and make more commits on your computer. When you want to push 
 git push origin branch_you_want_to_push_to
 ```
 
-Others can then clone your repository to their computer by using
+Others can then clone the repository to their computer by using
 ```
 git clone https://github.com/your_username/repository_name.git
 ```
 
-They cam make and commit changes to the code without impacting the original, and push their changes to *their* online GitHub account using   
+They can make and commit changes to the code without impacting the original, and push their changes to *their* online GitHub account using   
 ```
 git push -u origin master
 ```
 
 Naturally the exact same procedure applies to you if you want to clone someone else's repository.
 
-So everyone's got a copy of the code and they're merrily working away on it, how do collaborators share their work? Pull requests. A pull request is a request for a person to *pull* your changes into their version on the project. Say person A has made changes they want to share with person B. On GitHub Person A needs to go to person B's copy of the project and click the "New pull request" button. From there they can indicate which of their branches they would like person B to pull changes from, and which branch they want the changes pulled to. If person B accepts then person A's changes will be merged into their repository by GitHub. They can discuss the request in comments, and make further commits to the request before it is accepted if necessary.
+So everyone's got a copy of the code and they're merrily working away on it, how do collaborators share their work? Pull requests. A pull request is a request for a person to *pull* someone else's changes into their version on the project. Say person A has made changes they want to share with person B. On GitHub Person A needs to go to person B's copy of the project and click the "New pull request" button. From there they can indicate which of their branches they would like person B to pull changes from, and which branch they want the changes pulled to. If person B accepts then person A's changes will be merged into their repository by GitHub. They can discuss the request in comments, and make further commits to the request before it is accepted if necessary.
 
 When person B is setting up the pull request GitHub will automatically check whether there would be any merge conflicts if they accept, and highlight them if there are. These can then be resolved in further commits before the request is accepted, keeping the merge clean and painless.
 
