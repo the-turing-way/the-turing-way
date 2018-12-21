@@ -26,27 +26,41 @@ No prerequisites. Recommended skill level: beginner - intermediate. Version cont
 
 ### Definitions/glossary
 
-**Branch:**
-**Clone:** copy of an existing git repository, normally from some remote location to your local environment.
-**Commit:**
-**Commit message:**
-**git:**
-**GitHub:**   *say online, aids collaboration*
-**HEAD:**
-**Issue:**
+**Add:** Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
+
+**Branch:** A parallel version of a repository. Although it is contained within the same repository it allows you to develop it separately and then merge changes back into the 'live' repository or with other branches when appropriate.
+
+**Checkout:** Git command to switch to a specific file, branch, or commit. Allows you to activate older versions of files or commits or switch between active branches.
+
+**Clone:** copy of an existing git repository, normally from some remote location to your local environment. When you clone a repo you copy its entire history as well as all branches.
+
+**Commit:** Snapshot of project history. Records changes to the repository with. A commit can contain the changes of a single file or a range of files and directories.
+
+**Commit message:** A message the user can attach to a commit to explain what it contains.
+
+**Git:** Version control system that Github is built around. It is a widely used open source distributed version control system developed by the author of Linux.
+
+**GitHub:** An online hosting and version control service which centres around the version control software git. It has a great many features to aid collaboration between users.
+
+**HEAD:** the latest commit on the branch which is currently checked out
+
+**Issues:** Bug tracking system for Github. Collaborators can use issues to report bugs, request features, or set milestones for projects. Issues are tracked, reported, and closed by collaborators during the development process. They’re a great way of communicating with your team and reporting progress.
+
 **Master branch:** the repository’s main branch. Depending on the work flow it is the one people work on or the one where the integration happens.
-**Merge:**
-**Merge conflict:**
-**Pull request:**
-**Push:** Used to submit the code to a remote repository
-**Repository:**
-**SHA:** Unique string of numbers of letters used to identify every commit or node in the Git tree.
-**Staging area:**
 
+**Merge:** The process of combining branches. Changes made on one or more branches are applied to another.
 
+**Merge conflict:** Incompatibilities between branches being merged.
 
+**Pull request:** Proposed changes to a remote repo. Collaborators without write access can send a pull request to the administrator with the changes they've made to the repo. The administrator can then approve and merge or reject the changes to the main repository. For open source projects pull requests can be sent by anyone that has forked a project.
 
+**Push:** Sending changes to a remote repo. The remote repository is updated with the changes pushed and now mirrors the local repo.
 
+**Repository:** Refers to a project folder that is being tracked by Git and containing project files. Also called 'repo' for short they can be local as well as hosted on GitHub.
+
+**SHA:** Unique string of numbers of letters used to identify every commit or node in the repository.
+
+**Staged:** Changes that will be included in the nest commit.
 
 ## What is version control?
 
@@ -568,3 +582,4 @@ In pull requests you should **clearly explain what the changes you've made are a
 - [21.](https://commons.wikimedia.org/wiki/Taj_Mahal#/media/File:Taj_Mahal_in_March_2004.jpg) **GNU Free Documentation License**
 - [22.](https://juristr.com/blog/2013/04/git-explained/) **Creative Commons Attribution-ShareAlike 4.0 International License**
 - [23.](https://guide.esciencecenter.nl/best_practices/version_control.html). **Creative Commons Attribution 4.0 International License**
+- [24.](http://simpleprimate.com/github-for-web-designers/glossary.html) **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
