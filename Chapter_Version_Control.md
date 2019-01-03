@@ -1,35 +1,18 @@
-## *This chapter is still a work in progress, but enough work has been completed that reviews/contributions are welcome*
-
 # Version Control
-
-## General thoughts
-
-*Thoughts here and throughout will be in italics*
-
-*I could use some help from those more familiar with gitHUB and using git to collaborate to flesh out that section (near the end).*
-
-*For [creative commons](https://tldrlegal.com/license/creative-commons-attribution-4.0-international-(cc-by-4) you can do whatever but you must give credit to the original author of the work, including a URI or hyperlink to the work, this Public license and a copyright notice.*
-
-*I think the best practise sections should have a different background colour/be in boxes so someone who already knows about version control but wants to know more about best practise can find it easily. Also given the thrust of this project is good practise I think really highlighting those sections is meritted.*
-
-*Think the summary and how this is helpful sections could use fleshing out, focus on reproducibility aspect.* 
-
-------
 
 ## Summary
 
-Version control keeps tracks of different versions of a project and allows past versions to be accessed easily. The widely used version control software git is well integrated with GitHub, an online platform which aids collaboration between researchers.
+Version control keeps tracks of different versions of a project and allows past versions to be accessed easily. It also allows different versions of a project to be merged with minimal input from the user. The widely used version control software git is well integrated with GitHub, an online platform which aids collaboration between researchers.
 
 
 ## How this is helpful
 
-Keeping past versions of a project stored and accessible can save researchers a great deal of time on reproducing lost code or analysis. Version control software does this in a neat and powerful way.
-
+Keeping past versions of a project stored and accessible makes it possible to track its entire evolution, making the outputs far more reproducible. Version control software does this in a neat and powerful way, and it often saves researchers a great deal of time on reproducing lost code or analysis. Version control eliminates the risk of subsequent changes irrevocably 'breaking' the code as previous working versions remain accessible. The merging facilities of version control systems enable versions of a project (either two versions written by the same person, or versions from two people) to be combined, a task which is often both fiddly and time-consuming when done manually. This makes collaboration easier, safer, and allows what changes have been made, when, why, and by who to be tracked.
 
 ## Prerequisites / recommended skill level
 No prerequisites. Recommended skill level: beginner - intermediate. Version control has a great deal of useful features, but total mastery is not necessary to achieve a great deal with it. Even a beginner utilising a few of the simplest features well can save themselves a great deal of time and drastically improve the reproducibility of their work. Naturally, we encourage readers to make use of the entire chapter, but readers should not be discouraged from using some tools they feel comfortable with if they are not comfortable with *all* the tools available.
 
-### Definitions/glossary
+## Definitions/glossary
 
 **Add:** Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
 
@@ -65,7 +48,7 @@ No prerequisites. Recommended skill level: beginner - intermediate. Version cont
 
 **SHA:** Unique string of numbers of letters used to identify every commit or node in the repository.
 
-**Staged:** Changes that will be included in the nest commit.
+**Staged:** Changes that will be included in the next commit.
 
 ## What is version control?
 
