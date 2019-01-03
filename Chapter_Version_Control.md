@@ -96,7 +96,7 @@ Finally version control is invaluable for collaborative projects where different
 
 There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, Github) which the instructions in this chapter will be geared towards. There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "Further reading" section at the end of the chapter.) This chapter aims to cover the general principles underpinning all version control systems, and best practise applies for using such systems.
 
-### Getting Started
+## Getting Started
 
 This is important to know, but it isn't that exciting. To start using version control for your project you just go into the directory that contains all of your files (subdirectories will be included) and run
 
@@ -125,13 +125,19 @@ git commit
 
 We'll talk in more detail about these commands later, but for now just know if you run them then congratulations, you have finished setting up you repository!
 
-### Commits
+## Commits
 
-**The problem:** when working on a project you will make numerous changes to you files as you progress. Sometimes you may need to undo changes, take another look at past versions, or compare versions. Saving each version individually (version_1.py, version_2.py etc) is messy and quickly becomes impractical.
+### The problem
 
-**The solution:** by making commits you can save versions of your code and switch between them/compare them easily without cluttering up your directory. Commits serve as checkpoints where individual files or an entire project can be safely reverted to when necessary.
+When working on a project you will make numerous changes to you files as you progress. Sometimes you may need to undo changes, take another look at past versions, or compare versions. Saving each version individually (version_1.py, version_2.py etc) is messy and quickly becomes impractical.
 
-**How to do it:** when you've made a series of changes and you want to commit them you fist add these changes to your staging area using `git add`. You can add all your changes using
+### The solution
+
+By making commits you can save versions of your code and switch between them/compare them easily without cluttering up your directory. Commits serve as checkpoints where individual files or an entire project can be safely reverted to when necessary.
+
+### How to do it
+
+When you've made a series of changes and you want to commit them you fist add these changes to your staging area using `git add`. You can add all your changes using
 
 ```  
 git add .
@@ -208,7 +214,7 @@ Or if you wanted to compare two branches it would be
 git diff branch_name other_branch_name
 ```
 
-#### Good practise for commits
+### Good practise for commits
 
 Commits should be 'atomic' i.e **they should do one simple thing and they should do it completely**. If a lot of different changes to your project are all committed together then if something goes wrong it can be hard to unpick what in this set of changes if causing the problem, and simply undoing the whole commit may throw away valid and useful work along with the bug. That said **you don't necessarily need to do per-file commits**. For example if I add a figure to this chapter here, let's choose something to catch the attention of someone skimming through:
 
@@ -225,21 +231,27 @@ To aid in making atomic commits it's good practise to **specify the files to be 
 
 Finally, **don't commit anything that can be regenerated from other things that were committed unless it is something might take hours to regenerate**. Generated files just clutter up your repository and make contain features such as timestamps that can cause annoying merge conflicts (see below). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct git to ignore certain files by creating a file called `.gitignore` and including their names in it.
 
-### Commit messages
+## Commit messages
 
-**The problem:** as you work on you project you will make more and more commits. Without any other information it can be hard to remember which version of your project is in which. Storing past versions is useless if you can't understand them, and figuring out what they contain by inspecting the code is frustrating and takes valuable time.  
+### The problem
 
-**The solution:** When you commit you have the chance to write a commit message describing what the commit is and what it does, and you should always, *always,* **_always_** do so.  A commit message gets attached to the commit so if you look back at it (e.g via `git log`) it will show up. Creating insightful and descriptive commit messages is one of the best things you can do to get the most out of version control. It lets people (and your future self when you've long since forgotten what you were doing and why) quickly understand what changes a commit contains without having to carefully read code and waste time figuring it out. Good commit messages improve your code quality by drastically reducing its WTF/min ratio:
+As you work on you project you will make more and more commits. Without any other information it can be hard to remember which version of your project is in which. Storing past versions is useless if you can't understand them, and figuring out what they contain by inspecting the code is frustrating and takes valuable time.  
+
+### The solution
+
+When you commit you have the chance to write a commit message describing what the commit is and what it does, and you should always, *always,* **_always_** do so.  A commit message gets attached to the commit so if you look back at it (e.g via `git log`) it will show up. Creating insightful and descriptive commit messages is one of the best things you can do to get the most out of version control. It lets people (and your future self when you've long since forgotten what you were doing and why) quickly understand what changes a commit contains without having to carefully read code and waste time figuring it out. Good commit messages improve your code quality by drastically reducing its WTF/min ratio:
 
 ![wtf_per_min](figures/wtf_per_min.jpg)
 
-**How to do it:** when you commit, instead of using `git commit` instead do
+### How to do it
+
+When you commit, instead of using `git commit` instead do
 
 ```
 git commit -m "Your commit message"
 ```
 
-**Good practise for commit messages**
+### Good practise for commit messages
 
 The number one rule is: **make it meaningful**. A commit message like "Fixed a bug" leaves it entirely up to the person  looking at the commit (again, this person may very well be you a few months in the future when you've forgotten what you were doing) to waste time figuring out what the bug was, what changes you actually made, and how they fixed it. As such a good commit message should **explain what you did, why you did it, and what is impacted by the change**. As with comments you should **describe what the code is doing rather than the code itself** e.g. it is not obvious what "Changed N_sim to 10" actually does, but "Changed number of simulations run by the program to 10" is clear.
 
@@ -270,16 +282,22 @@ Further paragraphs come after blank lines.
 
 ## Branches
 
-**The problem:** if you add a new feature to your project you run the risk of accidentally breaking your working code as you make changes are made to it. This would be very bad for active users of your project, even if the only active user is you. It's better to start with a prototype, which you would want to design roughly in a different branch and see how it works, before you decide whether to add the feature to the master branch. Also version control systems are regularly used for collaboration. If everyone starts programming on top of the master branch, it will cause a lot of confusion. Some people may write faulty/buggy code or simply the kind of code/feature others may not want in the project. There needs to be a way allow new work to be done on a project whilst protecting work that has already been done.
+### The problem
 
-**The solution:** branches. At the start of this chapter an overview was given of the concept of branches, but let's recap. You have a project, and you make commits on it. By default you have one branch, called 'master'. Making a branch essentially makes a copy of your code which you can work on and continue to make commits to. Meanwhile your master branch is untouched by these changes, and you can continue to make commits on it too. Once you're happy with whatever you were working on on a branch you can merge it into your master branch (or indeed any other branch). Merging will be covered in the next section. If your work on a branch doesn't work out you can delete or abandon it (e.g. Feature B in the diagram below) rather than spending time unpicking your changes if you were doing all your work on the master copy. You can have as many branches off of branches as you desire (e.g. Feature C).
+If you add a new feature to your project you run the risk of accidentally breaking your working code as you make changes are made to it. This would be very bad for active users of your project, even if the only active user is you. It's better to start with a prototype, which you would want to design roughly in a different branch and see how it works, before you decide whether to add the feature to the master branch. Also version control systems are regularly used for collaboration. If everyone starts programming on top of the master branch, it will cause a lot of confusion. Some people may write faulty/buggy code or simply the kind of code/feature others may not want in the project. There needs to be a way allow new work to be done on a project whilst protecting work that has already been done.
+
+### The solution
+
+Branches. At the start of this chapter an overview was given of the concept of branches, but let's recap. You have a project, and you make commits on it. By default you have one branch, called 'master'. Making a branch essentially makes a copy of your code which you can work on and continue to make commits to. Meanwhile your master branch is untouched by these changes, and you can continue to make commits on it too. Once you're happy with whatever you were working on on a branch you can merge it into your master branch (or indeed any other branch). Merging will be covered in the next section. If your work on a branch doesn't work out you can delete or abandon it (e.g. Feature B in the diagram below) rather than spending time unpicking your changes if you were doing all your work on the master copy. You can have as many branches off of branches as you desire (e.g. Feature C).
 
 Using branches keeps working code safe, particularly in collaborations. Each contibuter can have their own branch or branches which are only merged into the main project when they are ready.
 
 ![sub_branch](figures/sub_branch.png)
 
 
-**How to do it:** You can create a branch and switch to it using:
+### How to do it
+
+You can create a branch and switch to it using:
 ```
 git checkout -b name_of_your_new_branch
 ```
@@ -300,17 +318,23 @@ If you decide to get rid of a branch you can delete it with
 $ git branch -D name_of_the_branch
 ```
 
-**Good practice for branches**
+### Good practice for branches
 
 Branches should be used to **keep the master branch clean**. Similarly you should try to keep individual branches as clean as possible by **only adding one new feature per branch**, because if you are working on several features some may be finished and ready to merge into master while others are stull under development. Give your branches **sensible names**, "new_feature" is all well and good until you start developing a newer feature on another branch.
 
 ## Merging
 
-**The problem:** once you've finished up some work on a branch you need to add it to your main project (or any other branch).
+### The problem
 
-**The solution:** merge the branch with your work on into your target branch. You can also use merging to combine work that other people have done with your own and vice versa.
+Once you've finished up some work on a branch you need to add it to your main project (or any other branch).
 
-**How to do it:** to merge some branch, branch_A, into another branch, branch_B, switch to branch_A via `git checkout branch_A` and merge it into branch_B by
+### The solution
+
+Merge the branch with your work on into your target branch. You can also use merging to combine work that other people have done with your own and vice versa.
+
+### How to do it
+
+To merge some branch, branch_A, into another branch, branch_B, switch to branch_A via `git checkout branch_A` and merge it into branch_B by
 
 ```
 git merge branch_B
@@ -326,14 +350,16 @@ or
 error: Entry 'your_file_name' would be overwritten by merge. Cannot merge. (Changes in staging area)
 ```
 
-**Best Practise for merging**
+### Good practise for merging
 
 First and foremost your **master branch should always be stable**, only merge work that is finished and tested into it. If your project is collaborative then it's a good idea to **merge changes that others make into you own work frequently**. If you don't it's very easy for merge conflicts to arise (next section). Similarly, share your own changes with your collaborators often.
 
 
-### Merge conflicts
+## Merge conflicts
 
-**The problem:** when changes to made to the same file on different branches sometimes those changes may be incompatible. This most commonly occurs in collaborative projects, but it happens in solo projects too. Let's say there's a project and it contains a file with this line of code:
+### The problem
+
+When changes to made to the same file on different branches sometimes those changes may be incompatible. This most commonly occurs in collaborative projects, but it happens in solo projects too. Let's say there's a project and it contains a file with this line of code:
 
 ```
 print('hello world')
@@ -353,7 +379,9 @@ print('Hello World')
 
 They continue doing work on their respective branches and eventually decide to merge. Their version control software then goes through and combines their changes into a single version of the file, *but* when it gets to the hello world statement it doesn't know which version to use. This is a merge conflict: incompatible changes have been made to the same file.
 
-**The solution:** when a merge conflict arises it will be flagged during the merge process. Within the files with conflicts the incompatible changes will be marked so you can fix them:
+### The solution
+
+When a merge conflict arises it will be flagged during the merge process. Within the files with conflicts the incompatible changes will be marked so you can fix them:
 
 ```
 <<<<<<< HEAD
@@ -368,7 +396,9 @@ print('Hello World')
 
 '>>>>>>>': Indicates the end of the lines that had a merge conflict.
 
-**How to do it:** you resolve a conflict by editing the file to manually merge the parts of the file that git had trouble merging. This may mean discarding either your changes or someone else's or doing a mix of the two. You will also need to delete the '<<<<<<<', '=======', and '>>>>>>>' in the file. So in this project the users may decide in favour of one `hello world` over another, or they may decide to replace the conflict with
+### How to do it
+
+You resolve a conflict by editing the file to manually merge the parts of the file that git had trouble merging. This may mean discarding either your changes or someone else's or doing a mix of the two. You will also need to delete the '<<<<<<<', '=======', and '>>>>>>>' in the file. So in this project the users may decide in favour of one `hello world` over another, or they may decide to replace the conflict with
 
 ```
 print('Hello World!!!')
@@ -381,7 +411,7 @@ If you find there are particularly nasty conflicts and you want to abort the mer
 git merge --abort
 ```
 
-**Good practise for resolving merge conflicts**
+### Good practise for resolving merge conflicts
 
 Before you start trying to resolve conflicts **make sure you fully understand the changes and how they are incompatible**. If you don't you risk making things more tangled. Once you do and you go about fixing the problem **be careful, but don't be afraid**; the whole point of version control is your past versions are all safe. Nevertheless merge conflicts can be intimidating to resolve, especially if you are merging branches that diverged a great many commits ago which may now have many incompatibilities. This is why it is good practise to **merge other's changes into your work frequently**.
 
@@ -405,16 +435,22 @@ Fundamentally the best way to deal with merge conflicts is to, so far as is poss
   - *Divide into if it's your project people are collaborating on, and collaborating on someone else's?*
 
 
-**The problem:** when multiple people work on the same project (which is becoming more and more common as research becomes increasingly collaborative) it becomes difficult to keep track of what changes have been made and by who. It is also often difficult and time-consuming to manually incorporate the different participant's work into a whole even if all of their changes are compatible.  
+### The problem
 
-**The solution:** hosting the project on a distributed version control system such as GitHub. Collaborators can then clone the project and work on that copy making commits, branches, etc without impacting the original. Collaborators can then *push* their work to each other, and *pull* other's work into their own copy. In this way it is easy to keep everyone up to date and to track what has been done and by who. GitHub also has numerous other handy features such as the ability to raise and assign issues, discuss the project via comments, and review each other's changes.
+When multiple people work on the same project (which is becoming more and more common as research becomes increasingly collaborative) it becomes difficult to keep track of what changes have been made and by who. It is also often difficult and time-consuming to manually incorporate the different participant's work into a whole even if all of their changes are compatible.  
+
+### The solution
+
+Hosting the project on a distributed version control system such as GitHub. Collaborators can then clone the project and work on that copy making commits, branches, etc without impacting the original. Collaborators can then *push* their work to each other, and *pull* other's work into their own copy. In this way it is easy to keep everyone up to date and to track what has been done and by who. GitHub also has numerous other handy features such as the ability to raise and assign issues, discuss the project via comments, and review each other's changes.
 
 Making the entire project and its history available online in this was also has two major benefits for research:
 
 1. Other researchers can re-use the work more easily. Rather than writing their own code to do what has already been written they can just use the original, which saves time. This also benefits the project's original authors as other researchers are much more likely to build on the work (and cite it) if a great deal of the work has already been done.   
 2. The research will be much more reproducible if the entire history of the project can be tracked. This enables results to be verified more easily, which benefits science.
 
-**How to do it:** first make an account on [GitHub](https://github.com/), and create a repository on it. To do this click the + sign dropdown menu in the upper right hand of the screen. Enter a name for the repository (ideally the same name as the project folder on your computer) and click Create Repository. Now you just need to link the project on your computer to this online repository. If your project is not already version controlled then make it so by running `git init` and making a commit. In the terminal on your computer use
+### How to do it
+
+First make an account on [GitHub](https://github.com/), and create a repository on it. To do this click the + sign dropdown menu in the upper right hand of the screen. Enter a name for the repository (ideally the same name as the project folder on your computer) and click Create Repository. Now you just need to link the project on your computer to this online repository. If your project is not already version controlled then make it so by running `git init` and making a commit. In the terminal on your computer use
 ```
 git remote add origin https://github.com/your_username/repository_name
 ```
@@ -452,7 +488,7 @@ git pull origin master
 ```
 
 
-**Best practise**
+### Good practise for using GitHub
 
 In your GitHub repository you should **include a license** to allow others to re-use your work legally. GitHub makes this very easy, simply click the "Create new file" button, name it "License.md" and a drop down menu will appear offering you a selection to choose from. The legalese can seem intimidating however [this](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project.
 
