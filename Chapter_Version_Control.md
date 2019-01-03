@@ -431,10 +431,6 @@ Fundamentally the best way to deal with merge conflicts is to, so far as is poss
 
 ## GitHub
 
-    - *Say should understand how to use it for your own project before trying to understand how to do it with other people, if reading this section need to read (or already understand) previous one.*
-  - *Divide into if it's your project people are collaborating on, and collaborating on someone else's?*
-
-
 ### The problem
 
 When multiple people work on the same project (which is becoming more and more common as research becomes increasingly collaborative) it becomes difficult to keep track of what changes have been made and by who. It is also often difficult and time-consuming to manually incorporate the different participant's work into a whole even if all of their changes are compatible.  
