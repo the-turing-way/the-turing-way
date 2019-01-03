@@ -10,6 +10,7 @@ This file will give you a little introduction to the various members of the Turi
 * [Anna Krystalli](#anna-krystalli) @annakrystalli
 * [Sarah Gibson](#sarah-gibson) @sgibson91
 * [Louise Bowler](#louise-bowler) @LouiseABowler
+* [Rosie Higman](#rosie-higman) @rosiehigman 
 
 ### Kirstie Whitaker
 
