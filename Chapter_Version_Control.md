@@ -427,7 +427,7 @@ and launch it by
 git mergetool
 ```
 
-Fundamentally the best way to deal with merge conflicts is to, so far as is possible, **ensure they don't happen in the first place**. You can improve your odd on this by **keeping branches clean and focused on a single issue, and involving as few files as possible**. Before merging make sure you know what's in both branches, and if you are not the only one that has worked on the branches then **keep the lines of communication open** so you are all aware of what the others are doing.
+Fundamentally the best way to deal with merge conflicts is to, so far as is possible, **ensure they don't happen in the first place**. You can improve your odds on this by **keeping branches clean and focused on a single issue, and involving as few files as possible**. Before merging make sure you know what's in both branches, and if you are not the only one that has worked on the branches then **keep the lines of communication open** so you are all aware of what the others are doing.
 
 ## GitHub
 
