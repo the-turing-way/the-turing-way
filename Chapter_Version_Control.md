@@ -538,7 +538,9 @@ In pull requests you should **clearly explain what the changes you've made are a
 
 
 
-## What to learn next?
+## What to learn next
+
+Look into best practise for writing good quality code (good naming conventions, informative comments, modular code structure etc). Many such skills are either also applicable for using version control well, e.g. for writing good commit messages, or make using version control easier by keeping changes neat and localised.
 
 ## Further reading
 
