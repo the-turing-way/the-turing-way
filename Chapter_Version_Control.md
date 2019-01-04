@@ -82,17 +82,17 @@ If you want you can even have branches off of branches (and branches off of thos
 
 No matter how many branches you have you can access past commits you made on any of them.
 
-## Why would you use version control?
+## Why should you use version control?
 
 People working on data science may have a large array of files (code, data, figures, notes) that they update but want to keep past versions for reference. This process is often informal and haphazard, where multiple revisions of papers, code, and datasets are saved as duplicate copies with uninformative file names (e.g. my_code.py my_code_2.py my_code_2a.py, my_code_2b.py). As authors receive new data and feedback from peers and collaborators, maintaining those versions and merging changes can result in an unmanageable proliferation of files. It is also incredibly error prone. It is easy to forget what different files contain, or to copy over files you don’t mean to. This leads to a great deal of time wasted on figuring out what files contain and reproducing accidently overwritten files.
 
-One solution to these problems would be to use a formal Version Control System (VCS), which have long been used in the software industry to manage code. Version control allows you to revert files you select back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Using a version control system also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead. Many people have felt the horror of loosing days if not weeks of work when changes to a code break it irretrievably and can not be unpicked, and with this lies the key reasons to use version control **it removes risk and saves time.**
+One solution to these problems would be to use a formal Version Control System (VCS), which have long been used in the software industry to manage code. Version control allows you to revert files you select back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified a file, find where and when a bug was introduced, and more. Using a version control system also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead. Many people have felt the horror of losing days if not weeks of work when changes to a code break it irretrievably and can not be unpicked, and with this lies the key reasons to use version control: **it removes risk and saves time.**
 
 Further, commit messages (discussed below) help you understand why in the past you made certain changes, or why you did a certain analysis in the way you did it. They help you understand what the saved file does, even weeks or months later when you've long since forgotten what changes you made. Commit messages also help others working on the same project to more easily understand what you did. This is helpful should you want to share your analysis (not only your data), and/or make it auditable--more generally, **reproducible**, which is good scientific practice.
 
 A version control system stores all your changes neatly away so while it is still easy to access them your working directory is not cluttered by the debris of versions past that it is necessary to keep just in case. Similarly with version control there is no need to leave chunks of code commented should you ever need to come back to an old version again.
 
-Finally version control is invaluable for collaborative projects where different people to work on the same code simultaneously. It allows the changes made by different people to be tracked, and can automatically combine peoples work via merging saving a great deal of painstaking effort to do so manually. Moreover, version control hosting websites such as Github provide way to communicate in a more structed way, such as in code reviews, about commits and about issues.
+Finally version control is invaluable for collaborative projects where different people to work on the same code simultaneously. It allows the changes made by different people to be tracked, and can automatically combine peoples work via merging saving a great deal of painstaking effort to do so manually. Moreover, version control hosting websites such as Github provide way to communicate in a more structured way, such as in code reviews, about commits and about issues.
 
 There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, Github) which the instructions in this chapter will be geared towards. There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "Further reading" section at the end of the chapter.) This chapter aims to cover the general principles underpinning all version control systems, and best practise applies for using such systems.
 
@@ -149,7 +149,7 @@ or you can add the changes to specific files via
 git add your_file_name
 ```
 
-If you're ever unsure what files have been added, what files have been changes, what files are untracked etc you can running
+If you're ever unsure what files have been added, what files have been changed, what files are untracked etc you can run the following to find out:
 
 ```
 git status
@@ -307,7 +307,7 @@ To change between branches:
 $ git checkout name_of_the_branch
 ```
 
-though you much commit any work you have in progress before you will be able to switch. You can see all branches of your project simply using
+though you must commit any work you have in progress before you will be able to switch. You can see all branches of your project simply using
 ```
 $ git branch
 ```
