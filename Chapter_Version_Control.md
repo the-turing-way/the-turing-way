@@ -2,7 +2,7 @@
 
 ## Summary
 
-Version control keeps tracks of different versions of a project and allows past versions to be accessed easily. It also allows different versions of a project to be merged with minimal input from the user. The widely used version control software git is well integrated with GitHub, an online platform which aids collaboration between researchers.
+Version control keeps track of different versions of a project and allows past versions to be accessed easily. It also allows different versions of a project to be merged with minimal input from the user. The widely used version control software git is well integrated with GitHub, an online platform which aids collaboration between researchers.
 
 
 ## How this is helpful
@@ -20,7 +20,7 @@ No prerequisites. Recommended skill level: beginner - intermediate. Version cont
 
 **Checkout:** Git command to switch to a specific file, branch, or commit. Allows you to activate older versions of files or commits or switch between active branches.
 
-**Clone:** copy of an existing git repository, normally from some remote location to your local environment. When you clone a repo you copy its entire history as well as all branches.
+**Clone:** Copy of an existing git repository, normally from some remote location to your local environment. When you clone a repo you copy its entire history as well as all branches.
 
 **Commit:** Snapshot of project history. Records changes to the repository with. A commit can contain the changes of a single file or a range of files and directories.
 
@@ -61,8 +61,6 @@ The typical procedure for using version control is as follows:
 3. Make a commit. This means you take a snapshot of your work at this point in time.
 
 Keep doing work and making more and more commits. You can kind of think of commits as checkpoints. If you ever need to go back to any past checkpoint to get a file as it was then, or just return your entire project to a past state you can. An illustration of this is shown in the figure below.  
-
-*Should definitely have a diagram, couldn't find one I liked so I made these. We could replace them with better ones later*
 
 ![master_branch](figures/master_branch.png)
 
