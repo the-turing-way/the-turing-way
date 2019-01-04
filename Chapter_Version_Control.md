@@ -66,6 +66,7 @@ Keep doing work and making more and more commits. You can kind of think of commi
 
 Every time you make a commit you can tag it with a commit message explaining what this snapshot of your project is doing. This makes it very easy to find what you're looking for when you need to go back to a past version.
 
+<a name="branches_overview"></a>
 So you have your project and you want to add new or something or try something out. With version control you can make a branch to do this work on. Any work you do on your branch won't be present on your main project (referred to as your master branch) so it remains nice and safe and you can continue to work on it. Once you're happy with your New Thing you can 'merge' your branch back into your master copy.
 
 ![one_branch](figures/one_branch.png)
@@ -86,17 +87,17 @@ People working on data science may have a large array of files (code, data, figu
 
 One solution to these problems would be to use a formal Version Control System (VCS), which have long been used in the software industry to manage code. Version control allows you to revert files you select back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified a file, find where and when a bug was introduced, and more. Using a version control system also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead. Many people have felt the horror of losing days if not weeks of work when changes to a code break it irretrievably and can not be unpicked, and with this lies the key reasons to use version control: **it removes risk and saves time.**
 
-Further, commit messages (discussed below) help you understand why in the past you made certain changes, or why you did a certain analysis in the way you did it. They help you understand what the saved file does, even weeks or months later when you've long since forgotten what changes you made. Commit messages also help others working on the same project to more easily understand what you did. This is helpful should you want to share your analysis (not only your data), and/or make it auditable--more generally, **reproducible**, which is good scientific practice.
+Further, commit messages (discussed [below](#commit_messages)) help you understand why in the past you made certain changes, or why you did a certain analysis in the way you did it. They help you understand what the saved file does, even weeks or months later when you've long since forgotten what changes you made. Commit messages also help others working on the same project to more easily understand what you did. This is helpful should you want to share your analysis (not only your data), and/or make it auditable--more generally, **reproducible**, which is good scientific practice.
 
 A version control system stores all your changes neatly away so while it is still easy to access them your working directory is not cluttered by the debris of versions past that it is necessary to keep just in case. Similarly with version control there is no need to leave chunks of code commented should you ever need to come back to an old version again.
 
 Finally version control is invaluable for collaborative projects where different people to work on the same code simultaneously. It allows the changes made by different people to be tracked, and can automatically combine peoples work via merging saving a great deal of painstaking effort to do so manually. Moreover, version control hosting websites such as Github provide way to communicate in a more structured way, such as in code reviews, about commits and about issues.
 
-There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, Github) which the instructions in this chapter will be geared towards. There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "Further reading" section at the end of the chapter.) This chapter aims to cover the general principles underpinning all version control systems, and best practise applies for using such systems.
+There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, Github) which the instructions in this chapter will be geared towards. There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "[Further reading](#further_reading)" section at the end of the chapter.) This chapter aims to cover the general principles underpinning all version control systems, and best practise which applies for using all such systems.
 
 ## Getting Started
 
-This is important to know, but it isn't that exciting. Instructions for installing git on linux, windows and mac machines are available [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). To start using version control for your project you just go into the directory that contains all of your files (subdirectories will be included) and run
+This is important to know, but it isn't that exciting. Instructions for installing git on linux, windows and mac machines are available [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Once instillation is complete, to start using version control for your project you just go into the directory that contains all of your files (subdirectories will be included) and run
 
 ```
 git init
@@ -121,18 +122,19 @@ The full stop after `git add` above adds all changes to your staging area. So no
 git commit
 ```
 
-We'll talk in more detail about these commands later, but for now just know if you run them then congratulations, you have finished setting up you repository!
+We'll talk in more detail about these commands [later](#adding), but for now just know if you run them then congratulations, you have finished setting up you repository!
 
 ## Commits
 
 ### The problem
 
-When working on a project you will make numerous changes to you files as you progress. Sometimes you may need to undo changes, take another look at past versions, or compare versions. Saving each version individually (version_1.py, version_2.py etc) is messy and quickly becomes impractical.
+When working on a project you will make numerous changes to your files as you progress. Sometimes you may need to undo changes, take another look at past versions, or compare versions. Saving each version individually (version_1.py, version_2.py etc) is messy and quickly becomes impractical.
 
 ### The solution
 
 By making commits you can save versions of your code and switch between them/compare them easily without cluttering up your directory. Commits serve as checkpoints where individual files or an entire project can be safely reverted to when necessary.
 
+<a name="adding"></a>
 ### How to do it
 
 When you've made a series of changes and you want to commit them you fist add these changes to your staging area using `git add`. You can add all your changes using
@@ -153,7 +155,7 @@ If you're ever unsure what files have been added, what files have been changed, 
 git status
 ```
 
-To find out. When you're ready you can commit everything in your staging area by running
+When you're ready you can commit everything in your staging area by running
 
 ```
 git commit
@@ -227,8 +229,9 @@ So two files are affected, but "Add figure to version control chapter" is a sing
 
 To aid in making atomic commits it's good practise to **specify the files to be committed**, i.e. adding files to the staging area by name (`git add your_file_name`) rather than adding everything (`git add .`). This prevents you from unintentionally bundling different changes together, for example if you've made a change to file A while primarily working on file B you may have forgotten this when you go to commit, and with `git add .` file A would be brought along for the ride.
 
-Finally, **don't commit anything that can be regenerated from other things that were committed unless it is something might take hours to regenerate**. Generated files just clutter up your repository and make contain features such as timestamps that can cause annoying merge conflicts (see below). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct git to ignore certain files by creating a file called `.gitignore` and including their names in it.
+Finally, **don't commit anything that can be regenerated from other things that were committed unless it is something  that would take hours to regenerate**. Generated files just clutter up your repository and may contain features such as timestamps that can cause annoying merge conflicts (see [below](#merge_conflicts)). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct git to ignore certain files by creating a file called `.gitignore` and including their names in it.
 
+<a name="commit_messages"></a>
 ## Commit messages
 
 ### The problem
@@ -282,11 +285,11 @@ Further paragraphs come after blank lines.
 
 ### The problem
 
-If you add a new feature to your project you run the risk of accidentally breaking your working code as you make changes are made to it. This would be very bad for active users of your project, even if the only active user is you. It's better to start with a prototype, which you would want to design roughly in a different branch and see how it works, before you decide whether to add the feature to the master branch. Also version control systems are regularly used for collaboration. If everyone starts programming on top of the master branch, it will cause a lot of confusion. Some people may write faulty/buggy code or simply the kind of code/feature others may not want in the project. There needs to be a way allow new work to be done on a project whilst protecting work that has already been done.
+If you add a new feature to your project you run the risk of accidentally breaking your working code as you make changes to it. This would be very bad for active users of your project, even if the only active user is you. It's better to start with a prototype, which you would want to design roughly in a different branch and see how it works, before you decide whether to add the feature to the master branch. Also version control systems are regularly used for collaboration. If everyone starts programming on top of the master branch, it will cause a lot of confusion. Some people may write faulty/buggy code or simply the kind of code/feature others may not want in the project. There needs to be a way allow new work to be done on a project whilst protecting work that has already been done.
 
 ### The solution
 
-Branches. At the start of this chapter an overview was given of the concept of branches, but let's recap. You have a project, and you make commits on it. By default you have one branch, called 'master'. Making a branch essentially makes a copy of your code which you can work on and continue to make commits to. Meanwhile your master branch is untouched by these changes, and you can continue to make commits on it too. Once you're happy with whatever you were working on on a branch you can merge it into your master branch (or indeed any other branch). Merging will be covered in the next section. If your work on a branch doesn't work out you can delete or abandon it (e.g. Feature B in the diagram below) rather than spending time unpicking your changes if you were doing all your work on the master copy. You can have as many branches off of branches as you desire (e.g. Feature C).
+Branches. At the start of this chapter an [overview](#branches_overview) was given of the concept of branches, but let's recap. You have a project, and you make commits on it. By default you have one branch, called 'master'. Making a branch essentially makes a copy of your code which you can work on and continue to make commits to. Meanwhile your master branch is untouched by these changes, and you can continue to make commits on it too. Once you're happy with whatever you were working on on a branch you can merge it into your master branch (or indeed any other branch). Merging will be covered in the [next section](#merging). If your work on a branch doesn't work out you can delete or abandon it (e.g. Feature B in the diagram below) rather than spending time unpicking your changes if you were doing all your work on the master copy. You can have as many branches off of branches as you desire (e.g. Feature A-1).
 
 Using branches keeps working code safe, particularly in collaborations. Each contibuter can have their own branch or branches which are only merged into the main project when they are ready.
 
@@ -320,6 +323,7 @@ $ git branch -D name_of_the_branch
 
 Branches should be used to **keep the master branch clean**. Similarly you should try to keep individual branches as clean as possible by **only adding one new feature per branch**, because if you are working on several features some may be finished and ready to merge into master while others are stull under development. Give your branches **sensible names**, "new_feature" is all well and good until you start developing a newer feature on another branch.
 
+<a name="merging"></a>
 ## Merging
 
 ### The problem
@@ -352,7 +356,7 @@ error: Entry 'your_file_name' would be overwritten by merge. Cannot merge. (Chan
 
 First and foremost your **master branch should always be stable**, only merge work that is finished and tested into it. If your project is collaborative then it's a good idea to **merge changes that others make into you own work frequently**. If you don't it's very easy for merge conflicts to arise (next section). Similarly, share your own changes with your collaborators often.
 
-
+<a name="merge_conflicts"></a>
 ## Merge conflicts
 
 ### The problem
@@ -508,7 +512,7 @@ It can be a good idea to **include documents outlining a code of conduct, agreed
 
 You can also **make use of one of GitHub's major features- issues**. Anyone can raise an issue with the project and discuss it. By making issues for any significant changes a record can be kept of the history of the project. GitHub has a myriad of other features such a milestones and project boards which may also be of use.
 
-In pull requests you should **clearly explain what the changes you've made are and why you made them**. If your changes address and issue that has been raised reference it directly. If your request fixes and issue and you include "will fix #< issue number >" in the pull request, if the pull request is merged it will automatically close the referenced issue, keeping the issue queue nice and clean! This also works for using commit messages to close issues too.
+In pull requests you should **clearly explain what the changes you've made are and why you made them**. If your changes address and issue that has been raised reference it directly. If your request fixes and issue and you include "will fix #the_issue_number >" in the pull request, if the pull request is merged it will automatically close the referenced issue, keeping the issue queue nice and clean! This also works for using commit messages to close issues too.
 
 ## Summary of key git commands
 
@@ -577,6 +581,7 @@ In pull requests you should **clearly explain what the changes you've made are a
 
 Look into best practise for writing good quality code (good naming conventions, informative comments, modular code structure etc). Many such skills are either also applicable for using version control well, e.g. for writing good commit messages, or make using version control easier by keeping changes neat and localised.
 
+<a name="further_reading"></a>
 ## Further reading
 
 - A free and very in depth book on gits myriad of features can be found [here](https://git-scm.com/book/en/v2)
