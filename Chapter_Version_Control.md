@@ -98,7 +98,7 @@ There are numerous tools available for version control such as Mercurial and SVN
 
 ## Getting Started
 
-This is important to know, but it isn't that exciting. To start using version control for your project you just go into the directory that contains all of your files (subdirectories will be included) and run
+This is important to know, but it isn't that exciting. Instructions for installing git on linux, windows and mac machines are available [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). To start using version control for your project you just go into the directory that contains all of your files (subdirectories will be included) and run
 
 ```
 git init
