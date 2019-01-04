@@ -18,7 +18,7 @@
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
 
-## What to learn next?
+## What to learn next
 > recommended next chapters that are a good next step up
 
 ## Further reading
