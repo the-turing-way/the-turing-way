@@ -446,6 +446,8 @@ Making the entire project and its history available online in this was also has 
 
 ### How to do it
 
+There are a number of GitHub tutorials available such as [this one](https://guides.github.com/activities/hello-world/), or if you prefer you can follow along here.
+
 First make an account on [GitHub](https://github.com/), and create a repository on it. To do this click the + sign dropdown menu in the upper right hand of the screen. Enter a name for the repository (ideally the same name as the project folder on your computer) and click Create Repository. Now you just need to link the project on your computer to this online repository. If your project is not already version controlled then make it so by running `git init` and making a commit. In the terminal on your computer use
 ```
 git remote add origin https://github.com/your_username/repository_name
