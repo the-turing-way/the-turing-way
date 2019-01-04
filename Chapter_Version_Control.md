@@ -509,7 +509,7 @@ It can be a good idea to **include documents outlining a code of conduct, agreed
 
 You can also **make use of one of GitHub's major features- issues**. Anyone can raise an issue with the project and discuss it. By making issues for any significant changes a record can be kept of the history of the project. GitHub has a myriad of other features such a milestones and project boards which may also be of use.
 
-In pull requests you should **clearly explain what the changes you've made are and why you made them**. If your changes address and issue that has been raised reference it directly.
+In pull requests you should **clearly explain what the changes you've made are and why you made them**. If your changes address and issue that has been raised reference it directly. If your request fixes and issue and you include "will fix #< issue number >" in the pull request, if the pull request is merged it will automatically close the referenced issue, keeping the issue queue nice and clean!
 
 ## Summary of key git commands
 
