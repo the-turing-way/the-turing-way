@@ -487,6 +487,7 @@ Once the request is accepted GitHub will merge person As changes into person B's
 git pull origin master
 ```
 
+It is also possible to make pull requests via the command line. A guide on how to do so is available [here](https://git-scm.com/docs/git-request-pull).
 
 ### Good practise for using GitHub
 
