@@ -246,17 +246,19 @@ When you commit you have the chance to write a commit message describing what th
 
 ### How to do it
 
-When you commit, instead of using `git commit` instead do
+When you commit via
 
 ```
-git commit -m "Your commit message"
+git commit
 ```
+
+notice that a field appears (either within the terminal or in a text editor) where a commit message can be written. Simply do so and save (and close if writing the message via text editor).
 
 ### Good practise for commit messages
 
 The number one rule is: **make it meaningful**. A commit message like "Fixed a bug" leaves it entirely up to the person  looking at the commit (again, this person may very well be you a few months in the future when you've forgotten what you were doing) to waste time figuring out what the bug was, what changes you actually made, and how they fixed it. As such a good commit message should **explain what you did, why you did it, and what is impacted by the change**. As with comments you should **describe what the code is doing rather than the code itself** e.g. it is not obvious what "Changed N_sim to 10" actually does, but "Changed number of simulations run by the program to 10" is clear.
 
-**Summarise the change** the commit contains in the first line (50-72 characters).
+**Summarise the change** the commit contains in the first line (50-72 characters), then leave a blank line before you continue with the body of the message. By doing this when shortened versions of `git log` are used just the summary will appear. This makes it much easier to quickly search through a large number of commits.
 It’s also a good practise to **use the imperative present tense** in these messages. In other words, use commands. Instead of "I added tests for" or "Adding tests for" use "Add tests for".
 
 Here's a good example of commit message structure:
@@ -521,7 +523,7 @@ In pull requests you should **clearly explain what the changes you've made are a
 | git init                      | Initialises a git repository in that directory                           |
 | git add .                     | Add all changes to the staging area to be committed                      |
 | git add file_name             | Add changes to the specified file to the staging area to be committed    |
-| git commit -m "Your message"  | Commits everything in the staging area with your commit message          |
+| git commit                    | Commits staged changes and allows you to write a commit message          |
 | git checkout SHA              | Check out past commit with the given SHA                                 |
 | git checkout SHA -- file_name | Check out past version of a file from the commit with the given SHA      |  
 | git checkout -b branch_name   | Create and switch to a new branch                                        |
@@ -542,7 +544,7 @@ In pull requests you should **clearly explain what the changes you've made are a
 ### Make use of Git
 - [ ] Make your project version controlled by initialising a git repository in its directory using `git init`
 - [ ] Add and commit all your files to the repository using `git add .` then `git commit`
-- [ ] Continue to add and commit changes as your project progresses. Stage the changes in specific files to be committed with `git add filename`, and add messages to your commits with `git commit -m "Your message"`
+- [ ] Continue to add and commit changes as your project progresses. Stage the changes in specific files to be committed with `git add filename`, and add messages to your commits
   - [ ] Each commit should make one simple change
   - [ ] No generated files committed
   - [ ] Commit messages are meaningful, with a ~50 character summary at the top
