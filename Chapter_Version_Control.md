@@ -252,7 +252,11 @@ When you commit via
 git commit
 ```
 
-notice that a field appears (either within the terminal or in a text editor) where a commit message can be written. Simply do so and save (and close if writing the message via text editor).
+notice that a field appears (either within the terminal or in a text editor) where a commit message can be written. Simply do so and save (and close if writing the message via text editor). To set your preferred editor as the default do
+
+```
+git config --global core.editor "your_preferred_editor"
+```
 
 ### Good practise for commit messages
 
