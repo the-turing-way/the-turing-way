@@ -45,7 +45,7 @@ Recommended skill level: beginner - intermediate. Version control has a great de
 
 **Merge conflict:** Incompatibilities between branches being merged.
 
-**Pull request:** Proposed changes to a remote repo. Collaborators without write access can send a pull request to the administrator with the changes they've made to the repo. The administrator can then approve and merge or reject the changes to the main repository. For open source projects pull requests can be sent by anyone that has forked a project.
+**Pull request:** Proposed changes to a remote repository. Collaborators without write access can send a pull request to the administrator with the changes they've made to the repo. The administrator can then approve and merge or reject the changes to the main repository. For open source projects pull requests can be sent by anyone that has forked a project.
 
 **Push:** Sending changes to a remote repo. The remote repository is updated with the changes pushed and now mirrors the local repo.
 
