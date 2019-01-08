@@ -161,30 +161,6 @@ git checkout SHA_of_the_version
  git checkout SHA_of_the_version -- your_file_name
  ```
 
-#### Comparing files/commits/branches
-
-In short: `git diff`.
-
-Diffing is a function that takes two input data sets and outputs the changes between them. `git diff` is a multi-use Git command that when executed runs a diff function on Git data sources. These data sources can be commits, branches, files and more.
-
-By default `git diff` will show you any uncommitted changes since the last commit. If you want to compare two specific things the syntax is
-
-```
-git diff thing_a thing_b
-```
-
-For example if you want to compare how a file has changed between two commits use `git log` to get the SHAs of those commits and run
-
-```
-git diff SHA_a:your_file_name SHA_b:your_file_name
-```
-
-Or if you wanted to compare two branches it would be
-
-```
-git diff branch_name other_branch_name
-```
-
 ### Good practise for commits
 
 Commits should be 'atomic' i.e **they should do one simple thing and they should do it completely**, e.g. adding a new function or renaming a variable. If a lot of different changes to your project are all committed together then if something goes wrong it can be hard to unpick what in this set of changes if causing the problem, and undoing the whole commit may throw away valid and useful work along with the bug. That said **you don't necessarily need to do per-file commits**. For example if I add a figure to this chapter here, let's choose something to catch the attention of someone skimming through:
@@ -257,6 +233,42 @@ Further paragraphs come after blank lines.
     preceded by a single space, with blank lines in
     between, but conventions vary here
 ```
+
+## Comparing versions
+
+### The problem
+
+At some point it is likely you will need/want to compare versions of a project, for example to see what version was used to generate a certain result.
+
+### The solution
+
+In short: `git diff`.
+
+Diffing is a function that takes two input data sets and outputs the changes between them. `git diff` is a multi-use Git command that when executed runs a diff function on Git data sources. These data sources can be commits, branches, files and more.
+
+### How to do it
+
+By default `git diff` will show you any uncommitted changes since the last commit. If you want to compare two specific things the syntax is
+
+```
+git diff thing_a thing_b
+```
+
+For example if you want to compare how a file has changed between two commits use `git log` to get the SHAs of those commits and run
+
+```
+git diff SHA_a:your_file_name SHA_b:your_file_name
+```
+
+Or if you wanted to compare two branches it would be
+
+```
+git diff branch_name other_branch_name
+```
+
+### Good practise for comparing versions
+
+**Use it**. With a little familiarity `git diff` becomes an extremely powerful tool you can use to track what files have changed and exactly what those changes are. This is extremely valuable for unpicking bugs and comparing work done by different people. Be careful to **understand what exactly is being compared** and where possible **only compare the relevant files** for what you're interested in to avoid large amounts of extraneous information. 
 
 ## Branches
 
