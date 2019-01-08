@@ -268,7 +268,7 @@ git diff branch_name other_branch_name
 
 ### Good practise for comparing versions
 
-**Use it**. With a little familiarity `git diff` becomes an extremely powerful tool you can use to track what files have changed and exactly what those changes are. This is extremely valuable for unpicking bugs and comparing work done by different people. Be careful to **understand what exactly is being compared** and where possible **only compare the relevant files** for what you're interested in to avoid large amounts of extraneous information. 
+**Use it**. With a little familiarity `git diff` becomes an extremely powerful tool you can use to track what files have changed and exactly what those changes are. This is extremely valuable for unpicking bugs and comparing work done by different people. Be careful to **understand what exactly is being compared** and where possible **only compare the relevant files** for what you're interested in to avoid large amounts of extraneous information.
 
 ## Branches
 
@@ -507,24 +507,25 @@ In pull requests you should **clearly explain what the changes you've made are a
 
 | Command                       | Use                                                                      |
 | ----------------------------- | ------------------------------------------------------------------------ |
-| Git init                      | Initialises a Git repository in that directory                           |
-| Git add .                     | Add all changes to the staging area to be committed                      |
-| Git add file_name             | Add changes to the specified file to the staging area to be committed    |
-| Git commit                    | Commits staged changes and allows you to write a commit message          |
-| Git checkout SHA              | Check out past commit with the given SHA                                 |
-| Git checkout SHA -- file_name | Check out past version of a file from the commit with the given SHA      |  
-| Git checkout -b branch_name   | Create and switch to a new branch                                        |
-| Git checkout branch_name      | Switch to a specified branch                                             |
-| Git merge branch_name         | Merge the branch you are on into the specified branch                    |
-| Git clone url                 | Makes a clone of the repository at the specified url                     |
-| Git remote add origin url     | Links local repository and repository at the specified url               |
-| Git push origin branch_name   | Push local changes to the specified branch of the online repository      |
-| Git pull origin branch_name   | Pull changes to online repository into local repository                  |
-| Git log                       | Output a log of past commits with their commit messages                  |
-| Git status                    | Output status including what branch you're on & what changes are staged  |
-| Git diff                      | Output difference between working directory and most recent commit       |
-| Git diff thing_a thing_b      | Output difference between two things e.g. commits, branches              |                     
+| git init                      | Initialises a Git repository in that directory                           |
+| git add .                     | Add all changes to the staging area to be committed                      |
+| git add file_name             | Add changes to the specified file to the staging area to be committed    |
+| git commit                    | Commits staged changes and allows you to write a commit message          |
+| git checkout SHA              | Check out past commit with the given SHA                                 |
+| git checkout SHA -- file_name | Check out past version of a file from the commit with the given SHA      |  
+| git checkout -b branch_name   | Create and switch to a new branch                                        |
+| git checkout branch_name      | Switch to a specified branch                                             |
+| git merge branch_name         | Merge the branch you are on into the specified branch                    |
+| git clone url                 | Makes a clone of the repository at the specified url                     |
+| git remote add origin url     | Links local repository and repository at the specified url               |
+| git push origin branch_name   | Push local changes to the specified branch of the online repository      |
+| git pull origin branch_name   | Pull changes to online repository into local repository                  |
+| git log                       | Output a log of past commits with their commit messages                  |
+| git status                    | Output status including what branch you're on & what changes are staged  |
+| git diff                      | Output difference between working directory and most recent commit       |
+| git diff thing_a thing_b      | Output difference between two things e.g. commits, branches              |                     
 
+## Configuring and personalising Git
 
 ## Checklists
 
@@ -563,8 +564,6 @@ In pull requests you should **clearly explain what the changes you've made are a
 - [ ] Make use of issues to discuss possible changes to a project
 - [ ] Make pull requests on GitHub to share your work
   - [ ] Clearly explain the changes you've made and why in your pull request.
-
-
 
 ## What to learn next
 
@@ -618,25 +617,25 @@ Look into best practise for writing good quality code (good naming conventions, 
 
 ## Bibliography
 
-- [1.](https://Git-scm.com/book/en/v2/Getting-Started-About-Version-Controls) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
+- [1.](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Controls) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
 - [2.](https://link.springer.com/article/10.1186/1751-0473-8-7) **Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0)** *Other useful stuff in this paper, could use their into as part of the book's intro*
 - [3.](http://crlionline.net/node/198) **Permission to use given by the author (Peter Reimann) 15/12/18**
-- [4.](https://tonysyu.GitHub.io/source-control-for-scientists-and-soloists.html#.XA6Q3mj7RPY) **Permission given by the author (Tony Yu) 15/12/18**
-- [5.](https://Git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-Git-basics-chapter) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.**
-- [6.](https://Githowto.com/undoing_committed_changes) **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
-- [7.](https://www.atlassian.com/Git/tutorials/saving-changes/Git-diff) **Creative Commons Attribution 2.5 Australia License.**
-- [8.](http://sethrobertson.GitHub.io/GitBestPractices/) **Creative Commons Attribution-ShareAlike 3.0 Generic**
+- [4.](https://tonysyu.github.io/source-control-for-scientists-and-soloists.html#.XA6Q3mj7RPY) **Permission given by the author (Tony Yu) 15/12/18**
+- [5.](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.**
+- [6.](https://githowto.com/undoing_committed_changes) **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
+- [7.](https://www.atlassian.com/git/tutorials/saving-changes/git-diff) **Creative Commons Attribution 2.5 Australia License.**
+- [8.](http://sethrobertson.github.io/GitBestPractices/) **Creative Commons Attribution-ShareAlike 3.0 Generic**
 - [9.](https://guide.esciencecenter.nl/best_practices/version_control.html) **Creative Commons Attribution 4.0 International License**
-- [10.](https://Git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
-- [11.](https://opensource.com/article/18/5/Git-branching) **Creative Commons license**
-- [12.](https://GitHub.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-Git-and-manage-branches) **GNU GENERAL PUBLIC LICENSE Version 3**
+- [10.](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
+- [11.](https://opensource.com/article/18/5/git-branching) **Creative Commons license**
+- [12.](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) **GNU GENERAL PUBLIC LICENSE Version 3**
 - [13.](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **["You are granted a limited license to copy anything from this site"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)**
-- [14.](https://Githowto.com/resolving_conflicts) **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
-- [15.](https://opensource.com/article/18/1/step-step-guide-Git) **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
-- [16.](https://kbroman.org/GitHub_tutorial/pages/init.html) **Attribution 3.0 Unported (CC BY 3.0)**
-- [17.](https://opensource.com/article/18/2/how-clone-modify-add-delete-Git-files) **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
+- [14.](https://githowto.com/resolving_conflicts) **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**
+- [15.](https://opensource.com/article/18/1/step-step-guide-git) **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
+- [16.](https://kbroman.org/github_tutorial/pages/init.html) **Attribution 3.0 Unported (CC BY 3.0)**
+- [17.](https://opensource.com/article/18/2/how-clone-modify-add-delete-git-files) **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
 - [18.](https://thejunkland.com/blog/how-to-write-good-readme.html) **Creative Commons Attribution-NonCommercial 2.5 License**
-- [19.](https://gist.GitHub.com/PurpleBooth/109311bb0361f32d87a2) **MIT**
+- [19.](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) **MIT**
 - [20.](https://commons.wikimedia.org/wiki/Taj_Mahal#/media/File:Taj_Mahal_in_March_2004.jpg) **GNU Free Documentation License**
-- [21.](https://juristr.com/blog/2013/04/Git-explained/) **Creative Commons Attribution-ShareAlike 4.0 International License**
-- [22.](http://simpleprimate.com/GitHub-for-web-designers/glossary.html) **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+- [21.](https://juristr.com/blog/2013/04/git-explained/) **Creative Commons Attribution-ShareAlike 4.0 International License**
+- [22.](http://simpleprimate.com/github-for-web-designers/glossary.html) **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
