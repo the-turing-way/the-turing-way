@@ -187,7 +187,7 @@ To cancel your latest commit run
 Git revert HEAD
 ```
 
-You may want to retrieve a version form weeks or months ago. To do this first use `Git log` to find the SHA of the version you want to retrieve. To reset your entire project to this version do
+which automatically makes a new commit that undoes those changes. You may want to retrieve a version form weeks or months ago. To do this first use `Git log` to find the SHA of the version you want to retrieve. To reset your entire project to this version do
 
 ```
 Git checkout SHA_of_the_version
