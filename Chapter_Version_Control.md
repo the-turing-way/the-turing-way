@@ -109,26 +109,26 @@ Finally version control is invaluable for collaborative projects where different
 This is important to know, but it isn't that exciting. Instructions for installing Git on linux, windows and mac machines are available [here](https://Git-scm.com/book/en/v2/Getting-Started-Installing-Git). Once instillation is complete, to start using version control for your project you just go into the directory that contains all of your files (subdirectories will be included) and run
 
 ```
-Git init
+git init
 ```
 
 in the terminal to create the Git repository (often called "repo" for short). This only needs to be done once per project.
 
 Think of the repository as a place where the history is being stored.
-Each file in your working directory can be in one of two states: tracked or untracked by your repository. In short, tracked files are files that Git knows about. Untracked files are everything else — any files in your working directory that were not in your last snapshot. When you first initialise a repository with `Git init` all of your files will be untracked because your repository it doesn't *have* a previous snapshot yet, so it doesn't know about any of your files. Therefore your next step is to add your files to the repository using
+Each file in your working directory can be in one of two states: tracked or untracked by your repository. In short, tracked files are files that Git knows about. Untracked files are everything else — any files in your working directory that were not in your last snapshot. When you first initialise a repository with `git init` all of your files will be untracked because your repository it doesn't *have* a previous snapshot yet, so it doesn't know about any of your files. Therefore your next step is to add your files to the repository using
 
 ```
-Git add .
+git add .
 ```
 
 This puts your changes into what's called the "staging area". When you next commit any changes stored in your staging area will be recorded in your repository.
 
 ![change_stage_repo](figures/change_stage_repo.png)
 
-The full stop after `Git add` above adds all changes to your staging area. So now all your files are staged commit them using
+The full stop after `git add` above adds all changes to your staging area. So now all your files are staged commit them using
 
 ```
-Git commit
+git commit
 ```
 
 We'll talk in more detail about these commands [later](#adding), but for now just know if you run them then congratulations, you have finished setting up you repository!
@@ -146,28 +146,28 @@ By making commits you can save versions of your code and switch between them/com
 <a name="adding"></a>
 ### How to do it
 
-When you've made a series of changes and you want to commit them you fist add these changes to your staging area using `Git add`. You can add all your changes using
+When you've made a series of changes and you want to commit them you fist add these changes to your staging area using `git add`. You can add all your changes using
 
 ```  
-Git add .
+git add .
 ```
 
 or you can add the changes to specific files via
 
 ```  
-Git add your_file_name
+git add your_file_name
 ```
 
 If you're ever unsure what files have been added, what files have been changed, what files are untracked etc you can run the following to find out:
 
 ```
-Git status
+git status
 ```
 
 When you're ready you can commit everything in your staging area by running
 
 ```
-Git commit
+git commit
 ```
 
 It's that easy.
@@ -175,7 +175,7 @@ It's that easy.
 You can see a log of your previous commits using
 
 ```
-Git log
+git log
 ```
 
 In this log you'll see that each commit is automatically tagged with a unique string of numbers and letters called a SHA which you can use to access and compare them.
@@ -184,43 +184,43 @@ In this log you'll see that each commit is automatically tagged with a unique st
 
 To cancel your latest commit run
 ```
-Git revert HEAD
+git revert HEAD
 ```
 
-which automatically makes a new commit that undoes those changes. You may want to retrieve a version form weeks or months ago. To do this first use `Git log` to find the SHA of the version you want to retrieve. To reset your entire project to this version do
+which automatically makes a new commit that undoes those changes. You may want to retrieve a version form weeks or months ago. To do this first use `git log` to find the SHA of the version you want to retrieve. To reset your entire project to this version do
 
 ```
-Git checkout SHA_of_the_version
+git checkout SHA_of_the_version
 ```
 
  You may just want the old version of a single file though, and not the previous version of the whole project. To retrieve this use
 
  ```
- Git checkout SHA_of_the_version -- your_file_name
+ git checkout SHA_of_the_version -- your_file_name
  ```
 
 #### Comparing files/commits/branches
 
-In short: `Git diff`.
+In short: `git diff`.
 
-Diffing is a function that takes two input data sets and outputs the changes between them. `Git diff` is a multi-use Git command that when executed runs a diff function on Git data sources. These data sources can be commits, branches, files and more.
+Diffing is a function that takes two input data sets and outputs the changes between them. `git diff` is a multi-use Git command that when executed runs a diff function on Git data sources. These data sources can be commits, branches, files and more.
 
-By default `Git diff` will show you any uncommitted changes since the last commit. If you want to compare two specific things the syntax is
-
-```
-Git diff thing_a thing_b
-```
-
-For example if you want to compare how a file has changed between two commits use `Git log` to get the SHAs of those commits and run
+By default `git diff` will show you any uncommitted changes since the last commit. If you want to compare two specific things the syntax is
 
 ```
-Git diff SHA_a:your_file_name SHA_b:your_file_name
+git diff thing_a thing_b
+```
+
+For example if you want to compare how a file has changed between two commits use `git log` to get the SHAs of those commits and run
+
+```
+git diff SHA_a:your_file_name SHA_b:your_file_name
 ```
 
 Or if you wanted to compare two branches it would be
 
 ```
-Git diff branch_name other_branch_name
+git diff branch_name other_branch_name
 ```
 
 ### Good practise for commits
@@ -236,7 +236,7 @@ then when I do this two files are changed:
 
 So two files are affected, but "Add figure to version control chapter" is a single, *atomic* unit of work, so only one commit is necessary.
 
-To aid in making atomic commits it's good practise to **specify the files to be committed**, i.e. adding files to the staging area by name (`Git add your_file_name`) rather than adding everything (`Git add .`). This prevents you from unintentionally bundling different changes together, for example if you've made a change to file A while primarily working on file B you may have forgotten this when you go to commit, and with `Git add .` file A would be brought along for the ride.
+To aid in making atomic commits it's good practise to **specify the files to be committed**, i.e. adding files to the staging area by name (`git add your_file_name`) rather than adding everything (`git add .`). This prevents you from unintentionally bundling different changes together, for example if you've made a change to file A while primarily working on file B you may have forgotten this when you go to commit, and with `git add .` file A would be brought along for the ride.
 
 Finally, **don't commit anything that can be regenerated from other things that were committed unless it is something  that would take hours to regenerate**. Generated files just clutter up your repository and may contain features such as timestamps that can cause annoying merge conflicts (see [below](#merge_conflicts)). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct Git to ignore certain files by creating a file called `.Gitignore` and including their names in it.
 
@@ -249,7 +249,7 @@ As you work on you project you will make more and more commits. Without any othe
 
 ### The solution
 
-When you commit you have the chance to write a commit message describing what the commit is and what it does, and you should always, *always,* **_always_** do so.  A commit message gets attached to the commit so if you look back at it (e.g via `Git log`) it will show up. Creating insightful and descriptive commit messages is one of the best things you can do to get the most out of version control. It lets people (and your future self when you've long since forgotten what you were doing and why) quickly understand what changes a commit contains without having to carefully read code and waste time figuring it out. Good commit messages improve your code quality by drastically reducing its WTF/min ratio:
+When you commit you have the chance to write a commit message describing what the commit is and what it does, and you should always, *always,* **_always_** do so.  A commit message gets attached to the commit so if you look back at it (e.g via `git log`) it will show up. Creating insightful and descriptive commit messages is one of the best things you can do to get the most out of version control. It lets people (and your future self when you've long since forgotten what you were doing and why) quickly understand what changes a commit contains without having to carefully read code and waste time figuring it out. Good commit messages improve your code quality by drastically reducing its WTF/min ratio:
 
 ![wtf_per_min](figures/wtf_per_min.jpg)
 
@@ -258,20 +258,20 @@ When you commit you have the chance to write a commit message describing what th
 When you commit via
 
 ```
-Git commit
+git commit
 ```
 
 notice that a field appears (either within the terminal or in a text editor) where a commit message can be written. Simply do so and save (and close if writing the message via text editor). To set your preferred editor as the default do
 
 ```
-Git config --global core.editor "your_preferred_editor"
+git config --global core.editor "your_preferred_editor"
 ```
 
 ### Good practise for commit messages
 
 The number one rule is: **make it meaningful**. A commit message like "Fixed a bug" leaves it entirely up to the person  looking at the commit (again, this person may very well be you a few months in the future when you've forgotten what you were doing) to waste time figuring out what the bug was, what changes you actually made, and how they fixed it. As such a good commit message should **explain what you did, why you did it, and what is impacted by the change**. As with comments you should **describe what the code is doing rather than the code itself** e.g. it is not obvious what "Changed N_sim to 10" actually does, but "Changed number of simulations run by the program to 10" is clear.
 
-**Summarise the change** the commit contains in the first line (50-72 characters), then leave a blank line before you continue with the body of the message. By doing this when shortened versions of `Git log` are used just the summary will appear. This makes it much easier to quickly search through a large number of commits.
+**Summarise the change** the commit contains in the first line (50-72 characters), then leave a blank line before you continue with the body of the message. By doing this when shortened versions of `git log` are used just the summary will appear. This makes it much easier to quickly search through a large number of commits.
 It’s also a good practise to **use the imperative present tense** in these messages. In other words, use commands. Instead of "I added tests for" or "Adding tests for" use "Add tests for".
 
 Here's a good example of commit message structure:
@@ -315,23 +315,23 @@ Using branches keeps working code safe, particularly in collaborations. Each con
 
 You can create a branch and switch to it using:
 ```
-Git checkout -b name_of_your_new_branch
+git checkout -b name_of_your_new_branch
 ```
 
 To change between branches:
 ```
-$ Git checkout name_of_the_branch
+git checkout name_of_the_branch
 ```
 
 though you must commit any work you have in progress before you will be able to switch. You can see all branches of your project simply using
 ```
-$ Git branch
+git branch
 ```
-which will output a list with an asterix next to the branch you're on. You can also use `Git status` if you've forgotten which branch you're on.
+which will output a list with an asterix next to the branch you're on. You can also use `git status` if you've forgotten which branch you're on.
 
 If you decide to get rid of a branch you can delete it with
 ```
-$ Git branch -D name_of_the_branch
+git branch -D name_of_the_branch
 ```
 
 ### Good practice for branches
@@ -351,10 +351,10 @@ Merge the branch with your work on into your target branch. You can also use mer
 
 ### How to do it
 
-To merge some branch, branch_A, into another branch, branch_B, switch to branch_A via `Git checkout branch_A` and merge it into branch_B by
+To merge some branch, branch_A, into another branch, branch_B, switch to branch_A via `git checkout branch_A` and merge it into branch_B by
 
 ```
-Git merge branch_B
+git merge branch_B
 ```
 
 Merging will not be possible if there are changes in either your working directory or staging area that could be written over by the files that you are merging in. If this happens, there are no merge conflicts in individual files. You need to commit or stash the files it lists and then try again. The error messages are as follows:
@@ -421,11 +421,11 @@ You resolve a conflict by editing the file to manually merge the parts of the fi
 print('Hello World!!!')
 ```
 
-Once you've fixed the conflicts commit the new version. You've now resolved the conflict. If, during the process, you need a reminder of which files the conflicts are in you can use `Git status` to find out.
+Once you've fixed the conflicts commit the new version. You've now resolved the conflict. If, during the process, you need a reminder of which files the conflicts are in you can use `git status` to find out.
 
 If you find there are particularly nasty conflicts and you want to abort the merge you can using
 ```
-Git merge --abort
+git merge --abort
 ```
 
 ### Good practise for resolving merge conflicts
@@ -435,13 +435,13 @@ Before you start trying to resolve conflicts **make sure you fully understand th
 There are **tools** available to assist in resolving merge conflicts, some are free, some are not. Find and familiarise yourself with one that works for you. Commonly used merge tools include [KDiff3](http://kdiff3.sourceforge.net/), [Beyond Compare](https://www.scootersoftware.com/), [Meld](http://meldmerge.org/), and [P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge). To set a tool as your default do
 
 ```
-Git config --global merge.tool name_of_the_tool
+git config --global merge.tool name_of_the_tool
 ```
 
 and launch it by
 
 ```
-Git mergetool
+git mergetool
 ```
 
 Fundamentally the best way to deal with merge conflicts is to, so far as is possible, **ensure they don't happen in the first place**. You can improve your odds on this by **keeping branches clean and focused on a single issue, and involving as few files as possible**. Before merging make sure you know what's in both branches, and if you are not the only one that has worked on the branches then **keep the lines of communication open** so you are all aware of what the others are doing.
@@ -465,29 +465,29 @@ Making the entire project and its history available online in this was also has 
 
 There are a number of GitHub tutorials available such as [this one](https://guides.GitHub.com/activities/hello-world/), or if you prefer you can follow along here.
 
-First make an account on [GitHub](https://GitHub.com/), and create a repository on it. To do this click the + sign dropdown menu in the upper right hand of the screen. Enter a name for the repository (ideally the same name as the project folder on your computer) and click Create Repository. Now you just need to link the project on your computer to this online repository. If your project is not already version controlled then make it so by running `Git init` and making a commit. In the terminal on your computer use
+First make an account on [GitHub](https://GitHub.com/), and create a repository on it. To do this click the + sign dropdown menu in the upper right hand of the screen. Enter a name for the repository (ideally the same name as the project folder on your computer) and click Create Repository. Now you just need to link the project on your computer to this online repository. If your project is not already version controlled then make it so by running `git init` and making a commit. In the terminal on your computer use
 ```
-Git remote add origin https://GitHub.com/your_username/repository_name
+git remote add origin https://GitHub.com/your_username/repository_name
 ```
 
 then *push* all the files on your computer to the online version so they match via
 ```
-Git push -u origin master
+git push -u origin master
 ```
 
 You can the go on and make more commits on your computer. When you want to push them to your online version similarly you do
 ```
-Git push origin branch_you_want_to_push_to
+git push origin branch_you_want_to_push_to
 ```
 
 Others can then clone the repository to their computer by using
 ```
-Git clone https://GitHub.com/your_username/repository_name.Git
+git clone https://GitHub.com/your_username/repository_name.Git
 ```
 
 They can make and commit changes to the code without impacting the original, and push their changes to *their* online GitHub account using   
 ```
-Git push -u origin master
+git push -u origin master
 ```
 
 Naturally the exact same procedure applies to you if you want to clone someone else's repository.
@@ -501,7 +501,7 @@ When person B is setting up the pull request GitHub will automatically check whe
 Once the request is accepted GitHub will merge person As changes into person B's online copy of the repository. Person B can the *pull* those changes down to the copy on their computer using
 
 ```
-Git pull origin master
+git pull origin master
 ```
 
 It is also possible to make pull requests via the command line. A guide on how to do so is available [here](https://Git-scm.com/docs/Git-request-pull).
@@ -555,35 +555,35 @@ In pull requests you should **clearly explain what the changes you've made are a
 ## Checklists
 
 ### Make use of Git
-- [ ] Make your project version controlled by initialising a Git repository in its directory using `Git init`
-- [ ] Add and commit all your files to the repository using `Git add .` then `Git commit`
-- [ ] Continue to add and commit changes as your project progresses. Stage the changes in specific files to be committed with `Git add filename`, and add messages to your commits
+- [ ] Make your project version controlled by initialising a Git repository in its directory using `git init`
+- [ ] Add and commit all your files to the repository using `git add .` then `git commit`
+- [ ] Continue to add and commit changes as your project progresses. Stage the changes in specific files to be committed with `git add filename`, and add messages to your commits
   - [ ] Each commit should make one simple change
   - [ ] No generated files committed
   - [ ] Commit messages are meaningful, with a ~50 character summary at the top
   - [ ] Commit messages are in the present tense and imperative
-- [ ] Develop new features on their own branches, which you can create via `Git checkout -b branch_name` and switch between via `Git checkout branch_name`
+- [ ] Develop new features on their own branches, which you can create via `git checkout -b branch_name` and switch between via `git checkout branch_name`
   - [ ] Branches have informative names
   - [ ] Master branch is kept clean
   - [ ] Each branch has a single purpose and only changes related to that purpose are made on it
-- [ ] Once features are complete merge their branches into the master branch by switching to the feature branch and running `Git merge master`
+- [ ] Once features are complete merge their branches into the master branch by switching to the feature branch and running `git merge master`
   - [ ] Merge other's changes into your work frequently
   - [ ] When dealing with merge conflicts make sure you fully understand both versions before trying to resolve them
 
 ### Put your project on GitHub
 - [ ] Create a GitHub account
 - [ ] Create a repository on GitHub with the same name as your project
-- [ ] Attach your local and online repositories via `Git remote add origin repository_url`
-- [ ] Put the files in your local version of the project online via `Git push -u origin master`
-- [ ] Continue to push changes you make on your computer to the GitHub version via `Git push origin branch_name`
-- [ ] Pull any changes made on GitHub to your local version via `Git pull origin branch_name`
+- [ ] Attach your local and online repositories via `git remote add origin repository_url`
+- [ ] Put the files in your local version of the project online via `git push -u origin master`
+- [ ] Continue to push changes you make on your computer to the GitHub version via `git push origin branch_name`
+- [ ] Pull any changes made on GitHub to your local version via `git pull origin branch_name`
 - [ ] Include a license
 - [ ] Include a readme
 - [ ] Set expectations for how collaborators are expected to behave via a code of conduct and or ways of working document
 - [ ] Use issues to track and discuss modifications to the project
 
 ### Contribute to someone else's project
-- [ ] Clone their project's repository from GitHub `Git clone repository_url`
+- [ ] Clone their project's repository from GitHub `git clone repository_url`
 - [ ] Make and commit changes
 - [ ] Push your changes to you GitHub version of the project
 - [ ] Make use of issues to discuss possible changes to a project
