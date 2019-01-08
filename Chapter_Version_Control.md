@@ -57,7 +57,11 @@ Recommended skill level: beginner - intermediate. Version control has a great de
 
 ## Version control: what it is and how it can be used to manage an evolving project
 
+### What it is
+
 What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It is typically applied to managing changes in code, though in reality you can do this with nearly any type of file on a computer.
+
+### The basic workflow
 
 The typical procedure for using version control is as follows:
 
@@ -72,6 +76,8 @@ Keep doing work and making more and more commits. You can think of commits as ch
 Every time you make a commit you can tag it with a commit message explaining what this snapshot of your project is doing. This makes it very easy to find what you're looking for when you need to go back to a past version.
 
 <a name="branches_overview"></a>
+### Other facilities offered by version control
+
 So you have your project and you want to add new or something or try something out. With version control you can make a branch to do this work on. Any work you do on your branch won't be present on your main project (referred to as your master branch) so it remains nice and safe and you can continue to work on it. Once you're happy with your New Thing you can 'merge' your branch back into your master copy.
 
 ![one_branch](figures/one_branch.png)
