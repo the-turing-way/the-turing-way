@@ -27,7 +27,7 @@ Recommended skill level: beginner - intermediate. Version control has a great de
 
 **Clone:** Copy of an existing Git repository, normally from some remote location to your local environment. When you clone a repo you copy its entire history as well as all branches.
 
-**Commit:** Snapshot of project history. Records changes to the repository with. A commit can contain the changes of a single file or a range of files and directories.
+**Commit:** Snapshot of project history. A commit can be made after changes of a single file or a range of files and directories.
 
 **Commit message:** A message the user can attach to a commit to explain what it contains.
 
