@@ -317,7 +317,7 @@ Branches should be used to **keep the master branch clean** i.e. master should o
 
 ### The problem
 
-Once you've finished up some work on a branch you need to add it to your main project (or any other branch).
+Once you've finished up some work on a branch you need to integrate it to your main project (or any other branch).
 
 ### The solution
 
