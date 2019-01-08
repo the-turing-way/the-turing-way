@@ -39,7 +39,7 @@ Recommended skill level: beginner - intermediate. Version control has a great de
 
 **Issues:** Bug tracking system for GitHub. Collaborators can use issues to report bugs, request features, or set milestones for projects. Issues are tracked, reported, and closed by collaborators during the development process. They’re a great way of communicating with your team and reporting progress.
 
-**Master branch:** the repository’s main branch. Depending on the work flow it is the one people work on or the one where the integration happens.
+**Master:** the repository’s main branch. Depending on the work flow it is the one people work on or the one where the integration happens.
 
 **Merge:** The process of combining branches. Changes made on one or more branches are applied to another.
 
