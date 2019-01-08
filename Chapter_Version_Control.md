@@ -274,7 +274,7 @@ git diff branch_name other_branch_name
 
 ### The problem
 
-If you add a new feature to your project you run the risk of accidentally breaking your working code as you make changes to it. This would be very bad for active users of your project, even if the only active user is you. It's better to start with a prototype, which you would want to design roughly in a different branch and see how it works, before you decide whether to add the feature to the master branch. Also version control systems are regularly used for collaboration. If everyone starts programming on top of the master branch, it will cause a lot of confusion. Some people may write faulty/buggy code or simply the kind of code/feature others may not want in the project. There needs to be a way allow new work to be done on a project whilst protecting work that has already been done.
+If you add a new feature to your project you run the risk of accidentally breaking your working code as you make changes to it. This would be very bad for active users of your project, even if the only active user is you. Also version control systems are regularly used for collaboration. If everyone starts programming on top of the master branch, it will cause a lot of confusion. Some people may write faulty/buggy code or simply the kind of code/feature others may not want in the project. There needs to be a way allow new work to be done on a project whilst protecting work that has already been done.
 
 ### The solution
 
