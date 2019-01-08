@@ -112,9 +112,9 @@ This is important to know, but it isn't that exciting. Instructions for installi
 Git init
 ```
 
-in the terminal to create the Git repository (often called "repo" for short). This just needs to be done once per project.
+in the terminal to create the Git repository (often called "repo" for short). This only needs to be done once per project.
 
-Just think of the repository as a place where the history is being stored.
+Think of the repository as a place where the history is being stored.
 Each file in your working directory can be in one of two states: tracked or untracked by your repository. In short, tracked files are files that Git knows about. Untracked files are everything else — any files in your working directory that were not in your last snapshot. When you first initialise a repository with `Git init` all of your files will be untracked because your repository it doesn't *have* a previous snapshot yet, so it doesn't know about any of your files. Therefore your next step is to add your files to the repository using
 
 ```
