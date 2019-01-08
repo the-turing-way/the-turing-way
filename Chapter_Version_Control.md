@@ -225,13 +225,13 @@ Git diff branch_name other_branch_name
 
 ### Good practise for commits
 
-Commits should be 'atomic' i.e **they should do one simple thing and they should do it completely**. If a lot of different changes to your project are all committed together then if something goes wrong it can be hard to unpick what in this set of changes if causing the problem, and simply undoing the whole commit may throw away valid and useful work along with the bug. That said **you don't necessarily need to do per-file commits**. For example if I add a figure to this chapter here, let's choose something to catch the attention of someone skimming through:
+Commits should be 'atomic' i.e **they should do one simple thing and they should do it completely**, e.g. adding a new function or renaming a variable. If a lot of different changes to your project are all committed together then if something goes wrong it can be hard to unpick what in this set of changes if causing the problem, and undoing the whole commit may throw away valid and useful work along with the bug. That said **you don't necessarily need to do per-file commits**. For example if I add a figure to this chapter here, let's choose something to catch the attention of someone skimming through:
 
 ![flipped_taj_mahal](figures/flipped_taj_mahal.png)
 
 then when I do this two files are changed:
 
-1. The figure file had been added
+1. The figure file has been added
 2. I've added a reference to this figure in the chapter so it will be displayed.
 
 So two files are affected, but "Add figure to version control chapter" is a single, *atomic* unit of work, so only one commit is necessary.
