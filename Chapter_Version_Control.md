@@ -310,7 +310,7 @@ git branch -D name_of_the_branch
 
 ### Good practice for branches
 
-Branches should be used to **keep the master branch clean**. Similarly you should try to keep individual branches as clean as possible by **only adding one new feature per branch**, because if you are working on several features some may be finished and ready to merge into master while others are stull under development. Give your branches **sensible names**, "new_feature" is all well and good until you start developing a newer feature on another branch.
+Branches should be used to **keep the master branch clean** i.e. master should only contain work which is complete and tested and so rightfully belongs in the master version of the project. Similarly you should try to keep individual branches as clean as possible by **only adding one new feature per branch**, because if you are working on several features some may be finished and ready to merge into master while others are still under development. Keeping your branches clean means only making changes related to the feature on the feature's branch. Give your branches **sensible names**, "new_feature" is all well and good until you start developing a newer feature on another branch.
 
 <a name="merging"></a>
 ## Merging
