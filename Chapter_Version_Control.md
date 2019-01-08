@@ -2,7 +2,7 @@
 
 ## Summary
 
-Version control keeps track of different versions of a project and allows past versions to be accessed easily. It also allows different versions of a project to be merged with minimal input from the user. The widely used version control software git is well integrated with GitHub, an online platform which aids collaboration between researchers.
+Version control keeps track of different versions of a project and allows past versions to be accessed easily. It also allows different versions of a project to be merged with minimal input from the user. There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, Github, which aids collaboration between researchers) which the instructions given in this chapter will be geared towards. There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "[Further reading](#further_reading)" section at the end of the chapter.) This chapter aims to cover the general principles underpinning all version control systems, and best practise which applies for using all such systems.
 
 
 ## How this is helpful
@@ -92,8 +92,6 @@ Further, commit messages (discussed [below](#commit_messages)) help you understa
 A version control system stores all your changes neatly away so while it is still easy to access them your working directory is not cluttered by the debris of versions past that it is necessary to keep just in case. Similarly with version control there is no need to leave chunks of code commented should you ever need to come back to an old version again.
 
 Finally version control is invaluable for collaborative projects where different people to work on the same code simultaneously. It allows the changes made by different people to be tracked, and can automatically combine peoples work via merging saving a great deal of painstaking effort to do so manually. Moreover, version control hosting websites such as Github provide way to communicate in a more structured way, such as in code reviews, about commits and about issues.
-
-There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, Github) which the instructions in this chapter will be geared towards. There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "[Further reading](#further_reading)" section at the end of the chapter.) This chapter aims to cover the general principles underpinning all version control systems, and best practise which applies for using all such systems.
 
 ## Getting Started
 
