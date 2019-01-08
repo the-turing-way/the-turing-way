@@ -65,7 +65,7 @@ The typical procedure for using version control is as follows:
 2. Do some work- you will now have made changes. Maybe you've modified one or more files, added new ones, or deleted old ones, it doesn't matter.
 3. Make a commit. This means you take a snapshot of your work at this point in time.
 
-Keep doing work and making more and more commits. You can kind of think of commits as checkpoints. If you ever need to go back to any past checkpoint to get a file as it was then, or just return your entire project to a past state you can. An illustration of this is shown in the figure below.  
+Keep doing work and making more and more commits. You can think of commits as checkpoints. If you ever need to go back to any past checkpoint to get a file as it was then, or just return your entire project to a past state you can. An illustration of this is shown in the figure below.  
 
 ![master_branch](figures/master_branch.png)
 
