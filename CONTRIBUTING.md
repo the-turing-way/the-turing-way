@@ -37,11 +37,13 @@ We know that it can be daunting to start using git and GitHub if you haven't wor
 
 In order to contribute via GitHub you'll need to set up a free account and sign in. Here are some [instructions](https://help.github.com/articles/signing-up-for-a-new-github-account/) to help you get going. Remember that you can ask us any questions you need to along the way.
 
-## Writing in markdown
+## Writing in Markdown
 
 GitHub has a helpful page on [getting started with writing and formatting on GitHub](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github).
 
 Most of the writing that you'll do will be in [Markdown][markdown]. You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting. For example you could write words as bold (`**bold**`), or in italics (`*italics*`), or as a [link][rick-roll] (`[link](https://https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
+Also when writing in Markdown, please start each new sentence on a new line.
+While this formats in the same way as if the new line wasn't included, it makes the diffs produced during the pull request review easier to read! :sparkles:
 
 ## Where to start: issues
 
