@@ -15,3 +15,7 @@ Building a locally hosted BinderHub is advantageous as it would facilitate the u
 
 By harnessing the power of cloud computing and building a BinderHub with expanded capabilities, scientific analyses can become more accessible and transparent to the wider community.
 We can improve reproducibility by making it easy to showcase and re-run analyses, improve reliability by making it easy to review analyses and catch bugs early in the development process without installation, and improve the reusability of the code by capturing the computing environment.
+
+### Citations
+
+Jupyter, P., Bussonnier, M., Forde, J., Freeman, J., Granger, B., Head, T., … Willing, C. (2018). Binder 2.0 - Reproducible, interactive, sharable environments for science at scale. In Proceedings of the 17th Python in Science Conference. SciPy. https://doi.org/10.25080/majora-4af1f417-011
