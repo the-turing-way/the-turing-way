@@ -9,7 +9,7 @@ Sarah Gibson (*The Alan Turing Institute*) on behalf of **The Turing Way Collabo
 We aim to support the scientific method across all fields of research using cloud computing platforms to provide reproducible, reliable and reusable analyses.
 We plan to achieve this through capturing computing environments without need for installation, facilitating access to advanced computing resources and providing a "Safe Haven" for private repositories.
 
-[Binder](http://conference.scipy.org/proceedings/scipy2018/project_jupyter.html)/[BinderHub](https://binderhub.readthedocs.io/en/latest/index.html) is a cloud platform that captures the computing environment of a GitHub repository within a Docker image.
+[Binder](http://conference.scipy.org/proceedings/scipy2018/pdfs/project_jupyter.pdf)/[BinderHub](https://binderhub.readthedocs.io/en/latest/index.html) is a cloud platform that captures the computing environment of a GitHub repository within a Docker image.
 It then provides an interactive browser from which code can be run in the environment under which it was developed without placing installation responsibilities on the user. BinderHubs can be built anywhere in the world and hosted in minimal installation time.
 Building a locally hosted BinderHub is advantageous as it would facilitate the use of private repositories and make available a greater variety of computing resources - facilities which are not currently available on the public Binder service.
 
