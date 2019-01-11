@@ -24,6 +24,13 @@ Sharing these research outputs means understanding data management, library scie
 It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
 This project is openly developed and any and all questions, comments and recommendations are welcome at our github repository: https://github.com/alan-turing-institute/the-turing-way.
 
+### The team
+
+This is the (part of) the project team planning work at the Turing Institute. For more on how to contact us, see the [ways of working document](ways_of_working.md).
+
+![Team photo](/figures/TuringWayTeam.jpg)
+
+
 ### Contributing 
 
 :construction: This repository is always a work in progress and **everyone** is encouraged to help us build something that is useful to the many. :construction:
@@ -31,6 +38,8 @@ This project is openly developed and any and all questions, comments and recomme
 Everyone is asked to follow our [code of conduct](CODE_OF_CONDUCT.md) and to checkout our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
 
 ### Get in touch
+
+[![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://badges.gitter.im/alan-turing-institute/the-turing-way.svg)](https://gitter.im/alan-turing-institute/the-turing-way?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 You can contact the PI of the Turing Way project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 
