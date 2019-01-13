@@ -1,8 +1,10 @@
 # UKRI Cloud Workshop
 
+[Cloud Working Group website](https://cloud.ac.uk/)
+
 The Francis Crick Institute, *12th February 2019*
 
-Sarah Gibson (*The Alan Turing Institute*) on behalf of **The Turing Way Collaboration**
+[Sarah Gibson](https://www.turing.ac.uk/people/researchers/sarah-gibson) ([*The Alan Turing Institute*](https://www.turing.ac.uk)) on behalf of **The Turing Way Collaboration**
 
 ## Abstract
 
@@ -17,3 +19,7 @@ By harnessing the power of cloud computing and building a BinderHub with expande
 We can improve reproducibility by making it easy to showcase and re-run analyses, improve reliability by making it easy to review analyses and catch bugs early in the development process without installation, and improve the reusability of the code by capturing the computing environment.
 
 [1] Project Jupyter, Bussonnier, M., Forde, J., Freeman, J., Granger, B., Head, T., … Willing, C. (2018). Binder 2.0 - Reproducible, interactive, sharable environments for science at scale. In Proceedings of the 17th Python in Science Conference. SciPy. https://doi.org/10.25080/majora-4af1f417-011
+
+## Submission Info
+
+This was submitted as a Demonstration under the "Cloud Hosting for Virtual Research Environments" category.
