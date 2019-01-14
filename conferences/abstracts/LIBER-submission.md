@@ -12,7 +12,7 @@ Keywords: Research Data Management, Open Science, Reproducibility, Data Libraria
 Submitted on 14/01/2019
 
 ## Authors
-The Turing Way 3, Patricia Herterich 1 (presenting author), Rosie Higman 2 (presenting author)   
+The Turing Way (3), Patricia Herterich (1; presenting author), Rosie Higman (2; presenting author)   
 1 University of Birmingham, United Kingdom;  
 2 University of Manchester, United Kingdom;  
 3 The Alan Turing Institute, United Kingdom;  
