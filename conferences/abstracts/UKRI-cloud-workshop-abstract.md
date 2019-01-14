@@ -1,12 +1,15 @@
 # UKRI Cloud Workshop
 
-[Cloud Working Group website](https://cloud.ac.uk/)
+* Website: https://cloud.ac.uk
+* Application form: https://docs.google.com/forms/d/1QG9xDIDlbfrAPZu_gZ5miucbBfZuHFGzgnP5ezC0v3w/viewform?edit_requested=true
+* Location: The Francis Crick Institute, London, UK
+* Date: 12 February 2019
 
-The Francis Crick Institute, *12th February 2019*
+### Authors 
 
-[Sarah Gibson](https://www.turing.ac.uk/people/researchers/sarah-gibson) ([*The Alan Turing Institute*](https://www.turing.ac.uk)) on behalf of **The Turing Way Collaboration**
+* [Sarah Gibson](https://www.turing.ac.uk/people/researchers/sarah-gibson) ([*The Alan Turing Institute*](https://www.turing.ac.uk)) on behalf of **The Turing Way Collaboration**
 
-## Abstract
+### Abstract
 
 We aim to support the scientific method across all fields of research using cloud computing platforms to provide reproducible, reliable and reusable analyses.
 We plan to achieve this through capturing computing environments without need for installation, facilitating access to advanced computing resources and providing a "safe haven" for private repositories.
@@ -20,7 +23,6 @@ We can improve reproducibility by making it easy to showcase and re-run analyses
 
 [1] Project Jupyter, Bussonnier, M., Forde, J., Freeman, J., Granger, B., Head, T., … Willing, C. (2018). Binder 2.0 - Reproducible, interactive, sharable environments for science at scale. In Proceedings of the 17th Python in Science Conference. SciPy. https://doi.org/10.25080/majora-4af1f417-011
 
-## Submission Info
+### Submission Info
 
 This was submitted as a Demonstration under the "Cloud Hosting for Virtual Research Environments" category.
-Application form [here](https://docs.google.com/forms/d/1QG9xDIDlbfrAPZu_gZ5miucbBfZuHFGzgnP5ezC0v3w/viewform?edit_requested=true).
