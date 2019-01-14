@@ -1,7 +1,10 @@
 # Is this the way to reproducibility?
 
 ## Submission Details
-Call for papers/Conference website: https://liberconference.eu/liber-2019-call-for-papers/  
+* Website: https://liberconference.eu
+* Application form: https://liberconference.eu/liber-2019-call-for-papers  
+* Location: Dublin, Ireland
+* Date: 26 - 28 June 2019
 ID: 189  
 Paper (standard presentation)  
 Topics: Open Science, including Open Access  
