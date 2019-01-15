@@ -4,6 +4,11 @@
 
 | Filename                   | Chapter              | Description                                       |
 | -------------------------- | -------------------- | ------------------------------------------------- |
-| github_diagram.jpg         | Version control      | Illustrates commits and branches                  |
+| change_stage_repo          | Version Control      | Cartoon showing staging and committing changes    |
+| flipped_taj_mahal          | Version Control      | Upside down taj mahal to confuse people           | 
+| master_branch              | Version control      | Illustrates commits on master branch              |
+| one_branch                 | Version control      | Illustrates version control master + one branch   |
 | reproducibility_kirstie    |                      | Depicts cow code and data relate to good practise |
+| sub_branch                 | Version control      | Illustrates version control branch + sub branch   |
+| two_banches                | Version control      | Illustrates version control master + two branches |
 | wtf_per_min.jpg            | Version control      | Good quality code = few wtf per min               |
