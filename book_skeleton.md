@@ -6,40 +6,23 @@ The aim of this file is iterate/decide on:
 
 ## Update from January Sprint
 
-
-
 #### Completed Chapters
- 
 - Version Control - @r-j-arnold
 
-
-
 #### WIP
- 
-- Open Science (Open Access, Open Source, Open Data) - @r-j-arnold
- 
-- Reproducibility (definition and why) - @pherterich
-
-
+ - Open Science (Open Access, Open Source, Open Data) - @r-j-arnold
+ - Reproducibility (definition and why) - @pherterich
 
 #### Needed
- 
-- Testing for research - @r-j-arnold and @annakrystalli
+ - Testing for research - @r-j-arnold and @annakrystalli
 - Continuous integration - @r-j-arnold and @annakrystalli
 - Reproducible Compute Environment - @r-j-arnold and @annakrystalli
-- Research Data Management - @pherterich
-
- and @rosiehigman
-- Collaborating (through Github/Gitlab) - @pherterich
-
- and @rosiehigman
+- Research Data Management - @pherterich and @rosiehigman
+- Collaborating (through Github/Gitlab) - @pherterich and @rosiehigman
 - Case studies - @LouiseABowler
 - Checklist - @annakrystalli and @KirstieJane
 
-
-
 #### Desired
-
 - Working Environment and notebooks - @LouiseABowler & @sgibson91
 - Coding Styles and Linting - @r-j-arnold
 - Deep Learning
