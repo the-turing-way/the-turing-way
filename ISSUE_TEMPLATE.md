@@ -13,4 +13,4 @@ We recommend doing this using
 __Update__
 
 ## Labels
-Not everyone will have contributing rights to add labels. Thus someone from the core project team will choose the appropriate label(s) from our existing label list to ensure that your issue is properly categorized and will be addressed by a suitable team member.
+Not everyone will have contributing rights to add labels. Thus someone from the core project team will choose the appropriate label(s) from our existing label list to ensure that your issue is properly categorized.
