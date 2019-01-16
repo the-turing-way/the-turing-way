@@ -1,0 +1,19 @@
+language: python
+python:
+  - "3.6"
+env:
+  matrix:
+  - NETWORKX_VERSION=2.0
+  global:
+    #secure: QvKbq
+install:
+  - pip install sphinx sphinx sphinxcontrib-napoleon sphinx_rtd_theme
+script:
+  - cd docs
+  - echo "<h1> The Turing Way </h1>" > index.html
+  - touch .nojekyll
+after_success:
+  - cd ..
+  - ./push.sh
+notifications:
+email: false
