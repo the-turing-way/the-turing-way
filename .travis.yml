@@ -1,11 +1,11 @@
 language: python
 python:
-  - "3.6"
+  - '3.6'
 env:
   matrix:
-  - NETWORKX_VERSION=2.0
+    - NETWORKX_VERSION=2.0
   global:
-    #secure: QvKbq
+    secure: xA6z51saP8LLqRrlxf+t2V+draDaox0x5BtZ6smApsiJ3EacvvvXG+wItaBJkjXVhPeDmEdVafscjz4pHQvZKyDSEhl7oFEL8RCzv2VJNx6S+sx9Ik5vofvYK0hS4Q71d9cGm3SkXDMFLuU7pV/w1VLMBJHJM5GgaYddut0IGGuRhTHD5T+CAZy/7kjyMDGffQquDyINuxvCDLdSWAM4JhuQB+7b+mlGhrq+VHUaqQnIZHSr0oFWIXij+xMePITPveP3cVz1crcKOI5MBPTjq+mmeUSM3L6INhmDqQ48kUHRW5u5ttx0xBc3caRzdvI/+OMxqLKUzF9DAAQIgmjK4Wlj8geI3uPgog5OZh9hVvzuOz+kSZwatHUa6cPwPI0mdY7M2d5u7ViGbWE5lg8eFgZF67OrYxiO/XjUY76etWKU6ojSVKjlfyctNlD8aSo+DTseeUbV1Fk4HaW2KwixhifXoir5l4XeZRs6n2tRxJbWXTDsQ2pM0F67MuPpeffyyngtNWGNVpjVrP8my/90HU2FhR8FZFVfCWKNkygAf1ko1c1wVcIV01FNdH8Cv9rOm5mOUhzeborYPKqfk8aXpm2q4l/gOLXdoArNHp/L1iOOyIDA5RwaAlxUsB6wQCxNdega32o3lVuc+bCI4BB5H9WULT9D75l8eDaO7E/XtLI=
 install:
   - pip install sphinx sphinx sphinxcontrib-napoleon sphinx_rtd_theme
 script:
@@ -14,6 +14,7 @@ script:
   - touch .nojekyll
 after_success:
   - cd ..
-  - ./push.sh
-notifications:
+  - echo $MY_SECRET_ENV
+  - "./push.sh"
+notifications: 
 email: false
