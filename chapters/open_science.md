@@ -155,81 +155,33 @@ Preserving privacy may still be possible if partial or generalised datasets are 
 
 ## Open Source software
 
-Materials used: [1.](https://elifesciences.org/articles/16800) **Attribution 4.0 International (CC BY 4.0)**
+Materials used: [1.](https://elifesciences.org/articles/16800) **Attribution 4.0 International (CC BY 4.0)** [2.](https://ben.balter.com/2015/11/23/why-open-source/) **CC BY 3.0**
 
 ### What is open source software?
 
-When a project is open source, that means anybody can view, use, modify, and distribute your project for any purpose. These permissions are enforced through an open source license. Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+When a project is open source, that means anybody can view, use, modify, and distribute your project for any purpose. These permissions are enforced through an open source license. Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly. In its most basic form open sourceing your software simply means putting your code online where it can be viewed and reused by others.
 
-In many scientific fields, widely used state-of-the-art data processing and analysis packages are hosted and developed openly, allowing virtually anyone to contribute. Perhaps the paradigmatic example is the scikit-learn Python package for machine learning (Pedregosa et al., 2011), which, in the space of just over five years, has attracted over 500 unique contributors, 20,000 individual code contributions, and 2,500 article citations. Producing a comparable package using a traditional closed-source approach would likely not be feasible, and would, at the very least, have required a budget of tens of millions of dollars. While scikit-learn is clearly an outlier, hundreds of other open-source scientific packages that support much more domain-specific needs depend in a similar fashion on unsolicited community contributions e.g., the NIPY group of projects in neuroimaging (Gorgolewski et al., 2016). Importantly, such contributions not only result in new functionality from which the broader scientific community can benefit, but also regularly provide their respective authors with greater community recognition, and lead to new project and employment opportunities.
+Many of the most widely used research software is open source. Perhaps the paradigmatic example is the scikit-learn Python package for machine learning (Pedregosa et al., 2011), which, in the space of just over five years, has attracted over 500 unique contributors, 20,000 individual code contributions, and 2,500 article citations. Producing a comparable package using a traditional closed-source approach would likely not be feasible, and would, at the very least, have required a budget of tens of millions of dollars. While scikit-learn is clearly an outlier, hundreds of other open-source scientific packages that support much more domain-specific needs depend in a similar fashion on unsolicited community contributions e.g., the NIPY group of projects in neuroimaging (Gorgolewski et al., 2016). Importantly, such contributions not only result in new functionality from which the broader scientific community can benefit, but also regularly provide their respective authors with greater community recognition, and lead to new project and employment opportunities.
+
+Researchers that make use of open source projects often make changes to them such as adding features they need for their own research, or fixing bugs. By then contributing these improvements back to the main project (as opposed to leaving them to collect metaphorical dust on their own computer where only they can make use of them) the entire research community can benefit.
+
+### How making your work open source benefits you
+
+### How contributing to open source projects benefits you
+
+### How open source software benefits science
 
 
-*Merge this bit into what it is*
-* **Free as in speech, not as in beer** - Open source software is not without cost. When open source software is called "free", it is a reference to the rights the software consumers receive, not the cost they must pay. Adobe's Flash player, for example, is free software in the economic sense, but is still at the core of proprietary (non-free) software (and formats). Specifically, [free software refers to four core freedoms](https://www.gnu.org/philosophy/free-sw.en.html): the freedom to run the software, the freedom to study and modify the software, the freedom to redistribute the software, and the freedom to distribute your modifications.
-
-
-
-
-### Why run/contribute to open source projects?
 
 Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
-
-[why open](https://ben.balter.com/2015/11/23/why-open-source/) **CC BY 3.0**
-
-### Microeconomic motivations
 
 * **Shift developers from low-value work to high-value work** - It is sometimes said that "all the easy problems have already been solved". Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few. While developers could spend their time reinventing wheels that the open source community have already perfected, it's far preferable to use the worlds best wheel, especially when that wheel comes at no cost to you. This frees researchers up to work on yet-unsolved challenges.
 * **Reduce duplication of effort** - You should focus on your core competency. What makes you unique or gives you an advantage? Everything else is the work everyone else is also doing, or put another way, the work you need to do so that you can do the work that you want to do. It doesn't have to be that way. Open source reduces duplication of efforts, both within an organization and across organizations, by allowing for individual components to be shared.
 
-{: .table style="width: 50%; margin-left: auto; margin-right: auto;" }
-
-* [**Given enough eyeballs, all bugs are shallow**](https://blogs.microsoft.com/cybertrust/2006/06/07/linuss-law-aka-many-eyes-make-all-bugs-shallow/) (Linus's Law) - [Empirically, open source tends to produce better quality software than its proprietary or alternative counterparts](http://www.dwheeler.com/oss_fs_why.html). When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code. If your project is open the number of potentially contributing developers and thus the potential knowledge pool is orders of magnitude larger.
-
-* **Force multiplier** - Wwhen communities form around shared challenges, the diversity of ideas that naturally emerges surfaces better solutions than if ideas could only come form you and those you are already collaborating with.
-
-Open source necessitates cleaner, more maintainable code. ["Even internal code should pretend to be open source code"](https://ben.balter.com/2012/06/26/why-you-should-always-write-software-as-open-source/).
-
-
-
-* **Great advertising** - Maintainers of successful open source projects are often seen as industry leaders, providing themselves with the ability to shape the conversation around a particular software problem and associating their brand with the preferred solution.    citations
-* **Demonstrate technical ability** - Technical interviews traditionally involve working on a simulated problem that can be tackled in a set amount of time with little additional context. Such simulations, by definition, aren't real world use cases, nor do they show what working with an applicant would be like. Open source provides visibility into both how a candidate solves problems, and how they work with others. You can hire much more confidently if, for the past six months, the candidate has been contributing to the project you want them work on, and you like their work. "\[T]he best technical interview possible is the one you don't have to do because the candidate is already kicking ass on one of your open source projects."
-
-### Macroeconomic motivations
-
-By combining and augmenting parallel or related efforts, open source makes a society more efficient at producing higher quality software:
-
-### Moral motivations
-
-The formal name for open source is [free/libre open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software). As such, open source motivations have a strong moral component:
-
-
-* **Obligation to give back** - Open source is the give-a-penny-take-a-penny jar of software. If you consume open source, be it a server, a desktop publishing application, or a software library, you have an obligation to give back to the community.    *Say feels good/valuable?*
-
-* **Governments should give what they've developed to the people who pay for their development** - Governments take money (taxes) to perform services for their populace. If the populace (we the people) are paying for the development of software, it stands to reason that we should receive what we paid to develop, including the software we paid to develop.
-
-
-### Transparency motivations
-
-Open source allows for greater transparency of process, whether that's the transparency necessary to check a government action or the quasi-governmental function of a private company's software.
-
-* **Showing your work** -
-
-### Participatory motivations
-
-* **Customer feedback** - Open source empowers consumers to have a combined, powerful voice in the private sector development process. The feedback the private company receives can go towards better informing product decisions and improve the overall product. Open source gives companies a direct line to their most passionate customers.
-
-### Personal motivations
-
-If you're a developer (or an aspiring developers), open source can provide an easy (and free) onramp to and path for personal growth within the software development community:
-* **Teaching the next generation** - Many great programmers today cut their teeth by learning from open source. When software's underlying code is made available for inspection, less experienced people can study and learn from it. This goes a long way to train the next generation of researchers.
-* **Learn to code** - Open source is a great way to learn how to code. Want to know how your favourite website works? Hitting "view source" in your web browser can go a long way to point you in the right direction. You can read the documentation of the software that powers it, and potentially even stand up your own clone. Want to learn more? Join the local meetup for the framework or language. Better still, submit a pull request to the project to fix a small bug or add a new feature. While there are certainly time and opportunity costs involved, all of this comes without any direct cost to the aspiring developer, at least not in terms of software, and is infinitely more inclusive than doing the same within a proprietary community, especially as an outsider. There's a reason nearly every coding school today outside of traditional academia teaches open source.
-
-* **It's fun** - Open source provides an endless set of ever-changing set of Rubix cubes for you to solve on weekends. Just like puzzles, both crossword and jigsaw, open source provides bite-sized intellectual escapes.
-
----
-
 #### Improve existing skills
 Whether it’s coding, user interface design, graphic design, writing, or organizing, if you’re looking for practice, there’s a task for you on an open source project.
+* **Learn to code** - Open source is a great way to learn how to code. Want to know how your favourite website works? Hitting "view source" in your web browser can go a long way to point you in the right direction. You can read the documentation of the software that powers it, and potentially even stand up your own clone. Want to learn more? Join the local meetup for the framework or language. Better still, submit a pull request to the project to fix a small bug or add a new feature. While there are certainly time and opportunity costs involved, all of this comes without any direct cost to the aspiring developer, at least not in terms of software, and is infinitely more inclusive than doing the same within a proprietary community, especially as an outsider. There's a reason nearly every coding school today outside of traditional academia teaches open source.
+Open source necessitates cleaner, more maintainable code.
 
 #### Meet people who are interested in similar things
 Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it’s running into each other at conferences or late night online chats about burritos.
@@ -237,14 +189,25 @@ Open source projects with warm, welcoming communities keep people coming back fo
 #### Find mentors and teach others
 Working with others on a shared project means you’ll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
 
-#### Build public artifacts that help you grow a reputation (and a career)
+#### For the sake of your project
+* **Great advertising** - Maintainers of successful open source projects are often seen as industry leaders, providing themselves with the ability to shape the conversation around a particular software problem and associating their brand with the preferred solution.    *citations*
+* **Customer feedback** - Open source empowers consumers to have a combined, powerful voice in the private sector development process. The feedback the private company receives can go towards better informing product decisions and improve the overall product. Open source gives companies a direct line to their most passionate customers.
+* **Showing your work** -
+* **Force multiplier** - Wwhen communities form around shared challenges, the diversity of ideas that naturally emerges surfaces better solutions than if ideas could only come form you and those you are already collaborating with.
+* [**Given enough eyeballs, all bugs are shallow**](https://blogs.microsoft.com/cybertrust/2006/06/07/linuss-law-aka-many-eyes-make-all-bugs-shallow/) (Linus's Law) - [Empirically, open source tends to produce better quality software than its proprietary or alternative counterparts](http://www.dwheeler.com/oss_fs_why.html). When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code. If your project is open the number of potentially contributing developers and thus the potential knowledge pool is orders of magnitude larger.
+
+#### Advance your career
 By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+* **Demonstrate technical ability** - Technical interviews traditionally involve working on a simulated problem that can be tackled in a set amount of time with little additional context. Such simulations, by definition, aren't real world use cases, nor do they show what working with an applicant would be like. Open source provides visibility into both how a candidate solves problems, and how they work with others. You can hire much more confidently if, for the past six months, the candidate has been contributing to the project you want them work on, and you like their work. "\[T]he best technical interview possible is the one you don't have to do because the candidate is already kicking ass on one of your open source projects."
+
+* **Governments should give what they've developed to the people who pay for their development** - Governments take money (taxes) to perform services for their populace. If the populace (we the people) are paying for the development of software, it stands to reason that we should receive what we paid to develop, including the software we paid to develop.
 
 #### Learn people skills
 Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
 
 #### It’s empowering to be able to make changes, even small ones
 You don’t have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+* **It's fun** - Open source provides an endless set of ever-changing set of Rubix cubes for you to solve on weekends. Just like puzzles, both crossword and jigsaw, open source provides bite-sized intellectual escapes.
 
 ### How to run your own open source project
 
