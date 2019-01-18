@@ -12,5 +12,5 @@ We recommend doing this using
 ---
 __Update__
 
-## Add labels
-Please choose the appropriate label(s) from our existing label list to ensure that your issue is properly categorized. This will help us to better understand and address your issue.
+## Labels
+Not everyone will have contributing rights to add labels. Thus someone from the core project team will choose the appropriate label(s) from our existing label list to ensure that your issue is properly categorized.
