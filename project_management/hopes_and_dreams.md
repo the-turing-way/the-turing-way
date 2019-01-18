@@ -1,7 +1,7 @@
 This document collects hopes and dreams of potential users of the handbook. The feedback is collected via several events or one to one interactions of the projecty team members.
 
 # :pizza: Pizza Party :pizza:
-## Turning Institute, 22nd November 2018
+## Turing Institute, 22nd November 2018
 
 - Choose a good IDE with debugger, Git. ok integration, learn to use it fully, is worth it!
 - Difference between software & repo code with data
@@ -17,3 +17,14 @@ This document collects hopes and dreams of potential users of the handbook. The 
 - How to do reproducible research with data that can never be shared (e.g. health data)?
 - Mentoring community around manual (e.g. build connections with experts as incentive)
 - Maths and stats doesn't have a framework for sharing beyond papers (at least not obviously)
+
+# :pizza: Pizza Party 2 :pizza:
+## Turing Institute, 15th January 2019
+
+* model structure for maintaining GitHub repositories (scaffold)
+* best practice, e.g. I wish I had known about version control, Docker, Binder, etc. at the beginning of my PhD rather than spending a lot of time now reproducing it
+* (some of it) accessible to humanities/social sci scholars  
+  * case studies/interviews w/ HSS researchers  
+  * horror stories  
+  * new user friendly  
+  * clear requirements  
