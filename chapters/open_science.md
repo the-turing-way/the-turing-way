@@ -165,7 +165,7 @@ Many of the most widely used research software is open source. Perhaps the parad
 
 Researchers that make use of open source projects often make changes to them such as adding features they need for their own research, or fixing bugs. They can then contribute these improvements back to the main project
 
-### How open source benefits you
+### How running and contributing to open source software projects benefits you
 
 - Improve existing skills
 Whether it’s coding, user interface design, graphic design, writing, or organizing, if you’re looking for practice, there’s a task for you on an open source project. **Learn to code** - Open source is a great way to learn how to code. Want to know how your favourite website works? Hitting "view source" in your web browser can go a long way to point you in the right direction. You can read the documentation of the software that powers it, and potentially even stand up your own clone. Want to learn more? Join the local meetup for the framework or language. Better still, submit a pull request to the project to fix a small bug or add a new feature. While there are certainly time and opportunity costs involved, all of this comes without any direct cost to the aspiring developer, at least not in terms of software, and is infinitely more inclusive than doing the same within a proprietary community, especially as an outsider. There's a reason nearly every coding school today outside of traditional academia teaches open source.
@@ -180,18 +180,16 @@ Working with others on a shared project means you’ll have to explain how you d
 
 - Advance your career
 By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
-* **Demonstrate technical ability** - Technical interviews traditionally involve working on a simulated problem that can be tackled in a set amount of time with little additional context. Such simulations, by definition, aren't real world use cases, nor do they show what working with an applicant would be like. Open source provides visibility into both how a candidate solves problems, and how they work with others. You can hire much more confidently if, for the past six months, the candidate has been contributing to the project you want them work on, and you like their work. "\[T]he best technical interview possible is the one you don't have to do because the candidate is already kicking ass on one of your open source projects."
+- **Demonstrate technical ability** - Technical interviews traditionally involve working on a simulated problem that can be tackled in a set amount of time with little additional context. Such simulations, by definition, aren't real world use cases, nor do they show what working with an applicant would be like. Open source provides visibility into both how a candidate solves problems, and how they work with others. You can hire much more confidently if, for the past six months, the candidate has been contributing to the project you want them work on, and you like their work. "\[T]he best technical interview possible is the one you don't have to do because the candidate is already kicking ass on one of your open source projects."
 
 
 #### Making your own work open source
 
-* **Customer feedback** - Open source empowers consumers to have a combined, powerful voice in the private sector development process. The feedback the private company receives can go towards better informing product decisions and improve the overall product. Open source gives companies a direct line to their most passionate customers.
-* **Showing your work** -
-* **Force multiplier** - Wwhen communities form around shared challenges, the diversity of ideas that naturally emerges surfaces better solutions than if ideas could only come form you and those you are already collaborating with.
-* [**Given enough eyeballs, all bugs are shallow**](https://blogs.microsoft.com/cybertrust/2006/06/07/linuss-law-aka-many-eyes-make-all-bugs-shallow/) (Linus's Law) - [Empirically, open source tends to produce better quality software than its proprietary or alternative counterparts](http://www.dwheeler.com/oss_fs_why.html). When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code. If your project is open the number of potentially contributing developers and thus the potential knowledge pool is orders of magnitude larger.
-
-#### For the sake of your project
-* **Great advertising** - Maintainers of successful open source projects are often seen as industry leaders, providing themselves with the ability to shape the conversation around a particular software problem and associating their brand with the preferred solution.    *citations*
+- **Customer feedback** - Open source empowers consumers to have a combined, powerful voice in the private sector development process. The feedback the private company receives can go towards better informing product decisions and improve the overall product. Open source gives companies a direct line to their most passionate customers.
+- **Showing your work** -
+- **Force multiplier** - Wwhen communities form around shared challenges, the diversity of ideas that naturally emerges surfaces better solutions than if ideas could only come form you and those you are already collaborating with.
+- [**Given enough eyeballs, all bugs are shallow**](https://blogs.microsoft.com/cybertrust/2006/06/07/linuss-law-aka-many-eyes-make-all-bugs-shallow/) (Linus's Law) - [Empirically, open source tends to produce better quality software than its proprietary or alternative counterparts](http://www.dwheeler.com/oss_fs_why.html). When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code. If your project is open the number of potentially contributing developers and thus the potential knowledge pool is orders of magnitude larger.
+- **Great advertising** - Maintainers of successful open source projects are often seen as industry leaders, providing themselves with the ability to shape the conversation around a particular software problem and associating their brand with the preferred solution.    *citations*
 
 
 
@@ -211,7 +209,7 @@ You don’t have to become a lifelong contributor to enjoy participating in open
 
 There is also an argument that any software developed using government money should be open source by default- if the public has paid for its development they have a right to make use of it.
 
-#### Learn people skills
+- Learn people skills
 Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
 
 
@@ -331,13 +329,9 @@ Finally, open source projects use the following tools to organize discussion. Re
 
 #### Find a project to contribute to
 
-If you’ve never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, “Ask not what your country can do for you - ask what you can do for your country.”
-
-Contributing to open source happens at all levels, across projects. You don’t need to overthink what exactly your first contribution will be, or how it will look.
+You don’t need to overthink what exactly your first contribution will be, or how it will look.
 Instead, start by thinking about the projects you already use, or want to use. The projects you’ll actively contribute to are the ones you find yourself coming back to.
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
-
-Open source isn’t an exclusive club; it’s made by people just like you. “Open source” is just a fancy term for treating the world’s problems as fixable. You might scan a README and find a broken link or a typo. Or you’re a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That’s what open source is all about!
+Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct. You might scan a README and find a broken link or a typo. Or you’re a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That’s what open source is all about!
 
 You can also use one of the following resources to help you discover and contribute to new projects:
 
@@ -350,31 +344,30 @@ Materials used: [1.](https://opensource.guide/)
 
 ## Open Access
 
-[About open access](https://opensource.com/resources/what-open-access) **Attribution-ShareAlike 4.0 International**
+Materials used: [1.](https://opensource.com/resources/what-open-access) **Attribution-ShareAlike 4.0 International** [2.](http://www.righttoresearch.org/learn/whyOA/index.shtml) **Creative Commons Attribution 3.0 License**
 
-Open access refers to the practice of making peer-reviewed scholarly research and literature freely available online to anyone interested in reading it. Open access has two different versions—gratis and libre.
+### What is open access?
+
+Open access refers to the practice of making peer-reviewed scholarly research and literature available online to anyone interested in reading it, free of charge by any user, with no technical obstacles \(such as mandatory registration or login to specific platforms\).. Open access has two different versions—gratis and libre.
 
 Gratis open access is simply making research available for others to read without having to pay for it. However, it does not grant the user the right to make copies, distribute, or modify the work in any way beyond fair use. Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users additional rights, usually via a Creative Commons license, so that people are free to reuse and remix the research. There are varying degrees of what may be considered Libre open access. For example, some scholarly articles may permit all uses except commercial use, some may permit all uses except derivative works, and some may permit all uses and simply require attribution. While some would argue that Libre open access should be free of any copyright restrictions (except attribution), other scholars consider a work that removes at least some permission barriers to be libre.
 
-In addition to the gratis/libre distinction regarding users’ rights to a work, there are also distinctions regarding the venue in which open access works are published and archived—green and gold. Green open access involves authors self-archiving their articles by sharing them on their own website, or more preferably, in their institution's Institutional Repository or in some other public archive. Gold open access articles are published in a journal that is open access, which means the journal will handle hosting and distributing the journal article in a free and open manner. Gold open access can come with a cost—some gold open access journals have publication fees that need to paid by the author (or the author's employer) to cover the cost of publishing the article. These publication fees can be costly, but thankfully less than a third of gold open access journals have a publication fee. Currently, most Gold open access journals are still publishing gratis (free of charge to read) as opposed to libre (free of charge to read, copy, distribute, etc).
+In addition to the gratis/libre distinction regarding users’ rights to a work, there are also distinctions regarding the venue in which open access works are published and archived—green and gold. Green open access involves authors self-archiving their articles by sharing them on their own website, or more preferably, in their institution's Institutional Repository or in some other public archive. Some publishers request that Open Access be granted only after an embargo period has elapsed. This embargo period can last anywhere between several months and several years. For publications that have been deposited in a repository but are under embargo, usually at least the metadata are openly accessible.
 
-Why does open access matter?
-New knowledge is built by synthesizing current scholarship and then building upon it. If the current scholarship is behind a pay-wall, only those who can afford access can truly contribute to moving our knowledge of a subject forward. Non-Open Access Academic journals can be very expensive, making scholarly research a costly undertaking for someone with a limited research budget. Academic libraries have subscriptions to a large number of scholarly journals, and many allow members of the local community to access the library's journals if they visit the library in person, but the ever rising costs of journal subscriptions is a burden on libraries' budgets. A single institution's annual subscription can cost university libraries anywhere from $5,000 to $600,000. Instead of being stuck behind a paywall imposed by often exorbitant subscription prices, Open Access research can be read by anyone with access to the Internet. Open Access levels the playing field so that an independent scholar, an adjunct faculty member at a small college, and a tenured faculty member at a major research university have the same level of access.
+Gold open access articles are published in a journal that is open access, which means the journal will handle hosting and distributing the journal article in a free and open manner, and the published work is made available in Open Access mode by the publisher immediately upon publication. Gold open access can come with a cost—some gold open access journals have publication fees that need to paid by the author (or the author's employer) to cover the cost of publishing the article. These publication fees can be costly, but thankfully less than a third of gold open access journals have a publication fee. Currently, most Gold open access journals are still publishing gratis (free of charge to read) as opposed to libre (free of charge to read, copy, distribute, etc).
 
-Who benefits from open access?
-Scholars, students, and the general public benefit from open access. It can help save a language or index North American archaeological data. If you are interested in dinosaurs, open access provides you with information about the most newly-discovered dinosaur species. Open access means that professors and students can access a larger body of research without having to wait for (possibly lengthy) inter-library loan requests. And open access is not just beneficial to academia. If your local elected officials have access to studies about how things worked or did not work in another city, they can make more informed policy decisions. If your healthcare provider can freely read the latest medical research, they can provide you with more up-to-date medical advice and treatments. Really, everyone benefits from open access policies.
+### Why does open access matter?
 
-What can I do to encourage open access?
-Anyone can help raise awareness by installing the open access button in their web browser and sharing it via social media. Open Access Week is an international event that occurs online, in late October every year. It offers ideas for students, researchers, funders, administrators, librarians, and others to connect and show their support for open access. It is a good opportunity to learn more about open access and to share with others.
+New knowledge is built by synthesizing current scholarship and then building upon it. If the current scholarship is behind a pay-wall, only those who can afford access can truly contribute to moving our knowledge of a subject forward. Open Access research can be read by anyone with access to the Internet meaning researchers can make use of as wide a variety of sources as possible. This benefits researchers who can work more effectively with a better understanding of the literature. It also benefits science by allowing ideas to be transferred more easily. Finally, if research is available to the widest possible pool of readers then it is more likely/easy for it to be checked and reproduced.  
 
-If you are a scholar, consider submitting your work to a journal that is open access. If you are doing research about open source, there are several open access journals to choose from. For the life sciences, F1000Research is an excellent choice and is quite innovative. Also, the journal Nature Methods has recently embraced openness in a big way. If none of those are a match for your research, you can explore the Directory of Open Access Journals to find the right journal for you. If you cannot find a journal that is right for you, please consider self-archiving by adding your journal article to your institution's open access Institutional Repository. And if your institution does not have an institutional repository, advocate for the creation of one.
----
 
-[Open access](http://www.righttoresearch.org/learn/whyOA/index.shtml) **Creative Commons Attribution 3.0 License**
 
-Open Access seeks to return scholarly publishing to its original purpose: to spread knowledge and allow that knowledge to be built upon.  Price barriers should not prevent students (or anyone) from getting access to research they need.  Open Access, and the open availability and searchability of scholarly research that it entails, will have a significant positive impact on everything from education to the practice of medicine to the ability of entrepreneurs to innovate.  
+### Best practice for open access
 
-Developing countries are home to the same groups that require access to research in order to thrive (students, researchers, doctors, etc), but they often face much steeper access barriers.  While many institutions in the developed world can afford journal budgets of several million or more dollars, institutions in developing countries must make do with a fraction of that budget.
+If you are a scholar, consider submitting your work to a journal that is open access. Consider self-archiving by adding your journal article to your institution's open access Institutional Repository. And if your institution does not have an institutional repository, advocate for the creation of one.
+
+
+
 
 #### Researchers
 
@@ -416,13 +409,7 @@ Researching beyond the degree: many students, especially on the graduate level, 
 
 [Open access](https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-access-to-published-research-results) **CC0 1.0 Universal**
 
-#### What is it?
 
-Open Access to publications means that research publications like articles and books can be accessed online, free of charge by any user, with no technical obstacles \(such as mandatory registration or login to specific platforms\). At the very least, such publications can be read online, downloaded and printed. Ideally, additional rights such as the right to copy, distribute, search, link, crawl and mine should also be provided. Open Access can be realised through two main non-exclusive routes:
-
-* Green Open Access \(self-archiving\): The published work or the final peer-reviewed manuscript that has been accepted for publication is made freely and openly accessible by the author, or a representative, in an online repository. Some publishers request that Open Access be granted only after an embargo period has elapsed. This embargo period can last anywhere between several months and several years. For publications that have been deposited in a repository but are under embargo, usually at least the metadata are openly accessible.
-
-* Gold Open Access \(Open Access publishing\): The published work is made available in Open Access mode by the publisher immediately upon publication. The most common business model is based on one-off payments by authors \(commonly called APCs – article processing charges – or BPCs – book processing charges\). Where Open Access content is combined with content that requires a subscription or purchase, in particular in the context of journals, conference proceedings and edited volumes, this is called hybrid Open Access.
 
 #### Rationale
 
