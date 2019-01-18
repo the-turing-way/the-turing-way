@@ -15,7 +15,7 @@ detailed for our purposes but feels like useful reading for background knowledge
 
 - Binder team's NeurIPS presentations https://twitter.com/choldgraf/status/1071092064421470208 and https://bit.ly/binder-neurips-2018
 
-## Reproducibiliy material
+## Reproducibility material
 - Alan Turing Institute Symposium on Reproducibility for Data-Intensive Research: https://osf.io/bcef5 (especially the provenance part)
 - ACM task force/guidelines on reproducibility https://www.acm.org/publications/task-force-on-data-software-and-reproducibility and  https://www.acm.org/publications/policies/artifact-review-badging
 - Reprodcucibility badges for conferences: http://sigmod2019.org/sigmodcfp
