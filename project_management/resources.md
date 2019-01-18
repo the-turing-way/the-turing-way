@@ -20,3 +20,4 @@ detailed for our purposes but feels like useful reading for background knowledge
 - ACM task force/guidelines on reproducibility https://www.acm.org/publications/task-force-on-data-software-and-reproducibility and  https://www.acm.org/publications/policies/artifact-review-badging
 - Reprodcucibility badges for conferences: http://sigmod2019.org/sigmodcfp
 - Reproducibility of Sicnetific Results: https://plato.stanford.edu/entries/scientific-reproducibility/
+- How To Make Your Data Analysis Notebooks More Reproducible https://github.com/karthik/rstudio2019
