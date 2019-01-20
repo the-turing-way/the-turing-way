@@ -155,7 +155,7 @@ Preserving privacy may still be possible if partial or generalised datasets are 
 
 ## Open Source software
 
-Materials used: [1.](https://elifesciences.org/articles/16800) **Attribution 4.0 International (CC BY 4.0)** [2.](https://ben.balter.com/2015/11/23/why-open-source/) **CC BY 3.0**
+Materials used: [1.](https://elifesciences.org/articles/16800) **Attribution 4.0 International (CC BY 4.0)** [2.](https://ben.balter.com/2015/11/23/why-open-source/) **CC BY 3.0** [3.](https://opensource.guide/starting-a-project/) **(CC BY 4.0)**
 
 ### What is open source software?
 
@@ -216,13 +216,11 @@ Open source offers opportunities to practice leadership and management skills, s
 
 ### How to run your own open source project
 
-You can open source an idea, a work in progress, or after years of being closed source. At the most basic level all you need to do is but your code online somewhere that is likely to last a long time. A popular place to do this GitHub (see the chapter on version control).
+You can open source an idea, a work in progress, or after years of being closed source. At the most basic level all you need to do is but your code online somewhere that is likely to last a long time. A popular place to do this GitHub (see the chapter on version control). You must include a license file stating that anyone has permission to use, copy and modify your work. Without this no one can legaly use your work and so it isn't open source. [This](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project. There are also a few other files you should include:
 
-You MUST include a license file stating that anyone has permission to use, copy and modify your work. Without this no one can legaly use your work and so it isn't open source. [This](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project.
+#### Readme
 
-You SHOULD include a readme file where you include useful information about what the project is, how to use it and how to contribute to it. Switching between projects in your work is common, let alone that you might need to poke at your own previous projects from time to time. This information will also assist you collaborators, and your future employer might want to check your existing GitHub projects.
-
-Here's a list of the main things a readme should include:
+You should include a readme file where you include useful information about what the project is, how to use it and how to contribute to it. Here's a list of the main things a readme should include:
 
 - The project name and what it is. This will greatly help someone that comes across it to get an idea of the project. Include a few key points that describe the main features of the project and what are the main features you're implementing.
 This helps to quickly compare other projects with yours and to give an idea that why the project exists in the first place.
@@ -233,42 +231,29 @@ The best thing you can do is to just write up the installation instructions when
 - List of authors/contributors to the project, possibly with contact information
 - Acknowledgements
 
-If you intend for other people to collaborate on your project (as opposed to just making your code available and considering it complete) then you SHOULD include contributing guidelines and most likely a code of conduct.
+If you intend for other people to collaborate on your project (as opposed to just making your code available and considering it complete) then you should include contributing guidelines and most likely a code of conduct.
 
-Writing your contributing guidelines
-A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
+#### Contributing guidelines
 
-How to file a bug report (try using issue and pull request templates)
-How to suggest a new feature
-How to set up your environment and run tests
-In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
+Contributing guidelines tell your audience how to participate in your project. For example, you might include information on:
 
-The types of contributions you’re looking for
-Your roadmap or vision for the project
-How contributors should (or should not) get in touch with you
-Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+- How to file a bug report (try using issue and pull request templates)
+- How to suggest a new feature
+- How to set up your environment and run tests
+- Your roadmap or vision for the project
+- How contributors should (or should not) get in touch with you
 
-For example, Active Admin starts its contributing guide with:
+Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate. For example, Active Admin starts its contributing guide with: "First off, thank you for considering contributing to Active Admin. It’s people like you that make Active Admin such a great tool."
 
-First off, thank you for considering contributing to Active Admin. It’s people like you that make Active Admin such a great tool.
+In the earliest stages of your project, your contributing guidelines file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution. Over time, you might add other frequently asked questions here or in your readme file. Writing down this information means fewer people will ask you the same questions over and over again. It's also a good idea to link to your contributing guidelines file from your readme, so more people see it.
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+#### Code of conduct
 
-Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+A code of conduct helps set ground rules for behaviour for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behaviour, which will reduce your stress as a maintainer. In addition to communicating how you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
 
-For more help with writing your CONTRIBUTING file, check out @nayafia’s contributing guide template or @mozilla’s “How to Build a CONTRIBUTING.md”.
+Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters). No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
 
-Link to your CONTRIBUTING file from your README, so more people see it. If you place the CONTRIBUTING file in your project’s repository, GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
-
-Finally, a code of conduct helps set ground rules for behaviour for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behaviour, which will reduce your stress as a maintainer.
-
-For more information, check out our [Code of Conduct guide](../code-of-conduct/).
-
-In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
-
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
-
-Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
+Keep the file in your project's root directory so it's easy to find, and link to it from your readme.
 
 [Doing your own open source](https://opensource.guide/starting-a-project/) **(CC BY 4.0)**
 
