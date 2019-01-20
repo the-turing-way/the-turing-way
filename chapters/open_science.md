@@ -344,13 +344,16 @@ Materials used: [1.](https://opensource.guide/)
 
 ## Open Access
 
-Materials used: [1.](https://opensource.com/resources/what-open-access) **Attribution-ShareAlike 4.0 International** [2.](http://www.righttoresearch.org/learn/whyOA/index.shtml) **Creative Commons Attribution 3.0 License**
+Materials used: [1.](https://opensource.com/resources/what-open-access) **Attribution-ShareAlike 4.0 International** [2.](http://www.righttoresearch.org/learn/whyOA/index.shtml) **Creative Commons Attribution 3.0 License** [3.](https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-access-to-published-research-results) **CC0 1.0 Universal**
+
 
 ### What is open access?
 
-Open access refers to the practice of making peer-reviewed scholarly research and literature available online to anyone interested in reading it, free of charge by any user, with no technical obstacles \(such as mandatory registration or login to specific platforms\).. Open access has two different versions—gratis and libre.
+One of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public under a payment by means of a subscription fee or individually. However, at the turn of the 21st century a new movement appeared with a clear objective: make all the research results available to anyone interested in reading it, free of charge by any user, with no technical obstacles such as mandatory registration or login to specific platforms. This movement took the name of Open Access and established two initial strategies to achieve its final goal.
 
-Gratis open access is simply making research available for others to read without having to pay for it. However, it does not grant the user the right to make copies, distribute, or modify the work in any way beyond fair use. Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users additional rights, usually via a Creative Commons license, so that people are free to reuse and remix the research. There are varying degrees of what may be considered Libre open access. For example, some scholarly articles may permit all uses except commercial use, some may permit all uses except derivative works, and some may permit all uses and simply require attribution. While some would argue that Libre open access should be free of any copyright restrictions (except attribution), other scholars consider a work that removes at least some permission barriers to be libre.
+The first strategy was to provide tools and assistance to scholars to deposit their refereed journal articles in open electronic repositories.  As a result of the first strategy we see self-archiving practices: researchers depositing and disseminating papers in institutional or subject based repositories. There has also been a growth in the publication of preprints through institutional repositories and preprint servers. Preprints are widely used in physical sciences and now emerging in life sciences and other fields. Preprints are documents that have not been peer reviewed but are considered as a complete scientific publication in a first stage. Some of the preprints servers include open peer review services and the availability to post new versions of the initial paper once reviewed by peers.
+
+The second strategy was to ensure permanent open access to all the articles published in journals. And as a result of the second strategy we have seen the creation of the open access journals (or movement towards openness from re-existing ones) that provide free access to readers and allow reuse of their contents without almost any restriction. Open access publishing has two different versions—gratis and libre. Gratis open access is simply making research available for others to read without having to pay for it. However, it does not grant the user the right to make copies, distribute, or modify the work in any way beyond fair use. Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users additional rights, usually via a Creative Commons license, so that people are free to reuse and remix the research. There are varying degrees of what may be considered Libre open access. For example, some scholarly articles may permit all uses except commercial use, some may permit all uses except derivative works, and some may permit all uses and simply require attribution. While some would argue that Libre open access should be free of any copyright restrictions (except attribution), other scholars consider a work that removes at least some permission barriers to be libre.
 
 In addition to the gratis/libre distinction regarding users’ rights to a work, there are also distinctions regarding the venue in which open access works are published and archived—green and gold. Green open access involves authors self-archiving their articles by sharing them on their own website, or more preferably, in their institution's Institutional Repository or in some other public archive. Some publishers request that Open Access be granted only after an embargo period has elapsed. This embargo period can last anywhere between several months and several years. For publications that have been deposited in a repository but are under embargo, usually at least the metadata are openly accessible.
 
@@ -358,24 +361,17 @@ Gold open access articles are published in a journal that is open access, which 
 
 ### Why does open access matter?
 
-New knowledge is built by synthesizing current scholarship and then building upon it. If the current scholarship is behind a pay-wall, only those who can afford access can truly contribute to moving our knowledge of a subject forward. Open Access research can be read by anyone with access to the Internet meaning researchers can make use of as wide a variety of sources as possible. This benefits researchers who can work more effectively with a better understanding of the literature. It also benefits science by allowing ideas to be transferred more easily. Finally, if research is available to the widest possible pool of readers then it is more likely/easy for it to be checked and reproduced.  
+New knowledge is built by synthesizing current scholarship and then building upon it. Research is useless if it’s not shared: even the best research is ineffectual if others aren’t able to read and build on it.  When price barriers keep articles locked away, science cannot achieve its full potential. Open Access research can be read by anyone with access to the Internet meaning researchers can make use of as wide a variety of sources as possible. This benefits researchers who can work more effectively with a better understanding of the literature. It also helps avoid duplication of effort. No researcher (or funder) wants to waste time and money conducting a study if they know it has been attempted elsewhere. But, duplication of effort is all-too-possible when researchers can’t effectively communicate with one another and make results known to others in their field and beyond.
+
+
+It also benefits science by allowing ideas to be transferred more easily. Finally, if research is available to the widest possible pool of readers then it is more likely/easy for it to be checked and reproduced.  
 
 
 
-### Best practice for open access
-
-If you are a scholar, consider submitting your work to a journal that is open access. Consider self-archiving by adding your journal article to your institution's open access Institutional Repository. And if your institution does not have an institutional repository, advocate for the creation of one.
-
-
-
-
-#### Researchers
+#### Benefits to researchers
 
 Better visibility and higher impact for your scholarship: Studies have shown a significant increase in citations when articles are made openly available.  Below is a chart from a recent summary analysis that shows the Open Access citation advantage in different fields2:
 
-Avoiding duplication: no researcher wants to waste time and money conducting a study if they know it has been attempted elsewhere. But, duplication of effort is all-too-possible when researchers can’t effectively communicate with one another and make results known to others in their field and beyond.
-
-Research is useless if it’s not shared: even the best research is ineffectual if others aren’t able to read and build on it.  When price barriers keep articles locked away, science cannot achieve its full potential.
 
 
 #### The public
@@ -386,20 +382,15 @@ Taxpayers who pay for much of the research published in journals have a right to
 
 #### Publishers
 
-Demonstrated benefits: numerous publishers, both non-profit and for-profit, voluntarily make their articles openly available at the time of publication or within 6-12 months.  Many have switched from a closed, subscription model to an open one as a strategic business decision to increase their journal's exposure and impact, and have done so with great success5.
+Demonstrated benefits: numerous publishers, both non-profit and for-profit, voluntarily make their articles openly available at the time of publication or within 6-12 months.  Many have switched from a closed, subscription model to an open one as a strategic business decision to increase their journal's exposure and impact, and have done so with great success.
+
+
+
+### Best practice for open access
+
+If you are a scholar, consider submitting your work to a journal that is open access. Consider self-archiving by adding your journal article to your institution's open access Institutional Repository. And if your institution does not have an institutional repository, advocate for the creation of one.
 
 ---
-
-[Open access](https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-access-to-published-research-results) **CC0 1.0 Universal**
-
-
-
-#### Rationale
-
-One of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public under a payment by means of a subscription fee or individually. However, at the turn of the 21st century a new movement appeared with a clear objective: make all the research results available to the public without any restriction. This movement took the name of Open Access and established two initial strategies to achieve its final goal. The first strategy was to provide tools and assistance to scholars to deposit their refereed journal articles in open electronic repositories. The second one was to launch a new generation of journals using copyright and other tools to ensure permanent open access to all the articles they publish. As a result of the first strategy we see self-archiving practices: researchers depositing and disseminating papers in institutional or subject based repositories. And as a result of the second strategy we have seen the creation of the open access journals that provide free access to readers and allow reuse of their contents without almost any restriction.
-
-We have seen the growth of new methods of dissemination. Among them, we find the publication of preprints through institutional repositories and preprint servers. Preprints are widely used in physical sciences and now emerging in life sciences and other fields. Preprints are documents that have not been peer reviewed but are considered as a complete scientific publication in a first stage. Some of the preprints servers include open peer review services and the availability to post new versions of the initial paper once reviewed by peers.
-The choice of a journal or a publishing platform may affect the availability and accessibility of the research results. There are several options for researchers when deciding where, when, and how to publish their findings. It is fundamental to know all the implications to avoid future problems.
 
 **Repositories and self-archiving**
 
