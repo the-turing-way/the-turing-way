@@ -259,35 +259,9 @@ Keep the file in your project's root directory so it's easy to find, and link to
 
 ### How to contribute to other's open source projects
 
-- Find an open issue to tackle
-- Ask if you can help write a new feature
-- Automate project setup
-- Improve tooling and testing
-- Review code on other people’s submissions
-- Write tutorials for how a project can be used
+#### Anatomy of an open source project
 
-You don’t have to contribute code
-A common misconception about contributing to open source is that you need to contribute code. In fact, it’s often the other parts of a project that are most neglected or overlooked. You’ll do the project a huge favour by offering to pitch in with these types of contributions!
-
-- Write and improve the project’s documentation
-- Curate a folder of examples showing how the project is used
-- Start a newsletter for the project, or curate highlights from the mailing list
-- Link to duplicate issues, and suggest new issue labels, to keep things organized
-- Go through open issues and suggest closing old ones, like @nzakas did for ESLint
-- Ask clarifying questions on recently opened issues to move the discussion forward
-- Answer questions about the project on e.g., Stack Overflow (like this Postgres example) or Reddit
-- Answer questions for people on open issues
-
-For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they’ll probably look at you a little strangely.
-
-Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
-
-Anatomy of an open source project
-Every open source community is different.
-
-Spending years on one open source project means you’ve gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
-
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+Every open source community is different. That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
 
 A typical open source project has the following types of people:
 
@@ -296,33 +270,43 @@ A typical open source project has the following types of people:
 - Maintainers: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
 - Contributors: Everyone who has contributed something back to the project.
 - Community Members: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
--
+
 Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project’s website for a “team” page, or in the repository for governance documentation, to find this information.
 
-A project also has documentation. These files are usually listed in the top level of a repository.
-
-- LICENSE: By definition, every open source project must have an open source license. If the project does not have a license, it is not open source.
-- CONTRIBUTING: Whereas READMEs help people use the project, contributing docs help people contribute to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
-- CODE_OF_CONDUCT: The code of conduct sets ground rules for participants’ behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-- Other documentation: There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+A great many open source projects are hosted on GitHub (see the chapter on version control for more detail), which has facilities such as:
 
 - Issue tracker: Where people discuss issues related to the project.
 - Pull requests: Where people discuss and review changes that are in progress.
 - Discussion forums or mailing lists: Some projects may use these channels for conversational topics (for example, “How do I…“ or “What do you think about…“ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 - Synchronous chat channel: Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
 
-#### Find a project to contribute to
+#### Add in stuff you've already done
 
-You don’t need to overthink what exactly your first contribution will be, or how it will look.
-Instead, start by thinking about the projects you already use, or want to use. The projects you’ll actively contribute to are the ones you find yourself coming back to.
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct. You might scan a README and find a broken link or a typo. Or you’re a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That’s what open source is all about!
+
+
+#### Looking for projects to contribute to and how to contribute to them
+
+You don’t need to overthink what exactly your first contribution will be, or how it will look. Instead, start by thinking about the projects you already use, or want to use. The projects you’ll actively contribute to are the ones you find yourself coming back to. Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct. You might scan a readme and find a broken link or a typo. Or you’re a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That’s what open source is all about!
 
 You can also use one of the following resources to help you discover and contribute to new projects:
 
 - [Open Source Friday](https://opensourcefriday.com/)
 - [First Timers Only](https://www.firsttimersonly.com/)
 - [CodeTriage](https://www.codetriage.com/)
+
+If you're not sure how to start here's a few other ways you can go about it such as finding an open issue to tackle or asking if you can help write a new feature.
+
+A common misconception about contributing to open source is that you need to contribute code. In fact, it’s often the other parts of a project that are most neglected or overlooked. You’ll do the project a huge favour by offering to pitch in with these types of contributions!
+
+- Review code on other people’s submissions
+- Write and improve the project’s documentation
+- Curate a folder of examples showing how the project is used
+- Answer questions about the project on e.g., Stack Overflow (like this Postgres example) or Reddit
+- Keep things organized, e.g. on GitHub by
+ - Linking to duplicate issues
+ - Suggesting new issue labels
+ - Going through open issues and suggesting closing old ones
+ - Ask clarifying questions on recently opened issues to move the discussion forward
 
 Materials used: [1.](https://opensource.guide/)
 
