@@ -349,7 +349,7 @@ Materials used: [1.](https://opensource.com/resources/what-open-access) **Attrib
 
 ### What is open access?
 
-One of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public under a payment by means of a subscription fee or individually. However, at the turn of the 21st century a new movement appeared with a clear objective: make all the research results available to anyone interested in reading it, free of charge by any user, with no technical obstacles such as mandatory registration or login to specific platforms. This movement took the name of Open Access and established two initial strategies to achieve its final goal: self archiving and open access publishing.
+One of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public under a payment by means of a subscription fee or individually. However, new knowledge is built by synthesizing current scholarship and then building upon it. At the turn of the 21st century a new movement appeared with a clear objective: make all the research results available to anyone interested in reading it, free of charge by any user, with no technical obstacles such as mandatory registration or login to specific platforms. This movement took the name of Open Access and established two initial strategies to achieve its final goal: self archiving and open access publishing.
 
 #### Repositories and self archiving
 
@@ -370,7 +370,7 @@ This attempts to ensure permanent open access to all the articles published in j
 
 Currently many paywalled journals offer individual open access options to researchers once the paper is accepted after peer review. Those options include the publication under a free content license and free accessibility to anyone since its first publication. This model is commonly known as the hybrid model because in the same issue of a journal, readers can find open access and paywalled contributions. Usually publishers ask for a fee to open individual contributions.
 
- Open access publishing has two primary versions—gratis and libre. Gratis open access is simply making research available for others to read without having to pay for it. However, it does not grant the user the right to make copies, distribute, or modify the work in any way beyond fair use. Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users additional rights, usually via a Creative Commons license, so that people are free to reuse and remix the research. There are varying degrees of what may be considered Libre open access. For example, some scholarly articles may permit all uses except commercial use, some may permit all uses except derivative works, and some may permit all uses and simply require attribution. While some would argue that Libre open access should be free of any copyright restrictions (except attribution), other scholars consider a work that removes at least some permission barriers to be libre.
+Open access publishing has two primary versions—gratis and libre. Gratis open access is simply making research available for others to read without having to pay for it. However, it does not grant the user the right to make copies, distribute, or modify the work in any way beyond fair use. Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users additional rights, usually via a Creative Commons license, so that people are free to reuse and remix the research. There are varying degrees of what may be considered Libre open access. For example, some scholarly articles may permit all uses except commercial use, some may permit all uses except derivative works, and some may permit all uses and simply require attribution. While some would argue that Libre open access should be free of any copyright restrictions (except attribution), other scholars consider a work that removes at least some permission barriers to be libre.
 
 In addition to the gratis/libre distinction regarding users’ rights to a work, there are also distinctions regarding the venue in which open access works are published and archived—green and gold. Green open access involves authors self-archiving their articles by sharing them on their own website, or more preferably, in their institution's Institutional Repository or in some other public archive. Some publishers request that Open Access be granted only after an embargo period has elapsed. This embargo period can last anywhere between several months and several years. For publications that have been deposited in a repository but are under embargo, usually at least the metadata are openly accessible.
 
@@ -378,36 +378,11 @@ Gold open access articles are published in a journal that is open access, which 
 
 ### Why does open access matter?
 
-New knowledge is built by synthesizing current scholarship and then building upon it. Research is useless if it’s not shared: even the best research is ineffectual if others aren’t able to read and build on it.  When price barriers keep articles locked away, science cannot achieve its full potential. Open Access research can be read by anyone with access to the Internet meaning researchers can make use of as wide a variety of sources as possible. This benefits researchers who can work more effectively with a better understanding of the literature. It also helps avoid duplication of effort. No researcher (or funder) wants to waste time and money conducting a study if they know it has been attempted elsewhere. But, duplication of effort is all-too-possible when researchers can’t effectively communicate with one another and make results known to others in their field and beyond.
-
-
-It also benefits science by allowing ideas to be transferred more easily. Finally, if research is available to the widest possible pool of readers then it is more likely/easy for it to be checked and reproduced.  
-
-
-
-#### Benefits to researchers
-
-Better visibility and higher impact for your scholarship: Studies have shown a significant increase in citations when articles are made openly available.  Below is a chart from a recent summary analysis that shows the Open Access citation advantage in different fields2:
-
-
-
-#### The public
-
-Return on our investment: making research publicly available as soon as possible will allow other researchers to build on new ideas as soon as they are published, while in the current system these ideas might remained locked away and unable to advance to state of the field.  To have the greatest possible impact, the research we fund as taxpayers must be made available to the largest possible audience to make use of and build upon new ideas.
-
-Taxpayers who pay for much of the research published in journals have a right to access the information resulting from that investment.
-
-#### Publishers
-
-Demonstrated benefits: numerous publishers, both non-profit and for-profit, voluntarily make their articles openly available at the time of publication or within 6-12 months.  Many have switched from a closed, subscription model to an open one as a strategic business decision to increase their journal's exposure and impact, and have done so with great success.
-
-
+Research is useless if it’s not shared: even the best research is ineffectual if others aren’t able to read and build on it. When price barriers keep articles locked away, science cannot achieve its full potential. Open access benefits researchers who can work more effectively with a better understanding of the literature. It also helps avoid duplication of effort. No researcher (or funder) wants to waste time and money conducting a study if they know it has been attempted elsewhere. But, duplication of effort is all-too-possible when researchers can’t effectively communicate with one another and make results known to others in their field and beyond. It also benefits researchers by providing better visibility and therefore higher impact/citation rate for their scholarship.  Numerous publishers, both non-profit and for-profit, voluntarily make their articles openly available at the time of publication or within 6-12 months.  Many have switched from a closed, subscription model to an open one as a strategic business decision to increase their journal's exposure and impact. Further it can be argued that taxpayers who pay for much of the research published in journals have a right to access the information resulting from that investment without charge. Finally, if research is available to the widest possible pool of readers then it is more likely/easy for it to be checked and reproduced.  
 
 ### Best practice for open access
 
 If you are a scholar, consider submitting your work to a journal that is open access. Consider self-archiving by adding your journal article to your institution's open access Institutional Repository. And if your institution does not have an institutional repository, advocate for the creation of one.
-
----
 
 
 
@@ -421,14 +396,9 @@ If you are a scholar, consider submitting your work to a journal that is open ac
 
 * Find available funds or discounts to publish in open-access journals if needed
 
-#### Questions, obstacles, and common misconceptions
 
-Q: "If I publish my work as a preprint, it won’t be acknowledged - I will only receive credit for a peer-reviewed journal article."
 
-A: Many funders are acknowledging the growing presence of preprint publishing in their policies. In addition, preprints help establish priority of results and may increase the impact - and citation count - of a later peer-reviewed article \([McKiernan 2016](https://doi.org/10/gbqsng)\).
-
-There are still some researchers reluctant to deposit other versions than the final published version. It is important to inform them about the copyright implications when they sign a transfer document.
-
+There are still some researchers reluctant to deposit other versions than the final published version. It is important to make sure you are aware of the copyright implications when you sign a transfer document.
 
 
 ## Checklist
