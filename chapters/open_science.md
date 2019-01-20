@@ -382,24 +382,13 @@ Research is useless if it’s not shared: even the best research is ineffectual 
 
 ### Best practice for open access
 
-If you are a scholar, consider submitting your work to a journal that is open access. Consider self-archiving by adding your journal article to your institution's open access Institutional Repository. And if your institution does not have an institutional repository, advocate for the creation of one.
+#### Self-archiving
 
+Self archive a publication in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher, mainly related to the allowed version to be deposit and the embargo period. In doing this it is important to make sure you are aware of the copyright implications of any documents/agreements you make when submitting your manuscript to a journal. If your institution does not have an institutional repository, advocate for the creation of one.
 
+#### Publication
 
-#### Skills
-
-* Choose a suitable repository or server to post a preprint according to your discipline
-
-* Self archive a publication in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher, mainly related to the allowed version to be deposit and the embargo period
-
-* Choose among the options of open-access journals and publishing platforms available
-
-* Find available funds or discounts to publish in open-access journals if needed
-
-
-
-There are still some researchers reluctant to deposit other versions than the final published version. It is important to make sure you are aware of the copyright implications when you sign a transfer document.
-
+Consider submitting your work to a journal that is open access. When doing this be aware that there may be funds or discounts available to cover any associated costs.
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
