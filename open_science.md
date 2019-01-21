@@ -241,10 +241,10 @@ A common misconception about contributing to open source is that you need to con
 - Curate a folder of examples showing how the project is used
 - Answer questions about the project on e.g., Stack Overflow
 - Keep things organized, e.g. on GitHub by
-  - Linking to duplicate issues
-  - Suggesting new issue labels
-  - Going through open issues and suggesting closing old ones
-  - Ask clarifying questions on recently opened issues to move the discussion forward
+    - Linking to duplicate issues
+    - Suggesting new issue labels
+    - Going through open issues and suggesting closing old ones
+    - Ask clarifying questions on recently opened issues to move the discussion forward
 
 ## Open Access
 
