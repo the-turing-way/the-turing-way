@@ -33,7 +33,7 @@ The typical procedure for using version control is as follows:
 
 Keep doing work and making more and more commits. You can think of commits as checkpoints. If you ever need to go back to any past checkpoint to get a file as it was then, or just return your entire project to a past state you can. An illustration of this is shown in the figure below.  
 
-![master_branch](figures/master_branch.png)
+![master_branch](../figures/master_branch.png)
 
 Every time you make a commit you can tag it with a commit message explaining what this snapshot of your project is doing. This makes it very easy to find what you're looking for when you need to go back to a past version.
 
@@ -42,15 +42,15 @@ Every time you make a commit you can tag it with a commit message explaining wha
 
 So you have your project and you want to add new or something or try something out. With version control you can make a branch to do this work on. Any work you do on your branch won't be present on your main project (referred to as your master branch) so it remains nice and safe and you can continue to work on it. Once you're happy with your New Thing you can 'merge' your branch back into your master copy.
 
-![one_branch](figures/one_branch.png)
+![one_branch](../figures/one_branch.png)
 
 You can have more than one branch off of your master copy, and if one of your branches ends up not working you can either abandon it or delete it without the master branch of your project ever being impacted.
 
-![two_branches](figures/two_branches.png)
+![two_branches](../figures/two_branches.png)
 
 If you want you can even have branches off of branches (and branches off of those branches and so on).
 
-![sub_branch](figures/sub_branch.png)
+![sub_branch](../figures/sub_branch.png)
 
 No matter how many branches you have you can access past commits you made on any of them.
 
@@ -85,7 +85,7 @@ git add .
 
 This puts your changes into what's called the "staging area". When you next commit any changes stored in your staging area will be recorded in your repository.
 
-![change_stage_repo](figures/change_stage_repo.png)
+![change_stage_repo](../figures/change_stage_repo.png)
 
 The full stop after `git add` above adds all changes to your staging area. So now all your files are staged commit them using
 
@@ -165,7 +165,7 @@ git checkout SHA_of_the_version
 
 Commits should be 'atomic' i.e **they should do one simple thing and they should do it completely**, e.g. adding a new function or renaming a variable. If a lot of different changes to your project are all committed together then if something goes wrong it can be hard to unpick what in this set of changes if causing the problem, and undoing the whole commit may throw away valid and useful work along with the bug. That said **you don't necessarily need to do per-file commits**. For example if I add a figure to this chapter here, let's choose something to catch the attention of someone skimming through:
 
-![flipped_taj_mahal](figures/flipped_taj_mahal.png)
+![flipped_taj_mahal](../figures/flipped_taj_mahal.png)
 
 then when I do this two files are changed:
 
@@ -189,7 +189,7 @@ As you work on you project you will make more and more commits. Without any othe
 
 When you commit you have the chance to write a commit message describing what the commit is and what it does, and you should always, *always,* **_always_** do so.  A commit message gets attached to the commit so if you look back at it (e.g via `git log`) it will show up. Creating insightful and descriptive commit messages is one of the best things you can do to get the most out of version control. It lets people (and your future self when you've long since forgotten what you were doing and why) quickly understand what changes a commit contains without having to carefully read code and waste time figuring it out. Good commit messages improve your code quality by drastically reducing its WTF/min ratio:
 
-![wtf_per_min](figures/wtf_per_min.jpg)
+![wtf_per_min](../figures/wtf_per_min.jpg)
 
 ### How to do it
 
@@ -282,7 +282,7 @@ Branches. At the start of this chapter an [overview](#branches_overview) was giv
 
 Using branches keeps working code safe, particularly in collaborations. Each contibuter can have their own branch or branches which are only merged into the main project when they are ready.
 
-![sub_branch](figures/sub_branch.png)
+![sub_branch](../figures/sub_branch.png)
 
 
 ### How to do it
