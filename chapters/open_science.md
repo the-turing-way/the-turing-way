@@ -176,19 +176,14 @@ Researchers that make use of open source projects often make changes to them suc
 
 #### Making your own work open source
 
-- **Customer feedback** - Open source empowers consumers to have a combined, powerful voice in the private sector development process. The feedback the private company receives can go towards better informing product decisions and improve the overall product. Open source gives companies a direct line to their most passionate customers.
-- **Showing your work** -
-- **Force multiplier** - When communities form around shared challenges, the diversity of ideas that naturally emerges surfaces better solutions than if ideas could only come form you and those you are already collaborating with.
-- [**Given enough eyeballs, all bugs are shallow**](https://blogs.microsoft.com/cybertrust/2006/06/07/linuss-law-aka-many-eyes-make-all-bugs-shallow/) (Linus's Law) - [Empirically, open source tends to produce better quality software than its proprietary or alternative counterparts](http://www.dwheeler.com/oss_fs_why.html). When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code. If your project is open the number of potentially contributing developers and thus the potential knowledge pool is orders of magnitude larger.
-- **Great advertising** - Maintainers of successful open source projects are often seen as industry leaders, providing themselves with the ability to shape the conversation around a particular software problem and associating their brand with the preferred solution.    *citations*
-
-
+- Making your work openly available for re-use makes it much more likely others will incorporate it into their own research, which leads to increased citations.
+- When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code. If your project is open the number of potentially contributing developers and thus the potential knowledge pool is orders of magnitude larger.
+- Feedback. Making your work open enables you to get feedback and improve your project in way you may never have thought of alone.
 
 #### How contributing to open source projects benefits you
 
-- It’s empowering to be able to make changes, even small ones
-You don’t have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
-- **It's fun** - Open source provides an endless set of ever-changing set of Rubix cubes for you to solve on weekends. Just like puzzles, both crossword and jigsaw, open source provides bite-sized intellectual escapes.
+- It’s empowering to be able to make changes, even small ones. You don’t have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+- It's fun. Open source provides an endless set of ever-changing set of Rubix cubes for you to solve on weekends. Just like puzzles, both crossword and jigsaw, open source provides bite-sized intellectual escapes.
 
 ### How open source software benefits science
 
