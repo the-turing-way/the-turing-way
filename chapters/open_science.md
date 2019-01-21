@@ -167,7 +167,8 @@ Researchers that make use of open source projects often make changes to them suc
 
 ### How running and contributing to open source software projects benefits you
 
-- Improve existing skills. Whether it’s coding, user interface design, graphic design, writing, or organizing, if you’re looking for practice, there’s a task for you on an open source project. Further, open source necessitates cleaner, more maintainable code to enable collaboration between potentially thousands of people that may never meet. This helps to build and maintain good coding habits.
+- Improve existing skills. Whether it’s coding, user interface design, graphic design, writing, or organizing, if you’re looking for practice, there’s a task for you on an open source project. Further, open source necessitates cleaner, more maintainable code to enable collaboration between potentially thousands of people that may never meet. This helps to build and maintain good coding habits. Not to be underestimated are the people skills you can develop on open source projects.
+Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
 - Advance your career. By definition, all of your open source work is public and this presents opportunities:
   - Demonstrate technical ability. Technical interviews traditionally involve working on a simulated problem that can be tackled in a set amount of time with little additional context. Such simulations, by definition, aren't real world use cases, nor do they show what working with an applicant would be like. Open source provides visibility into both how a candidate solves problems, and how they work with others. You make a much more appealing employee if an employer can see the quality of your work and see you working with others over a long period of time rather than taking a chance on a single short, high-stress case which may not play to your strengths.
   - Reputation. Becoming an active member of the open source community can gain you a positive reputation which may bolster future job prospects
@@ -179,6 +180,7 @@ Researchers that make use of open source projects often make changes to them suc
 - Making your work openly available for re-use makes it much more likely others will incorporate it into their own research, which leads to increased citations.
 - When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code. If your project is open the number of potentially contributing developers and thus the potential knowledge pool is orders of magnitude larger.
 - Feedback. Making your work open enables you to get feedback and improve your project in way you may never have thought of alone.
+- Accountability. There is an argument that any software developed using government money should be open source by default- if the public has paid for its development they have a right to make use of it. If your work is government funded making it open is a step you can take towards making government openness and  accountability.
 
 #### How contributing to open source projects benefits you
 
@@ -187,18 +189,9 @@ Researchers that make use of open source projects often make changes to them suc
 
 ### How open source software benefits science
 
-(as opposed to leaving them to collect metaphorical dust on their own computer where only they can make use of them) the entire research community can benefit.
+Open source projects primarily benefit science by allowing researchers to take advantage of each other's work. This enables researchers to apply their efforts to  high-value work. It is sometimes said that "all the easy problems have already been solved". Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few. While developers could spend their time reinventing wheels that the open source community have already perfected, it's far preferable to use the worlds best wheel, especially when that wheel comes at no cost to you. This frees researchers up to work on yet-unsolved challenges. This reduces duplication of effort and allows researchers to focus on the work they're actually interested in.
 
-* **Shift developers from low-value work to high-value work** - It is sometimes said that "all the easy problems have already been solved". Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few. While developers could spend their time reinventing wheels that the open source community have already perfected, it's far preferable to use the worlds best wheel, especially when that wheel comes at no cost to you. This frees researchers up to work on yet-unsolved challenges.
-* **Reduce duplication of effort** - You should focus on your core competency. What makes you unique or gives you an advantage? Everything else is the work everyone else is also doing, or put another way, the work you need to do so that you can do the work that you want to do. It doesn't have to be that way. Open source reduces duplication of efforts, both within an organization and across organizations, by allowing for individual components to be shared.
-
-
-There is also an argument that any software developed using government money should be open source by default- if the public has paid for its development they have a right to make use of it.
-
-- Learn people skills
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
-
-
+Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups. Example include the linux operating systems, python packages such as scipy and numpy, and google's machine learning library TensorFlow.    
 
 ### How to run your own open source project
 
