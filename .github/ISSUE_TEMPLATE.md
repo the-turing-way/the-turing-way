@@ -27,7 +27,8 @@ Please provide as much context as possible and link to related issues and/or pul
 - [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
 
 
-### Who can help
+### Who can help?
+
 <!-- We suggest using bullets (indicated by * or -) and filled checkboxes [x] here -->
 
 * *Lorem ipsum dolor sit amet, consectetur adipiscing.*
