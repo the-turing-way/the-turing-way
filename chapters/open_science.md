@@ -54,15 +54,17 @@ Open practises also benefits the researchers that propagate them. For example th
 | -----------------------------------------------------|
 | The relative citation rate (OA: non-OA) in 19 fields of research. This rate is defined as the mean citation rate of OA articles divided by the mean citation rate of non-OA articles. Multiple points for the same discipline indicate different estimates from the same study, or estimates from several studies. References by discipline: Agricultural studies (Kousha and Abdoli, 2010); Physics/astronomy (Gentil-Beccot et al., 2010; Harnad and Brody, 2004; Metcalfe, 2006); Medicine (Sahu et al., 2005; Xu et al., 2011); Computer science (Lawrence, 2001); Sociology/social sciences (Hajjem et al., 2006; Norris et al., 2008; Xu et al., 2011); Psychology (Hajjem et al., 2006); Political science (Hajjem et al., 2006; Antelman, 2004; Atchison and Bull, 2015); Management (Hajjem et al., 2006); Law (Donovan et al., 2015; Hajjem et al., 2006); Economics (Hajjem et al., 2006; McCabe and Snyder, 2015; Norris et al., 2008; Wohlrabe, 2014); Mathematics (Antelman, 2004; Davis and Fromerth, 2007; Norris et al., 2008); Health (Hajjem et al., 2006); Engineering (Antelman, 2004; Koler-Povh et al., 2014); Philosophy (Antelman, 2004); Education (Hajjem et al., 2006; Zawacki-Richter et al., 2010); Business (Hajjem et al., 2006; McCabe and Snyder, 2015); Communication studies (Zhang, 2006); Ecology (McCabe and Snyder, 2014; Norris et al., 2008); Biology (Frandsen, 2009b; Hajjem et al., 2006; McCabe and Snyder, 2014). |
 
-Anther benefit of openness is that while research collaborations are essential to advancing knowledge, identifying and connecting with appropriate collaborators is not trivial. Open practices can make it easier for researchers to connect with one another by increasing the discoverability and visibility of one’s work, facilitating rapid access to novel data and software resources, and creating new opportunities to interact with and contribute to ongoing communal projects.
-
+Another benefit of openness is that while research collaborations are essential to advancing knowledge, identifying and connecting with appropriate collaborators is not trivial. Open practices can make it easier for researchers to connect with one another by increasing the discoverability and visibility of one’s work, facilitating rapid access to novel data and software resources, and creating new opportunities to interact with and contribute to ongoing communal projects.
 
 Material's used: [1.](https://link.springer.com/chapter/10.1007/978-3-319-00026-8_2), [2.](https://elifesciences.org/articles/16800)
 
 ## Prerequisites / recommended skill level
-It is useful, but not necessary, to be familiar with version control and particularly that chapter's section on GitHub.
+It is useful, but not necessary, to be familiar with version control and particularly the version control chapter's section on GitHub.
 
 ## Credit
+
+
+
 
 Handling datasets as persistently identified, independently published items is a key element for allowing citation and long term integration of datasets into text as well as supporting a variety of data management activities. It would be an incentive to the author if a data publication had the rank of a citeable publication, adding to their reputation and ranking among their peers.
 
@@ -74,18 +76,11 @@ The German National Library of Science and Technology (TIB) developed and promot
 
 The DOI System is an identifier scheme administered by the International DOI Foundation.
 
-The task of managing DOI registers is delegated to registration agencies that each specialise in a type of resource. For research datasets, the registration agency is the DataCite Consortium.[39] The consortium is made up of libraries and data centres from across the globe, led by the German National Library of Science and Technology (TIB). Among the services it provides are human and machine interfaces for simple end-user administration of DOI registrations. DataCite also collects metadata about each dataset it registers.[40] These metadata may be searched through a Web interface[41] or harvested using OAI-PMH.[42]
+The task of managing DOI registers is delegated to registration agencies that each specialise in a type of resource. For research datasets, the registration agency is the DataCite Consortium. Among the services it provides are human and machine interfaces for simple end-user administration of DOI registrations. DataCite also collects metadata about each dataset it registers so they can be more easily understood and found.
 
-Any repository wishing to register DOIs needs to obtain a username and password from DataCite to gain access to the registration service. Alternatively, the organisation can manage its DOIs through a third-party service such as EZID.
-While best practice has yet to emerge on some matters, certain conventions are already becoming established.
+Any repository wishing to register DOIs needs to obtain a username and password from DataCite to gain access to the registration service. Alternatively, the organisation can manage its DOIs through a third-party service such as EZID. While best practice has yet to emerge on some matters, certain conventions are already becoming established.
 
-When organisations register a DOI for a resource, they should not introduce semantic elements into the suffix, especially not metadata that might change over time (e.g. publisher, archive, owner).
-As DOIs are used to cite data as evidence, the resource to which a DOI points should also remain unchanged, with any new version receiving a new DOI.
-
-Once an identifier has been assigned to (a version/snapshot of) a resource, ensure that it and any explanatory metadata remain static over time. Ensure that the identifiers remain unique and associated with the correct versions.
-
-Assign identifiers to static datasets only when no further changes or corrections are expected (i.e. after quality control checks are complete). For dynamic datasets, assign identifiers when new snapshots or time slices are created, whether this is on a regular basis or on demand.
-
+When organisations register a DOI for a resource, they should not introduce semantic elements into the suffix, especially not metadata that might change over time (e.g. publisher, archive, owner). Assign identifiers to static datasets only when no further changes or corrections are expected (i.e. after quality control checks are complete). As DOIs are used to cite data as evidence, the resource to which a DOI points should also remain unchanged, with any new version receiving a new DOI.
 
 ## Open data
 
