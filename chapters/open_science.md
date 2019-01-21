@@ -98,7 +98,7 @@ Assign identifiers to static datasets only when no further changes or correction
 
 ## Open data
 
-Materials used: [1.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/vision/open_research_data.html) **Creative Commons Attribution-NonCommercical** [2.](http://opendatahandbook.org/guide/en/what-is-open-data/) **CC Attribution 4.0 International License** [3.](https://opendatacharter.net/) **Creative Commons Attribution 4.0 International License** [4.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/making_data_citeable.html) **Creative Commons Attribution-NonCommercical** [5.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/challenges_of_open_data_in_medical_research.html) **Creative Commons Attribution-NonCommercical** [6.](http://www.dcc.ac.uk/resources/how-guides/cite-datasets) **Creative Commons**
+Materials used: [1.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/vision/open_research_data.html) **Creative Commons Attribution-NonCommercical** [2.](http://opendatahandbook.org/guide/en/what-is-open-data/) **CC Attribution 4.0 International License** [3.](https://opendatacharter.net/) **Creative Commons Attribution 4.0 International License** [4.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/making_data_citeable.html) **Creative Commons Attribution-NonCommercical** [5.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/challenges_of_open_data_in_medical_research.html) **Creative Commons Attribution-NonCommercical** [6.](http://www.dcc.ac.uk/resources/how-guides/cite-datasets) **Creative Commons** [7.](https://www.open-contracting.org/2016/09/19/diving-deeper-commercial-confidentiality/) **Creative Commons Attribution 4.0 International License**
 
 The world is witnessing a significant global transformation, facilitated by technology and digital media, and fueled by data and information. This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research.
  Only a very small proportion of the original data is published in conventional scientific journals. Existing policies on data archiving notwithstanding, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public. This lack of access to scientific data is an obstacle to international research for two main reasons:
@@ -145,17 +145,20 @@ Sometimes it may not be possible to make data publicly available in its entirety
 #### Privacy
 
 Many fields of scientific disciplines involve working with sensitive personal data, medical research being the most obvious example.
-Individuals must be protected from (re)identification via their personal data used for research. Anonamysation of the data may be sufficient in some cases, but ensuring that reidentification is not possible is becoming increasingly difficult due to technical progress, growing computational power and – ironically – more open data. For example reidentification may be possible via data-mining of accessible data and so-called quasi-identifiers, a set of (common) properties that are – in their combination – so specific that they can be used to identify.
+Individuals must be protected from (re)identification via their personal data used for research. Anonymisation of the data may be sufficient in some cases, but ensuring that reidentification is not possible is becoming increasingly difficult due to technical progress, growing computational power and – ironically – more open data. For example reidentification may be possible via data-mining of accessible data and so-called quasi-identifiers, a set of (common) properties that are – in their combination – so specific that they can be used to identify.
 
-Preserving privacy may still be possible if partial or generalised datasets are provided e.g. age bands instead of birth date or only the first two digits of postal codes. It may also be possible to provide the data in such a format that researchers can query it whist keeping the data itself closed, e.g. a user may be able to send a query to retrieve the mean of a dataset, but not be able to acess any of the individual datapoints.
+Preserving privacy may still be possible if partial or generalised datasets are provided e.g. age bands instead of birth date or only the first two digits of postal codes. It may also be possible to provide the data in such a format that researchers can query it whist keeping the data itself closed, e.g. a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints.
 
 #### National and commercially sensitive data
----
 
+In many cases companies are understandably unwilling to publish much of their data. The reasoning goes that if commercially sensitive information of a company is disclosed, it will damage the company’s commercial interests and undermine competitiveness. This is based on the thinking that in competitive markets, innovation will only occur with some protection of information: if a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources. The result is that no-one would innovate in the first place. Similarly governments are often unwilling to publish data that relates to issues such as national security due to public safety concerns.
+
+In such cases it may not be possible to make data open, or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy.
 
 ## Open Source software
 
-Materials used: [1.](https://elifesciences.org/articles/16800) **Attribution 4.0 International (CC BY 4.0)** [2.](https://ben.balter.com/2015/11/23/why-open-source/) **CC BY 3.0** [3.](https://opensource.guide/starting-a-project/) **(CC BY 4.0)**
+Materials used: [1.](https://elifesciences.org/articles/16800) **Attribution 4.0 International (CC BY 4.0)** [2.](https://ben.balter.com/2015/11/23/why-open-source/) **CC BY 3.0** [3.](https://opensource.guide/starting-a-project/) **(CC BY 4.0)** [4.](https://opensource.guide/)
+
 
 ### What is open source software?
 
@@ -234,8 +237,6 @@ Much like open source licenses, there are also emerging standards for codes of c
 
 Keep the file in your project's root directory so it's easy to find, and link to it from your readme.
 
-[Doing your own open source](https://opensource.guide/starting-a-project/) **(CC BY 4.0)**
-
 ### How to contribute to other's open source projects
 
 #### Anatomy of an open source project
@@ -295,13 +296,9 @@ A common misconception about contributing to open source is that you need to con
  - Going through open issues and suggesting closing old ones
  - Ask clarifying questions on recently opened issues to move the discussion forward
 
-Materials used: [1.](https://opensource.guide/)
-
-
 ## Open Access
 
 Materials used: [1.](https://opensource.com/resources/what-open-access) **Attribution-ShareAlike 4.0 International** [2.](http://www.righttoresearch.org/learn/whyOA/index.shtml) **Creative Commons Attribution 3.0 License** [3.](https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-access-to-published-research-results) **CC0 1.0 Universal**
-
 
 ### What is open access?
 
