@@ -74,7 +74,7 @@ Having data available is of no use if it cannot be understood. For example a tab
 The data should be made available in a modifiable, machine-readable format so that it can be effectively used and  manipulated.
 It is also important to think about the file formats that information is provided in. Data should be presented in structured and standardized formats to support interoperability, traceability, and effective reuse. In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people.
 
-
+<a name="citing_data"></a>
 #### Step 4: Make your data citeable
 
 Data should be considered legitimate, citable product of research. Making data citeable (and citing data yourself) facilitate giving scholarly credit; in scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited. Data citations facilitate identification of, access to, and verification of the specific data that support a claim, making science more reproducible. Ensure that anyone wishing to cite a dataset you host can use a persistent identifier that you provide to do so.
