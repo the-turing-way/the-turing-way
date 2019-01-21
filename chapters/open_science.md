@@ -277,12 +277,20 @@ A great many open source projects are hosted on GitHub (see the chapter on versi
 
 - Issue tracker: Where people discuss issues related to the project.
 - Pull requests: Where people discuss and review changes that are in progress.
-- Discussion forums or mailing lists: Some projects may use these channels for conversational topics (for example, “How do I…“ or “What do you think about…“ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
+- Discussion forums or mailing lists: Some projects may use these channels for conversational topics (for example, "How do I…" or "What do you think about…" instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 - Synchronous chat channel: Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
 
-#### Add in stuff you've already done
+#### Contribute your changes
 
+Say you've added a feature or fixed a bug and want to contribute this work to the main project.
 
+1. Read the documentation. The main project may have contributing guidelines or information in a readme instructing prospective contributors on how to supply their changes.
+2. Make sure your conventions match those of the main project, both in style and structure. For example if all the variables in a project are named in some particular way yours should be too! Consistent conventions make it much easier for someone who hasn't seen your piece of the project before to understand it rather than having to figure out your particular set of conventions *and* what the code is doing. The project's conventions may be outlined in its documentation, or may just be evident from inspection of the code itself.
+3. Break your changes up into manageable, well-defined chunks, e.g if you've added two separate features don't submit them together. Keeping things "clean" in this way makes your work simpler to understand and review.
+4. Test your changes. If the project comes with tests run them, and make sure you're testing against an up to date version of the project as it may have evolved considerably over time. Write specific tests for your changes and submit those too.
+5. Don't just submit code- update any relevant documentation too. If your changes are incorporated it will have to be undated, if you don't do it someone else will have to.
+6. Ask questions. If there are things you are unsure about there's no harm in asking. Many larger projects have dedicated forums or other venues for questions and discussion.
+7. When you submit your changes clearly describe the changes you've made, why you've made them, and how they have been implemented. This makes it as easier for someone looking at your work and deciding whether to incorporate it into the main project to do so. In the likely case the main project is hosted on GitHub you should put this in the pull request (see the version control chapter for more details). 
 
 #### Looking for projects to contribute to and how to contribute to them
 
