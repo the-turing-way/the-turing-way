@@ -1,22 +1,5 @@
 # Open Science
 
-*First stage, gather materials, what will I need?*
-
-- *Information on what open science is*
-- *Information on why it's useful*
-  - *To the researchers that do it*
-  - *To science as a whole*
-- *Credit*
-  - *Applicable for all so do at the start*
-- *Open data (should link to any chapter we write on data)*
-  - *How to do it well*
-    - *Include metadata*
-
-
----
-
-[Book](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) on open science, worth looking at **Creative Commons Attribution-NonCommercical**
-
 ## Summary
 
 Open Science aims to transform science by making research more reproducible, transparent, re-usable, collaborative, accountable and closer to society. It is about the way research is carried out and disseminated by digital tools. The OECD defines Open Science as:  “to make the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction”, but it is more than that. Open Science is frequently defined as an umbrella term that involves various movements aiming to remove the barriers for sharing any kind of output, resources, methods or tools, at any stage of the research process.
