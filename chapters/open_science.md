@@ -191,7 +191,7 @@ Open source offers opportunities to practice leadership and management skills, s
 
 Open source projects primarily benefit science by allowing researchers to take advantage of each other's work. This enables researchers to apply their efforts to  high-value work. It is sometimes said that "all the easy problems have already been solved". Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few. While developers could spend their time reinventing wheels that the open source community have already perfected, it's far preferable to use the worlds best wheel, especially when that wheel comes at no cost to you. This frees researchers up to work on yet-unsolved challenges. This reduces duplication of effort and allows researchers to focus on the work they're actually interested in.
 
-Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups. Example include the linux operating systems, python packages such as scipy and numpy, and google's machine learning library TensorFlow.    
+Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups. Examples include linux operating systems, python packages such as scipy and numpy, and Google's machine learning library TensorFlow.    
 
 ### How to run your own open source project
 
