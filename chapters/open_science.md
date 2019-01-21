@@ -17,8 +17,6 @@
 
 [Book](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) on open science, worth looking at **Creative Commons Attribution-NonCommercical**
 
-
-
 ## Summary
 
 Open Science aims to transform science by making research more reproducible, transparent, re-usable, collaborative, accountable and closer to society. It is about the way research is carried out and disseminated by digital tools. The OECD defines Open Science as:  “to make the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction”, but it is more than that. Open Science is frequently defined as an umbrella term that involves various movements aiming to remove the barriers for sharing any kind of output, resources, methods or tools, at any stage of the research process.
@@ -61,30 +59,9 @@ Material's used: [1.](https://link.springer.com/chapter/10.1007/978-3-319-00026-
 ## Prerequisites / recommended skill level
 It is useful, but not necessary, to be familiar with version control and particularly the version control chapter's section on GitHub.
 
-## Credit
-
-
-
-
-Handling datasets as persistently identified, independently published items is a key element for allowing citation and long term integration of datasets into text as well as supporting a variety of data management activities. It would be an incentive to the author if a data publication had the rank of a citeable publication, adding to their reputation and ranking among their peers.
-
-The German National Library of Science and Technology (TIB) developed and promotes the use of Digital Object Identifiers (DOI) for datasets. A DOI name is used to cite and link to electronic resources (text as well as research data and other types of content). The DOI System differs from other reference systems commonly used on the Internet, such as the URL, since it is permanently linked to the object itself, not just to the place in which the object is located. As a major advantage, the use of the DOI system for registration permits the scientists and the publishers to use the same syntax and technical infrastructure for the referencing of datasets that are already established for the referencing of articles. The DOI system offers persistent links as stable references to scientific content and an easy way to connect the article with the underlying data.
-
----
-
-[Citing data](http://www.dcc.ac.uk/resources/how-guides/cite-datasets) **Creative Commons**
-
-The DOI System is an identifier scheme administered by the International DOI Foundation.
-
-The task of managing DOI registers is delegated to registration agencies that each specialise in a type of resource. For research datasets, the registration agency is the DataCite Consortium. Among the services it provides are human and machine interfaces for simple end-user administration of DOI registrations. DataCite also collects metadata about each dataset it registers so they can be more easily understood and found.
-
-Any repository wishing to register DOIs needs to obtain a username and password from DataCite to gain access to the registration service. Alternatively, the organisation can manage its DOIs through a third-party service such as EZID. While best practice has yet to emerge on some matters, certain conventions are already becoming established.
-
-When organisations register a DOI for a resource, they should not introduce semantic elements into the suffix, especially not metadata that might change over time (e.g. publisher, archive, owner). Assign identifiers to static datasets only when no further changes or corrections are expected (i.e. after quality control checks are complete). As DOIs are used to cite data as evidence, the resource to which a DOI points should also remain unchanged, with any new version receiving a new DOI.
-
 ## Open data
 
-Materials used: [1.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/vision/open_research_data.html) **Creative Commons Attribution-NonCommercical** [2.](http://opendatahandbook.org/guide/en/what-is-open-data/) **CC Attribution 4.0 International License** [3.](https://opendatacharter.net/) **Creative Commons Attribution 4.0 International License** [4.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/making_data_citeable.html) **Creative Commons Attribution-NonCommercical** [5.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/challenges_of_open_data_in_medical_research.html) **Creative Commons Attribution-NonCommercical** [6.](http://www.dcc.ac.uk/resources/how-guides/cite-datasets) **Creative Commons** [7.](https://www.open-contracting.org/2016/09/19/diving-deeper-commercial-confidentiality/) **Creative Commons Attribution 4.0 International License**
+Materials used: [1.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/vision/open_research_data.html) **Creative Commons Attribution-NonCommercical** [2.](http://opendatahandbook.org/guide/en/what-is-open-data/) **CC Attribution 4.0 International License** [3.](https://opendatacharter.net/) **Creative Commons Attribution 4.0 International License** [4.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/making_data_citeable.html) **Creative Commons Attribution-NonCommercical** [5.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/challenges_of_open_data_in_medical_research.html) **Creative Commons Attribution-NonCommercical** [6.](http://www.dcc.ac.uk/resources/how-guides/cite-datasets) **Creative Commons** [7.](https://www.open-contracting.org/2016/09/19/diving-deeper-commercial-confidentiality/) **Creative Commons Attribution 4.0 International License** [8.](http://www.dcc.ac.uk/resources/how-guides/cite-datasets) **Creative Commons**
 
 The world is witnessing a significant global transformation, facilitated by technology and digital media, and fueled by data and information. This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research.
  Only a very small proportion of the original data is published in conventional scientific journals. Existing policies on data archiving notwithstanding, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public. This lack of access to scientific data is an obstacle to international research for two main reasons:
@@ -141,6 +118,18 @@ In many cases companies are understandably unwilling to publish much of their da
 
 In such cases it may not be possible to make data open, or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy.
 
+<a name="citing_data"></a>
+### Citing data
+
+There are two key motivations for ensuring that data that is openly availably can be easily cited:
+
+1. Data is a valid and valuable output of scientific research. Making it citeable helps ensure that proper credit is given to those involved with generating it.
+2. Making data citeable makes it easy for future work that builds upon it to direct readers of that work to it. This enables that work to be verified and reproduced which may not be possible if the source of the data was unclear.
+
+Data can be made citeable by assigning it a DOI. The DOI System is an identifier scheme administered by the International DOI Foundation. The task of managing DOI registers is delegated to registration agencies (list [here](http://www.doi.org/registration_agencies.html)) that each specialise in a type of resource. For research datasets, the registration agency is the [DataCite Consortium](https://www.datacite.org/). Among the services it provides are human and machine interfaces for simple end-user administration of DOI registrations. DataCite also collects metadata about each dataset it registers so they can be more easily understood and found. Any repository wishing to register DOIs needs to obtain a username and password from DataCite to gain access to the registration service. While best practice has yet to emerge on some matters, certain conventions are already becoming established:
+
+When organisations register a DOI for a resource, they should not introduce semantic elements into the suffix, especially not metadata that might change over time (e.g. publisher, archive, owner). Assign identifiers to static datasets only when no further changes or corrections are expected (i.e. after quality control checks are complete). As DOIs are used to cite data as evidence, the resource to which a DOI points should also remain unchanged, with any new version receiving a new DOI.
+
 ## Open Source software
 
 Materials used: [1.](https://elifesciences.org/articles/16800) **Attribution 4.0 International (CC BY 4.0)** [2.](https://ben.balter.com/2015/11/23/why-open-source/) **CC BY 3.0** [3.](https://opensource.guide/starting-a-project/) **(CC BY 4.0)** [4.](https://opensource.guide/)
@@ -184,7 +173,9 @@ Working openly also allows any number of researchers to collaborate on projects 
 
 ### How to run your own open source project
 
-You can open source an idea, a work in progress, or after years of being closed source. At the most basic level all you need to do is but your code online somewhere that is likely to last a long time. A popular place to do this GitHub (see the chapter on version control). You must include a license file stating that anyone has permission to use, copy and modify your work. Without this no one can legaly use your work and so it isn't open source. [This](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project. There are also a few other files you should include:
+You can open source an idea, a work in progress, or after years of being closed source. At the most basic level all you need to do is but your code online somewhere that is likely to last a long time. You can make your code citeable by assigning it a DOI (as discussed in the section on [making data citeable](#citing_data)). This helps ensure that you get proper credit if people use or build upon your work.
+
+A popular place to make your code available is GitHub (see the chapter on version control). You must include a license file stating that anyone has permission to use, copy and modify your work. Without this no one can legaly use your work and so it isn't open source. [This](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project. There are also a few other files you should include:
 
 #### Readme
 
