@@ -74,15 +74,18 @@ Having data available is of no use if it cannot be understood. For example a tab
 The data should be made available in a modifiable, machine-readable format so that it can be effectively used and  manipulated.
 It is also important to think about the file formats that information is provided in. Data should be presented in structured and standardized formats to support interoperability, traceability, and effective reuse. In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people.
 
+
 #### Step 4: Make your data citeable
 
-Data should be considered legitimate, citable product of research. Making data citeable (and citing data yourself) facilitate giving scholarly credit; in scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited.
-Data citations facilitate identification of, access to, and verification of the specific data that support a claim, making science more reproducible. Ensure that anyone wishing to cite a dataset you host can use a persistent identifier that you provide to do so.
+Data should be considered legitimate, citable product of research. Making data citeable (and citing data yourself) facilitate giving scholarly credit; in scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited. Data citations facilitate identification of, access to, and verification of the specific data that support a claim, making science more reproducible. Ensure that anyone wishing to cite a dataset you host can use a persistent identifier that you provide to do so.
 
-A data citation should include a persistent method for identification that is unique, and widely understandable by a community.
-There are several types of persistent identifier that could be used to identify datasets: examples include Handles, Archival Resource Keys (ARKs) and Persistent URLs (PURLs), all of which can be resolved to an Internet location. The scheme that is gaining most traction is the Digital Object Identifier (DOI).
+A data citation should include a persistent method for identification that is unique, and widely understandable by a community. There are several types of persistent identifier that could be used to identify datasets: examples include Handles, Archival Resource Keys (ARKs) and Persistent URLs (PURLs), all of which can be resolved to an Internet location. The scheme that is gaining most traction is the Digital Object Identifier (DOI).
 
-Choose an identifier scheme which allows the identifier to be resolved to a URL. This URL should belong to a landing page that contains descriptive information about the dataset, as well as links or instructions for accessing it. You should also ensure that datasets are made citable and identifiable at an appropriate level of granularity, i.e it would be no use citing CERN's entire data repository as someone attempting to reproduce your work would not be able to find the data used in a specific piece of work without considerable difficulty. Where possible it should be possible to cite the data used, and only the data used.
+The DOI System is an identifier scheme administered by the International DOI Foundation. The task of managing DOI registers is delegated to registration agencies (list [here](http://www.doi.org/registration_agencies.html)) that each specialise in a type of resource. For research datasets, the registration agency is the [DataCite Consortium](https://www.datacite.org/). Among the services it provides are human and machine interfaces for simple end-user administration of DOI registrations. DataCite also collects metadata about each dataset it registers so they can be more easily understood and found. Any repository wishing to register DOIs needs to obtain a username and password from DataCite to gain access to the registration service. While best practice has yet to emerge on some matters, certain conventions are already becoming established:
+
+When organisations register a DOI for a resource, they should not introduce semantic elements into the suffix, especially not metadata that might change over time (e.g. publisher, archive, owner). Assign identifiers to static datasets only when no further changes or corrections are expected (i.e. after quality control checks are complete). As DOIs are used to cite data as evidence, the resource to which a DOI points should also remain unchanged, with any new version receiving a new DOI.
+
+Whichever identifier scheme you pick make sure it allows the identifier to be resolved to a URL. This URL should belong to a landing page that contains descriptive information about the dataset, as well as links or instructions for accessing it. You should also ensure that datasets are made citable and identifiable at an appropriate level of granularity, i.e it would be no use citing CERN's entire data repository as someone attempting to reproduce your work would not be able to find the data used in a specific piece of work without considerable difficulty. Where possible it should be possible to cite the data used, and only the data used.
 
 ### Barriers to data sharing
 
@@ -100,18 +103,6 @@ Preserving privacy may still be possible if partial or generalised datasets are 
 In many cases companies are understandably unwilling to publish much of their data. The reasoning goes that if commercially sensitive information of a company is disclosed, it will damage the company’s commercial interests and undermine competitiveness. This is based on the thinking that in competitive markets, innovation will only occur with some protection of information: if a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources. The result is that no-one would innovate in the first place. Similarly governments are often unwilling to publish data that relates to issues such as national security due to public safety concerns.
 
 In such cases it may not be possible to make data open, or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy.
-
-<a name="citing_data"></a>
-### Citing data
-
-There are two key motivations for ensuring that data that is openly availably can be easily cited:
-
-1. Data is a valid and valuable output of scientific research. Making it citeable helps ensure that proper credit is given to those involved with generating it.
-2. Making data citeable makes it easy for future work that builds upon it to direct readers of that work to it. This enables that work to be verified and reproduced which may not be possible if the source of the data was unclear.
-
-Data can be made citeable by assigning it a DOI. The DOI System is an identifier scheme administered by the International DOI Foundation. The task of managing DOI registers is delegated to registration agencies (list [here](http://www.doi.org/registration_agencies.html)) that each specialise in a type of resource. For research datasets, the registration agency is the [DataCite Consortium](https://www.datacite.org/). Among the services it provides are human and machine interfaces for simple end-user administration of DOI registrations. DataCite also collects metadata about each dataset it registers so they can be more easily understood and found. Any repository wishing to register DOIs needs to obtain a username and password from DataCite to gain access to the registration service. While best practice has yet to emerge on some matters, certain conventions are already becoming established:
-
-When organisations register a DOI for a resource, they should not introduce semantic elements into the suffix, especially not metadata that might change over time (e.g. publisher, archive, owner). Assign identifiers to static datasets only when no further changes or corrections are expected (i.e. after quality control checks are complete). As DOIs are used to cite data as evidence, the resource to which a DOI points should also remain unchanged, with any new version receiving a new DOI.
 
 ## Open Source software
 
