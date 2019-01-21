@@ -48,9 +48,7 @@ There are five main schools of thought motivating open practises to benefit scie
 | Democratic | The access to knowledge is unequally distributed. | Making knowledge freely available for everyone. |
 | Public | Science needs to be made accessible to the public. | Making science accessible for citizens. |
 
-Open practises also benefits the researchers that propagate them. For example there is evidence that open access articles are cited more, as shown by the metastudy presented in the figure [below](open_access_figure).
-
-<a name="open_access_figure"></a>
+Open practises also benefits the researchers that propagate them. For example there is evidence that open access articles are cited more, as shown by the metastudy presented in the figure below.
 
 | ![open_access_citatations](../figures/open_access_citatations.jpg) |
 | -----------------------------------------------------|
