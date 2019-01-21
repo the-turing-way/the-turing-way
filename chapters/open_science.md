@@ -167,27 +167,18 @@ Researchers that make use of open source projects often make changes to them suc
 
 ### How running and contributing to open source software projects benefits you
 
-- Improve existing skills
-Whether it’s coding, user interface design, graphic design, writing, or organizing, if you’re looking for practice, there’s a task for you on an open source project. **Learn to code** - Open source is a great way to learn how to code. Want to know how your favourite website works? Hitting "view source" in your web browser can go a long way to point you in the right direction. You can read the documentation of the software that powers it, and potentially even stand up your own clone. Want to learn more? Join the local meetup for the framework or language. Better still, submit a pull request to the project to fix a small bug or add a new feature. While there are certainly time and opportunity costs involved, all of this comes without any direct cost to the aspiring developer, at least not in terms of software, and is infinitely more inclusive than doing the same within a proprietary community, especially as an outsider. There's a reason nearly every coding school today outside of traditional academia teaches open source.
-Open source necessitates cleaner, more maintainable code.
-
-- Meet people who are interested in similar things
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it’s running into each other at conferences or late night online chats about burritos.
-
-- Find mentors and teach others
-Working with others on a shared project means you’ll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
-
-
-- Advance your career
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
-- **Demonstrate technical ability** - Technical interviews traditionally involve working on a simulated problem that can be tackled in a set amount of time with little additional context. Such simulations, by definition, aren't real world use cases, nor do they show what working with an applicant would be like. Open source provides visibility into both how a candidate solves problems, and how they work with others. You can hire much more confidently if, for the past six months, the candidate has been contributing to the project you want them work on, and you like their work. "\[T]he best technical interview possible is the one you don't have to do because the candidate is already kicking ass on one of your open source projects."
-
+- Improve existing skills. Whether it’s coding, user interface design, graphic design, writing, or organizing, if you’re looking for practice, there’s a task for you on an open source project. Further, open source necessitates cleaner, more maintainable code to enable collaboration between potentially thousands of people that may never meet. This helps to build and maintain good coding habits.
+- Advance your career. By definition, all of your open source work is public and this presents opportunities:
+  - Demonstrate technical ability. Technical interviews traditionally involve working on a simulated problem that can be tackled in a set amount of time with little additional context. Such simulations, by definition, aren't real world use cases, nor do they show what working with an applicant would be like. Open source provides visibility into both how a candidate solves problems, and how they work with others. You make a much more appealing employee if an employer can see the quality of your work and see you working with others over a long period of time rather than taking a chance on a single short, high-stress case which may not play to your strengths.
+  - Reputation. Becoming an active member of the open source community can gain you a positive reputation which may bolster future job prospects
+- Meet people who are interested in similar things. Open source projects with warm, welcoming communities keep people coming back for years and many people form lifelong friendships through their participation in open source.
+- Find mentors and teach others. Working with others on a shared project means you’ll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
 
 #### Making your own work open source
 
 - **Customer feedback** - Open source empowers consumers to have a combined, powerful voice in the private sector development process. The feedback the private company receives can go towards better informing product decisions and improve the overall product. Open source gives companies a direct line to their most passionate customers.
 - **Showing your work** -
-- **Force multiplier** - Wwhen communities form around shared challenges, the diversity of ideas that naturally emerges surfaces better solutions than if ideas could only come form you and those you are already collaborating with.
+- **Force multiplier** - When communities form around shared challenges, the diversity of ideas that naturally emerges surfaces better solutions than if ideas could only come form you and those you are already collaborating with.
 - [**Given enough eyeballs, all bugs are shallow**](https://blogs.microsoft.com/cybertrust/2006/06/07/linuss-law-aka-many-eyes-make-all-bugs-shallow/) (Linus's Law) - [Empirically, open source tends to produce better quality software than its proprietary or alternative counterparts](http://www.dwheeler.com/oss_fs_why.html). When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code. If your project is open the number of potentially contributing developers and thus the potential knowledge pool is orders of magnitude larger.
 - **Great advertising** - Maintainers of successful open source projects are often seen as industry leaders, providing themselves with the ability to shape the conversation around a particular software problem and associating their brand with the preferred solution.    *citations*
 
@@ -290,7 +281,7 @@ Say you've added a feature or fixed a bug and want to contribute this work to th
 4. Test your changes. If the project comes with tests run them, and make sure you're testing against an up to date version of the project as it may have evolved considerably over time. Write specific tests for your changes and submit those too.
 5. Don't just submit code- update any relevant documentation too. If your changes are incorporated it will have to be undated, if you don't do it someone else will have to.
 6. Ask questions. If there are things you are unsure about there's no harm in asking. Many larger projects have dedicated forums or other venues for questions and discussion.
-7. When you submit your changes clearly describe the changes you've made, why you've made them, and how they have been implemented. This makes it as easier for someone looking at your work and deciding whether to incorporate it into the main project to do so. In the likely case the main project is hosted on GitHub you should put this in the pull request (see the version control chapter for more details). 
+7. When you submit your changes clearly describe the changes you've made, why you've made them, and how they have been implemented. This makes it as easier for someone looking at your work and deciding whether to incorporate it into the main project to do so. In the likely case the main project is hosted on GitHub you should put this in the pull request (see the version control chapter for more details).
 
 #### Looking for projects to contribute to and how to contribute to them
 
