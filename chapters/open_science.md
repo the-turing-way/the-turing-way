@@ -11,14 +11,6 @@
 - *Open data (should link to any chapter we write on data)*
   - *How to do it well*
     - *Include metadata*
-  - *Obstacles to openness, confidentiality, commercial aspects etc*
-- *Open software*
-  - *How to do it (well)*
-    - *Version control, include open workflow/notebooks here*
-    - *Readme including setup instructions. Wrap rage, I like this idea, anger at difficulty accessing things, wikipedia has an article*
-    - *License*
-    - *Think about dependencies*
-- *Open access*
 
 
 ---
@@ -29,18 +21,18 @@
 
 ## Summary
 
-Open Science aims to transform science by making research more reproducible, transparent, re-usable, collaborative, accountable and closer to society. It is about the way research is carried out, disseminated, deployed and transformed by digital tools.  The OECD defines Open Science as:  “to make the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction”, but it is more than that. Open Science is frequently defined as an umbrella term that involves various movements aiming to remove the barriers for sharing any kind of output, resources, methods or tools, at any stage of the research process.
+Open Science aims to transform science by making research more reproducible, transparent, re-usable, collaborative, accountable and closer to society. It is about the way research is carried out and disseminated by digital tools. The OECD defines Open Science as:  “to make the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction”, but it is more than that. Open Science is frequently defined as an umbrella term that involves various movements aiming to remove the barriers for sharing any kind of output, resources, methods or tools, at any stage of the research process.
 
 Features of Open Science
-- Open Notebooks - an emerging practice, documenting and sharing the experimental process of trial and error;
-- Open Data - managing research data in a way that optimises access, discoverability and sharing for use and re-use;
-- Open Research Software - documenting research code and routines, and making them freely accessible and available for collaboration;
-- Open Access - making all published outputs freely accessible for maximum use and impact.
+- Open Notebooks - an emerging practice, documenting and sharing the experimental process of trial and error
+- Open Data - managing research data in a way that optimises access, discoverability and sharing for re-use
+- Open Research Software - documenting research code and routines, and making them freely accessible and available
+- Open Access - making all published outputs freely accessible for maximum use and impact
 
 In order to achieve this openness in science, each element of the research process should:
-- Be publicly available: it is difficult to use and benefit from knowledge hidden behind barriers such as passwords;
-- Be re-usable: research outputs need to be licensed appropriately so that prospective users know clearly any limitations on re-use;
-- Be transparent and have appropriate metadata to provide clear statements of how research output was produced, and can be re-used.
+- Be publicly available: it is difficult to use and benefit from knowledge hidden behind barriers such as passwords
+- Be re-usable: research outputs need to be licensed appropriately so that prospective users know clearly any limitations on re-use
+- Be transparent and have appropriate metadata to provide clear statements of how research output was produced and what it contains
 
 Material's used: [1.](https://www.fosteropenscience.eu/content/what-open-science-introduction), [2.](https://open-science-training-handbook.gitbook.io/book/introduction), [3.](https://www.fosteropenscience.eu/content/introduction-open-science-funders-introductory).
 
@@ -59,7 +51,7 @@ There are five main schools of thought motivating open practises to benefit scie
 Open practises also benefits the researchers that propagate them. For example there is evidence that open access articles are cited more, as shown by the metastudy presented in the figure [below](open_access_figure).
 
 <a name="open_access_figure"></a>
-| ![open_acess_citatations](open_acess_citatations.jpg) |
+| ![open_access_citatations](open_access_citatations.jpg) |
 | ----------------------------------------------------- |
 | The relative citation rate (OA: non-OA) in 19 fields of research. This rate is defined as the mean citation rate of OA articles divided by the mean citation rate of non-OA articles. Multiple points for the same discipline indicate different estimates from the same study, or estimates from several studies. References by discipline: Agricultural studies (Kousha and Abdoli, 2010); Physics/astronomy (Gentil-Beccot et al., 2010; Harnad and Brody, 2004; Metcalfe, 2006); Medicine (Sahu et al., 2005; Xu et al., 2011); Computer science (Lawrence, 2001); Sociology/social sciences (Hajjem et al., 2006; Norris et al., 2008; Xu et al., 2011); Psychology (Hajjem et al., 2006); Political science (Hajjem et al., 2006; Antelman, 2004; Atchison and Bull, 2015); Management (Hajjem et al., 2006); Law (Donovan et al., 2015; Hajjem et al., 2006); Economics (Hajjem et al., 2006; McCabe and Snyder, 2015; Norris et al., 2008; Wohlrabe, 2014); Mathematics (Antelman, 2004; Davis and Fromerth, 2007; Norris et al., 2008); Health (Hajjem et al., 2006); Engineering (Antelman, 2004; Koler-Povh et al., 2014); Philosophy (Antelman, 2004); Education (Hajjem et al., 2006; Zawacki-Richter et al., 2010); Business (Hajjem et al., 2006; McCabe and Snyder, 2015); Communication studies (Zhang, 2006); Ecology (McCabe and Snyder, 2014; Norris et al., 2008); Biology (Frandsen, 2009b; Hajjem et al., 2006; McCabe and Snyder, 2014). |
 
