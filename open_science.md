@@ -115,7 +115,7 @@ When a project is open source, that means anybody can view, use, modify, and dis
 
 Many of the most widely used research software is open source. Perhaps the paradigmatic example is the scikit-learn Python package for machine learning (Pedregosa et al., 2011), which, in the space of just over five years, has attracted over 500 unique contributors, 20,000 individual code contributions, and 2,500 article citations. Producing a comparable package using a traditional closed-source approach would likely not be feasible, and would, at the very least, have required a budget of tens of millions of dollars. While scikit-learn is clearly an outlier, hundreds of other open-source scientific packages that support much more domain-specific needs depend in a similar fashion on unsolicited community contributions e.g., the NIPY group of projects in neuroimaging (Gorgolewski et al., 2016). Importantly, such contributions not only result in new functionality from which the broader scientific community can benefit, but also regularly provide their respective authors with greater community recognition, and lead to new project and employment opportunities.
 
-Researchers that make use of open source projects often make changes to them such as adding features they need for their own research, or fixing bugs. They can then contribute these improvements back to the main project
+Researchers that make use of open source projects often make changes to them such as adding features they need for their own research, or fixing bugs. They can then contribute these improvements back to the main project so the wider community can take advantage of them.
 
 ### How running and contributing to open source software projects benefits you
 
@@ -132,24 +132,24 @@ Open source offers opportunities to practice leadership and management skills, s
 - Making your work openly available for re-use makes it much more likely others will incorporate it into their own research, which leads to increased citations.
 - When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code. If your project is open the number of potentially contributing developers and thus the potential knowledge pool is orders of magnitude larger.
 - Feedback. Making your work open enables you to get feedback and improve your project in way you may never have thought of alone.
-- Accountability. There is an argument that any software developed using government money should be open source by default- if the public has paid for its development they have a right to make use of it. If your work is government funded making it open is a step you can take towards making government openness and  accountability.
+- Accountability. There is an argument that any software developed using government money should be open source by default- if the public has paid for its development they have a right to make use of it. If your work is government funded making it open is a step you can take towards government openness and  accountability.
 
-#### How contributing to open source projects benefits you
+#### Contributing to other's open source projects
 
 - It’s empowering to be able to make changes, even small ones. You don’t have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
-- It's fun. Open source provides an endless set of ever-changing set of Rubix cubes for you to solve on weekends. Just like puzzles, both crossword and jigsaw, open source provides bite-sized intellectual escapes.
+- It's fun. Open source provides an endless, ever-changing set of Rubix cubes for you to solve on weekends. Just like puzzles, both crossword and jigsaw, open source provides bite-sized intellectual escapes.
 
 ### How open source software benefits science
 
 Open source projects primarily benefit science by allowing researchers to take advantage of each other's work. This enables researchers to apply their efforts to  high-value work. It is sometimes said that "all the easy problems have already been solved". Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few. While developers could spend their time reinventing wheels that the open source community have already perfected, it's far preferable to use the worlds best wheel, especially when that wheel comes at no cost to you. This frees researchers up to work on yet-unsolved challenges. This reduces duplication of effort and allows researchers to focus on the work they're actually interested in.
 
-Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups. Examples include linux operating systems, python packages such as scipy and numpy, and Google's machine learning library TensorFlow.    
+Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups. Examples include linux operating systems, python packages such as scipy and numpy, and the machine learning library TensorFlow.    
 
 ### How to run your own open source project
 
 You can open source an idea, a work in progress, or after years of being closed source. At the most basic level all you need to do is but your code online somewhere that is likely to last a long time. You can make your code citeable by assigning it a DOI (as discussed in the section on [making data citeable](#citing_data)). This helps ensure that you get proper credit if people use or build upon your work.
 
-A popular place to make your code available is GitHub (see the chapter on version control). You must include a license file stating that anyone has permission to use, copy and modify your work. Without this no one can legaly use your work and so it isn't open source. [This](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project. There are also a few other files you should include:
+A popular place to make your code available is GitHub (see the chapter on version control). You must include a license file stating that anyone has permission to use, copy and modify your work. Without this no one can legaly use your work and so it isn't open source. [This](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project. There are also a few other files you should include with your code:
 
 #### Readme
 
@@ -170,9 +170,8 @@ If you intend for other people to collaborate on your project (as opposed to jus
 
 Contributing guidelines tell your audience how to participate in your project. For example, you might include information on:
 
-- How to file a bug report (try using issue and pull request templates)
+- How to file a bug report
 - How to suggest a new feature
-- How to set up your environment and run tests
 - Your roadmap or vision for the project
 - How contributors should (or should not) get in touch with you
 
@@ -198,9 +197,9 @@ A typical open source project has the following types of people:
 
 - Author: The person/s or organization that created the project
 - Owner: The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-- Maintainers: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
+- Maintainers: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. They may also be authors and/or owners of the project.
 - Contributors: Everyone who has contributed something back to the project.
-- Community Members: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
+- Community members: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
 
 Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project’s website for a “team” page, or in the repository for governance documentation, to find this information.
 
@@ -219,7 +218,7 @@ Say you've added a feature or fixed a bug and want to contribute this work to th
 2. Make sure your conventions match those of the main project, both in style and structure. For example if all the variables in a project are named in some particular way yours should be too! Consistent conventions make it much easier for someone who hasn't seen your piece of the project before to understand it rather than having to figure out your particular set of conventions *and* what the code is doing. The project's conventions may be outlined in its documentation, or may just be evident from inspection of the code itself.
 3. Break your changes up into manageable, well-defined chunks, e.g if you've added two separate features don't submit them together. Keeping things "clean" in this way makes your work simpler to understand and review.
 4. Test your changes. If the project comes with tests run them, and make sure you're testing against an up to date version of the project as it may have evolved considerably over time. Write specific tests for your changes and submit those too.
-5. Don't just submit code- update any relevant documentation too. If your changes are incorporated it will have to be undated, if you don't do it someone else will have to.
+5. Don't just submit code- update any relevant documentation too. If your changes are incorporated it will have to be updated, if you don't do it someone else will have to.
 6. Ask questions. If there are things you are unsure about there's no harm in asking. Many larger projects have dedicated forums or other venues for questions and discussion.
 7. When you submit your changes clearly describe the changes you've made, why you've made them, and how they have been implemented. This makes it as easier for someone looking at your work and deciding whether to incorporate it into the main project to do so. In the likely case the main project is hosted on GitHub you should put this in the pull request (see the version control chapter for more details).
 
@@ -235,17 +234,17 @@ You can also use one of the following resources to help you discover and contrib
 
 If you're not sure how to start here's a few other ways you can go about it such as finding an open issue to tackle or asking if you can help write a new feature.
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it’s often the other parts of a project that are most neglected or overlooked. You’ll do the project a huge favour by offering to pitch in with these types of contributions!
+A common misconception about contributing to open source is that you need to contribute code. In fact, it’s often the other parts of a project that are most neglected or overlooked. You’ll do the project a huge favour by offering to pitch in with these types of contributions! You could:
 
 - Review code on other people’s submissions
 - Write and improve the project’s documentation
 - Curate a folder of examples showing how the project is used
-- Answer questions about the project on e.g., Stack Overflow (like this Postgres example) or Reddit
+- Answer questions about the project on e.g., Stack Overflow
 - Keep things organized, e.g. on GitHub by
- - Linking to duplicate issues
- - Suggesting new issue labels
- - Going through open issues and suggesting closing old ones
- - Ask clarifying questions on recently opened issues to move the discussion forward
+  - Linking to duplicate issues
+  - Suggesting new issue labels
+  - Going through open issues and suggesting closing old ones
+  - Ask clarifying questions on recently opened issues to move the discussion forward
 
 ## Open Access
 
