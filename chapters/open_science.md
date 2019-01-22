@@ -294,7 +294,18 @@ Self archive a publication in a suitable repository, institutional or subject-ba
 Consider submitting your work to a journal that is open access. When doing this be aware that there may be funds or discounts available to cover any associated costs.
 
 ## Checklist
-> this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
+
+### Open data
+
+- [ ] Ensure your data is in a simple, standard format or formats which is machine and human readable.
+- [ ] Check, reformat or create metadata to clearly describe what the data is, how it was collected, and any associated strengths/weaknesses to someone that finds it.
+- [ ] Identify a relevant, easily discoverable repository or repositories to host your data, and upload it there
+- [ ] Assign your data a persistent identifier such as a DOI.
+
+### Open source software
+
+
+### Open access
 
 ## What to learn next
 
