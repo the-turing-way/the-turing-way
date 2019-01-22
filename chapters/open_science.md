@@ -304,6 +304,10 @@ Consider submitting your work to a journal that is open access. When doing this 
 
 ### Open source software
 
+- [ ] Put your code in a freely accessible repository
+- [ ] Include a license granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate license for your project.
+- [ ] Include a readme file containing useful information about a project such as what it is, how to use/install it and how to run any tests.
+- [ ] If you want others to collaborate on the project include contribution guidelines instructing them on how to go about that and a code of conduct specifying standards of behaviour.
 
 ### Open access
 
@@ -339,7 +343,7 @@ If you haven't had a chance already take a look at the chapter on version contro
 
 **Persistent identifier:** A long-lived method for identifying a resource that is unique, and widely understandable by a community.
 
-**Readme:** A file which contains useful information about a project such as what it is, how to use it, how to test it, and how to contribute to it.
+**Readme:** A file which contains useful information about a project such as what it is, how to use/install it, how to test it, and how to contribute to it.
 
 **Repository:** A long-lived place on the internet where resources (be they data, software, publications or anything else) can be stored and accessed.
 
