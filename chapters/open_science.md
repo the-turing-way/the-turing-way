@@ -15,8 +15,6 @@ In order to achieve this openness in science, each element of the research proce
 - Be re-usable: research outputs need to be licensed appropriately so that prospective users know clearly any limitations on re-use
 - Be transparent and have appropriate metadata to provide clear statements of how research output was produced and what it contains
 
-Material's used: [1.](https://www.fosteropenscience.eu/content/what-open-science-introduction), [2.](https://open-science-training-handbook.gitbook.io/book/introduction), [3.](https://www.fosteropenscience.eu/content/introduction-open-science-funders-introductory).
-
 ## How this will help you/ why this is useful
 
 There are five main schools of thought motivating open practises to benefit scientific research:
@@ -37,14 +35,10 @@ Open practises also benefits the researchers that propagate them. For example th
 
 Another benefit of openness is that while research collaborations are essential to advancing knowledge, identifying and connecting with appropriate collaborators is not trivial. Open practices can make it easier for researchers to connect with one another by increasing the discoverability and visibility of one’s work, facilitating rapid access to novel data and software resources, and creating new opportunities to interact with and contribute to ongoing communal projects.
 
-Material's used: [1.](https://link.springer.com/chapter/10.1007/978-3-319-00026-8_2), [2.](https://elifesciences.org/articles/16800)
-
 ## Prerequisites / recommended skill level
 It is useful, but not necessary, to be familiar with version control and particularly the version control chapter's section on GitHub.
 
 ## Open data
-
-Materials used: [1.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/vision/open_research_data.html) **Creative Commons Attribution-NonCommercical** [2.](http://opendatahandbook.org/guide/en/what-is-open-data/) **CC Attribution 4.0 International License** [3.](https://opendatacharter.net/) **Creative Commons Attribution 4.0 International License** [4.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/making_data_citeable.html) **Creative Commons Attribution-NonCommercical** [5.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/challenges_of_open_data_in_medical_research.html) **Creative Commons Attribution-NonCommercical** [6.](http://www.dcc.ac.uk/resources/how-guides/cite-datasets) **Creative Commons** [7.](https://www.open-contracting.org/2016/09/19/diving-deeper-commercial-confidentiality/) **Creative Commons Attribution 4.0 International License** [8.](http://www.dcc.ac.uk/resources/how-guides/cite-datasets) **Creative Commons**
 
 The world is witnessing a significant global transformation, facilitated by technology and digital media, and fueled by data and information. This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research.
  Only a very small proportion of the original data is published in conventional scientific journals. Existing policies on data archiving notwithstanding, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public. This lack of access to scientific data is an obstacle to international research for two main reasons:
@@ -105,9 +99,6 @@ In many cases companies are understandably unwilling to publish much of their da
 In such cases it may not be possible to make data open, or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy.
 
 ## Open Source software
-
-Materials used: [1.](https://elifesciences.org/articles/16800) **Attribution 4.0 International (CC BY 4.0)** [2.](https://ben.balter.com/2015/11/23/why-open-source/) **CC BY 3.0** [3.](https://opensource.guide/starting-a-project/) **(CC BY 4.0)** [4.](https://opensource.guide/)
-
 
 ### What is open source software?
 
@@ -248,8 +239,6 @@ A common misconception about contributing to open source is that you need to con
 
 ## Open Access
 
-Materials used: [1.](https://opensource.com/resources/what-open-access) **Attribution-ShareAlike 4.0 International** [2.](http://www.righttoresearch.org/learn/whyOA/index.shtml) **Creative Commons Attribution 3.0 License** [3.](https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-access-to-published-research-results) **CC0 1.0 Universal**
-
 ### What is open access?
 
 One of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public if purchased by means of a subscription fee or individually. However, new knowledge is built by synthesizing current scholarship and then building upon it. At the turn of the 21st century a new movement appeared with a clear objective: make all the research results available to anyone interested in reading it, free of charge by any user, with no technical obstacles such as mandatory registration or login to specific platforms. This movement took the name of Open Access and established two initial strategies to achieve its final goal: self archiving and open access publishing.
@@ -350,7 +339,21 @@ If you haven't had a chance already take a look at the chapter on version contro
 
 ## Bibliography
 - [1.](https://www.fosteropenscience.eu/content/what-open-science-introduction) **CC-BY 4.0**
-- [2.](https://open-science-training-handbook.gitbook.io/book/introduction) on open science **CC 1.0**
+- [2.](https://open-science-training-handbook.gitbook.io/book/introduction) **CC 1.0**
 - [3.](https://www.fosteropenscience.eu/content/introduction-open-science-funders-introductory) **Attribution + Noncommercial - CC-BY-NC**
 - [4.](https://link.springer.com/chapter/10.1007/978-3-319-00026-8_2) **Creative Commons Attribution Noncommercial License**
 - [5.](https://elifesciences.org/articles/16800) **Attribution 4.0 International (CC BY 4.0)**
+- [8.](https://www.fosteropenscience.eu/content/introduction-open-science-funders-introductory) **Attribution + Noncommercial - CC-BY-NC**
+- [11.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/vision/open_research_data.html) **Creative Commons Attribution-NonCommercical**
+- [12.](http://opendatahandbook.org/guide/en/what-is-open-data/) **CC Attribution 4.0 International License**
+- [13.](https://opendatacharter.net/) **Creative Commons Attribution 4.0 International License**
+- [14.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/making_data_citeable.html) **Creative Commons Attribution-NonCommercical**
+- [15.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/challenges_of_open_data_in_medical_research.html) **Creative Commons Attribution-NonCommercical**
+- [16.](http://www.dcc.ac.uk/resources/how-guides/cite-datasets) **Creative Commons**
+- [17.](https://www.open-contracting.org/2016/09/19/diving-deeper-commercial-confidentiality/) **Creative Commons Attribution 4.0 International License**
+- [20.](https://ben.balter.com/2015/11/23/why-open-source/) **CC BY 3.0**
+- [21.](https://opensource.guide/starting-a-project/) **(CC BY 4.0)**
+- [22.](https://opensource.guide/) **(CC BY 4.0)**
+- [23.](https://opensource.com/resources/what-open-access) **Attribution-ShareAlike 4.0 International**
+- [24.](http://www.righttoresearch.org/learn/whyOA/index.shtml) **Creative Commons Attribution 3.0 License**
+- [25.](https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-access-to-published-research-results) **CC0 1.0 Universal**
