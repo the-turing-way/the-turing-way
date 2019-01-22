@@ -301,8 +301,8 @@ Consider submitting your work to a journal that is open access. When doing this 
 If you haven't had a chance already take a look at the chapter on version control, particularly the sections on GitHub in the latter half.
 
 ## Further reading
-> top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
-> less relevant/favourite resources in case someone wants to dig into this in detail
+
+[This](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) book on open science has a great deal of interesting information on open science. For information specific to open source software [this](https://opensource.guide/) is a good place to look. For more information on DOIs and citing resources look [here](http://www.doi.org/index.html).
 
 ## Definitions/glossary
 
