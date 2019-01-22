@@ -149,7 +149,7 @@ Working openly also allows any number of researchers to collaborate on projects 
 
 You can open source an idea, a work in progress, or after years of being closed source. At the most basic level all you need to do is but your code online somewhere that is likely to last a long time. You can make your code citeable by assigning it a DOI (as discussed in the section on [making data citeable](#citing_data)). This helps ensure that you get proper credit if people use or build upon your work.
 
-A popular place to make your code available is GitHub (see the chapter on version control). You must include a license file stating that anyone has permission to use, copy and modify your work. Without this no one can legaly use your work and so it isn't open source. [This](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project. There are also a few other files you should include with your code:
+A popular place to make your code available is GitHub (see the chapter on version control). You must include a license file stating that anyone has permission to use, copy and modify your work. Without this no one can legally use your work and so it isn't open source. [This](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project. There are also a few other files you should include with your code:
 
 #### Readme
 
@@ -240,7 +240,7 @@ A common misconception about contributing to open source is that you need to con
 - Write and improve the project’s documentation
 - Curate a folder of examples showing how the project is used
 - Answer questions about the project on e.g., Stack Overflow
-- Keep things organized, e.g. on GitHub by
+- Keep things organized, e.g. on GitHub by:
     - Linking to duplicate issues
     - Suggesting new issue labels
     - Going through open issues and suggesting closing old ones
@@ -304,7 +304,40 @@ Consider submitting your work to a journal that is open access. When doing this 
 > less relevant/favourite resources in case someone wants to dig into this in detail
 
 ## Definitions/glossary
-> Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
+
+**Contributing guidelines:**
+
+**Contributor:**
+
+**DOI:**
+
+**GitHub:**
+
+**License:**
+
+**Maintainer:**
+
+**Metadata:**
+
+**Open access publishing:**
+
+**Open access (gratis):**
+
+**Open access publishing (libre):**
+
+**Open data:**
+
+**Open source software:**
+
+**Persistent identifier:**
+
+**Readme:** a file which contains useful information about a project such as what it is, how to use it, how to test it, and how to contribute to it.
+
+**Repository (code):**
+
+**Repository (publication or data):**
+
+**Self-archive:**
 
 ## Bibliography
 - [1.](https://www.fosteropenscience.eu/content/what-open-science-introduction) **CC-BY 4.0**
