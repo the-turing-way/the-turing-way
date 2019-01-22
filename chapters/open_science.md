@@ -298,7 +298,7 @@ Consider submitting your work to a journal that is open access. When doing this 
 
 ## What to learn next
 
-If you haven't had a chance already take a look at the  chapter on version control, particularly the sections on GitHub in the latter half.
+If you haven't had a chance already take a look at the chapter on version control, particularly the sections on GitHub in the latter half.
 
 ## Further reading
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
@@ -306,39 +306,33 @@ If you haven't had a chance already take a look at the  chapter on version contr
 
 ## Definitions/glossary
 
-**Contributing guidelines:**
+**Contributing guidelines:** Guidelines outlining how a person should go about contributing to an open source project.
 
-**Contributor:**
+**Contributor:** Someone that has contributed something (not necessarily code) to an open source project.
 
-**DOI:**
+**DOI:** A widely used type of persistent identifier.
 
-**GitHub:**
+**GitHub:** An online code hosting and version control service. It has a great many features to aid collaboration between users, and hosts a large number of open source projects.
 
-**License:**
+**Maintainer:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. They may also be authors and/or owners of the project.
 
-**Maintainer:**
+**Metadata:** Data used to describe other data. For example (35, 33, 27, 30, 33) is data but the units (miles per hour) and the fact these are the speeds of cars on a certain stretch of road is metadata.
 
-**Metadata:**
+**Open access publishing (gratis):** The practise of making research publications available to anyone to read without charge.
 
-**Open access publishing:**
+**Open access publishing (libre):** Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users the right to copy, reuse, and remix the publication.
 
-**Open access (gratis):**
+**Open data:** Data that is freely available online for reuse without bureaucratic or administrative barriers.
 
-**Open access publishing (libre):**
+**Open source software:** Software which is available online for anybody to view, use, modify, and distribute.
 
-**Open data:**
+**Persistent identifier:** A long-lived method for identifying a resource that is unique, and widely understandable by a community.
 
-**Open source software:**
+**Readme:** A file which contains useful information about a project such as what it is, how to use it, how to test it, and how to contribute to it.
 
-**Persistent identifier:**
+**Repository:** A long-lived place on the internet where resources (be they data, software, publications or anything else) can be stored and accessed.
 
-**Readme:** a file which contains useful information about a project such as what it is, how to use it, how to test it, and how to contribute to it.
-
-**Repository (code):**
-
-**Repository (publication or data):**
-
-**Self-archive:**
+**Self-archive:** To place your research output in a repository.
 
 ## Bibliography
 - [1.](https://www.fosteropenscience.eu/content/what-open-science-introduction) **CC-BY 4.0**
