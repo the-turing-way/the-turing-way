@@ -311,6 +311,9 @@ Consider submitting your work to a journal that is open access. When doing this 
 
 ### Open access
 
+- [ ] Publish your research in an open access journal
+- [ ] Store a copy and/or preprint of your work in a freely accessible public repository
+
 ## What to learn next
 
 If you haven't had a chance already take a look at the chapter on version control, particularly the sections on GitHub in the latter half.
