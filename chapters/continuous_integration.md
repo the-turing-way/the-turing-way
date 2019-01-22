@@ -1,5 +1,12 @@
 # Continuous integration
 
+## Setting up my own CI step by step
+
+- On my computer I made a diretory, made a simple function adding two numbers and a test for it. Ran pytest and it passed.
+- Used git init, added and commited the files.
+- On github made a repo with the same name as the directory (CI-practise)
+- Put my code on github using `git remote add origin the_url` then `git push -u origin master`
+
 ## Summary
 > easy to understand summary - a bit like tl;dr
 
