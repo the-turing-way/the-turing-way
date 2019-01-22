@@ -6,6 +6,37 @@
 - Used git init, added and commited the files.
 - On github made a repo with the same name as the directory (CI-practise)
 - Put my code on github using `git remote add origin the_url` then `git push -u origin master`
+- Went to https://travis-ci.org/
+- Clicked "Sign in with GitHub"
+- Redirected me to GitHub where permission was aked for Travis to have access to my stuff, clicked authorise
+- Came up with a page with a list of my repos each of which had a switch next to them, they were all off. For my CI-practise repo I turned it on.
+- On my local machine I created subtract.py which subtracts two numbers and a test for it, added and committed those files.
+- I pushed to my github but travis didn't run.
+- On my machine I created a branch called multiply_feature and added and committed a function and test to do that
+- Pushed that to github using `git push -u origin multiply_feature`
+- Switched to that branch on github and made a pull request to master
+- Continuos intergration didn't run, but there is a link just above the bit saying no merge conficts saying continuous intergration hasn't been set up and there are apps that can do it.
+- Clicked that, it took me to a github page about contuinous intergration
+- Remembered I need a .travis.yml file if travis is to run. Created one on my local machine
+
+ ```
+language: python
+python:
+  - "2.7"
+script:
+  - pytest
+```
+
+- Pushed to the github version of the branch. On the pull request travis automatically started running and the tests passed. Worth noting that throughout I was still able to merge.
+- Merged.
+- Switched back to master on my machine and github.
+- Made an inconsequential change, just added a print statement to the add funtion. Committed and pushed to github.
+- The change immediatly appeared in my master on github, however on travis it did run the tests and showed up green.
+- Made another branch, on it created a function and test to square numbers. Made a deliberate mistake so the tests would fail. Pushed to github.
+- The files/code I added immediatly appeared in my github version of that branch, however on travis the tests failed.
+- Made a pull request from the branch to master. The travis tests re-ran on the pull request and failed again (though i still had the option to merge if I wanted).
+- On my computer I fixed the bug, added, committed and pushed. On the pull request the tests automatically re-ran.
+- The tests passed and I merged into master.
 
 ## Summary
 > easy to understand summary - a bit like tl;dr
@@ -34,3 +65,7 @@
 
 ## Bibliography
 > Credit/urls for any materials that form part of the chapter's text.
+
+## Acknowledgements
+
+Thanks to David Jones for useful discussions.
