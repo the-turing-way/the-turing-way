@@ -290,7 +290,7 @@ Open Educational Resources (OER) are teaching and learning materials that can be
 
 Unlike copyrighted resources, OER have been authored or created by an individual or organization that chooses to retain few, if any, ownership rights. In some cases, that means anyone can download a resource and share it with colleagues and students. In other cases, this may go further and enable people to edit resources and then re-post them as a remixed work. How do you know your options? OER often have a Creative Commons license or other permission to let you know how the material may be used, reused, adapted, and shared.
 
-Fully open OERs comply with the the 5 Rs:
+Fully open OERs comply with the 5 Rs:
 
 – Retain: the right to make, own, and control copies of the content
 – Reuse: the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
@@ -308,6 +308,7 @@ Beyond the raw practical benefits the worldwide OER movement is rooted in the hu
 
 ### Equity, Diversity, Inclusion
 
+Open scholarship means open to *everyone* without discrimination based on factors such as race, gender, sexual orientation or any number of other factors. As a community we should undertake to ensure equitable opportunities for all. We can go about that by deliberately fostering welcoming, inclusive cultures within out communities. For example, reasonable accommodations should be made wherever possible to include community members with disabilities to enable them to participate fully, and this can be as simple as choosing colourblind-safe colour schemes when making graphs.
 
 ### Citizen science
 
