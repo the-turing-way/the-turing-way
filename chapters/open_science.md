@@ -286,35 +286,13 @@ Open science fits under the umbrella of a broader concept- open scholarship.
 
 ### Open educational resources
 
-Researchers generate a great deal of educational resources in the course of teaching students and each other (at workshops, for example). By making these openly available, for example in the [open educational resource commons](https://www.oercommons.org/) the wider community can benefit from them in three main ways:
+Materials used: [What and why](https://www.oercommons.org/about) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License** [ucl](https://libguides.ioe.ac.uk/oer)  **Creative CommonsAttribution-NonCommercial-ShareAlike 2.0 UK: England & Wales (CC BY-NC-SA 2.0 UK)** [Blog](https://opencontent.org/blog/archives/3221) **Creative Commons Attribution license version 4.0**
 
-1. Most obviously, the community can use the materials to learn about the material they cover
-2. Sharing resources reduces duplication of effort. If an educator needs materials for teaching and such materials already exist openly then they need not make thr own from scratch, saving time.
-3. OERs help a community build better resources by improving resources that already exist and combining OERs to take advantage of their different strengths, such as a great diagram or explanation.
+Open Educational Resources (OER) are teaching and learning materials that can be freely used and reused for learning and/or teaching at no cost, and without needing to ask permission. Examples are courses- including MOOCs (Massive Online Open Course), lectures, teaching materials, assignments and various other resources. OERs are available in many different formats compatible with online usage most obviously text, images, audio and video. Anyone with internet access can access and use OERs; access is not dependent on location or membership of a particular institution.
 
-Materials used:
+Unlike copyrighted resources, OER have been authored or created by an individual or organization that chooses to retain few, if any, ownership rights. In some cases, that means anyone can download a resource and share it with colleagues and students. In other cases, this may go further and enable people to edit resources and then re-post them as a remixed work. How do you know your options? OER often have a Creative Commons license or other permission to let you know how the material may be used, reused, adapted, and shared.
 
-[What and why](https://www.oercommons.org/about) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License**
-
-Open Educational Resources (OER) are teaching and learning materials that can be freely used and reused at no cost, and without needing to ask permission. Unlike copyrighted resources, OER have been authored or created by an individual or organization that chooses to retain few, if any, ownership rights.
-
-In some cases, that means anyone can download a resource and share it with colleagues and students. In other cases, this may go further and enable people to edit resources and then re-post them as a remixed work. How do you know your options? OER often have a Creative Commons license or other permission to let you know how the material may be used, reused, adapted, and shared.
-
-The worldwide OER movement is rooted in the human right to access high-quality education. This shift in educational practice is not just about cost savings and easy access to openly licensed content; it’s about participation and co-creation. Open Educational Resources (OER) offer opportunities for systemic change in teaching and learning content through engaging educators in new participatory processes and effective technologies for engaging with learning.
-
----
-
-[ucl](https://libguides.ioe.ac.uk/oer)  **Creative CommonsAttribution-NonCommercial-ShareAlike 2.0 UK: England & Wales (CC BY-NC-SA 2.0 UK)**
-
-Open Educational Resources (OER) are freely available online materials that anyone can use for learning and/or teaching. Examples are courses- including MOOCs (Massive Online Open Course), lectures, teaching materials, assignments and various other resources. OERs are available in many different formats compatible with online usage most obviously text, images, audio and video.
-
-Anyone with internet access can access and use OERs; access is not dependent on location or membership of a particular institution. OERs are particularly useful for researchers, teachers and learners.
-
----
-
-[Blog](https://opencontent.org/blog/archives/3221) **Creative Commons Attribution license version 4.0**
-
-The 5Rs of Openness:
+Fully open OERs comply with the the 5 Rs:
 
 – Retain: the right to make, own, and control copies of the content
 – Reuse: the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
@@ -322,8 +300,13 @@ The 5Rs of Openness:
 – Remix: the right to combine the original or revised content with other open content to create something new (e.g., incorporate the content into a mashup)
 – Redistribute: the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)
 
+Researchers generate a great deal of educational resources in the course of teaching students and each other (at workshops, for example). By making these openly available, for example in the [open educational resource commons](https://www.oercommons.org/) the wider community can benefit from them in three main ways:
 
+1. Most obviously, the community can use the materials to learn about the material they cover
+2. Sharing resources reduces duplication of effort. If an educator needs materials for teaching and such materials already exist openly then they need not make their own from scratch, saving time.
+3. Making materials openly available helps a community build better resources by improving resources that already exist and combining OERs to take advantage of their different strengths, such as a great diagram or explanation.
 
+Beyond the raw practical benefits the worldwide OER movement is rooted in the human right to access high-quality education. This shift in educational practice is about participation and co-creation. Open Educational Resources (OER) offer opportunities for systemic change in teaching and learning content through engaging educators in new participatory processes and effective technologies for engaging with learning.
 
 ### Equity, Diversity, Inclusion
 
