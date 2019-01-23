@@ -13,15 +13,15 @@ This workshop is for people who are:
 This workshop is being run by The Turing Way project team. The Turing Way will be a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do". Reproducible research is necessary to ensure that scientific work can be trusted. The goal is to ensure that all results can be independently verified and built upon in future work. Our interdisciplinary team includes researchers, research software engineers and librarians. This project is openly developed and any and all questions, comments and recommendations are welcome at our github repository: https://github.com/alan-turing-institute/the-turing-way.
 
 ### Programme
-9.30 - 10.00: Coffee and Registration
-10.00 - 10.30: Introduction to the workshop and The Turing Way
-10.30 - 12.00: Reproducible computing environment and how Binder can help
-12.00 - 1.00: Lunch
-1.00 - 2.00: Zero to Binder
-2.00 - 2.30: Coffee
-2.30 - 3.30: Build your own Binder
-3.30 - 4.00: Demonstrating your Binder, general questions, feedback and close
-4.00 - 5.00: Optional hangout with instructors
+* 9.30 - 10.00: Coffee and Registration
+* 10.00 - 10.30: Introduction to the workshop and The Turing Way
+* 10.30 - 12.00: Reproducible computing environment and how Binder can help
+* 12.00 - 1.00: Lunch
+* 1.00 - 2.00: Zero to Binder
+* 2.00 - 2.30: Coffee
+* 2.30 - 3.30: Build your own Binder
+* 3.30 - 4.00: Demonstrating your Binder, general questions, feedback and close
+* 4.00 - 5.00: Optional hangout with instructors
 
 ### Some example Binders:
 *	Office of National Statistics - a report on traffic flow as an early indicator for GDP
@@ -45,12 +45,12 @@ This workshop is for Research Software Engineers and IT staff who are:
 This workshop is being run by The Turing Way project team. The Turing Way will be a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do". Reproducible research is necessary to ensure that scientific work can be trusted. The goal is to ensure that all results can be independently verified and built upon in future work. Our interdisciplinary team includes researchers, research software engineers and librarians. This project is openly developed and any and all questions, comments and recommendations are welcome at our github repository: https://github.com/alan-turing-institute/the-turing-way.
 
 ### Programme
-9.30 - 10.00: Coffee and Registration
-10.00 - 10.30: Introduction to the workshop and The Turing Way
-10.30 - 12.00: Introduction to Binder and why *you* should build a BinderHub
-12.00 - 1.00: Lunch
-1.00 - 2.00: Practical session – Build your BinderHub?
-2.00 - 2.30: Coffee
-2.30 - 3.30: Practical session – Build your BinderHub?
-3.30 - 4.00: Demonstration of progress made, general questions, feedback and close
-4.00 - 5.00: Optional hangout with instructors
+* 9.30 - 10.00: Coffee and Registration
+* 10.00 - 10.30: Introduction to the workshop and The Turing Way
+* 10.30 - 12.00: Introduction to Binder and why *you* should build a BinderHub
+* 12.00 - 1.00: Lunch
+* 1.00 - 2.00: Practical session – Build your BinderHub?
+* 2.00 - 2.30: Coffee
+* 2.30 - 3.30: Practical session – Build your BinderHub?
+* 3.30 - 4.00: Demonstration of progress made, general questions, feedback and close
+* 4.00 - 5.00: Optional hangout with instructors
