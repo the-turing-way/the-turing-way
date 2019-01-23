@@ -286,8 +286,6 @@ Open science fits under the umbrella of a broader concept- open scholarship.
 
 ### Open educational resources
 
-Materials used: [What and why](https://www.oercommons.org/about) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License** [ucl](https://libguides.ioe.ac.uk/oer)  **Creative CommonsAttribution-NonCommercial-ShareAlike 2.0 UK: England & Wales (CC BY-NC-SA 2.0 UK)** [Blog](https://opencontent.org/blog/archives/3221) **Creative Commons Attribution license version 4.0**
-
 Open Educational Resources (OER) are teaching and learning materials that can be freely used and reused for learning and/or teaching at no cost, and without needing to ask permission. Examples are courses- including MOOCs (Massive Online Open Course), lectures, teaching materials, assignments and various other resources. OERs are available in many different formats compatible with online usage most obviously text, images, audio and video. Anyone with internet access can access and use OERs; access is not dependent on location or membership of a particular institution.
 
 Unlike copyrighted resources, OER have been authored or created by an individual or organization that chooses to retain few, if any, ownership rights. In some cases, that means anyone can download a resource and share it with colleagues and students. In other cases, this may go further and enable people to edit resources and then re-post them as a remixed work. How do you know your options? OER often have a Creative Commons license or other permission to let you know how the material may be used, reused, adapted, and shared.
@@ -381,17 +379,20 @@ If you haven't had a chance already take a look at the chapter on version contro
 - [3.](https://www.fosteropenscience.eu/content/introduction-open-science-funders-introductory) **Attribution + Noncommercial - CC-BY-NC**
 - [4.](https://link.springer.com/chapter/10.1007/978-3-319-00026-8_2) **Creative Commons Attribution Noncommercial License**
 - [5.](https://elifesciences.org/articles/16800) **Attribution 4.0 International (CC BY 4.0)**
-- [8.](https://www.fosteropenscience.eu/content/introduction-open-science-funders-introductory) **Attribution + Noncommercial - CC-BY-NC**
-- [11.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/vision/open_research_data.html) **Creative Commons Attribution-NonCommercical**
-- [12.](http://opendatahandbook.org/guide/en/what-is-open-data/) **CC Attribution 4.0 International License**
-- [13.](https://opendatacharter.net/) **Creative Commons Attribution 4.0 International License**
-- [14.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/making_data_citeable.html) **Creative Commons Attribution-NonCommercical**
-- [15.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/challenges_of_open_data_in_medical_research.html) **Creative Commons Attribution-NonCommercical**
-- [16.](http://www.dcc.ac.uk/resources/how-guides/cite-datasets) **Creative Commons**
-- [17.](https://www.open-contracting.org/2016/09/19/diving-deeper-commercial-confidentiality/) **Creative Commons Attribution 4.0 International License**
-- [20.](https://ben.balter.com/2015/11/23/why-open-source/) **CC BY 3.0**
-- [21.](https://opensource.guide/starting-a-project/) **(CC BY 4.0)**
-- [22.](https://opensource.guide/) **(CC BY 4.0)**
-- [23.](https://opensource.com/resources/what-open-access) **Attribution-ShareAlike 4.0 International**
-- [24.](http://www.righttoresearch.org/learn/whyOA/index.shtml) **Creative Commons Attribution 3.0 License**
-- [25.](https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-access-to-published-research-results) **CC0 1.0 Universal**
+- [6.](https://www.fosteropenscience.eu/content/introduction-open-science-funders-introductory) **Attribution + Noncommercial - CC-BY-NC**
+- [7.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/vision/open_research_data.html) **Creative Commons Attribution-NonCommercical**
+- [8.](http://opendatahandbook.org/guide/en/what-is-open-data/) **CC Attribution 4.0 International License**
+- [9.](https://opendatacharter.net/) **Creative Commons Attribution 4.0 International License**
+- [10.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/making_data_citeable.html) **Creative Commons Attribution-NonCommercical**
+- [11.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/challenges_of_open_data_in_medical_research.html) **Creative Commons Attribution-NonCommercical**
+- [12.](http://www.dcc.ac.uk/resources/how-guides/cite-datasets) **Creative Commons**
+- [13.](https://www.open-contracting.org/2016/09/19/diving-deeper-commercial-confidentiality/) **Creative Commons Attribution 4.0 International License**
+- [14.](https://ben.balter.com/2015/11/23/why-open-source/) **CC BY 3.0**
+- [15.](https://opensource.guide/starting-a-project/) **(CC BY 4.0)**
+- [16.](https://opensource.guide/) **(CC BY 4.0)**
+- [17.](https://opensource.com/resources/what-open-access) **Attribution-ShareAlike 4.0 International**
+- [18.](http://www.righttoresearch.org/learn/whyOA/index.shtml) **Creative Commons Attribution 3.0 License**
+- [19.](https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-access-to-published-research-results) **CC0 1.0 Universal**
+- [20.](https://www.oercommons.org/about) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License**
+- [21.](https://libguides.ioe.ac.uk/oer)  **Creative CommonsAttribution-NonCommercial-ShareAlike 2.0 UK: England & Wales (CC BY-NC-SA 2.0 UK)**
+- [22.](https://opencontent.org/blog/archives/3221) **Creative Commons Attribution license version 4.0**
