@@ -278,6 +278,34 @@ Self archive a publication in a suitable repository, institutional or subject-ba
 
 Consider submitting your work to a journal that is open access. When doing this be aware that there may be funds or discounts available to cover any associated costs.
 
+## Open scholarship
+
+Open science fits under the umbrella of a broader concept- open scholarship.
+
+![open_umbrella](../figures/open_umbrella.png)
+
+### Open educational resources
+
+Materials used: [1.](https://www.oercommons.org/about) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License**
+
+Open Educational Resources (OER) are teaching and learning materials that can be freely used and reused at no cost, and without needing to ask permission. Unlike copyrighted resources, OER have been authored or created by an individual or organization that chooses to retain few, if any, ownership rights.
+
+In some cases, that means anyone can download a resource and share it with colleagues and students. In other cases, this may go further and enable people to edit resources and then re-post them as a remixed work. How do you know your options? OER often have a Creative Commons license or other permission to let you know how the material may be used, reused, adapted, and shared.
+
+The worldwide OER movement is rooted in the human right to access high-quality education. This shift in educational practice is not just about cost savings and easy access to openly licensed content; it’s about participation and co-creation. Open Educational Resources (OER) offer opportunities for systemic change in teaching and learning content through engaging educators in new participatory processes and effective technologies for engaging with learning.
+
+
+
+Researchers generate a great deal of educational resources in the course of teaching students and each other (at workshops, for example).
+
+### Equity, Diversity, Inclusion
+
+
+### Citizen science
+
+
+
+
 ## Checklist
 
 ### Open data
