@@ -286,7 +286,11 @@ Open science fits under the umbrella of a broader concept- open scholarship.
 
 ### Open educational resources
 
-Materials used: [1.](https://www.oercommons.org/about) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License**
+*Shoudl direct poeple to https://www.oercommons.org/ somewhere*
+
+Materials used:
+
+[What and why](https://www.oercommons.org/about) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License**
 
 Open Educational Resources (OER) are teaching and learning materials that can be freely used and reused at no cost, and without needing to ask permission. Unlike copyrighted resources, OER have been authored or created by an individual or organization that chooses to retain few, if any, ownership rights.
 
@@ -294,6 +298,25 @@ In some cases, that means anyone can download a resource and share it with colle
 
 The worldwide OER movement is rooted in the human right to access high-quality education. This shift in educational practice is not just about cost savings and easy access to openly licensed content; it’s about participation and co-creation. Open Educational Resources (OER) offer opportunities for systemic change in teaching and learning content through engaging educators in new participatory processes and effective technologies for engaging with learning.
 
+---
+
+[ucl](https://libguides.ioe.ac.uk/oer)  **Creative CommonsAttribution-NonCommercial-ShareAlike 2.0 UK: England & Wales (CC BY-NC-SA 2.0 UK)**
+
+Open Educational Resources (OER) are freely available online materials that anyone can use for learning and/or teaching. Examples are courses- including MOOCs (Massive Online Open Course), lectures, teaching materials, assignments and various other resources. OERs are available in many different formats compatible with online usage most obviously text, images, audio and video.
+
+Anyone with internet access can access and use OERs; access is not dependent on location or membership of a particular institution. OERs are particularly useful for researchers, teachers and learners.
+
+---
+
+[Blog](https://opencontent.org/blog/archives/3221) **Creative Commons Attribution license version 4.0**
+
+The 5Rs of Openness:
+
+– Retain: the right to make, own, and control copies of the content
+– Reuse: the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
+– Revise: the right to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)
+– Remix: the right to combine the original or revised content with other open content to create something new (e.g., incorporate the content into a mashup)
+– Redistribute: the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)
 
 
 Researchers generate a great deal of educational resources in the course of teaching students and each other (at workshops, for example).
