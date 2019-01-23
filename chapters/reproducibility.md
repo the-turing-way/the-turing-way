@@ -11,29 +11,30 @@ It will be useful to avoid misunderstandings when reading the rest of the handbo
 ## Prerequisites / recommended skill level
 No previous knowledge needed. 
 
-
 ## Chapter content 
 
 ### Why reproducibility is important for science
 
-Major media outlets have picked up on investigations that show that a significant percentage of scientific studies cannot be reproduced. (https://www.theguardian.com/science/2018/aug/27/attempt-to-replicate-major-social-scientific-findings-of-past-decade-fails) 
-This leads to other academics and society loosing trust in scientific results. (Baker, 2016).
+Major media outlets have [reported on](https://www.theguardian.com/science/2018/aug/27/attempt-to-replicate-major-social-scientific-findings-of-past-decade-fails) investigations that show that a significant percentage of scientific studies cannot be reproduced.  
+This leads to other academics and society losing trust in scientific results. (Baker, 2016).
 Working reproducibly means others can check your results - even early on in the research process. 
-Thus, valuable time is saved as reproducing results is quick and research outputs can be re-used for other analyses.
+Thus, the full analysis and methodology is transparent.
+Scientific results and evidence are strenghtened if they are reproduced and confirmed by several indepedent researchers.
+With all parts used in an analyses being available and/or documented, valuable time is saved reproducing published results and other researchers can easily build on these resarch results and re-use data or code for their analyses.
 In addition, so called "negative results" can be published easily and avoid that other researchers waste time repeating analyses that will not return the expected results. (Dirnagl & Lauritzen, 2010)
 
 ### Why you should care about reproducibility
 
 Markowetz highlights five reasons to work reprodubily (Markowetz, 2015):
-- Avoiding desaster: Through working reproducibly, you can trust your own research results and will not have to retract published results or keep publications back because you cannot reproduce your results.
-- Writing papers easier: well documented analyses ensure you have easy access to the latest results and your work can easily be written up and collaborators can easily get on board as additional authors. 
+- Avoiding disaster: Through working reproducibly, you can trust your own research results and will not have to retract published results or keep publications back because you cannot reproduce your results.
+- Writing papers easier: well documented analyses ensure you have easy access to the latest results, your work can easily be written up and collaborators can easily get on board as additional authors. 
 Furthermore, you can be sure that you easily comply with the highest-level journal guidelines.
 - Convincing reviewers: Making code and data available to the reviewers means their review comments will be constructive as they are able to develop an in-depth understanding of your work and can even try changes to your analysis themselves and see the impact.
-- Facilitating continuity of work: Well documented work means others your work can easily be picked up and continued - either by other in your lab or yourself if you want to build on your own work after a longer period.
+- Facilitating continuity of work: Well documented work means your work can easily be picked up and continued - either by others in your lab or yourself if you want to build on your own work after a longer period.
 - Building your reputation: Putting in effort to make your research reproducible shows that you are a careful researcher and makes your research results more robust. 
 
 Papers whose underlying data is available get cited more often (Piwowar, Day & Fridsma, 2007, Piwowar & Vision, 2013). 
-All research outputs that are shared can be built upon by others and in some cases, others following up on your work might lead to new collaborations. 
+All research outputs that are shared can be built upon more easily by others and in some cases, others following up on your work might lead to new collaborations. 
 Other benefits of working openly are covered in our Open Science chapter. 
 
 
@@ -68,8 +69,8 @@ The Turing Way project will define reproducible research as both data and code b
 ![Kirstie's definition of reproducible research](https://github.com/pherterich/the-turing-way/blob/master/reproducibility_kirstie.png)
 However, we recognize that some research will use sensitive data that cannot be shared and this handbook will provide guides on how your research can be reproducible without all parts necessarily being open. 
 The handbook will cover:
-* version control (using git)
-* using GitHub/GitLab for collaboration
+* Version control (using git)
+* Using GitHub/GitLab for collaboration
 * Open Science
 * Research Data Management
 * Reproducible computing environments
