@@ -9,6 +9,7 @@
 | master_branch              | Version control      | Illustrates commits on master branch              |
 | one_branch                 | Version control      | Illustrates version control master + one branch   |
 | open_access_citatations    | Open science         | Impact of openness on citation count              |
+| open_umbrella              | Open science         | Terms under the umbrella of open scholarship      |
 | reproducibility_kirstie    |                      | Depicts cow code and data relate to good practise |
 | sub_branch                 | Version control      | Illustrates version control branch + sub branch   |
 | two_banches                | Version control      | Illustrates version control master + two branches |
