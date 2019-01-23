@@ -286,7 +286,11 @@ Open science fits under the umbrella of a broader concept- open scholarship.
 
 ### Open educational resources
 
-*Shoudl direct poeple to https://www.oercommons.org/ somewhere*
+Researchers generate a great deal of educational resources in the course of teaching students and each other (at workshops, for example). By making these openly available, for example in the [open educational resource commons](https://www.oercommons.org/) the wider community can benefit from them in three main ways:
+
+1. Most obviously, the community can use the materials to learn about the material they cover
+2. Sharing resources reduces duplication of effort. If an educator needs materials for teaching and such materials already exist openly then they need not make thr own from scratch, saving time.
+3. OERs help a community build better resources by improving resources that already exist and combining OERs to take advantage of their different strengths, such as a great diagram or explanation.
 
 Materials used:
 
@@ -319,7 +323,7 @@ The 5Rs of Openness:
 – Redistribute: the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)
 
 
-Researchers generate a great deal of educational resources in the course of teaching students and each other (at workshops, for example).
+
 
 ### Equity, Diversity, Inclusion
 
