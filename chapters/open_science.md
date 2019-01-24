@@ -312,6 +312,10 @@ Open scholarship means open to *everyone* without discrimination based on factor
 
 ### Citizen science
 
+[allience](https://www.citizenscience.org/) **(CC BY 4.0)**
+
+Citizen science is the involvement of the public in scientific research – whether community-driven research or global investigations, the Oxford English Dictionary recently defined it as: "scientific work undertaken by members of the general public, often in collaboration with or under the direction of professional scientists and scientific institutions." Citizen science offers the power of science to everyone, and the power of everyone to science.
+
 
 
 
