@@ -1,5 +1,12 @@
 # Testing
 
+## Look at
+- https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/resources/testing.md
+- https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/
+- Seven Testing Principles: https://www.utest.com/articles/seven-testing-principles
+- eScience center section of Testing & CI
+- SSI blogpost on Testing: Software development doesn’t end when the software is written. How can you, and any developers you work with, be sure that your software meets its requirements? Does your software work as expected, and will it continue to work over its lifetime?
+
 ## Summary
 > easy to understand summary - a bit like tl;dr
 
