@@ -10,11 +10,11 @@ There are two types of workshop:
   
 ## Boost your research reproducibility with Binder
 
-If you are looking for an easy way to share your code with others, without worrying about what software they have, then [Binder](https://mybinder.readthedocs.io/en/latest/) might be the solution for you.
+If you are looking for an easy way to share your code with others, without worrying about the computational environment they're running or installing a long list of requirements, then [Binder](https://mybinder.readthedocs.io/en/latest/) might be the solution for you.
 Binder allows you to share your software with others in the form of a single clickable link, making it easier for users and removing the need for you to worry about supporting lots of different platforms. 
 
 During this free workshop we will discuss reproducible computing environments, show examples of others’ projects in [myBinder.org](https://mybinder.org/) and help you learn how to prepare a binder-ready project.
-At the end of the workshop you will be able to take some of your own content (in a R or Jupyter notebook) and prepare it so that it can be used by others on myBinder.org.
+At the end of the workshop you will be able to take some of your own content (in a R or Jupyter notebook, or scripts that can be run in the terminal) and prepare it so that it can be used by others on myBinder.org.
 
 This workshop is for people who are:
 *	Interested in reproducibility, containers, Docker or continuous integration; 
@@ -54,7 +54,7 @@ We hope that workshop participants will also contribute their "tips and tricks" 
 
 Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
 Researchers can be supported in doing this through [myBinder.org](https://mybinder.org/) which allows you to share your software with others in the form of a single clickable link, making it easier for users and removing the need for you to worry about supporting lots of different platforms.
-This is a huge step forward in terms of supporting reproducibility but the public Binder instance, [myBinder.org](https://mybinder.org/), requires all code and data to be fully open, and computational power is limited.
+This is a huge step forward in terms of supporting reproducibility but the public Binder instance, [myBinder.org](https://mybinder.org/), requires all code and data to be fully open, and computational power and data storage is limited.
 One solution to this is to host your own [BinderHub](https://binderhub.readthedocs.io/en/latest/) locally, allowing you to control who has access to code and data and to provide greater computational power. 
 
 During this free workshop we will demonstrate how to build your own BinderHub on Microsoft Azure cloud computing resources.
@@ -63,7 +63,7 @@ At the end of the workshop you will know why this would be a useful resource for
 
 This workshop is for Research Software Engineers and IT staff who are:
 *	Interested in reproducibility, containers, Docker or continuous integration; 
-*	Already familiar with Binder and R Markdown or Jupyter notebooks;
+*	Already familiar with Binder and R Markdown or Python for data science;
 *	Interested in setting up their own local BinderHub.
 
 ### The Turing Way
