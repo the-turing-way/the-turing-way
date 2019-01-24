@@ -83,7 +83,8 @@ We hope that workshop participants will also contribute their "tips and tricks" 
 * 12.00 - 1.00: Lunch
 * 1.00 - 2.00: Practical session – Build your BinderHub
 * 2.00 - 2.30: Coffee
-* 2.30 - 3.30: Practical session – Build your BinderHub?
+* 2.30 - 2.45: Progress review, lessons learned and skill sharing
+* 2.45 - 3.00: Build your BinderHub
 * 3.30 - 4.00: Demonstration of progress made, general questions, feedback and close
 * 4.00 - 5.00: Optional hangout with instructors
 
