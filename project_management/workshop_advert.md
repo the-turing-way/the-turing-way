@@ -30,6 +30,7 @@ Our interdisciplinary team includes data scientists, research software engineers
 We are all motivated to ensure that all results can be independently verified and built upon in future work and want to help as many people learn the skills and tools required to do so.
 We hope that workshop participants will also contribute their "tips and tricks" on using Binder to the book to share what they've learned with others.
 
+
 ### Programme
 
 * 9.30 - 10.00: Coffee and Registration
@@ -73,7 +74,6 @@ It is openly developed and any and all questions, comments and recommendations a
 Our interdisciplinary team includes data scientists, research software engineers and librarians.
 We are all motivated to ensure that all results can be independently verified and built upon in future work and want to help as many people learn the skills and tools required to do so.
 We hope that workshop participants will also contribute their "tips and tricks" on using Binder to the book to share what they've learned with others.
-
 
 ### Programme
 
