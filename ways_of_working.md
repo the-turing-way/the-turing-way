@@ -30,7 +30,7 @@ In addition, you can reach the team members through their preferred way of commu
 - Martin O'Reilly: Mention me on a Github issue or pull request ([@martintoreilly](https://github.com/martintoreilly)).
 
 As most team members do not work full time on the Turing Way, it might take some time until your query or contribution is addressed - especially if expert knowledge is needed.
-The core project team will have weekly update meetings on Wednesdays from 2-4 pm either on gitter or as videocalls on zoom.
+The core project team will have weekly update meetings on Wednesdays from 2-4 pm either on slack or as videocalls on zoom.
 
 ## Project management
 ### Issues
