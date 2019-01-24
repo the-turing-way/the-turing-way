@@ -13,7 +13,7 @@ This documents outlines expectations and responsibilities of project members and
 | Rosie Higman | Research Data Librarian | 20% | Jan - Mar 2019 |
 | Anna Krystalli | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
 | Alex Morley | Mozilla Fellow | not paid by project |  Nov 2018 - June 2019  |
-| Martin O'Reilly | principal Research Software Engineer | 10 % | Nov 2018 - Mar 2019 |
+| Martin O'Reilly | Principal Research Software Engineer | 10 % | Nov 2018 - Mar 2019 |
 
 ## Communication
 We're always around for a chat in our public gitter channel: https://gitter.im/WhitakerLab/the-turing-way
@@ -27,7 +27,7 @@ In addition, you can reach the team members through their preferred way of commu
 - Rosie Higman: [rosie.higman@manchester.ac.uk](mailto:rosie.higman@manchester.ac.uk) or ping me on Twitter [@RosieHLib](https://twitter.com/RosieHLib)
 - Anna Krystalli: [a.krystalli@sheffield.ac.uk](mailto:a.krystalli@sheffield.ac.uk)
 - Alex Morley: tw: [@alex__morley](https://twitter.com/alex__morley), gh: [@alexmorley](https://github.com/alexmorley)
-- Martin O'Reilly
+- Martin O'Reilly: Mention me on a Github issue or pull request ([@martintoreilly](https://github.com/martintoreilly)).
 
 As most team members do not work full time on the Turing Way, it might take some time until your query or contribution is addressed - especially if expert knowledge is needed.
 The core project team will have weekly update meetings on Wednesdays from 2-4 pm either on gitter or as videocalls on zoom.
