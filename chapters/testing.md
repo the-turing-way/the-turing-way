@@ -1,5 +1,38 @@
 # Testing
 
+## Structure
+
+- Why you should write tests
+  - For yourself
+    - Saves you having to redo lots of work when you realise there's a bug, catch things early.
+    - Forces you to write more modular, clean code. Improves your code quality. Much quicker and easier to work with than a tangled rats nest.
+    - You have to test your code anyway as you're writing it, you don't just write it and assume it's right. It's very little work to put those tests in a file. The time lost to incorrect results or broken code is much, much bigger.
+  - For science
+    - Fewer mistakes, very costly for time and funding, include a horror story or two.
+    - More reproducible. Answers the question "how do we even know this code works". If tests are never saved, just done and deleted the proof cannot be reproduced easily.
+    - SSI slogan: "better software, better research".
+- Types of tests
+  - Unit tests
+    - Test small "units" of code
+  - Integration tests
+    - Check the pieces work together properly.
+  - End to end tests
+    - Doesn't need to include every single feature.
+  - Regression tests
+    - Test if the result changes after the code is updated. Fail if so.
+    - A unit test can also be a regression test (can integration and end to end tests etc *also* be considered regression tests?)
+  - Tests where there is not a well defined output
+    - E.g. look and see if a graph seems reasonable.
+    - Can't test all the ways it may be wrong, but can do sanity checks, e.g. if you have a graph of global population vs you should never have a negative number of people.
+- Test driven development (ensure we do the thing right)
+- Behaviour driven development (ensure we do the right thing)
+- General best practice
+  - Write small things
+  - Defensive programming (e.g. test inputs are the right type, not applicable in static type languages)
+  - Code review to test code quality
+  - Continuous integration very briefly, and link to that chapter,
+
+
 ## material from the hack.md
 
 - https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/resources/testing.md
