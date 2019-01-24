@@ -316,8 +316,7 @@ Open scholarship means open to *everyone* without discrimination based on factor
 
 Citizen science is the involvement of the public in scientific research – whether community-driven research or global investigations, the Oxford English Dictionary recently defined it as: "scientific work undertaken by members of the general public, often in collaboration with or under the direction of professional scientists and scientific institutions." Citizen science offers the power of science to everyone, and the power of everyone to science.
 
-
-
+By allowing members of the public to contribute to scientific research citizen science helps engage and invest the wider world in science. It also benefits researchers by offering manpower that simply wouldn't be accessible otherwise. Examples of this include [finding](https://citizensciencegames.com/games/eterna/) ways of folding molecules, and [classifying](https://www.zooniverse.org/) different types of galaxies.
 
 ## Checklist
 
