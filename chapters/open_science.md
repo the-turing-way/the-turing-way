@@ -240,8 +240,6 @@ A common misconception about contributing to open source is that you need to con
 
 ## Open hardware
 
-[1.](https://opensource.com/resources/what-open-hardware) **CC BY-SA 4.0**, [2.](https://opensource.com/article/17/8/enterprise-open-source-advantages) **CC BY-SA 4.0**, [3.](https://www.oshwa.org/sharing-best-practices/) **Creative Commons Attribution-ShareAlike 4.0 International License**
-
 "Open hardware," or "open source hardware," refers to the design specifications of a physical object which are licensed in such a way that said object can be studied, modified, created, and distributed by anyone. Like open source software, the "source code" for open hardware—schematics, blueprints, logic designs, Computer Aided Design (CAD) drawings or files, etc.—is available for modification or enhancement by anyone under permissive licenses. Users with access to the tools that can read and manipulate these source files can update and improve the physical device and the code that underlies it, and, if they wish, proceed to share such modifications.
 
 Open hardware's source code should be readily accessible, and its components are preferably easy for anyone to obtain. Essentially, open hardware eliminates common roadblocks to the design and manufacture of physical goods; it provides as many people as possible the ability to construct, remix, and share their knowledge of hardware design and function.
@@ -475,3 +473,6 @@ If you haven't had a chance already take a look at the chapter on version contro
 - [20.](https://www.oercommons.org/about) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License**
 - [21.](https://libguides.ioe.ac.uk/oer)  **Creative CommonsAttribution-NonCommercial-ShareAlike 2.0 UK: England & Wales (CC BY-NC-SA 2.0 UK)**
 - [22.](https://opencontent.org/blog/archives/3221) **Creative Commons Attribution license version 4.0**
+- [23.](https://opensource.com/resources/what-open-hardware) **CC BY-SA 4.0**
+- [24.](https://opensource.com/article/17/8/enterprise-open-source-advantages) **CC BY-SA 4.0**
+- [25.](https://www.oshwa.org/sharing-best-practices/) **Creative Commons Attribution-ShareAlike 4.0 International License**
