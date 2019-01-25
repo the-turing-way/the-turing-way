@@ -49,11 +49,13 @@ The Turing Way will support everybody involved in data science research: the dev
 
 Senior team members - Turing fellows, program directors and managers - will be catered for with key points tailored towards managing reproducible research projects highlighted for each topic covered. The project will build and curate checklists for what can be done to ensure all project outputs are reproducible. A chapter on Binder will be of interest to supervisors who want to regularly review their students' code, and will include the technical details of how to set up a BinderHub that will be useful for research software engineers.
 
-
 ## Recent updates
 *Achievements/project milestones reached since project started, with month/year*
 
-N/A (Add content from our newsletter as it becomes available)
+The Turing Way team will host three workshops in March 2019:
+- Friday 1st March, University of Manchester: [Boost your research reproducibility with Binder](https://www.eventbrite.co.uk/e/boost-your-research-reproducibility-with-binder-manchester-registration-55331997494)
+- Tuesday 12th March, The Alan Turing Institute: [Boost your research reproducibility with Binder](https://www.eventbrite.co.uk/e/boost-your-research-reproducibility-with-binder-london-registration-55337162944)
+- Monday 18th March: University of Sheffield: [Build a BinderHub](https://www.eventbrite.co.uk/e/build-a-binderhub-registration-55336756729)
 
 ## Participating researchers
 *Please include titles and affiliations for all participants*
@@ -76,6 +78,6 @@ N/A
 ## Additional content
 *If there is any additional content that should be included, or doesn’t fit in other fields, please add it here. This could include links to images, videos, or figures (with plain English captions) that would be helpful in communicating the project*
 
-This project is openly developed; any and all questions, comments and recommendations are welcome at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way.
+This project is openly developed; any and all questions, comments and recommendations are welcome at our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way).
 
-To hear about our events and monthly project updates, sign up to our newsletter: https://tinyletter.com/TuringWay.
+To hear about our events and monthly project updates, sign up to our [newsletter](https://tinyletter.com/TuringWay).
