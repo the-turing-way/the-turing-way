@@ -124,6 +124,8 @@ Step 3: copy markdown back into your readme to get a nice "launch binder" button
 
 
 
+![binder_comic](../figures/binder_comic.png)
+
 ## BinderHub
 
 - needs Kubernetes cluster that spins up a bunch of VMs with containers etc. - also does some loadbalancing (Kubernetes [Google developed] being rather new and complex but it can be wrangled to do what you want it to do)
@@ -164,4 +166,5 @@ Also make this useful to run on local machines/HPCs (that might not be setup for
 > Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
 
 ## Bibliography
-> Credit/urls for any materials that form part of the chapter's text.
+
+[Figure](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/) **Permission to use granted by Juliette Taka, Logilab and the OpenDreamKit project.**
