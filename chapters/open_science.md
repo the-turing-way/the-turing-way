@@ -422,6 +422,8 @@ If you haven't had a chance already take a look at the chapter on version contro
 
 ## Definitions/glossary
 
+**Citizen science:** The involvement of members of the public in scientific research.
+
 **Contributing guidelines:** Guidelines outlining how a person should go about contributing to an open source project.
 
 **Contributor:** Someone that has contributed something (not necessarily code) to an open source project.
@@ -440,7 +442,13 @@ If you haven't had a chance already take a look at the chapter on version contro
 
 **Open data:** Data that is freely available online for reuse without bureaucratic or administrative barriers.
 
+**Open educational resource:** Educational materials available online for anybody to use, remix and distribute.
+
+**Open notebook:** The practise of making research notebooks openly available.
+
 **Open source software:** Software which is available online for anybody to view, use, modify, and distribute.
+
+**Open source hardware:** Hardware with documentation, designs, materials used, and other relevant information freely accessible and available
 
 **Persistent identifier:** A long-lived method for identifying a resource that is unique, and widely understandable by a community.
 
