@@ -346,14 +346,17 @@ Consider submitting your work to a journal that is open access. When doing this 
 
 ## Open notebooks
 
+Open notebook science is simply the practice of making your entire research project available online as it is recorded. This online location is known as an open notebook and is the online analogue to the paper notebook most scientists keep in their lab. It is the storage centre for project plans, experimental protocols and setups, raw data, and even unfiltered interpretations. An open notebook can be any kind of website, as long as it suits the needs of the scientist and is available publicly. Rather than wait months, even years, to share their research through journal publication as is the current practice, researchers use notebooks to post their experimental data and protocols online and in real-time.
 
+Sharing research in this open and timely manner helps to reduce duplication of work, helps foster new collaborations and cultivates a more open dialogue with others. It also helps researchers avoid making exploring dead ends and making mistakes that have already been covered by their colleague, but went unpublished because of lack of scientific interest.
 
+Open notebooks have the further benefit of increasing the quality of scientific outputs by forcing researchers to be careful, thorough, and explicit. Making research open has the added benefit of increasing the likelihood that any errors made in an investigation will be spotted quickly, instead of down the line. Immediate fixes will have much less impact on a research project, which will save a research time, the lab money, and pride.
 
-
+Ideally, every scientist would maintain an open notebook in real-time which would encompass all aspects of their research. But many fears about dealing with complete open access, conflicts with intellectual property and publications, and online data overload hamper this movement. To combat this, practitioners encourage any form of open notebook science, "make open what you can", even if that means uploading some information for a project from many years ago that never saw the light of day.
 
 ## Open scholarship
 
-Open science fits under the umbrella of a broader concept- open scholarship.
+Open science and its subcomponents fits under the umbrella of a broader concept- open scholarship.
 
 ![open_umbrella](../figures/open_umbrella.png)
 
@@ -484,3 +487,5 @@ If you haven't had a chance already take a look at the chapter on version contro
 - [23.](https://opensource.com/resources/what-open-hardware) **CC BY-SA 4.0**
 - [24.](https://opensource.com/article/17/8/enterprise-open-source-advantages) **CC BY-SA 4.0**
 - [25.](https://www.oshwa.org/sharing-best-practices/) **Creative Commons Attribution-ShareAlike 4.0 International License**
+- [26.](https://openlabnotebooks.org/open-science-at-sgc/) **CC BY 4.0**
+- [27.](http://onsnetwork.org/) **Attribution 3.0 Unported (CC BY 3.0)**
