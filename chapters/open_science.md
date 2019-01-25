@@ -444,6 +444,16 @@ In general, clearly indicate which parts of a product are open-source (and which
 
 Don’t refer to hardware as open-source until the design files are available. If you plan on open-sourcing the product in the future, say that instead.
 
+---
+
+[3.](https://opensource.com/article/17/8/enterprise-open-source-advantages) **CC BY-SA 4.0**
+
+Freedom from lock-in. Proprietary software for core infrastructure increases the risk of becoming locked in by the vendor or technology. If this happens, enterprises can be at the mercy of vendors' price increases and experience a lack of flexibility they can't easily and readily escape. Enterprises should be careful to use true open source solutions, rather than those from providers that repackage open source software to include proprietary hooks.
+
+The sole motivation behind decision making around the direction of a solution is to make the best, most useful product possible. Corporations making proprietary code usually put the bottom line foremost, which is not always ideal. When choosing a technology integral to your business, it's best to ensure its agenda supports your own interests.
+
+Open source code means just that—you get full visibility into the code base, as well as all discussions about how the community develops features and addresses bugs. In contrast, proprietary code produced in secrecy may come with unforeseen limitations and other unwelcome surprises. With open source, you're protected against lock-in risks and can see exactly what you're getting.
+
 ## Open scholarship
 
 Open science fits under the umbrella of a broader concept- open scholarship.
