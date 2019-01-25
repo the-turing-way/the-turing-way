@@ -52,14 +52,15 @@ Senior team members - Turing fellows, program directors and managers - will be c
 ## Recent updates
 *Achievements/project milestones reached since project started, with month/year*
 
-The Turing Way team will host three workshops in March 2019:
+The Turing Way team will host three workshops in March 2019, all focussed around [Binder](https://mybinder.readthedocs.io/en/latest/index.html), an easy-to-use service that runs version-controlled computational environments.
+
 - Friday 1st March, University of Manchester: [Boost your research reproducibility with Binder](https://www.eventbrite.co.uk/e/boost-your-research-reproducibility-with-binder-manchester-registration-55331997494)
 - Tuesday 12th March, The Alan Turing Institute: [Boost your research reproducibility with Binder](https://www.eventbrite.co.uk/e/boost-your-research-reproducibility-with-binder-london-registration-55337162944)
 - Monday 18th March: University of Sheffield: [Build a BinderHub](https://www.eventbrite.co.uk/e/build-a-binderhub-registration-55336756729)
 
 ##### Boost your research reproducibility with Binder
 
-During this free workshop we will discuss reproducible computing environments, show examples of others’ projects in [myBinder.org](https://mybinder.org/) and help you learn how to prepare a binder-ready project. At the end of the workshop you will be able to take some of your own content (in a R or Jupyter notebook, or scripts that can be run in the terminal) and prepare it so that it can be used by others on [myBinder.org](https://mybinder.org/).
+During this free workshop we will discuss reproducible computing environments, show examples of others’ projects in [myBinder.org](https://mybinder.org/) and help you learn how to prepare a Binder-ready project. At the end of the workshop you will be able to take some of your own content (in a R or Jupyter notebook, or scripts that can be run in the terminal) and prepare it so that it can be used by others on [myBinder.org](https://mybinder.org/).
 
 This workshop is for people who are:
 * Interested in reproducibility, containers, Docker or continuous integration;
