@@ -6,7 +6,7 @@ Open Science aims to transform science by making research more reproducible, tra
 
 Features of Open Science
 - Open Data - managing research data in a way that optimises access, discoverability and sharing for re-use
-- Open Research Software - documenting research code and routines, and making them freely accessible and available
+- Open Source Software - documenting research code and routines, and making them freely accessible and available
 - Open Hardware - documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available
 - Open Access - making all published outputs freely accessible for maximum use and impact
 - Open Notebooks - an emerging practice, documenting and sharing the experimental process of trial and error
@@ -107,16 +107,16 @@ When a project is open source, that means anybody can view, use, modify, and dis
 
 Many of the most widely used research software is open source. Perhaps the paradigmatic example is the scikit-learn Python package for machine learning (Pedregosa et al., 2011), which, in the space of just over five years, has attracted over 500 unique contributors, 20,000 individual code contributions, and 2,500 article citations. Producing a comparable package using a traditional closed-source approach would likely not be feasible, and would, at the very least, have required a budget of tens of millions of dollars. While scikit-learn is clearly an outlier, hundreds of other open-source scientific packages that support much more domain-specific needs depend in a similar fashion on unsolicited community contributions e.g., the NIPY group of projects in neuroimaging (Gorgolewski et al., 2016). Importantly, such contributions not only result in new functionality from which the broader scientific community can benefit, but also regularly provide their respective authors with greater community recognition, and lead to new project and employment opportunities.
 
-Researchers that make use of open source projects often make changes to them such as adding features they need for their own research, or fixing bugs. They can then contribute these improvements back to the main project so the wider community can take advantage of them.
+Researchers that make use of open source software often make changes to them such as adding features they need for their own research, or fixing bugs. They can then contribute these improvements back to the main project so the wider community can take advantage of them.
 
 ### How running and contributing to open source software projects benefits you
 
-- Improve existing skills. Whether it’s coding, user interface design, graphic design, writing, or organizing, if you’re looking for practice, there’s a task for you on an open source project. Further, open source necessitates cleaner, more maintainable code to enable collaboration between potentially thousands of people that may never meet. This helps to build and maintain good coding habits. Not to be underestimated are the people skills you can develop on open source projects.
+- Improve existing skills. Whether it’s coding, user interface design, graphic design, writing, or organizing, if you’re looking for practice, there’s a task for you on an open source software project. Further, open source necessitates cleaner, more maintainable code to enable collaboration between potentially thousands of people that may never meet. This helps to build and maintain good coding habits. Not to be underestimated are the people skills you can develop on open source software projects.
 Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
 - Advance your career. By definition, all of your open source work is public and this presents opportunities:
   - Demonstrate technical ability. Technical interviews traditionally involve working on a simulated problem that can be tackled in a set amount of time with little additional context. Such simulations, by definition, aren't real world use cases, nor do they show what working with an applicant would be like. Open source provides visibility into both how a candidate solves problems, and how they work with others. You make a much more appealing employee if an employer can see the quality of your work and see you working with others over a long period of time rather than taking a chance on a single short, high-stress case which may not play to your strengths.
   - Reputation. Becoming an active member of the open source community can gain you a positive reputation which may bolster future job prospects
-- Meet people who are interested in similar things. Open source projects with warm, welcoming communities keep people coming back for years and many people form lifelong friendships through their participation in open source.
+- Meet people who are interested in similar things. Open source software projects with warm, welcoming communities keep people coming back for years and many people form lifelong friendships through their participation in open source.
 - Find mentors and teach others. Working with others on a shared project means you’ll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
 
 #### Making your own work open source
@@ -126,18 +126,18 @@ Open source offers opportunities to practice leadership and management skills, s
 - Feedback. Making your work open enables you to get feedback and improve your project in way you may never have thought of alone.
 - Accountability. There is an argument that any software developed using government money should be open source by default- if the public has paid for its development they have a right to make use of it. If your work is government funded making it open is a step you can take towards government openness and  accountability.
 
-#### Contributing to other's open source projects
+#### Contributing to other's open source software projects
 
-- It’s empowering to be able to make changes, even small ones. You don’t have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+- It’s empowering to be able to make changes, even small ones. You don’t have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source software project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
 - It's fun. Open source provides an endless, ever-changing set of Rubix cubes for you to solve on weekends. Just like puzzles, both crossword and jigsaw, open source provides bite-sized intellectual escapes.
 
 ### How open source software benefits science
 
-Open source projects primarily benefit science by allowing researchers to take advantage of each other's work. This enables researchers to apply their efforts to  high-value work. It is sometimes said that "all the easy problems have already been solved". Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few. While developers could spend their time reinventing wheels that the open source community have already perfected, it's far preferable to use the worlds best wheel, especially when that wheel comes at no cost to you. This frees researchers up to work on yet-unsolved challenges. This reduces duplication of effort and allows researchers to focus on the work they're actually interested in.
+Open source software projects primarily benefit science by allowing researchers to take advantage of each other's work. This enables researchers to apply their efforts to  high-value work. It is sometimes said that "all the easy problems have already been solved". Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few. While developers could spend their time reinventing wheels that the open source community have already perfected, it's far preferable to use the worlds best wheel, especially when that wheel comes at no cost to you. This frees researchers up to work on yet-unsolved challenges. This reduces duplication of effort and allows researchers to focus on the work they're actually interested in.
 
 Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups. Examples include linux operating systems, python packages such as scipy and numpy, and the machine learning library TensorFlow.    
 
-### How to run your own open source project
+### How to run your own open source software project
 
 You can open source an idea, a work in progress, or after years of being closed source. At the most basic level all you need to do is but your code online somewhere that is likely to last a long time. You can make your code citeable by assigning it a DOI (as discussed in the section on [making data citeable](#citing_data)). This helps ensure that you get proper credit if people use or build upon your work.
 
@@ -179,13 +179,13 @@ Much like open source licenses, there are also emerging standards for codes of c
 
 Keep the file in your project's root directory so it's easy to find, and link to it from your readme.
 
-### How to contribute to other's open source projects
+### How to contribute to other's open source software projects
 
-#### Anatomy of an open source project
+#### Anatomy of an open source software project
 
-Every open source community is different. That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+Every open source community is different. That said, many open source software projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
 
-A typical open source project has the following types of people:
+A typical open source software project has the following types of people:
 
 - Author: The person/s or organization that created the project
 - Owner: The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
