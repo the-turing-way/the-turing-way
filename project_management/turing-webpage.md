@@ -88,6 +88,6 @@ To hear about our events and monthly project updates, sign up to our [newsletter
 
 Members of the Research Engineering Group at the Turing are contributing their expertise to this project.
 
-They are working a set of guidelines for research software engineers and others who want to set up a BinderHub of their own, and will set up an internal BinderHub for the use of Turing staff and students that has increased capabilities over the current public offering. In addition, they are contributing to several projects that will feature as case studies in The Turing Way.
+They are working a set of guidelines for research software engineers and others who want to set up a BinderHub of their own, and will set up an internal BinderHub for the use of Turing staff and students with increased compute capabilities over the current public offering. In addition, they are contributing to several projects that will feature as case studies in The Turing Way.
 
 The group's experience in best practices for software engineering and data science will be captured in the guidance set out in The Turing Way.
