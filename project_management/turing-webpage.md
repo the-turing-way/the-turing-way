@@ -81,3 +81,13 @@ N/A
 This project is openly developed; any and all questions, comments and recommendations are welcome at our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way).
 
 To hear about our events and monthly project updates, sign up to our [newsletter](https://tinyletter.com/TuringWay).
+
+## Research Engineering widget
+
+*This is an extra piece of content added to the pages of projects that the Research Engineering Group is involved with*
+
+Members of the Research Engineering Group at the Turing are contributing their expertise to this project.
+
+They are working a set of guidelines for research software engineers and others who want to set up a BinderHub of their own, and will set up an internal BinderHub for the use of Turing staff and students that has increased capabilities over the current public offering. In addition, they are contributing to several projects that will feature as case studies in The Turing Way.
+
+The group's experience in best practices for software engineering and data science will be captured in the guidance set out in The Turing Way.
