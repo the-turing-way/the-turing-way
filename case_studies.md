@@ -26,5 +26,5 @@ Gotcha (programming): a counter-intuitive, but documented, behavior in a compute
 ## What you wish you knew before staring your analysis
 > Free text answer
 
-**Thank you so much for your contribution!**
+**Thank you so much for your contribution!**  
 The Turing Way project
