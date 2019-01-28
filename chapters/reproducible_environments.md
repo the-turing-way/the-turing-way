@@ -1,5 +1,66 @@
 # Reproducible environments
 
+## Setting up docker, taking notes.
+
+- Using [this](https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce)
+- According to that step 1 is setting up a docker repository. Following the instructions for that.
+  - Run `sudo apt-get update`
+  - Run
+    ```
+    sudo apt-get install \
+    apt-transport-https \
+    ca-certificates \
+    curl \
+    gnupg-agent \
+    software-properties-common
+    ```
+   - Add GPG key using `curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -`
+   - Verify that's worked by running `sudo apt-key fingerprint 0EBFCD88` and checking the output against the model output they give which is
+     ```
+     pub   4096R/0EBFCD88 2017-02-22
+           Key fingerprint = 9DC8 5822 9FC7 DD38 854A  E2D8 8D81 803C 0EBF CD88
+     uid                  Docker Release (CE deb) <docker@docker.com>
+     sub   4096R/F273FCD8 2017-02-22
+     ```
+   - Use `lsb_release -cs` to check my ubuntu distribution, found it's xenial. Don't appear to do anything with the info but it was in the instructions.
+   - Run
+     ```
+     sudo add-apt-repository \
+     "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+     $(lsb_release -cs) \
+     stable"
+     ```
+   - Run `sudo apt-get update` again.
+   - Install docker by `sudo apt-get install docker-ce`
+   - Ran `sudo docker run hello-world`, it downloaded something automatically and then came up with a message saying hello and indicating the installation had been sucessful.
+     ```
+     Hello from Docker!
+     This message shows that your installation appears to be working correctly.
+
+     To generate this message, Docker took the following steps:
+      1. The Docker client contacted the Docker daemon.
+      2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+         (amd64)
+      3. The Docker daemon created a new container from that image which runs the
+         executable that produces the output you are currently reading.
+       4. The Docker daemon streamed that output to the Docker client, which sent it
+          to your terminal.
+
+     To try something more ambitious, you can run an Ubuntu container with:
+       $ docker run -it ubuntu bash
+
+     Share images, automate workflows, and more with a free Docker ID:
+       https://hub.docker.com/
+
+     For more examples and ideas, visit:
+       https://docs.docker.com/get-started/
+     ```
+    - *Will continue tomorrow*
+
+
+
+
+
 Materials to look at:
 
 - https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
