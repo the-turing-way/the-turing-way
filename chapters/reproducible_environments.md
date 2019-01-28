@@ -1,5 +1,11 @@
 # Reproducible environments
 
+Materials to look at:
+
+- https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+- https://www.tutorialspoint.com/docker/docker_file.htm
+
+
 ## Material from hack.md
 
 Main points to cover:
