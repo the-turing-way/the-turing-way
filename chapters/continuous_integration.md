@@ -321,6 +321,7 @@ This gives organizations a great deal of flexibility by separating business deci
 There are a number of techniques that help teams deploy the code responsible for a feature without releasing it. Feature flags set up conditional logic to check whether to run code based on the value of an environmental variable. Branch by abstraction allows developers to replace implementations by placing an abstraction layer between resource consumers and providers. Careful planning to incorporate these techniques gives you the ability to decouple these two processes.
 
 ---
+
 [CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
 
 Martin Fowler, who first wrote about Continuous Integration (short: CI) together with Kent Beck, describes CI as follows:
@@ -350,6 +351,104 @@ This will get your project tested on all the listed Python versions by running t
 In order to activate testing for your project, go to the Travis-CI site and login with your GitHub account. Then activate your project in your profile settings and you’re ready to go. From now on, your project’s tests will be run on every push to GitHub.
 
 ---
+
+[light travis tutorial](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/tutorial.md) **MIT**
+
+
+This is a very short guide to using Travis CI with your GitHub hosted code repository.
+If you're new to continuous integration or would like some more information on
+what Travis CI does, start with [Core Concepts for Beginners](/user/for-beginners)
+instead.
+
+## Prerequisites
+
+To start using Travis CI, make sure you have:
+
+ * A [GitHub](https://github.com/) account.
+ * Owner permissions for a project [hosted on GitHub](https://help.github.com/categories/importing-your-projects-to-github/).
+
+## To get started with Travis CI
+
+1. Go to [Travis-ci.com](https://travis-ci.com) and [*Sign up with GitHub*](https://travis-ci.com/signin).
+
+2. Accept the Authorization of Travis CI. You'll be redirected to GitHub.
+
+3. Click the green *Activate* button, and select the repositories you want to use with Travis CI.
+
+4. Add a `.travis.yml` file to your repository to tell Travis CI what to do.
+
+   The following example specifies a Ruby project that should
+   be built with Ruby 2.2 and the latest versions of JRuby.
+
+   ```yaml
+   language: ruby
+   rvm:
+    - 2.2
+    - jruby
+   ```
+   {: data-file=".travis.yml"}
+
+   The defaults for Ruby projects are `bundle install` to [install dependencies](/user/job-lifecycle/#customizing-the-installation-phase),
+   and `rake` to build the project.
+
+5. Add the `.travis.yml` file to git, commit and push, to trigger a Travis CI build:
+
+   > Travis only runs builds on the commits you push *after* you've added a `.travis.yml` file.
+
+6. Check the build status page to see if your build [passes or fails](/user/job-lifecycle/#breaking-the-build), according to the return status of the build command by visiting the [Travis CI](https://travis-ci.com/auth) and selecting your repository.
+
+
+## Selecting a different programming language
+
+Use one of these common languages:
+
+```yaml
+language: ruby
+```
+{: data-file=".travis.yml"}
+
+```yaml
+language: java
+```
+{: data-file=".travis.yml"}
+
+```yaml
+language: node_js
+```
+{: data-file=".travis.yml"}
+
+```yaml
+language: python
+```
+{: data-file=".travis.yml"}
+
+```yaml
+language: php
+```
+{: data-file=".travis.yml"}
+
+If you have tests that need to run on macOS, or your project uses Swift or
+Objective-C, use our macOS environment:
+
+```yaml
+os: osx
+```
+{: data-file=".travis.yml"}
+
+> You do *not* necessarily need to use macOS if you develop on a Mac.
+> macOS is required only if you need Swift, Objective-C or other
+> macOS-specific software.
+
+Travis CI supports many [programming languages](/user/languages/).
+
+## More than running tests
+
+Travis CI isn't just for running tests, there are many others things you can do with your code:
+
+* deploy to [GitHub pages](/user/deployment/pages/)
+* run apps on [Heroku](/user/deployment/heroku/)
+* upload [RubyGems](/user/deployment/rubygems/)
+* send [notifications](/user/notifications/)
 
 ## Summary
 > easy to understand summary - a bit like tl;dr
