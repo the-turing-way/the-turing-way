@@ -40,7 +40,7 @@ script:
 
 Can use containers with CI
 
-Dockefiles can indeed be used with Travis
+Dockefiles can be used with Travis
 
 *Make this chapter about CI with travis running though it the same way the VC chapter is about version control with git running through it.*
 
@@ -241,9 +241,6 @@ If your tests require authentication credentials, do not run tests from PRs (as 
 > If your test suite needs credentials, then running all tests on PRs is not great security practice; someone can create a PR that will reveal/do something nasty with your credentials. I think it is best practice to reduce the extent of tests requiring credentials with conditional statements testing for the presence of things like the encrypted environment variables, and use mocking for things like testing processing of returned values. BUT I think this is a pretty high bar to ask for. The owner can trigger a re-run with the secure variables exposed (some CIs have an option, or one can merge into a non-master branch first), as one should after checking for nasties.
 
 
-
-## From the hack.md
-
 Travis is a cloud service - you can’t run travis commands locally.
 
 
@@ -254,10 +251,9 @@ Travis is a cloud service - you can’t run travis commands locally.
 > why we think you should read the whole thing
 
 ## Prerequisites / recommended skill level
-> other chapters that should have been read before or content you should be familiar with before you read this
+An understanding of version control is necessary for this chapter (see the version control chapter for details). It is also highly recommended that you read the chapters on testing and reproducible environments prior to reading this chapter.  
 
-## Chapter content
-> depending on the content, this might be more structured, e.g. with exercises, gotcha sections etc
+
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
