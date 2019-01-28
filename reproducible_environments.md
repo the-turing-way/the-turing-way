@@ -143,6 +143,51 @@ Step 3: copy markdown back into your readme to get a nice "launch binder" button
 Also make this useful to run on local machines/HPCs (that might not be setup for this much networking) to enable data throughput independent of cloud availability
 - you don't need all the fancy stuff Kubernetes can do to run a BinderHub -> strip down Kubernetes to the essentials and run that locally
 
+---
+
+[opensource](https://opensource.com/resources/what-docker) **Attribution-ShareAlike 4.0 International**
+
+Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package. By doing so, thanks to the container, the developer can rest assured that the application will run on any other Linux machine regardless of any customized settings that machine might have that could differ from the machine used for writing and testing the code.
+
+Docker is a tool that is designed to benefit both developers and system administrators, making it a part of many DevOps (developers + operations) toolchains. For developers, it means that they can focus on writing code without worrying about the system that it will ultimately be running on. It also allows them to get a head start by using one of thousands of programs already designed to run in a Docker container as a part of their application. For operations staff, Docker gives flexibility and potentially reduces the number of systems needed because of its small footprint and lower overhead.
+
+Docker brings security to applications running in a shared environment, but containers by themselves are not an alternative to taking proper security measures.
+
+Dan Walsh, a computer security leader best known for his work on SELinux, gives his [perspective](https://opensource.com/business/14/7/docker-security-selinux) on the importance of making sure Docker containers are secure. He also provides a [detailed breakdown](https://opensource.com/business/14/9/security-for-docker) of security features currently within Docker, and how they function.
+
+---
+
+Woes of development can be:
+
+keeping a consistent environment while iterating through new builds
+documenting so others can use your code like you already know how to
+installing dependent software without conflicting with host versions
+consistent testing environment
+accountable data and traceable storage
+Woes of operations can be:
+
+proper documentation of the software being monitored
+process micro-management and resource quotas
+network configuration for application requirements
+accountable data and traceable storage
+By having a standardized image format, development sees all servers the same and operations sees all containers the same. These are the woes that Docker directly addresses. It is first necessary to distinguish the use of "image" and "container" within the Docker environment.
+
+An image
+Portable: They can be pushed to a registry, or saved as a tar archive.
+
+Layered: The steps in producing an image, are added in layers. In this way, images that are mostly the same, except for the last few steps, can reduce disk usage by sharing parent layers.
+
+Static: The contents are not changeable, unless making a new image.
+
+A container
+Runtime: An environment for PIDs.
+
+Writable: It is essentially an ephemeral storage.
+
+Layered: It is on an image.
+
+These terms will show up in various contexts, and it is important to see how they relate to each other, but are also their own entities. With this foundation it's time to explore its basic Docker application and capabilities.
+
 
 
 
