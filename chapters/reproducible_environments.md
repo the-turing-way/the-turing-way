@@ -65,6 +65,9 @@ Materials to look at:
 
 - https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 - https://www.tutorialspoint.com/docker/docker_file.htm
+- https://developers.redhat.com/blog/2016/02/24/10-things-to-avoid-in-docker-containers/?intcmp=7016000000127cYAAQ
+- https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459
 
 
 ## Material from hack.md
