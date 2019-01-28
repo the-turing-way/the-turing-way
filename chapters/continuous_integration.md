@@ -519,6 +519,21 @@ Travis CI isn't just for running tests, there are many others things you can do 
 
 ---
 
+[Installing dependencies via yaml](https://github.com/travis-ci/docs-travis-ci-com/edit/master/user/installing-dependencies.md) **MIT**
+
+## Installing Packages on Standard Infrastructure
+
+To install Ubuntu packages that are not included in the standard [precise](/user/reference/precise/), [trusty](/user/reference/trusty/), or [xenial](/user/reference/xenial/) distribution, use apt-get in the `before_install` step of your `.travis.yml`:
+
+```yaml
+before_install:
+  - sudo apt-get install -y libxml2-dev
+```
+{: data-file=".travis.yml"}
+
+
+---
+
 [security](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/best-practices-security.md) **MIT**
 
 ## Steps Travis CI takes to secure your data
