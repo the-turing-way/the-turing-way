@@ -1,3 +1,36 @@
+# Research Data Management
+
+## Summary
+> easy to understand summary - a bit like tl;dr
+
+## How this will help you/ why this is useful
+> why we think you should read the whole thing
+
+## Prerequisites / recommended skill level
+- version control
+- Open Research for context
+
+## Chapter content
+
+
+### Storage and backup
+
+- back up regularly
+- pick suitable storage (if personal data used, ensure it's GDPR compliant)
+- encrypt files where needed
+
+### Documentation and metadata
+
+#### Step 2: Make your data easy to understand
+
+Having data available is of no use if it cannot be understood. For example a table of numbers is useless if there are no headings which describe what the columns/rows contain. Therefore you should ensure that open datasets include consistent core metadata, and that the data is fully described. This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
+
+- link to metadata standards and e.g. BIDS 
+
+Recycle a lot from http://doi.org/10.5281/zenodo.1914401 (cc-by)
+
+### Sharing and archiving data
+
 ## Open data
 
 The world is witnessing a significant global transformation, facilitated by technology and digital media, and fueled by data and information. This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research.
@@ -17,18 +50,15 @@ Free access to, and subsequent use of, data is of significant value to society a
 
 Put your data online. It should be easily discoverable and accessible, and made available without bureaucratic or administrative barriers, which can deter people from accessing the data. Choose a location to store the data which will ensure historical copies of datasets are preserved, archived, and kept accessible as long as they retain value. As much as possible researchers should provide data in its original, unmodified form.
 
+#### Licensing as potential separate sub chapter
 Data should be free of charge, under an open license, (for example, those developed by Creative Commons) so it can be reused and remixed by other researchers. The data should be available as a whole and at no more than a reasonable reproduction cost i.e. no expensive piece of software should be required to read the file as this may obstruct researchers who wish to work with the dataset.
 
-#### Step 2: Make your data easy to understand
-
-Having data available is of no use if it cannot be understood. For example a table of numbers is useless if there are no headings which describe what the columns/rows contain. Therefore you should ensure that open datasets include consistent core metadata, and that the data is fully described. This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
 
 #### Step 3: Make your data easy to use
 
 The data should be made available in a modifiable, machine-readable format so that it can be effectively used and  manipulated.
 It is also important to think about the file formats that information is provided in. Data should be presented in structured and standardized formats to support interoperability, traceability, and effective reuse. In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people.
 
-<a name="citing_data"></a>
 #### Step 4: Make your data citeable
 
 Data should be considered legitimate, citable product of research. Making data citeable (and citing data yourself) facilitate giving scholarly credit; in scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited. Data citations facilitate identification of, access to, and verification of the specific data that support a claim, making science more reproducible. Ensure that anyone wishing to cite a dataset you host can use a persistent identifier that you provide to do so.
@@ -41,7 +71,12 @@ When organisations register a DOI for a resource, they should not introduce sema
 
 Whichever identifier scheme you pick make sure it allows the identifier to be resolved to a URL. This URL should belong to a landing page that contains descriptive information about the dataset, as well as links or instructions for accessing it. You should also ensure that datasets are made citable and identifiable at an appropriate level of granularity, i.e it would be no use citing CERN's entire data repository as someone attempting to reproduce your work would not be able to find the data used in a specific piece of work without considerable difficulty. Where possible it should be possible to cite the data used, and only the data used.
 
-### Barriers to data sharing
+### Barriers to data sharing/ Sensitive data
+
+- anonymization
+- synthetic data?
+- consent for sharing
+- data sharing agreements?
 
 Sometimes it may not be possible to make data publicly available in its entirety or even in part. There are two main reasons this may be the case:
 
@@ -57,3 +92,26 @@ Preserving privacy may still be possible if partial or generalised datasets are 
 In many cases companies are understandably unwilling to publish much of their data. The reasoning goes that if commercially sensitive information of a company is disclosed, it will damage the company’s commercial interests and undermine competitiveness. This is based on the thinking that in competitive markets, innovation will only occur with some protection of information: if a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources. The result is that no-one would innovate in the first place. Similarly governments are often unwilling to publish data that relates to issues such as national security due to public safety concerns.
 
 In such cases it may not be possible to make data open, or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy.
+
+
+### FAIR data
+
+- overview of principles and how the above applies/ feeds in
+- also make a reference to apply FAIR to software and if FAIR software + data = reproducible research? 
+
+## Checklist
+> this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
+
+## What to learn next
+> recommended next chapters that are a good next step up
+
+## Further reading
+> top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
+> less relevant/favourite resources in case someone wants to dig into this in detail
+
+## Definitions/glossary
+> Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
+
+## Bibliography
+> Credit/urls for any materials that form part of the chapter's text.
+
