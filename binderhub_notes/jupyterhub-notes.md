@@ -65,4 +65,3 @@ A glossary of Azure terms can be found [here](https://docs.microsoft.com/en-us/a
 ### Command Line Instructions
 
 *Discussion/Hackathon with Martin O'Reilly, 29/01/2019*
-
