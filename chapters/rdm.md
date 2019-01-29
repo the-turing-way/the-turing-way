@@ -4,14 +4,16 @@
 > easy to understand summary - a bit like tl;dr
 
 ## How this will help you/ why this is useful
-> why we think you should read the whole thing
+Having data available is a key component of reproducing an analysis. 
+To be able to share data that is understandable and re-usable, research data needs to be managed properly. 
+Thus, this chapter lays out good data management practice to allow you to plan your data management activities at the start of your reproducible research project.
 
 ## Prerequisites / recommended skill level
-- version control
-- Open Research for context
+The following sections in this handbook provide useful context and complementary information to this chapter:
+- Version control
+- Open Research 
 
 ## Chapter content
-
 
 ### Storage and backup
 
@@ -28,6 +30,8 @@ Having data available is of no use if it cannot be understood. For example a tab
 - link to metadata standards and e.g. BIDS 
 
 Recycle a lot from http://doi.org/10.5281/zenodo.1914401 (cc-by)
+
+
 
 ### Sharing and archiving data
 
@@ -51,6 +55,7 @@ Free access to, and subsequent use of, data is of significant value to society a
 Put your data online. It should be easily discoverable and accessible, and made available without bureaucratic or administrative barriers, which can deter people from accessing the data. Choose a location to store the data which will ensure historical copies of datasets are preserved, archived, and kept accessible as long as they retain value. As much as possible researchers should provide data in its original, unmodified form.
 
 #### Licensing as potential separate sub chapter
+> or call it re-use and cover data citation principles here?
 Data should be free of charge, under an open license, (for example, those developed by Creative Commons) so it can be reused and remixed by other researchers. The data should be available as a whole and at no more than a reasonable reproduction cost i.e. no expensive piece of software should be required to read the file as this may obstruct researchers who wish to work with the dataset.
 
 
