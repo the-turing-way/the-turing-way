@@ -55,11 +55,65 @@
      For more examples and ideas, visit:
        https://docs.docker.com/get-started/
      ```
-    - *Will continue tomorrow*
+- Listed docker images `sude docker image ls`, and it came up with the hello-world image that came with the download. The instructions didn't include the sudo but without it I get the error `Got permission denied while trying to connect to the Docker daemon socket`. As far as I can tell this issue isn't unique to me or the borrowed computer I'm using. Believe I need `sudo` in front of all my docker commands.
+- Ran the hello world using `sudo docker run hello-world` and got the welcome message again but nothing else happened as far as I can tell, which may be what's supposed to happen.
+- Made a new directory (docker-practice) and cd into in.
+- Made a file called app.py which contained
+  ```
+  from flask import Flask
+  from redis import Redis, RedisError
+  import os
+  import socket
 
+  # Connect to Redis
+  redis = Redis(host="redis", db=0, socket_connect_timeout=2, socket_timeout=2)
 
+  app = Flask(__name__)
 
+  @app.route("/")
+  def hello():
+      try:
+          visits = redis.incr("counter")
+      except RedisError:
+          visits = "<i>cannot connect to Redis, counter disabled</i>"
 
+      html = "<h3>Hello {name}!</h3>" \
+             "<b>Hostname:</b> {hostname}<br/>" \
+             "<b>Visits:</b> {visits}"
+      return html.format(name=os.getenv("NAME", "world"), hostname=socket.gethostname(), visits=visits)
+
+  if __name__ == "__main__":
+      app.run(host='0.0.0.0', port=80)
+  ```
+- Made a file called requirements.txt that just read
+  ```
+  Flask
+  Redis
+  ```
+- Created a file called `Dockerfile` containing
+  ```
+  # Use an official Python runtime as a parent image
+  FROM python:2.7-slim
+
+  # Set the working directory to /app
+  WORKDIR /app
+
+  # Copy the current directory contents into the container at /app
+  COPY . /app
+
+  # Install any needed packages specified in requirements.txt
+  RUN pip install --trusted-host pypi.python.org -r requirements.txt
+
+  # Make port 80 available to the world outside this container
+  EXPOSE 80
+
+  # Define environment variable
+  ENV NAME World
+
+  # Run app.py when the container launches
+  CMD ["python", "app.py"]
+  ```
+-
 
 Materials to look at:
 
