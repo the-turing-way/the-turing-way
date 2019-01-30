@@ -4,6 +4,101 @@ Sarah Gibson
 
 _The Alan Turing Institute_
 
+## Cloning mybinder.org for development
+
+### Getting started
+
+**Installation requirements:**
+* Install VirtualBox
+  * I chose the OS X host from [here](https://www.virtualbox.org/wiki/Downloads)
+* Install `minikube`
+  * `brew cask install minikube`
+* Install Helm
+  * `brew install kubernetes-helm`
+
+### Following the contributing guidelines
+
+Guidelines available [here](https://github.com/jupyterhub/binderhub/blob/master/CONTRIBUTING.md#installation).
+
+#### 0. Initial set-up
+
+These commands were actually ignored as most of the modules were already installed and the second command is Linux-only.
+
+```
+sudo apt install python3 python3-pip npm curl
+sudo apt install socat
+```
+
+#### 1. Clone the BinderHub Repo
+
+```
+git clone https://github.com/jupyterhub/binderhub
+cd binderhub
+```
+
+#### 2. Install minikube
+
+See **Getting started** instructions above.
+The guidelines suggest using a script to download `minikube`, arguing that the `brew` method is not stable for Macs.
+But this downloads an older version of `minikube` which then cannot install the Hub due to a timeout.
+The `brew` install method works fine, however.
+
+Initialise `minikube`:
+```
+minikube start
+```
+
+#### 3. Install and Initialise Helm
+
+Again, see **Getting started** instructions above.
+
+```
+helm init
+```
+
+#### 5. Add the JupyterHub Helm Charts
+
+```
+helm repo add jupyterhub https://jupyterhub.github.io/helm-chart/
+helm repo update
+```
+
+#### 6. Install BinderHub
+
+You may choose to do this step inside a virtual environment, in which case:
+```
+python3 -m venv venv
+source venv/bin/activate
+```
+Then:
+```
+python3 -m pip install -e . -r dev-requirements.txt
+```
+
+#### 7. Install the Hub
+
+```
+./testing/minikube/install-hub
+```
+
+#### 8. Set up docker for the minikube cluster
+
+```
+eval $(minikube docker-env)
+```
+
+#### 9. Start BinderHub
+
+```
+python3 -m binderhub -f testing/minikube/binderhub_config.py
+```
+
+#### 10. Visit your BinderHub!
+
+Got to `localhost:8585` in your browser and you will see a copy of [mybinder.org](https://mybinder.org/).
+Enter a URL for a GitHub repository and hit launch.
+BinderHub will then build the docker image for your repo and launch it in an interactive window.
+
 ## Creating a Working Environment
 
 * Use `anaconda` to create a working environment with `python-3.6`:
@@ -134,40 +229,3 @@ To connect JupyterHub and BinderHub, get the IP address of the JupyterHub deploy
 kubectl --namespace=<namespace-from-above> get svc proxy-public
 ```
 **WARNING:** `EXTERNAL_IP` field reports `<pending>` for aaaaaagggggeeeeeesssss. Seriously, go get _several_ coffees...
-
-## Changing Tack
-Conversation with **@choldgraf** on GitHub [here](https://github.com/jupyterhub/binderhub/issues/695): suggested switching to the contributing guidelines for a `minikube` installation, [here](https://github.com/jupyterhub/binderhub/blob/master/CONTRIBUTING.md).
-
-Git clone BinderHub and move into it:
-```
-git clone https://github.com/jupyterhub/binderhub
-cd binderhub
-```
-
-Install a Hypervisor and `minikube` as above.
-
-Start `minikube`:
-```
-minikube start
-```
-
-Install Helm as above and initialise:
-```
-helm init
-```
-
-Add the JupyterHub Helm Charts:
-```
-helm repo add jupyterhub https://jupyterhub.github.io/helm-chart/
-helm repo update
-```
-
-Install BinderHub and the development requirements:
-```
-python3 -m pip install -e . -r dev-requirements.txt
-```
-
-Install JupyterHub in `minikube` with `helm`:
-```
-./testing/minikube/install-hub
-```
