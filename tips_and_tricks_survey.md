@@ -1,4 +1,4 @@
-# Turing Way - case studies for reproducible research
+# Turing Way - sharing lessons learned in doing reproducible research
 
 Reproducible research is work that can be independently verified. 
 In practice, it means sharing the data and code that were used to generate published results - yet this is often easier said than done.
@@ -10,7 +10,7 @@ We would like to hear your experience in making your research reproducible and t
 
 Filling this form should take no longer than 5 - 10 minutes depending on the amount of detail you provide.  
 
-These case studies will be published in the Turing Way handbook so please only include information that you are comfortable for others to read or anonymize where appropriate.
+These testimonies of tips and tricks will be published in the Turing Way handbook so please only include information that you are comfortable for others to read or anonymize where appropriate.
 We may make minor revisions to your submission for style or clarity.
 
 ## Tell us who you are
@@ -48,7 +48,7 @@ But if there's anything else you'd say, please let us know!
 
 > Free text answer
 
-## I understand that the answers given above will be made public
+## I understand that the answers given above will be made public at the Turing Way GitHub repository
 
 > Check box: yes, no
 
