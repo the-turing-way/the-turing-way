@@ -41,24 +41,28 @@ This requires that all documentation accompanying data is written in clear, plai
 
 Recycle a lot from http://doi.org/10.5281/zenodo.1914401 (cc-by)
 
-
-
 ### Sharing and archiving data
+#### Motivations for sharing data
 
-## Open data
-
-The world is witnessing a significant global transformation, facilitated by technology and digital media, and fueled by data and information. This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research.
- Only a very small proportion of the original data is published in conventional scientific journals. Existing policies on data archiving notwithstanding, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public. This lack of access to scientific data is an obstacle to international research for two main reasons:
+The world is witnessing a significant global transformation, facilitated by technology and digital media, and fueled by data and information. 
+This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research.
+Only a very small proportion of the original data is published in conventional scientific journals. 
+Existing policies on data archiving notwithstanding, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public. 
+This lack of access to scientific data is an obstacle to international research for two main reasons:
 
 1. It is generally difficult or impossible to fully reproduce a scientific study without the original data.
-2. It often causes unnecessary duplication of research efforts; large amounts of research funds are spent every year to recreate already existing data. Further it inhibits joint research activities on various aspects of the same problem.
+2. It often causes unnecessary duplication of research efforts; large amounts of research funds are spent every year to recreate already existing data. 
+Further it inhibits joint research activities on various aspects of the same problem.
 
-Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs. Open data is crucial to meeting these objectives.
+Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs. 
+Sharing data openly is crucial to meeting these objectives.
 Open data means that the data is freely available on the internet permitting any user to download, copy, analyse, re-process, and re-use it for any other purpose without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself.
-This represents a real shift in how research works. At the moment anyone who wishes to use scientific data from a researcher often has to contact that researcher and make a request. Open by default turns this on its head and says that there should be a presumption of publication for all. Researchers need to justify data that’s kept closed, for example for security or data protection reasons.
-Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default. So, how do you go about making your data open?
+This represents a real shift in how research works. 
+At the moment anyone who wishes to use scientific data from a researcher often has to contact that researcher and make a request. Open by default turns this on its head and says that there should be a presumption of publication for all. 
+Researchers need to justify data that’s kept closed, for example for security or data protection reasons.
+Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default. 
 
-### Steps to make your data open
+### Steps to share your data
 
 #### Step 1: Make your data available
 
