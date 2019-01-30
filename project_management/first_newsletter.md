@@ -22,7 +22,7 @@ It is openly developed and any and all questions, comments and recommendations a
   What do you wish you'd know when you started making your work reproducible?
   We would love to share your experience with our readers and other members of our community.
   
-  To add your advice to the handbook, please fill out our quick [submission form](https://docs.google.com/forms/d/e/1FAIpQLSfcyYH_E03Y5zuBdwrikQP4QldqzKmD-aPngCKthdV9e9alaA/viewform)
+  To add your advice to the handbook, please fill out our quick [submission form](https://goo.gl/forms/akFqZEIy2kxAjfZW2)
 
 * Attend one of our workshops  
 We will run three workshops throughout March 2019.
@@ -67,5 +67,5 @@ Please share this message with anyone you think would be interested.
 
 Thank you for reading, and we look forward to your contributions!
 
-The Turing Way project team
+The Turing Way project team  
 https://github.com/alan-turing-institute/the-turing-way
