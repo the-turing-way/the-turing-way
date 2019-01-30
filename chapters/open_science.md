@@ -432,6 +432,10 @@ By allowing members of the public to contribute to scientific research citizen s
 - [ ] Publish your research in an open access journal
 - [ ] Store a copy and/or preprint of your work in a freely accessible public repository
 
+### Open notebooks
+
+- [ ] Make your notebooks publicly accessible online.
+
 ## What to learn next
 
 If you haven't had a chance already take a look at the chapter on version control, particularly the sections on GitHub in the latter half.
