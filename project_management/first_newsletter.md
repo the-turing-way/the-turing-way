@@ -1,6 +1,7 @@
 > Draft for our first January newsletter to be send in January 2019. 
-> Don't be confused by it asking to sign up to the newsletter, I expect we send this around to friendly people to advertise the workshops and add it to tinyletter but it's really rather announcing that there is a newsletter to sign up than a proper first newsletter.
-> Formatting can adjusted later - I used headings as highlights because I'm lazy...
+> Don't be confused by it asking to sign up to the newsletter, I expect we send this around to friendly people to advertise the workshops and add it to tinyletter but it's really rather announcing that there is a newsletter to sign up than a proper first newsletter.  
+> Please reformat accordingly to make it fit the outlet your sending it to  
+> Update [#45](https://github.com/alan-turing-institute/the-turing-way/issues/45) with info of where you sent it to please
 
 Subject
 # The Turing Way - project announcement
@@ -22,7 +23,6 @@ It is openly developed and any and all questions, comments and recommendations a
   We would love to share your experience with our readers and other members of our community.
   
   To add your advice to the handbook, please fill out our quick [submission form](https://docs.google.com/forms/d/e/1FAIpQLSfcyYH_E03Y5zuBdwrikQP4QldqzKmD-aPngCKthdV9e9alaA/viewform)
-> I hope this works as preview, I will also create a separate .md file with the case study form in a bit to get feedback.
 
 * Attend one of our workshops  
 We will run three workshops throughout March 2019.
@@ -68,5 +68,4 @@ Please share this message with anyone you think would be interested.
 Thank you for reading, and we look forward to your contributions!
 
 The Turing Way project team
-
-> Link to contact section in README or CONTRIBUTING guidelines?
+https://github.com/alan-turing-institute/the-turing-way
