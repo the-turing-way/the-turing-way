@@ -413,6 +413,13 @@ By allowing members of the public to contribute to scientific research citizen s
 - [ ] Identify a relevant, easily discoverable repository or repositories to host your data, and upload it there
 - [ ] Assign your data a persistent identifier such as a DOI.
 
+### Open hardware
+
+- [ ] Use open hardware where practical
+- [ ] Make detailed documentation and designs for any hardware you develop openly available
+- [ ] Include a license granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate license for your project.
+- [ ] Include a readme file containing useful information about a project such as what it is, materials used, etc.
+
 ### Open source software
 
 - [ ] Put your code in a freely accessible repository
