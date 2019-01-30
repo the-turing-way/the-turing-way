@@ -17,15 +17,25 @@ The following sections in this handbook provide useful context and complementary
 
 ### Storage and backup
 
-- back up regularly
-- pick suitable storage (if personal data used, ensure it's GDPR compliant)
-- encrypt files where needed
+Data loss can be catastrophic for your research project and happens regularly.
+You can prevent data loss by picking suitable storage solutions and backing your data up regularly.
+
+#### Where to store data
+Most institutions will provide a *network drive* that you can use to store data.  
+*Portable storage media* such as memory sticks (USB sticks) are more risky and vulnerable to loss and damage.  
+*Cloud storage* provides a convenient way to store, back and up and retrieve data. You should check terms of use before using them for your research data. 
+Especially if you are handling personal or sensitive data, you need to ensure the cloud option is compliant with any data protection rules the data is bound by.  
+To add an additional layer of security, you should encrypt devices and/or files where needed.
+
+#### Backups
 
 ### Documentation and metadata
 
 #### Step 2: Make your data easy to understand
 
-Having data available is of no use if it cannot be understood. For example a table of numbers is useless if there are no headings which describe what the columns/rows contain. Therefore you should ensure that open datasets include consistent core metadata, and that the data is fully described. This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
+Having data available is of no use if it cannot be understood. For example a table of numbers is useless if there are no headings which describe what the columns/rows contain. 
+Therefore you should ensure that open datasets include consistent core metadata, and that the data is fully described. 
+This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
 
 - link to metadata standards and e.g. BIDS 
 
