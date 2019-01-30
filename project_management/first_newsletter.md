@@ -7,18 +7,21 @@ Subject
 
 Dear amazing people,
 
-we send this to you as we expect you to be interested in the Turing Way project. 
+We send this to you as we expect you to be interested in the Turing Way project.
+
 The Turing Way is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do". 
 It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
-It is openly developed and any and all questions, comments and recommendations are welcome at our github repository: https://github.com/alan-turing-institute/the-turing-way or in our gitter chat room. 
+It is openly developed and any and all questions, comments and recommendations are welcome at our github repository: https://github.com/alan-turing-institute/the-turing-way or in our gitter chat room: https://gitter.im/alan-turing-institute/the-turing-way
 
 ## How can you get involved in the Turing Way?
 
 * Sign up to our newsletter to get monthly updates on the handbook's progress at https://tinyletter.com/TuringWay
 
-* Contribute a case study!  
-We would love to hear your experience in making your research reproducible! 
-To add a short case study to the handbook, please fill out our quick [submission form](https://docs.google.com/forms/d/e/1FAIpQLSfcyYH_E03Y5zuBdwrikQP4QldqzKmD-aPngCKthdV9e9alaA/viewform) 
+* Share your tips, tricks and gotchas!
+  What do you wish you'd know when you started making your work reproducible?
+  We would love to share your experience with our readers and other members of our community.
+  
+  To add your advice to the handbook, please fill out our quick [submission form](https://docs.google.com/forms/d/e/1FAIpQLSfcyYH_E03Y5zuBdwrikQP4QldqzKmD-aPngCKthdV9e9alaA/viewform)
 > I hope this works as preview, I will also create a separate .md file with the case study form in a bit to get feedback.
 
 * Attend one of our workshops  
@@ -27,7 +30,7 @@ We will run three workshops throughout March 2019.
 ### Boost your research reproducibility with Binder
 
 If you are looking for an easy way to share your code with others, without worrying about the computational environment they're running or installing a long list of requirements, then [Binder](https://mybinder.readthedocs.io/en/latest/) might be the solution for you.
-Binder allows you to share your software with others in the form of a single clickable link, making it easier for users and removing the need for you to worry about supporting lots of different platforms. 
+Binder allows you to share your software with others in the form of a single clickable link, making it easier for users and removing the need for you to worry about supporting lots of different platforms.
 
 During this free workshop we will discuss reproducible computing environments, show examples of others’ projects in [myBinder.org](https://mybinder.org/) and help you learn how to prepare a binder-ready project.
 At the end of the workshop you will be able to take some of your own content (in a R or Jupyter notebook, or scripts that can be run in the terminal) and prepare it so that it can be used by others on myBinder.org.
@@ -60,6 +63,10 @@ This workshop is for Research Software Engineers and IT staff who are:
 **Workshop location and sign-up**
 * [Sheffield - 18th March](https://www.eventbrite.co.uk/e/build-a-binderhub-registration-55336756729)
 
-We look forward to your contributions!
+Please share this message with anyone you think would be interested.
+
+Thank you for reading, and we look forward to your contributions!
 
 The Turing Way project team
+
+> Link to contact section in README or CONTRIBUTING guidelines?
