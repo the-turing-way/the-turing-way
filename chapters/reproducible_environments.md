@@ -113,7 +113,14 @@
   # Run app.py when the container launches
   CMD ["python", "app.py"]
   ```
--
+- Then built the docker image and called it "friendlyhello" using `sudo docker build --tag=friendlyhello .`.
+- Did `docker image ls` and the firndlyhello image was listed along with hello-world
+- Ran the docker image using `sudo docker run -p 4000:80 friendlyhello`, the `-p 4000:80` says to map the container's port (which is 80 as seet in the docker file) to my manchine's 4000 port. As a result when I go to "http://localhost:4000/" on a web browser I get a hello world message, and a note that it couldn't connect to Redis.
+- In the terminal used ctrl+C to end the app and get back to the command line.
+- Can run the app in the background from the get go by adding a `-d` before the `-p`.
+- Did that then ran `sudo docker container ls` to get a list of active containers which showed that one with a container ID which looks like a git SHA.
+- Did `sudo docker container stop the_SHA_like_thing` and the container stopped, so I no longer got the message I got before at "http://localhost:4000/", and when I ls the containers there's none because there's none running.
+- Redid it using port 3000 instead of 4000 and it worked fine, so 4000 isn't special.
 
 Materials to look at:
 
