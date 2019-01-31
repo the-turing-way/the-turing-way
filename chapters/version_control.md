@@ -2,7 +2,7 @@
 
 ## Summary
 
-Version control keeps track of different versions of a project and allows past versions to be accessed easily. It also allows different versions of a project to be merged with minimal input from the user. There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, GitHub, which aids collaboration between researchers) which the instructions given in this chapter will be geared towards. There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "[Further reading](#further_reading)" section at the end of the chapter.) This chapter aims to cover the general principles underpinning all version control systems, and best practise which applies for using all such systems.
+Version control keeps track of different versions of a project and allows past versions to be accessed easily. It also allows different versions of a project to be merged with minimal input from the user. There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, GitHub, which aids collaboration between researchers) which the instructions given in this chapter will be geared towards. There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "[Further reading](#further_reading)" section at the end of the chapter.) This chapter aims to cover the general principles underpinning all version control systems, and best practice which applies for using all such systems.
 
 
 ## How this is helpful
@@ -13,7 +13,7 @@ Another benefit of version control is that it makes collaboration easier, safer,
 
 
 ## Prerequisites / recommended skill level
-Some experience of working via the command line is extremely helpful but not a necessity as it is possible to use version control through desktop and web browser based tools. These tools are discussed towards the end of this chapter, but the general principles and best practise discussed in the preceding sections are relevant regardless of whether the command line or a GUI is used.  
+Some experience of working via the command line is extremely helpful but not a necessity as it is possible to use version control through desktop and web browser based tools. These tools are discussed towards the end of this chapter, but the general principles and best practice discussed in the preceding sections are relevant regardless of whether the command line or a GUI is used.  
 
 Recommended skill level: beginner - intermediate. Version control has a great deal of useful features, but total mastery is not necessary to achieve a great deal with it. Even a beginner utilising a few of the simplest features well can save themselves a great deal of time and drastically improve the reproducibility of their work. Naturally, we encourage readers to make use of the entire chapter, but readers should not be discouraged from using some tools they feel comfortable with if they are not comfortable with *all* the tools available.
 
@@ -33,7 +33,7 @@ The typical procedure for using version control is as follows:
 
 Keep doing work and making more and more commits. You can think of commits as checkpoints. If you ever need to go back to any past checkpoint to get a file as it was then, or just return your entire project to a past state you can. An illustration of this is shown in the figure below.  
 
-![master_branch](figures/master_branch.png)
+![master_branch](../figures/master_branch.png)
 
 Every time you make a commit you can tag it with a commit message explaining what this snapshot of your project is doing. This makes it very easy to find what you're looking for when you need to go back to a past version.
 
@@ -42,15 +42,15 @@ Every time you make a commit you can tag it with a commit message explaining wha
 
 So you have your project and you want to add new or something or try something out. With version control you can make a branch to do this work on. Any work you do on your branch won't be present on your main project (referred to as your master branch) so it remains nice and safe and you can continue to work on it. Once you're happy with your New Thing you can 'merge' your branch back into your master copy.
 
-![one_branch](figures/one_branch.png)
+![one_branch](../figures/one_branch.png)
 
 You can have more than one branch off of your master copy, and if one of your branches ends up not working you can either abandon it or delete it without the master branch of your project ever being impacted.
 
-![two_branches](figures/two_branches.png)
+![two_branches](../figures/two_branches.png)
 
 If you want you can even have branches off of branches (and branches off of those branches and so on).
 
-![sub_branch](figures/sub_branch.png)
+![sub_branch](../figures/sub_branch.png)
 
 No matter how many branches you have you can access past commits you made on any of them.
 
@@ -85,7 +85,7 @@ git add .
 
 This puts your changes into what's called the "staging area". When you next commit any changes stored in your staging area will be recorded in your repository.
 
-![change_stage_repo](figures/change_stage_repo.png)
+![change_stage_repo](../figures/change_stage_repo.png)
 
 The full stop after `git add` above adds all changes to your staging area. So now all your files are staged commit them using
 
@@ -161,11 +161,11 @@ git checkout SHA_of_the_version
  git checkout SHA_of_the_version -- your_file_name
  ```
 
-### Good practise for commits
+### Good practice for commits
 
 Commits should be 'atomic' i.e **they should do one simple thing and they should do it completely**, e.g. adding a new function or renaming a variable. If a lot of different changes to your project are all committed together then if something goes wrong it can be hard to unpick what in this set of changes if causing the problem, and undoing the whole commit may throw away valid and useful work along with the bug. That said **you don't necessarily need to do per-file commits**. For example if I add a figure to this chapter here, let's choose something to catch the attention of someone skimming through:
 
-![flipped_taj_mahal](figures/flipped_taj_mahal.png)
+![flipped_taj_mahal](../figures/flipped_taj_mahal.png)
 
 then when I do this two files are changed:
 
@@ -174,7 +174,7 @@ then when I do this two files are changed:
 
 So two files are affected, but "Add figure to version control chapter" is a single, *atomic* unit of work, so only one commit is necessary.
 
-To aid in making atomic commits it's good practise to **specify the files to be committed**, i.e. adding files to the staging area by name (`git add your_file_name`) rather than adding everything (`git add .`). This prevents you from unintentionally bundling different changes together, for example if you've made a change to file A while primarily working on file B you may have forgotten this when you go to commit, and with `git add .` file A would be brought along for the ride.
+To aid in making atomic commits it's good practice to **specify the files to be committed**, i.e. adding files to the staging area by name (`git add your_file_name`) rather than adding everything (`git add .`). This prevents you from unintentionally bundling different changes together, for example if you've made a change to file A while primarily working on file B you may have forgotten this when you go to commit, and with `git add .` file A would be brought along for the ride.
 
 Finally, **don't commit anything that can be regenerated from other things that were committed unless it is something  that would take hours to regenerate**. Generated files just clutter up your repository and may contain features such as timestamps that can cause annoying merge conflicts (see [below](#merge_conflicts)). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct Git to ignore certain files by creating a file called `.Gitignore` and including their names in it.
 
@@ -189,7 +189,7 @@ As you work on you project you will make more and more commits. Without any othe
 
 When you commit you have the chance to write a commit message describing what the commit is and what it does, and you should always, *always,* **_always_** do so.  A commit message gets attached to the commit so if you look back at it (e.g via `git log`) it will show up. Creating insightful and descriptive commit messages is one of the best things you can do to get the most out of version control. It lets people (and your future self when you've long since forgotten what you were doing and why) quickly understand what changes a commit contains without having to carefully read code and waste time figuring it out. Good commit messages improve your code quality by drastically reducing its WTF/min ratio:
 
-![wtf_per_min](figures/wtf_per_min.jpg)
+![wtf_per_min](../figures/wtf_per_min.jpg)
 
 ### How to do it
 
@@ -205,12 +205,12 @@ notice that a field appears (either within the terminal or in a text editor) whe
 git config --global core.editor "your_preferred_editor"
 ```
 
-### Good practise for commit messages
+### Good practice for commit messages
 
 The number one rule is: **make it meaningful**. A commit message like "Fixed a bug" leaves it entirely up to the person  looking at the commit (again, this person may very well be you a few months in the future when you've forgotten what you were doing) to waste time figuring out what the bug was, what changes you actually made, and how they fixed it. As such a good commit message should **explain what you did, why you did it, and what is impacted by the change**. As with comments you should **describe what the code is doing rather than the code itself** e.g. it is not obvious what "Change N_sim to 10" actually does, but "Change number of simulations run by the program to 10" is clear.
 
 **Summarise the change** the commit contains in the first line (50-72 characters), then leave a blank line before you continue with the body of the message. By doing this when shortened versions of `git log` are used just the summary will appear. This makes it much easier to quickly search through a large number of commits.
-It’s also a good practise to **use the imperative present tense** in these messages. In other words, use commands. Instead of "I added tests for" or "Adding tests for" use "Add tests for".
+It’s also a good practice to **use the imperative present tense** in these messages. In other words, use commands. Instead of "I added tests for" or "Adding tests for" use "Add tests for".
 
 Here's a good example of commit message structure:
 
@@ -266,7 +266,7 @@ Or if you wanted to compare two branches it would be
 git diff branch_name other_branch_name
 ```
 
-### Good practise for comparing versions
+### Good practice for comparing versions
 
 **Use it**. With a little familiarity `git diff` becomes an extremely powerful tool you can use to track what files have changed and exactly what those changes are. This is extremely valuable for unpicking bugs and comparing work done by different people. Be careful to **understand what exactly is being compared** and where possible **only compare the relevant files** for what you're interested in to avoid large amounts of extraneous information.
 
@@ -282,7 +282,7 @@ Branches. At the start of this chapter an [overview](#branches_overview) was giv
 
 Using branches keeps working code safe, particularly in collaborations. Each contibuter can have their own branch or branches which are only merged into the main project when they are ready.
 
-![sub_branch](figures/sub_branch.png)
+![sub_branch](../figures/sub_branch.png)
 
 
 ### How to do it
@@ -341,7 +341,7 @@ or
 error: Entry 'your_file_name' would be overwritten by merge. Cannot merge. (Changes in staging area)
 ```
 
-### Good practise for merging
+### Good practice for merging
 
 First and foremost your **master branch should always be stable**, only merge work that is finished and tested into it. If your project is collaborative then it's a good idea to **merge changes that others make into you own work frequently**. If you don't it's very easy for merge conflicts to arise (next section). Similarly, share your own changes with your collaborators often.
 
@@ -402,9 +402,9 @@ If you find there are particularly nasty conflicts and you want to abort the mer
 git merge --abort
 ```
 
-### Good practise for resolving merge conflicts
+### Good practice for resolving merge conflicts
 
-Before you start trying to resolve conflicts **make sure you fully understand the changes and how they are incompatible**. If you don't you risk making things more tangled. Once you do and you go about fixing the problem **be careful, but don't be afraid**; the whole point of version control is your past versions are all safe. Nevertheless merge conflicts can be intimidating to resolve, especially if you are merging branches that diverged a great many commits ago which may now have many incompatibilities. This is why it is good practise to **merge other's changes into your work frequently**.
+Before you start trying to resolve conflicts **make sure you fully understand the changes and how they are incompatible**. If you don't you risk making things more tangled. Once you do and you go about fixing the problem **be careful, but don't be afraid**; the whole point of version control is your past versions are all safe. Nevertheless merge conflicts can be intimidating to resolve, especially if you are merging branches that diverged a great many commits ago which may now have many incompatibilities. This is why it is good practice to **merge other's changes into your work frequently**.
 
 There are **tools** available to assist in resolving merge conflicts, some are free, some are not. Find and familiarise yourself with one that works for you. Commonly used merge tools include [KDiff3](http://kdiff3.sourceforge.net/), [Beyond Compare](https://www.scootersoftware.com/), [Meld](http://meldmerge.org/), and [P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge). To set a tool as your default do
 
@@ -480,7 +480,7 @@ git pull origin master
 
 It is also possible to make pull requests via the command line. A guide on how to do so is available [here](https://Git-scm.com/docs/Git-request-pull).
 
-### Good practise for using GitHub
+### Good practice for using GitHub
 
 In your GitHub repository you should **include a license** to allow others to re-use your work legally. GitHub makes this very easy, simply click the "Create new file" button, name it "License.md" and a drop down menu will appear offering you a selection to choose from. The legalese can seem intimidating however [this](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project.
 
@@ -567,7 +567,7 @@ In pull requests you should **clearly explain what the changes you've made are a
 
 ## What to learn next
 
-Look into best practise for writing good quality code (good naming conventions, informative comments, modular code structure etc). Many such skills are either also applicable for using version control well, e.g. for writing good commit messages, or make using version control easier by keeping changes neat and localised.
+Look into best practice for writing good quality code (good naming conventions, informative comments, modular code structure etc). Many such skills are either also applicable for using version control well, e.g. for writing good commit messages, or make using version control easier by keeping changes neat and localised.
 
 <a name="further_reading"></a>
 ## Further reading
