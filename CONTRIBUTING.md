@@ -110,19 +110,25 @@ If you feel that we should try new tools or some aspects of the collaboration co
 - On the alan turing version create a branch with the same name as the chapter to be written.
 - On your fork create a branch with the same name and create a markdown file on it.
 - Copy the chapter template in the templates directory into the markdown file, and commit.
-- Make a pull request to the turing way version of the chapter branch. The title of this request should have the form "[WIP] Write Chapter_name chapter". WIP indicates the chapter is a Work In Progress and not yet ready for review.
-- On your branch add material to the chapter and commit. The goal of this project is to collate and build on the many good resources already available about good practise in data science. As such this material should primarily be drawn from outside sources. Note the link and (if available) license of the source.
+- Make a pull request to the turing way version of the chapter branch. 
+The title of this request should have the form "[WIP] Write Chapter_name chapter". 
+WIP indicates the chapter is a Work In Progress and not yet ready for review.
+- On your branch add material to the chapter and commit. 
+The goal of this project is to collate and build on the many good resources already available about good practise in data science. 
+As such this material should primarily be drawn from outside sources.
+Note the link and (if available) license of the source.
 - Once a significant amount of material has been amassed, work (preferably with others) to develop a chapter outline.
-- Edit the amased material into a coherent chapter, adding more material if gaps become apparent.
+- Edit the amassed material into a coherent chapter, adding more material if gaps become apparent.
 - Edit the chapter for style.
 - Once the first draft of the chapter is complete change [WIP] in the pull request title to [Ready for review].
 - Add a comment on the pull request indicating that this chapter is ready for high level review, i.e discussion of changes of scale of a paragraph or larger such as adding material and restructuring sections.
 - Discuss and make these high level changes on this pull request. Once this is complete merge the chapter into the alan turing intitute's version of the chapter branch.
-- Make another pull request from your fork's version of the branch to the alan turing institute's version of the branch. Title this "[Redy for review] Chapter_name chapter- low level reviews".
+- Make another pull request from your fork's version of the branch to the alan turing institute's version of the branch. Title this "[Ready for review] Chapter_name chapter- low level reviews".
 - Discuss and make low level changes to the chapter on this pull request, such as rewording sentences, typos and the like.
 - This division of the pull requests into high and low level changes stops discussion threads becoming unmanagably long.
 - Once this is complete merge the pull request into the alan turing intitute's version of the chapter branch.
-- Merge the alan turing intitute's version of the chapter branch into the alan turing master branch. DO not delete the brnach as the chapter may continue to undergo improvement and development in the future.
+- Merge the alan turing intitute's version of the chapter branch into the alan turing master branch. 
+DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
 
 
 
