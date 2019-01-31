@@ -6,7 +6,7 @@ Sarah Gibson, _The Alan Turing Institute_
 
 Here's my thesis:
 
-<html><img src="thesis.jpg" alt="thesis" height="42" width="42"></html>
+<html><img src="thesis.jpg" alt="thesis" height="420" width="420"></html>
 
 And [a video](https://www.dropbox.com/s/rxxvv7pxbf4y4q6/demo1_edited.mov?dl=0) of the laptop producing a figure for [my first journal paper](https://arxiv.org/pdf/1706.04802.pdf).
 
