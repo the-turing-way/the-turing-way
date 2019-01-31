@@ -21,6 +21,7 @@
   - Regression tests
     - Test if the result changes after the code is updated. Fail if so.
     - A unit test can also be a regression test (can integration and end to end tests etc *also* be considered regression tests?)
+  - Runtime tests
   - Tests where there is not a well defined output
     - E.g. look and see if a graph seems reasonable.
     - Can't test all the ways it may be wrong, but can do sanity checks, e.g. if you have a graph of global population vs you should never have a negative number of people.
