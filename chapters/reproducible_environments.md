@@ -30,7 +30,7 @@
      $(lsb_release -cs) \
      stable"
      ```
-   - Run `sudo apt-get update` again.
+   - Run `sudo apt-get update` again.rjarnold/learning_docker:first_image_online
    - Install docker by `sudo apt-get install docker-ce`
    - Ran `sudo docker run hello-world`, it downloaded something automatically and then came up with a message saying hello and indicating the installation had been sucessful.
      ```
@@ -47,7 +47,7 @@
           to your terminal.
 
      To try something more ambitious, you can run an Ubuntu container with:
-       $ docker run -it ubuntu bash
+       $ docker run -it ubuntu bashrjarnold/learning_docker:first_image_online
 
      Share images, automate workflows, and more with a free Docker ID:
        https://hub.docker.com/
@@ -57,7 +57,7 @@
      ```
 - Listed docker images `sude docker image ls`, and it came up with the hello-world image that came with the download. The instructions didn't include the sudo but without it I get the error `Got permission denied while trying to connect to the Docker daemon socket`. As far as I can tell this issue isn't unique to me or the borrowed computer I'm using. Believe I need `sudo` in front of all my docker commands.
 - Ran the hello world using `sudo docker run hello-world` and got the welcome message again but nothing else happened as far as I can tell, which may be what's supposed to happen.
-- Made a new directory (docker-practice) and cd into in.
+- Made a new directory (docker-practice) and cd into in.rjarnold/learning_docker:first_image_online
 - Made a file called app.py which contained
   ```
   from flask import Flask
@@ -121,6 +121,15 @@
 - Did that then ran `sudo docker container ls` to get a list of active containers which showed that one with a container ID which looks like a git SHA.
 - Did `sudo docker container stop the_SHA_like_thing` and the container stopped, so I no longer got the message I got before at "http://localhost:4000/", and when I ls the containers there's none because there's none running.
 - Redid it using port 3000 instead of 4000 and it worked fine, so 4000 isn't special.
+- Now onto publishing and sharing dockerfiles. Made an account on [https://hub.docker.com/](https://hub.docker.com/).
+- Logged into docker via my terminal using `sudo docker login`
+- "The notation for associating a local image with a repository on a registry is username/repository:tag. The tag is optional, but recommended, since it is the mechanism that registries use to give Docker images a version." Did `sudo docker tag friendlyhello rjarnold/learning_docker:first_image_online`
+- Pushed the image to my account online by `sudo docker tag push rjarnold/learning_docker:first_image_online`
+- Refreshed the webpage with my account, the repository had been automatically create and the image placed within it.
+- Now try running the image on another machine. On another ubuntu machine I tried running `sudo docker run -p 4000:80 rjarnold/learning_docker:first_image_online` Failed because docker wasn't installed on that machine. 
+- Installed docker on that machine and tried again. It regonised the image wasn't on my local machine and downloaded it
+- Went to "http://localhost:4000/" and the message was there as expected, so success. It had run without making the directory and files on my machine.
+
 
 Materials to look at:
 
