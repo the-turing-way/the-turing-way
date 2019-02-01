@@ -31,7 +31,13 @@ Run `code/figure2.py` to reproduce the same plot in the video.
 
 Now going to demo how you can build your own BinderHub for your Institution/Company/RSE group tailored to their needs.
 
-Some useful links:
+### Some useful links:
 * [Zero-to-JupyterHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
+* [Zero-to-JupyterHub with Kubernetes](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html)
+* [Step Zero: Kubernetes on Microsoft Azure](https://zero-to-jupyterhub.readthedocs.io/en/latest/microsoft/step-zero-azure.html)
 * [Zero-to-BinderHub](https://binderhub.readthedocs.io/en/latest/)
 * [repo2docker](https://repo2docker.readthedocs.io/en/latest/?badge=latest)
+
+## Finally...
+
+Please come and visit our repo! [The Turing Way](https://github.com/alan-turing-institute/the-turing-way)
