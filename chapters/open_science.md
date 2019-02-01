@@ -1,8 +1,8 @@
 # Open Science
 
-## Summary 
+## Summary
 
-Open Science aims to transform science by making research more reproducible, transparent, re-usable, collaborative, accountable and closer to society. It is about the way research is carried out and disseminated by digital tools. The OECD defines Open Science as:  “to make the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction”. In order to achieve this openness in science, each element of the research process should:
+Open Science aims to transform science by making research more reproducible, transparent, re-usable, collaborative, accountable and closer to society. It is about the way research is carried out and disseminated by digital tools. The OECD [defines](http://www.oecd.org/sti/inno/38500813.pdf) Open Science as the practice of making "the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction”. In order to achieve this openness in science, each element of the research process should:
 
 - Be publicly available: it is difficult to use and benefit from knowledge hidden behind barriers such as passwords
 - Be re-usable: research outputs need to be licensed appropriately so that prospective users know clearly any limitations on re-use
