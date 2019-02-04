@@ -26,7 +26,7 @@ The Turing Way community We therefore require that all contributions **adhere to
 
 ## Get in touch
 
-Ping us in our [gitter channel](https://gitter.im/WhitakerLab/the-turing-way).\
+Ping us in our [gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).\
 You can also contact the PI of the Turing Way project - Kirstie Whitaker - by email at kwhitaker@turing.ac.uk.
 
 ## Contributing through GitHub
