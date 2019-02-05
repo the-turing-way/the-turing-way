@@ -17,7 +17,13 @@ This work would be difficult for anyone to reproduce for a number of reasons:
 
 ## Binder to the Rescue!
 
-[My PhD repo](https://github.com/sgibson91/magprop/tree/ff527ae769fa9562e42556bdc8f38e7751bd4cb2): Run `code/figure2.py` to reproduce the same plot in the video.
+[My PhD repo](https://github.com/sgibson91/magprop/tree/ff527ae769fa9562e42556bdc8f38e7751bd4cb2)
+
+Click the "launch binder" button. When JupyterLab has loaded, open a Python 2 Console and execute `%run code/figure2.py` (SHIFT+RETURN to execute) to reproduce the same plot in the video. A sub-folder called plots will be created and the figure saved there.
+
+## Why tracking Dependencies is Important
+
+Version updates to software packages could cause fundamental changes to your code that do not raise a fatal error, and so will pass without you realising.
 
 [UKRI demo repo](https://github.com/sgibson91/ukri_demo)
 
