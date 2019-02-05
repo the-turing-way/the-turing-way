@@ -129,12 +129,57 @@
 - Now try running the image on another machine. On another ubuntu machine I tried running `sudo docker run -p 4000:80 rjarnold/learning_docker:first_image_online` Failed because docker wasn't installed on that machine. 
 - Installed docker on that machine and tried again. It regonised the image wasn't on my local machine and downloaded it
 - Went to "http://localhost:4000/" and the message was there as expected, so success. It had run without making the directory and files on my machine.
+- Now looking at [this](https://geohackweek.github.io/Introductory/docker-tutorial_temp/) tutorial **Creative Commons Attribution 3.0 Unported**
+- If I then run `docker run -i -t geohackweek2016/arraystutorial` then that image runs. The `-i -t` means that once I hit enter then I get a prefix "root@SHA_type_thing" in the terminal which I can then do standard linux commands with within the container. When I do `ls` I see the stuff in the continer which is comletly different to the directory I ran the image in.
+- Move a file from my computer into the container using 
+  ```
+  sudo docker cp file_name Sha_or_name_of_container:path_to_pyt_file/file_name
+  ```
+- Created a file inside the container, want to get it out, ran
+  ```
+  sudo docker cp Sha_or_name_of_container:path_to_pyt_file/file_name .
+  ```
+  The full stop meant the file was put where the terminal I was writing in was located. Note for the copying in/out of the container I ran the commands from outside the container, hence needing the sha to point to it.
+- Another [tutorial](http://www.manicstreetpreacher.co.uk/docker-carpentry/aio/) I'm looking at. **Creative Commons Attribution 4.0**
+- A docker file can look like this:
+  ```
+  FROM centos:7
+  MAINTAINER spli@dundee.ac.uk
+
+  RUN yum install -y -q epel-release
+  RUN yum install -y -q python-pip
+  RUN pip install omego
+  ```
+  where
+    - FROM: The name of a base image
+    - MAINTAINER: The email of the developer or owner
+    - RUN: Runs a shell command
+  and some other commonly used docker commands are:
+    - COPY: Copies a file (e.g. a script, configuration file, or archive) into the Docker image
+    - USER: Change the user that a command is run as (useful for dropping privileges)
+    - WORKDIR: Change the current working directory
+    - EXPOSE: Lists ports that should be exposed to the outside world
+    - VOLUMES: Directories that should be managed separately from the container (e.g. persistent data that should be kept after the container exits)
+- If you do some work in a container, close it, then open a new container from the image your work will be gone because it's building from the start 
+- If you need to do work in a container and save it you can make a "volume" where it'll save the work so even if you close the container when you next make one from that image it'll still have your work. Do this by
+  ```
+  sudo docker run -i -t --mount source=my_volume_name,target=/notebooks image_name
+  ```
+  where the target is the directory in the container you're doing work in you want it to save. Then closed and restarted using the same command and my work was still there.
+- VOlume related commands:
+  - List volumes: docker volume ls
+  - Delete a volume: docker volume rm VOLUME-NAME
+  - Delete all unattached volumes: docker volume prune
+- Looking at [this](https://www.tutorialspoint.com/docker/docker_images.htm) tutorial (not open I don't think)
+- To remove an image do `sudo docker rmi image_name_or_sha`
+- 
 
 
 Materials to look at:
 
 - https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 - https://www.tutorialspoint.com/docker/docker_file.htm
+- Series: https://www.tutorialspoint.com/docker/docker_working_with_containers.htm
 - https://developers.redhat.com/blog/2016/02/24/10-things-to-avoid-in-docker-containers/?intcmp=7016000000127cYAAQ
 - https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ
 - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459
@@ -183,7 +228,9 @@ Useful to have different environments for different projects so that they don't 
 
 What's great about binder is that it will do all this for you\* - but we recommend that you specifically name the version of
 
-\* Need to be v. careful about phrasing here - repo owner needs to provide information on the computational environment, even if hidden from Binder user.
+\* Need to be v. careful about phrasing here - repo owner needs to provide info
+
+ation on the computational environment, even if hidden from Binder user.
 
 [Syntax for yaml files, think this resource is open source, and it's hosted on github](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
 
