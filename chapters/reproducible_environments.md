@@ -55,7 +55,7 @@
      For more examples and ideas, visit:
        https://docs.docker.com/get-started/
      ```
-- Listed docker images `sude docker image ls`, and it came up with the hello-world image that came with the download. The instructions didn't include the sudo but without it I get the error `Got permission denied while trying to connect to the Docker daemon socket`. As far as I can tell this issue isn't unique to me or the borrowed computer I'm using. Believe I need `sudo` in front of all my docker commands.
+- Listed docker images `sudo docker image ls`, and it came up with the hello-world image that came with the download. The instructions didn't include the sudo but without it I get the error `Got permission denied while trying to connect to the Docker daemon socket`. As far as I can tell this issue isn't unique to me or the borrowed computer I'm using. Believe I need `sudo` in front of all my docker commands.
 - Ran the hello world using `sudo docker run hello-world` and got the welcome message again but nothing else happened as far as I can tell, which may be what's supposed to happen.
 - Made a new directory (docker-practice) and cd into in.rjarnold/learning_docker:first_image_online
 - Made a file called app.py which contained
