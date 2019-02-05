@@ -55,7 +55,7 @@ The world is witnessing a significant global transformation, facilitated by tech
  Only a very small proportion of the original data is published in conventional scientific journals. Existing policies on data archiving notwithstanding, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public. This lack of access to scientific data is an obstacle to international research for two main reasons:
 
 1. It is generally difficult or impossible to fully reproduce a scientific study without the original data.
-2. It often causes unnecessary duplication of research efforts; large amounts of research funds are spent every year to recreate already existing data. Further it inhibits joint research activities on various aspects of the same problem.
+2. The data cannot be reused or incorporated into new work by other researchers if they cannot obtain access to it.
 
 Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs. Open data is crucial to meeting these objectives.
 Open data is freely available on the internet permitting any user to download, copy, analyse, re-process, and re-use it for any other purpose without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself.
