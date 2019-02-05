@@ -21,21 +21,28 @@ This work would be difficult for anyone to reproduce for a number of reasons:
 
 Run `code/figure2.py` to reproduce the same plot in the video.
 
+[UKRI demo repo](https://github.com/sgibson91/ukri_demo)
+
+## What is Binder doing?
+
+<html><img src="binder_demo.jpg" alt="mybinder" height="420" width="520"></html>
+
+Courtesy of [Juliette Belin](https://twitter.com/JulietteTaka/status/1082735653929000960)
+
 ## Issues with the current Binder
 
-* Only works for **public** repos, cannot host private/sensitive code or data
+* Only works for **public** repos, cannot host private code or sensitive data
 * Large datasets are discouraged
 * Computing resources are minimal
 
 ## Solution: BinderHub 4 U
 
-Now going to demo how you can build your own BinderHub for your Institution/Company/RSE group tailored to their needs.
+<html><img src="binder_demo2.jpg" alt="yourbinder" height="420" width="540"></html>
 
-### Some useful links:
+**Some useful links:**
 * [Zero-to-JupyterHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
 * [Zero-to-JupyterHub with Kubernetes](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html)
 * [Step Zero: Kubernetes on Microsoft Azure](https://zero-to-jupyterhub.readthedocs.io/en/latest/microsoft/step-zero-azure.html)
-* [Zero-to-BinderHub](https://binderhub.readthedocs.io/en/latest/)
 * [repo2docker](https://repo2docker.readthedocs.io/en/latest/?badge=latest)
 
 ## Finally...
