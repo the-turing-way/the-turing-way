@@ -17,15 +17,13 @@ This work would be difficult for anyone to reproduce for a number of reasons:
 
 ## Binder to the Rescue!
 
-[My PhD repo](https://github.com/sgibson91/magprop/tree/ff527ae769fa9562e42556bdc8f38e7751bd4cb2)
-
-Run `code/figure2.py` to reproduce the same plot in the video.
+[My PhD repo](https://github.com/sgibson91/magprop/tree/ff527ae769fa9562e42556bdc8f38e7751bd4cb2): Run `code/figure2.py` to reproduce the same plot in the video.
 
 [UKRI demo repo](https://github.com/sgibson91/ukri_demo)
 
 ## What is Binder doing?
 
-<html><img src="binder_demo.jpg" alt="mybinder" height="420" width="520"></html>
+<html><img src="binder_demo.jpg" alt="mybinder" height="420" width="540"></html>
 
 Courtesy of [Juliette Belin](https://twitter.com/JulietteTaka/status/1082735653929000960)
 
@@ -37,7 +35,7 @@ Courtesy of [Juliette Belin](https://twitter.com/JulietteTaka/status/10827356539
 
 ## Solution: BinderHub 4 U
 
-<html><img src="binder_demo2.jpg" alt="yourbinder" height="420" width="540"></html>
+<html><img src="binder_demo2.jpg" alt="yourbinder" height="420" width="580"></html>
 
 **Some useful links:**
 * [Zero-to-JupyterHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
