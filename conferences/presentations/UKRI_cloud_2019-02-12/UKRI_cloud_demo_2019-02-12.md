@@ -79,15 +79,15 @@ Or that a suite of interacting libraries are updated and are no longer compatibl
 ## Thank You
 
 Thanks to **The Turing Way** team!
-* Kirstie Whitaker (PI)
-* Martin O'Reilly
-* Louise Bowler
-* Anna Krystalli
-* Becky Arnold
-* Patricia Herterich
-* Rosie Higman
-* Alexander Morley
-* ... and me!
+* Becky Arnold :speech_balloon: :computer: :book: :eyes:
+* Louise Bowler :speech_balloon: :computer: :book: :bulb: :clipboard: :eyes:
+* Sarah Gibson :speech_balloon: :computer: :book: :wrench: :eyes: :loudspeaker:
+* Patricia Herterich :speech_balloon: :book: :eyes:
+* Rosie Higman :speech_balloon: :clipboard: :eyes:
+* Anna Krystalli :speech_balloon: :bulb: :clipboard: :eyes:
+* Alexander Morley :speech_balloon: :eyes: :warning:️
+* Martin O'Reilly :speech_balloon: :wrench:
+* Kirstie Whitaker :speech_balloon: :art: :mag: :thinking_face: :eyes: :warning: :loudspeaker:
 
 **The Turing Way** is a lightly opinionated guide to reproducible data science.
 Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end.
@@ -104,3 +104,20 @@ Please visit our repo and help us deliver our dream!
   * Sign up here: https://bit.ly/2UICrMT
 * Build a BinderHub - Sheffield, 18th March
   * Sign up here: https://bit.ly/2BmNdRH
+
+### Emoji Contribution Key
+
+| Emoji | Represents |
+|:------|:------|
+| :speech_ballon: | Answering Questions (on gitter, GitHub, or in person) |
+| :computer: | Code |
+| :book: | Documentation and specification |
+| :art: | Design |
+| :bulb: | Examples |
+| :clipboard: | Event Organizers |
+| :mag: | Funding/Grant Finders |
+| :thinking_face: | Ideas & Planning |
+| :eyes: | Reviewed Pull Requests |
+| :wrench: | Tools |
+| :warning: | Tests |
+| :loudspeaker: | Talks |
