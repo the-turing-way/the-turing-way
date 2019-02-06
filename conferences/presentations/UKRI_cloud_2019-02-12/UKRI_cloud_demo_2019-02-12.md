@@ -46,6 +46,8 @@ My PhD repo: https://bit.ly/2DacNJQ
 
 Courtesy of [Juliette Belin](https://twitter.com/JulietteTaka/status/1082735653929000960)
 
+Read the docs on making your own repo Binder-ready here: https://bit.ly/2t7M9wx
+
 ## Limitations with the public Binder instance
 
 * Only works for **public** repos, cannot host private code or sensitive data
