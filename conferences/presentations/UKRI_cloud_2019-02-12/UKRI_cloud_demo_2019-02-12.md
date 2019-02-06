@@ -109,7 +109,7 @@ Please visit our repo and help us deliver our dream!
 
 | Emoji | Represents |
 |:------|:------|
-| :speech_ballon: | Answering Questions (on gitter, GitHub, or in person) |
+| :speech_balloon: | Answering Questions (on gitter, GitHub, or in person) |
 | :computer: | Code |
 | :book: | Documentation and specification |
 | :art: | Design |
