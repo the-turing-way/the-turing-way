@@ -12,7 +12,7 @@ Sarah Gibson, _The Alan Turing Institute_
 ## An Example of Not Being Reproducible
 **(AKA: I'm guilty of this too...)**
 
-<html><img src="graduation.png" alt="graduation" height="415" width="480"></html>
+<html><img src="graduation.png" alt="graduation" height="415" width="280"></html>
 
 * Astrophysics PhD, graduated January 2019
 * Researched phenomenon known as Gamma-Ray Bursts (not your average supernova...) and the neutron stars that power them
