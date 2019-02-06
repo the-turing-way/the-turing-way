@@ -56,9 +56,10 @@ Courtesy of [Juliette Belin](https://twitter.com/JulietteTaka/status/10827356539
 
 <html><img src="binder_demo2.png" alt="yourbinder" height="420" width="580"></html>
 
-This is something we're trying to achieve at the Turing Institute.
+* The host institution/organisation/RSE group can **choose** whether to make repos public or private
+* This is on-going project at the Turing Institute
 
-**Some useful links if you'd like to try yourself:**
+**Some useful links:**
 * [Zero-to-JupyterHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
 * [Zero-to-JupyterHub with Kubernetes](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html)
 * [Step Zero: Kubernetes on Microsoft Azure](https://zero-to-jupyterhub.readthedocs.io/en/latest/microsoft/step-zero-azure.html)
@@ -71,6 +72,7 @@ Version updates to software packages could cause fundamental changes to your cod
 Here's a little demo repo to highlight this: https://bit.ly/2DfpZNo
 
 Ok, so you may not worry too much about reproducing "style" in this way, **but imagine if this was numerical**.
+Or that a suite of interacting libraries are updated and are no longer compatible. 
 
 ## Thank You
 
