@@ -86,6 +86,7 @@ Data should be considered a legitimate, citable product of research. Making data
 
 A data citation should include a persistent method for identification that is unique, and widely understandable by a community. There are several types of persistent identifier that could be used to identify datasets: examples include Handles, Archival Resource Keys (ARKs) and Persistent URLs (PURLs), all of which can be resolved to an Internet location. The scheme that is gaining most traction is the Digital Object Identifier (DOI).
 
+<a name="doi_system"></a>
 The DOI System is an identifier scheme administered by the International DOI Foundation. The task of managing DOI registers is delegated to registration agencies (list [here](http://www.doi.org/registration_agencies.html)) that each specialise in a type of resource. For research datasets, the registration agency is the [DataCite Consortium](https://www.datacite.org/). Among the services it provides are human and machine interfaces for simple end-user administration of DOI registrations. DataCite also collects metadata about each dataset it registers so they can be more easily understood and found. Any repository wishing to register DOIs needs to obtain a username and password from DataCite to gain access to the registration service. While best practice has yet to emerge on some matters, certain conventions are already becoming established:
 
 When organisations register a DOI for a resource, they should not introduce semantic elements into the suffix, especially not metadata that might change over time (e.g. publisher, archive, owner). Assign identifiers to static datasets only when no further changes or corrections are expected (i.e. after quality control checks are complete). As DOIs are used to cite data as evidence, the resource to which a DOI points should also remain unchanged, with any new version receiving a new DOI.
@@ -190,13 +191,13 @@ Researchers that make use of open source software often make changes to them suc
 Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
 - Advance your career. By definition, all of your open source work is public and this presents opportunities:
   - Demonstrate technical ability. Technical interviews traditionally involve working on a simulated problem that can be tackled in a set amount of time with little additional context. Such simulations, by definition, aren't real world use cases, nor do they show what working with an applicant would be like. Open source provides visibility into both how a candidate solves problems, and how they work with others. You make a much more appealing employee if an employer can see the quality of your work and see you working with others over a long period of time rather than taking a chance on a single short, high-stress case which may not play to your strengths.
-  - Reputation. Becoming an active member of the open source community can gain you a positive reputation which may bolster future job prospects
+  - Reputation. Becoming an active member of the open source community can gain you a positive reputation which may bolster future job prospects.
 - Meet people who are interested in similar things. Open source software projects with warm, welcoming communities keep people coming back for years and many people form lifelong friendships through their participation in open source.
 - Find mentors and teach others. Working with others on a shared project means you’ll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
 
 #### Making your own work open source
 
-- Making your work openly available for re-use makes it much more likely others will incorporate it into their own research, which leads to increased citations.
+- Making your work openly available for re-use makes it easier for others to incorporate into their own research. If you make your software citeable, for example via a [DOI](doi_system) this can increase your citations.
 - When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code. If your project is open the number of potentially contributing developers and thus the potential knowledge pool is orders of magnitude larger.
 - Feedback. Making your work open enables you to get feedback and improve your project in way you may never have thought of alone.
 - Accountability. There is an argument that any software developed using government money should be open source by default- if the public has paid for its development they have a right to make use of it. If your work is government funded making it open is a step you can take towards government openness and  accountability.
@@ -210,13 +211,13 @@ Open source offers opportunities to practice leadership and management skills, s
 
 Open source software projects primarily benefit research by allowing researchers to take advantage of each other's work. This enables researchers to apply their efforts to  high-value work. It is sometimes said that "all the easy problems have already been solved". Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few. While developers could spend their time reinventing wheels that the open source community have already perfected, it's far preferable to use the worlds best wheel, especially when that wheel comes at no cost to you. This frees researchers up to work on yet-unsolved challenges. This reduces duplication of effort and allows researchers to focus on the work they're actually interested in.
 
-Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups. Examples include linux operating systems, python packages such as scipy and numpy, and the machine learning library TensorFlow.    
+Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups. Examples include [linux](https://www.linux.org/) operating systems, python packages such as [scipy](https://www.scipy.org/) and [numpy](http://www.numpy.org/), and the machine learning library [TensorFlow](https://www.tensorflow.org/).    
 
 ### How to run your own open source software project
 
 You can open source an idea, a work in progress, or after years of being closed source. At the most basic level all you need to do is but your code online somewhere that is likely to last a long time. You can make your code citeable by assigning it a DOI (as discussed in the section on [making data citeable](#citing_data)). This helps ensure that you get proper credit if people use or build upon your work.
 
-A popular place to make your code available is GitHub (see the chapter on version control). You must include a license file stating that anyone has permission to use, copy and modify your work. Without this no one can legally use your work and so it isn't open source. [This](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project. There are also a few other files you should include with your code:
+A popular place to make your code available is GitHub (see the chapter on version control). You must include a licence file stating that anyone has permission to use, copy and modify your work. Without this no one can legally use your work and so it isn't open source. [This](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project. There are also a few other files you should include with your code:
 
 #### Readme
 
@@ -226,7 +227,7 @@ You should include a readme file where you include useful information about what
 This helps to quickly compare other projects with yours and to give an idea that why the project exists in the first place.
 - Instructions on how to install the project. The installer might be a collaborator, someone that comes across and is interested in the project, or even you if you get a new machine and need to re-install your project. Nevertheless, it's a total waste of both of your resources to start figuring out how to just get started with the project. This should also include any prerequisites that will be needed to run the project.
 The best thing you can do is to just write up the installation instructions when you first do them yourself, and you'll quickly save hours of work in the future.
-- Instructions for how to run the project and any associated tests. If you've been working on your project it may seem obvious how to run it, but this will likely not be the case for someone coming across it for the first time.
+- Instructions for how to run the code and any associated tests. If you've been working on your project it may seem obvious how to run it, but this will likely not be the case for someone coming across it for the first time.
 - Links to related material
 - List of authors/contributors to the project, possibly with contact information
 - Acknowledgements
