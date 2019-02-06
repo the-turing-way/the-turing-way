@@ -33,12 +33,12 @@ Here is [a video](https://www.dropbox.com/s/rxxvv7pxbf4y4q6/demo1_edited.mov?dl=
 
 ## Binder to the Rescue!
 
-With a little bit of work, I've managed to reproduce my figure using [Binder](https://mybinder.org).
+With a little bit of work, I've managed to reproduce my figure using Binder (https://mybinder.org).
 
 * My code is in a public GitHub repo - now version controlled :ballot_box_with_check:
 * The computing environment has been documented in an `environment.yml` file :ballot_box_with_check: _(other config file types are available)_
 
-[My PhD repo](https://github.com/sgibson91/magprop/tree/ff527ae769fa9562e42556bdc8f38e7751bd4cb2)
+My PhD repo: https://bit.ly/2DacNJQ
 
 ## What is Binder doing?
 
@@ -68,7 +68,7 @@ This is something we're trying to achieve at the Turing Institute.
 
 Version updates to software packages could cause fundamental changes to your code that do not raise a fatal error, and so will pass without you realising.
 
-Here's a little demo to highlight this: [UKRI demo repo](https://github.com/sgibson91/ukri_demo)
+Here's a little demo repo to highlight this: https://bit.ly/2DfpZNo
 
 Ok, so you may not worry too much about reproducing "style" in this way, **but imagine if this was numerical**.
 
@@ -91,3 +91,12 @@ Our goal is to provide all the information that researchers need at the start of
 Please visit our repo and help us deliver our dream!
 
 [github.com/alan-turing-institute/the-turing-way/](https://github.com/alan-turing-institute/the-turing-way)
+
+### Binder/BinderHub Workshops
+
+* Boost your Research Reproducibility with Binder - Manchester, 1st March
+  * Sign up here: https://bit.ly/2UICHeP
+* Boost your Research Reproducibility with Binder - Turing Institute London, 12th March
+  * Sign up here: https://bit.ly/2UICrMT
+* Build a BinderHub - Sheffield, 18th March
+  * Sign up here: https://bit.ly/2BmNdRH
