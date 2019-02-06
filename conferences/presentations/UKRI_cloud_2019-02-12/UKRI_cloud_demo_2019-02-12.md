@@ -54,7 +54,7 @@ Courtesy of [Juliette Belin](https://twitter.com/JulietteTaka/status/10827356539
 
 ## Solution: BinderHub 4 U
 
-<html><img src="binder_demo2.jpg" alt="yourbinder" height="420" width="580"></html>
+<html><img src="binder_demo2.png" alt="yourbinder" height="420" width="580"></html>
 
 This is something we're trying to achieve at the Turing Institute.
 
