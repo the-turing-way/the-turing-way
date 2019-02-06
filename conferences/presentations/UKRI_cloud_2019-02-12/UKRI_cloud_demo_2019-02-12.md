@@ -70,6 +70,8 @@ Version updates to software packages could cause fundamental changes to your cod
 
 Here's a little demo to highlight this: [UKRI demo repo](https://github.com/sgibson91/ukri_demo)
 
+Ok, so you may not worry too much about reproducing "style" in this way, **but imagine if this was numerical**.
+
 ## Thank You
 
 Thanks to **The Turing Way** team!
