@@ -10,7 +10,7 @@ Open Science aims to transform science by making research more reproducible, tra
 
 The research process typically has the following form: data is collected, sometimes using specific hardware, it is then analysed (usually using software), and the results of the research are then published. Throughout the process it is good practice for researchers to document their working in notebooks. Open science aims to make each of these elements open:
 
-- Open Data - managing research data in a way that optimises access, discoverability and sharing for re-use
+- Open Data - documenting and sharing research data openly for re-use
 - Open Hardware - documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available
 - Open Source Software - documenting research code and routines, and making them freely accessible and available
 - Open Access - making all published outputs freely accessible for maximum use and impact
@@ -28,17 +28,17 @@ These elements are also discussed in detail in this chapter.
 
 ## How this will help you/ why this is useful
 
-There are five main schools of thought motivating open practices to benefit scientific research:
+There are five main schools of thought motivating open practices to benefit research:
 
 | School                     | Belief               | Aim                                               |
 | -------------------------- | -------------------- | ------------------------------------------------- |
-| Infrastructure | Efficient research depends on the available tools and applications. | Creating openly available platforms, tools and services for scientists. |
-| Pragmatic | Knowledge-creation could be more efficient if scientists worked together. | Opening up the process of knowledge creation. |
-| Measurement | Scientific contributions today need alternative impact measurements. | Developing an alternative metric system for scientific impact. |
+| Infrastructure | Efficient research depends on the available tools and applications. | Creating openly available platforms, tools and services for researchers. |
+| Pragmatic | Knowledge-creation could be more efficient if researchers worked together. | Opening up the process of knowledge creation. |
+| Measurement | Academic contributions today need alternative impact measurements. | Developing an alternative metric system for research impact. |
 | Democratic | The access to knowledge is unequally distributed. | Making knowledge freely available for everyone. |
-| Public | Science needs to be made accessible to the public. | Making science accessible for citizens. |
+| Public | Research needs to be made accessible to the public. | Making research accessible for citizens. |
 
-Open practices also benefits the researchers that propagate them. For example there is evidence [(Mckiernan et al. 2016)](https://elifesciences.org/articles/16800) that open access articles are cited more, as shown by the metastudy presented in the figure below.
+Open practices also benefits the researchers that propagate them. For example there is evidence [(Mckiernan et al. 2016)](https://elifesciences.org/articles/16800) that open access articles are cited more often, as shown by the metastudy presented in the figure below.
 
 | ![open_access_citatations](../figures/open_access_citatations.jpg) |
 | -----------------------------------------------------|
@@ -52,14 +52,14 @@ It is useful, but not necessary, to be familiar with version control and particu
 ## Open data
 
 The world is witnessing a significant global transformation, facilitated by technology and digital media, and fuelled by data and information. This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research.
- Only a very small proportion of the original data is published in conventional scientific journals. Existing policies on data archiving notwithstanding, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public. This lack of access to scientific data is an obstacle to international research for two main reasons:
+ Only a very small proportion of the original data is published in conventional journals. Existing policies on data archiving notwithstanding, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public. This lack of data sharing is an obstacle to international research (be it academic, governmental or commercial) for two main reasons:
 
-1. It is generally difficult or impossible to fully reproduce a scientific study without the original data.
+1. It is generally difficult or impossible to fully reproduce a study without the original data.
 2. The data cannot be reused or incorporated into new work by other researchers if they cannot obtain access to it.
 
 Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs. Open data is crucial to meeting these objectives.
-Open data is freely available on the internet permitting any user to download, copy, analyse, re-process, and re-use it for any other purpose without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself.
-This represents a real shift in how research works. At the moment anyone who wishes to use scientific data from a researcher often has to contact that researcher and make a request. Open by default turns this on its head and says that there should be a presumption of publication for all. Researchers need to justify data that’s kept closed, for example for security or data protection reasons.
+Open data is freely available on the internet permitting any user to download, copy, analyse, re-process, and re-use it for any other purpose with minimal financial, legal, and technical barriers.
+This represents a real shift in how research works. At the moment anyone who wishes to use data from a researcher often has to contact that researcher and make a request. Open by default turns this on its head and says that there should be a presumption of publication for all. Researchers need to justify data that’s kept closed, for example for security or data protection reasons.
 Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default. So, how do you go about making your data open?
 
 ### Steps to make your data open
@@ -82,7 +82,7 @@ It is also important to think about the file formats that information is provide
 <a name="citing_data"></a>
 #### Step 4: Make your data citeable
 
-Data should be considered a legitimate, citable product of research. Making data citeable (and citing data yourself) facilitate giving scholarly credit; in scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited. Data citations facilitate identification of, access to, and verification of the specific data that support a claim, making science more reproducible. Ensure that anyone wishing to cite a dataset that you host can use a persistent identifier that you provide to do so.
+Data should be considered a legitimate, citable product of research. Making data citeable (and citing data yourself) facilitate giving scholarly credit; in scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited. Data citations facilitate identification of, access to, and verification of the specific data that support a claim, making research more reproducible. Ensure that anyone wishing to cite a dataset that you host can use a persistent identifier that you provide to do so.
 
 A data citation should include a persistent method for identification that is unique, and widely understandable by a community. There are several types of persistent identifier that could be used to identify datasets: examples include Handles, Archival Resource Keys (ARKs) and Persistent URLs (PURLs), all of which can be resolved to an Internet location. The scheme that is gaining most traction is the Digital Object Identifier (DOI).
 
@@ -98,7 +98,7 @@ Sometimes it may not be possible to make data publicly available in its entirety
 
 #### Privacy
 
-Many fields of scientific disciplines involve working with sensitive personal data, medical research being the most obvious example.
+Many fields of research involve working with sensitive personal data, medical research being the most obvious example.
 Individuals must be protected from (re)identification via their personal data used for research. Anonymisation of the data may be sufficient in some cases, but ensuring that reidentification is not possible is becoming increasingly difficult due to technical progress, growing computational power and – ironically – more open data. For example reidentification may be possible via data-mining of accessible data and so-called quasi-identifiers, a set of (common) properties that are – in their combination – so specific that they can be used to identify.
 
 Preserving privacy may still be possible if partial or generalised datasets are provided e.g. age bands instead of birth date or only the first two digits of postal codes. It may also be possible to provide the data in such a format that researchers can query it whist keeping the data itself closed, e.g. a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints.
@@ -111,7 +111,7 @@ In such cases it may not be possible to make data open, or it may only be only p
 
 ## Open hardware
 
-"Open hardware," or "open source hardware," refers to the design specifications of a physical object which are licensed in such a way that said object can be studied, modified, created, and distributed by anyone. Like open source software, the "source code" for open hardware—schematics, blueprints, logic designs, Computer Aided Design (CAD) drawings or files, etc.—is available for modification or enhancement by anyone under permissive licenses. Users with access to the tools that can read and manipulate these source files can update and improve the physical device and the code that underlies it, and, if they wish, proceed to share such modifications.
+"Open hardware," or "open source hardware," refers to the design specifications of a physical object which are licensed in such a way that said object can be studied, modified, created, and distributed by anyone. Like open source software, the "source code" for open hardware—schematics, blueprints, logic designs, Computer Aided Design (CAD) drawings or files, etc.—is available for modification or enhancement by anyone. Users with access to the tools that can read and manipulate these source files can update and improve the physical device and the code that underlies it, and, if they wish, proceed to share such modifications.
 
 Open hardware's source code should be readily accessible, and its components are preferably easy for anyone to obtain. Essentially, open hardware eliminates common roadblocks to the design and manufacture of physical goods; it provides as many people as possible the ability to construct, remix, and share their knowledge of hardware design and function.
 
@@ -119,18 +119,18 @@ It's worth noting that open hardware does not necessary mean free. Units may sti
 
 ### Why open hardware?
 
-Open hardware allows researchers to understand exactly what their equipment's is doing, how it's doing it, and to verify that is doing it correctly rather than having to extend a degree of trust. Being aware of how the equipment that generates a scientific result works puts researchers on a firmer footing in assessing those results. Open hardware also makes science more reproducible reproduceable as researchers looking to verify results can do the same thing.
+Open hardware allows researchers to understand exactly what their equipment's is doing, how it's doing it, and to verify that is doing it correctly rather than having to extend a degree of trust. Being aware of how the equipment that generates a result works puts researchers on a firmer footing in assessing those results. Open hardware also makes research more reproducible as researchers looking to verify results can do the same thing.
 
 Other benefits of open hardware include protection against lock-in. Proprietary software for core infrastructure increases the risk of becoming locked in by the vendor or technology. If this happens, researchers can be at the mercy of vendors' price increases and experience a lack of flexibility they can't easily and readily escape. Further, if researchers want to modify their equipment to better suit their needs it is much easier to do so (and may only be legal) in the case of open source hardware.
 
-### Elements of an Open-Source Hardware Project
+### Elements of an Open source Hardware Project
 
 Here are some files that you should consider sharing when publishing your open source hardware project. You are not required to post them all, but the more you share the more the community benefits. There is a lot of cross over here with files to include in open source software projects.
 
-- Overview / Introduction. Your open-source hardware project should include a general description of the hardware’s identity and purpose, written as much as possible for a general audience. That is, explain what the project is and what it’s for before you get into the technical details. A good photo or rendering can help a lot here.
-- A license. This grants legal permission to anyone to re-use, modify and distribute your designs and hardware.  
-- Original Design Files. These are the original source files that you would use to make modifications to the hardware’s design. The act of sharing these files is the core practice of open-source hardware.
-  - Ideally, your open-source hardware project would be designed using a free and open-source software application, to maximize the ability of others to view and edit it. For better or worse however, hardware design files are often created in proprietary programs and stored in proprietary formats. It is still essential to share these original design files; they constitute the original “source code” for the hardware. They are the very files that someone will need in order to contribute changes to a given design.
+- Overview / Introduction. Your open source hardware project should include a general description of the hardware’s identity and purpose, written as much as possible for a general audience. That is, explain what the project is and what it’s for before you get into the technical details. A good photo or rendering can help a lot here.
+- A licence. This grants legal permission to anyone to re-use, modify and distribute your designs and hardware accoring to the terms stated e.g. they must acknowledge your contribution.  
+- Original Design Files. These are the original source files that you would use to make modifications to the hardware’s design. The act of sharing these files is the core practice of open source hardware.
+  - Ideally, your open source hardware project would be designed using a free and open source software application, to maximize the ability of others to view and edit it. For better or worse however, hardware design files are often created in proprietary programs and stored in proprietary formats. It is still essential to share these original design files; they constitute the original “source code” for the hardware. They are the very files that someone will need in order to contribute changes to a given design.
   - Try to make your design files easy for someone else to understand. Organize them in a logical way; comment complex aspects; note any unusual manufacturing procedures; etc.
   - Examples of Original Design Files include:
     - 2D drawings or computer-aided design (CAD) files, such as those used to describe two-dimensional laser cut, vinyl cut, or water-jet cut part, in their original format.
@@ -139,8 +139,8 @@ Here are some files that you should consider sharing when publishing your open s
     -  Component libraries (symbol, footprint, fastener, etc.) necessary for native modification of CAD files.
     - Additional technical drawings in their original design formats, if required for fabrication of the device.
     - Additional artwork that may be used on the device and is included as part of the OSHW release, such as an emblem, or cosmetic overlay in the original design format.
-- Auxiliary Design Files. Beyond the original design files, it is often helpful to share your design in additional, more accessible formats. For example, best practice open-sourcing a CAD design is to share the design not just in its native file format, but also in a range of interchange and export formats that can be opened or imported by other CAD programs.
-  - It is also helpful to provide ready-to-view outputs that can easily be viewed by end users who wish to understand (but not necessarily modify) the design. For example, a PDF of a circuit board schematic, or an STL of a 3D design. These auxiliary design files allow people to study the design of the hardware, and sometimes even fabricate it, even without access to particular proprietary software packages. However, note that auxiliary design files are never allowed as substitutes for original design files.
+- Auxiliary Design Files. Beyond the original design files, it is often helpful to share your design in additional, more accessible formats. For example, best practice open sourcing a CAD design is to share the design not just in its native file format, but also in a range of interchange and export formats that can be opened or imported by other CAD programs.
+  - It is also helpful to provide ready-to-view outputs that can easily be viewed by end users who wish to understand (but not necessarily modify) the design. For example, a PDF of a circuit board schematic. These auxiliary design files allow people to study the design of the hardware, and sometimes even fabricate it, even without access to particular proprietary software packages. However, note that auxiliary design files are never recommended as substitutes for original design files.
 - Additional technical drawings in their original formats, if required for fabrication of the device, in a commonly-readable format such as PDF.
 - Bill Of Materials. While it might be possible to infer from the design files which parts make up a piece of hardware, it is important to provide a separate bill of materials. This can be a spreadsheet (e.g. CSV, XLS, Google Doc) or simply a text file with one part per line.
   - Useful things to include in the bill of materials are part numbers, suppliers, costs, and a short description of each part. Make it easy to tell which item in the bill of materials corresponds to which component in your design files: use matching reference designators in both places, provide a diagram indicating which part goes where, or otherwise explain the correspondence.
@@ -153,26 +153,26 @@ Here are some files that you should consider sharing when publishing your open s
   - Keep in mind that these instructions may be read by someone whose expertise or training is different from yours. As much as possible, try to write to a general audience, and check your instructions for industry jargon, be explicit about what you assume the user knows, etc.
   - The instructions could be in a variety of formats, like a wiki, text file, Google Doc, or PDF. Remember, though, that others might want to modify your instructions as they modify your hardware design, so it’s good to provide the original editable files for your documentation, not just output formats like PDF.
 
-### Open-Source Hardware Processes and Practices
+### Open Source Hardware Processes and Practices
 
 #### Designing your Hardware
 
-If you’re planning to open-source a particular piece of hardware, following certain best practices in its design will make it easier for others to make and modify the hardware:
+If you’re planning to open source a particular piece of hardware, following certain best practices in its design will make it easier for others to make and modify the hardware:
 
-Use free and open-source software design (CAD) tools where possible. If that’s not feasible, try to use low-cost and/or widely-used software packages.
+Use free and open source software design (CAD) tools where possible. If that’s not feasible, try to use low-cost and/or widely-used software packages.
 
 Use standard and widely-available components, materials, and production processes. Try to avoid parts that aren’t available to individual customers or processes that require expensive setup costs.
 
 #### Hosting your Design Files
 
-A basic way of sharing your files is with a zip file on your website. While this is a great start, it makes it difficult for others to follow your progress or to contribute improvements. Using an online source-code repository (like GitHub, GitLab, or NotaBug) may be a better place to store your open-source hardware projects.
+A basic way of sharing your files is with a zip file on your website. While this is a great start, it makes it difficult for others to follow your progress or to contribute improvements. Using an online source-code repository (like GitHub, GitLab, or NotaBug) may be a better place to store your open source hardware projects.
 
-#### Distributing Open-Source Hardware
+#### Distributing Open Source Hardware
 
 - Provide links to the source (original design files) for your hardware on the product itself, its packaging, or its documentation.
 - Make it easy to find the source (original design files) from the website for a product.
 - Label the hardware with a version number or release date so that people can match the physical object with the corresponding version of its design files.
-- In general, clearly indicate which parts of a product are open-source (and which aren’t).
+- In general, clearly indicate which parts of a product are open source (and which aren’t).
 
 ## Open Source software
 
@@ -180,7 +180,7 @@ A basic way of sharing your files is with a zip file on your website. While this
 
 When a project is open source, that means anybody can view, use, modify, and distribute your project for any purpose. These permissions are enforced through an open source license. Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly. In its most basic form open sourcing your software simply means putting your code online where it can be viewed and reused by others.
 
-Many of the most widely used research software is open source. Perhaps the paradigmatic example is the scikit-learn Python package for machine learning (Pedregosa et al., 2011), which, in the space of just over five years, has attracted over 500 unique contributors, 20,000 individual code contributions, and 2,500 article citations. Producing a comparable package using a traditional closed-source approach would likely not be feasible, and would, at the very least, have required a budget of tens of millions of dollars. While scikit-learn is clearly an outlier, hundreds of other open-source scientific packages that support much more domain-specific needs depend in a similar fashion on unsolicited community contributions e.g., the NIPY group of projects in neuroimaging (Gorgolewski et al., 2016). Importantly, such contributions not only result in new functionality from which the broader scientific community can benefit, but also regularly provide their respective authors with greater community recognition, and lead to new project and employment opportunities.
+Many of the most widely used research software is open source. Perhaps the paradigmatic example is the scikit-learn Python package for machine learning (Pedregosa et al., 2011), which, in the space of just over five years, has attracted over 500 unique contributors, 20,000 individual code contributions, and 2,500 article citations. Producing a comparable package using a traditional closed-source approach would likely not be feasible, and would, at the very least, have required a budget of tens of millions of dollars. While scikit-learn is clearly an outlier, hundreds of other open source packages that support much more domain-specific needs depend in a similar fashion on unsolicited community contributions e.g., the NIPY group of projects in neuroimaging (Gorgolewski et al., 2016). Importantly, such contributions not only result in new functionality from which the broader community can benefit, but also regularly provide their respective authors with greater community recognition, and lead to new project and employment opportunities.
 
 Researchers that make use of open source software often make changes to them such as adding features they need for their own research, or fixing bugs. They can then contribute these improvements back to the main project so the wider community can take advantage of them.
 
@@ -206,9 +206,9 @@ Open source offers opportunities to practice leadership and management skills, s
 - It’s empowering to be able to make changes, even small ones. You don’t have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source software project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
 - It's fun. Open source provides an endless, ever-changing set of Rubix cubes for you to solve on weekends. Just like puzzles, both crossword and jigsaw, open source provides bite-sized intellectual escapes.
 
-### How open source software benefits science
+### How open source software benefits research
 
-Open source software projects primarily benefit science by allowing researchers to take advantage of each other's work. This enables researchers to apply their efforts to  high-value work. It is sometimes said that "all the easy problems have already been solved". Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few. While developers could spend their time reinventing wheels that the open source community have already perfected, it's far preferable to use the worlds best wheel, especially when that wheel comes at no cost to you. This frees researchers up to work on yet-unsolved challenges. This reduces duplication of effort and allows researchers to focus on the work they're actually interested in.
+Open source software projects primarily benefit research by allowing researchers to take advantage of each other's work. This enables researchers to apply their efforts to  high-value work. It is sometimes said that "all the easy problems have already been solved". Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few. While developers could spend their time reinventing wheels that the open source community have already perfected, it's far preferable to use the worlds best wheel, especially when that wheel comes at no cost to you. This frees researchers up to work on yet-unsolved challenges. This reduces duplication of effort and allows researchers to focus on the work they're actually interested in.
 
 Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups. Examples include linux operating systems, python packages such as scipy and numpy, and the machine learning library TensorFlow.    
 
@@ -321,7 +321,7 @@ One of the most common ways to disseminate research results is by writing a manu
 
 #### Repositories and self archiving
 
-This aims to provide tools and assistance to scholars to deposit their refereed journal articles in open electronic repositories.  As a result of the first strategy we see self-archiving practices: researchers depositing and disseminating papers in institutional or subject based repositories. There has also been a growth in the publication of preprints through institutional repositories and preprint servers. Preprints are widely used in physical sciences and now emerging in life sciences and other fields. Preprints are documents that have not been peer reviewed but are considered as a complete scientific publication in a first stage. Some of the preprints servers include open peer review services and the availability to post new versions of the initial paper once reviewed by peers.
+This aims to provide tools and assistance to scholars to deposit their refereed journal articles in open electronic repositories.  As a result of the first strategy we see self-archiving practices: researchers depositing and disseminating papers in institutional or subject based repositories. There has also been a growth in the publication of preprints through institutional repositories and preprint servers. Preprints are widely used in physical sciences and now emerging in life sciences and other fields. Preprints are documents that have not been peer reviewed but are considered as a complete publication in a first stage. Some of the preprints servers include open peer review services and the availability to post new versions of the initial paper once reviewed by peers.
 
 At the beginning of 2019 more than 4000 repositories are available for researchers to self-archive their publications according to the [Registry of Open Access Repositories](http://roar.eprints.org/). In this list we can find institutional repositories, subject based or thematic repositories and harvesters. The first ones are generally managed by research performing institutions to provide to their community a place to archive and share openly papers and other research outputs. Subject based repositories are usually managed by research communities and most of the contents are related to a certain discipline. Finally, harvesters aggregate content from different repositories becoming sites to perform general searches and build other value-added services.
 
@@ -342,7 +342,7 @@ Open access publishing has two primary versions—gratis and libre. Gratis open 
 
 ### Why does open access matter?
 
-Research is useless if it’s not shared; even the best research is ineffectual if others aren’t able to read and build on it. When price barriers keep articles locked away, science cannot achieve its full potential. Open access benefits researchers who can work more effectively with a better understanding of the literature. It also helps avoid duplication of effort. No researcher (or funder) wants to waste time and money conducting a study if they know it has been attempted elsewhere. But, duplication of effort is all-too-possible when researchers can’t effectively communicate with one another and make results known to others in their field and beyond. It also benefits researchers by providing better visibility and therefore higher impact/citation rate for their scholarship.  Numerous publishers, both non-profit and for-profit, voluntarily make their articles openly available at the time of publication or within 6-12 months.  Many have switched from a closed, subscription model to an open one as a strategic business decision to increase their journal's exposure and impact. Further it can be argued that taxpayers who pay for much of the research published in journals have a right to access the information resulting from that investment without charge. Finally, if research is available to the widest possible pool of readers then it is more likely/easy for it to be checked and reproduced.  
+Research is useless if it’s not shared; even the best research is ineffectual if others aren’t able to read and build on it. When price barriers keep articles locked away, research cannot achieve its full potential. Open access benefits researchers who can work more effectively with a better understanding of the literature. It also helps avoid duplication of effort. No researcher (or funder) wants to waste time and money conducting a study if they know it has been attempted elsewhere. But, duplication of effort is all-too-possible when researchers can’t effectively communicate with one another and make results known to others in their field and beyond. It also benefits researchers by providing better visibility and therefore higher impact/citation rate for their scholarship.  Numerous publishers, both non-profit and for-profit, voluntarily make their articles openly available at the time of publication or within 6-12 months.  Many have switched from a closed, subscription model to an open one as a strategic business decision to increase their journal's exposure and impact. Further it can be argued that taxpayers who pay for much of the research published in journals have a right to access the information resulting from that investment without charge. Finally, if research is available to the widest possible pool of readers then it is more likely/easy for it to be checked and reproduced.  
 
 ### Best practice for open access
 
@@ -356,13 +356,13 @@ Consider submitting your work to a journal that is open access. When doing this 
 
 ## Open notebooks
 
-Open notebook science is simply the practice of making your entire research project available online as it is recorded. This online location is known as an open notebook and is the online analogue to the paper notebook most scientists keep in their lab. It is the storage centre for project plans, experimental protocols and setups, raw data, and even unfiltered interpretations. An open notebook can be any kind of website, as long as it suits the needs of the scientist and is available publicly. Rather than wait months, even years, to share their research through journal publication as is the current practice, researchers use notebooks to post their experimental data and protocols online and in real-time.
+Open notebook research is simply the practice of making your entire research project available online as it is recorded. This online location is known as an open notebook and is the online analogue to the paper notebook most scientists keep in their lab. It is the storage centre for project plans, experimental protocols and setups, raw data, and even unfiltered interpretations. An open notebook can be any kind of website, as long as it suits the needs of the scientist and is available publicly. Rather than wait months, even years, to share their research through journal publication as is the current practice, researchers use notebooks to post their experimental data and protocols online and in real-time.
 
 Sharing research in this open and timely manner helps to reduce duplication of work, helps foster new collaborations and cultivates a more open dialogue with others. It also helps researchers avoid making exploring dead ends and making mistakes that have already been covered by their colleague, but went unpublished because of lack of scientific interest.
 
 Open notebooks have the further benefit of increasing the quality of scientific outputs by forcing researchers to be careful, thorough, and explicit. Making research open has the added benefit of increasing the likelihood that any errors made in an investigation will be spotted quickly, instead of down the line. Immediate fixes will have much less impact on a research project, which will save a research time, the lab money, and pride.
 
-Ideally, every scientist would maintain an open notebook in real-time which would encompass all aspects of their research. But many fears about dealing with complete open access, conflicts with intellectual property and publications, and online data overload hamper this movement. To combat this, practitioners encourage any form of open notebook science, "make open what you can", even if that means uploading some information for a project from many years ago that never saw the light of day.
+Ideally, every scientist would maintain an open notebook in real-time which would encompass all aspects of their research. But many fears about dealing with complete open access, conflicts with intellectual property and publications, and online data overload hamper this movement. To combat this, practitioners encourage any form of open notebook research, "make open what you can", even if that means uploading some information for a project from many years ago that never saw the light of day.
 
 ## Open scholarship
 
