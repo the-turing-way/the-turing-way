@@ -130,7 +130,8 @@
 - Installed docker on that machine and tried again. It regonised the image wasn't on my local machine and downloaded it
 - Went to "http://localhost:4000/" and the message was there as expected, so success. It had run without making the directory and files on my machine.
 - Now looking at [this](https://geohackweek.github.io/Introductory/docker-tutorial_temp/) tutorial **Creative Commons Attribution 3.0 Unported**
-- If I then run `docker run -i -t geohackweek2016/arraystutorial` then that image runs. The `-i -t` means that once I hit enter then I get a prefix "root@SHA_type_thing" in the terminal which I can then do standard linux commands with within the container. When I do `ls` I see the stuff in the continer which is comletly different to the directory I ran the image in.
+- If I then run `docker run -i -t geohackweek2016/arraystutorial` then that image runs. The `-i -t` means that once I hit enter then I get a prefix "root@SHA_type_thing" in the terminal which I can then do standard linux commands with within the container. After experimenting with my own images find generally need `/bin/bash` at the end of this command on order to get the terminal as well as the `-i -t`. Not 100% sure why it wasn't needed for this example, maybe something in the dockerfile.
+- When I do `ls` I see the stuff in the continer which is comletly different to the directory I ran the image in.
 - Move a file from my computer into the container using
   ```
   sudo docker cp file_name Sha_or_name_of_container:path_to_pyt_file/file_name
@@ -166,14 +167,30 @@
   sudo docker run -i -t --mount source=my_volume_name,target=/notebooks image_name
   ```
   where the target is the directory in the container you're doing work in you want it to save. Then closed and restarted using the same command and my work was still there.
-- VOlume related commands:
+- Volume related commands:
   - List volumes: docker volume ls
   - Delete a volume: docker volume rm VOLUME-NAME
   - Delete all unattached volumes: docker volume prune
 - Looking at [this](https://www.tutorialspoint.com/docker/docker_images.htm) tutorial (not open I don't think)
 - To remove an image do `sudo docker rmi image_name_or_sha`
--
+- There's docker kill, stop, pause, and unpause. Pause suspends processes running in the container, stop terminates them, kill is for terminating them when you don't case about being graceful about it. There's also restart which restarts after a stop. The syntax for using any of these is `sudo docker what_you_want_to_do container_ID`. Use exit to get out of the interactive bash shell if you started one.
+- use `sudo docker rm container_ID` to remove a container. If you include a -v after the rm then it will also remove anny accociated volumes.
+- Short example of a docker file
+  ```
+  #This is a sample Image
+  FROM ubuntu
+  MAINTAINER demousr@gmail.com
 
+  RUN apt-get update
+  RUN apt-get install –y nginx
+  CMD [“echo”,”Image created”]
+  ```
+  Breaking this down:
+  - Comments by #'s like python.
+  - You need some kind of from statement oven if it's `FROM SCRATCH`.
+  - MAINTAINER self explanatory and not necessary to include.
+  - RUN instructions to run when building the image
+  - CMD is commands to run    only appears if I don't hvaae interactive terminal REEEEEEEEAD article
 
 Materials to look at:
 
