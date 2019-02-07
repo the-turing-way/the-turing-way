@@ -26,6 +26,8 @@ Sarah Gibson, _The Alan Turing Institute_
 **What my research was about isn't necessarily important.
 What is important is whether other scientists in my field could verify my work.**
 
+<html><img src="fig2_creation.gif" alt="fig2_creation"></html>
+
 Here is [a video](https://www.dropbox.com/s/rxxvv7pxbf4y4q6/demo1_edited.mov?dl=0) of my PhD laptop producing the figure which turned out to **not** be reproducible for a number of reasons:
 * Was not version controlled
 * Computing environment(s) was not documented
