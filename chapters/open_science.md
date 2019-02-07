@@ -357,7 +357,9 @@ Consider submitting your work to a journal that is open access. When doing this 
 
 ## Open notebooks
 
-Open notebook research is simply the practice of making your entire research project available online as it is recorded. This online location is known as an open notebook and is the online analogue to the paper notebook most scientists keep in their lab. It is the storage centre for project plans, experimental protocols and setups, raw data, and even unfiltered interpretations. An open notebook can be any kind of website, as long as it suits the needs of the scientist and is available publicly. Rather than wait months, even years, to share their research through journal publication as is the current practice, researchers use notebooks to post their experimental data and protocols online and in real-time.
+Electronic Lab Notebooks (ELNs) enable researchers to organize and store experimental procedures, protocols, notes, and data, using their computer or mobile device. ELNs can offer several advantages over the traditional paper notebook in documenting research during the active phase of a project, including searchability within and across notebooks, secure storage with multiple redundancies, remote access to notebooks, and the ability to easily share notebooks among team members and collaborators.
+
+Open notebook research is simply the practice of making your entire research project available online as it is recorded. This online location is known as an open notebook and is the online analogue to the paper notebook most scientists keep in their lab. It is the storage centre for project plans, experimental protocols and setups, raw data, and even unfiltered interpretations. An open notebook can be any kind of website, as long as it suits the needs of the scientist and is available publicly. Rather than wait months, even years, to share their research through journal publication as is the current practice, researchers can use notebooks to post their experimental data and protocols online and in real-time.
 
 Sharing research in this open and timely manner helps to reduce duplication of work, helps foster new collaborations and cultivates a more open dialogue with others. It also helps researchers avoid making exploring dead ends and making mistakes that have already been covered by their colleague, but went unpublished because of lack of scientific interest.
 
@@ -435,6 +437,7 @@ By allowing members of the public to contribute to scientific research citizen s
 
 ### Open notebooks
 
+- [ ] Keep notes in an Electronic Lab Notebook
 - [ ] Make your notebooks publicly accessible online.
 
 ## What to learn next
@@ -511,3 +514,4 @@ If you haven't had a chance already take a look at the chapter on version contro
 - [25.](https://www.oshwa.org/sharing-best-practices/) **Creative Commons Attribution-ShareAlike 4.0 International License**
 - [26.](https://openlabnotebooks.org/open-science-at-sgc/) **CC BY 4.0**
 - [27.](http://onsnetwork.org/) **Attribution 3.0 Unported (CC BY 3.0)**
+- [28.](https://libraries.mit.edu/data-management/store/electronic-lab-notebooks/) **CC BY-NC 2.0**
