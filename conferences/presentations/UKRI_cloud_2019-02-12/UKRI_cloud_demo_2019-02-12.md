@@ -42,6 +42,8 @@ With a little bit of work, I've managed to reproduce my figure using Binder (htt
 
 My PhD repo: https://bit.ly/2DacNJQ
 
+Link to back-up GIF: https://bit.ly/2GjmCt9
+
 ## What is Binder doing?
 
 <html><img src="binder_demo.jpg" alt="mybinder" height="420" width="540"></html>
@@ -74,6 +76,8 @@ Read the docs on making your own repo Binder-ready here: https://bit.ly/2t7M9wx
 Version updates to software packages could cause fundamental changes to your code that do not raise a fatal error, and so will pass without you realising.
 
 Here's a little demo repo to highlight this: https://bit.ly/2DfpZNo
+
+Link to back-up GIF: https://bit.ly/2ShauyQ
 
 Ok, so you may not worry too much about reproducing "style" in this way, **but imagine if this was numerical**.
 Or that a suite of interacting libraries are updated and are no longer compatible. 
