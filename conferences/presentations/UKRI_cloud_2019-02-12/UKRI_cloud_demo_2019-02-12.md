@@ -28,7 +28,7 @@ What is important is whether other scientists in my field could verify my work.*
 
 <html><img src="fig2_creation.gif" alt="fig2_creation"></html>
 
-Here is [a video](https://www.dropbox.com/s/rxxvv7pxbf4y4q6/demo1_edited.mov?dl=0) of my PhD laptop producing the figure which turned out to **not** be reproducible for a number of reasons:
+This is a GIF of my PhD laptop producing the figure which turned out to **not** be reproducible for a number of reasons:
 * Was not version controlled
 * Computing environment(s) was not documented
 * Computing environment no longer exists - the laptop has been returned and wiped :scream:
