@@ -357,11 +357,9 @@ Consider submitting your work to a journal that is open access. When doing this 
 
 ## Open notebooks
 
-Electronic Lab Notebooks (ELNs) enable researchers to organize and store experimental procedures, protocols, notes, and data, using their computer or mobile device. ELNs can offer several advantages over the traditional paper notebook in documenting research during the active phase of a project, including searchability within and across notebooks, secure storage with multiple redundancies, remote access to notebooks, and the ability to easily share notebooks among team members and collaborators.
+Electronic Lab Notebooks (ELNs) enable researchers to organize and store experimental procedures, protocols, plans, notes, data, and even unfiltered interpretations using their computer or mobile device. They are a digital analogue to the paper notebook most researchers keep. ELNs can offer several advantages over the traditional paper notebook in documenting research during the active phase of a project, including searchability within and across notebooks, secure storage with multiple redundancies, remote access to notebooks, and the ability to easily share notebooks among team members and collaborators.
 
-Open notebook research is simply the practice of making your entire research project available online as it is recorded. This online location is known as an open notebook and is the online analogue to the paper notebook most scientists keep in their lab. It is the storage centre for project plans, experimental protocols and setups, raw data, and even unfiltered interpretations. An open notebook can be any kind of website, as long as it suits the needs of the scientist and is available publicly. Rather than wait months, even years, to share their research through journal publication as is the current practice, researchers can use notebooks to post their experimental data and protocols online and in real-time.
-
-Sharing research in this open and timely manner helps to reduce duplication of work, helps foster new collaborations and cultivates a more open dialogue with others. It also helps researchers avoid making exploring dead ends and making mistakes that have already been covered by their colleague, but went unpublished because of lack of scientific interest.
+Open notebook research is simply the practice of making such notebooks openly available, usually online. Some researchers choose to keep thir notebooks open from the very beginning of their projects. Rather than wait months, even years, to share their research through journal publication as is the current practice, this allows researchers to post their experimental data and protocols online and in real-time. Sharing research in this open and timely manner helps to reduce duplication of work, helps foster new collaborations and cultivates a more open dialogue with others. It also helps researchers avoid making exploring dead ends and making mistakes that have already been covered by their colleague, but went unpublished because of lack of scientific interest.
 
 Open notebooks have the further benefit of increasing the quality of scientific outputs by forcing researchers to be careful, thorough, and explicit. Making research open has the added benefit of increasing the likelihood that any errors made in an investigation will be spotted quickly, instead of down the line. Immediate fixes will have much less impact on a research project, which will save a research time, the lab money, and pride.
 
@@ -420,13 +418,13 @@ By allowing members of the public to contribute to scientific research citizen s
 
 - [ ] Use open hardware where practical
 - [ ] Make detailed documentation and designs for any hardware you develop openly available
-- [ ] Include a license granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate license for your project.
+- [ ] Include a licence granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate license for your project.
 - [ ] Include a readme file containing useful information about a project such as what it is, materials used, etc.
 
 ### Open source software
 
 - [ ] Put your code in a freely accessible repository
-- [ ] Include a license granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate license for your project.
+- [ ] Include a licence granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate license for your project.
 - [ ] Include a readme file containing useful information about a project such as what it is, how to use/install it and how to run any tests.
 - [ ] If you want others to collaborate on the project include contribution guidelines instructing them on how to go about that and a code of conduct specifying standards of behaviour.
 
