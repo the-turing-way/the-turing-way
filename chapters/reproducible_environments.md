@@ -182,7 +182,8 @@
   MAINTAINER demousr@gmail.com 
 
   RUN apt-get update 
-  RUN apt-get install –y nginx 
+  RUN apt-get install –y nginx
+  ADD my_local_file .
   CMD [“echo”,”Image created”] 
   ```
   Breaking this down:
@@ -190,7 +191,8 @@
   - You need some kind of from statement oven if it's `FROM SCRATCH`. 
   - MAINTAINER self explanatory and not necessary to include.
   - RUN instructions to run when building the image
-  - CMD is commands to run    only appears if I don't hvaae interactive terminal REEEEEEEEAD article
+  - ADD is used if you have files on your computer you want to be put into the image. The syntax is the path to the file from where you're building the image in, and then the location in the container directory system you want the file to be placed. Note that you can only add files from the level or below where your dockerfile is. 
+  - CMD is commands to run when your container starts up. So to calify RUN are things you do to *setting up* a container from an image, and CMD is for commands to be automatically run in the container as soon as it's set up.    only appears if I don't hvaae interactive terminal REEEEEEEEAD article
 
 Materials to look at:
 
