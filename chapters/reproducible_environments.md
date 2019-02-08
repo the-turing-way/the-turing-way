@@ -130,7 +130,7 @@
 - Installed docker on that machine and tried again. It regonised the image wasn't on my local machine and downloaded it
 - Went to "http://localhost:4000/" and the message was there as expected, so success. It had run without making the directory and files on my machine.
 - Now looking at [this](https://geohackweek.github.io/Introductory/docker-tutorial_temp/) tutorial **Creative Commons Attribution 3.0 Unported**
-- If I then run `docker run -i -t geohackweek2016/arraystutorial` then that image runs. The `-i -t` means that once I hit enter then I get a prefix "root@SHA_type_thing" in the terminal which I can then do standard linux commands with within the container. After experimenting with my own images find generally need `/bin/bash` at the end of this command on order to get the terminal as well as the `-i -t`. Not 100% sure why it wasn't needed for this example, maybe something in the dockerfile.
+- If I then run `docker run -i -t geohackweek2016/arraystutorial` then that image runs. The `-i -t` means that once I hit enter then I get a prefix "root@SHA_type_thing" in the terminal which I can then do standard linux commands with within the container. After experimenting with my own images find generally need `/bin/bash` at the end of this command on order to get the terminal as well as the `-i -t`. Not 100% sure why it wasn't needed for this example, maybe something in the dockerfile. Yeah. If you have `CMD ["/bin/bash"]` in the dockerfile then you don't need to have it when you run the container.
 - When I do `ls` I see the stuff in the continer which is comletly different to the directory I ran the image in.
 - Move a file from my computer into the container using 
   ```
@@ -191,14 +191,17 @@
   - You need some kind of from statement oven if it's `FROM SCRATCH`. 
   - MAINTAINER self explanatory and not necessary to include.
   - RUN instructions to run when building the image
-  - ADD is used if you have files on your computer you want to be put into the image. The syntax is the path to the file from where you're building the image in, and then the location in the container directory system you want the file to be placed. Note that you can only add files from the level or below where your dockerfile is. 
-  - CMD is commands to run when your container starts up. So to calify RUN are things you do to *setting up* a container from an image, and CMD is for commands to be automatically run in the container as soon as it's set up.    only appears if I don't hvaae interactive terminal REEEEEEEEAD article
+  - ADD is used if you have files on your computer you want to be put into the image. The syntax is the path to the file from where you're building the image in, and then the location in the container directory system you want the file to be placed. Note that you can only add files from the level or below where your dockerfile is. Pushed that image to DockerHub and then pulled it to a different computer. When I ran the contianer on that computer the file was in it.
+  - CMD is commands to run when your container starts up. So to calify RUN are things you do to *setting up* a container from an image, and CMD is for commands to be automatically run in the container as soon as it's set up. The message only appears if I don't have interactive terminal. Not clear on why.
+- It's good practice to use CMD for anything that is going to need to be run before someone starts working in the container. You *can* just follow the instreuction to run the container with a command (e.g `docker run containerID echo Imange created`)  and it'll have the same impact, but then you're relying on whoever is trying to run the container to know they need to follow that up with the command required. Putting it in the Dockerfile means it'll always be run.  
+- There's ENTRYPOINT, but seems like bad practice to use, so leaving it out.
+- Made directories within the container, but when I try using run to cd in and then making another directory within. Didn't work. Asked, this is because each RUN saves and deletes the previous container, then makes a new one from that point, does its run thing, then saves and is deleted and so on. Each layer is like a commit. As a result my RUNing cd into the directory doesn't matter because the next RUN statement restarts the container fresh so the next mkdir goes into the top level. According to David and Will I can use && to have multiple commands on one RUN, but when I try it it doesn't work. 
+- There's COPY as well as ADD. Serves same function but ADD can also be used to add things from e.g. urls. At least in the one article I read they say it's best to use COPY since it's more explicit. Tested that copy could do the copying local files to an image thing the way add did and it suceeded. 
+
 
 Materials to look at:
 
 - https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
-- https://www.tutorialspoint.com/docker/docker_file.htm
-- Series: https://www.tutorialspoint.com/docker/docker_working_with_containers.htm
 - https://developers.redhat.com/blog/2016/02/24/10-things-to-avoid-in-docker-containers/?intcmp=7016000000127cYAAQ
 - https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ
 - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459
