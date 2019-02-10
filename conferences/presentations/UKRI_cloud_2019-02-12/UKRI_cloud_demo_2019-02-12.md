@@ -2,6 +2,8 @@
 
 Sarah Gibson, _The Alan Turing Institute_
 
+_UKRI Cloud Workshop, 10 February 2019_
+
 ## What does "Reproducibility" mean?
 
 * It has a lot of different meanings across research fields
@@ -12,12 +14,12 @@ Sarah Gibson, _The Alan Turing Institute_
 ## An Example of Not Being Reproducible
 **(AKA: I'm guilty of this too...)**
 
-<html><img src="graduation.png" alt="graduation" height="415" width="280"></html>
+<html><img src="images/graduation.png" alt="graduation" height="415" width="280"></html>
 
 * Astrophysics PhD, graduated January 2019
 * Researched phenomenon known as Gamma-Ray Bursts (not your average supernova...) and the neutron stars that power them
 
-<html><img src="figure2.png" alt="figure2" height="400" width="320"></html>
+<html><img src="images/figure2.png" alt="figure2" height="400" width="320"></html>
 
 * This is a figure published in [my first journal paper](https://arxiv.org/pdf/1706.04802.pdf)
 * It describes the evolution of the spin of a neutron star (middle panel) and the mass of its accretion disc (top panel) as it was being fed by fallback accretion
@@ -26,7 +28,7 @@ Sarah Gibson, _The Alan Turing Institute_
 **What my research was about isn't necessarily important.
 What is important is whether other scientists in my field could verify my work.**
 
-<html><img src="fig2_creation.gif" alt="fig2_creation"></html>
+<html><img src="images/fig2_creation.gif" alt="fig2_creation"></html>
 
 This is a GIF of my PhD laptop producing the figure which turned out to **not** be reproducible for a number of reasons:
 * Was not version controlled
@@ -42,25 +44,26 @@ With a little bit of work, I've managed to reproduce my figure using Binder (htt
 
 My PhD repo: https://bit.ly/2DacNJQ
 
-Link to back-up GIF: https://bit.ly/2GjmCt9
+Link to back-up GIF: [phd_demo.gif](images/phd_demo.gif)
 
 ## What is Binder doing?
 
-<html><img src="binder_demo.jpg" alt="mybinder" height="420" width="540"></html>
+<html><img src="images/binder_demo.jpg" alt="mybinder" height="420" width="540"></html>
 
 Courtesy of [Juliette Belin](https://twitter.com/JulietteTaka/status/1082735653929000960)
 
 Read the docs on making your own repo Binder-ready here: https://bit.ly/2t7M9wx
 
-## Limitations with the public Binder instance
+## Limitations of the public Binder instance
 
+By design, because it [costs the Binder Team about 5000 USD per month to run](https://mybinder.readthedocs.io/en/latest/faq.html#how-much-does-running-mybinder-org-cost), the public Binder instance:
 * Only works for **public** repos, cannot host private code or sensitive data
 * Large datasets are discouraged
 * Computing resources are minimal
 
 ## Solution: BinderHub 4 U
 
-<html><img src="binder_demo2.png" alt="yourbinder" height="420" width="580"></html>
+<html><img src="images/binder_demo2.png" alt="yourbinder" height="420" width="580"></html>
 
 * The host institution/organisation/RSE group can **choose** whether to make repos public or private
 * This is on-going project at the Turing Institute
@@ -70,6 +73,8 @@ Read the docs on making your own repo Binder-ready here: https://bit.ly/2t7M9wx
 * [Zero-to-JupyterHub with Kubernetes](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html)
 * [Step Zero: Kubernetes on Microsoft Azure](https://zero-to-jupyterhub.readthedocs.io/en/latest/microsoft/step-zero-azure.html)
 * [repo2docker](https://repo2docker.readthedocs.io/en/latest/?badge=latest)
+* [Binder discussions at Jupyter discourse](https://discourse.jupyter.org/c/binder)
+
 
 ## Why tracking Dependencies is Important (demo)
 
@@ -77,12 +82,12 @@ Version updates to software packages could cause fundamental changes to your cod
 
 Here's a little demo repo to highlight this: https://bit.ly/2DfpZNo
 
-Link to back-up GIF: https://bit.ly/2ShauyQ
+Link to back-up GIF: [ukri_demo.gif](images/ukri_demo.gif)
 
 Ok, so you may not worry too much about reproducing "style" in this way, **but imagine if this was numerical**.
-Or that a suite of interacting libraries are updated and are no longer compatible. 
+Or that a suite of interacting libraries are updated and are no longer compatible.
 
-## Thank You
+## Thank You!
 
 Thanks to **The Turing Way** team!
 * Becky Arnold :speech_balloon: :computer: :book: :eyes:
@@ -93,14 +98,14 @@ Thanks to **The Turing Way** team!
 * Anna Krystalli :speech_balloon: :bulb: :clipboard: :eyes:
 * Alexander Morley :speech_balloon: :eyes: :warning:️
 * Martin O'Reilly :speech_balloon: :wrench:
-* Kirstie Whitaker :speech_balloon: :art: :mag: :thinking_face: :eyes: :warning: :loudspeaker:
+* Kirstie Whitaker :speech_balloon: :art: :mag: 🤔 :eyes: :warning: :loudspeaker:
 
 **The Turing Way** is a lightly opinionated guide to reproducible data science.
 Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end.
 
 Please visit our repo and help us deliver our dream!
 
-[github.com/alan-turing-institute/the-turing-way/](https://github.com/alan-turing-institute/the-turing-way)
+> [github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
 
 ### Binder/BinderHub Workshops
 
@@ -122,7 +127,7 @@ Please visit our repo and help us deliver our dream!
 | :bulb: | Examples |
 | :clipboard: | Event Organizers |
 | :mag: | Funding/Grant Finders |
-| :thinking_face: | Ideas & Planning |
+| 🤔 | Ideas & Planning |
 | :eyes: | Reviewed Pull Requests |
 | :wrench: | Tools |
 | :warning: | Tests |
