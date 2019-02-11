@@ -1,5 +1,17 @@
 # Reproducible environments
 
+
+Say I have a very simple script:
+
+```
+a = 1
+b = 5
+print(a/b)
+```
+This simple, simple script returns *different* answers depending on if it is run with python 2 or python 3. One divided by five is `0.2`, and that is what is printed if this script is run by python 3. However in python 2 because both a and b are integers an integer is returned, so the result printed is `0`.
+
+
+
 ## Setting up docker, taking notes.
 
 - Using [this](https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce)
