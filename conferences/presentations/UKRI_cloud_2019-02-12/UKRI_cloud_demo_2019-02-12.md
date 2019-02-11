@@ -123,7 +123,7 @@ Also, thanks to the **Binder** team for sharing their knowledge!
 * Tim Head :speech_balloon: 🤔
 * Chris Holdgraf :speech_balloon: 🤔
 * Benjamin Ragan-Kelley :speech_balloon: 🤔
-* and _many_ others!
+* and many others!
 
 ### Binder/BinderHub Workshops
 
