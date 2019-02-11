@@ -122,6 +122,7 @@ Please visit our repo and help us deliver our dream!
 Also, thanks to the **Binder** team for sharing their knowledge!
 * Tim Head :speech_balloon: 🤔
 * Chris Holdgraf :speech_balloon: 🤔
+* Benjamin Ragan-Kelley :speech_balloon: 🤔
 * and _many_ others!
 
 ### Binder/BinderHub Workshops
