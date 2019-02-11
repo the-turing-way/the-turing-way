@@ -119,8 +119,7 @@ Please visit our repo and help us deliver our dream!
 
 > [github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
 
-Also, thanks to the Binder team for sharing their knowledge!
-
+Also, thanks to the **Binder** team for sharing their knowledge!
 * Tim Head :speech_balloon: 🤔
 * Chris Holdgraf :speech_balloon: 🤔
 * and _many_ others!
@@ -128,11 +127,11 @@ Also, thanks to the Binder team for sharing their knowledge!
 ### Binder/BinderHub Workshops
 
 * Boost your Research Reproducibility with Binder - Manchester, 1st March
-  * Sign up here: https://bit.ly/2UICHeP
+  * Sign up here: http://bit.ly/binder-manchester
 * Boost your Research Reproducibility with Binder - Turing Institute London, 12th March
-  * Sign up here: https://bit.ly/2UICrMT
+  * Sign up here: http://bit.ly/binder-london
 * Build a BinderHub - Sheffield, 18th March
-  * Sign up here: https://bit.ly/2BmNdRH
+  * Sign up here: http://bit.ly/binderhub-sheffield
 
 ### Emoji Contribution Key
 
