@@ -68,6 +68,14 @@ By design, because it [costs the Binder Team about 5000 USD per month to run](ht
 * The host institution/organisation/RSE group can **choose** whether to make repos public or private
 * This is on-going project at the Turing Institute
 
+**BinderHub** is an umbrella for:
+* Building a docker image from a code repository
+  * repo2docker
+* Launching an interactive browser displaying that code repository
+  * JupyterHub
+* Distributing multiple instances of that code repository across the Cloud
+  * Kubernetes with Microsoft Azure/Google Cloud/Amazon Web Services
+
 **Some useful links:**
 * [Zero-to-JupyterHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
 * [Zero-to-JupyterHub with Kubernetes](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html)
@@ -106,6 +114,12 @@ Our goal is to provide all the information that researchers need at the start of
 Please visit our repo and help us deliver our dream!
 
 > [github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
+
+Also, thanks to the Binder team for sharing their knowledge!
+
+* Tim Head :speech_balloon: 🤔
+* Chris Holdgraf :speech_balloon: 🤔
+* and _many_ others!
 
 ### Binder/BinderHub Workshops
 
