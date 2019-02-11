@@ -205,7 +205,6 @@
      command_to_do_thing_3 \
      command_to_do_thing_4
   ```
-  
 
 
 [What are containers](https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ) **CC BY-SA 4.0**
@@ -250,6 +249,11 @@ flaw that limits Docker’s ability to run in HPC environments: for every contai
 **Mobility of compute.** Mobility of compute is defined as the ability to define, create, and maintain a workflow locally while remaining confident that the workflow can be executed elsewhere. In essence, mobility of compute means being able to contain the entire software stack, from data files up through the library stack, and reliability move it from system to system. Mobility of compute is an essential building block for reproducible science, and consistent and continuous deployment of applications.
 
 An academic researcher wants to develop an analysis locally, meaning using a particular operating system, set of software, and library of functions, to work with some data to produce a particular output. The researcher then needs to be able to take that analysis, and move it to a different infrastructure. The researcher then would like to publish and distribute the entire contained analysis and its corresponding hash alongside the results of the research, allowing others to easily reproduce and validate the results.
+
+[A. Brinckman, et al., Computing environments for reproducibility: Capturing the "Whole Tale", Future Generation Computer Systems (2018), https://doi.org/10.1016/j.future.2017.12.029](https://www.sciencedirect.com/science/article/pii/S0167739X17310695) **Attribution 4.0 International (CC BY 4.0)**
+
+The pervasive use of computation for scientific discovery has ushered in a new type of scientific research process. Researchers,irrespectiveofscientificdomain,routinelyrelyonlargeamountsofdata, specialized computational infrastructure, and sophisticated analysis processes from which to test hypotheses and derive results. While scholarly research has evolved significantly over the past decade, the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination – the scholarly publication –is largely unchanged since the advent of the scientific journal in the 1660’s. This disparity has led many to argue that the scholarly publication is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of he need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying code that produced the findings.
+
 
 ## Material from hack.md
 
