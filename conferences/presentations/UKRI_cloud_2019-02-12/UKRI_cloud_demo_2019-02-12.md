@@ -4,6 +4,8 @@ Sarah Gibson, _The Alan Turing Institute_
 
 _UKRI Cloud Workshop, 12 February 2019_
 
+You can follow along with this demo at http://bit.ly/sgibson-ukri-demo-2019
+
 ## What does "Reproducibility" mean?
 
 * It has a lot of different meanings across research fields
@@ -42,7 +44,9 @@ With a little bit of work, I've managed to reproduce my figure using Binder (htt
 * My code is in a public GitHub repo - now version controlled :ballot_box_with_check:
 * The computing environment has been documented in an `environment.yml` file :ballot_box_with_check: _(other config file types are available)_
 
-My PhD repo: https://bit.ly/2DacNJQ
+My PhD repo:
+* [github.com/sgibson91/magprop](https://github.com/sgibson91/magprop)
+* binder link: http://bit.ly/sgibson-phd-demo - points to a fixed commit for fast(ish) binder loading time
 
 Link to back-up GIF: [phd_demo.gif](images/phd_demo.gif)
 
@@ -88,7 +92,7 @@ By design, because it [costs the Binder Team about 5000 USD per month to run](ht
 
 Version updates to software packages could cause fundamental changes to your code that do not raise a fatal error, and so will pass without you realising.
 
-Here's a little demo repo to highlight this: https://bit.ly/2DfpZNo
+Here's a little demo repo to highlight this: http://bit.ly/sgibson-matplotlib-demo
 
 Link to back-up GIF: [ukri_demo.gif](images/ukri_demo.gif)
 
