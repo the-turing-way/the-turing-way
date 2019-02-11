@@ -50,7 +50,7 @@ Link to back-up GIF: https://bit.ly/2GjmCt9
 
 Courtesy of [Juliette Belin](https://twitter.com/JulietteTaka/status/1082735653929000960)
 
-Read the docs on making your own repo Binder-ready here: https://bit.ly/2t7M9wx
+Read the docs on making your own repo Binder-ready at https://mybinder.readthedocs.io
 
 ## Limitations with the public Binder instance
 
