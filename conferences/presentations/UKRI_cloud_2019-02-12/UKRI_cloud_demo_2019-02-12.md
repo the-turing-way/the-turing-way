@@ -94,7 +94,7 @@ Version updates to software packages could cause fundamental changes to your cod
 
 Here's a little demo repo to highlight this: http://bit.ly/sgibson-matplotlib-demo
 
-Link to full workflow GIF: [ukri_demo.gif](images/ukri_demo.gif) :no_entry_sign: [Emergency back-up GIF](images/ukri_demo.gif)
+Link to full workflow GIF: [ukri_demo.gif](images/ukri_demo.gif) :no_entry_sign: [Emergency back-up GIF](images/ukri_demo_emerge.gif)
 
 Ok, so you may not worry too much about reproducing "style" in this way, **but imagine if this was numerical**.
 Or that a suite of interacting libraries are updated and are no longer compatible.
