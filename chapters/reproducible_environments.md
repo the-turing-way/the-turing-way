@@ -288,13 +288,6 @@ One of the most common problems is coming back to your work after 6 months (mayb
 Need a section on semantic versioning: https://semver.org.
 Difference between major, minor and patch upgrades, commonly named as: MAJOR.MINOR.PATCH
 
-It's actually really easy to capture your computational environment:
-
-* `pip freeze`
-* equivalent command for `conda`: `conda env export`
-* equiv for `R`
-
-
 As always prevention is better than a cure!
 If you can install the specific version at the time of running and not up date it.
 
@@ -302,9 +295,7 @@ Useful to have different environments for different projects so that they don't 
 
 What's great about binder is that it will do all this for you\* - but we recommend that you specifically name the version of
 
-\* Need to be v. careful about phrasing here - repo owner needs to provide info
-
-ation on the computational environment, even if hidden from Binder user.
+\* Need to be v. careful about phrasing here - repo owner needs to provide infomation on the computational environment, even if hidden from Binder user.
 
 [Syntax for yaml files, think this resource is open source, and it's hosted on github](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
 
@@ -328,6 +319,13 @@ Makefiles
 - PHONY will keep track of files created when you run this and not recreate already existing files
 
 ## Material from binder.md
+
+It's actually really easy to capture your computational environment:
+
+* `pip freeze`
+* equivalent command for `conda`: `conda env export`
+* equiv for `R`
+
 Step 1: capture your python environment
 
 https://conda.io/docs/user-guide/tasks/manage-environments.html#exporting-the-environment-file
@@ -414,36 +412,30 @@ Dan Walsh, a computer security leader best known for his work on SELinux, gives 
 
 Woes of development can be:
 
-keeping a consistent environment while iterating through new builds
-documenting so others can use your code like you already know how to
-installing dependent software without conflicting with host versions
-consistent testing environment
-accountable data and traceable storage
+keeping a consistent environment while iterating through new builds documenting so others can use your code like you already know how to installing dependent software without conflicting with host versions consistent testing environment accountable data and traceable storage.
+
 Woes of operations can be:
 
-proper documentation of the software being monitored
-process micro-management and resource quotas
-network configuration for application requirements
-accountable data and traceable storage
+- proper documentation of the software being monitored
+- process micro-management and resource quotas
+- network configuration for application requirements
+- accountable data and traceable storage
+
 By having a standardized image format, development sees all servers the same and operations sees all containers the same. These are the woes that Docker directly addresses. It is first necessary to distinguish the use of "image" and "container" within the Docker environment.
 
 An image
-Portable: They can be pushed to a registry, or saved as a tar archive.
 
-Layered: The steps in producing an image, are added in layers. In this way, images that are mostly the same, except for the last few steps, can reduce disk usage by sharing parent layers.
-
-Static: The contents are not changeable, unless making a new image.
+- Portable: They can be pushed to a registry, or saved as a tar archive.
+- Layered: The steps in producing an image, are added in layers. In this way, images that are mostly the same, except for the last few steps, can reduce disk usage by sharing parent layers.
+- Static: The contents are not changeable, unless making a new image.
 
 A container
-Runtime: An environment for PIDs.
 
-Writable: It is essentially an ephemeral storage.
-
-Layered: It is on an image.
+- Runtime: An environment for PIDs.
+- Writable: It is essentially an ephemeral storage.
+- Layered: It is on an image.
 
 These terms will show up in various contexts, and it is important to see how they relate to each other, but are also their own entities. With this foundation it's time to explore its basic Docker application and capabilities.
-
-
 
 
 ## Summary
