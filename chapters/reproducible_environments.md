@@ -1,16 +1,17 @@
 # Reproducible environments
 
 
-Say I have a very simple script:
+Let's go though an example of why computational environments are important for reproducibility. Say I have a very simple script:
 
 ```
 a = 1
 b = 5
 print(a/b)
 ```
-This simple, simple script returns *different* answers depending on if it is run with python 2 or python 3. One divided by five is `0.2`, and that is what is printed if this script is run by python 3. However in python 2 because both a and b are integers an integer is returned, so the result printed is `0`.
 
+One divided by five is `0.2`, and that is what is printed if this script is run using python 3. However in python 2 because both a and b are integers an integer is returned, so the result printed is `0`. Therefore this simple, simple script returns *different* answers depending on the computational environment it is run in. This is a mistake that would be very easy to make, and demonstrates how two researchers running the exact same script could find differing results.
 
+If such bugs can impact a simple script like this you can only imagine how many could appear in a complex analysis procedure which may involve thousands of lines of code and dozens of dependent packages/pieces of software to generate a scientific result. Therefore even if a researcher shares their code and any associated data a colleague could not confidently reproduce their work unless they also knew the computational environment to run the analysis in.
 
 ## Setting up docker, taking notes.
 
