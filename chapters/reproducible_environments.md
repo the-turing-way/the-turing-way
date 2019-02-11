@@ -117,7 +117,7 @@
 - Did `docker image ls` and the firndlyhello image was listed along with hello-world
 - Ran the docker image using `sudo docker run -p 4000:80 friendlyhello`, the `-p 4000:80` says to map the container's port (which is 80 as seet in the docker file) to my manchine's 4000 port. As a result when I go to "http://localhost:4000/" on a web browser I get a hello world message, and a note that it couldn't connect to Redis.
 - In the terminal used ctrl+C to end the app and get back to the command line.
-- Can run the app in the background from the get go by adding a `-d` before the `-p`. 
+- Can run the app in the background from the get go by adding a `-d` before the `-p`.
 - Did that then ran `sudo docker container ls` to get a list of active containers which showed that one with a container ID which looks like a git SHA.
 - Did `sudo docker container stop the_SHA_like_thing` and the container stopped, so I no longer got the message I got before at "http://localhost:4000/", and when I ls the containers there's none because there's none running.
 - Redid it using port 3000 instead of 4000 and it worked fine, so 4000 isn't special.
@@ -126,13 +126,13 @@
 - "The notation for associating a local image with a repository on a registry is username/repository:tag. The tag is optional, but recommended, since it is the mechanism that registries use to give Docker images a version." Did `sudo docker tag friendlyhello rjarnold/learning_docker:first_image_online`
 - Pushed the image to my account online by `sudo docker tag push rjarnold/learning_docker:first_image_online`
 - Refreshed the webpage with my account, the repository had been automatically create and the image placed within it.
-- Now try running the image on another machine. On another ubuntu machine I tried running `sudo docker run -p 4000:80 rjarnold/learning_docker:first_image_online` Failed because docker wasn't installed on that machine. 
+- Now try running the image on another machine. On another ubuntu machine I tried running `sudo docker run -p 4000:80 rjarnold/learning_docker:first_image_online` Failed because docker wasn't installed on that machine.
 - Installed docker on that machine and tried again. It regonised the image wasn't on my local machine and downloaded it
 - Went to "http://localhost:4000/" and the message was there as expected, so success. It had run without making the directory and files on my machine.
 - Now looking at [this](https://geohackweek.github.io/Introductory/docker-tutorial_temp/) tutorial **Creative Commons Attribution 3.0 Unported**
 - If I then run `docker run -i -t geohackweek2016/arraystutorial` then that image runs. The `-i -t` means that once I hit enter then I get a prefix "root@SHA_type_thing" in the terminal which I can then do standard linux commands with within the container. After experimenting with my own images find generally need `/bin/bash` at the end of this command on order to get the terminal as well as the `-i -t`. Not 100% sure why it wasn't needed for this example, maybe something in the dockerfile. Yeah. If you have `CMD ["/bin/bash"]` in the dockerfile then you don't need to have it when you run the container.
 - When I do `ls` I see the stuff in the continer which is comletly different to the directory I ran the image in.
-- Move a file from my computer into the container using 
+- Move a file from my computer into the container using
   ```
   sudo docker cp file_name Sha_or_name_of_container:path_to_pyt_file/file_name
   ```
@@ -161,7 +161,7 @@
     - WORKDIR: Change the current working directory
     - EXPOSE: Lists ports that should be exposed to the outside world
     - VOLUMES: Directories that should be managed separately from the container (e.g. persistent data that should be kept after the container exits)
-- If you do some work in a container, close it, then open a new container from the image your work will be gone because it's building from the start 
+- If you do some work in a container, close it, then open a new container from the image your work will be gone because it's building from the start
 - If you need to do work in a container and save it you can make a "volume" where it'll save the work so even if you close the container when you next make one from that image it'll still have your work. Do this by
   ```
   sudo docker run -i -t --mount source=my_volume_name,target=/notebooks image_name
@@ -177,31 +177,27 @@
 - use `sudo docker rm container_ID` to remove a container. If you include a -v after the rm then it will also remove anny accociated volumes.
 - Short example of a docker file
   ```
-  #This is a sample Image 
-  FROM ubuntu 
-  MAINTAINER demousr@gmail.com 
+  #This is a sample Image
+  FROM ubuntu
+  MAINTAINER demousr@gmail.com
 
-  RUN apt-get update 
+  RUN apt-get update
   RUN apt-get install –y nginx
   ADD my_local_file .
-  CMD [“echo”,”Image created”] 
+  CMD [“echo”,”Image created”]
   ```
   Breaking this down:
   - Comments by #'s like python.
-  - You need some kind of from statement oven if it's `FROM SCRATCH`. 
+  - You need some kind of from statement oven if it's `FROM SCRATCH`.
   - MAINTAINER self explanatory and not necessary to include.
   - RUN instructions to run when building the image
   - ADD is used if you have files on your computer you want to be put into the image. The syntax is the path to the file from where you're building the image in, and then the location in the container directory system you want the file to be placed. Note that you can only add files from the level or below where your dockerfile is. Pushed that image to DockerHub and then pulled it to a different computer. When I ran the contianer on that computer the file was in it.
   - CMD is commands to run when your container starts up. So to calify RUN are things you do to *setting up* a container from an image, and CMD is for commands to be automatically run in the container as soon as it's set up. The message only appears if I don't have interactive terminal. Not clear on why.
 - It's good practice to use CMD for anything that is going to need to be run before someone starts working in the container. You *can* just follow the instreuction to run the container with a command (e.g `docker run containerID echo Imange created`)  and it'll have the same impact, but then you're relying on whoever is trying to run the container to know they need to follow that up with the command required. Putting it in the Dockerfile means it'll always be run.  
 - There's ENTRYPOINT, but seems like bad practice to use, so leaving it out.
-- Made directories within the container, but when I try using run to cd in and then making another directory within. Didn't work. Asked, this is because each RUN saves and deletes the previous container, then makes a new one from that point, does its run thing, then saves and is deleted and so on. Each layer is like a commit. As a result my RUNing cd into the directory doesn't matter because the next RUN statement restarts the container fresh so the next mkdir goes into the top level. According to David and Will I can use && to have multiple commands on one RUN, but when I try it it doesn't work. 
-- There's COPY as well as ADD. Serves same function but ADD can also be used to add things from e.g. urls. At least in the one article I read they say it's best to use COPY since it's more explicit. Tested that copy could do the copying local files to an image thing the way add did and it suceeded. 
-
-
-Materials to look at:
-
-- https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+- Made directories within the container, but when I try using run to cd in and then making another directory within. Didn't work. Asked, this is because each RUN saves and deletes the previous container, then makes a new one from that point, does its run thing, then saves and is deleted and so on. Each layer is like a commit. As a result my RUNing cd into the directory doesn't matter because the next RUN statement restarts the container fresh so the next mkdir goes into the top level. According to David and Will I can use && to have multiple commands on one RUN, but when I try it it doesn't work.
+- There's COPY as well as ADD. Serves same function but ADD can also be used to add things from e.g. urls. At least in the one article I read they say it's best to use COPY since it's more explicit. Tested that copy could do the copying local files to an image thing the way add did and it suceeded.
+- It's good practice to use .dockerignore files. When you build an image everything in the dockerfile's directory and below is sent to the Docker daemon (which may or may not be on the same machine as where your running the command) to build the image. It uses the dockerfile and the context to build the image. If you're got lots of big files in your context that aren't needed for your image then you're sending the daemon those huge files for nothing. You can make sure they're not sent by including them in a .dockerignore file. You can use syntax like for example `*.png` for example to ignore lots fo different files with similar names/types with few lines.
 
 
 [What are containers](https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ) **CC BY-SA 4.0**
@@ -216,7 +212,7 @@ Docker is a command-line tool for programmatically defining the contents of a Li
 
 Containers have also sparked an interest in microservice architecture, a design pattern for developing applications in which complex applications are broken down into smaller, composable pieces which work together. Each component is developed separately, and the application is then simply the sum of its constituent components. Each piece, or service, can live inside of a container, and can be scaled independently of the rest of the application as the need arises.
 
-Simply putting your applications into containers probably won't create a phenomenal shift in the way your organization operates unless you also change how you deploy and manage those containers. One popular system for managing and organizing Linux containers is Kubernetes. 
+Simply putting your applications into containers probably won't create a phenomenal shift in the way your organization operates unless you also change how you deploy and manage those containers. One popular system for managing and organizing Linux containers is Kubernetes.
 
 Kubernetes is an open source system for managing clusters of containers. To do this, it provides tools for deploying applications, scaling those application as needed, managing changes to existing containerized applications, and helps you optimize the use of the underlying hardware beneath your containers. It is designed to be extensible, as well as fault-tolerant by allowing application components to restart and move across systems as needed.
 
