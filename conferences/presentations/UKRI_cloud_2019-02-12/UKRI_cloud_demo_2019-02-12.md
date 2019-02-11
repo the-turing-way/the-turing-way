@@ -70,7 +70,7 @@ By design, because it [costs the Binder Team about 5000 USD per month to run](ht
 <html><img src="images/binder_demo2.png" alt="yourbinder" height="420" width="580"></html>
 
 * The host institution/organisation/RSE group can **choose** whether to make repos public or private
-* This is on-going project at the Turing Institute
+* This is an on-going project at the Turing Institute
 
 **BinderHub** is an umbrella for:
 * Building a docker image from a code repository
