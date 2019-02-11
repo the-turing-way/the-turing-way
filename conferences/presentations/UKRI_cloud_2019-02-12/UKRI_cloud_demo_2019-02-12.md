@@ -48,7 +48,7 @@ My PhD repo:
 * [github.com/sgibson91/magprop](https://github.com/sgibson91/magprop)
 * binder link: http://bit.ly/sgibson-phd-demo - points to a fixed commit for fast(ish) binder loading time
 
-Link to back-up GIF: [phd_demo.gif](images/phd_demo.gif)
+Link to full workflow GIF: [phd_demo.gif](images/phd_demo.gif) :no_entry_sign: [Emergency back-up GIF](images/phd_demo_emerge.gif)
 
 ## What is Binder doing?
 
@@ -94,7 +94,7 @@ Version updates to software packages could cause fundamental changes to your cod
 
 Here's a little demo repo to highlight this: http://bit.ly/sgibson-matplotlib-demo
 
-Link to back-up GIF: [ukri_demo.gif](images/ukri_demo.gif)
+Link to full workflow GIF: [ukri_demo.gif](images/ukri_demo.gif) :no_entry_sign: [Emergency back-up GIF](images/ukri_demo.gif)
 
 Ok, so you may not worry too much about reproducing "style" in this way, **but imagine if this was numerical**.
 Or that a suite of interacting libraries are updated and are no longer compatible.
