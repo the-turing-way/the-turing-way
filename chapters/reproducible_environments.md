@@ -255,6 +255,10 @@ An academic researcher wants to develop an analysis locally, meaning using a par
 The pervasive use of computation for scientific discovery has ushered in a new type of scientific research process. Researchers,irrespectiveofscientificdomain,routinelyrelyonlargeamountsofdata, specialized computational infrastructure, and sophisticated analysis processes from which to test hypotheses and derive results. While scholarly research has evolved significantly over the past decade, the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination – the scholarly publication –is largely unchanged since the advent of the scientific journal in the 1660’s. This disparity has led many to argue that the scholarly publication is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of he need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying code that produced the findings.
 
 
+[Not explicitly open but could contact](https://semsci.github.io/SemSci2018/papers/5/SemSci_2018_paper_5.pdf)
+
+
+
 ## Material from hack.md
 
 Main points to cover:
