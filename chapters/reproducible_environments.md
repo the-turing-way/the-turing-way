@@ -3,6 +3,84 @@
 ## Summary
 > easy to understand summary - a bit like tl;dr
 
+Main points to cover:
+- What is a computational environment (very brief)
+- Why your computational environment (often kind of an afterthought) is actually really important for reproducibility.
+  - One of the most common problems is coming back to your work after 6 months (maybe after reviewers have finally sent your paper back for revisions, or when you're about to fly off to the conference you applied for ages ago) and realising that your code doesn't work any more! Or maybe it does work but it gives you different answers.
+  - We have a tendency to say we used "python" or "numpy" or "R" for our work, but actually there are different versions of these programming languages and packages which mean things are DIFFERENT across them.
+  - Need a section on semantic versioning: https://semver.org.
+Difference between major, minor and patch upgrades, commonly named as: MAJOR.MINOR.PATCH
+  - As always prevention is better than a cure! If you can install the specific version at the time of running and not up date it.
+    - requirements.txt say install e.g. matplotlib
+    - Breaks because don't have the right version of matplotlib
+    - install packages that require specific versions of other packages, dependancies.
+    - Useful to have different environments for different projects so that they don't go out of date! https://conda.io/docs/user-guide/tasks/manage-environments.html
+- Local computational environments
+    - Python `virtualenv` and `venv`, `conda` environments
+    - Equivalent for R
+- Ways to capture computational environments
+  - Yaml files
+    - Yaml's a markup language. YAML is very standard for configuration files.
+    - It's used for Rmarkdown configurations, at the top of jekyll files and for conda configurations for example.
+    - [Syntax for yaml files, think this resource is open source, and it's hosted on github](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+    - [YAML IDIOSYNCRASIES](https://docs.saltstack.com/en/latest/topics/troubleshooting/yaml_idiosyncrasies.html)
+    - [UNDERSTANDING YAML](https://docs.saltstack.com/en/latest/topics/yaml/)
+    - It's actually really easy to capture your computational environment:
+      - `pip freeze` https://pip.pypa.io/en/stable/reference/pip_freeze/
+      - equivalent command for `conda`: `conda env export`
+      - equiv for `R`
+      - `conda env export > environment.yml` https://conda.io/docs/user-guide/tasks/manage-environments.html#exporting-the-environment-file Note that you have to be IN this environment to run the command.
+      - or create the environment.yml file manually somehow
+      - https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file
+  - Images and containers
+    - An image
+      - Portable: They can be pushed to a registry, or saved as a tar archive.
+      - Layered: The steps in producing an image, are added in layers. In this way, images that are mostly the same, except for the last few steps, can reduce disk usage by sharing parent layers.
+      - Static: The contents are not changeable, unless making a new image.
+    - A container
+      - Runtime: An environment for PIDs.
+      - Writable: It is essentially an ephemeral storage.
+      - Layered: It is on an image.
+    - Ultimately Dockerfiles & Travis.yml files do similar things. They define computational environments.
+    - When you would use one locally (as not everyone will need to, depends on complexity of project)
+    - How they are used in Binder
+    - How they can be used for CI (but CI itself in different chapter)
+    - Note the points from this blog post: http://urssi.us/blog/2018/12/21/why-research-software-sustainability-wont-be-fixed-by-containers/
+  - Makefiles
+    - older option to make things reproducible
+    - see issue https://github.com/alan-turing-institute/the-turing-way/issues/24
+    - PHONY will keep track of files created when you run this and not recreate already existing files
+- Binder
+  - ![binder_comic](../figures/binder_comic.png)
+  - \* Need to be v. careful about phrasing here - repo owner needs to provide information on the computational environment, even if hidden from Binder user.
+  - What's great about binder is that it will do all this for you\* - but we recommend that you specifically name the version of
+  - **CHANGES IN BINDER ARE NOT PUSHED BACK INTO YOUR REPO/DOCKER!** this is technically possible but not a feature offered by the public binder; it can be enabled on a local BinderHub (with some new )
+  - Step 1: capture computational environment
+    - Binder only supports 2.7.15 for a `requirements.txt` file.
+    - Sarah personally recommends using the conda environment because it allows you to say which python installation you want too.
+    - Binder has tons of examples to capture non-python examples but they are difficult to find:
+      - https://mybinder.readthedocs.io/en/latest/config_files.html
+      - https://mybinder.readthedocs.io/en/latest/sample_repos.html
+    - Note - the `install.R` file is a made up file to install R packages. The standard way of doing this for R users is to use a DESCRIPTION file.
+      - https://mybinder.readthedocs.io/en/latest/config_files.html#install-r-install-an-r-rstudio-environment
+      - https://mybinder.readthedocs.io/en/latest/config_files.html#description-install-an-r-package
+    - Note that the DESCRIPTION file doesn't just install the specific package - it will ALSO install any requirements that you have :smile:
+  - Step 2: go to mybinder.org, add your GitHub repo link (specify more when needed) and hit "launch"
+    - Note: the default binder page opens up into a jupyter **notebook** server. It may be the case that the BETTER solution is to add `?urlpath=lab` to the end of the url so that it opens up a jupyter **lab** environment instead.
+    - Jupyter lab allows you to open a *terminal* rather than a notebook.
+      - The terminal doesn't have access to a GUI so importing matplotlib.pyplot or .pylab (graphical stuff) won't work
+      - Q: what's the difference between a console and a terminal? The console has enough for you to be able to run a bunch of python commands. The terminal doesn't have access to a graphics card! So the console won't work.
+    - By default python 2 and python 3 are installed.
+  - Step 3: copy markdown back into your readme to get a nice "launch binder" button
+- BinderHub
+  - needs Kubernetes cluster that spins up a bunch of VMs with containers etc. - also does some loadbalancing (Kubernetes [Google developed] being rather new and complex but it can be wrangled to do what you want it to do)
+  - jupyterLab to create the environments
+  - repo2docker that grabs repo from GitHub and launches Docker
+  - BinderHub basically is the high level coordinator for these 3 things and can be accessed through some frontend (the pyblic one being mybinder.org)
+  - Also make this useful to run on local machines/HPCs (that might not be setup for this much networking) to enable data throughput independent of cloud availability
+  - you don't need all the fancy stuff Kubernetes can do to run a BinderHub -> strip down Kubernetes to the essentials and run that locally
+
+
 ## How this will help you/ why this is useful
 
 Let's go though an example of why computational environments are important for reproducibility. Say I have a very simple python script:
@@ -22,6 +100,9 @@ This chapter will describe how to capture, preserve and share computational envi
 ## Prerequisites / recommended skill level
 
 You should have some experience of working on the command line, but there a no other prerequisites. Recommended skill level: intermediate-advanced.
+
+## What is a computational environment?
+
 
 
 
@@ -236,6 +317,27 @@ You should have some experience of working on the command line, but there a no o
   ```
 
 
+[Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
+
+The advent of virtual machines [4, 5] introduced the exciting reality than an entire environment, including software dependencies, libraries, runtime code, and data, could be encapsulated and run anywhere. Virtual machines, however, also introduced large computational overhead due to the required level of virtualization for emulating the OS and kernel. With the addition of lightweight virtualization features to the Linux kernel (e.g., namespaces) a new lightweight virtualization, containers [15, 16], became possible to implement. Implementations such as Docker, one of the container solutions made open source in 2013 [15, 16], offered additional improvements over standard virtual machines. Containers could share resources with the host without incurring much of the performance penalties of hardware-level virtualization [17].
+
+Researchers can develop reproducible containers on their local machines, providing a simple way to collaborate on code or applications without the hassle of having different software versions or broken dependencies. Containers are ideal not just for the final analysis, but for the development of it. A user is most comfortable working with his or her text editor, programs, and environment of choice, and containers make it possible to work locally and develop in a specific environment simultaneously.
+
+If you need to work with HPC containers save having to install a whole bunch of stuff on the cluster before you can, and installing may not even be possible if you need to download form the interenet.
+
+Portability is essential for replication of the work, and so any product that is limited to where it can be deployed is instantly limited in the extent that it can be reproduced.
+
+One of the major factors that prevents Docker from being the standard container technology in HPC is its security concerns. From an IT security perspective, a machine can be considered compromised if any user is able to run arbitrary code as the root user. While Docker takes steps to mitigate the risk of allowing users to run arbitrary code, there is a fatal design flaw that limits Docker’s ability to run in HPC environments: for every container that Docker runs, the container process is spawned as a child of a root owned Docker daemon. As the user is able to directly interact with and control the Docker daemon, it is theoretically possible to coerce the daemon process into granting the users escalated privileges. Any user being able to escalate up to system administrator status, a user called “root”, would introduce unthinkable security risks for a shared compute environment.
+
+**Mobility of compute.** Mobility of compute is defined as the ability to define, create, and maintain a workflow locally while remaining confident that the workflow can be executed elsewhere. In essence, mobility of compute means being able to contain the entire software stack, from data files up through the library stack, and reliability move it from system to system. Mobility of compute is an essential building block for reproducible science, and consistent and continuous deployment of applications.
+
+An academic researcher wants to develop an analysis locally, meaning using a particular operating system, set of software, and library of functions, to work with some data to produce a particular output. The researcher then needs to be able to take that analysis, and move it to a different infrastructure. The researcher then would like to publish and distribute the entire contained analysis and its corresponding hash alongside the results of the research, allowing others to easily reproduce and validate the results.
+
+[A. Brinckman, et al., Computing environments for reproducibility: Capturing the "Whole Tale", Future Generation Computer Systems (2018), https://doi.org/10.1016/j.future.2017.12.029](https://www.sciencedirect.com/science/article/pii/S0167739X17310695) **Attribution 4.0 International (CC BY 4.0)**
+
+The pervasive use of computation for scientific discovery has ushered in a new type of scientific research process. Researchers,irrespectiveofscientificdomain,routinelyrelyonlargeamountsofdata, specialized computational infrastructure, and sophisticated analysis processes from which to test hypotheses and derive results. While scholarly research has evolved significantly over the past decade, the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination – the scholarly publication –is largely unchanged since the advent of the scientific journal in the 1660’s. This disparity has led many to argue that the scholarly publication is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of he need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying code that produced the findings.
+
+
 [What are containers](https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ) **CC BY-SA 4.0**
 
 Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package. And they are designed to make it easier to provide a consistent experience as developers and system administrators move code from development environments into production in a fast and replicable way.
@@ -260,212 +362,17 @@ In a way, Docker is a bit like a virtual machine. But unlike a virtual machine, 
 
 For developers, it means that they can focus on writing code without worrying about the system that it will ultimately be running on.
 
-
-[Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
-
-The advent of virtual machines [4, 5] introduced the exciting reality than an entire environment, including software dependencies, libraries, runtime code, and data, could be encapsulated and run anywhere. Virtual machines, however, also introduced large computational overhead due to the required level of virtualization for emulating the OS and kernel. With the addition of lightweight virtualization features to the Linux kernel (e.g., namespaces) a new lightweight virtualization, containers [15, 16], became possible to implement. Implementations such as Docker, one of the container solutions made open source in 2013 [15, 16], offered additional improvements over standard virtual machines. Containers could share resources
-with the host without incurring much of the performance penalties of hardware-level virtualization [17].
-
-Researchers can develop reproducible containers on their local machines, providing a simple way to collaborate on code or applications without the hassle of having different software versions or broken dependencies. Containers are ideal not just for the final analysis, but for the development of it. A user is most comfortable working with his or her text editor, programs, and environment of choice, and containers make it possible to work locally and develop in a specific environment simultaneously.
-
-If you need to work with HPC containers save having to install a whole bunch of stuff on the cluster before you can, and installing may not even be possible if you need to download form the interenet.
-
-Portability is essential for replication of the work, and so any product that is limited to where it can be deployed is instantly limited in the extent that it can be reproduced.
-
-One of the major factors that prevents Docker from being the standard container technology in HPC is its security concerns. From an IT security perspective, a machine can be considered compromised if any user is able to run arbitrary code as the root user. While Docker takes steps to mitigate the risk of allowing users to run arbitrary code, there is a fatal design
-flaw that limits Docker’s ability to run in HPC environments: for every container that Docker runs, the container process is spawned as a child of a root owned Docker daemon. As the user is able to directly interact with and control the Docker daemon, it is theoretically possible to coerce the daemon process into granting the users escalated privileges. Any user being able to escalate up to system administrator status, a user called “root”, would introduce unthinkable security risks for a shared compute environment.
-
-**Mobility of compute.** Mobility of compute is defined as the ability to define, create, and maintain a workflow locally while remaining confident that the workflow can be executed elsewhere. In essence, mobility of compute means being able to contain the entire software stack, from data files up through the library stack, and reliability move it from system to system. Mobility of compute is an essential building block for reproducible science, and consistent and continuous deployment of applications.
-
-An academic researcher wants to develop an analysis locally, meaning using a particular operating system, set of software, and library of functions, to work with some data to produce a particular output. The researcher then needs to be able to take that analysis, and move it to a different infrastructure. The researcher then would like to publish and distribute the entire contained analysis and its corresponding hash alongside the results of the research, allowing others to easily reproduce and validate the results.
-
-[A. Brinckman, et al., Computing environments for reproducibility: Capturing the "Whole Tale", Future Generation Computer Systems (2018), https://doi.org/10.1016/j.future.2017.12.029](https://www.sciencedirect.com/science/article/pii/S0167739X17310695) **Attribution 4.0 International (CC BY 4.0)**
-
-The pervasive use of computation for scientific discovery has ushered in a new type of scientific research process. Researchers,irrespectiveofscientificdomain,routinelyrelyonlargeamountsofdata, specialized computational infrastructure, and sophisticated analysis processes from which to test hypotheses and derive results. While scholarly research has evolved significantly over the past decade, the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination – the scholarly publication –is largely unchanged since the advent of the scientific journal in the 1660’s. This disparity has led many to argue that the scholarly publication is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of he need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying code that produced the findings.
-
-
-[Not explicitly open but could contact](https://semsci.github.io/SemSci2018/papers/5/SemSci_2018_paper_5.pdf)
-
-
-
-## Material from hack.md
-
-Main points to cover:
-- What is a comutational environment (very brief)
-- Why your computational environment (often kind of an afterthought) is actually really important for reproducibility.
-- Local computational environments
-    - Python `virtualenv` and `venv`, `conda` environments
-    - Equivalent for R
-- Containers
-    - What they are
-    - When you would use one locally (as not everyone will need to, depends on complexity of project)
-    - How they are used in Binder
-    - How they can be used for CI (but CI itself in different chapter)
-
-requirements.txt say install e.g. matplotlib
-Breaks because don't have the right version of matplotlib
-install packages that require specific versions of other packages, dependancies.
-Containers etc. Docker is/like a yaml file
-
-We have a tendency to say we used "python" or "numpy" or "R" for our work, but actually there are different versions of these programming languages and packages which mean things are DIFFERENT across them.
-
-One of the most common problems is coming back to your work after 6 months (maybe after reviewers have finally sent your paper back for revisions, or when you're about to fly off to the conference you applied for ages ago) and realising that your code doesn't work any more! Or maybe it does work but it gives you different answers.
-
-* Need an example of errors from different packages.
-  Could be a good crowd sourcing option - ask folks to tell us about their Gotchas!
-
-Need a section on semantic versioning: https://semver.org.
-Difference between major, minor and patch upgrades, commonly named as: MAJOR.MINOR.PATCH
-
-As always prevention is better than a cure!
-If you can install the specific version at the time of running and not up date it.
-
-Useful to have different environments for different projects so that they don't go out of date! https://conda.io/docs/user-guide/tasks/manage-environments.html
-
-What's great about binder is that it will do all this for you\* - but we recommend that you specifically name the version of
-
-\* Need to be v. careful about phrasing here - repo owner needs to provide infomation on the computational environment, even if hidden from Binder user.
-
-[Syntax for yaml files, think this resource is open source, and it's hosted on github](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
-
-Yaml's a markup language.
-
-Ultimately Dockerfiles & Travis.yml files do similar things. They define computational environments.
-
-Note the points from this blog post: http://urssi.us/blog/2018/12/21/why-research-software-sustainability-wont-be-fixed-by-containers/
-
-YAML is very standard for configuration files.
-It's used for Rmarkdown configurations, at the top of jekyll files and for conda configurations for example.
-
-Indentation important:
-- [YAML IDIOSYNCRASIES](https://docs.saltstack.com/en/latest/topics/troubleshooting/yaml_idiosyncrasies.html)
-- [UNDERSTANDING YAML](https://docs.saltstack.com/en/latest/topics/yaml/)
-
-Makefiles
-
-- older option to make things reproducible
-- see issue https://github.com/alan-turing-institute/the-turing-way/issues/24
-- PHONY will keep track of files created when you run this and not recreate already existing files
-
-## Material from binder.md
-
-It's actually really easy to capture your computational environment:
-
-* `pip freeze`
-* equivalent command for `conda`: `conda env export`
-* equiv for `R`
-
-Step 1: capture your python environment
-
-https://conda.io/docs/user-guide/tasks/manage-environments.html#exporting-the-environment-file
-
-https://pip.pypa.io/en/stable/reference/pip_freeze/
-
-`conda env export > environment.yml`
-
-Note that you have to be IN this environment to run the command above.
-
-or create the environment.yml file manually somehow
-
-https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file
-
-Binder only supports 2.7.15 for a `requirements.txt` file.
-
-Sarah personally recommends using the conda environment because it allows you to say which python installation you want too.
-
-Binder has tons of examples to capture non-python examples but they are difficult to find:
-
-https://mybinder.readthedocs.io/en/latest/config_files.html
-https://mybinder.readthedocs.io/en/latest/sample_repos.html
-
-Note - the `install.R` file is a made up file to install R packages. The standard way of doing this for R users is to use a DESCRIPTION file.
-
-https://mybinder.readthedocs.io/en/latest/config_files.html#install-r-install-an-r-rstudio-environment
-https://mybinder.readthedocs.io/en/latest/config_files.html#description-install-an-r-package
-
-Note that the DESCRIPTION file doesn't just install the specific package - it will ALSO install any requirements that you have :smile:
-
-
-Step 2: go to mybinder.org, add your GitHub repo link (specify more when needed) and hit "launch"
-
-Note: the default binder page opens up into a jupyter **notebook** server. It may be the case that the BETTER solution is to add `?urlpath=lab` to the end of the url so that it opens up a jupyter **lab** environment instead.
-
-Note: difference between lab and notebook environment will (may) need to be covered in computing environment chapter (if we have time!)!
-
-By default python 2 and python 3 are installed.
-
-Jupyter lab allows you to open a *terminal* rather than a notebook.
-
-The terminal doesn't have access to a GUI so importing matplotlib.pyplot or .pylab (graphical stuff) won't work
-
-Q: what's the difference between a console and a terminal?
-
-The console has enough for you to be able to run a bunch of python commands.
-
-The terminal doesn't have access to a graphics card! So the console won't work.
-
-Step 3: copy markdown back into your readme to get a nice "launch binder" button
-
-**CHANGES IN BINDER ARE NOT PUSHED BACK INTO YOUR REPO/DOCKER!**
-
--> this is technically possible but not a feature offered by the public binder; it can be enabled on a local BinderHub (with some new )
-
-
-
-![binder_comic](../figures/binder_comic.png)
-
-## BinderHub
-
-- needs Kubernetes cluster that spins up a bunch of VMs with containers etc. - also does some loadbalancing (Kubernetes [Google developed] being rather new and complex but it can be wrangled to do what you want it to do)
-- jupyterLab to create the environments
-- repo2docker that grabs repo from GitHub and launches Docker
-- BinderHub basically is the high level coordinator for these 3 things and can be accessed through some frontend (the pyblic one being mybinder.org)
-
-
-Also make this useful to run on local machines/HPCs (that might not be setup for this much networking) to enable data throughput independent of cloud availability
-- you don't need all the fancy stuff Kubernetes can do to run a BinderHub -> strip down Kubernetes to the essentials and run that locally
-
----
-
-[opensource](https://opensource.com/resources/what-docker) **Attribution-ShareAlike 4.0 International**
-
-Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package. By doing so, thanks to the container, the developer can rest assured that the application will run on any other Linux machine regardless of any customized settings that machine might have that could differ from the machine used for writing and testing the code.
-
 Docker is a tool that is designed to benefit both developers and system administrators, making it a part of many DevOps (developers + operations) toolchains. For developers, it means that they can focus on writing code without worrying about the system that it will ultimately be running on. It also allows them to get a head start by using one of thousands of programs already designed to run in a Docker container as a part of their application. For operations staff, Docker gives flexibility and potentially reduces the number of systems needed because of its small footprint and lower overhead.
 
 Docker brings security to applications running in a shared environment, but containers by themselves are not an alternative to taking proper security measures.
 
 Dan Walsh, a computer security leader best known for his work on SELinux, gives his [perspective](https://opensource.com/business/14/7/docker-security-selinux) on the importance of making sure Docker containers are secure. He also provides a [detailed breakdown](https://opensource.com/business/14/9/security-for-docker) of security features currently within Docker, and how they function.
 
----
 
-Woes of development can be:
+[Not explicitly open but could contact](https://semsci.github.io/SemSci2018/papers/5/SemSci_2018_paper_5.pdf)
 
-keeping a consistent environment while iterating through new builds documenting so others can use your code like you already know how to installing dependent software without conflicting with host versions consistent testing environment accountable data and traceable storage.
 
-Woes of operations can be:
-
-- proper documentation of the software being monitored
-- process micro-management and resource quotas
-- network configuration for application requirements
-- accountable data and traceable storage
-
-By having a standardized image format, development sees all servers the same and operations sees all containers the same. These are the woes that Docker directly addresses. It is first necessary to distinguish the use of "image" and "container" within the Docker environment.
-
-An image
-
-- Portable: They can be pushed to a registry, or saved as a tar archive.
-- Layered: The steps in producing an image, are added in layers. In this way, images that are mostly the same, except for the last few steps, can reduce disk usage by sharing parent layers.
-- Static: The contents are not changeable, unless making a new image.
-
-A container
-
-- Runtime: An environment for PIDs.
-- Writable: It is essentially an ephemeral storage.
-- Layered: It is on an image.
-
-These terms will show up in various contexts, and it is important to see how they relate to each other, but are also their own entities. With this foundation it's time to explore its basic Docker application and capabilities.
-
+## Material from hack.md
 
 
 ## Chapter content
@@ -476,7 +383,7 @@ These terms will show up in various contexts, and it is important to see how the
 
 ## What to learn next
 
-We recommend reading the chapter on Testing, and then the chapter on Continuous Integration. Note that the chapter on Version Control is a prerequisite for the chapter on Continuous Integration. 
+We recommend reading the chapter on Testing, and then the chapter on Continuous Integration. Note that the chapter on Version Control is a prerequisite for the chapter on Continuous Integration.
 
 ## Further reading
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
