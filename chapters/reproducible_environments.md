@@ -475,7 +475,8 @@ These terms will show up in various contexts, and it is important to see how the
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
 
 ## What to learn next
-> recommended next chapters that are a good next step up
+
+We recommend reading the chapter on Testing, and then the chapter on Continuous Integration. Note that the chapter on Version Control is a prerequisite for the chapter on Continuous Integration.
 
 ## Further reading
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
