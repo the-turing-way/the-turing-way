@@ -3,9 +3,16 @@
 ## Summary
 > easy to understand summary - a bit like tl;dr
 
+
+### What is a computational environment?
+
+- Local computational environments
+  - Python `virtualenv` and `venv`, `conda` environments
+  - Equivalent for R
+
 ## How this will help you/ why this is useful
 
-Let's go though an example of why computational environments are important for reproducibility. Say I have a very simple python script:
+Let's go though an example of why computational environments are important. Say I have a very simple python script:
 
 ```
 a = 1
@@ -15,7 +22,7 @@ print(a/b)
 
 One divided by five is `0.2`, and that is what is printed if this script is run using python 3. However if a slightly older version of python, python 2, is used the result printed is `0` because both a and b are integers so in python 2 an integer is returned. Therefore this simple, simple script returns *different* answers depending on the computational environment it is run in. This is a mistake that would be very easy to make, and demonstrates how a perfectly valid piece of code can output different results depending on the machine it is run on.
 
-If such bugs can impact a simple script like this you can only imagine how many could appear in a complex analysis procedure which may involve thousands of lines of code and dozens of dependent packages/pieces of software. Therefore even if a researcher shares their code and any associated data a colleague could not confidently reproduce their work unless they also knew the computational environment to run the analysis in.
+If such bugs can impact a simple script like this you can only imagine how many could appear in a complex analysis procedure which may involve thousands of lines of code and dozens of dependent packages/pieces of software. Therefore even if a researcher shares their code and any associated data a colleague could not confidently reproduce their work unless they also knew the computational environment to run the analysis in. Similarly if you need to come back to an old piece of your own work (as is common in research), but have updated packages since then you may find your code generating different results or not working at all. Trying to fix these kinds of issues is often time consuming and frustrating as you have to figure out what in your computational environment has changed. This is particularly difficult if you have no record of what your computational environment was when you carried out the research.
 
 This chapter will describe how to capture, preserve and share computational environments along with code to ensure research is reproducible.
 
@@ -23,11 +30,6 @@ This chapter will describe how to capture, preserve and share computational envi
 
 You should have some experience of working on the command line, but there a no other prerequisites. Recommended skill level: intermediate-advanced.
 
-## What is a computational environment?
-
-- Local computational environments
-  - Python `virtualenv` and `venv`, `conda` environments
-  - Equivalent for R
 
 ## Why your computational environment (often kind of an afterthought) is actually really important for reproducibility.
 
