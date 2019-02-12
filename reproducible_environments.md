@@ -3,84 +3,6 @@
 ## Summary
 > easy to understand summary - a bit like tl;dr
 
-Main points to cover:
-- What is a computational environment (very brief)
-- Why your computational environment (often kind of an afterthought) is actually really important for reproducibility.
-  - One of the most common problems is coming back to your work after 6 months (maybe after reviewers have finally sent your paper back for revisions, or when you're about to fly off to the conference you applied for ages ago) and realising that your code doesn't work any more! Or maybe it does work but it gives you different answers.
-  - We have a tendency to say we used "python" or "numpy" or "R" for our work, but actually there are different versions of these programming languages and packages which mean things are DIFFERENT across them.
-  - Need a section on semantic versioning: https://semver.org.
-Difference between major, minor and patch upgrades, commonly named as: MAJOR.MINOR.PATCH
-  - As always prevention is better than a cure! If you can install the specific version at the time of running and not up date it.
-    - requirements.txt say install e.g. matplotlib
-    - Breaks because don't have the right version of matplotlib
-    - install packages that require specific versions of other packages, dependancies.
-    - Useful to have different environments for different projects so that they don't go out of date! https://conda.io/docs/user-guide/tasks/manage-environments.html
-- Local computational environments
-    - Python `virtualenv` and `venv`, `conda` environments
-    - Equivalent for R
-- Ways to capture computational environments
-  - Yaml files
-    - Yaml's a markup language. YAML is very standard for configuration files.
-    - It's used for Rmarkdown configurations, at the top of jekyll files and for conda configurations for example.
-    - [Syntax for yaml files, think this resource is open source, and it's hosted on github](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
-    - [YAML IDIOSYNCRASIES](https://docs.saltstack.com/en/latest/topics/troubleshooting/yaml_idiosyncrasies.html)
-    - [UNDERSTANDING YAML](https://docs.saltstack.com/en/latest/topics/yaml/)
-    - It's actually really easy to capture your computational environment:
-      - `pip freeze` https://pip.pypa.io/en/stable/reference/pip_freeze/
-      - equivalent command for `conda`: `conda env export`
-      - equiv for `R`
-      - `conda env export > environment.yml` https://conda.io/docs/user-guide/tasks/manage-environments.html#exporting-the-environment-file Note that you have to be IN this environment to run the command.
-      - or create the environment.yml file manually somehow
-      - https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file
-  - Images and containers
-    - An image
-      - Portable: They can be pushed to a registry, or saved as a tar archive.
-      - Layered: The steps in producing an image, are added in layers. In this way, images that are mostly the same, except for the last few steps, can reduce disk usage by sharing parent layers.
-      - Static: The contents are not changeable, unless making a new image.
-    - A container
-      - Runtime: An environment for PIDs.
-      - Writable: It is essentially an ephemeral storage.
-      - Layered: It is on an image.
-    - Ultimately Dockerfiles & Travis.yml files do similar things. They define computational environments.
-    - When you would use one locally (as not everyone will need to, depends on complexity of project)
-    - How they are used in Binder
-    - How they can be used for CI (but CI itself in different chapter)
-    - Note the points from this blog post: http://urssi.us/blog/2018/12/21/why-research-software-sustainability-wont-be-fixed-by-containers/
-  - Makefiles
-    - older option to make things reproducible
-    - see issue https://github.com/alan-turing-institute/the-turing-way/issues/24
-    - PHONY will keep track of files created when you run this and not recreate already existing files
-- Binder
-  - ![binder_comic](../figures/binder_comic.png)
-  - \* Need to be v. careful about phrasing here - repo owner needs to provide information on the computational environment, even if hidden from Binder user.
-  - What's great about binder is that it will do all this for you\* - but we recommend that you specifically name the version of
-  - **CHANGES IN BINDER ARE NOT PUSHED BACK INTO YOUR REPO/DOCKER!** this is technically possible but not a feature offered by the public binder; it can be enabled on a local BinderHub (with some new )
-  - Step 1: capture computational environment
-    - Binder only supports 2.7.15 for a `requirements.txt` file.
-    - Sarah personally recommends using the conda environment because it allows you to say which python installation you want too.
-    - Binder has tons of examples to capture non-python examples but they are difficult to find:
-      - https://mybinder.readthedocs.io/en/latest/config_files.html
-      - https://mybinder.readthedocs.io/en/latest/sample_repos.html
-    - Note - the `install.R` file is a made up file to install R packages. The standard way of doing this for R users is to use a DESCRIPTION file.
-      - https://mybinder.readthedocs.io/en/latest/config_files.html#install-r-install-an-r-rstudio-environment
-      - https://mybinder.readthedocs.io/en/latest/config_files.html#description-install-an-r-package
-    - Note that the DESCRIPTION file doesn't just install the specific package - it will ALSO install any requirements that you have :smile:
-  - Step 2: go to mybinder.org, add your GitHub repo link (specify more when needed) and hit "launch"
-    - Note: the default binder page opens up into a jupyter **notebook** server. It may be the case that the BETTER solution is to add `?urlpath=lab` to the end of the url so that it opens up a jupyter **lab** environment instead.
-    - Jupyter lab allows you to open a *terminal* rather than a notebook.
-      - The terminal doesn't have access to a GUI so importing matplotlib.pyplot or .pylab (graphical stuff) won't work
-      - Q: what's the difference between a console and a terminal? The console has enough for you to be able to run a bunch of python commands. The terminal doesn't have access to a graphics card! So the console won't work.
-    - By default python 2 and python 3 are installed.
-  - Step 3: copy markdown back into your readme to get a nice "launch binder" button
-- BinderHub
-  - needs Kubernetes cluster that spins up a bunch of VMs with containers etc. - also does some loadbalancing (Kubernetes [Google developed] being rather new and complex but it can be wrangled to do what you want it to do)
-  - jupyterLab to create the environments
-  - repo2docker that grabs repo from GitHub and launches Docker
-  - BinderHub basically is the high level coordinator for these 3 things and can be accessed through some frontend (the pyblic one being mybinder.org)
-  - Also make this useful to run on local machines/HPCs (that might not be setup for this much networking) to enable data throughput independent of cloud availability
-  - you don't need all the fancy stuff Kubernetes can do to run a BinderHub -> strip down Kubernetes to the essentials and run that locally
-
-
 ## How this will help you/ why this is useful
 
 Let's go though an example of why computational environments are important for reproducibility. Say I have a very simple python script:
@@ -103,12 +25,90 @@ You should have some experience of working on the command line, but there a no o
 
 ## What is a computational environment?
 
+- Local computational environments
+  - Python `virtualenv` and `venv`, `conda` environments
+  - Equivalent for R
 
+## Why your computational environment (often kind of an afterthought) is actually really important for reproducibility.
 
+- One of the most common problems is coming back to your work after 6 months (maybe after reviewers have finally sent your paper back for revisions, or when you're about to fly off to the conference you applied for ages ago) and realising that your code doesn't work any more! Or maybe it does work but it gives you different answers.
+- We have a tendency to say we used "python" or "numpy" or "R" for our work, but actually there are different versions of these programming languages and packages which mean things are DIFFERENT across them.
+- Need a section on semantic versioning: https://semver.org.
+- Difference between major, minor and patch upgrades, commonly named as: MAJOR.MINOR.PATCH
+- As always prevention is better than a cure! If you can install the specific version at the time of running and not up date it.
+  - requirements.txt say install e.g. matplotlib
+  - Breaks because don't have the right version of matplotlib
+  - install packages that require specific versions of other packages, dependancies.
+  - Useful to have different environments for different projects so that they don't go out of date! https://conda.io/docs/user-guide/tasks/manage-environments.html
 
+## Ways to capture computational environments
 
+### Yaml files
 
+- Yaml's a markup language. YAML is very standard for configuration files.
+- It's used for Rmarkdown configurations, at the top of jekyll files and for conda configurations for example.
+- [Syntax for yaml files, think this resource is open source, and it's hosted on github](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+- [YAML IDIOSYNCRASIES](https://docs.saltstack.com/en/latest/topics/troubleshooting/yaml_idiosyncrasies.html)
+- [UNDERSTANDING YAML](https://docs.saltstack.com/en/latest/topics/yaml/)
+- It's actually really easy to capture your computational environment:
+  - `pip freeze` https://pip.pypa.io/en/stable/reference/pip_freeze/
+  - equivalent command for `conda`: `conda env export`
+  - equiv for `R`
+  - `conda env export > environment.yml` https://conda.io/docs/user-guide/tasks/manage-environments.html#exporting-the-environment-file Note that you have to be IN this environment to run the command.
+- or create the environment.yml file manually somehow
+  - https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file
 
+### Images and containers
+
+- An image
+  - Portable: They can be pushed to a registry, or saved as a tar archive.
+  - Layered: The steps in producing an image, are added in layers. In this way, images that are mostly the same, except for the last few steps, can reduce disk usage by sharing parent layers.
+  - Static: The contents are not changeable, unless making a new image.
+- A container
+  - Runtime: An environment for PIDs.
+  - Writable: It is essentially an ephemeral storage.
+  - Layered: It is on an image.
+- Ultimately Dockerfiles & Travis.yml files do similar things. They define computational environments.
+- When you would use one locally (as not everyone will need to, depends on complexity of project)
+- How they can be used for CI (but CI itself in different chapter)
+- Note the points from this blog post: http://urssi.us/blog/2018/12/21/why-research-software-sustainability-wont-be-fixed-by-containers/
+
+### Makefiles
+  - older option to make things reproducible
+  - see issue https://github.com/alan-turing-institute/the-turing-way/issues/24
+  - PHONY will keep track of files created when you run this and not recreate already existing files
+
+## Binder
+
+- ![binder_comic](../figures/binder_comic.png)
+- \* Need to be v. careful about phrasing here - repo owner needs to provide information on the computational environment, even if hidden from Binder user.
+- What's great about binder is that it will do all this for you\* - but we recommend that you specifically name the version of
+- **CHANGES IN BINDER ARE NOT PUSHED BACK INTO YOUR REPO/DOCKER!** this is technically possible but not a feature offered by the public binder; it can be enabled on a local BinderHub (with some new )
+- Step 1: capture computational environment
+  - How Dockerfiles/images/containers are used in Binder
+  - Binder only supports 2.7.15 for a `requirements.txt` file.
+  - Sarah personally recommends using the conda environment because it allows you to say which python installation you want too.
+  - Binder has tons of examples to capture non-python examples but they are difficult to find:
+    - https://mybinder.readthedocs.io/en/latest/config_files.html
+    - https://mybinder.readthedocs.io/en/latest/sample_repos.html
+  - Note - the `install.R` file is a made up file to install R packages. The standard way of doing this for R users is to use a DESCRIPTION file.
+    - https://mybinder.readthedocs.io/en/latest/config_files.html#install-r-install-an-r-rstudio-environment
+    - https://mybinder.readthedocs.io/en/latest/config_files.html#description-install-an-r-package
+  - Note that the DESCRIPTION file doesn't just install the specific package - it will ALSO install any requirements that you have :smile:
+- Step 2: go to mybinder.org, add your GitHub repo link (specify more when needed) and hit "launch"
+  - Note: the default binder page opens up into a jupyter **notebook** server. It may be the case that the BETTER solution is to add `?urlpath=lab` to the end of the url so that it opens up a jupyter **lab** environment instead.
+  - Jupyter lab allows you to open a *terminal* rather than a notebook.
+    - The terminal doesn't have access to a GUI so importing matplotlib.pyplot or .pylab (graphical stuff) won't work
+    - Q: what's the difference between a console and a terminal? The console has enough for you to be able to run a bunch of python commands. The terminal doesn't have access to a graphics card! So the console won't work.
+  - By default python 2 and python 3 are installed.
+- Step 3: copy markdown back into your readme to get a nice "launch binder" button
+- BinderHub
+  - needs Kubernetes cluster that spins up a bunch of VMs with containers etc. - also does some loadbalancing (Kubernetes [Google developed] being rather new and complex but it can be wrangled to do what you want it to do)
+  - jupyterLab to create the environments
+  - repo2docker that grabs repo from GitHub and launches Docker
+  - BinderHub basically is the high level coordinator for these 3 things and can be accessed through some frontend (the pyblic one being mybinder.org)
+  - Also make this useful to run on local machines/HPCs (that might not be setup for this much networking) to enable data throughput independent of cloud availability
+  - you don't need all the fancy stuff Kubernetes can do to run a BinderHub -> strip down Kubernetes to the essentials and run that locally
 
 ## Setting up docker, taking notes.
 
