@@ -48,9 +48,10 @@ But if there's anything else you'd say, please let us know!
 
 > Free text answer
 
-## I understand that the answers given above will be made public at the Turing Way GitHub repository
-
+## I understand that the answers given above will be made public at the Turing Way GitHub repository.
+*mandatory field*
 > Check box: yes, no
+
 
 ## Contact information
 
