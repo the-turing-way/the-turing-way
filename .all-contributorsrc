@@ -19,18 +19,6 @@
         "doc",
         "code"
       ]
-    },
-    {
-      "login": "pherterich",
-      "name": "Patricia Herterich",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/8457675?v=4",
-      "profile": "https://github.com/pherterich",
-      "contributions": [
-        "question",
-        "doc",
-        "review",
-        "talk"
-      ]
     }
   ],
   "contributorsPerLine": 7
