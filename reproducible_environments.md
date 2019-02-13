@@ -22,7 +22,7 @@ b = 5
 print(a/b)
 ```
 
-One divided by five is `0.2`, and that is what is printed if this script is run using python 3. However if a slightly older version of python, python 2, is used the result printed is `0` because both a and b are integers so in python 2 an integer is returned. Therefore this simple, simple script returns *different* answers depending on the computational environment it is run in. This is a mistake that would be very easy to make, and demonstrates how a perfectly valid piece of code can output different results depending on the machine it is run on.
+One divided by five is `0.2`, and that is what is printed if this script is run using python 3. However if a slightly older version of python, python 2, is used the result printed is `0` because both a and b are integers so in python 2 an integer is returned. Therefore this simple, simple script returns *different* answers depending on the computational environment it is run in. This is a mistake that would be very easy to make, and demonstrates how a perfectly valid piece of code can output different results depending on the environment it is run in.
 
 If such bugs can impact a simple script like this you can only imagine how many could appear in a complex analysis procedure which may involve thousands of lines of code and dozens of dependent packages/pieces of software. Therefore even if a researcher shares their code and any associated data a colleague could not confidently reproduce their work unless they also knew the computational environment to run the analysis in. Similarly if you need to come back to an old piece of your own work (as is common in research), but have updated packages since then you may find your code generating different results or not working at all. Trying to fix these kinds of issues is often time consuming and frustrating as you have to figure out what in your computational environment has changed. This is particularly difficult if you have no record of what your computational environment was when you carried out the research.
 
@@ -35,8 +35,6 @@ You should have some experience of working on the command line, but there a no o
 
 ## Why your computational environment (often kind of an afterthought) is actually really important for reproducibility.
 
-- One of the most common problems is coming back to your work after 6 months (maybe after reviewers have finally sent your paper back for revisions, or when you're about to fly off to the conference you applied for ages ago) and realising that your code doesn't work any more! Or maybe it does work but it gives you different answers.
-- We have a tendency to say we used "python" or "numpy" or "R" for our work, but actually there are different versions of these programming languages and packages which mean things are DIFFERENT across them.
 - Need a section on semantic versioning: https://semver.org.
 - Difference between major, minor and patch upgrades, commonly named as: MAJOR.MINOR.PATCH
 - As always prevention is better than a cure! If you can install the specific version at the time of running and not up date it.
@@ -45,33 +43,36 @@ You should have some experience of working on the command line, but there a no o
   - install packages that require specific versions of other packages, dependancies.
   - Useful to have different environments for different projects so that they don't go out of date! https://conda.io/docs/user-guide/tasks/manage-environments.html
 
-[Not explicitly open but could contact](https://semsci.github.io/SemSci2018/papers/5/SemSci_2018_paper_5.pdf)
 
-[Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
+The pervasive use of computation for scientific discovery has ushered in a new type of scientific research process. Researchers, irrespective of scientific domain, routinely rely on large amounts of data, specialized computational infrastructure, and sophisticated analysis processes from which to test hypotheses and derive results. While scholarly research has evolved significantly over the past decade, the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination – the scholarly publication –is largely unchanged since the advent of the scientific journal in the 1660’s. This disparity has led many to argue that the scholarly publication is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of he need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying analysis that produced the findings.
+
+
+
+
+
+If an academic researcher wants to develops an analysis locally, meaning using a particular operating system, set of software, and library of functions, to work with some data to produce a particular output. The researcher then needs to be able to take that analysis, and move it to a different infrastructure. The researcher then would like to publish and distribute the entire contained analysis and its corresponding hash alongside the results of the research, allowing others to easily reproduce and validate the results.
+
+**Mobility of compute.** Mobility of compute is defined as the ability to define, create, and maintain a workflow locally while remaining confident that the workflow can be executed elsewhere. In essence, mobility of compute means being able to contain the entire software stack, from data files up through the library stack, and reliability move it from system to system. Mobility of compute is an essential building block for reproducible science, and consistent and continuous deployment of applications. Any product that is limited to where it can be deployed is instantly limited in the extent that it can be reproduced.
 
 The advent of virtual machines [4, 5] introduced the exciting reality than an entire environment, including software dependencies, libraries, runtime code, and data, could be encapsulated and run anywhere. Virtual machines, however, also introduced large computational overhead due to the required level of virtualization for emulating the OS and kernel. With the addition of lightweight virtualization features to the Linux kernel (e.g., namespaces) a new lightweight virtualization, containers [15, 16], became possible to implement. Implementations such as Docker, one of the container solutions made open source in 2013 [15, 16], offered additional improvements over standard virtual machines. Containers could share resources with the host without incurring much of the performance penalties of hardware-level virtualization [17].
 
 Researchers can develop reproducible containers on their local machines, providing a simple way to collaborate on code or applications without the hassle of having different software versions or broken dependencies. Containers are ideal not just for the final analysis, but for the development of it. A user is most comfortable working with his or her text editor, programs, and environment of choice, and containers make it possible to work locally and develop in a specific environment simultaneously.
 
-If you need to work with HPC containers save having to install a whole bunch of stuff on the cluster before you can, and installing may not even be possible if you need to download form the interenet.
-
-Portability is essential for replication of the work, and so any product that is limited to where it can be deployed is instantly limited in the extent that it can be reproduced.
+If you need to work with HPC containers save having to install a whole bunch of stuff on the cluster before you can, and installing may not even be possible if you need to download form the internet.
 
 One of the major factors that prevents Docker from being the standard container technology in HPC is its security concerns. From an IT security perspective, a machine can be considered compromised if any user is able to run arbitrary code as the root user. While Docker takes steps to mitigate the risk of allowing users to run arbitrary code, there is a fatal design flaw that limits Docker’s ability to run in HPC environments: for every container that Docker runs, the container process is spawned as a child of a root owned Docker daemon. As the user is able to directly interact with and control the Docker daemon, it is theoretically possible to coerce the daemon process into granting the users escalated privileges. Any user being able to escalate up to system administrator status, a user called “root”, would introduce unthinkable security risks for a shared compute environment.
 
-**Mobility of compute.** Mobility of compute is defined as the ability to define, create, and maintain a workflow locally while remaining confident that the workflow can be executed elsewhere. In essence, mobility of compute means being able to contain the entire software stack, from data files up through the library stack, and reliability move it from system to system. Mobility of compute is an essential building block for reproducible science, and consistent and continuous deployment of applications.
 
-An academic researcher wants to develop an analysis locally, meaning using a particular operating system, set of software, and library of functions, to work with some data to produce a particular output. The researcher then needs to be able to take that analysis, and move it to a different infrastructure. The researcher then would like to publish and distribute the entire contained analysis and its corresponding hash alongside the results of the research, allowing others to easily reproduce and validate the results.
 
-[A. Brinckman, et al., Computing environments for reproducibility: Capturing the "Whole Tale", Future Generation Computer Systems (2018), https://doi.org/10.1016/j.future.2017.12.029](https://www.sciencedirect.com/science/article/pii/S0167739X17310695) **Attribution 4.0 International (CC BY 4.0)**
-
-The pervasive use of computation for scientific discovery has ushered in a new type of scientific research process. Researchers,irrespectiveofscientificdomain,routinelyrelyonlargeamountsofdata, specialized computational infrastructure, and sophisticated analysis processes from which to test hypotheses and derive results. While scholarly research has evolved significantly over the past decade, the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination – the scholarly publication –is largely unchanged since the advent of the scientific journal in the 1660’s. This disparity has led many to argue that the scholarly publication is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of he need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying code that produced the findings.
-
+Materials used:
+[A. Brinckman, et al., Computing environments for reproducibility: Capturing the "Whole Tale", Future Generation Computer Systems (2018), https://doi.org/10.1016/j.future.2017.12.029](https://www.sciencedirect.com/science/article/pii/S0167739X17310695) **Attribution 4.0 International (CC BY 4.0)**, [Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
 
 
 ## Ways to capture computational environments
 
-### Yaml files
+There are a number of ways to capture a computational environment, here we will discuss the major ones.
+
+### YAML files
 
 - Yaml's a markup language. YAML is very standard for configuration files.
 - It's used for Rmarkdown configurations, at the top of jekyll files and for conda configurations for example.
@@ -85,6 +86,127 @@ The pervasive use of computation for scientific discovery has ushered in a new t
   - `conda env export > environment.yml` https://conda.io/docs/user-guide/tasks/manage-environments.html#exporting-the-environment-file Note that you have to be IN this environment to run the command.
 - or create the environment.yml file manually somehow
   - https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file
+
+[yaml tutorial](https://gettaurus.org/docs/YAMLTutorial/) **[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)**
+
+YAML is an indentation-based markup language which aims to be both easy to read and easy to write. Many projects use it because of its readability, simplicity and good support for many programming languages.
+
+YAML document consists of the following elements.
+
+### Scalars
+
+Scalars are ordinary values: numbers, strings, booleans.
+```
+yaml
+number-value: 42
+floating-point-value: 3.141592
+boolean-value: true
+# strings can be both 'single-quoted` and "double-quoted"
+string-value: 'Bonjour'
+```
+
+YAML syntax also allows unquoted string values for convenience reasons:
+```
+yaml
+unquoted-string: Hello World
+```
+
+### Lists and Dictionaries
+
+Lists are collections of elements:
+
+```
+yaml
+jedis:
+  - Yoda
+  - Qui-Gon Jinn
+  - Obi-Wan Kenobi
+  - Luke Skywalker
+```
+
+Every element of the list is indented and starts with a dash and a space.
+
+Dictionaries are collections of `key: value` mappings. All keys are case-sensitive.
+
+```
+yaml
+jedi:
+  name: Obi-Wan Kenobi
+  home-planet: Stewjon
+  species: human
+  master: Qui-Gon Jinn
+  height: 1.82m
+```
+
+Note that a space after the colon is mandatory.
+
+Dictionaries can be nested in lists (and vice versa) to create more complex structures:
+
+```
+yaml
+requests:
+  # first item of `requests` list is just a string
+  - http://example.com/
+
+  # second item of `requests` list is a dictionary
+  - url: http://example.com/
+    method: GET
+```
+
+You can also use inline syntax for lists and dictionaries, if you want:
+
+```
+yaml
+episodes: [1, 2, 3, 4, 5, 6, 7]
+best-jedi: {name: Obi-Wan, side: light}
+```
+
+## YAML Multi Documents
+
+YAML format allows multiple documents to be embedded in a single file. They only have to be separated with a line containing triple-dash separator `---`.
+
+```
+yaml
+document: this is document 1
+---
+document: this is document 2
+```
+
+When reading multi-document YAML, Taurus will treat multiple documents as multiple configs and will load them one by one.
+
+## YAML Debugging tips
+
+There's a number of tools you can use to help you to locate and fix syntactical errors in your YAML document.
+
+1. You can use online [services](http://yamltojson.com/) to convert it to JSON to check the structure (can be useful if you don’t have much experience with indentation-based languages)
+2. You can use [yamllint](https://github.com/adrienverge/yamllint) to see if there're any errors or issues with your document
+
+
+## YAML Gotchas
+
+Due to the format aiming to be easy to write and read, there're some ambiguities in YAML.
+
+### Special characters in unquoted strings
+YAML has a number of special characters you cannot use in unquoted strings. For example, parsing the following sample
+will fail:
+```
+yaml
+unquoted-string: let me put a colon here: oops
+```
+
+Quote the string value makes this value unambiguous:
+```
+yaml
+unquoted-string: "let me put a colon here: oops"
+```
+
+Generally, you should quote all strings that contain any of the following characters: `[] {} : > |`.
+
+### Tabs versus spaces for indentation
+
+Do *not* use tabs for indentation. While resulting YAML can still be valid, this can be a source of many subtle
+parsing errors. Just use spaces.
+
 
 ### Images and containers
 
