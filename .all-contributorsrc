@@ -19,6 +19,20 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "sgibson91",
+      "name": "sgibson91",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/44771837?v=4",
+      "profile": "https://github.com/sgibson91",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "tool",
+        "review",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7
