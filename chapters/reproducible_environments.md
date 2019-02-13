@@ -6,6 +6,8 @@
 
 ### What is a computational environment?
 
+Computational environment is (in broad terms) the system setup where a program is being run. This includes features of hardware (e.g. numbers of cores in any CPUs) and features of software (e.g. what programming languages are installed, which supporting packages/versions of those packages are included, what other pieces of software are installed and how are they configured).
+
 - Local computational environments
   - Python `virtualenv` and `venv`, `conda` environments
   - Equivalent for R
