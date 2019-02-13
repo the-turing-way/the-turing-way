@@ -19,6 +19,16 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "martintoreilly",
+      "name": "Martin O'Reilly",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/21147592?v=4",
+      "profile": "https://github.com/martintoreilly",
+      "contributions": [
+        "question",
+        "tool"
+      ]
     }
   ],
   "contributorsPerLine": 7
