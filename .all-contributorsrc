@@ -19,6 +19,21 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "KirstieJane",
+      "name": "Kirstie Whitaker",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3626306?v=4",
+      "profile": "https://whitakerlab.github.io",
+      "contributions": [
+        "question",
+        "design",
+        "fundingFinding",
+        "ideas",
+        "review",
+        "test",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7
