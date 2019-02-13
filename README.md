@@ -54,8 +54,13 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars1.githubusercontent.com/u/20441134?v=4" width="100px;" alt="Becky Arnold"/><br /><sub><b>Becky Arnold</b></sub>](https://github.com/r-j-arnold)<br />[💬](#question-r-j-arnold "Answering Questions") [📖](https://github.com/alan-turing-institute/the-turing-way/commits?author=r-j-arnold "Documentation") [💻](https://github.com/alan-turing-institute/the-turing-way/commits?author=r-j-arnold "Code") | [<img src="https://avatars2.githubusercontent.com/u/44771837?v=4" width="100px;" alt="sgibson91"/><br /><sub><b>sgibson91</b></sub>](https://github.com/sgibson91)<br />[💬](#question-sgibson91 "Answering Questions") [💻](https://github.com/alan-turing-institute/the-turing-way/commits?author=sgibson91 "Code") [📖](https://github.com/alan-turing-institute/the-turing-way/commits?author=sgibson91 "Documentation") [🔧](#tool-sgibson91 "Tools") [👀](#review-sgibson91 "Reviewed Pull Requests") [📢](#talk-sgibson91 "Talks") | [<img src="https://avatars0.githubusercontent.com/u/8457675?v=4" width="100px;" alt="Patricia Herterich"/><br /><sub><b>Patricia Herterich</b></sub>](https://github.com/pherterich)<br />[💬](#question-pherterich "Answering Questions") [📖](https://github.com/alan-turing-institute/the-turing-way/commits?author=pherterich "Documentation") [👀](#review-pherterich "Reviewed Pull Requests") [📢](#talk-pherterich "Talks") |
-| :---: | :---: |
+| [<img src="https://avatars1.githubusercontent.com/u/20441134?v=4" width="100px;" alt="Becky Arnold"/><br /><sub><b>Becky Arnold</b></sub>](https://github.com/r-j-arnold)<br />[💬](#question-r-j-arnold "Answering Questions") [📖](https://github.com/alan-turing-institute/the-turing-way/commits?author=r-j-arnold "Documentation") [💻](https://github.com/alan-turing-institute/the-turing-way/commits?author=r-j-arnold "Code") 
+
+| [<img src="https://avatars2.githubusercontent.com/u/44771837?v=4" width="100px;" alt="sgibson91"/><br /><sub><b>sgibson91</b></sub>](https://github.com/sgibson91)<br />[💬](#question-sgibson91 "Answering Questions") [💻](https://github.com/alan-turing-institute/the-turing-way/commits?author=sgibson91 "Code") [📖](https://github.com/alan-turing-institute/the-turing-way/commits?author=sgibson91 "Documentation") [🔧](#tool-sgibson91 "Tools") [👀](#review-sgibson91 "Reviewed Pull Requests") [📢](#talk-sgibson91 "Talks") 
+
+| [<img src="https://avatars0.githubusercontent.com/u/8457675?v=4" width="100px;" alt="Patricia Herterich"/><br /><sub><b>Patricia Herterich</b></sub>](https://github.com/pherterich)<br />[💬](#question-pherterich "Answering Questions") [📖](https://github.com/alan-turing-institute/the-turing-way/commits?author=pherterich "Documentation") [👀](#review-pherterich "Reviewed Pull Requests") [📢](#talk-pherterich "Talks") |
+
+<!-- | :---: | :---: | -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
