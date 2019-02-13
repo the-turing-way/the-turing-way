@@ -1,5 +1,5 @@
 # The Turing Way
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 [![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://badges.gitter.im/alan-turing-institute/the-turing-way.svg)](https://gitter.im/alan-turing-institute/the-turing-way) [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%E2%9D%A4%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
 
@@ -54,8 +54,8 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars1.githubusercontent.com/u/20441134?v=4" width="100px;" alt="Becky Arnold"/><br /><sub><b>Becky Arnold</b></sub>](https://github.com/r-j-arnold)<br />[💬](#question-r-j-arnold "Answering Questions") [📖](https://github.com/alan-turing-institute/the-turing-way/commits?author=r-j-arnold "Documentation") [💻](https://github.com/alan-turing-institute/the-turing-way/commits?author=r-j-arnold "Code") |
-| :---: |
+| [<img src="https://avatars1.githubusercontent.com/u/20441134?v=4" width="100px;" alt="Becky Arnold"/><br /><sub><b>Becky Arnold</b></sub>](https://github.com/r-j-arnold)<br />[💬](#question-r-j-arnold "Answering Questions") [📖](https://github.com/alan-turing-institute/the-turing-way/commits?author=r-j-arnold "Documentation") [💻](https://github.com/alan-turing-institute/the-turing-way/commits?author=r-j-arnold "Code") | [<img src="https://avatars1.githubusercontent.com/u/5583057?v=4" width="100px;" alt="Anna Krystalli"/><br /><sub><b>Anna Krystalli</b></sub>](https://www.annakrystalli.me/)<br />[💬](#question-annakrystalli "Answering Questions") [💡](#example-annakrystalli "Examples") [📖](https://github.com/alan-turing-institute/the-turing-way/commits?author=annakrystalli "Documentation") [👀](#review-annakrystalli "Reviewed Pull Requests") [📢](#talk-annakrystalli "Talks") |
+| :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
