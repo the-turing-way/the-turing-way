@@ -74,8 +74,7 @@ There are a number of ways to capture a computational environment, here we will 
 
 ### YAML files
 
-- Yaml's a markup language. YAML is very standard for configuration files.
-- It's used for Rmarkdown configurations, at the top of jekyll files and for conda configurations for example.
+
 - [Syntax for yaml files, think this resource is open source, and it's hosted on github](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
 - [YAML IDIOSYNCRASIES](https://docs.saltstack.com/en/latest/topics/troubleshooting/yaml_idiosyncrasies.html)
 - [UNDERSTANDING YAML](https://docs.saltstack.com/en/latest/topics/yaml/)
@@ -89,7 +88,7 @@ There are a number of ways to capture a computational environment, here we will 
 
 [yaml tutorial](https://gettaurus.org/docs/YAMLTutorial/) **[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)**
 
-YAML is an indentation-based markup language which aims to be both easy to read and easy to write. Many projects use it because of its readability, simplicity and good support for many programming languages.
+YAML is an indentation-based markup language which aims to be both easy to read and easy to write. Many projects use it for configuration files because of its readability, simplicity and good support for many programming languages. It can be used for a great many things including defining computational environments, and is well integrated with [Travis](https://travis-ci.org/) which is discussed in the chapter on continuous integration.
 
 YAML document consists of the following elements.
 
@@ -103,6 +102,8 @@ boolean-value: true
 # strings can be both 'single-quoted` and "double-quoted"
 string-value: 'Bonjour'
 ```
+
+Note here that comments can be added by preceding them with a `#`.
 
 YAML syntax also allows unquoted string values for convenience reasons:
 ```
@@ -151,6 +152,8 @@ Due to the format aiming to be easy to write and read, there're some ambiguities
   Generally, you should quote all strings that contain any of the following characters: `[] {} : > |`.
 - **Tabs versus spaces for indentation:** do *not* use tabs for indentation. While resulting YAML can still be valid, this can be a source of many subtle
 parsing errors. Just use spaces.
+
+#### How to use YAML to define computational environments
 
 ### Images and containers
 
