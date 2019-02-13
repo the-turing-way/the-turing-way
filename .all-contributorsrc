@@ -19,6 +19,18 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "rosiehigman",
+      "name": "RosieHigman",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/15738325?v=4",
+      "profile": "https://github.com/rosiehigman",
+      "contributions": [
+        "question",
+        "doc",
+        "eventOrganizing",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7
