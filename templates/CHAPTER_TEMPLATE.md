@@ -4,7 +4,7 @@
 > other chapters that should have been read before or content you should be familiar with before you read this
 
 | Prerequisite | Importance | Notes |
-| -------------|:----------:|------:|
+| -------------|----------|------|
 | Chapter/topic | How important it is | Any notes |
 
 ## Summary
