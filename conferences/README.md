@@ -8,6 +8,6 @@ THANK YOU to every member of the community who spreads the word! :sparkling_hear
 
 | Event | Date | Abstract | Presentation |
 | ----- | ---- | -------- | ------------ |
-| Cambridge Psychiatry PI Day | 30 January 2019 | - | [CambridgePsychiatry_PIDay_20190130.pptx](presentations/CambridgePsychiatry_PIDay_20190130/CambridgePsychiatry_PIDay_20190130.pptx) [CambridgePsychiatry_PIDay_20190130.pdf](presentations/CambridgePsychiatry_PIDay_20190130/CambridgePsychiatry_PIDay_20190130.pdf)
+| Cambridge Psychiatry PI Day | 30 January 2019 | - | [Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019.pptx](presentations/CambridgePsychiatry_PIDay_20190130/Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019.pptx) [Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019.pdf](presentations/CambridgePsychiatry_PIDay_20190130/Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019.pdf)
 | [UKRI Cloud Workshop](https://cloud.ac.uk/workshops/feb2019/) | 12 February 2019 | [UKRI-cloud-workshop-abstract.md](abstracts/UKRI-cloud-workshop-abstract.md) | [UKRI_cloud_2019-02-12.md](presentations/UKRI_cloud_2019-02-12/UKRI_cloud_demo_2019-02-12.md) 
 
