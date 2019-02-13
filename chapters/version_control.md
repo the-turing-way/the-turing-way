@@ -2,7 +2,9 @@
 
 ## Prerequisites / recommended skill level
 
-Some experience of working via the command line is extremely helpful but not a necessity as it is possible to use version control through desktop and web browser based tools. These tools are discussed towards the end of this chapter, but the general principles and best practice discussed in the preceding sections are relevant regardless of whether the command line or a GUI is used.  
+| Prerequisite | Importance | Notes |
+| -------------|:----------:|------:|
+|Some experience of working via the command line | Extremely helpful but not a necessity as it is possible to use version control through desktop and web browser based tools | Desktop/web based tools are discussed towards the end of this chapter, but the general principles and best practice discussed in the preceding sections are relevant regardless of whether the command line or a GUI is used. |
 
 Recommended skill level: beginner - intermediate. Version control has a great deal of useful features, but total mastery is not necessary to achieve a great deal with it. Even a beginner utilising a few of the simplest features well can save themselves a great deal of time and drastically improve the reproducibility of their work. Naturally, we encourage readers to make use of the entire chapter, but readers should not be discouraged from using some tools they feel comfortable with if they are not comfortable with *all* the tools available.
 
