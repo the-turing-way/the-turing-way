@@ -28,9 +28,9 @@ Fixes #<NUM> <!-- (e.g. Fixes #58.) -->
 
 <!-- This section is particularly useful if you have a pull request that is
 still in development. You can guide the reviews to focus on the parts that are
-ready for their comments. -->
+ready for their comments. 
 
-<!-- We suggest using bullets (indicated by * or -) and filled checkboxes [x] here -->
+We suggest using bullets (indicated by * or -) and filled checkboxes [x] here -->
 
 - [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
 - [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
