@@ -25,6 +25,7 @@ The following mailing lists have been identified as relevant to the project.
 - hacker-within@lists.bham.ac.uk
 
 ##### Sheffield
+- Sheffield RSE Mailing list: RSE-group@sheffield.ac.uk
 
 ##### Manchester
 - Research IT newsletter
@@ -58,6 +59,7 @@ All The Turing Way project team members are encouraged to engage with local rele
 - Academic Programmers SIG
 
 ### Sheffield
+
 
 ### Manchester
 - TBC - following up a few leads
