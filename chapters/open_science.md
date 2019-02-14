@@ -1,5 +1,13 @@
 # Open Science
 
+## Prerequisites / recommended skill level
+
+| Prerequisite | Importance | Notes |
+| -------------|----------|------|
+| Experience with version control | Helpful | Experience with GitHub is particularly useful |
+
+Recommended skill level: low.
+
 ## Summary
 
 Open Science aims to transform science by making research more reproducible, transparent, re-usable, collaborative, accountable and closer to society. It pushes for change in the way that research is carried out and disseminated by digital tools. One definition of Open Science, as given by the OECD [is](https://www.fct.pt/dsi/docs/Making_Open_Science_a_Reality.pdf) the practice of making "the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction”. In order to achieve this openness in science, each element of the research process should:
@@ -45,9 +53,6 @@ Open practices also benefits the researchers that propagate them. For example th
 | The relative citation rate (OA: non-OA) in 19 fields of research. This rate is defined as the mean citation rate of OA articles divided by the mean citation rate of non-OA articles. Multiple points for the same discipline indicate different estimates from the same study, or estimates from several studies. References by discipline: Agricultural studies (Kousha and Abdoli, 2010); Physics/astronomy (Gentil-Beccot et al., 2010; Harnad and Brody, 2004; Metcalfe, 2006); Medicine (Sahu et al., 2005; Xu et al., 2011); Computer science (Lawrence, 2001); Sociology/social sciences (Hajjem et al., 2006; Norris et al., 2008; Xu et al., 2011); Psychology (Hajjem et al., 2006); Political science (Hajjem et al., 2006; Antelman, 2004; Atchison and Bull, 2015); Management (Hajjem et al., 2006); Law (Donovan et al., 2015; Hajjem et al., 2006); Economics (Hajjem et al., 2006; McCabe and Snyder, 2015; Norris et al., 2008; Wohlrabe, 2014); Mathematics (Antelman, 2004; Davis and Fromerth, 2007; Norris et al., 2008); Health (Hajjem et al., 2006); Engineering (Antelman, 2004; Koler-Povh et al., 2014); Philosophy (Antelman, 2004); Education (Hajjem et al., 2006; Zawacki-Richter et al., 2010); Business (Hajjem et al., 2006; McCabe and Snyder, 2015); Communication studies (Zhang, 2006); Ecology (McCabe and Snyder, 2014; Norris et al., 2008); Biology (Frandsen, 2009b; Hajjem et al., 2006; McCabe and Snyder, 2014). |
 
 Another benefit of openness is that while research collaborations are essential to advancing knowledge, identifying and connecting with appropriate collaborators is not trivial. Open practices can make it easier for researchers to connect with one another by increasing the discoverability and visibility of one’s work, facilitating rapid access to novel data and software resources, and creating new opportunities to interact with and contribute to ongoing communal projects.
-
-## Prerequisites / recommended skill level
-It is useful, but not necessary, to be familiar with version control and particularly the version control chapter's section on GitHub.
 
 ## Open data
 
