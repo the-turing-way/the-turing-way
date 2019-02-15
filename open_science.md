@@ -16,11 +16,11 @@ Open science aims to transform science by making research more reproducible, tra
 - Be reusable: research outputs need to be licenced appropriately so that prospective users know clearly any limitations on re-use
 - Be transparent and have appropriate metadata to provide clear statements of how research output was produced and what it contains
 
-The research process typically has the following form: data is collected, sometimes using specific hardware, it is then analysed (usually using software), and the results of the research are then published. Throughout the process it is good practice for researchers to document their working in notebooks. Open science aims to make each of these elements open:
+The research process typically has the following form: data is collected, it is then analysed (usually using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process it is good practice for researchers to document their working in notebooks. Open science aims to make each of these elements open:
 
 - Open data - documenting and sharing research data openly for re-use
-- Open hardware - documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available
 - Open source software - documenting research code and routines, and making them freely accessible and available
+- Open hardware - documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available
 - Open access - making all published outputs freely accessible for maximum use and impact
 - Open notebooks - an emerging practice, documenting and sharing the experimental process of trial and error
 
@@ -114,65 +114,6 @@ Preserving privacy may still be possible if partial or generalised datasets are 
 In many cases companies are understandably unwilling to publish much of their data. The reasoning goes that if commercially sensitive information of a company is disclosed, it will damage the company’s commercial interests and undermine competitiveness. This is based on the thinking that in competitive markets, innovation will only occur with some protection of information: if a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources. The result is that no-one would innovate in the first place. Similarly, governments are often unwilling to publish data that relates to issues such as national security due to public safety concerns.
 
 In such cases it may not be possible to make data open, or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy.
-
-## Open hardware
-
-"Open hardware," or "open source hardware," refers to the design specifications of a physical object which are licenced in such a way that said object can be studied, modified, created, and distributed by anyone. Like open source software, the "source code" for open hardware—schematics, blueprints, logic designs, Computer Aided Design (CAD) drawings or files, etc.—is available for modification or enhancement by anyone. Users with access to the tools that can read and manipulate these source files can update and improve the physical device and the code that underlies it, and, if they wish, proceed to share such modifications.
-
-Open hardware's source code should be readily accessible, and its components are preferably easy for anyone to obtain. Essentially, open hardware eliminates common roadblocks to the design and manufacture of physical goods; it provides as many people as possible the ability to construct, remix, and share their knowledge of hardware design and function.
-
-It's worth noting that open hardware does not necessary mean free. Units may still be sold (by the original designer or by others), but users *could* build them from scratch. Whether or not they choose to buy the unit, users can still get a full understanding of how the hardware works from open documentation, designs, etc.  
-
-### Why open hardware?
-
-Open hardware allows researchers to understand exactly what their equipment is doing, how it's doing it, and to verify that is doing it correctly rather than having to extend a degree of trust. Being aware of how the equipment that generates a result works puts researchers on a firmer footing in assessing those results. Open hardware also makes research more reproducible as researchers looking to verify results can do the same thing.
-
-Other benefits of open hardware include protection against lock-in. Proprietary software for core infrastructure increases the risk of becoming locked in by the vendor or technology. If this happens, researchers can be at the mercy of vendors' price increases and experience a lack of flexibility they can't easily and readily escape. Further, if researchers want to modify their equipment to better suit their needs it is much easier to do so (and may only be legal) in the case of open source hardware.
-
-### Elements of an open source hardware project
-
-Here are some files that you should consider sharing when publishing your open source hardware project. You are not required to post them all, but the more you share the more the community benefits. There is a lot of crossover here with files to include in open source software projects.
-
-- [] Overview / Introduction. Your open source hardware project should include a general description of the hardware’s identity and purpose, written as much as possible for a general audience. That is, explain what the project is and what it’s for before you get into the technical details. A good photo or rendering can help a lot here.
-- [] A licence. This grants legal permission to anyone to re-use, modify and distribute your designs and hardware acoring to the terms stated e.g. they must acknowledge your contribution.  
-- [] Original Design Files. These are the original source files that you would use to make modifications to the hardware’s design. The act of sharing these files is the core practice of open source hardware.
-  - [] Ideally, your open source hardware project would be designed using a free and open source software application, to maximize the ability of others to view and edit it. For better or worse however, hardware design files are often created in proprietary programs and stored in proprietary formats. It is still essential to share these original design files; they constitute the original “source code” for the hardware. They are the very files that someone will need in order to contribute changes to a given design.
-  - [] Try to make your design files easy for someone else to understand. Organize them in a logical way; comment complex aspects; note any unusual manufacturing procedures; etc.
-  - [] Examples of Original Design Files include 2D drawings and computer-aided design (CAD) files.
-- [] Auxiliary Design Files. Beyond the original design files, it is often helpful to share your design in additional, more accessible formats. For example, best practice open sourcing a CAD design is to share the design not just in its native file format, but also in a range of interchange and export formats that can be opened or imported by other CAD programs.
-  - [] It is also helpful to provide ready-to-view outputs that can easily be viewed by end users who wish to understand (but not necessarily modify) the design. For example, a PDF of a circuit board schematic. These auxiliary design files allow people to study the design of the hardware, and sometimes even fabricate it, even without access to particular proprietary software packages. However, note that auxiliary design files are never recommended as substitutes for original design files.
-- [] Additional technical drawings in their original formats, if required for fabrication of the device, in a commonly-readable format such as PDF.
-- [] Bill Of Materials. While it might be possible to infer from the design files which parts make up a piece of hardware, it is important to provide a separate bill of materials. This can be a spreadsheet (e.g. CSV, XLS, Google Doc) or simply a text file with one part per line.
-  - [] Useful things to include in the bill of materials are part numbers, suppliers, costs, and a short description of each part. Make it easy to tell which item in the bill of materials corresponds to which component in your design files: use matching reference designators in both places, provide a diagram indicating which part goes where, or otherwise explain the correspondence.
-- [] Software and Firmware. You should share any code or firmware required to operate your hardware. This will allow others to use it with their hardware or modify it along with their modifications to your hardware. Document the process required to build your software, including links to any dependencies (e.g. third-party libraries or tools). In addition, it’s helpful to provide an overview of the state of the software (e.g. “stable” or “beta” or “barely-working hack”).
-- [] Photos. Photos help people understand what your project is and how to put it together. It’s good to publish photographs from multiple viewpoints and at various stages of assembly. If you don’t have photos, posting 3D renderings of your design is a good alternative. Either way, it’s good to provide captions or text that explain what’s shown in each image and why’s it’s useful.
-- [] Instructions and Other Explanations. In addition to the design files themselves, there are a variety of explanations that are invaluable in helping others to make or modify your hardware:
-  - [] Making the hardware. To help others make and modify your hardware design, you should provide instructions for going from your design files to the working physical hardware. As part of the instructions, it’s helpful to link to datasheets for the components / parts of your hardware and to list the tools required to assemble it. If the design requires specialized tools, tell people where to get them.
-  - [] Using the hardware. Once someone has made the hardware, they need to know how to use it. Provide instructions that explain what it does, how to set it up, and how to interact with it.
-  - [] Design rationale. If someone wants to modify your design, they’ll want to know why it is the way it is. Explain the overall plan of the hardware’s design and why you made the specific choices you did.
-  - [] Keep in mind that these instructions may be read by someone whose expertise or training is different from yours. As much as possible, try to write to a general audience, and check your instructions for industry jargon, be explicit about what you assume the user knows, etc.
-  - [] The instructions could be in a variety of formats, like a wiki, text file, Google Doc, or PDF. Remember, though, that others might want to modify your instructions as they modify your hardware design, so it’s good to provide the original editable files for your documentation, not just output formats like PDF.
-
-### Open source hardware processes and practices
-
-#### Designing your hardware
-
-If you’re planning to open source a particular piece of hardware, following certain best practices in its design will make it easier for others to make and modify the hardware:
-
-Use free and open source software design (CAD) tools where possible. If that’s not feasible, try to use low-cost and/or widely-used software packages.
-
-Use standard and widely-available components, materials, and production processes. Try to avoid parts that aren’t available to individual customers or processes that require expensive setup costs.
-
-#### Hosting your design files
-
-A basic way of sharing your files is with a zip file on your website. While this is a great start, it makes it difficult for others to follow your progress or to contribute improvements. Using an online source-code repository (like GitHub, GitLab, or NotaBug) may be a better place to store your open source hardware projects.
-
-#### Distributing open source hardware
-
-- Provide links to the source (original design files) for your hardware on the product itself, its packaging, or its documentation.
-- Make it easy to find the source (original design files) from the website for a product.
-- Label the hardware with a version number or release date so that people can match the physical object with the corresponding version of its design files.
-- In general, clearly indicate which parts of a product are open source (and which aren’t).
 
 ## Open source software
 
@@ -313,6 +254,66 @@ A common misconception about contributing to open source is that you need to con
     - Going through open issues and suggesting closing old ones
     - Ask clarifying questions on recently opened issues to move the discussion forward
 
+
+## Open hardware
+
+"Open hardware," or "open source hardware," refers to the design specifications of a physical object which are licenced in such a way that said object can be studied, modified, created, and distributed by anyone. Like open source software, the "source code" for open hardware—schematics, blueprints, logic designs, Computer Aided Design (CAD) drawings or files, etc.—is available for modification or enhancement by anyone. Users with access to the tools that can read and manipulate these source files can update and improve the physical device and the code that underlies it, and, if they wish, proceed to share such modifications.
+
+Open hardware's source code should be readily accessible, and its components are preferably easy for anyone to obtain. Essentially, open hardware eliminates common roadblocks to the design and manufacture of physical goods; it provides as many people as possible the ability to construct, remix, and share their knowledge of hardware design and function.
+
+It's worth noting that open hardware does not necessary mean free. Units may still be sold (by the original designer or by others), but users *could* build them from scratch. Whether or not they choose to buy the unit, users can still get a full understanding of how the hardware works from open documentation, designs, etc.  
+
+### Why open hardware?
+
+Open hardware allows researchers to understand exactly what their equipment is doing, how it's doing it, and to verify that is doing it correctly rather than having to extend a degree of trust. Being aware of how the equipment that generates a result works puts researchers on a firmer footing in assessing those results. Open hardware also makes research more reproducible as researchers looking to verify results can do the same thing.
+
+Other benefits of open hardware include protection against lock-in. Proprietary software for core infrastructure increases the risk of becoming locked in by the vendor or technology. If this happens, researchers can be at the mercy of vendors' price increases and experience a lack of flexibility they can't easily and readily escape. Further, if researchers want to modify their equipment to better suit their needs it is much easier to do so (and may only be legal) in the case of open source hardware.
+
+### Elements of an open source hardware project
+
+Here are some files that you should consider sharing when publishing your open source hardware project. You are not required to post them all, but the more you share the more the community benefits. There is a lot of crossover here with files to include in open source software projects.
+
+- [] Overview / Introduction. Your open source hardware project should include a general description of the hardware’s identity and purpose, written as much as possible for a general audience. That is, explain what the project is and what it’s for before you get into the technical details. A good photo or rendering can help a lot here.
+- [] A licence. This grants legal permission to anyone to re-use, modify and distribute your designs and hardware acoring to the terms stated e.g. they must acknowledge your contribution.  
+- [] Original Design Files. These are the original source files that you would use to make modifications to the hardware’s design. The act of sharing these files is the core practice of open source hardware.
+  - [] Ideally, your open source hardware project would be designed using a free and open source software application, to maximize the ability of others to view and edit it. For better or worse however, hardware design files are often created in proprietary programs and stored in proprietary formats. It is still essential to share these original design files; they constitute the original “source code” for the hardware. They are the very files that someone will need in order to contribute changes to a given design.
+  - [] Try to make your design files easy for someone else to understand. Organize them in a logical way; comment complex aspects; note any unusual manufacturing procedures; etc.
+  - [] Examples of Original Design Files include 2D drawings and computer-aided design (CAD) files.
+- [] Auxiliary Design Files. Beyond the original design files, it is often helpful to share your design in additional, more accessible formats. For example, best practice open sourcing a CAD design is to share the design not just in its native file format, but also in a range of interchange and export formats that can be opened or imported by other CAD programs.
+  - [] It is also helpful to provide ready-to-view outputs that can easily be viewed by end users who wish to understand (but not necessarily modify) the design. For example, a PDF of a circuit board schematic. These auxiliary design files allow people to study the design of the hardware, and sometimes even fabricate it, even without access to particular proprietary software packages. However, note that auxiliary design files are never recommended as substitutes for original design files.
+- [] Additional technical drawings in their original formats, if required for fabrication of the device, in a commonly-readable format such as PDF.
+- [] Bill Of Materials. While it might be possible to infer from the design files which parts make up a piece of hardware, it is important to provide a separate bill of materials. This can be a spreadsheet (e.g. CSV, XLS, Google Doc) or simply a text file with one part per line.
+  - [] Useful things to include in the bill of materials are part numbers, suppliers, costs, and a short description of each part. Make it easy to tell which item in the bill of materials corresponds to which component in your design files: use matching reference designators in both places, provide a diagram indicating which part goes where, or otherwise explain the correspondence.
+- [] Software and Firmware. You should share any code or firmware required to operate your hardware. This will allow others to use it with their hardware or modify it along with their modifications to your hardware. Document the process required to build your software, including links to any dependencies (e.g. third-party libraries or tools). In addition, it’s helpful to provide an overview of the state of the software (e.g. “stable” or “beta” or “barely-working hack”).
+- [] Photos. Photos help people understand what your project is and how to put it together. It’s good to publish photographs from multiple viewpoints and at various stages of assembly. If you don’t have photos, posting 3D renderings of your design is a good alternative. Either way, it’s good to provide captions or text that explain what’s shown in each image and why’s it’s useful.
+- [] Instructions and Other Explanations. In addition to the design files themselves, there are a variety of explanations that are invaluable in helping others to make or modify your hardware:
+  - [] Making the hardware. To help others make and modify your hardware design, you should provide instructions for going from your design files to the working physical hardware. As part of the instructions, it’s helpful to link to datasheets for the components / parts of your hardware and to list the tools required to assemble it. If the design requires specialized tools, tell people where to get them.
+  - [] Using the hardware. Once someone has made the hardware, they need to know how to use it. Provide instructions that explain what it does, how to set it up, and how to interact with it.
+  - [] Design rationale. If someone wants to modify your design, they’ll want to know why it is the way it is. Explain the overall plan of the hardware’s design and why you made the specific choices you did.
+  - [] Keep in mind that these instructions may be read by someone whose expertise or training is different from yours. As much as possible, try to write to a general audience, and check your instructions for industry jargon, be explicit about what you assume the user knows, etc.
+  - [] The instructions could be in a variety of formats, like a wiki, text file, Google Doc, or PDF. Remember, though, that others might want to modify your instructions as they modify your hardware design, so it’s good to provide the original editable files for your documentation, not just output formats like PDF.
+
+### Open source hardware processes and practices
+
+#### Designing your hardware
+
+If you’re planning to open source a particular piece of hardware, following certain best practices in its design will make it easier for others to make and modify the hardware:
+
+Use free and open source software design (CAD) tools where possible. If that’s not feasible, try to use low-cost and/or widely-used software packages.
+
+Use standard and widely-available components, materials, and production processes. Try to avoid parts that aren’t available to individual customers or processes that require expensive setup costs.
+
+#### Hosting your design files
+
+A basic way of sharing your files is with a zip file on your website. While this is a great start, it makes it difficult for others to follow your progress or to contribute improvements. Using an online source-code repository (like GitHub, GitLab, or NotaBug) may be a better place to store your open source hardware projects.
+
+#### Distributing open source hardware
+
+- Provide links to the source (original design files) for your hardware on the product itself, its packaging, or its documentation.
+- Make it easy to find the source (original design files) from the website for a product.
+- Label the hardware with a version number or release date so that people can match the physical object with the corresponding version of its design files.
+- In general, clearly indicate which parts of a product are open source (and which aren’t).
+
 ## Open access
 
 ### What is open access?
@@ -358,7 +359,7 @@ Consider submitting your work to a journal that is open access. When doing this 
 
 Electronic Lab Notebooks (ELNs) enable researchers to organize and store experimental procedures, protocols, plans, notes, data, and even unfiltered interpretations using their computer or mobile device. They are a digital analogue to the paper notebook most researchers keep. ELNs can offer several advantages over the traditional paper notebook in documenting research during the active phase of a project, including searchability within and across notebooks, secure storage with multiple redundancies, remote access to notebooks, and the ability to easily share notebooks among team members and collaborators.
 
-Open notebook research is simply the practice of making such notebooks openly available, usually online. Some researchers choose to keep thir notebooks open from the very beginning of their projects. Rather than wait months, even years, to share their research through journal publication as is the current practice, this allows researchers to post their experimental data and protocols online and in real-time. Sharing research in this open and timely manner helps to reduce duplication of work, helps foster new collaborations and cultivates a more open dialogue with others. It also helps researchers avoid making exploring dead ends and making mistakes that have already been covered by their colleague, but went unpublished because of lack of scientific interest.
+Open notebook research is simply the practice of making such notebooks openly available, usually online. Some researchers choose to keep their notebooks open from the very beginning of their projects. Rather than wait months, even years, to share their research through journal publication as is the current practice, this allows researchers to post their experimental data and protocols online and in real-time. Sharing research in this open and timely manner helps to reduce duplication of work, helps foster new collaborations and cultivates a more open dialogue with others. It also helps researchers avoid making exploring dead ends and making mistakes that have already been covered by their colleague, but went unpublished because of lack of scientific interest.
 
 Open notebooks have the further benefit of increasing the quality of scientific outputs by forcing researchers to be careful, thorough, and explicit. Making research open has the added benefit of increasing the likelihood that any errors made in an investigation will be spotted quickly, instead of down the line. Immediate fixes will have much less impact on a research project, which will save a research time, the lab money, and pride.
 
@@ -366,25 +367,25 @@ Ideally, every scientist would maintain an open notebook in real-time which woul
 
 ## Open scholarship
 
-Open science and its subcomponents fits under the umbrella of a broader concept- open scholarship.
+Open science and its subcomponents fit under the umbrella of a broader concept- open scholarship.
 
 ![open_umbrella](../figures/open_umbrella.png)
 
 ### Open educational resources
 
-Open Educational Resources (OER) are teaching and learning materials that can be freely used and reused for learning and/or teaching at no cost, and without needing to ask permission. Examples are courses- including MOOCs (Massive Online Open Course), lectures, teaching materials, assignments and various other resources. OERs are available in many different formats compatible with online usage most obviously text, images, audio and video. Anyone with internet access can access and use OERs; access is not dependent on location or membership of a particular institution.
+Open Educational Resources (OER) are teaching and learning materials that can be freely used and reused for learning and/or teaching at no cost, and without needing to ask permission. Examples are courses- including MOOCs (Massive Online Open Course), lectures, teaching materials, assignments and various other resources. OERs are available in many different formats compatible with online usage, most obviously text, images, audio and video. Anyone with internet access can access and use OERs; access is not dependent on location or membership of a particular institution.
 
 Unlike copyrighted resources, OER have been authored or created by an individual or organization that chooses to retain few, if any, ownership rights. In some cases, that means anyone can download a resource and share it with colleagues and students. In other cases, this may go further and enable people to edit resources and then re-post them as a remixed work. How do you know your options? OER often have a Creative Commons licence or other permission to let you know how the material may be used, reused, adapted, and shared.
 
 Fully open OERs comply with the 5 Rs:
 
-– Retain: the right to make, own, and control copies of the content
-– Reuse: the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
-– Revise: the right to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)
-– Remix: the right to combine the original or revised content with other open content to create something new (e.g., incorporate the content into a mashup)
-– Redistribute: the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)
+- Retain: the right to make, own, and control copies of the content
+- Reuse: the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
+- Revise: the right to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)
+- Remix: the right to combine the original or revised content with other open content to create something new (e.g., incorporate the content into a mashup)
+- Redistribute: the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)
 
-Researchers generate a great deal of educational resources in the course of teaching students and each other (at workshops, for example). By making these openly available, for example in the [open educational resource commons](https://www.oercommons.org/) the wider community can benefit from them in three main ways:
+Researchers generate a great deal of educational resources in the course of teaching students and each other (at workshops, for example). By making these openly available, for example in the [open educational resource commons](https://www.oercommons.org/), the wider community can benefit from them in three main ways:
 
 1. Most obviously, the community can use the materials to learn about the material they cover
 2. Sharing resources reduces duplication of effort. If an educator needs materials for teaching and such materials already exist openly then they need not make their own from scratch, saving time.
@@ -398,11 +399,9 @@ Open scholarship means open to *everyone* without discrimination based on factor
 
 ### Citizen science
 
-[allience](https://www.citizenscience.org/) **(CC BY 4.0)**
-
 Citizen science is the involvement of the public in scientific research – whether community-driven research or global investigations, the Oxford English Dictionary recently defined it as: "scientific work undertaken by members of the general public, often in collaboration with or under the direction of professional scientists and scientific institutions." Citizen science offers the power of science to everyone, and the power of everyone to science.
 
-By allowing members of the public to contribute to scientific research citizen science helps engage and invest the wider world in science. It also benefits researchers by offering manpower that simply wouldn't be accessible otherwise. Examples of this include [finding](https://citizensciencegames.com/games/eterna/) ways of folding molecules, and [classifying](https://www.zooniverse.org/) different types of galaxies.
+By allowing members of the public to contribute to scientific research, citizen science helps engage and invest the wider world in science. It also benefits researchers by offering manpower that simply wouldn't be accessible otherwise. Examples of this include [finding](https://citizensciencegames.com/games/eterna/) ways of folding molecules, and [classifying](https://www.zooniverse.org/) different types of galaxies.
 
 ## Checklist
 
@@ -413,19 +412,19 @@ By allowing members of the public to contribute to scientific research citizen s
 - [ ] Identify a relevant, easily discoverable repository or repositories to host your data, and upload it there
 - [ ] Assign your data a persistent identifier such as a DOI.
 
+### Open source software
+
+- [ ] Put your code in a freely accessible repository
+- [ ] Include a licence granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate licence for your project.
+- [ ] Include a readme file containing useful information about a project such as what it is, how to use/install it and how to run any tests.
+- [ ] If you want others to collaborate on the project include contribution guidelines.
+
 ### Open hardware
 
 - [ ] Use open hardware where practical
 - [ ] Make detailed documentation and designs for any hardware you develop openly available
 - [ ] Include a licence granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate licence for your project.
 - [ ] Include a readme file containing useful information about a project such as what it is, materials used, etc.
-
-### Open source software
-
-- [ ] Put your code in a freely accessible repository
-- [ ] Include a licence granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate licence for your project.
-- [ ] Include a readme file containing useful information about a project such as what it is, how to use/install it and how to run any tests.
-- [ ] If you want others to collaborate on the project include contribution guidelines instructing them on how to go about that and a code of conduct specifying standards of behaviour.
 
 ### Open access
 
@@ -439,11 +438,13 @@ By allowing members of the public to contribute to scientific research citizen s
 
 ## What to learn next
 
-If you haven't had a chance already take a look at the chapter on version control, particularly the sections on GitHub in the latter half.
+If you haven't had a chance already, take a look at the chapter on version control, particularly the sections on GitHub in the latter half.
 
 ## Further reading
 
-[This](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) book on open science has a great deal of interesting information on open science. For information specific to open source software [this](https://opensource.guide/) is a good place to look. For more information on DOIs and citing resources look [here](http://www.doi.org/index.html).
+[This](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) book on open science has a great deal of interesting information on open science. For information specific to open source software [this](https://opensource.guide/) is a good place to look. For more information on DOIs and citing resources look [here](http://www.doi.org/index.html). If you want to take a look at an active open source project this textbook *is* one. You can be found on GitHub [here](https://github.com/alan-turing-institute/the-turing-way) and/or take a look at the project [website](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
+
+project
 
 ## Definitions/glossary
 
@@ -461,7 +462,7 @@ If you haven't had a chance already take a look at the chapter on version contro
 
 **Metadata:** Data used to describe other data. For example (35, 33, 27, 30, 33) is data but the units (miles per hour) and the fact these are the speeds of cars on a certain stretch of road is metadata.
 
-**Open access publishing (gratis):** The practise of making research publications available to anyone to read without charge.
+**Open access publishing (gratis):** The practice of making research publications available to anyone to read without charge.
 
 **Open access publishing (libre):** Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users the right to copy, reuse, and remix the publication.
 
@@ -512,3 +513,4 @@ If you haven't had a chance already take a look at the chapter on version contro
 - [26.](https://openlabnotebooks.org/open-science-at-sgc/) **CC BY 4.0**
 - [27.](http://onsnetwork.org/) **Attribution 3.0 Unported (CC BY 3.0)**
 - [28.](https://libraries.mit.edu/data-management/store/electronic-lab-notebooks/) **CC BY-NC 2.0**
+- [29.](https://www.citizenscience.org/) **(CC BY 4.0)**
