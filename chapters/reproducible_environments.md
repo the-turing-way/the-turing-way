@@ -22,6 +22,8 @@ Computational environment is (in broad terms) the system setup where a program i
 
 ## How this will help you/ why this is useful
 
+The pervasive use of computation for scientific discovery has ushered in a new type of scientific research process. Researchers, irrespective of scientific domain, routinely rely on large amounts of data, specialized computational infrastructure, and sophisticated analysis processes from which to test hypotheses and derive results. While scholarly research has evolved significantly over the past decade, the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination – the scholarly publication –is largely unchanged since the advent of the scientific journal in the 1660’s. This disparity has led many to argue that the scholarly publication is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of the need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying analysis and environment that produced the findings.
+
 Let's go though an example of why computational environments are important. Say I have a very simple python script:
 
 ```
@@ -36,7 +38,9 @@ If such bugs can impact a simple script like this you can only imagine how many 
 
 This chapter will describe how to capture, preserve and share computational environments along with code to ensure research is reproducible.
 
-## Why your computational environment (often kind of an afterthought) is actually really important for reproducibility.
+
+
+
 
 - Need a section on semantic versioning: https://semver.org.
 - As always prevention is better than a cure! If you can install the specific version at the time of running and not up date it.
@@ -45,8 +49,6 @@ This chapter will describe how to capture, preserve and share computational envi
   - install packages that require specific versions of other packages, dependancies.
   - Useful to have different environments for different projects so that they don't go out of date! https://conda.io/docs/user-guide/tasks/manage-environments.html
 
-
-The pervasive use of computation for scientific discovery has ushered in a new type of scientific research process. Researchers, irrespective of scientific domain, routinely rely on large amounts of data, specialized computational infrastructure, and sophisticated analysis processes from which to test hypotheses and derive results. While scholarly research has evolved significantly over the past decade, the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination – the scholarly publication –is largely unchanged since the advent of the scientific journal in the 1660’s. This disparity has led many to argue that the scholarly publication is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of the need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying analysis that produced the findings.
 
 
 
