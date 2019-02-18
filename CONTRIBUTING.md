@@ -27,7 +27,14 @@ The Turing Way community We therefore require that all contributions **adhere to
 
 ## Inclusivity
 
-This project aims to be inclusive to people from all walks of life and to all research fields. This should be taken into account in contributions.  
+This project aims to be inclusive to people from all walks of life and to all research fields.
+This should be taken into account in contributions.
+
+The following are examples of inclusive actions that we encourage from contributors to the Turing Way:
+
+* Refer to "open research" rather than "open science" so that we do not exclude members of the humanities and social sciences from our community.
+* Make sure colour pallettes are accessible to colour-blind readers and contributors.
+  Here's a useful blog post on [tips for designing scientific figures for color blind readers](http://www.somersault1824.com/tips-for-designing-scientific-figures-for-color-blind-readers) by Luk at [Somersulat 1824](http://www.somersault1824.com).
 
 ## Get in touch
 
