@@ -14,7 +14,7 @@ Recommended skill level: intermediate-advanced.
 
 ### What is a computational environment?
 
-Computational environment is (in broad terms) the system setup where a program is being run. This includes features of hardware (e.g. numbers of cores in any CPUs) and features of software (e.g. what programming languages are installed, which supporting packages/versions of those packages are included, what other pieces of software are installed and how are they configured).
+Computational environment is (in broad terms) the system setup where a program is being run. This includes features of hardware (e.g. numbers of cores in any CPUs) and features of software (e.g. the operating system, what programming languages are installed, which supporting packages/versions of those packages are included, what other pieces of software are installed and how are they configured).
 
 - Local computational environments
   - Python `virtualenv` and `venv`, `conda` environments
@@ -22,7 +22,13 @@ Computational environment is (in broad terms) the system setup where a program i
 
   - Need a section on semantic versioning: https://semver.org.
 
-Research that is done in a specific enviromennt (meaning using a particular operating system, set of software, and library of functions, to work with some data to produce a particular output).
+Many pieces of software define their different versions via [semantic versioning](https://semver.org). In this system three numbers, e.g 2.12.4 are used to define each version of a piece of software. When a change is made to the software then its version is incremented. These three numbers follow the pattern MAJOR.MINOR.PATCH, and are incremented as follows:
+
+- MAJOR: significant changes.
+- MINOR: to add functionality.
+- PATCH: for bug fixes.
+
+Materials used: [semantic versioning](https://semver.org)
 
 ## How this will help you/ why this is useful
 
