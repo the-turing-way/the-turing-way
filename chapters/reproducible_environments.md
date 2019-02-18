@@ -36,7 +36,6 @@ You should have some experience of working on the command line, but there a no o
 ## Why your computational environment (often kind of an afterthought) is actually really important for reproducibility.
 
 - Need a section on semantic versioning: https://semver.org.
-- Difference between major, minor and patch upgrades, commonly named as: MAJOR.MINOR.PATCH
 - As always prevention is better than a cure! If you can install the specific version at the time of running and not up date it.
   - requirements.txt say install e.g. matplotlib
   - Breaks because don't have the right version of matplotlib
@@ -44,7 +43,7 @@ You should have some experience of working on the command line, but there a no o
   - Useful to have different environments for different projects so that they don't go out of date! https://conda.io/docs/user-guide/tasks/manage-environments.html
 
 
-The pervasive use of computation for scientific discovery has ushered in a new type of scientific research process. Researchers, irrespective of scientific domain, routinely rely on large amounts of data, specialized computational infrastructure, and sophisticated analysis processes from which to test hypotheses and derive results. While scholarly research has evolved significantly over the past decade, the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination – the scholarly publication –is largely unchanged since the advent of the scientific journal in the 1660’s. This disparity has led many to argue that the scholarly publication is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of he need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying analysis that produced the findings.
+The pervasive use of computation for scientific discovery has ushered in a new type of scientific research process. Researchers, irrespective of scientific domain, routinely rely on large amounts of data, specialized computational infrastructure, and sophisticated analysis processes from which to test hypotheses and derive results. While scholarly research has evolved significantly over the past decade, the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination – the scholarly publication –is largely unchanged since the advent of the scientific journal in the 1660’s. This disparity has led many to argue that the scholarly publication is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of the need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying analysis that produced the findings.
 
 
 
