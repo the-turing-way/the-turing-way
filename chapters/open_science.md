@@ -418,7 +418,6 @@ By allowing members of the public to contribute to scientific research, citizen 
 - [ ] Include a licence granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate licence for your project.
 - [ ] Include a readme file containing useful information about a project such as what it is, how to use/install it and how to run any tests.
 - [ ] If you want others to collaborate on the project include contribution guidelines.
-
 ### Open hardware
 
 - [ ] Use open hardware where practical
@@ -442,7 +441,7 @@ If you haven't had a chance already, take a look at the chapter on version contr
 
 ## Further reading
 
-[This](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) book on open science has a great deal of interesting information. For information specific to open source software [this](https://opensource.guide/) is a good place to look. For more information on DOIs and citing resources look [here](http://www.doi.org/index.html). If you want to take a look at an active open source project this textbook *is* one. The source can be found on GitHub [here](https://github.com/alan-turing-institute/the-turing-way) and you for further details related to this project you can take a look at the project [website](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science).
+[This](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) book on open science has a great deal of interesting information. For information specific to open source software [this](https://opensource.guide/) is a good place to look. For more information on DOIs and citing resources look [here](http://www.doi.org/index.html). If you want to take a look at an active open source project this textbook *is* one. The source can be found on GitHub [here](https://github.com/alan-turing-institute/the-turing-way) and for further details related to this project you can take a look at the project [website](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science).
 
 ## Definitions/glossary
 
