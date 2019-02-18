@@ -1,4 +1,4 @@
-# Open science
+# Open research
 
 ## Prerequisites / recommended skill level
 
