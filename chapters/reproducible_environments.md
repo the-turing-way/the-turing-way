@@ -16,13 +16,7 @@ Recommended skill level: intermediate-advanced.
 
 Computational environment is (in broad terms) the system setup where a program is being run. This includes features of hardware (e.g. numbers of cores in any CPUs) and features of software (e.g. the operating system, what programming languages are installed, which supporting packages/versions of those packages are included, what other pieces of software are installed and how are they configured).
 
-- Local computational environments
-  - Python `virtualenv` and `venv`, `conda` environments
-  - Equivalent for R
-
-  - Need a section on semantic versioning: https://semver.org.
-
-Many pieces of software define their different versions via [semantic versioning](https://semver.org). In this system three numbers, e.g 2.12.4 are used to define each version of a piece of software. When a change is made to the software then its version is incremented. These three numbers follow the pattern MAJOR.MINOR.PATCH, and are incremented as follows:
+Software versions are often defined  via [semantic versioning](https://semver.org). In this system three numbers, e.g 2.12.4 are used to define each version of a piece of software. When a change is made to the software then its version is incremented. These three numbers follow the pattern MAJOR.MINOR.PATCH, and are incremented as follows:
 
 - MAJOR: significant changes.
 - MINOR: to add functionality.
@@ -63,7 +57,9 @@ There are a number of ways to capture a computational environment, here we will 
   - Breaks because don't have the right version of matplotlib
   - install packages that require specific versions of other packages, dependancies.
   - Useful to have different environments for different projects so that they don't go out of date! https://conda.io/docs/user-guide/tasks/manage-environments.html
-
+  - Local computational environments
+    - Python `virtualenv` and `venv`, `conda` environments
+    - Equivalent for R
 
 
 
