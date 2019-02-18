@@ -63,11 +63,6 @@ There are a number of ways to capture a computational environment, here we will 
 
 
 
-
-
-
-
-
 The advent of virtual machines [4, 5] introduced the exciting reality than an entire environment, including software dependencies, libraries, runtime code, and data, could be encapsulated and run anywhere. Virtual machines, however, also introduced large computational overhead due to the required level of virtualization for emulating the OS and kernel. With the addition of lightweight virtualization features to the Linux kernel (e.g., namespaces) a new lightweight virtualization, containers [15, 16], became possible to implement. Implementations such as Docker, one of the container solutions made open source in 2013 [15, 16], offered additional improvements over standard virtual machines. Containers could share resources with the host without incurring much of the performance penalties of hardware-level virtualization [17].
 
 Researchers can develop reproducible containers on their local machines, providing a simple way to collaborate on code or applications without the hassle of having different software versions or broken dependencies. Containers are ideal not just for the final analysis, but for the development of it. A user is most comfortable working with his or her text editor, programs, and environment of choice, and containers make it possible to work locally and develop in a specific environment simultaneously.
@@ -82,9 +77,6 @@ One of the major factors that prevents Docker from being the standard container 
 ### YAML files
 
 
-- [Syntax for yaml files, think this resource is open source, and it's hosted on github](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
-- [YAML IDIOSYNCRASIES](https://docs.saltstack.com/en/latest/topics/troubleshooting/yaml_idiosyncrasies.html)
-- [UNDERSTANDING YAML](https://docs.saltstack.com/en/latest/topics/yaml/)
 - It's actually really easy to capture your computational environment:
   - `pip freeze` https://pip.pypa.io/en/stable/reference/pip_freeze/
   - equivalent command for `conda`: `conda env export`
@@ -96,6 +88,27 @@ One of the major factors that prevents Docker from being the standard container 
 [yaml tutorial](https://gettaurus.org/docs/YAMLTutorial/) **[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)**
 
 YAML is an indentation-based markup language which aims to be both easy to read and easy to write. Many projects use it for configuration files because of its readability, simplicity and good support for many programming languages. It can be used for a great many things including defining computational environments, and is well integrated with [Travis](https://travis-ci.org/) which is discussed in the chapter on continuous integration.
+
+An a YAML file defining a computational environment might look something like this:
+
+```
+#Define the operating system as Linux
+os: linux
+
+#Use the xenial distribution of Linux
+dist: xenial
+
+#Use the programming language python
+language: python
+
+#Use version of python 3.2
+python: 3.2
+
+#Use the python package numpy and use the 1.16.1 version
+packages:
+  numpy:
+    version: 1.16.1
+```
 
 YAML document consists of the following elements.
 
