@@ -1,5 +1,13 @@
 # Reproducible environments
 
+## Prerequisites / recommended skill level
+
+| Prerequisite | Importance | Notes |
+| -------------|------------|-------|
+| Experience with the command line | Necessary | Experience with downloading software via the command line is particularly useful |
+
+Recommended skill level: intermediate-advanced.
+
 ## Summary
 > easy to understand summary - a bit like tl;dr
 
@@ -27,11 +35,6 @@ One divided by five is `0.2`, and that is what is printed if this script is run 
 If such bugs can impact a simple script like this you can only imagine how many could appear in a complex analysis procedure which may involve thousands of lines of code and dozens of dependent packages/pieces of software. Therefore even if a researcher shares their code and any associated data a colleague could not confidently reproduce their work unless they also knew the computational environment to run the analysis in. Similarly if you need to come back to an old piece of your own work (as is common in research), but have updated packages since then you may find your code generating different results or not working at all. Trying to fix these kinds of issues is often time consuming and frustrating as you have to figure out what in your computational environment has changed. This is particularly difficult if you have no record of what your computational environment was when you carried out the research.
 
 This chapter will describe how to capture, preserve and share computational environments along with code to ensure research is reproducible.
-
-## Prerequisites / recommended skill level
-
-You should have some experience of working on the command line, but there a no other prerequisites. Recommended skill level: intermediate-advanced.
-
 
 ## Why your computational environment (often kind of an afterthought) is actually really important for reproducibility.
 
