@@ -11,6 +11,7 @@
 | open_access_citatations    | Open science         | Impact of openness on citation count              |
 | open_umbrella              | Open science         | Terms under the umbrella of open scholarship      |
 | reproducibility_kirstie    |                      | Depicts cow code and data relate to good practise |
+| software_testing_levels    | Testing              | Shows levels of testing from unit to acceptance   |
 | sub_branch                 | Version control      | Illustrates version control branch + sub branch   |
 | two_banches                | Version control      | Illustrates version control master + two branches |
 | wtf_per_min.jpg            | Version control      | Good quality code = few wtf per min               |
