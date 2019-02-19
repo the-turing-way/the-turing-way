@@ -110,7 +110,7 @@ packages:
     version: 1.16.1
 ```
 
-YAML document consists of the following elements.
+A YAML document can consist of the following elements.
 
 #### Scalars
 
