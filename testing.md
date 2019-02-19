@@ -93,28 +93,82 @@ Modular code is much easier to reuse, for example if a researcher has a individu
 
 Modular code also has the benefit that even if a bug is introduced the unintended impact of changes to any code is likely to be lessened or limited to that module.
 
-#### Unit Testing Tips
+#### Unit testing tips
 
-- Find a tool/framework for your language.
-- Do not create test cases for everything. Instead, focus on the tests that impact the behavior of the system.
+- Find a tool/framework for your language. For example the pytest module assists with running unit tests in python.
 - Isolate the development environment from the test environment.
-- Use test data that is close to that of production.
-- Before fixing a defect, write a test that exposes the defect. Why? First, you will later be able to catch the defect if you do not fix it properly. Second, your test suite is now more comprehensive. Third, you will most probably be too lazy to write the test after you have already fixed the defect.
-- Write test cases that are independent of each other. For example, if a class depends on a database, do not write a case that interacts with the - database to test the class. Instead, create an abstract interface around that database connection and implement that interface with a mock object.
-- Aim at covering all paths through the unit. Pay particular attention to loop conditions.
-- Make sure you are using a version control system to keep track of your test scripts.
-- In addition to writing cases to verify the behavior, write cases to ensure the performance of the code.
+- If your tests use test data make sure it is similar to data the actual code will be applied to.
+- Write test cases that are independent of each other. For example, if a unit A utilises the result of another unit B supply the unit you are testing (unit A) with a "mock" input, rather than actually calling the unit B. If you don not do this your test failing may be due to a fault in either unit A *or* unit B, making the bug harder to trace.
+- Aim at covering all paths through a unit. Pay particular attention to loop conditions.
+- In addition to writing cases to verify the behaviour, write cases to ensure the performance of the code. For example, if a function that is supposed to add two numbers takes several minutes to run there is likely a problem.
 - Perform unit tests continuously and frequently.
+- If you find a defect in your code write a test that exposes it. Why? First, you will later be able to catch the defect if you do not fix it properly. Second, your test suite is now more comprehensive. Third, you will most probably be too lazy to write the test after you have already fixed the defect. For example say a code has a simple function to classify people as either adults or children:
 
-One more reason
-Let’s say you have a program comprising of two units and the only test you perform is system testing. [You skip unit and integration testing.] During testing, you find a bug. Now, how will you determine the cause of the problem?
+  ```
+  def adult_or_child(age):
 
-Is the bug due to an error in unit 1?
-Is the bug due to an error in unit 2?
-Is the bug due to errors in both units?
-Is the bug due to an error in the interface between the units?
-Is the bug due to an error in the test or test case?
-Unit testing is often neglected but it is, in fact, the most important level of testing.
+    # If the age is greater or equal to 18 classify them as an adult
+    if age >= 18:
+      person_status = 'Adult'
+
+    # If the person is not an adult classify them as a child
+    else:
+      person_status = 'Child'
+
+    return person_status
+  ```
+
+  And say this code has a unit test like this
+
+  ```
+  def test_adult_or_child():
+
+    # Test that an adult is correctly classified as an adult
+    assert adult_or_child(22) == 'Adult'
+
+    # Test that an child is correctly classified as a child
+    assert adult_or_child(5) == 'Child'
+
+    return
+  ```
+
+  There's a problem with this code that isn't being tested: if a negative age is supplied it will happily classify the person as a child despite negative ages not being possible. The code should throw an error in this case. So once the bug is fixed:
+
+  ```
+  def adult_or_child(age):
+
+  # Check age is valid
+  if age < 0:
+    raise
+
+  # If the age is greater or equal to 18 classify them as an adult
+  if age >= 18:
+    person_status = 'Adult'
+
+  # If the person is not an adult classify them as a child
+  else:
+    person_status = 'Child'
+
+  return person_status
+  ```
+
+  go ahead and write a test to ensure that future changes in the code can't cause it to happen again:
+
+  ```
+  def test_adult_or_child():
+
+    # Test that an adult is correctly classified as an adult
+    assert adult_or_child(22) == 'Adult'
+
+    # Test that an child is correctly classified as a child
+    assert adult_or_child(5) == 'Child'
+
+    # Test that supplying an invalid age results in an error
+    assert adult_or_child(-10) ==
+
+    return
+  ```
+
 
 ---
 
