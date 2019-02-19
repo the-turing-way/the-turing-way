@@ -57,13 +57,13 @@ Software testing levels are the different stages of the software development lif
 
 #### Level	Summary
 
-Unit Testing:	A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
+Unit testing:	A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
 
-Integration Testing:	A level of the software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units.
+Integration testing:	A level of the software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units.
 
-System Testing:	A level of the software testing process where a complete, integrated system is tested. The purpose of this test is to evaluate the system’s compliance with the specified requirements.
+System testing:	A level of the software testing process where a complete, integrated system is tested. The purpose of this test is to evaluate the system’s compliance with the specified requirements.
 
-Acceptance Testing:	A level of the software testing process where a system is tested for acceptability. The purpose of this test is to evaluate the system's compliance with the project requirements and assess whether it is acceptable for the purpose.
+Acceptance testing:	A level of the software testing process where a system is tested for acceptability. The purpose of this test is to evaluate the system's compliance with the project requirements and assess whether it is acceptable for the purpose.
 
 There is also another kind of testing called regression testing. Regression testing is a type of testing that can be performed at any of the four main levels and compares the results of tests before and after a change is made to the code.
 
@@ -176,30 +176,28 @@ Modular code also has the benefit that even if a bug is introduced the unintende
 
 [Software testing fundamentals integration testing](http://softwaretestingfundamentals.com/integration-testing/) **Copyleft - 2019 STF**
 
-INTEGRATION TESTING is a level of software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units. Test drivers and test stubs are used to assist in Integration Testing.
+Integration testing is a level of software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units. *Test drivers and test stubs are used to assist in integration testing.?????*
 
-- integration testing: Testing performed to expose defects in the interfaces and in the
-interactions between integrated components or systems. See also component integration
-testing, system integration testing.
-- component integration testing: Testing performed to expose defects in the interfaces and
-interaction between integrated components.
-- system integration testing: Testing the integration of systems and packages; testing
-interfaces to external organizations (e.g. Electronic Data Interchange, Internet).
+Here's an analogy. During the process of manufacturing a ballpoint pen, the cap, the body, the tail and clip, the ink cartridge and the ballpoint are produced separately and unit tested separately. When two or more units are ready, they are assembled and integration testing is performed. For example, whether the cap fits into the body or not.
 
-Analogy
-During the process of manufacturing a ballpoint pen, the cap, the body, the tail and clip, the ink cartridge and the ballpoint are produced separately and unit tested separately. When two or more units are ready, they are assembled and Integration Testing is performed. For example, whether the cap fits into the body or not.
+A sub type of integration testing is system integration testing. This tests the integration of systems, packages and any interfaces to external organizations (e.g. Electronic Data Interchange, Internet). Depending on the nature of a project system integration testing may or may not be applicable.
 
-Approaches
-Big Bang is an approach to Integration Testing where all or most of the units are combined together and tested at one go. This approach is taken when the testing team receives the entire software in a bundle. So what is the difference between Big Bang Integration Testing and System Testing? Well, the former tests only the interactions between the units while the latter tests the entire system.
-Top Down is an approach to Integration Testing where top-level units are tested first and lower level units are tested step by step after that. This approach is taken when top-down development approach is followed. Test Stubs are needed to simulate lower level units which may not be available during the initial phases.
-Bottom Up is an approach to Integration Testing where bottom level units are tested first and upper-level units step by step after that. This approach is taken when bottom-up development approach is followed. Test Drivers are needed to simulate higher level units which may not be available during the initial phases.
-Sandwich/Hybrid is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches.
+#### Approaches
 
-Tips
-Ensure that you have a proper Detail Design document where interactions between each unit are clearly defined. In fact, you will not be able to perform Integration Testing without this information.
-Ensure that you have a robust Software Configuration Management system in place. Or else, you will have a tough time tracking the right version of each unit, especially if the number of units to be integrated is huge.
-Make sure that each unit is unit tested before you start Integration Testing.
-As far as possible, automate your tests, especially when you use the Top Down or Bottom Up approach, since regression testing is important each time you integrate a unit, and manual regression testing can be inefficient.
+There are several different approaches to integration testing. Big Bang is an approach to integration testing where all or most of the units are combined together and tested at one go. This approach is taken when the testing team receives the entire software in a bundle. So what is the difference between Big Bang integration testing and system testing? Well, the former tests only the interactions between the units while the latter tests the entire system.
+
+Top Down is an approach to integration testing where top-level units are tested first and lower level units are tested step by step after that. This approach is taken when top-down development approach is followed. **Test Stubs** are needed to simulate lower level units which may not be available during the initial phases.
+
+Bottom Up is an approach to integration testing where bottom level units are tested first and upper-level units step by step after that. This approach is taken when bottom-up development approach is followed. Test Drivers are needed to simulate higher level units which may not be available during the initial phases.
+
+Sandwich/Hybrid is an approach to integration testing which is a combination of Top Down and Bottom Up approaches.
+
+#### Integration testing tips
+
+-Ensure that you have a proper Detail Design document where interactions between each unit are clearly defined. In fact, you will not be able to perform integration testing without this information.
+-Ensure that you have a robust Software Configuration Management system in place. Or else, you will have a tough time tracking the right version of each unit, especially if the number of units to be integrated is huge.
+-Make sure that each unit is unit tested before you start integration testing.
+-As far as possible, automate your tests, especially when you use the Top Down or Bottom Up approach, since regression testing is important each time you integrate a unit, and manual regression testing can be inefficient.
 
 ### System testing
 
@@ -209,7 +207,7 @@ SYSTEM TESTING is a level of software testing where a complete and integrated so
 
 Analogy
 
-During the process of manufacturing a ballpoint pen, the cap, the body, the tail, the ink cartridge and the ballpoint are produced separately and unit tested separately. When two or more units are ready, they are assembled and Integration Testing is performed. When the complete pen is integrated, System Testing is performed.
+During the process of manufacturing a ballpoint pen, the cap, the body, the tail, the ink cartridge and the ballpoint are produced separately and unit tested separately. When two or more units are ready, they are assembled and integration testing is performed. When the complete pen is integrated, system testing is performed.
 
 ### Regression testing
 
@@ -224,7 +222,7 @@ During regression testing, new test cases are not created but previously created
 Regression [noun] literally means the act of going back to a previous place or state; return or reversion.
 
 Levels
-Regression testing can be performed during any level of testing (Unit, Integration, System, or Acceptance) but it is mostly relevant during System Testing.
+Regression testing can be performed during any level of testing (unit, integration, system, or acceptance) but it is mostly relevant during system testing.
 
 Extent
 In an ideal case, a full regression test is desirable but oftentimes there are time/resource constraints. In such cases, it is essential to do an impact analysis of the changes to identify areas of the software that have the highest probability of being affected by the change and that have the highest impact to users in case of malfunction and focus testing around those areas.
@@ -295,14 +293,14 @@ Context-specific smoke tests can be employed at the start of any new phase testi
 
 *As an example maybe if it's failed to read in the data not much point testing the rest of the code*
 
-## Unit Testing
+## Unit testing
 Unit tests are responsible for testing individual elements of code in an isolated and highly targeted way. The functionality of individual functions and classes are tested on their own. Any external dependencies are replaced with stub or mock implementations to focus the test completely on the code in question.
 
 Unit tests are essential to test the correctness of individual code components for internal consistency and correctness before they are placed in more complex contexts. The limited extent of the tests and the removal of dependencies makes it easier to hunt down the cause of any defects. It also is the best time to test a variety of inputs and code branches that might be difficult to hit later on. Often, after any smoke tests, unit tests are the first tests that are run when any changes are made.
 
 Unit tests are typically run by individual developers on their own work station prior to submitting changes. However, continuous integration servers almost always run these tests again as a safe guard before beginning integration tests.
 
-## Integration Testing
+## Integration testing
 
 After unit tests, integration testing is performed by grouping together components and testing them as an assembly. While unit tests validate the functionality of code in isolation, integration tests ensure that components cooperate when interfacing with one another. This type of testing has the opportunity to catch an entirely different class of bugs that are exposed through interaction between components.
 
@@ -310,12 +308,12 @@ Typically, integration tests are performed automatically when code is checked in
 
 Integration tests are important for shared work because they protect the health of the project. Changes must prove that they do not break existing functionality and that they interact with other code as expected. A secondary aim of integration testing is to verify that the changes can be deployed into a clean environment. This is frequently the first testing cycle that is performed off of the developer's own machines, so unknown software and environmental dependencies can also be discovered during this process. This is usually also the first time that new code is tested against real external libraries, services, and data.
 
-## System Testing
+## System testing
 Once integration tests are performed, another level of testing called system testing can begin. In many ways, system testing acts as an extension to integration testing. The focus of system tests are to make sure that groups of components function correctly as a cohesive whole.
 
 Instead of focusing on the interfaces between components, system tests typically evaluate the outward functionality of a full piece of software. This set of tests ignores the constituent parts in order to gauge the composed software as a unified entity. Because of this distinction, system tests usually focus on user- or externally-accessible interfaces.
 
-## Acceptance Testing
+## Acceptance testing
 
 Acceptance tests are one of the last tests types that are performed on software prior to delivery. Acceptance testing is used to determine whether a piece of software satisfies all of the requirements from the business or user's perspective. These tests are sometimes built against the original specification and often test interfaces for the expected functionality and for usability.
 
