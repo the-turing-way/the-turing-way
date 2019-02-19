@@ -53,7 +53,7 @@
 
 ---
 
-[Software testing fundamentals](http://softwaretestingfundamentals.com/unit-testing/) **Copyleft - 2019 STF**
+[Software testing fundamentals unit tests](http://softwaretestingfundamentals.com/unit-testing/) **Copyleft - 2019 STF**
 
 UNIT TESTING is a level of software testing where individual units/ components of a software are tested. The purpose is to validate that each unit of the software performs as designed. A unit is the smallest testable part of any software. It usually has one or a few inputs and usually a single output. In procedural programming, a unit may be an individual program, function, procedure, etc. In object-oriented programming, the smallest unit is a method, which may belong to a base/ super class, abstract class or derived/ child class. (Some treat a module of an application as a unit. This is to be discouraged as there will probably be many individual units within that module.) Unit testing frameworks, drivers, stubs, and mock/ fake objects are used to assist in unit testing.
 
@@ -92,6 +92,65 @@ Is the bug due to an error in the test or test case?
 Unit testing is often neglected but it is, in fact, the most important level of testing.
 
 ---
+
+### Integration testing
+
+[Software testing fundamentals integration testing](http://softwaretestingfundamentals.com/integration-testing/) **Copyleft - 2019 STF**
+
+INTEGRATION TESTING is a level of software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units. Test drivers and test stubs are used to assist in Integration Testing.
+
+- integration testing: Testing performed to expose defects in the interfaces and in the
+interactions between integrated components or systems. See also component integration
+testing, system integration testing.
+- component integration testing: Testing performed to expose defects in the interfaces and
+interaction between integrated components.
+- system integration testing: Testing the integration of systems and packages; testing
+interfaces to external organizations (e.g. Electronic Data Interchange, Internet).
+
+Analogy
+During the process of manufacturing a ballpoint pen, the cap, the body, the tail and clip, the ink cartridge and the ballpoint are produced separately and unit tested separately. When two or more units are ready, they are assembled and Integration Testing is performed. For example, whether the cap fits into the body or not.
+
+Approaches
+Big Bang is an approach to Integration Testing where all or most of the units are combined together and tested at one go. This approach is taken when the testing team receives the entire software in a bundle. So what is the difference between Big Bang Integration Testing and System Testing? Well, the former tests only the interactions between the units while the latter tests the entire system.
+Top Down is an approach to Integration Testing where top-level units are tested first and lower level units are tested step by step after that. This approach is taken when top-down development approach is followed. Test Stubs are needed to simulate lower level units which may not be available during the initial phases.
+Bottom Up is an approach to Integration Testing where bottom level units are tested first and upper-level units step by step after that. This approach is taken when bottom-up development approach is followed. Test Drivers are needed to simulate higher level units which may not be available during the initial phases.
+Sandwich/Hybrid is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches.
+
+Tips
+Ensure that you have a proper Detail Design document where interactions between each unit are clearly defined. In fact, you will not be able to perform Integration Testing without this information.
+Ensure that you have a robust Software Configuration Management system in place. Or else, you will have a tough time tracking the right version of each unit, especially if the number of units to be integrated is huge.
+Make sure that each unit is unit tested before you start Integration Testing.
+As far as possible, automate your tests, especially when you use the Top Down or Bottom Up approach, since regression testing is important each time you integrate a unit, and manual regression testing can be inefficient.
+
+### System testing
+
+[Software testing fundamentals system testing](http://softwaretestingfundamentals.com/system-testing/) **Copyleft - 2019 STF**
+
+SYSTEM TESTING is a level of software testing where a complete and integrated software is tested. The purpose of this test is to evaluate the system’s compliance with the specified requirements.
+
+Analogy
+
+During the process of manufacturing a ballpoint pen, the cap, the body, the tail, the ink cartridge and the ballpoint are produced separately and unit tested separately. When two or more units are ready, they are assembled and Integration Testing is performed. When the complete pen is integrated, System Testing is performed.
+
+### Regression testing
+
+[Software testing fundamentals regression testing](http://softwaretestingfundamentals.com/regression-testing/) **Copyleft - 2019 STF**
+
+REGRESSION TESTING is a type of software testing that intends to ensure that changes (enhancements or defect fixes) to the software have not adversely affected it.
+
+The likelihood of any code change impacting functionalities that are not directly associated with the code is always there and it is essential that regression testing is conducted to make sure that fixing one thing has not broken another thing.
+
+During regression testing, new test cases are not created but previously created test cases are re-executed.
+
+Regression [noun] literally means the act of going back to a previous place or state; return or reversion.
+
+Levels
+Regression testing can be performed during any level of testing (Unit, Integration, System, or Acceptance) but it is mostly relevant during System Testing.
+
+Extent
+In an ideal case, a full regression test is desirable but oftentimes there are time/resource constraints. In such cases, it is essential to do an impact analysis of the changes to identify areas of the software that have the highest probability of being affected by the change and that have the highest impact to users in case of malfunction and focus testing around those areas.
+
+Due to the scale and importance of regression testing, more and more companies and projects are adopting regression test automation tools.
 
 ## Checklist
 
