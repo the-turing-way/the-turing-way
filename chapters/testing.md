@@ -51,6 +51,7 @@
 
 SOFTWARE TESTING LEVELS are the different stages of the software development lifecycle where testing is conducted. There are four levels of software testing: Unit >> Integration >> System >> Acceptance.
 
+![software_testing_levels](../figures/software_testing_levels.jpg)
 
 Level	Summary
 Unit Testing	A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
