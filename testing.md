@@ -49,18 +49,21 @@
 
 [Software testing fundamentals levels of tests](http://softwaretestingfundamentals.com/software-testing-levels/) **Copyleft - 2019 STF**
 
-SOFTWARE TESTING LEVELS are the different stages of the software development lifecycle where testing is conducted. There are four levels of software testing: Unit >> Integration >> System >> Acceptance.
+Software testing levels are the different stages of the software development lifecycle where testing is conducted. There are four levels of software testing: Unit >> Integration >> System >> Acceptance.
 
 ![software_testing_levels](../figures/software_testing_levels.jpg)
 
-Level	Summary
-Unit Testing	A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
-Integration Testing	A level of the software testing process where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units.
-System Testing	A level of the software testing process where a complete, integrated system is tested. The purpose of this test is to evaluate the system’s compliance with the specified requirements.
-Acceptance Testing	A level of the software testing process where a system is tested for acceptability. The purpose of this test is to evaluate the system’s compliance with the business requirements and assess whether it is acceptable for delivery.
+#### Level	Summary
 
-Note: Some tend to include Regression Testing as a separate level of software testing but that is a misconception. Regression Testing is, in fact, just a type of testing that can be performed at any of the four main levels.
+Unit Testing:	A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
 
+Integration Testing:	A level of the software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units.
+
+System Testing:	A level of the software testing process where a complete, integrated system is tested. The purpose of this test is to evaluate the system’s compliance with the specified requirements.
+
+Acceptance Testing:	A level of the software testing process where a system is tested for acceptability. The purpose of this test is to evaluate the system's compliance with the project requirements and assess whether it is acceptable for the purpose.
+
+There is also another kind of testing called regression testing. Regression testing is a type of testing that can be performed at any of the four main levels and compares the results of tests before and after a change is made to the code.
 
 ### Unit tests
 
