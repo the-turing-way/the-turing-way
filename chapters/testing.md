@@ -33,6 +33,33 @@
   - Code review to test code quality
   - Continuous integration very briefly, and link to that chapter,
 
+## Prerequisites / recommended skill level
+
+  | Prerequisite | Importance | Notes |
+  | -------------|----------|------|
+  | Chapter/topic | How important it is | Any notes |
+
+## Summary
+
+
+## How this will help you/ why this is useful
+
+
+## Chapter content
+
+## Checklist
+
+
+## What to learn next
+
+Try reading the chapter on reproducible computational environments and then the chapter on continuous integration.
+
+## Further reading
+
+## Definitions/glossary
+
+## Bibliography
+
 
 ## material from the hack.md
 
