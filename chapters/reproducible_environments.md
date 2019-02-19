@@ -467,6 +467,19 @@ Dan Walsh, a computer security leader best known for his work on SELinux, gives 
      command_to_do_thing_4
   ```
 
+Practising with conda
+
+- Downloaded conda
+- created a conda environment called my_env_1 including the packages numpy and matplotlib using `conda create --name my_env_1 numpy matplotlib`. When you create an environment you have to include at least one package.
+- Activated the environment using `conda activate my_env_1`
+- Can deactivate environment using `conda deactivate`
+- To create this same environment but with a specific version of python do it like this `conda create --name my_env_2 python=2.7 numpy matplotlib`
+- Get a list of the conda environments you have using `conda env list`
+- To delete a conda environment do `conda remove --name your_environment_name --all`. When you delete an environment you have to rpeciify all the packages it contains. If you don't want to type them out just use the `--all` option as I have here.
+- To export a conda environment activate the environment and then run `conda env export > environment.yml`
+- If you have an environment file and you want to create an environment from it do `conda env create -f environment.yml
+- numpy is one of the packages included by default, so even if I don't specify it when setting up an environment if I run python in an environment and try `import numpy` it works. However for packages that aren't included, like flask, importing them only works if they're specified when creating the environment.
+
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
 
