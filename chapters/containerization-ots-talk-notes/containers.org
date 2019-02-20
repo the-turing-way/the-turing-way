@@ -1,0 +1,580 @@
+#+Title: Containerization
+#+Date: 2019-01-22, revised 2019-02-19
+#+Author: Oliver Strickson (ostrickson@turing.ac.uk)
+
+#+BEGIN_QUOTE 
+This file is literate source for the examples it contains, written in
+org-mode.  To generate them, within emacs run =M-x org-babel-tangle=.
+The files currently in this directory have been produced with this
+command.
+#+END_QUOTE
+
+This is going to be a talk about containerization, as a small
+collection of related technologies that have appeared in the Linux
+kernel over the last few major versions, and on which various
+"container platforms" (Docker, Singularity, LXC, Rocket ...) have been
+built.
+
+It is not a talk about any specific container platforms.  It is also
+not a talk about the best way to use them (how, when or which
+container).
+
+I'll try to show the components used to build a container platform,
+and the result will be a minimal container platform with many features
+of a real one (but of course much simplified).  It turns out they're
+quite simple - its not much more than 100 lines of C.
+
+Really the value in something like Docker is that it's guaranteed to
+work pretty much anywhere, including Windows and Mac (for which it
+actually uses a Linux VM layer *in addition* to the container on
+Linux.  I expect getting this right and with a usable interface is a
+really hard practical problem, of which the actual container
+implementation is a relatively small part.  This talk is only about
+the container layer, so applies only to Linux.  Not even other
+flavours of Unix.z
+
+Anyway, sometimes containerization is called "OS level virtualization"
+and pictures like the following used to describe it, although I find
+this kind of thing unhelpful.
+
+Much of this was written with reference to two excellent series of
+articles in LWN on Linux namespaces [1] and control groups [2].  There are
+several other attempts at writing a container system from scratch,
+linked to in the references.
+
+* Concepts
+
+Containers are an abstraction built on processes: they make groups of
+processes able to share or hide resources from each other, where such
+resources might include the filesystem, network stack, users/groups,
+etc.
+
+Key components:
+
+- namespaces (incl. chroot) - added around 2.6, available at the
+  user level from 3.8
+- control groups
+- seccomp ("secure computing" mode - can't make syscalls any more
+  except exit, sigreturn, read, write (but not open) - won't discuss
+  these).
+
+All related to limiting what a given process can see or do, but
+abstracting away idea of e.g. privilige of a process (i.e. might be
+root on a limited system, or inside a container)
+
+Have a hierarchy of process resources, that can look "down" but not
+"up".
+
+* Making processes (fork, clone)
+
+It will turn out to be convenient to be able to create a new process
+programmatically.  One way to do this (historically the /only/ way) is
+to use the fork() system call.
+
+Simple use of fork is illustrated by the following simple example:
+#+CAPTION: /fork-example.c/
+#+BEGIN_SRC C :noweb tangle :tangle fork-example.c
+/* fork-example.c */
+#include <stdio.h>
+#include <unistd.h>
+
+int main(int argc, char *argv[])
+{
+  pid_t pid = fork();
+  if (pid == -1) {
+    printf("fork failed\n");
+    exit(EXIT_FAILURE);
+  }
+
+  /* Only reach here if fork succeeded */
+  
+  if (pid) {
+    /* child process */
+    /* ... */
+    printf("hello from child!\n");
+    
+  } else {
+    /* parent process */
+    /* ... */
+    printf("hello from parent!\n");
+    /* wait for child to finish */
+    int status;
+    wait(&status);
+  }
+
+  return 0;
+}
+#+END_SRC
+
+In fact, to do anything interesting with containers, we'll need
+=clone()=.  Currently in Linux, =fork= is a simple wrapper around =clone=.
+
+The idea is to make a process with certain shared resources.  These
+are controlled via the various flags to clone.
+
+The clone call looks like this:
+#+BEGIN_EXAMPLE
+#define _GNU_SOURCE
+#include <sched.h>
+int clone(int (*fn)(void *), void *child_stack, int flags, void *arg);
+#+END_EXAMPLE
+
+Notes:
+- this is actually a wrapper provided by glibc
+- must =#define _GNU_SOURCE= to enable it
+- interface a little different to fork
+- give it another entry point
+- give it a stack (since virtual memory is shared, the two processes
+  might clobber each other's stacks if not).
+
+#+CAPTION: /clone-example.c/
+#+BEGIN_SRC C :noweb tangle :tangle clone-example.c
+/* clone-example.c */
+#define _GNU_SOURCE
+#include <sys/wait.h>
+#include <sys/utsname.h>
+#include <sched.h>
+#include <string.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+
+#define STACK_SIZE 0x100000 /* 1 Mb */
+
+int child(void *args)
+{
+  while (1);
+}
+
+int main(int argc, char *argv[])
+{
+  char stack[STACK_SIZE];
+
+  /* stacks are assumed to grow _downwards_ */
+  char *stack_top = stack + STACK_SIZE;
+
+  long flags = SIGCHLD /* send SIGCHLD when child returns */
+    | CLONE_THREAD     /* run in same thread group */
+    | CLONE_SIGHAND    /* share table of signal handlers */
+    | CLONE_VM;        /* share virtual memory space */
+  
+  pid_t pid = clone(child, stack_top, flags, NULL);
+
+  while (1);
+
+  return 0;
+}
+#+END_SRC
+
+=CLONE_THREAD= means both processes appear in the same "thread group",
+and when running e.g. =top=, a single entry will be shown, consuming
+200% CPU (assuming the processor has two free cores).
+
+Regarding the stack, the memory of a process is laid out like this:
+#+BEGIN_EXAMPLE
+argv, envp      <====== highest address
+stack           <---- Stack Pointer
+  |
+  |
+  V
+
+  ^
+  |
+  |
+heap
+bss (static, uninitialized variables, allocated on program execution)
+    (BSS = "block started by symbol", historical meaning)
+data
+text            <======= lowest address
+#+END_EXAMPLE
+
+and after running clone, the memory layout (shared between both
+processes) is:
+#+BEGIN_EXAMPLE
+argv, envp      <====== highest address
+stack           <---- Stack Pointer (child)
+  | 
+  |
+  V             <---- Stack Pointer (parent)
+
+  ^
+  |
+  |
+heap
+bss (static, uninitialized variables, allocated on program execution)
+    (BSS = "block started by symbol", historical meaning)
+data
+text            <======= lowest address
+#+END_EXAMPLE
+
+** Diversion: the proc filesystem
+
+In keeping with the design philosophy of UNIX, proc isn't a /disk/
+filesystem, rather procfs is an interface to the information about
+processes held by the kernel, exposed as a filesystem.
+
+Let's have a poke about in /proc:
+#+BEGIN_SRC sh
+   cd /proc
+   # e.g. can see the current shell,
+   echo $$
+   cd /proc/$$
+   # some are symlinks:
+   ls -l root exe cwd
+   cd fd
+   ls -l
+   exec 3<> ~/file
+   ls -l
+   echo hello >&3
+   cat ~/file
+   sudo cat stack # kernel stack
+#+END_SRC
+
+   =maps= file also interesting - addresses of mapped memory pages
+
+Something that will interest us is the =ns= directory:
+#+BEGIN_SRC sh
+   cd ns
+   ls -l
+   # These are handles to a processes namespaces, which we can set and
+   # manipulate...
+#+END_SRC
+
+(The interface we'll use to make a new namespace will be via a system call,
+but later)
+
+** =chroot=
+
+- the =root= symlink in =/proc= points to that process's root directory.
+
+- this is something we can change and have been able to in all Unixes for
+  ages: it means that the process can see a different root directory
+
+- This is done with the =chroot= (command or syscall)
+
+Chroot is the simplest technique that's anything like a container, and
+has been a feature of UNIX for a long time.
+
+Caveats:
+- need to be privileged to use it
+- conversely, root can chroot back out of it
+- with it, /root/ can capture a /regular user's/ process (only)
+
+*** chroot demo
+    
+#+BEGIN_SRC sh
+    mkdir chroot-example
+    cd chroot-example
+    sudo chroot .  # fails (can't find bash)
+    mkdir bin
+    cp /bin/bash bin
+    sudo chroot . # still doesn't work
+                  # need library dependencies
+                  # use following command to find these
+    ldd bash
+    # <cp all of them>
+    sudo chroot .
+    # get bash prompt
+    cd /
+    ls
+    #     bash: ls: command not found
+    # (of course, don't have it in /bin!, but shell built in echo should work)
+    echo *
+#+END_SRC
+
+* More featureful containers
+
+The filesystem is one resource we have available, and this could
+already be very useful, but not the only one.
+
+** container.c
+
+We'll try to build it up a simple container in, and will follow this
+template:
+#+BEGIN_SRC C :noweb tangle :tangle container.c
+#define _GNU_SOURCE
+#include <stdio.h>
+#include <sys/wait.h>
+#include <sys/utsname.h>
+#include <sched.h>
+#include <linux/sched.h>
+#include <string.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <errno.h>
+#include <sys/types.h>
+#include <dirent.h>
+#include <sys/mount.h>
+#include <limits.h>
+
+#define STACK_SIZE 0x100000 /* 1 Mb */
+
+int child(void *args)
+{
+  <<set container root>>
+ 
+  <<chroot to container root>>
+
+  <<mount sys and proc filesystems>>
+
+  <<exec the requested command>>
+
+  return 0;
+}
+
+int main(int argc, char **argv) {
+  char stack[STACK_SIZE];
+  char *stack_top = stack + STACK_SIZE;
+
+  <<set flags to pass to clone>>
+
+  <<call clone>>
+
+  <<set container users and groups>>
+
+  int status;
+  wait(&status);
+ 
+  return 0;
+}
+#+END_SRC
+
+- The purpose of the child process is just to launch another process
+  within a chroot jail, like we did on the command line before.
+
+- We can reuse the directory we used before as "container root", which
+  will already have lib/lib64, and bin (with minimal contents).
+
+- Specify this in the above program by filling it in the below snippet
+#+BEGIN_SRC C :noweb-ref set container root
+/* set container root */
+const char *container_root = "absolute path to container root";
+#+END_SRC
+
+- Copy the following from the root dir of your Linux distro of choice,
+  into the "container root" (the whole thing):
+#+BEGIN_EXAMPLE
+        bin lib lib64 usr 
+#+END_EXAMPLE
+
+- Still in the container root, =mkdir etc= and put the following files in it:
+=group=
+#+BEGIN_EXAMPLE
+        root:x:0:  
+#+END_EXAMPLE
+=passwd=
+#+BEGIN_EXAMPLE
+        root:x:0:0:root:/:/bin/bash
+#+END_EXAMPLE
+
+See =man 5 group passwd=.
+
+A lot of what happens next is just adding flags to clone
+
+- *Namespaces* are a feature of the linux kernel, for example a
+  process can exist in a particular namespace and this controls what
+  it can "see": e.g. a PID namespace lets us limit the other running
+  processes a process can see, and lets us treat a given process as
+  the root process (pid 1).  Implementation is in hierarchy of data
+  structures in kernel.
+
+- The purpose of each namespace is to wrap a particular global system
+  resource in an abstraction that makes it appear to the processes
+  within the namespace that they have their own isolated instance of
+  the global resource.
+
+- =NS= mount namespace
+
+- =USER= users
+
+- =UTS= hostname/domain name
+
+- =PID= process tree - in which case a container must have its own
+  init.  Could use something like [[https://github.com/Yelp/dumb-init][dumb init]] or [[https://github.com/krallin/tini][tini]].
+
+- =NET= (network stack) each network namespace has its own network stack
+
+It's instructive to add these in turn and see the consequences.  The
+whole lot together
+#+BEGIN_SRC C :noweb-ref set flags to pass to clone
+/* set flags to pass to clone */
+  int flags = SIGCHLD
+    | CLONE_NEWPID
+    | CLONE_NEWUTS
+    | CLONE_NEWIPC
+    | CLONE_NEWUSER
+    | CLONE_NEWNET
+    | CLONE_NEWNS;
+#+END_SRC
+
+along with the call to clone - note that we pass along all command
+line arguments except the first (current executable name).
+#+BEGIN_SRC C :noweb-ref call clone
+/* call clone */
+  pid_t pid = clone(child, stack_top, flags, argv + 1);
+  if (pid == -1) {
+    printf("clone failed\n");
+    exit(EXIT_FAILURE);
+  }
+#+END_SRC
+
+The cloned child will first call chroot as before
+#+BEGIN_SRC C :noweb-ref chroot to container root
+/* chroot to container root */
+  if (chroot(container_root)) {
+    printf("Could not chroot, reason: %s", strerror(errno));
+    exit(EXIT_FAILURE);
+  }
+  chdir("/");
+#+END_SRC
+
+
+Finally, exec the second command-line argument.  We use the execve
+form so that we can pass an empty environment:
+#+BEGIN_SRC C :noweb-ref exec the requested command
+/* exec the requested command */
+  char **envp = {NULL};
+  if (execve(argv[0], argv, envp)) {
+    printf("Failed to exec, reason: %s", strerror(errno));
+    exit(EXIT_FAILURE);
+  }
+#+END_SRC
+
+- to use it, run
+#+BEGIN_EXAMPLE
+  make container
+  ./container <command> <args> ...
+#+END_EXAMPLE
+  which will run the specified command within this containerized
+  environment.
+- for example, try to run ps with what we have so far (and watch it fail - it just
+  tries to read /proc!)
+- mount proc and sys as follows (we want a seperate view of these
+  within the container)
+- =man 2 mount= for meanings of these args
+#+BEGIN_SRC C :noweb-ref mount sys and proc filesystems
+/* mount sys and proc */
+mount("proc", "proc", "proc", 0L, "");
+mount("sys", "sys", "sys", 0L, "");
+#+END_SRC
+
+- slightly complicated mechanism for *mapping users/groups*:
+  - edit =/etc/group= and =/etc/passwd= (as above)
+  - map 0 (root) inside onto value of =getuid()= (you) outside, (last
+    arg: only one uid)
+  - similarly for groups,
+  - but must first write "deny" into setgroups
+#+BEGIN_SRC C :noweb-ref set container users and groups
+/* set container users and groups */
+char path[PATH_MAX];
+
+sprintf(path, "/proc/%d/uid_map", pid);
+FILE *file = fopen(path, "w");
+fprintf(file, "%d %d %d", 0, getuid(), 1);
+fclose(file);
+
+sprintf(path, "/proc/%d/setgroups", pid);
+file = fopen(path, "w");
+fprintf(file, "deny\n");
+fclose(file);
+
+sprintf(path, "/proc/%d/gid_map", pid);
+file = fopen(path, "w");
+fprintf(file, "%d %d %d", 0, getgid(), 1);
+fclose(file);
+#+END_SRC
+
+* Interacting with namespaces
+
+- leave a spin loop running in the 'container' so we can see it in top
+
+- now use =nsenter= shell command to enter the namespace associated
+  with the process pid:
+#+BEGIN_EXAMPLE
+  sudo nsenter -a -r -t <pid>
+#+END_EXAMPLE
+
+- Another useful trick: run =sudo top=, then =shift-F= to select the
+  namespace-related fields
+
+- Both of these techniques will work to enter and inspect Docker
+  containers - try it.
+
+* Control groups
+
+- Namespaces let us encapsulate processes and their resources, but
+  do not let us limit access to these resources effectively.
+
+- *Control groups* are for this purpose
+
+- =cd /sys/fs/cgroup=
+
+- There are a few different things in here: can restrict access to
+  cpu, memory, etc (freezer: suspend all tasks in the group: could do
+  this with =kill SIGSTOP= or just =Control-Z= of course, but this can
+  suspend a whole group of processes all together.
+
+- see ... for a complete list
+
+- The =pids= cgroups limit the number of pids that can exist within
+  them (remembering that all *children* are also in the group, this
+  limits the number of processes another one can spawn)
+
+- fork bombs ( :(){ :|:& };: )
+
+- Try the following (as root):
+  
+  (from within =/sys/fs/cgroup=)
+#+BEGIN_SRC sh
+  cd pids
+  mkdir MyPidGroup; cd MyPidGroup
+  echo 4 > pids.max
+  # start another shell and echo $$
+  echo ::pid of this shell:: > tasks # $$ from above  
+#+END_SRC
+- can then spawn other processes until failure
+
+- limitation: I often used sudo too eagerly - a lot of recent things
+  focus on user level containers (kernel 3.8).  Docker guilty here
+  too!
+
+* Summary
+
+Make processes with fork() or clone()
+
+Use clone if you want to share resources or create namespaces
+
+Could also use "unshare" for making namespaces, but clone lets the
+parent set up a few things first.  We used =clone= above, since it
+allowed us to build up enough infrastructure to make a minimal
+container system, but =unshare= in many ways is conceptually simpler.
+
+Control groups allow control over resources available to a process
+(e.g. limit the number of processes it can start)
+
+
+* References
+
+[1] [[https://old.lwn.net/Articles/531114/][Namespaces in operation]], LWN, 2013
+
+[2] [[https://lwn.net/Articles/604609/][Control groups]], LWN, 2014
+
+[3] [[https://www.youtube.com/watch?v=Utf-A4rODH8][Building a container system from scratch]] Liz Rice, Container Camp 2016
+
+[4] [[https://itnext.io/chroot-cgroups-and-namespaces-an-overview-37124d995e3d][chroot, cgroups and namespaces — An overview]]
+
+[5] [[https://ericchiang.github.io/post/containers-from-scratch/][Containers from scratch]]
+
+[6] https://github.com/lxc/lxc
+
+[7] https://github.com/torvalds/linux/blob/master/Documentation/cgroup-v1/cgroups.txt
+
+
+ 
+
+
+#+BEGIN_SRC makefile :tangle Makefile :exports none
+CC = gcc
+all: fork-example clone-example container
+#+END_SRC
