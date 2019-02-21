@@ -7,10 +7,23 @@
   - Encourages the writing of tests
   - If you include tests then you don't need to remember to run them, it's done automatically each time
 - How to do it with travis (also mention others)
-  - Say travis is well intergrated with github, direct to version control chapter but just say good to upload
-    - Warn need to be ok with making public
+  - Say travis is well intergrated with github
+    - direct to version control chapter
+    - Give brief outline of why github's a good idea for collaborative projects anyway
+    - But just say for the purposes of this to upload
+    - Warn need to be ok with making public, talk about other limitations of travis (time etc?).
+  - How to link github repo and travis
   - .travis.yml
-  -
+    - Outline minimum basic structure
+    - How to define environment (link to reproducible environments chapter)
+    - Script, say to run tests/do anything else (**check compiled successfully for compiled languages?**)
+    - After success (optional)
+       - E.g. automatically merge.
+       - **Others?**
+    - Acceptable errors (optional)
+    - **Other components?**
+  - Now does it!
+  - Green, amber, red
 
 ## Setting up my own CI step by step
 
