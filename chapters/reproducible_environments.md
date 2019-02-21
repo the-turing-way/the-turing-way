@@ -18,7 +18,7 @@
       - Say can export yml from conda and create environments from them. **Other language equivalents?**
   - Images and Containers
     - What are they
-    - How to use Docker to make/share images and run containers
+    - How to use Docker to make/share images and run containers (warn need to be ok with it being open unless dockerhub)
     - **Are there less arduous ways of generating Dockerfiles/images than hand writing them?**
     - **Are there standard structures for Dockerfiles/how does a novice know what to include?**
     - Mention Singularity (+ others maybe) and give a quick pros/cons.
