@@ -5,23 +5,35 @@
 - Ways to capture computational environments
   - Very quick runthrough with advice on **which to use for which circumstances**
   - Making environments via conda etc **Other language equivalents?**
+    - Reasons to do so
+    - How to do it
+    - mention pip freeze?
   - YAML files
     - What are they
     - Syntax/tutorials
     - Gotchas
+    - **Are there standard structures for yaml files/how does a novice know what to include?**
     - Quick note on security issues?
     - **How to use them for reproducibility**
       - Say can export yml from conda and create environments from them. **Other language equivalents?**
   - Images and Containers
     - What are they
     - How to use Docker to make/share images and run containers
-    - Mention Singularity +others maybe and give a quick pros/cons.
+    - **Are there less arduous ways of generating Dockerfiles/images than hand writing them?**
+    - **Are there standard structures for Dockerfiles/how does a novice know what to include?**
+    - Mention Singularity (+ others maybe) and give a quick pros/cons.
   - Binder
     - What it is
     - How to use it to capture an environments
   - Makefiles
     - What they are
     - How to write them to use them for reproducibility.
+
+
+- feedback on order?
+- Python centric (standard ways of capturing environment in other languages that I don't know about?)
+- Missing anything?
+- Which to use in which circumstances
 
 
 ## Prerequisites / recommended skill level
