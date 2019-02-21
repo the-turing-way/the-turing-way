@@ -1,5 +1,17 @@
 # Continuous integration
 
+- What is continuous integration, delivery and deployment (not all that relevant for research)
+- Why to use them in a research project
+  - If multiple people are doing research using their own copy of some code then it's harder to combine work the longer you leave it.
+  - Keeping everyone up to date means they can take advantage of improvements made by others earlier
+  - Encourages the writing of tests
+  - If you include tests then you don't need to remember to run them, it's done automatically each time
+- How to do it with travis (also mention others)
+  - Say travis is well intergrated with github, direct to version control chapter but just say good to upload
+    - Warn need to be ok with making public
+  - .travis.yml
+  -
+
 ## Setting up my own CI step by step
 
 - On my computer I made a diretory, made a simple function adding two numbers and a test for it. Ran pytest and it passed.
