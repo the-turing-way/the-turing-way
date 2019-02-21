@@ -13,6 +13,7 @@ If you have any questions that aren't discussed below, please let us know throug
 Been here before? Already know what you're looking for in this guide? Jump to the following sections:
 
 * [Joining the community](#joining-the-community)
+* [Inclusivity](#inclusivity)
 * [Get in touch](#get-in-touch)
 * [Contributing through GitHub](#contributing-through-github)
 * [Where to start: issues](#where-to-start-issues)
@@ -23,6 +24,17 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 ## Joining the community
 
 The Turing Way community We therefore require that all contributions **adhere to our [Code of Conduct](CODE_OF_CONDUCT.md)**.
+
+## Inclusivity
+
+This project aims to be inclusive to people from all walks of life and to all research fields.
+This should be taken into account in contributions.
+
+The following are examples of inclusive actions that we encourage from contributors to the Turing Way:
+
+* Refer to "open research" rather than "open science" so that we do not exclude members of the humanities and social sciences from our community.
+* Make sure colour pallettes are accessible to colour-blind readers and contributors.
+  Here's a useful blog post on [tips for designing scientific figures for color blind readers](http://www.somersault1824.com/tips-for-designing-scientific-figures-for-color-blind-readers) by Luk at [Somersulat 1824](http://www.somersault1824.com).
 
 ## Get in touch
 
@@ -110,11 +122,11 @@ If you feel that we should try new tools or some aspects of the collaboration co
 - On the alan turing version create a branch with the same name as the chapter to be written.
 - On your fork create a branch with the same name and create a markdown file on it.
 - Copy the chapter template in the templates directory into the markdown file, and commit.
-- Make a pull request to the turing way version of the chapter branch. 
-The title of this request should have the form "[WIP] Write Chapter_name chapter". 
+- Make a pull request to the turing way version of the chapter branch.
+The title of this request should have the form "[WIP] Write Chapter_name chapter".
 WIP indicates the chapter is a Work In Progress and not yet ready for review.
-- On your branch add material to the chapter and commit. 
-The goal of this project is to collate and build on the many good resources already available about good practise in data science. 
+- On your branch add material to the chapter and commit.
+The goal of this project is to collate and build on the many good resources already available about good practise in data science.
 As such this material should primarily be drawn from outside sources.
 Note the link and (if available) license of the source.
 - Once a significant amount of material has been amassed, work (preferably with others) to develop a chapter outline.
@@ -127,7 +139,7 @@ Note the link and (if available) license of the source.
 - Discuss and make low level changes to the chapter on this pull request, such as rewording sentences, typos and the like.
 - This division of the pull requests into high and low level changes stops discussion threads becoming unmanagably long.
 - Once this is complete merge the pull request into the alan turing intitute's version of the chapter branch.
-- Merge the alan turing intitute's version of the chapter branch into the alan turing master branch. 
+- Merge the alan turing intitute's version of the chapter branch into the alan turing master branch.
 DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
 
 
