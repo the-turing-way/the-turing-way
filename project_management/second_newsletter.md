@@ -7,7 +7,8 @@ It's been almost a month since we announced the project and we've made great pro
 ## Workshops
 We still have spots available for our workshops in March. 
 We can provide financial support to cover travel, accommodation or childcare costs to make it easier for you to attend. 
-Please get in touch to let us know how we can support you.
+Please get in touch at theturingway@gmail.com to let us know how we can support you.
+Note the start and end times, you're welcome to hang out for an extra hour but we'll officially finish at 4pm so that anyone with childcare responsibilities can get home!
 
 ### Boost your reproducibility with binder
 
@@ -16,21 +17,14 @@ At the end of the workshop you will be able to take some of your own content (in
 
 **Agenda**
 
-9.30 - 10.00: Coffee and Registration
-
-10.00 - 10.30: Introduction to the workshop and The Turing Way
-
-10.30 - 12.00: Reproducible computing environment and how Binder can help
-
-12.00 - 1.00: Lunch
-
-1.00 - 2.00: Zero to Binder
-
-2.00 - 3.30: Coffee and Build your own Binder
-
-3.30 - 4.00: Demonstrating your Binder, general questions, feedback and close
-
-4.00 - 5.00: Optional hangout with instructors
+* 9.30 - 10.00: Registration, coffee and introductions
+* 10.00 - 10.30: Introduction to the workshop and The Turing Way
+* 10.30 - 12.00: Why you need a reproducible computing environment and how Binder can help
+* 12.00 - 1.00: Lunch
+* 1.00 - 2.00: Zero to Binder, a guided tour of building a Binder resource
+* 2.00 - 3.30: Build your own Binder (with coffee from 2.00)
+* 3.30 - 4.00: Demonstrating your Binder, general questions, feedback and close
+* 4.00 - 5.00: Optional hangout with instructors
 
 **Workshop locations and sign-up**
 * [Manchester - 1st March](https://www.eventbrite.co.uk/e/boost-your-research-reproducibility-with-binder-manchester-registration-55331997494)
@@ -42,7 +36,15 @@ During this free workshop we will demonstrate how to build your own BinderHub on
 We will help you get started with building a BinderHub on your institution's computing platform and discuss the challenges of maintaining a BinderHub. 
 At the end of the workshop you will know why this would be a useful resource for your team, and will know where to look for help and support building your institution's BinderHub.
 
-
+* 9.30 - 10.00: Registration, coffee and introductions
+* 10.00 - 10.30: Introduction to the workshop and The Turing Way
+* 10.30 - 11.00: Introduction to Binder and why *you* should build a BinderHub
+* 11.00 - 12.00: Practical session – Build your BinderHub
+* 12.00 - 1.00: Lunch
+* 1.00 - 2.45: Practical session – Build your BinderHub
+* 2.45 - 3.00: Coffee
+* 3.00 - 4.00: Looking forwards: Progress review, lessons learned and future strategies
+* 4.00 - 5.00: Optional hangout with instructors
 
 **Workshop location and sign-up**
 * [Sheffield - 18th March](https://www.eventbrite.co.uk/e/build-a-binderhub-registration-55336756729)
