@@ -35,15 +35,14 @@ We hope that workshop participants will also contribute their "tips and tricks" 
 
 ### Programme
 
-* 9.30 - 10.00: Coffee and Registration
+* 9.30 - 10.00: Registration, coffee and introductions
 * 10.00 - 10.30: Introduction to the workshop and The Turing Way
-* 10.30 - 12.00: Introduction to Binder and why *you* should build a BinderHub
+* 10.30 - 11.00: Introduction to Binder and why *you* should build a BinderHub
+* 11.00 - 12.00: Practical session – Build your BinderHub
 * 12.00 - 1.00: Lunch
-* 1.00 - 2.00: Practical session – Build your BinderHub
-* 2.00 - 2.30: Coffee
-* 2.30 - 2.45: Progress review, lessons learned and skill sharing
-* 2.45 - 3.00: Practical session – Build your BinderHub
-* 3.30 - 4.00: Demonstration of progress made, general questions, feedback and close
+* 1.00 - 2.45: Practical session – Build your BinderHub
+* 2.45 - 3.00: Coffee
+* 3.00 - 4.00: Looking forwards: Progress review, lessons learned and future strategies
 * 4.00 - 5.00: Optional hangout with instructors
 
 ### Some example Binders:
