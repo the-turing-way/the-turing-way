@@ -62,7 +62,7 @@ In the meantime, creating an issue on [GitHub](https://github.com/alan-turing-in
 ## Talks
 The team has been spreading the word about the Turing Way project through various talks:
 * Kirstie Whitaker presented at the Cambridge Psychiatry PI Day on 30 January 2019. 
-Her	slides can be found on [figshare](https://doi.org/10.6084/m9.figshare.7649156.v2).
+Her slides can be found on [figshare](https://doi.org/10.6084/m9.figshare.7649156).
 * Sarah Gibson presented at the [UKRI Cloud workshop](https://cloud.ac.uk/workshops/feb2019/). 
 Resources for her talk can be found [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/conferences/presentations/UKRI_cloud_2019-02-12/UKRI_cloud_demo_2019-02-12.md).
 * Patricia Herterich introduced the Turing Way to the Birmingham Hacker Within community on 18 February 2019. 
