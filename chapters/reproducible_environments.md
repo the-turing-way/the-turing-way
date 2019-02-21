@@ -1,5 +1,29 @@
 # Reproducible environments
 
+- What is a computational environment?
+- Why is important to capture for reproducibility
+- Ways to capture computational environments
+  - Very quick runthrough with advice on **which to use for which circumstances**
+  - Making environments via conda etc **Other language equivalents?**
+  - YAML files
+    - What are they
+    - Syntax/tutorials
+    - Gotchas
+    - Quick note on security issues?
+    - **How to use them for reproducibility**  
+      - Say can export yml from conda and create environments from them. **Other language equivalents?**
+  - Images and Containers
+    - What are they
+    - How to use Docker to make/share images and run containers
+    - Mention Singularity +others maybe and give a quick pros/cons.
+  - Binder
+    - What it is
+    - How to use it to capture an environments
+  - Makefiles
+    - What they are
+    - How to write them to use them for reproducibility.
+
+
 ## Prerequisites / recommended skill level
 
 | Prerequisite | Importance | Notes |
@@ -466,7 +490,7 @@ Dan Walsh, a computer security leader best known for his work on SELinux, gives 
      command_to_do_thing_3 \
      command_to_do_thing_4
   ```
-  
+
 Practising with conda
 
 - Downloaded conda
