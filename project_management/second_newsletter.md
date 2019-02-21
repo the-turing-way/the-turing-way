@@ -53,9 +53,10 @@ At the end of the workshop you will know why this would be a useful resource for
 
 Three chapters are written and ready for your comments! 
 Version control, reproducibility and Open Research are ready for feedback. 
-If you want to comment, our updated contributing guidelines are available here.
 We're currently working on the chapters on research data management, reproducible computing environments, testing and continuous integration.
 You can follow the progress through the [pull requests on our GitHub repsoitory](https://github.com/alan-turing-institute/the-turing-way/pulls).
+We will review our contributing guidelines to make sure it's easy for you to feed back and add your knowledge to the Turing Way. 
+In the meantime, creating an issue on [GitHub](https://github.com/alan-turing-institute/the-turing-way/issues) or pinging us on [our gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) is always a good start!
 
 ## Talks
 The team has been spreading the word about the Turing Way project through various talks:
