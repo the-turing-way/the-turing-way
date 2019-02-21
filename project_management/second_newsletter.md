@@ -68,6 +68,14 @@ Resources for her talk can be found [here](https://github.com/alan-turing-instit
 * Patricia Herterich introduced the Turing Way to the Birmingham Hacker Within community on 18 February 2019. 
 Slides for her talk are published on [zenodo](http://doi.org/10.5281/zenodo.2566430).
 
+## Where to meet us in the next weeks
+
+If you can't make it to one of our workshops - we will attend a few other other events around the UK where you can chat to us in person.
+
+* Kirstie will be at the [Turing Lecture: Open source influences on technology innovation](https://www.turing.ac.uk/events/turing-lecture-open-source-influences-technology-innovation) at The Royal Society of Medicine, London on 27 February 2019
+
+* Most of the Turing Way team will be at the [Software Sustainability Insitute's Collaborations Workshop](https://www.software.ac.uk/cw19) in Loughborough 1 - 3 April 2019. We hope to see many of you there for the launch of our handbook!
+
 
 We would still love you to share your tips, tricks and gotchas with the Turing Way community!
 To add your advice to the handbook, please fill out our quick [submission form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
