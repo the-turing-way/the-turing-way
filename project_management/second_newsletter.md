@@ -8,7 +8,8 @@ It's been almost a month since we announced the project and we've made great pro
 We still have spots available for our workshops in March. 
 We can provide financial support to cover travel, accommodation or childcare costs to make it easier for you to attend. 
 Please get in touch at theturingway@gmail.com to let us know how we can support you.
-Note the start and end times, you're welcome to hang out for an extra hour but we'll officially finish at 4pm so that anyone with childcare responsibilities can get home!
+We start at 10am with coffee from 9:30am and finish at 4pm.
+You're welcome to hang out for an extra hour until 5pm but we'll officially finish at 4pm so that anyone with childcare responsibilities can get home!
 
 ### Boost your reproducibility with binder
 
