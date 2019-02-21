@@ -1,4 +1,4 @@
-# Open science
+# Open research
 
 ## Prerequisites / recommended skill level
 
@@ -10,13 +10,13 @@ Recommended skill level: low.
 
 ## Summary
 
-Open science aims to transform science by making research more reproducible, transparent, re-usable, collaborative, accountable and closer to society. It pushes for change in the way that research is carried out and disseminated by digital tools. One definition of Open science, as given by the OECD [is](https://www.fct.pt/dsi/docs/Making_Open_Science_a_Reality.pdf) the practice of making "the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction”. In order to achieve this openness in science, each element of the research process should:
+Open research aims to transform research by making research more reproducible, transparent, re-usable, collaborative, accountable and closer to society. It pushes for change in the way that research is carried out and disseminated by digital tools. One definition of Open research, as given by the OECD [is](https://www.fct.pt/dsi/docs/Making_Open_Science_a_Reality.pdf) the practice of making "the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction”. In order to achieve this openness in research, each element of the research process should:
 
 - Be publicly available: it is difficult to use and benefit from knowledge hidden behind barriers such as passwords
 - Be reusable: research outputs need to be licenced appropriately so that prospective users know clearly any limitations on re-use
 - Be transparent and have appropriate metadata to provide clear statements of how research output was produced and what it contains
 
-The research process typically has the following form: data is collected, it is then analysed (usually using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process it is good practice for researchers to document their working in notebooks. Open science aims to make each of these elements open:
+The research process typically has the following form: data is collected, it is then analysed (usually using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process it is good practice for researchers to document their working in notebooks. Open research aims to make each of these elements open:
 
 - Open data - documenting and sharing research data openly for re-use
 - Open source software - documenting research code and routines, and making them freely accessible and available
@@ -26,7 +26,7 @@ The research process typically has the following form: data is collected, it is 
 
 These elements are expanded upon in this chapter.
 
-Open scholarship is a concept that extends open science further. It relates to making other aspects of scientific research open to the public, e.g.
+Open scholarship is a concept that extends open research further. It relates to making other aspects of scientific research open to the public, e.g.
 
 - Open educational resources - making educational resources publicly available to be re-used and modified.
 - Equity, diversity, inclusion - ensuring scholarship is open to anyone without barriers based on factors such as race, gender, sexual orientation, etc.
@@ -367,7 +367,7 @@ Ideally, every scientist would maintain an open notebook in real-time which woul
 
 ## Open scholarship
 
-Open science and its subcomponents fit under the umbrella of a broader concept- open scholarship.
+Open research and its subcomponents fit under the umbrella of a broader concept- open scholarship.
 
 ![open_umbrella](../figures/open_umbrella.png)
 
