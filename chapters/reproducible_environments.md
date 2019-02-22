@@ -16,15 +16,18 @@
     - Quick note on security issues?
     - **How to use them for reproducibility**
       - Say can export yml from conda and create environments from them. **Other language equivalents?**
+  - Binder
+    - What it is
+    - How to use it to capture an environments
+    - mybinder config files
+  - Virtual machines
+    - ?
   - Images and Containers
     - What are they
     - How to use Docker to make/share images and run containers (warn need to be ok with it being open unless dockerhub)
     - **Are there less arduous ways of generating Dockerfiles/images than hand writing them? Yes, build on previous well tested ones**
     - **Are there standard structures for Dockerfiles/how does a novice know what to include?**
     - Mention Singularity (+ others maybe) and give a quick pros/cons.
-  - Binder
-    - What it is
-    - How to use it to capture an environments
   - Makefiles
     - What they are
     - How to write them to use them for reproducibility.
