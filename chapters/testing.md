@@ -14,6 +14,7 @@
 - Types of tests
   - Unit tests
     - Test small "units" of code
+    - If you code wrong and your test breaks, fix the code. If you improve your code and the test breaks, fix the test.
   - Integration tests
     - Check the pieces work together properly.
   - End to end tests
