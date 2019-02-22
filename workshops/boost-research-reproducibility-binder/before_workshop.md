@@ -7,7 +7,7 @@ We have funds available for travel and childcare support if you need them. Pleas
 
 Please bring some code and some data. The code should take less than 10 minutes to run, and the data should be less than 10 MB. This might mean that you just pick one script from a bigger project, or bring a subset of your data. Note that it's really important that the code and data can be made public because we'll be using the public binder instance.
 
-We have helpers at the event who are confident building binders for Python and R projects. They can be either scripts (`.py`, `.R`) or notebooks (`.ipynb` or `.Rmd`). If you are planning to bring code that is not written in R or Python, please send theturingway@gmail.com a little message to make sure that we're prepared for your project.
+We have helpers at the event who are confident building binders for Python and R projects. They can be either scripts (`.py`, `.R`) or notebooks (`.ipynb` or `.Rmd`). If you are planning to bring code that is not written in R or Python, please let us know at theturingway@gmail.com to make sure that we're prepared for your project.
 
 Please sign up for a GitHub account if you don't already have one: https://github.com/join.
 
