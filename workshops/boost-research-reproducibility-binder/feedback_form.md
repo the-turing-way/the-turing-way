@@ -13,7 +13,7 @@ We're particularly interested in how your knowledge and understanding has change
 | I understand why Binder can be useful                         |        |       |
 | I understand how to capture a computational environment       |        |       |
 | I feel confident about using Binder for my own work           |        |       |
-| I Feel confident in my ability to share reproducible research |        |       |
+| I feel confident in my ability to share reproducible research |        |       |
 
 ## Longer questions
 
