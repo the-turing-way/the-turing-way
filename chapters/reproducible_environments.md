@@ -7,7 +7,7 @@
   - Making environments via conda etc **Other language equivalents?**
     - Reasons to do so
     - How to do it
-    - mention pip freeze?
+    - mention pip freeze
   - YAML files
     - What are they
     - Syntax/tutorials
@@ -19,7 +19,7 @@
   - Images and Containers
     - What are they
     - How to use Docker to make/share images and run containers (warn need to be ok with it being open unless dockerhub)
-    - **Are there less arduous ways of generating Dockerfiles/images than hand writing them?**
+    - **Are there less arduous ways of generating Dockerfiles/images than hand writing them? Yes, build on previous well tested ones**
     - **Are there standard structures for Dockerfiles/how does a novice know what to include?**
     - Mention Singularity (+ others maybe) and give a quick pros/cons.
   - Binder
@@ -41,6 +41,7 @@
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
 | Experience with the command line | Necessary | Experience with downloading software via the command line is particularly useful |
+| Version control | Helpful | Particularly with using version control via GitHub |
 
 Recommended skill level: intermediate-advanced.
 
