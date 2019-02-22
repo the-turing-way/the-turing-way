@@ -22,7 +22,7 @@ We would like your permission to share your (anonymous) responses to these quest
 | I consent |      |
 | --------- |------|
 
-### What did you like about this workshop
+### What did you like about this workshop?
 
 &nbsp;
 
@@ -30,7 +30,7 @@ We would like your permission to share your (anonymous) responses to these quest
 
 &nbsp;
 
-### What about this workshp do you think could be improved
+### What about this workshp do you think could be improved?
 
 &nbsp;
 
