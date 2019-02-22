@@ -7,13 +7,12 @@ Thank you very much for coming to this workshop! We'd really appreciate it if yo
 
 We're particularly interested in how your knowledge and understanding has changed as a result of this workshop. Please rate how strongly you would agree with the following statements before the workshop and after completing it. Please rate from 1 to  5 with 1 being strong disagreement and 5 being strong agreement.
 
-| Statement                                                     | Before | After |
-|---------------------------------------------------------------|--------|-------|
-| I understand what Binder does                                 |        |       |
-| I understand why Binder can be useful                         |        |       |
-| I understand how to capture a computational environment       |        |       |
-| I feel confident about using Binder for my own work           |        |       |
-| I Feel confident in my ability to share reproducible research |        |       |
+| Statement                                          | Before | After |
+|----------------------------------------------------|--------|-------|
+| I understand what a BinderHub does                 |        |       |
+| I understand why a BinderHub can be useful         |        |       |
+| I understand how to use a BinderHub                |        |       |
+| I feel confident about setting up my own BinderHub |        |       |
 
 ## Longer questions
 
@@ -38,7 +37,7 @@ We would like your permission to share your (anonymous) responses to these quest
 
 &nbsp;
 
-### Can you see yourself making use of Binder in the future? If so in what capacity?
+### Can you see yourself building a BinderHub in the future?
 
 &nbsp;
 
