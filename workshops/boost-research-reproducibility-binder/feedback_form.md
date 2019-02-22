@@ -29,24 +29,19 @@ We would like your permission to share your (anonymous) responses to these quest
 &nbsp;
 
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 ### What about this workshp do you think could be improved
 
 &nbsp;
+
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
 &nbsp;
 
 ### Can you see yourself making use of Binder in the future? If so in what capacity?
 
 &nbsp;
+
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
 &nbsp;
