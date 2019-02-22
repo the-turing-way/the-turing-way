@@ -19,15 +19,23 @@ We're particularly interested in how your knowledge and understanding has change
 
 We would like your permission to share your (anonymous) responses to these questions. Please tick here if you consent to this:
 
-| I consent |
-| --------- |
+| I consent |      |
+| --------- |------|
 
 ### What did you like about this workshop
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### What about this workshp do you think could be improved
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### Can you see yourself making use of Binder in the future? If so in what capacity?
+
+&nbsp;
+&nbsp;
+&nbsp;
