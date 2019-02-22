@@ -1,6 +1,6 @@
 # Continuous integration
 
-- What is continuous integration, delivery and deployment (not all that relevant for research)
+- What is continuous integration, delivery and deployment (not all that relevant for research) outline these fairly well.
 - Why to use them in a research project
   - If multiple people are doing research using their own copy of some code then it's harder to combine work the longer you leave it.
   - Keeping everyone up to date means they can take advantage of improvements made by others earlier
@@ -11,7 +11,7 @@
     - direct to version control chapter
     - Give brief outline of why github's a good idea for collaborative projects anyway
     - But just say for the purposes of this to upload
-    - Warn need to be ok with making public, talk about other limitations of travis (time etc?).
+    - Warn need to be ok with making public (unless academic (student?) can get free private), talk about other limitations of travis (time etc?).
   - How to link github repo and travis
   - .travis.yml
     - Outline minimum basic structure
@@ -735,16 +735,25 @@ Instead of deleting build logs manually, you can do so using the [Travis CI CLI]
 Rotate your tokens and secrets regularly. GitHub OAuth tokens can be found in your [Developer Settings](https://github.com/settings/developers) on the GitHub site. Please regularly rotate credentials for other third-party services as well.
 
 
+
+## Prerequisites / recommended skill level
+
+| Prerequisite | Importance | Notes |
+| -------------|------------|-------|
+| Experience with the command line | Helpful |  |
+| Version control | Moderately helpful | Particularly useful to have experience with GitHub |
+| Testing | Necessary | An in depth understanding is not required, but at least a basic understanding is |
+| Reproducible computational environments | Necessary | |
+
+An understanding of version control is necessary for this chapter (see the version control chapter for details). It is also highly recommended that you read the chapters on testing and reproducible environments prior to reading this chapter.  
+
 ## Summary
 > easy to understand summary - a bit like tl;dr
 
 ## How this will help you/ why this is useful
 > why we think you should read the whole thing
 
-## Prerequisites / recommended skill level
-An understanding of version control is necessary for this chapter (see the version control chapter for details). It is also highly recommended that you read the chapters on testing and reproducible environments prior to reading this chapter.  
-
-
+## Chapter content
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
