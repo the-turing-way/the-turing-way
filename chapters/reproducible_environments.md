@@ -46,6 +46,8 @@
 | Experience with the command line | Necessary | Experience with downloading software via the command line is particularly useful |
 | Version control | Helpful | Particularly with using version control via GitHub |
 
+A tutorial on working the the command line can be found [here](https://programminghistorian.org/en/lessons/intro-to-bash).
+
 Recommended skill level: intermediate-advanced.
 
 ## Summary
