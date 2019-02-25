@@ -549,7 +549,10 @@ Using Sarah's notes (workshop/10-zero-to-binder.md), adapted from bit.ly/zero-to
 - Saved the notebook by clicking on file and then save and typing a name for the notebook.
 - Closed the notebook tab.
 - In the binder there's now a .ipynb file with that name
-- Shared the link to my binder to see if others could see the notebook and the results in it.
+- Shared the link to my binder with the .ipynb file to see if others could see the notebook and the results in it.
+- Failed. They don't have access. Instead shared the link to generate the binder (https://mybinder.org/v2/gh/r-j-arnold/binder_test_1/master). That generates it fresh so doesn't include the notebook, but it does the scripts etc.
+- Chatted with Will. So it's not possible (or at least not intended) to open a binder, create a notebook there, and then share work done on that. Instead you need to make and commit a notebook to your GitHub repo, and you can commit it with work already done on it (graphs etc). Binder being well integrated with Jupyter means that they can be opened easily without needing to install anything additional or whatever in your binder. However you can't *commit* the work done in the notebooks on binder. You can also make new notebooks like making terminals in binder as previously discussed if someone what's to run/try out things with the code but it isn't saved to your repo the same way work done on a terminal isn't.
+- Also at any point you can go to [mybinder.org](mybinder.org) and fill out the repo, branch etc and get the (which is sharable) to generate binder from it.
 
 
 
