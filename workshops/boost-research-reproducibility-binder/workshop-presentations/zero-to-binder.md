@@ -123,7 +123,7 @@ This time, BinderHub will read `requirements.txt` and install version `1.14.5` o
 ## 6. Sharing your Work
 
 Binder is all about sharing your work easily and there are two ways to do it:
-* Share the **https://mybinder.org/v2/gh/your-username/my-first/binder/master** URL directly
+* Share the **https://mybinder.org/v2/gh/your-username/my-first-binder/master** URL directly
 
 * Visit **https://mybinder.org**, type in the URL of your repo and copy the Markdown or ReStructured Text snippet into your `README.md` file.
   This snippet will render a badge that people can click, which looks like this: ![Binder](https://mybinder.org/badge_logo.svg)
@@ -153,3 +153,21 @@ Here you can access:
 * A text editor
 
 If you use R, you can also open **RStudio** using `?urlpath=rstudio`.
+
+## Now over to you!
+
+Now you've binderized (bound?) this demo repo, it's time to binderize the example script and data you brought along!
+
+**Some useful links:**
+
+* Choosing languages:
+
+  > **https://mybinder.readthedocs.io/en/latest/howto/languages.html**
+
+* Configuration files:
+
+  > **https://mybinder.readthedocs.io/en/latest/config_files.html**
+
+* Example Binder repos:
+
+  > **https://mybinder.readthedocs.io/en/latest/sample_repos.html**
