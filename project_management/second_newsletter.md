@@ -72,7 +72,8 @@ Slides for her talk are published on [zenodo](http://doi.org/10.5281/zenodo.2566
 
 If you can't make it to one of our workshops - we will attend a few other other events around the UK where you can chat to us in person.
 
-* Kirstie will be at the [Turing Lecture: Open source influences on technology innovation](https://www.turing.ac.uk/events/turing-lecture-open-source-influences-technology-innovation) at The Royal Society of Medicine, London on 27 February 2019
+* Kirstie will be at the [Turing Lecture: Open source influences on technology innovation](https://www.turing.ac.uk/events/turing-lecture-open-source-influences-technology-innovation) at The Royal Society of Medicine, London on 27 February 2019.
+  There are still tickets available if you'd like to come!
 
 * Most of the Turing Way team will be at the [Software Sustainability Insitute's Collaborations Workshop](https://www.software.ac.uk/cw19) in Loughborough 1 - 3 April 2019. We hope to see many of you there for [the launch demo](https://software.ac.uk/blog/2019-02-21-inspiring-demos-are-waiting-you-collaborations-workshop-2019) of our handbook!
 
