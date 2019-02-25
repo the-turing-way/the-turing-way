@@ -6,6 +6,8 @@ Sarah Gibson, _The Alan Turing Institute_
 
 Based on Tim Head's _Zero-to-Binder_ workshops which can be found here: http://bit.ly/zero-to-binder and http://bit.ly/zero-to-binder-rise
 
+To follow these instructions on your own machine, follow this link: **http://bit.ly/SG-zero-to-binder**
+
 ## Running Code is more complicated than Displaying Code
 
 GitHub is a great service for sharing code, but the contents are **static**.
