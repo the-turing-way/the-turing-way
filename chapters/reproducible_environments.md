@@ -89,7 +89,9 @@ Materials used:
 
 ## Ways to capture computational environments
 
-There are a number of ways to capture a computational environment, here we will discuss the major ones.
+There are a number of ways to capture a computational environment, and which is the most appropriate for you will depend  on the nature of your project. If you are working with languages such as Python and R which have a number of tools for freezing and exporting environments as YAML files (discussed later in this chapter) then using one of those tools is likely the best course of action.
+
+*Outline other and why*
 
 
 - As always prevention is better than a cure! If you can install the specific version at the time of running and not up date it.
@@ -517,8 +519,40 @@ Practising with conda
 - Get a list of the conda environments you have using `conda env list`
 - To delete a conda environment do `conda remove --name your_environment_name --all`. When you delete an environment you have to rpeciify all the packages it contains. If you don't want to type them out just use the `--all` option as I have here.
 - To export a conda environment activate the environment and then run `conda env export > environment.yml`
-- If you have an environment file and you want to create an environment from it do `conda env create -f environment.yml
+- If you have an environment file and you want to create an environment from it do `conda env create -f environment.yml`
 - numpy is one of the packages included by default, so even if I don't specify it when setting up an environment if I run python in an environment and try `import numpy` it works. However for packages that aren't included, like flask, importing them only works if they're specified when creating the environment.
+
+## Learning how to use Binder
+
+Using Sarah's notes (workshop/10-zero-to-binder.md), adapted from bit.ly/zero-to-binder and bit.ly/zero-to-binder-rise
+
+- Made a simple python script and put in in a new repo on github. Included a readme, not sure if that's necessary or good practise but the instructions told me to.
+- Went to [mybinder.org](mybinder.org) and copied in the link to my repos where it told me, and in the branch I specified master. It gave me this link to share with others to show them my binder: https://mybinder.org/v2/gh/r-j-arnold/binder_test_1/master
+- I clicked launch. Took me to a page showing the files in my repo and if I click on them I could edit them (not sure if this would impact my github, doubt it, will try)
+- Went to the link it gave me (https://mybinder.org/v2/gh/r-j-arnold/binder_test_1/master). Took ages to load. When it did it just showed me my files again.
+- Clicked the dropdown `New` in the upper right of that page and them selected terminal. A new tab opened with the terminal and I ran the code using `python my_script_name.py`.
+- I like working with terminals but by selecting a different option on that menu you can open a Jupyter notebook instead.
+- Changed my script so it imported and used numpy, then went to the link again. When I tried to run the script it failed because there was `No module named numpy` in my environment.
+- Created a requirements.txt file and added numpy to it. It then sucessfuly ran.
+- Added function in the script that requires a certain version of numpy, and specified that in requirements.txt.
+  ```
+  numpy==1.15.1
+  ```
+  (Note the `==` not `=`. Did single = originally and binder failed to load.)
+- Reopened the binder, worked.
+- In requrements.txt then changed numpy to a version which doesn't have that function. Reloaded the binder.
+- Binder successfully loaded, but when I ran the code it executed the first few lines but stopped with an error on the line using numpy to do something that version couldn't.
+- I guess that means *binder* only breaks if it can't put together the environment specified. Otherwise if your code breaks because *it's* trying to do something that can't be done then it breaks in the terminal with errors as usual.
+- Fixed the wrong version of numpy in requirements.txt.
+- Started a Jupyter notebook instead of a terminal.
+- In it did `%run my_script_name.py` and ran it. It outputted the correct result.
+- Saved the notebook by clicking on file and then save and typing a name for the notebook.
+- Closed the notebook tab.
+- In the binder there's now a .ipynb file with that name
+- Shared the link to my binder to see if others could see the notebook and the results in it.
+
+
+
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
