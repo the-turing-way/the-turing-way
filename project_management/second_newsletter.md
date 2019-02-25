@@ -53,9 +53,9 @@ At the end of the workshop you will know why this would be a useful resource for
 ## Handbook
 
 Three chapters are written and ready for your comments! 
-Version Control, Reproducibility and Open Research are ready for feedback. 
-We're currently working on the chapters on Research Data Management, Reproducible Computing Environments, Testing and Continuous Integration.
-You can follow the progress through the [pull requests on our GitHub repsoitory](https://github.com/alan-turing-institute/the-turing-way/pulls): [#146](https://github.com/alan-turing-institute/the-turing-way/pull/146), [#147](https://github.com/alan-turing-institute/the-turing-way/pull/147) & [#148](https://github.com/alan-turing-institute/the-turing-way/pull/148).
+[Version Control](https://github.com/alan-turing-institute/the-turing-way/blob/master/chapters/version_control.md), [Reproducibility](https://github.com/alan-turing-institute/the-turing-way/blob/master/chapters/reproducibility.md) and [Open Research](https://github.com/alan-turing-institute/the-turing-way/blob/master/chapters/open_research.md) are ready for feedback.  
+We're currently working on the chapters on Research Data Management, Reproducible Computing Environments, Testing, and Continuous Integration. 
+You can follow the progress through the [pull requests on our GitHub repsoitory](https://github.com/alan-turing-institute/the-turing-way/pulls): [#146](https://github.com/alan-turing-institute/the-turing-way/pull/146), [#147](https://github.com/alan-turing-institute/the-turing-way/pull/147) & [#148](https://github.com/alan-turing-institute/the-turing-way/pull/148).  
 We're still building up our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way) to make sure it's easy for you to feed back and add your knowledge to the Turing Way. 
 In the meantime, creating an issue on [GitHub](https://github.com/alan-turing-institute/the-turing-way/issues) or pinging us on [our gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) is always a good start!
 
