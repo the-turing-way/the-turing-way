@@ -7,7 +7,7 @@
   - Making environments via conda etc **Other language equivalents?**
     - Reasons to do so
     - How to do it
-    - mention pip freeze
+    - mention pip freeze. [Link](https://programminghistorian.org/en/lessons/installing-python-modules-pip) to installing modules with pip
   - YAML files
     - What are they
     - Syntax/tutorials
