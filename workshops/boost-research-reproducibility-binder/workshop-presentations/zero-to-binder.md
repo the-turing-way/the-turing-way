@@ -4,7 +4,7 @@ Sarah Gibson, _The Alan Turing Institute_
 
 [**The Turing Way**](https://github.com/alan-turing-institute/the-turing-way) - making reproducible Data Science "too easy not to do"
 
-Based on Tim Head's Zero-to-Binder workshops which can be found here: http://bit.ly/zero-to-binder and http://bit.ly/zero-to-binder-rise
+Based on Tim Head's _Zero-to-Binder_ workshops which can be found here: http://bit.ly/zero-to-binder and http://bit.ly/zero-to-binder-rise
 
 ## Running Code is more complicated than Displaying Code
 
@@ -28,7 +28,7 @@ You can create a link to a **live, interactive** version of your code!
 
 * An example binder link:
 
-  > **https://mybinder.org/v2/gh/trekhleb/homemade-machine-learning/master?filepath=notebooks%2Fanomaly_detection%2Fanaomaly_detection_gaussian_demo.ipynb**
+  > **https://mybinder.org/v2/gh/trekhleb/homemade-machine-learning/master?filepath=notebooks%2Fanomaly_detection%2Fanomaly_detection_gaussian_demo.ipynb**
 
   From this repo: **https://github.com/trekhleb/homemade-machine-learning**
 
@@ -149,4 +149,4 @@ Here you can access:
 * Terminals
 * A text editor
 
-If you use R, you can also open RStudio using `?urlpath=rstudio`.
+If you use R, you can also open **RStudio** using `?urlpath=rstudio`.
