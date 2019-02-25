@@ -40,10 +40,9 @@ You can create a link to a **live, interactive** version of your code!
 **TO DO:** :vertical_traffic_light:
 
 1) Create a new repo on GitHub called "my-first-binder".
-  Don't forget to initialise with a README!
+   * Don't forget to initialise with a README!
 2) Create a file called `hello.py` via the web interface with `print("Hello from Binder!")` on the first line and commit to master
-
-Bad practice :see_no_evil: but we're not collaborating right now!
+   * Bad practice :see_no_evil: but we're not collaborating right now!
 
 ## 2. Launch your first repo!
 
@@ -61,7 +60,7 @@ Bad practice :see_no_evil: but we're not collaborating right now!
    > **https://mybinder.org/v2/gh/your-username/my-first-binder/master**
 
 4) Copy it, open a new browser tab and visit that URL.
-  You will see a "spinner" as Binder launches the repo.
+   * You will see a "spinner" as Binder launches the repo.
 
 If everything ran smoothly, you'll see a Jupyter Notebook interface.
 
@@ -125,7 +124,7 @@ Binder is all about sharing your work easily and there are two ways to do it:
 * Share the **https://mybinder.org/v2/gh/your-username/my-first/binder/master** URL directly
 
 * Visit **https://mybinder.org**, type in the URL of your repo and copy the Markdown or ReStructured Text snippet into your `README.md` file.
-  This snippet will render a badge that people cal click, which looks like this: ![Binder](https://mybinder.org/badge_logo.svg)
+  This snippet will render a badge that people can click, which looks like this: ![Binder](https://mybinder.org/badge_logo.svg)
 
 **TO DO:** :vertical_traffic_light:
 
@@ -139,9 +138,11 @@ Binder is all about sharing your work easily and there are two ways to do it:
 ## Beyond Notebooks...
 
 **JupyterLab** is installed into your containerized repo by default.
-You can access by changing the URL you visit to:
+You can access the environment by changing the URL you visit to:
 
 > **https://mybinder.org/v2/gh/your-username/my-first-binder/master?urlpath=lab**
+
+**N.B.:** We've already seen how the `?filepath=` argument can link to a specific file.
 
 Here you can access:
 * Notebooks
