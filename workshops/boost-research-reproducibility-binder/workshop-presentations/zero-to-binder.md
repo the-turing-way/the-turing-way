@@ -137,6 +137,69 @@ Binder is all about sharing your work easily and there are two ways to do it:
 
 2) Click the badge to make sure it works!
 
+## 7. Accessing data in your Binder
+
+Another kind of dependency for projects is **data**.
+There are different ways to make data available in your Binder depending on the size of your data and your preferences for sharing it.
+
+#### Small public files
+
+The simplest approach for small, public data files is to add them directly into your GitHub repository.
+They are then directly encapsulated into the environment and versioned along with your code.
+
+This is ideal for files up to **10MB**.
+
+#### Medium public files
+
+To access medium files **from a few 10s MB up to a few hundred MB**, you can add a file called `postBuild` to your repo.
+A `postBuild` file is a shell script that is executed as part of the image construction and is only executed once when a new image is built, not every time the Binder is launched.
+
+#### Large public files
+
+It is not practical to place large files in your GitHub repo or include them directly in the image that Binder builds.
+The best option for large files is to use a library specific to the data format to stream the data as you're using it or to download it on demand as part of your code.
+
+For security reasons, the outgoing traffic of your Binder is restricted to HTTP or GitHub connections only. You will not be able to use FTP sites to fetch data on mybinder.org.
+
+#### Private files
+
+There is no way to access files which are not public from mybinder.org.
+You should consider all information in your Binder as public, meaning that:
+* there should be no passwords, tokens, keys etc in your GitHub repo;
+* you should not type passwords into a Binder running on mybinder.org;
+* you should not upload your private SSH key or API token to a running Binder.
+
+In order to support access to private files, you would need to create a local deployment of [BinderHub](https://binderhub.readthedocs.io/en/latest/) where you can decide the security trade offs yourselves.
+
+## 8. Get data with `postBuild`
+
+**TO DO:** :vertical_traffic_light:
+
+1) Go to your GitHub repo and create a file called `postBuild`
+2) In `postBuild`, add a single line reading: `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
+3) Update your `requirements.txt` file by adding a new line with `pandas` on it and another new line with `matplotlib` on it
+   * These packages aren't necessary to download the data but we will use them to read the CSV file and make a plot
+4) Click the binder badge in your README to launch your Binder
+
+Once the Binder has launched, you should see a new file has appeared that was not part of your repo when you clicked the badge.
+
+Now visualise the data by creating a new notebook ("New" :arrow_right: "Python 3") and run the following code in a cell.
+
+```python
+%matplotlib inline
+
+import pandas
+
+data = pandas.read_csv("gapminder.csv", index_col="country")
+
+years = data.columns.str.strip("gdpPercap_")  # Extract year from last 4 characters of each column name
+data.columns = years.astype(int)              # Convert year values to integers, saving results back to dataframe
+
+data.loc["Australia"].plot()
+```
+
+See this [Software Carpentry lesson](https://swcarpentry.github.io/python-novice-gapminder/09-plotting/index.html) for more info.
+
 ## Beyond Notebooks...
 
 **JupyterLab** is installed into your containerized repo by default.
