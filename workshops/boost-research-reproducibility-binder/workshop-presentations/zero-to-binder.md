@@ -103,6 +103,16 @@ It's useful when your build fails or something you think _should_ be installed i
 
 This time, BinderHub will read `requirements.txt` and install version `1.14.5` of the `numpy` package.
 
+#### More on pinning dependencies
+
+In the above example, we used two equals signs (`==`) to pin the version of `numpy`.
+This tells Binder to install that _specific_ version.
+
+Another way to pin a version number is to use the greater than or equal to sign (`>=`) to allow any version above a particular one to be installed.
+This is useful when you have a lot of dependencies that may have dependencies on each other and allows Binder to find a configuration of your dependencies that do not conflict with one another whilst avoiding any earlier versions which may break or change your code.
+
+Finally, you could not provide a version number at all (just the name of the library/package) and Binder will install the latest version of that package.
+
 ## 5. Check the Environment
 
 **TO DO:** :vertical_traffic_light:
