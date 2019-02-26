@@ -4,7 +4,7 @@
 - Why is important to capture for reproducibility
 - Ways to capture computational environments
   - Very quick runthrough with advice on **which to use for which circumstances**
-  - Making environments via conda etc **Other language equivalents?**
+  - Making environments via conda etc **Other language equivalents? R can be installed via conda, most R packages are archived on CRAN**
     - Reasons to do so
     - How to do it
     - mention pip freeze. [Link](https://programminghistorian.org/en/lessons/installing-python-modules-pip) to installing modules with pip
@@ -77,7 +77,6 @@ As such it is vital for researcher to understand and capture the computational e
 - Collaborators. Much research is now collaborative, and conducting research in multiple different computational environments, potentially even at different institutions opens up a minefield of potential bugs. Trying to fix these kinds of issues is often time consuming and frustrating as researchers have to figure out what the differences between computational environment are, and their effects. Worse, some bugs may remain undetected potentially impacting the results.
 - Science itself. Scholarly research has evolved significantly over the past decade, the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination – the scholarly publication –is largely unchanged since the advent of the scientific journal in the 1660’s. This is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of the need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying analysis and, crucially, the computational environment that produced the findings. For research to be reproducible researchers must publish and distribute the entire contained analysis not just its results. The analysis should be *mobile*. Mobility of compute is defined as the ability to define, create, and maintain a workflow locally while remaining confident that the workflow can be executed elsewhere. In essence, mobility of compute means being able to contain the entire software stack, from data files up through the library stack, and reliability move it from system to system. Any research that is limited to where it can be deployed is instantly limited in the extent that it can be reproduced.
 
-
 This chapter will describe how to capture, preserve and share computational environments along with code to ensure research is reproducible.
 
 Materials used:
@@ -100,7 +99,6 @@ There are a number of ways to capture a computational environment, and which is 
     - Equivalent for R
 
 
-
 The advent of virtual machines [4, 5] introduced the exciting reality than an entire environment, including software dependencies, libraries, runtime code, and data, could be encapsulated and run anywhere. Virtual machines, however, also introduced large computational overhead due to the required level of virtualization for emulating the OS and kernel. With the addition of lightweight virtualization features to the Linux kernel (e.g., namespaces) a new lightweight virtualization, containers [15, 16], became possible to implement. Implementations such as Docker, one of the container solutions made open source in 2013 [15, 16], offered additional improvements over standard virtual machines. Containers could share resources with the host without incurring much of the performance penalties of hardware-level virtualization [17].
 
 Researchers can develop reproducible containers on their local machines, providing a simple way to collaborate on code or applications without the hassle of having different software versions or broken dependencies. Containers are ideal not just for the final analysis, but for the development of it. A user is most comfortable working with his or her text editor, programs, and environment of choice, and containers make it possible to work locally and develop in a specific environment simultaneously.
@@ -111,9 +109,26 @@ One of the major factors that prevents Docker from being the standard container 
 [Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
 
 
+### Package management systems
+https://www2.dmst.aueb.gr/dds/pubs/jrnl/2005-IEEESW-TotT/html/v29n2.html
+https://www.howtogeek.com/117579/htg-explains-how-software-installation-package-managers-work-on-linux/
+https://searchmobilecomputing.techtarget.com/definition/package-manager-or-package-management-system-PMS
+
+- Making environments via conda etc **Other language equivalents? R can be installed via conda, most R packages are archived on CRAN** Yum, Zypper https://opensource.com/article/18/7/evolution-package-managers?
+  - Reasons to do so
+  - How to do it
+  - mention pip freeze. [Link](https://programminghistorian.org/en/lessons/installing-python-modules-pip) to installing modules with pip
 
 ### YAML files
 
+- YAML files
+  - What are they
+  - Syntax/tutorials
+  - Gotchas
+  - **Are there standard structures for yaml files/how does a novice know what to include?**
+  - Quick note on security issues?
+  - **How to use them for reproducibility**  
+    - Say can export yml from conda and create environments from them. **Other language equivalents?**
 
 - It's actually really easy to capture your computational environment:
   - `pip freeze` https://pip.pypa.io/en/stable/reference/pip_freeze/
