@@ -32,13 +32,6 @@
     - What they are
     - How to write them to use them for reproducibility.
 
-
-- feedback on order?
-- Python centric (standard ways of capturing environment in other languages that I don't know about?)
-- Missing anything?
-- Which to use in which circumstances
-
-
 ## Prerequisites / recommended skill level
 
 | Prerequisite | Importance | Notes |
@@ -46,7 +39,7 @@
 | Experience with the command line | Necessary | Experience with downloading software via the command line is particularly useful |
 | Version control | Helpful | Particularly with using version control via GitHub |
 
-A tutorial on working the the command line can be found [here](https://programminghistorian.org/en/lessons/intro-to-bash).
+A tutorial on working via the command line can be found [here](https://programminghistorian.org/en/lessons/intro-to-bash).
 
 Recommended skill level: intermediate-advanced.
 
@@ -58,17 +51,15 @@ Recommended skill level: intermediate-advanced.
 
 Computational environment is (in broad terms) the system setup where a program is being run. This includes features of hardware (e.g. numbers of cores in any CPUs) and features of software (e.g. the operating system, what programming languages are installed, which supporting packages/versions of those packages are included, what other pieces of software are installed and how are they configured).
 
-Software versions are often defined  via [semantic versioning](https://semver.org). In this system three numbers, e.g 2.12.4 are used to define each version of a piece of software. When a change is made to the software then its version is incremented. These three numbers follow the pattern MAJOR.MINOR.PATCH, and are incremented as follows:
+Software versions are often defined via [semantic versioning](https://semver.org). In this system three numbers, e.g 2.12.4 are used to define each version of a piece of software. When a change is made to the software then its version is incremented. These three numbers follow the pattern MAJOR.MINOR.PATCH, and are incremented as follows:
 
-- MAJOR: significant changes.
-- MINOR: to add functionality.
-- PATCH: for bug fixes.
+- MAJOR: significant changes
+- MINOR: to add functionality
+- PATCH: for bug fixes
 
 Materials used: [semantic versioning](https://semver.org)
 
 ## How this will help you/ why this is useful
-
-The pervasive use of computation for scientific discovery has ushered in a new type of scientific research process. Researchers, irrespective of scientific domain, routinely rely on large amounts of data, specialized computational infrastructure, and sophisticated analysis processes from which to test hypotheses and derive results. While scholarly research has evolved significantly over the past decade, the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination – the scholarly publication –is largely unchanged since the advent of the scientific journal in the 1660’s. This disparity has led many to argue that the scholarly publication is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of the need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying analysis and environment that produced the findings.
 
 Let's go though an example of why computational environments are important. Say I have a very simple python script:
 
@@ -78,13 +69,16 @@ b = 5
 print(a/b)
 ```
 
-One divided by five is `0.2`, and that is what is printed if this script is run using python 3. However if a slightly older version of python, python 2, is used the result printed is `0` because both a and b are integers so in python 2 an integer is returned. Therefore this simple, simple script returns *different* answers depending on the computational environment it is run in. This is a mistake that would be very easy to make, and demonstrates how a perfectly valid piece of code can output different results depending on the environment it is run in.
+One divided by five is `0.2`, and that is what is printed if this script is run using python 3. However if a slightly older version of python, python 2, is used the result printed is `0` because both a and b are integers so in python 2 an integer is returned. Therefore this simple, simple script returns *different* answers depending on the computational environment it is run in. This is a mistake that would be very easy to make, and demonstrates how a perfectly valid piece of code can output different results depending on the environment it is run in. If such bugs can impact a simple script like this you can only imagine how many could appear in a complex analysis procedure which may involve thousands of lines of code and dozens of dependent packages/pieces of software.
 
-If such bugs can impact a simple script like this you can only imagine how many could appear in a complex analysis procedure which may involve thousands of lines of code and dozens of dependent packages/pieces of software. Therefore even if a researcher shares their code and any associated data a colleague could not confidently reproduce their work unless they also knew the computational environment to run the analysis in. Similarly if you need to come back to an old piece of your own work (as is common in research), but have updated packages since then you may find your code generating different results or not working at all. Trying to fix these kinds of issues is often time consuming and frustrating as you have to figure out what in your computational environment has changed. This is particularly difficult if you have no record of what your computational environment was when you carried out the research.
+As such it is vital for researcher to understand and capture the computational environments they are conducting their work in, as it has the potential to impact three parties:
+
+- The researcher themselves. If the environment is not captured and a research needs to return to a project after months or years (as is common in research) they will be unable to confidently do so as they will have no way of knowing what the potential changes to the environment are or what impact they have on the results. That is if they are still able to run their analysis in the modified computational environment, which may or may not be the case.   
+- Collaborators. Much research is now collaborative, and conducting research in multiple different computational environments, potentially even at different institutions opens up a minefield of potential bugs. Trying to fix these kinds of issues is often time consuming and frustrating as researchers have to figure out what the differences between computational environment are, and their effects. Worse, some bugs may remain undetected potentially impacting the results.
+- Science itself. Scholarly research has evolved significantly over the past decade, the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination – the scholarly publication –is largely unchanged since the advent of the scientific journal in the 1660’s. This is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of the need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying analysis and, crucially, the computational environment that produced the findings. For research to be reproducible researchers must publish and distribute the entire contained analysis not just its results. The analysis should be *mobile*. Mobility of compute is defined as the ability to define, create, and maintain a workflow locally while remaining confident that the workflow can be executed elsewhere. In essence, mobility of compute means being able to contain the entire software stack, from data files up through the library stack, and reliability move it from system to system. Any research that is limited to where it can be deployed is instantly limited in the extent that it can be reproduced.
+
 
 This chapter will describe how to capture, preserve and share computational environments along with code to ensure research is reproducible.
-
-For the research to be reproducible the researcher must be able to publish and distribute the entire contained analysis not just its results. The analysis should be *mobile*. Mobility of compute is defined as the ability to define, create, and maintain a workflow locally while remaining confident that the workflow can be executed elsewhere. In essence, mobility of compute means being able to contain the entire software stack, from data files up through the library stack, and reliability move it from system to system. Any product that is limited to where it can be deployed is instantly limited in the extent that it can be reproduced.
 
 Materials used:
 [A. Brinckman, et al., Computing environments for reproducibility: Capturing the "Whole Tale", Future Generation Computer Systems (2018), https://doi.org/10.1016/j.future.2017.12.029](https://www.sciencedirect.com/science/article/pii/S0167739X17310695) **Attribution 4.0 International (CC BY 4.0)**, [Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
