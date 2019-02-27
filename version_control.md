@@ -59,7 +59,7 @@ Recommended skill level: beginner - intermediate. Version control has a great de
 14. [Checklists](#Checklists)
     1. [Make use of Git](#Make_use_of_Git)
     2. [Put your project on GitHub](#Put_your_project_on_GitHub)
-    3. [Contribute to someone else's project]("Contribute_to_someone_else's_project)
+    3. [Contribute to someone else's project]("Contribute_to_someone_elses_project)
 15. [What to learn next](#What_to_learn_next)
 16. [Further reading](#further_reading)
 17. [Definitions/glossary](#Glossary)
@@ -656,7 +656,7 @@ In pull requests you should **clearly explain what the changes you've made are a
 - [ ] Set expectations for how collaborators are expected to behave via a code of conduct and or ways of working document
 - [ ] Use issues to track and discuss modifications to the project
 
-<a name="Contribute_to_someone_else's_project"></a>
+<a name="Contribute_to_someone_elses_project"></a>
 ### Contribute to someone else's project
 - [ ] Clone their project's repository from GitHub `git clone repository_url`
 - [ ] Make and commit changes
