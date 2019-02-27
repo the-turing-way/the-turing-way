@@ -47,7 +47,7 @@ Recommended skill level: beginner - intermediate. Version control has a great de
 11. [Merge Conflicts](#merge_conflicts)
     1. [The problem](#Merge_conflicts_the_problem)
     2. [The solution](#Merge_conflicts_the_solution)
-    3. [How to do it](#Merging_how_to_do_it)
+    3. [How to do it](#Merge_conflicts_how_to_do_it)
     4. [Good practice](#Merge_conflicts_good_practice)
 12. [GitHub](#GitHub)
     1. [The problem](#GitHub_the_problem)
