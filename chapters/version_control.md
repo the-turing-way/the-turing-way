@@ -54,7 +54,7 @@ Recommended skill level: beginner - intermediate. Version control has a great de
     2. [The solution](#GitHub_the_solution)
     3. [How to do it](#GitHub_how_to_do_it)
         1. [Pull requests](#GitHub_how_to_do_it_pull_requests)
-    4. [Good practice](#Branches_good_practice)
+    4. [Good practice](#GitHub_good_practice)
 13. [Summary of key Git commands](#Summary_of_key_Git_commands)
 14. [Checklists](#Checklists)
     1. [Make use of Git](#Make_use_of_Git)
