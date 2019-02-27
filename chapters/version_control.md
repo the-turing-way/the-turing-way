@@ -12,7 +12,7 @@ Recommended skill level: beginner - intermediate. Version control has a great de
 
 1. [Summary](#Summary)
 2. [How version control is helpful](#How_version_control_is_helpful)
-3. [Version control: what it is and how it can be used to manage an evolving project](what_version_control_is_and_how_it_can_be_used)
+3. [Version control: what it is and how it can be used to manage an evolving project](#what_version_control_is_and_how_it_can_be_used)
     1. [What it is](#what_it_is)
     2. [The basic workflow](#The_basic_workflow)
     3. [Other facilities offered by version control](#branches_overview)
