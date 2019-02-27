@@ -8,7 +8,6 @@
 
 Recommended skill level: beginner - intermediate. Version control has a great deal of useful features, but total mastery is not necessary to achieve a great deal with it. Even a beginner utilising a few of the simplest features well can save themselves a great deal of time and drastically improve the reproducibility of their work. Naturally, we encourage readers to make use of the entire chapter, but readers should not be discouraged from using some tools they feel comfortable with if they are not comfortable with *all* the tools available.
 
-
 ## Table of contents
 
 1. [Summary](#Summary)
@@ -50,7 +49,21 @@ Recommended skill level: beginner - intermediate. Version control has a great de
     2. [The solution](#Merge_conflicts_the_solution)
     3. [How to do it](#Merging_how_to_do_it)
     4. [Good practice](#Merge_conflicts_good_practice)
-
+12. [GitHub](#GitHub)
+  1. [The problem](#GitHub_the_problem)
+  2. [The solution](#GitHub_the_solution)
+  3. [How to do it](#GitHub_how_to_do_it)
+      1. [Pull requests](#GitHub_how_to_do_it_pull_requests)
+  4. [Good practice](#Branches_good_practice)
+13. [Summary of key Git commands](#Summary_of_key_Git_commands)
+14. [Checklists](#Checklists)
+    1. [Make use of Git](#Make_use_of_Git)
+    2. [Put your project on GitHub](#Put_your_project_on_GitHub)
+    3. [Contribute to someone else's project]("Contribute_to_someone_else's_project)
+15. [What to learn next](#What_to_learn_next)
+16. [Further reading](#further_reading)
+17. [Definitions/glossary](#Glossary)
+18. [Bibliography](#Bibliography)
 
 <a name="Summary"></a>
 ## Summary
@@ -498,12 +511,15 @@ git mergetool
 
 Fundamentally the best way to deal with merge conflicts is to, so far as is possible, **ensure they don't happen in the first place**. You can improve your odds on this by **keeping branches clean and focused on a single issue, and involving as few files as possible**. Before merging make sure you know what's in both branches, and if you are not the only one that has worked on the branches then **keep the lines of communication open** so you are all aware of what the others are doing.
 
+<a name="GitHub"></a>
 ## GitHub
 
+<a name="GitHub_the_problem"></a>
 ### The problem
 
 When multiple people work on the same project (which is becoming more and more common as research becomes increasingly collaborative) it becomes difficult to keep track of what changes have been made and by who. It is also often difficult and time-consuming to manually incorporate the different participant's work into a whole even if all of their changes are compatible.  
 
+<a name="GitHub_the_solution"></a>
 ### The solution
 
 Hosting the project on a distributed version control system such as GitHub. Collaborators can then clone the project and work on that copy making commits, branches, etc without impacting the original. Collaborators can then *push* their work to each other, and *pull* other's work into their own copy. In this way it is easy to keep everyone up to date and to track what has been done and by who. GitHub also has numerous other handy features such as the ability to raise and assign issues, discuss the project via comments, and review each other's changes.
@@ -513,6 +529,7 @@ Making the entire project and its history available online in this was also has 
 1. Other researchers can re-use the work more easily. Rather than writing their own code to do what has already been written they can just use the original, which saves time. This also benefits the project's original authors as other researchers are much more likely to build on the work (and cite it) if a great deal of the work has already been done.   
 2. The research will be much more reproducible if the entire history of the project can be tracked. This enables results to be verified more easily, which benefits science.
 
+<a name="GitHub_how_to_do_it"></a>
 ### How to do it
 
 There are a number of GitHub tutorials available such as [this one](https://guides.GitHub.com/activities/hello-world/), or if you prefer you can follow along here.
@@ -544,6 +561,7 @@ git push -u origin master
 
 Naturally the exact same procedure applies to you if you want to clone someone else's repository.
 
+<a name="GitHub_how_to_do_it_pull_requests"></a>
 #### Pull requests
 
 So everyone's got a copy of the code and they're merrily working away on it, how do collaborators share their work? Pull requests. A pull request is a request for a person to *pull* someone else's changes into their version on the project. Say person A has made changes they want to share with person B. On GitHub Person A needs to go to person B's copy of the project and click the "New pull request" button. From there they can indicate which of their branches they would like person B to pull changes from, and which branch they want the changes pulled to. If person B accepts then person A's changes will be merged into their repository by GitHub. They can discuss the request in comments, and make further commits to the request before it is accepted if necessary.
@@ -558,6 +576,7 @@ git pull origin master
 
 It is also possible to make pull requests via the command line. A guide on how to do so is available [here](https://Git-scm.com/docs/Git-request-pull).
 
+<a name="GitHub_good_practice"></a>
 ### Good practice for using GitHub
 
 In your GitHub repository you should **include a license** to allow others to re-use your work legally. GitHub makes this very easy, simply click the "Create new file" button, name it "License.md" and a drop down menu will appear offering you a selection to choose from. The legalese can seem intimidating however [this](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project.
@@ -581,6 +600,7 @@ You can also **make use of one of GitHub's major features- issues**. Anyone can 
 
 In pull requests you should **clearly explain what the changes you've made are and why you made them**. If your changes address and issue that has been raised reference it directly. If your request fixes and issue and you include "will fix #the_issue_number >" in the pull request, if the pull request is merged it will automatically close the referenced issue, keeping the issue queue nice and clean! This also works for using commit messages to close issues too.
 
+<a name="Summary_of_key_Git_commands"></a>
 ## Summary of key Git commands
 
 | Command                       | Use                                                                      |
@@ -603,10 +623,10 @@ In pull requests you should **clearly explain what the changes you've made are a
 | git diff                      | Output difference between working directory and most recent commit       |
 | git diff thing_a thing_b      | Output difference between two things e.g. commits, branches              |                     
 
-## Configuring and personalising Git
-
+<a name="Checklists"></a>
 ## Checklists
 
+<a name="Make_use_of_Git"></a>
 ### Make use of Git
 - [ ] Make your project version controlled by initialising a Git repository in its directory using `git init`
 - [ ] Add and commit all your files to the repository using `git add .` then `git commit`
@@ -623,6 +643,7 @@ In pull requests you should **clearly explain what the changes you've made are a
   - [ ] Merge other's changes into your work frequently
   - [ ] When dealing with merge conflicts make sure you fully understand both versions before trying to resolve them
 
+<a name="Put_your_project_on_GitHub"></a>
 ### Put your project on GitHub
 - [ ] Create a GitHub account
 - [ ] Create a repository on GitHub with the same name as your project
@@ -635,6 +656,7 @@ In pull requests you should **clearly explain what the changes you've made are a
 - [ ] Set expectations for how collaborators are expected to behave via a code of conduct and or ways of working document
 - [ ] Use issues to track and discuss modifications to the project
 
+<a name="Contribute_to_someone_else's_project"></a>
 ### Contribute to someone else's project
 - [ ] Clone their project's repository from GitHub `git clone repository_url`
 - [ ] Make and commit changes
@@ -643,6 +665,7 @@ In pull requests you should **clearly explain what the changes you've made are a
 - [ ] Make pull requests on GitHub to share your work
   - [ ] Clearly explain the changes you've made and why in your pull request.
 
+<a name="What_to_learn_next"></a>
 ## What to learn next
 
 Look into best practice for writing good quality code (good naming conventions, informative comments, modular code structure etc). Many such skills are either also applicable for using version control well, e.g. for writing good commit messages, or make using version control easier by keeping changes neat and localised.
@@ -654,7 +677,7 @@ Look into best practice for writing good quality code (good naming conventions, 
 - A useful Git cheat sheet can be found [here](https://services.GitHub.com/on-demand/downloads/GitHub-Git-cheat-sheet.pdf)
 
 
-
+<a name="Glossary"></a>
 ## Definitions/glossary
 
 **Add:** Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
@@ -693,6 +716,7 @@ Look into best practice for writing good quality code (good naming conventions, 
 
 **Staged:** Changes that will be included in the next commit.
 
+<a name="Bibliography"></a>
 ## Bibliography
 
 - [1.](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Controls) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
