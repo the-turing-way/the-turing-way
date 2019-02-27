@@ -1,6 +1,6 @@
 # The Turing Way
 
-[![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://badges.gitter.im/alan-turing-institute/the-turing-way.svg)](https://gitter.im/alan-turing-institute/the-turing-way?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://badges.gitter.im/alan-turing-institute/the-turing-way.svg)](https://gitter.im/alan-turing-institute/the-turing-way) [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
 
 The Turing Way is a lightly opinionated guide to reproducible data science.
 
@@ -39,7 +39,10 @@ Everyone is asked to follow our [code of conduct](CODE_OF_CONDUCT.md) and to che
 
 ### Get in touch
 
-[![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://badges.gitter.im/alan-turing-institute/the-turing-way.svg)](https://gitter.im/alan-turing-institute/the-turing-way?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+We have a gitter chat room and we'd love for you to swing by to say hello at https://gitter.im/alan-turing-institute/the-turing-way.
+
+We also have a tiny letter mailing list to which we send monthly project updates.
+Subscribe at https://tinyletter.com/TuringWay.
 
 You can contact the PI of the Turing Way project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 

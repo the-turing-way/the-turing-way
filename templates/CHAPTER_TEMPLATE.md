@@ -1,13 +1,17 @@
 # Chapter title
 
+## Prerequisites / recommended skill level
+> other chapters that should have been read before or content you should be familiar with before you read this
+
+| Prerequisite | Importance | Notes |
+| -------------|----------|------|
+| Chapter/topic | How important it is | Any notes |
+
 ## Summary
 > easy to understand summary - a bit like tl;dr
 
 ## How this will help you/ why this is useful
 > why we think you should read the whole thing
-
-## Prerequisites / recommended skill level
-> other chapters that should have been read before or content you should be familiar with before you read this
 
 ## Chapter content
 > depending on the content, this might be more structured, e.g. with exercises, gotcha sections etc
@@ -27,5 +31,3 @@
 
 ## Bibliography
 > Credit/urls for any materials that form part of the chapter's text.
-
-
