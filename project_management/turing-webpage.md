@@ -49,11 +49,32 @@ The Turing Way will support everybody involved in data science research: the dev
 
 Senior team members - Turing fellows, program directors and managers - will be catered for with key points tailored towards managing reproducible research projects highlighted for each topic covered. The project will build and curate checklists for what can be done to ensure all project outputs are reproducible. A chapter on Binder will be of interest to supervisors who want to regularly review their students' code, and will include the technical details of how to set up a BinderHub that will be useful for research software engineers.
 
-
 ## Recent updates
 *Achievements/project milestones reached since project started, with month/year*
 
-N/A (Add content from our newsletter as it becomes available)
+The Turing Way team will host three workshops in March 2019, all focussed around [Binder](https://mybinder.readthedocs.io/en/latest/index.html), an easy-to-use service that runs version-controlled computational environments.
+
+- Friday 1st March, University of Manchester: [Boost your research reproducibility with Binder](https://www.eventbrite.co.uk/e/boost-your-research-reproducibility-with-binder-manchester-registration-55331997494)
+- Tuesday 12th March, The Alan Turing Institute: [Boost your research reproducibility with Binder](https://www.eventbrite.co.uk/e/boost-your-research-reproducibility-with-binder-london-registration-55337162944)
+- Monday 18th March: University of Sheffield: [Build a BinderHub](https://www.eventbrite.co.uk/e/build-a-binderhub-registration-55336756729)
+
+##### Boost your research reproducibility with Binder
+
+During this free workshop we will discuss reproducible computing environments, show examples of others’ projects in [myBinder.org](https://mybinder.org/) and help you learn how to prepare a Binder-ready project. At the end of the workshop you will be able to take some of your own content (in a R or Jupyter notebook, or scripts that can be run in the terminal) and prepare it so that it can be used by others on [myBinder.org](https://mybinder.org/).
+
+This workshop is for people who are:
+* Interested in reproducibility, containers, Docker or continuous integration;
+* Already familiar with R Markdown or Jupyter notebooks;
+* Looking to communicate their research more effectively.
+
+##### Build a BinderHub
+
+During this free workshop we will demonstrate how to build your own BinderHub on Microsoft Azure cloud computing resources. We will help you get started with building a BinderHub on your institution's computing platform and discuss the challenges of maintaining a BinderHub. At the end of the workshop you will know why this would be a useful resource for your team, and will know where to look for help and support building your institution's BinderHub.
+
+This workshop is for Research Software Engineers and IT staff who are:
+* Interested in reproducibility, containers, Docker or continuous integration;
+* Already familiar with Binder and R Markdown or Python for data science;
+* Interested in setting up their own local BinderHub.
 
 ## Participating researchers
 *Please include titles and affiliations for all participants*
@@ -76,4 +97,16 @@ N/A
 ## Additional content
 *If there is any additional content that should be included, or doesn’t fit in other fields, please add it here. This could include links to images, videos, or figures (with plain English captions) that would be helpful in communicating the project*
 
-This project is openly developed; any and all questions, comments and recommendations are welcome at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way.
+This project is openly developed; any and all questions, comments and recommendations are welcome at our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way).
+
+To hear about our events and monthly project updates, sign up to our [newsletter](https://tinyletter.com/TuringWay).
+
+## Research Engineering widget
+
+*This is an extra piece of content added to the pages of projects that the Research Engineering Group is involved with*
+
+Members of the Research Engineering Group at the Turing are contributing their expertise to this project.
+
+They are working a set of guidelines for research software engineers and others who want to set up a BinderHub of their own, and will set up an internal BinderHub for the use of Turing staff and students with increased compute capabilities over the current public offering. In addition, they are contributing to several projects that will feature as case studies in The Turing Way.
+
+The group's experience in best practices for software engineering and data science will be captured in the guidance set out in The Turing Way.

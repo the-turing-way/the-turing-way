@@ -1,6 +1,49 @@
 # Who's who on the Turing Way team
 
-This file will give you a little introduction to the various members of the Turing Way development team.
+## Contributors
+Legend (source:
+[https://github.com/kentcdodds/all-contributors](https://github.com/kentcdodds/all-contributors))
+
+| Emoji | Represents                                                                  |
+|:------|:----------------------------------------------------------------------------|
+| 💬    | Answering Questions (on gitter, GitHub, or in person) |
+| 🐛    | Bug reports                                                                 |
+| 📝    | Blogposts                                                                   |
+| 💻    | Code                                                                        |
+| 📖    | Documentation and specification                                             |
+| 🎨    | Design                                                                      |
+| 💡    | Examples                                                                    |
+| 📋    | Event Organizers                                                            |
+| 💵    | Financial Support                                                           |
+| 🔍    | Funding/Grant Finders                                                       |
+| 🤔    | Ideas & Planning                                                            |
+| 🚇    | Infrastructure (Hosting, Build-Tools, etc)                                  |
+| 🔌    | Plugin/utility libraries                                                    |
+| 👀    | Reviewed Pull Requests                                                      |
+| 🔧    | Tools                                                                       |
+| 🌍    | Translation                                                                 |
+| ⚠️    | Tests                                                                       |
+| ✅     | Tutorials                                                                   |
+| 📢    | Talks                                                                       |
+| 📹    | Videos                                                                      |
+
+The following individuals have contributed to the Turing Way (in alphabetical order by last name). 
+If you contributed to the Turing Way and your name is not listed, please add it.
+
+- Becky Arnold 💬💻📖👀
+- Lorena A. Barba 🤔 
+- Louise Bowler 💬💻📖💡📋👀
+- Sarah Gibson 💬💻📖🔧👀📢
+- Tim Head 💬🤔
+- Patricia Herterich 💬📖👀
+- Rosie Higman 💬📋👀
+- Anna Krystalli 💬💡📋 👀
+- Alexander Morley 💬👀⚠️
+- Martin O'Reilly 💬🔧
+- Kirstie Whitaker 💬🎨🔍🤔👀⚠️📢
+
+## Core team
+This will give you a little introduction to the various members of the Turing Way core development team.
 
 * [Kirstie Whitaker](#kirstie-whitaker) @kirstiejane
 * [Patricia Herterich](#patricia-herterich) @pherterich 
@@ -12,6 +55,8 @@ This file will give you a little introduction to the various members of the Turi
 * [Louise Bowler](#louise-bowler) @LouiseABowler
 * [Rosie Higman](#rosie-higman) @rosiehigman 
 
+
+## Contributor biographies
 ### Kirstie Whitaker
 
 **Who are you?**
