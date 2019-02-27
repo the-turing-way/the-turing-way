@@ -244,3 +244,8 @@ Now you've binderized (bound?) this demo repo, it's time to binderize the exampl
 * Example Binder repos:
 
   > **https://mybinder.readthedocs.io/en/latest/sample_repos.html**
+
+* Getting data:
+  > With `wget`: **https://github.com/binder-examples/getting-data**
+  > With `quilt`: **https://github.com/binder-examples/data-quilt**
+  > From remote storage: **https://github.com/binder-examples/remote_storage**
