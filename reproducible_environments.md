@@ -82,7 +82,7 @@ This chapter will describe how to capture, preserve and share computational envi
 Materials used:
 [A. Brinckman, et al., Computing environments for reproducibility: Capturing the "Whole Tale", Future Generation Computer Systems (2018), https://doi.org/10.1016/j.future.2017.12.029](https://www.sciencedirect.com/science/article/pii/S0167739X17310695) **Attribution 4.0 International (CC BY 4.0)**, [Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
 
-## Ways to capture computational environments
+## Summary of ways to capture computational environments
 
 There are a number of ways to capture a computational environment, and which is the most appropriate for you will depend  on the nature of your project. If you are working with languages such as Python and R which have a number of tools for freezing and exporting environments as YAML files (discussed later in this chapter) then using one of those tools is likely the best course of action.
 
@@ -108,60 +108,83 @@ If you need to work with HPC containers save having to install a whole bunch of 
 One of the major factors that prevents Docker from being the standard container technology in HPC is its security concerns. From an IT security perspective, a machine can be considered compromised if any user is able to run arbitrary code as the root user. While Docker takes steps to mitigate the risk of allowing users to run arbitrary code, there is a fatal design flaw that limits Docker’s ability to run in HPC environments: for every container that Docker runs, the container process is spawned as a child of a root owned Docker daemon. As the user is able to directly interact with and control the Docker daemon, it is theoretically possible to coerce the daemon process into granting the users escalated privileges. Any user being able to escalate up to system administrator status, a user called “root”, would introduce unthinkable security risks for a shared compute environment.
 [Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
 
+<a name="Package_management_systems"></a>
+## Package management systems
 
-### Package management systems
-https://www2.dmst.aueb.gr/dds/pubs/jrnl/2005-IEEESW-TotT/html/v29n2.html
-https://www.howtogeek.com/117579/htg-explains-how-software-installation-package-managers-work-on-linux/
-https://searchmobilecomputing.techtarget.com/definition/package-manager-or-package-management-system-PMS
+Practising with conda
+
+- Downloaded conda
+- created a conda environment called my_env_1 including the packages numpy and matplotlib using `conda create --name my_env_1 numpy matplotlib`. When you create an environment you have to include at least one package.
+- Activated the environment using `conda activate my_env_1`
+- Can deactivate environment using `conda deactivate`
+- To create this same environment but with a specific version of python do it like this `conda create --name my_env_2 python=2.7 numpy matplotlib`
+- Get a list of the conda environments you have using `conda env list`
+- To delete a conda environment do `conda remove --name your_environment_name --all`. When you delete an environment you have to rpeciify all the packages it contains. If you don't want to type them out just use the `--all` option as I have here.
+- To export a conda environment activate the environment and then run `conda env export > environment.yml`
+- If you have an environment file and you want to create an environment from it do `conda env create -f environment.yml`
+- numpy is one of the packages included by default, so even if I don't specify it when setting up an environment if I run python in an environment and try `import numpy` it works. However for packages that aren't included, like flask, importing them only works if they're specified when creating the environment.
+
+
+Package managers, as you may deduce, manage and keep track of the different bits of software (and their versions) that you install in an environment (packages). There are quite a few to choose from, for example Yum, Zypper, and dpkg. We're going to focus on Conda.
+
+*Say why conda, say python centric, but works for other langs*
+
+### What Conda does
+
+
+### Creating a Conda environment
+
+First you will need to download Conda (not Anaconda)
+
+### Working in Conda environments
+
+
+### Reproducing computational environments via Conda
+
+- mention pip freeze. [Link](https://programminghistorian.org/en/lessons/installing-python-modules-pip) to installing modules with pip
+- Can export to yml files (say we'll discuss more later)
+- How to reproduce from those yml files.
+
 
 - Making environments via conda etc **Other language equivalents? R can be installed via conda, most R packages are archived on CRAN** Yum, Zypper https://opensource.com/article/18/7/evolution-package-managers?
-  - Reasons to do so
-  - How to do it
-  - mention pip freeze. [Link](https://programminghistorian.org/en/lessons/installing-python-modules-pip) to installing modules with pip
 
-### YAML files
 
-- YAML files
-  - What are they
-  - Syntax/tutorials
-  - Gotchas
-  - **Are there standard structures for yaml files/how does a novice know what to include?**
-  - Quick note on security issues?
-  - **How to use them for reproducibility**
-    - Say can export yml from conda and create environments from them. **Other language equivalents?**
+- `conda env export > environment.yml` https://conda.io/docs/user-guide/tasks/manage-environments.html#exporting-the-environment-file Note that you have to be IN this environment to run the command.
+- https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file
+
 
 - It's actually really easy to capture your computational environment:
   - `pip freeze` https://pip.pypa.io/en/stable/reference/pip_freeze/
   - equivalent command for `conda`: `conda env export`
   - equiv for `R`
-  - `conda env export > environment.yml` https://conda.io/docs/user-guide/tasks/manage-environments.html#exporting-the-environment-file Note that you have to be IN this environment to run the command.
-- or create the environment.yml file manually somehow
-  - https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file
 
-[yaml tutorial](https://gettaurus.org/docs/YAMLTutorial/) **[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)**
+## YAML files
 
 YAML is an indentation-based markup language which aims to be both easy to read and easy to write. Many projects use it for configuration files because of its readability, simplicity and good support for many programming languages. It can be used for a great many things including defining computational environments, and is well integrated with [Travis](https://travis-ci.org/) which is discussed in the chapter on continuous integration.
 
 An a YAML file defining a computational environment might look something like this:
-
 ```
-#Define the operating system as Linux
+# Define the operating system as Linux
 os: linux
 
-#Use the xenial distribution of Linux
+# Use the xenial distribution of Linux
 dist: xenial
 
-#Use the programming language python
+# Use the programming language python
 language: python
 
-#Use version of python 3.2
+# Use version of python 3.2
 python: 3.2
 
-#Use the python package numpy and use the 1.16.1 version
+# Use the python package numpy and use version 1.16.1
 packages:
   numpy:
     version: 1.16.1
 ```
+Note that as you can see here that comments can be added by preceding them with a `#`.
+
+
+### YAML syntax
 
 A YAML document can consist of the following elements.
 
@@ -172,11 +195,10 @@ Scalars are ordinary values: numbers, strings, booleans.
 number-value: 42
 floating-point-value: 3.141592
 boolean-value: true
+
 # strings can be both 'single-quoted` and "double-quoted"
 string-value: 'Bonjour'
 ```
-
-Note here that comments can be added by preceding them with a `#`.
 
 YAML syntax also allows unquoted string values for convenience reasons:
 ```
@@ -210,7 +232,7 @@ jedi:
 
 Note that a space after the colon is mandatory.
 
-#### YAML Gotchas
+#### YAML gotchas
 
 Due to the format aiming to be easy to write and read, there're some ambiguities in YAML.
 
@@ -226,9 +248,22 @@ Due to the format aiming to be easy to write and read, there're some ambiguities
 - **Tabs versus spaces for indentation:** do *not* use tabs for indentation. While resulting YAML can still be valid, this can be a source of many subtle
 parsing errors. Just use spaces.
 
-#### How to use YAML to define computational environments
+### How to use YAML to define computational environments
 
-### Images and containers
+Because of their simplicity YAML files can be hand written. Alternatively they can be automatically generated as discussed [above](#Package_management_systems). From a YAML file a computational environment can be replicated in a few ways.
+
+*Add link to virtual machine section*
+
+- **Manually.** It can be done manually by carefully installing the specified packages etc. Because YAML files can also specify operating systems and versions that may or may not match that of the person trying to replicate the environment this may require the use of a virtual machine.
+- **Via package management systems such as Conda.** As [discussed](#Package_management_systems) as well as being able to generate YAML files from computational environments Conda can also generate computational environments from YAML files.
+
+### Security issues
+
+There is an inherent risk in downloading/using files you have not written to your computer, and it is possible to include malicious code in YAML files. Do not load YAML files or generate computational environments from them unless you trust their source.
+
+Materials used: [yaml tutorial](https://gettaurus.org/docs/YAMLTutorial/) **[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)**
+
+## Images and containers
 
 *Have Docker running through this like git in version control.*
 
@@ -277,7 +312,7 @@ Docker brings security to applications running in a shared environment, but cont
 Dan Walsh, a computer security leader best known for his work on SELinux, gives his [perspective](https://opensource.com/business/14/7/docker-security-selinux) on the importance of making sure Docker containers are secure. He also provides a [detailed breakdown](https://opensource.com/business/14/9/security-for-docker) of security features currently within Docker, and how they function.
 
 
-### Makefiles
+## Makefiles
   - older option to make things reproducible
   - see issue https://github.com/alan-turing-institute/the-turing-way/issues/24
   - PHONY will keep track of files created when you run this and not recreate already existing files
@@ -520,18 +555,6 @@ Dan Walsh, a computer security leader best known for his work on SELinux, gives 
      command_to_do_thing_4
   ```
 
-Practising with conda
-
-- Downloaded conda
-- created a conda environment called my_env_1 including the packages numpy and matplotlib using `conda create --name my_env_1 numpy matplotlib`. When you create an environment you have to include at least one package.
-- Activated the environment using `conda activate my_env_1`
-- Can deactivate environment using `conda deactivate`
-- To create this same environment but with a specific version of python do it like this `conda create --name my_env_2 python=2.7 numpy matplotlib`
-- Get a list of the conda environments you have using `conda env list`
-- To delete a conda environment do `conda remove --name your_environment_name --all`. When you delete an environment you have to rpeciify all the packages it contains. If you don't want to type them out just use the `--all` option as I have here.
-- To export a conda environment activate the environment and then run `conda env export > environment.yml`
-- If you have an environment file and you want to create an environment from it do `conda env create -f environment.yml`
-- numpy is one of the packages included by default, so even if I don't specify it when setting up an environment if I run python in an environment and try `import numpy` it works. However for packages that aren't included, like flask, importing them only works if they're specified when creating the environment.
 
 ## Learning how to use Binder
 
