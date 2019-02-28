@@ -265,12 +265,6 @@ Materials used: [yaml tutorial](https://gettaurus.org/docs/YAMLTutorial/) **[Apa
 
 ## Binder
 
-- Binder
-  - What it is
-  - How to use it to capture an environments
-  - mybinder config files
-  - Including data
-
 
   - ![binder_comic](../figures/binder_comic.png)
 
@@ -300,9 +294,67 @@ While your Binder repository is building, note the URL that points to your uniqu
 
 ---
 
+[Original zero to binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
+
+
+### Specifying your computational environment
+
+- Step 1: capture computational environment
+  - Say Binder works by makeing use of Dockerfiles/images/containers, which will be discussed later but this happens in the background so we will not go into further details here.
+  - Binder only supports 2.7.15 for a `requirements.txt` file.
+  - Sarah personally recommends using the conda environment because it allows you to say which python installation you want too.
+  - Binder has tons of examples to capture non-python examples but they are difficult to find:
+    - https://mybinder.readthedocs.io/en/latest/config_files.html
+  - Note - the `install.R` file is a made up file to install R packages. The standard way of doing this for R users is to use a DESCRIPTION file.
+    - https://mybinder.readthedocs.io/en/latest/config_files.html#install-r-install-an-r-rstudio-environment
+    - https://mybinder.readthedocs.io/en/latest/config_files.html#description-install-an-r-package
+  - Note that the DESCRIPTION file doesn't just install the specific package - it will ALSO install any requirements that you have
+
+It was easy to get started but so far the environment which is created is pretty barebones. Let's add some dependencies.
+
+The tool that analysis your repository to find what dependencies need to be installed looks for files that are already in use by the respective programming language communities. It checks for Python dependencies by looking for a requirements.txt file.
+
+To do:
+
+in your repository on GitHub create a file called requirements.txt
+add a line to requirements.txt that reads numpy==1.14.5
+after adding the file and checking its name for typos
+visit https://mybinder.org/v2/gh//my-first-binder/master again in a new tab
+You will see the big spinner again. While the spinner is spinning click on the big horizontal grey bar that reads "Build logs". It will unfold and let you watch the progress of your container being built. Looking at this is useful when your build fails or something you think should be installed does not get installed.
+
+Once your repository launches you should be greeted by the now familiar file browser view provided by Jupyter.
+
+Sharing your work
+Binder is all about sharing your work. There are two ways to let others use your repository on mybinder.org:
+
+share the https://mybinder.org/v2/gh//my-first-binder/master URL with people
+visit https://mybinder.org, type in the URL of your repository and copy the Markdown or Restructure Text snippet. The snippet will render a nice badge that people can click
+To do:
+
+add the Markdown snippet to the README.md in your GitHub repository
+click the badge to make sure it works
+
+Beyond requirements.txt
+There are a few more ways you can specify what dependencies to install. Take a look at the complete list: http://repo2docker.readthedocs.io/en/latest/config_files.html
+
+
 ### Creating a binder for your project
 
-[Original zero to binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
+- **CHANGES IN BINDER ARE NOT PUSHED BACK INTO YOUR REPO/DOCKER!** this is technically possible but not a feature offered by the public binder; it can be enabled on a local BinderHub
+- Step 2: go to mybinder.org, add your GitHub repo link (specify more when needed) and hit "launch"
+  - Note: the default binder page opens up into a jupyter **notebook** server. It may be the case that the BETTER solution is to add `?urlpath=lab` to the end of the url so that it opens up a jupyter **lab** environment instead.
+  - Jupyter lab allows you to open a *terminal* rather than a notebook.
+    - The terminal doesn't have access to a GUI so importing matplotlib.pyplot or .pylab (graphical stuff) won't work
+    - Q: what's the difference between a console and a terminal? The console has enough for you to be able to run a bunch of python commands. The terminal doesn't have access to a graphics card! So the console won't work.
+  - By default python 2 and python 3 are installed.
+- Step 3: copy markdown back into your readme to get a nice "launch binder" button
+- BinderHub
+  - needs Kubernetes cluster that spins up a bunch of VMs with containers etc. - also does some loadbalancing (Kubernetes [Google developed] being rather new and complex but it can be wrangled to do what you want it to do)
+  - jupyterLab to create the environments
+  - repo2docker that grabs repo from GitHub and launches Docker
+  - BinderHub basically is the high level coordinator for these 3 things and can be accessed through some frontend (the pyblic one being mybinder.org)
+  - Also make this useful to run on local machines/HPCs (that might not be setup for this much networking) to enable data throughput independent of cloud availability
+  - you don't need all the fancy stuff Kubernetes can do to run a BinderHub -> strip down Kubernetes to the essentials and run that locally
 
 
 To get started let's create a new repository that we can use during this exercise to demonstrate how to "binderize" a repository.
@@ -337,35 +389,6 @@ To do:
 
 add the Markdown snippet to the README.md in your GitHub repository
 click the badge to make sure it works
-
-### Specifying your computational environment
-
-It was easy to get started but so far the environment which is created is pretty barebones. Let's add some dependencies.
-
-The tool that analysis your repository to find what dependencies need to be installed looks for files that are already in use by the respective programming language communities. It checks for Python dependencies by looking for a requirements.txt file.
-
-To do:
-
-in your repository on GitHub create a file called requirements.txt
-add a line to requirements.txt that reads numpy==1.14.5
-after adding the file and checking its name for typos
-visit https://mybinder.org/v2/gh//my-first-binder/master again in a new tab
-You will see the big spinner again. While the spinner is spinning click on the big horizontal grey bar that reads "Build logs". It will unfold and let you watch the progress of your container being built. Looking at this is useful when your build fails or something you think should be installed does not get installed.
-
-Once your repository launches you should be greeted by the now familiar file browser view provided by Jupyter.
-
-Sharing your work
-Binder is all about sharing your work. There are two ways to let others use your repository on mybinder.org:
-
-share the https://mybinder.org/v2/gh//my-first-binder/master URL with people
-visit https://mybinder.org, type in the URL of your repository and copy the Markdown or Restructure Text snippet. The snippet will render a nice badge that people can click
-To do:
-
-add the Markdown snippet to the README.md in your GitHub repository
-click the badge to make sure it works
-
-Beyond requirements.txt
-There are a few more ways you can specify what dependencies to install. Take a look at the complete list: http://repo2docker.readthedocs.io/en/latest/config_files.html
 
 ### Including data in your Binder
 
@@ -429,38 +452,6 @@ To support access to private files you will have to create a local deployment of
 
 ---
 
-
-
-
-
-- \* Need to be v. careful about phrasing here - repo owner needs to provide information on the computational environment, even if hidden from Binder user.
-- What's great about binder is that it will do all this for you\* - but we recommend that you specifically name the version of
-- **CHANGES IN BINDER ARE NOT PUSHED BACK INTO YOUR REPO/DOCKER!** this is technically possible but not a feature offered by the public binder; it can be enabled on a local BinderHub (with some new )
-- Step 1: capture computational environment
-  - How Dockerfiles/images/containers are used in Binder
-  - Binder only supports 2.7.15 for a `requirements.txt` file.
-  - Sarah personally recommends using the conda environment because it allows you to say which python installation you want too.
-  - Binder has tons of examples to capture non-python examples but they are difficult to find:
-    - https://mybinder.readthedocs.io/en/latest/config_files.html
-    - https://mybinder.readthedocs.io/en/latest/sample_repos.html
-  - Note - the `install.R` file is a made up file to install R packages. The standard way of doing this for R users is to use a DESCRIPTION file.
-    - https://mybinder.readthedocs.io/en/latest/config_files.html#install-r-install-an-r-rstudio-environment
-    - https://mybinder.readthedocs.io/en/latest/config_files.html#description-install-an-r-package
-  - Note that the DESCRIPTION file doesn't just install the specific package - it will ALSO install any requirements that you have :smile:
-- Step 2: go to mybinder.org, add your GitHub repo link (specify more when needed) and hit "launch"
-  - Note: the default binder page opens up into a jupyter **notebook** server. It may be the case that the BETTER solution is to add `?urlpath=lab` to the end of the url so that it opens up a jupyter **lab** environment instead.
-  - Jupyter lab allows you to open a *terminal* rather than a notebook.
-    - The terminal doesn't have access to a GUI so importing matplotlib.pyplot or .pylab (graphical stuff) won't work
-    - Q: what's the difference between a console and a terminal? The console has enough for you to be able to run a bunch of python commands. The terminal doesn't have access to a graphics card! So the console won't work.
-  - By default python 2 and python 3 are installed.
-- Step 3: copy markdown back into your readme to get a nice "launch binder" button
-- BinderHub
-  - needs Kubernetes cluster that spins up a bunch of VMs with containers etc. - also does some loadbalancing (Kubernetes [Google developed] being rather new and complex but it can be wrangled to do what you want it to do)
-  - jupyterLab to create the environments
-  - repo2docker that grabs repo from GitHub and launches Docker
-  - BinderHub basically is the high level coordinator for these 3 things and can be accessed through some frontend (the pyblic one being mybinder.org)
-  - Also make this useful to run on local machines/HPCs (that might not be setup for this much networking) to enable data throughput independent of cloud availability
-  - you don't need all the fancy stuff Kubernetes can do to run a BinderHub -> strip down Kubernetes to the essentials and run that locally
 
 ## Virtual machines
 
