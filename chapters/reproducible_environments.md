@@ -129,6 +129,9 @@ Package managers, as you may deduce, manage and keep track of the different bits
 
 *Say why conda, say python centric, but works for other langs*
 
+
+[Talk by Will Furnass on Conda](https://github.com/willfurnass/conda-rses-pres/blob/master/content.md) **Attribution-NonCommercial-ShareAlike 4.0 International**
+
 ### What Conda does
 
 
@@ -291,8 +294,6 @@ In order to prepare your repository for use with the BinderHub at mybinder.org, 
 
 - The project is in a public location online (e.g., on GitHub)
 - The project does not require any personal or sensitive information (such as passwords)
-- The project has configuration files that specify its environment (see below for an example)
-- The project contains content designed for people to read.
 
 ---
 
@@ -301,26 +302,65 @@ In order to prepare your repository for use with the BinderHub at mybinder.org, 
 
 ### Specifying your computational environment
 
-- Step 1: capture computational environment
-  - Say Binder works by makeing use of Dockerfiles/images/containers, which will be discussed later but this happens in the background so we will not go into further details here.
-  - Binder only supports 2.7.15 for a `requirements.txt` file.
-  - Sarah personally recommends using the conda environment because it allows you to say which python installation you want too.
-  - Binder has tons of examples to capture non-python examples but they are difficult to find:
-    - https://mybinder.readthedocs.io/en/latest/config_files.html
+If a project contains no file specifying the computational environment when a Binder is generated the environment will be the Binder default environment, (containing python 3.6) which may or may not be suitable for your project. However if you do contain a configuration file for your environment then the Binder will be generated with your specified environment. A full list of such files binder accepts with examples can be found [here](https://mybinder.readthedocs.io/en/latest/config_files.html), but here are some of the key ones, some of which are language-specific:
+
+- environment.yml
+- apt.txt
+- default.nix
+- Dockerfile
+- requirements.txt (python) Note Binder only supports python 2.7.15 for a `requirements.txt` file.
+- REQUIRE (Julia)
+- install.R or DESCRIPTION (R/RStudio)
+
+
+
+
   - Note - the `install.R` file is a made up file to install R packages. The standard way of doing this for R users is to use a DESCRIPTION file.
     - https://mybinder.readthedocs.io/en/latest/config_files.html#install-r-install-an-r-rstudio-environment
     - https://mybinder.readthedocs.io/en/latest/config_files.html#description-install-an-r-package
   - Note that the DESCRIPTION file doesn't just install the specific package - it will ALSO install any requirements that you have
 
-It was easy to get started but so far the environment which is created is pretty barebones. Let's add some dependencies.
-
-The tool that analysis your repository to find what dependencies need to be installed looks for files that are already in use by the respective programming language communities. It checks for Python dependencies by looking for a requirements.txt file.
+Let's add some dependencies.
 
 To do:
 
 in your repository on GitHub create a file called requirements.txt
 add a line to requirements.txt that reads numpy==1.14.5
 after adding the file and checking its name for typos
+
+Beyond requirements.txt
+There are a few more ways you can specify what dependencies to install. Take a look at the complete list: http://repo2docker.readthedocs.io/en/latest/config_files.html
+
+
+### Creating a binder for your project
+
+Once env specified...
+
+For a list of sample repositories for use with Binder, see the [Sample Binder Repositories](https://mybinder.readthedocs.io/en/latest/sample_repos.html) page.
+
+#### Step 1: Put your code on GitHub
+
+GitHub is discussed at length in the chapter on version control, which you should refer to if you wish to understand more about this step. In this chapter we will give the briefest possible explanation. GitHub is a very widely used platform where you can make "repositories", and upload code, documentation, or any other files into them. To complete this step:
+
+1. Make an account on Github
+2. Create a repository for the project you wish to make a Binder of
+3. Upload your project files (including the file you have created to specify your computational environment) to the repository and save (commit in the vocabulary of GitHub) them there.
+
+Again, if you are unable to complete these steps refer to the chapter on version control for a fuller explanation.
+
+#### Step 2: Generate a link to a Binder of your project
+
+Head to https://mybinder.org. You'll see a form that asks you to specify a repository for mybinder.org to build. In the first field, paste the URL of your repository. It'll look something like this: `https://github.com/<your-username>/<your-repository>`
+
+
+![mybinder_gen_link](../figures/mybinder_gen_link.png)
+
+
+
+Finally, click the launch button. This will ask mybinder.org to build the environment needed to run the repository. You can click on the "Build logs" button to see the logs generated by the build process.
+
+While your Binder repository is building, note the URL that points to your unique Binder. You can share this URL with a friend, allowing them to access an interactive version of your repository.
+
 visit https://mybinder.org/v2/gh//my-first-binder/master again in a new tab
 You will see the big spinner again. While the spinner is spinning click on the big horizontal grey bar that reads "Build logs". It will unfold and let you watch the progress of your container being built. Looking at this is useful when your build fails or something you think should be installed does not get installed.
 
@@ -335,21 +375,6 @@ To do:
 
 add the Markdown snippet to the README.md in your GitHub repository
 click the badge to make sure it works
-
-Beyond requirements.txt
-There are a few more ways you can specify what dependencies to install. Take a look at the complete list: http://repo2docker.readthedocs.io/en/latest/config_files.html
-
-
-### Creating a binder for your project
-
-For a list of sample repositories for use with Binder, see the [Sample Binder Repositories](https://mybinder.readthedocs.io/en/latest/sample_repos.html) page.
-
-
-Next, let's build your Binder repository. Head to https://mybinder.org. You'll see a form that asks you to specify a repository for mybinder.org to build. In the first field, paste the URL of your repository. It'll look something like this: `https://github.com/<your-username>/<your-repository>`
-
-Finally, click the launch button. This will ask mybinder.org to build the environment needed to run the repository. You can click on the "Build logs" button to see the logs generated by the build process.
-
-While your Binder repository is building, note the URL that points to your unique Binder. You can share this URL with a friend, allowing them to access an interactive version of your repository.
 
 
 - **CHANGES IN BINDER ARE NOT PUSHED BACK INTO YOUR REPO/DOCKER!** this is technically possible but not a feature offered by the public binder; it can be enabled on a local BinderHub
@@ -463,6 +488,38 @@ To support access to private files you will have to create a local deployment of
 
 
 ---
+
+## Learning how to use Binder
+
+Using Sarah's notes (workshop/10-zero-to-binder.md), adapted from bit.ly/zero-to-binder and bit.ly/zero-to-binder-rise
+
+- Made a simple python script and put in in a new repo on github. Included a readme, not sure if that's necessary or good practise but the instructions told me to.
+- Went to [mybinder.org](mybinder.org) and copied in the link to my repos where it told me, and in the branch I specified master. It gave me this link to share with others to show them my binder: https://mybinder.org/v2/gh/r-j-arnold/binder_test_1/master
+- I clicked launch. Took me to a page showing the files in my repo and if I click on them I could edit them (not sure if this would impact my github, doubt it, will try)
+- Went to the link it gave me (https://mybinder.org/v2/gh/r-j-arnold/binder_test_1/master). Took ages to load. When it did it just showed me my files again.
+- Clicked the dropdown `New` in the upper right of that page and them selected terminal. A new tab opened with the terminal and I ran the code using `python my_script_name.py`.
+- I like working with terminals but by selecting a different option on that menu you can open a Jupyter notebook instead.
+- Changed my script so it imported and used numpy, then went to the link again. When I tried to run the script it failed because there was `No module named numpy` in my environment.
+- Created a requirements.txt file and added numpy to it. It then sucessfuly ran.
+- Added function in the script that requires a certain version of numpy, and specified that in requirements.txt.
+  ```
+  numpy==1.15.1
+  ```
+  (Note the `==` not `=`. Did single = originally and binder failed to load.)
+- Reopened the binder, worked.
+- In requrements.txt then changed numpy to a version which doesn't have that function. Reloaded the binder.
+- Binder successfully loaded, but when I ran the code it executed the first few lines but stopped with an error on the line using numpy to do something that version couldn't.
+- I guess that means *binder* only breaks if it can't put together the environment specified. Otherwise if your code breaks because *it's* trying to do something that can't be done then it breaks in the terminal with errors as usual.
+- Fixed the wrong version of numpy in requirements.txt.
+- Started a Jupyter notebook instead of a terminal.
+- In it did `%run my_script_name.py` and ran it. It outputted the correct result.
+- Saved the notebook by clicking on file and then save and typing a name for the notebook.
+- Closed the notebook tab.
+- In the binder there's now a .ipynb file with that name
+- Shared the link to my binder with the .ipynb file to see if others could see the notebook and the results in it.
+- Failed. They don't have access. Instead shared the link to generate the binder (https://mybinder.org/v2/gh/r-j-arnold/binder_test_1/master). That generates it fresh so doesn't include the notebook, but it does the scripts etc.
+- Chatted with Will. So it's not possible (or at least not intended) to open a binder, create a notebook there, and then share work done on that. Instead you need to make and commit a notebook to your GitHub repo, and you can commit it with work already done on it (graphs etc). Binder being well integrated with Jupyter means that they can be opened easily without needing to install anything additional or whatever in your binder. However you can't *commit* the work done in the notebooks on binder. You can also make new notebooks like making terminals in binder as previously discussed if someone what's to run/try out things with the code but it isn't saved to your repo the same way work done on a terminal isn't.
+- Also at any point you can go to [mybinder.org](mybinder.org) and fill out the repo, branch etc and get the (which is sharable) to generate binder from it.
 
 
 ## Virtual machines
@@ -738,42 +795,6 @@ Dan Walsh, a computer security leader best known for his work on SELinux, gives 
      command_to_do_thing_3 \
      command_to_do_thing_4
   ```
-
-
-## Learning how to use Binder
-
-Using Sarah's notes (workshop/10-zero-to-binder.md), adapted from bit.ly/zero-to-binder and bit.ly/zero-to-binder-rise
-
-- Made a simple python script and put in in a new repo on github. Included a readme, not sure if that's necessary or good practise but the instructions told me to.
-- Went to [mybinder.org](mybinder.org) and copied in the link to my repos where it told me, and in the branch I specified master. It gave me this link to share with others to show them my binder: https://mybinder.org/v2/gh/r-j-arnold/binder_test_1/master
-- I clicked launch. Took me to a page showing the files in my repo and if I click on them I could edit them (not sure if this would impact my github, doubt it, will try)
-- Went to the link it gave me (https://mybinder.org/v2/gh/r-j-arnold/binder_test_1/master). Took ages to load. When it did it just showed me my files again.
-- Clicked the dropdown `New` in the upper right of that page and them selected terminal. A new tab opened with the terminal and I ran the code using `python my_script_name.py`.
-- I like working with terminals but by selecting a different option on that menu you can open a Jupyter notebook instead.
-- Changed my script so it imported and used numpy, then went to the link again. When I tried to run the script it failed because there was `No module named numpy` in my environment.
-- Created a requirements.txt file and added numpy to it. It then sucessfuly ran.
-- Added function in the script that requires a certain version of numpy, and specified that in requirements.txt.
-  ```
-  numpy==1.15.1
-  ```
-  (Note the `==` not `=`. Did single = originally and binder failed to load.)
-- Reopened the binder, worked.
-- In requrements.txt then changed numpy to a version which doesn't have that function. Reloaded the binder.
-- Binder successfully loaded, but when I ran the code it executed the first few lines but stopped with an error on the line using numpy to do something that version couldn't.
-- I guess that means *binder* only breaks if it can't put together the environment specified. Otherwise if your code breaks because *it's* trying to do something that can't be done then it breaks in the terminal with errors as usual.
-- Fixed the wrong version of numpy in requirements.txt.
-- Started a Jupyter notebook instead of a terminal.
-- In it did `%run my_script_name.py` and ran it. It outputted the correct result.
-- Saved the notebook by clicking on file and then save and typing a name for the notebook.
-- Closed the notebook tab.
-- In the binder there's now a .ipynb file with that name
-- Shared the link to my binder with the .ipynb file to see if others could see the notebook and the results in it.
-- Failed. They don't have access. Instead shared the link to generate the binder (https://mybinder.org/v2/gh/r-j-arnold/binder_test_1/master). That generates it fresh so doesn't include the notebook, but it does the scripts etc.
-- Chatted with Will. So it's not possible (or at least not intended) to open a binder, create a notebook there, and then share work done on that. Instead you need to make and commit a notebook to your GitHub repo, and you can commit it with work already done on it (graphs etc). Binder being well integrated with Jupyter means that they can be opened easily without needing to install anything additional or whatever in your binder. However you can't *commit* the work done in the notebooks on binder. You can also make new notebooks like making terminals in binder as previously discussed if someone what's to run/try out things with the code but it isn't saved to your repo the same way work done on a terminal isn't.
-- Also at any point you can go to [mybinder.org](mybinder.org) and fill out the repo, branch etc and get the (which is sharable) to generate binder from it.
-
-
-
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
