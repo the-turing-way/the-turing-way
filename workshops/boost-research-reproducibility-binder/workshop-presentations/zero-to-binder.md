@@ -70,7 +70,7 @@ If everything ran smoothly, you'll see a Jupyter Notebook interface.
 While you wait, BinderHub (the backend of Binder) is:
 * Fetching your repo from GitHub
 * Analysing the contents
-* Creating a Docker file
+* Creating a Docker file based on your repo
 * Launching that Docker image in the Cloud
 * Connecting you to it via your browser
 
