@@ -178,7 +178,10 @@ You should consider all information in your Binder as public, meaning that:
 * you should not type passwords into a Binder running on mybinder.org;
 * you should not upload your private SSH key or API token to a running Binder.
 
-In order to support access to private files, you would need to create a local deployment of [BinderHub](https://binderhub.readthedocs.io/en/latest/) where you can decide the security trade offs yourselves.
+In order to support access to private files, you would need to create a local deployment of [BinderHub](https://binderhub.readthedocs.io/en/latest/) where you can decide the security trade-offs yourselves.
+
+**N.B.:** Building a BinderHub is not a simple task and is usually taken on by IT/RSE groups for reasons around managing maintenance, security and governance.
+However, that is not to say that they are the _only_ groups of people who should/could build a BinderHub.
 
 ## 8. Get data with `postBuild`
 
