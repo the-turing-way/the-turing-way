@@ -182,7 +182,7 @@ In such cases it may not be possible to make data open, or it may only be only p
 <a name="Open_source_software"></a>
 ## Open source software
 
-<a name="What_is_open_source_software?"></a>
+<a name="What_is_open_source_software"></a>
 ### What is open source software?
 
 When a project is open source anybody can view, use, modify, and distribute the project for any purpose. These permissions are enforced through an open source licence. Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly. In its most basic form, open sourcing your software simply means putting your code online where it can be viewed and reused by others.
