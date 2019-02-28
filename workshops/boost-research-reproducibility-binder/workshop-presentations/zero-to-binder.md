@@ -91,7 +91,7 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 
 1) In your repo, create a file called `requirements.txt`
 2) Add a line that says: `numpy==1.14.5`
-3) Check for typos!
+3) Check for typos! Then commit to master.
 4) Visit **https://mybinder.org/v2/gh/your-username/my-first-binder/master** again in a new tab
 
 This time, click on "Build Logs" in the big, horizontal, grey bar.
@@ -111,6 +111,9 @@ Another way to pin a version number is to use the greater than or equal to sign 
 This is useful when you have a lot of dependencies that may have dependencies on each other and allows Binder to find a configuration of your dependencies that do not conflict with one another whilst avoiding any earlier versions which may break or change your code.
 
 Finally, you could not provide a version number at all (just the name of the library/package) and Binder will install the latest version of that package.
+
+**N.B.:** These operations to pin dependencies are most likely specific to Python.
+Each language has it's own quirks and a link to the different types of configuration files (which is what `requirements.txt` is) is given at the bottom of this document.
 
 ## 5. Check the Environment
 
@@ -162,6 +165,8 @@ This is ideal for files up to **10MB**.
 
 To access medium files **from a few 10s MB up to a few hundred MB**, you can add a file called `postBuild` to your repo.
 A `postBuild` file is a shell script that is executed as part of the image construction and is only executed once when a new image is built, not every time the Binder is launched.
+
+**N.B.:** New images are only built when Binder sees a new commit, not every time you click the Binder link.
 
 #### Large public files
 
