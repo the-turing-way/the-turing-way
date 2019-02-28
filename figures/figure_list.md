@@ -12,6 +12,7 @@
 | eyeball_test_error         | Testing              | Bug detected by result 'looking wrong'                 |
 | flipped_taj_mahal          | Version control      | Upside down taj mahal to confuse people                |
 | master_branch              | Version control      | Illustrates commits on master branch                   |
+| mybinder_gen_link          | Reproducible environments | What the page to generate binder links looks like |
 | one_branch                 | Version control      | Illustrates version control master + one branch        |
 | open_access_citatations    | Open research        | Impact of openness on citation count                   |
 | open_umbrella              | Open research        | Terms under the umbrella of open scholarship           |
