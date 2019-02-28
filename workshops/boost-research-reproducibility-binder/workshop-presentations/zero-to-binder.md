@@ -44,7 +44,6 @@ You can create a link to a **live, interactive** version of your code!
 1) Create a new repo on GitHub called "my-first-binder".
    * Don't forget to initialise with a README!
 2) Create a file called `hello.py` via the web interface with `print("Hello from Binder!")` on the first line and commit to master
-   * Bad practice :see_no_evil: but we're not collaborating right now!
 
 ## 2. Launch your first repo!
 
