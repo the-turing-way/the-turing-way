@@ -220,7 +220,7 @@ You can access the environment by changing the URL you visit to:
 
 > **https://mybinder.org/v2/gh/your-username/my-first-binder/master?urlpath=lab**
 
-**N.B.:** We've already seen how the `?filepath=` argument can link to a specific file.
+**N.B.:** We've already seen how the `?filepath=` argument can link to a specific file in the "What Binder Provides" section at the beginning of this workshop.
 
 Here you can access:
 * Notebooks
