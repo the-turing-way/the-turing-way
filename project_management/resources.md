@@ -21,3 +21,4 @@ detailed for our purposes but feels like useful reading for background knowledge
 - Reprodcucibility badges for conferences: http://sigmod2019.org/sigmodcfp
 - Reproducibility of Sicnetific Results: https://plato.stanford.edu/entries/scientific-reproducibility/
 - How To Make Your Data Analysis Notebooks More Reproducible https://github.com/karthik/rstudio2019
+- Reproducibility of computational workflows is automated using continuous analysis. https://www.ncbi.nlm.nih.gov/pubmed/28288103
