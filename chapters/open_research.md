@@ -56,11 +56,11 @@ Recommended skill level: low.
     1. [Open educational resources](#Open_educational_resources)
     2. [Equity, Diversity, Inclusion](#Equity_Diversity_Inclusion)
     3. [Citizen science](#Citizen_science)
-14. [Checklists](#Checklists)
-15. [What to learn next](#What_to_learn_next)
-16. [Further reading](#Further_reading)
-17. [Definitions/glossary](#Glossary)
-18. [Bibliography](#Bibliography)
+9. [Checklists](#Checklists)
+10. [What to learn next](#What_to_learn_next)
+11. [Further reading](#Further_reading)
+12. [Definitions/glossary](#Glossary)
+13. [Bibliography](#Bibliography)
 
 <a name="Summary"></a>
 ## Summary
