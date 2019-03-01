@@ -1,9 +1,7 @@
 <!--
 Please complete the following sections when you submit your pull request.
-
 You are encouraged to keep this top level comment box updated as you
 develop and respond to reviews.
-
 Note that text within html comment tags will not be rendered.
 -->
 ### Summary
@@ -28,8 +26,7 @@ Fixes #<NUM> <!-- (e.g. Fixes #58.) -->
 
 <!-- This section is particularly useful if you have a pull request that is
 still in development. You can guide the reviews to focus on the parts that are
-ready for their comments. 
-
+ready for their comments.
 We suggest using bullets (indicated by * or -) and filled checkboxes [x] here -->
 
 - [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
