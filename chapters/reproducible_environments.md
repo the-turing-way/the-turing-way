@@ -374,20 +374,7 @@ Finally, click the launch button. This will ask [mybinder.org](https://mybinder.
 Once it has been built the Binder will be automatically launched, again this may take some time.
 
 
-visit https://mybinder.org/v2/gh//my-first-binder/master again in a new tab
-You will see the big spinner again. While the spinner is spinning click on the big horizontal grey bar that reads "Build logs". It will unfold and let you watch the progress of your container being built. Looking at this is useful when your build fails or something you think should be installed does not get installed.
 
-Once your repository launches you should be greeted by the now familiar file browser view provided by Jupyter.
-
-Sharing your work
-Binder is all about sharing your work. There are two ways to let others use your repository on mybinder.org:
-
-share the https://mybinder.org/v2/gh//my-first-binder/master URL with people
-visit https://mybinder.org, type in the URL of your repository and copy the Markdown or Restructure Text snippet. The snippet will render a nice badge that people can click
-To do:
-
-add the Markdown snippet to the README.md in your GitHub repository
-click the badge to make sure it works
 
 
 - **CHANGES IN BINDER ARE NOT PUSHED BACK INTO YOUR REPO/DOCKER!** this is technically possible but not a feature offered by the public binder; it can be enabled on a local BinderHub
@@ -406,39 +393,6 @@ click the badge to make sure it works
   - Also make this useful to run on local machines/HPCs (that might not be setup for this much networking) to enable data throughput independent of cloud availability
   - you don't need all the fancy stuff Kubernetes can do to run a BinderHub -> strip down Kubernetes to the essentials and run that locally
 
-
-To get started let's create a new repository that we can use during this exercise to demonstrate how to "binderize" a repository.
-
-What is "binderizing" a repo? A (not so great) name for creating the instructions that BinderHub can understand to create the environment your code needs.
-
-To do:
-
-Head over to github.com and create a new repository called "my-first-binder"
-Create a file called hello.py via the web interface with print("Hello from Binder") on the first line
-
-You just created a repository that is compatible with Binder! Before we explain how this can be, head over to [mybinder.org](https://mybinder.org) and see for yourself.
-
-The interface you see on [mybinder.org](https://mybinder.org) let's you specify the repository you want to have started.
-
-To do:
-
-Type the URL of your repository into the "GitHub repo or URL" box (should be something like https://github.com//my-first-binder/)
-As you type the URL the webpage will generate a link you can share with others in the "Copy the URL below..." box. It should look something like: https://mybinder.org/v2/gh//my-first-binder/master
-Copy it, open a new tab and visit that URL
-
-One of the default dependencies that is installed for you is Jupyter which provides this interface for you. *Say don't have to use Jupyter*
-
-To see your code run click (on the far right next to the "Upload" and "Last Modified" buttons) "New -> Terminal". This will open a new tab with a terminal. To run your code type python hello.py. *Say can open notebook instead.*
-
-Sharing your work
-Binder is all about sharing your work. There are two ways to let others use your repository on [mybinder.org](https://mybinder.org):
-
-share the https://mybinder.org/v2/gh//my-first-binder/master URL with people
-visit https://mybinder.org, type in the URL of your repository and copy the Markdown or Restructure Text snippet. The snippet will render a nice badge that people can click
-To do:
-
-add the Markdown snippet to the README.md in your GitHub repository
-click the badge to make sure it works
 
 ### Including data in your Binder
 
