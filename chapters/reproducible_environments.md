@@ -268,7 +268,19 @@ Materials used: [yaml tutorial](https://gettaurus.org/docs/YAMLTutorial/) **[Apa
 
 ## Binder
 
-Binders make it possible to create sharable, interactive, versions of a project in a reproducible environment that can be shared via a link, allowing others to interact with it.
+Below is a comic to help illustrate what Binder is, and we will expand on it here in the text.
+
+**Step 1:** As you can see in step one there is a researcher that has completed a project and wants to share her work with anyone regardless of their computational environment. Note that Binder does not only have to be applied to finished projects, it can be used in exactly the same way to share projects that are in progress.
+
+**Step 2:** The researcher's project contains many files of different types. In the comic the researcher is working on these files via a Jupyter notebook, and it is true that Binder is very well integrated with these notebooks. However if you are not familiar with these not to worry, Binder can be used just as effectively without them.
+
+**Step 3:** The researcher uploads her code to some publicly available repository, such as GitHub, where it can be accessed by others. She includes a file describing the computational environment required to run the project.
+
+**Step 4:** Using [mybinder.org](mybinder.org) she generates a link. By clicking on this link anyone can access a "Binderized" version of her project. This means they will be taken to a copy of her project in their web browser that they can interact with (though this will not impact the researchers own copy). This copy of the project they interact with will behave as if it is hosted in the environment the researcher specified in step 3, regardless of the computational environment of the person is accessing it from. 
+
+![binder_comic](../figures/binder_comic.png)
+
+Binders make it possible to create interactive versions of a project in a reproducible environment online that can be shared via a link, allowing others to interact with it.
 
 #### Disambiguation
 
@@ -277,7 +289,7 @@ Binders make it possible to create sharable, interactive, versions of a project 
 - mybinder.org
 
 
-  - ![binder_comic](../figures/binder_comic.png)
+  -
 
 [mybinder docs intro](https://github.com/jupyterhub/binder/blob/master/doc/introduction.rst) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
 
