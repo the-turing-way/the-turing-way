@@ -32,7 +32,7 @@ Recommended skill level: low.
         1. [Readme](#Readme)
         2. [Contributing guidelines](#Contributing_guidelines)
         3. [Code of conduct](#Code_of_conduct)
-    5. [How to contribute to other's open source software projects](How_to_contribute_to_others_open_source_software_projects)
+    5. [How to contribute to other's open source software projects](#How_to_contribute_to_others_open_source_software_projects)
         1. [Anatomy of an open source software project](#Anatomy_of_an_open_source_software_project)
         2. [Contribute your changes](#Contribute_your_changes)
         3. [Looking for projects to contribute to and how to contribute to them](#Looking_for_projects_to_contribute_to_and_how_to_contribute_to_them)
@@ -268,6 +268,7 @@ A code of conduct helps set ground rules for behaviour for your project's partic
 Much like open source licences, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters). No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
 
 Keep the file in your project's root directory so it's easy to find, and link to it from your readme.
+
 
 <a name="How_to_contribute_to_others_open_source_software_projects"></a>
 ### How to contribute to other's open source software projects
