@@ -303,18 +303,20 @@ In this section there are a number of related terms, which will be outlined here
 - [mybinder.org](https://mybinder.org): A public and free BinderHub. Because it is public you should not use it if your project requires any personal or sensitive information (such as passwords)
 - Binderize: To make a Binder of a project.
 
+### Creating a binder for your project
 
-[mybinder docs intro](https://github.com/jupyterhub/binder/blob/master/doc/introduction.rst) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
+Creating a Binderized version of your project involves three key steps which will be explained in this section:
+
+1. Specify your computational environment
+2. Put your code somewhere publicly available (we will describe how to do this with GitHub)
+3. Generate a link to a Binder of your project
+
+For a list of sample repositories for use with Binder, see the [Sample Binder Repositories](https://mybinder.readthedocs.io/en/latest/sample_repos.html) page.
 
 
----
+#### Step 1: Specify your computational environment
 
-[Original zero to binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
-
-
-### Specifying your computational environment
-
-If a project contains no file specifying the computational environment when a Binder is generated the environment will be the Binder default environment, (containing python 3.6) which may or may not be suitable for your project. However if you do contain a configuration file for your environment then the Binder will be generated with your specified environment. A full list of such files binder accepts with examples can be found [here](https://mybinder.readthedocs.io/en/latest/config_files.html), but here are some of the key ones, some of which are language-specific:
+If a project contains no file specifying the computational environment when a Binder is generated the environment will be the Binder default environment, (containing python 3.6) which may or may not be suitable for your project. However if you do contain a configuration file for your environment then the Binder will be generated with the specified environment. A full list of such files binder accepts with examples can be found [here](https://mybinder.readthedocs.io/en/latest/config_files.html), but here are some of the key ones, some of which are language-specific:
 
 - environment.yml
 - apt.txt
@@ -344,13 +346,7 @@ Beyond requirements.txt
 There are a few more ways you can specify what dependencies to install. Take a look at the complete list: http://repo2docker.readthedocs.io/en/latest/config_files.html
 
 
-### Creating a binder for your project
-
-Once env specified...
-
-For a list of sample repositories for use with Binder, see the [Sample Binder Repositories](https://mybinder.readthedocs.io/en/latest/sample_repos.html) page.
-
-#### Step 1: Put your code on GitHub
+#### Step 2: Put your code on GitHub
 
 GitHub is discussed at length in the chapter on version control, which you should refer to if you wish to understand more about this step. In this chapter we will give the briefest possible explanation. GitHub is a very widely used platform where you can make "repositories", and upload code, documentation, or any other files into them. To complete this step:
 
@@ -360,7 +356,7 @@ GitHub is discussed at length in the chapter on version control, which you shoul
 
 Again, if you are unable to complete these steps refer to the chapter on version control for a fuller explanation.
 
-#### Step 2: Generate a link to a Binder of your project
+#### Step 3: Generate a link to a Binder of your project
 
 Head to https://mybinder.org. You'll see a form that asks you to specify a repository for [mybinder.org](https://mybinder.org) to build. In the first field, paste the URL of your repository. It'll look something like this: `https://github.com/<your-username>/<your-repository>`
 
@@ -441,63 +437,21 @@ click the badge to make sure it works
 
 ### Including data in your Binder
 
-So far we covered how to get software dependencies installed. Another kind of dependency for projects is data. There are a few ways to make data available in your Binder. Which is the best one depends on how big your data is and your preferences for sharing data.
+There are a few ways to make data available in your Binder. Which is the best one depends on how big your data is and your preferences for sharing data. Note that the more data that is included include the longer it will take for a Binder to launch. Data also takes up storage space which must be paid for, so it is good to be considerate and minimise the data you include, especially on the publicly provided mybinder.org](https://mybinder.org).
 
-Small public files
-The simplest approach for small data files that are public is to add them directly to your GitHub repository. This way they are directly baked into the environment and versioned together with your code.
+#### Small public files
 
-Works well for files with sizes up to maybe 10MB.
+The simplest approach for small data files that are public is to add them directly to your GitHub repository, i.e to include them along with the rest of your project files in the Binder. This works well and is reasonable for files with sizes up to maybe 10MB.
 
-Medium public files
-For medium sized files, a few 10s of megabytes to a few hundred megabytes, you can add a special file named postBuild to your repository.
+#### Medium public files
 
-To do:
+For medium sized files, a few 10s of megabytes to a few hundred megabytes, you should include a special file named postBuild (which is a shell script so the first line must be `#!/bin/bash`) in your project. The postBuild file is used to execute commands immediately after someone launches a Binder. In this case it used to donwload a file a file to a Binder as soon as it is launched, so [mybinder.org](https://mybinder.org) does not have to host it for the entire time.
 
-go to your GitHub repository and create a file called postBuild
-in your postBuild add a single line reading wget -q -O gapminder.csv http://bit.ly/2uh4s3g
-in your requirements.txt add line with pandas on it to add the pandas library and one with matplotlib on it. This is not needed to get data, we are adding it because it is a good option for reading CSV files and making plots.
-click the Binder badge
-Once your Binder launches you should see that a new file that was not part of your repository has appeared.
+In this file add a single line reading `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
 
-To see the data create a new notebook and use the below code to make a plot:
+#### Large public files
 
-%matplotlib inline
-
-import pandas
-
-data = pandas.read_csv('gapminder.csv', index_col='country')
-
-# Extract year from last 4 characters of each column name
-years = data.columns.str.strip('gdpPercap_')
-# Convert year values to integers, saving results back to dataframe
-data.columns = years.astype(int)
-
-data.loc['Australia'].plot()
-The data and code snippet were taken from a Software Carpentry lesson.
-
-The contents of the postBuild file is a shell script that is executed as part of the container image construction. This means it is only executed once when the image is built, not every time it is launched.
-
-Large public files
-For large files it is not practical to place them in your GitHub repository nor to include them directly in the image.
-
-Note: technically we can not stop you from including very large files in your image. However large images take longer to launch, as well as taking up storage space that [mybinder.org](https://mybinder.org) has to pay for. Be considerate.
-
-The best option for large files is to use a library specific to the data format to stream the data as you are using it. Or if you have to download it on demand as part of your code.
-
-There are a few restrictions on outgoing traffic from your Binder that are imposed by the team operating [mybinder.org](https://mybinder.org). Currently only connections to HTTP and Git are allowed. This comes up when people want to use FTP sites to fetch data. For security reasons FTP will never be allowed on [mybinder.org](https://mybinder.org).
-
-Note: to start a discussion of opening additional ports create a new issue on the [mybinder.org](https://mybinder.org) repository
-
-Private files
-There currently is no way to access files which are not public from [mybinder.org](https://mybinder.org).
-
-For security reasons you should consider all information in a Binder as public. This means:
-
-there should be no secrets (passwords, tokens, keys, etc) in your GitHub repository
-you should not type passwords into a running Binder on [mybinder.org](https://mybinder.org)
-you should not upload your private SSH key or API token to a running Binder
-To support access to private files you will have to create a local deployment of BinderHub where you can then decide on the security trade offs yourself.
-
+The best option for large files is to use a library specific to the data format to stream the data as you are using it. There are a few restrictions on outgoing traffic from your Binder that are imposed by the team operating [mybinder.org](https://mybinder.org). Currently only connections to HTTP and Git are allowed. This comes up when people want to use FTP sites to fetch data. For security reasons FTP is not allowed on [mybinder.org](https://mybinder.org).
 
 ---
 
@@ -533,6 +487,8 @@ Using Sarah's notes (workshop/10-zero-to-binder.md), adapted from bit.ly/zero-to
 - Chatted with Will. So it's not possible (or at least not intended) to open a binder, create a notebook there, and then share work done on that. Instead you need to make and commit a notebook to your GitHub repo, and you can commit it with work already done on it (graphs etc). Binder being well integrated with Jupyter means that they can be opened easily without needing to install anything additional or whatever in your binder. However you can't *commit* the work done in the notebooks on binder. You can also make new notebooks like making terminals in binder as previously discussed if someone what's to run/try out things with the code but it isn't saved to your repo the same way work done on a terminal isn't.
 - Also at any point you can go to [mybinder.org](mybinder.org) and fill out the repo, branch etc and get the (which is sharable) to generate binder from it.
 
+
+Materials used: [mybinder docs intro](https://github.com/jupyterhub/binder/blob/master/doc/introduction.rst) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**, [Original zero to binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
 
 ## Virtual machines
 
