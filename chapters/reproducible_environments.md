@@ -272,40 +272,40 @@ Below is a comic to help illustrate what Binder is, and we will expand on it her
 
 **Step 1:** As you can see in step one there is a researcher that has completed a project and wants to share her work with anyone regardless of their computational environment. Note that Binder does not only have to be applied to finished projects, it can be used in exactly the same way to share projects that are in progress.
 
-**Step 2:** The researcher's project contains many files of different types. In the comic the researcher is working on these files via a Jupyter notebook, and it is true that Binder is very well integrated with these notebooks. However if you are not familiar with these not to worry, Binder can be used just as effectively without them.
+**Step 2:** The researcher's project contains many files of different types. In the comic the researcher is working on these files via a Jupyter notebook, and it is true that Binder is very well integrated with these notebooks. However if you are not familiar with these, not to worry, Binder can be used just as effectively without them.
 
 **Step 3:** The researcher uploads her code to some publicly available repository, such as GitHub, where it can be accessed by others. She includes a file describing the computational environment required to run the project.
 
-**Step 4:** Using [mybinder.org](mybinder.org) she generates a link. By clicking on this link anyone can access a "Binderized" version of her project. This means they will be taken to a copy of her project in their web browser that they can interact with (though this will not impact the researchers own copy). This copy of the project they interact with will behave as if it is hosted in the environment the researcher specified in step 3, regardless of the computational environment of the person is accessing it from. 
+**Step 4:** Using [mybinder.org](mybinder.org) she generates a link. By clicking on this link anyone can access a "Binderized" version of her project. This means they will be taken to a copy of her project in their web browser that they can interact with. (By default this will not impact the researchers own copy, though this setting to be changed if the research wants others such as collaborators to be able to work on/modify the project via the Binder). This copy of the project they interact with will behave as if it is hosted in the environment the researcher specified in step 3, regardless of the computational environment of the person is accessing it from.
 
 ![binder_comic](../figures/binder_comic.png)
 
-Binders make it possible to create interactive versions of a project in a reproducible environment online that can be shared via a link, allowing others to interact with it.
+Figure credit: [Juliette Taka, Logilab and the OpenDreamKit project](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/)
 
-#### Disambiguation
+To get an idea of what this looks like here's a binder of a simple example project looks like. Files are listed and can be clicked on and modified by the person accessing the binder.
 
-- Binder
-- BinderHub
-- mybinder.org
+![binder_home](../figures/binder_home.png)
 
+Users can also open terminals to run or otherwise interact with the files by clicking on "New" and then "Terminal" in the top right of the home binder screen shown above. Here this is used to run the analysis script in the example binder which performs a linear regression on some data:
 
-  -
+![binder_terminal](../figures/binder_terminal.png)
+
+As mentioned Binder is well integrated with Jupyter notebooks which can be opened by clicking on "New" and then under "Notebook" in the same way termnals can be opened. These may be more convenient for those working with graphical outputs, as shown here where one is used to run `manke_plot.py` in the example Binder:
+
+![binder_notebook](../figures/binder_notebook.png)
+
+### Disambiguation
+
+In this section there are a number of related terms, which will be outlined here for clarity:
+
+- Binder: A sharable version of a project that can be viewed and interacted within a reproducible computational environment via a web browser.
+- BinderHub: A service which generates Binders. Anyone can build a BinderHub if they so wish. An example or a reason somone may wish to do so is if they want to make a binder of a project which involves confidential files, and thus cannot be made public.
+- mybinder.org: A public and free BinderHub. Because it is public you should not use it if your project requires any personal or sensitive information (such as passwords)
+- Binderize: To make a Binder of a project.
+
 
 [mybinder docs intro](https://github.com/jupyterhub/binder/blob/master/doc/introduction.rst) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
 
-
-
-
-The main technical product that the community creates is called BinderHub, and one deployment of a BinderHub exists at mybinder.org. This website is run by the Binder Project as a public service to make it easy for others to share their work.
-
-
-A Binder repository can be built by a BinderHub,
-
-Preparing a repository for Binder
-In order to prepare your repository for use with the BinderHub at mybinder.org, all you need to do is ensure that the following conditions are met:
-
-- The project is in a public location online (e.g., on GitHub)
-- The project does not require any personal or sensitive information (such as passwords)
 
 ---
 

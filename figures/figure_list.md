@@ -5,6 +5,9 @@
 | Filename                   | Chapter                   | Description                                       |
 | -------------------------- | ------------------------- | ------------------------------------------------- |
 | binder_comic               | Reproducible environments | Cartoon showing using binder to share research    |
+| binder_home                | Reproducible environments | Home screen of an example binder                  |
+| binder_notebook            | Reproducible environments | Interacting with an example binder via a notebook |
+| binder_terminal            | Reproducible environments | Interacting with an example binder via a terminal |
 | change_stage_repo          | Version control           | Cartoon showing staging and committing changes    |
 | flipped_taj_mahal          | Version control           | Upside down taj mahal to confuse people           |
 | master_branch              | Version control           | Illustrates commits on master branch              |
