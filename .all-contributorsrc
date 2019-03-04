@@ -1,0 +1,24 @@
+{
+  "projectName": "the-turing-way",
+  "projectOwner": "alan-turing-institute",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "jmgate",
+      "name": "Jason M. Gates",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/20327215?v=4",
+      "profile": "https://github.com/jmgate",
+      "contributions": [
+        "doc",
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
