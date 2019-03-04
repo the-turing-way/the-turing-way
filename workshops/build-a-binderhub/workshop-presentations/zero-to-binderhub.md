@@ -113,7 +113,7 @@ For information on other types of virtual machine available, [see here](https://
 az aks create --name shfhubcluster \
     --resource-group shf_test_hub \
     --ssh-key-value ssh-key-shfhubcluster.pub \
-    --node-count 1
+    --node-count 1 \
     --node-vm-size Standard_D2s_v3 \
     --output table
 ```
