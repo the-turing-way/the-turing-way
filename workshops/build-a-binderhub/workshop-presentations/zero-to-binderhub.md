@@ -37,7 +37,7 @@ brew install azure-cli
 brew install kubernetes-cli
 ```
 
-## Instructions
+## Deploying a Kubernetes cluster on Azure
 
 ### 1. Login to Azure
 
@@ -127,3 +127,29 @@ az aks create --name shfhubcluster \
 
 **This step may take a few minutes to execute.**
 
+### 7. Get credentials from Azure for `kubectl`
+
+This step automatically updates your Kubernetes client configuration file to be configured with the cluster we've just deployed.
+
+```bash
+az aks get-credentials --name shfhubcluster \
+    --resource-group shf_test_hub \
+    --output table
+```
+* `--name` is the cluster name defined in Step 4.
+* `--resource-group` is the resource group created in Step 3.
+
+### 8. Check the Cluster is Fully Functional
+
+```bash
+kubectl get node
+```
+
+The output of this command should list one node (unless you changed `--node-count` in Step 6) with a `STATUS` of `READY`.
+The `VERSION` field reports which version of Kubernetes is installed.
+
+Example output:
+```bash
+NAME                       STATUS   ROLES   AGE   VERSION
+aks-nodepool1-97000712-0   Ready    agent   19m   v1.9.11
+```
