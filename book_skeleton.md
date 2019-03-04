@@ -15,7 +15,7 @@ The aim of this file is iterate/decide on:
 - [Testing for research](https://github.com/alan-turing-institute/the-turing-way/pull/147) - @r-j-arnold and @annakrystalli
 - [Continuous integration](https://github.com/alan-turing-institute/the-turing-way/pull/146) - @r-j-arnold and @annakrystalli
 - [Reproducible Compute Environment](https://github.com/alan-turing-institute/the-turing-way/pull/148) - @r-j-arnold and @annakrystalli
-- Research Data Management - @pherterich and @rosiehigman
+- [Research Data Management](https://github.com/alan-turing-institute/the-turing-way/pull/196) - @pherterich and @rosiehigman
 
 #### Needed
 - Collaborating (through Github/Gitlab) - @pherterich and @rosiehigman
