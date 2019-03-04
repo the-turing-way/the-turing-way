@@ -269,8 +269,9 @@ jupyterhub:
   hub:
     services:
       binder:
-        apiToken: <output of FIRST 'openssl rand -hex 32' command>
-        secretToken: <output of SECOND 'openssl rand -hex 32' command>
+        apiToken: "<output of FIRST 'openssl rand -hex 32' command>"
+  proxy:
+    secretToken: "<output of SECOND 'openssl rand -hex 32' command>"
 ```
 
 To connect to DockerHub, at the following:
@@ -282,6 +283,8 @@ registry:
 **N.B.:** `registry` is on the same level as `jupyterhub`.
 
 > Can we encrypt this information?
+
+Click [here](#secret) for a complete example `secret.yaml` file.
 
 ### 3. Create a `config.yaml` file <a name="bh-step3"></a>
 
@@ -335,6 +338,8 @@ hub_url: http://<IP address in EXTERNAL-IP field from above>
 ```
 **N.B.:** `hub_url` is at the same level as `use_registry` and `image_prefix` in [Step 3](#bh-step3).
 
+Click [here](#config) for a complete example `config.yaml` file.
+
 Now upgrade the Helm chart to deploy the change.
 ```bash
 helm upgrade shfhub jupyterhub/binderhub \
@@ -351,3 +356,31 @@ kubectl --namespace=shfhub get svc binder
 ```
 
 Copy the IP address into your browser and your BinderHub should be waiting.
+
+## Example config files <a name="exampleconfigs"></a>
+
+### `secret.yaml` <a name="secret"></a>
+
+```yaml
+jupyterhub:
+  hub:
+    services:
+      binder:
+        apiToken: "<output of FIRST 'openssl rand -hex 32' command>"
+  proxy:
+    secretToken: "<output of SECOND 'openssl rand -hex 32' command>"
+
+registry:
+  username: <docker-id>
+  password: <password>
+```
+
+### `config.yaml` <a name="config"></a>
+
+```yaml
+config:
+  BinderHub:
+    use_registry: true
+    image_prefix: <docker-id|organisation-name>/<prefix>-
+    hub_url: http://<EXTERNAL-IP from Step 5>
+```
