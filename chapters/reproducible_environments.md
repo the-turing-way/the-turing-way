@@ -299,6 +299,8 @@ As mentioned Binder is well integrated with Jupyter notebooks which can be opene
 
 ![binder_notebook](../figures/binder_notebook.png)
 
+If R is installed in a bindr the option will also be available in the dropdown menu to open R Jupyter notebooks and RStudio sessions in the Binder.
+
 <a name="Disambiguation"></a>
 ### Disambiguation
 
@@ -360,23 +362,11 @@ If a project contains no file specifying the computational environment when a Bi
     python-2.7
     ```
 - install.R or DESCRIPTION (R/RStudio)
-    - An install.R file lists the packages to be installed, for example to install the package tidyverse in the Binder:
+    - An install.R file lists the packages to be installed, for example to install the package tibble in the Binder:
     ```
-    install.packages("tidyverse")
+    install.packages("tibble")
     ```
-    -
-- REQUIRE (Julia)
-
-
-
-
-  - Note - the `install.R` file is a made up file to install R packages. The standard way of doing this for R users is to use a DESCRIPTION file.
-    - https://mybinder.readthedocs.io/en/latest/config_files.html#install-r-install-an-r-rstudio-environment
-    - https://mybinder.readthedocs.io/en/latest/config_files.html#description-install-an-r-package
-  - Note that the DESCRIPTION file doesn't just install the specific package - it will ALSO install any requirements that you have
-
-
-
+    - [DESCRIPTION files](https://cran.r-project.org/doc/manuals/r-release/R-exts.html#The-DESCRIPTION-file) are more typically used in the R community for dependency management.
 
 <a name="Step_2_Put_your_code_on_GitHub"></a>
 #### Step 2: Put your code on GitHub
