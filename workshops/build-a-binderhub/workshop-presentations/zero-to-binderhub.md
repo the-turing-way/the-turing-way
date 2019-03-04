@@ -363,6 +363,9 @@ kubectl --namespace=shfhub get svc binder
 
 Copy the IP address into your browser and your BinderHub should be waiting.
 
+If you've been successful, a page identical to [mybinder.org](https://mybinder.org) should appear.
+Type the following URL into the GitHub repo box and launch it: **https://github.com/binder-examples/requirements**. You can even sign in to your Docker account to see when the image has been pushed to the registry.
+
 ## Example config files <a name="exampleconfigs"></a>
 
 ### `secret.yaml` <a name="secret"></a>
