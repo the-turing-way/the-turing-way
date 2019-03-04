@@ -4,7 +4,8 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
-    "README.md"
+    "README.md",
+    "contributors.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -17,6 +18,22 @@
       "contributions": [
         "doc",
         "review"
+      ]
+    },
+    {
+      "login": "KirstieJane",
+      "name": "Kirstie Whitaker",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3626306?v=4",
+      "profile": "https://whitakerlab.github.io",
+      "contributions": [
+        "question",
+        "doc",
+        "design",
+        "eventOrganizing",
+        "fundingFinding",
+        "ideas",
+        "review",
+        "talk"
       ]
     }
   ],
