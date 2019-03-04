@@ -9,7 +9,7 @@ The aim of this file is iterate/decide on:
 #### Completed Chapters
 - [Version Control](chapters/version_control.md) - @r-j-arnold
 - [Open Research](chapters/open_research.md) - @r-j-arnold
-- Reproducibility (definition and why) - @pherterich
+- [Reproducibility](chapters/reproducibility.md) - @pherterich
 
 #### WIP
 - Testing for research - @r-j-arnold and @annakrystalli
