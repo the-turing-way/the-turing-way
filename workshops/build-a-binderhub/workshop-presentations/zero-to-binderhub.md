@@ -162,6 +162,16 @@ aks-nodepool1-97000712-0   Ready    agent   19m   v1.9.11
 
 Adapted from [Zero-to-JupyterHub: Setting up and Securing Helm](https://zero-to-jupyterhub.readthedocs.io/en/latest/setup-helm.html).
 
+Helm is the package manager for Kubernetes and is used for: installing, upgrading and managing application on a Kubernetes cluster.
+Helm packages are called _charts_.
+
+Helm has two parts: a client (`helm`) and a server (`tiller`).
+Tiller runs inside your Kubernetes cluster as a pod in the `kube-system` namespace.
+Tiller manages _releases_ (installations) and _revisions_ (versions) of charts deployed on the cluster.
+When you run a `helm` command, the local Helm client sends instructions to `tiller` in the cluster which in turn makes the requested changes.
+
+> **Did you know?:** Kubernetes is Greek for "captain" or "helmsman". Get ready for the nautical theme!
+
 ### 1. Setup a `ServiceAccount` for `tiller` <a name="helm-step1"></a>
 
 When you (a human) accesses your Kubernetes cluster, you are authenticated as a particular **User Account**.
@@ -218,7 +228,7 @@ To verify the correct versions have been installed properly, run the following c
 helm version
 ```
 
-You must have at least version 2.11.0 and the client (`helm`) and server (`tiller') versions must match.
+You must have at least version 2.11.0 and the client (`helm`) and server (`tiller`) versions must match.
 
 Example output:
 ```bash
