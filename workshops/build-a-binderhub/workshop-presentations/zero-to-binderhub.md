@@ -2,6 +2,8 @@
 
 Sarah Gibson, _The Alan Turing Institute_
 
+[**The Turing Way**](https://github.com/alan-turing-institute/the-turing-way) - making reproducible data science _too easy not to do_!
+
 **BinderHub Documentation:**
 * [Step Zero: Setting up a Kubernetes Cluster](https://zero-to-jupyterhub.readthedocs.io/en/latest/create-k8s-cluster.html)
 * [Setup JupyterHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/#setup-jupyterhub)
@@ -80,6 +82,7 @@ az group create --name=shf_test_hub \
 * `--name` specifies the name of your resource group and should be something that uniquely identifies this hub.
 * `--location` specifies the location of the data centre where your resource will exist.
   A list of data centre locations can be found [here](https://docs.microsoft.com/en-us/azure/aks/container-service-quotas#region-availability).
+  We have chosen West Europe for resource availability.
 * `--output table` specifies the output should be in human-readable format as opposed to JSON, which is the default output.
 
 ### 4. Choose a Cluster Name <a name="aks-step4"></a>
@@ -92,7 +95,7 @@ mkdir shfhubcluster
 cd shfhubcluster
 ```
 
-> **Discussion topic for later in the day:**
+> **Discussion topic:**
 > As a team of RSEs managing a BinderHub, where would the best place for folders such as this to live?
 
 ### 5. Create an SSH key <a name="aks-step5"></a>
@@ -162,7 +165,7 @@ aks-nodepool1-97000712-0   Ready    agent   19m   v1.9.11
 
 Adapted from [Zero-to-JupyterHub: Setting up and Securing Helm](https://zero-to-jupyterhub.readthedocs.io/en/latest/setup-helm.html).
 
-Helm is the package manager for Kubernetes and is used for: installing, upgrading and managing application on a Kubernetes cluster.
+Helm is the package manager for Kubernetes and is used for: installing, upgrading and managing applications on a Kubernetes cluster.
 Helm packages are called _charts_.
 
 Helm has two parts: a client (`helm`) and a server (`tiller`).
@@ -274,7 +277,7 @@ jupyterhub:
     secretToken: "<output of SECOND 'openssl rand -hex 32' command>"
 ```
 
-To connect to DockerHub, at the following:
+To connect to DockerHub, add the following lines:
 ```yaml
 registry:
   username: <docker-id>
@@ -282,7 +285,7 @@ registry:
 ```
 **N.B.:** `registry` is on the same level as `jupyterhub`.
 
-> Can we encrypt this information?
+> **Discussion topic:** Is it possible to encrypt this information?
 
 Click [here](#secret) for a complete example `secret.yaml` file.
 
@@ -294,11 +297,11 @@ Create a `config.yaml` file with the following information and save it in the fo
 config:
   BinderHub:
     use_registry: true
-    image_prefix: <docker-id>/<prefix>-
+    image_prefix: <docker-id>/sheff-binder-
 ```
 **N.B.:**
   * If your Docker account is part of an organisation where you would like to store images instead, change the value of `image_prefix` to `docker-id|organisation-name>/<prefix>-`
-  * `<prefix>` can be any string since it will be preppended to image names.
+  * The `<prefix>` can be any string since it will be preppended to image names.
   It is recommended to be something short and descriptive, such as `binder-dev-` (for development) or `binder-prod-` (for the final product).
 
 ### 4. Install BinderHub <a name="bh-step4"></a>
@@ -318,6 +321,7 @@ helm install jupyterhub/binderhub --version=0.2.0-3b53fce \
 ```
 * `--version` refers to the version of the BinderHub Helm Chart.
   Available versions can be found [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub).
+  We have used the version released on March 3rd 2019.
 * `--name` and `--namespace` may be different, but it's recommended they be the same to avoid confusion.
   It should be something short and descriptive.
 
