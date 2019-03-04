@@ -8,16 +8,16 @@ The aim of this file is iterate/decide on:
 
 #### Completed Chapters
 - Version Control - @r-j-arnold
+- Open Science (Open Access, Open Source, Open Data) - @r-j-arnold
+- Reproducibility (definition and why) - @pherterich
 
 #### WIP
- - Open Science (Open Access, Open Source, Open Data) - @r-j-arnold
- - Reproducibility (definition and why) - @pherterich
-
-#### Needed
- - Testing for research - @r-j-arnold and @annakrystalli
+- Testing for research - @r-j-arnold and @annakrystalli
 - Continuous integration - @r-j-arnold and @annakrystalli
 - Reproducible Compute Environment - @r-j-arnold and @annakrystalli
 - Research Data Management - @pherterich and @rosiehigman
+
+#### Needed
 - Collaborating (through Github/Gitlab) - @pherterich and @rosiehigman
 - Case studies - @LouiseABowler
 - Checklist - @annakrystalli and @KirstieJane
