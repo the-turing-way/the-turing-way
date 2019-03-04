@@ -30,14 +30,18 @@ This workshop will use a terminal (as opposed to Azure's [Cloud Shell](https://a
 
 * **Azure CLI:** Installation guidelines found [here](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
 * **Kubernetes CLI (`kubectl`):** Installation guidelines found [here](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-with-homebrew-on-macos)
+* **Helm (Kubernetes package manager):** Installation guidelines found [here](https://helm.sh/docs/using_helm/#installing-helm)
 
 We used Homebrew on MacOS to install these:
 ```bash
 brew install azure-cli
 brew install kubernetes-cli
+brew install kubernetes-helm
 ```
 
 ## Deploying a Kubernetes cluster on Azure <a name="k8s"></a>
+
+Adapted from [Step Zero: Kubernetes on Microsoft Azure Container Service (AKS)](https://zero-to-jupyterhub.readthedocs.io/en/latest/microsoft/step-zero-azure.html).
 
 ### 1. Login to Azure <a name="step1"></a>
 
@@ -105,7 +109,7 @@ Some text will be printed to the terminal which you don't need to do anything wi
 
 This command will request a Kubernetes cluster within the resource group we created.
 It will request one `Standard_D2s_v3` virtual machine which a Kubernetes cluster installed.
-For information on other types of virtual machine available, [see here](https://azure.microsoft.com/en-gb/pricing/details/virtual-machines/series/). 
+For information on other types of virtual machines available, [see here](https://azure.microsoft.com/en-gb/pricing/details/virtual-machines/series/).
 
 **N.B.:** If you are _not_ using a Free Trial subscription, try setting `--node-count` to **3** instead.
 
