@@ -398,9 +398,9 @@ The simplest approach for small data files that are public is to add them direct
 
 #### Medium public files
 
-For medium sized files, a few 10s of megabytes to a few hundred megabytes, find some other place online to store them and make sure they are publicly available. Then add a file named postBuild (which is a shell script so the first line must be `#!/bin/bash`) in your project. The postBuild file is used to execute commands when the files to produce the Binder are being generated. In this case it can be used to download your data into the file to your Binder as soon as the binder is launched, so [mybinder.org](https://mybinder.org) does not have to host it for the entire time.
+For medium sized files, a few 10s of megabytes to a few hundred megabytes, find some other place online to store them and make sure they are publicly available. Then add a file named postBuild (which is a shell script so the first line must be `#!/bin/bash`) in your project. In the postBuild file add a single line reading `wget -q -O name_of_your_file link_to_your_file`.
 
-In the postBuild file add a single line reading `wget -q -O name_of_your_file link_to_your_file`
+The postBuild file is used to execute commands when the files to produce the Binder are being generated. In this case it can be used to download your data into the files used to launch the binder.
 
 #### Large public files
 
