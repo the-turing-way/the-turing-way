@@ -79,8 +79,10 @@ As such it is vital for researcher to understand and capture the computational e
 
 This chapter will describe how to capture, preserve and share computational environments along with code to ensure research is reproducible.
 
-Materials used:
-[A. Brinckman, et al., Computing environments for reproducibility: Capturing the "Whole Tale", Future Generation Computer Systems (2018), https://doi.org/10.1016/j.future.2017.12.029](https://www.sciencedirect.com/science/article/pii/S0167739X17310695) **Attribution 4.0 International (CC BY 4.0)**, [Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
+#### Materials used
+
+- [A. Brinckman, et al., Computing environments for reproducibility: Capturing the "Whole Tale", Future Generation Computer Systems (2018), https://doi.org/10.1016/j.future.2017.12.029](https://www.sciencedirect.com/science/article/pii/S0167739X17310695) **Attribution 4.0 International (CC BY 4.0)**
+- [Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
 
 ## Summary of ways to capture computational environments
 
@@ -125,7 +127,7 @@ Practising with conda
 - numpy is one of the packages included by default, so even if I don't specify it when setting up an environment if I run python in an environment and try `import numpy` it works. However for packages that aren't included, like flask, importing them only works if they're specified when creating the environment.
 
 
-Package managers, as you may deduce, manage and keep track of the different bits of software (and their versions) that you install in an environment (packages). There are quite a few to choose from, for example Yum, Zypper, and dpkg. We're going to focus on Conda.
+Package managers, as you may deduce, manage and keep track of the different bits of software (and their versions) that you install in an environment (packages). There are quite a few to choose from, for example Yum, Zypper, dpkg, and Nix (which will be mentioned briefly later in the [Binder](#Binder) section). We're going to focus on Conda.
 
 *Say why conda, say python centric, but works for other langs*
 
@@ -161,6 +163,7 @@ First you will need to download Conda (not Anaconda)
   - equivalent command for `conda`: `conda env export`
   - equiv for `R`
 
+<a name="YAML_files"></a>
 ## YAML files
 
 YAML is an indentation-based markup language which aims to be both easy to read and easy to write. Many projects use it for configuration files because of its readability, simplicity and good support for many programming languages. It can be used for a great many things including defining computational environments, and is well integrated with [Travis](https://travis-ci.org/) which is discussed in the chapter on continuous integration.
@@ -260,12 +263,14 @@ Because of their simplicity YAML files can be hand written. Alternatively they c
 - **Manually.** It can be done manually by carefully installing the specified packages etc. Because YAML files can also specify operating systems and versions that may or may not match that of the person trying to replicate the environment this may require the use of a virtual machine.
 - **Via package management systems such as Conda.** As [discussed](#Package_management_systems) as well as being able to generate YAML files from computational environments Conda can also generate computational environments from YAML files.
 
+<a name="Security_issues"></a>
 ### Security issues
 
 There is an inherent risk in downloading/using files you have not written to your computer, and it is possible to include malicious code in YAML files. Do not load YAML files or generate computational environments from them unless you trust their source.
 
 Materials used: [yaml tutorial](https://gettaurus.org/docs/YAMLTutorial/) **[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)**
 
+<a name="Binder"></a>
 ## Binder
 
 Below is a comic to help illustrate what Binder is, and we will expand on it here in the text.
@@ -304,7 +309,8 @@ In this section there are a number of related terms, which will be outlined here
 - [mybinder.org](https://mybinder.org): A public and free BinderHub. Because it is public you should not use it if your project requires any personal or sensitive information (such as passwords)
 - Binderize: To make a Binder of a project.
 
-### Creating a binder for your project
+<a name="Creating_a_binder_for_a_project"></a>
+### Creating a binder for a project
 
 Creating a Binderized version of a project involves three key steps which will be explained in this section:
 
@@ -314,17 +320,52 @@ Creating a Binderized version of a project involves three key steps which will b
 
 For a list of sample repositories for use with Binder, see the [Sample Binder Repositories](https://mybinder.readthedocs.io/en/latest/sample_repos.html) page.
 
+<a name="Step_1_Specify_your_computational_environment"></a>
 #### Step 1: Specify your computational environment
 
 If a project contains no file specifying the computational environment when a Binder is generated the environment will be the Binder default environment, (containing python 3.6) which may or may not be suitable for the project. However if it does contain a configuration file for the environment then the Binder will be generated with the specified environment. A full list of such files binder accepts with examples can be found [here](https://mybinder.readthedocs.io/en/latest/config_files.html), but here are some of the key ones, some of which are language-specific:
 
 - environment.yml
-- apt.txt
-- default.nix
+    - Recall that environment.yml files were discussed in the [Package management systems](#Package_management_systems) section.
 - Dockerfile
-- requirements.txt (python) Note Binder only supports python 2.7.15 for a `requirements.txt` file.
-- REQUIRE (Julia)
+    - Dockerfiles will be discussed in the [Containers](#Containers) section, so will not be discussed further here.
+- apt.txt
+    - Dependencies that would typically installed via commands such as `sudo apt-get install package_name` should be listed in an apt.txt file, and will be automatically installed in the binder.
+    - For example if a project uses Latex the apt.txt file should read
+    ```
+    texlive-latex-base
+    ```
+    to install the base Latex package.
+- default.nix
+    - For those that use the [package management system](#Package_management_systems) Nix a default.nix can be a convenient way to capture their environment.
+- requirements.txt (python)
+    - For python users a requirements.txt file can be used to list dependent packages.
+    - For example to have Binder install numpy this file would simply need to read:
+    ```
+    numpy
+    ```
+    - Specific package version can also be specified using an `==`, for example to have Binder install numpy version 1.14.5 then the file would be
+    ```
+    numpy==1.14.5
+    ```
+    - The requirement.txt file does not need to be hand written. Running the command `pip freeze > requirements.txt` will output a requirements.txt file that fully defines the python environment.
+- runtime.txt
+    - Used to specify a particular version of python of R for the Binder to use.
+    - To specify which version of R to use specify find the date it was captured on [MRAN](https://mran.microsoft.com/documents/rro/reproducibility) and include it in the runtime.txt file as
+    ```
+    r-<YYYY>-<MM>-<DD>
+    ```
+    - To specify a version of python, similarly state the version in this file. For example to use Python 2.7 the file would need to read
+    ```
+    python-2.7
+    ```
 - install.R or DESCRIPTION (R/RStudio)
+    - An install.R file lists the packages to be installed, for example to install the package tidyverse in the Binder:
+    ```
+    install.packages("tidyverse")
+    ```
+    -
+- REQUIRE (Julia)
 
 
 
@@ -334,33 +375,10 @@ If a project contains no file specifying the computational environment when a Bi
     - https://mybinder.readthedocs.io/en/latest/config_files.html#description-install-an-r-package
   - Note that the DESCRIPTION file doesn't just install the specific package - it will ALSO install any requirements that you have
 
-Let's add some dependencies.
-
-To do:
-
-in your repository on GitHub create a file called requirements.txt
-add a line to requirements.txt that reads numpy==1.14.5
-after adding the file and checking its name for typos
-
-## Learning how to use Binder
-
-Using Sarah's notes (workshop/10-zero-to-binder.md), adapted from bit.ly/zero-to-binder and bit.ly/zero-to-binder-rise
-
-
-- Changed my script so it imported and used numpy, then went to the link again. When I tried to run the script it failed because there was `No module named numpy` in my environment.
-- Created a requirements.txt file and added numpy to it. It then sucessfuly ran.
-- Added function in the script that requires a certain version of numpy, and specified that in requirements.txt.
-  ```
-  numpy==1.15.1
-  ```
-- Reopened the binder, worked.
-- In requrements.txt then changed numpy to a version which doesn't have that function. Reloaded the binder.
-- Binder successfully loaded, but when I ran the code it executed the first few lines but stopped with an error on the line using numpy to do something that version couldn't.
-- I guess that means *binder* only breaks if it can't put together the environment specified. Otherwise if your code breaks because *it's* trying to do something that can't be done then it breaks in the terminal with errors as usual.
-- Fixed the wrong version of numpy in requirements.txt.
 
 
 
+<a name="Step_2_Put_your_code_on_GitHub"></a>
 #### Step 2: Put your code on GitHub
 
 GitHub is discussed at length in the chapter on version control, which you should refer to if you wish to understand more about this step. In this chapter we will give the briefest possible explanation. GitHub is a very widely used platform where you can make "repositories", and upload code, documentation, or any other files into them. To complete this step:
@@ -371,6 +389,7 @@ GitHub is discussed at length in the chapter on version control, which you shoul
 
 Again, if you are unable to complete these steps refer to the chapter on version control for a fuller explanation.
 
+<a name="Step_3_Generate_a_link_to_a_Binder_of_your_project"></a>
 #### Step 3: Generate a link to a Binder of your project
 
 Head to [https://mybinder.org](https://mybinder.org). You'll see a form that asks you to specify a repository for [mybinder.org](https://mybinder.org) to build. In the first field, paste the URL of the project's GitHub repository. It'll look something like this: `https://github.com/<your-username>/<your-repository>`
@@ -388,20 +407,24 @@ Finally, click the launch button. This will ask [mybinder.org](https://mybinder.
 
 Once it has been built the Binder will be automatically launched, again this may take some time.
 
-### Including data in your Binder
+<a name="Including_data_in_a_Binder"></a>
+### Including data in a Binder
 
 There are a few ways to make data available in your Binder. Which is the best one depends on how big your data is and your preferences for sharing data. Note that the more data that is included include the longer it will take for a Binder to launch. Data also takes up storage space which must be paid for, so it is good to be considerate and minimise the data you include, especially on the publicly provided mybinder.org](https://mybinder.org).
 
+<a name="Small_public_files"></a>
 #### Small public files
 
 The simplest approach for small data files that are public is to add them directly to your GitHub repository, i.e to include them along with the rest of your project files in the Binder. This works well and is reasonable for files with sizes up to maybe 10MB.
 
+<a name="Medium_public_files"></a>
 #### Medium public files
 
 For medium sized files, a few 10s of megabytes to a few hundred megabytes, find some other place online to store them and make sure they are publicly available. Then add a file named postBuild (which is a shell script so the first line must be `#!/bin/bash`) in your project. In the postBuild file add a single line reading `wget -q -O name_of_your_file link_to_your_file`.
 
 The postBuild file is used to execute commands when the files to produce the Binder are being generated. In this case it can be used to download your data into the files used to launch the binder.
 
+<a name="Large_public_files"></a>
 #### Large public files
 
 The best option for large files is to use a library specific to the data format to stream the data as you are using it. There are a few restrictions on outgoing traffic from your Binder that are imposed by the team operating [mybinder.org](https://mybinder.org). Currently only connections to HTTP and Git are allowed. This comes up when people want to use FTP sites to fetch data. For security reasons FTP is not allowed on [mybinder.org](https://mybinder.org).
@@ -416,7 +439,7 @@ The best option for large files is to use a library specific to the data format 
 ## Virtual machines
 
 
-
+<a name="Containers"></a>
 ## Containers
 
 - Images and Containers
