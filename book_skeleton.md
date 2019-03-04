@@ -12,7 +12,7 @@ The aim of this file is iterate/decide on:
 - [Reproducibility](chapters/reproducibility.md) - @pherterich
 
 #### WIP
-- Testing for research - @r-j-arnold and @annakrystalli
+- [Testing for research](https://github.com/alan-turing-institute/the-turing-way/pull/147) - @r-j-arnold and @annakrystalli
 - Continuous integration - @r-j-arnold and @annakrystalli
 - Reproducible Compute Environment - @r-j-arnold and @annakrystalli
 - Research Data Management - @pherterich and @rosiehigman
