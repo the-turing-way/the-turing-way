@@ -18,6 +18,22 @@
         "doc",
         "review"
       ]
+    },
+    {
+      "login": "KirstieJane",
+      "name": "Kirstie Whitaker",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3626306?v=4",
+      "profile": "https://whitakerlab.github.io",
+      "contributions": [
+        "question",
+        "doc",
+        "design",
+        "eventOrganizing",
+        "fundingFinding",
+        "ideas",
+        "review",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7
