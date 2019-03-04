@@ -47,7 +47,7 @@ brew install kubernetes-helm
 
 Adapted from [Step Zero: Kubernetes on Microsoft Azure Container Service (AKS)](https://zero-to-jupyterhub.readthedocs.io/en/latest/microsoft/step-zero-azure.html).
 
-A short (and be no means exhaustive) [glossary](#glossary) of Kubernetes terms is given at the end of this workshop should you require them.
+A short (and by no means exhaustive) [glossary](#glossary) of Kubernetes terms is given at the end of this workshop, should you require further explanation.
 
 ### 1. Login to Azure <a name="aks-step1"></a>
 
