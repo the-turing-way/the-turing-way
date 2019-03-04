@@ -47,6 +47,8 @@ brew install kubernetes-helm
 
 Adapted from [Step Zero: Kubernetes on Microsoft Azure Container Service (AKS)](https://zero-to-jupyterhub.readthedocs.io/en/latest/microsoft/step-zero-azure.html).
 
+A short (and be no means exhaustive) [glossary](#glossary) of Kubernetes terms is given at the end of this workshop should you require them.
+
 ### 1. Login to Azure <a name="aks-step1"></a>
 
 ```bash
@@ -388,3 +390,11 @@ config:
     image_prefix: <docker-id|organisation-name>/<prefix>-
     hub_url: http://<EXTERNAL-IP from Step 5>
 ```
+
+## Glossary of Kubernetes terms <a name="glossary"></a>
+
+* **Cluster**: a group of computing machines (real or virtual) to deploy apps or containers into
+* **Deployment**: instructions to Kubernetes on how to update instances of a deployed application
+* **Nodes**: Workers that run the applications
+* **Pod**: a Kubernetes abstraction representing a group of one or more application containers and some shared resources
+* **Service**: an abstraction defining a set of Pods and how they can be accessed; a Service is defined using YAML (or JSON) and allows applications to receive traffic/be exposed outside of the Cluster
