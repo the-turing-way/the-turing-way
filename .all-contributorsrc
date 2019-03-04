@@ -50,6 +50,18 @@
         "talk",
         "tutorial"
       ]
+    },
+    {
+      "login": "r-j-arnold",
+      "name": "Becky Arnold",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/20441134?v=4",
+      "profile": "https://github.com/r-j-arnold",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7
