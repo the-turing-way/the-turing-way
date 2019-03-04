@@ -122,6 +122,18 @@
         "review",
         "ideas"
       ]
+    },
+    {
+      "login": "alexmorley",
+      "name": "Alexander Morley",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/13655521?v=4",
+      "profile": "http://alexmorley.me",
+      "contributions": [
+        "question",
+        "review",
+        "ideas",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7
