@@ -8,6 +8,61 @@
 
 Recommended skill level: low.
 
+
+## Table of contents
+
+1. [Summary](#Summary)
+2. [How this will help you/ why this is useful](#Why_this_is_useful)
+3. [Open data](#Open_data)
+    1. [Steps to make your data open](#Steps_to_make_your_data_open)
+        1. [Step 1: Make your data available](#Step_1_Make_your_data_available)
+        2. [Step 2: Make your data easy to understand](#Step_2_Make_your_data_easy_to_understand)
+        3. [Step 3: Make your data easy to use](#Step_3_Make_your_data_easy_to_use)
+        4. [Step 4: Make your data citeable](#citing_data)
+    2. [Barriers to data sharing](#Barriers_to_data_sharing)
+        1. [Privacy](#Privacy)
+        2. [National and commercially sensitive data](#National_and_commercially_sensitive_data)
+4. [Open source software](#Open_source_software)
+    1. [What is open source software](#What_is_open_source_software)
+    2. [How running and contributing to open source software projects benefits you](#How_running_and_contributing_to_open_source_software_projects_benefits_you)
+        1. [Making your own work open source](#Making_your_own_work_open_source)
+        2. [Contributing to others' open source software projects](#Contributing_to_others_open_source_software_projects)
+    3. [How open source software benefits research](#How_open_source_software_benefits_research)
+    4. [How to run your own open source software project](#How_to_run_your_own_open_source_software_project)
+        1. [Readme](#Readme)
+        2. [Contributing guidelines](#Contributing_guidelines)
+        3. [Code of conduct](#Code_of_conduct)
+    5. [How to contribute to other's open source software projects](#How_to_contribute_to_others_open_source_software_projects)
+        1. [Anatomy of an open source software project](#Anatomy_of_an_open_source_software_project)
+        2. [Contribute your changes](#Contribute_your_changes)
+        3. [Looking for projects to contribute to and how to contribute to them](#Looking_for_projects_to_contribute_to_and_how_to_contribute_to_them)
+5. [Open hardware](#Open_hardware)
+    1. [Why open hardware?](#Why_open_hardware)
+    2. [Elements of an open source hardware project](#Elements_of_an_open_source_hardware_project)
+    3. [Open source hardware processes and practices](#Open_source_hardware_processes_and_practices)
+        1. [Designing your hardware](#Designing_your_hardware)
+        2. [Hosting your design file](#Hosting_your_design_files)
+        3. [Distributing open source hardware](#Distributing_open_source_hardware)
+6. [Open access](#Open_access)
+    1. [What is open access?](#What_is_open_access)
+        1. [Repositories and self-archiving](#Repositories_and_self_archiving)
+        2. [Open access publishing](#Open_access_publishing)
+    2. [Why does open access matter?](#Why_does_open_access_matter)
+    3. [Best practice for open access](#Best_practice_for_open_access)
+        1. [Self-archiving](#Self_archiving)
+        2. [Publication](#Publication)
+7. [Open notebooks](#Open_notebooks)
+8. [Open scholarship](#Open_scholarship)
+    1. [Open educational resources](#Open_educational_resources)
+    2. [Equity, Diversity, Inclusion](#Equity_Diversity_Inclusion)
+    3. [Citizen science](#Citizen_science)
+9. [Checklists](#Checklists)
+10. [What to learn next](#What_to_learn_next)
+11. [Further reading](#Further_reading)
+12. [Definitions/glossary](#Glossary)
+13. [Bibliography](#Bibliography)
+
+<a name="Summary"></a>
 ## Summary
 
 Open research aims to transform research by making research more reproducible, transparent, re-usable, collaborative, accountable and closer to society. It pushes for change in the way that research is carried out and disseminated by digital tools. One definition of Open research, as given by the OECD [is](https://www.fct.pt/dsi/docs/Making_Open_Science_a_Reality.pdf) the practice of making "the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction”. In order to achieve this openness in research, each element of the research process should:
@@ -34,6 +89,7 @@ Open scholarship is a concept that extends open research further. It relates to 
 
 These elements are also discussed in detail in this chapter.
 
+<a name="Why_this_is_useful"></a>
 ## How this will help you/ why this is useful
 
 There are five main schools of thought motivating open practices to benefit research:
@@ -54,6 +110,7 @@ Open practices also benefits the researchers that propagate them. For example th
 
 Another benefit of openness is that while research collaborations are essential to advancing knowledge, identifying and connecting with appropriate collaborators is not trivial. Open practices can make it easier for researchers to connect with one another by increasing the discoverability and visibility of one’s work, facilitating rapid access to novel data and software resources, and creating new opportunities to interact with and contribute to ongoing communal projects.
 
+<a name="Open_data"></a>
 ## Open data
 
 The world is witnessing a significant global transformation, facilitated by technology and digital media, and fuelled by data and information. This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research.
@@ -67,18 +124,22 @@ Open data is freely available on the internet and any user is permitted to downl
 This represents a real shift in how research works. At the moment anyone who wishes to use data from a researcher often has to contact that researcher and make a request. "Open by default" turns this on its head and says that there should be a presumption of publication for all. If access to data is restricted, for instance due to security reasons, the justification for this should be made clear.
 Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default. So, how do you go about making your data open?
 
+<a name="Steps_to_make_your_data_open"></a>
 ### Steps to make your data open
 
+<a name="Step_1_Make_your_data_available"></a>
 #### Step 1: Make your data available
 
 Put your data online. It should be easily discoverable and accessible, and made available without bureaucratic or administrative barriers, which can deter people from accessing the data. Choose a location to store the data which will ensure historical copies of datasets are preserved, archived, and kept accessible as long as they retain value. Whenever possible, researchers should provide data in its original, unmodified form.
 
 Data should be free of charge, under [an open licence](https://fossbytes.com/open-sources-license-type/), (for example, those developed by Creative Commons) so it can be reused and remixed by other researchers. The data should be available as a whole and at no more than a reasonable reproduction cost i.e. no expensive piece of software should be required to read the file as this may obstruct researchers who wish to work with the dataset.
 
+<a name="Step_2_Make_your_data_easy_to_understand"></a>
 #### Step 2: Make your data easy to understand
 
 Having data available is of no use if it cannot be understood. For example, a table of numbers is useless if there are no headings which describe the contents of the rows and columns. Therefore you should ensure that open datasets include consistent core metadata, and that the data is fully described. This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
 
+<a name="Step_3_Make_your_data_easy_to_use"></a>
 #### Step 3: Make your data easy to use
 
 The data should be made available in a modifiable, machine-readable format so that it can be effectively used and  manipulated.
@@ -98,10 +159,12 @@ When organisations register a DOI for a resource, they should not introduce sema
 
 Whichever identifier scheme you pick make sure it allows the identifier to be resolved to a URL. This URL should belong to a landing page that contains descriptive information about the dataset, as well as links or instructions for accessing it. You should also ensure that datasets are made citable and identifiable at an appropriate level of granularity, i.e. it would be no use citing CERN's entire data repository as someone attempting to reproduce your work would not be able to find the data used in a specific piece of work without considerable difficulty. Where possible it should be possible to cite the data used, and only the data used.
 
+<a name="Barriers_to_data_sharing"></a>
 ### Barriers to data sharing
 
 Sometimes it may not be possible to make data publicly available in its entirety or even in part. There are two main reasons this may be the case:
 
+<a name="Privacy"></a>
 #### Privacy
 
 Many fields of research involve working with sensitive personal data, medical research being the most obvious example.
@@ -109,14 +172,17 @@ Individuals must be protected from (re)identification via their personal data us
 
 Preserving privacy may still be possible if partial or generalised datasets are provided e.g. age bands instead of birth date or only the first two digits of postal codes. It may also be possible to provide the data in such a format that researchers can query it whist keeping the data itself closed, e.g. a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints.
 
+<a name="National_and_commercially_sensitive_data"></a>
 #### National and commercially sensitive data
 
 In many cases companies are understandably unwilling to publish much of their data. The reasoning goes that if commercially sensitive information of a company is disclosed, it will damage the company’s commercial interests and undermine competitiveness. This is based on the thinking that in competitive markets, innovation will only occur with some protection of information: if a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources. The result is that no-one would innovate in the first place. Similarly, governments are often unwilling to publish data that relates to issues such as national security due to public safety concerns.
 
 In such cases it may not be possible to make data open, or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy.
 
+<a name="Open_source_software"></a>
 ## Open source software
 
+<a name="What_is_open_source_software"></a>
 ### What is open source software?
 
 When a project is open source anybody can view, use, modify, and distribute the project for any purpose. These permissions are enforced through an open source licence. Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly. In its most basic form, open sourcing your software simply means putting your code online where it can be viewed and reused by others.
@@ -125,6 +191,7 @@ Many of the most widely used research software is open source. Perhaps the parad
 
 Researchers that make use of open source software often make changes to them such as adding features they need for their own research, or fixing bugs. They can then contribute these improvements back to the main project so the wider community can take advantage of them.
 
+<a name="How_running_and_contributing_to_open_source_software_projects_benefits_you"></a>
 ### How running and contributing to open source software projects benefits you
 
 - Improve existing skills. Whether it’s coding, user interface design, graphic design, writing, or organizing, if you’re looking for practice, there’s a task for you on an open source software project. Further, open source necessitates cleaner, more maintainable code to enable collaboration between potentially thousands of people who may never meet. This helps to build and maintain good coding habits. Not to be underestimated are the people skills you can develop on open source software projects.
@@ -135,6 +202,7 @@ Open source offers opportunities to practice leadership and management skills, s
 - Meet people who are interested in similar things. Open source software projects with warm, welcoming communities keep people coming back for years and many people form lifelong friendships through their participation in open source.
 - Find mentors and teach others. Working with others on a shared project means you’ll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
 
+<a name="Making_your_own_work_open_source"></a>
 #### Making your own work open source
 
 - Making your work openly available for re-use makes it easier for others to incorporate into their own research. If you make your software citeable, for example via a [DOI](doi_system) this can increase your citations.
@@ -142,23 +210,27 @@ Open source offers opportunities to practice leadership and management skills, s
 - Feedback. Making your work open enables you to get feedback and improve your project in way you may never have thought of alone.
 - Accountability. There is an argument that any software developed using government money should be open source by default- if the public has paid for its development they have a right to make use of it. If your work is government funded making it open is a step you can take towards government openness and accountability.
 
+<a name="Contributing_to_others_open_source_software_projects"></a>
 #### Contributing to others' open source software projects
 
 - It’s empowering to be able to make changes, even small ones. You don’t have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source software project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
 - It's fun. Open source provides an endless, ever-changing set of Rubix cubes for you to solve on weekends. Just like puzzles, both crossword and jigsaw, open source provides bite-sized intellectual escapes.
 
+<a name="How_open_source_software_benefits_research"></a>
 ### How open source software benefits research
 
 Open source software projects primarily benefit research by allowing researchers to take advantage of each other's work. This enables researchers to apply their efforts to  high-value work. It is sometimes said that "all the easy problems have already been solved". Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few. While developers could spend their time reinventing wheels that the open source community have already perfected, it's far preferable to use the world's best wheel, especially when that wheel comes at no cost to you. This frees researchers up to work on yet-unsolved challenges. This reduces duplication of effort and allows researchers to focus on the work they're actually interested in.
 
 Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups. Examples include [Linux](https://www.linux.org/) operating systems, Python packages such as [scipy](https://www.scipy.org/) and [numpy](http://www.numpy.org/), and the machine learning library [TensorFlow](https://www.tensorflow.org/).    
 
+<a name="How_to_run_your_own_open_source_software_project"></a>
 ### How to run your own open source software project
 
 You can open source an idea, a work in progress, or after years of being closed source. At the most basic level all you need to do is put your code online somewhere that is likely to last a long time. You can make your code citeable by assigning it a DOI (as discussed in the section on [making data citeable](#citing_data)). This helps ensure that you get proper credit if people use or build upon your work.
 
 A popular place to make your code available is GitHub (see the chapter on version control). You must include a licence file stating that anyone has permission to use, copy and modify your work. Without this no one can legally use your work and so it isn't open source. [This](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best licence for your project. There are also a few other files you should include with your code:
 
+<a name="Readme"></a>
 #### Readme
 
 You should include a readme file where you include useful information about what the project is, how to use it and how to contribute to it. Here's a list of the main things a readme should include:
@@ -174,6 +246,7 @@ The best thing you can do is to just write up the installation instructions when
 
 If you intend for other people to collaborate on your project (as opposed to just making your code available and considering it complete) then you should include contributing guidelines and most likely a code of conduct.
 
+<a name="Contributing_guidelines"></a>
 #### Contributing guidelines
 
 Contributing guidelines tell your audience how to participate in your project. For example, you might include information on:
@@ -187,6 +260,7 @@ Using a warm, friendly tone and offering specific suggestions for contributions 
 
 In the earliest stages of your project, your contributing guidelines file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution. Over time, you might add other frequently asked questions here or in your readme file. Writing down this information means fewer people will ask you the same questions over and over again. It's also a good idea to link to your contributing guidelines file from your readme, so more people see it.
 
+<a name="Code_of_conduct"></a>
 #### Code of conduct
 
 A code of conduct helps set ground rules for behaviour for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behaviour, which will reduce your stress as a maintainer. In addition to communicating how you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
@@ -195,8 +269,11 @@ Much like open source licences, there are also emerging standards for codes of c
 
 Keep the file in your project's root directory so it's easy to find, and link to it from your readme.
 
+
+<a name="How_to_contribute_to_others_open_source_software_projects"></a>
 ### How to contribute to other's open source software projects
 
+<a name="Anatomy_of_an_open_source_software_project"></a>
 #### Anatomy of an open source software project
 
 Every open source community is different. That said, many open source software projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
@@ -218,6 +295,7 @@ A great many open source projects are hosted on GitHub (see the chapter on versi
 - Discussion forums or mailing lists: Some projects may use these channels for conversational topics (for example, "How do I…" or "What do you think about…" instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 - Synchronous chat channel: Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
 
+<a name="Contribute_your_changes"></a>
 #### Contribute your changes
 
 Say you've added a feature or fixed a bug and want to contribute this work to the main project.
@@ -230,6 +308,7 @@ Say you've added a feature or fixed a bug and want to contribute this work to th
 6. Ask questions. If there are things you are unsure about there's no harm in asking. Many larger projects have dedicated forums or other venues for questions and discussion.
 7. When you submit your changes clearly describe the changes you've made, why you've made them, and how they have been implemented. This makes it as easier for someone looking at your work and deciding whether to incorporate it into the main project to do so. In the likely case the main project is hosted on GitHub you should put this in the pull request (see the version control chapter for more details).
 
+<a name="Looking_for_projects_to_contribute_to_and_how_to_contribute_to_them"></a>
 #### Looking for projects to contribute to and how to contribute to them
 
 You don’t need to overthink what exactly your first contribution will be, or how it will look. Instead, start by thinking about the projects you already use, or want to use. The projects you’ll actively contribute to are the ones you find yourself coming back to. Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct. You might scan a readme and find a broken link or a typo. Or you’re a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That’s what open source is all about!
@@ -254,7 +333,7 @@ A common misconception about contributing to open source is that you need to con
     - Going through open issues and suggesting closing old ones
     - Ask clarifying questions on recently opened issues to move the discussion forward
 
-
+<a name="Open_hardware"></a>
 ## Open hardware
 
 "Open hardware," or "open source hardware," refers to the design specifications of a physical object which are licenced in such a way that said object can be studied, modified, created, and distributed by anyone. Like open source software, the "source code" for open hardware—schematics, blueprints, logic designs, Computer Aided Design (CAD) drawings or files, etc.—is available for modification or enhancement by anyone. Users with access to the tools that can read and manipulate these source files can update and improve the physical device and the code that underlies it, and, if they wish, proceed to share such modifications.
@@ -263,12 +342,15 @@ Open hardware's source code should be readily accessible, and its components are
 
 It's worth noting that open hardware does not necessary mean free. Units may still be sold (by the original designer or by others), but users *could* build them from scratch. Whether or not they choose to buy the unit, users can still get a full understanding of how the hardware works from open documentation, designs, etc.  
 
+
+<a name="Why_open_hardware"></a>
 ### Why open hardware?
 
 Open hardware allows researchers to understand exactly what their equipment is doing, how it's doing it, and to verify that is doing it correctly rather than having to extend a degree of trust. Being aware of how the equipment that generates a result works puts researchers on a firmer footing in assessing those results. Open hardware also makes research more reproducible as researchers looking to verify results can do the same thing.
 
 Other benefits of open hardware include protection against lock-in. Proprietary software for core infrastructure increases the risk of becoming locked in by the vendor or technology. If this happens, researchers can be at the mercy of vendors' price increases and experience a lack of flexibility they can't easily and readily escape. Further, if researchers want to modify their equipment to better suit their needs it is much easier to do so (and may only be legal) in the case of open source hardware.
 
+<a name="Elements_of_an_open_source_hardware_project"></a>
 ### Elements of an open source hardware project
 
 Here are some files that you should consider sharing when publishing your open source hardware project. You are not required to post them all, but the more you share the more the community benefits. There is a lot of crossover here with files to include in open source software projects.
@@ -293,8 +375,10 @@ Here are some files that you should consider sharing when publishing your open s
   - Keep in mind that these instructions may be read by someone whose expertise or training is different from yours. As much as possible, try to write to a general audience, and check your instructions for industry jargon, be explicit about what you assume the user knows, etc.
   - The instructions could be in a variety of formats, like a wiki, text file, Google Doc, or PDF. Remember, though, that others might want to modify your instructions as they modify your hardware design, so it’s good to provide the original editable files for your documentation, not just output formats like PDF.
 
+<a name="Open_source_hardware_processes_and_practices"></a>
 ### Open source hardware processes and practices
 
+<a name="Designing_your_hardware"></a>
 #### Designing your hardware
 
 If you’re planning to open source a particular piece of hardware, following certain best practices in its design will make it easier for others to make and modify the hardware:
@@ -303,10 +387,12 @@ Use free and open source software design (CAD) tools where possible. If that’s
 
 Use standard and widely-available components, materials, and production processes. Try to avoid parts that aren’t available to individual customers or processes that require expensive setup costs.
 
+<a name="Hosting_your_design_files"></a>
 #### Hosting your design files
 
 A basic way of sharing your files is with a zip file on your website. While this is a great start, it makes it difficult for others to follow your progress or to contribute improvements. Using an online source-code repository (like GitHub, GitLab, or NotaBug) may be a better place to store your open source hardware projects.
 
+<a name="Distributing_open_source_hardware"></a>
 #### Distributing open source hardware
 
 - Provide links to the source (original design files) for your hardware on the product itself, its packaging, or its documentation.
@@ -314,12 +400,15 @@ A basic way of sharing your files is with a zip file on your website. While this
 - Label the hardware with a version number or release date so that people can match the physical object with the corresponding version of its design files.
 - In general, clearly indicate which parts of a product are open source (and which aren’t).
 
+<a name="Open_access"></a>
 ## Open access
 
+<a name="What_is_open_access"></a>
 ### What is open access?
 
 One of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public if purchased by means of a subscription fee or individually. However, new knowledge is built by synthesizing current scholarship and then building upon it. At the turn of the 21st century a new movement appeared with a clear objective: make all the research results available to anyone interested in reading it, free of charge by any user, with no technical obstacles such as mandatory registration or login to specific platforms. This movement took the name of Open access and established two initial strategies to achieve its final goal: self-archiving and open access publishing.
 
+<a name="Repositories_and_self_archiving"></a>
 #### Repositories and self-archiving
 
 The aim of the self-archiving movement is to provide tools and assistance to scholars to deposit their refereed journal articles in open electronic repositories.  As a result of the first strategy we see self-archiving practices: researchers depositing and disseminating papers in institutional or subject based repositories. There has also been a growth in the publication of preprints through institutional repositories and preprint servers. Preprints are widely used in physical sciences and now emerging in life sciences and other fields. Preprints are documents that have not been peer reviewed but are considered as a complete publication in a first stage. Some of the preprint servers include open peer review services and the availability to post new versions of the initial paper once reviewed by peers.
@@ -332,7 +421,7 @@ Regarding the version, some journals allow the dissemination of the submitted ve
 
 In relation to the moment to make the paper publicly available, many journals establish a period of time from its original publication: the embargo period, which can range from zero to 60 months when making the paper publicly available is not permitted. Some journals include or exclude embargoes depending on the versions. For instance the accepted version could be made publicly available after publication but the published version must wait 12 months.
 
-
+<a name="Open_access_publishing"></a>
 #### Open access publishing
 
 Open access publishing attempts to ensure permanent open access to all the articles published in journals, and as a result we have seen the creation of the open access journals. The number of open access journals has increased during the last years, according to the Directory of Open access Journals \([DOAJ](http://www.doaj.org)\), currently there are more than 12,000. Open access journal must provide free access to its contents but it also must licence them to allow reusability.
@@ -341,20 +430,25 @@ Currently many paywalled journals offer individual open access options to resear
 
 Open access publishing has two primary versions—gratis and libre. Gratis open access is simply making research available for others to read without having to pay for it. However, it does not grant the user the right to make copies, distribute, or modify the work in any way beyond fair use. Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users additional rights, usually via a Creative Commons licence, so that people are free to reuse and remix the research. There are varying degrees of what may be considered libre open access. For example, some scholarly articles may permit all uses except commercial use, some may permit all uses except derivative works, and some may permit all uses and simply require attribution. While some would argue that libre open access should be free of any copyright restrictions (except attribution), other scholars consider a work that removes at least some permission barriers to be libre.
 
+<a name="Why_does_open_access_matter"></a>
 ### Why does open access matter?
 
 Research is useless if it’s not shared; even the best research is ineffectual if others aren’t able to read and build on it. When price barriers keep articles locked away, research cannot achieve its full potential. Open access benefits researchers who can work more effectively with a better understanding of the literature. It also helps avoid duplication of effort. No researcher (or funder) wants to waste time and money conducting a study if they know it has been attempted elsewhere. But, duplication of effort is all-too-possible when researchers can’t effectively communicate with one another and make results known to others in their field and beyond. It also benefits researchers by providing better visibility and therefore higher impact/citation rate for their scholarship.  Numerous publishers, both non-profit and for-profit, voluntarily make their articles openly available at the time of publication or within 6-12 months.  Many have switched from a closed, subscription model to an open one as a strategic business decision to increase their journal's exposure and impact. Further it can be argued that taxpayers who pay for much of the research published in journals have a right to access the information resulting from that investment without charge. Finally, if research is available to the widest possible pool of readers then it is more likely/easy for it to be checked and reproduced.  
 
+<a name="Best_practice_for_open_access"></a>
 ### Best practice for open access
 
+<a name="Self_archiving"></a>
 #### Self-archiving
 
 Self-archive a publication in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher, e.g. an embargo period, or limits on the allowed version to be deposited in such archives. In doing this it is important to make sure you are aware of the copyright implications of any documents/agreements you make when submitting your manuscript to a journal. If your institution does not have an institutional repository, advocate for the creation of one.
 
+<a name="Publication"></a>
 #### Publication
 
 Consider submitting your work to a journal that is open access. When doing this be aware that there may be funds or discounts available to cover any associated costs.
 
+<a name="Open_notebooks"></a>
 ## Open notebooks
 
 Electronic Lab Notebooks (ELNs) enable researchers to organize and store experimental procedures, protocols, plans, notes, data, and even unfiltered interpretations using their computer or mobile device. They are a digital analogue to the paper notebook most researchers keep. ELNs can offer several advantages over the traditional paper notebook in documenting research during the active phase of a project, including searchability within and across notebooks, secure storage with multiple redundancies, remote access to notebooks, and the ability to easily share notebooks among team members and collaborators.
@@ -365,12 +459,14 @@ Open notebooks have the further benefit of increasing the quality of scientific 
 
 Ideally, every scientist would maintain an open notebook in real-time which would encompass all aspects of their research. But many fears about dealing with complete open access, conflicts with intellectual property and publications, and online data overload hamper this movement. To combat this, practitioners encourage any form of open notebook research, "make open what you can", even if that means uploading some information for a project from many years ago that never saw the light of day.
 
+<a name="Open_scholarship"></a>
 ## Open scholarship
 
 Open research and its subcomponents fit under the umbrella of a broader concept- open scholarship.
 
 ![open_umbrella](../figures/open_umbrella.png)
 
+<a name="Open_educational_resources"></a>
 ### Open educational resources
 
 Open Educational Resources (OER) are teaching and learning materials that can be freely used and reused for learning and/or teaching at no cost, and without needing to ask permission. Examples are courses- including MOOCs (Massive Online Open Course), lectures, teaching materials, assignments and various other resources. OERs are available in many different formats compatible with online usage, most obviously text, images, audio and video. Anyone with internet access can access and use OERs; access is not dependent on location or membership of a particular institution.
@@ -393,17 +489,20 @@ Researchers generate a great deal of educational resources in the course of teac
 
 Beyond the raw practical benefits the worldwide OER movement is rooted in the human right to access high-quality education. This shift in educational practice is about participation and co-creation. Open Educational Resources (OER) offer opportunities for systemic change in teaching and learning content through engaging educators in new participatory processes and effective technologies for engaging with learning.
 
+<a name="Equity_Diversity_Inclusion"></a>
 ### Equity, Diversity, Inclusion
 
 Open scholarship means open to *everyone* without discrimination based on factors such as race, gender, sexual orientation or any number of other factors. As a community we should undertake to ensure equitable opportunities for all. We can go about that by deliberately fostering welcoming, inclusive cultures within out communities. For example, reasonable accommodations should be made wherever possible to include community members with disabilities to enable them to participate fully, and this can be as simple as choosing colourblind-safe colour schemes when making graphs.
 
+<a name="Citizen_science"></a>
 ### Citizen science
 
 Citizen science is the involvement of the public in scientific research – whether community-driven research or global investigations, the Oxford English Dictionary recently defined it as: "scientific work undertaken by members of the general public, often in collaboration with or under the direction of professional scientists and scientific institutions." Citizen science offers the power of science to everyone, and the power of everyone to science.
 
 By allowing members of the public to contribute to scientific research, citizen science helps engage and invest the wider world in science. It also benefits researchers by offering manpower that simply wouldn't be accessible otherwise. Examples of this include [finding](https://citizensciencegames.com/games/eterna/) ways of folding molecules, and [classifying](https://www.zooniverse.org/) different types of galaxies.
 
-## Checklist
+<a name="Checklists"></a>
+## Checklists
 
 ### Open data
 
@@ -418,6 +517,7 @@ By allowing members of the public to contribute to scientific research, citizen 
 - [ ] Include a licence granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate licence for your project.
 - [ ] Include a readme file containing useful information about a project such as what it is, how to use/install it and how to run any tests.
 - [ ] If you want others to collaborate on the project include contribution guidelines.
+
 ### Open hardware
 
 - [ ] Use open hardware where practical
@@ -435,14 +535,17 @@ By allowing members of the public to contribute to scientific research, citizen 
 - [ ] Keep notes in an Electronic Lab Notebook
 - [ ] Make your notebooks publicly accessible online.
 
+<a name="What_to_learn_next"></a>
 ## What to learn next
 
 If you haven't had a chance already, take a look at the chapter on version control, particularly the sections on GitHub in the latter half.
 
+<a name="Further_reading"></a>
 ## Further reading
 
 [This](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) book on open science has a great deal of interesting information. For information specific to open source software [this](https://opensource.guide/) is a good place to look. For more information on DOIs and citing resources look [here](http://www.doi.org/index.html). If you want to take a look at an active open source project this textbook *is* one. The source can be found on GitHub [here](https://github.com/alan-turing-institute/the-turing-way) and for further details related to this project you can take a look at the project [website](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science).
 
+<a name="Glossary"></a>
 ## Definitions/glossary
 
 **Citizen science:** The involvement of members of the public in scientific research.
@@ -481,6 +584,7 @@ If you haven't had a chance already, take a look at the chapter on version contr
 
 **Self-archive:** To place your research output in a repository.
 
+<a name="Bibliography"></a>
 ## Bibliography
 - [1.](https://www.fosteropenscience.eu/content/what-open-science-introduction) **CC-BY 4.0**
 - [2.](https://open-science-training-handbook.gitbook.io/book/introduction) **CC 1.0**
