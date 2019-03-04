@@ -5,11 +5,38 @@
   "repoHost": "https://github.com",
   "files": [
     "README.md",
-    "contributors.md"
   ],
   "imageSize": 100,
   "commit": false,
   "contributors": [
+    {
+      "login": "r-j-arnold",
+      "name": "Becky Arnold",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/20441134?v=4",
+      "profile": "https://github.com/r-j-arnold",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "login": "LouiseABowler",
+      "name": "Louise Bowler",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25640708?v=4",
+      "profile": "https://github.com/LouiseABowler",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "example",
+        "ideas",
+        "eventOrganizing",
+        "review"
+      ]
+    },
     {
       "login": "jmgate",
       "name": "Jason M. Gates",
@@ -18,22 +45,6 @@
       "contributions": [
         "doc",
         "review"
-      ]
-    },
-    {
-      "login": "KirstieJane",
-      "name": "Kirstie Whitaker",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/3626306?v=4",
-      "profile": "https://whitakerlab.github.io",
-      "contributions": [
-        "question",
-        "doc",
-        "design",
-        "eventOrganizing",
-        "fundingFinding",
-        "ideas",
-        "review",
-        "talk"
       ]
     },
     {
@@ -48,33 +59,8 @@
         "tool",
         "review",
         "talk",
+        "ideas",
         "tutorial"
-      ]
-    },
-    {
-      "login": "r-j-arnold",
-      "name": "Becky Arnold",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/20441134?v=4",
-      "profile": "https://github.com/r-j-arnold",
-      "contributions": [
-        "question",
-        "code",
-        "doc",
-        "review"
-      ]
-    },
-    {
-      "login": "LouiseABowler",
-      "name": "Louise Bowler",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/25640708?v=4",
-      "profile": "https://github.com/LouiseABowler",
-      "contributions": [
-        "question",
-        "code",
-        "doc",
-        "example",
-        "eventOrganizing",
-        "review"
       ]
     },
     {
@@ -96,12 +82,13 @@
         "question",
         "doc",
         "review",
+        "ideas",
         "content"
       ]
     },
     {
       "login": "rosiehigman",
-      "name": "RosieHigman",
+      "name": "Rosie Higman",
       "avatar_url": "https://avatars2.githubusercontent.com/u/15738325?v=4",
       "profile": "https://github.com/rosiehigman",
       "contributions": [
@@ -154,6 +141,22 @@
       "contributions": [
         "question",
         "doc"
+      ]
+    },
+    {
+      "login": "KirstieJane",
+      "name": "Kirstie Whitaker",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3626306?v=4",
+      "profile": "https://whitakerlab.github.io",
+      "contributions": [
+        "question",
+        "doc",
+        "design",
+        "eventOrganizing",
+        "fundingFinding",
+        "ideas",
+        "review",
+        "talk"
       ]
     }
   ],
