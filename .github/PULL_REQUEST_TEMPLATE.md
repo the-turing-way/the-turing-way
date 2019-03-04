@@ -39,4 +39,4 @@ We suggest using bullets (indicated by * or -) and filled checkboxes [x] here --
 
 By submitting this pull request I confirm that:
 
-- [ ] all contributors to this pull request who wish to be included are named in [humans.md](humans.md).
+- [ ] all contributors to this pull request who wish to be included are named in [humans.md](/humans.md).
