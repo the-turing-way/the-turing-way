@@ -102,7 +102,7 @@ There are five main schools of thought motivating open practices to benefit rese
 | Democratic | The access to knowledge is unequally distributed. | Making knowledge freely available for everyone. |
 | Public | Research needs to be made accessible to the public. | Making research accessible for citizens. |
 
-Open practices also benefits the researchers that propagate them. For example there is evidence [(Mckiernan et al. 2016)](https://elifesciences.org/articles/16800) that open access articles are cited more often, as shown by the metastudy presented in the figure below.
+Open practices also benefit the researchers that propagate them. For example there is evidence [(Mckiernan et al. 2016)](https://elifesciences.org/articles/16800) that open access articles are cited more often, as shown by the metastudy presented in the figure below.
 
 | ![open_access_citatations](../figures/open_access_citatations.jpg) |
 | -----------------------------------------------------|
