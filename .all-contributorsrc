@@ -145,6 +145,16 @@
         "tool",
         "ideas"
       ]
+    },
+    {
+      "login": "ots22",
+      "name": "Oliver Strickson",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5434836?v=4",
+      "profile": "https://github.com/ots22",
+      "contributions": [
+        "question",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
