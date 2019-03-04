@@ -276,13 +276,13 @@ Below is a comic to help illustrate what Binder is, and we will expand on it her
 
 **Step 3:** The researcher uploads her code to some publicly available repository, such as GitHub, where it can be accessed by others. She includes a file describing the computational environment required to run the project.
 
-**Step 4:** Using [mybinder.org](mybinder.org) she generates a link. By clicking on this link anyone can access a "Binderized" version of her project. This means they will be taken to a copy of her project in their web browser that they can interact with. (By default this will not impact the researchers own copy, though this setting to be changed if the research wants others such as collaborators to be able to work on/modify the project via the Binder). This copy of the project they interact with will behave as if it is hosted in the environment the researcher specified in step 3, regardless of the computational environment of the person is accessing it from.
+**Step 4:** Using [mybinder.org](https://mybinder.org) she generates a link. By clicking on this link anyone can access a "Binderized" version of her project. This means they will be taken to a copy of her project in their web browser that they can interact with. (By default this will not impact the researcher's own copy, though this setting to be changed if the research has access to a private [BinderHub](#Disambiguation) and wants others such as collaborators to be able to work on/modify the project via the Binder). This copy of the project they interact with will behave as if it is hosted in the environment the researcher specified in step 3, regardless of the computational environment of the person is accessing it from.
 
 ![binder_comic](../figures/binder_comic.png)
 
 Figure credit: [Juliette Taka, Logilab and the OpenDreamKit project](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/)
 
-To get an idea of what this looks like here's a binder of a simple example project looks like. Files are listed and can be clicked on and modified by the person accessing the binder.
+To get an idea of what this looks like here's what a binder of a simple example project looks like. Files are listed and can be clicked on and modified by the person accessing the binder.
 
 ![binder_home](../figures/binder_home.png)
 
@@ -290,33 +290,33 @@ Users can also open terminals to run or otherwise interact with the files by cli
 
 ![binder_terminal](../figures/binder_terminal.png)
 
-As mentioned Binder is well integrated with Jupyter notebooks which can be opened by clicking on "New" and then under "Notebook" in the same way termnals can be opened. These may be more convenient for those working with graphical outputs, as shown here where one is used to run `manke_plot.py` in the example Binder:
+As mentioned Binder is well integrated with Jupyter notebooks which can be opened by clicking on "New" and then under "Notebook" in the same way terminals can be opened. These may be more convenient for those working with graphical outputs, as shown here where one is used to run `make_plot.py` in the example Binder:
 
 ![binder_notebook](../figures/binder_notebook.png)
 
+<a name="Disambiguation"></a>
 ### Disambiguation
 
 In this section there are a number of related terms, which will be outlined here for clarity:
 
 - Binder: A sharable version of a project that can be viewed and interacted within a reproducible computational environment via a web browser.
-- BinderHub: A service which generates Binders. Anyone can build a BinderHub if they so wish. An example or a reason somone may wish to do so is if they want to make a binder of a project which involves confidential files, and thus cannot be made public.
+- BinderHub: A service which generates Binders. Anyone can build a BinderHub if they so wish. An example or a reason someone may wish to do so is if they want to make a binder of a project which involves confidential files, and thus cannot be made public.
 - [mybinder.org](https://mybinder.org): A public and free BinderHub. Because it is public you should not use it if your project requires any personal or sensitive information (such as passwords)
 - Binderize: To make a Binder of a project.
 
 ### Creating a binder for your project
 
-Creating a Binderized version of your project involves three key steps which will be explained in this section:
+Creating a Binderized version of a project involves three key steps which will be explained in this section:
 
-1. Specify your computational environment
-2. Put your code somewhere publicly available (we will describe how to do this with GitHub)
-3. Generate a link to a Binder of your project
+1. Specify the computational environment
+2. Put the project files somewhere publicly available (we will describe how to do this with GitHub)
+3. Generate a link to a Binder of the project
 
 For a list of sample repositories for use with Binder, see the [Sample Binder Repositories](https://mybinder.readthedocs.io/en/latest/sample_repos.html) page.
 
-
 #### Step 1: Specify your computational environment
 
-If a project contains no file specifying the computational environment when a Binder is generated the environment will be the Binder default environment, (containing python 3.6) which may or may not be suitable for your project. However if you do contain a configuration file for your environment then the Binder will be generated with the specified environment. A full list of such files binder accepts with examples can be found [here](https://mybinder.readthedocs.io/en/latest/config_files.html), but here are some of the key ones, some of which are language-specific:
+If a project contains no file specifying the computational environment when a Binder is generated the environment will be the Binder default environment, (containing python 3.6) which may or may not be suitable for the project. However if it does contain a configuration file for the environment then the Binder will be generated with the specified environment. A full list of such files binder accepts with examples can be found [here](https://mybinder.readthedocs.io/en/latest/config_files.html), but here are some of the key ones, some of which are language-specific:
 
 - environment.yml
 - apt.txt
@@ -342,8 +342,23 @@ in your repository on GitHub create a file called requirements.txt
 add a line to requirements.txt that reads numpy==1.14.5
 after adding the file and checking its name for typos
 
-Beyond requirements.txt
-There are a few more ways you can specify what dependencies to install. Take a look at the complete list: http://repo2docker.readthedocs.io/en/latest/config_files.html
+## Learning how to use Binder
+
+Using Sarah's notes (workshop/10-zero-to-binder.md), adapted from bit.ly/zero-to-binder and bit.ly/zero-to-binder-rise
+
+
+- Changed my script so it imported and used numpy, then went to the link again. When I tried to run the script it failed because there was `No module named numpy` in my environment.
+- Created a requirements.txt file and added numpy to it. It then sucessfuly ran.
+- Added function in the script that requires a certain version of numpy, and specified that in requirements.txt.
+  ```
+  numpy==1.15.1
+  ```
+- Reopened the binder, worked.
+- In requrements.txt then changed numpy to a version which doesn't have that function. Reloaded the binder.
+- Binder successfully loaded, but when I ran the code it executed the first few lines but stopped with an error on the line using numpy to do something that version couldn't.
+- I guess that means *binder* only breaks if it can't put together the environment specified. Otherwise if your code breaks because *it's* trying to do something that can't be done then it breaks in the terminal with errors as usual.
+- Fixed the wrong version of numpy in requirements.txt.
+
 
 
 #### Step 2: Put your code on GitHub
@@ -352,13 +367,13 @@ GitHub is discussed at length in the chapter on version control, which you shoul
 
 1. Make an account on [GitHub](https://github.com/).
 2. Create a repository for the project you wish to make a Binder of.
-3. Upload your project files (including the file you have created to specify your computational environment) to the repository and save (commit in the vocabulary of GitHub) them there.
+3. Upload your project files (including the file you have created to specify your computational environment) to the repository and save ("commit" in the vocabulary of GitHub) them there.
 
 Again, if you are unable to complete these steps refer to the chapter on version control for a fuller explanation.
 
 #### Step 3: Generate a link to a Binder of your project
 
-Head to https://mybinder.org. You'll see a form that asks you to specify a repository for [mybinder.org](https://mybinder.org) to build. In the first field, paste the URL of your repository. It'll look something like this: `https://github.com/<your-username>/<your-repository>`
+Head to [https://mybinder.org](https://mybinder.org). You'll see a form that asks you to specify a repository for [mybinder.org](https://mybinder.org) to build. In the first field, paste the URL of the project's GitHub repository. It'll look something like this: `https://github.com/<your-username>/<your-repository>`
 
 ![mybinder_gen_link](../figures/mybinder_gen_link.png)
 
@@ -367,32 +382,11 @@ As you can see there are additional fields in this form, but these are optional 
 Once the URL to the project to be Binderized is supplied two fields will be automatically populated on the screen depicted above:
 
 - The "Copy the URL below and share your Binder with others" field, which provides a link to the binder which can be copied and shared by you.
-- The "Copy the text below, then paste into your README to show a binder badge" field, which as descibed can be included by you in GitHub to create a button that allows anyone that accesses your project on GitHub to launch the Binder.
+- The "Copy the text below, then paste into your README to show a binder badge" field, which as described can be included by you in GitHub to create a button that allows anyone that accesses your project on GitHub to launch the Binder.
 
 Finally, click the launch button. This will ask [mybinder.org](https://mybinder.org) to build the environment needed to run the project, note that this may take several minutes. You can click on the "Build logs" button to see the logs generated by the build process. These logs are helpful for resolving any issues that cause the build to fail, such as errors in the file defining the computational environment to be generated.
 
 Once it has been built the Binder will be automatically launched, again this may take some time.
-
-
-
-
-
-- **CHANGES IN BINDER ARE NOT PUSHED BACK INTO YOUR REPO/DOCKER!** this is technically possible but not a feature offered by the public binder; it can be enabled on a local BinderHub
-- Step 2: go to [mybinder.org](https://mybinder.org), add your GitHub repo link (specify more when needed) and hit "launch"
-  - Note: the default binder page opens up into a jupyter **notebook** server. It may be the case that the BETTER solution is to add `?urlpath=lab` to the end of the url so that it opens up a jupyter **lab** environment instead.
-  - Jupyter lab allows you to open a *terminal* rather than a notebook.
-    - The terminal doesn't have access to a GUI so importing matplotlib.pyplot or .pylab (graphical stuff) won't work
-    - Q: what's the difference between a console and a terminal? The console has enough for you to be able to run a bunch of python commands. The terminal doesn't have access to a graphics card! So the console won't work.
-  - By default python 2 and python 3 are installed.
-- Step 3: copy markdown back into your readme to get a nice "launch binder" button
-- BinderHub
-  - needs Kubernetes cluster that spins up a bunch of VMs with containers etc. - also does some loadbalancing (Kubernetes [Google developed] being rather new and complex but it can be wrangled to do what you want it to do)
-  - jupyterLab to create the environments
-  - repo2docker that grabs repo from GitHub and launches Docker
-  - BinderHub basically is the high level coordinator for these 3 things and can be accessed through some frontend (the pyblic one being [mybinder.org](https://mybinder.org))
-  - Also make this useful to run on local machines/HPCs (that might not be setup for this much networking) to enable data throughput independent of cloud availability
-  - you don't need all the fancy stuff Kubernetes can do to run a BinderHub -> strip down Kubernetes to the essentials and run that locally
-
 
 ### Including data in your Binder
 
@@ -404,50 +398,20 @@ The simplest approach for small data files that are public is to add them direct
 
 #### Medium public files
 
-For medium sized files, a few 10s of megabytes to a few hundred megabytes, you should include a special file named postBuild (which is a shell script so the first line must be `#!/bin/bash`) in your project. The postBuild file is used to execute commands immediately after someone launches a Binder. In this case it used to donwload a file a file to a Binder as soon as it is launched, so [mybinder.org](https://mybinder.org) does not have to host it for the entire time.
+For medium sized files, a few 10s of megabytes to a few hundred megabytes, find some other place online to store them and make sure they are publicly available. Then add a file named postBuild (which is a shell script so the first line must be `#!/bin/bash`) in your project. The postBuild file is used to execute commands when the files to produce the Binder are being generated. In this case it can be used to download your data into the file to your Binder as soon as the binder is launched, so [mybinder.org](https://mybinder.org) does not have to host it for the entire time.
 
-In this file add a single line reading `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
+In the postBuild file add a single line reading `wget -q -O name_of_your_file link_to_your_file`
 
 #### Large public files
 
 The best option for large files is to use a library specific to the data format to stream the data as you are using it. There are a few restrictions on outgoing traffic from your Binder that are imposed by the team operating [mybinder.org](https://mybinder.org). Currently only connections to HTTP and Git are allowed. This comes up when people want to use FTP sites to fetch data. For security reasons FTP is not allowed on [mybinder.org](https://mybinder.org).
 
----
+### Materials used
 
-## Learning how to use Binder
-
-Using Sarah's notes (workshop/10-zero-to-binder.md), adapted from bit.ly/zero-to-binder and bit.ly/zero-to-binder-rise
-
-- Made a simple python script and put in in a new repo on github. Included a readme, not sure if that's necessary or good practise but the instructions told me to.
-- Went to [mybinder.org](mybinder.org) and copied in the link to my repos where it told me, and in the branch I specified master. It gave me this link to share with others to show them my binder: https://mybinder.org/v2/gh/r-j-arnold/binder_test_1/master
-- I clicked launch. Took me to a page showing the files in my repo and if I click on them I could edit them (not sure if this would impact my github, doubt it, will try)
-- Went to the link it gave me (https://mybinder.org/v2/gh/r-j-arnold/binder_test_1/master). Took ages to load. When it did it just showed me my files again.
-- Clicked the dropdown `New` in the upper right of that page and them selected terminal. A new tab opened with the terminal and I ran the code using `python my_script_name.py`.
-- I like working with terminals but by selecting a different option on that menu you can open a Jupyter notebook instead.
-- Changed my script so it imported and used numpy, then went to the link again. When I tried to run the script it failed because there was `No module named numpy` in my environment.
-- Created a requirements.txt file and added numpy to it. It then sucessfuly ran.
-- Added function in the script that requires a certain version of numpy, and specified that in requirements.txt.
-  ```
-  numpy==1.15.1
-  ```
-  (Note the `==` not `=`. Did single = originally and binder failed to load.)
-- Reopened the binder, worked.
-- In requrements.txt then changed numpy to a version which doesn't have that function. Reloaded the binder.
-- Binder successfully loaded, but when I ran the code it executed the first few lines but stopped with an error on the line using numpy to do something that version couldn't.
-- I guess that means *binder* only breaks if it can't put together the environment specified. Otherwise if your code breaks because *it's* trying to do something that can't be done then it breaks in the terminal with errors as usual.
-- Fixed the wrong version of numpy in requirements.txt.
-- Started a Jupyter notebook instead of a terminal.
-- In it did `%run my_script_name.py` and ran it. It outputted the correct result.
-- Saved the notebook by clicking on file and then save and typing a name for the notebook.
-- Closed the notebook tab.
-- In the binder there's now a .ipynb file with that name
-- Shared the link to my binder with the .ipynb file to see if others could see the notebook and the results in it.
-- Failed. They don't have access. Instead shared the link to generate the binder (https://mybinder.org/v2/gh/r-j-arnold/binder_test_1/master). That generates it fresh so doesn't include the notebook, but it does the scripts etc.
-- Chatted with Will. So it's not possible (or at least not intended) to open a binder, create a notebook there, and then share work done on that. Instead you need to make and commit a notebook to your GitHub repo, and you can commit it with work already done on it (graphs etc). Binder being well integrated with Jupyter means that they can be opened easily without needing to install anything additional or whatever in your binder. However you can't *commit* the work done in the notebooks on binder. You can also make new notebooks like making terminals in binder as previously discussed if someone what's to run/try out things with the code but it isn't saved to your repo the same way work done on a terminal isn't.
-- Also at any point you can go to [mybinder.org](mybinder.org) and fill out the repo, branch etc and get the (which is sharable) to generate binder from it.
-
-
-Materials used: [mybinder docs intro](https://github.com/jupyterhub/binder/blob/master/doc/introduction.rst) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**, [Original zero to binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
+- [mybinder docs intro](https://github.com/jupyterhub/binder/blob/master/doc/introduction.rst) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
+- [Original zero to binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
+- [Sarah Gibson's zero to Binder](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder.md) **MIT**
+- [Zero to Binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md)  **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
 
 ## Virtual machines
 
