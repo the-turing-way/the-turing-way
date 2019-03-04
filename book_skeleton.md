@@ -7,7 +7,7 @@ The aim of this file is iterate/decide on:
 ## Update from January Sprint
 
 #### Completed Chapters
-- Version Control - @r-j-arnold
+- [Version Control](chapters/version_control.md) - @r-j-arnold
 - Open Science (Open Access, Open Source, Open Data) - @r-j-arnold
 - Reproducibility (definition and why) - @pherterich
 
