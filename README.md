@@ -52,7 +52,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/20327215?v=4" width="100px;" alt="Jason M. Gates"/><br /><sub><b>Jason M. Gates</b></sub>](https://github.com/jmgate)<br />[📖](https://github.com/alan-turing-institute/the-turing-way/commits?author=jmgate "Documentation") |
+| [<img src="https://avatars3.githubusercontent.com/u/20327215?v=4" width="100px;" alt="Jason M. Gates"/><br /><sub><b>Jason M. Gates</b></sub>](https://github.com/jmgate)<br />[📖](https://github.com/alan-turing-institute/the-turing-way/commits?author=jmgate "Documentation") [👀](#review-jmgate "Reviewed Pull Requests") |
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
