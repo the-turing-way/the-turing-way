@@ -110,6 +110,18 @@
         "review",
         "ideas"
       ]
+    },
+    {
+      "login": "annakrystalli",
+      "name": "Anna Krystalli",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5583057?v=4",
+      "profile": "https://www.annakrystalli.me/",
+      "contributions": [
+        "question",
+        "example",
+        "review",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7
