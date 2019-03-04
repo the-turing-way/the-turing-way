@@ -159,6 +159,16 @@
         "review",
         "talk"
       ]
+    },
+    {
+      "login": "choldgraf",
+      "name": "Chris Holdgraf",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1839645?v=4",
+      "profile": "http://chrisholdgraf.com",
+      "contributions": [
+        "question",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7
