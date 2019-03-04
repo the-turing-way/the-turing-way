@@ -235,3 +235,119 @@ Example output:
 Client: &version.Version{SemVer:"v2.12.3", GitCommit:"eecf22f77df5f65c823aacd2dbd30ae6c65f186e", GitTreeState:"clean"}
 Server: &version.Version{SemVer:"v2.12.3", GitCommit:"eecf22f77df5f65c823aacd2dbd30ae6c65f186e", GitTreeState:"clean"}
 ```
+
+## Setup BinderHub <a name="binderhub"></a>
+
+Adapted from [Zero-to-BinderHub: Setup BinderHub](https://binderhub.readthedocs.io/en/latest/setup-binderhub.html).
+
+### 1. Preparing to Install <a name="bh-step1"></a>
+
+Before we install a BinderHub, we need to configure several pieces of information and save them in `yaml` files.
+
+Create a folder named after your BinderHub:
+```bash
+mkdir shf_test_hub
+cd shf_test_hub
+```
+
+We created this folder at the same level as the cluster folder we created in [Step 4](#aks-step4) (i.e. in `~/Desktop`).
+
+> Another thing to discuss later on in the day.
+
+Create two random tokens:
+```bash
+openssl rand -hex 32
+openssl rand -hex 32
+```
+**N.B.:** The command is run **twice** as we need two different tokens.
+
+### 2. Create a `secret.yaml` file <a name="bh-step2"></a>
+ 
+Create a `secret.yaml` file containing the following config and save it in the folder we created in [Step 1](#bh-step1).
+```yaml
+jupyterhub:
+  hub:
+    services:
+      binder:
+        apiToken: <output of FIRST 'openssl rand -hex 32' command>
+        secretToken: <output of SECOND 'openssl rand -hex 32' command>
+```
+
+To connect to DockerHub, at the following:
+```yaml
+registry:
+  username: <docker-id>
+  password: <password>
+```
+**N.B.:** `registry` is on the same level as `jupyterhub`.
+
+> Can we encrypt this information?
+
+### 3. Create a `config.yaml` file <a name="bh-step3"></a>
+
+Create a `config.yaml` file with the following information and save it in the folder we created in [Step 1](#bh-step1).
+
+```yaml
+config:
+  BinderHub:
+    use_registry: true
+    image_prefix: <docker-id>/<prefix>-
+```
+**N.B.:**
+  * If your Docker account is part of an organisation where you would like to store images instead, change the value of `image_prefix` to `docker-id|organisation-name>/<prefix>-`
+  * `<prefix>` can be any string since it will be preppended to image names.
+  It is recommended to be something short and descriptive, such as `binder-dev-` (for development) or `binder-prod-` (for the final product).
+
+### 4. Install BinderHub <a name="bh-step4"></a>
+
+First, pull the latest Helm chart for BinderHub:
+```bash
+helm repo add jupyterhub https://jupyterhub.github.io/helm-chart
+helm repo update
+```
+
+Next, install the required Helm chart using the config files we created in Steps [2](#bh-step2) and [3](#bh-step3):
+```bash
+helm install jupyterhub/binderhub --version=0.2.0-3b53fce \
+    --name=shfhub \
+    --namespace=shfhub \
+    -f secret.yaml -f config.yaml
+```
+* `--version` refers to the version of the BinderHub Helm Chart.
+  Available versions can be found [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub).
+* `--name` and `--namespace` may be different, but it's recommended they be the same to avoid confusion.
+  It should be something short and descriptive.
+
+This step will deploy both a JupyterHub and a BinderHub but they are not yet configured to communicate with one another.
+You may need to wait a few moments before moving on as the resources may take a while to be set up.
+
+### 5. Connect JupyterHub and BinderHub <a name="bh-step5"></a>
+
+Print the IP address of the JupyterHub that was just deployed by running the following command.
+It will be listed in the `EXTERNAL-IP` field.
+```bash
+kubectl --namespace=shfhub get svc proxy-public
+```
+
+Copy this IP address and add the following line to `config.yaml`.
+```yaml
+hub_url: http://<IP address in EXTERNAL-IP field from above>
+```
+**N.B.:** `hub_url` is at the same level as `use_registry` and `image_prefix` in [Step 3](#bh-step3).
+
+Now upgrade the Helm chart to deploy the change.
+```bash
+helm upgrade shfhub jupyterhub/binderhub \
+    --version=0.2.0-3b53fce \
+    -f secret.yaml -f config.yaml
+```
+**N.B.:** `--version` must be the same as in [Step 4](#bh-step4).
+
+### 6. Try out your BinderHub deployment!
+
+Find the IP address of your BinderHub under the `EXTERNAL-IP` field.
+```bash
+kubectl --namespace=shfhub get svc binder
+```
+
+Copy the IP address into your browser and your BinderHub should be waiting.
