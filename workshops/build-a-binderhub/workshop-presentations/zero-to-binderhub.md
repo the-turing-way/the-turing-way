@@ -4,12 +4,14 @@ Sarah Gibson, _The Alan Turing Institute_
 
 [**The Turing Way**](https://github.com/alan-turing-institute/the-turing-way) - making reproducible data science _too easy not to do_!
 
+These steps will walk you through deploying a BinderHub on Microsoft Azure.
+It will be publicly available like [mybinder.org](https://mybinder.org).
+To follow along with these instructions, go to this link: [**bit.ly/sg-zero-to-binderhub**](http://bit.ly/sg-zero-to-binderhub)
+
 **BinderHub Documentation:**
 * [Step Zero: Setting up a Kubernetes Cluster](https://zero-to-jupyterhub.readthedocs.io/en/latest/create-k8s-cluster.html)
 * [Setup JupyterHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/#setup-jupyterhub)
 * [Setup BinderHub](https://binderhub.readthedocs.io/en/latest/setup-registry.html#set-up-the-container-registry)
-
-To follow along with these instructions, go to this link: [**bit.ly/sg-zero-to-binderhub**](http://bit.ly/sg-zero-to-binderhub)
 
 ## Cloud Resource Requirements <a name="cloudresoures"></a>
 
@@ -96,7 +98,7 @@ cd shfhubcluster
 ```
 
 > **Discussion topic:**
-> As a team of RSEs managing a BinderHub, where would the best place for folders such as this to live?
+> As a team of RSEs managing a BinderHub, where would be the best place for folders such as this to live?
 
 ### 5. Create an SSH key <a name="aks-step5"></a>
 
@@ -209,7 +211,6 @@ Secure `tiller` from access inside the cluster.
 
 `tiller`s port is exposed in the cluster without authentication and if you probe this port _directly_ (i.e. by bypassing `helm`) then `tiller`s permissions can be exploited.
 This step forces `tiller` to listen to commands from `localhost` (i.e. `helm`) _only_ so that e.g. other pods inside the cluster cannot ask `tiller` to install a new chart granting them arbitrary, elevated RBAC privileges and exploit them.
-
 More details [here](https://engineering.bitnami.com/articles/helm-security.html).
 
 ```bash
@@ -255,7 +256,7 @@ cd shf_test_hub
 
 We created this folder at the same level as the cluster folder we created in [Step 4](#aks-step4) (i.e. in `~/Desktop`).
 
-> Another thing to discuss later on in the day.
+> **Discussion topic:** Where is a sensible place to keep _this_ folder?
 
 Create two random tokens:
 ```bash
@@ -300,7 +301,7 @@ config:
     image_prefix: <docker-id>/sheff-binder-
 ```
 **N.B.:**
-  * If your Docker account is part of an organisation where you would like to store images instead, change the value of `image_prefix` to `docker-id|organisation-name>/<prefix>-`
+  * If your Docker account is part of an organisation where you would like to store images instead, change the value of `image_prefix` to `<docker-id|organisation-name>/<prefix>-`
   * The `<prefix>` can be any string since it will be preppended to image names.
   It is recommended to be something short and descriptive, such as `binder-dev-` (for development) or `binder-prod-` (for the final product).
 
@@ -341,7 +342,6 @@ Copy this IP address and add the following line to `config.yaml`.
 hub_url: http://<IP address in EXTERNAL-IP field from above>
 ```
 **N.B.:** `hub_url` is at the same level as `use_registry` and `image_prefix` in [Step 3](#bh-step3).
-
 Click [here](#config) for a complete example `config.yaml` file.
 
 Now upgrade the Helm chart to deploy the change.
