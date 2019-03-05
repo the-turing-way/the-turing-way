@@ -1,5 +1,9 @@
 # Testing
 
+| Prerequisite | Importance | Notes |
+| -------------|------------|-------|
+| Experience with the command line | Necessary |  |
+
 ## Structure
 
 - Why you should write tests
