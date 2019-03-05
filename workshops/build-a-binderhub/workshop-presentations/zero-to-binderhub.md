@@ -429,7 +429,7 @@ At the bottom of the list on the left, select "Developer settings", then click "
 Fill in the form using your `binderhub_url` and `jupyter_url` (see image below) and click "Register Application".
 The URL entered into the "Authorization callback URL" field **must** match your `auth: github: callbackUrl:` in your `config.yaml`.
 
-<html><img src="github_oauth.png" alt="github_oauth"></html>
+<html><img src="github_oauth.png" alt="github_oauth" height="578" width="561"></html>
 
 Once your App is registered, a Client ID and Client Secret will be generated.
 Copy these into the `clientId:` and `clientSecrect:` fields, as strings, respectively.
