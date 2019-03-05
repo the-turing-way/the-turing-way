@@ -60,14 +60,14 @@ You can safely close this window after logging in.
 
 ### 2. Activate your Subscription <a name="aks-step2"></a>
 
-To see a list of Azure subscriptions you have available to you, you can run the following command:
+To see a list of Azure subscriptions you have available to you, you can run the following command.
 ```bash
 az account list --refresh --output table
 ```
 This prints your subscriptions to the terminal in a human-readable format.
 
 You should only see a "Free Trial" subscription (unless you have used Azure before and have others).
-Let's activate this with the following command:
+Let's activate this with the following command.
 ```bash
 az account set -s "Free Trial"
 ```
@@ -99,8 +99,7 @@ mkdir shfhubcluster
 cd shfhubcluster
 ```
 
-> **Discussion topic:**
-> As a team of RSEs managing a BinderHub, where would be the best place for folders such as this to live?
+> **Discussion topic:** As a team of RSEs managing a BinderHub, where would be the best place for folders such as this to live?
 
 ### 5. Create an SSH key <a name="aks-step5"></a>
 
@@ -250,7 +249,7 @@ Adapted from [Zero-to-BinderHub: Setup BinderHub](https://binderhub.readthedocs.
 
 Before we install a BinderHub, we need to configure several pieces of information and save them in `yaml` files.
 
-Create a folder named after your BinderHub:
+Create a folder named after your BinderHub.
 ```bash
 mkdir shf_test_hub
 cd shf_test_hub
@@ -280,7 +279,7 @@ jupyterhub:
     secretToken: "<output of SECOND 'openssl rand -hex 32' command>"
 ```
 
-To connect to DockerHub, add the following lines:
+To connect to DockerHub, add the following lines.
 ```yaml
 registry:
   username: <docker-id>
@@ -309,13 +308,13 @@ config:
 
 ### 4. Install BinderHub <a name="bh-step4"></a>
 
-First, pull the latest Helm chart for BinderHub:
+First, pull the latest Helm chart for BinderHub.
 ```bash
 helm repo add jupyterhub https://jupyterhub.github.io/helm-chart
 helm repo update
 ```
 
-Next, install the required Helm chart using the config files we created in Steps [2: Create a `secret.yaml` file](#bh-step2) and [3: Create a `config.yaml` file](#bh-step3):
+Next, install the required Helm chart using the config files we created in Steps [2: Create a `secret.yaml` file](#bh-step2) and [3: Create a `config.yaml` file](#bh-step3).
 ```bash
 helm install jupyterhub/binderhub --version=0.2.0-3b53fce \
     --name=shfhub \
