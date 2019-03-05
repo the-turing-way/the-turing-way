@@ -152,6 +152,182 @@ Package managers, as you may deduce, manage and keep track of the different bits
 
 [Talk by Will Furnass on Conda](https://github.com/willfurnass/conda-rses-pres/blob/master/content.md) **Attribution-NonCommercial-ShareAlike 4.0 International**
 
+Summary
+Conda is a Python-centric but also general-purpose package manager
+Can separate projects using environments...
+...can capture the state of an environment...
+...and can recreate environments defined by others.
+Create packages for Python and non-Python software,
+then share your build recipes and packages with others using conda-forge
+
+To work as an unprivileged user
+Separation / independence from OS pkgs to ensure/test portability
+Can use different versions of pkg X in different projects
+
+OS package manager:
+Cannot have multiple versions of same pkg
+Cannot use on HPC unless sysadmin
+Small selection of old pkgs?
+
+A conda pkg does not need to be Python package
+Provides package environments
+Keep OS and workflow pkgs separate (even compiled libraries)
+Can do everything as non-sysadmin
+Different pkgs and pkg versions per env
+
+Download Miniconda 3 installer from https://repo.continuum.io/miniconda/
+
+Suggestion: do not make Miniconda Python the default Python
+Linux / macOS: source the conda.sh script (adds conda dir to your $PATH):
+
+Making conda available
+$ python --version
+Python 3.6.0
+
+$ source ~/miniconda3/etc/profile.d/conda.sh
+
+$ conda --version
+conda 4.5.12
+$ which python
+/usr/bin/python
+$ python --version
+Python 3.6.0
+
+
+Activating the 'base' conda environment
+$ conda activate base
+
+(base) $ which python
+/home/will/miniconda3/bin/python
+(base) $ python --version
+Python 3.7.1
+
+(base) $ conda deactivate
+
+$ python --version
+Python 3.6.0
+
+Includes:
+
+Some Python pkgs e.g.
+requests
+non-Python (inc. compiled) pkgs e.g.
+zlib
+C++ standard library
+
+Creating a new environment
+(Ideally) create a new env (distinct from base) per project.
+Need a name and some pkgs (optionally with version nums and build nums):
+$ conda create --name room101 python=3.7 beautifulsoup4
+
+Activate the environment...
+...to start using it:
+
+conda activate room101
+(may need to use source instead of conda on if using old conda)
+
+Your prompt now includes the name of your active environment:
+
+(room101) $ which python
+/home/will/miniconda3/envs/room101/bin/python
+(room101) $ python --version
+Python 3.7.2
+
+
+Installing and removing packages
+Install a pkg inc. dependencies into the curently active environment:
+
+conda install PKGNAME
+Or to remove:
+
+conda remove PKGNAME
+Can confirm the effect using conda list.
+
+Compatability with pip
+pip: default tool for Python package installation
+
+pip installs packages from Python Package Index (by default)
+
+conda activate ENVNAME
+pip install PKGNAME
+
+Recommendation: install conda pkg instead if one exists, conda pkg may include additional non-Python parts
+
+Conda pkgs don't have to be Python pkgs
+So we can use conda as a general purpose package manager! E.g.
+(room101) $ conda create --name piratical_fun r-base r-yaml
+...
+
+(room101) $ conda activate piratical_fun
+...
+
+(piratical_fun) $ which R
+/home/will/miniconda3/envs/piratical_fun/bin/R
+
+Deactivating and deleting environments
+Let's deactivate and delete this new conda env:
+
+(piratical_fun) $ conda deactivate
+$ conda env remove --name piratical_fun
+
+Problem: miniconda dir can get large if install e.g. CUDA or Intel MKL packages
+
+Warning: deleting an environment may not delete package files!
+
+Reason:
+
+conda downloads pkgs into a pkg cache dir
+then links to those from relevant env dir
+$ du -hsBM ~/miniconda3/* | sort -rn | head -n 2
+832M	/home/will/miniconda3/envs
+564M	/home/will/miniconda3/pkgs
+To remove pkgs from cache that are no longer referenced by an env:
+
+conda clean -pts
+
+Auditing and reinstantiating environments
+What if you want to share your environment with a collaborator?
+
+Save the env state to a file:
+
+$ conda activate room101
+(room101) $ conda env export > environment.yml
+Then on this machine or elsewhere:
+
+$ conda env create --name room102S --file environment.yml
+These environment.yml files are written in the YAML markup language.
+They contain:
+
+The installed conda packages (name, version, build)
+The installed pip packages (name, version)
+The used conda channels
+
+WARNING: the list of packages is not just those explicitly installed. It can include OS-specific dependency packages so (unedited) environment files may not be as portable as you'd hope.
+
+You can also clone environments locally:
+
+$ conda create --name room102 --clone room101
+
+Conda channels
+Anaconda (the company) provide the defaults conda package channel
+Includes numpy built against the Intel MKL
+Other important channels:
+conda-forge: community-driven packaging
+Intel Python Distribution (intel): optimised builds of numpy
+Can explicitly install a pkg from a channel
+conda install -c conda-forge mynewpkg
+Or set default search order
+Be wary of risk of conflicts!
+
+Workflow suggestions
+Avoid Anaconda distribution
+Avoid using base conda env
+(Related) separate environment per project
+Commit environment definition files to version control
+exact definition for benchmarking/testing
+'curated' portable definition (remove OS-specific dependencies)
+Use Python 3.x in all new envs if possible
+
 ### What Conda does
 
 
