@@ -128,9 +128,9 @@ az aks create --name shfhubcluster \
     --node-vm-size Standard_D2s_v3 \
     --output table
 ```
-* `--name` is the cluster name we defined in [Step 4](#aks-step4).
-* `--resource-group` is the resource group we created in [Step 3](#aks-step3).
-* `--ssh-key-value` is the ssh public key we created in [Step 5](#aks-step5).
+* `--name` is the cluster name we defined in [Step 4: Choose a Cluster Name](#aks-step4).
+* `--resource-group` is the resource group we created in [Step 3: Create a Resource Group](#aks-step3).
+* `--ssh-key-value` is the ssh public key we created in [Step 5: Create an SSH key](#aks-step5).
 * `--node-count` is the number of desired nodes in the Kubernetes cluster.
 * `--node-vm-size` is the size of the nodes you wish to use, which varies based on the use-case of the cluster and how much RAM/CPU each user will need.
 
@@ -147,8 +147,8 @@ az aks get-credentials --name shfhubcluster \
     --resource-group shf_test_hub \
     --output table
 ```
-* `--name` is the cluster name defined in [Step 4](#aks-step4).
-* `--resource-group` is the resource group created in [Step 3](#aks-step3).
+* `--name` is the cluster name defined in [Step 4: Choose a Cluster Name](#aks-step4).
+* `--resource-group` is the resource group created in [Step 3: Create a Resource Group](#aks-step3).
 
 ### 8. Check the Cluster is Fully Functional <a name="aks-step8"></a>
 
@@ -156,7 +156,7 @@ az aks get-credentials --name shfhubcluster \
 kubectl get node
 ```
 
-The output of this command should list one node (unless you changed `--node-count` in [Step 6](#aks-step6)) with a `STATUS` of `READY`.
+The output of this command should list one node (unless you changed `--node-count` in [Step 6: Create an Azure Container Service (AKS) Cluster](#aks-step6)) with a `STATUS` of `READY`.
 The `VERSION` field reports which version of Kubernetes is installed.
 
 Example output:
@@ -256,7 +256,7 @@ mkdir shf_test_hub
 cd shf_test_hub
 ```
 
-We created this folder at the same level as the cluster folder we created in [Step 4](#aks-step4) (i.e. in `~/Desktop`).
+We created this folder at the same level as the cluster folder we created in [Step 4: Choose a Cluster Name](#aks-step4) (i.e. in `~/Desktop`).
 
 > **Discussion topic:** Where is a sensible place to keep _this_ folder?
 
@@ -269,7 +269,7 @@ openssl rand -hex 32
 
 ### 2. Create a `secret.yaml` file <a name="bh-step2"></a>
  
-Create a `secret.yaml` file containing the following config and save it in the folder we created in [Step 1](#bh-step1).
+Create a `secret.yaml` file containing the following config and save it in the folder we created in [Step 1: Preparing to Install](#bh-step1).
 ```yaml
 jupyterhub:
   hub:
@@ -294,7 +294,7 @@ Click [here](#secret) for a complete example `secret.yaml` file.
 
 ### 3. Create a `config.yaml` file <a name="bh-step3"></a>
 
-Create a `config.yaml` file with the following information and save it in the folder we created in [Step 1](#bh-step1).
+Create a `config.yaml` file with the following information and save it in the folder we created in [Step 1: Preparing to Install](#bh-step1).
 
 ```yaml
 config:
@@ -315,7 +315,7 @@ helm repo add jupyterhub https://jupyterhub.github.io/helm-chart
 helm repo update
 ```
 
-Next, install the required Helm chart using the config files we created in Steps [2](#bh-step2) and [3](#bh-step3):
+Next, install the required Helm chart using the config files we created in Steps [2: Create a `secret.yaml` file](#bh-step2) and [3: Create a `config.yaml` file](#bh-step3):
 ```bash
 helm install jupyterhub/binderhub --version=0.2.0-3b53fce \
     --name=shfhub \
@@ -343,7 +343,7 @@ Copy this IP address and add the following line to `config.yaml`.
 ```yaml
 hub_url: http://<IP address in EXTERNAL-IP field from above>
 ```
-**N.B.:** `hub_url` is at the same level as `use_registry` and `image_prefix` in [Step 3](#bh-step3).
+**N.B.:** `hub_url` is at the same level as `use_registry` and `image_prefix` in [Step 3: Create a `config.yaml` file](#bh-step3).
 Click [here](#config) for a complete example `config.yaml` file.
 
 Now upgrade the Helm chart to deploy the change.
@@ -352,7 +352,7 @@ helm upgrade shfhub jupyterhub/binderhub \
     --version=0.2.0-3b53fce \
     -f secret.yaml -f config.yaml
 ```
-**N.B.:** `--version` must be the same as in [Step 4](#bh-step4).
+**N.B.:** `--version` must be the same as in [Step 4: Install BinderHub](#bh-step4).
 
 ### 6. Try out your BinderHub deployment!
 
@@ -436,7 +436,7 @@ Copy these into the `clientId` and `clientSecret` fields, as strings, respective
 
 ### 3. Update your BinderHub <a name="auth-step3"></a>
 
-To apply the config changes, we need to upgrade the deployed Helm chart using the same command as in [Step 5](#bh-step5).
+To apply the config changes, we need to upgrade the deployed Helm chart using the same command as in [Step 5: Connect JupyterHub and BinderHub](#bh-step5).
 ```bash
 helm upgrade shfhub jupyterhub/binderhub \
     --version=0.2.0-3b53fce \
