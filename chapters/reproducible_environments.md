@@ -606,6 +606,8 @@ The best option for large files is to use a library specific to the data format 
 
 *Say containers are more lightweight than virtual machines*
 
+[R starting images](https://github.com/rocker-org/rocker-versioned)
+
 - An image
   - Portable: They can be pushed to a registry, or saved as a tar archive.
   - Layered: The steps in producing an image, are added in layers. In this way, images that are mostly the same, except for the last few steps, can reduce disk usage by sharing parent layers.
