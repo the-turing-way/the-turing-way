@@ -1,4 +1,4 @@
-# Reproducible environments
+integrated# Reproducible environments
 
 ## Table of contents
 
@@ -18,26 +18,25 @@
 - [Containers](#Containers)
 
 
-- What is a computational environment?
-- Why is important to capture for reproducibility
+- *What is a computational environment?*
+- *Why is important to capture for reproducibility*
 - Ways to capture computational environments
   - Very quick runthrough with advice on **which to use for which circumstances**
   - Making environments via conda etc **Other language equivalents? R can be installed via conda, most R packages are archived on CRAN**
     - Reasons to do so
     - How to do it
-    - mention pip freeze. [Link](https://programminghistorian.org/en/lessons/installing-python-modules-pip) to installing modules with pip
-  - YAML files
-    - What are they
-    - Syntax/tutorials
-    - Gotchas
+    - [Link](https://programminghistorian.org/en/lessons/installing-python-modules-pip) to installing modules with pip
+  - *YAML files*
+    - *What are they*
+    - *Syntax/tutorials*
     - **Are there standard structures for yaml files/how does a novice know what to include?**
-    - Quick note on security issues?
+    - *Quick note on security issues?*
     - **How to use them for reproducibility**  
       - Say can export yml from conda and create environments from them. **Other language equivalents?**
-  - Binder
-    - What it is
-    - How to use it to capture an environments
-    - mybinder config files
+  - *Binder*
+    - *What it is*
+    - *How to use it to capture an environments*
+    - *mybinder config files*
   - Virtual machines
     - ?
   - Images and Containers
@@ -75,7 +74,9 @@ Software versions are often defined via [semantic versioning](https://semver.org
 - MINOR: to add functionality
 - PATCH: for bug fixes
 
-Materials used: [semantic versioning](https://semver.org)
+### Materials used
+
+- [semantic versioning](https://semver.org)
 
 ## How this will help you/ why this is useful
 
@@ -97,7 +98,7 @@ As such it is vital for researcher to understand and capture the computational e
 
 This chapter will describe how to capture, preserve and share computational environments along with code to ensure research is reproducible.
 
-#### Materials used
+### Materials used
 
 - [A. Brinckman, et al., Computing environments for reproducibility: Capturing the "Whole Tale", Future Generation Computer Systems (2018), https://doi.org/10.1016/j.future.2017.12.029](https://www.sciencedirect.com/science/article/pii/S0167739X17310695) **Attribution 4.0 International (CC BY 4.0)**
 - [Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
@@ -131,49 +132,44 @@ One of the major factors that prevents Docker from being the standard container 
 <a name="Package_management_systems"></a>
 ## Package management systems
 
-Practising with conda
+Package managers, as you may deduce, manage and keep track of the different software packages (and their versions) that you install in an environment. There are quite a few to choose from, for example Yum, Zypper, dpkg, and Nix (which will be mentioned briefly later in the [Binder](#Binder) section). We're going to focus on Conda, which has three main useful functionalities.
 
-- Downloaded conda
-- created a conda environment called my_env_1 including the packages numpy and matplotlib using `conda create --name my_env_1 numpy matplotlib`. When you create an environment you have to include at least one package.
-- Activated the environment using `conda activate my_env_1`
-- Can deactivate environment using `conda deactivate`
-- To create this same environment but with a specific version of python do it like this `conda create --name my_env_2 python=2.7 numpy matplotlib`
-- Get a list of the conda environments you have using `conda env list`
-- To delete a conda environment do `conda remove --name your_environment_name --all`. When you delete an environment you have to rpeciify all the packages it contains. If you don't want to type them out just use the `--all` option as I have here.
-- To export a conda environment activate the environment and then run `conda env export > environment.yml`
-- If you have an environment file and you want to create an environment from it do `conda env create -f environment.yml`
-- numpy is one of the packages included by default, so even if I don't specify it when setting up an environment if I run python in an environment and try `import numpy` it works. However for packages that aren't included, like flask, importing them only works if they're specified when creating the environment.
+<a name="What_does_Conda_do"></a>
+### What does Conda do?
 
+Conda allows users to create any number of environments which are entirely separate, and to quickly and easily change between them. For example say a researcher has a project, Project One, which has its own environment defined by Conda i.e. a set of packages and versions of those packages:
 
-Package managers, as you may deduce, manage and keep track of the different bits of software (and their versions) that you install in an environment (packages). There are quite a few to choose from, for example Yum, Zypper, dpkg, and Nix (which will be mentioned briefly later in the [Binder](#Binder) section). We're going to focus on Conda.
+| Package name | Version |
+| ------------ | ------- |
+| Package A    | 1.5.2   |
+| Package B    | 2.1.10  |
+| Package C    | 0.7.9   |
 
-*Say why conda, say python centric, but works for other langs*
+Later the researcher starts Project Two in its own environment:
 
+| Package name | Version |
+| ------------ | ------- |
+| Package B    | 2.1.10  |
+| Package C    | 1.2.4   |
+| Package D    | 1.5.2   |
+| Package E    | 3.7.1   |
 
-[Talk by Will Furnass on Conda](https://github.com/willfurnass/conda-rses-pres/blob/master/content.md) **Attribution-NonCommercial-ShareAlike 4.0 International**
+Note here that version of package C used in Project Two has been updated from the version used in Project One. If these project environments were not separate then the researcher would have the choice of:
 
-Summary
-Conda is a Python-centric but also general-purpose package manager
-Can separate projects using environments...
-...can capture the state of an environment...
-...and can recreate environments defined by others.
-Create packages for Python and non-Python software,
-then share your build recipes and packages with others using conda-forge
+- A) Using the older version of package C forever and not benefiting from updates and bugfixes in later versions.
+- B) Installing the updated version of the package and hoping that it doesn't impact Project One.
+- C) Installing the updated version of the package for use in Project Two then uninstalling it and reinstalling the old one whenever they need to do work on Project One. This would be extremely annoying, and risks being forgotten.  
 
-To work as an unprivileged user
-Separation / independence from OS pkgs to ensure/test portability
-Can use different versions of pkg X in different projects
+All of these options are extremely poor, hence the utility of Conda for creating distinct environments which can be easily swapped between.
 
-OS package manager:
-Cannot have multiple versions of same pkg
-Cannot use on HPC unless sysadmin
-Small selection of old pkgs?
+Conda can also be used to easily capture and export computational environments, and it can go in the other direction too. I.e. it can generate computational environments from configuration files, which is useful for recreating someone else's environment.
 
-A conda pkg does not need to be Python package
-Provides package environments
-Keep OS and workflow pkgs separate (even compiled libraries)
-Can do everything as non-sysadmin
-Different pkgs and pkg versions per env
+Another benefit of Conda is that it offers much greater flexibility to users that do not have admin privileges on the machines they are working on (as is very common when working with high performance computing facilities). Without Conda it is typically very difficult to install required software onto such machines. However because Conda creates and changes *new* environments rather than making changes to a machine's overall system environment admin privileges are not required.  
+
+Finally, while Conda is python centric to a degree it is also well integrated for use with other languages, for example the base version of Conda includes the C++ standard library.
+
+### Getting started with Conda
+
 
 Download Miniconda 3 installer from https://repo.continuum.io/miniconda/
 
@@ -214,6 +210,8 @@ requests
 non-Python (inc. compiled) pkgs e.g.
 zlib
 C++ standard library
+
+### Making and using environments
 
 Creating a new environment
 (Ideally) create a new env (distinct from base) per project.
@@ -264,7 +262,8 @@ So we can use conda as a general purpose package manager! E.g.
 (piratical_fun) $ which R
 /home/will/miniconda3/envs/piratical_fun/bin/R
 
-Deactivating and deleting environments
+### Deactivating and deleting environments
+
 Let's deactivate and delete this new conda env:
 
 (piratical_fun) $ conda deactivate
@@ -285,7 +284,9 @@ To remove pkgs from cache that are no longer referenced by an env:
 
 conda clean -pts
 
-Auditing and reinstantiating environments
+
+### Exporting and reproducing computational environments
+
 What if you want to share your environment with a collaborator?
 
 Save the env state to a file:
@@ -319,14 +320,37 @@ conda install -c conda-forge mynewpkg
 Or set default search order
 Be wary of risk of conflicts!
 
+### Best practice
+
 Workflow suggestions
 Avoid Anaconda distribution
 Avoid using base conda env
 (Related) separate environment per project
-Commit environment definition files to version control
 exact definition for benchmarking/testing
 'curated' portable definition (remove OS-specific dependencies)
-Use Python 3.x in all new envs if possible
+
+
+Practising with conda
+
+- Downloaded conda
+- created a conda environment called my_env_1 including the packages numpy and matplotlib using `conda create --name my_env_1 numpy matplotlib`. When you create an environment you have to include at least one package.
+- Activated the environment using `conda activate my_env_1`
+- Can deactivate environment using `conda deactivate`
+- To create this same environment but with a specific version of python do it like this `conda create --name my_env_2 python=2.7 numpy matplotlib`
+- Get a list of the conda environments you have using `conda env list`
+- To delete a conda environment do `conda remove --name your_environment_name --all`. When you delete an environment you have to rpeciify all the packages it contains. If you don't want to type them out just use the `--all` option as I have here.
+- To export a conda environment activate the environment and then run `conda env export > environment.yml`
+- If you have an environment file and you want to create an environment from it do `conda env create -f environment.yml`
+- numpy is one of the packages included by default, so even if I don't specify it when setting up an environment if I run python in an environment and try `import numpy` it works. However for packages that aren't included, like flask, importing them only works if they're specified when creating the environment.
+
+
+
+
+
+### Materials used
+- [Talk by Will Furnass on Conda](https://github.com/willfurnass/conda-rses-pres/blob/master/content.md) **Attribution-NonCommercial-ShareAlike 4.0 International**
+
+
 
 ### What Conda does
 
@@ -462,7 +486,9 @@ Because of their simplicity YAML files can be hand written. Alternatively they c
 
 There is an inherent risk in downloading/using files you have not written to your computer, and it is possible to include malicious code in YAML files. Do not load YAML files or generate computational environments from them unless you trust their source.  
 
-Materials used: [yaml tutorial](https://gettaurus.org/docs/YAMLTutorial/) **[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)**
+### Materials used
+
+- [yaml tutorial](https://gettaurus.org/docs/YAMLTutorial/) **[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)**
 
 <a name="Binder"></a>
 ## Binder
