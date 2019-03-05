@@ -2,6 +2,13 @@
 
 ## Table of contents
 
+- [Package management systems](#Package_management_systems)
+    - [What does Conda do?](#What_does_Conda_do)
+    - [Installing Conda](#Installing_Conda)
+    - [Making and using environments](#Making_and_using_environments)
+    - [Deactivating and deleting environments](#Deactivating_and_deleting_environments)
+    - [Installing and removing packages within an environment](#Installing_and_removing_packages_within_an_environment)
+    - [Exporting and reproducing computational environments](#Exporting_and_reproducing_computational_environments)
 
 
 - [Binder](#Binder)
@@ -168,8 +175,8 @@ Another benefit of Conda is that it offers much greater flexibility to users tha
 
 Finally, while Conda is python centric to a degree it is also well integrated for use with other languages, for example the base version of Conda includes the C++ standard library.
 
-<a name="Getting_started_with_Conda"></a>
-### Getting started with Conda
+<a name="Installing_Conda"></a>
+### Installing Conda
 
 Note that these installation instructions are directed towards Linux systems. Instructions for installing Conda Windows or Mac systems can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
 
@@ -302,7 +309,6 @@ conda create --name Project_Two --clone Project_One
 ### Materials used
 - [Package Managers](https://opensource.com/article/18/7/evolution-package-managers)
 - [Talk by Will Furnass on Conda](https://github.com/willfurnass/conda-rses-pres/blob/master/content.md) **Attribution-NonCommercial-ShareAlike 4.0 International**
-
 
 <a name="YAML_files"></a>
 ## YAML files
