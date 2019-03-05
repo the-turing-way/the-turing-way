@@ -485,6 +485,10 @@ az group delete --name shf_test_hub
 You can use the [Azure Portal](https://azure.microsoft.com/en-gb/features/azure-portal/) to double check all of your resources have been deleted.
 It may take a few minutes to clear up, but nothing relating to your BinderHub should remain after this step.
 
+### 4. GitHub OAuth App <a name="td-step4"></a>
+
+If you enabled GitHub authentication on your BinderHub, don't forget to delete the OAuth Application in "Developer Settings" as well.
+
 ## Example config files <a name="exampleconfigs"></a>
 
 ### `secret.yaml` <a name="secret"></a>
