@@ -215,7 +215,7 @@ Once an environment is activated you should see the environment name before each
 Python 3.7.1
 ```
 
-<a name="Deactivating_and_deleting_ environments"></a>
+<a name="Deactivating_and_deleting_environments"></a>
 ### Deactivating and deleting environments
 
 You can deactivate (get out of) an environment using
@@ -234,44 +234,37 @@ conda info --envs
 ```
 
 However deleting an environment may not delete package files that were associated with it. This can lead to a lot of memory ebing wasted on packages that re no longer required. Packages that are no longer referenced by any environments can be deleted using
-
 ```
 conda clean -pts
 ```
 
-### Installing and removing packages
-Install a pkg inc. dependencies into the curently active environment:
+<a name="Installing_and_removing_packages_within_an_environment"></a>
+### Installing and removing packages within an environment
 
-conda install PKGNAME
-Or to remove:
+Within an environment you can install more packages using
+```
+conda install package_name
+```
 
-conda remove PKGNAME
-Can confirm the effect using conda list.
+and similarly you can remove them via
+```
+conda remove package_name
+```
 
-Compatability with pip
-pip: default tool for Python package installation
+This is the best way to install packages from within Conda as it will also install a COnda-specific version of the package. However it is possible to use other methods if a Conda-specific version of a package is not available. For example `pip` is commonly used to install python packages, so a command like
+```
+pip install scipy
+```
 
-pip installs packages from Python Package Index (by default)
+still works.
 
-conda activate ENVNAME
-pip install PKGNAME
+Although Python packages have been used in the examples given here Conda packages do not have to be Python packages, for example here the R base language is installed along with the R package r-yaml
 
-Recommendation: install conda pkg instead if one exists, conda pkg may include additional non-Python parts
+```
+conda create --name Project_One r-base r-yaml
+```
 
-Conda pkgs don't have to be Python pkgs
-So we can use conda as a general purpose package manager! E.g.
-(room101) $ conda create --name piratical_fun r-base r-yaml
-...
-
-(room101) $ conda activate piratical_fun
-...
-
-(piratical_fun) $ which R
-/home/will/miniconda3/envs/piratical_fun/bin/R
-
-
-
-
+<a name="Exporting_and_reproducing_computational_environments"></a>
 ### Exporting and reproducing computational environments
 
 What if you want to share your environment with a collaborator?
