@@ -445,6 +445,47 @@ helm upgrade shfhub jupyterhub/binderhub \
 
 Now reload your Binder page, you should see a sign in button and will be asked for your GitHub sign in information!
 
+## Tearing Down your BinderHub Deployment
+
+Adapted from [Tearing Everything Down](https://zero-to-jupyterhub.readthedocs.io/en/latest/turn-off.html).
+
+When you're no longer using your BinderHub, you should destroy it to avoid paying extra costs for it!
+This involves deleting the Helm release and all of the computing resources in Azure.
+
+### 1. Delete the Helm release <a name="td-step1"></a>
+
+First we delete the Helm release that installed the JupyterHub and BinderHub and any resources that it created.
+```bash
+helm delete shfhub --purge
+```
+**N.B.:** `shfhub` is the release name we defined in [Step 4: Install BinderHub](#bh-step4).
+
+### 2. Delete the Kubernetes Namespace <a name="td-step2"></a>
+
+Next we delete the Kubernetes namespace the hub was installed in.
+This will delete any disks that were created to store user's data and any IP addresses.
+```bash
+kubectl delete namespace shfhub
+```
+
+### 3. Delete your Resource Group <a name="td-step3"></a>
+
+You can list your active resource groups using the following command.
+```bash
+az group list --output table
+```
+
+You can then delete the group for your BinderHub.
+```bash
+az group delete --name shf_test_hub
+```
+**N.B.:**
+  * Be careful to select the correct resource group as this step will irreversibly delete all the resources in that group!
+  * `shf_test_hub` is the `name`/`namespace` we created in [Step 3: Create a Resource Group](#aks-step3).
+
+You can use the [Azure Portal](https://azure.microsoft.com/en-gb/features/azure-portal/) to double check all of your resources have been deleted.
+It may take a few minutes to clear up, but nothing relating to your BinderHub should remain after this step.
+
 ## Example config files <a name="exampleconfigs"></a>
 
 ### `secret.yaml` <a name="secret"></a>
