@@ -1,5 +1,23 @@
 # Reproducible environments
 
+## Table of contents
+
+
+
+- [Binder](#Binder)
+    - [Disambiguation](#Disambiguation)
+    - [Creating a binder for a project](#Creating_a_binder_for_a_project)
+        - [Step 1: Specify your computational environment](#Step_1_Specify_your_computational_environment)
+        - [Step 2: Put your code on GitHub](#Step_2_Put_your_code_on_GitHub)
+        - [Step 3: Generate a link to a Binder of your project](#Step_3_Generate_a_link_to_a_Binder_of_your_project)
+    - [Including data in a Binder](#Including_data_in_a_Binder)
+        - [Small public files](#Small_public_files)
+        - [Medium public files](#Medium_public_files)
+        - [Large public files](#Large_public_files)
+- [Virtual machines](#Virtual_machines)
+- [Containers](#Containers)
+
+
 - What is a computational environment?
 - Why is important to capture for reproducibility
 - Ways to capture computational environments
@@ -426,6 +444,7 @@ The best option for large files is to use a library specific to the data format 
 - [Sarah Gibson's zero to Binder](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder.md) **MIT**
 - [Zero to Binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md)  **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
 
+<a name="Virtual_machines"></a>
 ## Virtual machines
 
 
