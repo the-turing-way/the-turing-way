@@ -1,4 +1,4 @@
-integrated# Reproducible environments
+# Reproducible environments
 
 ## Table of contents
 
@@ -188,19 +188,19 @@ which should output a version number.
 <a name="Making_and_using_environments"></a>
 ### Making and using environments
 
-Conda automatically installs a base environment with some python and non-python packages. It is possible to just work in this base environment, however it is a good practise to create a new environment for each project you start. To create an environment use `conda create --name your_project_env_name` followed by a list of packages to include, for example to create an environment called Project_One that includes the packages numpy and matplotlib:
+Conda automatically installs a base environment with some python and non-python packages. It is possible to just work in this base environment, however it is a good practise to create a new environment for each project you start. To create an environment use `conda create --name your_project_env_name` followed by a list of packages to include, for example to create an environment called Project_One that includes the packages scipy and matplotlib:
 ```
 conda create --name Project_One numpy matplotlib
 ```
 
-To create the environment with specific versions of certain (or all) packages use `=package_number`, e.g. to specify numpy 1.16.1 in the above environment
+When you create an environment you have to include at least one package. To create the environment with specific versions of certain (or all) packages use `=package_number`, e.g. to specify scipy 1.2.1 in the above environment
 ```
-conda create --name Project_One numpy=1.16.1 matplotlib
+conda create --name Project_One scipy=1.2.1 matplotlib
 ```
 
 When creating environments you can also specify versions of languages to install, for example to use Python 3.7.1 in the Project_One environment:
 ```
-conda create --name Project_One python=3.7.1 numpy=1.16.1 matplotlib
+conda create --name Project_One python=3.7.1 scipy=1.2.1 matplotlib
 ```
 
 Now that an envronment has been created it's time to activate (start using) it using `conda activate environment_name`, so in this example:
@@ -230,12 +230,17 @@ conda env remove --name Project_One
 
 To check if an environment has been successfully removed you can look at a list of all the Conda environments on the system using
 ```
-conda info --envs
+conda env list
 ```
 
-However deleting an environment may not delete package files that were associated with it. This can lead to a lot of memory ebing wasted on packages that re no longer required. Packages that are no longer referenced by any environments can be deleted using
+However deleting an environment may not delete package files that were associated with it. This can lead to a lot of memory being wasted on packages that re no longer required. Packages that are no longer referenced by any environments can be deleted using
 ```
 conda clean -pts
+```
+
+Alternatively you can delete an environment (such as Project_One) and its associated packages via:
+```
+conda remove --name Project_One --all
 ```
 
 <a name="Installing_and_removing_packages_within_an_environment"></a>
@@ -258,108 +263,46 @@ pip install scipy
 
 still works.
 
-Although Python packages have been used in the examples given here Conda packages do not have to be Python packages, for example here the R base language is installed along with the R package r-yaml
+Although Python packages have been used in many of the examples given here Conda packages do not have to be Python packages, for example here the R base language is installed along with the R package r-yaml
 
 ```
 conda create --name Project_One r-base r-yaml
 ```
 
+A Conda channel is where it downloaded a package from. Common channels include Anaconda (a company which provides the `defaults` conda package channel), and conda-forge (a community-driven packaging endevour). You can explicitly install a package from a certain channel by specifying it like:
+
+```
+conda install -c channel_name package_name
+```
+
 <a name="Exporting_and_reproducing_computational_environments"></a>
 ### Exporting and reproducing computational environments
 
-What if you want to share your environment with a collaborator?
+Conda environments can be exported easily to human-readable files called YAML files. YAML files are discussed in more detail [later](#YAML_files) in this chapter.
 
-Save the env state to a file:
+To export a conda environment to a file called `environment.yml` activate the environment and then run
+```
+conda env export > environment.yml
+```
 
-$ conda activate room101
-(room101) $ conda env export > environment.yml
-Then on this machine or elsewhere:
+Similarly Conda environments can be created form YAML files like this via
+```
+conda env create -f environment.yml
+```
 
-$ conda env create --name room102S --file environment.yml
-These environment.yml files are written in the YAML markup language.
-They contain:
+This allows researchers to easily reproduce one another's computational environments. Note that the list of packages is not just those explicitly installed. It can include OS-specific dependency packages so environment files may require some editing to be portable.
 
-The installed conda packages (name, version, build)
-The installed pip packages (name, version)
-The used conda channels
+Environments can also be cloned. This may be desirable, for example, if a researcher begins a new project and want to make a new environment to work on it in, but the new project's environment (at least initially) requires the same packages as another project's environment. 
 
-WARNING: the list of packages is not just those explicitly installed. It can include OS-specific dependency packages so (unedited) environment files may not be as portable as you'd hope.
-
-You can also clone environments locally:
-
-$ conda create --name room102 --clone room101
-
-Conda channels
-Anaconda (the company) provide the defaults conda package channel
-Includes numpy built against the Intel MKL
-Other important channels:
-conda-forge: community-driven packaging
-Intel Python Distribution (intel): optimised builds of numpy
-Can explicitly install a pkg from a channel
-conda install -c conda-forge mynewpkg
-Or set default search order
-Be wary of risk of conflicts!
-
-### Best practice
-
-Workflow suggestions
-Avoid Anaconda distribution
-Avoid using base conda env
-(Related) separate environment per project
-exact definition for benchmarking/testing
-'curated' portable definition (remove OS-specific dependencies)
-Suggestion: do not make Miniconda Python the default Python
-
-Practising with conda
-
-- Downloaded conda
-- created a conda environment called my_env_1 including the packages numpy and matplotlib using `conda create --name my_env_1 numpy matplotlib`. When you create an environment you have to include at least one package.
-- Activated the environment using `conda activate my_env_1`
-- Can deactivate environment using `conda deactivate`
-- To create this same environment but with a specific version of python do it like this `conda create --name my_env_2 python=2.7 numpy matplotlib`
-- Get a list of the conda environments you have using `conda env list`
-- To delete a conda environment do `conda remove --name your_environment_name --all`. When you delete an environment you have to rpeciify all the packages it contains. If you don't want to type them out just use the `--all` option as I have here.
-- To export a conda environment activate the environment and then run `conda env export > environment.yml`
-- If you have an environment file and you want to create an environment from it do `conda env create -f environment.yml`
-- numpy is one of the packages included by default, so even if I don't specify it when setting up an environment if I run python in an environment and try `import numpy` it works. However for packages that aren't included, like flask, importing them only works if they're specified when creating the environment.
-
-
-
-
+For example to clone the Project_One environment, and give this new environment the name Project_Two:
+```
+conda create --name Project_Two --clone Project_One
+```
 
 ### Materials used
+- [Package Managers](https://opensource.com/article/18/7/evolution-package-managers)
 - [Talk by Will Furnass on Conda](https://github.com/willfurnass/conda-rses-pres/blob/master/content.md) **Attribution-NonCommercial-ShareAlike 4.0 International**
 
-
-
-### What Conda does
-
-
-### Creating a Conda environment
-
-First you will need to download Conda (not Anaconda)
-
-### Working in Conda environments
-
-
-### Reproducing computational environments via Conda
-
-- mention pip freeze. [Link](https://programminghistorian.org/en/lessons/installing-python-modules-pip) to installing modules with pip
-- Can export to yml files (say we'll discuss more later)
-- How to reproduce from those yml files.
-
-
-- Making environments via conda etc **Other language equivalents? R can be installed via conda, most R packages are archived on CRAN** Yum, Zypper https://opensource.com/article/18/7/evolution-package-managers?
-
-
-- `conda env export > environment.yml` https://conda.io/docs/user-guide/tasks/manage-environments.html#exporting-the-environment-file Note that you have to be IN this environment to run the command.
-- https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file
-
-
-- It's actually really easy to capture your computational environment:
-  - `pip freeze` https://pip.pypa.io/en/stable/reference/pip_freeze/
-  - equivalent command for `conda`: `conda env export`
-  - equiv for `R`
 
 <a name="YAML_files"></a>
 ## YAML files
