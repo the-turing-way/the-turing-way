@@ -1,28 +1,6 @@
 # Reproducible environments
 
-## Table of contents
 
-- [Package management systems](#Package_management_systems)
-    - [What does Conda do?](#What_does_Conda_do)
-    - [Installing Conda](#Installing_Conda)
-    - [Making and using environments](#Making_and_using_environments)
-    - [Deactivating and deleting environments](#Deactivating_and_deleting_environments)
-    - [Installing and removing packages within an environment](#Installing_and_removing_packages_within_an_environment)
-    - [Exporting and reproducing computational environments](#Exporting_and_reproducing_computational_environments)
-
-
-- [Binder](#Binder)
-    - [Disambiguation](#Disambiguation)
-    - [Creating a binder for a project](#Creating_a_binder_for_a_project)
-        - [Step 1: Specify your computational environment](#Step_1_Specify_your_computational_environment)
-        - [Step 2: Put your code on GitHub](#Step_2_Put_your_code_on_GitHub)
-        - [Step 3: Generate a link to a Binder of your project](#Step_3_Generate_a_link_to_a_Binder_of_your_project)
-    - [Including data in a Binder](#Including_data_in_a_Binder)
-        - [Small public files](#Small_public_files)
-        - [Medium public files](#Medium_public_files)
-        - [Large public files](#Large_public_files)
-- [Virtual machines](#Virtual_machines)
-- [Containers](#Containers)
 
 
 - *What is a computational environment?*
@@ -66,6 +44,37 @@
 A tutorial on working via the command line can be found [here](https://programminghistorian.org/en/lessons/intro-to-bash).
 
 Recommended skill level: intermediate-advanced.
+
+## Table of contents
+
+- [Package management systems](#Package_management_systems)
+    - [What does Conda do?](#What_does_Conda_do)
+    - [Installing Conda](#Installing_Conda)
+    - [Making and using environments](#Making_and_using_environments)
+    - [Deactivating and deleting environments](#Deactivating_and_deleting_environments)
+    - [Installing and removing packages within an environment](#Installing_and_removing_packages_within_an_environment)
+    - [Exporting and reproducing computational environments](#Exporting_and_reproducing_computational_environments)
+- [YAML files](#YAML_files)
+    - [YAML syntax](#YAML_syntax)
+        - [Scalars](#Scalars)
+        - [Lists and Dictionaries](#Lists_and_Dictionaries)
+        - [YAML gotchas](#YAML_gotchas)
+    - [How to use YAML to define computational environments](#How_to_use_YAML_to_define_computational_environments)
+    - [Security issues](#Security_issues)
+- [Binder](#Binder)
+    - [Disambiguation](#Disambiguation)
+    - [Creating a binder for a project](#Creating_a_binder_for_a_project)
+        - [Step 1: Specify your computational environment](#Step_1_Specify_your_computational_environment)
+        - [Step 2: Put your code on GitHub](#Step_2_Put_your_code_on_GitHub)
+        - [Step 3: Generate a link to a Binder of your project](#Step_3_Generate_a_link_to_a_Binder_of_your_project)
+    - [Including data in a Binder](#Including_data_in_a_Binder)
+        - [Small public files](#Small_public_files)
+        - [Medium public files](#Medium_public_files)
+        - [Large public files](#Large_public_files)
+- [Virtual machines](#Virtual_machines)
+- [Containers](#Containers)
+
+
 
 ## Summary
 > easy to understand summary - a bit like tl;dr
@@ -336,11 +345,12 @@ packages:
 ```
 Note that as you can see here that comments can be added by preceding them with a `#`.
 
-
+<a name="YAML_syntax"></a>
 ### YAML syntax
 
 A YAML document can consist of the following elements.
 
+<a name="Scalars"></a>
 #### Scalars
 
 Scalars are ordinary values: numbers, strings, booleans.
@@ -358,6 +368,7 @@ YAML syntax also allows unquoted string values for convenience reasons:
 unquoted-string: Hello World
 ```
 
+<a name="Lists_and_Dictionaries"></a>
 #### Lists and Dictionaries
 
 Lists are collections of elements:
@@ -385,6 +396,7 @@ jedi:
 
 Note that a space after the colon is mandatory.
 
+<a name="YAML_gotchas"></a>
 #### YAML gotchas
 
 Due to the format aiming to be easy to write and read, there're some ambiguities in YAML.
@@ -401,6 +413,7 @@ Due to the format aiming to be easy to write and read, there're some ambiguities
 - **Tabs versus spaces for indentation:** do *not* use tabs for indentation. While resulting YAML can still be valid, this can be a source of many subtle
 parsing errors. Just use spaces.
 
+<a name="How_to_use_YAML_to_define_computational_environments"></a>
 ### How to use YAML to define computational environments
 
 Because of their simplicity YAML files can be hand written. Alternatively they can be automatically generated as discussed [above](#Package_management_systems). From a YAML file a computational environment can be replicated in a few ways.
