@@ -1,5 +1,12 @@
 # Continuous integration
 
+| Prerequisite | Importance | Notes |
+| -------------|------------|-------|
+| Experience with the command line | Necessary |  |
+| Version control | Necessary | See the chapter on this for more information |
+| Testing | Very helpful | See the chapter on this for more information  |
+| Reproducible computational environments | Necessary | See the chapter on this for more information, particularly the sections on YAML files and containers |
+
 - What is continuous integration, delivery and deployment (not all that relevant for research) outline these fairly well.
 - Why to use them in a research project
   - If multiple people are doing research using their own copy of some code then it's harder to combine work the longer you leave it.
