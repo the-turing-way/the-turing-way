@@ -571,24 +571,13 @@ The best option for large files is to use a library specific to the data format 
 <a name="Virtual_machines"></a>
 ## Virtual machines
 
+ Vagrant?
 
 <a name="Containers"></a>
 ## Containers
 
-- Images and Containers
-  - What are they
-  - How to use Docker to make/share images and run containers (warn need to be ok with it being open unless dockerhub)
-  - **Are there less arduous ways of generating Dockerfiles/images than hand writing them? Yes, build on previous well tested ones**
-  - **Are there standard structures for Dockerfiles/how does a novice know what to include?**
-  - Mention Singularity (+ others maybe) and give a quick pros/cons.
 
 
-
-*Have Docker running through this like git in version control.*
-
-*Say containers are more lightweight than virtual machines*
-
-[R starting images](https://github.com/rocker-org/rocker-versioned)
 
 - An image
   - Portable: They can be pushed to a registry, or saved as a tar archive.
@@ -608,31 +597,39 @@ The best option for large files is to use a library specific to the data format 
 
 Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package. And they are designed to make it easier to provide a consistent experience as developers and system administrators move code from development environments into production in a fast and replicable way.
 
-In a way, containers behave like a virtual machine. To the outside world, they can look like their own complete system. But unlike a virtual machine, rather than creating a whole virtual operating system, containers don't need to replicate an entire operating system, only the individual components they need in order to operate. This gives a significant performance boost and reduces the size of the application.
+In a way, containers behave like a virtual machine. To the outside world, they can look like their own complete system. But unlike a virtual machine, rather than creating a whole virtual operating system, containers only contain the individual components they need in order to operate. This gives a significant performance boost and reduces the size of the application.
 
-Undoubtedly, one of the biggest reasons for recent interest in container technology has been the Docker open source project, a command line tool that made creating and working with containers easy for developers and sysadmins alike, similar to the way Vagrant made it easier for developers to explore virtual machines easily.
+Undoubtedly, one of the biggest reasons for recent interest in container technology has been the Docker open source project, a command line tool for creating and working with containers.
 
 Docker is a command-line tool for programmatically defining the contents of a Linux container in code, which can then be versioned, reproduced, shared, and modified easily just as if it were the source code to a program.
 
-Containers have also sparked an interest in microservice architecture, a design pattern for developing applications in which complex applications are broken down into smaller, composable pieces which work together. Each component is developed separately, and the application is then simply the sum of its constituent components. Each piece, or service, can live inside of a container, and can be scaled independently of the rest of the application as the need arises.
-
-Simply putting your applications into containers probably won't create a phenomenal shift in the way your organization operates unless you also change how you deploy and manage those containers. One popular system for managing and organizing Linux containers is Kubernetes.
-
-Kubernetes is an open source system for managing clusters of containers. To do this, it provides tools for deploying applications, scaling those application as needed, managing changes to existing containerized applications, and helps you optimize the use of the underlying hardware beneath your containers. It is designed to be extensible, as well as fault-tolerant by allowing application components to restart and move across systems as needed.
 
 [What is docker](https://opensource.com/resources/what-docker) **CC BY-SA 4.0**
 
-Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package. By doing so, thanks to the container, the developer can rest assured that the application will run on any other Linux machine regardless of any customized settings that machine might have that could differ from the machine used for writing and testing the code.
-
-In a way, Docker is a bit like a virtual machine. But unlike a virtual machine, rather than creating a whole virtual operating system, Docker allows applications to use the same Linux kernel as the system that they're running on and only requires applications be shipped with things not already running on the host computer. This gives a significant performance boost and reduces the size of the application.
+Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. By doing so, thanks to the container, the developer can rest assured that the application will run on any other Linux machine regardless of any customized settings that machine might have that could differ from the machine used for writing and testing the code.
 
 For developers, it means that they can focus on writing code without worrying about the system that it will ultimately be running on.
 
-Docker is a tool that is designed to benefit both developers and system administrators, making it a part of many DevOps (developers + operations) toolchains. For developers, it means that they can focus on writing code without worrying about the system that it will ultimately be running on. It also allows them to get a head start by using one of thousands of programs already designed to run in a Docker container as a part of their application. For operations staff, Docker gives flexibility and potentially reduces the number of systems needed because of its small footprint and lower overhead.
+*Lots of docker images pre-built so easier than starting from scratch*
 
-Docker brings security to applications running in a shared environment, but containers by themselves are not an alternative to taking proper security measures.
 
-Dan Walsh, a computer security leader best known for his work on SELinux, gives his [perspective](https://opensource.com/business/14/7/docker-security-selinux) on the importance of making sure Docker containers are secure. He also provides a [detailed breakdown](https://opensource.com/business/14/9/security-for-docker) of security features currently within Docker, and how they function.
+[Notes](https://opensource.com/business/14/7/docker-security-selinux) on the importance of making sure Docker containers are secure, and here is a [detailed breakdown](https://opensource.com/business/14/9/security-for-docker) of security features currently within Docker, and how they function.
+
+---
+
+- Images and Containers
+  - What are they
+  - How to use Docker to make/share images and run containers (warn need to be ok with it being open unless dockerhub)
+  - **Are there less arduous ways of generating Dockerfiles/images than hand writing them? Yes, build on previous well tested ones**
+  - **Are there standard structures for Dockerfiles/how does a novice know what to include?**
+  - Mention Singularity (+ others maybe) and give a quick pros/cons.
+
+[R starting images](https://github.com/rocker-org/rocker-versioned)
+
+*Have Docker running through this like git in version control.*
+
+*Say containers are more lightweight than virtual machines*
+
 
 
 ## Makefiles
