@@ -1,27 +1,7 @@
 # Reproducible environments
 
-
-
-
-- *What is a computational environment?*
-- *Why is important to capture for reproducibility*
 - Ways to capture computational environments
   - Very quick runthrough with advice on **which to use for which circumstances**
-  - Making environments via conda etc **Other language equivalents? R can be installed via conda, most R packages are archived on CRAN**
-    - Reasons to do so
-    - How to do it
-    - [Link](https://programminghistorian.org/en/lessons/installing-python-modules-pip) to installing modules with pip
-  - *YAML files*
-    - *What are they*
-    - *Syntax/tutorials*
-    - **Are there standard structures for yaml files/how does a novice know what to include?**
-    - *Quick note on security issues?*
-    - **How to use them for reproducibility**
-      - Say can export yml from conda and create environments from them. **Other language equivalents?**
-  - *Binder*
-    - *What it is*
-    - *How to use it to capture an environments*
-    - *mybinder config files*
   - Virtual machines
     - ?
   - Images and Containers
@@ -601,6 +581,8 @@ The best option for large files is to use a library specific to the data format 
   - **Are there less arduous ways of generating Dockerfiles/images than hand writing them? Yes, build on previous well tested ones**
   - **Are there standard structures for Dockerfiles/how does a novice know what to include?**
   - Mention Singularity (+ others maybe) and give a quick pros/cons.
+
+
 
 *Have Docker running through this like git in version control.*
 
