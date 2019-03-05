@@ -432,7 +432,7 @@ The URL entered into the "Authorization callback URL" field **must** match your 
 <html><img src="github_oauth.png" alt="github_oauth" height="578" width="561"></html>
 
 Once your App is registered, a Client ID and Client Secret will be generated.
-Copy these into the `clientId:` and `clientSecrect:` fields, as strings, respectively.
+Copy these into the `clientId` and `clientSecret` fields, as strings, respectively.
 
 ### 3. Update your BinderHub <a name="auth-step3"></a>
 
