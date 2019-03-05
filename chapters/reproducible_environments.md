@@ -198,7 +198,7 @@ To create the environment with specific versions of certain (or all) packages us
 conda create --name Project_One numpy=1.16.1 matplotlib
 ```
 
-WHen creating environments you can also specify versions of languages to install, for example to use Python 3.7.1 in the Project_One environment:
+When creating environments you can also specify versions of languages to install, for example to use Python 3.7.1 in the Project_One environment:
 ```
 conda create --name Project_One python=3.7.1 numpy=1.16.1 matplotlib
 ```
@@ -218,25 +218,26 @@ Python 3.7.1
 <a name="Deactivating_and_deleting_ environments"></a>
 ### Deactivating and deleting environments
 
-Let's deactivate and delete this new conda env:
+You can deactivate (get out of) an environment using
+```
+conda deactivate
+```
 
-(piratical_fun) $ conda deactivate
-$ conda env remove --name piratical_fun
+and remove an environment as show here for removing the Project_One environment
+```
+conda env remove --name Project_One
+```
 
-Problem: miniconda dir can get large if install e.g. CUDA or Intel MKL packages
+To check if an environment has been successfully removed you can look at a list of all the Conda environments on the system using
+```
+conda info --envs
+```
 
-Warning: deleting an environment may not delete package files!
+However deleting an environment may not delete package files that were associated with it. This can lead to a lot of memory ebing wasted on packages that re no longer required. Packages that are no longer referenced by any environments can be deleted using
 
-Reason:
-
-conda downloads pkgs into a pkg cache dir
-then links to those from relevant env dir
-$ du -hsBM ~/miniconda3/* | sort -rn | head -n 2
-832M	/home/will/miniconda3/envs
-564M	/home/will/miniconda3/pkgs
-To remove pkgs from cache that are no longer referenced by an env:
-
+```
 conda clean -pts
+```
 
 ### Installing and removing packages
 Install a pkg inc. dependencies into the curently active environment:
