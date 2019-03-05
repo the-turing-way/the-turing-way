@@ -158,7 +158,7 @@ Note here that version of package C used in Project Two has been updated from th
 
 - A) Using the older version of package C forever and not benefiting from updates and bugfixes in later versions.
 - B) Installing the updated version of the package and hoping that it doesn't impact Project One.
-- C) Installing the updated version of the package for use in Project Two then uninstalling it and reinstalling the old one whenever they need to do work on Project One. This would be extremely annoying, and risks being forgotten.
+- C) Installing the updated version of the package for use in Project Two then uninstalling it and reinstalling the old one whenever they need to do work on Project One. This would be extremely annoying, and is a step that risks being forgotten.
 
 All of these options are extremely poor, hence the utility of Conda for creating distinct environments which can be easily swapped between.
 
@@ -168,71 +168,77 @@ Another benefit of Conda is that it offers much greater flexibility to users tha
 
 Finally, while Conda is python centric to a degree it is also well integrated for use with other languages, for example the base version of Conda includes the C++ standard library.
 
+<a name="Getting_started_with_Conda"></a>
 ### Getting started with Conda
 
+Note that these installation instructions are directed towards Linux systems. Instructions for installing Conda Windows or Mac systems can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
 
-Download Miniconda 3 installer from https://repo.continuum.io/miniconda/
+Go to [https://repo.continuum.io/miniconda/](https://repo.continuum.io/miniconda/) and download the latest Miniconda 3 installer for your system (32 bit or 64 bit), which will have like Miniconda_version_number.sh. Run the installer using
+```
+bash Miniconda_version_number.sh
+```
 
-Suggestion: do not make Miniconda Python the default Python
-Linux / macOS: source the conda.sh script (adds conda dir to your $PATH):
+You can check that Conda has installed successfully by typing
+```
+conda --version
+```
 
-Making conda available
-$ python --version
-Python 3.6.0
+which should output a version number.
 
-$ source ~/miniconda3/etc/profile.d/conda.sh
-
-$ conda --version
-conda 4.5.12
-$ which python
-/usr/bin/python
-$ python --version
-Python 3.6.0
-
-
-Activating the 'base' conda environment
-$ conda activate base
-
-(base) $ which python
-/home/will/miniconda3/bin/python
-(base) $ python --version
-Python 3.7.1
-
-(base) $ conda deactivate
-
-$ python --version
-Python 3.6.0
-
-Includes:
-
-Some Python pkgs e.g.
-requests
-non-Python (inc. compiled) pkgs e.g.
-zlib
-C++ standard library
-
+<a name="Making_and_using_environments"></a>
 ### Making and using environments
 
-Creating a new environment
-(Ideally) create a new env (distinct from base) per project.
-Need a name and some pkgs (optionally with version nums and build nums):
-$ conda create --name room101 python=3.7 beautifulsoup4
+Conda automatically installs a base environment with some python and non-python packages. It is possible to just work in this base environment, however it is a good practise to create a new environment for each project you start. To create an environment use `conda create --name your_project_env_name` followed by a list of packages to include, for example to create an environment called Project_One that includes the packages numpy and matplotlib:
+```
+conda create --name Project_One numpy matplotlib
+```
 
-Activate the environment...
-...to start using it:
+To create the environment with specific versions of certain (or all) packages use `=package_number`, e.g. to specify numpy 1.16.1 in the above environment
+```
+conda create --name Project_One numpy=1.16.1 matplotlib
+```
 
-conda activate room101
-(may need to use source instead of conda on if using old conda)
+WHen creating environments you can also specify versions of languages to install, for example to use Python 3.7.1 in the Project_One environment:
+```
+conda create --name Project_One python=3.7.1 numpy=1.16.1 matplotlib
+```
 
-Your prompt now includes the name of your active environment:
+Now that an envronment has been created it's time to activate (start using) it using `conda activate environment_name`, so in this example:
+```
+conda activate Project_One
+```
+Note that you may need to use `source` instead of `conda` if you're using an old version of conda.
 
-(room101) $ which python
-/home/will/miniconda3/envs/room101/bin/python
-(room101) $ python --version
-Python 3.7.2
+Once an environment is activated you should see the environment name before each prompt in your terminal:
+```
+(Project_One) $ python --version
+Python 3.7.1
+```
 
+<a name="Deactivating_and_deleting_ environments"></a>
+### Deactivating and deleting environments
 
-Installing and removing packages
+Let's deactivate and delete this new conda env:
+
+(piratical_fun) $ conda deactivate
+$ conda env remove --name piratical_fun
+
+Problem: miniconda dir can get large if install e.g. CUDA or Intel MKL packages
+
+Warning: deleting an environment may not delete package files!
+
+Reason:
+
+conda downloads pkgs into a pkg cache dir
+then links to those from relevant env dir
+$ du -hsBM ~/miniconda3/* | sort -rn | head -n 2
+832M	/home/will/miniconda3/envs
+564M	/home/will/miniconda3/pkgs
+To remove pkgs from cache that are no longer referenced by an env:
+
+conda clean -pts
+
+### Installing and removing packages
 Install a pkg inc. dependencies into the curently active environment:
 
 conda install PKGNAME
@@ -262,27 +268,7 @@ So we can use conda as a general purpose package manager! E.g.
 (piratical_fun) $ which R
 /home/will/miniconda3/envs/piratical_fun/bin/R
 
-### Deactivating and deleting environments
 
-Let's deactivate and delete this new conda env:
-
-(piratical_fun) $ conda deactivate
-$ conda env remove --name piratical_fun
-
-Problem: miniconda dir can get large if install e.g. CUDA or Intel MKL packages
-
-Warning: deleting an environment may not delete package files!
-
-Reason:
-
-conda downloads pkgs into a pkg cache dir
-then links to those from relevant env dir
-$ du -hsBM ~/miniconda3/* | sort -rn | head -n 2
-832M	/home/will/miniconda3/envs
-564M	/home/will/miniconda3/pkgs
-To remove pkgs from cache that are no longer referenced by an env:
-
-conda clean -pts
 
 
 ### Exporting and reproducing computational environments
@@ -328,7 +314,7 @@ Avoid using base conda env
 (Related) separate environment per project
 exact definition for benchmarking/testing
 'curated' portable definition (remove OS-specific dependencies)
-
+Suggestion: do not make Miniconda Python the default Python
 
 Practising with conda
 
