@@ -366,6 +366,85 @@ Copy the IP address into your browser and your BinderHub should be waiting.
 If you've been successful, a page identical to [mybinder.org](https://mybinder.org) should appear.
 Type the following URL into the GitHub repo box and launch it: **https://github.com/binder-examples/requirements**. You can even sign in to your Docker account to see when the image has been pushed to the registry.
 
+## Authenticating Users with GitHub <a name="auth"></a>
+
+Adapted from [Enabling Authentication](https://binderhub.readthedocs.io/en/latest/authentication.html) and [Authentication](https://zero-to-jupyterhub.readthedocs.io/en/stable/authentication.html#github).
+
+The default is for BinderHub to run without authentication and, for each launch, it creates a temporary user and starts a server for that user.
+
+You can enable authentication for BinderHub by using JupyterHub as an oauth provider by editing `config.yaml`.
+
+### 1. Editing `config.yaml` <a name="auth-step1"></a>
+
+First add `auth_enabled: true` under the `config: BinderHub:` key.
+Then add the following as a top level key.
+
+**N.B.:** In the following, `binderhub_url` is the IP address you visit to reach your Binder launch page (i.e. the output of [Step 6: Try out your BinderHub deployment!](#bh-step6)) and `jupyterhub_url` is the IP address listed under `config: BinderHub: hub_url:` and the top of `config.yaml`.
+
+```yaml
+jupyterhub:
+  cull:
+    # don't cull authenticated users
+    users: False
+
+  hub:
+    services:
+      binder:
+        oauth_redirect_uri": "http://<binderhub_url>/oauth_callback"
+        oauth_client_id: "binder-oauth-client-test"
+    extraConfig:
+      hub_extra: |
+        c.JupyterHub.redirect_to_server = False
+
+      binder: |
+        from kubespawner import KubeSpawner
+
+        class BinderSpawner(KubeSpawner):
+          def start(self):
+            if 'image' in self.user_options:
+              # binder service sets the image spec via user options
+              self.image = self.user_options['image']
+            return super().start()
+        c.JupyterHub.spawner_class = BinderSpawner
+
+  singleuser:
+    # to make notebook servers aware of hub
+    cmd: jupyterhub-singleuser
+
+  auth:
+    type: github
+    github:
+      clientId: "<Your GitHub Client ID>"
+      clientSecret: "<Your GitHub Client Secret>"
+      callbackUrl: "http://<jupyterhub_url>/hub/oauth_callback"
+```
+
+**N.B.:** We will generate `clientId` and `clientSecret` in the next step.
+
+### 2. Create an OAuth App on GitHub <a name="auth-step2"></a>
+
+Go to GitHub, click your profile picture (in the top right corner) and select "Settings" from the drop down menu.
+At the bottom of the list on the left, select "Developer settings", then click "New OAuth App".
+
+Fill in the form using your `binderhub_url` and `jupyter_url` (see image below) and click "Register Application".
+The URL entered into the "Authorization callback URL" field **must** match your `auth: github: callbackUrl:` in your `config.yaml`.
+
+<html><img src="github_oauth.png" alt="github_oauth"></html>
+
+Once your App is registered, a Client ID and Client Secret will be generated.
+Copy these into the `clientId:` and `clientSecrect:` fields, as strings, respectively.
+
+### 3. Update your BinderHub <a name="auth-step3"></a>
+
+To apply the config changes, we need to upgrade the deployed Helm chart using the same command as in [Step 5](#bh-step5).
+```bash
+helm upgrade shfhub jupyterhub/binderhub \
+    --version=0.2.0-3b53fce \
+    -f secret.yaml -f config.yaml
+```
+
+Now reload your Binder page, you should see a sign in button and will be asked for your GitHub sign in information!
+
 ## Example config files <a name="exampleconfigs"></a>
 
 ### `secret.yaml` <a name="secret"></a>
