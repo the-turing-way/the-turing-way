@@ -201,6 +201,7 @@ kubectl create clusterrolebinding tiller --clusterrole cluster-admin --serviceac
 ### 3. Initialise `helm` and `tiller` <a name="helm-step3"></a>
 
 This step will create a `tiller` deployment in the `kube-system` namespace and set-up your local `helm` client.
+This is the command that connects your remote Kubernetes cluster to the commands you execute in your local terminal.
 
 ```bash
 helm init --service-account tiller --wait
