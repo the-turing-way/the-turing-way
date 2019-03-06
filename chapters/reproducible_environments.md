@@ -10,9 +10,6 @@
     - **Are there less arduous ways of generating Dockerfiles/images than hand writing them? Yes, build on previous well tested ones**
     - **Are there standard structures for Dockerfiles/how does a novice know what to include?**
     - Mention Singularity (+ others maybe) and give a quick pros/cons.
-  - Makefiles
-    - What they are
-    - How to write them to use them for reproducibility.
 
 ## Prerequisites / recommended skill level
 
@@ -581,13 +578,12 @@ The best option for large files is to use a library specific to the data format 
 
 [What are containers](https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ) **CC BY-SA 4.0**
 
-Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package. And they are designed to make it easier to provide a consistent experience as developers and system administrators move code from development environments into production in a fast and replicable way.
+Containers allow a developer to package up an project with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package. They are designed to make it easier to transfer projects between very different environments.
 
 In a way, containers behave like a virtual machine. To the outside world, they can look like their own complete system. But unlike a virtual machine, rather than creating a whole virtual operating system, containers only contain the individual components they need in order to operate. This gives a significant performance boost and reduces the size of the application.
 
-Undoubtedly, one of the biggest reasons for recent interest in container technology has been the Docker open source project, a command line tool for creating and working with containers.
+Anyone can open up a container and view and interact with the project within it as if the machine they are accessing it from has the computational environment specified in the container- regardless of what the computational environment *actually* is.
 
-Docker is a command-line tool for programmatically defining the contents of a Linux container in code, which can then be versioned, reproduced, shared, and modified easily just as if it were the source code to a program.
 
 *Include why to use them*
 *When you would use one locally (as not everyone will need to, depends on complexity of project)*
@@ -602,9 +598,16 @@ Docker is a command-line tool for programmatically defining the contents of a Li
 
 *Top paragraph, mention singularity but say we're focusing on docker, quick pros/cons*
 
-*Say Dockerfiles build images, images build containers.
+*Say Dockerfiles build images, images build containers.*
+
+
+Undoubtedly, one of the biggest reasons for recent interest in container technology has been the Docker open source project, a command line tool for creating and working with containers.
+
+Docker is a command-line tool for programmatically defining the contents of a Linux container in code, which can then be versioned, reproduced, shared, and modified easily just as if it were the source code to a program.
 
 [What is docker](https://opensource.com/resources/what-docker) **CC BY-SA 4.0**
+
+
 
 Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. By doing so, thanks to the container, the developer can rest assured that the application will run on any other Linux machine regardless of any customized settings that machine might have that could differ from the machine used for writing and testing the code.
 
@@ -827,12 +830,6 @@ Installers for Docker on a variety of different systems are available [here](htt
      command_to_do_thing_4
   ```
 
-
-## Makefiles
-
-- older option to make things reproducible
-- see issue https://github.com/alan-turing-institute/the-turing-way/issues/24
-- PHONY will keep track of files created when you run this and not recreate already existing files
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
