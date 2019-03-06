@@ -616,7 +616,10 @@ For developers, it means that they can focus on writing code without worrying ab
 [Notes](https://opensource.com/business/14/7/docker-security-selinux) on the importance of making sure Docker containers are secure, and here is a [detailed breakdown](https://opensource.com/business/14/9/security-for-docker) of security features currently within Docker, and how they function.
 
 
-### Getting started with Docker
+### Installing Docker
+
+Installers for Docker on a variety of different systems are available [here](https://docs.docker.com/install/). Detailed installation instructions are also available for a variety of oporating systems such as [ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/), [debian](https://docs.docker.com/install/linux/docker-ce/debian/), [Macs](https://docs.docker.com/docker-for-mac/install/), and [Windows](https://docs.docker.com/docker-for-windows/install/).
+
 
 ## Setting up docker, taking notes.
 
