@@ -576,22 +576,8 @@ The best option for large files is to use a library specific to the data format 
 <a name="Containers"></a>
 ## Containers
 
-
-
-
-- An image
-  - Portable: They can be pushed to a registry, or saved as a tar archive.
-  - Layered: The steps in producing an image, are added in layers. In this way, images that are mostly the same, except for the last few steps, can reduce disk usage by sharing parent layers.
-  - Static: The contents are not changeable, unless making a new image.
-- A container
-  - Runtime: An environment for PIDs.
-  - Writable: It is essentially an ephemeral storage.
-  - Layered: It is on an image.
-- Ultimately Dockerfiles & Travis.yml files do similar things. They define computational environments. Say Singularity also exists.
-- When you would use one locally (as not everyone will need to, depends on complexity of project)
-- How they can be used for CI (but CI itself in different chapter)
-- Note the points from this blog post: http://urssi.us/blog/2018/12/21/why-research-software-sustainability-wont-be-fixed-by-containers/
-
+<a name="What_are_containers"></a>
+### What are containers?
 
 [What are containers](https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ) **CC BY-SA 4.0**
 
@@ -603,6 +589,20 @@ Undoubtedly, one of the biggest reasons for recent interest in container technol
 
 Docker is a command-line tool for programmatically defining the contents of a Linux container in code, which can then be versioned, reproduced, shared, and modified easily just as if it were the source code to a program.
 
+*Include why to use them*
+*When you would use one locally (as not everyone will need to, depends on complexity of project)*
+*Say containers are more lightweight than virtual machines*
+*Note the points from this blog post: http://urssi.us/blog/2018/12/21/why-research-software-sustainability-wont-be-fixed-by-containers/*
+
+### What are images?
+
+
+
+### What is Docker
+
+*Top paragraph, mention singularity but say we're focusing on docker, quick pros/cons*
+
+*Say Dockerfiles build images, images build containers.
 
 [What is docker](https://opensource.com/resources/what-docker) **CC BY-SA 4.0**
 
@@ -610,33 +610,13 @@ Docker is a tool designed to make it easier to create, deploy, and run applicati
 
 For developers, it means that they can focus on writing code without worrying about the system that it will ultimately be running on.
 
-*Lots of docker images pre-built so easier than starting from scratch*
+*Lots of docker images pre-built so easier than starting from scratch, e.g. [R starting images](https://github.com/rocker-org/rocker-versioned)*
 
 
 [Notes](https://opensource.com/business/14/7/docker-security-selinux) on the importance of making sure Docker containers are secure, and here is a [detailed breakdown](https://opensource.com/business/14/9/security-for-docker) of security features currently within Docker, and how they function.
 
----
 
-- Images and Containers
-  - What are they
-  - How to use Docker to make/share images and run containers (warn need to be ok with it being open unless dockerhub)
-  - **Are there less arduous ways of generating Dockerfiles/images than hand writing them? Yes, build on previous well tested ones**
-  - **Are there standard structures for Dockerfiles/how does a novice know what to include?**
-  - Mention Singularity (+ others maybe) and give a quick pros/cons.
-
-[R starting images](https://github.com/rocker-org/rocker-versioned)
-
-*Have Docker running through this like git in version control.*
-
-*Say containers are more lightweight than virtual machines*
-
-
-
-## Makefiles
-  - older option to make things reproducible
-  - see issue https://github.com/alan-turing-institute/the-turing-way/issues/24
-  - PHONY will keep track of files created when you run this and not recreate already existing files
-
+### Getting started with Docker
 
 ## Setting up docker, taking notes.
 
@@ -843,6 +823,13 @@ For developers, it means that they can focus on writing code without worrying ab
      command_to_do_thing_3 \
      command_to_do_thing_4
   ```
+
+
+## Makefiles
+
+- older option to make things reproducible
+- see issue https://github.com/alan-turing-institute/the-turing-way/issues/24
+- PHONY will keep track of files created when you run this and not recreate already existing files
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
