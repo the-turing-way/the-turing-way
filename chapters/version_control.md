@@ -675,7 +675,7 @@ Look into best practice for writing good quality code (good naming conventions, 
 
 - A free and very in depth book on Gits myriad of features can be found [here](https://Git-scm.com/book/en/v2)
 - A useful Git cheat sheet can be found [here](https://services.GitHub.com/on-demand/downloads/GitHub-Git-cheat-sheet.pdf)
-
+- Interactive tutorials for familiarising yourself with GitHub can be found at [https://lab.github.com/](https://lab.github.com/).
 
 <a name="Glossary"></a>
 ## Definitions/glossary
