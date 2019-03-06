@@ -98,6 +98,32 @@ This chapter will describe how to capture, preserve and share computational envi
 
 ## Summary of ways to capture computational environments
 
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th colspan="2">Important transfer machine</th>
+  </tr>
+  <tr>
+  <th></th>
+  	<td></td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Complex requirements</th>
+    <td>Yes</td>    
+    <th>Virtual Machine</th>
+    <th>Containers</th>
+  </tr>
+  <td>No</td>
+  <th>Binder</th>
+  <th>Conda</th>
+  <tr>
+  </tr>
+</table>
+
 There are a number of ways to capture a computational environment, and which is the most appropriate for you will depend  on the nature of your project. If you are working with languages such as Python and R which have a number of tools for freezing and exporting environments as YAML files (discussed later in this chapter) then using one of those tools is likely the best course of action.
 
 *Outline other and why*
