@@ -15,7 +15,7 @@ The TuringWay - supporting reproducibility and Open Science from a librarian's p
 
 * Brief outline of session:  
 Professional services in research institutions such as librarians provide various services and guidance to support Open Science. 
-This session will introduce “The Turing Way” project, a 7 month project led by the Alan Turing Institute to bring together research software engineers and research data librarians in order to write a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is “too easy not to do”. 
+This session will introduce "The Turing Way" project, a 7 month project led by the Alan Turing Institute to bring together research software engineers and research data librarians in order to write a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is “too easy not to do”. 
 The talk will be starting point for a discussion how librarians in your institutions might already support Open Science and what you would want them to provide to make your Open Science Working Group more successful.
 
 * Type (e.g., workshop, talk, discussion group)  
