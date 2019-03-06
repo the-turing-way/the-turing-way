@@ -40,6 +40,7 @@ If you contributed to the Turing Way and your name is not listed, please add it.
 - Anna Krystalli 💬💡📋 👀
 - Alexander Morley 💬👀⚠️
 - Martin O'Reilly 💬🔧
+- Oliver Strickson 💬📖
 - Kirstie Whitaker 💬🎨🔍🤔👀⚠️📢
 
 ## Core team

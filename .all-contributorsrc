@@ -1,0 +1,175 @@
+{
+  "projectName": "the-turing-way",
+  "projectOwner": "alan-turing-institute",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md",
+    "contributors.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "r-j-arnold",
+      "name": "Becky Arnold",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/20441134?v=4",
+      "profile": "https://github.com/r-j-arnold",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "login": "LouiseABowler",
+      "name": "Louise Bowler",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25640708?v=4",
+      "profile": "https://github.com/LouiseABowler",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "example",
+        "ideas",
+        "eventOrganizing",
+        "review"
+      ]
+    },
+    {
+      "login": "jmgate",
+      "name": "Jason M. Gates",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/20327215?v=4",
+      "profile": "https://github.com/jmgate",
+      "contributions": [
+        "doc",
+        "review"
+      ]
+    },
+    {
+      "login": "sgibson91",
+      "name": "sgibson91",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/44771837?v=4",
+      "profile": "https://github.com/sgibson91",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "tool",
+        "review",
+        "talk",
+        "ideas",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "betatim",
+      "name": "Tim Head",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1448859?v=4",
+      "profile": "https://github.com/betatim",
+      "contributions": [
+        "question",
+        "ideas"
+      ]
+    },
+    {
+      "login": "pherterich",
+      "name": "Patricia Herterich",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8457675?v=4",
+      "profile": "https://github.com/pherterich",
+      "contributions": [
+        "question",
+        "doc",
+        "review",
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "rosiehigman",
+      "name": "Rosie Higman",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/15738325?v=4",
+      "profile": "https://github.com/rosiehigman",
+      "contributions": [
+        "question",
+        "eventOrganizing",
+        "review",
+        "ideas"
+      ]
+    },
+    {
+      "login": "choldgraf",
+      "name": "Chris Holdgraf",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1839645?v=4",
+      "profile": "http://chrisholdgraf.com",
+      "contributions": [
+        "question",
+        "ideas"
+      ]
+    },
+    {
+      "login": "annakrystalli",
+      "name": "Anna Krystalli",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5583057?v=4",
+      "profile": "https://www.annakrystalli.me/",
+      "contributions": [
+        "question",
+        "example",
+        "review",
+        "ideas"
+      ]
+    },
+    {
+      "login": "alexmorley",
+      "name": "Alexander Morley",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/13655521?v=4",
+      "profile": "http://alexmorley.me",
+      "contributions": [
+        "question",
+        "review",
+        "ideas",
+        "test"
+      ]
+    },
+    {
+      "login": "martintoreilly",
+      "name": "Martin O'Reilly",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/21147592?v=4",
+      "profile": "https://github.com/martintoreilly",
+      "contributions": [
+        "question",
+        "tool",
+        "ideas"
+      ]
+    },
+    {
+      "login": "ots22",
+      "name": "Oliver Strickson",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5434836?v=4",
+      "profile": "https://github.com/ots22",
+      "contributions": [
+        "question",
+        "doc"
+      ]
+    },
+    {
+      "login": "KirstieJane",
+      "name": "Kirstie Whitaker",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3626306?v=4",
+      "profile": "https://whitakerlab.github.io",
+      "contributions": [
+        "question",
+        "doc",
+        "design",
+        "eventOrganizing",
+        "fundingFinding",
+        "ideas",
+        "review",
+        "talk"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
