@@ -19,7 +19,7 @@ We are dedicated to an inclusive and supportive event. Please read the code of c
 ## Travelling to the University of Sheffield
 There is general advice on travelling to the University of Sheffield on [their website](https://www.sheffield.ac.uk/visitors/mapsandtravel). The workshop will be held in the [Regent Court building](https://www.sheffield.ac.uk/ssid/maps/regent-court). To get to the workshop room enter Regent Court's courtyard via the entrance on the north side of the building, then follow this map to the room the workshp is being held in:
 
-![regents_map](../../figures/regents_map.png)
+<img src="(../../figures/regents_map.png" width="150">
 
 If you have any questions ahead of the event please drop us an email at theturingway@gmail.com.
 
