@@ -602,44 +602,49 @@ The best option for large files is to use a library specific to the data format 
 <a name="What_are_containers"></a>
 ### What are containers?
 
-[What are containers](https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ) **CC BY-SA 4.0**
-
 Containers allow a developer to package up an project with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package. They are designed to make it easier to transfer projects between very different environments.
 
 In a way, containers behave like a virtual machine. To the outside world, they can look like their own complete system. But unlike a virtual machine, rather than creating a whole virtual operating system, containers only contain the individual components they need in order to operate. This gives a significant performance boost and reduces the size of the application.
 
-Anyone can open up a container and view and interact with the project within it as if the machine they are accessing it from has the computational environment specified in the container- regardless of what the computational environment *actually* is.  
+Anyone can open up a container and view and interact with the project within it as if the machine they are accessing it from has the computational environment specified in the container- regardless of what their computational environment *actually* is.  
+
+Containers are a useful way of reproducing research which makes use of lots of system libraries, relies on software to be configured in a certain way
+
+
+
+compiled?  
 
 
 *Include why to use them*
 *When you would use one locally (as not everyone will need to, depends on complexity of project)*
-*Say containers are more lightweight than virtual machines*
 *Note the points from this blog post: http://urssi.us/blog/2018/12/21/why-research-software-sustainability-wont-be-fixed-by-containers/*
+*can copy files in and out of containers, can save state too*
+
 
 ### What are images?
 
+Images are the files used to generate containers. Humans don't make images, they write the recipes to make images.
+
+Think of it like this:
+
+- A recipe file a human writes contains all the steps to generate a working version of the project and its computational environment, but no actual materials. Think of this as like a blueprint.
+- Building an image takes that recipe and using it assembles all the packages, software libraries etc needed to make the fully fledged project and environment and bundles them up in a condensed lump. Think of images like a bit of flat pack furniture made using the blueprint.
+- Containers take that image and assemble a full working version of the project inside its own little environment needed to run it. Think of this as assembling the bit of flat pack furniture.   
+
+Images are not single use files. A container can be generated from an image, used, and deleted,  
+
+### What is Docker?
+
+There are a number of different options available for creating and working with containers. We will focus on Docker, which is widely used, but be aware that others such as Singularity also exist. Singularity is sometimes preferred for use on HPC systems as it does not need `sudo` permissions to be run, while Docker does.     
+
+In Docker the recipe files used to generate images are known as Dockerfiles, and should be called `Dockerfile`.
 
 
-### What is Docker
 
-*Top paragraph, mention singularity but say we're focusing on docker, quick pros/cons*
-
-*Say Dockerfiles build images, images build containers.*
-
-
-Undoubtedly, one of the biggest reasons for recent interest in container technology has been the Docker open source project, a command line tool for creating and working with containers.
-
-Docker is a command-line tool for programmatically defining the contents of a Linux container in code, which can then be versioned, reproduced, shared, and modified easily just as if it were the source code to a program.
-
-[What is docker](https://opensource.com/resources/what-docker) **CC BY-SA 4.0**
-
-
-
-Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. By doing so, thanks to the container, the developer can rest assured that the application will run on any other Linux machine regardless of any customized settings that machine might have that could differ from the machine used for writing and testing the code.
+regardless of any customized settings that machine might have that could differ from the machine used for writing and testing the code.
 
 For developers, it means that they can focus on writing code without worrying about the system that it will ultimately be running on.
 
-*Lots of docker images pre-built so easier than starting from scratch, e.g. [R starting images](https://github.com/rocker-org/rocker-versioned)*
 
 
 [Notes](https://opensource.com/business/14/7/docker-security-selinux) on the importance of making sure Docker containers are secure, and here is a [detailed breakdown](https://opensource.com/business/14/9/security-for-docker) of security features currently within Docker, and how they function.
@@ -649,8 +654,7 @@ For developers, it means that they can focus on writing code without worrying ab
 
 Installers for Docker on a variety of different systems are available [here](https://docs.docker.com/install/). Detailed installation instructions are also available for a variety of oporating systems such as [ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/), [debian](https://docs.docker.com/install/linux/docker-ce/debian/), [Macs](https://docs.docker.com/docker-for-mac/install/), and [Windows](https://docs.docker.com/docker-for-windows/install/).
 
-
-## Setting up docker, taking notes.
+*say need sudo before all docker commands*
 
 - Using [this](https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce)
 - According to that step 1 is setting up a docker repository. Following the instructions for that.
@@ -705,8 +709,92 @@ Installers for Docker on a variety of different systems are available [here](htt
      For more examples and ideas, visit:
        https://docs.docker.com/get-started/
      ```
-- Listed docker images `sudo docker image ls`, and it came up with the hello-world image that came with the download. The instructions didn't include the sudo but without it I get the error `Got permission denied while trying to connect to the Docker daemon socket`. As far as I can tell this issue isn't unique to me or the borrowed computer I'm using. Believe I need `sudo` in front of all my docker commands.
-- Ran the hello world using `sudo docker run hello-world` and got the welcome message again but nothing else happened as far as I can tell, which may be what's supposed to happen.
+
+### Downloading and images and building containers from them
+
+- Listed docker images `sudo docker image ls`, and it came up with the hello-world image that came with the download.
+
+
+
+- Ran the docker image using `sudo docker run -p 4000:80 friendlyhello`, the `-p 4000:80` says to map the container's port (which is 80 as seet in the docker file) to my manchine's 4000 port. As a result when I go to "http://localhost:4000/" on a web browser I get a hello world message, and a note that it couldn't connect to Redis.
+- In the terminal used ctrl+C to end the app and get back to the command line.
+- Can run the app in the background from the get go by adding a `-d` before the `-p`.
+
+*Say can make multiple containers*
+
+- Did that then ran `sudo docker container ls` to get a list of active containers which showed that one with a container ID which looks like a git SHA.
+- Did `sudo docker container stop the_SHA_like_thing` and the container stopped, so I no longer got the message I got before at "http://localhost:4000/", and when I ls the containers there's none because there's none running.
+- Redid it using port 3000 instead of 4000 and it worked fine, so 4000 isn't special.
+
+
+
+- Now looking at [this](https://geohackweek.github.io/Introductory/docker-tutorial_temp/) tutorial **Creative Commons Attribution 3.0 Unported**
+- If I then run `docker run -i -t geohackweek2016/arraystutorial` then that image runs. The `-i -t` means that once I hit enter then I get a prefix "root@SHA_type_thing" in the terminal which I can then do standard linux commands with within the container. After experimenting with my own images find generally need `/bin/bash` at the end of this command on order to get the terminal as well as the `-i -t`. Not 100% sure why it wasn't needed for this example, maybe something in the dockerfile. Yeah. If you have `CMD ["/bin/bash"]` in the dockerfile then you don't need to have it when you run the container.
+- When I do `ls` I see the stuff in the continer which is comletly different to the directory I ran the image in.
+
+- Looking at [this](https://www.tutorialspoint.com/docker/docker_images.htm) tutorial (not open I don't think)
+- To remove an image do `sudo docker rmi image_name_or_sha`
+- There's docker kill, stop, pause, and unpause. Pause suspends processes running in the container, stop terminates them, kill is for terminating them when you don't case about being graceful about it. There's also restart which restarts after a stop. The syntax for using any of these is `sudo docker what_you_want_to_do container_ID`. Use exit to get out of the interactive bash shell if you started one.
+- use `sudo docker rm container_ID` to remove a container.
+
+### Writing Dockerfiles
+
+*Lots of docker images pre-built so easier than starting from scratch, e.g. [R starting images](https://github.com/rocker-org/rocker-versioned)*
+
+- Another [tutorial](http://www.manicstreetpreacher.co.uk/docker-carpentry/aio/) I'm looking at. **Creative Commons Attribution 4.0**
+- A docker file can look like this:
+  ```
+  FROM centos:7
+  MAINTAINER spli@dundee.ac.uk
+
+  RUN yum install -y -q epel-release
+  RUN yum install -y -q python-pip
+  RUN pip install omego
+  ```
+  where
+    - FROM: The name of a base image
+    - MAINTAINER: The email of the developer or owner
+    - RUN: Runs a shell command
+  and some other commonly used docker commands are:
+    - COPY: Copies a file (e.g. a script, configuration file, or archive) into the Docker image
+    - USER: Change the user that a command is run as (useful for dropping privileges)
+    - WORKDIR: Change the current working directory
+    - EXPOSE: Lists ports that should be exposed to the outside world
+    - VOLUMES: Directories that should be managed separately from the container (e.g. persistent data that should be kept after the container exits)
+
+    - Short example of a docker file
+      ```
+      #This is a sample Image
+      FROM ubuntu
+      MAINTAINER demousr@gmail.com
+
+      RUN apt-get update
+      RUN apt-get install –y nginx
+      ADD my_local_file .
+      CMD [“echo”,”Image created”]
+      ```
+      Breaking this down:
+      - Comments by #'s like python.
+      - You need some kind of from statement oven if it's `FROM SCRATCH`.
+      - MAINTAINER self explanatory and not necessary to include.
+      - RUN instructions to run when building the image
+      - ADD is used if you have files on your computer you want to be put into the image. The syntax is the path to the file from where you're building the image in, and then the location in the container directory system you want the file to be placed. Note that you can only add files from the level or below where your dockerfile is. Pushed that image to DockerHub and then pulled it to a different computer. When I ran the contianer on that computer the file was in it.
+      - CMD is commands to run when your container starts up. So to calify RUN are things you do to *setting up* a container from an image, and CMD is for commands to be automatically run in the container as soon as it's set up. The message only appears if I don't have interactive terminal. Not clear on why.
+    - It's good practice to use CMD for anything that is going to need to be run before someone starts working in the container. You *can* just follow the instreuction to run the container with a command (e.g `docker run containerID echo Imange created`)  and it'll have the same impact, but then you're relying on whoever is trying to run the container to know they need to follow that up with the command required. Putting it in the Dockerfile means it'll always be run.  
+    - There's ENTRYPOINT, but seems like bad practice to use, so leaving it out.
+    - Made directories within the container, but when I try using run to cd in and then making another directory within. Didn't work. Asked, this is because each RUN saves and deletes the previous container, then makes a new one from that point, does its run thing, then saves and is deleted and so on. Each layer is like a commit. As a result my RUNing cd into the directory doesn't matter because the next RUN statement restarts the container fresh so the next mkdir goes into the top level. According to David and Will I can use && to have multiple commands on one RUN, but when I try it it doesn't work.
+    - There's COPY as well as ADD. Serves same function but ADD can also be used to add things from e.g. urls. At least in the one article I read they say it's best to use COPY since it's more explicit. Tested that copy could do the copying local files to an image thing the way add did and it suceeded.
+    - It's good practice to use .dockerignore files. When you build an image everything in the dockerfile's directory and below is sent to the Docker daemon (which may or may not be on the same machine as where your running the command) to build the image. It uses the dockerfile and the context to build the image. If you're got lots of big files in your context that aren't needed for your image then you're sending the daemon those huge files for nothing. You can make sure they're not sent by including them in a .dockerignore file. You can use syntax like for example `*.png` for example to ignore lots fo different files with similar names/types with few lines.
+    - Good practise to break RUN statements up to be more readable, for example
+      ```
+      RUN command_to_do_thing_1 \
+         command_to_do_thing_2 \
+         command_to_do_thing_3 \
+         command_to_do_thing_4
+      ```
+
+### Building images
+
 - Made a new directory (docker-practice) and cd into in.rjarnold/learning_docker:first_image_online
 - Made a file called app.py which contained
   ```
@@ -765,12 +853,9 @@ Installers for Docker on a variety of different systems are available [here](htt
   ```
 - Then built the docker image and called it "friendlyhello" using `sudo docker build --tag=friendlyhello .`.
 - Did `docker image ls` and the firndlyhello image was listed along with hello-world
-- Ran the docker image using `sudo docker run -p 4000:80 friendlyhello`, the `-p 4000:80` says to map the container's port (which is 80 as seet in the docker file) to my manchine's 4000 port. As a result when I go to "http://localhost:4000/" on a web browser I get a hello world message, and a note that it couldn't connect to Redis.
-- In the terminal used ctrl+C to end the app and get back to the command line.
-- Can run the app in the background from the get go by adding a `-d` before the `-p`.
-- Did that then ran `sudo docker container ls` to get a list of active containers which showed that one with a container ID which looks like a git SHA.
-- Did `sudo docker container stop the_SHA_like_thing` and the container stopped, so I no longer got the message I got before at "http://localhost:4000/", and when I ls the containers there's none because there's none running.
-- Redid it using port 3000 instead of 4000 and it worked fine, so 4000 isn't special.
+
+### Sharing images
+
 - Now onto publishing and sharing dockerfiles. Made an account on [https://hub.docker.com/](https://hub.docker.com/).
 - Logged into docker via my terminal using `sudo docker login`
 - "The notation for associating a local image with a repository on a registry is username/repository:tag. The tag is optional, but recommended, since it is the mechanism that registries use to give Docker images a version." Did `sudo docker tag friendlyhello rjarnold/learning_docker:first_image_online`
@@ -779,9 +864,10 @@ Installers for Docker on a variety of different systems are available [here](htt
 - Now try running the image on another machine. On another ubuntu machine I tried running `sudo docker run -p 4000:80 rjarnold/learning_docker:first_image_online` Failed because docker wasn't installed on that machine.
 - Installed docker on that machine and tried again. It regonised the image wasn't on my local machine and downloaded it
 - Went to "http://localhost:4000/" and the message was there as expected, so success. It had run without making the directory and files on my machine.
-- Now looking at [this](https://geohackweek.github.io/Introductory/docker-tutorial_temp/) tutorial **Creative Commons Attribution 3.0 Unported**
-- If I then run `docker run -i -t geohackweek2016/arraystutorial` then that image runs. The `-i -t` means that once I hit enter then I get a prefix "root@SHA_type_thing" in the terminal which I can then do standard linux commands with within the container. After experimenting with my own images find generally need `/bin/bash` at the end of this command on order to get the terminal as well as the `-i -t`. Not 100% sure why it wasn't needed for this example, maybe something in the dockerfile. Yeah. If you have `CMD ["/bin/bash"]` in the dockerfile then you don't need to have it when you run the container.
-- When I do `ls` I see the stuff in the continer which is comletly different to the directory I ran the image in.
+
+### Copying files from and to containers
+
+
 - Move a file from my computer into the container using
   ```
   sudo docker cp file_name Sha_or_name_of_container:path_to_pyt_file/file_name
@@ -791,26 +877,10 @@ Installers for Docker on a variety of different systems are available [here](htt
   sudo docker cp Sha_or_name_of_container:path_to_pyt_file/file_name .
   ```
   The full stop meant the file was put where the terminal I was writing in was located. Note for the copying in/out of the container I ran the commands from outside the container, hence needing the sha to point to it.
-- Another [tutorial](http://www.manicstreetpreacher.co.uk/docker-carpentry/aio/) I'm looking at. **Creative Commons Attribution 4.0**
-- A docker file can look like this:
-  ```
-  FROM centos:7
-  MAINTAINER spli@dundee.ac.uk
 
-  RUN yum install -y -q epel-release
-  RUN yum install -y -q python-pip
-  RUN pip install omego
-  ```
-  where
-    - FROM: The name of a base image
-    - MAINTAINER: The email of the developer or owner
-    - RUN: Runs a shell command
-  and some other commonly used docker commands are:
-    - COPY: Copies a file (e.g. a script, configuration file, or archive) into the Docker image
-    - USER: Change the user that a command is run as (useful for dropping privileges)
-    - WORKDIR: Change the current working directory
-    - EXPOSE: Lists ports that should be exposed to the outside world
-    - VOLUMES: Directories that should be managed separately from the container (e.g. persistent data that should be kept after the container exits)
+### Volumes
+
+
 - If you do some work in a container, close it, then open a new container from the image your work will be gone because it's building from the start
 - If you need to do work in a container and save it you can make a "volume" where it'll save the work so even if you close the container when you next make one from that image it'll still have your work. Do this by
   ```
@@ -821,41 +891,13 @@ Installers for Docker on a variety of different systems are available [here](htt
   - List volumes: docker volume ls
   - Delete a volume: docker volume rm VOLUME-NAME
   - Delete all unattached volumes: docker volume prune
-- Looking at [this](https://www.tutorialspoint.com/docker/docker_images.htm) tutorial (not open I don't think)
-- To remove an image do `sudo docker rmi image_name_or_sha`
-- There's docker kill, stop, pause, and unpause. Pause suspends processes running in the container, stop terminates them, kill is for terminating them when you don't case about being graceful about it. There's also restart which restarts after a stop. The syntax for using any of these is `sudo docker what_you_want_to_do container_ID`. Use exit to get out of the interactive bash shell if you started one.
-- use `sudo docker rm container_ID` to remove a container. If you include a -v after the rm then it will also remove anny accociated volumes.
-- Short example of a docker file
-  ```
-  #This is a sample Image
-  FROM ubuntu
-  MAINTAINER demousr@gmail.com
 
-  RUN apt-get update
-  RUN apt-get install –y nginx
-  ADD my_local_file .
-  CMD [“echo”,”Image created”]
-  ```
-  Breaking this down:
-  - Comments by #'s like python.
-  - You need some kind of from statement oven if it's `FROM SCRATCH`.
-  - MAINTAINER self explanatory and not necessary to include.
-  - RUN instructions to run when building the image
-  - ADD is used if you have files on your computer you want to be put into the image. The syntax is the path to the file from where you're building the image in, and then the location in the container directory system you want the file to be placed. Note that you can only add files from the level or below where your dockerfile is. Pushed that image to DockerHub and then pulled it to a different computer. When I ran the contianer on that computer the file was in it.
-  - CMD is commands to run when your container starts up. So to calify RUN are things you do to *setting up* a container from an image, and CMD is for commands to be automatically run in the container as soon as it's set up. The message only appears if I don't have interactive terminal. Not clear on why.
-- It's good practice to use CMD for anything that is going to need to be run before someone starts working in the container. You *can* just follow the instreuction to run the container with a command (e.g `docker run containerID echo Imange created`)  and it'll have the same impact, but then you're relying on whoever is trying to run the container to know they need to follow that up with the command required. Putting it in the Dockerfile means it'll always be run.  
-- There's ENTRYPOINT, but seems like bad practice to use, so leaving it out.
-- Made directories within the container, but when I try using run to cd in and then making another directory within. Didn't work. Asked, this is because each RUN saves and deletes the previous container, then makes a new one from that point, does its run thing, then saves and is deleted and so on. Each layer is like a commit. As a result my RUNing cd into the directory doesn't matter because the next RUN statement restarts the container fresh so the next mkdir goes into the top level. According to David and Will I can use && to have multiple commands on one RUN, but when I try it it doesn't work.
-- There's COPY as well as ADD. Serves same function but ADD can also be used to add things from e.g. urls. At least in the one article I read they say it's best to use COPY since it's more explicit. Tested that copy could do the copying local files to an image thing the way add did and it suceeded.
-- It's good practice to use .dockerignore files. When you build an image everything in the dockerfile's directory and below is sent to the Docker daemon (which may or may not be on the same machine as where your running the command) to build the image. It uses the dockerfile and the context to build the image. If you're got lots of big files in your context that aren't needed for your image then you're sending the daemon those huge files for nothing. You can make sure they're not sent by including them in a .dockerignore file. You can use syntax like for example `*.png` for example to ignore lots fo different files with similar names/types with few lines.
-- Good practise to break RUN statements up to be more readable, for example
-  ```
-  RUN command_to_do_thing_1 \
-     command_to_do_thing_2 \
-     command_to_do_thing_3 \
-     command_to_do_thing_4
-  ```
+- use `sudo docker rm container_ID` to remove a container. If you include a -v after the rm then it will also remove any associated volumes.
 
+### Materials used
+
+- [What is docker](https://opensource.com/resources/what-docker) **CC BY-SA 4.0**
+- [What are containers](https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ) **CC BY-SA 4.0**
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
