@@ -19,7 +19,7 @@ This session will introduce "The Turing Way" project, a 7 month project led by t
 The talk will be starting point for a discussion how librarians in your institutions might already support Open Science and what you would want them to provide to make your Open Science Working Group more successful.
 
 * Type (e.g., workshop, talk, discussion group)  
-Input talk followed by discussion
+Talk followed by discussion
 
 * Preferred session duration  
 30 minutes (trying to keep talking short, otherwise we might need 1 h just to accommodate a proper discussion) 
