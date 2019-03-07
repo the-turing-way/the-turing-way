@@ -17,7 +17,7 @@ There is now an updated [agenda](https://github.com/alan-turing-institute/the-tu
 We are dedicated to an inclusive and supportive event. Please read the code of conduct before you come along: https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md. We encourage you to tweet and share your thoughts using #TuringWay, if you would not like to be included in any photographs we will have stickers you can use on your name badge to let us know!
 
 ## Travelling to the University of Sheffield
-***Need to write this***
+There is general advice on travelling to the University of Sheffield on [their website](https://www.sheffield.ac.uk/visitors/mapsandtravel). The workshop will be held in the [Regent Court building](https://www.sheffield.ac.uk/ssid/maps/regent-court), when you enter the courtyard enter the building via the entrance on the left and ....
 
 If you have any questions ahead of the event please drop us an email at theturingway@gmail.com.
 
