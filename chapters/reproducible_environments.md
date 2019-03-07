@@ -615,10 +615,10 @@ Images are the files used to generate containers. Humans don't make images, they
 Think of it like this:
 
 - A recipe file a human writes contains all the steps to generate a working version of the project and its computational environment, but no actual materials. Think of this as like a blueprint.
-- Building an image takes that recipe and using it assembles all the packages, software libraries etc needed to make the fully fledged project and environment and bundles them up in a condensed lump. Think of images like a bit of flat pack furniture made using the blueprint.
+- Building an image takes that recipe and using it assembles all the packages, software libraries, configurations etc needed to make the fully fledged project and environment and bundles them up in a condensed lump. Think of images like a bit of flat pack furniture made using the blueprint.
 - Containers take that image and assemble a full working version of the project inside its own little environment needed to run it. Think of this as assembling the bit of flat pack furniture.
 
-Images are not single use files. A container can be generated from an image, used, and deleted,
+So if a researcher wants to allow others to reproduce their work they would need to write a recipe file, and use it to build an image of their project. They can then share this file with anyone who wants to replicate their work. That person can then use the image to generate a container containing a working version of the project.
 
 ### What is Docker?
 
