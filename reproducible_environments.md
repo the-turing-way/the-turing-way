@@ -602,24 +602,11 @@ The best option for large files is to use a library specific to the data format 
 <a name="What_are_containers"></a>
 ### What are containers?
 
-Containers allow a developer to package up an project with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package. They are designed to make it easier to transfer projects between very different environments.
+Containers allow a developer to package up an project with all of the parts it needs, such as libraries, dependencies, and software configurations and ship it all out as one package. Anyone can then open up a container and work within it, viewing and interacting with the project as if the machine they are accessing it from is identical to the machine specified in the container- regardless of what their computational environment *actually* is. They are designed to make it easier to transfer projects between very different environments.
 
 In a way, containers behave like a virtual machine. To the outside world, they can look like their own complete system. But unlike a virtual machine, rather than creating a whole virtual operating system, containers only contain the individual components they need in order to operate. This gives a significant performance boost and reduces the size of the application.
 
-Anyone can open up a container and view and interact with the project within it as if the machine they are accessing it from has the computational environment specified in the container- regardless of what their computational environment *actually* is.
-
-Containers are a useful way of reproducing research which makes use of lots of system libraries, relies on software to be configured in a certain way
-
-
-
-compiled?
-
-
-*Include why to use them*
-*When you would use one locally (as not everyone will need to, depends on complexity of project)*
-*Note the points from this blog post: http://urssi.us/blog/2018/12/21/why-research-software-sustainability-wont-be-fixed-by-containers/*
-*can copy files in and out of containers, can save state too*
-
+Containers are particularly useful way for reproducing research which relies on software to be configured in a certain way, and/or which makes use of libraries that vary between (or don't exist on) different systems. In summary containers are a more robust way of sharing reproducible research than, for instance, package management systems of Binder because they reproduce the entire system used to produce the research, not just the packages explicitly used by it. Their major downside is that due to their greater depth they are conceptually more difficult to grasp and produce than many other methods of replicating computational environments.
 
 ### What are images?
 
@@ -635,15 +622,13 @@ Images are not single use files. A container can be generated from an image, use
 
 ### What is Docker?
 
-There are a number of different options available for creating and working with containers. We will focus on Docker, which is widely used, but be aware that others such as Singularity also exist. Singularity is sometimes preferred for use on HPC systems as it does not need `sudo` permissions to be run, while Docker does.
+There are a number of different tools available for creating and working with containers. We will focus on Docker, which is widely used, but be aware that others such as Singularity also exist. Singularity is sometimes preferred for use on HPC systems as it does not need `sudo` permissions to be run, while Docker does.
 
 In Docker the recipe files used to generate images are known as Dockerfiles, and should be called `Dockerfile`.
 
+[DockerHub](https://hub.docker.com/) hosts a great many pre-made images which can be downloaded and build upon, such as [images](https://hub.docker.com/_/ubuntu) of Ubuntu machines. This makes the process of writing Dockerfiles relatively easy since users very rarely need to start from scratch.
 
 
-regardless of any customized settings that machine might have that could differ from the machine used for writing and testing the code.
-
-For developers, it means that they can focus on writing code without worrying about the system that it will ultimately be running on.
 
 
 
@@ -686,34 +671,14 @@ Installers for Docker on a variety of different systems are available [here](htt
      ```
    - Run `sudo apt-get update` again.rjarnold/learning_docker:first_image_online
    - Install docker by `sudo apt-get install docker-ce`
-   - Ran `sudo docker run hello-world`, it downloaded something automatically and then came up with a message saying hello and indicating the installation had been sucessful.
-     ```
-     Hello from Docker!
-     This message shows that your installation appears to be working correctly.
 
-     To generate this message, Docker took the following steps:
-      1. The Docker client contacted the Docker daemon.
-      2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
-         (amd64)
-      3. The Docker daemon created a new container from that image which runs the
-         executable that produces the output you are currently reading.
-       4. The Docker daemon streamed that output to the Docker client, which sent it
-          to your terminal.
-
-     To try something more ambitious, you can run an Ubuntu container with:
-       $ docker run -it ubuntu bashrjarnold/learning_docker:first_image_online
-
-     Share images, automate workflows, and more with a free Docker ID:
-       https://hub.docker.com/
-
-     For more examples and ideas, visit:
-       https://docs.docker.com/get-started/
-     ```
 
 ### Downloading and images and building containers from them
 
-- Listed docker images `sudo docker image ls`, and it came up with the hello-world image that came with the download.
 
+   - Ran `sudo docker run hello-world`, it downloaded something automatically and then came up with a message saying hello and indicating the installation had been sucessful.
+
+- Listed docker images `sudo docker image ls`, and it came up with the hello-world image that came with the download.
 
 
 - Ran the docker image using `sudo docker run -p 4000:80 friendlyhello`, the `-p 4000:80` says to map the container's port (which is 80 as seet in the docker file) to my manchine's 4000 port. As a result when I go to "http://localhost:4000/" on a web browser I get a hello world message, and a note that it couldn't connect to Redis.
@@ -727,7 +692,6 @@ Installers for Docker on a variety of different systems are available [here](htt
 - Redid it using port 3000 instead of 4000 and it worked fine, so 4000 isn't special.
 
 
-
 - Now looking at [this](https://geohackweek.github.io/Introductory/docker-tutorial_temp/) tutorial **Creative Commons Attribution 3.0 Unported**
 - If I then run `docker run -i -t geohackweek2016/arraystutorial` then that image runs. The `-i -t` means that once I hit enter then I get a prefix "root@SHA_type_thing" in the terminal which I can then do standard linux commands with within the container. After experimenting with my own images find generally need `/bin/bash` at the end of this command on order to get the terminal as well as the `-i -t`. Not 100% sure why it wasn't needed for this example, maybe something in the dockerfile. Yeah. If you have `CMD ["/bin/bash"]` in the dockerfile then you don't need to have it when you run the container.
 - When I do `ls` I see the stuff in the continer which is comletly different to the directory I ran the image in.
@@ -736,6 +700,35 @@ Installers for Docker on a variety of different systems are available [here](htt
 - To remove an image do `sudo docker rmi image_name_or_sha`
 - There's docker kill, stop, pause, and unpause. Pause suspends processes running in the container, stop terminates them, kill is for terminating them when you don't case about being graceful about it. There's also restart which restarts after a stop. The syntax for using any of these is `sudo docker what_you_want_to_do container_ID`. Use exit to get out of the interactive bash shell if you started one.
 - use `sudo docker rm container_ID` to remove a container.
+
+### Copying files from and to containers
+
+
+- Move a file from my computer into the container using
+  ```
+  sudo docker cp file_name Sha_or_name_of_container:path_to_pyt_file/file_name
+  ```
+- Created a file inside the container, want to get it out, ran
+  ```
+  sudo docker cp Sha_or_name_of_container:path_to_pyt_file/file_name .
+  ```
+  The full stop meant the file was put where the terminal I was writing in was located. Note for the copying in/out of the container I ran the commands from outside the container, hence needing the sha to point to it.
+
+### Volumes
+
+
+- If you do some work in a container, close it, then open a new container from the image your work will be gone because it's building from the start
+- If you need to do work in a container and save it you can make a "volume" where it'll save the work so even if you close the container when you next make one from that image it'll still have your work. Do this by
+  ```
+  sudo docker run -i -t --mount source=my_volume_name,target=/notebooks image_name
+  ```
+  where the target is the directory in the container you're doing work in you want it to save. Then closed and restarted using the same command and my work was still there.
+- Volume related commands:
+  - List volumes: docker volume ls
+  - Delete a volume: docker volume rm VOLUME-NAME
+  - Delete all unattached volumes: docker volume prune
+
+- use `sudo docker rm container_ID` to remove a container. If you include a -v after the rm then it will also remove any associated volumes.
 
 ### Writing Dockerfiles
 
@@ -864,35 +857,6 @@ Installers for Docker on a variety of different systems are available [here](htt
 - Now try running the image on another machine. On another ubuntu machine I tried running `sudo docker run -p 4000:80 rjarnold/learning_docker:first_image_online` Failed because docker wasn't installed on that machine.
 - Installed docker on that machine and tried again. It regonised the image wasn't on my local machine and downloaded it
 - Went to "http://localhost:4000/" and the message was there as expected, so success. It had run without making the directory and files on my machine.
-
-### Copying files from and to containers
-
-
-- Move a file from my computer into the container using
-  ```
-  sudo docker cp file_name Sha_or_name_of_container:path_to_pyt_file/file_name
-  ```
-- Created a file inside the container, want to get it out, ran
-  ```
-  sudo docker cp Sha_or_name_of_container:path_to_pyt_file/file_name .
-  ```
-  The full stop meant the file was put where the terminal I was writing in was located. Note for the copying in/out of the container I ran the commands from outside the container, hence needing the sha to point to it.
-
-### Volumes
-
-
-- If you do some work in a container, close it, then open a new container from the image your work will be gone because it's building from the start
-- If you need to do work in a container and save it you can make a "volume" where it'll save the work so even if you close the container when you next make one from that image it'll still have your work. Do this by
-  ```
-  sudo docker run -i -t --mount source=my_volume_name,target=/notebooks image_name
-  ```
-  where the target is the directory in the container you're doing work in you want it to save. Then closed and restarted using the same command and my work was still there.
-- Volume related commands:
-  - List volumes: docker volume ls
-  - Delete a volume: docker volume rm VOLUME-NAME
-  - Delete all unattached volumes: docker volume prune
-
-- use `sudo docker rm container_ID` to remove a container. If you include a -v after the rm then it will also remove any associated volumes.
 
 ### Materials used
 
