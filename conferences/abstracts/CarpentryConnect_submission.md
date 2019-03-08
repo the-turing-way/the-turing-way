@@ -5,14 +5,16 @@
 * Location: Manchester, UK
 * Date: 25-27 June 2019
 
-## Facilitators
+### Applicant
 
-Kirstie Whitaker + Rachael Ainsworth
+Kirstie Whitaker
 
-## What are you submitting or proposing?
+### What are you submitting or proposing?
+
 Workshop (longer sessions or training on specific topics)
 
 ### Title of the workshop that you would like to lead
+
 Boost your research reproducibility with Binder
 
 ### Abstract for the workshop that you would like to lead (~ 250 words)
@@ -31,11 +33,12 @@ All participants will leave understanding how they can take steps to improve the
 
 
 ### Anticipated length of the workshop
+
 - [ ] 1.5 hours
 - [x] 3 hours
 
 ### Co-lead/helper(s)
-> If we can, bringing someone known on board is probably better.
+
 - [x] I will suggest a co-lead/helper(s)
 - [ ] I would like the organisers to help me find a co-lead/helper(s)
 
