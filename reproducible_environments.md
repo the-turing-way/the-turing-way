@@ -637,41 +637,7 @@ In Docker the recipe files used to generate images are known as Dockerfiles, and
 
 ### Installing Docker
 
-Installers for Docker on a variety of different systems are available [here](https://docs.docker.com/install/). Detailed installation instructions are also available for a variety of oporating systems such as [ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/), [debian](https://docs.docker.com/install/linux/docker-ce/debian/), [Macs](https://docs.docker.com/docker-for-mac/install/), and [Windows](https://docs.docker.com/docker-for-windows/install/).
-
-*say need sudo before all docker commands*
-
-- Using [this](https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce)
-- According to that step 1 is setting up a docker repository. Following the instructions for that.
-  - Run `sudo apt-get update`
-  - Run
-    ```
-    sudo apt-get install \
-    apt-transport-https \
-    ca-certificates \
-    curl \
-    gnupg-agent \
-    software-properties-common
-    ```
-   - Add GPG key using `curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -`
-   - Verify that's worked by running `sudo apt-key fingerprint 0EBFCD88` and checking the output against the model output they give which is
-     ```
-     pub   4096R/0EBFCD88 2017-02-22
-           Key fingerprint = 9DC8 5822 9FC7 DD38 854A  E2D8 8D81 803C 0EBF CD88
-     uid                  Docker Release (CE deb) <docker@docker.com>
-     sub   4096R/F273FCD8 2017-02-22
-     ```
-   - Use `lsb_release -cs` to check my ubuntu distribution, found it's xenial. Don't appear to do anything with the info but it was in the instructions.
-   - Run
-     ```
-     sudo add-apt-repository \
-     "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
-     $(lsb_release -cs) \
-     stable"
-     ```
-   - Run `sudo apt-get update` again.rjarnold/learning_docker:first_image_online
-   - Install docker by `sudo apt-get install docker-ce`
-
+Installers for Docker on a variety of different systems are available [here](https://docs.docker.com/install/). Detailed installation instructions are also available for a variety of operating systems such as [ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/), [debian](https://docs.docker.com/install/linux/docker-ce/debian/), [Macs](https://docs.docker.com/docker-for-mac/install/), and [Windows](https://docs.docker.com/docker-for-windows/install/).
 
 ### Downloading and images and building containers from them
 
