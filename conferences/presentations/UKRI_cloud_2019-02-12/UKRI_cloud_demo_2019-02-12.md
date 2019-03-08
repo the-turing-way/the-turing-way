@@ -92,7 +92,7 @@ By design, because it [costs the Binder Team about 5000 USD per month to run](ht
 
 Version updates to software packages could cause fundamental changes to your code that do not raise a fatal error, and so will pass without you realising.
 
-Here's a little demo repo to highlight this: http://bit.ly/sgibson-matplotlib-demo
+Here's a little demo repo to highlight this: [binder-examples/matplotlib-versions](https://github.com/binder-examples/matplotlib-versions)
 
 Link to full workflow GIF: [ukri_demo.gif](images/ukri_demo.gif) :no_entry_sign: [Emergency back-up GIF](images/ukri_demo_emerge.gif)
 
