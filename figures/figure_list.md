@@ -9,6 +9,7 @@
 | binder_notebook            | Reproducible environments | Interacting with an example binder via a notebook |
 | binder_terminal            | Reproducible environments | Interacting with an example binder via a terminal |
 | change_stage_repo          | Version control      | Cartoon showing staging and committing changes         |
+| docker_official_image      | Reproducible environments | The official ubuntu docker image with badge       |
 | eyeball_test_1             | Testing              | Results tested by seeing if they 'look right'          |
 | eyeball_test_2             | Testing              | Results tested by seeing if they 'look right'          |
 | eyeball_test_3             | Testing              | Results tested by seeing if they 'look right'          |

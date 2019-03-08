@@ -602,15 +602,15 @@ The best option for large files is to use a library specific to the data format 
 <a name="What_are_containers"></a>
 ### What are containers?
 
-Containers allow a developer to package up an project with all of the parts it needs, such as libraries, dependencies, and software configurations and ship it all out as one package. Anyone can then open up a container and work within it, viewing and interacting with the project as if the machine they are accessing it from is identical to the machine specified in the container- regardless of what their computational environment *actually* is. They are designed to make it easier to transfer projects between very different environments.
+Containers allow a researcher to package up an project with all of the parts it needs, such as libraries, dependencies, and system settings and ship it all out as one package. Anyone can then open up a container and work within it, viewing and interacting with the project as if the machine they are accessing it from is identical to the machine specified in the container- regardless of what their computational environment *actually* is. They are designed to make it easier to transfer projects between very different environments.
 
 In a way, containers behave like a virtual machine. To the outside world, they can look like their own complete system. But unlike a virtual machine, rather than creating a whole virtual operating system, containers only contain the individual components they need in order to operate. This gives a significant performance boost and reduces the size of the application.
 
-Containers are particularly useful way for reproducing research which relies on software to be configured in a certain way, and/or which makes use of libraries that vary between (or don't exist on) different systems. In summary containers are a more robust way of sharing reproducible research than, for instance, package management systems of Binder because they reproduce the entire system used to produce the research, not just the packages explicitly used by it. Their major downside is that due to their greater depth they are conceptually more difficult to grasp and produce than many other methods of replicating computational environments.
+Containers are particularly useful way for reproducing research which relies on software to be configured in a certain way, and/or which makes use of libraries that vary between (or don't exist on) different systems. In summary containers are a more robust way of sharing reproducible research than, for instance, package management systems of Binder because they reproduce the entire system used for the research, not just the packages explicitly used by it. Their major downside is that due to their greater depth they are conceptually more difficult to grasp and produce than many other methods of replicating computational environments.
 
 ### What are images?
 
-Images are the files used to generate containers. Humans don't make images, they write the recipes to make images.
+Images are the files used to generate containers. Humans don't make images, they write the recipes to generate images.
 
 Think of it like this:
 
@@ -618,22 +618,22 @@ Think of it like this:
 - Building an image takes that recipe and using it assembles all the packages, software libraries, configurations etc needed to make the fully fledged project and environment and bundles them up in a condensed lump. Think of images like a bit of flat pack furniture made using the blueprint.
 - Containers take that image and assemble a full working version of the project inside its own little environment needed to run it. Think of this as assembling the bit of flat pack furniture.
 
-So if a researcher wants to allow others to reproduce their work they would need to write a recipe file, and use it to build an image of their project. They can then share this file with anyone who wants to replicate their work. That person can then use the image to generate a container containing a working version of the project.
+So if a researcher wants to allow others to reproduce their work they would need to write a recipe file, and use it to build an image of their project. They can then share this image file with anyone who wants to replicate their work. That person can then use the image to generate a container containing a working version of the project.
 
 ### What is Docker?
 
 There are a number of different tools available for creating and working with containers. We will focus on Docker, which is widely used, but be aware that others such as Singularity also exist. Singularity is sometimes preferred for use on HPC systems as it does not need `sudo` permissions to be run, while Docker does.
 
-In Docker the recipe files used to generate images are known as Dockerfiles, and should be called `Dockerfile`.
+In Docker the recipe files used to generate images are known as Dockerfiles, and should be named `Dockerfile`.
 
-[DockerHub](https://hub.docker.com/) hosts a great many pre-made images which can be downloaded and build upon, such as [images](https://hub.docker.com/_/ubuntu) of Ubuntu machines. This makes the process of writing Dockerfiles relatively easy since users very rarely need to start from scratch.
+[DockerHub](https://hub.docker.com/) hosts a great many pre-made images which can be downloaded and build upon, such as [images](https://hub.docker.com/_/ubuntu) of Ubuntu machines. This makes the process of writing Dockerfiles relatively easy since users very rarely need to start from scratch. However, this does leave a user vulnerable to similar security issues as were described in the section on [YAML files](#Security_issues):
 
+- It is possible to include malicious code in Docker images
+- It is possible for people producing images to unknowingly include software in them with security vulnerabilities
 
+[This](https://opensource.com/business/14/7/docker-security-selinux) article goes deeper into the potential security vulnerabilities of containers and here is a [detailed breakdown](https://opensource.com/business/14/9/security-for-docker) of security features currently within Docker, and how they function. The best advice for using images built by others is as standard- only download and run something on your machine if it comes from a trusted source. DockerHub has "official image" badges for commonly used, verified images as shown here:
 
-
-
-[Notes](https://opensource.com/business/14/7/docker-security-selinux) on the importance of making sure Docker containers are secure, and here is a [detailed breakdown](https://opensource.com/business/14/9/security-for-docker) of security features currently within Docker, and how they function.
-
+![Docker_official_image](../figures/docker_official_image.png)
 
 ### Installing Docker
 
