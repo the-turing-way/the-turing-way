@@ -9,6 +9,7 @@
 | binder_notebook            | Reproducible environments | Interacting with an example binder via a notebook |
 | binder_terminal            | Reproducible environments | Interacting with an example binder via a terminal |
 | change_stage_repo          | Version control           | Cartoon showing staging and committing changes    |
+| container_example          | Reproducible environments | Demo of a simple container in terminal            |
 | docker_official_image      | Reproducible environments | The official ubuntu docker image with badge       |
 | flipped_taj_mahal          | Version control           | Upside down taj mahal to confuse people           |
 | master_branch              | Version control           | Illustrates commits on master branch              |
