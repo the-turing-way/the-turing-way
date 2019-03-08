@@ -79,7 +79,7 @@ Resource Groups are how the Azure environment manages services that are related 
 We will create a resource group in a specific data location and create computational resources _within_ this group.
 
 ```bash
-az group create --name=shf_test_hub \
+az group create --name=sheff_test_hub \
     --location="West Europe" \
     --output table
 ```
@@ -95,8 +95,8 @@ Somewhere on your machine (e.g. `~/Desktop`), create a folder in which to store 
 This folder should have the same name as the cluster and should be descriptive and short.
 
 ```bash
-mkdir shfhubcluster
-cd shfhubcluster
+mkdir sheffhubcluster
+cd sheffhubcluster
 ```
 
 > **Discussion topic:** As a team of RSEs managing a BinderHub, where would be the best place for folders such as this to live?
@@ -106,7 +106,7 @@ cd shfhubcluster
 Create an SSH key to secure your cluster (further details in [this blog post](https://jumpcloud.com/blog/what-are-ssh-keys-b/)). **Keep these files safe.**
 
 ```bash
-ssh-keygen -f ssh-key-shfhubcluster
+ssh-keygen -f ssh-key-sheffhubcluster
 ```
 When prompted for a password, you can choose to leave this blank.
 Some text will be printed to the terminal which you don't need to do anything with.
@@ -120,9 +120,9 @@ For information on other types of virtual machines available, [see here](https:/
 **N.B.:** If you are _not_ using a Free Trial subscription, try setting `--node-count` to **3** instead.
 
 ```bash
-az aks create --name shfhubcluster \
-    --resource-group shf_test_hub \
-    --ssh-key-value ssh-key-shfhubcluster.pub \
+az aks create --name sheffhubcluster \
+    --resource-group sheff_test_hub \
+    --ssh-key-value ssh-key-sheffhubcluster.pub \
     --node-count 1 \
     --node-vm-size Standard_D2s_v3 \
     --output table
@@ -140,10 +140,11 @@ az aks create --name shfhubcluster \
 ### 7. Get credentials from Azure for `kubectl` <a name="aks-step7"></a>
 
 This step automatically updates your Kubernetes client configuration file to be configured with the cluster we've just deployed.
+This allows `kubectl` to be "logged-in" to the Kubernetes cluster you just deployed on Azure.
 
 ```bash
-az aks get-credentials --name shfhubcluster \
-    --resource-group shf_test_hub \
+az aks get-credentials --name sheffhubcluster \
+    --resource-group sheff_test_hub \
     --output table
 ```
 * `--name` is the cluster name defined in [Step 4: Choose a Cluster Name](#aks-step4).
@@ -176,7 +177,7 @@ Tiller runs inside your Kubernetes cluster as a pod in the `kube-system` namespa
 Tiller manages _releases_ (installations) and _revisions_ (versions) of charts deployed on the cluster.
 When you run a `helm` command, the local Helm client sends instructions to `tiller` in the cluster which in turn makes the requested changes.
 
-> **Did you know?:** Kubernetes is Greek for "captain" or "helmsman". Get ready for the nautical theme!
+> **Did you know?:** Kubernetes is Greek for "captain" or "helmsman". In case you haven't noticed the nautical theme!
 
 ### 1. Setup a `ServiceAccount` for `tiller` <a name="helm-step1"></a>
 
@@ -212,7 +213,7 @@ helm init --service-account tiller --wait
 Secure `tiller` from access inside the cluster.
 
 `tiller`s port is exposed in the cluster without authentication and if you probe this port _directly_ (i.e. by bypassing `helm`) then `tiller`s permissions can be exploited.
-This step forces `tiller` to listen to commands from `localhost` (i.e. `helm`) _only_ so that e.g. other pods inside the cluster cannot ask `tiller` to install a new chart granting them arbitrary, elevated RBAC privileges and exploit them.
+This step forces `tiller` to listen to commands from `localhost` (i.e. `helm`) _only_ so that e.g. other pods inside the cluster cannot ask `tiller` to install a new chart. For example, this could give other pods arbitrary, elevated privileges to exploit.
 More details [here](https://engineering.bitnami.com/articles/helm-security.html).
 
 ```bash
@@ -252,8 +253,8 @@ Before we install a BinderHub, we need to configure several pieces of informatio
 
 Create a folder named after your BinderHub.
 ```bash
-mkdir shf_test_hub
-cd shf_test_hub
+mkdir sheff_test_hub
+cd sheff_test_hub
 ```
 
 We created this folder at the same level as the cluster folder we created in [Step 4: Choose a Cluster Name](#aks-step4) (i.e. in `~/Desktop`).
@@ -286,7 +287,7 @@ registry:
   username: <docker-id>
   password: <password>
 ```
-**N.B.:** `registry` is on the same level as `jupyterhub`.
+**N.B.:** `registry` is on the same indentation level as `jupyterhub`.
 
 > **Discussion topic:** Is it possible to encrypt this information?
 
@@ -318,8 +319,8 @@ helm repo update
 Next, install the required Helm chart using the config files we created in Steps [2: Create a `secret.yaml` file](#bh-step2) and [3: Create a `config.yaml` file](#bh-step3).
 ```bash
 helm install jupyterhub/binderhub --version=0.2.0-3b53fce \
-    --name=shfhub \
-    --namespace=shfhub \
+    --name=sheff-hub \
+    --namespace=sheff-hub \
     -f secret.yaml -f config.yaml
 ```
 * `--version` refers to the version of the BinderHub Helm Chart.
@@ -336,19 +337,19 @@ You may need to wait a few moments before moving on as the resources may take a 
 Print the IP address of the JupyterHub that was just deployed by running the following command.
 It will be listed in the `EXTERNAL-IP` field.
 ```bash
-kubectl --namespace=shfhub get svc proxy-public
+kubectl --namespace=sheff-hub get svc proxy-public
 ```
 
 Copy this IP address and add the following line to `config.yaml`.
 ```yaml
 hub_url: http://<IP address in EXTERNAL-IP field from above>
 ```
-**N.B.:** `hub_url` is at the same level as `use_registry` and `image_prefix` in [Step 3: Create a `config.yaml` file](#bh-step3).
+**N.B.:** `hub_url` is at the same indentation level as `use_registry` and `image_prefix` in [Step 3: Create a `config.yaml` file](#bh-step3).
 Click [here](#config) for a complete example `config.yaml` file.
 
 Now upgrade the Helm chart to deploy the change.
 ```bash
-helm upgrade shfhub jupyterhub/binderhub \
+helm upgrade sheff-hub jupyterhub/binderhub \
     --version=0.2.0-3b53fce \
     -f secret.yaml -f config.yaml
 ```
@@ -358,7 +359,7 @@ helm upgrade shfhub jupyterhub/binderhub \
 
 Find the IP address of your BinderHub under the `EXTERNAL-IP` field.
 ```bash
-kubectl --namespace=shfhub get svc binder
+kubectl --namespace=sheff-hub get svc binder
 ```
 
 Copy the IP address into your browser and your BinderHub should be waiting.
@@ -377,7 +378,7 @@ You can enable authentication for BinderHub by using JupyterHub as an oauth prov
 ### 1. Editing `config.yaml` <a name="auth-step1"></a>
 
 First add `auth_enabled: true` under the `config: BinderHub:` key.
-Then add the following as a top level key.
+Then add the following as an unindented level key.
 
 **N.B.:** In the following, `binderhub_url` is the IP address you visit to reach your Binder launch page (i.e. the output of [Step 6: Try out your BinderHub deployment!](#bh-step6)) and `jupyterhub_url` is the IP address listed under `config: BinderHub: hub_url:` and the top of `config.yaml`.
 
@@ -438,7 +439,7 @@ Copy these into the `clientId` and `clientSecret` fields, as strings, respective
 
 To apply the config changes, we need to upgrade the deployed Helm chart using the same command as in [Step 5: Connect JupyterHub and BinderHub](#bh-step5).
 ```bash
-helm upgrade shfhub jupyterhub/binderhub \
+helm upgrade sheff-hub jupyterhub/binderhub \
     --version=0.2.0-3b53fce \
     -f secret.yaml -f config.yaml
 ```
@@ -456,16 +457,16 @@ This involves deleting the Helm release and all of the computing resources in Az
 
 First we delete the Helm release that installed the JupyterHub and BinderHub and any resources that it created.
 ```bash
-helm delete shfhub --purge
+helm delete sheff-hub --purge
 ```
-**N.B.:** `shfhub` is the release name we defined in [Step 4: Install BinderHub](#bh-step4).
+**N.B.:** `sheff-hub` is the release name we defined in [Step 4: Install BinderHub](#bh-step4).
 
 ### 2. Delete the Kubernetes Namespace <a name="td-step2"></a>
 
 Next we delete the Kubernetes namespace the hub was installed in.
 This will delete any disks that were created to store user's data and any IP addresses.
 ```bash
-kubectl delete namespace shfhub
+kubectl delete namespace sheff-hub
 ```
 
 ### 3. Delete your Resource Group <a name="td-step3"></a>
@@ -477,11 +478,11 @@ az group list --output table
 
 You can then delete the group for your BinderHub.
 ```bash
-az group delete --name shf_test_hub
+az group delete --name sheff_test_hub
 ```
 **N.B.:**
   * Be careful to select the correct resource group as this step will irreversibly delete all the resources in that group!
-  * `shf_test_hub` is the `name`/`namespace` we created in [Step 3: Create a Resource Group](#aks-step3).
+  * `sheff_test_hub` is the `name`/`namespace` we created in [Step 3: Create a Resource Group](#aks-step3).
 
 You can use the [Azure Portal](https://azure.microsoft.com/en-gb/features/azure-portal/) to double check all of your resources have been deleted.
 It may take a few minutes to clear up, but nothing relating to your BinderHub should remain after this step.
