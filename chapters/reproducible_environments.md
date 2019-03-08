@@ -708,9 +708,9 @@ The `ADD` command has the same capabilities as `COPY`, but it can also be used t
 
 Here's what happens if a container is opened from an image called book_example built from the example above:
 
-![container_example](../figures/container_example)
+![container_example](../figures/container_example.png)
 
-As you can see the directory "project" has been created, and if we look inside the project files "analysis.py" and "data.csv" have been copied into it. Because the software required for the project has alredy been included by the Dockerfile in the image the "analysis.py" script runs without any further software needing to be installed. 
+As you can see the directory "project" has been created, and if we look inside the project files "analysis.py" and "data.csv" have been copied into it. Because the software required for the project has alredy been included by the Dockerfile in the image the "analysis.py" script runs without any further software needing to be installed.
 
 #### Other commands
 
