@@ -426,7 +426,7 @@ jupyterhub:
 Go to GitHub, click your profile picture (in the top right corner) and select "Settings" from the drop down menu.
 At the bottom of the list on the left, select "Developer settings", then click "New OAuth App".
 
-Fill in the form using your `binderhub_url` and `jupyter_url` (see image below) and click "Register Application".
+Fill in the form using your `binderhub_url` and `jupyter_url` from [Step 1: Editing `config.yaml`](#auth-step1) (see image below) and click "Register Application".
 The URL entered into the "Authorization callback URL" field **must** match your `auth: github: callbackUrl:` in your `config.yaml`.
 
 <html><img src="github_oauth.png" alt="github_oauth" height="578" width="561"></html>
