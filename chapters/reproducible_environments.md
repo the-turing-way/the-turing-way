@@ -655,12 +655,38 @@ Here are a few key commands for creating and working with containers.
   ```
   sudo docker image ls
   ```
+- To remove an image run
+  ```
+  sudo docker rmi image_name
+  ```
 - To open a container from an image run
   ```
   sudo docker run -i -t image_name
   ```
   The `-i -t` flags automatically open up an interactive terminal within the container so you can view and interact with the project files.
-- To close a container use either `Ctrl+P Ctrl_Q` or `Ctrl+C`.
+- To exit an interactive terminal use the command `exit`.
+- To get a list of active containers with IDs run
+  ```
+  sudo docker container ls
+  ```
+- There are also three main commands used for changing the status of containers:
+  - Pausing suspends the process running the container. Containers can be unpaused by replacing `pause` with `unpause`.
+    ```
+    sudo docker container_ID pause
+    ```
+  - Stopping a container terminates the process running it. A container must be stopped before it can be deleted.
+    ```
+    sudo docker container_ID stop
+    ```
+    A stopped container can be restarted by replacing `stop` with `restart`.
+  - If `stop` does not work containers can be killed using
+    ```
+    sudo docker container_ID kill
+    ```
+- To remove a container run
+  ```
+  sudo docker rm container_ID
+  ```
 
 <a name="Writing_Dockerfiles"></a>
 ### Writing Dockerfiles
@@ -797,41 +823,26 @@ This excludes from the context:
 
 ### Sharing images
 
-- Now onto publishing and sharing dockerfiles. Made an account on [https://hub.docker.com/](https://hub.docker.com/).
-- Logged into docker via my terminal using `sudo docker login`
-- "The notation for associating a local image with a repository on a registry is username/repository:tag. The tag is optional, but recommended, since it is the mechanism that registries use to give Docker images a version." Did `sudo docker tag friendlyhello rjarnold/learning_docker:first_image_online`
-- Pushed the image to my account online by `sudo docker tag push rjarnold/learning_docker:first_image_online`
-- Refreshed the webpage with my account, the repository had been automatically create and the image placed within it.
-- Now try running the image on another machine. On another ubuntu machine I tried running `sudo docker run -p 4000:80 rjarnold/learning_docker:first_image_online` Failed because docker wasn't installed on that machine.
-- Installed docker on that machine and tried again. It regonised the image wasn't on my local machine and downloaded it
-- Went to "http://localhost:4000/" and the message was there as expected, so success. It had run without making the directory and files on my machine.
+Docker images can be shared most easily via [DockerHub](https://hub.docker.com/), which requires an account. Say two researchers, Alice and Bob, are collaborating on a project and Alice wishes to share an image of some of her work with Bob.
 
-### Downloading and images and building containers from them
+To do this Alice must:
 
+- Write a Dockerfile to produce an image of her work
+- Build the image. She (being inventive) calls it image_name
+- Go to DockerHub and sign up for an account. Say Alice (again, being inventive) chooses the username username_Alice
+- Log into DockerHub via the terminal on her machine using `sudo docker login`
+- Tag the image of her project on her machine via the command line by supplying the name of the image and using the pattern `username/image_name:version`, so Alice runs the command:
+  ```
+  sudo docker tag image_name username_Alice/image_name:version_1
+  ```
+- Push the image to her DockerHub account using  `sudo docker tag push username_Alice/image_name:version_1`
+- Alice's miage is now online and can be downloaded. Over to Bob...
 
-   - Ran `sudo docker run hello-world`, it downloaded something automatically and then came up with a message saying hello and indicating the installation had been sucessful.
-
-
-
-- Ran the docker image using `sudo docker run -p 4000:80 friendlyhello`, the `-p 4000:80` says to map the container's port (which is 80 as seet in the docker file) to my manchine's 4000 port. As a result when I go to "http://localhost:4000/" on a web browser I get a hello world message, and a note that it couldn't connect to Redis.
-- In the terminal used ctrl+C to end the app and get back to the command line.
-- Can run the app in the background from the get go by adding a `-d` before the `-p`.
-
-*Say can make multiple containers*
-
-- Did that then ran `sudo docker container ls` to get a list of active containers which showed that one with a container ID which looks like a git SHA.
-- Did `sudo docker container stop the_SHA_like_thing` and the container stopped, so I no longer got the message I got before at "http://localhost:4000/", and when I ls the containers there's none because there's none running.
-- Redid it using port 3000 instead of 4000 and it worked fine, so 4000 isn't special.
-- Looking at [this](https://www.tutorialspoint.com/docker/docker_images.htm) tutorial (not open I don't think)
-- To remove an image do `sudo docker rmi image_name_or_sha`
-- There's docker kill, stop, pause, and unpause. Pause suspends processes running in the container, stop terminates them, kill is for terminating them when you don't case about being graceful about it. There's also restart which restarts after a stop. The syntax for using any of these is `sudo docker what_you_want_to_do container_ID`. Use exit to get out of the interactive bash shell if you started one.
-- use `sudo docker rm container_ID` to remove a container.
-
-- Now looking at [this](https://geohackweek.github.io/Introductory/docker-tutorial_temp/) tutorial **Creative Commons Attribution 3.0 Unported**
-- If I then run `docker run -i -t geohackweek2016/arraystutorial` then that image runs. The `-i -t` means that once I hit enter then I get a prefix "root@SHA_type_thing" in the terminal which I can then do standard linux commands with within the container. After experimenting with my own images find generally need `/bin/bash` at the end of this command on order to get the terminal as well as the `-i -t`. Not 100% sure why it wasn't needed for this example, maybe something in the dockerfile. Yeah. If you have `CMD ["/bin/bash"]` in the dockerfile then you don't need to have it when you run the container.
-- When I do `ls` I see the stuff in the continer which is comletly different to the directory I ran the image in.
-
-
+Bob (assuming he already has Docker installed) can run Alice's image simply by running
+```
+sudo docker run -i -t username_Alice/image_name:version_1
+```
+Initially Docker will search for this image on Bob's machine, and when it doesn't find it it will *automatically* search DockerHub, download Alice's image, and open a container with Alice's work on Bob's machine.
 
 ### Copying files to and from running containers
 
@@ -997,7 +1008,7 @@ This excludes from the context:
 - [What is docker](https://opensource.com/resources/what-docker) **CC BY-SA 4.0**
 - [What are containers](https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ) **CC BY-SA 4.0**
 - [Docker carpentry](http://www.manicstreetpreacher.co.uk/docker-carpentry/aio/) **Creative Commons Attribution 4.0**
-
+- [Geohackweek tutorial](https://geohackweek.github.io/Introductory/docker-tutorial_temp/) **Creative Commons Attribution 3.0 Unported**
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
