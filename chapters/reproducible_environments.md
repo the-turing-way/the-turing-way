@@ -642,6 +642,7 @@ In Docker the recipe files used to generate images are known as Dockerfiles, and
 
 Installers for Docker on a variety of different systems are available [here](https://docs.docker.com/install/). Detailed installation instructions are also available for a variety of operating systems such as [ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/), [debian](https://docs.docker.com/install/linux/docker-ce/debian/), [Macs](https://docs.docker.com/docker-for-mac/install/), and [Windows](https://docs.docker.com/docker-for-windows/install/).
 
+<a name="Key_commands"></a>
 ### Key commands
 
 Here are a few key commands for creating and working with containers.
@@ -659,7 +660,9 @@ Here are a few key commands for creating and working with containers.
   sudo docker run -i -t image_name
   ```
   The `-i -t` flags automatically open up an interactive terminal within the container so you can view and interact with the project files.
+- To close a container use either `Ctrl+P Ctrl_Q` or `Ctrl+C`.
 
+<a name="Writing_Dockerfiles"></a>
 ### Writing Dockerfiles
 
 Lets go through the anatomy of a very simple Dockerfile:
@@ -688,11 +691,9 @@ RUN mkdir project
 COPY project_files/* project/
 ```
 
-This looks complicated, but most of the lines in this example are comments (which are preceded by `#`s), There are only nine lines of actual code. The first of these is a `FROM` statement specifying a base image. All Dockerfiles require a FROM, even if it's just `FROM SCRATCH`.  All the following commands in a Dockerfile build upon the base image to make a functioning version of the researcher's project. In this example
-
 It is worth spending time carefully choosing an appropriate base image as doing do can reduce the amount of work involved in writing a Dockerfile dramatically. For example a collection of images with the R programming language included in them can be found [here](https://github.com/rocker-org/rocker-versioned). If a project makes use of R it is convenient to use one of these as a base image rather than spend time writing commands in your Dockerfile to install R.
 
-The biggest block on lines comes next, it's a series of `RUN` statements, which run shell command when building the image. In this block they are used to install the software necessary to run the project. Run commands can also be chained as follows if desired:
+The biggest block of lines comes next, it's a series of `RUN` statements, which run shell command when building the image. In this block they are used to install the software necessary to run the project. Run commands can also be chained as follows if desired:
 ```
 RUN command_to_do_thing_1 \
    command_to_do_thing_2 \
@@ -700,28 +701,62 @@ RUN command_to_do_thing_1 \
    command_to_do_thing_4
 ```
 
-Another RUN statement is used to run the shell command `RUN mkdir project` which makes a directory called project.
+Another RUN statement is used to run the shell command `RUN mkdir project` which makes a directory called project in the container to host the files related to this project.
 
-Finally the `COPY` command is used to copy the project files into the image. The syntax of this command is `COPY file_to_copy location_in_container_to_copy_to`. In this example all the files in the "project_files" directory are included in the "project" file in the container. Note that you can only copy files from the directory where the dockerfile is located, or subdirectories within it.
+Finally the `COPY` command is used to copy the project files from the machine building the image into the image itself. The syntax of this command is `COPY file_to_copy location_in_container_to_copy_to`. In this example all the files in the "project_files" directory are included in the "project" file in the container. Note that you can only copy files from the directory where the Dockerfile is located, or subdirectories within it (in the example given here the project_files subdirectory).
 
-The `ADD` command has the same capabilities as `COPY`, but it can also be used to add files not on the machine building the image. For example it can be used to include files hosted online by following ADD with the URL to the file.
+The `ADD` command has the same capabilities as `COPY`, but it can also be used to add files not on the machine building the image. For example it can be used to include files hosted online by following ADD with a URL to the file. It is good practice to use `COPY` except where `ADD` is specifically required as the term `COPY` is more explicit about what is being done.
 
 Here's what happens if a container is opened from an image called book_example built from the example above:
 
 ![container_example](../figures/container_example.png)
 
-As you can see the directory "project" has been created, and if we look inside the project files "analysis.py" and "data.csv" have been copied into it. Because the software required for the project has alredy been included by the Dockerfile in the image the "analysis.py" script runs without any further software needing to be installed.
+As you can see the directory "project" has been created, and if we look inside the project files "analysis.py" and "data.csv" have been copied into it. Because the software required for the project has already been included by the Dockerfile in the image the "analysis.py" script runs without any further software needing to be installed.
+
+#### WORKDIR
+
+This command can be used in Dockerfiles to change the current working directory. Commands that follow this in the Dockerfile will be applied within the new working directory unless/until another WORKDIR changes the working directory. When a container is opened with an interactive terminal the terminal will open in the final working directory. Here's a simple example of a Dockerfile that uses `WORKDIR`, and the container it generates.
+```
+# Basic setup
+FROM ubuntu
+RUN apt-get update
+
+# Make a directory called A
+RUN mkdir A
+
+# Make the working directory A
+WORKDIR A
+
+# Make two directories, one called B_1 and one called B_2
+RUN mkdir B_1
+RUN mkdir B_2
+```
+
+![workdir_example](../figures/workdir_example.png)
+
+WORKDIR should be used whenever changing directories is necessary when building an image. It may be tempting to use `RUN cd directory_name` instead as this syntax will be more familiar to those that commonly work via the command line, but this can lead to errors. After each `RUN` statement in a Dockerfile the image is saved, any following commands are applied to the image anew. As an example here is what happens in the above example if the `WORKDIR A` line is swapped for `RUN cd A`
+
+![cd_example](../figures/cd_example.png)
+
+All the directories have are in the top level in this case, rather than B_1 and B_2 being inside A. This is because the image was restarted after the `RUN cd A` command and opened at the top (root) level by default, so that is where the `mkdir B_1` and `mkdir B_2` commands took effect.
 
 #### Other commands
 
 Other commands that are sometimes used in Dockerfiles include:
 
-- WORKDIR: Change the current working directory. Commands that follow this in the Dockerfile will be applied within the new working directory unless/until another WORKDIR changes the working directory. When a container is opened with an interactive terminal the terminal will open in the final working directory.
-- VOLUMES: These will be discussed [later](#Volumes).
-- MAINTAINER: information regarding the person that wrote the Dockerfile. Typically included at the top of a Dockerfile.
-- EXPOSE: This includes ports that should be exposed, this is more relevant to people using Docker to share apps.
-- USER: Change the user that a command is run as (useful for dropping privileges)
+- `CMD`: This is used to run commands as soon as the container is opened. To clarify this is different to RUN commands which are commands run as part of *setting up* a container. For example to have a welcome message when a container is opened from the image CMD could be used as follows:
+  ```
+  CMD ["echo","Welcome! You just opened this container!"]
+  ```
+  It's good practice to use CMD for any commands that need to be run before someone starts working in the container instead of forcing users to do run them themselves (and trusting that they will even know that they need to).
+- `VOLUMES`: These will be discussed [later](#Volumes).
+- `MAINTAINER`: information regarding the person that wrote the Dockerfile. Typically included at the top of a Dockerfile.
+- `EXPOSE`: This includes ports that should be exposed, this is more relevant to people using Docker to share apps.
+- `USER`: Change the user that a command is run as (useful for dropping privileges)
 
+### Building images and .dockerignore files.
+
+<<<<<<< HEAD
       ```
       CMD [“echo”,”Image created”]
       ```
@@ -730,14 +765,21 @@ Other commands that are sometimes used in Dockerfiles include:
     - It's good practice to use CMD for anything that is going to need to be run before someone starts working in the container. You *can* just follow the instreuction to run the container with a command (e.g `docker run containerID echo Imange created`)  and it'll have the same impact, but then you're relying on whoever is trying to run the container to know they need to follow that up with the command required. Putting it in the Dockerfile means it'll always be run.
     - Made directories within the container, but when I try using run to cd in and then making another directory within. Didn't work. Asked, this is because each RUN saves and deletes the previous container, then makes a new one from that point, does its run thing, then saves and is deleted and so on. Each layer is like a commit. As a result my RUNing cd into the directory doesn't matter because the next RUN statement restarts the container fresh so the next mkdir goes into the top level. According to David and Will I can use && to have multiple commands on one RUN, but when I try it it doesn't work.
     - It's good practice to use .dockerignore files. When you build an image everything in the dockerfile's directory and below is sent to the Docker daemon (which may or may not be on the same machine as where your running the command) to build the image. It uses the dockerfile and the context to build the image. If you're got lots of big files in your context that aren't needed for your image then you're sending the daemon those huge files for nothing. You can make sure they're not sent by including them in a .dockerignore file. You can use syntax like for example `*.png` for example to ignore lots fo different files with similar names/types with few lines.
+=======
+When you build an image everything in the Dockerfile's directory and below (this is called the "context") is sent to the Docker daemon to build the image. The deamon uses the Dockerfile and its context to build the image. If the context contains many large files which aren't needed for building the image (old datafiles, for example) then it is a waste of time sending them to the daemon, and doing do can make the process of building an image slow. You can exclude files from the context by listing them in a text file called .dockerignore.
+>>>>>>> Finish how to write Dockerfiles section
+
+The files do not need to be listed individually in the .dockerignore file. Here is an example where
 
 
-### Building images
+You can use syntax like for example `*.png` for example to ignore lots of different files with similar names/types with few lines.
 
 - Made a new directory (docker-practice) and cd into in.rjarnold/learning_docker:first_image_online
 
 - Then built the docker image and called it "friendlyhello" using `sudo docker build --tag=friendlyhello .`.
 - Did `sudo docker image ls` and the firndlyhello image was listed along with hello-world
+
+    - It's good practice to use .dockerignore files.
 
 ### Sharing images
 
