@@ -50,7 +50,18 @@ Recommended skill level: intermediate-advanced.
         - [Large public files](#Large_public_files)
 - [Virtual machines](#Virtual_machines)
 - [Containers](#Containers)
-
+  - [What are containers?](#What_are_containers)
+  - [What_are_images](#What_are_images)
+  - [What is Docker?](#What_is_Docker)
+  - [Installing Docker](#Installing_Docker)
+  - [Key commands](#Key_commands)
+  - [Writing Dockerfiles](#Writing_Dockerfiles)
+    - [WORKDIR](#WORKDIR)
+    - [Other commands](#Other_commands)
+  - [Building images and .dockerignore files](#Building_images_and_dockerignore_files)
+  - [Sharing images](#Sharing_images)
+  - [Copying files to and from containers](#Copying_files_to_and_from_containers)
+  - [Volumes](#Volumes)
 
 
 ## Summary
@@ -741,6 +752,7 @@ Here's what happens if a container is opened from an image called book_example b
 
 As you can see the directory "project" has been created, and if we look inside the project files "analysis.py" and "data.csv" have been copied into it. Because the software required for the project has already been included by the Dockerfile in the image the "analysis.py" script runs without any further software needing to be installed.
 
+<a name="WORKDIR"></a>
 #### WORKDIR
 
 This command can be used in Dockerfiles to change the current working directory. Commands that follow this in the Dockerfile will be applied within the new working directory unless/until another WORKDIR changes the working directory. When a container is opened with an interactive terminal the terminal will open in the final working directory. Here's a simple example of a Dockerfile that uses `WORKDIR`, and the container it generates.
@@ -768,6 +780,7 @@ WORKDIR should be used whenever changing directories is necessary when building 
 
 All the directories have are in the top level in this case, rather than B_1 and B_2 being inside A. This is because the image was restarted after the `RUN cd A` command and opened at the top (root) level by default, so that is where the `mkdir B_1` and `mkdir B_2` commands took effect.
 
+<a name="Other_commands"></a>
 #### Other commands
 
 Other commands that are sometimes used in Dockerfiles include:
@@ -782,7 +795,8 @@ Other commands that are sometimes used in Dockerfiles include:
 - `EXPOSE`: This includes ports that should be exposed, this is more relevant to people using Docker to share apps.
 - `USER`: Change the user that a command is run as (useful for dropping privileges)
 
-### Building images and .dockerignore files.
+<a name="Building_images_and_dockerignore_files"></a>
+### Building images and .dockerignore files
 
 As mentioned in the [key commands](#Key_commands) section, to build an image open a terminal in the same directory as the Dockerfile to be used and run
 ```
@@ -805,6 +819,7 @@ This excludes from the context:
 - All files within the data_files directory
 - The file named "file_to_exclude.txt"
 
+<a name="Sharing_images"></a>
 ### Sharing images
 
 Docker images can be shared most easily via [DockerHub](https://hub.docker.com/), which requires an account. Say two researchers, Alice and Bob, are collaborating on a project and Alice wishes to share an image of some of her work with Bob.
