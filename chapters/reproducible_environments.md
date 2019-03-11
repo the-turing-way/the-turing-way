@@ -758,19 +758,26 @@ Other commands that are sometimes used in Dockerfiles include:
 
 ### Building images and .dockerignore files.
 
-When you build an image everything in the Dockerfile's directory and below (this is called the "context") is sent to the Docker daemon to build the image. The deamon uses the Dockerfile and its context to build the image. If the context contains many large files which aren't needed for building the image (old datafiles, for example) then it is a waste of time sending them to the daemon, and doing do can make the process of building an image slow. You can exclude files from the context by listing them in a text file called .dockerignore.
+As mentioned in the [key commands](#Key_commands) section, to build an image open a terminal in the same directory as the Dockerfile to be used and run
+```
+sudo docker build tag=name_to_give_image
+```
 
-The files do not need to be listed individually in the .dockerignore file. Here is an example where
+When an image is built everything in the Dockerfile's directory and below (this is called the "context") is sent to the Docker daemon to build the image. The deamon uses the Dockerfile and its context to build the image. If the context contains many large files which aren't needed for building the image (old datafiles, for example) then it is a waste of time sending them to the daemon, and doing do can make the process of building an image slow. Files cna be excluded from the context by listing them in a text file called .dockerignore, and it is good practise to do so.
 
+The files do not need to be listed individually in the .dockerignore file. Here is an example of the contents of a .dockerignore file:
+```
+*.jpg
+**/*.png
+data_files/*
+file_to_exclude.txt
+```
 
-You can use syntax like for example `*.png` for example to ignore lots of different files with similar names/types with few lines.
-
-- Made a new directory (docker-practice) and cd into in.rjarnold/learning_docker:first_image_online
-
-- Then built the docker image and called it "friendlyhello" using `sudo docker build --tag=friendlyhello .`.
-- Did `sudo docker image ls` and the firndlyhello image was listed along with hello-world
-
-    - It's good practice to use .dockerignore files.  
+This excludes from the context:
+- All jpg files in the same directory as the Dockerfile file
+- All png files in the same directory as the Dockerfile file *or any subdirectories within it*
+- All files within the data_files directory
+- The file named "file_to_exclude.txt"
 
 ### Sharing images
 
