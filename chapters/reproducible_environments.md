@@ -828,7 +828,8 @@ sudo docker run -i -t username_Alice/image_name:version_1
 ```
 Initially Docker will search for this image on Bob's machine, and when it doesn't find it it will *automatically* search DockerHub, download Alice's image, and open the container with Alice's work and environment on Bob's machine.
 
-### Copying files to and from running containers
+<a name="Copying_files_to_and_from_containers"></a>
+### Copying files to and from containers
 
 Containers act much like virtual machines, as a result copying files into and out of them is not as trivial as copying files to different locations within the same computer is.
 
@@ -837,7 +838,7 @@ A file can be copied from the machine running a container into the container usi
 sudo docker cp file_name conteriner_ID:path_to_where_to_put_file/file_name
 ```
 
-Recall that container IDs can be obtained using `sudo doccker container ls`.
+Recall that container IDs can be obtained using `sudo docker container ls`.
 
 A file can be copied from within a container to the machine running the container by running the following command on the machine running the container:
 ```
@@ -848,21 +849,23 @@ If the second part (the `path_to_where_to_put_file/file_name`) is substituted fo
 <a name="Volumes"></a>
 ### Volumes
 
-    - VOLUMES: Directories that should be managed separately from the container (e.g. persistent data that should be kept after the container exits)
+Every time a container is opened from an image that container is completely new. For example say a container is opened and work is done within it, files created, changed, deleted and so on. If that container is then closed and the image it came from is used to start a container none of that work will be in the new one. It will simple have the starting state as described in the image.
 
-- If you do some work in a container, close it, then open a new container from the image your work will be gone because it's building from the start
-- If you need to do work in a container and save it you can make a "volume" where it'll save the work so even if you close the container when you next make one from that image it'll still have your work. Do this by
-  ```
-  sudo docker run -i -t --mount source=my_volume_name,target=/notebooks image_name
-  ```
-  where the target is the directory in the container you're doing work in you want it to save. Then closed and restarted using the same command and my work was still there.
-- Volume related commands:
-  - List volumes: docker volume ls
-  - Delete a volume: docker volume rm VOLUME-NAME
-  - Delete all unattached volumes: docker volume prune
+This can be a problem if a researcher wants to work in a container over a period of time, but there is a way around this using "volumes". These store work done within a container even after it is closed, and can then be used to load that work into future containers.
 
-- use `sudo docker rm container_ID` to remove a container. If you include a -v after the rm then it will also remove any associated volumes.
+To create/use a volume run
+```
+sudo docker run -i -t --mount source=volume_name,target=/target_dirctory image_name
+```
 
+Hopefully you will give your volume a more descriptive name than volume_name. A "target" directory is required, only work within this directory in the container which will be saved in the volume. Once you're done close the container as normal. When you come pack to the project and want to continue your work use the exact same command as above, it will load the work contained in volume_name into the new container, and save any new work there too.
+
+ Volume related commands:
+
+- List volumes: `docker volume ls`
+- Delete a volume: `docker volume rm volume_name`
+- Delete all unattached volumes: `docker volume prune`
+- If, when deleting a container as `-v` is included after `rm` in `sudo docker rm container_ID` any volumes associated with the container will also be deleted.
 
 ### Materials used
 
