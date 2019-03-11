@@ -649,7 +649,7 @@ Here are a few key commands for creating and working with containers.
 
 - To build an image from a Dockerfile go to the directory where the Dockerfile is and run:
   ```
-  sudo docker build tag=name_to_give_image
+  sudo docker build tag=name_to_give_image .
   ```
 - To list the images on your system use
   ```
@@ -802,7 +802,7 @@ You can use syntax like for example `*.png` for example to ignore lots of differ
 =======
 As mentioned in the [key commands](#Key_commands) section, to build an image open a terminal in the same directory as the Dockerfile to be used and run
 ```
-sudo docker build tag=name_to_give_image
+sudo docker build tag=name_to_give_image .
 ```
 
 When an image is built everything in the Dockerfile's directory and below (this is called the "context") is sent to the Docker daemon to build the image. The deamon uses the Dockerfile and its context to build the image. If the context contains many large files which aren't needed for building the image (old datafiles, for example) then it is a waste of time sending them to the daemon, and doing do can make the process of building an image slow. Files cna be excluded from the context by listing them in a text file called .dockerignore, and it is good practise to do so.
@@ -836,25 +836,30 @@ To do this Alice must:
   sudo docker tag image_name username_Alice/image_name:version_1
   ```
 - Push the image to her DockerHub account using  `sudo docker tag push username_Alice/image_name:version_1`
-- Alice's miage is now online and can be downloaded. Over to Bob...
+- Alice's image is now online and can be downloaded. Over to Bob...
 
-Bob (assuming he already has Docker installed) can run Alice's image simply by running
+Bob (assuming he already has Docker installed) can open a container from Alice's image simply by running
 ```
 sudo docker run -i -t username_Alice/image_name:version_1
 ```
-Initially Docker will search for this image on Bob's machine, and when it doesn't find it it will *automatically* search DockerHub, download Alice's image, and open a container with Alice's work on Bob's machine.
+Initially Docker will search for this image on Bob's machine, and when it doesn't find it it will *automatically* search DockerHub, download Alice's image, and open the container with Alice's work and environment on Bob's machine.
 
 ### Copying files to and from running containers
 
-- Move a file from my computer into the container using
-  ```
-  sudo docker cp file_name Sha_or_name_of_container:path_to_pyt_file/file_name
-  ```
-- Created a file inside the container, want to get it out, ran
-  ```
-  sudo docker cp Sha_or_name_of_container:path_to_pyt_file/file_name .
-  ```
-  The full stop meant the file was put where the terminal I was writing in was located. Note for the copying in/out of the container I ran the commands from outside the container, hence needing the sha to point to it.
+Containers act much like virtual machines, as a result copying files into and out of them is not as trivial as copying files to different locations within the same computer is.
+
+A file can be copied from the machine running a container into the container using:
+```
+sudo docker cp file_name conteriner_ID:path_to_where_to_put_file/file_name
+```
+
+Recall that container IDs can be obtained using `sudo doccker container ls`.
+
+A file can be copied from within a container to the machine running the container by running the following command on the machine running the container:
+```
+sudo docker cp conteriner_ID:path_to_file/file_name path_to_where_to_put_file/file_name
+```
+If the second part (the `path_to_where_to_put_file/file_name`) is substituted for a `.` then the file will be copied to whatever directory the terminal running the command is in.
 
 <a name="Volumes"></a>
 ### Volumes
