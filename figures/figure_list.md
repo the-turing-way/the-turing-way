@@ -8,6 +8,7 @@
 | binder_home                | Reproducible environments | Home screen of an example binder                  |
 | binder_notebook            | Reproducible environments | Interacting with an example binder via a notebook |
 | binder_terminal            | Reproducible environments | Interacting with an example binder via a terminal |
+| cd_example                 | Reproducible environments | Example of result of using cd in a Dockerfile     |
 | change_stage_repo          | Version control           | Cartoon showing staging and committing changes    |
 | container_example          | Reproducible environments | Demo of a simple container in terminal            |
 | docker_official_image      | Reproducible environments | The official ubuntu docker image with badge       |
@@ -30,4 +31,5 @@
 | Travis_badge_pass          | Continuous integration    | A readme with a passing Travis badge              |
 | Travis_build               | Continuous integration    | What the Travis dashboard looks like              |
 | two_branches               | Version control           | Illustrates version control master + two branches |
+| workdir_example            | Reproducible environments | Example of using workdir in Dockerfiles           |
 | wtf_per_min.jpg            | Version control           | Good quality code = few wtf per min               |
