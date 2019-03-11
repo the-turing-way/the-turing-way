@@ -1,6 +1,10 @@
 # Paired Examples
 
-* https://github.com/annakrystalli/breaking_dplyr 
-* https://github.com/binder-examples/matplotlib-versions
 * https://github.com/sgibson91/CompEnv-PairedExample-1
-* https://github.com/KirstieJane/CompEnv-PairedExample-2 
+  * Uses command line
+* https://github.com/sgibson91/CompEnv-PairedExample-2
+  * Uses Jupyter Notebooks
+* https://github.com/sgibson91/CompEnv-PairedExample-3
+  * Uses Jupyter Notebooks
+* https://github.com/sgibson91/CompEnv-PairedExample-4
+  * Uses RStudio
