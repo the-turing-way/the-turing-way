@@ -757,6 +757,7 @@ Other commands that are sometimes used in Dockerfiles include:
 ### Building images and .dockerignore files.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
       ```
       CMD [“echo”,”Image created”]
       ```
@@ -765,21 +766,34 @@ Other commands that are sometimes used in Dockerfiles include:
     - It's good practice to use CMD for anything that is going to need to be run before someone starts working in the container. You *can* just follow the instreuction to run the container with a command (e.g `docker run containerID echo Imange created`)  and it'll have the same impact, but then you're relying on whoever is trying to run the container to know they need to follow that up with the command required. Putting it in the Dockerfile means it'll always be run.
     - Made directories within the container, but when I try using run to cd in and then making another directory within. Didn't work. Asked, this is because each RUN saves and deletes the previous container, then makes a new one from that point, does its run thing, then saves and is deleted and so on. Each layer is like a commit. As a result my RUNing cd into the directory doesn't matter because the next RUN statement restarts the container fresh so the next mkdir goes into the top level. According to David and Will I can use && to have multiple commands on one RUN, but when I try it it doesn't work.
     - It's good practice to use .dockerignore files. When you build an image everything in the dockerfile's directory and below is sent to the Docker daemon (which may or may not be on the same machine as where your running the command) to build the image. It uses the dockerfile and the context to build the image. If you're got lots of big files in your context that aren't needed for your image then you're sending the daemon those huge files for nothing. You can make sure they're not sent by including them in a .dockerignore file. You can use syntax like for example `*.png` for example to ignore lots fo different files with similar names/types with few lines.
-=======
+
 When you build an image everything in the Dockerfile's directory and below (this is called the "context") is sent to the Docker daemon to build the image. The deamon uses the Dockerfile and its context to build the image. If the context contains many large files which aren't needed for building the image (old datafiles, for example) then it is a waste of time sending them to the daemon, and doing do can make the process of building an image slow. You can exclude files from the context by listing them in a text file called .dockerignore.
->>>>>>> Finish how to write Dockerfiles section
 
 The files do not need to be listed individually in the .dockerignore file. Here is an example where
 
 
 You can use syntax like for example `*.png` for example to ignore lots of different files with similar names/types with few lines.
+=======
+As mentioned in the [key commands](#Key_commands) section, to build an image open a terminal in the same directory as the Dockerfile to be used and run
+```
+sudo docker build tag=name_to_give_image
+```
 
-- Made a new directory (docker-practice) and cd into in.rjarnold/learning_docker:first_image_online
+When an image is built everything in the Dockerfile's directory and below (this is called the "context") is sent to the Docker daemon to build the image. The deamon uses the Dockerfile and its context to build the image. If the context contains many large files which aren't needed for building the image (old datafiles, for example) then it is a waste of time sending them to the daemon, and doing do can make the process of building an image slow. Files cna be excluded from the context by listing them in a text file called .dockerignore, and it is good practise to do so.
 
-- Then built the docker image and called it "friendlyhello" using `sudo docker build --tag=friendlyhello .`.
-- Did `sudo docker image ls` and the firndlyhello image was listed along with hello-world
+The files do not need to be listed individually in the .dockerignore file. Here is an example of the contents of a .dockerignore file:
+```
+*.jpg
+**/*.png
+data_files/*
+file_to_exclude.txt
+```
 
-    - It's good practice to use .dockerignore files.
+This excludes from the context:
+- All jpg files in the same directory as the Dockerfile file
+- All png files in the same directory as the Dockerfile file *or any subdirectories within it*
+- All files within the data_files directory
+- The file named "file_to_exclude.txt"
 
 ### Sharing images
 
