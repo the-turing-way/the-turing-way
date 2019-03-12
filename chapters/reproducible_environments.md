@@ -65,8 +65,8 @@ Recommended skill level: intermediate-advanced.
 
 
 ## Summary
-> easy to understand summary - a bit like tl;dr
 
+Every computer has its own unique computational environment consisting of its operating system, what software it has installed what versions of software packages are installed, and other features. As a result if some research is done on one computer and then it and all its associated files are transferred to a different computer there is no guarantee the analysis will even be able to run, let alone generate the same results. Therefore in order for research to be reproducible the computational environment it was conducted in must be captured in such a way that it can be replicated by others. This chapter describes a variety of methods for capturing computational environments and gives guidance on their strengths and weaknesses.
 
 ### What is a computational environment?
 
