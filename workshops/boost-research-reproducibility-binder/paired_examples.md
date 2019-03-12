@@ -11,17 +11,17 @@ The key point is that there can be **very small differences between branches wit
 
 In the examples with branches (2, 3 and 4) we ask you to see the difference between those two branches and explain why the code runs differently.
 
-* https://github.com/sgibson91/CompEnv-PairedExample-1
+* https://github.com/alan-turing-institute/CompEnv-Ex1
   * Uses command line.
     This is a bit of a tricksy python problem.
     Follow the instructions but feel free to ask if you're not sure what's going on.
-* https://github.com/sgibson91/CompEnv-PairedExample-2
+* https://github.com/alan-turing-institute/CompEnv-Ex2
   * Uses Jupyter Notebooks.
     The answer is simple (don't overthink it!).
-* https://github.com/sgibson91/CompEnv-PairedExample-3
+* https://github.com/alan-turing-institute/CompEnv-Ex3
   * Uses Jupyter Notebooks.
     This one is really quite hard...don't try this one first!
-* https://github.com/sgibson91/CompEnv-PairedExample-4
+* https://github.com/alan-turing-institute/CompEnv-Ex4
   * Uses RStudio.
     Great if you're an R user, a little idiosyncratic if you don't use R regularly.
 
