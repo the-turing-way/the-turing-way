@@ -1,16 +1,5 @@
 # Reproducible environments
 
-- Ways to capture computational environments
-  - Very quick runthrough with advice on **which to use for which circumstances**
-  - Virtual machines
-    - ?
-  - Images and Containers
-    - What are they
-    - How to use Docker to make/share images and run containers (warn need to be ok with it being open unless dockerhub)
-    - **Are there less arduous ways of generating Dockerfiles/images than hand writing them? Yes, build on previous well tested ones**
-    - **Are there standard structures for Dockerfiles/how does a novice know what to include?**
-    - Mention Singularity (+ others maybe) and give a quick pros/cons.
-
 ## Prerequisites / recommended skill level
 
 | Prerequisite | Importance | Notes |
