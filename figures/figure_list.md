@@ -31,5 +31,6 @@
 | Travis_badge_pass          | Continuous integration    | A readme with a passing Travis badge              |
 | Travis_build               | Continuous integration    | What the Travis dashboard looks like              |
 | two_branches               | Version control           | Illustrates version control master + two branches |
+| virtual_machine            | Reproducible environments | Example of a virtual ubuntu machine on windows    |
 | workdir_example            | Reproducible environments | Example of using workdir in Dockerfiles           |
 | wtf_per_min.jpg            | Version control           | Good quality code = few wtf per min               |
