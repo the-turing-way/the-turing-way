@@ -21,5 +21,6 @@
 | reproducibility_kirstie    |                           | Depicts cow code and data relate to good practise |
 | sub_branch                 | Version control           | Illustrates version control branch + sub branch   |
 | two_banches                | Version control           | Illustrates version control master + two branches |
+| virtual_machine            | Reproducible environments | Example of a virtual ubuntu machine on windows    |
 | workdir_example            | Reproducible environments | Example of using workdir in Dockerfiles           |
 | wtf_per_min.jpg            | Version control           | Good quality code = few wtf per min               |    
