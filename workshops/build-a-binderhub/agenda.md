@@ -7,6 +7,6 @@
 * 12.30 - 1.30: Lunch
 * 1.30 - 2.00: Pico-WOW: Contributing to Binder
 * 2.00 - 3:30: Collaborative working
-* 2.45 - 3.00: (Coffee)
+* 2.45 - 3.00: (Coffee halfway through the hack)
 * 3.30 - 4.00: Looking forwards: Progress review, lessons learned and future strategies
 * 4.00 - 5.00: Optional hangout with instructors
