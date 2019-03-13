@@ -7,17 +7,17 @@ The aim of this file is iterate/decide on:
 ## Update from January Sprint
 
 #### Completed Chapters
-- Version Control - @r-j-arnold
+- [Version Control](chapters/version_control.md) - @r-j-arnold
+- [Open Research](chapters/open_research.md) - @r-j-arnold
+- [Reproducibility](chapters/reproducibility.md) - @pherterich
 
 #### WIP
- - Open Science (Open Access, Open Source, Open Data) - @r-j-arnold
- - Reproducibility (definition and why) - @pherterich
+- [Testing for research](https://github.com/alan-turing-institute/the-turing-way/pull/147) - @r-j-arnold and @annakrystalli
+- [Continuous integration](https://github.com/alan-turing-institute/the-turing-way/pull/146) - @r-j-arnold and @annakrystalli
+- [Reproducible Compute Environment](https://github.com/alan-turing-institute/the-turing-way/pull/148) - @r-j-arnold and @annakrystalli
+- [Research Data Management](https://github.com/alan-turing-institute/the-turing-way/pull/196) - @pherterich and @rosiehigman
 
 #### Needed
- - Testing for research - @r-j-arnold and @annakrystalli
-- Continuous integration - @r-j-arnold and @annakrystalli
-- Reproducible Compute Environment - @r-j-arnold and @annakrystalli
-- Research Data Management - @pherterich and @rosiehigman
 - Collaborating (through Github/Gitlab) - @pherterich and @rosiehigman
 - Case studies - @LouiseABowler
 - Checklist - @annakrystalli and @KirstieJane
