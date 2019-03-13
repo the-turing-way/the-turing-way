@@ -643,7 +643,7 @@ To start a virtual machine simply select the machine to start and click the gree
 
 #### Sharing virtual virtual machines
 
-To export a virtual machine click "File" in the top left and then "Export". This will output export the VM as a single file which can be shared like any other.
+A researcher can do work on their VM, and then export the whole thing. To export a virtual machine click "File" in the top left and then "Export". This will output export the VM as a single file which can be shared like any other.
 
 ![VM_export_machine](../figures/VM_export_machine.png)
 
@@ -936,7 +936,10 @@ Hopefully you will give your volume a more descriptive name than volume_name. A 
 - [Geohackweek tutorial](https://geohackweek.github.io/Introductory/docker-tutorial_temp/) **Creative Commons Attribution 3.0 Unported**
 
 ## Checklist
-> this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
+
+- [ ] Choose the most appropriate method for your project for capturing your computational environment
+- [ ] Capture your computational environment
+- [ ] Share your captured computational environment along with your results/analysis 
 
 ## What to learn next
 
