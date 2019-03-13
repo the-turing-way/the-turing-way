@@ -97,10 +97,6 @@ Software versions are often defined via [semantic versioning](https://semver.org
 - MINOR: to add functionality
 - PATCH: for bug fixes
 
-### Materials used
-
-- [semantic versioning](https://semver.org)
-
 <a name="How_this_will_help_you_why_this_is_useful"></a>
 ## How this will help you/ why this is useful
 
@@ -121,11 +117,6 @@ As such it is vital for researcher to understand and capture the computational e
 - Science itself. Scholarly research has evolved significantly over the past decade, the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination – the scholarly publication –is largely unchanged since the advent of the scientific journal in the 1660’s. This is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of the need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying analysis and, crucially, the computational environment that produced the findings. For research to be reproducible researchers must publish and distribute the entire contained analysis not just its results. The analysis should be *mobile*. Mobility of compute is defined as the ability to define, create, and maintain a workflow locally while remaining confident that the workflow can be executed elsewhere. In essence, mobility of compute means being able to contain the entire software stack, from data files up through the library stack, and reliability move it from system to system. Any research that is limited to where it can be deployed is instantly limited in the extent that it can be reproduced.
 
 This chapter will describe how to capture, preserve and share computational environments along with code to ensure research is reproducible.
-
-### Materials used
-
-- [A. Brinckman, et al., Computing environments for reproducibility: Capturing the "Whole Tale", Future Generation Computer Systems (2018), https://doi.org/10.1016/j.future.2017.12.029](https://www.sciencedirect.com/science/article/pii/S0167739X17310695) **Attribution 4.0 International (CC BY 4.0)**
-- [Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
 
 <a name="Summary_of_ways_to_capture_computational_environments"></a>
 ## Summary of ways to capture computational environments
@@ -188,10 +179,6 @@ The difference is that virtual machines include an entire operating system along
 Containers are particularly useful if projects need to be able to run on high performance computing environments as, since they already *contain* all the necessary software, they save having to install anything on an unfamiliar system where the researcher may not have the required permissions to  even do so.
 
 Containers also force researcher using them to share research to be very explicit about their computational environments which can increase clarity.
-
-### Materials used:
-
-- [Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
 
 <a name="Package_management_systems"></a>
 ## Package management systems
@@ -363,10 +350,6 @@ For example to clone the Project_One environment, and give this new environment 
 conda create --name Project_Two --clone Project_One
 ```
 
-### Materials used
-- [Package Managers](https://opensource.com/article/18/7/evolution-package-managers)
-- [Talk by Will Furnass on Conda](https://github.com/willfurnass/conda-rses-pres/blob/master/content.md) **Attribution-NonCommercial-ShareAlike 4.0 International**
-
 <a name="YAML_files"></a>
 ## YAML files
 
@@ -466,8 +449,6 @@ parsing errors. Just use spaces.
 
 Because of their simplicity YAML files can be hand written. Alternatively they can be automatically generated as discussed [above](#Package_management_systems). From a YAML file a computational environment can be replicated in a few ways.
 
-*Add link to virtual machine section*
-
 - **Manually.** It can be done manually by carefully installing the specified packages etc. Because YAML files can also specify operating systems and versions that may or may not match that of the person trying to replicate the environment this may require the use of a virtual machine.
 - **Via package management systems such as Conda.** As [discussed](#Package_management_systems) as well as being able to generate YAML files from computational environments Conda can also generate computational environments from YAML files.
 
@@ -475,10 +456,6 @@ Because of their simplicity YAML files can be hand written. Alternatively they c
 ### Security issues
 
 There is an inherent risk in downloading/using files you have not written to your computer, and it is possible to include malicious code in YAML files. Do not load YAML files or generate computational environments from them unless you trust their source.
-
-### Materials used
-
-- [yaml tutorial](https://gettaurus.org/docs/YAMLTutorial/) **[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)**
 
 <a name="Binder"></a>
 ## Binder
@@ -629,13 +606,6 @@ The postBuild file is used to execute commands when the files to produce the Bin
 
 The best option for large files is to use a library specific to the data format to stream the data as you are using it. There are a few restrictions on outgoing traffic from your Binder that are imposed by the team operating [mybinder.org](https://mybinder.org). Currently only connections to HTTP and Git are allowed. This comes up when people want to use FTP sites to fetch data. For security reasons FTP is not allowed on [mybinder.org](https://mybinder.org).
 
-### Materials used
-
-- [mybinder docs intro](https://github.com/jupyterhub/binder/blob/master/doc/introduction.rst) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
-- [Original zero to binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
-- [Sarah Gibson's zero to Binder](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder.md) **MIT**
-- [Zero to Binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md)  **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
-
 <a name="Virtual_machines"></a>
 ## Virtual machines
 
@@ -677,10 +647,6 @@ A researcher can do work on their VM, and then export the whole thing. To export
 ![VM_export_machine](../figures/VM_export_machine.png)
 
 Someone that has access to this file just needs to click "File" in the top left and then "Import" and select that file. Once it is imported the can start it as described before by selecting in and then clicking the green start arrow at the top.
-
-### Materials used
-
-- [Bryan Brown LITA blog](https://litablog.org/2014/12/virtual-machines-in-a-nutshell/) **[Copyright granted for educational use](http://www.ala.org/copyright)**
 
 <a name="Containers"></a>
 ## Containers
@@ -1102,13 +1068,6 @@ Hopefully you will give your volume a more descriptive name than volume_name. A 
 - Delete all unattached volumes: `docker volume prune`
 - If, when deleting a container as `-v` is included after `rm` in `sudo docker rm container_ID` any volumes associated with the container will also be deleted.
 
-### Materials used
-
-- [What is docker](https://opensource.com/resources/what-docker) **CC BY-SA 4.0**
-- [What are containers](https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ) **CC BY-SA 4.0**
-- [Docker carpentry](http://www.manicstreetpreacher.co.uk/docker-carpentry/aio/) **Creative Commons Attribution 4.0**
-- [Geohackweek tutorial](https://geohackweek.github.io/Introductory/docker-tutorial_temp/) **Creative Commons Attribution 3.0 Unported**
-
 <a name="Checklist"></a>
 ## Checklist
 
@@ -1133,4 +1092,43 @@ We recommend reading the chapter on Testing, and then the chapter on Continuous 
 <a name="Bibliography"></a>
 ## Bibliography
 
-[Figure](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/) **Permission to use granted by Juliette Taka, Logilab and the OpenDreamKit project.**
+### Materials in the "what is a computational environment" section
+
+- [semantic versioning](https://semver.org)
+
+### Materials in the "how this will help you/why this is useful" section
+
+- [A. Brinckman, et al., Computing environments for reproducibility: Capturing the "Whole Tale", Future Generation Computer Systems (2018), https://doi.org/10.1016/j.future.2017.12.029](https://www.sciencedirect.com/science/article/pii/S0167739X17310695) **Attribution 4.0 International (CC BY 4.0)**
+- [Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
+
+### Materials in the summary of ways to capture computational environments section
+
+- [Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
+
+### Materials in the package management systems section
+
+- [Package Managers](https://opensource.com/article/18/7/evolution-package-managers)
+- [Talk by Will Furnass on Conda](https://github.com/willfurnass/conda-rses-pres/blob/master/content.md) **Attribution-NonCommercial-ShareAlike 4.0 International**
+
+### Materials in the YAML files  section
+
+- [yaml tutorial](https://gettaurus.org/docs/YAMLTutorial/) **[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)**
+
+### Materials in the Binder section
+
+- [Binder illustration](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/) **Permission to use granted by Juliette Taka, Logilab and the OpenDreamKit project.**
+- [mybinder docs intro](https://github.com/jupyterhub/binder/blob/master/doc/introduction.rst) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
+- [Original zero to binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
+- [Sarah Gibson's zero to Binder](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder.md) **MIT**
+- [Zero to Binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md)  **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
+
+### Materials in the virtual machines section
+
+- [Bryan Brown LITA blog](https://litablog.org/2014/12/virtual-machines-in-a-nutshell/) **[Copyright granted for educational use](http://www.ala.org/copyright)**
+
+### Materials in the containers section
+
+- [What is docker](https://opensource.com/resources/what-docker) **CC BY-SA 4.0**
+- [What are containers](https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ) **CC BY-SA 4.0**
+- [Docker carpentry](http://www.manicstreetpreacher.co.uk/docker-carpentry/aio/) **Creative Commons Attribution 4.0**
+- [Geohackweek tutorial](https://geohackweek.github.io/Introductory/docker-tutorial_temp/) **Creative Commons Attribution 3.0 Unported**
