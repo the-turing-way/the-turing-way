@@ -35,7 +35,7 @@ Recommended skill level: intermediate-advanced.
         - [YAML gotchas](#YAML_gotchas)
     - [How to use YAML to define computational environments](#How_to_use_YAML_to_define_computational_environments)
     - [Security issues](#Security_issues)
-- [Binder](#Binder)
+- [Binder](#Binder_section)
     - [Disambiguation](#Disambiguation)
     - [Creating a binder for a project](#Creating_a_binder_for_a_project)
         - [Step 1: Specify your computational environment](#Step_1_Specify_your_computational_environment)
@@ -446,7 +446,7 @@ Because of their simplicity YAML files can be hand written. Alternatively they c
 
 There is an inherent risk in downloading/using files you have not written to your computer, and it is possible to include malicious code in YAML files. Do not load YAML files or generate computational environments from them unless you trust their source.
 
-<a name="Binder"></a>
+<a name="Binder_section"></a>
 ## Binder
 
 Below is a comic to help illustrate what Binder is, and we will expand on it here in the text.
