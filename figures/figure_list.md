@@ -32,5 +32,8 @@
 | Travis_build               | Continuous integration    | What the Travis dashboard looks like              |
 | two_branches               | Version control           | Illustrates version control master + two branches |
 | virtual_machine            | Reproducible environments | Example of a virtual ubuntu machine on windows    |
+| VM_create_machine          | Reproducible environments | How to create a virtual machine in virtualbox     |
+| VM_export_machine          | Reproducible environments | How to export a virtual machine in virtualbox     |
+| VM_start_machine           | Reproducible environments | How to start a virtual machine in virtualbox      |
 | workdir_example            | Reproducible environments | Example of using workdir in Dockerfiles           |
 | wtf_per_min.jpg            | Version control           | Good quality code = few wtf per min               |

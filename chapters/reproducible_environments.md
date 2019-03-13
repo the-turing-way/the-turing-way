@@ -631,7 +631,23 @@ Virtual machines can be shared by exporting them as single files. Another resear
 
 First choose a tool for generating VMs. Here the widely-used [VirtualBox](https://www.virtualbox.org/) is chosen. Download and install it on your system. To create a new machine click "New" in the top left. A window will pop up where you can enter a name for the machine and select its operating system and version of the operating system to use:
 
+![VM_create_machine](../figures/VM_create_machine.png)
 
+As you click through you can adjust other features of the machine to be created such as how much memory it should have access to. The default options are generally fine, but this process permits customisation.
+
+#### Starting a virtual machine
+
+To start a virtual machine simply select the machine to start and click the green "start" arrow at the top:
+
+![VM_start_machine](../figures/VM_start_machine.png)
+
+#### Sharing virtual virtual machines
+
+To export a virtual machine click "File" in the top left and then "Export". This will output export the VM as a single file which can be shared like any other.
+
+![VM_export_machine](../figures/VM_export_machine.png)
+
+Someone that has access to this file just needs to click "File" in the top left and then "Import" and select that file. Once it is imported the can start it as described before by selecting in and then clicking the green start arrow at the top.
 
 ### Materials used
 
