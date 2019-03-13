@@ -931,7 +931,27 @@ The [Docker documentation](https://docs.docker.com/get-started/) contains a lot 
 
 <a name="Definitions_glossary"></a>
 ## Definitions/glossary
-> Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
+
+**Binder:** A web-based service which allows users to upload and share fully-functioning versions of their projects in a computational environment they define.
+
+**Computational environment:** Features of a computer such as its operating system, what software it has installed what versions of software packages are installed which can impact the behaviour of scripts run on it.
+
+**Conda:** A commonly used package management system
+
+**Container:** Lightweight files that can encapsulate and entire computational environment including its operating system, customised settings, software and files.
+
+**Dockerfile:** A file used for creating Docker images
+
+**Image:** Files used for generating containers.
+
+**Package management system:** A tool for installing managing and uninstalling software packages including specific versions.
+
+**Virtual machine:** A simulated computer that can encapsulate and entire computational environment including its operating system, customised settings, software and files.
+
+**YAML:** A human readable/writable markup language which used by many projects use it for configuration files.
+
+
+
 
 <a name="Bibliography"></a>
 ## Bibliography
