@@ -621,19 +621,16 @@ Virtual machines (VMs) essentially package a whole computer as an app that can b
 
 ![virtual_machine](../figures/virtual_machine.png)
 
-Users can download, install, backup and destroy VMs at will, which is part of what makes them an attractive tool for sharing reproducible research. Research often requires specific pieces of software or system settings. If a researcher wishes to reproduce another's work on their won computer making the necessary changes to their environment to run the project may impact their own work. For example near the very start of this chapter it was [described](#How_this_will_help_you_why_this_is_useful) how using a different version of python can lead to unexpected changes in the results of an analysis. Say a researcher installs an updated version of python to replicate an analysis because the analysis requires features only present in the updated version. By doing so they put their own work at risk. VMs remove that risk; any tools downloaded or settings changed will only impact the VM, keeping the reproducer's research safe. If they do inadvertently break something in the VM, they can just delete it and make another one. They are effectively a quarantined area.
+Users can download, install, backup and destroy VMs at will, which is part of what makes them an attractive tool for sharing reproducible research. Research often requires specific pieces of software or system settings. If a researcher wishes to reproduce another's work on their own computer making the necessary changes to their environment to run the project may impact their own work. For example near the very start of this chapter it was [described](#How_this_will_help_you_why_this_is_useful) how using a different version of python can lead to unexpected changes in the results of an analysis. Say a researcher installs an updated version of python to replicate an analysis because the analysis requires features only present in the updated version. By doing so they put their own work at risk. VMs remove that risk; any tools downloaded or settings changed will only impact the VM, keeping the reproducer's research safe. If they do inadvertently break something in the VM, they can just delete it and make another one. They are effectively a quarantined area.
 
 ### Using virtual machines for reproducible research
 
-Virtual machines can be shared
+Virtual machines can be shared by exporting them as single files. Another researcher can then import that file using their own virtualisation software like [VirtualBox](https://www.virtualbox.org/) and open up a copy of the virtual machine which will contain all the software files and settings put in place by the person that made the VM. Therefore in practice they will have a working version of the project without the pain of setting it up themselves.
 
+#### Setting up a virtual machine
 
+First choose a tool for generating VMs. Here the widely-used [VirtualBox](https://www.virtualbox.org/) is chosen. Download and install it on your system. To create a new machine click "New" in the top left. A window will pop up where you can enter a name for the machine and select its operating system and version of the operating system to use:
 
-You can prepackage software on an image as well, which is handy when you and your team want a simple way to play around with some software that might be difficult to install.          a virtual machine containing all the necessary parts configured correctly to create a working instance. This lets newbies who don’t know what they are doing have access to a working version of the project without the pain of setting it up themselves.
-
-
-
----
 
 
 ### Materials used
