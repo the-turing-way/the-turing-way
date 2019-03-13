@@ -82,6 +82,7 @@ Software versions are often defined via [semantic versioning](https://semver.org
 
 - [semantic versioning](https://semver.org)
 
+<a name="How_this_will_help_you_why_this_is_useful"></a>
 ## How this will help you/ why this is useful
 
 Let's go though an example of why computational environments are important. Say I have a very simple python script:
@@ -109,55 +110,64 @@ This chapter will describe how to capture, preserve and share computational envi
 
 ## Summary of ways to capture computational environments
 
+There are a number of ways of capturing computational environments. The major ones covered in this chapter will be package management systems, Binder, virtual machines, and containers. Each have their own pros and cons, and which is the most appropriate for you will depend on the nature of your project.
+
+These can be broadly be split into two categories: those that capture only the software and its versions used in an environment (package management systems, Binder), and those that replicate an entire computational environment including the operating system, any customised settings, etc (virtual machines, containers).
+
+Another way these can be split is by how the reproduced research is presented to the reproducer. Using Binder or a virtual machine creates a much more graphical, GUI-type result, whereas the outputs of containers and package management systems are more easily interacted with via the command line.
 
 <table>
   <tr>
     <th></th>
     <th></th>
-    <th colspan="2">Important transfer machine</th>
+    <th colspan="2">Interaction style</th>
   </tr>
   <tr>
   <th></th>
-	<td></td>
-    <td>Yes</td>
-    <td>No</td>
+  	<td></td>
+    <td>Graphical</td>
+    <td>Command line</td>
   </tr>
   <tr>
-    <th rowspan="2">Complex requirements</th>
-    <td>Yes</td>
+    <th rowspan="2">What is reproduced?</th>
+    <td>Entire system</td>
     <th>Virtual Machine</th>
     <th>Containers</th>
   </tr>
-  <td>No</td>
+  <td>Software and versions</td>
   <th>Binder</th>
   <th>Conda</th>
   <tr>
   </tr>
 </table>
 
-There are a number of ways to capture a computational environment, and which is the most appropriate for you will depend  on the nature of your project. If you are working with languages such as Python and R which have a number of tools for freezing and exporting environments as YAML files (discussed later in this chapter) then using one of those tools is likely the best course of action.
+Here we give a brief description of each of these tools:
 
-*Outline other and why*
+#### Package management systems
 
+Package management systems are tools used to install and keep track of the software (and critically versions of software) used on a system, and can export files specifying these required software packages/versions. The files can be shared with others who can use them to replicate the environment, either manually or via their own package management systems.
 
-- As always prevention is better than a cure! If you can install the specific version at the time of running and not up date it.
-  - requirements.txt say install e.g. matplotlib
-  - Breaks because don't have the right version of matplotlib
-  - install packages that require specific versions of other packages, dependancies.
-  - Useful to have different environments for different projects so that they don't go out of date! https://conda.io/docs/user-guide/tasks/manage-environments.html
-  - Local computational environments
-    - Python `virtualenv` and `venv`, `conda` environments
-    - Equivalent for R
+#### Binder
 
+Binder is a web-based service which allows users to upload and share fully-functioning versions of their projects online which can be accessed and interacted with by others via a web browser. In order to do this Binder requires that the software (and optionally versions) required to run the project are specified. Users can make use of package management systems to do this is they so desire.
 
-The advent of virtual machines [4, 5] introduced the exciting reality than an entire environment, including software dependencies, libraries, runtime code, and data, could be encapsulated and run anywhere. Virtual machines, however, also introduced large computational overhead due to the required level of virtualization for emulating the OS and kernel. With the addition of lightweight virtualization features to the Linux kernel (e.g., namespaces) a new lightweight virtualization, containers [15, 16], became possible to implement. Implementations such as Docker, one of the container solutions made open source in 2013 [15, 16], offered additional improvements over standard virtual machines. Containers could share resources with the host without incurring much of the performance penalties of hardware-level virtualization [17].
+#### Virtual machines
 
-Researchers can develop reproducible containers on their local machines, providing a simple way to collaborate on code or applications without the hassle of having different software versions or broken dependencies. Containers are ideal not just for the final analysis, but for the development of it. A user is most comfortable working with his or her text editor, programs, and environment of choice, and containers make it possible to work locally and develop in a specific environment simultaneously.
+Virtual machines are simulated computers. A user can make a "virtual" computer very easily, specifying the operating system they want it to have among other features, and run it like any other app. Within the app will be the desktop, file system, default software libraries etc of the specified machine which can be interacted with as if it was a real computer. Virtual machines can be easily replicated and shared. This allows researchers to create virtual machines, do work on them, and then save their state along with its operating system, files, settings, everything and distribute their fully-functioning project.
 
-If you need to work with HPC containers save having to install a whole bunch of stuff on the cluster before you can, and installing may not even be possible if you need to download form the internet.
+#### Containers
 
-One of the major factors that prevents Docker from being the standard container technology in HPC is its security concerns. From an IT security perspective, a machine can be considered compromised if any user is able to run arbitrary code as the root user. While Docker takes steps to mitigate the risk of allowing users to run arbitrary code, there is a fatal design flaw that limits Docker’s ability to run in HPC environments: for every container that Docker runs, the container process is spawned as a child of a root owned Docker daemon. As the user is able to directly interact with and control the Docker daemon, it is theoretically possible to coerce the daemon process into granting the users escalated privileges. Any user being able to escalate up to system administrator status, a user called “root”, would introduce unthinkable security risks for a shared compute environment.
-[Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
+Containers offer many of the same benefits of virtual machines. They essentially act as entirely separate machines which can contain their own files, software and settings.
+
+The difference is that virtual machines include an entire operating system along with all the associated software etc that is typically packaged with one- regardless of whether the project actually makes use of that associated software. Containers only contain the software and files explicitly defined within them in order to run the project they contain. This makes them far more light weight than virtual machines.
+
+Containers are particularly useful if projects need to be able to run on high performance computing environments as, since they already *contain* all the necessary software, they save having to install anything on an unfamiliar system where the researcher may not have the required permissions to  even do so.
+
+Containers also force researcher using them to share research to be very explicit about their computational environments which can increase clarity.
+
+### Materials used:
+
+- [Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
 
 <a name="Package_management_systems"></a>
 ## Package management systems
@@ -605,7 +615,30 @@ The best option for large files is to use a library specific to the data format 
 <a name="Virtual_machines"></a>
 ## Virtual machines
 
- Vagrant?
+### What are virtual machines?
+
+Virtual machines (VMs) essentially package a whole computer as an app that can be run. As an example see the figure below which shows a windows laptop (note the windows search button in the lower left corner) running a virtual ubuntu machine (note the terminal outputting the operating system). The machine running the VM is called the "host machine". Using software like [VirtualBox](https://www.virtualbox.org/) or [Vagrant](https://www.vagrantup.com/), a user can create and run any number of VMs. As you could probably guess, having several VMs running at once can be a drain on memory, so just because you can run several at once doesn’t mean you should.
+
+![virtual_machine](../figures/virtual_machine.png)
+
+Users can download, install, backup and destroy VMs at will, which is part of what makes them an attractive tool for sharing reproducible research. Research often requires specific pieces of software or system settings. If a researcher wishes to reproduce another's work on their won computer making the necessary changes to their environment to run the project may impact their own work. For example near the very start of this chapter it was [described](#How_this_will_help_you_why_this_is_useful) how using a different version of python can lead to unexpected changes in the results of an analysis. Say a researcher installs an updated version of python to replicate an analysis because the analysis requires features only present in the updated version. By doing so they put their own work at risk. VMs remove that risk; any tools downloaded or settings changed will only impact the VM, keeping the reproducer's research safe. If they do inadvertently break something in the VM, they can just delete it and make another one. They are effectively a quarantined area.
+
+### Using virtual machines for reproducible research
+
+Virtual machines can be shared
+
+
+
+You can prepackage software on an image as well, which is handy when you and your team want a simple way to play around with some software that might be difficult to install.          a virtual machine containing all the necessary parts configured correctly to create a working instance. This lets newbies who don’t know what they are doing have access to a working version of the project without the pain of setting it up themselves.
+
+
+
+---
+
+
+### Materials used
+
+- [Bryan Brown LITA blog](https://litablog.org/2014/12/virtual-machines-in-a-nutshell/) **[Copyright granted for educational use](http://www.ala.org/copyright)**
 
 <a name="Containers"></a>
 ## Containers
