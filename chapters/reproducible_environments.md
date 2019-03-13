@@ -24,6 +24,14 @@ Recommended skill level: intermediate-advanced.
 
 ## Table of contents
 
+- [Summary](#Summary)
+  - [What is a computational environment?](#What_is_a_computational_environment)
+  - [How this will help you/ why this is useful](#How_this_will_help_you_why_this_is_useful)
+- [Summary of ways to capture computational environments](#Summary_of_ways_to_capture_computational_environments)
+  - [Package management systems](#Package_management_systems_outline)
+  - [Binder](#Binder_outline)
+  - [Virtual machines](#Virtual_machines_outline)
+  - [Containers](#Containers_outline)
 - [Package management systems](#Package_management_systems)
     - [What does Conda do?](#What_does_Conda_do)
     - [Installing Conda](#Installing_Conda)
@@ -49,6 +57,11 @@ Recommended skill level: intermediate-advanced.
         - [Medium public files](#Medium_public_files)
         - [Large public files](#Large_public_files)
 - [Virtual machines](#Virtual_machines)
+  - [What are virtual machines?](#What_are_virtual_machines)
+  - [Using virtual machines for reproducible research](#Using_virtual_machines_for_reproducible_research)
+    - [Setting up a virtual machine](#Setting_up_a_virtual_machine)
+    - [Starting a virtual machine](#Starting_a_virtual_machine)
+    - [Sharing virtual virtual machines](#Sharing_virtual_virtual_machines)
 - [Containers](#Containers)
   - [What are containers?](#What_are_containers)
   - [What_are_images](#What_are_images)
@@ -62,12 +75,18 @@ Recommended skill level: intermediate-advanced.
   - [Sharing images](#Sharing_images)
   - [Copying files to and from containers](#Copying_files_to_and_from_containers)
   - [Volumes](#Volumes)
+- [Checklist](#Checklist)
+- [What to learn next](#What_to_learn_next)
+- [Further reading](#Further_reading)
+- [Definitions/glossary](#Definitions_glossary)
+- [Bibliography](#Bibliography)
 
-
+<a name="Summary"></a>
 ## Summary
 
 Every computer has its own unique computational environment consisting of its operating system, what software it has installed what versions of software packages are installed, and other features. As a result if some research is done on one computer and then it and all its associated files are transferred to a different computer there is no guarantee the analysis will even be able to run, let alone generate the same results. Therefore in order for research to be reproducible the computational environment it was conducted in must be captured in such a way that it can be replicated by others. This chapter describes a variety of methods for capturing computational environments and gives guidance on their strengths and weaknesses.
 
+<a name="What_is_a_computational_environment"></a>
 ### What is a computational environment?
 
 Computational environment is (in broad terms) the system setup where a program is being run. This includes features of hardware (e.g. numbers of cores in any CPUs) and features of software (e.g. the operating system, what programming languages are installed, which supporting packages/versions of those packages are included, what other pieces of software are installed and how are they configured).
@@ -108,6 +127,7 @@ This chapter will describe how to capture, preserve and share computational envi
 - [A. Brinckman, et al., Computing environments for reproducibility: Capturing the "Whole Tale", Future Generation Computer Systems (2018), https://doi.org/10.1016/j.future.2017.12.029](https://www.sciencedirect.com/science/article/pii/S0167739X17310695) **Attribution 4.0 International (CC BY 4.0)**
 - [Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**
 
+<a name="Summary_of_ways_to_capture_computational_environments"></a>
 ## Summary of ways to capture computational environments
 
 There are a number of ways of capturing computational environments. The major ones covered in this chapter will be package management systems, Binder, virtual machines, and containers. Each have their own pros and cons, and which is the most appropriate for you will depend on the nature of your project.
@@ -143,19 +163,23 @@ Another way these can be split is by how the reproduced research is presented to
 
 Here we give a brief description of each of these tools:
 
-#### Package management systems
+<a name="Package_management_systems_outline"></a>
+### Package management systems
 
 Package management systems are tools used to install and keep track of the software (and critically versions of software) used on a system, and can export files specifying these required software packages/versions. The files can be shared with others who can use them to replicate the environment, either manually or via their own package management systems.
 
-#### Binder
+<a name="Binder_outline"></a>
+### Binder
 
 Binder is a web-based service which allows users to upload and share fully-functioning versions of their projects online which can be accessed and interacted with by others via a web browser. In order to do this Binder requires that the software (and optionally versions) required to run the project are specified. Users can make use of package management systems to do this is they so desire.
 
-#### Virtual machines
+<a name="Virtual_machines_outline"></a>
+### Virtual machines
 
 Virtual machines are simulated computers. A user can make a "virtual" computer very easily, specifying the operating system they want it to have among other features, and run it like any other app. Within the app will be the desktop, file system, default software libraries etc of the specified machine which can be interacted with as if it was a real computer. Virtual machines can be easily replicated and shared. This allows researchers to create virtual machines, do work on them, and then save their state along with its operating system, files, settings, everything and distribute their fully-functioning project.
 
-#### Containers
+<a name="Containers_outline"></a>
+### Containers
 
 Containers offer many of the same benefits of virtual machines. They essentially act as entirely separate machines which can contain their own files, software and settings.
 
@@ -615,6 +639,7 @@ The best option for large files is to use a library specific to the data format 
 <a name="Virtual_machines"></a>
 ## Virtual machines
 
+<a name="What_are_virtual_machines"></a>
 ### What are virtual machines?
 
 Virtual machines (VMs) essentially package a whole computer as an app that can be run. As an example see the figure below which shows a windows laptop (note the windows search button in the lower left corner) running a virtual ubuntu machine (note the terminal outputting the operating system). The machine running the VM is called the "host machine". Using software like [VirtualBox](https://www.virtualbox.org/) or [Vagrant](https://www.vagrantup.com/), a user can create and run any number of VMs. As you could probably guess, having several VMs running at once can be a drain on memory, so just because you can run several at once doesn’t mean you should.
@@ -623,10 +648,12 @@ Virtual machines (VMs) essentially package a whole computer as an app that can b
 
 Users can download, install, backup and destroy VMs at will, which is part of what makes them an attractive tool for sharing reproducible research. Research often requires specific pieces of software or system settings. If a researcher wishes to reproduce another's work on their own computer making the necessary changes to their environment to run the project may impact their own work. For example near the very start of this chapter it was [described](#How_this_will_help_you_why_this_is_useful) how using a different version of python can lead to unexpected changes in the results of an analysis. Say a researcher installs an updated version of python to replicate an analysis because the analysis requires features only present in the updated version. By doing so they put their own work at risk. VMs remove that risk; any tools downloaded or settings changed will only impact the VM, keeping the reproducer's research safe. If they do inadvertently break something in the VM, they can just delete it and make another one. They are effectively a quarantined area.
 
+<a name=Using_virtual_machines_for_reproducible_research></a>
 ### Using virtual machines for reproducible research
 
 Virtual machines can be shared by exporting them as single files. Another researcher can then import that file using their own virtualisation software like [VirtualBox](https://www.virtualbox.org/) and open up a copy of the virtual machine which will contain all the software files and settings put in place by the person that made the VM. Therefore in practice they will have a working version of the project without the pain of setting it up themselves.
 
+<a name="Setting_up_a_virtual_machine"></a>
 #### Setting up a virtual machine
 
 First choose a tool for generating VMs. Here the widely-used [VirtualBox](https://www.virtualbox.org/) is chosen. Download and install it on your system. To create a new machine click "New" in the top left. A window will pop up where you can enter a name for the machine and select its operating system and version of the operating system to use:
@@ -635,12 +662,14 @@ First choose a tool for generating VMs. Here the widely-used [VirtualBox](https:
 
 As you click through you can adjust other features of the machine to be created such as how much memory it should have access to. The default options are generally fine, but this process permits customisation.
 
+<a name="Starting_a_virtual_machine"></a>
 #### Starting a virtual machine
 
 To start a virtual machine simply select the machine to start and click the green "start" arrow at the top:
 
 ![VM_start_machine](../figures/VM_start_machine.png)
 
+<a name="Sharing_virtual_virtual_machines"></a>
 #### Sharing virtual virtual machines
 
 A researcher can do work on their VM, and then export the whole thing. To export a virtual machine click "File" in the top left and then "Export". This will output export the VM as a single file which can be shared like any other.
@@ -1080,23 +1109,28 @@ Hopefully you will give your volume a more descriptive name than volume_name. A 
 - [Docker carpentry](http://www.manicstreetpreacher.co.uk/docker-carpentry/aio/) **Creative Commons Attribution 4.0**
 - [Geohackweek tutorial](https://geohackweek.github.io/Introductory/docker-tutorial_temp/) **Creative Commons Attribution 3.0 Unported**
 
+<a name="Checklist"></a>
 ## Checklist
 
 - [ ] Choose the most appropriate method for your project for capturing your computational environment
 - [ ] Capture your computational environment
 - [ ] Share your captured computational environment along with your results/analysis
 
+<a name="What_to_learn_next"></a>
 ## What to learn next
 
 We recommend reading the chapter on Testing, and then the chapter on Continuous Integration. Note that the chapter on Version Control is a prerequisite for the chapter on Continuous Integration.
 
+<a name="Further_reading"></a>
 ## Further reading
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
 > less relevant/favourite resources in case someone wants to dig into this in detail
 
+<a name="Definitions_glossary"></a>
 ## Definitions/glossary
 > Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
 
+<a name="Bibliography"></a>
 ## Bibliography
 
 [Figure](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/) **Permission to use granted by Juliette Taka, Logilab and the OpenDreamKit project.**
