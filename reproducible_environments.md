@@ -1067,12 +1067,12 @@ Hopefully you will give your volume a more descriptive name than volume_name. A 
 <a name="What_to_learn_next"></a>
 ## What to learn next
 
-We recommend reading the chapter on Testing, and then the chapter on Continuous Integration. Note that the chapter on Version Control is a prerequisite for the chapter on Continuous Integration.
+We recommend reading the chapter on testing, and then the chapter on continuous integration. Note that the chapter on version control is a prerequisite for the chapter on continuous integration.
 
 <a name="Further_reading"></a>
 ## Further reading
-> top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
-> less relevant/favourite resources in case someone wants to dig into this in detail
+
+The [Docker documentation](https://docs.docker.com/get-started/) contains a lot of information about containers in general.
 
 <a name="Definitions_glossary"></a>
 ## Definitions/glossary
