@@ -367,6 +367,16 @@ Copy the IP address into your browser and your BinderHub should be waiting.
 If you've been successful, a page identical to [mybinder.org](https://mybinder.org) should appear.
 Type the following URL into the GitHub repo box and launch it: **https://github.com/binder-examples/requirements**. You can even sign in to your Docker account to see when the image has been pushed to the registry.
 
+## Debugging your BinderHub
+
+If something is not working correctly with your BinderHub, the quickest way to find the problem is to access the JupyterHub logs.
+Executing the following commands will print the JupyterHub logs to your terminal.
+
+```bash
+kubectl get pod -n sheff-hub                # Lists all active pods. Find the one beginning with "hub-"
+kubectl logs hub-<random-str> -n sheff-hub  # Where <random-str> matches the output from the last step
+```
+
 ## Authenticating Users with GitHub <a name="auth"></a>
 
 Adapted from [Enabling Authentication](https://binderhub.readthedocs.io/en/latest/authentication.html) and [Authentication](https://zero-to-jupyterhub.readthedocs.io/en/stable/authentication.html#github).
