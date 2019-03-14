@@ -116,6 +116,9 @@ It's useful when your build fails or something you think _should_ be installed i
 <img src="figures/build_logs.png" alt="build_logs" height="562" width="871">
 </html>
 
+**N.B.:** Sometimes Binder's build logs prints things in red font, such as warnings that `pip` is not up-to-date (`pip` is always out of date because it's regularly updated!) or installation messages, especially if you're using R.
+These red messages don't necessarily mean there's a problem with your build and it will fail - it's just an unfortunate font colour choice!
+
 #### What's happening in the background?
 
 This time, BinderHub will read `requirements.txt` and install version `1.14.5` of the `numpy` package.
