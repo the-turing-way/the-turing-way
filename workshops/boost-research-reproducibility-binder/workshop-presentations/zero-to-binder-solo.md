@@ -44,7 +44,7 @@ You can create a link to a **live, interactive** version of your code!
 2) Create a file called `hello.py` via the web interface with `print("Hello from Binder!")` on the first line and commit to master
 
 <html>
-<img src="figures/create_repo.png" alt="create_repo" height="671" width="562">
+<img src="figures/create_repo.png" alt="create_repo" height="562" width="671">
 <img src="figures/create_hello.png" alt="create_rhello" height="999" width="1006">
 </html>
 
@@ -67,6 +67,11 @@ You can create a link to a **live, interactive** version of your code!
    * You will see a "spinner" as Binder launches the repo.
 
 If everything ran smoothly, you'll see a Jupyter Notebook interface.
+
+<html>
+<img src="figures/binder_page.png" alt="binder_page" height="794" width="562">
+<img src="figures/binder_spinner.png" alt="binder_spinner" height="948" width="562">
+</html>
 
 #### What's happening in the background?
 
