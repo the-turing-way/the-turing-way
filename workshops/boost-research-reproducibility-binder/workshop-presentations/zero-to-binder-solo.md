@@ -242,6 +242,7 @@ Once the Binder has launched, you should see a new file has appeared that was no
 <html>
 <img src="figures/create_postBuild.png" alt="create_postBuild" height="626" width="999">
 <img src="figures/update_requirements.png" alt="update_requirements" height="778" width="896">
+<img src="figures/new_file.png" alt="new_file" height="284" width="999">
 </html>
 
 Now visualise the data by creating a new notebook ("New" :arrow_right: "Python 3") and run the following code in a cell.
