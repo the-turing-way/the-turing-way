@@ -139,8 +139,7 @@ az aks create --name sheffhubcluster \
 
 ### 7. Get credentials from Azure for `kubectl` <a name="aks-step7"></a>
 
-This step automatically updates your Kubernetes client configuration file to be configured with the cluster we've just deployed.
-This allows `kubectl` to be "logged-in" to the Kubernetes cluster you just deployed on Azure.
+This step automatically updates your local Kubernetes client configuration file to be configured with the remote cluster we've just deployed, and allowing `kubectl` to be "logged-in" to the cluster.
 
 ```bash
 az aks get-credentials --name sheffhubcluster \
