@@ -69,8 +69,8 @@ You can create a link to a **live, interactive** version of your code!
 If everything ran smoothly, you'll see a Jupyter Notebook interface.
 
 <html>
-<img src="figures/binder_page.png" alt="binder_page" height="794" width="562">
-<img src="figures/binder_spinner.png" alt="binder_spinner" height="948" width="562">
+<img src="figures/binder_page.png" alt="binder_page" height="562" width="794">
+<img src="figures/binder_spinner.png" alt="binder_spinner" height="562" width="948">
 </html>
 
 #### What's happening in the background?
