@@ -283,6 +283,11 @@ Here you can access:
 
 If you use R, you can also open **RStudio** using `?urlpath=rstudio`.
 
+<html>
+<img src="figures/jupyterlab.png" alt="jupyterlab" height="534" width="999">
+<img src="figures/rstudio.png" alt="rstudio" height="534" width="999">
+</html>
+
 ## Now over to you!
 
 Now you've binderized (bound?) this demo repo, it's time to binderize the example script and data you brought along!
