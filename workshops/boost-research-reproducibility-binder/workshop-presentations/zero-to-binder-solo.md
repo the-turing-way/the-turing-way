@@ -94,7 +94,7 @@ While you wait, BinderHub (the backend of Binder) is:
 <html>
 <img src="figures/new_terminal.png" alt="new_terminal" height="251" width="999">
 <img src="figures/run_hello.png" alt="run_hello" height="121" width="999">
-<\html>
+</html>
 
 ## 4. Pinning Dependencies
 
@@ -110,6 +110,11 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 This time, click on "Build Logs" in the big, horizontal, grey bar.
 This will let you watch the progress of your build.
 It's useful when your build fails or something you think _should_ be installed is missing.
+
+<html>
+<img src="figures/create_requirements.png" alt="create_requirements" height="615" width="998">
+<img src="figures/build_logs.png" alt="build_logs" height="562" width="871">
+</html>
 
 #### What's happening in the background?
 
