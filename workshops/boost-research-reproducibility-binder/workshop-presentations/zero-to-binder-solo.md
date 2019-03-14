@@ -153,6 +153,11 @@ Each language has it's own quirks and a link to the different types of configura
 3) Run the cell to see the version number and a random number printed out
    * Press either SHIFT+RETURN or the "Run" button in the Menu bar
 
+<html>
+<img src="figures/new_notebook.png" alt="new_notebook" height="248" width="999">
+<img src="figures/notebook_output.png" alt="notebook_output" height="236" width="999">
+</html>
+
 ## 6. Sharing your Work
 
 Binder is all about sharing your work easily and there are two ways to do it:
