@@ -37,7 +37,7 @@ Recommended skill level: intermediate-advanced.
     - [Security issues](#Security_issues)
 - [Binder](#Binder_section)
     - [Disambiguation](#Disambiguation)
-    - [Creating a binder for a project](#Creating_a_binder_for_a_project)
+    - [Creating a Binder for a project](#Creating_a_binder_for_a_project)
         - [Step 1: Specify your computational environment](#Step_1_Specify_your_computational_environment)
         - [Step 2: Put your code on GitHub](#Step_2_Put_your_code_on_GitHub)
         - [Step 3: Generate a link to a Binder of your project](#Step_3_Generate_a_link_to_a_Binder_of_your_project)
@@ -51,7 +51,7 @@ Recommended skill level: intermediate-advanced.
     - [Setting up a virtual machine](#Setting_up_a_virtual_machine)
     - [Starting a virtual machine](#Starting_a_virtual_machine)
     - [Sharing virtual virtual machines](#Sharing_virtual_virtual_machines)
-- [Containers](#Containers)
+- [Containers](#Containers_section)
   - [What are containers?](#What_are_containers)
   - [What_are_images](#What_are_images)
   - [What is Docker?](#What_is_Docker)
@@ -73,14 +73,14 @@ Recommended skill level: intermediate-advanced.
 <a name="Summary"></a>
 ## Summary
 
-Every computer has its own unique computational environment consisting of its operating system, what software it has installed what versions of software packages are installed, and other features. As a result if some research is done on one computer and then it and all its associated files are transferred to a different computer there is no guarantee the analysis will even be able to run, let alone generate the same results. Therefore in order for research to be reproducible the computational environment it was conducted in must be captured in such a way that it can be replicated by others. This chapter describes a variety of methods for capturing computational environments and gives guidance on their strengths and weaknesses.
+Every computer has its own unique computational environment consisting of its operating system, what software it has installed, what versions of software packages are installed, and other features. As a result if some research is done on one computer and then it and all its associated files are transferred to a different computer there is no guarantee the analysis will even be able to run, let alone generate the same results. Therefore in order for research to be reproducible the computational environment it was conducted in must be captured in such a way that it can be replicated by others. This chapter describes a variety of methods for capturing computational environments and gives guidance on their strengths and weaknesses.
 
 <a name="What_is_a_computational_environment"></a>
 ### What is a computational environment?
 
 Computational environment is (in broad terms) the system setup where a program is being run. This includes features of hardware (e.g. numbers of cores in any CPUs) and features of software (e.g. the operating system, what programming languages are installed, which supporting packages/versions of those packages are included, what other pieces of software are installed and how are they configured).
 
-Software versions are often defined via [semantic versioning](https://semver.org). In this system three numbers, e.g 2.12.4 are used to define each version of a piece of software. When a change is made to the software then its version is incremented. These three numbers follow the pattern MAJOR.MINOR.PATCH, and are incremented as follows:
+Software versions are often defined via [semantic versioning](https://semver.org). In this system three numbers, e.g 2.12.4 are used to define each version of a piece of software. When a change is made to the software its version is incremented. These three numbers follow the pattern MAJOR.MINOR.PATCH, and are incremented as follows:
 
 - MAJOR: significant changes
 - MINOR: to add functionality
@@ -97,13 +97,13 @@ b = 5
 print(a/b)
 ```
 
-One divided by five is `0.2`, and that is what is printed if this script is run using python 3. However if a slightly older version of python, python 2, is used the result printed is `0` because both a and b are integers so in python 2 an integer is returned. Therefore this simple, simple script returns *different* answers depending on the computational environment it is run in. This is a mistake that would be very easy to make, and demonstrates how a perfectly valid piece of code can output different results depending on the environment it is run in. If such bugs can impact a simple script like this you can only imagine how many could appear in a complex analysis procedure which may involve thousands of lines of code and dozens of dependent packages/pieces of software.
+One divided by five is `0.2`, and that is what is printed if this script is run using python 3. However if a slightly older version of python, python 2, is used the result printed is `0` because both a and b are integers so in python 2 an integer is returned. Therefore this extremely simple script returns *different* answers depending on the computational environment it is run in. This is a mistake that would be very easy to make, and demonstrates how a perfectly valid piece of code can output different results depending on its environment. If such bugs can impact a simple script like this you can only imagine how many could appear in a complex analysis procedure which may involve thousands of lines of code and dozens of dependent packages/pieces of software.
 
-As such it is vital for researcher to understand and capture the computational environments they are conducting their work in, as it has the potential to impact three parties:
+As such it is vital for researchers to understand and capture the computational environments they are conducting their work in, as it has the potential to impact three parties:
 
-- The researcher themselves. If the environment is not captured and a research needs to return to a project after months or years (as is common in research) they will be unable to confidently do so as they will have no way of knowing what the potential changes to the environment are or what impact they have on the results. That is if they are still able to run their analysis in the modified computational environment, which may or may not be the case.   
+- The researcher themselves. The environment researchers work in evolved over time as they update software, install new software, and get new computers. If the environment they conduct a project in is not captured and the researcher needs to return to that project after months or years (as is common in research) they will be unable to confidently do so as they will have no way of knowing what changes to the environment have occurred or what impact they might have on the results. That is if they are still able to run their analysis in the modified computational environment, which may or may not be the case.   
 - Collaborators. Much research is now collaborative, and conducting research in multiple different computational environments, potentially even at different institutions opens up a minefield of potential bugs. Trying to fix these kinds of issues is often time consuming and frustrating as researchers have to figure out what the differences between computational environment are, and their effects. Worse, some bugs may remain undetected potentially impacting the results.
-- Science itself. Scholarly research has evolved significantly over the past decade, the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination – the scholarly publication –is largely unchanged since the advent of the scientific journal in the 1660’s. This is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of the need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying analysis and, crucially, the computational environment that produced the findings. For research to be reproducible researchers must publish and distribute the entire contained analysis not just its results. The analysis should be *mobile*. Mobility of compute is defined as the ability to define, create, and maintain a workflow locally while remaining confident that the workflow can be executed elsewhere. In essence, mobility of compute means being able to contain the entire software stack, from data files up through the library stack, and reliability move it from system to system. Any research that is limited to where it can be deployed is instantly limited in the extent that it can be reproduced.
+- Science itself. Scholarly research has evolved significantly over the past decade, but the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination- the scholarly publication- is largely unchanged since the advent of the scientific journal in the 1660’s. This is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of the need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying analysis and, crucially, the computational environment that produced the findings. For research to be reproducible researchers must publish and distribute the entire contained analysis not just its results. The analysis should be *mobile*. Mobility of compute is defined as the ability to define, create, and maintain a workflow locally while remaining confident that the workflow can be executed elsewhere. In essence, mobility of compute means being able to contain the entire software stack, from data files up through the library stack, and reliability move it from system to system. Any research that is limited to where it can be deployed is instantly limited in the extent that it can be reproduced.
 
 This chapter will describe how to capture, preserve and share computational environments along with code to ensure research is reproducible.
 
@@ -130,13 +130,13 @@ Another way these can be split is by how the reproduced research is presented to
   </tr>
   <tr>
     <th rowspan="2">What is reproduced?</th>
-    <td>Entire system</td>    
-    <th>Virtual Machine</th>
-    <th>Containers</th>
+    <td>Software and versions</td>
+    <th>Binder</th>
+    <th>Conda</th>
   </tr>
-  <td>Software and versions</td>
-  <th>Binder</th>
-  <th>Conda</th>
+  <td>Entire system</td>    
+  <th>Virtual Machines</th>
+  <th>Containers</th>  
   <tr>
   </tr>
 </table>
@@ -151,28 +151,26 @@ Package management systems are tools used to install and keep track of the softw
 <a name="Binder_outline"></a>
 ### Binder
 
-Binder is a web-based service which allows users to upload and share fully-functioning versions of their projects online which can be accessed and interacted with by others via a web browser. In order to do this Binder requires that the software (and optionally versions) required to run the project are specified. Users can make use of package management systems to do this is they so desire.
+Binder is a web-based service which allows users to upload and share fully-functioning versions of their projects online which can be accessed and interacted with by others via a web browser. In order to do this Binder requires that the software (and optionally versions) required to run the project are specified. Users can make use of package management systems or Dockerfiles (discussed in the [containers sectiot](#Containers_section)) to do this if they so desire.
 
 <a name="Virtual_machines_outline"></a>
 ### Virtual machines
 
-Virtual machines are simulated computers. A user can make a "virtual" computer very easily, specifying the operating system they want it to have among other features, and run it like any other app. Within the app will be the desktop, file system, default software libraries etc of the specified machine which can be interacted with as if it was a real computer. Virtual machines can be easily replicated and shared. This allows researchers to create virtual machines, do work on them, and then save their state along with its operating system, files, settings, everything and distribute their fully-functioning project.   
+Virtual machines are simulated computers. A user can make a "virtual" computer very easily, specifying the operating system they want it to have among other features, and run it like any other app. Within the app will be the desktop, file system, default software libraries etc of the specified machine which can be interacted with as if it was a real computer. Virtual machines can be easily replicated and shared. This allows researchers to create virtual machines, do work on them, and then save their state along with their, files, settings, everything and distribute their fully-functioning project.   
 
 <a name="Containers_outline"></a>
 ### Containers
 
 Containers offer many of the same benefits of virtual machines. They essentially act as entirely separate machines which can contain their own files, software and settings.
 
-The difference is that virtual machines include an entire operating system along with all the associated software etc that is typically packaged with one- regardless of whether the project actually makes use of that associated software. Containers only contain the software and files explicitly defined within them in order to run the project they contain. This makes them far more light weight than virtual machines.
+The difference is that virtual machines include an entire operating system along with all the associated software etc that is typically packaged with one- regardless of whether the project actually makes use of that associated software. Containers only contain the software and files explicitly defined within them in order to run the project they contain. This makes them far more lightweight than virtual machines.
 
 Containers are particularly useful if projects need to be able to run on high performance computing environments as, since they already *contain* all the necessary software, they save having to install anything on an unfamiliar system where the researcher may not have the required permissions to  even do so.
-
-Containers also force researcher using them to share research to be very explicit about their computational environments which can increase clarity.
 
 <a name="Package_management_systems"></a>
 ## Package management systems
 
-Package managers, as you may deduce, manage and keep track of the different software packages (and their versions) that you install in an environment. There are quite a few to choose from, for example Yum, Zypper, dpkg, and Nix (which will be mentioned briefly later in the [Binder](#Binder) section). We're going to focus on Conda, which has three main useful functionalities.
+Package managers, as you may deduce, manage and keep track of the different software packages (and their versions) that you install in an environment. There are quite a few to choose from, for example Yum, Zypper, dpkg, and Nix (which will be mentioned briefly later in the [Binder](#Binder_section) section). We're going to focus on [Conda](https://conda.io/en/latest/), which has a number of useful functionalities.
 
 <a name="What_does_Conda_do"></a>
 ### What does Conda do?
@@ -211,9 +209,9 @@ Finally, while Conda is python centric to a degree it is also well integrated fo
 <a name="Installing_Conda"></a>
 ### Installing Conda
 
-Note that these installation instructions are directed towards Linux systems. Instructions for installing Conda Windows or Mac systems can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
+Note that these installation instructions are directed towards Linux systems. Instructions for installing Conda on Windows or Mac systems can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
 
-Go to [https://repo.continuum.io/miniconda/](https://repo.continuum.io/miniconda/) and download the latest Miniconda 3 installer for your system (32 bit or 64 bit), which will have like Miniconda_version_number.sh. Run the installer using
+Go to [https://repo.continuum.io/miniconda/](https://repo.continuum.io/miniconda/) and download the latest Miniconda 3 installer for your system (32 bit or 64 bit), which will have a name like Miniconda_version_number.sh. Run the installer using
 ```
 bash Miniconda_version_number.sh
 ```
@@ -228,9 +226,9 @@ which should output a version number.
 <a name="Making_and_using_environments"></a>
 ### Making and using environments
 
-Conda automatically installs a base environment with some python and non-python packages. It is possible to just work in this base environment, however it is a good practise to create a new environment for each project you start. To create an environment use `conda create --name your_project_env_name` followed by a list of packages to include, for example to create an environment called Project_One that includes the packages scipy and matplotlib:
+Conda automatically installs a base environment with some commonly used software packages. It is possible to just work in this base environment, however it is a good practise to create a new environment for each project you start. To create an environment use `conda create --name your_project_env_name` followed by a list of packages to include, for example to create an environment called Project_One that includes the packages scipy and matplotlib:
 ```
-conda create --name Project_One numpy matplotlib
+conda create --name Project_One scipy matplotlib
 ```
 
 When you create an environment you have to include at least one package. To create the environment with specific versions of certain (or all) packages use `=package_number`, e.g. to specify scipy 1.2.1 in the above environment
@@ -243,7 +241,7 @@ When creating environments you can also specify versions of languages to install
 conda create --name Project_One python=3.7.1 scipy=1.2.1 matplotlib
 ```
 
-Now that an envronment has been created it's time to activate (start using) it using `conda activate environment_name`, so in this example:
+Now that an envronment has been created it's time to activate (start using) it via `conda activate environment_name`, so in this example:
 ```
 conda activate Project_One
 ```
@@ -263,7 +261,7 @@ You can deactivate (get out of) an environment using
 conda deactivate
 ```
 
-and remove an environment as show here for removing the Project_One environment
+and remove (delete) an environment as shown here for removing the Project_One environment
 ```
 conda env remove --name Project_One
 ```
@@ -273,12 +271,12 @@ To check if an environment has been successfully removed you can look at a list 
 conda env list
 ```
 
-However deleting an environment may not delete package files that were associated with it. This can lead to a lot of memory being wasted on packages that re no longer required. Packages that are no longer referenced by any environments can be deleted using
+However deleting an environment may not delete package files that were associated with it. This can lead to a lot of memory being wasted on packages that are no longer required. Packages that are no longer referenced by any environments can be deleted using
 ```
 conda clean -pts
 ```
 
-Alternatively you can delete an environment (such as Project_One) and its associated packages via:
+Alternatively you can delete an environment (such as Project_One) along with its associated packages via:
 ```
 conda remove --name Project_One --all
 ```
@@ -296,7 +294,7 @@ and similarly you can remove them via
 conda remove package_name
 ```
 
-This is the best way to install packages from within Conda as it will also install a COnda-specific version of the package. However it is possible to use other methods if a Conda-specific version of a package is not available. For example `pip` is commonly used to install python packages, so a command like
+This is the best way to install packages from within Conda as it will also install a Conda-tailored version of the package. However it is possible to use other methods if a Conda-specific version of a package is not available. For example `pip` is commonly used to install python packages, so a command like
 ```
 pip install scipy
 ```
@@ -330,9 +328,9 @@ Similarly Conda environments can be created form YAML files like this via
 conda env create -f environment.yml
 ```
 
-This allows researchers to easily reproduce one another's computational environments. Note that the list of packages is not just those explicitly installed. It can include OS-specific dependency packages so environment files may require some editing to be portable.
+This allows researchers to easily reproduce one another's computational environments. Note that the list of packages is not just those explicitly installed. It can include OS-specific dependency packages so environment files may require some editing to be portable to different operating systems.
 
-Environments can also be cloned. This may be desirable, for example, if a researcher begins a new project and want to make a new environment to work on it in, but the new project's environment (at least initially) requires the same packages as another project's environment.
+Environments can also be cloned. This may be desirable, for example, if a researcher begins a new project and wants to make a new environment to work on it in, but the new project's environment (at least initially) requires the same packages as a previous project's environment.
 
 For example to clone the Project_One environment, and give this new environment the name Project_Two:
 ```
@@ -438,7 +436,7 @@ parsing errors. Just use spaces.
 
 Because of their simplicity YAML files can be hand written. Alternatively they can be automatically generated as discussed [above](#Package_management_systems). From a YAML file a computational environment can be replicated in a few ways.
 
-- **Manually.** It can be done manually by carefully installing the specified packages etc. Because YAML files can also specify operating systems and versions that may or may not match that of the person trying to replicate the environment this may require the use of a virtual machine.
+- **Manually.** It can be done manually by carefully installing the specified packages etc. Because YAML files can also specify operating systems and versions that may or may not match that of the person trying to replicate the environment this may require the use of a [virtual machine](#Virtual_machines).
 - **Via package management systems such as Conda.** As [discussed](#Package_management_systems) as well as being able to generate YAML files from computational environments Conda can also generate computational environments from YAML files.
 
 <a name="Security_issues"></a>
@@ -475,7 +473,7 @@ As mentioned Binder is well integrated with Jupyter notebooks which can be opene
 
 ![binder_notebook](../figures/binder_notebook.png)
 
-If R is installed in a bindr the option will also be available in the dropdown menu to open R Jupyter notebooks and RStudio sessions in the Binder.
+If R is installed in a Binder the option will also be available in the dropdown menu to open R Jupyter notebooks and RStudio sessions in the Binder.
 
 <a name="Disambiguation"></a>
 ### Disambiguation
@@ -488,7 +486,7 @@ In this section there are a number of related terms, which will be outlined here
 - Binderize: To make a Binder of a project.
 
 <a name="Creating_a_binder_for_a_project"></a>
-### Creating a binder for a project
+### Creating a Binder for a project
 
 Creating a Binderized version of a project involves three key steps which will be explained in this section:
 
@@ -501,21 +499,21 @@ For a list of sample repositories for use with Binder, see the [Sample Binder Re
 <a name="Step_1_Specify_your_computational_environment"></a>
 #### Step 1: Specify your computational environment
 
-If a project contains no file specifying the computational environment when a Binder is generated the environment will be the Binder default environment, (containing python 3.6) which may or may not be suitable for the project. However if it does contain a configuration file for the environment then the Binder will be generated with the specified environment. A full list of such files binder accepts with examples can be found [here](https://mybinder.readthedocs.io/en/latest/config_files.html), but here are some of the key ones, some of which are language-specific:
+If a project contains no file specifying the computational environment when a Binder is generated the environment will be the Binder default environment, (containing python 3.6) which may or may not be suitable for the project. However if it does contain a configuration file for the environment then the Binder will be generated with the specified environment. A full list of such files Binder accepts with examples can be found [here](https://mybinder.readthedocs.io/en/latest/config_files.html), but here are some of the key ones, some of which are language-specific:
 
 - environment.yml
     - Recall that environment.yml files were discussed in the [Package management systems](#Package_management_systems) section.
 - Dockerfile
-    - Dockerfiles will be discussed in the [Containers](#Containers) section, so will not be discussed further here.
+    - Dockerfiles will be discussed in the [Containers](#Containers_section) section, so will not be discussed further here.
 - apt.txt
-    - Dependencies that would typically installed via commands such as `sudo apt-get install package_name` should be listed in an apt.txt file, and will be automatically installed in the binder.
+    - Dependencies that would typically installed via commands such as `sudo apt-get install package_name` should be listed in an apt.txt file, and will be automatically installed in the Binder.
     - For example if a project uses Latex the apt.txt file should read
     ```
     texlive-latex-base
     ```  
     to install the base Latex package.
 - default.nix
-    - For those that use the [package management system](#Package_management_systems) Nix a default.nix can be a convenient way to capture their environment.
+    - For those that use the [package management system](#Package_management_systems) Nix a default.nix file can be a convenient way to capture their environment.
 - requirements.txt (python)
     - For python users a requirements.txt file can be used to list dependent packages.
     - For example to have Binder install numpy this file would simply need to read:
@@ -566,7 +564,7 @@ As you can see there are additional fields in this form, but these are optional 
 
 Once the URL to the project to be Binderized is supplied two fields will be automatically populated on the screen depicted above:
 
-- The "Copy the URL below and share your Binder with others" field, which provides a link to the binder which can be copied and shared by you.
+- The "Copy the URL below and share your Binder with others" field, which provides a link to the Binder which can be copied and shared by you.
 - The "Copy the text below, then paste into your README to show a binder badge" field, which as described can be included by you in GitHub to create a button that allows anyone that accesses your project on GitHub to launch the Binder.
 
 Finally, click the launch button. This will ask [mybinder.org](https://mybinder.org) to build the environment needed to run the project, note that this may take several minutes. You can click on the "Build logs" button to see the logs generated by the build process. These logs are helpful for resolving any issues that cause the build to fail, such as errors in the file defining the computational environment to be generated.
@@ -576,7 +574,7 @@ Once it has been built the Binder will be automatically launched, again this may
 <a name="Including_data_in_a_Binder"></a>
 ### Including data in a Binder
 
-There are a few ways to make data available in your Binder. Which is the best one depends on how big your data is and your preferences for sharing data. Note that the more data that is included include the longer it will take for a Binder to launch. Data also takes up storage space which must be paid for, so it is good to be considerate and minimise the data you include, especially on the publicly provided mybinder.org](https://mybinder.org).
+There are a few ways to make data available in your Binder. Which is the best one depends on how big your data is and your preferences for sharing data. Note that the more data that is included include the longer it will take for a Binder to launch. Data also takes up storage space which must be paid for, so it is good to be considerate and minimise the data you include, especially on the publicly provided [mybinder.org](https://mybinder.org).
 
 <a name="Small_public_files"></a>
 #### Small public files
@@ -586,7 +584,7 @@ The simplest approach for small data files that are public is to add them direct
 <a name="Medium_public_files"></a>
 #### Medium public files
 
-For medium sized files, a few 10s of megabytes to a few hundred megabytes, find some other place online to store them and make sure they are publicly available. Then add a file named postBuild (which is a shell script so the first line must be `#!/bin/bash`) in your project. In the postBuild file add a single line reading `wget -q -O name_of_your_file link_to_your_file`.
+For medium sized files, a few 10s of megabytes to a few hundred megabytes, find some other place online to store them and make sure they are publicly available. Then add a file named postBuild (which is a shell script so the first line must be `#!/bin/bash`) to your project files. In the postBuild file add a single line reading `wget -q -O name_of_your_file link_to_your_file`.
 
 The postBuild file is used to execute commands when the files to produce the Binder are being generated. In this case it can be used to download your data into the files used to launch the binder.
 
@@ -610,34 +608,34 @@ Users can download, install, backup and destroy VMs at will, which is part of wh
 <a name=Using_virtual_machines_for_reproducible_research></a>
 ### Using virtual machines for reproducible research
 
-Virtual machines can be shared by exporting them as single files. Another researcher can then import that file using their own virtualisation software like [VirtualBox](https://www.virtualbox.org/) and open up a copy of the virtual machine which will contain all the software files and settings put in place by the person that made the VM. Therefore in practice they will have a working version of the project without the pain of setting it up themselves.
+Virtual machines can be shared by exporting them as single files. Another researcher can then import that file using their own virtualisation software like [VirtualBox](https://www.virtualbox.org/) and open up a copy of the VM which will contain all the software files and settings put in place by the person that made the VM. Therefore in practice they will have a working version of the project without the pain of setting it up themselves.
 
 <a name="Setting_up_a_virtual_machine"></a>
 #### Setting up a virtual machine
 
-First choose a tool for generating VMs. Here the widely-used [VirtualBox](https://www.virtualbox.org/) is chosen. Download and install it on your system. To create a new machine click "New" in the top left. A window will pop up where you can enter a name for the machine and select its operating system and version of the operating system to use:
+First choose a tool for generating VMs. Here the widely-used [VirtualBox](https://www.virtualbox.org/) is chosen. Download and install it on your system. To create a new machine click "New" in the top left. A window will pop up where you can enter a name for the machine and select what operating system and version of the operating system to use. In the figure below a machine called demo_VM running ubuntu is being created:
 
 ![VM_create_machine](../figures/VM_create_machine.png)
 
-As you click through you can adjust other features of the machine to be created such as how much memory it should have access to. The default options are generally fine, but this process permits customisation.
+As you click through you can adjust other features of the machine to be created such as how much memory it should have access to. The default options are suitable for most purposes, but this process permits customisation.
 
 <a name="Starting_a_virtual_machine"></a>
 #### Starting a virtual machine
 
-To start a virtual machine simply select the machine to start and click the green "start" arrow at the top:
+To start a virtual machine simply select the machine from the list of VMs on the left, and click the green "start" arrow at the top:
 
 ![VM_start_machine](../figures/VM_start_machine.png)
 
 <a name="Sharing_virtual_virtual_machines"></a>
 #### Sharing virtual virtual machines
 
-A researcher can do work on their VM, and then export the whole thing. To export a virtual machine click "File" in the top left and then "Export". This will output export the VM as a single file which can be shared like any other.
+A researcher can do work on their VM, and then export the whole thing. To export a virtual machine click "File" in the top left and then "Export". This will export the VM as a single file which can be shared like any other.
 
 ![VM_export_machine](../figures/VM_export_machine.png)
 
-Someone that has access to this file just needs to click "File" in the top left and then "Import" and select that file. Once it is imported the can start it as described before by selecting in and then clicking the green start arrow at the top.
+Someone that has access to this file and VirtualBox installed just needs to click "File" in the top left and then "Import" and select that file. Once it is imported they can start the VM as described before by selecting it from the menu clicking the green start arrow at the top.
 
-<a name="Containers"></a>
+<a name="Containers_section"></a>
 ## Containers
 
 <a name="What_are_containers"></a>
