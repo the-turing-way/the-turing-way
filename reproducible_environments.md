@@ -802,6 +802,8 @@ RUN mkdir B_2
 
 ![workdir_example](../figures/workdir_example.png)
 
+Directories B_1 and B_2 have been created within directory A.
+
 WORKDIR should be used whenever changing directories is necessary when building an image. It may be tempting to use `RUN cd directory_name` instead as this syntax will be more familiar to those that commonly work via the command line, but this can lead to errors. After each `RUN` statement in a Dockerfile the image is saved, any following commands are applied to the image anew. As an example here is what happens in the above example if the `WORKDIR A` line is swapped for `RUN cd A`
 
 ![cd_example](../figures/cd_example.png)
@@ -817,11 +819,11 @@ Other commands that are sometimes used in Dockerfiles include:
   ```
   CMD ["echo","Welcome! You just opened this container!"]
   ```
-  It's good practice to use CMD for any commands that need to be run before someone starts working in the container instead of forcing users to do run them themselves (and trusting that they will even know that they need to).
+  It's good practice to use CMD for any commands that need to be run before someone starts working in the container instead of forcing users to run them themselves (and trusting that they will even know that they need to).
 - `VOLUMES`: These will be discussed [later](#Volumes).
 - `MAINTAINER`: information regarding the person that wrote the Dockerfile. Typically included at the top of a Dockerfile.
-- `EXPOSE`: This includes ports that should be exposed, this is more relevant to people using Docker to share apps.
-- `USER`: Change the user that a command is run as (useful for dropping privileges)
+- `EXPOSE`: This includes ports that should be exposed, this is more relevant to people using Docker to share web apps.
+- `USER`: Change the user that a command is run as (useful for dropping privileges).
 
 <a name="Building_images_and_dockerignore_files"></a>
 ### Building images and .dockerignore files
@@ -849,7 +851,7 @@ As mentioned in the [key commands](#Key_commands) section, to build an image ope
 sudo docker build tag=name_to_give_image .
 ```
 
-When an image is built everything in the Dockerfile's directory and below (this is called the "context") is sent to the Docker daemon to build the image. The deamon uses the Dockerfile and its context to build the image. If the context contains many large files which aren't needed for building the image (old datafiles, for example) then it is a waste of time sending them to the daemon, and doing do can make the process of building an image slow. Files cna be excluded from the context by listing them in a text file called .dockerignore, and it is good practise to do so.
+When an image is built everything in the Dockerfile's directory and below (this is called the "context") is sent to the Docker daemon to build the image. The deamon uses the Dockerfile and its context to build the image. If the context contains many large files which aren't needed for building the image (old datafiles, for example) then it is a waste of time sending them to the daemon, and doing do can make the process of building an image slow. Files can be excluded from the context by listing them in a text file called .dockerignore, and it is good practise to do so.
 
 The files do not need to be listed individually in the .dockerignore file. Here is an example of the contents of a .dockerignore file:
 ```
@@ -910,7 +912,7 @@ If the second part (the `path_to_where_to_put_file/file_name`) is substituted fo
 <a name="Volumes"></a>
 ### Volumes
 
-Every time a container is opened from an image that container is completely new. For example say a container is opened and work is done within it, files created, changed, deleted and so on. If that container is then closed and the image it came from is used to start a container none of that work will be in the new one. It will simple have the starting state as described in the image.
+Every time a container is opened from an image that container is completely new. For example say a container is opened and work is done within it, files created, changed, deleted and so on. If that container is then closed and the image it came from is again used to start a container none of that work will be in the new one. It will simply have the starting state described in the image.
 
 This can be a problem if a researcher wants to work in a container over a period of time, but there is a way around this using "volumes". These store work done within a container even after it is closed, and can then be used to load that work into future containers.
 
@@ -919,10 +921,11 @@ To create/use a volume run
 sudo docker run -i -t --mount source=volume_name,target=/target_dirctory image_name
 ```
 
-Hopefully you will give your volume a more descriptive name than volume_name. A "target" directory is required, only work within this directory in the container which will be saved in the volume. Once you're done close the container as normal. When you come pack to the project and want to continue your work use the exact same command as above, it will load the work contained in volume_name into the new container, and save any new work there too.
+Hopefully you will give your volume a more descriptive name than volume_name. A "target" directory is required, only work within this directory in the container which will be saved in the volume. Once the researcher is done they can close the container as normal. When they come back to the project and want to continue their work they just need to use the exact same command as above, and it will load the work contained in volume_name into the new container. It will save any new work there too.
 
  Volume related commands:
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 ### Writing Dockerfiles
@@ -1056,6 +1059,10 @@ Hopefully you will give your volume a more descriptive name than volume_name. A 
 - Delete a volume: `docker volume rm volume_name`
 - Delete all unattached volumes: `docker volume prune`
 - If, when deleting a container as `-v` is included after `rm` in `sudo docker rm container_ID` any volumes associated with the container will also be deleted.
+- List volumes: `sudo docker volume ls`
+- Delete a volume: `sudo docker volume rm volume_name`
+- Delete all unattached volumes: `sudo docker volume prune`
+- If, when deleting a container a ` -v` is included after `rm` in `sudo docker rm container_ID` any volumes associated with the container will also be deleted.
 
 <a name="Checklist"></a>
 ## Checklist
@@ -1067,7 +1074,7 @@ Hopefully you will give your volume a more descriptive name than volume_name. A 
 <a name="What_to_learn_next"></a>
 ## What to learn next
 
-We recommend reading the chapter on testing, and then the chapter on continuous integration. Note that the chapter on version control is a prerequisite for the chapter on continuous integration.
+We recommend reading the chapter on testing, and then the chapter on continuous integration. Note that the chapter on version control is a prerequisite for the chapter on continuous integration. The open research chapter also contains further information on sharing research respoducibly.
 
 <a name="Further_reading"></a>
 ## Further reading
@@ -1077,11 +1084,11 @@ The [Docker documentation](https://docs.docker.com/get-started/) contains a lot 
 <a name="Definitions_glossary"></a>
 ## Definitions/glossary
 
-**Binder:** A web-based service which allows users to upload and share fully-functioning versions of their projects in a computational environment they define.
+**Binder:** A web-based service which allows users to upload and share fully-functioning versions of their projects in an environment they define.
 
-**Computational environment:** Features of a computer such as its operating system, what software it has installed what versions of software packages are installed which can impact the behaviour of scripts run on it.
+**Computational environment:** Features of a computer which can impact the behaviour of work done on it, such as its operating system, what software it has installed, and what versions of software packages are installed.
 
-**Conda:** A commonly used package management system
+**Conda:** A commonly used package management system.
 
 **Container:** Lightweight files that can encapsulate and entire computational environment including its operating system, customised settings, software and files.
 
@@ -1089,21 +1096,18 @@ The [Docker documentation](https://docs.docker.com/get-started/) contains a lot 
 
 **Image:** Files used for generating containers.
 
-**Package management system:** A tool for installing managing and uninstalling software packages including specific versions.
+**Package management system:** A tool for installing, managing, and uninstalling software packages including specific versions.
 
 **Virtual machine:** A simulated computer that can encapsulate and entire computational environment including its operating system, customised settings, software and files.
 
-**YAML:** A human readable/writable markup language which used by many projects use it for configuration files.
-
-
-
+**YAML:** A human readable/writable markup language which used by many projects for configuration files.
 
 <a name="Bibliography"></a>
 ## Bibliography
 
 ### Materials in the "what is a computational environment" section
 
-- [semantic versioning](https://semver.org)
+- [semantic versioning](https://semver.org) **Creative Commons - CC BY 3.0**
 
 ### Materials in the "how this will help you/why this is useful" section
 
@@ -1116,18 +1120,18 @@ The [Docker documentation](https://docs.docker.com/get-started/) contains a lot 
 
 ### Materials in the package management systems section
 
-- [Package Managers](https://opensource.com/article/18/7/evolution-package-managers)
+- [Package Managers](https://opensource.com/article/18/7/evolution-package-managers) **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
 - [Talk by Will Furnass on Conda](https://github.com/willfurnass/conda-rses-pres/blob/master/content.md) **Attribution-NonCommercial-ShareAlike 4.0 International**
 
 ### Materials in the YAML files  section
 
-- [yaml tutorial](https://gettaurus.org/docs/YAMLTutorial/) **[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)**
+- [YAML tutorial](https://gettaurus.org/docs/YAMLTutorial/) **[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)**
 
 ### Materials in the Binder section
 
 - [Binder illustration](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/) **Permission to use granted by Juliette Taka, Logilab and the OpenDreamKit project.**
 - [mybinder docs intro](https://github.com/jupyterhub/binder/blob/master/doc/introduction.rst) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
-- [Original zero to binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
+- [Original zero to Binder tutorial](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
 - [Sarah Gibson's zero to Binder](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder.md) **MIT**
 - [Zero to Binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md)  **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
 
@@ -1137,7 +1141,7 @@ The [Docker documentation](https://docs.docker.com/get-started/) contains a lot 
 
 ### Materials in the containers section
 
-- [What is docker](https://opensource.com/resources/what-docker) **CC BY-SA 4.0**
-- [What are containers](https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ) **CC BY-SA 4.0**
+- [What is docker?](https://opensource.com/resources/what-docker) **CC BY-SA 4.0**
+- [What are containers?](https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ) **CC BY-SA 4.0**
 - [Docker carpentry](http://www.manicstreetpreacher.co.uk/docker-carpentry/aio/) **Creative Commons Attribution 4.0**
 - [Geohackweek tutorial](https://geohackweek.github.io/Introductory/docker-tutorial_temp/) **Creative Commons Attribution 3.0 Unported**
