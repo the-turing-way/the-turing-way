@@ -91,6 +91,11 @@ While you wait, BinderHub (the backend of Binder) is:
 
 `Hello from Binder!` should be printed to the terminal.
 
+<html>
+<img src="figures/new_terminal.png" alt="new_terminal" height="251" width="999">
+<img src="figures/run_hello.png" alt="run_hello" height="121" width="999">
+<\html>
+
 ## 4. Pinning Dependencies
 
 It was easy to get started, but our environment is barebones - let's add a **dependency**!
