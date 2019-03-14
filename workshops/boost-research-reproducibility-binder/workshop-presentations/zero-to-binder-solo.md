@@ -175,6 +175,11 @@ Binder is all about sharing your work easily and there are two ways to do it:
 
 2) Click the badge to make sure it works!
 
+<html>
+<img src="figures/binder_badge_snippet.png" alt="binder_badge_snippet" height="559" width="999">
+<img src="figures/binder_badge_readme.png" alt="binder_badge_readme" height="1119" width="999">
+</html>
+
 ## 7. Accessing data in your Binder
 
 Another kind of dependency for projects is **data**.
