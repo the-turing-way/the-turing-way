@@ -43,6 +43,8 @@ You can create a link to a **live, interactive** version of your code!
    * Don't forget to initialise with a README!
 2) Create a file called `hello.py` via the web interface with `print("Hello from Binder!")` on the first line and commit to master
 
+**N.B.:** GitHub repos **must** be _public_ in order to work with Binder.
+
 <html>
 <img src="figures/create_repo.png" alt="create_repo" height="562" width="671">
 <img src="figures/create_hello.png" alt="create_rhello" height="999" width="1006">
@@ -157,6 +159,10 @@ Each language has it's own quirks and a link to the different types of configura
 <img src="figures/new_notebook.png" alt="new_notebook" height="248" width="999">
 <img src="figures/notebook_output.png" alt="notebook_output" height="236" width="999">
 </html>
+
+**N.B.:** If you save this notebook, it **will not** be saved to the GitHub repo.
+Pushing changes back to the GitHub repo through the container is not possible with Binder.
+**Any changes you have made to files inside the Binder will be lost once you close the browser window.**
 
 ## 6. Sharing your Work
 
