@@ -262,6 +262,10 @@ data.loc["Australia"].plot()
 
 See this [Software Carpentry lesson](https://swcarpentry.github.io/python-novice-gapminder/09-plotting/index.html) for more info.
 
+<html>
+<img src="figures/data_notebook.png" alt="data_notebook" height="826" width="999">
+</html>
+
 ## Beyond Notebooks...
 
 **JupyterLab** is installed into your containerized repo by default.
