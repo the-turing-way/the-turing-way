@@ -6,6 +6,10 @@ Sarah Gibson, _The Alan Turing Institute_
 
 Based on Tim Head's _Zero-to-Binder_ workshops which can be found here: http://bit.ly/zero-to-binder and http://bit.ly/zero-to-binder-rise
 
+As you work through this tutorial, you will be launching a lot of Binder windows.
+Binder can take a long time to load, particularly if you're working with R, but this doesn't necessarily mean that your Binder will fail to launch.
+You can always refresh the window if you see the "... is taking longer to load, hang tight!" message.
+
 ## Running Code is more complicated than Displaying Code
 
 GitHub is a great service for sharing code, but the contents are **static**.
@@ -290,9 +294,9 @@ If you use R, you can also open **RStudio** using `?urlpath=rstudio`.
 
 ## Now over to you!
 
-Now you've binderized (bound?) this demo repo, it's time to binderize the example script and data you brought along!
+Now you've binderized (bound?) this demo repo, you can create your own Binder-ready repo with your own code and data!
 
-**Some useful links:**
+**Here are some useful links to get you started:**
 
 * Choosing languages:
 
