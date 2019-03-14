@@ -161,9 +161,9 @@ Virtual machines are simulated computers. A user can make a "virtual" computer v
 <a name="Containers_outline"></a>
 ### Containers
 
-Containers offer many of the same benefits of virtual machines. They essentially act as entirely separate machines which can contain their own files, software and settings.
+Containers offer many of the same benefits as virtual machines. They essentially act as entirely separate machines which can contain their own files, software and settings.
 
-The difference is that virtual machines include an entire operating system along with all the associated software etc that is typically packaged with one- regardless of whether the project actually makes use of that associated software. Containers only contain the software and files explicitly defined within them in order to run the project they contain. This makes them far more lightweight than virtual machines.
+The difference is that virtual machines include an entire operating system along with all the associated software etc that is typically packaged with it- regardless of whether the project actually makes use of that associated software. Containers only contain the software and files explicitly defined within them in order to run the project they contain. This makes them far more lightweight than virtual machines.
 
 Containers are particularly useful if projects need to be able to run on high performance computing environments as, since they already *contain* all the necessary software, they save having to install anything on an unfamiliar system where the researcher may not have the required permissions to  even do so.
 
@@ -643,9 +643,9 @@ Someone that has access to this file and VirtualBox installed just needs to clic
 
 Containers allow a researcher to package up an project with all of the parts it needs, such as libraries, dependencies, and system settings and ship it all out as one package. Anyone can then open up a container and work within it, viewing and interacting with the project as if the machine they are accessing it from is identical to the machine specified in the container- regardless of what their computational environment *actually* is. They are designed to make it easier to transfer projects between very different environments.
 
-In a way, containers behave like a virtual machine. To the outside world, they can look like their own complete system. But unlike a virtual machine, rather than creating a whole virtual operating system, containers only contain the individual components they need in order to operate. This gives a significant performance boost and reduces the size of the application.
+In a way, containers behave like a virtual machine. To the outside world, they look like their own complete system. But unlike a virtual machine, rather than creating a whole virtual operating system plus all the software and tools typically packaged with one, containers only contain the individual components they need in order to operate the project they contain. This gives a significant performance boost and reduces the size of the application.
 
-Containers are particularly useful way for reproducing research which relies on software to be configured in a certain way, and/or which makes use of libraries that vary between (or don't exist on) different systems. In summary containers are a more robust way of sharing reproducible research than, for instance, package management systems of Binder because they reproduce the entire system used for the research, not just the packages explicitly used by it. Their major downside is that due to their greater depth they are conceptually more difficult to grasp and produce than many other methods of replicating computational environments.
+Containers are particularly useful way for reproducing research which relies on software to be configured in a certain way, and/or which makes use of libraries that vary between (or don't exist on) different systems. In summary containers are a more robust way of sharing reproducible research than, for instance, package management systems or Binder because they reproduce the entire system used for the research, not just the packages explicitly used by it. Their major downside is that due to their greater depth they are conceptually more difficult to grasp and produce than many other methods of replicating computational environments.
 
 <a name="What_are_images"></a>
 ### What are images?
@@ -656,7 +656,7 @@ Think of it like this:
 
 - A recipe file a human writes contains all the steps to generate a working version of the project and its computational environment, but no actual materials. Think of this as like a blueprint.
 - Building an image takes that recipe and using it assembles all the packages, software libraries, configurations etc needed to make the fully fledged project and environment and bundles them up in a condensed lump. Think of images like a bit of flat pack furniture made using the blueprint.
-- Containers take that image and assemble a full working version of the project inside its own little environment needed to run it. Think of this as assembling the bit of flat pack furniture.   
+- Containers take that image and assemble a full working version of the project and the environment needed to run it. Think of this as assembling the bit of flat pack furniture.   
 
 So if a researcher wants to allow others to reproduce their work they would need to write a recipe file, and use it to build an image of their project. They can then share this image file with anyone who wants to replicate their work. That person can then use the image to generate a container containing a working version of the project.
 
@@ -665,9 +665,9 @@ So if a researcher wants to allow others to reproduce their work they would need
 
 There are a number of different tools available for creating and working with containers. We will focus on Docker, which is widely used, but be aware that others such as Singularity also exist. Singularity is sometimes preferred for use on HPC systems as it does not need `sudo` permissions to be run, while Docker does.     
 
-In Docker the recipe files used to generate images are known as Dockerfiles, and should be named `Dockerfile`.
+In Docker the recipe files used to generate images are known as Dockerfiles, and should be named "Dockerfile".
 
-[DockerHub](https://hub.docker.com/) hosts a great many pre-made images which can be downloaded and build upon, such as [images](https://hub.docker.com/_/ubuntu) of Ubuntu machines. This makes the process of writing Dockerfiles relatively easy since users very rarely need to start from scratch. However, this does leave a user vulnerable to similar security issues as were described in the section on [YAML files](#Security_issues):
+[DockerHub](https://hub.docker.com/) hosts a great many pre-made images which can be downloaded and build upon, such as [images](https://hub.docker.com/_/ubuntu) of Ubuntu machines. This makes the process of writing Dockerfiles relatively easy since users very rarely need to start from scratch, they can just customise existing images. However, this does leave a user vulnerable to similar security issues as were described in the section on [YAML files](#Security_issues):
 
 - It is possible to include malicious code in Docker images
 - It is possible for people producing images to unknowingly include software in them with security vulnerabilities
@@ -709,10 +709,11 @@ Here are a few key commands for creating and working with containers.
   sudo docker container ls
   ```
 - There are also three main commands used for changing the status of containers:
-  - Pausing suspends the process running the container. Containers can be unpaused by replacing `pause` with `unpause`.
+  - Pausing suspends the process running the container.
     ```
     sudo docker container_ID pause
     ```
+    Containers can be unpaused by replacing `pause` with `unpause`.
   - Stopping a container terminates the process running it. A container must be stopped before it can be deleted.
     ```
     sudo docker container_ID stop
@@ -730,7 +731,7 @@ Here are a few key commands for creating and working with containers.
 <a name="Writing_Dockerfiles"></a>
 ### Writing Dockerfiles
 
-Lets go through the anatomy of a very simple Dockerfile:
+Let's go through the anatomy of a very simple Dockerfile:
 ```
 # Step 1: Set up the computational environment
 
@@ -752,7 +753,8 @@ RUN pip3 install numpy
 # Make a directory called "project" to hold the project files
 RUN mkdir project
 
-# Copy files from the machine building the image into the image
+# Copy files from the project_files directory on the machine building the image
+# into the "project" directory created by the previous line of code
 COPY project_files/* project/
 ```
 
