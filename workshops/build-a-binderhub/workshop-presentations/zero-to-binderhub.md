@@ -146,7 +146,7 @@ az aks create --name sheffhubcluster \
 
 **N.B.:** The default version of Kubernetes will be installed, you can use the `--kubernetes-version` flag to install a different version.
 
-**This step may take a few minutes to execute.**
+**This step may take a few minutes to execute.** :vertical-traffic-light:
 
 ### 7. Get credentials from Azure for `kubectl` <a name="aks-step7"></a>
 
@@ -212,10 +212,16 @@ kubectl create clusterrolebinding tiller --clusterrole cluster-admin --serviceac
 ### 3. Initialise `helm` and `tiller` <a name="helm-step3"></a>
 
 This step will create a `tiller` deployment in the `kube-system` namespace and set-up your local `helm` client.
-This is the command that connects your remote Kubernetes cluster to the commands you execute in your local terminal.
+This is the command that connects your remote Kubernetes cluster to the commands you execute in your local terminal and only needs to be run once per Kubernetes cluster.
 
 ```bash
 helm init --service-account tiller --wait
+```
+
+**N.B.:** If you wish to install `helm` on another computer, you won't need to setup `tiller` again but `helm` still needs to be initialised.
+The command to only initialise `helm` is:
+```bash
+helm init --client-only
 ```
 
 ### 4. Secure Helm <a name="helm-step4"></a>
@@ -266,8 +272,6 @@ Create a folder named after your BinderHub. (I will also create this inside `~/.
 mkdir sheff_test_hub
 cd sheff_test_hub
 ```
-
-We created this folder at the same level as the cluster folder we created in [Step 4: Choose a Cluster Name](#aks-step4) (i.e. in `~/Desktop`).
 
 Create two random tokens:
 ```bash
