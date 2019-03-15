@@ -1,5 +1,7 @@
 # Testing
 
+*blog to look at https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806*
+
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
 | Experience with the command line | Necessary |  |
