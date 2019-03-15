@@ -18,15 +18,6 @@
 
 Continuous integration ensures that your software is built and tested regularly. It can help you to demonstrate that your software does what it claims to do, and that it does so correctly. It also helps you to rapidly release bug-fixes and more functional versions of your software. Continuous integration can also be used to automate experiments that run using software.
 
-Continuous integration is a way of ensuring that software is tested regularly. A continuous integration server automatically gets the current version of the software, rebuilds the software, and runs the tests. It then notifies the developers about the success or failure of the build and tests.
-
-Publish build and test results within a structured, web-based dashboard to make it easy to see the status of the build and tests, the successes, the failures and reasons for these. They can also present information on builds and tests in progress, and aggregate build-and-test runs from multiple developers. Continuous integration servers can also support various forms of notifications, for example, emails or RSS feeds. The continuous integration server runs on its own machine so the developer can continue to work on his own machine while the test are under way.
-
-If the code changes, then the server can automatically spawn a new build-and-test job. This means that the software is rebuilt and tested every time the code is changed. Typically, continuous integration servers will also allow build-and-test jobs to run at specific times, so a CRON-like, nightly-build-and-test, can be done, as well as a build-and-test job run on-demand.
-
-This is why continuous integration helps your software to always be releasable: tests are run in response to changes to the code, and you are notified quickly when tests fails so that you can correct the reason for the failure  It is easier to fix a bug in something you wrote a few minutes ago, than something you wrote yesterday (or last week, or last month).
-
-
 
 ## What is continuous integration
 
@@ -40,6 +31,16 @@ has other functionalty work on branches and merge, good for collab projects, say
 
 ### Continuously integrating changes
 
+[SSI blog](https://software.ac.uk/using-continuous-integration-build-and-test-your-software?_ga=2.231776223.1391442519.1547641475-1644026160.1541158284)
+
+Continuous integration is a way of ensuring that software is tested regularly. A continuous integration server automatically gets the current version of the software, rebuilds the software, and runs the tests. It then notifies the developers about the success or failure of the build and tests.
+
+Publish build and test results within a structured, web-based dashboard to make it easy to see the status of the build and tests, the successes, the failures and reasons for these. They can also present information on builds and tests in progress, and aggregate build-and-test runs from multiple developers. Continuous integration servers can also support various forms of notifications, for example, emails or RSS feeds. The continuous integration server runs on its own machine so the developer can continue to work on his own machine while the test are under way.
+
+If the code changes, then the server can automatically spawn a new build-and-test job. This means that the software is rebuilt and tested every time the code is changed. Typically, continuous integration servers will also allow build-and-test jobs to run at specific times, so a CRON-like, nightly-build-and-test, can be done, as well as a build-and-test job run on-demand.
+
+This is why continuous integration helps your software to always be releasable: tests are run in response to changes to the code, and you are notified quickly when tests fails so that you can correct the reason for the failure  It is easier to fix a bug in something you wrote a few minutes ago, than something you wrote yesterday (or last week, or last month).
+
 
 [what is CI](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**
 
@@ -47,64 +48,6 @@ Continuous Integration is the practice of merging in small code changes
 frequently - rather than merging in a large change at the end of a development
 cycle. The goal is to build healthier software by developing and testing in smaller
 increments. This is where Travis CI comes in.
-
-As a continuous integration platform, Travis CI supports your development
-process by automatically building and testing code changes, providing immediate
-feedback on the success of the change. Travis CI can also automate other parts
-of your development process by managing deployments and notifications.  
-
-## CI builds and automation: building, testing, deploying
-
-When you run a build, Travis CI clones your GitHub repository into a brand new
-virtual environment, and carries out a series of tasks to build and test your
-code. If one or more of those tasks fails, the build is considered
-[*broken*](#breaking-the-build). If none of the tasks fail, the build is
-considered [*passed*](#breaking-the-build), and Travis CI can deploy your code
-to a web server, or application host.
-
-CI builds can also automate other parts of your delivery workflow. This means
-you can have jobs depend on each other with [Build Stages](/user/build-stages/),
-setup [notifications](/user/notifications/), prepare
-[deployments](/user/deployment/) after builds, and many other tasks.
-
-## Builds, Jobs, Stages and Phases
-
-In the Travis CI documentation, some common words have specific meanings:
-
-* *phase* - the [sequential steps](/user/job-lifecycle/)
-  of a job. For example, the `install` phase, comes before the `script` phase,
-  which comes before the optional `deploy` phase.
-* *job* - an automated process that clones your repository into a virtual
-  environment and then carries out a series of *phases* such as compiling your
-  code, running tests, etc. A job fails if the return code of the `script` *phase*
-  is non zero.
-* *build* - a group of *jobs*. For example, a build might have two *jobs*, each
-  of which tests a project with a different version of a programming language.
-  A *build* finishes when all of its jobs are finished.
-* *stage* - a group of *jobs* that run in parallel as part of sequential build
-  process composed of multiple [stages](/user/build-stages/).
-
-## Breaking the Build
-
-The build is considered *broken* when one or more of its jobs completes with a
-state that is not *passed*:
-
- * *errored* - a command in the `before_install`, `install`, or `before_script`
-   phase returned a non-zero exit code. The job stops immediately.
- * *failed* - a command in the `script` phase returned a non-zero exit code. The
-   job continues to run until it completes.
- * *canceled* - a user cancels the job before it completes.
-
-Our [Common Builds Problems](/user/common-build-problems/) page is a good place
-to start troubleshooting why your build is broken.
-
-## Infrastructure and environment notes
-
-Travis CI offers a few different infrastructure environments, so you can select
-the setup that suits your project best:
-
-* *Ubuntu Linux* - these Linux Ubuntu environments run inside full virtual machines, provide plenty of computational resources, and support the use of `sudo`, `setuid`, and `setgid`.
-* *macOS* - uses one of several versions of the macOS operating system. This environment is useful for building projects that require the macOS software, such as projects written in Swift. It is not a requirement to use the macOS environment if you develop on a macOS machine.
 
 ---
 
@@ -165,27 +108,21 @@ Using CI is important to:
 
 Build, see if that works, if not need to change, if it works then run tests, see if they fail/their completeness. If so deploy the code.
 
-An interesting discussion from [Software Engineering SE](https://softwareengineering.stackexchange.com/questions/379996/continuous-integration-for-scientific-software) on testing and CI for scientific software - might be useful when we're trying to motivate towards scientific computing types rather than professional software engineers.
-
-*Say there are others but we'll focus on travis, any of these I don't use put in the useul resources//further reading section*
+An interesting discussion from [Software Engineering SE](https://softwareengineering.stackexchange.com/questions/379996/continuous-integration-for-scientific-software) on testing for scientific software - might be useful when we're trying to motivate towards scientific computing types rather than professional software engineers.
 
 
-### List of [Hosted continuous integration ](https://www.software.ac.uk/resources/guides/hosted-continuous-integration) services
 
+## What is Travis and how does it work?
+
+*Say there are others but we'll focus on travis*
+
+List of [Hosted continuous integration ](https://www.software.ac.uk/resources/guides/hosted-continuous-integration) services
 
 Travis is free for public and kind of integrated with GitHub - so we can promote though not open source as it is so much easier to set up than Circle
 
+*Circle will have longer runtime, so you can pass it larger datasets?*
 
-    - Circle will have longer runtime, so you can pass it larger datasets
-
-#### Circle
-
-Links to tutorials:
-
-* https://circleci.com/docs/2.0/project-walkthrough/
-
-
-* [CircleCI Hello World.](https://circleci.com/docs/2.0/hello-world/)
+Links to circle tutorials [here](https://circleci.com/docs/2.0/project-walkthrough/) and [here]([CircleCI Hello World.](https://circleci.com/docs/2.0/hello-world/)
 
 
 #### Travis
@@ -193,9 +130,7 @@ Links to tutorials:
 Links to tutorials:
 * https://docs.travis-ci.com/user/tutorial/
 
-* A BEGINNER'S GUIDE TO TRAVIS-CI FOR R:    https://juliasilge.com/blog/beginners-guide-to-travis/
-
-* https://docs.python-guide.org/scenarios/ci/
+* A tutorial focussed on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), one geared towards python can be found [here](https://docs.python-guide.org/scenarios/ci/)
 
 * https://docs.travis-ci.com/user/languages/python/
 
@@ -204,8 +139,6 @@ Links to tutorials:
 
 ## Chapter content
 
-
-- *How to do it with travis (also mention others)*
   - *Travis is cloud based, makes a virtual linux machine and tries to build your project and runs tests.*
   - *Say travis is well intergrated with github. Need to add a setting in github to get it to run travis*
     - *Travis is a cloud service - you can’t run travis commands locally.*
@@ -217,6 +150,69 @@ Links to tutorials:
       - *you can protect branches so that there's no way to merge a pull request unless the tests pass.*
   - *How to link github repo and travis*
 
+
+  [Info about how travis works](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**
+
+
+  As a continuous integration platform, Travis CI supports your development
+  process by automatically building and testing code changes, providing immediate
+  feedback on the success of the change. Travis CI can also automate other parts
+  of your development process by managing deployments and notifications.  
+
+  ## CI builds and automation: building, testing, deploying
+
+  When you run a build, Travis CI clones your GitHub repository into a brand new
+  virtual environment, and carries out a series of tasks to build and test your
+  code. If one or more of those tasks fails, the build is considered
+  [*broken*](#breaking-the-build). If none of the tasks fail, the build is
+  considered [*passed*](#breaking-the-build), and Travis CI can deploy your code
+  to a web server, or application host.
+
+  CI builds can also automate other parts of your delivery workflow. This means
+  you can have jobs depend on each other with [Build Stages](/user/build-stages/),
+  setup [notifications](/user/notifications/), prepare
+  [deployments](/user/deployment/) after builds, and many other tasks.
+
+  ## Builds, Jobs, Stages and Phases
+
+  In the Travis CI documentation, some common words have specific meanings:
+
+  * *phase* - the [sequential steps](/user/job-lifecycle/)
+    of a job. For example, the `install` phase, comes before the `script` phase,
+    which comes before the optional `deploy` phase.
+  * *job* - an automated process that clones your repository into a virtual
+    environment and then carries out a series of *phases* such as compiling your
+    code, running tests, etc. A job fails if the return code of the `script` *phase*
+    is non zero.
+  * *build* - a group of *jobs*. For example, a build might have two *jobs*, each
+    of which tests a project with a different version of a programming language.
+    A *build* finishes when all of its jobs are finished.
+  * *stage* - a group of *jobs* that run in parallel as part of sequential build
+    process composed of multiple [stages](/user/build-stages/).
+
+  ## Breaking the Build
+
+  The build is considered *broken* when one or more of its jobs completes with a
+  state that is not *passed*:
+
+   * *errored* - a command in the `before_install`, `install`, or `before_script`
+     phase returned a non-zero exit code. The job stops immediately.
+   * *failed* - a command in the `script` phase returned a non-zero exit code. The
+     job continues to run until it completes.
+   * *canceled* - a user cancels the job before it completes.
+
+  Our [Common Builds Problems](/user/common-build-problems/) page is a good place
+  to start troubleshooting why your build is broken.
+
+  ## Infrastructure and environment notes
+
+  Travis CI offers a few different infrastructure environments, so you can select
+  the setup that suits your project best:
+
+  * *Ubuntu Linux* - these Linux Ubuntu environments run inside full virtual machines, provide plenty of computational resources, and support the use of `sudo`, `setuid`, and `setgid`.
+  * *macOS* - uses one of several versions of the macOS operating system. This environment is useful for building projects that require the macOS software, such as projects written in Swift. It is not a requirement to use the macOS environment if you develop on a macOS machine.
+
+  ---
 
   [light travis tutorial](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/tutorial.md) **MIT**
 
