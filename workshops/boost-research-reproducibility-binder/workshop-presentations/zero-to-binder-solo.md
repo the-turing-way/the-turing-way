@@ -24,6 +24,7 @@ To run code, you need:
   * The programming language (e.g. Python, R)
   * Relevant packages (e.g. pandas, matplotlib, tidyverse, ggplot)
 
+<a name="binder"></a>
 ## What Binder Provides
 
 [Binder](https://mybinder.org) is a service that provides your code and the hardware and software to execute it.
@@ -277,7 +278,7 @@ You can access the environment by changing the URL you visit to:
 
 > **https://mybinder.org/v2/gh/your-username/my-first-binder/master?urlpath=lab**
 
-**N.B.:** We've already seen how the `?filepath=` argument can link to a specific file in the [What Binder Provides](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-solo.md#what-binder-provides) section at the beginning of this workshop.
+**N.B.:** We've already seen how the `?filepath=` argument can link to a specific file in the [What Binder Provides](#binder) section at the beginning of this workshop.
 
 Here you can access:
 * Notebooks
