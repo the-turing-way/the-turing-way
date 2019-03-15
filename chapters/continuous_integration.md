@@ -108,9 +108,6 @@ Using CI is important to:
 
 Build, see if that works, if not need to change, if it works then run tests, see if they fail/their completeness. If so deploy the code.
 
-An interesting discussion from [Software Engineering SE](https://softwareengineering.stackexchange.com/questions/379996/continuous-integration-for-scientific-software) on testing for scientific software - might be useful when we're trying to motivate towards scientific computing types rather than professional software engineers.
-
-
 
 ## What is Travis and how does it work?
 
@@ -124,28 +121,14 @@ Travis is free for public and kind of integrated with GitHub - so we can promote
 
 Links to circle tutorials [here](https://circleci.com/docs/2.0/project-walkthrough/) and [here]([CircleCI Hello World.](https://circleci.com/docs/2.0/hello-world/)
 
+- *Travis is cloud based, makes a virtual linux machine and tries to build your project and runs tests.*
+- *Say travis is well intergrated with github. Need to add a setting in github to get it to run travis*
+- *Travis is a cloud service - you can’t run travis commands locally.*
+- *Travis is free to public and for educational workers like github, need to pay for private.*
 
-#### Travis
 
-Links to tutorials:
-* https://docs.travis-ci.com/user/tutorial/
-
-* A tutorial focussed on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), one geared towards python can be found [here](https://docs.python-guide.org/scenarios/ci/)
-
-* https://docs.travis-ci.com/user/languages/python/
-
-* [SSI Build and Test Examples](https://github.com/softwaresaved/build_and_test_examples) for various languages / frameworks
 * [Adopting automated testing](https://github.com/softwaresaved/automated_testing/blob/master/README.md): An example of how automated testing can be adopted for software to give researchers the security to refactor, extend, optimise or tidy, their code without the overhead of having to implement dozens of unit tests at the outset.
 
-## Chapter content
-
-  - *Travis is cloud based, makes a virtual linux machine and tries to build your project and runs tests.*
-  - *Say travis is well intergrated with github. Need to add a setting in github to get it to run travis*
-    - *Travis is a cloud service - you can’t run travis commands locally.*
-    - *direct to version control chapter*
-    - *Give brief outline of why github's a good idea for collaborative projects anyway*
-    - *But just say for the purposes of this to upload*
-    - *Warn need to be ok with making public (unless academic (student?) can get free private), talk about other limitations of travis (time etc?). Travis is free to public and for educational workers like github, need to pay for private.*
     - *You can make "test passed" a requirement for merging *
       - *you can protect branches so that there's no way to merge a pull request unless the tests pass.*
   - *How to link github repo and travis*
@@ -718,6 +701,10 @@ There are a number of techniques that help teams deploy the code responsible for
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
 > less relevant/favourite resources in case someone wants to dig into this in detail
 
+* [SSI Build and Test Examples](https://github.com/softwaresaved/build_and_test_examples) for various languages / frameworks
+
+Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). A tutorial focussed on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), tutorials geared towards python can be found [here](https://docs.python-guide.org/scenarios/ci/) and [here](https://docs.travis-ci.com/user/languages/python/)
+
 ## Definitions/glossary
 *This looks like a useful resource for a glossary/intro: https://docs.travis-ci.com/user/for-beginners/*
 
@@ -726,4 +713,4 @@ There are a number of techniques that help teams deploy the code responsible for
 
 ## Acknowledgements
 
-Thanks to David Jones for useful discussions.
+Thanks to David Jones of the University of Sheffield RSE group for useful discussions.
