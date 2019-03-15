@@ -23,6 +23,13 @@
 
 *Very brief, say helps coordinate/runs tests* Just a few bullet points
 
+- Encourages the writing of tests
+- If you include tests then you don't need to remember to run them, it's done automatically each time
+
+
+Using CI is important to:
+- Find out if there are problems early on.
+
 <a name="What_is_continuous_integration"></a>
 ## What is continuous integration?
 
@@ -41,51 +48,15 @@ Integrating code frequently does not, by itself, offer any guarantees about the 
 
 By ensuring that your code is built and tested regularly CI helps researchers to demonstrate that their code does what it claims to do, and that it does so correctly. Typically, continuous integration servers will also allow build-and-test jobs to run at specific times, so a CRON-like, nightly-build-and-test, can be done, as well as a build-and-test job run on-demand.
 
-## What is continuous delivery and deployment?
+### What are continuous delivery and continuous deployment?
 
+Technically speaking the above explanation conflates three related concepts, continuous integration, continuous deployment, and continuous delivery. In reality:
 
-[diff between CI C deplyment and C delivery](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+- Continuous integration focuses on regularly integrating work from individual researchers into a main repository.
+- Continuous delivery automates and runs the steps required to build and test the project.
+- Continuous deployment takes this one step further by automatically deploying each time a code change is made.
 
-Introduction
-Developing and releasing software can be a complicated process, especially as applications, teams, and deployment infrastructure grow in complexity themselves. Often, challenges become more pronounced as projects grow. To develop, test, and release software in a quick and consistent way, developers and organizations have created three related but distinct strategies to manage and automate these processes.
-
-Continuous integration focuses on integrating work from individual developers into a main repository multiple times a day to catch integration bugs early and accelerate collaborative development. Continuous delivery is concerned with reducing friction in the deployment or release process, automating the steps required to deploy a build so that code can be released safely at any time. Continuous deployment takes this one step further by automatically deploying each time a code change is made.
-
-What is Continuous Delivery and Why Is It Helpful?
-Continuous delivery is an extension of continuous integration. It focuses on automating the software delivery process so that teams can easily and confidently deploy their code to production at any time. By ensuring that the codebase is always in a deployable state, releasing software becomes an unremarkable event without complicated ritual. Teams can be confident that they can release whenever they need to without complex coordination or late-stage testing. As with continuous integration, continuous delivery is a practice that requires a mixture of technical and organizational improvements to be effective.
-
-On the technology side, continuous delivery leans heavily on deployment pipelines to automate the testing and deployment processes. A deployment pipeline is an automated system that runs increasingly rigorous test suites against a build as a series of sequential stages. This picks up where continuous integration leaves off, so a reliable continuous integration setup is a prerequisite to implementing continuous delivery.
-
-At each stage, the build either fails the tests, which alerts the team, or passes the tests, which results in automatic promotion to the next stage. As the build moves through the pipeline, later stages deploy the build to environments that mirror the production environment as closely as possible. This way the build, the deployment process, and the environment can be tested in tandem. The pipeline ends with a build that can be deployed to production at any time in a single step.
-
-The organizational aspects of continuous delivery encourage prioritization of "deployability" as a principle concern. This has an impact on the way that features are built and hooked into the rest of the codebase. Thought must be put into the design of the code so that features can be safely deployed to production at any time, even when incomplete. A number of techniques have emerged to assist in this area.
-
-Continuous delivery is attractive because it automates the steps between checking code into the repository and deciding on whether to release well-tested, functional builds to your production infrastructure. The steps that help assert the quality and correctness of the code are automated, but the final decision about what to release is left in the hands of the organization for maximum flexibility.
-
-What is Continuous Deployment and Why Is It Helpful?
-Continuous deployment is an extension of continuous delivery that automatically deploys each build that passes the full test cycle. Instead of waiting for a human gatekeeper to decide what and when to deploy to production, a continuous deployment system deploys everything that has successfully traversed the deployment pipeline. Keep in mind that while new code is automatically deployed, techniques exist to activate new features at a later time or for a subset of users. Deploying automatically pushes features and fixes to customers quickly, encourages smaller changes with limited scope, and helps avoid confusion over what is currently deployed to production.
-
-This fully automated deploy cycle can be a source of anxiety for organizations worried about relinquishing control to their automation system of what gets released. The trade-off offered by automated deployments is sometimes judged to be too dangerous for the payoff they provide.
-
-Other groups leverage the promise of automatic release as a method of ensuring that best practices are always followed and to extend the testing process into a limited production environment. Without a final manual verification before deploying a piece of code, developers must take responsibility for ensuring that their code is well-designed and that the test suites are up-to-date. This collapses the decision of what and when to commit to the main repository and what and when to release to production into a single point that exists firmly in the hands of the development team.
-
-Continuous deployment also allows organizations to benefit from consistent early feedback. Features can immediately be made available to users and defects or unhelpful implementations can be caught early before the team devotes extensive effort in an unproductive direction. Getting fast feedback that a feature isn't helpful lets the team shift focus rather than sinking more energy into an area with minimal impact.
-
-
----
-
-- If multiple people are doing research using their own copy of some code then it's harder to combine work the longer you leave it.
-- Keeping everyone up to date means they can take advantage of improvements made by others earlier
-- Encourages the writing of tests
-- If you include tests then you don't need to remember to run them, it's done automatically each time
-
-
-Using CI is important to:
-- Find out if there are problems early on.
-- Make sure things are integrated often, changes not made in isolation.
-
-Build, see if that works, if not need to change, if it works then run tests, see if they fail/their completeness. If so deploy the code.
-
+In this chapter this entire process is referred to as continuous integration for the sake of simplicity.
 
 ## What is Travis and how does it work?
 
@@ -711,7 +682,7 @@ Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). 
 
 - [What is CI](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**
 - [SSI blog](https://software.ac.uk/using-continuous-integration-build-and-test-your-software?_ga=2.231776223.1391442519.1547641475-1644026160.1541158284)
-- [diff between CI C deplyment and C delivery](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+- [The difference between continuous integration, continuous deployment, and continuous delivery](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
 - [Martin Fowler, who first wrote about Continuous Integration (short: CI) together with Kent Beck via CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
 
 ## Acknowledgements
