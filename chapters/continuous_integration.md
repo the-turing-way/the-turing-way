@@ -7,19 +7,23 @@
 | Testing | Very helpful | See the chapter on this for more information  |
 | Reproducible computational environments | Necessary | See the chapter on this for more information, particularly the sections on YAML files and containers |
 
+## Table of contents
 
+- [Summary](#Summary)
+- [How this will help you/ why this is useful](#Why_this_is_useful)
 
-
+<a name="Summary"></a>
 ## Summary
 > easy to understand summary - a bit like tl;dr
 
 *Need to say abbreviation = CI near the top*
 
+<a name="Why_this_is_useful"></a>
 ## How this will help you/ why this is useful
 
 *Very brief, say helps coordinate/runs tests* Just a few bullet points
 
-
+<a name="What_is_continuous_integration"></a>
 ## What is continuous integration?
 
 This chapter demands a strong understanding of version control. The central concepts you will need to recall are:
