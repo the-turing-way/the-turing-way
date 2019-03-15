@@ -45,6 +45,8 @@ brew install kubernetes-cli
 brew install kubernetes-helm
 ```
 
+:vertical-traffic-light: :vertical-traffic-light: :vertical-traffic-light: :vertical-traffic-light: :vertical-traffic-light:
+
 <a name="k8s"></a>
 ## Deploying a Kubernetes cluster on Azure
 
@@ -188,6 +190,8 @@ NAME                       STATUS   ROLES   AGE   VERSION
 aks-nodepool1-97000712-0   Ready    agent   19m   v1.9.11
 ```
 
+:question: :question: Pause for questions and people to catch up :question: :question:
+
 <a name="helm"></a>
 ## Setting up Helm
 
@@ -226,6 +230,8 @@ See [Project Jupyter's docs](https://zero-to-jupyterhub.readthedocs.io/en/latest
 kubectl create clusterrolebinding tiller --clusterrole cluster-admin --serviceaccount=kube-system:tiller
 ```
 
+:question: 🤔
+
 <a name="helm-step3"></a>
 ### 3. Initialise `helm` and `tiller`
 
@@ -262,6 +268,8 @@ kubectl patch deployment tiller-deploy \
     }]'
 ```
 
+:question: 🤔
+
 <a name="helm-step5"></a>
 ### 5. Verify the installation
 
@@ -278,6 +286,8 @@ Example output:
 Client: &version.Version{SemVer:"v2.12.3", GitCommit:"eecf22f77df5f65c823aacd2dbd30ae6c65f186e", GitTreeState:"clean"}
 Server: &version.Version{SemVer:"v2.12.3", GitCommit:"eecf22f77df5f65c823aacd2dbd30ae6c65f186e", GitTreeState:"clean"}
 ```
+
+:question: :question: Pause for questions and people to catch up :question: :question:
 
 <a name="binderhub"></a>
 ## Setup BinderHub
@@ -414,6 +424,12 @@ Executing the following commands will print the JupyterHub logs to your terminal
 kubectl get pod -n sheff-hub                # Lists all active pods. Find the one beginning with "hub-"
 kubectl logs hub-<random-str> -n sheff-hub  # Where <random-str> matches the output from the last step
 ```
+
+**This is the end of the formal walkthrough.**
+
+---
+
+**Below are some "extra credit" exercises.**
 
 <a name="auth"></a>
 ## Authenticating Users with GitHub
