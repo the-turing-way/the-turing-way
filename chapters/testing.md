@@ -2,6 +2,8 @@
 
 *blog to look at https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806*
 
+An interesting discussion from [Software Engineering SE](https://softwareengineering.stackexchange.com/questions/379996/continuous-integration-for-scientific-software) on testing for scientific software - might be useful when we're trying to motivate towards scientific computing types rather than professional software engineers.
+
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
 | Experience with the command line | Necessary |  |
