@@ -7,67 +7,35 @@
 | Testing | Very helpful | See the chapter on this for more information  |
 | Reproducible computational environments | Necessary | See the chapter on this for more information, particularly the sections on YAML files and containers |
 
+
+
+
 ## Summary
 > easy to understand summary - a bit like tl;dr
+
+*Need to say abbreviation = CI near the top*
 
 ## How this will help you/ why this is useful
 
 *Very brief, say helps coordinate/runs tests* Just a few bullet points
 
-[SSI blog](https://software.ac.uk/using-continuous-integration-build-and-test-your-software?_ga=2.231776223.1391442519.1547641475-1644026160.1541158284)
 
-Continuous integration ensures that your software is built and tested regularly. It can help you to demonstrate that your software does what it claims to do, and that it does so correctly. It also helps you to rapidly release bug-fixes and more functional versions of your software. Continuous integration can also be used to automate experiments that run using software.
+## What is continuous integration?
 
+This chapter demands a strong understanding of version control. The central concepts you will need to recall are:
 
-## What is continuous integration
+- How it can be used to enable people collaborating on a single project to combine their work via merging
+- What merge conflicts are and the difficulties they can present
 
-### What is version control?
+In brief if a group of researchers are collaborating on a project it is good practise for them to use version control to keep track of their changes over time, and combine their work regularly. If they do not combine (integrate) their work regularly then when they come to do it is likely to be very difficult as different people may have made contradictory changes.
 
-*Say prereq, give quick reminder here*
+Continuous Integration is a software development practice where members of a team integrate their work frequently, rather than doing work in isolation and merging in a large change when they're done. Usually each person integrates at least daily. Each integration is verified by an automated build (usually including tests) to detect integration errors as quickly as possible.
 
-![master_branch](../figures/master_branch.png)
+The idea is to minimize the cost of integration by making it an early consideration. Researchers can discover conflicts at the boundaries between new and existing code early, while conflicts are still relatively easy to reconcile. Once the conflict is resolved, work can continue with confidence that the new code honours the requirements of the existing codebase. The goal is to build healthier software by developing and testing in smaller increments.  Many teams find that this approach leads to significantly reduced integration problems and allows a team to develop more rapidly.
 
-has other functionalty work on branches and merge, good for collab projects, say expect people to already understand
+Integrating code frequently does not, by itself, offer any guarantees about the quality of the new code or functionality. This leads us to the second aspect of CI. When a developer merges code into the main repository, automated processes build a working version of the project. Afterwards, test suites are run against the new build to check whether any problems were introduced. If either the build or the test phase fails, the team is alerted so that they can work to fix the problem. It is easier to fix a bug in something you wrote a few minutes ago, than something you wrote yesterday (or last week, or last month).
 
-### Continuously integrating changes
-
-[SSI blog](https://software.ac.uk/using-continuous-integration-build-and-test-your-software?_ga=2.231776223.1391442519.1547641475-1644026160.1541158284)
-
-Continuous integration is a way of ensuring that software is tested regularly. A continuous integration server automatically gets the current version of the software, rebuilds the software, and runs the tests. It then notifies the developers about the success or failure of the build and tests.
-
-Publish build and test results within a structured, web-based dashboard to make it easy to see the status of the build and tests, the successes, the failures and reasons for these. They can also present information on builds and tests in progress, and aggregate build-and-test runs from multiple developers. Continuous integration servers can also support various forms of notifications, for example, emails or RSS feeds. The continuous integration server runs on its own machine so the developer can continue to work on his own machine while the test are under way.
-
-If the code changes, then the server can automatically spawn a new build-and-test job. This means that the software is rebuilt and tested every time the code is changed. Typically, continuous integration servers will also allow build-and-test jobs to run at specific times, so a CRON-like, nightly-build-and-test, can be done, as well as a build-and-test job run on-demand.
-
-This is why continuous integration helps your software to always be releasable: tests are run in response to changes to the code, and you are notified quickly when tests fails so that you can correct the reason for the failure  It is easier to fix a bug in something you wrote a few minutes ago, than something you wrote yesterday (or last week, or last month).
-
-
-[what is CI](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**
-
-Continuous Integration is the practice of merging in small code changes
-frequently - rather than merging in a large change at the end of a development
-cycle. The goal is to build healthier software by developing and testing in smaller
-increments. This is where Travis CI comes in.
-
----
-
-[diff between CI C deplyment and C delivery](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
-
-Continuous integration is a practice that encourages developers to integrate their code into a main branch of a shared repository early and often. Instead of building out features in isolation and integrating them at the end of a development cycle, code is integrated with the shared repository by each developer multiple times throughout the day.
-
-The idea is to minimize the cost of integration by making it an early consideration. Developers can discover conflicts at the boundaries between new and existing code early, while conflicts are still relatively easy to reconcile. Once the conflict is resolved, work can continue with confidence that the new code honours the requirements of the existing codebase.
-
-Integrating code frequently does not, by itself, offer any guarantees about the quality of the new code or functionality. In many organizations, integration is costly because manual processes are used to ensure that the code meets standards, does not introduce bugs, and does not break existing functionality. Frequent integration can create friction when the level of automation does not match the amount quality assurance measures in place.
-
-To address this friction within the integration process, in practice, continuous integration relies on robust test suites and an automated system to run those tests. When a developer merges code into the main repository, automated processes kick off a build of the new code. Afterwards, test suites are run against the new build to check whether any integration problems were introduced. If either the build or the test phase fails, the team is alerted so that they can work to fix the build.
-
-The end goal of continuous integration is to make integration a simple, repeatable process that is part of the everyday development workflow in order to reduce integration costs and respond to defects early. Working to make sure the system is robust, automated, and fast while cultivating a team culture that encourages frequent iteration and responsiveness to build issues is fundamental to the success of the strategy.
-
-[CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
-
-Martin Fowler, who first wrote about Continuous Integration (short: CI) together with Kent Beck, describes CI as follows:
-
-Continuous Integration is a software development practice where members of a team integrate their work frequently, usually each person integrates at least daily - leading to multiple integrations per day. Each integration is verified by an automated build (including test) to detect integration errors as quickly as possible. Many teams find that this approach leads to significantly reduced integration problems and allows a team to develop cohesive software more rapidly.
+By ensuring that your code is built and tested regularly CI helps researchers to demonstrate that their code does what it claims to do, and that it does so correctly. Typically, continuous integration servers will also allow build-and-test jobs to run at specific times, so a CRON-like, nightly-build-and-test, can be done, as well as a build-and-test job run on-demand.
 
 ## What is continuous delivery and deployment?
 
@@ -734,7 +702,13 @@ Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). 
 *This looks like a useful resource for a glossary/intro: https://docs.travis-ci.com/user/for-beginners/*
 
 ## Bibliography
-> Credit/urls for any materials that form part of the chapter's text.
+
+### Materials used: What is continuous integration?
+
+- [What is CI](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**
+- [SSI blog](https://software.ac.uk/using-continuous-integration-build-and-test-your-software?_ga=2.231776223.1391442519.1547641475-1644026160.1541158284)
+- [diff between CI C deplyment and C delivery](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+- [Martin Fowler, who first wrote about Continuous Integration (short: CI) together with Kent Beck via CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
 
 ## Acknowledgements
 
