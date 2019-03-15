@@ -79,8 +79,8 @@ Resource Groups are how the Azure environment manages services that are related 
 We will create a resource group in a specific data location and create computational resources _within_ this group.
 
 ```bash
-az group create --name=sheff_test_hub \
-    --location="West Europe" \
+az group create --name sheff_test_hub \
+    --location "West Europe" \
     --output table
 ```
 * `--name` specifies the name of your resource group and should be something that uniquely identifies this hub.
@@ -93,6 +93,9 @@ az group create --name=sheff_test_hub \
 
 Somewhere on your machine (e.g. `~/Desktop`), create a folder in which to store files relating to the compute cluster we are about to build.
 This folder should have the same name as the cluster and should be descriptive and short.
+
+`--name` cannot exceed 63 characters and can only contain letters, numbers, or dashes (-).
+This is a requirement for the `aks create` command in the next step.
 
 ```bash
 mkdir sheffhubcluster
