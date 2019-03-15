@@ -45,7 +45,7 @@ brew install kubernetes-cli
 brew install kubernetes-helm
 ```
 
-:vertical-traffic-light: :vertical-traffic-light: :vertical-traffic-light: :vertical-traffic-light: :vertical-traffic-light:
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
 <a name="k8s"></a>
 ## Deploying a Kubernetes cluster on Azure
@@ -159,7 +159,7 @@ az aks create --name sheffhubcluster \
 
 **N.B.:** The default version of Kubernetes will be installed, you can use the `--kubernetes-version` flag to install a different version.
 
-**This step may take a few minutes to execute.** :vertical-traffic-light:
+**This step may take a few minutes to execute.** :vertical_traffic_light:
 
 <a name="aks-step7"></a>
 ### 7. Get credentials from Azure for `kubectl`
