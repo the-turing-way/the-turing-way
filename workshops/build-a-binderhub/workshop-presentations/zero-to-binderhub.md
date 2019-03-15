@@ -18,15 +18,13 @@ To follow along with these instructions, go to this link: [**bit.ly/sg-zero-to-b
 This workshop assumes you have a "Free Trial" subscription with [Microsoft Azure](https://azure.microsoft.com/en-gb/).
 It's quick to set one up and you get £150 free credit for the first 30 days as well as access to some _always free_ services.
 
-> BinderHub is Cloud-neutral.
-> We are using Azure as an example.
+> BinderHub is Cloud-neutral. We are using Azure as an example.
 
 ## Container Registry <a name="containerreg"></a>
 
 These instructions will link the BinderHub to a [DockerHub](https://hub.docker.com/) Container Registry, and so you will need a DockerHub account as well.
 
-> BinderHub also works with Google Container Registry and custom registries.
-> We are using DockerHub as an example.
+> BinderHub also works with Google Container Registry and custom registries. We are using DockerHub as an example.
 
 ## Installation Requirements <a name="installation"></a>
 
@@ -91,7 +89,17 @@ az group create --name sheff_test_hub \
 
 ### 4. Choose a Cluster Name <a name="aks-step4"></a>
 
-Somewhere on your machine (e.g. `~/Desktop`), create a folder in which to store files relating to the compute cluster we are about to build.
+We are now going to create some folder/files that will contain SSH keys, tokens and passwords.
+You may wish to create a [_hidden_ folder](https://www.maketecheasier.com/hide-file-folder-in-mac/) (e.g. `.secret/`) create any further files and folders within this one.
+If you are then collaborating with people on your BinderHub on GitHub, you would use a `.gitignore` file to prevent the contents of the folder from being pushed to GitHub by adding `.secret/` to it.
+
+Example of hidden folder creation:
+```bash
+mkdir ~/.secret
+cd ~/.secret
+```
+
+Create a folder in which to store files relating to the compute cluster we are about to build.
 This folder should have the same name as the cluster and should be descriptive and short.
 
 `--name` cannot exceed 63 characters and can only contain letters, numbers, or dashes (-).
@@ -253,15 +261,13 @@ Adapted from [Zero-to-BinderHub: Setup BinderHub](https://binderhub.readthedocs.
 
 Before we install a BinderHub, we need to configure several pieces of information and save them in `yaml` files.
 
-Create a folder named after your BinderHub.
+Create a folder named after your BinderHub. (I will also create this inside `~/.secret`.)
 ```bash
 mkdir sheff_test_hub
 cd sheff_test_hub
 ```
 
 We created this folder at the same level as the cluster folder we created in [Step 4: Choose a Cluster Name](#aks-step4) (i.e. in `~/Desktop`).
-
-> **Discussion topic:** Where is a sensible place to keep _this_ folder?
 
 Create two random tokens:
 ```bash
