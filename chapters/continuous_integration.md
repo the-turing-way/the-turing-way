@@ -60,76 +60,42 @@ In this chapter this entire process is referred to as continuous integration for
 
 ## What is Travis and how does it work?
 
-*Say there are others but we'll focus on travis*
+There are a number of CI tools available, such Circle (tutorials [here](https://circleci.com/docs/2.0/project-walkthrough/) and [here]([CircleCI Hello World.](https://circleci.com/docs/2.0/hello-world/)). A list of others CI tools can be found [here](https://www.software.ac.uk/resources/guides/hosted-continuous-integration). In this chapter we will focus on [Travis](https://travis-ci.org/) because it's free (if your code is openly available), widely used, and well integrated with the version control platform [GitHub](https://github.com/).
 
-List of [Hosted continuous integration ](https://www.software.ac.uk/resources/guides/hosted-continuous-integration) services
 
-Travis is free for public and kind of integrated with GitHub - so we can promote though not open source as it is so much easier to set up than Circle
+As a continuous integration platform, Travis CI supports your development process by automatically building and testing code changes, providing immediate feedback on the success of the change. Travis CI can also automate other parts of your development process by managing deployments and notifications.  
 
-*Circle will have longer runtime, so you can pass it larger datasets?*
-
-Links to circle tutorials [here](https://circleci.com/docs/2.0/project-walkthrough/) and [here]([CircleCI Hello World.](https://circleci.com/docs/2.0/hello-world/)
-
-- *Travis is cloud based, makes a virtual linux machine and tries to build your project and runs tests.*
-- *Say travis is well intergrated with github. Need to add a setting in github to get it to run travis*
-- *Travis is a cloud service - you can’t run travis commands locally.*
-- *Travis is free to public and for educational workers like github, need to pay for private.*
-
+- Green, amber, red
+  - failures in "install" section create travis build fail errors (grey message - test didn't run)
+  - failures in "script" creates test failure and thus red error messages
+  - yellow while it's running
 
     - *You can make "test passed" a requirement for merging *
       - *you can protect branches so that there's no way to merge a pull request unless the tests pass.*
   - *How to link github repo and travis*
 
 
-  [CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
-
-  Martin Fowler, who first wrote about Continuous Integration (short: CI) together with Kent Beck, describes CI as follows:
-
-  Travis-CI is a distributed CI server which builds tests for open source projects for free. It provides multiple workers to run Python tests on and seamlessly integrates with GitHub. You can even have it comment on your Pull Requests whether this particular changeset breaks the build or not. So if you are hosting your code on GitHub, Travis-CI is a great and easy way to get started with Continuous Integration.
 
   [Info about how travis works](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**
 
 
-  As a continuous integration platform, Travis CI supports your development
-  process by automatically building and testing code changes, providing immediate
-  feedback on the success of the change. Travis CI can also automate other parts
-  of your development process by managing deployments and notifications.  
-
   ## CI builds and automation: building, testing, deploying
 
-  When you run a build, Travis CI clones your GitHub repository into a brand new
-  virtual environment, and carries out a series of tasks to build and test your
-  code. If one or more of those tasks fails, the build is considered
-  [*broken*](#breaking-the-build). If none of the tasks fail, the build is
-  considered [*passed*](#breaking-the-build), and Travis CI can deploy your code
-  to a web server, or application host.
+  When you run a build, Travis CI clones your GitHub repository into a brand new virtual environment, and carries out a series of tasks to build and test your code. If one or more of those tasks fails, the build is considered broken. If none of the tasks fail, the build is  considered passed, and Travis CI can deploy your code to a web server, or application host.
 
-  CI builds can also automate other parts of your delivery workflow. This means
-  you can have jobs depend on each other with [Build Stages](/user/build-stages/),
-  setup [notifications](/user/notifications/), prepare
-  [deployments](/user/deployment/) after builds, and many other tasks.
+  CI builds can also automate other parts of your delivery workflow. This means you can setup [notifications](/user/notifications/) and many other tasks.
 
   ## Builds, Jobs, Stages and Phases
 
   In the Travis CI documentation, some common words have specific meanings:
 
-  * *phase* - the [sequential steps](/user/job-lifecycle/)
-    of a job. For example, the `install` phase, comes before the `script` phase,
-    which comes before the optional `deploy` phase.
-  * *job* - an automated process that clones your repository into a virtual
-    environment and then carries out a series of *phases* such as compiling your
-    code, running tests, etc. A job fails if the return code of the `script` *phase*
-    is non zero.
-  * *build* - a group of *jobs*. For example, a build might have two *jobs*, each
-    of which tests a project with a different version of a programming language.
-    A *build* finishes when all of its jobs are finished.
-  * *stage* - a group of *jobs* that run in parallel as part of sequential build
-    process composed of multiple [stages](/user/build-stages/).
+  * Job - an automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code, running tests, etc. A job fails if the return code of the `script` encounters an error.
+  * Build - a group of jobs. For example, a build might have two *jobs*, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
 
   ## Breaking the Build
 
-  The build is considered *broken* when one or more of its jobs completes with a
-  state that is not *passed*:
+  The build is considered broken when one or more of its jobs completes with a
+  state that is not passed:
 
    * *errored* - a command in the `before_install`, `install`, or `before_script`
      phase returned a non-zero exit code. The job stops immediately.
@@ -150,10 +116,7 @@ Links to circle tutorials [here](https://circleci.com/docs/2.0/project-walkthrou
 
   ---
 
-  - Green, amber, red
-    - failures in "install" section create travis build fail errors (grey message - test didn't run)
-    - failures in "script" creates test failure and thus red error messages
-    - yellow while it's running
+
 
 
   ### Setting up my own CI step by step
