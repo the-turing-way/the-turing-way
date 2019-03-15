@@ -4,6 +4,9 @@
 
 An interesting discussion from [Software Engineering SE](https://softwareengineering.stackexchange.com/questions/379996/continuous-integration-for-scientific-software) on testing for scientific software - might be useful when we're trying to motivate towards scientific computing types rather than professional software engineers.
 
+* [Adopting automated testing](https://github.com/softwaresaved/automated_testing/blob/master/README.md): An example of how automated testing can be adopted for software to give researchers the security to refactor, extend, optimise or tidy, their code without the overhead of having to implement dozens of unit tests at the outset.
+
+
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
 | Experience with the command line | Necessary |  |
