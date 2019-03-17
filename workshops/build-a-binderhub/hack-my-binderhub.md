@@ -98,8 +98,8 @@ The starting point for any contribution to a community should be the community c
 - **Do the homework:**
     - Show that you have engaged with problem
     - Show that you have grappled with appreciating project constraints
-    - More likely to provide solutions rather than problems (preferable).
-- **Be explicit about what feedback you need**: eg
+    - Preferable to provide solutions rather than problems.
+- **Be explicit about what feedback you need**: e.g.
     -  discussion on the technical approach? 
     -  critique on a design proposal? 
     -  a review of copy?
