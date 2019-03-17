@@ -13,5 +13,5 @@ In this folder you can find the materials you need to take part in a Turing Way 
 * [Communications](before_workshop.md) to send out before the workshop
   * These are specific to the Manchester and London workshops in March 2019, but can easily be adapted.
 * [Feedback form](feedback_form.md) that you can make into a google form
-  * Wuch as [this one](https://goo.gl/forms/DZGFMPJ4EPClc4qK2) for the Manchester and London workshops in March 2019.
+  * Such as [this one](https://goo.gl/forms/DZGFMPJ4EPClc4qK2) for the Manchester and London workshops in March 2019.
 * Records of [feedback](feedback) from previous workshops.
