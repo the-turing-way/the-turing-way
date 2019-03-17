@@ -20,6 +20,7 @@ This has allowed to us to play around with the technology for free! It also mean
 
 - innovation: propose new features and use cases
 - robustness: finding bugs and usability issues
+- documentation: find gaps and inconsistencies
 - sustainability: adoption and dissemination
 
 We've gathered valuable experience this morning from a wide range of perspectives. Now we want to **capture the insights gained as a contribution to the Binder project**
