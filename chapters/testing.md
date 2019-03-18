@@ -7,6 +7,20 @@ An interesting discussion from [Software Engineering SE](https://softwareenginee
 * [Adopting automated testing](https://github.com/softwaresaved/automated_testing/blob/master/README.md): An example of how automated testing can be adopted for software to give researchers the security to refactor, extend, optimise or tidy, their code without the overhead of having to implement dozens of unit tests at the outset.
 
 
+    Code coverage is a measure of how much of your code is "covered" by tests. Most programming languages have tools either build into them or that can be imported to automatically measure code coverage, and there's also a nice little [bot](https://codecov.io/) available too.
+
+
+    pytest can also tell you about code coverage, probably similar things for most commonly used languages.
+
+
+    This tells you how much of your code is used when you run your test suite.
+
+    So for example, if you have a if statement and you only test things where that if statement evaluates to "True" then none of the code that comes under "False", or that would be used when the statement is false will be run. The code coverage bot will tell you that (for example) 45% of the code wasn't accessed. This doesn't include documentation. So adding more documentation doesn't affect your percentages.
+
+    A side note for this code coverage bot: you may configure it so that it tells you that your builds are failing if the coverage goes down. In the example below Ross has added
+
+    Here's an example: https://github.com/rmarkello/pyls/pull/44
+
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
 | Experience with the command line | Necessary |  |
