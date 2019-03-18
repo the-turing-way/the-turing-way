@@ -430,42 +430,23 @@ matrix:
 
 ### Security
 
-    - *Encryption/security keys, a bit hacky, travis has instructions.*
 
-    Q: What is
-    global:  
-        secure:   
-     ?  
     whereever the docs are hosted will need to know that it's used for that and you pushing ther -e, so you need a key to allow Travis to push there in example case it's an encrypted key  # Doesn't make sense?
 
-    NOTE TO US: sometimes you need to understand how to handle tokens:
-    - [Travis CI Encryption keys](https://docs.travis-ci.com/user/encryption-keys/)
-
-
     If your tests require authentication credentials, do not run tests from PRs (as PRs can include code that exposes such credentials). Comment by Noam Ross when I asked a question about this practice on one the rOpenSci packages I was editor on:
-    > If your test suite needs credentials, then running all tests on PRs is not great security practice; someone can create a PR that will reveal/do something nasty with your credentials. I think it is best practice to reduce the extent of tests requiring credentials with conditional statements testing for the presence of things like the encrypted environment variables, and use mocking for things like testing processing of returned values. BUT I think this is a pretty high bar to ask for. The owner can trigger a re-run with the secure variables exposed (some CIs have an option, or one can merge into a non-master branch first), as one should after checking for nasties.
-
+    > If your test suite needs credentials, then running all tests on PRs is not great security practice; someone can create a PR that will reveal/do something nasty with your credentials. I think it is best practice to reduce the extent of tests requiring credentials with conditional statements testing for the presence of things like the encrypted environment variables, and use mocking for things like testing processing of returned values. 
 
     [security](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/best-practices-security.md) **MIT**
 
-    ## Steps Travis CI takes to secure your data
-    Travis CI obfuscates secure environment variables and tokens displayed in the UI. Our [documentation about encryption keys](/user/encryption-keys/) outlines the build configuration we require to ensure this, however, once a VM is booted and tests are running, we have less control over what information utilities or add-ons are able to print to the VM’s standard output.
+    Travis CI obfuscates secure environment variables and tokens displayed in by the user interface. The [documentation about encryption keys](/user/encryption-keys/) outlines the build configuration required to set this up. However, if secret information is outputted in the course of running a script (for example in an error message) it may be included in Travis's build logs which may be accessible by others. To prevent leaks like this, secure environment variables and tokens that are longer than three characters are automatically filtered at runtime, effectively removing them from the build log, displaying the string `[secure]` instead. Nevertheless you should rotate your tokens and secrets regularly.
 
-    To prevent leaks made by these components, we automatically filter secure environment variables and tokens that are longer than three characters at runtime, effectively removing them from the build log, displaying the string `[secure]` instead.
+    There are however many ways in which secure information can accidentally be exposed. These vary according to what tools you are using being used and the settings you enabled. Some things to look out for are:
 
-    Please make sure your secret is never related to the repository or branch name, or any other guessable string. Ideally use a password generation tool such as `mkpasswd` instead of choosing a secret yourself.
-
-    ## Recommendations on how to avoid leaking secrets to build logs
-    Despite our best efforts, there are however many ways in which secure information can accidentally be exposed. These vary according to what tools you are using and what settings you have enabled. Some things to look out for are:
-
-    * settings which duplicate commands to standard output, such as `set -x` or `set -v` in your bash scripts
-    * displaying environment variables, by running `env` or `printenv`
-    * printing secrets within the code, for example `echo "$SECRET_KEY"`
-    * using tools that print secrets on error output, such as `php -i`
-    * git commands like `git fetch` or `git push` may expose tokens or other secure environment variables
-    * mistakes in string escaping
-    * settings which increase command verbosity
-    * testing tools or plugins that may expose secrets while operating
+    - settings which duplicate commands to standard output, such as `set -x` or `set -v` in your bash scripts
+    - displaying environment variables, by running `env` or `printenv`
+    - printing secrets within the code, for example `echo "$SECRET_KEY"`
+    - git commands like `git fetch` or `git push` may expose tokens or other secure environment variables
+    - settings which increase command verbosity
 
     Preventing commands from displaying any output is one way to avoid accidentally displaying any secure information. If there is a particular command that is using secure information you can redirect its output to `/dev/null` to make sure it does not accidentally publish anything, as shown in the following example:
 
@@ -473,23 +454,6 @@ matrix:
     sh
     git push url-with-secret >/dev/null 2>&1
     ```
-
-    ## If you think that you might have exposed secure information
-
-    As an initial step, it’s possible to delete logs containing any secure information by clicking the *Remove log* button on the build log page of Travis CI.
-
-    If you discover a leak in one of your build logs it’s essential that you revoke the leaked token or environment variable, and update any build scripts or commands that caused the leak.
-
-    ### Alternative methods of deleting logs
-
-    Instead of deleting build logs manually, you can do so using the [Travis CI CLI](https://github.com/travis-ci/travis.rb#logs) or the  [API](https://developer.travis-ci.com/resource/log#delete).
-
-    > Note that if you're still using [travis-ci.org](http://www.travis-ci.org) you need to use the [open source API](https://developer.travis-ci.org/resource/log#delete) instead.
-
-    ## Rotate tokens and secrets periodically
-    Rotate your tokens and secrets regularly. GitHub OAuth tokens can be found in your [Developer Settings](https://github.com/settings/developers) on the GitHub site. Please regularly rotate credentials for other third-party services as well.
-
-
 ## Best practise for Continuous integration,
 
 
@@ -545,7 +509,27 @@ There are a number of techniques that help teams deploy the code responsible for
 Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). A tutorial focussed on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), tutorials geared towards python can be found [here](https://docs.python-guide.org/scenarios/ci/) and [here](https://docs.travis-ci.com/user/languages/python/)
 
 ## Definitions/glossary
-*This looks like a useful resource for a glossary/intro: https://docs.travis-ci.com/user/for-beginners/*
+
+**:**
+
+**Build:**
+
+**Continuous integration:**
+
+**:**
+
+**:**
+
+**:**
+
+**Travis:**
+
+**:**
+
+**:**
+
+**:**
+
 
 ## Bibliography
 
