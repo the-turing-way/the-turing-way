@@ -421,21 +421,12 @@ matrix:
 
     Your CI is only as good as the tests you have!
 
-    Code coverage is a measure of how much of your code is "covered" by tests. Most programming languages have tools either build into them or that can be imported to automatically measure code coverage, and there's also a nice little [bot](https://codecov.io/) available too. 
-
-    pytest can also tell you about code coverage, probably similar things for most commonly used languages.
+    CI can also be set up to measure code coderage (see testing chapter)
 
     Here's an example of a yaml file to configure code coverage: https://github.com/ME-ICA/tedana/blob/master/.codecov.yml
 
     Here's an example output: https://github.com/ME-ICA/tedana/pull/120#issuecomment-416545219
 
-    This tells you how much of your code is used when you run your test suite.
-
-    So for example, if you have a if statement and you only test things where that if statement evaluates to "True" then none of the code that comes under "False", or that would be used when the statement is false will be run. The code coverage bot will tell you that (for example) 45% of the code wasn't accessed. This doesn't include documentation. So adding more documentation doesn't affect your percentages.
-
-    A side note for this code coverage bot: you may configure it so that it tells you that your builds are failing if the coverage goes down. In the example below Ross has added
-
-    Here's an example: https://github.com/rmarkello/pyls/pull/44
 
 ### Security
 
