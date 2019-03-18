@@ -547,10 +547,6 @@ Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). 
 - [Continuous integration, continuous deployment and continuous delivery](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
 - [Netherlands eScience Center guide](https://guide.esciencecenter.nl/best_practices/testing.html) **Creative Commons Attribution 4.0 International**
 
-
-
-
-
 ## Acknowledgements
 
 Thanks to David Jones of the University of Sheffield RSE group for useful discussions.
