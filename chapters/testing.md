@@ -52,6 +52,10 @@ An interesting discussion from [Software Engineering SE](https://softwareenginee
     - E.g. look and see if a graph seems reasonable.
     - Can't test all the ways it may be wrong, but can do sanity checks, e.g. if you have a graph of global population vs you should never have a negative number of people.
 - Test driven development (ensure we do the thing right)
+
+[Sound software](http://soundsoftware.ac.uk/unit-testing-why-bother/) **Creative Commons Attribution-NonCommercial 3.0 License.**
+Some developers practise test-driven development, a process in which the unit tests are written before the rest of the code. The tests thus describe a “contract” that the code is expected to comply with. This ensures that the code will be correct (as far as can be enforced by the testing contract) as written, and it provides a useful framework for thinking about how the code should be designed, what interfaces it should provide, and how its algorithms might work. This can be a very satisfying mental aid in developing tricky algorithms.
+
 - Behaviour driven development (ensure we do the right thing)
 - General best practice
   - Write small things
@@ -139,10 +143,10 @@ Modular code also has the benefit that even if a bug is introduced the unintende
 - Find a tool/framework for your language. For example the pytest module assists with running unit tests in python.
 - Isolate the development environment from the test environment.
 - If your tests use test data make sure it is similar to data the actual code will be applied to.
-- Write test cases that are independent of each other. For example, if a unit A utilises the result of another unit B supply the unit you are testing (unit A) with a "mock" input, rather than actually calling the unit B. If you don not do this your test failing may be due to a fault in either unit A *or* unit B, making the bug harder to trace.
+- Write test cases that are independent of each other. For example, if a unit A utilises the result of another unit B supplies you should test unit A with a "mock" input, rather than actually calling the unit B. If you don't do this your test failing may be due to a fault in either unit A *or* unit B, making the bug harder to trace.
 - Aim at covering all paths through a unit. Pay particular attention to loop conditions.
 - In addition to writing cases to verify the behaviour, write cases to ensure the performance of the code. For example, if a function that is supposed to add two numbers takes several minutes to run there is likely a problem.
-- Perform unit tests continuously and frequently.
+- Run unit tests frequently.
 - If you find a defect in your code write a test that exposes it. Why? First, you will later be able to catch the defect if you do not fix it properly. Second, your test suite is now more comprehensive. Third, you will most probably be too lazy to write the test after you have already fixed the defect. For example say a code has a simple function to classify people as either adults or children:
 
   ```
@@ -210,8 +214,25 @@ Modular code also has the benefit that even if a bug is introduced the unintende
     return
   ```
 
-
 ---
+
+[Sound software](http://soundsoftware.ac.uk/unit-testing-why-bother/) **Creative Commons Attribution-NonCommercial 3.0 License.**
+
+Unit testing is the practice of testing the components of a program automatically, using a test program to provide inputs to each component and check the outputs. The tests are usually written by the same programmers as the software being tested, either before or at the same time as the rest of the software.
+
+Most unit tests are written using some sort of test framework, a set of library code designed to make writing and running tests easier. Nearly all programming languages have at least one commonly used test framework.[1] But you don't have to use a test framework to do unit testing. All you need is something that can run a bit of your code, feed it some inputs, and check the results.
+
+Of course as well as writing tests, you have to remember to run them. Many projects combine running the tests with building the software. Larger development teams automate this using some kind of continuous integration system. For individual projects, it may be enough simply to remember to run the tests before rolling a release and after any significant code change.
+
+Practical tips for unit tests
+You can do unit testing without using a test framework, and this can be a good way to get started if the thought of learning a test framework seems too complicated. A framework saves time in the long run, and in a company context you'd always have one, but for your own use it doesn't have to be something you must learn before you can start. You can just run a bit of the code, check the results, spit out hideous abuse when the results are wrong. You can even do it from a shell script if your program is simple enough.
+Tests should be small—don't think you have to use bulky real-world data. If your function gets the right median value for inputs with one value, a small odd number of values, and a small even number, it'll work for bigger inputs too. Think of tricky small cases, not easy large ones. Picking good test cases is something of an art and can be an interesting exercise in its own right.
+Writing the tests first (i.e. practising test-driven development) can be a real help during development especially if you're not yet clear on how the code should actually work. When you find yourself getting stuck trying to visualise how an algorithm should work or how other code should interact with it, consider whether you can approach it from the other end by describing what its output should look like. Sketch it out in the tests, then write the code until the tests pass.
+Whenever you find a bug in “finished code”, add a test for it. Make sure the test fails in the buggy code and passes when it is fixed. Areas of code you've found bugs in are more likely to be fragile in general, and bugs that have already been found are relatively highly likely to reappear.
+When writing a new test, include something to make sure it is being run. For example, make it fail deliberately when you first write it. It's quite common to discover that the reason your tests are all passing is that they're not being run at all. (Overlooked in the build file, private instead of public, mistyped the method name: every testing framework has its set of common mistakes.) So, always do something to make sure your test is really working.
+Don't ship code with tests that fail, even if it doesn't matter that they fail. It's not uncommon, particularly in test-driven development, to change your mind during design about which tests are correct or relevant, or to make an initial implementation that only covers some of the test suite. But that means you end up with failed tests that you don't actually care about. Remove them, or at very least, document them: anyone running your tests should be able to assume that a failed test indicates broken code.
+Consider using a code coverage tool to check how much of your code is actually being tested. Coverage doesn't tell you everything: it only measures static execution paths, but it can give you some idea of things you might have missed altogether.
+
 
 ### Integration testing
 
@@ -244,7 +265,7 @@ Sandwich/Hybrid is an approach to integration testing which is a combination of 
 
 [Software testing fundamentals system testing](http://softwaretestingfundamentals.com/system-testing/) **Copyleft - 2019 STF**
 
-SYSTEM TESTING is a level of software testing where a complete and integrated software is tested. The purpose of this test is to evaluate the system’s compliance with the specified requirements.
+SYSTEM TESTING is a level of software testing where a complete and integrated software is tested. The purpose of this test is to evaluate the system's compliance with the specified requirements.
 
 Analogy
 
@@ -252,23 +273,52 @@ During the process of manufacturing a ballpoint pen, the cap, the body, the tail
 
 ### Regression testing
 
-[Software testing fundamentals regression testing](http://softwaretestingfundamentals.com/regression-testing/) **Copyleft - 2019 STF**
+[Sound software](http://soundsoftware.ac.uk/unit-testing-why-bother/) **Creative Commons Attribution-NonCommercial 3.0 License**
 
-REGRESSION TESTING is a type of software testing that intends to ensure that changes (enhancements or defect fixes) to the software have not adversely affected it.
+Regression testing, the business of ensuring that new changes in code don't break things that were working before. Regression testing is obviously especially important in team working, but it is surprisingly easy to break your own code without noticing it, even if you are working on your own. And because regression testing is next to impossible to do satisfactorily by hand (it's simply too tedious), it's an obvious case for automation
+
+---
+
+[Software testing fundamentals regression testing](http://softwaretestingfundamentals.com/regression-testing/) **Copyleft**
+
+Regression testing is a type of software testing that intends to ensure that changes (enhancements or defect fixes) to the software have not adversely affected it.
 
 The likelihood of any code change impacting functionalities that are not directly associated with the code is always there and it is essential that regression testing is conducted to make sure that fixing one thing has not broken another thing.
 
 During regression testing, new test cases are not created but previously created test cases are re-executed.
 
-Regression [noun] literally means the act of going back to a previous place or state; return or reversion.
+Regression literally means the act of going back to a previous place or state; return or reversion.
 
-Levels
 Regression testing can be performed during any level of testing (unit, integration, system, or acceptance) but it is mostly relevant during system testing.
 
-Extent
 In an ideal case, a full regression test is desirable but oftentimes there are time/resource constraints. In such cases, it is essential to do an impact analysis of the changes to identify areas of the software that have the highest probability of being affected by the change and that have the highest impact to users in case of malfunction and focus testing around those areas.
 
 Due to the scale and importance of regression testing, more and more companies and projects are adopting regression test automation tools.
+
+---
+
+[Examples of Regression Testing by Cem Karner](http://www.testingeducation.org/k04/RegressionExamples.htm) ** Creative Commons Attribution-ShareAlike License 2.0**
+
+Regression testing is a style of testing that focuses on retesting after changes are made. In traditional regression testing, we reuse the same tests (the regression tests). In risk-oriented regression testing, we test the same areas as before, but we use different (increasingly complex) tests. Traditional regression tests are often partially automated. These note focus on traditional regression.
+
+Regression testing attempts to mitigate two risks:
+
+A change that was intended to fix a bug failed.
+Some change had a side effect, unfixing an old bug or introducing a new bug.
+In addition, proponents of traditional regression testing argue that retesting is a measurement or control process, a means of assuring that the program is as stable as it was previously.
+
+Regression testing approaches differ in their focus. Common examples include:
+
+Bug regression: We retest a specific bug that has been allegedly fixed.
+Old fix regression testing: We retest several old bugs that were fixed, to see if they are back. (This is the classical notion of regression: the program has regressed to a bad state.)
+General functional regression: We retest the product broadly, including areas that worked before, to see whether more recent changes have destabilized working code. (This is the typical scope of automated regression testing.)
+Conversion or port testing: The program is ported to a new platform and a subset of the regression test suite is run to determine whether the port was successful. (Here, the main changes of interest might be in the new platform, rather than the modified old code.)
+Configuration testing: The program is run with a new device or on a new version of the operating system or in conjunction with a new application. This is like port testing except that the underlying code hasn't been changed--only the external components that the software under test must interact with.
+Localization testing: The program is modified to present its user interface in a different language and/or following a different set of cultural rules. Localization testing may involve several old tests (some of which have been modified to take into account the new language) along with several new (non-regression) tests.
+Smoke testing also known as build verification testing:A relatively small suite of tests is used to qualify a new build. Normally, the tester is asking whether any components are so obviously or badly broken that the build is not worth testing or some components are broken in obvious ways that suggest a corrupt build or some critical fixes that are the primary intent of the new build didn't work. The typical result of a failed smoke test is rejection of the build (testing of the build stops) not just a new set of bug reports.
+Any test can be reused, and so any test can become a regression test. Regression testing naturally combines with all other test techniques. The essence of regression testing is exposure of problems that shouldn't be there, either because they were exterminated before or they weren't in the product the last time(s) it was tested.
+
+
 
 ## Checklist
 
