@@ -62,13 +62,7 @@ In this chapter this entire process is referred to as continuous integration for
 
 There are a number of CI tools available, such Circle (tutorials [here](https://circleci.com/docs/2.0/project-walkthrough/) and [here]([CircleCI Hello World.](https://circleci.com/docs/2.0/hello-world/)). A list of others CI tools can be found [here](https://www.software.ac.uk/resources/guides/hosted-continuous-integration). In this chapter we will focus on [Travis](https://travis-ci.org/) because it's free (if your code is openly available), widely used, and well integrated with the version control platform [GitHub](https://github.com/).
 
-To use Travis with a project the project must include a file called `.travis.yml` file. This file must specify the language to run the project in, and a script to run.
-
-
-Need to create a .travis.yml file. Minimum this needs to include is a script, if the script runs sucessfully travis will pass it. If there is anything that it will need to carry out the script beyond the linux command line you need to install it, set lenguages to run any tests, etc. If that's a lot/complex then continers etc are good, but those do kind of hide things, pros and cons.
-
-
-*note .travis.yml file easly*
+*To use Travis with a project the project must include a file called `.travis.yml` file. This file must specify the computational environment to run the project and conatin a script to run any tests/ o other steps to run each time a change to the code is integrated. The .travis.yml file can also do a whole buch other stuff. Hoe to wwrite these files covered in detail later. Minimum this needs to include is a script, if the script runs sucessfully travis will pass it.*
 
  Green, amber, red
   - failures in "install" section create travis build fail errors (grey message - test didn't run)
@@ -95,22 +89,21 @@ Need to create a .travis.yml file. Minimum this needs to include is a script, if
 
   In the Travis CI documentation, some common words have specific meanings:
 
-  * Job - an automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code, running tests, etc. A job fails if the return code of the `script` encounters an error.
-  * Build - a group of jobs. For example, a build might have two *jobs*, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
+  - Job - an automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code, running tests, etc. A job fails if the return code of the `script` encounters an error.
+  - Build - a group of jobs. For example, a build might have two *jobs*, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
 
   ## Breaking the Build
 
   The build is considered broken when one or more of its jobs completes with a
   state that is not passed:
 
-   * *errored* - a command in the `before_install`, `install`, or `before_script`
+   - *errored* - a command in the `before_install`, `install`, or `before_script`
      phase returned a non-zero exit code. The job stops immediately.
-   * *failed* - a command in the `script` phase returned a non-zero exit code. The
+   - *failed* - a command in the `script` phase returned a non-zero exit code. The
      job continues to run until it completes.
-   * *canceled* - a user cancels the job before it completes.
+   - *canceled* - a user cancels the job before it completes.
 
-  Our [Common Builds Problems](/user/common-build-problems/) page is a good place
-  to start troubleshooting why your build is broken.
+This page on [Common Builds Problems](/user/common-build-problems/) is a good place to start troubleshooting if your build is broken.
 
 
 ## Setting up continuous integration with Travis
@@ -118,8 +111,6 @@ Need to create a .travis.yml file. Minimum this needs to include is a script, if
   [light travis tutorial](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/tutorial.md) **MIT**
 
  [Core Concepts for Beginners](/user/for-beginners)
-
-
 
 ---
 
@@ -155,33 +146,24 @@ Travis files start with . so they might be hidden files
 
 ### Setting up the computational environment
 
-## Infrastructure and environment notes
+#### Operating system
 
-Travis CI offers a few different infrastructure environments, so you can select
-the setup that suits your project best:
+Travis CI works with a few different operating systems. In the .travis.yml  file define the operating system to run a project on via
+```
+os: linux
+```
 
-* *Ubuntu Linux*
-* *macOS*
-* *windows*
+or
+```
+os: macOS
+```
 
+or
+```
+os: windows
+```
 
-## Operating System differences
-
-When you test your code on multiple operating systems, be aware of differences
-that can affect your tests:
-
-- Not all tools may be available on macOS.
-
-  We are still working on building up the toolchain on the [macOS Environment](/user/reference/osx/).
-  Missing software may be available via Homebrew.
-
-- Language availability.
-
-  Not all languages are available on all operating systems.
-
-- The file system behaviour is different. Your tests may implicitly rely on these behaviours, and could fail because of them. They are different operating systems, after all.
-
-  Commands may have the same name on the Mac and Linux, but they may have different flags, or the same flag may mean different things. In some cases, commands that do the same thing could have different names.
+It is also possible to build and test a project on multiple operating systems. This will be not be discussed here as this presents and extra level of complexity and will not be needed in most cases, but it is discussed later *aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadddddddd link*.
 
 #### Selecting a different programming language
 
@@ -205,6 +187,9 @@ language: php
 
 ## Installing Packages on Standard Infrastructure
 
+
+Not all languages/software are available on all operating systems however they can typically be installed within the .travis.yml file.
+
 To install Ubuntu packages that are not included in the standard [precise](/user/reference/precise/), [trusty](/user/reference/trusty/), or [xenial](/user/reference/xenial/) distributions, use apt-get in the `before_install` step of your `.travis.yml`:
 
 ```
@@ -214,6 +199,8 @@ before_install:
 
 
 ## The .travis.yml script
+
+If there is anything that it will need to carry out the script beyond the linux command line you need to install it, set lenguages to run any tests, etc. If that's a lot/complex then continers etc are good, but those do kind of hide things, pros and cons.
 
     - Script, say to run tests/do anything else (**check compiled successfully for compiled languages?**)
 
@@ -331,6 +318,24 @@ This will get your project tested on all the listed Python versions by running t
 
 ## Example Multi OS Build Matrix
 
+## Operating System differences
+
+When you test your code on multiple operating systems, be aware of differences
+that can affect your tests:
+
+- Not all tools may be available on macOS.
+
+  We are still working on building up the toolchain on the [macOS Environment](/user/reference/osx/).
+  Missing software may be available via Homebrew.
+
+- Language availability.
+
+  Not all languages are available on all operating systems.
+
+- The file system behaviour is different. Your tests may implicitly rely on these behaviours, and could fail because of them. They are different operating systems, after all.
+
+  Commands may have the same name on the Mac and Linux, but they may have different flags, or the same flag may mean different things. In some cases, commands that do the same thing could have different names.
+
 Here's an example `.travis.yml` file using if/then directives to customize the [build lifecycle](/user/job-lifecycle/) to use [Graphviz](https://graphviz.gitlab.io/) in both Linux and macOS.
 
 ```
@@ -416,7 +421,7 @@ matrix:
 
     Your CI is only as good as the tests you have!
 
-    Here's a nice little bot for code coverage: https://codecov.io/
+    Code coverage is a measure of how much of your code is "covered" by tests. Most programming languages have tools either build into them or that can be imported to automatically measure code coverage, and there's also a nice little [bot](https://codecov.io/) available too. 
 
     pytest can also tell you about code coverage, probably similar things for most commonly used languages.
 
