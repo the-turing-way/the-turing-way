@@ -1,19 +1,62 @@
 # Research Data Management
 
-## Summary
-> easy to understand summary - a bit like tl;dr
+> **NOTE** This chapter will be followed by/link to a data champions case study on using sensitive data, adding open into consent (as lesson learnt) to be provided by Louise
 
-## How this will help you/ why this is useful
-Having data available is a key component of reproducing an analysis. 
-To be able to share data that is understandable and re-usable, research data needs to be managed properly. 
-Thus, this chapter lays out good data management practice to allow you to plan your data management activities at the start of your reproducible research project.
+Style guide: 1 sentence per line please
 
 ## Prerequisites / recommended skill level
 The following sections in this handbook provide useful context and complementary information to this chapter:
 - Version control
 - Open Research 
 
+## Table of Contents
+
+1. Summary
+2. Why this is useful
+3. FAIR data
+4. Backup and storage
+    i. Where to store data
+    ii. Backups
+5. Documentation and metadata
+6. Sharing and archiving data
+    i. Motivations for sharing data
+    ii. Steps to share your data
+    iii. Barriers to data sharing
+7. Checklists
+8. What to read next
+9. Further reading
+10. Glossary
+11. Bibliography
+
+## Summary
+> easy to understand summary - a bit like tl;dr
+
+
+## How this will help you/ why this is useful
+Having data available is a key component of reproducing an analysis. 
+To be able to share data that is understandable and re-usable, research data needs to be managed properly. 
+Thus, this chapter lays out good data management practice to allow you to plan your data management activities at the start of your reproducible research project.
+
+
+
 ## Chapter content
+
+### FAIR data
+
+The FAIR data principles have been developed as guidelines to help make re-using data easier. 
+They refer to making data findable, accessible, interoperable and re-usable, all of which will support research reproducibility. Data should be:
+* **Findable** with a unique persistent identifier and rich metadata
+* **Accessible** via a standard, open and free communication protocol 
+* **Interoperable** by using accessible, machine-readable formats and vocabularies 
+* **Reusable** with relevant metadata attributes, clear licences, appropriate provenance information and community standards where possible. 
+
+Drawn from [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
+
+Making data 'FAIR' is not the same as making it 'open', but it does imply that you have managed your data sufficiently well to make it usable by others.
+The FAIR principles can also be applied to [software](https://doi.org/10.6084/m9.figshare.7449239.v2), and projects where the data and software are both FAIR the research is more likely to be reproducible. 
+
+It is much easier to make data FAIR and open if you plan to do this from the beginning of your research project. 
+One way to do this is to create a data management plan, in [DMPonline](https://dmponline.dcc.ac.uk/) or just as a text file, to help you think through how to manage your data.
 
 ### Storage and backup
 
@@ -21,25 +64,40 @@ Data loss can be catastrophic for your research project and happens regularly.
 You can prevent data loss by picking suitable storage solutions and backing your data up regularly.
 
 #### Where to store data
-Most institutions will provide a *network drive* that you can use to store data.  
-*Portable storage media* such as memory sticks (USB sticks) are more risky and vulnerable to loss and damage.  
-*Cloud storage* provides a convenient way to store, back and up and retrieve data. You should check terms of use before using them for your research data. 
+* Most institutions will provide a *network drive* that you can use to store data.  
+* *Portable storage media* such as memory sticks (USB sticks) are more risky and vulnerable to loss and damage.  
+* *Cloud storage* provides a convenient way to store, back and up and retrieve data. You should check terms of use before using them for your research data.  
+
 Especially if you are handling personal or sensitive data, you need to ensure the cloud option is compliant with any data protection rules the data is bound by.  
 To add an additional layer of security, you should encrypt devices and/or files where needed.
 
+Your institution might provide local storage solutions and policies or guidelines restricting what you can use. 
+Thus, we recommend you familiarise yourself with your local policies anc recommendations.
+
 #### Backups
+
+To avoid loosing your data, you should follow good backup practices.
+* You should have 2 or 3 copies of your files, stored on 
+* at least 2 different storage media, 
+* in different locations.
+
+The more important the data and the more often the datasets change, the more regularly you should back them up.
+If your files take up a large amount of space and backing up all of them would be difficult or expensive, you may want to create a set of criteria for when you back up the data. 
 
 ### Documentation and metadata
 
-#### Step 2: Make your data easy to understand
-
-Having data available is of no use if it cannot be understood. For example a table of numbers is useless if there are no headings which describe what the columns/rows contain. 
+Having data available is of no use if it cannot be understood. 
+For example a table of numbers is useless if there are no headings which describe what the columns/rows contain. 
 Therefore you should ensure that open datasets include consistent core metadata, and that the data is fully described. 
 This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
 
-- link to metadata standards and e.g. BIDS 
-
-Recycle a lot from http://doi.org/10.5281/zenodo.1914401 (cc-by)
+- The level of documentation and metadata will vary according to the project and the range of people the data needs to be understood by
+- It is best practice to use recognised community metadata standards to make it easier for datasets to be combined.
+Examples could include the [Brain Imaging Data Structure](https://github.com/bids-standard/bids-starter-kit) or those found via [FAIRsharing.org](https://www.fairsharing.org)
+- Variables should be defined and explained using [data dictionaries](http://help.osf.io/m/bestpractices/l/618767-how-to-make-a-data-dictionary)
+- Data should be stored in logical and heirarchical folder structures with a README file used to describe the structure.
+The README file is helpful for others and will also help you find your data in the future. 
+(Fuchs & Kuusniemi, 2018)
 
 ### Sharing and archiving data
 #### Motivations for sharing data
@@ -62,75 +120,112 @@ At the moment anyone who wishes to use scientific data from a researcher often h
 Researchers need to justify data that’s kept closed, for example for security or data protection reasons.
 Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default. 
 
-### Steps to share your data
+#### Steps to share your data - Rosie
 
-#### Step 1: Make your data available
+##### Step 1: Select what data you want to share
+Not all data can be made openly available, due to ethical and commercial concerns, and you may decide that some of your intermediate data is too large to share. 
+So you first need to decide which data you need to share for others to be able to reproduce your research.
 
-Put your data online. It should be easily discoverable and accessible, and made available without bureaucratic or administrative barriers, which can deter people from accessing the data. Choose a location to store the data which will ensure historical copies of datasets are preserved, archived, and kept accessible as long as they retain value. As much as possible researchers should provide data in its original, unmodified form.
+##### Step 2: Choose a data repository or other sharing platform 
+Data should be shared in a formal, open, and indexed data repository where possible so that it will be accessible in the long-run. 
+Suitable data repositories by subject, content type or location can be found at [Re3data.org](https://www.re3data.org/).
+If possible use a repository which assigns a DOI, a digital object identifier, to make it easier for others to cite your data.
 
-#### Licensing as potential separate sub chapter
-> or call it re-use and cover data citation principles here?
-Data should be free of charge, under an open license, (for example, those developed by Creative Commons) so it can be reused and remixed by other researchers. The data should be available as a whole and at no more than a reasonable reproduction cost i.e. no expensive piece of software should be required to read the file as this may obstruct researchers who wish to work with the dataset.
 
+##### Step 3: Upload your data and documentation
+In line with the FAIR principles outlined above upload the data in open formats as much as possible and include sufficient documentation and metadata that someone else can understand your data.
 
-#### Step 3: Make your data easy to use
+##### Step 4: Choose a licence and link to your paper and code
+So that others know what they can do with your data you need to apply a licence to your data. The most commonly used licences are [Creative Commons](https://creativecommons.org/choose/), [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), or an [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/index.html).
+To get maximum value from data sharing make sure that your paper and code both link to your data, and vice versa, to allow others to best understand your project.
 
-The data should be made available in a modifiable, machine-readable format so that it can be effectively used and  manipulated.
-It is also important to think about the file formats that information is provided in. Data should be presented in structured and standardized formats to support interoperability, traceability, and effective reuse. In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people.
+### Barriers to data sharing
 
-#### Step 4: Make your data citeable
+Some academics still find sharing data difficult.
+Recent surveys (Stuart et al., 2018) amongst researchers find that sharing data is challenging for the following reasons:
+* Organising data in a presentable and useful way (mentioned by 46%),
+* Unsure about copyright and licensing as mentioned by 37%,
+* Not knowing which repository to use as raised by 33%.
 
-Data should be considered legitimate, citable product of research. Making data citeable (and citing data yourself) facilitate giving scholarly credit; in scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited. Data citations facilitate identification of, access to, and verification of the specific data that support a claim, making science more reproducible. Ensure that anyone wishing to cite a dataset you host can use a persistent identifier that you provide to do so.
+These are cultural challenges that might be addressed in changing practice going forward.
+However, there are also legal, ethical or contractual reasons that sometimes prevent making data publicly available in its entirety or even in parts.
+Those will be addressed in the following paragraphs.
 
-A data citation should include a persistent method for identification that is unique, and widely understandable by a community. There are several types of persistent identifier that could be used to identify datasets: examples include Handles, Archival Resource Keys (ARKs) and Persistent URLs (PURLs), all of which can be resolved to an Internet location. The scheme that is gaining most traction is the Digital Object Identifier (DOI).
+#### Privacy and data protection
 
-The DOI System is an identifier scheme administered by the International DOI Foundation. The task of managing DOI registers is delegated to registration agencies (list [here](http://www.doi.org/registration_agencies.html)) that each specialise in a type of resource. For research datasets, the registration agency is the [DataCite Consortium](https://www.datacite.org/). Among the services it provides are human and machine interfaces for simple end-user administration of DOI registrations. DataCite also collects metadata about each dataset it registers so they can be more easily understood and found. Any repository wishing to register DOIs needs to obtain a username and password from DataCite to gain access to the registration service. While best practice has yet to emerge on some matters, certain conventions are already becoming established:
+Many fields of scientific disciplines involve working with sensitive personal data. 
+Their management is well regulated in data protection legislation (in Europe through national implementations of the General Data Protection Regulation) and ethics procedures as they are established in most research institutions.
 
-When organisations register a DOI for a resource, they should not introduce semantic elements into the suffix, especially not metadata that might change over time (e.g. publisher, archive, owner). Assign identifiers to static datasets only when no further changes or corrections are expected (i.e. after quality control checks are complete). As DOIs are used to cite data as evidence, the resource to which a DOI points should also remain unchanged, with any new version receiving a new DOI.
+##### Consent
 
-Whichever identifier scheme you pick make sure it allows the identifier to be resolved to a URL. This URL should belong to a landing page that contains descriptive information about the dataset, as well as links or instructions for accessing it. You should also ensure that datasets are made citable and identifiable at an appropriate level of granularity, i.e it would be no use citing CERN's entire data repository as someone attempting to reproduce your work would not be able to find the data used in a specific piece of work without considerable difficulty. Where possible it should be possible to cite the data used, and only the data used.
+In order to make sure that anonymised research data can be made available for future reuse, it is important that consent forms cover sharing anonymised data with other researchers.
+Research so far suggests that study participants are usually less concerned about the data being archived and shared than researchers think (Kuula, 2010)
+Participant information sheets and consent forms should include how research data will be stored, preserved and used in the long-term, and how confidentiality will be protected when needed.
 
-### Barriers to data sharing/ Sensitive data
-
-- anonymization
-- synthetic data?
-- consent for sharing
-- data sharing agreements?
-
-Sometimes it may not be possible to make data publicly available in its entirety or even in part. There are two main reasons this may be the case:
-
-#### Privacy
-
-Many fields of scientific disciplines involve working with sensitive personal data, medical research being the most obvious example.
-Individuals must be protected from (re)identification via their personal data used for research. Anonymisation of the data may be sufficient in some cases, but ensuring that reidentification is not possible is becoming increasingly difficult due to technical progress, growing computational power and – ironically – more open data. For example reidentification may be possible via data-mining of accessible data and so-called quasi-identifiers, a set of (common) properties that are – in their combination – so specific that they can be used to identify.
-
-Preserving privacy may still be possible if partial or generalised datasets are provided e.g. age bands instead of birth date or only the first two digits of postal codes. It may also be possible to provide the data in such a format that researchers can query it whist keeping the data itself closed, e.g. a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints.
+##### Anonymisation
+Individuals must be protected from (re)identification via their personal data used for research. 
+Anonymisation of the data may be sufficient in some cases, but ensuring that reidentification is not possible is becoming increasingly difficult and might be impossible due to technical progress, growing computational power and – ironically – more open data. 
+For example reidentification may be possible via data-mining of accessible data and so-called quasi-identifiers, a set of (common) properties that are – in their combination – so specific that they can be used to identify.
+Preserving privacy may still be possible if partial or generalised datasets are provided e.g. age bands instead of birth date or only the first two digits of postal codes. 
+It may also be possible to provide the data in such a format that researchers can query it whist keeping the data itself closed, e.g. a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints.
+Another way to provide anonymized data is to provide [synthetic data](https://en.wikipedia.org/wiki/Synthetic_data), data generated to reflect the conditions and properties of the raw data without including any of the personal information.
 
 #### National and commercially sensitive data
 
-In many cases companies are understandably unwilling to publish much of their data. The reasoning goes that if commercially sensitive information of a company is disclosed, it will damage the company’s commercial interests and undermine competitiveness. This is based on the thinking that in competitive markets, innovation will only occur with some protection of information: if a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources. The result is that no-one would innovate in the first place. Similarly governments are often unwilling to publish data that relates to issues such as national security due to public safety concerns.
-
+In many cases companies are understandably unwilling to publish much of their data. 
+The reasoning goes that if commercially sensitive information of a company is disclosed, it will damage the company’s commercial interests and undermine competitiveness. 
+This is based on the thinking that in competitive markets, innovation will only occur with some protection of information: if a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources. 
+The result is that no-one would innovate in the first place. 
+Similarly governments are often unwilling to publish data that relates to issues such as national security due to public safety concerns.
 In such cases it may not be possible to make data open, or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy.
 
 
-### FAIR data
-
-- overview of principles and how the above applies/ feeds in
-- also make a reference to apply FAIR to software and if FAIR software + data = reproducible research? 
 
 ## Checklist
-> this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
+> This is a different style than the other chapters, but I really love what Alex provided so I just kept it.
+
+- [ ]Don't Touch the Raw Data - back it up somewhere reasoonable and keep a read-only copy.
+
+- [ ]Have a plan! - Decide where your data is going to be stored, what its called, when/if it needs to be deleted BEFORE you start collecting it and note it down in a data management plan. 
+If you collect sensitive data, plan for consent for sharing from the start!
+
+- [ ]Document Everything - You know who the worst person at replying to emails is about what the sampling frequency of channel X was. 
+Nope not him, it's actually yourself from a year ago. 
+Keep the documentation with the data!
+
+- [ ]Create the data you want to see in the word - Imagine someone was about to give you a dataset that you needed to analyse well in order to get that job you've been dreaming about. 
+What would you want it to look like? 
+That's how yours should look.
+
+- [ ]Try not to re-invent the wheel. Before you start creating some crazy new schema, storage format or naming protocol - have a quick google, ask your colleagues. 
+Something that's already being used is likely going to be better in the long run even if you think there's a better solution.
 
 ## What to learn next
-> recommended next chapters that are a good next step up
+If you haven't read the chapter on Open Research yet, you might want to read it now for more context on how research data management supports Open Research. 
 
 ## Further reading
-> top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
-> less relevant/favourite resources in case someone wants to dig into this in detail
+ 
+* Detailed guidance on sharng personal or sensitive data from the UK Data Service: https://www.ukdataservice.ac.uk/manage-data/legal-ethical/consent-data-sharing.aspx
+* An overview of storage solutions and their advantages and disadvantages: https://datasupport.researchdata.nl/en/start-the-course/iii-the-research-phase/storing-data
 
 ## Definitions/glossary
 > Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
 
+RDM - Research Data Management
+DMP - Data Management Plan
+FAIR - Findable, Accessible, Interoperable and Reusable
+
 ## Bibliography
-> Credit/urls for any materials that form part of the chapter's text.
+
+* Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
+Available at http://data.europa.eu/eli/reg/2016/679/oj
+
+* Kuula, A. (2010). Methodological and ethical dilemmas of archiving qualitative data. IASSIST Quarterly, 34(3/4), 35. Available at http://www.iassistdata.org/sites/default/files/iqvol34_35_kuula.pdf 
+
+* Siiri Fuchs, & Mari Elisa Kuusniemi. (2018, December 4). Making a research project understandable - Guide for data documentation (Version 1.2). Zenodo. http://doi.org/10.5281/zenodo.1914401
+
+* Stuart, D., Baynes, G., Hrynaszkiewicz, I., Allin, K., Penny, D., Mithu Lucraft, & Astell, M. (2018). Whitepaper: Practical challenges for researchers in data sharing. Figshare. https://doi.org/10.6084/m9.figshare.5975011.v1
+
+* Mark D. Wilkinson, Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg et al., “The FAIR Guiding Principles for Scientific Data Management and Stewardship,” Scientific Data 3 (2016): 3, https://doi.org/10.1038/sdata.2016.18 
+
 
