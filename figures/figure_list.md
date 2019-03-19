@@ -10,6 +10,7 @@
 | one_branch                 | Version control      | Illustrates version control master + one branch   |
 | open_access_citatations    | Open research        | Impact of openness on citation count              |
 | open_umbrella              | Open research        | Terms under the umbrella of open scholarship      |
+| regents_map                | BinderHub workshop   | Map to workshop location                          |
 | reproducibility_kirstie    |                      | Depicts cow code and data relate to good practise |
 | software_testing_levels    | Testing              | Shows levels of testing from unit to acceptance   |
 | sub_branch                 | Version control      | Illustrates version control branch + sub branch   |
