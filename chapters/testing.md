@@ -2,9 +2,75 @@
 
 *blog to look at https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806*
 
-An interesting discussion from [Software Engineering SE](https://softwareengineering.stackexchange.com/questions/379996/continuous-integration-for-scientific-software) on testing for scientific software - might be useful when we're trying to motivate towards scientific computing types rather than professional software engineers.
+---
+* [Adopting automated testing](https://github.com/softwaresaved/automated_testing/blob/master/README.md) **Apache License 2.0**
 
-* [Adopting automated testing](https://github.com/softwaresaved/automated_testing/blob/master/README.md): An example of how automated testing can be adopted for software to give researchers the security to refactor, extend, optimise or tidy, their code without the overhead of having to implement dozens of unit tests at the outset.
+Regression testing allows us to check that our code continues to be correct after we have made changes to it. Unit testing can then be introduced at a later date, when the demands of research permit.
+
+Regression testing does not test whether our code produces scientifically-correct results, only that we don't change its behaviour in unexpected ways. We will return to this distinction later.
+
+To introduce regression testing we can follow a recipe.
+
+First, we create a test oracle. We run out code on sets of input files and parameters. We save the corresponding output files. These output files serve as the expected outputs from our program given the corresponding input files and parameters.
+We then write regression tests. Each regression test runs our code for a set of input files and parameters. It then compares the output from our code to the expected outputs within the test oracle, it compares the actual outputs to the expected outputs.
+We run our regression tests regularly, or after every change to the code, to check we have not introduced any bugs that have changed its behaviour.
+
+### Limitations
+
+Regression tests are not guaranteed to test all parts of the code. Test coverage tools can provide information on what parts of our code are, or are not, executed when we run our regression tests.
+
+Most importantly, regression tests do not test if the result outputted by a piece of code is *correct*, only that is has not changed. This the remit of unit and system tests, though regression tests can serve as the starting point for introducing tests for correctness, by both the use of analytical solutions, and test functions which read output files and check the data for correctness, as defined by a researcher.
+
+
+
+
+When 0.1 + 0.2 does not equal 0.3
+There is one further complication with our data that we need to address. EPCC's oncology project found that their regression tests failed when they ran their code on the HECToR super-computer. Investigation showed that this arose due to their floating point calculations giving subtly different results when run on their development machine compared to when they were run on HECToR. To see why these differences arose, look at this Python example.
+
+If we assign 0.1 to a and 0.2 to b and print their sum, we get 0.3, as expected.
+
+>>> a = 0.1
+>>> b = 0.2
+>>> print(a + b)
+0.3
+If, however, we compare the result of comparing the sum of a plus b to 0.3 we get False.
+
+>>> print(a + b == 0.3)
+False
+If we show the value of a plus b directly, we can see there is a subtle margin of error.
+
+>>> a + b
+0.30000000000000004
+This is because floating point numbers are approximations of real numbers.
+
+The result of floating point calculations can depend upon the compiler or interpreter, processor or system architecture and number of CPUs or processes being used.
+
+Floating point calculations are not always guaranteed to be associative. A plus B will not necessarily equal B plus A.
+
+Equality in a floating point world
+When comparing floating point numbers for equality, we have to compare to within a given tolerance, alternatively termed a threshold or delta. For example, we might consider A equal to B if the absolute value of the difference between A and B is within the absolute value of our tolerance.
+
+A = B if | A - B <= | tolerance |
+
+Many languages have inbuilt frameworks for testing, and many of those provide functions for comparing equality of floating point numbers to within a given tolerance.
+
+Unit test frameworks for other languages provide similar functions:
+
+Cunit for C: CU_ASSERT_DOUBLE_EQUAL(actual, expected, granularity)
+CPPUnit for C++: CPPUNIT_ASSERT_DOUBLES_EQUAL(expected, actual, delta)
+googletest for C++: ASSERT_NEAR(val1, val2, abs_error)
+FRUIT for Fortran: subroutine assert_eq_double_in_range_(var1, var2, delta, message)
+JUnit for Java: org.junit.Assert.assertEquals(double expected, double actual, double delta)
+testthat for R:
+expect_equal(actual, expected, tolerance=DELTA) - absolute error within DELTA
+expect_equal(actual, expected, scale=expected, tolerance=DELTA) - relative error within DELTA
+
+
+
+
+
+
+---
 
 
     Code coverage is a measure of how much of your code is "covered" by tests. Most programming languages have tools either build into them or that can be imported to automatically measure code coverage, and there's also a nice little [bot](https://codecov.io/) available too.
