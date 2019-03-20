@@ -25,7 +25,7 @@ Sometimes mybinder.org does become overwhelmed with a room full of people all tr
 #### Attendees using R
 If you have attendees who bring R code, R packages and RStudio does take a particularly long time for Binder to build. `tidyverse` especially is a very popular and large data package that can take a _very_ long time to load. We recommend that R users modify their code to only install the required packages, and not the whole `tidyverse`. For a more long-term solution, you can point R users to the direction of the following resources:
 * https://github.com/binder-examples/rocker
-* https://github.com/karthik/holepunch/blob/master/R/write_dockerfile.R
+* https://github.com/karthik/holepunch
 
 ## Contact Us
 
