@@ -75,11 +75,11 @@ Some tests, like [unit tests](#Unit_tests) only test a small piece of code and s
 *blog to look at https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806*
 
   It is important to provide documentation that describes how to run the tests, both for yourself in case you come back to a project in the future, and for anyone else that may wish to build upon or peproduce your work. This documentation should also cover subjects such as
-  
+
 - Any resources e.g. test dataset files that are required
 - Any configuration/settings adjustments needed to run the tests
-- What software (such as [testing frameworks](#Use_a_testing_framework)) need to be installed 
-  
+- What software (such as [testing frameworks](#Use_a_testing_framework)) need to be installed
+
 Ideally, you would provide scripts to set up and configure any resources that are needed.
 
 ### Test realistic cases
@@ -95,8 +95,8 @@ There are tools available to make writing and running tests easier, these are kn
   - CTest
     - Test runner for executables, bash scripts, etc...
     - Great for legacy code hardening
-- C++ 
-  - Catch 
+- C++
+  - Catch
   - CppTest
   - Boost::Test
   - google-test      
@@ -117,7 +117,14 @@ There are tools available to make writing and running tests easier, these are kn
 
 ### Aim to have a good code coverage
 
-As [mentioned](#Write_tests_any_tests) any tests are an improvement over no tests.
+Code coverage is a measure of how much of your code is "covered" by tests. More precicely it a measure of how much of your code is run when tests are conducted. So for example, if you have a `if` statement but only test things where that if statement evaluates to "True" then none of the code that comes under "False", or that would be used when the statement is false will be run. As a result your code coverage would be < 100% (the exact number would depend on how much code comes under the True and False cases). Code coverage doesn't include documentation like comments, so adding more documentation doesn't affect your percentages.
+
+As [mentioned](#Write_tests_any_tests) any tests are an improvement over no tests. Nevertheless it is good to at least aspire to having your code coverage as high as feasible.
+
+Most programming languages have tools either built into them, or that can be imported, or as part of testing frameworks, which automatically measure code coverage. There's also a nice little [bot](https://codecov.io/) for measuring code coverage available too.
+
+
+
 
   - *Aim to have a good code coverage. Something's better than nothing*
   - *Defensive programming (e.g. test inputs are the right type, not applicable in static type languages, sanity checks.)*
@@ -134,16 +141,6 @@ As [mentioned](#Write_tests_any_tests) any tests are an improvement over no test
       ---
     Hack md notes:
 
-    Code coverage is a measure of how much of your code is "covered" by tests. Most programming languages have tools either build into them or that can be imported to automatically measure code coverage, and there's also a nice little [bot](https://codecov.io/) available too.
-
-    Testing framework tools such as pytest can also tell you about code coverage, probably similar things for most commonly used languages.
-    This tells you how much of your code is used when you run your test suite.
-
-    So for example, if you have a if statement and you only test things where that if statement evaluates to "True" then none of the code that comes under "False", or that would be used when the statement is false will be run. The code coverage bot will tell you that (for example) 45% of the code wasn't accessed. This doesn't include documentation. So adding more documentation doesn't affect your percentages.
-
-    A side note for this code coverage bot: you may configure it so that it tells you that your builds are failing if the coverage goes down. In the example below Ross has added
-
-    Here's an example: https://github.com/rmarkello/pyls/pull/44
 
     ---
 
