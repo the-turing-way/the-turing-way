@@ -1,28 +1,179 @@
 # Testing
 
+| Prerequisite | Importance | Notes |
+| -------------|------------|-------|
+| Experience with the command line | Necessary |  |
+
+## Structure
+
+-
+
+## Prerequisites / recommended skill level
+
+  | Prerequisite | Importance | Notes |
+  | -------------|----------|------|
+  | Chapter/topic | How important it is | Any notes |
+
+## Summary
+
+
+## How this will help you/ why this is useful
+
+### The advantages of testing for the researcher
+
+- Why you should write tests
+  - For yourself
+    - Saves you having to redo lots of work when you realise there's a bug, catch things early.
+    - Forces you to write more modular, clean code. Improves your code quality. Much quicker and easier to work with than a tangled rats nest.
+    - You have to test your code anyway as you're writing it, you don't just write it and assume it's right. It's very little work to put those tests in a file. The time lost to incorrect results or broken code is much, much bigger.
+
+
+[turing testing course](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/01testingbasics.html) **Creative Commons share and remix**
+- runnable specification best way to let others know what a function should do and not do
+
+A few reasons to do testing
+- lazyness testing saves time
+- peace of mind tests (should) ensure code is correct
+- reproducible debugging debugging that happened and is saved for later reuse
+- code structure / modularity since the code is designed for at least two situations
+- easier to modify since results can be tested
+
 *blog to look at https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806*
 
+Software development doesn't end when the software is written. How can you, and any developers you work with, be sure that your software meets its requirements? Does your software work as expected and will it continue to work over its lifetime?
+
+Researchers do do informal testing. By formalising the testing process into a set of tests that can be run independently and automatically, you provide a much greater degree of confidence that the software behaves correctly and increase the likelihood that defects are found
+
+After changing your code and rebuilding it, a developer will want to check that their changes or fixes have not broken anything. Providing developers with a fail-fast environment allows the rapid identification of failures introduced by changes to the code.
+
+### The advantages of testing for science
+
+- For science
+  - Fewer mistakes, very costly for time and funding, include a horror story or two.
+  - More reproducible. Answers the question "how do we even know this code works". If tests are never saved, just done and deleted the proof cannot be reproduced easily.
+  - SSI slogan: "better software, better research".
+
+  [turing testing course](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/01testingbasics.html) **Creative Commons share and remix**
+  - runnable specification best way to let others know what a function should do and not do
+
+## General guidance and good practice for testing
+
+There are a number of [different kinds](#Types_of_tests) of testing which have best practice specific to them, however there are some general guidance that applies to all of them, which will be outlined here.
+
+### Write tests. Any tests.
+
+Starting the process of writing tests can be overwhelming, especially if you have a large code base. Further to that, as mentioned, there are many kinds of tests, and implementing all of them can seem like an impossible mountain to climb. That is why the single most important piece of guidance in this chapter is as follows: **write some tests**. Testing one tiny thing in a code that's thousands of lines long is infinitely better than testing no things in a code that's thousands of lines long. You may not be able to do everything, but doing *something* is better than nothing.
+
+Do not be discouraged. Make improvements where you can, and do your best to include tests with new code you write even if it's not feasable to write tests that are already written.
+
+### Run the tests
+
+the second most important piece of advice in this chapter. Run the tests. Having a beautiful, perfect test site is no use if you rarely run it. Leaving long gaps between test runs makes it more difficult to track down what has gone wrong when a test fails because a great deal in the code will have changed. Also if it's been weeks or months since tests have been run and they fail it is difficult or impossible to know what work/results that have been done in the intervening time are still valid, and which have to be thrown away as they could have been impacted by the bug.
+
+As such it is best to automate your testing as far as possible. If each test needs to be run individually then that boring painstaking process is likely to get neglected. Automate this using a testing tool ([discussed later](#Use_a_testing_framework)). Ideally set your tests up to run at regular intervals, possibly each night. [Jenkins](https://jenkins.io) is a good tool for this.
+
+Consider setting up continuous integration (discussed in the continuous integration chapter) on your project. This will automatically run your tests each time you make a change to your code and, depending on the continuous integration software you use, will notify you if any of the tests fail.
+
+### Consider how long it takes your tests to run
+
+Some tests, like [unit tests](#Unit_tests) only test a small piece of code and so typically very fast. However [system tests](#System_tests) test the entire code from end to end, and so may take a long time to run depending on the code. As such it can be obstructive to run the entire test suite after each little bit of work. In that case it is better to run lighter weight tests such as unit tests frequently, and longer tests only once per day overnight.  
+
+### Document the tests and how to run them
+
+*blog to look at https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806*
+
+  It is important to provide documentation that describes how to run the tests. This should cover subjects such as whether a database or a web server is needed and, if so, how should it be configured? Ideally, you would provide scripts to set up and configure any resources that the developer needed. This way, you could provide a test code or script that, for example, configures and populates a database needed for the test. Automation further minimises the work a developer must do before being able to run your tests and allows them to check their changes quickly and easily.
+
+
+<a name="Use_a_testing_framework"></a>
+### Use a testing framework
+
+There are tools available to make writing and running tests easier, these are known as testing frameworks. Find one you like, learn about hte features it offers, and make use of them.
+
+
+  - *test realistic cases.*
+  - *Tools available to help with tests. Find one you like and use it*
+  - *Aim to have a good code coverage. Something's better than nothing*
+  - *Defensive programming (e.g. test inputs are the right type, not applicable in static type languages, sanity checks.)*
+  - *Use mocking where appropriate*
+  - *if an element of randomness use random number seed or similar*
+  - *Can at least do sanity checks on tests that are whether something "looks right"*
+  - *Code review to test code quality*
+  - *careful of equalities*
+
+
+
+  [turing testing course basics](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/01testingbasics.html) **Creative Commons share and remix**
+  #### Common testing frameworks
+      Language agnostic: CTest
+
+      Test runner for executables, bash scripts, etc...
+      Great for legacy code hardening
+      C unit-tests:
+
+      all c++ frameworks,
+      Check,
+      CUnit
+      C++ unit-tests:
+
+      CppTest,
+      Boost::Test,
+      google-test,
+      Catch (best)
+      Python unit-tests:
+
+      nose includes test discovery, coverage, etc
+      unittest comes with standard python library
+      py.test, branched off of nose (recommended to use)
+      R unit-tests:
+
+      RUnit,
+      svUnit
+      (works with SciViews GUI)
+      Fortran unit-tests:
+
+      funit,
+      pfunit(works with MPI)
+
+      ---
+    Hack md notes:
+
+    Code coverage is a measure of how much of your code is "covered" by tests. Most programming languages have tools either build into them or that can be imported to automatically measure code coverage, and there's also a nice little [bot](https://codecov.io/) available too.
+
+    Testing framework tools such as pytest can also tell you about code coverage, probably similar things for most commonly used languages.
+    This tells you how much of your code is used when you run your test suite.
+
+    So for example, if you have a if statement and you only test things where that if statement evaluates to "True" then none of the code that comes under "False", or that would be used when the statement is false will be run. The code coverage bot will tell you that (for example) 45% of the code wasn't accessed. This doesn't include documentation. So adding more documentation doesn't affect your percentages.
+
+    A side note for this code coverage bot: you may configure it so that it tells you that your builds are failing if the coverage goes down. In the example below Ross has added
+
+    Here's an example: https://github.com/rmarkello/pyls/pull/44
+
+    ---
+
+
+[turing testing course mocks](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/05Mocks.html) **Creative Commons share and remix**
+
+    #### mocking
+    Often we want to write tests for code which interacts with remote resources. (E.g. databases, the internet, or data files.)
+
+    We don't want to have our tests actually interact with the remote resource, as this would mean our tests failed due to lost internet connections, for example.
+
+    Instead, we can use mocks to assert that our code does the right thing in terms of the messages it sends: the parameters of the function calls it makes to the remote resource.
+
+    Can be difficult to test cases like
+
 ---
+    - Make a plot and visually inspect it
+
+    - Describe a dataframe and check that the means and standard deviations are within the right range
+
+    - Run a few different random simulations and check that they all give back values that are in the right range
+
+    Can sanity check within reasonable values though.
+
+
 * [Adopting automated testing](https://github.com/softwaresaved/automated_testing/blob/master/README.md) **Apache License 2.0**
-
-Regression testing allows us to check that our code continues to be correct after we have made changes to it. Unit testing can then be introduced at a later date, when the demands of research permit.
-
-Regression testing does not test whether our code produces scientifically-correct results, only that we don't change its behaviour in unexpected ways. We will return to this distinction later.
-
-To introduce regression testing we can follow a recipe.
-
-First, we create a test oracle. We run out code on sets of input files and parameters. We save the corresponding output files. These output files serve as the expected outputs from our program given the corresponding input files and parameters.
-We then write regression tests. Each regression test runs our code for a set of input files and parameters. It then compares the output from our code to the expected outputs within the test oracle, it compares the actual outputs to the expected outputs.
-We run our regression tests regularly, or after every change to the code, to check we have not introduced any bugs that have changed its behaviour.
-
-### Limitations
-
-Regression tests are not guaranteed to test all parts of the code. Test coverage tools can provide information on what parts of our code are, or are not, executed when we run our regression tests.
-
-Most importantly, regression tests do not test if the result outputted by a piece of code is *correct*, only that is has not changed. This the remit of unit and system tests, though regression tests can serve as the starting point for introducing tests for correctness, by both the use of analytical solutions, and test functions which read output files and check the data for correctness, as defined by a researcher.
-
-
-
 
 When 0.1 + 0.2 does not equal 0.3
 There is one further complication with our data that we need to address. EPCC's oncology project found that their regression tests failed when they ran their code on the HECToR super-computer. Investigation showed that this arose due to their floating point calculations giving subtly different results when run on their development machine compared to when they were run on HECToR. To see why these differences arose, look at this Python example.
@@ -65,85 +216,12 @@ testthat for R:
 expect_equal(actual, expected, tolerance=DELTA) - absolute error within DELTA
 expect_equal(actual, expected, scale=expected, tolerance=DELTA) - relative error within DELTA
 
-
-
-
-
-
----
-
-
-    Code coverage is a measure of how much of your code is "covered" by tests. Most programming languages have tools either build into them or that can be imported to automatically measure code coverage, and there's also a nice little [bot](https://codecov.io/) available too.
-
-
-    pytest can also tell you about code coverage, probably similar things for most commonly used languages.
-
-
-    This tells you how much of your code is used when you run your test suite.
-
-    So for example, if you have a if statement and you only test things where that if statement evaluates to "True" then none of the code that comes under "False", or that would be used when the statement is false will be run. The code coverage bot will tell you that (for example) 45% of the code wasn't accessed. This doesn't include documentation. So adding more documentation doesn't affect your percentages.
-
-    A side note for this code coverage bot: you may configure it so that it tells you that your builds are failing if the coverage goes down. In the example below Ross has added
-
-    Here's an example: https://github.com/rmarkello/pyls/pull/44
-
-| Prerequisite | Importance | Notes |
-| -------------|------------|-------|
-| Experience with the command line | Necessary |  |
-
-## Structure
-
-- Why you should write tests
-  - For yourself
-    - Saves you having to redo lots of work when you realise there's a bug, catch things early.
-    - Forces you to write more modular, clean code. Improves your code quality. Much quicker and easier to work with than a tangled rats nest.
-    - You have to test your code anyway as you're writing it, you don't just write it and assume it's right. It's very little work to put those tests in a file. The time lost to incorrect results or broken code is much, much bigger.
-  - For science
-    - Fewer mistakes, very costly for time and funding, include a horror story or two.
-    - More reproducible. Answers the question "how do we even know this code works". If tests are never saved, just done and deleted the proof cannot be reproduced easily.
-    - SSI slogan: "better software, better research".
-- Types of tests
-  - Unit tests
-    - Test small "units" of code
-    - If you code wrong and your test breaks, fix the code. If you improve your code and the test breaks, fix the test.
-  - Integration tests
-    - Check the pieces work together properly.
-  - End to end tests
-    - Doesn't need to include every single feature.
-  - Regression tests
-    - Test if the result changes after the code is updated. Fail if so.
-    - A unit test can also be a regression test (can integration and end to end tests etc *also* be considered regression tests?)
-  - Runtime tests
-  - Tests where there is not a well defined output
-    - E.g. look and see if a graph seems reasonable.
-    - Can't test all the ways it may be wrong, but can do sanity checks, e.g. if you have a graph of global population vs you should never have a negative number of people.
-- Test driven development (ensure we do the thing right)
-
-[Sound software](http://soundsoftware.ac.uk/unit-testing-why-bother/) **Creative Commons Attribution-NonCommercial 3.0 License.**
-Some developers practise test-driven development, a process in which the unit tests are written before the rest of the code. The tests thus describe a “contract” that the code is expected to comply with. This ensures that the code will be correct (as far as can be enforced by the testing contract) as written, and it provides a useful framework for thinking about how the code should be designed, what interfaces it should provide, and how its algorithms might work. This can be a very satisfying mental aid in developing tricky algorithms.
-
-- Behaviour driven development (ensure we do the right thing)
-- General best practice
-  - Write small things
-  - Defensive programming (e.g. test inputs are the right type, not applicable in static type languages)
-  - Code review to test code quality
-  - Continuous integration very briefly, and link to that chapter,
-
-## Prerequisites / recommended skill level
-
-  | Prerequisite | Importance | Notes |
-  | -------------|----------|------|
-  | Chapter/topic | How important it is | Any notes |
-
-## Summary
-
-
-## How this will help you/ why this is useful
-
-
+<a name="Types_of_tests"></a>
 ## Types of tests
 
 *Need to add a bit more context before jumping right in.*
+
+*positive test, test something does right, negative tests, tests crashes when it should*
 
 [Software testing fundamentals levels of tests](http://softwaretestingfundamentals.com/software-testing-levels/) **Copyleft - 2019 STF**
 
@@ -151,7 +229,9 @@ Software testing levels are the different stages of the software development lif
 
 ![software_testing_levels](../figures/software_testing_levels.jpg)
 
-#### Level	Summary
+### Level	Summary
+
+*add smoke testing*
 
 Unit testing:	A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
 
@@ -161,19 +241,43 @@ System testing:	A level of the software testing process where a complete, integr
 
 Acceptance testing:	A level of the software testing process where a system is tested for acceptability. The purpose of this test is to evaluate the system's compliance with the project requirements and assess whether it is acceptable for the purpose.
 
+Here's an analogy: during the process of manufacturing a ballpoint pen, the cap, the body, the tail, the ink cartridge and the ballpoint are produced separately and unit tested separately. When two or more units are ready, they are assembled and integration testing is performed. When the complete pen is integrated, system testing is performed to check it can be used to write like any pen should. Acceptance testing could be a check to ensure the pen is the colour the customer ordered.
+
 There is also another kind of testing called regression testing. Regression testing is a type of testing that can be performed at any of the four main levels and compares the results of tests before and after a change is made to the code.
 
 These different types of tests will now be discussed in more detail.
 
-### Unit tests
+## Smoke testing
+
+[smoke testing](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+
+Smoke tests are a special kind of initial checks designed to ensure very basic functionality as well as some basic implementation and environmental assumptions. Smoke tests are generally run at the very start of each testing cycle as a sanity check before running a more complete test suite.
+
+The idea behind this type of test is to help to catch big red flags in an implementation and to bring attention to problems that might indicate that further testing is either not possible or not worthwhile. Smoke tests are not very extensive, but should be extremely quick. If a change fails a smoke test, its an early signal that core assertions were broken and that you should not devote any more time to testing until the problem is resolved. For example if the function to read in the data the data a project will work with is broken there's no point testing any further before that's fixed.
+
+<a name="Unit_tests"></a>
+## Unit tests
 
 *Unit testing frameworks, drivers, stubs, and mock/ fake objects can be used to assist in unit testing.*
 
+*blog to look at https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806*
+
+Automated (or unit) tests are modules or classes that invoke operations on your code. A test might verify an individual function or method, a class or module, related modules or components or the software as a whole. Tests can ensure that the correct results are returned from a function, that an operation changes the state of a system as expected, and that the code behaves as expected when things go wrong (for example, if incorrect inputs are given by a user or a database connection is cut off prematurely).
+
+---
+
+[digitalocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+## Unit testing
+Unit tests are responsible for testing individual elements of code in an isolated and highly targeted way. The functionality of individual functions and classes are tested on their own. Any external dependencies are replaced with stub or mock implementations to focus the test completely on the code in question.
+
+Unit tests are essential to test the correctness of individual code components for internal consistency and correctness before they are placed in more complex contexts. The limited extent of the tests and the removal of dependencies makes it easier to hunt down the cause of any defects. It also is the best time to test a variety of inputs and code branches that might be difficult to hit later on. Often, after any smoke tests, unit tests are the first tests that are run when any changes are made.
+
+Unit tests are typically run by individual developers on their own work station prior to submitting changes. However, continuous integration servers almost always run these tests again as a safe guard before beginning integration tests.
 ---
 
 [Software testing fundamentals unit tests](http://softwaretestingfundamentals.com/unit-testing/) **Copyleft - 2019 STF**
 
-### What is unit testing?
+## What is unit testing?
 
 UNIT TESTING is a level of software testing where individual units/components of a software are tested. The purpose is to validate that each unit of the software performs as designed. A unit is the smallest testable part of any software. It usually has one or a few inputs and usually a single output. In procedural programming, a unit may be an individual program, function, procedure, etc. In object-oriented programming the smallest unit is typically a method.
 
@@ -204,7 +308,7 @@ Modular code is much easier to reuse, for example if a researcher has a individu
 
 Modular code also has the benefit that even if a bug is introduced the unintended impact of changes to any code is likely to be lessened or limited to that module.
 
-#### Unit testing tips
+### Unit testing tips
 
 - Find a tool/framework for your language. For example the pytest module assists with running unit tests in python.
 - Isolate the development environment from the test environment.
@@ -300,44 +404,73 @@ Don't ship code with tests that fail, even if it doesn't matter that they fail. 
 Consider using a code coverage tool to check how much of your code is actually being tested. Coverage doesn't tell you everything: it only measures static execution paths, but it can give you some idea of things you might have missed altogether.
 
 
-### Integration testing
+## Integration testing
 
-[Software testing fundamentals integration testing](http://softwaretestingfundamentals.com/integration-testing/) **Copyleft - 2019 STF**
-
-Integration testing is a level of software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units. *Test drivers and test stubs are used to assist in integration testing.?????*
+Integration testing is a level of software testing where individual units are combined and tested as a group. While unit tests validate the functionality of code in isolation, integration tests ensure that components cooperate when interfacing with one another. The purpose of this level of testing is to expose faults in the interaction between integrated units.
 
 Here's an analogy. During the process of manufacturing a ballpoint pen, the cap, the body, the tail and clip, the ink cartridge and the ballpoint are produced separately and unit tested separately. When two or more units are ready, they are assembled and integration testing is performed. For example, whether the cap fits into the body or not.
 
 A sub type of integration testing is system integration testing. This tests the integration of systems, packages and any interfaces to external organizations (e.g. Electronic Data Interchange, Internet). Depending on the nature of a project system integration testing may or may not be applicable.
 
-#### Approaches
+### Approaches
 
 There are several different approaches to integration testing. Big Bang is an approach to integration testing where all or most of the units are combined together and tested at one go. This approach is taken when the testing team receives the entire software in a bundle. So what is the difference between Big Bang integration testing and system testing? Well, the former tests only the interactions between the units while the latter tests the entire system.
 
-Top Down is an approach to integration testing where top-level units are tested first and lower level units are tested step by step after that. This approach is taken when top-down development approach is followed. **Test Stubs** are needed to simulate lower level units which may not be available during the initial phases.
+Top Down is an approach to integration testing where top-level sections of the code (that themselves contain many smaller units) are tested first and lower level units are tested step by step after that. So is a code can be split into the main steps A, B, and C, and each of those  contain steps to complete them, and these steps may have substeps like:
 
-Bottom Up is an approach to integration testing where bottom level units are tested first and upper-level units step by step after that. This approach is taken when bottom-up development approach is followed. Test Drivers are needed to simulate higher level units which may not be available during the initial phases.
+- A
+  - A.1
+    - A.1.1
+    - A.1.2
+  - A.2
+- B
+  - B.1
+  - B.2
+    - B.2.1
+    - B.2.2
+    - B.2.3
+  - B.3
+
+- C
+  - C.1
+    - C.1.1
+    - C.1.2
+  - C.2
+    - C.2.1
+    - C.2.2
+
+So in the top down approach the integration between sections at the top level (A, B and C) are tested, then integration between sections at the next level and so on. Testing upper level units by running all the code they contain including running lower level ones can lead to upper level tests breaking due to bugs in low level units. This is undesirable, so to prevent this the lower level sections should not be run, but mock inputs should be used to simulate the outputs from them. These mock inputs are called test stubs.
+
+Bottom Up is an approach to integration testing where integration between bottom level sections are tested first and upper-level sections step by step after that. Again test stubs are needed to simulate inputs from higher level sections .
 
 Sandwich/Hybrid is an approach to integration testing which is a combination of Top Down and Bottom Up approaches.
 
-#### Integration testing tips
+### Integration testing tips
 
--Ensure that you have a proper Detail Design document where interactions between each unit are clearly defined. In fact, you will not be able to perform integration testing without this information.
--Ensure that you have a robust Software Configuration Management system in place. Or else, you will have a tough time tracking the right version of each unit, especially if the number of units to be integrated is huge.
--Make sure that each unit is unit tested before you start integration testing.
--As far as possible, automate your tests, especially when you use the Top Down or Bottom Up approach, since regression testing is important each time you integrate a unit, and manual regression testing can be inefficient.
+- Ensure that you have a proper Detail Design document where interactions between each unit are clearly defined. It is difficult or impossible to perform integration testing without this information.
+- Make sure that each unit is unit tested before you start integration testing.
 
-### System testing
+<a name="System_tests"></a>
+## System tests
 
-[Software testing fundamentals system testing](http://softwaretestingfundamentals.com/system-testing/) **Copyleft - 2019 STF**
+Once integration tests are performed, another level of testing called system testing can begin. System testing (sometimes called end-to-end testing) is a level of software testing where a complete and integrated software is tested. The purpose of this test is to evaluate the system's compliance with the specified requirements. In many ways, system testing acts as an extension to integration testing. The focus of system tests are to make sure that groups of components function correctly as a cohesive whole.
 
-SYSTEM TESTING is a level of software testing where a complete and integrated software is tested. The purpose of this test is to evaluate the system's compliance with the specified requirements.
+Instead of focusing on the interfaces between components, system tests typically evaluate the outward functionality of a full piece of software. This set of tests ignores the constituent parts in order to gauge the composed software as a unified entity. Because of this distinction, system tests usually focus on user- or externally-accessible outputs.
 
-Analogy
 
-During the process of manufacturing a ballpoint pen, the cap, the body, the tail, the ink cartridge and the ballpoint are produced separately and unit tested separately. When two or more units are ready, they are assembled and integration testing is performed. When the complete pen is integrated, system testing is performed.
+## Acceptance testing
 
-### Regression testing
+[digitalocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+
+Acceptance tests are one of the last tests types that are performed on software prior to delivery. Acceptance testing is used to determine whether a piece of software satisfies all of the requirements from the business or user's perspective. These tests are sometimes built against the original specification and often test interfaces for the expected functionality and for usability.
+
+Acceptance testing is often a more involved phase that might extend past the release of the software. Automated acceptance testing can be used to make sure the technological requirements of the design were met, but manual verification also usually plays a role.
+
+Frequently, acceptance testing begins by deploying the build to a staging environment that mirrors the production system. From here, the automated test suites can be run and internal users can access the system to check whether it functions the way they need it to. After release or offering beta access to customers, further acceptance testing is performed by evaluating how the software functions with real use and by collecting feedback from users.
+
+
+
+## Regression testing
 
 [Sound software](http://soundsoftware.ac.uk/unit-testing-why-bother/) **Creative Commons Attribution-NonCommercial 3.0 License**
 
@@ -384,7 +517,41 @@ Localization testing: The program is modified to present its user interface in a
 Smoke testing also known as build verification testing:A relatively small suite of tests is used to qualify a new build. Normally, the tester is asking whether any components are so obviously or badly broken that the build is not worth testing or some components are broken in obvious ways that suggest a corrupt build or some critical fixes that are the primary intent of the new build didn't work. The typical result of a failed smoke test is rejection of the build (testing of the build stops) not just a new set of bug reports.
 Any test can be reused, and so any test can become a regression test. Regression testing naturally combines with all other test techniques. The essence of regression testing is exposure of problems that shouldn't be there, either because they were exterminated before or they weren't in the product the last time(s) it was tested.
 
+---
 
+* [Adopting automated testing](https://github.com/softwaresaved/automated_testing/blob/master/README.md) **Apache License 2.0**
+
+Regression testing allows us to check that our code continues to be correct after we have made changes to it. Unit testing can then be introduced at a later date, when the demands of research permit.
+
+Regression testing does not test whether our code produces scientifically-correct results, only that we don't change its behaviour in unexpected ways. We will return to this distinction later.
+
+To introduce regression testing we can follow a recipe.
+
+First, we create a test oracle. We run out code on sets of input files and parameters. We save the corresponding output files. These output files serve as the expected outputs from our program given the corresponding input files and parameters.
+We then write regression tests. Each regression test runs our code for a set of input files and parameters. It then compares the output from our code to the expected outputs within the test oracle, it compares the actual outputs to the expected outputs.
+We run our regression tests regularly, or after every change to the code, to check we have not introduced any bugs that have changed its behaviour.
+
+### Limitations
+
+Regression tests are not guaranteed to test all parts of the code. Test coverage tools can provide information on what parts of our code are, or are not, executed when we run our regression tests.
+
+Most importantly, regression tests do not test if the result outputted by a piece of code is *correct*, only that is has not changed. This the remit of unit and system tests, though regression tests can serve as the starting point for introducing tests for correctness, by both the use of analytical solutions, and test functions which read output files and check the data for correctness, as defined by a researcher.
+
+## Runtime testing
+
+
+## Test driven development
+
+*blog to look at https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806*
+
+One way of ensuring tests are not neglected in a project, is to adopt test-driven development. This is an approach in which the tests for a function, class, module or component are written before the code. Once the tests are written, the code is developed so that it passes all the associated tests. Testing the code from the outset ensures that your code is always in a releasable state (as long as it passes the tests!).
+
+
+[Sound software](http://soundsoftware.ac.uk/unit-testing-why-bother/) **Creative Commons Attribution-NonCommercial 3.0 License.**
+Some developers practise test-driven development, a process in which the unit tests are written before the rest of the code. The tests thus describe a “contract” that the code is expected to comply with. This ensures that the code will be correct (as far as can be enforced by the testing contract) as written, and it provides a useful framework for thinking about how the code should be designed, what interfaces it should provide, and how its algorithms might work. This can be a very satisfying mental aid in developing tricky algorithms.
+
+
+*An alternative development approach is behaviour driven development. Simply put test driven development tests "has the thing been done correctly?", behaviour driven development tests "has the correct thing been done?". It is more often used in commercial software development to focus development on making the software as simple and useful as possible for users. User experience is very rarely at the heart of code written for the purposes of research, but there are cases where such software is written with a large user-base in mind. In such cases behaviour-driven development is a path worth considering.*
 
 ## Checklist
 
@@ -397,111 +564,39 @@ Try reading the chapter on reproducible computational environments and then the 
 
 ## Definitions/glossary
 
+- **:**
+
+- **:**
+
+- **Code coverage:** Code coverage is a measure which describes how much of the source code is exercised by the test suite.
+
+- **:**
+
+- **:**
+
+- **:**
+
+- **Test driven development:**
+
+- **:**
+
+- **:**
+
+
 ## Bibliography
 
 
-## material from the hack.md
 
-- https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/resources/testing.md
-- https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/
-- Seven Testing Principles: https://www.utest.com/articles/seven-testing-principles
-- eScience center section of Testing & CI
-- SSI blogpost on Testing: Software development doesn’t end when the software is written. How can you, and any developers you work with, be sure that your software meets its requirements? Does your software work as expected, and will it continue to work over its lifetime?
+### Materials used: integration testing
 
+- [Digitalocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+- [Software testing fundamentals: integration testing](http://softwaretestingfundamentals.com/integration-testing/) **Copyleft - 2019 STF**
 
-Jenkins is a good tool for running tests locally.
+### Materials used: system testing
 
-https://jenkins.io
+- [Software testing fundamentals: system testing](http://softwaretestingfundamentals.com/system-testing/) **Copyleft - 2019 STF**
+- [Digitalocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
 
+### Materials used: glossary
 
-
-Ask folks what they CURRENTLY do to check that their work is right.
-
-- Make a plot and visually inspect it
-
-- Describe a dataframe and check that the means and standard deviations are within the right range
-
-- Run a few different random simulations and check that they all give back values that are in the right range
-
-Give them some examples of code tests that do exactly these steps!
-
-(Note that its difficult to do this for images)
-
-
-There are some really standard unit tests that I (Kirstie) personally find a bit unhelpful to get started with. For example checking that the values returned are floats rather than integers or strings etc is not a thing that I’m usually super worried about!
-
-But checking the length of lists is a good one, or making sure that before I merge two data frames they DO actually have the heading in common?
-
-I think the most important thing in this section is to make sure its clear why testing is the SELFISH option, not the goodie two shoes option!! It helps YOU check that your work actually works.
-
-To be honest, the unit tests are cute but I don’t think they’re the best places to start - in the real world the way that I test my code is to actually see if it runs without errors all the way to the end! I think getting people up and running with this end-to-end kinda “test” might be the easiest way to get over the activation energy of learning something new
-
-
-
-[smoke testing](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
-
-## Smoke testing
-
-Smoke tests are a special kind of initial checks designed to ensure very basic functionality as well as some basic implementation and environmental assumptions. Smoke tests are generally run at the very start of each testing cycle as a sanity check before running a more complete test suite.
-
-The idea behind this type of test is to help to catch big red flags in an implementation and to bring attention to problems that might indicate that further testing is either not possible or not worthwhile. Smoke tests are not very extensive, but should be extremely quick. If a change fails a smoke test, its an early signal that core assertions were broken and that you should not devote any more time to testing until the problem is resolved.
-
-Context-specific smoke tests can be employed at the start of any new phase testing to assert that the basic assumptions and requirements are met. For instance, smoke tests can be used both prior to integration testing or deploying to staging servers, but the conditions to be tested will vary in each case.
-
-*As an example maybe if it's failed to read in the data not much point testing the rest of the code*
-
-## Unit testing
-Unit tests are responsible for testing individual elements of code in an isolated and highly targeted way. The functionality of individual functions and classes are tested on their own. Any external dependencies are replaced with stub or mock implementations to focus the test completely on the code in question.
-
-Unit tests are essential to test the correctness of individual code components for internal consistency and correctness before they are placed in more complex contexts. The limited extent of the tests and the removal of dependencies makes it easier to hunt down the cause of any defects. It also is the best time to test a variety of inputs and code branches that might be difficult to hit later on. Often, after any smoke tests, unit tests are the first tests that are run when any changes are made.
-
-Unit tests are typically run by individual developers on their own work station prior to submitting changes. However, continuous integration servers almost always run these tests again as a safe guard before beginning integration tests.
-
-## Integration testing
-
-After unit tests, integration testing is performed by grouping together components and testing them as an assembly. While unit tests validate the functionality of code in isolation, integration tests ensure that components cooperate when interfacing with one another. This type of testing has the opportunity to catch an entirely different class of bugs that are exposed through interaction between components.
-
-Typically, integration tests are performed automatically when code is checked into a shared repository. A continuous integration server checks out the code, performs any necessary build steps (usually performing a quick smoke test to make sure the build was successful) and then runs unit and integration tests. Modules are hooked together in different combinations and tested.
-
-Integration tests are important for shared work because they protect the health of the project. Changes must prove that they do not break existing functionality and that they interact with other code as expected. A secondary aim of integration testing is to verify that the changes can be deployed into a clean environment. This is frequently the first testing cycle that is performed off of the developer's own machines, so unknown software and environmental dependencies can also be discovered during this process. This is usually also the first time that new code is tested against real external libraries, services, and data.
-
-## System testing
-Once integration tests are performed, another level of testing called system testing can begin. In many ways, system testing acts as an extension to integration testing. The focus of system tests are to make sure that groups of components function correctly as a cohesive whole.
-
-Instead of focusing on the interfaces between components, system tests typically evaluate the outward functionality of a full piece of software. This set of tests ignores the constituent parts in order to gauge the composed software as a unified entity. Because of this distinction, system tests usually focus on user- or externally-accessible interfaces.
-
-## Acceptance testing
-
-Acceptance tests are one of the last tests types that are performed on software prior to delivery. Acceptance testing is used to determine whether a piece of software satisfies all of the requirements from the business or user's perspective. These tests are sometimes built against the original specification and often test interfaces for the expected functionality and for usability.
-
-Acceptance testing is often a more involved phase that might extend past the release of the software. Automated acceptance testing can be used to make sure the technological requirements of the design were met, but manual verification also usually plays a role.
-
-Frequently, acceptance testing begins by deploying the build to a staging environment that mirrors the production system. From here, the automated test suites can be run and internal users can access the system to check whether it functions the way they need it to. After release or offering beta access to customers, further acceptance testing is performed by evaluating how the software functions with real use and by collecting feedback from users.
-
-## Summary
-> easy to understand summary - a bit like tl;dr
-
-## How this will help you/ why this is useful
-> why we think you should read the whole thing
-
-## Prerequisites / recommended skill level
-> other chapters that should have been read before or content you should be familiar with before you read this
-
-## Chapter content
-> depending on the content, this might be more structured, e.g. with exercises, gotcha sections etc
-
-## Checklist
-> this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
-
-## What to learn next
-> recommended next chapters that are a good next step up
-
-## Further reading
-> top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
-> less relevant/favourite resources in case someone wants to dig into this in detail
-
-## Definitions/glossary
-> Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
-
-## Bibliography
-> Credit/urls for any materials that form part of the chapter's text.
+- [Netherlands eScience centre](https://guide.esciencecenter.nl/best_practices/testing.html) **Creative Commons Attribution 4.0 International License**
