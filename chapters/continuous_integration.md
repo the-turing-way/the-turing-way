@@ -68,51 +68,24 @@ In this chapter this entire process is referred to as continuous integration for
 
 ## What is Travis and how does it work?
 
-There are a number of CI tools available, such Circle (tutorials [here](https://circleci.com/docs/2.0/project-walkthrough/) and [here]([CircleCI Hello World.](https://circleci.com/docs/2.0/hello-world/)). A list of others CI tools can be found [here](https://www.software.ac.uk/resources/guides/hosted-continuous-integration). In this chapter we will focus on [Travis](https://travis-ci.org/) because it's free (if your code is openly available), widely used, and well integrated with the version control platform [GitHub](https://github.com/).
+There are a number of CI tools available, such Circle (tutorials [here](https://circleci.com/docs/2.0/project-walkthrough/) and [here]([CircleCI Hello World.](https://circleci.com/docs/2.0/hello-world/)). A list of other CI tools can be found [here](https://www.software.ac.uk/resources/guides/hosted-continuous-integration). In this chapter we will focus on [Travis](https://travis-ci.org/) because it's free (if your code is openly available), widely used, and well integrated with the version control platform [GitHub](https://github.com/).
 
-*To use Travis with a project the project must include a file called `.travis.yml` file. This file must specify the computational environment to run the project and conatin a script to run any tests/ o other steps to run each time a change to the code is integrated. The .travis.yml file can also do a whole buch other stuff. Hoe to wwrite these files covered in detail later. Minimum this needs to include is a script, if the script runs sucessfully travis will pass it.*
+To use Travis you will need to add a file to your project called `.travis.yml` which describes the computational environment to run the project in, and includes a script to run your tests. See the chapter on reproducible computational environments for more information on them, including writing `.yml` files to specify them. See the chapter on testing for information on writing and automating tests. The .travis.yml has a number of other capabilities, which will be described [later] *liiiiiiiiiiiiiiiiiiiiiink* along with more detailed instructions for writing these files.
 
- Green, amber, red
-  - failures in "install" section create travis build fail errors (grey message - test didn't run)
-  - failures in "script" creates test failure and thus red error messages
-  - yellow while it's running
+Once Travis has been set up on a project then each time a commit is made it:
 
-    - *You can make "test passed" a requirement for merging *
-      - *you can protect branches so that there's no way to merge a pull request unless the tests pass.*
-  - *How to link github repo and travis*
+- Clones a copy of your project
+- Generates a copy of the computational environment specified in the .travis.yml file in a brand new virtual environment
+- Builds the project within that environment
+- Runs the tests by following the script specified in the .travis.yml file
+- Reports the results
+  - Travis will attach a badge to the results, green if all steps in the script (which run the tests) pass, red if not. The badge will be yellow whilst the tests are still running. If Travis is unable to generate the computational environment described in the .travis.yml file then it will not proceed futher and the badge will be grey.
+  - Travis will also report the results via email (notification settings can be adjusted).
 
+You can use Travis to test your project in multiple computational environments my specifying them in the .travis.yml file. A quick note on Travis vocabulary:
 
-
-  [Info about how travis works](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**
-
-
-  ## CI builds and automation: building, testing, deploying
-
-*runs script not tests*
-  When you run a build, Travis CI clones your GitHub repository into a brand new virtual environment, and build and test your code. If one or more of those tasks fails, the build is considered broken. If none of the tasks fail, the build is  considered passed, and Travis CI can deploy your code to a web server, or application host.
-
-  CI builds can also automate other parts of your delivery workflow. This means you can setup [notifications](/user/notifications/) and many other tasks.
-
-  ## Builds, Jobs, Stages and Phases
-
-  In the Travis CI documentation, some common words have specific meanings:
-
-  - Job - an automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code, running tests, etc. A job fails if the return code of the `script` encounters an error.
-  - Build - a group of jobs. For example, a build might have two *jobs*, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
-
-  ## Breaking the Build
-
-  The build is considered broken when one or more of its jobs completes with a
-  state that is not passed:
-
-   - *errored* - a command in the `before_install`, `install`, or `before_script`
-     phase returned a non-zero exit code. The job stops immediately.
-   - *failed* - a command in the `script` phase returned a non-zero exit code. The
-     job continues to run until it completes.
-   - *canceled* - a user cancels the job before it completes.
-
-This page on [Common Builds Problems](/user/common-build-problems/) is a good place to start troubleshooting if your build is broken.
-
+- Job - an automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code, running tests, etc. A job fails if the return code of the script encounters an error.
+- Build - a group of jobs. For example, a build might have two *jobs*, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
 
 ## Setting up continuous integration with Travis
 
@@ -205,6 +178,7 @@ before_install:
   - sudo apt-get install -y libxml2-dev
 ```
 
+This page on [Common Builds Problems](/user/common-build-problems/) is a good place to start troubleshooting if your build is broken.
 
 ## The .travis.yml script
 
@@ -542,10 +516,14 @@ Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). 
 - [Martin Fowler, who first wrote about Continuous Integration (short: CI) together with Kent Beck via CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
 
 
-### Materials used: Best practise for continuous integration,
+### Materials used: Best practise for continuous integration
 
 - [Continuous integration, continuous deployment and continuous delivery](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
 - [Netherlands eScience Center guide](https://guide.esciencecenter.nl/best_practices/testing.html) **Creative Commons Attribution 4.0 International**
+
+### Materials used: What is Travis and how does it work?
+
+- [Info about how Travis works](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**
 
 ## Acknowledgements
 
