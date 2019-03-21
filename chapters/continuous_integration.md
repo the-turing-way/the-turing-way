@@ -89,15 +89,9 @@ You can use Travis to test your project in multiple computational environments m
 
 ## Setting up continuous integration with Travis
 
-  [light travis tutorial](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/tutorial.md) **MIT**
+### Basic steps
 
- [Core Concepts for Beginners](/user/for-beginners)
-
----
-
-## How to get started with Travis CI
-
-- [Write](#The_travis_yml_file) a `.travis.yml` file and add it to your project.
+- Write a `.travis.yml` file and add it to your project.
 - Upload your project to GitHub if you have not already.
 - Go to [Travis-ci.com](https://travis-ci.com) and [Sign up with GitHub](https://travis-ci.com/signin).
 - Accept the Authorization of Travis CI. You'll be redirected to GitHub.
@@ -105,39 +99,14 @@ You can use Travis to test your project in multiple computational environments m
 - Check the build status page to see if your build [passes or fails](/user/job-lifecycle/#breaking-the-build), according to the return status of the build command by visiting the [Travis CI](https://travis-ci.com/auth) and selecting your repository.
 - Next time you commit to your repository Travis will run on the updated version of your project and report the results.
 
+It's that simple. The rest of this section will describe the different components of the .travis.yml file and how to write them.
+
 <a name="The_travis_yml_file"></a>
-### The .travis.yml file
-
-### Setting up my own CI step by step
-
-```
-language: python
-python:
-- "2.7"
-script:
-- pytest
-```
-
----
-[CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
-
-In order to activate testing for your project, go to the Travis-CI site and login with your GitHub account. Then activate your project in your profile settings and you’re ready to go. From now on, your project’s tests will be run on every push to GitHub.
-
----
-
-- .travis.yml
-  - Outline minimum basic structure
-
-
-As Travis files are so small, they "hide" quite a lot of the action (similar to binder, it might make it too easy) - the log gives full transparency of the "magic"  
-
-Travis files start with . so they might be hidden files
-
 ### Setting up the computational environment
 
 #### Operating system
 
-Travis CI works with a few different operating systems. In the .travis.yml  file define the operating system to run a project on via
+Travis CI works with a few different operating systems. In the .travis.yml  file define the operating system to run a project on via the os keyword like:
 ```
 os: linux
 ```
@@ -152,30 +121,22 @@ or
 os: windows
 ```
 
-It is also possible to build and test a project on multiple operating systems. This will be not be discussed here as this presents and extra level of complexity and will not be needed in most cases, but it is discussed later *aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadddddddd link*.
+It is possible to build and test a project on multiple operating systems. This will be not be discussed here as this presents and extra level of complexity and will not be needed in most cases for research, but it is discussed later *aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadddddddd link*.
 
-#### Selecting a different programming language
+#### Programming language
 
-Travis CI supports many [programming languages](/user/languages/). In the `.travis.yml` languages can be specified like
-
+Specify the programming language to run your project with using the language keyword, and specify which version of the language to use. So for python2.7 this would look like:
 ```
-language: ruby
-language: java
-language: php
+language: python
+python:
+- "2.7"
 ```
+Further information on the programming languages that are compatible with Travis can be found [here](https://docs.travis-ci.com/user/languages/)
 
-[CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
+#### Dependencies
 
-
-- Dockefiles can be used with Travis
- [install dependencies](/user/job-lifecycle/#customizing-the-installation-phase)
-
----
 
 [Installing dependencies via yaml](https://github.com/travis-ci/docs-travis-ci-com/edit/master/user/installing-dependencies.md) **MIT**
-
-## Installing Packages on Standard Infrastructure
-
 
 Not all languages/software are available on all operating systems however they can typically be installed within the .travis.yml file.
 
@@ -185,12 +146,29 @@ To install Ubuntu packages that are not included in the standard [precise](/user
 before_install:
   - sudo apt-get install -y libxml2-dev
 ```
+---
+
+
+
+[CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
+
+
+- Dockefiles can be used with Travis
+ [install dependencies](/user/job-lifecycle/#customizing-the-installation-phase)
+
+---
+
+
 
 This page on [Common Builds Problems](/user/common-build-problems/) is a good place to start troubleshooting if your build is broken.
 
 ## The .travis.yml script
 
-If there is anything that it will need to carry out the script beyond the linux command line you need to install it, set lenguages to run any tests, etc. If that's a lot/complex then continers etc are good, but those do kind of hide things, pros and cons.
+```
+script:
+- pytest
+```
+
 
     - Script, say to run tests/do anything else (**check compiled successfully for compiled languages?**)
 
@@ -496,6 +474,10 @@ Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). 
 
 - [Info about how Travis works](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**
 
+### Materials used: Setting up continuous integration with Travis
+
+- [Light travis tutorial](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/tutorial.md) **MIT**
+- [CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
 ## Acknowledgements
 
 Thanks to David Jones of the University of Sheffield RSE group for useful discussions.
