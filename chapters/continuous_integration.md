@@ -95,20 +95,28 @@ You can use Travis to test your project in multiple computational environments m
 
 ---
 
-## To get started with Travis CI
+## How to get started with Travis CI
 
-1. Go to [Travis-ci.com](https://travis-ci.com) and [*Sign up with GitHub*](https://travis-ci.com/signin).
+- [Write](#The_travis_yml_file) a `.travis.yml` file and add it to your project.
+- Upload your project to GitHub if you have not already.
+- Go to [Travis-ci.com](https://travis-ci.com) and [Sign up with GitHub](https://travis-ci.com/signin).
+- Accept the Authorization of Travis CI. You'll be redirected to GitHub.
+- You will see a list of your GitHub repositories with buttons next to them. Click the button next to your project repository to activate Travis on it.
+- Check the build status page to see if your build [passes or fails](/user/job-lifecycle/#breaking-the-build), according to the return status of the build command by visiting the [Travis CI](https://travis-ci.com/auth) and selecting your repository.
+- Next time you commit to your repository Travis will run on the updated version of your project and report the results.
 
-2. Accept the Authorization of Travis CI. You'll be redirected to GitHub.
+<a name="The_travis_yml_file"></a>
+### The .travis.yml file
 
-3. Click the green *Activate* button, and select the repositories you want to use with Travis CI.
+### Setting up my own CI step by step
 
-4. Add a `.travis.yml` file to your repository to tell Travis CI what to do.
-
-5. Add the `.travis.yml` file to git, commit and push, to trigger a Travis CI build:
-
-6. Check the build status page to see if your build [passes or fails](/user/job-lifecycle/#breaking-the-build), according to the return status of the build command by visiting the [Travis CI](https://travis-ci.com/auth) and selecting your repository.
-
+```
+language: python
+python:
+- "2.7"
+script:
+- pytest
+```
 
 ---
 [CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
@@ -358,43 +366,6 @@ matrix:
 ---
 
 
-  ### Setting up my own CI step by step
-
-  - On my computer I made a diretory, made a simple function adding two numbers and a test for it. Ran pytest and it passed.
-  - Used git init, added and commited the files.
-  - On github made a repo with the same name as the directory (CI-practise)
-  - Put my code on github using `git remote add origin the_url` then `git push -u origin master`
-  - Went to https://travis-ci.org/
-  - Clicked "Sign in with GitHub"
-  - Redirected me to GitHub where permission was aked for Travis to have access to my stuff, clicked authorise
-  - Came up with a page with a list of my repos each of which had a switch next to them, they were all off. For my CI-practise repo I turned it on.
-  - On my local machine I created subtract.py which subtracts two numbers and a test for it, added and committed those files.
-  - I pushed to my github but travis didn't run.
-  - On my machine I created a branch called multiply_feature and added and committed a function and test to do that
-  - Pushed that to github using `git push -u origin multiply_feature`
-  - Switched to that branch on github and made a pull request to master
-  - Continuos intergration didn't run, but there is a link just above the bit saying no merge conficts saying continuous intergration hasn't been set up and there are apps that can do it.
-  - Clicked that, it took me to a github page about contuinous intergration
-  - Remembered I need a .travis.yml file if travis is to run. Created one on my local machine
-
-  ```
-  language: python
-  python:
-  - "2.7"
-  script:
-  - pytest
-  ```
-
-  - Pushed to the github version of the branch. On the pull request travis automatically started running and the tests passed. Worth noting that throughout I was still able to merge.
-  - Merged.
-  - Switched back to master on my machine and github.
-  - Made an inconsequential change, just added a print statement to the add funtion. Committed and pushed to github.
-  - The change immediatly appeared in my master on github, however on travis it did run the tests and showed up green.
-  - Made another branch, on it created a function and test to square numbers. Made a deliberate mistake so the tests would fail. Pushed to github.
-  - The files/code I added immediatly appeared in my github version of that branch, however on travis the tests failed.
-  - Made a pull request from the branch to master. The travis tests re-ran on the pull request and failed again (though i still had the option to merge if I wanted).
-  - On my computer I fixed the bug, added, committed and pushed. On the pull request the tests automatically re-ran.
-  - The tests passed and I merged into master.
 
 
 ## Limitations of CI
