@@ -4,15 +4,6 @@
 | -------------|------------|-------|
 | Experience with the command line | Necessary |  |
 
-## Structure
-
--
-
-## Prerequisites / recommended skill level
-
-  | Prerequisite | Importance | Notes |
-  | -------------|----------|------|
-  | Chapter/topic | How important it is | Any notes |
 
 ## Summary
 
@@ -60,6 +51,7 @@ After changing your code and rebuilding it, a developer will want to check that 
 
 There are a number of [different kinds](#Types_of_tests) of testing which have best practice specific to them, however there are some general guidance that applies to all of them, which will be outlined here.
 
+<a name="Write_tests_any_tests"></a>
 ### Write tests. Any tests.
 
 Starting the process of writing tests can be overwhelming, especially if you have a large code base. Further to that, as mentioned, there are many kinds of tests, and implementing all of them can seem like an impossible mountain to climb. That is why the single most important piece of guidance in this chapter is as follows: **write some tests**. Testing one tiny thing in a code that's thousands of lines long is infinitely better than testing no things in a code that's thousands of lines long. You may not be able to do everything, but doing *something* is better than nothing.
@@ -82,17 +74,51 @@ Some tests, like [unit tests](#Unit_tests) only test a small piece of code and s
 
 *blog to look at https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806*
 
-  It is important to provide documentation that describes how to run the tests. This should cover subjects such as whether a database or a web server is needed and, if so, how should it be configured? Ideally, you would provide scripts to set up and configure any resources that the developer needed. This way, you could provide a test code or script that, for example, configures and populates a database needed for the test. Automation further minimises the work a developer must do before being able to run your tests and allows them to check their changes quickly and easily.
+  It is important to provide documentation that describes how to run the tests, both for yourself in case you come back to a project in the future, and for anyone else that may wish to build upon or peproduce your work. This documentation should also cover subjects such as
+  
+- Any resources e.g. test dataset files that are required
+- Any configuration/settings adjustments needed to run the tests
+- What software (such as [testing frameworks](#Use_a_testing_framework)) need to be installed 
+  
+Ideally, you would provide scripts to set up and configure any resources that are needed.
 
+### Test realistic cases
+
+Make the cases you test as realistic as possible. If for example, you have dummy data to run tests on then make that data as similar as possible to your actual data. If your actual data is messy with a lot of null values, so should your test dataset be.
 
 <a name="Use_a_testing_framework"></a>
 ### Use a testing framework
 
-There are tools available to make writing and running tests easier, these are known as testing frameworks. Find one you like, learn about hte features it offers, and make use of them.
+There are tools available to make writing and running tests easier, these are known as testing frameworks. Find one you like, learn about the features it offers, and make use of them. Common testing frameworks (and the languages they apply to) include:
 
+-Language agnostic
+  - CTest
+    - Test runner for executables, bash scripts, etc...
+    - Great for legacy code hardening
+- C++ 
+  - Catch 
+  - CppTest
+  - Boost::Test
+  - google-test      
+- C
+  - all C++ frameworks
+  - Check
+  - CUnit
+- Python
+  - pytest, branched off of nose (recommended)
+  - nose includes test discovery, coverage, etc
+  - unittest comes with standard python library
+- R unit-tests
+  - RUnit
+  - svUnit (works with SciViews GUI)
+- Fortran unit-tests:
+  - funit
+  - pfunit(works with MPI)
 
-  - *test realistic cases.*
-  - *Tools available to help with tests. Find one you like and use it*
+### Aim to have a good code coverage
+
+As [mentioned](#Write_tests_any_tests) any tests are an improvement over no tests.
+
   - *Aim to have a good code coverage. Something's better than nothing*
   - *Defensive programming (e.g. test inputs are the right type, not applicable in static type languages, sanity checks.)*
   - *Use mocking where appropriate*
@@ -103,37 +129,7 @@ There are tools available to make writing and running tests easier, these are kn
 
 
 
-  [turing testing course basics](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/01testingbasics.html) **Creative Commons share and remix**
-  #### Common testing frameworks
-      Language agnostic: CTest
 
-      Test runner for executables, bash scripts, etc...
-      Great for legacy code hardening
-      C unit-tests:
-
-      all c++ frameworks,
-      Check,
-      CUnit
-      C++ unit-tests:
-
-      CppTest,
-      Boost::Test,
-      google-test,
-      Catch (best)
-      Python unit-tests:
-
-      nose includes test discovery, coverage, etc
-      unittest comes with standard python library
-      py.test, branched off of nose (recommended to use)
-      R unit-tests:
-
-      RUnit,
-      svUnit
-      (works with SciViews GUI)
-      Fortran unit-tests:
-
-      funit,
-      pfunit(works with MPI)
 
       ---
     Hack md notes:
@@ -585,7 +581,10 @@ Try reading the chapter on reproducible computational environments and then the 
 
 ## Bibliography
 
+### Materials used: general guidance and good practice for testing
 
+- [SSI blog on testing software](https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806) **Creative Commons Attribution Non-Commercial 2.5 License.**
+- [Turing testing course basics](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/03pytest.html) **Creative Commons share and remix**
 
 ### Materials used: integration testing
 
