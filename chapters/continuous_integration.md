@@ -133,6 +133,14 @@ python:
 ```
 Further information on the programming languages that are compatible with Travis can be found [here](https://docs.travis-ci.com/user/languages/)
 
+#### Compilers
+
+If a compiled language is being used which compiler to use can be specified with the compiler keyword:
+```
+compiler:
+  - gcc
+```
+
 #### Dependencies
 
 Not all languages/software are available on all operating systems however they can typically be installed within the .travis.yml file.
@@ -154,86 +162,31 @@ before_install:
 - Dockefiles can be used with Travis
  [install dependencies](/user/job-lifecycle/#customizing-the-installation-phase)
 
----
 
 
 
 This page on [Common Builds Problems](/user/common-build-problems/) is a good place to start troubleshooting if your build is broken.
 
-## The .travis.yml script
+### The .travis.yml script
 
+Travis will report that the build has failed if any commands in the script section return an error. Technically any commands can be included in the scrpt, but it is mainly used for running tests. A script does not need to be long or complicated, as demonstrated by this example which uses the pytest command to run tests in python scripts:
 ```
 script:
 - pytest
 ```
 
-
-    - Script, say to run tests/do anything else (**check compiled successfully for compiled languages?**)
-
-If you've got steps that NEED to be taken and you want fail to return if not (e.g. push online) then they need to go in the script, not an after sucesss section because travis doesn't care if things in after sucess fail.
-
-TRAVIS DOESN'T KNOW WHAT A TEST IS
- -- it just runs commands and throws errors
-
-
-     Working through the scona travis file
-
-     https://github.com/WhitakerLab/scona/blob/dev/.travis.yml
-
-     Here are a few updates:
-
-     ```
-     language: python
-     python:
-     #  - "3.5"
-       - "3.6"
-     install:
-       - pip install -q networkx==$NETWORKX_VERSION
-       - pip install -q -r requirements.txt
-       - pip install sphinx sphinx sphinxcontrib-napoleon sphinx_rtd_theme
-     script:
-      #- python3 -m pytest -v
-       - cd docs
-       - make html
-       - touch .nojekyll
-
-     ```
-
-
-         script section is where tests are run; those are just unit commands
-         - this uses language specific tests so you need to be aware of test conventions in the language you use
-         - If any of the scripts fail, the build fails.
-
-## After success
-
-- After success (optional)
-   - E.g. automatically merge.
-Can have need approving review or tests pass or both or nither before merging is alowed.
-
-Travis CI isn't just for running tests, there are many others things you can do with your code:
-
-* deploy to [GitHub pages](/user/deployment/pages/)
-* run apps on [Heroku](/user/deployment/heroku/)
-* upload [RubyGems](/user/deployment/rubygems/)
-* send [notifications](/user/notifications/)
-
----
-
-[travis multiple operating systems](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/multi-os.md) **MIT**
-
-If your code is used on multiple operating systems it probably should be tested on
-multiple operating systems. Travis CI can test on Linux and macOS.
-
-To enable testing on multiple operating systems add the `os` key to your `.travis.yml`:
-
+If there are steps that need to be done before a project to be considered to be "fully" working these should also be included in the script too. Lets say some project needs a figure to be converted to a png file for some reason. the script could included
 ```
-os:
-  - linux
-  - osx
-  - windows
+  - convert figure_name.jpg figure_name.png
 ```
 
-If you are already using a [build matrix](/user/customizing-the-build/#build-matrix) to test multiple versions, the `os` key also multiplies the matrix.
+If for any reason this cannot be done an error will be returned and the build will be marked as having failed.
+
+### After success
+
+The after success section is much like the script section in that it contains commands to run on the project. The key difference if that the build will not fail if steps in the after success section return errors.
+
+The after success section is run after the script, and can be used to automate steps that need to be taken once a build has passed all the tests. Examples of things that can be automated include automatically merging the new version of the project to the master branch in GitHub. Another example is for the code coverage (see testing chapter) to be automatically measured and reported.
 
 ## Allowing Failures
 
@@ -256,6 +209,21 @@ matrix:
   allow_failures:
   - rvm: 1.9.3
 ```
+
+
+
+### Testing your project on multiple operating systems
+
+If your code is used on multiple operating systems it should be tested on multiple operating systems. To enable testing on multiple operating systems add multiple entries under the `os` key in your `.travis.yml` file, e.g.:
+```
+os:
+  - linux
+  - osx
+```
+
+If you are already using a [build matrix](/user/customizing-the-build/#build-matrix) to test multiple versions, the `os` key also multiplies the matrix.
+
+
 
 Can test it using multiple versions of python etc by having multiple versions of python specified under languages.
 
@@ -348,13 +316,9 @@ matrix:
 
 ### Continuous integration is only as effective as you are
 
+If your project contains few or poor tests then it is entirely possible the project will contain bugs the tests do not catch and Travis will report the build as successful.
+
     Your CI is only as good as the tests you have!
-
-    CI can also be set up to measure code coderage (see testing chapter)
-
-    Here's an example of a yaml file to configure code coverage: https://github.com/ME-ICA/tedana/blob/master/.codecov.yml
-
-    Here's an example output: https://github.com/ME-ICA/tedana/pull/120#issuecomment-416545219
 
 
 ### Security
@@ -477,6 +441,7 @@ Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). 
 - [Light travis tutorial](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/tutorial.md) **MIT**
 - [CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
 - [Installing dependencies via yaml](https://github.com/travis-ci/docs-travis-ci-com/edit/master/user/installing-dependencies.md) **MIT**
+- [Using Travis with multiple operating systems](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/multi-os.md) **MIT**
 
 ## Acknowledgements
 
