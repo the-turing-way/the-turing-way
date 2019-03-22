@@ -104,6 +104,8 @@ It's that simple. The rest of this section will describe the different component
 <a name="The_travis_yml_file"></a>
 ### Setting up the computational environment
 
+This page on [Common Builds Problems](/user/common-build-problems/) is a good place to start troubleshooting if your build is broken.
+
 #### Operating system
 
 Travis CI works with a few different operating systems. In the .travis.yml  file define the operating system to run a project on via the os keyword like:
@@ -154,18 +156,7 @@ before_install:
 
 #### Containers
 
-
-
-[CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
-
-
-- Dockefiles can be used with Travis
- [install dependencies](/user/job-lifecycle/#customizing-the-installation-phase)
-
-
-
-
-This page on [Common Builds Problems](/user/common-build-problems/) is a good place to start troubleshooting if your build is broken.
+It is possible to use Docker containers (see the reproducible computational environments chapter) to generate the computational environment but pulling and running the image from the .travis.yml file. See [here](https://docs.travis-ci.com/user/docker/) for more information on this.
 
 ### The .travis.yml script
 
@@ -188,29 +179,17 @@ The after success section is much like the script section in that it contains co
 
 The after success section is run after the script, and can be used to automate steps that need to be taken once a build has passed all the tests. Examples of things that can be automated include automatically merging the new version of the project to the master branch in GitHub. Another example is for the code coverage (see testing chapter) to be automatically measured and reported.
 
-## Allowing Failures
+### Testing a project with multiple versions of a programming language
 
-To ignore the results of jobs on one operating system, add the following
-to your `.travis.yml`:
-
+When a project is expected to be run on systems with different versions of a programming language you can set Travis to run the tests on each of these versions, for example to test on a variety of versions of python:
 ```
-matrix:
-  allow_failures:
-    - os: osx
+language: python
+python:
+  - "2.6"
+  - "2.7"
+  - "3.2"
+  - "3.3"
 ```
-
-[Travis docs: customising the build](https://docs.travis-ci.com/user/customizing-the-build/) **MIT**
-You can define rows that are allowed to fail in the build matrix. Allowed failures are items in your build matrix that are allowed to fail without causing the entire build to fail. This lets you add in experimental and preparatory builds to test against versions or configurations that you are not ready to officially support.
-
-Define allowed failures in the build matrix as key/value pairs:
-
-```
-matrix:
-  allow_failures:
-  - rvm: 1.9.3
-```
-
-
 
 ### Testing your project on multiple operating systems
 
@@ -221,107 +200,32 @@ os:
   - osx
 ```
 
-If you are already using a [build matrix](/user/customizing-the-build/#build-matrix) to test multiple versions, the `os` key also multiplies the matrix.
+When you test your code on multiple operating systems, be aware of differences that can affect your tests, for example not all tools and programming languages are available on all operating systems. This should be taken into account when write commands for your script file (or other sections of the .travis.yml file). Also file system behaviour may differ between OSs. Your tests may implicitly rely on these behaviours, and could fail because of them. They are different operating systems, after all.
 
-
-
-Can test it using multiple versions of python etc by having multiple versions of python specified under languages.
-
-Specifying the language saves you from manually installing it/choosing a docker with it in your install section. It's a shortcut.
-
-Q: if you have more than one language for your code, can you use travis for that?
-
-Yes - best to start with something more simple but you can add a second language too. Do those tricky kinds of things in the script in case you need to run certain files with certain languages.
-In order to get started, add a .travis.yml file to your repository with this example content:
-
+When Travis is running a job it sets the `TRAVIS_OS_NAME` variable which describes the operating system being tested. you can use this to run commands only on specified operating systems like this:
 ```
-language: python
-python:
-  - "2.6"
-  - "2.7"
-  - "3.2"
-  - "3.3"
-# command to install dependencies
-script: python tests/test_all_of_the_units.py
-branches:
-  only:
-    - master
+  - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then command_to_run; fi
 ```
 
-This will get your project tested on all the listed Python versions by running the given script, and will only build the master branch. There are a lot more options you can enable, like notifications, before and after steps, and much more. The Travis-CI docs explain all of these options, and are very thorough.
+It is possible to go further and construct a [build matrix](https://docs.travis-ci.com/user/build-matrix/) to test a the project in a range of computational environments.
 
-## Example Multi OS Build Matrix
+#### Allowing Failures
 
-## Operating System differences
-
-When you test your code on multiple operating systems, be aware of differences
-that can affect your tests:
-
-- Not all tools may be available on macOS.
-
-  We are still working on building up the toolchain on the [macOS Environment](/user/reference/osx/).
-  Missing software may be available via Homebrew.
-
-- Language availability.
-
-  Not all languages are available on all operating systems.
-
-- The file system behaviour is different. Your tests may implicitly rely on these behaviours, and could fail because of them. They are different operating systems, after all.
-
-  Commands may have the same name on the Mac and Linux, but they may have different flags, or the same flag may mean different things. In some cases, commands that do the same thing could have different names.
-
-Here's an example `.travis.yml` file using if/then directives to customize the [build lifecycle](/user/job-lifecycle/) to use [Graphviz](https://graphviz.gitlab.io/) in both Linux and macOS.
-
-```
-language: c
-
-os:
-  - linux
-  - osx
-
-compiler:
-  - gcc
-  - clang
-
-addons:
-  apt:
-    packages:
-      - graphviz
-
-before_install:
-  - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then brew update          ; fi
-  - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then brew install graphviz; fi
-
-script:
-  - cd src
-  - make all
-```
-
-There are many options available and using the `matrix.include` key is essential to include any specific entries. For example, this matrix would route builds to the [Trusty build environment](/user/reference/trusty/) and to a [macOS image using Xcode 7.2](/user/languages/objective-c#supported-xcode-versions):
-
+To ignore the results of jobs on one operating system you can define rows that are allowed to fail in the build matrix by adding an  `allow_failures` section. Allowed failures are items in your build matrix that are allowed to fail without causing the entire build to fail.  For example to allow the build to pass even if the build using the osx operating system you'd add the following to your `.travis.yml`:
 ```
 matrix:
-  include:
-    - os: linux
-      dist: trusty
+  allow_failures:
     - os: osx
-      osx_image: xcode7.2
 ```
----
 
-
-
+This is useful if you ideally want the build to be successful in multiple environments, but not all of them are vital.
 
 ## Limitations of CI
 
-### Continuous integration is only as effective as you are
+CI does have its limitations. Firstly it is only as effective at finding bugs as the test provided to it. If a project contains few or poor tests then it is entirely possible the project will contain bugs the tests do not catch and Travis will report the build as successful.
 
-If your project contains few or poor tests then it is entirely possible the project will contain bugs the tests do not catch and Travis will report the build as successful.
+Secondly, depending on the nature of your project there may be security considerations to think about. Because Travis is only free if projects are open source
 
-    Your CI is only as good as the tests you have!
-
-
-### Security
 
 
     If your tests require authentication credentials, do not run tests from PRs (as PRs can include code that exposes such credentials). Comment by Noam Ross when I asked a question about this practice on one the rOpenSci packages I was editor on:
@@ -384,15 +288,16 @@ Also, the environment defined by the .travis.yml file should reflect the actual 
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
 
 ## What to learn next
-> recommended next chapters that are a good next step up
+
+If you have not already read the testing chapter it is suggested to do so to learn more about the different kinds of tests and their benefits in order to make the most of CI.
 
 ## Further reading
-> top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
-> less relevant/favourite resources in case someone wants to dig into this in detail
 
-* [SSI Build and Test Examples](https://github.com/softwaresaved/build_and_test_examples) for various languages / frameworks
+Travis offers a great deal of functionality not described here for automating other processes related to the testing and deployment of  projects. Look into these, the Travis [documentation](https://docs.travis-ci.com/user/deployment) offers a good starting point for this.
 
-Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). A tutorial focussed on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), tutorials geared towards python can be found [here](https://docs.python-guide.org/scenarios/ci/) and [here](https://docs.travis-ci.com/user/languages/python/)
+A list of example Travis builds and tests for various languages/frameworks is available [here](https://github.com/softwaresaved/build_and_test_examples).
+
+Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). A tutorial focussed on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), tutorials geared towards python can be found [here](https://docs.python-guide.org/scenarios/ci/) and [here](https://docs.travis-ci.com/user/languages/python/).
 
 ## Definitions/glossary
 
@@ -441,7 +346,9 @@ Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). 
 - [Light travis tutorial](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/tutorial.md) **MIT**
 - [CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
 - [Installing dependencies via yaml](https://github.com/travis-ci/docs-travis-ci-com/edit/master/user/installing-dependencies.md) **MIT**
+- [Testing multiple versions of programming languages](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)**
 - [Using Travis with multiple operating systems](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/multi-os.md) **MIT**
+- [Travis docs: customising the build](https://docs.travis-ci.com/user/customizing-the-build/) **MIT**
 
 ## Acknowledgements
 
