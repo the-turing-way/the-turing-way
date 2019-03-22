@@ -180,7 +180,25 @@ before_install:
 <a name="Containers"></a>
 #### Containers
 
-It is possible to use Docker containers (see the reproducible computational environments chapter) to generate the computational environment but pulling and running the image from the .travis.yml file. See [here](https://docs.travis-ci.com/user/docker/) for more information on this.
+It is possible to use Docker containers (see the reproducible computational environments chapter) to generate the computational environment but pulling and running the image from the .travis.yml file. If you are doing so you should pull or generate the image (preferably pull to save Travis from having to build the image from scratch) in the before_install step (see above section). Then in the .travis.yml file's script [see next section](#The_travis_yml_script) you can run a command to run your tests like:
+```
+script:
+  - sudo docker run -t image_name command_to_run
+```
+
+So to use pytest to run tests in python files in a container built from an image called a_demo_image
+```
+script:
+  - sudo docker run -t a_demo_image pytest
+```
+
+If you need to run more than one command in your script then you can include a script file within the container which contains those commands. Then the same process shown above can be used  to run it, e.g.
+```
+script:
+  - sudo docker run -t a_demo_image ./a_script.sh
+```
+
+See [here](https://docs.travis-ci.com/user/docker/) for more information on this.
 
 <a name="The_travis_yml_script"></a>
 ### The .travis.yml script
@@ -253,32 +271,24 @@ This is useful if you ideally want the build to be successful in multiple enviro
 
 CI does have its limitations. Firstly it is only as effective at finding bugs as the test provided to it. If a project contains few or poor tests then it is entirely possible the project will contain bugs the tests do not catch and Travis will report the build as successful.
 
-Secondly, depending on the nature of your project there may be security considerations to think about.
+Secondly, depending on the nature of your project there may be security considerations to think about.     
 
+Travis CI obfuscates secure environment variables and tokens displayed in by the user interface. The [documentation about encryption keys](/user/encryption-keys/) outlines the build configuration required to set this up. However, if secret information is outputted in the course of running a script (for example in an error message) it may be included in Travis's build logs which may be accessible by others. To prevent leaks like this, secure environment variables and tokens that are longer than three characters are automatically filtered at runtime, effectively removing them from the build log, displaying the string `[secure]` instead. Nevertheless you should rotate your tokens and secrets regularly.
 
+There are still however many ways in which secure information can accidentally be exposed. These vary according to what tools you are using and the settings enabled. Some things to look out for are:
 
+- settings which duplicate commands to standard output, such as `set -x` or `set -v` in your bash scripts
+- displaying environment variables, by running `env` or `printenv`
+- printing secrets within the code, for example `echo "$SECRET_KEY"`
+- git commands like `git fetch` or `git push` may expose tokens or other secure environment variables
+- settings which increase command verbosity
 
-    If your tests require authentication credentials, do not run tests from PRs (as PRs can include code that exposes such credentials). Comment by Noam Ross when I asked a question about this practice on one the rOpenSci packages I was editor on:
-    > If your test suite needs credentials, then running all tests on PRs is not great security practice; someone can create a PR that will reveal/do something nasty with your credentials. I think it is best practice to reduce the extent of tests requiring credentials with conditional statements testing for the presence of things like the encrypted environment variables, and use mocking for things like testing processing of returned values.
+Preventing commands from displaying any output is one way to avoid accidentally displaying any secure information. If there is a particular command that is using secure information you can redirect its output to `/dev/null` to make sure it does not accidentally publish anything, as shown in the following example:
+```
+git push url-with-secret >/dev/null 2>&1
+```
 
-    [security](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/best-practices-security.md) **MIT**
-
-    Travis CI obfuscates secure environment variables and tokens displayed in by the user interface. The [documentation about encryption keys](/user/encryption-keys/) outlines the build configuration required to set this up. However, if secret information is outputted in the course of running a script (for example in an error message) it may be included in Travis's build logs which may be accessible by others. To prevent leaks like this, secure environment variables and tokens that are longer than three characters are automatically filtered at runtime, effectively removing them from the build log, displaying the string `[secure]` instead. Nevertheless you should rotate your tokens and secrets regularly.
-
-    There are however many ways in which secure information can accidentally be exposed. These vary according to what tools you are using being used and the settings you enabled. Some things to look out for are:
-
-    - settings which duplicate commands to standard output, such as `set -x` or `set -v` in your bash scripts
-    - displaying environment variables, by running `env` or `printenv`
-    - printing secrets within the code, for example `echo "$SECRET_KEY"`
-    - git commands like `git fetch` or `git push` may expose tokens or other secure environment variables
-    - settings which increase command verbosity
-
-    Preventing commands from displaying any output is one way to avoid accidentally displaying any secure information. If there is a particular command that is using secure information you can redirect its output to `/dev/null` to make sure it does not accidentally publish anything, as shown in the following example:
-
-    ```
-    sh
-    git push url-with-secret >/dev/null 2>&1
-    ```
+If your project is set up such that each time a pull request is made on GitHub Travis tests that pull request there is an additional concern. If your tests require authentication credentials if someone makes a pull request with malicious code to expose them. As such it is a good idea not to allow pull requests to automatically trigger Travis if you have such authentication requirements.
 
 <a name="Best_practise_for_continuous_integration"></a>    
 ## Best practise for continuous integration
@@ -365,12 +375,6 @@ Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). 
 - [The difference between continuous integration, continuous deployment, and continuous delivery](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
 - [Martin Fowler, who first wrote about Continuous Integration (short: CI) together with Kent Beck via CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
 
-
-### Materials used: Best practise for continuous integration
-
-- [Continuous integration, continuous deployment and continuous delivery](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
-- [Netherlands eScience Center guide](https://guide.esciencecenter.nl/best_practices/testing.html) **Creative Commons Attribution 4.0 International**
-
 ### Materials used: What is Travis and how does it work?
 
 - [Info about how Travis works](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**
@@ -383,6 +387,15 @@ Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). 
 - [Testing multiple versions of programming languages](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)**
 - [Using Travis with multiple operating systems](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/multi-os.md) **MIT**
 - [Travis docs: customising the build](https://docs.travis-ci.com/user/customizing-the-build/) **MIT**
+
+### Materials used: Limitations of CI
+
+- [security](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/best-practices-security.md) **MIT**
+
+### Materials used: Best practise for continuous integration
+
+- [Continuous integration, continuous deployment and continuous delivery](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+- [Netherlands eScience Center guide](https://guide.esciencecenter.nl/best_practices/testing.html) **Creative Commons Attribution 4.0 International**
 
 ## Acknowledgements
 
