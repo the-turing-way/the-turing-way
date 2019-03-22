@@ -11,32 +11,49 @@
 
 - [Summary](#Summary)
 - [How this will help you/ why this is useful](#Why_this_is_useful)
-
-
+  - [What are continuous delivery and continuous deployment?](What_are_continuous_delivery_and_continuous_deployment)
+- [What is Travis and how does it work?](What_is_Travis_and_how_does_it_work)
+- [Setting up continuous integration with Travis](Setting_up_continuous_integration_with_Travis)
+  - [Basic steps](#Basic_steps)
+  - [Setting up the computational environment](#Setting_up_the_computational_environment)
+    - [Operating system](#Operating_system)
+    - [Programming language](#Programming_language)
+    - [Compilers](#Compilers)
+    - [Dependencies](#Dependencies)
+    - [Containers](#Containers)
+  - [The .travis.yml script](#The_travis_yml_script)
+  - [After success](#After_success)
+  - [Testing a project against multiple versions of a programming language](#Testing_a_project_against_multiple_versions_of_a_programming_language)
+  - [Testing a project on multiple operating systems](#Testing_a_project_on_multiple_operating_systems)
+    - [Allowing failures](#Allowing_failures)
+- [Limitations of CI](#Limitations_of_CI)
 - [Best practise for continuous integration](#Best_practise_for_continuous_integration)
   - [Small, iterative changes](#Small_iterative_changes)
   - [Trunk-based development](#Trunk_based_development)
   - [Keep the building and testing phases fast](#Keep_the_building_and_testing_phases_fast)
   - [Dependencies tracking](#Dependencies_tracking)
   - [Consistency throughout the pipeline](#Consistency_throughout_the_pipeline)
+- [Checklist](#Checklist)
+- [What to learn next](#What_to_learn_next)
+- [Further reading](#Further_reading)
+- [Definitions/glossary](Definitions_glossary)
+- [Bibliography](#Bibliography)
 
 <a name="Summary"></a>
 ## Summary
-> easy to understand summary - a bit like tl;dr
 
-*Need to say abbreviation = CI near the top*
+Continuous integration (CI) is the practice of integrating changes to a project made by individuals into a main, shared version frequently (usually multiple times per day). CI software is also typically used to identify any conflicts and bugs that been have introduced, so they are found and fixed early, minimizing the effort required to do so. Running tests regularly also saves humans from needing to manually do so. By making users aware of bugs as early as possible researchers (if the project is a research project) do not waste a lot of time doing work that may need to be thrown away, which may be the case if tests are run infrequently and results are produced using faulty code.
 
 <a name="Why_this_is_useful"></a>
 ## How this will help you/ why this is useful
 
-*Very brief, say helps coordinate/runs tests* Just a few bullet points
+CI has a number of key benefits:
 
-- Encourages the writing of tests
-- If you include tests then you don't need to remember to run them, it's done automatically each time
-
-
-Using CI is important to:
-- Find out if there are problems early on.
+- Helps bugs to be found early, minimizing their damage and making them easier to fix
+- Keeps project contributors up to date with each other's work so they can benefit from it as soon as possible
+- Encourages users to write tests
+- Automates running of tests, saving time
+- Ensures tests are run frequently
 
 <a name="What_is_continuous_integration"></a>
 ## What is continuous integration?
@@ -56,6 +73,7 @@ Integrating code frequently does not, by itself, offer any guarantees about the 
 
 By ensuring that your code is built and tested regularly CI helps researchers to demonstrate that their code does what it claims to do, and that it does so correctly. Typically, continuous integration servers will also allow build-and-test jobs to run at specific times, so a CRON-like, nightly-build-and-test, can be done, as well as a build-and-test job run on-demand.
 
+<a name="What_are_continuous_delivery_and_continuous_deployment"></a>
 ### What are continuous delivery and continuous deployment?
 
 Technically speaking the above explanation conflates three related concepts, continuous integration, continuous deployment, and continuous delivery. In reality:
@@ -66,11 +84,12 @@ Technically speaking the above explanation conflates three related concepts, con
 
 In this chapter this entire process is referred to as continuous integration for the sake of simplicity.
 
+<a name="What_is_Travis_and_how_does_it_work"></a>
 ## What is Travis and how does it work?
 
 There are a number of CI tools available, such Circle (tutorials [here](https://circleci.com/docs/2.0/project-walkthrough/) and [here]([CircleCI Hello World.](https://circleci.com/docs/2.0/hello-world/)). A list of other CI tools can be found [here](https://www.software.ac.uk/resources/guides/hosted-continuous-integration). In this chapter we will focus on [Travis](https://travis-ci.org/) because it's free (if your code is openly available), widely used, and well integrated with the version control platform [GitHub](https://github.com/).
 
-To use Travis you will need to add a file to your project called `.travis.yml` which describes the computational environment to run the project in, and includes a script to run your tests. See the chapter on reproducible computational environments for more information on them, including writing `.yml` files to specify them. See the chapter on testing for information on writing and automating tests. The .travis.yml has a number of other capabilities, which will be described [later] *liiiiiiiiiiiiiiiiiiiiiink* along with more detailed instructions for writing these files.
+To use Travis you will need to add a file to your project called `.travis.yml` which describes the computational environment to run the project in, and includes a script to run your tests. See the chapter on reproducible computational environments for more information on them, including writing `.yml` files to specify them. See the chapter on testing for information on writing and automating tests. The .travis.yml has a number of other capabilities, which will be described [later](#Setting_up_continuous_integration_with_Travis) along with more detailed instructions for writing these files.
 
 Once Travis has been set up on a project then each time a commit is made it:
 
@@ -87,8 +106,10 @@ You can use Travis to test your project in multiple computational environments m
 - Job - an automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code, running tests, etc. A job fails if the return code of the script encounters an error.
 - Build - a group of jobs. For example, a build might have two *jobs*, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
 
+<a name="Setting_up_continuous_integration_with_Travis"></a>
 ## Setting up continuous integration with Travis
 
+<a name="Basic_steps"></a>
 ### Basic steps
 
 - Write a `.travis.yml` file and add it to your project.
@@ -101,11 +122,12 @@ You can use Travis to test your project in multiple computational environments m
 
 It's that simple. The rest of this section will describe the different components of the .travis.yml file and how to write them.
 
-<a name="The_travis_yml_file"></a>
+<a name="Setting_up_the_computational_environment"></a>
 ### Setting up the computational environment
 
 This page on [Common Builds Problems](/user/common-build-problems/) is a good place to start troubleshooting if your build is broken.
 
+<a name="Operating_system"></a>
 #### Operating system
 
 Travis CI works with a few different operating systems. In the .travis.yml  file define the operating system to run a project on via the os keyword like:
@@ -123,8 +145,9 @@ or
 os: windows
 ```
 
-It is possible to build and test a project on multiple operating systems. This will be not be discussed here as this presents and extra level of complexity and will not be needed in most cases for research, but it is discussed later *aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadddddddd link*.
+It is possible to build and test a project on multiple operating systems and against multiple versions of a programming language. This will be not be discussed here as this presents and extra level of complexity and will not be needed in most cases for research, but it is discussed [later](#Testing_a_project_against_multiple_versions_of_a_programming_language).
 
+<a name="Programming_language"></a>
 #### Programming language
 
 Specify the programming language to run your project with using the language keyword, and specify which version of the language to use. So for python2.7 this would look like:
@@ -135,6 +158,7 @@ python:
 ```
 Further information on the programming languages that are compatible with Travis can be found [here](https://docs.travis-ci.com/user/languages/)
 
+<a name="Compilers"></a>
 #### Compilers
 
 If a compiled language is being used which compiler to use can be specified with the compiler keyword:
@@ -142,7 +166,7 @@ If a compiled language is being used which compiler to use can be specified with
 compiler:
   - gcc
 ```
-
+<a name="Dependencies"></a>
 #### Dependencies
 
 Not all languages/software are available on all operating systems however they can typically be installed within the .travis.yml file.
@@ -153,11 +177,12 @@ To install Ubuntu packages that are not included in the standard version of the 
 before_install:
   - sudo apt-get install -y libxml2-dev
 ```
-
+<a name="Containers"></a>
 #### Containers
 
 It is possible to use Docker containers (see the reproducible computational environments chapter) to generate the computational environment but pulling and running the image from the .travis.yml file. See [here](https://docs.travis-ci.com/user/docker/) for more information on this.
 
+<a name="The_travis_yml_script"></a>
 ### The .travis.yml script
 
 Travis will report that the build has failed if any commands in the script section return an error. Technically any commands can be included in the scrpt, but it is mainly used for running tests. A script does not need to be long or complicated, as demonstrated by this example which uses the pytest command to run tests in python scripts:
@@ -173,13 +198,15 @@ If there are steps that need to be done before a project to be considered to be 
 
 If for any reason this cannot be done an error will be returned and the build will be marked as having failed.
 
+<a name="After_success"></a>
 ### After success
 
 The after success section is much like the script section in that it contains commands to run on the project. The key difference if that the build will not fail if steps in the after success section return errors.
 
 The after success section is run after the script, and can be used to automate steps that need to be taken once a build has passed all the tests. Examples of things that can be automated include automatically merging the new version of the project to the master branch in GitHub. Another example is for the code coverage (see testing chapter) to be automatically measured and reported.
 
-### Testing a project with multiple versions of a programming language
+<a name="Testing_a_project_against_multiple_versions_of_a_programming_language"></a>  
+### Testing a project against multiple versions of a programming language
 
 When a project is expected to be run on systems with different versions of a programming language you can set Travis to run the tests on each of these versions, for example to test on a variety of versions of python:
 ```
@@ -190,8 +217,8 @@ python:
   - "3.2"
   - "3.3"
 ```
-
-### Testing your project on multiple operating systems
+<a name="Testing_a_project_on_multiple_operating_systems"></a>
+### Testing a project on multiple operating systems
 
 If your code is used on multiple operating systems it should be tested on multiple operating systems. To enable testing on multiple operating systems add multiple entries under the `os` key in your `.travis.yml` file, e.g.:
 ```
@@ -209,7 +236,8 @@ When Travis is running a job it sets the `TRAVIS_OS_NAME` variable which describ
 
 It is possible to go further and construct a [build matrix](https://docs.travis-ci.com/user/build-matrix/) to test a the project in a range of computational environments.
 
-#### Allowing Failures
+<a name="Allowing_failures"></a>
+#### Allowing failures
 
 To ignore the results of jobs on one operating system you can define rows that are allowed to fail in the build matrix by adding an  `allow_failures` section. Allowed failures are items in your build matrix that are allowed to fail without causing the entire build to fail.  For example to allow the build to pass even if the build using the osx operating system you'd add the following to your `.travis.yml`:
 ```
@@ -220,11 +248,13 @@ matrix:
 
 This is useful if you ideally want the build to be successful in multiple environments, but not all of them are vital.
 
+<a name="Limitations_of_CI"></a>
 ## Limitations of CI
 
 CI does have its limitations. Firstly it is only as effective at finding bugs as the test provided to it. If a project contains few or poor tests then it is entirely possible the project will contain bugs the tests do not catch and Travis will report the build as successful.
 
-Secondly, depending on the nature of your project there may be security considerations to think about. Because Travis is only free if projects are open source
+Secondly, depending on the nature of your project there may be security considerations to think about.
+
 
 
 
@@ -284,13 +314,16 @@ A project should be built once at the beginning of the pipeline, the resulting s
 
 Also, the environment defined by the .travis.yml file should reflect the actual environment the code is run in. If that environment is modified don't forget to update the .travis.yml file, otherwise the results Travis returns will not be trustworthy.
 
+<a name="Checklist"></a>
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
 
+<a name="What_to_learn_next"></a>
 ## What to learn next
 
 If you have not already read the testing chapter it is suggested to do so to learn more about the different kinds of tests and their benefits in order to make the most of CI.
 
+<a name="Further_reading"></a>
 ## Further reading
 
 Travis offers a great deal of functionality not described here for automating other processes related to the testing and deployment of  projects. Look into these, the Travis [documentation](https://docs.travis-ci.com/user/deployment) offers a good starting point for this.
@@ -299,6 +332,7 @@ A list of example Travis builds and tests for various languages/frameworks is av
 
 Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). A tutorial focussed on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), tutorials geared towards python can be found [here](https://docs.python-guide.org/scenarios/ci/) and [here](https://docs.travis-ci.com/user/languages/python/).
 
+<a name="Definitions_glossary"></a>
 ## Definitions/glossary
 
 **:**
@@ -321,7 +355,7 @@ Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). 
 
 **:**
 
-
+<a name="Bibliography"></a>
 ## Bibliography
 
 ### Materials used: What is continuous integration?
