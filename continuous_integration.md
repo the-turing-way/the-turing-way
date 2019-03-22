@@ -135,18 +135,16 @@ Further information on the programming languages that are compatible with Travis
 
 #### Dependencies
 
-
-[Installing dependencies via yaml](https://github.com/travis-ci/docs-travis-ci-com/edit/master/user/installing-dependencies.md) **MIT**
-
 Not all languages/software are available on all operating systems however they can typically be installed within the .travis.yml file.
 
-To install Ubuntu packages that are not included in the standard [precise](/user/reference/precise/), [trusty](/user/reference/trusty/), or [xenial](/user/reference/xenial/) distributions, use apt-get in the `before_install` step of your `.travis.yml`:
+To install Ubuntu packages that are not included in the standard version of the operating system specified you can include a `before_install` step in your `.travis.yml` along with the necessary code to install it, e.g.:
 
 ```
 before_install:
   - sudo apt-get install -y libxml2-dev
 ```
----
+
+#### Containers
 
 
 
@@ -478,6 +476,8 @@ Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). 
 
 - [Light travis tutorial](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/tutorial.md) **MIT**
 - [CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
+- [Installing dependencies via yaml](https://github.com/travis-ci/docs-travis-ci-com/edit/master/user/installing-dependencies.md) **MIT**
+
 ## Acknowledgements
 
 Thanks to David Jones of the University of Sheffield RSE group for useful discussions.
