@@ -98,8 +98,21 @@ Once Travis has been set up on a project then each time a commit is made it:
 - Builds the project within that environment
 - Runs the tests by following the script specified in the .travis.yml file
 - Reports the results
-  - Travis will attach a badge to the results, green if all steps in the script (which run the tests) pass, red if not. The badge will be yellow whilst the tests are still running. If Travis is unable to generate the computational environment described in the .travis.yml file then it will not proceed futher and the badge will be grey.
+  - Travis will output the results of every step of building the environment and running the script as a log viewable in your account on the [Travis site](https://travis-ci.org/) (the grey box in the figure below).
+  - Travis will attach a badge to the results, green if all steps in the script (which run the tests) pass, red if not. The badge will be yellow whilst the tests are still running. If Travis is unable to generate the computational environment described in the .travis.yml file then it will not proceed further and the badge will be grey. See the figure below which shows the passing build badge in the readme of a GitHub repository.
   - Travis will also report the results via email (notification settings can be adjusted).
+
+Here's what the Travis dashboard of a repository looks like:
+
+![Travis_dashboard](../figures/Travis_dashboard.png)
+
+Everything's green because the build is passing. Note the "build passing" badge at the top. If you click that you will get a popup with a dropdown menu where you can select a way of copying the badge. If you select "markdown" and copy and paste the code snippet it outputs into a markdown file in the project GitHub will display the badge in that file:
+
+![Travis_badge_working](../figures/Travis_badge_working.png)
+
+If I deliberately create a bug and commit it then Travis automatically runs, the tests fail, and this badge automatically updates to "build failing":
+
+![Travis_badge_failed](../figures/Travis_badge_failed.png)
 
 You can use Travis to test your project in multiple computational environments my specifying them in the .travis.yml file. A quick note on Travis vocabulary:
 
@@ -146,6 +159,8 @@ os: windows
 ```
 
 It is possible to build and test a project on multiple operating systems and against multiple versions of a programming language. This will be not be discussed here as this presents and extra level of complexity and will not be needed in most cases for research, but it is discussed [later](#Testing_a_project_against_multiple_versions_of_a_programming_language).
+
+The distribution of and operating system to use can be defined using `dist`:
 
 <a name="Programming_language"></a>
 #### Programming language
@@ -222,6 +237,21 @@ If for any reason this cannot be done an error will be returned and the build wi
 The after success section is much like the script section in that it contains commands to run on the project. The key difference if that the build will not fail if steps in the after success section return errors.
 
 The after success section is run after the script, and can be used to automate steps that need to be taken once a build has passed all the tests. Examples of things that can be automated include automatically merging the new version of the project to the master branch in GitHub. Another example is for the code coverage (see testing chapter) to be automatically measured and reported.
+```
+language: python
+python:
+  - "2.7"
+
+before_install:
+  - pip install coverage
+
+script:
+  - pytest
+
+after_success:
+  - coverage run main.py
+  - coverage report
+```
 
 <a name="Testing_a_project_against_multiple_versions_of_a_programming_language"></a>  
 ### Testing a project against multiple versions of a programming language
