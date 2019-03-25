@@ -394,25 +394,17 @@ Travis's official tutorial is [here](https://docs.travis-ci.com/user/tutorial/).
 <a name="Definitions_glossary"></a>
 ## Definitions/glossary
 
-**:**
-
 **Build:** A group of jobs. For example, a build might have two jobs, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
 
-**Continuous integration:**
+**Computational environment:** The environment where a project is run, including the operating system, the software installed on it, and the versions of both.
 
-**GitHub:** A widely used version control platform
+**Continuous integration:** The process of regularly combining the work of project members into a centralised version. Also called CI. CI software typically runs tests on the integrated version of a project to identify conflicts and bugs introduced by the integration.
+
+**GitHub:** A widely used version control platform.
 
 **Job:** An automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code, running tests, etc. A job fails if the return code of the script encounters an error.
 
-**:**
-
 **Travis:** A commonly used continuous integration platform.
-
-**:**
-
-**:**
-
-**:**
 
 <a name="Bibliography"></a>
 ## Bibliography
@@ -420,9 +412,9 @@ Travis's official tutorial is [here](https://docs.travis-ci.com/user/tutorial/).
 ### Materials used: What is continuous integration?
 
 - [What is CI](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**
-- [SSI blog](https://software.ac.uk/using-continuous-integration-build-and-test-your-software?_ga=2.231776223.1391442519.1547641475-1644026160.1541158284)
+- [SSI blog](https://software.ac.uk/using-continuous-integration-build-and-test-your-software?_ga=2.231776223.1391442519.1547641475-1644026160.1541158284) **Creative Commons Attribution Non-Commercial 2.5 License**
 - [The difference between continuous integration, continuous deployment, and continuous delivery](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
-- [Martin Fowler, who first wrote about Continuous Integration (short: CI) together with Kent Beck via CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
+- [CI with python](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**
 
 ### Materials used: What is Travis and how does it work?
 
@@ -439,7 +431,7 @@ Travis's official tutorial is [here](https://docs.travis-ci.com/user/tutorial/).
 
 ### Materials used: Limitations of CI
 
-- [security](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/best-practices-security.md) **MIT**
+- [Security with Travis](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/best-practices-security.md) **MIT**
 
 ### Materials used: Best practise for continuous integration
 
