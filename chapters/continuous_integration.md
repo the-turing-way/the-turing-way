@@ -94,26 +94,26 @@ To use Travis you will need to add a file to your project called `.travis.yml` w
 
 Once Travis has been set up on a project then each time a commit is made it:
 
-- Clones a copy of the project
+- Clones a copy of  project
 - Generates a copy of the computational environment specified in the .travis.yml file in a brand new virtual environment
 - Builds the project within that environment
 - Runs the tests by following the script specified in the .travis.yml file
 - Reports the results
   - Travis will output the results of every step of building the environment and running the script as a log viewable in your account on the [Travis site](https://travis-ci.org/) (the grey box in the figure below).
-  - Travis will attach a badge to the results, green if all steps in the script (which run the tests) pass, red if not. The badge will be yellow whilst the tests are still running. If Travis is unable to generate the computational environment described in the .travis.yml file then it will not proceed further and the badge will be grey. See the figure below which shows the passing build badge in the readme of a GitHub repository.
+  - Travis will attach a badge to the results, green if all steps in the script (which run the tests) pass, red if not. The badge will be yellow whilst Travis is still running. If Travis is unable to generate the computational environment described in the .travis.yml file then it will not proceed further and the badge will be grey. See the figure below which shows the passing build badge in the readme of a GitHub repository.
   - Travis will also report the results via email (notification settings can be adjusted).
 
 Here's what the Travis dashboard of a repository looks like:
 
-![Travis_dashboard](../figures/Travis_dashboard.png)
+![Travis_build](../figures/Travis_build.png)
 
 Everything's green because the build is passing. Note the "build passing" badge at the top. If you click that you will get a popup with a dropdown menu where you can select a way of copying the badge. If you select "markdown" and copy and paste the code snippet it outputs into a markdown file in the project GitHub will display the badge in that file:
 
-![Travis_badge_working](../figures/Travis_badge_working.png)
+![Travis_badge_pass](../figures/Travis_badge_pass.png)
 
 If I deliberately create a bug and commit it then Travis automatically runs, the tests fail, and this badge automatically updates to "build failing":
 
-![Travis_badge_failed](../figures/Travis_badge_failed.png)
+![Travis_badge_fail](../figures/Travis_badge_fail.png)
 
 You can use Travis to test your project in multiple computational environments my specifying them in the .travis.yml file. A quick note on Travis vocabulary:
 
