@@ -192,22 +192,36 @@ def my_function()
   c = a + b
 ```
 
-If you set the random number seed you will always get the same value of `c`, so it can be tested. But, say the model is changed and the function that calculates `a` uses a different number of random numbers that it did previously. Now not only will `a` be different but `b` will be too, because as shown above the random numbers outputted given a random number seed are in a fixed order. As a result the random numbers produced to calculate `b` will have changed. This can lead to tests failing when there is in fact no bug. 
+If you set the random number seed you will always get the same value of `c`, so it can be tested. But, say the model is changed and the function that calculates `a` uses a different number of random numbers that it did previously. Now not only will `a` be different but `b` will be too, because as shown above the random numbers outputted given a random number seed are in a fixed order. As a result the random numbers produced to calculate `b` will have changed. This can lead to tests failing when there is in fact no bug.
 
 #### Measure the distribution of results
 
-Another way to test code with a random output is to run it many times and test the distribution of the results.
+Another way to test code with a random output is to run it many times and test the distribution of the results. Perhaps the result may fluctuate a little, but is always expected around 10 within some tolerance. That can be tested. The more times the code is run the more reliable the average and so the result. However the more times you run a piece of code the longer it will take your tests to run, which may make tests prohibitively time-consuming to run if a reliable result is to be obtained. Furthermore there will always be an element of uncertainty and if the random numbers happen to fall in a certain way you may happen to get result outside of the expected tolerance even if the code is correct.
 
-[Stochastic tests](https://docs.karrlab.org/intro_to_wc_modeling/master/0.0.1/concepts_skills/software_engineering/testing_python.html) **MIT**
+Both of these approaches to testing stochastic code can still be very useful, but it is important to also be aware of potential pitfalls.
 
-Stochastic codes should be validated by testing the statistical distribution of their output. Typically this is done with the following process
+### Tests that are difficult to quantify
 
-Run the code many times and keep a list of the outputs
-Run a statistical test of the distribution of the outputs. At a minimum test the average of the distribution is close to the expected value. If possible, also test the variance of the distribution and higher-order moments of the distribution.
+Sometimes (particularly in research) the outputs of code are tested according to whether they "look" right. For example say we have a code modelling the water levels in a reservoir over time. The result may look like this:
 
+![eyeball_test_1](../figures/eyeball_test_1.jpg)
 
+On a day with rain it might look like this:
 
-  - *if an element of randomness use random number seed or similar*
+![eyeball_test_2](../figures/eyeball_test_2.jpg)
+
+and on a dry day it might look like this:
+
+![eyeball_test_3](../figures/eyeball_test_3.jpg)
+
+All of these outputs are valid, but if a researcher sees a result like this:
+
+![eyeball_test_error](../figures/eyeball_test_error.jpg)
+
+they could easily conclude there is a bug as a lake is unlikely to triple it's volume by a factor of 3 and then lose it again in the space of a few hours.
+
+Nevertheless in cases like these tests with basic "sanity checks" can be included for example the water level at one time should be within, say, 10% of the water level at the previous time step. Another check could be that there are no negative values, as a lake can't be =-30% full.
+
   - *Can at least do sanity checks on tests that are whether something "looks right"*
   - *Code review to test code quality*
   - *careful of equalities*
