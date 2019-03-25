@@ -90,11 +90,11 @@ In this chapter this entire process is referred to as continuous integration for
 
 There are a number of CI tools available, such Circle (tutorials [here](https://circleci.com/docs/2.0/project-walkthrough/) and [here](https://circleci.com/docs/2.0/hello-world/)). A list of other CI tools can be found [here](https://www.software.ac.uk/resources/guides/hosted-continuous-integration). In this chapter we will focus on [Travis](https://travis-ci.org/) because it's free (if your code is openly available), widely used, and well integrated with the version control platform [GitHub](https://github.com/).
 
-To use Travis you will need to add a file to your project called `.travis.yml` which describes the computational environment to run the project in, and includes a script to run your tests. See the chapter on reproducible computational environments for more information on them, including writing `.yml` files to specify them. See the chapter on testing for information on writing and automating tests. The .travis.yml has a number of other capabilities, which will be described [later](#Setting_up_continuous_integration_with_Travis) along with more detailed instructions for writing these files.
+To use Travis you will need to add a file to your project called `.travis.yml` which describes the computational environment to run the project in, and includes a script to run your tests. See the chapter on reproducible computational environments for more information on them, including writing `.yml` files to specify them. See the chapter on testing for information on writing and automating tests. The .travis.yml file has a number of other capabilities, which will be described [later](#After_success) along with more [detailed instructions](#Setting_up_the_computational_environment) for writing these files.
 
 Once Travis has been set up on a project then each time a commit is made it:
 
-- Clones a copy of your project
+- Clones a copy of the project
 - Generates a copy of the computational environment specified in the .travis.yml file in a brand new virtual environment
 - Builds the project within that environment
 - Runs the tests by following the script specified in the .travis.yml file
