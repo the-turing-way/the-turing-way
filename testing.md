@@ -218,12 +218,17 @@ All of these outputs are valid, but if a researcher sees a result like this:
 
 ![eyeball_test_error](../figures/eyeball_test_error.jpg)
 
-they could easily conclude there is a bug as a lake is unlikely to triple it's volume by a factor of 3 and then lose it again in the space of a few hours.
+they could easily conclude there is a bug as a lake is unlikely to triple it's volume and then lose it again in the space of a few hours. "Eyeballing" tests like these are time consuming as they must be done by a human. However the process can be partially or fully automated by creating basic "sanity checks". For example the water level at one time should be within, say, 10% of the water level at the previous time step. Another check could be that there are no negative values, as a lake can't be -30% full. These sort of tests can't cover every way something can go wrong, but they are much easier to automate and will suffice for most cases.
 
-Nevertheless in cases like these tests with basic "sanity checks" can be included for example the water level at one time should be within, say, 10% of the water level at the previous time step. Another check could be that there are no negative values, as a lake can't be =-30% full.
+### Code review
 
-  - *Can at least do sanity checks on tests that are whether something "looks right"*
-  - *Code review to test code quality*
+Code review is a way of testing code quality. In a programmer sits down and looks at and reviews another's code. The goal is to point out strengths and also potential areas of improvement. Code review is often done in pairs, with each reviewer also having code reviewed by the other. Doing this can help programmers see and discuss issues, alternative approaches to tasks, and learn tips and tricks.
+
+Because of their nature code reviews act a qualitative rather than quantitive tests, but are no less valuable for that.
+
+
+
+
   - *careful of equalities*
 
 
