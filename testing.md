@@ -2,7 +2,7 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
-| Experience with the command line | Necessary |  |
+| Experience with the command line | Necessary | A tutorial on working via the command line can be found [here](https://programminghistorian.org/en/lessons/intro-to-bash) |
 
 
 ## Summary
@@ -72,9 +72,7 @@ Some tests, like [unit tests](#Unit_tests) only test a small piece of code and s
 
 ### Document the tests and how to run them
 
-*blog to look at https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806*
-
-  It is important to provide documentation that describes how to run the tests, both for yourself in case you come back to a project in the future, and for anyone else that may wish to build upon or peproduce your work. This documentation should also cover subjects such as
+It is important to provide documentation that describes how to run the tests, both for yourself in case you come back to a project in the future, and for anyone else that may wish to build upon or reproduce your work. This documentation should also cover subjects such as
 
 - Any resources e.g. test dataset files that are required
 - Any configuration/settings adjustments needed to run the tests
@@ -123,18 +121,100 @@ As [mentioned](#Write_tests_any_tests) any tests are an improvement over no test
 
 Most programming languages have tools either built into them, or that can be imported, or as part of testing frameworks, which automatically measure code coverage. There's also a nice little [bot](https://codecov.io/) for measuring code coverage available too.
 
+### Use test doubles where appropriate
 
 
 
-  - *Aim to have a good code coverage. Something's better than nothing*
-  - *Defensive programming (e.g. test inputs are the right type, not applicable in static type languages, sanity checks.)*
-  - *Use mocking where appropriate*
+If a test fails it should be constructed such that is as easy to trace the source of the failure as possible.. This become problematic if a piece of code you want to test unavoidably depends on other things. For example if a test for a piece of code that interacts with the web fails that could be because the code has a bug *or* there is a problem with the internet connection. Similarly a test for a piece of code that uses an object fails it could be because there is a bug in the code being tested, or a problem with the object (which should be tested by its own, separate tests). These dependencies should be eliminated from tests, if possible. This can be done via using test replacements (test doubles) for the real dependencies. Test doubles can be classified like the following:
+
+- A dummy object is passed around but never used, i.e., its methods are never called. Such an object can for example be used to fill the parameter list of a method.
+- Fake objects have working implementations, but are usually simplified. For example, they use an in memory database and not a real database.
+- A stub class is an partial implementation for an interface or class with the purpose of using an instance of this stub class during testing. Stubs usually don’t respond to anything outside what’s programmed in for the test. Stubs may also record information about calls.
+- A mock object is a dummy implementation for an interface or a class in which you define the output of certain method calls. Mock objects are configured to perform a certain behaviour during a test. They typically record the interaction with the system and tests can validate that.
+
+Test doubles can be passed to other objects which are tested.
+
+You can create mock objects manually (via code) or use a mock framework to simulate these classes. Mock frameworks allow you to create mock objects at runtime and define their behaviour. The classical example for a mock object is a data provider. In production an implementation to connect to the real data source is used. But for testing a mock object simulates the data source and ensures that the test conditions are always the same.
+
+### Testing stochastic code
+
+Sometimes code contains an element of randomness, a common example being code that makes use of [Monte Carlo methods](https://en.wikipedia.org/wiki/Monte_Carlo_method). Testing this kind of code can be very difficult because if it is run multiple times it will generate different answers, all of which may be "right", even is it contains no bugs. There are two main ways to tackle testing stochastic code:
+
+#### Use random number seeds
+
+Random number seeds are a little difficult to explain so here's an example. Here's a little python script that prints three random numbers.
+```
+import random
+
+# Print three random numbers
+print(random.random())
+print(random.random())
+print(random.random())
+```
+
+If you run this script you get different answers each time. Now lets set a random number seed.
+```
+import random
+
+# Set a random number seed
+random.seed(1)
+
+# Print three random numbers
+print(random.random())
+print(random.random())
+print(random.random())
+```
+
+Now if you run this script it outputs
+```
+0.134364244112
+0.847433736937
+0.763774618977
+```
+
+and every time you run this script you will get the *same* output, it will print the *same* three random numbers. If the random number seed is changed you will get a different three random numbers:
+
+```
+0.956034271889
+0.947827487059
+0.0565513677268
+```
+but again you will get those same numbers every time the script is run in the future.
+
+Random number seeds are a way of making things reliably random. However a risk with tests that depend on random number seeds is they can be brittle. Say you have a function structured something like this:
+```
+def my_function()
+
+  a = calculation_that_uses_two_random_numbers()
+
+  b = calculation_that_uses_five_random_numbers()
+
+  c = a + b
+```
+
+If you set the random number seed you will always get the same value of `c`, so it can be tested. But, say the model is changed and the function that calculates `a` uses a different number of random numbers that it did previously. Now not only will `a` be different but `b` will be too, because as shown above the random numbers outputted given a random number seed are in a fixed order. As a result the random numbers produced to calculate `b` will have changed. This can lead to tests failing when there is in fact no bug. 
+
+#### Measure the distribution of results
+
+Another way to test code with a random output is to run it many times and test the distribution of the results.
+
+[Stochastic tests](https://docs.karrlab.org/intro_to_wc_modeling/master/0.0.1/concepts_skills/software_engineering/testing_python.html) **MIT**
+
+Stochastic codes should be validated by testing the statistical distribution of their output. Typically this is done with the following process
+
+Run the code many times and keep a list of the outputs
+Run a statistical test of the distribution of the outputs. At a minimum test the average of the distribution is close to the expected value. If possible, also test the variance of the distribution and higher-order moments of the distribution.
+
+
+
   - *if an element of randomness use random number seed or similar*
   - *Can at least do sanity checks on tests that are whether something "looks right"*
   - *Code review to test code quality*
   - *careful of equalities*
 
 
+
+  *blog to look at https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806*
 
 
 
@@ -145,16 +225,7 @@ Most programming languages have tools either built into them, or that can be imp
     ---
 
 
-[turing testing course mocks](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/05Mocks.html) **Creative Commons share and remix**
 
-    #### mocking
-    Often we want to write tests for code which interacts with remote resources. (E.g. databases, the internet, or data files.)
-
-    We don't want to have our tests actually interact with the remote resource, as this would mean our tests failed due to lost internet connections, for example.
-
-    Instead, we can use mocks to assert that our code does the right thing in terms of the messages it sends: the parameters of the function calls it makes to the remote resource.
-
-    Can be difficult to test cases like
 
 ---
     - Make a plot and visually inspect it
@@ -532,6 +603,46 @@ Most importantly, regression tests do not test if the result outputted by a piec
 
 ## Runtime testing
 
+[Talk by Chrys Woods](https://drive.google.com/file/d/1CBTAhCVixccui1DjeUT13qh6ga5SDXjl/view) [**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**](https://chryswoods.com/main/copyright.html)
+
+Functions that contain internal checks that their inputs and outputs are valid.
+```
+function add_arrays( array1, array2 ):
+
+  // test that the arrays have the same size
+  if (array1.size() != array2.size()):
+    error( ”The arrays have different sizes!” )
+
+  output = array1 + array2
+
+  if (output.size() != array1.size()):
+    error( ”The output array has the wrong size!” )
+
+  return output
+```
+
+```
+function add_molecule(new_molecule):
+
+  total_mass = total_mass + new_molecule.mass()
+
+  // test that the total mass is positive
+  if (total_mass < 0):
+    error( ”The total mass can never be negative” )
+```
+
+
+*assert statement e.g. speed of light*
+**Advantages**
+
+- Always running with the program, so can catch problems caused by logic errors or edge cases
+- Catches a problem early, making it easier to find the cause of the bug
+- Catches a problem before it escalates into a catastrophic failure – (minimise the blast radius)
+
+**Disadvantages**
+
+- Tests can slow down the program, although today this slowdown is virtually undetectable (and tests can be written “higher” than performance critical code, or can execute only for a percentage of loop iterations)
+- What is the right thing to do if an error is detected? How should this error be reported? (answer = exceptions)
 
 ## Test driven development
 
@@ -565,7 +676,7 @@ Try reading the chapter on reproducible computational environments and then the 
 
 - **:**
 
-- **:**
+- **Mocking:** Replace a real object with a pretend one to run tests upon.
 
 - **:**
 
@@ -582,6 +693,7 @@ Try reading the chapter on reproducible computational environments and then the 
 
 - [SSI blog on testing software](https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806) **Creative Commons Attribution Non-Commercial 2.5 License.**
 - [Turing testing course basics](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/03pytest.html) **Creative Commons share and remix**
+- [Mocking](https://www.vogella.com/tutorials/Mockito/article.html)**Attribution-NonCommercial-ShareAlike 3.0 Germany (CC BY-NC-SA 3.0 DE)**
 
 ### Materials used: integration testing
 
