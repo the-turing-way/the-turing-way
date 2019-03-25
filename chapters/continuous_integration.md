@@ -11,9 +11,9 @@
 
 - [Summary](#Summary)
 - [How this will help you/ why this is useful](#Why_this_is_useful)
-  - [What are continuous delivery and continuous deployment?](What_are_continuous_delivery_and_continuous_deployment)
-- [What is Travis and how does it work?](What_is_Travis_and_how_does_it_work)
-- [Setting up continuous integration with Travis](Setting_up_continuous_integration_with_Travis)
+  - [What are continuous delivery and continuous deployment?](#What_are_continuous_delivery_and_continuous_deployment)
+- [What is Travis and how does it work?](#What_is_Travis_and_how_does_it_work)
+- [Setting up continuous integration with Travis](#Setting_up_continuous_integration_with_Travis)
   - [Basic steps](#Basic_steps)
   - [Setting up the computational environment](#Setting_up_the_computational_environment)
     - [Operating system](#Operating_system)
