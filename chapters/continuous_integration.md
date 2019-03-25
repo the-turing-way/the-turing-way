@@ -99,15 +99,15 @@ Once Travis has been set up on a project then each time a commit is made it:
 - Builds the project within that environment
 - Runs the tests by following the script specified in the .travis.yml file
 - Reports the results
-  - Travis will output the results of every step of building the environment and running the script as a log viewable in your account on the [Travis site](https://travis-ci.org/) (the grey box in the figure below).
-  - Travis will attach a badge to the results, green if all steps in the script (which run the tests) pass, red if not. The badge will be yellow whilst Travis is still running. If Travis is unable to generate the computational environment described in the .travis.yml file then it will not proceed further and the badge will be grey. See the figure below which shows the passing build badge in the readme of a GitHub repository.
+  - Travis will output the results of every step of building the environment and running the script as a log viewable in your account on the [Travis site](https://travis-ci.org/) (the dark grey box in the figure below).
+  - Travis will attach a badge to the results, green if all steps in the script (which run the tests) pass, red if not. The badge will be yellow whilst Travis is still running. If Travis is unable to generate the computational environment described in the .travis.yml file then it will not proceed further and the badge will be grey. See the figures below which show the passing build badge and failing build badge in the readme of a GitHub repository.
   - Travis will also report the results via email (notification settings can be adjusted).
 
 Here's what the Travis dashboard of a repository looks like:
 
 ![Travis_build](../figures/Travis_build.png)
 
-Everything's green because the build is passing. Note the "build passing" badge at the top. If you click that you will get a popup with a dropdown menu where you can select a way of copying the badge. If you select "markdown" and copy and paste the code snippet it outputs into a markdown file in the project GitHub will display the badge in that file:
+Everything's green because the build is passing. Note the "build passing" badge at the top. If you click that you will get a popup with a dropdown menu where you can select a way of copying the badge. If you select "markdown" and copy and paste the code snippet it outputs into a markdown file in the project, then GitHub will display the badge in that file:
 
 ![Travis_badge_pass](../figures/Travis_badge_pass.png)
 
@@ -131,7 +131,7 @@ You can use Travis to test your project in multiple computational environments m
 - Go to [Travis-ci.com](https://travis-ci.com) and [Sign up with GitHub](https://travis-ci.com/signin).
 - Accept the Authorization of Travis CI. You'll be redirected to GitHub.
 - You will see a list of your GitHub repositories with buttons next to them. Click the button next to your project repository to activate Travis on it.
-- Check the build status page to see if your build [passes or fails](/user/job-lifecycle/#breaking-the-build), according to the return status of the build command by visiting the [Travis CI](https://travis-ci.com/auth) and selecting your repository.
+- Check the build status page to see if your build passes or fails, according to the return status of the build command by visiting the [Travis CI](https://travis-ci.com/auth) and selecting your repository.
 - Next time you commit to your repository Travis will run on the updated version of your project and report the results.
 
 It's that simple. The rest of this section will describe the different components of the .travis.yml file and how to write them.
@@ -139,7 +139,7 @@ It's that simple. The rest of this section will describe the different component
 <a name="Setting_up_the_computational_environment"></a>
 ### Setting up the computational environment
 
-This page on [Common Builds Problems](/user/common-build-problems/) is a good place to start troubleshooting if your build is broken.
+This page on [common build problems](https://docs.travis-ci.com/user/common-build-problems/) is a good place to start troubleshooting if your build is broken.
 
 <a name="Operating_system"></a>
 #### Operating system
@@ -161,7 +161,12 @@ os: windows
 
 It is possible to build and test a project on multiple operating systems and against multiple versions of a programming language. This will be not be discussed here as this presents and extra level of complexity and will not be needed in most cases for research, but it is discussed [later](#Testing_a_project_against_multiple_versions_of_a_programming_language).
 
-The distribution of and operating system to use can be defined using `dist`:
+To specify the distribution of an operating system to run the project with use `dist`, e.g.:
+
+```
+os: linux
+dist: trusty
+```
 
 <a name="Programming_language"></a>
 #### Programming language
@@ -177,7 +182,7 @@ Further information on the programming languages that are compatible with Travis
 <a name="Compilers"></a>
 #### Compilers
 
-If a compiled language is being used which compiler to use can be specified with the compiler keyword:
+If a compiled language is being used which compiler to run can be specified with the compiler keyword:
 ```
 compiler:
   - gcc
@@ -187,7 +192,7 @@ compiler:
 
 Not all languages/software are available on all operating systems however they can typically be installed within the .travis.yml file.
 
-To install Ubuntu packages that are not included in the standard version of the operating system specified you can include a `before_install` step in your `.travis.yml` along with the necessary code to install it, e.g.:
+To install packages that are not included in the standard version of the operating system specified you can include a `before_install` step in your `.travis.yml` along with the necessary code to install them, e.g.:
 
 ```
 before_install:
@@ -196,7 +201,7 @@ before_install:
 <a name="Containers"></a>
 #### Containers
 
-It is possible to use Docker containers (see the reproducible computational environments chapter) to generate the computational environment but pulling and running the image from the .travis.yml file. If you are doing so you should pull or generate the image (preferably pull to save Travis from having to build the image from scratch) in the before_install step (see above section). Then in the .travis.yml file's script [see next section](#The_travis_yml_script) you can run a command to run your tests like:
+It is possible to use Docker containers (see the reproducible computational environments chapter) to generate the computational environment by pulling and running the image from the .travis.yml file. If you are doing so you should pull or generate the image (preferably pull to save Travis from having to build the image from scratch) in the before_install step (see above section). Then in the .travis.yml file's script ([see next section](#The_travis_yml_script)) you can run a command to run your tests like:
 ```
 script:
   - sudo docker run -t image_name command_to_run
@@ -219,13 +224,13 @@ See [here](https://docs.travis-ci.com/user/docker/) for more information on this
 <a name="The_travis_yml_script"></a>
 ### The .travis.yml script
 
-Travis will report that the build has failed if any commands in the script section return an error. Technically any commands can be included in the scrpt, but it is mainly used for running tests. A script does not need to be long or complicated, as demonstrated by this example which uses the pytest command to run tests in python scripts:
+Travis will report that the build has failed if any commands in the script section return an error. Technically any commands can be included in the script, but it is mainly used for running tests. A script does not need to be long or complicated, as demonstrated by this example which uses the pytest command to run tests in python scripts:
 ```
 script:
 - pytest
 ```
 
-If there are steps that need to be done before a project to be considered to be "fully" working these should also be included in the script too. Lets say some project needs a figure to be converted to a png file for some reason. the script could included
+If there are steps that need to be done before a project to be considered to be "fully" working these should also be included in the script too. Lets say some project needs a figure to be converted to a png file for some reason. The script could include
 ```
   - convert figure_name.jpg figure_name.png
 ```
@@ -237,7 +242,7 @@ If for any reason this cannot be done an error will be returned and the build wi
 
 The after success section is much like the script section in that it contains commands to run on the project. The key difference if that the build will not fail if steps in the after success section return errors.
 
-The after success section is run after the script, and can be used to automate steps that need to be taken once a build has passed all the tests. Examples of things that can be automated include automatically merging the new version of the project to the master branch in GitHub. Another example is for the code coverage (see testing chapter) to be automatically measured and reported.
+The after success section is run after the script, and can be used to automate steps that need to be taken once a build has passed all the tests. Examples of things that can be automated include automatically merging the new version of the project to the master branch in GitHub. Another example is for the code coverage (see testing chapter) to be automatically measured and reported, as shown here:
 ```
 language: python
 python:
@@ -257,7 +262,7 @@ after_success:
 <a name="Testing_a_project_against_multiple_versions_of_a_programming_language"></a>  
 ### Testing a project against multiple versions of a programming language
 
-When a project is expected to be run on systems with different versions of a programming language you can set Travis to run the tests on each of these versions, for example to test on a variety of versions of python:
+When a project is expected to be run on systems with different versions of a programming language you can set Travis to run the tests on each of these versions. For example to test on a variety of versions of python:
 ```
 language: python
 python:
@@ -276,9 +281,9 @@ os:
   - osx
 ```
 
-When you test your code on multiple operating systems, be aware of differences that can affect your tests, for example not all tools and programming languages are available on all operating systems. This should be taken into account when write commands for your script file (or other sections of the .travis.yml file). Also file system behaviour may differ between OSs. Your tests may implicitly rely on these behaviours, and could fail because of them. They are different operating systems, after all.
+When you test your code on multiple operating systems, be aware of differences that can affect your tests, for example not all tools and programming languages are available on all operating systems. This should be taken into account when writing commands for your script file (or other sections of the .travis.yml file). Also file system behaviour may differ between OSs. Your tests may implicitly rely on these behaviours, and could fail because of them. They are different operating systems, after all.
 
-When Travis is running a job it sets the `TRAVIS_OS_NAME` variable which describes the operating system being tested. you can use this to run commands only on specified operating systems like this:
+When Travis is running a job it sets the `TRAVIS_OS_NAME` variable which describes the operating system being tested. You can use this to run commands only on specified operating systems like this:
 ```
   - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then command_to_run; fi
 ```
@@ -288,7 +293,7 @@ It is possible to go further and construct a [build matrix](https://docs.travis-
 <a name="Allowing_failures"></a>
 #### Allowing failures
 
-To ignore the results of jobs on one operating system you can define rows that are allowed to fail in the build matrix by adding an  `allow_failures` section. Allowed failures are items in your build matrix that are allowed to fail without causing the entire build to fail.  For example to allow the build to pass even if the build using the osx operating system you'd add the following to your `.travis.yml`:
+To ignore the results of jobs in certain computational environments you can define rows that are allowed to fail in the build matrix. Do this by adding an `allow_failures` section to the .travis.yml file. Allowed failures are items in your build matrix that are allowed to fail without causing the entire build to fail.  For example to allow the build to pass even if the job(s) using the osx operating system fail you'd add the following to your `.travis.yml`:
 ```
 matrix:
   allow_failures:
@@ -300,26 +305,26 @@ This is useful if you ideally want the build to be successful in multiple enviro
 <a name="Limitations_of_CI"></a>
 ## Limitations of CI
 
-CI does have its limitations. Firstly it is only as effective at finding bugs as the test provided to it. If a project contains few or poor tests then it is entirely possible the project will contain bugs the tests do not catch and Travis will report the build as successful.
+CI does have its limitations. Firstly it is only as effective at finding bugs as the tests provided to it. If a project contains few or poor tests then it is entirely possible the project will contain bugs the tests do not catch and Travis will report the build as successful.
 
 Secondly, depending on the nature of your project there may be security considerations to think about.     
 
-Travis CI obfuscates secure environment variables and tokens displayed in by the user interface. The [documentation about encryption keys](/user/encryption-keys/) outlines the build configuration required to set this up. However, if secret information is outputted in the course of running a script (for example in an error message) it may be included in Travis's build logs which may be accessible by others. To prevent leaks like this, secure environment variables and tokens that are longer than three characters are automatically filtered at runtime, effectively removing them from the build log, displaying the string `[secure]` instead. Nevertheless you should rotate your tokens and secrets regularly.
+Travis CI obfuscates secure environment variables and tokens displayed in by the user interface. The [documentation about encryption keys](https://docs.travis-ci.com/user/encryption-keys/) outlines the build configuration required to set this up. However, if secret information is outputted in the course of running a script (for example in an error message) it may be included in Travis's build logs which may be accessible by others. To prevent leaks like this, secure environment variables and tokens that are longer than three characters are automatically filtered at runtime, effectively removing them from the build log, displaying the string `[secure]` instead. Nevertheless you should rotate your tokens and secrets regularly.
 
-There are still however many ways in which secure information can accidentally be exposed. These vary according to what tools you are using and the settings enabled. Some things to look out for are:
+ However there are still many ways in which secure information can accidentally be exposed. These vary according to what tools you are using and the settings enabled. Some things to look out for are:
 
-- settings which duplicate commands to standard output, such as `set -x` or `set -v` in your bash scripts
-- displaying environment variables, by running `env` or `printenv`
-- printing secrets within the code, for example `echo "$SECRET_KEY"`
-- git commands like `git fetch` or `git push` may expose tokens or other secure environment variables
-- settings which increase command verbosity
+- Settings which duplicate commands to standard output, such as `set -x` or `set -v` in your bash scripts
+- Displaying environment variables, by running `env` or `printenv`
+- Printing secrets within the code, for example `echo "$SECRET_KEY"`
+- Git commands like `git fetch` or `git push` may expose tokens or other secure environment variables
+- Settings which increase command verbosity
 
 Preventing commands from displaying any output is one way to avoid accidentally displaying any secure information. If there is a particular command that is using secure information you can redirect its output to `/dev/null` to make sure it does not accidentally publish anything, as shown in the following example:
 ```
 git push url-with-secret >/dev/null 2>&1
 ```
 
-If your project is set up such that each time a pull request is made on GitHub Travis tests that pull request there is an additional concern. If your tests require authentication credentials if someone makes a pull request with malicious code to expose them. As such it is a good idea not to allow pull requests to automatically trigger Travis if you have such authentication requirements.
+If your project is set up such that each time a pull request is made on GitHub Travis tests that pull request there is an additional concern. If your tests require authentication credentials someone could make a pull request with malicious code to expose them. Therefore it is a good idea not to allow pull requests to automatically trigger Travis if you have such authentication requirements.
 
 <a name="Best_practise_for_continuous_integration"></a>    
 ## Best practise for continuous integration
@@ -327,7 +332,7 @@ If your project is set up such that each time a pull request is made on GitHub T
 <a name="Small_iterative_changes"></a>  
 ### Small, iterative changes
 
-One of the most important practices when adopting continuous integration is to encourage small changes. Small changes minimize the possibility and impact of problems cropping up when they're integrated, this minimises the cost of integration.
+One of the most important practices when adopting continuous integration is to encourage project members to make and commit small changes. Small changes minimize the possibility and impact of problems cropping up when they're integrated, which minimises the time and effort cost of integration.
 
 <a name="Trunk_based_development"></a>  
 ### Trunk-based development
