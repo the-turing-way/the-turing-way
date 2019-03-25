@@ -373,9 +373,9 @@ Also, the environment defined by the .travis.yml file should reflect the actual 
   - [ ] Includes code to install any dependencies required to run the project in a before_install step
   - [ ] Contains a script to run the project tests
 - [ ] Commit the .travis.yml file to the project's GitHub repository
-- [ ] Go to [travis-ci.com/](https://travis-ci.com/) and sign in with GitHub
+- [ ] Go to [travis-ci.com](https://travis-ci.com/) and sign in with GitHub
 - [ ] Activate Travis on your project repository
-- [ ] Each time a new commit is pushed Travis will run the tests and return the results. If these report that a commit causes test/tests to fail find and fix the problem as soon as possible
+- [ ] Each time a new commit is pushed Travis will run the tests and return the results. If these report that a commit causes test/tests to fail then find and fix the problem as soon as possible
 
 <a name="What_to_learn_next"></a>
 ## What to learn next
@@ -389,7 +389,7 @@ Travis offers a great deal of functionality not described here for automating ot
 
 A list of example Travis builds and tests for various languages/frameworks is available [here](https://github.com/softwaresaved/build_and_test_examples).
 
-Travis's official tutorial is [here](ttps://docs.travis-ci.com/user/tutorial/). A tutorial focussed on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), tutorials geared towards python can be found [here](https://docs.python-guide.org/scenarios/ci/) and [here](https://docs.travis-ci.com/user/languages/python/).
+Travis's official tutorial is [here](https://docs.travis-ci.com/user/tutorial/). A tutorial focussed on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), tutorials geared towards python can be found [here](https://docs.python-guide.org/scenarios/ci/) and [here](https://docs.travis-ci.com/user/languages/python/).
 
 <a name="Definitions_glossary"></a>
 ## Definitions/glossary
