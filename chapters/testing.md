@@ -486,21 +486,15 @@ Because of their time-consuming nature it will also often be impractical to have
 
 - The most common routes through a program.
 - The most important routes for a program. For example the LIGO detector aims to find gravitational wave events, which are extremely rare. If there's a bug in that path through the program which monitors the detector then it's a *huge* problem.
-- Cases that are prone to breakage due to structural problems within the program.  
+- Cases that are prone to breakage due to structural problems within the program. Though ideally it's better to just fix those problems, but cases exist where this may not be feasible.
 
 Because system tests can be time consuming it may be impractical to run them very regularly (such as multiple times a day after small changes in the code). Therefore it can be a good idea to run them each night (and to automate this process) so that if errors are introduced that only system testing can detect the programmer will be made of them relatively quickly.
 
 ## Acceptance testing
 
-[digitalocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+Acceptance tests are one of the last tests types that are performed on software prior to delivery. Acceptance testing is used to determine whether a piece of software satisfies all of the requirements from the business or user's perspective. Does this piece of software do what it needs to do? These tests are sometimes built against the original specification, and in commercial software often test interfaces for the expected functionality and for usability.
 
-Acceptance tests are one of the last tests types that are performed on software prior to delivery. Acceptance testing is used to determine whether a piece of software satisfies all of the requirements from the business or user's perspective. These tests are sometimes built against the original specification and often test interfaces for the expected functionality and for usability.
-
-Acceptance testing is often a more involved phase that might extend past the release of the software. Automated acceptance testing can be used to make sure the technological requirements of the design were met, but manual verification also usually plays a role.
-
-Frequently, acceptance testing begins by deploying the build to a staging environment that mirrors the production system. From here, the automated test suites can be run and internal users can access the system to check whether it functions the way they need it to. After release or offering beta access to customers, further acceptance testing is performed by evaluating how the software functions with real use and by collecting feedback from users.
-
-
+Because research software is typically written by the researcher that will use it (or at least with significant input from them) acceptance tests may not be necessary.
 
 ## Regression testing
 
@@ -565,14 +559,9 @@ function add_molecule(new_molecule):
 
 ## Test driven development
 
-*blog to look at https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806*
+One way of ensuring tests are not neglected in a project, is to adopt test-driven development. This is an approach in which the tests for a function, class, module or component are written before the code. The tests thus describe a “contract” that the code is expected to comply with. This ensures that the code will be correct (as far as can be enforced by the testing contract) as written, and it provides a useful framework for thinking about how the code should be designed, what interfaces it should provide, and how its algorithms might work. This can be a very satisfying mental aid in developing tricky algorithms.
 
-One way of ensuring tests are not neglected in a project, is to adopt test-driven development. This is an approach in which the tests for a function, class, module or component are written before the code. Once the tests are written, the code is developed so that it passes all the associated tests. Testing the code from the outset ensures that your code is always in a releasable state (as long as it passes the tests!).
-
-
-[Sound software](http://soundsoftware.ac.uk/unit-testing-why-bother/) **Creative Commons Attribution-NonCommercial 3.0 License.**
-Some developers practise test-driven development, a process in which the unit tests are written before the rest of the code. The tests thus describe a “contract” that the code is expected to comply with. This ensures that the code will be correct (as far as can be enforced by the testing contract) as written, and it provides a useful framework for thinking about how the code should be designed, what interfaces it should provide, and how its algorithms might work. This can be a very satisfying mental aid in developing tricky algorithms.
-
+Once the tests are written, the code is developed so that it passes all the associated tests. Testing the code from the outset ensures that your code is always in a releasable state (as long as it passes the tests!).
 
 An alternative development approach is behaviour driven development. Simply put test driven development tests "has the thing been done correctly?", behaviour driven development tests "has the correct thing been done?". It is more often used in commercial software development to focus development on making the software as simple and effective as possible for users. User experience is very rarely at the heart of code written for the purposes of research, but there are cases where such software is written with a large user-base in mind. In such cases behaviour-driven development is a path worth considering.
 
@@ -586,6 +575,8 @@ Try reading the chapter on reproducible computational environments and then the 
 ## Further reading
 
 ## Definitions/glossary
+
+*define all the differen't kinds of testing *
 
 - **:**
 
@@ -630,13 +621,16 @@ Try reading the chapter on reproducible computational environments and then the 
 
 ### Materials used: Integration testing
 
-- [Digitalocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+- [An introduction to continuous integration](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
 - [Software testing fundamentals: integration testing](http://softwaretestingfundamentals.com/integration-testing/) **Copyleft - 2019 STF**
 
 ### Materials used: System testing
 
 - [Software testing fundamentals: system testing](http://softwaretestingfundamentals.com/system-testing/) **Copyleft - 2019 STF**
-- [Digitalocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+- [An introduction to continuous integration](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+
+### Materials used: Acceptance testing
+- [An introduction to continuous integration](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
 
 ### Materials used: Regression testing
 
@@ -644,6 +638,11 @@ Try reading the chapter on reproducible computational environments and then the 
 - [Software testing fundamentals regression testing](http://softwaretestingfundamentals.com/regression-testing/) **Copyleft**
 - [Examples of Regression Testing by Cem Karner](http://www.testingeducation.org/k04/RegressionExamples.htm) **Creative Commons Attribution-ShareAlike License 2.0**
 - [Adopting automated testing](https://github.com/softwaresaved/automated_testing/blob/master/README.md) **Apache License 2.0**
+
+### Test driven development
+
+- [Testing your software](https://software.ac.uk/resources/guides/testing-your-software) **Creative Commons Attribution-NonCommercial 3.0 License.**
+- [Why bother](http://soundsoftware.ac.uk/unit-testing-why-bother/) **Creative Commons Attribution-NonCommercial 3.0 License.**
 
 ### Materials used: glossary
 
