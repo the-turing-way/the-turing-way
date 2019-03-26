@@ -89,7 +89,7 @@ Software versions are often defined via [semantic versioning](https://semver.org
 <a name="How_this_will_help_you_why_this_is_useful"></a>
 ## How this will help you/ why this is useful
 
-Let's go though an example of why computational environments are important. Say I have a very simple python script:
+Let's go though an example of why computational environments are important. Say I have a very simple Python script:
 
 ```
 a = 1
@@ -97,7 +97,7 @@ b = 5
 print(a/b)
 ```
 
-One divided by five is `0.2`, and that is what is printed if this script is run using python 3. However if a slightly older version of python, python 2, is used the result printed is `0` because both a and b are integers so in python 2 an integer is returned. Therefore this extremely simple script returns *different* answers depending on the computational environment it is run in. This is a mistake that would be very easy to make, and demonstrates how a perfectly valid piece of code can output different results depending on its environment. If such bugs can impact a simple script like this you can only imagine how many could appear in a complex analysis procedure which may involve thousands of lines of code and dozens of dependent packages/pieces of software.
+One divided by five is `0.2`, and that is what is printed if this script is run using Python 3. However if a slightly older version of Python, Python 2, is used the result printed is `0` because both a and b are integers so in Python 2 an integer is returned. Therefore this extremely simple script returns *different* answers depending on the computational environment it is run in. This is a mistake that would be very easy to make, and demonstrates how a perfectly valid piece of code can output different results depending on its environment. If such bugs can impact a simple script like this you can only imagine how many could appear in a complex analysis procedure which may involve thousands of lines of code and dozens of dependent packages/pieces of software.
 
 As such it is vital for researchers to understand and capture the computational environments they are conducting their work in, as it has the potential to impact three parties:
 
@@ -204,7 +204,7 @@ Conda can also be used to easily capture and export computational environments, 
 
 Another benefit of Conda is that it offers much greater flexibility to users that do not have admin privileges on the machines they are working on (as is very common when working with high performance computing facilities). Without Conda it is typically very difficult to install required software onto such machines. However because Conda creates and changes *new* environments rather than making changes to a machine's overall system environment admin privileges are not required.
 
-Finally, while Conda is python centric to a degree it is also well integrated for use with other languages, for example the base version of Conda includes the C++ standard library.
+Finally, while Conda is Python centric to a degree it is also well integrated for use with other languages, for example the base version of Conda includes the C++ standard library.
 
 <a name="Installing_Conda"></a>
 ### Installing Conda
@@ -294,7 +294,7 @@ and similarly you can remove them via
 conda remove package_name
 ```
 
-This is the best way to install packages from within Conda as it will also install a Conda-tailored version of the package. However it is possible to use other methods if a Conda-specific version of a package is not available. For example `pip` is commonly used to install python packages, so a command like
+This is the best way to install packages from within Conda as it will also install a Conda-tailored version of the package. However it is possible to use other methods if a Conda-specific version of a package is not available. For example `pip` is commonly used to install Python packages, so a command like
 ```
 pip install scipy
 ```
@@ -350,13 +350,13 @@ os: linux
 # Use the xenial distribution of Linux
 dist: xenial
 
-# Use the programming language python
+# Use the programming language Python
 language: python
 
-# Use version of python 3.2
+# Use version of Python 3.2
 python: 3.2
 
-# Use the python package numpy and use version 1.16.1
+# Use the Python package numpy and use version 1.16.1
 packages:
   numpy:
     version: 1.16.1
@@ -499,7 +499,7 @@ For a list of sample repositories for use with Binder, see the [Sample Binder Re
 <a name="Step_1_Specify_your_computational_environment"></a>
 #### Step 1: Specify your computational environment
 
-If a project contains no file specifying the computational environment when a Binder is generated the environment will be the Binder default environment, (containing python 3.6) which may or may not be suitable for the project. However if it does contain a configuration file for the environment then the Binder will be generated with the specified environment. A full list of such files Binder accepts with examples can be found [here](https://mybinder.readthedocs.io/en/latest/config_files.html), but here are some of the key ones, some of which are language-specific:
+If a project contains no file specifying the computational environment when a Binder is generated the environment will be the Binder default environment, (containing Python 3.6) which may or may not be suitable for the project. However if it does contain a configuration file for the environment then the Binder will be generated with the specified environment. A full list of such files Binder accepts with examples can be found [here](https://mybinder.readthedocs.io/en/latest/config_files.html), but here are some of the key ones, some of which are language-specific:
 
 - environment.yml
     - Recall that environment.yml files were discussed in the [Package management systems](#Package_management_systems) section.
@@ -514,8 +514,8 @@ If a project contains no file specifying the computational environment when a Bi
     to install the base Latex package.
 - default.nix
     - For those that use the [package management system](#Package_management_systems) Nix a default.nix file can be a convenient way to capture their environment.
-- requirements.txt (python)
-    - For python users a requirements.txt file can be used to list dependent packages.
+- requirements.txt (Python)
+    - For Python users a requirements.txt file can be used to list dependent packages.
     - For example to have Binder install numpy this file would simply need to read:
     ```
     numpy
@@ -524,14 +524,14 @@ If a project contains no file specifying the computational environment when a Bi
     ```
     numpy==1.14.5
     ```
-    - The requirement.txt file does not need to be hand written. Running the command `pip freeze > requirements.txt` will output a requirements.txt file that fully defines the python environment.
+    - The requirement.txt file does not need to be hand written. Running the command `pip freeze > requirements.txt` will output a requirements.txt file that fully defines the Python environment.
 - runtime.txt
-    - Used to specify a particular version of python of R for the Binder to use.
+    - Used to specify a particular version of Python of R for the Binder to use.
     - To specify which version of R to use specify find the date it was captured on [MRAN](https://mran.microsoft.com/documents/rro/reproducibility) and include it in the runtime.txt file as
     ```
     r-<YYYY>-<MM>-<DD>
     ```
-    - To specify a version of python, similarly state the version in this file. For example to use Python 2.7 the file would need to read
+    - To specify a version of Python, similarly state the version in this file. For example to use Python 2.7 the file would need to read
     ```
     python-2.7
     ```
@@ -603,7 +603,7 @@ Virtual machines (VMs) essentially package a whole computer as an app that can b
 
 ![virtual_machine](../figures/virtual_machine.png)
 
-Users can download, install, backup and destroy VMs at will, which is part of what makes them an attractive tool for sharing reproducible research. Research often requires specific pieces of software or system settings. If a researcher wishes to reproduce another's work on their own computer making the necessary changes to their environment to run the project may impact their own work. For example near the very start of this chapter it was [described](#How_this_will_help_you_why_this_is_useful) how using a different version of python can lead to unexpected changes in the results of an analysis. Say a researcher installs an updated version of python to replicate an analysis because the analysis requires features only present in the updated version. By doing so they put their own work at risk. VMs remove that risk; any tools downloaded or settings changed will only impact the VM, keeping the reproducer's research safe. If they do inadvertently break something in the VM, they can just delete it and make another one. They are effectively a quarantined area.
+Users can download, install, backup and destroy VMs at will, which is part of what makes them an attractive tool for sharing reproducible research. Research often requires specific pieces of software or system settings. If a researcher wishes to reproduce another's work on their own computer making the necessary changes to their environment to run the project may impact their own work. For example near the very start of this chapter it was [described](#How_this_will_help_you_why_this_is_useful) how using a different version of Python can lead to unexpected changes in the results of an analysis. Say a researcher installs an updated version of Python to replicate an analysis because the analysis requires features only present in the updated version. By doing so they put their own work at risk. VMs remove that risk; any tools downloaded or settings changed will only impact the VM, keeping the reproducer's research safe. If they do inadvertently break something in the VM, they can just delete it and make another one. They are effectively a quarantined area.
 
 <a name=Using_virtual_machines_for_reproducible_research></a>
 ### Using virtual machines for reproducible research
