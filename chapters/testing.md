@@ -284,17 +284,14 @@ Unit test frameworks for other languages also often provide similar functions:
 <a name="Types_of_tests"></a>
 ## Types of tests
 
-*Need to add a bit more context before jumping right in.*
+There are a number of different kinds of tests, which will be discussed here.
 
-*positive test, test something does right, negative tests, tests crashes when it should*
+Firstly there are positive tests and negative tests. Positive tests check that something works, for example testing that a function that multiplies some numbers together outputs the correct answer. Negative tests check that something generates an error when it should. For example nothing can go quicker than the speed of light, so a plasma physics simulation code may contain a test that an error is outputted if there are any particles faster than this, as it indicates there is a deeper problem in the code.
 
-[Software testing fundamentals levels of tests](http://softwaretestingfundamentals.com/software-testing-levels/) **Copyleft - 2019 STF**
+In addition to these two kinds of tests there are also different levels of tests which test different aspects of a project. These levels are outline [below](#Level_summary) and both positive and negative tests can be present in any of these levels. A thorough test suite will contain tests at all of these levels (though some levels will need very few).
 
-Software testing levels are the different stages of the software development lifecycle where testing is conducted. There are four levels of software testing: Unit >> Integration >> System >> Acceptance.
-
-![software_testing_levels](../figures/software_testing_levels.jpg)
-
-### Level	Summary
+<a name="Level_summary"></a>
+### Level	summary
 
 Smoke testing: Very brief initial checks that ensures the basic requirements required to run the project hold. If these fail there is no point proceeding to additional levels of testing until they are fixed.
 
@@ -694,6 +691,10 @@ Try reading the chapter on reproducible computational environments and then the 
 - [Turing testing course basics](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/03pytest.html) **Creative Commons share and remix**
 - [Mocking](https://www.vogella.com/tutorials/Mockito/article.html)**Attribution-NonCommercial-ShareAlike 3.0 Germany (CC BY-NC-SA 3.0 DE)**
 - [Testing with floating points](https://github.com/softwaresaved/automated_testing/blob/master/README.md) **Apache License 2.0**
+
+### Materials used: Types of tests
+
+- [Software testing fundamentals: levels of tests](http://softwaretestingfundamentals.com/software-testing-levels/) **Copyleft - 2019 STF**
 
 ### Materials used: Smoke testing
 
