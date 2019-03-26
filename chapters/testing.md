@@ -311,22 +311,18 @@ These different types of tests will now be discussed in more detail.
 
 ## Smoke testing
 
-Smoke tests are a special kind of initial checks designed to ensure very basic functionality as well as some basic implementation and environmental assumptions. Smoke tests are generally run at the very start of each testing cycle as a sanity check before running a more complete test suite.
+Smoke tests (also known as build verification tests) are a special kind of initial checks designed to ensure very basic functionality as well as some basic implementation and environmental assumptions. Smoke tests are generally run at the very start of each testing cycle as a sanity check before running a more complete test suite.
 
-The idea behind this type of test is to help to catch big red flags in an implementation and to bring attention to problems that might indicate that further testing is either not possible or not worthwhile. Smoke tests are not very extensive, but should be extremely quick. If a change to a project causes it to fail a smoke test, its an early signal that core assertions were broken and that you should not devote any more time to testing until the problem is resolved. For example if a function that reads in data a project requires to run is broken there's no point testing any further before that's fixed.
+The idea behind this type of test is to help to catch big red flags in an implementation and to bring attention to problems that might indicate that further testing is either not possible or not worthwhile. Normally, the tester is asking whether any components are so obviously or badly broken that the build is not worth testing or some components are broken in obvious ways that suggest a corrupt build or some critical fixes that are the primary intent of the new build didn't work. Smoke tests are not very extensive, but should be extremely quick. If a change to a project causes it to fail a smoke test, its an early signal that core assertions were broken and that you should not devote any more time to testing until the problem is resolved. For example if a function that reads in data a project requires to run is broken there's no point testing any further before that's fixed. The typical result of a failed smoke test is rejection of the build (testing of the build stops) not just a new set of bug reports.
 
 <a name="Unit_tests"></a>
 ## Unit tests
 
 Unit tests are responsible for testing individual elements of code in an isolated and highly targeted way. The functionality of individual functions and classes are tested on their own. The purpose is to validate that each unit of the software performs as designed. A unit is the smallest testable part of any software. In procedural programming, a unit may be an individual program, function, procedure, etc. In object-oriented programming the smallest unit is typically a method. It usually has one or a few inputs and usually a single output. Any external dependencies are replaced with stub or mock implementations to focus the test completely on the code in question.
 
-Unit tests are essential to test the correctness of individual code components for internal consistency and correctness before they are placed in more complex contexts. The limited extent of the tests and the removal of dependencies makes it easier to hunt down the cause of any defects. It also is the best time to test a variety of inputs and code branches that might be difficult to hit later on.
+Unit tests are essential to test the correctness of individual code components for internal consistency and correctness before they are placed in more complex contexts. The limited extent of the tests and the removal of dependencies makes it easier to hunt down the cause of any defects. It also is the best time to test a variety of inputs and code branches that might be difficult to hit later on. For example system tests are often time consuming to run and it impractical to have system tests for every possible path through a code that has more than a few conditional statements. Unit tests are smaller, faster, and so it is more practical to cover all possible cases with them.
 
- *e.g. system tests expensive, test more typical casses*
-
- Often, after any smoke tests, unit tests are the first tests that are run when any changes are made.
-
-
+Often, after any smoke tests, unit tests are the first tests that are run when any changes are made.
 
 ### Benefits of unit testing
 
@@ -492,70 +488,23 @@ Frequently, acceptance testing begins by deploying the build to a staging enviro
 
 ## Regression testing
 
-[Sound software](http://soundsoftware.ac.uk/unit-testing-why-bother/) **Creative Commons Attribution-NonCommercial 3.0 License**
+Regression testing is a style of testing that focuses on retesting after changes are made. It is intended to ensure that changes (enhancements or defect fixes) to the software have not adversely affected it. The likelihood of any code change impacting functionalities that are not directly associated with the code is always there and it is essential that regression testing is conducted to make sure that fixing one thing has not broken another. Regression testing can be performed during any level of testing (unit, integration, system, or acceptance) but it is mostly relevant during system testing. Any test can be reused, and so any test can become a regression test.
 
-Regression testing, the business of ensuring that new changes in code don't break things that were working before. Regression testing is obviously especially important in team working, but it is surprisingly easy to break your own code without noticing it, even if you are working on your own. And because regression testing is next to impossible to do satisfactorily by hand (it's simply too tedious), it's an obvious case for automation
+Regression testing is obviously especially important in team working, but it is surprisingly easy to break your own code without noticing it, even if you are working on your own. And because regression testing is next to impossible to do satisfactorily by hand (it's simply too tedious), it's an obvious case for automation.
 
----
-
-[Software testing fundamentals regression testing](http://softwaretestingfundamentals.com/regression-testing/) **Copyleft**
-
-Regression testing is a type of software testing that intends to ensure that changes (enhancements or defect fixes) to the software have not adversely affected it.
-
-The likelihood of any code change impacting functionalities that are not directly associated with the code is always there and it is essential that regression testing is conducted to make sure that fixing one thing has not broken another thing.
-
-During regression testing, new test cases are not created but previously created test cases are re-executed.
-
-Regression literally means the act of going back to a previous place or state; return or reversion.
-
-Regression testing can be performed during any level of testing (unit, integration, system, or acceptance) but it is mostly relevant during system testing.
-
-In an ideal case, a full regression test is desirable but oftentimes there are time/resource constraints. In such cases, it is essential to do an impact analysis of the changes to identify areas of the software that have the highest probability of being affected by the change and that have the highest impact to users in case of malfunction and focus testing around those areas.
-
-Due to the scale and importance of regression testing, more and more companies and projects are adopting regression test automation tools.
-
----
-
-[Examples of Regression Testing by Cem Karner](http://www.testingeducation.org/k04/RegressionExamples.htm) ** Creative Commons Attribution-ShareAlike License 2.0**
-
-Regression testing is a style of testing that focuses on retesting after changes are made. In traditional regression testing, we reuse the same tests (the regression tests). In risk-oriented regression testing, we test the same areas as before, but we use different (increasingly complex) tests. Traditional regression tests are often partially automated. These note focus on traditional regression.
-
-Regression testing attempts to mitigate two risks:
-
-A change that was intended to fix a bug failed.
-Some change had a side effect, unfixing an old bug or introducing a new bug.
-In addition, proponents of traditional regression testing argue that retesting is a measurement or control process, a means of assuring that the program is as stable as it was previously.
+Regression tests are written by first running the (or part of the) code for given inputs and recording the outputs. This can be done by writing input files and saving the corresponding output files. These outputs serve as the expected outputs from our program given the corresponding inputs. Regression tests are then written. Each regression test runs the code for the set of inputs. It then compares the output from the code to the expected outputs, and raises an error if these do not match.
 
 Regression testing approaches differ in their focus. Common examples include:
 
-Bug regression: We retest a specific bug that has been allegedly fixed.
-Old fix regression testing: We retest several old bugs that were fixed, to see if they are back. (This is the classical notion of regression: the program has regressed to a bad state.)
-General functional regression: We retest the product broadly, including areas that worked before, to see whether more recent changes have destabilized working code. (This is the typical scope of automated regression testing.)
-Conversion or port testing: The program is ported to a new platform and a subset of the regression test suite is run to determine whether the port was successful. (Here, the main changes of interest might be in the new platform, rather than the modified old code.)
-Configuration testing: The program is run with a new device or on a new version of the operating system or in conjunction with a new application. This is like port testing except that the underlying code hasn't been changed--only the external components that the software under test must interact with.
-Localization testing: The program is modified to present its user interface in a different language and/or following a different set of cultural rules. Localization testing may involve several old tests (some of which have been modified to take into account the new language) along with several new (non-regression) tests.
-Smoke testing also known as build verification testing:A relatively small suite of tests is used to qualify a new build. Normally, the tester is asking whether any components are so obviously or badly broken that the build is not worth testing or some components are broken in obvious ways that suggest a corrupt build or some critical fixes that are the primary intent of the new build didn't work. The typical result of a failed smoke test is rejection of the build (testing of the build stops) not just a new set of bug reports.
-Any test can be reused, and so any test can become a regression test. Regression testing naturally combines with all other test techniques. The essence of regression testing is exposure of problems that shouldn't be there, either because they were exterminated before or they weren't in the product the last time(s) it was tested.
-
----
-
-* [Adopting automated testing](https://github.com/softwaresaved/automated_testing/blob/master/README.md) **Apache License 2.0**
-
-Regression testing allows us to check that our code continues to be correct after we have made changes to it. Unit testing can then be introduced at a later date, when the demands of research permit.
-
-Regression testing does not test whether our code produces scientifically-correct results, only that we don't change its behaviour in unexpected ways. We will return to this distinction later.
-
-To introduce regression testing we can follow a recipe.
-
-First, we create a test oracle. We run out code on sets of input files and parameters. We save the corresponding output files. These output files serve as the expected outputs from our program given the corresponding input files and parameters.
-We then write regression tests. Each regression test runs our code for a set of input files and parameters. It then compares the output from our code to the expected outputs within the test oracle, it compares the actual outputs to the expected outputs.
-We run our regression tests regularly, or after every change to the code, to check we have not introduced any bugs that have changed its behaviour.
+- Bug regression: We retest a specific bug that has been allegedly fixed.
+- Old fix regression testing: We retest several old bugs that were fixed, to see if they are back. (This is the classical notion of regression: the program has regressed to a bad state.)
+- General functional regression: We retest the project broadly, including areas that worked before, to see whether more recent changes have destabilized working code. (This is the typical scope of automated regression testing.)
+- Conversion or port testing: The program is ported to a new platform and a subset of the regression test suite is run to determine whether the port was successful.
+- Configuration testing: The program is run with a new device or on a new version of the operating system or in conjunction with a new application. This is like port testing except that the underlying code hasn't been changed--only the external components that the software under test must interact with.
 
 ### Limitations
 
-Regression tests are not guaranteed to test all parts of the code. Test coverage tools can provide information on what parts of our code are, or are not, executed when we run our regression tests.
-
-Most importantly, regression tests do not test if the result outputted by a piece of code is *correct*, only that is has not changed. This the remit of unit and system tests, though regression tests can serve as the starting point for introducing tests for correctness, by both the use of analytical solutions, and test functions which read output files and check the data for correctness, as defined by a researcher.
+Regression tests are not guaranteed to test all parts of the code. Most importantly, regression tests do not test if the result outputted by a piece of code is *correct*, only that is has not changed. This the remit of other kinds of tests, though regression tests can serve as the starting point for introducing tests for correctness, by both the use of analytical solutions, and test functions which read output files and check the data for correctness, as defined by a researcher.
 
 ## Runtime testing
 
@@ -674,6 +623,13 @@ Try reading the chapter on reproducible computational environments and then the 
 
 - [Software testing fundamentals: system testing](http://softwaretestingfundamentals.com/system-testing/) **Copyleft - 2019 STF**
 - [Digitalocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+
+### Materials used: Regression testing
+
+- [Sound software](http://soundsoftware.ac.uk/unit-testing-why-bother/) **Creative Commons Attribution-NonCommercial 3.0 License**
+- [Software testing fundamentals regression testing](http://softwaretestingfundamentals.com/regression-testing/) **Copyleft**
+- [Examples of Regression Testing by Cem Karner](http://www.testingeducation.org/k04/RegressionExamples.htm) **Creative Commons Attribution-ShareAlike License 2.0**
+- [Adopting automated testing](https://github.com/softwaresaved/automated_testing/blob/master/README.md) **Apache License 2.0**
 
 ### Materials used: glossary
 
