@@ -226,78 +226,60 @@ Code review is a way of testing code quality. In a programmer sits down and look
 
 Because of their nature code reviews act a qualitative rather than quantitive tests, but are no less valuable for that.
 
+### Testing if non-integer numbers are equal
 
+#### When 0.1 + 0.2 does not equal 0.3
 
+There is a complication with testing if the answer a piece of code outputs is equal to the expected answer when the numbers are not integers. let's look at this Python example, but note that this problem is not unique to python.
 
-  - *careful of equalities*
-
-
-
-  *blog to look at https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806*
-
-
-
-      ---
-    Hack md notes:
-
-
-    ---
-
-
-
-
----
-    - Make a plot and visually inspect it
-
-    - Describe a dataframe and check that the means and standard deviations are within the right range
-
-    - Run a few different random simulations and check that they all give back values that are in the right range
-
-    Can sanity check within reasonable values though.
-
-
-* [Adopting automated testing](https://github.com/softwaresaved/automated_testing/blob/master/README.md) **Apache License 2.0**
-
-When 0.1 + 0.2 does not equal 0.3
-There is one further complication with our data that we need to address. EPCC's oncology project found that their regression tests failed when they ran their code on the HECToR super-computer. Investigation showed that this arose due to their floating point calculations giving subtly different results when run on their development machine compared to when they were run on HECToR. To see why these differences arose, look at this Python example.
-
-If we assign 0.1 to a and 0.2 to b and print their sum, we get 0.3, as expected.
-
+If we assign 0.1 to `a` and 0.2 to `b` and print their sum, we get 0.3, as expected.
+```
 >>> a = 0.1
 >>> b = 0.2
 >>> print(a + b)
 0.3
-If, however, we compare the result of comparing the sum of a plus b to 0.3 we get False.
+```
 
+If, however, we compare the result of comparing the sum of `a` plus `b` to 0.3 we get False.
+```
 >>> print(a + b == 0.3)
 False
-If we show the value of a plus b directly, we can see there is a subtle margin of error.
+```
 
+If we show the value of `a` plus `b` directly, we can see there is a subtle margin of error.
+```
 >>> a + b
 0.30000000000000004
-This is because floating point numbers are approximations of real numbers.
+```
 
-The result of floating point calculations can depend upon the compiler or interpreter, processor or system architecture and number of CPUs or processes being used.
+This is because floating point numbers are approximations of real numbers. The result of floating point calculations can depend upon the compiler or interpreter, processor or system architecture and number of CPUs or processes being used. Obviously this can present a major obstacle for writing tests
 
-Floating point calculations are not always guaranteed to be associative. A plus B will not necessarily equal B plus A.
+#### Equality in a floating point world
 
-Equality in a floating point world
 When comparing floating point numbers for equality, we have to compare to within a given tolerance, alternatively termed a threshold or delta. For example, we might consider A equal to B if the absolute value of the difference between A and B is within the absolute value of our tolerance.
 
-A = B if | A - B <= | tolerance |
+Many testing frameworks provide functions for comparing equality of floating point numbers to within a given tolerance. For example for the framework pytest:
+```
+import pytest
 
-Many languages have inbuilt frameworks for testing, and many of those provide functions for comparing equality of floating point numbers to within a given tolerance.
+a = 0.1
+b = 0.2
+c = a + b
+assert c == pytest.approx(0.3)
+```
 
-Unit test frameworks for other languages provide similar functions:
+this passes, but if the 0.3 was changed to 0.4 it would fail.
 
-Cunit for C: CU_ASSERT_DOUBLE_EQUAL(actual, expected, granularity)
-CPPUnit for C++: CPPUNIT_ASSERT_DOUBLES_EQUAL(expected, actual, delta)
-googletest for C++: ASSERT_NEAR(val1, val2, abs_error)
-FRUIT for Fortran: subroutine assert_eq_double_in_range_(var1, var2, delta, message)
-JUnit for Java: org.junit.Assert.assertEquals(double expected, double actual, double delta)
-testthat for R:
-expect_equal(actual, expected, tolerance=DELTA) - absolute error within DELTA
-expect_equal(actual, expected, scale=expected, tolerance=DELTA) - relative error within DELTA
+Unit test frameworks for other languages also often provide similar functions:
+
+- Cunit for C: CU_ASSERT_DOUBLE_EQUAL(actual, expected, granularity)
+- CPPUnit for C++: CPPUNIT_ASSERT_DOUBLES_EQUAL(expected, actual, delta)
+- googletest for C++: ASSERT_NEAR(val1, val2, abs_error)
+- FRUIT for Fortran: subroutine assert_eq_double_in_range_(var1, var2, delta, message)
+- JUnit for Java: org.junit.Assert.assertEquals(double expected, double actual, double delta)
+- testthat for R:
+  - expect_equal(actual, expected, tolerance=DELTA) - absolute error within DELTA
+  - expect_equal(actual, expected, scale=expected, tolerance=DELTA) - relative error within DELTA
 
 <a name="Types_of_tests"></a>
 ## Types of tests
@@ -314,7 +296,7 @@ Software testing levels are the different stages of the software development lif
 
 ### Level	Summary
 
-*add smoke testing*
+Smoke testing: Very brief initial checks that ensures the basic requirements required to run the project hold. If these fail there is no point proceeding to additional levels of testing until they are fixed.
 
 Unit testing:	A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
 
@@ -332,11 +314,9 @@ These different types of tests will now be discussed in more detail.
 
 ## Smoke testing
 
-[smoke testing](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
-
 Smoke tests are a special kind of initial checks designed to ensure very basic functionality as well as some basic implementation and environmental assumptions. Smoke tests are generally run at the very start of each testing cycle as a sanity check before running a more complete test suite.
 
-The idea behind this type of test is to help to catch big red flags in an implementation and to bring attention to problems that might indicate that further testing is either not possible or not worthwhile. Smoke tests are not very extensive, but should be extremely quick. If a change fails a smoke test, its an early signal that core assertions were broken and that you should not devote any more time to testing until the problem is resolved. For example if the function to read in the data the data a project will work with is broken there's no point testing any further before that's fixed.
+The idea behind this type of test is to help to catch big red flags in an implementation and to bring attention to problems that might indicate that further testing is either not possible or not worthwhile. Smoke tests are not very extensive, but should be extremely quick. If a change to a project causes it to fail a smoke test, its an early signal that core assertions were broken and that you should not devote any more time to testing until the problem is resolved. For example if a function that reads in data a project requires to run is broken there's no point testing any further before that's fixed.
 
 <a name="Unit_tests"></a>
 ## Unit tests
@@ -708,18 +688,23 @@ Try reading the chapter on reproducible computational environments and then the 
 
 ## Bibliography
 
-### Materials used: general guidance and good practice for testing
+### Materials used: General guidance and good practice for testing
 
 - [SSI blog on testing software](https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806) **Creative Commons Attribution Non-Commercial 2.5 License.**
 - [Turing testing course basics](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/03pytest.html) **Creative Commons share and remix**
 - [Mocking](https://www.vogella.com/tutorials/Mockito/article.html)**Attribution-NonCommercial-ShareAlike 3.0 Germany (CC BY-NC-SA 3.0 DE)**
+- [Testing with floating points](https://github.com/softwaresaved/automated_testing/blob/master/README.md) **Apache License 2.0**
 
-### Materials used: integration testing
+### Materials used: Smoke testing
+
+[smoke testing](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+
+### Materials used: Integration testing
 
 - [Digitalocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
 - [Software testing fundamentals: integration testing](http://softwaretestingfundamentals.com/integration-testing/) **Copyleft - 2019 STF**
 
-### Materials used: system testing
+### Materials used: System testing
 
 - [Software testing fundamentals: system testing](http://softwaretestingfundamentals.com/system-testing/) **Copyleft - 2019 STF**
 - [Digitalocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
