@@ -318,32 +318,19 @@ The idea behind this type of test is to help to catch big red flags in an implem
 <a name="Unit_tests"></a>
 ## Unit tests
 
-*Unit testing frameworks, drivers, stubs, and mock/ fake objects can be used to assist in unit testing.*
+Unit tests are responsible for testing individual elements of code in an isolated and highly targeted way. The functionality of individual functions and classes are tested on their own. The purpose is to validate that each unit of the software performs as designed. A unit is the smallest testable part of any software. In procedural programming, a unit may be an individual program, function, procedure, etc. In object-oriented programming the smallest unit is typically a method. It usually has one or a few inputs and usually a single output. Any external dependencies are replaced with stub or mock implementations to focus the test completely on the code in question.
 
-*blog to look at https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806*
+Unit tests are essential to test the correctness of individual code components for internal consistency and correctness before they are placed in more complex contexts. The limited extent of the tests and the removal of dependencies makes it easier to hunt down the cause of any defects. It also is the best time to test a variety of inputs and code branches that might be difficult to hit later on.
 
-Automated (or unit) tests are modules or classes that invoke operations on your code. A test might verify an individual function or method, a class or module, related modules or components or the software as a whole. Tests can ensure that the correct results are returned from a function, that an operation changes the state of a system as expected, and that the code behaves as expected when things go wrong (for example, if incorrect inputs are given by a user or a database connection is cut off prematurely).
+ *e.g. system tests expensive, test more typical casses*
 
----
+ Often, after any smoke tests, unit tests are the first tests that are run when any changes are made.
 
-[digitalocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
-## Unit testing
-Unit tests are responsible for testing individual elements of code in an isolated and highly targeted way. The functionality of individual functions and classes are tested on their own. Any external dependencies are replaced with stub or mock implementations to focus the test completely on the code in question.
 
-Unit tests are essential to test the correctness of individual code components for internal consistency and correctness before they are placed in more complex contexts. The limited extent of the tests and the removal of dependencies makes it easier to hunt down the cause of any defects. It also is the best time to test a variety of inputs and code branches that might be difficult to hit later on. Often, after any smoke tests, unit tests are the first tests that are run when any changes are made.
-
-Unit tests are typically run by individual developers on their own work station prior to submitting changes. However, continuous integration servers almost always run these tests again as a safe guard before beginning integration tests.
----
-
-[Software testing fundamentals unit tests](http://softwaretestingfundamentals.com/unit-testing/) **Copyleft - 2019 STF**
-
-## What is unit testing?
-
-UNIT TESTING is a level of software testing where individual units/components of a software are tested. The purpose is to validate that each unit of the software performs as designed. A unit is the smallest testable part of any software. It usually has one or a few inputs and usually a single output. In procedural programming, a unit may be an individual program, function, procedure, etc. In object-oriented programming the smallest unit is typically a method.
 
 ### Benefits of unit testing
 
-If a researcher makes a change to a piece of code or how it is run how can they be sure that doing so has not broken something? They may run a few tests, but without testing every small piece of code individually how can they be certain? Unit testing gives researchers that certainty, and allows them to be confident when changing and maintaining their code.
+If a researcher makes a change to a piece of code or how it is run then how can they be sure that doing so has not broken something? They may run a few tests, but without testing every small piece of code individually how can they be certain? Unit testing gives researchers that certainty, and allows them to be confident when changing and maintaining their code.
 
 Here's a little example. Say a researcher has a small function that does one simple thing (here only a single line for brevity). In this example this will be raising a number to the 5th power:
 ```
@@ -370,13 +357,11 @@ Modular code also has the benefit that even if a bug is introduced the unintende
 
 ### Unit testing tips
 
-- Find a tool/framework for your language. For example the pytest module assists with running unit tests in python.
+- Many testing frameworks have tools specifically geared towards writing and running unit tests.
 - Isolate the development environment from the test environment.
-- If your tests use test data make sure it is similar to data the actual code will be applied to.
 - Write test cases that are independent of each other. For example, if a unit A utilises the result of another unit B supplies you should test unit A with a "mock" input, rather than actually calling the unit B. If you don't do this your test failing may be due to a fault in either unit A *or* unit B, making the bug harder to trace.
 - Aim at covering all paths through a unit. Pay particular attention to loop conditions.
 - In addition to writing cases to verify the behaviour, write cases to ensure the performance of the code. For example, if a function that is supposed to add two numbers takes several minutes to run there is likely a problem.
-- Run unit tests frequently.
 - If you find a defect in your code write a test that exposes it. Why? First, you will later be able to catch the defect if you do not fix it properly. Second, your test suite is now more comprehensive. Third, you will most probably be too lazy to write the test after you have already fixed the defect. For example say a code has a simple function to classify people as either adults or children:
 
   ```
@@ -407,14 +392,13 @@ Modular code also has the benefit that even if a bug is introduced the unintende
     return
   ```
 
-  There's a problem with this code that isn't being tested: if a negative age is supplied it will happily classify the person as a child despite negative ages not being possible. The code should throw an error in this case. So once the bug is fixed:
-
-  ```
-  def adult_or_child(age):
+There's a problem with this code that isn't being tested: if a negative age is supplied it will happily classify the person as a child despite negative ages not being possible. The code should throw an error in this case. So once the bug is fixed:
+```
+def adult_or_child(age):
 
   # Check age is valid
   if age < 0:
-    raise
+    raise ValueError, 'Not possible to have a negative age'
 
   # If the age is greater or equal to 18 classify them as an adult
   if age >= 18:
@@ -425,50 +409,26 @@ Modular code also has the benefit that even if a bug is introduced the unintende
     person_status = 'Child'
 
   return person_status
-  ```
+```
 
-  go ahead and write a test to ensure that future changes in the code can't cause it to happen again:
+go ahead and write a test to ensure that future changes in the code can't cause it to happen again:
+```  
+def test_adult_or_child():
 
-  ```
-  def test_adult_or_child():
+  #Test that an adult is correctly classified as an adult
+  assert adult_or_child(22) == 'Adult'
 
-    # Test that an adult is correctly classified as an adult
-    assert adult_or_child(22) == 'Adult'
+  # Test that an child is correctly classified as a child
+  assert adult_or_child(5) == 'Child'
 
-    # Test that an child is correctly classified as a child
-    assert adult_or_child(5) == 'Child'
-
-    # Test that supplying an invalid age results in an error
-    assert adult_or_child(-10) ==
-
-    return
-  ```
-
----
-
-[Sound software](http://soundsoftware.ac.uk/unit-testing-why-bother/) **Creative Commons Attribution-NonCommercial 3.0 License.**
-
-Unit testing is the practice of testing the components of a program automatically, using a test program to provide inputs to each component and check the outputs. The tests are usually written by the same programmers as the software being tested, either before or at the same time as the rest of the software.
-
-Most unit tests are written using some sort of test framework, a set of library code designed to make writing and running tests easier. Nearly all programming languages have at least one commonly used test framework.[1] But you don't have to use a test framework to do unit testing. All you need is something that can run a bit of your code, feed it some inputs, and check the results.
-
-Of course as well as writing tests, you have to remember to run them. Many projects combine running the tests with building the software. Larger development teams automate this using some kind of continuous integration system. For individual projects, it may be enough simply to remember to run the tests before rolling a release and after any significant code change.
-
-Practical tips for unit tests
-You can do unit testing without using a test framework, and this can be a good way to get started if the thought of learning a test framework seems too complicated. A framework saves time in the long run, and in a company context you'd always have one, but for your own use it doesn't have to be something you must learn before you can start. You can just run a bit of the code, check the results, spit out hideous abuse when the results are wrong. You can even do it from a shell script if your program is simple enough.
-Tests should be small—don't think you have to use bulky real-world data. If your function gets the right median value for inputs with one value, a small odd number of values, and a small even number, it'll work for bigger inputs too. Think of tricky small cases, not easy large ones. Picking good test cases is something of an art and can be an interesting exercise in its own right.
-Writing the tests first (i.e. practising test-driven development) can be a real help during development especially if you're not yet clear on how the code should actually work. When you find yourself getting stuck trying to visualise how an algorithm should work or how other code should interact with it, consider whether you can approach it from the other end by describing what its output should look like. Sketch it out in the tests, then write the code until the tests pass.
-Whenever you find a bug in “finished code”, add a test for it. Make sure the test fails in the buggy code and passes when it is fixed. Areas of code you've found bugs in are more likely to be fragile in general, and bugs that have already been found are relatively highly likely to reappear.
-When writing a new test, include something to make sure it is being run. For example, make it fail deliberately when you first write it. It's quite common to discover that the reason your tests are all passing is that they're not being run at all. (Overlooked in the build file, private instead of public, mistyped the method name: every testing framework has its set of common mistakes.) So, always do something to make sure your test is really working.
-Don't ship code with tests that fail, even if it doesn't matter that they fail. It's not uncommon, particularly in test-driven development, to change your mind during design about which tests are correct or relevant, or to make an initial implementation that only covers some of the test suite. But that means you end up with failed tests that you don't actually care about. Remove them, or at very least, document them: anyone running your tests should be able to assume that a failed test indicates broken code.
-Consider using a code coverage tool to check how much of your code is actually being tested. Coverage doesn't tell you everything: it only measures static execution paths, but it can give you some idea of things you might have missed altogether.
-
+  # Test that supplying an invalid age results in an error
+  with pytest.raises(ValueError):
+      adult_or_child(-10)
+```
 
 ## Integration testing
 
 Integration testing is a level of software testing where individual units are combined and tested as a group. While unit tests validate the functionality of code in isolation, integration tests ensure that components cooperate when interfacing with one another. The purpose of this level of testing is to expose faults in the interaction between integrated units.
-
-Here's an analogy. During the process of manufacturing a ballpoint pen, the cap, the body, the tail and clip, the ink cartridge and the ballpoint are produced separately and unit tested separately. When two or more units are ready, they are assembled and integration testing is performed. For example, whether the cap fits into the body or not.
 
 A sub type of integration testing is system integration testing. This tests the integration of systems, packages and any interfaces to external organizations (e.g. Electronic Data Interchange, Internet). Depending on the nature of a project system integration testing may or may not be applicable.
 
@@ -699,6 +659,11 @@ Try reading the chapter on reproducible computational environments and then the 
 ### Materials used: Smoke testing
 
 [smoke testing](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+
+### Materials used: Unit testing
+
+- [An introduction to continuous integration](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+- [Software testing fundamentals unit tests](http://softwaretestingfundamentals.com/unit-testing/) **Copyleft - 2019 STF**
 
 ### Materials used: Integration testing
 
