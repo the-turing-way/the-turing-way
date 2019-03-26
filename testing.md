@@ -123,8 +123,6 @@ Most programming languages have tools either built into them, or that can be imp
 
 ### Use test doubles where appropriate
 
-
-
 If a test fails it should be constructed such that is as easy to trace the source of the failure as possible.. This become problematic if a piece of code you want to test unavoidably depends on other things. For example if a test for a piece of code that interacts with the web fails that could be because the code has a bug *or* there is a problem with the internet connection. Similarly a test for a piece of code that uses an object fails it could be because there is a bug in the code being tested, or a problem with the object (which should be tested by its own, separate tests). These dependencies should be eliminated from tests, if possible. This can be done via using test replacements (test doubles) for the real dependencies. Test doubles can be classified like the following:
 
 - A dummy object is passed around but never used, i.e., its methods are never called. Such an object can for example be used to fill the parameter list of a method.
@@ -469,10 +467,28 @@ Sandwich/Hybrid is an approach to integration testing which is a combination of 
 <a name="System_tests"></a>
 ## System tests
 
-Once integration tests are performed, another level of testing called system testing can begin. System testing (sometimes called end-to-end testing) is a level of software testing where a complete and integrated software is tested. The purpose of this test is to evaluate the system's compliance with the specified requirements. In many ways, system testing acts as an extension to integration testing. The focus of system tests are to make sure that groups of components function correctly as a cohesive whole.
+Once integration tests are performed, another level of testing called system testing can begin. System testing is a level of software testing where a complete and integrated software is tested. The tester supplies the program with input and verifies if the program's output is correct. If it is not then there is a problem somewhere in the system. Note that this does not have to be done manually, it can be automated. The purpose of these tests is to evaluate the system's compliance with the specified requirements. In many ways, system testing acts as an extension to integration testing. The focus of system tests are to make sure that groups of components function correctly as a cohesive whole.
+However, instead of focusing on the interfaces between components, system tests typically evaluate the outward functionality of a full piece of software. This set of tests ignores the constituent parts in order to gauge the composed software as a unified entity. Because of this distinction, system tests usually focus on user- or externally-accessible outputs.
 
-Instead of focusing on the interfaces between components, system tests typically evaluate the outward functionality of a full piece of software. This set of tests ignores the constituent parts in order to gauge the composed software as a unified entity. Because of this distinction, system tests usually focus on user- or externally-accessible outputs.
+System testing can also test features of the system other than correctness. Examples include:
 
+- Performance testing: does the program performance meet the minimum requirements? A performance test may measure how long the system takes to run in a given case.
+- Migration testing: does the program work when transferred to another computational environment?
+- Stress/scale/load testing: testing how the program behaves when under stress, e.g. when required to process very large volumes of data.
+- Usability testing: how user-friendly is the program (more common in commercial software, tests typically conducted by humans rather than automated)
+- Recovery testing: Can the program continue if errors occur (again, more common in commercial software).
+
+### Good practice for system testing
+
+System tests, also called end-to-end tests, run the program, well, from end to end. As such these are the most time consuming tests to run. Therefore you should only run these if all the lower-level tests (smoke, unit, integration) have already passed. If they haven't fix the issue they have detected first before wasting time running system tests.
+
+Because of their time-consuming nature it will also often be impractical to have enough system tests to trace every possible route through a program, especially is there are a significant number of conditional statements. Therefore you should consider the system test cases you run carefully and prioritise:
+
+- The most common routes through a program.
+- The most important routes for a program. For example the LIGO detector aims to find gravitational wave events, which are extremely rare. If there's a bug in that path through the program which monitors the detector then it's a *huge* problem.
+- Cases that are prone to breakage due to structural problems within the program.  
+
+Because system tests can be time consuming it may be impractical to run them very regularly (such as multiple times a day after small changes in the code). Therefore it can be a good idea to run them each night (and to automate this process) so that if errors are introduced that only system testing can detect the programmer will be made of them relatively quickly.
 
 ## Acceptance testing
 
@@ -536,18 +552,16 @@ function add_molecule(new_molecule):
     error( ”The total mass can never be negative” )
 ```
 
-
-*assert statement e.g. speed of light*
 **Advantages**
 
-- Always running with the program, so can catch problems caused by logic errors or edge cases
-- Catches a problem early, making it easier to find the cause of the bug
-- Catches a problem before it escalates into a catastrophic failure – (minimise the blast radius)
+- Always running with the program, so can catch problems caused by logic errors or edge cases.
+- Making it easier to find the cause of the bug by catching problems early.
+- Catching problems early also helps prevent them escalating into catastrophic failures. It minimises the blast radius.
 
 **Disadvantages**
 
-- Tests can slow down the program, although today this slowdown is virtually undetectable (and tests can be written “higher” than performance critical code, or can execute only for a percentage of loop iterations)
-- What is the right thing to do if an error is detected? How should this error be reported? (answer = exceptions)
+- Tests can slow down the program.
+- What is the right thing to do if an error is detected? How should this error be reported? Exceptions are a recommended route to go with this.
 
 ## Test driven development
 
@@ -560,7 +574,7 @@ One way of ensuring tests are not neglected in a project, is to adopt test-drive
 Some developers practise test-driven development, a process in which the unit tests are written before the rest of the code. The tests thus describe a “contract” that the code is expected to comply with. This ensures that the code will be correct (as far as can be enforced by the testing contract) as written, and it provides a useful framework for thinking about how the code should be designed, what interfaces it should provide, and how its algorithms might work. This can be a very satisfying mental aid in developing tricky algorithms.
 
 
-*An alternative development approach is behaviour driven development. Simply put test driven development tests "has the thing been done correctly?", behaviour driven development tests "has the correct thing been done?". It is more often used in commercial software development to focus development on making the software as simple and useful as possible for users. User experience is very rarely at the heart of code written for the purposes of research, but there are cases where such software is written with a large user-base in mind. In such cases behaviour-driven development is a path worth considering.*
+An alternative development approach is behaviour driven development. Simply put test driven development tests "has the thing been done correctly?", behaviour driven development tests "has the correct thing been done?". It is more often used in commercial software development to focus development on making the software as simple and effective as possible for users. User experience is very rarely at the heart of code written for the purposes of research, but there are cases where such software is written with a large user-base in mind. In such cases behaviour-driven development is a path worth considering.
 
 ## Checklist
 
