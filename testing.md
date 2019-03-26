@@ -56,11 +56,11 @@ There are a number of [different kinds](#Types_of_tests) of testing which have b
 
 Starting the process of writing tests can be overwhelming, especially if you have a large code base. Further to that, as mentioned, there are many kinds of tests, and implementing all of them can seem like an impossible mountain to climb. That is why the single most important piece of guidance in this chapter is as follows: **write some tests**. Testing one tiny thing in a code that's thousands of lines long is infinitely better than testing no things in a code that's thousands of lines long. You may not be able to do everything, but doing *something* is better than nothing.
 
-Do not be discouraged. Make improvements where you can, and do your best to include tests with new code you write even if it's not feasable to write tests that are already written.
+Do not be discouraged. Make improvements where you can, and do your best to include tests with new code you write even if it's not feasable to write tests for all the code that's already written.
 
 ### Run the tests
 
-the second most important piece of advice in this chapter. Run the tests. Having a beautiful, perfect test site is no use if you rarely run it. Leaving long gaps between test runs makes it more difficult to track down what has gone wrong when a test fails because a great deal in the code will have changed. Also if it's been weeks or months since tests have been run and they fail it is difficult or impossible to know what work/results that have been done in the intervening time are still valid, and which have to be thrown away as they could have been impacted by the bug.
+The second most important piece of advice in this chapter: run the tests. Having a beautiful, perfect test site is no use if you rarely run it. Leaving long gaps between test runs makes it more difficult to track down what has gone wrong when a test fails because a great deal in the code will have changed. Also if it's been weeks or months since tests have been run and they fail it is difficult or impossible to know what work/results that have been done in the intervening time are still valid, and which have to be thrown away as they could have been impacted by the bug.
 
 As such it is best to automate your testing as far as possible. If each test needs to be run individually then that boring painstaking process is likely to get neglected. Automate this using a testing tool ([discussed later](#Use_a_testing_framework)). Ideally set your tests up to run at regular intervals, possibly each night. [Jenkins](https://jenkins.io) is a good tool for this.
 
@@ -121,7 +121,7 @@ As [mentioned](#Write_tests_any_tests) any tests are an improvement over no test
 
 Most programming languages have tools either built into them, or that can be imported, or as part of testing frameworks, which automatically measure code coverage. There's also a nice little [bot](https://codecov.io/) for measuring code coverage available too.
 
-### Use test doubles where appropriate
+### Use test doubles/mocking where appropriate
 
 If a test fails it should be constructed such that is as easy to trace the source of the failure as possible.. This become problematic if a piece of code you want to test unavoidably depends on other things. For example if a test for a piece of code that interacts with the web fails that could be because the code has a bug *or* there is a problem with the internet connection. Similarly a test for a piece of code that uses an object fails it could be because there is a bug in the code being tested, or a problem with the object (which should be tested by its own, separate tests). These dependencies should be eliminated from tests, if possible. This can be done via using test replacements (test doubles) for the real dependencies. Test doubles can be classified like the following:
 
@@ -520,39 +520,38 @@ Regression tests are not guaranteed to test all parts of the code. Most importan
 
 [Talk by Chrys Woods](https://drive.google.com/file/d/1CBTAhCVixccui1DjeUT13qh6ga5SDXjl/view) [**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**](https://chryswoods.com/main/copyright.html)
 
-Functions that contain internal checks that their inputs and outputs are valid.
+Runtime tests are tests that run as part of the program itself. They may take the form of checks within the code, e.g.:
+```
+population = population + people_born - people_died
+
+// test that the population is positive
+if (population < 0):
+  error( 'The number of people can never be negative' )
+```
+
+Another example of a use of runtime tests is internal checks within functions that verify that their inputs and outputs are valid, e.g.:
 ```
 function add_arrays( array1, array2 ):
 
   // test that the arrays have the same size
   if (array1.size() != array2.size()):
-    error( ”The arrays have different sizes!” )
+    error( 'The arrays have different sizes!' )
 
   output = array1 + array2
 
   if (output.size() != array1.size()):
-    error( ”The output array has the wrong size!” )
+    error( 'The output array has the wrong size!'' )
 
   return output
 ```
 
-```
-function add_molecule(new_molecule):
-
-  total_mass = total_mass + new_molecule.mass()
-
-  // test that the total mass is positive
-  if (total_mass < 0):
-    error( ”The total mass can never be negative” )
-```
-
-**Advantages**
+Advantages of runtime testing:
 
 - Always running with the program, so can catch problems caused by logic errors or edge cases.
 - Making it easier to find the cause of the bug by catching problems early.
 - Catching problems early also helps prevent them escalating into catastrophic failures. It minimises the blast radius.
 
-**Disadvantages**
+Disadvantages of runtime testing:
 
 - Tests can slow down the program.
 - What is the right thing to do if an error is detected? How should this error be reported? Exceptions are a recommended route to go with this.
@@ -561,7 +560,7 @@ function add_molecule(new_molecule):
 
 One way of ensuring tests are not neglected in a project, is to adopt test-driven development. This is an approach in which the tests for a function, class, module or component are written before the code. The tests thus describe a “contract” that the code is expected to comply with. This ensures that the code will be correct (as far as can be enforced by the testing contract) as written, and it provides a useful framework for thinking about how the code should be designed, what interfaces it should provide, and how its algorithms might work. This can be a very satisfying mental aid in developing tricky algorithms.
 
-Once the tests are written, the code is developed so that it passes all the associated tests. Testing the code from the outset ensures that your code is always in a releasable state (as long as it passes the tests!).
+Once the tests are written, the code is developed so that it passes all the associated tests. Testing the code from the outset ensures that your code is always in a releasable state (as long as it passes the tests!). Test driven development forces you to break up your code into small discrete units, to make them easier to test; the code must be modular. The benefits of this were discussed in the section on [unit testing](#Unit_tests).
 
 An alternative development approach is behaviour driven development. Simply put test driven development tests "has the thing been done correctly?", behaviour driven development tests "has the correct thing been done?". It is more often used in commercial software development to focus development on making the software as simple and effective as possible for users. User experience is very rarely at the heart of code written for the purposes of research, but there are cases where such software is written with a large user-base in mind. In such cases behaviour-driven development is a path worth considering.
 
