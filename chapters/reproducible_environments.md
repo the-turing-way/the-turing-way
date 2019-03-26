@@ -73,12 +73,14 @@ Recommended skill level: intermediate-advanced.
 <a name="Summary"></a>
 ## Summary
 
-Every computer has its own unique computational environment consisting of its operating system, what software it has installed, what versions of software packages are installed, and other features. As a result if some research is done on one computer and then it and all its associated files are transferred to a different computer there is no guarantee the analysis will even be able to run, let alone generate the same results. Therefore in order for research to be reproducible the computational environment it was conducted in must be captured in such a way that it can be replicated by others. This chapter describes a variety of methods for capturing computational environments and gives guidance on their strengths and weaknesses.
+Every computer has its own unique computational environment consisting of its operating system, what software it has installed, what versions of software packages are installed, and other features that we will describe later. If a research project is carried out on one computer and then it and all its associated files are transferred to a different computer, there is no guarantee the analysis will even be able to run, let alone generate the same results, if the analysis is dependent on any of the considerations listed above.
+
+In order for research to be reproducible, the computational environment that it was conducted in must be captured in such a way that it can be replicated by others. This chapter describes a variety of methods for capturing computational environments and gives guidance on their strengths and weaknesses.
 
 <a name="What_is_a_computational_environment"></a>
 ### What is a computational environment?
 
-Computational environment is (in broad terms) the system setup where a program is being run. This includes features of hardware (e.g. numbers of cores in any CPUs) and features of software (e.g. the operating system, what programming languages are installed, which supporting packages/versions of those packages are included, what other pieces of software are installed and how are they configured).
+In broad terms, the computational environment is the system where a program is run. This includes features of hardware (e.g. numbers of cores in any CPUs) and features of software (e.g. the operating system, programming languages, supporting packages and other pieces of software that are installed, and their versions and configuration).
 
 Software versions are often defined via [semantic versioning](https://semver.org). In this system three numbers, e.g 2.12.4 are used to define each version of a piece of software. When a change is made to the software its version is incremented. These three numbers follow the pattern MAJOR.MINOR.PATCH, and are incremented as follows:
 
