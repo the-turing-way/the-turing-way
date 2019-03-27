@@ -203,11 +203,11 @@ Note here that version of package C used in Project Two has been updated from th
 
 All of these options are extremely poor, hence the utility of Conda for creating distinct environments which can be easily swapped between.
 
-Conda can also be used to easily capture and export computational environments, and it can go in the other direction too. I.e. it can generate computational environments from configuration files, which is useful for recreating someone else's environment.
+Conda can also be used to easily capture and export computational environments. It can go in the other direction too; it can generate computational environments from configuration files which can be used to recreate someone else's environment.
 
-Another benefit of Conda is that it offers much greater flexibility to users that do not have admin privileges on the machines they are working on (as is very common when working with high performance computing facilities). Without Conda it is typically very difficult to install required software onto such machines. However because Conda creates and changes *new* environments rather than making changes to a machine's overall system environment admin privileges are not required.
+Another benefit of Conda is that it offers much greater flexibility to users who do not have admin privileges on the machines they are working on (as is very common when working with high performance computing facilities). Without Conda it is typically very difficult to install required software onto such machines. However because Conda creates and changes *new* environments rather than making changes to a machine's overall system environment admin privileges are not required.
 
-Finally, while Conda is Python centric to a degree it is also well integrated for use with other languages, for example the base version of Conda includes the C++ standard library.
+Finally, while Conda is Python-centric to a degree it is also well integrated for use with other languages, for example the base version of Conda includes the C++ standard library.
 
 <a name="Installing_Conda"></a>
 ### Installing Conda
@@ -229,12 +229,14 @@ which should output a version number.
 <a name="Making_and_using_environments"></a>
 ### Making and using environments
 
-Conda automatically installs a base environment with some commonly used software packages. It is possible to just work in this base environment, however it is a good practise to create a new environment for each project you start. To create an environment use `conda create --name your_project_env_name` followed by a list of packages to include, for example to create an environment called Project_One that includes the packages scipy and matplotlib:
+Conda automatically installs a base environment with some commonly used software packages. It is possible to just work in this base environment, however it is good practise to create a new environment for each project you start.
+
+To create an environment use `conda create --name your_project_env_name` followed by a list of packages to include. To include the packages scipy and matplotlib, add them to the end of the command:
 ```
 conda create --name Project_One scipy matplotlib
 ```
 
-When you create an environment you have to include at least one package. To create the environment with specific versions of certain (or all) packages use `=package_number`, e.g. to specify scipy 1.2.1 in the above environment
+You can specify the versions of certain (or all) packages by using `=package_number` after the name, e.g. to specify scipy 1.2.1 in the above environment
 ```
 conda create --name Project_One scipy=1.2.1 matplotlib
 ```
@@ -244,7 +246,7 @@ When creating environments you can also specify versions of languages to install
 conda create --name Project_One python=3.7.1 scipy=1.2.1 matplotlib
 ```
 
-Now that an envronment has been created it's time to activate (start using) it via `conda activate environment_name`, so in this example:
+Now that an environment has been created it's time to activate (start using) it via `conda activate environment_name`, so in this example:
 ```
 conda activate Project_One
 ```
@@ -310,7 +312,7 @@ Although Python packages have been used in many of the examples given here Conda
 conda create --name Project_One r-base r-yaml
 ```
 
-A Conda channel is where it downloaded a package from. Common channels include Anaconda (a company which provides the `defaults` conda package channel), and conda-forge (a community-driven packaging endevour). You can explicitly install a package from a certain channel by specifying it like:
+A Conda channel is where it downloaded a package from. Common channels include Anaconda (a company which provides the `defaults` conda package channel), and conda-forge (a community-driven packaging endeavour). You can explicitly install a package from a certain channel by specifying it like:
 
 ```
 conda install -c channel_name package_name
@@ -319,14 +321,14 @@ conda install -c channel_name package_name
 <a name="Exporting_and_reproducing_computational_environments"></a>
 ### Exporting and reproducing computational environments
 
-Conda environments can be exported easily to human-readable files called YAML files. YAML files are discussed in more detail [later](#YAML_files) in this chapter.
+Conda environments can be exported easily to human-readable files in the YAML format. YAML files are discussed in more detail [later](#YAML_files) in this chapter.
 
 To export a conda environment to a file called `environment.yml` activate the environment and then run
 ```
 conda env export > environment.yml
 ```
 
-Similarly Conda environments can be created form YAML files like this via
+Similarly Conda environments can be created from YAML files via
 ```
 conda env create -f environment.yml
 ```
