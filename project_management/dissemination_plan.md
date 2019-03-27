@@ -88,6 +88,7 @@ Any blog posts and announcements will be promoted through the project members' T
 - @alex__morley (+ @mozilla for main release)
 - @martinoreilly
 - @rosiehlib
+- @rachaelevelyn
 
 ## Workshops
 The project team will run 3 workshops. 
