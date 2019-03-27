@@ -10,32 +10,23 @@
 
 ## How this will help you/ why this is useful
 
-### The advantages of testing for the researcher
+Here's some examples of why should write tests:
 
-- Why you should write tests
-  - For yourself
-    - Saves you having to redo lots of work when you realise there's a bug, catch things early.
-    - Forces you to write more modular, clean code. Improves your code quality. Much quicker and easier to work with than a tangled rats nest.
-    - You have to test your code anyway as you're writing it, you don't just write it and assume it's right. It's very little work to put those tests in a file. The time lost to incorrect results or broken code is much, much bigger.
+![testing_motivation_1](../figures/testing_motivation_1.png)
 
+![testing_motivation_2](../figures/testing_motivation_2.png)
 
-[turing testing course](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/01testingbasics.html) **Creative Commons share and remix**
-- runnable specification best way to let others know what a function should do and not do
+![testing_motivation_3](../figures/testing_motivation_3.png)
 
-A few reasons to do testing
-- lazyness testing saves time
-- peace of mind tests (should) ensure code is correct
-- reproducible debugging debugging that happened and is saved for later reuse
-- code structure / modularity since the code is designed for at least two situations
-- easier to modify since results can be tested
+It is very, very easy to make mistakes when coding. A single misplaced character can cause a program's output to be entirely wrong. One of the examples above was caused by a plus sign which should have been a minus. Another was caused by one piece of code working in meters while a piece of code written by another researcher worked in feet. *Everyone* makes mistakes, and in research the results can be catastrophic. Careers can be damaged/ended, vast sums of research funds can be wasted, and valuable time may be lost to exploring incorrect avenues. This is why tests are vital.
 
-*blog to look at https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806*
+Even if problems in a program are caught before research is published it can be difficult to figure out what results it may have contaminated and time is lost doing this, and re-running previous analysis. Catching these problems as early as possible minimises the amount of work it takes to fix them, and for most researchers time is by far their most scarce resource.
 
-Software development doesn't end when the software is written. How can you, and any developers you work with, be sure that your software meets its requirements? Does your software work as expected and will it continue to work over its lifetime?
+As researchers write code they generally do some tests as they go along, often by adding in print statements and checking the output, however these tests are often thrown away as soon as they pass and are no longer present to check what they were intended to check. it is comparatively very little work to place these tests in functions and keep them so they can be run at any time in the future. The additional labour is minimal, the time saved and safeguards provided are invaluable. Further by formalising the testing process into a set of tests that can be run independently and automatically, you provide a much greater degree of confidence that the software behaves correctly and increase the likelihood that defects will be found.
 
-Researchers do do informal testing. By formalising the testing process into a set of tests that can be run independently and automatically, you provide a much greater degree of confidence that the software behaves correctly and increase the likelihood that defects are found
+Testing also affords researchers much more peace of mind when working on/improving a project. After changing their code a researcher will want to check that their changes or fixes have not broken anything. Providing researchers with a fail-fast environment allows the rapid identification of failures introduced by changes to the code. The alternative, of the researcher whatever small tests they have time for is far inferior to a good testing suite which can thoroughly check the code.
 
-After changing your code and rebuilding it, a developer will want to check that their changes or fixes have not broken anything. Providing developers with a fail-fast environment allows the rapid identification of failures introduced by changes to the code.
+Another benefit of writing tests is that it typically forces a researcher to write cleaner, more modular code as such code is far easier to write tests for, leading to an improvement in code quality. Good quality code, if far easier, and altogether more pleasant, to work with than tangles rats nests of code I'm sure we've all come across (and, let's be honest, written). This point is expanded upon in the section on [unit tests](#Unit_tests).
 
 ### The advantages of testing for science
 
@@ -43,9 +34,7 @@ After changing your code and rebuilding it, a developer will want to check that 
   - Fewer mistakes, very costly for time and funding, include a horror story or two.
   - More reproducible. Answers the question "how do we even know this code works". If tests are never saved, just done and deleted the proof cannot be reproduced easily.
   - SSI slogan: "better software, better research".
-
-  [turing testing course](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/01testingbasics.html) **Creative Commons share and remix**
-  - runnable specification best way to let others know what a function should do and not do
+  - More effective use of money if research is *right*
 
 ## General guidance and good practice for testing
 
@@ -56,7 +45,7 @@ There are a number of [different kinds](#Types_of_tests) of testing which have b
 
 Starting the process of writing tests can be overwhelming, especially if you have a large code base. Further to that, as mentioned, there are many kinds of tests, and implementing all of them can seem like an impossible mountain to climb. That is why the single most important piece of guidance in this chapter is as follows: **write some tests**. Testing one tiny thing in a code that's thousands of lines long is infinitely better than testing no things in a code that's thousands of lines long. You may not be able to do everything, but doing *something* is better than nothing.
 
-Do not be discouraged. Make improvements where you can, and do your best to include tests with new code you write even if it's not feasable to write tests for all the code that's already written.
+Do not be discouraged. Make improvements where you can, and do your best to include tests with new code you write even if it's not feasible to write tests for all the code that's already written.
 
 ### Run the tests
 
@@ -428,7 +417,7 @@ For example, maybe a unit that reads in some data is working and passes its unit
 
 An example of an integration test for this case could be to supply a test data file, use these functions to read it in and clean it, and check the resulting cleaned data against what would be expected. If a bug like this is present then the cleaned data outputted would be very unlikely to match the expected result, and an error would be raised.
 
-Integration testing is particularly important in collaborative projects where different people work on different parts of the code. If two different people complete separate units and then need to integrate then integration issues are more likely as neither may understand the other's code.
+Integration testing is particularly important in collaborative projects where different people work on different parts of the code. If two different people complete separate units and then need to integrate then integration issues are more likely as neither may understand the other's code. A famous example of this is a multi-million dollar satellite which crashed because one group outputted distance data in feet, while another assumed data in meters. This is another example of an integration issue.
 
 A sub type of integration testing is system integration testing. This tests the integration of systems, packages and any interfaces to external organizations (e.g. Electronic Data Interchange, Internet). Depending on the nature of a project system integration testing may or may not be applicable.
 
@@ -602,6 +591,12 @@ Try reading the chapter on reproducible computational environments and then the 
 
 
 ## Bibliography
+
+### Materials used: How this will help you/ why this is useful
+
+- [Chrys Woods' talk](https://drive.google.com/file/d/1CBTAhCVixccui1DjeUT13qh6ga5SDXjl/view)
+- [Turing testing course](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/01testingbasics.html) **Creative Commons share and remix**
+- [SSI blog](https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806) **Creative Commons Attribution Non-Commercial 2.5 License.**
 
 ### Materials used: General guidance and good practice for testing
 
