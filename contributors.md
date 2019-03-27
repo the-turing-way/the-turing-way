@@ -55,6 +55,7 @@ This will give you a little introduction to the various members of the Turing Wa
 * [Sarah Gibson](#sarah-gibson) @sgibson91
 * [Louise Bowler](#louise-bowler) @LouiseABowler
 * [Rosie Higman](#rosie-higman) @rosiehigman 
+* [Rachael Ainsworth](#rachael-ainsworth) @rainsworth
 
 
 ## Contributor biographies
@@ -238,3 +239,18 @@ Working in research data management I'm naturally concerned that data is not tak
 **Why do you care about the Turing Way?**
 
 I spend much of my time talking to researchers about the overarching principles of *why* reproducible and open research is a good idea and am excited by the idea of giving people practical guidance on *how* to do this. Messy code is frequently cited in these discussions as a reason for not sharing code so if we could produce something which helps people get past this barrier would be great. I hope that the Turing Way will be something we can also use at the University of Manchester and other Turing universities around the country! 
+
+
+### Rachael Ainsworth
+
+**Who are you?**
+
+I am a Research Associate and Open Science Champion at the Jodrell Bank Centre for Astrophysics at the University of Manchester. My research involves observing jets from young stars with next-generation radio telescopes to investigate the physical processes that assemble stars like our Sun, and am currently working to make data from the radio telescope facilities at Jodrell Bank more accessible to all. I am also a FOSTER certified Open Science Trainer, Mozilla Open Leader, Organiser for the women in data meetup group HER+Data MCR and member of the first cohort of Tech Future Female Leaders. 
+
+**What are you passionate about?**
+
+I am passionate about promoting openness, transparency, reproducibility, wellbeing and inclusion in STEM and facilitating cross-stakeholder conversations in order to change research culture for the better. I also love space exploration.
+
+**Why do you care about the Turing Way?**
+
+The Turing Way goal of ensuring that reproducible data science is "too easy not to do" really resonates with me. I find that it can be difficult to get researchers to engage with reproducibility and sharing their research outputs because they perceive that it will take too much time and effort with very little reward - when the opposite is true! Ensuring results are reproducible not only benefits research as a whole and increases efficiency, but working this way also offers researchers more opportunities for impact and collaboration.
