@@ -518,8 +518,6 @@ Regression tests are not guaranteed to test all parts of the code. Most importan
 
 ## Runtime testing
 
-[Talk by Chrys Woods](https://drive.google.com/file/d/1CBTAhCVixccui1DjeUT13qh6ga5SDXjl/view) [**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**](https://chryswoods.com/main/copyright.html)
-
 Runtime tests are tests that run as part of the program itself. They may take the form of checks within the code, e.g.:
 ```
 population = population + people_born - people_died
@@ -548,7 +546,7 @@ function add_arrays( array1, array2 ):
 Advantages of runtime testing:
 
 - Always running with the program, so can catch problems caused by logic errors or edge cases.
-- Making it easier to find the cause of the bug by catching problems early.
+- Makes it easier to find the cause of the bug by catching problems early.
 - Catching problems early also helps prevent them escalating into catastrophic failures. It minimises the blast radius.
 
 Disadvantages of runtime testing:
@@ -638,7 +636,11 @@ Try reading the chapter on reproducible computational environments and then the 
 - [Examples of Regression Testing by Cem Karner](http://www.testingeducation.org/k04/RegressionExamples.htm) **Creative Commons Attribution-ShareAlike License 2.0**
 - [Adopting automated testing](https://github.com/softwaresaved/automated_testing/blob/master/README.md) **Apache License 2.0**
 
-### Test driven development
+### Materials used: Runtime testing
+
+- [Talk by Chrys Woods](https://drive.google.com/file/d/1CBTAhCVixccui1DjeUT13qh6ga5SDXjl/view) [**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**](https://chryswoods.com/main/copyright.html)
+
+### Materials used: Test driven development
 
 - [Testing your software](https://software.ac.uk/resources/guides/testing-your-software) **Creative Commons Attribution-NonCommercial 3.0 License.**
 - [Why bother](http://soundsoftware.ac.uk/unit-testing-why-bother/) **Creative Commons Attribution-NonCommercial 3.0 License.**
