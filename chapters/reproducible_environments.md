@@ -5,12 +5,11 @@
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
 | Experience with the command line | Necessary | Experience with downloading software via the command line is particularly useful |
-| Version control | Helpful | Particularly with using version control via GitHub. Only important for some subsections of this chapter. |
+| Version control | Helpful | Experience using git and GitHub are helpful for the section on [Binder](#Binder_section) |
 
 A tutorial on working via the command line can be found [here](https://programminghistorian.org/en/lessons/intro-to-bash).
 
 Recommended skill level: intermediate-advanced.
-
 ## Table of contents
 
 - [Summary](#Summary)
