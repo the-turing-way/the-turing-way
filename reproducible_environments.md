@@ -52,7 +52,7 @@ Recommended skill level: intermediate-advanced.
     - [Sharing virtual virtual machines](#Sharing_virtual_virtual_machines)
 - [Containers](#Containers_section)
   - [What are containers?](#What_are_containers)
-  - [What_are_images](#What_are_images)
+  - [What are images](#What_are_images)
   - [What is Docker?](#What_is_Docker)
   - [Installing Docker](#Installing_Docker)
   - [Key commands](#Key_commands)
