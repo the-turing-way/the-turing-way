@@ -79,6 +79,7 @@ This workshop is for Research Software Engineers and IT staff who are:
 ## Participating researchers
 *Please include titles and affiliations for all participants*
 
+- Dr Rachael Ainsworth, University of Manchester
 - Becky Arnold, University of Sheffield
 - Dr Louise Bowler, The Alan Turing Institute
 - Dr Sarah Gibson, The Alan Turing Institute
