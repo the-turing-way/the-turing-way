@@ -14,7 +14,7 @@ Recommended skill level: intermediate-advanced.
 
 - [Summary](#Summary)
   - [What is a computational environment?](#What_is_a_computational_environment)
-  - [How this will help you/ why this is useful](#How_this_will_help_you_why_this_is_useful)
+- [How this will help you/why this is useful](#How_this_will_help_you_why_this_is_useful)
 - [Summary of ways to capture computational environments](#Summary_of_ways_to_capture_computational_environments)
   - [Package management systems outline](#Package_management_systems_outline)
   - [Binder outline](#Binder_outline)
