@@ -4,10 +4,62 @@
 | -------------|------------|-------|
 | Experience with the command line | Necessary | A tutorial on working via the command line can be found [here](https://programminghistorian.org/en/lessons/intro-to-bash) |
 
+## Table of contents
 
+<a name="Summary"></a>
 ## Summary
 
+<a name="How_this_will_help_you_why_this_is_useful"></a>
+## How this will help you/ why this is useful
 
+<a name="The_advantages_of_testing_for_research"></a>
+### The advantages of testing for research
+
+<a name="General_guidance_and_good_practice_for_testing"></a>
+## General guidance and good practice for testing
+
+<a name="Write_tests_any_tests"></a>
+### Write tests. Any tests.
+
+<a name="Run_the_tests"></a>
+### Run the tests
+
+<a name="Consider_how_long_it_takes_your_tests_to_run"></a>
+### Consider how long it takes your tests to run
+
+<a name="Document_the_tests_and_how_to_run_them"></a>
+### Document the tests and how to run them
+
+<a name="Test_realistic_cases"></a>
+### Test realistic cases
+
+<a name="Use_a_testing_framework"></a>
+### Use a testing framework
+
+<a name="Aim-to_have_a_good_code_coverage"></a>
+### Aim to have a good code coverage
+
+<a name="Use_test_doubles_mocking_where_appropriate"></a>
+### Use test doubles/mocking where appropriate
+
+<a name="Testing_stochastic_code"></a>
+### Testing stochastic code
+
+<a name="Use_random_number_seeds"></a>
+#### Use random number seeds
+
+<a name="Measure_the_distribution_of_results"></a>
+#### Measure the distribution of results
+
+<a name="Tests_that_are_difficult_to_quantify"></a>
+### Tests that are difficult to quantify
+
+<a name="Summary"></a>
+## Summary
+
+Researcher-written code now forms a part of huge portion of research. If there are mistakes in the code the result may be partly or entirely unreliable. Testing code thoroughly and frequently is vital to ensure reliable, reproducible research. This chapter will cover general guidance for writing tests, and describes a number of different kinds of testing, their uses, and how to go about implementing them.
+
+<a name="How_this_will_help_you_why_this_is_useful"></a>
 ## How this will help you/ why this is useful
 
 Here's some examples of why should write tests:
@@ -28,6 +80,7 @@ Testing also affords researchers much more peace of mind when working on/improvi
 
 Another benefit of writing tests is that it typically forces a researcher to write cleaner, more modular code as such code is far easier to write tests for, leading to an improvement in code quality. Good quality code, if far easier, and altogether more pleasant, to work with than tangles rats nests of code I'm sure we've all come across (and, let's be honest, written). This point is expanded upon in the section on [unit tests](#Unit_tests).
 
+<a name="The_advantages_of_testing_for_research"></a>
 ### The advantages of testing for research
 
 As well as advantaging individual researchers testing also benefits research as a whole. It makes research more reproducible by answering the question "how do we even know this code works". If tests are never saved, just done and deleted the proof cannot be reproduced easily.
@@ -36,6 +89,7 @@ Testing also helps prevent valuable grant money being spent on project that may 
 
 Perhaps the cleanest expression of why testing is important for research as a whole can be found in the [Software Sustainability Institute](https://www.software.ac.uk/) slogan: better software better research.
 
+<a name="General_guidance_and_good_practice_for_testing"></a>
 ## General guidance and good practice for testing
 
 There are a number of [different kinds](#Types_of_tests) of testing which have best practice specific to them, however there are some general guidance that applies to all of them, which will be outlined here.
@@ -47,6 +101,7 @@ Starting the process of writing tests can be overwhelming, especially if you hav
 
 Do not be discouraged. Make improvements where you can, and do your best to include tests with new code you write even if it's not feasible to write tests for all the code that's already written.
 
+<a name="Run_the_tests"></a>
 ### Run the tests
 
 The second most important piece of advice in this chapter: run the tests. Having a beautiful, perfect test site is no use if you rarely run it. Leaving long gaps between test runs makes it more difficult to track down what has gone wrong when a test fails because a great deal in the code will have changed. Also if it's been weeks or months since tests have been run and they fail it is difficult or impossible to know what work/results that have been done in the intervening time are still valid, and which have to be thrown away as they could have been impacted by the bug.
@@ -55,10 +110,12 @@ As such it is best to automate your testing as far as possible. If each test nee
 
 Consider setting up continuous integration (discussed in the continuous integration chapter) on your project. This will automatically run your tests each time you make a change to your code and, depending on the continuous integration software you use, will notify you if any of the tests fail.
 
+<a name="Consider_how_long_it_takes_your_tests_to_run"></a>
 ### Consider how long it takes your tests to run
 
 Some tests, like [unit tests](#Unit_tests) only test a small piece of code and so typically very fast. However [system tests](#System_tests) test the entire code from end to end, and so may take a long time to run depending on the code. As such it can be obstructive to run the entire test suite after each little bit of work. In that case it is better to run lighter weight tests such as unit tests frequently, and longer tests only once per day overnight.  
 
+<a name="Document_the_tests_and_how_to_run_them"></a>
 ### Document the tests and how to run them
 
 It is important to provide documentation that describes how to run the tests, both for yourself in case you come back to a project in the future, and for anyone else that may wish to build upon or reproduce your work. This documentation should also cover subjects such as
@@ -69,6 +126,7 @@ It is important to provide documentation that describes how to run the tests, bo
 
 Ideally, you would provide scripts to set up and configure any resources that are needed.
 
+<a name="Test_realistic_cases"></a>
 ### Test realistic cases
 
 Make the cases you test as realistic as possible. If for example, you have dummy data to run tests on then make that data as similar as possible to your actual data. If your actual data is messy with a lot of null values, so should your test dataset be.
@@ -102,6 +160,7 @@ There are tools available to make writing and running tests easier, these are kn
   - funit
   - pfunit(works with MPI)
 
+<a name="Aim-to_have_a_good_code_coverage"></a>
 ### Aim to have a good code coverage
 
 Code coverage is a measure of how much of your code is "covered" by tests. More precicely it a measure of how much of your code is run when tests are conducted. So for example, if you have a `if` statement but only test things where that if statement evaluates to "True" then none of the code that comes under "False", or that would be used when the statement is false will be run. As a result your code coverage would be < 100% (the exact number would depend on how much code comes under the True and False cases). Code coverage doesn't include documentation like comments, so adding more documentation doesn't affect your percentages.
@@ -110,6 +169,7 @@ As [mentioned](#Write_tests_any_tests) any tests are an improvement over no test
 
 Most programming languages have tools either built into them, or that can be imported, or as part of testing frameworks, which automatically measure code coverage. There's also a nice little [bot](https://codecov.io/) for measuring code coverage available too.
 
+<a name="Use_test_doubles_mocking_where_appropriate"></a>
 ### Use test doubles/mocking where appropriate
 
 If a test fails it should be constructed such that is as easy to trace the source of the failure as possible.. This become problematic if a piece of code you want to test unavoidably depends on other things. For example if a test for a piece of code that interacts with the web fails that could be because the code has a bug *or* there is a problem with the internet connection. Similarly a test for a piece of code that uses an object fails it could be because there is a bug in the code being tested, or a problem with the object (which should be tested by its own, separate tests). These dependencies should be eliminated from tests, if possible. This can be done via using test replacements (test doubles) for the real dependencies. Test doubles can be classified like the following:
@@ -123,10 +183,12 @@ Test doubles can be passed to other objects which are tested.
 
 You can create mock objects manually (via code) or use a mock framework to simulate these classes. Mock frameworks allow you to create mock objects at runtime and define their behaviour. The classical example for a mock object is a data provider. In production an implementation to connect to the real data source is used. But for testing a mock object simulates the data source and ensures that the test conditions are always the same.
 
+<a name="Testing_stochastic_code"></a>
 ### Testing stochastic code
 
 Sometimes code contains an element of randomness, a common example being code that makes use of [Monte Carlo methods](https://en.wikipedia.org/wiki/Monte_Carlo_method). Testing this kind of code can be very difficult because if it is run multiple times it will generate different answers, all of which may be "right", even is it contains no bugs. There are two main ways to tackle testing stochastic code:
 
+<a name="Use_random_number_seeds"></a>
 #### Use random number seeds
 
 Random number seeds are a little difficult to explain so here's an example. Here's a little python script that prints three random numbers.
@@ -181,12 +243,14 @@ def my_function()
 
 If you set the random number seed you will always get the same value of `c`, so it can be tested. But, say the model is changed and the function that calculates `a` uses a different number of random numbers that it did previously. Now not only will `a` be different but `b` will be too, because as shown above the random numbers outputted given a random number seed are in a fixed order. As a result the random numbers produced to calculate `b` will have changed. This can lead to tests failing when there is in fact no bug.
 
+<a name="Measure_the_distribution_of_results"></a>
 #### Measure the distribution of results
 
 Another way to test code with a random output is to run it many times and test the distribution of the results. Perhaps the result may fluctuate a little, but is always expected around 10 within some tolerance. That can be tested. The more times the code is run the more reliable the average and so the result. However the more times you run a piece of code the longer it will take your tests to run, which may make tests prohibitively time-consuming to run if a reliable result is to be obtained. Furthermore there will always be an element of uncertainty and if the random numbers happen to fall in a certain way you may happen to get result outside of the expected tolerance even if the code is correct.
 
 Both of these approaches to testing stochastic code can still be very useful, but it is important to also be aware of potential pitfalls.
 
+<a name="Tests_that_are_difficult_to_quantify"></a>
 ### Tests that are difficult to quantify
 
 Sometimes (particularly in research) the outputs of code are tested according to whether they "look" right. For example say we have a code modelling the water levels in a reservoir over time. The result may look like this:
