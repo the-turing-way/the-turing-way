@@ -6,53 +6,47 @@
 
 ## Table of contents
 
-<a name="Summary"></a>
-## Summary
-
-<a name="How_this_will_help_you_why_this_is_useful"></a>
-## How this will help you/ why this is useful
-
-<a name="The_advantages_of_testing_for_research"></a>
-### The advantages of testing for research
-
-<a name="General_guidance_and_good_practice_for_testing"></a>
-## General guidance and good practice for testing
-
-<a name="Write_tests_any_tests"></a>
-### Write tests. Any tests.
-
-<a name="Run_the_tests"></a>
-### Run the tests
-
-<a name="Consider_how_long_it_takes_your_tests_to_run"></a>
-### Consider how long it takes your tests to run
-
-<a name="Document_the_tests_and_how_to_run_them"></a>
-### Document the tests and how to run them
-
-<a name="Test_realistic_cases"></a>
-### Test realistic cases
-
-<a name="Use_a_testing_framework"></a>
-### Use a testing framework
-
-<a name="Aim-to_have_a_good_code_coverage"></a>
-### Aim to have a good code coverage
-
-<a name="Use_test_doubles_mocking_where_appropriate"></a>
-### Use test doubles/mocking where appropriate
-
-<a name="Testing_stochastic_code"></a>
-### Testing stochastic code
-
-<a name="Use_random_number_seeds"></a>
-#### Use random number seeds
-
-<a name="Measure_the_distribution_of_results"></a>
-#### Measure the distribution of results
-
-<a name="Tests_that_are_difficult_to_quantify"></a>
-### Tests that are difficult to quantify
+1. [Summary](#Summary)
+2. [How this will help you/ why this is useful](#How_this_will_help_you_why_this_is_useful)
+    1. [The advantages of testing for research](#The_advantages_of_testing_for_research)
+3. [General guidance and good practice for testing](#General_guidance_and_good_practice_for_testing)
+    1. [Write tests. Any tests.](#Write_tests_any_tests)
+    2. [Run the tests](#Run_the_tests)
+    3. [Consider how long it takes your tests to run](#Consider_how_long_it_takes_your_tests_to_run)
+    4. [Document the tests and how to run them](#Document_the_tests_and_how_to_run_them)
+    5. [Test realistic cases](#Test_realistic_cases)
+    6. [Use a testing framework](#Use_a_testing_framework)
+    7. [Aim to have a good code coverage](#Aim_to_have_a_good_code_coverage)
+    8. [Use test doubles/mocking where appropriate](#Use_test_doubles_mocking_where_appropriate)
+    9. [Testing stochastic code](#Testing_stochastic_code)
+        1. [Use random number seeds](#Use_random_number_seeds)
+        2. [Measure the distribution of results](#Measure_the_distribution_of_results)
+    10. [Tests that are difficult to quantify](#Tests_that_are_difficult_to_quantify)
+    11. [Code review](#Code_review)
+    12. [Testing if non-integer numbers are equal](#Testing_if_non_integer_numbers_are_equal)
+        1. [When 0.1 + 0.2 does not equal 0.3](#When_point_1_plus_point_2_does_not_equal_point_3)
+        2. [Equality in a floating point world](#Equality_in_a_floating_point_world)
+4. [Types of tests](#Types_of_tests)
+    1. [Level summary](#Level_summary)
+5. [Smoke testing](#Smoke_testing)
+6. [Unit tests](#Unit_tests)
+    1. [Benefits of unit testing](#Benefits_of_unit_testing)
+    2. [Unit testing tips](#Unit_testing_tips)
+7. [Integration testing](#Integration_testing)
+    1. [Approaches](#Approaches)
+    2. [Integration testing tips](#Integration_testing_tips)
+8. [System tests](#System_tests)
+    1. [Good practice for system testing](#Good_practice_for_system_testing)
+9. [Acceptance testing](#Acceptance_testing)
+10. [Regression testing](#Regression_testing)
+    1. [Limitations](#Limitations)
+11. [Runtime testing](#Runtime_testing)
+12. [Test driven development](#Test_driven_development)
+13. [Checklist](#Checklist)
+14. [What to learn next](#What_to_learn_next)
+15. [Further reading](#Further reading)
+16. [Definitions/glossary](#Definitions_glossary)
+17. [Bibliography](#Bibliography)
 
 <a name="Summary"></a>
 ## Summary
@@ -160,7 +154,7 @@ There are tools available to make writing and running tests easier, these are kn
   - funit
   - pfunit(works with MPI)
 
-<a name="Aim-to_have_a_good_code_coverage"></a>
+<a name="Aim_to_have_a_good_code_coverage"></a>
 ### Aim to have a good code coverage
 
 Code coverage is a measure of how much of your code is "covered" by tests. More precicely it a measure of how much of your code is run when tests are conducted. So for example, if you have a `if` statement but only test things where that if statement evaluates to "True" then none of the code that comes under "False", or that would be used when the statement is false will be run. As a result your code coverage would be < 100% (the exact number would depend on how much code comes under the True and False cases). Code coverage doesn't include documentation like comments, so adding more documentation doesn't affect your percentages.
@@ -271,14 +265,17 @@ All of these outputs are valid, but if a researcher sees a result like this:
 
 they could easily conclude there is a bug as a lake is unlikely to triple it's volume and then lose it again in the space of a few hours. "Eyeballing" tests like these are time consuming as they must be done by a human. However the process can be partially or fully automated by creating basic "sanity checks". For example the water level at one time should be within, say, 10% of the water level at the previous time step. Another check could be that there are no negative values, as a lake can't be -30% full. These sort of tests can't cover every way something can go wrong, but they are much easier to automate and will suffice for most cases.
 
+<a name="Code_review"></a>
 ### Code review
 
 Code review is a way of testing code quality. In a programmer sits down and looks at and reviews another's code. The goal is to point out strengths and also potential areas of improvement. Code review is often done in pairs, with each reviewer also having code reviewed by the other. Doing this can help programmers see and discuss issues, alternative approaches to tasks, and learn tips and tricks.
 
 Because of their nature code reviews act a qualitative rather than quantitive tests, but are no less valuable for that.
 
+<a name="Testing_if_non_integer_numbers_are_equal"></a>
 ### Testing if non-integer numbers are equal
 
+<a name="When_point_1_plus_point_2_does_not_equal_point_3"></a>
 #### When 0.1 + 0.2 does not equal 0.3
 
 There is a complication with testing if the answer a piece of code outputs is equal to the expected answer when the numbers are not integers. let's look at this Python example, but note that this problem is not unique to python.
@@ -305,6 +302,7 @@ If we show the value of `a` plus `b` directly, we can see there is a subtle marg
 
 This is because floating point numbers are approximations of real numbers. The result of floating point calculations can depend upon the compiler or interpreter, processor or system architecture and number of CPUs or processes being used. Obviously this can present a major obstacle for writing tests
 
+<a name="Equality_in_a_floating_point_world"></a>
 #### Equality in a floating point world
 
 When comparing floating point numbers for equality, we have to compare to within a given tolerance, alternatively termed a threshold or delta. For example, we might consider A equal to B if the absolute value of the difference between A and B is within the absolute value of our tolerance.
@@ -342,7 +340,7 @@ Firstly there are positive tests and negative tests. Positive tests check that s
 In addition to these two kinds of tests there are also different levels of tests which test different aspects of a project. These levels are outline [below](#Level_summary) and both positive and negative tests can be present in any of these levels. A thorough test suite will contain tests at all of these levels (though some levels will need very few).
 
 <a name="Level_summary"></a>
-### Level	summary
+### Level summary
 
 Smoke testing: Very brief initial checks that ensures the basic requirements required to run the project hold. If these fail there is no point proceeding to additional levels of testing until they are fixed.
 
@@ -360,6 +358,7 @@ There is also another kind of testing called regression testing. Regression test
 
 These different types of tests will now be discussed in more detail.
 
+<a name="Smoke_testing"></a>
 ## Smoke testing
 
 Smoke tests (also known as build verification tests) are a special kind of initial checks designed to ensure very basic functionality as well as some basic implementation and environmental assumptions. Smoke tests are generally run at the very start of each testing cycle as a sanity check before running a more complete test suite.
@@ -375,6 +374,7 @@ Unit tests are essential to test the correctness of individual code components f
 
 Often, after any smoke tests, unit tests are the first tests that are run when any changes are made.
 
+<a name="Benefits_of_unit_testing"></a>
 ### Benefits of unit testing
 
 If a researcher makes a change to a piece of code or how it is run then how can they be sure that doing so has not broken something? They may run a few tests, but without testing every small piece of code individually how can they be certain? Unit testing gives researchers that certainty, and allows them to be confident when changing and maintaining their code.
@@ -402,6 +402,7 @@ Modular code is much easier to reuse, for example if a researcher has a individu
 
 Modular code also has the benefit that even if a bug is introduced the unintended impact of changes to any code is likely to be lessened or limited to that module.
 
+<a name="Unit_testing_tips"></a>
 ### Unit testing tips
 
 - Many testing frameworks have tools specifically geared towards writing and running unit tests.
@@ -473,6 +474,7 @@ def test_adult_or_child():
       adult_or_child(-10)
 ```
 
+<a name="Integration_testing"></a>
 ## Integration testing
 
 Integration testing is a level of software testing where individual units are combined and tested as a group. While unit tests validate the functionality of code in isolation, integration tests ensure that components cooperate when interfacing with one another. The purpose of this level of testing is to expose faults in the interaction between integrated units.
@@ -485,6 +487,7 @@ Integration testing is particularly important in collaborative projects where di
 
 A sub type of integration testing is system integration testing. This tests the integration of systems, packages and any interfaces to external organizations (e.g. Electronic Data Interchange, Internet). Depending on the nature of a project system integration testing may or may not be applicable.
 
+<a name="Approaches"></a>
 ### Approaches
 
 There are several different approaches to integration testing. Big Bang is an approach to integration testing where all or most of the units are combined together and tested at one go. This approach is taken when the testing team receives the entire software in a bundle. So what is the difference between Big Bang integration testing and system testing? Well, the former tests only the interactions between the units while the latter tests the entire system.
@@ -518,6 +521,7 @@ Bottom Up is an approach to integration testing where integration between bottom
 
 Sandwich/Hybrid is an approach to integration testing which is a combination of Top Down and Bottom Up approaches.
 
+<a name="Integration_testing_tips"></a>
 ### Integration testing tips
 
 - Ensure that you have a proper Detail Design document where interactions between each unit are clearly defined. It is difficult or impossible to perform integration testing without this information.
@@ -538,6 +542,7 @@ System testing can also test features of the system other than correctness. Exam
 - Usability testing: how user-friendly is the program (more common in commercial software, tests typically conducted by humans rather than automated)
 - Recovery testing: Can the program continue if errors occur (again, more common in commercial software).
 
+<a name="Good_practice_for_system_testing"></a>
 ### Good practice for system testing
 
 System tests, also called end-to-end tests, run the program, well, from end to end. As such these are the most time consuming tests to run. Therefore you should only run these if all the lower-level tests (smoke, unit, integration) have already passed. If they haven't fix the issue they have detected first before wasting time running system tests.
@@ -550,12 +555,14 @@ Because of their time-consuming nature it will also often be impractical to have
 
 Because system tests can be time consuming it may be impractical to run them very regularly (such as multiple times a day after small changes in the code). Therefore it can be a good idea to run them each night (and to automate this process) so that if errors are introduced that only system testing can detect the programmer will be made of them relatively quickly.
 
+<a name="Acceptance_testing"></a>
 ## Acceptance testing
 
 Acceptance tests are one of the last tests types that are performed on software prior to delivery. Acceptance testing is used to determine whether a piece of software satisfies all of the requirements from the business or user's perspective. Does this piece of software do what it needs to do? These tests are sometimes built against the original specification, and in commercial software often test interfaces for the expected functionality and for usability.
 
 Because research software is typically written by the researcher that will use it (or at least with significant input from them) acceptance tests may not be necessary.
 
+<a name="Regression_testing"></a>
 ## Regression testing
 
 Regression testing is a style of testing that focuses on retesting after changes are made. The results of tests after the changes are compared to the results before, and errors are raised if these are different. Regression testing is intended to ensure that changes (enhancements or defect fixes) to the software have not adversely affected it. The likelihood of any code change impacting functionalities that are not directly associated with the code is always there and it is essential that regression testing is conducted to make sure that fixing one thing has not broken another. Regression testing can be performed during any level of testing (unit, integration, system, or acceptance) but it is mostly relevant during system testing. Any test can be reused, and so any test can become a regression test.
@@ -572,10 +579,12 @@ Regression testing approaches differ in their focus. Common examples include:
 - Conversion or port testing: The program is ported to a new platform and a subset of the regression test suite is run to determine whether the port was successful.
 - Configuration testing: The program is run with a new device or on a new version of the operating system or in conjunction with a new application. This is like port testing except that the underlying code hasn't been changed--only the external components that the software under test must interact with.
 
+<a name="Limitations"></a>
 ### Limitations
 
 Regression tests are not guaranteed to test all parts of the code. Most importantly, regression tests do not test if the result outputted by a piece of code is *correct*, only that is has not changed. This the remit of other kinds of tests, though regression tests can serve as the starting point for introducing tests for correctness, by both the use of analytical solutions, and test functions which read output files and check the data for correctness, as defined by a researcher.
 
+<a name="Runtime_testing"></a>
 ## Runtime testing
 
 Runtime tests are tests that run as part of the program itself. They may take the form of checks within the code, e.g.:
@@ -614,6 +623,7 @@ Disadvantages of runtime testing:
 - Tests can slow down the program.
 - What is the right thing to do if an error is detected? How should this error be reported? Exceptions are a recommended route to go with this.
 
+<a name="Test_driven_development"></a>
 ## Test driven development
 
 One way of ensuring tests are not neglected in a project, is to adopt test-driven development. This is an approach in which the tests for a function, class, module or component are written before the code. The tests thus describe a “contract” that the code is expected to comply with. This ensures that the code will be correct (as far as can be enforced by the testing contract) as written, and it provides a useful framework for thinking about how the code should be designed, what interfaces it should provide, and how its algorithms might work. This can be a very satisfying mental aid in developing tricky algorithms.
@@ -622,15 +632,18 @@ Once the tests are written, the code is developed so that it passes all the asso
 
 An alternative development approach is behaviour driven development. Simply put test driven development tests "has the thing been done correctly?", behaviour driven development tests "has the correct thing been done?". It is more often used in commercial software development to focus development on making the software as simple and effective as possible for users. User experience is very rarely at the heart of code written for the purposes of research, but there are cases where such software is written with a large user-base in mind. In such cases behaviour-driven development is a path worth considering.
 
+<a name="Checklist"></a>
 ## Checklist
 
-
+<a name="What_to_learn_next"></a>
 ## What to learn next
 
 Try reading the chapter on reproducible computational environments and then the chapter on continuous integration.
 
+<a name="Further_reading"></a>
 ## Further reading
 
+<a name="Definitions_glossary"></a>
 ## Definitions/glossary
 
 *define all the differen't kinds of testing*
@@ -667,7 +680,7 @@ Try reading the chapter on reproducible computational environments and then the 
 
 - **Unit test:** A test that checks the behaviour of a unit.
 
-
+<a name="Bibliography"></a>
 ## Bibliography
 
 ### Materials used: How this will help you/ why this is useful
