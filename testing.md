@@ -633,25 +633,39 @@ Try reading the chapter on reproducible computational environments and then the 
 
 ## Definitions/glossary
 
-*define all the differen't kinds of testing *
+*define all the differen't kinds of testing*
 
-- **:**
-
-- **:**
+- **Acceptance test:** A test that the program meets the project's fundamental requirements.
 
 - **Code coverage:** Code coverage is a measure which describes how much of the source code is exercised by the test suite.
 
-- **:**
+- **End to end test:** A test that runs the program from beginning to end and verifies that the output is correct.
+
+- **Integration test:** A tests where units of code are combined and run and the output is verified to check the units have been correctly integrated.
 
 - **Mocking:** Replace a real object with a pretend one to run tests upon.
 
-- **:**
+- **Regression test:** Comparing the result of a test before and after the code has been altered. If the output has changed a problem has been introduced somewhere in the program.
 
-- **Test driven development:**
+- **Runtime test:** Tests embedded within the main program which are run as part of it.
 
-- **:**
+- **Smoke test:** Very brief initial checks that ensures the basic requirements required to run the project hold.
 
-- **:**
+- **Stochastic code:** Code which, while correct, does not always output the same result. For example a program that outputs ten random numbers will generate a different result each time, despite being correct.
+
+- **System test:** See "end to end test".
+
+- **Test driven development:** A process of code development where unit tests are written before the units themselves.
+
+- **Test stub:** Fake implementations of parts of code which are used in testing to remove dependences.
+
+- **Test suite:** The tests that have been written for a project.
+
+- **Testing framework:** Tools for making writing and running tests less labour intensive.
+
+- **Unit:** A small piece of code that does one simple thing. It usually has one or a few inputs and usually a single output.
+
+- **Unit test:** A test that checks the behaviour of a unit.
 
 
 ## Bibliography
