@@ -43,6 +43,8 @@
 11. [Runtime testing](#Runtime_testing)
 12. [Test driven development](#Test_driven_development)
 13. [Checklist](#Checklist)
+    1. [Writing tests](#Writing_tests)
+    2. [Good practice checks](#Good_practice_checks)
 14. [What to learn next](#What_to_learn_next)
 15. [Further reading](#Further_reading)
 16. [Definitions/glossary](#Definitions_glossary)
@@ -130,10 +132,8 @@ Make the cases you test as realistic as possible. If for example, you have dummy
 
 There are tools available to make writing and running tests easier, these are known as testing frameworks. Find one you like, learn about the features it offers, and make use of them. Common testing frameworks (and the languages they apply to) include:
 
--Language agnostic
-  - CTest
-    - Test runner for executables, bash scripts, etc...
-    - Great for legacy code hardening
+- Language agnostic
+  - CTest, test runner for executables, bash scripts, etc. Great for legacy code hardening
 - C++
   - Catch
   - CppTest
@@ -635,6 +635,30 @@ An alternative development approach is behaviour driven development. Simply put 
 <a name="Checklist"></a>
 ## Checklist
 
+Tis checklist contains a lot of items. As [mentioned](#Write_tests_any_tests) it is far better to do some of the items than none of them. Do not be discouraged if this list of tasks seems insurmountable.
+
+<a name="Writing_tests"></a>
+### Writing tests
+
+- [ ] Write a few smoke tests.
+- [ ] Write unit tests for all your code units.
+- [ ] Write integration tests to check the integration between units.
+- [ ] Write a few system tests. Prioritise common and important paths through the program.
+- [ ] Write regression tests. Regression tests can exist at any level of teaching.
+- [ ] If appropriate for your project write acceptance tests.
+- [ ] Add a few runtime tests into your project.
+
+<a name="Good_practice_checks"></a>
+### Good practice checks
+
+- [ ] Document the tests and how to run them.
+- [ ] Pick and make use of a testing framework.
+- [ ] Run the tests regularly.
+  - [ ] Automate the process of running tests. Consider making use of continuous integration to do this.
+- [ ] Check the code coverage of your tests and try to improve it.
+- [ ] Engage in code review with a partner.
+
+
 <a name="What_to_learn_next"></a>
 ## What to learn next
 
@@ -642,6 +666,8 @@ Try reading the chapter on reproducible computational environments and then the 
 
 <a name="Further_reading"></a>
 ## Further reading
+
+[TutorialsPoint](https://www.tutorialspoint.com/software_testing/) has a number of useful tutorials related to testing,as does the [Turing Institute](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/01testingbasics.html).
 
 <a name="Definitions_glossary"></a>
 ## Definitions/glossary
@@ -692,7 +718,7 @@ Try reading the chapter on reproducible computational environments and then the 
 ### Materials used: General guidance and good practice for testing
 
 - [SSI blog on testing software](https://www.software.ac.uk/resources/guides/testing-your-software?_ga=2.39233514.830272891.1552653652-1336468516.1531506806) **Creative Commons Attribution Non-Commercial 2.5 License.**
-- [Turing testing course basics](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/03pytest.html) **Creative Commons share and remix**
+- [Turing testing course](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/03pytest.html) **Creative Commons share and remix**
 - [Mocking](https://www.vogella.com/tutorials/Mockito/article.html)**Attribution-NonCommercial-ShareAlike 3.0 Germany (CC BY-NC-SA 3.0 DE)**
 - [Testing with floating points](https://github.com/softwaresaved/automated_testing/blob/master/README.md) **Apache License 2.0**
 
