@@ -22,11 +22,15 @@ We hosted the first ever Build a BinderHub workshop in Sheffield on 18 March 201
 In addition to learning how to build a BinderHub (and having the most BinderHubs ever in existence in parallel!), participants were introduced to [Mozilla's principles of working openly](http://mozillascience.github.io/working-open-workshop/).
 They practically applied the principles and fed back ideas for new features to the Binder community or enhanced the existing documentation.
 
+Look at all the fun we had! 
+{image}
+
 All workshop materials are available on our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/) and can be re-used to run your own Binder based sessions!
 
 ## Handbook
 Our handbook is shaping up and most of the chapters are written and ready for review.
-We've moved them into a [separate repository](https://github.com/alan-turing-institute/the-turing-way-book/) for the book and are working on turning it into a jupyterbook for the launch.
+We will move them into a separate repository for the book and are working on turning it into a jupyterbook for the launch. 
+We will let you know all the details in our post-launch update newsletter in April.
 
 ### Rewriting history
 The main project repository ([https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)) was getting really big because we had a lot of large powerpoint slides in there.
