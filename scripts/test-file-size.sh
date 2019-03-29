@@ -1,6 +1,7 @@
 #! /bin/bash
-# add any files you want the test to ignore between the two ENDOFLIST placeholders. 
-# one file per line
+# Add file paths to any files test should ignore between the two ENDOFLIST placeholders. 
+# Specify file paths relative to the root of the repository, one file path per line.
+# To test locally, ensure script is run from the root repository. 
 read -r -d '' IGNORE_LIST <<'ENDOFLIST'
 ./conferences/presentations/MRCBSU_20190320/Whitaker_MRCBSU_TheTuringWay_March2019.pdf
 ENDOFLIST
