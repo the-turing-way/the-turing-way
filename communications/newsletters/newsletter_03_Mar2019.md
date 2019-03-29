@@ -30,7 +30,7 @@ All workshop materials are available on our [GitHub repository](https://github.c
 ## Handbook
 Our handbook is shaping up and most of the chapters are written and ready for review.
 We will move them into a separate repository for the book and are working on turning it into a jupyterbook for the launch. 
-We will let you know all the details in our post-launch update newsletter in April.
+Details will follow in our post-launch update newsletter in April.
 
 ### Rewriting history
 The main project repository ([https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)) was getting really big because we had a lot of large powerpoint slides in there.
