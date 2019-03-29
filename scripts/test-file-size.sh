@@ -8,13 +8,13 @@ ENDOFLIST
 echo "Performing file size checks..."
 echo
 echo "Ignoring known large files:"
-echo -e "$IGNORE_LIST"
+echo "$IGNORE_LIST"
 echo
-FIND_IGNORES=$(printf "! -path %s" "${IGNORE_LIST}")
+FIND_IGNORES=$(printf "! -path %s " ${IGNORE_LIST})
 BIG_FILES=$(find .  -size +5M  -type f ${FIND_IGNORES} ! -path "./.git/*" -print)
 if [ ! -z "$BIG_FILES" ]; then
     echo "Error, unexpected large (data?) files found:" 1>&2
-    echo -e "$BIG_FILES" 1>&2
+    echo "$BIG_FILES" 1>&2
     exit -1
 else
     echo "No large files found."
