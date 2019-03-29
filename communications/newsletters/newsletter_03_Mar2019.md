@@ -22,8 +22,8 @@ We hosted the first ever Build a BinderHub workshop in Sheffield on 18 March 201
 In addition to learning how to build a BinderHub (and having the most BinderHubs ever in existence in parallel!), participants were introduced to [Mozilla's principles of working openly](http://mozillascience.github.io/working-open-workshop/).
 They practically applied the principles and fed back ideas for new features to the Binder community or enhanced the existing documentation.
 
-Look at all the fun we had! 
-{image}
+Look at all the fun (and some of the food) we had! 
+![]()
 
 All workshop materials are available on our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/) and can be re-used to run your own Binder based sessions!
 
