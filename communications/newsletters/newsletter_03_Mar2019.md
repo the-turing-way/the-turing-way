@@ -28,6 +28,16 @@ All workshop materials are available on our [GitHub repository](https://github.c
 Our handbook is shaping up and most of the chapters are written and ready for review.
 We've moved them into a [separate repository](https://github.com/alan-turing-institute/the-turing-way-book/) for the book and are working on turning it into a jupyterbook for the launch.
 
+### Rewriting history
+The main project repository ([https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)) was getting really big because we had a lot of large powerpoint slides in there.
+So this week we "re-wrote" git history to remove those commits and slim the repository down to a svelt 60MB.
+All the slides from the talks are still available, we just moved them to a [collection on Zenodo](https://github.com/alan-turing-institute/the-turing-way/pull/196/files)....following our own advice in the [data management chapter](https://github.com/alan-turing-institute/the-turing-way/pull/196) of the Turing Way!
+
+If you had locally cloned the GitHub repository, or if you had a fork of it, you'll find that these are no longer linked.
+Please re-clone and/or re-fork, and let us know if you have any questions.
+Sorry for the confusion!
+Hopefully we won't do this again :)
+
 ### Join us for the launch!
 Most of the Turing Way team will be at the [Software Sustainability Institute's Collaborations Workshop](https://www.software.ac.uk/cw19) in Loughborough 1 - 3 April 2019. 
 We hope to see many of you there for [the launch demo](https://software.ac.uk/blog/2019-02-21-inspiring-demos-are-waiting-you-collaborations-workshop-2019) of our handbook and plenty of insightful discussions!
