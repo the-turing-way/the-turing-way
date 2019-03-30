@@ -1,5 +1,5 @@
 # The Turing Way
-[![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://badges.gitter.im/alan-turing-institute/the-turing-way.svg?style=flat-square)](https://gitter.im/alan-turing-institute/the-turing-way) [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg?style=flat-square)](https://tinyletter.com/TuringWay) [![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors) 
+[![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://badges.gitter.im/alan-turing-institute/the-turing-way.svg?style=flat-square)](https://gitter.im/alan-turing-institute/the-turing-way) [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg?style=flat-square)](https://tinyletter.com/TuringWay) [![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors) [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://github.com/alan-turing-institute/the-turing-way-book)
 
 The Turing Way is a lightly opinionated guide to reproducible data science.
 
@@ -23,6 +23,8 @@ Sharing these research outputs means understanding data management, library scie
 It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
 This project is openly developed and any and all questions, comments and recommendations are welcome at our github repository: https://github.com/alan-turing-institute/the-turing-way.
 
+To manage this repository better, we moved the book content to a separate repository: https://github.com/alan-turing-institute/the-turing-way-book
+
 ### The team
 
 This is the (part of) the project team planning work at the Turing Institute. For more on how to contact us, see the [ways of working document](ways_of_working.md).
@@ -35,6 +37,8 @@ This is the (part of) the project team planning work at the Turing Institute. Fo
 :construction: This repository is always a work in progress and **everyone** is encouraged to help us build something that is useful to the many. :construction:
 
 Everyone is asked to follow our [code of conduct](CODE_OF_CONDUCT.md) and to checkout our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
+
+If you are not familiar or confident contributing on GitHub, you can also contribute a case study and your tips and tricks via our [Google submission form](https://goo.gl/forms/akFqZEIy2kxAjfZW2). 
 
 ### Get in touch
 
