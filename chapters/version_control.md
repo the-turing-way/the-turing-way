@@ -10,82 +10,77 @@ Recommended skill level: beginner - intermediate. Version control has a great de
 
 ## Table of contents
 
-1. [Summary](#Summary)
-2. [How version control is helpful](#How_version_control_is_helpful)
-3. [Version control: what it is and how it can be used to manage an evolving project](#what_version_control_is_and_how_it_can_be_used)
-    1. [What it is](#what_it_is)
-    2. [The basic workflow](#The_basic_workflow)
-    3. [Other facilities offered by version control](#branches_overview)
-4. [Why should you use version control?](#Why_should_you_use_version_control)
-5. [Getting Started](#Getting_started)
-6. [Commits](#Commits)
-    1. [The problem](#Commits_the_problem)
-    2. [The solution](#Commits_the_solution)
-    3. [How to do it](#adding)
-        1. [Retrieving past versions](#Retrieving_past_versions)
-    4. [Good practice](#Commits_good_practice)
-7. [Commit messages](#commit_messages)
-    1. [The problem](#Commit_messages_the_problem)
-    2. [The solution](#Commit_messages_the_solution)
-    3. [How to do it](#Commit_messages_how_to_do_it)
-    4. [Good practice](#Commit_messages_good_practice)
-8. [Comparing versions](#Comparing_versions)
-    1. [The problem](#Comparing_versions_the_problem)
-    2. [The solution](#Comparing_versions_the_solution)
-    3. [How to do it](#Comparing_versions_how_to_do_it)
-    4. [Good practice](#Comparing_versions_good_practice)
-9. [Branches](#Branches)
-    1. [The problem](#Branches_the_problem)
-    2. [The solution](#Branches_the_solution)
-    3. [How to do it](#Branches_how_to_do_it)
-    4. [Good practice](#Branches_good_practice)
+1. [Summary](#summary)
+2. [How version control is helpful](#how-version-control-is-helpful)
+3. [Version control: what it is and how it can be used to manage an evolving project](#version-control-what-it-is-and-how-it-can-be-used-to-manage-an-evolving-project)
+    1. [What it is](#what-it-is)
+    2. [The basic workflow](#the-basic-workflow)
+    3. [Other facilities offered by version control](#other-facilities-offered-by-version-control)
+4. [Why should you use version control?](#why-should-you-use-version-control)
+5. [Getting Started](#getting-started)
+6. [Commits](#commits)
+    1. [The problem](#the-problem)
+    2. [The solution](#the-solution)
+    3. [How to do it](#how-to-do-it)
+        1. [Retrieving past versions](#retrieving-past-versions)
+    4. [Good practice](#good-practice)
+7. [Commit messages](#commit-messages)
+    1. [The problem](#the-problem-2)
+    2. [The solution](#the-solution-2)
+    3. [How to do it](#how-to-do-it-2)
+    4. [Good practice](#good-practice-2)
+8. [Comparing versions](#comparing-versions)
+    1. [The problem](#the-problem-3)
+    2. [The solution](#the-solution-3)
+    3. [How to do it](#how-to-do-it-3)
+    4. [Good practice](#good-practice-3)
+9. [Branches](#branches)
+    1. [The problem](#the-problem-4)
+    2. [The solution](#the-solution-4)
+    3. [How to do it](#how-to-do-it-4)
+    4. [Good practice](#good-practice-4)
 10. [Merging](#merging)
-    1. [The problem](#Merging_the_problem)
-    2. [The solution](#Merging_the_solution)
-    3. [How to do it](#Merging_how_to_do_it)
-    4. [Good practice](#Merging_good_practice)  
-11. [Merge Conflicts](#merge_conflicts)
-    1. [The problem](#Merge_conflicts_the_problem)
-    2. [The solution](#Merge_conflicts_the_solution)
-    3. [How to do it](#Merge_conflicts_how_to_do_it)
-    4. [Good practice](#Merge_conflicts_good_practice)
-12. [GitHub](#GitHub)
-    1. [The problem](#GitHub_the_problem)
-    2. [The solution](#GitHub_the_solution)
-    3. [How to do it](#GitHub_how_to_do_it)
-        1. [Pull requests](#GitHub_how_to_do_it_pull_requests)
-    4. [Good practice](#GitHub_good_practice)
-13. [Summary of key Git commands](#Summary_of_key_Git_commands)
-14. [Checklists](#Checklists)
-    1. [Make use of Git](#Make_use_of_Git)
-    2. [Put your project on GitHub](#Put_your_project_on_GitHub)
-    3. [Contribute to someone else's project](#Contribute_to_someone_elses_project)
-15. [What to learn next](#What_to_learn_next)
-16. [Further reading](#further_reading)
-17. [Definitions/glossary](#Glossary)
-18. [Bibliography](#Bibliography)
+    1. [The problem](#the-problem-5)
+    2. [The solution](#the-solution-5)
+    3. [How to do it](#how-to-do-it-5)
+    4. [Good practice](#good-practice-5)
+11. [Merge Conflicts](#merge-conflicts)
+    1. [The problem](#the-problem-6)
+    2. [The solution](#the-solution-6)
+    3. [How to do it](#how-to-do-it-6)
+    4. [Good practice](#good-practice-6)
+12. [GitHub](#github)
+    1. [The problem](#the-problem-7)
+    2. [The solution](#the-solution-7)
+    3. [How to do it](#how-to-do-it-7)
+        1. [Pull requests](#pull-requests)
+    4. [Good practice](#good-practice-7)
+13. [Summary of key Git commands](#summary-of-key-git-commands)
+14. [Checklists](#checklists)
+    1. [Make use of Git](#make-use-of-git)
+    2. [Put your project on GitHub](#put-your-project-on-github)
+    3. [Contribute to someone else's project](#contribute-to-someone-elses-project)
+15. [What to learn next](#what-to-learn-next)
+16. [Further reading](#further-reading)
+17. [Definitions/glossary](#definitions-glossary)
+18. [Bibliography](#bibliography)
 
-<a name="Summary"></a>
 ## Summary
 
 Version control keeps track of different versions of a project and allows past versions to be accessed easily. It also allows different versions of a project to be merged with minimal input from the user. There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, GitHub, which aids collaboration between researchers) which the instructions given in this chapter will be geared towards. There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "[Further reading](#further_reading)" section at the end of the chapter.) This chapter aims to cover the general principles underpinning all version control systems, and best practice which applies for using all such systems.
 
-<a name="How_version_control_is_helpful"></a>
 ## How version control is helpful
 
 Keeping past versions of a project stored and accessible makes it possible to track its entire evolution, making the outputs far more reproducible. Version control software does this in a neat and powerful way, and it often saves researchers a great deal of time on reproducing lost code or analysis. Further, version control gives researchers more freedom to try things out and experiment. It does this by eliminating the risk of subsequent changes irrevocably 'breaking' the code as previous working versions will remain accessible regardless of how complex or how many changes are made.
 
 Another benefit of version control is that it makes collaboration easier, safer, and allows what changes have been made, when, why, and by who to be tracked. It does this by allowing different versions of a project (either two versions written by the same person, or versions from many people) to be worked on separately. It also has facilities to automatically compare and combine versions of a project, tasks which are often both fiddly and time-consuming when done manually.
 
-<a name="what_version_control_is_and_how_it_can_be_used"></a>
 ## Version control: what it is and how it can be used to manage an evolving project
 
-<a name="what_it_is"></a>
 ### What it is
 
 What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It is typically applied to managing changes in code, though in reality you can do this with nearly any type of file on a computer.
 
-<a name="The_basic_workflow"></a>
 ### The basic workflow
 
 The typical procedure for using version control is as follows:
@@ -100,7 +95,6 @@ Keep doing work and making more and more commits. You can think of commits as ch
 
 Every time you make a commit you can tag it with a commit message explaining what this snapshot of your project is doing. This makes it very easy to find what you're looking for when you need to go back to a past version.
 
-<a name="branches_overview"></a>
 ### Other facilities offered by version control
 
 So you have your project and you want to add new or something or try something out. With version control you can make a branch to do this work on. Any work you do on your branch won't be present on your main project (referred to as your master branch) so it remains nice and safe and you can continue to work on it. Once you're happy with your New Thing you can 'merge' your branch back into your master copy.
@@ -117,7 +111,6 @@ If you want you can even have branches off of branches (and branches off of thos
 
 No matter how many branches you have you can access past commits you made on any of them.
 
-<a name="Why_should_you_use_version_control"></a>
 ## Why should you use version control?
 
 People working on data science may have a large array of files (code, data, figures, notes) that they update but want to keep past versions for reference. This process is often informal and haphazard, where multiple revisions of papers, code, and datasets are saved as duplicate copies with uninformative file names (e.g. my_code.py my_code_2.py my_code_2a.py, my_code_2b.py). As authors receive new data and feedback from peers and collaborators, maintaining those versions and merging changes can result in an unmanageable proliferation of files. It is also incredibly error prone. It is easy to forget what different files contain, or to copy over files you don’t mean to. This leads to a great deal of time wasted on figuring out what files contain and reproducing accidently overwritten files.
@@ -130,7 +123,6 @@ A version control system stores all your changes neatly away so while it is stil
 
 Finally version control is invaluable for collaborative projects where different people work on the same code simultaneously. It allows the changes made by different people to be tracked, and can automatically combine people's work via merging saving a great deal of painstaking effort to do so manually. Moreover, version control hosting websites, such as GitHub, provide way to communicate in a more structured way, such as in code reviews, about commits and about issues.
 
-<a name="Getting_started"></a>
 ## Getting Started
 
 This is important to know, but it isn't that exciting. Instructions for installing Git on linux, windows and mac machines are available [here](https://Git-scm.com/book/en/v2/Getting-Started-Installing-Git). Once instillation is complete, to start using version control for your project you just go into the directory that contains all of your files (subdirectories will be included) and run
@@ -160,20 +152,16 @@ git commit
 
 We'll talk in more detail about these commands [later](#adding), but for now just know if you run them then congratulations, you have finished setting up you repository!
 
-<a name="Commits"></a>
 ## Commits
 
-<a name="Commits_the_problem"></a>
 ### The problem
 
 When working on a project you will make numerous changes to your files as you progress. Sometimes you may need to undo changes, take another look at past versions, or compare versions. Saving each version individually (version_1.py, version_2.py etc) is messy and quickly becomes impractical.
 
-<a name="Commits_the_solution"></a>
 ### The solution
 
 By making commits you can save versions of your code and switch between them/compare them easily without cluttering up your directory. Commits serve as checkpoints where individual files or an entire project can be safely reverted to when necessary.
 
-<a name="adding"></a>
 ### How to do it
 
 When you've made a series of changes and you want to commit them you fist add these changes to your staging area using `git add`. You can add all your changes using
@@ -210,7 +198,6 @@ git log
 
 In this log you'll see that each commit is automatically tagged with a unique string of numbers and letters called a SHA which you can use to access and compare them.
 
-<a name="Retrieving_past_versions"></a>
 #### Retrieving past versions
 
 To cancel your latest commit run
@@ -230,7 +217,6 @@ git checkout SHA_of_the_version
  git checkout SHA_of_the_version -- your_file_name
  ```
 
-<a name="Commits_good_practice"></a>
 ### Good practice for commits
 
 Commits should be 'atomic' i.e **they should do one simple thing and they should do it completely**, e.g. adding a new function or renaming a variable. If a lot of different changes to your project are all committed together then if something goes wrong it can be hard to unpick what in this set of changes if causing the problem, and undoing the whole commit may throw away valid and useful work along with the bug. That said **you don't necessarily need to do per-file commits**. For example if I add a figure to this chapter here, let's choose something to catch the attention of someone skimming through:
@@ -248,22 +234,18 @@ To aid in making atomic commits it's good practice to **specify the files to be 
 
 Finally, **don't commit anything that can be regenerated from other things that were committed unless it is something  that would take hours to regenerate**. Generated files just clutter up your repository and may contain features such as timestamps that can cause annoying merge conflicts (see [below](#merge_conflicts)). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct Git to ignore certain files by creating a file called `.Gitignore` and including their names in it.
 
-<a name="commit_messages"></a>
 ## Commit messages
 
-<a name="Commit_messages_the_problem"></a>
 ### The problem
 
 As you work on you project you will make more and more commits. Without any other information it can be hard to remember which version of your project is in which. Storing past versions is useless if you can't understand them, and figuring out what they contain by inspecting the code is frustrating and takes valuable time.  
 
-<a name="Commit_messages_the_solution"></a>
 ### The solution
 
 When you commit you have the chance to write a commit message describing what the commit is and what it does, and you should always, *always,* **_always_** do so.  A commit message gets attached to the commit so if you look back at it (e.g via `git log`) it will show up. Creating insightful and descriptive commit messages is one of the best things you can do to get the most out of version control. It lets people (and your future self when you've long since forgotten what you were doing and why) quickly understand what changes a commit contains without having to carefully read code and waste time figuring it out. Good commit messages improve your code quality by drastically reducing its WTF/min ratio:
 
 ![wtf_per_min](../figures/wtf_per_min.jpg)
 
-<a name="Commit_messages_how_to_do_it"></a>
 ### How to do it
 
 When you commit via
@@ -278,7 +260,6 @@ notice that a field appears (either within the terminal or in a text editor) whe
 git config --global core.editor "your_preferred_editor"
 ```
 
-<a name="Commit_messages_good_practice"></a>
 ### Good practice for commit messages
 
 The number one rule is: **make it meaningful**. A commit message like "Fixed a bug" leaves it entirely up to the person  looking at the commit (again, this person may very well be you a few months in the future when you've forgotten what you were doing) to waste time figuring out what the bug was, what changes you actually made, and how they fixed it. As such a good commit message should **explain what you did, why you did it, and what is impacted by the change**. As with comments you should **describe what the code is doing rather than the code itself** e.g. it is not obvious what "Change N_sim to 10" actually does, but "Change number of simulations run by the program to 10" is clear.
@@ -308,22 +289,18 @@ Further paragraphs come after blank lines.
     between, but conventions vary here
 ```
 
-<a name="Comparing_versions"></a>
 ## Comparing versions
 
-<a name="Comparing_versions_the_problem"></a>
 ### The problem
 
 At some point it is likely you will need/want to compare versions of a project, for example to see what version was used to generate a certain result.
 
-<a name="Comparing_versions_the_solution"></a>
 ### The solution
 
 In short: `git diff`.
 
 Diffing is a function that takes two input data sets and outputs the changes between them. `git diff` is a multi-use Git command that when executed runs a diff function on Git data sources. These data sources can be commits, branches, files and more.
 
-<a name="Comparing_versions_how_to_do_it"></a>
 ### How to do it
 
 By default `git diff` will show you any uncommitted changes since the last commit. If you want to compare two specific things the syntax is
@@ -344,20 +321,16 @@ Or if you wanted to compare two branches it would be
 git diff branch_name other_branch_name
 ```
 
-<a name="Comparing_versions_good_practice"></a>
 ### Good practice for comparing versions
 
 **Use it**. With a little familiarity `git diff` becomes an extremely powerful tool you can use to track what files have changed and exactly what those changes are. This is extremely valuable for unpicking bugs and comparing work done by different people. Be careful to **understand what exactly is being compared** and where possible **only compare the relevant files** for what you're interested in to avoid large amounts of extraneous information.
 
-<a name="Branches"></a>
 ## Branches
 
-<a name="Branches_the_problem"></a>
 ### The problem
 
 If you add a new feature to your project you run the risk of accidentally breaking your working code as you make changes to it. This would be very bad for active users of your project, even if the only active user is you. Also version control systems are regularly used for collaboration. If everyone starts programming on top of the master branch, it will cause a lot of confusion. Some people may write faulty/buggy code or simply the kind of code/feature others may not want in the project. There needs to be a way allow new work to be done on a project whilst protecting work that has already been done.
 
-<a name="Branches_the_solution"></a>
 ### The solution
 
 Branches. At the start of this chapter an [overview](#branches_overview) was given of the concept of branches, but let's recap. You have a project, and you make commits on it. By default you have one branch, called 'master'. Making a branch essentially makes a copy of your code which you can work on and continue to make commits to. Meanwhile your master branch is untouched by these changes, and you can continue to make commits on it too. Once you're happy with whatever you were working on on a branch you can merge it into your master branch (or indeed any other branch). Merging will be covered in the [next section](#merging). If your work on a branch doesn't work out you can delete or abandon it (e.g. Feature B in the diagram below) rather than spending time unpicking your changes if you were doing all your work on the master copy. You can have as many branches off of branches as you desire (e.g. Feature A-1).
@@ -366,7 +339,6 @@ Using branches keeps working code safe, particularly in collaborations. Each con
 
 ![sub_branch](../figures/sub_branch.png)
 
-<a name="Branches_how_to_do_it"></a>
 ### How to do it
 
 You can create a branch and switch to it using:
@@ -390,25 +362,20 @@ If you decide to get rid of a branch you can delete it with
 git branch -D name_of_the_branch
 ```
 
-<a name="Branches_good_practice"></a>
 ### Good practice for branches
 
 Branches should be used to **keep the master branch clean** i.e. master should only contain work which is complete and tested and so rightfully belongs in the master version of the project. Similarly you should try to keep individual branches as clean as possible by **only adding one new feature per branch**, because if you are working on several features some may be finished and ready to merge into master while others are still under development. Keeping your branches clean means only making changes related to the feature on the feature's branch. Give your branches **sensible names**, "new_feature" is all well and good until you start developing a newer feature on another branch.
 
-<a name="merging"></a>
 ## Merging
 
-<a name="Merging_the_problem"></a>
 ### The problem
 
 Once you've finished up some work on a branch you need to integrate it to your main project (or any other branch).
 
-<a name="Merging_the_solution"></a>
 ### The solution
 
 Merge the branch with your work on into your target branch. You can also use merging to combine work that other people have done with your own and vice versa.
 
-<a name="Merging_how_to_do_it"></a>
 ### How to do it
 
 To merge some branch, branch_A, into another branch, branch_B, switch to branch_A via `git checkout branch_A` and merge it into branch_B by
@@ -427,15 +394,12 @@ or
 error: Entry 'your_file_name' would be overwritten by merge. Cannot merge. (Changes in staging area)
 ```
 
-<a name="Merging_good_practice"></a>
 ### Good practice for merging
 
 First and foremost your **master branch should always be stable**, only merge work that is finished and tested into it. If your project is collaborative then it's a good idea to **merge changes that others make into you own work frequently**. If you don't it's very easy for merge conflicts to arise (next section). Similarly, share your own changes with your collaborators often.
 
-<a name="merge_conflicts"></a>
 ## Merge conflicts
 
-<a name="Merge_conflicts_the_problem"></a>
 ### The problem
 
 When changes to made to the same file on different branches sometimes those changes may be incompatible. This most commonly occurs in collaborative projects, but it happens in solo projects too. Let's say there's a project and it contains a file with this line of code:
@@ -458,7 +422,6 @@ print('Hello World')
 
 They continue doing work on their respective branches and eventually decide to merge. Their version control software then goes through and combines their changes into a single version of the file, *but* when it gets to the hello world statement it doesn't know which version to use. This is a merge conflict: incompatible changes have been made to the same file.
 
-<a name="Merge_conflicts_the_solution"></a>
 ### The solution
 
 When a merge conflict arises it will be flagged during the merge process. Within the files with conflicts the incompatible changes will be marked so you can fix them:
@@ -476,7 +439,6 @@ print('Hello World')
 
 '>>>>>>>': Indicates the end of the lines that had a merge conflict.
 
-<a name="Merge_conflicts_how_to_do_it"></a>
 ### How to do it
 
 You resolve a conflict by editing the file to manually merge the parts of the file that Git had trouble merging. This may mean discarding either your changes or someone else's or doing a mix of the two. You will also need to delete the '<<<<<<<', '=======', and '>>>>>>>' in the file. So in this project the users may decide in favour of one `hello world` over another, or they may decide to replace the conflict with
@@ -492,7 +454,6 @@ If you find there are particularly nasty conflicts and you want to abort the mer
 git merge --abort
 ```
 
-<a name="Merge_conflicts_good_practice"></a>
 ### Good practice for resolving merge conflicts
 
 Before you start trying to resolve conflicts **make sure you fully understand the changes and how they are incompatible**. If you don't you risk making things more tangled. Once you do and you go about fixing the problem **be careful, but don't be afraid**; the whole point of version control is your past versions are all safe. Nevertheless merge conflicts can be intimidating to resolve, especially if you are merging branches that diverged a great many commits ago which may now have many incompatibilities. This is why it is good practice to **merge other's changes into your work frequently**.
@@ -511,15 +472,12 @@ git mergetool
 
 Fundamentally the best way to deal with merge conflicts is to, so far as is possible, **ensure they don't happen in the first place**. You can improve your odds on this by **keeping branches clean and focused on a single issue, and involving as few files as possible**. Before merging make sure you know what's in both branches, and if you are not the only one that has worked on the branches then **keep the lines of communication open** so you are all aware of what the others are doing.
 
-<a name="GitHub"></a>
 ## GitHub
 
-<a name="GitHub_the_problem"></a>
 ### The problem
 
 When multiple people work on the same project (which is becoming more and more common as research becomes increasingly collaborative) it becomes difficult to keep track of what changes have been made and by who. It is also often difficult and time-consuming to manually incorporate the different participant's work into a whole even if all of their changes are compatible.  
 
-<a name="GitHub_the_solution"></a>
 ### The solution
 
 Hosting the project on a distributed version control system such as GitHub. Collaborators can then clone the project and work on that copy making commits, branches, etc without impacting the original. Collaborators can then *push* their work to each other, and *pull* other's work into their own copy. In this way it is easy to keep everyone up to date and to track what has been done and by who. GitHub also has numerous other handy features such as the ability to raise and assign issues, discuss the project via comments, and review each other's changes.
@@ -529,7 +487,6 @@ Making the entire project and its history available online in this was also has 
 1. Other researchers can re-use the work more easily. Rather than writing their own code to do what has already been written they can just use the original, which saves time. This also benefits the project's original authors as other researchers are much more likely to build on the work (and cite it) if a great deal of the work has already been done.   
 2. The research will be much more reproducible if the entire history of the project can be tracked. This enables results to be verified more easily, which benefits science.
 
-<a name="GitHub_how_to_do_it"></a>
 ### How to do it
 
 There are a number of GitHub tutorials available such as [this one](https://guides.GitHub.com/activities/hello-world/), or if you prefer you can follow along here.
@@ -561,7 +518,6 @@ git push -u origin master
 
 Naturally the exact same procedure applies to you if you want to clone someone else's repository.
 
-<a name="GitHub_how_to_do_it_pull_requests"></a>
 #### Pull requests
 
 So everyone's got a copy of the code and they're merrily working away on it, how do collaborators share their work? Pull requests. A pull request is a request for a person to *pull* someone else's changes into their version on the project. Say person A has made changes they want to share with person B. On GitHub Person A needs to go to person B's copy of the project and click the "New pull request" button. From there they can indicate which of their branches they would like person B to pull changes from, and which branch they want the changes pulled to. If person B accepts then person A's changes will be merged into their repository by GitHub. They can discuss the request in comments, and make further commits to the request before it is accepted if necessary.
@@ -576,7 +532,6 @@ git pull origin master
 
 It is also possible to make pull requests via the command line. A guide on how to do so is available [here](https://Git-scm.com/docs/Git-request-pull).
 
-<a name="GitHub_good_practice"></a>
 ### Good practice for using GitHub
 
 In your GitHub repository you should **include a license** to allow others to re-use your work legally. GitHub makes this very easy, simply click the "Create new file" button, name it "License.md" and a drop down menu will appear offering you a selection to choose from. The legalese can seem intimidating however [this](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project.
@@ -600,7 +555,6 @@ You can also **make use of one of GitHub's major features- issues**. Anyone can 
 
 In pull requests you should **clearly explain what the changes you've made are and why you made them**. If your changes address and issue that has been raised reference it directly. If your request fixes and issue and you include "will fix #the_issue_number >" in the pull request, if the pull request is merged it will automatically close the referenced issue, keeping the issue queue nice and clean! This also works for using commit messages to close issues too.
 
-<a name="Summary_of_key_Git_commands"></a>
 ## Summary of key Git commands
 
 | Command                       | Use                                                                      |
@@ -623,10 +577,8 @@ In pull requests you should **clearly explain what the changes you've made are a
 | git diff                      | Output difference between working directory and most recent commit       |
 | git diff thing_a thing_b      | Output difference between two things e.g. commits, branches              |                     
 
-<a name="Checklists"></a>
 ## Checklists
 
-<a name="Make_use_of_Git"></a>
 ### Make use of Git
 - [ ] Make your project version controlled by initialising a Git repository in its directory using `git init`
 - [ ] Add and commit all your files to the repository using `git add .` then `git commit`
@@ -643,7 +595,6 @@ In pull requests you should **clearly explain what the changes you've made are a
   - [ ] Merge other's changes into your work frequently
   - [ ] When dealing with merge conflicts make sure you fully understand both versions before trying to resolve them
 
-<a name="Put_your_project_on_GitHub"></a>
 ### Put your project on GitHub
 - [ ] Create a GitHub account
 - [ ] Create a repository on GitHub with the same name as your project
@@ -656,7 +607,6 @@ In pull requests you should **clearly explain what the changes you've made are a
 - [ ] Set expectations for how collaborators are expected to behave via a code of conduct and or ways of working document
 - [ ] Use issues to track and discuss modifications to the project
 
-<a name="Contribute_to_someone_elses_project"></a>
 ### Contribute to someone else's project
 - [ ] Clone their project's repository from GitHub `git clone repository_url`
 - [ ] Make and commit changes
@@ -665,19 +615,16 @@ In pull requests you should **clearly explain what the changes you've made are a
 - [ ] Make pull requests on GitHub to share your work
   - [ ] Clearly explain the changes you've made and why in your pull request.
 
-<a name="What_to_learn_next"></a>
 ## What to learn next
 
 Look into best practice for writing good quality code (good naming conventions, informative comments, modular code structure etc). Many such skills are either also applicable for using version control well, e.g. for writing good commit messages, or make using version control easier by keeping changes neat and localised.
 
-<a name="further_reading"></a>
 ## Further reading
 
 - A free and very in depth book on Gits myriad of features can be found [here](https://Git-scm.com/book/en/v2)
 - A useful Git cheat sheet can be found [here](https://services.GitHub.com/on-demand/downloads/GitHub-Git-cheat-sheet.pdf)
 - Interactive tutorials for familiarising yourself with GitHub can be found at [https://lab.github.com/](https://lab.github.com/).
 
-<a name="Glossary"></a>
 ## Definitions/glossary
 
 **Add:** Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
@@ -716,7 +663,6 @@ Look into best practice for writing good quality code (good naming conventions, 
 
 **Staged:** Changes that will be included in the next commit.
 
-<a name="Bibliography"></a>
 ## Bibliography
 
 - [1.](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Controls) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
