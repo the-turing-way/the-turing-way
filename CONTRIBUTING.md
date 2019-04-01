@@ -13,6 +13,7 @@ If you have any questions that aren't discussed below, please let us know throug
 Been here before? Already know what you're looking for in this guide? Jump to the following sections:
 
 * [Joining the community](#joining-the-community)
+* [Inclusivity](#inclusivity)
 * [Get in touch](#get-in-touch)
 * [Contributing through GitHub](#contributing-through-github)
 * [Where to start: issues](#where-to-start-issues)
@@ -24,16 +25,27 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 
 The Turing Way community We therefore require that all contributions **adhere to our [Code of Conduct](CODE_OF_CONDUCT.md)**.
 
+## Inclusivity
+
+This project aims to be inclusive to people from all walks of life and to all research fields.
+This should be taken into account in contributions.
+
+The following are examples of inclusive actions that we encourage from contributors to the Turing Way:
+
+* Refer to "open research" rather than "open science" so that we do not exclude members of the humanities and social sciences from our community.
+* Make sure colour pallettes are accessible to colour-blind readers and contributors.
+  Here's a useful blog post on [tips for designing scientific figures for color blind readers](http://www.somersault1824.com/tips-for-designing-scientific-figures-for-color-blind-readers) by Luk at [Somersulat 1824](http://www.somersault1824.com).
+
 ## Get in touch
 
-Ping us in our [gitter channel](https://gitter.im/WhitakerLab/the-turing-way).\
+Ping us in our [gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).\
 You can also contact the PI of the Turing Way project - Kirstie Whitaker - by email at kwhitaker@turing.ac.uk.
 
 ## Contributing through GitHub
 
 [git][git] is a really useful tool for version control. [GitHub][github] sits on top of git and supports collaborative and distributed working.
 
-We know that it can be daunting to start using git and GitHub if you haven't worked with them in the past, but the BIDS Starter Kit maintainers are here to help you figure out any of the jargon or confusing instructions you encounter! :heart:
+We know that it can be daunting to start using git and GitHub if you haven't worked with them in the past, but the The Turing Way maintainers are here to help you figure out any of the jargon or confusing instructions you encounter! :heart:
 
 In order to contribute via GitHub you'll need to set up a free account and sign in. Here are some [instructions](https://help.github.com/articles/signing-up-for-a-new-github-account/) to help you get going. Remember that you can ask us any questions you need to along the way.
 
@@ -41,7 +53,7 @@ In order to contribute via GitHub you'll need to set up a free account and sign 
 
 GitHub has a helpful page on [getting started with writing and formatting on GitHub](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github).
 
-Most of the writing that you'll do will be in [Markdown][markdown]. You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting. For example you could write words as bold (`**bold**`), or in italics (`*italics*`), or as a [link][rick-roll] (`[link](https://https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
+Most of the writing that you'll do will be in [Markdown][markdown]. You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting. For example you could write words as **bold** (`**bold**`), or in *italics* (`*italics*`), or as a [link][rick-roll] (`[link](https://https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
 Also when writing in Markdown, please start each new sentence on a new line.
 While this formats in the same way as if the new line wasn't included, it makes the diffs produced during the pull request review easier to read! :sparkles:
 
@@ -106,13 +118,31 @@ If you feel that we should try new tools or some aspects of the collaboration co
 
 ## The process of writing chapters
 
-- Create a branch and create a markdown file on it
-- Make a pull request to the turning way master branch. The title of this request should have [WIP] meaning work in progress at the start.
-- On your branch add material to the chapter and commit. The goal of this project is to collate and build on the many good resources already available about good practise in data science. As such this material should primarily be drawn from outside sources. Note the link and (if available) license of the source.
+- Fork the repository form the alan turing version if you have not done so already.
+- On the alan turing version create a branch with the same name as the chapter to be written.
+- On your fork create a branch with the same name and create a markdown file on it.
+- Copy the chapter template in the templates directory into the markdown file, and commit.
+- Make a pull request to the turing way version of the chapter branch.
+The title of this request should have the form "[WIP] Write Chapter_name chapter".
+WIP indicates the chapter is a Work In Progress and not yet ready for review.
+- On your branch add material to the chapter and commit.
+The goal of this project is to collate and build on the many good resources already available about good practise in data science.
+As such this material should primarily be drawn from outside sources.
+Note the link and (if available) license of the source.
 - Once a significant amount of material has been amassed, work (preferably with others) to develop a chapter outline.
-- Once the chapter is reasonably complete, merge a version into master with a note on top of the file that the chapter is work in progress, linking to issues discussing planned changes and additions and - if available - an existing [WIP] follow up pull request. 
-- Edit the amased material into a coherent chapter, adding more material if gaps become apparent.
+- Edit the amassed material into a coherent chapter, adding more material if gaps become apparent.
 - Edit the chapter for style.
+- Once the first draft of the chapter is complete change [WIP] in the pull request title to [Ready for review].
+- Add a comment on the pull request indicating that this chapter is ready for high level review, i.e discussion of changes of scale of a paragraph or larger such as adding material and restructuring sections.
+- Discuss and make these high level changes on this pull request. Once this is complete merge the chapter into the alan turing intitute's version of the chapter branch.
+- Make another pull request from your fork's version of the branch to the alan turing institute's version of the branch. Title this "[Ready for review] Chapter_name chapter- low level reviews".
+- Discuss and make low level changes to the chapter on this pull request, such as rewording sentences, typos and the like.
+- This division of the pull requests into high and low level changes stops discussion threads becoming unmanagably long.
+- Once this is complete merge the pull request into the alan turing intitute's version of the chapter branch.
+- Merge the alan turing intitute's version of the chapter branch into the alan turing master branch.
+DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
+
+
 
 [git]: https://git-scm.com
 [github]: https://github.com

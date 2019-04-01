@@ -19,5 +19,8 @@
 | sub_branch                 | Version control      | Illustrates version control branch + sub branch   |
 | testing_motivation_1       | Testing              | Example of consequence of not testing code        |
 | testing_motivation_2       | Testing              | Example of consequence of not testing code        |
-| two_banches                | Version control      | Illustrates version control master + two branches |
+| Travis_badge_fail          | Continuous integration | A readme with a failing Travis badge            |
+| Travis_badge_pass          | Continuous integration | A readme with a passing Travis badge            |
+| Travis_build               | Continuous integration | What the Travis dashboard looks like            |
+| two_branches               | Version control      | Illustrates version control master + two branches |
 | wtf_per_min.jpg            | Version control      | Good quality code = few wtf per min               |

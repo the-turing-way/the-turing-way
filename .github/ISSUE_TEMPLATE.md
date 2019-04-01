@@ -1,16 +1,43 @@
-## Detailed description
- - Provide a detailed description of the change or addition you are proposing or query or issue you need help with 
- - Please provide as much context as possible
- - Link to other relevant issues
- - Include specific tasks if they are helpful to complete the issue
- - Tag project members that can help addressing the issue
+<!--
+Please complete the following sections when you open an issue.
+You are encouraged to keep this top level comment box updated as you
+develop and respond to reviews.
+If you have write access to the repository please also assign the appropriate
+label (or labels) to your issue.
+Note that text within html comment tags will not be rendered.
+-->
+### Summary
 
-## Update initial issue regularly
-To avoid that others have to read through the full thread of comments, update the initial issue with important updates (e.g. decisions taken) regularly so that all the important information is available at one glance.\ 
-We recommend doing this using
+<!-- Please provide a detailed description of the change or addition you are proposing, or the question you're asking.
+Please provide as much context as possible and link to related issues and/or pull requests.
+-->
+
+*Lorem ipsum dolor sit amet, consectetur adipiscing.*
+
+### What needs to be done?
+
+<!-- We suggest using bullets (indicated by * or -) and filled checkboxes [x] here -->
+
+- [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
+- [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
+
+
+### Who can help?
+
+<!-- We suggest using bullets (indicated by * or -) and filled checkboxes [x] here -->
+
+* *Lorem ipsum dolor sit amet, consectetur adipiscing.*
+* *Lorem ipsum dolor sit amet, consectetur adipiscing.*
+
 
 ---
-__Update__
 
-## Labels
-Not everyone will have contributing rights to add labels. Thus someone from the core project team will choose the appropriate label(s) from our existing label list to ensure that your issue is properly categorized.
+### Updates
+
+<!-- To avoid that others have to read through the full thread of comments,
+please update the initial issue with important updates (e.g. decisions taken) regularly.
+You can update the task list and summary above directly (this is encouraged!) or add
+new information below in this new section.
+-->
+
+*Lorem ipsum dolor sit amet, consectetur adipiscing.*
