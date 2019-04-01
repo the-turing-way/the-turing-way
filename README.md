@@ -12,11 +12,23 @@ Everything else is in the `website/`. Importantly this includes the figures, whi
 ### Deploying
 The site is built automatically using these two directories. All of the requirements are specificied in `website/requirements.txt`. 
 
-#### Locally
+#### Locally (Mac / Linux Only)
+To install jupyter-book etc.
+```
+cd website
+pip install -r requirements.txt
+```
+
 If you want to see your local changes on your own computer you'll have to go in the website directory and enter `make serve` (type `make` on it's own to see the other options).
+```
+cd website
+make site && make serve
+```
 
 #### On Netlify
 You'll just need the following settings:
 - Base directory: `website`
 - Build command: `make site`
 - Publish directory: `_site`
+
+Netlify is smart and will find your requirements.txt to do the install for you :) 
