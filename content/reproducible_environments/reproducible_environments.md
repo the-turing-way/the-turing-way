@@ -468,21 +468,21 @@ Juliette Taka's excellent cartoon below illustrates the steps in creating and sh
 
 **Step 4:** She generates a link at the [mybinder.org](https://mybinder.org) BinderHub. By clicking on this link anyone can access a "Binderized" version of her project. The click triggers repo2docker to build an Docker image based on the contents of the repository and its configuration files. This image is then hosted on the cloud. The person who clicked the link will be taken to a copy of her project in their web browser that they can interact with. This copy of the project they interact with is hosted in the environment the researcher specified in step 3, regardless of the computational environment of the person is accessing it from.
 
-![binder_comic](../figures/binder_comic.png)
+![binder_comic](/assets/figures/binder_comic.png)
 
 Figure credit: [Juliette Taka, Logilab and the OpenDreamKit project](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/)
 
 To get an idea of what this looks like here's what a binder of a simple example project looks like. Files are listed and can be clicked on and modified by the person accessing the binder.
 
-![binder_home](../figures/binder_home.png)
+![binder_home](/assets/figures/binder_home.png)
 
 Users can also open terminals to run or otherwise interact with the files by clicking on "New" and then "Terminal" in the top right of the home binder screen shown above. Here this is used to run the analysis script in the example binder which performs a linear regression on some data:
 
-![binder_terminal](../figures/binder_terminal.png)
+![binder_terminal](/assets/figures/binder_terminal.png)
 
 As mentioned Binder is well integrated with Jupyter notebooks which can be opened by clicking on "New" and then under "Notebook" in the same way terminals can be opened. These may be more convenient for those working with graphical outputs, as shown here where one is used to run `make_plot.py` in the example Binder:
 
-![binder_notebook](../figures/binder_notebook.png)
+![binder_notebook](/assets/figures/binder_notebook.png)
 
 If R is installed in a Binder the dropdown menu will show the options to open R Jupyter notebooks and RStudio sessions in the Binder.
 
@@ -569,7 +569,7 @@ Again, if you are unable to complete these steps refer to the chapter on version
 
 Head to [https://mybinder.org](https://mybinder.org). You'll see a form that asks you to specify a repository for [mybinder.org](https://mybinder.org) to build. In the first field, paste the URL of the project's GitHub repository. It'll look something like this: `https://github.com/<your-username>/<your-repository>`
 
-![mybinder_gen_link](../figures/mybinder_gen_link.png)
+![mybinder_gen_link](/assets/figures/mybinder_gen_link.png)
 
 As you can see there are additional fields in this form, but these are optional are will not be discussed here.
 
@@ -612,7 +612,7 @@ The best option for large files is to use a library specific to the data format 
 
 Virtual machines (VMs) essentially package a whole computer as an app that can be run. As an example see the figure below which shows a windows laptop (note the windows search button in the lower left corner) running a virtual ubuntu machine (note the terminal outputting the operating system). The machine running the VM is called the "host machine". Using software like [VirtualBox](https://www.virtualbox.org/) or [Vagrant](https://www.vagrantup.com/), a user can create and run any number of VMs. As you could probably guess, having several VMs running at once can be a drain on memory, so just because you can run several at once doesn’t mean you should.
 
-![virtual_machine](../figures/virtual_machine.png)
+![virtual_machine](/assets/figures/virtual_machine.png)
 
 Users can download, install, backup and destroy VMs at will, which is part of what makes them an attractive tool for sharing reproducible research. Research often requires specific pieces of software or system settings. If a researcher wishes to reproduce another's work on their own computer making the necessary changes to their environment to run the project may impact their own work. For example near the very start of this chapter it was [described](#How_this_will_help_you_why_this_is_useful) how using a different version of Python can lead to unexpected changes in the results of an analysis. Say a researcher installs an updated version of Python to replicate an analysis because the analysis requires features only present in the updated version. By doing so they put their own work at risk. VMs remove that risk; any tools downloaded or settings changed will only impact the VM, keeping the reproducer's research safe. If they do inadvertently break something in the VM, they can just delete it and make another one. They are effectively a quarantined area.
 
@@ -626,7 +626,7 @@ Virtual machines can be shared by exporting them as single files. Another resear
 
 First choose a tool for generating VMs. Here the widely-used [VirtualBox](https://www.virtualbox.org/) is chosen. Download and install it on your system. To create a new machine click "New" in the top left. A window will pop up where you can enter a name for the machine and select what operating system and version of the operating system to use. In the figure below a machine called demo_VM running ubuntu is being created:
 
-![VM_create_machine](../figures/VM_create_machine.png)
+![VM_create_machine](/assets/figures/VM_create_machine.png)
 
 As you click through you can adjust other features of the machine to be created such as how much memory it should have access to. The default options are suitable for most purposes, but this process permits customisation.
 
@@ -635,14 +635,14 @@ As you click through you can adjust other features of the machine to be created 
 
 To start a virtual machine simply select the machine from the list of VMs on the left, and click the green "start" arrow at the top:
 
-![VM_start_machine](../figures/VM_start_machine.png)
+![VM_start_machine](/assets/figures/VM_start_machine.png)
 
 <a name="Sharing_virtual_virtual_machines"></a>
 #### Sharing virtual virtual machines
 
 A researcher can do work on their VM, and then export the whole thing. To export a virtual machine click "File" in the top left and then "Export". This will export the VM as a single file which can be shared like any other.
 
-![VM_export_machine](../figures/VM_export_machine.png)
+![VM_export_machine](/assets/figures/VM_export_machine.png)
 
 Someone that has access to this file and VirtualBox installed just needs to click "File" in the top left and then "Import" and select that file. Once it is imported they can start the VM as described before by selecting it from the menu clicking the green start arrow at the top.
 
@@ -685,7 +685,7 @@ In Docker the recipe files used to generate images are known as Dockerfiles, and
 
 [This](https://opensource.com/business/14/7/docker-security-selinux) article goes deeper into the potential security vulnerabilities of containers and here is a [detailed breakdown](https://opensource.com/business/14/9/security-for-docker) of security features currently within Docker, and how they function. The best advice for using images built by others is as standard- only download and run something on your machine if it comes from a trusted source. DockerHub has "official image" badges for commonly used, verified images as shown here:
 
-![Docker_official_image](../figures/docker_official_image.png)
+![Docker_official_image](/assets/figures/docker_official_image.png)
 
 <a name="Installing_Docker"></a>
 ### Installing Docker
@@ -789,7 +789,7 @@ The `ADD` command has the same capabilities as `COPY`, but it can also be used t
 
 Here's what happens if a container is opened from an image called book_example built from the example above:
 
-![container_example](../figures/container_example.png)
+![container_example](/assets/figures/container_example.png)
 
 As you can see the directory "project" has been created, and if we look inside the project files "analysis.py" and "data.csv" have been copied into it. Because the software required for the project has already been included by the Dockerfile in the image the "analysis.py" script runs without any further software needing to be installed.
 
@@ -813,13 +813,13 @@ RUN mkdir B_1
 RUN mkdir B_2
 ```
 
-![workdir_example](../figures/workdir_example.png)
+![workdir_example](/assets/figures/workdir_example.png)
 
 Directories B_1 and B_2 have been created within directory A.
 
 WORKDIR should be used whenever changing directories is necessary when building an image. It may be tempting to use `RUN cd directory_name` instead as this syntax will be more familiar to those that commonly work via the command line, but this can lead to errors. After each `RUN` statement in a Dockerfile the image is saved, any following commands are applied to the image anew. As an example here is what happens in the above example if the `WORKDIR A` line is swapped for `RUN cd A`
 
-![cd_example](../figures/cd_example.png)
+![cd_example](/assets/figures/cd_example.png)
 
 All the directories have are in the top level in this case, rather than B_1 and B_2 being inside A. This is because the image was restarted after the `RUN cd A` command and opened at the top (root) level by default, so that is where the `mkdir B_1` and `mkdir B_2` commands took effect.
 

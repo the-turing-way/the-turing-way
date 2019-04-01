@@ -104,7 +104,7 @@ There are five main schools of thought motivating open practices to benefit rese
 
 Open practices also benefit the researchers that propagate them. For example there is evidence [(Mckiernan et al. 2016)](https://elifesciences.org/articles/16800) that open access articles are cited more often, as shown by the metastudy presented in the figure below.
 
-| ![open_access_citatations](../figures/open_access_citatations.jpg) |
+| ![open_access_citatations](/assets/figures/open_access_citatations.jpg) |
 | -----------------------------------------------------|
 | The relative citation rate (OA: non-OA) in 19 fields of research. This rate is defined as the mean citation rate of OA articles divided by the mean citation rate of non-OA articles. Multiple points for the same discipline indicate different estimates from the same study, or estimates from several studies. References by discipline: Agricultural studies (Kousha and Abdoli, 2010); Physics/astronomy (Gentil-Beccot et al., 2010; Harnad and Brody, 2004; Metcalfe, 2006); Medicine (Sahu et al., 2005; Xu et al., 2011); Computer science (Lawrence, 2001); Sociology/social sciences (Hajjem et al., 2006; Norris et al., 2008; Xu et al., 2011); Psychology (Hajjem et al., 2006); Political science (Hajjem et al., 2006; Antelman, 2004; Atchison and Bull, 2015); Management (Hajjem et al., 2006); Law (Donovan et al., 2015; Hajjem et al., 2006); Economics (Hajjem et al., 2006; McCabe and Snyder, 2015; Norris et al., 2008; Wohlrabe, 2014); Mathematics (Antelman, 2004; Davis and Fromerth, 2007; Norris et al., 2008); Health (Hajjem et al., 2006); Engineering (Antelman, 2004; Koler-Povh et al., 2014); Philosophy (Antelman, 2004); Education (Hajjem et al., 2006; Zawacki-Richter et al., 2010); Business (Hajjem et al., 2006; McCabe and Snyder, 2015); Communication studies (Zhang, 2006); Ecology (McCabe and Snyder, 2014; Norris et al., 2008); Biology (Frandsen, 2009b; Hajjem et al., 2006; McCabe and Snyder, 2014). |
 
@@ -464,7 +464,7 @@ Ideally, every scientist would maintain an open notebook in real-time which woul
 
 Open research and its subcomponents fit under the umbrella of a broader concept- open scholarship.
 
-![open_umbrella](../figures/open_umbrella.png)
+![open_umbrella](/assets/figures/open_umbrella.png)
 
 <a name="Open_educational_resources"></a>
 ### Open educational resources
