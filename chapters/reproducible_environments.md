@@ -137,9 +137,9 @@ Another way these can be split is by how the reproduced research is presented to
     <th>Binder</th>
     <th>Conda</th>
   </tr>
-  <td>Entire system</td>
+  <td>Entire system</td>    
   <th>Virtual Machines</th>
-  <th>Containers</th>
+  <th>Containers</th>  
   <tr>
   </tr>
 </table>
@@ -199,13 +199,13 @@ Note here that version of package C used in Project Two has been updated from th
 
 - A) Using the older version of package C forever and not benefiting from updates and bugfixes in later versions.
 - B) Installing the updated version of the package and hoping that it doesn't impact Project One.
-- C) Installing the updated version of the package for use in Project Two then uninstalling it and reinstalling the old one whenever they need to do work on Project One. This would be extremely annoying, and is a step that risks being forgotten.
+- C) Installing the updated version of the package for use in Project Two then uninstalling it and reinstalling the old one whenever they need to do work on Project One. This would be extremely annoying, and is a step that risks being forgotten.  
 
 All of these options are extremely poor, hence the utility of Conda for creating distinct environments which can be easily swapped between.
 
 Conda can also be used to easily capture and export computational environments. It can go in the other direction too; it can generate computational environments from configuration files which can be used to recreate someone else's environment.
 
-Another benefit of Conda is that it offers much greater flexibility to users who do not have admin privileges on the machines they are working on (as is very common when working with high performance computing facilities). Without Conda it is typically very difficult to install required software onto such machines. However because Conda creates and changes *new* environments rather than making changes to a machine's overall system environment admin privileges are not required.
+Another benefit of Conda is that it offers much greater flexibility to users who do not have admin privileges on the machines they are working on (as is very common when working with high performance computing facilities). Without Conda it is typically very difficult to install required software onto such machines. However because Conda creates and changes *new* environments rather than making changes to a machine's overall system environment admin privileges are not required.  
 
 Finally, while Conda is Python-centric to a degree it is also well integrated for use with other languages, for example the base version of Conda includes the C++ standard library.
 
@@ -447,7 +447,7 @@ Because of their simplicity YAML files can be hand written. Alternatively they c
 <a name="Security_issues"></a>
 ### Security issues
 
-There is an inherent risk in downloading/using files you have not written to your computer, and it is possible to include malicious code in YAML files. Do not load YAML files or generate computational environments from them unless you trust their source.
+There is an inherent risk in downloading/using files you have not written to your computer, and it is possible to include malicious code in YAML files. Do not load YAML files or generate computational environments from them unless you trust their source.  
 
 <a name="Binder_section"></a>
 ## Binder
@@ -521,7 +521,7 @@ If a project contains no file specifying the computational environment when a Bi
     - For example if a project uses Latex the apt.txt file should read
     ```
     texlive-latex-base
-    ```
+    ```  
     to install the base Latex package.
 - default.nix
     - For those that use the [package management system](#Package_management_systems) Nix a default.nix file can be a convenient way to capture their environment.
@@ -667,14 +667,14 @@ Think of it like this:
 
 - A recipe file a human writes contains all the steps to generate a working version of the project and its computational environment, but no actual materials. Think of this as like a blueprint.
 - Building an image takes that recipe and using it assembles all the packages, software libraries, configurations etc needed to make the fully fledged project and environment and bundles them up in a condensed lump. Think of images like a bit of flat pack furniture made using the blueprint.
-- Containers take that image and assemble a full working version of the project and the environment needed to run it. Think of this as assembling the bit of flat pack furniture.
+- Containers take that image and assemble a full working version of the project and the environment needed to run it. Think of this as assembling the bit of flat pack furniture.   
 
 So if a researcher wants to allow others to reproduce their work they would need to write a recipe file, and use it to build an image of their project. They can then share this image file with anyone who wants to replicate their work. That person can then use the image to generate a container containing a working version of the project.
 
 <a name="What_is_Docker"></a>
 ### What is Docker?
 
-There are a number of different tools available for creating and working with containers. We will focus on Docker, which is widely used, but be aware that others such as Singularity also exist. Singularity is sometimes preferred for use on HPC systems as it does not need `sudo` permissions to be run, while Docker does.
+There are a number of different tools available for creating and working with containers. We will focus on Docker, which is widely used, but be aware that others such as Singularity also exist. Singularity is sometimes preferred for use on HPC systems as it does not need `sudo` permissions to be run, while Docker does.     
 
 In Docker the recipe files used to generate images are known as Dockerfiles, and should be named "Dockerfile".
 
@@ -733,7 +733,7 @@ Here are a few key commands for creating and working with containers.
   - If `stop` does not work containers can be killed using
     ```
     sudo docker container_ID kill
-    ```
+    ```  
 - To remove a container run
   ```
   sudo docker rm container_ID
@@ -769,7 +769,9 @@ RUN mkdir project
 COPY project_files/* project/
 ```
 
-It is worth spending time carefully choosing an appropriate base image as doing do can reduce the amount of work involved in writing a Dockerfile dramatically. For example a collection of images with the R programming language included in them can be found [here](https://github.com/rocker-org/rocker-versioned). If a project makes use of R it is convenient to use one of these as a base image rather than spend time writing commands in your Dockerfile to install R.
+This looks complicated, but most of the lines in this example are comments (which are preceded by `#`s), There are only nine lines of actual code. The first of these is a `FROM` statement specifying a base image. All Dockerfiles require a FROM, even if it's just `FROM SCRATCH`.  All the following commands in a Dockerfile build upon the base image to make a functioning version of the researcher's project.
+
+It is worth spending time carefully choosing an appropriate base image as doing do can reduce the amount of work involved in writing a Dockerfile dramatically. For example a collection of images with the R programming language included in them can be found [here](https://github.com/rocker-org/rocker-versioned). If a project makes use of R it is convenient to use one of these as a base image rather than spend time writing commands in your Dockerfile to install R.  
 
 The biggest block of lines comes next, it's a series of `RUN` statements, which run shell command when building the image. In this block they are used to install the software necessary to run the project. Run commands can also be chained as follows if desired:
 ```
@@ -839,24 +841,6 @@ Other commands that are sometimes used in Dockerfiles include:
 <a name="Building_images_and_dockerignore_files"></a>
 ### Building images and .dockerignore files
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-      ```
-      CMD [“echo”,”Image created”]
-      ```
-      Breaking this down:
-      - CMD is commands to run when your container starts up. So to calify RUN are things you do to *setting up* a container from an image, and CMD is for commands to be automatically run in the container as soon as it's set up. The message only appears if I don't have interactive terminal. Not clear on why.
-    - It's good practice to use CMD for anything that is going to need to be run before someone starts working in the container. You *can* just follow the instreuction to run the container with a command (e.g `docker run containerID echo Imange created`)  and it'll have the same impact, but then you're relying on whoever is trying to run the container to know they need to follow that up with the command required. Putting it in the Dockerfile means it'll always be run.
-    - Made directories within the container, but when I try using run to cd in and then making another directory within. Didn't work. Asked, this is because each RUN saves and deletes the previous container, then makes a new one from that point, does its run thing, then saves and is deleted and so on. Each layer is like a commit. As a result my RUNing cd into the directory doesn't matter because the next RUN statement restarts the container fresh so the next mkdir goes into the top level. According to David and Will I can use && to have multiple commands on one RUN, but when I try it it doesn't work.
-    - It's good practice to use .dockerignore files. When you build an image everything in the dockerfile's directory and below is sent to the Docker daemon (which may or may not be on the same machine as where your running the command) to build the image. It uses the dockerfile and the context to build the image. If you're got lots of big files in your context that aren't needed for your image then you're sending the daemon those huge files for nothing. You can make sure they're not sent by including them in a .dockerignore file. You can use syntax like for example `*.png` for example to ignore lots fo different files with similar names/types with few lines.
-
-When you build an image everything in the Dockerfile's directory and below (this is called the "context") is sent to the Docker daemon to build the image. The deamon uses the Dockerfile and its context to build the image. If the context contains many large files which aren't needed for building the image (old datafiles, for example) then it is a waste of time sending them to the daemon, and doing do can make the process of building an image slow. You can exclude files from the context by listing them in a text file called .dockerignore.
-
-The files do not need to be listed individually in the .dockerignore file. Here is an example where
-
-
-You can use syntax like for example `*.png` for example to ignore lots of different files with similar names/types with few lines.
-=======
 As mentioned in the [key commands](#Key_commands) section, to build an image open a terminal in the same directory as the Dockerfile to be used and run
 ```
 sudo docker build tag=name_to_give_image .
@@ -887,7 +871,7 @@ To do this Alice must:
 
 - Write a Dockerfile to produce an image of her work
 - Build the image. She (being inventive) calls it image_name
-- Go to DockerHub and sign up for an account. Say Alice (again, being inventive) chooses the username username_Alice
+- Go to DockerHub and sign up for an account. Say Alice (again, being inventive) chooses the username username_Alice    
 - Log into DockerHub via the terminal on her machine using `sudo docker login`
 - Tag the image of her project on her machine via the command line by supplying the name of the image and using the pattern `username/image_name:version`, so Alice runs the command:
   ```
@@ -936,140 +920,6 @@ Hopefully you will give your volume a more descriptive name than volume_name. A 
 
  Volume related commands:
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-### Writing Dockerfiles
-
-*Lots of docker images pre-built so easier than starting from scratch, e.g. [R starting images](https://github.com/rocker-org/rocker-versioned)*
-
-- Another [tutorial](http://www.manicstreetpreacher.co.uk/docker-carpentry/aio/) I'm looking at. **Creative Commons Attribution 4.0**
-- A docker file can look like this:
-  ```
-  FROM centos:7
-  MAINTAINER spli@dundee.ac.uk
-
-  RUN yum install -y -q epel-release
-  RUN yum install -y -q python-pip
-  RUN pip install omego
-  ```
-  where
-    - FROM: The name of a base image
-    - MAINTAINER: The email of the developer or owner
-    - RUN: Runs a shell command
-  and some other commonly used docker commands are:
-    - COPY: Copies a file (e.g. a script, configuration file, or archive) into the Docker image
-    - USER: Change the user that a command is run as (useful for dropping privileges)
-    - WORKDIR: Change the current working directory
-    - EXPOSE: Lists ports that should be exposed to the outside world
-    - VOLUMES: Directories that should be managed separately from the container (e.g. persistent data that should be kept after the container exits)
-
-    - Short example of a docker file
-      ```
-      #This is a sample Image
-      FROM ubuntu
-      MAINTAINER demousr@gmail.com
-
-      RUN apt-get update
-      RUN apt-get install –y nginx
-      ADD my_local_file .
-      CMD [“echo”,”Image created”]
-      ```
-      Breaking this down:
-      - Comments by #'s like python.
-      - You need some kind of from statement oven if it's `FROM SCRATCH`.
-      - MAINTAINER self explanatory and not necessary to include.
-      - RUN instructions to run when building the image
-      - ADD is used if you have files on your computer you want to be put into the image. The syntax is the path to the file from where you're building the image in, and then the location in the container directory system you want the file to be placed. Note that you can only add files from the level or below where your dockerfile is. Pushed that image to DockerHub and then pulled it to a different computer. When I ran the contianer on that computer the file was in it.
-      - CMD is commands to run when your container starts up. So to calify RUN are things you do to *setting up* a container from an image, and CMD is for commands to be automatically run in the container as soon as it's set up. The message only appears if I don't have interactive terminal. Not clear on why.
-    - It's good practice to use CMD for anything that is going to need to be run before someone starts working in the container. You *can* just follow the instreuction to run the container with a command (e.g `docker run containerID echo Imange created`)  and it'll have the same impact, but then you're relying on whoever is trying to run the container to know they need to follow that up with the command required. Putting it in the Dockerfile means it'll always be run.
-    - There's ENTRYPOINT, but seems like bad practice to use, so leaving it out.
-    - Made directories within the container, but when I try using run to cd in and then making another directory within. Didn't work. Asked, this is because each RUN saves and deletes the previous container, then makes a new one from that point, does its run thing, then saves and is deleted and so on. Each layer is like a commit. As a result my RUNing cd into the directory doesn't matter because the next RUN statement restarts the container fresh so the next mkdir goes into the top level. According to David and Will I can use && to have multiple commands on one RUN, but when I try it it doesn't work.
-    - There's COPY as well as ADD. Serves same function but ADD can also be used to add things from e.g. urls. At least in the one article I read they say it's best to use COPY since it's more explicit. Tested that copy could do the copying local files to an image thing the way add did and it suceeded.
-    - It's good practice to use .dockerignore files. When you build an image everything in the dockerfile's directory and below is sent to the Docker daemon (which may or may not be on the same machine as where your running the command) to build the image. It uses the dockerfile and the context to build the image. If you're got lots of big files in your context that aren't needed for your image then you're sending the daemon those huge files for nothing. You can make sure they're not sent by including them in a .dockerignore file. You can use syntax like for example `*.png` for example to ignore lots fo different files with similar names/types with few lines.
-    - Good practise to break RUN statements up to be more readable, for example
-      ```
-      RUN command_to_do_thing_1 \
-         command_to_do_thing_2 \
-         command_to_do_thing_3 \
-         command_to_do_thing_4
-      ```
-
-### Building images
-
-- Made a new directory (docker-practice) and cd into in.rjarnold/learning_docker:first_image_online
-- Made a file called app.py which contained
-  ```
-  from flask import Flask
-  from redis import Redis, RedisError
-  import os
-  import socket
-
-  # Connect to Redis
-  redis = Redis(host="redis", db=0, socket_connect_timeout=2, socket_timeout=2)
-
-  app = Flask(__name__)
-
-  @app.route("/")
-  def hello():
-      try:
-          visits = redis.incr("counter")
-      except RedisError:
-          visits = "<i>cannot connect to Redis, counter disabled</i>"
-
-      html = "<h3>Hello {name}!</h3>" \
-             "<b>Hostname:</b> {hostname}<br/>" \
-             "<b>Visits:</b> {visits}"
-      return html.format(name=os.getenv("NAME", "world"), hostname=socket.gethostname(), visits=visits)
-
-  if __name__ == "__main__":
-      app.run(host='0.0.0.0', port=80)
-  ```
-- Made a file called requirements.txt that just read
-  ```
-  Flask
-  Redis
-  ```
-- Created a file called `Dockerfile` containing
-  ```
-  # Use an official Python runtime as a parent image
-  FROM python:2.7-slim
-
-  # Set the working directory to /app
-  WORKDIR /app
-
-  # Copy the current directory contents into the container at /app
-  COPY . /app
-
-  # Install any needed packages specified in requirements.txt
-  RUN pip install --trusted-host pypi.python.org -r requirements.txt
-
-  # Make port 80 available to the world outside this container
-  EXPOSE 80
-
-  # Define environment variable
-  ENV NAME World
-
-  # Run app.py when the container launches
-  CMD ["python", "app.py"]
-  ```
-- Then built the docker image and called it "friendlyhello" using `sudo docker build --tag=friendlyhello .`.
-- Did `docker image ls` and the firndlyhello image was listed along with hello-world
-
-### Sharing images
-
-- Now onto publishing and sharing dockerfiles. Made an account on [https://hub.docker.com/](https://hub.docker.com/).
-- Logged into docker via my terminal using `sudo docker login`
-- "The notation for associating a local image with a repository on a registry is username/repository:tag. The tag is optional, but recommended, since it is the mechanism that registries use to give Docker images a version." Did `sudo docker tag friendlyhello rjarnold/learning_docker:first_image_online`
-- Pushed the image to my account online by `sudo docker tag push rjarnold/learning_docker:first_image_online`
-- Refreshed the webpage with my account, the repository had been automatically create and the image placed within it.
-- Now try running the image on another machine. On another ubuntu machine I tried running `sudo docker run -p 4000:80 rjarnold/learning_docker:first_image_online` Failed because docker wasn't installed on that machine.
-- Installed docker on that machine and tried again. It regonised the image wasn't on my local machine and downloaded it
-- Went to "http://localhost:4000/" and the message was there as expected, so success. It had run without making the directory and files on my machine.
-- List volumes: `docker volume ls`
-- Delete a volume: `docker volume rm volume_name`
-- Delete all unattached volumes: `docker volume prune`
-- If, when deleting a container as `-v` is included after `rm` in `sudo docker rm container_ID` any volumes associated with the container will also be deleted.
 - List volumes: `sudo docker volume ls`
 - Delete a volume: `sudo docker volume rm volume_name`
 - Delete all unattached volumes: `sudo docker volume prune`
