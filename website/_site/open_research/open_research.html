@@ -1,0 +1,1463 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+
+  <title>Open Research</title>
+  <meta name="description" content="Open research">
+
+  <link rel="canonical" href="/YOUR%20URL//open_research/open_research.html">
+  <link rel="alternate" type="application/rss+xml" title="The Turing Way" href="/YOUR%20URL//feed.xml">
+
+  <meta property="og:url"         content="/YOUR%20URL//open_research/open_research.html" />
+<meta property="og:type"        content="article" />
+<meta property="og:title"       content="Open Research" />
+<meta property="og:description" content="Open research" />
+<meta property="og:image"       content="" />
+
+
+  <script type="application/ld+json">
+  {
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage":
+    "YOUR URL//open_research/open_research.html",
+  "headline":
+    "Open Research",
+  "datePublished":
+    "2019-04-01T17:08:12+02:00",
+  "dateModified":
+    "2019-04-01T17:08:12+02:00",
+  "description":
+    "Open research",
+  "author": {
+    "@type": "Person",
+    "name": "Kirstie Whitaker"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Data 100 at UC Berkeley",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "YOUR URL/",
+      "width": 60,
+      "height": 60
+    }
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "YOUR URL/",
+    "height": 60,
+    "width": 60
+  }
+}
+
+  </script>
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css ">
+  <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+
+  <!-- <link rel="manifest" href="/manifest.json"> -->
+  <!-- <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#efae0a"> -->
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+  <meta name="theme-color" content="#233947">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/x-icon" href="/images/logo/favicon.ico">
+
+  <!-- MathJax Config -->
+  <!-- Allow inline math using $ and automatically break long math lines -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true,
+        processEnvironments: true
+    },
+    CommonHTML: {
+        linebreaks: {
+            automatic: true,
+        },
+    },
+});
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_CHTML' async></script>
+
+  <!-- DOM updating function -->
+  <script>
+const runWhenDOMLoaded = cb => {
+  if (document.readyState != 'loading') {
+    cb()
+  } else if (document.addEventListener) {
+    document.addEventListener('DOMContentLoaded', cb)
+  } else {
+    document.attachEvent('onreadystatechange', function() {
+      if (document.readyState == 'complete') cb()
+    })
+  }
+}
+
+// Helper function to init things quickly
+initFunction = function(myfunc) {
+  runWhenDOMLoaded(myfunc);
+  document.addEventListener('turbolinks:load', myfunc);
+};
+</script>
+
+  <!-- Define some javascript variables that will be useful in other javascript -->
+  <script>
+    const site_basename = '/';
+  </script>
+
+  <!-- Add AnchorJS to let headers be linked -->
+  <script src="/assets/js/anchor.min.js"  type="text/javascript"></script>
+  <script>
+
+initFunction(function () {
+    anchors.add("main h1, main h2, main h3, main h4")
+});
+
+</script>
+
+  <!-- Include Turbolinks to make page loads fast -->
+  <!-- https://github.com/turbolinks/turbolinks -->
+  <script src="/assets/js/turbolinks.js" async></script>
+  <meta name="turbolinks-cache-control" content="no-cache">
+
+  <!-- Load nbinteract for widgets -->
+  <script src="https://unpkg.com/nbinteract-core" async></script>
+
+  <!-- Load Thebelab for interactive widgets -->
+  <!-- Include Thebelab for interactive code if it's enabled -->
+
+<script type="text/x-thebe-config">
+    {
+      requestKernel: true,
+      binderOptions: {
+        repo: 'alan-turing-institute/the-turing-way-book',
+        ref: 'master',
+      },
+      kernelOptions: {
+        name: 'python3',
+      }
+    }
+</script>
+<script src="https://unpkg.com/thebelab@0.3.3/lib/index.js"></script>
+<script>
+    /**
+     * Add attributes to Thebelab blocks
+     */
+
+    const initThebelab = () => {
+        const addThebelabToCodeCells = () => {
+            console.log("Adding thebelab to code cells...");
+            // If Thebelab hasn't loaded, wait a bit and try again. This
+            // happens because we load ClipboardJS asynchronously.
+            if (window.thebelab === undefined) {
+                setTimeout(addThebelabToCodeCells, 250)
+            return
+            }
+
+            // If we already detect a Thebelab cell, don't re-run
+            if (document.querySelectorAll('div.thebelab-cell').length > 0) {
+                return;
+            }
+
+            // Find all code cells, replace with Thebelab interactive code cells
+            const codeCells = document.querySelectorAll('.input_area pre')
+            codeCells.forEach((codeCell, index) => {
+                const id = codeCellId(index)
+                codeCell.setAttribute('data-executable', 'true')
+
+                // Figure out the language it uses and add this too
+                var parentDiv = codeCell.parentElement.parentElement;
+                var arrayLength = parentDiv.classList.length;
+                for (var ii = 0; ii < arrayLength; ii++) {
+                    var parts = parentDiv.classList[ii].split('language-');
+                    if (parts.length === 2) {
+                        // If found, assign dataLanguage and break the loop
+                        var dataLanguage = parts[1];
+                        break;
+                    }
+                }
+                codeCell.setAttribute('data-language', dataLanguage)
+
+                // If the code cell is hidden, show it
+                var inputCheckbox = document.querySelector(`input#hidebtn${codeCell.id}`);
+                if (inputCheckbox !== null) {
+                    setCodeCellVisibility(inputCheckbox, 'visible');
+                }
+            });
+
+            // Remove the event listener from the page so keyboard press doesn't
+            // Change page
+            document.removeEventListener('keydown', initPageNav)
+            keyboardListener = false;
+
+            // Init thebelab
+            thebelab.bootstrap();
+
+            // Remove copy buttons since they won't work anymore
+            const copyButtons = document.querySelectorAll('.copybtn')
+            copyButtons.forEach((copyButton, index) => {
+                copyButton.remove();
+            });
+
+            // Remove outputs since they'll be stale
+            const outputs = document.querySelectorAll('.output *, .output')
+            outputs.forEach((output, index) => {
+                output.remove();
+            });
+        }
+
+        // Add event listener for the function to modify code cells
+        const thebelabButton = document.getElementById('interact-button-thebelab');
+        if (thebelabButton === null) {
+            setTimeout(initThebelab, 250)
+        return
+        };
+        thebelabButton.addEventListener('click', addThebelabToCodeCells);
+    }
+
+    // Initialize Thebelab
+    initFunction(initThebelab);
+</script>
+
+
+  <!-- Google analytics -->
+  <script src="/assets/js/ga.js" async></script>
+
+  <!-- Clipboard copy button -->
+  <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js" async></script>
+
+  <!-- Load JS that depends on site variables -->
+  <script>
+/**
+ * Set up copy/paste for code blocks
+ */
+const codeCellId = index => `codecell${index}`
+
+const clipboardButton = id =>
+  `<a class="btn copybtn o-tooltip--left" data-tooltip="Copy" data-clipboard-target="#${id}">
+    <img src="/assets/images/copy-button.svg" alt="Copy to clipboard">
+  </a>`
+
+// Clears selected text since ClipboardJS will select the text when copying
+const clearSelection = () => {
+  if (window.getSelection) {
+    window.getSelection().removeAllRanges()
+  } else if (document.selection) {
+    document.selection.empty()
+  }
+}
+
+// Changes tooltip text for two seconds, then changes it back
+const temporarilyChangeTooltip = (el, newText) => {
+  const oldText = el.getAttribute('data-tooltip')
+  el.setAttribute('data-tooltip', newText)
+  setTimeout(() => el.setAttribute('data-tooltip', oldText), 2000)
+}
+
+const addCopyButtonToCodeCells = () => {
+  // If ClipboardJS hasn't loaded, wait a bit and try again. This
+  // happens because we load ClipboardJS asynchronously.
+  if (window.ClipboardJS === undefined) {
+    setTimeout(addCopyButtonToCodeCells, 250)
+    return
+  }
+
+  const codeCells = document.querySelectorAll('div.highlighter-rouge:not(.output) pre')
+  codeCells.forEach((codeCell, index) => {
+    const id = codeCellId(index)
+    codeCell.setAttribute('id', id)
+    if (document.querySelector(`pre#${id} + a`) == null) {
+      codeCell.insertAdjacentHTML('afterend', clipboardButton(id));
+    }
+  })
+
+  const clipboard = new ClipboardJS('.copybtn')
+  clipboard.on('success', event => {
+    clearSelection()
+    temporarilyChangeTooltip(event.trigger, 'Copied!')
+  })
+
+  clipboard.on('error', event => {
+    temporarilyChangeTooltip(event.trigger, 'Failed to copy')
+  })
+
+  // Get rid of clipboard before the next page visit to avoid memory leak
+  document.addEventListener('turbolinks:before-visit', () =>
+    clipboard.destroy()
+  )
+}
+
+initFunction(addCopyButtonToCodeCells);
+</script>
+
+  <!-- Hide cell code -->
+  
+<script>
+/**
+Add buttons to hide code cells
+*/
+
+
+var setCodeCellVisibility = function(inputField, kind) {
+    // Update the image and class for hidden
+    var id = inputField.getAttribute('data-id');
+    var codeCell = document.querySelector(`#${id}`);
+
+    if (kind === "visible") {
+        codeCell.classList.remove('hidden');
+        inputField.checked = true;
+    } else {
+        codeCell.classList.add('hidden');
+        inputField.checked = false;
+    }
+}
+
+var toggleCodeCellVisibility = function (event) {
+    // The label is clicked, and now we decide what to do based on the input field's clicked status
+    if (event.target.tagName === "LABEL") {
+        var inputField = event.target.previousElementSibling;
+    } else {
+        // It is the span inside the target
+        var inputField = event.target.parentElement.previousElementSibling;
+    }
+
+    if (inputField.checked === true) {
+        setCodeCellVisibility(inputField, "visible");
+    } else {
+        setCodeCellVisibility(inputField, "hidden");
+    }
+}
+
+
+// Button constructor
+const hideCodeButton = id => `<input class="hidebtn" type="checkbox" id="hidebtn${id}" data-id="${id}"><label title="Toggle cell" for="hidebtn${id}" class="plusminus"><span class="pm_h"></span><span class="pm_v"></span></label>`
+
+var addHideButton = function () {
+  // If a hide button is already added, don't add another
+  if (document.querySelector('div.hidecode input') !== null) {
+      return;
+  }
+
+  // Find the input cells and add a hide button
+  document.querySelectorAll('div.input_area div.highlight').forEach(function (item, index) {
+    if (!item.parentElement.classList.contains("hidecode")) {
+        // Skip the cell if it doesn't have a hidecode class
+        return;
+    }
+
+    const id = codeCellId(index)
+    item.setAttribute('id', id);
+    item.insertAdjacentHTML('afterend', hideCodeButton(id))
+
+    // Set up the visibility toggle
+    hideLink = document.querySelector(`#${id} + input + label`);
+    hideLink.addEventListener('click', toggleCodeCellVisibility)
+  });
+}
+
+
+// Initialize the hide buttos
+var initHiddenCells = function () {
+    // Add hide buttons to the cells
+    addHideButton();
+
+    // Toggle the code cells that should be hidden
+    document.querySelectorAll('div.hidecode input').forEach(function (item) {
+        setCodeCellVisibility(item, 'hidden');
+        item.checked = true;
+    })
+}
+
+initFunction(initHiddenCells);
+
+</script>
+
+
+  <!-- Load custom website scripts -->
+  <script src="/assets/js/scripts.js" async></script>
+
+  <!-- Load custom user CSS and JS  -->
+  <script src="/assets/custom/custom.js" async></script>
+  <link rel="stylesheet" href="/assets/custom/custom.css">
+
+  <!-- Update interact links w/ REST param, is defined in includes so we can use templates -->
+  
+
+  <!-- Lunr search code - will only be executed on the /search page -->
+  <script src="/assets/js/lunr/lunr.min.js" type="text/javascript"></script>
+  <script>var initQuery = function() {
+  // See if we have a search box
+  var searchInput = document.querySelector('input#lunr_search');
+  if (searchInput === null) {
+    return;
+  }
+
+  // Function to parse our lunr cache
+  var idx = lunr(function () {
+    this.field('title')
+    this.field('excerpt')
+    this.field('categories')
+    this.field('tags')
+    this.ref('id')
+
+    this.pipeline.remove(lunr.trimmer)
+
+    for (var item in store) {
+      this.add({
+        title: store[item].title,
+        excerpt: store[item].excerpt,
+        categories: store[item].categories,
+        tags: store[item].tags,
+        id: item
+      })
+    }
+  });
+
+  // Run search upon keyup
+  searchInput.addEventListener('keyup', function () {
+    var resultdiv = document.querySelector('#results');
+    var query = document.querySelector("input#lunr_search").value.toLowerCase();
+    var result =
+      idx.query(function (q) {
+        query.split(lunr.tokenizer.separator).forEach(function (term) {
+          q.term(term, { boost: 100 })
+          if(query.lastIndexOf(" ") != query.length-1){
+            q.term(term, {  usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 })
+          }
+          if (term != ""){
+            q.term(term, {  usePipeline: false, editDistance: 1, boost: 1 })
+          }
+        })
+      });
+
+      // Empty the results div
+      while (resultdiv.firstChild) {
+        resultdiv.removeChild(resultdiv.firstChild);
+      }
+
+    resultdiv.insertAdjacentHTML('afterbegin', '<p class="results__found">'+result.length+' Result(s) found</p>');
+    for (var item in result) {
+      var ref = result[item].ref;
+      if(store[ref].teaser){
+        var searchitem =
+          '<div class="list__item">'+
+            '<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">'+
+              '<h2 class="archive__item-title" itemprop="headline">'+
+                '<a href="'+store[ref].url+'" rel="permalink">'+store[ref].title+'</a>'+
+              '</h2>'+
+              '<div class="archive__item-teaser">'+
+                '<img src="'+store[ref].teaser+'" alt="">'+
+              '</div>'+
+              '<p class="archive__item-excerpt" itemprop="description">'+store[ref].excerpt.split(" ").splice(0,20).join(" ")+'...</p>'+
+            '</article>'+
+          '</div>';
+      }
+      else{
+    	  var searchitem =
+          '<div class="list__item">'+
+            '<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">'+
+              '<h2 class="archive__item-title" itemprop="headline">'+
+                '<a href="'+store[ref].url+'" rel="permalink">'+store[ref].title+'</a>'+
+              '</h2>'+
+              '<p class="archive__item-excerpt" itemprop="description">'+store[ref].excerpt.split(" ").splice(0,20).join(" ")+'...</p>'+
+            '</article>'+
+          '</div>';
+      }
+      resultdiv.insertAdjacentHTML('beforeend', searchitem);
+    }
+  });
+};
+
+initFunction(initQuery);
+</script>
+</head>
+
+  <body>
+    <!-- .js-show-sidebar shows sidebar by default -->
+    <div id="js-textbook" class="c-textbook js-show-sidebar">
+      
+
+
+
+<nav id="js-sidebar" class="c-textbook__sidebar">
+  <a href="https://github.com/alan-turing-institute/the-turing-way/"><img src="" class="textbook_logo" id="sidebar-logo" data-turbolinks-permanent/></a>
+  <h2 class="c-sidebar__title">The Turing Way</h2>
+  <ul class="c-sidebar__chapters">
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/reproducibility/reproducibility.html"
+        >
+          
+            1.
+          
+          Reproducibility
+        </a>
+
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry c-sidebar__entry--active"
+          href="/open_research/open_research.html"
+        >
+          
+            2.
+          
+          Open Research
+        </a>
+
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/version_control/version_control.html"
+        >
+          
+            3.
+          
+          Version Control
+        </a>
+
+        
+      </li>
+
+      
+    
+  </ul>
+  <p class="sidebar_footer">Powered by <a href="https://github.com/jupyter/jupyter-book">Jupyter Book</a></p>
+</nav>
+
+      
+      <!-- Shamelessly copied from minimal mistakes -->
+
+
+<!-- TOC will only show up if it has at least one item -->
+
+
+  <aside class="sidebar__right">
+    <nav class="onthispage">
+      <header><h4 class="nav__title"><i class="fa fa-list"></i>   On this page</h4></header>
+      <ul class="toc__menu">
+  <li><a href="#prerequisites--recommended-skill-level">Prerequisites / recommended skill level</a></li>
+  <li><a href="#table-of-contents">Table of contents</a></li>
+  <li><a href="#summary">Summary</a></li>
+  <li><a href="#how-this-will-help-you-why-this-is-useful">How this will help you/ why this is useful</a></li>
+  <li><a href="#open-data">Open data</a>
+    <ul>
+      <li><a href="#steps-to-make-your-data-open">Steps to make your data open</a></li>
+      <li><a href="#barriers-to-data-sharing">Barriers to data sharing</a></li>
+    </ul>
+  </li>
+  <li><a href="#open-source-software">Open source software</a>
+    <ul>
+      <li><a href="#what-is-open-source-software">What is open source software?</a></li>
+      <li><a href="#how-running-and-contributing-to-open-source-software-projects-benefits-you">How running and contributing to open source software projects benefits you</a></li>
+      <li><a href="#how-open-source-software-benefits-research">How open source software benefits research</a></li>
+      <li><a href="#how-to-run-your-own-open-source-software-project">How to run your own open source software project</a></li>
+      <li><a href="#how-to-contribute-to-others-open-source-software-projects">How to contribute to other’s open source software projects</a></li>
+    </ul>
+  </li>
+  <li><a href="#open-hardware">Open hardware</a>
+    <ul>
+      <li><a href="#why-open-hardware">Why open hardware?</a></li>
+      <li><a href="#elements-of-an-open-source-hardware-project">Elements of an open source hardware project</a></li>
+      <li><a href="#open-source-hardware-processes-and-practices">Open source hardware processes and practices</a></li>
+    </ul>
+  </li>
+  <li><a href="#open-access">Open access</a>
+    <ul>
+      <li><a href="#what-is-open-access">What is open access?</a></li>
+      <li><a href="#why-does-open-access-matter">Why does open access matter?</a></li>
+      <li><a href="#best-practice-for-open-access">Best practice for open access</a></li>
+    </ul>
+  </li>
+  <li><a href="#open-notebooks">Open notebooks</a></li>
+  <li><a href="#open-scholarship">Open scholarship</a>
+    <ul>
+      <li><a href="#open-educational-resources">Open educational resources</a></li>
+      <li><a href="#equity-diversity-inclusion">Equity, Diversity, Inclusion</a></li>
+      <li><a href="#citizen-science">Citizen science</a></li>
+    </ul>
+  </li>
+  <li><a href="#checklists">Checklists</a>
+    <ul>
+      <li><a href="#open-data-1">Open data</a></li>
+      <li><a href="#open-source-software-1">Open source software</a></li>
+      <li><a href="#open-hardware-1">Open hardware</a></li>
+      <li><a href="#open-access-1">Open access</a></li>
+      <li><a href="#open-notebooks-1">Open notebooks</a></li>
+    </ul>
+  </li>
+  <li><a href="#what-to-learn-next">What to learn next</a></li>
+  <li><a href="#further-reading">Further reading</a></li>
+  <li><a href="#definitionsglossary">Definitions/glossary</a></li>
+  <li><a href="#bibliography">Bibliography</a></li>
+</ul>
+    </nav>
+  </aside>
+
+
+      
+      <main class="c-textbook__page" tabindex="-1">
+          <div class="o-wrapper">
+            <div class="c-sidebar-toggle">
+  <!-- We show the sidebar by default so we use .is-active -->
+  <button
+    id="js-sidebar-toggle"
+    class="hamburger hamburger--arrowalt is-active"
+  >
+    <span class="hamburger-box">
+      <span class="hamburger-inner"></span>
+    </span>
+    <span class="c-sidebar-toggle__label">Toggle Sidebar</span>
+  </button>
+</div>
+
+            
+
+            <div class="c-textbook__content">
+              <h1 id="open-research">Open research</h1>
+
+<h2 id="prerequisites--recommended-skill-level">Prerequisites / recommended skill level</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Prerequisite</th>
+      <th>Importance</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Experience with version control</td>
+      <td>Helpful</td>
+      <td>Experience with GitHub is particularly useful</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Recommended skill level: low.</p>
+
+<h2 id="table-of-contents">Table of contents</h2>
+
+<ol>
+  <li><a href="#Summary">Summary</a></li>
+  <li><a href="#Why_this_is_useful">How this will help you/ why this is useful</a></li>
+  <li><a href="#Open_data">Open data</a>
+    <ol>
+      <li><a href="#Steps_to_make_your_data_open">Steps to make your data open</a>
+        <ol>
+          <li><a href="#Step_1_Make_your_data_available">Step 1: Make your data available</a></li>
+          <li><a href="#Step_2_Make_your_data_easy_to_understand">Step 2: Make your data easy to understand</a></li>
+          <li><a href="#Step_3_Make_your_data_easy_to_use">Step 3: Make your data easy to use</a></li>
+          <li><a href="#citing_data">Step 4: Make your data citeable</a></li>
+        </ol>
+      </li>
+      <li><a href="#Barriers_to_data_sharing">Barriers to data sharing</a>
+        <ol>
+          <li><a href="#Privacy">Privacy</a></li>
+          <li><a href="#National_and_commercially_sensitive_data">National and commercially sensitive data</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li><a href="#Open_source_software">Open source software</a>
+    <ol>
+      <li><a href="#What_is_open_source_software">What is open source software</a></li>
+      <li><a href="#How_running_and_contributing_to_open_source_software_projects_benefits_you">How running and contributing to open source software projects benefits you</a>
+        <ol>
+          <li><a href="#Making_your_own_work_open_source">Making your own work open source</a></li>
+          <li><a href="#Contributing_to_others_open_source_software_projects">Contributing to others’ open source software projects</a></li>
+        </ol>
+      </li>
+      <li><a href="#How_open_source_software_benefits_research">How open source software benefits research</a></li>
+      <li><a href="#How_to_run_your_own_open_source_software_project">How to run your own open source software project</a>
+        <ol>
+          <li><a href="#Readme">Readme</a></li>
+          <li><a href="#Contributing_guidelines">Contributing guidelines</a></li>
+          <li><a href="#Code_of_conduct">Code of conduct</a></li>
+        </ol>
+      </li>
+      <li><a href="#How_to_contribute_to_others_open_source_software_projects">How to contribute to other’s open source software projects</a>
+        <ol>
+          <li><a href="#Anatomy_of_an_open_source_software_project">Anatomy of an open source software project</a></li>
+          <li><a href="#Contribute_your_changes">Contribute your changes</a></li>
+          <li><a href="#Looking_for_projects_to_contribute_to_and_how_to_contribute_to_them">Looking for projects to contribute to and how to contribute to them</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li><a href="#Open_hardware">Open hardware</a>
+    <ol>
+      <li><a href="#Why_open_hardware">Why open hardware?</a></li>
+      <li><a href="#Elements_of_an_open_source_hardware_project">Elements of an open source hardware project</a></li>
+      <li><a href="#Open_source_hardware_processes_and_practices">Open source hardware processes and practices</a>
+        <ol>
+          <li><a href="#Designing_your_hardware">Designing your hardware</a></li>
+          <li><a href="#Hosting_your_design_files">Hosting your design file</a></li>
+          <li><a href="#Distributing_open_source_hardware">Distributing open source hardware</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li><a href="#Open_access">Open access</a>
+    <ol>
+      <li><a href="#What_is_open_access">What is open access?</a>
+        <ol>
+          <li><a href="#Repositories_and_self_archiving">Repositories and self-archiving</a></li>
+          <li><a href="#Open_access_publishing">Open access publishing</a></li>
+        </ol>
+      </li>
+      <li><a href="#Why_does_open_access_matter">Why does open access matter?</a></li>
+      <li><a href="#Best_practice_for_open_access">Best practice for open access</a>
+        <ol>
+          <li><a href="#Self_archiving">Self-archiving</a></li>
+          <li><a href="#Publication">Publication</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li><a href="#Open_notebooks">Open notebooks</a></li>
+  <li><a href="#Open_scholarship">Open scholarship</a>
+    <ol>
+      <li><a href="#Open_educational_resources">Open educational resources</a></li>
+      <li><a href="#Equity_Diversity_Inclusion">Equity, Diversity, Inclusion</a></li>
+      <li><a href="#Citizen_science">Citizen science</a></li>
+    </ol>
+  </li>
+  <li><a href="#Checklists">Checklists</a></li>
+  <li><a href="#What_to_learn_next">What to learn next</a></li>
+  <li><a href="#Further_reading">Further reading</a></li>
+  <li><a href="#Glossary">Definitions/glossary</a></li>
+  <li><a href="#Bibliography">Bibliography</a></li>
+</ol>
+
+<p><a name="Summary"></a></p>
+<h2 id="summary">Summary</h2>
+
+<p>Open research aims to transform research by making research more reproducible, transparent, re-usable, collaborative, accountable and closer to society. It pushes for change in the way that research is carried out and disseminated by digital tools. One definition of Open research, <a href="https://www.fct.pt/dsi/docs/Making_Open_Science_a_Reality.pdf" title="Making Open Science a Reality, OECD Science, Technology and Industry Policy Papers No. 25">as given by the Organisation for Economic Co-operation and Development (OECD)</a>, is the practice of making “the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction”. In order to achieve this openness in research, each element of the research process should:</p>
+
+<ul>
+  <li>Be publicly available: it is difficult to use and benefit from knowledge hidden behind barriers such as passwords</li>
+  <li>Be reusable: research outputs need to be licenced appropriately so that prospective users know clearly any limitations on re-use</li>
+  <li>Be transparent and have appropriate metadata to provide clear statements of how research output was produced and what it contains</li>
+</ul>
+
+<p>The research process typically has the following form: data is collected, it is then analysed (usually using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process it is good practice for researchers to document their working in notebooks. Open research aims to make each of these elements open:</p>
+
+<ul>
+  <li>Open data - documenting and sharing research data openly for re-use</li>
+  <li>Open source software - documenting research code and routines, and making them freely accessible and available</li>
+  <li>Open hardware - documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available</li>
+  <li>Open access - making all published outputs freely accessible for maximum use and impact</li>
+  <li>Open notebooks - an emerging practice, documenting and sharing the experimental process of trial and error</li>
+</ul>
+
+<p>These elements are expanded upon in this chapter.</p>
+
+<p>Open scholarship is a concept that extends open research further. It relates to making other aspects of scientific research open to the public, e.g.</p>
+
+<ul>
+  <li>Open educational resources - making educational resources publicly available to be re-used and modified.</li>
+  <li>Equity, diversity, inclusion - ensuring scholarship is open to anyone without barriers based on factors such as race, gender, sexual orientation, etc.</li>
+  <li>Citizen science - the inclusion of members of the public in scientific research</li>
+</ul>
+
+<p>These elements are also discussed in detail in this chapter.</p>
+
+<p><a name="Why_this_is_useful"></a></p>
+<h2 id="how-this-will-help-you-why-this-is-useful">How this will help you/ why this is useful</h2>
+
+<p>There are five main schools of thought motivating open practices to benefit research:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>School</th>
+      <th>Belief</th>
+      <th>Aim</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Infrastructure</td>
+      <td>Efficient research depends on the available tools and applications.</td>
+      <td>Creating openly available platforms, tools and services for researchers.</td>
+    </tr>
+    <tr>
+      <td>Pragmatic</td>
+      <td>Knowledge-creation could be more efficient if researchers worked together.</td>
+      <td>Opening up the process of knowledge creation.</td>
+    </tr>
+    <tr>
+      <td>Measurement</td>
+      <td>Academic contributions today need alternative impact measurements.</td>
+      <td>Developing an alternative metric system for research impact.</td>
+    </tr>
+    <tr>
+      <td>Democratic</td>
+      <td>The access to knowledge is unequally distributed.</td>
+      <td>Making knowledge freely available for everyone.</td>
+    </tr>
+    <tr>
+      <td>Public</td>
+      <td>Research needs to be made accessible to the public.</td>
+      <td>Making research accessible for citizens.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Open practices also benefit the researchers that propagate them. For example there is evidence <a href="https://elifesciences.org/articles/16800">(Mckiernan et al. 2016)</a> that open access articles are cited more often, as shown by the metastudy presented in the figure below.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><img src="../figures/open_access_citatations.jpg" alt="open_access_citatations" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The relative citation rate (OA: non-OA) in 19 fields of research. This rate is defined as the mean citation rate of OA articles divided by the mean citation rate of non-OA articles. Multiple points for the same discipline indicate different estimates from the same study, or estimates from several studies. References by discipline: Agricultural studies (Kousha and Abdoli, 2010); Physics/astronomy (Gentil-Beccot et al., 2010; Harnad and Brody, 2004; Metcalfe, 2006); Medicine (Sahu et al., 2005; Xu et al., 2011); Computer science (Lawrence, 2001); Sociology/social sciences (Hajjem et al., 2006; Norris et al., 2008; Xu et al., 2011); Psychology (Hajjem et al., 2006); Political science (Hajjem et al., 2006; Antelman, 2004; Atchison and Bull, 2015); Management (Hajjem et al., 2006); Law (Donovan et al., 2015; Hajjem et al., 2006); Economics (Hajjem et al., 2006; McCabe and Snyder, 2015; Norris et al., 2008; Wohlrabe, 2014); Mathematics (Antelman, 2004; Davis and Fromerth, 2007; Norris et al., 2008); Health (Hajjem et al., 2006); Engineering (Antelman, 2004; Koler-Povh et al., 2014); Philosophy (Antelman, 2004); Education (Hajjem et al., 2006; Zawacki-Richter et al., 2010); Business (Hajjem et al., 2006; McCabe and Snyder, 2015); Communication studies (Zhang, 2006); Ecology (McCabe and Snyder, 2014; Norris et al., 2008); Biology (Frandsen, 2009b; Hajjem et al., 2006; McCabe and Snyder, 2014).</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Another benefit of openness is that while research collaborations are essential to advancing knowledge, identifying and connecting with appropriate collaborators is not trivial. Open practices can make it easier for researchers to connect with one another by increasing the discoverability and visibility of one’s work, facilitating rapid access to novel data and software resources, and creating new opportunities to interact with and contribute to ongoing communal projects.</p>
+
+<p><a name="Open_data"></a></p>
+<h2 id="open-data">Open data</h2>
+
+<p>The world is witnessing a significant global transformation, facilitated by technology and digital media, and fuelled by data and information. This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research.
+ Only a very small proportion of the original data is published in conventional journals. Existing policies on data archiving notwithstanding, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public. This lack of data sharing is an obstacle to international research (be it academic, governmental or commercial) for two main reasons:</p>
+
+<ol>
+  <li>It is generally difficult or impossible to fully reproduce a study without the original data.</li>
+  <li>The data cannot be reused or incorporated into new work by other researchers if they cannot obtain access to it.</li>
+</ol>
+
+<p>Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs. Open data is crucial to meeting these objectives.
+Open data is freely available on the internet and any user is permitted to download, copy, analyse, re-process, and re-use it for any other purpose with minimal financial, legal, and technical barriers.
+This represents a real shift in how research works. At the moment anyone who wishes to use data from a researcher often has to contact that researcher and make a request. “Open by default” turns this on its head and says that there should be a presumption of publication for all. If access to data is restricted, for instance due to security reasons, the justification for this should be made clear.
+Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default. So, how do you go about making your data open?</p>
+
+<p><a name="Steps_to_make_your_data_open"></a></p>
+<h3 id="steps-to-make-your-data-open">Steps to make your data open</h3>
+
+<p><a name="Step_1_Make_your_data_available"></a></p>
+<h4 id="step-1-make-your-data-available">Step 1: Make your data available</h4>
+
+<p>Put your data online. It should be easily discoverable and accessible, and made available without bureaucratic or administrative barriers, which can deter people from accessing the data. Choose a location to store the data which will ensure historical copies of datasets are preserved, archived, and kept accessible as long as they retain value. Whenever possible, researchers should provide data in its original, unmodified form.</p>
+
+<p>Data should be free of charge, under <a href="https://fossbytes.com/open-sources-license-type/">an open licence</a>, (for example, those developed by Creative Commons) so it can be reused and remixed by other researchers. The data should be available as a whole and at no more than a reasonable reproduction cost i.e. no expensive piece of software should be required to read the file as this may obstruct researchers who wish to work with the dataset.</p>
+
+<p><a name="Step_2_Make_your_data_easy_to_understand"></a></p>
+<h4 id="step-2-make-your-data-easy-to-understand">Step 2: Make your data easy to understand</h4>
+
+<p>Having data available is of no use if it cannot be understood. For example, a table of numbers is useless if there are no headings which describe the contents of the rows and columns. Therefore you should ensure that open datasets include consistent core metadata, and that the data is fully described. This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.</p>
+
+<p><a name="Step_3_Make_your_data_easy_to_use"></a></p>
+<h4 id="step-3-make-your-data-easy-to-use">Step 3: Make your data easy to use</h4>
+
+<p>The data should be made available in a modifiable, machine-readable format so that it can be effectively used and  manipulated.
+It is also important to think about the file formats that information is provided in. Data should be presented in structured and standardized formats to support interoperability, traceability, and effective reuse. In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people.</p>
+
+<p><a name="citing_data"></a></p>
+<h4 id="step-4-make-your-data-citeable">Step 4: Make your data citeable</h4>
+
+<p>Data should be considered a legitimate, citable product of research. Making data citeable (and citing data yourself) facilitates the giving of scholarly credit; in scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited. Data citations facilitate identification of, access to, and verification of the specific data that support a claim, making it possible to reproduce the underlying analysis. You should ensure that anyone who wishes to cite a dataset that you host has access to a persistent identifier in order to do so.</p>
+
+<p>A data citation should include a persistent method for identification that is unique, and widely understandable by a community. There are several types of persistent identifier that could be used to identify datasets: examples include Handles, Archival Resource Keys (ARKs) and Persistent URLs (PURLs), all of which can be resolved to an Internet location. The scheme that is gaining most traction is the Digital Object Identifier (DOI).</p>
+
+<p><a name="doi_system"></a>
+The DOI System is an identifier scheme administered by the International DOI Foundation. The task of managing DOI registers is delegated to registration agencies (list <a href="http://www.doi.org/registration_agencies.html">here</a>) that each specialise in a type of resource. For research datasets, the registration agency is the <a href="https://www.datacite.org/">DataCite Consortium</a>. Among the services it provides are human and machine interfaces for simple end-user administration of DOI registrations. DataCite also collects metadata about each dataset it registers so they can be more easily understood and found. Any repository wishing to register DOIs needs to obtain a username and password from DataCite to gain access to the registration service. While best practice has yet to emerge on some matters, certain conventions are already becoming established:</p>
+
+<p>When organisations register a DOI for a resource, they should not introduce semantic elements into the suffix, especially not metadata that might change over time (e.g. publisher, archive, owner). Assign identifiers to static datasets only when no further changes or corrections are expected (i.e. after quality control checks are complete). As DOIs are used to cite data as evidence, the resource to which a DOI points should also remain unchanged, with any new version receiving a new DOI.</p>
+
+<p>Whichever identifier scheme you pick make sure it allows the identifier to be resolved to a URL. This URL should belong to a landing page that contains descriptive information about the dataset, as well as links or instructions for accessing it. You should also ensure that datasets are made citable and identifiable at an appropriate level of granularity, i.e. it would be no use citing CERN’s entire data repository as someone attempting to reproduce your work would not be able to find the data used in a specific piece of work without considerable difficulty. Where possible you should be able to cite the data used, and only the data used.</p>
+
+<p><a name="Barriers_to_data_sharing"></a></p>
+<h3 id="barriers-to-data-sharing">Barriers to data sharing</h3>
+
+<p>Sometimes it may not be possible to make data publicly available in its entirety or even in part. There are two main reasons this may be the case:</p>
+
+<p><a name="Privacy"></a></p>
+<h4 id="privacy">Privacy</h4>
+
+<p>Many fields of research involve working with sensitive personal data, medical research being the most obvious example.
+Individuals must be protected from (re)identification via their personal data used for research. Anonymisation of the data may be sufficient in some cases, but ensuring that reidentification is not possible is becoming increasingly difficult due to technical progress, growing computational power and – ironically – more open data. For example, reidentification may be possible via data-mining of accessible data and so-called quasi-identifiers, a set of (common) properties that are – in their combination – so specific that they can be used to identify individuals.</p>
+
+<p>Preserving privacy may still be possible if partial or generalised datasets are provided e.g. age bands instead of birth date or only the first two digits of postal codes. It may also be possible to provide the data in such a format that researchers can query it whist keeping the data itself closed, e.g. a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints.</p>
+
+<p><a name="National_and_commercially_sensitive_data"></a></p>
+<h4 id="national-and-commercially-sensitive-data">National and commercially sensitive data</h4>
+
+<p>In many cases companies are understandably unwilling to publish much of their data. The reasoning goes that if commercially sensitive information of a company is disclosed, it will damage the company’s commercial interests and undermine competitiveness. This is based on the thinking that in competitive markets, innovation will only occur with some protection of information: if a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources. The result is that no-one would innovate in the first place. Similarly, governments are often unwilling to publish data that relates to issues such as national security due to public safety concerns.</p>
+
+<p>In such cases it may not be possible to make data open, or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy.</p>
+
+<p><a name="Open_source_software"></a></p>
+<h2 id="open-source-software">Open source software</h2>
+
+<p><a name="What_is_open_source_software"></a></p>
+<h3 id="what-is-open-source-software">What is open source software?</h3>
+
+<p>When a project is open source anybody can view, use, modify, and distribute the project for any purpose. These permissions are enforced through an open source licence. Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly. In its most basic form, open sourcing your software simply means putting your code online where it can be viewed and reused by others.</p>
+
+<p>Many of the most widely used research software is open source. Perhaps the paradigmatic example is the scikit-learn Python package for machine learning (Pedregosa et al., 2011), which, in the space of just over five years, has attracted over 500 unique contributors, 20,000 individual code contributions, and 2,500 article citations. Producing a comparable package using a traditional closed-source approach would likely not be feasible, and would, at the very least, have required a budget of tens of millions of dollars. While scikit-learn is clearly an outlier, hundreds of other open source packages that support much more domain-specific needs depend in a similar fashion on unsolicited community contributions e.g., the NIPY (neuroimaging in Python) group of projects in neuroimaging (Gorgolewski et al., 2016). Importantly, such contributions not only result in new functionality from which the broader community can benefit, but also regularly provide their respective authors with greater community recognition, and lead to new project and employment opportunities.</p>
+
+<p>Researchers that make use of open source software often make changes to them such as adding features they need for their own research, or fixing bugs. They can then contribute these improvements back to the main project so the wider community can take advantage of them.</p>
+
+<p><a name="How_running_and_contributing_to_open_source_software_projects_benefits_you"></a></p>
+<h3 id="how-running-and-contributing-to-open-source-software-projects-benefits-you">How running and contributing to open source software projects benefits you</h3>
+
+<ul>
+  <li>Improve existing skills. Whether it’s coding, user interface design, graphic design, writing, or organizing, if you’re looking for practice, there’s a task for you on an open source software project. Further, open source necessitates cleaner, more maintainable code to enable collaboration between potentially thousands of people who may never meet. This helps to build and maintain good coding habits. Not to be underestimated are the people skills you can develop on open source software projects.
+Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organising teams of people, and prioritising work.</li>
+  <li>Advance your career. By definition, all of your open source work is public and this presents opportunities:
+    <ul>
+      <li>Demonstrate technical ability. Technical interviews traditionally involve working on a simulated problem that can be tackled in a set amount of time with little additional context. Such simulations, by definition, aren’t real world use cases, nor do they show what working with an applicant would be like. Open source provides visibility into both how a candidate solves problems, and how they work with others. You make a much more appealing employee if an employer can see the quality of your work and see you working with others over a long period of time rather than taking a chance on a single short, high-stress case which may not play to your strengths.</li>
+      <li>Reputation. Becoming an active member of the open source community can gain you a positive reputation which may bolster future job prospects.</li>
+    </ul>
+  </li>
+  <li>Meet people who are interested in similar things. Open source software projects with warm, welcoming communities keep people coming back for years and many people form lifelong friendships through their participation in open source.</li>
+  <li>Find mentors and teach others. Working with others on a shared project means you’ll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.</li>
+</ul>
+
+<p><a name="Making_your_own_work_open_source"></a></p>
+<h4 id="making-your-own-work-open-source">Making your own work open source</h4>
+
+<ul>
+  <li>Making your work openly available for re-use makes it easier for others to incorporate into their own research. If you make your software citeable, for example via a <a href="doi_system">DOI</a> this can increase your citations.</li>
+  <li>When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code. If your project is open the number of potentially contributing developers and thus the potential knowledge pool is orders of magnitude larger.</li>
+  <li>Feedback. Making your work open enables you to get feedback and improve your project in way you may never have thought of alone.</li>
+  <li>Accountability. There is an argument that any software developed using government money should be open source by default- if the public has paid for its development they have a right to make use of it. If your work is government funded making it open is a step you can take towards government openness and accountability.</li>
+</ul>
+
+<p><a name="Contributing_to_others_open_source_software_projects"></a></p>
+<h4 id="contributing-to-others-open-source-software-projects">Contributing to others’ open source software projects</h4>
+
+<ul>
+  <li>It’s empowering to be able to make changes, even small ones. You don’t have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source software project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.</li>
+  <li>It’s fun. Open source provides an endless, ever-changing set of Rubix cubes for you to solve on weekends. Just like puzzles, both crossword and jigsaw, open source provides bite-sized intellectual escapes.</li>
+</ul>
+
+<p><a name="How_open_source_software_benefits_research"></a></p>
+<h3 id="how-open-source-software-benefits-research">How open source software benefits research</h3>
+
+<p>Open source software projects primarily benefit research by allowing researchers to take advantage of each other’s work. This enables researchers to apply their efforts to  high-value work. It is sometimes said that “all the easy problems have already been solved”. Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few. While developers could spend their time reinventing wheels that the open source community have already perfected, it’s far preferable to use the world’s best wheel, especially when that wheel comes at no cost to you. This frees researchers up to work on yet-unsolved challenges. This reduces duplication of effort and allows researchers to focus on the work they’re actually interested in.</p>
+
+<p>Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups. Examples include <a href="https://www.linux.org/">Linux</a> operating systems, Python packages such as <a href="https://www.scipy.org/">scipy</a> and <a href="http://www.numpy.org/">numpy</a>, and the machine learning library <a href="https://www.tensorflow.org/">TensorFlow</a>.</p>
+
+<p><a name="How_to_run_your_own_open_source_software_project"></a></p>
+<h3 id="how-to-run-your-own-open-source-software-project">How to run your own open source software project</h3>
+
+<p>You can open source an idea, a work in progress, or after years of being closed source. At the most basic level all you need to do is put your code online somewhere that is likely to last a long time. You can make your code citeable by assigning it a DOI (as discussed in the section on <a href="#citing_data">making data citeable</a>). This helps ensure that you get proper credit if people use or build upon your work.</p>
+
+<p>A popular place to make your code available is GitHub (see the chapter on version control). You must include a licence file stating that anyone has permission to use, copy and modify your work. Without this no one can legally use your work and so it isn’t open source. <a href="https://choosealicense.com/">This</a> website offers a very simple mechanism to help you pick the best licence for your project. There are also a few other files you should include with your code:</p>
+
+<p><a name="Readme"></a></p>
+<h4 id="readme">Readme</h4>
+
+<p>You should include a readme file where you include useful information about what the project is, how to use it and how to contribute to it. Here’s a list of the main things a readme should include:</p>
+
+<ul>
+  <li>The project name and what it is. This will greatly help someone that comes across it to get an idea of the project. Include a few key points that describe the main features of the project and what are the main features you’re implementing.
+This helps to quickly compare other projects with yours and to give an idea that why the project exists in the first place.</li>
+  <li>Instructions on how to install the project. The installer might be a collaborator, someone that comes across and is interested in the project, or even you if you get a new machine and need to re-install your project. Nevertheless, it’s a total waste of both of your resources to start figuring out how to just get started with the project. This should also include any prerequisites that will be needed to run the project.
+The best thing you can do is to just write up the installation instructions when you first do them yourself, and you’ll quickly save hours of work in the future.</li>
+  <li>Instructions for how to run the code and any associated tests. If you’ve been working on your project it may seem obvious how to run it, but this will likely not be the case for someone coming across it for the first time.</li>
+  <li>Links to related material</li>
+  <li>List of authors/contributors to the project, possibly with contact information</li>
+  <li>Acknowledgements</li>
+</ul>
+
+<p>If you intend for other people to collaborate on your project (as opposed to just making your code available and considering it complete) then you should include contributing guidelines and most likely a code of conduct.</p>
+
+<p><a name="Contributing_guidelines"></a></p>
+<h4 id="contributing-guidelines">Contributing guidelines</h4>
+
+<p>Contributing guidelines tell your audience how to participate in your project. For example, you might include information on:</p>
+
+<ul>
+  <li>How to file a bug report</li>
+  <li>How to suggest a new feature</li>
+  <li>Your roadmap or vision for the project</li>
+  <li>How contributors should (or should not) get in touch with you</li>
+</ul>
+
+<p>Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate. For example, <a href="https://activeadmin.info/index.html">Active Admin</a> starts its <a href="https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md">contributing guide</a> with: “First off, thank you for considering contributing to Active Admin. It’s people like you that make Active Admin such a great tool.”</p>
+
+<p>In the earliest stages of your project, your contributing guidelines file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution. Over time, you might add other frequently asked questions here or in your readme file. Writing down this information means fewer people will ask you the same questions over and over again. It’s also a good idea to link to your contributing guidelines file from your readme, so more people see it.</p>
+
+<p><a name="Code_of_conduct"></a></p>
+<h4 id="code-of-conduct">Code of conduct</h4>
+
+<p>A code of conduct helps set ground rules for behaviour for your project’s participants. This is especially valuable if you’re launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behaviour, which will reduce your stress as a maintainer. In addition to communicating how you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.</p>
+
+<p>Much like open source licences, there are also emerging standards for codes of conduct, so you don’t have to write your own. The <a href="https://contributor-covenant.org/">Contributor Covenant</a> is a drop-in code of conduct that is used by <a href="https://www.contributor-covenant.org/adopters">over 40,000 open source projects</a>. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.</p>
+
+<p>Keep the file in your project’s root directory so it’s easy to find, and link to it from your readme.</p>
+
+<p><a name="How_to_contribute_to_others_open_source_software_projects"></a></p>
+<h3 id="how-to-contribute-to-others-open-source-software-projects">How to contribute to other’s open source software projects</h3>
+
+<p><a name="Anatomy_of_an_open_source_software_project"></a></p>
+<h4 id="anatomy-of-an-open-source-software-project">Anatomy of an open source software project</h4>
+
+<p>Every open source community is different. That said, many open source software projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.</p>
+
+<p>A typical open source software project has the following types of people:</p>
+
+<ul>
+  <li>Author: The person/s or organization that created the project</li>
+  <li>Owner: The person/s who has administrative ownership over the organization or repository (not always the same as the original author)</li>
+  <li>Maintainers: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. They may also be authors and/or owners of the project.</li>
+  <li>Contributors: Everyone who has contributed something back to the project.</li>
+  <li>Community members: People who use the project. They might be active in conversations or express their opinion on the project’s direction.</li>
+</ul>
+
+<p>Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project’s website for a “team” page, or in the repository for governance documentation, to find this information.</p>
+
+<p>A great many open source projects are hosted on GitHub (see the chapter on version control for more detail), which has facilities such as:</p>
+
+<ul>
+  <li>Issue tracker: Where people discuss issues related to the project.</li>
+  <li>Pull requests: Where people discuss and review changes that are in progress.</li>
+  <li>Discussion forums or mailing lists: Some projects may use these channels for conversational topics (for example, “How do I…” or “What do you think about…” instead of bug reports or feature requests). Others use the issue tracker for all conversations.</li>
+  <li>Synchronous chat channel: Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.</li>
+</ul>
+
+<p><a name="Contribute_your_changes"></a></p>
+<h4 id="contribute-your-changes">Contribute your changes</h4>
+
+<p>Say you’ve added a feature or fixed a bug and want to contribute this work to the main project.</p>
+
+<ol>
+  <li>Read the documentation. The main project may have contributing guidelines or information in a readme instructing prospective contributors on how to supply their changes.</li>
+  <li>Make sure your conventions match those of the main project, both in style and structure. For example if all the variables in a project are named in some particular way yours should be too! Consistent conventions make it much easier for someone who hasn’t seen your piece of the project before to understand it rather than having to figure out your particular set of conventions <em>and</em> what the code is doing. The project’s conventions may be outlined in its documentation, or may just be evident from inspection of the code itself.</li>
+  <li>Break your changes up into manageable, well-defined chunks, e.g. if you’ve added two separate features don’t submit them together. Keeping things “clean” in this way makes your work simpler to understand and review.</li>
+  <li>Test your changes. If the project comes with tests run them, and make sure you’re testing against an up to date version of the project as it may have evolved considerably over time. Write specific tests for your changes and submit those too.</li>
+  <li>Don’t just submit code- update any relevant documentation too. If your changes are incorporated it will have to be updated, if you don’t do it someone else will have to.</li>
+  <li>Ask questions. If there are things you are unsure about there’s no harm in asking. Many larger projects have dedicated forums or other venues for questions and discussion.</li>
+  <li>When you submit your changes clearly describe the changes you’ve made, why you’ve made them, and how they have been implemented. This makes it as easier for someone looking at your work and deciding whether to incorporate it into the main project to do so. In the likely case the main project is hosted on GitHub you should put this in the pull request (see the version control chapter for more details).</li>
+</ol>
+
+<p><a name="Looking_for_projects_to_contribute_to_and_how_to_contribute_to_them"></a></p>
+<h4 id="looking-for-projects-to-contribute-to-and-how-to-contribute-to-them">Looking for projects to contribute to and how to contribute to them</h4>
+
+<p>You don’t need to overthink what exactly your first contribution will be, or how it will look. Instead, start by thinking about the projects you already use, or want to use. The projects you’ll actively contribute to are the ones you find yourself coming back to. Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct. You might scan a readme and find a broken link or a typo. Or you’re a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That’s what open source is all about!</p>
+
+<p>You can also use one of the following resources to help you discover and contribute to new projects:</p>
+
+<ul>
+  <li><a href="https://opensourcefriday.com/">Open Source Friday</a></li>
+  <li><a href="https://www.firsttimersonly.com/">First Timers Only</a></li>
+  <li><a href="https://www.codetriage.com/">CodeTriage</a></li>
+</ul>
+
+<p>If you’re not sure how to start here’s a few other ways you can go about it such as finding an open issue to tackle or asking if you can help write a new feature.</p>
+
+<p>A common misconception about contributing to open source is that you need to contribute code. In fact, it’s often the other parts of a project that are most neglected or overlooked. You’ll do the project a huge favour by offering to pitch in with these types of contributions! You could:</p>
+
+<ul>
+  <li>Review code on other people’s submissions</li>
+  <li>Write and improve the project’s documentation</li>
+  <li>Curate a folder of examples showing how the project is used</li>
+  <li>Answer questions about the project on e.g., Stack Overflow</li>
+  <li>Keep things organized, e.g. on GitHub by:
+    <ul>
+      <li>Linking to duplicate issues</li>
+      <li>Suggesting new issue labels</li>
+      <li>Going through open issues and suggesting closing old ones</li>
+      <li>Ask clarifying questions on recently opened issues to move the discussion forward</li>
+    </ul>
+  </li>
+</ul>
+
+<p><a name="Open_hardware"></a></p>
+<h2 id="open-hardware">Open hardware</h2>
+
+<p>“Open hardware,” or “open source hardware,” refers to the design specifications of a physical object which are licenced in such a way that said object can be studied, modified, created, and distributed by anyone. Like open source software, the “source code” for open hardware—schematics, blueprints, logic designs, Computer Aided Design (CAD) drawings or files, etc.—is available for modification or enhancement by anyone. Users with access to the tools that can read and manipulate these source files can update and improve the physical device and the code that underlies it, and, if they wish, proceed to share such modifications.</p>
+
+<p>Open hardware’s source code should be readily accessible, and its components are preferably easy for anyone to obtain. Essentially, open hardware eliminates common roadblocks to the design and manufacture of physical goods; it provides as many people as possible the ability to construct, remix, and share their knowledge of hardware design and function.</p>
+
+<p>It’s worth noting that open hardware does not necessary mean free. Units may still be sold (by the original designer or by others), but users <em>could</em> build them from scratch. Whether or not they choose to buy the unit, users can still get a full understanding of how the hardware works from open documentation, designs, etc.</p>
+
+<p><a name="Why_open_hardware"></a></p>
+<h3 id="why-open-hardware">Why open hardware?</h3>
+
+<p>Open hardware allows researchers to understand exactly what their equipment is doing, how it’s doing it, and to verify that is doing it correctly rather than having to extend a degree of trust. Being aware of how the equipment that generates a result works puts researchers on a firmer footing in assessing those results. Open hardware also makes research more reproducible as researchers looking to verify results can do the same thing.</p>
+
+<p>Other benefits of open hardware include protection against lock-in. Proprietary software for core infrastructure increases the risk of becoming locked in by the vendor or technology. If this happens, researchers can be at the mercy of vendors’ price increases and experience a lack of flexibility they can’t easily and readily escape. Further, if researchers want to modify their equipment to better suit their needs it is much easier to do so (and may only be legal) in the case of open source hardware.</p>
+
+<p><a name="Elements_of_an_open_source_hardware_project"></a></p>
+<h3 id="elements-of-an-open-source-hardware-project">Elements of an open source hardware project</h3>
+
+<p>Here are some files that you should consider sharing when publishing your open source hardware project. You are not required to post them all, but the more you share the more the community benefits. There is a lot of crossover here with files to include in open source software projects.</p>
+
+<ul>
+  <li>Overview / Introduction. Your open source hardware project should include a general description of the hardware’s identity and purpose, written as much as possible for a general audience. That is, explain what the project is and what it’s for before you get into the technical details. A good photo or rendering can help a lot here.</li>
+  <li>A licence. This grants legal permission to anyone to re-use, modify and distribute your designs and hardware acoring to the terms stated e.g. they must acknowledge your contribution.</li>
+  <li>Original Design Files. These are the original source files that you would use to make modifications to the hardware’s design. The act of sharing these files is the core practice of open source hardware.
+    <ul>
+      <li>Ideally, your open source hardware project would be designed using a free and open source software application, to maximize the ability of others to view and edit it. For better or worse however, hardware design files are often created in proprietary programs and stored in proprietary formats. It is still essential to share these original design files; they constitute the original “source code” for the hardware. They are the very files that someone will need in order to contribute changes to a given design.</li>
+      <li>Try to make your design files easy for someone else to understand. Organize them in a logical way; comment complex aspects; note any unusual manufacturing procedures; etc.</li>
+      <li>Examples of Original Design Files include 2D drawings and computer-aided design (CAD) files.</li>
+    </ul>
+  </li>
+  <li>Auxiliary Design Files. Beyond the original design files, it is often helpful to share your design in additional, more accessible formats. For example, best practice open sourcing a CAD design is to share the design not just in its native file format, but also in a range of interchange and export formats that can be opened or imported by other CAD programs.
+    <ul>
+      <li>It is also helpful to provide ready-to-view outputs that can easily be viewed by end users who wish to understand (but not necessarily modify) the design. For example, a PDF of a circuit board schematic. These auxiliary design files allow people to study the design of the hardware, and sometimes even fabricate it, even without access to particular proprietary software packages. However, note that auxiliary design files are never recommended as substitutes for original design files.</li>
+    </ul>
+  </li>
+  <li>Additional technical drawings in their original formats, if required for fabrication of the device, in a commonly-readable format such as PDF.</li>
+  <li>Bill Of Materials. While it might be possible to infer from the design files which parts make up a piece of hardware, it is important to provide a separate bill of materials. This can be a spreadsheet (e.g. CSV, XLS, Google Doc) or simply a text file with one part per line.
+    <ul>
+      <li>Useful things to include in the bill of materials are part numbers, suppliers, costs, and a short description of each part. Make it easy to tell which item in the bill of materials corresponds to which component in your design files: use matching reference designators in both places, provide a diagram indicating which part goes where, or otherwise explain the correspondence.</li>
+    </ul>
+  </li>
+  <li>Software and Firmware. You should share any code or firmware required to operate your hardware. This will allow others to use it with their hardware or modify it along with their modifications to your hardware. Document the process required to build your software, including links to any dependencies (e.g. third-party libraries or tools). In addition, it’s helpful to provide an overview of the state of the software (e.g. “stable” or “beta” or “barely-working hack”).</li>
+  <li>Photos. Photos help people understand what your project is and how to put it together. It’s good to publish photographs from multiple viewpoints and at various stages of assembly. If you don’t have photos, posting 3D renderings of your design is a good alternative. Either way, it’s good to provide captions or text that explain what’s shown in each image and why’s it’s useful.</li>
+  <li>Instructions and Other Explanations. In addition to the design files themselves, there are a variety of explanations that are invaluable in helping others to make or modify your hardware:
+    <ul>
+      <li>Making the hardware. To help others make and modify your hardware design, you should provide instructions for going from your design files to the working physical hardware. As part of the instructions, it’s helpful to link to datasheets for the components / parts of your hardware and to list the tools required to assemble it. If the design requires specialized tools, tell people where to get them.</li>
+      <li>Using the hardware. Once someone has made the hardware, they need to know how to use it. Provide instructions that explain what it does, how to set it up, and how to interact with it.</li>
+      <li>Design rationale. If someone wants to modify your design, they’ll want to know why it is the way it is. Explain the overall plan of the hardware’s design and why you made the specific choices you did.</li>
+      <li>Keep in mind that these instructions may be read by someone whose expertise or training is different from yours. As much as possible, try to write to a general audience, and check your instructions for industry jargon, be explicit about what you assume the user knows, etc.</li>
+      <li>The instructions could be in a variety of formats, like a wiki, text file, Google Doc, or PDF. Remember, though, that others might want to modify your instructions as they modify your hardware design, so it’s good to provide the original editable files for your documentation, not just output formats like PDF.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><a name="Open_source_hardware_processes_and_practices"></a></p>
+<h3 id="open-source-hardware-processes-and-practices">Open source hardware processes and practices</h3>
+
+<p><a name="Designing_your_hardware"></a></p>
+<h4 id="designing-your-hardware">Designing your hardware</h4>
+
+<p>If you’re planning to open source a particular piece of hardware, following certain best practices in its design will make it easier for others to make and modify the hardware:</p>
+
+<p>Use free and open source software design (CAD) tools where possible. If that’s not feasible, try to use low-cost and/or widely-used software packages.</p>
+
+<p>Use standard and widely-available components, materials, and production processes. Try to avoid parts that aren’t available to individual customers or processes that require expensive setup costs.</p>
+
+<p><a name="Hosting_your_design_files"></a></p>
+<h4 id="hosting-your-design-files">Hosting your design files</h4>
+
+<p>A basic way of sharing your files is with a zip file on your website. While this is a great start, it makes it difficult for others to follow your progress or to contribute improvements. Using an online source-code repository (like GitHub, GitLab, or NotaBug) may be a better place to store your open source hardware projects.</p>
+
+<p><a name="Distributing_open_source_hardware"></a></p>
+<h4 id="distributing-open-source-hardware">Distributing open source hardware</h4>
+
+<ul>
+  <li>Provide links to the source (original design files) for your hardware on the product itself, its packaging, or its documentation.</li>
+  <li>Make it easy to find the source (original design files) from the website for a product.</li>
+  <li>Label the hardware with a version number or release date so that people can match the physical object with the corresponding version of its design files.</li>
+  <li>In general, clearly indicate which parts of a product are open source (and which aren’t).</li>
+</ul>
+
+<p><a name="Open_access"></a></p>
+<h2 id="open-access">Open access</h2>
+
+<p><a name="What_is_open_access"></a></p>
+<h3 id="what-is-open-access">What is open access?</h3>
+
+<p>One of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public if purchased by means of a subscription fee or individually. However, new knowledge is built by synthesizing current scholarship and then building upon it. At the turn of the 21st century a new movement appeared with a clear objective: make all the research results available to anyone interested in reading it, free of charge by any user, with no technical obstacles such as mandatory registration or login to specific platforms. This movement took the name of Open access and established two initial strategies to achieve its final goal: self-archiving and open access publishing.</p>
+
+<p><a name="Repositories_and_self_archiving"></a></p>
+<h4 id="repositories-and-self-archiving">Repositories and self-archiving</h4>
+
+<p>The aim of the self-archiving movement is to provide tools and assistance to scholars to deposit their refereed journal articles in open electronic repositories.  As a result of the first strategy we see self-archiving practices: researchers depositing and disseminating papers in institutional or subject based repositories. There has also been a growth in the publication of preprints through institutional repositories and preprint servers. Preprints are widely used in physical sciences and now emerging in life sciences and other fields. Preprints are documents that have not been peer reviewed but are considered as a complete publication in a first stage. Some of the preprint servers include open peer review services and the availability to post new versions of the initial paper once reviewed by peers.</p>
+
+<p>At the beginning of 2019 more than 4000 repositories are available for researchers to self-archive their publications according to the <a href="http://roar.eprints.org/">registry of open access repositories</a>. In this list we can find institutional repositories, subject based or thematic repositories and harvesters. The first ones are generally managed by research performing institutions to provide to their community a place to archive and share openly papers and other research outputs. Subject based repositories are usually managed by research communities and most of the contents are related to a certain discipline. Finally, harvesters aggregate content from different repositories becoming sites to perform general searches and build other value-added services.</p>
+
+<p>When choosing a journal to publish research results, researchers should take a moment to read the journal policy regarding the transfer of copyright. Many journals still require for publication that authors transfer full copyright. This transfer of rights implies that authors must ask for permission to reuse their own work beyond what is allowed by the applicable law, unless there are some uses already granted. Such granted uses may include teaching purposes, sharing with colleagues, and self-archiving by researchers of their papers in repositories. Sometimes there a common policy among all the journals published by the same publishers but in general journals have their own policy, especially when they are published on behalf of a scientific society. When looking at the self-archiving conditions we must identify two key issues: the version of the paper that can be deposited and when it can be publicly available.</p>
+
+<p>Regarding the version, some journals allow the dissemination of the submitted version, also known as preprint, and they allow its replacement for a reviewed version once the final paper has been published. Due to the increase of policies requiring access to research results, most of the journals allow self-archiving of the accepted version of the paper, also known as the author manuscript or postprint. This version is the final text once the peer review process has ended but it has not the final layout of the publication. Finally some journals do allow researchers to deposit the final published version, also known as the version of record.</p>
+
+<p>In relation to the moment to make the paper publicly available, many journals establish a period of time from its original publication: the embargo period, which can range from zero to 60 months when making the paper publicly available is not permitted. Some journals include or exclude embargoes depending on the versions. For instance the accepted version could be made publicly available after publication but the published version must wait 12 months.</p>
+
+<p><a name="Open_access_publishing"></a></p>
+<h4 id="open-access-publishing">Open access publishing</h4>
+
+<p>Open access publishing attempts to ensure permanent open access to all the articles published in journals, and as a result we have seen the creation of the open access journals. The number of open access journals has increased during the last years, according to the Directory of Open access Journals (<a href="http://www.doaj.org">DOAJ</a>), currently there are more than 12,000. Open access journal must provide free access to its contents but it also must licence them to allow reusability.</p>
+
+<p>Currently many paywalled journals offer individual open access options to researchers once the paper is accepted after peer review. Those options include the publication under a free content licence and free accessibility to anyone since its first publication. This model is commonly known as the hybrid model because in the same issue of a journal, readers can find open access and paywalled contributions. Usually publishers ask for a fee to open individual contributions.</p>
+
+<p>Open access publishing has two primary versions—gratis and libre. Gratis open access is simply making research available for others to read without having to pay for it. However, it does not grant the user the right to make copies, distribute, or modify the work in any way beyond fair use. Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users additional rights, usually via a Creative Commons licence, so that people are free to reuse and remix the research. There are varying degrees of what may be considered libre open access. For example, some scholarly articles may permit all uses except commercial use, some may permit all uses except derivative works, and some may permit all uses and simply require attribution. While some would argue that libre open access should be free of any copyright restrictions (except attribution), other scholars consider a work that removes at least some permission barriers to be libre.</p>
+
+<p><a name="Why_does_open_access_matter"></a></p>
+<h3 id="why-does-open-access-matter">Why does open access matter?</h3>
+
+<p>Research is useless if it’s not shared; even the best research is ineffectual if others aren’t able to read and build on it. When price barriers keep articles locked away, research cannot achieve its full potential. Open access benefits researchers who can work more effectively with a better understanding of the literature. It also helps avoid duplication of effort. No researcher (or funder) wants to waste time and money conducting a study if they know it has been attempted elsewhere. But, duplication of effort is all-too-possible when researchers can’t effectively communicate with one another and make results known to others in their field and beyond. It also benefits researchers by providing better visibility and therefore higher impact/citation rate for their scholarship.  Numerous publishers, both non-profit and for-profit, voluntarily make their articles openly available at the time of publication or within 6-12 months.  Many have switched from a closed, subscription model to an open one as a strategic business decision to increase their journal’s exposure and impact. Further it can be argued that taxpayers who pay for much of the research published in journals have a right to access the information resulting from that investment without charge. Finally, if research is available to the widest possible pool of readers then it is more likely/easy for it to be checked and reproduced.</p>
+
+<p><a name="Best_practice_for_open_access"></a></p>
+<h3 id="best-practice-for-open-access">Best practice for open access</h3>
+
+<p><a name="Self_archiving"></a></p>
+<h4 id="self-archiving">Self-archiving</h4>
+
+<p>Self-archive a publication in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher, e.g. an embargo period, or limits on the allowed version to be deposited in such archives. In doing this it is important to make sure you are aware of the copyright implications of any documents/agreements you make when submitting your manuscript to a journal. If your institution does not have an institutional repository, advocate for the creation of one.</p>
+
+<p><a name="Publication"></a></p>
+<h4 id="publication">Publication</h4>
+
+<p>Consider submitting your work to a journal that is open access. When doing this be aware that there may be funds or discounts available to cover any associated costs.</p>
+
+<p><a name="Open_notebooks"></a></p>
+<h2 id="open-notebooks">Open notebooks</h2>
+
+<p>Electronic Lab Notebooks (ELNs) enable researchers to organize and store experimental procedures, protocols, plans, notes, data, and even unfiltered interpretations using their computer or mobile device. They are a digital analogue to the paper notebook most researchers keep. ELNs can offer several advantages over the traditional paper notebook in documenting research during the active phase of a project, including searchability within and across notebooks, secure storage with multiple redundancies, remote access to notebooks, and the ability to easily share notebooks among team members and collaborators.</p>
+
+<p>Open notebook research is simply the practice of making such notebooks openly available, usually online. Some researchers choose to keep their notebooks open from the very beginning of their projects. Rather than wait months, even years, to share their research through journal publication as is the current practice, this allows researchers to post their experimental data and protocols online and in real-time. Sharing research in this open and timely manner helps to reduce duplication of work, helps foster new collaborations and cultivates a more open dialogue with others. It also helps researchers avoid making exploring dead ends and making mistakes that have already been covered by their colleague, but went unpublished because of lack of scientific interest.</p>
+
+<p>Open notebooks have the further benefit of increasing the quality of scientific outputs by forcing researchers to be careful, thorough, and explicit. Making research open has the added benefit of increasing the likelihood that any errors made in an investigation will be spotted quickly, instead of down the line. Immediate fixes will have much less impact on a research project, which will save a research time, the lab money, and pride.</p>
+
+<p>Ideally, every scientist would maintain an open notebook in real-time which would encompass all aspects of their research. But many fears about dealing with complete open access, conflicts with intellectual property and publications, and online data overload hamper this movement. To combat this, practitioners encourage any form of open notebook research, “make open what you can”, even if that means uploading some information for a project from many years ago that never saw the light of day.</p>
+
+<p><a name="Open_scholarship"></a></p>
+<h2 id="open-scholarship">Open scholarship</h2>
+
+<p>Open research and its subcomponents fit under the umbrella of a broader concept- open scholarship.</p>
+
+<p><img src="../figures/open_umbrella.png" alt="open_umbrella" /></p>
+
+<p><a name="Open_educational_resources"></a></p>
+<h3 id="open-educational-resources">Open educational resources</h3>
+
+<p>Open Educational Resources (OER) are teaching and learning materials that can be freely used and reused for learning and/or teaching at no cost, and without needing to ask permission. Examples are courses- including MOOCs (Massive Online Open Course), lectures, teaching materials, assignments and various other resources. OERs are available in many different formats compatible with online usage, most obviously text, images, audio and video. Anyone with internet access can access and use OERs; access is not dependent on location or membership of a particular institution.</p>
+
+<p>Unlike copyrighted resources, OER have been authored or created by an individual or organization that chooses to retain few, if any, ownership rights. In some cases, that means anyone can download a resource and share it with colleagues and students. In other cases, this may go further and enable people to edit resources and then re-post them as a remixed work. How do you know your options? OER often have a Creative Commons licence or other permission to let you know how the material may be used, reused, adapted, and shared.</p>
+
+<p>Fully open OERs comply with the 5 Rs:</p>
+
+<ul>
+  <li>Retain: the right to make, own, and control copies of the content</li>
+  <li>Reuse: the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)</li>
+  <li>Revise: the right to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)</li>
+  <li>Remix: the right to combine the original or revised content with other open content to create something new (e.g., incorporate the content into a mashup)</li>
+  <li>Redistribute: the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)</li>
+</ul>
+
+<p>Researchers generate a great deal of educational resources in the course of teaching students and each other (at workshops, for example). By making these openly available, for example in the <a href="https://www.oercommons.org/">open educational resource commons</a>, the wider community can benefit from them in three main ways:</p>
+
+<ol>
+  <li>Most obviously, the community can use the materials to learn about the material they cover</li>
+  <li>Sharing resources reduces duplication of effort. If an educator needs materials for teaching and such materials already exist openly then they need not make their own from scratch, saving time.</li>
+  <li>Making materials openly available helps a community build better resources by improving resources that already exist and combining OERs to take advantage of their different strengths, such as a great diagram or explanation.</li>
+</ol>
+
+<p>Beyond the raw practical benefits the worldwide OER movement is rooted in the human right to access high-quality education. This shift in educational practice is about participation and co-creation. Open Educational Resources (OER) offer opportunities for systemic change in teaching and learning content through engaging educators in new participatory processes and effective technologies for engaging with learning.</p>
+
+<p><a name="Equity_Diversity_Inclusion"></a></p>
+<h3 id="equity-diversity-inclusion">Equity, Diversity, Inclusion</h3>
+
+<p>Open scholarship means open to <em>everyone</em> without discrimination based on factors such as race, gender, sexual orientation or any number of other factors. As a community we should undertake to ensure equitable opportunities for all. We can go about that by deliberately fostering welcoming, inclusive cultures within out communities. For example, reasonable accommodations should be made wherever possible to include community members with disabilities to enable them to participate fully, and this can be as simple as choosing colourblind-safe colour schemes when making graphs.</p>
+
+<p><a name="Citizen_science"></a></p>
+<h3 id="citizen-science">Citizen science</h3>
+
+<p>Citizen science is the involvement of the public in scientific research – whether community-driven research or global investigations, the Oxford English Dictionary recently defined it as: “scientific work undertaken by members of the general public, often in collaboration with or under the direction of professional scientists and scientific institutions.” Citizen science offers the power of science to everyone, and the power of everyone to science.</p>
+
+<p>By allowing members of the public to contribute to scientific research, citizen science helps engage and invest the wider world in science. It also benefits researchers by offering manpower that simply wouldn’t be accessible otherwise. Examples of this include <a href="https://citizensciencegames.com/games/eterna/">finding</a> ways of folding molecules, and <a href="https://www.zooniverse.org/">classifying</a> different types of galaxies.</p>
+
+<p><a name="Checklists"></a></p>
+<h2 id="checklists">Checklists</h2>
+
+<h3 id="open-data-1">Open data</h3>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Ensure your data is in a simple, standard format or formats which is machine and human readable.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Check, reformat or create metadata to clearly describe what the data is, how it was collected, and any associated strengths/weaknesses to someone that finds it.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Identify a relevant, easily discoverable repository or repositories to host your data, and upload it there</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Assign your data a persistent identifier such as a DOI.</li>
+</ul>
+
+<h3 id="open-source-software-1">Open source software</h3>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Put your code in a freely accessible repository</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Include a licence granting others the right to use, copy and modify your work. You can use <a href="https://choosealicense.com/">this</a> website to help you pick the most appropriate licence for your project.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Include a readme file containing useful information about a project such as what it is, how to use/install it and how to run any tests.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />If you want others to collaborate on the project include contribution guidelines.</li>
+</ul>
+
+<h3 id="open-hardware-1">Open hardware</h3>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Use open hardware where practical</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Make detailed documentation and designs for any hardware you develop openly available</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Include a licence granting others the right to use, copy and modify your work. You can use <a href="https://choosealicense.com/">this</a> website to help you pick the most appropriate licence for your project.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Include a readme file containing useful information about a project such as what it is, materials used, etc.</li>
+</ul>
+
+<h3 id="open-access-1">Open access</h3>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Publish your research in an open access journal</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Store a copy and/or preprint of your work in a freely accessible public repository</li>
+</ul>
+
+<h3 id="open-notebooks-1">Open notebooks</h3>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Keep notes in an Electronic Lab Notebook</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Make your notebooks publicly accessible online.</li>
+</ul>
+
+<p><a name="What_to_learn_next"></a></p>
+<h2 id="what-to-learn-next">What to learn next</h2>
+
+<p>If you haven’t had a chance already, take a look at the chapter on version control, particularly the sections on GitHub in the latter half.</p>
+
+<p><a name="Further_reading"></a></p>
+<h2 id="further-reading">Further reading</h2>
+
+<p><a href="http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/">This</a> book on open science has a great deal of interesting information. For information specific to open source software <a href="https://opensource.guide/">this</a> is a good place to look. For more information on DOIs and citing resources look <a href="http://www.doi.org/index.html">here</a>. If you want to take a look at an active open source project this textbook <em>is</em> one. The source can be found on GitHub <a href="https://github.com/alan-turing-institute/the-turing-way">here</a> and for further details related to this project you can take a look at the project <a href="https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science">website</a>.</p>
+
+<p><a name="Glossary"></a></p>
+<h2 id="definitionsglossary">Definitions/glossary</h2>
+
+<p><strong>Citizen science:</strong> The involvement of members of the public in scientific research.</p>
+
+<p><strong>Contributing guidelines:</strong> Guidelines outlining how a person should go about contributing to an open source project.</p>
+
+<p><strong>Contributor:</strong> Someone that has contributed something (not necessarily code) to an open source project.</p>
+
+<p><strong>DOI:</strong> A widely used type of persistent identifier.</p>
+
+<p><strong>GitHub:</strong> An online code hosting and version control service. It has a great many features to aid collaboration between users, and hosts a large number of open source projects.</p>
+
+<p><strong>Maintainer:</strong> Contributors who are responsible for driving the vision and managing the organizational aspects of the project. They may also be authors and/or owners of the project.</p>
+
+<p><strong>Metadata:</strong> Data used to describe other data. For example (35, 33, 27, 30, 33) is data but the units (miles per hour) and the fact these are the speeds of cars on a certain stretch of road is metadata.</p>
+
+<p><strong>Open access publishing (gratis):</strong> The practice of making research publications available to anyone to read without charge.</p>
+
+<p><strong>Open access publishing (libre):</strong> Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users the right to copy, reuse, and remix the publication.</p>
+
+<p><strong>Open data:</strong> Data that is freely available online for reuse without bureaucratic or administrative barriers.</p>
+
+<p><strong>Open educational resource:</strong> Educational materials available online for anybody to use, remix and distribute.</p>
+
+<p><strong>Open notebook:</strong> The practise of making research notebooks openly available.</p>
+
+<p><strong>Open source software:</strong> Software which is available online for anybody to view, use, modify, and distribute.</p>
+
+<p><strong>Open source hardware:</strong> Hardware with documentation, designs, materials used, and other relevant information freely accessible and available</p>
+
+<p><strong>Persistent identifier:</strong> A long-lived method for identifying a resource that is unique, and widely understandable by a community.</p>
+
+<p><strong>Readme:</strong> A file which contains useful information about a project such as what it is, how to use/install it, how to test it, and how to contribute to it.</p>
+
+<p><strong>Repository:</strong> A long-lived place on the internet where resources (be they data, software, publications or anything else) can be stored and accessed.</p>
+
+<p><strong>Self-archive:</strong> To place your research output in a repository.</p>
+
+<p><a name="Bibliography"></a></p>
+<h2 id="bibliography">Bibliography</h2>
+<ul>
+  <li><a href="https://www.fosteropenscience.eu/content/what-open-science-introduction">1.</a> <strong>CC-BY 4.0</strong></li>
+  <li><a href="https://open-science-training-handbook.gitbook.io/book/introduction">2.</a> <strong>CC 1.0</strong></li>
+  <li><a href="https://www.fosteropenscience.eu/content/introduction-open-science-funders-introductory">3.</a> <strong>Attribution + Noncommercial - CC-BY-NC</strong></li>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-3-319-00026-8_2">4.</a> <strong>Creative Commons Attribution Noncommercial Licence</strong></li>
+  <li><a href="https://elifesciences.org/articles/16800">5.</a> <strong>Attribution 4.0 International (CC BY 4.0)</strong></li>
+  <li><a href="https://www.fosteropenscience.eu/content/introduction-open-science-funders-introductory">6.</a> <strong>Attribution + Noncommercial - CC-BY-NC</strong></li>
+  <li><a href="http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/vision/open_research_data.html">7.</a> <strong>Creative Commons Attribution-NonCommercical</strong></li>
+  <li><a href="http://opendatahandbook.org/guide/en/what-is-open-data/">8.</a> <strong>CC Attribution 4.0 International Licence</strong></li>
+  <li><a href="https://opendatacharter.net/">9.</a> <strong>Creative Commons Attribution 4.0 International Licence</strong></li>
+  <li><a href="http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/making_data_citeable.html">10.</a> <strong>Creative Commons Attribution-NonCommercical</strong></li>
+  <li><a href="http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/challenges_of_open_data_in_medical_research.html">11.</a> <strong>Creative Commons Attribution-NonCommercical</strong></li>
+  <li><a href="http://www.dcc.ac.uk/resources/how-guides/cite-datasets">12.</a> <strong>Creative Commons</strong></li>
+  <li><a href="https://www.open-contracting.org/2016/09/19/diving-deeper-commercial-confidentiality/">13.</a> <strong>Creative Commons Attribution 4.0 International Licence</strong></li>
+  <li><a href="https://ben.balter.com/2015/11/23/why-open-source/">14.</a> <strong>CC BY 3.0</strong></li>
+  <li><a href="https://opensource.guide/starting-a-project/">15.</a> <strong>(CC BY 4.0)</strong></li>
+  <li><a href="https://opensource.guide/">16.</a> <strong>(CC BY 4.0)</strong></li>
+  <li><a href="https://opensource.com/resources/what-open-access">17.</a> <strong>Attribution-ShareAlike 4.0 International</strong></li>
+  <li><a href="http://www.righttoresearch.org/learn/whyOA/index.shtml">18.</a> <strong>Creative Commons Attribution 3.0 Licence</strong></li>
+  <li><a href="https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-access-to-published-research-results">19.</a> <strong>CC0 1.0 Universal</strong></li>
+  <li><a href="https://www.oercommons.org/about">20.</a> <strong>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Licence</strong></li>
+  <li><a href="https://libguides.ioe.ac.uk/oer">21.</a>  <strong>Creative CommonsAttribution-NonCommercial-ShareAlike 2.0 UK: England &amp; Wales (CC BY-NC-SA 2.0 UK)</strong></li>
+  <li><a href="https://opencontent.org/blog/archives/3221">22.</a> <strong>Creative Commons Attribution licence version 4.0</strong></li>
+  <li><a href="https://opensource.com/resources/what-open-hardware">23.</a> <strong>CC BY-SA 4.0</strong></li>
+  <li><a href="https://opensource.com/article/17/8/enterprise-open-source-advantages">24.</a> <strong>CC BY-SA 4.0</strong></li>
+  <li><a href="https://www.oshwa.org/sharing-best-practices/">25.</a> <strong>Creative Commons Attribution-ShareAlike 4.0 International Licence</strong></li>
+  <li><a href="https://openlabnotebooks.org/open-science-at-sgc/">26.</a> <strong>CC BY 4.0</strong></li>
+  <li><a href="http://onsnetwork.org/">27.</a> <strong>Attribution 3.0 Unported (CC BY 3.0)</strong></li>
+  <li><a href="https://libraries.mit.edu/data-management/store/electronic-lab-notebooks/">28.</a> <strong>CC BY-NC 2.0</strong></li>
+  <li><a href="https://www.citizenscience.org/">29.</a> <strong>(CC BY 4.0)</strong></li>
+</ul>
+
+              <nav class="c-page__nav">
+  
+    
+    <a id="js-page__nav__prev" class="c-page__nav__prev" href="/reproducibility/reproducibility">
+      〈 <span class="u-margin-right-tiny"></span> Reproducibility
+    </a>
+  
+
+  
+    
+    <a id="js-page__nav__next" class="c-page__nav__next" href="/version_control/version_control">
+      Version Control <span class="u-margin-right-tiny"></span> 〉
+    </a>
+  
+</nav>
+
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+
+  </body>
+</html>
