@@ -37,5 +37,7 @@
   url: reproducible_environments/reproducible_environments
 - title: Testing
   url: testing/testing
+- title: Continous Integration
+  url: continuous_integration/continuous_integration
 - title: Research Data Management
   url: rdm/rdm
