@@ -1,9 +1,5 @@
 # Research Data Management
 
-> **NOTE** This chapter will be followed by/link to a data champions case study on using sensitive data, adding open into consent (as lesson learnt) to be provided by Louise
-
-Style guide: 1 sentence per line please
-
 ## Prerequisites / recommended skill level
 The following sections in this handbook provide useful context and complementary information to this chapter:
 - Version control
