@@ -17,16 +17,18 @@
 # ==============================
 # AUTOMATICALLY GENERATED TOC FILE.
 # You should review the contents of this file, re-order items as you wish,
-# and nest chapters in sections if you wish. The ======= symbols represent 
+# and nest chapters in sections if you wish. The ======= symbols represent
 # folder breaks.
-# 
-# See the demo `toc.yml` for the right structure to follow. You can 
+#
+# See the demo `toc.yml` for the right structure to follow. You can
 # generate a demo book by running `jupyter-book create mybook --demo`
 # ==============================
 
 
 
 # ===== NEW SECTION ========================================
+- title: Introduction
+  url: introduction/introduction
 - title: Reproducibility
   url: reproducibility/reproducibility
 - title: Open Research
