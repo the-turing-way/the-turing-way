@@ -23,6 +23,7 @@ In addition to learning how to build a BinderHub (and having the most BinderHubs
 They practically applied the principles and fed back ideas for new features to the Binder community or enhanced the existing documentation.
 
 Look at all the fun (and some of the food) we had!
+
 ![](/figures/WorkshopsComboPicture.png)
 
 All workshop materials are available on our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/) and can be re-used to run your own Binder based sessions!
