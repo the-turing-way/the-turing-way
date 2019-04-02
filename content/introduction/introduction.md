@@ -24,7 +24,7 @@ The book that you're reading is a [jupyter book](https://github.com/jupyter/jupy
 Jupyter books render markdown documents and jupyter notebooks as static html web pages.
 They're easy to read and navigate...but also easy to edit and extend!
 
-:construction: Under construction :construction:
+🚧 Under construction 🚧
 
 Watch this space for a little more information on how to contribute to the Turing Way!
 
