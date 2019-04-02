@@ -31,4 +31,5 @@ You'll just need the following settings:
 - Build command: `make site`
 - Publish directory: `_site`
 
-Netlify is smart and will find your requirements.txt to do the install for you :) 
+Netlify is smart and will find your requirements.txt to do the install for you :) (ruby and the jekyll are installed too)
+You can find the build history / logs at - https://app.netlify.com/sites/the-turing-way/deploys
