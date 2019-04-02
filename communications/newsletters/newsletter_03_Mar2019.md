@@ -13,8 +13,8 @@ And stay tuned (here's the [sign up page](https://tinyletter.com/TuringWay) for 
 We ran three successful workshops in March – many thanks to those who attended!
 
 ### [Boost your research reproducibility with Binder](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder)
-Our two workshops to boost research reproducibility with Binder in Manchester and London were attended by 30 people. 
-We had a great mix of presentations and hands-on exercises and our feedback was really positive. 
+Our two workshops to boost research reproducibility with Binder in Manchester and London were attended by 30 people.
+We had a great mix of presentations and hands-on exercises and our feedback was really positive.
 Every attendee said they felt confident using Binder to share their work reproducibily!
 
 ### [Build a BinderHub](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/build-a-binderhub)
@@ -22,14 +22,14 @@ We hosted the first ever Build a BinderHub workshop in Sheffield on 18 March 201
 In addition to learning how to build a BinderHub (and having the most BinderHubs ever in existence in parallel!), participants were introduced to [Mozilla's principles of working openly](http://mozillascience.github.io/working-open-workshop/).
 They practically applied the principles and fed back ideas for new features to the Binder community or enhanced the existing documentation.
 
-Look at all the fun (and some of the food) we had! 
-![]()
+Look at all the fun (and some of the food) we had!
+![](/figures/WorkshopsComboPicture.png)
 
 All workshop materials are available on our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/) and can be re-used to run your own Binder based sessions!
 
 ## Handbook
 Our handbook is shaping up and most of the chapters are written and ready for review.
-We will move them into a separate repository for the book and are working on turning it into a jupyterbook for the launch. 
+We will move them into a separate repository for the book and are working on turning it into a jupyterbook for the launch.
 Details will follow in our post-launch update newsletter in April.
 
 ### Rewriting history
@@ -43,7 +43,7 @@ Sorry for the confusion!
 Hopefully we won't do this again :)
 
 ### Join us for the launch!
-Most of the Turing Way team will be at the [Software Sustainability Institute's Collaborations Workshop](https://www.software.ac.uk/cw19) in Loughborough 1 - 3 April 2019. 
+Most of the Turing Way team will be at the [Software Sustainability Institute's Collaborations Workshop](https://www.software.ac.uk/cw19) in Loughborough 1 - 3 April 2019.
 We hope to see many of you there for [the launch demo](https://software.ac.uk/blog/2019-02-21-inspiring-demos-are-waiting-you-collaborations-workshop-2019) of our handbook and plenty of insightful discussions!
 
 ## Have your say!
@@ -52,10 +52,10 @@ We would still love you to share your tips, tricks and gotchas with the Turing W
 
 One of the easiest ways to contribut is to add your advice via this [quick form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
 
-Colleagues from Research England are interested in understanding how researchers think the research landscape (i.e. research outputs, impacts and the research environment) might change over the next 5 to 10 years. 
+Colleagues from Research England are interested in understanding how researchers think the research landscape (i.e. research outputs, impacts and the research environment) might change over the next 5 to 10 years.
 You can still fill [their survey]( https://www.smartsurvey.co.uk/s/nationalresearchsurvey) by **1 April 2019**.
 
 Thank you for reading, and we look forward to your contributions!
 
-The Turing Way project team  
+The Turing Way project team
 https://github.com/alan-turing-institute/the-turing-way
