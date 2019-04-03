@@ -169,6 +169,15 @@
         "review",
         "talk"
       ]
+    },
+    {
+      "login": "rainsworth",
+      "name": "Dr. Rachael Ainsworth",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/10600877?v=4",
+      "profile": "https://rainsworth.github.io",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
