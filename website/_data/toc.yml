@@ -40,11 +40,11 @@
   url: open_research/open_research
 - title: Version Control
   url: version_control/version_control
-- title: Research Data Management
-  url: rdm/rdm
 - title: Reproducible Environments
   url: reproducible_environments/reproducible_environments
 - title: Testing
   url: testing/testing
 - title: Continous Integration
   url: continuous_integration/continuous_integration
+- title: Research Data Management
+  url: rdm/rdm

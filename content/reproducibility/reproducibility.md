@@ -41,7 +41,11 @@ Victoria Stodden [(2014)](http://edge.org/response-detail/25340), a prominent sc
 ### The Turing Way definition of reproducibility
 
 The Turing Way project will define reproducible research as both data and code being available to fully rerun the analysis.
-![Kirstie's definition of reproducible research](https://github.com/pherterich/the-turing-way/blob/master/reproducibility_kirstie.png)
+
+| ![Kirstie's definition of reproducible research](/assets/figures/reproducibility/ReproducibleMatrix.jpg) |
+| -------------------------------------------------------------------------------------------------------- |
+|  How the Turing Way defines reproducible research  |
+
 However, we recognize that some research will use sensitive data that cannot be shared and this handbook will provide guides on how your research can be reproducible without all parts necessarily being open.
 The handbook will cover:
 * Version control (using git)
