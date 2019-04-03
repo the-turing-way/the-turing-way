@@ -154,11 +154,13 @@ There are tools available to make writing and running tests easier, these are kn
 <a name="Aim_to_have_a_good_code_coverage"></a>
 ### Aim to have a good code coverage
 
-Code coverage is a measure of how much of your code is "covered" by tests. More precicely it a measure of how much of your code is run when tests are conducted. So for example, if you have a `if` statement but only test things where that if statement evaluates to "True" then none of the code that comes under "False" will be run. As a result your code coverage would be < 100% (the exact number would depend on how much code comes under the True and False cases). Code coverage doesn't include documentation like comments, so adding more documentation doesn't affect your percentages.
+Code coverage is a measure of how much of your code is "covered" by tests. More precisely it a measure of how much of your code is run when tests are conducted. So for example, if you have a `if` statement but only test things where that if statement evaluates to "True" then none of the code that comes under "False" will be run. As a result your code coverage would be < 100% (the exact number would depend on how much code comes under the True and False cases). Code coverage doesn't include documentation like comments, so adding more documentation doesn't affect your percentages.
 
 As [mentioned](#Write_tests_any_tests) any tests are an improvement over no tests. Nevertheless it is good to at least aspire to having your code coverage as high as feasible.
 
 Most programming languages have tools either built into them, or that can be imported, or as part of testing frameworks, which automatically measure code coverage. There's also a nice little [bot](https://codecov.io/) for measuring code coverage available too.
+
+**Pitfall: The illusion of good coverage.** In some instances, the same code can and probably should be tested in multiple ways. For example, coverage can quickly increase on code that applies "sanity check" tests to its output ([see below](#tests-that-are-difficult-to-quantify)), but this doesn't preclude the risk that the code is producing the broadly right answer for the wrong reasons. In general, the best tests are those that isolate the smaller rather than larger chunks of coherent code, and so pick out individual steps of logic. Try to be guided by thinking about the possible things that might happen to a particular chunk of code in the execution of the whole, and test these individual cases. Often, this will result in the same code being tested multiple times - this is a good thing!
 
 <a name="Use_test_doubles_stubs_mocking_where_appropriate"></a>
 ### Use test doubles/stubs/mocking where appropriate
