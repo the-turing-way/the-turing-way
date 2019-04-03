@@ -38,7 +38,7 @@
 
 ### All the things we've learned!
 
-![](https://media.giphy.com/media/7zMkk1aiQVonuZQKi6/giphy.gif)
+![](https://i.giphy.com/media/7zMkk1aiQVonuZQKi6/giphy.webp)
 
 ### A huge thank you!
 
