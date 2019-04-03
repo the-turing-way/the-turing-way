@@ -24,7 +24,9 @@ XX. [Bibliography](#Bibliography)
 Lorem ipsum.
 
 
+Code review is a way of testing code quality. In it a programmer looks at and reviews another's code. The goal is to point out strengths and also potential areas of improvement. Code review is often done in pairs, with each reviewer also having some of their code reviewed by their partner. Doing this can help programmers see and discuss issues, alternative approaches to tasks, and learn tips and tricks.
 
+Because of their nature code reviews act a qualitative rather than quantitive tests, but are no less valuable for that.
 
 
 
