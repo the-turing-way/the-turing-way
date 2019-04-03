@@ -9,20 +9,21 @@ The following sections in this handbook provide useful context and complementary
 
 1. Summary
 2. Why this is useful
-3. FAIR data
-4. Backup and storage
+3. The Research Data Lifecycle 
+4. FAIR data
+5. Backup and storage
     i. Where to store data
     ii. Backups
-5. Documentation and metadata
-6. Sharing and archiving data
+6. Documentation and metadata
+7. Sharing and archiving data
     i. Motivations for sharing data
     ii. Steps to share your data
     iii. Barriers to data sharing
-7. Checklists
-8. What to read next
-9. Further reading
-10. Glossary
-11. Bibliography
+8. Checklists
+9. What to read next
+10. Further reading
+11. Glossary
+12. Bibliography
 
 ## Summary
 > easy to understand summary - a bit like tl;dr
@@ -38,6 +39,12 @@ Thus, this chapter lays out good data management practice to allow you to plan y
 
 
 ## Chapter content
+
+### The Research Data Lifecycle - A Model for Data Management
+
+Research data often follows a 'lifecycle' which follows the research project as it evolves. This model provides a useful basis on which to plan for research data management, from data creation at the start of a research project, through to publishing and sharing research at the end of the project, and archiving any research data for the long-term and for future re-use once the project has ended. 
+
+The research data lifecycle involves data creation, data use, data publication and sharing, data archiving and data re-use or destruction. 
 
 ### FAIR data
 
