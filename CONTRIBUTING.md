@@ -4,8 +4,9 @@
 
 :dizzy::hatched_chick::sunny: *We're so excited you're here and want to contribute.* :sunny::hatched_chick::dizzy:
 
-The point of this starter kit is to **welcome new users and contributors to the Turing Way community**. We hope that these guidelines are designed to make it as easy as possible to get involved. Don't let trying to be perfect get in the way of being good - we welcome all contributions and would love it if you could follow these guidelines to make sure your contributions can easily integrated but exiting ideas are more important than perfect pull requests. :heart:
-<br>
+The point of this starter kit is to **welcome new users and contributors to the Turing Way community**. We hope that these guidelines are designed to make it as easy as possible to get involved. Don't let trying to be perfect get in the way of being good - we welcome all contributions and would love it if you could follow these guidelines to make sure your contributions can be easily integrated but exciting ideas are more important than perfect pull requests. :heart:
+
+
 If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
 
 ## Table of contents
@@ -23,7 +24,8 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 
 ## Joining the community
 
-The Turing Way community We therefore require that all contributions **adhere to our [Code of Conduct](CODE_OF_CONDUCT.md)**.
+The Turing Way is a community-oriented and -led project.
+We therefore require that all contributions **adhere to our [Code of Conduct](CODE_OF_CONDUCT.md)**.
 
 ## Inclusivity
 
@@ -38,14 +40,14 @@ The following are examples of inclusive actions that we encourage from contribut
 
 ## Get in touch
 
-Ping us in our [gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).\
+Ping us in our [gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
 You can also contact the PI of the Turing Way project - Kirstie Whitaker - by email at kwhitaker@turing.ac.uk.
 
 ## Contributing through GitHub
 
-[git][git] is a really useful tool for version control. [GitHub][github] sits on top of git and supports collaborative and distributed working.
+[Git][git] is a really useful tool for version control. [GitHub][github] sits on top of Git and supports collaborative and distributed working.
 
-We know that it can be daunting to start using git and GitHub if you haven't worked with them in the past, but the The Turing Way maintainers are here to help you figure out any of the jargon or confusing instructions you encounter! :heart:
+We know that it can be daunting to start using Git and GitHub if you haven't worked with them in the past, but the The Turing Way maintainers are here to help you figure out any of the jargon or confusing instructions you encounter! :heart:
 
 In order to contribute via GitHub you'll need to set up a free account and sign in. Here are some [instructions](https://help.github.com/articles/signing-up-for-a-new-github-account/) to help you get going. Remember that you can ask us any questions you need to along the way.
 
@@ -108,13 +110,69 @@ If you feel that we should try new tools or some aspects of the collaboration co
 
 
 ## Making a change with a pull request
-> Needs to cover:
+> Still needs to cover:
 > - Open pull requests early
 > - Use the WIP marker if you're not ready for the review
 > - You can submit pull requests to the OTHER PERSON'S BRANCH.
-> - All the branch and fork and sync stuff that I kind of understand but cannot explain
-> - Commit often
-> - Write good commit messages
+
+*This section has been adapted from the [Contributing Guidelines](https://github.com/bids-standard/bids-starter-kit/blob/master/CONTRIBUTING.md) of the [BIDS Starter Kit](https://github.com/bids-standard/bids-starter-kit)! (License: CC-BY)*
+
+We appreciate all contributions to the Turing Way.
+**THANK YOU** for helping us build this useful resource. :sparkles::star2::dizzy:
+
+All project management, conversations and questions related to the Turing Way project happens here in the [Turing Way repository][turing-way-repo].
+If you want to contribute directly to writing or editing chapters of the book, please head over to the Turing Way [book repository][turing-way-book-repo]!
+
+The following steps are a guide to help you contribute in a way that will be easy for everyone to review and accept with ease  :sunglasses:.
+
+
+#### 1. Comment on an existing issue or open a new issue referencing your addition
+
+This allows other members of the Turing Way team to confirm that you aren't overlapping with work that's currently underway and that everyone is on the same page with the goal of the work you're going to carry out.
+
+[This blog](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/) is a nice explanation of why putting this work in up front is so useful to everyone involved.
+
+#### 2. [Fork][github-fork] the [Turing Way repository][turing-way-repo] to your profile
+
+This is now your own unique copy of the Turing Way.
+Changes here won't affect anyone else's work, so it's a safe space to explore edits to the code!
+
+Make sure to [keep your fork up to date][github-syncfork] with the master repository, otherwise you can end up with lots of dreaded [merge conflicts][github-mergeconflicts].
+If you prefer working in the browser, [these instructions](Syncing your fork to the original repository via the browser) describe how to sync your fork to the original repository via GitHub.
+
+#### 3. Make the changes you've discussed
+
+Try to keep the changes focused.
+If you submit a large amount of work all in one go it will be much more work for whomever is reviewing your pull request.
+[Help them help you.][jerry-maguire] :wink:
+
+While making your changes, commit often and write good, detailed commit messages.
+[This blog](https://chris.beams.io/posts/git-commit/) explains how to write a good Git commit message and why it matters.
+It is also perfectly fine to have a lot of commits - including ones that break code.
+A good rule of thumb is to push up to GitHub when you *do* have passing tests then the continuous integration (CI) has a good chance of passing everything. 😸
+
+If you feel tempted to "branch out" then please make a [new branch][github-branches] and a [new issue][turing-way-issues] to go with it. [This blog](https://nvie.com/posts/a-successful-git-branching-model/) details the different Git branching models.
+
+Are you new to Git and GitHub or just want a detailed guide on getting started with version control? Check out our [Version Control chapter](https://the-turing-way.netlify.com/version_control/version_control.html) in the Turing Way Book!
+
+#### 4. Submit a [pull request][github-pullrequest]
+
+When you are ready to submit a pull request, will automatically see the [Pull Request Template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/PULL_REQUEST_TEMPLATE.md) contents in the pull request body.
+It asks you to:
+* Describe the problem you're trying to fix in the pull request, reference any related issue and use fixes/close to automatically close them, if pertinent.
+* List of changes proposed in the pull request.
+* Describe what the reviewer should concentrate their feedback on.
+
+A member of the Turing Way team will then review your changes to confirm that they can be merged into the main repository.
+
+A [review][github-review] will probably consist of a few questions to help clarify the work you've done.
+Keep an eye on your GitHub notifications and be prepared to join in that conversation.
+
+You can update your [fork][github-fork] of the Turing Way [repository][turing-way-repo] and the pull request will automatically update with those changes.
+You don't need to submit a new pull request when you make a change in response to a review.
+
+GitHub has a [nice introduction][github-flow] to the pull request workflow, but please [get in touch](#get-in-touch) if you have any questions :balloon:.
+
 
 ## The process of writing chapters
 
@@ -142,10 +200,27 @@ Note the link and (if available) license of the source.
 - Merge the alan turing intitute's version of the chapter branch into the alan turing master branch.
 DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
 
+## Recognising contributions
+
+The Turing Way follows the [all-contributors][all-contributors] specification, so we welcome and recognise all contributions from documentation to testing to code development.
+You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md)). 😍
 
 
+
+
+[turing-way-repo]: https://github.com/alan-turing-institute/the-turing-way/
+[turing-way-book-repo]:https://github.com/alan-turing-institute/the-turing-way-book/
+[turing-way-issues]: https://github.com/alan-turing-institute/the-turing-way/issues
+[turing-way-labels]: https://github.com/alan-turing-institute/the-turing-way/labels
 [git]: https://git-scm.com
 [github]: https://github.com
+[github-branches]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository
+[github-fork]: https://help.github.com/articles/fork-a-repo
+[github-flow]: https://guides.github.com/introduction/flow
+[github-mergeconflicts]: https://help.github.com/articles/about-merge-conflicts
+[github-pullrequest]: https://help.github.com/articles/creating-a-pull-request
+[github-review]: https://help.github.com/articles/about-pull-request-reviews
+[github-syncfork]: https://help.github.com/articles/syncing-a-fork
 [issue-template]: https://github.com/alan-turing-institute/the-turing-way/blob/master/ISSUE_TEMPLATE.md
 [labels-link]: https://github.com/alan-turing-institute/the-turing-way/labels
 [labels-book]: https://github.com/alan-turing-institute/the-turing-way/labels/book
@@ -163,4 +238,5 @@ DO not delete the branch as the chapter may continue to undergo improvement and 
 [labels-workshops]: https://github.com/alan-turing-institute/the-turing-way/labels/workshops
 [markdown]: https://daringfireball.net/projects/markdown
 [rick-roll]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-[turing-way-labels]: https://github.com/alan-turing-institute/the-turing-way/labels
+[jerry-maguire]: https://media.giphy.com/media/uRb2p09vY8lEs/giphy.gif
+[all-contributors]: https://github.com/kentcdodds/all-contributors#emoji-key
