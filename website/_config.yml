@@ -18,12 +18,12 @@
 # Jekyll site settings
 title: The Turing Way
 author: Kirstie Whitaker
-email: kw401@cam.ac.uk
+email: kwhitaker@turing.ac.uk
 description: >-
   The Turing Way is a lightly opinionated guide to reproducible data science.
 
 baseurl: /               # the subpath of your site, e.g. /blog. If there is no subpath for your site, use an empty string ""
-url: YOUR URL              # the base hostname & protocol for your site, e.g. http://example.com
+url: https://the-turing-way.netlify.com # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #######################################################################################
