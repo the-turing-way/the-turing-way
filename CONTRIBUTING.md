@@ -200,10 +200,63 @@ Note the link and (if available) license of the source.
 - Merge the alan turing intitute's version of the chapter branch into the alan turing master branch.
 DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
 
+
+## Style Guide
+### Writing style
+To ensure all text can be read easily by all (including screen readers and non-native english speakers) Follow Gov.uk guidance on e.g., i.e., and etc. (1)  That is, do not use them:
+
+eg can sometimes be read aloud as ‘egg’ by screen reading software. Instead use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.
+
+etc can usually be avoided. Try using ‘for example’ or ‘such as’ or ‘like’ or ‘including’. Never use etc at the end of a list starting with these words.
+
+ie - used to clarify a sentence - is not always well understood. Try (re)writing sentences to avoid the need to use it. If that is not possible, use an alternative such as ‘meaning’ or ‘that is’.
+
+1. https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#eg-etc-and-ie
+
+
+### Sentences
+When writing all sentences should go on a new line.  This will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph. Consider the example below.
+
+```
+Today you are you, that is truer than true. There is no one alive who is youer than you. - Dr Seuss
+```
+A pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph.  Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.
+
+```
+Today you are you, that is truer than true. 
+There is no one alive who is youer than you. 
+- Dr Seuss
+```
+
+### Opinions
+The Turing Way book is intended to be only lightly opinionated.  Whilst more opinionated content is allow, such content should be clearly marked.  The best way to do this is by displaying it in a quote box.  This can be done by either prefixing every line with the greater than symbol ```>```.  Note, that the formatting will be retained, so we can split each sentence to a new line as recommended before.
+
+```
+> I will not eat them in a house,
+> i will not eat them with a mouse,
+> i will not eat them in a box i will not eat them with a fox,
+> i will not eat them here of there i will not eat them anywhere,
+> I do not like green eggs and ham i do not like them sam i am
+```
+
+### Figures
+To make things look cleaner, it is advised that all figures be encapsulated in a table with a caption.  This can be done simply as:
+
+```
+| ![A dish with Green Eggs and Ham](green_eggs_ham.jpg)         |
+| ------------------------------------------------------------------------------------ |
+| Try them, try them, and you may! Try them and you may, I say.  |
+```
+
+### Referencing and Citing
+
+To Be Done.
+
+
 ## Recognising contributions
 
-The Turing Way follows the [all-contributors][all-contributors] specification, so we welcome and recognise all contributions from documentation to testing to code development.
-You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md)). 😍
+The Turing Way follows the [all-contributors][all-contributors] specification, so we welcome and recognise all contributions from documentation to testing to writing chapters.
+You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md). 😍
 
 
 
