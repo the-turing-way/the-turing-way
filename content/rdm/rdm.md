@@ -189,7 +189,7 @@ In such cases it may not be possible to make data open, or it may only be only p
 ## Checklist
 > This is a different style than the other chapters, but I really love what Alex provided so I just kept it.
 
-- [ ]Don't Touch the Raw Data - back it up somewhere reasoonable and keep a read-only copy.
+- [ ]Don't Touch the Raw Data - back it up somewhere reasonable and keep a read-only copy.
 
 - [ ]Have a plan! - Decide where your data is going to be stored, what its called, when/if it needs to be deleted BEFORE you start collecting it and note it down in a data management plan. 
 If you collect sensitive data, plan for consent for sharing from the start!
