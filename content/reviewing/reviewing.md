@@ -5,7 +5,7 @@
 | Version control | Necessary | Understanding the way that [Github](https://github.com) arranges its branches, forks, and pull requests within repositories is needed.  |
 
 ## Table of contents
-
+<!--
 1. [Summary](#Summary)
 2. [How this will help you/ why this is useful](#How_this_will_help_you_why_this_is_useful)
     1. [Lorem ipsum(#lorem_ipsum)
@@ -17,6 +17,7 @@ XX. [What to learn next](#What_to_learn_next)
 XX. [Further reading](#Further_reading)
 XX. [Definitions/glossary](#Definitions_glossary)
 XX. [Bibliography](#Bibliography)
+-->
 
 <a name="Summary"></a>
 ## Summary
@@ -46,7 +47,7 @@ A simple objective of the review process is to catch bugs and elementary errors 
 As noted above, review should, and often does, catch actual bugs in proposed code changes. This, of course, is a sign that the proposed changes were not well-tested enough in the first place. A major aim of code review is to highlight places in the code where existing or newly developed testing processes are inadequate. In this way, code review helps to ensure the future health of the code base by providing a second perspective on what kinds of tests are needed not only now but under hypothetical scenarios that could arise in the future as the code evolves.
 
 <a name="Documentation"></a>
-###Documentation
+### Documentation
 
 <!--SiccarPoint notes a whole section on documentation is justified in the book!-->
 Thorough documentation is a key component of reproducibility and of sustainable software more generally. Code review provides a second pair of eyes to consider whether the documentation provided along with the proposed code changes is fit-for-purpose. This is doubly valuable, as the reviewer looking in from outside the development process may have a clearer perspective on whether provided documentation offers enough information for a user coming to the code for the first time.
@@ -73,23 +74,16 @@ Reviews conducted in the right spirit (see especially [here](#Be_nice)) also ser
 
 Lorem ipsum.
 
-
-
-
-
-< a name="Keep_it_collaborative"></a>
+<a name="Keep_it_collaborative"></a>
 ### Keep it collaborative
 Unlike traditional, "academic-style" peer review, most code review systems have a number of advantages: they're rarely anonymous, they're public-facing, and without the middleman of an editor, interactions between reviewer and review-ee can be direct and rapid. This means code review is typically a flexible, dynamic, collaborative process. Good peer review will be fully collaborative, where once a potential query has been flagged by a reviewer, the two involved parties can work forward together to find a solution. It's also not atypical for third parties to chime in during the discussion strings that can grow under more gnarly review comments. This is all to the good.
 
-< a name="Who_reviews"></a>
+<a name="Who_reviews"></a>
 ### Who reviews?
 
 Individual large-scale development projects will likely have existing, concrete rules for how reviewers are allocated to individual pull requests. Within small-scale projects where the developers all typically already know each other, typical practice is for the coder to tag someone in the group who they feel will have enough knowledge of this part of the code to do a good job in a reasonable amount of time. In practice, the point of transition between these two models will become very obvious within a growing project - typically when core personnel start to complain about the uneven workload for reviewing they are under!
 
 For projects where multiple rounds of review on similar material are likely and long development cycles are anticipated, a degree of strategic thinking on who completes reviews is sensible. A single reviewer is likely to be able to make comments on code they have reviewed before much more efficiently. However, letting reviewer-coder pairs like this ossify is generally a bad idea, as it can lead to the same kinds of groupthink that the review process is designed to avoid in the first place. Individual projects will tend to find this balance for themselves.
-
-
-
 
 <a name="Typical_workflows_with_reference_to_github"></a>
 ## Typical workflows (with reference to Github)
