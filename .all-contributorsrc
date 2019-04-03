@@ -11,6 +11,19 @@
   "commit": false,
   "contributors": [
     {
+      "login": "rainsworth",
+      "name": "Dr. Rachael Ainsworth",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/10600877?v=4",
+      "profile": "https://rainsworth.github.io",
+      "contributions": [
+        "doc",
+        "eventOrganizing",
+        "ideas",
+        "question",
+        "review",
+      ]
+    },
+    {
       "login": "r-j-arnold",
       "name": "Becky Arnold",
       "avatar_url": "https://avatars1.githubusercontent.com/u/20441134?v=4",
@@ -50,7 +63,7 @@
     },
     {
       "login": "sgibson91",
-      "name": "sgibson91",
+      "name": "Sarah Gibson",
       "avatar_url": "https://avatars2.githubusercontent.com/u/44771837?v=4",
       "profile": "https://github.com/sgibson91",
       "contributions": [
@@ -169,7 +182,6 @@
         "review",
         "talk"
       ]
-    }
-  ],
+    }  ],
   "contributorsPerLine": 7
 }
