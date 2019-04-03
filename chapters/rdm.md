@@ -52,7 +52,13 @@ They refer to making data findable, accessible, interoperable and re-usable, all
 
 Findable data should have accurate and 'rich-enough' metadata to enable it to be found in search. This could be search within a specific repository, such as an institutional research data repository, or a broader search on the web. Regardless of whether the data or software are openly available, the metadata relating to these digital objects should still be open, to enable readability by both humans and machines. 
 
-Accessible data should
+Accessible data and software have open metadata that outlines the conditions of access. This is particularly important for data or software that is restricted or embargoed, such as data containing personal information that must be protected by law (e.g. non-anonymised patient data used in medical or sociological studies, commercial patents) or data or software that may have publication embargos in place. Metadata should be openly available as this will enable other researchers to know whether they have the right to request access for data and software. This ensures transparancy and protection of any legal strictures in place to protect sensitive data and software. 
+
+Interoperable data and software should ideally use open standards and formats, but this may not always be possible. Metadata should describe the operational environment of the software or data, listing any dependencies, libraries and operating systems required in order to run, analyse and use the software or data. Persistent identifiers such as DOIs (Digital Object Identifiers) can make metadata for data and software interoperable with other systems, such as research repositories, grant application forms and central research information systems (CRIS) by pushing metadata into these forms as required. 
+
+Reusable data and software have licences, such that the conditions for use and re-use are clearly described and outlined. Information on open licenses for data and software can be found here: https://creativecommons.org/licenses/ and some further information on licenses for software is available through the Software Sustainability Institute: https://www.software.ac.uk/resources/guides/adopting-open-source-licence
+
+
 
 
 Drawn from [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
