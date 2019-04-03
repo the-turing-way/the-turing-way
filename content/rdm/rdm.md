@@ -52,7 +52,7 @@ Making data 'FAIR' is not the same as making it 'open', but it does imply that y
 The FAIR principles can also be applied to [software](https://doi.org/10.6084/m9.figshare.7449239.v2), and projects where the data and software are both FAIR the research is more likely to be reproducible. 
 
 It is much easier to make data FAIR and open if you plan to do this from the beginning of your research project. 
-One way to do this is to create a data management plan, in [DMPonline](https://dmponline.dcc.ac.uk/) or just as a text file, to help you think through how to manage your data.
+One way to do this is to create a data management plan, in [DMPonline](https://dmponline.dcc.ac.uk/) or just as a text file, to help you think through how to manage your data. The data management plan should include information on data creation (volume, formats/types and workflows), data use (where the raw or 'live' data is being stored), data publication and data archiving at the end of the project (long-term data storage, or what data is 'kept' at the end of a project). Data management plans should also regularly be updated as the research project changes. 
 
 ### Storage and backup
 
@@ -78,7 +78,7 @@ To avoid loosing your data, you should follow good backup practices.
 * in different locations.
 
 The more important the data and the more often the datasets change, the more regularly you should back them up.
-If your files take up a large amount of space and backing up all of them would be difficult or expensive, you may want to create a set of criteria for when you back up the data. 
+If your files take up a large amount of space and backing up all of them would be difficult or expensive, you may want to create a set of criteria for when you back up the data. This can be part of your data management plan.
 
 ### Documentation and metadata
 
@@ -106,7 +106,7 @@ This lack of access to scientific data is an obstacle to international research 
 
 1. It is generally difficult or impossible to fully reproduce a scientific study without the original data.
 2. It often causes unnecessary duplication of research efforts; large amounts of research funds are spent every year to recreate already existing data. 
-Further it inhibits joint research activities on various aspects of the same problem.
+Furthermore, it inhibits joint research activities on various aspects of the same problem.
 
 Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs. 
 Sharing data openly is crucial to meeting these objectives.
@@ -114,7 +114,7 @@ Open data means that the data is freely available on the internet permitting any
 This represents a real shift in how research works. 
 At the moment anyone who wishes to use scientific data from a researcher often has to contact that researcher and make a request. Open by default turns this on its head and says that there should be a presumption of publication for all. 
 Researchers need to justify data that’s kept closed, for example for security or data protection reasons.
-Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default. 
+Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default. Research is often publically-funded, so the results of this research should be openly available as a public good.
 
 #### Steps to share your data - Rosie
 
