@@ -36,6 +36,10 @@
     url: reproducibility/01/importantforscience
   - title: Why you should care
     url: reproducibility/02/whycare
+  - title: Definitions
+    url: reproducibility/03/definitions
+  - title: Resources
+    url: reproducibility/04/resources
 - title: Open Research
   url: open_research/open_research
 - title: Version Control
