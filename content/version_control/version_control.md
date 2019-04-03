@@ -433,15 +433,15 @@ print('hello world!!!')
 print('Hello World')
 >>>>>>> master
 ```
-'<<<<<<<': Indicates the start of the lines that had a merge conflict. The first set of lines are the lines from the file that you were trying to merge the changes into.
+`<<<<<<<`: Indicates the start of the lines that had a merge conflict. The first set of lines are the lines from the file that you were trying to merge the changes into.
 
-'=======': Indicates the break point used for comparison. Breaks up changes that user has committed (above) to changes coming from merge (below) to visually see the differences.
+`=======`: Indicates the break point used for comparison. Breaks up changes that user has committed (above) to changes coming from merge (below) to visually see the differences.
 
-'>>>>>>>': Indicates the end of the lines that had a merge conflict.
+`>>>>>>>`: Indicates the end of the lines that had a merge conflict.
 
 ### How to do it
 
-You resolve a conflict by editing the file to manually merge the parts of the file that Git had trouble merging. This may mean discarding either your changes or someone else's or doing a mix of the two. You will also need to delete the '<<<<<<<', '=======', and '>>>>>>>' in the file. So in this project the users may decide in favour of one `hello world` over another, or they may decide to replace the conflict with
+You resolve a conflict by editing the file to manually merge the parts of the file that Git had trouble merging. This may mean discarding either your changes or someone else's or doing a mix of the two. You will also need to delete the `<<<<<<<`, `=======`, and `>>>>>>>` in the file. So in this project the users may decide in favour of one `hello world` over another, or they may decide to replace the conflict with
 
 ```
 print('Hello World!!!')
