@@ -1,5 +1,5 @@
 ## The Turing Way Book
-*For the main repo (where most of the issues live, check out [this one](https://github.com/alan-turing-institute/the-turing-way)*
+*For the main repo (where most of the issues live) please [follow this link](https://github.com/alan-turing-institute/the-turing-way).*
 
 All the text for each chapter lives inside it's own folder in the `content/` directory.
 
@@ -31,4 +31,5 @@ You'll just need the following settings:
 - Build command: `make site`
 - Publish directory: `_site`
 
-Netlify is smart and will find your requirements.txt to do the install for you :) 
+Netlify is smart and will find your requirements.txt to do the install for you :) (ruby and the jekyll are installed too)
+You can find the build history / logs at - https://app.netlify.com/sites/the-turing-way/deploys
