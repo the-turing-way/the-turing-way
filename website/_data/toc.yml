@@ -33,9 +33,9 @@
   url: reproducibility/reproducibility
   sections:
   - title: Why reproducibility is important for science
-    url: reproducibility/01-WhyImportant/importantforscience
+    url: reproducibility/1/importantforscience
   - title: Why you should care about reproducibility
-    url: reproducibility/02-WhyCare/whycare
+    url: reproducibility/2/whycare
 - title: Open Research
   url: open_research/open_research
 - title: Version Control
