@@ -55,7 +55,7 @@ For example, adding in (or improving) documentation on *how* someone can contrib
 Contributing small amounts over a long time, and thinking about the strategy for the project also count for authorship.
 
 "Substantial" is a subjective term.
-As the project is quite small at the moment, the lead investigator Dr Kirstie Whitaker, will decide whether a contribution is *substantial* enough to be given authorship.
+As the project is quite small at the moment, the lead investigator Dr Kirstie Whitaker, will decide whether a contribution or collection of contributions is *substantial* enough to be given authorship.
 She can be contacted by email at kwhitaker@turing.ac.uk.
 
 Authorship is cumulative.
