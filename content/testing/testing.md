@@ -652,7 +652,7 @@ This checklist contains a lot of items. As [mentioned](#Write_tests_any_tests) i
 <a name="What_to_learn_next"></a>
 ## What to learn next
 
-Try reading the chapter on reproducible computational environments and then the chapter on continuous integration.
+Try reading the chapter on reproducible computational environments and then the chapter on continuous integration. The chapter on reviewing outlines how you can further strengthen your code base by adding a formal reviewing stage to your development workflow.
 
 <a name="Further_reading"></a>
 ## Further reading
