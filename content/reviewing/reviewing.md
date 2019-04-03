@@ -7,7 +7,7 @@
 ## Table of contents
 
 1. [Summary](#Summary)
-2. [Lorem ipsum](#lorem_ipsum)
+2. [How this will help you/ why this is useful](#How_this_will_help_you_why_this_is_useful)
     1. [Lorem ipsum(#lorem_ipsum)
 
 XX. [Checklist](#Checklist)
@@ -30,12 +30,25 @@ Because of their nature code reviews act a qualitative rather than quantitive te
 <!-- check me later for accuracy!-->
 This section will provide an overview of review workflows and best practice. Later sections will focus in particular on github's code review functionality as a powerful and widely-used example of a formal code review system; however, equivalent systems are available elsewhere (e.g., [Gitlab](https://about.gitlab.com)), and even informal code review practices can also be very powerful.
 
+<a name="How_this_will_help_you_why_this_is_useful"></a>
+## How this will help you/ why this is useful
 
+Lorem ipsum.
 
+<a name="Formal_vs_informal_reviews"></a>
+### Formal vs informal reviews
 
+Lorem ipsum.
 
+<a name="Best_practice"></a>
+### Best practice
 
+Lorem ipsum.
 
+<a name="Typical_workflows_with_reference_to_github"></a>
+### Typical workflows (with reference to Github)
+
+Lorem ipsum.
 
 
 
