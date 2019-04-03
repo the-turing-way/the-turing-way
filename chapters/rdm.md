@@ -50,6 +50,11 @@ They refer to making data findable, accessible, interoperable and re-usable, all
 * **Interoperable** by using accessible, machine-readable formats and vocabularies 
 * **Reusable** with relevant metadata attributes, clear licences, appropriate provenance information and community standards where possible. 
 
+Findable data should have accurate and 'rich-enough' metadata to enable it to be found in search. This could be search within a specific repository, such as an institutional research data repository, or a broader search on the web. Regardless of whether the data or software are openly available, the metadata relating to these digital objects should still be open, to enable readability by both humans and machines. 
+
+Accessible data should
+
+
 Drawn from [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
 
 Making data 'FAIR' is not the same as making it 'open', but it does imply that you have managed your data sufficiently well to make it usable by others.
