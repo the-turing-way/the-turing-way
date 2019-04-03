@@ -308,6 +308,14 @@ A common misconception about contributing to open source is that you need to con
     - Going through open issues and suggesting closing old ones
     - Ask clarifying questions on recently opened issues to move the discussion forward
 
+### Closed software- not bad; different
+
+What if you're working with people that don't use the open source model for their software? This may initially seem an affront to all the principles discussed so far, but there are usually very good reasons for why things are the way they are (eg legal, commercial or security). Often, it will still be possible to use and contribute but the details of how might be different. The kinds of practices used in 'closed' software are generally the same and the concepts and tools you can learn about in the Turing Way still apply.
+
+Sometimes, however, there might not be good reasons for the closed source approach. Different areas of research have different cultures which run against the grain of open principles and feel very frustrating. Tackling this barrier can be very tricky as cultures can take years or decades to change.
+
+Working with closed software can offer both opportunities and threats. In all cases, understanding and respecting other's perspectives offers the greatest chances of success for your research.
+
 ## Open hardware
 
 "Open hardware," or "open source hardware," refers to the design specifications of a physical object which are licenced in such a way that said object can be studied, modified, created, and distributed by anyone. Like open source software, the "source code" for open hardware—schematics, blueprints, logic designs, Computer Aided Design (CAD) drawings or files, etc.—is available for modification or enhancement by anyone. Users with access to the tools that can read and manipulate these source files can update and improve the physical device and the code that underlies it, and, if they wish, proceed to share such modifications.
