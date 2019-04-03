@@ -35,12 +35,12 @@ This section will provide an overview of review workflows and best practice. Lat
 
 As with [testing](#Testing), a key objective of code review is to remove mistakes and bad practice from changes made to a software project before those changes enter the main master code base. However, it also has a number of other direct and indirect benefits to projects. These are discussed below.
 
-<a name="Catching_bugs_and_elementary_errors></a>"
+<a name="Catching_bugs_and_elementary_errors"></a>
 ### Catching bugs and elementary errors
 
 A simple objective of the review process is to catch bugs and elementary errors in proposed changes before they make it into the code base. In this way, code review shares aspects with testing. However, a robust testing programme should in many cases in fact reduce the importance of review for identifying errors. In principle, this kind of error catching should be restricted to trivial changes like documentation typos. In practice, however, code review does act as this secondary line of defence against bugs and errors.
 
-<a name="Improvements_to_testing></a>"
+<a name="Improvements_to_testing"></a>
 ### Improvements to testing
 
 As noted above, review should, and often does, catch actual bugs in proposed code changes. This, of course, is a sign that the proposed changes were not well-tested enough in the first place. A major aim of code review is to highlight places in the code where existing or newly developed testing processes are inadequate. In this way, code review helps to ensure the future health of the code base by providing a second perspective on what kinds of tests are needed not only now but under hypothetical scenarios that could arise in the future as the code evolves.
