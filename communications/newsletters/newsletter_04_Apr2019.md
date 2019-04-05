@@ -3,6 +3,10 @@
 Dear friends of the Turing Way,
 
 we're so happy to announce that we have successfully [launched our handbook](https://the-turing-way.netlify.com) at the Collaborations Workshop.
+To create the standalone book, we moved the book content into a [separate GitHub repository](https://github.com/alan-turing-institute/the-turing-way-book/) and tidied the main repository as announced in our last newsletter.
+We will still keep discussions going in issues on [our main repository](https://github.com/alan-turing-institute/the-turing-way). 
+If you find this confusing and are not sure where your contribution should go, just ping us in [our gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
+
 Special thanks to Richard Gilham, Dan Hobley, Robin Long, and Sarah Stewart who joined Kirstie and our new team member Rachael Ainsworth in improving The Turing Way on the hackday.
 In addition to the core chapters the team wrote over the last months, they contributed:
 * a new chapter on software risk assessment
