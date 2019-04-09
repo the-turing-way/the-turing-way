@@ -55,13 +55,16 @@ In order to contribute via GitHub you'll need to set up a free account and sign 
 
 GitHub has a helpful page on [getting started with writing and formatting on GitHub](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github).
 
-Most of the writing that you'll do will be in [Markdown][markdown]. You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting. For example you could write words as **bold** (`**bold**`), or in *italics* (`*italics*`), or as a [link][rick-roll] (`[link](https://https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
+Most of the writing that you'll do will be in [Markdown][markdown]. 
+You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting. 
+For example you could write words as **bold** (`**bold**`), or in *italics* (`*italics*`), or as a [link][rick-roll] (`[link](https://https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
 Also when writing in Markdown, please start each new sentence on a new line.
 While this formats in the same way as if the new line wasn't included, it makes the diffs produced during the pull request review easier to read! :sparkles:
 
 ## Where to start: issues
 
-Before you open a new issue, please check if any of the open issues covers your idea already. If you open a new issue, please follow our basic guidelines laid out in our [issue template][issue-template].
+Before you open a new issue, please check if any of the open issues covers your idea already. 
+If you open a new issue, please follow our basic guidelines laid out in our [issue template][issue-template].
 
 ### Issue labels
 
@@ -77,11 +80,13 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
 * [![good-first-issue](https://img.shields.io/badge/-good%20first%20issue-1b3487.svg)][labels-firstissue] *These issues are particularly appropriate if it is your first contribution to the Turing Way, or to GitHub overall.*
 
-    If you're not sure about how to go about contributing, these are good places to start. You'll be mentored through the process by the maintainers team. If you're a seasoned contributor, please select a different issue to work from and keep these available for the newer and potentially more anxious team members.
+    If you're not sure about how to go about contributing, these are good places to start. You'll be mentored through the process by the maintainers team. 
+    If you're a seasoned contributor, please select a different issue to work from and keep these available for the newer and potentially more anxious team members.
 
 * [![Enhancement](https://img.shields.io/badge/-enhancement-84b6eb.svg)][labels-enhancement] *These issues are suggesting new features that can be added to the project.*
 
-    If you want to ask for something new, please try to make sure that your request is distinct from any others that are already in the queue (or part of the Turing Way). If you find one that's similar but there are subtle differences please reference the other enhancement in your issue.
+    If you want to ask for something new, please try to make sure that your request is distinct from any others that are already in the queue (or part of the Turing Way). 
+    If you find one that's similar but there are subtle differences please reference the other enhancement in your issue.
 
 * [![Community](https://img.shields.io/badge/-community-8605c1.svg)][labels-community] *These issues relate to building and supporting the Turing Way community.*
 
@@ -89,13 +94,15 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
 * [![Bug](https://img.shields.io/badge/-bug-d73a4a.svg)][labels-bug] *These issues are reporting a problem or a mistake in the project.*
 
-    The more details you can provide the better! If you know how to fix the bug, please open an issue first and then submit a pull request :sparkles:
+    The more details you can provide the better! 
+    If you know how to fix the bug, please open an issue first and then submit a pull request :sparkles:
 
 * [![Book](https://img.shields.io/badge/-book-c5bcff.svg)][labels-book] *These issues cover everything around the process of writing the book.*
 
 * [![workshops](https://img.shields.io/badge/-workshops-c1663c.svg)][labels-workshops] *These issues help us organise our workshops.*
 
-* [![project-management](https://img.shields.io/badge/-project%20management-bfd86c.svg)][labels-project-management] *We like to model best practice, so the Turing Way itself is managed through these issues. These issues help us to coordinate some logistics.*
+* [![project-management](https://img.shields.io/badge/-project%20management-bfd86c.svg)][labels-project-management] *We like to model best practice, so the Turing Way itself is managed through these issues. 
+These issues help us to coordinate some logistics.*
 
 * [![jupyter](https://img.shields.io/badge/-jupyter-F37726.svg)][labels-jupyter] *Everything related to building a BinderHub*
 
@@ -203,24 +210,30 @@ DO not delete the branch as the chapter may continue to undergo improvement and 
 
 ## Style Guide
 ### Writing style
-To ensure all text can be read easily by all (including screen readers and non-native english speakers) Follow Gov.uk guidance on e.g., i.e., and etc. (1)  That is, do not use them:
+To ensure all text can be read easily by all (including screen readers and non-native english speakers), follow Gov.uk guidance on e.g., i.e., and etc. (1) 
+That is, do not use them:
 
 eg can sometimes be read aloud as ‘egg’ by screen reading software. Instead use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.
 
-etc can usually be avoided. Try using ‘for example’ or ‘such as’ or ‘like’ or ‘including’. Never use etc at the end of a list starting with these words.
+etc can usually be avoided. 
+Try using ‘for example’ or ‘such as’ or ‘like’ or ‘including’. 
+Never use etc at the end of a list starting with these words.
 
-ie - used to clarify a sentence - is not always well understood. Try (re)writing sentences to avoid the need to use it. If that is not possible, use an alternative such as ‘meaning’ or ‘that is’.
+ie - used to clarify a sentence - is not always well understood. 
+Try (re)writing sentences to avoid the need to use it. If that is not possible, use an alternative such as ‘meaning’ or ‘that is’.
 
 1. https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#eg-etc-and-ie
 
 
 ### Sentences
-When writing all sentences should go on a new line.  This will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph. Consider the example below.
+When writing all sentences should go on a new line. 
+This will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph. Consider the example below.
 
 ```
 Today you are you, that is truer than true. There is no one alive who is youer than you. - Dr Seuss
 ```
-A pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph.  Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.
+A pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph. 
+Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.
 
 ```
 Today you are you, that is truer than true. 
@@ -229,7 +242,11 @@ There is no one alive who is youer than you.
 ```
 
 ### Opinions
-The Turing Way book is intended to be only lightly opinionated.  Whilst more opinionated content is allow, such content should be clearly marked.  The best way to do this is by displaying it in a quote box.  This can be done by either prefixing every line with the greater than symbol ```>```.  Note, that the formatting will be retained, so we can split each sentence to a new line as recommended before.
+The Turing Way book is intended to be only lightly opinionated. 
+Whilst more opinionated content is allowed, such content should be clearly marked. 
+The best way to do this is by displaying it in a quote box. 
+This can be done by either prefixing every line with the greater than symbol ```>```. 
+Note, that the formatting will be retained, so we can split each sentence to a new line as recommended before.
 
 ```
 > I will not eat them in a house,
@@ -240,7 +257,8 @@ The Turing Way book is intended to be only lightly opinionated.  Whilst more opi
 ```
 
 ### Figures
-To make things look cleaner, it is advised that all figures be encapsulated in a table with a caption.  This can be done simply as:
+To make things look cleaner, it is advised that all figures be encapsulated in a table with a caption.
+This can be done simply as:
 
 ```
 | ![A dish with Green Eggs and Ham](green_eggs_ham.jpg)         |
