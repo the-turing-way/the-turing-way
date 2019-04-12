@@ -9,23 +9,26 @@ The following sections in this handbook provide useful context and complementary
 
 1. Summary
 2. Why this is useful
-3. FAIR data
-4. Backup and storage
+3. The Research Data Lifecycle 
+4. FAIR data
+5. Backup and storage
     i. Where to store data
     ii. Backups
-5. Documentation and metadata
-6. Sharing and archiving data
+6. Documentation and metadata
+7. Sharing and archiving data
     i. Motivations for sharing data
     ii. Steps to share your data
     iii. Barriers to data sharing
-7. Checklists
-8. What to read next
-9. Further reading
-10. Glossary
-11. Bibliography
+8. Checklists
+9. What to read next
+10. Further reading
+11. Glossary
+12. Bibliography
 
 ## Summary
 > easy to understand summary - a bit like tl;dr
+
+Research data management is a key part in encouraging reproducible research. Data management ensures efficiency in research workflows, and also greater reach and impact, as data and software become FAIR (Findable, Accessible, Interoperable and Reuseable). Data should be stored in multiple locations and backed-up regularly. Documentation and metadata ensure that others know how to access, use and re-use your data, and also enable conditions for sharing and publishing data to be outlined. 
 
 
 ## How this will help you/ why this is useful
@@ -36,6 +39,12 @@ Thus, this chapter lays out good data management practice to allow you to plan y
 
 
 ## Chapter content
+
+### The Research Data Lifecycle - A Model for Data Management
+
+Research data often follows a 'lifecycle' which follows the research project as it evolves. This model provides a useful basis on which to plan for research data management, from data creation at the start of a research project, through to publishing and sharing research at the end of the project, and archiving any research data for the long-term and for future re-use once the project has ended. 
+
+The research data lifecycle involves data creation, data use, data publication and sharing, data archiving and data re-use or destruction. 
 
 ### FAIR data
 
@@ -52,7 +61,7 @@ Making data 'FAIR' is not the same as making it 'open', but it does imply that y
 The FAIR principles can also be applied to [software](https://doi.org/10.6084/m9.figshare.7449239.v2), and projects where the data and software are both FAIR the research is more likely to be reproducible. 
 
 It is much easier to make data FAIR and open if you plan to do this from the beginning of your research project. 
-One way to do this is to create a data management plan, in [DMPonline](https://dmponline.dcc.ac.uk/) or just as a text file, to help you think through how to manage your data.
+One way to do this is to create a data management plan, in [DMPonline](https://dmponline.dcc.ac.uk/) or just as a text file, to help you think through how to manage your data. The data management plan should include information on data creation (volume, formats/types and workflows), data use (where the raw or 'live' data is being stored), data publication and data archiving at the end of the project (long-term data storage, or what data is 'kept' at the end of a project). Data management plans should also regularly be updated as the research project changes. 
 
 ### Storage and backup
 
@@ -78,7 +87,7 @@ To avoid loosing your data, you should follow good backup practices.
 * in different locations.
 
 The more important the data and the more often the datasets change, the more regularly you should back them up.
-If your files take up a large amount of space and backing up all of them would be difficult or expensive, you may want to create a set of criteria for when you back up the data. 
+If your files take up a large amount of space and backing up all of them would be difficult or expensive, you may want to create a set of criteria for when you back up the data. This can be part of your data management plan.
 
 ### Documentation and metadata
 
@@ -106,7 +115,7 @@ This lack of access to scientific data is an obstacle to international research 
 
 1. It is generally difficult or impossible to fully reproduce a scientific study without the original data.
 2. It often causes unnecessary duplication of research efforts; large amounts of research funds are spent every year to recreate already existing data. 
-Further it inhibits joint research activities on various aspects of the same problem.
+Furthermore, it inhibits joint research activities on various aspects of the same problem.
 
 Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs. 
 Sharing data openly is crucial to meeting these objectives.
@@ -114,7 +123,7 @@ Open data means that the data is freely available on the internet permitting any
 This represents a real shift in how research works. 
 At the moment anyone who wishes to use scientific data from a researcher often has to contact that researcher and make a request. Open by default turns this on its head and says that there should be a presumption of publication for all. 
 Researchers need to justify data that’s kept closed, for example for security or data protection reasons.
-Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default. 
+Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default. Research is often publically-funded, so the results of this research should be openly available as a public good.
 
 #### Steps to share your data - Rosie
 
@@ -180,7 +189,7 @@ In such cases it may not be possible to make data open, or it may only be only p
 ## Checklist
 > This is a different style than the other chapters, but I really love what Alex provided so I just kept it.
 
-- [ ]Don't Touch the Raw Data - back it up somewhere reasoonable and keep a read-only copy.
+- [ ]Don't Touch the Raw Data - back it up somewhere reasonable and keep a read-only copy.
 
 - [ ]Have a plan! - Decide where your data is going to be stored, what its called, when/if it needs to be deleted BEFORE you start collecting it and note it down in a data management plan. 
 If you collect sensitive data, plan for consent for sharing from the start!
