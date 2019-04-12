@@ -210,6 +210,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "SiccarPoint",
+      "name": "Dan Hobley",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6867260?v=4",
+      "profile": "http://spot.colorado.edu/~daho1668/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
