@@ -7,31 +7,31 @@ The following sections in this handbook provide useful context and complementary
 
 ## Table of Contents
 
-1. Summary
-2. Why this is useful
-3. The Research Data Lifecycle 
-4. FAIR data
-5. Backup and storage
-    i. Where to store data
-    ii. Backups
-6. Documentation and metadata
-7. Sharing and archiving data
-    i. Motivations for sharing data
-    ii. Steps to share your data
-    iii. Barriers to data sharing
-8. Checklists
-9. What to read next
-10. Further reading
-11. Glossary
-12. Bibliography
+1. [Summary](#Summary)
+2. [Why this is useful](#Why-useful)
+3. [The Research Data Lifecycle](#Data-Lifecycle) 
+4. [FAIR data](#FAIR)
+5. [Storage and backup](#Storage-backup)
+    i. [Where to store data](#Where-store)
+    ii. [Backups](#Backups)
+6. [Documentation and metadata](#Documentation-Metadata)
+7. [Sharing and archiving data](#Sharing-Archiving)
+    i. [Motivations for sharing data](#Motivations-Sharing)
+    ii. [Steps to share your data](#Steps-Share)
+    iii. [Barriers to data sharing](#Barriers-Share)
+8. [Checklists](#Checklists)
+9. [What to read next](#What-Next)
+10. [Further reading](#Further-Reading)
+11. [Glossary](#Glossary)
+12. [Bibliography](#Bibliography)
 
-## Summary
+## Summary <a name="Summary"></a>
 > easy to understand summary - a bit like tl;dr
 
 Research data management is a key part in encouraging reproducible research. Data management ensures efficiency in research workflows, and also greater reach and impact, as data and software become FAIR (Findable, Accessible, Interoperable and Reuseable). Data should be stored in multiple locations and backed-up regularly. Documentation and metadata ensure that others know how to access, use and re-use your data, and also enable conditions for sharing and publishing data to be outlined. 
 
 
-## How this will help you/ why this is useful
+## How this will help you/ why this is useful <a name="Why-useful"></a>
 Having data available is a key component of reproducing an analysis. 
 To be able to share data that is understandable and re-usable, research data needs to be managed properly. 
 Thus, this chapter lays out good data management practice to allow you to plan your data management activities at the start of your reproducible research project.
@@ -40,13 +40,13 @@ Thus, this chapter lays out good data management practice to allow you to plan y
 
 ## Chapter content
 
-### The Research Data Lifecycle - A Model for Data Management
+### The Research Data Lifecycle - A Model for Data Management <a name="Data-Lifecycle"></a>
 
 Research data often follows a 'lifecycle' which follows the research project as it evolves. This model provides a useful basis on which to plan for research data management, from data creation at the start of a research project, through to publishing and sharing research at the end of the project, and archiving any research data for the long-term and for future re-use once the project has ended. 
 
 The research data lifecycle involves data creation, data use, data publication and sharing, data archiving and data re-use or destruction. 
 
-### FAIR data
+### FAIR data <a name="FAIR"></a>
 
 The FAIR data principles have been developed as guidelines to help make re-using data easier. 
 They refer to making data findable, accessible, interoperable and re-usable, all of which will support research reproducibility. Data should be:
@@ -63,12 +63,12 @@ The FAIR principles can also be applied to [software](https://doi.org/10.6084/m9
 It is much easier to make data FAIR and open if you plan to do this from the beginning of your research project. 
 One way to do this is to create a data management plan, in [DMPonline](https://dmponline.dcc.ac.uk/) or just as a text file, to help you think through how to manage your data. The data management plan should include information on data creation (volume, formats/types and workflows), data use (where the raw or 'live' data is being stored), data publication and data archiving at the end of the project (long-term data storage, or what data is 'kept' at the end of a project). Data management plans should also regularly be updated as the research project changes. 
 
-### Storage and backup
+### Storage and backup <a name="Storage-backup"></a>
 
 Data loss can be catastrophic for your research project and happens regularly.
 You can prevent data loss by picking suitable storage solutions and backing your data up regularly.
 
-#### Where to store data
+#### Where to store data <a name="Where-store"></a>
 * Most institutions will provide a *network drive* that you can use to store data.  
 * *Portable storage media* such as memory sticks (USB sticks) are more risky and vulnerable to loss and damage.  
 * *Cloud storage* provides a convenient way to store, back and up and retrieve data. You should check terms of use before using them for your research data.  
@@ -79,7 +79,7 @@ To add an additional layer of security, you should encrypt devices and/or files 
 Your institution might provide local storage solutions and policies or guidelines restricting what you can use. 
 Thus, we recommend you familiarise yourself with your local policies anc recommendations.
 
-#### Backups
+#### Backups <a name="Backups"></a>
 
 To avoid loosing your data, you should follow good backup practices.
 * You should have 2 or 3 copies of your files, stored on 
@@ -89,7 +89,7 @@ To avoid loosing your data, you should follow good backup practices.
 The more important the data and the more often the datasets change, the more regularly you should back them up.
 If your files take up a large amount of space and backing up all of them would be difficult or expensive, you may want to create a set of criteria for when you back up the data. This can be part of your data management plan.
 
-### Documentation and metadata
+### Documentation and metadata <a name="Documentation-Metadata"></a>
 
 Having data available is of no use if it cannot be understood. 
 For example a table of numbers is useless if there are no headings which describe what the columns/rows contain. 
@@ -104,8 +104,8 @@ Examples could include the [Brain Imaging Data Structure](https://github.com/bid
 The README file is helpful for others and will also help you find your data in the future. 
 (Fuchs & Kuusniemi, 2018)
 
-### Sharing and archiving data
-#### Motivations for sharing data
+### Sharing and archiving data <a name="Sharing-Archiving"></a>
+#### Motivations for sharing data <a name="Motivations-Sharing"></a>
 
 The world is witnessing a significant global transformation, facilitated by technology and digital media, and fueled by data and information. 
 This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research.
@@ -125,7 +125,7 @@ At the moment anyone who wishes to use scientific data from a researcher often h
 Researchers need to justify data that’s kept closed, for example for security or data protection reasons.
 Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default. Research is often publically-funded, so the results of this research should be openly available as a public good.
 
-#### Steps to share your data - Rosie
+#### Steps to share your data <a name="Steps-Share"></a>
 
 ##### Step 1: Select what data you want to share
 Not all data can be made openly available, due to ethical and commercial concerns, and you may decide that some of your intermediate data is too large to share. 
@@ -144,7 +144,7 @@ In line with the FAIR principles outlined above upload the data in open formats 
 So that others know what they can do with your data you need to apply a licence to your data. The most commonly used licences are [Creative Commons](https://creativecommons.org/choose/), [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), or an [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/index.html).
 To get maximum value from data sharing make sure that your paper and code both link to your data, and vice versa, to allow others to best understand your project.
 
-### Barriers to data sharing
+### Barriers to data sharing <a name="Barriers-Share"></a>
 
 Some academics still find sharing data difficult.
 Recent surveys (Stuart et al., 2018) amongst researchers find that sharing data is challenging for the following reasons:
@@ -156,7 +156,7 @@ These are cultural challenges that might be addressed in changing practice going
 However, there are also legal, ethical or contractual reasons that sometimes prevent making data publicly available in its entirety or even in parts.
 Those will be addressed in the following paragraphs.
 
-#### Privacy and data protection
+#### Privacy and data protection 
 
 Many fields of scientific disciplines involve working with sensitive personal data. 
 Their management is well regulated in data protection legislation (in Europe through national implementations of the General Data Protection Regulation) and ethics procedures as they are established in most research institutions.
@@ -186,7 +186,7 @@ In such cases it may not be possible to make data open, or it may only be only p
 
 
 
-## Checklist
+## Checklist <a name="Checklist"></a>
 > This is a different style than the other chapters, but I really love what Alex provided so I just kept it.
 
 - [ ]Don't Touch the Raw Data - back it up somewhere reasonable and keep a read-only copy.
@@ -205,22 +205,22 @@ That's how yours should look.
 - [ ]Try not to re-invent the wheel. Before you start creating some crazy new schema, storage format or naming protocol - have a quick google, ask your colleagues. 
 Something that's already being used is likely going to be better in the long run even if you think there's a better solution.
 
-## What to learn next
+## What to learn next <a name="What-Next"></a>
 If you haven't read the chapter on Open Research yet, you might want to read it now for more context on how research data management supports Open Research. 
 
-## Further reading
+## Further reading <a name="Further-Reading"></a>
  
 * Detailed guidance on sharng personal or sensitive data from the UK Data Service: https://www.ukdataservice.ac.uk/manage-data/legal-ethical/consent-data-sharing.aspx
 * An overview of storage solutions and their advantages and disadvantages: https://datasupport.researchdata.nl/en/start-the-course/iii-the-research-phase/storing-data
 
-## Definitions/glossary
+## Definitions/glossary <a name="Glossary"></a>
 > Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
 
 RDM - Research Data Management
 DMP - Data Management Plan
 FAIR - Findable, Accessible, Interoperable and Reusable
 
-## Bibliography
+## Bibliography <a name="Bibliography"></a>
 
 * Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 Available at http://data.europa.eu/eli/reg/2016/679/oj
