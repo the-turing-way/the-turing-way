@@ -17,10 +17,12 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 * [Inclusivity](#inclusivity)
 * [Get in touch](#get-in-touch)
 * [Contributing through GitHub](#contributing-through-github)
+* [Writing in Markdown](#writing-in-markdown)
 * [Where to start: issues](#where-to-start-issues)
 * [Making a change with a pull request](#making-a-change-with-a-pull-request)
-* [Become a maintainer](#become-a-maintainer)
 * [The process of writing chapters](#the-process-of-writing-chapters)
+* [Style Guide](#style-guide)
+* [Recognising Contributions](#recognising-contributions)
 
 ## Joining the community
 
@@ -271,7 +273,7 @@ This can be done simply as:
 To Be Done.
 
 
-## Recognising contributions
+## Recognising Contributions
 
 The Turing Way follows the [all-contributors][all-contributors] specification, so we welcome and recognise all contributions from documentation to testing to writing chapters.
 You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md). 😍
