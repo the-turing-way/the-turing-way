@@ -127,22 +127,22 @@ At the moment anyone who wishes to use scientific data from a researcher often h
 Researchers need to justify data that’s kept closed, for example for security or data protection reasons.
 Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default. Research is often publically-funded, so the results of this research should be openly available as a public good.
 <a name="Steps-Share"></a>
-#### Steps to share your data 
+### Steps to share your data 
 
-##### Step 1: Select what data you want to share
+#### Step 1: Select what data you want to share
 Not all data can be made openly available, due to ethical and commercial concerns, and you may decide that some of your intermediate data is too large to share. 
 So you first need to decide which data you need to share for others to be able to reproduce your research.
 
-##### Step 2: Choose a data repository or other sharing platform 
+#### Step 2: Choose a data repository or other sharing platform 
 Data should be shared in a formal, open, and indexed data repository where possible so that it will be accessible in the long-run. 
 Suitable data repositories by subject, content type or location can be found at [Re3data.org](https://www.re3data.org/).
 If possible use a repository which assigns a DOI, a digital object identifier, to make it easier for others to cite your data.
 
 
-##### Step 3: Upload your data and documentation
+#### Step 3: Upload your data and documentation
 In line with the FAIR principles outlined above upload the data in open formats as much as possible and include sufficient documentation and metadata that someone else can understand your data.
 
-##### Step 4: Choose a licence and link to your paper and code
+#### Step 4: Choose a licence and link to your paper and code
 So that others know what they can do with your data you need to apply a licence to your data. The most commonly used licences are [Creative Commons](https://creativecommons.org/choose/), [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), or an [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/index.html).
 To get maximum value from data sharing make sure that your paper and code both link to your data, and vice versa, to allow others to best understand your project.
 <a name="Barriers-Share"></a>
