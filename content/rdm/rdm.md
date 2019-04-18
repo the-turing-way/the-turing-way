@@ -19,7 +19,7 @@ The following sections in this handbook provide useful context and complementary
     i. [Motivations for sharing data](#Motivations-Sharing)
     ii. [Steps to share your data](#Steps-Share)
     iii. [Barriers to data sharing](#Barriers-Share)
-8. [Checklists](#Checklists)
+8. [Checklist](#Checklist)
 9. [What to read next](#What-Next)
 10. [Further reading](#Further-Reading)
 11. [Glossary](#Glossary)
