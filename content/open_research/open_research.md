@@ -36,6 +36,7 @@ Recommended skill level: low.
         1. [Anatomy of an open source software project](#anatomy-of-an-open-source-software-project)
         2. [Contribute your changes](#contribute-your-changes)
         3. [Looking for projects to contribute to and how to contribute to them](#looking-for-projects-to-contribute-to-and-how-to-contribute-to-them)
+    6. [Closed software](#closed-software)
 5. [Open hardware](#open-hardware)
     1. [Why open hardware?](#why-open-hardware)
     2. [Elements of an open source hardware project](#elements-of-an-open-source-hardware-project)
@@ -307,6 +308,14 @@ A common misconception about contributing to open source is that you need to con
     - Suggesting new issue labels
     - Going through open issues and suggesting closing old ones
     - Ask clarifying questions on recently opened issues to move the discussion forward
+
+### Closed software
+
+What if you're working with people that don't use the open source model for their software? This may initially seem an affront to all the principles discussed so far, but there are usually very good reasons for why things are the way they are (eg legal, commercial or security). Often, it will still be possible to use and contribute but the details of how might be different. The kinds of practices used in 'closed' software are generally the same and the concepts and tools you can learn about in the Turing Way still apply.
+
+Sometimes, however, there might not be good reasons for the closed source approach. Different areas of research have different cultures which run against the grain of open principles and feel very frustrating. Tackling this barrier can be very tricky as cultures can take years or decades to change.
+
+Working with closed software can offer both opportunities and threats to your research. In all cases, understanding and respecting other's perspectives offers the greatest chances of success.
 
 ## Open hardware
 
