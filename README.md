@@ -33,3 +33,11 @@ You'll just need the following settings:
 
 Netlify is smart and will find your requirements.txt to do the install for you :) (ruby and the jekyll are installed too)
 You can find the build history / logs at - https://app.netlify.com/sites/the-turing-way/deploys
+
+## Content Templates
+
+Templates for certain types of content are kept in the `templates` directory.
+Templates include:
+* `case-study-template.ipynb` - a template for including interactive case studies in the book
+
+The template should be edited accordingly and moved into it's relevant chapter folder in the `content` directory.
