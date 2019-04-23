@@ -4,7 +4,7 @@
 
 :dizzy::hatched_chick::sunny: *We're so excited you're here and want to contribute.* :sunny::hatched_chick::dizzy:
 
-The point of this starter kit is to **welcome new users and contributors to the Turing Way community**. We hope that these guidelines are designed to make it as easy as possible to get involved. Don't let trying to be perfect get in the way of being good - we welcome all contributions and would love it if you could follow these guidelines to make sure your contributions can be easily integrated but exciting ideas are more important than perfect pull requests. :heart:
+The point of this guide is to **welcome new users and contributors to the Turing Way community**. We hope that these guidelines are designed to make it as easy as possible to get involved. Don't let trying to be perfect get in the way of being good - we welcome all contributions and would love it if you could follow these guidelines to make sure your contributions can be easily integrated but exciting ideas are more important than perfect pull requests. :heart:
 
 
 If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
@@ -17,10 +17,12 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 * [Inclusivity](#inclusivity)
 * [Get in touch](#get-in-touch)
 * [Contributing through GitHub](#contributing-through-github)
+* [Writing in Markdown](#writing-in-markdown)
 * [Where to start: issues](#where-to-start-issues)
 * [Making a change with a pull request](#making-a-change-with-a-pull-request)
-* [Become a maintainer](#become-a-maintainer)
 * [The process of writing chapters](#the-process-of-writing-chapters)
+* [Style Guide](#style-guide)
+* [Recognising Contributions](#recognising-contributions)
 
 ## Joining the community
 
@@ -55,16 +57,16 @@ In order to contribute via GitHub you'll need to set up a free account and sign 
 
 GitHub has a helpful page on [getting started with writing and formatting on GitHub](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github).
 
-Most of the writing that you'll do will be in [Markdown][markdown]. 
-You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting. 
+Most of the writing that you'll do will be in [Markdown][markdown].
+You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting.
 For example you could write words as **bold** (`**bold**`), or in *italics* (`*italics*`), or as a [link][rick-roll] (`[link](https://https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
 Also when writing in Markdown, please start each new sentence on a new line.
 While this formats in the same way as if the new line wasn't included, it makes the diffs produced during the pull request review easier to read! :sparkles:
 
 ## Where to start: issues
 
-Before you open a new issue, please check if any of the open issues covers your idea already. 
-If you open a new issue, please follow our basic guidelines laid out in our [issue template][issue-template].
+Before you open a new issue, please check if any of the open issues covers your idea already.
+If you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/ISSUE_TEMPLATE.md).
 
 ### Issue labels
 
@@ -80,35 +82,35 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
 * [![good-first-issue](https://img.shields.io/badge/-good%20first%20issue-1b3487.svg)][labels-firstissue] *These issues are particularly appropriate if it is your first contribution to the Turing Way, or to GitHub overall.*
 
-    If you're not sure about how to go about contributing, these are good places to start. You'll be mentored through the process by the maintainers team. 
+    If you're not sure about how to go about contributing, these are good places to start. You'll be mentored through the process by the maintainers team.
     If you're a seasoned contributor, please select a different issue to work from and keep these available for the newer and potentially more anxious team members.
 
 * [![Enhancement](https://img.shields.io/badge/-enhancement-84b6eb.svg)][labels-enhancement] *These issues are suggesting new features that can be added to the project.*
 
-    If you want to ask for something new, please try to make sure that your request is distinct from any others that are already in the queue (or part of the Turing Way). 
+    If you want to ask for something new, please try to make sure that your request is distinct from any others that are already in the queue (or part of the Turing Way).
     If you find one that's similar but there are subtle differences please reference the other enhancement in your issue.
 
 * [![Community](https://img.shields.io/badge/-community-8605c1.svg)][labels-community] *These issues relate to building and supporting the Turing Way community.*
 
- This is all about collaborating, so please let us know how we can best support you as a community member.
+     This is all about collaborating, so please let us know how we can best support you as a community member.
 
 * [![Bug](https://img.shields.io/badge/-bug-d73a4a.svg)][labels-bug] *These issues are reporting a problem or a mistake in the project.*
 
-    The more details you can provide the better! 
+    The more details you can provide the better!
     If you know how to fix the bug, please open an issue first and then submit a pull request :sparkles:
 
 * [![Book](https://img.shields.io/badge/-book-c5bcff.svg)][labels-book] *These issues cover everything around the process of writing the book.*
 
 * [![workshops](https://img.shields.io/badge/-workshops-c1663c.svg)][labels-workshops] *These issues help us organise our workshops.*
 
-* [![project-management](https://img.shields.io/badge/-project%20management-bfd86c.svg)][labels-project-management] *We like to model best practice, so the Turing Way itself is managed through these issues. 
+* [![project-management](https://img.shields.io/badge/-project%20management-bfd86c.svg)][labels-project-management] *We like to model best practice, so the Turing Way itself is managed through these issues.
 These issues help us to coordinate some logistics.*
 
 * [![jupyter](https://img.shields.io/badge/-jupyter-F37726.svg)][labels-jupyter] *Everything related to building a BinderHub*
 
 * [![Tools](https://img.shields.io/badge/-tools-a3e07d.svg)][labels-tools] *These issues discuss tools we use for collaboration*
 
-If you feel that we should try new tools or some aspects of the collaboration could be improved by using tools, please let us know.
+    If you feel that we should try new tools or some aspects of the collaboration could be improved by using tools, please let us know.
 
 * [![Travel](https://img.shields.io/badge/-travel-0f42fc.svg)][labels-travel] *These issues are mainly for the attention of core project members to plan travel to face to face meetings*
 
@@ -145,7 +147,7 @@ This is now your own unique copy of the Turing Way.
 Changes here won't affect anyone else's work, so it's a safe space to explore edits to the code!
 
 Make sure to [keep your fork up to date][github-syncfork] with the master repository, otherwise you can end up with lots of dreaded [merge conflicts][github-mergeconflicts].
-If you prefer working in the browser, [these instructions](Syncing your fork to the original repository via the browser) describe how to sync your fork to the original repository via GitHub.
+If you prefer working in the browser, [these instructions](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser) describe how to sync your fork to the original repository via GitHub.
 
 #### 3. Make the changes you've discussed
 
@@ -210,42 +212,42 @@ DO not delete the branch as the chapter may continue to undergo improvement and 
 
 ## Style Guide
 ### Writing style
-To ensure all text can be read easily by all (including screen readers and non-native english speakers), follow Gov.uk guidance on e.g., i.e., and etc. (1) 
+To ensure all text can be read easily by all (including screen readers and non-native english speakers), follow Gov.uk guidance on e.g., i.e., and etc. (1)
 That is, do not use them:
 
 eg can sometimes be read aloud as ‘egg’ by screen reading software. Instead use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.
 
-etc can usually be avoided. 
-Try using ‘for example’ or ‘such as’ or ‘like’ or ‘including’. 
+etc can usually be avoided.
+Try using ‘for example’ or ‘such as’ or ‘like’ or ‘including’.
 Never use etc at the end of a list starting with these words.
 
-ie - used to clarify a sentence - is not always well understood. 
+ie - used to clarify a sentence - is not always well understood.
 Try (re)writing sentences to avoid the need to use it. If that is not possible, use an alternative such as ‘meaning’ or ‘that is’.
 
 1. https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#eg-etc-and-ie
 
 
 ### Sentences
-When writing all sentences should go on a new line. 
+When writing all sentences should go on a new line.
 This will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph. Consider the example below.
 
 ```
 Today you are you, that is truer than true. There is no one alive who is youer than you. - Dr Seuss
 ```
-A pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph. 
+A pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph.
 Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.
 
 ```
-Today you are you, that is truer than true. 
-There is no one alive who is youer than you. 
+Today you are you, that is truer than true.
+There is no one alive who is youer than you.
 - Dr Seuss
 ```
 
 ### Opinions
-The Turing Way book is intended to be only lightly opinionated. 
-Whilst more opinionated content is allowed, such content should be clearly marked. 
-The best way to do this is by displaying it in a quote box. 
-This can be done by either prefixing every line with the greater than symbol ```>```. 
+The Turing Way book is intended to be only lightly opinionated.
+Whilst more opinionated content is allowed, such content should be clearly marked.
+The best way to do this is by displaying it in a quote box.
+This can be done by either prefixing every line with the greater than symbol ```>```.
 Note, that the formatting will be retained, so we can split each sentence to a new line as recommended before.
 
 ```
@@ -271,7 +273,7 @@ This can be done simply as:
 To Be Done.
 
 
-## Recognising contributions
+## Recognising Contributions
 
 The Turing Way follows the [all-contributors][all-contributors] specification, so we welcome and recognise all contributions from documentation to testing to writing chapters.
 You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md). 😍
