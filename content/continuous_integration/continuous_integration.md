@@ -31,6 +31,7 @@
   - [Small, iterative changes](#Small_iterative_changes)
   - [Trunk-based development](#Trunk_based_development)
   - [Keep the building and testing phases fast](#Keep_the_building_and_testing_phases_fast)
+  - [Computational expense](#Computational_expense)
   - [Dependencies tracking](#Dependencies_tracking)
   - [Consistency throughout the pipeline](#Consistency_throughout_the_pipeline)
 - [Checklist](#Checklist)
@@ -347,6 +348,12 @@ The idea behind trunk-based development is to avoid large commits that violate o
 Because the build and test steps must be performed frequently, it is essential that these processes be streamlined to minimize the time spent on them. Increases in build time should be treated as a major problem because the impact is compounded by the fact that each commit kicks off a build.
 
 When possible, running different sections of the test suite in parallel can help move the build through the pipeline faster. Care should also be taken to make sure the proportion of each type of test makes sense. Unit tests are typically very fast and have minimal maintenance overhead. In contrast, automated system or acceptance testing is often complex and prone to breakage. To account for this, it is often a good idea to rely heavily on unit tests, conduct a fair number of integration tests, and then back off on the number of later, more complex testing.
+
+### Computational expense
+
+Some software will require significant compute resource to build and/or run. Examples include weather and climate models. This can make the use of continuous integration impractical as the tests either take too long or use too much resource. Therefore, a compromise needs to be found to balance the risk of incomplete testing against a usable development process.
+
+One approach is to use different levels of testing, with different subgroups being required depending on what is being changed. A common broad subgroup can be used in every case, with additional ones being invoked to test certain areas in more detail. This introduces an element of judgement to the testing process, but can be applied successfully.
 
 <a name="Dependencies_tracking"></a>  
 ### Dependencies tracking
