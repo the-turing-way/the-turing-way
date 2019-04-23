@@ -6,7 +6,9 @@ Sarah Gibson, _The Alan Turing Institute_
 
 Based on Tim Head's _Zero-to-Binder_ workshops which can be found here: http://bit.ly/zero-to-binder and http://bit.ly/zero-to-binder-rise
 
-To follow these instructions on your own machine, follow this link: **http://bit.ly/zero-to-binder-tutorial**
+As you work through this tutorial, you will be launching a lot of Binder windows.
+Binder can take a long time to load, particularly if you're working with R, but this doesn't necessarily mean that your Binder will fail to launch.
+You can always refresh the window if you see the "... is taking longer to load, hang tight!" message.
 
 ## Running Code is more complicated than Displaying Code
 
@@ -35,8 +37,8 @@ You can create a link to a **live, interactive** version of your code!
 
   From this repo: **https://github.com/trekhleb/homemade-machine-learning**
 
-  * Notice that the Binder link has a similar structure to the GitHub repo link
-  * The "filepath" argument opens a specific notebook in the repo
+  * Notice that the Binder link has a similar structure to the GitHub repo link (<github-username>/<github-repo-name>)
+  * The "?filepath=" argument opens a specific notebook (`.ipynb` file) in the repo
 
 ## 1. Creating a repo to Binderize
 
@@ -45,6 +47,13 @@ You can create a link to a **live, interactive** version of your code!
 1) Create a new repo on GitHub called "my-first-binder".
    * Don't forget to initialise with a README!
 2) Create a file called `hello.py` via the web interface with `print("Hello from Binder!")` on the first line and commit to master
+
+**N.B.:** GitHub repos **must** be _public_ in order to work with Binder.
+
+<html>
+<img src="figures/create_repo.png" alt="create_repo" height="562" width="671">
+<img src="figures/create_hello.png" alt="create_rhello" height="999" width="1006">
+</html>
 
 ## 2. Launch your first repo!
 
@@ -66,6 +75,11 @@ You can create a link to a **live, interactive** version of your code!
 
 If everything ran smoothly, you'll see a Jupyter Notebook interface.
 
+<html>
+<img src="figures/binder_page.png" alt="binder_page" height="562" width="794">
+<img src="figures/binder_spinner.png" alt="binder_spinner" height="562" width="948">
+</html>
+
 #### What's happening in the background?
 
 While you wait, BinderHub (the backend of Binder) is:
@@ -84,6 +98,11 @@ While you wait, BinderHub (the backend of Binder) is:
 
 `Hello from Binder!` should be printed to the terminal.
 
+<html>
+<img src="figures/new_terminal.png" alt="new_terminal" height="251" width="999">
+<img src="figures/run_hello.png" alt="run_hello" height="121" width="999">
+</html>
+
 ## 4. Pinning Dependencies
 
 It was easy to get started, but our environment is barebones - let's add a **dependency**!
@@ -98,6 +117,14 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 This time, click on "Build Logs" in the big, horizontal, grey bar.
 This will let you watch the progress of your build.
 It's useful when your build fails or something you think _should_ be installed is missing.
+
+<html>
+<img src="figures/create_requirements.png" alt="create_requirements" height="615" width="998">
+<img src="figures/build_logs.png" alt="build_logs" height="562" width="871">
+</html>
+
+**N.B.:** Sometimes Binder's build logs prints things in red font, such as warnings that `pip` is not up-to-date (`pip` is always out of date because it's regularly updated!) or installation messages, especially if you're using R.
+These red messages don't necessarily mean there's a problem with your build and it will fail - it's just an unfortunate font colour choice!
 
 #### What's happening in the background?
 
@@ -133,6 +160,15 @@ Each language has it's own quirks and a link to the different types of configura
 3) Run the cell to see the version number and a random number printed out
    * Press either SHIFT+RETURN or the "Run" button in the Menu bar
 
+<html>
+<img src="figures/new_notebook.png" alt="new_notebook" height="248" width="999">
+<img src="figures/notebook_output.png" alt="notebook_output" height="236" width="999">
+</html>
+
+**N.B.:** If you save this notebook, it **will not** be saved to the GitHub repo.
+Pushing changes back to the GitHub repo through the container is not possible with Binder.
+**Any changes you have made to files inside the Binder will be lost once you close the browser window.**
+
 ## 6. Sharing your Work
 
 Binder is all about sharing your work easily and there are two ways to do it:
@@ -149,6 +185,11 @@ Binder is all about sharing your work easily and there are two ways to do it:
     Click the clipboard icon next to the box marked with "m" to automatically copy the Markdown snippet.
 
 2) Click the badge to make sure it works!
+
+<html>
+<img src="figures/binder_badge_snippet.png" alt="binder_badge_snippet" height="559" width="999">
+<img src="figures/binder_badge_readme.png" alt="binder_badge_readme" height="1119" width="999">
+</html>
 
 ## 7. Accessing data in your Binder
 
@@ -168,6 +209,7 @@ To access medium files **from a few 10s MB up to a few hundred MB**, you can add
 A `postBuild` file is a shell script that is executed as part of the image construction and is only executed once when a new image is built, not every time the Binder is launched.
 
 **N.B.:** New images are only built when Binder sees a new commit, not every time you click the Binder link.
+Therefore, the data is only downloaded once when the Docker image is built, not every time the Binder is launched.
 
 #### Large public files
 
@@ -195,12 +237,18 @@ However, that is not to say that they are the _only_ groups of people who should
 
 1) Go to your GitHub repo and create a file called `postBuild`
 2) In `postBuild`, add a single line reading: `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
-   * `wget` is a program which retrieves content from web servers. This line extracts the content from the bitly URL and saves it to the file denoted by the `-O` flag (i.e. `gapminder.csv`). The `-q` flag tells `wget` to do this quietly, i.e. don't print anything to the console.
+   * `wget` is a program which retrieves content from web servers. This line extracts the content from the bitly URL and saves it to the filename denoted by the `-O` flag (capital "O", not zero), i.e. `gapminder.csv`. The `-q` flag tells `wget` to do this quietly, i.e. don't print anything to the console.
 3) Update your `requirements.txt` file by adding a new line with `pandas` on it and another new line with `matplotlib` on it
    * These packages aren't necessary to download the data but we will use them to read the CSV file and make a plot
 4) Click the binder badge in your README to launch your Binder
 
 Once the Binder has launched, you should see a new file has appeared that was not part of your repo when you clicked the badge.
+
+<html>
+<img src="figures/create_postBuild.png" alt="create_postBuild" height="626" width="999">
+<img src="figures/update_requirements.png" alt="update_requirements" height="778" width="896">
+<img src="figures/new_file.png" alt="new_file" height="284" width="999">
+</html>
 
 Now visualise the data by creating a new notebook ("New" :arrow_right: "Python 3") and run the following code in a cell.
 
@@ -219,6 +267,10 @@ data.loc["Australia"].plot()
 
 See this [Software Carpentry lesson](https://swcarpentry.github.io/python-novice-gapminder/09-plotting/index.html) for more info.
 
+<html>
+<img src="figures/data_notebook.png" alt="data_notebook" height="826" width="999">
+</html>
+
 ## Beyond Notebooks...
 
 **JupyterLab** is installed into your containerized repo by default.
@@ -226,7 +278,7 @@ You can access the environment by changing the URL you visit to:
 
 > **https://mybinder.org/v2/gh/your-username/my-first-binder/master?urlpath=lab**
 
-**N.B.:** We've already seen how the `?filepath=` argument can link to a specific file in the ["What Binder Provides"](#binder) section at the beginning of this workshop.
+**N.B.:** We've already seen how the `?filepath=` argument can link to a specific file in the [What Binder Provides](#binder) section at the beginning of this workshop.
 
 Here you can access:
 * Notebooks
@@ -236,11 +288,16 @@ Here you can access:
 
 If you use R, you can also open **RStudio** using `?urlpath=rstudio`.
 
+<html>
+<img src="figures/jupyterlab.png" alt="jupyterlab" height="534" width="999">
+<img src="figures/rstudio.png" alt="rstudio" height="534" width="999">
+</html>
+
 ## Now over to you!
 
-Now you've binderized (bound?) this demo repo, it's time to binderize the example script and data you brought along!
+Now you've binderized (bound?) this demo repo, you can create your own Binder-ready repo with your own code and data!
 
-**Some useful links:**
+**Here are some useful links to get you started:**
 
 * Choosing languages:
 
