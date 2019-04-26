@@ -22,8 +22,7 @@
         1. [Use random number seeds](#Use_random_number_seeds)
         2. [Measure the distribution of results](#Measure_the_distribution_of_results)
     10. [Tests that are difficult to quantify](#Tests_that_are_difficult_to_quantify)
-    11. [Code review](#Code_review)
-    12. [Testing if non-integer numbers are equal](#Testing_if_non_integer_numbers_are_equal)
+    11. [Testing if non-integer numbers are equal](#Testing_if_non_integer_numbers_are_equal)
         1. [When 0.1 + 0.2 does not equal 0.3](#When_point_1_plus_point_2_does_not_equal_point_3)
         2. [Equality in a floating point world](#Equality_in_a_floating_point_world)
 4. [Types of tests](#Types_of_tests)
@@ -263,13 +262,6 @@ All of these outputs look very different but are valid. However, if a researcher
 ![eyeball_test_error](/assets/figures/eyeball_test_error.jpg)
 
 they could easily conclude there is a bug as a lake is unlikely to triple it's volume and then lose it again in the space of a few hours. "Eyeballing" tests like these are time consuming as they must be done by a human. However the process can be partially or fully automated by creating basic "sanity checks". For example the water level at one time should be within, say, 10% of the water level at the previous time step. Another check could be that there are no negative values, as a lake can't be -30% full. These sort of tests can't cover every way something can be visibly wrong, but they are much easier to automate and will suffice for most cases.
-
-<a name="Code_review"></a>
-### Code review
-
-Code review is a way of testing code quality. In it a programmer looks at and reviews another's code. The goal is to point out strengths and also potential areas of improvement. Code review is often done in pairs, with each reviewer also having some of their code reviewed by their partner. Doing this can help programmers see and discuss issues, alternative approaches to tasks, and learn tips and tricks.
-
-Because of their nature code reviews act a qualitative rather than quantitive tests, but are no less valuable for that.
 
 <a name="Testing_if_non_integer_numbers_are_equal"></a>
 ### Testing if non-integer numbers are equal
@@ -662,7 +654,7 @@ This checklist contains a lot of items. As [mentioned](#Write_tests_any_tests) i
 <a name="What_to_learn_next"></a>
 ## What to learn next
 
-Try reading the chapter on reproducible computational environments and then the chapter on continuous integration.
+Try reading the chapter on reproducible computational environments and then the chapter on continuous integration. The chapter on reviewing outlines how you can further strengthen your code base by adding a formal reviewing stage to your development workflow.
 
 <a name="Further_reading"></a>
 ## Further reading
