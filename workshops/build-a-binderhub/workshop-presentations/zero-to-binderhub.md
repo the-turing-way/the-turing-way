@@ -7,7 +7,7 @@ Sarah Gibson, _The Alan Turing Institute_
 
 These steps will walk you through deploying a BinderHub on Microsoft Azure.
 It will be publicly available like [mybinder.org](https://mybinder.org).
-To follow along with these instructions, go to this link: [**bit.ly/zero-to-binderhub**](http://bit.ly/zero-to-binderhub)
+To follow along with these instructions, go to this link: [**bit.ly/zero-to-binderhub-workshop**](http://bit.ly/zero-to-binderhub-workshop)
 
 **BinderHub Documentation:**
 * [Step Zero: Setting up a Kubernetes Cluster](https://zero-to-jupyterhub.readthedocs.io/en/latest/create-k8s-cluster.html)
