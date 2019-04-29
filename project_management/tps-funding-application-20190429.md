@@ -69,7 +69,7 @@ Metrics of success over 18 months:
 *Max 300 words*
 
 We are committed to giving early career data scientists the support they need to confidently publish reproducible, accurate, interpretable, and responsible research.
-We will support any industry, government or third sector employee to effectively evaluate applications of data science and AI.
+We will support industry, government or third sector employees to effectively evaluate AI applications.
 _The Turing Way_ books will be accessible to everyone who wants to learn technical, communication and collaboration skills, and we will adapt the content according to the needs of specific communities.
 
 Pathways:
@@ -104,16 +104,19 @@ These *unknown unknowns* - or more specifically, the *unknowns that we thought w
 
 Some already identified challenges include:
 
-* Adapting statistical analyses from a domain that collects large amounts of data (financial forecasting) to one with much smaller datasets (mental health).
-  Specific case study by Turing researchers Imanol Perez Arribas and Terry Lyons for which data can not be shared for independent verification.
-  * How do we, as data scientists looking to translate knowledge across domains, ensure the ethical and statistical rigor of the work when large amounts of data can not be collected or reviewed?
-* Tools, practices and systems of data science and AI are moving incredibly quickly.
-  Turing doctoral student Alex Campbell spent three months trying to use Tensorflow with neuroimaging data, only to discover that the popular deep learning framework did not provide the functionality in three dimensions that he required.
-  In the time it took him to re-write the code in Pytorch, Tensorflow implemented the required feature enhancements. 
-  * How do we, as the UK's national institute for Data Science and AI, provide guidance on best practices when the tools we use are constantly shifting beneath us?
-  
-The _Turing Way_ community will support - as co-authors if appropriate - research projects that seek to push back the boundaries of what can be done in transparent, ethical, reproducible and innovative data science.
+* **Datasets in different applications domains vary greatly in size.**
+  Turing researchers Imanol Perez Arribas and Terry Lyons adapted statistical analyses from financial forecasting (large dataset) to categorising mental health disorders (small dataset).
+  In both the data can not be shared for independent verification.
+  * How do we ensure the ethical and statistical rigor of the work when data can not be collected or reviewed?
+* **Tools, practices and systems of data science are moving incredibly quickly.**
+  Turing doctoral student Alex Campbell spent three months using Tensorflow with neuroimaging data, only to discover that the framework did not provide the necessary functionality.
+  While he rewrote the code in Pytorch, Tensorflow implemented the required feature enhancements.
+  * How do we provide guidance on best practices when the tools we use are constantly shifting beneath us?
+* **The publish or perish incentive system limits progress.**
+  It is possible to publish software and data papers, to archive software with a digital object identifier, and to count those citations.
+  * How do we support people through the current change in academic culture?
 
+The _Turing Way_ community will support - as co-authors if appropriate - research projects that seek to push back the boundaries of what can be done in transparent, ethical, reproducible and innovative data science.
 
 ### Community benefit
 
