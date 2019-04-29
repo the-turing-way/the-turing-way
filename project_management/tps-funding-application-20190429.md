@@ -38,7 +38,7 @@ This funding request will support a research engineer (1 FTE, 18 months) with ex
 
 Reproducibility is important, and multifaceted.
 The book currently has chapters on open research, research data management, version control, reproducible computational environments, testing, and continuous integration.
-But it does not cover core data science practices such as whether the scientific question is appropriately scoped, if the statistical assumptions are correctly managed, whether a suitable alogorithm or model was applied, how these results may vary according to different fluctuations across systems, in the choice of random seeds, or in how results are visualised to tell a story.
+But it does not cover core data science practices such as whether the scientific question is appropriately scoped, if the statistical assumptions are correctly managed, whether a suitable algorithm or model was applied, how these results may vary according to different fluctuations across systems, in the choice of random seeds, or in how results are visualised to tell a story.
 The book does not currently include the aspects of data science and artificial intelligence that define whether work was ethically designed and reported.
 By curating this knowledge in an accessible format, _The Turing Way_ series will support the The Turing Institute's goals of delivering world class research, training the leaders of tomorrow, and leading the public conversation.
 
@@ -76,13 +76,13 @@ _The Turing Way_ books will be accessible to everyone who wants to learn these s
 Pathways:
   * **Training Steering Group** - use of The Turing Way chapters in doctoral training.
   * **Book dash events** - respond to community requests for content and build confidence in early career researchers to share their skills.
-  * **Research engineering and partnerships teams** - chapter on effectively scoping an interdisiplinary project.
+  * **Research engineering and partnerships teams** - chapter on effectively scoping an interdisciplinary project.
 
-_The Turing Way_ will enable world class research by facilitating communication interdisiplinary teams.
+_The Turing Way_ will enable world class research by facilitating communication interdisciplinary teams.
 The chapters will cover the "bridging skills" needed for historians to collaborate with software engineers, clinicians with deep learning algorithm developers, and civil servants to develop ethical and responsible applications of AI technology.
 
 Pathways:
-  * **Living with machines** - bidirectional community support to build a useful resource for interdisiplinary teams.
+  * **Living with machines** - bidirectional community support to build a useful resource for interdisciplinary teams.
   * **Health programme** - chapters on responsible data sharing, analyses within a safe haven environment, and citizen science.
   * **Policy programme** - chapters on ethical frameworks and bias in machine learning.
 
@@ -120,31 +120,23 @@ The _Turing Way_ community will support - as co-authors if appropriate - researc
 
 *Max 300 words*
 
-The Turing Way will benefit current expert researchers in Data Science and AI.
+_The Turing Way_ will benefit expert researchers in Data Science and AI.
 It will provide them with a platform to share their expertise with a broad audience.
-It is not possible for any (human) researcher to digest all of the data science literature.
-It is challenging to even keep up with current publications in a specific subdomain.
-In curating tutorials and best practice guidelines, The Turing Way will help to translate recommendations from the areas in which they were developed, to a much larger body of potential research, industry and government applications.
+In curating tutorials and best practice guidelines, _The Turing Way_ will help to translate recommendations from the areas in which they were developed, to a much larger body of potential research, industry and government applications.
 
-The Turing Way will reduce the amount of time that life-long learners spend figuring out how they should answer their scientific question.
-This online, searchable and interactive handbook will pave the way for graduate students, postdoctoral fellows, research engineers and senior academics to adopt practices across traditional domain bounderies.
+_The Turing Way_ will reduce the amount of time that life-long learners spend figuring out how they should answer their scientific question.
+This online, searchable and interactive handbook will pave the way for graduate students, postdoctoral fellows, research engineers and senior academics to adopt practices across traditional domain boundaries.
 The Turing research community will be more efficient and effective in conducting transparent, ethical, reproducible, and verifiable research.
 
-Following the Institute's philosophy of "eating its own dogfood", many different groups within the Turing business team will benefit from _The Turing Way_.
-The partnerships team will have a resource to facilitate conversations with industry and government data scientists.
-The programme managers will have checklists to adapt and follow to ensure that the projects they deliver are of the highest community defined standards.
-Human resources, events team, communications and information technology all currently write and provide exceptional guidance to their communities.
-Some of these resources, such as equitable recruitment processes, dynamic presentation guidelines, writing for policy makers, and recommendations for secure password management, can all be incorporated into _The Turing Way_.
-More generally, _The Turing Way_ will educate the broader community on the best practices for knowledge sharing: making information FAIR - findable, accessible, interoperable and reusable.
+The Turing business team will benefit from _The Turing Way_.
+The checklists and project design resources will benefit the programme managers and partnerships team.
+Resources such as equitable recruitment processes, dynamic presentation guidelines, writing for policy makers, and recommendations for secure password management - internally developed by the business team -  can all be incorporated into _The Turing Way_.
+More generally, we will educate the broader community on the best practices for knowledge sharing: making information FAIR - findable, accessible, interoperable and reusable.
 
-Finally, The Turing Way will benefit the global open source community.
-All materials are shared under an open licence.
-This means that they can be re-used, re-mixed and adapted as needed by anyone and for any purpose.
-The open license is a necessary - but not sufficient - requirement for broad adoption.
-The Turing Way will continue to support all community members in providing the skills required, and the confidence needed, to sustain an open source ecosystem.
-All community members will receive 1:1 support (as needed) on navigating GitHub issues, git branches and forks, commits and reviews, and their first pull requests.
-We will not re-invent the wheel.
-A key metric of success is a contribution from a conversation that starts within the The Turing Way community and ends in an update to documentation, or a new feature being added to an existing project.
+_The Turing Way_ will benefit the global open source community.
+All materials are shared under an open licence and can be re-used, re-mixed and adapted as needed by anyone and for any purpose.
+This workpackage will deliver continued support to all community members on navigating GitHub issues, git branches and forks, commits and reviews, and their first pull requests.
+We will track the improvements in skills and confident required to contribute to other projects and thus to sustain an open source ecosystem.
 
 ### Connections to other activities
 
