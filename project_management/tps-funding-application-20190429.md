@@ -190,6 +190,3 @@ Specific communities and points of contact that have shown support for this prop
 * TPS-WP: **Tool for detecting and understanding harmful  content online**, Nishanth Sastry.
 * TPS-WP: **Multi-language large-scale model-selection for environmental sciences with Shogun.ML**, Heiko Strathmann.
 * TPS-WP: **Mapping the multiverses of data analysis**, Natalie Thurlby.
-* TPS-WP: **Julia** led by NAME NAME.
-* TPS-WP: **Visualisations** led by NAME NAME.
-
