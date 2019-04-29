@@ -165,6 +165,7 @@ Specific communities that have shown support for this proposal are:
 * **Policy programme and ethics advisory group** through NAME NAME, NAME NAME, NAME NAME and Kirstie Whitaker as the chair of the Turing Ethics Advisory Group.
 * **Health programme.**
   Director Chris Holmes has expressed support for communicating best practices within the Health Data Science community and beyond.
+  Maria Wolters has committed to using and contributing back to _The Turing Way_ for her Turing funded projects.
 * **Living with Machines** through digital humanities senior research software engineer NAME NAME.
 * **Data safe haven and Turing research engineering teams** through Martin O'Reilly and Kirstie Whitaker.
 * **Jupyter and Microsoft Azure development communities** through Tim Head (Skribble), Chris Holdgraf (Berkeley Institute for Data Science), and Turing Visiting Fellows from Microsoft Kenji Takeda and Tania Allard.
@@ -178,7 +179,6 @@ Specific communities that have shown support for this proposal are:
 * TPS-WP: **Julia** led by NAME NAME.
 * TPS-WP: **Visualisations** led by NAME NAME.
 * TPS-WP: **open ml** led by NAME NAME.
-
 
 ### EXTRA STUUUUUUUFF
 
