@@ -7,12 +7,26 @@ Sarah Gibson, _The Alan Turing Institute_
 
 These steps will walk you through deploying a BinderHub on Microsoft Azure.
 It will be publicly available like [mybinder.org](https://mybinder.org).
-To follow along with these instructions, go to this link: [**bit.ly/sg-zero-to-binderhub**](http://bit.ly/sg-zero-to-binderhub)
+To follow along with these instructions, go to this link: [**bit.ly/zero-to-binderhub-workshop**](http://bit.ly/zero-to-binderhub-workshop)
 
 **BinderHub Documentation:**
 * [Step Zero: Setting up a Kubernetes Cluster](https://zero-to-jupyterhub.readthedocs.io/en/latest/create-k8s-cluster.html)
 * [Setup JupyterHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/#setup-jupyterhub)
 * [Setup BinderHub](https://binderhub.readthedocs.io/en/latest/setup-registry.html#set-up-the-container-registry)
+
+## Table of Contents
+
+* [Cloud Resource Requirements](#cloud-resource-requirements)
+* [Container Registry](#container-registry)
+* [Installation Requirements](#installation-requirements)
+* [Deploying a Kubernetes Cluster on Azure](#deploying-a-kubernetes-cluster-on-azure)
+* [Setting up Helm](#setting-up-helm)
+* [Setup BinderHub](#setup-binderhub)
+* [Debugging your BinderHub](#debugging-your-binderhub)
+* [Authenticating Users with GitHub](#authenticating-users-with-github)
+* [Tearing Down your BinderHub Deployment](#tearing-down-your-binderhub-deployment)
+* [Example config files](#example-config-files)
+* [Glossary of Kubernetes terms](#glossary-of-kubernetes-terms)
 
 <a name="cloudresoures"></a>
 ## Cloud Resource Requirements
