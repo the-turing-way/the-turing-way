@@ -37,15 +37,15 @@ Following an open source, community driven approach, we will welcome contributio
 This funding request will support a research engineer (1 FTE, 18 months) with expertise in documentation, training, and community building to manage the contributions to the book and four "book dash" events to engage and nurture _The Turing Way_ community.
 
 Reproducibility is important, and multifaceted.
-The book currently has chapters on open research, research data management, version control, reproducible computational environments, testing and continuous integration.
-But reproducibility does not cover core data science practices such as whether the scientific question is appropriately scoped, if the statistical assumptions are correctly managed, whether a suitable alogorithm or model was applied, how these results may vary according to different fluctuations across systems, in the choice of random seeds, or in how results are visualised to tell a story.
+The book currently has chapters on open research, research data management, version control, reproducible computational environments, testing, and continuous integration.
+But it does not cover core data science practices such as whether the scientific question is appropriately scoped, if the statistical assumptions are correctly managed, whether a suitable alogorithm or model was applied, how these results may vary according to different fluctuations across systems, in the choice of random seeds, or in how results are visualised to tell a story.
 The book does not currently include the aspects of data science and artificial intelligence that define whether work was ethically designed and reported.
 By curating this knowledge in an accessible format, _The Turing Way_ series will support the The Turing Institute's goals of delivering world class research, training the leaders of tomorrow, and leading the public conversation.
 
 _The Turing Way_ will not replace academic journals or software packages.
 Rather it is a pedagogical opportunity.
 A translation of research outputs into curated tutorials, case studies and checklists.
-The books are Jupyter Books (https://github.com/jupyter/jupyter-book) which build and host static webcontent directly from markdown files or jupyter notebooks in a GitHub repository.
+The books are Jupyter Books (https://github.com/jupyter/jupyter-book) which build and host static web content directly from markdown files or jupyter notebooks in a GitHub repository.
 They are easy to version control, edit and extend.
 The notebooks are interactive via a Binder plugin.
 
@@ -171,8 +171,9 @@ Specific communities that have shown support for this proposal are:
 * **Equality, Diversity and Inclusion steering group** through EDI Champion Kirstie Whitaker and head of Turing HR and operations Clare Randall.
 * **The British Library** through data services lead, Jez Cope, and team member Sarah Stewart.
   Planned contributed chapter after workshop in May 2019 on software citations (https://www.eventbrite.co.uk/e/software-citation-workshop-tickets-59519083180).
-* SPF Project: **Living with Machines**, through digital humanities senior research software engineer NAME NAME.
+* SPF Project: **Living with Machines**, David Beavan (Sources Lab lead).
 * TPS-WP: **Raphtory: A practical system for the analysis of dynamic graphs**, Felix Cuadrado.
+* TPS-WP: **Nocell: probabilistic programming for spreadsheet experts**, James Geddes
 * TPS-WP: **Quantifying Uncertainty and Preserving Privacy in Synthetic Data Sets**, Martin O'Reilly.
 * TPS-WP: **Evolving Wrattler into the Turing tools platform**, Tomas Petricek.
 * TPS-WP: **Tool for detecting and understanding harmful  content online**, Nishanth Sastry.
