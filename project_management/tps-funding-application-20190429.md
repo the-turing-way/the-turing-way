@@ -20,7 +20,7 @@ NA
 
 ### Start date range
 
-* 1 June 2019 - 1 October 2019
+* 1 June 2019 - 1 September 2019
 
 ### Duration
 
@@ -31,14 +31,14 @@ NA
 *Max 500 words*
 
 Funded as part of the first wave of projects within the Tools, Practices and Systems programme, _The Turing Way_ is currently a handbook for reproducible data science (https://github.com/alan-turing-institute/the-turing-way).
-This work package will extend _The Turing Way_ into a series of books: "A How To Guide to Data Science".
+This work package will extend _The Turing Way_ into a series of books: "A How To Guide to Data Science", with the current book being one of them.
 Our goal is to capture the vast amounts of knowledge of data science practices from within the Turing community and beyond.
 Following an open source, community driven approach, we will welcome contributions from anyone who can support researchers and practitioners in learning or improving the "how" of conducting world-leading research in data science and AI.
 This funding request will support a research engineer (1 FTE, 18 months) with expertise in documentation, training, and community building to manage the contributions to the book and four "book dash" events to engage and nurture _The Turing Way_ community.
 
 Reproducibility is important, and multifaceted.
-The book currently has chapters on open research, research data management, version control, reproducible computational environments, testing and continuous integration.
-But it does not cover core data science practices such as whether the scientific question is appropriately scoped, if the statistical assumptions are correctly managed, whether a suitable algorithm or model was applied, how these results may vary according to different fluctuations across systems, in the choice of random seeds, or in how results are visualised to tell a story.
+The book currently has chapters on open research, research data management, version control, reproducible computational environments, testing, and continuous integration.
+But it does not cover core data science practices such as whether the scientific question is appropriately scoped, if the statistical assumptions are correctly managed, whether a suitable alogorithm or model was applied, how these results may vary according to different fluctuations across systems, in the choice of random seeds, or in how results are visualised to tell a story.
 The book does not currently include the aspects of data science and artificial intelligence that define whether work was ethically designed and reported.
 By curating this knowledge in an accessible format, _The Turing Way_ series will support the The Turing Institute's goals of delivering world class research, training the leaders of tomorrow, and leading the public conversation.
 
@@ -78,7 +78,7 @@ Pathways:
   * **Book dash events** - respond to community requests for content and build confidence in early career researchers to share their skills.
   * **Research engineering and partnerships teams** - chapter on effectively scoping an interdisiplinary project.
 
-_The Turing Way_ will enable world class research by facilitating communication interdisciplinary teams.
+_The Turing Way_ will enable world class research by facilitating communication interdisiplinary teams.
 The chapters will cover the "bridging skills" needed for historians to collaborate with software engineers, clinicians with deep learning algorithm developers, and civil servants to develop ethical and responsible applications of AI technology.
 
 Pathways:
@@ -90,7 +90,7 @@ _The Turing Way_ will promote best practice in data science at a global scale.
 It is a "meta-project" developed and documented openly from the start.
 We will nurture a community of contributors who will themselves support a healthy and sustainable open source ecosystem.
 
-Specific pathways:
+Pathways:
   * **Jupyter and Microsoft Azure development communities** -  contribute and promote _The Turing Way_ across their networks of influence, and to listen to "pain points" in their tools experienced by community members.
   * **Carpentries community** - co-design training materials and ensure _The Turing Way_ meets the highest pedagogical standards.
 
@@ -100,22 +100,20 @@ Specific pathways:
 
 Translating knowledge from one domain to another is always harder than it first appears.
 Tackling the *known unknowns* are the core goal of _The Turing Way_: providing a space for research teams to acquire the skills that they know they lack.
-But in helping experts to adopt new tools and practices, we will inevitably identify open challenges in that the original developers had not forseen.
+But in helping experts to adopt new tools and practices, we will inevitably identify challenges that the original developers had not forseen.
 These *unknown unknowns* - or more specifically, the *unknowns that we thought we knew* - will generate exciting new research opportunities.
 
-Standards for statistical analyses in one domain, for example financial forecasting, can not apply to small datasets collected for mental health research.
-In both case the data can not be ethically shared for verification of the algorithms.
-A case study which is already part of _The Turing Way_ (Perez Arribas et al, 2018) provides an excellent opportunity to explore the challenge of translating practices from one application to another.
-How do we, as data scientists looking to translate knowledge across domains, ensure the ethical and statistical rigor of the work when large amounts of data can not be collected or reviewed?
+Some already identified challenges include:
 
-A different challenge is that the tools, practices and systems of data science and AI are moving incredibly quickly.
-In 2018, a Turing graduate student wasted three months of work trying to run Tensorflow (a deep learning framework) on brain imaging data.
-At the time Tensorflow did not support the required functionality in three dimensions, although this was not clearly documented.
-In the time that it took the student to rewrite their code using Pytorch the Tensorflow community implemented many of the changes required to analyse 3D volumes.
-How do we, as the UK's national institute for Data Science and AI, provide guidance on best practices when the tools we use are constantly shifting beneath us?
-
+* Adapting statistical analyses from a domain that collects large amounts of data (financial forecasting) to one with much smaller datasets (mental health).
+  Specific case study by Turing researchers Imanol Perez Arribas and Terry Lyons for which data can not be shared for independent verification.
+  * How do we, as data scientists looking to translate knowledge across domains, ensure the ethical and statistical rigor of the work when large amounts of data can not be collected or reviewed?
+* Tools, practices and systems of data science and AI are moving incredibly quickly.
+  Turing doctoral student Alex Campbell spent three months trying to use Tensorflow with neuroimaging data, only to discover that the popular deep learning framework did not provide the functionality in three dimensions that he required.
+  In the time it took him to re-write the code in Pytorch, Tensorflow implemented the required feature enhancements. 
+  * How do we, as the UK's national institute for Data Science and AI, provide guidance on best practices when the tools we use are constantly shifting beneath us?
+  
 The _Turing Way_ community will support - as co-authors if appropriate - research projects that seek to push back the boundaries of what can be done in transparent, ethical, reproducible and innovative data science.
-It will develop, capture, and promote answers to these currently unanswered and sometime not-yet-identified research questions.
 
 
 ### Community benefit
@@ -126,7 +124,7 @@ The Turing Way will benefit current expert researchers in Data Science and AI.
 It will provide them with a platform to share their expertise with a broad audience.
 It is not possible for any (human) researcher to digest all of the data science literature.
 It is challenging to even keep up with current publications in a specific subdomain.
-In curating tutorials and best practice guidelines, __The Turing Way__ will help to translate recommendations from the areas in which they were developed, to a much larger body of potential research, industry and government applications.
+In curating tutorials and best practice guidelines, The Turing Way will help to translate recommendations from the areas in which they were developed, to a much larger body of potential research, industry and government applications.
 
 The Turing Way will reduce the amount of time that life-long learners spend figuring out how they should answer their scientific question.
 This online, searchable and interactive handbook will pave the way for graduate students, postdoctoral fellows, research engineers and senior academics to adopt practices across traditional domain bounderies.
@@ -203,7 +201,7 @@ Different lenses on the same material.
 
 Kenji and Tania are directly supporting this project, including Binder+Azure, and that we will work with you on impact and dissemination globally!!!
 
-Also say - through Microsoft's collaboration with funding agencies globally, including UKRI, European Commissions, NSF and NIH
+Also say - through MIcrosoft's collaboration with funding agencies globally, including UKRI, European Commissions, NSF and NIH
 
 * **Jupyter and Microsoft Azure development communities.**
   The Turing Way has close connections with the Binder and Jupyter Book teams, both part of Project Jupyter, and the Azure development team through Turing Visiting Fellows Kenji Takeda and Tania Allard.
