@@ -1,3 +1,7 @@
+# Book dash decision emails
+
+Emails that were sent to book dash applicants
+
 ## Accepted
 
 Dear xxx,
