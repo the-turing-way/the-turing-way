@@ -166,12 +166,12 @@ Specific communities that have shown support for this proposal are:
 * **Health programme.**
   Director Chris Holmes has expressed support for communicating best practices within the Health Data Science community and beyond.
   Maria Wolters has committed to using and contributing back to _The Turing Way_ for her Turing funded projects.
-* **Living with Machines** through digital humanities senior research software engineer NAME NAME.
 * **Data safe haven and Turing research engineering teams** through Martin O'Reilly and Kirstie Whitaker.
 * **Jupyter and Microsoft Azure development communities** through Tim Head (Skribble), Chris Holdgraf (Berkeley Institute for Data Science), and Turing Visiting Fellows from Microsoft Kenji Takeda and Tania Allard.
 * **Equality, Diversity and Inclusion steering group** through EDI Champion Kirstie Whitaker and head of Turing HR and operations Clare Randall.
 * **The British Library** through data services lead, Jez Cope, and team member Sarah Stewart.
   Planned contributed chapter after workshop in May 2019 on software citations (https://www.eventbrite.co.uk/e/software-citation-workshop-tickets-59519083180).
+* SPF Project: **Living with Machines**, through digital humanities senior research software engineer NAME NAME.
 * TPS-WP: **Raphtory: A practical system for the analysis of dynamic graphs**, Felix Cuadrado.
 * TPS-WP: **Quantifying Uncertainty and Preserving Privacy in Synthetic Data Sets**, Martin O'Reilly.
 * TPS-WP: **Evolving Wrattler into the Turing tools platform**, Tomas Petricek.
