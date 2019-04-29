@@ -173,6 +173,7 @@ Specific communities that have shown support for this proposal are:
 * **The British Library** through data services lead, Jez Cope, and team member Sarah Stewart.
   Planned contributed chapter after workshop in May 2019 on software citations (https://www.eventbrite.co.uk/e/software-citation-workshop-tickets-59519083180).
 * TPS-WP: **Raphtory: A practical system for the analysis of dynamic graphs**, Felix Cuadrado.
+* TPS-WP: **Quantifying Uncertainty and Preserving Privacy in Synthetic Data Sets**, Martin O'Reilly.
 * TPS-WP: **Evolving Wrattler into the Turing tools platform**, Tomas Petricek.
 * TPS-WP: **Tool for detecting and understanding harmful  content online**, Nishanth Sastry.
 * TPS-WP: **Multiverse analyses** led by NAME NAME.
