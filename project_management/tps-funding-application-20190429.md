@@ -43,8 +43,7 @@ The book does not currently include the aspects of data science and AI that defi
 By curating this knowledge in an accessible format, _The Turing Way_ series will support the the Turing Institute's goals of delivering world class research, training the leaders of tomorrow, and leading the public conversation.
 
 _The Turing Way_ will not replace academic journals or software packages. 
-It is a pedagogical opportunity.
-A translation of research outputs into curated tutorials, case studies and checklists.
+It is a pedagogical opportunity, a translation of research outputs into curated tutorials, case studies and checklists.
 The books are Jupyter Books (https://github.com/jupyter/jupyter-book) which build and host web content directly from markdown files or jupyter notebooks in a GitHub repository.
 They are easy to version control, edit and extend.
 The notebooks are interactive via a Binder plugin (https://mybinder.org).
@@ -76,15 +75,15 @@ _The Turing Way_ books will be accessible to everyone who wants to learn technic
 Pathways:
   * **Training Steering Group** - use of The Turing Way chapters in doctoral training, two way communication and contribution process.
   * **Book dash events** - respond to community requests for content and build confidence in early career researchers to share their skills.
-  * **Research engineering and partnerships teams** - chapter on effectively scoping an interdisciplinary project.
+  * **Research engineering and partnerships teams** - contribute chapter on effectively scoping an interdisciplinary project.
 
 _The Turing Way_ will enable world class research by facilitating communication within interdisciplinary teams.
 The chapters will cover the "bridging skills" needed for historians to collaborate with software engineers, clinicians with algorithm developers, and civil servants to develop ethical and responsible applications of AI.
 
 Pathways:
-  * **Living with machines** - bidirectional community support to build a useful resource for interdisciplinary teams.
-  * **Health programme** - chapters on responsible data sharing, analyses within a safe haven environment, citizen science.
-  * **Policy programme** - chapters on ethical frameworks, bias in machine learning.
+  * **Living with machines** - encourage bidirectional community support to build a useful resource for interdisciplinary teams.
+  * **Health programme** - contribute chapters on responsible data sharing, analyses within a safe haven environment, citizen science.
+  * **Policy programme** - contribute chapters on ethical frameworks, bias in machine learning.
 
 _The Turing Way_ will promote best practice in data science at a global scale.
 It is a "meta-project" developed and documented openly from the start.
@@ -125,7 +124,7 @@ It will provide them with a platform to share their expertise with a broad audie
 In curating tutorials and best practice guidelines, _The Turing Way_ will help to translate recommendations from the areas in which they were developed, to a much larger body of potential research, industry and government applications.
 
 _The Turing Way_ will reduce the amount of time that life-long learners spend figuring out how they should answer their scientific question.
-This online, searchable and interactive handbook will pave the way for graduate students, postdoctoral fellows, research engineers and senior academics to adopt practices across traditional domain boundaries.
+This online, searchable, and interactive handbook will pave the way for graduate students, postdoctoral fellows, research engineers and senior academics to adopt practices across traditional domain boundaries.
 The Turing research community will be more efficient and effective in conducting transparent, ethical, reproducible, and verifiable research.
 
 The Turing business team will benefit from _The Turing Way_.
