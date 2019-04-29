@@ -114,6 +114,7 @@ Some already identified challenges include:
   * How do we provide guidance on best practices when the tools we use are constantly shifting beneath us?
 * **The publish or perish incentive system limits progress.**
   It is possible to publish software and data papers, to archive software with a digital object identifier, and to count those citations.
+  However, they are not commonly considered in research career progression and are difficult to fund.
   * How do we support people through the current change in academic culture?
 
 The _Turing Way_ community will support - as co-authors if appropriate - research projects that seek to push back the boundaries of what can be done in transparent, ethical, reproducible and innovative data science.
