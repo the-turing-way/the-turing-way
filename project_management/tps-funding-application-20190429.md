@@ -47,7 +47,7 @@ Rather it is a pedagogical opportunity.
 A translation of research outputs into curated tutorials, case studies and checklists.
 The books are Jupyter Books (https://github.com/jupyter/jupyter-book) which build and host static web content directly from markdown files or jupyter notebooks in a GitHub repository.
 They are easy to version control, edit and extend.
-The notebooks are interactive via a Binder plugin.
+The notebooks are interactive via a Binder plugin (https://mybinder.org).
 
 The _Turing Way_ community is a global collaboration of research engineers, data librarians, industry professionals, and domain expert researchers at all levels of seniority.
 Anyone can contribute to the book at any time and our community manager will provide 1:1 mentorship for anyone who wants to incorporate their knowledge into the books.
@@ -69,37 +69,37 @@ Metrics of success over 18 months:
 
 *Max 300 words*
 
-We are committed to giving all early career data scientists the support they need to confidently publish reproducible, accurate, interpretable, and responsible research.
-We will support financial analysts, civil servants, people in third sector organisations, and domain experts who need to evaluate applications of data science and AI.
-_The Turing Way_ books will be accessible to everyone who wants to learn these skills and the content will adapt to accommodate the needs of these communities.
+We are committed to giving early career data scientists the support they need to confidently publish reproducible, accurate, interpretable, and responsible research.
+We will support any industry, government or third sector employee to effectively evaluate applications of data science and AI.
+_The Turing Way_ books will be accessible to everyone who wants to learn technical, communication and collaboration skills, and we will adapt the content according to the needs of specific communities.
 
 Pathways:
-  * **Training Steering Group** - use of The Turing Way chapters in doctoral training.
+  * **Training Steering Group** - use of The Turing Way chapters in doctoral training, two way communication and contribution process.
   * **Book dash events** - respond to community requests for content and build confidence in early career researchers to share their skills.
   * **Research engineering and partnerships teams** - chapter on effectively scoping an interdisciplinary project.
 
-_The Turing Way_ will enable world class research by facilitating communication interdisciplinary teams.
-The chapters will cover the "bridging skills" needed for historians to collaborate with software engineers, clinicians with deep learning algorithm developers, and civil servants to develop ethical and responsible applications of AI technology.
+_The Turing Way_ will enable world class research by facilitating communication within interdisciplinary teams.
+The chapters will cover the "bridging skills" needed for historians to collaborate with software engineers, clinicians with algorithm developers, and civil servants to develop ethical and responsible applications of AI.
 
 Pathways:
   * **Living with machines** - bidirectional community support to build a useful resource for interdisciplinary teams.
-  * **Health programme** - chapters on responsible data sharing, analyses within a safe haven environment, and citizen science.
-  * **Policy programme** - chapters on ethical frameworks and bias in machine learning.
+  * **Health programme** - chapters on responsible data sharing, analyses within a safe haven environment, citizen science.
+  * **Policy programme** - chapters on ethical frameworks, bias in machine learning.
 
 _The Turing Way_ will promote best practice in data science at a global scale.
 It is a "meta-project" developed and documented openly from the start.
 We will nurture a community of contributors who will themselves support a healthy and sustainable open source ecosystem.
 
 Pathways:
-  * **Jupyter and Microsoft Azure development communities** -  contribute and promote _The Turing Way_ across their networks of influence, and to listen to "pain points" in their tools experienced by community members.
-  * **Carpentries community** - co-design training materials and ensure _The Turing Way_ meets the highest pedagogical standards.
+  * **Jupyter and Microsoft Azure development communities** -  contribute and promote _The Turing Way_ across their networks of influence (including UKRI, European Commissions, NSF and NIH), listen to "pain points" in their tools experienced by community members.
+  * **Carpentries community** - co-design training materials, ensure _The Turing Way_ meets the highest pedagogical standards.
 
 ### Research challenges
 
 *Max 300 words*
 
 Translating knowledge from one domain to another is always harder than it first appears.
-Tackling the *known unknowns* are the core goal of _The Turing Way_: providing a space for research teams to acquire the skills that they know they lack.
+Tackling the *known unknowns* is the core goal of _The Turing Way_: providing a space for research teams to acquire the skills that they know they lack.
 But in helping experts to adopt new tools and practices, we will inevitably identify challenges that the original developers had not forseen.
 These *unknown unknowns* - or more specifically, the *unknowns that we thought we knew* - will generate exciting new research opportunities.
 
@@ -144,62 +144,27 @@ We will track the improvements in skills and confident required to contribute to
 
 _The Turing Way_ will evolve as the community grows and anyone who wishes to contribute will be welcome to propose an addition.
 
-Specific communities that have shown support for this proposal are:
+Specific communities and points of contact that have shown support for this proposal are:
 
-* **Turing Training Steering Group.**
-  Ben Murton and Suzy Moat are keen to build a two way communication and contribution process between the Turing Way and the training steering group.
-* **Policy programme and ethics advisory group** through NAME NAME, NAME NAME, NAME NAME and Kirstie Whitaker as the chair of the Turing Ethics Advisory Group.
-* **Health programme.**
-  Director Chris Holmes has expressed support for communicating best practices within the Health Data Science community and beyond.
-  Maria Wolters has committed to using and contributing back to _The Turing Way_ for her Turing funded projects.
-* **Data safe haven and Turing research engineering teams** through Martin O'Reilly and Kirstie Whitaker.
-* **Jupyter and Microsoft Azure development communities** through Tim Head (Skribble), Chris Holdgraf (Berkeley Institute for Data Science), and Turing Visiting Fellows from Microsoft Kenji Takeda and Tania Allard.
-* **Equality, Diversity and Inclusion steering group** through EDI Champion Kirstie Whitaker and head of Turing HR and operations Clare Randall.
-* **The British Library** through data services lead, Jez Cope, and team member Sarah Stewart.
+* **Turing Training Steering Group**, Ben Murton and Suzy Moat.
+* **Policy programme and ethics advisory group**, NAME NAME, NAME NAME and Kirstie Whitaker.
+* **Health programme**, Chris Holmes, Catherine Lawrence and Maria Wolters.
+* **Data science at scale programme**, Anthony Lee.
+* **Urban analytics programme**, Alison Heppenstall.
+* **Data safe haven and Turing research engineering teams**, Martin O'Reilly.
+* **Jupyter and Microsoft Azure development communities**, Tim Head (Skribble), Chris Holdgraf (Berkeley Institute for Data Science), Turing Visiting Fellows from Microsoft Kenji Takeda and Tania Allard.
+* **Equality, Diversity and Inclusion steering group**, Clare Randall (head of Turing HR and operations).
+* **The British Library**, Jez Cope (Data Services lead) and Sarah Stewart.
   Planned contributed chapter after workshop in May 2019 on software citations (https://www.eventbrite.co.uk/e/software-citation-workshop-tickets-59519083180).
 * SPF Project: **Living with Machines**, David Beavan (Sources Lab lead).
 * TPS-WP: **Raphtory: A practical system for the analysis of dynamic graphs**, Felix Cuadrado.
-* TPS-WP: **Nocell: probabilistic programming for spreadsheet experts**, James Geddes
-* TPS-WP: **Modularizing, containerizing and benchmarking large data science workflows**, Anthony Lee
+* TPS-WP: **Nocell: probabilistic programming for spreadsheet experts**, James Geddes.
+* TPS-WP: **Modularizing, containerizing and benchmarking large data science workflows**, Anthony Lee.
 * TPS-WP: **Quantifying Uncertainty and Preserving Privacy in Synthetic Data Sets**, Martin O'Reilly.
 * TPS-WP: **Evolving Wrattler into the Turing tools platform**, Tomas Petricek.
 * TPS-WP: **Tool for detecting and understanding harmful  content online**, Nishanth Sastry.
+* TPS-WP: **Multi-language large-scale model-selection for environmental sciences with Shogun.ML**, Heiko Strathmann.
 * TPS-WP: **Multiverse analyses** led by NAME NAME.
 * TPS-WP: **Julia** led by NAME NAME.
 * TPS-WP: **Visualisations** led by NAME NAME.
-* TPS-WP: **open ml** led by NAME NAME.
 
-### EXTRA STUUUUUUUFF
-
-
-
-Moving so fast - always open, anyone can contribute, anyone can re-use
-
-Share back into community projects.
-Jupyter. Binder.
-
-Translate research projects into additional resources: software packages and versioned and documented datasets.
-
-Versioned releases. Cumulative authorship.
-JOSE papers
-
-Turing as world leader.
-
-Training people on how to collaborate.
-Communication skills and policy building.
-
-Curated pathways through the books.
-Different lenses on the same material.
-
-Kenji and Tania are directly supporting this project, including Binder+Azure, and that we will work with you on impact and dissemination globally!!!
-
-Also say - through MIcrosoft's collaboration with funding agencies globally, including UKRI, European Commissions, NSF and NIH
-
-* **Jupyter and Microsoft Azure development communities.**
-  The Turing Way has close connections with the Binder and Jupyter Book teams, both part of Project Jupyter, and the Azure development team through Turing Visiting Fellows Kenji Takeda and Tania Allard.
-  Both communities are keen to contribute and promote The Turing Way across their networks of influence, and to listen to "pain points" in their tools experienced by The Turing Way's community.
-* **Turing Training Steering Group.**
-  Ben Murton and Suzy Moat are keen to build a two way communication and contribution process between the Turing Way and the training steering group (TSG).
-  Specifically, the TSG will consider whether The Turing Way might be effectively adapted for use in partner universities, strategic partner organisations, small or medium-sized enterprises, and government programmes.
-* **Equality, Diversity and Inclusion steering group.**
-  The Institute's committment to EDI is mirrored in The Turing Way's goal of building an open and accessible resource that efficiently curates and disseminates knowledge across a broad community.
