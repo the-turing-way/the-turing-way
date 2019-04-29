@@ -37,8 +37,8 @@ Following an open source, community driven approach, we will welcome contributio
 This funding request will support a research engineer (1 FTE, 18 months) with expertise in documentation, training, and community building to manage the contributions to the book and four "book dash" events to engage and nurture _The Turing Way_ community.
 
 Reproducibility is important, and multifaceted.
-The book currently has chapters on open research, research data management, version control, reproducible computational environments, testing, and continuous integration.
-But it does not cover core data science practices such as whether the scientific question is appropriately scoped, if the statistical assumptions are correctly managed, whether a suitable alogorithm or model was applied, how these results may vary according to different fluctuations across systems, in the choice of random seeds, or in how results are visualised to tell a story.
+The book currently has chapters on open research, research data management, version control, reproducible computational environments, testing and continuous integration.
+But it does not cover core data science practices such as whether the scientific question is appropriately scoped, if the statistical assumptions are correctly managed, whether a suitable algorithm or model was applied, how these results may vary according to different fluctuations across systems, in the choice of random seeds, or in how results are visualised to tell a story.
 The book does not currently include the aspects of data science and artificial intelligence that define whether work was ethically designed and reported.
 By curating this knowledge in an accessible format, _The Turing Way_ series will support the The Turing Institute's goals of delivering world class research, training the leaders of tomorrow, and leading the public conversation.
 
@@ -78,7 +78,7 @@ Pathways:
   * **Book dash events** - respond to community requests for content and build confidence in early career researchers to share their skills.
   * **Research engineering and partnerships teams** - chapter on effectively scoping an interdisiplinary project.
 
-_The Turing Way_ will enable world class research by facilitating communication interdisiplinary teams.
+_The Turing Way_ will enable world class research by facilitating communication interdisciplinary teams.
 The chapters will cover the "bridging skills" needed for historians to collaborate with software engineers, clinicians with deep learning algorithm developers, and civil servants to develop ethical and responsible applications of AI technology.
 
 Pathways:
@@ -115,7 +115,7 @@ In the time that it took the student to rewrite their code using Pytorch the Ten
 How do we, as the UK's national institute for Data Science and AI, provide guidance on best practices when the tools we use are constantly shifting beneath us?
 
 The _Turing Way_ community will support - as co-authors if appropriate - research projects that seek to push back the boundaries of what can be done in transparent, ethical, reproducible and innovative data science.
-It will develop, capture and promote answers to these currently unanswered and sometime not-yet-identified research questions.
+It will develop, capture, and promote answers to these currently unanswered and sometime not-yet-identified research questions.
 
 
 ### Community benefit
@@ -126,7 +126,7 @@ The Turing Way will benefit current expert researchers in Data Science and AI.
 It will provide them with a platform to share their expertise with a broad audience.
 It is not possible for any (human) researcher to digest all of the data science literature.
 It is challenging to even keep up with current publications in a specific subdomain.
-In curating tutorials and best practice guidelines, The Turing Way will help to translate recommendations from the areas in which they were developed, to a much larger body of potential research, industry and government applications.
+In curating tutorials and best practice guidelines, __The Turing Way__ will help to translate recommendations from the areas in which they were developed, to a much larger body of potential research, industry and government applications.
 
 The Turing Way will reduce the amount of time that life-long learners spend figuring out how they should answer their scientific question.
 This online, searchable and interactive handbook will pave the way for graduate students, postdoctoral fellows, research engineers and senior academics to adopt practices across traditional domain bounderies.
@@ -203,7 +203,7 @@ Different lenses on the same material.
 
 Kenji and Tania are directly supporting this project, including Binder+Azure, and that we will work with you on impact and dissemination globally!!!
 
-Also say - through MIcrosoft's collaboration with funding agencies globally, including UKRI, European Commissions, NSF and NIH
+Also say - through Microsoft's collaboration with funding agencies globally, including UKRI, European Commissions, NSF and NIH
 
 * **Jupyter and Microsoft Azure development communities.**
   The Turing Way has close connections with the Binder and Jupyter Book teams, both part of Project Jupyter, and the Azure development team through Turing Visiting Fellows Kenji Takeda and Tania Allard.
