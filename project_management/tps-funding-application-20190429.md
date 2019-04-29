@@ -26,6 +26,22 @@ NA
 
 * 18 months
 
+### Which project type
+
+- [ ] Tools
+- [x] Practices
+- [ ] Systems
+
+### Theme areas to which work package aligns
+
+*Select up to three*
+
+- [ ] Digital Twins of Assets (Data Centric Engineering)
+- [x] Digital Twins of Systems (Urban Analytics)
+- [x] Criminal Justice System (Public Policy)
+- [x] Health 
+- [ ] AI for Science
+
 ### Abstract
 
 *Max 500 words*
@@ -33,14 +49,21 @@ NA
 _The Turing Way_ is currently a handbook for reproducible data science (https://github.com/alan-turing-institute/the-turing-way).
 This work package will extend _The Turing Way_ into a series of books: "A How To Guide to Data Science", with the current book being one of them.
 Our goal is to capture the vast amounts of knowledge of data science practices from within the Turing community and beyond.
-Following an open source, community driven approach, we will welcome contributions from anyone who can support researchers and practitioners in learning or improving the "how" of conducting world-leading research in data science and AI.
-The funding will support a research engineer (1 FTE, 18 months) with expertise in documentation, training, and community building to manage contributions to the book, and four "book dash" events to engage the broader _Turing Way_ community.
+Following an open source, community driven approach, we will welcome contributions from anyone who can support researchers and practitioners in learning or improving the "how" of conducting world-leading research in data science and artificial intelligence (AI).
+The funding will support a research engineer (1 FTE, 18 months) with expertise in authoring documentation, training, and community building to manage contributions to the books, and four "book dash" events to engage the broader _Turing Way_ community.
 
 Reproducibility is important, and multifaceted.
 The book currently has chapters on research data management, version control, reproducible computational environments, testing, and continuous integration.
-But reproducibility does not cover core data science practices such as whether the scientific question is appropriately scoped, if the statistical assumptions are correctly managed, whether a suitable algorithm or model was applied, how these results may vary according to differences across systems, in the choice of random seeds, or in how results are visualised to tell a story.
-The book does not currently include the aspects of data science and AI that define whether work was ethically designed and reported.
-By curating this knowledge in an accessible format, _The Turing Way_ series will support the the Turing Institute's goals of delivering world class research, training the leaders of tomorrow, and leading the public conversation.
+But reproducibility does not cover core data science practices such as:
+* Is the scientific question is appropriately scoped?
+* Are statistical assumptions correctly managed?
+* Was a suitable algorithm or model applied?
+* How do results vary according to differences across systems?
+* What is the effect of choice of random seeds?
+* How do visualisations change the interpretation?
+
+Furthermore, the book does not currently include the aspects of data science and AI that define whether work was ethically designed and reported.
+By curating this knowledge in an accessible format, _The Turing Way_ series will support the Turing Institute's goals of delivering world class research, training the leaders of tomorrow, and leading the public conversation.
 
 _The Turing Way_ will not replace academic journals or software packages. 
 It is a pedagogical opportunity, a translation of research outputs into curated tutorials, case studies and checklists.
@@ -62,7 +85,6 @@ Metrics of success over 18 months:
 * 1000 mailing list subscribers (currently 200).
 * 50 first pull requests.
 * 20 new contributors to other open source projects.
-
 
 ### Route to impact
 
@@ -106,15 +128,15 @@ Some already identified challenges include:
 
 * **Datasets in different applications domains vary greatly in size.**
   Turing researchers Imanol Perez Arribas and Terry Lyons adapted statistical analyses from financial forecasting (large dataset) to categorising mental health disorders (small dataset).
-  In both the data can not be shared for independent verification.
-  * How do we ensure the ethical and statistical rigor of the work when data can not be collected or reviewed?
+  In both cases the data cannot be shared for independent verification.
+  * How do we ensure the ethical and statistical rigor of the work when data cannot be collected or reviewed?
 * **Tools, practices and systems of data science are moving incredibly quickly.**
   Turing doctoral student Alex Campbell spent three months using Tensorflow with neuroimaging data, only to discover that the framework did not provide the necessary functionality.
   While he rewrote the code in Pytorch, Tensorflow implemented the required feature enhancements.
-  * How do we provide guidance on best practices when the tools we use are constantly shifting beneath us?
+  * How do we provide guidance on best practices when the tools we use are constantly evolving?
 * **The publish or perish incentive system limits progress.**
-  It is possible to publish software and data papers, to archive software with a digital object identifier, and to count those citations.
-  However, they are not commonly considered in research career progression and are difficult to fund.
+  It is possible to archive version controlled software and data papers and to accompany them with a digital object identifier so that citations can be counted and their re-use monitored.
+  However, these metrics are not commonly considered in research career progression and are difficult to fund.
   * How do we support people through the current change in academic culture?
 
 The _Turing Way_ community will support - as co-authors if appropriate - research projects that seek to push back the boundaries of what can be done in transparent, ethical, reproducible and innovative data science.
@@ -150,13 +172,14 @@ _The Turing Way_ will evolve as the community grows and anyone who wishes to con
 Specific communities and points of contact that have shown support for this proposal are:
 
 * **Turing Training Steering Group**, Suzy Moat, Ben Murton. 
-* **Policy programme and ethics advisory group**, NAME NAME, NAME NAME, Kirstie Whitaker.
+* **Policy programme and ethics advisory group**, David Leslie, Kirstie Whitaker.
 * **Health programme**, Chris Holmes, Catherine Lawrence, Maria Wolters.
 * **Data science at scale programme**, Anthony Lee.
 * **Urban analytics programme**, Alison Heppenstall.
 * **Data safe haven and Turing research engineering teams**, Martin O'Reilly.
 * **Equality, Diversity and Inclusion steering group**, Clare Randall (head of Turing HR and operations).
 * **Jupyter and Microsoft Azure development communities**, Tim Head (Skribble), Chris Holdgraf (Berkeley Institute for Data Science), Turing Visiting Fellows Kenji Takeda, Tania Allard (Microsoft).
+* **Code for Science and Society**, Danielle Robinson.
 * **The British Library**, Jez Cope (Data Services lead), Sarah Stewart, extended network to Research Data Alliance and ICS Committee on Data for Science and Technology.
 * SPF Project: **Living with Machines**, Ruth Ahnert, David Beavan.
 * TPS-WP: **Raphtory: A practical system for the analysis of dynamic graphs**, Felix Cuadrado.
@@ -166,6 +189,7 @@ Specific communities and points of contact that have shown support for this prop
 * TPS-WP: **Evolving Wrattler into the Turing tools platform**, Tomas Petricek.
 * TPS-WP: **Tool for detecting and understanding harmful  content online**, Nishanth Sastry.
 * TPS-WP: **Multi-language large-scale model-selection for environmental sciences with Shogun.ML**, Heiko Strathmann.
-* TPS-WP: **Multiverse analyses** led by NAME NAME.
+* TPS-WP: **Mapping the multiverses of data analysis**, Natalie Thurlby.
 * TPS-WP: **Julia** led by NAME NAME.
 * TPS-WP: **Visualisations** led by NAME NAME.
+
