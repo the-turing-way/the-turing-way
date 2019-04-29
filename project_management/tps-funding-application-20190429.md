@@ -38,14 +38,14 @@ This funding request will support a research engineer (1 FTE, 18 months) with ex
 
 Reproducibility is important, and multifaceted.
 The book currently has chapters on open research, research data management, version control, reproducible computational environments, testing and continuous integration.
-But reproducibility does not cover core data science practices such as whether the scientific question is appropriately scoped, if the statistical assumptions are correctly managed, whether a suitable algorithm or model was applied, how these results may vary according to different fluctuations across systems, in the choice of random seeds, or in how results are visualised to tell a story.
+But it does not cover core data science practices such as whether the scientific question is appropriately scoped, if the statistical assumptions are correctly managed, whether a suitable algorithm or model was applied, how these results may vary according to different fluctuations across systems, in the choice of random seeds, or in how results are visualised to tell a story.
 The book does not currently include the aspects of data science and artificial intelligence that define whether work was ethically designed and reported.
 By curating this knowledge in an accessible format, _The Turing Way_ series will support the The Turing Institute's goals of delivering world class research, training the leaders of tomorrow, and leading the public conversation.
 
 _The Turing Way_ will not replace academic journals or software packages.
 Rather it is a pedagogical opportunity.
 A translation of research outputs into curated tutorials, case studies and checklists.
-The books are Jupyter Books (https://github.com/jupyter/jupyter-book) which build and host static webcontent directly from markdown files or jupyter notebooks in a GitHub repository.
+The books are Jupyter Books (https://github.com/jupyter/jupyter-book) which build and host static web content directly from markdown files or jupyter notebooks in a GitHub repository.
 They are easy to version control, edit and extend.
 The notebooks are interactive via a Binder plugin.
 
@@ -69,34 +69,30 @@ Metrics of success over 18 months:
 
 *Max 300 words*
 
-_The Turing Way_ will help train the data science leaders of the future.
-We are committed to giving all early career data scientists the support they need to confidently publish reproducible, accurate, interpretable, responsible and extendable research.
-But leaders of the future will not only come from within academia.
-Financial analysts, civil servants, people in third sector organisations, and domain experts in almost every sector will need to evaluate applications of data science and AI.
-This extension of _The Turing Way_ will be accessible to everyone who wants to learn these skills and the content will adapt to accommodate the needs of these communities.
+We are committed to giving all early career data scientists the support they need to confidently publish reproducible, accurate, interpretable, and responsible research.
+We will support financial analysts, civil servants, people in third sector organisations, and domain experts who need to evaluate applications of data science and AI.
+_The Turing Way_ books will be accessible to everyone who wants to learn these skills and the content will adapt to accommodate the needs of these communities.
 
 Pathways:
   * **Training Steering Group** - use of The Turing Way chapters in doctoral training.
   * **Book dash events** - respond to community requests for content and build confidence in early career researchers to share their skills.
-  * **Research engineering team** - chapter on effectively scoping an interdisciplinary project.
-  * **Turing business team** - chapters on agile ways of working, secure data analysis, version control and open source business models.
+  * **Research engineering and partnerships teams** - chapter on effectively scoping an interdisiplinary project.
 
-_The Turing Way_ will enable world class research by facilitating communication in inter- and multi-disciplinary teams.
-The chapters will cover the "bridging skills" that are needed for historians to share their knowledge with software engineers, clinicians with deep learning algorithm developers, and civil servants to develop ethical and responsible applications of machine learning technology.
+_The Turing Way_ will enable world class research by facilitating communication interdisciplinary teams.
+The chapters will cover the "bridging skills" needed for historians to collaborate with software engineers, clinicians with deep learning algorithm developers, and civil servants to develop ethical and responsible applications of AI technology.
 
 Pathways:
-  * **Living with machines** - bidirectional community support to build a useful resource for interdisciplinary teams.
-  * **Health programme** - chapters on ethical data sharing, analyses within a safe haven environment, and citizen science.
+  * **Living with machines** - bidirectional community support to build a useful resource for interdisiplinary teams.
+  * **Health programme** - chapters on responsible data sharing, analyses within a safe haven environment, and citizen science.
   * **Policy programme** - chapters on ethical frameworks and bias in machine learning.
-  * **British library** - chapters on data management, archiving, and data standards and ontologies.
 
 _The Turing Way_ will promote best practice in data science at a global scale.
-It is a "meta-project" in which we will follow our own advice in working openly by design and documenting our processes to make our work easy to re-use.
+It is a "meta-project" developed and documented openly from the start.
 We will nurture a community of contributors who will themselves support a healthy and sustainable open source ecosystem.
 
 Specific pathways:
-  * **Jupyter and Microsoft Azure development communities** -  contribute and promote _The Turing Way_ across their networks of influence, and to listen to "pain points" in their tools experienced by _The Turing Way's_ community.
-
+  * **Jupyter and Microsoft Azure development communities** -  contribute and promote _The Turing Way_ across their networks of influence, and to listen to "pain points" in their tools experienced by community members.
+  * **Carpentries community** - co-design training materials and ensure _The Turing Way_ meets the highest pedagogical standards.
 
 ### Research challenges
 
@@ -171,8 +167,10 @@ Specific communities that have shown support for this proposal are:
 * **Equality, Diversity and Inclusion steering group** through EDI Champion Kirstie Whitaker and head of Turing HR and operations Clare Randall.
 * **The British Library** through data services lead, Jez Cope, and team member Sarah Stewart.
   Planned contributed chapter after workshop in May 2019 on software citations (https://www.eventbrite.co.uk/e/software-citation-workshop-tickets-59519083180).
-* SPF Project: **Living with Machines**, through digital humanities senior research software engineer NAME NAME.
+* SPF Project: **Living with Machines**, David Beavan (Sources Lab lead).
 * TPS-WP: **Raphtory: A practical system for the analysis of dynamic graphs**, Felix Cuadrado.
+* TPS-WP: **Nocell: probabilistic programming for spreadsheet experts**, James Geddes
+* TPS-WP: **Modularizing, containerizing and benchmarking large data science workflows**, Anthony Lee
 * TPS-WP: **Quantifying Uncertainty and Preserving Privacy in Synthetic Data Sets**, Martin O'Reilly.
 * TPS-WP: **Evolving Wrattler into the Turing tools platform**, Tomas Petricek.
 * TPS-WP: **Tool for detecting and understanding harmful  content online**, Nishanth Sastry.
