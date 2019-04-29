@@ -146,16 +146,16 @@ _The Turing Way_ will evolve as the community grows and anyone who wishes to con
 
 Specific communities and points of contact that have shown support for this proposal are:
 
-* **Turing Training Steering Group**, Ben Murton and Suzy Moat.
-* **Policy programme and ethics advisory group**, NAME NAME, NAME NAME and Kirstie Whitaker.
-* **Health programme**, Chris Holmes, Catherine Lawrence and Maria Wolters.
+* **Turing Training Steering Group**, Suzy Moat, Ben Murton. 
+* **Policy programme and ethics advisory group**, NAME NAME, NAME NAME, Kirstie Whitaker.
+* **Health programme**, Chris Holmes, Catherine Lawrence, Maria Wolters.
 * **Data science at scale programme**, Anthony Lee.
 * **Urban analytics programme**, Alison Heppenstall.
 * **Data safe haven and Turing research engineering teams**, Martin O'Reilly.
 * **Equality, Diversity and Inclusion steering group**, Clare Randall (head of Turing HR and operations).
-* **Jupyter and Microsoft Azure development communities**, Tim Head (Skribble), Chris Holdgraf (Berkeley Institute for Data Science), Turing Visiting Fellows from Microsoft Kenji Takeda and Tania Allard.
-* **The British Library**, Jez Cope (Data Services lead) and Sarah Stewart, and extended network to Research Data Alliance and ICS Committee on Data for Science and Technology.
-* SPF Project: **Living with Machines**, David Beavan (Sources Lab lead).
+* **Jupyter and Microsoft Azure development communities**, Tim Head (Skribble), Chris Holdgraf (Berkeley Institute for Data Science), Turing Visiting Fellows Kenji Takeda, Tania Allard (Microsoft).
+* **The British Library**, Jez Cope (Data Services lead), Sarah Stewart, extended network to Research Data Alliance and ICS Committee on Data for Science and Technology.
+* SPF Project: **Living with Machines**, Ruth Ahnert, David Beavan.
 * TPS-WP: **Raphtory: A practical system for the analysis of dynamic graphs**, Felix Cuadrado.
 * TPS-WP: **Nocell: probabilistic programming for spreadsheet experts**, James Geddes.
 * TPS-WP: **Modularizing, containerizing and benchmarking large data science workflows**, Anthony Lee.
@@ -166,4 +166,3 @@ Specific communities and points of contact that have shown support for this prop
 * TPS-WP: **Multiverse analyses** led by NAME NAME.
 * TPS-WP: **Julia** led by NAME NAME.
 * TPS-WP: **Visualisations** led by NAME NAME.
-
