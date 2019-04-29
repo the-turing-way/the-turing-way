@@ -85,7 +85,6 @@ Pathways:
   * **Living with machines** - bidirectional community support to build a useful resource for interdisiplinary teams.
   * **Health programme** - chapters on responsible data sharing, analyses within a safe haven environment, and citizen science.
   * **Policy programme** - chapters on ethical frameworks and bias in machine learning.
-  * **
 
 _The Turing Way_ will promote best practice in data science at a global scale.
 It is a "meta-project" developed and documented openly from the start.
