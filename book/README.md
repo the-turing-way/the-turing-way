@@ -15,13 +15,13 @@ The site is built automatically using these two directories. All of the requirem
 #### Locally (Mac / Linux Only)
 To install jupyter-book etc.
 ```
-cd website
+cd book/website
 pip install -r requirements.txt
 ```
 
 If you want to see your local changes on your own computer you'll have to go in the website directory and enter `make serve` (type `make` on it's own to see the other options).
 ```
-cd website
+cd book/website
 make site && make serve
 ```
 
