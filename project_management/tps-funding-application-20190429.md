@@ -90,30 +90,30 @@ Metrics of success over 18 months:
 
 *Max 300 words*
 
-We are committed to giving early career data scientists the support they need to confidently publish reproducible, accurate, interpretable, and responsible research.
-We will support industry, government or third sector employees to effectively evaluate AI applications.
+We will give data scientists the resources they need to publish reproducible, accurate, interpretable, and responsible research.
+We will support industry, government and third sector employees to effectively evaluate AI applications.
 _The Turing Way_ books will be accessible to everyone who wants to learn technical, communication and collaboration skills, and we will adapt the content according to the needs of specific communities.
 
 Pathways:
-  * **Training Steering Group** - use of The Turing Way chapters in doctoral training, two way communication and contribution process.
-  * **Book dash events** - respond to community requests for content and build confidence in early career researchers to share their skills.
-  * **Research engineering and partnerships teams** - contribute chapter on effectively scoping an interdisciplinary project.
+  * **Training Steering Group**: use of The Turing Way chapters in doctoral training, two way communication and contribution process.
+  * **Book dash events**: respond to community requests for content and build confidence in early career researchers to share their skills.
+  * **Research engineering and partnerships teams**: contribute chapter on effectively scoping an interdisciplinary project.
 
 _The Turing Way_ will enable world class research by facilitating communication within interdisciplinary teams.
 The chapters will cover the "bridging skills" needed for historians to collaborate with software engineers, clinicians with algorithm developers, and civil servants to develop ethical and responsible applications of AI.
 
 Pathways:
-  * **Living with machines** - encourage bidirectional community support to build a useful resource for interdisciplinary teams.
-  * **Health programme** - contribute chapters on responsible data sharing, analyses within a safe haven environment, citizen science.
-  * **Policy programme** - contribute chapters on ethical frameworks, bias in machine learning.
+  * **Living with machines**: encourage bidirectional community support to build a useful resource for interdisciplinary teams.
+  * **Health programme**: contribute chapters on responsible data sharing, analyses within a safe haven environment, citizen science.
+  * **Policy programme**: contribute chapters on ethical frameworks, bias in machine learning.
 
 _The Turing Way_ will promote best practice in data science at a global scale.
 It is a "meta-project" developed and documented openly from the start.
 We will nurture a community of contributors who will themselves support a healthy and sustainable open source ecosystem.
 
 Pathways:
-  * **Jupyter and Microsoft Azure development communities** -  contribute and promote _The Turing Way_ across their networks of influence (including UKRI, European Commissions, NSF and NIH), listen to "pain points" in their tools experienced by community members.
-  * **Carpentries community** - co-design training materials, ensure _The Turing Way_ meets the highest pedagogical standards.
+  * **Jupyter and Microsoft Azure development communities**: contribute and promote _The Turing Way_ across their networks of influence (including UKRI, European Commissions, NIH), listen to "pain points" in their tools experienced by community members.
+  * **Carpentries community**: co-design training materials, ensure _The Turing Way_ meets the highest pedagogical standards.
 
 ### Research challenges
 
