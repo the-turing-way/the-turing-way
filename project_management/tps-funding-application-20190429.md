@@ -171,11 +171,12 @@ Specific communities that have shown support for this proposal are:
 * **Equality, Diversity and Inclusion steering group** through EDI Champion Kirstie Whitaker and head of Turing HR and operations Clare Randall.
 * **The British Library** through data services lead, Jez Cope, and team member Sarah Stewart.
   Planned contributed chapter after workshop in May 2019 on software citations (https://www.eventbrite.co.uk/e/software-citation-workshop-tickets-59519083180).
-* TPS-WP: **Hate speech** led by NAME NAME.
+* TPS-WP: **Raphtory: A practical system for the analysis of dynamic graphs**, Felix Cuadrado.
+* TPS-WP: **Evolving Wrattler into the Turing tools platform**, Tomas Petricek.
+* TPS-WP: **Tool for detecting and understanding harmful  content online**, Nishanth Sastry.
 * TPS-WP: **Multiverse analyses** led by NAME NAME.
 * TPS-WP: **Julia** led by NAME NAME.
 * TPS-WP: **Visualisations** led by NAME NAME.
-* TPS-WP: **Wrattler** led by Tomas Petricek.
 * TPS-WP: **open ml** led by NAME NAME.
 
 
@@ -191,7 +192,7 @@ Jupyter. Binder.
 Translate research projects into additional resources: software packages and versioned and documented datasets.
 
 Versioned releases. Cumulative authorship.
-JOSE papers 
+JOSE papers
 
 Turing as world leader.
 
@@ -209,7 +210,7 @@ Also say - through MIcrosoft's collaboration with funding agencies globally, inc
   The Turing Way has close connections with the Binder and Jupyter Book teams, both part of Project Jupyter, and the Azure development team through Turing Visiting Fellows Kenji Takeda and Tania Allard.
   Both communities are keen to contribute and promote The Turing Way across their networks of influence, and to listen to "pain points" in their tools experienced by The Turing Way's community.
 * **Turing Training Steering Group.**
-  Ben Murton and Suzy Moat are keen to build a two way communication and contribution process between the Turing Way and the training steering group.
-  Specifically they will investigate how The Turing Way can be most effectively adapted for use in partner universities, strategic partner organisations, small or medium-sized enterprises, and government programmes.
+  Ben Murton and Suzy Moat are keen to build a two way communication and contribution process between the Turing Way and the training steering group (TSG).
+  Specifically, the TSG will consider whether The Turing Way might be effectively adapted for use in partner universities, strategic partner organisations, small or medium-sized enterprises, and government programmes.
 * **Equality, Diversity and Inclusion steering group.**
   The Institute's committment to EDI is mirrored in The Turing Way's goal of building an open and accessible resource that efficiently curates and disseminates knowledge across a broad community.
