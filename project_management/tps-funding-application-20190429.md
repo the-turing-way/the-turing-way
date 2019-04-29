@@ -119,27 +119,27 @@ Pathways:
 
 *Max 300 words*
 
-Translating knowledge from one domain to another is always harder than it first appears.
+Translating knowledge across domains is always harder than it first appears. 
 Tackling the *known unknowns* is the core goal of _The Turing Way_: providing a space for research teams to acquire the skills that they know they lack.
-But in helping experts to adopt new tools and practices, we will inevitably identify challenges that the original developers had not forseen.
+In helping experts to adopt new tools and practices, we will inevitably identify challenges that the original developers had not foreseen.
 These *unknown unknowns* - or more specifically, the *unknowns that we thought we knew* - will generate exciting new research opportunities.
 
-Some already identified challenges include:
+Already identified challenges include:
 
 * **Datasets in different applications domains vary greatly in size.**
   Turing researchers Imanol Perez Arribas and Terry Lyons adapted statistical analyses from financial forecasting (large dataset) to categorising mental health disorders (small dataset).
-  In both cases the data cannot be shared for independent verification.
-  * How do we ensure the ethical and statistical rigor of the work when data cannot be collected or reviewed?
+  In both the data cannot be shared for independent verification.
+  * How do we ensure the ethical and statistical rigor of work when data cannot be collected or reviewed?
 * **Tools, practices and systems of data science are moving incredibly quickly.**
   Turing doctoral student Alex Campbell spent three months using Tensorflow with neuroimaging data, only to discover that the framework did not provide the necessary functionality.
   While he rewrote the code in Pytorch, Tensorflow implemented the required feature enhancements.
-  * How do we provide guidance on best practices when the tools we use are constantly evolving?
+  * How do we provide guidance on best practices when the tools we use are constantly shifting?
 * **The publish or perish incentive system limits progress.**
-  It is possible to archive version controlled software and data papers and to accompany them with a digital object identifier so that citations can be counted and their re-use monitored.
-  However, these metrics are not commonly considered in research career progression and are difficult to fund.
+ It is possible to archive and publish software and data papers, assign them digital object identifiers, and track their citations.
+ However, these outputs are not commonly considered in research career progression and lack funding.
   * How do we support people through the current change in academic culture?
 
-The _Turing Way_ community will support - as co-authors if appropriate - research projects that seek to push back the boundaries of what can be done in transparent, ethical, reproducible and innovative data science.
+The _Turing Way_ community will support - as co-authors if appropriate - research projects that seek to push back the boundaries of what can be done in transparent, ethical, reproducible, and innovative data science.
 
 ### Community benefit
 
