@@ -30,36 +30,36 @@ NA
 
 *Max 500 words*
 
-Funded as part of the first wave of projects within the Tools, Practices and Systems programme, _The Turing Way_ is currently a handbook for reproducible data science (https://github.com/alan-turing-institute/the-turing-way).
+_The Turing Way_ is currently a handbook for reproducible data science (https://github.com/alan-turing-institute/the-turing-way).
 This work package will extend _The Turing Way_ into a series of books: "A How To Guide to Data Science", with the current book being one of them.
 Our goal is to capture the vast amounts of knowledge of data science practices from within the Turing community and beyond.
 Following an open source, community driven approach, we will welcome contributions from anyone who can support researchers and practitioners in learning or improving the "how" of conducting world-leading research in data science and AI.
-This funding request will support a research engineer (1 FTE, 18 months) with expertise in documentation, training, and community building to manage the contributions to the book and four "book dash" events to engage and nurture _The Turing Way_ community.
+The funding will support a research engineer (1 FTE, 18 months) with expertise in documentation, training, and community building to manage contributions to the book, and four "book dash" events to engage the broader _Turing Way_ community.
 
 Reproducibility is important, and multifaceted.
-The book currently has chapters on open research, research data management, version control, reproducible computational environments, testing, and continuous integration.
-But it does not cover core data science practices such as whether the scientific question is appropriately scoped, if the statistical assumptions are correctly managed, whether a suitable algorithm or model was applied, how these results may vary according to different fluctuations across systems, in the choice of random seeds, or in how results are visualised to tell a story.
-The book does not currently include the aspects of data science and artificial intelligence that define whether work was ethically designed and reported.
-By curating this knowledge in an accessible format, _The Turing Way_ series will support the The Turing Institute's goals of delivering world class research, training the leaders of tomorrow, and leading the public conversation.
+The book currently has chapters on research data management, version control, reproducible computational environments, testing, and continuous integration.
+But reproducibility does not cover core data science practices such as whether the scientific question is appropriately scoped, if the statistical assumptions are correctly managed, whether a suitable algorithm or model was applied, how these results may vary according to differences across systems, in the choice of random seeds, or in how results are visualised to tell a story.
+The book does not currently include the aspects of data science and AI that define whether work was ethically designed and reported.
+By curating this knowledge in an accessible format, _The Turing Way_ series will support the the Turing Institute's goals of delivering world class research, training the leaders of tomorrow, and leading the public conversation.
 
-_The Turing Way_ will not replace academic journals or software packages.
-Rather it is a pedagogical opportunity.
+_The Turing Way_ will not replace academic journals or software packages. 
+It is a pedagogical opportunity.
 A translation of research outputs into curated tutorials, case studies and checklists.
-The books are Jupyter Books (https://github.com/jupyter/jupyter-book) which build and host static web content directly from markdown files or jupyter notebooks in a GitHub repository.
+The books are Jupyter Books (https://github.com/jupyter/jupyter-book) which build and host web content directly from markdown files or jupyter notebooks in a GitHub repository.
 They are easy to version control, edit and extend.
 The notebooks are interactive via a Binder plugin (https://mybinder.org).
 
 The _Turing Way_ community is a global collaboration of research engineers, data librarians, industry professionals, and domain expert researchers at all levels of seniority.
 Anyone can contribute to the book at any time and our community manager will provide 1:1 mentorship for anyone who wants to incorporate their knowledge into the books.
 We will focus on inclusion and creativity at our four "book dash" events.
-These one day sprints allow us to bring together a diverse group to co-create the most useful resource for all.
-They will contribute their knowledge to the book, review the content for clarity across multiple domains of expertise, and create personalised pathways through the content to add value to as broad a community as possible.
+These one day sprints allow us to bring together a diverse group to co-create a useful and usable resource.
+Participants will add new chapters, review content for clarity across multiple domains of expertise, and create personalised pathways through the book series to add value to as broad a community as possible.
 
 Metrics of success over 18 months:
 
 * 20 new chapters.
-* 100 authors (significant contributions to the books).
-* 200 contributors (any contribution to the books).
+* 100 authors (significant contributions).
+* 200 contributors (any contribution).
 * 1000 mailing list subscribers (currently 200).
 * 50 first pull requests.
 * 20 new contributors to other open source projects.
@@ -135,7 +135,7 @@ More generally, we will educate the broader community on the best practices for 
 
 _The Turing Way_ will benefit the global open source community.
 All materials are shared under an open licence and can be re-used, re-mixed and adapted as needed by anyone and for any purpose.
-This workpackage will deliver continued support to all community members on navigating GitHub issues, git branches and forks, commits and reviews, and their first pull requests.
+This work package will deliver continued support to all community members on navigating GitHub issues, git branches and forks, commits and reviews, and their first pull requests.
 We will track the improvements in skills and confident required to contribute to other projects and thus to sustain an open source ecosystem.
 
 ### Connections to other activities
@@ -152,10 +152,9 @@ Specific communities and points of contact that have shown support for this prop
 * **Data science at scale programme**, Anthony Lee.
 * **Urban analytics programme**, Alison Heppenstall.
 * **Data safe haven and Turing research engineering teams**, Martin O'Reilly.
-* **Jupyter and Microsoft Azure development communities**, Tim Head (Skribble), Chris Holdgraf (Berkeley Institute for Data Science), Turing Visiting Fellows from Microsoft Kenji Takeda and Tania Allard.
 * **Equality, Diversity and Inclusion steering group**, Clare Randall (head of Turing HR and operations).
-* **The British Library**, Jez Cope (Data Services lead) and Sarah Stewart.
-  Planned contributed chapter after workshop in May 2019 on software citations (https://www.eventbrite.co.uk/e/software-citation-workshop-tickets-59519083180).
+* **Jupyter and Microsoft Azure development communities**, Tim Head (Skribble), Chris Holdgraf (Berkeley Institute for Data Science), Turing Visiting Fellows from Microsoft Kenji Takeda and Tania Allard.
+* **The British Library**, Jez Cope (Data Services lead) and Sarah Stewart, and extended network to Research Data Alliance and ICS Committee on Data for Science and Technology.
 * SPF Project: **Living with Machines**, David Beavan (Sources Lab lead).
 * TPS-WP: **Raphtory: A practical system for the analysis of dynamic graphs**, Felix Cuadrado.
 * TPS-WP: **Nocell: probabilistic programming for spreadsheet experts**, James Geddes.
