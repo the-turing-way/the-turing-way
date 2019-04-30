@@ -201,6 +201,8 @@ Keep an eye on your GitHub notifications and be prepared to join in that convers
 You can update your [fork][github-fork] of the Turing Way [repository][turing-way-repo] and the pull request will automatically update with those changes.
 You don't need to submit a new pull request when you make a change in response to a review.
 
+You can also submit pull requests to other contributors' branches! 
+
 GitHub has a [nice introduction][github-flow] to the pull request workflow, but please [get in touch](#get-in-touch) if you have any questions :balloon:.
 
 
