@@ -45,7 +45,7 @@ The following are examples of inclusive actions that we encourage from contribut
 There are many ways to get un touch with *The Turing Way* team!
 * Ping us in our [gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
   * This is our preferred method of open communication and discussion!
-  We'd love for you to swing by to say hello. 
+  We'd love for you to swing by to say hello.
 * Join the discussion in our [issues](https://github.com/alan-turing-institute/the-turing-way/issues) and [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls).
   * Can't find your idea being discussed anywhere?
   Open a new issue!
@@ -133,8 +133,6 @@ These issues help us to coordinate some logistics.*
 > - Open pull requests early
 > - Use the WIP marker if you're not ready for the review
 > - You can submit pull requests to the OTHER PERSON'S BRANCH.
-
-*This section has been adapted from the [Contributing Guidelines](https://github.com/bids-standard/bids-starter-kit/blob/master/CONTRIBUTING.md) of the [BIDS Starter Kit](https://github.com/bids-standard/bids-starter-kit)! (License: CC-BY)*
 
 We appreciate all contributions to the Turing Way.
 **THANK YOU** for helping us build this useful resource. :sparkles::star2::dizzy:
@@ -288,7 +286,8 @@ To Be Done.
 The Turing Way follows the [all-contributors][all-contributors] specification, so we welcome and recognise all contributions from documentation to testing to writing chapters.
 You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md). 😍
 
-
+---
+*These Contributing Guidelines have been adapted from the [Contributing Guidelines](https://github.com/bids-standard/bids-starter-kit/blob/master/CONTRIBUTING.md) of the [BIDS Starter Kit](https://github.com/bids-standard/bids-starter-kit)! (License: CC-BY)*
 
 
 [turing-way-repo]: https://github.com/alan-turing-institute/the-turing-way/
