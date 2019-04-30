@@ -42,8 +42,17 @@ The following are examples of inclusive actions that we encourage from contribut
 
 ## Get in touch
 
-Ping us in our [gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
-You can also contact the PI of the Turing Way project - Kirstie Whitaker - by email at kwhitaker@turing.ac.uk.
+There are many ways to get un touch with *The Turing Way* team!
+* Ping us in our [gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
+  * This is our preferred method of open communication and discussion!
+  We'd love for you to swing by to say hello. 
+* Join the discussion in our [issues](https://github.com/alan-turing-institute/the-turing-way/issues) and [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls).
+  * Can't find your idea being discussed anywhere?
+  Open a new issue!
+  (See our [Where to start: issues](#where-to-start-issues) section below.)
+* Subscribe to our [mailing list](https://tinyletter.com/TuringWay) with which we send monthly project updates.
+* You can contact the PI of *The Turing Way* project - Kirstie Whitaker - by email at kwhitaker@turing.ac.uk.
+* You can also contact members of *The Turing Way* team through their preferred ways of communication [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/ways_of_working.md).
 
 ## Contributing through GitHub
 
