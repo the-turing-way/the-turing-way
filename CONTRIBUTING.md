@@ -135,8 +135,6 @@ These issues help us to coordinate some logistics.*
 
 
 ## Making a change with a pull request
-> Still needs to cover:
-> - You can submit pull requests to the OTHER PERSON'S BRANCH.
 
 We appreciate all contributions to the Turing Way.
 **THANK YOU** for helping us build this useful resource. :sparkles::star2::dizzy:
