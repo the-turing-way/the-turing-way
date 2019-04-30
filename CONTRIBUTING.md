@@ -177,6 +177,9 @@ A good rule of thumb is to push up to GitHub when you *do* have passing tests th
 
 If you feel tempted to "branch out" then please make a [new branch][github-branches] and a [new issue][turing-way-issues] to go with it. [This blog](https://nvie.com/posts/a-successful-git-branching-model/) details the different Git branching models.
 
+Please do not re-write history!
+That is, please do not use the [rebase](https://help.github.com/en/articles/about-git-rebase) command to edit previous commit messages, combine multiple commits into one, or delete or revert commits that are no longer necessary.
+
 Are you new to Git and GitHub or just want a detailed guide on getting started with version control? Check out our [Version Control chapter](https://the-turing-way.netlify.com/version_control/version_control.html) in the Turing Way Book!
 
 ### 4. Submit a [pull request][github-pullrequest]
