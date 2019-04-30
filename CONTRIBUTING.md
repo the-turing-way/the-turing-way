@@ -66,7 +66,7 @@ While this formats in the same way as if the new line wasn't included, it makes 
 
 ## Where to start: issues
 
-Before you open a new issue, please check if any of the open issues covers your idea already.
+Before you open a new issue, please check if any of our [open issues](https://github.com/alan-turing-institute/the-turing-way/issues) covers your idea already.
 If you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/ISSUE_TEMPLATE.md).
 
 ### Issue labels
