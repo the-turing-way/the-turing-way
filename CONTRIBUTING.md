@@ -191,6 +191,8 @@ It asks you to:
 * List of changes proposed in the pull request.
 * Describe what the reviewer should concentrate their feedback on.
 
+By filling out the "*Lorem ipsum*" sections of the pull request template with as much detail as possible, you will make it really easy for someone to review your contribution!
+
 If you have opened the pull request early and know that its contents are not ready for review or to be merged, add "[WIP]" at the start of the pull request title, which stands for "Work in Progress".
 When you are happy with it and are happy for it to be merged into the main repository, change the "[WIP]" in the title of the pull request to "[Ready for review]".
 
@@ -201,7 +203,10 @@ Keep an eye on your GitHub notifications and be prepared to join in that convers
 You can update your [fork][github-fork] of the Turing Way [repository][turing-way-repo] and the pull request will automatically update with those changes.
 You don't need to submit a new pull request when you make a change in response to a review.
 
-You can also submit pull requests to other contributors' branches! 
+You can also submit pull requests to other contributors' branches!
+Do you see an [open pull request](https://github.com/alan-turing-institute/the-turing-way/pulls) that you find interesting and want to contribute to?
+Simply make your edits on their files and open a pull request to their branch!
+
 
 GitHub has a [nice introduction][github-flow] to the pull request workflow, but please [get in touch](#get-in-touch) if you have any questions :balloon:.
 
