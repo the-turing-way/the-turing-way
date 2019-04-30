@@ -136,8 +136,6 @@ These issues help us to coordinate some logistics.*
 
 ## Making a change with a pull request
 > Still needs to cover:
-> - Open pull requests early
-> - Use the WIP marker if you're not ready for the review
 > - You can submit pull requests to the OTHER PERSON'S BRANCH.
 
 We appreciate all contributions to the Turing Way.
@@ -183,14 +181,20 @@ Are you new to Git and GitHub or just want a detailed guide on getting started w
 
 ### 4. Submit a [pull request][github-pullrequest]
 
-When you are ready to submit a pull request, will automatically see the [Pull Request Template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/PULL_REQUEST_TEMPLATE.md) contents in the pull request body.
+We encourage you to open a pull request as early in your contributing process as possible.
+This allows everyone to see what is currently being worked on.
+It also provides you, the contributor, feedback in real time from both the community and the continuous integration as you make commits (which will help prevent stuff from breaking).
+
+When you are ready to submit a pull request, you will automatically see the [Pull Request Template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/PULL_REQUEST_TEMPLATE.md) contents in the pull request body.
 It asks you to:
 * Describe the problem you're trying to fix in the pull request, reference any related issue and use fixes/close to automatically close them, if pertinent.
 * List of changes proposed in the pull request.
 * Describe what the reviewer should concentrate their feedback on.
 
-A member of the Turing Way team will then review your changes to confirm that they can be merged into the main repository.
+If you have opened the pull request early and know that its contents are not ready for review or to be merged, add "[WIP]" at the start of the pull request title, which stands for "Work in Progress".
+When you are happy with it and are happy for it to be merged into the main repository, change the "[WIP]" in the title of the pull request to "[Ready for review]".
 
+A member of the Turing Way team will then review your changes to confirm that they can be merged into the main repository.
 A [review][github-review] will probably consist of a few questions to help clarify the work you've done.
 Keep an eye on your GitHub notifications and be prepared to join in that conversation.
 
