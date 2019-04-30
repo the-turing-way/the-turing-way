@@ -4,7 +4,9 @@
 
 :dizzy::hatched_chick::sunny: *We're so excited you're here and want to contribute.* :sunny::hatched_chick::dizzy:
 
-The point of this guide is to **welcome new users and contributors to the Turing Way community**. We hope that these guidelines are designed to make it as easy as possible to get involved. Don't let trying to be perfect get in the way of being good - we welcome all contributions and would love it if you could follow these guidelines to make sure your contributions can be easily integrated but exciting ideas are more important than perfect pull requests. :heart:
+The point of this guide is to **welcome new users and contributors to the Turing Way community**.
+We hope that these guidelines are designed to make it as easy as possible to get involved.
+Don't let trying to be perfect get in the way of being good - we welcome all contributions and would love it if you could follow these guidelines to make sure your contributions can be easily integrated but exciting ideas are more important than perfect pull requests. :heart:
 
 
 If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
@@ -42,7 +44,7 @@ The following are examples of inclusive actions that we encourage from contribut
 
 ## Get in touch
 
-There are many ways to get un touch with the *Turing Way* team!
+There are many ways to get un touch with the Turing Way team!
 * Ping us in our [gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
   * This is our preferred method of open communication and discussion!
   We'd love for you to swing by to say hello.
@@ -52,16 +54,18 @@ There are many ways to get un touch with the *Turing Way* team!
   (See our [Where to start: issues](#where-to-start-issues) section below.)
 * Subscribe to our [mailing list](https://tinyletter.com/TuringWay) with which we send monthly project updates.
 * Check out the [#TuringWay](https://twitter.com/search?q=%23TuringWay&src=typed_query) hashtag on Twitter.
-* You can contact the PI of the *Turing Way* project - Kirstie Whitaker - by email at kwhitaker@turing.ac.uk.
-* You can also contact members of the *Turing Way* team through their preferred ways of communication [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/ways_of_working.md).
+* You can contact the PI of the Turing Way project - Kirstie Whitaker - by email at kwhitaker@turing.ac.uk.
+* You can also contact members of the Turing Way team through their preferred ways of communication [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/ways_of_working.md).
 
 ## Contributing through GitHub
 
 [Git][git] is a really useful tool for version control. [GitHub][github] sits on top of Git and supports collaborative and distributed working.
 
-We know that it can be daunting to start using Git and GitHub if you haven't worked with them in the past, but The Turing Way maintainers are here to help you figure out any of the jargon or confusing instructions you encounter! :heart:
+We know that it can be daunting to start using Git and GitHub if you haven't worked with them in the past, but the Turing Way maintainers are here to help you figure out any of the jargon or confusing instructions you encounter! :heart:
 
-In order to contribute via GitHub you'll need to set up a free account and sign in. Here are some [instructions](https://help.github.com/articles/signing-up-for-a-new-github-account/) to help you get going. Remember that you can ask us any questions you need to along the way.
+In order to contribute via GitHub you'll need to set up a free account and sign in.
+Here are some [instructions](https://help.github.com/articles/signing-up-for-a-new-github-account/) to help you get going.
+Remember that you can ask us any questions you need to along the way.
 
 ## Writing in Markdown
 
@@ -78,6 +82,7 @@ While this formats in the same way as if the new line wasn't included, it makes 
 
 Before you open a new issue, please check if any of our [open issues](https://github.com/alan-turing-institute/the-turing-way/issues) covers your idea already.
 If you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/ISSUE_TEMPLATE.md).
+The issue template will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the "*Lorem ipsum*" sections.
 
 ### Issue labels
 
@@ -144,13 +149,16 @@ This is also where you can contribute directly to writing or editing chapters of
 The following steps are a guide to help you contribute in a way that will be easy for everyone to review and accept with ease  :sunglasses:.
 
 
-#### 1. Comment on an existing issue or open a new issue referencing your addition
+### 1. Comment on an [existing issue](https://github.com/alan-turing-institute/the-turing-way/issues) or open a new issue referencing your addition
 
 This allows other members of the Turing Way team to confirm that you aren't overlapping with work that's currently underway and that everyone is on the same page with the goal of the work you're going to carry out.
 
 [This blog](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/) is a nice explanation of why putting this work in up front is so useful to everyone involved.
 
-#### 2. [Fork][github-fork] the [Turing Way repository][turing-way-repo] to your profile
+Remember, if you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/ISSUE_TEMPLATE.md).
+The issue template will automatically be rendered in the comment section of the new issue page so all you need to do is edit the "*Lorem ipsum*" sections.
+
+### 2. [Fork][github-fork] the [Turing Way repository][turing-way-repo] to your profile
 
 This is now your own unique copy of the Turing Way.
 Changes here won't affect anyone else's work, so it's a safe space to explore edits to the code!
@@ -158,7 +166,7 @@ Changes here won't affect anyone else's work, so it's a safe space to explore ed
 Make sure to [keep your fork up to date][github-syncfork] with the master repository, otherwise you can end up with lots of dreaded [merge conflicts][github-mergeconflicts].
 If you prefer working in the browser, [these instructions](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser) describe how to sync your fork to the original repository via GitHub.
 
-#### 3. Make the changes you've discussed
+### 3. Make the changes you've discussed
 
 Try to keep the changes focused.
 If you submit a large amount of work all in one go it will be much more work for whomever is reviewing your pull request.
@@ -173,7 +181,7 @@ If you feel tempted to "branch out" then please make a [new branch][github-branc
 
 Are you new to Git and GitHub or just want a detailed guide on getting started with version control? Check out our [Version Control chapter](https://the-turing-way.netlify.com/version_control/version_control.html) in the Turing Way Book!
 
-#### 4. Submit a [pull request][github-pullrequest]
+### 4. Submit a [pull request][github-pullrequest]
 
 When you are ready to submit a pull request, will automatically see the [Pull Request Template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/PULL_REQUEST_TEMPLATE.md) contents in the pull request body.
 It asks you to:
