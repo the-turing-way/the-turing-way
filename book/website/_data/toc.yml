@@ -1,0 +1,58 @@
+# Each entry has the following schema:
+#
+# - title: mytitle   # Title of chapter or section
+#   url: /myurl  # URL of section relative to the /content/ folder.
+#   sections:  # Contains a list of more entries that make up the chapter's sections
+#   not_numbered: true  # if the section shouldn't have a number in the sidebar
+#     (e.g. Introduction or appendices)
+#   expand_sections: true  # if you'd like the sections of this chapter to always
+#     be expanded in the sidebar.
+#   external: true  # Whether the URL is an external link or points to content in the book
+#
+# Below are some special values that trigger specific behavior:
+# - search: true  # Will provide a link to a search page
+# - divider: true  # Will insert a divider in the sidebar
+# - header: My Header  # Will insert a header with no link in the sidebar
+#
+# ==============================
+# AUTOMATICALLY GENERATED TOC FILE.
+# You should review the contents of this file, re-order items as you wish,
+# and nest chapters in sections if you wish. The ======= symbols represent
+# folder breaks.
+#
+# See the demo `toc.yml` for the right structure to follow. You can
+# generate a demo book by running `jupyter-book create mybook --demo`
+# ==============================
+
+
+
+# ===== NEW SECTION ========================================
+- title: Introduction
+  url: introduction/introduction
+- title: Reproducibility
+  url: reproducibility/reproducibility
+  sections:
+  - title: Why reproducibility is important
+    url: reproducibility/01/importantforscience
+  - title: Why you should care
+    url: reproducibility/02/whycare
+  - title: Definitions
+    url: reproducibility/03/definitions
+  - title: Resources
+    url: reproducibility/04/resources
+- title: Open Research
+  url: open_research/open_research
+- title: Version Control
+  url: version_control/version_control
+- title: Reproducible Environments
+  url: reproducible_environments/reproducible_environments
+- title: Testing
+  url: testing/testing
+- title: Reviewing
+  url: reviewing/reviewing
+- title: Continous Integration
+  url: continuous_integration/continuous_integration
+- title: Research Data Management
+  url: rdm/rdm
+- title: Reproducible Research with Make
+  url: make/make

@@ -129,8 +129,8 @@ These issues help us to coordinate some logistics.*
 We appreciate all contributions to the Turing Way.
 **THANK YOU** for helping us build this useful resource. :sparkles::star2::dizzy:
 
-All project management, conversations and questions related to the Turing Way project happens here in the [Turing Way repository][turing-way-repo].
-If you want to contribute directly to writing or editing chapters of the book, please head over to the Turing Way [book repository][turing-way-book-repo]!
+All project management, conversations and questions related to the Turing Way project happens here in the [Turing Way repository][turing-way-repo]. 
+This is also where you can contribute directly to writing or editing chapters of [the book](https://the-turing-way.netlify.com)!
 
 The following steps are a guide to help you contribute in a way that will be easy for everyone to review and accept with ease  :sunglasses:.
 
