@@ -20,34 +20,34 @@ If you do not relate to any of the personas described and are struggling to figu
 
 ## Contributor personas
 
-### John, a PhD student with no GitHub experience
+### Sam, a PhD student with no GitHub experience
 
-John is a PhD student in biology at University College London.
-He is learning how to code in Python, but has not yet had any training in version control or GitHub.
-He is really interested in learning how to use open notebooks such as Jupyter to do his analysis, so that he can easily share his work for critique with his very busy supervisor.
+Sam is a PhD student in biology at University College London.
+They are learning how to code in Python, but have not yet had any training in version control or GitHub.
+They're really interested in learning how to use open notebooks such as Jupyter to do their analysis, so that they can easily share their work for critique with their very busy supervisor.
 
-1. **Discovery** - John hears about the Turing Way Book Dash events through an email from the department's Open Science Champion.
-2. **First Contact** - John checks out the GitHub repository to learn more about the project and see what skills are needed that he may be able to contribute.
-3. **Participation** - He attends the London Book Dash, accepted for his enthusiasm to learn how to make his PhD research reproducible. He participates in the discussions, reads existing chapters and scrolls through issues to see where he can contribute.
-4. **Sustained Participation** - After gaining experience with GitHub through submitting pull requests and issues during the Book Dash, he is empowered to continue contributing to the online discussion and suggesting topics for the book, as well as editing and reviewing existing chapters as he applies them to his own research.
-5. **Networked Participation** - He encourages some of his fellow PhD students to read the Turing Way and start using GitHub.
-6. **Leadership** - John submits one of his research projects as a case study for the Turing Way.
+1. **Discovery** - Sam hears about the Turing Way Book Dash events through an email from the department's Open Science Champion.
+2. **First Contact** - Sam checks out the GitHub repository to learn more about the project and see what skills are needed that they may be able to contribute.
+3. **Participation** - They attend the London Book Dash, accepted for their enthusiasm to learn how to make their PhD research reproducible. They participate in the discussions, read existing chapters, and scroll through issues to see where they can contribute.
+4. **Sustained Participation** - After gaining experience with GitHub through submitting pull requests and issues during the Book Dash, Sam is empowered to continue contributing to the online discussion and suggesting topics for the book, as well as editing and reviewing existing chapters by applying them to his own research.
+5. **Networked Participation** - They encourage some of their fellow PhD students to read the Turing Way and start using GitHub.
+6. **Leadership** - Sam submits one of their research projects as a case study for the Turing Way.
 
 
 
-###  Michelle, a researcher with Git/GitHub experience and book topic expertise
+###  Alex, a researcher with Git/GitHub experience and book topic expertise
 
-Michelle is a postdoc in Manchester who programs in R.
-She is passionate about open data and using data for good, but also understands it can be more complex than that.
-She attends data science meetups in the city, but is interested in finding a community working towards improving how research is conducted.
-She has experience with GitHub and contributing to open projects.
+Alex is a postdoc in Manchester who programs in R.
+They are passionate about open data and using data for good, but also understand it can be more complex than that.
+They attend data science meetups in the city, but are interested in finding a community working towards improving how research is conducted.
+They have experience with GitHub and contributing to open projects.
 
-1. **Discovery** - Michelle first hears about the Turing Way via Twitter ([#TuringWay](https://twitter.com/search?q=%23TuringWay&src=typed_query)).
-2. **First Contact** - She lands on the project's README and looks for the contributing guidelines to see where her skills can be applied.
-3. **Participation** - She finds an issue asking for help on writing the Credit for Reproducible Research chapter and adds a few paragraphs on how to properly cite research software.
-4. **Sustained Participation** - After constructive feedback and collaboration with the Turing Way team, Michelle follows the community on social media and applies to attend the Manchester Book Dash.
-5. **Networked Participation** - She invites other friends and colleagues from the Rstats community to get involved, as they have expertise on some of the book topics.
-6. **Leadership** - Michelle volunteers to write the chapter on Scoping a data project - RSEs that she found requested in the [Book Skeleton](https://github.com/alan-turing-institute/the-turing-way/blob/master/book_skeleton.md).
+1. **Discovery** - Alex first hears about the Turing Way via Twitter ([#TuringWay](https://twitter.com/search?q=%23TuringWay&src=typed_query)).
+2. **First Contact** - They land on the project's README and look for the contributing guidelines to see where their skills can be applied.
+3. **Participation** - They find an issue asking for help on writing the Credit for Reproducible Research chapter and add a few paragraphs on how to properly cite research software.
+4. **Sustained Participation** - After constructive feedback and collaboration with the Turing Way team, Alex follows the community on social media and applies to attend the Manchester Book Dash.
+5. **Networked Participation** - They invite other friends and colleagues from the Rstats community to get involved, who have expertise on some of the book topics.
+6. **Leadership** - Alex volunteers to write the chapter on Scoping a data project - RSEs that they found requested in the [Book Skeleton](https://github.com/alan-turing-institute/the-turing-way/blob/master/book_skeleton.md).
 
 
 ## User personas
