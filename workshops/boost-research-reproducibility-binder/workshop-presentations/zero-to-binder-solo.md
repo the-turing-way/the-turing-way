@@ -123,7 +123,7 @@ It's useful when your build fails or something you think _should_ be installed i
 <img src="figures/build_logs.png" alt="build_logs" height="562" width="871">
 </html>
 
-**N.B.:** Sometimes Binder's build logs prints things in red font, such as warnings that `pip` is not up-to-date (`pip` is always out of date because it's regularly updated!) or installation messages, especially if you're using R.
+**N.B.:** Sometimes Binder's build logs prints things in red font, such as warnings that `pip` is not up-to-date (`pip` is often out of date because it's regularly updated!) or installation messages, especially if you're using R.
 These red messages don't necessarily mean there's a problem with your build and it will fail - it's just an unfortunate font colour choice!
 
 #### What's happening in the background?
@@ -207,6 +207,8 @@ This is ideal for files up to **10MB**.
 
 To access medium files **from a few 10s MB up to a few hundred MB**, you can add a file called `postBuild` to your repo.
 A `postBuild` file is a shell script that is executed as part of the image construction and is only executed once when a new image is built, not every time the Binder is launched.
+
+See [Binder's `postBuild` example](https://mybinder.readthedocs.io/en/latest/config_files.html#postbuild-run-code-after-installing-the-environment) for more uses of the `postBuild` script.
 
 **N.B.:** New images are only built when Binder sees a new commit, not every time you click the Binder link.
 Therefore, the data is only downloaded once when the Docker image is built, not every time the Binder is launched.
