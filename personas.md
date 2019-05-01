@@ -20,7 +20,12 @@ If you do not relate to any of the personas described and are struggling to figu
 
 ## Contributor personas
 
-### Sam, a PhD student with no GitHub experience
+1. Sam, someone who has no GitHub experience
+2. Alex, someone who has a lot of GitHub experience
+3. Amal, someone who knows they want to contribute, and does
+4. Noor, someone who doesn't know they want to contribute, but does
+
+### 1. Sam, a PhD student with no GitHub experience
 
 Sam is a PhD student in biology at University College London.
 They are learning how to code in Python, but have not yet had any training in version control or GitHub.
@@ -35,7 +40,7 @@ They're really interested in learning how to use open notebooks such as Jupyter 
 
 
 
-###  Alex, a researcher with Git/GitHub experience and book topic expertise
+###  2. Alex, a researcher with Git/GitHub experience and book topic expertise
 
 Alex is a postdoc in Manchester who programs in R.
 They are passionate about open data and using data for good, but also understand it can be more complex than that.
@@ -51,7 +56,7 @@ They have experience with GitHub and contributing to open projects.
 
 
 
-### Amal, a PhD supervisor who is an expert in an aspect of reproducible research
+### 3. Amal, a PhD supervisor who is an expert in an aspect of reproducible research
 
 Amal is a PhD supervisor who is an expert in running risk assessments for projects using reproducible research. 
 They are always looking for opportunities to share their expertise, particularly with students, as they think consistent application of best practise is really important. 
@@ -67,7 +72,7 @@ They like seeing their work make an impact and are keen to know about the eventu
 
 
 
-###  Noor, a PhD student who is trying to finish their dissertation
+###  4. Noor, a PhD student who is trying to finish their dissertation
 
 Noor is a final-year PhD student who has their dissertation deadline coming up. 
 They are feeling the pressure of needing to write up the results of their research, but finding it easy to procrastinate. 
