@@ -19,14 +19,33 @@
 
 ### Abstract
 
-_(1250 characters max, current count: 865 [please update if you edit])_
+_(1250 characters max, current count: -- [please update if you edit])_
+
+#### Below is stolen (and edited) from my Cloud WG abstract, I quite like it!
+
+Binder (http://conference.scipy.org/proceedings/scipy2018/pdfs/project_jupyter.pdf)[1]/ BinderHub (https://binderhub.readthedocs.io/en/latest/index.html) is a Cloud-based, multi-user server technology that captures the computing environment of a GitHub repository within a Docker image.
+It then provides an interactive browser from which code can be run in the environment under which it was developed without placing installation responsibilities on the user.
+A unique URL to this browser is generated making the software easily sharable with collaborators.
+BinderHubs can be built anywhere in the world and are Cloud-neutral.
+Building a locally hosted BinderHub is advantageous as it would facilitate the use of private repositories and make available a greater variety of computing resources - facilities which are not currently available on the public Binder service.
+
+By harnessing the power of Cloud computing and building a BinderHub with expanded capabilities, scientific analyses can become more accessible and transparent to the wider community.
+We can improve reproducibility by making it easy to showcase and re-run analyses, improve reliability by making it easy to review analyses and catch bugs early in the development process without installation, and improve the reusability of the code by capturing the computing environment.
+
+[1] Project Jupyter, et al. (2018). Binder 2.0 - Reproducible, interactive, sharable environments for science at scale. In Proceedings of the 17th Python in Science Conference. SciPy. https://doi.org/10.25080/majora-4af1f417-011
+
+_(1574 characters)_
+
+#### Original attempt, feel meh about it.
 
 A BinderHub (https://binderhub.readthedocs.io/en/latest/index.html) is a Cloud-based, multi-user server technology that hosts a code repository of Jupyter Notebooks as an interactive browser and generates a unique URL that is easily sharable.
 It works by building a Docker image containing the software with all of it's dependencies installed.
-This is then hosted in the Cloud and connected to the user's browser.
+This is then hosted in the Cloud and connected to the user's browser so they can run and interact with the code.
 Building your own BinderHub to host within your own institute/organisation/RSE group is beneficiary as it can be customised to the needs of your specific team.
 A privately hosted BinderHub can give the team the choice to host private repos and when these are publicly shared while working reproducibly.
 Further customisations can be made, such as: authentication, altering the user-allocated computational resources, persistent storage for users, etc.
+
+_(908 characters)_
 
 ### Audience
 
