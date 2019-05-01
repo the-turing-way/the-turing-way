@@ -23,18 +23,18 @@ _(1250 characters max, current count: -- [please update if you edit])_
 
 #### Below is stolen (and edited) from my Cloud WG abstract, I quite like it!
 
-Binder (http://conference.scipy.org/proceedings/scipy2018/pdfs/project_jupyter.pdf)[1]/ BinderHub (https://binderhub.readthedocs.io/en/latest/index.html) is a Cloud-based, multi-user server technology that captures the computing environment of a GitHub repository within a Docker image.
+Binder (http://conference.scipy.org/proceedings/scipy2018/pdfs/project_jupyter.pdf) [1]/ BinderHub (https://binderhub.readthedocs.io/en/latest/index.html) is a Cloud-based, multi-user server technology that captures the computing environment of a GitHub repository within a Docker image.
 It then provides an interactive browser from which code can be run in the environment under which it was developed without placing installation responsibilities on the user.
 A unique URL to this browser is generated making the software easily sharable with collaborators.
 BinderHubs can be built anywhere in the world and are Cloud-neutral.
 Building a locally hosted BinderHub is advantageous as it would facilitate the use of private repositories and make available a greater variety of computing resources - facilities which are not currently available on the public Binder service.
 
 By harnessing the power of Cloud computing and building a BinderHub with expanded capabilities, scientific analyses can become more accessible and transparent to the wider community.
-We can improve reproducibility by making it easy to showcase and re-run analyses, improve reliability by making it easy to review analyses and catch bugs early in the development process without installation, and improve the reusability of the code by capturing the computing environment.
+We can improve reproducibility by making it easy to showcase and re-run analyses; improve reliability by making it easy to review analyses and catch bugs early in the development process without installation; and improve the reusability of the code by capturing the computing environment.
 
 [1] Project Jupyter, et al. (2018). Binder 2.0 - Reproducible, interactive, sharable environments for science at scale. In Proceedings of the 17th Python in Science Conference. SciPy. https://doi.org/10.25080/majora-4af1f417-011
 
-_(1574 characters)_
+_(1574 characters, could probably get rid of the reference to reduce this and include it in a slide instead)_
 
 #### Original attempt, feel meh about it.
 
