@@ -10,6 +10,7 @@ To follow along with these instructions, go to this link: [**bit.ly/zero-to-bind
 
 **BinderHub Documentation:**
 * [Step Zero: Setting up a Kubernetes Cluster](https://zero-to-jupyterhub.readthedocs.io/en/latest/create-k8s-cluster.html)
+* [Step Zero: Setting up an Autoscaling Kubernetes Cluster](https://zero-to-jupyterhub.readthedocs.io/en/latest/microsoft/step-zero-azure-autoscale.html)
 * [Setup JupyterHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/#setup-jupyterhub)
 * [Setup BinderHub](https://binderhub.readthedocs.io/en/latest/setup-registry.html#set-up-the-container-registry)
 
