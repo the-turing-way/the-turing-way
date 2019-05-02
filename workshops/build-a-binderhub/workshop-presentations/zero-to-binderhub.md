@@ -18,6 +18,7 @@ To follow along with these instructions, go to this link: [**bit.ly/zero-to-bind
 * [Cloud Resource Requirements](#cloud-resource-requirements)
 * [Container Registry](#container-registry)
 * [Installation Requirements](#installation-requirements)
+* [A Note on Secret Files](#a-note-on-secret-files)
 * [Deploying a Kubernetes Cluster on Azure](#deploying-a-kubernetes-cluster-on-azure)
 * [Setting up Helm](#setting-up-helm)
 * [Setup BinderHub](#setup-binderhub)
@@ -58,6 +59,16 @@ brew install azure-cli
 brew install kubernetes-cli
 brew install kubernetes-helm
 ```
+
+## A Note on Secret Files
+
+Building a BinderHub requires a few pieces of sensitive information, such as access tokens and passwords.
+In this workshop, we will be saving this information to disk which is not ideal.
+
+The ideal scenario would be to store this information in an [Azure Key Vault](https://azure.microsoft.com/en-gb/services/key-vault/) such that the secrets could be programmatically added to the relevant files and then locally deleted as necessary.
+However, this falls out of the scope of a BinderHub workshop.
+
+You can access Key Vault Quickstarts and Tutorials [here](https://docs.microsoft.com/en-gb/azure/key-vault/).
 
 :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
