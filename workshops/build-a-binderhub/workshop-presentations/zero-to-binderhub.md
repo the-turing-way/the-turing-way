@@ -182,9 +182,9 @@ az aks create --name hubcluster \
     --node-vm-size Standard_D2s_v3 \
     --output table
 ```
-* `--name` is the cluster name we defined in [Step 4: Choose a Cluster Name](#4-choose-a-cluster-name).
+* `--name` is the cluster name we defined in [Step 4: Create an SSH key](#4-create-an-ssh-key).
 * `--resource-group` is the resource group we created in [Step 3: Create a Resource Group](#3-create-a-resource-group).
-* `--ssh-key-value` is the ssh public key we created in [Step 5: Create an SSH key](#5-create-an-ssh-key).
+* `--ssh-key-value` is the ssh public key we created in [Step 4: Create an SSH key](#4-create-an-ssh-key).
 * `--node-count` is the number of desired nodes in the Kubernetes cluster.
 * `--node-vm-size` is the size of the nodes you wish to use, which varies based on the use-case of the cluster and how much RAM/CPU each user will need.
 
