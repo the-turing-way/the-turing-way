@@ -20,6 +20,7 @@ To follow along with these instructions, go to this link: [**bit.ly/zero-to-bind
 * [Container Registry](#container-registry)
 * [Installation Requirements](#installation-requirements)
 * [A Note on Secret Files](#a-note-on-secret-files)
+* [Setup Local Files](#setup-local-files)
 * [Deploying a Kubernetes Cluster on Azure](#deploying-a-kubernetes-cluster-on-azure)
 * [Setting up Helm](#setting-up-helm)
 * [Setup BinderHub](#setup-binderhub)
@@ -72,6 +73,39 @@ However, this falls out of the scope of a BinderHub workshop.
 You can access Key Vault Quickstarts and Tutorials [here](https://docs.microsoft.com/en-gb/azure/key-vault/).
 
 :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
+
+## Setup Local Files
+
+We're going to download some template YAML files and a shell script that will automatically populate them with information using [`sed`](http://www.grymoire.com/Unix/Sed.html).
+This will make the BinderHub setup less intensive.
+
+Make a folder somewhere on your system.
+
+```
+mkdir testhub
+cd testhub
+```
+
+Make a copy of the following files and save them to the `testhub` folder:
+
+* [`setup.sh`](../binderhub_resources/setup.sh)
+* [`secret-template.yaml`](../binderhub_resources/secret-template.yaml)
+* [`config-template.yaml`](../binderhub_resources/config-template.yaml)
+
+Make the shell script executable will the following command.
+
+```
+chmod 700 setup.sh
+```
+
+Now make a secrets folder inside `testhub` where we will save secrets.
+
+```
+cd testhub
+mkdir secrets
+```
+
+**NOTE:** If you are using version control, it is strongly recommended that you add the `secrets` folder to a `.gitignore` file to ensure secret information is not made public.
 
 ## Deploying a Kubernetes cluster on Azure
 
