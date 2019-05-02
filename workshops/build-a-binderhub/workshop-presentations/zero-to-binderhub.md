@@ -153,41 +153,20 @@ az group create --name testhub \
   We have chosen West Europe for resource availability.
 * `--output table` specifies the output should be in human-readable format as opposed to JSON, which is the default output.
 
+### 4. Create an SSH key
 
-### 4. Choose a Cluster Name
-
-We are now going to create some folder/files that will contain SSH keys, tokens and passwords.
-You may wish to create a [_hidden_ folder](https://www.maketecheasier.com/hide-file-folder-in-mac/) (e.g. `.secret/`) create any further files and folders within this one.
-If you are then collaborating with people on your BinderHub on GitHub, you would use a `.gitignore` file to prevent the contents of the folder from being pushed to GitHub by adding `.secret/` to it.
-
-Example of hidden folder creation:
-```bash
-mkdir ~/.secret
-cd ~/.secret
-```
-
-Create a folder in which to store files relating to the compute cluster we are about to build.
-This folder should have the same name as the cluster and should be descriptive and short.
-
-`--name` cannot exceed 63 characters and can only contain letters, numbers, or dashes (-).
-This is a requirement for the `aks create` command in the next step.
+We are going to create an SSH key to secure your cluster (further details in [this blog post](https://jumpcloud.com/blog/what-are-ssh-keys-b/)). **Keep these files safe.**
 
 ```bash
-mkdir hubcluster
-cd hubcluster
-```
-
-### 5. Create an SSH key
-
-Create an SSH key to secure your cluster (further details in [this blog post](https://jumpcloud.com/blog/what-are-ssh-keys-b/)). **Keep these files safe.**
-
-```bash
-ssh-keygen -f ssh-key-hubcluster
+ssh-keygen -f secrets/ssh-key-hubcluster
 ```
 When prompted for a password, you can choose to leave this blank.
 Some text will be printed to the terminal which you don't need to do anything with.
 
-### 6. Create an Azure Container Service (AKS) Cluster
+**NOTE:** `--name` (`hubcluster` in this example) cannot exceed 63 characters and can only contain letters, numbers, or dashes (-).
+This is a requirement for the `aks create` command in the next step.
+
+### 5. Create an Azure Container Service (AKS) Cluster
 
 This command will request a Kubernetes cluster within the resource group we created.
 It will request one `Standard_D2s_v3` virtual machine which a Kubernetes cluster installed.
@@ -198,7 +177,7 @@ For information on other types of virtual machines available, [see here](https:/
 ```bash
 az aks create --name hubcluster \
     --resource-group testhub \
-    --ssh-key-value ssh-key-hubcluster.pub \
+    --ssh-key-value secrets/ssh-key-hubcluster.pub \
     --node-count 1 \
     --node-vm-size Standard_D2s_v3 \
     --output table
@@ -211,25 +190,29 @@ az aks create --name hubcluster \
 
 **NOTE:** The default version of Kubernetes will be installed, you can use the `--kubernetes-version` flag to install a different version.
 
-**This step may take a few minutes to execute.** :vertical_traffic_light:
+**This step may take some time to execute!** :vertical_traffic_light:
 
-### 7. Get credentials from Azure for `kubectl`
+**WARNING:** If this step fails due to insufficient permissions on the directory, this is likely because you're using an institutional login to Azure and your institution has limited your ability to create Service Principals.
+For the sake of this workshop, you should have created your account with a non-institutional email.
+Otherwise, you could ask your IT Services to provide you with a Service Principal.
+
+### 6. Get credentials from Azure for `kubectl`
 
 This step automatically updates your local Kubernetes client configuration file to be configured with the remote cluster we've just deployed, and allowing `kubectl` to be "logged-in" to the cluster.
 
 ```bash
 az aks get-credentials --name hubcluster --resource-group testhub
 ```
-* `--name` is the cluster name defined in [Step 4: Choose a Cluster Name](#4-choose-a-cluster-name).
+* `--name` is the cluster name defined in [Step 4: Create an SSH key](#4-create-an-ssh-key).
 * `--resource-group` is the resource group created in [Step 3: Create a Resource Group](#3-create-a-resource-group).
 
-### 8. Check the Cluster is Fully Functional
+### 7. Check the Cluster is Fully Functional
 
 ```bash
 kubectl get nodes
 ```
 
-The output of this command should list one node (unless you changed `--node-count` in [Step 6: Create an Azure Container Service (AKS) Cluster](#6-create-an-azure-container-service-aks-cluster)) with a `STATUS` of `READY`.
+The output of this command should list one node (unless you changed `--node-count` in [Step 5: Create an Azure Container Service (AKS) Cluster](#5-create-an-azure-container-service-aks-cluster)) with a `STATUS` of `READY`.
 The `VERSION` field reports which version of Kubernetes is installed.
 
 Example output:
@@ -287,10 +270,7 @@ helm init --service-account tiller --wait
 ```
 
 **NOTE:** If you wish to install `helm` on another computer, you won't need to setup `tiller` again but `helm` still needs to be initialised.
-The command to only initialise `helm` is:
-```bash
-helm init --client-only
-```
+The command to only initialise `helm` is: `helm init --client-only`.
 
 ### 4. Secure Helm
 
@@ -340,108 +320,80 @@ Adapted from [Zero-to-BinderHub: Setup BinderHub](https://binderhub.readthedocs.
 
 Before we install a BinderHub, we need to configure several pieces of information and save them in `yaml` files.
 
-Create a folder named after your BinderHub. (I will also create this inside `~/.secret`.)
-```bash
-mkdir testhub
-cd testhub
-```
-
 Create two random tokens:
 ```bash
-openssl rand -hex 32
-openssl rand -hex 32
-```
-**NOTE:** The command is run **twice** as we need two different tokens.
-
-### 2. Create a `secret.yaml` file
- 
-Create a `secret.yaml` file containing the following config and save it in the folder we created in [Step 1: Preparing to Install](#1-preparing-to-install).
-```yaml
-jupyterhub:
-  hub:
-    services:
-      binder:
-        apiToken: "<output of FIRST 'openssl rand -hex 32' command>"
-  proxy:
-    secretToken: "<output of SECOND 'openssl rand -hex 32' command>"
+openssl rand -hex 32 > secrets/apiToken.txt
+openssl rand -hex 32 > secrets/secretToken.txt
 ```
 
-To connect to DockerHub, add the following lines.
-```yaml
-registry:
-  username: <docker-id>
-  password: <password>
+### 2. Run `setup.sh`
+
+Now run `setup.sh`.
+This will populate `secret-template.yaml` and `config-template.yaml` with the appropriate information and save them to the `secrets` folder.
+
+You will be asked to provide your DockerHub login credentials in order to connect your DockerHub account to the BinderHub.
+You must provide you Docker **username**, not your email address associated to the account.
+
 ```
-**NOTE:** `registry` is on the same indentation level as `jupyterhub`.
-
-Click [here](#secretyaml) for a complete example `secret.yaml` file.
-
-### 3. Create a `config.yaml` file
-
-Create a `config.yaml` file with the following information and save it in the folder we created in [Step 1: Preparing to Install](#1-preparing-to-install).
-
-```yaml
-config:
-  BinderHub:
-    use_registry: true
-    image_prefix: <docker-id>/binder-dev-
+./setup.sh
 ```
 
-**NOTE:**
-  * If your Docker account is part of an organisation where you would like to store images instead, change the value of `image_prefix` to `<docker-organisation-name>/<prefix>-`
-  * The `<prefix>` can be any string since it will be prepended to image names.
-  It is recommended to be something short and descriptive, such as `binder-dev-` (for development) or `binder-prod-` (for the final product).
-
-### 4. Install BinderHub
+### 3. Install BinderHub
 
 First, pull the latest Helm chart for BinderHub.
+
 ```bash
 helm repo add jupyterhub https://jupyterhub.github.io/helm-chart
 helm repo update
 ```
 
-Next, install the required Helm chart using the config files we created in Steps [2: Create a `secret.yaml` file](#2-create-a-secretyaml-file) and [3: Create a `config.yaml` file](#3-create-a-configyaml-file).
+Next, install the required Helm chart using the config files we created in [Step 2: Run `setup.sh`](#2-run-setupsh).
+
 ```bash
 helm install jupyterhub/binderhub --version=0.2.0-3b53fce \
     --name=binderhub \
     --namespace=binderhub \
-    -f secret.yaml -f config.yaml
+    -f secrets/secret.yaml -f secrets/config.yaml
 ```
 * `--version` refers to the version of the BinderHub Helm Chart.
   Available versions can be found [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub).
-  We have used the version released on March 3rd 2019.
+  We have used the version released on 3 March 2019.
 * `--name` and `--namespace` may be different, but it's recommended they be the same to avoid confusion.
   It should be something short and descriptive.
 
 This step will deploy both a JupyterHub and a BinderHub but they are not yet configured to communicate with one another.
 You may need to wait a few moments before moving on as the resources may take a while to be set up.
 
-### 5. Connect JupyterHub and BinderHub
+### 4. Connect JupyterHub and BinderHub
 
 Print the IP address of the JupyterHub that was just deployed by running the following command.
 It will be listed in the `EXTERNAL-IP` field.
+
 ```bash
 kubectl --namespace=binderhub get svc proxy-public
 ```
 
-Copy this IP address and add the following line to `config.yaml`.
-```yaml
-hub_url: http://<IP address in EXTERNAL-IP field from above>
+Copy this IP address into the `jupyter_ip` variable in `setup.sh` and uncomment the line (remove the `#` from the beginning).
+Also uncomment the `sed` expression on line 28 of `setup.sh` and the line beginning `hub_url:` in `config-template.yaml`.
+
+Rerun `setup.sh`.
+
+```bash
+./setup.sh
 ```
-**NOTE:** `hub_url` is at the same indentation level as `use_registry` and `image_prefix` in [Step 3: Create a `config.yaml` file](#3-create-a-configyaml-file).
-Click [here](#configyaml) for a complete example `config.yaml` file.
 
 Now upgrade the Helm chart to deploy the change.
+
 ```bash
 helm upgrade binderhub jupyterhub/binderhub \
     --version=0.2.0-3b53fce \
-    -f secret.yaml -f config.yaml
+    -f secrets/secret.yaml -f secrets/config.yaml
 ```
-**NOTE:** `--version` must be the same as in [Step 4: Install BinderHub](#4-install-binderhub).
 
-### 6. Try out your BinderHub deployment!
+### 5. Try out your BinderHub deployment!
 
 Find the IP address of your BinderHub under the `EXTERNAL-IP` field.
+
 ```bash
 kubectl --namespace=binderhub get svc binder
 ```
@@ -449,7 +401,8 @@ kubectl --namespace=binderhub get svc binder
 Copy the IP address into your browser and your BinderHub should be waiting.
 
 If you've been successful, a page identical to [mybinder.org](https://mybinder.org) should appear.
-Type the following URL into the GitHub repo box and launch it: **https://github.com/binder-examples/requirements**. You can even sign in to your Docker account to see when the image has been pushed to the registry.
+Type the following URL into the GitHub repo box and launch it: [**https://github.com/binder-examples/requirements**](https://github.com/binder-examples/requirements).
+You can even sign in to your Docker account to see when the image has been pushed to the registry.
 
 ## Debugging your BinderHub
 
@@ -457,8 +410,16 @@ If something is not working correctly with your BinderHub, the quickest way to f
 Executing the following commands will print the JupyterHub logs to your terminal.
 
 ```bash
-kubectl get pod -n binderhub                # Lists all active pods. Find the one beginning with "hub-"
-kubectl logs hub-<random-str> -n binderhub  # Where <random-str> matches the output from the last step
+# Lists all active pods. Find the one beginning with "hub-"
+kubectl get pods --namespace binderhub
+# Where <random-str> matches the output from the last step
+kubectl logs hub-<random-str> --namespace binderhub
+```
+
+You can also access information about individual pods with the following command.
+
+```
+kubectl describe pod <POD-NAME> -n binderhub
 ```
 
 ## Authenticating Users with GitHub
@@ -467,14 +428,16 @@ Adapted from [Enabling Authentication](https://binderhub.readthedocs.io/en/lates
 
 The default is for BinderHub to run without authentication and, for each launch, it creates a temporary user and starts a server for that user.
 
-You can enable authentication for BinderHub by using JupyterHub as an oauth provider by editing `config.yaml`.
+You can enable authentication for BinderHub by using JupyterHub as an OAuth provider by editing `config.yaml`.
+
+You should update `config-template.yaml` and `setup.sh` accordingly to handle the new information.
 
 ### 1. Editing `config.yaml`
 
-First add `auth_enabled: true` under the `config: BinderHub:` key.
+First add `auth_enabled: true` under the `config.BinderHub` key.
 Then add the following as an unindented level key.
 
-**NOTE:** In the following, `binderhub_url` is the IP address you visit to reach your Binder launch page (i.e. the output of [Step 6: Try out your BinderHub deployment!](#6-try-out-your-binderhub-deployment)) and `jupyterhub_url` is the IP address listed under `config: BinderHub: hub_url:` and the top of `config.yaml`.
+**NOTE:** In the following, `binderhub_url` is the IP address you visit to reach your Binder launch page (i.e. the output of [Step 5: Try out your BinderHub deployment!](#5-try-out-your-binderhub-deployment)) and `jupyterhub_url` is the IP address listed under `config.BinderHub.hub_url` and the top of `config.yaml`.
 
 ```yaml
 jupyterhub:
@@ -522,7 +485,7 @@ Go to GitHub, click your profile picture (in the top right corner) and select "S
 At the bottom of the list on the left, select "Developer settings", then click "New OAuth App".
 
 Fill in the form using your `binderhub_url` and `jupyter_url` from [Step 1: Editing `config.yaml`](#1-editing-configyaml) (see image below) and click "Register Application".
-The URL entered into the "Authorization callback URL" field **must** match your `auth: github: callbackUrl:` in your `config.yaml`.
+The URL entered into the "Authorization callback URL" field **must** match your `auth.github.callbackUrl` in your `config.yaml`.
 
 <html><img src="github_oauth.png" alt="github_oauth" height="578" width="561"></html>
 
@@ -531,11 +494,12 @@ Copy these into the `clientId` and `clientSecret` fields, as strings, respective
 
 ### 3. Update your BinderHub
 
-To apply the config changes, we need to upgrade the deployed Helm chart using the same command as in [Step 5: Connect JupyterHub and BinderHub](#5-connect-jupyterhub-and-binderhub).
+To apply the config changes, we need to upgrade the deployed Helm chart using the same command as in [Step 4: Connect JupyterHub and BinderHub](#4-connect-jupyterhub-and-binderhub).
+
 ```bash
-helm upgrade binderhubhub jupyterhub/binderhub \
+helm upgrade binderhub jupyterhub/binderhub \
     --version=0.2.0-3b53fce \
-    -f secret.yaml -f config.yaml
+    -f secrets/secret.yaml -f secrets/config.yaml
 ```
 
 Now reload your Binder page, you should see a sign in button and will be asked for your GitHub sign in information!
@@ -550,15 +514,17 @@ This involves deleting the Helm release and all of the computing resources in Az
 ### 1. Delete the Helm release
 
 First we delete the Helm release that installed the JupyterHub and BinderHub and any resources that it created.
+
 ```bash
 helm delete binderhub --purge
 ```
-**NOTE:** `binderhub` is the release name we defined in [Step 4: Install BinderHub](#4-install-binderhub).
+**NOTE:** `binderhub` is the release name we defined in [Step 3: Install BinderHub](#3-install-binderhub).
 
 ### 2. Delete the Kubernetes Namespace
 
 Next we delete the Kubernetes namespace the hub was installed in.
 This will delete any disks that were created to store user's data and any IP addresses.
+
 ```bash
 kubectl delete namespace binderhub
 ```
@@ -566,11 +532,13 @@ kubectl delete namespace binderhub
 ### 3. Delete your Resource Group
 
 You can list your active resource groups using the following command.
+
 ```bash
 az group list --output table
 ```
 
 You can then delete the group for your BinderHub.
+
 ```bash
 az group delete --name testhub
 ```
@@ -603,6 +571,8 @@ registry:
   password: <password>
 ```
 
+**NOTE:** `<docker-id>` must be your DockerHub username, **not** your email address.
+
 ### `config.yaml`
 
 ```yaml
@@ -612,6 +582,12 @@ config:
     image_prefix: <docker-id OR organisation-name>/<prefix>-
     hub_url: http://<EXTERNAL-IP from Step 5>
 ```
+
+**NOTE:**
+  * If your Docker account is part of an organisation where you would like to store images instead, change the value of `image_prefix` to `<docker-organisation-name>/<prefix>-`
+  * The `<prefix>` can be any string since it will be prepended to image names.
+  It is recommended to be something short and descriptive, such as `binder-dev-` (for development) or `binder-prod-` (for the final product).
+
 
 ## Glossary of Kubernetes terms
 
