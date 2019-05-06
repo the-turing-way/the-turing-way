@@ -58,7 +58,7 @@ _How will you ensure that your content will be accessible to the diverse audienc
 _How will you attract a broad and diverse audience for your session?_
 
 I hope to attract attendees by being a visible, active and welcoming member of the RSE community.
-I especially hope that by giving this workshop, I encourage more women and female-identifying persons to engage with the Cloud computing and open source communities.
+I especially hope that by giving this workshop, I encourage more women, members of the LBGTQ+ and non-binary communities to engage with Cloud computing projects and open source communities.
 
 ### Mentorship
 
