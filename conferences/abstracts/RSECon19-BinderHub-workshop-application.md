@@ -60,7 +60,8 @@ _How will you ensure that your content will be accessible to the diverse audienc
 
 _How will you attract a broad and diverse audience for your session?_
 
-I hope to attract attendees by being a visible, active and welcoming member of the RSE community.
+I am a member of the Alan Turing Institute research engineering team, I am an Operator (maintainer) for the Binder community, and a core team member of the Turing Way research team.
+I will leverage my network in advance of the conference to make sure that participants know  what to expect when they arrive at the event and that I have successfully run a similar workshop before.
 I especially hope that by giving this workshop, I encourage more women, members of the LBGTQ+ and non-binary communities to engage with Cloud computing projects and open source communities.
 
 ### Mentorship
