@@ -87,7 +87,7 @@ The Turing Way team spread the word at several national and international confer
 
 - **Kirstie Whitaker** presented at the Turing Health Conference on 8 March 2019 ([pdf slides](conferences/presentations/TuringHealthConference_20190308/Whitaker_TuringHealthConf_March2019.pdf), doi: [10.6084/m9.figshare.7819442](http://doi.org/10.6084/m9.figshare.7819442)).
 
-- **Kirstie Whitaker** presented a poster at the Turing Institute's [Tools, Practices and Systems Scoping Workshop]() in Cambridge on 21 March 2019 ([pdf](conferences/presentations/TPS_ScopingWorkshop_20190321/Whitaker_TuringWayPoster_TPSScopingWorkshop.pdf), doi:[10.5281/zenodo.2598547](https://doi.org/10.5281/zenodo.2598547)).
+- **Kirstie Whitaker** presented a poster at the Turing Institute's [Tools, Practices and Systems Scoping Workshop](https://www.turing.ac.uk/events/tools-practices-and-systems-data-science-and-artificial-intelligence-scoping-workshop) in Cambridge on 21 March 2019 ([pdf](conferences/presentations/TPS_ScopingWorkshop_20190321/Whitaker_TuringWayPoster_TPSScopingWorkshop.pdf), doi:[10.5281/zenodo.2598547](https://doi.org/10.5281/zenodo.2598547)).
 
 - **Kirstie Whitaker** presented _The Turing Way_ at the Software Sustainability Institute's [Collaborations Workshop](https://www.software.ac.uk/cw19) in Loughborough from 1 - 3 April 2019 ([pdf slides](conferences/presentations/CollabW19/Whitaker_CollabW19_April2019.pdf), doi:[10.5281/zenodo.2621279](https://doi.org/10.5281/zenodo.2621279)).
   **Kirstie** also ran a _Turing Way_ project on the hackday.
