@@ -23,8 +23,6 @@ Sharing these research outputs means understanding data management, library scie
 It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
 This project is openly developed and any and all questions, comments and recommendations are welcome at our github repository: https://github.com/alan-turing-institute/the-turing-way.
 
-To manage this repository better, we moved the book content to a separate repository: https://github.com/alan-turing-institute/the-turing-way-book
-
 ### The team
 
 This is the (part of) the project team planning work at the Turing Institute. For more on how to contact us, see the [ways of working document](ways_of_working.md).
