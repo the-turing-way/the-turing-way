@@ -61,6 +61,9 @@ It is run using the Software Carpentry "traffic light" post-it system so that as
 Time for answering questions and hosting discussions are naturally built into the workshop and it is also written in a Markdown file and so is compatible with screen readers.
 https://github.com/alan-turing-institute/the-turing-way/blob/74d932087417f2699cfec0f4785203bc00caacd0/workshops/build-a-binderhub/workshop-presentations/zero-to-binderhub.md
 
+I will make clear at the beginning of the workshop that all participants are required to comply with the RSE19 code of conduct at all time.
+I will make sure that I know the reporting and enforcement details so that I can effectively support any member of the community in the event that they feel unsafe during my session.
+
 ### Promotion
 
 _How will you attract a broad and diverse audience for your session?_
