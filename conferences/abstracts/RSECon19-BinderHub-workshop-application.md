@@ -56,13 +56,15 @@ Attendees will be provided with enough knowledge to make an informed decision on
 
 _How will you ensure that your content will be accessible to the diverse audience of the conference?_
 
+I will make clear at the beginning of the workshop that all participants are required to comply with the RSE19 code of conduct at all time.
+I will make sure that I know the reporting and enforcement details so that I can effectively support any member of the community in the event that they feel unsafe during my session.
+
 The BinderHub workshop doesn't require much prerequisite knowledge or expertise and is set out in such a way that participants of any level can follow along.
 It is run using the Software Carpentry "traffic light" post-it system so that as few attendees as possible are left behind and assistance can be asked for without the pressure of "raising your hand".
 Time for answering questions and hosting discussions are naturally built into the workshop and it is also written in a Markdown file and so is compatible with screen readers.
 https://github.com/alan-turing-institute/the-turing-way/blob/74d932087417f2699cfec0f4785203bc00caacd0/workshops/build-a-binderhub/workshop-presentations/zero-to-binderhub.md
 
-I will make clear at the beginning of the workshop that all participants are required to comply with the RSE19 code of conduct at all time.
-I will make sure that I know the reporting and enforcement details so that I can effectively support any member of the community in the event that they feel unsafe during my session.
+The BinderHub workshop has already been successfully run in Sheffield, feedback here: https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/build-a-binderhub/BinderHub%20workshop.csv
 
 ### Promotion
 
@@ -88,6 +90,8 @@ It can be quite difficult to give one-on-one support whilst also live demo-ing t
 _Optional section._
 
 _What technological requirements do you have for your session? Do you have any accessibility needs that we should consider when planning when and where to include your contribution?_
+
+The workshop would need enough red and green post-its for each participant for the "traffic light" system.
 
 Attendees will require:
 * a "Free Trial" subscription to Azure;
