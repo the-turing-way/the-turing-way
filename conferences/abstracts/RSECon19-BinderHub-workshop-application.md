@@ -61,7 +61,7 @@ I will make sure that I know the reporting and enforcement details so that I can
 
 The BinderHub workshop doesn't require much prerequisite knowledge or expertise and is set out in such a way that participants of any level can follow along.
 It is run using the Software Carpentry "traffic light" post-it system so that as few attendees as possible are left behind and assistance can be asked for without the pressure of "raising your hand".
-Time for answering questions and hosting discussions are naturally built into the workshop and it is also written in a Markdown file and so is compatible with screen readers.
+Time for answering questions and hosting discussions are naturally built into the workshop and it is also written in a Markdown file so is compatible with screen readers.
 https://github.com/alan-turing-institute/the-turing-way/blob/74d932087417f2699cfec0f4785203bc00caacd0/workshops/build-a-binderhub/workshop-presentations/zero-to-binderhub.md
 
 The BinderHub workshop has already been successfully run in Sheffield, feedback here: https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/build-a-binderhub/BinderHub%20workshop.csv
@@ -72,7 +72,7 @@ _How will you attract a broad and diverse audience for your session?_
 
 I am a member of the Alan Turing Institute research engineering team, I am an Operator (maintainer) for the Binder community, and a core team member of the Turing Way research team.
 I will leverage my network in advance of the conference to make sure that participants know  what to expect when they arrive at the event and that I have successfully run a similar workshop before.
-I especially hope that by giving this workshop, I encourage more women, members of the LBGTQ+ and non-binary communities to engage with Cloud computing projects and open source communities.
+I especially hope that by giving this workshop, I encourage more women, members of the LGBTQ+ and non-binary communities to engage with Cloud computing projects and open source communities.
 _The Turing Way_ has a Code of Conduct (https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md) and is passionate about building a diverse community, as evidenced by our book dash application (https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/application-form.md).
 
 ### Mentorship
@@ -92,6 +92,7 @@ _Optional section._
 _What technological requirements do you have for your session? Do you have any accessibility needs that we should consider when planning when and where to include your contribution?_
 
 The workshop would need enough red and green post-its for each participant for the "traffic light" system.
+(I can bring some, but a back up stash would be appreciated.)
 
 Attendees will require:
 * a "Free Trial" subscription to Azure;
