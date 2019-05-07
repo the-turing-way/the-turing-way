@@ -109,3 +109,38 @@ _This is a requirement for all presenters._
 _Do you agree to this?_
 
 Yes.
+
+### Please confirm that all presenters have completed a RSEConUK 2019 Presenter Details and Diversity Form
+
+_You can find the form here: https://docs.google.com/forms/d/e/1FAIpQLSeuo3c5vrRgP_tn2tgmQUbA4bbT-9HScxaww86nVVBXQxNO8g/viewform_
+
+Yes.
+
+### Use of the details and diversity information
+
+_I confirm that I permit the conference diversity panel to view the answers in the details and diversity form identified above and link those answers to my above submission if it is shortlisted, for the purposes of tracking and balancing the diversity of the overall conference._
+
+Yes.
+
+### Authority to use this information
+
+_By submitting this form, you understand that the details you have provided will be stored by the RSEConUK 2019 Conference committee (https://rse.ac.uk/conf2019) in Google Forms for the purpose of processing, handling and retaining details of your submission to the conference._
+_Data will be sent to other parties to facilitate the review of your submission and may be transferred outside the EU for purposes of review and storage in Google Forms._
+_The data you provide here will be retained for up to 5 years to support statistical analysis and comparison with subsequent conferences._
+_If you have any questions or wish to have your data removed prior to this, please e-mail details to rse2019@rse.ac.uk._
+_Anonymised data may be retained indefinitely._
+
+Yes.
+
+### Copyright permission
+
+_I understand that by submitting an this form, I am granting permission to disseminate the abstract, title and author names/affiliations electronically and to re-produce them in the conference programme, both online and in print._
+
+Yes.
+
+### Cloud resources
+
+_I confirm that I will make available all notebooks, docker images, scripts and information related to virtual machines etc. as appropriate by the 9th August via GitHub, dockerhub etc. so that they can be set up on the Cloud Sponsor’s infrastructure for this workshop._
+_If you have particular reasons why you cannot use the Cloud Sponsor’s infrastructure then please select "No", and the conference committee will get in touch to discuss your needs._
+
+Yes.
