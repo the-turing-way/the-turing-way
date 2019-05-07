@@ -15,7 +15,9 @@
 
 ### Authors
 
-* [Sarah Gibson](https://www.turing.ac.uk/people/researchers/sarah-gibson), ([The Alan Turing Institute](https://www.turing.ac.uk/)) on behalf of **[The Turing Way](https://github.com/alan-turing-institute/the-turing-way) Collaboration**.
+* [Sarah Gibson](https://www.turing.ac.uk/people/researchers/sarah-gibson) ([The Alan Turing Institute](https://www.turing.ac.uk/)) on behalf of **[The Turing Way](https://github.com/alan-turing-institute/the-turing-way) Collaboration**.
+* Anna Krystalli (The University of Sheffield) on behalf of **[The Turing Way](https://github.com/alan-turing-institute/the-turing-way) Collaboration**.
+* Patricia Herterich (The University of Birmingham) on behalf of **[The Turing Way](https://github.com/alan-turing-institute/the-turing-way) Collaboration**.
 
 ### Abstract
 
@@ -84,6 +86,7 @@ _Would you like a mentor? If so then what would you like the mentor to do?_
 Yes.
 I would like a mentor with some Cloud computing experience to help troubleshoot problems on Azure should they arise.
 It can be quite difficult to give one-on-one support whilst also live demo-ing to the rest of the room and so a mentor would be appreciated.
+Anna Krystalli and Patricia Herterich are other core members of the Turing Way team who have volunteered to help with the session.
 
 ### Resources and accessibility needs
 
