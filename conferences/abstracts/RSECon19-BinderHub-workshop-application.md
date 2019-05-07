@@ -38,7 +38,7 @@ Attendees should be familiar with Azure Cloud computing and the command line.
 _Would your target audience be required to have any prerequisite skills/background knowledge e.g. knowledge of a particular language?_
 
 This workshop is most suitable for participants who are interested in maintaining a service to support researchers, for example at their institute.
-They do not need to have access to organisational cloud computing resources to join the workshop.
+They do not need to have access to organisational Cloud computing resources to join the workshop.
 Attendees must be comfortable working on the command line.
 A familiarity with Microsoft Azure will make participating in the workshop a little easier, but it is not a prerequisite.
 
@@ -50,7 +50,7 @@ _(600 characters max, current count: 524 [please update if you edit])_
 
 Attendees to this workshop will learn how to deploy a BinderHub on Microsoft Azure Cloud platform.
 They will learn the multiple applications of a BinderHub as a teaching or demonstration tool; the technology powering a BinderHub; and why reproducibility is important in research.
-Attendees will be provided with enough knowledge to make an informed decision on whether building their own BinderHub is advantageous to their goals and connect with other RSEs/researchers who have build a BinderHub or are interested in doing so.
+Attendees will be provided with enough knowledge to make an informed decision on whether building their own BinderHub is advantageous to their goals and connect with other RSEs/researchers who have built a BinderHub or are interested in doing so.
 
 ### Accessibility
 
@@ -70,7 +70,9 @@ _Optional section._
 
 _Would you like a mentor? If so then what would you like the mentor to do?_
 
-No?
+Yes.
+I would like a mentor with some Cloud computing experience to help troubleshoot problems on Azure should they arise.
+It can be quite difficult to give one-on-one support whilst also live demo-ing to the rest of the room and so a mentor would be appreciated.
 
 ### Resources and accessibility needs
 
