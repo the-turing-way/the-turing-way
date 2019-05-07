@@ -37,7 +37,10 @@ Attendees should be familiar with Azure Cloud computing and the command line.
 
 _Would your target audience be required to have any prerequisite skills/background knowledge e.g. knowledge of a particular language?_
 
-Attendees would preferably be familiar with Microsoft Azure and the command line.
+This workshop is most suitable for participants who are interested in maintaining a service to support researchers, for example at their institute.
+They do not need to have access to organisational cloud computing resources to join the workshop.
+Attendees must be comfortable working on the command line.
+A familiarity with Microsoft Azure will make participating in the workshop a little easier, but it is not a prerequisite.
 
 ### Outcomes
 
