@@ -19,7 +19,7 @@
 
 ### Abstract
 
-_(1250 characters max, current count: 1244 [please update if you edit])_
+_(1250 characters max, current count: 1218 [please update if you edit])_
 
 BinderHub is a Cloud-based, multi-user server technology that captures the computing environment of a Git repository within a Docker image.
 It then provides an interactive browser from which code can be run in the environment under which it was developed without placing installation responsibilities on the user.
@@ -31,7 +31,7 @@ By harnessing the power of Cloud computing and building a BinderHub with expande
 BinderHubs can showcase the reproducibility of software as well as being a valuable teaching or demonstration tool.
 
 In this workshop, attendees will learn how to deploy a BinderHub on Microsoft Azure and connect with others who have or are interested in doing so.
-Attendees should be familiar with Azure Cloud computing and the command line.
+Attendees should be comfortable with the command line.
 
 ### Audience
 
