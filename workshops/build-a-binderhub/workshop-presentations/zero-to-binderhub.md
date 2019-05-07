@@ -107,6 +107,7 @@ mkdir secrets
 ```
 
 **NOTE:** If you are using version control, it is strongly recommended that you add the `secrets` folder to a `.gitignore` file to ensure secret information is not made public.
+Do this **before** adding any secrets to the folder!
 
 ## Deploying a Kubernetes cluster on Azure
 
