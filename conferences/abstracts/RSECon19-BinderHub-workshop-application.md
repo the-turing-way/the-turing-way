@@ -19,13 +19,13 @@
 
 ### Abstract
 
-_(1250 characters max, current count: 1218 [please update if you edit])_
+_(1250 characters max, current count: 1213 [please update if you edit])_
 
 BinderHub is a Cloud-based, multi-user server technology that captures the computing environment of a Git repository within a Docker image.
 It then provides an interactive browser from which code can be run in the environment under which it was developed without placing installation responsibilities on the user.
 A unique URL to this browser is generated making the software easily sharable with collaborators.
 BinderHubs can be built anywhere in the world and are Cloud-neutral.
-Building a locally hosted BinderHub is advantageous as it would facilitate the use of private repositories and make available a greater variety of computing resources - facilities which are not currently available on the public Binder service.
+Building an in-house BinderHub is advantageous as it would facilitate the use of private repositories and make available a greater variety of computing resources - facilities which are not currently available on the public Binder service.
 
 By harnessing the power of Cloud computing and building a BinderHub with expanded capabilities, scientific analyses can become more accessible and transparent to the wider community.
 BinderHubs can showcase the reproducibility of software as well as being a valuable teaching or demonstration tool.
