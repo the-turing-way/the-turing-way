@@ -21,7 +21,7 @@
 
 _(1250 characters max, current count: 1244 [please update if you edit])_
 
-BinderHub is a Cloud-based, multi-user server technology that captures the computing environment of a GitHub repository within a Docker image.
+BinderHub is a Cloud-based, multi-user server technology that captures the computing environment of a Git repository within a Docker image.
 It then provides an interactive browser from which code can be run in the environment under which it was developed without placing installation responsibilities on the user.
 A unique URL to this browser is generated making the software easily sharable with collaborators.
 BinderHubs can be built anywhere in the world and are Cloud-neutral.
