@@ -19,7 +19,7 @@ This report summarizes activities and impact so far and provides an outline of c
 The handbook is available at https://the-turing-way.netlify.com.
 
 It contains chapters on
-* Reproducbility
+* Reproducibility
 * Open Research
 * Version Control
 * Reproducible Environments
@@ -27,7 +27,7 @@ It contains chapters on
 * Reviewing
 * Continous Integration
 * Research Data Management
-* Reproducbile Research with Make
+* Reproducible Research with Make
 
 The handbook and project GitHub repository (https://github.com/alan-turing-institute/the-turing-way) have more than 20 contributors.
 
