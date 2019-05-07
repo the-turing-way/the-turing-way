@@ -25,6 +25,7 @@ To follow along with these instructions, go to this link: [**bit.ly/zero-to-bind
 * [Setting up Helm](#setting-up-helm)
 * [Setup BinderHub](#setup-binderhub)
 * [Debugging your BinderHub](#debugging-your-binderhub)
+* [Changing the logo on your Binder page](#changing-the-logo-on-your-binder-page)
 * [Authenticating Users with GitHub](#authenticating-users-with-github)
 * [Tearing Down your BinderHub Deployment](#tearing-down-your-binderhub-deployment)
 * [Example config files](#example-config-files)
@@ -420,6 +421,90 @@ You can also access information about individual pods with the following command
 
 ```
 kubectl describe pod <POD-NAME> -n binderhub
+```
+
+## Changing the logo on your Binder page
+
+One fun way to make your BinderHub your own is to change the logo that appears on the Binder launch page.
+This is achieved by customising or extending the `html` template the website is built from.
+See the [BinderHub customisation documentation](https://binderhub.readthedocs.io/en/latest/customizing.html#template-customization) for more details.
+
+You will need an image file.
+[Unsplash](https://unsplash.com/) is a good source of free images for the purposes of this workshop.
+You would probably create your own logo!
+
+#### 1. Fork the following repo
+
+I have created a template repo to make this easier linked below.
+Fork it into your own namespace.
+
+[**github.com/sgibson91/binderhub-custom-files**](https://github.com/sgibson91/binderhub-custom-files)
+
+#### 2. Upload your image file
+
+Upload your chosen image file to the `static` folder on your fork.
+Any image file type will suffice.
+
+#### 3. Update `page.html` in `templates`
+
+In the `templates` folder, edit `page.html` to contain the name of your image file by replacing `<custom-logo-file>`.
+(You do not need to include the `static/` prefix.)
+
+#### 4. Update `config.yaml`
+
+Add the following to your `config.yaml` file.
+Remember to replace `<your-github-username>` in the repo URL with your GitHub username!
+
+```
+config:
+  BinderHub:
+    template_path: /etc/binderhub/custom/templates
+    extra_static_path: /etc/binderhub/custom/static
+    extra_static_url_prefix: /extra_static/
+    template_variables:
+        EXTRA_STATIC_URL_PREFIX: "/extra_static/"
+
+initContainers:
+  - name: git-clone-templates
+    image: alpine/git
+    args:
+      - clone
+      - --single-branch
+      - --branch=master
+      - --depth=1
+      - --
+      - https://github.com/<your-github-username>/binderhub-custom-files
+      - /etc/binderhub/custom
+    securityContext:
+      runAsUser: 0
+    volumeMounts:
+      - name: custom-templates
+        mountPath: /etc/binderhub/custom
+extraVolumes:
+  - name: custom-templates
+    emptyDir: {}
+extraVolumeMounts:
+  - name: custom-templates
+    mountPath: /etc/binderhub/custom
+```
+
+**NOTE:** If you committed the image file and the change to `page.html` to a branch other than `master`, then you either need to merge your changes into `master` or change the `--branch` argument in the above snippet to match the name of your branch.
+
+#### 5. Upgrade your BinderHub and visit the Binder page!
+
+To deploy the changes, upgrade the helm chart.
+
+```
+helm upgrade binderhub jupyterhub/binderhub \
+    --version=0.2.0-3b53fce \
+    -f secrets/secret.yaml -f secrets/config.yaml
+```
+
+Visit your Binder page to see your new logo!
+To get the IP address of the Binder page, run the following command.
+
+```
+kubectl --namespace=binderhub get svc binder
 ```
 
 ## Authenticating Users with GitHub
