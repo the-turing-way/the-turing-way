@@ -50,7 +50,7 @@ _(600 characters max, current count: 524 [please update if you edit])_
 
 Attendees to this workshop will learn how to deploy a BinderHub on Microsoft Azure Cloud platform.
 They will learn the multiple applications of a BinderHub as a teaching or demonstration tool; the technology powering a BinderHub; and why reproducibility is important in research.
-Attendees will be provided with enough knowledge to make an informed decision on whether building their own BinderHub is advantageous to their goals and connect with other RSEs/researchers who have built a BinderHub or are interested in doing so.
+Attendees will be provided with enough knowledge to make an informed decision on whether operating their own BinderHub is advantageous to their goals and connect with other RSEs/researchers who have built a BinderHub or are interested in doing so.
 
 ### Accessibility
 
