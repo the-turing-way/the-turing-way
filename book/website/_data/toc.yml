@@ -44,6 +44,8 @@
   url: open_research/open_research
 - title: Version Control
   url: version_control/version_control
+- title: Collaborating on GitHub/GitLab
+  url: collaborating_github/collaborating_github
 - title: Reproducible Environments
   url: reproducible_environments/reproducible_environments
 - title: Testing
