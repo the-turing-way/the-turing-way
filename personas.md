@@ -20,7 +20,12 @@ If you do not relate to any of the personas described and are struggling to figu
 
 ## Contributor personas
 
-### Sam, a PhD student with no GitHub experience
+1. Sam, someone who has no GitHub experience
+2. Alex, someone who has a lot of GitHub experience
+3. Amal, someone who knows they want to contribute, and does
+4. Noor, someone who doesn't know they want to contribute, but does
+
+### 1. Sam, a PhD student with no GitHub experience
 
 Sam is a PhD student in biology at University College London.
 They are learning how to code in Python, but have not yet had any training in version control or GitHub.
@@ -35,7 +40,7 @@ They're really interested in learning how to use open notebooks such as Jupyter 
 
 
 
-###  Alex, a researcher with Git/GitHub experience and book topic expertise
+###  2. Alex, a researcher with Git/GitHub experience and book topic expertise
 
 Alex is a postdoc in Manchester who programs in R.
 They are passionate about open data and using data for good, but also understand it can be more complex than that.
@@ -48,6 +53,37 @@ They have experience with GitHub and contributing to open projects.
 4. **Sustained Participation** - After constructive feedback and collaboration with the Turing Way team, Alex follows the community on social media and applies to attend the Manchester Book Dash.
 5. **Networked Participation** - They invite other friends and colleagues from the Rstats community to get involved, who have expertise on some of the book topics.
 6. **Leadership** - Alex volunteers to write the chapter on Scoping a data project - RSEs that they found requested in the [Book Skeleton](https://github.com/alan-turing-institute/the-turing-way/blob/master/book_skeleton.md).
+
+
+
+### 3. Amal, a PhD supervisor who is an expert in an aspect of reproducible research
+
+Amal is a PhD supervisor who is an expert in running risk assessments for projects using reproducible research. 
+They are always looking for opportunities to share their expertise, particularly with students, as they think consistent application of best practise is really important. 
+They are very keen to collaborate with people and to volunteer their time for collaboration projects. 
+They like seeing their work make an impact and are keen to know about the eventual result of their collaborations.
+
+1. **Discovery** - Amal finds out about the Turing Way book from the Twitter feed of experts in reproducible research who they follow. 
+2. **First Contact** - Amal navigates to the GithHub repository and reads the content there over a couple of days. While reading, they make notes on areas they could add to from their own research.
+3. **Participation** - They compile their own work into a chapter format and submit it to the repo.
+4. **Sustained Participation** - Amal checks back frequently to look at feedback on their chapter and respond to it. In their spare time, they make suggestions and edits on other chapters.
+5. **Networked Participation** - Amal directs students to their Turing Way chapter when they ask about risk assessments in reproducible research, and begins to direct students to other chapters as part of their teaching.
+6. **Leadership** - Amal promotes the Turing Way at their own institution, suggesting to other academics that they get involved with its creation and adopt it as best practice.
+
+
+
+###  4. Noor, a PhD student who is trying to finish their dissertation
+
+Noor is a final-year PhD student who has their dissertation deadline coming up. 
+They are feeling the pressure of needing to write up the results of their research, but finding it easy to procrastinate. 
+They are confident that their research has taught them some particular considerations for reproducible environments, but they are slightly intimidated by the expertise of other people in their field, and they are considering their future after their PhD. 
+
+1. **Discovery** - Noor comes across the Turing Way when they're surfing Twitter while trying to write up their research.
+2. **First Contact** - They read the chapter that's relevant to their research and then continue working on their dissertation.
+3. **Participation** - Later, Noor returns to the Turing Way and makes some suggestions and edits to that chapter.
+4. **Sustained Participation** - They return to the repo periodically to read feedback on their commits and make additional comments, restricted to the one chapter they feel they know about.
+5. **Networked Participation** - Noor tweets a link to the Turing Way during a conversation about reproducible research and retweets a response from another expert which leads to a longer conversation. 
+6. **Leadership** - After submitting their PhD, and unsure what they want to do next, Noor volunteers to co-ordinate further research into the chapter by reaching out to experts in the space.
 
 
 ## User personas
