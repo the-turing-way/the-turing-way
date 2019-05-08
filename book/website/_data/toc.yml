@@ -46,6 +46,8 @@
   url: version_control/version_control
 - title: Collaborating on GitHub/GitLab
   url: collaborating_github/collaborating_github
+- title: Research Data Management
+  url: rdm/rdm
 - title: Reproducible Environments
   url: reproducible_environments/reproducible_environments
 - title: Testing
@@ -54,7 +56,7 @@
   url: reviewing/reviewing
 - title: Continous Integration
   url: continuous_integration/continuous_integration
-- title: Research Data Management
-  url: rdm/rdm
 - title: Reproducible Research with Make
   url: make/make
+- title: Risk Assessment
+  url: risk_assessment/risk_assessment
