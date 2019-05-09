@@ -249,6 +249,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "sje30",
+      "name": "Stephen Eglen",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1095067?v=4",
+      "profile": "http://damtp.cam.ac.uk/user/eglen",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7
