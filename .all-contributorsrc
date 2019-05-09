@@ -240,6 +240,15 @@
         "ideas",
         "question"
       ]
+    },
+    {
+      "login": "hieuhoang",
+      "name": "Hieu Hoang",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/691732?v=4",
+      "profile": "http://www.hoang.co.uk/hieu",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7
