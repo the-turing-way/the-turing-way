@@ -78,6 +78,16 @@
       ]
     },
     {
+      "login": "rjjgilham",
+      "name": "Richard Gilham",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/18323072?v=4",
+      "profile": "https://github.com/rjjgilham",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
+    },
+    {
       "login": "betatim",
       "name": "Tim Head",
       "avatar_url": "https://avatars1.githubusercontent.com/u/1448859?v=4",
@@ -113,6 +123,15 @@
       ]
     },
     {
+      "login": "SiccarPoint",
+      "name": "Dan Hobley",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6867260?v=4",
+      "profile": "http://spot.colorado.edu/~daho1668/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
       "login": "choldgraf",
       "name": "Chris Holdgraf",
       "avatar_url": "https://avatars1.githubusercontent.com/u/1839645?v=4",
@@ -132,6 +151,15 @@
         "example",
         "review",
         "ideas"
+      ]
+    },
+    {
+      "login": "longr",
+      "name": "Robin Long",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3597743?v=4",
+      "profile": "https://github.com/longr",
+      "contributions": [
+        "doc"
       ]
     },
     {
@@ -158,6 +186,15 @@
       ]
     },
     {
+      "login": "BioStew",
+      "name": "Sarah Stewart",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/17767752?v=4",
+      "profile": "https://github.com/Biostew",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
       "login": "ots22",
       "name": "Oliver Strickson",
       "avatar_url": "https://avatars1.githubusercontent.com/u/5434836?v=4",
@@ -181,43 +218,6 @@
         "ideas",
         "review",
         "talk"
-      ]
-    },
-    {
-      "login": "longr",
-      "name": "Robin Long",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/3597743?v=4",
-      "profile": "https://github.com/longr",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "rjjgilham",
-      "name": "rjjgilham",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/18323072?v=4",
-      "profile": "https://github.com/rjjgilham",
-      "contributions": [
-        "doc",
-        "ideas"
-      ]
-    },
-    {
-      "login": "BioStew",
-      "name": "Sarah Stewart",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/17767752?v=4",
-      "profile": "https://github.com/Biostew",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "SiccarPoint",
-      "name": "Dan Hobley",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/6867260?v=4",
-      "profile": "http://spot.colorado.edu/~daho1668/",
-      "contributions": [
-        "doc"
       ]
     }
   ],
