@@ -229,6 +229,17 @@
         "doc",
         "ideas"
       ]
+    },
+    {
+      "login": "GjjvdBurg",
+      "name": "Gertjan van den Burg",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3286696?v=4",
+      "profile": "http://gertjan.dev",
+      "contributions": [
+        "doc",
+        "ideas",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7
