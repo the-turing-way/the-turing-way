@@ -219,6 +219,16 @@
         "review",
         "talk"
       ]
+    },
+    {
+      "login": "oforrest",
+      "name": "oforrest",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/49275282?v=4",
+      "profile": "https://github.com/oforrest",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7
