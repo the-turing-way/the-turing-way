@@ -5,8 +5,53 @@ We have a couple of things for you to look at before the workshop and some more 
 
 ## Getting ready
 
+We will ask you to contribute to the [Turing Way GitHub repository](https://github.com/alan-turing-institute/the-turing-way).
+Please sign up for a GitHub account if you don't already have one: https://github.com/join
+If you're not familiar with contributing to GitHub projects, we recommend you read our chapter on [Collaborating on GitHub](https://the-turing-way.netlify.com/collaborating_github/collaborating_github.html).
+Our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) are also a good thing to read, but we will go through the main points again on the book dash day.
+We hope you already have an idea of what you would like to contribute, but if you are still looking for inspiration, our [list of good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) will hopefully provide some inspiration. 
 
 ## Networking evening
+
+[INFO to follow]
+
+### Lightning talks / elevator pitches
+We have scheduled some time for you to give lightning talks about projects you're working on or anything else you are excited about.
+Those talks do not need to be related to the Turing Way or anything you want to contribute during the book dash - they can be about data visualization, your favourite R package, eccentric keyboards, meditation and wellbeing tips, beer brewing or cross stitching.
+Talks should be 3 minutes long and be without the support of slides as the venue will not be able to provide any equipment to display them.
+Please let us know on arrival if you would like to give an elevator pitch.
+
+## On the day
+
+We are very excited that an illustrator from [scriberia](http://www.scriberia.co.uk/) will join us to document the sprint and provide some amazing visualisations for the handbook.
+
+### Getting to the venue
+
+We will start the book dash before the British Library officially opens at 9:30am so you will need to enter through Gate 8 of The British Library, the staff entrance on Midland Road opposite (one of the exits from) St Pancras station. 
+Give your name at the security desk to receive your visitor pass for the day.
+A Turing Way team member will be waiting in the lobby and escort you to the Turing Institute.
+
+### Agenda
+
+8:30am	Arrive at dashing venue
+9:00am	Intro to the book dash
+9:30am	Team forming and brain storming
+10:30am Coffee break
+11:00am Group working
+12:30pm Lunch
+1:30pm	Group working, coffee available at 3pm
+4:00pm	Celebrate successes (group share outs)
+5:00pm	Close
+
+## Travel and accomodation
+
+We're in the process of booking travel and acoomodation for those of you who have asked for support and will be in touch with details separately.
+
+We look forward to seeing you in London!
+
+The Turing Way team
+
+
 
 # Manchester
 
@@ -33,14 +78,13 @@ To fit in with the locations schedule, we start the evening at 6 pm , slightly e
 
 ### Lightning talks / elevator pitches
 We have scheduled some time for you to give lightning talks about projects you're working on or anything else you are excited about.
-Those talks do not need to be related to the Turing Way or anything you want to contribute - they can be about data visualization, your favourite R package, eccentric keyboards, meditation and wellbeing tips, beer brewing or cross stitching.
+Those talks do not need to be related to the Turing Way or anything you want to contribute during the book dash - they can be about data visualization, your favourite R package, eccentric keyboards, meditation and wellbeing tips, beer brewing or cross stitching.
 Talks should be 3 minutes long and be without the support of slides as the venue will not be able to provide any equipment to display them.
 Please let us know on arrival if you would like to give an elevator pitch.
 
 ## On the day
 
 We are very excited that an illustrator from [scriberia](http://www.scriberia.co.uk/) will join us to document the sprint and provide some amazing visualisations for the handbook.
-
 
 ### Getting to the venue
 
