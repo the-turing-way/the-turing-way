@@ -28,7 +28,7 @@ We are very excited that an illustrator from [scriberia](http://www.scriberia.co
 
 ### Getting to the venue
 
-We will start the book dash before the British Library officially opens at 9:30am so you will need to enter through Gate 8 of The British Library, the staff entrance on Midland Road opposite (one of the exits from) St Pancras station. 
+We will start the book dash before the British Library officially opens at 9:30am so you will need to enter through Gate 8 of The British Library, the staff entrance on Midland Road opposite (one of the exits from) St Pancras station ([here are instructions on how to get to The Alan Turing Institute](https://www.turing.ac.uk/about-us/how-get-alan-turing-institute)). 
 Give your name at the security desk to receive your visitor pass for the day.
 A Turing Way team member will be waiting in the lobby and escort you to the Turing Institute.
 
