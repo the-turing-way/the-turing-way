@@ -61,7 +61,7 @@ The Turing Way team
 
 Dear book dash attendees,
 
-We are looking forward to welcoming you to our Turing Way book dash in Manchester next week! 
+We are looking forward to welcoming you to our Turing Way book dash in Manchester on Thursday and Friday! 
 We have a couple of things for you to look at before the workshop and some more information about what is happening on the day:
 
 ## Getting ready
@@ -76,7 +76,7 @@ Also, a reminder that everyone who participates in the Turing Way project is exp
 ## Networking evening
 
 We have booked the bank vault at [Jamie's Italian in Manchester](https://www.jamieoliver.com/italian/restaurants/manchester/). 
-To fit in with the locations schedule, we start the evening at 6 pm , slightly earlier than planned, and hope you are still all able to attend. 
+To fit in with the locations schedule, we start Thursday evening at 6 pm , slightly earlier than planned, and hope you are still all able to attend. 
 
 6:00pm	Arrive at dinner venue and queen bee icebreaker  
 6:45pm	Dinner  
