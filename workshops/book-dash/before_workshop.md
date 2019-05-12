@@ -46,7 +46,8 @@ A Turing Way team member will be waiting in the lobby and escort you to the Turi
 
 ## Travel and accomodation
 
-We're in the process of booking travel and acoomodation for those of you who have asked for support and will be in touch with details separately.
+We're in the process of booking travel and acoomodation for those of you who have asked for support. 
+The team or the Alan Turing Institute's travel agency will be in touch with details separately.
 
 We look forward to seeing you in London!
 
@@ -108,7 +109,10 @@ We will also have signs up on the day to help you navigate.
 
 ## Travel and accomodation
 
-We're in the process of booking travel and acoomodation for those of you who have asked for support and will be in touch with details separately.
+We're in the process of booking travel and acoomodation for those of you who have asked for support. 
+The team or the Alan Turing Institute's travel agency will be in touch with details separately.
+
+If you want to get in touch ahead of the book dash, feel free to do so on our [gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) where you can join with your GitHub account. 
 
 We look forward to seeing you in Manchester!
 
