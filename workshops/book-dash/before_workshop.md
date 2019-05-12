@@ -1,5 +1,7 @@
 # London
 
+Dear book dash attendees,
+
 We are looking forward to welcoming you to our Turing Way book dash in London next week! 
 We have a couple of things for you to look at before the workshop and some more information about what is happening on the day:
 
@@ -56,6 +58,8 @@ The Turing Way team
 
 
 # Manchester
+
+Dear book dash attendees,
 
 We are looking forward to welcoming you to our Turing Way book dash in Manchester next week! 
 We have a couple of things for you to look at before the workshop and some more information about what is happening on the day:
