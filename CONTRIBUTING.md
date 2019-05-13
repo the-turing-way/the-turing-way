@@ -307,6 +307,29 @@ This can be done simply as:
 The Turing Way follows the [all-contributors][all-contributors] specification, so we welcome and recognise all contributions from documentation to testing to writing chapters.
 You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md). 😍
 
+The all-contributors bot usage is described [here](https://allcontributors.org/docs/en/bot/usage).
+To add yourself or someone else as a contributor, comment on the relevant Issue or Pull Request with the following:
+
+```
+@all-contributors please add <username> for <contributions>
+```
+
+You can see the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid ```<contribution>``` types and examples of how we've run this command in this issue: https://github.com/alan-turing-institute/the-turing-way/issues/274.
+The bot will then create a Pull Request to add the contributor and reply with the pull request details.
+
+**PLEASE NOTE: Only one contributor can be added with the bot at a time!**
+Add each contributor in turn, merge the pull request and delete the branch (```all-contributors/add-<username>```) before adding another one.
+Otherwise, you can end up with dreaded [merge conflicts][github-mergeconflicts].
+Therefore, please check the [open pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls) first to make sure there aren't any open requests from the bot before adding another.
+
+What happens if you accidentally run the bot before the previous run was merged and you got those pesky merge conflicts?
+(Don't feel bad, we have all done it! 🙈)
+Simply close the pull request and delete the branch (```all-contributors/add-<username>```).
+If you are unable to do this for any reason, please let us know in the [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) or by opening an issue, and a Turing Way team member will be very happy to help!
+
+Finally, don't forget to add yourself to the list of contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md)!
+
+
 ---
 *These Contributing Guidelines have been adapted from the [Contributing Guidelines](https://github.com/bids-standard/bids-starter-kit/blob/master/CONTRIBUTING.md) of the [BIDS Starter Kit](https://github.com/bids-standard/bids-starter-kit)! (License: CC-BY)*
 
