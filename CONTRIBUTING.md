@@ -319,7 +319,7 @@ To add yourself or someone else as a contributor, comment on the relevant Issue 
 @all-contributors please add <username> for <contributions>
 ```
 
-You can see the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid ```<contribution>``` types and examples of how we've run this command in this issue: https://github.com/alan-turing-institute/the-turing-way/issues/274.
+You can see the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid ```<contribution>``` types and examples of how we've run this command in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/274).
 The bot will then create a Pull Request to add the contributor and reply with the pull request details.
 
 **PLEASE NOTE: Only one contributor can be added with the bot at a time!**
