@@ -144,7 +144,7 @@ Issues and discussions raised by workshop participants:
   * https://github.com/jupyterhub/binderhub/pull/808
 * Add documentation on deploying Kubernetes on Digital Ocean:
   * https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1192
-* A discussion around launching a Binder from an arbitrary Docker image easier:
+* A discussion around making the process of launching a Binder from an arbitrary Docker image easier:
   * https://discourse.jupyter.org/t/repo2docker-make-it-easy-to-start-from-arbitrary-docker-image/502
 
 As a result of her work building a Turing BinderHub, **Sarah Gibson** was invited to join the Binder operator team.
