@@ -258,6 +258,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "ajstewartlang",
+      "name": "Andrew Stewart",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/26226804?v=4",
+      "profile": "https://scholar.google.co.uk/citations?user=o0cD2JgAAAAJ&hl=en",
+      "contributions": [
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7
