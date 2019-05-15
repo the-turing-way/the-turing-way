@@ -267,6 +267,16 @@
       "contributions": [
         "tutorial"
       ]
+    },
+    {
+      "login": "trallard",
+      "name": "Tania Allard",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/23552331?v=4",
+      "profile": "http://www.bitsandchips.me",
+      "contributions": [
+        "ideas",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7
