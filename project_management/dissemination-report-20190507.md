@@ -122,24 +122,36 @@ All presentations are available on zenodo in our _Turing Way_ community: https:/
 As part of setting up a BinderHub and preparing the _Turing Way_ workshops, Sarah Gibson and workshop participants contributed a variety of issues and suggestions to the Binder projects.
 
 Pull requests to update documentation raised by the _Turing Way_ team:
-* https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1180
-* https://github.com/jupyterhub/binderhub/pull/804
-* https://github.com/jupyterhub/binderhub/pull/813
-* https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1256
-* https://github.com/jupyterhub/binderhub/pull/835
-* https://github.com/jupyter/repo2docker/pull/655
-* https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1258
-* https://github.com/jupyterhub/binderhub/pull/847
+* Updating the documentation around Helm (the package manager for Kubernetes):
+  * https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1180
+* Updating the documentation on setting up BinderHub to provide copy-pastable commands that should "just work", this makes it easier for users to follow along:
+  * https://github.com/jupyterhub/binderhub/pull/804
+* Clarify the use of the symbol `|` means "or" and is not a literal symbol to be included in configuration files for BinderHub:
+  * https://github.com/jupyterhub/binderhub/pull/813
+* Add instructions on how to manually scale a Kubernetes cluster to the Zero to JuptyerHub with Kubernetes documentation:
+  * https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1256
+* Updating and contributing to repo2docker's contribution guidelines and issue/bug report/feature request templates:
+  * https://github.com/jupyter/repo2docker/pull/655
+* Add a brand new set of documentation on how to deploy an autoscaling Kubernetes cluster on Azure:
+  * https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1258
+* Updating the debugging BinderHub documentation to discuss indentation levels of Helm charts, where most bugs arise:
+  * https://github.com/jupyterhub/binderhub/pull/847
 
 Issues and discussions raised by workshop participants:
-* https://github.com/jupyterhub/binderhub/pull/807
-* https://github.com/jupyterhub/binderhub/pull/808
-* https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1192
-* https://discourse.jupyter.org/t/repo2docker-make-it-easy-to-start-from-arbitrary-docker-image/502
+* Update the UI/UX to make clear Binder works with repos hosts other than GitHub:
+  * https://github.com/jupyterhub/binderhub/pull/807
+* Update the UI/UX to make selecting an interface (Notebook/JupyterLab/RStudio) easier:
+  * https://github.com/jupyterhub/binderhub/pull/808
+* Add documentation on deploying Kubernetes on Digital Ocean:
+  * https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1192
+* A discussion around launching a Binder from an arbitrary Docker image easier:
+  * https://discourse.jupyter.org/t/repo2docker-make-it-easy-to-start-from-arbitrary-docker-image/502
 
 As a result of her work building a Turing BinderHub, **Sarah Gibson** was invited to join the Binder operator team.
-* https://github.com/jupyterhub/mybinder.org-deploy/pull/936
-* https://github.com/jupyterhub/mybinder.org-deploy/pull/964
+
+* Updating mybinder.org to use the most recent version of repo2docker:
+  * https://github.com/jupyterhub/mybinder.org-deploy/pull/936
+  * https://github.com/jupyterhub/mybinder.org-deploy/pull/964
 
 ### Jupyter/Binder project meetings
 
