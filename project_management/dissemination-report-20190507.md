@@ -82,18 +82,18 @@ Becky Arnold, Turing Way project member and Software Sustainability Institute Fe
 
 The Turing Way team spread the word at several national and international conferences.
 
-- **Sarah Gibson** presented at the [UKRI Cloud Workshop](https://cloud.ac.uk/workshops/feb2019/) in London on 12 February 2019 ([markdown demonstration](conferences/presentations/UKRI_cloud_2019-02-12/UKRI_cloud_demo_2019-02-12.md)).
+- **Sarah Gibson** presented at the [UKRI Cloud Workshop](https://cloud.ac.uk/workshops/feb2019/) in London on 12 February 2019 ([markdown demonstration](../conferences/presentations/UKRI_cloud_2019-02-12/UKRI_cloud_demo_2019-02-12.md)).
   She also spoke as a member of the closing panel discussion.
 
-- **Kirstie Whitaker** presented at the Turing Health Conference on 8 March 2019 ([pdf slides](conferences/presentations/TuringHealthConference_20190308/Whitaker_TuringHealthConf_March2019.pdf), doi: [10.6084/m9.figshare.7819442](http://doi.org/10.6084/m9.figshare.7819442)).
+- **Kirstie Whitaker** presented at the Turing Health Conference on 8 March 2019 ([pdf slides](../conferences/presentations/TuringHealthConference_20190308/Whitaker_TuringHealthConf_March2019.pdf), doi: [10.6084/m9.figshare.7819442](http://doi.org/10.6084/m9.figshare.7819442)).
 
-- **Kirstie Whitaker** presented a poster at the Turing Institute's [Tools, Practices and Systems Scoping Workshop](https://www.turing.ac.uk/events/tools-practices-and-systems-data-science-and-artificial-intelligence-scoping-workshop) in Cambridge on 21 March 2019 ([pdf](conferences/presentations/TPS_ScopingWorkshop_20190321/Whitaker_TuringWayPoster_TPSScopingWorkshop.pdf), doi:[10.5281/zenodo.2598547](https://doi.org/10.5281/zenodo.2598547)).
+- **Kirstie Whitaker** presented a poster at the Turing Institute's [Tools, Practices and Systems Scoping Workshop](https://www.turing.ac.uk/events/tools-practices-and-systems-data-science-and-artificial-intelligence-scoping-workshop) in Cambridge on 21 March 2019 ([pdf](../conferences/presentations/TPS_ScopingWorkshop_20190321/Whitaker_TuringWayPoster_TPSScopingWorkshop.pdf), doi:[10.5281/zenodo.2598547](https://doi.org/10.5281/zenodo.2598547)).
 
-- **Kirstie Whitaker** presented _The Turing Way_ at the Software Sustainability Institute's [Collaborations Workshop](https://www.software.ac.uk/cw19) in Loughborough from 1 - 3 April 2019 ([pdf slides](conferences/presentations/CollabW19/Whitaker_CollabW19_April2019.pdf), doi:[10.5281/zenodo.2621279](https://doi.org/10.5281/zenodo.2621279)).
+- **Kirstie Whitaker** presented _The Turing Way_ at the Software Sustainability Institute's [Collaborations Workshop](https://www.software.ac.uk/cw19) in Loughborough from 1 - 3 April 2019 ([pdf slides](../conferences/presentations/CollabW19/Whitaker_CollabW19_April2019.pdf), doi:[10.5281/zenodo.2621279](https://doi.org/10.5281/zenodo.2621279)).
   **Kirstie** also ran a _Turing Way_ project on the hackday.
-  **Anna Krystalli** ran a "Checklist Manifesto" project, _Checklib_, on the hackday and gave a lightning talk on her idea ([pdf slides](conferences/presentations/CollabW19/CollabW19_AK_Checklist_Manifesto_2018-04-01.pdf), [project website](https://checklib.github.io/checklib) [GitHub repository](https://github.com/checklib/checklib)).
+  **Anna Krystalli** ran a "Checklist Manifesto" project, _Checklib_, on the hackday and gave a lightning talk on her idea ([pdf slides](../conferences/presentations/CollabW19/CollabW19_AK_Checklist_Manifesto_2018-04-01.pdf), [project website](https://checklib.github.io/checklib) [GitHub repository](https://github.com/checklib/checklib)).
 
-- **Patricia Herterich** presented at the [inaugural meeting of the UK network of Open Research Working Groups](https://sites.google.com/view/ukoswg19) at Aston University in Birmingham on 11 April 2019 ([pdf slides](conferences/presentations/UKOSWG19_20190411/Herterich_TheTuringWay.pdf), doi: [10.5281/zenodo.2634184](https://doi.org/10.5281/zenodo.2634184)).
+- **Patricia Herterich** presented at the [inaugural meeting of the UK network of Open Research Working Groups](https://sites.google.com/view/ukoswg19) at Aston University in Birmingham on 11 April 2019 ([pdf slides](../conferences/presentations/UKOSWG19_20190411/Herterich_TheTuringWay.pdf), doi: [10.5281/zenodo.2634184](https://doi.org/10.5281/zenodo.2634184)).
 
 - **Kirstie Whitaker** will present _The Turing Way_ as a keynote speaker at [csv,conf,v4](https://csvconf.com) in Portland, OR, USA on 8 - 9 May 2019.
 
@@ -105,13 +105,13 @@ The Turing Way team spread the word at several national and international confer
 
 ### Presentations within local networks
 
-- **Kirstie Whitaker** presented at the Cambridge Psychiatry PI Day on 30 January 2019 ([pdf slides](conferences/presentations/CambridgePsychiatry_PIDay_20190130/Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019.pdf), doi: [10.5281/zenodo.2634184](https://doi.org/10.5281/zenodo.2634184)).
+- **Kirstie Whitaker** presented at the Cambridge Psychiatry PI Day on 30 January 2019 ([pdf slides](../conferences/presentations/CambridgePsychiatry_PIDay_20190130/Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019.pdf), doi: [10.5281/zenodo.2634184](https://doi.org/10.5281/zenodo.2634184)).
 
-- **Patricia Herterich** presented at the University of Birmingham Hacker Within meeting on 18 February 2019 ([pdf slides](conferences/presentations/Bham_HackerWithin/TuringWay_HackerWithin.pdf), doi: [10.5281/zenodo.2634184](https://doi.org/10.5281/zenodo.2634184)).
+- **Patricia Herterich** presented at the University of Birmingham Hacker Within meeting on 18 February 2019 ([pdf slides](../conferences/presentations/Bham_HackerWithin/TuringWay_HackerWithin.pdf), doi: [10.5281/zenodo.2634184](https://doi.org/10.5281/zenodo.2634184)).
 
-- **Kirstie Whitaker** presented to the [Cambridge MRC Biostatistics Unit](https://www.mrc-bsu.cam.ac.uk/) on 20 March 2019 ([pdf slides](conferences/presentations/MRCBSU_20190320/Whitaker_MRCBSU_TheTuringWay_March2019.pdf), doi: [10.5281/zenodo.2599904](https://doi.org/10.5281/zenodo.2599904)).
+- **Kirstie Whitaker** presented to the [Cambridge MRC Biostatistics Unit](https://www.mrc-bsu.cam.ac.uk/) on 20 March 2019 ([pdf slides](../conferences/presentations/MRCBSU_20190320/Whitaker_MRCBSU_TheTuringWay_March2019.pdf), doi: [10.5281/zenodo.2599904](https://doi.org/10.5281/zenodo.2599904)).
 
-- **Sarah Gibson** presented to the Turing research engineering community about "Sharing Reproducible Computational Environments with Binder" on 30 April 2019 ([pdf slides](conferences/presentations/TuringResearchEngineering_TechTalk_20190430/binder_techtalk.pdf), doi: [10.5281/zenodo.2656598](https://doi.org/10.5281/zenodo.2656598)).
+- **Sarah Gibson** presented to the Turing research engineering community about "Sharing Reproducible Computational Environments with Binder" on 30 April 2019 ([pdf slides](../conferences/presentations/TuringResearchEngineering_TechTalk_20190430/binder_techtalk.pdf), doi: [10.5281/zenodo.2656598](https://doi.org/10.5281/zenodo.2656598)).
 
 All presentations are available on zenodo in our _Turing Way_ community: https://zenodo.org/communities/the-turing-way.
 
