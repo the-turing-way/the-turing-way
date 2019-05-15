@@ -128,6 +128,8 @@ Pull requests to update documentation raised by the _Turing Way_ team:
 * https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1256
 * https://github.com/jupyterhub/binderhub/pull/835
 * https://github.com/jupyter/repo2docker/pull/655
+* https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1258
+* https://github.com/jupyterhub/binderhub/pull/847
 
 Issues and discussions raised by workshop participants:
 * https://github.com/jupyterhub/binderhub/pull/807
@@ -136,6 +138,8 @@ Issues and discussions raised by workshop participants:
 * https://discourse.jupyter.org/t/repo2docker-make-it-easy-to-start-from-arbitrary-docker-image/502
 
 As a result of her work building a Turing BinderHub, **Sarah Gibson** was invited to join the Binder operator team.
+* https://github.com/jupyterhub/mybinder.org-deploy/pull/936
+* https://github.com/jupyterhub/mybinder.org-deploy/pull/964
 
 ### Jupyter/Binder project meetings
 
