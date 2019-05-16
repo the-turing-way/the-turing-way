@@ -16,7 +16,15 @@ Also, a reminder that everyone who participates in the Turing Way project is exp
 
 ## Networking evening
 
-[INFO to follow]
+We're looking forward to dining with you in a private room at the [Megaro Hotel](https://www.themegaro.co.uk).
+The kitchen need to order in the ingredients to cook up a delicious meal, so please pick your selection of dishes by the end of the day on Monday 20 May (sorry for the short turn around) through [this Google form](https://forms.gle/NsU76koETkaHfsLd8).
+
+Agenda for the evening will be as follows:
+6:30pm	Arrive at dinner venue   
+7:00pm	Dinner  
+8:30pm	Lightning talks  
+9:00pm	Drinks and networking   
+10:30pm Go home (get some sleep)  
 
 ### Lightning talks / elevator pitches
 We have scheduled some time for you to give lightning talks about projects you're working on or anything else you are excited about.
@@ -48,8 +56,8 @@ A Turing Way team member will be waiting in the lobby and escort you to the Turi
 
 ## Travel and accomodation
 
-We're in the process of booking travel and acoomodation for those of you who have asked for support. 
-The team or the Alan Turing Institute's travel agency will be in touch with details separately.
+Those who have asked for travel support should have received your train tickets separately.
+If you have asked for accommodation, we have booked you a room at the Megaro hotel where the networking dinner will be held.
 
 We look forward to seeing you in London!
 
