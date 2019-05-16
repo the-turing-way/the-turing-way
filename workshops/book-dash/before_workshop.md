@@ -17,7 +17,7 @@ Also, a reminder that everyone who participates in the Turing Way project is exp
 ## Networking evening
 
 We're looking forward to dining with you in a private room at the [Megaro Hotel](https://www.themegaro.co.uk).
-The kitchen need to order in the ingredients to cook up a delicious meal, so please pick your selection of dishes by the end of the day on Monday 20 May (sorry for the short turn around) through [this Google form](https://forms.gle/NsU76koETkaHfsLd8).
+The kitchen need to order in the ingredients to cook up a delicious meal, so **please pick your selection of dishes by the end of the day on Monday 20 May** (sorry for the short turn around) through [this Google form](https://forms.gle/NsU76koETkaHfsLd8).
 
 Agenda for the evening will be as follows:
 6:30pm	Arrive at dinner venue   
@@ -38,7 +38,7 @@ We are very excited that an illustrator from [scriberia](http://www.scriberia.co
 
 ### Getting to the venue
 
-We will start the book dash before the British Library officially opens at 9:30am so you will need to enter through Gate 8 of The British Library, the staff entrance on Midland Road opposite (one of the exits from) St Pancras station ([here are instructions on how to get to The Alan Turing Institute](https://www.turing.ac.uk/about-us/how-get-alan-turing-institute)). 
+We will start the book dash before the British Library officially opens at 9:30am so you will need to enter through Gate 8 of The British Library, the staff entrance on Midland Road opposite (one of the exits from) St Pancras station ([here are instructions on how to get to The Alan Turing Institute](https://whitakerlab.github.io/visit)). 
 Give your name at the security desk to receive your visitor pass for the day.
 A Turing Way team member will be waiting in the lobby and escort you to the Turing Institute.
 
@@ -58,6 +58,8 @@ A Turing Way team member will be waiting in the lobby and escort you to the Turi
 
 Those who have asked for travel support should have received your train tickets separately.
 If you have asked for accommodation, we have booked you a room at the Megaro hotel where the networking dinner will be held.
+
+If you want to get in touch ahead of the book dash, feel free to do so on our [gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) where you can join with your GitHub account. 
 
 We look forward to seeing you in London!
 
