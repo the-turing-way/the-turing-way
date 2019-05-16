@@ -19,7 +19,7 @@ Also, a reminder that everyone who participates in the Turing Way project is exp
 We're looking forward to dining with you in a private room at the [Megaro Hotel](https://www.themegaro.co.uk).
 The kitchen need to order in the ingredients to cook up a delicious meal, so **please pick your selection of dishes by the end of the day on Monday 20 May** (sorry for the short turn around) through [this Google form](https://forms.gle/NsU76koETkaHfsLd8).
 
-Agenda for the evening will be as follows:
+Agenda for the evening will be as follows:  
 6:30pm	Arrive at dinner venue   
 7:00pm	Dinner  
 8:30pm	Lightning talks  
