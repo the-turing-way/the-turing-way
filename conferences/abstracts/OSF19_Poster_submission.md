@@ -3,13 +3,21 @@ Open Science Fair 2019, September 16-18, Porto, Portugal
 
 *For Authors: remove text in italics and replace with your own content.*
 
-## Proposal title
+## The Turing Way: A handbook for reproducible data science 
 
 *Author 1 name, affiliation, email address; Author 2 name, affiliation, email address*
+
+The Turing Way, Alan Turing Institute; Rachael Ainsworth, University of Manchester, rachael.ainsworth@manchester.ac.uk
 
 ## Abstract
 
 *Summary of your proposal; maximum 300 words. The abstract should be a concise summary of the poster content, problem and the motivation for the work and the relation to the overall objective of the conference. Please copy and paste this into the submission system at the time of submission.*
+
+Reproducible research is necessary to ensure that scientific work can be trusted. Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code. The goal is to ensure that all results can be independently verified and built upon in future work, which is sometimes easier said than done. Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. 
+
+*The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do". It includes training material on version control, analysis testing, and open and transparent communication with future users, and builds on Alan Turing Institute case studies and workshops. This project is openly developed and any and all questions, comments and recommendations are welcome at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way. 
+
+During this session, we will lead a collaborative review of the content so far and show Open Science Fair participants how they can contribute their knowledge to make it even better going forwards. This demo relates to the overall theme of the conference, as the *Turing Way* provides the tools to improve research habits in a self-contained handbook. It will also ensure that PhD students, postdocs, PIs and funding teams know which parts of the "responsibility of reproducibility" they can affect, and what they should do to nudge data science to being more efficient, effective and understandable.
 
 ## Conference Themes
 
@@ -29,8 +37,8 @@ RRI and Open Science: bridging the gap
 *	Citizen Science and Public and Societal Engagement
 *	 Governance settings for Institutional embedded RRI and OS
 
-Training and skills for Open Science
-*	Sustaining Open Science training: people and resources
+__Training and skills for Open Science__
+*	__Sustaining Open Science training: people and resources__
 *	FAIR competences for Higher Education
 
 Policies, Evaluation and Legal issues
@@ -52,9 +60,13 @@ Value added data products/services from Open Science
 
 *List 3-4 key terms that describe the subject of the proposal.*
 
+Reproducibile research, data science, open science, open research.
+
 ## Audience
 
 *Identify the target audience. Some examples might be: Policy makers and funders, researchers, research Infrastructures and research communities, repository managers, publishers and content providers, libraries, research administrators, service providers and innovators.*
+
+Policy makers and funders, researchers, research Infrastructures and research communities, repository managers, publishers and content providers, libraries, research administrators.
 
 ## Poster content
 
