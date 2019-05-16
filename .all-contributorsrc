@@ -78,6 +78,16 @@
       ]
     },
     {
+      "login": "rjjgilham",
+      "name": "Richard Gilham",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/18323072?v=4",
+      "profile": "https://github.com/rjjgilham",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
+    },
+    {
       "login": "betatim",
       "name": "Tim Head",
       "avatar_url": "https://avatars1.githubusercontent.com/u/1448859?v=4",
@@ -113,6 +123,15 @@
       ]
     },
     {
+      "login": "SiccarPoint",
+      "name": "Dan Hobley",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6867260?v=4",
+      "profile": "http://spot.colorado.edu/~daho1668/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
       "login": "choldgraf",
       "name": "Chris Holdgraf",
       "avatar_url": "https://avatars1.githubusercontent.com/u/1839645?v=4",
@@ -132,6 +151,15 @@
         "example",
         "review",
         "ideas"
+      ]
+    },
+    {
+      "login": "longr",
+      "name": "Robin Long",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3597743?v=4",
+      "profile": "https://github.com/longr",
+      "contributions": [
+        "doc"
       ]
     },
     {
@@ -155,6 +183,15 @@
         "question",
         "tool",
         "ideas"
+      ]
+    },
+    {
+      "login": "BioStew",
+      "name": "Sarah Stewart",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/17767752?v=4",
+      "profile": "https://github.com/Biostew",
+      "contributions": [
+        "doc"
       ]
     },
     {
@@ -184,40 +221,107 @@
       ]
     },
     {
-      "login": "longr",
-      "name": "Robin Long",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/3597743?v=4",
-      "profile": "https://github.com/longr",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "rjjgilham",
-      "name": "rjjgilham",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/18323072?v=4",
-      "profile": "https://github.com/rjjgilham",
+      "login": "oforrest",
+      "name": "oforrest",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/49275282?v=4",
+      "profile": "https://github.com/oforrest",
       "contributions": [
         "doc",
         "ideas"
       ]
     },
     {
-      "login": "BioStew",
-      "name": "Sarah Stewart",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/17767752?v=4",
-      "profile": "https://github.com/Biostew",
+      "login": "GjjvdBurg",
+      "name": "Gertjan van den Burg",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3286696?v=4",
+      "profile": "http://gertjan.dev",
+      "contributions": [
+        "doc",
+        "ideas",
+        "question"
+      ]
+    },
+    {
+      "login": "hieuhoang",
+      "name": "Hieu Hoang",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/691732?v=4",
+      "profile": "http://www.hoang.co.uk/hieu",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "sje30",
+      "name": "Stephen Eglen",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1095067?v=4",
+      "profile": "http://damtp.cam.ac.uk/user/eglen",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "ajstewartlang",
+      "name": "Andrew Stewart",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/26226804?v=4",
+      "profile": "https://scholar.google.co.uk/citations?user=o0cD2JgAAAAJ&hl=en",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "trallard",
+      "name": "Tania Allard",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/23552331?v=4",
+      "profile": "http://www.bitsandchips.me",
+      "contributions": [
+        "ideas",
+        "question"
+      ]
+    },
+    {
+      "login": "ianhinder",
+      "name": "Ian Hinder",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/213274?v=4",
+      "profile": "https://ianhinder.net",
       "contributions": [
         "doc"
       ]
     },
     {
-      "login": "SiccarPoint",
-      "name": "Dan Hobley",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/6867260?v=4",
-      "profile": "http://spot.colorado.edu/~daho1668/",
+      "login": "tallamjr",
+      "name": "Tarek",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8843728?v=4",
+      "profile": "http://www.tarekallamjr.com",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "sdruskat",
+      "name": "Stephan Druskat",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3007126?v=4",
+      "profile": "http://sdruskat.net",
       "contributions": [
         "doc"
+      ]
+    },
+    {
+      "login": "seyhunsaral",
+      "name": "Ali Seyhun Saral",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11707417?v=4",
+      "profile": "http://www.saral.it",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jemrobinson",
+      "name": "James Robinson",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3502751?v=4",
+      "profile": "https://github.com/jemrobinson",
+      "contributions": [
+        "ideas",
+        "code"
       ]
     }
   ],

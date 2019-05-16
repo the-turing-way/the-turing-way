@@ -1,6 +1,6 @@
-# Risk Assessments- deciding how to manage your software
+# Risk Assessment - deciding how to manage your software
 
-## TL;DR 
+## TL;DR
 Use a risk assessment to help choose the appropriate sustainable software concepts for your project. Too little and your software is unsustainable; too much and you won’t be able to Get On With It. It can take just a few seconds, but gets you off on the right foot.
 
 ## Longer read…
@@ -48,4 +48,3 @@ Again, take a broad view of your software.
 
 ## In summary
 Understand your software and what it is used for. Knowing this helps you decide what sustainability concepts are appropriate for your needs. There are many tools and ecosystems that are commonly used to help you practice these concepts- github, Docker and many more. Read on to learn about these concepts and tools…
-
