@@ -82,18 +82,18 @@ Becky Arnold, Turing Way project member and Software Sustainability Institute Fe
 
 The Turing Way team spread the word at several national and international conferences.
 
-- **Sarah Gibson** presented at the [UKRI Cloud Workshop](https://cloud.ac.uk/workshops/feb2019/) in London on 12 February 2019 ([markdown demonstration](conferences/presentations/UKRI_cloud_2019-02-12/UKRI_cloud_demo_2019-02-12.md)).
+- **Sarah Gibson** presented at the [UKRI Cloud Workshop](https://cloud.ac.uk/workshops/feb2019/) in London on 12 February 2019 ([markdown demonstration](../conferences/presentations/UKRI_cloud_2019-02-12/UKRI_cloud_demo_2019-02-12.md)).
   She also spoke as a member of the closing panel discussion.
 
-- **Kirstie Whitaker** presented at the Turing Health Conference on 8 March 2019 ([pdf slides](conferences/presentations/TuringHealthConference_20190308/Whitaker_TuringHealthConf_March2019.pdf), doi: [10.6084/m9.figshare.7819442](http://doi.org/10.6084/m9.figshare.7819442)).
+- **Kirstie Whitaker** presented at the Turing Health Conference on 8 March 2019 ([pdf slides](../conferences/presentations/TuringHealthConference_20190308/Whitaker_TuringHealthConf_March2019.pdf), doi: [10.6084/m9.figshare.7819442](http://doi.org/10.6084/m9.figshare.7819442)).
 
-- **Kirstie Whitaker** presented a poster at the Turing Institute's [Tools, Practices and Systems Scoping Workshop](https://www.turing.ac.uk/events/tools-practices-and-systems-data-science-and-artificial-intelligence-scoping-workshop) in Cambridge on 21 March 2019 ([pdf](conferences/presentations/TPS_ScopingWorkshop_20190321/Whitaker_TuringWayPoster_TPSScopingWorkshop.pdf), doi:[10.5281/zenodo.2598547](https://doi.org/10.5281/zenodo.2598547)).
+- **Kirstie Whitaker** presented a poster at the Turing Institute's [Tools, Practices and Systems Scoping Workshop](https://www.turing.ac.uk/events/tools-practices-and-systems-data-science-and-artificial-intelligence-scoping-workshop) in Cambridge on 21 March 2019 ([pdf](../conferences/presentations/TPS_ScopingWorkshop_20190321/Whitaker_TuringWayPoster_TPSScopingWorkshop.pdf), doi:[10.5281/zenodo.2598547](https://doi.org/10.5281/zenodo.2598547)).
 
-- **Kirstie Whitaker** presented _The Turing Way_ at the Software Sustainability Institute's [Collaborations Workshop](https://www.software.ac.uk/cw19) in Loughborough from 1 - 3 April 2019 ([pdf slides](conferences/presentations/CollabW19/Whitaker_CollabW19_April2019.pdf), doi:[10.5281/zenodo.2621279](https://doi.org/10.5281/zenodo.2621279)).
+- **Kirstie Whitaker** presented _The Turing Way_ at the Software Sustainability Institute's [Collaborations Workshop](https://www.software.ac.uk/cw19) in Loughborough from 1 - 3 April 2019 ([pdf slides](../conferences/presentations/CollabW19/Whitaker_CollabW19_April2019.pdf), doi:[10.5281/zenodo.2621279](https://doi.org/10.5281/zenodo.2621279)).
   **Kirstie** also ran a _Turing Way_ project on the hackday.
-  **Anna Krystalli** ran a "Checklist Manifesto" project, _Checklib_, on the hackday and gave a lightning talk on her idea ([pdf slides](conferences/presentations/CollabW19/CollabW19_AK_Checklist_Manifesto_2018-04-01.pdf), [project website](https://checklib.github.io/checklib) [GitHub repository](https://github.com/checklib/checklib)).
+  **Anna Krystalli** ran a "Checklist Manifesto" project, _Checklib_, on the hackday and gave a lightning talk on her idea ([pdf slides](../conferences/presentations/CollabW19/CollabW19_AK_Checklist_Manifesto_2018-04-01.pdf), [project website](https://checklib.github.io/checklib) [GitHub repository](https://github.com/checklib/checklib)).
 
-- **Patricia Herterich** presented at the [inaugural meeting of the UK network of Open Research Working Groups](https://sites.google.com/view/ukoswg19) at Aston University in Birmingham on 11 April 2019 ([pdf slides](conferences/presentations/UKOSWG19_20190411/Herterich_TheTuringWay.pdf), doi: [10.5281/zenodo.2634184](https://doi.org/10.5281/zenodo.2634184)).
+- **Patricia Herterich** presented at the [inaugural meeting of the UK network of Open Research Working Groups](https://sites.google.com/view/ukoswg19) at Aston University in Birmingham on 11 April 2019 ([pdf slides](../conferences/presentations/UKOSWG19_20190411/Herterich_TheTuringWay.pdf), doi: [10.5281/zenodo.2634184](https://doi.org/10.5281/zenodo.2634184)).
 
 - **Kirstie Whitaker** will present _The Turing Way_ as a keynote speaker at [csv,conf,v4](https://csvconf.com) in Portland, OR, USA on 8 - 9 May 2019.
 
@@ -105,13 +105,13 @@ The Turing Way team spread the word at several national and international confer
 
 ### Presentations within local networks
 
-- **Kirstie Whitaker** presented at the Cambridge Psychiatry PI Day on 30 January 2019 ([pdf slides](conferences/presentations/CambridgePsychiatry_PIDay_20190130/Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019.pdf), doi: [10.5281/zenodo.2634184](https://doi.org/10.5281/zenodo.2634184)).
+- **Kirstie Whitaker** presented at the Cambridge Psychiatry PI Day on 30 January 2019 ([pdf slides](../conferences/presentations/CambridgePsychiatry_PIDay_20190130/Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019.pdf), doi: [10.5281/zenodo.2634184](https://doi.org/10.5281/zenodo.2634184)).
 
-- **Patricia Herterich** presented at the University of Birmingham Hacker Within meeting on 18 February 2019 ([pdf slides](conferences/presentations/Bham_HackerWithin/TuringWay_HackerWithin.pdf), doi: [10.5281/zenodo.2634184](https://doi.org/10.5281/zenodo.2634184)).
+- **Patricia Herterich** presented at the University of Birmingham Hacker Within meeting on 18 February 2019 ([pdf slides](../conferences/presentations/Bham_HackerWithin/TuringWay_HackerWithin.pdf), doi: [10.5281/zenodo.2634184](https://doi.org/10.5281/zenodo.2634184)).
 
-- **Kirstie Whitaker** presented to the [Cambridge MRC Biostatistics Unit](https://www.mrc-bsu.cam.ac.uk/) on 20 March 2019 ([pdf slides](conferences/presentations/MRCBSU_20190320/Whitaker_MRCBSU_TheTuringWay_March2019.pdf), doi: [10.5281/zenodo.2599904](https://doi.org/10.5281/zenodo.2599904)).
+- **Kirstie Whitaker** presented to the [Cambridge MRC Biostatistics Unit](https://www.mrc-bsu.cam.ac.uk/) on 20 March 2019 ([pdf slides](../conferences/presentations/MRCBSU_20190320/Whitaker_MRCBSU_TheTuringWay_March2019.pdf), doi: [10.5281/zenodo.2599904](https://doi.org/10.5281/zenodo.2599904)).
 
-- **Sarah Gibson** presented to the Turing research engineering community about "Sharing Reproducible Computational Environments with Binder" on 30 April 2019 ([pdf slides](conferences/presentations/TuringResearchEngineering_TechTalk_20190430/binder_techtalk.pdf), doi: [10.5281/zenodo.2656598](https://doi.org/10.5281/zenodo.2656598)).
+- **Sarah Gibson** presented to the Turing research engineering community about "Sharing Reproducible Computational Environments with Binder" on 30 April 2019 ([pdf slides](../conferences/presentations/TuringResearchEngineering_TechTalk_20190430/binder_techtalk.pdf), doi: [10.5281/zenodo.2656598](https://doi.org/10.5281/zenodo.2656598)).
 
 All presentations are available on zenodo in our _Turing Way_ community: https://zenodo.org/communities/the-turing-way.
 
@@ -122,20 +122,36 @@ All presentations are available on zenodo in our _Turing Way_ community: https:/
 As part of setting up a BinderHub and preparing the _Turing Way_ workshops, Sarah Gibson and workshop participants contributed a variety of issues and suggestions to the Binder projects.
 
 Pull requests to update documentation raised by the _Turing Way_ team:
-* https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1180
-* https://github.com/jupyterhub/binderhub/pull/804
-* https://github.com/jupyterhub/binderhub/pull/813
-* https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1256
-* https://github.com/jupyterhub/binderhub/pull/835
-* https://github.com/jupyter/repo2docker/pull/655
+* Updating the documentation around Helm (the package manager for Kubernetes):
+  * https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1180
+* Updating the documentation on setting up BinderHub to provide copy-pastable commands that should "just work", this makes it easier for users to follow along:
+  * https://github.com/jupyterhub/binderhub/pull/804
+* Clarify the use of the symbol `|` means "or" and is not a literal symbol to be included in configuration files for BinderHub:
+  * https://github.com/jupyterhub/binderhub/pull/813
+* Add instructions on how to manually scale a Kubernetes cluster to the Zero to JuptyerHub with Kubernetes documentation:
+  * https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1256
+* Updating and contributing to repo2docker's contribution guidelines and issue/bug report/feature request templates:
+  * https://github.com/jupyter/repo2docker/pull/655
+* Add a brand new set of documentation on how to deploy an autoscaling Kubernetes cluster on Azure:
+  * https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1258
+* Updating the debugging BinderHub documentation to discuss indentation levels of Helm charts, where most bugs arise:
+  * https://github.com/jupyterhub/binderhub/pull/847
 
 Issues and discussions raised by workshop participants:
-* https://github.com/jupyterhub/binderhub/pull/807
-* https://github.com/jupyterhub/binderhub/pull/808
-* https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1192
-* https://discourse.jupyter.org/t/repo2docker-make-it-easy-to-start-from-arbitrary-docker-image/502
+* Update the UI/UX to make clear Binder works with repos hosts other than GitHub:
+  * https://github.com/jupyterhub/binderhub/pull/807
+* Update the UI/UX to make selecting an interface (Notebook/JupyterLab/RStudio) easier:
+  * https://github.com/jupyterhub/binderhub/pull/808
+* Add documentation on deploying Kubernetes on Digital Ocean:
+  * https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/1192
+* A discussion around making the process of launching a Binder from an arbitrary Docker image easier:
+  * https://discourse.jupyter.org/t/repo2docker-make-it-easy-to-start-from-arbitrary-docker-image/502
 
 As a result of her work building a Turing BinderHub, **Sarah Gibson** was invited to join the Binder operator team.
+
+* Updating mybinder.org to use the most recent version of repo2docker:
+  * https://github.com/jupyterhub/mybinder.org-deploy/pull/936
+  * https://github.com/jupyterhub/mybinder.org-deploy/pull/964
 
 ### Jupyter/Binder project meetings
 
