@@ -19,9 +19,10 @@ cd book/website
 pip install -r requirements.txt
 ```
 
-If you want to see your local changes on your own computer you'll have to go in the website directory and enter `make serve` (type `make` on it's own to see the other options).
+If you want to see your local changes on your own computer you'll have to go in the website directory, install the relevant ruby plugins, and enter `make serve` (type `make` on it's own to see the other options).
 ```
 cd book/website
+bundle install
 make site && make serve
 ```
 
