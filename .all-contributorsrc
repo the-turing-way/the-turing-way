@@ -397,6 +397,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "gkiar",
+      "name": "Greg Kiar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4883288?v=4",
+      "profile": "http://gkiar.github.io",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
