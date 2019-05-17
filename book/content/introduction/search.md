@@ -1,0 +1,3 @@
+# Search page
+
+Dummy page that we'll add the search to before we turn it into a button on the sidebar...
