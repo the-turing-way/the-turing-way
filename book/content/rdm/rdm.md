@@ -91,8 +91,7 @@ You can prevent data loss by picking suitable storage solutions and backing your
 * *Portable storage media* such as memory sticks (USB sticks) are more risky and vulnerable to loss and damage.  
 * *Cloud storage* provides a convenient way to store, back and up and retrieve data. You should check terms of use before using them for your research data.  
 
-Especially if you are handling personal or sensitive data, you need to ensure the cloud option is compliant with any data protection rules the data is bound by.  
-To add an additional layer of security, you should encrypt devices and/or files where needed.
+Especially if you are handling personal or sensitive data, you need to ensure the cloud option is compliant with any data protection rules the data is bound by. To add an additional layer of security, you should encrypt devices and/or files where needed.
 
 Your institution might provide local storage solutions and policies or guidelines restricting what you can use. 
 Thus, we recommend you familiarise yourself with your local policies anc recommendations.
@@ -107,7 +106,7 @@ To avoid loosing your data, you should follow good backup practices.
 The more important the data and the more often the datasets change, the more frequently you should back them up.
 If your files take up a large amount of space and backing up all of them would be difficult or expensive, you may want to create a set of criteria for when you back up the data. This can be part of your data management plan.
 
-<a name=Spreadsheets"></a>
+<a name="Spreadsheets"></a>
 ### Data organisation in spreadsheets
 
 Spreadsheets, such as Microsoft Excel files, are commonly used to collect, store, manipulate, analyse, and share research data.
