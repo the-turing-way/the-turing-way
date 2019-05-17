@@ -1,6 +1,6 @@
-#Formatting your code to a particular style is super important
+\textit{Formatting your code to a particular style is super important
 Linting can be a little confusing though!
-This chapter can cover good practise for stying your code so that others can read and understand it easily.
+This chapter can cover good practise for stying your code so that others can read and understand it easily.}
 
 Coding Conventions
 Styles:
@@ -8,6 +8,14 @@ comment
 indent
 line length
 naming
+- CamelCase
+- lowerCamelCase
+- Underscore_Methods
+- Kebab-Case
+_ Mixed_Case_With_Underscores
+- lowercase
+
+Kebab wont work with some languages, such as R and python since this will be interpreted as a subtraction sign. 
 
 Each language has its own best-practice guidelines, and these will be available from the relevant websites.  The purpose of this chapter is to highlight the different ways that code can be structured.
 
