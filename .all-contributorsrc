@@ -323,6 +323,16 @@
         "ideas",
         "code"
       ]
+    },
+    {
+      "login": "yochannah",
+      "name": "Yo Yehudi",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9271438?v=4",
+      "profile": "http://yo-yehudi.com",
+      "contributions": [
+        "doc",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7
