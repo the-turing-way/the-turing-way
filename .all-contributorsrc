@@ -258,6 +258,71 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "ajstewartlang",
+      "name": "Andrew Stewart",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/26226804?v=4",
+      "profile": "https://scholar.google.co.uk/citations?user=o0cD2JgAAAAJ&hl=en",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "trallard",
+      "name": "Tania Allard",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/23552331?v=4",
+      "profile": "http://www.bitsandchips.me",
+      "contributions": [
+        "ideas",
+        "question"
+      ]
+    },
+    {
+      "login": "ianhinder",
+      "name": "Ian Hinder",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/213274?v=4",
+      "profile": "https://ianhinder.net",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "tallamjr",
+      "name": "Tarek",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8843728?v=4",
+      "profile": "http://www.tarekallamjr.com",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "sdruskat",
+      "name": "Stephan Druskat",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3007126?v=4",
+      "profile": "http://sdruskat.net",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "seyhunsaral",
+      "name": "Ali Seyhun Saral",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11707417?v=4",
+      "profile": "http://www.saral.it",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jemrobinson",
+      "name": "James Robinson",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3502751?v=4",
+      "profile": "https://github.com/jemrobinson",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
