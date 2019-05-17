@@ -239,45 +239,89 @@ They can then contribute these improvements back to the main project so the wide
 
 ### How running and contributing to open source software projects benefits you
 
-- Improve existing skills. Whether it’s coding, user interface design, graphic design, writing, or organizing, if you’re looking for practice, there’s a task for you on an open source software project. Further, open source necessitates cleaner, more maintainable code to enable collaboration between potentially thousands of people who may never meet. This helps to build and maintain good coding habits. Not to be underestimated are the people skills you can develop on open source software projects.
+- Improve existing skills.
+Whether it’s coding, user interface design, graphic design, writing, or organizing, if you’re looking for practice, there’s a task for you on an open source software project.
+Further, open source necessitates cleaner, more maintainable code to enable collaboration between potentially thousands of people who may never meet.
+This helps to build and maintain good coding habits.
+Not to be underestimated are the people skills you can develop on open source software projects.
+
 Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organising teams of people, and prioritising work.
-- Advance your career. By definition, all of your open source work is public and this presents opportunities:
-  - Demonstrate technical ability. Technical interviews traditionally involve working on a simulated problem that can be tackled in a set amount of time with little additional context. Such simulations, by definition, aren't real world use cases, nor do they show what working with an applicant would be like. Open source provides visibility into both how a candidate solves problems, and how they work with others. You make a much more appealing employee if an employer can see the quality of your work and see you working with others over a long period of time rather than taking a chance on a single short, high-stress case which may not play to your strengths.
-  - Reputation. Becoming an active member of the open source community can gain you a positive reputation which may bolster future job prospects.
-- Meet people who are interested in similar things. Open source software projects with warm, welcoming communities keep people coming back for years and many people form lifelong friendships through their participation in open source.
-- Find mentors and teach others. Working with others on a shared project means you’ll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+- Advance your career.
+By definition, all of your open source work is public and this presents opportunities:
+  - Demonstrate technical ability.
+Technical interviews traditionally involve working on a simulated problem that can be tackled in a set amount of time with little additional context.
+Such simulations, by definition, aren't real world use cases, nor do they show what working with an applicant would be like.
+Open source provides visibility into both how a candidate solves problems, and how they work with others.
+You make a much more appealing employee if an employer can see the quality of your work and see you working with others over a long period of time rather than taking a chance on a single short, high-stress case which may not play to your strengths.
+  - Reputation.
+Becoming an active member of the open source community can gain you a positive reputation which may bolster future job prospects.
+- Meet people who are interested in similar things.
+Open source software projects with warm, welcoming communities keep people coming back for years and many people form lifelong friendships through their participation in open source.
+- Find mentors and teach others.
+Working with others on a shared project means you’ll have to explain how you do things, as well as ask other people for help.
+The acts of learning and teaching can be a fulfilling activity for everyone involved.
 
 #### Making your own work open source
 
 - Making your work openly available for re-use makes it easier for others to incorporate into their own research. If you make your software citeable, for example via a [DOI](doi_system) this can increase your citations.
-- When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code. If your project is open the number of potentially contributing developers and thus the potential knowledge pool is orders of magnitude larger.
-- Feedback. Making your work open enables you to get feedback and improve your project in way you may never have thought of alone.
-- Accountability. There is an argument that any software developed using government money should be open source by default- if the public has paid for its development they have a right to make use of it. If your work is government funded making it open is a step you can take towards government openness and accountability.
+- When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code.
+If your project is open the number of potentially contributing developers and thus the potential knowledge pool is orders of magnitude larger.
+- Feedback.
+Making your work open enables you to get feedback and improve your project in way you may never have thought of alone.
+- Accountability.
+There is an argument that any software developed using government money should be open source by default- if the public has paid for its development they have a right to make use of it.
+If your work is government funded making it open is a step you can take towards government openness and accountability.
 
 #### Contributing to others' open source software projects
 
-- It’s empowering to be able to make changes, even small ones. You don’t have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source software project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
-- It's fun. Open source provides an endless, ever-changing set of Rubix cubes for you to solve on weekends. Just like puzzles, both crossword and jigsaw, open source provides bite-sized intellectual escapes.
+- It’s empowering to be able to make changes, even small ones.
+You don’t have to become a lifelong contributor to enjoy participating in open source.
+Have you ever seen a typo on a website, and wished someone would fix it? On an open source software project, you can do just that.
+Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+- It's fun.
+Open source provides an endless, ever-changing set of Rubix cubes for you to solve on weekends.
+Just like puzzles, both crossword and jigsaw, open source provides bite-sized intellectual escapes.
 
 ### How open source software benefits research
 
-Open source software projects primarily benefit research by allowing researchers to take advantage of each other's work. This enables researchers to apply their efforts to  high-value work. It is sometimes said that "all the easy problems have already been solved". Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few. While developers could spend their time reinventing wheels that the open source community have already perfected, it's far preferable to use the world's best wheel, especially when that wheel comes at no cost to you. This frees researchers up to work on yet-unsolved challenges. This reduces duplication of effort and allows researchers to focus on the work they're actually interested in.
+Open source software projects primarily benefit research by allowing researchers to take advantage of each other's work.
+This enables researchers to apply their efforts to  high-value work.
+It is sometimes said that "all the easy problems have already been solved".
+Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few.
+While developers could spend their time reinventing wheels that the open source community have already perfected, it's far preferable to use the world's best wheel, especially when that wheel comes at no cost to you.
+This frees researchers up to work on yet-unsolved challenges.
+This reduces duplication of effort and allows researchers to focus on the work they're actually interested in.
 
-Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups. Examples include [Linux](https://www.linux.org/) operating systems, Python packages such as [scipy](https://www.scipy.org/) and [numpy](http://www.numpy.org/), and the machine learning library [TensorFlow](https://www.tensorflow.org/).    
+Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups.
+Examples include [Linux](https://www.linux.org/) operating systems, Python packages such as [scipy](https://www.scipy.org/) and [numpy](http://www.numpy.org/), and the machine learning library [TensorFlow](https://www.tensorflow.org/).    
 
 ### How to run your own open source software project
 
-You can open source an idea, a work in progress, or after years of being closed source. At the most basic level all you need to do is put your code online somewhere that is likely to last a long time. You can make your code citeable by assigning it a DOI (as discussed in the section on [making data citeable](#citing_data)). This helps ensure that you get proper credit if people use or build upon your work.
+You can open source an idea, a work in progress, or after years of being closed source.
+At the most basic level all you need to do is put your code online somewhere that is likely to last a long time.
+You can make your code citeable by assigning it a DOI (as discussed in the section on [making data citeable](#citing_data)).
+This helps ensure that you get proper credit if people use or build upon your work.
 
-A popular place to make your code available is GitHub (see the chapter on version control). You must include a licence file stating that anyone has permission to use, copy and modify your work. Without this no one can legally use your work and so it isn't open source. [This](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best licence for your project. There are also a few other files you should include with your code:
+A popular place to make your code available is GitHub (see the chapter on version control).
+You must include a licence file stating that anyone has permission to use, copy and modify your work.
+Without this no one can legally use your work and so it isn't open source.
+[This](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best licence for your project.
+There are also a few other files you should include with your code:
 
 #### Welcome users by adding information to your README
 
-You should include a readme file where you include useful information about what the project is, how to use it and how to contribute to it. Here's a list of the main things a readme should include:
+You should include a readme file where you include useful information about what the project is, how to use it and how to contribute to it.
+Here's a list of the main things a readme should include:
 
-- The project name and what it is. This will greatly help someone that comes across it to get an idea of the project. Include a few key points that describe the main features of the project and what are the main features you're implementing.
-This helps to quickly compare other projects with yours and to give an idea that why the project exists in the first place.
-- Instructions on how to install the project. The installer might be a collaborator, someone that comes across and is interested in the project, or even you if you get a new machine and need to re-install your project. Nevertheless, it's a total waste of both of your resources to start figuring out how to just get started with the project. This should also include any prerequisites that will be needed to run the project.
+- The project name and what it is.
+This will greatly help someone that comes across it to get an idea of the project.
+Include a few key points that describe the main features of the project and what are the main features you're implementing.
+This helps to quickly compare other projects with yours and to give an idea on why the project exists in the first place.
+- Instructions on how to install the project.
+The installer might be a collaborator, someone that comes across and is interested in the project, or even you if you get a new machine and need to re-install your project.
+Nevertheless, it's a total waste of both of your resources to start figuring out how to just get started with the project.
+This should also include any prerequisites that will be needed to run the project.
+
 The best thing you can do is to just write up the installation instructions when you first do them yourself, and you'll quickly save hours of work in the future.
 - Instructions for how to run the code and any associated tests.
 If you've been working on your project it may seem obvious how to run it, but this will likely not be the case for someone coming across it for the first time.
@@ -289,22 +333,33 @@ If you intend for other people to collaborate on your project (as opposed to jus
 
 #### Contributing guidelines
 
-Contributing guidelines tell your audience how to participate in your project. For example, you might include information on:
+Contributing guidelines tell your audience how to participate in your project.
+For example, you might include information on:
 
 - How to file a bug report
 - How to suggest a new feature
 - Your roadmap or vision for the project
 - How contributors should (or should not) get in touch with you
 
-Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate. For example, [Active Admin](https://activeadmin.info/index.html) starts its [contributing guide](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) with: "First off, thank you for considering contributing to Active Admin. It’s people like you that make Active Admin such a great tool."
+Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+For example, [Active Admin](https://activeadmin.info/index.html) starts its [contributing guide](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) with: "First off, thank you for considering contributing to Active Admin.
+It’s people like you that make Active Admin such a great tool."
 
-In the earliest stages of your project, your contributing guidelines file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution. Over time, you might add other frequently asked questions here or in your readme file. Writing down this information means fewer people will ask you the same questions over and over again. It's also a good idea to link to your contributing guidelines file from your readme, so more people see it.
+In the earliest stages of your project, your contributing guidelines file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+Over time, you might add other frequently asked questions here or in your readme file.
+Writing down this information means fewer people will ask you the same questions over and over again.
+It's also a good idea to link to your contributing guidelines file from your readme, so more people see it.
 
 #### Code of conduct
 
-A code of conduct helps set ground rules for behaviour for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behaviour, which will reduce your stress as a maintainer. In addition to communicating how you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
+A code of conduct helps set ground rules for behaviour for your project's participants.
+This is especially valuable if you're launching an open source project for a community or company.
+A code of conduct empowers you to facilitate healthy, constructive community behaviour, which will reduce your stress as a maintainer.
+In addition to communicating how you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
 
-Much like open source licences, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters). No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
+Much like open source licences, there are also emerging standards for codes of conduct, so you don't have to write your own.
+The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters).
+No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
 
 Keep the file in your project's root directory so it's easy to find, and link to it from your readme.
 
@@ -313,17 +368,21 @@ Keep the file in your project's root directory so it's easy to find, and link to
 
 #### Anatomy of an open source software project
 
-Every open source community is different. That said, many open source software projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+Every open source community is different.
+That said, many open source software projects follow a similar organizational structure.
+Understanding the different community roles and overall process will help you get quickly oriented to any new project.
 
 A typical open source software project has the following types of people:
 
-- Author: The person/s or organization that created the project
-- Owner: The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
+- Author: The person/s or organization that created the project.
+- Owner: The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
 - Maintainers: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. They may also be authors and/or owners of the project.
 - Contributors: Everyone who has contributed something back to the project.
-- Community members: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
+- Community members: People who use the project.
+They might be active in conversations or express their opinion on the project’s direction.
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project’s website for a “team” page, or in the repository for governance documentation, to find this information.
+Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing.
+Look on a project’s website for a “team” page, or in the repository for governance documentation, to find this information.
 
 A great many open source projects are hosted on GitHub (see the chapter on version control for more detail), which has facilities such as:
 
@@ -336,17 +395,36 @@ A great many open source projects are hosted on GitHub (see the chapter on versi
 
 Say you've added a feature or fixed a bug and want to contribute this work to the main project.
 
-1. Read the documentation. The main project may have contributing guidelines or information in a readme instructing prospective contributors on how to supply their changes.
-2. Make sure your conventions match those of the main project, both in style and structure. For example if all the variables in a project are named in some particular way yours should be too! Consistent conventions make it much easier for someone who hasn't seen your piece of the project before to understand it rather than having to figure out your particular set of conventions *and* what the code is doing. The project's conventions may be outlined in its documentation, or may just be evident from inspection of the code itself.
-3. Break your changes up into manageable, well-defined chunks, e.g. if you've added two separate features don't submit them together. Keeping things "clean" in this way makes your work simpler to understand and review.
-4. Test your changes. If the project comes with tests run them, and make sure you're testing against an up to date version of the project as it may have evolved considerably over time. Write specific tests for your changes and submit those too.
-5. Don't just submit code- update any relevant documentation too. If your changes are incorporated it will have to be updated, if you don't do it someone else will have to.
-6. Ask questions. If there are things you are unsure about there's no harm in asking. Many larger projects have dedicated forums or other venues for questions and discussion.
-7. When you submit your changes clearly describe the changes you've made, why you've made them, and how they have been implemented. This makes it as easier for someone looking at your work and deciding whether to incorporate it into the main project to do so. In the likely case the main project is hosted on GitHub you should put this in the pull request (see the version control chapter for more details).
+1. Read the documentation.
+The main project may have contributing guidelines or information in a readme instructing prospective contributors on how to supply their changes.
+2. Make sure your conventions match those of the main project, both in style and structure.
+For example if all the variables in a project are named in some particular way yours should be too!
+Consistent conventions make it much easier for someone who hasn't seen your piece of the project before to understand it rather than having to figure out your particular set of conventions *and* what the code is doing.
+The project's conventions may be outlined in its documentation, or may just be evident from inspection of the code itself.
+3. Break your changes up into manageable, well-defined chunks, e.g. if you've added two separate features don't submit them together.
+Keeping things "clean" in this way makes your work simpler to understand and review.
+4. Test your changes.
+If the project comes with tests run them, and make sure you're testing against an up to date version of the project as it may have evolved considerably over time.
+Write specific tests for your changes and submit those too.
+5. Don't just submit code- update any relevant documentation too.
+If your changes are incorporated it will have to be updated, if you don't do it someone else will have to.
+6. Ask questions.
+If there are things you are unsure about there's no harm in asking.
+Many larger projects have dedicated forums or other venues for questions and discussion.
+7. When you submit your changes clearly describe the changes you've made, why you've made them, and how they have been implemented.
+This makes it as easier for someone looking at your work and deciding whether to incorporate it into the main project to do so.
+In the likely case the main project is hosted on GitHub you should put this in the pull request (see the version control chapter for more details).
 
 #### Looking for projects to contribute to and how to contribute to them
 
-You don’t need to overthink what exactly your first contribution will be, or how it will look. Instead, start by thinking about the projects you already use, or want to use. The projects you’ll actively contribute to are the ones you find yourself coming back to. Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct. You might scan a readme and find a broken link or a typo. Or you’re a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That’s what open source is all about!
+You don’t need to overthink what exactly your first contribution will be, or how it will look.
+Instead, start by thinking about the projects you already use, or want to use.
+The projects you’ll actively contribute to are the ones you find yourself coming back to.
+Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
+You might scan a readme and find a broken link or a typo.
+Or you’re a new user and you noticed something is broken, or an issue that you think should really be in the documentation.
+Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in.
+That’s what open source is all about!
 
 You can also use one of the following resources to help you discover and contribute to new projects:
 
@@ -356,7 +434,9 @@ You can also use one of the following resources to help you discover and contrib
 
 If you're not sure how to start here's a few other ways you can go about it such as finding an open issue to tackle or asking if you can help write a new feature.
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it’s often the other parts of a project that are most neglected or overlooked. You’ll do the project a huge favour by offering to pitch in with these types of contributions! You could:
+A common misconception about contributing to open source is that you need to contribute code.
+In fact, it’s often the other parts of a project that are most neglected or overlooked.
+You’ll do the project a huge favour by offering to pitch in with these types of contributions! You could:
 
 - Review code on other people’s submissions
 - Write and improve the project’s documentation
@@ -370,49 +450,98 @@ A common misconception about contributing to open source is that you need to con
 
 ### Closed software
 
-What if you're working with people that don't use the open source model for their software? This may initially seem an affront to all the principles discussed so far, but there are usually very good reasons for why things are the way they are (eg legal, commercial or security). Often, it will still be possible to use and contribute but the details of how might be different. The kinds of practices used in 'closed' software are generally the same and the concepts and tools you can learn about in the Turing Way still apply.
+What if you're working with people that don't use the open source model for their software?
+This may initially seem an affront to all the principles discussed so far, but there are usually very good reasons for why things are the way they are (e.g. legal, commercial or security).
+Often, it will still be possible to use and contribute but the details of how might be different.
+The kinds of practices used in 'closed' software are generally the same and the concepts and tools you can learn about in the Turing Way still apply.
 
-Sometimes, however, there might not be good reasons for the closed source approach. Different areas of research have different cultures which run against the grain of open principles and feel very frustrating. Tackling this barrier can be very tricky as cultures can take years or decades to change.
+Sometimes, however, there might not be good reasons for the closed source approach.
+Different areas of research have different cultures which run against the grain of open principles and feel very frustrating.
+Tackling this barrier can be very tricky as cultures can take years or decades to change.
 
-Working with closed software can offer both opportunities and threats to your research. In all cases, understanding and respecting other's perspectives offers the greatest chances of success.
+Working with closed software can offer both opportunities and threats to your research.
+In all cases, understanding and respecting other's perspectives offers the greatest chances of success.
 
 ## Open hardware
 
-"Open hardware," or "open source hardware," refers to the design specifications of a physical object which are licenced in such a way that said object can be studied, modified, created, and distributed by anyone. Like open source software, the "source code" for open hardware—schematics, blueprints, logic designs, Computer Aided Design (CAD) drawings or files, etc.—is available for modification or enhancement by anyone. Users with access to the tools that can read and manipulate these source files can update and improve the physical device and the code that underlies it, and, if they wish, proceed to share such modifications.
+"Open hardware," or "open source hardware," refers to the design specifications of a physical object which are licenced in such a way that said object can be studied, modified, created, and distributed by anyone.
+Like open source software, the "source code" for open hardware — schematics, blueprints, logic designs, Computer Aided Design (CAD) drawings or files, etc. — is available for modification or enhancement by anyone.
+Users with access to the tools that can read and manipulate these source files can update and improve the physical device and the code that underlies it, and, if they wish, proceed to share such modifications.
 
-Open hardware's source code should be readily accessible, and its components are preferably easy for anyone to obtain. Essentially, open hardware eliminates common roadblocks to the design and manufacture of physical goods; it provides as many people as possible the ability to construct, remix, and share their knowledge of hardware design and function.
+Open hardware's source code should be readily accessible, and its components are preferably easy for anyone to obtain.
+Essentially, open hardware eliminates common roadblocks to the design and manufacture of physical goods; it provides as many people as possible the ability to construct, remix, and share their knowledge of hardware design and function.
 
-It's worth noting that open hardware does not necessary mean free. Units may still be sold (by the original designer or by others), but users *could* build them from scratch. Whether or not they choose to buy the unit, users can still get a full understanding of how the hardware works from open documentation, designs, etc.  
+It's worth noting that open hardware does not necessary mean free.
+Units may still be sold (by the original designer or by others), but users *could* build them from scratch.
+Whether or not they choose to buy the unit, users can still get a full understanding of how the hardware works from open documentation, designs, etc.  
 
 
 ### Why open hardware?
 
 Open hardware allows researchers to understand exactly what their equipment is doing, how it's doing it, and to verify that is doing it correctly rather than having to extend a degree of trust. Being aware of how the equipment that generates a result works puts researchers on a firmer footing in assessing those results. Open hardware also makes research more reproducible as researchers looking to verify results can do the same thing.
 
-Other benefits of open hardware include protection against lock-in. Proprietary software for core infrastructure increases the risk of becoming locked in by the vendor or technology. If this happens, researchers can be at the mercy of vendors' price increases and experience a lack of flexibility they can't easily and readily escape. Further, if researchers want to modify their equipment to better suit their needs it is much easier to do so (and may only be legal) in the case of open source hardware.
+Other benefits of open hardware include protection against lock-in.
+Proprietary software for core infrastructure increases the risk of becoming locked in by the vendor or technology.
+If this happens, researchers can be at the mercy of vendors' price increases and experience a lack of flexibility they can't easily and readily escape.
+Further, if researchers want to modify their equipment to better suit their needs it is much easier to do so (and may only be legal) in the case of open source hardware.
 
 ### Elements of an open source hardware project
 
-Here are some files that you should consider sharing when publishing your open source hardware project. You are not required to post them all, but the more you share the more the community benefits. There is a lot of crossover here with files to include in open source software projects.
+Here are some files that you should consider sharing when publishing your open source hardware project.
+You are not required to post them all, but the more you share the more the community benefits.
+There is a lot of crossover here with files to include in open source software projects.
 
-- Overview / Introduction. Your open source hardware project should include a general description of the hardware’s identity and purpose, written as much as possible for a general audience. That is, explain what the project is and what it’s for before you get into the technical details. A good photo or rendering can help a lot here.
-- A licence. This grants legal permission to anyone to re-use, modify and distribute your designs and hardware acoring to the terms stated e.g. they must acknowledge your contribution.  
-- Original Design Files. These are the original source files that you would use to make modifications to the hardware’s design. The act of sharing these files is the core practice of open source hardware.
-  - Ideally, your open source hardware project would be designed using a free and open source software application, to maximize the ability of others to view and edit it. For better or worse however, hardware design files are often created in proprietary programs and stored in proprietary formats. It is still essential to share these original design files; they constitute the original “source code” for the hardware. They are the very files that someone will need in order to contribute changes to a given design.
-  - Try to make your design files easy for someone else to understand. Organize them in a logical way; comment complex aspects; note any unusual manufacturing procedures; etc.
+- Overview / Introduction.
+Your open source hardware project should include a general description of the hardware’s identity and purpose, written as much as possible for a general audience.
+That is, explain what the project is and what it’s for before you get into the technical details.
+A good photo or rendering can help a lot here.
+- A licence.
+This grants legal permission to anyone to re-use, modify and distribute your designs and hardware acoring to the terms stated e.g. they must acknowledge your contribution.  
+- Original Design Files.
+These are the original source files that you would use to make modifications to the hardware’s design.
+The act of sharing these files is the core practice of open source hardware.
+  - Ideally, your open source hardware project would be designed using a free and open source software application, to maximize the ability of others to view and edit it.
+For better or worse however, hardware design files are often created in proprietary programs and stored in proprietary formats.
+It is still essential to share these original design files; they constitute the original “source code” for the hardware.
+They are the very files that someone will need in order to contribute changes to a given design.
+  - Try to make your design files easy for someone else to understand.
+Organize them in a logical way; comment complex aspects; note any unusual manufacturing procedures; etc.
   - Examples of Original Design Files include 2D drawings and computer-aided design (CAD) files.
-- Auxiliary Design Files. Beyond the original design files, it is often helpful to share your design in additional, more accessible formats. For example, best practice open sourcing a CAD design is to share the design not just in its native file format, but also in a range of interchange and export formats that can be opened or imported by other CAD programs.
-  - It is also helpful to provide ready-to-view outputs that can easily be viewed by end users who wish to understand (but not necessarily modify) the design. For example, a PDF of a circuit board schematic. These auxiliary design files allow people to study the design of the hardware, and sometimes even fabricate it, even without access to particular proprietary software packages. However, note that auxiliary design files are never recommended as substitutes for original design files.
+- Auxiliary Design Files.
+Beyond the original design files, it is often helpful to share your design in additional, more accessible formats.
+For example, best practice open sourcing a CAD design is to share the design not just in its native file format, but also in a range of interchange and export formats that can be opened or imported by other CAD programs.
+  - It is also helpful to provide ready-to-view outputs that can easily be viewed by end users who wish to understand (but not necessarily modify) the design.
+For example, a PDF of a circuit board schematic.
+These auxiliary design files allow people to study the design of the hardware, and sometimes even fabricate it, even without access to particular proprietary software packages.
+However, note that auxiliary design files are never recommended as substitutes for original design files.
 - Additional technical drawings in their original formats, if required for fabrication of the device, in a commonly-readable format such as PDF.
-- Bill Of Materials. While it might be possible to infer from the design files which parts make up a piece of hardware, it is important to provide a separate bill of materials. This can be a spreadsheet (e.g. CSV, XLS, Google Doc) or simply a text file with one part per line.
-  - Useful things to include in the bill of materials are part numbers, suppliers, costs, and a short description of each part. Make it easy to tell which item in the bill of materials corresponds to which component in your design files: use matching reference designators in both places, provide a diagram indicating which part goes where, or otherwise explain the correspondence.
-- Software and Firmware. You should share any code or firmware required to operate your hardware. This will allow others to use it with their hardware or modify it along with their modifications to your hardware. Document the process required to build your software, including links to any dependencies (e.g. third-party libraries or tools). In addition, it’s helpful to provide an overview of the state of the software (e.g. “stable” or “beta” or “barely-working hack”).
-- Photos. Photos help people understand what your project is and how to put it together. It’s good to publish photographs from multiple viewpoints and at various stages of assembly. If you don’t have photos, posting 3D renderings of your design is a good alternative. Either way, it’s good to provide captions or text that explain what’s shown in each image and why’s it’s useful.
-- Instructions and Other Explanations. In addition to the design files themselves, there are a variety of explanations that are invaluable in helping others to make or modify your hardware:
-  - Making the hardware. To help others make and modify your hardware design, you should provide instructions for going from your design files to the working physical hardware. As part of the instructions, it’s helpful to link to datasheets for the components / parts of your hardware and to list the tools required to assemble it. If the design requires specialized tools, tell people where to get them.
-  - Using the hardware. Once someone has made the hardware, they need to know how to use it. Provide instructions that explain what it does, how to set it up, and how to interact with it.
-  - Design rationale. If someone wants to modify your design, they’ll want to know why it is the way it is. Explain the overall plan of the hardware’s design and why you made the specific choices you did.
-  - Keep in mind that these instructions may be read by someone whose expertise or training is different from yours. As much as possible, try to write to a general audience, and check your instructions for industry jargon, be explicit about what you assume the user knows, etc.
+- Bill Of Materials.
+While it might be possible to infer from the design files which parts make up a piece of hardware, it is important to provide a separate bill of materials.
+This can be a spreadsheet (e.g. CSV, XLS, Google Doc) or simply a text file with one part per line.
+  - Useful things to include in the bill of materials are part numbers, suppliers, costs, and a short description of each part.
+Make it easy to tell which item in the bill of materials corresponds to which component in your design files: use matching reference designators in both places, provide a diagram indicating which part goes where, or otherwise explain the correspondence.
+- Software and Firmware.
+You should share any code or firmware required to operate your hardware.
+This will allow others to use it with their hardware or modify it along with their modifications to your hardware. Document the process required to build your software, including links to any dependencies (e.g. third-party libraries or tools).
+In addition, it’s helpful to provide an overview of the state of the software (e.g. “stable” or “beta” or “barely-working hack”).
+- Photos.
+Photos help people understand what your project is and how to put it together.
+It’s good to publish photographs from multiple viewpoints and at various stages of assembly.
+If you don’t have photos, posting 3D renderings of your design is a good alternative.
+Either way, it’s good to provide captions or text that explain what’s shown in each image and why’s it’s useful.
+- Instructions and Other Explanations.
+In addition to the design files themselves, there are a variety of explanations that are invaluable in helping others to make or modify your hardware:
+  - Making the hardware.
+To help others make and modify your hardware design, you should provide instructions for going from your design files to the working physical hardware.
+As part of the instructions, it’s helpful to link to datasheets for the components / parts of your hardware and to list the tools required to assemble it.
+If the design requires specialized tools, tell people where to get them.
+  - Using the hardware.
+Once someone has made the hardware, they need to know how to use it.
+Provide instructions that explain what it does, how to set it up, and how to interact with it.
+  - Design rationale. If someone wants to modify your design, they’ll want to know why it is the way it is.
+Explain the overall plan of the hardware’s design and why you made the specific choices you did.
+  - Keep in mind that these instructions may be read by someone whose expertise or training is different from yours.
+As much as possible, try to write to a general audience, and check your instructions for industry jargon, be explicit about what you assume the user knows, etc.
   - The instructions could be in a variety of formats, like a wiki, text file, Google Doc, or PDF. Remember, though, that others might want to modify your instructions as they modify your hardware design, so it’s good to provide the original editable files for your documentation, not just output formats like PDF.
 
 ### Open source hardware processes and practices
