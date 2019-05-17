@@ -46,6 +46,8 @@
   url: version_control/version_control
 - title: Collaborating on GitHub/GitLab
   url: collaborating_github/collaborating_github
+- title: Credit for reproducible research
+  url: credit/credit
 - title: Research Data Management
   url: rdm/rdm
 - title: Reproducible Environments
