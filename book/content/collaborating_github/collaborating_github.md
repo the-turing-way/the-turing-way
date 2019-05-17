@@ -3,8 +3,8 @@
 
 ## Prerequisites/recommended skill level
 
-| Prerequisite | Importance | Notes |
-| -------------|----------|------|
+| Prerequisite | Importance |
+| -------------|----------|
 | [Experience with version control](/version_control/version_control) | Helpful |
 
 
