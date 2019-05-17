@@ -2,7 +2,7 @@
 
 Open research and its subcomponents fit under the umbrella of a broader concept- open scholarship.
 
-![open_umbrella](/assets/figures/open_umbrella.png)
+![open_umbrella](../../figures/open_umbrella.png)
 
 ### Open educational resources
 
