@@ -19,17 +19,17 @@ The following sections in this handbook provide useful context and complementary
 6. [Storage and backup](#Storage-backup)
     i. [Where to store data](#Where-store)
     ii. [Backups](#Backups)
-6. [Data organisation in spreadsheets](#Spreadsheets)
-7. [Documentation and metadata](#Documentation-Metadata)
-8. [Sharing and archiving data](#Sharing-Archiving)
+7. [Data organisation in spreadsheets](#Spreadsheets)
+8. [Documentation and metadata](#Documentation-Metadata)
+9. [Sharing and archiving data](#Sharing-Archiving)
     i. [Motivations for sharing data](#Motivations-Sharing)
     ii. [Steps to share your data](#Steps-Share)
     iii. [Barriers to data sharing](#Barriers-Share)
-9. [Checklist](#Checklist)
-10. [What to read next](#What-Next)
-11. [Further reading](#Further-Reading)
-12. [Glossary](#Glossary)
-13. [Bibliography](#Bibliography)
+10. [Checklist](#Checklist)
+11. [What to read next](#What-Next)
+12. [Further reading](#Further-Reading)
+13. [Glossary](#Glossary)
+14. [Bibliography](#Bibliography)
 
 <a name="Summary"></a>
 ## Summary 
@@ -51,19 +51,23 @@ Thus, this chapter lays out good data management practice to allow you to plan y
 <a name="What-Data"></a>
 ### What Is Data?
 
-In some fields it's obvious what data means - you have observations or results of simulations etc. However, in other fields, particularly in Social Sciences, Humanities or Arts, you may be thinking "I don't think I have any data". A good way of thinking about what might be classed as data that needs to be managed is to ask yourself the questions "What is the information that I need to write my paper or book?", "What information would I need to back up my conclusions?" and "What information is needed for someone else to replicate the research that I've done?". This information is your data.
+In some fields it's obvious what data means - you have observations or results of simulations etc. However, in other fields, particularly in Social Sciences, Humanities or Arts, you may be thinking "I don't think I have any data". 
+A good way of thinking about what might be classed as data that needs to be managed is to ask yourself the questions "What is the information that I need to write my paper or book?", "What information would I need to back up my conclusions?" and "What information is needed for someone else to replicate the research that I've done?". 
+This information is your data.
 
 <a name="Data-Lifecycle"></a>
 ### The Research Data Lifecycle - A Model for Data Management 
 
-Research data often follows a 'lifecycle' which follows the research project as it evolves. This model provides a useful basis on which to plan for research data management, from data creation at the start of a research project, through to publishing and sharing research at the end of the project, and archiving any research data for the long-term and for future re-use once the project has ended. 
+Research data often follows a 'lifecycle' which follows the research project as it evolves. 
+This model provides a useful basis on which to plan for research data management, from data creation at the start of a research project, through to publishing and sharing research at the end of the project, and archiving any research data for the long-term and for future re-use once the project has ended. 
 
 The research data lifecycle involves data creation, data use, data publication and sharing, data archiving and data re-use or destruction. 
 <a name="FAIR"></a>
 ### FAIR data 
 
 The FAIR data principles have been developed as guidelines to help make re-using data easier. 
-They refer to making data findable, accessible, interoperable and re-usable, all of which will support research reproducibility. Data should be:
+They refer to making data findable, accessible, interoperable and re-usable, all of which will support research reproducibility. 
+Data should be:
 * **Findable** with a unique persistent identifier and rich metadata
 * **Accessible** via a standard, open and free communication protocol 
 * **Interoperable** by using accessible, machine-readable formats and vocabularies 
@@ -106,13 +110,18 @@ If your files take up a large amount of space and backing up all of them would b
 <a name=Spreadsheets"></a>
 ### Data organisation in spreadsheets
 
-Spreadsheets, such as Microsoft Excel files, are commonly used to collect, store, manipulate, analyse, and share research data. Spreadsheets are convenient and easy-to-use tools for these tasks but are not amenable to reproducibility if used as dynamic documents. There is a collection of [horror-stories](http://www.eusprig.org/horror-stories.htm) that document the many ways that the use of spreadsheets have scuppered analyses due to unexpected behaviour or error-prone editing processes. Some of these mishaps are not unique to spreadsheets, but [many are](https://doi.org/10.1186/s13059-016-1044-7). 
+Spreadsheets, such as Microsoft Excel files, are commonly used to collect, store, manipulate, analyse, and share research data.
+Spreadsheets are convenient and easy-to-use tools for these tasks but are not amenable to reproducibility if used as dynamic documents.
+There is a collection of [horror-stories](http://www.eusprig.org/horror-stories.htm) that document the many ways that the use of spreadsheets have scuppered analyses due to unexpected behaviour or error-prone editing processes. 
+Some of these mishaps are not unique to spreadsheets, but [many are](https://doi.org/10.1186/s13059-016-1044-7). 
 
-Data manipulation and analysis in spreadsheets in particular is best avoided as, without version control, it can lead to non-reproducible workflows. By opening and editing raw data files directly by hand, for example to change values or perform calculations, the process by which new values are obtained is not properly documented, and you may accidentally over-write something or type in the wrong value only to notice after it's too late (or not at all). 
+Data manipulation and analysis in spreadsheets in particular is best avoided as, without version control, it can lead to non-reproducible workflows. 
+By opening and editing raw data files directly by hand, for example to change values or perform calculations, the process by which new values are obtained is not properly documented, and you may accidentally over-write something or type in the wrong value only to notice after it's too late (or not at all). 
 
 Even if these errors are avoided, if the spreadsheet is poorly organised then it may be difficult for collaborators to easily [read-in and re-use](#FAIR) your data for further analysis. 
 
-It's often not practical to avoid the use of spreadsheets altogether but there are some simple steps that can be taken to mitigate these flaws. The following principles, taken from Broman and Woo's 2018 [Data Organization in Spreadsheets](https://peerj.com/preprints/3183/) paper (and accompanying [website](https://kbroman.org/dataorg/)), provide some practical advice to ensure your data is clearly and consistently organised:
+It's often not practical to avoid the use of spreadsheets altogether but there are some simple steps that can be taken to mitigate these flaws. 
+The following principles, taken from Broman and Woo's 2018 [Data Organization in Spreadsheets](https://peerj.com/preprints/3183/) paper (and accompanying [website](https://kbroman.org/dataorg/)), provide some practical advice to ensure your data is clearly and consistently organised:
 
 * Be consistent
 * Write dates as YYYY-MM-DD
@@ -126,8 +135,6 @@ It's often not practical to avoid the use of spreadsheets altogether but there a
 * Make backups
 * Use data validation to avoid data entry mistakes
 * Save the data in plain text files
-
-
 
 <a name="Documentation-Metadata"></a>
 ### Documentation and metadata 
