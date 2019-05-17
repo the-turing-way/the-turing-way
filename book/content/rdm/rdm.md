@@ -103,6 +103,7 @@ Examples could include the [Brain Imaging Data Structure](https://github.com/bid
 - Data should be stored in logical and heirarchical folder structures with a README file used to describe the structure.
 The README file is helpful for others and will also help you find your data in the future. 
 (Fuchs & Kuusniemi, 2018)
+
 <a name="Sharing-Archiving"></a>
 ### Sharing and archiving data 
 <a name="Motivations-Sharing"></a>
