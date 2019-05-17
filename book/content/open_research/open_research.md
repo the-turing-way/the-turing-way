@@ -65,27 +65,34 @@ Recommended skill level: low.
 
 ## Summary
 
-Open research aims to transform research by making research more reproducible, transparent, re-usable, collaborative, accountable and closer to society. It pushes for change in the way that research is carried out and disseminated by digital tools. One definition of Open research, [as given by the Organisation for Economic Co-operation and Development (OECD)](https://www.fct.pt/dsi/docs/Making_Open_Science_a_Reality.pdf "Making Open Science a Reality, OECD Science, Technology and Industry Policy Papers No. 25"), is the practice of making "the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction”. In order to achieve this openness in research, each element of the research process should:
+Open research aims to transform research by making research more reproducible, transparent, re-usable, collaborative, accountable and closer to society.
+It pushes for change in the way that research is carried out and disseminated by digital tools.
+One definition of Open research, [as given by the Organisation for Economic Co-operation and Development (OECD)](https://www.fct.pt/dsi/docs/Making_Open_Science_a_Reality.pdf "Making Open Science a Reality, OECD Science, Technology and Industry Policy Papers No. 25"), is the practice of making "the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction”.
+In order to achieve this openness in research, each element of the research process should:
 
-- Be publicly available: it is difficult to use and benefit from knowledge hidden behind barriers such as passwords
-- Be reusable: research outputs need to be licenced appropriately so that prospective users know clearly any limitations on re-use
-- Be transparent and have appropriate metadata to provide clear statements of how research output was produced and what it contains
+- Be publicly available: It is difficult to use and benefit from knowledge hidden behind barriers such as passwords.
+- Be reusable: Research outputs need to be licenced appropriately so that prospective users know clearly any limitations on re-use.
+- Be transparent and have appropriate metadata to provide clear statements of how research output was produced and what it contains.
 
-The research process typically has the following form: data is collected, it is then analysed (usually using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process it is good practice for researchers to document their working in notebooks. Open research aims to make each of these elements open:
+The research process typically has the following form: data is collected, it is then analysed (usually using software). This process may involve the use of specialist hardware.
+The results of the research are then published.
+Throughout the process it is good practice for researchers to document their working in notebooks.
+Open research aims to make each of these elements open:
 
-- Open data - documenting and sharing research data openly for re-use
-- Open source software - documenting research code and routines, and making them freely accessible and available
-- Open hardware - documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available
-- Open access - making all published outputs freely accessible for maximum use and impact
-- Open notebooks - an emerging practice, documenting and sharing the experimental process of trial and error
+- Open data: Documenting and sharing research data openly for re-use.
+- Open source software: Documenting research code and routines, and making them freely accessible and available.
+- Open hardware: Documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available.
+- Open access: Making all published outputs freely accessible for maximum use and impact.
+- Open notebooks: An emerging practice, documenting and sharing the experimental process of trial and error.
 
 These elements are expanded upon in this chapter.
 
-Open scholarship is a concept that extends open research further. It relates to making other aspects of scientific research open to the public, e.g.
+Open scholarship is a concept that extends open research further.
+It relates to making other aspects of scientific research open to the public, e.g.
 
-- Open educational resources - making educational resources publicly available to be re-used and modified.
-- Equity, diversity, inclusion - ensuring scholarship is open to anyone without barriers based on factors such as race, gender, sexual orientation, etc.
-- Citizen science - the inclusion of members of the public in scientific research
+- Open educational resources: Making educational resources publicly available to be re-used and modified.
+- Equity, diversity, inclusion: Ensuring scholarship is open to anyone without barriers based on factors such as race, gender, sexual orientation, etc.
+- Citizen science: The inclusion of members of the public in scientific research (i.e. having public members in a steering committee).
 
 These elements are also discussed in detail in this chapter.
 
@@ -112,45 +119,75 @@ Another benefit of openness is that while research collaborations are essential 
 ## Open data
 
 The world is witnessing a significant global transformation, facilitated by technology and digital media, and fuelled by data and information. This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research.
- Only a very small proportion of the original data is published in conventional journals. Existing policies on data archiving notwithstanding, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public. This lack of data sharing is an obstacle to international research (be it academic, governmental or commercial) for two main reasons:
+Only a very small proportion of the original data is published in conventional journals. Existing policies on data archiving notwithstanding, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public.
+This lack of data sharing is an obstacle to international research (be it academic, governmental or commercial) for two main reasons:
 
 1. It is generally difficult or impossible to fully reproduce a study without the original data.
 2. The data cannot be reused or incorporated into new work by other researchers if they cannot obtain access to it.
 
-Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs. Open data is crucial to meeting these objectives.
+Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs.
+Open data is crucial to meeting these objectives.
 Open data is freely available on the internet and any user is permitted to download, copy, analyse, re-process, and re-use it for any other purpose with minimal financial, legal, and technical barriers.
-This represents a real shift in how research works. At the moment anyone who wishes to use data from a researcher often has to contact that researcher and make a request. "Open by default" turns this on its head and says that there should be a presumption of publication for all. If access to data is restricted, for instance due to security reasons, the justification for this should be made clear.
-Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default. So, how do you go about making your data open?
+This represents a real shift in how research works.
+At the moment anyone who wishes to use data from a researcher often has to contact that researcher and make a request.
+"Open by default" turns this on its head and says that there should be a presumption of publication for all.
+If access to data is restricted, for instance due to security reasons, the justification for this should be made clear.
+Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default.
+So, how do you go about making your data open?
 
 ### Steps to make your data open
 
 #### Step 1: Make your data available
 
-Put your data online. It should be easily discoverable and accessible, and made available without bureaucratic or administrative barriers, which can deter people from accessing the data. Choose a location to store the data which will ensure historical copies of datasets are preserved, archived, and kept accessible as long as they retain value. Whenever possible, researchers should provide data in its original, unmodified form.
+Put your data online.
+It should be easily discoverable and accessible, and made available without bureaucratic or administrative barriers, which can deter people from accessing the data.
+Choose a location to store the data which will ensure historical copies of datasets are preserved, archived, and kept accessible as long as they retain value.
+Whenever possible, researchers should provide data in its original, unmodified form.
 
-Data should be free of charge, under [an open licence](https://fossbytes.com/open-sources-license-type/), (for example, those developed by Creative Commons) so it can be reused and remixed by other researchers. The data should be available as a whole and at no more than a reasonable reproduction cost i.e. no expensive piece of software should be required to read the file as this may obstruct researchers who wish to work with the dataset.
+Data should be free of charge, under [an open licence](https://fossbytes.com/open-sources-license-type/), (for example, those developed by Creative Commons) so it can be reused and remixed by other researchers.
+The data should be available as a whole and at no more than a reasonable reproduction cost i.e. no expensive piece of software should be required to read the file as this may obstruct researchers who wish to work with the dataset.
 
 #### Step 2: Make your data easy to understand
 
-Having data available is of no use if it cannot be understood. For example, a table of numbers is useless if there are no headings which describe the contents of the rows and columns. Therefore you should ensure that open datasets include consistent core metadata, and that the data is fully described. This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
+Having data available is of no use if it cannot be understood.
+For example, a table of numbers is useless if there are no headings which describe the contents of the rows and columns. Therefore you should ensure that open datasets include consistent core metadata, and that the data is fully described.
+This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
 
 #### Step 3: Make your data easy to use
 
 The data should be made available in a modifiable, machine-readable format so that it can be effectively used and  manipulated.
-It is also important to think about the file formats that information is provided in. Data should be presented in structured and standardized formats to support interoperability, traceability, and effective reuse. In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people.
+It is also important to think about the file formats that information is provided in.
+Data should be presented in structured and standardized formats to support interoperability, traceability, and effective reuse.
+In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people.
 
 #### Step 4: Make your data citeable
 
-Data should be considered a legitimate, citable product of research. Making data citeable (and citing data yourself) facilitates the giving of scholarly credit; in scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited. Data citations facilitate identification of, access to, and verification of the specific data that support a claim, making it possible to reproduce the underlying analysis. You should ensure that anyone who wishes to cite a dataset that you host has access to a persistent identifier in order to do so.
+Data should be considered a legitimate, citable product of research.
+Making data citeable (and citing data yourself) facilitates the giving of scholarly credit; in scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited.
+Data citations facilitate identification of, access to, and verification of the specific data that support a claim, making it possible to reproduce the underlying analysis.
+You should ensure that anyone who wishes to cite a dataset that you host has access to a persistent identifier in order to do so.
 
-A data citation should include a persistent method for identification that is unique, and widely understandable by a community. There are several types of persistent identifier that could be used to identify datasets: examples include Handles, Archival Resource Keys (ARKs) and Persistent URLs (PURLs), all of which can be resolved to an Internet location. The scheme that is gaining most traction is the Digital Object Identifier (DOI).
+A data citation should include a persistent method for identification that is unique, and widely understandable by a community.
+There are several types of persistent identifier that could be used to identify datasets: examples include Handles, Archival Resource Keys (ARKs) and Persistent URLs (PURLs), all of which can be resolved to an Internet location.
+The scheme that is gaining most traction is the Digital Object Identifier (DOI).
 
 <a name="doi_system"></a>
-The DOI System is an identifier scheme administered by the International DOI Foundation. The task of managing DOI registers is delegated to registration agencies (list [here](http://www.doi.org/registration_agencies.html)) that each specialise in a type of resource. For research datasets, the registration agency is the [DataCite Consortium](https://www.datacite.org/). Among the services it provides are human and machine interfaces for simple end-user administration of DOI registrations. DataCite also collects metadata about each dataset it registers so they can be more easily understood and found. Any repository wishing to register DOIs needs to obtain a username and password from DataCite to gain access to the registration service. While best practice has yet to emerge on some matters, certain conventions are already becoming established:
+The DOI System is an identifier scheme administered by the International DOI Foundation.
+The task of managing DOI registers is delegated to registration agencies (list [here](http://www.doi.org/registration_agencies.html)) that each specialise in a type of resource.
+For research datasets, the registration agency is the [DataCite Consortium](https://www.datacite.org/).
+Among the services it provides are human and machine interfaces for simple end-user administration of DOI registrations.
+DataCite also collects metadata about each dataset it registers so they can be more easily understood and found.
+Any repository wishing to register DOIs needs to obtain a username and password from DataCite to gain access to the registration service.
+While best practice has yet to emerge on some matters, certain conventions are already becoming established:
 
-When organisations register a DOI for a resource, they should not introduce semantic elements into the suffix, especially not metadata that might change over time (e.g. publisher, archive, owner). Assign identifiers to static datasets only when no further changes or corrections are expected (i.e. after quality control checks are complete). As DOIs are used to cite data as evidence, the resource to which a DOI points should also remain unchanged, with any new version receiving a new DOI.
+When organisations register a DOI for a resource, they should not introduce semantic elements into the suffix, especially not metadata that might change over time (e.g. publisher, archive, owner).
+Assign identifiers to static datasets only when no further changes or corrections are expected (i.e. after quality control checks are complete).
+As DOIs are used to cite data as evidence, the resource to which a DOI points should also remain unchanged, with any new version receiving a new DOI.
 
-Whichever identifier scheme you pick make sure it allows the identifier to be resolved to a URL. This URL should belong to a landing page that contains descriptive information about the dataset, as well as links or instructions for accessing it. You should also ensure that datasets are made citable and identifiable at an appropriate level of granularity, i.e. it would be no use citing CERN's entire data repository as someone attempting to reproduce your work would not be able to find the data used in a specific piece of work without considerable difficulty. Where possible you should be able to cite the data used, and only the data used.
+Whichever identifier scheme you pick make sure it allows the identifier to be resolved to a URL.
+This URL should belong to a landing page that contains descriptive information about the dataset, as well as links or instructions for accessing it.
+You should also ensure that datasets are made citable and identifiable at an appropriate level of granularity, i.e. it would be no use citing CERN's entire data repository as someone attempting to reproduce your work would not be able to find the data used in a specific piece of work without considerable difficulty.
+Where possible you should be able to cite the data used, and only the data used.
 
 ### Barriers to data sharing
 
