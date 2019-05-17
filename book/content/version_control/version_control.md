@@ -100,7 +100,7 @@ In lots of version control systems you will be able to add a comment explaining 
 
 ### Other facilities offered by version control
 
-So you have your project and you want to add new or something or try something out. With version control you can make a branch to do this work on. Any work you do on your branch won't be present on your main project (referred to as your master branch) so it remains nice and safe and you can continue to work on it. Once you're happy with your New Thing you can 'merge' your branch back into your master copy.
+So you have your project and you want to add something new or try something out. With some of the more advanced version control systems (for example Git) you can make a branch to do this work on. Any work you do on your branch won't be present on your main project (referred to as your master branch) so it remains nice and safe and you can continue to work on it. Once you're happy with your New Thing you can 'merge' your branch back into your master copy.
 
 ![one_branch](/assets/figures/one_branch.png)
 
@@ -112,7 +112,7 @@ If you want you can even have branches off of branches (and branches off of thos
 
 ![sub_branch](/assets/figures/sub_branch.png)
 
-No matter how many branches you have you can access past commits you made on any of them.
+No matter how many branches you have you can access past savepoints you made on any of them.
 
 ## Why should you use version control?
 
