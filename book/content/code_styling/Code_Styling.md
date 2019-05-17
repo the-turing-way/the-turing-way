@@ -32,10 +32,12 @@ Correct naming has a two-fold benefit.  The first is that it allows you to commu
 
 The style that you use is down to preference, however it is important to stick to it, and to ensure that your collaborators are using the same style.  Style includes: variable naming; use of whitespace; 
 
+```
 ThisIs Because_Switching 
 	betweenDifferent 
 	formats is.difficult 
 		to read.
+```
 
 Where_as if_you stick_to one_style, your_code will_be easier_to follow!
 
@@ -58,6 +60,7 @@ The functional importance of whitespace depends on the programming language you 
 
 In R
 
+```
 if(x==y){print("Hello world")}
 
 However, adding whitespace to the R version makes the function easier to read:
@@ -70,12 +73,14 @@ if(x == y){
 print("Hello world")
 
 }
+```
 
 In Python, there are no brackets, so you need to be aware of how much whitespace is used.
 
+```
 if x == y:
 	print "hello world"
-
+```
 
 Adding whitespace to your
 
