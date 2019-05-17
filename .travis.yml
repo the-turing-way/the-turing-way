@@ -13,7 +13,7 @@ before_script:
 script: 
     - bash ./scripts/test-file-size.sh
     - cd ./book/website
-    - bundle install jekyll
+    - gem install jekyll 
     - bash ./scripts/html-proof.sh
 
 
