@@ -3,9 +3,9 @@
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
 | [Version control](/version_control/version_control) | Necessary | See the chapter on this for more information |
-| [Testing](/testing/testing) | Very helpful | See the chapter on this for more information  |
 | [Reproducible computational environments](/reproducible_environments/reproducible_environments) | Necessary | See the chapter on this for more information, particularly the sections on YAML files and containers |
 | [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary |
+| [Testing](/testing/testing) | Very helpful | See the chapter on this for more information  |
 
 ## Table of contents
 
