@@ -1,5 +1,7 @@
 # Machine Learning
 
+https://hackmd.io/s/r1v4BWnn4
+
 ## Prerequisites / recommended skill level
 > other chapters that should have been read before or content you should be familiar with before you read this
 
