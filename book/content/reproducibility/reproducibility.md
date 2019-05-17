@@ -4,7 +4,7 @@
 No previous knowledge needed.
 
 ## Summary
-There are several definitions of reproducibility in use, and we discuss these in more detail in in the [definitions](../03/definitions.md) section of this chapter.
+There are several definitions of reproducibility in use, and we discuss these in more detail in in the [definitions](03/definitions.md) section of this chapter.
 _The Turing Way_ defines reproducibility as data and code being available to fully rerun the analysis.
 This chapter will lay out why reproducibility is important for science and scientists, provide an overview of the most common definitions and define reproducibility for the context of this handbook.
 
