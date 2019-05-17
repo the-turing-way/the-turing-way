@@ -1,0 +1,4 @@
+language: minimal
+script: 
+    - bash ./scripts/test-file-size.sh
+    
