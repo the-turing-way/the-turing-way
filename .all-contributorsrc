@@ -388,6 +388,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "joe-fennell",
+      "name": "joe-fennell",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/25105262?v=4",
+      "profile": "https://github.com/joe-fennell",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
