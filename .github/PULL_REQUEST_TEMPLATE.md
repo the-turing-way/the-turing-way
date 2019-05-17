@@ -3,9 +3,9 @@ Please complete the following sections when you submit your pull request. You ar
 -->
 ### Summary
 
-<!-- Describe the problem you're trying to fix in this pull request. Please reference any related issue and use fixes/close to automatically close them, if pertinent -->
+<!-- Describe the problem you're trying to fix in this pull request. Please reference any related issue and use fixes/close to automatically close them, if pertinent. For example: "Fixes #58", or "Addresses (but does not close) #238". -->
 
-Fixes #<NUM> <!-- (e.g. Fixes #58.) -->
+Fixes #<NUM>
 
 *Lorem ipsum dolor sit amet, consectetur adipiscing.*
 
