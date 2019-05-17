@@ -14,11 +14,11 @@ before_script:
     - source ~/virtualenv/python3.6.3/bin/activate
     - python --version # to debug
     - pip install -r ./book/website/requirements.txt
+    - pip install -u attrs pytest
 
 script: 
     - bash ./scripts/test-file-size.sh
     - cd ./book/website
-    - bundle install
     - bash ./scripts/html-proof.sh
 
 
