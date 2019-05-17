@@ -7,6 +7,7 @@ rvm:
 script: 
     - bash ./scripts/test-file-size.sh
     - cd ./book/website
+    - bundle install
     - bash ./scripts/html-proof.sh
 
 
