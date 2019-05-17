@@ -104,7 +104,24 @@ It's perfectly possible to cite a dataset or software package directly, and most
 -->
 
 ## Checklist
-> this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
+
+### For authors
+
+- Pick out key datasets and software your conclusions rely on
+- Cite data and software just like you would cite a paper
+- Publish your own data/software and cite that too!
+
+### For data creators
+
+- Deposit your data in a stable repository
+- Get a persistent identifier (DOI) for your data
+- Include an example citation in your dataset's README file
+
+### For software developers
+
+- Deposit key version snapshots of your software in a stable repository
+- Get a distinct persistent identifier for each key version
+- Include an example citation in your software manual
 
 ## What to learn next
 > recommended next chapters that are a good next step up
