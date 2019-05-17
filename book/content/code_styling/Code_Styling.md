@@ -1,27 +1,31 @@
 # Writing Clear and (Human) Readable Code
+
 ## Introduction
-Have you ever opened a syntax or script file two years after running an analysis, only to find that not only have you no memory of the code, but you've forgotten the language too?
-On top of this you have a load of comments, such as "# Add this later", or "# WHAT WAS I THINKING???", and variables of "df_1_new", "new_dat_4_r".  If you have a larger project, perhaps your filenames include "dat_analsis_1_FINAL_.R" and "data_analysis_2_FINAL_2.R"?
+
+Have you ever opened a syntax or script file two years after running an analysis to not only find that  you have no memory of the code, but you've forgotten the language too?
+On top of this you may have a load of comments, such as "# Add support later", or "#WHAT WAS I THINKING???", and variables of "df_1_new", "new_dat_4_r".  If you have a larger project, perhaps your filenames include "dat_analsis_1_FINAL_.R" and "data_analysis_2_FINAL_2.R"?
 
 This is frustrating enough when it is just you reading back on it, but imagine cloning these files from github, or the Open Science Framework.
+Not only would you have no memory of what was meant, but you would have never known in the first place!
 
-Not only do you have no memory of what was meant, but you never knew in the first place!
-
-This chapter aims to introduce some principals of code hygine, including style, naming conventions, creating useful comments, and will briefly discuss the concept of *linting*, which is a real time error checking process that many integrated development environments (IDE) include.
+This chapter aims to introduce some principals of code hygine, otherwise known as *linting*, including style, naming conventions, and creating useful comments.  Some integrated development environments (IDE) include automatic linting, and there are also packages in Python that will lint for you (e.g. [autopep8](https://pypi.org/project/autopep8/).
 Keeping this advice in mind will help you create reusable, and easily adaptable code.
+Indeed, point 7 of the [Zen of Python](https://www.python.org/dev/peps/pep-0020/) is:
+>Readability Counts
 
 ## Code Styling
 
-Style guidelines differ between organisations, languages, and over time ^[The Python style guide (PEP) is now in its 8th edition.].
+Style guidelines differ between organisations, languages, and over time ^[The Python style guide (Python Enhancement Proposal 8) has had numerous revisions since it was released in 2001.].
 It is important that you work to a framework that is best for your purposes, bearing in mind that consistency makes for easier reading and understanding.
 
 Style guidelines include advice for file naming, variable naming, comments, and the use of whitespace and brackets.
 For examples of style guides, follow the following links:
 
-* [PEP8](https://www.python.org/dev/peps/pep-0008/) for Python
-* [Hadley Wickham's](http://adv-r.had.co.nz/Style.html) style guide for R
-* [Google's](https://google.github.io/styleguide/Rguide.xml) style guide for R
+* [PEP8](https://www.python.org/dev/peps/pep-0008/) for Python.
+* [Hadley Wickham's](http://adv-r.had.co.nz/Style.html) style guide for R.
+* [Google's](https://google.github.io/styleguide/Rguide.xml) style guide for R.
 * [Microsoft's](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) style guide for C#.
+* [PEP7](https://www.python.org/dev/peps/pep-0007/) for C.
 
 ## File Naming
 
