@@ -118,10 +118,10 @@ Some of these mishaps are not unique to spreadsheets, but [many are](https://doi
 Data manipulation and analysis in spreadsheets in particular is best avoided as, without version control, it can lead to non-reproducible workflows. 
 By opening and editing raw data files directly by hand, for example to change values or perform calculations, the process by which new values are obtained is not properly documented, and you may accidentally over-write something or type in the wrong value only to notice after it's too late (or not at all). 
 
-Even if these errors are avoided, if the spreadsheet is poorly organised then it may be difficult for collaborators to easily [read-in and re-use](#FAIR) your data for further analysis. 
+Even if these errors are avoided, if the spreadsheet is poorly organised then it may be [difficult for collaborators](https://luisdva.github.io/pls-don't-do-this/) to easily [read-in and re-use](#FAIR) your data for further analysis. 
 
-It's often not practical to avoid the use of spreadsheets altogether but there are some simple steps that can be taken to mitigate these flaws. 
-The following principles, taken from Broman and Woo's 2018 [Data Organization in Spreadsheets](https://peerj.com/preprints/3183/) paper (and accompanying [website](https://kbroman.org/dataorg/)), provide some practical advice to ensure your data is clearly and consistently organised:
+It's often not practical to avoid the use of spreadsheets altogether but there are some simple steps that can be taken to mitigate their flaws. 
+The following principles, taken from [Data Organization in Spreadsheets](https://peerj.com/preprints/3183/) (Broman and Woo, 2018), provide some practical advice to ensure your data is clearly organised and human- and machine-readable:
 
 * Be consistent
 * Write dates as YYYY-MM-DD
@@ -135,6 +135,8 @@ The following principles, taken from Broman and Woo's 2018 [Data Organization in
 * Make backups
 * Use data validation to avoid data entry mistakes
 * Save the data in plain text files
+
+
 
 <a name="Documentation-Metadata"></a>
 ### Documentation and metadata 
@@ -274,6 +276,8 @@ If you haven't read the chapter on Open Research yet, you might want to read it 
 
 * Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 Available at http://data.europa.eu/eli/reg/2016/679/oj
+
+* Karl Broman & Kara Woo (2018). Data Organization in Spreadsheets. The American Statistician 78:2–10. https://doi.org/10.1080/00031305.2017.1375989 (accessible pre-print: https://peerj.com/preprints/3183/)
 
 * Kuula, A. (2010). Methodological and ethical dilemmas of archiving qualitative data. IASSIST Quarterly, 34(3/4), 35. Available at http://www.iassistdata.org/sites/default/files/iqvol34_35_kuula.pdf 
 
