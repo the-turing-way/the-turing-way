@@ -6,6 +6,7 @@ rvm:
 
 script: 
     - bash ./scripts/test-file-size.sh
+    - cd ./book/website
     - bash ./scripts/html-proof.sh
 
 
