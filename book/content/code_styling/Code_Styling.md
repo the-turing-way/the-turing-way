@@ -36,40 +36,43 @@ data <- read.csv("2019-05-17_Turing-Way_Book-Dash.csv")
 ```
 
 ## Variable Naming
-Unlike in school maths projects where variables are usually unimaginatively called "x","y", and "z", coding variables can be called anything, and this can be useful for representing the flow of your script.  Be creative!
+Unlike in school maths projects where variables are usually unimaginatively called "x","y", and "z", coding variables can be called anything, and this can be useful for representing the flow of your script.
+Be creative!
 ```
-raw_data <- read.csv("data.csv")
+raw_data <- read.csv("data.csv") # Not very creative
 rawData <- read.csv("data.csv")
 
-``
+```
 You may have a function that recodes a variable:
 
 ```
-x <- recode(x)
-
+rawDat <- recode(rawDat)
 ```
 Provides no information about the process that x has been through.  Storing it as a separate variable lets us see what transformations have been carried out on the original variable:
 
 ```
-x_recoded <- recode(x)
+rawDat_recoded <- recode(rawDat)
 remove(x)
 ```
-## Commenting
-Comments has been described as "Love letter to your future self"^[Jon Peirce, developer of PsychoPy]. Keeping clear and concise comments not only allows you to keep track of the decisions you have made, what particular functions do, and what variables are used, it also allows other people to see your thought processes.
-The syntax for comments varies with programming languages.  in R and Python, a hashtag is used, whereas in C#, double back-slash is used.
 
-For shorter comments, you can keep them in-line:
+## Commenting
+
+Comments can be blocked or inline.  The PEP8 guidelines have firm suggestions that block comments should be full sentences, have two spaces following a period, and follow a dated style guide(Strunk and White^[Fortunately the Elements of Style no longer requires an emphasis on masculine pro-nouns.], whereas inline comments should be used sparingly.
+Comments have been described as "Love letters to your future self"^[Jon Peirce, developer of PsychoPy].
+Keeping clear and concise comments not only allows you to keep track of the decisions you have made, what particular functions do, and what variables are used, it also allows other people to see your thought processes.
+The syntax for comments varies with programming languages.
+In R and Python, a hashtag is used, whereas in C#, double back-slash is used.
 
 ```{r}
-times = 10 # Set variable times to the integer 10
+times = 10 # Set integer
 my_variable = "my variable is %s times better than yours" %times #Set my_variable to a string
-print(my_variable) #prints the value
+print(my_variable) #print the value
 ```
 
 For longer comments, information can be included above the code block.
 
 ```{r}
-#The following function takes a number, multiplies it be 5, and minuses 2.  This may seem pointless, but is simple for the purpose of demonstration.
+#The following function takes a number, multiplies it be 5, and subtracts 2.  This may seem pointless, but is simple for the purpose of demonstration.
 
 my_func = function(number){ #R function
 
@@ -84,10 +87,28 @@ def myfunc(numb): #python function
 print(myfunc(8))
 
 ```
-indent
-line length
+## Line Length
+There is some agreement on the length of coding lines.
+PEP8 suggests a maximum of 79 characters per line, and 80 by the R style guide.
+This means that the lines can easily fit on a screen, and multiple coding windows can be opened.
 
-naming
+## Indentation
+The R style guide suggests that lines should be separated:
+```
+by
+  two spaces
+```
+And not a mixture of tabs and spaces.
+Obviously, sometimes the arguments of a function can far expand 80 characters.
+In this case, it is recommended that the second line be indented to the start of the arguments:
+
+```
+my_variable <- a_really_long_function(data = "2019-05-17_Long_File_Name_2",
+                                      header = TRUE, verbose = TRUE)
+
+```
+Naming conventions
+
 - CamelCase
 - lowerCamelCase
 - Underscore_Methods
@@ -143,7 +164,9 @@ Linting?
 
 Linting is error checking on the fly - it will check your syntax as you code and will show you where certain errors are, such as mismatched brackets, missing commas etc.
 
-Linting is often indicated using underlining of potential problems (much like a spell checker).  Until all of the underlining has disappeared, the code will not run.  The degree of linting will depend on the Integrated Development Environment that you are using (IDE). 
+Linting is often indicated using underlining of potential problems (much like a spell checker).
+Until all of the underlining has disappeared, the code will not run.
+The degree of linting will depend on the Integrated Development Environment that you are using (IDE). 
 
 Whitespace
 The functional importance of whitespace depends on the programming language you use, however the importance for accessibility does not.  In langugages like Python, whitespace is used for nesting i.e. loops and if statements are bracketted by white space:

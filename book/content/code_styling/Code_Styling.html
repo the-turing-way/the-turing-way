@@ -146,17 +146,30 @@ $(document).ready(function () {
 </div>
 <div id="file-naming" class="section level2">
 <h2>File Naming</h2>
-<p>The Centre for Open Science has some useful suggestions for naming of files, particularly ensuring that they readable both to humans and computers. This includes avoiding the use of wildcard characters (@£$%) and using underscores (“_“) to delimit information, and dashes (”-“) to conjunct information or spaces. They also suggest dating or numbering files, and avoiding words like FINAL (or FINAL-FINAL). The dating suggestion is</p>
+<p>The <a href="http://help.osf.io/m/bestpractices/l/609932-file-naming">Centre for Open Science</a> has some useful suggestions for naming of files, particularly ensuring that they readable both to humans and computers. This includes avoiding the use of wildcard characters (@£$%) and using underscores (“_”) to delimit information, and dashes (“-”) to conjunct information or spaces. They also suggest dating or numbering files, and avoiding words like FINAL (or FINAL-FINAL). The dating suggestion is the long format <code>YYYY-MM-DD</code>, followed by the name of the file, and the version number. This results in an automatic, chronological order. For example:</p>
+<pre><code>data &lt;- read.csv(&quot;2019-05-17_Turing-Way_Book-Dash.csv&quot;)
+</code></pre>
+</div>
+<div id="variable-naming" class="section level2">
+<h2>Variable Naming</h2>
+<p>Unlike in school maths projects where variables are usually unimaginatively called “x”,“y”, and “z”, coding variables can be called anything, and this can be useful for representing the flow of your script. Be creative!</p>
+<pre><code>raw_data &lt;- read.csv(&quot;data.csv&quot;)
+rawData &lt;- read.csv(&quot;data.csv&quot;)
+</code></pre>
+<p>You may have a function that recodes a variable:</p>
+<pre><code>rawDat &lt;- recode(rawDat)</code></pre>
+<p>Provides no information about the process that x has been through. Storing it as a separate variable lets us see what transformations have been carried out on the original variable:</p>
+<pre><code>rawDat_recoded &lt;- recode(rawDat)
+remove(x)</code></pre>
 </div>
 <div id="commenting" class="section level2">
 <h2>Commenting</h2>
-<p>Comments has been described as “Love letter to your future self”<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a>. Keeping clear and concise comments not only allows you to keep track of the decisions you have made, what particular functions do, and what variables are used, it also allows other people to see your thought processes. The syntax for comments varies with programming languages. in R and Python, a hashtag is used, whereas in C#, double back-slash is used.</p>
-<p>For shorter comments, you can keep them in-line:</p>
-<pre class="{r}"><code>times = 10 # Set variable times to the integer 10
+<p>Comments can be blocked or inline. The PEP8 guidelines have firm suggestions that block comments should be full sentences, have two spaces following a period, and follow a dated style guide(Strunk and White^[Fortunately the Elements of Style no longer requires an emphasis on masculine pro-nouns.), whereas inline comments should be used sparingly. Comments have been described as “Love letters to your future self”<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a>. Keeping clear and concise comments not only allows you to keep track of the decisions you have made, what particular functions do, and what variables are used, it also allows other people to see your thought processes. The syntax for comments varies with programming languages. in R and Python, a hashtag is used, whereas in C#, double back-slash is used.</p>
+<pre class="{r}"><code>times = 10 # Set integer
 my_variable = &quot;my variable is %s times better than yours&quot; %times #Set my_variable to a string
-print(my_variable) #prints the value</code></pre>
+print(my_variable) #print the value</code></pre>
 <p>For longer comments, information can be included above the code block.</p>
-<pre class="{r}"><code>#The following function takes a number, multiplies it be 5, and minuses 2.  This may seem pointless, but is simple for the purpose of demonstration.
+<pre class="{r}"><code>#The following function takes a number, multiplies it be 5, and subtracts 2.  This may seem pointless, but is simple for the purpose of demonstration.
 
 my_func = function(number){ #R function
 
@@ -167,7 +180,20 @@ print(my_func(2))</code></pre>
       return((numb*5)-2)
 print(myfunc(8))
 </code></pre>
-<p>indent line length</p>
+</div>
+<div id="line-length" class="section level2">
+<h2>Line Length</h2>
+<p>There is some agreement on the length of coding lines. PEP8 suggests a maximum of 79 characters per line, and 80 by Hadley Wickham. This means that the lines can easily fit on a screen, and multiple coding windows can be opened.</p>
+</div>
+<div id="indentation" class="section level2">
+<h2>Indentation</h2>
+<p>The R style guide suggests that lines should be separated:</p>
+<pre><code>by
+  two spaces</code></pre>
+<p>And not a mixture of tabs and spaces. Obviously, sometimes the arguments of a function can far expand 80 characters. In this case, it is recommended that the second line be indented to the start of the arguments:</p>
+<pre><code>my_variable &lt;- a_really_long_function(data = &quot;2019-05-17_Long_File_Name_2&quot;,
+                                      header = TRUE, verbose = TRUE)
+</code></pre>
 <p>naming - CamelCase - lowerCamelCase - Underscore_Methods - Kebab-Case _ Mixed_Case_With_Underscores - lowercase</p>
 <p>Kebab wont work with some languages, such as R and python since this will be interpreted as a subtraction sign.</p>
 <p>Obviously, these are just guidelines, and you should choose elements that suit your own coding style. However, it is important to ensure that you are consistent when collaborating, and agree on a common style. It could be useful to create a readme file describing your approach to coding style so other users can see your decisions. Code formatting</p>
@@ -180,7 +206,7 @@ print(myfunc(8))
 <pre><code>ThisIs Because_SwitchingbetweenDifferentformats is.difficult to read.</code></pre>
 <pre><code>Where_as if_you stick_to one_style, your_code will_be easier_to_follow!</code></pre>
 </div>
-<div id="variable-naming" class="section level2">
+<div id="variable-naming-1" class="section level2">
 <h2>Variable Naming</h2>
 <p>There are a variety of naming styles that you can follow (not all will work with all languages). The major ones include: CamelCase</p>
 <p>Commenting Jon Peirce - “Comments are love-letters to your future self”.</p>
