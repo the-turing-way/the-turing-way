@@ -369,6 +369,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "informationcake",
+      "name": "Alex Clarke",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16001543?v=4",
+      "profile": "http://informationcake.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
