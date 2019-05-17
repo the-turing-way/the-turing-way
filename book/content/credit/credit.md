@@ -29,8 +29,16 @@ Future work:
 ## Summary
 > easy to understand summary - a bit like tl;dr
 
+Reproducible research is great, but spending time on it will reduce the time you have available for activities by which researchers are traditionally measured, such as writing papers. But what if you could get credit for your reproducibility efforts as well?
+
 ## How this will help you/ why this is useful
 > why we think you should read the whole thing
+
+Academic research is a reputation economy, and citations are the currency. Most research institutions' promotion and hiring criteria depend to a greater or lesser extent on your publishing record: how many articles you have published, how "important" the journals were, and how many times each article has been cited.
+
+This is a well established practice, and while it has its problems at least all stakeholders understand what's involved. One of the consequences of this system is that labour which *doesn't* result in published articles tends to be ignored, discouraging researchers from making their data more open or specialising in software development.
+
+Establishing good citation practice for non-article content is a step towards recognising this valuable work and encouraging more people to take it up. If you can demonstrate the impact of your reproducible research work in addition to more traditional research outputs, you can justify spending more time on doing things right.
 
 ## Chapter content
 > depending on the content, this might be more structured, e.g. with exercises, gotcha sections etc
