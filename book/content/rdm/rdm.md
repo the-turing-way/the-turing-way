@@ -14,6 +14,7 @@ The following sections in this handbook provide useful context and complementary
 5. [Storage and backup](#Storage-backup)
     i. [Where to store data](#Where-store)
     ii. [Backups](#Backups)
+6. [Data organisation in spreadsheets](#Spreadsheets)
 6. [Documentation and metadata](#Documentation-Metadata)
 7. [Sharing and archiving data](#Sharing-Archiving)
     i. [Motivations for sharing data](#Motivations-Sharing)
@@ -89,6 +90,33 @@ To avoid loosing your data, you should follow good backup practices.
 
 The more important the data and the more often the datasets change, the more frequently you should back them up.
 If your files take up a large amount of space and backing up all of them would be difficult or expensive, you may want to create a set of criteria for when you back up the data. This can be part of your data management plan.
+
+<a name=Spreadsheets"></a>
+### Data organisation in spreadsheets
+
+Spreadsheets, such as Microsoft Excel files, are commonly used to collect, store, manipulate, analyse, and share research data. Spreadsheets are convenient and easy-to-use tools for these tasks but are not amenable to reproducibility if used as dynamic documents. There is a collection of [horror-stories](http://www.eusprig.org/horror-stories.htm) that document the many ways that the use of spreadsheets have scuppered analyses due to unexpected behaviour or error-prone editing processes. Some of these mishaps are not unique to spreadsheets, but [many are](https://doi.org/10.1186/s13059-016-1044-7). 
+
+Data manipulation and analysis in spreadsheets in particular is best avoided as, without version control, it can lead to non-reproducible workflows. By opening and editing raw data files directly by hand, for example to change values or perform calculations, the process by which new values are obtained is not properly documented, and you may accidentally over-write something or type in the wrong value only to notice after it's too late (or not at all). 
+
+Even if these errors are avoided, if the spreadsheet is poorly organised then it may be difficult for collaborators to easily [read-in and re-use](#FAIR) your data for further analysis. 
+
+It's often not practical to avoid the use of spreadsheets altogether but there are some simple steps that can be taken to mitigate these flaws. The following principles, taken from Broman and Woo's 2018 [Data Organization in Spreadsheets](https://peerj.com/preprints/3183/) paper (and accompanying [website](https://kbroman.org/dataorg/)), provide some practical advice to ensure your data is clearly and consistently organised:
+
+* Be consistent
+* Write dates as YYYY-MM-DD
+* Don't leave any cells empty
+* Put just one thing in a cell
+* Organize the data as a single rectangle
+* Create a data dictionary
+* Don't include calculations in the raw data files
+* Don’t use font color or highlighting as data
+* Choose good names for things
+* Make backups
+* Use data validation to avoid data entry mistakes
+* Save the data in plain text files
+
+
+
 <a name="Documentation-Metadata"></a>
 ### Documentation and metadata 
 
