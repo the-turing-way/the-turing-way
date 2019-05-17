@@ -60,3 +60,7 @@
   url: make/make
 - title: Risk Assessment
   url: risk_assessment/risk_assessment
+  - title: Long Read on Risk Assessment
+    url: risk_assessment/01/longreadriskassessment
+  - title: Summary
+    url: risk_assessment/02/finalsummary
