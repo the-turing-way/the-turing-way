@@ -233,7 +233,8 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/47981871?v=4",
       "profile": "https://github.com/ClareLiggins",
       "contributions": [
-        "doc"      ]
+        "doc"
+      ]
     },
     {
       "login": "longr",
@@ -358,6 +359,15 @@
       "contributions": [
         "doc",
         "review"
+      ]
+    },
+    {
+      "login": "jspickering",
+      "name": "jspickering",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/28339195?v=4",
+      "profile": "https://github.com/jspickering",
+      "contributions": [
+        "doc"
       ]
     }
   ],
