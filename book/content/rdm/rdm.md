@@ -216,10 +216,10 @@ If you haven't read the chapter on Open Research yet, you might want to read it 
 ## Definitions/glossary 
 > Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
 
-RDM - Research Data Management
-DMP - Data Management Plan
-FAIR - Findable, Accessible, Interoperable and Reusable
-METADATA - Data that describes other data
+**RDM:** - Research Data Management
+**DMP:** - Data Management Plan
+**FAIR:** - Findable, Accessible, Interoperable and Reusable
+**METADATA:** - Data that describes other data
 <a name="Bibliography"></a>
 ## Bibliography 
 
