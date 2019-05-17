@@ -127,6 +127,9 @@ We will see now a more complete example to setup a log where we change the log f
 
 
 ```python
+import time
+import logging
+
 def get_logger(    
         LOG_FORMAT     = '%(asctime)s | %(levelname)s | %(message)s',
         DATE_FORMAT    = '%Y-%m-%d %H:%M:%S',
@@ -158,8 +161,7 @@ def get_logger(
     logger.setLevel(logging.INFO)
     return logger
 
-import time
-import logging
+
 logger = get_logger() # Set up your logger
 
 # Now you can send informative messages to the log
@@ -204,12 +206,13 @@ Generally you want your input parameters to be stored in a human-readable file t
 - TOML
 - Scripting language
 - Plain text decoded manually
-<!-- Maybe add some description, like this from wikipedia (https://en.wikipedia.org/wiki/Serialization): JSON. Plain-text file commonly used for client-server communication in web applications. Good human readability and easy to decode to be used in your program. 
 
-Also, good discussion about pros/cons here: https://www.lucidchart.com/techblog/2018/07/16/why-json-isnt-a-good-configuration-language/
--->
+TODO:  Maybe add some description, like this from wikipedia (https://en.wikipedia.org/wiki/Serialization): JSON. Plain-text file commonly used for client-server communication in web applications. Good human readability and easy to decode to be used in your program. 
 
-Some of this formats accept nested structures. Different programming languages will have modules to read and decode configuration files into easy-to-use structures like dictionaries in python.
+ Some discussion on pros and cons on the different formats can be found [here]( https://www.lucidchart.com/techblog/2018/07/16/why-json-isnt-a-good-configuration-language/)
+
+
+Some of this formats accept nested structures. Different programming languages will have modules to read and decode configuration files into easy-to-use structures like dictionaries in python. 
 
 Example yaml file (`config_file.yml`):
 
