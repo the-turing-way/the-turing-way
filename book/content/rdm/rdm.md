@@ -2,8 +2,12 @@
 
 ## Prerequisites / recommended skill level
 The following sections in this handbook provide useful context and complementary information to this chapter:
-- Version control
-- Open Research 
+
+| Prerequisite | Importance |
+| -------------|----------|
+|[Version Control](/version_control/version_control) | Helpful |
+|[Open Research](/open_research/open_research)| Helpful |
+ 
 
 ## Table of Contents
 
