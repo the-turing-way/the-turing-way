@@ -153,7 +153,7 @@ $(document).ready(function () {
 <div id="variable-naming" class="section level2">
 <h2>Variable Naming</h2>
 <p>Unlike in school maths projects where variables are usually unimaginatively called “x”,“y”, and “z”, coding variables can be called anything, and this can be useful for representing the flow of your script. Be creative!</p>
-<pre><code>raw_data &lt;- read.csv(&quot;data.csv&quot;)
+<pre><code>raw_data &lt;- read.csv(&quot;data.csv&quot;) # Not very creative
 rawData &lt;- read.csv(&quot;data.csv&quot;)
 </code></pre>
 <p>You may have a function that recodes a variable:</p>
@@ -164,7 +164,7 @@ remove(x)</code></pre>
 </div>
 <div id="commenting" class="section level2">
 <h2>Commenting</h2>
-<p>Comments can be blocked or inline. The PEP8 guidelines have firm suggestions that block comments should be full sentences, have two spaces following a period, and follow a dated style guide(Strunk and White^[Fortunately the Elements of Style no longer requires an emphasis on masculine pro-nouns.), whereas inline comments should be used sparingly. Comments have been described as “Love letters to your future self”<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a>. Keeping clear and concise comments not only allows you to keep track of the decisions you have made, what particular functions do, and what variables are used, it also allows other people to see your thought processes. The syntax for comments varies with programming languages. in R and Python, a hashtag is used, whereas in C#, double back-slash is used.</p>
+<p>Comments can be blocked or inline. The PEP8 guidelines have firm suggestions that block comments should be full sentences, have two spaces following a period, and follow a dated style guide(Strunk and White<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a>, whereas inline comments should be used sparingly. Comments have been described as “Love letters to your future self”<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a>. Keeping clear and concise comments not only allows you to keep track of the decisions you have made, what particular functions do, and what variables are used, it also allows other people to see your thought processes. The syntax for comments varies with programming languages. In R and Python, a hashtag is used, whereas in C#, double back-slash is used.</p>
 <pre class="{r}"><code>times = 10 # Set integer
 my_variable = &quot;my variable is %s times better than yours&quot; %times #Set my_variable to a string
 print(my_variable) #print the value</code></pre>
@@ -183,7 +183,7 @@ print(myfunc(8))
 </div>
 <div id="line-length" class="section level2">
 <h2>Line Length</h2>
-<p>There is some agreement on the length of coding lines. PEP8 suggests a maximum of 79 characters per line, and 80 by Hadley Wickham. This means that the lines can easily fit on a screen, and multiple coding windows can be opened.</p>
+<p>There is some agreement on the length of coding lines. PEP8 suggests a maximum of 79 characters per line, and 80 by the R style guide. This means that the lines can easily fit on a screen, and multiple coding windows can be opened.</p>
 </div>
 <div id="indentation" class="section level2">
 <h2>Indentation</h2>
@@ -194,7 +194,14 @@ print(myfunc(8))
 <pre><code>my_variable &lt;- a_really_long_function(data = &quot;2019-05-17_Long_File_Name_2&quot;,
                                       header = TRUE, verbose = TRUE)
 </code></pre>
-<p>naming - CamelCase - lowerCamelCase - Underscore_Methods - Kebab-Case _ Mixed_Case_With_Underscores - lowercase</p>
+<p>Naming conventions</p>
+<ul>
+<li>CamelCase</li>
+<li>lowerCamelCase</li>
+<li>Underscore_Methods</li>
+<li>Kebab-Case _ Mixed_Case_With_Underscores</li>
+<li>lowercase</li>
+</ul>
 <p>Kebab wont work with some languages, such as R and python since this will be interpreted as a subtraction sign.</p>
 <p>Obviously, these are just guidelines, and you should choose elements that suit your own coding style. However, it is important to ensure that you are consistent when collaborating, and agree on a common style. It could be useful to create a readme file describing your approach to coding style so other users can see your decisions. Code formatting</p>
 <p>When making code open, it is important to ensure that it is legible and easy to follow.</p>
@@ -236,7 +243,8 @@ print(&quot;Hello world&quot;)
 <hr />
 <ol>
 <li id="fn1"><p>The Python style guide (PEP) is now in its 8th edition.<a href="#fnref1">↩</a></p></li>
-<li id="fn2"><p>Jon Peirce, developer of PsychoPy<a href="#fnref2">↩</a></p></li>
+<li id="fn2"><p>Fortunately the Elements of Style no longer requires an emphasis on masculine pro-nouns.<a href="#fnref2">↩</a></p></li>
+<li id="fn3"><p>Jon Peirce, developer of PsychoPy<a href="#fnref3">↩</a></p></li>
 </ol>
 </div>
 

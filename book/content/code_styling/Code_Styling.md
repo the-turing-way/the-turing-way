@@ -57,7 +57,7 @@ remove(x)
 
 ## Commenting
 
-Comments can be blocked or inline.  The PEP8 guidelines have firm suggestions that block comments should be full sentences, have two spaces following a period, and follow a dated style guide(Strunk and White^[Fortunately the Elements of Style no longer requires an emphasis on masculine pro-nouns.], whereas inline comments should be used sparingly.
+Comments can be blocked or inline.  The PEP8 guidelines have firm suggestions that block comments should be full sentences, have two spaces following a period, and follow a dated style guide(Strunk and White^[Fortunately the Elements of Style no longer requires an emphasis on masculine pronouns.], whereas inline comments should be used sparingly.
 Comments have been described as "Love letters to your future self"^[Jon Peirce, developer of PsychoPy].
 Keeping clear and concise comments not only allows you to keep track of the decisions you have made, what particular functions do, and what variables are used, it also allows other people to see your thought processes.
 The syntax for comments varies with programming languages.
