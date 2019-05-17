@@ -1,6 +1,6 @@
 ---
-name: Chapter Issue Template
-about:
+name: New Chapter Template
+about: Template for proposing a new chapter
 title:
 labels:
 assignees: ''

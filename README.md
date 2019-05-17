@@ -11,6 +11,7 @@ Table of contents:
 * [About the project](#about-the-project)
 * [Contributing](#contributing)
 * [Get in touch](#get-in-touch)
+* [Contributors](#contributors)
 
 ### About the project
 

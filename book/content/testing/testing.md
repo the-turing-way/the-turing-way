@@ -1,8 +1,8 @@
 # Testing
 
-| Prerequisite | Importance | Notes |
-| -------------|------------|-------|
-| Experience with the command line | Necessary | A tutorial on working via the command line can be found [here](https://programminghistorian.org/en/lessons/intro-to-bash) |
+| Prerequisite | Importance |
+| -------------|------------|
+| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary |
 
 ## Table of contents
 
