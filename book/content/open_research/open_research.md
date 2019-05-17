@@ -103,7 +103,7 @@ There are five main schools of thought motivating open practices to benefit rese
 
 Open practices also benefit the researchers that propagate them. For example there is evidence [(Mckiernan et al. 2016)](https://elifesciences.org/articles/16800) that open access articles are cited more often, as shown by the metastudy presented in the figure below.
 
-| ![open_access_citatations](/assets/figures/open_access_citatations.jpg) |
+| ![open_access_citatations](../figures/open_access_citatations.jpg) |
 | -----------------------------------------------------|
 | The relative citation rate (OA: non-OA) in 19 fields of research. This rate is defined as the mean citation rate of OA articles divided by the mean citation rate of non-OA articles. Multiple points for the same discipline indicate different estimates from the same study, or estimates from several studies. (See footnote 1 for references.) |
 
@@ -431,7 +431,7 @@ Ideally, every scientist would maintain an open notebook in real-time which woul
 
 Open research and its subcomponents fit under the umbrella of a broader concept- open scholarship.
 
-![open_umbrella](/assets/figures/open_umbrella.png)
+![open_umbrella](../figures/open_umbrella.png)
 
 ### Open educational resources
 

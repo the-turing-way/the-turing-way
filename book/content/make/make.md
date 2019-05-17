@@ -171,7 +171,7 @@ combine the three commands in a single recipe above.
 
 This is what the dependency tree looks like for this Makefile:
 
-![DAG for Makefile no. 1](/assets/figures/make/makefile_no_1.png)
+![DAG for Makefile no. 1](../figures/make/makefile_no_1.png)
 
 
 #### Makefile no. 2 (all and clean)
