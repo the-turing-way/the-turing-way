@@ -5,14 +5,15 @@ language: generic
 cache: bundler 
 
 rvm:
-    - 2.6.3
+    - "2.6.3"
 
 python:
     - "3.6"
 
 before_script:
+    - source ~/virtualenv/python3.6.3/bin/activate
     - python --version # to debug
-    - pip instrall -r ./book/website/requirements.txt
+    - pip install -r ./book/website/requirements.txt
 
 script: 
     - bash ./scripts/test-file-size.sh
