@@ -2,7 +2,7 @@ language: ruby
 cache: bundler 
 
 rvm:
-    - 2.3.6
+    - 2.6.3
 
 script: 
     - bash ./scripts/test-file-size.sh
