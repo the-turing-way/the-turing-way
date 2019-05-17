@@ -42,6 +42,7 @@
     url: reproducibility/04/resources
 - title: Open Research
   url: open_research/open_research
+  sections:
   - title: Open Data
     url: open_research/01/opendata
   - title: Open source software
