@@ -1,10 +1,19 @@
+---
+name: Chapter Issue Template
+about:
+title:
+labels:
+assignees: ''
+
+---
+
 ## Detailed description
  * This issue is a place to discuss matters relating to the writing of the chapter on _chapter_topic_.
  * This chapter is being written in _pull_request_number_
  * This chapter is being developed on the _chapter_topic_ branch.
 
 ### Table of contents
- 
+
 ### Resources
 
 ### Discussion points/related issues
