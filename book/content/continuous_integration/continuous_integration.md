@@ -2,10 +2,10 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
-| Experience with the command line | Necessary | A tutorial on working via the command line can be found [here](https://programminghistorian.org/en/lessons/intro-to-bash) |
-| Version control | Necessary | See the chapter on this for more information |
-| Testing | Very helpful | See the chapter on this for more information  |
-| Reproducible computational environments | Necessary | See the chapter on this for more information, particularly the sections on YAML files and containers |
+| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | Continuous integration will follow command line instructions
+| [Version control](/version_control/version_control) | Necessary | Continuous integration runs every time a new _commit_ is made to your project |
+| [Reproducible computational environments](/reproducible_environments/reproducible_environments) | Necessary | Continuous integration runs your tests on a separate computer (usually in the cloud) so you need to set it up in the same way. |
+| [Testing](/testing/testing) | Very helpful | Continuous integration _tests_ if anything important has changed when you make a change in your project  |
 
 ## Table of contents
 

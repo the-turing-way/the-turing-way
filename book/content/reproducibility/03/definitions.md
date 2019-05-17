@@ -16,11 +16,11 @@ In political science and economics literature, both terms are used interchangeab
 In addition to these high level definitions of reporducibility, some authors provide more detailed disctinctions.
 Victoria Stodden [(2014)](http://edge.org/response-detail/25340), a prominent scholar on this topic, has for example identified the following further distinctions:
 
-- _Computational reproducibility_: when detailed information is provided about code, software, hardware and implementation details.
+- _Computational reproducibility_: When detailed information is provided about code, software, hardware and implementation details.
 
-- _Empirical reproducibility_: when detailed information is provided about non-computational empirical scientific experiments and observations. In practise this is enabled by making data freely available, as well as details of how the data was collected.
+- _Empirical reproducibility_: When detailed information is provided about non-computational empirical scientific experiments and observations. In practise this is enabled by making data freely available, as well as details of how the data was collected.
 
-- _Statistical reproducibility_: when detailed information is provided about the choice of statistical tests, model parameters, threshold values, etc. This mostly relates to pre-registration of study design to prevent p-value hacking and other manipulations.
+- _Statistical reproducibility_: When detailed information is provided about the choice of statistical tests, model parameters, threshold values, etc. This mostly relates to pre-registration of study design to prevent p-value hacking and other manipulations.
 
 ## The Turing Way definition of reproducibility
 
@@ -35,7 +35,7 @@ However, we recognize that some research will use sensitive data that cannot be 
 The handbook will cover:
 * Version control (using git)
 * Using GitHub/GitLab for collaboration
-* Open Science
+* Open Research
 * Research Data Management
 * Reproducible computing environments
 * Testing

@@ -2,44 +2,56 @@
 
 ## Prerequisites / recommended skill level
 The following sections in this handbook provide useful context and complementary information to this chapter:
-- Version control
-- Open Research 
+
+| Prerequisite | Importance |
+| -------------|----------|
+|[Version Control](/version_control/version_control) | Helpful |
+|[Open Research](/open_research/open_research)| Helpful |
+ 
 
 ## Table of Contents
 
 1. [Summary](#Summary)
 2. [Why this is useful](#Why-useful)
-3. [The Research Data Lifecycle](#Data-Lifecycle) 
-4. [FAIR data](#FAIR)
-5. [Storage and backup](#Storage-backup)
+3. [What is data?](#What-Data)
+4. [The Research Data Lifecycle](#Data-Lifecycle) 
+5. [FAIR data](#FAIR)
+6. [Storage and backup](#Storage-backup)
     i. [Where to store data](#Where-store)
     ii. [Backups](#Backups)
-6. [Documentation and metadata](#Documentation-Metadata)
-7. [Sharing and archiving data](#Sharing-Archiving)
+7. [Documentation and metadata](#Documentation-Metadata)
+8. [Sharing and archiving data](#Sharing-Archiving)
     i. [Motivations for sharing data](#Motivations-Sharing)
     ii. [Steps to share your data](#Steps-Share)
     iii. [Barriers to data sharing](#Barriers-Share)
-8. [Checklist](#Checklist)
-9. [What to read next](#What-Next)
-10. [Further reading](#Further-Reading)
-11. [Glossary](#Glossary)
-12. [Bibliography](#Bibliography)
+9. [Checklist](#Checklist)
+10. [What to read next](#What-Next)
+11. [Further reading](#Further-Reading)
+12. [Glossary](#Glossary)
+13. [Bibliography](#Bibliography)
 
 <a name="Summary"></a>
 ## Summary 
-> easy to understand summary - a bit like tl;dr
 
-Research data management is a key part in encouraging reproducible research. Data management ensures efficiency in research workflows, and also greater reach and impact, as data and software become FAIR (Findable, Accessible, Interoperable and Reuseable). Data should be stored in multiple locations and backed-up regularly. Documentation and metadata ensure that others know how to access, use and re-use your data, and also enable conditions for sharing and publishing data to be outlined. 
+Research data management covers how research data can be stored, described and reused.  
+It is a key part in encouraging reproducible research. Data management ensures efficiency in research workflows, and also greater reach and impact, as data and software become FAIR (Findable, Accessible, Interoperable and Reuseable).  
+Data should be stored in multiple locations and backed-up regularly to prevent loss or data corruption.  
+Clearly describing data using documentation and metadata ensures that others know how to access, use and re-use your data, and also enable conditions for sharing and publishing data to be outlined. 
 
 <a name="Why-useful"></a>
 ## How this will help you/ why this is useful 
-Having data available is a key component of reproducing an analysis. 
+Having data available is a key component of reproducing an analysis.
 To be able to share data that is understandable and re-usable, research data needs to be managed properly. 
 Thus, this chapter lays out good data management practice to allow you to plan your data management activities at the start of your reproducible research project.
 
 
 
 ## Chapter content
+<a name="What-Data"></a>
+### What Is Data?
+
+In some fields it's obvious what data means - you have observations or results of simulations etc. However, in other fields, particularly in Social Sciences, Humanities or Arts, you may be thinking "I don't think I have any data". A good way of thinking about what might be classed as data that needs to be managed is to ask yourself the questions "What is the information that I need to write my paper or book?", "What information would I need to back up my conclusions?" and "What information is needed for someone else to replicate the research that I've done?". This information is your data.
+
 <a name="Data-Lifecycle"></a>
 ### The Research Data Lifecycle - A Model for Data Management 
 
@@ -66,8 +78,8 @@ One way to do this is to create a data management plan, in [DMPonline](https://d
 <a name="Storage-backup"></a>
 ### Storage and backup 
 
-Data loss can be catastrophic for your research project and happens regularly.
-You can prevent data loss by picking suitable storage solutions and backing your data up regularly.
+Data loss can be catastrophic for your research project and can happen often.
+You can prevent data loss by picking suitable storage solutions and backing your data up frequently.
 <a name="Where-store"></a>
 #### Where to store data 
 * Most institutions will provide a *network drive* that you can use to store data.  
@@ -87,7 +99,7 @@ To avoid loosing your data, you should follow good backup practices.
 * at least 2 different storage media, 
 * in different locations.
 
-The more important the data and the more often the datasets change, the more regularly you should back them up.
+The more important the data and the more often the datasets change, the more frequently you should back them up.
 If your files take up a large amount of space and backing up all of them would be difficult or expensive, you may want to create a set of criteria for when you back up the data. This can be part of your data management plan.
 <a name="Documentation-Metadata"></a>
 ### Documentation and metadata 
@@ -104,6 +116,7 @@ Examples could include the [Brain Imaging Data Structure](https://github.com/bid
 - Data should be stored in logical and heirarchical folder structures with a README file used to describe the structure.
 The README file is helpful for others and will also help you find your data in the future. 
 (Fuchs & Kuusniemi, 2018)
+
 <a name="Sharing-Archiving"></a>
 ### Sharing and archiving data 
 <a name="Motivations-Sharing"></a>
@@ -217,9 +230,10 @@ If you haven't read the chapter on Open Research yet, you might want to read it 
 ## Definitions/glossary 
 > Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
 
-RDM - Research Data Management
-DMP - Data Management Plan
-FAIR - Findable, Accessible, Interoperable and Reusable
+**RDM:** - Research Data Management  
+**DMP:** - Data Management Plan  
+**FAIR:** - Findable, Accessible, Interoperable and Reusable  
+**METADATA:** - Data that describes other data  
 <a name="Bibliography"></a>
 ## Bibliography 
 
