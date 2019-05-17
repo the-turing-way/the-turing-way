@@ -108,13 +108,18 @@ There are five main schools of thought motivating open practices to benefit rese
 | Democratic | The access to knowledge is unequally distributed. | Making knowledge freely available for everyone. |
 | Public | Research needs to be made accessible to the public. | Making research accessible for citizens. |
 
-Open practices also benefit the researchers that propagate them. For example there is evidence [(Mckiernan et al. 2016)](https://elifesciences.org/articles/16800) that open access articles are cited more often, as shown by the metastudy presented in the figure below.
+Open practices also benefit the researchers that propagate them.
+For example there is evidence [(Mckiernan et al. 2016)](https://elifesciences.org/articles/16800) that open access articles are cited more often, as shown by the metastudy presented in the figure below.
 
 | ![open_access_citatations](/assets/figures/open_access_citatations.jpg) |
 | -----------------------------------------------------|
-| The relative citation rate (OA: non-OA) in 19 fields of research. This rate is defined as the mean citation rate of OA articles divided by the mean citation rate of non-OA articles. Multiple points for the same discipline indicate different estimates from the same study, or estimates from several studies. (See footnote 1 for references.) |
+| The relative citation rate (OA: non-OA) in 19 fields of research.
+This rate is defined as the mean citation rate of OA articles divided by the mean citation rate of non-OA articles.
+Multiple points for the same discipline indicate different estimates from the same study, or estimates from several studies.
+(See footnote 1 for references.) |
 
-Another benefit of openness is that while research collaborations are essential to advancing knowledge, identifying and connecting with appropriate collaborators is not trivial. Open practices can make it easier for researchers to connect with one another by increasing the discoverability and visibility of one’s work, facilitating rapid access to novel data and software resources, and creating new opportunities to interact with and contribute to ongoing communal projects.
+Another benefit of openness is that while research collaborations are essential to advancing knowledge, identifying and connecting with appropriate collaborators is not trivial.
+Open practices can make it easier for researchers to connect with one another by increasing the discoverability and visibility of one’s work, facilitating rapid access to novel data and software resources, and creating new opportunities to interact with and contribute to ongoing communal projects.
 
 ## Open data
 
@@ -150,7 +155,8 @@ The data should be available as a whole and at no more than a reasonable reprodu
 #### Step 2: Make your data easy to understand
 
 Having data available is of no use if it cannot be understood.
-For example, a table of numbers is useless if there are no headings which describe the contents of the rows and columns. Therefore you should ensure that open datasets include consistent core metadata, and that the data is fully described.
+For example, a table of numbers is useless if there are no headings which describe the contents of the rows and columns.
+Therefore, you should ensure that open datasets include consistent core metadata, and that the data is fully described.
 This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
 
 #### Step 3: Make your data easy to use
@@ -160,10 +166,10 @@ It is also important to think about the file formats that information is provide
 Data should be presented in structured and standardized formats to support interoperability, traceability, and effective reuse.
 In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people.
 
-#### Step 4: Make your data citeable
+#### Step 4: Make your data citable
 
-Data should be considered a legitimate, citable product of research.
-Making data citeable (and citing data yourself) facilitates the giving of scholarly credit; in scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited.
+Data should be considered a legitimate and citable product of research.
+Making data citable (and citing data yourself) facilitates the giving of scholarly credit; in scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited.
 Data citations facilitate identification of, access to, and verification of the specific data that support a claim, making it possible to reproduce the underlying analysis.
 You should ensure that anyone who wishes to cite a dataset that you host has access to a persistent identifier in order to do so.
 
@@ -196,25 +202,40 @@ Sometimes it may not be possible to make data publicly available in its entirety
 #### Privacy
 
 Many fields of research involve working with sensitive personal data, medical research being the most obvious example.
-Individuals must be protected from (re)identification via their personal data used for research. Anonymisation of the data may be sufficient in some cases, but ensuring that reidentification is not possible is becoming increasingly difficult due to technical progress, growing computational power and – ironically – more open data. For example, reidentification may be possible via data-mining of accessible data and so-called quasi-identifiers, a set of (common) properties that are – in their combination – so specific that they can be used to identify individuals.
+Individuals must be protected from (re)identification via their personal data used for research.
+Anonymisation of the data may be sufficient in some cases, but ensuring that reidentification is not possible is becoming increasingly difficult due to technical progress, growing computational power and – ironically – more open data.
+For example, reidentification may be possible via data-mining of accessible data and so-called quasi-identifiers, a set of (common) properties that are – in their combination – so specific that they can be used to identify individuals.
 
-Preserving privacy may still be possible if partial or generalised datasets are provided e.g. age bands instead of birth date or only the first two digits of postal codes. It may also be possible to provide the data in such a format that researchers can query it whist keeping the data itself closed, e.g. a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints.
+Preserving privacy may still be possible if partial or generalised datasets are provided e.g. age bands instead of birth date or only the first two digits of postal codes.
+It may also be possible to provide the data in such a format that researchers can query it whist keeping the data itself closed, e.g. a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints.
 
 #### National and commercially sensitive data
 
-In many cases companies are understandably unwilling to publish much of their data. The reasoning goes that if commercially sensitive information of a company is disclosed, it will damage the company’s commercial interests and undermine competitiveness. This is based on the thinking that in competitive markets, innovation will only occur with some protection of information: if a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources. The result is that no-one would innovate in the first place. Similarly, governments are often unwilling to publish data that relates to issues such as national security due to public safety concerns.
+In many cases companies are understandably unwilling to publish much of their data. The reasoning goes that if commercially sensitive information of a company is disclosed, it will damage the company’s commercial interests and undermine competitiveness.
+This is based on the thinking that in competitive markets, innovation will only occur with some protection of information.
+If a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources.
+The result is that no-one would innovate in the first place.
+Similarly, governments are often unwilling to publish data that relates to issues such as national security due to public safety concerns.
 
-In such cases it may not be possible to make data open, or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy.
+In such cases it may not be possible to make data open, or it may only be possible to share partial/obscured datasets as outlined in the section above on privacy.
 
 ## Open source software
 
 ### What is open source software?
 
-When a project is open source anybody can view, use, modify, and distribute the project for any purpose. These permissions are enforced through an open source licence. Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly. In its most basic form, open sourcing your software simply means putting your code online where it can be viewed and reused by others.
+When a project is open source anybody can view, use, modify, and distribute the project for any purpose.
+These permissions are enforced through an open source licence.
+Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+In its most basic form, open sourcing your software simply means putting your code online where it can be viewed and reused by others.
 
-Many of the most widely used research software is open source. Perhaps the paradigmatic example is the scikit-learn Python package for machine learning (Pedregosa et al., 2011), which, in the space of just over five years, has attracted over 500 unique contributors, 20,000 individual code contributions, and 2,500 article citations. Producing a comparable package using a traditional closed-source approach would likely not be feasible, and would, at the very least, have required a budget of tens of millions of dollars. While scikit-learn is clearly an outlier, hundreds of other open source packages that support much more domain-specific needs depend in a similar fashion on unsolicited community contributions e.g., the NIPY (neuroimaging in Python) group of projects in neuroimaging (Gorgolewski et al., 2016). Importantly, such contributions not only result in new functionality from which the broader community can benefit, but also regularly provide their respective authors with greater community recognition, and lead to new project and employment opportunities.
+Many of the most widely used research software is open source.
+Perhaps the paradigmatic example is the scikit-learn Python package for machine learning (Pedregosa et al., 2011), which, in the space of just over five years, has attracted over 500 unique contributors, 20,000 individual code contributions, and 2,500 article citations.
+Producing a comparable package using a traditional closed-source approach would likely not be feasible, and would, at the very least, have required a budget of tens of millions of dollars.
+While scikit-learn is clearly an outlier, hundreds of other open source packages that support much more domain-specific needs depend in a similar fashion on unsolicited community contributions e.g., the NIPY (neuroimaging in Python) group of projects in neuroimaging (Gorgolewski et al., 2016).
+Importantly, such contributions not only result in new functionality from which the broader community can benefit, but also regularly provide their respective authors with greater community recognition, and lead to new project and employment opportunities.
 
-Researchers that make use of open source software often make changes to them such as adding features they need for their own research, or fixing bugs. They can then contribute these improvements back to the main project so the wider community can take advantage of them.
+Researchers that make use of open source software often make changes to them such as adding features they need for their own research, or fixing bugs.
+They can then contribute these improvements back to the main project so the wider community can take advantage of them.
 
 ### How running and contributing to open source software projects benefits you
 
@@ -258,7 +279,8 @@ You should include a readme file where you include useful information about what
 This helps to quickly compare other projects with yours and to give an idea that why the project exists in the first place.
 - Instructions on how to install the project. The installer might be a collaborator, someone that comes across and is interested in the project, or even you if you get a new machine and need to re-install your project. Nevertheless, it's a total waste of both of your resources to start figuring out how to just get started with the project. This should also include any prerequisites that will be needed to run the project.
 The best thing you can do is to just write up the installation instructions when you first do them yourself, and you'll quickly save hours of work in the future.
-- Instructions for how to run the code and any associated tests. If you've been working on your project it may seem obvious how to run it, but this will likely not be the case for someone coming across it for the first time.
+- Instructions for how to run the code and any associated tests.
+If you've been working on your project it may seem obvious how to run it, but this will likely not be the case for someone coming across it for the first time.
 - Links to related material
 - List of authors/contributors to the project, possibly with contact information
 - Acknowledgements
