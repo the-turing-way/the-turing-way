@@ -2,7 +2,7 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
-| [Version control](version_control/version_control) | Necessary | Understanding the way that [Github](https://github.com) arranges its branches, forks, and pull requests within repositories is needed. |
+| [Version control](version_control/version_control/) | Necessary | Understanding the way that [Github](https://github.com) arranges its branches, forks, and pull requests within repositories is needed. |
 
 ## Table of contents
 
