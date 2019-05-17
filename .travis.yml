@@ -1,8 +1,18 @@
-language: ruby
+# refer to https://docs.travis-ci.com/user/languages/minimal-and-generic/#generic
+# for the rationale behind choosing the generic lang
+language: generic
+
 cache: bundler 
 
 rvm:
     - 2.6.3
+
+python:
+    - "3.6"
+
+before_script:
+    - python --version # to debug
+    - pip instrall -r ./book/website/requirements.txt
 
 script: 
     - bash ./scripts/test-file-size.sh
