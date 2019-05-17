@@ -2,7 +2,11 @@
 
 
 ## Prerequisites/recommended skill level
-As both GitHub and GitLab are based on git, we recommend you familiarize yourself with version control before continuing. 
+
+| Prerequisite | Importance |
+| -------------|----------|
+| [Experience with version control](/version_control/version_control) | Helpful |
+
 
 ## Table of Contents
 
