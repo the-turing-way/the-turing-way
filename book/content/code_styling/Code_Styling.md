@@ -38,63 +38,116 @@ The dating suggestion is the long format `YYYY-MM-DD`, followed by the name of t
 data <- read.csv("2019-05-17_Turing-Way_Book-Dash.csv")
 
 ```
+The R style guide suggests keeping file names basic.  This might be fine for small compact projects, however over larger projects with lots of similar files, or if you are not using version control (see chapter /?) it may be more appropriate to use the COS guidelines.
 
 ## Variable Naming
-Unlike in school maths projects where variables are usually unimaginatively called "x","y", and "z", coding variables can be called anything, and this can be useful for representing the flow of your script.
+Unlike in school maths projects where variables are usually unimaginatively called "x","y", and "z". This brevity is probably because teachers rightfully do not want to repeatedly write long variable names on the board.  In coding however, you have the freedom to name your variables anything you like. This can be useful for representing the flow of your script.
+
 Be creative!
-```
+
+### Naming conventions
+For clarity and readabiliy, choosing a set of naming conventions for your variables is useful.  There are a large number available, including:
+- CamelCase
+- lowerCamelCase
+- Underscore_Methods
+- Kebab-Case
+_ Mixed_Case_With_Underscores
+- lowercase
+
+The Kebab case will not work with some languages, such as R and Python since this will be interpreted as a subtraction sign.
+
+```{r}
 raw_data <- read.csv("data.csv") # Not very creative
-rawData <- read.csv("data.csv")
+rawData <- read.csv("data.csv")  #lowerCamelCase
 
 ```
-You may have a function that recodes a variable:
+OK, `raw_data` is not very creative, but it could easily have been `spam` or `eggs` if that makes sense in your script.  You may also have a function that recodes a variable:
 
 ```
 rawDat <- recode(rawDat)
 ```
-Provides no information about the process that x has been through.  Storing it as a separate variable lets us see what transformations have been carried out on the original variable:
+Reusing the variable name provides no information about the process that rawDat has been through.  Storing it as a separate variable lets us see what transformations have been carried out on the original variable:
 
 ```
 rawDat_recoded <- recode(rawDat)
-remove(x)
+remove(rawDat)
+```
+
+If you like you can clear out the old variable using remove as above.
+
+## Line Length
+There is some agreement on the length of coding lines.
+PEP8 suggests a maximum of 79 characters per line, and 80 by the R style guide.
+This means that the lines can easily fit on a screen, and multiple coding windows can be opened.  It is argued that if your line is any longer than this then you should use separate stages.  This is the crux of the Tidy method of R programming, which even has a special operator `%>%` which passes the previous object to the next function, so fewer characters are required:
+
+```
+recoded_melt_dat <- read_csv('~/files/2019-05-17_dat.csv') %>%
+recode() %>%
+melt() #We now have a recoded, melted dataframe called recoded_metl_dat
 ```
 
 ## Commenting
-
-Comments can be blocked or inline.  The PEP8 guidelines have firm suggestions that block comments should be full sentences, have two spaces following a period, and follow a dated style guide(Strunk and White^[Fortunately the Elements of Style no longer requires an emphasis on masculine pronouns.], whereas inline comments should be used sparingly.
-Comments have been described as "Love letters to your future self"^[Jon Peirce, developer of PsychoPy].
+Comments can be blocked or inline.  The PEP8 guidelines have firm suggestions that block comments should be full sentences, have two spaces following a period, and follow a dated style guide(Strunk and White)^[Fortunately the Elements of Style no longer 'requires' an unfair emphasis on masculine pronouns.], whereas inline comments should be used sparingly.
+Comments have been described as "Love letters to your future self"^[Jon Peirce, creator of PsychoPy].
 Keeping clear and concise comments not only allows you to keep track of the decisions you have made, what particular functions do, and what variables are used, it also allows other people to see your thought processes.
 The syntax for comments varies with programming languages.
-In R and Python, a hashtag is used, whereas in C#, double back-slash is used.
+In R and Python, a hashtag is used, whereas in C the brackets `/* /*` are used, and in C++/C# a double slash `//` comments single lines.
 
-```{r}
+In Python:
+```{python}
 times = 10 # Set integer
 my_variable = "my variable is %s times better than yours" %times #Set my_variable to a string
 print(my_variable) #print the value
 ```
 
-For longer comments, information can be included above the code block.
-
+In R:
 ```{r}
-#The following function takes a number, multiplies it be 5, and subtracts 2.  This may seem pointless, but is simple for the purpose of demonstration.
-
 my_func = function(number){ #R function
 
 (number * 5) - 2
 }
 print(my_func(2))
 ```
-
+In C:
+```{c}
+static int
+{
+int my_int = 57 ; /* C for completion */
+}
 ```
+For longer comments, information can be included above the code block. In Python you can use triple speech marks as parenthesis.  This will comment out anything in between.
+
+```{python}
+"""
+The following function takes a number, multiplies it be 5, and subtracts 2.
+This may seem pointless, but is simple for the purpose of demonstration.
+"""
 def myfunc(numb): #python function
       return((numb*5)-2)
 print(myfunc(8))
 
 ```
-## Line Length
-There is some agreement on the length of coding lines.
-PEP8 suggests a maximum of 79 characters per line, and 80 by the R style guide.
-This means that the lines can easily fit on a screen, and multiple coding windows can be opened.
+
+Longer blocks of comments are not available in R.  There are ways around this, such as setting up a string, or an if(false) statement:
+
+```{r}
+
+"1 - This is a string, it will not be evaluated by R, and will not raise
+and exception"
+
+if(false){
+2 - All of your comment can go here and will never be evaluated.
+It also means you keep to the 80 character line length suggestion.
+Also, in RStudio you can fold away the comment using the arrow next to the 
+line number of the if statement.
+}
+```
+Or commenting out individual lines:
+```{r}
+#This is also a very long comment
+#covering many lines.
+```
+Your IDE will probably have a keyboard shortcut for commenting out blocks though.
 
 ## Indentation
 The R style guide suggests that lines should be separated:
@@ -111,16 +164,6 @@ my_variable <- a_really_long_function(data = "2019-05-17_Long_File_Name_2",
                                       header = TRUE, verbose = TRUE)
 
 ```
-Naming conventions
-
-- CamelCase
-- lowerCamelCase
-- Underscore_Methods
-- Kebab-Case
-_ Mixed_Case_With_Underscores
-- lowercase
-
-Kebab wont work with some languages, such as R and python since this will be interpreted as a subtraction sign. 
 
 
 

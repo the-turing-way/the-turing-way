@@ -128,20 +128,20 @@ $(document).ready(function () {
 <h1>Writing Clear and (Human) Readable Code</h1>
 <div id="introduction" class="section level2">
 <h2>Introduction</h2>
-<p>Have you ever opened a syntax or script file two years after running an analysis, only to find that not only have you no memory of the code, but you’ve forgotten the language too? On top of this you have a load of comments, such as “# Add this later”, or “# WHAT WAS I THINKING???”, and variables of “df_1_new”, “new_dat_4_r”. If you have a larger project, perhaps your filenames include “dat_analsis_1_FINAL_.R” and “data_analysis_2_FINAL_2.R”?</p>
-<p>This is frustrating enough when it is just you reading back on it, but imagine cloning these files from github, or the Open Science Framework.</p>
-<p>Not only do you have no memory of what was meant, but you never knew in the first place!</p>
-<p>This chapter aims to introduce some principals of code hygine, including style, naming conventions, creating useful comments, and will briefly discuss the concept of <em>linting</em>, which is a real time error checking process that many integrated development environments (IDE) include. Keeping this advice in mind will help you create reusable, and easily adaptable code.</p>
+<p>Have you ever opened a syntax or script file two years after running an analysis to not only find that you have no memory of the code, but you’ve forgotten the language too? On top of this you may have a load of comments, such as “# Add support later”, or “#WHAT WAS I THINKING???”, and variables of “df_1_new”, “new_dat_4_r”. If you have a larger project, perhaps your filenames include “dat_analsis_1_FINAL_.R” and “data_analysis_2_FINAL_2.R”?</p>
+<p>This is frustrating enough when it is just you reading back on it, but imagine cloning these files from github, or the Open Science Framework. Not only would you have no memory of what was meant, but you would have never known in the first place!</p>
+<p>This chapter aims to introduce some principals of code hygine, otherwise known as <em>linting</em>, including style, naming conventions, and creating useful comments. Some integrated development environments (IDE) include automatic linting, and there are also packages in Python that will lint for you (e.g. <a href="https://pypi.org/project/autopep8/">autopep8</a>. Keeping this advice in mind will help you create reusable, and easily adaptable code. Indeed, point 7 of the <a href="https://www.python.org/dev/peps/pep-0020/">Zen of Python</a> is: &gt;Readability Counts</p>
 </div>
 <div id="code-styling" class="section level2">
 <h2>Code Styling</h2>
 <p>Style guidelines differ between organisations, languages, and over time <a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>. It is important that you work to a framework that is best for your purposes, bearing in mind that consistency makes for easier reading and understanding.</p>
 <p>Style guidelines include advice for file naming, variable naming, comments, and the use of whitespace and brackets. For examples of style guides, follow the following links:</p>
 <ul>
-<li><a href="https://www.python.org/dev/peps/pep-0008/">PEP8</a> for Python</li>
-<li><a href="http://adv-r.had.co.nz/Style.html">Hadley Wickham’s</a> style guide for R</li>
-<li><a href="https://google.github.io/styleguide/Rguide.xml">Google’s</a> style guide for R</li>
+<li><a href="https://www.python.org/dev/peps/pep-0008/">PEP8</a> for Python.</li>
+<li><a href="http://adv-r.had.co.nz/Style.html">Hadley Wickham’s</a> style guide for R.</li>
+<li><a href="https://google.github.io/styleguide/Rguide.xml">Google’s</a> style guide for R.</li>
 <li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions">Microsoft’s</a> style guide for C#.</li>
+<li><a href="https://www.python.org/dev/peps/pep-0007/">PEP7</a> for C.</li>
 </ul>
 </div>
 <div id="file-naming" class="section level2">
@@ -149,37 +149,63 @@ $(document).ready(function () {
 <p>The <a href="http://help.osf.io/m/bestpractices/l/609932-file-naming">Centre for Open Science</a> has some useful suggestions for naming of files, particularly ensuring that they readable both to humans and computers. This includes avoiding the use of wildcard characters (@£$%) and using underscores (“_”) to delimit information, and dashes (“-”) to conjunct information or spaces. They also suggest dating or numbering files, and avoiding words like FINAL (or FINAL-FINAL). The dating suggestion is the long format <code>YYYY-MM-DD</code>, followed by the name of the file, and the version number. This results in an automatic, chronological order. For example:</p>
 <pre><code>data &lt;- read.csv(&quot;2019-05-17_Turing-Way_Book-Dash.csv&quot;)
 </code></pre>
+<p>The R style guide suggests keeping file names basic. This might be fine for small compact projects, however over larger projects with lots of similar files, or if you are not using version control (see chapter /?) it may be more appropriate to use the COS guidelines.</p>
 </div>
 <div id="variable-naming" class="section level2">
 <h2>Variable Naming</h2>
-<p>Unlike in school maths projects where variables are usually unimaginatively called “x”,“y”, and “z”, coding variables can be called anything, and this can be useful for representing the flow of your script. Be creative!</p>
+<p>Unlike in school maths projects where variables are usually unimaginatively called “x”,“y”, and “z”. This brevity is probably because teachers rightfully do not want to repeatedly write long variable names on the board. In coding however, you have the freedom to name your variables anything you like. This can be useful for representing the flow of your script.</p>
+<p>Be creative!</p>
 <pre><code>raw_data &lt;- read.csv(&quot;data.csv&quot;) # Not very creative
 rawData &lt;- read.csv(&quot;data.csv&quot;)
 </code></pre>
-<p>You may have a function that recodes a variable:</p>
+<p>OK, raw_data is not very creative, but it could easily have been <code>spam</code> or <code>eggs</code> if that makes sense in your script. You may also have a function that recodes a variable:</p>
 <pre><code>rawDat &lt;- recode(rawDat)</code></pre>
-<p>Provides no information about the process that x has been through. Storing it as a separate variable lets us see what transformations have been carried out on the original variable:</p>
+<p>Reusing the variable name provides no information about the process that rawDat has been through. Storing it as a separate variable lets us see what transformations have been carried out on the original variable:</p>
 <pre><code>rawDat_recoded &lt;- recode(rawDat)
-remove(x)</code></pre>
+remove(rawDat)</code></pre>
+<p>If you like you can clear out the old variable using remove as above.</p>
 </div>
 <div id="commenting" class="section level2">
 <h2>Commenting</h2>
-<p>Comments can be blocked or inline. The PEP8 guidelines have firm suggestions that block comments should be full sentences, have two spaces following a period, and follow a dated style guide(Strunk and White<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a>, whereas inline comments should be used sparingly. Comments have been described as “Love letters to your future self”<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a>. Keeping clear and concise comments not only allows you to keep track of the decisions you have made, what particular functions do, and what variables are used, it also allows other people to see your thought processes. The syntax for comments varies with programming languages. In R and Python, a hashtag is used, whereas in C#, double back-slash is used.</p>
-<pre class="{r}"><code>times = 10 # Set integer
+<p>Comments can be blocked or inline. The PEP8 guidelines have firm suggestions that block comments should be full sentences, have two spaces following a period, and follow a dated style guide(Strunk and White<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a>, whereas inline comments should be used sparingly. Comments have been described as “Love letters to your future self”<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a>. Keeping clear and concise comments not only allows you to keep track of the decisions you have made, what particular functions do, and what variables are used, it also allows other people to see your thought processes. The syntax for comments varies with programming languages. In R and Python, a hashtag is used, whereas in C the brackets <code>/* /*</code> are used, and in C++/C# a double slash <code>//</code> comments single lines. In Python:</p>
+<pre class="{python}"><code>times = 10 # Set integer
 my_variable = &quot;my variable is %s times better than yours&quot; %times #Set my_variable to a string
 print(my_variable) #print the value</code></pre>
-<p>For longer comments, information can be included above the code block.</p>
-<pre class="{r}"><code>#The following function takes a number, multiplies it be 5, and subtracts 2.  This may seem pointless, but is simple for the purpose of demonstration.
-
-my_func = function(number){ #R function
+<p>In R:</p>
+<pre class="{r}"><code>my_func = function(number){ #R function
 
 (number * 5) - 2
 }
 print(my_func(2))</code></pre>
-<pre><code>def myfunc(numb): #python function
+<p>In C:</p>
+<pre class="{c}"><code>static int
+{
+int my_int = 57 ; /* C for completion */
+}</code></pre>
+<p>For longer comments, information can be included above the code block. In Python you can use triple speech marks as parenthesis. This will comment out anything in between.</p>
+<pre class="{python}"><code>&quot;&quot;&quot;
+The following function takes a number, multiplies it be 5, and subtracts 2.
+This may seem pointless, but is simple for the purpose of demonstration.
+&quot;&quot;&quot;
+def myfunc(numb): #python function
       return((numb*5)-2)
 print(myfunc(8))
 </code></pre>
+<p>Longer blocks of comments are not available in R. There are ways around this, such as setting up a string, or an if(false) statement:</p>
+<pre class="{r}"><code>
+&quot;1 - This is a string, it will not be evaluated by R, and will not raise
+and exception&quot;
+
+if(false){
+2 - All of your comment can go here and will never be evaluated.
+It also means you keep to the 80 character line length suggestion.
+Also, in RStudio you can fold away the comment using the arrow next to the 
+line number of the if statement.
+}</code></pre>
+<p>Or commenting out individual lines:</p>
+<pre class="{r}"><code>#This is also a very long comment
+#covering many lines.</code></pre>
+<p>Your IDE will probably have a keyboard shortcut for commenting out blocks though.</p>
 </div>
 <div id="line-length" class="section level2">
 <h2>Line Length</h2>
@@ -242,9 +268,9 @@ print(&quot;Hello world&quot;)
 <div class="footnotes">
 <hr />
 <ol>
-<li id="fn1"><p>The Python style guide (PEP) is now in its 8th edition.<a href="#fnref1">↩</a></p></li>
-<li id="fn2"><p>Fortunately the Elements of Style no longer requires an emphasis on masculine pro-nouns.<a href="#fnref2">↩</a></p></li>
-<li id="fn3"><p>Jon Peirce, developer of PsychoPy<a href="#fnref3">↩</a></p></li>
+<li id="fn1"><p>The Python style guide (Python Enhancement Proposal 8) has had numerous revisions since it was released in 2001.<a href="#fnref1">↩</a></p></li>
+<li id="fn2"><p>Fortunately the Elements of Style no longer requires an emphasis on masculine pronouns.<a href="#fnref2">↩</a></p></li>
+<li id="fn3"><p>Jon Peirce, creator of PsychoPy<a href="#fnref3">↩</a></p></li>
 </ol>
 </div>
 
