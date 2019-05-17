@@ -88,11 +88,11 @@ What is “version control”, and why should you care? Version control is a sys
 
 The typical procedure for using version control is as follows:
 
-1. Have some files
-2. Do some work- you will now have made changes. Maybe you've modified one or more files, added new ones, or deleted old ones, it doesn't matter.
-3. Make a commit. This means you take a snapshot of your work at this point in time.
+1. Create some files - these may be text or code.
+2. Work on these files, changing, deleting or adding new content.
+3. Create a snapshot of the work at this time. This will be described differently in different software. Git will ask you to make a commit, other systems make ask you to make a timepoint or checkpoint or just to save your work.
 
-Keep doing work and making more and more commits. You can think of commits as checkpoints. If you ever need to go back to any past checkpoint to get a file as it was then, or just return your entire project to a past state you can. An illustration of this is shown in the figure below.  
+Keep doing work and making more and more snapshots. You can think of these as savepoints - if you need to go back to any point in time because of a mistake, or changing your mind about a decision, you can go back to get a file as it was then, or just return your entire project to a past state. An illustration of this is shown in the figure below.  
 
 ![master_branch](/assets/figures/master_branch.png)
 
