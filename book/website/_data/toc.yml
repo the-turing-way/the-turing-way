@@ -60,3 +60,5 @@
   url: make/make
 - title: Risk Assessment
   url: risk_assessment/risk_assessment
+- title: Search
+  search: true
