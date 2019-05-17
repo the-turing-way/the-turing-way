@@ -27,7 +27,6 @@ The following sections in this handbook provide useful context and complementary
 
 <a name="Summary"></a>
 ## Summary 
-> easy to understand summary - a bit like tl;dr
 
 Research data management is a key part in encouraging reproducible research. Data management ensures efficiency in research workflows, and also greater reach and impact, as data and software become FAIR (Findable, Accessible, Interoperable and Reuseable). Data should be stored in multiple locations and backed-up regularly. Documentation and metadata ensure that others know how to access, use and re-use your data, and also enable conditions for sharing and publishing data to be outlined. 
 
