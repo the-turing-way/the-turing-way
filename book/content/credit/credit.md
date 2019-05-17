@@ -21,7 +21,7 @@ Future work:
 
 1. [Summary](#summary)
 2. [How this will help you/why this is useful?](#how-this-will-help-you-why-this-is-useful)
-3. [Chapter content](#chapter-content)
+3. [Making it easy to cite your stuff](#making-it-easy-to-cite-your-stuff)
 4. [Checklist](#checklist)
 5. [What to learn next](#what-to-learn-next)
 6. [Further reading](#further-reading)
