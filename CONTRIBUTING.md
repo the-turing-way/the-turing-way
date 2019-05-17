@@ -315,7 +315,10 @@ Relative links are added by inserting the file path in brackets, ( ), where you 
 > [Experience with version control](/version_control/version_control)
 ```
 
-The path can be found by looking at the page you would like to link to (for example, https://the-turing-way.netlify.com/testing/testing.html) and then taking everything after https://the-turing-way.netlify.com. 
+The path you add _starts_ from the [`content`](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/content) folder in this github repository.
+Note the difference between starting your path with `/`, which means it will start from the `content` folder vs starting from the location of the file you're writing in.
+
+A nice easy way to find absolute path can be found by looking at the page you would like to link to (for example, https://the-turing-way.netlify.com/testing/testing.html) and then taking everything after https://the-turing-way.netlify.com. 
 Please note that you do not need to include the file extension, for example .html, in your relative path.
 
 ## Recognising Contributions
