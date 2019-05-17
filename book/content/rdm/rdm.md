@@ -9,21 +9,22 @@ The following sections in this handbook provide useful context and complementary
 
 1. [Summary](#Summary)
 2. [Why this is useful](#Why-useful)
-3. [The Research Data Lifecycle](#Data-Lifecycle) 
-4. [FAIR data](#FAIR)
-5. [Storage and backup](#Storage-backup)
+3. [What is data?](#What-Data)
+4. [The Research Data Lifecycle](#Data-Lifecycle) 
+5. [FAIR data](#FAIR)
+6. [Storage and backup](#Storage-backup)
     i. [Where to store data](#Where-store)
     ii. [Backups](#Backups)
-6. [Documentation and metadata](#Documentation-Metadata)
-7. [Sharing and archiving data](#Sharing-Archiving)
+7. [Documentation and metadata](#Documentation-Metadata)
+8. [Sharing and archiving data](#Sharing-Archiving)
     i. [Motivations for sharing data](#Motivations-Sharing)
     ii. [Steps to share your data](#Steps-Share)
     iii. [Barriers to data sharing](#Barriers-Share)
-8. [Checklist](#Checklist)
-9. [What to read next](#What-Next)
-10. [Further reading](#Further-Reading)
-11. [Glossary](#Glossary)
-12. [Bibliography](#Bibliography)
+9. [Checklist](#Checklist)
+10. [What to read next](#What-Next)
+11. [Further reading](#Further-Reading)
+12. [Glossary](#Glossary)
+13. [Bibliography](#Bibliography)
 
 <a name="Summary"></a>
 ## Summary 
@@ -32,13 +33,18 @@ Research data management covers how research data can be stored, described and r
 
 <a name="Why-useful"></a>
 ## How this will help you/ why this is useful 
-Having data available is a key component of reproducing an analysis. 
+Having data available is a key component of reproducing an analysis.
 To be able to share data that is understandable and re-usable, research data needs to be managed properly. 
 Thus, this chapter lays out good data management practice to allow you to plan your data management activities at the start of your reproducible research project.
 
 
 
 ## Chapter content
+<a name="What-Data"></a>
+### What Is Data?
+
+In some fields it's obvious what data means - you have observations or results of simulations etc. However, in other fields, particularly in Social Sciences, Humanities or Arts, you may be thinking "I don't think I have any data". A good way of thinking about what might be classed as data that needs to be managed is to ask yourself the questions "What is the information that I need to write my paper or book?", "What information would I need to back up my conclusions?" and "What information is needed for someone else to replicate the research that I've done?". This information is your data.
+
 <a name="Data-Lifecycle"></a>
 ### The Research Data Lifecycle - A Model for Data Management 
 
