@@ -123,7 +123,7 @@ logging.warning('And this, too')
 
 We can restrict which messages are logged by changing the `level` parameter. For example we can set the `level=log.INFO` to skip the debug messages. 
 
-This is a more complete example in which we change the log format and the time zone. The log will be streamed to the console and to `mylog.log` file. Additionally, errors will also be logged into a separate file `mylog_errors.log`. Entries to the log can be managed using the instance `logger`. In this case `mode='a'` means to append to any previous existing log file.
+We will see now a more complete example to setup a log where we change the log format and the time zone. The log will be streamed to the console and to `mylog.log` file. Additionally, errors will also be logged into a separate file `errors.log`. Entries to the log can be managed using the instance `logger`. In this case `mode='a'` means to append to any previous existing log file.
 
 
 ```python
@@ -152,7 +152,7 @@ def get_logger(
     # File errors.log containing only warnings or worse
     file_handler_error = logging.FileHandler(LOG_FILE_ERROR, mode='a')
     file_handler_error.setFormatter(log_formatter)
-    file_handler_error.setLevel(logging.WARNING)
+    file_handler_error.setLevel(logging.ERROR)
     logger.addHandler(file_handler_error)
 
     logger.setLevel(logging.INFO)
@@ -165,7 +165,7 @@ logger = get_logger() # Set up your logger
 # Now you can send informative messages to the log
 logger.info('Starting pipeline')
 example_parameter = 33
-logger.info('Will run something using parameter {0}'.format(example_parameter))
+logger.info('Running something using parameter value {0}'.format(example_parameter))
 logger.warning('This does not look right')
 #...
 if 2 > 3:
@@ -175,11 +175,11 @@ if 2 > 3:
 logger.info('My program ends here')
 
 ```
-And this is the output sent to the console and my_log.log file:
+And this is the output sent to the console and mylog.log file:
 
 ```
 2019-05-17 15:10:35 | INFO | Starting pipeline
-2019-05-17 15:10:35 | INFO | Will run something using parameter 33
+2019-05-17 15:10:35 | INFO | Running something using parameter value 33
 2019-05-17 15:10:35 | WARNING | This does not look right
 2019-05-17 15:10:35 | INFO | My program ends here
 
