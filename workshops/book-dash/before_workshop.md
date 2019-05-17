@@ -2,7 +2,7 @@
 
 Dear book dash attendees,
 
-We are looking forward to welcoming you to our Turing Way book dash in London next week! 
+We are looking forward to welcoming you to our Turing Way book dash in London in 10 days! 
 We have a couple of things for you to look at before the workshop and some more information about what is happening on the day:
 
 ## Getting ready
