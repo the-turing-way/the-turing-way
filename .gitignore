@@ -1,3 +1,7 @@
 .secrets/*
 
 \.vscode/settings\.json
+
+book/website/Pipfile
+
+book/website/Pipfile\.lock
