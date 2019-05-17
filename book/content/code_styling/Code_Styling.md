@@ -1,11 +1,60 @@
-\textit{Formatting your code to a particular style is super important
-Linting can be a little confusing though!
-This chapter can cover good practise for stying your code so that others can read and understand it easily.}
+# Writing Clear and (Human) Readable Code
+## Introduction
+Have you ever opened a syntax or script file two years after running an analysis, only to find that not only have you no memory of the code, but you've forgotten the language too?
+On top of this you have a load of comments, such as "# Add this later", or "# WHAT WAS I THINKING???", and variables of "df_1_new", "new_dat_4_r".  If you have a larger project, perhaps your filenames include "dat_analsis_1_FINAL_.R" and "data_analysis_2_FINAL_2.R"?
 
-Coding Conventions
+This is frustrating enough when it is just you reading back on it, but imagine cloning these files from github, or the Open Science Framework
+Not only do you have no memory of what was meant, but you never knew in the first place!
 
-Styles:
-comment
+This chapter aims to introduce some principals of code hygine, including style, naming conventions, creating useful comments, and will briefly discuss the concept of *linting*, which is a real time error checking process that many integrated development environments (IDE) include.  Keeping this advice in mind will help you create reusable, and easily adaptable code.
+
+## Code Styling
+
+Style guidelines differ between organisations, languages, and over time ^[The Python style guide (PEP) is now in its 8th edition.].
+It is important that you work to a framework that is best for your purposes, bearing in mind that consistency makes for easier reading and understanding.
+
+Style guidelines include advice for file naming, variable naming, comments, and the use of whitespace and brackets.
+For examples of style guides, follow the following links:
+
+* [PEP8](https://www.python.org/dev/peps/pep-0008/) for Python
+* [Hadley Wickham's](http://adv-r.had.co.nz/Style.html) style guide for R
+* [Google's](https://google.github.io/styleguide/Rguide.xml) style guide for R
+* [Microsoft's](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) style guide for C#.
+
+## File Naming
+
+The Centre for Open Science has some useful suggestions for naming of files, particularly ensuring that they readable both to humans and computers.  This includes avoiding the use of wildcard characters (@£$%) and using underscores ("_") to delimit information, and dashes ("-") to conjunct information or spaces.  They also suggest dating or numbering files, and avoiding words like FINAL (or FINAL-FINAL).  The dating suggestion is 
+
+## Commenting
+Comments has been described as "Love letter to your future self"^[Jon Peirce, developer of PsychoPy]. Keeping clear and concise comments not only allows you to keep track of the decisions you have made, what particular functions do, and what variables are used, it also allows other people to see your thought processes.
+The syntax for comments varies with programming languages.  in R and Python, a hashtag is used, whereas in C#, double back-slash is used.
+
+For shorter comments, you can keep them in-line:
+
+```{r}
+times = 10 # Set variable times to the integer 10
+my_variable = "my variable is %s times better than yours" %times #Set my_variable to a string
+print(my_variable) #prints the value
+```
+
+For longer comments, information can be included above the code block.
+
+```{r}
+#The following function takes a number, multiplies it be 5, and minuses 2.  This may seem pointless, but is simple for the purpose of demonstration.
+
+my_func = function(number){ #R function
+
+(number * 5) - 2
+}
+print(my_func(2))
+```
+
+```
+def myfunc(numb): #python function
+      return((numb*5)-2)
+print(myfunc(8))
+
+```
 indent
 line length
 
@@ -19,8 +68,9 @@ _ Mixed_Case_With_Underscores
 
 Kebab wont work with some languages, such as R and python since this will be interpreted as a subtraction sign. 
 
-Each language has its own best-practice guidelines, and these will be available from the relevant websites.  The purpose of this chapter is to highlight the different ways that code can be structured.
 
+
+Obviously, these are just guidelines, and you should choose elements that suit your own coding style.  However, it is important to ensure that you are consistent when collaborating, and agree on a common style.  It could be useful to create a readme file describing your approach to coding style so other users can see your decisions.
 Code formatting
 
 When making code open, it is important to ensure that it is legible and easy to follow.
@@ -33,15 +83,14 @@ Correct naming has a two-fold benefit.  The first is that it allows you to commu
 The style that you use is down to preference, however it is important to stick to it, and to ensure that your collaborators are using the same style.  Style includes: variable naming; use of whitespace; 
 
 ```
-ThisIs Because_Switching 
-	betweenDifferent 
-	formats is.difficult 
-		to read.
+ThisIs Because_SwitchingbetweenDifferentformats is.difficult to read.
 ```
 
-Where_as if_you stick_to one_style, your_code will_be easier_to follow!
+```
+Where_as if_you stick_to one_style, your_code will_be easier_to_follow!
+```
 
-# Variable Naming
+## Variable Naming
 There are a variety of naming styles that you can follow (not all will work with all languages).
 The major ones include:
 CamelCase
@@ -60,11 +109,12 @@ The functional importance of whitespace depends on the programming language you 
 
 In R
 
-```
+```{r}
 if(x==y){print("Hello world")}
-
+```
 However, adding whitespace to the R version makes the function easier to read:
 
+```{r}
 x = 1
 y = 1
 
@@ -77,7 +127,7 @@ print("Hello world")
 
 In Python, there are no brackets, so you need to be aware of how much whitespace is used.
 
-```
+```{python}
 if x == y:
 	print "hello world"
 ```
