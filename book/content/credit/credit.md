@@ -11,9 +11,13 @@ Future work:
 ## Prerequisites / recommended skill level
 > other chapters that should have been read before or content you should be familiar with before you read this
 
-| Prerequisite | Importance | Notes |
-| -------------|----------|------|
-| Chapter/topic | How important it is | Any notes |
+| Prerequisite        | Importance               | Notes  |
+| -------------       | ----------               | ------ |
+| [Reproducibility][] | Useful but not essential |        |
+| [Open research][]   | Useful but not essential |        |
+
+[Reproducibility]: /reproducibility/reproducibility.html
+[Open research]: /open_research/open_research.html
 
 1. [Summary](#summary)
 2. [How this will help you/why this is useful?](#how-this-will-help-you-why-this-is-useful)
