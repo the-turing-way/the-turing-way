@@ -219,6 +219,7 @@ If you haven't read the chapter on Open Research yet, you might want to read it 
 RDM - Research Data Management
 DMP - Data Management Plan
 FAIR - Findable, Accessible, Interoperable and Reusable
+METADATA - Data that describes other data
 <a name="Bibliography"></a>
 ## Bibliography 
 
