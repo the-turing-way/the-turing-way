@@ -311,7 +311,9 @@ This can be done simply as:
 Links between different pages within the book (e.g. [Open Research](https://the-turing-way.netlify.com/open_research/open_research.html) and [Version Control](https://the-turing-way.netlify.com/version_control/version_control.html)) should be added as relative links.
 Relative links are added by inserting the file path to the content where you would usually add a link as demonstrated below:
 
+```
 > [Experience with version control](/version_control/version_control)
+```
 
 The path can be found by looking at the page you would like to link to (for example, https://the-turing-way.netlify.com/testing/testing.html) and then taking everything after https://the-turing-way.netlify.com. 
 Please note that you do not need to include the file extension, for example .html, in your relative path.
