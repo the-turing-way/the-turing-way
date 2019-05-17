@@ -65,7 +65,7 @@ Thorough documentation<!--reference goes here once section exists--> is a key co
 
 This kind of feedback on documentation applies equally to user-facing documentation and to inline comments.
 
-### Readbility
+### Readability
 
 Related to documentation, code review can also help to ensure that code is readable and easy to understand. Having a second pair of eyes can help spot areas where the code might be difficult to follow. The more readable your code is, the easier it will be for other developers to reproduce your code for their own purposes.
 
