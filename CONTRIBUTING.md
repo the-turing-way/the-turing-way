@@ -302,6 +302,8 @@ This can be done simply as:
 | Try them, try them, and you may! Try them and you may, I say.  |
 ```
 
+Figures should be added to the `book/content/figures` directory.
+
 ### Referencing and Citing
 
 > To Be Done.
