@@ -378,6 +378,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jmoldon",
+      "name": "Javier Moldon",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1053066?v=4",
+      "profile": "https://github.com/jmoldon",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
