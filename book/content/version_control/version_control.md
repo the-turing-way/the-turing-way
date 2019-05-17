@@ -96,7 +96,7 @@ Keep doing work and making more and more snapshots. You can think of these as sa
 
 ![master_branch](/assets/figures/master_branch.png)
 
-Every time you make a commit you can tag it with a commit message explaining what this snapshot of your project is doing. This makes it very easy to find what you're looking for when you need to go back to a past version.
+In lots of version control systems you will be able to add a comment explaining what changes have been made in this version. These comments should be as clear as possible and make it easy to understand which version is which. This ensures that it is easy to find what you're looking for when you need to go back to a past version. Your collaborators will thank you, but so will future versions of yourself.
 
 ### Other facilities offered by version control
 
