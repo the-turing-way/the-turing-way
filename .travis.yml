@@ -1,4 +1,11 @@
-language: minimal
+language: ruby
+cache: bundler 
+
+rvm:
+    - 2.3.6
+
 script: 
     - bash ./scripts/test-file-size.sh
-    
+    - bash ./scripts/html-proof.sh
+
+
