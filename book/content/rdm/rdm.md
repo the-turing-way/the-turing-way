@@ -51,7 +51,8 @@ Thus, this chapter lays out good data management practice to allow you to plan y
 <a name="What-Data"></a>
 ### What Is Data?
 
-In some fields it's obvious what data means - you have observations or results of simulations etc. However, in other fields, particularly in Social Sciences, Humanities or Arts, you may be thinking "I don't think I have any data". 
+In some fields it's obvious what data means - you have observations or results of simulations etc.
+However, in other fields, particularly in Social Sciences, Humanities or Arts, you may be thinking "I don't think I have any data". 
 A good way of thinking about what might be classed as data that needs to be managed is to ask yourself the questions "What is the information that I need to write my paper or book?", "What information would I need to back up my conclusions?" and "What information is needed for someone else to replicate the research that I've done?". 
 This information is your data.
 
