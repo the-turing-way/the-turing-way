@@ -14,6 +14,7 @@ script:
     - bash ./scripts/test-file-size.sh
     - cd ./book/website
     - gem install jekyll 
+    - bundle install
     - bash ./scripts/html-proof.sh
 
 
