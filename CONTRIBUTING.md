@@ -313,6 +313,7 @@ Relative links are added by inserting the file path in brackets, ( ), where you 
 
 ```
 > [Experience with version control](/version_control/version_control)
+> The [next section](../03/definitions.html) of this chapter
 ```
 
 The path you add _starts_ from the [`content`](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/content) folder in this github repository.
