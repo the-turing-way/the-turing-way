@@ -333,6 +333,15 @@
         "doc",
         "review"
       ]
+    },
+    {
+      "login": "wjchulme",
+      "name": "wjchulme",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25637345?v=4",
+      "profile": "https://github.com/wjchulme",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
