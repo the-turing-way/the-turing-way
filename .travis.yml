@@ -14,7 +14,7 @@ before_script:
     - source ~/virtualenv/python3.6.3/bin/activate
     - python --version # to debug
     - pip install -r ./book/website/requirements.txt
-    - pip install -u attrs pytest
+    - pip install -U attrs pytest
 
 script: 
     - bash ./scripts/test-file-size.sh
