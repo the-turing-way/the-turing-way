@@ -4,12 +4,6 @@ language: generic
 
 cache: bundler 
 
-rvm:
-    - "2.6.3"
-
-python:
-    - "3.6"
-
 before_script:
     - source ~/virtualenv/python3.6.3/bin/activate
     - python --version # to debug
