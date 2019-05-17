@@ -66,8 +66,8 @@ One way to do this is to create a data management plan, in [DMPonline](https://d
 <a name="Storage-backup"></a>
 ### Storage and backup 
 
-Data loss can be catastrophic for your research project and happens regularly.
-You can prevent data loss by picking suitable storage solutions and backing your data up regularly.
+Data loss can be catastrophic for your research project and can happen often.
+You can prevent data loss by picking suitable storage solutions and backing your data up frequently.
 <a name="Where-store"></a>
 #### Where to store data 
 * Most institutions will provide a *network drive* that you can use to store data.  
@@ -87,7 +87,7 @@ To avoid loosing your data, you should follow good backup practices.
 * at least 2 different storage media, 
 * in different locations.
 
-The more important the data and the more often the datasets change, the more regularly you should back them up.
+The more important the data and the more often the datasets change, the more frequently you should back them up.
 If your files take up a large amount of space and backing up all of them would be difficult or expensive, you may want to create a set of criteria for when you back up the data. This can be part of your data management plan.
 <a name="Documentation-Metadata"></a>
 ### Documentation and metadata 
