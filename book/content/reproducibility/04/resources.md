@@ -1,7 +1,7 @@
 # Resources for reproducibility chapter
 
 ## Checklist/Exercise
-- [ ] define reproducibility for yourself
+- [ ] Define reproducibility for yourself.
 
 ## What to learn next?
 Open Science will be a good chapter to read next.
