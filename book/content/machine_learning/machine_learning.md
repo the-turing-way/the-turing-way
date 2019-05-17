@@ -14,7 +14,32 @@
 > why we think you should read the whole thing
 
 ## Chapter content
-> depending on the content, this might be more structured, e.g. with exercises, gotcha sections etc
+### Introduction to basic machine learning concepts
+
+#### Supervised learning
+
+#### Unsupervised learning
+
+#### Clustering
+
+### Highlighting popular machine learning resources
+
+#### SKLearn
+
+#### TensorFlow
+
+#### Keras 
+
+### Outlining a machine learning project workflow
+data -> algorithm -> output plots -> repeat
+
+### Best practices for retrieving data
+
+### Examples of a workflow
+iris data
+
+### Best practices for implementing algorithms
+(sklearn.pipeline)
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
