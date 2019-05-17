@@ -4,7 +4,7 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
-| [Experience with version control](..blob/master/book/content/version_control/version_control.md) | Helpful | Experience with GitHub is particularly useful |
+| [Experience with version control](/version_control/version_control.html) | Helpful | Experience with GitHub is particularly useful |
 
 Recommended skill level: low.
 
