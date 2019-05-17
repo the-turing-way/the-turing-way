@@ -3,10 +3,12 @@
 Have you ever opened a syntax or script file two years after running an analysis, only to find that not only have you no memory of the code, but you've forgotten the language too?
 On top of this you have a load of comments, such as "# Add this later", or "# WHAT WAS I THINKING???", and variables of "df_1_new", "new_dat_4_r".  If you have a larger project, perhaps your filenames include "dat_analsis_1_FINAL_.R" and "data_analysis_2_FINAL_2.R"?
 
-This is frustrating enough when it is just you reading back on it, but imagine cloning these files from github, or the Open Science Framework
+This is frustrating enough when it is just you reading back on it, but imagine cloning these files from github, or the Open Science Framework.
+
 Not only do you have no memory of what was meant, but you never knew in the first place!
 
-This chapter aims to introduce some principals of code hygine, including style, naming conventions, creating useful comments, and will briefly discuss the concept of *linting*, which is a real time error checking process that many integrated development environments (IDE) include.  Keeping this advice in mind will help you create reusable, and easily adaptable code.
+This chapter aims to introduce some principals of code hygine, including style, naming conventions, creating useful comments, and will briefly discuss the concept of *linting*, which is a real time error checking process that many integrated development environments (IDE) include.
+Keeping this advice in mind will help you create reusable, and easily adaptable code.
 
 ## Code Styling
 
@@ -23,8 +25,35 @@ For examples of style guides, follow the following links:
 
 ## File Naming
 
-The Centre for Open Science has some useful suggestions for naming of files, particularly ensuring that they readable both to humans and computers.  This includes avoiding the use of wildcard characters (@£$%) and using underscores ("_") to delimit information, and dashes ("-") to conjunct information or spaces.  They also suggest dating or numbering files, and avoiding words like FINAL (or FINAL-FINAL).  The dating suggestion is 
+The [Centre for Open Science](http://help.osf.io/m/bestpractices/l/609932-file-naming) has some useful suggestions for naming of files, particularly ensuring that they readable both to humans and computers.
+This includes avoiding the use of wildcard characters (@£$%) and using underscores ("\_") to delimit information, and dashes ("\-") to conjunct information or spaces.
+They also suggest dating or numbering files, and avoiding words like FINAL (or FINAL-FINAL).
+The dating suggestion is the long format `YYYY-MM-DD`, followed by the name of the file, and the version number.  This results in an automatic, chronological order. For example:
 
+```
+data <- read.csv("2019-05-17_Turing-Way_Book-Dash.csv")
+
+```
+
+## Variable Naming
+Unlike in school maths projects where variables are usually unimaginatively called "x","y", and "z", coding variables can be called anything, and this can be useful for representing the flow of your script.  Be creative!
+```
+raw_data <- read.csv("data.csv")
+rawData <- read.csv("data.csv")
+
+``
+You may have a function that recodes a variable:
+
+```
+x <- recode(x)
+
+```
+Provides no information about the process that x has been through.  Storing it as a separate variable lets us see what transformations have been carried out on the original variable:
+
+```
+x_recoded <- recode(x)
+remove(x)
+```
 ## Commenting
 Comments has been described as "Love letter to your future self"^[Jon Peirce, developer of PsychoPy]. Keeping clear and concise comments not only allows you to keep track of the decisions you have made, what particular functions do, and what variables are used, it also allows other people to see your thought processes.
 The syntax for comments varies with programming languages.  in R and Python, a hashtag is used, whereas in C#, double back-slash is used.
@@ -70,17 +99,29 @@ Kebab wont work with some languages, such as R and python since this will be int
 
 
 
-Obviously, these are just guidelines, and you should choose elements that suit your own coding style.  However, it is important to ensure that you are consistent when collaborating, and agree on a common style.  It could be useful to create a readme file describing your approach to coding style so other users can see your decisions.
+Obviously, these are just guidelines, and you should choose elements that suit your own coding style. However, it is important to ensure that you are consistent when collaborating, and agree on a common style.
+It could be useful to create a readme file describing your approach to coding style so other users can see your decisions.
 Code formatting
 
 When making code open, it is important to ensure that it is legible and easy to follow.
 
-Much like writing prose, there are a number of methods available to help make your code clear.  These include use of whitespace, naming, commenting.
+Much like writing prose, there are a number of methods available to help make your code clear.
+These include use of whitespace, naming, commenting.
 
-Correct naming has a two-fold benefit.  The first is that it allows you to communicate the purpose of a variable or object without additional commenting.  For example participant_data is more informative than df.  It can also let you see the flow of your code or script.  For instance  participant_data_no_outliers <- filter.outliers(participant_data) tells the reader something about the function that the 
+Correct naming has a two-fold benefit.
+The first is that it allows you to communicate the purpose of a variable or object without additional commenting.
+For example participant_data is more informative than df.
+It can also let you see the flow of your code or script.
+For instance the variable:
+
+```
+participant_data_no_outliers <- filter.outliers(participant_data)
+```
+tells the reader something about the transformation that the function has performed on the data.
 
 
-The style that you use is down to preference, however it is important to stick to it, and to ensure that your collaborators are using the same style.  Style includes: variable naming; use of whitespace; 
+The style that you use is down to preference, however it is important to stick to it, and to ensure that your collaborators are using the same style.
+Style includes: variable naming; use of whitespace; 
 
 ```
 ThisIs Because_SwitchingbetweenDifferentformats is.difficult to read.

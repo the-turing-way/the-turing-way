@@ -129,7 +129,8 @@ $(document).ready(function () {
 <div id="introduction" class="section level2">
 <h2>Introduction</h2>
 <p>Have you ever opened a syntax or script file two years after running an analysis, only to find that not only have you no memory of the code, but you’ve forgotten the language too? On top of this you have a load of comments, such as “# Add this later”, or “# WHAT WAS I THINKING???”, and variables of “df_1_new”, “new_dat_4_r”. If you have a larger project, perhaps your filenames include “dat_analsis_1_FINAL_.R” and “data_analysis_2_FINAL_2.R”?</p>
-<p>This is frustrating enough when it is just you reading back on it, but imagine cloning these files from github, or the Open Science Framework Not only do you have no memory of what was meant, but you never knew in the first place!</p>
+<p>This is frustrating enough when it is just you reading back on it, but imagine cloning these files from github, or the Open Science Framework.</p>
+<p>Not only do you have no memory of what was meant, but you never knew in the first place!</p>
 <p>This chapter aims to introduce some principals of code hygine, including style, naming conventions, creating useful comments, and will briefly discuss the concept of <em>linting</em>, which is a real time error checking process that many integrated development environments (IDE) include. Keeping this advice in mind will help you create reusable, and easily adaptable code.</p>
 </div>
 <div id="code-styling" class="section level2">
@@ -142,8 +143,14 @@ $(document).ready(function () {
 <li><a href="https://google.github.io/styleguide/Rguide.xml">Google’s</a> style guide for R</li>
 <li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions">Microsoft’s</a> style guide for C#.</li>
 </ul>
-<p>Coding Conventions</p>
-<p>Styles: ## Commenting Comments has been described as “Love letter to your future self”<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a>. Keeping clear and concise comments not only allows you to keep track of the decisions you have made, what particular functions do, and what variables are used, it also allows other people to see your thought processes. The syntax for comments varies with programming languages. in R and Python, a hashtag is used, whereas in C#, double back-slash is used.</p>
+</div>
+<div id="file-naming" class="section level2">
+<h2>File Naming</h2>
+<p>The Centre for Open Science has some useful suggestions for naming of files, particularly ensuring that they readable both to humans and computers. This includes avoiding the use of wildcard characters (@£$%) and using underscores (“_“) to delimit information, and dashes (”-“) to conjunct information or spaces. They also suggest dating or numbering files, and avoiding words like FINAL (or FINAL-FINAL). The dating suggestion is</p>
+</div>
+<div id="commenting" class="section level2">
+<h2>Commenting</h2>
+<p>Comments has been described as “Love letter to your future self”<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a>. Keeping clear and concise comments not only allows you to keep track of the decisions you have made, what particular functions do, and what variables are used, it also allows other people to see your thought processes. The syntax for comments varies with programming languages. in R and Python, a hashtag is used, whereas in C#, double back-slash is used.</p>
 <p>For shorter comments, you can keep them in-line:</p>
 <pre class="{r}"><code>times = 10 # Set variable times to the integer 10
 my_variable = &quot;my variable is %s times better than yours&quot; %times #Set my_variable to a string
@@ -166,7 +173,9 @@ print(myfunc(8))
 <p>Obviously, these are just guidelines, and you should choose elements that suit your own coding style. However, it is important to ensure that you are consistent when collaborating, and agree on a common style. It could be useful to create a readme file describing your approach to coding style so other users can see your decisions. Code formatting</p>
 <p>When making code open, it is important to ensure that it is legible and easy to follow.</p>
 <p>Much like writing prose, there are a number of methods available to help make your code clear. These include use of whitespace, naming, commenting.</p>
-<p>Correct naming has a two-fold benefit. The first is that it allows you to communicate the purpose of a variable or object without additional commenting. For example participant_data is more informative than df. It can also let you see the flow of your code or script. For instance participant_data_no_outliers &lt;- filter.outliers(participant_data) tells the reader something about the function that the</p>
+<p>Correct naming has a two-fold benefit. The first is that it allows you to communicate the purpose of a variable or object without additional commenting. For example participant_data is more informative than df. It can also let you see the flow of your code or script. For instance the variable:</p>
+<pre><code>participant_data_no_outliers &lt;- filter.outliers(participant_data)</code></pre>
+<p>tells the reader something about the transformation that the function has performed on the data.</p>
 <p>The style that you use is down to preference, however it is important to stick to it, and to ensure that your collaborators are using the same style. Style includes: variable naming; use of whitespace;</p>
 <pre><code>ThisIs Because_SwitchingbetweenDifferentformats is.difficult to read.</code></pre>
 <pre><code>Where_as if_you stick_to one_style, your_code will_be easier_to_follow!</code></pre>
