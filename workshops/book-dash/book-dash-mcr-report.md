@@ -6,6 +6,8 @@
 
 ## The participants
 
+![https://pbs.twimg.com/media/D6y7be5XYAAF0i2?format=jpg&name=900x900](https://pbs.twimg.com/media/D6y7be5XYAAF0i2?format=jpg&name=900x900)
+
 * Rachael Ainsworth [@rainsworth](https://github.com/rainsworth/)
 * Tarek Allam Jr [@tallamjr](https://github.com/tallamjr)
 * Tania Allard [@trallard](https://github.com/trallard)
@@ -122,7 +124,7 @@ Greg couldn't FIND FAIR in the first place which lead to a contribution to the j
   * Message of the chapter: "Do as you wish, but try to be consistent."
   * Examples in R and Python.
 
-* Alex Clarke [@informationcake](https://github.com/informationcake/), Joe Fennell [@joe-fennell](https://github.com/joe-fennell), Tarek Allam Jr [@tallamjr](https://github.com/tallamjr), Javier Moldon [@jmoldon](https://github.com/jmoldon)
+* Alex Clarke [@informationcake](https://github.com/informationcake/), Joe Fennell [@joe-fennell](https://github.com/joe-fennell), Tarek Allam Jr [@tallamjr](https://github.com/tallamjr), Javier Moldon [@jmoldon](https://github.com/jmoldon):
   * Chapter outline: Reproducible data analysis pipelines for machine learning ([Issue #483](https://github.com/alan-turing-institute/the-turing-way/issues/483), [Pull request # 477](https://github.com/alan-turing-institute/the-turing-way/pull/477))
   * Sketched out in notes, lots of post its! Collaboratively written across all 4 team members.
   * Looking for reviewers.
@@ -140,9 +142,10 @@ Greg couldn't FIND FAIR in the first place which lead to a contribution to the j
   * Added contributors.
   * Opened some new issues so the team have them written down for future work :smile: 
 
-* Matt
+* Matt:
   * Drew all these pictures!
   * Favourite was the community garden - nurturing everyone so that all the collaborative work can grow :heart_eyes:
+  ![https://pbs.twimg.com/media/D6zGuPiW4AI3m8s?format=jpg&name=4096x4096](https://pbs.twimg.com/media/D6zGuPiW4AI3m8s?format=jpg&name=4096x4096)
 
 
 ## What did we learn?
