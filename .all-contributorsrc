@@ -424,6 +424,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jezcope",
+      "name": "Jez Cope",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/457628?v=4",
+      "profile": "http://erambler.co.uk/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
