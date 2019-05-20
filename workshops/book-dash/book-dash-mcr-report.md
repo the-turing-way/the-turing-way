@@ -88,10 +88,11 @@ Greg couldn't FIND FAIR in the first place which lead to a contribution to the j
   * Add link to citations ([Issue #495](https://github.com/alan-turing-institute/the-turing-way/issues/495))
 
 * Jade Pickering [@jspickering](http://www.github.com/jspickering):
+  * First Pull request!!! :bell::bell::bell:
     * Restructured the Open Research chapter ([Pull request #482](https://github.com/alan-turing-institute/the-turing-way/pull/482)) [merged]
-      * Breaking down into smaller sub pages.....and then updating the table of contents so that these changes actually showed up.
-    * Added a Patient and Public Involvement section under the "Open Scholarship" header ([Issue #497](https://github.com/alan-turing-institute/the-turing-way/issues/497), [Pull request #510](https://github.com/alan-turing-institute/the-turing-way/pull/510))
-      * Related to citizen science but a little more specific.
+    * Breaking down into smaller sub pages.....and then updating the table of contents so that these changes actually showed up.
+  * Added a Patient and Public Involvement section under the "Open Scholarship" header ([Issue #497](https://github.com/alan-turing-institute/the-turing-way/issues/497), [Pull request #510](https://github.com/alan-turing-institute/the-turing-way/pull/510))
+     * Related to citizen science but a little more specific.
 
 * Will Hulme [@wjchulme](https://github.com/wjchulme): 
   * adding content on *data organisation in spreadsheets* to the RDM chapter, ([Issue #481](https://github.com/alan-turing-institute/the-turing-way/issues/481)) [closed], ([Pull request #499](https://github.com/alan-turing-institute/the-turing-way/pull/499)) [merged]
@@ -148,18 +149,11 @@ Greg couldn't FIND FAIR in the first place which lead to a contribution to the j
 
 There's also an issue for feedback - any comments on what we can do better at future events are appreciated: https://github.com/alan-turing-institute/the-turing-way/issues/505
 
-
-* Blog posts:
-    * https://montaguehellen.wordpress.com/2019/05/20/the-turing-way-and-a-return-to-github/
-* 
-* 
-*  
-* 
-*  
-
-
-## Pluses and deltas
-
-https://hackmd.io/9IIQpagHQoOGlwUnY98xQA
-
+* 2 first pull requests!! :bell: :bell:
+* When adding participants as collaborators to the project on GitHub, let them know and make sure they are aware of the email they've received and added functionality that comes with it.
+* Add explicit guidance on putting GitHub handles into the intro presentation and trying to make sure this happens in the initial brain storming session to keep track of contributors.
+* Feedback from [Pluses and deltas](https://hackmd.io/9IIQpagHQoOGlwUnY98xQA)
+  * Pluses: really supportive and inclusive environment, good organisation, brilliant icebreaker and really enjoyed having the artist in residence!
+  * Deltas: needed more time, friendlier introduction to Git/GitHub and more guidance on what tasks to take up.
+* Beth Montague-Hellen [@AlfAWolf140](https://github.com/AlfAWolf140) wrote a blog post about her experience: https://montaguehellen.wordpress.com/2019/05/20/the-turing-way-and-a-return-to-github/
 
