@@ -32,6 +32,28 @@
 
 ### What did we do?
 
+Our goal for the book dash was to bring together participants enthusiastic about reproducibility to contribute to and improve the *Turing Way* book during a one day collaborative event. 
+We held a networking event the evening prior to the book dash for participants to get to know each other and promote any projects that they're working on, in order to have an intense 9 to 5 day working on the book.
+There was a great diversity of lightning talks which were really fun:
+* Rachael talked about the women in data meetup group that she organises in Manchester: HER+Data MCR. :woman_technologist:
+* Beth revealed what you can and cannot get away with in roller derby! :women_wrestling:
+* Jez spoke about the tradition of Morris dancing and his experience as a Morris dancer. 🕺
+* Oli wowed us all with a performance of the *Jabberwocky* poem written by Lewis Carroll. 🐉
+* Rosti pitched her Soapbox science plans taking place in Stoke-on-Trent. 🔬
+* Alex described his Music and Machine Learning projects, as well as his students' project on using ML to classify Gender of voices (and the complications and biases involved). 🎶
+* Greg emphasised that a great way to learn more about a sport is through statistics! 🏀
+* Kirstie impressed us with her experiences of dog training. 🐶
+* Joe informed us about a bomb detector made from bees. 🐝
+
+
+During the dash, we set out to build upon the [Collaborations Workshop Hackday experience](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/collabw19/hackdayreport_20190403.md): we wanted to enhance the first version Turing Way project and ensure that contributing to the project is as straightfoward as possible.
+We had a mixture of contributions including curating and editing existing content, expanding existing content and writing entirely new content:
+* Many of the pull requests's below have been approved and published already!
+* New content includes chapters on
+  * Reproducible Data Analysis Pipelines for Machine Learning
+  * Credit for Reproducible research
+  * Code Styling for Reproducibility
+* Improved the ease of contributing to the project through enhanced pull request/issue templates, search functionality and  continuous integration within the book.
 
 Specifically:
 
@@ -106,7 +128,9 @@ Specifically:
 
 There's also an issue for feedback - any comments on what we can do better at future events are appreciated: https://github.com/alan-turing-institute/the-turing-way/issues/505
 
-* 
+
+* Blog posts:
+    * https://montaguehellen.wordpress.com/2019/05/20/the-turing-way-and-a-return-to-github/
 * 
 * 
 *  
@@ -119,21 +143,3 @@ There's also an issue for feedback - any comments on what we can do better at fu
 https://hackmd.io/9IIQpagHQoOGlwUnY98xQA
 
 
-## Things to capture in the event report
-
-* The diversity of the lightning talks! Really fun.
-    * Rachael: HER+Data MC
-    * Beth: Roller derby rules
-    * Jez: Morris dancing
-    * Oli: Jabberwocky
-    * Rosti: Soapbox science
-    * Alex: Music and ML, Gender
-    * Greg: Sports and statistics
-    * Kirstie: dog training
-    * Joe: Bomb detector made from bees
-* Tweets: 
-    * https://twitter.com/PsyTechOli/status/1130082861456007168?s=20
-    * https://twitter.com/Dr_Rosti/status/1129428912134660096?s=20
-    * 
-* Blog posts:
-    * https://montaguehellen.wordpress.com/2019/05/20/the-turing-way-and-a-return-to-github/
