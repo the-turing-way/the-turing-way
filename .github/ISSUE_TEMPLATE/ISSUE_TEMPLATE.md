@@ -1,3 +1,12 @@
+---
+name: General
+about: General issue
+title:
+labels:
+assignees: ''
+
+---
+
 <!--
 Please complete the following sections when you open an issue.
 You are encouraged to keep this top level comment box updated as you
