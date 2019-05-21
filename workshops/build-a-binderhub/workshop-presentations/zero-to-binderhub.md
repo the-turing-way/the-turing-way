@@ -204,9 +204,16 @@ az aks create --name hubcluster \
 
 **This step may take some time to execute!** :vertical_traffic_light:
 
-**WARNING:** If this step fails due to insufficient permissions on the directory, this is likely because you're using an institutional login to Azure and your institution has limited your ability to create Service Principals.
+**WARNING:** If this step fails due to insufficient permissions on the directory, this is likely because you're using an institutional email to login to Azure and your institution has limited your ability to create Service Principals.
 For the sake of this workshop, you should have created your account with a non-institutional email.
 Otherwise, you could ask your IT Services to provide you with a Service Principal.
+
+Once this command has completed, some extra resource groups will have been created which is normal behaviour.
+You can inspect them in the [Azure Portal](https://portal.azure.com/).
+The `testhub` group will contain the Kubernetes service, whereas a new resource group called `MC_testhub_hubcluster_westeurope` containing the cluster resources (virtual machines, etc.) will have appeared.
+There will also be a `NetworkWatcherRG` group which will be empty.
+This group is created under the assumption that the Kubernetes service will be extended in the future, which unlikely to be the case when deploying BinderHub.
+This group can be deleted.
 
 ### 6. Get credentials from Azure for `kubectl`
 
