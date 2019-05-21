@@ -311,6 +311,8 @@ kubectl patch deployment tiller-deploy \
     }]'
 ```
 
+**NOTE:** I would recommend removing the line breaks and whitespace from this command.
+
 :question: 🤔
 
 ### 5. Verify the installation
