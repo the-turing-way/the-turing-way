@@ -395,8 +395,11 @@ It will be listed in the `EXTERNAL-IP` field.
 kubectl --namespace=binderhub get svc proxy-public
 ```
 
-Copy this IP address into the `jupyter_ip` variable in `setup.sh` and uncomment the line (remove the `#` from the beginning).
-Also uncomment the `sed` expression on line 28 of `setup.sh` and the line beginning `hub_url:` in `config-template.yaml`.
+Now do the following steps:
+
+1) On [line 7 os `setup.sh`](https://github.com/alan-turing-institute/the-turing-way/blob/d59ccdd6579d676f94f79d26cb0437eb097673aa/workshops/build-a-binderhub/binderhub_resources/setup.sh#L7), copy the IP address from the last command into the `jupyter_ip` variable and uncomment the line (remove the `#` from the beginning)
+2) Again in `setup.sh`, move the line reading `#  -e "s/<jupyter-ip>/${jupyter_ip}/" \` above the line `config-template.yaml > secrets/config.yaml` and uncomment it by removing the `#` from the start
+3) Uncomment [line 8 of `config-template.yaml`](https://github.com/alan-turing-institute/the-turing-way/blob/d59ccdd6579d676f94f79d26cb0437eb097673aa/workshops/build-a-binderhub/binderhub_resources/config-template.yaml#L8) by removing the `#` from the beginning
 
 Rerun `setup.sh`.
 
