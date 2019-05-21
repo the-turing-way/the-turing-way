@@ -75,6 +75,8 @@ However, this falls out of the scope of a BinderHub workshop.
 
 You can access Key Vault Quickstarts and Tutorials [here](https://docs.microsoft.com/en-gb/azure/key-vault/).
 
+---
+
 :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
 ## Setup Local Files
@@ -110,8 +112,6 @@ mkdir secrets
 
 **NOTE:** If you are using version control, it is strongly recommended that you add the `secrets` folder to a `.gitignore` file to ensure secret information is not made public.
 Do this **before** adding any secrets to the folder!
-
----
 
 ## Deploying a Kubernetes cluster on Azure
 
@@ -254,7 +254,8 @@ Tiller runs inside your Kubernetes cluster as a pod in the `kube-system` namespa
 Tiller manages _releases_ (installations) and _revisions_ (versions) of charts deployed on the cluster.
 When you run a `helm` command, the local Helm client sends instructions to `tiller` in the cluster which in turn makes the requested changes.
 
-> **Did you know?:** Kubernetes is Greek for "captain" or "helmsman". In case you haven't noticed the nautical theme!
+> **Did you know?:** Kubernetes is Greek for "captain" or "helmsman".
+> In case you haven't noticed the nautical theme!
 
 ### 1. Setup a `ServiceAccount` for `tiller`
 
