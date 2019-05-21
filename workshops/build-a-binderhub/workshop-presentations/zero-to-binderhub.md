@@ -30,6 +30,8 @@ To follow along with these instructions, go to this link: [**bit.ly/zero-to-bind
 * [Tearing Down your BinderHub Deployment](#tearing-down-your-binderhub-deployment)
 * [Example config files](#example-config-files)
 * [Glossary of Kubernetes terms](#glossary-of-kubernetes-terms)
+ 
+---
 
 ## Cloud Resource Requirements
 
@@ -109,6 +111,8 @@ mkdir secrets
 **NOTE:** If you are using version control, it is strongly recommended that you add the `secrets` folder to a `.gitignore` file to ensure secret information is not made public.
 Do this **before** adding any secrets to the folder!
 
+---
+
 ## Deploying a Kubernetes cluster on Azure
 
 Adapted from [Step Zero: Kubernetes on Microsoft Azure Container Service (AKS)](https://zero-to-jupyterhub.readthedocs.io/en/latest/microsoft/step-zero-azure.html).
@@ -123,6 +127,12 @@ az login --output none
 
 This command will open a browser window for you to log in to your Azure account.
 You can safely close this window after logging in.
+
+**NOTE:** If you are having issues logging in (which may happen if you are using Safari), try the following command which will ask for your password.
+
+```
+az login -u <the-email-address-you-signed-up-with>
+```
 
 ### 2. Activate your Subscription
 
