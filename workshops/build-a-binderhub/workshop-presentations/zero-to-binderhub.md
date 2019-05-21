@@ -652,6 +652,12 @@ az group delete --name testhub
 You can use the [Azure Portal](https://azure.microsoft.com/en-gb/features/azure-portal/) to double check all of your resources have been deleted.
 It may take a few minutes to clear up, but nothing relating to your BinderHub should remain after this step.
 
+You should also delete the `NetworkWatcherRG` group if you did not do so earlier.
+
+```
+az group delete --name NetworkWatcherRG
+```
+
 ### 4. GitHub OAuth App
 
 If you enabled GitHub authentication on your BinderHub, don't forget to delete the OAuth Application in "Developer Settings" as well.
