@@ -18,9 +18,9 @@ Rachael Ainsworth, University of Manchester, rachael.ainsworth@manchester.ac.uk;
 *Summary of your proposal; maximum 300 words. The abstract should be a concise summary of the demo content and the relation to the overall objective of the conference. Please copy and paste this into the submission system at the time of submission.*
 
 *The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do" (https://the-turing-way.netlify.com). 
-It includes training material on version control, analysis testing, and open and transparent communication with future users, and builds on Alan Turing Institute case studies and workshops. 
+It includes training material on topics such as version control and analysis testing, and will build upon Alan Turing Institute case studies and workshops. 
 The project also demonstrates open and transparent project management and communication with future users, as it is openly developed at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way. 
-All resources associated with workshops we have delivered, as well as how to organise a Book Dash (a one day book sprint), are also openly available.
+All resources associated with workshops we have delivered, as well as how to organise a Book Dash (a one-day book sprint), are also openly available.
 
 Reproducible research is necessary to ensure that scientific work can be trusted. 
 Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code. 
