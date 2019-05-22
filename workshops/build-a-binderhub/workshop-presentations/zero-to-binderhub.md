@@ -168,20 +168,7 @@ az group create --name testhub \
   We have chosen West Europe for resource availability.
 * `--output table` specifies the output should be in human-readable format as opposed to JSON, which is the default output.
 
-### 4. Create an SSH key
-
-We are going to create an SSH key to secure your cluster (further details in [this blog post](https://jumpcloud.com/blog/what-are-ssh-keys-b/)). **Keep these files safe.**
-
-```
-ssh-keygen -f secrets/ssh-key-hubcluster
-```
-When prompted for a password, you can choose to leave this blank.
-Some text will be printed to the terminal which you don't need to do anything with.
-
-**NOTE:** `--name` (`hubcluster` in this example) cannot exceed 63 characters and can only contain letters, numbers, or dashes (-).
-This is a requirement for the `aks create` command in the next step.
-
-### 5. Create an Azure Container Service (AKS) Cluster
+### 4. Create an Azure Container Service (AKS) Cluster
 
 This command will request a Kubernetes cluster within the resource group we created.
 It will request one `Standard_D2s_v3` virtual machine which a Kubernetes cluster installed.
@@ -192,7 +179,7 @@ For information on other types of virtual machines available, [see here](https:/
 ```
 az aks create --name hubcluster \
     --resource-group testhub \
-    --ssh-key-value secrets/ssh-key-hubcluster.pub \
+    --generate-ssh-keys \
     --node-count 1 \
     --node-vm-size Standard_D2s_v3 \
     --output table
@@ -218,7 +205,7 @@ There will also be a `NetworkWatcherRG` group which will be empty.
 This group is created under the assumption that the Kubernetes service will be extended in the future, which unlikely to be the case when deploying BinderHub.
 This group can be deleted.
 
-### 6. Get credentials from Azure for `kubectl`
+### 5. Get credentials from Azure for `kubectl`
 
 This step automatically updates your local Kubernetes client configuration file to be configured with the remote cluster we've just deployed, and allowing `kubectl` to be "logged-in" to the cluster.
 
@@ -228,7 +215,7 @@ az aks get-credentials --name hubcluster --resource-group testhub
 * `--name` is the cluster name defined in [Step 4: Create an SSH key](#4-create-an-ssh-key).
 * `--resource-group` is the resource group created in [Step 3: Create a Resource Group](#3-create-a-resource-group).
 
-### 7. Check the Cluster is Fully Functional
+### 6. Check the Cluster is Fully Functional
 
 ```
 kubectl get nodes
