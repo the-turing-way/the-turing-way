@@ -8,9 +8,7 @@ assignees: ''
 ---
 
 <!--
-Please complete the following sections when you open an issue. You are encouraged to keep this top level comment box updated as you
-develop and respond to reviews. If you have write access to the repository please also assign the appropriate
-label (or labels) to your issue. Note that text within html comment tags will not be rendered.
+Please complete the following sections when you open an issue. You are encouraged to keep this top level comment box updated as you develop and respond to reviews. If you have write access to the repository please also assign the appropriate label (or labels) to your issue. Note that text within html comment tags will not be rendered.
 -->
 ### Summary
 
