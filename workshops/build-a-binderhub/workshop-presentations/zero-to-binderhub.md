@@ -174,7 +174,9 @@ This command will request a Kubernetes cluster within the resource group we crea
 It will request one `Standard_D2s_v3` virtual machine which a Kubernetes cluster installed.
 For information on other types of virtual machines available, [see here](https://azure.microsoft.com/en-gb/pricing/details/virtual-machines/series/).
 
-**NOTE:** If you are _not_ using a Free Trial subscription, try setting `--node-count` to **3** instead.
+**NOTES:**
+* `--name` (`hubcluster` in this example) cannot exceed 63 characters and can only contain letters, numbers, or hyphens (`-`).
+* If you are _not_ using a Free Trial subscription, try setting `--node-count` to **3** instead.
 
 ```
 az aks create --name hubcluster \
@@ -184,11 +186,11 @@ az aks create --name hubcluster \
     --node-vm-size Standard_D2s_v3 \
     --output table
 ```
-* `--name` is the cluster name we defined in [Step 4: Create an SSH key](#4-create-an-ssh-key).
+* `--name` is the name of the cluster.
 * `--resource-group` is the resource group we created in [Step 3: Create a Resource Group](#3-create-a-resource-group).
-* `--ssh-key-value` is the ssh public key we created in [Step 4: Create an SSH key](#4-create-an-ssh-key).
 * `--node-count` is the number of desired nodes in the Kubernetes cluster.
 * `--node-vm-size` is the size of the nodes you wish to use, which varies based on the use-case of the cluster and how much RAM/CPU each user will need.
+* `--generate-ssh-keys` will generate a public/private pair of ssh keys to access the cluster with should you need to.
 
 **NOTE:** The default version of Kubernetes will be installed, you can use the `--kubernetes-version` flag to install a different version.
 
@@ -212,7 +214,7 @@ This step automatically updates your local Kubernetes client configuration file 
 ```
 az aks get-credentials --name hubcluster --resource-group testhub
 ```
-* `--name` is the cluster name defined in [Step 4: Create an SSH key](#4-create-an-ssh-key).
+* `--name` is the cluster name defined in [Step 4: Create an Azure Container Service (AKS) Cluster](#4-create-an-azure-container-service-aks-cluster).
 * `--resource-group` is the resource group created in [Step 3: Create a Resource Group](#3-create-a-resource-group).
 
 ### 6. Check the Cluster is Fully Functional
@@ -221,7 +223,7 @@ az aks get-credentials --name hubcluster --resource-group testhub
 kubectl get nodes
 ```
 
-The output of this command should list one node (unless you changed `--node-count` in [Step 5: Create an Azure Container Service (AKS) Cluster](#5-create-an-azure-container-service-aks-cluster)) with a `STATUS` of `READY`.
+The output of this command should list one node (unless you changed `--node-count` in [Step 4: Create an Azure Container Service (AKS) Cluster](#4-create-an-azure-container-service-aks-cluster)) with a `STATUS` of `READY`.
 The `VERSION` field reports which version of Kubernetes is installed.
 
 Example output:
