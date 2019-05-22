@@ -37,8 +37,11 @@ To follow along with these instructions, go to this link: [**bit.ly/zero-to-bind
 
 This workshop assumes you have a "Free Trial" subscription with [Microsoft Azure](https://azure.microsoft.com/en-gb/).
 It's quick to set one up and you get £150 free credit for the first 30 days as well as access to some _always free_ services.
+You will be asked to provide a credit card.
+This is only for identity verification, **you will not be charged**.
+When your free trial expires, your resources will automatically be frozen and then deleted after a month if you don't reactivate your subscription.
 
-**NOTE:** Please do not sign up with an institutional email as you may encounter some issues with Service Principal permissions when we deploy the Kubernetes cluster.
+**NOTE:** Please do not sign up with a ".ac.uk" email as you may encounter some issues with Service Principal permissions when we deploy the Kubernetes cluster.
 
 > BinderHub is Cloud-neutral.
 > We are using Azure as an example.
@@ -204,8 +207,8 @@ az aks create --name hubcluster \
 
 **This step may take some time to execute!** :vertical_traffic_light:
 
-**WARNING:** If this step fails due to insufficient permissions on the directory, this is likely because you're using an institutional email to login to Azure and your institution has limited your ability to create Service Principals.
-For the sake of this workshop, you should have created your account with a non-institutional email.
+**WARNING:** If this step fails due to insufficient permissions on the directory, this is likely because you're using a ".ac.uk" email to login to Azure and your institution has limited your ability to create Service Principals.
+For the sake of this workshop, you should have created your account with a different email address.
 Otherwise, you could ask your IT Services to provide you with a Service Principal.
 
 Once this command has completed, some extra resource groups will have been created which is normal behaviour.
