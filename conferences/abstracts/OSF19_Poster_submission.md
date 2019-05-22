@@ -74,7 +74,7 @@ Value added data products/services from Open Science
 
 *List 3-4 key terms that describe the subject of the proposal.*
 
-Reproducibile Research  
+Reproducible Research  
 Data Science  
 Open Science  
 Open Research 
