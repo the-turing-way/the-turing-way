@@ -7,7 +7,7 @@ At the end of each workshop participants were asked to fill in feedback forms ra
 On average participants reported an increase of between 30 and 50% in their understanding and confidence in using Binder, capturing their computational environment and reproducing their research.
 The biggest increases (50%) were in understanding what Binder does and in feeling confident in using Binder for their own work.
 Participants showed the smallest increase in understanding how to capture a computational environment and feeling confident in sharing their reproducible work.
-The latter may be seen as a positive outcome of the workshop, as one of the secondary goals was too demonstrate the many different factors which go into making research reproducible.
+The latter may be seen as a positive outcome of the workshop, as one of the secondary goals was to demonstrate the many different factors which go into making research reproducible.
 
 ## Positive feedback
 
