@@ -66,18 +66,23 @@ bibliography: paper.bib
 
 # Summary
 
-The Binder Project is an open community that makes it possible to create sharable, interactive, reproducible environments [@Jupyter2018]. 
+The Binder Project is an open community that makes it possible to create sharable, interactive, reproducible environments [@project_jupyter-proc-scipy-2018]. 
 The main technical product that the community creates is called BinderHub, a cloud platform that captures the computing environment of a GitHub repository within a Docker image. 
 It then provides an interactive browser from which code can be run in the environment under which it was developed without placing installation responsibilities on the user. 
 A unique URL to this browser is generated making the software easily sharable with collaborators. 
-It can improve reproducibility by making it easy to showcase and re-run analyses, improve reliability by making it easy to review analyses and catch bugs early in the development process without installation, and improve the reusability of the code by capturing the computing environment.
+This can improve reproducibility by making it easy to showcase and re-run analyses, improve reliability by making it easy to review analyses and catch bugs early in the development process without installation, and improve the reusability of the code by capturing the computing environment. 
 To help facilitate the use of Binder in research, the *[Turing Way](https://github.com/alan-turing-institute/the-turing-way/tree/master)* project developed a one-day *Boost your research reproducibility with Binder* workshop to cover reproducible computing environments, showcase examples of others’ projects in [myBinder.org](https://mybinder.org/) and help researchers and data scientists learn how to prepare a Binder-ready project.
 
-This repository contains everything required to run a one-day *Boost your research reproducibility with Binder* workshop. 
-This includes the workshop advertisement, pre-event communication emails, agenda, instructor guide, a folder of workshop presentations, a paired example exercise to explore example Binderised notebooks and a feedback form to help measure the impact of the event.
-The presentations include an introduction to the workshop, reproducible computational environments and a Zero to Binder code-along built heavily off the [Build a Binder](https://build-a-binder.github.io/) workshop materials.
-At the end of the workshop, participants are able to take their own content (in a R or Jupyter notebook, or scripts that can be run in the terminal) and prepare it so that it can be used by others on myBinder.org.
-This workshop is aimed at people who are interested in reproducibility, containers, Docker or continuous integration; already familiar with R Markdown or Jupyter notebooks; and looking to communicate their research more effectively.
+This repository contains everything required to run the one-day workshop. 
+It includes the workshop advertisement, pre-event communication emails, agenda, instructor guide, a folder of workshop presentations, a paired example exercise to explore example Binderised notebooks and a feedback form to help measure the impact of the event. 
+The presentations include an introduction to the workshop, slides on reproducible computational environments and a Zero to Binder code-along built heavily off the [Build a Binder](https://build-a-binder.github.io/) workshop resources. 
+There are also slides on using Binder for fully reproducible research in R as an alternative to the Python-focused code-along. 
+All materials were used in the *Turing Way* run workshops, and can be easily remixed and reused when adopted by others to suit their target audience and number of event facilitators. 
+At the end of the workshop, participants are able to take their own content (in a R or Jupyter notebook, or scripts that can be run in the terminal) and prepare it so that it can be used by others on [myBinder.org](https://mybinder.org/). 
+Individuals unable to attend a workshop can also work through these resources to improve their understanding of reproducible computational environments and how to prepare their project for sharing with Binder. 
+This material is aimed at aimed at researchers and others who are who are interested in reproducibility, containers or continuous integration; already familiar with R Markdown or Jupyter notebooks; and looking to communicate their research more effectively.
+
+> Need to describe the learning objectives, content, instructional design, and experience of use in teaching and learning situations
 
 
 # Statement of Need
@@ -87,17 +92,16 @@ Funders and publishers are beginning to require that publications include access
 The goal is to ensure that all results can be independently verified and built upon in future work, which is sometimes easier said than done. 
 Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. 
 
-*The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do". 
-Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end. 
-So far, the book (https://the-turing-way.netlify.com) includes chapters and training material on reproducibility, open research, version control, collaborating on GitHub/GitLab, research data management, reproducible environments, analysis testing, reviewing, continuous integration, reproducible research with Make and risk assessment. 
-Further chapters currently in progress include coding style for reproducibility, credit for reproducible research and reproducible data analysis pipelines for machine learning, and will build upon Alan Turing Institute case studies. 
-The project also demonstrates open and transparent project management and communication with future users, as it is openly developed at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way. 
+*[The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)* is a project [funded](https://www.turing.ac.uk/news/alan-turing-institute-spearhead-new-cutting-edge-data-science-and-artificial-intelligence) as part of UKRI’s Strategic Priorities fund. 
+It is an open source handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do". 
+The goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end. 
+The handbook (https://the-turing-way.netlify.com) currently includes chapters and training material on reproducibility, open research, version control, collaborating on GitHub/GitLab, research data management, reproducible environments, analysis testing, reviewing, continuous integration, reproducible research with Make and risk assessment. 
+Further chapters in development include coding style for reproducibility, credit for reproducible research and reproducible data analysis pipelines for machine learning, and will build upon Alan Turing Institute case studies. 
+The project demonstrates open and transparent project management and communication with future users, as it is openly developed at the GitHub repository: https://github.com/alan-turing-institute/the-turing-way. 
+It also facilitates workshops to train researchers and research software engineers to use tools to make their work more reproducible.
 
-> Need to:
-> * add need for Binder
-> * explain how the submitted artifacts contribute to computationally enabled teaching and learning, and describing how they might be adopted by others
-> * describe the learning objectives, content, instructional design, and experience of use in teaching and learning situations
-> * Tell us the "story" of the project: how did it come to be?
+> Need to add need for Binder
+
 
 # References
 
