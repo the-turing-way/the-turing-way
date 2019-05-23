@@ -71,10 +71,11 @@ The main technical product that the community creates is called BinderHub, a clo
 It then provides an interactive browser from which code can be run in the environment under which it was developed without placing installation responsibilities on the user. 
 A unique URL to this browser is generated making the software easily sharable with collaborators. 
 It can improve reproducibility by making it easy to showcase and re-run analyses, improve reliability by making it easy to review analyses and catch bugs early in the development process without installation, and improve the reusability of the code by capturing the computing environment.
+To help facilitate the use of Binder in research, the *[Turing Way](https://github.com/alan-turing-institute/the-turing-way/tree/master)* project developed a one-day *Boost your research reproducibility with Binder* workshop to cover reproducible computing environments, showcase examples of others’ projects in [myBinder.org](https://mybinder.org/) and help researchers and data scientists learn how to prepare a Binder-ready project.
 
 This repository contains everything required to run a one-day *Boost your research reproducibility with Binder* workshop. 
-This includes [add list of resources].
-This workshop focuses on discussions of reproducible computing environments, showcasing examples of others’ projects in [myBinder.org](https://mybinder.org/) and helping researchers and data scientists learn how to prepare a Binder-ready project.
+This includes the workshop advertisement, pre-event communication emails, agenda, instructor guide, a folder of workshop presentations, a paired example exercise to explore example Binderised notebooks and a feedback form to help measure the impact of the event.
+The presentations include an introduction to the workshop, reproducible computational environments and a Zero to Binder code-along built heavily off the [Build a Binder](https://build-a-binder.github.io/) workshop materials.
 At the end of the workshop, participants are able to take their own content (in a R or Jupyter notebook, or scripts that can be run in the terminal) and prepare it so that it can be used by others on myBinder.org.
 This workshop is aimed at people who are interested in reproducibility, containers, Docker or continuous integration; already familiar with R Markdown or Jupyter notebooks; and looking to communicate their research more effectively.
 
