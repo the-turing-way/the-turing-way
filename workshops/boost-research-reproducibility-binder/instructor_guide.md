@@ -28,13 +28,13 @@ The following resources are needed on the day:
 
 ### 9.30 - 10.00: Registration, coffee and introductions
 As participants arrived they were asked to answer three questions as they signed in:
-* Who are you(job role, disciplinary background)?
+* Who are you (job role, disciplinary background)?
 * Why did you come to the workshop and what are you hoping to get out of the workshop?
 * How confident are you feeling about the workshop?
 Answers to these questions were written on post-its and added to a white board which everyone could look at. Doing this prompted discussion between participants about their hopes and fears, and helped instructors to pitch the workshop to participants' interests and needs.
 
 ### 10.00 - 10.30: Introduction to the workshop and The Turing Way
-The workshop begins with an [introductory presentation](.../boost-research-reproducibility-binder/workshop-presentations/PRE_IntroBoostResReproBinder_ATI.pdf) setting out the aims for the day, some background on reproducibility and introducing the [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md). At the end of the introductory presentation participants are given the URL for the HackMD (or similar) file and asked to introduce themselves in the document.
+The workshop begins with an [introductory presentation](.../workshop-presentations/PRE_IntroBoostResReproBinder_ATI.pdf) setting out the aims for the day, some background on reproducibility and introducing the [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md). At the end of the introductory presentation participants are given the URL for the HackMD (or similar) file and asked to introduce themselves in the document.
 
 * 10.30 - 12.00: Why you need a reproducible computing environment and how Binder can help
 * 12.00 - 1.00: Lunch
