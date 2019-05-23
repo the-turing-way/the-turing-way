@@ -4,9 +4,7 @@ Sarah Gibson, _The Alan Turing Institute_
 
 [**The Turing Way**](https://github.com/alan-turing-institute/the-turing-way) - making reproducible data science _too easy not to do_!
 
-These steps will walk you through deploying a BinderHub on Microsoft Azure.
-It will be publicly available like [mybinder.org](https://mybinder.org).
-To follow along with these instructions, go to this link: [**bit.ly/zero-to-binderhub-workshop**](http://bit.ly/zero-to-binderhub-workshop)
+Link to this page: [**bit.ly/zero-to-binderhub-workshop**](http://bit.ly/zero-to-binderhub-workshop)
 
 **BinderHub Documentation:**
 * [Step Zero: Setting up a Kubernetes Cluster](https://zero-to-jupyterhub.readthedocs.io/en/latest/create-k8s-cluster.html)
@@ -16,21 +14,70 @@ To follow along with these instructions, go to this link: [**bit.ly/zero-to-bind
 
 ## Table of Contents
 
+**General information:**
+* [What is BinderHub?](#what-is-binderhub)
+* [Why build your own BinderHub?](#why-build-your-own-binderhub)
+* [What does BinderHub require?](#what-does-binderhub-require)
+
+**Computational requirements:**
 * [Cloud Resource Requirements](#cloud-resource-requirements)
 * [Container Registry](#container-registry)
 * [Installation Requirements](#installation-requirements)
 * [A Note on Secret Files](#a-note-on-secret-files)
+
+**Building a BinderHub:**
 * [Setup Local Files](#setup-local-files)
 * [Deploying a Kubernetes Cluster on Azure](#deploying-a-kubernetes-cluster-on-azure)
 * [Setting up Helm](#setting-up-helm)
 * [Setup BinderHub](#setup-binderhub)
 * [Debugging your BinderHub](#debugging-your-binderhub)
+
+**Extra curricular steps:**
 * [Changing the logo on your Binder page](#changing-the-logo-on-your-binder-page)
 * [Authenticating Users with GitHub](#authenticating-users-with-github)
 * [Tearing Down your BinderHub Deployment](#tearing-down-your-binderhub-deployment)
 * [Example config files](#example-config-files)
+
+
 * [Glossary of Kubernetes terms](#glossary-of-kubernetes-terms)
- 
+
+---
+
+## What is BinderHub?
+
+BinderHub is a Cloud-based, open source technology that can host multiple instances of a Git repository and its computing environment.
+This allows code to be instantly runnable and reproducible by anyone anywhere in the world at the click of a link.
+The public Binder service is hosted at [mybinder.org](https://mybinder.org).
+
+## Why build your own BinderHub?
+
+Since Binder and BinderHub are open source projects maintained by volunteers, they ask that users of mybinder.org stay within certain limitations in order to keep running costs as low as possible while still providing a usable service.
+
+By deploying your own BinderHub, you can provide a service to your users that is much more customised to their needs.
+The most desirable benefit of this is allowing your users access to private repositories and handling sensitive data.
+But customisations could also include authentication, greater computational resources per user, bespoke package stacks or persistent user storage.
+
+## What does BinderHub require?
+
+The Binder team's overview of the BinderHub architecture can be found [here](https://binderhub.readthedocs.io/en/latest/overview.html).
+
+* A [Kubernetes](https://kubernetes.io/) cluster - This is an automated system for deploying, scaling and maintaining containerised applications. Kubernetes can be used on any kind of server, Cloud-based or otherwise.
+
+* The BinderHub [Helm Chart](https://helm.sh/docs/developing_charts/) - Helm is a package manager for deploying, maintaining and upgrading applications on a Kubernetes service. It is a collection of install instructions for a set of Kubernetes resources. The BinderHub Helm Chart contains a set of tools required by the Binder service.
+
+  * [`repo2docker`](https://repo2docker.readthedocs.io/en/latest/) - This is a tool that builds a Docker container out of a Git repository based on a configuration file which describes the software dependencies.
+
+  * [JupyterHub](https://jupyterhub.readthedocs.io/en/stable/) - This is a tool for serving Jupyter Notebooks for multiple users and automatically spawns, manages and proxies the server instances. 
+
+  * The [Binder](https://mybinder.readthedocs.io/en/latest/) Load Balancer - This coordinates the launches of Binder instances and parses various jobs to `repo2docker` and the JupyterHub.
+
+* A container registry, we will use [DockerHub](https://hub.docker.com/) -  A container registry is a storage and management server (usually Cloud-based) for containerised environments. The BinderHub will need to push (or "save") containers it has built to a registry, and pull (or "download") containers in order to run them from the JupyterHub.
+
+---
+
+The following workshop will walk you through deploying a BinderHub onto a Microsoft Azure Kubernetes Service.
+It will be a publicly available service like [mybinder.org](https://mybinder.org).
+
 ---
 
 ## Cloud Resource Requirements
@@ -389,7 +436,7 @@ kubectl --namespace=binderhub get svc proxy-public
 
 Now do the following steps:
 
-1) On [line 7 os `setup.sh`](https://github.com/alan-turing-institute/the-turing-way/blob/d59ccdd6579d676f94f79d26cb0437eb097673aa/workshops/build-a-binderhub/binderhub_resources/setup.sh#L7), copy the IP address from the last command into the `jupyter_ip` variable and uncomment the line (remove the `#` from the beginning)
+1) On [line 7 of `setup.sh`](https://github.com/alan-turing-institute/the-turing-way/blob/d59ccdd6579d676f94f79d26cb0437eb097673aa/workshops/build-a-binderhub/binderhub_resources/setup.sh#L7), copy the IP address from the last command into the `jupyter_ip` variable and uncomment the line (remove the `#` from the beginning)
 2) Again in `setup.sh`, move the line reading `#  -e "s/<jupyter-ip>/${jupyter_ip}/" \` above the line `config-template.yaml > secrets/config.yaml` and uncomment it by removing the `#` from the start
 3) Uncomment [line 8 of `config-template.yaml`](https://github.com/alan-turing-institute/the-turing-way/blob/d59ccdd6579d676f94f79d26cb0437eb097673aa/workshops/build-a-binderhub/binderhub_resources/config-template.yaml#L8) by removing the `#` from the beginning
 
@@ -439,6 +486,8 @@ You can also access information about individual pods with the following command
 kubectl describe pod <POD-NAME> -n binderhub
 ```
 
+---
+
 ## Changing the logo on your Binder page
 
 One fun way to make your BinderHub your own is to change the logo that appears on the Binder launch page.
@@ -451,7 +500,7 @@ You would probably create your own logo!
 
 #### 1. Fork the following repo
 
-I have created a template repo to make this easier linked below.
+I have created a template repo to make this easier - linked below.
 Fork it into your own namespace.
 
 [**github.com/sgibson91/binderhub-custom-files**](https://github.com/sgibson91/binderhub-custom-files)
@@ -695,6 +744,7 @@ config:
   * The `<prefix>` can be any string since it will be prepended to image names.
   It is recommended to be something short and descriptive, such as `binder-dev-` (for development) or `binder-prod-` (for the final product).
 
+---
 
 ## Glossary of Kubernetes terms
 
