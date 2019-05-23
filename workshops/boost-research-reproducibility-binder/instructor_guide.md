@@ -44,7 +44,7 @@ The paired examples give participants a chance to see what happens when there ar
 ### 12.00 - 1.00: Lunch
 
 ### 1.00 - 2.00: Zero to Binder, a guided tour of building a Binder resource
-
+This section has it's own [instructor guide](workshop-presentations/instructor-guide_zero-to-binder.md), [instructions for live coding with participants](workshop-presentations/zero-to-binder.md) and [solo instructions](workshop-presentations/zero-to-binder-solo.md) to help instructors prepare for the workshop.
 
 ### 2.00 - 3.30: Build your own Binder (with coffee from 2.00)
 
