@@ -71,7 +71,7 @@ Open research aims to transform research by making it more reproducible, transpa
 - Be reusable - research outputs need to be licensed appropriately so that prospective users clearly know any limitations on re-use
 - Be transparent and have appropriate metadata to provide clear statements of how research output was produced and what it contains
 
-The research process typically has the following form: data is collected, it is then analysed (usually using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process it is good practice for researchers to document their working in notebooks. Open research aims to make each of these elements open:
+The research process typically has the following form: data is collected and then analysed (usually using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process it is good practice for researchers to document their working in notebooks. Open research aims to make each of these elements open:
 
 - Open data - documenting and sharing research data openly for re-use
 - Open source software - documenting research code and routines, and making them freely accessible and available
@@ -84,7 +84,7 @@ These elements are expanded upon in this chapter.
 Open scholarship is a concept that extends open research further. It relates to making other aspects of scientific research open to the public, e.g.
 
 - Open educational resources - making educational resources publicly available to be re-used and modified.
-- Equity, diversity, inclusion - ensuring scholarship is open to anyone without barriers based on factors such as race, gender, sexual orientation, etc.
+- Equity, diversity, inclusion - ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, sexual orientation, etc.
 - Citizen science - the inclusion of members of the public in scientific research
 
 These elements are also discussed in detail in this chapter.
@@ -95,7 +95,7 @@ There are five main schools of thought motivating open practices to benefit rese
 
 | School                     | Belief               | Aim                                               |
 | -------------------------- | -------------------- | ------------------------------------------------- |
-| Infrastructure | Efficient research depends on the available tools and applications. | Creating openly available platforms, tools and services for researchers. |
+| Infrastructure | Efficient research depends on the available tools and applications. | Creating openly available platforms, tools, and services for researchers. |
 | Pragmatic | Knowledge-creation could be more efficient if researchers worked together. | Opening up the process of knowledge creation. |
 | Measurement | Academic contributions today need alternative impact measurements. | Developing an alternative metric system for research impact. |
 | Democratic | The access to knowledge is unequally distributed. | Making knowledge freely available for everyone. |
