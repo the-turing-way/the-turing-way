@@ -443,6 +443,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "dalonsoa",
+      "name": "Diego",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6095790?v=4",
+      "profile": "http://www.imperial.ac.uk/quantum-photovoltaics",
+      "contributions": [
+        "ideas",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7
