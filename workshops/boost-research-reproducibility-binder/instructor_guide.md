@@ -47,18 +47,18 @@ The paired examples give participants a chance to see what happens when there ar
 This section has it's own [instructor guide](workshop-presentations/instructor-guide_zero-to-binder.md), [instructions for live coding with participants](workshop-presentations/zero-to-binder.md) and [solo instructions](workshop-presentations/zero-to-binder-solo.md) to help instructors prepare for the workshop.
 
 ### 2.00 - 3.30: Build your own Binder (with coffee from 2.00)
-In this part of the workshop participants had a go at building their own Binder using code and data they had bought with them. Helpers moved around the room ensuring that everyone was able to do this and helping people who indicate that they were having problems with a red post-it on their laptops. There was no formal coffee break in the afternoon but participants were encouraged to take a break at times convenient to them - usually whilst their Binder was building!
+In this part of the workshop participants try to build their own Binder using code and data they have bought with them. Helpers should move around the room helping people who indicate that they are having problems with a red post-it on their laptops and checking in with everyone. There is no formal coffee break in the afternoon but participants are encouraged to take a break at times convenient to them - usually whilst their Binder is building!
 
-Just before the end of this session participants were asked to add links to their completed binders in the HackMD file so that they can be demonstrated in the final session.
+Just before the end of this session participants are asked to add links to their completed binders in the HackMD file so that they can demonstrate them in the final session.
 
 ### 3.30 - 4.00: Demonstrating your Binder, general questions, feedback and close
-The last session of the day focuses on participants demonstrating their Binders. The easiest way to do this iss to have one laptop connected to the projector with the HackMD file open so that all Binders can be demonstrated without worrying about connectors or wasting time. These demonstrations frequently generate questions and give participants a chance to discuss what they found easy/hard about creating a Binder.
+The last session of the day focuses on participants demonstrating their Binders. The easiest way to do this is to have one laptop connected to the projector with the HackMD file open so that all Binders can be demonstrated without worrying about connectors or wasting time. These demonstrations frequently generate questions and give participants a chance to discuss what they found easy/hard about creating a Binder.
 
 After the demonstration participants are given a chance to ask any general questions and asked to fill out the [feedback form](feedback_form.md), which for the Turing Way workshops were created in Google Forms.
 
 
 ### 4.00 - 5.00: Optional hangout with instructors
-The workshop officially closed at 4pm but instructors and helpers made themselves available for another hour to fix specific bugs which emerged during the afternoon, discuss specific questions with participants and continue general discussions around reproducibility with those who were interested.
+When the Turing Way ran the workshops the official close was 4pm but instructors and helpers made themselves available for another hour to fix specific bugs which emerged during the afternoon and discuss specific questions with participants.
 
 
 ## After the workshop
