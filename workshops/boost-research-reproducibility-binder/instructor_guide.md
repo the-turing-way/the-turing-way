@@ -34,14 +34,23 @@ As participants arrived they were asked to answer three questions as they signed
 Answers to these questions were written on post-its and added to a white board which everyone could look at. Doing this prompted discussion between participants about their hopes and fears, and helped instructors to pitch the workshop to participants' interests and needs.
 
 ### 10.00 - 10.30: Introduction to the workshop and The Turing Way
-The workshop begins with an [introductory presentation](workshops/boost-research-reproducibility-binder/workshop-presentations/PRE_IntroBoostResReproBinder_ATI.pdf) setting out the aims for the day, some background on reproducibility and introducing the [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md). At the end of the introductory presentation participants are given the URL for the HackMD (or similar) file and asked to introduce themselves in the document.
+The workshop begins with an [introductory presentation](/workshop-presentations/PRE_IntroBoostResReproBinder_ATI.pdf) setting out the aims for the day, some background on reproducibility and introducing the [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md). At the end of the introductory presentation participants are given the URL for the HackMD (or similar) file and asked to introduce themselves in the document.
 
-* 10.30 - 12.00: Why you need a reproducible computing environment and how Binder can help
-* 12.00 - 1.00: Lunch
-* 1.00 - 2.00: Zero to Binder, a guided tour of building a Binder resource
-* 2.00 - 3.30: Build your own Binder (with coffee from 2.00)
-* 3.30 - 4.00: Demonstrating your Binder, general questions, feedback and close
-* 4.00 - 5.00: Optional hangout with instructors
+### 10.30 - 12.00: Why you need a reproducible computing environment and how Binder can help
+This section involves a [presentation](/workshop-presentations/ReproducibleComputationalEnvironment.pdf) and a small group exercise working through some [paired examples](paired_examples.md). 
+
+The paired examples give participants a chance to see what happens when there are changes in the computational environment and how they can affect the outputs of some simple code. There are 3 examples which use Python and 1 in R, each in their own GitHub repository. Examples 2, 3 and 4 (the R example) all have two branches, with small differences in the computational environment in the different branches.  Participants were given 20 minutes to work through the examples in small groups and there was then a discussion with the whole group about what the differences were between the examples and what changes those differences caused. 
+
+### 12.00 - 1.00: Lunch
+
+### 1.00 - 2.00: Zero to Binder, a guided tour of building a Binder resource
+
+
+### 2.00 - 3.30: Build your own Binder (with coffee from 2.00)
+
+### 3.30 - 4.00: Demonstrating your Binder, general questions, feedback and close
+
+### 4.00 - 5.00: Optional hangout with instructors
 
 ## After the workshop
 * Feedback form
