@@ -93,7 +93,11 @@ So far, the book (https://the-turing-way.netlify.com) includes chapters and trai
 Further chapters currently in progress include coding style for reproducibility, credit for reproducible research and reproducible data analysis pipelines for machine learning, and will build upon Alan Turing Institute case studies. 
 The project also demonstrates open and transparent project management and communication with future users, as it is openly developed at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way. 
 
-[add need for Binder]
+> Need to:
+> * add need for Binder
+> * explain how the submitted artifacts contribute to computationally enabled teaching and learning, and describing how they might be adopted by others
+> * describe the learning objectives, content, instructional design, and experience of use in teaching and learning situations
+> * Tell us the "story" of the project: how did it come to be?
 
 # References
 
