@@ -1,7 +1,8 @@
 # Boost Your Research Reproducibility with Binder
 
-In this folder you can find the materials you need to take part in a Turing Way developed workshop to help researchers share their research in a reproducible way using Binder.
+In this folder you can find the materials you need to run a Turing Way developed workshop to help researchers share their research in a reproducible way using Binder.
 
+* An instructor's guide to running the workshop (under development)
 * A full day workshop [agenda](agenda.md)
   * (There is a half day version in development)
 * [Paired examples](paired_examples.md) exercise
@@ -10,6 +11,9 @@ In this folder you can find the materials you need to take part in a Turing Way 
   * [Introduction](workshop-presentations/PRE_IntroBoostResReproBinder_ATI.pdf) to London workshop on 12 March 2019 by [Patricia Herterich](https://github.com/pherterich).
   * [Reproducible computational environments](workshop-presentations/ReproducibleComputationalEnvironment.pdf) for Manchester and London workshops by [Kirstie Whitaker](https://github.com/KirstieJane).
   * [Zero to Binder code-along](workshop-presentations/zero-to-binder.md) for Manchester and London workshops by [Sarah Gibson](https://github.com/sgibson91) building heavily off [Tim Head's](https://github.com/betatim) [Build a Binder](https://build-a-binder.github.io/) workshop materials.
+* Links to notes form the Manchester and London workshops in March 2019:
+  * [Manchester notes](https://bit.ly/TuringWayMCRNotes)
+  * [London notes](https://bit.ly/TuringWayLDNnotes)
 * [Communications](before_workshop.md) and [Workshop advert](workshop_advert.md) to send out before the workshop.
   * These are specific to the Manchester and London workshops in March 2019, but can easily be adapted.
 * [Feedback form](feedback_form.md) that you can make into a google form
