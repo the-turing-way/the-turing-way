@@ -1,9 +1,13 @@
 ---
 title: 'Boost Your Research Reproducibility with Binder'
 tags:
-- example
-- tags
-- for the paper
+- reproducibility
+- reproducible research
+- data science
+- binder
+- jupyter
+- computational environment
+- workshop
 authors:
 - name: The Turing Way
   orcid: 
@@ -25,7 +29,7 @@ authors:
   affiliation: 4
 - name: Rosie Higman
   orcid: 0000-0001-5329-7168
-  affiliation: "2, 3"Krystalli, Anna
+  affiliation: "2, 3"
 - name: Anna Krystalli
   orcid: 0000-0002-2378-4915
   affiliation: 3
