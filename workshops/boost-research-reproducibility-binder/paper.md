@@ -39,6 +39,9 @@ authors:
 - name: Martin O'Reilly
   orcid: 0000-0002-1191-3492
   affiliation: 1
+- name: Andrew Stewart
+  orcid: 0000-0002-9795-4104
+  affiliation: 2
 - name: Kirstie Whitaker
   orcid: 0000-0001-8498-4059
   affiliation: "1, 7"
