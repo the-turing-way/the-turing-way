@@ -6,7 +6,7 @@ tags:
 - data science
 - binder
 - jupyter
-- computational environment
+- reproducible environments
 - workshop
 authors:
 - name: The Turing Way
@@ -63,14 +63,34 @@ bibliography: paper.bib
 
 # Summary
 
-Lorem ipsum ...
+The Binder Project is an open community that makes it possible to create sharable, interactive, reproducible environments [@Jupyter2018]. 
+The main technical product that the community creates is called BinderHub, a cloud platform that captures the computing environment of a GitHub repository within a Docker image. 
+It then provides an interactive browser from which code can be run in the environment under which it was developed without placing installation responsibilities on the user. 
+A unique URL to this browser is generated making the software easily sharable with collaborators. 
+It can improve reproducibility by making it easy to showcase and re-run analyses, improve reliability by making it easy to review analyses and catch bugs early in the development process without installation, and improve the reusability of the code by capturing the computing environment.
 
-Citations to entries in paper.bib should be in
-[rMarkdown](http://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html)
-format.
+This repository contains everything required to run a one-day *Boost your research reproducibility with Binder* workshop. 
+This includes [add list of resources].
+This workshop focuses on discussions of reproducible computing environments, showcasing examples of others’ projects in [myBinder.org](https://mybinder.org/) and helping researchers and data scientists learn how to prepare a Binder-ready project.
+At the end of the workshop, participants are able to take their own content (in a R or Jupyter notebook, or scripts that can be run in the terminal) and prepare it so that it can be used by others on myBinder.org.
+This workshop is aimed at people who are interested in reproducibility, containers, Docker or continuous integration; already familiar with R Markdown or Jupyter notebooks; and looking to communicate their research more effectively.
 
-This is an example citation [@figshare_archive].
 
-Figures can be included like this: ![Fidgit deposited in figshare.](figshare_article.png)
+# Statement of Need
+
+Reproducible research is necessary to ensure that scientific work can be trusted. 
+Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code. 
+The goal is to ensure that all results can be independently verified and built upon in future work, which is sometimes easier said than done. 
+Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. 
+
+*The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do". 
+Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end. 
+So far, the book (https://the-turing-way.netlify.com) includes chapters and training material on reproducibility, open research, version control, collaborating on GitHub/GitLab, research data management, reproducible environments, analysis testing, reviewing, continuous integration, reproducible research with Make and risk assessment. 
+Further chapters currently in progress include coding style for reproducibility, credit for reproducible research and reproducible data analysis pipelines for machine learning, and will build upon Alan Turing Institute case studies. 
+The project also demonstrates open and transparent project management and communication with future users, as it is openly developed at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way. 
+
+[add need for Binder]
 
 # References
+
+Jupyter et al., "Binder 2.0 - Reproducible, Interactive, Sharable Environments for Science at Scale." Proceedings of the 17th Python in Science Conference. 2018. 10.25080/Majora-4af1f417-011
