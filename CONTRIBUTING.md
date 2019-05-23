@@ -308,6 +308,21 @@ Figures should be added to the `book/content/figures` directory.
 
 > To Be Done.
 
+### Adding links between pages within the book
+
+Links between different pages within the book (e.g. [Open Research](https://the-turing-way.netlify.com/open_research/open_research.html) and [Version Control](https://the-turing-way.netlify.com/version_control/version_control.html)) should be added as relative links.
+Relative links are added by inserting the file path in brackets, ( ), where you would usually add a URL as demonstrated below:
+
+```
+> [Experience with version control](/version_control/version_control)
+> The [next section](../03/definitions.html) of this chapter
+```
+
+The path you add _starts_ from the [`content`](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/content) folder in this github repository.
+Note the difference between starting your path with `/`, which means it will start from the `content` folder vs starting from the location of the file you're writing in.
+
+A nice easy way to find absolute path can be found by looking at the page you would like to link to (for example, https://the-turing-way.netlify.com/testing/testing.html) and then taking everything after https://the-turing-way.netlify.com. 
+Please note that you do not need to include the file extension, for example .html, in your relative path.
 
 ## Recognising Contributions
 
