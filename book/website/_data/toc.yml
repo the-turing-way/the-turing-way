@@ -42,6 +42,21 @@
     url: reproducibility/04/resources
 - title: Open Research
   url: open_research/open_research
+  sections:
+  - title: Open data
+    url: open_research/01/opendata
+  - title: Open source software
+    url: open_research/02/opensourcesoftware
+  - title: Open hardware
+    url: open_research/03/openhardware
+  - title: Open access
+    url: open_research/04/openaccess
+  - title: Open notebooks
+    url: open_research/05/opennotebooks
+  - title: Open scholarship
+    url: open_research/06/openscholarship
+  - title: Resources
+    url: open_research/07/resources
 - title: Version Control
   url: version_control/version_control
 - title: Collaborating on GitHub/GitLab
