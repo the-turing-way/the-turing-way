@@ -1,14 +1,23 @@
 # refer to https://docs.travis-ci.com/user/languages/minimal-and-generic/#generic
 # for the rationale behind choosing the generic lang
 language: generic
+dist: xenial
+matrix:
+  include:
+  - os: linux
+    env: PYTHON=3.6
 
 cache: bundler 
 
-before_script:
-    - source ~/virtualenv/python3.6.3/bin/activate
-    - python --version # to debug
-    - pip install -r ./book/website/requirements.txt
-    - pip install -U attrs pytest # the installed versions in Travis are too old!
+before_install:
+    - python3 --version
+    - sudo apt-get install python3-pip
+    - sudo -H pip3 install --upgrade pip
+    - sudo apt-get install python3-setuptools
+
+install:
+    - pip3 install --user -r ./book/website/requirements.txt
+    - pip3 install --user -U attrs pytest # the installed versions in Travis are too old!
 
 script: 
     - bash ./scripts/test-file-size.sh
@@ -16,5 +25,3 @@ script:
     - gem install jekyll 
     - bundle install
     - bash ./scripts/html-proof.sh
-
-
