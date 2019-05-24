@@ -1,7 +1,7 @@
 # refer to https://docs.travis-ci.com/user/languages/minimal-and-generic/#generic
 # for the rationale behind choosing the generic lang
 language: generic
-dist: trusty
+dist: xenial
 matrix:
   include:
   - os: linux
