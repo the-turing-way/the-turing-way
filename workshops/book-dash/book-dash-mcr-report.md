@@ -7,7 +7,7 @@
 ## The participants
 
 ![/figures/book_dash_mcr_group.jpg](/figures/book_dash_mcr_group.jpg)
-*Back row, left to right: Jez Cope, Will Hulme, Oliver Clark, Jade Pickering, Rosie Higman, Alex Clarke. Middle row, left to right: Clare Liggins, Beth Montague-Hellen, Patricia Herterich, Tania Allard, Kirstie Whitaker, Tarek Allam Jr. Front row, left to right: Matthew Kemp, Greg Kiar, Yo Yehudi, Rosti Readioff, Rachael Ainsworth, Javier Moldon.*
+*Back row, left to right: Jez Cope, Will Hulme, Oliver Clark, Jade Pickering, Rosie Higman, Alex Clarke. Middle row, left to right: Clare Liggins, Beth Montague-Hellen, Patricia Herterich, Tania Allard, Kirstie Whitaker, Tarek Allam Jr. Front row, left to right: Matthew Kemp, Greg Kiar, Yo Yehudi, Rosti Readioff, Rachael Ainsworth, Javier Moldon. Photo credit: Jez Cope*
 
 * Rachael Ainsworth [@rainsworth](https://github.com/rainsworth/)
 * Tarek Allam Jr [@tallamjr](https://github.com/tallamjr)
@@ -34,17 +34,21 @@
 ### What did we do?
 
 Our goal for the book dash was to bring together participants enthusiastic about reproducibility to contribute to and improve *The Turing Way* book during a one day collaborative event. 
-We held a networking event the evening prior to the book dash for participants to get to know each other and promote any projects that they're working on, in order to have an intense 9 to 5 day working on the book.
-There was a great diversity of lightning talks which were really fun:
-* Rachael talked about the women in data meetup group that she organises in Manchester: HER+Data MCR. :woman_technologist:
+We held a networking event the evening prior to the book dash as a reward and thanks for taking time out to work on the project. 
+We had an icebreaker for participants to get to know each other and lightning talks where we prompted participants to share unique experiences, expertise or promote any projects that they're working on. 
+There was a great diversity of lightning talks which were really fun: 
+* Rachael talked about the women in data meetup group that she organises in Manchester: [HER+Data MCR](https://www.meetup.com/HER-Data-MCR/). :woman_technologist:
 * Beth revealed what you can and cannot get away with in roller derby! :women_wrestling:
 * Jez spoke about the tradition of Morris dancing and his experience as a Morris dancer. 🕺
 * Oli wowed us all with a performance of the *Jabberwocky* poem written by Lewis Carroll. 🐉
-* Rosti pitched her Soapbox science plans taking place in Stoke-on-Trent. 🔬
-* Alex described his Music and Machine Learning projects, as well as his students' project on using ML to classify Gender of voices (and the complications and biases involved). 🎶
+* Rosti pitched her [Soapbox Science](http://soapboxscience.org/soapbox-science-2019-stoke-on-trent/) plans taking place in Stoke-on-Trent. 🔬
+* Alex described his [Music and Machine Learning projects](https://github.com/informationcake/music-machine-learning), as well as his students' project on using ML to classify Gender of voices (and the complications and biases involved). 🎶
 * Greg emphasised that a great way to learn more about a sport is through statistics! 🏀
 * Kirstie impressed us with her experiences of dog training. 🐶
 * Joe informed us about a bomb detector made from bees. 🐝
+
+![/figures/book_dash_mcr_dinner.jpg](/figures/book_dash_mcr_dinner.jpg)
+*Networking dinner in the Jamie's Italian Vault. Photo credit: Jez Cope*
 
 During the dash, we set out to build upon the [Collaborations Workshop Hackday experience](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/collabw19/hackdayreport_20190403.md): we wanted to enhance the first version of *The Turing Way* book and ensure that contributing to the project is as straightfoward as possible.
 We had a mixture of contributions including curating and editing existing content, expanding existing content and writing entirely new content:
