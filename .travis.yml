@@ -1,7 +1,7 @@
 # refer to https://docs.travis-ci.com/user/languages/minimal-and-generic/#generic
 # for the rationale behind choosing the generic lang
 language: generic
-dist: xenial
+dist: xenial # ubuntu 16.04
 matrix:
   include:
   - os: linux
@@ -9,19 +9,17 @@ matrix:
 
 cache: bundler 
 
-before_install:
-    - python3 --version
+before_install: # get a reasonably new version of python3 and pip 
     - sudo apt-get install python3-pip
     - sudo -H pip3 install --upgrade pip
     - sudo apt-get install python3-setuptools
 
 install:
-    - pip3 install --user -r ./book/website/requirements.txt
+    - pip3 install --user -r ./book/website/requirements.txt # install things for the book
     - pip3 install --user -U attrs pytest # the installed versions in Travis are too old!
 
 script: 
-    - bash ./scripts/test-file-size.sh
+    - bash ./scripts/test-file-size.sh # test that we haven't accidentally included any big files
     - cd ./book/website
-    - gem install jekyll 
-    - bundle install
-    - bash ./scripts/html-proof.sh
+    - make install # install jekyll etc. for building website
+    - bash ./scripts/html-proof.sh # check dead links etc.
