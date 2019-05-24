@@ -19,3 +19,4 @@ In this folder you can find the materials you need to run a Turing Way developed
 * [Feedback form](feedback_form.md) that you can make into a google form
   * Such as [this one](https://goo.gl/forms/DZGFMPJ4EPClc4qK2) for the Manchester and London workshops in March 2019.
 * Records of [feedback](feedback) from previous workshops.
+* Feedback [report](feedback/report.md) on the workshops.
