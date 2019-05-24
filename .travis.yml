@@ -9,7 +9,7 @@ matrix:
 
 cache: bundler 
 
-installinstall :
+install:
     - pip3 install -r ./book/website/requirements.txt
     - pip3 install -U attrs pytest # the installed versions in Travis are too old!
 
