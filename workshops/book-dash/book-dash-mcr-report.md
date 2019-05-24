@@ -6,7 +6,8 @@
 
 ## The participants
 
-![https://pbs.twimg.com/media/D6y7be5XYAAF0i2?format=jpg&name=900x900](https://pbs.twimg.com/media/D6y7be5XYAAF0i2?format=jpg&name=900x900)
+![/figures/book_dash_mcr_group.jpg](/figures/book_dash_mcr_group.jpg)
+*Back row, left to right: Jez Cope, Will Hulme, Oliver Clark, Jade Pickering, Rosie Higman, Alex Clarke. Middle row, left to right: Clare Liggins, Beth Montague-Hellen, Patricia Herterich, Tania Allard, Kirstie Whitaker, Tarek Allam Jr. Front row, left to right: Matthew Kemp, Greg Kiar, Yo Yehudi, Rosti Readioff, Rachael Ainsworth, Javier Moldon.*
 
 * Rachael Ainsworth [@rainsworth](https://github.com/rainsworth/)
 * Tarek Allam Jr [@tallamjr](https://github.com/tallamjr)
