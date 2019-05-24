@@ -5,8 +5,6 @@ language: generic
 cache: bundler 
 
 before_script:
-    - source ~/virtualenv/python3.6.3/bin/activate
-    - python --version # to debug
     - pip install -r ./book/website/requirements.txt
     - pip install -U attrs pytest # the installed versions in Travis are too old!
 
