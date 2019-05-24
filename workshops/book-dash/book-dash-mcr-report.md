@@ -19,6 +19,7 @@
 * Patricia Herterich [@pherterich](https://github.com/pherterich)
 * Rosie Higman [@rosiehigman](https://github.com/rosiehigman)
 * Will Hulme [@wjchulme](https://github.com/wjchulme) 
+* Matthew Kemp [Scriberia](http://www.scriberia.co.uk/)
 * Greg Kiar [@gkiar](https://github.com/gkiar) 
 * Clare Liggins [@ClareLiggins](https://github.com/ClareLiggins)
 * Javier Moldon [@jmoldon](https://github.com/jmoldon)
@@ -147,7 +148,7 @@ Greg couldn't FIND FAIR in the first place which lead to a contribution to the j
   * Added contributors.
   * Opened some new issues so the team have them written down for future work :smile: 
 
-* Matt:
+* Matthew Kemp:
   * Drew all these pictures!
   * Favourite was the community garden - nurturing everyone so that all the collaborative work can grow :heart_eyes:
   ![https://pbs.twimg.com/media/D6zGuPiW4AI3m8s?format=jpg&name=4096x4096](https://pbs.twimg.com/media/D6zGuPiW4AI3m8s?format=jpg&name=4096x4096)
@@ -155,13 +156,21 @@ Greg couldn't FIND FAIR in the first place which lead to a contribution to the j
 
 ## What did we learn?
 
-There's also an issue for feedback - any comments on what we can do better at future events are appreciated: https://github.com/alan-turing-institute/the-turing-way/issues/505
-
 * 2 first pull requests!! :bell: :bell:
+* It would be helpful to have a dedicated table for git/GitHub newbies and introduce them to collaborating through GitHub before diving into contributing to lower the barriers - perhaps have them read and feed back to the [Collaborating on GitHub/GitLab chapter](https://the-turing-way.netlify.com/collaborating_github/collaborating_github.html). 
+* Bring markdown cheat sheets.
 * When adding participants as collaborators to the project on GitHub, let them know and make sure they are aware of the email they've received and added functionality that comes with it.
 * Add explicit guidance on putting GitHub handles into the intro presentation and trying to make sure this happens in the initial brain storming session to keep track of contributors.
-* Feedback from [Pluses and deltas](https://hackmd.io/9IIQpagHQoOGlwUnY98xQA)
-  * Pluses: really supportive and inclusive environment, good organisation, brilliant icebreaker and really enjoyed having the artist in residence!
-  * Deltas: needed more time, friendlier introduction to Git/GitHub and more guidance on what tasks to take up.
-* Beth Montague-Hellen [@AlfAWolf140](https://github.com/AlfAWolf140) wrote a blog post about her experience: https://montaguehellen.wordpress.com/2019/05/20/the-turing-way-and-a-return-to-github/
 
+
+## Feedback
+
+At the end of the event, we asked participants to tell us anonymously something that they liked about the book dash and something they would change in an exercise called Pluses and Deltas which were recorded in [this HackMD](https://hackmd.io/9IIQpagHQoOGlwUnY98xQA). 
+The main pluses included that the book dash was a really supportive and inclusive environment, was well-organised, that the icebreaker was brilliant, a great mix of people were involved with different expertise and that the participants really enjoyed having the artist in residence from [Scriberia](http://www.scriberia.co.uk/)! 
+Some aspects of the book dash that the participants would change would be to include a friendlier introduction to Git/GitHub, more guidance on what tasks to take up and more time!
+  
+## Impact
+
+Beth Montague-Hellen ([@AlfAWolf140](https://github.com/AlfAWolf140)) wrote a [blog post](https://montaguehellen.wordpress.com/2019/05/20/the-turing-way-and-a-return-to-github/) reflecting on her experience and many participants tweeted! 
+
+> Add screenshots of tweets
