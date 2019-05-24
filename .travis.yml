@@ -9,9 +9,9 @@ matrix:
 
 cache: bundler 
 
-before_script:
-    - pip install -r ./book/website/requirements.txt
-    - pip install -U attrs pytest # the installed versions in Travis are too old!
+installinstall :
+    - pip3 install -r ./book/website/requirements.txt
+    - pip3 install -U attrs pytest # the installed versions in Travis are too old!
 
 script: 
     - bash ./scripts/test-file-size.sh
