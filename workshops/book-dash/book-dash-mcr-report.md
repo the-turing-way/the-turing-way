@@ -33,7 +33,7 @@
 
 ### What did we do?
 
-Our goal for the book dash was to bring together participants enthusiastic about reproducibility to contribute to and improve the *Turing Way* book during a one day collaborative event. 
+Our goal for the book dash was to bring together participants enthusiastic about reproducibility to contribute to and improve *The Turing Way* book during a one day collaborative event. 
 We held a networking event the evening prior to the book dash for participants to get to know each other and promote any projects that they're working on, in order to have an intense 9 to 5 day working on the book.
 There was a great diversity of lightning talks which were really fun:
 * Rachael talked about the women in data meetup group that she organises in Manchester: HER+Data MCR. :woman_technologist:
@@ -46,9 +46,9 @@ There was a great diversity of lightning talks which were really fun:
 * Kirstie impressed us with her experiences of dog training. 🐶
 * Joe informed us about a bomb detector made from bees. 🐝
 
-During the dash, we set out to build upon the [Collaborations Workshop Hackday experience](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/collabw19/hackdayreport_20190403.md): we wanted to enhance the first version Turing Way project and ensure that contributing to the project is as straightfoward as possible.
+During the dash, we set out to build upon the [Collaborations Workshop Hackday experience](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/collabw19/hackdayreport_20190403.md): we wanted to enhance the first version of *The Turing Way* book and ensure that contributing to the project is as straightfoward as possible.
 We had a mixture of contributions including curating and editing existing content, expanding existing content and writing entirely new content:
-* Many of the pull requests's below have been approved and published already!
+* Many of the pull requests below have been approved and published already!
 * New content includes chapters on
   * Reproducible Data Analysis Pipelines for Machine Learning
   * Credit for Reproducible research
