@@ -5,7 +5,7 @@ dist: trusty
 matrix:
   include:
   - os: linux
-    env: PYTHON=2.7
+    env: PYTHON=3.5
 
 cache: bundler 
 
