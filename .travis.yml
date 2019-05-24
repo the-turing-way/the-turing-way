@@ -10,6 +10,7 @@ matrix:
 cache: bundler 
 
 before_install:
+    - python3 --version
     - sudo apt-get install python3-pip
     - sudo -H pip3 install --upgrade pip
 
