@@ -206,13 +206,13 @@ We will create a resource group in a specific data location and create computati
 
 ```
 az group create --name testhub \
-    --location westeurope \
+    --location centralus \
     --output table
 ```
 * `--name` specifies the name of your resource group and should be something that uniquely identifies this hub.
 * `--location` specifies the location of the data centre where your resource will exist.
   A list of data centre locations can be found [here](https://docs.microsoft.com/en-us/azure/aks/container-service-quotas#region-availability).
-  We have chosen West Europe for resource availability.
+  We have chosen Central US for resource availability.
 * `--output table` specifies the output should be in human-readable format as opposed to JSON, which is the default output.
 
 ### 4. Create an Azure Container Service (AKS) Cluster
@@ -249,7 +249,7 @@ Otherwise, you could ask your IT Services to provide you with a Service Principa
 
 Once this command has completed, some extra resource groups will have been created which is normal behaviour.
 You can inspect them in the [Azure Portal](https://portal.azure.com/).
-The `testhub` group will contain the Kubernetes service, whereas a new resource group called `MC_testhub_hubcluster_westeurope` containing the cluster resources (virtual machines, etc.) will have appeared.
+The `testhub` group will contain the Kubernetes service, whereas a new resource group called `MC_testhub_hubcluster_centralus` containing the cluster resources (virtual machines, etc.) will have appeared.
 There will also be a `NetworkWatcherRG` group which will be empty.
 This group is created under the assumption that the Kubernetes service will be extended in the future, which unlikely to be the case when deploying BinderHub.
 This group can be deleted.
