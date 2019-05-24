@@ -173,4 +173,11 @@ Some aspects of the book dash that the participants would change would be to inc
 
 Beth Montague-Hellen ([@AlfAWolf140](https://github.com/AlfAWolf140)) wrote a [blog post](https://montaguehellen.wordpress.com/2019/05/20/the-turing-way-and-a-return-to-github/) reflecting on her experience and many participants tweeted! 
 
-> Add screenshots of tweets
+![https://twitter.com/Jade_Pickering/status/1129327666363064321](/figures/book_dash_mcr_tweet1.png)
+![https://twitter.com/clarepenelope/status/1129379189260525569](/figures/book_dash_mcr_tweet3.png)
+![https://twitter.com/yoyehudi/status/1129330623942942721](/figures/book_dash_mcr_tweet2.png)
+![https://twitter.com/jezcope/status/1129750950347005953](/figures/book_dash_mcr_tweet5.png)
+![https://twitter.com/Dr_Rosti/status/1129428912134660096](/figures/book_dash_mcr_tweet4.png)
+![https://twitter.com/tallamjr/status/1129788487409065985](/figures/book_dash_mcr_tweet6.png)
+![https://twitter.com/PsyTechOli/status/1130082861456007168](/figures/book_dash_mcr_tweet7.png)
+![https://twitter.com/UoMOpenResearch/status/1130788873150369793](/figures/book_dash_mcr_tweet8.png)
