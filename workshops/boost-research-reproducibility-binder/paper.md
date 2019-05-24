@@ -83,11 +83,7 @@ At the end of the workshop, participants are able to take their own content (in 
 Individuals unable to attend a workshop can also work through these resources to improve their understanding of reproducible computational environments and how to prepare their project for sharing with Binder. 
 This material is aimed at aimed at researchers and others who are who are interested in reproducibility, containers or continuous integration; already familiar with R Markdown or Jupyter notebooks; and looking to communicate their research more effectively.
 
-At the end of each workshop, participants were asked to fill in feedback forms rating their understanding and confidence before and after the workshop, what they liked about the workshop, what could be improved and whether they will use Binder in the future.
-On average participants reported an increase of between 30 and 50% in their understanding and confidence in using Binder, capturing their computational environment and reproducing their research.
-The largest increases (50%) were in understanding what Binder does and in feeling confident in using Binder for their own work.
-Participants showed the smallest increase in understanding how to capture a computational environment and feeling confident in sharing their reproducible work.
-The latter may be seen as a positive outcome of the workshop, as one of the secondary goals was to demonstrate the many different factors which go into making research reproducible.
+The feedback report summarises our experience of using these materials in teaching and learning situations. On average, participants report an increase  in their understanding and confidence in using Binder, capturing their computational environment and reproducing their research. Areas that participants identified could be improved include highlighting the difficulties using R with Binder and in particular the tidyverse package which takes a long time to build, that the demonstrations in the afternoon were slower and that some time was taken during the workshop to explain Git terminology,  Markdown and help people get set up.
 
 # Statement of Need
 
@@ -108,7 +104,7 @@ The Binder project significantly lowers the bar to sharing and re-using software
 The majority of researchers and educators have not yet discovered the Binder project, or they have heard it mentioned but do not know how to get started [@build_a_binder]. 
 It is also a tool that requires some investment to master. 
 The *Boost your research reproducibility with Binder* workshops were conducted to increase the number of people publishing their data analyses using this tool which enables others to access, edit, re-run and re-use that content. 
-Preparing and delivering these workshops also enabled the *Turing Way* project to feedback directly to this open source project. 
+Preparing and delivering these workshops also enabled the *Turing Way* project to feedback directly to the open source Binder project. 
 It also had the immediate impact that one of the participants has already incorporated using Binder in their teaching, and contributed their slides on using Binder for fully reproducible research in R as an alternative to the Python-focused workshop.
 
 
