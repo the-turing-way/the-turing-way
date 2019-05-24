@@ -16,8 +16,8 @@ before_install:
     - sudo apt-get install python3-setuptools
 
 install:
-    - pip3 install -r ./book/website/requirements.txt
-    - pip3 install -U attrs pytest # the installed versions in Travis are too old!
+    - pip3 install --user -r ./book/website/requirements.txt
+    - pip3 install --user -U attrs pytest # the installed versions in Travis are too old!
 
 script: 
     - bash ./scripts/test-file-size.sh
