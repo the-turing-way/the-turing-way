@@ -5,12 +5,13 @@ dist: trusty
 matrix:
   include:
   - os: linux
-    env: PYTHON=3.5
+    env: PYTHON=3.6
 
 cache: bundler 
 
 before_install:
     - sudo apt-get install python3-pip
+    - sudo -H pip3 install --upgrade pip
 
 install:
     - pip3 install -r ./book/website/requirements.txt
