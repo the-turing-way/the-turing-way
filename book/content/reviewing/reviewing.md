@@ -182,12 +182,11 @@ The thorough checking of tests, coverage, and code style by hand can be tedious,
 <a name="Further_reading"></a>
 ## Further reading
 
-Lorem ipsum.
-
 <a name="Definitions_glossary"></a>
 ## Definitions/glossary
 
-- **Lorem ipsum:** Lorem ipsum.
+<!-- Format for definitions:
+**Lorem ipsum:** Lorem ipsum.-->
 
 <!--SiccarPoint is struggling to find Open License references for a lot of this (just closed). Help meeeeeeeeeee-->
 
@@ -196,10 +195,14 @@ Lorem ipsum.
 
 ### Materials used: How this will help you/ why this is useful
 
-- [Lorem ipsum]() **Licensing details here**
+<!-- Format for materials used:
+- [Lorem ipsum]() **Licensing details here** 
+-->
 
 ### Materials used: General guidance and good practice for reviewing
 
+<!-- Format for materials used:
 - [Lorem ipsum]() **Licensing details here**
+-->
 
 
