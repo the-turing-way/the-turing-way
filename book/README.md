@@ -18,6 +18,21 @@ To install jupyter-book etc.
 cd book/website
 pip install -r requirements.txt
 ```
+[optional] Consider using a virtual environment to isolate the python dependencies from your system python e.g.
+via (replace with python interpreter of your choice)
+```
+cd book/website
+virtualenv -p /usr/bin/python3.7 the-turing-way
+source the-turing-way/bin/activate
+pip install -r requirements.txt
+```
+
+You will also need to make sure that 'bundler' and jekyll are available on your path. I.e., on a vanilla Ubuntu 19.04
+these will need to be installed via
+```
+sudo apt-get install ruby-bundler
+bundle add jekyll
+```
 
 If you want to see your local changes on your own computer you'll have to go in the website directory and enter `make serve` (type `make` on its own to see the other options).
 ```
