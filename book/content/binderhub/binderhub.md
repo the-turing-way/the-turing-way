@@ -16,6 +16,7 @@
   - [How this will help you/ why this is useful](#how-this-will-help-you-why-this-is-useful)
   - [What is BinderHub?](#what-is-binderhub)
   - [How does a BinderHub work?](#how-does-a-binderhub-work)
+    - [Compute Resources](#compute-resources)
     - [Kubernetes](#kubernetes)
     - [JupyterHub](#jupyterhub)
     - [repo2docker](#repo2docker)
@@ -50,6 +51,13 @@ A high-level explanation of the BinderHub architecture can be found [here](https
 | ![cloud_neutral_binderhub](/content/figures/cloud_neutral_binderhub.png) |
 |:---:|
 | A representation of the BinderHub architecture. |
+
+### Compute Resources
+
+BinderHub is cloud-neutral which means it can be deployed on any cloud platform.
+Therefore, the minimum requirement is a subscription to a cloud platform of your choosing.
+
+In fact, BinderHub is not dependent on cloud-hosting at all and can be deployed onto an on-premise computing system.
 
 ### Kubernetes
 
