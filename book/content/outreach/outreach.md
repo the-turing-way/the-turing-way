@@ -9,15 +9,15 @@
 
 ## Table of contents
 
-1. [Summary](#Summary)
+1. [Summary](#summary)
 2. [Why is outreach important?](#Why_is_outreach_important)
-3. [Manifiesto Point1](#ManifiestoPoint1) [//] This are placeholders
-4. [Manifiesto Point2](#ManifiestoPoint2)
-5. [Manifiesto Point3](#ManifiestoPoint3)
-6. [Manifiesto Point4](#ManifiestoPoint4)
-7. [Manifiesto Point5](#ManifiestoPoint5)
+3. [Manifesto Point1](#ManifestoPoint1) [//] This are placeholders
+4. [Manifesto Point2](#ManifestoPoint2)
+5. [Manifesto Point3](#ManifestoPoint3)
+6. [Manifesto Point4](#ManifestoPoint4)
+7. [Manifesto Point5](#ManifestoPoint5)
 8. [Checklist](#Checklist)
 9. [Further reading](#FurtherReading)
-10.[Bibliography](#Bibliography)
+10. [Bibliography](#Bibliography)
 
 
