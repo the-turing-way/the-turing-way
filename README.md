@@ -19,8 +19,8 @@ Reproducible research is necessary to ensure that scientific work can be trusted
 Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
 The goal is to ensure that all results can be independently verified and built upon in future work.
 This is sometimes easier said than done.
-Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists.
-*The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do".
+Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. As these activities are not commonly taught, we recognise that the burden of requirement and new skill acquisition can be intimidating to individuals who are new to this world.
+*The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do" even for people who have never worked in this way before.
 It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
 This project is openly developed and any and all questions, comments and recommendations are welcome at our github repository: https://github.com/alan-turing-institute/the-turing-way.
 
