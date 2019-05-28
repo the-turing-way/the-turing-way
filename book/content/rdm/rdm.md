@@ -28,11 +28,12 @@ The following sections in this handbook provide useful context and complementary
     i. [Motivations for sharing data](#Motivations-Sharing)
     ii. [Steps to share your data](#Steps-Share)
     iii. [Barriers to data sharing](#Barriers-Share)
-10. [Checklist](#Checklist)
-11. [What to read next](#What-Next)
-12. [Further reading](#Further-Reading)
-13. [Glossary](#Glossary)
-14. [Bibliography](#Bibliography)
+10. [Personal Stories](#Personal-stories)    
+11. [Checklist](#Checklist)
+12. [What to read next](#What-Next)
+13. [Further reading](#Further-Reading)
+14. [Glossary](#Glossary)
+15. [Bibliography](#Bibliography)
 
 <a name="Summary"></a>
 ## Summary 
@@ -271,6 +272,12 @@ This is based on the thinking that in competitive markets, innovation will only 
 The result is that no-one would innovate in the first place. 
 Similarly governments are often unwilling to publish data that relates to issues such as national security due to public safety concerns.
 In such cases it may not be possible to make data open, or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy.
+
+
+<a name="Personal-stories"></a>
+## Personal Stories
+
+
 
 <a name="Checklist"></a>
 ## Checklist 
