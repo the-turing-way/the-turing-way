@@ -11,7 +11,7 @@ No previous knowledge needed.
 4. [What are the values and rewards of doing reproducible science](04/values)
 5. [How can we incentivize people to do reproducible science?](05/incentives)
 6. [Case studies and examples](06/examples)
-7. [Resources][07/resources]
+7. [Resources](07/resources)
 
 ## Summary
 
