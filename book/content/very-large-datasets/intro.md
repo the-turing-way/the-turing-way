@@ -5,6 +5,8 @@ In the era of Big Data, research datasets can often be several hundreds of gigab
 ## Where can I upload and share my Very Large Dataset?
 
  - For experimental neuroscience data: https://crcns.org/files/data/guide/crcns_instructions_for_contributing_data.pdf
+ - More general-purpose: https://dataverse.org/
+   - allows 1TB for free on Harvard Dataverse; other dataverses not sure. 
  - Others??
  
 ## What should an infrastructure for sharing Very Large Datasets provide?
