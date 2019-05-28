@@ -34,15 +34,15 @@ maximal impact.
 
 ## Table of contents
 
-1. [Summary](#01/summary)
-2. [Why is outreach important?](#02/why_is_outreach_important)
-3. [Presenting Results](#03/Presenting_Results) 
-4. [Communicating Effectively](#04/Communicating_Effectively)
-5. [Integrating Outreach Into Research Projects](#05/Integrating_Outreach_Into_Research_Projects)
-6. [Developing Relationships with Others](#06/Developing_Relationships_with_Others)
-7. [Advocating for Research and Data Literacy](#07/Advocating_for_Research_and_Data_Literacy)
-8. [Checklist](#08/checklist)
-9. [Further reading](#09/further_reading)
-10. [Bibliography](#10/bibliography)
+1. [Summary](01/summary)
+2. [Why is outreach important?](02/why_is_outreach_important)
+3. [Presenting Results](03/Presenting_Results) 
+4. [Communicating Effectively](04/Communicating_Effectively)
+5. [Integrating Outreach Into Research Projects](05/Integrating_Outreach_Into_Research_Projects)
+6. [Developing Relationships with Others](06/Developing_Relationships_with_Others)
+7. [Advocating for Research and Data Literacy](07/Advocating_for_Research_and_Data_Literacy)
+8. [Checklist](08/checklist)
+9. [Further reading](09/further_reading)
+10. [Bibliography](10/bibliography)
 
 

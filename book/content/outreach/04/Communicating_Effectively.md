@@ -1,4 +1,4 @@
-# Manifesto Principle 2:
+# Communicating Effectively
 
 ## We should communicate and coordinate effectively with different audiences in an accessible and diverse way: journalists, general public, industry, other data scientists. 
 
