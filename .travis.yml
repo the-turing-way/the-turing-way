@@ -21,6 +21,7 @@ install:
 script: 
     - bash ./scripts/test-file-size.sh # test that we haven't accidentally included any big files
     - python3 ./scripts/lorem-ipsums.py # check for rogue "lorem ipsum"s
+    - python3 ./scripts/no-bad-latin.py # checks for examples of latin abbreviations like e.g., i.e. and e.t.c.
     # Below here, "scripts" directory refers to the one in book/website:
     - cd ./book/website
     - make install # install jekyll etc. for building website
