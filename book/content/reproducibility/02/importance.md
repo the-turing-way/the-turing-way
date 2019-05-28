@@ -1,4 +1,4 @@
-# Why reproducibility is important for science
+# Why reproducibility is important for science and scientific communities
 
 > Requirement of reproducibility implies that reliable and comprehensive software platforms and tools should be made available to the scientific community. [1]  
 

@@ -9,7 +9,7 @@ No previous knowledge needed.
 2. [Why reproducibility is important for science and scientific communities](02/importance.md)
 3. [What are the benefits of doing reproducible science](03/benefits.md)
 4. [What are the values and rewards of doing reproducible science](04/values.md)
-5. [How can we incentivize people to do reproducible science?](05/incentives.md)
+5. [How can we incentivize people to do reproducible science](05/incentives.md)
 6. [Case studies and examples](06/examples.md)
 7. [Resources](07/resources.md)
 

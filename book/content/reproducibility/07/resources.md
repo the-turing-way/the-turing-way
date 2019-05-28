@@ -1,4 +1,4 @@
-# Resources for reproducibility chapter
+# Resources
 
 ## Checklist / Exercise
 - [ ] Define reproducibility for yourself.

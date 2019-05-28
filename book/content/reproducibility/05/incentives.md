@@ -1,4 +1,4 @@
-# * How to incentivize researchers/community members?
+# * How to incentivize researchers/community members
 
 **WORK IN PROGRESS**
 

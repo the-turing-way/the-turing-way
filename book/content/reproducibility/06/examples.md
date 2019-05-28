@@ -1,4 +1,4 @@
-# Examples and case studies from a scientific and volunteer based communities
+# Case studies and examples
 
 **WORK IN PROGRESS**
 
