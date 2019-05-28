@@ -60,10 +60,11 @@ This model provides a useful basis on which to plan for research data management
 The research data lifecycle involves data creation, data use, data publication and sharing, data archiving and data re-use or destruction. However, data have a longer lifespan than the research project that creates them.
 
 <a name="FAIR"></a>
-### The FAIR principles - theory and practices
+### The FAIR principles
 
 [The FAIR guiding principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618) have been developed as guidelines to improve the findability, accessibility, interoperability and re-usability of digital assets; all of which will support research reproducibility. Defined and endorsed by a growing community, these principles put a specific emphasis on enhancing the ability of machines to automatically find and use digital objects, in addition to supporting its reuse by individuals throughout their life cycle. The capacity of computational systems to find, access, interoperate, and reuse data, with none or minimal human intervention, is essential in today's data-driven era, where humans increasingly rely on computational support to deal with data as a result of the increase in volume, velocity and variety and complexity.
 
+#### Theory
 Here is a [simple overview](https://www.go-fair.org/fair-principles) of what the FAIR principles recommend. Data should be:
 <ul>
  <li><p><b>Findable:</b> the first step in (re)using data is to find them, and descriptive metadata is essential.</p>
@@ -88,8 +89,10 @@ Here is a [simple overview](https://www.go-fair.org/fair-principles) of what the
 </li>
 </ul>
 
-Making data 'FAIR' is not the same as making it 'open', but it does imply that you have managed your data sufficiently well to make it usable by others.
-The FAIR principles can also be applied to [software](https://doi.org/10.6084/m9.figshare.7449239.v2), and projects where the data and software are both FAIR the research is more likely to be reproducible. 
+It is important to stress that making data 'FAIR' is not the same as making it 'open' (as accessibility principle clearly explains). Data should be as open as possible, as closed as necessary.
+
+#### Implementations
+The FAIR principles refer to three types of entities: data (as any digital object), metadata (information about that digital object), and infrastructure (i.e. software, repositories). For instance, the findability principle F4 defines that both metadata and data are registered or indexed in a searchable resource (e.g. a data repository). For example, the FAIR principles are also being applied to [software](https://doi.org/10.6084/m9.figshare.7449239.v2), and projects where the data and software are both FAIR the research is more likely to be reproducible. 
 
 It is much easier to make data FAIR and open if you plan to do this from the beginning of your research project. 
 One way to do this is to create a data management plan, in [DMPonline](https://dmponline.dcc.ac.uk/) or just as a text file, to help you think through how to manage your data. The data management plan should include information on data creation (volume, formats/types and workflows), data use (where the raw or 'live' data is being stored), data publication and data archiving at the end of the project (long-term data storage, or what data is 'kept' at the end of a project). Data management plans should also regularly be updated as the research project changes. 
