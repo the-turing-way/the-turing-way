@@ -492,6 +492,15 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "SusannaSansone",
+      "name": "Susanna-Assunta Sansone",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/525719?v=4",
+      "profile": "https://sansonegroup.eng.ox.ac.uk/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
