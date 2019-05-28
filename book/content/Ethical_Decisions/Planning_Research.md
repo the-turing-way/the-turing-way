@@ -20,7 +20,7 @@ If the results are unreliable then the animals used have in effect have been was
 Many preclinical researchers do not think of themselves as data scientists.  
 This may be primarily because they work with small datasets.  
 However, there are many common open research themes and this chapter aims to assist preclinical scientists in understanding the why, where, when, and how they can employ open research initiatives, some designed specifically for the use by preclinical scientists.
->
+> The above sentance may not fit with the structure of the book or flow within these chapters - Nadia
 
 ## Chapter content
 > depending on the content, this might be more structured, e.g. with exercises, gotcha sections etc
