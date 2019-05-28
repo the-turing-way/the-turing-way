@@ -20,7 +20,7 @@ Reproducibility increases accuracy, trust, and confidence in your field broadly.
 
 Well documented analyses ensure that you have easy access to the latest results, your work can easily be written up, and collaborators can easily get on board as additional authors. Furthermore, you can be sure that you easily comply with the highest-level journal guidelines.
 
-4. **Saves time for you in future to spend on doing things that are valuable for you**
+4. **Saves time to work on other valuable ideas**
 
 - Easy to explain to your supervisors, funders, successers and your students what you did, what they can learn from it, how they can apply your work on different context and what they can do to expand your work.
 
