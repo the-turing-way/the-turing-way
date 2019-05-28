@@ -1,6 +1,7 @@
 # Definitions of reproducibility
 
 The most common definition of reproducibility (and replication) was first noted by Claerbout and Karrenbach in 1992 and has been used in computational science literature since then.
+
 Another popular definition has been introduced in 2013 by the Association for Computing Machinery (ACM), which swapped the meaning of the terms 'reproducible' and 'replicable' compared to Claerbout and Karrenbach.
 The following table contrasts both definitions following Heroux et al. (2018).
 
@@ -33,6 +34,7 @@ The Turing Way project will define reproducible research as both data and code b
 However, we recognize that some research will use sensitive data that cannot be shared and this handbook will provide guides on how your research can be reproducible without all parts necessarily being open.
 
 The handbook will cover:
+
 * Open research
 * Version control (using git)
 * Collaborating on GitHub/GitLab
