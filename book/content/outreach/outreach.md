@@ -3,19 +3,44 @@
 ## Prerequisites / recommended skill level
 > other chapters that should have been read before or content you should be familiar with before you read this
 
-| Prerequisite | Importance | Notes |
-| -------------|----------|------|
-|No previous knowledge needed.| |  |
+| Prerequisite                | Importance | Notes |
+|-----------------------------|------------|-------|
+|No previous knowledge needed.|            |       |
+
+
+## Overview
+
+Most of the content in the Turing Way Book is aimed at improving practices in your research to ensure that
+it is accessible and reproducible by other people working in the discipline. Following these practices
+will improve the impact your work has among other researchers in your field. However, research impact
+extends beyond improving knowledge and practice by leading to benefits for society, and researchers need
+to be able to communicate these benefits to the public. Unfortunately, few researchers invest significant
+time and effort into conducting outreach, which often leads to stories about research results being
+inaccurately represented in the media or important results not getting much attention. Research funding
+ultimately rests on projects having clear benefits for society, and an ability to communicate these
+benefits to the public and to public officials will help ensure continued funding for research in the
+future. 
+
+This chapter focuses on best practices for outreach and communication to ensure that your research has
+a broad impact outside of your immediate field. This is a challenging task, as effectively communicating
+complex results to a non-expert takes practice and this skill is infrequently taught as part of the
+training that most researchers receive. Ultimately, you need to approach outreach and communication more
+like a journalist rather than like a researcher. Outreach involves presenting the big picture results
+without necessarily going into the details that you might find interesting as a researcher, developing
+relationships with people that can help disseminate your research, and advocating for data literacy
+in general within your institution. We hope that the material contained in this chapter will help
+you be an advocate for your own research and for your discipline and ensure that your work has
+maximal impact.
 
 ## Table of contents
 
 1. [Summary](#summary)
 2. [Why is outreach important?](#Why_is_outreach_important)
-3. [Manifesto Point1](#ManifestoPoint1) [//] This are placeholders
-4. [Manifesto Point2](#ManifestoPoint2)
-5. [Manifesto Point3](#ManifestoPoint3)
-6. [Manifesto Point4](#ManifestoPoint4)
-7. [Manifesto Point5](#ManifestoPoint5)
+3. [Presenting Results](#ManifestoPoint1) [//] These titles are placeholders written by Eric; feel free to modify them!
+4. [Communicating Effectively](#ManifestoPoint2)
+5. [Integrating Outreach Into Research Projects](#ManifestoPoint3)
+6. [Developing Relationships with Others](#ManifestoPoint4)
+7. [Advocating for Research and Data Literacy](#ManifestoPoint5)
 8. [Checklist](#Checklist)
 9. [Further reading](#FurtherReading)
 10. [Bibliography](#Bibliography)
