@@ -6,22 +6,28 @@ In the era of Big Data, research datasets can often be several hundreds of gigab
 
  - For experimental neuroscience data: https://crcns.org/files/data/guide/crcns_instructions_for_contributing_data.pdf
  - More general-purpose: https://dataverse.org/
-   - allows 1TB for free on Harvard Dataverse; other dataverses not sure. 
+   - The Harvard Dataverse gives up to 1TB of storage for free: https://dataverse.harvard.edu/
  - Others??
  
-## What should an infrastructure for sharing Very Large Datasets provide?
+## What kind of infrastructure can support sharing Very Large Datasets?
 
- - should be easy for contributors to upload data to the infrastructure
- - should be easy to provide credit for sharing data
- - the infrastructure should safeguard the data and check for compliance with a standard for ethical datasets (especially with datasets containing human data)
- - the infrastructure should relieve data contributors from providing technical support for individual users of the data, while also facilitating discussions/collaborations between data contributors and users
- - the datasets should be indexed and tagged for easy and flexible online search and access
- - users should be able to easily create visualizations of the data, preferably using tools embedded directly in the infrastructure
- - infrastructure should be expandable to include novel formats, workflows, and genres of data
- - include an FAQ list and discussion forums
- - provide teaching tools to help new contributors and new users figure out how to use the infrastructure, and to bridge gaps between language and ways of thinking that arise between areas of expertise
- - create, track, and refine the vocabularies and categories used to describe data and metadata
- - prevent unfair or bad faith use of data
+Currently, there are very few options for hosting and sharing Very Large Datasets online. It would be beneficial to have more infrastructures that can support Very Large Datasets, especially as research data becomes more multimedia and begins to use formats such as video and audio more widely. 
+
+### What can this infrastructure do for researchers?
+
+A Very Large Dataset sharing infrastructure should make it easy for contributors to upload data and to provide credit for the shared data. The infrastructure should also safeguard the data and check for compliance with a standard for ethical datasets (especially with datasets containing human data). 
+
+After a contributor has uploaded a dataset, the data-sharing infrastructure should relieve data contributors from providing technical support for individual users of the data, while also facilitating discussions/collaborations between data contributors and users. To enable easy and flexible online search and access, datasets should be indexed and tagged using descriptive language that creates clear categories. Users should also be able to easily create visualizations of the data, preferably using tools embedded directly in the infrastructure. 
+
+As time passes and technologies advance and change, it will become important that these data-sharing infrastructures are expandable to include new formats, workflows, and genres of data. Given the current trends in dataset size, it will also be important for data-sharing infrastructures to be able to accommodate larger and larger datasets. 
+
+Ideally, data-sharing infrastructures can help make open research practices more accessible by hosting a list of Frequently Asked Questions or providing teaching tools to help new contributors and new users figure out how to use the infrastructure, and to bridge gaps between language and ways of thinking that arise between areas of expertise. Discussion forums can provide opportunities for user interactions and collaborations, nurturing an open research community. 
+
+Lastly, a data-sharing infrastructure should have measures in place to prevent unfair or bad faith use of the data. 
+
+ Refs for this section: 
+ - https://gking.harvard.edu/files/gking/files/dvn.pdf
+ - https://crcns.org/files/news/crcns-neuroinformatics-article.pdf
 
 ## Suggested Meta-data to include
 
