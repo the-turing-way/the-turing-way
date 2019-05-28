@@ -8,7 +8,7 @@
 | Chapter/topic | How important it is | Any notes |
 
 ## Summary
-> Society continually debate the use of animals in scientific research.  
+Society continually debate the use of animals in scientific research.  
 The fundamental questions are whether experiments using animals are morally justifiable and whether the potential benefits outweigh the suffering of those animals?  
 These questions have been coupled with increasing concern about the poor reproducibility of findings from animal research, due to the impact this has on translation, scientific progress and the use of resources.  
 A question that is not often addressed is how those justified experiments are designed, conducted and analysed.  
@@ -17,9 +17,10 @@ It is morally incumbent upon us to ensure that animal experiments are appropriat
 If the results are unreliable then the animals used have in effect have been wasted (Ioannidis et al., 2014, de Vries et al., 2014).  
 
 ## How this will help you/ why this is useful
-> Many preclinical researchers do not think of themselves as data scientists.  
+Many preclinical researchers do not think of themselves as data scientists.  
 This may be primarily because they work with small datasets.  
-However, there are many common open research themes and this chapter aims to assist preclinical scientists in understanding the why, where, when, and how they can employ open research initiatives, some designed specifically for the use by preclinical scientists.  
+However, there are many common open research themes and this chapter aims to assist preclinical scientists in understanding the why, where, when, and how they can employ open research initiatives, some designed specifically for the use by preclinical scientists.
+>
 
 ## Chapter content
 > depending on the content, this might be more structured, e.g. with exercises, gotcha sections etc
