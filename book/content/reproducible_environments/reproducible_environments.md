@@ -72,7 +72,7 @@ Recommended skill level: intermediate-advanced.
 <a name="Summary"></a>
 ## Summary
 
-Every computer has its own unique computational environment consisting of its operating system, what software it has installed, what versions of software packages are installed, and other features that we will describe later. If a research project is carried out on one computer and then it and all its associated files are transferred to a different computer, there is no guarantee the analysis will even be able to run, let alone generate the same results, if the analysis is dependent on any of the considerations listed above.
+Every computer has its own unique computational environment consisting of its operating system, what software it has installed, what versions of software packages are installed, and other features that we will describe later. If a research project is carried out on one computer and then that project and all its associated files are transferred to a different computer, there is no guarantee the analysis will even be able to run, let alone generate the same results, if the analysis is dependent on any of the considerations listed above.
 
 In order for research to be reproducible, the computational environment that it was conducted in must be captured in such a way that it can be replicated by others. This chapter describes a variety of methods for capturing computational environments and gives guidance on their strengths and weaknesses.
 
@@ -98,15 +98,15 @@ b = 5
 print(a/b)
 ```
 
-One divided by five is `0.2`, and that is what is printed if this script is run using Python 3. However if a slightly older version of Python, Python 2, is used the result printed is `0`. This is because integer division is applied to integers in Python 2, but (normal) division is applied to all types, including integers, in Python 3.
+One divided by five is `0.2`, and this is what is printed if the script is run using Python 3. However, if a slightly older version of Python; Python 2 is used, the result printed is `0`. This is because integer division is applied to integers in Python 2, but (normal) division is applied to all types, including integers, in Python 3.
 
-Therefore this extremely simple script returns *different* answers depending on the computational environment it is run in. Using the wrong version of Python is easy to do, and demonstrates how a perfectly valid piece of code can give different results depending on its environment. If such issues can impact a simple script like this, imagine how many could appear in a complex analysis procedure which may involve thousands of lines of code and dozens of dependent packages.
+Therefore this extremely simple script returns *different* answers depending on the computational environment in which it is run. Using the wrong version of Python is easy to do, and demonstrates how a perfectly valid piece of code can give different results depending on its environment. If such issues can impact a simple script like this, imagine how many could appear in a complex analysis procedure which may involve thousands of lines of code and dozens of dependent packages.
 
-It is vital for researchers to understand and capture the computational environments they are conducting their work in, as it has the potential to impact three parties:
+It is vital for researchers to understand and capture the computational environments in which they are conducting their work, as it has the potential to impact three parties:
 
-- The researcher themselves. The environment researchers work in evolves over time as they update software, install new software, and move to different computers. If the environment they conduct a project in is not captured and the researcher needs to return to that project after months or years (as is common in research), they will be unable to confidently do so as they will have no way of knowing what changes to the environment have occurred and what impact those changes might have on their ability to run the code, and on the results.
-- Collaborators. Much research is now collaborative, and conducting research in multiple different computational environments opens up a minefield of potential bugs. Trying to fix these kinds of issues is often time consuming and frustrating as researchers have to figure out what the differences between computational environment are, and their effects. Worse, some bugs may remain undetected potentially impacting the results.
-- Science itself. Scholarly research has evolved significantly over the past decade, but the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination- the scholarly publication- is largely unchanged since the advent of the scientific journal in the 1660s. This is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of the need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying analysis and, crucially, the computational environment that produced the findings. For research to be reproducible researchers must publish and distribute the entire contained analysis not just its results. The analysis should be *mobile*. Mobility of compute is defined as the ability to define, create, and maintain a workflow locally while remaining confident that the workflow can be executed elsewhere. In essence, mobility of compute means being able to contain the entire software stack, from data files up through the library stack, and reliability move it from system to system. Any research that is limited to where it can be deployed is instantly limited in the extent that it can be reproduced.
+- The researcher themselves. The researcher's working environment evolves over time as they update software, install new software, and move to different computers. If the project environment is not captured and the researcher needs to return to that project after months or years (as is common in research), they will be unable to confidently do so as they will have no way of knowing what changes to the environment have occurred and what impact those changes might have on their ability to run the code, and on the results.
+- Collaborators. Much research is now collaborative, and conducting research in multiple different computational environments opens up a minefield of potential bugs. Trying to fix these kinds of issues is often time consuming and frustrating as researchers have to figure out what the differences between computational environments are, and their effects. Worse, some bugs may remain undetected, potentially impacting the results.
+- Science itself. Scholarly research has evolved significantly over the past decade, but the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination - the scholarly publication - is largely unchanged since the advent of the scientific journal in the 1660s. This is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of the need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying analysis and, crucially, the computational environment that produced the findings. For research to be reproducible researchers must publish and distribute the entire contained analysis, not just its results. The analysis should be *mobile*. Mobility of compute is defined as the ability to define, create, and maintain a workflow locally while remaining confident that the workflow can be executed elsewhere. In essence, mobility of compute means being able to contain the entire software stack, from data files up through the library stack, and reliably move it from system to system. Any research that is limited to where it can be deployed is instantly limited in the extent that it can be reproduced.
 
 This chapter will describe how to capture, preserve and share computational environments along with code to ensure research is reproducible.
 
@@ -115,7 +115,7 @@ This chapter will describe how to capture, preserve and share computational envi
 
 There are a number of ways of capturing computational environments. The major ones covered in this chapter will be package management systems, Binder, virtual machines, and containers. Each have their own pros and cons, and which is the most appropriate for you will depend on the nature of your project.
 
-These can be broadly be split into two categories: those that capture only the software and its versions used in an environment (package management systems), and those that replicate an entire computational environment including the operating system, customised settings etc. (virtual machines, containers).
+These can be broadly split into two categories: those that capture only the software and its versions used in an environment (package management systems), and those that replicate an entire computational environment including the operating system, customised settings etc. (virtual machines, containers).
 
 Another way these can be split is by how the reproduced research is presented to the reproducer. Using Binder or a virtual machine creates a much more graphical, GUI-type result, whereas the outputs of containers and package management systems are more easily interacted with via the command line.
 
@@ -178,7 +178,7 @@ Package managers install and keep track of the different software packages (and 
 <a name="What_does_Conda_do"></a>
 ### What does Conda do?
 
-Conda allows users to create any number of environments which are entirely separate, and to quickly and easily change between them. For example say a researcher has a project, Project One, which has its own environment defined by Conda i.e. a set of packages and versions of those packages:
+Conda allows users to create any number of environments which are entirely separate, and to quickly and easily change between them. For example, say a researcher has a project: Project One, which has its own environment defined by Conda i.e. a set of packages and versions of those packages:
 
 | Package name | Version |
 | ------------ | ------- |
@@ -195,19 +195,19 @@ Later the researcher starts Project Two in its own environment:
 | Package D    | 1.5.2   |
 | Package E    | 3.7.1   |
 
-Note here that version of package C used in Project Two has been updated from the version used in Project One. If these project environments were not separate then the researcher would have the choice of:
+Note here that the version of package C used in Project Two has been updated from the version used in Project One. If these project environments were not separate then the researcher would have the choice of:
 
 - A) Using the older version of package C forever and not benefiting from updates and bugfixes in later versions.
 - B) Installing the updated version of the package and hoping that it doesn't impact Project One.
 - C) Installing the updated version of the package for use in Project Two then uninstalling it and reinstalling the old one whenever they need to do work on Project One. This would be extremely annoying, and is a step that risks being forgotten.  
 
-All of these options are extremely poor, hence the utility of Conda for creating distinct environments which can be easily swapped between.
+All of these options are extremely poor, hence the utility of Conda for creating distinct environments which are easily interchangable.
 
 Conda can also be used to easily capture and export computational environments. It can go in the other direction too; it can generate computational environments from configuration files which can be used to recreate someone else's environment.
 
-Another benefit of Conda is that it offers much greater flexibility to users who do not have admin privileges on the machines they are working on (as is very common when working with high performance computing facilities). Without Conda it is typically very difficult to install required software onto such machines. However because Conda creates and changes *new* environments rather than making changes to a machine's overall system environment admin privileges are not required.  
+Another benefit of Conda is that it offers much greater flexibility to users who do not have admin privileges on the machines they are working on (as is very common when working with high performance computing facilities). Without Conda it is typically very difficult to install required software onto such machines. However, because Conda creates and changes *new* environments rather than making changes to a machine's overall system environment, admin privileges are not required.  
 
-Finally, while Conda is Python-centric to a degree it is also well integrated for use with other languages, for example the base version of Conda includes the C++ standard library.
+Finally, while Conda is Python-centric to a degree, it is also well integrated for use with other languages, for example the base version of Conda includes the C++ standard library.
 
 <a name="Installing_Conda"></a>
 ### Installing Conda
