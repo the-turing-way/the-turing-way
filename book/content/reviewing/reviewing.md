@@ -40,7 +40,7 @@ Code review is often done in pairs, with each reviewer also having some of their
 
 Because of their nature code reviews act a qualitative rather than quantitive tests, but are no less valuable for that.
 
-This section will provide an overview of rationales, best practice, and some possible workflows for code review. Some details refer specifically to github's code review functionality as a powerful and widely-used example of a formal code review system; however, equivalent and very similar systems are available elsewhere (e.g., [Gitlab](https://about.gitlab.com)), and even informal code review practices can also be very beneficial to a project.
+This section will provide an overview of rationales, best practice, and some possible workflows for code review. Some details refer specifically to github's code review functionality as a powerful and widely-used example of a formal code review system; however, equivalent and very similar systems are available elsewhere (for example, [Gitlab](https://about.gitlab.com)), and even informal code review practices can also be very beneficial to a project.
 
 <a name="How_this_will_help_you_why_this_is_useful"></a>
 ## How this will help you/ why this is useful
