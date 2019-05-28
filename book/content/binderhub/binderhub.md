@@ -30,10 +30,10 @@
 
 ## Summary
 
-This chapter will discuss [BinderHub](https://binderhub.readthedocs.io/en/latest/index.html), which is the cloud technology powering Binder.
+This chapter will discuss [BinderHub](https://binderhub.readthedocs.io/en/latest/index.html), which is the cloud technology powering [Binder](https://mybinder.readthedocs.io/en/latest/).
 We will cover the technologies and tools that BinderHub utilises and the resources you will need to setup your own BinderHub.
 
-This chapter is primarily aimed at RSEs and IT Services who wish to provide a BinderHub as a service to a group of researchers.
+This chapter is primarily aimed at Research Software Engineers and IT Services who wish to provide a BinderHub as a service to a group of researchers.
 Though anyone can build a BinderHub.
 
 ## How this will help you/ why this is useful
@@ -133,13 +133,24 @@ Which permissions you require will vary based on the cloud platform you have acc
 At minimum, you'll need to be able to assign [Role Based Access Control (RBAC)](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview) to your resources so they can act autonomously in order to manage user traffic.
 
 ## Further reading
+
+* [Binder documentation](https://mybinder.readthedocs.io/en/latest/)
 * [BinderHub documentation](https://binderhub.readthedocs.io/en/latest/index.html)
 * [Zero-to-JupyterHub with Kubernetes documentation](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html)
 * [JupyterHub documentation](https://jupyterhub.readthedocs.io/en/stable/)
 * [_The Turing Way_ Build a BinderHub Workshop](http://bit.ly/zero-to-binderhub-workshop)
 
 ## Definitions/glossary
-> Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
+
+| | |
+|---|---|
+| Docker image or container | A set of instructions to create a computational environment.|
+| BinderHub | Technology for hosting reproducible computational environments. |
+| Binder | The user-facing service of a BinderHub. |
+| Kubernetes | Autonomous computational cluster manager. |
+| Helm | A package manager for Kubernetes applications. |
+| JupyterHub | A multi-user server for Jupyter Notebook instances. |
+| repo2docker | A tool to build Docker containers out of code repositories. |
 
 ## Bibliography
 
