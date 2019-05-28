@@ -14,7 +14,7 @@
   - [Table of Contents](#table-of-contents)
   - [Summary](#summary)
   - [How this will help you/ why this is useful](#how-this-will-help-you-why-this-is-useful)
-  - [What is BinderHub?](#what-is-binderhub)
+  - [What is BinderHub and why is it good for Reproducibility?](#what-is-binderhub-and-why-is-it-good-for-reproducibility)
   - [How does a BinderHub work?](#how-does-a-binderhub-work)
     - [Compute Resources](#compute-resources)
     - [Kubernetes](#kubernetes)
@@ -35,12 +35,18 @@ We will cover the technologies and tools that BinderHub utilises and the resourc
 ## How this will help you/ why this is useful
 > why we think you should read the whole thing
 
-## What is BinderHub?
+## What is BinderHub and why is it good for Reproducibility?
 
 A [BinderHub](https://binderhub.readthedocs.io/en/latest/index.html) is a cloud-based technology that can launch a repository of code (from GitHub, GitLab,...) in a browser window such that the code can be executed and interacted with.
 A unique URL is generated allowing the interactive code to be easily shared.
 
 The purpose of these Binder instances is to promote reproducibility in research projects by encouraging researchers to document their software dependencies and produce fun, interactive environments!
+
+Binder, as a user interface, is useful for reproducibility because the code needs to be version controlled and the computational environment needs to be documented in order to benefit from the functionality of Binder.
+Each change to the code repository also forces a new build of the Binder instance.
+This acts as a proxy for continuous integration of the computational environment as the Binder instance will break if the configuration file is not updated.
+
+Learn more about Continuous Integration in [this chapter](/continuous_integration/continuous_integration).
 
 ## How does a BinderHub work?
 
