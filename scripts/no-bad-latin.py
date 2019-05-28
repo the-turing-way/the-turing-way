@@ -35,10 +35,7 @@ if len(fails.keys())!=0:
 		error_message += file_loc + '\n'
 		for instance_of_fail in fails[file_loc]:
 			latin_type, line = instance_of_fail
-			error_message += latin_type + '\t found in line \t' + line + '\n'
+			error_message += latin_type + '\t found in line \t"' + line + '"\n'
 		error_message += '\n'
-	# raise Exception(error_message) # TODO: Have this instead if we want an "allow_failures" error later
-	print(error_message)
-
-
+	raise Exception(error_message) 
 

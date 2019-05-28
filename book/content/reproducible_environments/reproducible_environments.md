@@ -72,7 +72,7 @@ Recommended skill level: intermediate-advanced.
 <a name="Summary"></a>
 ## Summary
 
-Every computer has its own unique computational environment consisting of its operating system, what software it has installed, what versions of software packages are installed, and other features that we will describe later. If a research project is carried out on one computer and then it and all its associated files are transferred to a different computer, there is no guarantee the analysis will even be able to run, let alone generate the same results, if the analysis is dependent on any of the considerations listed above.
+Every computer has its own unique computational environment consisting of its operating system, what software it has installed, what versions of software packages are installed, and other features that we will describe later. If a research project is carried out on one computer and then that project and all its associated files are transferred to a different computer, there is no guarantee the analysis will even be able to run, let alone generate the same results, if the analysis is dependent on any of the considerations listed above.
 
 In order for research to be reproducible, the computational environment that it was conducted in must be captured in such a way that it can be replicated by others. This chapter describes a variety of methods for capturing computational environments and gives guidance on their strengths and weaknesses.
 
@@ -98,15 +98,15 @@ b = 5
 print(a/b)
 ```
 
-One divided by five is `0.2`, and that is what is printed if this script is run using Python 3. However if a slightly older version of Python, Python 2, is used the result printed is `0`. This is because integer division is applied to integers in Python 2, but (normal) division is applied to all types, including integers, in Python 3.
+One divided by five is `0.2`, and this is what is printed if the script is run using Python 3. However, if a slightly older version of Python; Python 2 is used, the result printed is `0`. This is because integer division is applied to integers in Python 2, but (normal) division is applied to all types, including integers, in Python 3.
 
-Therefore this extremely simple script returns *different* answers depending on the computational environment it is run in. Using the wrong version of Python is easy to do, and demonstrates how a perfectly valid piece of code can give different results depending on its environment. If such issues can impact a simple script like this, imagine how many could appear in a complex analysis procedure which may involve thousands of lines of code and dozens of dependent packages.
+Therefore this extremely simple script returns *different* answers depending on the computational environment in which it is run. Using the wrong version of Python is easy to do, and demonstrates how a perfectly valid piece of code can give different results depending on its environment. If such issues can impact a simple script like this, imagine how many could appear in a complex analysis procedure which may involve thousands of lines of code and dozens of dependent packages.
 
-It is vital for researchers to understand and capture the computational environments they are conducting their work in, as it has the potential to impact three parties:
+It is vital for researchers to understand and capture the computational environments in which they are conducting their work, as it has the potential to impact three parties:
 
-- The researcher themselves. The environment researchers work in evolves over time as they update software, install new software, and move to different computers. If the environment they conduct a project in is not captured and the researcher needs to return to that project after months or years (as is common in research), they will be unable to confidently do so as they will have no way of knowing what changes to the environment have occurred and what impact those changes might have on their ability to run the code, and on the results.
-- Collaborators. Much research is now collaborative, and conducting research in multiple different computational environments opens up a minefield of potential bugs. Trying to fix these kinds of issues is often time consuming and frustrating as researchers have to figure out what the differences between computational environment are, and their effects. Worse, some bugs may remain undetected potentially impacting the results.
-- Science itself. Scholarly research has evolved significantly over the past decade, but the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination- the scholarly publication- is largely unchanged since the advent of the scientific journal in the 1660s. This is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of the need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying analysis and, crucially, the computational environment that produced the findings. For research to be reproducible researchers must publish and distribute the entire contained analysis not just its results. The analysis should be *mobile*. Mobility of compute is defined as the ability to define, create, and maintain a workflow locally while remaining confident that the workflow can be executed elsewhere. In essence, mobility of compute means being able to contain the entire software stack, from data files up through the library stack, and reliability move it from system to system. Any research that is limited to where it can be deployed is instantly limited in the extent that it can be reproduced.
+- The researcher themselves. The researcher's working environment evolves over time as they update software, install new software, and move to different computers. If the project environment is not captured and the researcher needs to return to that project after months or years (as is common in research), they will be unable to confidently do so as they will have no way of knowing what changes to the environment have occurred and what impact those changes might have on their ability to run the code, and on the results.
+- Collaborators. Much research is now collaborative, and conducting research in multiple different computational environments opens up a minefield of potential bugs. Trying to fix these kinds of issues is often time consuming and frustrating as researchers have to figure out what the differences between computational environments are, and their effects. Worse, some bugs may remain undetected, potentially impacting the results.
+- Science itself. Scholarly research has evolved significantly over the past decade, but the same cannot be said for the methods by which research processes are captured and disseminated. In fact, the primary method for dissemination - the scholarly publication - is largely unchanged since the advent of the scientific journal in the 1660s. This is no longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of the need to share all aspects of the research process, scholarly publications today are often disconnected from the underlying analysis and, crucially, the computational environment that produced the findings. For research to be reproducible researchers must publish and distribute the entire contained analysis, not just its results. The analysis should be *mobile*. Mobility of compute is defined as the ability to define, create, and maintain a workflow locally while remaining confident that the workflow can be executed elsewhere. In essence, mobility of compute means being able to contain the entire software stack, from data files up through the library stack, and reliably move it from system to system. Any research that is limited to where it can be deployed is instantly limited in the extent that it can be reproduced.
 
 This chapter will describe how to capture, preserve and share computational environments along with code to ensure research is reproducible.
 
@@ -115,7 +115,7 @@ This chapter will describe how to capture, preserve and share computational envi
 
 There are a number of ways of capturing computational environments. The major ones covered in this chapter will be package management systems, Binder, virtual machines, and containers. Each have their own pros and cons, and which is the most appropriate for you will depend on the nature of your project.
 
-These can be broadly be split into two categories: those that capture only the software and its versions used in an environment (package management systems), and those that replicate an entire computational environment including the operating system, customised settings etc. (virtual machines, containers).
+These can be broadly split into two categories: those that capture only the software and its versions used in an environment (package management systems), and those that replicate an entire computational environment including the operating system, customised settings etc. (virtual machines, containers).
 
 Another way these can be split is by how the reproduced research is presented to the reproducer. Using Binder or a virtual machine creates a much more graphical, GUI-type result, whereas the outputs of containers and package management systems are more easily interacted with via the command line.
 
@@ -178,7 +178,7 @@ Package managers install and keep track of the different software packages (and 
 <a name="What_does_Conda_do"></a>
 ### What does Conda do?
 
-Conda allows users to create any number of environments which are entirely separate, and to quickly and easily change between them. For example say a researcher has a project, Project One, which has its own environment defined by Conda i.e. a set of packages and versions of those packages:
+Conda allows users to create any number of environments which are entirely separate, and to quickly and easily change between them. For example, say a researcher has a project: Project One, which has its own environment defined by Conda i.e. a set of packages and versions of those packages:
 
 | Package name | Version |
 | ------------ | ------- |
@@ -195,19 +195,19 @@ Later the researcher starts Project Two in its own environment:
 | Package D    | 1.5.2   |
 | Package E    | 3.7.1   |
 
-Note here that version of package C used in Project Two has been updated from the version used in Project One. If these project environments were not separate then the researcher would have the choice of:
+Note here that the version of package C used in Project Two has been updated from the version used in Project One. If these project environments were not separate then the researcher would have the choice of:
 
 - A) Using the older version of package C forever and not benefiting from updates and bugfixes in later versions.
 - B) Installing the updated version of the package and hoping that it doesn't impact Project One.
 - C) Installing the updated version of the package for use in Project Two then uninstalling it and reinstalling the old one whenever they need to do work on Project One. This would be extremely annoying, and is a step that risks being forgotten.  
 
-All of these options are extremely poor, hence the utility of Conda for creating distinct environments which can be easily swapped between.
+All of these options are extremely poor, hence the utility of Conda for creating distinct environments which are easily interchangable.
 
 Conda can also be used to easily capture and export computational environments. It can go in the other direction too; it can generate computational environments from configuration files which can be used to recreate someone else's environment.
 
-Another benefit of Conda is that it offers much greater flexibility to users who do not have admin privileges on the machines they are working on (as is very common when working with high performance computing facilities). Without Conda it is typically very difficult to install required software onto such machines. However because Conda creates and changes *new* environments rather than making changes to a machine's overall system environment admin privileges are not required.  
+Another benefit of Conda is that it offers much greater flexibility to users who do not have admin privileges on the machines they are working on (as is very common when working with high performance computing facilities). Without Conda it is typically very difficult to install required software onto such machines. However, because Conda creates and changes *new* environments rather than making changes to a machine's overall system environment, admin privileges are not required.  
 
-Finally, while Conda is Python-centric to a degree it is also well integrated for use with other languages, for example the base version of Conda includes the C++ standard library.
+Finally, while Conda is Python-centric to a degree, it is also well integrated for use with other languages, for example the base version of Conda includes the C++ standard library.
 
 <a name="Installing_Conda"></a>
 ### Installing Conda
@@ -468,21 +468,21 @@ Juliette Taka's excellent cartoon below illustrates the steps in creating and sh
 
 **Step 4:** She generates a link at the [mybinder.org](https://mybinder.org) BinderHub. By clicking on this link anyone can access a "Binderized" version of her project. The click triggers repo2docker to build an Docker image based on the contents of the repository and its configuration files. This image is then hosted on the cloud. The person who clicked the link will be taken to a copy of her project in their web browser that they can interact with. This copy of the project they interact with is hosted in the environment the researcher specified in step 3, regardless of the computational environment of the person is accessing it from.
 
-![binder_comic](/assets/figures/binder_comic.png)
+![binder_comic](../figures/binder_comic.png)
 
 Figure credit: [Juliette Taka, Logilab and the OpenDreamKit project](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/)
 
 To get an idea of what this looks like here's what a binder of a simple example project looks like. Files are listed and can be clicked on and modified by the person accessing the binder.
 
-![binder_home](/assets/figures/binder_home.png)
+![binder_home](../figures/binder_home.png)
 
 Users can also open terminals to run or otherwise interact with the files by clicking on "New" and then "Terminal" in the top right of the home binder screen shown above. Here this is used to run the analysis script in the example binder which performs a linear regression on some data:
 
-![binder_terminal](/assets/figures/binder_terminal.png)
+![binder_terminal](../figures/binder_terminal.png)
 
 As mentioned Binder is well integrated with Jupyter notebooks which can be opened by clicking on "New" and then under "Notebook" in the same way terminals can be opened. These may be more convenient for those working with graphical outputs, as shown here where one is used to run `make_plot.py` in the example Binder:
 
-![binder_notebook](/assets/figures/binder_notebook.png)
+![binder_notebook](../figures/binder_notebook.png)
 
 If R is installed in a Binder the dropdown menu will show the options to open R Jupyter notebooks and RStudio sessions in the Binder.
 
@@ -569,7 +569,7 @@ Again, if you are unable to complete these steps refer to the chapter on version
 
 Head to [https://mybinder.org](https://mybinder.org). You'll see a form that asks you to specify a repository for [mybinder.org](https://mybinder.org) to build. In the first field, paste the URL of the project's GitHub repository. It'll look something like this: `https://github.com/<your-username>/<your-repository>`
 
-![mybinder_gen_link](/assets/figures/mybinder_gen_link.png)
+![mybinder_gen_link](../figures/mybinder_gen_link.png)
 
 As you can see there are additional fields in this form, but these are optional are will not be discussed here.
 
@@ -612,7 +612,7 @@ The best option for large files is to use a library specific to the data format 
 
 Virtual machines (VMs) essentially package a whole computer as an app that can be run. As an example see the figure below which shows a windows laptop (note the windows search button in the lower left corner) running a virtual ubuntu machine (note the terminal outputting the operating system). The machine running the VM is called the "host machine". Using software like [VirtualBox](https://www.virtualbox.org/) or [Vagrant](https://www.vagrantup.com/), a user can create and run any number of VMs. As you could probably guess, having several VMs running at once can be a drain on memory, so just because you can run several at once doesn’t mean you should.
 
-![virtual_machine](/assets/figures/virtual_machine.png)
+![virtual_machine](../figures/virtual_machine.png)
 
 Users can download, install, backup and destroy VMs at will, which is part of what makes them an attractive tool for sharing reproducible research. Research often requires specific pieces of software or system settings. If a researcher wishes to reproduce another's work on their own computer making the necessary changes to their environment to run the project may impact their own work. For example near the very start of this chapter it was [described](#How_this_will_help_you_why_this_is_useful) how using a different version of Python can lead to unexpected changes in the results of an analysis. Say a researcher installs an updated version of Python to replicate an analysis because the analysis requires features only present in the updated version. By doing so they put their own work at risk. VMs remove that risk; any tools downloaded or settings changed will only impact the VM, keeping the reproducer's research safe. If they do inadvertently break something in the VM, they can just delete it and make another one. They are effectively a quarantined area.
 
@@ -626,7 +626,7 @@ Virtual machines can be shared by exporting them as single files. Another resear
 
 First choose a tool for generating VMs. Here the widely-used [VirtualBox](https://www.virtualbox.org/) is chosen. Download and install it on your system. To create a new machine click "New" in the top left. A window will pop up where you can enter a name for the machine and select what operating system and version of the operating system to use. In the figure below a machine called demo_VM running ubuntu is being created:
 
-![VM_create_machine](/assets/figures/VM_create_machine.png)
+![VM_create_machine](../figures/VM_create_machine.png)
 
 As you click through you can adjust other features of the machine to be created such as how much memory it should have access to. The default options are suitable for most purposes, but this process permits customisation.
 
@@ -635,14 +635,14 @@ As you click through you can adjust other features of the machine to be created 
 
 To start a virtual machine simply select the machine from the list of VMs on the left, and click the green "start" arrow at the top:
 
-![VM_start_machine](/assets/figures/VM_start_machine.png)
+![VM_start_machine](../figures/VM_start_machine.png)
 
 <a name="Sharing_virtual_virtual_machines"></a>
 #### Sharing virtual virtual machines
 
 A researcher can do work on their VM, and then export the whole thing. To export a virtual machine click "File" in the top left and then "Export". This will export the VM as a single file which can be shared like any other.
 
-![VM_export_machine](/assets/figures/VM_export_machine.png)
+![VM_export_machine](../figures/VM_export_machine.png)
 
 Someone that has access to this file and VirtualBox installed just needs to click "File" in the top left and then "Import" and select that file. Once it is imported they can start the VM as described before by selecting it from the menu clicking the green start arrow at the top.
 
@@ -685,7 +685,7 @@ In Docker the recipe files used to generate images are known as Dockerfiles, and
 
 [This](https://opensource.com/business/14/7/docker-security-selinux) article goes deeper into the potential security vulnerabilities of containers and here is a [detailed breakdown](https://opensource.com/business/14/9/security-for-docker) of security features currently within Docker, and how they function. The best advice for using images built by others is as standard- only download and run something on your machine if it comes from a trusted source. DockerHub has "official image" badges for commonly used, verified images as shown here:
 
-![Docker_official_image](/assets/figures/docker_official_image.png)
+![Docker_official_image](../figures/docker_official_image.png)
 
 <a name="Installing_Docker"></a>
 ### Installing Docker
@@ -789,7 +789,7 @@ The `ADD` command has the same capabilities as `COPY`, but it can also be used t
 
 Here's what happens if a container is opened from an image called book_example built from the example above:
 
-![container_example](/assets/figures/container_example.png)
+![container_example](../figures/container_example.png)
 
 As you can see the directory "project" has been created, and if we look inside the project files "analysis.py" and "data.csv" have been copied into it. Because the software required for the project has already been included by the Dockerfile in the image the "analysis.py" script runs without any further software needing to be installed.
 
@@ -813,13 +813,13 @@ RUN mkdir B_1
 RUN mkdir B_2
 ```
 
-![workdir_example](/assets/figures/workdir_example.png)
+![workdir_example](../figures/workdir_example.png)
 
 Directories B_1 and B_2 have been created within directory A.
 
 WORKDIR should be used whenever changing directories is necessary when building an image. It may be tempting to use `RUN cd directory_name` instead as this syntax will be more familiar to those that commonly work via the command line, but this can lead to errors. After each `RUN` statement in a Dockerfile the image is saved, any following commands are applied to the image anew. As an example here is what happens in the above example if the `WORKDIR A` line is swapped for `RUN cd A`
 
-![cd_example](/assets/figures/cd_example.png)
+![cd_example](../figures/cd_example.png)
 
 All the directories have are in the top level in this case, rather than B_1 and B_2 being inside A. This is because the image was restarted after the `RUN cd A` command and opened at the top (root) level by default, so that is where the `mkdir B_1` and `mkdir B_2` commands took effect.
 

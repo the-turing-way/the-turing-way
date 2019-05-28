@@ -453,6 +453,72 @@
         "ideas",
         "review"
       ]
+    },
+    {
+      "login": "nadiasoliman",
+      "name": "nadiasoliman",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/41086364?v=4",
+      "profile": "https://github.com/nadiasoliman",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "NatalieThurlby",
+      "name": "NatalieThurlby",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/17617308?v=4",
+      "profile": "https://github.com/NatalieThurlby",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "mjg211",
+      "name": "Michael J Grayling",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4548867?v=4",
+      "profile": "https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/a-to-g/michael-grayling/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "masonlr",
+      "name": "Lachlan Mason",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5828176?v=4",
+      "profile": "https://github.com/masonlr",
+      "contributions": [
+        "ideas",
+        "doc",
+        "code"
+      ]
+    },
+    {
+      "login": "SusannaSansone",
+      "name": "Susanna-Assunta Sansone",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/525719?v=4",
+      "profile": "https://sansonegroup.eng.ox.ac.uk/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "taunsquared",
+      "name": "taunsquared",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/27739141?v=4",
+      "profile": "https://github.com/taunsquared",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "edaub",
+      "name": "Eric Daub",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/45598892?v=4",
+      "profile": "https://github.com/edaub",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
