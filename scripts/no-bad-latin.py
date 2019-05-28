@@ -7,13 +7,16 @@ import sys
 script_dir = os.path.dirname(__file__)
 directory_to_check = os.path.join(script_dir,'../book/content/')
 
+
 def remove_comments(text_string):
 	p = re.sub('(?s)<!--(.*?)-->','', text_string)
 	return p
 
+
 def get_lines(text_string,sub_string):
 	lines = [line for line in text_string.split('\n') if sub_string in line]
 	return lines
+
 
 bad_latin = ['i.e.','e.g.','e.t.c.',' etc', ' ie']
 fails = {} # keys = filenames, values = (latin_type, line)
