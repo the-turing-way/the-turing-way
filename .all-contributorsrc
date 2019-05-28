@@ -510,6 +510,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "edaub",
+      "name": "Eric Daub",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/45598892?v=4",
+      "profile": "https://github.com/edaub",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
