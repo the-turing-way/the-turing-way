@@ -18,7 +18,7 @@ The following sections in this handbook provide useful context and complementary
 5. [The FAIR principles practices](#FAIR)
  i. [Theory](#Theory)
  ii. [Tools and indicators](#Tools-indicators)
- iii. [Metadata and Identifiers](#Metadata-identifier)
+ iii. [Metadata and Identifiers](#Metadata-identifiers)
 6. [Storage and backup](#Storage-backup)
     i. [Where to store data](#Where-store)
     ii. [Backups](#Backups)
@@ -107,9 +107,11 @@ This rapid uptake and community involvement, however, has also caused some confu
 
 Listing all efforts working in and around FAIRness is practically impossible, as this is a fast moving, disperse and diverse field. Nevethless, if you are interested in following the discussion and/or participate in it, here are two global and international initiatives that act as umbrella organizations and reference points for many discipline specific efforts: [GOFAIR](https://www.go-fair.org) and the [Research Data Alliance (RDA)](https://www.rd-alliance.org). Under GOFAIR there are many [Implementation Networks (INs)](https://www.go-fair.org/implementation-networks) committed to implementing elements of the Internet of FAIR Data and Services within the three pillars: GO Build (Technology), GO Change (Culture) and GO Train (Training). Under the RDA there are several groups tackling different aspects relevant to the RDM life cycle, and among these one [group](https://www.rd-alliance.org/groups/fair-data-maturity-model-wg) is reviewing existing efforts, building on them to define a common set of common assessment criteria for the evaluation of FAIRness. Watch this space!
 
-<a name="metadata-identifier"></a>
-#### Metadata and identifiers
-Metadata (to describe and report the data) and unique persistent identifiers (to cite and reference data) are the two pillars of the FAIR principles; you need to familiarise with what these are and which one is relevant to your data type in order to mention them in your DMP and use them (or at least know which tool and repositories implements them). The use of community-defined standards for metadata and identified is vital for high-quality, reproducible research and for the integrative analysis and comparison of heterogeneous data from multiple sources, domains and disciplines.
+<a name="Metadata-identifiers"></a>
+#### Metadata and identifiers - community standards
+Metadata (to describe and report the data) and unique persistent identifiers (to cite and reference data) are the two pillars of the FAIR principles. The use of community-defined standards for metadata and identified is vital for high-quality, reproducible research and for the integrative analysis and comparison of heterogeneous data from multiple sources, domains and disciplines. Although also in this areas there is a lot of work in progress, and expecially metadata standards are disciplines specific, or specific to a given digital object, you need to know what these are and which one are relevant to your data type in order to mention them in your DMP and use them.
+
+You can use [FAIRsharing](https://fairsharing.org) as a lookup resource to identify and cite the metadata and/or identifier schemas, databases or repositories that exist for your data and discipline, for example, when creating a data management plan for a grant proposal or funded project; or when submitting a manuscript to a journal, to identify the recommended databases and repositories, as well as the standards they implement to ensure all relevant information about the data is collected at the source. FAIRsharing also operates under GOFAIR and the RDA, and is [widely adopted](https://fairsharing.org/communities) by publishers, funders, and other organizations; like any other FAIR-enabling resources, it will continue to evolve, better linking to DMP and FAIRness assessment tools, to better help you maing data FAIR a reality.
 
 <a name="Storage-backup"></a>
 ### Storage and backup 
@@ -127,6 +129,9 @@ Especially if you are handling personal or sensitive data, you need to ensure th
 
 Your institution might provide local storage solutions and policies or guidelines restricting what you can use. 
 Thus, we recommend you familiarise yourself with your local policies anc recommendations.
+
+When you are ready to release the data to the wider community, you can also search for the appropriate [databases and repositories in FAIRsharing](https://fairsharing.org/databases) according to your data type, and type of access to the data. Major [publishers are progressively defining clearer recommendations for data deposition and sharing](https://fairsharing.org/recommendations), endorsing specific generics as well as domain-sepecific databases and repositories.
+
 <a name="Backups"></a>
 #### Backups 
 
