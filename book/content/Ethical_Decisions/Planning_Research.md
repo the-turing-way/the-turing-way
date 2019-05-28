@@ -28,10 +28,10 @@ Designing experiments with the EDA encourages researchers to consider the source
 The tool ensures that you have a transparent, clear protocol and plan for statistical analysis which can be scrutinised before collecting data.  
 
 **Features of the EDA:**
-- A computer-aided design tool to develop a diagram representing the experimental plan
-- feedback from an expert system on the experimental plan 
-- analysis suggestion 
-- sample size calculation (power analysis)
+* A computer-aided design tool to develop a diagram representing the experimental plan
+* feedback from an expert system on the experimental plan 
+* analysis suggestion 
+* sample size calculation (power analysis)
 * randomisation sequence generation 
 * support for allocation concealment and blinding 
 * web-based resources to improve knowledge of experimental design and analysis 
