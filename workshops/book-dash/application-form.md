@@ -98,7 +98,7 @@ This may include (but are not limited to) being LGBTQ+, disabled, neurodivergent
 *As a reminder Day 1 is only the evening time, it starts at 6pm.*
 *Day 2 runs from 9am to 5pm.*
 
-- [ ] 17 & 18 May 2019 - University of Manchster
+- [ ] 16 & 17 May 2019 - University of Manchster
 - [ ] 27 & 28 May 2019 - London, Alan Turing Institute
 - [ ] No preference
 
@@ -110,6 +110,12 @@ This may include (but are not limited to) being LGBTQ+, disabled, neurodivergent
 - [ ] Yes
 - [ ] No
 - [ ] Not sure
+
+**Your name**
+* Free text
+
+**Your email address**
+* Free text
 
 #### GDPR
 
