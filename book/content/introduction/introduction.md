@@ -34,7 +34,7 @@ Watch this space for a little more information on how to contribute to the Turin
 
 The Turing Way is is built by an incredible team.....and you!
 
-![](/assets/figures/TuringWayTeam.jpg)
+![](../figures/TuringWayTeam.jpg)
 
 The lead investigator for this project is [Dr Kirstie Whitaker](https://whitakerlab.github.io/about).
 She's a research fellow at the [Alan Turing Institute](http://turing.ac.uk) and senior research associate in the [Department of Psychiatry](https://www.psychiatry.cam.ac.uk) at the University of Cambridge.
@@ -53,6 +53,6 @@ Our core contributors are, in alphabetical order:
 
 You can see all of our incredible contributors in our [README](https://github.com/alan-turing-institute/the-turing-way#contributors) file, and screengrabbed below.
 
-![](/assets/figures/Contributors.png)
+![](../figures/Contributors.png)
 
 Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) on how you can join this fantastic group and help us build the most useful book we can!

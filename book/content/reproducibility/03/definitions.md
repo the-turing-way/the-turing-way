@@ -26,7 +26,7 @@ Victoria Stodden [(2014)](http://edge.org/response-detail/25340), a prominent sc
 
 The Turing Way project will define reproducible research as both data and code being available to fully rerun the analysis.
 
-| ![Kirstie's definition of reproducible research](/assets/figures/reproducibility/ReproducibleMatrix.jpg) |
+| ![Kirstie's definition of reproducible research](../../figures/reproducibility/ReproducibleMatrix.jpg) |
 | -------------------------------------------------------------------------------------------------------- |
 |  How the Turing Way defines reproducible research  |
 
