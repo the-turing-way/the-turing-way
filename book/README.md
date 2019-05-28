@@ -1,7 +1,7 @@
 ## The Turing Way Book
 *For the main repo (where most of the issues live) please [follow this link](https://github.com/alan-turing-institute/the-turing-way).*
 
-All the text for each chapter lives inside it's own folder in the `content/` directory.
+All the text for each chapter lives inside its own folder in the `content/` directory.
 
 Everything else is in the `website/`. Importantly this includes the figures, which are in the `website/assets/figures/` directory.
 
@@ -20,6 +20,7 @@ pip install -r requirements.txt
 ```
 
 If you want to see your local changes on your own computer you'll have to go in the website directory, install the relevant ruby plugins, and enter `make serve` (type `make` on it's own to see the other options).
+
 ```
 cd book/website
 make install
@@ -41,4 +42,4 @@ Templates for certain types of content are kept in the `templates` directory.
 Templates include:
 * `case-study-template.ipynb` - a template for including interactive case studies in the book
 
-The template should be edited accordingly and moved into it's relevant chapter folder in the `content` directory.
+The template should be edited accordingly and moved into its relevant chapter folder in the `content` directory.

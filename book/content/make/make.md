@@ -4,8 +4,8 @@
 
 | Prerequisite | Importance | Notes |
 | ------------ | ---------- | ----- |
-| Experience with the command line | Necessary | |
-| Version control | Helpful | Experience using git is useful to follow along with examples |
+| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | |
+| [Version control](/version_control/version_control) | Helpful | Experience using git is useful to follow along with examples |
 
 Recommended skill level: intermediate
 
@@ -171,7 +171,7 @@ combine the three commands in a single recipe above.
 
 This is what the dependency tree looks like for this Makefile:
 
-![DAG for Makefile no. 1](/assets/figures/make/makefile_no_1.png)
+![DAG for Makefile no. 1](../figures/make/makefile_no_1.png)
 
 
 #### Makefile no. 2 (all and clean)

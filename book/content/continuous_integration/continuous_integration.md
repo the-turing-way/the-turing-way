@@ -2,10 +2,10 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
-| Experience with the command line | Necessary | A tutorial on working via the command line can be found [here](https://programminghistorian.org/en/lessons/intro-to-bash) |
-| Version control | Necessary | See the chapter on this for more information |
-| Testing | Very helpful | See the chapter on this for more information  |
-| Reproducible computational environments | Necessary | See the chapter on this for more information, particularly the sections on YAML files and containers |
+| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | Continuous integration will follow command line instructions
+| [Version control](/version_control/version_control) | Necessary | Continuous integration runs every time a new _commit_ is made to your project |
+| [Reproducible computational environments](/reproducible_environments/reproducible_environments) | Necessary | Continuous integration runs your tests on a separate computer (usually in the cloud) so you need to set it up in the same way. |
+| [Testing](/testing/testing) | Very helpful | Continuous integration _tests_ if anything important has changed when you make a change in your project  |
 
 ## Table of contents
 
@@ -106,15 +106,15 @@ Once Travis has been set up on a project then each time a commit is made it:
 
 Here's what the Travis dashboard of a repository looks like:
 
-![Travis_build](/assets/figures/Travis_build.png)
+![Travis_build](../figures/Travis_build.png)
 
 Everything's green because the build is passing. Note the "build passing" badge at the top. If you click that you will get a popup with a dropdown menu where you can select a way of copying the badge. If you select "markdown" and copy and paste the code snippet it outputs into a markdown file in the project, then GitHub will display the badge in that file:
 
-![Travis_badge_pass](/assets/figures/Travis_badge_pass.png)
+![Travis_badge_pass](../figures/Travis_badge_pass.png)
 
 If I deliberately create a bug and commit it then Travis automatically runs, the tests fail, and this badge automatically updates to "build failing":
 
-![Travis_badge_fail](/assets/figures/Travis_badge_fail.png)
+![Travis_badge_fail](../figures/Travis_badge_fail.png)
 
 You can use Travis to test your project in multiple computational environments my specifying them in the .travis.yml file. A quick note on Travis vocabulary:
 

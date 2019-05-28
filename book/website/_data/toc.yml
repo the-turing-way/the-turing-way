@@ -42,10 +42,36 @@
     url: reproducibility/04/resources
 - title: Open Research
   url: open_research/open_research
+  sections:
+  - title: Open data
+    url: open_research/01/opendata
+  - title: Open source software
+    url: open_research/02/opensourcesoftware
+  - title: Open hardware
+    url: open_research/03/openhardware
+  - title: Open access
+    url: open_research/04/openaccess
+  - title: Open notebooks
+    url: open_research/05/opennotebooks
+  - title: Open scholarship
+    url: open_research/06/openscholarship
+  - title: Resources
+    url: open_research/07/resources
 - title: Version Control
   url: version_control/version_control
 - title: Collaborating on GitHub/GitLab
   url: collaborating_github/collaborating_github
+  sections:
+  - title: README and Project Communication
+    url: collaborating_github/1/readme_communication
+  - title: Roadmapping
+    url: collaborating_github/2/roadmapping
+  - title: Getting Contributors 
+    url: collaborating_github/3/getting_contributors
+  - title: Checklist and Bibliography
+    url: collaborating_github/4/checklist_bibliography
+- title: Credit for reproducible research
+  url: credit/credit
 - title: Research Data Management
   url: rdm/rdm
 - title: Reproducible Environments
@@ -60,3 +86,8 @@
   url: make/make
 - title: Risk Assessment
   url: risk_assessment/risk_assessment
+  sections:
+  - title: Long Read on Risk Assessment
+    url: risk_assessment/01/longreadriskassessment
+  - title: Summary
+    url: risk_assessment/02/finalsummary
