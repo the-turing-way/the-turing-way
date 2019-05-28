@@ -133,8 +133,10 @@ Which permissions you require will vary based on the cloud platform you have acc
 At minimum, you'll need to be able to assign [Role Based Access Control (RBAC)](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview) to your resources so they can act autonomously in order to manage user traffic.
 
 ## Further reading
-> top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
-> less relevant/favourite resources in case someone wants to dig into this in detail
+* [BinderHub documentation](https://binderhub.readthedocs.io/en/latest/index.html)
+* [Zero-to-JupyterHub with Kubernetes documentation](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html)
+* [JupyterHub documentation](https://jupyterhub.readthedocs.io/en/stable/)
+* [_The Turing Way_ Build a BinderHub Workshop](http://bit.ly/zero-to-binderhub-workshop)
 
 ## Definitions/glossary
 > Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
