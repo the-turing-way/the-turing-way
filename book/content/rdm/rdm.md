@@ -15,7 +15,10 @@ The following sections in this handbook provide useful context and complementary
 2. [Why this is useful](#Why-useful)
 3. [What is data?](#What-Data)
 4. [The Research Data Lifecycle](#Data-Lifecycle) 
-5. [The FAIR principles - theory and practices](#FAIR)
+5. [The FAIR principles practices](#FAIR)
+ i. [Theory](#Theory)
+ ii. [Tools and indicators](#Tools-indicators)
+ iii. [Metadata and Identifiers](#Metadata-identifier)
 6. [Storage and backup](#Storage-backup)
     i. [Where to store data](#Where-store)
     ii. [Backups](#Backups)
@@ -64,6 +67,7 @@ The research data lifecycle involves data creation, data use, data publication a
 
 [The FAIR guiding principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618) have been developed as guidelines to improve the findability, accessibility, interoperability and re-usability of digital assets; all of which will support research reproducibility. Defined and endorsed by a growing community, these principles put a specific emphasis on enhancing the ability of machines to automatically find and use digital objects, in addition to supporting its reuse by individuals throughout their life cycle. The capacity of computational systems to find, access, interoperate, and reuse data, with none or minimal human intervention, is essential in today's data-driven era, where humans increasingly rely on computational support to deal with data as a result of the increase in volume, velocity and variety and complexity.
 
+<a name="Theory"></a>
 #### Theory
 Here is a [simple overview](https://www.go-fair.org/fair-principles) of what the FAIR principles recommend. In breif, data should be:
 <ul>
@@ -95,12 +99,17 @@ The FAIR principles refer to three types of entities: data (as any digital objec
 
 It is much easier to make data FAIR if you plan to do this from the beginning of your research project. One way to do this is to create a Data Management Plan (DMP), in [DMPonline](https://dmponline.dcc.ac.uk/) or just as a text file, to help you think through how to manage your data. The DMP should include information on data creation (volume, formats/types and workflows), data use (where the raw or 'live' data is being stored), data publication and data archiving at the end of the project (long-term data storage, or what data is 'kept' at the end of a project). DMPs should also regularly be updated as the research project progresses or diverge from the initial design. 
 
-#### Tools and indicators - Work in progress
+<a name="Tools-indicators"></a>
+#### Tools and indicators
 Altought started by a community operating in the life science, the FAIR principles have rapidly been adopted by publishers, funders, and pan-disciplinary infrastructure programmes and societies, in all disciplines. Many groups and organization are working to define guidances and tools to help researchers, as well as other stakeholders (librarians, funders, publishers, trainers etc.) to make data FAIR and assess its FAIRness level.
 
 This rapid uptake and community involvement, however, has also caused some confusion and ambiguity on what FAIRness is and how we can measure it. It is important to say that the FAIR principles are aspirational, in that they do not strictly define how to achieve a state of FAIRness, but rather describe a continuum of features, attributes, and behaviors that will move a digital resource closer to that goal. 
 
 Listing all efforts working in and around FAIRness is practically impossible, as this is a fast moving, disperse and diverse field. Nevethless, if you are interested in following the discussion and/or participate in it, here are two global and international initiatives that act as umbrella organizations and reference points for many discipline specific efforts: [GOFAIR](https://www.go-fair.org) and the [Research Data Alliance (RDA)](https://www.rd-alliance.org). Under GOFAIR there are many [Implementation Networks (INs)](https://www.go-fair.org/implementation-networks) committed to implementing elements of the Internet of FAIR Data and Services within the three pillars: GO Build (Technology), GO Change (Culture) and GO Train (Training). Under the RDA there are several groups tackling different aspects relevant to the RDM life cycle, and among these one [group](https://www.rd-alliance.org/groups/fair-data-maturity-model-wg) is reviewing existing efforts, building on them to define a common set of common assessment criteria for the evaluation of FAIRness. Watch this space!
+
+<a name="metadata-identifier"></a>
+#### Metadata and identifiers
+Metadata (to describe and report the data) and unique persistent identifiers (to cite and reference data) are the two pillars of the FAIR principles; you need to familiarise with what these are and which one is relevant to your data type in order to mention them in your DMP and use them (or at least know which tool and repositories implements them). The use of community-defined standards for metadata and identified is vital for high-quality, reproducible research and for the integrative analysis and comparison of heterogeneous data from multiple sources, domains and disciplines.
 
 <a name="Storage-backup"></a>
 ### Storage and backup 
