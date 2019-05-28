@@ -462,6 +462,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "NatalieThurlby",
+      "name": "NatalieThurlby",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/17617308?v=4",
+      "profile": "https://github.com/NatalieThurlby",
+      "contributions": [
+        "code",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7
