@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import os
 import re
+import sys
 
 directory_to_check = '../book/content/'
 
@@ -20,5 +21,7 @@ for root_dir, _, file_names in os.walk(directory_to_check):
 try:
 	assert(len(failed)==0)
 except:
+	print("Lorem ipsums found in the following files: ")
 	for file_name in failed:
-		print("Lorem ipsums found in file: ",file_name)
+		print(file_name.name)
+	sys.exit(1)
