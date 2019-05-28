@@ -34,6 +34,8 @@
 <a name="Summary"></a>
 ## Summary
 
+Lorem ipsum (breaking on purpose to check error message)
+
 Code review provides an additional way of testing code quality. Instead of relying simply on [tests](../testing/testing) which the original author puts together themselves, code review gets another programmer to look over the new code and assess it. The goal is to point out strengths and also potential areas of improvement.
 
 Code review is often done in pairs, with each reviewer also having some of their code reviewed by their partner. Doing this can help programmers to see and discuss issues and alternative approaches to tasks, and to learn new tips and tricks. This also means code review practices are particularly well-suited to projects with more than one contributor making changes, where each is working on different parts of the code. Nonetheless, even the smallest scale projects can harness these approaches with some creative project management.
