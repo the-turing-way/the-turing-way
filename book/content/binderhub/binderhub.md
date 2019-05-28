@@ -21,8 +21,7 @@
     - [JupyterHub](#jupyterhub)
     - [repo2docker](#repo2docker)
     - [What happens when a Binder link is clicked?](#what-happens-when-a-binder-link-is-clicked)
-  - [Checklist](#checklist)
-  - [What to learn next](#what-to-learn-next)
+  - [Why would you build your own BinderHub?](#why-would-you-build-your-own-binderhub)
   - [Further reading](#further-reading)
   - [Definitions/glossary](#definitionsglossary)
   - [Bibliography](#bibliography)
@@ -95,11 +94,22 @@ All the software required to run the code will also be preinstalled from the con
 6. JupyterHub connects the user's browser to the running Docker container.
 7. JupyterHub monitors the container for activity and destroys it after a period of inactivity.
 
-## Checklist
-> this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
+## Why would you build your own BinderHub?
 
-## What to learn next
-> recommended next chapters that are a good next step up
+[mybinder.org](https://mybinder.org/) is the free, public BinderHub that hosts almost 100k Binder launches per week.
+Why might you want to build your own?
+
+Binder is an open source project maintained by volunteers and as such they ask that users stay within certain computational limitations in order to keep running costs as low as possible whilst still providing a usable service.
+By hosting your own BinderHub, you can offer your users much more flexible and tailored resources.
+
+These customisations could include:
+
+* authentication,
+* greater computational resources per user,
+* bespoke library stacks and packages,
+* allowing access to private repos,
+* persistent storage for users,
+* restrict sharing within a certain institution or team.
 
 ## Further reading
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
