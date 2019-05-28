@@ -34,15 +34,15 @@ maximal impact.
 
 ## Table of contents
 
-1. [Summary](#summary)
-2. [Why is outreach important?](#Why_is_outreach_important)
-3. [Presenting Results](#ManifestoPoint1) [//] These titles are placeholders written by Eric; feel free to modify them!
-4. [Communicating Effectively](#ManifestoPoint2)
-5. [Integrating Outreach Into Research Projects](#ManifestoPoint3)
-6. [Developing Relationships with Others](#ManifestoPoint4)
-7. [Advocating for Research and Data Literacy](#ManifestoPoint5)
-8. [Checklist](#Checklist)
-9. [Further reading](#FurtherReading)
-10. [Bibliography](#Bibliography)
+1. [Summary](#01/summary)
+2. [Why is outreach important?](#02/why_is_outreach_important)
+3. [Presenting Results](#03/manifesto_p1) [//] These titles are placeholders written by Eric; feel free to modify them!
+4. [Communicating Effectively](#04/manifesto_p2)
+5. [Integrating Outreach Into Research Projects](#05/manifesto_p3)
+6. [Developing Relationships with Others](#06/manifesto_p4)
+7. [Advocating for Research and Data Literacy](#07/manifesto_p5)
+8. [Checklist](#08/checklist)
+9. [Further reading](#09/further_reading)
+10. [Bibliography](#10/bibliography)
 
 
