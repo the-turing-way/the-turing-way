@@ -293,7 +293,11 @@ I have worked on research data management since 2001, yes, way before this area 
 
 A lot of the credit for this change goes to the FAIR principles. Love it or hate it, FAIR is now an internationally-known lighthouse brand.  Since we published the first article on the [FAIR principles](https://doi.org/10.1038/sdata.2016.18), enabling FAIR has been my focus. 
 
-The reuse of other people’s data is providing useful insights for new research questions and products, and driving new scientific discoveries. To realize its potential, however, we need to new mechanisms to manage the growing availability and scale of scholarly digital products, such as datasets, software, algorithms, articles. 
+The reuse of other people’s data is providing useful insights for new research questions and products, and driving new scientific discoveries. To realize its potential, however, we need new mechanisms to manage the growing availability and scale of scholarly digital products, such as datasets, software, algorithms, articles. FAIR has been specifically designed to emphasise the machine-readablity of these digital objects.  
+
+With my group of research software and knowledge engineerings we address the grand challenges related to information science and scholarly communications, where data quality and readiness for (re)use is a prerequisite for success. I believe that better data means better science, and this underpins reusable research, aids scholarly publishing, and enables faster and reliable data-driven discoveries. As I say in my [one minute video](https://youtu.be/3VDw7XIulIk), my vision is to transform the concept of data readiness into a powerful toolkit at the researchers’ fingertips, to realize FAIR data by stealth.
+
+But FAIR is not a magic wand. There is a lot to be done to enable this transformation. 
 
 
 What can you do: be involved
