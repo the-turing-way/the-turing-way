@@ -18,6 +18,7 @@
   - [How does a BinderHub work?](#how-does-a-binderhub-work)
     - [Compute Resources](#compute-resources)
     - [Kubernetes](#kubernetes)
+    - [Helm](#helm)
     - [JupyterHub](#jupyterhub)
     - [repo2docker](#repo2docker)
     - [What happens when a Binder link is clicked?](#what-happens-when-a-binder-link-is-clicked)
@@ -69,6 +70,13 @@ In fact, BinderHub is not dependent on cloud-hosting at all and can be deployed 
 
 [Kubernetes](https://kubernetes.io/) is a system for automating deployment, scaling (making more or fewer copies), and management of containers across a compute cluster (it doesn't have to be cloud-based).
 BinderHub uses Kubernetes to manage the resources requested by the users of the Binder service, and to support the tools of that build the instances.
+
+### Helm
+
+[Helm](https://helm.sh/) is a package manager for Kubernetes.
+Packages come in the form of Charts which are a set of instructions to deploy, upgrade and manage applications running on a Kubernetes cluster.
+They can make installing and managing Kubernetes applications much easier and Specific Charts for projects can be published online.
+For example, the Helm Chart for BinderHub are available [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub).
 
 ### JupyterHub
 
