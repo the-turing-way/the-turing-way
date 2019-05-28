@@ -1,11 +1,7 @@
 # Research Planning for Preclinical Scientists
 
 ## Prerequisites / recommended skill level
-> other chapters that should have been read before or content you should be familiar with before you read this
-
-| Prerequisite | Importance | Notes |
-| -------------|----------|------|
-| Chapter/topic | How important it is | Any notes |
+For preclinical scientists – no previous knowledge needed
 
 ## Summary
 Society continually debate the use of animals in scientific research. 
