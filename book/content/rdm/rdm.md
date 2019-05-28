@@ -15,7 +15,7 @@ The following sections in this handbook provide useful context and complementary
 2. [Why this is useful](#Why-useful)
 3. [What is data?](#What-Data)
 4. [The Research Data Lifecycle](#Data-Lifecycle) 
-5. [FAIR data](#FAIR)
+5. [The FAIR principles - theory and practices](#FAIR)
 6. [Storage and backup](#Storage-backup)
     i. [Where to store data](#Where-store)
     ii. [Backups](#Backups)
@@ -38,7 +38,7 @@ Research Data Management (RDM) covers how research data can be stored, described
 
 <a name="Why-useful"></a>
 ## How this will help you/ why this is useful 
-To be able to share data that is understandable and re-usable by third parties, research data needs to be managed properly. The FAIR Principles provide guidance on how to make data discoverable and reusable. FAIR data is a key component of reproducing an analysis. However, FAIR data is not a synonym for open data or quality data. 
+To be able to share data that is understandable and re-usable by third parties, research data needs to be managed properly. The FAIR principles provide guidance on how to make data discoverable and reusable. FAIR data is a key component of reproducing an analysis. However, FAIR data is not a synonym for open data or quality data. 
 This chapter lays out good data management practice to allow you to plan your data management activities at the start of your reproducible research project.
 
 
@@ -54,28 +54,46 @@ A good way of thinking about what might be classed as data that needs to be mana
 <a name="Data-Lifecycle"></a>
 ### The Research Data Lifecycle - A Model for Data Management 
 
-Research data often follows a 'lifecycle' which follows the research project as it evolves. 
+Research data often follows a 'lifecycle' which follows the research project as it evolves; here is a [video](https://www.ukdataservice.ac.uk/manage-data/lifecycle.aspx) that describes it. 
 This model provides a useful basis on which to plan for research data management, from data creation at the start of a research project, through to publishing and sharing research at the end of the project, and archiving any research data for the long-term and for future re-use once the project has ended. 
 
-The research data lifecycle involves data creation, data use, data publication and sharing, data archiving and data re-use or destruction. 
+The research data lifecycle involves data creation, data use, data publication and sharing, data archiving and data re-use or destruction. However, data have a longer lifespan than the research project that creates them.
+
 <a name="FAIR"></a>
-### FAIR data 
+### The FAIR principles - theory and practices
 
-The FAIR data principles have been developed as guidelines to help make re-using data easier. 
-They refer to making data findable, accessible, interoperable and re-usable, all of which will support research reproducibility. 
-Data should be:
-* **Findable** with a unique persistent identifier and rich metadata
-* **Accessible** via a standard, open and free communication protocol 
-* **Interoperable** by using accessible, machine-readable formats and vocabularies 
-* **Reusable** with relevant metadata attributes, clear licences, appropriate provenance information and community standards where possible. 
+[The FAIR guiding principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618) have been developed as guidelines to improve the findability, accessibility, interoperability and re-usability of digital assets; all of which will support research reproducibility. Defined and endorsed by a growing community, these principles put a specific emphasis on enhancing the ability of machines to automatically find and use digital objects, in addition to supporting its reuse by individuals throughout their life cycle. The capacity of computational systems to find, access, interoperate, and reuse data, with none or minimal human intervention, is essential in today's data-driven era, where humans increasingly rely on computational support to deal with data as a result of the increase in volume, velocity and variety and complexity.
 
-Drawn from [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
+Here is a [simple overview](https://www.go-fair.org/fair-principles) of what the FAIR principles recommend. Data should be:
+<ul>
+ <li><p><b>Findable:</b> the first step in (re)using data is to find them, and descriptive metadata is essential.</p>
+ <p>F1. (Meta)data are assigned a globally unique and persistent identifier</p></li>
+ <p>F2. Data are described with rich metadata (defined by R1 below)</p></li>
+ <p>F3. Metadata clearly and explicitly include the identifier of the data they describe</p></li>
+ <p>F4. (Meta)data are registered or indexed in a searchable resource</p></li>
+<li><p><b>Accessible:</b>to get data one needs to know if authentication and authorisation is necessary, or if data is open with no restrictions.</p> 
+<p>A1. (Meta)data are retrievable by their identifier using a standardised communications protocol</p></li>
+<p>A1.1 The protocol is open, free, and universally implementable</p></li>
+<p>A1.2 The protocol allows for an authentication and authorisation procedure, where necessary</p></li>
+<p>A2. Metadata are accessible, even when the data are no longer available</p></li>
+<li><p><b>Interoperable:</b> data need to be integrated with other data and/or interoperate with applications or workflows.</p> 
+<p>I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.</p></li>
+<p>I2. (Meta)data use vocabularies that follow FAIR principles</p></li>
+<p>I3. (Meta)data include qualified references to other (meta)data</p></li>
+<li><p><b>Reusable:</b> data should be well-described so that they can be used or replicated in different settings.</p> 
+<p>R1. Meta(data) are richly described with a plurality of accurate and relevant attributes</p></li>
+<p>R1.1. (Meta)data are released with a clear and accessible data usage license</p></li>
+<p>R1.2. (Meta)data are associated with detailed provenance</p></li>
+<p>R1.3. (Meta)data meet domain-relevant community standards</p></li>
+</li>
+</ul>
 
 Making data 'FAIR' is not the same as making it 'open', but it does imply that you have managed your data sufficiently well to make it usable by others.
 The FAIR principles can also be applied to [software](https://doi.org/10.6084/m9.figshare.7449239.v2), and projects where the data and software are both FAIR the research is more likely to be reproducible. 
 
 It is much easier to make data FAIR and open if you plan to do this from the beginning of your research project. 
 One way to do this is to create a data management plan, in [DMPonline](https://dmponline.dcc.ac.uk/) or just as a text file, to help you think through how to manage your data. The data management plan should include information on data creation (volume, formats/types and workflows), data use (where the raw or 'live' data is being stored), data publication and data archiving at the end of the project (long-term data storage, or what data is 'kept' at the end of a project). Data management plans should also regularly be updated as the research project changes. 
+
 <a name="Storage-backup"></a>
 ### Storage and backup 
 
