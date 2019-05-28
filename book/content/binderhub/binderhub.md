@@ -5,7 +5,7 @@
 | Prerequisite | Importance | Notes |
 |---|---|---|
 | [Version Control](/version_control/version_control) | Very Important | |
-| [Reproducible Environments](/reproducible_environments/reproducible_envrionments) | Very Important | Particularly read the section on [Binder](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Binder_section). |
+| [Reproducible Environments](/reproducible_environments/reproducible_environments) | Very Important | Particularly read the section on [Binder](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Binder_section). |
 
 ## Table of Contents
 
@@ -153,7 +153,7 @@ At minimum, you'll need to be able to assign [Role Based Access Control (RBAC)](
 
 ## Bibliography
 
-* **Kubernetes documentation**: https://kubernetes.io/
-* **Helm documentation**: https://helm.sh/
-* **repo2docker**: https://repo2docker.readthedocs.io/en/latest/?badge=latest
-* **Microsoft Azure documentation on Role Based Access Control**: https://docs.microsoft.com/en-us/azure/role-based-access-control/overview
+* **Kubernetes documentation**: [https://kubernetes.io/](https://kubernetes.io/)
+* **Helm documentation**: [https://helm.sh/](https://helm.sh/)
+* **repo2docker**: [https://repo2docker.readthedocs.io/en/latest/?badge=latest](https://repo2docker.readthedocs.io/en/latest/?badge=latest)
+* **Microsoft Azure documentation on Role Based Access Control**: [https://docs.microsoft.com/en-us/azure/role-based-access-control/overview](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)
