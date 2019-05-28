@@ -280,14 +280,14 @@ In such cases it may not be possible to make data open, or it may only be only p
 <a name="SusannaSansone"></a>
 ### Susanna-Assunta Sansone: from FAIR co-author to FAIR doer
 Let's start with my digital footprints so that you can discovery my activities:
-[Biography](https://www.eng.ox.ac.uk/people/susanna-assunta-sansone)
-[The Data Readiness group I run at Oxford University](https://sansonegroup.eng.ox.ac.uk)
-[ORCID: 0000-0001-5306-5690](https://orcid.org/0000-0001-5306-5690)
-[Profile on LinkedIn](https://uk.linkedin.com/in/sasansone)
-[Talks on SlideShare](https://www.slideshare.net/SusannaSansone)
-[Twitter; yes I am the FAIRlady](https://twitter.com/SusannaASansone)
-[Activities on GitHub; yeah, no code sorry](https://github.com/SusannaSansone)
-[Google Scholar](https://scholar.google.co.uk/citations?user=gfJ8wsIAAAAJ&hl=en)
+* [Biography](https://www.eng.ox.ac.uk/people/susanna-assunta-sansone)
+* [The Data Readiness group I run at Oxford University](https://sansonegroup.eng.ox.ac.uk)
+* [ORCID: 0000-0001-5306-5690](https://orcid.org/0000-0001-5306-5690)
+* [Profile on LinkedIn](https://uk.linkedin.com/in/sasansone)
+* [Talks on SlideShare](https://www.slideshare.net/SusannaSansone)
+* [Twitter; yes I am the FAIRlady](https://twitter.com/SusannaASansone)
+* [Activities on GitHub; yeah, no code sorry](https://github.com/SusannaSansone)
+* [Google Scholar](https://scholar.google.co.uk/citations?user=gfJ8wsIAAAAJ&hl=en)
 
 I have worked on research data management since 2001, yes, way before this area was even considered a 'thing'. I was also told that there is no career to make in research data management. Well, how wrong that comment was! Formely seen as intersection between service provision and IT, data management has become a first class citizen, recognized as a research and development subject, as it should be. A lot of the credit for this change goes to FAIR principles. Love it or hate it, FAIR is now an internationally-known lighthouse brand that is changing we way we work with digital objects, such as datasets, software, articles and any other digital asset we use or produce in the research life cycle. 
 
