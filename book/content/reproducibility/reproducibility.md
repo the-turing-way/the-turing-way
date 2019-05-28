@@ -5,7 +5,7 @@ No previous knowledge needed.
 
 ## Table of contents
 
-1. [Definition(s) of reproducibility](01/definitions)
+1. [Definition(s) of reproducibility](./01/definitions)
 2. [Why reproducibility is important for science and scientific communities](02/importance)
 3. [What are the benefits of doing reproducible science](03/benefits)
 4. [What are the values and rewards of doing reproducible science](04/values)
