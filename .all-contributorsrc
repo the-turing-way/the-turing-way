@@ -453,6 +453,25 @@
         "ideas",
         "review"
       ]
+    },
+    {
+      "login": "nadiasoliman",
+      "name": "nadiasoliman",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/41086364?v=4",
+      "profile": "https://github.com/nadiasoliman",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "NatalieThurlby",
+      "name": "NatalieThurlby",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/17617308?v=4",
+      "profile": "https://github.com/NatalieThurlby",
+      "contributions": [
+        "code",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7
