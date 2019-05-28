@@ -9,7 +9,9 @@
 
 ## Table of Contents
 
-[TOC]
+- [Summary](#summary)
+- [How this will help you/ why this is useful](#how-this-will-help-you-why-this-is-useful)
+- [What is BinderHub?](#what-is-binderhub)
 
 ## Summary
 
@@ -19,8 +21,12 @@ We will cover the technologies and tools that BinderHub utilises and the resourc
 ## How this will help you/ why this is useful
 > why we think you should read the whole thing
 
-## Chapter content
-> depending on the content, this might be more structured, e.g. with exercises, gotcha sections etc
+## What is BinderHub?
+
+A [BinderHub](https://binderhub.readthedocs.io/en/latest/index.html) is a Cloud-based technology that can launch a repository of code (from GitHub, GitLab,...) in a browser window such that the code can be executed and interacted with.
+A unique URL is generated allowing the interactive code to be easily shared.
+
+The purpose of these Binder instances is to promote reproducibility in research projects by encouraging researchers to document their software dependencies by producing fun and interactive environments!
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
