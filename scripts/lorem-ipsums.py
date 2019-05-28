@@ -15,6 +15,7 @@ for root_dir, _, file_names in os.walk(directory_to_check):
 		file = open(os.path.join(root_dir,file_name))
 		text = file.read()
 		text = remove_comments(text)
+		print(file.name)
 		if 'lorem ipsum' in text.lower():
 			failed.append(file.name)
 
