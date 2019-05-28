@@ -4,7 +4,7 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
-|Experience with the [command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Helpful | It is possible to use version control through desktop and web browser based tools. These are discussed towards the end of this chapter, but the general principles and best practice discussed in the preceding sections are relevant regardless of whether the command line or a GUI is used. |
+|[Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Helpful | It is possible to use version control through desktop and web browser based tools. These are discussed towards the end of this chapter, but the general principles and best practice discussed in the preceding sections are relevant regardless of whether the command line or a GUI is used. |
 
 Recommended skill level: beginner - intermediate. Version control has a great deal of useful features, but total mastery is not necessary to achieve a great deal with it. Even a beginner utilising a few of the simplest features well can save themselves a great deal of time and drastically improve the reproducibility of their work. Naturally, we encourage readers to make use of the entire chapter, but readers should not be discouraged from using some tools they feel comfortable with if they are not comfortable with *all* the tools available.
 
@@ -67,9 +67,16 @@ Recommended skill level: beginner - intermediate. Version control has a great de
 
 ## Summary
 
-Version control keeps track of different versions of a project and allows past versions to be accessed easily. It also allows different versions of a project to be merged with minimal input from the user. There are numerous tools available for version control such as Mercurial and SVN. The best know one is Git (and its web-based version, GitHub, which aids collaboration between researchers) which the instructions given in this chapter will be geared towards. There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "[Further reading](#further_reading)" section at the end of the chapter.) This chapter aims to cover the general principles underpinning all version control systems, and best practice which applies for using all such systems.
+Version control keeps track of different versions of a project and allows past versions to be accessed easily. It also allows different versions of a project to be merged with minimal input from the user.  
+Version control is often associated with writing code, but it can also be used with writing projects. For example, if you are writing a paper with collaborators then version control is really important in helping you to see who has changed what.  
+Version control is used to some extent within many different programs, including ones you are likely to already be familiar with such as Word or Wordpress. There are numerous tools available for version control such as [Mercurial](https://www.mercurial-scm.org/) and [SVN](https://subversion.apache.org/).  
+The best know one is Git (and its web-based version, [GitHub](https://github.com/), which aids collaboration between researchers) which the instructions given in this chapter will be geared towards. There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "[Further reading](#further_reading)" section at the end of the chapter.) This chapter aims to cover the general principles underpinning all version control systems, and best practice which applies for using all such systems.
 
 ## How version control is helpful
+
+Researchers often have a large array of files (code, data, figures, notes) that they update but that they want to keep past versions of for reference. This process is often informal and haphazard, where multiple revisions of papers, code, and datasets are saved as duplicate copies with uninformative file names (e.g. my_code.py my_code_2.py my_code_2a.py, my_code_2b.py). As authors receive new data and feedback from peers and collaborators, maintaining those versions and merging changes can result in an unmanageable proliferation of files. It is also incredibly error prone. It is easy to forget what different files contain, or to copy over files you don’t mean to. This leads to a great deal of time wasted on figuring out what files contain and reproducing accidently overwritten files.
+
+One solution to these problems would be to use a formal Version Control System (VCS). A formal version is often a better solution than the lightweight version control that is often provided by text editing software packages. These systems have long been used in the software industry to manage code. Version control allows you to revert files you select back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified a file, find where and when a bug was introduced, and more. Using a version control system also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead. Many people have felt the horror of losing days if not weeks of work when changes to a code break it irretrievably and can not be unpicked, and with this lies the key reasons to use version control: **it removes risk and saves time.**
 
 Keeping past versions of a project stored and accessible makes it possible to track its entire evolution, making the outputs far more reproducible. Version control software does this in a neat and powerful way, and it often saves researchers a great deal of time on reproducing lost code or analysis. Further, version control gives researchers more freedom to try things out and experiment. It does this by eliminating the risk of subsequent changes irrevocably 'breaking' the code as previous working versions will remain accessible regardless of how complex or how many changes are made.
 
@@ -85,19 +92,19 @@ What is “version control”, and why should you care? Version control is a sys
 
 The typical procedure for using version control is as follows:
 
-1. Have some files
-2. Do some work- you will now have made changes. Maybe you've modified one or more files, added new ones, or deleted old ones, it doesn't matter.
-3. Make a commit. This means you take a snapshot of your work at this point in time.
+1. Create some files - these may be text or code.
+2. Work on these files, changing, deleting or adding new content.
+3. Create a snapshot of the work at this time. This will be described differently in different software. Git will ask you to make a commit, other systems make ask you to make a timepoint or checkpoint or just to save your work.
 
-Keep doing work and making more and more commits. You can think of commits as checkpoints. If you ever need to go back to any past checkpoint to get a file as it was then, or just return your entire project to a past state you can. An illustration of this is shown in the figure below.  
+Keep doing work and making more and more snapshots. You can think of these as savepoints - if you need to go back to any point in time because of a mistake, or changing your mind about a decision, you can go back to get a file as it was then, or just return your entire project to a past state. An illustration of this is shown in the figure below.  
 
 ![master_branch](/assets/figures/master_branch.png)
 
-Every time you make a commit you can tag it with a commit message explaining what this snapshot of your project is doing. This makes it very easy to find what you're looking for when you need to go back to a past version.
+In lots of version control systems you will be able to add a comment explaining what changes have been made in this version. These comments should be as clear as possible and make it easy to understand which version is which. This ensures that it is easy to find what you're looking for when you need to go back to a past version. Your collaborators will thank you, but so will future versions of yourself.
 
 ### Other facilities offered by version control
 
-So you have your project and you want to add new or something or try something out. With version control you can make a branch to do this work on. Any work you do on your branch won't be present on your main project (referred to as your master branch) so it remains nice and safe and you can continue to work on it. Once you're happy with your New Thing you can 'merge' your branch back into your master copy.
+So you have your project and you want to add something new or try something out. With some of the more advanced version control systems (for example Git) you can make a branch to do this work on. Any work you do on your branch won't be present on your main project (referred to as your master branch) so it remains nice and safe and you can continue to work on it. Once you're happy with your New Thing you can 'merge' your branch back into your master copy.
 
 ![one_branch](/assets/figures/one_branch.png)
 
@@ -109,15 +116,11 @@ If you want you can even have branches off of branches (and branches off of thos
 
 ![sub_branch](/assets/figures/sub_branch.png)
 
-No matter how many branches you have you can access past commits you made on any of them.
+No matter how many branches you have you can access past savepoints you made on any of them.
 
 ## Why should you use version control?
 
-People working on data science may have a large array of files (code, data, figures, notes) that they update but want to keep past versions for reference. This process is often informal and haphazard, where multiple revisions of papers, code, and datasets are saved as duplicate copies with uninformative file names (e.g. my_code.py my_code_2.py my_code_2a.py, my_code_2b.py). As authors receive new data and feedback from peers and collaborators, maintaining those versions and merging changes can result in an unmanageable proliferation of files. It is also incredibly error prone. It is easy to forget what different files contain, or to copy over files you don’t mean to. This leads to a great deal of time wasted on figuring out what files contain and reproducing accidently overwritten files.
-
-One solution to these problems would be to use a formal Version Control System (VCS), which have long been used in the software industry to manage code. Version control allows you to revert files you select back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified a file, find where and when a bug was introduced, and more. Using a version control system also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead. Many people have felt the horror of losing days if not weeks of work when changes to a code break it irretrievably and can not be unpicked, and with this lies the key reasons to use version control: **it removes risk and saves time.**
-
-Further, commit messages help you understand why in the past you made certain changes, or why you did a certain analysis in the way you did it. These are messages the user can attach to a commit to explain what changes it makes and what the version of the project it contains does. They help you understand what a commit does, and why it was made even weeks or months later when you've long since forgotten. Commit messages also help others working on the same project to more easily understand what you did. This is helpful should you want to share your analysis (not only your data), and/or make it auditable--more generally, **reproducible**, which is good scientific practice.
+Version control can help you understand what changes you made in the past or why you did a certain analysis in the way you did it even weeks or months later when you've long since forgotten. By including comments and commit messages, each version can explain what changes it makes and what the version of the project it contains does. Commit messages also help others working on the same project to more easily understand what you did. This is helpful should you want to share your analysis (not only your data), and/or make it auditable--more generally, **reproducible**, which is good scientific practice.
 
 A version control system stores all your changes neatly away so while it is still easy to access them your working directory is not cluttered by the debris of versions past that it is necessary to keep just in case. Similarly with version control there is no need to leave chunks of code commented should you ever need to come back to an old version again.
 
