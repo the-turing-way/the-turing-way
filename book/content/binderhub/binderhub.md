@@ -4,8 +4,8 @@
 
 | Prerequisite | Importance | Notes |
 |---|---|---|
-| [Version Control](/content/version_control/version_control.md) | Very Important | |
-| [Reproducible Environments](/content/reproducible_environments/reproducible_envrionments.md) | Very Important | Particularly read the section on [Binder](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Binder_section). |
+| [Version Control](/version_control/version_control) | Very Important | |
+| [Reproducible Environments](/reproducible_environments/reproducible_envrionments) | Very Important | Particularly read the section on [Binder](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Binder_section). |
 
 ## Table of Contents
 
