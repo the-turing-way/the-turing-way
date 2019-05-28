@@ -37,7 +37,9 @@ This chapter is primarily aimed at Research Software Engineers and IT Services w
 Though anyone can build a BinderHub.
 
 ## How this will help you/ why this is useful
-> why we think you should read the whole thing
+
+Reading this chapter will give you a clearer picture of how Binder services (such as [mybinder.org](https://mybinder.org)) operate, the technologies powering BinderHub and how they interact with one another.
+This chapter also covers reasons why you might build your own BinderHub, rather than using the public service.
 
 ## What is BinderHub and why is it good for Reproducibility?
 
