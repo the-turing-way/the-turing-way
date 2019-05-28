@@ -34,16 +34,12 @@ The following sections in this handbook provide useful context and complementary
 <a name="Summary"></a>
 ## Summary 
 
-Research data management covers how research data can be stored, described and reused.  
-It is a key part in encouraging reproducible research. Data management ensures efficiency in research workflows, and also greater reach and impact, as data and software become FAIR (Findable, Accessible, Interoperable and Reuseable).  
-Data should be stored in multiple locations and backed-up regularly to prevent loss or data corruption.  
-Clearly describing data using documentation and metadata ensures that others know how to access, use and re-use your data, and also enable conditions for sharing and publishing data to be outlined. 
+Research Data Management (RDM) covers how research data can be stored, described and reused. Data here is used as a generic term to encompass all digital objects. RDM is a key part in enabling reproducible research. RDM ensures efficiency in research workflows, and also greater reach and impact, as data become FAIR (Findable, Accessible, Interoperable and Reuseable). Data should be stored in multiple locations and backed-up regularly to prevent loss or data corruption.  Clearly describing data using documentation and metadata ensures that others know how to access, use and re-use your data, and also enable conditions for sharing and publishing data to be outlined.
 
 <a name="Why-useful"></a>
 ## How this will help you/ why this is useful 
-Having data available is a key component of reproducing an analysis.
-To be able to share data that is understandable and re-usable, research data needs to be managed properly. 
-Thus, this chapter lays out good data management practice to allow you to plan your data management activities at the start of your reproducible research project.
+To be able to share data that is understandable and re-usable by third parties, research data needs to be managed properly. The FAIR Principles provide guidance on how to make data discoverable and reusable. FAIR data is a key component of reproducing an analysis. However, FAIR data is not a synonym for open data or quality data. 
+This chapter lays out good data management practice to allow you to plan your data management activities at the start of your reproducible research project.
 
 
 
@@ -51,10 +47,9 @@ Thus, this chapter lays out good data management practice to allow you to plan y
 <a name="What-Data"></a>
 ### What Is Data?
 
-In some fields it's obvious what data means - you have observations or results of simulations etc.
-However, in other fields, particularly in Social Sciences, Humanities or Arts, you may be thinking "I don't think I have any data". 
-A good way of thinking about what might be classed as data that needs to be managed is to ask yourself the questions "What is the information that I need to write my paper or book?", "What information would I need to back up my conclusions?" and "What information is needed for someone else to replicate the research that I've done?". 
-This information is your data.
+Data are all digital objects that you use and produce during your research life cycle, encompassing datasets, software, code, workflow, models, figures, tables, images, articles. Data are your research asset. 
+In some fields it's obvious what data means - you have observations or results of simulations etc. However, in other fields, particularly in Social Sciences, Humanities or Arts, you may be thinking "I don't think I have any data". 
+A good way of thinking about what might be classed as data that needs to be managed is to ask yourself the questions "What is the information that I need to use and write about in my paper or book?", "What information would I need to back up my conclusions?" and "What information is needed by a third party to understand and possibly replicate the research that I've done?". This information is your data.
 
 <a name="Data-Lifecycle"></a>
 ### The Research Data Lifecycle - A Model for Data Management 
