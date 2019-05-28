@@ -81,6 +81,6 @@ Our core contributors are, in alphabetical order:
 
 You can see all of our incredible contributors in our [README](https://github.com/alan-turing-institute/the-turing-way#contributors) file, and screengrabbed below.
 
-![](/assets/figures/Contributors.png)
+![](/assets/figures/Contributors2.png)
 
 Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) on how you can join this fantastic group and help us build the most useful book we can!
