@@ -1,3 +1,7 @@
+env:
+    matrix:
+        CAN_FAIL_VAR = true
+
 matrix:
   include:
     # refer to https://docs.travis-ci.com/user/languages/minimal-and-generic/#generic
@@ -22,3 +26,10 @@ matrix:
       script: 
         - bash ./scripts/test-file-size.sh # test that we haven't accidentally included any big files
         - python3 ./scripts/lorem-ipsums.py # check for rogue "lorem ipsum"s
+
+    allow_failures:
+        env: CAN_FAIL_VAR = true
+        script: 
+            - python3 ./scripts/no-bad-latin.py $CAN_FAIL_VAR # checks for latin abbreviations (we don't like because inaccessible) - is allowed to fail.
+
+
