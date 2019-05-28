@@ -65,7 +65,7 @@ Recommended skill level: low.
 
 ## Summary
 
-Open research aims to transform research by making it more reproducible, transparent, re-usable, collaborative, accountable, and accessible to society. It pushes for change in the way that research is carried out and disseminated by digital tools. One definition of open research, [as given by the Organisation for Economic Co-operation and Development (OECD)](https://www.fct.pt/dsi/docs/Making_Open_Science_a_Reality.pdf "Making Open Science a Reality, OECD Science, Technology and Industry Policy Papers No. 25"), is the practice of making "the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction”. In order to achieve this openness in research, each element of the research process should:
+Open research aims to transform research by making it more reproducible, transparent, re-usable, collaborative, accountable, and accessible to society. It pushes for change in the way that research is carried out and disseminated by digital tools. One definition of open research, [as given by the Organisation for Economic Co-operation and Development (OECD)](https://www.fct.pt/dsi/docs/Making_Open_Science_a_Reality.pdf "Making Open Science a Reality, OECD Science, Technology and Industry Policy Papers No. 25"), is the practice of making "the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction." In order to achieve this openness in research, each element of the research process should:
 
 - Be publicly available - it is difficult to use and benefit from knowledge hidden behind barriers such as passwords and paywalls
 - Be reusable - research outputs need to be licensed appropriately so that prospective users clearly know any limitations on re-use
@@ -81,10 +81,10 @@ The research process typically has the following form: data is collected and the
 
 These elements are expanded upon in this chapter.
 
-Open scholarship is a concept that extends open research further. It relates to making other aspects of scientific research open to the public, e.g.
+Open scholarship is a concept that extends open research further. It relates to making other aspects of scientific research open to the public, for example:
 
 - Open educational resources - making educational resources publicly available to be re-used and modified.
-- Equity, diversity, inclusion - ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, sexual orientation, etc.
+- Equity, diversity, inclusion - ensuring scholarship is open to anyone without barriers based on factors such as race or ethnicity, background, gender, sexual orientation, age, disability, religion or belief.
 - Citizen science - the inclusion of members of the public in scientific research
 
 These elements are also discussed in detail in this chapter.
