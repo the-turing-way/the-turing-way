@@ -4,7 +4,7 @@ GitHub encourages collaboration practice in their community guidelines.
 The insights tab of your GitHub project provides a section called "Community" which includes a list of recommended documents that your project should have.
 Those include a README, Code of Conduct, Contributing guidelines, licence and templates for issues and pull requests.
 
-[insert a screenshot here]
+![Community profile on GitHub](/assets/figures/community_profile_github.png)
 
 ## Bibliography
 
