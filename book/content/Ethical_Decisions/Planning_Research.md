@@ -8,9 +8,9 @@ Society continually debate the use of animals in scientific research.
 The fundamental questions are whether experiments using animals are morally justifiable and whether the potential benefits outweigh the suffering of those animals?
 These questions have been coupled with increasing concern about the poor reproducibility of findings from animal research, due to the impact this has on translation, scientific progress and the use of resources.
 A question that is not often addressed is how those justified experiments are designed, conducted and analysed.
-Flawed experimental design, inappropriate statistical analysis and inadequate reporting have been flagged as areas for major concern (Kilkenny et al., 2009, Begley et al., 2012, Begley et al., 2015).
+Flawed experimental design, inappropriate statistical analysis and inadequate reporting have been flagged as areas for major concern (Kilkenny et al., 2009 (https://doi.org/10.1371/journal.pone.0007824), Begley et al., 2015 (DOI: 10.1161/CIRCRESAHA.114.303819)).
 It is morally incumbent upon us to ensure that animal experiments are appropriately designed, conducted and analysed otherwise the results are at risk of being unreliable.
-If the results are unreliable then the animals used have in effect have been wasted (Ioannidis et al., 2014, de Vries et al., 2014).  
+If the results are unreliable then the animals used have in effect have been wasted (Ioannidis et al., 2014 (DOI: 10.1016/S0140-6736(13)62227-8), de Vries et al., 2014 (DOI: 10.1093/ilar/ilu043)).  
 
 ## How this will help you/ why this is useful
 Many preclinical researchers do not think of themselves as data scientists.
