@@ -21,7 +21,7 @@ for root_dir, _, file_names in os.walk(directory_to_check):
 try:
 	assert(len(failed)==0)
 except:
-	print("Lorem ipsums found in the following files: ")
+	print('"Lorem ipsum"s found in the following files:')
 	for file_name in failed:
 		print(file_name.name)
 	sys.exit(1)
