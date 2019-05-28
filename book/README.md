@@ -40,6 +40,11 @@ virtualenv -p /usr/bin/python3.7 the-turing-way
 
 You will also need to make sure that ruby is
 [installed](https://www.ruby-lang.org/en/documentation/installation/).
+Finally run 
+```
+make install
+```
+and you are ready to build \& preview the book.
 
 If you want to see your local changes on your own computer you'll have to go in
 the website directory and enter `make serve`
