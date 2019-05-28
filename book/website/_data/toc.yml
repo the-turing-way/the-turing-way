@@ -82,5 +82,5 @@
     url: risk_assessment/01/longreadriskassessment
   - title: Summary
     url: risk_assessment/02/finalsummary
-- title: Binder Hub
+- title: BinderHub
   url: binderhub/binderhub
