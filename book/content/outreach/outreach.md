@@ -13,12 +13,12 @@
 Most of the content in the Turing Way Book is aimed at improving practices in your research to ensure that
 it is accessible and reproducible by other people working in the discipline. Following these practices
 will improve the impact your work has among other researchers in your field. However, research impact
-extends beyond improving knowledge and practice by leading to benefits for society, and researchers need
+extends beyond improving knowledge and practice by leading to improvements for society, and researchers need
 to be able to communicate these benefits to the public. Unfortunately, few researchers invest significant
-time and effort into conducting outreach, which often leads to stories about research results being
+time and effort into outreach, which often leads to stories about research results being
 inaccurately represented in the media or important results not getting much attention. Research funding
 ultimately rests on projects having clear benefits for society, and an ability to communicate these
-benefits to the public and to public officials will help ensure continued funding for research in the
+impacts to the public and to elected officials will help ensure continued funding for research in the
 future. 
 
 This chapter focuses on best practices for outreach and communication to ensure that your research has
@@ -28,8 +28,8 @@ training that most researchers receive. Ultimately, you need to approach outreac
 like a journalist rather than like a researcher. Outreach involves presenting the big picture results
 without necessarily going into the details that you might find interesting as a researcher, developing
 relationships with people that can help disseminate your research, and advocating for data literacy
-in general within your institution. We hope that the material contained in this chapter will help
-you be an advocate for your own research and for your discipline and ensure that your work has
+in general within and outside of your institution. We hope that the material contained in this chapter
+will help you be an advocate for your own research and for your discipline and ensure that your work has
 maximal impact.
 
 ## Table of contents
