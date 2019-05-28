@@ -52,7 +52,9 @@
 <a name="Summary"></a>
 ## Summary
 
-Researcher-written code now forms a part of a huge portion of research, and if there are mistakes in the code the results may be partly or entirely unreliable. Testing code thoroughly and frequently is vital to ensure reliable, reproducible research. This chapter will cover general guidance for writing tests, and describes a number of different kinds of testing, their uses, and how to go about implementing them.
+Researcher-written code now forms a part of a huge portion of research, and if there are mistakes in the code the results may be partly or entirely unreliable. 
+Testing code thoroughly and frequently is vital to ensure reliable, reproducible research. 
+This chapter will cover general guidance for writing tests, and describes a number of different kinds of testing, their uses, and how to go about implementing them.
 
 <a name="How_this_will_help_you_why_this_is_useful"></a>
 ## How this will help you/ why this is useful
@@ -63,9 +65,19 @@ Here's a couple of examples of why should write tests:
 
 ![testing_motivation_2](/assets/figures/testing_motivation_2.png)
 
-It is very, very easy to make mistakes when coding. A single misplaced character can cause a program's output to be entirely wrong. One of the examples above was caused by a plus sign which should have been a minus. Another was caused by one piece of code working in meters while a piece of code written by another researcher worked in feet. *Everyone* makes mistakes, and in research the results can be catastrophic. Careers can be damaged/ended, vast sums of research funds can be wasted, and valuable time may be lost to exploring incorrect avenues. This is why tests are vital.
+It is very, very easy to make mistakes when coding. 
+A single misplaced character can cause a program's output to be entirely wrong. 
+One of the examples above was caused by a plus sign which should have been a minus. 
+Another was caused by one piece of code working in meters while a piece of code written by another researcher worked in feet. 
+*Everyone* makes mistakes, and in research the results can be catastrophic. 
+Careers can be damaged/ended, vast sums of research funds can be wasted, and valuable time may be lost to exploring incorrect avenues. This is why tests are vital.
 
-Even if problems in a program are caught before research is published it can be difficult to figure out what results are contaminated and must be re-done. This represents a huge loss of time and effort. Catching these problems as early as possible minimises the amount of work it takes to fix them, and for most researchers time is by far their most scarce resource. You should not skip writing tests because you are short on time, you should write tests *because* you are short on time. Researchers cannot afford to have months or years of work go down the drain, and they can't afford to repeatedly manually check every little detail of a program that might be hundreds or hundreds of thousands of lines long. Writing tests to do it for you is the time-saving option, and it's the safe option.
+Even if problems in a program are caught before research is published it can be difficult to figure out what results are contaminated and must be re-done. 
+This represents a huge loss of time and effort. 
+Catching these problems as early as possible minimises the amount of work it takes to fix them, and for most researchers time is by far their most scarce resource. 
+You should not skip writing tests because you are short on time, you should write tests *because* you are short on time. 
+Researchers cannot afford to have months or years of work go down the drain, and they can't afford to repeatedly manually check every little detail of a program that might be hundreds or hundreds of thousands of lines long. 
+Writing tests to do it for you is the time-saving option, and it's the safe option.
 
 As researchers write code they generally do some tests as they go along, often by adding in print statements and checking the output. However, these tests are often thrown away as soon as they pass and are no longer present to check what they were intended to check. It is comparatively very little work to place these tests in functions and keep them so they can be run at any time in the future. The additional labour is minimal, the time saved and safeguards provided are invaluable. Further, by formalising the testing process into a suite of tests that can be run independently and automatically, you provide a much greater degree of confidence that the software behaves correctly and increase the likelihood that defects will be found.
 
