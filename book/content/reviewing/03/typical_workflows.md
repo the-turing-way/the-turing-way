@@ -8,7 +8,7 @@ This section focuses on the typical workflows behind a formal review process, as
 <a name="forks_and_branches"></a>
 ### Forks and branches
 
-For a formal review process to work effectively, it's imperative that the project is using good [version control](../version_control/version_control). The review step occurs between the points where the coder believes their contribution is complete and where that contribution is merged into the trunk code for the project, and so it is intimately associated with a single pull request. Creation of the review and discussion between the reviewer and the coder occurs once the pull request is made and before it is merged into the master. In the github system, the review is begun directly from and often accessed through the pull request page.
+For a formal review process to work effectively, it's imperative that the project is using good [version control](/version_control/version_control). The review step occurs between the points where the coder believes their contribution is complete and where that contribution is merged into the trunk code for the project, and so it is intimately associated with a single pull request. Creation of the review and discussion between the reviewer and the coder occurs once the pull request is made and before it is merged into the master. In the github system, the review is begun directly from and often accessed through the pull request page.
 
 Within the Github environment, projects can be configured to *require* a review before a given pull request can be merged. Even if this option hasn't been selected, it's still possible (and indeed best practice) to manually request a review on a pending PR.
 
@@ -19,7 +19,7 @@ Before requesting a review, be sure you've met all the obvious quality benchmark
 
 - you have created [documentation](#Documentation) to the required standards of the project,
 - you have [tested](#Improvements_to_testing) your code to the required standards of the project,
-- your code is not causing the tests in the main project to fail (many [continuous integration](../continuous_integration/continuous_integration) systems will test this automatically for you once you create the PR), and
+- your code is not causing the tests in the main project to fail (many [continuous integration](/continuous_integration/continuous_integration) systems will test this automatically for you once you create the PR), and
 - you believe your code meets the declared [style guide](#Style_enforcement) for the project.
 
 A reviewer should check these things, but defects on these fronts should be by occasional oversight, rather than systematic.
