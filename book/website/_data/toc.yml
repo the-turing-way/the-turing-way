@@ -61,6 +61,8 @@
   url: version_control/version_control
 - title: Collaborating on GitHub/GitLab
   url: collaborating_github/collaborating_github
+- title: Credit for reproducible research
+  url: credit/credit
 - title: Research Data Management
   url: rdm/rdm
 - title: Reproducible Environments
@@ -75,3 +77,8 @@
   url: make/make
 - title: Risk Assessment
   url: risk_assessment/risk_assessment
+  sections:
+  - title: Long Read on Risk Assessment
+    url: risk_assessment/01/longreadriskassessment
+  - title: Summary
+    url: risk_assessment/02/finalsummary
