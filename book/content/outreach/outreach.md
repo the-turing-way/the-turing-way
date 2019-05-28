@@ -5,29 +5,19 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
-| Chapter/topic | How important it is | Any notes |
+|No previous knowledge needed.| |  |
 
-## Summary
-> easy to understand summary - a bit like tl;dr
+## Table of contents
 
-## How this will help you/ why this is useful
-> why we think you should read the whole thing
+1. [Summary](#Summary)
+2. [Why is outreach important?](#Why_is_outreach_important)
+3. [Manifiesto Point1](#ManifiestoPoint1) [//] This are placeholders
+4. [Manifiesto Point2](#ManifiestoPoint2)
+5. [Manifiesto Point3](#ManifiestoPoint3)
+6. [Manifiesto Point4](#ManifiestoPoint4)
+7. [Manifiesto Point5](#ManifiestoPoint5)
+8. [Checklist](#Checklist)
+9. [Further reading](#FurtherReading)
+10.[Bibliography](#Bibliography)
 
-## Chapter content
-> depending on the content, this might be more structured, e.g. with exercises, gotcha sections etc
 
-## Checklist
-> this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
-
-## What to learn next
-> recommended next chapters that are a good next step up
-
-## Further reading
-> top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
-> less relevant/favourite resources in case someone wants to dig into this in detail
-
-## Definitions/glossary
-> Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
-
-## Bibliography
-> Credit/urls for any materials that form part of the chapter's text.
