@@ -2,7 +2,7 @@
 
 **WORK IN PROGRESS**
 
-1. What can we learn from the existing CoPs?
+1. What can we learn from some community efforts?
 	
         * [Alan Turing Institute](https://www.turing.ac.uk/): [Turing Way](https://github.com/alan-turing-institute/the-turing-way)!
         * [ROpenSci](http://ropensci.github.io): [Reproducibility guide](https://ropensci.github.io/reproducibility-guide/sections/introduction/), tutorial, [code review](https://ropensci.org/community/)
