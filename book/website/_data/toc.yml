@@ -61,6 +61,15 @@
   url: version_control/version_control
 - title: Collaborating on GitHub/GitLab
   url: collaborating_github/collaborating_github
+  sections:
+  - title: README and Project Communication
+    url: collaborating_github/1/readme_communication
+  - title: Roadmapping
+    url: collaborating_github/2/roadmapping
+  - title: Getting Contributors 
+    url: collaborating_github/3/getting_contributors
+  - title: Checklist and Bibliography
+    url: collaborating_github/4/checklist_bibliography
 - title: Credit for reproducible research
   url: credit/credit
 - title: Research Data Management
