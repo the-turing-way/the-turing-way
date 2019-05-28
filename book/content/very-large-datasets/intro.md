@@ -35,4 +35,13 @@ In the era of Big Data, research datasets can often be several hundreds of gigab
    - how timings of stimuli, recordings, and any other events in the experiment were correlated and/or synchronized
  - Known caveats about the use of the data (i.e. identified artifacts)
  - links to publications
- - tools and procedures used to process the data (see section on Data Provenance)
+ - tools and procedures used to save, archive, transport, process, analyse, and visualize the data (see section on Data Provenance)
+
+## Data Provenance
+
+The word "[provenance](https://en.wikipedia.org/wiki/Provenance)" refers to the chronology (or timeline) of origin, ownership, custody, or location of a historical object, originally used in relation to works of art. If someone has custody of an object, this means that that person is responsible for the keeping of object safe and in good condition. 
+
+**Data provenance** refers to the chronology of origin, ownership, custody, location, and changes made to a dataset. This documentation would ideally involve the following milestones:
+ - **"Raw" dataset**: this version of the dataset is what was actually collected during the experiment. Ideally the "raw" dataset can be verified to guarantee that it has not been changed or otherwise tampered with since the date/time of initial data collection. 
+ - In some cases, the raw dataset will not be suitable for sharing online (confidential info, videos/photos that can identify individuals, animal research procedures that the general public may find disturbing, etc). In these cases, it would be ideal to include a "nearly raw" dataset that is as close to the "raw" dataset as possible while respecting confidentiality and diverse sensitivities towards invasive research. 
+ - **Processed datasets**: these next versions of the dataset are filtered for ease of analysis, communication, or specific application. Each processed version of the dataset should describe the tools and procedures used to process the raw dataset and create the processed dataset. The description should be detailed enough to allow any user to recreate the processed datasets from the original raw or "nearly raw" dataset. 
