@@ -16,12 +16,12 @@ for root_dir, _, file_names in os.walk(directory_to_check):
 		text = file.read()
 		text = remove_comments(text)
 		if 'lorem ipsum' in text.lower():
-			failed.append(file)
+			failed.append(file.name)
 
 try:
 	assert(len(failed)==0)
 except:
 	print('"Lorem ipsum"s found in the following files:')
-	for file_name in failed:
-		print(file_name.name)
+	for file_loc in failed:
+		print(file_loc)
 	sys.exit(1)
