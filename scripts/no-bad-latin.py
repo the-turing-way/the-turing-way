@@ -3,6 +3,7 @@ import os
 import re
 import sys
 
+
 script_dir = os.path.dirname(__file__)
 directory_to_check = os.path.join(script_dir,'../book/content/')
 
@@ -28,6 +29,7 @@ for root_dir, _, file_names in os.walk(directory_to_check):
 						fails[os.path.abspath(file.name)].append((latin_type, line))
 					except:
 						fails[os.path.abspath(file.name)] = [(latin_type, line)]
+
 
 if len(fails.keys())!=0:
 	error_message = 'Bad latin found in the following files:\n\n'
