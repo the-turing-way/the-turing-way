@@ -62,9 +62,3 @@ Containers offer many of the same benefits as virtual machines. They essentially
 The difference is that virtual machines include an entire operating system along with all the associated software etc. that is typically packaged with it- regardless of whether the project actually makes use of that associated software. Containers only contain the software and files explicitly defined within them in order to run the project they contain. This makes them far more lightweight than virtual machines.
 
 Containers are particularly useful if projects need to be able to run on high performance computing environments as, since they already _contain_ all the necessary software, they save having to install anything on an unfamiliar system where the researcher may not have the required permissions to do so.
-
-<a name="Package_management_systems"></a>
-
-## Package management systems
-
-Package managers install and keep track of the different software packages (and their versions) that you use within an environment. There are quite a few to choose from, for example Yum, Zypper, dpkg, and Nix (which will be mentioned briefly later in the [Binder](#Binder_section) section). We're going to focus on [Conda](https://conda.io/en/latest/), which has a number of useful functionalities.

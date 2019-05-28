@@ -1,3 +1,9 @@
+<a name="Package_management_systems"></a>
+
+## Package management systems
+
+Package managers install and keep track of the different software packages (and their versions) that you use within an environment. There are quite a few to choose from, for example Yum, Zypper, dpkg, and Nix (which will be mentioned briefly later in the [Binder](#Binder_section) section). We're going to focus on [Conda](https://conda.io/en/latest/), which has a number of useful functionalities.
+
 <a name="What_does_Conda_do"></a>
 
 ### What does Conda do?
