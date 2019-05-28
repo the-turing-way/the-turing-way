@@ -1,7 +1,7 @@
 # Definitions of reproducibility
 
 The most common definition of reproducibility (and replication) was first noted by Claerbout and Karrenbach in 1992 and has been used in computational science literature since then.
-Another popular definition has been introduced in 2013 by the Association for Computing Machinery (ACM) which swapped the meaning of the terms 'reproducible' and 'replicable' compared to Claerbout and Karrenbach.
+Another popular definition has been introduced in 2013 by the Association for Computing Machinery (ACM), which swapped the meaning of the terms 'reproducible' and 'replicable' compared to Claerbout and Karrenbach.
 The following table contrasts both definitions following Heroux et al. (2018).
 
 | Term | Claerbout & Karrenbach | ACM |
@@ -18,27 +18,31 @@ Victoria Stodden [(2014)](http://edge.org/response-detail/25340), a prominent sc
 
 - _Computational reproducibility_: When detailed information is provided about code, software, hardware and implementation details.
 
-- _Empirical reproducibility_: When detailed information is provided about non-computational empirical scientific experiments and observations. In practise this is enabled by making data freely available, as well as details of how the data was collected.
+- _Empirical reproducibility_: When detailed information is provided about non-computational empirical scientific experiments and observations. In practice this is enabled by making data freely available, as well as details of how the data was collected.
 
-- _Statistical reproducibility_: When detailed information is provided about the choice of statistical tests, model parameters, threshold values, etc. This mostly relates to pre-registration of study design to prevent p-value hacking and other manipulations.
+- _Statistical reproducibility_: When detailed information is provided, for example, about the choice of statistical tests, model parameters, and threshold values. This mostly relates to pre-registration of study design to prevent p-value hacking and other manipulations.
 
 ## The Turing Way definition of reproducibility
 
 The Turing Way project will define reproducible research as both data and code being available to fully rerun the analysis.
 
-| ![Kirstie's definition of reproducible research](/assets/figures/reproducibility/ReproducibleMatrix.jpg) |
+| ![Kirstie's definition of reproducible research](../../figures/reproducibility/ReproducibleMatrix.jpg) |
 | -------------------------------------------------------------------------------------------------------- |
 |  How the Turing Way defines reproducible research  |
 
 However, we recognize that some research will use sensitive data that cannot be shared and this handbook will provide guides on how your research can be reproducible without all parts necessarily being open.
 
 The handbook will cover:
+* Open research
 * Version control (using git)
-* Using GitHub/GitLab for collaboration
-* Open Research
-* Research Data Management
-* Reproducible computing environments
+* Collaborating on GitHub/GitLab
+* Credit for reproducible research
+* Research data management
+* Reproducible environments
 * Testing
+* Reviewing
 * Continous integration
+* Reproducible research with make
+* Risk assessments
 * Various case studies
 * Checklists to get you started on reproducible practices

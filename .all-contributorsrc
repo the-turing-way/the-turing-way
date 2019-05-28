@@ -462,6 +462,25 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "NatalieThurlby",
+      "name": "NatalieThurlby",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/17617308?v=4",
+      "profile": "https://github.com/NatalieThurlby",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "mjg211",
+      "name": "Michael J Grayling",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4548867?v=4",
+      "profile": "https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/a-to-g/michael-grayling/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
