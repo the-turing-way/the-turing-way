@@ -22,8 +22,19 @@ This may be primarily because they work with small datasets.
 However, there are many common open research themes and this chapter aims to assist preclinical scientists in understanding the why, where, when, and how they can employ open research initiatives, some designed specifically for the use by preclinical scientists.
 > The above sentance may not fit with the structure of the book or flow within these chapters - Nadia
 
-## Chapter content
-> depending on the content, this might be more structured, e.g. with exercises, gotcha sections etc
+## The Experimental Design Assistant
+The National Centre for the Replacement, Refinement and Reduction of Animals in Research (NC3Rs) have a freely accessible web-based tool – The Experimental Design Assistant (EDA; https://eda.nc3rs.org.uk) which aims to help researchers improve the design, conduct, analysis and reporting of animal experiments.  
+Designing experiments with the EDA encourages researchers to consider the sources of bias at the design stages of the experiment before the data are collected, ensuring a rigorous design that is more likely to yield robust findings that can be reproduced.  
+The tool ensures that you have a transparent, clear protocol and plan for statistical analysis which can be scrutinised before collecting data.  
+
+**Features of the EDA:**
+• A computer-aided design tool to develop a diagram representing the experimental plan
+• feedback from an expert system on the experimental plan 
+• analysis suggestion 
+• sample size calculation (power analysis)
+• randomisation sequence generation 
+• support for allocation concealment and blinding 
+• web-based resources to improve knowledge of experimental design and analysis 
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
