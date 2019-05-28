@@ -22,6 +22,7 @@
     - [repo2docker](#repo2docker)
     - [What happens when a Binder link is clicked?](#what-happens-when-a-binder-link-is-clicked)
   - [Why would you build your own BinderHub?](#why-would-you-build-your-own-binderhub)
+    - [Issues you may face when deploying a BinderHub](#issues-you-may-face-when-deploying-a-binderhub)
   - [Further reading](#further-reading)
   - [Definitions/glossary](#definitionsglossary)
   - [Bibliography](#bibliography)
@@ -110,6 +111,15 @@ These customisations could include:
 * allowing access to private repos,
 * persistent storage for users,
 * restrict sharing within a certain institution or team.
+
+### Issues you may face when deploying a BinderHub
+
+BinderHubs are becoming increasingly popular amongst universities and research institutes.
+This is because they can facilitate multiple instances of the same set of notebooks for use in a tutorial or workshop setting.
+
+If you are deploying a cloud-hosted BinderHub on behalf of your organisation, you may need specific permissions on your organisation's cloud platform subscription.
+Which permissions you require will vary based on the cloud platform you have access to and your IT Services policies.
+At minimum, you'll need to be able to assign [Role Based Access Control (RBAC)](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview) to your resources so they can act autonomously in order to manage user traffic.
 
 ## Further reading
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
