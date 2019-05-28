@@ -130,7 +130,7 @@ Especially if you are handling personal or sensitive data, you need to ensure th
 Your institution might provide local storage solutions and policies or guidelines restricting what you can use. 
 Thus, we recommend you familiarise yourself with your local policies anc recommendations.
 
-When you are ready to release the data to the wider community, you can also search for the appropriate [databases and repositories in FAIRsharing](https://fairsharing.org/databases) according to your data type, and type of access to the data. Major [publishers are progressively defining clearer recommendations for data deposition and sharing](https://fairsharing.org/recommendations), endorsing specific generics as well as domain-sepecific databases and repositories.
+When you are ready to release the data to the wider community, you can also search for the appropriate [databases and repositories](https://fairsharing.org/databases) in FAIRsharing, according to your data type, and type of access to the data. Major [publishers are progressively defining clearer recommendations for data deposition and sharing](https://fairsharing.org/recommendations), endorsing specific generics as well as domain-sepecific databases and repositories.
 
 <a name="Backups"></a>
 #### Backups 
@@ -184,7 +184,7 @@ This requires that all documentation accompanying data is written in clear, plai
 
 - The level of documentation and metadata will vary according to the project and the range of people the data needs to be understood by
 - It is best practice to use recognised community metadata standards to make it easier for datasets to be combined.
-Examples could include the [Brain Imaging Data Structure](https://github.com/bids-standard/bids-starter-kit) or those found via [FAIRsharing.org](https://www.fairsharing.org)
+For example, for brain data the [Brain Imaging Data Structure](https://doi.org/10.25504/FAIRsharing.rd1j6t) is the strandards to use; other [metadata standards](https://fairsharing.org/standards)(reporting requirements, termonologies, and models/schemas) are searchable in FAIRsharing.
 - Variables should be defined and explained using [data dictionaries](http://help.osf.io/m/bestpractices/l/618767-how-to-make-a-data-dictionary)
 - Data should be stored in logical and heirarchical folder structures with a README file used to describe the structure.
 The README file is helpful for others and will also help you find your data in the future. 
