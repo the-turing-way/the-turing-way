@@ -23,3 +23,4 @@ script:
     - cd ./book/website
     - make install # install jekyll etc. for building website
     - bash ./scripts/html-proof.sh # check dead links etc.
+    - python3 ./scripts/lorem-ipsums.py # check for rogue "lorem ipsum"s
