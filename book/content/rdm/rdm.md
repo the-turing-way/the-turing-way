@@ -289,10 +289,17 @@ Let's start with my digital footprints so that you can discovery my activities:
 * [Activities on GitHub; yeah, no code sorry](https://github.com/SusannaSansone)
 * [Google Scholar](https://scholar.google.co.uk/citations?user=gfJ8wsIAAAAJ&hl=en)
 
-I have worked on research data management since 2001, yes, way before this area was even considered a 'thing'. I was also told that there is no career to make in research data management. Well, how wrong that comment was! Formely seen as intersection between service provision and IT, data management has become a first class citizen, recognized as a research and development subject, as it should be. A lot of the credit for this change goes to FAIR principles. Love it or hate it, FAIR is now an internationally-known lighthouse brand that is changing we way we work with digital objects, such as datasets, software, articles and any other digital asset we use or produce in the research life cycle. 
+I have worked on research data management since 2001, yes, way before this area was even considered a 'thing'. I was also told that there is no career to make in research data management. Well, how wrong that comment was! Formely seen as intersection between service provision and IT, data management has become a first class citizen, recognized as a research and development subject, as it should be. 
 
-Working with collegues (researchers, service providers, journal publishers, library science experts, funders and learned societies in the academic as well as in the commercial and governmental setting) we defined  we ensure that data is Findable, Accessible, Interopera
+A lot of the credit for this change goes to the FAIR principles. Love it or hate it, FAIR is now an internationally-known lighthouse brand.  Since we published the first article on the [FAIR principles](https://doi.org/10.1038/sdata.2016.18), enabling FAIR has been my focus. 
 
+The reuse of other people’s data is providing useful insights for new research questions and products, and driving new scientific discoveries. To realize its potential, however, we need to new mechanisms to manage the growing availability and scale of scholarly digital products, such as datasets, software, algorithms, articles. 
+
+
+What can you do: be involved
+
+
+Be aware, be FAIR!
 
 
 <a name="Checklist"></a>
