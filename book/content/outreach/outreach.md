@@ -1,11 +1,10 @@
 # Outreach
 
 ## Prerequisites / recommended skill level
-> other chapters that should have been read before or content you should be familiar with before you read this
 
 | Prerequisite                | Importance | Notes |
 |-----------------------------|------------|-------|
-|No previous knowledge needed.|            |       |
+|No previous knowledge needed.|            | First draft at London Dash on May 28th. Expected second draft in July 2019.      |
 
 
 ## Overview
