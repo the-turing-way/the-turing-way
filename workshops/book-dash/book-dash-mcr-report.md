@@ -95,7 +95,7 @@ Some aspects of the book dash that the participants would change would be to inc
   
 ## Impact
 
-Beth Montague-Hellen ([@AlfAWolf140](https://github.com/AlfAWolf140)) wrote a [blog post](https://montaguehellen.wordpress.com/2019/05/20/the-turing-way-and-a-return-to-github/) reflecting on her experience and many participants tweeted! 
+Beth Montague-Hellen ([@AlfAWolf140](https://github.com/AlfAWolf140)) wrote a [blog post](https://montaguehellen.wordpress.com/2019/05/20/the-turing-way-and-a-return-to-github/) reflecting on her experience and many participants tweeted using [#TuringWay](https://twitter.com/hashtag/TuringWay)! 
 
 ![https://twitter.com/Jade_Pickering/status/1129327666363064321](/figures/book_dash_mcr_tweet1.png)
 ![https://twitter.com/clarepenelope/status/1129379189260525569](/figures/book_dash_mcr_tweet3.png)  
