@@ -80,6 +80,15 @@
   url: testing/testing
 - title: Reviewing
   url: reviewing/reviewing
+  sections:
+  - title: How this will help you/why this is useful
+    url: reviewing/01/how_this_helps
+  - title: Best Practice
+    url: reviewing/02/best_practice
+  - title: Typical Workflows
+    url: reviewing/03/typical_workflows
+  - title: Checklists, what to learn next and bibliography
+    url: reviewing/04/checklists_bib
 - title: Continous Integration
   url: continuous_integration/continuous_integration
 - title: Reproducible Research with Make
