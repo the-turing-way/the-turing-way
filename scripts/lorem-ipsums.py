@@ -18,10 +18,7 @@ for root_dir, _, file_names in os.walk(directory_to_check):
 		if 'lorem ipsum' in text.lower():
 			failed.append(file.name)
 
-try:
-	assert(len(failed)==0)
-except:
-	print('"Lorem ipsum"s found in the following files:')
-	for file_loc in failed:
-		print(file_loc)
-	sys.exit(1)
+if len(failed)!=0:
+	error_message = '"Lorem ipsum"s found in the following files:\n' + '\n'.join(failed)
+	raise Exception(error_message)
+
