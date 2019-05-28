@@ -28,7 +28,8 @@ The following sections in this handbook provide useful context and complementary
     i. [Motivations for sharing data](#Motivations-Sharing)
     ii. [Steps to share your data](#Steps-Share)
     iii. [Barriers to data sharing](#Barriers-Share)
-10. [Personal Stories](#Personal-stories)    
+10. [Personal Stories](#Personal-stories) 
+  i. [Susanna-Assunta Sansone: from FAIR co-author to FAIR doer](#SusannaSansone)
 11. [Checklist](#Checklist)
 12. [What to read next](#What-Next)
 13. [Further reading](#Further-Reading)
@@ -222,7 +223,7 @@ So you first need to decide which data you need to share for others to be able t
 
 #### Step 2: Choose a data repository or other sharing platform 
 Data should be shared in a formal, open, and indexed data repository where possible so that it will be accessible in the long-run. 
-Suitable data repositories by subject, content type or location can be found at [Re3data.org](https://www.re3data.org/).
+Suitable data repositories by subject, content type or location can be found at [Re3data.org](https://www.re3data.org/) and in [FAIRsharing](https://fairsharing.org/databases) where you can also see which standards (metadata and identifier) the repositories implement and which journal/publisher recommend them.
 If possible use a repository which assigns a DOI, a digital object identifier, to make it easier for others to cite your data.
 
 
@@ -276,6 +277,9 @@ In such cases it may not be possible to make data open, or it may only be only p
 
 <a name="Personal-stories"></a>
 ## Personal Stories
+<a name="SusannaSansone"></a>
+### Susanna-Assunta Sansone: from FAIR co-author to FAIR doer
+
 
 
 
