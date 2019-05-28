@@ -48,7 +48,7 @@ BinderHub relies on different tools and resources in order to create and launch 
 A high-level explanation of the BinderHub architecture can be found [here](https://binderhub.readthedocs.io/en/latest/overview.html).
 
 <html>
-<img src="../../../figures/cloud_neutral_binderhub.png" alt="binderhub_architecture">
+<img src="../../../figures/cloud_neutral_binderhub.png" alt="binderhub_architecture" width="470" height="459">
 </html>
 
 ### Kubernetes
