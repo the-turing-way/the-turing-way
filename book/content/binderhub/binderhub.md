@@ -33,6 +33,9 @@
 This chapter will discuss BinderHub, which is the cloud technology powering BinderHub.
 We will cover the technologies and tools that BinderHub utilises and the resources you will need to setup your own BinderHub.
 
+This chapter is primarily aimed at RSEs and IT Services who wish to provide a BinderHub as a service to a group of researchers.
+Though anyone can build a BinderHub.
+
 ## How this will help you/ why this is useful
 > why we think you should read the whole thing
 
