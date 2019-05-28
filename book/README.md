@@ -10,7 +10,7 @@ Everything else is in the `website/`. Importantly this includes the figures, whi
 - Same applies for more general configuration using `website/_config.yml`
 
 ### Deploying
-The site is built automatically using these two directories. All of the requirements are specificied in `website/requirements.txt`. 
+The site is built automatically using these two directories. All of the requirements are specificied in `website/requirements.txt`.
 
 #### Locally (Mac / Linux Only)
 To install jupyter-book etc.
@@ -18,23 +18,32 @@ To install jupyter-book etc.
 cd book/website
 pip install -r requirements.txt
 ```
-[optional] Consider using a virtual environment to isolate the python dependencies from your system python e.g.
-via (replace with python interpreter of your choice)
+
+<details>
+    <summary>Installing Dependencies in  a  virtualenv </summary>
+Virtual environments are a great way of isolating project-related dependencies
+from you system-level python installation.
+For more details on virtual environments in python see
+[here](https://docs.python.org/3/tutorial/venv.html).
+To use a virtual environment for building the book project, use
 ```
 cd book/website
-virtualenv -p /usr/bin/python3.7 the-turing-way
+virtualenv the-turing-way
 source the-turing-way/bin/activate
 pip install -r requirements.txt
 ```
-
-You will also need to make sure that 'bundler' and jekyll are available on your path. I.e., on a vanilla Ubuntu 19.04
-these will need to be installed via
+In case you want to use a specific python interpreter, specify the path as
 ```
-sudo apt-get install ruby-bundler
-bundle add jekyll
+virtualenv -p /usr/bin/python3.7 the-turing-way
 ```
+</details>
 
-If you want to see your local changes on your own computer you'll have to go in the website directory and enter `make serve` (type `make` on its own to see the other options).
+You will also need to make sure that ruby is
+[installed](https://www.ruby-lang.org/en/documentation/installation/).
+
+If you want to see your local changes on your own computer you'll have to go in
+the website directory and enter `make serve`
+(type `make` on its own to see the other options).
 ```
 cd book/website
 make site && make serve
