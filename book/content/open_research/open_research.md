@@ -8,9 +8,6 @@
 
 Recommended skill level: low.
 
-<<<<<<< HEAD
-=======
-
 ## Table of contents
 
 1. [Summary](#summary)
@@ -65,7 +62,6 @@ Recommended skill level: low.
 12. [Definitions/glossary](/open_research/07/resources#definitionsglossary)
 13. [Bibliography](/open_research/07/resources#bibliography)
 
->>>>>>> open-research-links
 ## Summary
 
 Open research aims to transform research by making it more reproducible, transparent, re-usable, collaborative, accountable, and accessible to society. It pushes for change in the way that research is carried out and disseminated by digital tools. One definition of open research, [as given by the Organisation for Economic Co-operation and Development (OECD)](https://www.fct.pt/dsi/docs/Making_Open_Science_a_Reality.pdf "Making Open Science a Reality, OECD Science, Technology and Industry Policy Papers No. 25"), is the practice of making "the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction." In order to achieve this openness in research, each element of the research process should:
