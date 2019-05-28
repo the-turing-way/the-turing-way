@@ -85,23 +85,23 @@
 - title: Outreach and Communication
   url: outreach/outreach
   sections: 
-- title: Summary
-  url: outreach/01/summary
-- title: Why is Outreach Important?
-  url: outreach/02/why_is_outreach_important
-- title: Manifesto Point 1
-  url: outreach/03/manifesto_p1
-- title: Manifesto Point 2
-  url: outreach/04/manifesto_p2
-- title: Manifesto Point 3
-  url: outreach/05/manifesto_p3
-- title: Manifesto Point 4
-  url: outreach/06/manifesto_p4
-- title: Manifesto Point 5
-  url: outreach/07/manifesto_p5
-- title: Checklist 
-  url: outreach/08/checklist
-- title: Further Reading
-  url: outreach/09/further_reading
-- title: Bibliography
-  url: outreach/10/bibliography
+  - title: Summary
+    url: outreach/01/summary
+  - title: Why is Outreach Important?
+    url: outreach/02/why_is_outreach_important
+  - title: Manifesto Point 1
+    url: outreach/03/manifesto_p1
+  - title: Manifesto Point 2
+    url: outreach/04/manifesto_p2
+  - title: Manifesto Point 3
+    url: outreach/05/manifesto_p3
+  - title: Manifesto Point 4
+    url: outreach/06/manifesto_p4
+  - title: Manifesto Point 5
+    url: outreach/07/manifesto_p5
+  - title: Checklist 
+    url: outreach/08/checklist
+  - title: Further Reading
+    url: outreach/09/further_reading
+  - title: Bibliography
+    url: outreach/10/bibliography
