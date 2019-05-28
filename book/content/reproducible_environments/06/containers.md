@@ -415,7 +415,47 @@ ___________________________________
                ||     ||
 ```
 
-#### Words of warning
+Being HPC compatible, singularity containers are also supported by wide range
+of workflow management tools.
+E.g. both [snakemake](https://snakemake.readthedocs.io/en/stable/) and
+[nextflow](https://www.nextflow.io/docs/latest/singularity.html) support
+job-specific singularity containers.
+This makes singularity containers uniquely suited for parallelizing workflows
+on HPC systems using the
+widely used [slurm](https://slurm.schedmd.com/documentation.html) workload manager.
+Using singularity containers and snakemake/nextflow is therefore a way of
+scaling reproducibility to massive scale and - as an added benefit -
+brining workflows from a desktop machine to an HPC system no  longer requires
+writing custom slurm scripts.
+
+
+#### Long-term storage of container images
+
+It is important to note that a mere container recipe file is not reproducible
+in itself since the build process depends on various (online) sources.
+Thus the same recipe file might lead to different images if the underlying
+sources were updated.
+
+To achieve true reproducibility, it is therefore important to store the
+actual container **images**.
+For singularity images, this is particularly easy since an image is simply a
+large file.
+These can vary in size from a few 10s of megabytes (microcontainers) to several
+gigabyte and are therefore not suited for being stored in a git repository
+themselves.
+A free, citable, and long-term solution to storing container images is
+[zenodo.org](https://zenodo.org/) which allows up to 50 Gb per repository.
+Since zenodo is minting DOIs for all content uploaded, the images are immediately
+citable.
+In contrast to dockerhub (which also only accepts docker images) zenodo.org
+is also clearly geared towards long-term storage and discoverability via a
+sophisticated metadata system and thus ideally suited for storing scientific
+containers associated with particular analyses since these tend to not
+change over time.
+
+
+
+#### Words of Warning
 
 Even though singularity and docker might look similar, they are conceptually
 very different.
@@ -425,6 +465,7 @@ it also handles the distinction between the host and container file system
 differently.
 For instance by default singularity includes a few bind points in the container,
 namely:
+
 * `$HOME`
 * `/sys:/sys`
 * `/proc:/proc`
@@ -433,6 +474,7 @@ namely:
 * `/etc/resolv.conf:/etc/resolv.conf`
 * `/etc/passwd:/etc/passwd`
 * `$PWD`
+
 Especially `$PWD` comes in handy since it implies that all files in the working
 directory are visible within the container.
 Binding $HOME by default, however, also implies that software using configuration
