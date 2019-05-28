@@ -81,10 +81,10 @@ The research process typically has the following form: data is collected and the
 
 These elements are expanded upon in this chapter.
 
-Open scholarship is a concept that extends open research further. It relates to making other aspects of scientific research open to the public, e.g.
+Open scholarship is a concept that extends open research further. It relates to making other aspects of scientific research open to the public, for example:
 
 - Open educational resources - making educational resources publicly available to be re-used and modified.
-- Equity, diversity, inclusion - ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, sexual orientation, etc.
+- Equity, diversity, inclusion - ensuring scholarship is open to anyone without barriers based on factors such as race or ethnicity, background, gender, sexual orientation, age, disability, religion or belief.
 - Citizen science - the inclusion of members of the public in scientific research
 
 These elements are also discussed in detail in this chapter.
