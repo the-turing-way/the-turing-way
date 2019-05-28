@@ -8,28 +8,23 @@
 | Chapter/topic | How important it is | Any notes |
 
 ## Summary
-Society continually debate the use of animals in scientific research.  
-The fundamental questions are whether experiments using animals are morally justifiable and whether the potential benefits outweigh the suffering of those animals?  
-These questions have been coupled with increasing concern about the poor reproducibility of findings from animal research, due to the impact this has on translation, scientific progress and the use of resources.  
-A question that is not often addressed is how those justified experiments are designed, conducted and analysed.  
+Society continually debate the use of animals in scientific research. 
+The fundamental questions are whether experiments using animals are morally justifiable and whether the potential benefits outweigh the suffering of those animals?
+These questions have been coupled with increasing concern about the poor reproducibility of findings from animal research, due to the impact this has on translation, scientific progress and the use of resources.
+A question that is not often addressed is how those justified experiments are designed, conducted and analysed.
 Flawed experimental design, inappropriate statistical analysis and inadequate reporting have been flagged as areas for major concern (Kilkenny et al., 2009, Begley et al., 2012, Begley et al., 2015).
-Society continually debate the use of animals in scientific research.  
-The fundamental questions are whether experiments using animals are morally justifiable and whether the potential benefits outweigh the suffering of those animals?  
-These questions have been coupled with increasing concern about the poor reproducibility of findings from animal research, due to the impact this has on translation, scientific progress and the use of resources.  
-A question that is not often addressed is how those justified experiments are designed, conducted and analysed.  
-Flawed experimental design, inappropriate statistical analysis and inadequate reporting have been flagged as areas for major concern (Kilkenny et al., 2009, Begley et al., 2012, Begley et al., 2015).
-It is morally incumbent upon us to ensure that animal experiments are appropriately designed, conducted and analysed otherwise the results are at risk of being unreliable.  
+It is morally incumbent upon us to ensure that animal experiments are appropriately designed, conducted and analysed otherwise the results are at risk of being unreliable.
 If the results are unreliable then the animals used have in effect have been wasted (Ioannidis et al., 2014, de Vries et al., 2014).  
 
 ## How this will help you/ why this is useful
-Many preclinical researchers do not think of themselves as data scientists.  
-This may be primarily because they work with small datasets.  
+Many preclinical researchers do not think of themselves as data scientists.
+This may be primarily because they work with small datasets.
 However, there are many common open research themes and this chapter aims to assist preclinical scientists in understanding the why, where, when, and how they can employ open research initiatives, some designed specifically for the use by preclinical scientists.
 > The above sentance may not fit with the structure of the book or flow within these chapters - Nadia
 
 ## The Experimental Design Assistant
-The National Centre for the Replacement, Refinement and Reduction of Animals in Research (NC3Rs) have a freely accessible web-based tool – The Experimental Design Assistant (EDA; https://eda.nc3rs.org.uk) which aims to help researchers improve the design, conduct, analysis and reporting of animal experiments.  
-Designing experiments with the EDA encourages researchers to consider the sources of bias at the design stages of the experiment before the data are collected, ensuring a rigorous design that is more likely to yield robust findings that can be reproduced.  
+The National Centre for the Replacement, Refinement and Reduction of Animals in Research (NC3Rs) have a freely accessible web-based tool – The Experimental Design Assistant (EDA; https://eda.nc3rs.org.uk) which aims to help researchers improve the design, conduct, analysis and reporting of animal experiments.
+Designing experiments with the EDA encourages researchers to consider the sources of bias at the design stages of the experiment before the data are collected, ensuring a rigorous design that is more likely to yield robust findings that can be reproduced.
 The tool ensures that you have a transparent, clear protocol and plan for statistical analysis which can be scrutinised before collecting data.  
 
 **Features of the EDA:**
