@@ -1,14 +1,20 @@
 # Chapter title
 
 ## Prerequisites / recommended skill level
-> other chapters that should have been read before or content you should be familiar with before you read this
 
 | Prerequisite | Importance | Notes |
-| -------------|----------|------|
-| Chapter/topic | How important it is | Any notes |
+|---|---|---|
+| [Version Control](./book/content/version_control/version_control.md) | Very Important | |
+| [Reproducible Environments](./book/content/reproducible_environments/reproducible_envrionment.md) | Very Important | Particularly read the section on [Binder](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Binder_section). |
+
+## Table of Contents
+
+[TOC]
 
 ## Summary
-> easy to understand summary - a bit like tl;dr
+
+This chapter will discuss BinderHub, which is the cloud technology powering BinderHub.
+We will cover the technologies and tools that BinderHub utilises and the resources you will need to setup your own BinderHub.
 
 ## How this will help you/ why this is useful
 > why we think you should read the whole thing
