@@ -32,14 +32,20 @@
 - title: Reproducibility
   url: reproducibility/reproducibility
   sections:
-  - title: Why reproducibility is important
-    url: reproducibility/01/importantforscience
-  - title: Why you should care
-    url: reproducibility/02/whycare
-  - title: Definitions
-    url: reproducibility/03/definitions
+  - title: Definition(s) of reproducibility
+    url: reproducibility/01/definitions
+  - title: Why reproducibility is important for science and scientific communities
+    url: reproducibility/02/importance
+  - title: What are the benefits of doing reproducible science
+    url: reproducibility/03/benefits
+  - title: What are the values and rewards of doing reproducible science
+    url: reproducibility/04/values
+  - title: How to incentivize researchers/community members
+    url: reproducibility/05/incentives
+  - title: Case studies and examples
+    url: reproducibility/06/examples
   - title: Resources
-    url: reproducibility/04/resources
+    url: reproducibility/07/resources
 - title: Open Research
   url: open_research/open_research
   sections:
