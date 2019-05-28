@@ -297,7 +297,7 @@ To make things look cleaner, it is advised that all figures be encapsulated in a
 This can be done simply as:
 
 ```
-| ![A dish with Green Eggs and Ham](green_eggs_ham.jpg)         |
+| ![A dish with Green Eggs and Ham](/figures/green_eggs_ham.jpg)         |
 | ------------------------------------------------------------------------------------ |
 | Try them, try them, and you may! Try them and you may, I say.  |
 ```
