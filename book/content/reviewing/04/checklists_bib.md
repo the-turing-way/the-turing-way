@@ -37,7 +37,7 @@ The following presents some possible checklists for both the coder and the revie
 <a name="What_to_learn_next"></a>
 ## What to learn next
 
-The thorough checking of tests, coverage, and code style by hand can be tedious, so this might be a good time to learn more about [continuous integration (CI)](../continuous_integration/continuous_integration).
+The thorough checking of tests, coverage, and code style by hand can be tedious, so this might be a good time to learn more about [continuous integration (CI)](/continuous_integration/continuous_integration).
 
 <a name="Further_reading"></a>
 ## Further reading
