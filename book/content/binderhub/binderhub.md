@@ -142,7 +142,7 @@ At minimum, you'll need to be able to assign [Role Based Access Control (RBAC)](
 ## Definitions/glossary
 
 | | |
-|---|---|
+|:---|:---|
 | Docker image or container | A set of instructions to create a computational environment.|
 | BinderHub | Technology for hosting reproducible computational environments. |
 | Binder | The user-facing service of a BinderHub. |
