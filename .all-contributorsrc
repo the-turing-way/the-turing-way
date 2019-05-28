@@ -556,6 +556,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "kkmann",
+      "name": "Kevin Kunzmann",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2482236?v=4",
+      "profile": "https://kkmann.github.io/",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7
