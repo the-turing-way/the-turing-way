@@ -9,19 +9,19 @@ In the era of Big Data, research datasets can often be several hundreds of gigab
    - The Harvard Dataverse gives up to 1TB of storage for free: https://dataverse.harvard.edu/
  - Others??
  
-## What kind of infrastructure can support sharing Very Large Datasets?
+## What kind of infrastructure can support the sharing of Very Large Datasets?
 
 Currently, there are very few options for hosting and sharing Very Large Datasets online. It would be beneficial to have more infrastructures that can support Very Large Datasets, especially as research data becomes more multimedia and begins to use formats such as video and audio more widely. 
 
-### What can this infrastructure do for researchers?
+### What should this infrastructure do for researchers?
 
-A Very Large Dataset sharing infrastructure should make it easy for contributors to upload data and to provide credit for the shared data. The infrastructure should also safeguard the data and check for compliance with a standard for ethical datasets (especially with datasets containing human data). 
+A Very Large Dataset sharing infrastructure should make it easy for contributors to upload data and to provide credit for the shared data. The infrastructure should also safeguard the data and check for compliance with a standard for ethical datasets (especially with datasets containing human data). Along the same lines, the data-sharing infrastructure should be clear on if and how the infrastructure provides back-ups to uploaded datasets. 
 
 After a contributor has uploaded a dataset, the data-sharing infrastructure should relieve data contributors from providing technical support for individual users of the data, while also facilitating discussions/collaborations between data contributors and users. To enable easy and flexible online search and access, datasets should be indexed and tagged using descriptive language that creates clear categories. Users should also be able to easily create visualizations of the data, preferably using tools embedded directly in the infrastructure. 
 
 As time passes and technologies advance and change, it will become important that these data-sharing infrastructures are expandable to include new formats, workflows, and genres of data. Given the current trends in dataset size, it will also be important for data-sharing infrastructures to be able to accommodate larger and larger datasets. 
 
-Ideally, data-sharing infrastructures can help make open research practices more accessible by hosting a list of Frequently Asked Questions or providing teaching tools to help new contributors and new users figure out how to use the infrastructure, and to bridge gaps between language and ways of thinking that arise between areas of expertise. Discussion forums can provide opportunities for user interactions and collaborations, nurturing an open research community. 
+Ideally, data-sharing infrastructures can help make open research practices more accessible by hosting a list of Frequently Asked Questions, or by providing teaching tools to help new contributors and new users figure out how to use the infrastructure. The FAQ and teaching tools can also bridge gaps between language and ways of thinking that arise between areas of expertise. Discussion forums can provide opportunities for user interactions and collaborations, nurturing an open research community. 
 
 Lastly, a data-sharing infrastructure should have measures in place to prevent unfair or bad faith use of the data. 
 
@@ -29,8 +29,9 @@ Lastly, a data-sharing infrastructure should have measures in place to prevent u
  - https://gking.harvard.edu/files/gking/files/dvn.pdf
  - https://crcns.org/files/news/crcns-neuroinformatics-article.pdf
 
-## Suggested Meta-data to include
+## How should researchers prepare their Very Large Datasets for sharing?
 
+The following is a suggested check-list for meta-data to include when researchers are preparing to share a Very Large Dataset:
  - Description of the theoretical context and experimental paradigm
  - Description of experimental conditions, ideally a fully descriptive data collection protocol
    - date and time of data collection
