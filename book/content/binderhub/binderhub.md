@@ -4,8 +4,8 @@
 
 | Prerequisite | Importance | Notes |
 |---|---|---|
-| [Version Control](./book/content/version_control/version_control.md) | Very Important | |
-| [Reproducible Environments](./book/content/reproducible_environments/reproducible_envrionment.md) | Very Important | Particularly read the section on [Binder](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Binder_section). |
+| [Version Control](/version_control/version_control.md) | Very Important | |
+| [Reproducible Environments](/reproducible_environments/reproducible_envrionments.md) | Very Important | Particularly read the section on [Binder](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Binder_section). |
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@
 
 ## Summary
 
-This chapter will discuss BinderHub, which is the cloud technology powering BinderHub.
+This chapter will discuss [BinderHub](https://binderhub.readthedocs.io/en/latest/index.html), which is the cloud technology powering Binder.
 We will cover the technologies and tools that BinderHub utilises and the resources you will need to setup your own BinderHub.
 
 This chapter is primarily aimed at RSEs and IT Services who wish to provide a BinderHub as a service to a group of researchers.
@@ -41,7 +41,7 @@ Though anyone can build a BinderHub.
 
 ## What is BinderHub and why is it good for Reproducibility?
 
-A [BinderHub](https://binderhub.readthedocs.io/en/latest/index.html) is a cloud-based technology that can launch a repository of code (from GitHub, GitLab,...) in a browser window such that the code can be executed and interacted with.
+[BinderHub](https://binderhub.readthedocs.io/en/latest/index.html) is a cloud-based technology that can launch a repository of code (from GitHub, GitLab,...) in a browser window such that the code can be executed and interacted with.
 A unique URL is generated allowing the interactive code to be easily shared.
 
 The purpose of these Binder instances is to promote reproducibility in research projects by encouraging researchers to document their software dependencies and produce fun, interactive environments!
@@ -142,4 +142,8 @@ At minimum, you'll need to be able to assign [Role Based Access Control (RBAC)](
 > Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
 
 ## Bibliography
-> Credit/urls for any materials that form part of the chapter's text.
+
+* **Kubernetes documentation**: https://kubernetes.io/
+* **Helm documentation**: https://helm.sh/
+* **repo2docker**: https://repo2docker.readthedocs.io/en/latest/?badge=latest
+* **Microsoft Azure documentation on Role Based Access Control**: https://docs.microsoft.com/en-us/azure/role-based-access-control/overview
