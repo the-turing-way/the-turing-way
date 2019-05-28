@@ -9,5 +9,5 @@ services:
     user: 1000:1000
     security_opt:
        - label:disable
-    command: /bin/bash -c "bundle install && bundle exec jekyll serve --host 0.0.0.0"
+    command: /bin/bash -c "bundle install && bundle exec jekyll serve --host 0.0.0.0 --livereload"
     tty: true
