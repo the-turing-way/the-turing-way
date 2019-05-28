@@ -13,7 +13,7 @@ def remove_comments(text_string):
 failed = []
 for root_dir, _, file_names in os.walk(directory_to_check):
 	for file_name in file_names:
-		file = open(os.path.join(root_dir,file_name))
+		file = open(os.path.join(root_dir,file_name),encoding="utf8", errors='ignore')
 		text = file.read()
 		text = remove_comments(text)
 		if 'lorem ipsum' in text.lower():
