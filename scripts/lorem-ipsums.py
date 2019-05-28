@@ -3,6 +3,8 @@ import os
 import re
 import sys
 
+# Show up in travis please
+
 directory_to_check = '../book/content/'
 
 def remove_comments(text_string):
