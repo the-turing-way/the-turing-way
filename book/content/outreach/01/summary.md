@@ -2,7 +2,8 @@
 
 The goal of this chapter is provide a manifesto that functions as a set of general guidelines on best practices for doing data science outreach. 
 
--What is outreach 
+<!-- OG: I feel this should have more examples of outreach? --> 
+Outreach is an umbrella term for a broad range of activities which engage researchers with audiences external to the research team, including other scientists, the general public, journalists and policy makers. Outreach can provide major benefits to both researchers and society, from enhancing the visibility of your work to developing public understanding of science. However, as with all research activities, outreach requires careful planning and resourcing, while researchers share a collective responsibility to combat the spread of misinformation and provide the public with an accurate representation of science. While outreach activities are diverse in scope, we believe that all high quality outreach is underpinned by a set of shared underlying principles. 
 
 One of the main goals of the manifesto is to express the importance of outreach in the research cycle, both in the academia and industry, and this way change the general consensus of outreach from volunteering to essential.
 
