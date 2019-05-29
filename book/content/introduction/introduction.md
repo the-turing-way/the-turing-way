@@ -24,11 +24,39 @@ The book that you are reading is a [jupyter book](https://github.com/jupyter/jup
 Jupyter books render markdown documents and jupyter notebooks as static html web pages.
 They are easy to read and navigate...but also easy to edit and extend!
 
-🚧 ***Under construction*** 🚧
+### Contributing to The Turing Way
 
-Watch this space for a little more information on how to contribute to the Turing Way!
+**Please read and follow our project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)!** If you find them confusing, difficult to follow or think that information needs to be added, please let us know! This will help us improve the contributing experience for everyone going forward.
 
-🚧 ***Under construction*** 🚧
+To summarise how to [contribute to The Turing Way through GitHub](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#making-a-change-with-a-pull-request):
+1. Comment on an [existing issue](https://github.com/alan-turing-institute/the-turing-way/issues) or open a new issue referencing your addition.
+    * The [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/ISSUE_TEMPLATE.md) will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the "*Lorem ipsum*" sections.
+2. [Fork](https://help.github.com/articles/fork-a-repo) the Turing Way repository to your GitHub profile.
+3. Make your changes!
+4. Submit a [pull request](https://help.github.com/articles/creating-a-pull-request).
+    * Open a pull request as early in your contributing process as possible and add the label [WIP] to the title to designate "work in progress".
+    * The [pull request template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/PULL_REQUEST_TEMPLATE.md) will automatically be rendered in the comment section of the new pull request page, so all you need to do is edit the "*Lorem ipsum*" sections.
+    * As you continue to make changes they will automatically be included in your existing pull request.
+    * Change [WIP] to [Ready for review] in the pull request title when you are happy for your contribution to be reviewed and merged.
+
+What types of contributions can you make? 
+* Check out the list of [open issues](https://github.com/alan-turing-institute/the-turing-way/issues) 
+   * The ```good first issue``` label is a good place to start if you are new to contributing to an open project!
+* Proofread [existing chapters](https://the-turing-way.netlify.com) (check for typos, grammar, broken links)
+* Add further information to an existing chapter
+* Suggest topics for new chapters (particularly if you can write them!)
+    * A chapter can be 3 paragraphs in length - what can you write 3 paragraphs on?
+    * What skills or tools do you wish you had been taught at the start of your research career?
+* Review ```[Ready to review]``` [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls)
+* Contribute to discussion in ```[WIP]``` pull requests and issues
+* Submit a case study or your tips and tricks for reproducible research via our [Google submission form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
+* Incorporate case studies into the book
+* Checklists
+* Restructuring the chapter sections (like the [Reproducibility chapter](https://the-turing-way.netlify.com/reproducibility/reproducibility.html))
+* Creative, out of the box ideas!
+* Let us know if you are struggling with contributing in any way so that we can improve our Contributing Guidelines!
+
+The Turing Way follows the [all-contributors](https://github.com/kentcdodds/all-contributors#emoji-key) specification, so we welcome and recognise all contributions from documentation to testing to writing chapters. No contribution is too small! You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way#contributors).
 
 ### The Turing Way Community
 
@@ -53,6 +81,6 @@ Our core contributors are, in alphabetical order:
 
 You can see all of our incredible contributors in our [README](https://github.com/alan-turing-institute/the-turing-way#contributors) file, and screengrabbed below.
 
-![](../figures/Contributors.png)
+![](../figures/Contributors2.png)
 
 Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) on how you can join this fantastic group and help us build the most useful book we can!
