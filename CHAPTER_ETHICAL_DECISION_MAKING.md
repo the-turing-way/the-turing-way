@@ -57,15 +57,15 @@ Have you considered:
 * Anonymising research data is best planned early in the research process and should be considered alongside getting informed consent for data sharing or imposing access restrictions. Personal data should never be disclosed from research information, unless a participant has given consent to do so, ideally in writing. Do not collect information not relevant to the analysis. 
 
 * There are various techniques for anonymizing quantitative data and you can find an overview of how and when to use them here: 
-  *Attribute Suppression: removal of an entire part of data in a dataset.
-  *Record Suppression:  the removal of an entire record in a dataset (it affects multiple attributes at the same time)
-  *Character Masking: the change of the characters of a data value, e.g. by using a constant symbol (e.g. “*” or “x”). 
-  *Pseudonymisation: The replacement of identifying data with made up values
-_Generalisation (Re-coding_: a deliberate reduction in the precision of data. E.g. converting a person’s age into an age range
-_Swapping_: to rearrange data in the dataset such that the individual attribute values are still represented in the dataset, but generally, do not correspond to the original records.
-_Data Perturbation_: the values from the original dataset are modified to be slightly different
-_Synthetic Data_: generate synthetic datasets directly and separately from the original data, instead of modifying the original dataset. 
-_Data Aggregation_: converting a dataset from a list of records to summarised values```
+  * Attribute Suppression: removal of an entire part of data in a dataset.
+  * Record Suppression:  the removal of an entire record in a dataset (it affects multiple attributes at the same time)
+  * Character Masking: the change of the characters of a data value, e.g. by using a constant symbol (e.g. “*” or “x”). 
+  * Pseudonymisation: The replacement of identifying data with made up values
+  * Generalisation (Re-coding_: a deliberate reduction in the precision of data. E.g. converting a person’s age into an age range
+  * Swapping: to rearrange data in the dataset such that the individual attribute values are still represented in the dataset, but generally, do not correspond to the original records.
+  * Data Perturbation: the values from the original dataset are modified to be slightly different
+  * Synthetic Data: generate synthetic datasets directly and separately from the original data, instead of modifying the original dataset. 
+  * Data Aggregation: converting a dataset from a list of records to summarised values```
 
 
 * Anonymisation requires more than just applying the appropriate technique. Good practice includes:
