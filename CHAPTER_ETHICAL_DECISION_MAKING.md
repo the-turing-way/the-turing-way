@@ -57,7 +57,7 @@ Have you considered:
 * Anonymising research data is best planned early in the research process and should be considered alongside getting informed consent for data sharing or imposing access restrictions. Personal data should never be disclosed from research information, unless a participant has given consent to do so, ideally in writing. Do not collect information not relevant to the analysis. 
 
 * There are various techniques for anonymizing quantitative data and you can find an overview of how and when to use them here: 
-⋅_Attribute Suppression_: removal of an entire part of data in a dataset.
+```_Attribute Suppression_: removal of an entire part of data in a dataset.
 ⋅_Record Suppression_:  the removal of an entire record in a dataset (it affects multiple attributes at the same time)
 ⋅_Character Masking_: the change of the characters of a data value, e.g. by using a constant symbol (e.g. “*” or “x”). 
 ⋅⋅*_Pseudonymisation_: The replacement of identifying data with made up values
