@@ -48,7 +48,7 @@ There was a great diversity of lightning talks which were really fun:
 * Kirstie impressed us with her experiences of dog training. 🐶
 * Joe informed us about a bomb detector made from bees. 🐝
 
-![/figures/book_dash_mcr_dinner.jpg](/figures/book_dash_mcr_dinner.jpg)
+![/figures/book_dash_mcr_dinner.jpg](figures/book_dash_mcr_dinner.jpg)
 *Networking dinner in the Jamie's Italian Vault. Photo credit: Jez Cope*
 
 During the dash, we set out to build upon the [Collaborations Workshop Hackday experience](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/collabw19/hackdayreport_20190403.md): we wanted to enhance the first version of *The Turing Way* book and ensure that contributing to the project is as straightforward as possible.
@@ -73,7 +73,7 @@ Specifically:
 * Acknowledged contributors! :tada:
 * Gorgeous graphics! :heart_eyes:
 
-![/figures/book_dash_mcr_art.jpg](/figures/book_dash_mcr_art.jpg)
+![figures/book_dash_mcr_art.jpg](/figures/book_dash_mcr_art.jpg)
 *Art by Matthew Kemp of [Scriberia](http://www.scriberia.co.uk/). Photo credit: Jez Cope*
 
 
