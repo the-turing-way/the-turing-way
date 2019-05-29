@@ -31,6 +31,8 @@ Also as a result of my contributions to the Binder project, I was asked to join 
 
 _Add quotes from Chris, other core Binder members._
 
+![GGorman_quote](/quotes/quote_ggorman.png)
+
 ## Personal Experiences
 
 For me, joining the Turing Way project was a bit of a baptism of fire.
