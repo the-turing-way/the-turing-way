@@ -17,8 +17,8 @@ The Turing Way Hub is a specialised Hub deployed on larger virtual machines to p
 This will support case studies featured in the Turing Way handbook that cannot be run on [mybinder.org](https://mybinder.org) due to computational limitations.
 Any lessons I learned during deployment of these Hubs, I fed back to the Jupyter and Binder teams in the form of documentation and discussion.
 
-I have written and presented workshops on using Binder for research reproducibility and how to deploy BinderHub as a service for Research Software Engineers and IT Services personnel.
-I have also represented The Turing Way and Binder projects by giving talks at the UKRI Cloud Working Group conference, participating in the Software Sustainability Institute's Collaborations Workshop, and leading a hack project to automate BinderHub deployment and the Microsoft Reactor Sprint.
+I have written and presented workshops on using [Binder for research reproducibility](https://bit.ly/zero-to-binder-tutorial) and how to [deploy BinderHub](https://bit.ly/zero-to-binderhub-workshop) as a service for Research Software Engineers and IT Services personnel.
+I have also represented The Turing Way and Binder projects by giving talks at the [UKRI Cloud Working Group](https://github.com/alan-turing-institute/the-turing-way/blob/master/conferences/presentations/UKRI_cloud_2019-02-12/UKRI_cloud_demo_2019-02-12.md) conference, participating in the Software Sustainability Institute's Collaborations Workshop, and leading a hack project to [automate BinderHub deployment](https://github.com/alan-turing-institute/binderhub-deploy) at the [Microsoft Reactor Sprint](https://research-software-reactor.github.io/).
 
 ## Impact
 
