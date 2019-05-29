@@ -73,7 +73,7 @@ Specifically:
 * Acknowledged contributors! :tada:
 * Gorgeous graphics! :heart_eyes:
 
-![figures/book_dash_mcr_art.jpg](/figures/book_dash_mcr_art.jpg)
+![figures/book_dash_mcr_art.jpg](figures/book_dash_mcr_art.jpg)
 *Art by Matthew Kemp of [Scriberia](http://www.scriberia.co.uk/). Photo credit: Jez Cope*
 
 
