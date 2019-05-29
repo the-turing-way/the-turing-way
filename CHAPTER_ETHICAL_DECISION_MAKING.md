@@ -21,27 +21,27 @@ We encourage teams and practitioners to take their ethical responsibilities seri
 
 ## Chapter content
 
-### An End-to-End Approach 
+## An End-to-End Approach 
 Ethical decision making in data science doesn’t start with the data and it’s not a checklist, but rather a process. It starts with a culture of transparency and inclusivity in teams, academic labs, and organizations. 
 
-#### A.Project Selection, Scoping, and Team
+## A.Project Selection, Scoping, and Team
 
-##### A1. Think critically about the problem you are trying to solve or understand. 
+### A1. Think critically about the problem you are trying to solve or understand. 
 Is it a symptom of a systemic issue? Who is causing it and who is affected by it? When did the problem first occur? When did it become significant? Is this a new problem or an old one? How many people are affected by the problem? Who else is working on it? How significant is it? Who is funding you to work on it? The reason for this reflection is that if we are not mindful of a problem’s dynamics as well as power and information asymmetries we might be trying to answer the wrong questions.
 
-##### A2. Think critically about using data science methods at all. 
+### A2. Think critically about using data science methods at all. 
 If you define the problem in terms of possible solutions and methods like data science, you’re closing the door to other, possibly more effective solutions and you might be wasting your time. It is important to recognize when data science is not the solution to the task at hand, when resources are better directed elsewhere or when it can be simply a bad idea in the first place (i.e. facial recognition)
 
-##### A3. Is your team inclusive and/or representative of the population being studied? 
+### A3. Is your team inclusive and/or representative of the population being studied? 
 Does your team include, consider and/or engage with those affected by your work? Data science researchers and practitioners should give voice to the target communities through their projects and engage with their realities. Instead of data extraction, practitioners should care about those and supports people in the responsible collection and use of data.
 
-#### B. Data Collection
+## B. Data Collection
 
-##### B1. What is “Data”?
+### B1. What is “Data”?
 * Data is characterized by volume, variety, and velocity but also veracity. Other scholars have attributed qualities such as exhaustivity (when an entire system is captured, rather than being sampled), fine-grained and uniquely indexical, relationality, extensionality, scalability, variability (data whose meaning can constantly be shifting in relation to the context in which they are generated). 
 * Additionally, not all data is created or even collected equally and data inherit its ontology 62, that is, what is considered as meaningful data depend on the assumptions of those defining the data. All those dimensions, therefore, influence what constitutes data and what goes in for processing.
 
-##### B2. Consider data collection bias
+### B2. Consider data collection bias
 Have you considered:
 * Sources of bias that could be introduced during the data collection process? (Bias can take the form of measurement bias is the selection of data or samples in a way that does not represent the parameters or distribution of the population. It can be social bias, where data sources are based on historically discriminatory decisions and actions by humans or were informed by laws no longer in force.)
 * Potential errors, ommissions, and exclusions? 
@@ -49,11 +49,11 @@ Have you considered:
 * Patterns in the data and whether they are likely to stay static or change over time? 
 * The sampling strategy used to collect the data?
 
-##### B3. Plan your consent mechanisms for processing & sharing data 
+### B3. Plan your consent mechanisms for processing & sharing data 
 * Consent is an ethical requirement for most research projects and must be implemented throughout the research lifecycle. When you seek consent, you have to explain to potential participants exactly what will happen to the data that they provide and they should have a clear understanding of those data uses. For interviews or research where sensitive or confidential data are gathered, the use of written consent forms is recommended over verbal. 
 * There are various special cases that have different implications for data sharing, like working with audiovisual data or working in medical research, internet, and social media, working with administrative data, children and young adults, people with learning disabilities or within the workplace. The UK Data Service provides various useful forms and examples for understanding and obtaining consent such as this model consent form and this example consent form for sharing audio-visual data separately from consent for sharing textual data.
 
-##### B4.  Choose appropriate anonymization techniques and methodologies
+### B4.  Choose appropriate anonymization techniques and methodologies
 * Anonymising research data is best planned early in the research process and should be considered alongside getting informed consent for data sharing or imposing access restrictions. Personal data should never be disclosed from research information, unless a participant has given consent to do so, ideally in writing. Do not collect information not relevant to the analysis. 
 
 * There are various techniques for anonymizing quantitative data and you can find an overview of how and when to use them here: 
