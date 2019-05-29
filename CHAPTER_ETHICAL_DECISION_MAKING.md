@@ -33,7 +33,7 @@ Is it a symptom of a systemic issue? Who is causing it and who is affected by it
 If you define the problem in terms of possible solutions and methods like data science, you’re closing the door to other, possibly more effective solutions and you might be wasting your time. It is important to recognize when data science is not the solution to the task at hand, when resources are better directed elsewhere or when it can be simply a bad idea in the first place (i.e. facial recognition)
 
 ### A3. Is your team inclusive and/or representative of the population being studied? 
-Does your team include, consider and/or engage with those affected by your work? Data science researchers and practitioners should give voice to the target communities through their projects and engage with their realities. Instead of data extraction, practitioners should care about those and supports people in the responsible collection and use of data.
+Does your team include, consider and/or engage with those affected by your work? Data science researchers and practitioners should give voice to the target communities through their projects and engage with their realities. Instead of data extraction, practitioners should care and support people in the responsible collection and use of data.
 
 ## B. Data Collection
 
