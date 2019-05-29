@@ -22,6 +22,7 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 * [Writing in Markdown](#writing-in-markdown)
 * [Where to start: issues](#where-to-start-issues)
 * [Making a change with a pull request](#making-a-change-with-a-pull-request)
+* [Types of contributions can you make](#types-of-contributions-you-can-make)
 * [The process of writing chapters](#the-process-of-writing-chapters)
 * [Style Guide](#style-guide)
 * [Recognising Contributions](#recognising-contributions)
@@ -215,6 +216,24 @@ You can view the log or rerun the checks if you have write access to the repo by
 You can learn more about Travis in the [Continuous Integration chapter](https://the-turing-way.netlify.com/continuous_integration/continuous_integration.html) of the book!
 
 GitHub has a [nice introduction][github-flow] to the pull request workflow, but please [get in touch](#get-in-touch) if you have any questions :balloon:.
+
+## Types of contributions you can make 
+
+* Check out the list of [open issues](https://github.com/alan-turing-institute/the-turing-way/issues) 
+   * The ```good first issue``` label is a good place to start if you are new to contributing to an open project!
+* Proofread [existing chapters](https://the-turing-way.netlify.com) (check for typos, grammar, broken links)
+* Add further information to an existing chapter
+* Suggest topics for new chapters (particularly if you can write them!)
+    * A chapter can be 3 paragraphs in length - what can you write 3 paragraphs on?
+    * What skills or tools do you wish you had been taught at the start of your research career?
+* Review ```[Ready to review]``` [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls)
+* Contribute to discussion in ```[WIP]``` pull requests and issues
+* Submit a case study or your tips and tricks for reproducible research via our [Google submission form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
+* Incorporate case studies into the book
+* Checklists
+* Restructuring the chapter sections (like the [Reproducibility chapter](https://the-turing-way.netlify.com/reproducibility/reproducibility.html))
+* Creative, out of the box ideas!
+* Let us know if you are struggling with contributing in any way so that we can improve our Contributing Guidelines!
 
 
 ## The process of writing chapters
