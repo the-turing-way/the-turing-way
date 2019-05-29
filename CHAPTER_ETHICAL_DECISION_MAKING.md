@@ -29,7 +29,7 @@ Ethical decision making in data science doesn’t start with the data and it’s
 ### A1. Think critically about the problem you are trying to solve or understand. 
 Is it a symptom of a systemic issue? Who is causing it and who is affected by it? When did the problem first occur? When did it become significant? Is this a new problem or an old one? How many people are affected by the problem? Who else is working on it? How significant is it? Who is funding you to work on it? The reason for this reflection is that if we are not mindful of a problem’s dynamics as well as power and information asymmetries we might be trying to answer the wrong questions.
 
-### A2. Think critically about using data science methods at all. 
+### A2. How about not using data science at all? 
 If you define the problem in terms of possible solutions and methods like data science, you’re closing the door to other, possibly more effective solutions and you might be wasting your time. It is important to recognize when data science is not the solution to the task at hand, when resources are better directed elsewhere or when it can be simply a bad idea in the first place (i.e. facial recognition)
 
 ### A3. Is your team inclusive and/or representative of the population being studied? 
