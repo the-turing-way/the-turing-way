@@ -43,6 +43,7 @@ Does your team include, consider and/or engage with those affected by your work?
 
 ### B2. Consider data collection bias
 Have you considered:
+* if the dataset identifies any subpopulations (e.g., by age, gender)?
 * Sources of bias that could be introduced during the data collection process? (Bias can take the form of measurement bias is the selection of data or samples in a way that does not represent the parameters or distribution of the population. It can be social bias, where data sources are based on historically discriminatory decisions and actions by humans or were informed by laws no longer in force.)
 * Potential errors, ommissions, and exclusions? 
 * Whether the data was collected or labeled by humans or an automated system?
@@ -54,7 +55,9 @@ Have you considered:
 * There are various special cases that have different implications for data sharing, like working with audiovisual data or working in medical research, internet, and social media, working with administrative data, children and young adults, people with learning disabilities or within the workplace. The UK Data Service provides various useful forms and examples for understanding and obtaining consent such as this model consent form and this example consent form for sharing audio-visual data separately from consent for sharing textual data.
 
 ### B4.  Choose appropriate anonymization techniques and methodologies
-* Anonymising research data is best planned early in the research process and should be considered alongside getting informed consent for data sharing or imposing access restrictions. Personal data should never be disclosed from research information, unless a participant has given consent to do so, ideally in writing. Do not collect information not relevant to the analysis. 
+* Anonymising research data is best planned early in the research process and should be considered alongside getting informed consent for data sharing or imposing access restrictions. Personal data should never be disclosed from research information, unless a participant has given consent to do so, ideally in writing. Do not collect information not relevant to the analysis.
+* Examine if the dataset contains data that might be considered sensitive (e.g., data that reveals racial or ethnic origins, sexual orientations, religious beliefs, political opinions or union memberships, or locations; financial or health data; biometric or genetic data; forms of government identification, such as social security numbers; criminal
+history)
 
 * There are various techniques for anonymizing quantitative data and you can find an overview of how and when to use them here: 
   * Attribute Suppression: removal of an entire part of data in a dataset.
