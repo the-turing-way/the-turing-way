@@ -6,7 +6,7 @@
 
 ## The participants
 
-![/figures/book_dash_mcr_group.jpg](/figures/book_dash_mcr_group.jpg)  
+![/figures/book_dash_mcr_group.jpg](figures/book_dash_mcr_group.jpg)
 *Back row, left to right: Jez Cope, Will Hulme, Oliver Clark, Jade Pickering, Rosie Higman, Alex Clarke. Middle row, left to right: Clare Liggins, Beth Montague-Hellen, Patricia Herterich, Tania Allard, Kirstie Whitaker, Tarek Allam Jr. Front row, left to right: Matthew Kemp, Greg Kiar, Yo Yehudi, Rosti Readioff, Rachael Ainsworth, Javier Moldon. Photo credit: Jez Cope*
 
 * Rachael Ainsworth [@rainsworth](https://github.com/rainsworth/)
@@ -18,9 +18,9 @@
 * Joe Fennell [@joe-fennell](https://github.com/joe-fennell)
 * Patricia Herterich [@pherterich](https://github.com/pherterich)
 * Rosie Higman [@rosiehigman](https://github.com/rosiehigman)
-* Will Hulme [@wjchulme](https://github.com/wjchulme) 
+* Will Hulme [@wjchulme](https://github.com/wjchulme)
 * Matthew Kemp [Scriberia](http://www.scriberia.co.uk/)
-* Greg Kiar [@gkiar](https://github.com/gkiar) 
+* Greg Kiar [@gkiar](https://github.com/gkiar)
 * Clare Liggins [@ClareLiggins](https://github.com/ClareLiggins)
 * Javier Moldon [@jmoldon](https://github.com/jmoldon)
 * Beth Montague-Hellen [@AlfAWolf140](https://github.com/AlfAWolf140)
@@ -34,10 +34,10 @@
 
 ### What did we do?
 
-Our goal for the book dash was to bring together participants enthusiastic about reproducibility to contribute to and improve *The Turing Way* book during a one day collaborative event. 
-We held a networking event the evening prior to the book dash as a reward and thanks for taking time out to work on the project. 
-We had an icebreaker for participants to get to know each other and lightning talks where we prompted participants to share unique experiences, expertise or promote any projects that they're working on. 
-There was a great diversity of lightning talks which were really fun: 
+Our goal for the book dash was to bring together participants enthusiastic about reproducibility to contribute to and improve *The Turing Way* book during a one day collaborative event.
+We held a networking event the evening prior to the book dash as a reward and thanks for taking time out to work on the project.
+We had an icebreaker for participants to get to know each other and lightning talks where we prompted participants to share unique experiences, expertise or promote any projects that they're working on.
+There was a great diversity of lightning talks which were really fun:
 * Rachael talked about the women in data meetup group that she organises in Manchester: [HER+Data MCR](https://www.meetup.com/HER-Data-MCR/). :woman_technologist:
 * Beth revealed what you can and cannot get away with in roller derby! :women_wrestling:
 * Jez spoke about the tradition of Morris dancing and his experience as a Morris dancer. 🕺
@@ -48,7 +48,7 @@ There was a great diversity of lightning talks which were really fun:
 * Kirstie impressed us with her experiences of dog training. 🐶
 * Joe informed us about a bomb detector made from bees. 🐝
 
-![/figures/book_dash_mcr_dinner.jpg](/figures/book_dash_mcr_dinner.jpg)  
+![/figures/book_dash_mcr_dinner.jpg](/figures/book_dash_mcr_dinner.jpg)
 *Networking dinner in the Jamie's Italian Vault. Photo credit: Jez Cope*
 
 During the dash, we set out to build upon the [Collaborations Workshop Hackday experience](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/collabw19/hackdayreport_20190403.md): we wanted to enhance the first version of *The Turing Way* book and ensure that contributing to the project is as straightforward as possible.
@@ -73,7 +73,7 @@ Specifically:
 * Acknowledged contributors! :tada:
 * Gorgeous graphics! :heart_eyes:
 
-![/figures/book_dash_mcr_art.jpg](/figures/book_dash_mcr_art.jpg)  
+![/figures/book_dash_mcr_art.jpg](/figures/book_dash_mcr_art.jpg)
 *Art by Matthew Kemp of [Scriberia](http://www.scriberia.co.uk/). Photo credit: Jez Cope*
 
 
@@ -81,7 +81,7 @@ Specifically:
 
 * 2 first pull requests!! :bell: :bell:
 * First iterative review experience in a pull request.
-* It would be helpful to have a dedicated table for git/GitHub newbies and introduce them to collaborating through GitHub before diving into contributing to lower the barriers - perhaps have them read and feed back to the [Collaborating on GitHub/GitLab chapter](https://the-turing-way.netlify.com/collaborating_github/collaborating_github.html). 
+* It would be helpful to have a dedicated table for git/GitHub newbies and introduce them to collaborating through GitHub before diving into contributing to lower the barriers - perhaps have them read and feed back to the [Collaborating on GitHub/GitLab chapter](https://the-turing-way.netlify.com/collaborating_github/collaborating_github.html).
 * Bring markdown cheat sheets.
 * When adding participants as collaborators to the project on GitHub, let them know and make sure they are aware of the email they've received and added functionality that comes with it.
 * Add explicit guidance on putting GitHub handles into the intro presentation and trying to make sure this happens in the initial brain storming session to keep track of contributors.
@@ -89,19 +89,19 @@ Specifically:
 
 ## Feedback
 
-At the end of the event, we asked participants to tell us anonymously something that they liked about the book dash and something they would change in an exercise called Pluses and Deltas which were recorded in [this HackMD](https://hackmd.io/9IIQpagHQoOGlwUnY98xQA). 
-The main pluses included that the book dash was a really supportive and inclusive environment, was well-organised, that the icebreaker was brilliant, a great mix of people were involved with different expertise and that the participants really enjoyed having the artist in residence from [Scriberia](http://www.scriberia.co.uk/)! 
+At the end of the event, we asked participants to tell us anonymously something that they liked about the book dash and something they would change in an exercise called Pluses and Deltas which were recorded in [this HackMD](https://hackmd.io/9IIQpagHQoOGlwUnY98xQA).
+The main pluses included that the book dash was a really supportive and inclusive environment, was well-organised, that the icebreaker was brilliant, a great mix of people were involved with different expertise and that the participants really enjoyed having the artist in residence from [Scriberia](http://www.scriberia.co.uk/)!
 Some aspects of the book dash that the participants would change would be to include a friendlier introduction to Git/GitHub, more guidance on what tasks to take up and more time!
-  
+
 ## Impact
 
-Beth Montague-Hellen ([@AlfAWolf140](https://github.com/AlfAWolf140)) wrote a [blog post](https://montaguehellen.wordpress.com/2019/05/20/the-turing-way-and-a-return-to-github/) reflecting on her experience and many participants tweeted using [#TuringWay](https://twitter.com/hashtag/TuringWay)! 
+Beth Montague-Hellen ([@AlfAWolf140](https://github.com/AlfAWolf140)) wrote a [blog post](https://montaguehellen.wordpress.com/2019/05/20/the-turing-way-and-a-return-to-github/) reflecting on her experience and many participants tweeted using [#TuringWay](https://twitter.com/hashtag/TuringWay)!
 
-![https://twitter.com/Jade_Pickering/status/1129327666363064321](/figures/book_dash_mcr_tweet1.png)
-![https://twitter.com/clarepenelope/status/1129379189260525569](/figures/book_dash_mcr_tweet3.png)  
-![https://twitter.com/yoyehudi/status/1129330623942942721](/figures/book_dash_mcr_tweet2.png)
-![https://twitter.com/jezcope/status/1129750950347005953](/figures/book_dash_mcr_tweet5.png)  
-![https://twitter.com/Dr_Rosti/status/1129428912134660096](/figures/book_dash_mcr_tweet4.png)
-![https://twitter.com/tallamjr/status/1129788487409065985](/figures/book_dash_mcr_tweet6.png)  
-![https://twitter.com/PsyTechOli/status/1130082861456007168](/figures/book_dash_mcr_tweet7.png)
-![https://twitter.com/UoMOpenResearch/status/1130788873150369793](/figures/book_dash_mcr_tweet8.png)
+![https://twitter.com/Jade_Pickering/status/1129327666363064321](figures/book_dash_mcr_tweet1.png)
+![https://twitter.com/clarepenelope/status/1129379189260525569](figures/book_dash_mcr_tweet3.png)
+![https://twitter.com/yoyehudi/status/1129330623942942721](figures/book_dash_mcr_tweet2.png)
+![https://twitter.com/jezcope/status/1129750950347005953](figures/book_dash_mcr_tweet5.png)
+![https://twitter.com/Dr_Rosti/status/1129428912134660096](figures/book_dash_mcr_tweet4.png)
+![https://twitter.com/tallamjr/status/1129788487409065985](figures/book_dash_mcr_tweet6.png)
+![https://twitter.com/PsyTechOli/status/1130082861456007168](figures/book_dash_mcr_tweet7.png)
+![https://twitter.com/UoMOpenResearch/status/1130788873150369793](figures/book_dash_mcr_tweet8.png)
