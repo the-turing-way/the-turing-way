@@ -2,7 +2,6 @@
 
 :tada::balloon::cake: **Welcome to the Turing Way repository!** :cake::balloon::tada:
 
-<!-- prettier-ignore -->
 :dizzy::hatched_chick::sunny: _We're so excited you're here and want to contribute._ :sunny::hatched_chick::dizzy:
 
 The point of this guide is to **welcome new users and contributors to the Turing Way community**.
@@ -252,7 +251,33 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 - This division of the pull requests into high and low level changes stops discussion threads becoming unmanagably long.
 - Once this is complete merge the pull request into the alan turing intitute's version of the chapter branch.
 - Merge the alan turing intitute's version of the chapter branch into the alan turing master branch.
-  DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
+- DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
+
+## Local development
+
+You can host the book website locally. The steps are:
+
+1. Install [docker](https://www.docker.com/): see [Reproducible Environments](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Containers_section) for discussion of docker and containers.
+
+2. Make sure you have docker-compose installed: [compose installation instructions](https://docs.docker.com/compose/install/)
+
+3. The website can then be started using:
+
+   ```
+   cd book/website
+   docker-compose up
+   ```
+
+   This will install all ruby requirements and make the site available at `http://0.0.0.0:4000/introduction/introduction`.
+
+   You can refresh your build using:
+
+   ```
+   jupyter-book build .
+   ```
+
+
+
 
 ## Style Guide
 
