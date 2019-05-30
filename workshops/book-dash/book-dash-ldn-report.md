@@ -89,12 +89,17 @@ Specifically:
 ## What did we learn?
 
 * 2 first pull requests!! :bell: :bell:
-* First iterative review experience in a pull request.
-* It would be helpful to have a dedicated table for git/GitHub newbies and introduce them to collaborating through GitHub before diving into contributing to lower the barriers - perhaps have them read and feed back to the [Collaborating on GitHub/GitLab chapter](https://the-turing-way.netlify.com/collaborating_github/collaborating_github.html).
-* Bring markdown cheat sheets.
-* When adding participants as collaborators to the project on GitHub, let them know and make sure they are aware of the email they've received and added functionality that comes with it.
-* Add explicit guidance on putting GitHub handles into the intro presentation and trying to make sure this happens in the initial brain storming session to keep track of contributors.
-
+* Two underscores in file names break Travis/something with the CI and prevent you merging.
+* Learned how to make a pull request, discovered an online resource for hosting large datasets (Dataverse).
+* How to use travis for continuous integration and how to use GitHub better for doing a big collaborative project.
+* Create a `book-dash` branch that people can merge their PRs into. This could skip the requirement for CI in the short term, and then we could merge that branch to master at the end of the day.
+  * So a suggested work flow could be:
+    * Fork and make changes
+    * Open PR to `book-dash` branch
+    * Review (interate)
+    * Approve (no CI needed)
+  * At the end of the day, merge the `book-dash` branch to master if all tests pass.
+* Emphasise style guide in introduction in addition to all the available templates (issue, PR, chapter).
 
 ## Feedback
 
