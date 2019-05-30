@@ -2,6 +2,7 @@
 
 :tada::balloon::cake: **Welcome to the Turing Way repository!** :cake::balloon::tada:
 
+<!-- prettier-ignore -->
 :dizzy::hatched_chick::sunny: _We're so excited you're here and want to contribute._ :sunny::hatched_chick::dizzy:
 
 The point of this guide is to **welcome new users and contributors to the Turing Way community**.
