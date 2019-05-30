@@ -216,7 +216,6 @@ You can learn more about Travis in the [Continuous Integration chapter](https://
 
 GitHub has a [nice introduction][github-flow] to the pull request workflow, but please [get in touch](#get-in-touch) if you have any questions :balloon:.
 
-
 ## The process of writing chapters
 
 - Fork the repository form the alan turing version if you have not done so already.
@@ -243,9 +242,35 @@ Note the link and (if available) license of the source.
 - Merge the alan turing intitute's version of the chapter branch into the alan turing master branch.
 DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
 
+## Local development
+
+You can host the book website locally. The steps are:
+
+1. Install [docker](https://www.docker.com/): see [Reproducible Environments](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Containers_section) for discussion of docker and containers.
+
+2. Make sure you have docker-compose installed: [compose installation instructions](https://docs.docker.com/compose/install/)
+
+3. The website can then be started using:
+
+   ```
+   cd book/website
+   docker-compose up
+   ```
+
+   This will install all ruby requirements and make the site available at `http://0.0.0.0:4000/introduction/introduction`.
+
+   You can refresh your build using:
+
+   ```
+   jupyter-book build .
+   ```
+
+
+
 
 ## Style Guide
 ### Writing style
+
 To ensure all text can be read easily by all (including screen readers and non-native english speakers), follow Gov.uk guidance on e.g., i.e., and etc. (1)
 That is, do not use them:
 
@@ -350,7 +375,6 @@ Simply close the pull request and delete the branch (```all-contributors/add-<us
 If you are unable to do this for any reason, please let us know in the [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) or by opening an issue, and a Turing Way team member will be very happy to help!
 
 Finally, don't forget to add yourself to the list of contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md)!
-
 
 ---
 *These Contributing Guidelines have been adapted from the [Contributing Guidelines](https://github.com/bids-standard/bids-starter-kit/blob/master/CONTRIBUTING.md) of the [BIDS Starter Kit](https://github.com/bids-standard/bids-starter-kit)! (License: CC-BY)*
