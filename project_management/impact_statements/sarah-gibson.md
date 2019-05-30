@@ -4,7 +4,7 @@ Sarah Gibson
 
 # Draft: The Turing Way Impact Statement
 
-Wednesday 29th May 2019
+Thursday 30th May 2019
 
 ## Summary
 
