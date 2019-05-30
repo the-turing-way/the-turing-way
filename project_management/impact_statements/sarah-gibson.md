@@ -40,8 +40,9 @@ _Add quotes from Chris, other core Binder members._
 
 For me, joining the Turing Way project was a bit of a baptism of fire.
 I had never worked in a large, community-driven project before and the technology and skills required for the BinderHub were unlike anything I had used before.
-I am proud that I was able to deploy multiple BinderHubs over the course of the project and was invited to join the Binder operators team as a result of my contributions.
+I am proud that I was able to leanr the required skills and tools, deploy multiple BinderHubs and engage in the community over the relatively short course of the project.
+My hard work was rewarded by the invitation to join the Binder operator team.
 
 Some of the most positive experiences from The Turing Way were seeing the reputation and interest around the Binder project, and more generally the concept of reproducibility, grow amongst fellow RSEs and researchers.
-Also working collaboratively on a project (for example, the auto-deployment of BinderHub at Microsoft Reactor Sprint) was a much more exciting and positive experience of research and community than I had during my PhD.
+Working collaboratively on a project (for example, the auto-deployment of BinderHub at Microsoft Reactor Sprint) was a much more exciting and positive experience of research and community than I had during my PhD.
 I hope to transfer these aspects into future projects I pursue.
