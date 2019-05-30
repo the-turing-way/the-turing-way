@@ -101,10 +101,10 @@ Some aspects of the book dash that the participants would change would be to inc
 Many participants tweeted using [#TuringWay](https://twitter.com/hashtag/TuringWay)!
 
 ![https://twitter.com/StatalieT/status/1133314251534282753](figures/book_dash_ldn_tweet1.png)
+![https://twitter.com/cassgvp/status/1133443808476225536](figures/book_dash_ldn_tweet5.png)  
 ![https://twitter.com/SusannaASansone/status/1133391138856026115](figures/book_dash_ldn_tweet2.png)
-![https://twitter.com/Nadia_Soliman_/status/1133407117782781952](figures/book_dash_ldn_tweet3.png)
+![https://twitter.com/Nadia_Soliman_/status/1133407117782781952](figures/book_dash_ldn_tweet3.png)  
 ![https://twitter.com/CamilaRangelS/status/1133412530456539136](figures/book_dash_ldn_tweet4.png)
-![https://twitter.com/cassgvp/status/1133443808476225536](figures/book_dash_ldn_tweet5.png)
-![https://twitter.com/masonlr_/status/1133491797907464193](figures/book_dash_ldn_tweet6.png)
+![https://twitter.com/masonlr_/status/1133491797907464193](figures/book_dash_ldn_tweet6.png)  
 ![https://twitter.com/choldgraf/status/1133511977760727041](figures/book_dash_ldn_tweet7.png)
 ![https://twitter.com/turinghut23/status/1133671575721529344](figures/book_dash_ldn_tweet8.png)
