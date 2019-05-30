@@ -54,30 +54,36 @@ There was a great diversity of lightning talks which were really fun:
 ![/figures/book_dash_ldn_dinner.jpg](figures/book_dash_ldn_dinner.jpg)
 *Networking dinner at Merago hotel.*
 
-During the dash, we set out to build upon the [Collaborations Workshop Hackday experience](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/collabw19/hackdayreport_20190403.md): we wanted to enhance the first version of *The Turing Way* book and ensure that contributing to the project is as straightforward as possible.
+During the dash, we set out to build upon the [Manchester Book Dash](book-dash-mcr-report.md) experience: we wanted to enhance the first version of *The Turing Way* book and ensure that contributing to the project is as straightforward as possible.
 We had a mixture of contributions including curating and editing existing content, expanding existing content and writing entirely new content.
 Specifically:
-* 38 new [issues and pull requests](https://github.com/alan-turing-institute/the-turing-way/labels/book-dash-mcr)! (13 issues, 25 pull requests tagged with ```book-dash-mcr```)
+* 56 new [issues and pull requests](https://github.com/alan-turing-institute/the-turing-way/labels/book-dash-ldn)! (29 issues, 26 pull requests tagged with ```book-dash-ldn```)
 * Many of the pull requests have been reviewed, approved and published already, and issues closed!
 * Proofreading and editing of existing chapters.
 * Further information added to existing chapters.
-  * Editing Version control chapter to aid understanding for novice users ([Pull request #500](https://github.com/alan-turing-institute/the-turing-way/pull/500))
-  * Generalising the version control chapter so that it includes more background rather than just focusing on git
-  * Added a Patient and Public Involvement section under the "Open Scholarship" header ([Issue #497](https://github.com/alan-turing-institute/the-turing-way/issues/497), [Pull request #510](https://github.com/alan-turing-institute/the-turing-way/pull/510))
-  * Added content on data organisation in spreadsheets to the RDM chapter, ([Issue #481](https://github.com/alan-turing-institute/the-turing-way/issues/481), [Pull request #499](https://github.com/alan-turing-institute/the-turing-way/pull/499))
+  * Updated the Reproducibility Chapter with new sections ([Issue #596](https://github.com/alan-turing-institute/the-turing-way/issues/596), [Pull request #612](https://github.com/alan-turing-institute/the-turing-way/pull/612))
+  * Added Singularity section to Reproducible Environments chapter ([Issue #607](https://github.com/alan-turing-institute/the-turing-way/issues/607), [Pull request #608](https://github.com/alan-turing-institute/the-turing-way/pull/608))
+  * Extended section on FAIR and included personal journey to FAIR ([Issue #555](https://github.com/alan-turing-institute/the-turing-way/issues/555), [Issue #586](https://github.com/alan-turing-institute/the-turing-way/issues/586), [Pull request #568](https://github.com/alan-turing-institute/the-turing-way/pull/568))
 * New chapters on:
-  * Reproducible data analysis pipelines for machine learning ([Issue #483](https://github.com/alan-turing-institute/the-turing-way/issues/483), [Pull request #477](https://github.com/alan-turing-institute/the-turing-way/pull/477), looking for reviewers)
-  * Credit for reproducible research ([Pull request #485](https://github.com/alan-turing-institute/the-turing-way/pull/485), looking for reviewers)
-  * Code styling for reproducibility ([Issue #124](https://github.com/alan-turing-institute/the-turing-way/issues/124), [Pull request #498](https://github.com/alan-turing-institute/the-turing-way/pull/498))
+  * BinderHub ([Issue #426](https://github.com/alan-turing-institute/the-turing-way/issues/426), [Pull request #557](https://github.com/alan-turing-institute/the-turing-way/pull/557))
+  * Ethical Decision Making ([Issue #552](https://github.com/alan-turing-institute/the-turing-way/issues/552))
+     * Sub-chapter on Research Planning ([Pull request #610](https://github.com/alan-turing-institute/the-turing-way/pull/610))
+  * Outreach and Communicating Results to Others ([Issue #553](https://github.com/alan-turing-institute/the-turing-way/issues/553), [Pull request #561](https://github.com/alan-turing-institute/the-turing-way/pull/561))
+  * Very Large Datasets (and high-level intro to data provenance) ([Issue #558](https://github.com/alan-turing-institute/the-turing-way/issues/558), [Pull request #585](https://github.com/alan-turing-institute/the-turing-way/pull/585))
+  * Glossary ([Issue #598](https://github.com/alan-turing-institute/the-turing-way/issues/598))
+  * IDEs, Editors, and Notebooks ([Issue #617](https://github.com/alan-turing-institute/the-turing-way/issues/617), [Pull request #619](https://github.com/alan-turing-institute/the-turing-way/pull/619)
 * Reviewed pull requests.
 * Restructuring of the chapter sections.
-* A pull request to Jupyter Book: [Adding search button on Jupyter Book](https://github.com/jupyter/jupyter-book/pull/196)
-* Improved the ease of contributing to the project through enhanced pull request/issue templates, organisation of the repo, search functionality and continuous integration within the book.
+* A Docker compose file to be able to host the build locally ([Issue #590](https://github.com/alan-turing-institute/the-turing-way/issues/590), [Pull request #592](https://github.com/alan-turing-institute/the-turing-way/pull/592))
+* A [Hackathon Contribution Live Tracker](https://alexmorley-watch-turing-way.glitch.me)! ([Issue #595](https://github.com/alan-turing-institute/the-turing-way/issues/595))
+* Collected "Reproducibility Challenges" in the [HackMD](http://bit.ly/book-dash-ldn)
+* Improved the ease of contributing to the project through updating contributing guidelines, README, organisation of the repo, referencing ([issues/519](https://github.com/alan-turing-institute/the-turing-way/issues/519)), Governance section ([Pull request #384](https://github.com/alan-turing-institute/the-turing-way/pull/384)), standardising tasks and continuous integration updates within the project.
+* Got the Turing Way repo onto Zenodo with versioned DOIs after lots of time thinking about authorship and credit guidelines: https://zenodo.org/record/3233986
 * Acknowledged contributors! :tada:
 * Gorgeous graphics! :heart_eyes:
 
-![figures/book_dash_mcr_art.jpg](figures/book_dash_mcr_art.jpg)
-*Art by Matthew Kemp of [Scriberia](http://www.scriberia.co.uk/). Photo credit: Jez Cope*
+![figures/book_dash_ldn_art.jpg](figures/book_dash_ldn_art.jpg)
+*Art by Matthew Kemp of [Scriberia](http://www.scriberia.co.uk/).*
 
 
 ## What did we learn?
