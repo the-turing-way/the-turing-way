@@ -28,7 +28,7 @@ This project is openly developed and any and all questions, comments and recomme
 
 This is the (part of) the project team planning work at the Turing Institute. For more on how to contact us, see the [ways of working document](ways_of_working.md).
 
-![Team photo](/figures/TuringWayTeam.jpg)
+![Team photo](book/content/figures/TuringWayTeam.jpg)
 
 
 ### Contributing 
