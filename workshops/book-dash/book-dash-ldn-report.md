@@ -99,13 +99,14 @@ Specifically:
     * Review (interate)
     * Approve (no CI needed)
   * At the end of the day, merge the `book-dash` branch to master if all tests pass.
-* Emphasise style guide in introduction in addition to all the available templates (issue, PR, chapter).
+* Emphasise style guide in introduction in addition to all the available templates (issue, pull request, chapter).
 
 ## Feedback
 
-At the end of the event, we asked participants to tell us anonymously something that they liked about the book dash and something they would change in an exercise called Pluses and Deltas which were recorded in [this HackMD](https://hackmd.io/9IIQpagHQoOGlwUnY98xQA).
-The main pluses included that the book dash was a really supportive and inclusive environment, was well-organised, that the icebreaker was brilliant, a great mix of people were involved with different expertise and that the participants really enjoyed having the artist in residence from [Scriberia](http://www.scriberia.co.uk/)!
-Some aspects of the book dash that the participants would change would be to include a friendlier introduction to Git/GitHub, more guidance on what tasks to take up and more time!
+At the end of the event, we asked participants to tell us anonymously something that they liked about the book dash and something they would change in an exercise called Pluses and Deltas which were recorded in [this HackMD](https://hackmd.io/qQ8ZjlaYT0qdVIEGzGZjjQ).
+The main pluses included that it was a great opportunity to be able to ask questions and learn new things, it was a very friendly and collaborative atmosphere where everyone's contributions were really celebrated, it was inspiring to see how much a team of people working together can achieve in such a short day, and the [Scriberia](http://www.scriberia.co.uk/) illustrations!
+Some aspects of the book dash that the participants would change included that the build process for a book on reproducibility is surprisingly difficult, that the Travis-CI lag was a bit annoying since it takes forever to actually merge a pull request, better orgainization of the "how-tos" in advance with a suggestion to add a script that automatically sets up a new chapter and updates all the necessary files, and to have more time!
+
 
 ## Impact
 
