@@ -15,21 +15,19 @@ If you have any questions that aren't discussed below, please let us know throug
 
 Been here before? Already know what you're looking for in this guide? Jump to the following sections:
 
-- [Contributing to the Turing Way](#contributing-to-the-turing-way)
+- [Joining the community](#joining-the-community)
+- [Inclusivity](#inclusivity)
+- [Get in touch](#get-in-touch)
+- [Contributing through GitHub](#contributing-through-github)
+- [Writing in Markdown](#writing-in-markdown)
+- [Where to start: issues](#where-to-start-issues)
+  - [Issue labels](#issue-labels)
+- [Making a change with a pull request](#making-a-change-with-a-pull-request)
 
-  - [Table of contents](#table-of-contents)
-  - [Joining the community](#joining-the-community)
-  - [Inclusivity](#inclusivity)
-  - [Get in touch](#get-in-touch)
-  - [Contributing through GitHub](#contributing-through-github)
-  - [Writing in Markdown](#writing-in-markdown)
-  - [Where to start: issues](#where-to-start-issues)
-    - [Issue labels](#issue-labels)
-  - [Making a change with a pull request](#making-a-change-with-a-pull-request)
-    - [1. Comment on an existing issue or open a new issue referencing your addition](#1-comment-on-an-existing-issue-or-open-a-new-issue-referencing-your-addition)
-    - [2. Fork the Turing Way repository to your profile](#2-forkgithub-fork-the-turing-way-repositoryturing-way-repo-to-your-profile)
-    - [3. Make the changes you've discussed](#3-make-the-changes-youve-discussed)
-    - [4. Submit a pull request](#4-submit-a-pull-requestgithub-pullrequest)
+  - [1. Comment on an existing issue or open a new issue referencing your addition](#1-comment-on-an-existing-issue-or-open-a-new-issue-referencing-your-addition)
+  - [2. Fork the Turing Way repository to your profile](#2-forkgithub-fork-the-turing-way-repositoryturing-way-repo-to-your-profile)
+  - [3. Make the changes you've discussed](#3-make-the-changes-youve-discussed)
+  - [4. Submit a pull request](#4-submit-a-pull-requestgithub-pullrequest)
 
 - [The process of writing chapters](#the-process-of-writing-chapters)
 - [Style Guide](#style-guide)
