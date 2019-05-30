@@ -21,24 +21,9 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 - [Contributing through GitHub](#contributing-through-github)
 - [Writing in Markdown](#writing-in-markdown)
 - [Where to start: issues](#where-to-start-issues)
-  - [Issue labels](#issue-labels)
 - [Making a change with a pull request](#making-a-change-with-a-pull-request)
-
-  - [1. Comment on an existing issue or open a new issue referencing your addition](#1-comment-on-an-existing-issue-or-open-a-new-issue-referencing-your-addition)
-  - [2. Fork the Turing Way repository to your profile](#2-forkgithub-fork-the-turing-way-repositoryturing-way-repo-to-your-profile)
-  - [3. Make the changes you've discussed](#3-make-the-changes-youve-discussed)
-  - [4. Submit a pull request](#4-submit-a-pull-requestgithub-pullrequest)
-
 - [The process of writing chapters](#the-process-of-writing-chapters)
 - [Style Guide](#style-guide)
-  - [Writing style](#writing-style)
-  - [Sentences](#sentences)
-  - [Opinions](#opinions)
-  - [Figures](#figures)
-  - [Referencing and Citing](#referencing-and-citing)
-    - [Adding a new reference](#adding-a-new-reference)
-    - [Citation key style guide](#citation-key-style-guide)
-  - [Adding links between pages within the book](#adding-links-between-pages-within-the-book)
 - [Recognising Contributions](#recognising-contributions)
 
 ## Joining the community
