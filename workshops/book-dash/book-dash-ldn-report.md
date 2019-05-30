@@ -8,7 +8,7 @@
 ## The participants
 
 ![/figures/book_dash_ldn_group.jpg](figures/book_dash_ldn_group.jpg)
-*Back row, left to right: ... Middle row, left to right: ... Front row, left to right: ... Photo credit:*
+*Back row, left to right: Matthew Kemp, Eric Daub, Michael Grayling, Oscar Giles, Lachlan Mason, Kevin Kunzmann, Nadia Soliman. Middle row, left to right: Kirstie Whitaker, Malvika Sharan, Camila Rangel Smith, Danbee Kim, Rosie Higman, Susanna-Assunta Sansone, Sarah Gibson, Natalei Thurlby. Front row, left to right: Rachael Ainsworth, Patricia Herterich, Cassandra Gould van Praag, Alexander Morley.*
 
 * Rachael Ainsworth [@rainsworth](https://github.com/rainsworth/)
 * Eric Daub [@edaub](https://github.com/edaub)
@@ -52,7 +52,7 @@ There was a great diversity of lightning talks which were really fun:
 
 
 ![/figures/book_dash_ldn_dinner.jpg](figures/book_dash_ldn_dinner.jpg)
-*Networking dinner at ... Photo credit:*
+*Networking dinner at Merago hotel.*
 
 During the dash, we set out to build upon the [Collaborations Workshop Hackday experience](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/collabw19/hackdayreport_20190403.md): we wanted to enhance the first version of *The Turing Way* book and ensure that contributing to the project is as straightforward as possible.
 We had a mixture of contributions including curating and editing existing content, expanding existing content and writing entirely new content.
@@ -98,13 +98,13 @@ Some aspects of the book dash that the participants would change would be to inc
 
 ## Impact
 
-Beth Montague-Hellen ([@AlfAWolf140](https://github.com/AlfAWolf140)) wrote a [blog post](https://montaguehellen.wordpress.com/2019/05/20/the-turing-way-and-a-return-to-github/) reflecting on her experience and many participants tweeted using [#TuringWay](https://twitter.com/hashtag/TuringWay)!
+Many participants tweeted using [#TuringWay](https://twitter.com/hashtag/TuringWay)!
 
-![https://twitter.com/Jade_Pickering/status/1129327666363064321](figures/book_dash_mcr_tweet1.png)
-![https://twitter.com/clarepenelope/status/1129379189260525569](figures/book_dash_mcr_tweet3.png)
-![https://twitter.com/yoyehudi/status/1129330623942942721](figures/book_dash_mcr_tweet2.png)
-![https://twitter.com/jezcope/status/1129750950347005953](figures/book_dash_mcr_tweet5.png)
-![https://twitter.com/Dr_Rosti/status/1129428912134660096](figures/book_dash_mcr_tweet4.png)
-![https://twitter.com/tallamjr/status/1129788487409065985](figures/book_dash_mcr_tweet6.png)
-![https://twitter.com/PsyTechOli/status/1130082861456007168](figures/book_dash_mcr_tweet7.png)
-![https://twitter.com/UoMOpenResearch/status/1130788873150369793](figures/book_dash_mcr_tweet8.png)
+![https://twitter.com/StatalieT/status/1133314251534282753](figures/book_dash_ldn_tweet1.png)
+![https://twitter.com/SusannaASansone/status/1133391138856026115](figures/book_dash_ldn_tweet2.png)
+![https://twitter.com/Nadia_Soliman_/status/1133407117782781952](figures/book_dash_ldn_tweet3.png)
+![https://twitter.com/CamilaRangelS/status/1133412530456539136](figures/book_dash_ldn_tweet4.png)
+![https://twitter.com/cassgvp/status/1133443808476225536](figures/book_dash_ldn_tweet5.png)
+![https://twitter.com/masonlr_/status/1133491797907464193](figures/book_dash_ldn_tweet6.png)
+![https://twitter.com/choldgraf/status/1133511977760727041](figures/book_dash_ldn_tweet7.png)
+![https://twitter.com/turinghut23/status/1133671575721529344](figures/book_dash_ldn_tweet8.png)
