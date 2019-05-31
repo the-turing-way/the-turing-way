@@ -53,7 +53,7 @@ The team has been spreading the word about the Turing Way project through variou
 * Kirstie Whitaker will present *The Turing Way* at [Future-proofing your research: Moving Towards Open & Reproducible Research](https://www.eventbrite.co.uk/e/future-proofing-your-research-moving-towards-open-reproducible-research-tickets-60575376582?aff=eac2) at Lancaster University on 4 June 2019.
 * Rosie Higman will present on the Turing Way at the [NOWAL Research Support meeting](https://www.nowal.ac.uk/research-support-open-research-exchange-experience-university-manchester) in Manchester on 13 June 2019.
 * Kirstie will re-run a shortened version of our March ["Boost your reproducibilty with Binder" workshop](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder) at [Carpentry Connect](https://www.software.ac.uk/ccmcr19/programme) in Manchester on 26 June 2019.
-* Turing Way team member Anna Krystalli will run a ReproHack, a one day hackathon that will attempt to reproduce results in published papers.
+* Turing Way team member Anna Krystalli will run a ReproHack at [Carpentry Connect](https://www.software.ac.uk/ccmcr19/programme) in Manchester on 27 June 2019, a one day hackathon that will attempt to reproduce results in published papers.
 * Rosie Higman and Patricia Herterich will present the Turing Way at [the 48th LIBER Annual Conference](https://liberconference.eu/schedule/) in Dublin on 26 June 2019.
 * Sarah Gibson will re-run a shortened version of our March "Build a BinderHub" workshop at the [RSEConf 2019](https://rse.ac.uk/conf2019/) in Birmingham 17 - 19 September 2019.
 
