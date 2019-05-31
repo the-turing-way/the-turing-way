@@ -63,8 +63,8 @@
   url: collaborating_github/collaborating_github
 - title: Research Data Management
   url: rdm/rdm
-- title: IDEs, editors, and notebooks
-  url: IDEs_editors_notebooks/IDEs_editors_notebooks
+#- title: IDEs, editors, and notebooks
+#  url: IDEs_editors_notebooks/IDEs_editors_notebooks
 - title: Reproducible Environments
   url: reproducible_environments/reproducible_environments
 - title: Testing
