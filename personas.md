@@ -2,7 +2,7 @@
 
 Personas are character sketches of fictional contributors and users who might do something with the Turing Way.
 Following the [Mozilla Open Leadership training](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/), we created personas for contributors to the Turing Way based on participants in past trainings and events, and have created personas for users based on our target audiences.
-This will help us in our development of the Turing Way community such as through the Readme and Contributing Guidelines.
+This will help us in our development of the Turing Way community such as through the [README](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) and [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).
 
 We have also imagined how our personas might interact with our project – the "pathway" they take to get involved and to sustain involvement which comprises a few key phases:
 
