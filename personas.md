@@ -123,4 +123,5 @@ They are confident that their research has taught them some particular considera
 
 ---
 
-We have created these personas and pathways for contributors and users to guide the development of the Turing Way following [Mozilla Open Leadership training](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/). This personas.md file has remixed and reused material from the [Open Leadership Framework GitHub repository](https://github.com/mozilla/open-leadership-framework/blob/master/personas.md) (License: [CC-BY-SA](https://creativecommons.org/licenses/by/4.0/)).
+We have created these personas and pathways for contributors and users to guide the development of the Turing Way following [Mozilla Open Leadership training](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/).
+This personas.md file has remixed and reused material from the [Open Leadership Framework GitHub repository](https://github.com/mozilla/open-leadership-framework/blob/master/personas.md) (License: [CC-BY-SA](https://creativecommons.org/licenses/by/4.0/)).
