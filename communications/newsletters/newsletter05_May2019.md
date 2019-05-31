@@ -7,7 +7,7 @@ it's been quiet here for a while as we've been so busy running book dashes that 
 ## GitHub repository update
 After we announced in our last newsletter that we split off the handbook in a separate GitHub repository to the main project repository, we decided to move the book back into the main Turing Way repository. 
 We realized that there wasn't a technical reason for having the book in a separate repository and splitting discussions across two repositories is rather confusing. 
-Thus, you can find everything at https://github.com/alan-turing-institute/the-turing-way
+Thus, you can find everything at https://github.com/alan-turing-institute/the-turing-way and we have now also preserved various releases of the handbook [on zenodo](https://doi.org/10.5281/zenodo.3233853).
 
 ## Book dashes 
 
