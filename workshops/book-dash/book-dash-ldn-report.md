@@ -1,7 +1,7 @@
 # The Turing Way | Book Dash - London
 
 
-* Intro to Book Dash MCR slides: https://zenodo.org/record/3233655
+* Intro to Book Dash MCR slides: https://doi.org/10.5281/zenodo.3233654
 * HackMD: http://bit.ly/book-dash-ldn
 * Pluses and deltas: https://hackmd.io/qQ8ZjlaYT0qdVIEGzGZjjQ
 
@@ -52,7 +52,7 @@ There was a great diversity of lightning talks which were really fun:
 
 
 ![/figures/book_dash_ldn_dinner.jpg](figures/book_dash_ldn_dinner.jpg)
-*Networking dinner at Merago hotel.*
+*Networking dinner at Megaro hotel.*
 
 During the dash, we set out to build upon the [Manchester Book Dash](book-dash-mcr-report.md) experience: we wanted to enhance the first version of *The Turing Way* book and ensure that contributing to the project is as straightforward as possible.
 We had a mixture of contributions including curating and editing existing content, expanding existing content and writing entirely new content.
@@ -71,7 +71,7 @@ Specifically:
   * Outreach and Communicating Results to Others ([Issue #553](https://github.com/alan-turing-institute/the-turing-way/issues/553), [Pull request #561](https://github.com/alan-turing-institute/the-turing-way/pull/561))
   * Very Large Datasets (and high-level intro to data provenance) ([Issue #558](https://github.com/alan-turing-institute/the-turing-way/issues/558), [Pull request #585](https://github.com/alan-turing-institute/the-turing-way/pull/585))
   * Glossary ([Issue #598](https://github.com/alan-turing-institute/the-turing-way/issues/598))
-  * IDEs, Editors, and Notebooks ([Issue #617](https://github.com/alan-turing-institute/the-turing-way/issues/617), [Pull request #619](https://github.com/alan-turing-institute/the-turing-way/pull/619)
+  * IDEs, Editors, and Notebooks ([Issue #617](https://github.com/alan-turing-institute/the-turing-way/issues/617), [Pull request #619](https://github.com/alan-turing-institute/the-turing-way/pull/619))
 * Reviewed pull requests.
 * Restructuring of the chapter sections.
 * A Docker compose file to be able to host the build locally ([Issue #590](https://github.com/alan-turing-institute/the-turing-way/issues/590), [Pull request #592](https://github.com/alan-turing-institute/the-turing-way/pull/592))
