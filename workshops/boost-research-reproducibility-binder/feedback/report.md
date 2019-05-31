@@ -17,7 +17,18 @@ Some selected comments are included below:
 * "I liked the format (a bit of introduction and background story and then half a day of hands-on coding) as well as the content: well-thought and very relevant. Presenters and helpers were all brilliant and extremely approachable."
 * "Good structure. Initial examples were useful and interesting, and very conveniently prepared with clear instructions. Overall, very good attention to detail in making things easy and streamlined for participants."
 
-> Do we want to dig out some tweets?
+Participants also tweeted using the [#TuringWay](https://twitter.com/search?q=%23TuringWay) hashtag:
+
+![https://twitter.com/Jade_Pickering/status/1101477313814908929](../figures/binder_man_tweet1.png)
+![https://twitter.com/rgaiacs/status/1101491101926604801](../figures/binder_man_tweet2.png)
+
+![https://twitter.com/BioStew/status/1105465193860083713](../figures/binder_ldn_tweet1.png)
+![https://twitter.com/jezcope/status/1105469883435966465](../figures/binder_ldn_tweet2.png)
+
+![https://twitter.com/Gummifot/status/1105502749494599680](../figures/binder_ldn_tweet3.png)
+![https://twitter.com/MoseGiordano/status/1105543912255614979](../figures/binder_ldn_tweet4.png)
+
+![https://twitter.com/tallamjr/status/1105835634684502016](../figures/binder_ldn_tweet5.png)
 
 ## Areas for improvement
 
