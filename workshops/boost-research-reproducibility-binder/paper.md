@@ -112,5 +112,3 @@ This work was supported by The UKRI Strategic Priorities Fund under the EPSRC Gr
 
 
 # References
-
-Jupyter et al., "Binder 2.0 - Reproducible, Interactive, Sharable Environments for Science at Scale." Proceedings of the 17th Python in Science Conference. 2018. 10.25080/Majora-4af1f417-011
