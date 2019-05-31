@@ -92,8 +92,7 @@ Funders and publishers are beginning to require that publications include access
 The goal is to ensure that all results can be independently verified and built upon in future work, which is sometimes easier said than done. 
 Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. 
 
-*[The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)* is a project [funded](https://www.turing.ac.uk/news/alan-turing-institute-spearhead-new-cutting-edge-data-science-and-artificial-intelligence) as part of UKRI’s Strategic Priorities fund. 
-It is an open source handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do". 
+*The Turing Way: A Handbook for Reproducible Data Science* [@the_turing_way_community_2019_3233986] is an open source handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do". 
 The goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end. 
 The [handbook](https://the-turing-way.netlify.com) currently includes chapters and training material on reproducibility, open research, version control, collaborating on GitHub/GitLab, research data management, reproducible environments, analysis testing, reviewing, continuous integration, reproducible research with Make and risk assessment. 
 Further chapters in development include coding style for reproducibility, credit for reproducible research and reproducible data analysis pipelines for machine learning, and will build upon Alan Turing Institute case studies. 
@@ -106,6 +105,10 @@ It is also a tool that requires some investment to master.
 The *Boost your research reproducibility with Binder* workshops were conducted to increase the number of people publishing their data analyses using this tool which enables others to access, edit, re-run and re-use that content. 
 Preparing and delivering these workshops also enabled the *Turing Way* project to feedback directly to the open source Binder project. 
 It also had the immediate impact that one of the participants has already incorporated using Binder in their teaching, and contributed their slides on using Binder for fully reproducible research in R as an alternative to the Python-focused workshop.
+
+# Acknowledgements
+
+This work was supported by The UKRI Strategic Priorities Fund under the EPSRC Grant EP/T001569/1, particularly the "Tools, Practices and Systems" theme within that grant, and by The Alan Turing Institute under the EPSRC grant EP/N510129/1.
 
 
 # References
