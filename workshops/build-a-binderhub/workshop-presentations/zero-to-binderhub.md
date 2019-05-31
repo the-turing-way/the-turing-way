@@ -4,9 +4,7 @@ Sarah Gibson, _The Alan Turing Institute_
 
 [**The Turing Way**](https://github.com/alan-turing-institute/the-turing-way) - making reproducible data science _too easy not to do_!
 
-These steps will walk you through deploying a BinderHub on Microsoft Azure.
-It will be publicly available like [mybinder.org](https://mybinder.org).
-To follow along with these instructions, go to this link: [**bit.ly/zero-to-binderhub-workshop**](http://bit.ly/zero-to-binderhub-workshop)
+Link to this page: [**bit.ly/zero-to-binderhub-workshop**](http://bit.ly/zero-to-binderhub-workshop)
 
 **BinderHub Documentation:**
 * [Step Zero: Setting up a Kubernetes Cluster](https://zero-to-jupyterhub.readthedocs.io/en/latest/create-k8s-cluster.html)
@@ -16,27 +14,81 @@ To follow along with these instructions, go to this link: [**bit.ly/zero-to-bind
 
 ## Table of Contents
 
+**General information:**
+* [What is BinderHub?](#what-is-binderhub)
+* [Why build your own BinderHub?](#why-build-your-own-binderhub)
+* [What does BinderHub require?](#what-does-binderhub-require)
+
+**Computational requirements:**
 * [Cloud Resource Requirements](#cloud-resource-requirements)
 * [Container Registry](#container-registry)
 * [Installation Requirements](#installation-requirements)
 * [A Note on Secret Files](#a-note-on-secret-files)
+
+**Building a BinderHub:**
 * [Setup Local Files](#setup-local-files)
 * [Deploying a Kubernetes Cluster on Azure](#deploying-a-kubernetes-cluster-on-azure)
 * [Setting up Helm](#setting-up-helm)
 * [Setup BinderHub](#setup-binderhub)
 * [Debugging your BinderHub](#debugging-your-binderhub)
+
+**Extra curricular steps:**
 * [Changing the logo on your Binder page](#changing-the-logo-on-your-binder-page)
 * [Authenticating Users with GitHub](#authenticating-users-with-github)
 * [Tearing Down your BinderHub Deployment](#tearing-down-your-binderhub-deployment)
 * [Example config files](#example-config-files)
+
+
 * [Glossary of Kubernetes terms](#glossary-of-kubernetes-terms)
+
+---
+
+## What is BinderHub?
+
+BinderHub is a Cloud-based, open source technology that can host multiple instances of a Git repository and its computing environment.
+This allows code to be instantly runnable and reproducible by anyone anywhere in the world at the click of a link.
+The public Binder service is hosted at [mybinder.org](https://mybinder.org).
+
+## Why build your own BinderHub?
+
+Since Binder and BinderHub are open source projects maintained by volunteers, they ask that users of mybinder.org stay within certain limitations in order to keep running costs as low as possible while still providing a usable service.
+
+By deploying your own BinderHub, you can provide a service to your users that is much more customised to their needs.
+The most desirable benefit of this is allowing your users access to private repositories and handling sensitive data.
+But customisations could also include authentication, greater computational resources per user, bespoke package stacks or persistent user storage.
+
+## What does BinderHub require?
+
+The Binder team's overview of the BinderHub architecture can be found [here](https://binderhub.readthedocs.io/en/latest/overview.html).
+
+* A [Kubernetes](https://kubernetes.io/) cluster - This is an automated system for deploying, scaling and maintaining containerised applications. Kubernetes can be used on any kind of server, Cloud-based or otherwise.
+
+* The BinderHub [Helm Chart](https://helm.sh/docs/developing_charts/) - Helm is a package manager for deploying, maintaining and upgrading applications on a Kubernetes service. It is a collection of install instructions for a set of Kubernetes resources. The BinderHub Helm Chart contains a set of tools required by the Binder service.
+
+  * [`repo2docker`](https://repo2docker.readthedocs.io/en/latest/) - This is a tool that builds a Docker container out of a Git repository based on a configuration file which describes the software dependencies.
+
+  * [JupyterHub](https://jupyterhub.readthedocs.io/en/stable/) - This is a tool for serving Jupyter Notebooks for multiple users and automatically spawns, manages and proxies the server instances. 
+
+  * The [Binder](https://mybinder.readthedocs.io/en/latest/) Load Balancer - This coordinates the launches of Binder instances and parses various jobs to `repo2docker` and the JupyterHub.
+
+* A container registry, we will use [DockerHub](https://hub.docker.com/) -  A container registry is a storage and management server (usually Cloud-based) for containerised environments. The BinderHub will need to push (or "save") containers it has built to a registry, and pull (or "download") containers in order to run them from the JupyterHub.
+
+---
+
+The following workshop will walk you through deploying a BinderHub onto a Microsoft Azure Kubernetes Service.
+It will be a publicly available service like [mybinder.org](https://mybinder.org).
+
+---
 
 ## Cloud Resource Requirements
 
 This workshop assumes you have a "Free Trial" subscription with [Microsoft Azure](https://azure.microsoft.com/en-gb/).
 It's quick to set one up and you get £150 free credit for the first 30 days as well as access to some _always free_ services.
+You will be asked to provide a credit card.
+This is only for identity verification, **you will not be charged**.
+When your free trial expires, your resources will automatically be frozen and then deleted after a month if you don't reactivate your subscription.
 
-**NOTE:** Please do not sign up with an institutional email as you may encounter some issues with Service Principal permissions when we deploy the Kubernetes cluster.
+**NOTE:** Please do not sign up with a ".ac.uk" email as you may encounter some issues with Service Principal permissions when we deploy the Kubernetes cluster.
 
 > BinderHub is Cloud-neutral.
 > We are using Azure as an example.
@@ -72,6 +124,8 @@ The ideal scenario would be to store this information in an [Azure Key Vault](ht
 However, this falls out of the scope of a BinderHub workshop.
 
 You can access Key Vault Quickstarts and Tutorials [here](https://docs.microsoft.com/en-gb/azure/key-vault/).
+
+---
 
 :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
@@ -124,6 +178,12 @@ az login --output none
 This command will open a browser window for you to log in to your Azure account.
 You can safely close this window after logging in.
 
+**NOTE:** If you are having issues logging in (which may happen if you are using Safari), try the following command which will ask for your password.
+
+```
+az login -u <the-email-address-you-signed-up-with>
+```
+
 ### 2. Activate your Subscription
 
 To see a list of Azure subscriptions you have available to you, you can run the following command.
@@ -146,75 +206,71 @@ We will create a resource group in a specific data location and create computati
 
 ```
 az group create --name testhub \
-    --location westeurope \
+    --location centralus \
     --output table
 ```
 * `--name` specifies the name of your resource group and should be something that uniquely identifies this hub.
 * `--location` specifies the location of the data centre where your resource will exist.
   A list of data centre locations can be found [here](https://docs.microsoft.com/en-us/azure/aks/container-service-quotas#region-availability).
-  We have chosen West Europe for resource availability.
+  We have chosen Central US for resource availability.
 * `--output table` specifies the output should be in human-readable format as opposed to JSON, which is the default output.
 
-### 4. Create an SSH key
-
-We are going to create an SSH key to secure your cluster (further details in [this blog post](https://jumpcloud.com/blog/what-are-ssh-keys-b/)). **Keep these files safe.**
-
-```
-ssh-keygen -f secrets/ssh-key-hubcluster
-```
-When prompted for a password, you can choose to leave this blank.
-Some text will be printed to the terminal which you don't need to do anything with.
-
-**NOTE:** `--name` (`hubcluster` in this example) cannot exceed 63 characters and can only contain letters, numbers, or dashes (-).
-This is a requirement for the `aks create` command in the next step.
-
-### 5. Create an Azure Container Service (AKS) Cluster
+### 4. Create an Azure Container Service (AKS) Cluster
 
 This command will request a Kubernetes cluster within the resource group we created.
 It will request one `Standard_D2s_v3` virtual machine which a Kubernetes cluster installed.
 For information on other types of virtual machines available, [see here](https://azure.microsoft.com/en-gb/pricing/details/virtual-machines/series/).
 
-**NOTE:** If you are _not_ using a Free Trial subscription, try setting `--node-count` to **3** instead.
+**NOTES:**
+* `--name` (`hubcluster` in this example) cannot exceed 63 characters and can only contain letters, numbers, or hyphens (`-`).
+* If you are _not_ using a Free Trial subscription, try setting `--node-count` to **3** instead.
 
 ```
 az aks create --name hubcluster \
     --resource-group testhub \
-    --ssh-key-value secrets/ssh-key-hubcluster.pub \
+    --generate-ssh-keys \
     --node-count 1 \
     --node-vm-size Standard_D2s_v3 \
     --output table
 ```
-* `--name` is the cluster name we defined in [Step 4: Create an SSH key](#4-create-an-ssh-key).
+* `--name` is the name of the cluster.
 * `--resource-group` is the resource group we created in [Step 3: Create a Resource Group](#3-create-a-resource-group).
-* `--ssh-key-value` is the ssh public key we created in [Step 4: Create an SSH key](#4-create-an-ssh-key).
 * `--node-count` is the number of desired nodes in the Kubernetes cluster.
 * `--node-vm-size` is the size of the nodes you wish to use, which varies based on the use-case of the cluster and how much RAM/CPU each user will need.
+* `--generate-ssh-keys` will generate a public/private pair of ssh keys to access the cluster with should you need to.
 
 **NOTE:** The default version of Kubernetes will be installed, you can use the `--kubernetes-version` flag to install a different version.
 
 **This step may take some time to execute!** :vertical_traffic_light:
 
-**WARNING:** If this step fails due to insufficient permissions on the directory, this is likely because you're using an institutional login to Azure and your institution has limited your ability to create Service Principals.
-For the sake of this workshop, you should have created your account with a non-institutional email.
+**WARNING:** If this step fails due to insufficient permissions on the directory, this is likely because you're using a ".ac.uk" email to login to Azure and your institution has limited your ability to create Service Principals.
+For the sake of this workshop, you should have created your account with a different email address.
 Otherwise, you could ask your IT Services to provide you with a Service Principal.
 
-### 6. Get credentials from Azure for `kubectl`
+Once this command has completed, some extra resource groups will have been created which is normal behaviour.
+You can inspect them in the [Azure Portal](https://portal.azure.com/).
+The `testhub` group will contain the Kubernetes service, whereas a new resource group called `MC_testhub_hubcluster_centralus` containing the cluster resources (virtual machines, etc.) will have appeared.
+There will also be a `NetworkWatcherRG` group which will be empty.
+This group is created under the assumption that the Kubernetes service will be extended in the future, which unlikely to be the case when deploying BinderHub.
+This group can be deleted.
+
+### 5. Get credentials from Azure for `kubectl`
 
 This step automatically updates your local Kubernetes client configuration file to be configured with the remote cluster we've just deployed, and allowing `kubectl` to be "logged-in" to the cluster.
 
 ```
 az aks get-credentials --name hubcluster --resource-group testhub
 ```
-* `--name` is the cluster name defined in [Step 4: Create an SSH key](#4-create-an-ssh-key).
+* `--name` is the cluster name defined in [Step 4: Create an Azure Container Service (AKS) Cluster](#4-create-an-azure-container-service-aks-cluster).
 * `--resource-group` is the resource group created in [Step 3: Create a Resource Group](#3-create-a-resource-group).
 
-### 7. Check the Cluster is Fully Functional
+### 6. Check the Cluster is Fully Functional
 
 ```
 kubectl get nodes
 ```
 
-The output of this command should list one node (unless you changed `--node-count` in [Step 5: Create an Azure Container Service (AKS) Cluster](#5-create-an-azure-container-service-aks-cluster)) with a `STATUS` of `READY`.
+The output of this command should list one node (unless you changed `--node-count` in [Step 4: Create an Azure Container Service (AKS) Cluster](#4-create-an-azure-container-service-aks-cluster)) with a `STATUS` of `READY`.
 The `VERSION` field reports which version of Kubernetes is installed.
 
 Example output:
@@ -237,7 +293,8 @@ Tiller runs inside your Kubernetes cluster as a pod in the `kube-system` namespa
 Tiller manages _releases_ (installations) and _revisions_ (versions) of charts deployed on the cluster.
 When you run a `helm` command, the local Helm client sends instructions to `tiller` in the cluster which in turn makes the requested changes.
 
-> **Did you know?:** Kubernetes is Greek for "captain" or "helmsman". In case you haven't noticed the nautical theme!
+> **Did you know?:** Kubernetes is Greek for "captain" or "helmsman".
+> In case you haven't noticed the nautical theme!
 
 ### 1. Setup a `ServiceAccount` for `tiller`
 
@@ -292,6 +349,8 @@ kubectl patch deployment tiller-deploy \
         "value": ["/tiller", "--listen=localhost:44134"]
     }]'
 ```
+
+**NOTE:** I would recommend removing the line breaks and whitespace from this command.
 
 :question: 🤔
 
@@ -375,8 +434,11 @@ It will be listed in the `EXTERNAL-IP` field.
 kubectl --namespace=binderhub get svc proxy-public
 ```
 
-Copy this IP address into the `jupyter_ip` variable in `setup.sh` and uncomment the line (remove the `#` from the beginning).
-Also uncomment the `sed` expression on line 28 of `setup.sh` and the line beginning `hub_url:` in `config-template.yaml`.
+Now do the following steps:
+
+1) On [line 7 of `setup.sh`](https://github.com/alan-turing-institute/the-turing-way/blob/d59ccdd6579d676f94f79d26cb0437eb097673aa/workshops/build-a-binderhub/binderhub_resources/setup.sh#L7), copy the IP address from the last command into the `jupyter_ip` variable and uncomment the line (remove the `#` from the beginning)
+2) Again in `setup.sh`, move the line reading `#  -e "s/<jupyter-ip>/${jupyter_ip}/" \` above the line `config-template.yaml > secrets/config.yaml` and uncomment it by removing the `#` from the start
+3) Uncomment [line 8 of `config-template.yaml`](https://github.com/alan-turing-institute/the-turing-way/blob/d59ccdd6579d676f94f79d26cb0437eb097673aa/workshops/build-a-binderhub/binderhub_resources/config-template.yaml#L8) by removing the `#` from the beginning
 
 Rerun `setup.sh`.
 
@@ -424,6 +486,8 @@ You can also access information about individual pods with the following command
 kubectl describe pod <POD-NAME> -n binderhub
 ```
 
+---
+
 ## Changing the logo on your Binder page
 
 One fun way to make your BinderHub your own is to change the logo that appears on the Binder launch page.
@@ -436,7 +500,7 @@ You would probably create your own logo!
 
 #### 1. Fork the following repo
 
-I have created a template repo to make this easier linked below.
+I have created a template repo to make this easier - linked below.
 Fork it into your own namespace.
 
 [**github.com/sgibson91/binderhub-custom-files**](https://github.com/sgibson91/binderhub-custom-files)
@@ -635,6 +699,12 @@ az group delete --name testhub
 You can use the [Azure Portal](https://azure.microsoft.com/en-gb/features/azure-portal/) to double check all of your resources have been deleted.
 It may take a few minutes to clear up, but nothing relating to your BinderHub should remain after this step.
 
+You should also delete the `NetworkWatcherRG` group if you did not do so earlier.
+
+```
+az group delete --name NetworkWatcherRG
+```
+
 ### 4. GitHub OAuth App
 
 If you enabled GitHub authentication on your BinderHub, don't forget to delete the OAuth Application in "Developer Settings" as well.
@@ -674,6 +744,7 @@ config:
   * The `<prefix>` can be any string since it will be prepended to image names.
   It is recommended to be something short and descriptive, such as `binder-dev-` (for development) or `binder-prod-` (for the final product).
 
+---
 
 ## Glossary of Kubernetes terms
 

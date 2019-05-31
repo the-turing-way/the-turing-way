@@ -1,11 +1,11 @@
 # Resources for reproducibility chapter
 
-## Checklist/Exercise
+## Checklist / Exercise
 - [ ] Define reproducibility for yourself.
 
 ## What to learn next?
-Open Science will be a good chapter to read next.
-If you want to start learning hands-on practices, we recommend learning about version control next.
+Open Research would be a good chapter to read next.
+If you want to start learning hands-on practices, we recommend reading the Version Control chapter next.
 
 ## Bibliography
 

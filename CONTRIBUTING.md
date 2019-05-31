@@ -211,11 +211,10 @@ Simply make your edits on their files and open a pull request to their branch!
 What happens if the continuous integration (CI) fails (for example, if the pull request notifies you that "Some checks were not successful")?
 The CI could fail for a number of reasons.
 At the bottom of the pull request, where it says whether your build passed or failed, you can click “Details” next to the test, which takes you to the Travis page.
-You can view the log or rerun the checks by clicking the “Restart build” button in the top right (you must be logged in to Travis CI with your GitHub account see the “Restart build” button).
+You can view the log or rerun the checks if you have write access to the repo by clicking the “Restart build” button in the top right (you must be logged in to Travis CI with your GitHub account see the “Restart build” button).
 You can learn more about Travis in the [Continuous Integration chapter](https://the-turing-way.netlify.com/continuous_integration/continuous_integration.html) of the book!
 
 GitHub has a [nice introduction][github-flow] to the pull request workflow, but please [get in touch](#get-in-touch) if you have any questions :balloon:.
-
 
 ## The process of writing chapters
 
@@ -243,9 +242,35 @@ Note the link and (if available) license of the source.
 - Merge the alan turing intitute's version of the chapter branch into the alan turing master branch.
 DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
 
+## Local development
+
+You can host the book website locally. The steps are:
+
+1. Install [docker](https://www.docker.com/): see [Reproducible Environments](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Containers_section) for discussion of docker and containers.
+
+2. Make sure you have docker-compose installed: [compose installation instructions](https://docs.docker.com/compose/install/)
+
+3. The website can then be started using:
+
+   ```
+   cd book/website
+   docker-compose up
+   ```
+
+   This will install all ruby requirements and make the site available at `http://0.0.0.0:4000/introduction/introduction`.
+
+   You can refresh your build using:
+
+   ```
+   jupyter-book build .
+   ```
+
+
+
 
 ## Style Guide
 ### Writing style
+
 To ensure all text can be read easily by all (including screen readers and non-native english speakers), follow Gov.uk guidance on e.g., i.e., and etc. (1)
 That is, do not use them:
 
@@ -297,10 +322,12 @@ To make things look cleaner, it is advised that all figures be encapsulated in a
 This can be done simply as:
 
 ```
-| ![A dish with Green Eggs and Ham](green_eggs_ham.jpg)         |
+| ![A dish with Green Eggs and Ham](/figures/green_eggs_ham.jpg)         |
 | ------------------------------------------------------------------------------------ |
 | Try them, try them, and you may! Try them and you may, I say.  |
 ```
+
+Figures should be added to the `book/content/figures` directory.
 
 ### Referencing and Citing
 
@@ -348,7 +375,6 @@ Simply close the pull request and delete the branch (```all-contributors/add-<us
 If you are unable to do this for any reason, please let us know in the [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) or by opening an issue, and a Turing Way team member will be very happy to help!
 
 Finally, don't forget to add yourself to the list of contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md)!
-
 
 ---
 *These Contributing Guidelines have been adapted from the [Contributing Guidelines](https://github.com/bids-standard/bids-starter-kit/blob/master/CONTRIBUTING.md) of the [BIDS Starter Kit](https://github.com/bids-standard/bids-starter-kit)! (License: CC-BY)*
