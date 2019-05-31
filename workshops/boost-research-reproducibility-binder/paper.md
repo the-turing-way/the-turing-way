@@ -99,7 +99,7 @@ Further chapters in development include coding style for reproducibility, credit
 The project demonstrates open and transparent project management and communication with future users, as it is openly developed at the [GitHub repository](https://github.com/alan-turing-institute/the-turing-way). 
 It also facilitates workshops to train researchers and research software engineers to use tools to make their work more reproducible - one of which is the *Boost your research reproducibility with Binder* workshop.
 
-The Binder project significantly lowers the bar to sharing and re-using software, as it allows a user to try out someone else's work simply by clicking a single link. 
+The Binder project supports the ability to instantly reproduce and interact with shared code, as it allows a user to try out someone else's work simply by clicking a single link. 
 The majority of researchers and educators interested in reproducible research have not yet discovered the Binder project, or they have heard it mentioned but do not know how to get started [@build_a_binder]. 
 The tool is most impactful if some time is invested to understand its potential and workings. 
 The *Boost your research reproducibility with Binder* workshops were conducted to increase the number of people publishing their data analyses using this tool which enables others to access, edit, re-run and re-use that content. 
