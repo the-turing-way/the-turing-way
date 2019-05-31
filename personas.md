@@ -52,7 +52,7 @@ They have experience with GitHub and contributing to open projects.
 3. **Participation** - They find an issue asking for help on writing the Credit for Reproducible Research chapter and add a few paragraphs on how to properly cite research software.
 4. **Sustained Participation** - After constructive feedback and collaboration with the Turing Way team, Alex follows the community on social media and applies to attend the Manchester Book Dash.
 5. **Networked Participation** - They invite other friends and colleagues from the Rstats community to get involved, who have expertise on some of the book topics.
-6. **Leadership** - Alex volunteers to write the chapter on Scoping a data project - RSEs that they found requested in the [Book Skeleton](https://github.com/alan-turing-institute/the-turing-way/blob/master/book_skeleton.md).
+6. **Leadership** - Alex volunteers to write the chapter on "Scoping a data project for RSEs" that they found requested in the [Book Skeleton](https://github.com/alan-turing-institute/the-turing-way/blob/master/book_skeleton.md).
 
 
 
