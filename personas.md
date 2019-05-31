@@ -16,7 +16,7 @@ We have also imagined how our personas might interact with our project – the "
 Below you'll find a range of personas and pathways, showing how their interactions with the Turing Way can improve and enrich the project.
 Each example is meant to suggest ways you might interact with, learn from, and contribute to the Turing Way so hopefully one resonates with you and empowers you to get involved!
 
-If you do not relate to any of the personas described and are struggling to figure out how to get involved or use this resource, please open an issue or get in contact on our Gitter channel letting us know what the barriers are!
+If you do not relate to any of the personas described and are struggling to figure out how to get involved or use this resource, please open an issue or get in contact on our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) letting us know what the barriers are!
 
 ## Contributor personas
 
