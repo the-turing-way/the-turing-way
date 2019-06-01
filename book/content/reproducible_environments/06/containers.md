@@ -57,7 +57,7 @@ In Docker the recipe files used to generate images are known as Dockerfiles, and
 
 [This](https://opensource.com/business/14/7/docker-security-selinux) article goes deeper into the potential security vulnerabilities of containers and here is a [detailed breakdown](https://opensource.com/business/14/9/security-for-docker) of security features currently within Docker, and how they function. The best advice for using images built by others is as standard- only download and run something on your machine if it comes from a trusted source. DockerHub has "official image" badges for commonly used, verified images as shown here:
 
-![Docker_official_image](/assets/figures/docker_official_image.png)
+![Docker_official_image](../../figures/docker_official_image.png)
 
 <a name="Installing_Docker"></a>
 
@@ -166,7 +166,7 @@ The `ADD` command has the same capabilities as `COPY`, but it can also be used t
 
 Here's what happens if a container is opened from an image called book_example built from the example above:
 
-![container_example](/assets/figures/container_example.png)
+![container_example](../../figures/container_example.png)
 
 As you can see the directory "project" has been created, and if we look inside the project files "analysis.py" and "data.csv" have been copied into it. Because the software required for the project has already been included by the Dockerfile in the image the "analysis.py" script runs without any further software needing to be installed.
 
@@ -192,13 +192,13 @@ RUN mkdir B_1
 RUN mkdir B_2
 ```
 
-![workdir_example](/assets/figures/workdir_example.png)
+![workdir_example](../../figures/workdir_example.png)
 
 Directories B_1 and B_2 have been created within directory A.
 
 WORKDIR should be used whenever changing directories is necessary when building an image. It may be tempting to use `RUN cd directory_name` instead as this syntax will be more familiar to those that commonly work via the command line, but this can lead to errors. After each `RUN` statement in a Dockerfile the image is saved, any following commands are applied to the image anew. As an example here is what happens in the above example if the `WORKDIR A` line is swapped for `RUN cd A`
 
-![cd_example](/assets/figures/cd_example.png)
+![cd_example](../../figures/cd_example.png)
 
 All the directories have are in the top level in this case, rather than B_1 and B_2 being inside A. This is because the image was restarted after the `RUN cd A` command and opened at the top (root) level by default, so that is where the `mkdir B_1` and `mkdir B_2` commands took effect.
 

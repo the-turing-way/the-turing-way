@@ -18,21 +18,21 @@ Juliette Taka's excellent cartoon below illustrates the steps in creating and sh
 
 **Step 4:** She generates a link at the [mybinder.org](https://mybinder.org) BinderHub. By clicking on this link anyone can access a "Binderized" version of her project. The click triggers repo2docker to build an Docker image based on the contents of the repository and its configuration files. This image is then hosted on the cloud. The person who clicked the link will be taken to a copy of her project in their web browser that they can interact with. This copy of the project they interact with is hosted in the environment the researcher specified in step 3, regardless of the computational environment of the person is accessing it from.
 
-![binder_comic](/assets/figures/binder_comic.png)
+![binder_comic](../../figures/binder_comic.png)
 
 Figure credit: [Juliette Taka, Logilab and the OpenDreamKit project](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/)
 
 To get an idea of what this looks like here's what a binder of a simple example project looks like. Files are listed and can be clicked on and modified by the person accessing the binder.
 
-![binder_home](/assets/figures/binder_home.png)
+![binder_home](../../figures/binder_home.png)
 
 Users can also open terminals to run or otherwise interact with the files by clicking on "New" and then "Terminal" in the top right of the home binder screen shown above. Here this is used to run the analysis script in the example binder which performs a linear regression on some data:
 
-![binder_terminal](/assets/figures/binder_terminal.png)
+![binder_terminal](../../figures/binder_terminal.png)
 
 As mentioned Binder is well integrated with Jupyter notebooks which can be opened by clicking on "New" and then under "Notebook" in the same way terminals can be opened. These may be more convenient for those working with graphical outputs, as shown here where one is used to run `make_plot.py` in the example Binder:
 
-![binder_notebook](/assets/figures/binder_notebook.png)
+![binder_notebook](../../figures/binder_notebook.png)
 
 If R is installed in a Binder the dropdown menu will show the options to open R Jupyter notebooks and RStudio sessions in the Binder.
 
@@ -124,7 +124,7 @@ Again, if you are unable to complete these steps refer to the chapter on version
 
 Head to [https://mybinder.org](https://mybinder.org). You'll see a form that asks you to specify a repository for [mybinder.org](https://mybinder.org) to build. In the first field, paste the URL of the project's GitHub repository. It'll look something like this: `https://github.com/<your-username>/<your-repository>`
 
-![mybinder_gen_link](/assets/figures/mybinder_gen_link.png)
+![mybinder_gen_link](../../figures/mybinder_gen_link.png)
 
 As you can see there are additional fields in this form, but these are optional are will not be discussed here.
 
