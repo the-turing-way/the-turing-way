@@ -850,8 +850,8 @@ To install GNU Make, please follow these instructions:
 
 ### Advanced: Generating Rules using Call
 
-*This section continues on the tutorial above and demonstrates a feature of 
-Make for automatic generation of rules.*
+*This section continues the tutorial above and demonstrates a feature of Make 
+for automatic generation of rules.*
 
 In a data science pipeline, it may be quite common to apply multiple scripts 
 to the same data (for instance when you're comparing methods or testing 
