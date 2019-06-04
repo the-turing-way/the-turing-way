@@ -399,7 +399,7 @@ ___________________________________
 
 Being HPC compatible, singularity containers are also supported by a wide range
 of workflow management tools.
-E.g. both [snakemake](https://snakemake.readthedocs.io/en/stable/) and
+For example, both [snakemake](https://snakemake.readthedocs.io/en/stable/) and
 [nextflow](https://www.nextflow.io/docs/latest/singularity.html) support
 job-specific singularity containers.
 This makes singularity containers uniquely suited for parallelizing workflows
