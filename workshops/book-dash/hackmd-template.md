@@ -64,6 +64,20 @@ What types of contributions can you make?
 * Creative, out of the box ideas!
 * Let us know if you are struggling with contributing in any way so that we can improve our Contributing Guidelines!
 
+### Notifications
+
+Click [here](https://github.com/alan-turing-institute/the-turing-way/invitations) to accept your invitation to have write access to *The Turing Way* - this gives you agency to merge your own pull requests (once approved!), review other pull requests, and add labels to issues and pull requests.
+
+You're going to start getting lots of notifications from The Turing Way GitHub repository :scream_cat:
+
+You can control these at the https://github.com/settings/notifications page.
+
+We recommend leaving the "Participating" options checked :white_check_mark: and un-checking the "Watching" boxes so you don't get a million different notifications.
+
+Here's a useful help page: https://help.github.com/en/articles/about-notifications
+
+Octobox is a cool tool for managing your GitHub notifications: https://octobox.io
+
 ## Your contributions
 *Please get into groups of 2 or 3 and have an explore about what you'd like to see in this book, or how you can contribute.* :sparkles: :space_invader: :rocket: :star2: 
 
