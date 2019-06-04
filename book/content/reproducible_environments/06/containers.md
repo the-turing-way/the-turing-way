@@ -318,6 +318,8 @@ Volume related commands:
 - Delete all unattached volumes: `sudo docker volume prune`
 - If, when deleting a container a `-v` is included after `rm` in `sudo docker rm container_ID` any volumes associated with the container will also be deleted.
 
+<a name="Singularity"></a>
+
 ### Singularity
 
 > Prerequisites: At present, Singularity only runs on linux systems (for example Ubuntu). If you use, macOS, [Singularity Desktop for macOS](https://www.sylabs.io/singularity-desktop-macos/) is in "Alpha Preview" stage.

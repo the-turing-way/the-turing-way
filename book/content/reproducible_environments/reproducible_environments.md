@@ -62,6 +62,7 @@ Recommended skill level: intermediate-advanced.
     - [Other commands](./06/containers#Other_commands)
   - [Building images and .dockerignore files](./06/containers#Building_images_and_dockerignore_files)
   - [Sharing images](./06/containers#Sharing_images)
+  - [Singularity](./06/containers#Singularity)
   - [Copying files to and from containers](./06/containers#Copying_files_to_and_from_containers)
   - [Volumes](./06/containers#Volumes)
 - [Checklist](./07/checklist#Checklist)
