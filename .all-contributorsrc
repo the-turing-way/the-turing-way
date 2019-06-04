@@ -537,6 +537,44 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "cassgvp",
+      "name": "cassgvp",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/43407869?v=4",
+      "profile": "https://github.com/cassgvp",
+      "contributions": [
+        "ideas",
+        "doc"
+      ]
+    },
+    {
+      "login": "malvikasharan",
+      "name": "Malvika Sharan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5370471?v=4",
+      "profile": "https://github.com/malvikasharan",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "kkmann",
+      "name": "Kevin Kunzmann",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2482236?v=4",
+      "profile": "https://kkmann.github.io/",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "rockita",
+      "name": "Eirini Malliaraki",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/36627260?v=4",
+      "profile": "http://emalliaraki.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
