@@ -1,6 +1,6 @@
 # The Turing Way Book Dashes
 
-In this folder you can find the materials you need to take part in a Turing Way Book Dash.
+In this folder you can find the materials you need to organise or take part in a Turing Way Book Dash.
 
 * A full day book dash [agenda](agenda.md).
 * A folder of [presentations](presentations) (in `pdf` format and linked below).
