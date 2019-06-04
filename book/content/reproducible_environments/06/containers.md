@@ -325,7 +325,7 @@ Volume related commands:
 A major drawback of Docker for reproducible research is that it is not intended as a user-space application but as a tool for server administrators. As such it requires root access to operate. There is, however, no reason why the execution of an analysis should require root access for the user. This is especially important when computations are conducted on shared resource like HPC systems where users will never have root access.
 
 The [singularity](https://www.sylabs.io/) container software was introduced to address exactly this issue. Singularity was created with HPC sytems and reproducible research in mind
-(see [this](https://www.youtube.com/watch?v=DA87Ba2dpNM) video]. It does not require root access to run (only to build container _images_!) and thus enables HPC users to locally build container images before running analyses, e.g., on a high-performance cluster. As an added benefit, this makes it possible to use almost any software on an
+(see [this](https://www.youtube.com/watch?v=DA87Ba2dpNM) video). It does not require root access to run (only to build container _images_!) and thus enables HPC users to locally build container images before running analyses, e.g., on a high-performance cluster. As an added benefit, this makes it possible to use almost any software on an
 HPC system without having to bother admin staff with installing it. In recognition of the fact that Docker is _the_ most well known containerization
 approach, singularity aims at maintaining compatibility with docker containers as much as possible, i.e., singularity can be used to run normal docker containers
 (without requiring root access!).
