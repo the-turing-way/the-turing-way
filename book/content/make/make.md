@@ -1,4 +1,4 @@
-# Reproducible Research with Make
+# Reproducibility with Make
 
 ## Prerequisites / recommended skill level
 
@@ -39,16 +39,16 @@ Recommended skill level: intermediate
 
 ## Summary
 
-A research project can be seen as a tree of dependencies: the paper depends on 
-the figures and tables, and these in turn depend on the data and the analysis 
-scripts used to process this data (illustrated in the figure below). Make is a 
-tool for creating output files from their dependencies through pre-specified 
-rules.  It is possible to combine these two ideas to create a reproducible 
-research project with Make.  In this chapter we give an introduction to Make 
-and provide a tutorial on how Make can be used for a data analysis pipeline. 
-We also describe a real-world reproducible research project that uses Make to 
-go from the raw input data to the experiments all the way to the pdf file of 
-the paper!
+A data science or research project can be seen as a tree of dependencies: the 
+report depends on the figures and tables, and these in turn depend on the data 
+and the analysis scripts used to process this data (illustrated in the figure 
+below).  Make is a tool for creating output files from their dependencies 
+through pre-specified rules.  It is possible to combine these two ideas to 
+create a reproducible project with Make.  In this chapter we give an 
+introduction to Make and provide a tutorial on how Make can be used for a data 
+analysis pipeline.  We also describe a real-world reproducible research 
+project that uses Make to go from the raw input data to the experiments all 
+the way to the pdf file of the paper!
 
 ![Schematic of a research project](../figures/make/research_dag.png)
 <small style="margin: 5pt auto; text-align: center; display: block;">A 
@@ -66,10 +66,9 @@ based on the dependency tree of the targets and prerequisites (technically,
 this is a [directed acyclic graph](#directed-acyclic-graph)).  It uses the 
 *modification time* of prerequisites to update targets only when needed.
 
-### Why use Make for Reproducible Research?
+### Why use Make for Reproducibility?
 
-There are several reasons why Make is a good tool to use for reproducible 
-research:
+There are several reasons why Make is a good tool to use for reproducibility:
 
 1. Make is easy to learn
 1. Make is available on many platforms
@@ -687,7 +686,7 @@ It is important to emphasize that this file was not created in one go, but was
 constructed iteratively. The Makefile started as a way to run several dialect 
 detection methods on a collection of input files and gradually grew to include 
 the creation of figures and tables from the result files. Thus the advice for 
-using Make for reproducible research is to *start small and start early*.
+using Make for reproducibility is to *start small and start early*.
 
 The published Makefile in the repository does not contain the paper, but this 
 *is* included in the internal Makefile and follows the same structure as the 
