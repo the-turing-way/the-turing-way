@@ -369,7 +369,7 @@ runscript (which is executed using the `singularity run` command).
 Details on the singularity definition file format can be found in the official
 [documentation](https://www.sylabs.io/docs/).
 
-A container image can then be build (requiring root!) via
+A container image can then be built (requiring root!) via
 
 ```
 sudo singularity build lolcow.simg lolcow.def
