@@ -339,7 +339,7 @@ singularity shell docker://ubuntu
 (type `exit` to leave the interactive shell again).
 
 Just as docker images are built using `Dockerfile` files, singularity containers
-are build from singularity definition files.
+are built from singularity definition files.
 The process and syntax is similar to docker files but there are subtle
 differences.
 As a minimal working example, we can build a 'lolcow' container based on the
