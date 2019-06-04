@@ -345,7 +345,7 @@ differences.
 As a minimal working example, we can build a 'lolcow' container based on the
 official ubuntu docker container image.
 Put the following in a `lolcow.def` file
-(based on the [Singularity documentation](https://www.sylabs.io/guides/3.2/user-guide/build_a_container.html))
+(based on the [Singularity documentation](https://www.sylabs.io/guides/3.2/user-guide/build_a_container.html)):
 
 ```
 Bootstrap: docker
