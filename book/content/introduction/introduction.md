@@ -35,7 +35,7 @@ They are easy to read and navigate...but also easy to edit and extend!
 - Participation & inclusion: You build shared ownership and agency with contributors through accountability, equity, and transparency to make the work inviting, relevant, safe, and sustainable for all.
 
 We strive to make this project welcoming and inviting to everyone - any and all contributions are welcome, no matter how small! 
-**Please read and follow the project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)!** 
+**Please read and follow the project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).** 
 If you find them confusing, difficult to follow or think that information needs to be added, please let us know! 
 This will help us improve the contributing experience for everyone going forward.
 
