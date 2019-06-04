@@ -1,8 +1,8 @@
 # Testing
 
-| Prerequisite | Importance | Notes |
-| -------------|------------|-------|
-| Experience with the command line | Necessary | A tutorial on working via the command line can be found [here](https://programminghistorian.org/en/lessons/intro-to-bash) |
+| Prerequisite | Importance |
+| -------------|------------|
+| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary |
 
 ## Table of contents
 
@@ -59,9 +59,9 @@ Researcher-written code now forms a part of a huge portion of research, and if t
 
 Here's a couple of examples of why should write tests:
 
-![testing_motivation_1](/assets/figures/testing_motivation_1.png)
+![testing_motivation_1](../figures/testing_motivation_1.png)
 
-![testing_motivation_2](/assets/figures/testing_motivation_2.png)
+![testing_motivation_2](../figures/testing_motivation_2.png)
 
 It is very, very easy to make mistakes when coding. A single misplaced character can cause a program's output to be entirely wrong. One of the examples above was caused by a plus sign which should have been a minus. Another was caused by one piece of code working in meters while a piece of code written by another researcher worked in feet. *Everyone* makes mistakes, and in research the results can be catastrophic. Careers can be damaged/ended, vast sums of research funds can be wasted, and valuable time may be lost to exploring incorrect avenues. This is why tests are vital.
 
@@ -247,19 +247,19 @@ Both of these approaches to testing stochastic code can still be very useful, bu
 
 Sometimes (particularly in research) the outputs of code are tested according to whether they "look" right. For example say we have a code modelling the water levels in a reservoir over time. The result may look like this:
 
-![eyeball_test_1](/assets/figures/eyeball_test_1.jpg)
+![eyeball_test_1](../figures/eyeball_test_1.jpg)
 
 On a day with rain it might look like this:
 
-![eyeball_test_2](/assets/figures/eyeball_test_2.jpg)
+![eyeball_test_2](../figures/eyeball_test_2.jpg)
 
 and on a dry day it might look like this:
 
-![eyeball_test_3](/assets/figures/eyeball_test_3.jpg)
+![eyeball_test_3](../figures/eyeball_test_3.jpg)
 
 All of these outputs look very different but are valid. However, if a researcher sees a result like this:
 
-![eyeball_test_error](/assets/figures/eyeball_test_error.jpg)
+![eyeball_test_error](../figures/eyeball_test_error.jpg)
 
 they could easily conclude there is a bug as a lake is unlikely to triple it's volume and then lose it again in the space of a few hours. "Eyeballing" tests like these are time consuming as they must be done by a human. However the process can be partially or fully automated by creating basic "sanity checks". For example the water level at one time should be within, say, 10% of the water level at the previous time step. Another check could be that there are no negative values, as a lake can't be -30% full. These sort of tests can't cover every way something can be visibly wrong, but they are much easier to automate and will suffice for most cases.
 

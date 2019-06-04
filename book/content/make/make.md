@@ -4,8 +4,8 @@
 
 | Prerequisite | Importance | Notes |
 | ------------ | ---------- | ----- |
-| Experience with the command line | Necessary | [Tutorial on the Unix shell](https://swcarpentry.github.io/shell-novice/) |
-| Version control | Helpful | Experience using git is useful to follow along with examples |
+| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | |
+| [Version control](/version_control/version_control) | Helpful | Experience using git is useful to follow along with examples |
 
 Recommended skill level: intermediate
 
@@ -50,7 +50,7 @@ We also describe a real-world reproducible research project that uses Make to
 go from the raw input data to the experiments all the way to the pdf file of 
 the paper!
 
-![Schematic of a research project](/assets/figures/make/research_dag.png)
+![Schematic of a research project](../figures/make/research_dag.png)
 <small style="margin: 5pt auto; text-align: center; display: block;">A 
 schematic for a research project that uses LaTeX.</small>
 
@@ -229,7 +229,7 @@ we combine the three commands in a single recipe above.
 
 This is what the dependency tree looks like for this Makefile:
 
-![DAG for Makefile no. 1](/assets/figures/make/makefile_no_1.png)
+![DAG for Makefile no. 1](../figures/make/makefile_no_1.png)
 <small style="margin: 5pt auto; text-align: center; display: block;">The 
 dependency graph for our first Makefile, created using 
 [makefile2graph](#tools). Notice the similarity to the figure at the 
@@ -574,7 +574,7 @@ many dependencies!
 
 The resulting PDF file should now look like this:
 
-![Report with all genres](/assets/figures/make/report_all_genres.png)<small 
+![Report with all genres](../figures/make/report_all_genres.png)<small 
 style="margin: 5pt auto; text-align: center; display: block;">A compressed 
 view of the report with histograms for all genres.</small>
 

@@ -25,8 +25,8 @@ sed -e "s/<apiToken>/$(cat secrets/apiToken.txt)/" \
 # Populate config.yaml
 sed -e "s/<docker>/${docker_id}/" \
   -e "s/<prefix>/${prefix}/" \
-#  -e "s/<jupyter-ip>/${jupyter_ip}/" \
   config-template.yaml > secrets/config.yaml
+#  -e "s/<jupyter-ip>/${jupyter_ip}/" \
 
 # End script with some outputs
 echo Your BinderHub files have been configured!
