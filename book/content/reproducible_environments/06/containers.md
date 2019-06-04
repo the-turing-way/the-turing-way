@@ -407,7 +407,7 @@ on HPC systems using the
 widely used [slurm](https://slurm.schedmd.com/documentation.html) workload manager.
 Using singularity containers and snakemake/nextflow is therefore a way of
 scaling reproducibility to massive scale and - as an added benefit -
-brining workflows from a desktop machine to an HPC system no longer requires
+bringing workflows from a desktop machine to an HPC system no longer requires
 writing custom job submission scripts.
 
 #### Long-term storage of container images
