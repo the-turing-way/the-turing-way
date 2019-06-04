@@ -14,9 +14,12 @@ The goal is to ensure that all results can be independently verified and built u
 This is sometimes easier said than done.
 Sharing these research outputs means understanding data management, library sciences, sofware development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists.
 
-The Turing Way is a handbook to support students, their supervisors, funders, and journal editors in ensuring that reproducible data science is "too easy not to do".
+*The Turing Way* is a handbook to support students, their supervisors, funders, and journal editors in ensuring that reproducible data science is "too easy not to do".
 It will include training material on version control, analysis testing, open and transparent communication with future users, and build on Turing Institute case studies and workshops.
-This project is openly developed and any and all questions, comments and recommendations are welcome at our GitHub repository: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way).
+
+The project also demonstrates open and transparent project management and communication with future users, as it is openly developed at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way. 
+Any and all questions, comments and recommendations are welcome. 
+All resources for the *[Boost your research reproducibility with Binder](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder)* and *[Build your own BinderHub](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/build-a-binderhub)* workshops we have delivered, as well as how to organise a [Book Dash](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) (a one day book sprint), are also openly available and will soon be submitted to the [Journal of Open Source Education](https://jose.theoj.org/) (JOSE) to maximise the impact of the outputs of *The Turing Way*.
 
 ### The book itself
 
@@ -26,37 +29,15 @@ They are easy to read and navigate...but also easy to edit and extend!
 
 ### Contributing to The Turing Way
 
-**Please read and follow our project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)!** If you find them confusing, difficult to follow or think that information needs to be added, please let us know! This will help us improve the contributing experience for everyone going forward.
+*The Turing Way* is an open project, and follows [Mozilla's Open Leadership Framework](https://mozilla.github.io/open-leadership-framework/framework/#what-is-open) principles on openness:
+- Understanding: You make the work accessible and clear.
+- Sharing: You make the work easy to adapt, reproduce, and spread.
+- Participation & inclusion: You build shared ownership and agency with contributors through accountability, equity, and transparency to make the work inviting, relevant, safe, and sustainable for all.
 
-To summarise how to [contribute to The Turing Way through GitHub](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#making-a-change-with-a-pull-request):
-1. Comment on an [existing issue](https://github.com/alan-turing-institute/the-turing-way/issues) or open a new issue referencing your addition.
-    * The [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/ISSUE_TEMPLATE.md) will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the "*Lorem ipsum*" sections.
-2. [Fork](https://help.github.com/articles/fork-a-repo) the Turing Way repository to your GitHub profile.
-3. Make your changes!
-4. Submit a [pull request](https://help.github.com/articles/creating-a-pull-request).
-    * Open a pull request as early in your contributing process as possible and add the label [WIP] to the title to designate "work in progress".
-    * The [pull request template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/PULL_REQUEST_TEMPLATE.md) will automatically be rendered in the comment section of the new pull request page, so all you need to do is edit the "*Lorem ipsum*" sections.
-    * As you continue to make changes they will automatically be included in your existing pull request.
-    * Change [WIP] to [Ready for review] in the pull request title when you are happy for your contribution to be reviewed and merged.
-
-What types of contributions can you make? 
-* Check out the list of [open issues](https://github.com/alan-turing-institute/the-turing-way/issues) 
-   * The ```good first issue``` label is a good place to start if you are new to contributing to an open project!
-* Proofread [existing chapters](https://the-turing-way.netlify.com) (check for typos, grammar, broken links)
-* Add further information to an existing chapter
-* Suggest topics for new chapters (particularly if you can write them!)
-    * A chapter can be 3 paragraphs in length - what can you write 3 paragraphs on?
-    * What skills or tools do you wish you had been taught at the start of your research career?
-* Review ```[Ready to review]``` [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls)
-* Contribute to discussion in ```[WIP]``` pull requests and issues
-* Submit a case study or your tips and tricks for reproducible research via our [Google submission form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
-* Incorporate case studies into the book
-* Checklists
-* Restructuring the chapter sections (like the [Reproducibility chapter](https://the-turing-way.netlify.com/reproducibility/reproducibility.html))
-* Creative, out of the box ideas!
-* Let us know if you are struggling with contributing in any way so that we can improve our Contributing Guidelines!
-
-The Turing Way follows the [all-contributors](https://github.com/kentcdodds/all-contributors#emoji-key) specification, so we welcome and recognise all contributions from documentation to testing to writing chapters. No contribution is too small! You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way#contributors).
+We strive to make this project welcoming and inviting to everyone - any and all contributions are welcome, no matter how small! 
+**Please read and follow the project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)!** 
+If you find them confusing, difficult to follow or think that information needs to be added, please let us know! 
+This will help us improve the contributing experience for everyone going forward.
 
 ### The Turing Way Community
 
@@ -79,6 +60,7 @@ Our core contributors are, in alphabetical order:
 * [Alexander Morley](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#alexander-morley)
 * [Martin O'Reilly](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#martin-oreilly)
 
+The Turing Way follows the [all-contributors](https://github.com/kentcdodds/all-contributors#emoji-key) specification, so we welcome and recognise all contributions from documentation to testing to writing chapters. 
 You can see all of our incredible contributors in our [README](https://github.com/alan-turing-institute/the-turing-way#contributors) file, and screengrabbed below.
 
 ![](../figures/Contributors2.png)
