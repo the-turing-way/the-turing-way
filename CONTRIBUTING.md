@@ -26,6 +26,7 @@ Been here before? Already know what you're looking for in this guide? Jump to th
   - [2. Fork the Turing Way repository to your profile](#2-forkgithub-fork-the-turing-way-repositoryturing-way-repo-to-your-profile)
   - [3. Make the changes you've discussed](#3-make-the-changes-youve-discussed)
   - [4. Submit a pull request](#4-submit-a-pull-requestgithub-pullrequest)
+- [Types of contributions you can make](#types-of-contributions-you-can-make)
 - [The process of writing chapters](#the-process-of-writing-chapters)
 - [Style Guide](#style-guide)
   - [Writing style](#writing-style)
