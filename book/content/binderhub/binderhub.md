@@ -149,7 +149,7 @@ At minimum, you'll need to be able to assign [Role Based Access Control (RBAC)](
 | Kubernetes | Autonomous computational cluster manager. |
 | Helm | A package manager for Kubernetes applications. |
 | JupyterHub | A multi-user server for Jupyter Notebook instances. |
-| repo2docker | A tool to build Docker containers out of code repositories. |
+| repo2docker | A tool to build Docker containers from code repositories. |
 
 ## Bibliography
 
