@@ -16,7 +16,6 @@ matrix:
       install:
         - pip3 install --user -r ./book/website/requirements.txt # install things for the book
         - pip3 install --user -U attrs pytest # the installed versions in Travis are too old!
-        - npm install --global prettier # add support for prettier.io
       script:
         # Below here, "scripts" directory refers to the one in book/website:
         - cd ./book/website
@@ -31,6 +30,8 @@ matrix:
       
     - language: generic
       env: CAN_FAIL_VAR=true # this test is allowed to fail
+      install:
+        - npm install --global prettier # add support for prettier.io
       script: 
         - prettier --check ./book/content/**/*.md  # check for markdown auto-formatting clashes
         
