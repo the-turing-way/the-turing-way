@@ -29,6 +29,7 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 - [The process of writing chapters](#the-process-of-writing-chapters)
 - [Style Guide](#style-guide)
   - [Writing style](#writing-style)
+  - [Sentences](#sentences)
   - [Opinions](#opinions)
   - [Figures](#figures)
   - [Referencing and Citing](#referencing-and-citing)
@@ -86,6 +87,9 @@ GitHub has a helpful page on [getting started with writing and formatting on Git
 Most of the writing that you'll do will be in [Markdown][markdown].
 You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting.
 For example you could write words as **bold** (`**bold**`), or in _italics_ (`_italics_`), or as a [link][rick-roll] (`[link](https://https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
+
+Also when writing in Markdown, please start each new sentence on a new line.	
+While this formats in the same way as if the new line wasn't included, it makes the [diffs produced during the pull request](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests) review easier to read! :sparkles:
 
 
 ## Where to start: issues
@@ -295,6 +299,23 @@ Try (re)writing sentences to avoid the need to use it. If that is not possible, 
 
 1. https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#eg-etc-and-ie
 
+### Sentences	
+
+When writing all sentences should go on a new line.	
+This will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph. Consider the example below.	
+
+ ```	
+Today you are you, that is truer than true. There is no one alive who is youer than you. - Dr Seuss	
+```	
+
+ A pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph.	
+Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.	
+
+ ```	
+Today you are you, that is truer than true.	
+There is no one alive who is youer than you.	
+- Dr Seuss	
+```
 
 ### Opinions
 
@@ -302,6 +323,7 @@ The Turing Way book is intended to be only lightly opinionated.
 Whilst more opinionated content is allowed, such content should be clearly marked.
 The best way to do this is by displaying it in a quote box.
 This can be done by either prefixing every line with the greater than symbol `>`.
+Note, that the formatting will be retained, so we can split each sentence to a new line as recommended before.
 
 ```
 > I will not eat them in a house,
