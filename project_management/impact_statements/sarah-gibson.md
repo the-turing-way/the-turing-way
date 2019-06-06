@@ -36,6 +36,8 @@ _Add quotes from Chris, other core Binder members._
 
 ![betatim_quote](quotes/quote_betatim.png)
 
+![choldgraf quote](quotes/quote_choldgraf.png)
+
 ## Personal Experiences
 
 For me, joining the Turing Way project was a bit of a baptism of fire.
