@@ -3,24 +3,29 @@
 ## Introduction 
 
 Have you ever opened a syntax or script file two years after running an analysis only find that you have no memory of the code?
-On top of this you may have a load of variables being passed to arcane functions which are in turn passed back to themselves
+On top of this you may have lots of variables being passed to arcane functions, which are in turn passed back to themselves:
+
 ```
 x <- thisDoesAThing(doToThis,DoToThat)
 x <- thisDoesAnotherThing(doToThat,DoToThis,thenThis)
 print(x)
 ```
-Or meaningless file names such as "analysis_1final_FINAL.R, or "onlyusethisoneforanalysis_onamonday2a.py".
+Or you may have meaningless file names such as "analysis_1final_FINAL.R, or "onlyusethisoneforanalysis_onamonday2a.py".
 
-This is frustrating enough on personal projects, but imagine if a collaborator sent you those files, or you had cloned them from github, or the Open Science Framework.
-Not only would you have no memory the code, but you would have never known in the first place!
+If you have not - then you are one of the lucky few!
+For everyone else, this is frustrating enough on personal projects.
+But imagine if a collaborator sent you those files, or you had cloned them from github, or the Open Science Framework.
+Not only would you have no memory the code, but you would have never known it in the first place!
 
 ![https://xkcd.com/1513/](xkcd1513.png)
 
-This chapter aims to introduce some principals of code hygiene, otherwise known as *linting*.
+This chapter aims to introduce some principals of 'code hygiene', otherwise known as *linting*.
 Linting includes code formatting, naming conventions, and writing useful comments.  
-Some integrated development environments (IDEs) include automatic linting.  Also, and there are also packages in Python that will lint for you (e.g. [autopep8](https://pypi.org/project/autopep8/).
+Some integrated development environments (IDEs) include automatic linting.
+There are also packages in Python that will lint code for you (e.g. [autopep8](https://pypi.org/project/autopep8/).
 
-Keeping this advice in mind will help you create reusable, and easily adaptable code.  
+By keeping the following advice in mind while coding, your code will be more resuable, adaptable, and clear.
+  
 Indeed, point 7 of the [Zen of Python](https://www.python.org/dev/peps/pep-0020/) is:
 
 >Readability Counts
@@ -28,7 +33,8 @@ Indeed, point 7 of the [Zen of Python](https://www.python.org/dev/peps/pep-0020/
 ## Code Styling
 
 Style guidelines differ between organisations, languages, and over time ^[The Python style guide Python Enhancement Proposal (PEP) 8 has had numerous revisions since it was released in 2001.].
-It is important that you work to a framework that is best for your purposes, be that your own benefit, or communicating with others.  It is also important to remain consistent^[and not consistently inconsistent]!
+It is important that you work to a framework that is best for your purposes: be they for your benefit, or the benefit of others.
+It is also important to remain consistent^[and not consistently inconsistent]!
 
 Style guidelines include advice for file naming, variable naming, use of comments, and whitespace and bracketing.
 
@@ -40,24 +46,26 @@ The following are links to existing style guide that may be of use when deciding
 * [Microsoft's](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) style guide for C#.
 * [PEP7](https://www.python.org/dev/peps/pep-0007/) for C.
 
-However, to get started quickly, the following sections with present some things to consider when coding.
+However, to get started quickly, the following sections with present some advice for code style.
 
 ## File Naming
 The [Centre for Open Science](http://help.osf.io/m/bestpractices/l/609932-file-naming) has some useful suggestions for naming of files, particularly ensuring that they readable for both humans and machines.
 This includes avoiding the use of wildcard characters (@£$%) and using underscores ("\_") to delimit information, and dashes ("\-") to conjunct information or spaces.
 They also suggest dating or numbering files, and avoiding words like FINAL (or FINAL-FINAL).
-The dating suggestion is the long format `YYYY-MM-DD`, followed by the name of the file, and the version number.  This results in an automatic, chronological order. For example:
+The dating suggestion is the long format `YYYY-MM-DD`, followed by the name of the file, and the version number.
+This results in an automatic, chronological order. For example:
 
 ```
 data <- read.csv("2019-05-17_Turing-Way_Book-Dash.csv")
 
 ```
-The R style guide suggests keeping file names basic.  This might be appropriate for small compact projects, however over larger projects with lots of similar files, or if you are not using version control (see chapter /?) it may be more appropriate to use the COS guidelines.
+The R style guide suggests keeping file names basic.
+This might be appropriate for small compact projects, however over larger projects with lots of similar files, or if you are not using version control (see chapter /?) it may be more appropriate to use the COS guidelines.
 
 ### Versioning
-A extra consideration to file-naming is versioning your software.
+An extra consideration to file-naming is versioning your software.
 Using versioning guidelines will help avoid using words like "FINAL.R".
-A typical convention is the MajorMinorPatch/MajorMinorRevision approach.
+A typical convention is the MajorMinorPatch (or MajorMinorRevision) approach.
 In this, your first attempt at a package or library might look like this:
 ```
 my-package_1_0_0.py
@@ -65,14 +73,19 @@ my-package_1_0_0.py
 This indicates that the software is in the unrevised/patched alpha stage (0) of the first major release.
 
 ## Variable Naming
-In maths projects at school,  variables are generally, and unimaginatively called "x","y", and "z". This brevity is probably because teachers rightfully do not want to repeatedly write long variable names on the board.  In coding however, you have the freedom to name your variables anything you like. This can be useful for representing the flow of your script.
+In maths projects at school,  variables are often unimaginatively named "x","y", and "z".
+This brevity is probably because teachers (understandably) do not want to repeatedly write long variable names on the board.
+In coding however, you have the freedom to name your variables anything you like.
+This can be useful for representing the flow of your script.
 
 Be creative!
 
 ![but not too creative: https://xkcd.com/1695/](xkcd1695.png)
 
 ### Naming conventions
-For clarity and readability, choosing a set of naming conventions for your variables is useful.  There is a large variety, and some people can be quite vocal about which one is 'correct'^[Again, pick one that is right for you!].  These include:
+For clarity and readability, choosing a set of naming conventions for your variables is useful.
+There is a large variety, and some people can be quite vocal about which one is 'correct'^[Again, pick one that is right for you!].
+These include:
 
 - CamelCase
 - lowerCamelCase
@@ -88,13 +101,15 @@ raw_data <- read.csv("data.csv") # Not very creative
 rawData <- read.csv("data.csv")  #lowerCamelCase
 ```
 
-OK, `raw_data` is not very creative, but it could easily have been `spam` or `eggs` if that makes sense in your script.  You may also have a function that recodes a variable:
+OK, `raw_data` is not very creative, but it could easily have been `spam` or `eggs` if that makes sense in your script.
+You may also have a function that recodes a variable:
 
 ```
 rawDat <- recode(rawDat)
 ```
 
-Reusing the variable name provides no information about the process that rawDat has been through.  Storing it as a separate variable lets us see what transformations have been carried out on the original variable:
+Reusing the variable name provides no information about the process that rawDat has been through.
+Storing it as a separate variable lets us see what transformations have been carried out on the original variable:
 
 ```
 rawDat_recoded <- recode(rawDat)
@@ -121,7 +136,7 @@ Where_as if_you stick_to one_style, your_code will_be easier_to_follow!
 There is some agreement on the length of coding lines.
 PEP8 suggests a maximum of 79 characters per line, and 80 by the R style guide.
 This means that the lines can easily fit on a screen, and multiple coding windows can be opened.
-It is argued that if your line is any longer than this then you should use separate stages.
+It is argued that if your line is any longer than this then your function is too complex and should be separated!
 This is the crux of the Tidy method of R programming, which even has a special operator `%>%` which passes the previous object to the next function, so fewer characters are required:
 
 ```
@@ -161,7 +176,8 @@ static int
 int my_int = 57 ; /* C for completion */
 }
 ```
-For longer comments, information can be included above the code block. In Python you can use triple speech marks as parenthesis.  This will comment out anything in between.
+For longer comments, information can be included above the code block. In Python you can use triple speech marks as parenthesis.
+This will comment out anything in between.
 
 ```{python}
 """
@@ -174,7 +190,8 @@ print(myfunc(8))
 
 ```
 
-Longer blocks of comments are not available in R.  There are ways around this, such as setting up a string, or an if(false) statement:
+Longer blocks of comments are not available in R.
+There are ways around this, such as setting up a string, or an if(false) statement:
 
 ```
 
@@ -225,11 +242,13 @@ However, and again, it is important to ensure that you are consistent when colla
 It could be useful to create a readme file describing your coding style so collaborators or contributors can follow your lead.
 
 
-### .  .\n
-If you are sharing text files or working collaboratively on manuals or documents, then there is a lot of controversy surrounding whether to use one or two spaces after a period.
-When using Markdown, it can actually be clearer to include a new line after every sentence.  This makes the raw text easier to read, and solves the spacing issue.
+### ...end. ...end.  ...or end.\\n
 
-![You wont see us with spears though! http://xkcd.com/1285](xkcd1285.png).
+If you are sharing text files or working collaboratively on manuals or documents, then there is a lot of controversy surrounding whether to use one or two spaces after a period.
+When using Markdown, it can actually be clearer to include a new line after every sentence.^[This chapter (and most, if not all, of this book) has a new line after every sentence]
+This makes the raw text easier to read, and solves the spacing issue.
+
+![We don't have spears though: http://xkcd.com/1285/](xkcd1285.png)
 
 # Tools
 As mentioned earlier, there are some automatic tools that you can use to lint your code to existing guidelines.
