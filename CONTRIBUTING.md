@@ -36,6 +36,7 @@ Been here before? Already know what you're looking for in this guide? Jump to th
     - [Adding a new reference](#adding-a-new-reference)
     - [Citation key style guide](#citation-key-style-guide)
   - [Adding links between pages within the book](#adding-links-between-pages-within-the-book)
+  - [Auto-formatting](#Auto-formatting)
 - [Recognising Contributions](#recognising-contributions)
 
 ## Joining the community
@@ -414,6 +415,27 @@ Note the difference between starting your path with `/`, which means it will sta
 
 A nice easy way to find absolute path can be found by looking at the page you would like to link to (for example, https://the-turing-way.netlify.com/testing/testing.html) and then taking everything after https://the-turing-way.netlify.com.
 Please note that you do not need to include the file extension, for example .html, in your relative path.
+
+### Auto-formatting
+
+ The Travis continuous-integration tests will check for formatting errors using [prettier.io](prettier.io). You can see a list of all files with style issues by looking at the Travis build logs, for example:
+
+ ```
+Checking formatting...
+book/content/introduction/introduction.md
+book/content/open_research/open_research.md
+Code style issues found in the above file(s). Forgot to run Prettier?
+The command "prettier --check ./book/content/**/*.md" exited with 1.
+```
+
+ *Optional:* If you would like to apply auto-formatting when editing locally, we recommend [pre-commit](https://pre-commit.com/). To get started, run the following from your shell:
+
+ ```
+pip install pre-commit
+pre-commit install
+```
+
+ Each time you attempt to commit a change with git, pre-commit will run the prettier auto-formatter and automagically fix any style issues.
 
 ## Recognising Contributions
 
