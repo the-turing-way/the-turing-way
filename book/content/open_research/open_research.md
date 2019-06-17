@@ -11,7 +11,7 @@ Recommended skill level: low.
 ## Table of contents
 
 1. [Summary](#summary)
-2. [How this will help you/ why this is useful](#how-this-will-help-you-why-this-is-useful)
+2. [How this will help you/ why this is useful](#how-this-will-help-you--why-this-is-useful)
 3. [Open data](/open_research/01/opendata#open-data)
     1. [Steps to make your data open](/open_research/01/opendata#steps-to-make-your-data-open)
         1. [Step 1: Make your data available](/open_research/01/opendata#step-1-make-your-data-available)
