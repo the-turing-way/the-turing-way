@@ -76,6 +76,23 @@
   url: rdm/rdm
 - title: Reproducible Environments
   url: reproducible_environments/reproducible_environments
+  sections:
+  - title: Choosing a tool
+    url: reproducible_environments/01/options
+  - title: Conda
+    url: reproducible_environments/02/package-management
+  - title: YAML
+    url: reproducible_environments/03/yaml
+  - title: Binder
+    url: reproducible_environments/04/binder
+  - title: Virtual machines
+    url: reproducible_environments/05/virtual-machines
+  - title: Containers
+    url: reproducible_environments/06/containers
+  - title: Checklist
+    url: reproducible_environments/07/checklist
+  - title: Resources
+    url: reproducible_environments/08/resources
 - title: Testing
   url: testing/testing
 - title: Reviewing
@@ -100,3 +117,5 @@
     url: risk_assessment/01/longreadriskassessment
   - title: Summary
     url: risk_assessment/02/finalsummary
+- title: Glossary
+  url: glossary/glossary
