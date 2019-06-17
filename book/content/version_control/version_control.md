@@ -661,6 +661,86 @@ If your changes address and issue that has been raised reference it directly.
 If your request fixes and issue and you include "will fix #the_issue_number >" in the pull request, if the pull request is merged it will automatically close the referenced issue, keeping the issue queue nice and clean!
 This also works for using commit messages to close issues too.
 
+## Contributing to projects
+
+### The problem
+
+When multiple people are working on the same project, even when working on different branches, they need to keep their fork updated frequently with the master repository or else [merge conflicts](#merge-conflicts) can arise. 
+When you create a fork of a repository you only have the versions of the files that are in the repository at that time.
+So if there are any changes in the original repository you may find that your version (your fork) is out of sync.
+This can lead to problems while making a pull request. Thus in order to contribute your changes to a repository, syncing your fork to the original repository is important.
+Aforementioned section on [Branches](#branches), explains why its necessary to make your changes in branches and keeping the master branch clean.
+It could also happen that one of the branches you are working on could be out of sync, its also necessary to keep it up to date in order for your pull request to get merged.
+
+### The solution
+
+If you plan on doing anything more than just a tiny quick fix, you'll want to make sure you keep your fork up to date by tracking the original "upstream" repository that you forked. 
+This can be done by adding a **remote upstream**.
+Once your fork is up-to-date with upstream master, you can update your other local branches and keep them in sync with your local master branch.
+
+### How to do it
+
+An article on syncing a fork of a repository to keep it up-to-date with the upstream repository can be found [here](https://help.github.com/en/articles/syncing-a-fork). 
+If you wish to do it all in the browser itself, instructions to do so can be found [here](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser).
+
+#### Here's a quick overview of general preferred workflow to contribute to projects: 
+
+First of all fork the main repository you wish to contribute to and clone it to your local machine.
+```
+git clone git@github.com/your_username/forked_repository.git
+```
+Add a remote upstream.
+```
+# Add 'upstream' repository to list of remotes
+git remote add upstream https://github.com/upstream_user's_username/original_repository.git
+
+# Verify the new remote named 'upstream'
+git remote -v
+```
+Whenever you want to update your fork with the latest upstream changes, you'll need to first fetch the upstream repository's branches and latest commits to bring them into your repository:
+```
+# Fetch from upstream remote
+git fetch upstream
+
+# View all branches, including those from upstream
+git branch -va
+```
+Now you can keep your fork update by merging those commits fetched from the upstream to your own local master branch.
+```
+# Checkout your master branch and merge upstream
+git checkout master
+git merge upstream/master
+```
+If there are no unique commits on the local master branch, git will simply perform a fast-forward. Now, your local master branch is up-to-date with everything modified upstream.
+
+**Remember upstream/master is the original repository's master which you wish to contribute to whereas origin/master refers to the source repository from where it was cloned, which means your fork! 
+Local repository is the clone of your forked repository on your local machine.**
+
+Once your fork is in sync with upstream master repository, you can always keep your local cloned repository in sync with origin (fork in this case) by using,
+```
+git checkout master
+git pull origin master
+```
+The git pull command combines two other commands, git fetch and git merge. 
+When doing a fetch the resulting commits are stored as remote branch allowing you to review the changes before merging.
+Similarly you can also keep your other branches in sync with your fork, once your fork is in sync with the upstream repository.
+```
+git checkout my-feature-branch
+git pull origin my-feature-branch
+# use pull or (fetch+merge) instead of git rebase master
+```
+Once everything is  up-to-date, you can work and commit changes on your branch. Once ready, push your local commits to your forked repository (origin).
+```
+git push origin my-new-feature-brach
+```
+Now you can make a pull request!
+
+### Good practice
+
+Before you create a branch, be sure you have all the upstream changes from the origin/master branch.
+While trying to keep your branches in sync try to avoid using `rebase` command instead of `pull` or `fetch`+`merge`, as `rebase` tends to rewrite history and could be troublesome if not communicated with others working on the same branch.
+You can find more details about Merging vs Rebasing [here](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
 ## Summary of key Git commands
 
 | Command                       | Use                                                                      |
@@ -777,3 +857,4 @@ Many such skills are either also applicable for using version control well, for 
 - [20.](https://commons.wikimedia.org/wiki/Taj_Mahal#/media/File:Taj_Mahal_in_March_2004.jpg) **GNU Free Documentation License**
 - [21.](https://juristr.com/blog/2013/04/git-explained/) **Creative Commons Attribution-ShareAlike 4.0 International License**
 - [22.](http://simpleprimate.com/github-for-web-designers/glossary.html) **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+- [23.](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)**Creative Commons Attribution 2.5 Australia License.**
