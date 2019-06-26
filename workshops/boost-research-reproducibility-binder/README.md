@@ -2,9 +2,9 @@
 
 In this folder you can find the materials you need to run a Turing Way developed workshop to help researchers share their research in a reproducible way using Binder.
 
-* An instructor's guide to running the workshop (under development)
-* A full day workshop [agenda](agenda.md)
-  * (There is a half day version in development)
+* An [instructor's guide](instructor_guide.md) to running the workshop
+* Agendas for your workshop:
+  * [Carpentry Connect: 26 June 2019](agenda#carpentry-connect-26-june-2019)
 * [Paired examples](paired_examples.md) exercise
 * A folder of [workshop presentations](workshop-presentations) (some in `md` format, others in `pptx` and `pdf` where available, only `pdfs` linked below)
   * [Introduction](workshop-presentations/PRE_IntroBoostResReproBinder.pdf) to Manchester workshop on 1 March 2019 by [Rosie Higman](https://github.com/rosiehigman).

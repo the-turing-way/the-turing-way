@@ -116,7 +116,7 @@ The times follow the Carpentry Connect schedule, but can be adjusted as needed.
 | Time | Activity |
 | ---- | -------- |
 | 13:30 - 13:40 | [Registration and introductions](#Registration-coffee-and-introductions) |
-| 13:40 - 13:50 | Introduction to the workshop and The Turing Way](#introduction-to-the-workshop-and-the-turing-way) |
+| 13:40 - 13:50 | [Introduction to the workshop and The Turing Way](#introduction-to-the-workshop-and-the-turing-way) |
 | 13:50 - 14.30 | [Why you need a reproducible computing environment and how Binder can help](#why-you-need-a-reproducible-computing-environment-and-how-binder-can-help)
 | 15:00 - 15:30 | Coffee break :coffee: |
 | 15:30 - 16:30 | [Zero to Binder, a guided tour of building a Binder resource](#zero-to-binder-a-guided-tour-of-building-a-binder-resource) |
