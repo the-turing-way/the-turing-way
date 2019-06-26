@@ -48,10 +48,10 @@ Doing this prompted discussion between participants about their hopes and fears,
 For the full day workshop, we recommend providing coffee for this informal start to the day.
 
 ### Introduction to the workshop and The Turing Way
-The workshop begins with an [introductory presentation](/workshop-presentations/PRE_IntroBoostResReproBinder_ATI.pdf) setting out the aims for the day, some background on reproducibility and introducing the [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md). At the end of the introductory presentation participants are given the URL for the HackMD (or similar) file and asked to introduce themselves in the document.
+The workshop begins with an [introductory presentation](workshop-presentations/PRE_IntroBoostResReproBinder_ATI.pdf) setting out the aims for the day, some background on reproducibility and introducing the [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md). At the end of the introductory presentation participants are given the URL for the HackMD (or similar) file and asked to introduce themselves in the document.
 
 ### Why you need a reproducible computing environment and how Binder can help
-This section involves a [presentation](/workshop-presentations/ReproducibleComputationalEnvironment.pdf) and a small group exercise working through some [paired examples](paired_examples.md).
+This section involves a [presentation](workshop-presentations/ReproducibleComputationalEnvironment.pdf) and a small group exercise working through some [paired examples](paired_examples.md).
 
 The paired examples give participants a chance to see what happens when there are changes in the computational environment and how they can affect the outputs of some simple code. There are 3 examples which use Python and 1 in R, each in their own GitHub repository. Examples 2, 3 and 4 (the R example) all have two branches, with small differences in the computational environment in the different branches.  Participants were given 20 minutes to work through the examples in small groups and there was then a discussion with the whole group about what the differences were between the examples and what changes those differences caused.
 
