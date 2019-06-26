@@ -88,8 +88,9 @@ Most of the writing that you'll do will be in [Markdown][markdown].
 You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting.
 For example you could write words as **bold** (`**bold**`), or in _italics_ (`_italics_`), or as a [link][rick-roll] (`[link](https://https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
 
-Also when writing in Markdown, please start each new sentence on a new line.
+Also when writing in Markdown, please start each new sentence on a new line.	
 While this formats in the same way as if the new line wasn't included, it makes the [diffs produced during the pull request](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests) review easier to read! :sparkles:
+
 
 ## Where to start: issues
 
@@ -281,6 +282,7 @@ You can host the book website locally. The steps are:
 
 ## Style Guide
 
+
 ### Writing style
 
 To ensure all text can be read easily by all (including screen readers and non-native english speakers), follow Gov.uk guidance on e.g., i.e., and etc. (1)
@@ -297,22 +299,22 @@ Try (re)writing sentences to avoid the need to use it. If that is not possible, 
 
 1. https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#eg-etc-and-ie
 
-### Sentences
+### Sentences	
 
-When writing all sentences should go on a new line.
-This will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph. Consider the example below.
+When writing all sentences should go on a new line.	
+This will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph. Consider the example below.	
 
-```
-Today you are you, that is truer than true. There is no one alive who is youer than you. - Dr Seuss
-```
+ ```	
+Today you are you, that is truer than true. There is no one alive who is youer than you. - Dr Seuss	
+```	
 
-A pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph.
-Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.
+ A pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph.	
+Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.	
 
-```
-Today you are you, that is truer than true.
-There is no one alive who is youer than you.
-- Dr Seuss
+ ```	
+Today you are you, that is truer than true.	
+There is no one alive who is youer than you.	
+- Dr Seuss	
 ```
 
 ### Opinions
@@ -343,6 +345,30 @@ This can be done simply as:
 ```
 
 Figures should be added to the `book/content/figures` directory.
+
+
+### Auto-formatting
+
+The Travis continuous-integration tests will check for formatting errors using [prettier.io](prettier.io). You can see a list of all files with style issues by looking at the Travis build logs, for example:
+
+```
+Checking formatting...
+book/content/introduction/introduction.md
+book/content/open_research/open_research.md
+Code style issues found in the above file(s). Forgot to run Prettier?
+The command "prettier --check ./book/content/**/*.md" exited with 1.
+```
+
+*Optional:* If you would like to apply auto-formatting when editing locally, we recommend [pre-commit](https://pre-commit.com/). To get started, run the following from your shell:
+
+```
+pip install pre-commit
+pre-commit install
+```
+
+Each time you attempt to commit a change with git, pre-commit will run the prettier auto-formatter and automagically fix any style issues.
+
+
 
 ### Referencing and Citing
 
@@ -414,27 +440,6 @@ Note the difference between starting your path with `/`, which means it will sta
 
 A nice easy way to find absolute path can be found by looking at the page you would like to link to (for example, https://the-turing-way.netlify.com/testing/testing.html) and then taking everything after https://the-turing-way.netlify.com.
 Please note that you do not need to include the file extension, for example .html, in your relative path.
-
-### Auto-formatting
-
- The Travis continuous-integration tests will check for formatting errors using [prettier.io](prettier.io). You can see a list of all files with style issues by looking at the Travis build logs, for example:
-
- ```
-Checking formatting...
-book/content/introduction/introduction.md
-book/content/open_research/open_research.md
-Code style issues found in the above file(s). Forgot to run Prettier?
-The command "prettier --check ./book/content/**/*.md" exited with 1.
-```
-
- *Optional:* If you would like to apply auto-formatting when editing locally, we recommend [pre-commit](https://pre-commit.com/). To get started, run the following from your shell:
-
- ```
-pip install pre-commit
-pre-commit install
-```
-
- Each time you attempt to commit a change with git, pre-commit will run the prettier auto-formatter and automagically fix any style issues.
 
 ## Recognising Contributions
 
