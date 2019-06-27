@@ -55,7 +55,7 @@ Learn more about Continuous Integration in [this chapter](/continuous_integratio
 
 BinderHub relies on different tools and resources in order to create and launch the Binder instances.
 
-A high-level explanation of the BinderHub architecture can be found [here](https://binderhub.readthedocs.io/en/latest/overview.html).
+For more information, see this [high-level explanation of the BinderHub architecture](https://binderhub.readthedocs.io/en/latest/overview.html).
 
 | ![cloud_neutral_binderhub](/figures/cloud_neutral_binderhub.png) |
 |:---:|
