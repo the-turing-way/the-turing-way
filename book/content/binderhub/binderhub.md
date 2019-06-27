@@ -144,6 +144,7 @@ At minimum, you'll need to be able to assign [Role Based Access Control (RBAC)](
 | | |
 |:---|:---|
 | Docker image or container | A set of instructions to create a computational environment.|
+| Docker registry | A storage and distribution system for named Docker images. The registry allows Docker users to pull images locally, as well as push new images to the registry (given adequate access permissions when applicable). Such systems are often hosted in the cloud for ease of access. |
 | BinderHub | Technology for hosting reproducible computational environments. |
 | Binder | The user-facing service of a BinderHub. |
 | Kubernetes | Autonomous computational cluster manager. |
