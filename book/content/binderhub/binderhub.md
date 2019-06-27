@@ -92,6 +92,8 @@ However, the JupyterHub can be further customised to provide greater control ove
 This Docker container will contain all of the code, data and resources that are listed in the repository.
 All the software required to run the code will also be preinstalled from the configuration file.
 
+BinderHub can be thought of as thin layer that sits on top of repo2docker and JupyterHub, orchestrating their interactions and resolving URLs.
+
 ### What happens when a Binder link is clicked?
 
 1. The link to the repository is resolved by BinderHub.
