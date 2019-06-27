@@ -71,7 +71,7 @@ In fact, BinderHub is not dependent on cloud-hosting at all and can be deployed 
 ### Kubernetes
 
 [Kubernetes](https://kubernetes.io/) is a system for automating deployment, scaling (making more or fewer copies), and management of containers across a compute cluster (it doesn't have to be cloud-based).
-BinderHub uses Kubernetes to manage the resources requested by the users of the Binder service, and to support the tools of that build the instances.
+BinderHub uses Kubernetes to manage the resources requested by the users of the Binder service, and to support the tools that build the environments.
 
 ### Helm
 
