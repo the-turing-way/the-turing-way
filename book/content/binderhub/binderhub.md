@@ -76,7 +76,7 @@ BinderHub uses Kubernetes to manage the resources requested by the users of the 
 ### Helm
 
 [Helm](https://helm.sh/) is a package manager for Kubernetes.
-Packages come in the form of Charts which are a set of instructions to deploy, upgrade and manage applications running on a Kubernetes cluster.
+Packages come in the form of *Charts* which are a set of instructions to deploy, upgrade and manage applications running on a Kubernetes cluster.
 They can make installing and managing Kubernetes applications much easier and Specific Charts for projects can be published online.
 For example, the Helm Chart for BinderHub are available [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub).
 
