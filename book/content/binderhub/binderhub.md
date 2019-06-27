@@ -83,7 +83,7 @@ For example, the Helm Chart for BinderHub are available [here](https://jupyterhu
 ### JupyterHub
 
 [JupyterHub](https://jupyter.org/hub) is a multi-user server for Jupyter Notebooks and containers alike.
-The JupyterHub's main role is to connect the user's browser to the BinderHub instance running on the Kubernetes cluster.
+In the context of Binder, the JupyterHub's main role is to connect the user's browser to the BinderHub instance running on the Kubernetes cluster.
 However, the JupyterHub can be further customised to provide greater control over the operation of the BinderHub.
 
 ### repo2docker
