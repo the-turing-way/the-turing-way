@@ -66,7 +66,7 @@
     url: collaborating_github/1/readme_communication
   - title: Roadmapping
     url: collaborating_github/2/roadmapping
-  - title: Getting Contributors 
+  - title: Getting Contributors
     url: collaborating_github/3/getting_contributors
   - title: Checklist and Bibliography
     url: collaborating_github/4/checklist_bibliography
@@ -117,5 +117,7 @@
     url: risk_assessment/01/longreadriskassessment
   - title: Summary
     url: risk_assessment/02/finalsummary
+- title: BinderHub
+  url: binderhub/binderhub
 - title: Glossary
   url: glossary/glossary
