@@ -110,6 +110,8 @@
   url: continuous_integration/continuous_integration
 - title: Reproducible Research with Make
   url: make/make
+- title: Advanced Reproducible Batch Data Analysis Workflows (Pipelines)
+  url: adv_workflows/adv_workflows
 - title: Risk Assessment
   url: risk_assessment/risk_assessment
   sections:
