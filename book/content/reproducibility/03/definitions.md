@@ -41,7 +41,7 @@ The handbook will cover:
 * Reproducible environments
 * Testing
 * Reviewing
-* Continous integration
+* Continuous integration
 * Reproducible research with make
 * Risk assessments
 * Various case studies
