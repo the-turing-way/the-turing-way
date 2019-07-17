@@ -1,6 +1,22 @@
 # Presenting Results
 
-This was split into two themes which relate to each other: Presentation and Precision. It is also two staged:
+*We should present results accurately and responsibly to clearly convey research findings and avoid common misconceptions.*
+
+> Plan:
+> * Discuss the need to be careful on how to present results
+>   * Dicuss the two stages
+>   * Discuss the two themes
+> * Break down points in presentation - including examples
+> * Break down points in precision - including examples
+> * Discussion piece on over hyped results & misconceptions
+> * Examples? 
+
+This was split into two themes which relate to each other:
+
+* Presentation
+* Precision
+
+It is also two staged:
 
 * Preventative - presenting so you can’t be overhyped. How to stop
 * Symptomatic - Addressing misconceptions / overhyped. How to combat
