@@ -3,61 +3,90 @@
 ## We should communicate and coordinate effectively with different audiences in an accessible and diverse way: journalists, general public, industry, other data scientists. 
 
 ### Contents:
-1. [Oral Communication](#oral-communication)
+1. [Researcher vs. Journalist](#researcher-vs-journalist)
 
-2. [Written Communication](#written-communication)
+2. [Oral Communication](#oral-communication)
 
-3. [Visual Communication](#visual-communication)
+3. [Written Communication](#written-communication)
+
+4. [Visual Communication](#visual-communication)
 
 
+## Researcher vs. Journalist
+
+Effective communication to a wide audience requires changing your style to be less like a researcher and more like a journalist. Researchers are trained to communicate with each other generally by first outlining the background of the problem, including references to previous work and the outstanding challenges, followed by a thorough description of the methodology before finally presenting results and discussing the implications of those results. The approach starts with the very general, widest possible viewpoint of the particular field and gradually proceeds to the specifics of the individual study. This is a general model and it is how most research is transmitted to other researchers, including oral presentations, journal articles, and visual illustrations such as posters or the sequence of figures in a paper. Note that this [article on effective science writing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3009394/) tends to follow this structure.
+
+Journalists take an approach that is completely inverted from this perspective. Most news articles start with the detailed specifics about what happened and why it is important, and only after that initial information is conveyed, the more general background information begins to enter into the discussion. This is exactly the reverse of a typical research paper, where these specifics come only at the end. In this journalist model, often referred to as the [Inverted Pyramid](https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism)). In this model, the audience gets the main point regardless of how far into the story they progress, and more peripheral details that might be important to the big picture but have little bearing on what actually happened are availble but not the first thing that is encountered.
+
+Communicating beyond a specific field or even beyond the wider community of researchers requires adapting your style to match that of a journalist rather than a researcher. Rather than convincing your audience that you are researching a problem with a long history in the academic literature before talking about your specific study, you should instead focus exclusively on what single, main result of the study is and the impact it has on the individual. In the following sections, specific questions are outlined that can help guide you towards thinking in this manner for various forms of communication, including oral, written, and visual.
 
 ## Oral Communication
 
-#### Summary:
+The most common way of communicating your research results beyond your immediate field is orally. This can be done in environments as simple as a discussion with friends at the pub over drinks, or may involve more formal appearances in the media. Specific avenues for oral communication are quite varied, and include interviews, podcasts, public lectures, and just having casual conversations with people outside of your area of expertise. It is best not to think about these like research talks, but instead to apply the above prinicples and treat them like conversations with different audiences with a specific message.Unlike in technical presentations at conferences or seminars, where you are allotted enough time to follow the general to specific presentation methodology of a researcher, these oral discussions are usually very short (several minutes) and thus the journalist's method of leading with the main result tends to be more effective.
 
-Speaking with other audiences is a skill that requires some forethought and practice. You need to boil your message down to a single, simple message that simultaneously captures what the main result is and why it matters. It can be very helpful to plan your message in advance, and to practice explaining it to a friendly person that is outside of your area of expertise.
+However, this change in tactics still requires prior thought as to how to best present your work. In particular, you need to think carefully about how to distill your main result into a single, clear, unambiguous message. Additionally, you need to think about what the audience values and how your result impacts them as an individual in order to drive the message home regarding why they should care. This is a skill that requires practice in order to develop, and it can be very helpful to think about and craft your message in advance and to practice explaining it to a friendly person that is outside of your area of expertise.
 
-##### Details
+The following discussion is adapted from materials provided by [Compass Science Communication](https://www.compassscicomm.org/message-box-online).
 
-- [Message Box](https://www.compassscicomm.org/message-box-online): This is a simple document that walks you through some of the important things to consider when pitching your work to a different audience. In addition to identifying your audience and the central issue, it suggests thinking about the following questions:
-  - Problems? Give specifics about the problem you are solving
-  - So What? What are the values of your audience, and how does your work impact them?
-  - Solutions? How does your work address the above?
-  - Benefits? How does your solution help people? What are the short and long term implications?
-  The key here is to think through these issues, and hone your focus on your single main point and how your research fits into the bigger picture. Time spent thinking through these questions can help you figure out how to explain things without any jargon, which is a challenge we often face when communicating with non-experts.
+**Define your audience:** Before thinking about your message content, you first need to define who your audience is and what they care about. The actual message will likely be different for different groups: you may have one message for the general public, one for government officials, and one for speaking with journalists. You cannot expect that a single message will reach all people, because each group have different values and things that matter to them.
 
-          
-- Avenues for oral communication: interviews, podcasts, public lectures. It is best not to think about these like research talks, but instead to apply the above prinicples and treat them like conversations with different audiences with a specific message.
+**Describe your work using a short, single message:** Once your audience is identified, you need to craft your main message and cut out all of the side details that are not important to a broad audience. For example, the author of a 2015 study about plastic waste in the ocean [1] speaking to a journalist might describe their main message as follows:
+
+    We estimate that 8 million metric tonnes of plastic waste enters the ocean each year, or 13 kilograms for every
+    metre of coastline in the world.
+
+This message is short, succinct, and to the point, and emphasizes the main result of the study. It does not go into detail about how the methodologies by which this number was estimated, or what other studies have been done previously. Those pieces of information are not important for a journalist, who just would like a clear number that they can provide to illustrate the scale of the problem.
+
+Once the main message is identified, then you can begin to fill in the other relevant details, keeping in mind what your audience is and what is important to them. Important questions to ask include:
+
+**What is the problem?** What, broadly, is the question being addressed?
+
+**So What?** How does this impact the person you are speaking to?
+
+**Solutions?** How does the work address the concerns mentioned above?
+
+**Benefits?** How does your solution help people? What are the short and long term implications?
+
+Note that these questions will require you to fill in many background details, but by first specifying the main message, you can be judicious as to which details are necessary for someone to understand your results and how it can be connected to things that they care about.
+
+Once you have thought through these details in advance, it is a good idea to practice describing your work to people within your target audience and elicit feedback as to how understandable your message was and to point out areas of confusion or places where technical jargon may have crept into the discussion. By repeately speaking to target audience members, you can dramatically improve this skill and your ability to transmit your research results beyond your peers.
 
 
 ## Written Communication
 
-#### Summary:
+Another common way to disseminate research results is in writing. Avenues for written communcation span social media, blog posts, press releases, and articles in the news media. However, in many cases, a journalist or institutional communications officer may be writing the actual document based on an oral discussion or comments provided in writing. Many of the same principles described above apply to written communication: you need to think like a journalist and write following an 'inverted pyramid' structure, which differs from the standard flow of standard technical writing.
 
-Communicating in writing has much more in common with being a journalist than being a scientist. Journalists are taught to write articles following an "inverted pyramid" structure, which differs greatly from the normal way that scientists write technical papers. This appreach can be effective when describing your work in writing for institutional press releases, blog posts, and other situations where your primary method of conveying your work is in writing.
+Many of the same questions you should ask yourself to distill your message described in the oral communication section apply equally well to writing. An important first step is to idenify your audience and what matters to them, and then craft your message to align with their stake in the problem. Then, defining the core message and the relevant auxillary details will help you determine how to best present your findings.
 
-##### Details
+However, in some cases writing allows for more details to be transmitted than in short oral presentations -- for instance, press releases often have space for more details than a short oral interview, and so you will need to think about whether or not specific details are relevant given the amount of space involved. Therefore, you may need to revisit the questions above multiple times to ensure that the correct level of detail is given for a particular audience and the length of the document.
 
-- [Inverted Pyramid](https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism)):
-    - Researchers are trained to write technical papers where they begin with the most general background story, then proceed to details about the specific methods and important details, and only discuss the main results and impact at the end. Note that this [article on effective science writing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3009394/) tends to follow this structure.
-    - This is completely different from what journalists are trained to do. Journalists lead with the main results (who, what, where, when, why?) and impact, followed by the specifics, and only at the end do they bother telling any background information. This setup is designed so that if the reader can get the main story, and then only continue reading if they care about the details that are less likely to be relevant for everyone.
-    - It is useful to keep this in mind when writing about your work for a broader audience. People often will lose interest if you do not give them the bottom line up front, and your message will get lost. Always remember what belongs in the big picture, and boil it down to only the most essential details and lead with those points. You can then explain with more details about what you did, and give background later on that gives your research more context.
-
-- Avenues for written communcation: social media, blog posts, press releases, articles in the news media (though in the latter cases, a journalist of comms officer may be writing the actual document).
+As with oral communication, feedback and revision based on presenting to a member of the target audience is essential. Good writers go through multiple drafts and make extensive edits, and specific comments from the type of person that you are attemptint go reach can go a long way to ensuring that the right level of detail is provided and the motivating factors align with the interests and values of the audience.
 
 ## Visual Communication
 
-#### Summary
+Visual communication provides a way to include actual data into your message. This can be done in a variety of media, ranging from simple graphics designed to illustrate a point to complex webapps to explore and visualise data. Researchers often produce graphics that are good at illustrating a technical point, but may not fully emphasize the main message. The goal in adapting graphics for communicating research to a wider audiences is to remove any information that is not necessary to tell the main story. If you are trying to communicate your ideas to a journalist, it can be very helpful to have this in mind when crafting any graphics that you share with them, which is likely to help get your ideas across and tell a coherent and accurate story. Other aveunues for visual communication include posters, slides, and multimedia such as videos and cartoons can be useful ways to add additional visual dimensions to how you communicate results.
 
-Visual communication involves making graphics that summarize your research results. Scientists often produce graphics that are good at illustrating a technical point, but may not fully emphasize the main message. The goal in adapting graphics for communicating science ideas to a wider audiences is to remove any information that is not necessary to tell the main story. If you are trying to communicate your ideas to a journalist, it can be very helpful to have this in mind in terms of the graphics that you share with them, which is likely to help get your ideas across and tell a coherent and accurate story.
+News articles that cover research results often derive visuals from the research article itself. In this case, many news outlets have illustrators in house who create these visuals based on the originals in the paper. However, significant editing usually takes place before placing a graphic in a news article such that the original is modified in many ways. For some excellent examples of this, a [talk by a NY Times science illustrator](http://style.org/ku/) provides some insight into the variety of ways that different graphics have been adapted for use by the newspaper. Note however that the talk makes it crystal clear that one needs to define the audience prior to making any illustrations, and that his audience is NY Times readers.
 
-##### Details
+As with the discussion above, once the audience has been defined and the message that the illustration needs to convey has been set, the illustrator went through multiple iterations and solicited immediate feedback from editors and other non-specialists to hone the clarity of the presentation. Note that this is similar to the process of refining the oral or editing the written message as detailed above. In many cases, researchers often make a quick and dirty figure using the standard settings on a graphics package, and do not go through extensive revisions to ensure that the figure is clear, not misleading, and contains no extraneous information that would detract from the main message.
 
-- [Talk by a NY Times Science Illustrator](http://style.org/ku/): Far and away, I found this to be the most useful link on improving science illustrations for a wide audience (however, the author is quick to note that he actually has a very well-defined audience: NY Times readers). This is a talk showing how the author adapted numerous graphics from noteworthy scientific journal articles for inclusion in the NY Times. I found this a true tour de force for how clear science graphics can be (I was actually quite intimidated by how great the quality is of each and every example, and it really shows how much room there is for improvement in our own presentation methods when compared to the output of a professional!).
-    - In each example, the author describes the effort to really boil down the figure to a single, main result. This should sound familiar in the context of the above: whenever presenting science outside of your field of expertise, you need to know with clarity what the big picture message is that you are trying to convey.
-    - Once the result is identified, the author then explains how he went about adapting graphics for this purpose. My main takeaway is that there is no single way to accomplish this: it depends very much on the subject matter and what the message is.
-    - Edit and refine: I was also impressed by the editing process, where he showed the intermediate steps where he tried different things and the outcome. I am convinced that I don't spend enough time editing and revising my figures, and instead treat them as more of an afterthought. He was also willing to make significant changes if he didn't think the message was coming across very well.
-    
-- Aveunues for visual communication: posters, slides, images that accompany news articles, web apps (for example, R Shiny). Multimedia such as videos and cartoons can be useful ways to add additional dimensions to your visual communication, and can be a way to further illustrate specifics. Interviews, podcasts, and other material also falls under oral communication, but you may want to include visual details if the transmission media is video or contains other images.
+There are a range of ways to illustrate information visually. One idea of how to arrange this is from Scientific American Art Director Jen Christensen [4]:
 
+Representative           Illustrated                      Data
+Illustrations             Diagrams              Visualisations
+|------------------------------------------------------------|
+Figurative                                            Abstract
 
+At one end of the spectrum you have illustrations that are figurative and just meant to provide a picture of the content under question. As you move towards the abstract, you begin to get illustrations that are warped in ways to illustrate some principle to improve the understanding of the audience, but remain illustrations to varying degrees. Finally at the right you reach the full level of abstraction where you find quantitative data shown on a graph, removing any trace of the actual appearance of the object. In many cases, technical research (and certainly data science) will fall entirely on the abstract side of things, while a presentation to a different audience may require some movement towards the figurative end of the spectrum to give concrete understanding of what is being studied.
+
+## References
+
+[1] Jambeck, J. R., et al. “Plastic Waste Inputs from Land into the Ocean.” Science, vol. 347, no. 6223, 13 Feb. 2015, pp. 768–771., doi:10.1126/science.1260352. [link](https://science.sciencemag.org/content/347/6223/768)
+
+[2] Baron, N. 'Escape from the Ivory Tower: A Guide to Making Your Science Matter'. Island Press, 2010.
+
+[3] National Academies of Sciences, Engineering, and Medicine. 2017. Communicating Science Effectively: A Research Agenda. Washington, DC: The National Academies Press. https://doi.org/10.17226/23674.
+
+[4] https://blogs.scientificamerican.com/sa-visual/visualizing-science-illustration-and-beyond/
+
+[5] https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73
