@@ -4,7 +4,7 @@
 
 > Plan:
 > * Discuss the need to be careful on how to present results
->   * Dicuss the two stages
+>   * Discuss the two stages
 >   * Discuss the two themes
 >   * Discussion piece on over hyped results & misconceptions
 > * Break down points in presentation - including examples
@@ -35,24 +35,47 @@ The chapter is broken down into two themes:
 
 ## Presentation
 
-* Embrace and use past misrepresentations
-  to engage audience and inform scienceBookend any piece going into public with conclusions
-* Consider level of audience knowledge - reduce jargon and acronyms
-* Story telling
-* Consider multiple delivery methods
-  * Publications:
-    * White paper
-    * Magazine / newspaper articles
-    * Youtube
-    * Twitter / Facebook / LinkedIn
-  * Formats:
-    * Text
+There are a large variety of ways to present results for outreach, from powerpoint presentations, to posters, to interactive demos. Each of these have different appropriate audiences. The practical tips outlined here are for you to consider, and for you to decide how to best approach your outreach.
+
+### Practical Tips
+* Bookend your presentation
+  
+  Start and finish with the same conclusion, this re-enforces your main point and allows for early leavers, late arrivals, and distracted people to understand your presentation.
+  * Tell them what you are going to tell them.
+  * Tell them.
+  * Tell them what you told them.
+
+* Know your audience
+
+  * Avoid using domain specific jargon and acronyms. These alienate your audience and creates an atmosphere of superiority around the presenter. Contrary to this, a room full of experts aren't going to be interested in being taught the basics.
+  * You should also consider the age of your audience and what is important in their life. Children aren't going to be enthralled by how a machine learning implementation could save money on household bills.
+
+* Tell a story
+
+  TALK ABOUT THIS
+
+* Know your main takeaway
+
+  When starting to prepare some research or a project for outreach, start by thinking about your main takeaway. This should be 1 or 2 sentences that you want your audience to leave knowing and understanding. This is your starting point.
+
+* Use a wide range of formats
+
+  Even the most interesting person can't make a death by powerpoint presentation exciting. Avoid becoming monotonous by varying how you are presenting. Consider using:
     * Images
+      * Jokes and memes are a good way to engage the audience as well as giving information
+    * Graphs
+      * Using graphs to portray information can be very powerful, but you must be careful. Changing a graph or combining graphs which are unrelated for ease of reading can easily be misunderstood.
     * Audio
     * Animations
     * Video
-    * Graphs 
-* Make sure you identify 1 sentence you want as your main takeaway.
+
+* Consider multiple delivery methods
+
+    * White paper
+    * Traditional media articles (magazines and newspapers)
+    * Social media
+    * Personal blogs
+    * Institutional blogs
 
 ## Precision
 
