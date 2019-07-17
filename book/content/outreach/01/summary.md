@@ -14,6 +14,6 @@ These are the principles of the manifesto:
 2. We should communicate and coordinate effectively with different audiences in an accessible and diverse way: journalists, general public, industry, other data scientists. 
 3. We should approach projects with the expectation that outreach is an integral part, providing the administrative resources necessary to facilitate outreach.
 4. We should develop an organic relationship with other people involved in communications and information brokering (e.g. comms groups, journalists) by providing training, collaborating and coordinating.
-5. We should be advocates of high quality science and promote general scientific literacy in our organisations and the public.
+5. We should be advocates for general scientific literacy in our organisations and the public.
 
 Each principle will be developed in the following sections.

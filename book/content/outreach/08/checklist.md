@@ -12,3 +12,7 @@
 
 * [ ] Budget time and other resources needed for outreach into grant proposals.
 * [ ] Allow for researchers to attend training courses on outreach activities.
+
+## For group leaders
+
+* [ ] Have a repository with material 
