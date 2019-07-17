@@ -5,16 +5,114 @@
 
 ### Overview 
 
+From engaging the public with scientific developments to increasing the visibility of our work, engaging in outreach can yield both personal and societal benefits. While outreach is a multifaceted endeavour, all outreach activities are likely to require resources and funding. At a minimum outreach requires researcher's time and effort, a precious commodity in competitive research environments. To ensure the personal and societal benefits of outreach are realised, it is vital that outreach is incentivised within scientific communities and the administrative resources required are available to researchers. 
+
+
+### Outreach as part of the research cycle
+
+Outreach activities can be resource intensive. It is therefore important to plan outreach activities into the research cycle. Identifying potential outreach activities before a project commences can be beneficial for ensuring that appropriate funding, training and resources are available to support the activities. 
+
+However, outreach ideas may take shape at any stage of the research process and the goals of the outreach activity may have important implications for when the activity should take place. For example, a researcher may wish to publish a blog and draw attention to it via social media. The goal might simply be to reach a wider audience when disseminating research findings and raise awareness of a researchers activities. 
+
+### Who do you want to engage with and why?
+
+When planning outreach it is important to consider who you want to engage with and why.  
+
+### Getting help and support
+### Finding funding
+
+"Public engagement enhances research so that it contributes positively to society and results in greater relevance, accountability and transparency." - Alan Thorpe
+
+<!-- https://www.ukri.org/files/legacy/scisoc/concordatforengagingthepublicwithresearch-pdf/ - useful!  -->
+
+<!-- INSERT FIGURE -->
+
+1. Who is the audience
+    - Who do you want to engage with and why? It could be anything from writing a blog to build your research profile (help people know who you are; get you invaluable feedback - much faster than peer review). Or it could be large public engagement (e.g. meeting stakeholders/endusers who may benefit - for example, meeting automotive industry members when working on AI for selfdriving cars)
+
+2. What benefits might it bring?
+    - Build profile, improver chances of getting funding, help steer research ideas and understand the research problem better
+    - Develop your skills (being able to communicate effectively and clearly is an invaluable skill in research or for those considering moving into another field)
+    - "Don't cut corners – done well, publications can help disseminate key findings to target audiences; done badly, they will promote a poor image of your research and will cost you valuable time and more"
+
+3. What resources do you need?
+    - Human (Researcher time)
+    - Expertise in your institute
+    - Financial 
+        - Funding bodies sometimes provide funds for outreach. May improve success of grant
+
+4. When to plan? How to respond to new oppertunities?
+
+5. Identifying barriers
+    - Not all outreach will be appropriate. Potentially it could be costly. Is societal good enough motivation? 
+    - 2. UKRI CONCORDAT: "Research organisations should consider whether
+public engagement is appropriately represented
+in staff policies and processes (such as for
+inductions, performance review, promotions
+criteria or workload planning) to allow researchers
+to be involved in public engagement activities
+without impairing their career."
+    - Is this the case at your institution? Are there institutional barriers which are stopping you from engaging in outreach, which may be benificial. 
+
+7. Measuring success
+
+8. Sharing your experiences
+    - Useful to share your approaches and experiences with colleagues. What works well, what doesnt. 
+
+
+
+- Outreach activities start when planning the project
+    - Identify the audience you wish to reach
+    - How to reach them (are there commonly used paths? For example, do people use a similar platform for blogs)
+    - Identify the resources you require
+        - Are you running a workshop?
+        - Are you writing a blog? It's easy not to think about the costs of your time for outreach
+    - How are you going to fund it? 
+        - When writing grants to funding bodies?
+        - Are there resources within your institution? 
+
+
+Outreach should be a key component of a research cycle.  
+
+In addition, outreach can require skill sets which are unfamiliar to many researchers.
+
+
+ from writing blogs to giving public lectures, all these activities require administrative resources in order to ensure their success. As a baseline, all outreach activities will require researcher time, a highly valuable resource in competative research fields. In addition, many outreach activities  
+
+, but larger outreach activities may involve costs 
+
+all outreach activities require administative resources in order to ensure their success. Outreach activities are resource intentisive, requiring time 
+
+  These include carefully identifying the outreach goals, ensuring the activities 
+
+
+Carefully planned, funded, skills,  
+
+
+
+ a broad range of activities, the success of outreach projects will depend on 
+
+Successful outreach requires careful planning and 
+
+Outreach - 
+
 - Successful outreach requires careful planning, resourcing and should be goal directed 
 
 - Outreach should be thought of as part of the research project cycle
 
 - When should outreach planning take place (writing grants, planning for unexpected oppertunities)
 
+### Cultural change (towards always doing outreach or not?)
+
+- When should you do outreach?
+- Incentivising outreach 
+- Blogs become your CV (your own benefits)
+
 ### Identify the outreach goals 
 
 - Link back to why we do outreach, what benefits to we want for this specific project?
 - Potential types of outreach
+- Who is our target audience
 
 ### Identifying resources 
 - Who is out target audience, and how do we communicate with them
