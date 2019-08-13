@@ -114,6 +114,13 @@ You can access Key Vault Quickstarts and Tutorials [here](https://docs.microsoft
 
 ## Building a BinderHub
 
+This workshop will use the Cloud Shell in Azure Portal as it already has all of the tools we need preinstalled.
+
+* Login to the Portal here: https://portal.azure.com/
+* Open the Cloud Shell from the top of the dashboard:
+
+![Cloud Shell](../binderhub_resources/cloud_shell.png)
+
 :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
 ### Setup Local Files
