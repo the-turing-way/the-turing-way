@@ -1,8 +1,6 @@
 #!/bin/bash
 
 # Variables
-res_grp=testhub     # Azure Resource Group
-cluster=hubcluster  # AKS cluster name
 prefix=binder-dev   # Docker image prefix
 #jupyter_ip=   # Fill in the IP Address of your JupyterHub here
 
