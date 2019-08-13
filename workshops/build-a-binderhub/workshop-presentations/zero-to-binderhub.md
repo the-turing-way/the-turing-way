@@ -9,6 +9,13 @@ Link to this page: [**bit.ly/zero-to-binderhub-workshop**](http://bit.ly/zero-to
 The following workshop will walk you through deploying a BinderHub onto a Microsoft Azure Kubernetes Service.
 It will be a publicly available service like [mybinder.org](https://mybinder.org).
 
+## :warning: Before You Start :warning:
+
+You will need the following resources to be able to participate in this workshop:
+
+* A Microsoft Azure Free Trial subscription - sign up here: https://azure.microsoft.com/en-gb/free/
+* A Docker Hub account - sign up here: https://hub.docker.com/signup
+
 ## Table of Contents
 
 * [General Information](#general-information)
