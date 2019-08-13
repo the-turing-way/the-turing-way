@@ -132,18 +132,20 @@ Accept any prompts you see.
 We're going to download some template YAML files and a shell script that will automatically populate them with information using [`sed`](http://www.grymoire.com/Unix/Sed.html).
 This will make the BinderHub setup less intensive.
 
-Make a folder somewhere on your system.
+Make a folder to store this files and change into it.
 
 ```
 mkdir testhub
 cd testhub
 ```
 
-Make a copy of the following files and save them to the `testhub` folder:
+Run the following three commands to download the `setup.sh` script and the `config-template.yaml` and `secret-template.yaml` files.
 
-* [`setup.sh`](../binderhub_resources/setup.sh)
-* [`secret-template.yaml`](../binderhub_resources/secret-template.yaml)
-* [`config-template.yaml`](../binderhub_resources/config-template.yaml)
+```
+wget https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/master/workshops/build-a-binderhub/binderhub_resources/setup.sh
+wget https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/master/workshops/build-a-binderhub/binderhub_resources/config-template.yaml
+wget https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/master/workshops/build-a-binderhub/binderhub_resources/secret-template.yaml
+```
 
 Make the shell script executable will the following command.
 
@@ -154,7 +156,6 @@ chmod 700 setup.sh
 Now make a secrets folder inside `testhub` where we will save secrets.
 
 ```
-cd testhub
 mkdir secrets
 ```
 
