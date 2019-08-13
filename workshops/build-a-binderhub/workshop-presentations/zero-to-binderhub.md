@@ -25,7 +25,6 @@ You will need the following resources to be able to participate in this workshop
 * [Computational Requirements](#computational-requirements)
   * [Cloud Resource Requirements](#cloud-resource-requirements)
   * [Container Registry](#container-registry)
-  * [Installation Requirements](#installation-requirements)
   * [A Note on Secret Files](#a-note-on-secret-files)
 * [Building a BinderHub](#building-a-binderhub)
   * [Setup Local Files](#setup-local-files)
@@ -100,21 +99,6 @@ These instructions will link the BinderHub to a [DockerHub](https://hub.docker.c
 
 > BinderHub also works with Google Container Registry and custom registries.
 > We are using DockerHub as an example.
-
-### Installation Requirements
-
-This workshop will use a terminal (if you are on a Windows machine, you should use Azure's [Cloud Shell](https://azure.microsoft.com/en-gb/features/cloud-shell/)) and so we require some command line interfaces.
-
-* **Azure CLI:** Installation guidelines found [here](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest) (not required for Windows users)
-* **Kubernetes CLI (`kubectl`):** Installation guidelines found [here](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-with-homebrew-on-macos)
-* **Helm (Kubernetes package manager):** Installation guidelines found [here](https://helm.sh/docs/using_helm/#installing-helm)
-
-We used Homebrew on MacOS to install these:
-```
-brew install azure-cli
-brew install kubernetes-cli
-brew install kubernetes-helm
-```
 
 ### A Note on Secret Files
 
