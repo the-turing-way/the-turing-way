@@ -287,7 +287,7 @@ When you run a `helm` command, the local Helm client sends instructions to `till
 
 When you (a human) accesses your Kubernetes cluster, you are authenticated as a particular **User Account**.
 Processes in containers running in _pods_ are authenticated as a particular **Service Account**.
-More details [here](https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/).
+[More details](https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/).
 
 ```
 kubectl --namespace kube-system create serviceaccount tiller
@@ -315,16 +315,13 @@ This is the command that connects your remote Kubernetes cluster to the commands
 helm init --service-account tiller --wait
 ```
 
-**NOTE:** If you wish to install `helm` on another computer, you won't need to setup `tiller` again but `helm` still needs to be initialised.
-The command to only initialise `helm` is: `helm init --client-only`.
-
 #### 4. Secure Helm
 
 Secure `tiller` from access inside the cluster.
 
 `tiller`s port is exposed in the cluster without authentication and if you probe this port _directly_ (i.e. by bypassing `helm`) then `tiller`s permissions can be exploited.
 This step forces `tiller` to listen to commands from `localhost` (i.e. `helm`) _only_ so that e.g. other pods inside the cluster cannot ask `tiller` to install a new chart. For example, this could give other pods arbitrary, elevated privileges to exploit.
-More details [here](https://engineering.bitnami.com/articles/helm-security.html).
+[More details](https://engineering.bitnami.com/articles/helm-security.html).
 
 ```
 kubectl patch deployment tiller-deploy \
@@ -336,8 +333,6 @@ kubectl patch deployment tiller-deploy \
         "value": ["/tiller", "--listen=localhost:44134"]
     }]'
 ```
-
-**NOTE:** I would recommend removing the line breaks and whitespace from this command.
 
 :question: 🤔
 
@@ -356,6 +351,11 @@ Example output:
 ```
 Client: &version.Version{SemVer:"v2.12.3", GitCommit:"eecf22f77df5f65c823aacd2dbd30ae6c65f186e", GitTreeState:"clean"}
 Server: &version.Version{SemVer:"v2.12.3", GitCommit:"eecf22f77df5f65c823aacd2dbd30ae6c65f186e", GitTreeState:"clean"}
+```
+
+If the versions do not match, run:
+```
+helm init --upgrade
 ```
 
 :question: :question: Pause for questions and people to catch up :question: :question:
