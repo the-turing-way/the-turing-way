@@ -427,9 +427,9 @@ kubectl get svc proxy-public --namespace=binderhub
 
 Now do the following steps:
 
-1) On [line 7 of `setup.sh`](https://github.com/alan-turing-institute/the-turing-way/blob/d59ccdd6579d676f94f79d26cb0437eb097673aa/workshops/build-a-binderhub/binderhub_resources/setup.sh#L7), copy the IP address from the last command into the `jupyter_ip` variable and uncomment the line (remove the `#` from the beginning).
-2) Again in `setup.sh`, move the line reading `#  -e "s/<jupyter-ip>/${jupyter_ip}/" \` above the line `config-template.yaml > secrets/config.yaml` and uncomment it by removing the `#` from the start.
-3) Uncomment [line 8 of `config-template.yaml`](https://github.com/alan-turing-institute/the-turing-way/blob/d59ccdd6579d676f94f79d26cb0437eb097673aa/workshops/build-a-binderhub/binderhub_resources/config-template.yaml#L8) by removing the `#` from the beginning.
+1) On [line 5 of `setup.sh`](https://github.com/alan-turing-institute/the-turing-way/blob/a19d6aa00bba46770ad9f22238ad00de8cc1b071/workshops/build-a-binderhub/binderhub_resources/setup.sh#L5), copy the IP address from the last command into the `jupyter_ip` variable and uncomment the line (remove the `#` from the beginning).
+2) Again in `setup.sh`, move the line reading `#  -e "s/<jupyter-ip>/${jupyter_ip}/" \` ([Line 27](https://github.com/alan-turing-institute/the-turing-way/blob/a19d6aa00bba46770ad9f22238ad00de8cc1b071/workshops/build-a-binderhub/binderhub_resources/setup.sh#L27)) above the line `config-template.yaml > secrets/config.yaml` and uncomment it by removing the `#` from the start.
+3) Uncomment [line 8 of `config-template.yaml`](https://github.com/alan-turing-institute/the-turing-way/blob/9d271c029401100b1d8b666c3143c7ddd96b867d/workshops/build-a-binderhub/binderhub_resources/config-template.yaml#L8) by removing the `#` from the beginning.
 
 Rerun `setup.sh`.
 
