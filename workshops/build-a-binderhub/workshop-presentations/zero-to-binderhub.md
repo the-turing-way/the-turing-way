@@ -168,22 +168,9 @@ Adapted from [Step Zero: Kubernetes on Microsoft Azure Container Service (AKS)](
 
 A short (and by no means exhaustive) [glossary](#glossary-of-kubernetes-terms) of Kubernetes terms is given at the end of this workshop, should you require further explanation.
 
-#### 1. Login to Azure
+**NOTE:** You will not need to login to Azure when using the Cloud Shell as it reads your login from the Portal.
 
-```
-az login --output none
-```
-
-This command will open a browser window for you to log in to your Azure account.
-You can safely close this window after logging in.
-
-**NOTE:** If you are having issues logging in (which may happen if you are using Safari), try the following command which will ask for your password.
-
-```
-az login -u <the-email-address-you-signed-up-with>
-```
-
-#### 2. Activate your Subscription
+#### 1. Activate your Subscription
 
 To see a list of Azure subscriptions you have available to you, you can run the following command.
 ```
@@ -197,28 +184,29 @@ Let's activate this with the following command.
 az account set -s "Free Trial"
 ```
 **NOTE:** If you wish to use a different subscription, replace the text in quotes with the name of your chosen subscription.
+If your subscription name has no whitespace, the quotation marks are not required.
 
-#### 3. Create a Resource Group
+#### 2. Create a Resource Group
 
-Resource Groups are how the Azure environment manages services that are related to each other (further details in [this blog post](http://www.onlinetech.com/resources/references/how-to-use-azure-resource-groups-a-simple-explanation)).
-We will create a resource group in a specific data location and create computational resources _within_ this group.
+Resource Groups are how the Azure environment labels services that are related to each other (further details in [this blog post](http://www.onlinetech.com/resources/references/how-to-use-azure-resource-groups-a-simple-explanation)).
+We will create a resource group in a specific region and create computational resources _within_ this group.
 
 ```
 az group create --name testhub \
-    --location centralus \
+    --location westeurope \
     --output table
 ```
 * `--name` specifies the name of your resource group and should be something that uniquely identifies this hub.
-* `--location` specifies the location of the data centre where your resource will exist.
-  A list of data centre locations can be found [here](https://docs.microsoft.com/en-us/azure/aks/container-service-quotas#region-availability).
-  We have chosen Central US for resource availability.
-* `--output table` specifies the output should be in human-readable format as opposed to JSON, which is the default output.
+* `--location` specifies the _region_ of the data centres where your resource will exist.
+  A list of data centre regions and locations can be found [here](https://docs.microsoft.com/en-us/azure/aks/container-service-quotas#region-availability).
+  We have chosen West Europe for resource availability.
+* `--output table` specifies the output should be in human-readable ASCII table format as opposed to JSON, which is the default output.
 
-#### 4. Create an Azure Container Service (AKS) Cluster
+#### 3. Create an Azure Kubernetes Service (AKS) Cluster
 
 This command will request a Kubernetes cluster within the resource group we created.
-It will request one `Standard_D2s_v3` virtual machine which a Kubernetes cluster installed.
-For information on other types of virtual machines available, [see here](https://azure.microsoft.com/en-gb/pricing/details/virtual-machines/series/).
+It will request one `Standard_DS2_v3` virtual machine which a Kubernetes cluster installed.
+[Information on other types of virtual machines is available](https://azure.microsoft.com/en-gb/pricing/details/virtual-machines/series/).
 
 **NOTES:**
 * `--name` (`hubcluster` in this example) cannot exceed 63 characters and can only contain letters, numbers, or hyphens (`-`).
@@ -227,16 +215,15 @@ For information on other types of virtual machines available, [see here](https:/
 ```
 az aks create --name hubcluster \
     --resource-group testhub \
-    --generate-ssh-keys \
+    --no-ssh-key \
     --node-count 1 \
-    --node-vm-size Standard_D2s_v3 \
+    --node-vm-size Standard_DS2_v3 \
     --output table
 ```
 * `--name` is the name of the cluster.
 * `--resource-group` is the resource group we created in [Step 3: Create a Resource Group](#3-create-a-resource-group).
 * `--node-count` is the number of desired nodes in the Kubernetes cluster.
 * `--node-vm-size` is the size of the nodes you wish to use, which varies based on the use-case of the cluster and how much RAM/CPU each user will need.
-* `--generate-ssh-keys` will generate a public/private pair of ssh keys to access the cluster with should you need to.
 
 **NOTE:** The default version of Kubernetes will be installed, you can use the `--kubernetes-version` flag to install a different version.
 
@@ -248,12 +235,13 @@ Otherwise, you could ask your IT Services to provide you with a Service Principa
 
 Once this command has completed, some extra resource groups will have been created which is normal behaviour.
 You can inspect them in the [Azure Portal](https://portal.azure.com/).
-The `testhub` group will contain the Kubernetes service, whereas a new resource group called `MC_testhub_hubcluster_centralus` containing the cluster resources (virtual machines, etc.) will have appeared.
+The `testhub` group will contain the Kubernetes service, whereas a new resource group called `MC_testhub_hubcluster_westeurope` containing the cluster resources (virtual machines, etc.) will have appeared.
+
 There will also be a `NetworkWatcherRG` group which will be empty.
 This group is created under the assumption that the Kubernetes service will be extended in the future, which unlikely to be the case when deploying BinderHub.
 This group can be deleted.
 
-#### 5. Get credentials from Azure for `kubectl`
+#### 4. Get credentials from Azure for `kubectl`
 
 This step automatically updates your local Kubernetes client configuration file to be configured with the remote cluster we've just deployed, and allowing `kubectl` to be "logged-in" to the cluster.
 
@@ -263,7 +251,7 @@ az aks get-credentials --name hubcluster --resource-group testhub
 * `--name` is the cluster name defined in [Step 4: Create an Azure Container Service (AKS) Cluster](#4-create-an-azure-container-service-aks-cluster).
 * `--resource-group` is the resource group created in [Step 3: Create a Resource Group](#3-create-a-resource-group).
 
-#### 6. Check the Cluster is Fully Functional
+#### 5. Check the Cluster is Fully Functional
 
 ```
 kubectl get nodes
