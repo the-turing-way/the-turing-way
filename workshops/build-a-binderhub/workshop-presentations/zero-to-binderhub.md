@@ -16,6 +16,8 @@ You will need the following resources to be able to participate in this workshop
 * A Microsoft Azure Free Trial subscription - sign up here: https://azure.microsoft.com/en-gb/free/
 * A Docker Hub account - sign up here: https://hub.docker.com/signup
 
+To complete the extra curricular steps, you will also need a GitHub account.
+
 ## Table of Contents
 
 * [General Information](#general-information)
@@ -490,14 +492,16 @@ See the [BinderHub customisation documentation](https://binderhub.readthedocs.io
 
 You will need an image file.
 [Unsplash](https://unsplash.com/) is a good source of free images for the purposes of this workshop.
-You would probably create your own logo!
+For your production BinderHub, ou would probably create your own logo!
 
 #### 1. Fork the following repo
 
 I have created a template repo to make this easier - linked below.
-Fork it into your own namespace.
+Fork it to your own GitHub account.
 
 [**github.com/sgibson91/binderhub-custom-files**](https://github.com/sgibson91/binderhub-custom-files)
+
+**NOTE:** The repo hosting your `html` pages **must** be public.
 
 #### 2. Upload your image file
 
@@ -555,15 +559,16 @@ To deploy the changes, upgrade the helm chart.
 
 ```
 helm upgrade binderhub jupyterhub/binderhub \
-    --version=0.2.0-3b53fce \
-    -f secrets/secret.yaml -f secrets/config.yaml
+    --version=0.2.0-f565958 \
+    -f secrets/secret.yaml \
+    -f secrets/config.yaml
 ```
 
 Visit your Binder page to see your new logo!
 To get the IP address of the Binder page, run the following command.
 
 ```
-kubectl --namespace=binderhub get svc binder
+kubectl get svc binder --namespace=binderhub
 ```
 
 ### Authenticating Users with GitHub
