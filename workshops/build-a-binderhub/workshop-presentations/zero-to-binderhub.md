@@ -636,10 +636,10 @@ At the bottom of the list on the left, select "Developer settings", then click "
 Fill in the form using your `binderhub_url` and `jupyter_url` from [Step 1: Editing `config.yaml`](#1-editing-configyaml) (see image below) and click "Register Application".
 The URL entered into the "Authorization callback URL" field **must** match your `auth.github.callbackUrl` in your `config.yaml`.
 
-<html><img src="github_oauth.png" alt="github_oauth" height="578" width="561"></html>
+![GitHub OAuth App](../binderhub_resources/github_oauth.png)
 
 Once your App is registered, a Client ID and Client Secret will be generated.
-Copy these into the `clientId` and `clientSecret` fields, as strings, respectively.
+Copy these into the `clientId` and `clientSecret` fields in `config.yaml`, as strings, respectively.
 
 #### 3. Update your BinderHub
 
@@ -647,8 +647,9 @@ To apply the config changes, we need to upgrade the deployed Helm chart using th
 
 ```
 helm upgrade binderhub jupyterhub/binderhub \
-    --version=0.2.0-3b53fce \
-    -f secrets/secret.yaml -f secrets/config.yaml
+    --version=0.2.0-f565958 \
+    -f secrets/secret.yaml \
+    -f secrets/config.yaml
 ```
 
 Now reload your Binder page, you should see a sign in button and will be asked for your GitHub sign in information!
