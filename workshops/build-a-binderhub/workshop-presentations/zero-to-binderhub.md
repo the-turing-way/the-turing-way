@@ -366,7 +366,7 @@ Adapted from [Zero-to-BinderHub: Setup BinderHub](https://binderhub.readthedocs.
 
 #### 1. Preparing to Install
 
-Before we install a BinderHub, we need to configure several pieces of information and save them in `yaml` files.
+Before we install a BinderHub, we need to configure several pieces of information and save them in YAML files.
 
 Create two random tokens:
 ```
@@ -380,7 +380,7 @@ Now run `setup.sh`.
 This will populate `secret-template.yaml` and `config-template.yaml` with the appropriate information and save them to the `secrets` folder.
 
 You will be asked to provide your DockerHub login credentials in order to connect your DockerHub account to the BinderHub.
-You must provide you Docker **username**, not your email address associated to the account.
+You must provide your Docker **username**, not your email address associated with the account.
 
 ```
 ./setup.sh
@@ -398,14 +398,16 @@ helm repo update
 Next, install the required Helm chart using the config files we created in [Step 2: Run `setup.sh`](#2-run-setupsh).
 
 ```
-helm install jupyterhub/binderhub --version=0.2.0-3b53fce \
+helm install jupyterhub/binderhub \
+    --version=0.2.0-f565958 \
     --name=binderhub \
     --namespace=binderhub \
-    -f secrets/secret.yaml -f secrets/config.yaml
+    -f secrets/secret.yaml \
+    -f secrets/config.yaml
 ```
 * `--version` refers to the version of the BinderHub Helm Chart.
   Available versions can be found [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub).
-  We have used the version released on 3 March 2019.
+  We have used the version released on 11 August 2019.
 * `--name` and `--namespace` may be different, but it's recommended they be the same to avoid confusion.
   It should be something short and descriptive.
 
@@ -418,14 +420,14 @@ Print the IP address of the JupyterHub that was just deployed by running the fol
 It will be listed in the `EXTERNAL-IP` field.
 
 ```
-kubectl --namespace=binderhub get svc proxy-public
+kubectl get svc proxy-public --namespace=binderhub
 ```
 
 Now do the following steps:
 
-1) On [line 7 of `setup.sh`](https://github.com/alan-turing-institute/the-turing-way/blob/d59ccdd6579d676f94f79d26cb0437eb097673aa/workshops/build-a-binderhub/binderhub_resources/setup.sh#L7), copy the IP address from the last command into the `jupyter_ip` variable and uncomment the line (remove the `#` from the beginning)
-2) Again in `setup.sh`, move the line reading `#  -e "s/<jupyter-ip>/${jupyter_ip}/" \` above the line `config-template.yaml > secrets/config.yaml` and uncomment it by removing the `#` from the start
-3) Uncomment [line 8 of `config-template.yaml`](https://github.com/alan-turing-institute/the-turing-way/blob/d59ccdd6579d676f94f79d26cb0437eb097673aa/workshops/build-a-binderhub/binderhub_resources/config-template.yaml#L8) by removing the `#` from the beginning
+1) On [line 7 of `setup.sh`](https://github.com/alan-turing-institute/the-turing-way/blob/d59ccdd6579d676f94f79d26cb0437eb097673aa/workshops/build-a-binderhub/binderhub_resources/setup.sh#L7), copy the IP address from the last command into the `jupyter_ip` variable and uncomment the line (remove the `#` from the beginning).
+2) Again in `setup.sh`, move the line reading `#  -e "s/<jupyter-ip>/${jupyter_ip}/" \` above the line `config-template.yaml > secrets/config.yaml` and uncomment it by removing the `#` from the start.
+3) Uncomment [line 8 of `config-template.yaml`](https://github.com/alan-turing-institute/the-turing-way/blob/d59ccdd6579d676f94f79d26cb0437eb097673aa/workshops/build-a-binderhub/binderhub_resources/config-template.yaml#L8) by removing the `#` from the beginning.
 
 Rerun `setup.sh`.
 
@@ -437,8 +439,9 @@ Now upgrade the Helm chart to deploy the change.
 
 ```
 helm upgrade binderhub jupyterhub/binderhub \
-    --version=0.2.0-3b53fce \
-    -f secrets/secret.yaml -f secrets/config.yaml
+    --version=0.2.0-f565958 \
+    -f secrets/secret.yaml \
+    -f secrets/config.yaml
 ```
 
 #### 5. Try out your BinderHub deployment!
@@ -446,8 +449,10 @@ helm upgrade binderhub jupyterhub/binderhub \
 Find the IP address of your BinderHub under the `EXTERNAL-IP` field.
 
 ```
-kubectl --namespace=binderhub get svc binder
+kubectl get svc binder --namespace=binderhub
 ```
+
+**NOTE:** THIS IS A _DIFFERENT_ COMMAND TO THE LAST ONE!
 
 Copy the IP address into your browser and your BinderHub should be waiting.
 
@@ -470,7 +475,7 @@ kubectl logs hub-<random-str> --namespace binderhub
 You can also access information about individual pods with the following command.
 
 ```
-kubectl describe pod <POD-NAME> -n binderhub
+kubectl describe pod <POD-NAME> --namespace binderhub
 ```
 
 ---
