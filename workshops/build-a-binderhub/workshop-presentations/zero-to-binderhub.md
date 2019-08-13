@@ -121,6 +121,10 @@ This workshop will use the Cloud Shell in Azure Portal as it already has all of 
 
 ![Cloud Shell](../binderhub_resources/cloud_shell.png)
 
+The first time you open the Cloud Shell, you will be asked to create some persistent storage.
+This allows you to save and retrieve scripts, templates and configuration files.
+Accept any prompts you see.
+
 :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
 ### Setup Local Files
