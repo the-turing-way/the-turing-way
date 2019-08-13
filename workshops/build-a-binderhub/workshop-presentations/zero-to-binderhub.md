@@ -207,7 +207,7 @@ az group create --name testhub \
 #### 3. Create an Azure Kubernetes Service (AKS) Cluster
 
 This command will request a Kubernetes cluster within the resource group we created.
-It will request one `Standard_DS2_v3` virtual machine which a Kubernetes cluster installed.
+It will request one `Standard_D2s_v3` virtual machine which a Kubernetes cluster installed.
 [Information on other types of virtual machines is available](https://azure.microsoft.com/en-gb/pricing/details/virtual-machines/series/).
 
 **NOTES:**
@@ -219,7 +219,7 @@ az aks create --name hubcluster \
     --resource-group testhub \
     --no-ssh-key \
     --node-count 1 \
-    --node-vm-size Standard_DS2_v3 \
+    --node-vm-size Standard_D2s_v3 \
     --output table
 ```
 * `--name` is the name of the cluster.
@@ -292,7 +292,7 @@ Processes in containers running in _pods_ are authenticated as a particular **Se
 [More details](https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/).
 
 ```
-kubectl --namespace kube-system create serviceaccount tiller
+kubectl create serviceaccount tiller --namespace kube-system
 ```
 
 #### 2. Give the `ServiceAccount` full permissions to manage the cluster
