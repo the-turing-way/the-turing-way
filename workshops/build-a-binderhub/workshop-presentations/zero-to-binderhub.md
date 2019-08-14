@@ -171,7 +171,7 @@ Adapted from [Step Zero: Kubernetes on Microsoft Azure Container Service (AKS)](
 
 A short (and by no means exhaustive) [glossary](#glossary-of-kubernetes-terms) of Kubernetes terms is given at the end of this workshop, should you require further explanation.
 
-**NOTE:** You will not need to login to Azure when using the Cloud Shell as it reads your login from the Portal.
+**NOTE:** You shouldn't need to login to Azure when using the Cloud Shell as it reads your login from the Portal.
 
 #### 1. Activate your Subscription
 
