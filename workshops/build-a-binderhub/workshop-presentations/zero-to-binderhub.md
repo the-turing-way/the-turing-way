@@ -508,7 +508,7 @@ For your production BinderHub, ou would probably create your own logo!
 I have created a template repo to make this easier - linked below.
 Fork it to your own GitHub account.
 
-[**github.com/sgibson91/binderhub-custom-files**](https://github.com/sgibson91/binderhub-custom-files)
+[**github.com/alan-turing-institute/binderhub-custom-files**](https://github.com/alan-turing-institute/binderhub-custom-files)
 
 **NOTE:** The repo hosting your `html` pages **must** be public.
 
