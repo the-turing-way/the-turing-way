@@ -307,7 +307,7 @@ See [Project Jupyter's docs](https://zero-to-jupyterhub.readthedocs.io/en/latest
 kubectl create clusterrolebinding tiller --clusterrole cluster-admin --serviceaccount=kube-system:tiller
 ```
 
-:question: 🤔
+:question: :question: :question: :question:
 
 #### 3. Initialise `helm` and `tiller`
 
@@ -337,7 +337,7 @@ kubectl patch deployment tiller-deploy \
     }]'
 ```
 
-:question: 🤔
+:question: :question: :question: :question:
 
 #### 5. Verify the installation
 
