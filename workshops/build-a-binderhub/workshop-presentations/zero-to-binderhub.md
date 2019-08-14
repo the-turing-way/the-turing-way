@@ -98,6 +98,7 @@ When your free trial expires, your resources will automatically be frozen and th
 ### Container Registry
 
 These instructions will link the BinderHub to a [DockerHub](https://hub.docker.com/) Container Registry, and so you will need a DockerHub account as well.
+This will be where BinderHub stores the images it builds.
 
 > BinderHub also works with Google Container Registry and custom registries.
 > We are using DockerHub as an example.
