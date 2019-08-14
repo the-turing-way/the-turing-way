@@ -145,9 +145,9 @@ cd testhub
 Run the following three commands to download the `setup.sh` script and the `config-template.yaml` and `secret-template.yaml` files.
 
 ```
-wget https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/master/workshops/build-a-binderhub/binderhub_resources/setup.sh
-wget https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/master/workshops/build-a-binderhub/binderhub_resources/config-template.yaml
-wget https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/master/workshops/build-a-binderhub/binderhub_resources/secret-template.yaml
+wget -O setup.sh http://bit.ly/config-setup-script
+wget -O config-template.yaml http://bit.ly/config-template
+wget -O secret-template.yaml http://bit.ly/secret-template
 ```
 
 Make the shell script executable will the following command.
