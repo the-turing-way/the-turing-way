@@ -501,7 +501,7 @@ See the [BinderHub customisation documentation](https://binderhub.readthedocs.io
 
 You will need an image file.
 [Unsplash](https://unsplash.com/) is a good source of free images for the purposes of this workshop.
-For your production BinderHub, ou would probably create your own logo!
+For your production BinderHub, you would probably create your own logo!
 
 #### 1. Fork the following repo
 
