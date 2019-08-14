@@ -462,6 +462,14 @@ If you've been successful, a page identical to [mybinder.org](https://mybinder.o
 Type the following URL into the GitHub repo box and launch it: [**https://github.com/binder-examples/requirements**](https://github.com/binder-examples/requirements).
 You can even sign in to your Docker account to see when the image has been pushed to the registry.
 
+While trying to launch a repository, you may come across an `Internal Server Error`.
+In the case of this workshop, this is most likely due to the Kubernetes cluster only having a single node.
+For a stable cluster, it is recommended to deploy on at least three nodes, however this is not permitted on a Free Trial subscription.
+
+Another reason the `Internal Server Error` may appear is that you've tried to launch a repository immediately after a `helm upgrade`.
+It can take some time after an upgrade for the JupyterHub to reset it's internal state.
+Always check that all pods have `RUNNING` status using `kubectl get pods -n binderhub` before trying to launch a repo.
+
 ### Debugging your BinderHub
 
 If something is not working correctly with your BinderHub, the quickest way to find the problem is to access the JupyterHub logs.
@@ -692,7 +700,7 @@ az group list --output table
 You can then delete the group for your BinderHub.
 
 ```
-az group delete --name testhub
+az group delete --name testhub --no-wait
 ```
 **NOTE:**
   * Be careful to select the correct resource group as this step will irreversibly delete all the resources in that group!
@@ -704,7 +712,7 @@ It may take a few minutes to clear up, but nothing relating to your BinderHub sh
 You should also delete the `NetworkWatcherRG` group if you did not do so earlier.
 
 ```
-az group delete --name NetworkWatcherRG
+az group delete --name NetworkWatcherRG --no-wait
 ```
 
 #### 4. GitHub OAuth App
