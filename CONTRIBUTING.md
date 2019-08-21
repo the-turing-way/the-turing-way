@@ -349,7 +349,7 @@ Figures should be added to the `book/content/figures` directory.
 
 ### Auto-formatting
 
-The Travis continuous-integration tests will check for formatting errors using [prettier.io](prettier.io). You can see a list of all files with style issues by looking at the Travis build logs, for example:
+The Travis continuous-integration tests will check for formatting errors using [prettier.io](https://prettier.io). You can see a list of all files with style issues by looking at the Travis build logs, for example:
 
 ```
 Checking formatting...
