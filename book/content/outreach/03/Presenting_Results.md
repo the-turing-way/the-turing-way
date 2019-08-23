@@ -10,7 +10,7 @@
 > * Break down points in presentation - including examples
 > * Break down points in precision - including examples
 > * Reproducibility
-> Examples for each section? 
+> * Examples for each section? 
 
 When performing outreach to any audience it is essential to clearly demonstrate the scientific research that has been performed. Without such scientific research there is nothing to engage an audience with, and thus, lose emphasis on whatever message you are trying to present. However, the presentation of results is the first, and arguably most important, aspect of outreach that needs to be overcome. You can publish on the most viewed website, or highest renowned print media, but if you don't accurately present your message accurately you might as well have not bothered!
 
@@ -54,28 +54,41 @@ There are a large variety of ways to present results for outreach, from powerpoi
 
   TALK ABOUT THIS
 
-* Know your main takeaway
+* Know your main take away
 
   When starting to prepare some research or a project for outreach, start by thinking about your main takeaway. This should be 1 or 2 sentences that you want your audience to leave knowing and understanding. This is your starting point.
 
 * Use a wide range of formats
 
-  Even the most interesting person can't make a death by powerpoint presentation exciting. Avoid becoming monotonous by varying how you are presenting. Consider using:
+  Even the most interesting person can't make a "death by powerpoint" presentation exciting. Avoid becoming monotonous by varying how you are presenting. Consider using:
     * Images
       * Jokes and memes are a good way to engage the audience as well as giving information
+      * Remember a picture can portray a lot more than words can
     * Graphs
       * Using graphs to portray information can be very powerful, but you must be careful. Changing a graph or combining graphs which are unrelated for ease of reading can easily be misunderstood.
-    * Audio
     * Animations
+      * Animations are a great way to explain complicated concepts that can't be replicated at a human scale, e.g. molecular science or cosmology.
     * Video
+      * Has an expert in the field recently discussed the concept you are talking about, or discussed an application you are presenting. Consider using short video clips to give supporting evidence.
+      * Be cautious of the distribution of any videos you do use.
+    * Audio
+      * Audio can give weight to an otherwise silent video or animation. Use it to guide the audience's emotion.
+      * For example: imagine seeing a video of a supernova explosion. In reality an observer would not hear any noise as sound does not travel in space, but how much more effective will the video be at portraying the size and power of a supernova explosion with a well designed audio track.
+
 
 * Consider multiple delivery methods
 
-    * White paper
-    * Traditional media articles (magazines and newspapers)
-    * Social media
-    * Personal blogs
-    * Institutional blogs
+  * White paper
+    * VERY FORMAL, LOTS OF PLACE FOR DETAIL, PRIMARILY RESEARCHER TO RESEARCHER. interest in results and methodology
+  * Traditional media articles (magazines and newspapers)
+    * Miuch more public consumption. Large wide auidence, less context can be assumed. Interest is going to be in impact rather than results
+  * Social media
+    * Needs to be very short. Widest reach. Least amount of content. Only good for headlines. Inc links.
+    * A good way to have communication with people directly. can develop discussion but also trolls.
+  * Personal blogs
+    * Generally not a wide reach. Good for your local community. Good place for items that don't fit anywhere else (i.e. personal projects)
+  * Institutional blogs
+    * Can have a wide reach and lead to talk and funding opportunties. Wide auidence in knowledge. Great to show off the work that you get paid to do. 
 
 ## Precision
 
