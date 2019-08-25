@@ -51,7 +51,7 @@ This should be taken into account in contributions.
 The following are examples of inclusive actions that we encourage from contributors to the Turing Way:
 
 - Refer to "open research" rather than "open science" so that we do not exclude members of the humanities and social sciences from our community.
-- Make sure colour pallettes are accessible to colour-blind readers and contributors.
+- Make sure colour palettes are accessible to colour-blind readers and contributors.
   Here's a useful blog post on [tips for designing scientific figures for color blind readers](http://www.somersault1824.com/tips-for-designing-scientific-figures-for-color-blind-readers) by Luk at [Somersault 1824](http://www.somersault1824.com).
 
 ## Get in touch
