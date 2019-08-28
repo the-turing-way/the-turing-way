@@ -593,6 +593,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "libertyh",
+      "name": "Liberty Hamilton",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3268583?v=4",
+      "profile": "http://csd.utexas.edu/research/hamilton-lab",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7
