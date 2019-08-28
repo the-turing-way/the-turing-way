@@ -1,5 +1,10 @@
 # The Turing Way
-[![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://badges.gitter.im/alan-turing-institute/the-turing-way.svg?style=flat-square)](https://gitter.im/alan-turing-institute/the-turing-way) [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg?style=flat-square)](https://tinyletter.com/TuringWay) [![All Contributors](https://img.shields.io/badge/all_contributors-58-orange.svg?style=flat-square)](#contributors) [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg?style=flat-square)](https://the-turing-way.netlify.com)
+
+[![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?style=flat-square)](https://gitter.im/alan-turing-institute/the-turing-way)
+[![Build Status](https://img.shields.io/travis/alan-turing-institute/the-turing-way/master?style=flat-square)](https://travis-ci.org/alan-turing-institute/the-turing-way)
+[![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg?style=flat-square)](https://tinyletter.com/TuringWay)
+[![All Contributors](https://img.shields.io/badge/all_contributors-58-orange.svg?style=flat-square)](#contributors)
+[![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg?style=flat-square)](https://the-turing-way.netlify.com)
 
 The Turing Way is a lightly opinionated guide to reproducible data science.
 
