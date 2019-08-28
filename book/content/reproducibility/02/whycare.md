@@ -10,4 +10,4 @@ Furthermore, you can be sure that you easily comply with the highest-level journ
 
 Papers whose underlying data is available get cited more often (Piwowar, Day & Fridsma, 2007; Piwowar & Vision, 2013).
 All research outputs that are shared can be built upon more easily by others and in some cases, others following up on your work might lead to new collaborations.
-Other benefits of working openly are covered in our [Open Reasearch](../open_research/open_research) chapter.
+Other benefits of working openly are covered in our [Open Research](../open_research/open_research) chapter.
