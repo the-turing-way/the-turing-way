@@ -12,8 +12,9 @@ From herd immunity going into dangerous low levels due to the anti-vaccine propa
 top offices in government, science denial has 
 become a threat to our society and the future of our planet. Furthermore, at the moment the fields of data science and 
 artificial intelligence are prone to hyperbole and hype that create misconceptions and over-expectations.
-Scientists not only need to spread scientific knowledge, they need to help the public separate the hype from reality as 
-well as address the social drivers of science denial [1].
+
+       "To overcome these threats, scientists not only need to spread scientific knowledge, 
+       but must also address the social drivers of science denial." (J. Rosenau, Science denial: a guide for scientists)[1].
 
 In the following sub-sections we will provide some ideas in how to assume this 
 responsibility. These recommendations come from either personal experiences or literature review from
@@ -29,7 +30,7 @@ means that is our responsibility to  demystify the typical idea of a scientist.
 One first steps to become approachable is to understand that we are all at some level, science communicators, therefore
 we need to have decent communication skills. A useful thing to have is the so-called "elevator pitch",
 where in two minutes you try to sell your what you do for work to a neighbour, a family member or even potential employer. An effective
-pitch can get people exited about science and even educate about the importance of taxpayer-funded research [4]. 
+pitch can get people exited about science and even educate about the importance of public-funded research [4]. 
 Whilst designing your pitch we need to have in mind who is our audience, avoid jargon and always aim for the 
 the big picture, as well as any other practices discussed in section 04.
 
@@ -40,7 +41,7 @@ Posting science related news as well as sharing the process of doing science in 
 way to keep interested colleagues, family, and friends informed about scientific topics. Furthermore, 
 in the era where fake news and alternate facts are common, scientists have the expertise to 
 vet online content for scientific accuracy. Any scientist can quickly post a comment or share a link to correct 
-misinformation in the news or on a conversation thread with minimal effort  [5].
+misinformation in the news or on a conversation thread with minimal effort [5].
 
 
 ## Be an advocate for data and evidence  
@@ -77,7 +78,7 @@ that they are wrong, but this might not be the most effective way to get people 
 
 Research on the backfire effect phenomenon shows that when we are presented with 
 facts and knowledge that threatens our self-conception and worldview, we tend to refuse to 
-accept the facts and retreat further to our initial beliefs[5].
+accept the facts and retreat further to our initial beliefs [5].
  
 Whilst talking to a potential science denier, think about who is your audience to frame your message, 
 a person that believes anti-vaccine propaganda, does not necessarily subscribes to the idea that human made climate change is a 
@@ -87,7 +88,7 @@ summarized under the acronym EGRIP (emotions, goals, rapport, information and po
 detailed explanation in how to use it in here [7].
 
 Finally, we must always remember that we are representing our institutions and science itself, and that engaging into 
-useless discussions with trolls or ridiculing 'non-believers' or struggling to communicate what we do in our jobs is not 
+useless discussions with trolls, ridiculing 'non-believers' or struggling to communicate what we do in our jobs is not 
 going to foster the trust that we need so badly to build up.
 
  
