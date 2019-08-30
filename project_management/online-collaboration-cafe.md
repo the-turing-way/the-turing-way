@@ -63,12 +63,21 @@ The online Collaboration Cafes seek to create the sense of energy and inspiratio
 
 We'll meet every two weeks in an online [Zoom room](https://www.zoom.us/home) and make use of the [breakout rooms](https://support.zoom.us/hc/en-us/articles/206476093-Getting-Started-with-Breakout-Rooms) feature to allow small groups to use the 2 hours as best fits them.
 
+If you don't know what to work on, don't worry!
+The _Turing Way_ development team will be able to give you lots of suggestions of places you can make a difference.
+We'll also always have a virtual room available to support anyone wanting to learn more about collaborating on GitHub and helping you to make your first pull request.
+
+![](https://zenodo.org/api/iiif/v2/e4125eaf-b456-4097-85fc-6a2e80482d1c:9a4441e1-906f-41b0-b8d4-1f615cc8832e:1728_TURI_Book%20sprint_1%20first%20pull%20request_040619.jpg/full/750,/0/default.jpg)
+
 Background reading:
 
 * A recent article in the New Yorker suggesting that asynchronous communication may cause more complexity than it solves problems: https://www.newyorker.com/tech/annals-of-technology/was-e-mail-a-mistake
 * An excellent overview of the ethics of unpaid labour in the open source community: https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community
 
 ## Attending an online Collaboration Cafe
+
+You don't have to attend all of the calls!
+We're happy to see you whenever you have time and want to join us.
 
 ### Dates and start times
 
@@ -94,7 +103,10 @@ Please get in touch if you'd like to join one and we're happy to add an early (U
 
 ### Timings during the Collaboration Cafe 
 
-We suggest the following timings for a collaboration cafe event.
+We'll run the following schedule during each Collaboration Cafe event.
+
+You don't need to know in advance what you're going to do in those pomodoro 🍅 sessions!
+There will always be someone who can help you develop a goal, or allocate a task that you can do in a couple of rounds of 20 minutes.
 
 | Time | Activity |
 | ---- | -------- |
