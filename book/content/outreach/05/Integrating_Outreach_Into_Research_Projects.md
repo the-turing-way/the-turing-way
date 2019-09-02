@@ -1,7 +1,7 @@
 # Integrating Outreach Into Research Projects
 
 
-> "We should approach projects with the expectation that outreach is an integral part, providing the administrative resources necessary to facilitate outreach"
+> We should approach projects with the expectation that outreach is an integral part, providing the administrative resources necessary to facilitate outreach
 
 ### Overview 
 
@@ -10,13 +10,73 @@ From engaging the public with scientific developments to increasing the visibili
 
 ### Outreach as part of the research cycle
 
-Outreach activities can be resource intensive. It is therefore important to plan outreach activities into the research cycle. Identifying potential outreach activities before a project commences can be beneficial for ensuring that appropriate funding, training and resources are available to support the activities. 
+In UKRI's *conordat for engaging the public research*, Professor Alan Thorpe suggests that "...engaging with the public should form part of the role of researchers in any discipline" [1]. To achieve this we believe that outreach should be viewed and resourced as part of the research cycle.
+The resources required by outreach vary dramatically depending on the form the activities take. Yet even seemingly small activities such as publishing a blog post, require researcher time and effort.
 
-However, outreach ideas may take shape at any stage of the research process and the goals of the outreach activity may have important implications for when the activity should take place. For example, a researcher may wish to publish a blog and draw attention to it via social media. The goal might simply be to reach a wider audience when disseminating research findings and raise awareness of a researchers activities. 
+Ensuring outreach activities can be undertaken successfully requires that planning should begin before a project commences. That is not to say that all outreach activities should be planned years in advance, as many ideas for outreach activities will form during the research project. Rather, early planning can help ensure that resources are available to allow researchers the capacity to respond to valuable, yet unexpected outreach opportunities. 
+
+Whatever your stage of your career, early planning of outreach activities can be beneficial. For senior staff this may involve including outreach activities in funding applications (many research councils provide funding for outreach, and actively incentivise it). For PhD Students it may involve discussing outreach opportunities with supervisors and setting realistic goals. 
+
 
 ### Who do you want to engage with and why?
 
-When planning outreach it is important to consider who you want to engage with and why.  
+When planning outreach it is important to consider who you want to engage with and why. The reasons for doing outreach are varied and multifaceted. Perhaps you wish to publish a blog post on your latest research findings or a particularly methodology you have been utilising. Perhaps you wish to organise a meeting with potential end-users of your research to help steer future research questions, or give a public lecture on your research area. Understanding your own goals and the likely benefits of the outreach activity are critical in maximising their value. Give personal goals prominence and consider how outreach may aid your career, both within your current institute and future places of work. 
+
+<!-- While outreach can yield a wide variety of societal benefits, personal benefits may play an important role in incentivising outreach activities. This may simply be building your research profile and CV, but it may be useful to consider how outreach activities are rewarded within your institution  -->
+
+### Identify resources. Make realistic goals? 
+
+Identifying resource requirements can help to ensure that outreach goals are appropriate and realistic. Remember that not all outreach activities are appropriate to all goals. Wasting resources, time and money (both your own and others) is not desirable and in certain circumstances could even lead to reputational damage. Consider your time as a key resource - does your workload allow for outreach activities, and how might you ensure you are able to achieve your goals to a standard you are proud of? 
+
+Consider whether you or your team have the expertise to carry out the activities, and what help might be available at your Institute? Many Institutions have communications teams which provide services to help researcher engage in outreach activities, particularly around press releases and media engagements. Utilising the expertise offered by these teams can be invaluable. 
+
+<!-- 
+
+
+
+
+
+
+4. When to plan? How to respond to new oppertunities?
+
+5. Identifying barriers
+    - Not all outreach will be appropriate. Potentially it could be costly. Is societal good enough motivation? 
+    - 2. UKRI CONCORDAT: "Research organisations should consider whether
+public engagement is appropriately represented
+in staff policies and processes (such as for
+inductions, performance review, promotions
+criteria or workload planning) to allow researchers
+to be involved in public engagement activities
+without impairing their career."
+    - Is this the case at your institution? Are there institutional barriers which are stopping you from engaging in outreach, which may be benificial. 
+
+    - Human (Researcher time)
+    - Expertise in your institute
+    - Financial 
+        - Funding bodies sometimes provide funds for outreach. May improve success of grant
+
+
+
+
+### How will you incentivise outreach
+
+ Human (Researcher time)
+    - Expertise in your institute
+    - Financial 
+        - Funding bodies sometimes provide funds for outreach. May improve success of grant
+
+Outreach has a potential to build your reputation and that of your Institute. Careful planning helps to ensure 
+
+
+
+### Measuring success and sharing your experiences
+
+
+
+
+### When should outreach take place?
+
+
 
 ### Getting help and support
 ### Finding funding
@@ -26,20 +86,20 @@ When planning outreach it is important to consider who you want to engage with a
 <!-- https://www.ukri.org/files/legacy/scisoc/concordatforengagingthepublicwithresearch-pdf/ - useful!  -->
 
 <!-- INSERT FIGURE -->
-
+<!-- 
 1. Who is the audience
     - Who do you want to engage with and why? It could be anything from writing a blog to build your research profile (help people know who you are; get you invaluable feedback - much faster than peer review). Or it could be large public engagement (e.g. meeting stakeholders/endusers who may benefit - for example, meeting automotive industry members when working on AI for selfdriving cars)
 
 2. What benefits might it bring?
     - Build profile, improver chances of getting funding, help steer research ideas and understand the research problem better
     - Develop your skills (being able to communicate effectively and clearly is an invaluable skill in research or for those considering moving into another field)
-    - "Don't cut corners – done well, publications can help disseminate key findings to target audiences; done badly, they will promote a poor image of your research and will cost you valuable time and more"
+ 
 
-3. What resources do you need?
-    - Human (Researcher time)
-    - Expertise in your institute
-    - Financial 
-        - Funding bodies sometimes provide funds for outreach. May improve success of grant
+
+   - "Don't cut corners – done well, publications can help disseminate key findings to target audiences; done badly, they will promote a poor image of your research and will cost you valuable time and more"
+### The costs of outreach 
+
+
 
 4. When to plan? How to respond to new oppertunities?
 
@@ -132,7 +192,7 @@ Outreach -
 ### Measuring success
 - Once completed assess whether the outreach was successful. 
 - Did you get the benefits you wanted? Could you improve on strategy? Was it worth time commitments. 
-
+ -->
 
 
 
@@ -236,3 +296,6 @@ Get to know and use your institution's academic development programme to enhance
 - Consider how senior members of the research team will allow sufficient time to participate in knowledge exchange and impact generating activities. 
 - Consider building space and resources for formal and informal evaluation measures to help your team gauge your progress and advise you when adjustments or agility may be needed
 Get to know and use your institution's academic development programme to enhance your personal and technical skills sets. Universities with ESRC Impact Acceleration Accounts provide learning and development opportunities that promote capacities for supporting impact. -->
+
+### References and Further reading
+1. [UKRI concordat for engaging with the public](https://www.ukri.org/files/legacy/scisoc/concordatforengagingthepublicwithresearch-pdf/) -->
