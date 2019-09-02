@@ -30,6 +30,12 @@ Identifying resource requirements can help to ensure that outreach goals are app
 
 Consider whether you or your team have the expertise to carry out the activities, and what help might be available at your Institute? Many Institutions have communications teams which provide services to help researcher engage in outreach activities, particularly around press releases and media engagements. Utilising the expertise offered by these teams can be invaluable. 
 
+
+
+### Measuring success and sharing your experiences
+
+
+
 <!-- 
 
 
@@ -69,7 +75,6 @@ Outreach has a potential to build your reputation and that of your Institute. Ca
 
 
 
-### Measuring success and sharing your experiences
 
 
 
