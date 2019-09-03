@@ -5,7 +5,7 @@ Hello Turing Way friends!
 Have you had a great summer?
 At The Turing Way we've been both busy and on haitus, but we're really excited to be back for the autumn.
 
-Keep reading for information about our [online "Collaboration Cafes"](#online-collaboration-cafes) that start tomorrow, celebrate our [funding extension](#funding-approved) and some fantastic [new jobs](#new-jobs), re-use the beautiful [artwork](#artwork) from our Book Dash 📚💨💨 events, and watch one of Kirstie's [talks](#turing-way-talks) about the project from PyData London.
+Keep reading for information about our [online "Collaboration Cafes"](#online-collaboration-cafes) that start tomorrow, celebrate our [funding extension](#funding-approved) and some fantastic [new jobs](#new-jobs) for some of our team members, re-use the beautiful [artwork](#artwork) from our Book Dash 📚💨💨 events, and watch one of Kirstie's [talks](#turing-way-talks) about the project from PyData London.
 
 ## Online Collaboration Cafes
 
@@ -17,8 +17,8 @@ The goal is to build some personal connections between busy people around the wo
 You can think of them as capturing and sharing the energy of the May book dashes 📚💨💨 without the travel and long time commitment.
 We've written up a [longer description](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md) in the project repository if you want to learn more.
 
-**The first one is tomorrow, 4 September, at 3pm UK time** (find your local time [here](https://arewemeetingyet.com/London/2019-09-04/15:00/TuringWay-CollaborationCafe).)
-Don't worry if you can't make it, there will be lots of opportunities for you to join us in future calls.
+**The first one is tomorrow, 4 September, at 3pm UK time** (find your local time [here](https://arewemeetingyet.com/London/2019-09-04/15:00/TuringWay-CollaborationCafe)).
+Don't worry if you can't make the whole two hours, you can join for as long as you'd like, and there will be lots of opportunities for you to join us in future calls.
 Check out [the schedule](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md#dates-and-start-times) to add future dates to your calendar.
 
 ## Funding approved
@@ -30,7 +30,7 @@ You can read the application [in our GitHub repository](https://github.com/alan-
 have more information in the coming months.
 We'd love for you to help shape the future of the project, so please [get in touch](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#get-in-touch) with any comments or ideas.
 
-## New jobs
+## New job celebrations
 
 Congratulations to three of the core _Turing Way_ team members who have started new jobs this summer.
 
