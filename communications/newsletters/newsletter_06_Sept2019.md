@@ -5,7 +5,7 @@ Hello Turing Way friends!
 Have you had a great summer?
 At The Turing Way we've been both busy and on haitus, but we're really excited to be back for the autumn.
 
-Keep reading for information about our [online "Collaboration Cafes"](#online-collaboration-cafes) that start tomorrow, celebrate our [extension for funding](#funding-approved) and some incredible [new jobs](#new-jobs), re-use the beautiful [artwork](#artwork) from our Book Dash 📚💨💨 events, and watch one of Kirstie's [talks](#turing-way-talks) about the project from PyData London.
+Keep reading for information about our [online "Collaboration Cafes"](#online-collaboration-cafes) that start tomorrow, celebrate our [funding extension](#funding-approved) and some incredible [new jobs](#new-jobs), re-use the beautiful [artwork](#artwork) from our Book Dash 📚💨💨 events, and watch one of Kirstie's [talks](#turing-way-talks) about the project from PyData London.
 
 ## Online Collaboration Cafes
 
@@ -52,18 +52,18 @@ We'd love to know which ones you like the best, and to receive any pictures of t
 
 If you adapt any of them (for example by changing the colours) please send us a copy so we can add it to the repository to make it available for others in the future.
 
-![A combination of images showing the Turing Way community, the importance of readable code, making a contribution on GitHub and machine readable FAIR data](images/fComboScriberia_ForNewsletter.png)
+![A combination of images showing the Turing Way community, the importance of readable code, making a contribution on GitHub and machine readable FAIR data](images/ComboScriberia_ForNewsletter.png)
 
 ## Turing Way talks
 
-One of Kirstie's tasks now that its September is to update the GitHub repsitory with lots of the great talks and presentations that happened over the summer.
+One of Kirstie's tasks now that its September is to update the GitHub repository with lots of the great talks and presentations that happened over the summer.
 
-For now, if you're interested, you can watch her opening keynote at PyData London [on YouTube](https://www.youtube.com/watch?v=IG3PcZ6EhiU) and download the slides from [zenodo](https://doi.org/10.5281/zenodo.3333759).
+For now, if you're interested, you can watch her opening keynote at [PyData London](https://pydata.org/london2019/) on [YouTube](https://www.youtube.com/watch?v=IG3PcZ6EhiU) and download the slides from [zenodo](https://doi.org/10.5281/zenodo.3333759).
 
 ## Thank you
 
 Thank you for reading this newsletter and for being part of our community.
-We look forward to "seeing you" (in our Gitter chat, via Zoom, or in real life) soon!
+We look forward to "seeing you" (in our [Gitter chat](https://gitter.im/alan-turing-institute/the-turing-way), via Zoom, or in real life) soon!
 
 ❤️ The Turing Way project team
 
