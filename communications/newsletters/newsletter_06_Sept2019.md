@@ -56,16 +56,22 @@ If you adapt any of them (for example by changing the colours) please send us a 
 
 ## Turing Way talks
 
-One of Kirstie's tasks now that its September is to update the GitHub repository with lots of the great talks and presentations that happened over the summer.
+One of Kirstie's tasks now that it's September is to update the GitHub repository with lots of the great talks and presentations that happened over the summer.
 
 For now, if you're interested, you can watch her opening keynote at [PyData London](https://pydata.org/london2019/) on [YouTube](https://www.youtube.com/watch?v=IG3PcZ6EhiU) and download the slides from [zenodo](https://doi.org/10.5281/zenodo.3333759).
 
 ## Thank you
 
 Thank you for reading this newsletter and for being part of our community.
-We look forward to "seeing you" (in our [Gitter chat](https://gitter.im/alan-turing-institute/the-turing-way), via Zoom, or in real life) soon!
+We look forward to "seeing you" soon:
+
+* **Rachael Ainsworth** will present *The Turing Way* at the [Open Science Fair 2019](https://www.opensciencefair.eu/) in Porto, Portugal, September 16-18 as a [poster](https://github.com/alan-turing-institute/the-turing-way/blob/master/conferences/abstracts/OSF19_Poster_submission.md) and during the [demo sessions](https://www.opensciencefair.eu/demos-2019/the-turing-way-a-handbook-for-reproducible-data-science).
+* **Sarah Gibson** will run a [Build a BinderHub](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/build-a-binderhub) workshop (in [two](https://rseconuk2019.sched.com/event/QT66/6w3a-build-a-binderhub-for-hosting-reproducible-software-in-the-cloud-part-1) [parts](https://rseconuk2019.sched.com/event/QT6L/6w3b-build-a-binderhub-for-hosting-reproducible-software-in-the-cloud-part-2)) at the [Fourth Conference of Research Software Engineering](https://rseconuk2019.sched.com/) (RSEConUK) on 17-19 September.
+  She'll also share her experiences as an [operator for Binder](https://discourse.jupyter.org/t/the-operators-no-binder-isnt-forming-a-rock-band/694) on the panel discussion "[RSE Worldwide: Sharing across borders"](https://rseconuk2019.sched.com/event/QP6S/rse-worldwide-sharing-across-borders#).
+* We're looking forward to seeing you in a Zoom call for one of the upcoming [Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md).
+* It's so fun to have chat in our online [Gitter room](https://gitter.im/alan-turing-institute/the-turing-way).
+  Come and say hello if you're bored 😉
 
 ❤️ The Turing Way project team
 
 *[https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)*
-
