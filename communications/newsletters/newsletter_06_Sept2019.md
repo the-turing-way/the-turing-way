@@ -43,7 +43,7 @@ We're so proud of all the Turing Way community members, and these roles in parti
 Congratulations Rachael, Patricia and Rosie!
 Well done 💖 😻 🌈
 
-## Artwork
+## Openly licenced artwork
 
 The beautiful artwork that Matt from [Scriberia](http://www.scriberia.co.uk/) created at our May events is now available for your use and re-use on Zenodo: [https://doi.org/10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 
@@ -63,13 +63,13 @@ For now, if you're interested, you can watch her opening keynote at [PyData Lond
 ## Thank you
 
 Thank you for reading this newsletter and for being part of our community.
-We look forward to "seeing you" soon:
+We look forward to seeing you soon, IRL or online.
 
 * **Rachael Ainsworth** will present *The Turing Way* at the [Open Science Fair 2019](https://www.opensciencefair.eu/) in Porto, Portugal, September 16-18 as a [poster](https://github.com/alan-turing-institute/the-turing-way/blob/master/conferences/abstracts/OSF19_Poster_submission.md) and during the [demo sessions](https://www.opensciencefair.eu/demos-2019/the-turing-way-a-handbook-for-reproducible-data-science).
 * **Sarah Gibson** will run a [Build a BinderHub](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/build-a-binderhub) workshop (in [two](https://rseconuk2019.sched.com/event/QT66/6w3a-build-a-binderhub-for-hosting-reproducible-software-in-the-cloud-part-1) [parts](https://rseconuk2019.sched.com/event/QT6L/6w3b-build-a-binderhub-for-hosting-reproducible-software-in-the-cloud-part-2)) at the [Fourth Conference of Research Software Engineering](https://rseconuk2019.sched.com/) (RSEConUK) on 17-19 September.
   She'll also share her experiences as an [operator for Binder](https://discourse.jupyter.org/t/the-operators-no-binder-isnt-forming-a-rock-band/694) on the panel discussion "[RSE Worldwide: Sharing across borders"](https://rseconuk2019.sched.com/event/QP6S/rse-worldwide-sharing-across-borders#).
-* We're looking forward to seeing you in a Zoom call for one of the upcoming [Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md).
-* It's so fun to have chat in our online [Gitter room](https://gitter.im/alan-turing-institute/the-turing-way).
+* The Zoom call [Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md) will be on the 1st and 3rd Wednesdays of the month.
+* We're always around to chat in our online [Gitter room](https://gitter.im/alan-turing-institute/the-turing-way).
   Come and say hello if you're bored 😉
 
 ❤️ The Turing Way project team
