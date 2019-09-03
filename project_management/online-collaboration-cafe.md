@@ -101,7 +101,7 @@ The session in the third week of the month will be held at **7pm (UK time)**.
 We don't currently have a time that is accessible for collaborators in Australia or New Zealand.
 Please get in touch if you'd like to join one and we're happy to add an early (UK) session!
 
-### Timings during the Collaboration Cafe 
+### Timings during the Collaboration Cafe
 
 We'll run the following schedule during each Collaboration Cafe event.
 
@@ -130,3 +130,9 @@ We will coordinate tasks during the conversation using the _Turing Way_ [Gitter 
 The welcome, introductions, breaks and the open discussion will all happen in the main room.
 Pomodoro sessions can happen either in the main zoom room in silence, or in breakout rooms for any groups who want to discuss their collaborations or answer questions.
 
+Good first contributions might include:
+
+* Finding a typo in the book and/or repository and fixing it.
+* Looking for duplicated information in the book and opening an issue to discuss how it can be combined.
+* Finding an old issue or pull request and try to summarize the discussion so it is easy to decide on the next step.
+* Adding your personal experience of reproducible research in the always open google form: [https://goo.gl/forms/akFqZEIy2kxAjfZW2](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
