@@ -35,8 +35,9 @@ We'd love for you to help shape the future of the project, so please [get in tou
 Congratulations to three of the core _Turing Way_ team members who have started new jobs this summer.
 
 * [Rachael Ainsworth](https://twitter.com/rachaelevelyn) is now the Research Software Community Manager for the [Software Sustainability Institute](https://twitter.com/SoftwareSaved), based in Manchester.
-* [Patricia Herterich](https://twitter.com/PHerterich) has joined [Digital Curation](http://www.dcc.ac.uk/) to work on the [FAIRsFAIR](https://www.fairsfair.eu/) (Fostering Fair Data Practices in Europe) project in Edinburgh.
 * [Rosie Higman](https://twitter.com/RosieHLib) is the Research Data Manager for the [University of Sheffield Library](https://www.sheffield.ac.uk/library).
+* [Patricia Herterich](https://twitter.com/PHerterich) has joined [Digital Curation](http://www.dcc.ac.uk/) to work on the [FAIRsFAIR](https://www.fairsfair.eu/) (Fostering Fair Data Practices in Europe) project in Edinburgh.
+  You could get her off to a great start by filling in this [FAIR Policy and Practice Survey](https://ec.europa.eu/eusurvey/runner/FAIR_Policy_and_Practice_Survey_2019) before 20 September 2019.
 
 We're so incredibly proud of all the Turing Way community members, and these roles in particular are incredibly important to the success of our goal of making "reproducible research too easy not to do".
 Congratulations Rachael, Patricia and Rosie!
@@ -44,14 +45,14 @@ Well done 💖 😻 🌈
 
 ## Artwork
 
-The beautiful artwork that Matt from Scriberia created at our May events is now available for your use and re-use on Zenodo: [https://doi.org/10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+The beautiful artwork that Matt from [Scriberia](http://www.scriberia.co.uk/) created at our May events is now available for your use and re-use on Zenodo: [https://doi.org/10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 
 Everything is [CC-BY licenced](https://creativecommons.org/licenses/by/4.0) and available in `jpg` and `svg` format.
 We'd love to know which ones you like the best, and to receive any pictures of them in action in your own presentations.
 
 If you adapt any of them (for example by changing the colours) please send us a copy so we can add it to the repository to make it available for others in the future.
 
-![](images/ComboScriberia_ForNewsletter.png)
+![A combination of images showing the Turing Way community, the importance of readable code, making a contribution on GitHub and machine readable FAIR data](images/fComboScriberia_ForNewsletter.png)
 
 ## Turing Way talks
 
