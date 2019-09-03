@@ -1,9 +1,9 @@
 # The Turing Way - Introducing Online Collaboration Cafes
 
-Hello Turing Way friends!
+Hello *Turing Way* friends!
 
 Have you had a great summer?
-At The Turing Way we've been both busy and on haitus, but we're really excited to be back for the autumn.
+At *The Turing Way* we've been both busy and on haitus, but we're really excited to be back for the autumn.
 
 Keep reading for information about our [online "Collaboration Cafes"](#online-collaboration-cafes) that start tomorrow, celebrate our [funding extension](#funding-approved) and some fantastic [new jobs](#new-jobs) for some of our team members, re-use the beautiful [artwork](#artwork) from our Book Dash 📚💨💨 events, and watch one of Kirstie's [talks](#turing-way-talks) about the project from PyData London.
 
@@ -32,14 +32,14 @@ We'd love for you to help shape the future of the project, so please [get in tou
 
 ## New job celebrations
 
-Congratulations to three of the core _Turing Way_ team members who have started new jobs this summer.
+Congratulations to three of the core *Turing Way* team members who have started new jobs this summer.
 
 * [Rachael Ainsworth](https://twitter.com/rachaelevelyn) is now the Research Software Community Manager for the [Software Sustainability Institute](https://twitter.com/SoftwareSaved), based in Manchester.
 * [Rosie Higman](https://twitter.com/RosieHLib) is the Research Data Manager for the [University of Sheffield Library](https://www.sheffield.ac.uk/library).
 * [Patricia Herterich](https://twitter.com/PHerterich) has joined [Digital Curation](http://www.dcc.ac.uk/) to work on the [FAIRsFAIR](https://www.fairsfair.eu/) (Fostering Fair Data Practices in Europe) project in Edinburgh.
   You could get her off to a great start by filling in this [FAIR Policy and Practice Survey](https://ec.europa.eu/eusurvey/runner/FAIR_Policy_and_Practice_Survey_2019) before 20 September 2019.
 
-We're so proud of all the Turing Way community members, and these roles in particular are incredibly important to the success of our goal of making "reproducible research too easy not to do".
+We're so proud of all the *Turing Way* community members, and these roles in particular are incredibly important to the success of our goal of making "reproducible research too easy not to do".
 Congratulations Rachael, Patricia and Rosie!
 Well done 💖 😻 🌈
 
