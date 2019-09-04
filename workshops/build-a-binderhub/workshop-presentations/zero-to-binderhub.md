@@ -115,7 +115,7 @@ You will have been given instructions on how to acquire one of these by the inst
 These instructions will link the BinderHub to a [DockerHub](https://hub.docker.com/) Container Registry, and so you will need a DockerHub account as well.
 This will be where BinderHub stores the images it builds.
 
-> BinderHub also works with Google Container Registry and custom registries.
+> BinderHub also works with Google Container Registry, Azure Container Registry and custom registries.
 > We are using DockerHub as an example.
 
 ### A Note on Secret Files
