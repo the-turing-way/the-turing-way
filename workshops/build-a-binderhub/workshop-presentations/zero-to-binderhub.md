@@ -203,14 +203,19 @@ To see a list of Azure subscriptions you have available to you, you can run the 
 az account list --refresh --output table
 ```
 This prints your subscriptions to the terminal in a human-readable format.
+Now let's set our working subscription.
 
-You should only see a "Free Trial" subscription (unless you have used Azure before and have others).
-Let's activate this with the following command.
+**If you are using a Free Trial suscription:**
 ```
 az account set -s "Free Trial"
 ```
-**NOTE:** If you wish to use a different subscription, replace the text in quotes with the name of your chosen subscription.
-If your subscription name has no whitespace, the quotation marks are not required.
+
+**If you are using an Azure Pass:**
+```
+az account set -s "Azure Pass - Sponsorship
+```
+
+**NOTE:** If your subscription name has no whitespace, the quotation marks are not required.
 
 #### 2. Create a Resource Group
 
