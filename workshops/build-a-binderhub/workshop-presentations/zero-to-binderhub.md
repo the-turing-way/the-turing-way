@@ -157,6 +157,8 @@ mkdir testhub
 cd testhub
 ```
 
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
+
 Run the following three commands to download the `setup.sh` script and the `config-template.yaml` and `secret-template.yaml` files.
 
 ```
@@ -165,17 +167,23 @@ wget -O config-template.yaml http://bit.ly/config-template
 wget -O secret-template.yaml http://bit.ly/secret-template
 ```
 
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
+
 Make the shell script executable will the following command.
 
 ```
 chmod 700 setup.sh
 ```
 
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
+
 Now make a secrets folder inside `testhub` where we will save secrets.
 
 ```
 mkdir secrets
 ```
+
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
 **NOTE:** If you are using version control, it is strongly recommended that you add the `secrets` folder to a `.gitignore` file to ensure secret information is not made public.
 Do this **before** adding any secrets to the folder!
