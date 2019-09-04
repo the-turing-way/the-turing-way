@@ -28,7 +28,7 @@ You will need the following resources to be able to participate in this workshop
 
 * A Microsoft Azure Pass - You will have been given instructions on how to acquire one of these by the instructor before the workshop.
 
-**Important:** If possible, please **do not** create an Azure account with a ".ac.uk" domain of an address affiliated with an organisation.
+**Important:** If possible, please **do not** create an Azure account with a ".ac.uk" domain or an address affiliated with an organisation.
 This may cause issues during deployment.
 
 To complete the extra curricular steps, you will also need a GitHub account.
