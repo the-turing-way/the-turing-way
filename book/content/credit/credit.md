@@ -9,7 +9,6 @@ Future work:
 -->
 
 ## Prerequisites / recommended skill level
-> other chapters that should have been read before or content you should be familiar with before you read this
 
 | Prerequisite        | Importance               | Notes  |
 | -------------       | ----------               | ------ |
@@ -27,12 +26,10 @@ Future work:
 6. [Further reading](#further-reading)
 
 ## Summary
-> easy to understand summary - a bit like tl;dr
 
 Reproducible research is great, but spending time on it will reduce the time you have available for activities by which researchers are traditionally measured, such as writing papers. But what if you could get credit for your reproducibility efforts as well?
 
 ## How this will help you/ why this is useful
-> why we think you should read the whole thing
 
 Academic research is a reputation economy, and citations are the currency. Most research institutions' promotion and hiring criteria depend to a greater or lesser extent on your publishing record: how many articles you have published, how "important" the journals were, and how many times each article has been cited.
 
@@ -123,18 +120,13 @@ It's perfectly possible to cite a dataset or software package directly, and most
 - Get a distinct persistent identifier for each key version
 - Include an example citation in your software manual
 
-## What to learn next
-> recommended next chapters that are a good next step up
+<!-- ## What to learn next -->
 
 ## Further reading
-> top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
-> less relevant/favourite resources in case someone wants to dig into this in detail
 
 - [FAIR data principles](https://www.force11.org/group/fairgroup/fairprinciples)
 - [FORCE11 Software Citation principles](https://www.force11.org/software-citation-principles)
 
-## Definitions/glossary
-> Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
+<!-- ## Definitions/glossary -->
 
-## Bibliography
-> Credit/urls for any materials that form part of the chapter's text.
+<!-- ## Bibliography -->
