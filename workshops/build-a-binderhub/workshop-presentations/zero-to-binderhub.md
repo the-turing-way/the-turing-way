@@ -9,6 +9,11 @@ Link to this page: [**bit.ly/zero-to-binderhub-workshop**](http://bit.ly/zero-to
 The following workshop will walk you through deploying a BinderHub onto a Microsoft Azure Kubernetes Service.
 It will be a publicly available service like [mybinder.org](https://mybinder.org).
 
+Throughout the workshop, you will see some emojis.
+The :vertical_traffic_light: emoji indicates a TODO step and you should use a green or red post-it to indicate to the instructor if you've completed the TODO (green) or are having problems (red).
+The :question: emoji indicates a point where the instructor will pause to take questions.
+They are placed either at the end of a section to allow everyone to move on together, or after a step that may need more explanation.
+
 ## :warning: Before You Start :warning:
 
 You will need the following resources to be able to participate in this workshop:
