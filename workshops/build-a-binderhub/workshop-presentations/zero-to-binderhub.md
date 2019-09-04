@@ -94,13 +94,18 @@ The Binder team's overview of the BinderHub architecture can be found [here](htt
 
 ### Cloud Resource Requirements
 
-This workshop assumes you have a "Free Trial" subscription with [Microsoft Azure](https://azure.microsoft.com/en-gb/).
+This workshop assumes you have an account with [Microsoft Azure](https://azure.microsoft.com/en-gb/).
+
+Either a **Free Trial** subscription:
 It's quick to set one up and you get £150 free credit for the first 30 days as well as access to some _always free_ services.
 You will be asked to provide a credit card.
 This is only for identity verification, **you will not be charged**.
 When your free trial expires, your resources will automatically be frozen and then deleted after a month if you don't reactivate your subscription.
 
-**NOTE:** Please do not sign up with a ".ac.uk" email as you may encounter some issues with Service Principal permissions when we deploy the Kubernetes cluster.
+Or an **Azure Pass**:
+You will have been given instructions on how to acquire one of these by the instructor before the workshop.
+
+**NOTE:** Please do not sign up with a ".ac.uk" domain or organisation affiliated address as you may encounter some issues with Service Principal permissions when we deploy the Kubernetes cluster.
 
 > BinderHub is Cloud-neutral.
 > We are using Azure as an example.
