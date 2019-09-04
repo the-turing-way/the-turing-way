@@ -215,6 +215,8 @@ az account set -s "Free Trial"
 az account set -s "Azure Pass - Sponsorship
 ```
 
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
+
 **NOTE:** If your subscription name has no whitespace, the quotation marks are not required.
 
 #### 2. Create a Resource Group
@@ -232,6 +234,8 @@ az group create --name testhub \
   A list of data centre regions and locations can be found [here](https://docs.microsoft.com/en-us/azure/aks/container-service-quotas#region-availability).
   We have chosen West Europe for resource availability.
 * `--output table` specifies the output should be in human-readable ASCII table format as opposed to JSON, which is the default output.
+
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
 #### 3. Create an Azure Kubernetes Service (AKS) Cluster
 
@@ -258,7 +262,9 @@ az aks create --name hubcluster \
 
 **NOTE:** The default version of Kubernetes will be installed, you can use the `--kubernetes-version` flag to install a different version.
 
-**This step may take some time to execute!** :vertical_traffic_light:
+**This step may take some time to execute!**
+
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
 **WARNING:** If this step fails due to insufficient permissions on the directory, this is likely because you're using a ".ac.uk" email to login to Azure and your institution has limited your ability to create Service Principals.
 For the sake of this workshop, you should have created your account with a different email address.
@@ -297,7 +303,9 @@ NAME                       STATUS   ROLES   AGE   VERSION
 aks-nodepool1-97000712-0   Ready    agent   19m   v1.9.11
 ```
 
-:question: :question: Pause for questions and people to catch up :question: :question:
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
+
+:question: :question: :question: :question: :question:
 
 ### Setting up Helm
 
@@ -324,6 +332,8 @@ Processes in containers running in _pods_ are authenticated as a particular **Se
 kubectl create serviceaccount tiller --namespace kube-system
 ```
 
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
+
 #### 2. Give the `ServiceAccount` full permissions to manage the cluster
 
 This step enables Role Based Access Control (RBAC) so Kubernetes can secure which pods/users can perform what kind of actions on the cluster.
@@ -335,7 +345,9 @@ See [Project Jupyter's docs](https://zero-to-jupyterhub.readthedocs.io/en/latest
 kubectl create clusterrolebinding tiller --clusterrole cluster-admin --serviceaccount=kube-system:tiller
 ```
 
-:question: :question: :question: :question:
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
+
+:question: :question: :question: :question: :question:
 
 #### 3. Initialise `helm` and `tiller`
 
@@ -345,6 +357,8 @@ This is the command that connects your remote Kubernetes cluster to the commands
 ```
 helm init --service-account tiller --wait
 ```
+
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
 #### 4. Secure Helm
 
@@ -365,7 +379,9 @@ kubectl patch deployment tiller-deploy \
     }]'
 ```
 
-:question: :question: :question: :question:
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
+
+:question: :question: :question: :question: :question:
 
 #### 5. Verify the installation
 
@@ -389,7 +405,9 @@ If the versions do not match, run:
 helm init --upgrade
 ```
 
-:question: :question: Pause for questions and people to catch up :question: :question:
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
+
+:question: :question: :question: :question: :question:
 
 ### Setup BinderHub
 
@@ -405,6 +423,8 @@ openssl rand -hex 32 > secrets/apiToken.txt
 openssl rand -hex 32 > secrets/secretToken.txt
 ```
 
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
+
 #### 2. Run `setup.sh`
 
 Now run `setup.sh`.
@@ -417,6 +437,8 @@ You must provide your Docker **username**, not your email address associated wit
 ./setup.sh
 ```
 
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
+
 #### 3. Install BinderHub
 
 First, pull the latest Helm chart for BinderHub.
@@ -425,6 +447,8 @@ First, pull the latest Helm chart for BinderHub.
 helm repo add jupyterhub https://jupyterhub.github.io/helm-chart
 helm repo update
 ```
+
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
 Next, install the required Helm chart using the config files we created in [Step 2: Run `setup.sh`](#2-run-setupsh).
 
@@ -445,6 +469,8 @@ helm install jupyterhub/binderhub \
 This step will deploy both a JupyterHub and a BinderHub but they are not yet configured to communicate with one another.
 You may need to wait a few moments before moving on as the resources may take a while to be set up.
 
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
+
 #### 4. Connect JupyterHub and BinderHub
 
 Print the IP address of the JupyterHub that was just deployed by running the following command.
@@ -454,17 +480,23 @@ It will be listed in the `EXTERNAL-IP` field.
 kubectl get svc proxy-public --namespace=binderhub
 ```
 
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
+
 Now do the following steps:
 
 1) On [line 5 of `setup.sh`](https://github.com/alan-turing-institute/the-turing-way/blob/a19d6aa00bba46770ad9f22238ad00de8cc1b071/workshops/build-a-binderhub/binderhub_resources/setup.sh#L5), copy the IP address from the last command into the `jupyter_ip` variable and uncomment the line (remove the `#` from the beginning).
 2) Again in `setup.sh`, move the line reading `#  -e "s/<jupyter-ip>/${jupyter_ip}/" \` ([Line 27](https://github.com/alan-turing-institute/the-turing-way/blob/a19d6aa00bba46770ad9f22238ad00de8cc1b071/workshops/build-a-binderhub/binderhub_resources/setup.sh#L27)) above the line `config-template.yaml > secrets/config.yaml` and uncomment it by removing the `#` from the start.
 3) Uncomment [line 8 of `config-template.yaml`](https://github.com/alan-turing-institute/the-turing-way/blob/9d271c029401100b1d8b666c3143c7ddd96b867d/workshops/build-a-binderhub/binderhub_resources/config-template.yaml#L8) by removing the `#` from the beginning.
 
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
+
 Rerun `setup.sh`.
 
 ```
 ./setup.sh
 ```
+
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
 Now upgrade the Helm chart to deploy the change.
 
@@ -474,6 +506,8 @@ helm upgrade binderhub jupyterhub/binderhub \
     -f secrets/secret.yaml \
     -f secrets/config.yaml
 ```
+
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
 #### 5. Try out your BinderHub deployment!
 
@@ -487,6 +521,8 @@ kubectl get svc binder --namespace=binderhub
 
 Copy the IP address into your browser and your BinderHub should be waiting.
 
+:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
+
 If you've been successful, a page identical to [mybinder.org](https://mybinder.org) should appear.
 Type the following URL into the GitHub repo box and launch it: [**https://github.com/binder-examples/requirements**](https://github.com/binder-examples/requirements).
 You can even sign in to your Docker account to see when the image has been pushed to the registry.
@@ -498,6 +534,8 @@ For a stable cluster, it is recommended to deploy on at least three nodes, howev
 Another reason the `Internal Server Error` may appear is that you've tried to launch a repository immediately after a `helm upgrade`.
 It can take some time after an upgrade for the JupyterHub to reset it's internal state.
 Always check that all pods have `RUNNING` status using `kubectl get pods -n binderhub` before trying to launch a repo.
+
+:question: :question: :question: :question: :question:
 
 ### Debugging your BinderHub
 
