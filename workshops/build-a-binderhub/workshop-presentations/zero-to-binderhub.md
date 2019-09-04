@@ -13,8 +13,18 @@ It will be a publicly available service like [mybinder.org](https://mybinder.org
 
 You will need the following resources to be able to participate in this workshop:
 
-* A Microsoft Azure Free Trial subscription - sign up here: https://azure.microsoft.com/en-gb/free/
 * A Docker Hub account - sign up here: https://hub.docker.com/signup
+
+**And either:**
+
+* A Microsoft Azure Free Trial subscription - sign up here: https://azure.microsoft.com/en-gb/free/
+
+**Or:**
+
+* A Microsoft Azure Pass - You will have been given instructions on how to acquire one of these by the instructor before the workshop.
+
+**Important:** If possible, please **do not** create an Azure account with a ".ac.uk" domain of an address affiliated with an organisation.
+This may cause issues during deployment.
 
 To complete the extra curricular steps, you will also need a GitHub account.
 
