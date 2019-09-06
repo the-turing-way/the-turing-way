@@ -24,19 +24,35 @@ When planning outreach it is important to consider who you want to engage with a
 
 <!-- While outreach can yield a wide variety of societal benefits, personal benefits may play an important role in incentivising outreach activities. This may simply be building your research profile and CV, but it may be useful to consider how outreach activities are rewarded within your institution  -->
 
-### Identify resources. Make realistic goals? 
+### Identify resources - Make realistic goal 
 
 Identifying resource requirements can help to ensure that outreach goals are appropriate and realistic. Remember that not all outreach activities are appropriate to all goals. Wasting resources, time and money (both your own and others) is not desirable and in certain circumstances could even lead to reputational damage. Consider your time as a key resource - does your workload allow for outreach activities, and how might you ensure you are able to achieve your goals to a standard you are proud of? 
 
 Consider whether you or your team have the expertise to carry out the activities. This may include both technical research expertise as well as project management, public speaking, organisation, and financial management. Finding out what help and support is available at your Institute can be particurly useful. Many provide training oppertunities to aid with outreach activities, in addition to having communications and media engagement teams who can offer expertise to maximise your research impact. In addition, Universities may also hold internal funds for outreach. For example, ESRC have provided impact acceleration grants to a several Universities [2], specifically to support outreach, and other funding sources may be available.
 
 
+### Measure success and share your experiences
+
+Much like evaluation any other part of the reserach cycle, evaluating outreach success can help to identify shortcomings and refine the approach taken. Thinking about how success will be measured can be useful during the planning out outreach activities and should be closely tied to the goals outreach goals. Condsider whether you're goals were achieved and identify challenges that arose. Evaluation can consist of simple reflection and discussion with team members, but more formal methods such as questionaires and feedback forms can also be valuable, particularly for assessing public perceptions of the activity. For activities such as blog writing or press releases it is often possible to gather metrics on audience reach, such as the number of people reading a post. 
+
+<!-- 
+Process evaluation. This type of evaluation relates to the execution of the outreach program itself. Process evaluations focus on implementation of activities as they relate to budget requirements, schedules, staff resources, and tasks or activities. Process evaluation occurs as the program is being implemented, early enough in the outreach delivery process to allow modifications before too many resources have been expended. Some typical questions asked during process evaluations include the following:
+What effect did the effort have on the process?
+Did people attend the meetings?
+Did the message get to the media?
+
+Impact evaluation. This type of evaluation relates to achievement of the goals and objectives of the program. Impact evaluations assess the outcome or impacts produced by the outreach program and are directly tied to the original objectives. This type of evaluation measures the effect of an outreach program on the target audience by asking, "To what extent did we achieve our objective?" Typical performance measures under impact evaluations include increased awareness, knowledge of an issue, changes in perceptions or behavior, repeat participation in a targeted activity, and goal-oriented measures of water quality improvements.
+
+
+Context evaluation. This type of evaluation relates to how the project functions in the community as a whole, how the community perceives the project, and the economic and political ramifications of the project. Context indicators can provide some background and perspective on why certain approaches appear to be working well while others are not. Examining contextual information related to the audience, the outreach program, and the watershed issues under study can provide some perspective on what's working, what's not, and why. Assessing how the project functions within the economic, social, and political environment of the community helps to uncover aspects of the objective, message, audience, format, or distribution mechanism that might be affecting results. Focus groups that examine the social, economic, political, and cultural context of your project can identify problems that weren't noticed during the planning or execution phase. -->
+
+<!-- ### Useful resources -->
+
 
 <!-- - Carry out skills checks to ensure that the team and its partners has, or can develop, the full range of personal and technical skills that will be needed to undertake the research including facilitation, partnership working, negotiation and conflict resolution. Your academic development unit or partner training and development specialists can help you access learning opportunities.
 - Consider how senior members of the research team will allow sufficient time to participate in knowledge exchange and impact generating activities. 
 - Consider building space and resources for formal and informal evaluation measures to help your team gauge your progress and advise you when adjustments or agility may be needed
-Get to know and use your institution's academic development programme to enhance your personal and technical skills sets. Universities with ESRC Impact Acceleration Accounts provide learning and development opportunities that promote capacities for supporting impact -->
-<!-- 
+Get to know and use your institution's academic development programme to enhance your personal and technical skills sets. Universities with ESRC Impact Acceleration Accounts provide learning and development opportunities that promote capacities for supporting impact 
 
 
 ## Research Resources
@@ -94,10 +110,9 @@ Get to know and use your institution's academic development programme to enhance
 - Carry out skills checks to ensure that the team and its partners has, or can develop, the full range of personal and technical skills that will be needed to undertake the research including facilitation, partnership working, negotiation and conflict resolution. Your academic development unit or partner training and development specialists can help you access learning opportunities.
 - Consider how senior members of the research team will allow sufficient time to participate in knowledge exchange and impact generating activities. 
 - Consider building space and resources for formal and informal evaluation measures to help your team gauge your progress and advise you when adjustments or agility may be needed
-Get to know and use your institution's academic development programme to enhance your personal and technical skills sets. Universities with ESRC Impact Acceleration Accounts provide learning and development opportunities that promote capacities for supporting impact. --> -->
+Get to know and use your institution's academic development programme to enhance your personal and technical skills sets. Universities with ESRC Impact Acceleration Accounts provide learning and development opportunities that promote capacities for supporting impact. 
 
 
-### Measuring success and sharing your experiences
 
 
 
@@ -153,10 +168,9 @@ Outreach has a potential to build your reputation and that of your Institute. Ca
 
 "Public engagement enhances research so that it contributes positively to society and results in greater relevance, accountability and transparency." - Alan Thorpe
 
-<!-- https://www.ukri.org/files/legacy/scisoc/concordatforengagingthepublicwithresearch-pdf/ - useful!  -->
+ https://www.ukri.org/files/legacy/scisoc/concordatforengagingthepublicwithresearch-pdf/ - useful!  
 
-<!-- INSERT FIGURE -->
-<!-- 
+
 1. Who is the audience
     - Who do you want to engage with and why? It could be anything from writing a blog to build your research profile (help people know who you are; get you invaluable feedback - much faster than peer review). Or it could be large public engagement (e.g. meeting stakeholders/endusers who may benefit - for example, meeting automotive industry members when working on AI for selfdriving cars)
 
@@ -262,12 +276,8 @@ Outreach -
 ### Measuring success
 - Once completed assess whether the outreach was successful. 
 - Did you get the benefits you wanted? Could you improve on strategy? Was it worth time commitments. 
- -->
 
 
-
-
-<!-- 
 1. Outreach should not be an afterthought but integrated into the project from its conception 
 
 2. How is the project funded? Does the funder encourage outreach? Can outreach inform part of the funding bid?
@@ -309,6 +319,7 @@ Get to know and use your institution's academic development programme to enhance
     - Money
     - Contacts
 
+--> 
 
 ### References and Further reading
 [1] [UKRI concordat for engaging with the public](https://www.ukri.org/files/legacy/scisoc/concordatforengagingthepublicwithresearch-pdf/) 
