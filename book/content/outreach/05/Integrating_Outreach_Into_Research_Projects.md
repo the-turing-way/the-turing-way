@@ -20,7 +20,7 @@ Whatever your stage of your career, early planning of outreach activities can be
 
 ### Who do you want to engage with and why?
 
-When planning outreach it is important to consider who you want to engage with and why. The reasons for doing outreach are varied and multifaceted. Perhaps you wish to publish a blog post on your latest research findings or a particularly methodology you have been utilising. Perhaps you wish to organise a meeting with potential end-users of your research to help steer future research questions, or give a public lecture on your research area. Understanding your own goals and the likely benefits of the outreach activity are critical in maximising their value. Give personal goals prominence and consider how outreach may aid your career, both within your current institute and future places of work. 
+When planning outreach it is important to consider who you want to engage with and why. The reasons for doing outreach are varied and multifaceted. Perhaps you wish to publish a blog post on your latest research findings or a particularly methodology you have been utilising. Perhaps you wish to organise a meeting with potential end-users of your research to help steer future research questions, or give a public lecture on your research area. Understanding your own goals and the likely benefits of the outreach activity are critical in maximising their value. Give personal goals prominence and consider how outreach may aid your career, both within your current institute and future places of work. Remember that outreach is a two way activiity - both an oppertunity to inform the public and to learn from them. 
 
 <!-- While outreach can yield a wide variety of societal benefits, personal benefits may play an important role in incentivising outreach activities. This may simply be building your research profile and CV, but it may be useful to consider how outreach activities are rewarded within your institution  -->
 
@@ -28,8 +28,73 @@ When planning outreach it is important to consider who you want to engage with a
 
 Identifying resource requirements can help to ensure that outreach goals are appropriate and realistic. Remember that not all outreach activities are appropriate to all goals. Wasting resources, time and money (both your own and others) is not desirable and in certain circumstances could even lead to reputational damage. Consider your time as a key resource - does your workload allow for outreach activities, and how might you ensure you are able to achieve your goals to a standard you are proud of? 
 
-Consider whether you or your team have the expertise to carry out the activities, and what help might be available at your Institute? Many Institutions have communications teams which provide services to help researcher engage in outreach activities, particularly around press releases and media engagements. Utilising the expertise offered by these teams can be invaluable. 
+Consider whether you or your team have the expertise to carry out the activities. This may include both technical research expertise as well as project management, public speaking, organisation, and financial management. Finding out what help and support is available at your Institute can be particurly useful. Many provide training oppertunities to aid with outreach activities, in addition to having communications and media engagement teams who can offer expertise to maximise your research impact. In addition, Universities may also hold internal funds for outreach. For example, ESRC have provided impact acceleration grants to a several Universities [2], specifically to support outreach, and other funding sources may be available.
 
+
+
+<!-- - Carry out skills checks to ensure that the team and its partners has, or can develop, the full range of personal and technical skills that will be needed to undertake the research including facilitation, partnership working, negotiation and conflict resolution. Your academic development unit or partner training and development specialists can help you access learning opportunities.
+- Consider how senior members of the research team will allow sufficient time to participate in knowledge exchange and impact generating activities. 
+- Consider building space and resources for formal and informal evaluation measures to help your team gauge your progress and advise you when adjustments or agility may be needed
+Get to know and use your institution's academic development programme to enhance your personal and technical skills sets. Universities with ESRC Impact Acceleration Accounts provide learning and development opportunities that promote capacities for supporting impact -->
+<!-- 
+
+
+## Research Resources
+
+- [Turing Annual Report](https://issuu.com/turinginst/docs/turing_annual_report_2017-18?e=30398675/63660505):
+    - Information on big outreach projects at Turing over 2017-2018 (page 77-onwards)
+    - Statistics on events held, youtube channel views etc
+
+- [EPSRC Outreach](https://epsrc.ukri.org/innovation/publicengagement/)
+    - 'Under EPSRC's Royal Charter, one of our objectives is to "generate public awareness; communicate research outcomes; encourage public engagement and dialogue; and disseminate knowledge".'
+    - Grant applications: 'EPSRC would like to make grant applicants aware of the fact that funding can be requested for media training and should be included within the grant application'
+
+    - [ESRC Public Engagement](https://epsrc.ukri.org/newsevents/pubs/public-engagement-guidance/): 'Public engagement involves activities that bring researchers and the public together. It is more than just meeting an audience and telling them about your research - effective public engagement is about two-way communication, with the researchers listening to and learning from participants'
+
+- [UKRI Public Engagement website](https://www.ukri.org/public-engagement/research-council-partners-and-public-engagement-with-research/):
+    - 'Engaging the public with research helps to empower people, broadens attitudes and ensures that the work of universities and research institutes is relevant to society and wider social concerns.'
+
+- [National Coordinating Center for Public Engagement](https://www.publicengagement.ac.uk/nccpe-projects-and-services/nccpe-projects/national-forum-public-engagement-stem/about-national-forum)
+
+
+- [What's in it for me?](https://www.ukri.org/files/legacy/scisoc/rcukbenefitsofpe-pdf/)
+    - Benfits of outreach
+
+- [ESRC Impact tool kit](https://esrc.ukri.org/research/impact-toolkit/):
+    - Set of documents on supporting outreach and impact
+
+## What does outreach involve?
+
+- Pathways to impact (required in many grant applications)
+- Communicating benefits/disadvantages of data science/ AI to the wider public
+    - Improving what people understand about AI/ DS
+- Press
+- Talks
+- Focus groups
+
+
+## What resources are required?
+
+- Resources can be very variable depending on the type of outreach. For example, writing a blog post vs holding a stakeholder meeting or public lecture
+
+- Identifying resources (staff costs, volunteer time, University comms teams, professional help)
+
+- Knowing what resources to look for, how funding can be obtained
+
+### [Pathways statement](https://esrc.ukri.org/research/impact-toolkit/developing-pathways-to-impact/)
+- user consultation in the planning and strategising for impact
+- training workshops and events designed for specific user groups
+- preparation for unanticipated opportunities
+- commitment to include principal and senior investigator time on knowledge exchange and impact activities
+
+- Explain how your Pathways statement is intended to enable the impacts you are anticipating.  A useful tool for doing this is Theory of Change (external website)
+- Include space and funding for events if necessary for reflection for the research team as a group or as individuals during the research, with research users if helpful. Consider enabling research users to lead these activities.
+- Ensure that the participation of users is supported by the inclusion of funding towards staff and volunteer time and identify fully the costs of taking part in research.
+- Consider including users as co-investigators in the proposal.
+- Carry out skills checks to ensure that the team and its partners has, or can develop, the full range of personal and technical skills that will be needed to undertake the research including facilitation, partnership working, negotiation and conflict resolution. Your academic development unit or partner training and development specialists can help you access learning opportunities.
+- Consider how senior members of the research team will allow sufficient time to participate in knowledge exchange and impact generating activities. 
+- Consider building space and resources for formal and informal evaluation measures to help your team gauge your progress and advise you when adjustments or agility may be needed
+Get to know and use your institution's academic development programme to enhance your personal and technical skills sets. Universities with ESRC Impact Acceleration Accounts provide learning and development opportunities that promote capacities for supporting impact. --> -->
 
 
 ### Measuring success and sharing your experiences
@@ -245,62 +310,7 @@ Get to know and use your institution's academic development programme to enhance
     - Contacts
 
 
-## Research Resources
-
-- [Turing Annual Report](https://issuu.com/turinginst/docs/turing_annual_report_2017-18?e=30398675/63660505):
-    - Information on big outreach projects at Turing over 2017-2018 (page 77-onwards)
-    - Statistics on events held, youtube channel views etc
-
-- [EPSRC Outreach](https://epsrc.ukri.org/innovation/publicengagement/)
-    - 'Under EPSRC's Royal Charter, one of our objectives is to "generate public awareness; communicate research outcomes; encourage public engagement and dialogue; and disseminate knowledge".'
-    - Grant applications: 'EPSRC would like to make grant applicants aware of the fact that funding can be requested for media training and should be included within the grant application'
-
-    - [ESRC Public Engagement](https://epsrc.ukri.org/newsevents/pubs/public-engagement-guidance/): 'Public engagement involves activities that bring researchers and the public together. It is more than just meeting an audience and telling them about your research - effective public engagement is about two-way communication, with the researchers listening to and learning from participants'
-
-- [UKRI Public Engagement website](https://www.ukri.org/public-engagement/research-council-partners-and-public-engagement-with-research/):
-    - 'Engaging the public with research helps to empower people, broadens attitudes and ensures that the work of universities and research institutes is relevant to society and wider social concerns.'
-
-- [National Coordinating Center for Public Engagement](https://www.publicengagement.ac.uk/nccpe-projects-and-services/nccpe-projects/national-forum-public-engagement-stem/about-national-forum)
-
-
-- [What's in it for me?](https://www.ukri.org/files/legacy/scisoc/rcukbenefitsofpe-pdf/)
-    - Benfits of outreach
-
-- [ESRC Impact tool kit](https://esrc.ukri.org/research/impact-toolkit/):
-    - Set of documents on supporting outreach and impact
-
-## What does outreach involve?
-
-- Pathways to impact (required in many grant applications)
-- Communicating benefits/disadvantages of data science/ AI to the wider public
-    - Improving what people understand about AI/ DS
-- Press
-- Talks
-- Focus groups
-
-
-## What resources are required?
-
-- Resources can be very variable depending on the type of outreach. For example, writing a blog post vs holding a stakeholder meeting or public lecture
-
-- Identifying resources (staff costs, volunteer time, University comms teams, professional help)
-
-- Knowing what resources to look for, how funding can be obtained
-
-### [Pathways statement](https://esrc.ukri.org/research/impact-toolkit/developing-pathways-to-impact/)
-- user consultation in the planning and strategising for impact
-- training workshops and events designed for specific user groups
-- preparation for unanticipated opportunities
-- commitment to include principal and senior investigator time on knowledge exchange and impact activities
-
-- Explain how your Pathways statement is intended to enable the impacts you are anticipating.  A useful tool for doing this is Theory of Change (external website)
-- Include space and funding for events if necessary for reflection for the research team as a group or as individuals during the research, with research users if helpful. Consider enabling research users to lead these activities.
-- Ensure that the participation of users is supported by the inclusion of funding towards staff and volunteer time and identify fully the costs of taking part in research.
-- Consider including users as co-investigators in the proposal.
-- Carry out skills checks to ensure that the team and its partners has, or can develop, the full range of personal and technical skills that will be needed to undertake the research including facilitation, partnership working, negotiation and conflict resolution. Your academic development unit or partner training and development specialists can help you access learning opportunities.
-- Consider how senior members of the research team will allow sufficient time to participate in knowledge exchange and impact generating activities. 
-- Consider building space and resources for formal and informal evaluation measures to help your team gauge your progress and advise you when adjustments or agility may be needed
-Get to know and use your institution's academic development programme to enhance your personal and technical skills sets. Universities with ESRC Impact Acceleration Accounts provide learning and development opportunities that promote capacities for supporting impact. -->
-
 ### References and Further reading
-1. [UKRI concordat for engaging with the public](https://www.ukri.org/files/legacy/scisoc/concordatforengagingthepublicwithresearch-pdf/) -->
+[1] [UKRI concordat for engaging with the public](https://www.ukri.org/files/legacy/scisoc/concordatforengagingthepublicwithresearch-pdf/) 
+
+[2] [ESRC Impact acceleration grants](https://esrc.ukri.org/collaboration/collaboration-oportunities/impact-acceleration-accounts/)
