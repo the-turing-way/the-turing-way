@@ -23,7 +23,7 @@ We're delighted to have you here :coffee: :sparkles: :cake:
 
 ### Sign up below
 
-*Name + a fun question about yourself + emoji that best explain your day*
+*Name + a fun question about yourself + emoji that best explains your day*
 
 *(Remember that this is a public document. You can use a pseudonym if you'd prefer.)*
 
@@ -61,6 +61,8 @@ We're delighted to have you here :coffee: :sparkles: :cake:
 * 5 minute timer (cat): http://amazingtimer.com/countdown_timer.php?h=0&m=5&s=0&b=40
 
 ### Breakout rooms: Topic proposals
+
+*If you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it. If you like one of the topics that is already suggested, please add your name next to that one. Team work makes the dream work. For more information about breakout rooms see [the description on GitHub](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md#breakout-rooms).*
 
 Topic for breakout / Names
 
