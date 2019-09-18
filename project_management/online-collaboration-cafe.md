@@ -103,6 +103,9 @@ Pomodoro sessions can happen either in the main zoom room in silence, or in [bre
 We will record the welcome and introductions, and the open discussion so that others can learn from the conversations we have during the Collaboration Cafes.
 The videos will be uploaded to the _Turing Way_ YouTube channel: [https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
 
+You do not have to speak or have your video on during the recordings.
+We won't record the pomodoro parts of the Collaboration Cafe, nor conversations in the breakout rooms.
+
 ### Dates and start times
 
 The _Turing Way_ online collaboration cafes will happen on the first and third Wednesday of the month.
