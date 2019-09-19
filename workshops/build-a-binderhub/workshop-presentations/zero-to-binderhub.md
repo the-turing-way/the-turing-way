@@ -217,7 +217,7 @@ az account set -s "Free Trial"
 
 **If you are using an Azure Pass:**
 ```
-az account set -s "Azure Pass - Sponsorship
+az account set -s "Azure Pass - Sponsorship"
 ```
 
 :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
