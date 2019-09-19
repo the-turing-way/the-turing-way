@@ -5,7 +5,7 @@ Hello *Turing Way* friends!
 Have you had a great summer?
 At *The Turing Way* we've been both busy and on haitus, but we're really excited to be back for the autumn.
 
-Keep reading for information about our [online "Collaboration Cafes"](#online-collaboration-cafes) that start tomorrow, celebrate our [funding extension](#funding-approved) and some fantastic [new jobs](#new-jobs) for some of our team members, re-use the beautiful [artwork](#artwork) from our Book Dash 📚💨💨 events, and watch one of Kirstie's [talks](#turing-way-talks) about the project from PyData London.
+Keep reading for information about our [online "Collaboration Cafes"](#online-collaboration-cafes) that start tomorrow, celebrate our [funding extension](#funding-approved) and some fantastic [new jobs](#new-job-celebrations) for some of our team members, re-use the beautiful [artwork](#openly-licenced-artwork) from our Book Dash 📚💨💨 events, and watch one of Kirstie's [talks](#turing-way-talks) about the project from PyData London.
 
 ## Online Collaboration Cafes
 
