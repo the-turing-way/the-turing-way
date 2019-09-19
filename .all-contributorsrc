@@ -611,6 +611,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "emdupre",
+      "name": "Elizabeth DuPre",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15017191?v=4",
+      "profile": "http://emdupre.me",
+      "contributions": [
+        "infra",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7
