@@ -44,6 +44,6 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 
 *replace this text with the content of barrier 8*
 
-## Barrier 9
+## Being reproducible does not mean the answer is right
 
-*replace this text with the content of barrier 9*
+By making the code and data used to produce a result openly available to others, our results may be reproduced but mistakes made by the initial author can be carried through. A critical approach is needed, not naively replicating existing work. Interperability and interoperability are required to properly evaulate the original research and to strengthen findings.
