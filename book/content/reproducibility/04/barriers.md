@@ -24,9 +24,9 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 
 *replace this text with the content of barrier 3*
 
-## Barrier 4
+## Barrier 4 : Is not considered for promotion
 
-*replace this text with the content of barrier 4*
+A primary consideration for promotion is proven ability to attract grants and students. Both funding bodies and prospective students value novelty, which is reflected in publishing papers with a high imapct factor. Novel papers tend to get into higher impact factor journals and tend to get cited more. Novelty is therefore prioritised over reproducing previous research and e.g. making code reproducible when promotion is considered.  
 
 ## Barrier 5
 
