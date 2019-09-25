@@ -40,9 +40,11 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 
 *replace this text with the content of barrier 7*
 
-## Barrier 8
+## Big data and complex computational infrastructure
 
-*replace this text with the content of barrier 8*
+Big data is conceptualised in different ways by different researchers. The traditional understanding of big data focuses on complexity, variety of data sources, volume and velocity of the data. It is extremely difficult to control to ensure consistency of data between the experiments. In some cases, when data is sampled from a larger collection of data consistency cannot be guaranteed.
+
+A large variety of tools and products with a constantly changing ecosystem of supported technologies is available, meaning reproducing results in the future is highly dependent on the available technology at the time. Some tools require in depth technical skills which are not widely available to data scientists. The Hadoop framework, for instance, is extremely complex to deploy data science experiments without strong software and hardware engineering knowledge. Combined with the need for high performance computing, the barrier to access big data processing is even greater. Very often the results of statistical tests will vary depending on the configuration of the infrastructure that was used in each of the experiments, therefore reproducibility is difficult to achieve (experiments are often dependent on random initialisation for iterative algorithms, fixing a pseudorandom number will result in limiting parallelisation capabilities, e.g. in Tensorflow).
 
 ## Barrier 9
 
