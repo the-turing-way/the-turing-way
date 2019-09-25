@@ -1,6 +1,6 @@
 # Barriers to reproducibility
 
-So far we have described the [importance](../importantforscience) of reproducible research and motivated why we think [you should care](../02/whycare).
+So far we have described the [importance](../01/importantforscience) of reproducible research and motivated why we think [you should care](../02/whycare).
 
 But there are many barriers to reproducible research.
 You can watch Kirstie Whitaker describe some of them in [her talk about The Turing Way](https://youtu.be/wZeoZaIV0VE?t=312) at [csv,conf,v4](https://csvconf.com/2019) in May 2019.
