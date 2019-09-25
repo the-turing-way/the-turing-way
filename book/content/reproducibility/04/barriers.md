@@ -14,7 +14,7 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 
 ## Plead the fifth 
 
-No-one wants to incriminate themselves, and no-one is infallible. Putting your code online can be very revealing and intimidating, and people are scared of being judged by others. However, releasing code can help other researchers provide feedback, learn and may help them in their research. Publishing your code encourages you to write your code to a high standard and can help generate new ideas. **Let him who is without bugs report the first error.**
+No-one wants to incriminate themselves, and no-one is infallible. Putting your code online can be very revealing and intimidating, and people are scared of being judged by others. However, releasing code can help other researchers provide feedback, learn and may help them in their research. Publishing your code encourages you to write your code to a high standard and can help generate new ideas. **Let the person who is without bugs report the first error.**
 
 ## Barrier 2
 
