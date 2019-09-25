@@ -12,9 +12,9 @@ The section describing the slide below starts around 5 minutes into the video.
 
 This chapter outlines some of those barriers, and a couple of suggestions to get around them.
 
-## Barrier 1
+## Plead the fifth 
 
-*replace this text with the content of barrier 1*
+No-one wants to incriminate themselves, and no-one is infallible. Putting your code online can be very revealing and intimidating, and people are scared of being judged by others. However, releasing code can help other researchers provide feedback, learn and may help them in their research. Publishing your code encourages you to write your code to a high standard and can help generate new ideas. **Let him who is without bugs report the first error.**
 
 ## Barrier 2
 
