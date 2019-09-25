@@ -20,7 +20,7 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 
 *replace this text with the content of barrier 2*
 
-## Barrier 3
+## Held to higher standards than others
 
 A researcher aiming to reproduce someone else's work is held to a higher standard, which may affect their motivation to do so. This is because they are encouraged to have greater attention to detail and put the effort into making the work more accessible and usable for others. This is time-consuming, and any mistakes spotted by others may affect their overall reputation. 
 
