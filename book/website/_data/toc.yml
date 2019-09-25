@@ -38,8 +38,10 @@
     url: reproducibility/02/whycare
   - title: Definitions
     url: reproducibility/03/definitions
+  - title: Barriers
+    url: reproducibility/04/barriers
   - title: Resources
-    url: reproducibility/04/resources
+    url: reproducibility/05/resources
 - title: Open Research
   url: open_research/open_research
   sections:
