@@ -34,7 +34,10 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 
 ## Barrier 6
 
-*replace this text with the content of barrier 6*
+Takes Time
+
+The time needed to maintain a reproducible project presents a significant barrier. At the start of the project considerable time needs to be invested in designing and setting up the reproducibility pipepine. This may include a testing framework , continuous integration, Github repository and data rights. Time may also be spent communicating with collaborators to agree which parts of the project may be open source and how they are shared, this may include creating synthetic data.Throughout the project, considerable time needs to be spent mainting the reprodicibility pipeline including refactoring, testing and resolving conflicts. At project conclusion time usually spent modifying analysis may be saved thanks to the reproducibility pipeline. However, time may be lost at review due to framework explanation and suggested adaptations.
+
 
 ## Barrier 7
 
