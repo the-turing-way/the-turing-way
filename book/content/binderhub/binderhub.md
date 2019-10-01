@@ -40,7 +40,7 @@ This chapter also covers reasons why you might build your own BinderHub, rather 
 
 ## What is BinderHub and why is it good for Reproducibility?
 
-[BinderHub](https://binderhub.readthedocs.io/en/latest/index.html) is a cloud-based technology that can launch a repository of code (from GitHub, GitLab,...) in a browser window such that the code can be executed and interacted with.
+[BinderHub](https://binderhub.readthedocs.io/en/latest/index.html) is a cloud-based technology that can launch a repository of code (from GitHub, GitLab, and others) in a browser window such that the code can be executed and interacted with.
 A unique URL is generated allowing the interactive code to be easily shared.
 
 The purpose of these Binder instances is to promote reproducibility in research projects by encouraging researchers to document their software dependencies and produce fun, interactive environments!
@@ -78,7 +78,7 @@ BinderHub uses Kubernetes to manage the resources requested by the users of the 
 [Helm](https://helm.sh/) is a package manager for Kubernetes.
 Packages come in the form of *Charts* which are a set of instructions to deploy, upgrade and manage applications running on a Kubernetes cluster.
 They can make installing and managing Kubernetes applications much easier and specific Charts for projects can be published online.
-For example, the Helm Chart for BinderHub are available [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub).
+For example, the Helm Chart for BinderHub is available [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub).
 
 ### JupyterHub
 
@@ -89,7 +89,7 @@ However, the JupyterHub can be further customised to provide greater control ove
 ### repo2docker
 
 [repo2docker](https://repo2docker.readthedocs.io/en/latest/?badge=latest) is a tool that automatically builds a Docker image from a code repository given a configuration file.
-This Docker container will contain all of the code, data and resources that are listed in the repository.
+This Docker image will contain all of the code, data and resources that are listed in the repository.
 All the software required to run the code will also be preinstalled from the configuration file.
 
 BinderHub can be thought of as thin layer that sits on top of repo2docker and JupyterHub, orchestrating their interactions and resolving URLs.
@@ -104,7 +104,7 @@ BinderHub can be thought of as thin layer that sits on top of repo2docker and Ju
    - Push that image to the Docker registry.
 4. BinderHub sends the Docker image to JupyterHub.
 5. JupyterHub requests resources from the Kubernetes cluster to serve the Docker image.
-6. JupyterHub connects the user's browser to the running Docker container.
+6. JupyterHub connects the user's browser to the running Docker environment.
 7. JupyterHub monitors the container for activity and destroys it after a period of inactivity.
 
 ## Why would you build your own BinderHub?
@@ -145,14 +145,14 @@ At minimum, you'll need to be able to assign [Role Based Access Control (RBAC)](
 
 | | |
 |:---|:---|
-| Docker image or container | A set of instructions to create a computational environment.|
+| Docker image | A machine-readable set of instructions to create a soecified computational environment.|
 | Docker registry | A storage and distribution system for named Docker images. The registry allows Docker users to pull images locally, as well as push new images to the registry (given adequate access permissions when applicable). Such systems are often hosted in the cloud for ease of access. |
 | BinderHub | Technology for hosting reproducible computational environments. |
 | Binder | The user-facing service of a BinderHub. |
 | Kubernetes | Autonomous computational cluster manager. |
 | Helm | A package manager for Kubernetes applications. |
 | JupyterHub | A multi-user server for Jupyter Notebook instances. |
-| repo2docker | A tool to build Docker containers from code repositories. |
+| repo2docker | A tool to build Docker images from code repositories. |
 
 ## Bibliography
 
