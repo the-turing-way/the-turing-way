@@ -99,9 +99,9 @@ BinderHub can be thought of as thin layer that sits on top of repo2docker and Ju
 1. The link to the repository is resolved by BinderHub.
 2. BinderHub searches for a Docker image relating to the provided reference (for example, git commit hash, branch or tag).
 3. **If a Docker image is not found**, BinderHub requests resources from the Kubernetes cluster to run repo2docker to do the following:
-   * Fetch the repository,
-   * Build a Docker image containing the software requested in the configuration file,
-   * Push that image to the Docker registry.
+   - Fetch the repository,
+   - Build a Docker image containing the software requested in the configuration file,
+   - Push that image to the Docker registry.
 4. BinderHub sends the Docker image to JupyterHub.
 5. JupyterHub requests resources from the Kubernetes cluster to serve the Docker image.
 6. JupyterHub connects the user's browser to the running Docker container.
@@ -117,12 +117,12 @@ By hosting your own BinderHub, you can offer your users much more flexible and t
 
 These customisations could include:
 
-* authentication,
-* greater computational resources per user,
-* bespoke library stacks and packages,
-* allowing access to private repos,
-* persistent storage for users,
-* restrict sharing within a certain institution or team.
+- authentication,
+- greater computational resources per user,
+- bespoke library stacks and packages,
+- allowing access to private repos,
+- persistent storage for users,
+- restrict sharing within a certain institution or team.
 
 ### Issues you may face when deploying a BinderHub
 
@@ -135,11 +135,11 @@ At minimum, you'll need to be able to assign [Role Based Access Control (RBAC)](
 
 ## Further reading
 
-* [Binder documentation](https://mybinder.readthedocs.io/en/latest/)
-* [BinderHub documentation](https://binderhub.readthedocs.io/en/latest/index.html)
-* [Zero-to-JupyterHub with Kubernetes documentation](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html)
-* [JupyterHub documentation](https://jupyterhub.readthedocs.io/en/stable/)
-* [_The Turing Way_ Build a BinderHub Workshop](http://bit.ly/zero-to-binderhub-workshop)
+- [Binder documentation](https://mybinder.readthedocs.io/en/latest/)
+- [BinderHub documentation](https://binderhub.readthedocs.io/en/latest/index.html)
+- [Zero-to-JupyterHub with Kubernetes documentation](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html)
+- [JupyterHub documentation](https://jupyterhub.readthedocs.io/en/stable/)
+- [_The Turing Way_ Build a BinderHub Workshop](http://bit.ly/zero-to-binderhub-workshop)
 
 ## Definitions/glossary
 
@@ -156,7 +156,7 @@ At minimum, you'll need to be able to assign [Role Based Access Control (RBAC)](
 
 ## Bibliography
 
-* **Kubernetes documentation**: [https://kubernetes.io/](https://kubernetes.io/)
-* **Helm documentation**: [https://helm.sh/](https://helm.sh/)
-* **repo2docker**: [https://repo2docker.readthedocs.io/en/latest/?badge=latest](https://repo2docker.readthedocs.io/en/latest/?badge=latest)
-* **Microsoft Azure documentation on Role Based Access Control**: [https://docs.microsoft.com/en-us/azure/role-based-access-control/overview](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)
+- **Kubernetes documentation**: [https://kubernetes.io/](https://kubernetes.io/)
+- **Helm documentation**: [https://helm.sh/](https://helm.sh/)
+- **repo2docker**: [https://repo2docker.readthedocs.io/en/latest/?badge=latest](https://repo2docker.readthedocs.io/en/latest/?badge=latest)
+- **Microsoft Azure documentation on Role Based Access Control**: [https://docs.microsoft.com/en-us/azure/role-based-access-control/overview](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)
