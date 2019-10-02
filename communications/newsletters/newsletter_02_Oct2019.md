@@ -6,9 +6,9 @@ This month we have been drinking virtual coffees at Calleboration Cafes and disc
 
 We already ran 4 Online Collaboration Cafes and partnered with the Mozilla Open Leader X project called Open Life Science.
 
-Thanks to Sarah Gibson and Rachael Ainsworth who gave talks and ran a workshop on The Turing Way Project.
+Shout out to Sarah Gibson and Rachael Ainsworth who gave talks and ran a workshop on The Turing Way Project. Thanks to Paula Andrea Martinez and Philip Durbin for engaging with the project from Australia and USA. 
 
-Thanks to Paula Andrea Martinez and Philip Durbin for engaging with the project from Australia and USA.
+We are excited to meet many of you at MozFest in London, and have been thinking of ways to involve people in different time zones.
 
 Find more details on these news below and expect to hear more from us after Halloween!
 
