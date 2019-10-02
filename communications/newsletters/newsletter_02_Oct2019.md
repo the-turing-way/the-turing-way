@@ -1,4 +1,16 @@
-The Turing Way Newsletter: 02 October 2019
+# The Turing Way Newsletter: 04 October 2019
+
+Hello Turing Way friends!
+
+This month we have been drinking virtual coffee on Calleboration Cafes and learning about the ways for you to contribute to The Turing Way project through its GitHub repository.
+
+We ran 4 Online Collaboration Cafes, engaged with new members outside Europe, and partnered with the Mozilla Open Leader X project called Open Life Science.
+
+Thanks to Sarah Gibson and Rachael Ainsworth who gave talks and ran a workshop on The Turing Way Project.
+
+Thanks to Paula Andrea Martinez and Philip Durbin for engaging with the project from Australia and USA.
+
+Find more details on these news below!
 
 ## Project update
 
