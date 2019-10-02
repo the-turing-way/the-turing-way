@@ -63,6 +63,8 @@ If you use GitHub, GitLab or similar, consider creating a `CITATION` file in eac
 
 ### Make your research identifiable
 
+As part of the citation for your software and data it is important to give people a persistent link to it, this will usually be a DOI. DOIs (or more formally Digital Object Identifiers) are unique, persistent identifiers which are attached to a digital object such as a journal article, dataset or piece of software. Using DOIs makes it much easier for others to cite your data, reduces the risk of linkrot and means you can track how your research is being used and cited.
+
 ### Add machine-readable referencing information
 
 You can go one better by allowing people to import information about your research objects into their preferred referencing database. If BibTeX is popular in your field, post a `.bib` file of *all* your outputs, not just your papers; if it's Endnote, make an Endnote export available. If possible, provide several formats: you won't need to update these very often and it will pay off 
@@ -129,6 +131,8 @@ It's perfectly possible to cite a dataset or software package directly, and most
 - [FAIR data principles](https://www.force11.org/group/fairgroup/fairprinciples)
 - [FORCE11 Software Citation principles](https://www.force11.org/software-citation-principles)
 
-<!-- ## Definitions/glossary -->
+## Definitions/glossary
+
+Digital Object Identifiers (DOIs) - an alpha-numeric string which acts as a unique, persistent identifier for a digital object (journal article, data, software etc). 
 
 <!-- ## Bibliography -->
