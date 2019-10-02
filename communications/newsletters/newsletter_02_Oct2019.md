@@ -2,15 +2,17 @@
 
 Hello Turing Way friends!
 
-This month we have been drinking virtual coffees at Calleboration Cafes and discussing with you how you can contribute to The Turing Way project.
+This month we have been drinking virtual coffees at Calleboration Cafes :coffee: and discussing with you how you can contribute to The Turing Way project.
 
-We already ran 4 Online Collaboration Cafes and partnered with the Mozilla Open Leader X project called Open Life Science.
+We ran **4 Online Collaboration Cafes** ([videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)) and partnered with the Mozilla Open Leader X - [Open Life Science mentoring program](https://openlifesci.org).
 
 Shout out to Sarah Gibson and Rachael Ainsworth who gave talks and ran a workshop on The Turing Way Project. Thanks to Paula Andrea Martinez and Philip Durbin for engaging with the project from Australia and USA. 
 
-We are excited to meet many of you at MozFest in London, and have been thinking of ways to involve people in different time zones.
+We are excited to meet many of you at [MozFest](https://www.mozillafestival.org/en/) in London, and have been thinking of ways to involve people in different time zones.
 
-Find more details on these news below and expect to hear more from us after Halloween!
+Find more details on these topics below. :point_down:
+
+See you after Halloween! :jack_o_lantern: :maple_leaf:
 
 ## Community meetings
 
