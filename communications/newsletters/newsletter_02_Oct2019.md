@@ -2,19 +2,15 @@
 
 Hello Turing Way friends!
 
-This month we have been drinking virtual coffee on Calleboration Cafes and learning about the ways for you to contribute to The Turing Way project through its GitHub repository.
+This month we have been drinking virtual coffees at Calleboration Cafes and discussing with you how you can contribute to The Turing Way project.
 
-We ran 4 Online Collaboration Cafes, engaged with new members outside Europe, and partnered with the Mozilla Open Leader X project called Open Life Science.
+We already ran 4 Online Collaboration Cafes and partnered with the Mozilla Open Leader X project called Open Life Science.
 
 Thanks to Sarah Gibson and Rachael Ainsworth who gave talks and ran a workshop on The Turing Way Project.
 
 Thanks to Paula Andrea Martinez and Philip Durbin for engaging with the project from Australia and USA.
 
-Find more details on these news below!
-
-## Project update
-
-Any Update?
+Find more details on these news below and expect to hear more from us after Halloween!
 
 ## Community meetings
 
