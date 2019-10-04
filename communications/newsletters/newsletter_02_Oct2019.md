@@ -19,7 +19,9 @@ See you after Halloween! :jack_o_lantern: :maple_leaf:
 
 ### Next Collaboration Cafes
 
-This month’s collaboration cafes will take place on 2 October at 15:00 BST ([your local time](https://arewemeetingyet.com/London/2019-10-02/15:00/TuringWay-CollaborationCafe)), 16 October at 19:00 BST ([your local time](https://arewemeetingyet.com/London/2019-10-16/19:00/TuringWay-CollaborationCafe)), and 30 October at 08:00 BST ([your local time](https://arewemeetingyet.com/London/2019-10-30/08:00/TuringWay-CollaborationCafe)). We would love to have you on these calls to continue working together on different GitHub issues or help you get started if you are new to the project. You can indicate your participation by signing up on this HackMD: [https://hackmd.io/@KirstieJane/CollabCafe](https://hackmd.io/@KirstieJane/CollabCafe). 
+This month’s collaboration cafes are scheduled on 2 October at 15:00 BST ([your local time](https://arewemeetingyet.com/London/2019-10-02/15:00/TuringWay-CollaborationCafe)), 16 October at 19:00 BST ([your local time](https://arewemeetingyet.com/London/2019-10-16/19:00/TuringWay-CollaborationCafe)), and 30 October at 08:00 GMT ([your local time](https://arewemeetingyet.com/London/2019-10-30/08:00/TuringWay-CollaborationCafe)).
+We would love to have you on these calls to continue working together on different GitHub issues or help you get started if you are new to the project.
+You can indicate your participation by signing up on this HackMD: [https://hackmd.io/@KirstieJane/CollabCafe](https://hackmd.io/@KirstieJane/CollabCafe), or come and say hello in our Gitter channel: [https://gitter.im/alan-turing-institute/the-turing-way](https://gitter.im/alan-turing-institute/the-turing-way).
 
 ### MozFest 2019
 
