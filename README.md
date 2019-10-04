@@ -1,5 +1,5 @@
 # The Turing Way
-[![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://badges.gitter.im/alan-turing-institute/the-turing-way.svg?style=flat-square)](https://gitter.im/alan-turing-institute/the-turing-way) [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg?style=flat-square)](https://tinyletter.com/TuringWay) [![All Contributors](https://img.shields.io/badge/all_contributors-61-orange.svg?style=flat-square)](#contributors) [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg?style=flat-square)](https://the-turing-way.netlify.com)
+[![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://badges.gitter.im/alan-turing-institute/the-turing-way.svg?style=flat-square)](https://gitter.im/alan-turing-institute/the-turing-way) [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg?style=flat-square)](https://tinyletter.com/TuringWay) [![All Contributors](https://img.shields.io/badge/all_contributors-62-orange.svg?style=flat-square)](#contributors) [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg?style=flat-square)](https://the-turing-way.netlify.com)
 
 The Turing Way is a lightly opinionated guide to reproducible data science.
 
@@ -134,6 +134,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
     <td align="center"><a href="http://csd.utexas.edu/research/hamilton-lab"><img src="https://avatars2.githubusercontent.com/u/3268583?v=4" width="100px;" alt="Liberty Hamilton"/><br /><sub><b>Liberty Hamilton</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Alibertyh" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://rohitmidha23.github.io"><img src="https://avatars1.githubusercontent.com/u/38888530?v=4" width="100px;" alt="RohitMidha23"/><br /><sub><b>RohitMidha23</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=RohitMidha23" title="Documentation">📖</a></td>
     <td align="center"><a href="http://emdupre.me"><img src="https://avatars3.githubusercontent.com/u/15017191?v=4" width="100px;" alt="Elizabeth DuPre"/><br /><sub><b>Elizabeth DuPre</b></sub></a><br /><a href="#infra-emdupre" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#question-emdupre" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://github.com/orchid00"><img src="https://avatars3.githubusercontent.com/u/9795785?v=4" width="100px;" alt="Paula Andrea Martinez"/><br /><sub><b>Paula Andrea Martinez</b></sub></a><br /><a href="#ideas-orchid00" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
