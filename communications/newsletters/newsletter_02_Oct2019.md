@@ -81,7 +81,7 @@ Her demo session was also featured by The ORION Open Science Podcast in the epis
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
 - Twitter Hashtag [#TuringWay](https://twitter.com/hashtag/TuringWay?f=live)
 
-You are welcome to contribute contents for the next newsletter by by
-emailing the project coordinator [Kirstie Whitaker](mailto:kwhitaker@turing.ac.uk).
+You are welcome to contribute contents for the next newsletter by
+emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
 
 *Did you miss the last Newsletters? Check them [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_06_Sept2019.md)*.
