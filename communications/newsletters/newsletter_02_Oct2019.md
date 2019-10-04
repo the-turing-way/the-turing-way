@@ -39,7 +39,11 @@ Ever since their launch in September 2019, three online Collaboration Cafes have
 
 Thanks to all our attendees for coming along and joining us to learn more about these calls, tips on community management, GitHub tricks and the project itself. You can watch the recording from these calls on our [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
 
-Read all about this online call series on [this page](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md). We are still developing the format (see the [template](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/collaboration-cafe/collaboration-cafe-template.md)) and will be happy to get your feedback to make these sessions useful for you.
+Read all about this online call series on [this page](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md).
+We are still developing the format (see the [template](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/collaboration-cafe/collaboration-cafe-template.md)) and will be happy to get your feedback to make these sessions useful for you.
+(For example, we've already added an "Australia-friendly" cafe on 30 October because Paula [got in touch](https://github.com/alan-turing-institute/the-turing-way/issues/684) 💖)
+There's an issue open to collected your ideas ([#711](https://github.com/alan-turing-institute/the-turing-way/issues/711)).
+Thank you in advance!
 
 #### Online calls for different time zones
 
