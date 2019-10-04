@@ -18,7 +18,6 @@ Find more details on these topics below. :point_down:
 See you after Halloween! :jack_o_lantern: :maple_leaf:
 
 ![](https://www.turing.ac.uk/sites/default/files/inline-images/Culture%20shift.jpg)
-
 *The Turing Way illustration published in the imapct story, art by Scriberia, CC-BY licence.*
 
 ## Community meetings
@@ -38,10 +37,9 @@ If you are in town and also attending this conference, get in touch through our 
 ## News from the community
 
 ![](https://www.turing.ac.uk/sites/default/files/inline-images/Reproducibility.jpg)
-
 *The Turing Way illustration published in the imapct story, art by Scriberia, CC-BY licence.*
 
-### _The Turing Way_ is featured among The Turing Impact Stories
+### _The Turing Way_ Impact Story
 
 _The Turing Way_ project was highlight among [The Turing Impact Stories](https://www.turing.ac.uk/research/impact-stories) this month. Under the title [Transforming the culture of data science](https://www.turing.ac.uk/research/impact-stories/transforming-culture-data-science), [Sean O'Neill](https://www.turing.ac.uk/people/business-team/sean-oneill) highlighted its role in representing the institute’s commitment to changing data science for the better. Several community members including the project lead [Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker) shared their journey and impact related to this project. You can read the main points in this 1-page short [PDF summary](https://www.turing.ac.uk/sites/default/files/2019-10/impact_story_-_transforming_the_culture_of_data_science.pdf).
 
