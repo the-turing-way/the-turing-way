@@ -35,7 +35,9 @@ If you are in town and also attending this conference, get in touch through our 
 
 ### Collaboration Cafes online call series
 
-Ever since it's launch in September 2019, already 3 online Collaboration Cafes have taken place on 4th, 18th and 19th September 2019. Thanks to all our attendees for coming along and joining the calls to learn more about these calls, tips on community management, GitHub tricks and the project itself. You can watch the recording from these calls on our [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
+Ever since their launch in September 2019, 3 online Collaboration Cafes have already taken place on 4th, 18th and 19th September 2019.
+Thanks to all our attendees for coming along and joining us to learn more about these calls, tips on community management, GitHub tricks and the project itself.
+You can watch the recording from these calls on our [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
 
 Read all about this online call series on [this page](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md). We are still developing the format (see the [template](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/collaboration-cafe/collaboration-cafe-template.md)) and will be happy to get your feedback to make these sessions useful for you.
 
