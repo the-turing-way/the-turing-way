@@ -27,7 +27,9 @@ You can indicate your participation by signing up on this HackMD: [https://hackm
 
 ### MozFest 2019
 
-Several community members of The Turing Way will be attending [Mozilla Festival 2019](https://www.mozillafestival.org/en/) in London from 21 to 27 October. If you are in town and also attending this conference, get in touch through our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) or other communication channels listed below this newsletter. We look forward to seeing you there in person.
+Several community members of _The Turing Way_ will be attending [Mozilla Festival 2019](https://www.mozillafestival.org) in London from 21 to 27 October.
+If you are in town and also attending this conference, get in touch through our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) or other communication channels listed below this newsletter.
+We look forward to seeing you there in person.
 
 ## News from the community
 
