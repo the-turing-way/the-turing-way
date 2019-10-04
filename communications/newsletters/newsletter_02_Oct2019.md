@@ -4,6 +4,8 @@ Hello Turing Way friends!
 
 This month we have been drinking virtual coffees at Calleboration Cafes :coffee: and discussing with you how you can contribute to The Turing Way project.
 
+Read this amazing [impact story of _The Turing Way_](https://www.turing.ac.uk/research/impact-stories/transforming-culture-data-science) authored by [Sean O'Neill](https://www.turing.ac.uk/people/business-team/sean-oneill) under the title **Transforming the culture of data science**.
+
 We ran **4 Online Collaboration Cafes** ([videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA), [more info](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md)) and partnered with the Mozilla Open Leader X [Open Life Science mentoring program](https://openlifesci.org).
 
 Shout out to Sarah Gibson and Rachael Ainsworth who gave talks and ran a workshop on _The Turing Way_ Project.
@@ -15,15 +17,17 @@ Find more details on these topics below. :point_down:
 
 See you after Halloween! :jack_o_lantern: :maple_leaf:
 
+![](https://www.turing.ac.uk/sites/default/files/inline-images/Culture%20shift.jpg)
+
+*The Turing Way illustration published in the imapct story, art by Scriberia, CC-BY licence.*
+
 ## Community meetings
 
 ### Next Collaboration Cafes
 
 This month’s collaboration cafes are scheduled on 2 October at 15:00 BST ([your local time](https://arewemeetingyet.com/London/2019-10-02/15:00/TuringWay-CollaborationCafe)), 16 October at 19:00 BST ([your local time](https://arewemeetingyet.com/London/2019-10-16/19:00/TuringWay-CollaborationCafe)), and 30 October at 08:00 GMT ([your local time](https://arewemeetingyet.com/London/2019-10-30/08:00/TuringWay-CollaborationCafe)).
 
-We would love to have you on these calls to continue working together on different GitHub issues or help you get started if you are new to the project.
-
-You can indicate your participation by signing up on this HackMD: [https://hackmd.io/@KirstieJane/CollabCafe](https://hackmd.io/@KirstieJane/CollabCafe), or come and say hello in our Gitter channel: [https://gitter.im/alan-turing-institute/the-turing-way](https://gitter.im/alan-turing-institute/the-turing-way).
+You can indicate your participation by signing up on this HackMD: [https://hackmd.io/@KirstieJane/CollabCafe](https://hackmd.io/@KirstieJane/CollabCafe), or come and say hello in our Gitter channel: [https://gitter.im/alan-turing-institute/the-turing-way](https://gitter.im/alan-turing-institute/the-turing-way). We would love to have you on these calls to continue working together on different GitHub issues or help you get started if you are new to the project.
 
 ### MozFest 2019
 
@@ -33,19 +37,25 @@ If you are in town and also attending this conference, get in touch through our 
 
 ## News from the community
 
-### Collaboration Cafes online call series
+![](https://www.turing.ac.uk/sites/default/files/inline-images/Reproducibility.jpg)
+
+*The Turing Way illustration published in the imapct story, art by Scriberia, CC-BY licence.*
+
+### _The Turing Way_ is featured among The Turing Impact Stories
+
+_The Turing Way_ project was highlight among [The Turing Impact Stories](https://www.turing.ac.uk/research/impact-stories) this month. Under the title [Transforming the culture of data science](https://www.turing.ac.uk/research/impact-stories/transforming-culture-data-science), [Sean O'Neill](https://www.turing.ac.uk/people/business-team/sean-oneill) highlighted its role in representing the institute’s commitment to changing data science for the better. Several community members including the project lead [Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker) shared their journey and impact related to this project. You can read the main points in this 1-page short [PDF summary](https://www.turing.ac.uk/sites/default/files/2019-10/impact_story_-_transforming_the_culture_of_data_science.pdf).
+
+> "The moonshot goal of the project is to make reproducible research too easy not to do."
+
+### Update on the last Collaboration Cafes: an online call series
 
 Ever since their launch in September 2019, total 4 online Collaboration Cafes have already taken place. :tada:
 
-Thanks to all our attendees for coming along and joining us to learn more about these calls, tips on community management, GitHub tricks and the project itself. You can watch the recording from these calls on our [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
+Thanks to all our attendees for coming along and joining us to learn more about these calls, tips on community management, GitHub tricks and the project itself. Read all about this online call series on [this page](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md) and watch the recording from previous calls on our [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA). 
 
-Read all about this online call series on [this page](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md). We are still developing the format (see the [template](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/collaboration-cafe/collaboration-cafe-template.md)) and will be happy to get your feedback to make these sessions useful for you.
+Get in touch with us, if you would like to join a call in the future and if our [current schedule](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md#attending-an-online-collaboration-cafe) is not compatible with your time zone. Thanks to [Paula Andrea Martinez](https://github.com/orchid00), National Characterisation Training Coordinator at the Australian National Imaging Facility, we've already added an "Australia-friendly" slot on 30 October. :sparkling_heart:
 
-Thanks to [Paula Andrea Martinez](https://github.com/orchid00), National Characterisation Training Coordinator at the Australian National Imaging Facility, we've already added an "Australia-friendly" cafe on 30 October. :sparkling_heart:
-
-If you live in a country that is not compatible with our [current schedule](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md#attending-an-online-collaboration-cafe) and if you would like to join a call in the future, please add your comment in [this GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues/711).
-
-There's an issue open to collected your ideas ([#711](https://github.com/alan-turing-institute/the-turing-way/issues/711)).
+We are still developing the format (see the [template](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/collaboration-cafe/collaboration-cafe-template.md)) and will be happy to get your feedback to make these sessions useful for you. There's a GitHub issue [#711](https://github.com/alan-turing-institute/the-turing-way/issues/711) open for your comments and ideas.
 Thank you in advance!
 
 ## Relevant resources
@@ -64,13 +74,15 @@ See [this page](https://github.com/alan-turing-institute/the-turing-way) to find
 
 Shout out to two of our members [Sarah Gibson](https://twitter.com/drsarahlgibson) and [Rachael Ainsworth](https://twitter.com/rachaelevelyn), who represented The Turing Way project at two separate conferences in September.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/drsarahlgibson?ref_src=twsrc%5Etfw">@drsarahlgibson</a> running through a brilliant intro at the Build <a href="https://twitter.com/mybinderteam?ref_src=twsrc%5Etfw">@mybinderteam</a> Hub workshop at <a href="https://twitter.com/hashtag/ukrse19?src=hash&amp;ref_src=twsrc%5Etfw">#ukrse19</a>.<br><br>Learned loads at the first one she ran through <a href="https://twitter.com/hashtag/turingway?src=hash&amp;ref_src=twsrc%5Etfw">#turingway</a> and it&#39;s even more informative this time round! 🤩 <a href="https://t.co/hcCfuIaxZ1">pic.twitter.com/hcCfuIaxZ1</a></p>&mdash; annakrystalli (@annakrystalli) <a href="https://twitter.com/annakrystalli/status/1174603229679763457?ref_src=twsrc%5Etfw">September 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Sarah, Research Data Scientist at The Alan Turing Institute, delivered a successful workshop on building a [BinderHub](https://binderhub.readthedocs.io/en/latest/) and _The Turing Way_ at the [RSEconUK 2019](https://rse.ac.uk/conf2019/).
 She shared her training materials in the [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/build-a-binderhub/workshop-presentations/zero-to-binderhub.md) and online via Zenodo (DOI: [10.5281/zenodo.3382208](https://doi.org/10.5281/zenodo.3382208)).
 
 Rachael, Community Manager of Software Sustainability Institute, attended the Open Science Fair 2019 in Porto, Portugal, last month, where she presented a poster (DOI: [10.5281/zenodo.3381445](https://doi.org/10.5281/zenodo.3381445)) and a [demo session](https://www.opensciencefair.eu/demos-2019/the-turing-way-a-handbook-for-reproducible-data-science) (DOI: [10.5281/zenodo.3403160](https://doi.org/10.5281/zenodo.3403160)) on _The Turing Way_ project.
 Her demo session was also featured by The ORION Open Science Podcast in the episode [The FAIR is in Town: figshare, The Turing Way, and Open Science Quest at the OSFAIR2019](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/)! :tada: 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi <a href="https://twitter.com/hashtag/OSFair2019?src=hash&amp;ref_src=twsrc%5Etfw">#OSFair2019</a>! 👋 I’ve got a poster presenting the <a href="https://twitter.com/hashtag/TuringWay?src=hash&amp;ref_src=twsrc%5Etfw">#TuringWay</a>: an open &amp; collaborative project to develop a handbook for reproducible data science. Feel free to come chat to me about this project (or anything <a href="https://twitter.com/hashtag/OpenScience?src=hash&amp;ref_src=twsrc%5Etfw">#OpenScience</a> related!) at poster stand #80. <a href="https://t.co/tMAXVn2mKq">pic.twitter.com/tMAXVn2mKq</a></p>&mdash; Dr. Rachael Ainsworth (@rachaelevelyn) <a href="https://twitter.com/rachaelevelyn/status/1173625329686110208?ref_src=twsrc%5Etfw">September 16, 2019</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi <a href="https://twitter.com/hashtag/OSFair2019?src=hash&amp;ref_src=twsrc%5Etfw">#OSFair2019</a>! 👋 I’ve got a poster presenting the <a href="https://twitter.com/hashtag/TuringWay?src=hash&amp;ref_src=twsrc%5Etfw">#TuringWay</a>: an open &amp; collaborative project to develop a handbook for reproducible data science. Feel free to come chat to me about this project (or anything <a href="https://twitter.com/hashtag/OpenScience?src=hash&amp;ref_src=twsrc%5Etfw">#OpenScience</a> related!) at poster stand #80. <a href="https://t.co/tMAXVn2mKq">pic.twitter.com/tMAXVn2mKq</a></p>&mdash; Dr. Rachael Ainsworth (@rachaelevelyn) <a href="https://twitter.com/rachaelevelyn/status/1173625329686110208?ref_src=twsrc%5Etfw">September 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## Connect with us!
 
