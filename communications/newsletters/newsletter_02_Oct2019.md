@@ -28,14 +28,15 @@ You can indicate your participation by signing up on this HackMD: [https://hackm
 ### MozFest 2019
 
 Several community members of _The Turing Way_ will be attending [Mozilla Festival 2019](https://www.mozillafestival.org) in London from 21 to 27 October.
-If you are in town and also attending this conference, get in touch through our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) or other communication channels listed below this newsletter.
-We look forward to seeing you there in person.
+
+If you are in town and also attending this conference, get in touch through our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) or other communication channels listed below this newsletter. We look forward to seeing you there in person.
 
 ## News from the community
 
 ### Collaboration Cafes online call series
 
 Ever since it's launch in September 2019, already 3 online Collaboration Cafes have taken place on 4th, 18th and 19th September 2019. Thanks to all our attendees for coming along and joining the calls to learn more about these calls, tips on community management, GitHub tricks and the project itself. You can watch the recording from these calls on our [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
+
 Read all about this online call series on [this page](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md). We are still developing the format (see the [template](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/collaboration-cafe/collaboration-cafe-template.md)) and will be happy to get your feedback to make these sessions useful for you.
 
 #### Online calls for different time zones
