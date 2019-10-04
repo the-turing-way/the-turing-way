@@ -78,7 +78,7 @@ Her demo session was also featured by The ORION Open Science Podcast in the epis
 ## Connect with us!
 
 - [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-- [The Turing Way Book](https://the-turing-way.netlify.com)
+- [_The Turing Way_ book](https://the-turing-way.netlify.com)
 - [GitHub](https://github.com/alan-turing-institute/the-turing-way)
 - [Gitter](https://gitter.im/alan-turing-institute/the-turing-way)
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
