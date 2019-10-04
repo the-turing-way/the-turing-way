@@ -35,21 +35,18 @@ If you are in town and also attending this conference, get in touch through our 
 
 ### Collaboration Cafes online call series
 
-Ever since their launch in September 2019, three online Collaboration Cafes have already taken place in September 2019, and one call this month on 2 October 2019.
+Ever since their launch in September 2019, total 4 online Collaboration Cafes have already taken place. :tada:
 
 Thanks to all our attendees for coming along and joining us to learn more about these calls, tips on community management, GitHub tricks and the project itself. You can watch the recording from these calls on our [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
 
-Read all about this online call series on [this page](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md).
-We are still developing the format (see the [template](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/collaboration-cafe/collaboration-cafe-template.md)) and will be happy to get your feedback to make these sessions useful for you.
-(For example, we've already added an "Australia-friendly" cafe on 30 October because Paula [got in touch](https://github.com/alan-turing-institute/the-turing-way/issues/684) 💖)
-There's an issue open to collected your ideas ([#711](https://github.com/alan-turing-institute/the-turing-way/issues/711)).
-Thank you in advance!
+Read all about this online call series on [this page](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md). We are still developing the format (see the [template](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/collaboration-cafe/collaboration-cafe-template.md)) and will be happy to get your feedback to make these sessions useful for you.
 
-#### Online calls for different time zones
-
-How can we involve more participants who might not be available to join us in UTC/BST? We started to discuss this topic when Paula Andrea Martinez ([orchid00](https://github.com/orchid00)), National Characterisation Training Coordinator at the Australian National Imaging Facility, expressed her interest in attending The Turing Way Collaboration Cafe in Australian time zone [ACT](https://www.google.com/search?q=asutralian+time+zone&oq=asutralian+time+zone&aqs=chrome..69i57j0l5.3623j0j4&sourceid=chrome&ie=UTF-8). To make this happen, we have added a new call on 30 October at 8:00 BST/18:00 ACT ([your local time](https://arewemeetingyet.com/London/2019-10-30/08:00/TuringWay-CollaborationCafe)).
+Thanks to [Paula Andrea Martinez](https://github.com/orchid00), National Characterisation Training Coordinator at the Australian National Imaging Facility, we've already added an "Australia-friendly" cafe on 30 October. :sparkling_heart:
 
 If you live in a country that is not compatible with our [current schedule](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md#attending-an-online-collaboration-cafe) and if you would like to join a call in the future, please add your comment in [this GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues/711).
+
+There's an issue open to collected your ideas ([#711](https://github.com/alan-turing-institute/the-turing-way/issues/711)).
+Thank you in advance!
 
 ## Relevant resources
 
