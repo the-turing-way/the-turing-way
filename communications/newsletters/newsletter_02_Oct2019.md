@@ -67,7 +67,7 @@ The Turing Way is delighted to collaborate with the [Open Life Science Program](
 
 Are you new to this project and want to participate in the community? You can start by reading the [contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md), where you can get an overview of the project and the different communication channels you can use to participate.
 
-See [this page](https://github.com/alan-turing-institute/the-turing-way) to find out who is in the community and check out this list of ['good first pull' issues](https://github.com/alan-turing-institute/the-turing-way/labels/good%20first%20issue) to get to know this project well.
+See [this page](https://github.com/alan-turing-institute/the-turing-way) to find out who is in the community and check out this list of [good first issues](https://github.com/alan-turing-institute/the-turing-way/labels/good%20first%20issue) to get to know this project well.
 
 ## Acknowledgements and celebrations!
 
