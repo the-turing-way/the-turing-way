@@ -67,7 +67,8 @@ See [this page](https://github.com/alan-turing-institute/the-turing-way) to find
 
 Shout out to two of our members [Sarah Gibson](https://twitter.com/drsarahlgibson) and [Rachael Ainsworth](https://twitter.com/rachaelevelyn), who represented The Turing Way project at two separate conferences in September.
 
-Sarah, Research Data Scientist at The Alan Turing Institute, delivered a successful workshop on building a [BinderHub](https://binderhub.readthedocs.io/en/latest/) and The Turing Way at the [RSEconUK 2019](https://rse.ac.uk/conf2019/). She shared her training materials [online on Zenodo](https://zenodo.org/record/3404774#.XZN7h5MzbpB), under the DOI: 10.5281/zenodo.3404774.
+Sarah, Research Data Scientist at The Alan Turing Institute, delivered a successful workshop on building a [BinderHub](https://binderhub.readthedocs.io/en/latest/) and _The Turing Way_ at the [RSEconUK 2019](https://rse.ac.uk/conf2019/).
+She shared her training materials in the [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/build-a-binderhub/workshop-presentations/zero-to-binderhub.md) and online via Zenodo (DOI: [10.5281/zenodo.3382208](https://doi.org/10.5281/zenodo.3382208)).
 
 Rachael, Community Manager of Software Sustainability Institute, attended the Open Science Fair 2019 in Porto, Portugal, last month, where she presented a poster and a [demo session](https://www.opensciencefair.eu/demos-2019/the-turing-way-a-handbook-for-reproducible-data-science) on The Turing Way project. See her [tweet-thread](https://twitter.com/rachaelevelyn/status/1173542269355532289) from the conference.
 
