@@ -4,7 +4,7 @@ Hello Turing Way friends!
 
 This month we have been drinking virtual coffees at Calleboration Cafes :coffee: and discussing with you how you can contribute to The Turing Way project.
 
-We ran **4 Online Collaboration Cafes** ([videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)) and partnered with the Mozilla Open Leader X - [Open Life Science mentoring program](https://openlifesci.org).
+We ran **4 Online Collaboration Cafes** ([videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA), [more info](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md)) and partnered with the Mozilla Open Leader X [Open Life Science mentoring program](https://openlifesci.org).
 
 Shout out to Sarah Gibson and Rachael Ainsworth who gave talks and ran a workshop on The Turing Way Project. Thanks to Paula Andrea Martinez and Philip Durbin for engaging with the project from Australia and USA. 
 
