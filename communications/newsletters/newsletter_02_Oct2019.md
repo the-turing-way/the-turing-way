@@ -8,6 +8,7 @@ Read this amazing [impact story of _The Turing Way_](https://www.turing.ac.uk/re
 
 We ran **4 Online Collaboration Cafes** ([videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA), [more info](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md)) and partnered with the Mozilla Open Leader X [Open Life Science mentoring program](https://openlifesci.org).
 
+[Malvika Sharan](https://twitter.com/MalvikaSharan) joins The Turing Way team as a community manager.
 Shout out to Sarah Gibson and Rachael Ainsworth who gave talks and ran a workshop on _The Turing Way_ Project.
 Thanks to Paula Andrea Martinez and Philip Durbin for engaging with the project from Australia and USA 🌎 🌏 🌍 
 
