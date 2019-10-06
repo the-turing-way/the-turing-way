@@ -2,28 +2,24 @@
 
 Hello Turing Way friends!
 
-This month we have been drinking virtual coffees at Calleboration Cafes :coffee: and discussing with you how you can contribute to The Turing Way project.
+This month we had virtual coffees at **4 Online Collaboration Cafes** ([videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA), [more info](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md)) :coffee: and discussed with you how you can contribute to this project.
 
-Read this amazing [impact story of _The Turing Way_](https://www.turing.ac.uk/research/impact-stories/transforming-culture-data-science) authored by [Sean O'Neill](https://www.turing.ac.uk/people/business-team/sean-oneill) under the title **Transforming the culture of data science**.
+_The Turing Way_ was highlighted in the [The Turing impact story](https://www.turing.ac.uk/research/impact-stories/transforming-culture-data-science) authored by [Sean O'Neill](https://www.turing.ac.uk/people/business-team/sean-oneill) under the title **Transforming the culture of data science**.
 
-We ran **4 Online Collaboration Cafes** ([videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA), [more info](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md)) and partnered with the Mozilla Open Leader X [Open Life Science mentoring program](https://openlifesci.org).
-
-[Malvika Sharan](https://twitter.com/MalvikaSharan) joins The Turing Way team as a community manager.
-Shout out to Sarah Gibson and Rachael Ainsworth who gave talks and ran a workshop on _The Turing Way_ Project.
+Shout out to Sarah Gibson and Rachael Ainsworth who gave talks and ran a workshop/demo-sesson on _The Turing Way_ Project. 
 Thanks to Paula Andrea Martinez and Philip Durbin for engaging with the project from Australia and USA 🌎 🌏 🌍 
 
-We are excited to meet many of you at [MozFest](https://www.mozillafestival.org/en/) in London, and have been thinking of ways to involve people in different time zones.
+Say hello to [Malvika Sharan](https://twitter.com/MalvikaSharan), who joined _The Turing Way_ team as a Community Manager (and is drafting this newsletter :blush:).
+
+We are excited to meet many of you in London at [MozFest 2019](https://www.mozillafestival.org/en/). 
+
+That's all from us before Halloween! :jack_o_lantern: :maple_leaf:
 
 Find more details on these topics below. :point_down:
 
-See you after Halloween! :jack_o_lantern: :maple_leaf:
-
-![](https://www.turing.ac.uk/sites/default/files/inline-images/Culture%20shift.jpg)
-*The Turing Way illustration published in the imapct story, art by Scriberia, CC-BY licence.*
-
 ## Community meetings
 
-### Next Collaboration Cafes
+### Next Collaboration Cafes: online call series
 
 This month’s collaboration cafes are scheduled on 2 October at 15:00 BST ([your local time](https://arewemeetingyet.com/London/2019-10-02/15:00/TuringWay-CollaborationCafe)), 16 October at 19:00 BST ([your local time](https://arewemeetingyet.com/London/2019-10-16/19:00/TuringWay-CollaborationCafe)), and 30 October at 08:00 GMT ([your local time](https://arewemeetingyet.com/London/2019-10-30/08:00/TuringWay-CollaborationCafe)).
 
@@ -46,7 +42,7 @@ _The Turing Way_ project was highlight among [The Turing Impact Stories](https:/
 
 > "The moonshot goal of the project is to make reproducible research too easy not to do."
 
-### Update on the last Collaboration Cafes: an online call series
+### Update on the last Collaboration Cafes
 
 Ever since their launch in September 2019, total 4 online Collaboration Cafes have already taken place. :tada:
 
@@ -58,10 +54,6 @@ We are still developing the format (see the [template](https://github.com/alan-t
 Thank you in advance!
 
 ## Relevant resources
-
-### Open Life Science Mentoring Program
-
-The Turing Way is delighted to collaborate with the [Open Life Science Program](https://openlifesci.org) organised by Bérénice Batut, Yo Yehudi and Malvika Sharan as one of the [Mozilla Open Leader X projects](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/). They are developing this mentoring program for early-stage researchers who want to become ambassadors for Open Life Science in their communities. A call for application for mentees and mentors will be announced soon. Stay up to date through their webpage (https://openlifesci.org/).
 
 ## Tips & Tricks for new contributors
 
