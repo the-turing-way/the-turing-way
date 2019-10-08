@@ -89,7 +89,7 @@ She shared her training materials in the [GitHub repository](https://github.com/
 Rachael, Community Manager of Software Sustainability Institute, attended the Open Science Fair 2019 in Porto, Portugal, last month, where she presented a poster (DOI: [10.5281/zenodo.3381445](https://doi.org/10.5281/zenodo.3381445)) and a [demo session](https://www.opensciencefair.eu/demos-2019/the-turing-way-a-handbook-for-reproducible-data-science) (DOI: [10.5281/zenodo.3403160](https://doi.org/10.5281/zenodo.3403160)) on _The Turing Way_ project.
 Her demo session was also featured by The ORION Open Science Podcast in the episode [The FAIR is in Town: figshare, The Turing Way, and Open Science Quest at the OSFAIR2019](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/)! 🎉
 
-![](images/Tweet-UKRSE19.png)
+![](images/Tweet-OpenScienceFair2019.png)
 
 *-- Rachael Ainsworth (@rachaelevelyn) [September 16, 2019](https://twitter.com/rachaelevelyn/status/1173625329686110208?ref_src=twsrc%5Etfw)*
 
