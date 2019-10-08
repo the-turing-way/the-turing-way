@@ -31,7 +31,11 @@ We would love to have you on these calls to continue working together on differe
 
 Several community members of _The Turing Way_ will be attending [Mozilla Festival 2019](https://www.mozillafestival.org) in London from 21 to 27 October.
 
-If you are in town and also attending this conference, get in touch through our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) or other communication channels listed below this newsletter. We look forward to seeing you there in person.
+Kirstie and Malvika will be co-working at MozFest House on **Thursday 24 October** from 10am to 4pm.
+If you are in town we would love to see you there for any amount of time!
+To let the festival team plan appropriately, please sign up for the [Co-Working Space @ Mozfest House](https://www.mozillafestival.org/en/house/thursday/) (scroll to almost the end of the list of events to find that option, click and then grab a free ticket for Thursday) and then come along and say hello!
+
+We look forward to seeing you in person!
 
 ## News from the community
 
