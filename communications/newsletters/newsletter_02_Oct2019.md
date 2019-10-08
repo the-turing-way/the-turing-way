@@ -89,4 +89,5 @@ Her demo session was also featured by The ORION Open Science Podcast in the epis
 You are welcome to contribute contents for the next newsletter by
 emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
 
-*Did you miss the last Newsletters? Check them out [here](https://tinyletter.com/TuringWay/archive)*.
+*Did you miss the last newsletters?*
+*Check them out [here](https://tinyletter.com/TuringWay/archive)*.
