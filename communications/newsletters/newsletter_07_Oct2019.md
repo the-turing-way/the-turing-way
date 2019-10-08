@@ -1,6 +1,4 @@
-# The Turing Way Newsletter: 04 October 2019
-
-***Welcome Malvika, co-work with us at MozFest House, and check out our new impact story!***
+# Welcome Malvika, co-work with us at MozFest House, and check out our new #TuringWay impact story!
 
 Hello Turing Way friends!
 
@@ -89,7 +87,7 @@ Sarah, Research Data Scientist at The Alan Turing Institute, delivered a success
 She shared her training materials in the [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/build-a-binderhub/workshop-presentations/zero-to-binderhub.md) and online via Zenodo (DOI: [10.5281/zenodo.3382208](https://doi.org/10.5281/zenodo.3382208)).
 
 Rachael, Community Manager of Software Sustainability Institute, attended the Open Science Fair 2019 in Porto, Portugal, last month, where she presented a poster (DOI: [10.5281/zenodo.3381445](https://doi.org/10.5281/zenodo.3381445)) and a [demo session](https://www.opensciencefair.eu/demos-2019/the-turing-way-a-handbook-for-reproducible-data-science) (DOI: [10.5281/zenodo.3403160](https://doi.org/10.5281/zenodo.3403160)) on _The Turing Way_ project.
-Her demo session was also featured by The ORION Open Science Podcast in the episode [The FAIR is in Town: figshare, The Turing Way, and Open Science Quest at the OSFAIR2019](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/)! :tada:
+Her demo session was also featured by The ORION Open Science Podcast in the episode [The FAIR is in Town: figshare, The Turing Way, and Open Science Quest at the OSFAIR2019](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/)! 🎉
 
 ![](images/Tweet-UKRSE19.png)
 
