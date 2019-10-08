@@ -65,7 +65,7 @@ See [this page](https://github.com/alan-turing-institute/the-turing-way) to find
 
 ## Acknowledgements and celebrations!
 
-Shout out to two of our members [Sarah Gibson](https://twitter.com/drsarahlgibson) and [Rachael Ainsworth](https://twitter.com/rachaelevelyn), who represented The Turing Way project at two separate conferences in September.
+Shout out to two of our members [Sarah Gibson](https://twitter.com/drsarahlgibson) and [Rachael Ainsworth](https://twitter.com/rachaelevelyn), who represented _The Turing Way_ at two separate conferences in September.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/drsarahlgibson?ref_src=twsrc%5Etfw">@drsarahlgibson</a> running through a brilliant intro at the Build <a href="https://twitter.com/mybinderteam?ref_src=twsrc%5Etfw">@mybinderteam</a> Hub workshop at <a href="https://twitter.com/hashtag/ukrse19?src=hash&amp;ref_src=twsrc%5Etfw">#ukrse19</a>.<br><br>Learned loads at the first one she ran through <a href="https://twitter.com/hashtag/turingway?src=hash&amp;ref_src=twsrc%5Etfw">#turingway</a> and it&#39;s even more informative this time round! 🤩 <a href="https://t.co/hcCfuIaxZ1">pic.twitter.com/hcCfuIaxZ1</a></p>&mdash; annakrystalli (@annakrystalli) <a href="https://twitter.com/annakrystalli/status/1174603229679763457?ref_src=twsrc%5Etfw">September 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
