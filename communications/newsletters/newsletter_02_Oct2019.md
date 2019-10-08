@@ -54,7 +54,10 @@ Thank you in advance!
 
 ### _The Turing Way_ Impact Story
 
-_The Turing Way_ project was highlight among [The Turing Impact Stories](https://www.turing.ac.uk/research/impact-stories) this month. Under the title [Transforming the culture of data science](https://www.turing.ac.uk/research/impact-stories/transforming-culture-data-science), [Sean O'Neill](https://www.turing.ac.uk/people/business-team/sean-oneill) highlighted its role in representing the institute’s commitment to changing data science for the better. Several community members including the project lead [Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker) shared their journey and impact related to this project. You can read the main points in this 1-page short [PDF summary](https://www.turing.ac.uk/sites/default/files/2019-10/impact_story_-_transforming_the_culture_of_data_science.pdf).
+_The Turing Way_ project was highlighted among [The Turing Impact Stories](https://www.turing.ac.uk/research/impact-stories) this month.
+Under the title [Transforming the culture of data science](https://www.turing.ac.uk/research/impact-stories/transforming-culture-data-science), [Sean O'Neill](https://www.turing.ac.uk/people/business-team/sean-oneill) highlighted its role in representing the institute’s commitment to changing data science for the better.
+Several community members including the project lead [Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker) shared their journey and impact related to this project.
+You can read the main points in this 1-page short [PDF summary](https://www.turing.ac.uk/sites/default/files/2019-10/impact_story_-_transforming_the_culture_of_data_science.pdf).
 
 > "The moonshot goal of the project is to make reproducible research too easy not to do."
 
