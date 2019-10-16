@@ -16,7 +16,7 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 
 *replace this text with the content of barrier 1*
 
-## Barrier 2
+## Publication bias towards novel findings
 
 Publication bias towards novel findings.
 
