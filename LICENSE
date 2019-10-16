@@ -10,7 +10,7 @@ The text below is re-used, under a CC-BY license from The Carpentries community 
 
 ## Process documents and data
 
-All process documentation and curated data in this repository is made available under the [Creative Commons Attribution license][cc-by-human].
+All documentation and chapter materials in this repository are made available under the [Creative Commons Attribution license][cc-by-human].
 The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC BY 4.0 license][cc-by-legal].
 
 You are free:
@@ -24,7 +24,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 Under the following terms:
 
-* **Attribution**---You must give appropriate credit (mentioning that your work is derived from work that is Copyright © the Turing Way Community and, where practical, linking to https://github.com/alan-turing-institute/the-turing-way), provide a [link to the license][cc-by-human], and indicate if changes were made.
+* **Attribution**---You must give appropriate credit (mentioning that your work is derived from work that is Copyright © The Turing Way Community and, where practical, linking to https://github.com/alan-turing-institute/the-turing-way), provide a [link to the license][cc-by-human], and indicate if changes were made.
   You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 * **No additional restrictions**---You may not apply legal terms or technological measures that legally restrict others from doing
 anything the license permits.
@@ -38,7 +38,7 @@ With the understanding that:
 
 ## Software
 
-Except where otherwise noted, the software and infrastructure provided by the _The Turing Way_ community are made available under the [OSI][osi]-approved [MIT license][mit-license].
+Except where otherwise noted, the software and infrastructure provided by the The Turing Way Community are made available under the [OSI][osi]-approved [MIT license][mit-license].
 
 > Permission is hereby granted, free of charge, to any person obtaining
 > a copy of this software and associated documentation files (the
