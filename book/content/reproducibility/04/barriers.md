@@ -19,7 +19,15 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 ## Publication bias towards novel findings
 
 
-Novel results are not necessarily accurate or interesting but they are rewarded in the academic world! Your article might be less likely to be accepted to a journal or a confence if it reproduces already-published results instead of producing a new set. In addition, if you do not find anything e.g. any significant relationship, you might be less likely to publish, let alone make your work reproducible: as a result, there may be lots of duplicated work going on, where lots of different researchers are asking the same question and not telling anyone what they have found. 
+Novel results are not necessarily accurate or interesting but they are rewarded in the academic world!
+Papers that do not find statistically significant relationships are hard to publish, particularly if the results *do not* reproduce previously published findings.
+(That includes statistically significant findings that go in the opposite direction to already published work.)
+Similarly, an article might be less likely to be accepted to a journal or a confence if it successfully reproduces already-published results instead of producing a new set.
+There's a good chance that reviewers will say "we already know this" and reject the submission.
+
+John Ioannidis published an influential paper in 2005 titled "Why Most Published Research Findings Are False" (doi: [10.1371/journal.pmed.0020124](https://doi.org/10.1371/journal.pmed.0020124)) which discusses the many factors that contribute to publication bias.
+Therefore it is very likely that there is a lot of duplicated work in data science.
+Too many different researchers are asking the same question, not getting the answer they expect or want, and then not telling anyone what they have found.
 
 ## Barrier 3
 
