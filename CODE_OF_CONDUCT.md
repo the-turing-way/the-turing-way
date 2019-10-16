@@ -147,7 +147,7 @@ In situations where an individual community member acts unilaterally, they must 
 
 ### 4.3 Less-Urgent Situations
 
-Upon receiving a report of an incident, the CoC committee will review the incident and determine, to the best of her ability:
+Upon receiving a report of an incident, the CoC committee will review the incident and determine, to the best of their ability:
 
 - whether this is an ongoing situation
 - whether there is a threat to anyone's physical safety
