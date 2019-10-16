@@ -18,7 +18,6 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 
 ## Publication bias towards novel findings
 
-Publication bias towards novel findings.
 
 Novel results are not necessarily accurate or interesting but they are rewarded in the academic world! Your article might be less likely to be accepted to a journal or a confence if it reproduces already-published results instead of producing a new set. In addition, if you do not find anything e.g. any significant relationship, you might be less likely to publish, let alone make your work reproducible: as a result, there may be lots of duplicated work going on, where lots of different researchers are asking the same question and not telling anyone what they have found. 
 
