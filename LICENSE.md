@@ -1,6 +1,6 @@
 # LICENSE
 
-The Turing Way Community make all their materials publicly available under open source licenses.
+The Turing Way Community makes all of their materials publicly available under open source licenses.
 
 The process documents and data are made available under a CC-BY license.
 Software are made available under an MIT license.
