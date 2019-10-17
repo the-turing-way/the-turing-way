@@ -1,7 +1,11 @@
 # Communicating Effectively
 
-## We should communicate and coordinate effectively with different audiences in an accessible and diverse way: journalists, general public, industry, other data scientists. 
+<!-- TP: We need a consistent way to present the manifesto point at the top of each section. -->
+## We should communicate and coordinate effectively with different audiences in an accessible and diverse way: journalists, general public, industry, other data scientists.
 
+<!-- CRS: I feel this section should go before presenting results, as is more general? -->
+
+<!-- TP: Should we have contents section within a page? Let's be consistent, either all have contents or none. -->
 ### Contents:
 1. [Researcher vs. Journalist](#researcher-vs-journalist)
 
@@ -10,7 +14,6 @@
 3. [Written Communication](#written-communication)
 
 4. [Visual Communication](#visual-communication)
-
 
 ## Researcher vs. Journalist
 

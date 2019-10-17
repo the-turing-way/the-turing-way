@@ -1,7 +1,9 @@
 # Integrating Outreach Into Research Projects
 
-
+<!-- TP: We need a consistent way to present the manifesto point at the top of each section. -->
 > We should approach projects with the expectation that outreach is an integral part, providing the administrative resources necessary to facilitate outreach
+
+<!-- CRS: As we are expeting to reach an international audience might be useful to show what the acronims UKRI and ESRC stand for...? --> 
 
 ### Overview 
 

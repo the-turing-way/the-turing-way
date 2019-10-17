@@ -1,6 +1,10 @@
 # Presenting Results
 
+<!-- TP: We need a consistent way to present the manifesto point at the top of each section. -->
 *We should present results accurately and responsibly to clearly convey research findings and avoid common misconceptions.*
+
+<!-- CRS:Should we delete this ? -->
+<!-- TP: In reply to CRS, yes the plan will be deleted. -->
 
 > Plan:
 > * [x] Discuss the need to be careful on how to present results
@@ -29,6 +33,8 @@ There are two stages to consider when collating a research project for outreach:
 
 This chapter gives practical tips and guidelines on how to present results accurately and responsibly in order to clearly convey research findings and avoid common misconceptions or be taken out of context and overhyped.
 
+<!-- CRS: This section is broken into...? --> 
+
 The chapter is broken down into two themes:
 
 * Presentation - How the research should be exhibited.
@@ -37,6 +43,9 @@ The chapter is broken down into two themes:
 ## Presentation
 
 There are a large variety of ways to present results for outreach, from powerpoint presentations, to posters, to interactive demos. Each of these have different appropriate audiences and some of them are not always suitable. It is up to you as the presenter to consider the different approaches of presenting and your audience. The practical tips outlined here are for you to consider, and to assist you in deciding how to best approach your outreach.
+
+<!-- CRS: Some will recomend to start your presentation showing them the "end" (the main message), and then 
+use the rest of the presentation to take the audience to that point...? --> 
 
 ### Practical Tips
 
@@ -53,7 +62,7 @@ There are a large variety of ways to present results for outreach, from powerpoi
   * You should also consider the age of your audience and what is important in their life. Children aren't going to be enthralled by how a machine learning implementation could save money on household bills.
 
 * Tell a story
-
+<!-- TP: This section needs to be written. -->
   TALK ABOUT THIS
 
 * Know your main take away
@@ -79,6 +88,10 @@ There are a large variety of ways to present results for outreach, from powerpoi
       * For example: imagine seeing a video of a supernova explosion. In reality an observer would not hear any noise as sound does not travel in space, but how much more effective will the video be at portraying the size and power of a supernova explosion with a well designed audio track.
 
 * Consider multiple delivery methods, listed here is a non-exhaustive list of delivery methods with some thoughts on each.
+<!-- CRS: Recording yourself doing a presentation is also another typical method to improve your "stage performance."...? -->
+<!-- TP: I like that CRS, will add that detail in. --->
+
+* Consider multiple delivery methods
 
   * White paper
     * Very formal, lots of place for detail, primarily researcher to researcher.
@@ -97,6 +110,8 @@ There are a large variety of ways to present results for outreach, from powerpoi
 
 ## Precision
 
+<!-- TP: This section needs to be developed further. -->
+
 * Reporting of similar work / identifying common pitfalls
   * How has similar stuff been misrepresented in the past
   * Are their positive and negatives to be gained from this?
@@ -107,3 +122,5 @@ There are a large variety of ways to present results for outreach, from powerpoi
 You can’t stop fools, cranks, and malicious people! Your job is to make your message as unstandable as theirs. You can only talk to people who will listen.
 
 Look at what other people have said about combating over-hyped.
+
+<!-- CRS: Not sure this section is the latest one?? -->
