@@ -1,5 +1,7 @@
 # Developing Relationships with Others
 
+<!-- CRS: This section is not up to date...? --> 
+
 Create a broad list of WHO you could contact for outreach possibilities. Internal comms teams, blogs, external journalists, content creators, pop sci, etc.
 
 HOW was a lot harder, it’s basically saying how to make friends. This could be done within reciprocation, be available to external sources for event hosting, quotes, maintain a regular contact. Get in there early before you need to publish something.

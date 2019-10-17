@@ -53,9 +53,8 @@ Furthermore, we should be evangelists of this practice with people around us.
 
 Some of the small actions we can take in this direction:
 
-* When discussing with family and friends, lead by example and use evidence to backup arguments (it would be nice
-to have an link to how to do this properly).  
-* Actively work with those closest to us to recognise false news (particularly with the older generations that might not be tech savvy), 
+* When discussing with family and friends, lead by example and use evidence to backup arguments.  
+* Actively work with those closest to us to recognise false news, 
 * Have a curated pool of media sources with a high reputation for publishing data-driven confirmed information, share this
 with your close ones.
 * Demand the media that you consume to include links to the data or original sources they discuss in their articles (e.g., 

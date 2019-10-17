@@ -2,6 +2,8 @@
 
 ## We should communicate and coordinate effectively with different audiences in an accessible and diverse way: journalists, general public, industry, other data scientists. 
 
+<!-- CRS: I feel this section should go before presenting results, as is more general? --> 
+
 ### Contents:
 1. [Researcher vs. Journalist](#researcher-vs-journalist)
 

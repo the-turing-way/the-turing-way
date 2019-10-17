@@ -3,6 +3,8 @@
 
 > We should approach projects with the expectation that outreach is an integral part, providing the administrative resources necessary to facilitate outreach
 
+<!-- CRS: As we are expeting to reach an international audience might be useful to show what the acronims UKRI and ESRC stand for...? --> 
+
 ### Overview 
 
 From engaging the public with scientific developments to increasing the visibility of our work, engaging in outreach can yield both personal and societal benefits. While outreach is a multifaceted endeavour, all outreach activities are likely to require resources and funding. At a minimum outreach requires researcher's time and effort, a precious commodity in competitive research environments. To ensure the personal and societal benefits of outreach are realised, it is vital that outreach is incentivised within scientific communities and the administrative resources required are available to researchers. 
