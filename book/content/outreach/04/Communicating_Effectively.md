@@ -75,6 +75,8 @@ As with the discussion above, once the audience has been defined and the message
 
 There are a range of ways to illustrate information visually. One idea of how to arrange this is from Scientific American Art Director Jen Christensen [4]:
 
+<!-- CRS: This figure doesnt show properly in the document -->
+
 Representative           Illustrated                      Data
 Illustrations             Diagrams              Visualisations
 |------------------------------------------------------------|

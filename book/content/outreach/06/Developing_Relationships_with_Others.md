@@ -81,6 +81,8 @@ Most, if not all, companies and institutions will have dedicated teams for multi
 - PAs to directorate 
 - STEMNET Ambassadors
 
+<!-- CRS: I would add "meetups" in that sentence below? -->
+
 ### External
 The field of science communication is wide, encompassing print media, both periodicals and books, online media, social media, film, broadcast television, and online video to name but a few. Below are just a few examples of potential avenues you may wish to pursue. We have included a few specific examples of communicators whose work you can easily find for illustration.
 - Charitable Organisations / Societies

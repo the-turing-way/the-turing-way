@@ -123,4 +123,3 @@ You can’t stop fools, cranks, and malicious people! Your job is to make your m
 
 Look at what other people have said about combating over-hyped.
 
-<!-- CRS: Not sure this section is the latest one?? -->
