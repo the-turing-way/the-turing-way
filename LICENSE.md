@@ -5,7 +5,7 @@ The Turing Way Community makes all of their materials publicly available under o
 The process documents and data are made available under a CC-BY license.
 Software are made available under an MIT license.
 
-The text below is re-used, under a CC-BY license from The Carpentries community materials.
+The  license text listed below (describing both CC-BY and MIT licenses as well as their usage in The Turing Way) is re-used under a CC-BY license from The Carpentries community materials.
 (Specifically from the [Reproducible Science Curriculum](https://github.com/Reproducible-Science-Curriculum/sharing-RR-Jupyter/blob/gh-pages/LICENSE.md).
 
 ## Process documents and data
