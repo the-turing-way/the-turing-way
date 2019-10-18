@@ -4,7 +4,7 @@
 
 | Prerequisite                | Importance | Notes |
 |-----------------------------|------------|-------|
-|No previous knowledge needed.|            | First draft at London Dash on May 28th. Expected second draft in July 2019.      |
+|No previous knowledge needed.|            |       |
 
 
 ## Overview
