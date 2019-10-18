@@ -86,6 +86,7 @@ There are a large variety of ways to present results for outreach, from powerpoi
 <!-- CRS: Recording yourself doing a presentation is also another typical method to improve your "stage performance."...? -->
 <!-- TP: I like that CRS, will add that detail in. --->
 
+<!-- CRS: It might be useful to mention Slido (or other equivalent platform) as a good way of interacting with the audience in presenations? (IMO this type of tools create a more incluisive environment, as people are less afraid of asking questions, making the pool of questions more diverse and relevant) ---!> 
 * Consider multiple delivery methods
 
   * White paper
