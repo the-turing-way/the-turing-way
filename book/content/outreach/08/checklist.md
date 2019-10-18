@@ -1,5 +1,7 @@
 # Checklist
 
+<!-- TP: A checklist is a great idea. This needs to be a bit more filled out. -->
+
 ## For Researchers
 
 * [ ] What is your main result? Why should your audience care about this result?

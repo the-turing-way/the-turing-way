@@ -1,4 +1,7 @@
 # Becoming a science champion
+
+<!-- TP: I really like this section and how it reads. It sounds like a call to action for scientists. Should this be at the start of the chapter to get people enthusiastic before diving into practicalities? Just a thought. -->
+
 <!-- TP: We need a consistent way to present the manifesto point at the top of each section. -->
 > We should be advocates for general scientific literacy in our organisations and the public.
 
@@ -43,7 +46,6 @@ in the era where fake news and alternate facts are common, scientists have the e
 vet online content for scientific accuracy. Any scientist can quickly post a comment or share a link to correct 
 misinformation in the news or on a conversation thread with minimal effort [5].
 
-
 ## Be an advocate for data and evidence  
 
 Scientists are trained in the scientific method which promotes evidence over believe. This practice should not
@@ -66,9 +68,7 @@ in order to reduce confirmation bias, for example you can avoid forming a hypoth
 frequently ask yourself why your hypothesis might be wrong, or why alternative hypotheses might be right, finally always try to
 process new information in a conscious and unemotional manner [2].
 
-
-## Addressing science denial and disinformation, 
-
+## Addressing science denial and disinformation
 
 Fake news, alternative facts, although they are new terms in our vocabulary, they are not a new phenomenon 
 but their dissemination has been accelerated by social media. As scientists we are drawn to denounce science deniers, 
@@ -82,9 +82,9 @@ accept the facts and retreat further to our initial beliefs [5].
 Whilst talking to a potential science denier, think about who is your audience to frame your message, 
 a person that believes anti-vaccine propaganda, does not necessarily subscribes to the idea that human made climate change is a 
 hoax, they are not denying in all science, but just some part of it.   We must listen first to understand the mentality 
-behind the denial, and taylor our message accordingly. A popular technique from psychology that you could use can be 
+behind the denial, and tailor our message accordingly. A popular technique from psychology that you could use can be 
 summarized under the acronym EGRIP (emotions, goals, rapport, information and positive reinforcement)[6], you can find a 
-detailed explanation in how to use it in here [7].
+detailed explanation in how to use it in here [7] <!-- TP: If referencing a specific article then make it a hyperlink, this is going to be consumed on the web and will make it easier for readers to view linked media. -->.
 
 Finally, we must always remember that we are representing our institutions and science itself, and that engaging into 
 useless discussions with trolls, ridiculing 'non-believers' or struggling to communicate what we do in our jobs is not 

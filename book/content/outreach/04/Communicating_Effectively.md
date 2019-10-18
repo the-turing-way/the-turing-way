@@ -25,9 +25,11 @@ Communicating beyond a specific field or even beyond the wider community of rese
 
 ## Oral Communication
 
-The most common way of communicating your research results beyond your immediate field is orally. This can be done in environments as simple as a discussion with friends at the pub over drinks, or may involve more formal appearances in the media. Specific avenues for oral communication are quite varied, and include interviews, podcasts, public lectures, and just having casual conversations with people outside of your area of expertise. It is best not to think about these like research talks, but instead to apply the above prinicples and treat them like conversations with different audiences with a specific message.Unlike in technical presentations at conferences or seminars, where you are allotted enough time to follow the general to specific presentation methodology of a researcher, these oral discussions are usually very short (several minutes) and thus the journalist's method of leading with the main result tends to be more effective.
+The most common way of communicating your research results beyond your immediate field is orally. This can be done in environments as simple as a discussion with friends at the pub over drinks, or may involve more formal appearances in the media. Specific avenues for oral communication are quite varied, and include interviews, podcasts, public lectures, and just having casual conversations with people outside of your area of expertise. It is best not to think about these like research talks, but instead to apply the above prinicples and treat them like conversations with different audiences with a specific message. Unlike in technical presentations at conferences or seminars, where you are allotted enough time to follow the general to specific presentation methodology of a researcher, these oral discussions are usually very short (several minutes) and thus the journalist's method of leading with the main result tends to be more effective.
 
 However, this change in tactics still requires prior thought as to how to best present your work. In particular, you need to think carefully about how to distill your main result into a single, clear, unambiguous message. Additionally, you need to think about what the audience values and how your result impacts them as an individual in order to drive the message home regarding why they should care. This is a skill that requires practice in order to develop, and it can be very helpful to think about and craft your message in advance and to practice explaining it to a friendly person that is outside of your area of expertise.
+
+<!-- TP: The following section should be included in Presenting Results rather than this section. Can link to it. TP is happy to incorporate this if all agree. -->
 
 The following discussion is adapted from materials provided by [Compass Science Communication](https://www.compassscicomm.org/message-box-online).
 
@@ -52,14 +54,13 @@ Once the main message is identified, then you can begin to fill in the other rel
 
 Note that these questions will require you to fill in many background details, but by first specifying the main message, you can be judicious as to which details are necessary for someone to understand your results and how it can be connected to things that they care about.
 
-Once you have thought through these details in advance, it is a good idea to practice describing your work to people within your target audience and elicit feedback as to how understandable your message was and to point out areas of confusion or places where technical jargon may have crept into the discussion. By repeately speaking to target audience members, you can dramatically improve this skill and your ability to transmit your research results beyond your peers.
-
+Once you have thought through these details in advance, it is a good idea to practice describing your work to people within your target audience and elicit feedback as to how understandable your message was and to point out areas of confusion or places where technical jargon may have crept into the discussion. By repeatedly speaking to target audience members, you can dramatically improve this skill and your ability to transmit your research results beyond your peers.
 
 ## Written Communication
 
-Another common way to disseminate research results is in writing. Avenues for written communcation span social media, blog posts, press releases, and articles in the news media. However, in many cases, a journalist or institutional communications officer may be writing the actual document based on an oral discussion or comments provided in writing. Many of the same principles described above apply to written communication: you need to think like a journalist and write following an 'inverted pyramid' structure, which differs from the standard flow of standard technical writing.
+Another common way to disseminate research results is in writing. Avenues for written communication span social media, blog posts, press releases, and articles in the news media. However, in many cases, a journalist or institutional communications officer may be writing the actual document based on an oral discussion or comments provided in writing. Many of the same principles described above apply to written communication: you need to think like a journalist and write following an 'inverted pyramid' structure, which differs from the standard flow of standard technical writing.
 
-Many of the same questions you should ask yourself to distill your message described in the oral communication section apply equally well to writing. An important first step is to idenify your audience and what matters to them, and then craft your message to align with their stake in the problem. Then, defining the core message and the relevant auxillary details will help you determine how to best present your findings.
+Many of the same questions you should ask yourself to distill your message described in the oral communication section apply equally well to writing. An important first step is to identify your audience and what matters to them, and then craft your message to align with their stake in the problem. Then, defining the core message and the relevant auxiliary details will help you determine how to best present your findings.
 
 However, in some cases writing allows for more details to be transmitted than in short oral presentations -- for instance, press releases often have space for more details than a short oral interview, and so you will need to think about whether or not specific details are relevant given the amount of space involved. Therefore, you may need to revisit the questions above multiple times to ensure that the correct level of detail is given for a particular audience and the length of the document.
 
@@ -67,7 +68,7 @@ As with oral communication, feedback and revision based on presenting to a membe
 
 ## Visual Communication
 
-Visual communication provides a way to include actual data into your message. This can be done in a variety of media, ranging from simple graphics designed to illustrate a point to complex webapps to explore and visualise data. Researchers often produce graphics that are good at illustrating a technical point, but may not fully emphasize the main message. The goal in adapting graphics for communicating research to a wider audiences is to remove any information that is not necessary to tell the main story. If you are trying to communicate your ideas to a journalist, it can be very helpful to have this in mind when crafting any graphics that you share with them, which is likely to help get your ideas across and tell a coherent and accurate story. Other aveunues for visual communication include posters, slides, and multimedia such as videos and cartoons can be useful ways to add additional visual dimensions to how you communicate results.
+Visual communication provides a way to include actual data into your message. This can be done in a variety of media, ranging from simple graphics designed to illustrate a point to complex webapps to explore and visualise data. Researchers often produce graphics that are good at illustrating a technical point, but may not fully emphasize the main message. The goal in adapting graphics for communicating research to a wider audiences is to remove any information that is not necessary to tell the main story. If you are trying to communicate your ideas to a journalist, it can be very helpful to have this in mind when crafting any graphics that you share with them, which is likely to help get your ideas across and tell a coherent and accurate story. Other avenues for visual communication include posters, slides, and multimedia such as videos and cartoons can be useful ways to add additional visual dimensions to how you communicate results.
 
 News articles that cover research results often derive visuals from the research article itself. In this case, many news outlets have illustrators in house who create these visuals based on the originals in the paper. However, significant editing usually takes place before placing a graphic in a news article such that the original is modified in many ways. For some excellent examples of this, a [talk by a NY Times science illustrator](http://style.org/ku/) provides some insight into the variety of ways that different graphics have been adapted for use by the newspaper. Note however that the talk makes it crystal clear that one needs to define the audience prior to making any illustrations, and that his audience is NY Times readers.
 
@@ -75,7 +76,8 @@ As with the discussion above, once the audience has been defined and the message
 
 There are a range of ways to illustrate information visually. One idea of how to arrange this is from Scientific American Art Director Jen Christensen [4]:
 
-<!-- CRS: This figure doesnt show properly in the document -->
+<!-- CRS: This figure doesn't show properly in the document -->
+<!-- TP: Make this a picture instead and embed it. -->
 
 Representative           Illustrated                      Data
 Illustrations             Diagrams              Visualisations
@@ -83,6 +85,8 @@ Illustrations             Diagrams              Visualisations
 Figurative                                            Abstract
 
 At one end of the spectrum you have illustrations that are figurative and just meant to provide a picture of the content under question. As you move towards the abstract, you begin to get illustrations that are warped in ways to illustrate some principle to improve the understanding of the audience, but remain illustrations to varying degrees. Finally at the right you reach the full level of abstraction where you find quantitative data shown on a graph, removing any trace of the actual appearance of the object. In many cases, technical research (and certainly data science) will fall entirely on the abstract side of things, while a presentation to a different audience may require some movement towards the figurative end of the spectrum to give concrete understanding of what is being studied.
+
+<!-- TP: There are a few things in this section which overlap with Presenting Results section. Might be worth consolidating the 2? I tried to make Presenting Results as practical as I could, maybe we take all practical tips from this section and move it to Presenting Results but in a way that does not subtract from the core message being discussed here. i.e. separate the discussion and the practical tips. -->
 
 ## References
 
