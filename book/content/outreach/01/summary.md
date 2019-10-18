@@ -1,4 +1,4 @@
-## Summary
+# Summary
 
 The goal of this chapter is provide a manifesto that functions as a set of general guidelines on best practices for doing data science outreach.
 
