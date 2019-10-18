@@ -15,7 +15,8 @@ become a threat to our society and the future of our planet. Furthermore, at the
 artificial intelligence are prone to hyperbole and hype that create misconceptions and over-expectations.
 
        "To overcome these threats, scientists not only need to spread scientific knowledge, 
-       but must also address the social drivers of science denial." (J. Rosenau, Science denial: a guide for scientists)[1].
+       but must also address the social drivers of science denial." (J. Rosenau, Science denial: a guide for scientists).
+
 
 In the following sub-sections we will provide some ideas in how to assume this 
 responsibility. These recommendations come from either personal experiences or literature review from
@@ -81,8 +82,8 @@ Whilst talking to a potential science denier, think about who is your audience t
 a person that believes anti-vaccine propaganda, does not necessarily subscribes to the idea that human made climate change is a 
 hoax, they are not denying in all science, but just some part of it.   We must listen first to understand the mentality 
 behind the denial, and tailor our message accordingly. A popular technique from psychology that you could use can be 
-summarized under the acronym EGRIP (emotions, goals, rapport, information and positive reinforcement)[6], you can find a 
-detailed explanation in how to use it in here [7] 
+summarized under the acronym EGRIP [6] (emotions, goals, rapport, information and positive reinforcement), you can find a 
+detailed explanation in how to use it in this great article on ["How to Talk to a Science Denier without Arguing"](https://blogs.scientificamerican.com/observations/how-to-talk-to-a-science-denier-without-arguing/). 
 
 <!-- TP: If referencing a specific article then make it a hyperlink, this is going to be consumed on the web and will make it easier for readers to view linked media. -->.
 
@@ -99,4 +100,3 @@ going to foster the trust that we need so badly to build up.
 4. [Communication: Two minutes to impress](https://www.nature.com/naturejobs/science/articles/10.1038/nj7435-137a)
 5. [Identity and Epistemic Emotions During Knowledge Revision: A Potential Account for the Backfire Effect](https://www.tandfonline.com/doi/abs/10.1080/0163853X.2015.1136507)
 6. [The Truth-Seeker's Handbook: A Science-Based Guide](https://www.amazon.com/Truth-Seekers-Handbook-Science-Based-Guide-ebook/dp/B078429WCF)
-7. [How to Talk to a Science Denier without Arguing](https://blogs.scientificamerican.com/observations/how-to-talk-to-a-science-denier-without-arguing/)
