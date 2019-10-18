@@ -1,8 +1,6 @@
 # Why is outreach important?
 
-<!-- TP: Should this section be moved into the summary? -->
-
-The goal of this chapter is to convince you, the researcher, that it is your duty to do outreach. The reasons for doing outreach are various, from career enhancement, skills development to the pure dissemination of knowledge. 
+In this chapter we want to convince you, the researcher, that it is your duty to do outreach. The reasons for doing outreach are various, from career enhancement, skills development to the pure dissemination of knowledge. 
 
 We have summarised the main points that should motivate you to complement your research cycle with outreach activities:
     

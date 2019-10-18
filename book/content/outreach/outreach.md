@@ -41,7 +41,5 @@ maximal impact.
 6. [Developing Relationships with Others](06/Developing_Relationships_with_Others)
 7. [Advocating for Research and Data Literacy](07/BecomingAScienceChampion)
 8. [Checklist](08/checklist)
-9. [Further reading](09/further_reading)
-10. [Bibliography](10/bibliography)
 
 

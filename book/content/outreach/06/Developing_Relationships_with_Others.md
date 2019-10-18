@@ -1,18 +1,7 @@
 # Developing Mutually Beneficial Science-Communication Relationships
 
-<!-- TP: We need a consistent way to present the manifesto point at the top of each section. -->
-*We should develop an organic relationship with other people involved in communications and information brokering (e.g. comms groups, journalists) by providing training, collaborating and coordinating.*
+> We should develop an organic relationship with other people involved in communications and information brokering (e.g. comms groups, journalists) by providing training, collaborating and coordinating.*
 
-<!-- TP: Should we have contents section within a page? Let's be consistent, either all have contents or none. -->
-### Contents:
-
-1. [Why Relationships](#Why-Relationships?)
-
-2. [What Does a Mutually Beneficial Researcher-Communicator Relationship Look Like?](#What-Does-a-Mutually-Beneficial-Researcher-Communicator-Relationship-Look-Like?)
-
-3. [How to do this](#How-to-do-this)
-
-4. [To Whom to Talk](#To-Whom-to-Talk)
 
 ## Why Relationships?
 In many cases, a significant barrier to entry when it comes to getting your research out there is simply knowing who to approach and how best to contact them. Even armed with this knowledge, however, the comparatively limited time for outreach and communication available to most researchers can make it very difficult to fully utilize those links.
@@ -20,13 +9,6 @@ In many cases, a significant barrier to entry when it comes to getting your rese
 The most effective remedy to both problems is to proactively establish beneficial relationships with communicators in advance. Having that pre-existing connection, and awareness of the focusses, audience, and format of their work, is invaluable in reducing the time and effort needed to effectively communicate your results.
 
 It is also worth noting that while we are approaching these relationships with the explicit intention of utilizing them to further our goal of effective outreach, this is something of a reductive view. As with any interaction, there is the probability of unforeseen opportunities arising simply by being in contact with people and organizations with whom you would not otherwise interact. Although we do not touch on these here, it is worth bearing in mind that there is more to be gained than is covered by the scope of this chapter.
-
-<!---
-- In many cases, a significant barrier to entry when it comes to getting your science out there is simply not knowing who to approach and how to contact them. 
-- Good relationships with key communicators can be invaluable tools for effective outreach.
-- Given the limited time typically available for outreach in an average project, trying to build these relationships when they are needed can be prohibitively complex. 
-- Therefore it is immensely useful to proactively establish and maintain relationships with these individuals and organizations head of time, making them available to you when needed. 
---->
 
 ## What Does a Mutually Beneficial Researcher-Communicator Relationship Look Like?
 The key word here is "mutually". As any marriage counsellor will tell you, sustainable relationships require investment from both sides. As such, it is worth breaking down what each party has to contribute to, and potentially gain from, the other.
@@ -102,3 +84,5 @@ The field of science communication is wide, encompassing print media, both perio
 - Informal Science Events <!-- TP: Any other suggestions from ATI guys? -->
     - PubHD
     - amateur societies
+    
+<-- CRS: Links, and have in mind an international audiance --->

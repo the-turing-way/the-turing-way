@@ -10,7 +10,6 @@ One of the main goals of the manifesto is to express the importance of outreach 
 
 These are the principles of the manifesto:
 
-<!-- TP: Are these the most up-to-date versions? -->
 1. We should present results accurately and responsibly to clearly convey research findings and avoid common misconceptions.
 2. We should communicate and coordinate effectively with different audiences in an accessible and diverse way: journalists, general public, industry, other data scientists.
 3. We should approach projects with the expectation that outreach is an integral part, providing the administrative resources necessary to facilitate outreach.

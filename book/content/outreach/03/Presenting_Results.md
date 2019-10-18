@@ -1,10 +1,10 @@
 # Presenting Results
 
-<!-- TP: We need a consistent way to present the manifesto point at the top of each section. -->
-*We should present results accurately and responsibly to clearly convey research findings and avoid common misconceptions.*
+> We should present results accurately and responsibly to clearly convey research findings and avoid common misconceptions.
 
 <!-- CRS:Should we delete this ? -->
 <!-- TP: In reply to CRS, yes the plan will be deleted. -->
+<!-- crs: OK, delete it when you are ready TP -->
 
 > Plan:
 > * [x] Discuss the need to be careful on how to present results
@@ -33,9 +33,7 @@ There are two stages to consider when collating a research project for outreach:
 
 This chapter gives practical tips and guidelines on how to present results accurately and responsibly in order to clearly convey research findings and avoid common misconceptions or be taken out of context and overhyped.
 
-<!-- CRS: This section is broken into...? --> 
-
-The chapter is broken down into two themes:
+The section is broken down into two themes:
 
 * Presentation - How the research should be exhibited.
 * Precision - How the research is credible.
@@ -43,9 +41,6 @@ The chapter is broken down into two themes:
 ## Presentation
 
 There are a large variety of ways to present results for outreach, from powerpoint presentations, to posters, to interactive demos. Each of these have different appropriate audiences and some of them are not always suitable. It is up to you as the presenter to consider the different approaches of presenting and your audience. The practical tips outlined here are for you to consider, and to assist you in deciding how to best approach your outreach.
-
-<!-- CRS: Some will recomend to start your presentation showing them the "end" (the main message), and then 
-use the rest of the presentation to take the audience to that point...? --> 
 
 ### Practical Tips
 

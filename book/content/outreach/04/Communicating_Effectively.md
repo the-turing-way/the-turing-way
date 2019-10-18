@@ -1,19 +1,7 @@
 # Communicating Effectively
 
-<!-- TP: We need a consistent way to present the manifesto point at the top of each section. -->
-## We should communicate and coordinate effectively with different audiences in an accessible and diverse way: journalists, general public, industry, other data scientists.
+>  We should communicate and coordinate effectively with different audiences in an accessible and diverse way: journalists, general public, industry, other data scientists.
 
-<!-- CRS: I feel this section should go before presenting results, as is more general? -->
-
-<!-- TP: Should we have contents section within a page? Let's be consistent, either all have contents or none. -->
-### Contents:
-1. [Researcher vs. Journalist](#researcher-vs-journalist)
-
-2. [Oral Communication](#oral-communication)
-
-3. [Written Communication](#written-communication)
-
-4. [Visual Communication](#visual-communication)
 
 ## Researcher vs. Journalist
 
@@ -87,6 +75,7 @@ Figurative                                            Abstract
 At one end of the spectrum you have illustrations that are figurative and just meant to provide a picture of the content under question. As you move towards the abstract, you begin to get illustrations that are warped in ways to illustrate some principle to improve the understanding of the audience, but remain illustrations to varying degrees. Finally at the right you reach the full level of abstraction where you find quantitative data shown on a graph, removing any trace of the actual appearance of the object. In many cases, technical research (and certainly data science) will fall entirely on the abstract side of things, while a presentation to a different audience may require some movement towards the figurative end of the spectrum to give concrete understanding of what is being studied.
 
 <!-- TP: There are a few things in this section which overlap with Presenting Results section. Might be worth consolidating the 2? I tried to make Presenting Results as practical as I could, maybe we take all practical tips from this section and move it to Presenting Results but in a way that does not subtract from the core message being discussed here. i.e. separate the discussion and the practical tips. -->
+<!-- CRS: We will see what TW revewers say about this and acction accordingly.
 
 ## References
 

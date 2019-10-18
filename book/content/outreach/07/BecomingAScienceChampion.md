@@ -1,8 +1,6 @@
 # Becoming a science champion
 
-<!-- TP: I really like this section and how it reads. It sounds like a call to action for scientists. Should this be at the start of the chapter to get people enthusiastic before diving into practicalities? Just a thought. -->
 
-<!-- TP: We need a consistent way to present the manifesto point at the top of each section. -->
 > We should be advocates for general scientific literacy in our organisations and the public.
 
 The previous sections developed the main points of the manifesto and are an attempt to provide the best practices for 
@@ -84,7 +82,9 @@ a person that believes anti-vaccine propaganda, does not necessarily subscribes 
 hoax, they are not denying in all science, but just some part of it.   We must listen first to understand the mentality 
 behind the denial, and tailor our message accordingly. A popular technique from psychology that you could use can be 
 summarized under the acronym EGRIP (emotions, goals, rapport, information and positive reinforcement)[6], you can find a 
-detailed explanation in how to use it in here [7] <!-- TP: If referencing a specific article then make it a hyperlink, this is going to be consumed on the web and will make it easier for readers to view linked media. -->.
+detailed explanation in how to use it in here [7] 
+
+<!-- TP: If referencing a specific article then make it a hyperlink, this is going to be consumed on the web and will make it easier for readers to view linked media. -->.
 
 Finally, we must always remember that we are representing our institutions and science itself, and that engaging into 
 useless discussions with trolls, ridiculing 'non-believers' or struggling to communicate what we do in our jobs is not 
