@@ -6,7 +6,7 @@
 [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
 [![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
 
-The Turing Way is a lightly opinionated guide to reproducible data science.
+The Turing Way is a lightly opinionated guide to reproducible data science. You can read it here: https://the-turing-way.netlify.com. This is the GitHub repository where all of the bits that make up the guide live, and where the process of writing/building the guide happens.
 
 Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end.
 
@@ -14,6 +14,7 @@ This also means making sure PhD students, postdocs, PIs and funding teams know w
 
 Table of contents:
 * [About the project](#about-the-project)
+* [The team](#the-team)
 * [Contributing](#contributing)
 * [Get in touch](#get-in-touch)
 * [Contributors](#contributors)
@@ -31,7 +32,7 @@ This project is openly developed and any and all questions, comments and recomme
 
 ### The team
 
-This is the (part of) the project team planning work at the Turing Institute. For more on how to contact us, see the [ways of working document](ways_of_working.md).
+This is (part of) the project team planning work at the Turing Institute. For more on how to contact us, see the [ways of working document](ways_of_working.md).
 
 ![Team photo](book/content/figures/TuringWayTeam.jpg)
 
