@@ -59,6 +59,29 @@
     url: open_research/07/resources
 - title: Version Control
   url: version_control/version_control
+  sections:
+  - title: Version control: What it is and how it can be used to manage an evolving project
+    url: version_control/01/whatisversioncontrol
+  - title: Getting started
+    url: version_control/02/gettingstarted
+  - title: Commits
+    url: version_control/03/commits
+  - title: Commit messages
+    url: version_control/04/commitmessages
+  - title: Comparing versions
+    url: version_control/05/comparingversions
+  - title: Branches
+    url: version_control/06/branches
+  - title: Merging
+    url: version_control/07/merging
+  - title: Merge conflicts
+    url: version_control/08/mergeconflicts
+  - title: Github
+    url: version_control/09/github
+  - title: Summary of key Git commands
+    url: version_control/10/githubcommands
+  - title: Resources
+    url: version_control/11/resources
 - title: Collaborating on GitHub/GitLab
   url: collaborating_github/collaborating_github
   sections:
