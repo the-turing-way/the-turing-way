@@ -16,6 +16,7 @@
 | eyeball_test_2             | Testing                   | Results tested by seeing if they 'look right'     |
 | eyeball_test_3             | Testing                   | Results tested by seeing if they 'look right'     |
 | eyeball_test_error         | Testing                   | Bug detected by result 'looking wrong'            |
+| figurative_vs_abstract     | Outreach                  | Schematic showing types of scientific illustrations |
 | flipped_taj_mahal          | Version control           | Upside down taj mahal to confuse people           |
 | master_branch              | Version control           | Illustrates commits on master branch              |
 | mybinder_gen_link          | Reproducible environments | What the page to generate binder links looks like |

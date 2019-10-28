@@ -52,7 +52,7 @@ Many of the same questions you should ask yourself to distill your message descr
 
 However, in some cases writing allows for more details to be transmitted than in short oral presentations -- for instance, press releases often have space for more details than a short oral interview, and so you will need to think about whether or not specific details are relevant given the amount of space involved. Therefore, you may need to revisit the questions above multiple times to ensure that the correct level of detail is given for a particular audience and the length of the document.
 
-As with oral communication, feedback and revision based on presenting to a member of the target audience is essential. Good writers go through multiple drafts and make extensive edits, and specific comments from the type of person that you are attemptint go reach can go a long way to ensuring that the right level of detail is provided and the motivating factors align with the interests and values of the audience.
+As with oral communication, feedback and revision based on presenting to a member of the target audience is essential. Good writers go through multiple drafts and make extensive edits, and specific comments from the type of person that you are attempting to reach can go a long way to ensuring that the right level of detail is provided and the motivating factors align with the interests and values of the audience.
 
 ## Visual Communication
 
@@ -64,18 +64,13 @@ As with the discussion above, once the audience has been defined and the message
 
 There are a range of ways to illustrate information visually. One idea of how to arrange this is from Scientific American Art Director Jen Christensen [4]:
 
-<!-- CRS: This figure doesn't show properly in the document -->
-<!-- TP: Make this a picture instead and embed it. -->
-
-Representative           Illustrated                      Data
-Illustrations             Diagrams              Visualisations
-|------------------------------------------------------------|
-Figurative                                            Abstract
+![figurative_vs_abstract](/assets/figures/figurative_vs_abstract.png)
 
 At one end of the spectrum you have illustrations that are figurative and just meant to provide a picture of the content under question. As you move towards the abstract, you begin to get illustrations that are warped in ways to illustrate some principle to improve the understanding of the audience, but remain illustrations to varying degrees. Finally at the right you reach the full level of abstraction where you find quantitative data shown on a graph, removing any trace of the actual appearance of the object. In many cases, technical research (and certainly data science) will fall entirely on the abstract side of things, while a presentation to a different audience may require some movement towards the figurative end of the spectrum to give concrete understanding of what is being studied.
 
 <!-- TP: There are a few things in this section which overlap with Presenting Results section. Might be worth consolidating the 2? I tried to make Presenting Results as practical as I could, maybe we take all practical tips from this section and move it to Presenting Results but in a way that does not subtract from the core message being discussed here. i.e. separate the discussion and the practical tips. -->
-<!-- CRS: We will see what TW revewers say about this and acction accordingly.
+<!-- CRS: We will see what TW revewers say about this and acction accordingly. -->
+<!-- ED: Happy to move pieces of this elsewhere. Tim's section isn't quite fully done at the moment, so he should feel free to move pieces of this as he thinks is appropriate as he finishes writing his. I am leaving as is for the moment, but can revisit this later if need be. -->
 
 ## References
 
