@@ -60,7 +60,7 @@
 - title: Version Control
   url: version_control/version_control
   sections:
-  - title: Version control: What it is and how it can be used to manage an evolving project
+  - title: What it is and how it can be used to manage an evolving project
     url: version_control/01/whatisversioncontrol
   - title: Getting started
     url: version_control/02/gettingstarted
