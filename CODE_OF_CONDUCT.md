@@ -1,6 +1,6 @@
 # Code of Conduct
 
-We value the participation of every member of our community and want to ensure an that every contributor has an enjoyable and fulfilling experience.
+We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
 Accordingly, everyone who participates in the Turing Way project is expected to show respect and courtesy to other community members at all times.
 
 Kirstie Whitaker, as PI of this project, and all project members, are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. **We do not tolerate harassment by and/or of members of our community in any form**.
@@ -147,7 +147,7 @@ In situations where an individual community member acts unilaterally, they must 
 
 ### 4.3 Less-Urgent Situations
 
-Upon receiving a report of an incident, the CoC committee will review the incident and determine, to the best of her ability:
+Upon receiving a report of an incident, the CoC committee will review the incident and determine, to the best of their ability:
 
 - whether this is an ongoing situation
 - whether there is a threat to anyone's physical safety

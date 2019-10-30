@@ -61,17 +61,52 @@
   url: version_control/version_control
 - title: Collaborating on GitHub/GitLab
   url: collaborating_github/collaborating_github
+  sections:
+  - title: README and Project Communication
+    url: collaborating_github/1/readme_communication
+  - title: Roadmapping
+    url: collaborating_github/2/roadmapping
+  - title: Getting Contributors
+    url: collaborating_github/3/getting_contributors
+  - title: Checklist and Bibliography
+    url: collaborating_github/4/checklist_bibliography
 - title: Credit for reproducible research
   url: credit/credit
 - title: Research Data Management
   url: rdm/rdm
 - title: Reproducible Environments
   url: reproducible_environments/reproducible_environments
+  sections:
+  - title: Choosing a tool
+    url: reproducible_environments/01/options
+  - title: Conda
+    url: reproducible_environments/02/package-management
+  - title: YAML
+    url: reproducible_environments/03/yaml
+  - title: Binder
+    url: reproducible_environments/04/binder
+  - title: Virtual machines
+    url: reproducible_environments/05/virtual-machines
+  - title: Containers
+    url: reproducible_environments/06/containers
+  - title: Checklist
+    url: reproducible_environments/07/checklist
+  - title: Resources
+    url: reproducible_environments/08/resources
 - title: Testing
   url: testing/testing
 - title: Reviewing
   url: reviewing/reviewing
-- title: Continous Integration
+  sections:
+  - title: How this will help you and why this is useful
+    url: reviewing/01/how_helpful
+  - title: Best Practice
+    url: reviewing/02/best_practice
+  - title: Typical Workflows
+    url: reviewing/03/typical_workflows
+  - title: Checklists, what to learn next and bibliography
+    url: reviewing/04/checklists_bib
+- title: Continuous Integration
   url: continuous_integration/continuous_integration
 - title: Reproducible Research with Make
   url: make/make
@@ -82,3 +117,7 @@
     url: risk_assessment/01/longreadriskassessment
   - title: Summary
     url: risk_assessment/02/finalsummary
+- title: BinderHub
+  url: binderhub/binderhub
+- title: Glossary
+  url: glossary/glossary

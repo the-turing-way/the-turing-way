@@ -10,7 +10,7 @@ Everything else is in the `website/`. Importantly this includes the figures, whi
 - Same applies for more general configuration using `website/_config.yml`
 
 ### Deploying
-The site is built automatically using these two directories. All of the requirements are specificied in `website/requirements.txt`. 
+The site is built automatically using these two directories. All of the requirements are specificied in `website/requirements.txt`.
 
 #### Locally (Mac / Linux Only)
 To install jupyter-book etc.
@@ -19,7 +19,36 @@ cd book/website
 pip install -r requirements.txt
 ```
 
-If you want to see your local changes on your own computer you'll have to go in the website directory and enter `make serve` (type `make` on its own to see the other options).
+<details>
+    <summary>Installing Dependencies in  a  virtualenv </summary>
+Virtual environments are a great way of isolating project-related dependencies
+from you system-level python installation.
+For more details on virtual environments in python see
+[here](https://docs.python.org/3/tutorial/venv.html).
+To use a virtual environment for building the book project, use
+```
+cd book/website
+virtualenv the-turing-way
+source the-turing-way/bin/activate
+pip install -r requirements.txt
+```
+In case you want to use a specific python interpreter, specify the path as
+```
+virtualenv -p /usr/bin/python3.7 the-turing-way
+```
+</details>
+
+You will also need to make sure that ruby is
+[installed](https://www.ruby-lang.org/en/documentation/installation/).
+Finally run 
+```
+make install
+```
+and you are ready to build \& preview the book.
+
+If you want to see your local changes on your own computer you'll have to go in
+the website directory and enter `make serve`
+(type `make` on its own to see the other options).
 ```
 cd book/website
 make site && make serve
