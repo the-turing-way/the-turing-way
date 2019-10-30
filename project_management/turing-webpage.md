@@ -6,7 +6,7 @@ Developing a handbook for best practice in academic data science
 
 Reproducible research is work that can be independently verified.
 In practice, it means sharing the data and code that were used to generate published results - yet this is often easier said than done.
-'The Turing Way' is a guide to reproducible data science that will support students and academics as they develop their code, with the aim of helping them produce work that will be regarded as gold-standard examples of trustworthy and reusable research.
+The Turing Way is a guide to reproducible data science that will support students and academics as they develop their code, with the aim of helping them produce work that will be regarded as gold-standard examples of trustworthy and reusable research.
 
 ## Project aims
 
@@ -15,12 +15,12 @@ For this to happen, the data and code that support the publication need to be ma
 
 Sharing these research outputs means understanding data management, library sciences, software development and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists.
 
-'The Turing Way' is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is 'too easy not to do'.
+The Turing Way is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do".
 It will include training material on version control, analysis testing and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
 
 ## Applications
 
-'The Turing Way' will support everybody involved in data science research: the developers of the code (research engineers, postdocs and doctoral students), their supervisors and the business team members who coordinate these projects.
+The Turing Way will support everybody involved in data science research: the developers of the code (research engineers, postdocs and doctoral students), their supervisors and the business team members who coordinate these projects.
 The format will be easy for the reader to dip in and out of, depending on their level of experience in the various topics.
 The project will help to answer questions that researchers don't always ask: "How do I ensure that my code's existing functionality doesn't change as I extend the codebase?", "How do I make my project easy for someone else to run?", and many more.
 
