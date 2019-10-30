@@ -73,16 +73,10 @@ Becky Arnold gives an overview of the Turing Way as the project gets started.
 Our newsletters are published monthly and provide the latest details on the Turing Way project and associated events.
 Sign up [here](https://tinyletter.com/TuringWay).
 
-[October 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_07_Oct2019.md): Introducing Malvika Sharan (Community Manager) and updates from the Collaboration Cafes and conferences
-
-[September 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_06_Sept2019.md): New funding and Collaboration Cafes
-
-[May 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_05_May2019.md): Reports from the Manchester and London book dashes and illustrations
-
-[April 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_04_Apr2019.md): Book launch at the SSI Collaborations Workshop and book dash announcements
-
-[March 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_03_Mar2019.md): Binder workshop feedback
-
-[February 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_02_Feb2019.md): Binder workshop announcements and three finished chapters
-
+[October 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_07_Oct2019.md): Introducing Malvika Sharan (Community Manager) and updates from the Collaboration Cafes and conferences  
+[September 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_06_Sept2019.md): New funding and Collaboration Cafes  
+[May 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_05_May2019.md): Reports from the Manchester and London book dashes and illustrations  
+[April 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_04_Apr2019.md): Book launch at the SSI Collaborations Workshop and book dash announcements  
+[March 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_03_Mar2019.md): Binder workshop feedback  
+[February 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_02_Feb2019.md): Binder workshop announcements and three finished chapters  
 [January 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_01_Jan2019.md): Project announcement
