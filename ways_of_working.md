@@ -3,20 +3,23 @@
 This documents outlines expectations and responsibilities of project members and contributors of the Turing Way project with regards to working on the project.
 
 ## Project team
-|Name | Role | % working on the project | Time period allocated to the project|
+
+| Name | Role | % working on the project | Time period allocated to the project |
 |---|---|---|---|
-| Kirstie Whitaker| PI  |   |   |
-| Becky Arnold| Research Software Engineer |100% | Dec 2018 - Mar 2019 |
-| Sarah Gibson | Research Data Scientist | 40% | Nov 2018 - Mar 2019 |
+| Kirstie Whitaker | PI |   |   |
+| Malvika Sharan | Community manager | 100% | Jan 2020 - May 2021 |
+| Rachael Ainsworth | Research Associate | 100% | Apr 2019 - May 2019 |
+| Rosie Higman | Research Data Librarian | 20% | Jan 2019 - Mar 2019 |
+| Becky Arnold | Research Software Engineer | 100% | Dec 2018 - Mar 2019 |
 | Louise Bowler | Research Data Scientist | 40% | Nov 2018 - Mar 2019 |
+| Sarah Gibson | Research Data Scientist | 40% | Nov 2018 - Mar 2019 |
 | Patricia Herterich | Data Librarian | 40% | Nov 2018 - Mar 2019 |
-| Rosie Higman | Research Data Librarian | 20% | Jan - Mar 2019 |
 | Anna Krystalli | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
 | Alex Morley | Mozilla Fellow | not paid by project |  Nov 2018 - June 2019  |
 | Martin O'Reilly | Principal Research Software Engineer | 10% | Nov 2018 - Mar 2019 |
-| Rachael Ainsworth | Research Associate | 100% | Apr 2019 - May 2019 |
 
 ## Communication
+
 We're always around for a chat in our public Gitter channel: https://gitter.im/alan-turing-institute/the-turing-way
 
 In addition, you can reach the team members through their preferred way of communication:
