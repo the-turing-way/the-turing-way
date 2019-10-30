@@ -30,51 +30,48 @@ A chapter on Binder will be of interest to supervisors who want to regularly rev
 
 ## Recent updates
 
-### April 2019
+### The Turing Way as a Jupyter Book
 
-#### Book dash announcement
+You can now read the Turing Way as a Jupyter Book!
+This format lets us offer interactive samples of code alongside the rest of the book's content and presents the book in an easy-to-read format.
+You can read the latest version [here](https://the-turing-way.netlify.com) and can suggest and make contributions through our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way).
 
-The Turing Way team are excited to announce our two Book Dashes, which take place in May.
-If you have a chapter idea that’s waiting to be written, case studies that you’d like to share, or have science communication skills that you’d like to use to improve our existing content, [fill in an application](https://docs.google.com/forms/d/e/1FAIpQLSd-HTay3kRowSAPIqslSIeDXpvFWptOjmO9m1uEcUf0YElcqw/viewform?fbzx=2301958820436580386) to join us for a day of collaborative writing.
+### Binder
 
-Each of our book dashes will begin with dinner and lightning talks in the evening, and we’ll get off to an early start on the second day by splitting into teams and working on our chosen aspects of the book.
+The Turing Way has close links with Binder, a project that lets users create reproducible and sharable computational environments via simple configuration files.
+Following her contributions to Binder and BinderHub, Turing Way core team member Sarah Gibson has become a [maintainer](https://jupyterhub-team-compass.readthedocs.io/en/latest/team.html#binder-team) for the BinderHub project and the public instance of Binder, [mybinder.org](https://mybinder.org/).
 
-University of Manchester: 6:30pm Thursday 16th - 5pm Friday 17th May
-The Alan Turing Institute: 6:30pm Monday 27th - 5pm Tuesday 28th May
+The Turing Way held three workshops in early 2019.
 
-The deadline for applications is Friday 19th April, and we’ll get back to you with our decisions by Friday 26th April.
+The two _Boost your research reproducibility with Binder_ workshops demonstrated the importance of reproducible computational environments and helped participants to create their own Binder-ready projects.
+Everyone who attended said they felt confident using Binder to share their work reproducibly!
 
-#### SSI Collaborations Workshop
+The _Build a BinderHub_ workshop led participants through the steps to deploying their own BinderHub on Microsoft Azure.
+Sarah held a repeat edition of the _Build a BinderHub_ workshop at the 2019 Conference of Research Software Engineering, where she was also on the panel for _RSE Worldwide: Sharing across borders_.
 
-The Software Sustainability Institute's Collaborations Workshop was a busy time for members of the Turing Way team. Patricia Herterich's talk "Interoperable as in FAIR – A librarian’s personal point of view" and Kirstie Whitaker's mini-workshop on the Turing Way linked in with the first and last of this year's conference themes of Interoperability, Documentation and Training.
+Materials for the [_Boost your research reproducibility with Binder_](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder) and [_Build a BinderHub_](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/build-a-binderhub) tutorials can be found in our GitHub repository.
 
-We had two Turing Way-focussed teams at the hackday – thank you to everyone who contributed towards the book and the checklists!
+### Community events
 
-### March 2019
+Two successful Book Dashes, held in [Manchester](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-mcr-report.md) and [London](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-ldn-report.md) in May 2019, led to many contributions: new chapters, improvements to existing chapters, streamlining the path for new contributors and a host of [beautiful illustrations](https://zenodo.org/record/3332808).
 
-We ran three successful workshops in March – many thanks to those who attended!
+The Turing Way team regularly hold Collaboration Cafes on the first and third Wednesdays of each month.
+These events are places to come together (online) to work on contributions to the Turing Way.
+The times of the events vary to suit contributors from across the world - you can see the upcoming schedule and details of how to join [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md).
 
-#### Boost your research reproducibility with Binder
+### Blog posts
 
-Our two workshops to [boost research reproducibility with Binder](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder) in Manchester and London were attended by 30 people.
-We had a great mix of presentations and hands-on exercises and our feedback was really positive.
-Every attendee said they felt confident using Binder to share their work reproducibly!
+October 2019: [_Diving into leadership to build push-button code_](https://www.turing.ac.uk/research/research-programmes/research-engineering/programme-articles/diving-leadership-build-push-button-code)  
+Sarah Gibson writes about the experience of leading her first hackathon team as they work on push-button deployment for BinderHub.
 
-#### Build a BinderHub
+March 2019: [_The Turing Way: An open source resource promoting best practice for reproducible research_](https://www.software.ac.uk/blog/2019-03-05-turing-way-open-source-resource-promoting-best-practice-reproducible-research)  
+Becky Arnold gives an overview of the Turing Way as the project gets started.
 
-We hosted the first ever [Build a BinderHub](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/build-a-binderhub) workshop in Sheffield on 18 March 2019.
-In addition to learning how to build a BinderHub (and having the most BinderHubs ever in existence in parallel!), participants were introduced to [Mozilla's principles of working openly](http://mozillascience.github.io/working-open-workshop/).
-They practically applied the principles and fed back ideas for new features to the Binder community or enhanced the existing documentation.
 
-#### Blog post
+### Newsletters
 
-A [blog post](https://www.software.ac.uk/blog/2019-03-05-turing-way-open-source-resource-promoting-best-practice-reproducible-research) about the Turing Way by Becky Arnold, Turing Way team member and SSI Fellow, has been published on the SSI blog.
-
-### February 2019
-
-Three chapters - reproducibility, open research and version control - are complete and ready for your comments.
-
-### Past newsletters
+Our newsletters are published monthly and provide the latest details on the Turing Way project and associated events.
+Sign up [here](https://tinyletter.com/TuringWay).
 
 [October 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_07_Oct2019.md): Introducing Malvika Sharan (Community Manager) and updates from the Collaboration Cafes and conferences
 
