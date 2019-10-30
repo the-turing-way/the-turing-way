@@ -62,7 +62,7 @@ Every attendee said they felt confident using Binder to share their work reprodu
 
 #### Build a BinderHub
 
-We hosted the first ever [Build a BinderHub](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder) workshop in Sheffield on 18 March 2019.
+We hosted the first ever [Build a BinderHub](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/build-a-binderhub) workshop in Sheffield on 18 March 2019.
 In addition to learning how to build a BinderHub (and having the most BinderHubs ever in existence in parallel!), participants were introduced to [Mozilla's principles of working openly](http://mozillascience.github.io/working-open-workshop/).
 They practically applied the principles and fed back ideas for new features to the Binder community or enhanced the existing documentation.
 
@@ -76,7 +76,7 @@ Three chapters - reproducibility, open research and version control - are comple
 
 ### Past newsletters
 
-[April 2019](https://www.software.ac.uk/blog/2019-03-05-turing-way-open-source-resource-promoting-best-practice-reproducible-research): Book launch at the SSI Collaborations Workshop and book dash announcements
+[April 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_04_Apr2019.md): Book launch at the SSI Collaborations Workshop and book dash announcements
 
 [March 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_03_Mar2019.md): Binder workshop feedback
 
