@@ -17,7 +17,7 @@ This documents outlines expectations and responsibilities of project members and
 | Rachael Ainsworth | Research Associate | 100% | Apr 2019 - May 2019 |
 
 ## Communication
-We're always around for a chat in our public gitter channel: https://gitter.im/WhitakerLab/the-turing-way
+We're always around for a chat in our public gitter channel: https://gitter.im/alan-turing-institute/the-turing-way
 
 In addition, you can reach the team members through their preferred way of communication:
 - Kirstie Whitaker: Mention me on a Github issue or pull request ([@KirstieJane](https://github.com/KirstieJane)), or tag me in [Gitter](https://gitter.im/alan-turing-institute/the-turing-way), @KirstieJane. Don't be afraid to nudge if I've not replied after a day or two! :sparkling_heart:
