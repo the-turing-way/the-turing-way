@@ -32,7 +32,7 @@ In addition, you can reach the team members through their preferred way of commu
 - Rachael Ainsworth: Mention me on a Github issue or pull request ([@rainsworth](https://github.com/rainsworth)), ping me on Twitter [@rachaelevelyn](https://twitter.com/rachaelevelyn), or email me at [rachael.ainsworth@manchester.ac.uk](mailto:rachael.ainsworth@manchester.ac.uk).
 
 As most team members do not work full time on the Turing Way, it might take some time until your query or contribution is addressed - especially if expert knowledge is needed.
-The core project team will have weekly update meetings on Wednesdays from 2-4 pm either on slack or as videocalls on zoom.
+You can join members of the core team and the wider Turing Way community at our twice-monthly [Collaboration Cafes](project_management/online-collaboration-cafe.md), which are great places to discuss ideas for new contributions and to get started with making them :rocket:
 
 ## Project management
 ### Issues
