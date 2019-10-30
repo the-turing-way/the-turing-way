@@ -58,7 +58,7 @@ We ran three successful workshops in March – many thanks to those who attended
 
 Our two workshops to [boost research reproducibility with Binder](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder) in Manchester and London were attended by 30 people.
 We had a great mix of presentations and hands-on exercises and our feedback was really positive.
-Every attendee said they felt confident using Binder to share their work reproducibily!
+Every attendee said they felt confident using Binder to share their work reproducibly!
 
 #### Build a BinderHub
 
