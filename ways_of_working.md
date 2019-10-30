@@ -13,11 +13,11 @@ This documents outlines expectations and responsibilities of project members and
 | Rosie Higman | Research Data Librarian | 20% | Jan - Mar 2019 |
 | Anna Krystalli | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
 | Alex Morley | Mozilla Fellow | not paid by project |  Nov 2018 - June 2019  |
-| Martin O'Reilly | Principal Research Software Engineer | 10 % | Nov 2018 - Mar 2019 |
+| Martin O'Reilly | Principal Research Software Engineer | 10% | Nov 2018 - Mar 2019 |
 | Rachael Ainsworth | Research Associate | 100% | Apr 2019 - May 2019 |
 
 ## Communication
-We're always around for a chat in our public gitter channel: https://gitter.im/alan-turing-institute/the-turing-way
+We're always around for a chat in our public Gitter channel: https://gitter.im/alan-turing-institute/the-turing-way
 
 In addition, you can reach the team members through their preferred way of communication:
 - Kirstie Whitaker: Mention me on a Github issue or pull request ([@KirstieJane](https://github.com/KirstieJane)), or tag me in [Gitter](https://gitter.im/alan-turing-institute/the-turing-way), @KirstieJane. Don't be afraid to nudge if I've not replied after a day or two! :sparkling_heart:
@@ -36,7 +36,7 @@ The core project team will have weekly update meetings on Wednesdays from 2-4 pm
 
 ## Project management
 ### Issues
-- Once completed, issues should be closed immediately. By adding closes #issue or [something similar](https://help.github.com/articles/closing-issues-using-keywords/) in a comment on a pull request, merging the pull request will close the issue automatically.
+- Once completed, issues should be closed immediately. By adding "closes #issue" or [something similar](https://help.github.com/articles/closing-issues-using-keywords/) in a comment on a pull request, merging the pull request will close the issue automatically.
 - The team will have a weekly catch up to go triage on open issues, update the project board and agree on priorities for the next week.
 
 ### Pull requests
