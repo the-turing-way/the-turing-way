@@ -5,3 +5,6 @@
 book/website/Pipfile
 
 book/website/Pipfile\.lock
+
+*.pdf
+
