@@ -30,6 +30,11 @@ There are a large variety of ways to present results for outreach, from powerpoi
 
 ### Practical Tips
 
+<!-- Need to check the grammar rules re: take away, take-away, takeaway-->
+* Know your main take away
+
+  When starting to prepare some research or a project for outreach, start by thinking about your main take away. This should be 1 or 2 sentences that you want your audience to leave knowing and understanding. This is your starting point.
+
 * Bookend your presentation
   
   Start and finish with the same conclusion, this re-enforces your main point and allows for early leavers, late arrivals, and distracted people to understand your presentation. Always remember:
@@ -37,62 +42,14 @@ There are a large variety of ways to present results for outreach, from powerpoi
   * Tell them.
   * Tell them what you told them.
 
-* Know your audience
-
-  * Avoid using domain specific jargon and acronyms. These alienate your audience and create an atmosphere of superiority around the presenter. Contrary to this, a room full of experts aren't going to be interested in being taught the basics.
-  * You should also consider the age of your audience and what is important in their life. Children aren't going to be enthralled by how a machine learning implementation could save money on household bills, but will be captivated by literally anything involving dinosaurs.
-
 * Tell a story
 
   Nobody wants to be bored and everything has a story. To get the most impact your presentation needs to be memorable to be able to retold again and again without being distorted. Building the research into a story helps this to happen. Some might think that research is a serious business and results should be treated with gravitas that a story cannot deliver. However, all that we do is a story, it is a story of a team of researchers, who are driven by a specific motivation, who apply a series of intricate methods or conduct a set of experiments, who make observations and interpretations all in the search of new knowledge. This is the story you want to tell. This gives weight to the knowledge you are imparting, it gives reason for the knowledge to exist, and it gives authenticity that proper due process was taken to deliver the research.
 
-<!-- Need to check the grammar rules re: take away, take-away, takeaway-->
-* Know your main take away
+* Know your audience
 
-  When starting to prepare some research or a project for outreach, start by thinking about your main take away. This should be 1 or 2 sentences that you want your audience to leave knowing and understanding. This is your starting point.
-
-* Use a wide range of formats
-
-  Even the most interesting person can't make a "death by powerpoint" presentation exciting. Avoid becoming monotonous by varying how you are presenting. Consider using:
-
-  * Images
-    * Jokes and memes are a good way to engage the audience as well as giving information
-    * Remember a picture can portray a lot more than words can
-  * Graphs
-    * Using graphs to portray information can be very powerful, but you must be careful. Changing a graph or combining graphs which are unrelated for ease of reading can easily be misunderstood.
-  * Animations
-    * Animations are a great way to explain complicated concepts that can't be replicated at a human scale, e.g. molecular science or cosmology.
-  * Video
-    * Has an expert in the field recently discussed the concept you are talking about, or discussed an application you are presenting?s Consider using short video clips to give supporting evidence.
-    * Be cautious of the distribution and licensing of any videos you do use.
-  * Audio
-    * Audio can give weight to an otherwise silent video or animation. Use it to guide the audience's emotion.
-      * For example: imagine seeing a video of a supernova explosion. In reality an observer would not hear any noise as sound does not travel in space, but how much more effective will the video be at portraying the size and power of a supernova explosion with a well designed audio track.
-
-* Consider multiple delivery methods
-
-  Listed here is a non-exhaustive selection of delivery methods with some thoughts on each. The delivery method will change drastically depending on your audience, the message you wish to deliver, and the available media formats.
-
-  * White paper
-    * Very formal, lots of place for detail, primarily researcher to researcher.
-    * More of an interest in technical results and methodology.
-  * Traditional media articles (magazines and newspapers)
-    * Much more public consumption. Large, wide audience where less context can be assumed.
-    * Interest is going to be in impact rather instead of results.
-  * Social media
-    * Needs to be very short but can have the widest reach. Contains the least amount of content and context. Generally only good for headlines. Include links to more detail.
-    * This can be a good way to have communication with people directly. Chance to develop a discussion but also can encounter trolls.
-  * Personal blogs
-    * Generally not a wide reach but can have a good reception to your local community.
-    * Good place for items that don't naturally fit in anywhere else (i.e. personal projects).
-  * Institutional blogs
-    * Potential for a wide reach and lead to talks or funding opportunities. The audience will more likely have domain specific knowledge.
-
-* Encourage audience interaction
-  
-  It is often very hard to encompass all the work and research you are trying to present, and audience members may be left with questions at the end of your presentation. It is also common for presentations to be followed by a Q&A session. Traditionally, this would mean a hands up or come to the front of the auditorium situation. However, this classical approach does not encourage inclusivity and diversity.
-  
-  A solution to this is to use online Q&A toolkits such as [sli.do](https://www.sli.do), where audience members can ask questions, vote in polls, and be part of the discussion without having to race to a microphone or be left to random chance of being picked with their hand up. This type of tool creates a more inclusive environment, people are less afraid of asking questions, and it generates a more diverse and relevant pool of questions. It also encourages discussion to be continued past your presenting time slot as you can continue to answer questions through a web interface.
+  * Avoid using domain specific jargon and acronyms. These alienate your audience and create an atmosphere of superiority around the presenter. Contrary to this, a room full of experts aren't going to be interested in being taught the basics.
+  * You should also consider the age of your audience and what is important in their life. Children aren't going to be enthralled by how a machine learning implementation could save money on household bills, but will be captivated by literally anything involving dinosaurs.
 
 * Cater to different types of learners
 
@@ -113,6 +70,49 @@ There are a large variety of ways to present results for outreach, from powerpoi
   * Kinesthetic Learners
 
     A hands-on approach will help kinesthetic learners understand the research you are presenting. This may not always be practical depending on logistics and location, but getting kinesthetic learners moving and interacting with a demo will enhance their learning experience of your presentation. If there's anything you can have passed around the audience to illustrate a point, this is an excellent opportunity to cater to these learners.
+
+* Encourage audience interaction
+  
+  It is often very hard to encompass all the work and research you are trying to present, and audience members may be left with questions at the end of your presentation. It is also common for presentations to be followed by a Q&A session. Traditionally, this would mean a hands up or come to the front of the auditorium situation. However, this classical approach does not encourage inclusivity and diversity.
+  
+  A solution to this is to use online Q&A toolkits such as [sli.do](https://www.sli.do), where audience members can ask questions, vote in polls, and be part of the discussion without having to race to a microphone or be left to random chance of being picked with their hand up. This type of tool creates a more inclusive environment, people are less afraid of asking questions, and it generates a more diverse and relevant pool of questions. It also encourages discussion to be continued past your presenting time slot as you can continue to answer questions through a web interface.
+
+* Consider multiple delivery methods
+
+  Listed here is a non-exhaustive selection of delivery methods with some thoughts on each. The delivery method will change drastically depending on your audience, the message you wish to deliver, and the available media formats.
+
+  * White paper
+    * Very formal, lots of place for detail, primarily researcher to researcher.
+    * More of an interest in technical results and methodology.
+  * Traditional media articles (magazines and newspapers)
+    * Much more public consumption. Large, wide audience where less context can be assumed.
+    * Interest is going to be in impact rather instead of results.
+  * Social media
+    * Needs to be very short but can have the widest reach. Contains the least amount of content and context. Generally only good for headlines. Include links to more detail.
+    * This can be a good way to have communication with people directly. Chance to develop a discussion but also can encounter trolls.
+  * Personal blogs
+    * Generally not a wide reach but can have a good reception to your local community.
+    * Good place for items that don't naturally fit in anywhere else (i.e. personal projects).
+  * Institutional blogs
+    * Potential for a wide reach and lead to talks or funding opportunities. The audience will more likely have domain specific knowledge.
+
+* Use a wide range of formats
+
+  Even the most interesting person can't make a "death by powerpoint" presentation exciting. Avoid becoming monotonous by varying how you are presenting. Consider using:
+
+  * Images
+    * Jokes and memes are a good way to engage the audience as well as giving information
+    * Remember a picture can portray a lot more than words can
+  * Graphs
+    * Using graphs to portray information can be very powerful, but you must be careful. Changing a graph or combining graphs which are unrelated for ease of reading can easily be misunderstood.
+  * Animations
+    * Animations are a great way to explain complicated concepts that can't be replicated at a human scale, e.g. molecular science or cosmology.
+  * Video
+    * Has an expert in the field recently discussed the concept you are talking about, or discussed an application you are presenting?s Consider using short video clips to give supporting evidence.
+    * Be cautious of the distribution and licensing of any videos you do use.
+  * Audio
+    * Audio can give weight to an otherwise silent video or animation. Use it to guide the audience's emotion.
+      * For example: imagine seeing a video of a supernova explosion. In reality an observer would not hear any noise as sound does not travel in space, but how much more effective will the video be at portraying the size and power of a supernova explosion with a well designed audio track.
 
 * Practice makes perfect
 
