@@ -61,7 +61,7 @@ You can see all of our incredible contributors in our [README](https://github.co
 
 ![Grid of pictures and names of project contributors](../figures/contributors-twopanel.png)
 
-### Citing _The Turing Way_
+## Citing _The Turing Way_
 
 You can reference _The Turing Way_ through the project's Zenodo archive using doi: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
 
