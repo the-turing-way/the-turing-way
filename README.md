@@ -20,6 +20,9 @@ Table of contents:
 * [Get in touch](#get-in-touch)
 * [Contributors](#contributors)
 
+🎧 If you prefer an audio introduction to the project, our team member Rachael presented at the [Open Science Fair 2019](https://www.opensciencefair.eu/) in Porto and her demo was recorded by the [Orion podcast](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/). 
+_The Turing Way_ overview starts at minute 5:13.
+
 ### About the project
 
 Reproducible research is necessary to ensure that scientific work can be trusted.
