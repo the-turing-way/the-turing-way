@@ -77,7 +77,9 @@ Since you'll be establishing these links early on, you're unlikely to have a big
 Once you've reached out, it's time to start developing the relationship. Look for opportunities to discuss your work, it can be surprisingly easy to build up some interest. At the same time, get involved with communication on a broader scale. Go to events outside your immediate field, more broader science conferences, networking events, and offer to speak at or get involved in Science Communication & Journalist postgraduate studies - they may be the people who will be your future contacts.
 
 #### 2.3 Tailor your interactions
-We've covered this topic in a lot more detail in the section on [Communicating Effectively](#Communicating-Effectively), so we will only quickly summarise here. Keep in mind the nature of your collaborators' work. How much prep time do they need to produce their content? How much time do they typically have available? In which format(s) do they usually work? What nature of content is best suited to their audience? Where possible, tailor your interactions to take these considerations into account.
+We've covered this topic in a lot more detail in the section on 
+[Communicating Effectively](#Communicating-Effectively)
+, so we will only quickly summarise here. Keep in mind the nature of your collaborators' work. How much prep time do they need to produce their content? How much time do they typically have available? In which format(s) do they usually work? What nature of content is best suited to their audience? Where possible, tailor your interactions to take these considerations into account.
 <!---BM: Does linking in this manner work?--->
 
 #### 2.4 Be prepared to learn
@@ -123,6 +125,8 @@ Note that while we have included a specific examples of individual communicators
         - [Ignite](https://igniteliverpool.com/)
     - [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
     - [PubHD](https://pubhd.wordpress.com/)
+- Further Help and Guidance
+    - [The Science Media Centre](https://www.sciencemediacentre.org/)
     
 ## References and Further Reading
 
@@ -133,8 +137,3 @@ Note that while we have included a specific examples of individual communicators
 [3] Hoskins, S. G. "How I learned to teach like a scientist" [https://www.sciencemag.org/careers/2019/06/how-i-learned-teach-scientist](https://www.sciencemag.org/careers/2019/06/how-i-learned-teach-scientist)
 
 [4] Ahmed, I. et. al. "Assessment of publication bias, selection bias, and unavailable data in meta-analyses using individual participant data: a database survey" BMJ 2012;344:d7762 [https://doi.org/10.1136/bmj.d7762 ](https://doi.org/10.1136/bmj.d7762 )
-
-
-<!-- [1] [UKRI concordat for engaging with the public](https://www.ukri.org/files/legacy/scisoc/concordatforengagingthepublicwithresearch-pdf/) -->
-
-<!-- CRS: Links, and have in mind an international audiance --->
