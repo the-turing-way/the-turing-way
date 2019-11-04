@@ -16,6 +16,7 @@ This also means making sure PhD students, postdocs, PIs and funding teams know w
 Table of contents:
 * [About the project](#about-the-project)
 * [Contributing](#contributing)
+* [Citing _The Turing Way_](#citing-the-turing-way)
 * [Get in touch](#get-in-touch)
 * [Contributors](#contributors)
 
