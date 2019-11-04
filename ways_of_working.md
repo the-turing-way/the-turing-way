@@ -3,21 +3,24 @@
 This documents outlines expectations and responsibilities of project members and contributors of the Turing Way project with regards to working on the project.
 
 ## Project team
-|Name | Role | % working on the project | Time period allocated to the project|
+
+| Name | Role | % working on the project | Time period allocated to the project |
 |---|---|---|---|
-| Kirstie Whitaker| PI  |   |   |
-| Becky Arnold| Research Software Engineer |100% | Dec 2018 - Mar 2019 |
-| Sarah Gibson | Research Data Scientist | 40% | Nov 2018 - Mar 2019 |
+| Kirstie Whitaker | PI |   |   |
+| Malvika Sharan | Community manager | 100% | Jan 2020 - May 2021 |
+| Rachael Ainsworth | Research Associate | 100% | Apr 2019 - May 2019 |
+| Rosie Higman | Research Data Librarian | 20% | Jan 2019 - Mar 2019 |
+| Becky Arnold | Research Software Engineer | 100% | Dec 2018 - Mar 2019 |
 | Louise Bowler | Research Data Scientist | 40% | Nov 2018 - Mar 2019 |
+| Sarah Gibson | Research Data Scientist | 40% | Nov 2018 - Mar 2019 |
 | Patricia Herterich | Data Librarian | 40% | Nov 2018 - Mar 2019 |
-| Rosie Higman | Research Data Librarian | 20% | Jan - Mar 2019 |
 | Anna Krystalli | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
 | Alex Morley | Mozilla Fellow | not paid by project |  Nov 2018 - June 2019  |
-| Martin O'Reilly | Principal Research Software Engineer | 10 % | Nov 2018 - Mar 2019 |
-| Rachael Ainsworth | Research Associate | 100% | Apr 2019 - May 2019 |
+| Martin O'Reilly | Principal Research Software Engineer | 10% | Nov 2018 - Mar 2019 |
 
 ## Communication
-We're always around for a chat in our public gitter channel: https://gitter.im/WhitakerLab/the-turing-way
+
+We're always around for a chat in our public Gitter channel: https://gitter.im/alan-turing-institute/the-turing-way
 
 In addition, you can reach the team members through their preferred way of communication:
 - Kirstie Whitaker: Mention me on a Github issue or pull request ([@KirstieJane](https://github.com/KirstieJane)), or tag me in [Gitter](https://gitter.im/alan-turing-institute/the-turing-way), @KirstieJane. Don't be afraid to nudge if I've not replied after a day or two! :sparkling_heart:
@@ -32,11 +35,11 @@ In addition, you can reach the team members through their preferred way of commu
 - Rachael Ainsworth: Mention me on a Github issue or pull request ([@rainsworth](https://github.com/rainsworth)), ping me on Twitter [@rachaelevelyn](https://twitter.com/rachaelevelyn), or email me at [rachael.ainsworth@manchester.ac.uk](mailto:rachael.ainsworth@manchester.ac.uk).
 
 As most team members do not work full time on the Turing Way, it might take some time until your query or contribution is addressed - especially if expert knowledge is needed.
-The core project team will have weekly update meetings on Wednesdays from 2-4 pm either on slack or as videocalls on zoom.
+You can join members of the core team and the wider Turing Way community at our twice-monthly [Collaboration Cafes](project_management/online-collaboration-cafe.md), which are great places to discuss ideas for new contributions and to get started with making them :rocket:
 
 ## Project management
 ### Issues
-- Once completed, issues should be closed immediately. By adding closes #issue or [something similar](https://help.github.com/articles/closing-issues-using-keywords/) in a comment on a pull request, merging the pull request will close the issue automatically.
+- Once completed, issues should be closed immediately. By adding "closes #issue" or [something similar](https://help.github.com/articles/closing-issues-using-keywords/) in a comment on a pull request, merging the pull request will close the issue automatically.
 - The team will have a weekly catch up to go triage on open issues, update the project board and agree on priorities for the next week.
 
 ### Pull requests
