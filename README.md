@@ -47,7 +47,7 @@ If you are not familiar or confident contributing on GitHub, you can also contri
 
 ### Citing _The Turing Way_
 
-You can reference _The Turing Way_ through the project's Zenodo archive using doi: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
+You can reference _The Turing Way_ through the project's Zenodo archive using DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
 DOIs allow us to archive the repository and they are really valuable to ensure that the work is tracked in academic publications.
 
 The citation will look something like:
