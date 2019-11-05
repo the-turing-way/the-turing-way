@@ -5,6 +5,7 @@
 [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com)
 [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
 [![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
 
 The Turing Way is a lightly opinionated guide to reproducible data science.
 
@@ -15,6 +16,7 @@ This also means making sure PhD students, postdocs, PIs and funding teams know w
 Table of contents:
 * [About the project](#about-the-project)
 * [Contributing](#contributing)
+* [Citing _The Turing Way_](#citing-the-turing-way)
 * [Get in touch](#get-in-touch)
 * [Contributors](#contributors)
 
@@ -35,7 +37,6 @@ This is the (part of) the project team planning work at the Turing Institute. Fo
 
 ![Team photo](book/content/figures/TuringWayTeam.jpg)
 
-
 ### Contributing 
 
 :construction: This repository is always a work in progress and **everyone** is encouraged to help us build something that is useful to the many. :construction:
@@ -44,6 +45,21 @@ Everyone is asked to follow our [code of conduct](CODE_OF_CONDUCT.md) and to che
 
 If you are not familiar or confident contributing on GitHub, you can also contribute a case study and your tips and tricks via our [Google submission form](https://goo.gl/forms/akFqZEIy2kxAjfZW2). 
 
+### Citing _The Turing Way_
+
+You can reference _The Turing Way_ through the project's Zenodo archive using DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
+DOIs allow us to archive the repository and they are really valuable to ensure that the work is tracked in academic publications.
+
+The citation will look something like:
+
+> The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. http://doi.org/10.5281/zenodo.3233986
+
+You can also share the human-readable URL to a page in the book, for example: https://the-turing-way.netlify.com/reproducibility/03/definitions.html, but be aware that the project is under development and therefore these links may change over time.
+You might want to include a web archive link such as: https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html to make sure that you don't end up with broken links everywhere!
+
+We really appreciate any references that you make to _The Turing Way_ project in your and we hope it is useful.
+If you have any questions please [get in touch](#get-in-touch).
+
 ### Get in touch
 
 We have a gitter chat room and we'd love for you to swing by to say hello at https://gitter.im/alan-turing-institute/the-turing-way.
@@ -51,8 +67,8 @@ We have a gitter chat room and we'd love for you to swing by to say hello at htt
 We also have a tiny letter mailing list to which we send monthly project updates.
 Subscribe at https://tinyletter.com/TuringWay.
 
-You can contact the PI of the Turing Way project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
-
+You can contact our community manager **Malvika Sharan** by email at [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+Alternatively, you can contact the lead investigator **Kirstie Whitaker** by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 
 ## Contributors
 
