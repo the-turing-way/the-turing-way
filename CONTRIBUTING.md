@@ -56,7 +56,7 @@ The following are examples of inclusive actions that we encourage from contribut
 
 ## Get in touch
 
-There are many ways to get un touch with the Turing Way team!
+There are many ways to get in touch with the Turing Way team!
 
 - Ping us in our [gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
   - This is our preferred method of open communication and discussion!
@@ -230,7 +230,7 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 
 ## The process of writing chapters
 
-- Fork the repository form the alan turing version if you have not done so already.
+- Fork the repository from the alan turing version if you have not done so already.
 - On the alan turing version create a branch with the same name as the chapter to be written.
 - On your fork create a branch with the same name and create a markdown file on it.
 - Copy the chapter template in the templates directory into the markdown file, and commit.
@@ -299,22 +299,22 @@ Try (re)writing sentences to avoid the need to use it. If that is not possible, 
 
 1. https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#eg-etc-and-ie
 
-### Sentences	
+### Sentences
 
-When writing all sentences should go on a new line.	
-This will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph. Consider the example below.	
+When writing all sentences should go on a new line.
+This will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph. Consider the example below.
 
- ```	
-Today you are you, that is truer than true. There is no one alive who is youer than you. - Dr Seuss	
-```	
+ ```
+Today you are you, that is truer than true. There is no one alive who is youer than you. - Dr Seuss
+```
 
- A pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph.	
-Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.	
+ A pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph.
+Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.
 
- ```	
-Today you are you, that is truer than true.	
-There is no one alive who is youer than you.	
-- Dr Seuss	
+ ```
+Today you are you, that is truer than true.
+There is no one alive who is youer than you.
+- Dr Seuss
 ```
 
 ### Opinions
