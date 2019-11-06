@@ -641,6 +641,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "erictleung",
+      "name": "Eric Leung",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2754821?v=4",
+      "profile": "https://erictleung.com",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7
