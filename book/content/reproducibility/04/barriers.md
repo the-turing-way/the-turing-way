@@ -50,7 +50,9 @@ For example, streaming data such as flight tracking or internet traffic can not 
 
 A more common challenge for "big data" researchers is the variability of software performance across operating systems and how quickly the tools change over time.
 An almost constantly changing ecosystem of data science technologies is available, which means reproducing results in the future is highly variable and dependent on using perfectly backwards compatible tools as they develop. 
-Some tools require in depth technical skills which are not widely available to data scientists. 
+Very often the results of statistical tests will vary depending on the configuration of the infrastructure that was used in each of the experiments, making it very hard to independently reproduce a result.
+Experiments are often dependent on random initialisation for iterative algorithms and not all software includes the ability to fix a pseudorandom number without limiting parallelisation capabilities (for example  e.g. in Tensorflow).
+These tools can require in depth technical skills which are not widely available to data scientists.
 The Hadoop framework, for instance, is extremely complex to deploy data science experiments without strong software and hardware engineering knowledge. 
 Even "standard" high performance computing, can be difficult to set up to be perfectly reproducible, particularly across different cloud computing providers or institutional configurations.
 
