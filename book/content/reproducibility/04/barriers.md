@@ -44,7 +44,8 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 
 Big data is conceptualised in different ways by different researchers. 
 "Big" data may be complex, come from a variety of data sources, is large in storage volume and/or be streamed at very high temporal resolution. 
-It is extremely difficult to control to ensure consistency of data between the experiments. 
+Although there are ways to set random seeds and take snapshots of a dataset at a particular moment in time, it can be difficult to have identical data across different runs of an analysis pipeline.
+This is particularly relevant in the context of tools for parallel computing.
 In some cases, when data is sampled from a larger collection of data consistency cannot be guaranteed.
 
 A large variety of tools and products with a constantly changing ecosystem of supported technologies is available, meaning reproducing results in the future is highly dependent on the available technology at the time. 
