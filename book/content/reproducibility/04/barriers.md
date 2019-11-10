@@ -52,7 +52,7 @@ A more common challenge for "big data" researchers is the variability of softwar
 An almost constantly changing ecosystem of data science technologies is available, which means reproducing results in the future is highly variable and dependent on using perfectly backwards compatible tools as they develop. 
 Some tools require in depth technical skills which are not widely available to data scientists. 
 The Hadoop framework, for instance, is extremely complex to deploy data science experiments without strong software and hardware engineering knowledge. 
-Combined with the need for high performance computing, the barrier to access big data processing is even greater. 
+Even "standard" high performance computing, can be difficult to set up to be perfectly reproducible, particularly across different cloud computing providers or institutional configurations.
 
 ## Barrier 9
 
