@@ -43,7 +43,7 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 ## Big data and complex computational infrastructure
 
 Big data is conceptualised in different ways by different researchers. 
-The traditional understanding of big data focuses on complexity, variety of data sources, volume and velocity of the data. 
+"Big" data may be complex, come from a variety of data sources, is large in storage volume and/or be streamed at very high temporal resolution. 
 It is extremely difficult to control to ensure consistency of data between the experiments. 
 In some cases, when data is sampled from a larger collection of data consistency cannot be guaranteed.
 
