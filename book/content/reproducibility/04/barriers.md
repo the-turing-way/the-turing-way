@@ -53,7 +53,6 @@ An almost constantly changing ecosystem of data science technologies is availabl
 Some tools require in depth technical skills which are not widely available to data scientists. 
 The Hadoop framework, for instance, is extremely complex to deploy data science experiments without strong software and hardware engineering knowledge. 
 Combined with the need for high performance computing, the barrier to access big data processing is even greater. 
-Very often the results of statistical tests will vary depending on the configuration of the infrastructure that was used in each of the experiments, therefore reproducibility is difficult to achieve (experiments are often dependent on random initialisation for iterative algorithms, fixing a pseudorandom number will result in limiting parallelisation capabilities, e.g. in Tensorflow).
 
 ## Barrier 9
 
