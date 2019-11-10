@@ -48,7 +48,8 @@ Although there are ways to set random seeds and take snapshots of a dataset at a
 This is particularly relevant in the context of tools for parallel computing.
 For example, streaming data such as flight tracking or internet traffic can not be stored and must be processed in real time.
 
-A large variety of tools and products with a constantly changing ecosystem of supported technologies is available, meaning reproducing results in the future is highly dependent on the available technology at the time. 
+A more common challenge for "big data" researchers is the variability of software performance across operating systems and how quickly the tools change over time.
+An almost constantly changing ecosystem of data science technologies is available, which means reproducing results in the future is highly variable and dependent on using perfectly backwards compatible tools as they develop. 
 Some tools require in depth technical skills which are not widely available to data scientists. 
 The Hadoop framework, for instance, is extremely complex to deploy data science experiments without strong software and hardware engineering knowledge. 
 Combined with the need for high performance computing, the barrier to access big data processing is even greater. 
