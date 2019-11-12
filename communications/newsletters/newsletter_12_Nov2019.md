@@ -4,7 +4,7 @@ The Turing Way Newsletter: 12 November 2019
 
 Hello Turing Way friends!
 
-We are excited to announce that we are expanding the project from to a series of books. In addition to reproducibility, this book series will explore topics such as project design, communication, outreach, ethics and other best practices in data science. The project proposal with further details is available [online](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/tps-funding-application-20190429.md).
+We are excited to announce that we are expanding *The Turing Way* project to a build a series of online books: "A How To Guide to Data Science". In addition to reproducibility, this book series will explore topics such as project design, communication, outreach, ethics and other best practices in data science. The project proposal with further details is available [online](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/tps-funding-application-20190429.md).
 
 Shout out to all the contributors and community members who engaged with us in last month, joined us at the MozFest, presented a talk about this project, shared or reused *The Turing Way* resources, and acknowledged the project in their work.
 
