@@ -4,7 +4,7 @@ The Turing Way Newsletter: 12 November 2019
 
 Hello Turing Way friends!
 
-We are excited to announce that we are expanding *The Turing Way* project to a build a series of online books: "A How To Guide to Data Science". In addition to reproducibility, this book series will explore topics such as project design, communication, outreach, ethics and other best practices in data science. The project proposal with further details is available [online](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/tps-funding-application-20190429.md).
+We are excited to announce that we are expanding *The Turing Way* project to a build a series of online books: "A How To Guide to Data Science". In addition to reproducibility, this book series will explore topics such as project design, communication, outreach, ethics and other best practices in data science.
 
 Shout out to all the contributors and community members who engaged with us in last month, joined us at the MozFest, presented a talk about this project, shared or reused *The Turing Way* resources, and acknowledged the project in their work.
 
@@ -27,9 +27,9 @@ The next Book Dash will take place on <Date> at <Location>. Book dash is an in-p
 
 ### Turing Way is Expanding!
 
-We are excited to announce that *The Turing Way* is expanding into [a series of books](https://github.com/alan-turing-institute/the-turing-way). In addition to it’s previous focus on reproducibility, this project will aim to capture the vast amounts of knowledge of data science practices such as project design, communication, outreach and ethics. Following an open source, community driven approach, we will welcome contributions from anyone from within the Turing community and beyond  who can support researchers and practitioners in learning or improving the "how" of conducting world-leading research in data science.
+We are excited to announce that *The Turing Way* is expanding into [a series of books](https://github.com/alan-turing-institute/the-turing-way). In addition to it’s previous focus on reproducibility, this project will aim to capture the vast amounts of knowledge of data science practices such as project design, communication, outreach and ethics. Following an open source, community driven approach, we will welcome contributions from anyone from within the Turing community and beyond  who can support researchers and practitioners in learning or improving the "how" of conducting world-leading research in data science. The project proposal with further details is available [online](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/tps-funding-application-20190429.md).
 
-To plan the next steps, the core team met last month on 11 and 12 October to brainstorm and discuss the next steps in this project. The participants of this meeting discussed a number of topics in four themed sessions, draft report from which is available on [this HackMD](https://hackmd.io/zVTeKhG2SIiBLam1YtILNg).
+To plan the next steps, the core team met last month on 11 and 12 October to brainstorm and discuss the next steps in this project. The participants of this meeting explored a number of topics in four themed sessions, draft report from which is available on [this HackMD](https://hackmd.io/zVTeKhG2SIiBLam1YtILNg).
 
 ![]()
 
