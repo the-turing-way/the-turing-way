@@ -35,7 +35,7 @@ Following an open source, community driven approach, we will welcome contributio
 The project proposal with further details is available [online](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/tps-funding-application-20190429.md).
 
 To plan the next steps, the core team met last month on 11 and 12 October to brainstorm and discuss the next steps in this project.
-The participants of this meeting explored a number of topics in four themed sessions, draft report from which is available on [this HackMD](https://hackmd.io/zVTeKhG2SIiBLam1YtILNg).
+The participants of this meeting explored a number of topics in four themed sessions, draft report from which is available on [this HackMD](https://hackmd.io/zVTeKhG2SIiBLam1YtILNg?view).
 
 ![]()
 
@@ -80,7 +80,7 @@ A nature article, [Make code accessible with these cloud services](https://www.n
 
 Oxford e-Research centre published an article [Transforming the culture of data science](https://www.oerc.ox.ac.uk/news/transforming-culture-data-science) based on the [impact story](https://www.turing.ac.uk/research/impact-stories/changing-culture-data-science), which highlighted the work and vision of this project.
 
-The project got shoutouts at [FORCE2019](https://www.force11.org/meetings/force2019) (see this [Tweet by Patricia Hertereich](https://twitter.com/PHerterich/status/1184034991400861696)), at [Goodenough College](https://www.goodenough.ac.uk/) in a [talk by Kirstie](https://zenodo.org/record/3522225#.XcmklpNKjUI), at [SciData19](https://researchdata.springernature.com/users/256983-irene-rodriguez/posts/50480-better-science-through-better-data-2019-scidata19-call-for-lightning-talks-proposal) by Yasemin Turkyilmaz-van der Velden in her talk [Reproducible Research: Why and How?](https://zenodo.org/record/3530485#.XcmopZNKjUI), by Tommy Hall at [Code Mesh London](https://codesync.global/conferences/code-mesh-ldn/) (see this [tweet by Evelina Gabasova](https://twitter.com/evelgab/status/1192804318795182080)) and at [EMBL](http://embl.org) Inspirational Seminar Series in Heidelberg ([talk by Kisrtie](https://zenodo.org/record/3532650#.XcmlAZNKjUI)).
+The project got shoutouts at [FORCE2019](https://www.force11.org/meetings/force2019) (see this [Tweet by Patricia Hertereich](https://twitter.com/PHerterich/status/1184034991400861696)), at [Goodenough College](https://www.goodenough.ac.uk/) in a [talk by Kirstie](https://zenodo.org/record/3522225#.XcmklpNKjUI), at [SciData19](https://researchdata.springernature.com/users/256983-irene-rodriguez/posts/50480-better-science-through-better-data-2019-scidata19-call-for-lightning-talks-proposal) by Yasemin Turkyilmaz-van der Velden in her talk [Reproducible Research: Why and How?](https://zenodo.org/record/3530485#.XcmopZNKjUI), by Tommy Hall at [Code Mesh London](https://codesync.global/conferences/code-mesh-ldn/) (see this [tweet by Evelina Gabasova](https://twitter.com/evelgab/status/1192804318795182080)) and at [EMBL](http://embl.org) Inspirational Seminar Series in Heidelberg ([talk by Kirstie](https://zenodo.org/record/3532650#.XcmlAZNKjUI)).
 
 ![]()
 
