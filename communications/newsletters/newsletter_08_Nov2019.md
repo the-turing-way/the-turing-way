@@ -7,7 +7,7 @@ In addition to reproducibility, this book series will explore topics such as pro
 
 Shout out to all the contributors and community members who engaged with us in last month, joined us at the MozFest, presented a talk about this project, shared or reused *The Turing Way* resources, and acknowledged the project in their work. 🙌
 
-If you haven’t yet had a chance to say hello to us, join us at our next collaboration cafe in on 20 November 2019 (sign up at [this HackMD](https://hackmd.io/@KirstieJane/CollabCafe)) or connect with us on our [Gitter Channel](https://gitter.im/alan-turing-institute/the-turing-way). 👋
+If you haven’t yet had a chance to say hello to us, join us at our next collaboration cafe on 20 November 2019 (sign up at [this HackMD](https://hackmd.io/@KirstieJane/CollabCafe)) or connect with us on our [Gitter Channel](https://gitter.im/alan-turing-institute/the-turing-way). 👋
 
 Find details on these topics and more news from the community below 👇
 
