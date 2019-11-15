@@ -1,5 +1,3 @@
-The Turing Way Newsletter: 12 November 2019
-
 # *The Turing Way* project is expanding to a multi-volume book!
 
 Hello Turing Way friends!
