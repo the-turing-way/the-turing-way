@@ -1,4 +1,4 @@
-# *The Turing Way* project is expanding to a multi-volume book!
+# *The Turing Way* project is expanding to a multi-volume book series!
 
 Hello Turing Way friends!
 
@@ -19,10 +19,9 @@ The next Collaboration Cafes will be held on 20 November 2019 at 19:00  [your lo
 Two more cafes have been scheduled for this year on 4 December 2019 at 15:00  [your local time](https://arewemeetingyet.com/London/2019-12-04/15:00/TuringWay-CollaborationCafe), and 18 December 2019 at 19:00 [your local time](https://arewemeetingyet.com/London/2019-11-20/19:00/TuringWay-CollaborationCafe).
 Please save these dates and sign up for the next Collaboration Cafe on [this HackMD](https://hackmd.io/@KirstieJane/CollabCafe).
 
-
 ### Save the date: Turing Way Book Dash in February 2019
 
-The next Book Dash will take place on `[<Date>]` at `[<Location>]`.
+The next Book Dash will take place on Friday 22 February (with dinner, lightning talks and networking the evening before) at the Turing Institute in London.
 A Book Dash is an in-person collaborative event that brings together participants who are enthusiastic about data science and reproducibility and want to contribute to the improvement of *The Turing Way* book.
 We will share more information regarding the applications in December, but meanwhile, please check the reports from the [Manchester book dash](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-mcr-report.md) and [London book dash](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-ldn-report.md), summarising the participants' contributions during the event and their feedback.
 
@@ -71,6 +70,9 @@ Kirstie Whitaker presented a talk at the Open Science Community Nijmegen on 9 Oc
 Thanks to several of you for joining Kirstie Whitaker, Yo Yehudi, and Malvika Sharan at the [MozFest House](https://ti.to/Mozilla/mozfesthouse-whyspace/en) to discuss and work on *The Turing Way* specific ideas, and discussing the project with us at the [MozFest 2019](https://www.mozillafestival.org/en/).
 
 ![]()
+
+Congratulations to our friends in the [JupyterHub](https://jupyter.org/hub) and [Binder](https://mybinder.org/) communities who have recieved funding from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) to continue their fantastic work building [Essential Open Source Software for Science](https://medium.com/@cziscience/essential-open-source-software-for-science-72faec2c38c1)!
+[Georgiana Dolocan](https://twitter.com/GeorgianaElenaD), who joined the Jupyter community as an [Outreachy](https://www.outreachy.org/)  intern [last year](https://blog.jupyter.org/outreachy-jupyter-supporting-diversity-in-open-communities-dfa78db4b0bd), will be the first "JupyterHub Contributor in Residence" at the [Berkeley Institute for Data Science](https://bids.berkeley.edu/) in Calfornia 🎉🙌🎊
 
 ### Features and Shoutouts
 
