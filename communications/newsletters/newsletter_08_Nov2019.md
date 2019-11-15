@@ -3,11 +3,11 @@
 Hello Turing Way friends!
 
 We are excited to announce that we are expanding *The Turing Way* project to a build a series of online books: "A How To Guide to Data Science".
-In addition to reproducibility, this book series will explore topics such as project design, communication, outreach, ethics and other best practices in data science.
+In addition to reproducibility, this book series will explore topics such as project design, communication, outreach, ethics and other best practices in data science.📚📚
 
-Shout out to all the contributors and community members who engaged with us in last month, joined us at the MozFest, presented a talk about this project, shared or reused *The Turing Way* resources, and acknowledged the project in their work.
+Shout out to all the contributors and community members who engaged with us in last month, joined us at the MozFest, presented a talk about this project, shared or reused *The Turing Way* resources, and acknowledged the project in their work. 🙌
 
-If you haven’t yet had a chance to say hello to us, join us at our next collaboration cafe in on 20 November 2019 (sign up at [this HackMD](https://hackmd.io/@KirstieJane/CollabCafe)) or connect with us on our [Gitter Channel](https://gitter.im/alan-turing-institute/the-turing-way).
+If you haven’t yet had a chance to say hello to us, join us at our next collaboration cafe in on 20 November 2019 (sign up at [this HackMD](https://hackmd.io/@KirstieJane/CollabCafe)) or connect with us on our [Gitter Channel](https://gitter.im/alan-turing-institute/the-turing-way). 👋
 
 Find details on these topics and more news from the community below 👇
 
@@ -21,7 +21,7 @@ Please save these dates and sign up for the next Collaboration Cafe on [this Hac
 
 ### Save the date: Turing Way Book Dash in February 2019
 
-The next Book Dash will take place on Friday 22 February (with dinner, lightning talks and networking the evening before) at the Turing Institute in London.
+The next Book Dash will take place on Friday 22 February (with dinner, lightning talks and networking the evening before) at the Turing Institute in London. 📆 
 A Book Dash is an in-person collaborative event that brings together participants who are enthusiastic about data science and reproducibility and want to contribute to the improvement of *The Turing Way* book.
 We will share more information regarding the applications in December, but meanwhile, please check the reports from the [Manchester book dash](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-mcr-report.md) and [London book dash](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-ldn-report.md), summarising the participants' contributions during the event and their feedback.
 
@@ -53,21 +53,19 @@ Reach out to the core team by emailing [hello@openlifesci.org](mailto:hello@open
 ### How to best cite Turing Way?
 
 Like our community members, Paola ([GitHub pull request](https://github.com/alan-turing-institute/the-turing-way/issues/648)) and Heidi ([Tweet](https://twitter.com/HeidiBaya/status/1189116056641658880)), have you also wondered how to cite Turing way?
-It is a fair question to ask when referring to an online Open Source project that undergoes several updates in the same week or sometimes on the same day. 
+It is a fair question to ask when referring to an online Open Source project that undergoes several updates in the same week or sometimes on the same day.📝
 
 All versions of this book (available under the [cc-by license]((http://creativecommons.org/licenses/by/4.0/legalcode))) can be cited using the DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
 This DOI represents all versions, and will always resolve to the latest one.
 Different versions can be found on [Zenodo](https://zenodo.org) and can be individually cited.
 
-(Kirstie's very sorry that she's behind with releasing some of the versions 😩!
-If you attended a book sprint or have written chapters for the book your name will appear in that author list soon.
-Promise!)
+The team is behind with releasing some of the versions! However, if you have attended a book sprint or have written chapters, your name will appear in that author list soon.✊ 
 
 ## Acknowledgements and celebrations
 
 Kirstie Whitaker presented a talk at the Open Science Community Nijmegen on 9 October 2019 under the title [*The Turing Way*: A global collaboration for reproducible and collaborative research](https://zenodo.org/record/3478387#.XcmkDZNKjUI), and at NESTA Hack STIR event on 22 October 2019 under the title [*The Turing Way*: A handbook for reproducible research](https://zenodo.org/record/3515937#.XcmkeJNKjUI).
 
-Thanks to several of you for joining Kirstie Whitaker, Yo Yehudi, and Malvika Sharan at the [MozFest House](https://ti.to/Mozilla/mozfesthouse-whyspace/en) to discuss and work on *The Turing Way* specific ideas, and discussing the project with us at the [MozFest 2019](https://www.mozillafestival.org/en/).
+Thanks to several of you for joining Kirstie Whitaker, Yo Yehudi, and Malvika Sharan at the [MozFest House](https://ti.to/Mozilla/mozfesthouse-whyspace/en) to discuss and work on *The Turing Way* specific ideas, and discussing the project with us at the [MozFest 2019](https://www.mozillafestival.org/en/). 🎉
 
 ![]()
 
