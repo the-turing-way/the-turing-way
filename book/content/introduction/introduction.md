@@ -13,7 +13,7 @@ If you would like to contribute please [get in touch](https://github.com/alan-tu
 
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
 Accordingly, everyone who participates in the _Turing Way_ project is expected to show respect and courtesy to other community members at all times.
-All contributions must abide by our [code of conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md)
+All contributions must abide by our [code of conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md).
 
 ## A little more background
 
