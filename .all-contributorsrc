@@ -650,6 +650,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "christopherlovell",
+      "name": "Christopher Lovell",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4648092?v=4",
+      "profile": "http://christopherlovell.co.uk",
+      "contributions": [
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7
