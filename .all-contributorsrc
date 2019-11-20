@@ -620,7 +620,8 @@
       "profile": "http://emdupre.me",
       "contributions": [
         "infra",
-        "question"
+        "question",
+        "review"
       ]
     },
     {
@@ -630,6 +631,24 @@
       "profile": "https://github.com/orchid00",
       "contributions": [
         "ideas"
+      ]
+    },
+    {
+      "login": "effigies",
+      "name": "Chris Markiewicz",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/83442?v=4",
+      "profile": "https://github.com/effigies",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "erictleung",
+      "name": "Eric Leung",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2754821?v=4",
+      "profile": "https://erictleung.com",
+      "contributions": [
+        "bug"
       ]
     }
   ],
