@@ -33,4 +33,4 @@ The full stop after `git add` above adds all changes to your staging area. So no
 git commit
 ```
 
-We will talk in more detail about these commands [later](#adding), but for now just know if you run them then congratulations, you have finished setting up you repository!
+We will talk in more detail about these commands [later](#commits), but for now just know if you run them then congratulations, you have finished setting up you repository!

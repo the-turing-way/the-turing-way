@@ -12,7 +12,7 @@ There needs to be a way allow new work to be done on a project whilst protecting
 ### The solution
 
 Branches.
-At the start of this chapter an [overview](#branches_overview) was given of the concept of branches, but let's recap.
+At the start of this chapter an [overview](#other-facilities-offered-by-version-control) was given of the concept of branches, but let's recap.
 You have a project, and you make commits on it.
 By default you have one branch, called 'master'.
 Making a branch essentially makes a copy of your code which you can work on and continue to make commits to.
