@@ -19,7 +19,7 @@ For example, if you are writing a paper with collaborators then version control 
 Version control is used to some extent within many different programs, including ones you are likely to already be familiar with such as Word or Wordpress.
 There are numerous tools available for version control such as [Mercurial](https://www.mercurial-scm.org/) and [SVN](https://subversion.apache.org/).  
 The best know one is Git (and its web-based version, [GitHub](https://github.com/), which aids collaboration between researchers) which the instructions given in this chapter will be geared towards.
-There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "[Further reading](#further_reading)" section at the end of the chapter).
+There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "[Further reading](#further-reading)" section at the end of the chapter).
 This chapter aims to cover the general principles underpinning all version control systems, and best practice which applies for using all such systems.
 
 ## How version control is helpful
@@ -143,7 +143,7 @@ The full stop after `git add` above adds all changes to your staging area. So no
 git commit
 ```
 
-We will talk in more detail about these commands [later](#adding), but for now just know if you run them then congratulations, you have finished setting up you repository!
+We will talk in more detail about these commands [later](#commits), but for now just know if you run them then congratulations, you have finished setting up you repository!
 
 ## Commits
 
@@ -228,7 +228,7 @@ So two files are affected, but "Add figure to version control chapter" is a sing
 
 To aid in making atomic commits it is good practice to **specify the files to be committed**, that is, adding files to the staging area by name (`git add your_file_name`) rather than adding everything (`git add .`). This prevents you from unintentionally bundling different changes together, for example if you have made a change to file A while primarily working on file B you may have forgotten this when you go to commit, and with `git add .` file A would be brought along for the ride.
 
-Finally, **do not commit anything that can be regenerated from other things that were committed unless it is something that would take hours to regenerate**. Generated files just clutter up your repository and may contain features such as timestamps that can cause annoying merge conflicts (see [below](#merge_conflicts)). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct Git to ignore certain files by creating a file called `.Gitignore` and including their names in it.
+Finally, **do not commit anything that can be regenerated from other things that were committed unless it is something that would take hours to regenerate**. Generated files just clutter up your repository and may contain features such as timestamps that can cause annoying merge conflicts (see [below](#merge-conflicts)). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct Git to ignore certain files by creating a file called `.Gitignore` and including their names in it.
 
 ## Commit messages
 
@@ -352,7 +352,7 @@ There needs to be a way allow new work to be done on a project whilst protecting
 ### The solution
 
 Branches.
-At the start of this chapter an [overview](#branches_overview) was given of the concept of branches, but let's recap.
+At the start of this chapter an [overview](#other-facilities-offered-by-version-control) was given of the concept of branches, but let's recap.
 You have a project, and you make commits on it.
 By default you have one branch, called 'master'.
 Making a branch essentially makes a copy of your code which you can work on and continue to make commits to.
