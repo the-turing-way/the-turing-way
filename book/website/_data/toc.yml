@@ -74,6 +74,21 @@
   url: credit/credit
 - title: Research Data Management
   url: rdm/rdm
+  sections:
+  - title: The FAIR principles and practices
+    url: rdm/fairprinciples
+  - title: Storage and backup
+    url: rdm/storagebackup
+  - title: Data organisation in spreadsheets
+    url: rdm/spreadsheets
+  - title: Documentation and metadata
+    url: rdm/docmetadata
+  - title: Sharing and archiving data
+    url: rdm/sharingarchiving
+  - title: Personal Stories
+    url: rdm/personalstories
+  - title: Resources
+    url: rdm/resources    
 - title: Reproducible Environments
   url: reproducible_environments/reproducible_environments
   sections:
