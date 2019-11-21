@@ -7,7 +7,9 @@
 [![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
 
-The Turing Way is a lightly opinionated guide to reproducible data science.
+_The Turing Way_ is a lightly opinionated guide to reproducible data science.
+You can read it here: https://the-turing-way.netlify.com.
+You're currently viewing the project GitHub repository where all of the bits that make up the guide live, and where the process of writing/building the guide happens.
 
 Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end.
 
@@ -15,6 +17,7 @@ This also means making sure PhD students, postdocs, PIs and funding teams know w
 
 Table of contents:
 * [About the project](#about-the-project)
+* [The team](#the-team)
 * [Contributing](#contributing)
 * [Citing _The Turing Way_](#citing-the-turing-way)
 * [Get in touch](#get-in-touch)
@@ -36,7 +39,8 @@ This project is openly developed and any and all questions, comments and recomme
 
 ### The team
 
-This is the (part of) the project team planning work at the Turing Institute. For more on how to contact us, see the [ways of working document](ways_of_working.md).
+This is (part of) the project team planning work at the Turing Institute.
+For more on how to contact us, see the [ways of working document](ways_of_working.md).
 
 ![Team photo](book/content/figures/TuringWayTeam.jpg)
 
