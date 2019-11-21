@@ -652,12 +652,12 @@
       ]
     },
     {
-      "login": "KristijanArmeni",
-      "name": "Kristijan Armeni",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/14061041?v=4",
-      "profile": "https://github.com/KristijanArmeni",
+      "login": "christopherlovell",
+      "name": "Christopher Lovell",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4648092?v=4",
+      "profile": "http://christopherlovell.co.uk",
       "contributions": [
-        "bug"
+        "infra"
       ]
     }
   ],
