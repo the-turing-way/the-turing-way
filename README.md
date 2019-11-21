@@ -1,7 +1,7 @@
 # The Turing Way
 
 [![Build Status](https://img.shields.io/travis/alan-turing-institute/the-turing-way/master?logo=travis)](https://travis-ci.org/alan-turing-institute/the-turing-way)
-[![All Contributors](https://img.shields.io/badge/all_contributors-66-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-67-orange.svg?style=flat-square)](#contributors)
 [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com)
 [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
 [![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
@@ -165,6 +165,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
   <tr>
     <td align="center"><a href="https://erictleung.com"><img src="https://avatars2.githubusercontent.com/u/2754821?v=4" width="100px;" alt="Eric Leung"/><br /><sub><b>Eric Leung</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Aerictleung" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://christopherlovell.co.uk"><img src="https://avatars3.githubusercontent.com/u/4648092?v=4" width="100px;" alt="Christopher Lovell"/><br /><sub><b>Christopher Lovell</b></sub></a><br /><a href="#infra-christopherlovell" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://github.com/KristijanArmeni"><img src="https://avatars3.githubusercontent.com/u/14061041?v=4" width="100px;" alt="Kristijan Armeni"/><br /><sub><b>Kristijan Armeni</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3AKristijanArmeni" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/pgadige"><img src="https://avatars2.githubusercontent.com/u/8632025?v=4" width="100px;" alt="Pooja Gadige"/><br /><sub><b>Pooja Gadige</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=pgadige" title="Documentation">📖</a></td>
   </tr>
 </table>
