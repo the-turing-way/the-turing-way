@@ -63,7 +63,9 @@ If you use GitHub, GitLab or similar, consider creating a `CITATION` file in eac
 
 ### Add machine-readable referencing information
 
-You can go one better by allowing people to import information about your research objects into their preferred referencing database. If BibTeX is popular in your field, post a `.bib` file of *all* your outputs, not just your papers; if it's Endnote, make an Endnote export available. If possible, provide several formats: you won't need to update these very often and it will pay off 
+You can go one better by allowing people to import information about your research objects into their preferred referencing database.
+If BibTeX is popular in your field, post a `.bib` file of *all* your outputs, not just your papers; if it's Endnote, make an Endnote export available.
+If possible, provide several formats: you won't need to update these very often and it will pay off.
 
 <!-- TODO: Information about cite.json(?) -->
 
