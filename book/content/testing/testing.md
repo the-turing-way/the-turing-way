@@ -144,7 +144,8 @@ There are tools available to make writing and running tests easier, these are kn
   - pytest (recommended)
   - unittest comes with standard Python library
 - R unit-tests
-  - RUnit
+  - testthat
+  - tinytest
   - svUnit (works with SciViews GUI)
 - Fortran unit-tests:
   - funit
