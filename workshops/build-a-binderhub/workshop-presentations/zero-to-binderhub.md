@@ -501,6 +501,15 @@ kubectl get svc proxy-public --namespace=binderhub
 
 :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
+We now need to edit some files in order to parse the IP address we just retreived to the BinderHub deployment and allow the BinderHub and JupyterHub to share information.
+The Azure Cloud Shell comes pre-installed with some terminal-based editors such as `vi` and `nano`.
+I will be demonstrating using `nano` but feel free to use whichever editor you feel most comfortable with.
+
+If you are following along with me and have not used `nano` before, here are the basics.
+To open the file, type `nano FILENAME`.
+And to close the file, type `Ctrl + X` (`^X` on a Mac).
+It will ask you if you wish to save your edits before closing.
+
 Now do the following steps:
 
 1) On [line 5 of `setup.sh`](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/build-a-binderhub/binderhub_resources/setup.sh#L5), copy the IP address from the last command into the `jupyter_ip` variable and uncomment the line (remove the `#` from the beginning).
