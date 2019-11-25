@@ -18,11 +18,11 @@ They are placed either at the end of a section to allow everyone to move on toge
 
 You will need the following resources to be able to participate in this workshop:
 
-* A Docker Hub account - sign up here: https://hub.docker.com/signup
+* A Docker Hub account - sign up here: <https://hub.docker.com/signup>
 
 **And either:**
 
-* A Microsoft Azure Free Trial subscription - sign up here: https://azure.microsoft.com/en-gb/free/
+* A Microsoft Azure Free Trial subscription - sign up here: <https://azure.microsoft.com/en-gb/free/>
 
 **Or:**
 
@@ -139,7 +139,7 @@ You can access Key Vault Quickstarts and Tutorials [here](https://docs.microsoft
 
 This workshop will use the Cloud Shell in Azure Portal as it already has all of the tools we need preinstalled.
 
-* Login to the Portal here: https://portal.azure.com/
+* Login to the Portal here: <https://portal.azure.com/>
 * Open the Cloud Shell from the top of the dashboard:
 
 ![Cloud Shell](../binderhub_resources/cloud_shell.png)
@@ -157,7 +157,7 @@ This will make the BinderHub setup less intensive.
 
 Make a folder to store this files and change into it.
 
-```
+```bash
 mkdir testhub
 cd testhub
 ```
@@ -166,7 +166,7 @@ cd testhub
 
 Run the following three commands to download the `setup.sh` script and the `config-template.yaml` and `secret-template.yaml` files.
 
-```
+```bash
 wget -O setup.sh http://bit.ly/config-setup-script
 wget -O config-template.yaml http://bit.ly/config-template
 wget -O secret-template.yaml http://bit.ly/secret-template
@@ -176,7 +176,7 @@ wget -O secret-template.yaml http://bit.ly/secret-template
 
 Make the shell script executable will the following command.
 
-```
+```bash
 chmod 700 setup.sh
 ```
 
@@ -184,7 +184,7 @@ chmod 700 setup.sh
 
 Now make a secrets folder inside `testhub` where we will save secrets.
 
-```
+```bash
 mkdir secrets
 ```
 
@@ -204,20 +204,24 @@ A short (and by no means exhaustive) [glossary](#glossary-of-kubernetes-terms) o
 #### 1. Activate your Subscription
 
 To see a list of Azure subscriptions you have available to you, you can run the following command.
-```
+
+```bash
 az account list --refresh --output table
 ```
+
 This prints your subscriptions to the terminal in a human-readable format.
 Now let's set our working subscription.
 
 **If you are using a Free Trial suscription:**
-```
+
+```bash
 az account set -s "Free Trial"
 ```
 
 **If you are using an Azure Pass:**
-```
-az account set -s "Azure Pass - Sponsorship"
+
+```bash
+az account set --subscription "Azure Pass - Sponsorship"
 ```
 
 :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
@@ -229,11 +233,12 @@ az account set -s "Azure Pass - Sponsorship"
 Resource Groups are how the Azure environment labels services that are related to each other (further details in [this blog post](http://www.onlinetech.com/resources/references/how-to-use-azure-resource-groups-a-simple-explanation)).
 We will create a resource group in a specific region and create computational resources _within_ this group.
 
-```
+```bash
 az group create --name testhub \
     --location westeurope \
     --output table
 ```
+
 * `--name` specifies the name of your resource group and should be something that uniquely identifies this hub.
 * `--location` specifies the _region_ of the data centres where your resource will exist.
   A list of data centre regions and locations can be found [here](https://docs.microsoft.com/en-us/azure/aks/container-service-quotas#region-availability).
@@ -249,10 +254,11 @@ It will request one `Standard_D2s_v3` virtual machine which a Kubernetes cluster
 [Information on other types of virtual machines is available](https://azure.microsoft.com/en-gb/pricing/details/virtual-machines/series/).
 
 **NOTES:**
+
 * `--name` (`hubcluster` in this example) cannot exceed 63 characters and can only contain letters, numbers, or hyphens (`-`).
 * If you are _not_ using a Free Trial subscription, try setting `--node-count` to **3** instead.
 
-```
+```bash
 az aks create --name hubcluster \
     --resource-group testhub \
     --no-ssh-key \
@@ -260,6 +266,7 @@ az aks create --name hubcluster \
     --node-vm-size Standard_D2s_v3 \
     --output table
 ```
+
 * `--name` is the name of the cluster.
 * `--resource-group` is the resource group we created in [Step 3: Create a Resource Group](#3-create-a-resource-group).
 * `--node-count` is the number of desired nodes in the Kubernetes cluster.
@@ -287,15 +294,16 @@ This group can be deleted.
 
 This step automatically updates your local Kubernetes client configuration file to be configured with the remote cluster we've just deployed, and allowing `kubectl` to be "logged-in" to the cluster.
 
-```
+```bash
 az aks get-credentials --name hubcluster --resource-group testhub
 ```
+
 * `--name` is the cluster name defined in [Step 4: Create an Azure Container Service (AKS) Cluster](#4-create-an-azure-container-service-aks-cluster).
 * `--resource-group` is the resource group created in [Step 3: Create a Resource Group](#3-create-a-resource-group).
 
 #### 5. Check the Cluster is Fully Functional
 
-```
+```bash
 kubectl get nodes
 ```
 
@@ -303,7 +311,8 @@ The output of this command should list one node (unless you changed `--node-coun
 The `VERSION` field reports which version of Kubernetes is installed.
 
 Example output:
-```
+
+```bash
 NAME                       STATUS   ROLES   AGE   VERSION
 aks-nodepool1-97000712-0   Ready    agent   19m   v1.9.11
 ```
@@ -333,7 +342,7 @@ When you (a human) accesses your Kubernetes cluster, you are authenticated as a 
 Processes in containers running in _pods_ are authenticated as a particular **Service Account**.
 [More details](https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/).
 
-```
+```bash
 kubectl create serviceaccount tiller --namespace kube-system
 ```
 
@@ -346,7 +355,7 @@ If RBAC is disabled, **all pods are given `root` equivalent permission on all th
 This can leave the cluster vulnerable to attacks.
 See [Project Jupyter's docs](https://zero-to-jupyterhub.readthedocs.io/en/latest/security.html#use-role-based-access-control-rbac) for more details.
 
-```
+```bash
 kubectl create clusterrolebinding tiller --clusterrole cluster-admin --serviceaccount=kube-system:tiller
 ```
 
@@ -359,7 +368,7 @@ kubectl create clusterrolebinding tiller --clusterrole cluster-admin --serviceac
 This step will create a `tiller` deployment in the `kube-system` namespace and set-up your local `helm` client.
 This is the command that connects your remote Kubernetes cluster to the commands you execute in your local terminal and only needs to be run once per Kubernetes cluster.
 
-```
+```bash
 helm init --service-account tiller --wait
 ```
 
@@ -373,7 +382,7 @@ Secure `tiller` from access inside the cluster.
 This step forces `tiller` to listen to commands from `localhost` (i.e. `helm`) _only_ so that e.g. other pods inside the cluster cannot ask `tiller` to install a new chart. For example, this could give other pods arbitrary, elevated privileges to exploit.
 [More details](https://engineering.bitnami.com/articles/helm-security.html).
 
-```
+```bash
 kubectl patch deployment tiller-deploy \
     --namespace=kube-system \
     --type=json \
@@ -392,7 +401,7 @@ kubectl patch deployment tiller-deploy \
 
 To verify the correct versions have been installed properly, run the following command.
 
-```
+```bash
 helm version
 ```
 
@@ -400,13 +409,15 @@ You must have at least version 2.11.0 and the client (`helm`) and server (`tille
 It may take a few moments for the client to appear - keep trying.
 
 Example output:
-```
+
+```bash
 Client: &version.Version{SemVer:"v2.12.3", GitCommit:"eecf22f77df5f65c823aacd2dbd30ae6c65f186e", GitTreeState:"clean"}
 Server: &version.Version{SemVer:"v2.12.3", GitCommit:"eecf22f77df5f65c823aacd2dbd30ae6c65f186e", GitTreeState:"clean"}
 ```
 
 If the versions do not match, run:
-```
+
+```bash
 helm init --upgrade
 ```
 
@@ -423,7 +434,8 @@ Adapted from [Zero-to-BinderHub: Setup BinderHub](https://binderhub.readthedocs.
 Before we install a BinderHub, we need to configure several pieces of information and save them in YAML files.
 
 Create two random tokens:
-```
+
+```bash
 openssl rand -hex 32 > secrets/apiToken.txt
 openssl rand -hex 32 > secrets/secretToken.txt
 ```
@@ -438,7 +450,7 @@ This will populate `secret-template.yaml` and `config-template.yaml` with the ap
 You will be asked to provide your DockerHub login credentials in order to connect your DockerHub account to the BinderHub.
 You must provide your Docker **username**, not your email address associated with the account.
 
-```
+```bash
 ./setup.sh
 ```
 
@@ -448,7 +460,7 @@ You must provide your Docker **username**, not your email address associated wit
 
 First, pull the latest Helm chart for BinderHub.
 
-```
+```bash
 helm repo add jupyterhub https://jupyterhub.github.io/helm-chart
 helm repo update
 ```
@@ -457,7 +469,7 @@ helm repo update
 
 Next, install the required Helm chart using the config files we created in [Step 2: Run `setup.sh`](#2-run-setupsh).
 
-```
+```bash
 helm install jupyterhub/binderhub \
     --version=0.2.0-f565958 \
     --name=binderhub \
@@ -465,6 +477,7 @@ helm install jupyterhub/binderhub \
     -f secrets/secret.yaml \
     -f secrets/config.yaml
 ```
+
 * `--version` refers to the version of the BinderHub Helm Chart.
   Available versions can be found [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub).
   We have used the version released on 11 August 2019.
@@ -481,7 +494,7 @@ You may need to wait a few moments before moving on as the resources may take a 
 Print the IP address of the JupyterHub that was just deployed by running the following command.
 It will be listed in the `EXTERNAL-IP` field.
 
-```
+```bash
 kubectl get svc proxy-public --namespace=binderhub
 ```
 
@@ -497,7 +510,7 @@ Now do the following steps:
 
 Rerun `setup.sh`.
 
-```
+```bash
 ./setup.sh
 ```
 
@@ -505,7 +518,7 @@ Rerun `setup.sh`.
 
 Now upgrade the Helm chart to deploy the change.
 
-```
+```bash
 helm upgrade binderhub jupyterhub/binderhub \
     --version=0.2.0-f565958 \
     -f secrets/secret.yaml \
@@ -518,7 +531,7 @@ helm upgrade binderhub jupyterhub/binderhub \
 
 Find the IP address of your BinderHub under the `EXTERNAL-IP` field.
 
-```
+```bash
 kubectl get svc binder --namespace=binderhub
 ```
 
@@ -547,7 +560,7 @@ Always check that all pods have `RUNNING` status using `kubectl get pods -n bind
 If something is not working correctly with your BinderHub, the quickest way to find the problem is to access the JupyterHub logs.
 Executing the following commands will print the JupyterHub logs to your terminal.
 
-```
+```bash
 # Lists all active pods. Find the one beginning with "hub-"
 kubectl get pods --namespace binderhub
 # Where <random-str> matches the output from the last step
@@ -556,7 +569,7 @@ kubectl logs hub-<random-str> --namespace binderhub
 
 You can also access information about individual pods with the following command.
 
-```
+```bash
 kubectl describe pod <POD-NAME> --namespace binderhub
 ```
 
@@ -598,7 +611,7 @@ In the `templates` folder, edit `page.html` to contain the name of your image fi
 Add the following to your `config.yaml` file.
 Remember to replace `<your-github-username>` in the repo URL with your GitHub username!
 
-```
+```yaml
 config:
   BinderHub:
     template_path: /etc/binderhub/custom/templates
@@ -637,7 +650,7 @@ extraVolumeMounts:
 
 To deploy the changes, upgrade the helm chart.
 
-```
+```bash
 helm upgrade binderhub jupyterhub/binderhub \
     --version=0.2.0-f565958 \
     -f secrets/secret.yaml \
@@ -647,7 +660,7 @@ helm upgrade binderhub jupyterhub/binderhub \
 Visit your Binder page to see your new logo!
 To get the IP address of the Binder page, run the following command.
 
-```
+```bash
 kubectl get svc binder --namespace=binderhub
 ```
 
@@ -725,7 +738,7 @@ Copy these into the `clientId` and `clientSecret` fields in `config.yaml`, as st
 
 To apply the config changes, we need to upgrade the deployed Helm chart using the same command as in [Step 4: Connect JupyterHub and BinderHub](#4-connect-jupyterhub-and-binderhub).
 
-```
+```bash
 helm upgrade binderhub jupyterhub/binderhub \
     --version=0.2.0-f565958 \
     -f secrets/secret.yaml \
@@ -747,9 +760,10 @@ This involves deleting the Helm release and all of the computing resources in Az
 
 First we delete the Helm release that installed the JupyterHub and BinderHub and any resources that it created.
 
-```
+```bash
 helm delete binderhub --purge
 ```
+
 **NOTE:** `binderhub` is the release name we defined in [Step 3: Install BinderHub](#3-install-binderhub).
 
 #### 2. Delete the Kubernetes Namespace
@@ -757,7 +771,7 @@ helm delete binderhub --purge
 Next we delete the Kubernetes namespace the hub was installed in.
 This will delete any disks that were created to store user's data and any IP addresses.
 
-```
+```bash
 kubectl delete namespace binderhub
 ```
 
@@ -765,25 +779,27 @@ kubectl delete namespace binderhub
 
 You can list your active resource groups using the following command.
 
-```
+```bash
 az group list --output table
 ```
 
 You can then delete the group for your BinderHub.
 
-```
+```bash
 az group delete --name testhub --no-wait
 ```
+
 **NOTE:**
-  * Be careful to select the correct resource group as this step will irreversibly delete all the resources in that group!
-  * `testhub` is the `name`/`namespace` we created in [Step 3: Create a Resource Group](#3-create-a-resource-group).
+
+* Be careful to select the correct resource group as this step will irreversibly delete all the resources in that group!
+* `testhub` is the `name`/`namespace` we created in [Step 3: Create a Resource Group](#3-create-a-resource-group).
 
 You can use the [Azure Portal](https://azure.microsoft.com/en-gb/features/azure-portal/) to double check all of your resources have been deleted.
 It may take a few minutes to clear up, but nothing relating to your BinderHub should remain after this step.
 
 You should also delete the `NetworkWatcherRG` group if you did not do so earlier.
 
-```
+```bash
 az group delete --name NetworkWatcherRG --no-wait
 ```
 
@@ -824,8 +840,9 @@ config:
 ```
 
 **NOTE:**
-  * If your Docker account is part of an organisation where you would like to store images instead, change the value of `image_prefix` to `<docker-organisation-name>/<prefix>-`
-  * The `<prefix>` can be any string since it will be prepended to image names.
+
+* If your Docker account is part of an organisation where you would like to store images instead, change the value of `image_prefix` to `<docker-organisation-name>/<prefix>-`
+* The `<prefix>` can be any string since it will be prepended to image names.
   It is recommended to be something short and descriptive, such as `binder-dev-` (for development) or `binder-prod-` (for the final product).
 
 ---
