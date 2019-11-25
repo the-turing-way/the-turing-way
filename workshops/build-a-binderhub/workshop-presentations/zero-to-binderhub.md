@@ -198,11 +198,26 @@ Do this **before** adding any secrets to the folder!
 
 Adapted from [Step Zero: Kubernetes on Microsoft Azure Container Service (AKS)](https://zero-to-jupyterhub.readthedocs.io/en/latest/microsoft/step-zero-azure.html).
 
-A short (and by no means exhaustive) [glossary](#glossary-of-kubernetes-terms) of Kubernetes terms is given at the end of this workshop, should you require further explanation.
+A short (but by no means exhaustive) [glossary](#glossary-of-kubernetes-terms) of Kubernetes terms is given at the end of this workshop, should you require further explanation.
 
-**NOTE:** You shouldn't need to login to Azure when using the Cloud Shell as it reads your login from the Portal.
+#### 1. Login to your account
 
-#### 1. Activate your Subscription
+Run the following command:
+
+```bash
+az login
+```
+
+You should then see a message reading:
+
+```bash
+To sign in, use a web browser to open the page https://microsoft.com/devicelogin and enter the code A-RANDOM-CODE to authenticate.
+```
+
+Visit the webpage <https://microsoft.com/devicelogin> and enter the random code as it appears in your browser.
+Then select the account that you would like to sign in with.
+
+#### 2. Activate your Subscription
 
 To see a list of Azure subscriptions you have available to you, you can run the following command.
 
@@ -229,7 +244,7 @@ az account set --subscription "Azure Pass - Sponsorship"
 
 **NOTE:** If your subscription name has no whitespace, the quotation marks are not required.
 
-#### 2. Create a Resource Group
+#### 3. Create a Resource Group
 
 Resource Groups are how the Azure environment labels services that are related to each other (further details in [this blog post](http://www.onlinetech.com/resources/references/how-to-use-azure-resource-groups-a-simple-explanation)).
 We will create a resource group in a specific region and create computational resources _within_ this group.
@@ -248,7 +263,7 @@ az group create --name testhub \
 
 :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
-#### 3. Create an Azure Kubernetes Service (AKS) Cluster
+#### 4. Create an Azure Kubernetes Service (AKS) Cluster
 
 This command will request a Kubernetes cluster within the resource group we created.
 It will request one `Standard_D2s_v3` virtual machine which a Kubernetes cluster installed.
@@ -291,7 +306,7 @@ There will also be a `NetworkWatcherRG` group which will be empty.
 This group is created under the assumption that the Kubernetes service will be extended in the future, which unlikely to be the case when deploying BinderHub.
 This group can be deleted.
 
-#### 4. Get credentials from Azure for `kubectl`
+#### 5. Get credentials from Azure for `kubectl`
 
 This step automatically updates your local Kubernetes client configuration file to be configured with the remote cluster we've just deployed, and allowing `kubectl` to be "logged-in" to the cluster.
 
@@ -302,7 +317,7 @@ az aks get-credentials --name hubcluster --resource-group testhub
 * `--name` is the cluster name defined in [Step 4: Create an Azure Container Service (AKS) Cluster](#4-create-an-azure-container-service-aks-cluster).
 * `--resource-group` is the resource group created in [Step 3: Create a Resource Group](#3-create-a-resource-group).
 
-#### 5. Check the Cluster is Fully Functional
+#### 6. Check the Cluster is Fully Functional
 
 ```bash
 kubectl get nodes
