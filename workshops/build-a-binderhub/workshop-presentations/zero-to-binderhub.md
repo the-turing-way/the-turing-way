@@ -298,6 +298,32 @@ az aks create --name hubcluster \
 For the sake of this workshop, you should have created your account with a different email address.
 Otherwise, you could ask your IT Services to provide you with a Service Principal.
 
+If your Cloud Shell has timed out while the cluster was creating, you can do the following steps to retrieve the logs and see if the deployment was successful.
+
+#### A. Locate your Resource Groups
+
+In Azure Portal, select "Resource Groups" from the left-most menu panel.
+
+![Find Resource Groups](../binderhub_resources/resource_group1.png)
+
+#### B. Select `testhub`
+
+From the list of your Resource Groups, select `testhub`.
+
+![Select testhub Resource Group](../binderhub_resources/resource_group2.png)
+
+#### C. Select the Activity Log pane
+
+From the left side menu, select "Activity log".
+
+![Select Activity Log](../binderhub_resources/activity_log1.png)
+
+#### D. View the logs for Managed Cluster
+
+The logs for deploying the cluster will be under "Managed Cluster".
+
+![Managed Cluster Logs](../binderhub_resources/activity_log2.png)
+
 Once this command has completed, some extra resource groups will have been created which is normal behaviour.
 You can inspect them in the [Azure Portal](https://portal.azure.com/).
 The `testhub` group will contain the Kubernetes service, whereas a new resource group called `MC_testhub_hubcluster_westeurope` containing the cluster resources (virtual machines, etc.) will have appeared.
