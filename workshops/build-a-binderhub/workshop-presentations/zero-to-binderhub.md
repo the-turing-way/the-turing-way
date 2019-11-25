@@ -56,6 +56,7 @@ To complete the extra curricular steps, you will also need a GitHub account.
 * [Example config files](#example-config-files)
   * [`secret.yaml`](#secretyaml)
   * [`config.yaml`](#configyaml)
+  * [`setup.sh`](#setupsh)
 * [Glossary of Kubernetes terms](#glossary-of-kubernetes-terms)
 * [Reference Documentation](#reference-documentation)
 
@@ -506,6 +507,8 @@ Now do the following steps:
 2) Again in `setup.sh`, move the line reading `#  -e "s/<jupyter-ip>/${jupyter_ip}/" \` ([Line 27](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/build-a-binderhub/binderhub_resources/setup.sh#L27)) above the line `config-template.yaml > secrets/config.yaml` and uncomment it by removing the `#` from the start.
 3) Uncomment [line 8 of `config-template.yaml`](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/build-a-binderhub/binderhub_resources/config-template.yaml#L8) by removing the `#` from the beginning.
 
+There are examples of how [`setup.sh`](#setupsh) and [`config.yaml`](#configyaml) should look after these edits at the end of this document.
+
 :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
 Rerun `setup.sh`.
@@ -844,6 +847,43 @@ config:
 * If your Docker account is part of an organisation where you would like to store images instead, change the value of `image_prefix` to `<docker-organisation-name>/<prefix>-`
 * The `<prefix>` can be any string since it will be prepended to image names.
   It is recommended to be something short and descriptive, such as `binder-dev-` (for development) or `binder-prod-` (for the final product).
+
+### `setup.sh`
+
+```bash
+#!/bin/bash
+
+# Variables
+prefix=binder-dev       # Docker image prefix
+jupyter_ip=xx.xx.xx.xx  # Fill in the IP Address of your JupyterHub here
+
+# Get DockerHub login details here
+echo Please provide your DockerHub login details.
+read -p "DockerHub ID (NOT email): " docker_id
+read -sp "DockerHub password: " docker_pass
+echo
+
+# Make secrets directory if it doesn't already exist
+mkdir -p secrets
+
+# Populate secret.yaml
+sed -e "s/<apiToken>/$(cat secrets/apiToken.txt)/" \
+  -e "s/<secretToken>/$(cat secrets/secretToken.txt)/" \
+  -e "s/<docker-id>/${docker_id}/" \
+  -e "s/<password>/${docker_pass}/" \
+  secret-template.yaml > secrets/secret.yaml
+
+# Populate config.yaml
+sed -e "s/<docker>/${docker_id}/" \
+  -e "s/<prefix>/${prefix}/" \
+  -e "s/<jupyter-ip>/${jupyter_ip}/" \
+  config-template.yaml > secrets/config.yaml
+
+# End script with some outputs
+echo Your BinderHub files have been configured!
+ls secrets/
+echo
+```
 
 ---
 
