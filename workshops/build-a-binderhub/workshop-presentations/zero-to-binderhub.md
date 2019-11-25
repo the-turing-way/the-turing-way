@@ -231,7 +231,7 @@ Now let's set our working subscription.
 **If you are using a Free Trial suscription:**
 
 ```bash
-az account set -s "Free Trial"
+az account set --subscription "Free Trial"
 ```
 
 **If you are using an Azure Pass:**
@@ -721,7 +721,7 @@ jupyterhub:
     redirectToServer: false
     services:
       binder:
-        oauth_redirect_uri": "http://<binderhub_url>/oauth_callback"
+        oauth_redirect_uri: "http://<binderhub_url>/oauth_callback"
         oauth_client_id: "binder-oauth-client-test"
 
   singleuser:
