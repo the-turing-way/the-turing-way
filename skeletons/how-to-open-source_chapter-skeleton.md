@@ -21,4 +21,17 @@ How to Open Source
   * Topic 1
   * Topic 2
 
-Et cetera...
+* **Contributing to Open Source**: This subsection gives instructions and advice
+  on how to contribute to an open source project, particularly if you have not
+  done before.
+ * **What is a Useful Contribution**: Set out early what counts as a contribution,
+   demonstrating that even small contributions are valuable and not all
+   contributions have to be code. Also, setting expectations that code may be
+   the last thing you contribute.
+ * **What is Not Useful Contribution**: Pointing out pitfalls or potentially
+   problematic contributions. In particular, not being aware of the project's
+   roadmap, philosophy or direction.
+ * **How to Choose a Project**: How to assess a project and its community to try
+   and identify whether it will be welcoming.
+ * **How to Contribute**: More technical detail, creating issues, pull requests,
+   understanding contribution/style guidelines, asking for feedback/reviews.
