@@ -10,6 +10,7 @@ No previous experience required.
 - [Blogdown Websites with Rmarkdown](https://bookdown.org/yihui/blogdown/)
 - The Carpentries
 - [Code.org](https://code.org/)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/)
 
 
 
