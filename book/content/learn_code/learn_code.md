@@ -19,6 +19,6 @@ This chapter is to encourage you that coding for science is as important as havi
 By learning basic coding skills you are up-lifting your research reproducibility. Remember that pretty image that you want to add in your
 next publication? two months for now you have more data points that you need to show. Do you need to spend all those hours in re-creating 
 that figure? wouldn't it be useful to have a script that you can simply re-run to re-produce the figure with new data points, or with a 
-new colour scheme, or event with new acknowlodgements of where the data came from. 
+new colour scheme, or event with new acknowledgements of where the data came from. 
 This how a few lines of code can make your life much easier as a researcher who cares about reproducibility.
 
