@@ -9,6 +9,7 @@ No previous experience required.
 - [Happy Git with R](https://happygitwithr.com/)
 - [Blogdown Websites with Rmarkdown](https://bookdown.org/yihui/blogdown/)
 - The Carpentries
+- [Code.org](https://code.org/)
 
 
 
