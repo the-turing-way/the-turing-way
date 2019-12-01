@@ -11,6 +11,7 @@ No previous experience required.
 - The Carpentries
 - [Code.org](https://code.org/)
 - [The Python Tutorial](https://docs.python.org/3/tutorial/)
+- [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)
 
 
 
