@@ -1,6 +1,6 @@
 # The FAIR principles and practices
 
-The FAIR guiding principles for scientific data management and stewardship ([Wilkinson2016fair)(resources/#bibliography)] have been
+The FAIR guiding principles for scientific data management and stewardship {% cite Wilkinson2016fair %} have been
 developed as guidelines to improve the findability, accessibility, interoperability and re-usability of digital assets;
 all of which will support research reproducibility. Defined and endorsed by a growing community, these principles put a
 specific emphasis on enhancing the ability of machines to automatically find and use digital objects, in addition to
