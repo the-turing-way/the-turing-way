@@ -40,14 +40,14 @@ data management supports Open Research.
 
 ## Bibliography
 
-* Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J. J., Appleton, G., Axton, M., Baak, A., … Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3, 160018. Retrieved from [https://doi.org/10.1038/sdata.2016.18]
+* Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J. J., Appleton, G., Axton, M., Baak, A., … Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3, 160018. Retrieved from <https://doi.org/10.1038/sdata.2016.18>
 
-* Broman, K. W., & Woo, K. H. (2018). Data organization in spreadsheets. The American Statistician, 72(1), 2–10. [https://doi.org/10.1080/00031305.2017.1375989]
+* Broman, K. W., & Woo, K. H. (2018). Data organization in spreadsheets. The American Statistician, 72(1), 2–10. <https://doi.org/10.1080/00031305.2017.1375989>
 
-* Fuchs, S., & Kuusniemi, M. E. (2018). Making a research project understandable - Guide for data documentation (Version 1.2). Zenodo. [https://doi.org/10.5281/zenodo.1914401]
+* Fuchs, S., & Kuusniemi, M. E. (2018). Making a research project understandable - Guide for data documentation (Version 1.2). Zenodo. <https://doi.org/10.5281/zenodo.1914401>
 
-* Whitepaper: Practical challenges for researchers in data sharing. (2018). Figshare. [https://doi.org/10.6084/m9.figshare.5975011.v1]
+* Whitepaper: Practical challenges for researchers in data sharing. (2018). Figshare. <https://doi.org/10.6084/m9.figshare.5975011.v1>
 
-* Regulation, P. (2016). Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation). Official Journal of the European Union. Retrieved from [http://data.europa.eu/eli/reg/2016/679/oj]
+* Regulation, P. (2016). Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation). Official Journal of the European Union. Retrieved from <http://data.europa.eu/eli/reg/2016/679/oj>
 
-* Kuula, A. (2010). Methodological and Ethical Dilemmas of Archiving Qualitative Data. IASSIST Quarterly, 34(3-4), 35. Retrieved from [http://www.iassistdata.org/sites/default/files/iqvol34_35_kuula.pdf]
+* Kuula, A. (2010). Methodological and Ethical Dilemmas of Archiving Qualitative Data. IASSIST Quarterly, 34(3-4), 35. Retrieved from <http://www.iassistdata.org/sites/default/files/iqvol34_35_kuula.pdf>

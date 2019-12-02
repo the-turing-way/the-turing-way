@@ -55,11 +55,11 @@ licences are [Creative Commons](https://creativecommons.org/choose/),
 [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), or an
 [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/index.html). To get maximum value from
 data sharing make sure that your paper and code both link to your data, and vice versa, to allow others to best
-understand your project. <a name="Barriers-Share"></a>
+understand your project.
 
 ## Barriers to data sharing
 
-Some academics still find sharing data difficult. Recent surveys {% cite Stuart2018sharing %} amongst researchers find
+Some academics still find sharing data difficult. Recent surveys ([Whitepaper: Practical challenges for researchers in data sharing, 2018](resources/#bibliography)) amongst researchers find
 that sharing data is challenging for the following reasons:
 
 - Organising data in a presentable and useful way (mentioned by 46%),
@@ -74,13 +74,13 @@ Those will be addressed in the following paragraphs.
 
 Many fields of scientific disciplines involve working with sensitive personal data. Their management is well regulated
 in data protection legislation (in Europe through national implementations of the General Data Protection Regulation)
-and ethics procedures as they are established in most research institutions {% cite EU2016protection %}.
+and ethics procedures as they are established in most research institutions ([Regulation, 2016](resources/#bibliography)).
 
 ## Consent
 
 In order to make sure that anonymised research data can be made available for future reuse, it is important that consent
 forms cover sharing anonymised data with other researchers. Research so far suggests that study participants are usually
-less concerned about the data being archived and shared than researchers think {% cite Kuula2010archiving %}.
+less concerned about the data being archived and shared than researchers think ([Kuula, 2010](resources/#bibliography)).
 Participant information sheets and consent forms should include how research data will be stored, preserved and used in
 the long-term, and how confidentiality will be protected when needed.
 
