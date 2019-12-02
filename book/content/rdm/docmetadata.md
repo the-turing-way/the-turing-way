@@ -15,4 +15,5 @@ weaknesses, and analytical limitations of the data so that they can make informe
 - Variables should be defined and explained using
   [data dictionaries](http://help.osf.io/m/bestpractices/l/618767-how-to-make-a-data-dictionary)
 - Data should be stored in logical and hierarchical folder structures with a README file used to describe the structure.
-  The README file is helpful for others and will also help you find your data in the future ([Fuchs & Kuusniemi, 2018](resources/#bibliography)).
+  The README file is helpful for others and will also help you find your data in the future
+  {% cite Fuchs2018documentation %}.

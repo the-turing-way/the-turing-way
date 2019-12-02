@@ -17,7 +17,7 @@ Even if these errors are avoided, if the spreadsheet is poorly organised then it
 data for further analysis.
 
 It's often not practical to avoid the use of spreadsheets altogether but there are some simple steps that can be taken
-to mitigate their flaws. The following principles, taken from Broman et al. ([2018](resources/#bibliography)),
+to mitigate their flaws. The following principles, taken from Broman et al. {% cite Broman2018data --suppress_author %},
 provide some practical advice to ensure your data is clearly organised and human- and machine-readable:
 
 - Be consistent
