@@ -84,7 +84,7 @@ There are several reasons why Make is a good tool to use for reproducibility:
    executed by a computer.
 1. Because Makefiles are text files they are easy to share and keep in version 
    control.
-1. Using Make doesn't exclude using other tools such as Travis, Docker, etc.
+1. Using Make doesn't exclude using other tools such as Travis and Docker.
 
 ## Learn Make by Example
 
@@ -631,8 +631,8 @@ it with the Python CSV library, or Pandas, or R's ``read_csv``, or even
 CSV file uses an escape character ``\`` for movie names that have commas in 
 them and the CSV readers don't automatically detect this variation in the CSV 
 format.  It turns out that this is quite a common issue for data scientists: 
-CSV files are often messy and use an uncommon *dialect*: a strange delimiter, 
-uncommon quote characters, etc.  Collectively, data scientists waste quite 
+CSV files are often messy and use an uncommon *dialect*: such as strange delimiters and
+uncommon quote characters.  Collectively, data scientists waste quite 
 some time on these data wrangling issues where manual intervention is needed. 
 But this problem is also not that easy to solve: to a computer a CSV file is 
 simply a long string of characters and every dialect will give you *some* 
