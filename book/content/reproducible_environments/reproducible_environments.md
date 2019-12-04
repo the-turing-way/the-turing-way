@@ -91,7 +91,7 @@ environments and gives guidance on their strengths and weaknesses.
 ### What is a computational environment?
 
 In broad terms, the computational environment is the system where a program is run. This includes features of hardware
-(e.g. numbers of cores in any CPUs) and features of software (e.g. the operating system, programming languages,
+(such as the numbers of cores in any CPUs) and features of software (such as the operating system, programming languages,
 supporting packages and other pieces of software that are installed, and their versions and configuration).
 
 Software versions are often defined via [semantic versioning](https://semver.org). In this system three numbers, e.g
