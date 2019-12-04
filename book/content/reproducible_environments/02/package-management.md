@@ -8,7 +8,7 @@ Package managers install and keep track of the different software packages (and 
 
 ### What does Conda do?
 
-Conda allows users to create any number of environments which are entirely separate, and to quickly and easily change between them. For example, say a researcher has a project: Project One, which has its own environment defined by Conda i.e. a set of packages and versions of those packages:
+Conda allows users to create any number of environments which are entirely separate, and to quickly and easily change between them. For example, say a researcher has a project: Project One, which has its own environment defined by Conda which is a set of packages and versions of those packages:
 
 | Package name | Version |
 | ------------ | ------- |
@@ -71,7 +71,7 @@ To create an environment use `conda create --name your_project_env_name` followe
 conda create --name Project_One scipy matplotlib
 ```
 
-You can specify the versions of certain (or all) packages by using `=package_number` after the name, e.g. to specify scipy 1.2.1 in the above environment
+You can specify the versions of certain (or all) packages by using `=package_number` after the name. For example, to specify scipy 1.2.1 in the above environment
 
 ```
 conda create --name Project_One scipy=1.2.1 matplotlib
