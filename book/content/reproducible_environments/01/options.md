@@ -4,7 +4,7 @@
 
 There are a number of ways of capturing computational environments. The major ones covered in this chapter will be package management systems, Binder, virtual machines, and containers. Each have their own pros and cons, and which is the most appropriate for you will depend on the nature of your project.
 
-These can be broadly split into two categories: those that capture only the software and its versions used in an environment (package management systems), and those that replicate an entire computational environment including the operating system, customised settings etc. (virtual machines, containers).
+These can be broadly split into two categories: those that capture only the software and its versions used in an environment (package management systems), and those that replicate an entire computational environment including the operating system and customised settings (virtual machines and containers).
 
 Another way these can be split is by how the reproduced research is presented to the reproducer. Using Binder or a virtual machine creates a much more graphical, GUI-type result, whereas the outputs of containers and package management systems are more easily interacted with via the command line.
 
@@ -59,6 +59,6 @@ Virtual machines are simulated computers. A user can make a "virtual" computer v
 
 Containers offer many of the same benefits as virtual machines. They essentially act as entirely separate machines which can contain their own files, software and settings.
 
-The difference is that virtual machines include an entire operating system along with all the associated software etc. that is typically packaged with it- regardless of whether the project actually makes use of that associated software. Containers only contain the software and files explicitly defined within them in order to run the project they contain. This makes them far more lightweight than virtual machines.
+The difference is that virtual machines include an entire operating system along with all the associated software. that is typically packaged with it- regardless of whether the project actually makes use of that associated software. Containers only contain the software and files explicitly defined within them in order to run the project they contain. This makes them far more lightweight than virtual machines.
 
 Containers are particularly useful if projects need to be able to run on high performance computing environments as, since they already _contain_ all the necessary software, they save having to install anything on an unfamiliar system where the researcher may not have the required permissions to do so.
