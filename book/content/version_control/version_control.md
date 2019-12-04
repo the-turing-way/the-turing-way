@@ -150,7 +150,7 @@ We will talk in more detail about these commands [later](#commits), but for now 
 ### The problem
 
 When working on a project you will make numerous changes to your files as you progress. Sometimes you may need to undo changes, take another look at past versions, or compare versions.
-Saving each version individually (version_1.py, version_2.py etc) is messy and quickly becomes impractical.
+Saving each version individually (such as `version_1.py` and `version_2.py`) is messy and quickly becomes impractical.
 
 ### The solution
 
@@ -172,7 +172,7 @@ or you can add the changes to specific files via:
 git add your_file_name
 ```
 
-If you are ever unsure what files have been added, what files have been changed, what files are untracked etc you can run the following to find out:
+If you are ever unsure what files have been added, what files have been changed, what files are untracked, you can run the following to find out:
 
 ```
 git status
@@ -546,7 +546,7 @@ It is also often difficult and time-consuming to manually incorporate the differ
 ### The solution
 
 Hosting the project on a distributed version control system such as GitHub.
-Collaborators can then clone the project and work on that copy making commits, branches, etc without impacting the original. 
+Collaborators can then clone the project and work on the cloned copy making commits and new branches without impacting the original repository.
 Collaborators can then *push* their work to each other, and *pull* other's work into their own copy.
 In this way it is easy to keep everyone up to date and to track what has been done and by who.
 GitHub also has numerous other handy features such as the ability to raise and assign issues, discuss the project via comments, and review each other's changes.
@@ -681,7 +681,7 @@ This also works for using commit messages to close issues too.
 | git log                       | Output a log of past commits with their commit messages                  |
 | git status                    | Output status including what branch you're on & what changes are staged  |
 | git diff                      | Output difference between working directory and most recent commit       |
-| git diff thing_a thing_b      | Output difference between two things e.g. commits, branches              |                     
+| git diff thing_a thing_b      | Output difference between two things, such as commits and branches       |                     
 
 ## Checklists
 
