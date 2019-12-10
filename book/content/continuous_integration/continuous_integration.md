@@ -106,19 +106,19 @@ Once Travis has been set up on a project then each time a commit is made it:
 
 Here's what the Travis dashboard of a repository looks like:
 
-![Travis_build](/assets/figures/Travis_build.png)
+![Travis_build](../figures/Travis_build.png)
 
 Everything's green because the build is passing. Note the "build passing" badge at the top. If you click that you will get a popup with a dropdown menu where you can select a way of copying the badge. If you select "markdown" and copy and paste the code snippet it outputs into a markdown file in the project, then GitHub will display the badge in that file:
 
-![Travis_badge_pass](/assets/figures/Travis_badge_pass.png)
+![Travis_badge_pass](../figures/Travis_badge_pass.png)
 
 If I deliberately create a bug and commit it then Travis automatically runs, the tests fail, and this badge automatically updates to "build failing":
 
-![Travis_badge_fail](/assets/figures/Travis_badge_fail.png)
+![Travis_badge_fail](../figures/Travis_badge_fail.png)
 
 You can use Travis to test your project in multiple computational environments my specifying them in the .travis.yml file. A quick note on Travis vocabulary:
 
-- Job - an automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code, running tests, etc. A job fails if the return code of the script encounters an error.
+- Job - an automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code and running tests. A job fails if the return code of the script encounters an error.
 - Build - a group of jobs. For example, a build might have two *jobs*, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
 
 <a name="Setting_up_continuous_integration_with_Travis"></a>
@@ -162,7 +162,7 @@ os: windows
 
 It is possible to build and test a project on multiple operating systems and against multiple versions of a programming language. This will be not be discussed here as this presents and extra level of complexity and will not be needed in most cases for research, but it is discussed [later](#Testing_a_project_against_multiple_versions_of_a_programming_language).
 
-To specify the distribution of an operating system to run the project with use `dist`, e.g.:
+To specify the distribution of an operating system to run the project with use `dist`, for example:
 
 ```
 os: linux
@@ -193,7 +193,7 @@ compiler:
 
 Not all languages/software are available on all operating systems however they can typically be installed within the .travis.yml file.
 
-To install packages that are not included in the standard version of the operating system specified you can include a `before_install` step in your `.travis.yml` along with the necessary code to install them, e.g.:
+To install packages that are not included in the standard version of the operating system specified you can include a `before_install` step in your `.travis.yml` along with the necessary code to install them, for example:
 
 ```
 before_install:
@@ -214,7 +214,7 @@ script:
   - sudo docker run -t a_demo_image pytest
 ```
 
-If you need to run more than one command in your script then you can include a script file within the container which contains those commands. Then the same process shown above can be used  to run it, e.g.
+If you need to run more than one command in your script then you can include a script file within the container which contains those commands. Then the same process shown above can be used  to run it, like:
 ```
 script:
   - sudo docker run -t a_demo_image ./a_script.sh
@@ -275,7 +275,7 @@ python:
 <a name="Testing_a_project_on_multiple_operating_systems"></a>
 ### Testing a project on multiple operating systems
 
-If your code is used on multiple operating systems it should be tested on multiple operating systems. To enable testing on multiple operating systems add multiple entries under the `os` key in your `.travis.yml` file, e.g.:
+If your code is used on multiple operating systems it should be tested on multiple operating systems. To enable testing on multiple operating systems add multiple entries under the `os` key in your `.travis.yml` file, for example:
 ```
 os:
   - linux
@@ -409,7 +409,7 @@ Travis's official tutorial is [here](https://docs.travis-ci.com/user/tutorial/).
 
 **GitHub:** A widely used version control platform.
 
-**Job:** An automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code, running tests, etc. A job fails if the return code of the script encounters an error.
+**Job:** An automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code and running tests. A job fails if the return code of the script encounters an error.
 
 **Travis:** A commonly used continuous integration platform.
 
