@@ -8,7 +8,8 @@ Package managers install and keep track of the different software packages (and 
 
 ### What does Conda do?
 
-Conda allows users to create any number of environments which are entirely separate, and to quickly and easily change between them. For example, say a researcher has a project: Project One, which has its own environment defined by Conda which is a set of packages and versions of those packages:
+Conda allows users to create any number of environments which are entirely separate, and to quickly and easily change between them.
+For example, say a researcher has a project: Project One, which has its own environment defined by Conda which is made up of a set of packages and versions of those packages:
 
 | Package name | Version |
 | ------------ | ------- |
