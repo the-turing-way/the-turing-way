@@ -11,7 +11,7 @@ pipeline to build a pdf report for an analysis scripted in R using Rmarkdown. To
 the respective R packages need to be installed and (ii) the R version needs to be the same, but also (iii) the versions
 of pandoc and LaTeX need to be exaclty the same as during runtime.
 
-Instead of trying to resolve these dependencies via a package manager (e.g. conda) which also depends on all required
+Instead of trying to resolve these dependencies via a package manager (such as conda) which also depends on all required
 software being available in a single package manager, it might be easier to simply create a snapshot of the entire
 computing environment including all dependencies. These computing environments are then self-contained, hence the name
 'containers'.
@@ -50,7 +50,7 @@ Think of it like this:
 
 - A recipe file a human writes contains all the steps to generate a working version of the project and its computational
   environment, but no actual materials. Think of this as like a blueprint.
-- Building an image takes that recipe and using it assembles all the packages, software libraries, configurations etc
+- Building an image takes that recipe and using it assembles all the packages, software libraries, and configurations
   needed to make the fully fledged project and environment and bundles them up in a condensed lump. Think of images like
   a bit of flat pack furniture made using the blueprint.
 - Containers take that image and assemble a full working version of the project and the environment needed to run it.
@@ -421,10 +421,10 @@ conducted on shared resource like HPC systems where users will never have root a
 The [singularity](https://www.sylabs.io/) container software was introduced to address exactly this issue. Singularity
 was created with HPC sytems and reproducible research in mind (see [this](https://www.youtube.com/watch?v=DA87Ba2dpNM)
 video). It does not require root access to run (only to build container _images_!) and thus enables HPC users to locally
-build container images before running analyses, e.g., on a high-performance cluster. As an added benefit, this makes it
+build container images before running analyses, for example, on a high-performance cluster. As an added benefit, this makes it
 possible to use almost any software on an HPC system without having to bother admin staff with installing it. In
 recognition of the fact that Docker is _the_ most well known containerization approach, singularity aims at maintaining
-compatibility with docker containers as much as possible, i.e., singularity can be used to run normal docker containers
+compatibility with docker containers as much as possible, meaning that singularity can be used to run normal docker containers
 (without requiring root access!).
 
 Singularity can be used to run Docker images or extend them by building new images based on docker containers as base
