@@ -4,13 +4,13 @@ Hello Turing Way friends!
 
 As we prepare to wrap up this year, join our holiday spectacular Collaboration Cafe on 18 December 2019 at 19:00 GMT, [sign up here](https://hackmd.io/sTZZwnYdS3umVWHHHLc6Mw?edit).
 
-Save the date and send in your applications to participate at the for the first _Turing Way_ Book Dash 📚💨💨 of 2020, an in-person The Turing Way collaboration event.
+Save the date and send in your applications to participate at the for the first _Turing Way_ Book Dash 📚💨💨 of 2020, an in-person _The Turing Way_ collaboration event.
 Here is the [application form](https://forms.gle/ayYz87UqNoxzJNpn6).
 
 Can you represent the project in the new year?
 Shout out to Kirstie Whitaker, Sarah Gibson, Rachael Ainsworth and Louise Bowler for representing _The Turing Way_ in the last month at PyData Cambridge, the Open Life Science mentoring program, Glasgow Women in Computing Science, and The Alan Turing Institute.
 
-It was an eventful year for The Turing Way project and its community.
+It was an eventful year for _The Turing Way_ project and its community.
 We thank everyone for their contributions and highlight a few important milestones in this project.
 
 Detailed posts on these topics are provided below 👇
@@ -80,7 +80,7 @@ If you love reproducibility (and we know you do!) and you're from one of the [N8
 
 _Turing Way_ team member and Software Sustainability Institute fellow [Anna Krystalli](https://www.software.ac.uk/about/fellows/anna-krystalli) is running these one day hackathons in Newcastle ([21 January](https://n8cir.org.uk/events/reprohack-newcastle/)), Leeds ([14 February](https://n8cir.org.uk/events/reprohack-leeds/)), Liverpool ([25 February](https://n8cir.org.uk/events/reprohack-liverpool/)), Sheffield ([10 March](https://n8cir.org.uk/events/reprohack-sheffield/)) and Manchester ([12 March](https://n8cir.org.uk/events/reprohack-manchester/))!!
 
-You can read more about these events to reproduce published papers [on the SSI blog](https://www.software.ac.uk/blog/2019-08-07-reprohacking-carpentryconnect-manchester-2019) and submit a suggestion of a paper to reproduce at [https://sheffield-university.shinyapps.io/n8cir-reprohacks/](https://sheffield-university.shinyapps.io/n8cir-reprohacks/).
+You can read more about these events to reproduce published papers [on the SSI blog](https://www.software.ac.uk/blog/2019-08-07-reprohacking-carpentryconnect-manchester-2019) and submit a suggestion of a paper to reproduce at [https://sheffield-university.shinyapps.io/n8cir-reprohacks](https://sheffield-university.shinyapps.io/n8cir-reprohacks/).
 
 ## Acknowledgements and celebrations
 
@@ -94,7 +94,7 @@ As we celebrate the completion of this project's first year, we want to highligh
 
 Within one month of its launch, three chapters were added in the handbook, contributing guidelines were collaboratively developed and the [first newsletter](https://tinyletter.com/TuringWay/letters/the-turing-way-february-update) was published.
 
-In the next few months, three workshops were successfully conducted on reproducibility with Binder and BinderHub, and the [The Turing Way handbook](https://software.ac.uk/blog/2019-02-21-inspiring-demos-are-waiting-you-collaborations-workshop-2019) was launched and demo-ed at the [Software Sustainability Institute's Collaborations Workshop](https://www.software.ac.uk/cw19) in Loughborough.
+In the next few months, three workshops were successfully conducted on reproducibility with Binder and BinderHub, and the [_The Turing Way_ handbook](https://software.ac.uk/blog/2019-02-21-inspiring-demos-are-waiting-you-collaborations-workshop-2019) was launched and demo-ed at the [Software Sustainability Institute's Collaborations Workshop](https://www.software.ac.uk/cw19) in Loughborough.
 
 Two book-dash events were organised in [Manchester on 16-17 May](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-mcr-report.md) and [London on 27-28 May](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-ldn-report.md), which were attended by 26 new members who came together to exchange their skills with others through the project by reviewing existing chapters and creating new chapters.
 
