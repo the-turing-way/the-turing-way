@@ -36,6 +36,8 @@ Deadlines for applications is **15 January 2019** [Anywhere on Earth](https://en
 The main aim of this event is to facilitate in-person collaboration and content building of _The Turing Way_ book on topics related to data science, project design, reproducibility, ethics and how to collaborate.
 Please send your application by filling this [online form](https://forms.gle/ayYz87UqNoxzJNpn6).
 
+![Two pictures both of groups of smiling people](images/BookDash-Combo-Dec2019.png)
+
 **Please share this opportunity widely.**
 These events are most successful when we bring together a diverse range of people.
 (You could also suggest that they sign up for this newsletter too 😉)
