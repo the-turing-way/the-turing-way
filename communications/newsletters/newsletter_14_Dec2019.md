@@ -6,7 +6,7 @@ Hello Turing Way friends!
 
 As we prepare to wrap up this year, join our next Collaboration Cafe on 18 December 2019 at 17:00 GMT, [sign up here](https://hackmd.io/sTZZwnYdS3umVWHHHLc6Mw?edit). 
 
-Send your applications to participate at the for the first Turing Way Book Dash of 2020, an in-person The Turing Way collaboration event. Here is the [application form](https://forms.gle/yWhiDKcB8mxf9Pjv8).
+Send your applications to participate at the for the first Turing Way Book Dash of 2020, an in-person The Turing Way collaboration event. Here is the [application form](https://forms.gle/ayYz87UqNoxzJNpn6).
 
 Shout out to Kirstie Whitaker, Sarah Gibson, Rachael Ainsworth and Louise Bowler for representing The Turing Way at PyData Cambridge, Open Life Science mentoring program, Glasgow Women in Computing Science and The Turing Institute.
 
@@ -28,11 +28,11 @@ You can sign up [here](https://hackmd.io/sTZZwnYdS3umVWHHHLc6Mw?edit) to connect
 ### The Turing Way Book dash: Applications Open!
 
 We are accepting applications for the next Book Dash until **15 January 2019**. This event will take place on **Friday 22 February** at the Turing Institute in London. 
-The main aim of this event is to facilitate in-person collaboration and content building of The Turing Way book on the topics related to data science, project design, reproducibility, ethics and community. Please send your application by filling this [online form](https://forms.gle/yWhiDKcB8mxf9Pjv8).
+The main aim of this event is to facilitate in-person collaboration and content building of The Turing Way book on the topics related to data science, project design, reproducibility, ethics and community. Please send your application by filling this [online form](https://forms.gle/ayYz87UqNoxzJNpn6).
 
 ## News from the community
 
-The last Collaboration Cafe took place on 21 November 2019, which was joined by multiple people from across the globe making it a highly interactive and fun session. Check out [this cheerful Tweet thread](https://twitter.com/kirstie_j/status/1197261780881477646) by the attendees.
+The last Collaboration Cafe took place on 21 November 2019, which was joined by multiple people from across the globe making it a highly interactive and fun session. Check out [the lovely Tweets](https://twitter.com/kirstie_j/status/1197261780881477646) by the attendees.
 
 Sarah Gibson was interviewed by the Open Life Science program, where she mentioned that The Turing Way allowed her to learn about Open Science while practicing it. 
 You can read the [complete blog](https://t.co/id2GjQZvdx?amp=1) highlighting Sarah’s contributions in reviewing the Open Life Science program. 
@@ -46,7 +46,7 @@ Rachael Ainsworth was invited by Glasgow Women in Computing Science, where she p
 
 <<Images will be added>>
 
-*See more tweets for [#TuringWay](https://twitter.com/search?q=%22turingway%22&src=typed_query&f=live)*
+*See more Tweets for [#TuringWay](https://twitter.com/search?q=%22turingway%22&src=typed_query&f=live)*
 
 ## Relevant resources
 
