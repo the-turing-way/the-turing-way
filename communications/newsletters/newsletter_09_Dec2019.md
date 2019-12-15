@@ -31,16 +31,19 @@ You can sign up [here](https://hackmd.io/sTZZwnYdS3umVWHHHLc6Mw?edit) to connect
 
 We are accepting applications for the next _Turing Way_ Book Dash 📚💨💨 which will be held on **Friday 22 February** at the Turing Institute in London.
 
-Deadlines for applications is **15 January 2019** [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
+***Please send your book dash application by filling this [online form](https://forms.gle/ayYz87UqNoxzJNpn6).***
 
 The main aim of this event is to facilitate in-person collaboration and content building of _The Turing Way_ book on topics related to data science, project design, reproducibility, ethics and how to collaborate.
-Please send your application by filling this [online form](https://forms.gle/ayYz87UqNoxzJNpn6).
+
+You can read the reports from the events in [Manchester](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-mcr-report.md) and [London](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-ldn-report.md) in May 2019 for more information.
 
 ![Two pictures both of groups of smiling people](images/BookDash-Combo-Dec2019.png)
 
+Deadlines for applications is **15 January 2019** [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
+
 **Please share this opportunity widely.**
-These events are most successful when we bring together a diverse range of people.
-(You could also suggest that they sign up for this newsletter too 😉)
+These events are most successful when we bring together a diverse group of people.
+(You could also suggest that they [sign up for this newsletter](https://tinyletter.com/TuringWay) too 😉)
 
 If you have any questions we're very happy to answer them in the [collaboration cafes](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md) on 18 December and 15 January, or in the _Turing Way_ [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
 
