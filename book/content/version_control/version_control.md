@@ -70,7 +70,7 @@ An illustration of this is shown in the figure below.
 
 ![master_branch](../figures/master_branch.png)
 
-In lots of version control systems you will be able to add a comment explaining what changes have been made in this version. 
+In lots of version control systems you will be able to add a comment explaining what changes have been made in this version.
 These comments should be as clear as possible and make it easy to understand which version is which.
 This ensures that it is easy to find what you are looking for when you need to go back to a past version.
 Your collaborators will thank you, but so will future versions of yourself.
@@ -104,7 +104,7 @@ This is helpful should you want to share your analysis (not only your data), and
 A version control system stores all your changes neatly away so while it is still easy to access them your working directory is not cluttered by the debris of versions past that it is necessary to keep just in case.
 Similarly with version control there is no need to leave chunks of code commented should you ever need to come back to an old version again.
 
-Finally version control is invaluable for collaborative projects where different people work on the same code simultaneously. 
+Finally version control is invaluable for collaborative projects where different people work on the same code simultaneously.
 It allows the changes made by different people to be tracked, and can automatically combine people's work via merging saving a great deal of painstaking effort to do so manually.
 Moreover, version control hosting websites, such as GitHub, provide way to communicate in a more structured way, such as in code reviews, about commits and about issues.
 
@@ -159,7 +159,7 @@ Commits serve as checkpoints where individual files or an entire project can be 
 
 ### How to do it
 
-When you have made a series of changes and you want to commit them you fist add these changes to your staging area using `git add`.
+When you have made a series of changes and you want to commit them you first add these changes to your staging area using `git add`.
 You can add all your changes using:
 
 ```  
@@ -236,7 +236,7 @@ Finally, **do not commit anything that can be regenerated from other things that
 
 As you work on you project you will make more and more commits.
 Without any other information it can be hard to remember which version of your project is in which.
-Storing past versions is useless if you ca not understand them, and figuring out what they contain by inspecting the code is frustrating and takes valuable time.  
+Storing past versions is useless if you can not understand them, and figuring out what they contain by inspecting the code is frustrating and takes valuable time.  
 
 ### The solution
 
@@ -313,19 +313,19 @@ These data sources can be commits, branches, files and more.
 ### How to do it
 
 By default `git diff` will show you any uncommitted changes since the last commit.
-If you want to compare two specific things the syntax is
+If you want to compare two specific things the syntax is:
 
 ```
 git diff thing_a thing_b
 ```
 
-For example if you want to compare how a file has changed between two commits use `git log` to get the SHAs of those commits and run
+For example if you want to compare how a file has changed between two commits use `git log` to get the SHAs of those commits and run:
 
 ```
 git diff SHA_a:your_file_name SHA_b:your_file_name
 ```
 
-Or if you wanted to compare two branches it would be
+Or if you wanted to compare two branches it would be:
 
 ```
 git diff branch_name other_branch_name
@@ -564,7 +564,7 @@ There are a number of GitHub tutorials available such as [this one](https://guid
 
 First make an account on [GitHub](https://GitHub.com/), and create a repository on it.
 To do this click the + sign dropdown menu in the upper right hand of the screen.
-Enter a name for the repository (ideally the same name as the project folder on your computer) and click Create Repository. 
+Enter a name for the repository (ideally the same name as the project folder on your computer) and click Create Repository.
 Now you just need to link the project on your computer to this online repository.
 If your project is not already version controlled then make it so by running `git init` and making a commit.
 In the terminal on your computer use:
@@ -635,11 +635,11 @@ This information will also assist you collaborators, and your future employer mi
 
 There are plenty of readme templates available online, pick one you like, but here is a list of the main things a readme should include:
 
-- The project name and what it is: This will greatly help the random prospective contributor to get an idea of the project. 
+- The project name and what it is: This will greatly help the random prospective contributor to get an idea of the project.
 Include a few key points that describe the main features of the project and what are the main features you are implementing.
 This helps to quickly compare other projects with yours and to give an idea that why the project exists in the first place.
 - Instructions on how to install the project: The installer might be a collaborator, someone that comes across and is interested in the project, or even you if you get a new machine and need to re-install your project.
-Nevertheless, it's a total waste of both of your resources to start figuring out how to just get started with the project. 
+Nevertheless, it's a total waste of both of your resources to start figuring out how to just get started with the project.
 This should also include any prerequisites that will be needed to run the project.
 The best thing you can do is to just write up the installation instructions when you first do them yourself, and you will quickly save hours of work in the future.
 - Instructions for how to run the project and any associated tests: If you have been working on your project it may seem obvious how to run it, but this will likely not be the case for someone coming across it for the first time.
@@ -648,7 +648,7 @@ The best thing you can do is to just write up the installation instructions when
 - Acknowledgements.
 
 It can be a good idea to **include documents outlining a code of conduct, agreed ways of working, and contributing guidelines**, though depending on the level of detail you want to provide the latter two can also work as sections within the readme.
-These documents make explicit expectations for those working on/contributing to the project, making life easier for everyone. 
+These documents make explicit expectations for those working on/contributing to the project, making life easier for everyone.
 Similarly depending on the scope of your project you may wish to **provide templates for how contributors should make pull requests or raise issues**.
 
 You can also **make use of one of GitHub's major features- issues**.
