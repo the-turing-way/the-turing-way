@@ -51,13 +51,15 @@ The last Collaboration Cafe ☕️ took place on 21 November 2019, which was joi
 [Sarah Gibson](https://twitter.com/drsarahlgibson) was interviewed by the [Open Life Science](https://openlifesci.org/) program, where she mentioned that _The Turing Way_ allowed her to learn about Open Science while practicing it.
 You can read the [complete blog](https://openlifesci.org/posts/2019/11/25/expert-review) highlighting Sarah's contributions in reviewing the Open Life Science program.
 
+![Quote from Sarah Gibson: "Being part of the openly developed project, The Turing Way, from the start made it easier for me to work openly. Moreover, Kirstie Whitaker (project lead) supports us to make things work best for us, rather than what others expect."](images/Quote-SarahGibson-OpenLifeSci.jpg)
+
 [Rachael Ainsworth](https://twitter.com/rachaelevelyn) was invited by Glasgow Women in Computing Science, where she presented a talk on Open Science, research reproducibility and _The Turing Way_.
 Read [this blog](https://software.ac.uk/blog/2019-11-29-open-science-university-glasgow) by [Frances Cooper](https://software.ac.uk/about/fellows/frances-cooper) to learn more about this event.
 
 ### Shout outs on Twitter
 
-We love hearing how _The Turing Way_ is being used through twitter!
-This month we featured on the [We Are RLadies](https://twitter.com/WeAreRLadies) account,
+We love hearing on twitter how you're using material from _The Turing Way_!
+This month we featured on the [We Are RLadies](https://twitter.com/WeAreRLadies) account and were recommended to attendees of the [Code Refinery](https://coderefinery.org/) workshop at Aalto University in Finland!
 
 ![Screenshots of tweets highlighting The Turing Way being promoted at events outside of the core team](images/Tweet-combo-Dec2019.png)
 
@@ -67,16 +69,23 @@ See more tweets and share your experiences using the [#TuringWay](https://twitte
 
 ## Relevant resources
 
-<<Please remove this if there is no suitable suggestion for this release>>
+### ReproHacks
 
+If you love reproducibility (and we know you do!) and you're from one of the [N8](https://www.n8research.org.uk) (the eight most intensive universities in the North of England) then you'll really enjoy taking part in one of the [N8 CIR ReproHacks](https://n8cir.org.uk/news/reprohacks) in 2020.
+
+_Turing Way_ team member and Software Sustainability Institute fellow [Anna Krystalli](https://www.software.ac.uk/about/fellows/anna-krystalli) is running these one day hackathons in Newcastle ([21 January](https://n8cir.org.uk/events/reprohack-newcastle/)), Leeds ([14 February](https://n8cir.org.uk/events/reprohack-leeds/)), Liverpool ([25 February](https://n8cir.org.uk/events/reprohack-liverpool/)), Sheffield ([10 March](https://n8cir.org.uk/events/reprohack-sheffield/)) and Manchester ([12 March](https://n8cir.org.uk/events/reprohack-manchester/))!!
+
+You can read more about these events to reproduce published papers [on the SSI blog](https://www.software.ac.uk/blog/2019-08-07-reprohacking-carpentryconnect-manchester-2019) and submit a suggestion of a paper to reproduce at [https://sheffield-university.shinyapps.io/n8cir-reprohacks/](https://sheffield-university.shinyapps.io/n8cir-reprohacks/).
 
 ## Acknowledgements and celebrations
+
+### What an incredible year
 
 In this last newsletter of the year 2019, we want to express our gratitude towards all our community members for their involvements in _The Turing Way_ project through various channels.
 
 As we celebrate the completion of this project's first year, we want to highlight a few important events that have occurred over the last 12 months.
 
-[The Turing Way project](https://github.com/alan-turing-institute/the-turing-way) was launched in February 2019 to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do".
+[The Turing Way project](https://github.com/alan-turing-institute/the-turing-way) was launched in January 2019 to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do".
 
 Within one month of its launch, three chapters were added in the handbook, contributing guidelines were collaboratively developed and the [first newsletter](https://tinyletter.com/TuringWay/letters/the-turing-way-february-update) was published.
 
@@ -84,19 +93,28 @@ In the next few months, three workshops were successfully conducted on reproduci
 
 Two book-dash events were organised in [Manchester on 16-17 May](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-mcr-report.md) and [London on 27-28 May](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-ldn-report.md), which were attended by 26 new members who came together to exchange their skills with others through the project by reviewing existing chapters and creating new chapters.
 
-[The Turing Way Collaboration Cafe](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md), an online meeting series, started in September, which aims to facilitate involvement of our community members in this project. A total of 10 collaboration cafes were planned in 2019, the last one this year will take place on 18 December 2019.
+[Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md), an online meeting series, started in September, with a goal of facilitating contributions from around the world.
+You can see recordings of the Collaboration Cafes at the _Turing Way_'s [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
+The last one this year will take place on 18 December 2019 at 19:00 UK time.
 
-The Turing Way was highlighted in a [Turing impact story](https://www.turing.ac.uk/research/impact-stories/transforming-culture-data-science) under the title Transforming the culture of data science.
+_The Turing Way_ was highlighted in a [Turing impact story](https://www.turing.ac.uk/research/impact-stories/transforming-culture-data-science) under the title "Transforming the culture of data science".
 
-An additional funding was granted for [expanding this project into a multi-book series](https://github.com/alan-turing-institute/the-turing-way) that, in addition to reproducibility, include project design, communication, outreach, ethics and other best practices in data science. Malvika joined the core team as a community manager, who will work closely with Kirstie in enabling the planned expansion of this project.
+An additional funding was granted for [expanding this project into a multi-book series](https://github.com/alan-turing-institute/the-turing-way) that, in addition to reproducibility, include project design, communication, outreach, ethics and other best practices in data science.
+Malvika joined the core team as a community manager, who will work closely with Kirstie to enable the planned expansion of this project.
 
 A [book-expansion meeting](https://hackmd.io/zVTeKhG2SIiBLam1YtILNg?view) was held in October with the core members and contributors who discussed the immediate and long term plans for the project.
 
-Turing Way was highlighted in multiple resources, presented by it’s core members in several conferences, mentioned in other’s talks in different occasions and the members from other communities of practice contributed to enhancing the content of the handbook.
+_The Turing Way_ was highlighted in multiple resources, presented by its core members in several conferences, mentioned in others' talks in different occasions and the members from other communities of practice contributed to enhancing the content of the handbook.
 
-As we approach the end of this eventful year for The Turing Way, we thank you for joining this community, developing and improving contents with us, reaching out with your valuable feedback, discussing your ideas and engaging with the project positively.
+## Thank you
+
+![Gif of snow covered branch with text "Thank you very much"](https://media.giphy.com/media/3ohs7Xdth14rC7Ru36/giphy.gif)
+
+As we approach the end of this eventful year for _The Turing Way_, we thank you for joining this community, developing and improving contents with us, reaching out with your valuable feedback, discussing your ideas and engaging with the project positively.
 
 We wish you a warm end of the year and happy new year!
+
+Kirstie, Malvika and all the team x
 
 ## Connect with us!
 
