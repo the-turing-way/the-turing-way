@@ -82,6 +82,21 @@ _Turing Way_ team member and Software Sustainability Institute fellow [Anna Krys
 
 You can read more about these events to reproduce published papers [on the SSI blog](https://www.software.ac.uk/blog/2019-08-07-reprohacking-carpentryconnect-manchester-2019) and submit a suggestion of a paper to reproduce at [https://sheffield-university.shinyapps.io/n8cir-reprohacks](https://sheffield-university.shinyapps.io/n8cir-reprohacks/).
 
+### Collaborations Workshop
+
+Registration for the Software Sustainability Institute's [Collaborations Workshop](https://www.software.ac.uk/cw20) is now open!
+This event brings together researchers, developers, innovators, managers, funders, publishers, leaders and educators to explore best practices and the future of research software.
+
+The themes are Open Research, Data Privacy and Software Sustainability.
+[Dr Andrew Stewart](https://www.software.ac.uk/news/dr-andrew-stewart-open-collaborations-workshop-2020-keynote-open-research) will open the event with a keynote on Open Research.
+Stay tuned to the [agenda](https://software.ac.uk/cw20/agenda) for more updates as they come in.
+
+Collaborations Workshop 2020 (CW20) takes place from Tuesday 31 March to Wednesday 1 April 2020 at Queen's University, Belfast.
+The CW20 Hack Day takes place on the evening of Wednesday 1 of April to end of the working day Thursday 2 of April at Ulster University, Belfast.
+
+This will be a great opportunity to connect with lots of Turing Way community members!
+We hope to see you there!
+
 ## Acknowledgements and celebrations
 
 ### What an incredible year
