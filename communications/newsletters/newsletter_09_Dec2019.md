@@ -39,7 +39,7 @@ You can read the reports from the events in [Manchester](https://github.com/alan
 
 ![Two pictures both of groups of smiling people](images/BookDash-Combo-Dec2019.png)
 
-Deadlines for applications is **15 January 2019** [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
+Deadlines for applications is **16 January 2019** [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
 
 **Please share this opportunity widely.**
 These events are most successful when we bring together a diverse group of people.
@@ -95,7 +95,7 @@ Collaborations Workshop 2020 (CW20) takes place from Tuesday 31 March to Wednesd
 The CW20 Hack Day takes place on the evening of Wednesday 1 of April to end of the working day Thursday 2 of April at Ulster University, Belfast.
 
 This will be a great opportunity to connect with lots of Turing Way community members!
-We hope to see you there!
+We hope to see you there 😸
 
 ## Acknowledgements and celebrations
 
