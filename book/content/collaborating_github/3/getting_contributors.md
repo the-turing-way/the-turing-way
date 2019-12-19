@@ -2,12 +2,12 @@
 
 Your project is likely to be better if what you create is used by others and they feed back their ideas for additional features or improvements.
 
-### Personas and pathways 
+### Personas and pathways
 
 A persona is a description of a user of your project or tool.
 It should describe an imaginary person based on observations and knowledge of real life, and existing or potential users which provide enough detail for someone to imagine the persona's needs and reactions to the project.
 
-Once you have created personas for your main users, you can imagine how they will interact with your project following these engagement phases: 
+Once you have created personas for your main users, you can imagine how they will interact with your project following these engagement phases:
 
 1. Discovery: How they first hear about the project or group.
 2. First Contact: How they first engage with the project or group, their initial interaction.
@@ -21,15 +21,15 @@ For an example persona and its pathway through an open project as well as furthe
 ### Code of Conduct
 
 If your project is open for individuals to contribute and you grow a community, this community will need to be welcoming and inclusive to thrive.
-One way to establish guidelines for participating in your project is to create a Code of Conduct or Participating Guidelines. 
+One way to establish guidelines for participating in your project is to create a Code of Conduct or Participating Guidelines.
 These documents can be used for virtual interactions but also for any events you might host related to your project.
 Codes of Conducts serve two main purposes:
 * Establishing the kind of behaviour encouraged in the community you would like to create as well as clearly outlining unacceptable behaviour.
 * Outlining the process by which problems or violations of the guidelines will be addressed and who will be in charge of enforcing the Code of Conduct.
 
-Many openly developed projects have a Code of Conduct in place that often is openly licensed and can be re-used and adapted for your own project. 
+Many openly developed projects have a Code of Conduct in place that often is openly licensed and can be re-used and adapted for your own project.
 The [Turing Way Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md) is one example of a Code of Conduct built on various existing ones and can be adapted further.
-You can also use the beta-version of this [Code of Conduct builder](http://codeofconduct.io/) to get started on guidelines for your project.
+You can also consult the Mozilla Open Leadership Series [section on codes of conduct](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/) for further guidelines and examples to get started on a code of conduct for your project.
 
 ### Contributor guidelines
 
