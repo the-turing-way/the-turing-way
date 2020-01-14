@@ -38,7 +38,7 @@ Your contributions may include, but are not limited to: science communication - 
 
 ***Boost your research reproducibility with Binder workshops in Cambridge***
  
-[The British Antarctic Survey](www.bas.ac.uk) is hosting a half-day workshop on 31 January 2020 from 13:30 to 17:00 on research reproducibility in The Turing Way project. 
+[The British Antarctic Survey](https://www.bas.ac.uk/) is hosting a half-day workshop on 31 January 2020 from 13:30 to 17:00 on research reproducibility in The Turing Way project. 
 At this workshop, the trainers will discuss reproducible computing environments, with examples of others’ projects in myBinder.org to help you learn how to prepare a binder-ready project. 
 At the end of the workshop, you will be able to take some of your own content (in R, Jupyter notebook, or scripts that can be run in the terminal) and prepare it so that it can be used by others on myBinder.org. 
 For registration, please contact Dr. Anita Faul from the Artificial Intelligence Lab of British Antarctic Survey by emailing [anfaul@bas.ac.uk](mailto:anfaul@bas.ac.uk).
