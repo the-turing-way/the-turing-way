@@ -114,7 +114,7 @@ They along with Harvard Dataverse team have set up a platform to demonstrate _ta
 Check out examples for two different use cases: 1) [Whole Tale as Dataverse External Tool](https://youtu.be/AoSpQ3A7poY), demonstrating how Whole Tale can be used to launch an RStudio (or other) environment for exploration of "replication datasets" that contain code. 2) [Registering data for analysis in Whole Tale](https://youtu.be/oWEcFpEUmrU), demonstrating how source datasets can be registered in Whole Tale for analysis using RStudio with automatic citation. A [short document](https://docs.google.com/document/d/1ln4wUTsBZ1mP9qUGGwfkM6p8bpmPSBRAvAWOkz2U_L) further describes the integration and planned features for anyone interested.
 
 
-Tweet by [Philip Durbin’s](https://twitter.com/philipdurbin/status/1216709968323391488)
+Tweet by [Philip Durbin](https://twitter.com/philipdurbin/status/1216709968323391488)
 
 ## Connect with us!
 
