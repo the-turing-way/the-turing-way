@@ -43,7 +43,7 @@ At this workshop, the trainers will discuss reproducible computing environments,
 At the end of the workshop, you will be able to take some of your own content (in R, Jupyter notebook, or scripts that can be run in the terminal) and prepare it so that it can be used by others on myBinder.org. 
 For registration, please contact Dr. Anita Faul from the Artificial Intelligence Lab of British Antarctic Survey by emailing [anfaul@bas.ac.uk](mailto:anfaul@bas.ac.uk).
 
-One more Binder workshop will be hosted by the Raspberry Pi Foundation in Cambridge on 29 January 2020. Sarah Gibson will be teaching at this workshop, details of which can be found [here](SARAH WILL ADD LINK HERE).
+One more Binder workshop will be hosted by the Raspberry Pi Foundation in Cambridge on 29 January 2020. Sarah Gibson will be teaching at this workshop, details of which can be found [here](https://www.meetup.com/PyData-Cambridge-Meetup/events/267902974/).
 
 ## Tips & Tricks for new contributors
 
