@@ -10,11 +10,11 @@ Our first Collaboration Cafe is on 15 January 2020 at 19:00 GMT ([add this to yo
 
 _The Turing Way_ Book Dash application deadline has been extended to **19 January 2020**. Fill [this short form](https://forms.gle/ayYz87UqNoxzJNpn6) to send your application and join us in London at this short hackathon-like event. 📢
 
-There are many relevant workshops taking place this month, including two workshops in Cambridge on reproducibility using Binder, find the details below and register soon!
+There are many relevant workshops taking place this month, including two workshops in Cambridge on reproducibility using Binder. Find the details below and register soon!
 
-We thank you for your participation and feedback, which made 2019 a productive year (read our last newsletter [here](https://tinyletter.com/TuringWay/archive)) for the project. We look forward to welcoming your ideas and supporting your contributions to the community moving forward. 💞💞
+We thank you for your participation and feedback in 2019, which made it a productive year for the project (read our last newsletter [here](https://tinyletter.com/TuringWay/archive)). We look forward to welcoming your ideas and supporting your contributions to the community moving forward. 💞💞
 
-Get in touch with us through various channels listed below this newsletter and find more details on other topics below 👇
+Get in touch with us through various channels listed below this newsletter, and find more details on other topics below 👇
 
 ## Community meetings
 
@@ -26,12 +26,13 @@ If you are not sure what to expect from this meeting, check out a few videos rec
  
 ***Open call for The Turing Way Book Dash***
 
-Deadline has been extended to **19 January 2020** to send your application for the first Book Dash this year on 20 and 21 February. Fill this [short online form](https://docs.google.com/forms/d/e/1FAIpQLSelc8XvuYfz7uIjS1H_RzaK9JI9w9Pc3IfFT4sethro-_6tlw/viewform) by following a step by step guide on [this Twitter thread](https://twitter.com/kirstie_j/status/1210934696248586241) by Kirstie.
+Deadline has been extended to **19 January 2020** to send your application for the first Book Dash, which is taking place on 20 and 21 February. Fill this [short online form](https://docs.google.com/forms/d/e/1FAIpQLSelc8XvuYfz7uIjS1H_RzaK9JI9w9Pc3IfFT4sethro-_6tlw/viewform) by following a step by step guide shared by Kirstie on [this Twitter thread](https://twitter.com/kirstie_j/status/1210934696248586241).
 It is an in-person collaborative event on “how to data science” resource development, where you will work with others to add to and improve [the Turing Way book](https://github.com/alan-turing-institute/the-turing-way). 
 
 
-The event will start on the evening of 20 February 2020 followed by an official dinner hosted by _The Turing Way_ team. The complete day of 21 February 2020 will be dedicated to the project content development. 
-The skills and contributions may include, but are not limited to: science communication - skills in writing, editing and/or exciting interactive communications, great examples and case studies of reproducible research, writing new chapters, editing the current chapters and updating how the book looks online (CSS, logos, layout etc). 
+This event will start on the evening of 20 February 2020 with an introduction to the project, which will be followed by an official dinner. 
+The complete day of 21 February 2020 will be dedicated to the project content development. 
+Your contributions may include, but are not limited to: science communication - skills in writing, editing and/or exciting interactive communications, great examples and case studies of reproducible research, writing new chapters, editing the current chapters and updating how the book looks online (CSS, logos, layout etc). 
 
 ## News from the community
 
@@ -63,9 +64,12 @@ Do you have your _The Turing Way_ stories and experiences to share? Contact us t
 
 This year, among [18 SSI fellowship](https://software.ac.uk/about/fellows?_ga=2.125569866.1329264381.1579011146-1585188985.1568709796) recipients are several our valuable contributors. They include two of our core members, Sarah Gibson and Jez Cope. 
 Sarah aims to [build a welcoming community of reproducible research](https://software.ac.uk/about/fellows/sarah-gibson) by encouraging contributions, promoting diversity and transparency, and fostering collaborations. 
-Jez is interested in developing [infrastructure and practices to archive and preserve research data and software for the future](https://software.ac.uk/about/fellows/jez-cope). SSI fellowships are awarded every year to open science advocates for supporting their effort as ambassadors in their respective fields. More details in [this blog post](https://software.ac.uk/blog/2020-01-10-announcing-2020-software-sustainability-institute-fellows).
+Jez is interested in developing [infrastructure and practices to archive and preserve research data and software for the future](https://software.ac.uk/about/fellows/jez-cope). 
+
 Two more fellows, [Alex Clarke](https://software.ac.uk/about/fellows/alex-clarke) and [Will Hulme](https://software.ac.uk/about/fellows/will-hulme), are contributors of _The Turing Way_ project at the Book Dash events in 2019.
-We also extend our wishes to [Tarek Allam](https://software.ac.uk/about/fellows/tarek-allam) who is a member of The Turing Institute. 
+We also extend our wishes to [Tarek Allam](https://software.ac.uk/about/fellows/tarek-allam) who is a member of The Turing Institute.
+
+SSI fellowships are awarded every year to open science advocates for supporting their effort as ambassadors in their respective fields. More details in [this blog post](https://software.ac.uk/blog/2020-01-10-announcing-2020-software-sustainability-institute-fellows).
 We are really thrilled to have their works and efforts recognized by this prestigious fellowship. 
 
 ***Shout-outs on Twitter***
@@ -75,7 +79,7 @@ We love to hear on Twitter how you or your colleagues have been using _The Turin
 
 
 
-1. _The Turing Way_ illustrations by [Scriberia](http://www.scriberia.co.uk/scribing-sketchnotes) were included in [Nadia Soliman](https://twitter.com/Nadia_Soliman_)’s [OASPA](https://twitter.com/OASPA) talk in [this tweet](https://twitter.com/PHerterich/status/1206966606397628416?s=20) by Patricia Hertreich.
+1. _The Turing Way_ illustrations by [Scriberia](http://www.scriberia.co.uk/scribing-sketchnotes) were included in [Nadia Soliman](https://twitter.com/Nadia_Soliman_)’s [OASPA](https://twitter.com/OASPA) talk as [mentioned in this tweet](https://twitter.com/PHerterich/status/1206966606397628416?s=20) by Patricia Hertreich.
 
 2. The project was [introduced](https://twitter.com/MalvikaSharan/status/1201926068812206080?s=20) by Malvika Sharan at a community-based unconference at National Center for Biological Science in India.
 
@@ -106,11 +110,7 @@ The [Whole Tale project](https://wholetale.org/)  is an NSF-funded initiative bu
 Whole Tale supports the creation, publication, and execution of _tales_ -- executable research artifacts that capture, data, code and the complete software environment required to reproduce computational results.
 They along with Harvard Dataverse team have set up a platform to demonstrate _tales_ using the Whole Tale platform as a dataset-level external tool on the demo instance at https://demo.dataverse.org.
 
-Check out examples for two different use cases: 
-1) [Whole Tale as Dataverse External Tool](https://youtu.be/AoSpQ3A7poY), demonstrating how Whole Tale can be used to launch an RStudio (or other) environment for exploration of "replication datasets" that contain code. 
-2) [Registering data for analysis in Whole Tale](https://youtu.be/oWEcFpEUmrU), demonstrating how source datasets can be registered in Whole Tale for analysis using RStudio with automatic citation.
-
-A [short document](https://docs.google.com/document/d/1ln4wUTsBZ1mP9qUGGwfkM6p8bpmPSBRAvAWOkz2U_L) further describes the integration and planned features for anyone interested.
+Check out examples for two different use cases: 1) [Whole Tale as Dataverse External Tool](https://youtu.be/AoSpQ3A7poY), demonstrating how Whole Tale can be used to launch an RStudio (or other) environment for exploration of "replication datasets" that contain code. 2) [Registering data for analysis in Whole Tale](https://youtu.be/oWEcFpEUmrU), demonstrating how source datasets can be registered in Whole Tale for analysis using RStudio with automatic citation. A [short document](https://docs.google.com/document/d/1ln4wUTsBZ1mP9qUGGwfkM6p8bpmPSBRAvAWOkz2U_L) further describes the integration and planned features for anyone interested.
 
 
 Tweet by [Philip Durbin’s](https://twitter.com/philipdurbin/status/1216709968323391488)
