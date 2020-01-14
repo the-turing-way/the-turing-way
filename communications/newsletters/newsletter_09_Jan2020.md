@@ -47,7 +47,9 @@ One more Binder workshop will be hosted by the Raspberry Pi Foundation in Cambri
 ## Tips & Tricks for new contributors
 
 Have you ever wondered what are the pathways to contribute to _The Turing Way_ project and how getting involved in the community can benefit you? 
-You can find that out by reading [impact statements](https://github.com/alan-turing-institute/the-turing-way/tree/master/project_management/impact_statements) from our active contributors. [Patricia](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/impact_statements/patricia_herterich.md), the Research Data Specialist at Digital Curation Centre, states that *contributing to the Turing Way helped her identify which activities she wants to focus on in her career going forward*. [Rachael](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/impact_statements/rachael-ainsworth.md), the Research Software Community Manager at SSI, states that *being a core member empowered her to pursue a community management position in the domain of open research*. 
+You can find that out by reading [impact statements](https://github.com/alan-turing-institute/the-turing-way/tree/master/project_management/impact_statements) from our active contributors. 
+[Patricia](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/impact_statements/patricia_herterich.md), the Research Data Specialist at Digital Curation Centre, states that *contributing to the Turing Way helped her identify which activities she wants to focus on in her career going forward*. 
+[Rachael](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/impact_statements/rachael-ainsworth.md), the Research Software Community Manager at SSI, states that *being a core member empowered her to pursue a community management position in the domain of open research*. 
 
 Do you have your _The Turing Way_ stories and experiences to share? Contact us to learn how you can add them on our GitHub repository.
 
@@ -59,7 +61,9 @@ Do you have your _The Turing Way_ stories and experiences to share? Contact us t
 
 [Tweet](https://twitter.com/SoftwareSaved/status/1215572740381372416?s=20) from the official Twitter page of SSI.
 
-This year, among 18 [SSI fellowship]() recipients are our two highly contributing members, Sarah Gibson and Jez Cope. We are really thrilled to have their work and effort recognized by this prestigious fellowship. Sarah aims to [build a welcoming community of reproducible research](https://software.ac.uk/about/fellows/sarah-gibson) by encouraging contributions, promoting diversity and transparency, and fostering collaborations. Jez is interested in developing [infrastructure and practices to archive and preserve research data and software for the future](https://software.ac.uk/about/fellows/jez-cope). SSI fellowships are awarded every year to open science advocates for supporting their effort as ambassadors in their respective fields. More details in [this blog post](https://software.ac.uk/blog/2020-01-10-announcing-2020-software-sustainability-institute-fellows).
+This year, among 18 [SSI fellowship]() recipients are our two highly contributing members, Sarah Gibson and Jez Cope. We are really thrilled to have their work and effort recognized by this prestigious fellowship. 
+Sarah aims to [build a welcoming community of reproducible research](https://software.ac.uk/about/fellows/sarah-gibson) by encouraging contributions, promoting diversity and transparency, and fostering collaborations. 
+Jez is interested in developing [infrastructure and practices to archive and preserve research data and software for the future](https://software.ac.uk/about/fellows/jez-cope). SSI fellowships are awarded every year to open science advocates for supporting their effort as ambassadors in their respective fields. More details in [this blog post](https://software.ac.uk/blog/2020-01-10-announcing-2020-software-sustainability-institute-fellows).
 
 ***Shout-outs on Twitter***
 
@@ -87,14 +91,16 @@ The [call for proposals for mini-workshop and demo sessions](https://www.softwar
 
 
 ***Librarians Building Momentum for Reproducibility Logistics Program***
- Registration is open for a virtual half-day conference for librarians who are working in, or want to learn more about, supporting research reproducibility. 
+
+Registration is open for a virtual half-day conference for librarians who are working in, or want to learn more about, supporting research reproducibility. 
 This event will take place on January 28, 2020 at 9:00-3:00pm PST, 12:00-6:00pm EST. They are are running this conference completely online, through the videoconferencing tool Zoom. 
 You are free to participate in the conference from wherever you can connect to the Internet! Check details on [their official website](https://vickysteeves.gitlab.io/librarians-reproducibility/).
 
 
 ***The Whole Tale Open Source Platform for Reproducible Research***
 
-The [Whole Tale project](https://wholetale.org/)  is an NSF-funded initiative building a scalable, open source platform for reproducible research.  Whole Tale supports the creation, publication, and execution of _tales_ -- executable research artifacts that capture, data, code and the complete software environment required to reproduce computational results.
+The [Whole Tale project](https://wholetale.org/)  is an NSF-funded initiative building a scalable, open source platform for reproducible research.
+Whole Tale supports the creation, publication, and execution of _tales_ -- executable research artifacts that capture, data, code and the complete software environment required to reproduce computational results.
 They along with Harvard Dataverse team have set up a platform to demonstrate _tales_ using the Whole Tale platform as a dataset-level external tool on the demo instance at https://demo.dataverse.org.
 
 Check out examples for two different use cases: 
