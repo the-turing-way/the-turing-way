@@ -162,7 +162,7 @@ Check out examples for two different use cases: 1) [Whole Tale as Dataverse Exte
 2) [Registering data for analysis in Whole Tale](https://youtu.be/oWEcFpEUmrU), demonstrating how source datasets can be registered in Whole Tale for analysis using RStudio with automatic citation.
 A [short document](https://docs.google.com/document/d/1ln4wUTsBZ1mP9qUGGwfkM6p8bpmPSBRAvAWOkz2U_L) further describes the integration and planned features for anyone interested.
 
-![Screenshot of tweetn describing dataverse integration with Whole Tale](images/DataVerseTweet_Jan2020.png)
+![Screenshot of tweet describing dataverse integration with Whole Tale](images/DataVerseTweet_Jan2020.png)
 
 *Tweet by [Philip Durbin](https://twitter.com/philipdurbin/status/1216709968323391488).*
 
