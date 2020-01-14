@@ -67,7 +67,6 @@ Sarah aims to [build a welcoming community of reproducible research](https://sof
 Jez is interested in developing [infrastructure and practices to archive and preserve research data and software for the future](https://software.ac.uk/about/fellows/jez-cope). 
 
 Two more fellows, [Alex Clarke](https://software.ac.uk/about/fellows/alex-clarke) and [Will Hulme](https://software.ac.uk/about/fellows/will-hulme), are contributors of _The Turing Way_ project at the Book Dash events in 2019.
-We also extend our wishes to [Tarek Allam](https://software.ac.uk/about/fellows/tarek-allam) who is a member of The Alan Turing Institute.
 
 We are really thrilled to have their works and efforts recognized by this prestigious fellowship. More details can be read in [this blog post](https://software.ac.uk/blog/2020-01-10-announcing-2020-software-sustainability-institute-fellows).
 
