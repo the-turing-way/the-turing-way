@@ -69,9 +69,9 @@ Jez is interested in developing [infrastructure and practices to archive and pre
 Two more fellows, [Alex Clarke](https://software.ac.uk/about/fellows/alex-clarke) and [Will Hulme](https://software.ac.uk/about/fellows/will-hulme), are contributors of _The Turing Way_ project at the Book Dash events in 2019.
 We also extend our wishes to [Tarek Allam](https://software.ac.uk/about/fellows/tarek-allam) who is a member of The Alan Turing Institute.
 
-We are really thrilled to have their works and efforts recognized by this prestigious fellowship.
+We are really thrilled to have their works and efforts recognized by this prestigious fellowship. More details can be read in [this blog post](https://software.ac.uk/blog/2020-01-10-announcing-2020-software-sustainability-institute-fellows).
 
-SSI fellowships are awarded every year to open science advocates for supporting their effort as ambassadors in their respective fields. More details in [this blog post](https://software.ac.uk/blog/2020-01-10-announcing-2020-software-sustainability-institute-fellows).
+*SSI fellowships are awarded every year to open science advocates for supporting their effort as ambassadors in their respective fields.*
 
 ***Shout-outs on Twitter***
 
@@ -92,7 +92,7 @@ We love to hear on Twitter how you and your colleagues have been using _The Turi
 
 ***The Software Sustainability Institute's Collaborations Workshop 2020 (CW20)***
 
-The Software Sustainability Institute’s [Collaborations Workshop 2020 (CW20)](http://bit.ly/ssi-cw20) will take place from 31 March - 2 April 2020 at [Queen's University Belfast](http://qub.ac.uk/), Northern Ireland and registration is now open on [Eventbrite](https://www.eventbrite.co.uk/e/collaborations-workshop-2020-cw20-collabw20-tickets-72375437883?aff=TuringWay)! 
+The Software Sustainability Institute’s [Collaborations Workshop 2020 (CW20)](http://bit.ly/ssi-cw20) will take place from 31 March to 2 April 2020 at [Queen's University Belfast](http://qub.ac.uk/), Northern Ireland and registration is now open on [Eventbrite](https://www.eventbrite.co.uk/e/collaborations-workshop-2020-cw20-collabw20-tickets-72375437883?aff=TuringWay)! 
 This workshop brings together researchers, developers, innovators, managers, funders, publishers, leaders and educators to explore best practices and the future of research software. The themes of the keynote presentations, demos, discussion groups, panel sessions and more at CW20 are: Open Research, Data Privacy and Software Sustainability. 
 The [call for proposals for mini-workshop and demo sessions](https://www.software.ac.uk/news/call-proposals-mini-workshops-and-demo-sessions-collaborations-workshop-2020) is open until 31 January, and these sessions are unique opportunities for CW20 participants and sponsors to share a particular software product, approach, standard, or other idea relating to the workshop themes, research software and pitches for the Hackday.
 
