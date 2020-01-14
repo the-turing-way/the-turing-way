@@ -62,7 +62,7 @@ Do you have your _The Turing Way_ stories and experiences to share? Contact us t
 
 [Tweet](https://twitter.com/SoftwareSaved/status/1215572740381372416?s=20) from the official Twitter page of SSI.
 
-This year, among [18 SSI fellowship](https://software.ac.uk/about/fellows?_ga=2.125569866.1329264381.1579011146-1585188985.1568709796) recipients are several our valuable contributors. They include two of our core members, Sarah Gibson and Jez Cope. 
+This year, among [18 SSI fellowship](https://software.ac.uk/about/fellows?_ga=2.125569866.1329264381.1579011146-1585188985.1568709796) recipients are several of our valuable contributors. This fantastic set of fellows include two of our core members, Sarah Gibson and Jez Cope. 
 Sarah aims to [build a welcoming community of reproducible research](https://software.ac.uk/about/fellows/sarah-gibson) by encouraging contributions, promoting diversity and transparency, and fostering collaborations. 
 Jez is interested in developing [infrastructure and practices to archive and preserve research data and software for the future](https://software.ac.uk/about/fellows/jez-cope). 
 
