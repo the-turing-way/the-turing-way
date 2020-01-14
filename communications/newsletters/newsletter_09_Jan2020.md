@@ -1,10 +1,10 @@
-# New year wishes and send your application to attend the next book dash event!
+# New year wishes and application deadline extended for the book dash event!
 
 Hello Turing Way friends!
 
 Warm wishes for the year 2020!
 
-We start this year by congratulating SSI fellows of 2020, including our core members Sarah Gibson and Jez Cope! 🎉
+We start this year by congratulating SSI fellows of 2020, including our core contributors Sarah Gibson and Jez Cope! 🎉
 
 Our first Collaboration Cafe is on 15 January 2020 at 19:00 GMT ([add this to your calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=XzZjc2o4cDlvNmNxamlvcjZja29qOGNqMTYwczZhY2I0YzVpM2djaGljb3BtNGRiMzY5aDAgdGhldHVyaW5nd2F5QG0&tmsrc=theturingway%40gmail.com)). Join us to discuss how you are planning to get involved in the community and engage with the project this year. Sign up on [this HackMD](https://hackmd.io/sTZZwnYdS3umVWHHHLc6Mw?edit). 🗓
 
@@ -62,7 +62,7 @@ Do you have your _The Turing Way_ stories and experiences to share? Contact us t
 
 [Tweet](https://twitter.com/SoftwareSaved/status/1215572740381372416?s=20) from the official Twitter page of SSI.
 
-This year, among [18 SSI fellowship](https://software.ac.uk/about/fellows?_ga=2.125569866.1329264381.1579011146-1585188985.1568709796) recipients are several of our valuable contributors. This fantastic set of fellows include two of our core members, Sarah Gibson and Jez Cope. 
+This year, among [18 SSI fellowship](https://software.ac.uk/about/fellows?_ga=2.125569866.1329264381.1579011146-1585188985.1568709796) recipients are several of our valuable contributors. This fantastic set of fellows include two of our core contributors, Sarah Gibson and Jez Cope. 
 Sarah aims to [build a welcoming community of reproducible research](https://software.ac.uk/about/fellows/sarah-gibson) by encouraging contributions, promoting diversity and transparency, and fostering collaborations. 
 Jez is interested in developing [infrastructure and practices to archive and preserve research data and software for the future](https://software.ac.uk/about/fellows/jez-cope). 
 
