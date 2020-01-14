@@ -82,9 +82,9 @@ We love to hear on Twitter how you and your colleagues have been using _The Turi
 
 1. _The Turing Way_ illustrations by [Scriberia](http://www.scriberia.co.uk/scribing-sketchnotes) were included in [Nadia Soliman](https://twitter.com/Nadia_Soliman_)’s [OASPA](https://twitter.com/OASPA) talk as [mentioned in this tweet](https://twitter.com/PHerterich/status/1206966606397628416?s=20) by Patricia Hertreich.
 
-2. The project was [introduced](https://twitter.com/MalvikaSharan/status/1201926068812206080?s=20) by Malvika Sharan at a community-based unconference at National Center for Biological Science in India.
+2. The project was [introduced](https://twitter.com/MalvikaSharan/status/1201926068812206080?s=20) by Malvika Sharan at a community-based unconference during an [EMBO course at National Center for Biological Science in India](http://meetings.embo.org/event/19-protein-protein).
 
-3. Kirstie discussed it in the context of Data Science in her talk at [Advanced Methods for Reproducible Science 2020](https://www.bristol.ac.uk/psychology/research/ukrn/ukrnevents/repro2020/), which was mentioned in a [tweet](https://twitter.com/cassgvp/status/1215200442713624577?s=20) by Cassandra and a [tweet](https://twitter.com/KirchnerHausler/status/1215211479038939136?s=20) Alexander Kirchner-Hausler. 
+3. Kirstie discussed it in the context of Data Science in her talk at [Advanced Methods for Reproducible Science 2020](https://www.bristol.ac.uk/psychology/research/ukrn/ukrnevents/repro2020/), which was mentioned in a [tweet by Cassandra] (https://twitter.com/cassgvp/status/1215200442713624577?s=20) and a [tweet by Alexander Kirchner-Hausler](https://twitter.com/KirchnerHausler/status/1215211479038939136?s=20). 
 
 4. The project’s content derived from Florian Markowetz’s paper, [Five selfish reasons to work reproducibly (2015)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7), was cited by Heidi Seibold in [this tweet](https://twitter.com/HeidiBaya/status/1214486610676506624?s=20) which discussing reproducible research.
 
