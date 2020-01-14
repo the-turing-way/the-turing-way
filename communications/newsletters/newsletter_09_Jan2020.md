@@ -4,7 +4,7 @@ Hello Turing Way friends!
 
 Warm wishes for the year 2020!
 
-We start this year by congratulating Sarah Gibson and Jez Cope for receiving the SSI fellowship 2020! 🎉
+We start this year by congratulating SSI fellows of 2020, including our core members Sarah Gibson and Jez Cope! 🎉
 
 Our first Collaboration Cafe is on 15 January 2020 at 19:00 GMT ([add this to your calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=XzZjc2o4cDlvNmNxamlvcjZja29qOGNqMTYwczZhY2I0YzVpM2djaGljb3BtNGRiMzY5aDAgdGhldHVyaW5nd2F5QG0&tmsrc=theturingway%40gmail.com)). Join us to discuss how you are planning to get involved in the community and engage with the project this year. Sign up on [this HackMD](https://hackmd.io/sTZZwnYdS3umVWHHHLc6Mw?edit). 🗓
 
