@@ -1,4 +1,4 @@
-# New year wishes and application deadline extended for the book dash event!
+# New year wishes, and deadline reminder for Book Dash (16 Jan)!
 
 Hello Turing Way friends!
 
@@ -44,11 +44,22 @@ The event will start on the afternoon of 20 February 2020 with an introduction t
 The complete day of 21 February 2020 will be dedicated to the project content development.
 Your contributions may include, but are not limited to: science communication - skills in writing, editing and/or exciting interactive communications, great examples and case studies of reproducible research, writing new chapters, editing the current chapters and updating how the book looks online (CSS, logos, layout etc).
 
+### Looking for helpers for the Book Dash
+
+If you've already attended a _Turing Way_ Book Dash 📚💨 or Binder workshop events then you're elgible to apply to join us as one of our helpers.
+Your role will be to support contributors and help them brainstorm how they can share their expertise with the community.
+
+Please contact [theturingway@gmail.com](mailto:theturingway@gmail.com) if you are available and able to join the _Turing Way_ team for these events.
+**Funding is available to support travel, accomodation and childcare requirements.**
+Please include a few sentences about why you're interested and able to help participants get the most out of the two days.
+
+We will review emails on Wednesday 22 January and reply with our selection (in the case of having more than 2 people offer their support) on Monday 27 January.
+
 ## News from the community
 
 ### Looking for helpers to deliver Binder workshop
 
-[The British Antarctic Survey](https://www.bas.ac.uk/) is hosting a half-day [Boost Your Research Reproducibility with Binder](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder) workshop **in Cambridge on 31 January 2020** from 13:30 to 17:00.
+[The British Antarctic Survey](https://www.bas.ac.uk/) is hosting a half-day [Boost Your Research Reproducibility with Binder](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder) workshop **in Cambridge on 31 January** from 13:30 to 17:00.
 At this workshop, the trainers will discuss reproducible computing environments, with examples of others' projects in [myBinder.org](https://mybinder.org) to help you learn how to prepare a binder-ready project.
 At the end of the workshop, you will be able to take some of your own content (in R, Jupyter notebook, or scripts that can be run in the terminal) and prepare it so that it can be used by others on [myBinder.org](https://mybinder.org).
 
@@ -61,7 +72,7 @@ We will review emails on Monday 20 January and reply with our selection (in the 
 
 ### Binder workshop hosted by PyData Cambridge
 
-Another [Boost Your Research Reproducibility with Binder](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder) workshop will be hosted by the Raspberry Pi Foundation in Cambridge on **29 January 2020** at 19:00.
+Another [Boost Your Research Reproducibility with Binder](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder) workshop will be hosted by the Raspberry Pi Foundation in Cambridge on **29 January** at 19:00.
 Sarah Gibson will be leading participants through the [Zero to Binder](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder.md) code along demonstration.
 
 Everyone is welcome to attend.
@@ -102,7 +113,7 @@ We are really thrilled to have their works and efforts recognized by this presti
 We love to hear on Twitter how you and your colleagues have been using _The Turing Way_ resources.
 Here are a few tweets from our community members from last month, mentioning the hashtag [#TuringWay](https://twitter.com/hashtag/TuringWay?f=live).
 
-![](images/Tweet-combo-Jan2020.png)
+![Screenshot of five twitter messages mentioning the Turing Way](images/Tweet-combo-Jan2020.png)
 
 *Tweets [1](https://twitter.com/PHerterich/status/1206966606397628416?s=20) by Patricia Hertreich, [2](https://twitter.com/MalvikaSharan/status/1201926068812206080?s=20) by Malvika Sharan, [3a](https://twitter.com/cassgvp/status/1215200442713624577?s=20) by Cassandra Gould van Praag, [3b](https://twitter.com/KirchnerHausler/status/1215211479038939136?s=20) by Alexander Kirchner-Hausler and [5](https://twitter.com/HeidiBaya/status/1214486610676506624?s=20) by Heidi Seibold, in December 2019 and January 2020, described below.*
 
@@ -118,7 +129,7 @@ Here are a few tweets from our community members from last month, mentioning the
 
 ### Panel Discussion on sharing research software in London
 
-This evening panel discussion on **5 February 2020** at 18:00, hosted by [Open Research London](https://twitter.com/openresldn) and [Research Software London](https://rslondon.ac.uk), will explore the importance and challenges of effective and sustainable sharing of research software.
+This evening panel discussion on **5 February** at 18:00, hosted by [Open Research London](https://twitter.com/openresldn) and [Research Software London](https://rslondon.ac.uk), will explore the importance and challenges of effective and sustainable sharing of research software.
 
 The discussion will be chaired by _Turing Way_ community member, and Director of Research Engineering at the Alan Turing Institute, Martin O'Reilly.
 He'll be joined by _Turing Way_ community members Rachael Ainsworth (Software Sustainability Institute) and Stephen Eglen (University of Cambridge), and head of product innovation at SAGE Publishing, with a few more speakers to be announced.
@@ -137,7 +148,7 @@ The [call for proposals for mini-workshop and demo sessions](https://www.softwar
 ### Librarians building momentum for reproducibility logistics program
 
 Registration is open for a virtual half-day conference for librarians who are working in, or want to learn more about, supporting research reproducibility.
-This event will take place on **January 28** 2020 at 9:00-3:00pm PST, 12:00-6:00pm EST. They are are running this conference completely online, through the videoconferencing tool Zoom.
+This event will take place on **January 28** at 9:00-3:00pm PST, 12:00-6:00pm EST. They are are running this conference completely online, through the videoconferencing tool Zoom.
 You are free to participate in the conference from wherever you can connect to the Internet!
 Check details on [their official website](https://vickysteeves.gitlab.io/librarians-reproducibility/).
 
