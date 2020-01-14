@@ -64,7 +64,7 @@ Do you have your _The Turing Way_ stories and experiences to share? Contact us t
 This year, among [18 SSI fellowship](https://software.ac.uk/about/fellows?_ga=2.125569866.1329264381.1579011146-1585188985.1568709796) recipients are several our valuable contributors. They include two of our core members, Sarah Gibson and Jez Cope. 
 Sarah aims to [build a welcoming community of reproducible research](https://software.ac.uk/about/fellows/sarah-gibson) by encouraging contributions, promoting diversity and transparency, and fostering collaborations. 
 Jez is interested in developing [infrastructure and practices to archive and preserve research data and software for the future](https://software.ac.uk/about/fellows/jez-cope). SSI fellowships are awarded every year to open science advocates for supporting their effort as ambassadors in their respective fields. More details in [this blog post](https://software.ac.uk/blog/2020-01-10-announcing-2020-software-sustainability-institute-fellows).
-Two more fellows, [Alex Clarke](https://software.ac.uk/about/fellows/alex-clarke) and [Will Hulme](https://software.ac.uk/about/fellows/will-hulme), are contributors of _The Turing Way_ projects and previous participants of the Book Dash events in 2019.
+Two more fellows, [Alex Clarke](https://software.ac.uk/about/fellows/alex-clarke) and [Will Hulme](https://software.ac.uk/about/fellows/will-hulme), are contributors of _The Turing Way_ project at the Book Dash events in 2019.
 We also extend our wishes to [Tarek Allam](https://software.ac.uk/about/fellows/tarek-allam) who is a members of The Turing Institute. 
 We are really thrilled to have their works and efforts recognized by this prestigious fellowship. 
 
