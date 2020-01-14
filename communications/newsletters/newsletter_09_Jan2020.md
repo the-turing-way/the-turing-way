@@ -74,7 +74,7 @@ We are really thrilled to have their works and efforts recognized by this presti
 
 ***Shout-outs on Twitter***
 
-We love to hear on Twitter how you or your colleagues have been using _The Turing Way_ resources. Here are a few tweets from our community members from last month mentioning the hashtag [#TuringWay](https://twitter.com/hashtag/TuringWay?f=live).
+We love to hear on Twitter how you and your colleagues have been using _The Turing Way_ resources. Here are a few tweets from our community members from last month, mentioning the hashtag [#TuringWay](https://twitter.com/hashtag/TuringWay?f=live).
 
 
 
