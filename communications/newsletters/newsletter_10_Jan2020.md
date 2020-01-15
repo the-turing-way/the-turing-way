@@ -115,7 +115,7 @@ Here are a few tweets from our community members from last month, mentioning the
 
 ![Screenshot of five twitter messages mentioning the Turing Way](images/Tweet-combo-Jan2020.png)
 
-*Tweets [1](https://twitter.com/PHerterich/status/1206966606397628416?s=20) by Patricia Hertreich, [2](https://twitter.com/MalvikaSharan/status/1201926068812206080?s=20) by Malvika Sharan, [3a](https://twitter.com/cassgvp/status/1215200442713624577?s=20) by Cassandra Gould van Praag, [3b](https://twitter.com/KirchnerHausler/status/1215211479038939136?s=20) by Alexander Kirchner-Hausler and [5](https://twitter.com/HeidiBaya/status/1214486610676506624?s=20) by Heidi Seibold, in December 2019 and January 2020, described below.*
+*Tweets [1](https://twitter.com/PHerterich/status/1206966606397628416?s=20) by Patricia Hertreich, [2](https://twitter.com/MalvikaSharan/status/1201926068812206080?s=20) by Malvika Sharan, [3a](https://twitter.com/cassgvp/status/1215200442713624577?s=20) by Cassandra Gould van Praag, [3b](https://twitter.com/KirchnerHausler/status/1215211479038939136?s=20) by Alexander Kirchner-Hausler and [4](https://twitter.com/HeidiBaya/status/1214486610676506624?s=20) by Heidi Seibold, in December 2019 and January 2020, described below.*
 
 1. _The Turing Way_ illustrations by [Scriberia](http://www.scriberia.co.uk/scribing-sketchnotes) were included in [Nadia Soliman](https://twitter.com/Nadia_Soliman_)'s [OASPA](https://twitter.com/OASPA) talk as [mentioned in this tweet](https://twitter.com/PHerterich/status/1206966606397628416?s=20) by Patricia Hertreich.
 
