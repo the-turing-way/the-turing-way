@@ -21,7 +21,7 @@
     - [Compilers](#Compilers)
     - [Dependencies](#Dependencies)
     - [Containers](#Containers)
-  - [The .travis.yml script](#The_travis_yml_script)
+  - [The `.travis.yml` script](#The_travis_yml_script)
   - [After success](#After_success)
   - [Testing a project against multiple versions of a programming language](#Testing_a_project_against_multiple_versions_of_a_programming_language)
   - [Testing a project on multiple operating systems](#Testing_a_project_on_multiple_operating_systems)
@@ -93,17 +93,17 @@ There are a number of CI tools available, such as Circle (tutorials [here](https
 A list of other CI tools can be found [here](https://www.software.ac.uk/resources/guides/hosted-continuous-integration).
 In this chapter we will focus on [Travis](https://travis-ci.org/) because it's free (if your code is openly available), widely used, and well integrated with the version control platform [GitHub](https://github.com/).
 
-To use Travis you will need to add a file to your project called `.travis.yml` which describes the computational environment to run the project in, and includes a script to run your tests. See the chapter on reproducible computational environments for more information on them, including writing `.yml` files to specify them. See the chapter on testing for information on writing and automating tests. The .travis.yml file has a number of other capabilities, which will be described [later](#After_success) along with more [detailed instructions](#Setting_up_the_computational_environment) for writing these files.
+To use Travis you will need to add a file to your project called `.travis.yml` which describes the computational environment to run the project in, and includes a script to run your tests. See the chapter on reproducible computational environments for more information on them, including writing `.yml` files to specify them. See the chapter on testing for information on writing and automating tests. The `.travis.yml` file has a number of other capabilities, which will be described [later](#After_success) along with more [detailed instructions](#Setting_up_the_computational_environment) for writing these files.
 
 Once Travis has been set up on a project then each time a commit is made it:
 
 - Clones a copy of  project
-- Generates a copy of the computational environment specified in the .travis.yml file in a brand new virtual environment
+- Generates a copy of the computational environment specified in the `.travis.yml` file in a brand new virtual environment
 - Builds the project within that environment
-- Runs the tests by following the script specified in the .travis.yml file
+- Runs the tests by following the script specified in the `.travis.yml` file
 - Reports the results
   - Travis will output the results of every step of building the environment and running the script as a log viewable in your account on the [Travis site](https://travis-ci.org/) (the dark grey box in the figure below).
-  - Travis will attach a badge to the results, green if all steps in the script (which run the tests) pass, red if not. The badge will be yellow whilst Travis is still running. If Travis is unable to generate the computational environment described in the .travis.yml file then it will not proceed further and the badge will be grey. See the figures below which show the passing build badge and failing build badge in the readme of a GitHub repository.
+  - Travis will attach a badge to the results, green if all steps in the script (which run the tests) pass, red if not. The badge will be yellow whilst Travis is still running. If Travis is unable to generate the computational environment described in the `.travis.yml` file then it will not proceed further and the badge will be grey. See the figures below which show the passing build badge and failing build badge in the readme of a GitHub repository.
   - Travis will also report the results via email (notification settings can be adjusted).
 
 Here's what the Travis dashboard of a repository looks like:
@@ -118,7 +118,7 @@ If I deliberately create a bug and commit it then Travis automatically runs, the
 
 ![Travis_badge_fail](../figures/Travis_badge_fail.png)
 
-You can use Travis to test your project in multiple computational environments my specifying them in the .travis.yml file. A quick note on Travis vocabulary:
+You can use Travis to test your project in multiple computational environments my specifying them in the `.travis.yml` file. A quick note on Travis vocabulary:
 
 - Job - an automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code and running tests. A job fails if the return code of the script encounters an error.
 - Build - a group of jobs. For example, a build might have two *jobs*, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
@@ -137,7 +137,7 @@ You can use Travis to test your project in multiple computational environments m
 - Check the build status page to see if your build passes or fails, according to the return status of the build command by visiting the [Travis CI](https://travis-ci.com/auth) and selecting your repository.
 - Next time you commit to your repository Travis will run on the updated version of your project and report the results.
 
-It's that simple. The rest of this section will describe the different components of the .travis.yml file and how to write them.
+It's that simple. The rest of this section will describe the different components of the `.travis.yml` file and how to write them.
 
 <a name="Setting_up_the_computational_environment"></a>
 ### Setting up the computational environment
@@ -147,7 +147,7 @@ This page on [common build problems](https://docs.travis-ci.com/user/common-buil
 <a name="Operating_system"></a>
 #### Operating system
 
-Travis CI works with a few different operating systems. In the .travis.yml  file define the operating system to run a project on via the os keyword like:
+Travis CI works with a few different operating systems. In the `.travis.yml`  file define the operating system to run a project on via the os keyword like:
 ```
 os: linux
 ```
@@ -193,7 +193,7 @@ compiler:
 <a name="Dependencies"></a>
 #### Dependencies
 
-Not all languages/software are available on all operating systems however they can typically be installed within the .travis.yml file.
+Not all languages/software are available on all operating systems however they can typically be installed within the `.travis.yml` file.
 
 To install packages that are not included in the standard version of the operating system specified you can include a `before_install` step in your `.travis.yml` along with the necessary code to install them, for example:
 
@@ -204,7 +204,7 @@ before_install:
 <a name="Containers"></a>
 #### Containers
 
-It is possible to use Docker containers (see the reproducible computational environments chapter) to generate the computational environment by pulling and running the image from the .travis.yml file. If you are doing so you should pull or generate the image (preferably pull to save Travis from having to build the image from scratch) in the before_install step (see above section). Then in the .travis.yml file's script ([see next section](#The_travis_yml_script)) you can run a command to run your tests like:
+It is possible to use Docker containers (see the reproducible computational environments chapter) to generate the computational environment by pulling and running the image from the `.travis.yml` file. If you are doing so you should pull or generate the image (preferably pull to save Travis from having to build the image from scratch) in the before_install step (see above section). Then in the `.travis.yml` file's script ([see next section](#The_travis_yml_script)) you can run a command to run your tests like:
 ```
 script:
   - sudo docker run -t image_name command_to_run
@@ -225,7 +225,7 @@ script:
 See [here](https://docs.travis-ci.com/user/docker/) for more information on this.
 
 <a name="The_travis_yml_script"></a>
-### The .travis.yml script
+### The `.travis.yml` script
 
 Travis will report that the build has failed if any commands in the script section return an error. Technically any commands can be included in the script, but it is mainly used for running tests. A script does not need to be long or complicated, as demonstrated by this example which uses the pytest command to run tests in python scripts:
 ```
@@ -284,7 +284,7 @@ os:
   - osx
 ```
 
-When you test your code on multiple operating systems, be aware of differences that can affect your tests, for example not all tools and programming languages are available on all operating systems. This should be taken into account when writing commands for your script file (or other sections of the .travis.yml file). Also file system behaviour may differ between OSs. Your tests may implicitly rely on these behaviours, and could fail because of them. They are different operating systems, after all.
+When you test your code on multiple operating systems, be aware of differences that can affect your tests, for example not all tools and programming languages are available on all operating systems. This should be taken into account when writing commands for your script file (or other sections of the `.travis.yml` file). Also file system behaviour may differ between OSs. Your tests may implicitly rely on these behaviours, and could fail because of them. They are different operating systems, after all.
 
 When Travis is running a job it sets the `TRAVIS_OS_NAME` variable which describes the operating system being tested. You can use this to run commands only on specified operating systems like this:
 ```
@@ -296,7 +296,7 @@ It is possible to go further and construct a [build matrix](https://docs.travis-
 <a name="Allowing_failures"></a>
 #### Allowing failures
 
-To ignore the results of jobs in certain computational environments you can define rows that are allowed to fail in the build matrix. Do this by adding an `allow_failures` section to the .travis.yml file. Allowed failures are items in your build matrix that are allowed to fail without causing the entire build to fail.  For example to allow the build to pass even if the job(s) using the osx operating system fail you'd add the following to your `.travis.yml`:
+To ignore the results of jobs in certain computational environments you can define rows that are allowed to fail in the build matrix. Do this by adding an `allow_failures` section to the `.travis.yml` file. Allowed failures are items in your build matrix that are allowed to fail without causing the entire build to fail.  For example to allow the build to pass even if the job(s) using the osx operating system fail you'd add the following to your `.travis.yml`:
 ```
 matrix:
   allow_failures:
@@ -367,7 +367,7 @@ Checking for dependency updates should be done regularly. It can save a lot of t
 
 A project should be built once at the beginning of the pipeline, the resulting software should be stored and accessible to later processes without rebuilding. By using the exact same artefact in each phase, you can be certain that you are not introducing inconsistencies as a result of different build tools.
 
-Also, the environment defined by the .travis.yml file should reflect the actual environment the code is run in. If that environment is modified don't forget to update the .travis.yml file, otherwise the results Travis returns will not be trustworthy.
+Also, the environment defined by the `.travis.yml` file should reflect the actual environment the code is run in. If that environment is modified don't forget to update the `.travis.yml` file, otherwise the results Travis returns will not be trustworthy.
 
 <a name="Checklist"></a>
 ## Checklist
@@ -376,12 +376,12 @@ Also, the environment defined by the .travis.yml file should reflect the actual 
 - [ ] Put the project on GitHub
 - [ ] Have project members regularly commit their work to this central repository
 - [ ] That project should have at least some tests
-- [ ] Write a .travis.yml file which:
+- [ ] Write a `.travis.yml` file which:
   - [ ] Sets out the operating system the project is run on
   - [ ] Defines the programming language and version of that language to run the project with
   - [ ] Includes code to install any dependencies required to run the project in a before_install step
   - [ ] Contains a script to run the project tests
-- [ ] Commit the .travis.yml file to the project's GitHub repository
+- [ ] Commit the `.travis.yml` file to the project's GitHub repository
 - [ ] Go to [travis-ci.com](https://travis-ci.com/) and sign in with GitHub
 - [ ] Activate Travis on your project repository
 - [ ] Each time a new commit is pushed Travis will run the tests and return the results. If these report that a commit causes test/tests to fail then find and fix the problem as soon as possible
