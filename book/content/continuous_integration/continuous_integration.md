@@ -5,7 +5,7 @@
 | [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | Continuous integration will follow command line instructions
 | [Version control](/version_control/version_control) | Necessary | Continuous integration runs every time a new _commit_ is made to your project |
 | [Reproducible computational environments](/reproducible_environments/reproducible_environments) | Necessary | Continuous integration runs your tests on a separate computer (usually in the cloud) so you need to set it up in the same way. |
-| [Testing](/testing/testing) | Very helpful | Continuous integration _tests_ if anything important has changed when you make a change in your project  |
+| [Testing](/testing/testing) | Very helpful | Continuous integration _tests_ if anything important has changed when you make a change in your project |
 
 ## Table of contents
 
@@ -69,7 +69,7 @@ In brief if a group of researchers are collaborating on a project it is good pra
 
 Continuous Integration is a software development practice where members of a team integrate their work frequently, rather than doing work in isolation and merging in large changes at infrequent intervals. In CI usually each person integrates at least daily. Each integration is verified by an automated build (usually including tests) to detect integration errors as quickly as possible.
 
-The idea is to minimize the cost of integration by making it an early consideration. Researchers can discover conflicts at the boundaries between new and existing code early, while they are still relatively easy to reconcile. Once the conflict is resolved, work can continue with confidence that the new code honours the requirements of the existing codebase. The goal is to build healthier software by developing and testing in smaller increments.  Many teams find that this approach leads to significantly reduced integration problems and allows a team to develop more rapidly.
+The idea is to minimize the cost of integration by making it an early consideration. Researchers can discover conflicts at the boundaries between new and existing code early, while they are still relatively easy to reconcile. Once the conflict is resolved, work can continue with confidence that the new code honours the requirements of the existing codebase. The goal is to build healthier software by developing and testing in smaller increments. Many teams find that this approach leads to significantly reduced integration problems and allows a team to develop more rapidly.
 
 Integrating code frequently does not, by itself, offer any guarantees about the quality of the new code or functionality. This leads us to the second aspect of CI. When a developer merges code into the main repository, automated processes build a working version of the project. Afterwards, test suites are run against the new build to check whether any bugs were introduced. If either the build or the test phase fails, the team is alerted so that they can work to fix the problem. It is easier to fix a bug in something you wrote a few minutes ago than something you wrote yesterday (or last week, or last month).
 
@@ -97,7 +97,7 @@ To use Travis you will need to add a file to your project called `.travis.yml` w
 
 Once Travis has been set up on a project then each time a commit is made it:
 
-- Clones a copy of  project
+- Clones a copy of project
 - Generates a copy of the computational environment specified in the `.travis.yml` file in a brand new virtual environment
 - Builds the project within that environment
 - Runs the tests by following the script specified in the `.travis.yml` file
@@ -147,7 +147,7 @@ This page on [common build problems](https://docs.travis-ci.com/user/common-buil
 <a name="Operating_system"></a>
 #### Operating system
 
-Travis CI works with a few different operating systems. In the `.travis.yml`  file define the operating system to run a project on via the os keyword like:
+Travis CI works with a few different operating systems. In the `.travis.yml` file define the operating system to run a project on via the os keyword like:
 ```
 os: linux
 ```
@@ -216,7 +216,7 @@ script:
   - sudo docker run -t a_demo_image pytest
 ```
 
-If you need to run more than one command in your script then you can include a script file within the container which contains those commands. Then the same process shown above can be used  to run it, like:
+If you need to run more than one command in your script then you can include a script file within the container which contains those commands. Then the same process shown above can be used to run it, like:
 ```
 script:
   - sudo docker run -t a_demo_image ./a_script.sh
@@ -394,7 +394,7 @@ If you have not already read the testing chapter it is suggested to do so to lea
 <a name="Further_reading"></a>
 ## Further reading
 
-Travis offers a great deal of functionality not described here for automating other processes related to the testing and deployment of  projects. Look into these, the Travis [documentation](https://docs.travis-ci.com/user/deployment) offers a good starting point for this.
+Travis offers a great deal of functionality not described here for automating other processes related to the testing and deployment of projects. Look into these, the Travis [documentation](https://docs.travis-ci.com/user/deployment) offers a good starting point for this.
 
 A list of example Travis builds and tests for various languages/frameworks is available [here](https://github.com/softwaresaved/build_and_test_examples).
 
