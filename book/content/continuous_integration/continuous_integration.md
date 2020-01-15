@@ -262,7 +262,7 @@ after_success:
   - coverage report
 ```
 
-<a name="Testing_a_project_against_multiple_versions_of_a_programming_language"></a>  
+<a name="Testing_a_project_against_multiple_versions_of_a_programming_language"></a>
 ### Testing a project against multiple versions of a programming language
 
 When a project is expected to be run on systems with different versions of a programming language you can set Travis to run the tests on each of these versions. For example to test on a variety of versions of python:
@@ -310,7 +310,7 @@ This is useful if you ideally want the build to be successful in multiple enviro
 
 CI does have its limitations. Firstly it is only as effective at finding bugs as the tests provided to it. If a project contains few or poor tests then it is entirely possible the project will contain bugs the tests do not catch and Travis will report the build as successful.
 
-Secondly, depending on the nature of your project there may be security considerations to think about.     
+Secondly, depending on the nature of your project there may be security considerations to think about.
 
 Travis CI obfuscates secure environment variables and tokens displayed in by the user interface. The [documentation about encryption keys](https://docs.travis-ci.com/user/encryption-keys/) outlines the build configuration required to set this up. However, if secret information is outputted in the course of running a script (for example in an error message) it may be included in Travis's build logs which may be accessible by others. To prevent leaks like this, secure environment variables and tokens that are longer than three characters are automatically filtered at runtime, effectively removing them from the build log, displaying the string `[secure]` instead. Nevertheless you should rotate your tokens and secrets regularly.
 
@@ -329,22 +329,22 @@ git push url-with-secret >/dev/null 2>&1
 
 If your project is set up such that each time a pull request is made on GitHub Travis tests that pull request there is an additional concern. If your tests require authentication credentials someone could make a pull request with malicious code to expose them. Therefore it is a good idea not to allow pull requests to automatically trigger Travis if you have such authentication requirements.
 
-<a name="Best_practise_for_continuous_integration"></a>    
+<a name="Best_practise_for_continuous_integration"></a>
 ## Best practise for continuous integration
 
-<a name="Small_iterative_changes"></a>  
+<a name="Small_iterative_changes"></a>
 ### Small, iterative changes
 
 One of the most important practices when adopting continuous integration is to encourage project members to make and commit small changes. Small changes minimize the possibility and impact of problems cropping up when they're integrated, which minimises the time and effort cost of integration.
 
-<a name="Trunk_based_development"></a>  
+<a name="Trunk_based_development"></a>
 ### Trunk-based development
 
 With trunk-based development, work is done in the main branch of the repository or merged back into the shared repository at frequent intervals. Short-lived feature branches are permissible as long as they represent small changes and are merged back as soon as possible.
 
 The idea behind trunk-based development is to avoid large commits that violate of concept of small, iterative changes discussed above. Code is available to peers early so that conflicts can be resolved when their scope is small.
 
-<a name="Keep_the_building_and_testing_phases_fast"></a>  
+<a name="Keep_the_building_and_testing_phases_fast"></a>
 ### Keep the building and testing phases fast
 
 Because the build and test steps must be performed frequently, it is essential that these processes be streamlined to minimize the time spent on them. Increases in build time should be treated as a major problem because the impact is compounded by the fact that each commit kicks off a build.
@@ -357,12 +357,12 @@ Some software will require significant compute resource to build and/or run. Exa
 
 One approach is to use different levels of testing, with different subgroups being required depending on what is being changed. A common broad subgroup can be used in every case, with additional ones being invoked to test certain areas in more detail. This introduces an element of judgement to the testing process, but can be applied successfully.
 
-<a name="Dependencies_tracking"></a>  
+<a name="Dependencies_tracking"></a>
 ### Dependencies tracking
 
 Checking for dependency updates should be done regularly. It can save a lot of time, avoiding bugs due to code dependent on deprecated functionality. Services such as [David](https://david-dm.org/) are available for dependency management.
 
-<a name="Consistency_throughout_the_pipeline"></a>  
+<a name="Consistency_throughout_the_pipeline"></a>
 ### Consistency throughout the pipeline
 
 A project should be built once at the beginning of the pipeline, the resulting software should be stored and accessible to later processes without rebuilding. By using the exact same artefact in each phase, you can be certain that you are not introducing inconsistencies as a result of different build tools.
