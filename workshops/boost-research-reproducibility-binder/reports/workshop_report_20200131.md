@@ -1,4 +1,4 @@
-# Feedback report on The Turing Way 'Boost your Research Reproducibility with Binder' workshops
+# Feedback report on The Turing Way 'Boost your Research Reproducibility with Binder' workshop | January 2020
 
 Kirstie Whitaker - representing _The Turing Way_ team - held a 'Boost your Research Reproducibility with Binder' workshop at the [British Antarctic Survey](https://www.bas.ac.uk) in Cambridge on 31 January 2020.
 
