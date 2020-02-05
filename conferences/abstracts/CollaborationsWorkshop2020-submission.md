@@ -24,7 +24,7 @@ Since its launch, the *Turing Way* has gained interests from a diverse set of co
 
 Going forward, *The Turing Way* project aims to expand into a series of books, which, in addition to reproducibility, will capture the vast amounts of knowledge of data science practices in the areas of project design, communication and outreach, collaboration, and ethics.  
 
-In this proposed session, the session lead will introduce the project in a short talk on *Turing Way* followed by an interactive demonstrations of the existing and planned chapters that participants can use, share, develop or modify for their own research. All participants will leave the session knowing that "Every Little Helps" when making their work intentionally designed to be open and reproducible. The session facilitators will help participants in identifying their route of contribution to an open source project while improving the *Turing Way* handbook for future readers.
+In this proposed session, we will introduce the project in a short talk on *Turing Way* followed by an interactive demonstrations of the existing and planned chapters that participants can use, share, develop or modify for their own research. All participants will leave the session knowing that "Every Little Helps" when making their work intentionally designed to be open and reproducible. The session facilitators will help participants in identifying their route of contribution to an open source project while improving the *Turing Way* handbook for future readers.
 
 ### Submission Info
 
