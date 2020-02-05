@@ -1,0 +1,2466 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Tony Yang <tony@tony.tc>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: content\n"
+"Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
+"POT-Creation-Date: 2020-02-05 14:52:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Tony Yang <tony@tony.tc>\n"
+"Language-Team: zh_CN <tony@tony.tc>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: make/make.md:1
+# header
+msgid "# Reproducibility with Make"
+msgstr ""
+
+#: make/make.md:3
+# header
+msgid "## Prerequisites / recommended skill level"
+msgstr ""
+
+#: make/make.md:5
+msgid "| Prerequisite | Importance | Notes |"
+msgstr ""
+
+#: make/make.md:6
+msgid "| ------------ | ---------- | ----- |"
+msgstr ""
+
+#: make/make.md:7
+msgid "| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | |"
+msgstr ""
+
+#: make/make.md:8
+msgid "| [Version control](/version_control/version_control) | Helpful | Experience using git is useful to follow along with examples |"
+msgstr ""
+
+#: make/make.md:10
+msgid "Recommended skill level: intermediate"
+msgstr ""
+
+#: make/make.md:12
+# header
+msgid "## Table of contents"
+msgstr ""
+
+#: make/make.md:14
+# unordered list
+msgid "- [Summary](#summary)"
+msgstr ""
+
+#: make/make.md:15
+# unordered list
+msgid "- [An Introduction to Make](#an-introduction-to-make)"
+msgstr ""
+
+#: make/make.md:16
+# unordered list
+msgid "  - [What is Make](#what-is-make)"
+msgstr ""
+
+#: make/make.md:17
+# unordered list
+msgid "  - [Why use Make for Reproducible Research?](#why-use-make-for-reproducible-research)"
+msgstr ""
+
+#: make/make.md:18
+# unordered list
+msgid "- [Learn Make by Example](#learn-make-by-example)"
+msgstr ""
+
+#: make/make.md:19
+# unordered list
+msgid "  - [Setting up](#setting-up)"
+msgstr ""
+
+#: make/make.md:20
+# unordered list
+msgid "  - [Makefile no. 1 (The Basics)](#makefile-no-1-the-basics)"
+msgstr ""
+
+#: make/make.md:21
+# unordered list
+msgid "  - [Makefile no. 2 (all and clean)](#makefile-no-2-all-and-clean)"
+msgstr ""
+
+#: make/make.md:22
+# unordered list
+msgid "  - [Makefile no. 3 (Phony Targets)](#makefile-no-3-phony-targets)"
+msgstr ""
+
+#: make/make.md:23
+# unordered list
+msgid "  - [Makefile no. 4 (Automatic Variables and Pattern Rules)](#makefile-no-4-automatic-variables-and-pattern-rules)"
+msgstr ""
+
+#: make/make.md:24
+# unordered list
+msgid "  - [Makefile no. 5 (Wildcards and Path Substitution)](#makefile-no-5-wildcards-and-path-substitution)"
+msgstr ""
+
+#: make/make.md:25
+# unordered list
+msgid "  - [Debugging Makefiles](#debugging-makefiles)"
+msgstr ""
+
+#: make/make.md:26
+# unordered list
+msgid "- [A Real Reproducible Paper using Make](#a-real-reproducible-paper-using-make)"
+msgstr ""
+
+#: make/make.md:27
+# unordered list
+msgid "- [Further Reading](#further-reading)"
+msgstr ""
+
+#: make/make.md:28
+# unordered list
+msgid "  - [Manual](#manual)"
+msgstr ""
+
+#: make/make.md:29
+# unordered list
+msgid "  - [Discussions](#discussions)"
+msgstr ""
+
+#: make/make.md:30
+# unordered list
+msgid "  - [Blogs](#blogs)"
+msgstr ""
+
+#: make/make.md:31
+# unordered list
+msgid "  - [Tools](#tools)"
+msgstr ""
+
+#: make/make.md:32
+# unordered list
+msgid "  - [Alternatives to Make](#alternatives-to-make)"
+msgstr ""
+
+#: make/make.md:33
+# unordered list
+msgid "- [Glossary](#glossary)"
+msgstr ""
+
+#: make/make.md:34
+# unordered list
+msgid "- [Appendix](#appendix)"
+msgstr ""
+
+#: make/make.md:35
+# unordered list
+msgid "  - [Directed Acyclic Graph](#directed-acyclic-graph)"
+msgstr ""
+
+#: make/make.md:36
+# unordered list
+msgid "  - [Installing Make](#installing-make)"
+msgstr ""
+
+#: make/make.md:37
+# unordered list
+msgid "  - [Advanced: Generating Rules using Call](#advanced-generating-rules-using-call)"
+msgstr ""
+
+#: make/make.md:40
+# header
+msgid "## Summary"
+msgstr ""
+
+#: make/make.md:42
+msgid "A data science or research project can be seen as a tree of dependencies: the "
+msgstr ""
+
+#: make/make.md:43
+msgid "report depends on the figures and tables, and these in turn depend on the data "
+msgstr ""
+
+#: make/make.md:44
+msgid "and the analysis scripts used to process this data (illustrated in the figure "
+msgstr ""
+
+#: make/make.md:45
+msgid "below).  Make is a tool for creating output files from their dependencies "
+msgstr ""
+
+#: make/make.md:46
+msgid "through pre-specified rules.  It is possible to combine these two ideas to "
+msgstr ""
+
+#: make/make.md:47
+msgid "create a reproducible project with Make.  In this chapter we give an "
+msgstr ""
+
+#: make/make.md:48
+msgid "introduction to Make and provide a tutorial on how Make can be used for a data "
+msgstr ""
+
+#: make/make.md:49
+msgid "analysis pipeline.  We also describe a real-world reproducible research "
+msgstr ""
+
+#: make/make.md:50
+msgid "project that uses Make to go from the raw input data to the experiments all "
+msgstr ""
+
+#: make/make.md:51
+msgid "the way to the pdf file of the paper!"
+msgstr ""
+
+#: make/make.md:53
+msgid "![Schematic of a research project](../figures/make/research_dag.png)"
+msgstr ""
+
+#: make/make.md:54
+msgid "<small style=\"margin: 5pt auto; text-align: center; display: block;\">A "
+msgstr ""
+
+#: make/make.md:55
+msgid "schematic for a research project that uses LaTeX.</small>"
+msgstr ""
+
+#: make/make.md:57
+# header
+msgid "## An Introduction to Make"
+msgstr ""
+
+#: make/make.md:59
+# header
+msgid "### What is Make"
+msgstr ""
+
+#: make/make.md:61
+msgid "Make is a build automation tool. It uses a configuration file called a "
+msgstr ""
+
+#: make/make.md:62
+msgid "Makefile that contains the *rules* for what to build. Make builds *targets* "
+msgstr ""
+
+#: make/make.md:63
+msgid "using *recipes*.  Targets can optionally have *prerequisites*.  Prerequisites "
+msgstr ""
+
+#: make/make.md:64
+msgid "can be files on your computer or other targets. Make determines what to build "
+msgstr ""
+
+#: make/make.md:65
+msgid "based on the dependency tree of the targets and prerequisites (technically, "
+msgstr ""
+
+#: make/make.md:66
+msgid "this is a [directed acyclic graph](#directed-acyclic-graph)).  It uses the "
+msgstr ""
+
+#: make/make.md:67
+msgid "*modification time* of prerequisites to update targets only when needed."
+msgstr ""
+
+#: make/make.md:69
+# header
+msgid "### Why use Make for Reproducibility?"
+msgstr ""
+
+#: make/make.md:71
+msgid "There are several reasons why Make is a good tool to use for reproducibility:"
+msgstr ""
+
+#: make/make.md:73
+# ordered list
+msgid "1. Make is easy to learn"
+msgstr ""
+
+#: make/make.md:74
+# ordered list
+msgid "1. Make is available on many platforms"
+msgstr ""
+
+#: make/make.md:75
+# ordered list
+msgid "1. Many people are already familiar with Make"
+msgstr ""
+
+#: make/make.md:76
+# ordered list
+msgid "1. Makefiles reduce cognitive load because as long as the common Make targets "
+msgstr ""
+
+#: make/make.md:77
+msgid "   ``all`` and ``clean`` are present (explained below), you can be up and "
+msgstr ""
+
+#: make/make.md:78
+msgid "   running without having to read lengthy instructions. This is especially "
+msgstr ""
+
+#: make/make.md:79
+msgid "   useful when you work on someone else's project or on one that you haven't "
+msgstr ""
+
+#: make/make.md:80
+msgid "   used in a long time."
+msgstr ""
+
+#: make/make.md:81
+# ordered list
+msgid "1. Makefiles are human-readable and machine-readable text files. So instead of "
+msgstr ""
+
+#: make/make.md:82
+msgid "   writing instructions to a human for how to build a report or output, you "
+msgstr ""
+
+#: make/make.md:83
+msgid "   can provide a Makefile with instructions that can be read by a human *and* "
+msgstr ""
+
+#: make/make.md:84
+msgid "   executed by a computer."
+msgstr ""
+
+#: make/make.md:85
+# ordered list
+msgid "1. Because Makefiles are text files they are easy to share and keep in version "
+msgstr ""
+
+#: make/make.md:86
+msgid "   control."
+msgstr ""
+
+#: make/make.md:87
+# ordered list
+msgid "1. Using Make doesn't exclude using other tools such as Travis and Docker."
+msgstr ""
+
+#: make/make.md:89
+# header
+msgid "## Learn Make by Example"
+msgstr ""
+
+#: make/make.md:91
+msgid "One of the things that might scare people off from using Make is that existing "
+msgstr ""
+
+#: make/make.md:92
+msgid "Makefiles can seem daunting and it may seem difficult to tailor to your own "
+msgstr ""
+
+#: make/make.md:93
+msgid "needs.  In this hands-on tutorial we will iteratively construct a Makefile for "
+msgstr ""
+
+#: make/make.md:94
+msgid "a real data analysis project. The idea is to explain different features of "
+msgstr ""
+
+#: make/make.md:95
+msgid "Make by iterating through several versions of a Makefile for this project. "
+msgstr ""
+
+#: make/make.md:96
+msgid "Hopefully the experience that you gain from this tutorial allows you to create "
+msgstr ""
+
+#: make/make.md:97
+msgid "Makefiles for your own projects."
+msgstr ""
+
+#: make/make.md:99
+msgid "We will create a ``Makefile`` for a data analysis pipeline. The task is as "
+msgstr ""
+
+#: make/make.md:100
+#: make/make.md:250
+msgid "follows:"
+msgstr ""
+
+#: make/make.md:102
+# blockquote, which can be cascaded
+msgid "> **Task: Given some datasets, create a summary report (in pdf) that contains "
+msgstr ""
+
+#: make/make.md:103
+# blockquote, which can be cascaded
+msgid "> the histograms of these datasets.**"
+msgstr ""
+
+#: make/make.md:105
+msgid "(Of course this data task is very simple to focus on how to use Make.)"
+msgstr ""
+
+#: make/make.md:107
+msgid "*Throughout the tutorial code blocks that start with a dollar sign (``$``) are "
+msgstr ""
+
+#: make/make.md:108
+msgid "intended to be typed in the terminal.*"
+msgstr ""
+
+#: make/make.md:110
+# header
+msgid "### Setting up"
+msgstr ""
+
+#: make/make.md:112
+msgid "We have created a basic repository for this task, that already contains "
+msgstr ""
+
+#: make/make.md:113
+msgid "everything that we need (*except the Makefile of course!*). To start, clone "
+msgstr ""
+
+#: make/make.md:114
+msgid "the base repository using git:"
+msgstr ""
+
+#: make/make.md:116
+# code block
+msgid "```bash\n"
+"$ git clone https://github.com/alan-turing-institute/IntroToMake\n"
+"```"
+msgstr ""
+
+#: make/make.md:120
+msgid "This basic repository contains all the code that we'll need in this tutorial, "
+msgstr ""
+
+#: make/make.md:121
+msgid "and should have this content:"
+msgstr ""
+
+#: make/make.md:123
+# code block
+msgid "```text\n"
+".\n"
+"├── data/\n"
+"│   ├── input_file_1.csv\n"
+"│   └── input_file_2.csv\n"
+"├── LICENSE\n"
+"├── output/\n"
+"├── README.md\n"
+"├── report/\n"
+"│   └── report.tex\n"
+"└── scripts/\n"
+"    └── generate_histogram.py\n"
+"```"
+msgstr ""
+
+#: make/make.md:137
+# unordered list
+msgid "- **data**: directory with two datasets that we're going to analyse"
+msgstr ""
+
+#: make/make.md:138
+# unordered list
+msgid "- **report**: the input directory for the report"
+msgstr ""
+
+#: make/make.md:139
+# unordered list
+msgid "- **scripts**: directory for the analysis script"
+msgstr ""
+
+#: make/make.md:140
+# unordered list
+msgid "- **output**: output directory for the figures and the report"
+msgstr ""
+
+#: make/make.md:142
+msgid "You'll notice that there are two datasets in the **data** directory "
+msgstr ""
+
+#: make/make.md:143
+msgid "(``input_file_1.csv`` and ``input_file_2.csv``) and that there is already a "
+msgstr ""
+
+#: make/make.md:144
+msgid "basic Python script in **scripts** and a basic report LaTeX file in "
+msgstr ""
+
+#: make/make.md:145
+msgid "**report**."
+msgstr ""
+
+#: make/make.md:147
+msgid "If you want to follow along, ensure that you have the ``matplotlib`` and "
+msgstr ""
+
+#: make/make.md:148
+msgid "``numpy`` packages installed:"
+msgstr ""
+
+#: make/make.md:150
+# code block
+msgid "```bash\n"
+"$ pip install matplotlib numpy\n"
+"```"
+msgstr ""
+
+#: make/make.md:154
+msgid "You will also need a working version of ``pdflatex`` and, of course, ``make``. "
+msgstr ""
+
+#: make/make.md:155
+msgid "For installation instructions for Make, see [the installation instructions "
+msgstr ""
+
+#: make/make.md:156
+msgid "below](#installing-make)."
+msgstr ""
+
+#: make/make.md:158
+# header
+msgid "### Makefile no. 1 (The Basics)"
+msgstr ""
+
+#: make/make.md:160
+msgid "Let's create our first Makefile. In the terminal, move into the "
+msgstr ""
+
+#: make/make.md:161
+msgid "``IntroToMake`` repository that you just cloned:"
+msgstr ""
+
+#: make/make.md:163
+# code block
+msgid "```bash\n"
+"$ cd IntroToMake\n"
+"```"
+msgstr ""
+
+#: make/make.md:167
+msgid "Using your favourite editor, create a file called ``Makefile`` with the "
+msgstr ""
+
+#: make/make.md:168
+msgid "following contents:"
+msgstr ""
+
+#: make/make.md:170
+# code block
+msgid "```makefile\n"
+"# Makefile for analysis report\n"
+"\n"
+"output/figure_1.png: data/input_file_1.csv scripts/generate_histogram.py\n"
+"	python scripts/generate_histogram.py -i data/input_file_1.csv -o output/figure_1.png\n"
+"\n"
+"output/figure_2.png: data/input_file_2.csv scripts/generate_histogram.py\n"
+"	python scripts/generate_histogram.py -i data/input_file_2.csv -o output/figure_2.png\n"
+"\n"
+"output/report.pdf: report/report.tex output/figure_1.png output/figure_2.png\n"
+"	cd report/ && pdflatex report.tex && mv report.pdf ../output/report.pdf\n"
+"```"
+msgstr ""
+
+#: make/make.md:182
+msgid "The indentation in each of the recipes are ***tabs***, Makefiles do not accept "
+msgstr ""
+
+#: make/make.md:183
+msgid "indentation with spaces."
+msgstr ""
+
+#: make/make.md:185
+msgid "You should now be able to type:"
+msgstr ""
+
+#: make/make.md:187
+# code block
+msgid "```bash\n"
+"$ make output/report.pdf\n"
+"```"
+msgstr ""
+
+#: make/make.md:191
+msgid "If everything worked correctly, the two figures will be created and pdf report "
+msgstr ""
+
+#: make/make.md:192
+msgid "will be built."
+msgstr ""
+
+#: make/make.md:194
+msgid "Let's go through the Makefile in a bit more detail. We have three rules, two "
+msgstr ""
+
+#: make/make.md:195
+msgid "for the figures and one for the report. Let's look at the rule for "
+msgstr ""
+
+#: make/make.md:196
+msgid "``output/figure_1.png`` first. This rule has the target "
+msgstr ""
+
+#: make/make.md:197
+msgid "``output/figure_1.png`` that has two prerequisites: ``data/input_file_1.csv`` "
+msgstr ""
+
+#: make/make.md:198
+msgid "and ``scripts/generate_histogram.py``. By giving the output file these "
+msgstr ""
+
+#: make/make.md:199
+msgid "prerequisites it will be updated if either of these files changes. This is one "
+msgstr ""
+
+#: make/make.md:200
+msgid "of the reasons why Make was created: to update output files when source files "
+msgstr ""
+
+#: make/make.md:201
+msgid "change."
+msgstr ""
+
+#: make/make.md:203
+msgid "You'll notice that the recipe line calls Python with the script name and uses "
+msgstr ""
+
+#: make/make.md:204
+msgid "command line flags (``-i`` and ``-o``) to mark the input and output of the "
+msgstr ""
+
+#: make/make.md:205
+msgid "script. This isn't a requirement for using Make, but it makes it easy to see "
+msgstr ""
+
+#: make/make.md:206
+msgid "which file is an input to the script and which is an output."
+msgstr ""
+
+#: make/make.md:208
+msgid "The rule for the PDF report is very similar, but it has three prerequisites "
+msgstr ""
+
+#: make/make.md:209
+msgid "(the LaTeX source and both figures). Notice that the recipe changes the "
+msgstr ""
+
+#: make/make.md:210
+msgid "working directory before calling LaTeX and also moves the generated PDF to the "
+msgstr ""
+
+#: make/make.md:211
+msgid "output directory. We're doing this to keep the LaTeX intermediate files in the "
+msgstr ""
+
+#: make/make.md:212
+msgid "report directory. However, it's important to distinguish the above rule from "
+msgstr ""
+
+#: make/make.md:213
+msgid "the following:"
+msgstr ""
+
+#: make/make.md:215
+# code block
+msgid "```makefile\n"
+"# don't do this\n"
+"output/report.pdf: report/report.tex output/figure_1.png output/figure_2.png\n"
+"	cd report/\n"
+"	pdflatex report.tex\n"
+"	mv report.pdf ../output/report.pdf\n"
+"```"
+msgstr ""
+
+#: make/make.md:223
+msgid "This rule places the three commands on separate lines. However, **Make "
+msgstr ""
+
+#: make/make.md:224
+msgid "executes each line independently** in a separate subshell, so changing the "
+msgstr ""
+
+#: make/make.md:225
+msgid "working directory in the first line has no effect on the second, and a failure "
+msgstr ""
+
+#: make/make.md:226
+msgid "in the second line won't stop the third line from being executed. Therefore, "
+msgstr ""
+
+#: make/make.md:227
+msgid "we combine the three commands in a single recipe above."
+msgstr ""
+
+#: make/make.md:229
+msgid "This is what the dependency tree looks like for this Makefile:"
+msgstr ""
+
+#: make/make.md:231
+msgid "![DAG for Makefile no. 1](../figures/make/makefile_no_1.png)"
+msgstr ""
+
+#: make/make.md:232
+msgid "<small style=\"margin: 5pt auto; text-align: center; display: block;\">The "
+msgstr ""
+
+#: make/make.md:233
+msgid "dependency graph for our first Makefile, created using "
+msgstr ""
+
+#: make/make.md:234
+msgid "[makefile2graph](#tools). Notice the similarity to the figure at the "
+msgstr ""
+
+#: make/make.md:235
+msgid "top!</small>"
+msgstr ""
+
+#: make/make.md:238
+# header
+msgid "### Makefile no. 2 (all and clean)"
+msgstr ""
+
+#: make/make.md:240
+msgid "In our first Makefile we have the basic rules in place. We could stick with "
+msgstr ""
+
+#: make/make.md:241
+msgid "this if we wanted to, but there are a few improvements we can make:"
+msgstr ""
+
+#: make/make.md:243
+# ordered list
+msgid "1. We now have to explicitly call ``make output/report.pdf`` if we want to "
+msgstr ""
+
+#: make/make.md:244
+msgid "   make the report."
+msgstr ""
+
+#: make/make.md:246
+# ordered list
+msgid "2. We have no way to clean up and start fresh."
+msgstr ""
+
+#: make/make.md:248
+msgid "Let's remedy this by adding two new targets: ``all`` and ``clean``. In your "
+msgstr ""
+
+#: make/make.md:249
+msgid "editor, change the Makefile contents to add the ``all`` and ``clean`` rules as "
+msgstr ""
+
+#: make/make.md:252
+# code block
+msgid "```makefile\n"
+"# Makefile for analysis report\n"
+"\n"
+"all: output/report.pdf\n"
+"\n"
+"output/figure_1.png: data/input_file_1.csv scripts/generate_histogram.py\n"
+"	python scripts/generate_histogram.py -i data/input_file_1.csv -o output/figure_1.png\n"
+"\n"
+"output/figure_2.png: data/input_file_2.csv scripts/generate_histogram.py\n"
+"	python scripts/generate_histogram.py -i data/input_file_2.csv -o output/figure_2.png\n"
+"\n"
+"output/report.pdf: report/report.tex output/figure_1.png output/figure_2.png\n"
+"	cd report/ && pdflatex report.tex && mv report.pdf ../output/report.pdf\n"
+"\n"
+"clean:\n"
+"	rm -f output/report.pdf\n"
+"	rm -f output/figure_*.png\n"
+"```"
+msgstr ""
+
+#: make/make.md:271
+msgid "Note that we've added the ``all`` target to the top of the file. We do this "
+msgstr ""
+
+#: make/make.md:272
+msgid "because Make executes the *first* target when no explicit target is given.  So "
+msgstr ""
+
+#: make/make.md:273
+msgid "you can now type ``make`` on the command line and it would do the same as "
+msgstr ""
+
+#: make/make.md:274
+msgid "``make all``.  Also, note that we've only added the report as the prerequisite "
+msgstr ""
+
+#: make/make.md:275
+msgid "of ``all`` because that's our desired output and the other rules help to build "
+msgstr ""
+
+#: make/make.md:276
+msgid "that output. If you have multiple outputs, you could add these as further "
+msgstr ""
+
+#: make/make.md:277
+msgid "prerequisites to the ``all`` target. Calling the main target ``all`` is a "
+msgstr ""
+
+#: make/make.md:278
+msgid "convention of Makefiles that many people follow."
+msgstr ""
+
+#: make/make.md:280
+msgid "The ``clean`` rule is typically at the bottom, but that's more style than "
+msgstr ""
+
+#: make/make.md:281
+msgid "requirement. Note that we use the ``-f`` flag to ``rm`` to make sure it "
+msgstr ""
+
+#: make/make.md:282
+msgid "doesn't complain when there is no file to remove."
+msgstr ""
+
+#: make/make.md:284
+msgid "You can try out the new Makefile by running:"
+msgstr ""
+
+#: make/make.md:286
+# code block
+msgid "```bash\n"
+"$ make clean\n"
+"$ make\n"
+"```"
+msgstr ""
+
+#: make/make.md:291
+msgid "Make should remove the output and intermediate files after the first command, "
+msgstr ""
+
+#: make/make.md:292
+msgid "and generate them again after the second."
+msgstr ""
+
+#: make/make.md:294
+# header
+msgid "### Makefile no. 3 (Phony Targets)"
+msgstr ""
+
+#: make/make.md:296
+msgid "Typically, ``all`` and ``clean`` are defined as so-called [Phony "
+msgstr ""
+
+#: make/make.md:297
+msgid "Targets](https://www.gnu.org/software/make/manual/make.html#Phony-Targets). "
+msgstr ""
+
+#: make/make.md:298
+msgid "These are targets that don't actually create an output file. Such targets will "
+msgstr ""
+
+#: make/make.md:299
+msgid "always be run if they come up in a dependency, but will no longer be run if a "
+msgstr ""
+
+#: make/make.md:300
+msgid "directory/file is ever created that is called ``all`` or ``clean``. We "
+msgstr ""
+
+#: make/make.md:301
+msgid "therefore add a line at the top of the Makefile to define these two as phony "
+msgstr ""
+
+#: make/make.md:302
+msgid "targets:"
+msgstr ""
+
+#: make/make.md:304
+# code block
+msgid "```makefile\n"
+"# Makefile for analysis report\n"
+"\n"
+".PHONY: all clean\n"
+"\n"
+"all: output/report.pdf\n"
+"\n"
+"output/figure_1.png: data/input_file_1.csv scripts/generate_histogram.py\n"
+"	python scripts/generate_histogram.py -i data/input_file_1.csv -o output/figure_1.png\n"
+"\n"
+"output/figure_2.png: data/input_file_2.csv scripts/generate_histogram.py\n"
+"	python scripts/generate_histogram.py -i data/input_file_2.csv -o output/figure_2.png\n"
+"\n"
+"output/report.pdf: report/report.tex output/figure_1.png output/figure_2.png\n"
+"	cd report/ && pdflatex report.tex && mv report.pdf ../output/report.pdf\n"
+"\n"
+"clean:\n"
+"	rm -f output/report.pdf\n"
+"	rm -f output/figure_*.pdf\n"
+"```"
+msgstr ""
+
+#: make/make.md:325
+msgid "Phony targets are also useful when you want to use Make recursively. In that "
+msgstr ""
+
+#: make/make.md:326
+msgid "case you would specify the subdirectories as phony targets. You can read more "
+msgstr ""
+
+#: make/make.md:327
+msgid "about [phony targets in the "
+msgstr ""
+
+#: make/make.md:328
+msgid "documentation](https://www.gnu.org/software/make/manual/make.html#Phony-Targets), "
+msgstr ""
+
+#: make/make.md:329
+msgid "but for now it's enough to know that ``all`` and ``clean`` are typically "
+msgstr ""
+
+#: make/make.md:330
+msgid "declared as phony."
+msgstr ""
+
+#: make/make.md:332
+# blockquote, which can be cascaded
+msgid "> Sidenote: another target that's typically phony is **test**, in case you "
+msgstr ""
+
+#: make/make.md:333
+# blockquote, which can be cascaded
+msgid "> have a directory of tests called **test** and want to have a target to run "
+msgstr ""
+
+#: make/make.md:334
+# blockquote, which can be cascaded
+msgid "> them that's also called **test**."
+msgstr ""
+
+#: make/make.md:336
+# header
+msgid "### Makefile no. 4 (Automatic Variables and Pattern Rules)"
+msgstr ""
+
+#: make/make.md:338
+msgid "There's nothing wrong with the Makefile we have now, but it's somewhat verbose "
+msgstr ""
+
+#: make/make.md:339
+msgid "because we've declared all the targets explicitly using separate rules. We can "
+msgstr ""
+
+#: make/make.md:340
+msgid "simplify this by using [Automatic "
+msgstr ""
+
+#: make/make.md:341
+msgid "Variables](https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html) "
+msgstr ""
+
+#: make/make.md:342
+msgid "and [Pattern "
+msgstr ""
+
+#: make/make.md:343
+msgid "Rules](https://www.gnu.org/software/make/manual/html_node/Pattern-Rules.html#Pattern-Rules). "
+msgstr ""
+
+#: make/make.md:345
+msgid "<a name=\"automatic_var\">"
+msgstr ""
+
+#: make/make.md:347
+msgid "**Automatic Variables.** With automatic variables we can use the names of the "
+msgstr ""
+
+#: make/make.md:348
+msgid "prerequisites and targets in the recipe. Here's how we would do that for the "
+msgstr ""
+
+#: make/make.md:349
+msgid "figure rules:"
+msgstr ""
+
+#: make/make.md:351
+# code block
+msgid "```makefile\n"
+"# Makefile for analysis report\n"
+"\n"
+".PHONY: all clean\n"
+"\n"
+"all: output/report.pdf\n"
+"\n"
+"output/figure_1.png: data/input_file_1.csv scripts/generate_histogram.py\n"
+"	python scripts/generate_histogram.py -i $< -o $@\n"
+"\n"
+"output/figure_2.png: data/input_file_2.csv scripts/generate_histogram.py\n"
+"	python scripts/generate_histogram.py -i $< -o $@\n"
+"\n"
+"output/report.pdf: report/report.tex output/figure_1.png output/figure_2.png\n"
+"	cd report/ && pdflatex report.tex && mv report.pdf ../output/report.pdf\n"
+"\n"
+"clean:\n"
+"	rm -f output/report.pdf\n"
+"	rm -f output/figure_*.pdf\n"
+"```"
+msgstr ""
+
+#: make/make.md:372
+msgid "We've replaced the input and output filenames in the recipes respectively by "
+msgstr ""
+
+#: make/make.md:373
+msgid "``$<``, which denotes the *first* prerequisite and ``$@`` which denotes the "
+msgstr ""
+
+#: make/make.md:374
+msgid "*target*. You can remember ``$<`` because it's like an arrow that points to "
+msgstr ""
+
+#: make/make.md:375
+msgid "the beginning (*first* prerequisite), and you can remember ``$@`` (dollar "
+msgstr ""
+
+#: make/make.md:376
+msgid "*at*) [as the target you're aiming "
+msgstr ""
+
+#: make/make.md:377
+msgid "*at*](https://jameshfisher.com/2016/12/07/makefile-automatic-variables/)."
+msgstr ""
+
+#: make/make.md:379
+msgid "There are more automatic variables that you could use, see [the "
+msgstr ""
+
+#: make/make.md:380
+msgid "documentation](https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html)."
+msgstr ""
+
+#: make/make.md:382
+msgid "<a name=\"pattern_rules\">"
+msgstr ""
+
+#: make/make.md:384
+msgid "**Pattern Rules.** Notice that the recipes for the figures have become "
+msgstr ""
+
+#: make/make.md:385
+msgid "identical!  Because we don't like to repeat ourselves, we can combine the two "
+msgstr ""
+
+#: make/make.md:386
+msgid "rules into a single rule by using *pattern rules*. Pattern rules allow you to "
+msgstr ""
+
+#: make/make.md:387
+msgid "use the ``%`` symbol as a wildcard and combine the two rules into one:"
+msgstr ""
+
+#: make/make.md:389
+# code block
+msgid "```makefile\n"
+"# Makefile for analysis report\n"
+"\n"
+".PHONY: all clean\n"
+"\n"
+"all: output/report.pdf\n"
+"\n"
+"output/figure_%.png: data/input_file_%.csv scripts/generate_histogram.py\n"
+"	python scripts/generate_histogram.py -i $< -o $@\n"
+"\n"
+"output/report.pdf: report/report.tex output/figure_1.png output/figure_2.png\n"
+"	cd report/ && pdflatex report.tex && mv report.pdf ../output/report.pdf\n"
+"\n"
+"clean:\n"
+"	rm -f output/report.pdf\n"
+"	rm -f output/figure_*.pdf\n"
+"```"
+msgstr ""
+
+#: make/make.md:407
+msgid "The ``%`` symbol is now a wildcard that (in our case) takes the value ``1`` or "
+msgstr ""
+
+#: make/make.md:408
+msgid "``2`` based on the input files in the ``data`` directory. You can check that "
+msgstr ""
+
+#: make/make.md:409
+msgid "everything still works by running ``make clean`` followed by ``make``."
+msgstr ""
+
+#: make/make.md:411
+msgid "An advantage of this is that if you now want to add another dataset, say "
+msgstr ""
+
+#: make/make.md:412
+msgid "``input_file_3``, then you would only need to add that to the rule for the "
+msgstr ""
+
+#: make/make.md:413
+msgid "report!"
+msgstr ""
+
+#: make/make.md:416
+# header
+msgid "### Makefile no. 5 (Wildcards and Path Substitution)"
+msgstr ""
+
+#: make/make.md:418
+msgid "When Makefiles get more complex, you may want to use more advanced features "
+msgstr ""
+
+#: make/make.md:419
+msgid "such as building outputs for all the files in an input directory. While "
+msgstr ""
+
+#: make/make.md:420
+msgid "pattern rules will get you a long way, Make also has features for wildcards "
+msgstr ""
+
+#: make/make.md:421
+msgid "and string or path manipulation for when pattern rules are insufficient."
+msgstr ""
+
+#: make/make.md:423
+msgid "While previously our input files were numbered, we'll now switch to a scenario "
+msgstr ""
+
+#: make/make.md:424
+msgid "where they have more meaningful names. Let's switch over to the ``big_data`` "
+msgstr ""
+
+#: make/make.md:425
+msgid "branch:"
+msgstr ""
+
+#: make/make.md:427
+# code block
+msgid "```bash\n"
+"$ git stash                     # stash the state of your working directory\n"
+"$ git checkout big_data         # checkout the big_data branch\n"
+"```"
+msgstr ""
+
+#: make/make.md:432
+msgid "The directory structure now looks like this:"
+msgstr ""
+
+#: make/make.md:434
+# code block
+msgid "```text\n"
+"├── data/\n"
+"│   ├── action.csv\n"
+"│   ├── ...\n"
+"│   ├── input_file_1.csv\n"
+"│   ├── input_file_2.csv\n"
+"│   ├── ...\n"
+"│   └── western.csv\n"
+"├── LICENSE\n"
+"├── output/\n"
+"├── README.md\n"
+"├── report/\n"
+"│   └── report.tex\n"
+"└── scripts/\n"
+"    └── generate_histogram.py\n"
+"```"
+msgstr ""
+
+#: make/make.md:451
+msgid "As you can see, the **data** directory now contains additional input files "
+msgstr ""
+
+#: make/make.md:452
+msgid "that are named more meaningfully (the data are IMBD movie ratings by genre). "
+msgstr ""
+
+#: make/make.md:453
+msgid "Also, the **report.tex** file has been updated to work with the expected "
+msgstr ""
+
+#: make/make.md:454
+msgid "figures."
+msgstr ""
+
+#: make/make.md:456
+msgid "We'll adapt our Makefile to create a figure in the output directory called "
+msgstr ""
+
+#: make/make.md:457
+msgid "``histogram_{genre}.png`` for each ``{genre}.csv`` file, while excluding the "
+msgstr ""
+
+#: make/make.md:458
+msgid "``input_file_{N}.csv`` files."
+msgstr ""
+
+#: make/make.md:460
+# blockquote, which can be cascaded
+msgid "> Sidenote: if we were to remove the ``input_file_{N}.csv`` files, pattern "
+msgstr ""
+
+#: make/make.md:461
+# blockquote, which can be cascaded
+msgid "> rules would be sufficient here. This highlights that sometimes your "
+msgstr ""
+
+#: make/make.md:462
+# blockquote, which can be cascaded
+msgid "> directory structure and Makefile should be developed hand in hand."
+msgstr ""
+
+#: make/make.md:464
+msgid "Before changing the Makefile, run"
+msgstr ""
+
+#: make/make.md:466
+# code block
+msgid "```bash\n"
+"$ make clean\n"
+"```"
+msgstr ""
+
+#: make/make.md:469
+msgid "to remove the output files."
+msgstr ""
+
+#: make/make.md:471
+msgid "We'll show the full Makefile first, and then describe the different lines in "
+msgstr ""
+
+#: make/make.md:472
+msgid "more detail. The complete file is:"
+msgstr ""
+
+#: make/make.md:474
+# code block
+msgid "```makefile\n"
+"# Makefile for analysis report\n"
+"#\n"
+"\n"
+"ALL_CSV = $(wildcard data/*.csv)\n"
+"INPUT_CSV = $(wildcard data/input_file_*.csv)\n"
+"DATA = $(filter-out $(INPUT_CSV),$(ALL_CSV))\n"
+"FIGURES = $(patsubst data/%.csv,output/figure_%.png,$(DATA))\n"
+"\n"
+".PHONY: all clean\n"
+"\n"
+"all: output/report.pdf\n"
+"\n"
+"$(FIGURES): output/figure_%.png: data/%.csv scripts/generate_histogram.py\n"
+"	python scripts/generate_histogram.py -i $< -o $@\n"
+"\n"
+"output/report.pdf: report/report.tex $(FIGURES)\n"
+"	cd report/ && pdflatex report.tex && mv report.pdf ../$@\n"
+"\n"
+"clean:\n"
+"	rm -f output/report.pdf\n"
+"	rm -f $(FIGURES)\n"
+"```"
+msgstr ""
+
+#: make/make.md:498
+msgid "First, we use the ``wildcard`` function to create a variable that lists all "
+msgstr ""
+
+#: make/make.md:499
+msgid "the CSV files in the data directory and one that lists only the old "
+msgstr ""
+
+#: make/make.md:500
+msgid "``input_file_{N}.csv`` files:"
+msgstr ""
+
+#: make/make.md:502
+# code block
+msgid "```makefile\n"
+"ALL_CSV = $(wildcard data/*.csv)\n"
+"INPUT_CSV = $(wildcard data/input_file_*.csv)\n"
+"```"
+msgstr ""
+
+#: make/make.md:507
+msgid "A code convention for Makefiles is to use all capitals for variable names and "
+msgstr ""
+
+#: make/make.md:508
+msgid "define them at the top of the file."
+msgstr ""
+
+#: make/make.md:510
+msgid "Next, we create a variable to list only the data files that we're interested "
+msgstr ""
+
+#: make/make.md:511
+msgid "in by filtering out the ``INPUT_CSV`` from ``ALL_CSV``:"
+msgstr ""
+
+#: make/make.md:513
+# code block
+msgid "```makefile\n"
+"DATA = $(filter-out $(INPUT_CSV),$(ALL_CSV))\n"
+"```"
+msgstr ""
+
+#: make/make.md:517
+msgid "This line uses the "
+msgstr ""
+
+#: make/make.md:518
+msgid "[``filter-out``](https://www.gnu.org/software/make/manual/make.html#index-filter_002dout) "
+msgstr ""
+
+#: make/make.md:519
+msgid "function to remove items in the ``INPUT_CSV`` variable from the ``ALL_CSV`` "
+msgstr ""
+
+#: make/make.md:520
+msgid "variable.  Note that we use both the ``$( ... )`` syntax for functions and "
+msgstr ""
+
+#: make/make.md:521
+msgid "variables. Finally, we'll use the ``DATA`` variable to create a ``FIGURES`` "
+msgstr ""
+
+#: make/make.md:522
+msgid "variable with the desired output:"
+msgstr ""
+
+#: make/make.md:524
+# code block
+msgid "```makefile\n"
+"FIGURES = $(patsubst data/%.csv,output/figure_%.png,$(DATA))\n"
+"```"
+msgstr ""
+
+#: make/make.md:528
+msgid "Here we've used the "
+msgstr ""
+
+#: make/make.md:529
+msgid "[``patsubst``](https://www.gnu.org/software/make/manual/make.html#index-patsubst-1) "
+msgstr ""
+
+#: make/make.md:530
+msgid "function to transform the input in the ``DATA`` variable (that follows the "
+msgstr ""
+
+#: make/make.md:531
+msgid "``data/{genre}.csv`` pattern) to the desired output filenames (using the "
+msgstr ""
+
+#: make/make.md:532
+msgid "``output/figure_{genre}.png`` pattern). Notice that the ``%`` character marks "
+msgstr ""
+
+#: make/make.md:533
+msgid "the part of the filename that will be the same in both the input and output."
+msgstr ""
+
+#: make/make.md:535
+msgid "Now we use these variables for the figure generation rule as follows:"
+msgstr ""
+
+#: make/make.md:537
+# code block
+msgid "```makefile\n"
+"$(FIGURES): output/figure_%.png: data/%.csv scripts/generate_histogram.py\n"
+"	python scripts/generate_histogram.py -i $< -o $@\n"
+"```"
+msgstr ""
+
+#: make/make.md:542
+msgid "This rule again applies a pattern: it takes a list of targets (``$(FIGURES)``) "
+msgstr ""
+
+#: make/make.md:543
+msgid "that all follow a given pattern (``output/figure_%.png``) and based on that "
+msgstr ""
+
+#: make/make.md:544
+msgid "creates a prerequisite (``data/%.csv``). Such a pattern rule is slightly "
+msgstr ""
+
+#: make/make.md:545
+msgid "different from the one we saw before because it uses two ``:`` symbols. It is "
+msgstr ""
+
+#: make/make.md:546
+msgid "called a [static pattern "
+msgstr ""
+
+#: make/make.md:547
+msgid "rule](https://www.gnu.org/software/make/manual/make.html#Static-Pattern)."
+msgstr ""
+
+#: make/make.md:549
+msgid "Of course we have to update the ``report.pdf`` rule as well:"
+msgstr ""
+
+#: make/make.md:551
+# code block
+msgid "```makefile\n"
+"output/report.pdf: report/report.tex $(FIGURES)\n"
+"	cd report/ && pdflatex report.tex && mv report.pdf ../$@\n"
+"```"
+msgstr ""
+
+#: make/make.md:556
+msgid "and the ``clean`` rule:"
+msgstr ""
+
+#: make/make.md:558
+# code block
+msgid "```makefile\n"
+"clean:\n"
+"	rm -f output/report.pdf\n"
+"	rm -f $(FIGURES)\n"
+"```"
+msgstr ""
+
+#: make/make.md:564
+msgid "If you run this Makefile, it will need to build 28 figures. You may want to "
+msgstr ""
+
+#: make/make.md:565
+msgid "use the ``-j`` flag to ``make`` to build these targets **in parallel!**"
+msgstr ""
+
+#: make/make.md:567
+#: make/make.md:984
+# code block
+msgid "```bash\n"
+"$ make -j 4\n"
+"```"
+msgstr ""
+
+#: make/make.md:571
+msgid "The ability to build targets in parallel is quite useful when your project has "
+msgstr ""
+
+#: make/make.md:572
+msgid "many dependencies!"
+msgstr ""
+
+#: make/make.md:574
+msgid "The resulting PDF file should now look like this:"
+msgstr ""
+
+#: make/make.md:576
+msgid "![Report with all genres](../figures/make/report_all_genres.png)<small "
+msgstr ""
+
+#: make/make.md:577
+msgid "style=\"margin: 5pt auto; text-align: center; display: block;\">A compressed "
+msgstr ""
+
+#: make/make.md:578
+msgid "view of the report with histograms for all genres.</small>"
+msgstr ""
+
+#: make/make.md:580
+# header
+msgid "### Debugging Makefiles"
+msgstr ""
+
+#: make/make.md:582
+msgid "When writing a Makefile, it can sometimes be useful to be able to see the "
+msgstr ""
+
+#: make/make.md:583
+msgid "values of variables to catch mistakes or bugs in the Makefile. To facilitate "
+msgstr ""
+
+#: make/make.md:584
+msgid "this, Make contains two commands: ``info`` and ``error``, and there is a debug "
+msgstr ""
+
+#: make/make.md:585
+msgid "mode to Make."
+msgstr ""
+
+#: make/make.md:587
+msgid "With the ``info`` command you can print the current value of a variable to "
+msgstr ""
+
+#: make/make.md:588
+msgid "stdout, while Make is processing the file. For instance, in the Makefile above "
+msgstr ""
+
+#: make/make.md:589
+msgid "you could add:"
+msgstr ""
+
+#: make/make.md:591
+# code block
+msgid "```makefile\n"
+"$(info $$DATA = $(DATA))\n"
+"```"
+msgstr ""
+
+#: make/make.md:595
+msgid "This will print ``DATA = data/action.csv ... data/western.csv``. "
+msgstr ""
+
+#: make/make.md:597
+msgid "With the ``error`` command you can stop the execution of Make at a certain "
+msgstr ""
+
+#: make/make.md:598
+msgid "point in the Makefile. This is useful when you want to print the value of a "
+msgstr ""
+
+#: make/make.md:599
+msgid "variable and not run Make any further:"
+msgstr ""
+
+#: make/make.md:601
+# code block
+msgid "```makefile\n"
+"$(error $$DATA = $(DATA))\n"
+"```"
+msgstr ""
+
+#: make/make.md:605
+msgid "Finally, you can also debug the Makefile by running Make with the debug flag: "
+msgstr ""
+
+#: make/make.md:606
+msgid "``make -d``. This will print all the rules (including built-in ones) that Make "
+msgstr ""
+
+#: make/make.md:607
+msgid "tries for each of the targets, and whether or not a rule needs to be run."
+msgstr ""
+
+#: make/make.md:609
+msgid "If you only want to print the rules that Make will run and not actually run "
+msgstr ""
+
+#: make/make.md:610
+msgid "them, you can use ``make -n``. These last two options can also be combined, so "
+msgstr ""
+
+#: make/make.md:611
+msgid "that you see the debug output and Make doesn't run anything: ``make -dn``."
+msgstr ""
+
+#: make/make.md:613
+# header
+msgid "## A Real Reproducible Paper using Make"
+msgstr ""
+
+#: make/make.md:615
+msgid "In the tutorial above we used IMDB movie ratings for different genres as "
+msgstr ""
+
+#: make/make.md:616
+msgid "example data. This data was obtained from a dataset [shared on "
+msgstr ""
+
+#: make/make.md:617
+msgid "Kaggle](https://www.kaggle.com/orgesleka/imdbmovies#imdb.csv) as a CSV file. "
+msgstr ""
+
+#: make/make.md:618
+msgid "The file looks like this:"
+msgstr ""
+
+#: make/make.md:620
+# code block
+msgid "```text\n"
+"fn,tid,title,wordsInTitle,url,imdbRating,ratingCount,duration,year,type,nrOfWins,nrOfNominations,nrOfPhotos,nrOfNewsArticles,nrOfUserReviews,nrOfGenre,Action,Adult,Adventure,Animation,Biography,Comedy,Crime,Documentary,Drama,Family,Fantasy,FilmNoir,GameShow,History,Horror,Music,Musical,Mystery,News,RealityTV,Romance,SciFi,Short,Sport,TalkShow,Thriller,War,Western\n"
+"titles01/tt0012349,tt0012349,Der Vagabund und das Kind (1921),der vagabund und das kind,http://www.imdb.com/title/tt0012349/,8.4,40550,3240,1921,video.movie,1,0,19,96,85,3,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0\n"
+"titles01/tt0015864,tt0015864,Goldrausch (1925),goldrausch,http://www.imdb.com/title/tt0015864/,8.3,45319,5700,1925,video.movie,2,1,35,110,122,3,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0\n"
+"titles01/tt0017136,tt0017136,Metropolis (1927),metropolis,http://www.imdb.com/title/tt0017136/,8.4,81007,9180,1927,video.movie,3,4,67,428,376,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0\n"
+"titles01/tt0017925,tt0017925,Der General (1926),der general,http://www.imdb.com/title/tt0017925/,8.3,37521,6420,1926,video.movie,1,1,53,123,219,3,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0\n"
+"```"
+msgstr ""
+
+#: make/make.md:628
+msgid "While on the surface this looks like a regular CSV file, when you try to open "
+msgstr ""
+
+#: make/make.md:629
+msgid "it with the Python CSV library, or Pandas, or R's ``read_csv``, or even "
+msgstr ""
+
+#: make/make.md:630
+msgid "``readr:read_csv``, the data is not loaded correctly. This happens because the "
+msgstr ""
+
+#: make/make.md:631
+msgid "CSV file uses an escape character ``\\`` for movie names that have commas in "
+msgstr ""
+
+#: make/make.md:632
+msgid "them and the CSV readers don't automatically detect this variation in the CSV "
+msgstr ""
+
+#: make/make.md:633
+msgid "format.  It turns out that this is quite a common issue for data scientists: "
+msgstr ""
+
+#: make/make.md:634
+msgid "CSV files are often messy and use an uncommon *dialect*: such as strange delimiters and"
+msgstr ""
+
+#: make/make.md:635
+msgid "uncommon quote characters.  Collectively, data scientists waste quite "
+msgstr ""
+
+#: make/make.md:636
+msgid "some time on these data wrangling issues where manual intervention is needed. "
+msgstr ""
+
+#: make/make.md:637
+msgid "But this problem is also not that easy to solve: to a computer a CSV file is "
+msgstr ""
+
+#: make/make.md:638
+msgid "simply a long string of characters and every dialect will give you *some* "
+msgstr ""
+
+#: make/make.md:639
+msgid "table, so how do we determine the dialect accurately in general?"
+msgstr ""
+
+#: make/make.md:641
+msgid "Recently, researchers from the Alan Turing Institute have presented a method "
+msgstr ""
+
+#: make/make.md:642
+msgid "that achieves 97% accuracy on a large corpus of CSV files, with an improvement "
+msgstr ""
+
+#: make/make.md:643
+msgid "of 21% over existing approaches on non-standard CSV files. This research was "
+msgstr ""
+
+#: make/make.md:644
+msgid "made reproducible through the use of Make and is available through an online "
+msgstr ""
+
+#: make/make.md:645
+msgid "repository: "
+msgstr ""
+
+#: make/make.md:646
+msgid "[https://github.com/alan-turing-institute/CSV_Wrangling](https://github.com/alan-turing-institute/CSV_Wrangling)."
+msgstr ""
+
+#: make/make.md:648
+msgid "Below we will briefly describe what the Makefile for such a project looks "
+msgstr ""
+
+#: make/make.md:649
+msgid "like.  For the complete file, please see the repository. The Makefile consists "
+msgstr ""
+
+#: make/make.md:650
+msgid "of several sections:"
+msgstr ""
+
+#: make/make.md:652
+# ordered list
+msgid "1. Data collection: because the data is collected from public sources, the "
+msgstr ""
+
+#: make/make.md:653
+msgid "   repository contains a Python script that allows anyone to download the data "
+msgstr ""
+
+#: make/make.md:654
+msgid "   through a simple ``make data`` command."
+msgstr ""
+
+#: make/make.md:656
+# ordered list
+msgid "2. All the figures, tables, and constants used in the paper are generated "
+msgstr ""
+
+#: make/make.md:657
+msgid "   based on the results from the experiments. To make it easy to recreate all "
+msgstr ""
+
+#: make/make.md:658
+msgid "   results of a certain type, ``.PHONY`` targets are included that depend on "
+msgstr ""
+
+#: make/make.md:659
+msgid "   all results of that type (so you could run ``make figures``). The rules for "
+msgstr ""
+
+#: make/make.md:660
+msgid "   these outputs follow the same pattern as those for the figures in the "
+msgstr ""
+
+#: make/make.md:661
+msgid "   tutorial above.  Tables are created as LaTeX files so they can be directly "
+msgstr ""
+
+#: make/make.md:662
+msgid "   included in the LaTeX source for the manuscript."
+msgstr ""
+
+#: make/make.md:664
+# ordered list
+msgid "3. The rules for the detection results follow a specific signature:"
+msgstr ""
+
+#: make/make.md:666
+# code block
+msgid "   ```makefile\n"
+"   $(OUT_DETECT)/out_sniffer_%.json: $(OUT_PREPROCESS)/all_files_%.txt\n"
+"   	python $(SCRIPT_DIR)/run_detector.py sniffer $(DETECTOR_OPTS) $< $@\n"
+"   ```"
+msgstr ""
+
+#: make/make.md:671
+msgid "   The ``%`` symbol is used to create outputs for both sources of CSV files "
+msgstr ""
+
+#: make/make.md:672
+msgid "   with a single rule (see [Pattern Rules](#pattern_rules)) and the rule uses "
+msgstr ""
+
+#: make/make.md:673
+msgid "   [automatic variables](#automatic_var) to extract the input and output "
+msgstr ""
+
+#: make/make.md:674
+msgid "   filenames."
+msgstr ""
+
+#: make/make.md:676
+# ordered list
+msgid "4. Some of the cleaning rules will remove output files that take a while to "
+msgstr ""
+
+#: make/make.md:677
+msgid "   create.  Therefore, these depend on a special ``check_clean`` target that "
+msgstr ""
+
+#: make/make.md:678
+msgid "   asks the user to confirm before proceeding:"
+msgstr ""
+
+#: make/make.md:680
+# code block
+msgid "   ```makefile\n"
+"   check_clean:\n"
+"   	@echo -n \"Are you sure? [y/N]\" && read ans && [ $$ans == y ]\n"
+"   ```"
+msgstr ""
+
+#: make/make.md:685
+msgid "It is important to emphasize that this file was not created in one go, but was "
+msgstr ""
+
+#: make/make.md:686
+msgid "constructed iteratively. The Makefile started as a way to run several dialect "
+msgstr ""
+
+#: make/make.md:687
+msgid "detection methods on a collection of input files and gradually grew to include "
+msgstr ""
+
+#: make/make.md:688
+msgid "the creation of figures and tables from the result files. Thus the advice for "
+msgstr ""
+
+#: make/make.md:689
+msgid "using Make for reproducibility is to *start small and start early*."
+msgstr ""
+
+#: make/make.md:691
+msgid "The published Makefile in the repository does not contain the paper, but this "
+msgstr ""
+
+#: make/make.md:692
+msgid "*is* included in the internal Makefile and follows the same structure as the "
+msgstr ""
+
+#: make/make.md:693
+msgid "``report.pdf`` file in the tutorial above. This proved especially useful for "
+msgstr ""
+
+#: make/make.md:694
+msgid "collaboration as only a single repository needed to be shared that contains "
+msgstr ""
+
+#: make/make.md:695
+msgid "the code, the results, and the manuscript."
+msgstr ""
+
+#: make/make.md:697
+# header
+msgid "## Further Reading"
+msgstr ""
+
+#: make/make.md:699
+# header
+msgid "### Manual"
+msgstr ""
+
+#: make/make.md:701
+# unordered list
+msgid "- [The Official Make Reference "
+msgstr ""
+
+#: make/make.md:702
+msgid "  manual](https://www.gnu.org/software/make/manual/make.html)."
+msgstr ""
+
+#: make/make.md:704
+# header
+msgid "### Discussions"
+msgstr ""
+
+#: make/make.md:706
+# unordered list
+msgid "- [Discussion on Make on "
+msgstr ""
+
+#: make/make.md:707
+msgid "  HackerNews](https://news.ycombinator.com/item?id=15041986)."
+msgstr ""
+
+#: make/make.md:709
+# unordered list
+msgid "- [Recursive Make Considered "
+msgstr ""
+
+#: make/make.md:710
+msgid "  Harmful](http://aegis.sourceforge.net/auug97.pdf). This is a well-known "
+msgstr ""
+
+#: make/make.md:711
+msgid "  paper on why you shouldn't use nested makefiles. To summarise: if you do "
+msgstr ""
+
+#: make/make.md:712
+msgid "  this Make can't see the entire DAG and that leads to problems."
+msgstr ""
+
+#: make/make.md:714
+# unordered list
+msgid "- [Non-Recursive Make Considered "
+msgstr ""
+
+#: make/make.md:715
+msgid "  Harmful](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/03/hadrian.pdf): "
+msgstr ""
+
+#: make/make.md:716
+msgid "  This is a research paper describing the failings of Make for large and "
+msgstr ""
+
+#: make/make.md:717
+msgid "  complex builds."
+msgstr ""
+
+#: make/make.md:719
+# header
+msgid "### Blogs"
+msgstr ""
+
+#: make/make.md:721
+msgid "Of course we are not the first to suggest the use of Make for reproducibility! "
+msgstr ""
+
+#: make/make.md:722
+msgid "The blog posts cited below were found after the above tutorial was written, "
+msgstr ""
+
+#: make/make.md:723
+msgid "but can add further information and examples."
+msgstr ""
+
+#: make/make.md:725
+# unordered list
+msgid "- [Reproducibility is "
+msgstr ""
+
+#: make/make.md:726
+msgid "  hard](https://kbroman.wordpress.com/tag/reproducible-research/). Discusses "
+msgstr ""
+
+#: make/make.md:727
+msgid "  making a research project reproducible using Make."
+msgstr ""
+
+#: make/make.md:729
+# unordered list
+msgid "- [GNU Make for Reproducible Data Analysis](http://zmjones.com/make/). Argues "
+msgstr ""
+
+#: make/make.md:730
+msgid "  for using Make for reproducible analysis in a similar vein as we do above."
+msgstr ""
+
+#: make/make.md:732
+# unordered list
+msgid "- [Reproducible Bioinformatics Pipelines using "
+msgstr ""
+
+#: make/make.md:733
+msgid "  Make](http://byronjsmith.com/make-bml/). A quite extensive tutorial on using "
+msgstr ""
+
+#: make/make.md:734
+msgid "  Make for data analysis."
+msgstr ""
+
+#: make/make.md:736
+# unordered list
+msgid "- [Automatic Data-analysis "
+msgstr ""
+
+#: make/make.md:737
+msgid "  Pipelines](http://stat545.com/automation04_make-activity.html). A similar "
+msgstr ""
+
+#: make/make.md:738
+msgid "  tutorial that uses R for the analysis."
+msgstr ""
+
+#: make/make.md:740
+# header
+msgid "### Tools"
+msgstr ""
+
+#: make/make.md:742
+# unordered list
+msgid "- Plot the DAG of the Makefile with "
+msgstr ""
+
+#: make/make.md:743
+msgid "  [makefile2graph](https://github.com/lindenb/makefile2graph)."
+msgstr ""
+
+#: make/make.md:745
+# header
+msgid "### Alternatives to Make"
+msgstr ""
+
+#: make/make.md:747
+msgid "There are [many alternatives to "
+msgstr ""
+
+#: make/make.md:748
+msgid "Make](https://en.wikipedia.org/wiki/List_of_build_automation_software). Below "
+msgstr ""
+
+#: make/make.md:749
+msgid "are some that caught our eye and that might be worth a look."
+msgstr ""
+
+#: make/make.md:751
+# unordered list
+msgid "- [SnakeMake](https://snakemake.readthedocs.io/en/stable/). A Python3-based "
+msgstr ""
+
+#: make/make.md:752
+msgid "  alternative to Make. Snakemake supports multiple wildcards in filenames, "
+msgstr ""
+
+#: make/make.md:753
+msgid "  supports Python code in rules, and can run workflows on workstations, "
+msgstr ""
+
+#: make/make.md:754
+msgid "  clusters, the grid, and in the cloud without modification. "
+msgstr ""
+
+#: make/make.md:756
+# unordered list
+msgid "- [Tup](http://gittup.org/tup/index.html). A fast build system that processes "
+msgstr ""
+
+#: make/make.md:757
+msgid "  prerequisites bottom-up instead of Make's top-down. The speed looks "
+msgstr ""
+
+#: make/make.md:758
+msgid "  impressive and the paper describing it is interesting, but for small "
+msgstr ""
+
+#: make/make.md:759
+msgid "  projects Make's speed will not be a bottleneck. The Tupfile syntax is not "
+msgstr ""
+
+#: make/make.md:760
+msgid "  compatible with that of Makefiles."
+msgstr ""
+
+#: make/make.md:762
+# unordered list
+msgid "- [Bazel](https://www.bazel.build). An open-source version of Google's Blaze "
+msgstr ""
+
+#: make/make.md:763
+msgid "  build system."
+msgstr ""
+
+#: make/make.md:765
+# unordered list
+msgid "- [Buck](https://buckbuild.com/). Facebook's build system."
+msgstr ""
+
+#: make/make.md:767
+# header
+msgid "## Glossary"
+msgstr ""
+
+#: make/make.md:769
+msgid "**Makefile:** a text file that contains the configuration for the build"
+msgstr ""
+
+#: make/make.md:771
+msgid "**Rule:** an element of the Makefile that defines something that must be "
+msgstr ""
+
+#: make/make.md:772
+msgid "built, usually consists of *targets*, *recipes*, and optionally, "
+msgstr ""
+
+#: make/make.md:773
+msgid "*prerequisites*."
+msgstr ""
+
+#: make/make.md:775
+msgid "**Target:** the outcome of a *rule* in a Makefile. It is usually a file. If it "
+msgstr ""
+
+#: make/make.md:776
+msgid "is not a file, it's a *phony* target."
+msgstr ""
+
+#: make/make.md:778
+msgid "**Recipe:** one or more shell commands that are executed by Make. Usually "
+msgstr ""
+
+#: make/make.md:779
+msgid "these commands update the *target* of the *rule*."
+msgstr ""
+
+#: make/make.md:781
+msgid "**Prerequisite:** the prerequisite(s) of a rule correspond to files or other "
+msgstr ""
+
+#: make/make.md:782
+msgid "targets in the Makefile that must be up to date before the rule is run."
+msgstr ""
+
+#: make/make.md:784
+msgid "**Phony:** a phony target is one that doesn't correspond to a file on the "
+msgstr ""
+
+#: make/make.md:785
+msgid "filesystem. A target is marked as phony by making it a prerequisite of the "
+msgstr ""
+
+#: make/make.md:786
+msgid "``.PHONY`` target."
+msgstr ""
+
+#: make/make.md:788
+msgid "**Pattern:** A pattern rule is a rule that contains exactly one ``%`` "
+msgstr ""
+
+#: make/make.md:789
+msgid "character in the target, which can be used to match a part of a filename."
+msgstr ""
+
+#: make/make.md:791
+# header
+msgid "## Appendix"
+msgstr ""
+
+#: make/make.md:793
+# header
+msgid "### Directed Acyclic Graph"
+msgstr ""
+
+#: make/make.md:795
+msgid "A Directed Acyclic Graph (DAG) is a *graph* of nodes and edges that is:"
+msgstr ""
+
+#: make/make.md:797
+# ordered list
+msgid "1. *directed*: edges have a direction and you can only walk the graph in that "
+msgstr ""
+
+#: make/make.md:798
+msgid "   direction"
+msgstr ""
+
+#: make/make.md:799
+# ordered list
+msgid "2. *acyclic*: does not contain cycles: A can't depend on B when B depends on A."
+msgstr ""
+
+#: make/make.md:801
+msgid "The latter property is of course quite handy for a build system. More "
+msgstr ""
+
+#: make/make.md:802
+msgid "information on DAGs can be found on "
+msgstr ""
+
+#: make/make.md:803
+msgid "[Wikipedia](https://en.wikipedia.org/wiki/Directed_acyclic_graph)."
+msgstr ""
+
+#: make/make.md:805
+# header
+msgid "### Installing Make"
+msgstr ""
+
+#: make/make.md:807
+msgid "First, check if you have GNU Make installed already. In a terminal type:"
+msgstr ""
+
+#: make/make.md:809
+# code block
+msgid "```bash\n"
+"$ make\n"
+"```"
+msgstr ""
+
+#: make/make.md:813
+msgid "If you get ``make: command not found`` (or similar), you don't have Make. If "
+msgstr ""
+
+#: make/make.md:814
+msgid "you get ``make: *** No targets specified and no makefile found.  Stop.`` you "
+msgstr ""
+
+#: make/make.md:815
+msgid "do have Make."
+msgstr ""
+
+#: make/make.md:817
+msgid "We'll be using **GNU Make** in this tutorial. Verify that this is what you "
+msgstr ""
+
+#: make/make.md:818
+msgid "have by typing:"
+msgstr ""
+
+#: make/make.md:820
+# code block
+msgid "```bash\n"
+"$ make --version\n"
+"```"
+msgstr ""
+
+#: make/make.md:824
+msgid "If you don't have GNU Make but have the BSD version, some things might not "
+msgstr ""
+
+#: make/make.md:825
+msgid "work as expected and we recommend installing GNU Make."
+msgstr ""
+
+#: make/make.md:827
+msgid "To install GNU Make, please follow these instructions:"
+msgstr ""
+
+#: make/make.md:829
+# unordered list
+msgid "- **Linux**: Use your package manager to install Make. For instance on Arch "
+msgstr ""
+
+#: make/make.md:830
+msgid "  Linux:"
+msgstr ""
+
+#: make/make.md:832
+# code block
+msgid "  ```bash\n"
+"  $ sudo pacman -S make\n"
+"  ```"
+msgstr ""
+
+#: make/make.md:836
+msgid "  Ubuntu:"
+msgstr ""
+
+#: make/make.md:837
+# code block
+msgid "  ```bash\n"
+"  $ sudo apt-get install build-essential\n"
+"  ```"
+msgstr ""
+
+#: make/make.md:841
+# unordered list
+msgid "- **MacOS**: If you have [Homebrew](https://brew.sh/) installed, it's simply:"
+msgstr ""
+
+#: make/make.md:843
+# code block
+msgid "  ```bash\n"
+"  $ brew install make\n"
+"  ```"
+msgstr ""
+
+#: make/make.md:847
+msgid "  If you have a builtin Make implementation, please ensure that it's GNU Make "
+msgstr ""
+
+#: make/make.md:848
+msgid "  by checking ``make --version``."
+msgstr ""
+
+#: make/make.md:850
+# header
+msgid "### Advanced: Generating Rules using Call"
+msgstr ""
+
+#: make/make.md:852
+msgid "*This section continues the tutorial above and demonstrates a feature of Make "
+msgstr ""
+
+#: make/make.md:853
+msgid "for automatic generation of rules.*"
+msgstr ""
+
+#: make/make.md:855
+msgid "In a data science pipeline, it may be quite common to apply multiple scripts "
+msgstr ""
+
+#: make/make.md:856
+msgid "to the same data (for instance when you're comparing methods or testing "
+msgstr ""
+
+#: make/make.md:857
+msgid "different parameters). In that case, it can become tedious to write a separate "
+msgstr ""
+
+#: make/make.md:858
+msgid "rule for each script when only the script name changes. To simplify this "
+msgstr ""
+
+#: make/make.md:859
+msgid "process, we can let Make expand a so-called [*canned* "
+msgstr ""
+
+#: make/make.md:860
+msgid "recipe](https://www.gnu.org/software/make/manual/make.html#Canned-Recipes)."
+msgstr ""
+
+#: make/make.md:862
+msgid "To follow along, switch to the ``canned`` branch:"
+msgstr ""
+
+#: make/make.md:864
+# code block
+msgid "```bash\n"
+"$ make clean\n"
+"$ git stash --all        # note the '--all' flag so we also stash the Makefile\n"
+"$ git checkout canned\n"
+"```"
+msgstr ""
+
+#: make/make.md:870
+msgid "On this branch you'll notice that there is a new script in the **scripts** "
+msgstr ""
+
+#: make/make.md:871
+msgid "directory called ``generate_qqplot.py``. This script works similarly to the "
+msgstr ""
+
+#: make/make.md:872
+msgid "``generate_histogram.py`` script (it has the same command line syntax), but it "
+msgstr ""
+
+#: make/make.md:873
+msgid "generates a [QQ-plot](https://en.wikipedia.org/wiki/Q%E2%80%93Q_plot). The "
+msgstr ""
+
+#: make/make.md:874
+msgid "**report.tex** file has also been updated to incorporate these plots."
+msgstr ""
+
+#: make/make.md:876
+msgid "After switching to the ``canned`` branch there will be a Makefile in the "
+msgstr ""
+
+#: make/make.md:877
+msgid "repository that contains a separate rule for generating the QQ-plots. This "
+msgstr ""
+
+#: make/make.md:878
+msgid "Makefile looks like this:"
+msgstr ""
+
+#: make/make.md:880
+# code block
+msgid "```makefile\n"
+"# Makefile for analysis report\n"
+"#\n"
+"\n"
+"ALL_CSV = $(wildcard data/*.csv)\n"
+"DATA = $(filter-out $(wildcard data/input_file_*.csv),$(ALL_CSV))\n"
+"HISTOGRAMS = $(patsubst data/%.csv,output/figure_%.png,$(DATA))\n"
+"QQPLOTS = $(patsubst data/%.csv,output/qqplot_%.png,$(DATA))\n"
+"\n"
+".PHONY: all clean\n"
+"\n"
+"all: output/report.pdf\n"
+"\n"
+"$(HISTOGRAMS): output/histogram_%.png: data/%.csv scripts/generate_histogram.py\n"
+"	python scripts/generate_histogram.py -i $< -o $@\n"
+"\n"
+"$(QQPLOTS): output/qqplot_%.png: data/%.csv scripts/generate_qqplot.py\n"
+"	python scripts/generate_qqplot.py -i $< -o $@\n"
+"\n"
+"output/report.pdf: report/report.tex $(FIGURES)\n"
+"	cd report/ && pdflatex report.tex && mv report.pdf ../$@\n"
+"\n"
+"clean:\n"
+"	rm -f output/report.pdf\n"
+"	rm -f $(HISTOGRAMS) $(QQPLOTS)\n"
+"```"
+msgstr ""
+
+#: make/make.md:907
+msgid "You'll notice that the rules for histograms and QQ-plots are very similar."
+msgstr ""
+
+#: make/make.md:909
+msgid "As the number of scripts that you want to run on your data grows, this may "
+msgstr ""
+
+#: make/make.md:910
+msgid "lead to a large number of rules in the Makefile that are almost exactly the "
+msgstr ""
+
+#: make/make.md:911
+msgid "same. We can simplify this by creating a [*canned "
+msgstr ""
+
+#: make/make.md:912
+msgid "recipe*](https://www.gnu.org/software/make/manual/html_node/Canned-Recipes.html) "
+msgstr ""
+
+#: make/make.md:913
+msgid "that takes both the name of the script and the name of the genre as input:"
+msgstr ""
+
+#: make/make.md:915
+# code block
+msgid "```makefile\n"
+"define run-script-on-data\n"
+"output/$(1)_$(2).png: data/$(2).csv scripts/generate_$(1).py\n"
+"	python scripts/generate_$(1).py -i $$< -o $$@\n"
+"endef\n"
+"```"
+msgstr ""
+
+#: make/make.md:922
+msgid "Note that in this recipe we use ``$(1)`` for either ``histogram`` or "
+msgstr ""
+
+#: make/make.md:923
+msgid "``qqplot`` and ``$(2)`` for the genre. These correspond to the expected "
+msgstr ""
+
+#: make/make.md:924
+msgid "function arguments to the ``run-script-on-data`` canned recipe. Also, notice "
+msgstr ""
+
+#: make/make.md:925
+msgid "that we use ``$$<`` and ``$$@`` in the actual recipe, with two ``$`` symbols "
+msgstr ""
+
+#: make/make.md:926
+msgid "for escaping. To actually create all the targets, we need a line that calls "
+msgstr ""
+
+#: make/make.md:927
+msgid "this canned recipe.  In our case, we use a double for loop over the genres and "
+msgstr ""
+
+#: make/make.md:928
+msgid "the scripts:"
+msgstr ""
+
+#: make/make.md:930
+# code block
+msgid "```makefile\n"
+"$(foreach genre,$(GENRES),\\\n"
+"	$(foreach script,$(SCRIPTS),\\\n"
+"		$(eval $(call run-script-on-data,$(script),$(genre))) \\\n"
+"	) \\\n"
+")\n"
+"```"
+msgstr ""
+
+#: make/make.md:938
+msgid "In these lines the ``\\`` character is used for continuing long lines."
+msgstr ""
+
+#: make/make.md:940
+msgid "The full Makefile then becomes:"
+msgstr ""
+
+#: make/make.md:942
+# code block
+msgid "```makefile\n"
+"# Makefile for analysis report\n"
+"#\n"
+"\n"
+"ALL_CSV = $(wildcard data/*.csv)\n"
+"DATA = $(filter-out $(wildcard data/input_file_*.csv),$(ALL_CSV))\n"
+"HISTOGRAMS = $(patsubst %,output/histogram_%.png,$(GENRES))\n"
+"QQPLOTS = $(patsubst %,output/qqplot_%.png,$(GENRES))\n"
+"\n"
+"GENRES = $(patsubst data/%.csv,%,$(DATA))\n"
+"SCRIPTS = histogram qqplot\n"
+"\n"
+".PHONY: all clean\n"
+"\n"
+"all: output/report.pdf\n"
+"\n"
+"define run-script-on-data\n"
+"output/$(1)_$(2).png: data/$(2).csv scripts/generate_$(1).py\n"
+"	python scripts/generate_$(1).py -i $$< -o $$@\n"
+"endef\n"
+"\n"
+"$(foreach genre,$(GENRES),\\\n"
+"	$(foreach script,$(SCRIPTS),\\\n"
+"		$(eval $(call run-script-on-data,$(script),$(genre)))\\\n"
+"	)\\\n"
+")\n"
+"\n"
+"output/report.pdf: report/report.tex $(HISTOGRAMS) $(QQPLOTS)\n"
+"	cd report/ && pdflatex report.tex && mv report.pdf ../$@\n"
+"\n"
+"clean:\n"
+"	rm -f output/report.pdf\n"
+"	rm -f $(HISTOGRAMS) $(QQPLOTS)\n"
+"```"
+msgstr ""
+
+#: make/make.md:977
+msgid "Note that we've added a ``SCRIPTS`` variable with the ``histogram`` and "
+msgstr ""
+
+#: make/make.md:978
+msgid "``qqplot`` names. If we were to add another script that follows the same "
+msgstr ""
+
+#: make/make.md:979
+msgid "pattern as these two, we would only need to add it to the ``SCRIPTS`` "
+msgstr ""
+
+#: make/make.md:980
+msgid "variable."
+msgstr ""
+
+#: make/make.md:982
+msgid "To build all of this, run"
+msgstr ""
+

@@ -1,0 +1,1755 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Tony Yang <tony@tony.tc>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: content\n"
+"Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
+"POT-Creation-Date: 2020-02-05 14:52:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Tony Yang <tony@tony.tc>\n"
+"Language-Team: zh_CN <tony@tony.tc>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: rdm/rdm.md:1
+# header
+msgid "# Research Data Management"
+msgstr ""
+
+#: rdm/rdm.md:3
+# header
+msgid "## Prerequisites / recommended skill level"
+msgstr ""
+
+#: rdm/rdm.md:5
+msgid "The following sections in this handbook provide useful context and complementary information to this chapter:"
+msgstr ""
+
+#: rdm/rdm.md:7
+msgid "| Prerequisite                                        | Importance |"
+msgstr ""
+
+#: rdm/rdm.md:8
+msgid "| --------------------------------------------------- | ---------- |"
+msgstr ""
+
+#: rdm/rdm.md:9
+msgid "| [Version Control](/version_control/version_control) | Helpful    |"
+msgstr ""
+
+#: rdm/rdm.md:10
+msgid "| [Open Research](/open_research/open_research)       | Helpful    |"
+msgstr ""
+
+#: rdm/rdm.md:12
+# header
+msgid "## Table of Contents"
+msgstr ""
+
+#: rdm/rdm.md:14
+# unordered list
+msgid "- [Research Data Management](#research-data-management)"
+msgstr ""
+
+#: rdm/rdm.md:15
+# unordered list
+msgid "  - [Prerequisites / recommended skill level](#prerequisites--recommended-skill-level)"
+msgstr ""
+
+#: rdm/rdm.md:16
+# unordered list
+msgid "  - [Table of Contents](#table-of-contents)"
+msgstr ""
+
+#: rdm/rdm.md:17
+# unordered list
+msgid "  - [Summary](#summary)"
+msgstr ""
+
+#: rdm/rdm.md:18
+# unordered list
+msgid "  - [How this will help you/ why this is useful](#how-this-will-help-you-why-this-is-useful)"
+msgstr ""
+
+#: rdm/rdm.md:19
+# unordered list
+msgid "  - [Chapter content](#chapter-content)"
+msgstr ""
+
+#: rdm/rdm.md:20
+# unordered list
+msgid "    - [What Is Data?](#what-is-data)"
+msgstr ""
+
+#: rdm/rdm.md:21
+# unordered list
+msgid "    - [The Research Data Lifecycle - A Model for Data Management](#the-research-data-lifecycle---a-model-for-data-management)"
+msgstr ""
+
+#: rdm/rdm.md:22
+# unordered list
+msgid "    - [The FAIR principles and practices](#the-fair-principles-and-practices)"
+msgstr ""
+
+#: rdm/rdm.md:23
+# unordered list
+msgid "      - [Theory](#theory)"
+msgstr ""
+
+#: rdm/rdm.md:24
+# unordered list
+msgid "      - [Tools and indicators](#tools-and-indicators)"
+msgstr ""
+
+#: rdm/rdm.md:25
+# unordered list
+msgid "      - [Metadata and identifiers - community standards](#metadata-and-identifiers---community-standards)"
+msgstr ""
+
+#: rdm/rdm.md:26
+# unordered list
+msgid "    - [Storage and backup](#storage-and-backup)"
+msgstr ""
+
+#: rdm/rdm.md:27
+# unordered list
+msgid "      - [Where to store data](#where-to-store-data)"
+msgstr ""
+
+#: rdm/rdm.md:28
+# unordered list
+msgid "      - [Backups](#backups)"
+msgstr ""
+
+#: rdm/rdm.md:29
+# unordered list
+msgid "    - [Data organisation in spreadsheets](#data-organisation-in-spreadsheets)"
+msgstr ""
+
+#: rdm/rdm.md:30
+# unordered list
+msgid "    - [Documentation and metadata](#documentation-and-metadata)"
+msgstr ""
+
+#: rdm/rdm.md:31
+# unordered list
+msgid "    - [Sharing and archiving data](#sharing-and-archiving-data)"
+msgstr ""
+
+#: rdm/rdm.md:32
+# unordered list
+msgid "      - [Motivations for sharing data](#motivations-for-sharing-data)"
+msgstr ""
+
+#: rdm/rdm.md:33
+# unordered list
+msgid "    - [Steps to share your data](#steps-to-share-your-data)"
+msgstr ""
+
+#: rdm/rdm.md:34
+# unordered list
+msgid "      - [Step 1: Select what data you want to share](#step-1-select-what-data-you-want-to-share)"
+msgstr ""
+
+#: rdm/rdm.md:35
+# unordered list
+msgid "      - [Step 2: Choose a data repository or other sharing platform](#step-2-choose-a-data-repository-or-other-sharing-platform)"
+msgstr ""
+
+#: rdm/rdm.md:36
+# unordered list
+msgid "      - [Step 3: Upload your data and documentation](#step-3-upload-your-data-and-documentation)"
+msgstr ""
+
+#: rdm/rdm.md:37
+# unordered list
+msgid "      - [Step 4: Choose a licence and link to your paper and code](#step-4-choose-a-licence-and-link-to-your-paper-and-code)"
+msgstr ""
+
+#: rdm/rdm.md:38
+# unordered list
+msgid "    - [Barriers to data sharing](#barriers-to-data-sharing)"
+msgstr ""
+
+#: rdm/rdm.md:39
+# unordered list
+msgid "      - [Privacy and data protection](#privacy-and-data-protection)"
+msgstr ""
+
+#: rdm/rdm.md:40
+# unordered list
+msgid "        - [Consent](#consent)"
+msgstr ""
+
+#: rdm/rdm.md:41
+# unordered list
+msgid "        - [Anonymisation](#anonymisation)"
+msgstr ""
+
+#: rdm/rdm.md:42
+# unordered list
+msgid "      - [National and commercially sensitive data](#national-and-commercially-sensitive-data)"
+msgstr ""
+
+#: rdm/rdm.md:43
+# unordered list
+msgid "  - [Personal Stories](#personal-stories)"
+msgstr ""
+
+#: rdm/rdm.md:44
+# unordered list
+msgid "    - [Susanna-Assunta Sansone: from FAIR co-author to FAIR doer](#susanna-assunta-sansone-from-fair-co-author-to-fair-doer)"
+msgstr ""
+
+#: rdm/rdm.md:45
+# unordered list
+msgid "  - [Checklist](#checklist)"
+msgstr ""
+
+#: rdm/rdm.md:46
+# unordered list
+msgid "  - [What to learn next](#what-to-learn-next)"
+msgstr ""
+
+#: rdm/rdm.md:47
+# unordered list
+msgid "  - [Further reading](#further-reading)"
+msgstr ""
+
+#: rdm/rdm.md:48
+# unordered list
+msgid "  - [Definitions/glossary](#definitionsglossary)"
+msgstr ""
+
+#: rdm/rdm.md:49
+# unordered list
+msgid "  - [Bibliography](#bibliography)"
+msgstr ""
+
+#: rdm/rdm.md:51
+msgid "<a name=\"Summary\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:53
+# header
+msgid "## Summary"
+msgstr ""
+
+#: rdm/rdm.md:55
+msgid "Research Data Management (RDM) covers how research data can be stored, described and reused. Data here is used as a"
+msgstr ""
+
+#: rdm/rdm.md:56
+msgid "generic term to encompass all digital objects. RDM is a key part in enabling reproducible research. RDM ensures"
+msgstr ""
+
+#: rdm/rdm.md:57
+msgid "efficiency in research workflows, and also greater reach and impact, as data become FAIR (Findable, Accessible,"
+msgstr ""
+
+#: rdm/rdm.md:58
+msgid "Interoperable and Reuseable). Data should be stored in multiple locations and backed-up regularly to prevent loss or"
+msgstr ""
+
+#: rdm/rdm.md:59
+msgid "data corruption. Clearly describing data using documentation and metadata ensures that others know how to access, use"
+msgstr ""
+
+#: rdm/rdm.md:60
+msgid "and re-use your data, and also enable conditions for sharing and publishing data to be outlined."
+msgstr ""
+
+#: rdm/rdm.md:62
+msgid "<a name=\"Why-useful\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:64
+# header
+msgid "## How this will help you/ why this is useful"
+msgstr ""
+
+#: rdm/rdm.md:66
+msgid "To be able to share data that is understandable and re-usable by third parties, research data needs to be managed"
+msgstr ""
+
+#: rdm/rdm.md:67
+msgid "properly. The FAIR principles provide guidance on how to make data discoverable and reusable. FAIR data is a key"
+msgstr ""
+
+#: rdm/rdm.md:68
+msgid "component of reproducing an analysis. However, FAIR data is not a synonym for open data or quality data. This chapter"
+msgstr ""
+
+#: rdm/rdm.md:69
+msgid "lays out good data management practice to allow you to plan your data management activities at the start of your"
+msgstr ""
+
+#: rdm/rdm.md:70
+msgid "reproducible research project."
+msgstr ""
+
+#: rdm/rdm.md:72
+# header
+msgid "## Chapter content"
+msgstr ""
+
+#: rdm/rdm.md:74
+msgid "<a name=\"What-Data\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:76
+# header
+msgid "### What Is Data?"
+msgstr ""
+
+#: rdm/rdm.md:78
+msgid "Data are all digital objects that you use and produce during your research life cycle, encompassing datasets, software,"
+msgstr ""
+
+#: rdm/rdm.md:79
+msgid "code, workflow, models, figures, tables, images, articles. Data are your research asset. In some fields it's obvious"
+msgstr ""
+
+#: rdm/rdm.md:80
+msgid "what data means - you have observations or results of simulations. However, in other fields, particularly in Social"
+msgstr ""
+
+#: rdm/rdm.md:81
+msgid "Sciences, Humanities or Arts, you may be thinking \"I don't think I have any data\". A good way of thinking about what"
+msgstr ""
+
+#: rdm/rdm.md:82
+msgid "might be classed as data that needs to be managed is to ask yourself the questions \"What is the information that I need"
+msgstr ""
+
+#: rdm/rdm.md:83
+msgid "to use and write about in my paper or book?\", \"What information would I need to back up my conclusions?\" and \"What"
+msgstr ""
+
+#: rdm/rdm.md:84
+msgid "information is needed by a third party to understand and possibly replicate the research that I've done?\". This"
+msgstr ""
+
+#: rdm/rdm.md:85
+msgid "information is your data."
+msgstr ""
+
+#: rdm/rdm.md:87
+msgid "<a name=\"Data-Lifecycle\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:89
+# header
+msgid "### The Research Data Lifecycle - A Model for Data Management"
+msgstr ""
+
+#: rdm/rdm.md:91
+msgid "Research data often follows a 'lifecycle' which follows the research project as it evolves; here is a"
+msgstr ""
+
+#: rdm/rdm.md:92
+msgid "[video](https://www.ukdataservice.ac.uk/manage-data/lifecycle.aspx) that describes it. This model provides a useful"
+msgstr ""
+
+#: rdm/rdm.md:93
+msgid "basis on which to plan for research data management, from data creation at the start of a research project, through to"
+msgstr ""
+
+#: rdm/rdm.md:94
+msgid "publishing and sharing research at the end of the project, and archiving any research data for the long-term and for"
+msgstr ""
+
+#: rdm/rdm.md:95
+msgid "future re-use once the project has ended."
+msgstr ""
+
+#: rdm/rdm.md:97
+msgid "The research data lifecycle involves data creation, data use, data publication and sharing, data archiving and data"
+msgstr ""
+
+#: rdm/rdm.md:98
+msgid "re-use or destruction. However, data have a longer lifespan than the research project that creates them."
+msgstr ""
+
+#: rdm/rdm.md:100
+msgid "<a name=\"FAIR\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:102
+# header
+msgid "### The FAIR principles and practices"
+msgstr ""
+
+#: rdm/rdm.md:104
+msgid "The FAIR guiding principles for scientific data management and stewardship {% cite Wilkinson2016fair %} have been"
+msgstr ""
+
+#: rdm/rdm.md:105
+msgid "developed as guidelines to improve the findability, accessibility, interoperability and re-usability of digital assets;"
+msgstr ""
+
+#: rdm/rdm.md:106
+msgid "all of which will support research reproducibility. Defined and endorsed by a growing community, these principles put a"
+msgstr ""
+
+#: rdm/rdm.md:107
+msgid "specific emphasis on enhancing the ability of machines to automatically find and use digital objects, in addition to"
+msgstr ""
+
+#: rdm/rdm.md:108
+msgid "supporting its reuse by individuals throughout their life cycle. The capacity of computational systems to find, access,"
+msgstr ""
+
+#: rdm/rdm.md:109
+msgid "interoperate, and reuse data, with none or minimal human intervention, is essential in today's data-driven era, where"
+msgstr ""
+
+#: rdm/rdm.md:110
+msgid "humans increasingly rely on computational support to deal with data as a result of the increase in volume, velocity and"
+msgstr ""
+
+#: rdm/rdm.md:111
+msgid "variety and complexity."
+msgstr ""
+
+#: rdm/rdm.md:113
+msgid "<a name=\"Theory\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:115
+# header
+msgid "#### Theory"
+msgstr ""
+
+#: rdm/rdm.md:117
+msgid "Here is a [simple overview](https://www.go-fair.org/fair-principles) of what the FAIR principles recommend. In breif,"
+msgstr ""
+
+#: rdm/rdm.md:118
+msgid "data should be:"
+msgstr ""
+
+#: rdm/rdm.md:120
+msgid "**Findable:** the first step in (re)using data is to find them, and descriptive metadata is essential."
+msgstr ""
+
+#: rdm/rdm.md:122
+# unordered list
+msgid "- F1. (Meta)data are assigned a globally unique and persistent identifier"
+msgstr ""
+
+#: rdm/rdm.md:123
+# unordered list
+msgid "- F2. Data are described with rich metadata (defined by R1 below)"
+msgstr ""
+
+#: rdm/rdm.md:124
+# unordered list
+msgid "- F3. Metadata clearly and explicitly include the identifier of the data they describe"
+msgstr ""
+
+#: rdm/rdm.md:125
+# unordered list
+msgid "- F4. (Meta)data are registered or indexed in a searchable resource"
+msgstr ""
+
+#: rdm/rdm.md:127
+msgid "**Accessible:** to get data one needs to know if authentication and authorisation is necessary, or if data is open with"
+msgstr ""
+
+#: rdm/rdm.md:128
+msgid "no restrictions."
+msgstr ""
+
+#: rdm/rdm.md:130
+# unordered list
+msgid "- A1. (Meta)data are retrievable by their identifier using a standardised communications protocol"
+msgstr ""
+
+#: rdm/rdm.md:131
+# unordered list
+msgid "- A1.1 The protocol is open, free, and universally implementable"
+msgstr ""
+
+#: rdm/rdm.md:132
+# unordered list
+msgid "- A1.2 The protocol allows for an authentication and authorisation procedure, where necessary"
+msgstr ""
+
+#: rdm/rdm.md:133
+# unordered list
+msgid "- A2. Metadata are accessible, even when the data are no longer available"
+msgstr ""
+
+#: rdm/rdm.md:135
+msgid "**Interoperable:** data need to be integrated with other data and/or interoperate with applications or workflows."
+msgstr ""
+
+#: rdm/rdm.md:137
+# unordered list
+msgid "- I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation."
+msgstr ""
+
+#: rdm/rdm.md:138
+# unordered list
+msgid "- I2. (Meta)data use vocabularies that follow FAIR principles"
+msgstr ""
+
+#: rdm/rdm.md:139
+# unordered list
+msgid "- I3. (Meta)data include qualified references to other (meta)data"
+msgstr ""
+
+#: rdm/rdm.md:141
+msgid "**Reusable:** data should be well-described so that they can be used or replicated in different settings."
+msgstr ""
+
+#: rdm/rdm.md:143
+# unordered list
+msgid "- R1. Meta(data) are richly described with a plurality of accurate and relevant attributes"
+msgstr ""
+
+#: rdm/rdm.md:144
+# unordered list
+msgid "- R1.1. (Meta)data are released with a clear and accessible data usage license"
+msgstr ""
+
+#: rdm/rdm.md:145
+# unordered list
+msgid "- R1.2. (Meta)data are associated with detailed provenance"
+msgstr ""
+
+#: rdm/rdm.md:146
+# unordered list
+msgid "- R1.3. (Meta)data meet domain-relevant community standards"
+msgstr ""
+
+#: rdm/rdm.md:148
+msgid "It is important to stress that making data 'FAIR' is not the same as making it 'open' (as accessibility principle"
+msgstr ""
+
+#: rdm/rdm.md:149
+msgid "clearly explains). Data should be as open as possible, as closed as necessary."
+msgstr ""
+
+#: rdm/rdm.md:151
+msgid "The FAIR principles refer to three types of entities: data (as any digital object), metadata (information about that"
+msgstr ""
+
+#: rdm/rdm.md:152
+msgid "digital object), and infrastructure (such as software and repositories). For instance, the findability principle F4 defines"
+msgstr ""
+
+#: rdm/rdm.md:153
+msgid "that both metadata and data are registered or indexed in a searchable resource (such as a data repository). For example,"
+msgstr ""
+
+#: rdm/rdm.md:154
+msgid "the FAIR principles are also being applied to [software](https://doi.org/10.6084/m9.figshare.7449239.v2), and projects"
+msgstr ""
+
+#: rdm/rdm.md:155
+msgid "where the data and software are both FAIR the research is more likely to be reproducible."
+msgstr ""
+
+#: rdm/rdm.md:157
+msgid "It is much easier to make data FAIR if you plan to do this from the beginning of your research project. One way to do"
+msgstr ""
+
+#: rdm/rdm.md:158
+msgid "this is to create a Data Management Plan (DMP), in [DMPonline](https://dmponline.dcc.ac.uk/) or just as a text file, to"
+msgstr ""
+
+#: rdm/rdm.md:159
+msgid "help you think through how to manage your data. The DMP should include information on data creation (volume,"
+msgstr ""
+
+#: rdm/rdm.md:160
+msgid "formats/types and workflows), data use (where the raw or 'live' data is being stored), data publication and data"
+msgstr ""
+
+#: rdm/rdm.md:161
+msgid "archiving at the end of the project (long-term data storage, or what data is 'kept' at the end of a project). DMPs"
+msgstr ""
+
+#: rdm/rdm.md:162
+msgid "should also regularly be updated as the research project progresses or diverge from the initial design."
+msgstr ""
+
+#: rdm/rdm.md:164
+msgid "<a name=\"Tools-indicators\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:166
+# header
+msgid "#### Tools and indicators"
+msgstr ""
+
+#: rdm/rdm.md:168
+msgid "Altought started by a community operating in the life science, the FAIR principles have rapidly been adopted by"
+msgstr ""
+
+#: rdm/rdm.md:169
+msgid "publishers, funders, and pan-disciplinary infrastructure programmes and societies, in all disciplines. Many groups and"
+msgstr ""
+
+#: rdm/rdm.md:170
+msgid "organization are working to define guidances and tools to help researchers, as well as other stakeholders (such as"
+msgstr ""
+
+#: rdm/rdm.md:171
+msgid "librarians, funders, publishers, and trainers) to make data FAIR and assess its FAIRness level."
+msgstr ""
+
+#: rdm/rdm.md:173
+msgid "This rapid uptake and community involvement, however, has also caused some confusion and ambiguity on what FAIRness is"
+msgstr ""
+
+#: rdm/rdm.md:174
+msgid "and how we can measure it. It is important to say that the FAIR principles are aspirational, in that they do not"
+msgstr ""
+
+#: rdm/rdm.md:175
+msgid "strictly define how to achieve a state of FAIRness, but rather describe a continuum of features, attributes, and"
+msgstr ""
+
+#: rdm/rdm.md:176
+msgid "behaviors that will move a digital resource closer to that goal."
+msgstr ""
+
+#: rdm/rdm.md:178
+msgid "Listing all efforts working in and around FAIRness is practically impossible, as this is a fast moving, disperse and"
+msgstr ""
+
+#: rdm/rdm.md:179
+msgid "diverse field. Nevethless, if you are interested in following the discussion and/or participate in it, here are two"
+msgstr ""
+
+#: rdm/rdm.md:180
+msgid "global and international initiatives that act as umbrella organizations and reference points for many discipline"
+msgstr ""
+
+#: rdm/rdm.md:181
+msgid "specific efforts: [GOFAIR](https://www.go-fair.org) and the [Research Data Alliance (RDA)](https://www.rd-alliance.org)."
+msgstr ""
+
+#: rdm/rdm.md:182
+msgid "Under GOFAIR there are many [Implementation Networks (INs)](https://www.go-fair.org/implementation-networks) committed"
+msgstr ""
+
+#: rdm/rdm.md:183
+msgid "to implementing elements of the Internet of FAIR Data and Services within the three pillars: GO Build (Technology), GO"
+msgstr ""
+
+#: rdm/rdm.md:184
+msgid "Change (Culture) and GO Train (Training). Under the RDA there are several groups tackling different aspects relevant to"
+msgstr ""
+
+#: rdm/rdm.md:185
+msgid "the RDM life cycle, and among these one [group](https://www.rd-alliance.org/groups/fair-data-maturity-model-wg) is"
+msgstr ""
+
+#: rdm/rdm.md:186
+msgid "reviewing existing efforts, building on them to define a common set of common assessment criteria for the evaluation of"
+msgstr ""
+
+#: rdm/rdm.md:187
+msgid "FAIRness. Watch this space!"
+msgstr ""
+
+#: rdm/rdm.md:189
+msgid "<a name=\"Metadata-identifiers\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:191
+# header
+msgid "#### Metadata and identifiers - community standards"
+msgstr ""
+
+#: rdm/rdm.md:193
+msgid "Metadata (to describe and report the data) and unique persistent identifiers (to cite and reference data) are the two"
+msgstr ""
+
+#: rdm/rdm.md:194
+msgid "pillars of the FAIR principles. The use of community-defined standards for metadata and identified is vital for"
+msgstr ""
+
+#: rdm/rdm.md:195
+msgid "high-quality, reproducible research and for the integrative analysis and comparison of heterogeneous data from multiple"
+msgstr ""
+
+#: rdm/rdm.md:196
+msgid "sources, domains and disciplines. Although also in this areas there is a lot of work in progress, and expecially"
+msgstr ""
+
+#: rdm/rdm.md:197
+msgid "metadata standards are disciplines specific, or specific to a given digital object, you need to know what these are and"
+msgstr ""
+
+#: rdm/rdm.md:198
+msgid "which one are relevant to your data type in order to mention them in your DMP and use them."
+msgstr ""
+
+#: rdm/rdm.md:200
+msgid "You can use [FAIRsharing](https://fairsharing.org) as a lookup resource to identify and cite the metadata and/or"
+msgstr ""
+
+#: rdm/rdm.md:201
+msgid "identifier schemas, databases or repositories that exist for your data and discipline, for example, when creating a data"
+msgstr ""
+
+#: rdm/rdm.md:202
+msgid "management plan for a grant proposal or funded project; or when submitting a manuscript to a journal, to identify the"
+msgstr ""
+
+#: rdm/rdm.md:203
+msgid "recommended databases and repositories, as well as the standards they implement to ensure all relevant information about"
+msgstr ""
+
+#: rdm/rdm.md:204
+msgid "the data is collected at the source. FAIRsharing also operates under GOFAIR and the RDA, and is"
+msgstr ""
+
+#: rdm/rdm.md:205
+msgid "[widely adopted](https://fairsharing.org/communities) by publishers, funders, and other organizations; like any other"
+msgstr ""
+
+#: rdm/rdm.md:206
+msgid "FAIR-enabling resources, it will continue to evolve, better linking to DMP and FAIRness assessment tools, to better help"
+msgstr ""
+
+#: rdm/rdm.md:207
+msgid "you maing data FAIR a reality."
+msgstr ""
+
+#: rdm/rdm.md:209
+msgid "<a name=\"Storage-backup\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:211
+# header
+msgid "### Storage and backup"
+msgstr ""
+
+#: rdm/rdm.md:213
+msgid "Data loss can be catastrophic for your research project and can happen often. You can prevent data loss by picking"
+msgstr ""
+
+#: rdm/rdm.md:214
+msgid "suitable storage solutions and backing your data up frequently."
+msgstr ""
+
+#: rdm/rdm.md:216
+msgid "<a name=\"Where-store\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:218
+# header
+msgid "#### Where to store data"
+msgstr ""
+
+#: rdm/rdm.md:220
+# unordered list
+msgid "- Most institutions will provide a _network drive_ that you can use to store data."
+msgstr ""
+
+#: rdm/rdm.md:221
+# unordered list
+msgid "- _Portable storage media_ such as memory sticks (USB sticks) are more risky and vulnerable to loss and damage."
+msgstr ""
+
+#: rdm/rdm.md:222
+# unordered list
+msgid "- _Cloud storage_ provides a convenient way to store, back and up and retrieve data. You should check terms of use"
+msgstr ""
+
+#: rdm/rdm.md:223
+msgid "  before using them for your research data."
+msgstr ""
+
+#: rdm/rdm.md:225
+msgid "Especially if you are handling personal or sensitive data, you need to ensure the cloud option is compliant with any"
+msgstr ""
+
+#: rdm/rdm.md:226
+msgid "data protection rules the data is bound by. To add an additional layer of security, you should encrypt devices and/or"
+msgstr ""
+
+#: rdm/rdm.md:227
+msgid "files where needed."
+msgstr ""
+
+#: rdm/rdm.md:229
+msgid "Your institution might provide local storage solutions and policies or guidelines restricting what you can use. Thus, we"
+msgstr ""
+
+#: rdm/rdm.md:230
+msgid "recommend you familiarise yourself with your local policies anc recommendations."
+msgstr ""
+
+#: rdm/rdm.md:232
+msgid "When you are ready to release the data to the wider community, you can also search for the appropriate"
+msgstr ""
+
+#: rdm/rdm.md:233
+msgid "[databases and repositories](https://fairsharing.org/databases) in FAIRsharing, according to your data type, and type of"
+msgstr ""
+
+#: rdm/rdm.md:234
+msgid "access to the data. Major"
+msgstr ""
+
+#: rdm/rdm.md:235
+msgid "[publishers are progressively defining clearer recommendations for data deposition and sharing](https://fairsharing.org/recommendations),"
+msgstr ""
+
+#: rdm/rdm.md:236
+msgid "endorsing specific generics as well as domain-sepecific databases and repositories."
+msgstr ""
+
+#: rdm/rdm.md:238
+msgid "<a name=\"Backups\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:240
+# header
+msgid "#### Backups"
+msgstr ""
+
+#: rdm/rdm.md:242
+msgid "To avoid loosing your data, you should follow good backup practices."
+msgstr ""
+
+#: rdm/rdm.md:244
+# unordered list
+msgid "- You should have 2 or 3 copies of your files, stored on"
+msgstr ""
+
+#: rdm/rdm.md:245
+# unordered list
+msgid "- at least 2 different storage media,"
+msgstr ""
+
+#: rdm/rdm.md:246
+# unordered list
+msgid "- in different locations."
+msgstr ""
+
+#: rdm/rdm.md:248
+msgid "The more important the data and the more often the datasets change, the more frequently you should back them up. If your"
+msgstr ""
+
+#: rdm/rdm.md:249
+msgid "files take up a large amount of space and backing up all of them would be difficult or expensive, you may want to create"
+msgstr ""
+
+#: rdm/rdm.md:250
+msgid "a set of criteria for when you back up the data. This can be part of your data management plan."
+msgstr ""
+
+#: rdm/rdm.md:252
+msgid "<a name=\"Spreadsheets\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:254
+# header
+msgid "### Data organisation in spreadsheets"
+msgstr ""
+
+#: rdm/rdm.md:256
+msgid "Spreadsheets, such as Microsoft Excel files, are commonly used to collect, store, manipulate, analyse, and share"
+msgstr ""
+
+#: rdm/rdm.md:257
+msgid "research data. Spreadsheets are convenient and easy-to-use tools for these tasks but are not amenable to reproducibility"
+msgstr ""
+
+#: rdm/rdm.md:258
+msgid "if used as dynamic documents. There is a collection of [horror-stories](http://www.eusprig.org/horror-stories.htm) that"
+msgstr ""
+
+#: rdm/rdm.md:259
+msgid "document the many ways that the use of spreadsheets have scuppered analyses due to unexpected behaviour or error-prone"
+msgstr ""
+
+#: rdm/rdm.md:260
+msgid "editing processes. Some of these mishaps are not unique to spreadsheets, but"
+msgstr ""
+
+#: rdm/rdm.md:261
+msgid "[many are](https://doi.org/10.1186/s13059-016-1044-7)."
+msgstr ""
+
+#: rdm/rdm.md:263
+msgid "Data manipulation and analysis in spreadsheets in particular is best avoided as, without version control, it can lead to"
+msgstr ""
+
+#: rdm/rdm.md:264
+msgid "non-reproducible workflows. By opening and editing raw data files directly by hand, for example to change values or"
+msgstr ""
+
+#: rdm/rdm.md:265
+msgid "perform calculations, the process by which new values are obtained is not properly documented, and you may accidentally"
+msgstr ""
+
+#: rdm/rdm.md:266
+msgid "over-write something or type in the wrong value only to notice after it's too late (or not at all)."
+msgstr ""
+
+#: rdm/rdm.md:268
+msgid "Even if these errors are avoided, if the spreadsheet is poorly organised then it may be"
+msgstr ""
+
+#: rdm/rdm.md:269
+msgid "[difficult for collaborators](https://luisdva.github.io/pls-don't-do-this/) to easily [read-in and re-use](#FAIR) your"
+msgstr ""
+
+#: rdm/rdm.md:270
+msgid "data for further analysis."
+msgstr ""
+
+#: rdm/rdm.md:272
+msgid "It's often not practical to avoid the use of spreadsheets altogether but there are some simple steps that can be taken"
+msgstr ""
+
+#: rdm/rdm.md:273
+msgid "to mitigate their flaws. The following principles, taken from Broman et al. {% cite Broman2018data --suppress_author %},"
+msgstr ""
+
+#: rdm/rdm.md:274
+msgid "provide some practical advice to ensure your data is clearly organised and human- and machine-readable:"
+msgstr ""
+
+#: rdm/rdm.md:276
+# unordered list
+msgid "- Be consistent"
+msgstr ""
+
+#: rdm/rdm.md:277
+# unordered list
+msgid "- Write dates as YYYY-MM-DD"
+msgstr ""
+
+#: rdm/rdm.md:278
+# unordered list
+msgid "- Don't leave any cells empty"
+msgstr ""
+
+#: rdm/rdm.md:279
+# unordered list
+msgid "- Put just one thing in a cell"
+msgstr ""
+
+#: rdm/rdm.md:280
+# unordered list
+msgid "- Organize the data as a single rectangle"
+msgstr ""
+
+#: rdm/rdm.md:281
+# unordered list
+msgid "- Create a data dictionary"
+msgstr ""
+
+#: rdm/rdm.md:282
+# unordered list
+msgid "- Don't include calculations in the raw data files"
+msgstr ""
+
+#: rdm/rdm.md:283
+# unordered list
+msgid "- Don’t use font color or highlighting as data"
+msgstr ""
+
+#: rdm/rdm.md:284
+# unordered list
+msgid "- Choose good names for things"
+msgstr ""
+
+#: rdm/rdm.md:285
+# unordered list
+msgid "- Make backups"
+msgstr ""
+
+#: rdm/rdm.md:286
+# unordered list
+msgid "- Use data validation to avoid data entry mistakes"
+msgstr ""
+
+#: rdm/rdm.md:287
+# unordered list
+msgid "- Save the data in plain text files"
+msgstr ""
+
+#: rdm/rdm.md:289
+msgid "<a name=\"Documentation-Metadata\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:291
+# header
+msgid "### Documentation and metadata"
+msgstr ""
+
+#: rdm/rdm.md:293
+msgid "Having data available is of no use if it cannot be understood. For example a table of numbers is useless if there are no"
+msgstr ""
+
+#: rdm/rdm.md:294
+msgid "headings which describe what the columns/rows contain. Therefore you should ensure that open datasets include consistent"
+msgstr ""
+
+#: rdm/rdm.md:295
+msgid "core metadata, and that the data is fully described. This requires that all documentation accompanying data is written"
+msgstr ""
+
+#: rdm/rdm.md:296
+msgid "in clear, plain language, and that data users have sufficient information to understand the source, strengths,"
+msgstr ""
+
+#: rdm/rdm.md:297
+msgid "weaknesses, and analytical limitations of the data so that they can make informed decisions when using it."
+msgstr ""
+
+#: rdm/rdm.md:299
+# unordered list
+msgid "- The level of documentation and metadata will vary according to the project and the range of people the data needs to"
+msgstr ""
+
+#: rdm/rdm.md:300
+msgid "  be understood by"
+msgstr ""
+
+#: rdm/rdm.md:301
+# unordered list
+msgid "- It is best practice to use recognised community metadata standards to make it easier for datasets to be combined. For"
+msgstr ""
+
+#: rdm/rdm.md:302
+msgid "  example, for brain data the [Brain Imaging Data Structure](https://doi.org/10.25504/FAIRsharing.rd1j6t) is the"
+msgstr ""
+
+#: rdm/rdm.md:303
+msgid "  strandards to use; other [metadata standards](https://fairsharing.org/standards)(reporting requirements,"
+msgstr ""
+
+#: rdm/rdm.md:304
+msgid "  termonologies, and models/schemas) are searchable in FAIRsharing."
+msgstr ""
+
+#: rdm/rdm.md:305
+# unordered list
+msgid "- Variables should be defined and explained using"
+msgstr ""
+
+#: rdm/rdm.md:306
+msgid "  [data dictionaries](http://help.osf.io/m/bestpractices/l/618767-how-to-make-a-data-dictionary)"
+msgstr ""
+
+#: rdm/rdm.md:307
+# unordered list
+msgid "- Data should be stored in logical and heirarchical folder structures with a README file used to describe the structure."
+msgstr ""
+
+#: rdm/rdm.md:308
+msgid "  The README file is helpful for others and will also help you find your data in the future"
+msgstr ""
+
+#: rdm/rdm.md:309
+msgid "  {% cite Fuchs2018documentation %}."
+msgstr ""
+
+#: rdm/rdm.md:311
+msgid "<a name=\"Sharing-Archiving\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:313
+# header
+msgid "### Sharing and archiving data"
+msgstr ""
+
+#: rdm/rdm.md:315
+msgid "<a name=\"Motivations-Sharing\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:317
+# header
+msgid "#### Motivations for sharing data"
+msgstr ""
+
+#: rdm/rdm.md:319
+msgid "The world is witnessing a significant global transformation, facilitated by technology and digital media, and fueled by"
+msgstr ""
+
+#: rdm/rdm.md:320
+msgid "data and information. This transformation has enormous potential to foster more transparent, accountable, efficient,"
+msgstr ""
+
+#: rdm/rdm.md:321
+msgid "responsive, and effective research. Only a very small proportion of the original data is published in conventional"
+msgstr ""
+
+#: rdm/rdm.md:322
+msgid "scientific journals. Existing policies on data archiving notwithstanding, in today’s practice data are primarily stored"
+msgstr ""
+
+#: rdm/rdm.md:323
+msgid "in private files, not in secure institutional repositories, and effectively are lost to the public. This lack of access"
+msgstr ""
+
+#: rdm/rdm.md:324
+msgid "to scientific data is an obstacle to international research for two main reasons:"
+msgstr ""
+
+#: rdm/rdm.md:326
+# ordered list
+msgid "1. It is generally difficult or impossible to fully reproduce a scientific study without the original data."
+msgstr ""
+
+#: rdm/rdm.md:327
+# ordered list
+msgid "2. It often causes unnecessary duplication of research efforts; large amounts of research funds are spent every year to"
+msgstr ""
+
+#: rdm/rdm.md:328
+msgid "   recreate already existing data. Furthermore, it inhibits joint research activities on various aspects of the same"
+msgstr ""
+
+#: rdm/rdm.md:329
+msgid "   problem."
+msgstr ""
+
+#: rdm/rdm.md:331
+msgid "Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and"
+msgstr ""
+
+#: rdm/rdm.md:332
+msgid "expansion of effective, efficient research programs. Sharing data openly is crucial to meeting these objectives. Open"
+msgstr ""
+
+#: rdm/rdm.md:333
+msgid "data means that the data is freely available on the internet permitting any user to download, copy, analyse, re-process,"
+msgstr ""
+
+#: rdm/rdm.md:334
+msgid "and re-use it for any other purpose without financial, legal, or technical barriers other than those inseparable from"
+msgstr ""
+
+#: rdm/rdm.md:335
+msgid "gaining access to the internet itself. This represents a real shift in how research works. At the moment anyone who"
+msgstr ""
+
+#: rdm/rdm.md:336
+msgid "wishes to use scientific data from a researcher often has to contact that researcher and make a request. Open by default"
+msgstr ""
+
+#: rdm/rdm.md:337
+msgid "turns this on its head and says that there should be a presumption of publication for all. Researchers need to justify"
+msgstr ""
+
+#: rdm/rdm.md:338
+msgid "data that’s kept closed, for example for security or data protection reasons. Free access to, and subsequent use of,"
+msgstr ""
+
+#: rdm/rdm.md:339
+msgid "data is of significant value to society and the economy, and that data should, therefore, be open by default. Research"
+msgstr ""
+
+#: rdm/rdm.md:340
+msgid "is often publically-funded, so the results of this research should be openly available as a public good."
+msgstr ""
+
+#: rdm/rdm.md:341
+msgid "<a name=\"Steps-Share\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:343
+# header
+msgid "### Steps to share your data"
+msgstr ""
+
+#: rdm/rdm.md:345
+# header
+msgid "#### Step 1: Select what data you want to share"
+msgstr ""
+
+#: rdm/rdm.md:347
+msgid "Not all data can be made openly available, due to ethical and commercial concerns, and you may decide that some of your"
+msgstr ""
+
+#: rdm/rdm.md:348
+msgid "intermediate data is too large to share. So you first need to decide which data you need to share for others to be able"
+msgstr ""
+
+#: rdm/rdm.md:349
+msgid "to reproduce your research."
+msgstr ""
+
+#: rdm/rdm.md:351
+# header
+msgid "#### Step 2: Choose a data repository or other sharing platform"
+msgstr ""
+
+#: rdm/rdm.md:353
+msgid "Data should be shared in a formal, open, and indexed data repository where possible so that it will be accessible in the"
+msgstr ""
+
+#: rdm/rdm.md:354
+msgid "long-run. Suitable data repositories by subject, content type or location can be found at"
+msgstr ""
+
+#: rdm/rdm.md:355
+msgid "[Re3data.org](https://www.re3data.org/) and in [FAIRsharing](https://fairsharing.org/databases) where you can also see"
+msgstr ""
+
+#: rdm/rdm.md:356
+msgid "which standards (metadata and identifier) the repositories implement and which journal/publisher recommend them. If"
+msgstr ""
+
+#: rdm/rdm.md:357
+msgid "possible use a repository which assigns a DOI, a digital object identifier, to make it easier for others to cite your"
+msgstr ""
+
+#: rdm/rdm.md:358
+msgid "data."
+msgstr ""
+
+#: rdm/rdm.md:360
+# header
+msgid "#### Step 3: Upload your data and documentation"
+msgstr ""
+
+#: rdm/rdm.md:362
+msgid "In line with the FAIR principles outlined above upload the data in open formats as much as possible and include"
+msgstr ""
+
+#: rdm/rdm.md:363
+msgid "sufficient documentation and metadata that someone else can understand your data."
+msgstr ""
+
+#: rdm/rdm.md:365
+# header
+msgid "#### Step 4: Choose a licence and link to your paper and code"
+msgstr ""
+
+#: rdm/rdm.md:367
+msgid "So that others know what they can do with your data you need to apply a licence to your data. The most commonly used"
+msgstr ""
+
+#: rdm/rdm.md:368
+msgid "licences are [Creative Commons](https://creativecommons.org/choose/),"
+msgstr ""
+
+#: rdm/rdm.md:369
+msgid "[Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), or an"
+msgstr ""
+
+#: rdm/rdm.md:370
+msgid "[Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/index.html). To get maximum value from"
+msgstr ""
+
+#: rdm/rdm.md:371
+msgid "data sharing make sure that your paper and code both link to your data, and vice versa, to allow others to best"
+msgstr ""
+
+#: rdm/rdm.md:372
+msgid "understand your project. <a name=\"Barriers-Share\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:374
+# header
+msgid "### Barriers to data sharing"
+msgstr ""
+
+#: rdm/rdm.md:376
+msgid "Some academics still find sharing data difficult. Recent surveys {% cite Stuart2018sharing %} amongst researchers find"
+msgstr ""
+
+#: rdm/rdm.md:377
+msgid "that sharing data is challenging for the following reasons:"
+msgstr ""
+
+#: rdm/rdm.md:379
+# unordered list
+msgid "- Organising data in a presentable and useful way (mentioned by 46%),"
+msgstr ""
+
+#: rdm/rdm.md:380
+# unordered list
+msgid "- Unsure about copyright and licensing as mentioned by 37%,"
+msgstr ""
+
+#: rdm/rdm.md:381
+# unordered list
+msgid "- Not knowing which repository to use as raised by 33%."
+msgstr ""
+
+#: rdm/rdm.md:383
+msgid "These are cultural challenges that might be addressed in changing practice going forward. However, there are also legal,"
+msgstr ""
+
+#: rdm/rdm.md:384
+msgid "ethical or contractual reasons that sometimes prevent making data publicly available in its entirety or even in parts."
+msgstr ""
+
+#: rdm/rdm.md:385
+msgid "Those will be addressed in the following paragraphs."
+msgstr ""
+
+#: rdm/rdm.md:387
+# header
+msgid "#### Privacy and data protection"
+msgstr ""
+
+#: rdm/rdm.md:389
+msgid "Many fields of scientific disciplines involve working with sensitive personal data. Their management is well regulated"
+msgstr ""
+
+#: rdm/rdm.md:390
+msgid "in data protection legislation (in Europe through national implementations of the General Data Protection Regulation)"
+msgstr ""
+
+#: rdm/rdm.md:391
+msgid "and ethics procedures as they are established in most research institutions {% cite EU2016protection %}."
+msgstr ""
+
+#: rdm/rdm.md:393
+# header
+msgid "##### Consent"
+msgstr ""
+
+#: rdm/rdm.md:395
+msgid "In order to make sure that anonymised research data can be made available for future reuse, it is important that consent"
+msgstr ""
+
+#: rdm/rdm.md:396
+msgid "forms cover sharing anonymised data with other researchers. Research so far suggests that study participants are usually"
+msgstr ""
+
+#: rdm/rdm.md:397
+msgid "less concerned about the data being archived and shared than researchers think {% cite Kuula2010archiving %}."
+msgstr ""
+
+#: rdm/rdm.md:398
+msgid "Participant information sheets and consent forms should include how research data will be stored, preserved and used in"
+msgstr ""
+
+#: rdm/rdm.md:399
+msgid "the long-term, and how confidentiality will be protected when needed."
+msgstr ""
+
+#: rdm/rdm.md:401
+# header
+msgid "##### Anonymisation"
+msgstr ""
+
+#: rdm/rdm.md:403
+msgid "Individuals must be protected from (re)identification via their personal data used for research. Anonymisation of the"
+msgstr ""
+
+#: rdm/rdm.md:404
+msgid "data may be sufficient in some cases, but ensuring that reidentification is not possible is becoming increasingly"
+msgstr ""
+
+#: rdm/rdm.md:405
+msgid "difficult and might be impossible due to technical progress, growing computational power and – ironically – more open"
+msgstr ""
+
+#: rdm/rdm.md:406
+msgid "data. For example reidentification may be possible via data-mining of accessible data and so-called quasi-identifiers, a"
+msgstr ""
+
+#: rdm/rdm.md:407
+msgid "set of (common) properties that are – in their combination – so specific that they can be used to identify. Preserving"
+msgstr ""
+
+#: rdm/rdm.md:408
+msgid "privacy may still be possible if partial or generalised datasets are provided. For example, providing age bands instead"
+msgstr ""
+
+#: rdm/rdm.md:409
+msgid "of birth date or only the first two digits of postal codes. It may also be possible to provide the data in such a format"
+msgstr ""
+
+#: rdm/rdm.md:410
+msgid "that researchers can query it whist keeping the data itself closed. For example, a user may be able to send a query to"
+msgstr ""
+
+#: rdm/rdm.md:411
+msgid "retrieve the mean of a dataset, but not be able to access any of the individual datapoints. Another way to provide"
+msgstr ""
+
+#: rdm/rdm.md:412
+msgid "anonymized data is to provide [synthetic data](https://en.wikipedia.org/wiki/Synthetic_data), data generated to reflect"
+msgstr ""
+
+#: rdm/rdm.md:413
+msgid "the conditions and properties of the raw data without including any of the personal information."
+msgstr ""
+
+#: rdm/rdm.md:415
+# header
+msgid "#### National and commercially sensitive data"
+msgstr ""
+
+#: rdm/rdm.md:417
+msgid "In many cases companies are understandably unwilling to publish much of their data. The reasoning goes that if"
+msgstr ""
+
+#: rdm/rdm.md:418
+msgid "commercially sensitive information of a company is disclosed, it will damage the company’s commercial interests and"
+msgstr ""
+
+#: rdm/rdm.md:419
+msgid "undermine competitiveness. This is based on the thinking that in competitive markets, innovation will only occur with"
+msgstr ""
+
+#: rdm/rdm.md:420
+msgid "some protection of information: if a company spends time and money developing something new, the details of which are"
+msgstr ""
+
+#: rdm/rdm.md:421
+msgid "then made public, then its competitors can easily copy it without having to invest the same resources. The result is"
+msgstr ""
+
+#: rdm/rdm.md:422
+msgid "that no-one would innovate in the first place. Similarly governments are often unwilling to publish data that relates to"
+msgstr ""
+
+#: rdm/rdm.md:423
+msgid "issues such as national security due to public safety concerns. In such cases it may not be possible to make data open,"
+msgstr ""
+
+#: rdm/rdm.md:424
+msgid "or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy."
+msgstr ""
+
+#: rdm/rdm.md:426
+msgid "<a name=\"Personal-stories\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:428
+# header
+msgid "## Personal Stories"
+msgstr ""
+
+#: rdm/rdm.md:430
+msgid "<a name=\"SusannaSansone\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:432
+# header
+msgid "### Susanna-Assunta Sansone: from FAIR co-author to FAIR doer"
+msgstr ""
+
+#: rdm/rdm.md:434
+msgid "Let's start with my digital footprints so that you can discovery my activities:"
+msgstr ""
+
+#: rdm/rdm.md:436
+# unordered list
+msgid "- [Biography](https://www.eng.ox.ac.uk/people/susanna-assunta-sansone)"
+msgstr ""
+
+#: rdm/rdm.md:437
+# unordered list
+msgid "- [The Data Readiness group I run at Oxford University](https://sansonegroup.eng.ox.ac.uk)"
+msgstr ""
+
+#: rdm/rdm.md:438
+# unordered list
+msgid "- [ORCID: 0000-0001-5306-5690](https://orcid.org/0000-0001-5306-5690)"
+msgstr ""
+
+#: rdm/rdm.md:439
+# unordered list
+msgid "- [Profile on LinkedIn](https://uk.linkedin.com/in/sasansone)"
+msgstr ""
+
+#: rdm/rdm.md:440
+# unordered list
+msgid "- [Talks on SlideShare](https://www.slideshare.net/SusannaSansone)"
+msgstr ""
+
+#: rdm/rdm.md:441
+# unordered list
+msgid "- [Twitter; yes I am the FAIRlady](https://twitter.com/SusannaASansone)"
+msgstr ""
+
+#: rdm/rdm.md:442
+# unordered list
+msgid "- [Activities on GitHub; yeah, no code sorry](https://github.com/SusannaSansone)"
+msgstr ""
+
+#: rdm/rdm.md:443
+# unordered list
+msgid "- [Google Scholar](https://scholar.google.co.uk/citations?user=gfJ8wsIAAAAJ&hl=en)"
+msgstr ""
+
+#: rdm/rdm.md:445
+msgid "I have worked on research data management since 2001, yes, way before this area was even considered a 'thing'. I was"
+msgstr ""
+
+#: rdm/rdm.md:446
+msgid "also told that there is no career to make in research data management. Well, how wrong that comment was! Formely seen as"
+msgstr ""
+
+#: rdm/rdm.md:447
+msgid "intersection between service provision and IT, data management has become a first class citizen, recognized as a"
+msgstr ""
+
+#: rdm/rdm.md:448
+msgid "research and development subject, as it should be. A lot of the credit for this change goes to the FAIR principles. Love"
+msgstr ""
+
+#: rdm/rdm.md:449
+msgid "it or hate it, FAIR is now an internationally-known lighthouse brand. Since we published the first article on the"
+msgstr ""
+
+#: rdm/rdm.md:450
+msgid "[FAIR principles](https://doi.org/10.1038/sdata.2016.18), enabling FAIR has been my focus."
+msgstr ""
+
+#: rdm/rdm.md:452
+msgid "The reuse of other people’s data is providing useful insights for new research questions and products, and driving new"
+msgstr ""
+
+#: rdm/rdm.md:453
+msgid "scientific discoveries. To realize its potential, however, we need new mechanisms to manage the growing availability and"
+msgstr ""
+
+#: rdm/rdm.md:454
+msgid "scale of scholarly digital products, such as datasets, software, algorithms, articles. FAIR has been specifically"
+msgstr ""
+
+#: rdm/rdm.md:455
+msgid "designed to emphasise the machine-readablity of these digital objects."
+msgstr ""
+
+#: rdm/rdm.md:457
+msgid "With my group of research software and knowledge engineerings we address the grand challenges related to information"
+msgstr ""
+
+#: rdm/rdm.md:458
+msgid "science and scholarly communications, where data quality and readiness for (re)use is a prerequisite for success. I"
+msgstr ""
+
+#: rdm/rdm.md:459
+msgid "believe that better data means better science, and this underpins reusable research, aids scholarly publishing, and"
+msgstr ""
+
+#: rdm/rdm.md:460
+msgid "enables faster and reliable data-driven discoveries. As I say in my [one minute video](https://youtu.be/3VDw7XIulIk), my"
+msgstr ""
+
+#: rdm/rdm.md:461
+msgid "vision is to transform the concept of data readiness into a powerful toolkit at the researchers’ fingertips, to realize"
+msgstr ""
+
+#: rdm/rdm.md:462
+msgid "FAIR data by stealth."
+msgstr ""
+
+#: rdm/rdm.md:464
+msgid "FAIR is not a magic wand. There is a lot to be done to enable and enact this transformation. We need all hands on deck!"
+msgstr ""
+
+#: rdm/rdm.md:465
+msgid "Researchers, service providers, journal publishers, library science experts, funders and learned societies in the"
+msgstr ""
+
+#: rdm/rdm.md:466
+msgid "academic as well as in the commercial and governmental setting all play a role: from providing use cases, to drive"
+msgstr ""
+
+#: rdm/rdm.md:467
+msgid "policy and culture changes that motivates, rewards and credits researchers for disseminating and publishing"
+msgstr ""
+
+#: rdm/rdm.md:468
+msgid "high-quality, machine-readable data; to building tools and services, to inform, training and educate."
+msgstr ""
+
+#: rdm/rdm.md:470
+msgid "There are many community efforts around FAIR; keeping abreast with these is an activity in itself. I spend considerable"
+msgstr ""
+
+#: rdm/rdm.md:471
+msgid "time to bring my group activities (such as [ISA](https://isa-tools.org) and [FAIRsharing](https://fairsharing.org)) in"
+msgstr ""
+
+#: rdm/rdm.md:472
+msgid "and under larger international umbrella organizations like"
+msgstr ""
+
+#: rdm/rdm.md:473
+msgid "[GOFAIR](https://www.go-fair.org/implementation-networks/overview/fair-strepo) and the"
+msgstr ""
+
+#: rdm/rdm.md:474
+msgid "[RDA](http://dx.doi.org/10.15497/RDA00030) to interact with others, learn from them, compare and contrast efforts and"
+msgstr ""
+
+#: rdm/rdm.md:475
+msgid "build new collaborations. I also play leading roles, seating on boards and chairing working groups with collagues,"
+msgstr ""
+
+#: rdm/rdm.md:476
+msgid "because you must get your hands dirty and lead by example."
+msgstr ""
+
+#: rdm/rdm.md:478
+msgid "In research data management, the history is the future. The one I envision is a future where scientific evidences are"
+msgstr ""
+
+#: rdm/rdm.md:479
+msgid "routinely available in a transparent, trustworthy and persistent manner to support peer-review and withstand"
+msgstr ""
+
+#: rdm/rdm.md:480
+msgid "reproducibility, to underpin new results and discoveries, and effectively drive sciences forward."
+msgstr ""
+
+#: rdm/rdm.md:482
+msgid "My advice: be aware, be FAIR!"
+msgstr ""
+
+#: rdm/rdm.md:484
+msgid "<a name=\"Checklist\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:486
+# header
+msgid "## Checklist"
+msgstr ""
+
+#: rdm/rdm.md:488
+msgid "<!-- This is a different style than the other chapters, but I really love what Alex provided so I just kept it. -->"
+msgstr ""
+
+#: rdm/rdm.md:490
+# unordered list
+msgid "- [ ] Don't Touch the Raw Data - back it up somewhere reasonable and keep a read-only copy."
+msgstr ""
+
+#: rdm/rdm.md:492
+# unordered list
+msgid "- [ ] Have a plan! - Decide where your data is going to be stored, what its called, when/if it needs to be deleted"
+msgstr ""
+
+#: rdm/rdm.md:493
+msgid "      BEFORE you start collecting it and note it down in a data management plan. If you collect sensitive data, plan for"
+msgstr ""
+
+#: rdm/rdm.md:494
+msgid "      consent for sharing from the start!"
+msgstr ""
+
+#: rdm/rdm.md:496
+# unordered list
+msgid "- [ ] Document Everything - You know who the worst person at replying to emails is about what the sampling frequency of"
+msgstr ""
+
+#: rdm/rdm.md:497
+msgid "      channel X was. Nope not him, it's actually yourself from a year ago. Keep the documentation with the data!"
+msgstr ""
+
+#: rdm/rdm.md:499
+# unordered list
+msgid "- [ ] Create the data you want to see in the word - Imagine someone was about to give you a dataset that you needed to"
+msgstr ""
+
+#: rdm/rdm.md:500
+msgid "      analyse well in order to get that job you've been dreaming about. What would you want it to look like? That's how"
+msgstr ""
+
+#: rdm/rdm.md:501
+msgid "      yours should look."
+msgstr ""
+
+#: rdm/rdm.md:503
+# unordered list
+msgid "- [ ] Try not to re-invent the wheel. Before you start creating some crazy new schema, storage format or naming"
+msgstr ""
+
+#: rdm/rdm.md:504
+msgid "      protocol - have a quick google, ask your colleagues. Something that's already being used is likely going to be"
+msgstr ""
+
+#: rdm/rdm.md:505
+msgid "      better in the long run even if you think there's a better solution. <a name=\"What-Next\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:507
+# header
+msgid "## What to learn next"
+msgstr ""
+
+#: rdm/rdm.md:509
+msgid "If you haven't read the chapter on Open Research yet, you might want to read it now for more context on how research"
+msgstr ""
+
+#: rdm/rdm.md:510
+msgid "data management supports Open Research. <a name=\"Further-Reading\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:512
+# header
+msgid "## Further reading"
+msgstr ""
+
+#: rdm/rdm.md:514
+# unordered list
+msgid "- [Detailed guidance on sharng personal or sensitive data from the UK Data Service](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/consent-data-sharing.aspx)"
+msgstr ""
+
+#: rdm/rdm.md:515
+# unordered list
+msgid "- [An overview of storage solutions and their advantages and disadvantages](https://datasupport.researchdata.nl/en/start-the-course/iii-the-research-phase/storing-data)"
+msgstr ""
+
+#: rdm/rdm.md:517
+msgid "<a name=\"Glossary\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:519
+# header
+msgid "## Definitions/glossary"
+msgstr ""
+
+#: rdm/rdm.md:521
+msgid "<!-- Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter -->"
+msgstr ""
+
+#: rdm/rdm.md:523
+msgid "**RDM:** - Research Data Management  "
+msgstr ""
+
+#: rdm/rdm.md:524
+msgid "**DMP:** - Data Management Plan  "
+msgstr ""
+
+#: rdm/rdm.md:525
+msgid "**FAIR:** - Findable, Accessible, Interoperable and Reusable  "
+msgstr ""
+
+#: rdm/rdm.md:526
+msgid "**METADATA:** - Data that describes other data  "
+msgstr ""
+
+#: rdm/rdm.md:527
+msgid "<a name=\"Bibliography\"></a>"
+msgstr ""
+
+#: rdm/rdm.md:529
+# header
+msgid "## Bibliography"
+msgstr ""
+
+#: rdm/rdm.md:531
+msgid "{% bibliography --cited %}"
+msgstr ""
+
