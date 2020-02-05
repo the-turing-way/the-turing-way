@@ -11,3 +11,7 @@ book/website/Pipfile\.lock
 workshops/boost-research-reproducibility-binder/workshop-presentations/*pptx
 
 _config-locale.yml
+
+po4jupyterbook/
+
+*.po~
