@@ -11,8 +11,7 @@
 
 ### Authors
 
-* Malvika Sharan  ([*The Alan Turing Institute*](https://www.turing.ac.uk) on behalf of **The Turing Way Collaboration**
-
+* Malvika Sharan with Sarah Gibson and Jez Cope on behalf of **The Turing Way Community**
 
 ### Abstract
 
