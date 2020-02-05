@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Tony Yang <tony@tony.tc>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: content\n"
+"Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
+"POT-Creation-Date: 2020-02-05 14:52:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Tony Yang <tony@tony.tc>\n"
+"Language-Team: zh_CN <tony@tony.tc>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: glossary/glossary.md:1
+# header
+msgid "# Glossary"
+msgstr ""
+
+#: glossary/glossary.md:3
+# header
+msgid "#### Binder"
+msgstr ""
+
+#: glossary/glossary.md:5
+msgid "A web-based service which allows users to upload and share fully-functioning versions of their projects in an environment they define."
+msgstr ""
+
+#: glossary/glossary.md:7
+# header
+msgid "#### Computational environment"
+msgstr ""
+
+#: glossary/glossary.md:9
+msgid "Features of a computer which can impact the behaviour of work done on it, such as its operating system, what software it has installed, and what versions of software packages are installed."
+msgstr ""
+
+#: glossary/glossary.md:11
+# header
+msgid "#### Conda"
+msgstr ""
+
+#: glossary/glossary.md:13
+msgid "A commonly used package management system."
+msgstr ""
+
+#: glossary/glossary.md:15
+# header
+msgid "#### Container"
+msgstr ""
+
+#: glossary/glossary.md:17
+msgid "Lightweight files that can encapsulate and entire computational environment including its operating system, customised settings, software and files."
+msgstr ""
+
+#: glossary/glossary.md:19
+# header
+msgid "#### Dockerfile"
+msgstr ""
+
+#: glossary/glossary.md:21
+msgid "A file used for creating Docker images"
+msgstr ""
+
+#: glossary/glossary.md:23
+# header
+msgid "#### Image"
+msgstr ""
+
+#: glossary/glossary.md:25
+msgid "Files used for generating containers."
+msgstr ""
+
+#: glossary/glossary.md:27
+# header
+msgid "#### Package management system"
+msgstr ""
+
+#: glossary/glossary.md:29
+msgid "A tool for installing, managing, and uninstalling software packages including specific versions."
+msgstr ""
+
+#: glossary/glossary.md:31
+# header
+msgid "#### Virtual machine"
+msgstr ""
+
+#: glossary/glossary.md:33
+msgid "A simulated computer that can encapsulate and entire computational environment including its operating system, customised settings, software and files."
+msgstr ""
+
+#: glossary/glossary.md:35
+# header
+msgid "#### YAML"
+msgstr ""
+
+#: glossary/glossary.md:37
+msgid "A human readable/writable markup language which used by many projects for configuration files."
+msgstr ""
+

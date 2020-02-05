@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: content\n"
 "Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
-"POT-Creation-Date: 2020-02-05 14:52:59+0000\n"
+"POT-Creation-Date: 2020-02-05 15:59:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Tony Yang <tony@tony.tc>\n"
 "Language-Team: zh_CN <tony@tony.tc>\n"
@@ -143,10 +143,9 @@ msgid "## Summary"
 msgstr ""
 
 #: binderhub/binderhub.md:30
-#, fuzzy
 msgid ""
-"This chapter will [BinderHub](https://binderhub.readthedocs.io/en/latest/"
-"index.html), which is the cloud technology powering [Binder](https://"
+"This chapter will discuss [BinderHub](https://binderhub.readthedocs.io/en/"
+"latest/index.html), which is the cloud technology powering [Binder](https://"
 "mybinder.readthedocs.io/en/latest/)."
 msgstr "这章将会讨论"
 
