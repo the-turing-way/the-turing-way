@@ -28,6 +28,7 @@ serve:
 	bundle exec guard
 
 site:
+	bash scripts/multilingual_make.sh
 	jupyter-book build ./ --overwrite
 	bundle exec jekyll build
 	touch _site/.nojekyll
