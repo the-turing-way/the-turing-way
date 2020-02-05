@@ -13,7 +13,7 @@ def remove_comments(text_string):
 failed = []
 for root_dir, _, file_names in os.walk(directory_to_check):
 	for file_name in file_names:
-		if file_name[-3:] != ".md".
+		if file_name[-3:] != ".md":
 			break
 		file = open(os.path.join(root_dir,file_name),encoding="utf8", errors='ignore')
 		text = file.read()
