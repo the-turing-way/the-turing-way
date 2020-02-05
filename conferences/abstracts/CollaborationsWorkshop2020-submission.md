@@ -7,7 +7,7 @@
 
 ### Title
 
-* The Turing Way: a guide to data science and research
+* The Turing Way: a "lightly-opinionated" guide to data science and research
 
 ### Authors
 
