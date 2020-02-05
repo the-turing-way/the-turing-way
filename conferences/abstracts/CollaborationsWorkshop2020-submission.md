@@ -16,14 +16,15 @@
 
 ### Abstract
 
-The *Turing Way* is an Open Sources community-driven and collaboratively-developed book project on data science and research. 
+The *Turing Way* is an open source community-driven and collaboratively-developed book project on data science and research. 
 
 Launched and demo-ed at the (Software Sustainability Institute's Collaborations Workshop](https://www.software.ac.uk/cw19) last year, the *Turing Way* aimed at supporting students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do".
-Since its launch, the *Turing Way* has gained interests from a diverse set of community members working across different disciplines within data science research, training, who have made a significant number of [GitHub contributions](https://github.com/alan-turing-institute/the-turing-way) to the project through in-person contribution workshops (book dash events) and online co-working calls (collaboration cafes). Furthermore, the *Turing Way* team members have delivered workshops on GitHub, git, Jupyter Notebook, BinderHub, Binder, and programming workshops to impart skills and confidence to empower new contributors and thus to sustain an open-source ecosystem.
 
-Going forward, *The Turing Way* project aims to expand into a series of books, which, in addition to reproducibility, will capture the vast amounts of knowledge of data science practices in the areas of project design, communication, communication, collaboration, and ethics.  
+Since its launch, the *Turing Way* has gained interests from a diverse set of community members working across different disciplines within data science research, training, who have contributed to [the project repository](https://github.com/alan-turing-institute/the-turing-way) through in-person contribution workshops (book dash events) and online co-working calls (collaboration cafes). Furthermore, the *Turing Way* team members have delivered workshops on GitHub, git, Jupyter Notebook, BinderHub, Binder, and basic programming to impart skills and confidence to empower new contributors, and thus, to sustain an open-source ecosystem.
 
-In this session, we will introduce the *Turing Way* chapters that already exist, the interactive demonstrations that participants can use and re-use for their research, and the directions in which we're continuing to develop. All participants will leave the session knowing that "Every Little Helps" when making their work intentionally designed to be open and reproducible. The session lead and other members of the *Turing Way* community will be available to help and troubleshoot as the participants will start or continue their open research journey while improving The Turing Way for future readers and vice versa.
+Going forward, *The Turing Way* project aims to expand into a series of books, which, in addition to reproducibility, will capture the vast amounts of knowledge of data science practices in the areas of project design, communication and outreach, collaboration, and ethics.  
+
+In this proposed session, the session lead will introduce the project in a short talk on *Turing Way* followed by an interactive demonstrations of the existing and planned chapters that participants can use, share, develop or modify for their own research. All participants will leave the session knowing that "Every Little Helps" when making their work intentionally designed to be open and reproducible. The session facilitators will help participants in identifying their route of contribution to an open source project while improving the *Turing Way* handbook for future readers.
 
 ### Submission Info
 
