@@ -1,8 +1,4 @@
-### Report
-
-# The *Turing Way* | Expansion Sprint
-
-### Report
+# Report: *Turing Way* Expansion Sprint 10-11 October 2019
 
 ## Part 1
 
