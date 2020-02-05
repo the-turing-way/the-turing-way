@@ -1,8 +1,7 @@
-DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 cd ../..
 git clone https://github.com/tonyyzy/po4jupyterbook
 cd book/content
-../../po4jupyterbook/compile.sh
+python3 ../../po4jupyterbook/tools/poc.py
 cd ../website
 sed 's+content_folder_name: ../content+content_folder_name: ../content/locale/+g' _config.yml > _config-locale.yml
 cat ../content/po/LINGUAS | while read lang;
