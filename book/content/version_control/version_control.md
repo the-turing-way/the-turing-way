@@ -13,11 +13,11 @@ Naturally, we encourage readers to make use of the entire chapter, but readers s
 ## Summary
 
 Version control keeps track of different versions of a project and allows past versions to be accessed easily.
-It also allows different versions of a project to be merged with minimal input from the user.  
+It also allows different versions of a project to be merged with minimal input from the user.
 Version control is often associated with writing code, but it can also be used with writing projects.
-For example, if you are writing a paper with collaborators then version control is really important in helping you to see who has changed what.  
+For example, if you are writing a paper with collaborators then version control is really important in helping you to see who has changed what.
 Version control is used to some extent within many different programs, including ones you are likely to already be familiar with such as Word or Wordpress.
-There are numerous tools available for version control such as [Mercurial](https://www.mercurial-scm.org/) and [SVN](https://subversion.apache.org/).  
+There are numerous tools available for version control such as [Mercurial](https://www.mercurial-scm.org/) and [SVN](https://subversion.apache.org/).
 The best know one is Git (and its web-based version, [GitHub](https://github.com/), which aids collaboration between researchers) which the instructions given in this chapter will be geared towards.
 There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "[Further reading](#further-reading)" section at the end of the chapter).
 This chapter aims to cover the general principles underpinning all version control systems, and best practice which applies for using all such systems.
@@ -66,7 +66,7 @@ Git will ask you to make a commit, other systems make ask you to make a timepoin
 
 Keep doing work and making more and more snapshots.
 You can think of these as savepoints - if you need to go back to any point in time because of a mistake, or changing your mind about a decision, you can go back to get a file as it was then, or just return your entire project to a past state.
-An illustration of this is shown in the figure below.  
+An illustration of this is shown in the figure below.
 
 ![master_branch](../figures/master_branch.png)
 
@@ -162,13 +162,13 @@ Commits serve as checkpoints where individual files or an entire project can be 
 When you have made a series of changes and you want to commit them you first add these changes to your staging area using `git add`.
 You can add all your changes using:
 
-```  
+```
 git add .
 ```
 
 or you can add the changes to specific files via:
 
-```  
+```
 git add your_file_name
 ```
 
@@ -236,7 +236,7 @@ Finally, **do not commit anything that can be regenerated from other things that
 
 As you work on you project you will make more and more commits.
 Without any other information it can be hard to remember which version of your project is in which.
-Storing past versions is useless if you can not understand them, and figuring out what they contain by inspecting the code is frustrating and takes valuable time.  
+Storing past versions is useless if you can not understand them, and figuring out what they contain by inspecting the code is frustrating and takes valuable time.
 
 ### The solution
 
@@ -541,7 +541,7 @@ Before merging make sure you know what's in both branches, and if you are not th
 ### The problem
 
 When multiple people work on the same project (which is becoming more and more common as research becomes increasingly collaborative) it becomes difficult to keep track of what changes have been made and by who.
-It is also often difficult and time-consuming to manually incorporate the different participant's work into a whole even if all of their changes are compatible.  
+It is also often difficult and time-consuming to manually incorporate the different participant's work into a whole even if all of their changes are compatible.
 
 ### The solution
 
@@ -555,7 +555,7 @@ Making the entire project and its history available online in this was also has 
 
 1. Other researchers can re-use the work more easily.
 Rather than writing their own code to do what has already been written they can just use the original, which saves time.
-This also benefits the project's original authors as other researchers are much more likely to build on the work (and cite it) if a great deal of the work has already been done.   
+This also benefits the project's original authors as other researchers are much more likely to build on the work (and cite it) if a great deal of the work has already been done.
 2. The research will be much more reproducible if the entire history of the project can be tracked. This enables results to be verified more easily, which benefits science.
 
 ### How to do it
@@ -670,7 +670,7 @@ This also works for using commit messages to close issues too.
 | git add file_name             | Add changes to the specified file to the staging area to be committed    |
 | git commit                    | Commits staged changes and allows you to write a commit message          |
 | git checkout SHA              | Check out past commit with the given SHA                                 |
-| git checkout SHA -- file_name | Check out past version of a file from the commit with the given SHA      |  
+| git checkout SHA -- file_name | Check out past version of a file from the commit with the given SHA      |
 | git checkout -b branch_name   | Create and switch to a new branch                                        |
 | git checkout branch_name      | Switch to a specified branch                                             |
 | git merge branch_name         | Merge the branch you are on into the specified branch                    |
@@ -681,7 +681,7 @@ This also works for using commit messages to close issues too.
 | git log                       | Output a log of past commits with their commit messages                  |
 | git status                    | Output status including what branch you're on & what changes are staged  |
 | git diff                      | Output difference between working directory and most recent commit       |
-| git diff thing_a thing_b      | Output difference between two things, such as commits and branches       |                     
+| git diff thing_a thing_b      | Output difference between two things, such as commits and branches       |
 
 ## Checklists
 
@@ -728,8 +728,8 @@ Many such skills are either also applicable for using version control well, for 
 
 ## Further reading
 
-- A free and very in depth book on Gits myriad of features can be found [here](https://Git-scm.com/book/en/v2).
-- A useful Git cheat sheet can be found [here](https://services.GitHub.com/on-demand/downloads/GitHub-Git-cheat-sheet.pdf).
+- A free and very in depth book on Git's myriad of features can be found [here](https://Git-scm.com/book/en/v2).
+- A useful Git cheat sheet can be found [here](https://education.github.com/git-cheat-sheet-education.pdf).
 - Interactive tutorials for familiarising yourself with GitHub can be found at [https://lab.github.com/](https://lab.github.com/).
 
 ## Definitions/glossary
