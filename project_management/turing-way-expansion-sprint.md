@@ -28,7 +28,6 @@ In this section, attendees collected their topics of interest and compiled their
 - **Policies and processes:** existing workflow for contributors and existing challenges, processes that will make our workflow time effective by lowering the barrier for involvement. Furthermore, we want to identify the best way to manage contributions, issue lists, pull requests and merge processes on GitHub.
 - **Leadership and roles:** identifying roles and teams in the community, reviewing their responsibilities, and creating task lists and defining the autonomy level of the contributors. This requires us to identify core influencers in the community and supporting them in a way that’s mutually beneficial for their careers and the development of *Turing Way* as a project.
 - **Building communities online:**  review our engagement plans and policies, establish standard means for online interactions, understand barriers and create a more welcoming space. Since this project is moving from a “reproducible community” to “data science how-to community”, we need to establish a measure to assess our progress, check value alignment, and invite contributions from different areas of data science.
-
 - **Involving desirable key contributors:**  invite more contributors who can influence the cultural movement in data science widely and positively. A few groups of such contributors who have not been so far involved are PIs, Tech companies, and case study developers, who will be crucial for this project going forward.
 - **Event and local teams:** engage with people in-person and still maintain a sense of large community in small teams. Training will become an important part of this project when engaging with new members, for which we all agreed that The Carpentries style lesson will be really useful.
 
@@ -40,8 +39,8 @@ The project will be written in 6 volumes that will cover the following Data Scie
 
 - Reproducibility
 - Design
-- Communication
-- Outreach
+- Communication & Outreach
+- How to collaborate
 - Ethics
 - Meta-Turing-Way
 
