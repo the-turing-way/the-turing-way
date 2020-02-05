@@ -27,6 +27,7 @@ serve:
 	bundle exec guard
 
 build:
+	bash scripts/multilingual_make.sh
 	jupyter-book build ./ --overwrite
 
 site: build
