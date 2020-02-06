@@ -9,7 +9,7 @@ do
     echo ${lang}
     sed "s/url: /url: ${lang}\//g" _data/toc.yml.bak > _data/toc.yml
     jupyter-book build ./ --overwrite --config _config-locale.yml
-    find _build/${lang}/ -name *.md -exec sed -i s+../figures+../../figures+g {} +
+    find _build/${lang}/ -name *.md -exec sed -i "s+\.\./figures+../../figures+g" {} +
     bundle exec jekyll build
     rm -r _build/${lang}
 done
