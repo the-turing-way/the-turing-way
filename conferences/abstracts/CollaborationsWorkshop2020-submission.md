@@ -17,7 +17,7 @@
 
 The *Turing Way* is an open source community-driven and collaboratively-developed book project on data science and research. 
 
-Launched and demo-ed at the (Software Sustainability Institute's Collaborations Workshop](https://www.software.ac.uk/cw19) last year, the *Turing Way* aimed at supporting researchers, educators, funders and journal editors in ensuring that reproducible data science is "too easy not to do".
+Launched and demo-ed at the [Software Sustainability Institute's Collaborations Workshop](https://www.software.ac.uk/cw19) last year, the *Turing Way* aims to support researchers, educators, funders and journal editors in ensuring that reproducible data science is "too easy not to do".
 
 Since its launch, *The Turing Way* has gained interest from a diverse set of community members working across different disciplines within data science research and training, who have contributed to [the project repository](https://github.com/alan-turing-institute/the-turing-way) through in-person contribution workshops (book dash events) and online co-working calls (collaboration cafes). 
 Furthermore, the *Turing Way* team members have delivered workshops on GitHub, git, Jupyter Notebook, BinderHub, Binder, and basic programming to impart skills and confidence to empower new contributors, and thus, to sustain an open-source ecosystem.
