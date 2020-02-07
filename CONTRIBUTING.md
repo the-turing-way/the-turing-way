@@ -50,7 +50,8 @@ Please familiarize yourself with the [Code of Conduct](CODE_OF_CONDUCT.md) that 
 
 ## Inclusivity
 
-This should be taken into account in contributions that the Turing Way aims to be inclusive to people from all walks of life and to all research fields.
+_The Turing Way_ aims to be inclusive to people from all walks of life and to all research fields.
+These intentions are manifest in the contributions that we make to the project.
 
 In addition to the Code of Conduct, we encourage intentional inclusive actions from contributors to _The Turing Way_.
 Here are a few examples of such actions:
