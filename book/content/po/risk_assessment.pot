@@ -1,0 +1,248 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: content\n"
+"Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
+"POT-Creation-Date: 2020-02-05 19:08:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: risk_assessment/01/longreadriskassessment.md:1
+#: risk_assessment/risk_assessment.md:6
+# header
+msgid "## Longer read…"
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:2
+#: risk_assessment/risk_assessment.md:7
+msgid "We all use risk assessments all the time. Sometimes they’re formal procedures to ensure an activity is safe, but most of the time they’re the thought of a moment- Is this coffee too hot? Is there a bus coming? Software is no different, and using a risk assessment approach like the one described below can really help make your work successful and sustainable."
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:4
+#: risk_assessment/risk_assessment.md:9
+# header
+msgid "### The risk matrix"
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:5
+#: risk_assessment/risk_assessment.md:10
+msgid "A risk matrix is a very popular way of quantifying what’s going on with the thing you’re interested in. One axis measures exposure in some way, and the other the impact of a mishap. The further from the origin, the more safeguards are needed to make the risk acceptable."
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:7
+msgid "![Impact vs complexity risk matrix](../../figures/risk_matrix.png)"
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:9
+#: risk_assessment/risk_assessment.md:14
+msgid "In our case, we will use ‘complexity’ and ‘impact’ as the two axes. Some case studies illustrate how it works…"
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:11
+#: risk_assessment/risk_assessment.md:16
+msgid "Case 1"
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:13
+#: risk_assessment/risk_assessment.md:18
+# blockquote, which can be cascaded
+msgid "> Richard needs to submit a 100 small jobs to the department cluster, with the names of the jobs varying according to a simple pattern. This is tedious and he wants to go outside and play. Therefore, Richard decides to write a short shell script to submit all the jobs. He pauses for a few seconds and asks:"
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:15
+#: risk_assessment/risk_assessment.md:20
+# blockquote, which can be cascaded
+msgid "> How complicated is this? It’ll only be about 1 screen of text."
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:17
+#: risk_assessment/risk_assessment.md:22
+# blockquote, which can be cascaded
+msgid "> What’s if it goes wrong? The jobs won’t submit or run and I’ll get some failure emails."
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:19
+# blockquote, which can be cascaded
+msgid "> Here, Richard decides that both the complexity and impact of this tiny piece of software are low. Therefore, using version control and writing documentation is disproportionate right now. He decides to do a dry run by echoing the submit line to the terminal so he can give it a quick check."
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:21
+msgid ">A few weeks later, someone else in the lab wants to do the same thing. Richard offers his script as it worked quite well for him. The goalposts have moved. Richard pauses for a few more seconds to and reassesses the risk…"
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:23
+msgid ">…5 years later, Richard’s script has evolved into a large workflow control system allowing several universities to manage complex workflows  consisting of 1000’s of jobs being submitted to a range of different compute resources. The software now has a formal project board that sets the governance and direction of the software, ensuring that it is sustainable and meets the needs of the 100s of users worldwide."
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:25
+msgid "Case 2..."
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:27
+# blockquote, which can be cascaded
+msgid "> Jemma has a problem with visualising some data. The usual library can’t cope with the format her data. She’s heard about Seth’s Friday afternoon project where he’s written a wrapper around this library to solve what seems to be the same problem. They have a coffee and decide to work together. During this coffee, they make some decisions about how they’re going to work successfully together- this is their risk assessment. Seth agrees to go away and improve the inline documentation and add some use case examples before sharing. Jemma agrees to set up a repository into which Seth will put the code."
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:29
+# blockquote, which can be cascaded
+msgid "> Over time, more people start to make use of this software, with feature requests adding complexity and changes in the underlying library causing breakages. Jemma and Seth agree that things are getting a bit risky because the impact of wrong results might cause problems with publishing results. They therefore introduce continuous integration tests and a review process to ensure things remain sustainable."
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:31
+msgid "The key point of these case studies is that every piece of software has different needs to be sustainable, and these requirements can change over time. The use of version control, testing, documentation and other sustainability concepts are useful for managing risk. Using none of these tools leaves your software exposed to things going wrong, but using all of them from the outset can get in the way of innovation."
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:32
+msgid "The risk assessment approach helps you find the right balance for now. Revisit the topic once in a while, or when something circumstances change."
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:34
+# header
+msgid "### More about measuring complexity"
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:35
+msgid "One measure of complexity is line count. The more lines you have the more places there are to make a mistake. However, there are other things one might care about. How many libraries do you depend on? How many functions are there? All of these measure the complexity of the codebase."
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:36
+msgid "Complexity can take other forms too. How many use cases are there? Does your blob counting software only get used for counting blobs in the biosciences? Are there people using it to count blobs in CCTV images? What types of computer are people using it on? CPU? GPU? Raspberry Pi?"
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:37
+msgid "Take a broad view of your software."
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:39
+# header
+msgid "### More about measuring impact"
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:40
+msgid "What happens when (not if) your software doesn’t work? Sometimes, it just annoys you for a few minutes. However, other software going wrong can have huge consequences- the retraction of your seminal paper or even lives being lost."
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:41
+msgid "Measuring the impact requires good knowledge of what your software is being used for. It can sometimes be difficult to keep track of this until things go wrong. However, one can try to head this off at the pass by asking questions like ‘is this piece of software I use for the analysis in my paper any good?’."
+msgstr ""
+
+#: risk_assessment/01/longreadriskassessment.md:42
+msgid "Again, take a broad view of your software."
+msgstr ""
+
+#: risk_assessment/02/finalsummary.md:1
+# header
+msgid "## In summary"
+msgstr ""
+
+#: risk_assessment/02/finalsummary.md:2
+msgid "Understand your software and what it is used for. Knowing this helps you decide what sustainability concepts are appropriate for your needs. There are many tools and ecosystems that are commonly used to help you practice these concepts- github, Docker and many more. Read on to learn about these concepts and tools…"
+msgstr ""
+
+#: risk_assessment/02/finalsummary.md:4
+# header
+msgid "## Checklist"
+msgstr ""
+
+#: risk_assessment/02/finalsummary.md:5
+# blockquote, which can be cascaded
+msgid "> this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go"
+msgstr ""
+
+#: risk_assessment/02/finalsummary.md:7
+# header
+msgid "## What to learn next"
+msgstr ""
+
+#: risk_assessment/02/finalsummary.md:8
+# blockquote, which can be cascaded
+msgid "> recommended next chapters that are a good next step up"
+msgstr ""
+
+#: risk_assessment/02/finalsummary.md:10
+# header
+msgid "## Further reading"
+msgstr ""
+
+#: risk_assessment/02/finalsummary.md:11
+# blockquote, which can be cascaded
+msgid "> top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold."
+msgstr ""
+
+#: risk_assessment/02/finalsummary.md:12
+# blockquote, which can be cascaded
+msgid "> less relevant/favourite resources in case someone wants to dig into this in detail"
+msgstr ""
+
+#: risk_assessment/02/finalsummary.md:14
+# header
+msgid "## Definitions/glossary"
+msgstr ""
+
+#: risk_assessment/02/finalsummary.md:15
+# blockquote, which can be cascaded
+msgid "> Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter"
+msgstr ""
+
+#: risk_assessment/02/finalsummary.md:17
+# header
+msgid "## Bibliography"
+msgstr ""
+
+#: risk_assessment/02/finalsummary.md:18
+# blockquote, which can be cascaded
+msgid "> Credit/urls for any materials that form part of the chapter's text."
+msgstr ""
+
+#: risk_assessment/risk_assessment.md:1
+# header
+msgid "# Risk Assessment - deciding how to manage your software"
+msgstr ""
+
+#: risk_assessment/risk_assessment.md:3
+# header
+msgid "## TL;DR"
+msgstr ""
+
+#: risk_assessment/risk_assessment.md:4
+#: risk_assessment/risk_assessment.md:28
+msgid "Use a risk assessment to help choose the appropriate sustainable software concepts for your project. Too little and your software is unsustainable; too much and you won’t be able to Get On With It. It can take just a few seconds, but gets you off on the right foot."
+msgstr ""
+
+#: risk_assessment/risk_assessment.md:12
+msgid "![Impact vs complexity risk matrix](../figures/risk_matrix.png)"
+msgstr ""
+
+#: risk_assessment/risk_assessment.md:23
+msgid "======="
+msgstr ""
+
+#: risk_assessment/risk_assessment.md:24
+# header
+msgid "## Prerequisites/recommended skill level"
+msgstr ""
+
+#: risk_assessment/risk_assessment.md:25
+#: risk_assessment/risk_assessment.md:31
+# blockquote, which can be cascaded
+msgid "> This needs writing"
+msgstr ""
+
+#: risk_assessment/risk_assessment.md:27
+# header
+msgid "## Summary"
+msgstr ""
+
+#: risk_assessment/risk_assessment.md:30
+# header
+msgid "## How this will help you/why this is useful"
+msgstr ""
+

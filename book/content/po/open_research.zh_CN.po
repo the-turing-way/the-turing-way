@@ -1,0 +1,2494 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Tony Yang <tony@tony.tc>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: content\n"
+"Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
+"POT-Creation-Date: 2020-02-05 14:52:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Tony Yang <tony@tony.tc>\n"
+"Language-Team: zh_CN <tony@tony.tc>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: open_research/01/opendata.md:1
+# header
+msgid "## Open data"
+msgstr ""
+
+#: open_research/01/opendata.md:3
+msgid "The world is witnessing a significant global transformation, facilitated by technology and digital media, and fuelled by data and information. This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research."
+msgstr ""
+
+#: open_research/01/opendata.md:4
+msgid "Only a very small proportion of the original data is published in conventional journals. Existing policies on data archiving notwithstanding, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public. This lack of data sharing is an obstacle to international research (be it academic, governmental, or commercial) for two main reasons:"
+msgstr ""
+
+#: open_research/01/opendata.md:6
+# ordered list
+msgid "1. It is generally difficult or impossible to fully reproduce a study without the original data."
+msgstr ""
+
+#: open_research/01/opendata.md:7
+# ordered list
+msgid "2. The data cannot be reused or incorporated into new work by other researchers if they cannot obtain access to it."
+msgstr ""
+
+#: open_research/01/opendata.md:9
+msgid "Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs. Open data is crucial to meeting these objectives."
+msgstr ""
+
+#: open_research/01/opendata.md:10
+msgid "Open data is freely available on the internet and any user is permitted to download, copy, analyse, re-process, and re-use it for any other purpose with minimal financial, legal, and technical barriers."
+msgstr ""
+
+#: open_research/01/opendata.md:11
+msgid "This represents a real shift in how research works. At the moment anyone who wishes to use data from a researcher often has to contact that researcher and make a request. \"Open by default\" turns this on its head and says that there should be a presumption of publication for all. If access to data is restricted, for instance due to security reasons, the justification for this should be made clear."
+msgstr ""
+
+#: open_research/01/opendata.md:12
+msgid "Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default. So, how do you go about making your data open?"
+msgstr ""
+
+#: open_research/01/opendata.md:14
+# header
+msgid "### Steps to make your data open"
+msgstr ""
+
+#: open_research/01/opendata.md:16
+# header
+msgid "#### Step 1: Make your data available"
+msgstr ""
+
+#: open_research/01/opendata.md:18
+msgid "Put your data online. It should be easily discoverable and accessible, and made available without bureaucratic or administrative barriers, which can deter people from accessing the data. Choose a location to store the data which will ensure historical copies of datasets are preserved, archived, and kept accessible as long as they retain value. Whenever possible, researchers should provide data in its original, unmodified form."
+msgstr ""
+
+#: open_research/01/opendata.md:20
+msgid "Data should be free of charge, under [an open licence](https://fossbytes.com/open-sources-license-type/), (for example, those developed by Creative Commons) so it can be reused and remixed by other researchers. The data should be available as a whole and at no more than a reasonable reproduction cost. That is, no expensive piece of software should be required to read the file as this may obstruct researchers who wish to work with the dataset."
+msgstr ""
+
+#: open_research/01/opendata.md:22
+# header
+msgid "#### Step 2: Make your data easy to understand"
+msgstr ""
+
+#: open_research/01/opendata.md:24
+msgid "Having data available is of no use if it cannot be understood. For example, a table of numbers is useless if there are no headings which describe the contents of the rows and columns. Therefore you should ensure that open datasets include consistent core metadata, and that the data is fully described. This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it."
+msgstr ""
+
+#: open_research/01/opendata.md:26
+# header
+msgid "#### Step 3: Make your data easy to use"
+msgstr ""
+
+#: open_research/01/opendata.md:28
+msgid "The data should be made available in a modifiable, machine-readable format so that it can be effectively used and  manipulated."
+msgstr ""
+
+#: open_research/01/opendata.md:29
+msgid "It is also important to think about the file formats that information is provided in. Data should be presented in structured and standardized formats to support interoperability, traceability, and effective reuse. In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people."
+msgstr ""
+
+#: open_research/01/opendata.md:31
+# header
+msgid "#### Step 4: Make your data citeable"
+msgstr ""
+
+#: open_research/01/opendata.md:33
+msgid "Data should be considered a legitimate, citable product of research. Making data citeable (and citing data yourself) facilitates the giving of scholarly credit; in scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited. Data citations facilitate identification of, access to, and verification of the specific data that support a claim, making it possible to reproduce the underlying analysis. You should ensure that anyone who wishes to cite a dataset that you host has access to a persistent identifier in order to do so."
+msgstr ""
+
+#: open_research/01/opendata.md:35
+msgid "A data citation should include a persistent method for identification that is unique, and widely understandable by a community. There are several types of persistent identifier that could be used to identify datasets: examples include Handles, Archival Resource Keys (ARKs) and Persistent URLs (PURLs), all of which can be resolved to an Internet location. The scheme that is gaining most traction is the Digital Object Identifier (DOI)."
+msgstr ""
+
+#: open_research/01/opendata.md:37
+msgid "<a name=\"doi_system\"></a>"
+msgstr ""
+
+#: open_research/01/opendata.md:38
+msgid "The DOI System is an identifier scheme administered by the International DOI Foundation. The task of managing DOI registers is delegated to registration agencies (for a list, see [here](http://www.doi.org/registration_agencies.html)) that each specialise in a type of resource. For research datasets, the registration agency is the [DataCite Consortium](https://www.datacite.org/). Among the services it provides are human and machine interfaces for simple end-user administration of DOI registrations. DataCite also collects metadata about each dataset it registers so they can be more easily understood and identified. Any repository wishing to register DOIs needs to obtain a username and password from DataCite to gain access to the registration service. While best practice has yet to emerge on some matters, certain conventions are already becoming established."
+msgstr ""
+
+#: open_research/01/opendata.md:40
+msgid "In particular, when organisations register a DOI for a resource, they should not introduce semantic elements into the suffix, especially not metadata that might change over time (for example, publisher, archive, owner). Assign identifiers to static datasets only when no further changes or corrections are expected (such as after quality control checks are complete). As DOIs are used to cite data as evidence, the resource to which a DOI points should also remain unchanged, with any new version receiving a new DOI."
+msgstr ""
+
+#: open_research/01/opendata.md:42
+msgid "Furthermore, whichever identifier scheme you pick make sure it allows the identifier to be resolved to a URL. This URL should belong to a landing page that contains descriptive information about the dataset, as well as links or instructions for accessing it. You should also ensure that datasets are made citable and identifiable at an appropriate level of granularity.  For example, it would be no use citing CERN's entire data repository as someone attempting to reproduce your work would not be able to find the data used in a specific piece of work without considerable difficulty. Where possible you should be able to cite the data used, and only the data used."
+msgstr ""
+
+#: open_research/01/opendata.md:44
+# header
+msgid "### Barriers to data sharing"
+msgstr ""
+
+#: open_research/01/opendata.md:46
+msgid "Sometimes it may not be possible to make data publicly available in its entirety or even in part. There are two main reasons this may be the case:"
+msgstr ""
+
+#: open_research/01/opendata.md:48
+# header
+msgid "#### Privacy"
+msgstr ""
+
+#: open_research/01/opendata.md:50
+msgid "Many fields of research involve working with sensitive personal data, medical research being the most obvious example."
+msgstr ""
+
+#: open_research/01/opendata.md:51
+msgid "Individuals must be protected from (re)identification via their personal data used for research. Anonymisation of the data may be sufficient in some cases, but ensuring that reidentification is not possible is becoming increasingly difficult due to technical progress, growing computational power and – ironically – more open data. For example, reidentification may be possible via data-mining of accessible data and so-called quasi-identifiers, a set of (common) properties that are – in their combination – so specific that they can be used to identify individuals."
+msgstr ""
+
+#: open_research/01/opendata.md:53
+msgid "Preserving privacy may still be possible if partial or generalised datasets are provided."
+msgstr ""
+
+#: open_research/01/opendata.md:54
+msgid "For example, providing age bands instead of birth date or only the first two digits of postal codes."
+msgstr ""
+
+#: open_research/01/opendata.md:55
+msgid "It may also be possible to provide the data in such a format that researchers can query it whist keeping the data itself closed, for example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints."
+msgstr ""
+
+#: open_research/01/opendata.md:57
+# header
+msgid "#### National and commercially sensitive data"
+msgstr ""
+
+#: open_research/01/opendata.md:59
+msgid "In many cases companies are understandably unwilling to publish much of their data. The reasoning goes that if commercially sensitive information is disclosed, it will damage the company’s commercial interests and undermine competitiveness. This is based on the thinking that in competitive markets, innovation will only occur with some protection of information: if a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources. The result is that no-one would innovate in the first place. Similarly, governments are often unwilling to publish data that relates to issues such as national security due to public safety concerns."
+msgstr ""
+
+#: open_research/01/opendata.md:61
+msgid "In such cases it may not be possible to make data open, or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:1
+# header
+msgid "## Open source software"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:3
+# header
+msgid "### What is open source software?"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:5
+msgid "When a project is open source anybody can view, use, modify, and distribute the project for any purpose."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:6
+msgid "These permissions are enforced through an open source licence."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:7
+msgid "Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:8
+msgid "In its most basic form, open sourcing your software simply means putting your code online where it can be viewed and reused by others."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:10
+msgid "Many of the most widely used research software is open source."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:11
+msgid "Perhaps the paradigmatic example is the scikit-learn Python package for machine learning (Pedregosa et al., 2011), which, in the space of just over five years, has attracted over 500 unique contributors, 20,000 individual code contributions, and 2,500 article citations."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:12
+msgid "Producing a comparable package using a traditional closed-source approach would likely not be feasible, and would, at the very least, have required a budget of tens of millions of dollars."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:13
+msgid "While scikit-learn is clearly an outlier, hundreds of other open source packages that support much more domain-specific needs depend in a similar fashion on unsolicited community contributions, for example, the NIPY (neuroimaging in Python) group of projects in neuroimaging (Gorgolewski et al., 2016)."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:14
+msgid "Importantly, such contributions not only result in new functionality from which the broader community can benefit, but also regularly provide their respective authors with greater community recognition, and lead to new project and employment opportunities."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:16
+msgid "Researchers that make use of open source software often make changes to them such as adding features they need for their own research, or fixing bugs."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:17
+msgid "They can then contribute these improvements back to the main project so the wider community can take advantage of them."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:19
+# header
+msgid "### How running and contributing to open source software projects benefits you"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:21
+# unordered list
+msgid "- Improve existing skills: Whether it is coding, user interface design, graphic design, writing, or organizing, if you are looking for practice, there is a task for you on an open source software project."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:22
+msgid "Further, open source necessitates cleaner, more maintainable code to enable collaboration between potentially thousands of people who may never meet."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:23
+msgid "This helps to build and maintain good coding habits."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:24
+msgid "Not to be underestimated are the people skills you can develop on open source software projects."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:25
+msgid "Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organising teams of people, and prioritising work."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:26
+# unordered list
+msgid "- Advance your career: By definition, all of your open source work is public and this presents opportunities:"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:27
+# unordered list
+msgid "  - Demonstrate technical ability: Technical interviews traditionally involve working on a simulated problem that can be tackled in a set amount of time with little additional context."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:28
+msgid "  Such simulations, by definition, are not real world use cases, nor do they show what working with an applicant would be like."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:29
+msgid "  Open source provides visibility into both how a candidate solves problems, and how they work with others."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:30
+msgid "  You make a much more appealing employee if an employer can see the quality of your work and see you working with others over a long period of time rather than taking a chance on a single short, high-stress case which may not play to your strengths."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:31
+# unordered list
+msgid "  - Reputation: Becoming an active member of the open source community can gain you a positive reputation which may bolster future job prospects."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:32
+# unordered list
+msgid "- Meet people with similar interests: Open source software projects with warm, welcoming communities keep people coming back for years and many people form lifelong friendships through their participation in open source."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:33
+# unordered list
+msgid "- Find mentors and teach others: Working with others on a shared project means you will have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:35
+# header
+msgid "#### Making your own work open source"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:37
+# unordered list
+msgid "- Re-usability: Making your work openly available for re-use makes it easier for others to incorporate into their own research. If you make your software citeable, for example via a [DOI](doi_system) this can increase your citations."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:38
+# unordered list
+msgid "- When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:39
+msgid "If your project is open the number of potentially contributing developers and thus the potential knowledge pool is orders of magnitude larger."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:40
+# unordered list
+msgid "- Feedback: Making your work open enables you to get feedback and improve your project in way you may never have thought of alone."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:41
+# unordered list
+msgid "- Accountability: There is an argument that any software developed using government money should be open source by default; if the public has paid for its development they have a right to make use of it."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:42
+msgid "If your work is government funded making it open is a step you can take towards government openness and accountability."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:44
+# header
+msgid "#### Contributing to others' open source software projects"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:46
+# unordered list
+msgid "- It is empowering to be able to make changes, even small ones: You do not have to become a lifelong contributor to enjoy participating in open source."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:47
+msgid "Have you ever seen a typo on a website, and wished someone would fix it?"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:48
+msgid "On an open source software project, you can do just that."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:49
+msgid "Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:50
+# unordered list
+msgid "- It is fun:"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:51
+msgid "Open source provides an endless, ever-changing set of Rubix cubes for you to solve on weekends. Just like puzzles, both crossword and jigsaw, open source provides bite-sized intellectual escapes."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:53
+# header
+msgid "### How open source software benefits research"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:55
+msgid "Open source software projects primarily benefit research by allowing researchers to take advantage of each others' work. This enables researchers to apply their efforts to high-value work."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:56
+msgid "It is sometimes said that \"all the easy problems have already been solved\"."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:57
+msgid "Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:58
+msgid "While developers could spend their time reinventing wheels that the open source community have already perfected, it is highly preferable to use the world's best wheel, especially when that wheel comes at no cost to you."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:59
+msgid "This frees researchers up to work on yet-unsolved challenges."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:60
+msgid "This reduces duplication of effort and allows researchers to focus on the work they're actually interested in."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:62
+msgid "Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:63
+msgid "Examples include [Linux](https://www.linux.org/) operating systems, Python packages such as [scipy](https://www.scipy.org/) and [numpy](http://www.numpy.org/), and the machine learning library [TensorFlow](https://www.tensorflow.org/).    "
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:65
+# header
+msgid "### How to run your own open source software project"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:67
+msgid "You can open source an idea, a work in progress, or after years of being closed source."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:68
+msgid "At the most basic level all you need to do is put your code online somewhere that is likely to last a long time."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:69
+msgid "You can make your code citeable by assigning it a DOI (as discussed in the section on [making data citeable](#citing_data)). "
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:70
+msgid "This helps ensure that you get proper credit if people use or build upon your work."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:72
+msgid "A popular place to make your code available is GitHub (see the chapter on [version control](/version_control/version_control)). You must include a licence file stating that anyone has permission to use, copy, and modify your work. Without this no one can legally use your work and so it isn't open source. [This](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best licence for your project. There are also a few other files you should include with your code, as described below."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:74
+# header
+msgid "#### Welcome users by adding information to your README"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:76
+msgid "You should include a readme file where you include useful information about what the project is, how to use it, and how to contribute to it. Here's a list of the main things a readme should include:"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:78
+# unordered list
+msgid "- The project name and what it is: This will greatly help someone that comes across it to get an idea of the project. Include a few key points that describe the main features of the project and what are the main features you're implementing."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:79
+msgid "This helps to quickly compare other projects with yours and to give an idea that why the project exists in the first place."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:80
+# unordered list
+msgid "- Instructions on how to install the project: The installer might be a collaborator, someone that comes across and is interested in the project, or even you if you get a new machine and need to re-install your project."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:81
+msgid "Nevertheless, it is a total waste of both of your resources to start figuring out how to just get started with the project. This should also include any prerequisites that will be needed to run the project."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:82
+msgid "The best thing you can do is to just write up the installation instructions when you first do them yourself, and you'll quickly save hours of work in the future."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:83
+# unordered list
+msgid "- Instructions for how to run the code and any associated tests: If you've been working on your project it may seem obvious how to run it, but this will likely not be the case for someone coming across it for the first time."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:84
+# unordered list
+msgid "- Links to related material."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:85
+# unordered list
+msgid "- List of authors/contributors to the project, possibly with contact information."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:86
+# unordered list
+msgid "- Acknowledgements."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:88
+msgid "If you intend for other people to collaborate on your project (as opposed to just making your code available and considering it complete) then you should include contributing guidelines and most likely a code of conduct."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:90
+# header
+msgid "#### Contributing guidelines"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:92
+msgid "Contributing guidelines tell your audience how to participate in your project. For example, you might include information on:"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:94
+# unordered list
+msgid "- How to file a bug report."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:95
+# unordered list
+msgid "- How to suggest a new feature."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:96
+# unordered list
+msgid "- Your roadmap or vision for the project."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:97
+# unordered list
+msgid "- How contributors should (or should not) get in touch with you."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:99
+msgid "Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:100
+msgid "For example, [Active Admin](https://activeadmin.info/index.html) starts its [contributing guide](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) with: \"First off, thank you for considering contributing to Active Admin. It’s people like you that make Active Admin such a great tool.\""
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:102
+msgid "In the earliest stages of your project, your contributing guidelines file can be simple."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:103
+msgid "You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:104
+msgid "Over time, you might add other frequently asked questions here or in your readme file."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:105
+msgid "Writing down this information means fewer people will ask you the same questions over and over again."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:106
+msgid "It's also a good idea to link to your contributing guidelines file from your readme, so more people see it."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:108
+# header
+msgid "#### Code of conduct"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:110
+msgid "A code of conduct helps set ground rules for behaviour for your project's participants."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:111
+msgid "This is especially valuable if you are launching an open source project for a community or company."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:112
+msgid "A code of conduct empowers you to facilitate healthy, constructive community behaviour, which will reduce your stress as a maintainer."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:113
+msgid "In addition to communicating how you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:115
+msgid "Much like open source licences, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters). No matter which text you use, you should be prepared to enforce your code of conduct when necessary."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:117
+msgid "Keep the file in your project's root directory so it's easy to find, and link to it from your readme."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:119
+# header
+msgid "### How to contribute to other's open source software projects"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:121
+# header
+msgid "#### Anatomy of an open source software project"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:123
+msgid "Every open source community is different. That said, many open source software projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:125
+msgid "A typical open source software project has the following types of people:"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:127
+# unordered list
+msgid "- Author: The person/s or organization that created the project"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:128
+# unordered list
+msgid "- Owner: The person/s who has administrative ownership over the organization or repository (not always the same as the original author)"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:129
+# unordered list
+msgid "- Maintainers: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. They may also be authors and/or owners of the project."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:130
+# unordered list
+msgid "- Contributors: Everyone who has contributed something back to the project."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:131
+# unordered list
+msgid "- Community members: People who use the project. They might be active in conversations or express their opinion on the project's direction."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:133
+msgid "Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project’s website for a “team” page, or in the repository for governance documentation, to find this information."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:135
+msgid "A great many open source projects are hosted on GitHub (see the chapter on version control for more detail), which has facilities such as:"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:137
+# unordered list
+msgid "- Issue tracker: Where people discuss issues related to the project."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:138
+# unordered list
+msgid "- Pull requests: Where people discuss and review changes that are in progress."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:139
+# unordered list
+msgid "- Discussion forums or mailing lists: Some projects may use these channels for conversational topics (for example, \"How do I...\" or \"What do you think about...\" instead of bug reports or feature requests). Others use the issue tracker for all conversations."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:140
+# unordered list
+msgid "- Synchronous chat channel: Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:142
+# header
+msgid "#### Contribute your changes"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:144
+msgid "Say you have added a feature or fixed a bug and want to contribute this work to the main project."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:146
+# ordered list
+msgid "1. Read the documentation: The main project may have contributing guidelines or information in a readme instructing prospective contributors on how to supply their changes."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:147
+# ordered list
+msgid "2. Make sure your conventions match those of the main project, both in style and structure: For example if all the variables in a project are named in some particular way yours should be too!"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:148
+msgid "Consistent conventions make it much easier for someone who has not seen your piece of the project before to understand it rather than having to figure out your particular set of conventions *and* what the code is doing. The project's conventions may be outlined in its documentation, or may just be evident from inspection of the code itself."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:149
+# ordered list
+msgid "3. Break your changes up into manageable, well-defined chunks: For example, if you have added two separate features don't submit them together. Keeping things \"clean\" in this way makes your work simpler to understand and review."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:150
+# ordered list
+msgid "4. Test your changes: If the project comes with tests run them, and make sure you're testing against an up to date version of the project as it may have evolved considerably over time. Write specific tests for your changes and submit those too."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:151
+# ordered list
+msgid "5. Do not just submit code, update relevant documentation too: If your changes are incorporated it will have to be updated, if you don not do it someone else will have to."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:152
+# ordered list
+msgid "6. Ask questions: If there are things you are unsure about there's no harm in asking. Many larger projects have dedicated forums or other venues for questions and discussion."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:153
+# ordered list
+msgid "7. Be clear: When you submit your changes clearly describe the changes you have made, why you have made them, and how they have been implemented. This makes it as easier for someone looking at your work and deciding whether to incorporate it into the main project to do so. In the likely case the main project is hosted on GitHub you should put this in the pull request (see the version control chapter for more details)."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:155
+# header
+msgid "#### Looking for projects to contribute to and how to contribute to them"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:157
+msgid "You do not need to overthink what exactly your first contribution will be, or how it will look."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:158
+msgid "Instead, start by thinking about the projects you already use, or want to use."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:159
+msgid "The projects you will actively contribute to are the ones you find yourself coming back to."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:160
+msgid "Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct. You might scan a readme and find a broken link or a typo."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:161
+msgid "Or you are a new user and you noticed something is broken, or an issue that you think should really be in the documentation. "
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:162
+msgid "Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That is what open source is all about!"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:164
+msgid "You can also use one of the following resources to help you discover and contribute to new projects:"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:166
+# unordered list
+msgid "- [Open Source Friday](https://opensourcefriday.com/)"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:167
+# unordered list
+msgid "- [First Timers Only](https://www.firsttimersonly.com/)"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:168
+# unordered list
+msgid "- [CodeTriage](https://www.codetriage.com/)"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:170
+msgid "If you are not sure how to start here is a few other ways you can go about it such as finding an open issue to tackle or asking if you can help write a new feature."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:172
+msgid "A common misconception about contributing to open source is that you need to contribute code. In fact, it is often the other parts of a project that are most neglected or overlooked. You will do the project a huge favour by offering to pitch in with these types of contributions! You could:"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:174
+# unordered list
+msgid "- Review code on other people's submissions."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:175
+# unordered list
+msgid "- Write and improve the project's documentation."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:176
+# unordered list
+msgid "- Curate a folder of examples showing how the project is used."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:177
+# unordered list
+msgid "- Answer questions about the project on, for example, Stack Overflow,"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:178
+# unordered list
+msgid "- Keep things organized, for example, on GitHub by:"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:179
+# unordered list
+msgid "    - Linking to duplicate issues."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:180
+# unordered list
+msgid "    - Suggesting new issue labels."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:181
+# unordered list
+msgid "    - Going through open issues and suggesting closing old ones."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:182
+# unordered list
+msgid "    - Ask clarifying questions on recently opened issues to move the discussion forward."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:184
+# header
+msgid "### Closed software"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:186
+msgid "What if you are working with people that do not use the open source model for their software?"
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:187
+msgid "This may initially seem an affront to all the principles discussed so far, but there are usually very good reasons for why things are the way they are (for example legal, commercial, or security)."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:188
+msgid "Often, it will still be possible to use and contribute but the details of how might be different."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:189
+msgid "The kinds of practices used in 'closed' software are generally the same and the concepts and tools you can learn about in the Turing Way still apply."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:191
+msgid "Sometimes, however, there might not be good reasons for the closed source approach."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:192
+msgid "Different areas of research have different cultures which run against the grain of open principles and feel very frustrating. "
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:193
+msgid "Tackling this barrier can be very tricky as cultures can take years or decades to change."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:195
+msgid "Working with closed software can offer both opportunities and threats to your research."
+msgstr ""
+
+#: open_research/02/opensourcesoftware.md:196
+msgid "In all cases, understanding and respecting other's perspectives offers the greatest chances of success."
+msgstr ""
+
+#: open_research/03/openhardware.md:1
+# header
+msgid "## Open hardware"
+msgstr ""
+
+#: open_research/03/openhardware.md:3
+msgid "\"Open hardware\", or \"open source hardware\", refers to the design specifications of a physical object that are licenced in such a way that said object can be studied, modified, created, and distributed by anyone."
+msgstr ""
+
+#: open_research/03/openhardware.md:4
+msgid "Like open source software, the \"source code\" for open hardware - schematics, blueprints, logic designs, Computer Aided Design (CAD) drawings or files, and the like, is available for modification or enhancement by anyone."
+msgstr ""
+
+#: open_research/03/openhardware.md:5
+msgid "Users with access to the tools that can read and manipulate these source files can update and improve the physical device and the code that underlies it, and, if they wish, proceed to share such modifications."
+msgstr ""
+
+#: open_research/03/openhardware.md:7
+msgid "Open hardware's source code should be readily accessible, and its components are preferably easy for anyone to obtain. "
+msgstr ""
+
+#: open_research/03/openhardware.md:8
+msgid "Essentially, open hardware eliminates common roadblocks to the design and manufacture of physical goods; it provides as many people as possible the ability to construct, remix, and share their knowledge of hardware design and function."
+msgstr ""
+
+#: open_research/03/openhardware.md:10
+msgid "It is worth noting that open hardware does not necessary mean free. Units may still be sold (by the original designer or by others), but users *could* build them from scratch. Whether or not they choose to buy the unit, users can still get a full understanding of how the hardware works from open documentation, designs, and similar.  "
+msgstr ""
+
+#: open_research/03/openhardware.md:12
+# header
+msgid "### Why open hardware?"
+msgstr ""
+
+#: open_research/03/openhardware.md:14
+msgid "Open hardware allows researchers to understand exactly what their equipment is doing, how it is doing it, and to verify that it is doing it correctly, rather than having to extend a degree of trust."
+msgstr ""
+
+#: open_research/03/openhardware.md:15
+msgid "Being aware of how the equipment that generates a result works puts researchers on a firmer footing in assessing those results."
+msgstr ""
+
+#: open_research/03/openhardware.md:16
+msgid "Open hardware also makes research more reproducible as researchers looking to verify results can do the same thing."
+msgstr ""
+
+#: open_research/03/openhardware.md:18
+msgid "Other benefits of open hardware include protection against lock-in."
+msgstr ""
+
+#: open_research/03/openhardware.md:19
+msgid "Proprietary software for core infrastructure increases the risk of becoming locked in by the vendor or technology."
+msgstr ""
+
+#: open_research/03/openhardware.md:20
+msgid "If this happens, researchers can be at the mercy of vendors' price increases and experience a lack of flexibility they can not easily and readily escape."
+msgstr ""
+
+#: open_research/03/openhardware.md:21
+msgid "Further, if researchers want to modify their equipment to better suit their needs it is much easier to do so (and may only be legal) in the case of open source hardware."
+msgstr ""
+
+#: open_research/03/openhardware.md:23
+# header
+msgid "### Elements of an open source hardware project"
+msgstr ""
+
+#: open_research/03/openhardware.md:25
+msgid "Here are some files that you should consider sharing when publishing your open source hardware project."
+msgstr ""
+
+#: open_research/03/openhardware.md:26
+msgid "You are not required to post them all, but the more you share the more the community benefits."
+msgstr ""
+
+#: open_research/03/openhardware.md:27
+msgid "There is a lot of crossover here with files to include in open source software projects."
+msgstr ""
+
+#: open_research/03/openhardware.md:29
+# unordered list
+msgid "- Overview / Introduction: Your open source hardware project should include a general description of the hardware's identity and purpose, written as much as possible for a general audience."
+msgstr ""
+
+#: open_research/03/openhardware.md:30
+msgid "That is, explain what the project is and what it is for before you get into the technical details."
+msgstr ""
+
+#: open_research/03/openhardware.md:31
+msgid "A good photo or rendering can help a lot here."
+msgstr ""
+
+#: open_research/03/openhardware.md:32
+# unordered list
+msgid "- A licence: This grants legal permission to anyone to re-use, modify, and distribute your designs and hardware according to the terms stated (for example, they must acknowledge your contribution).  "
+msgstr ""
+
+#: open_research/03/openhardware.md:33
+# unordered list
+msgid "- Original design files: These are the original source files that you would use to make modifications to the hardware's design."
+msgstr ""
+
+#: open_research/03/openhardware.md:34
+msgid "The act of sharing these files is the core practice of open source hardware."
+msgstr ""
+
+#: open_research/03/openhardware.md:35
+# unordered list
+msgid "  - Ideally, your open source hardware project would be designed using a free and open source software application, to maximize the ability of others to view and edit it."
+msgstr ""
+
+#: open_research/03/openhardware.md:36
+msgid "  For better or worse however, hardware design files are often created in proprietary programs and stored in proprietary formats."
+msgstr ""
+
+#: open_research/03/openhardware.md:37
+msgid "  It is still essential to share these original design files; they constitute the original \"source code\" for the hardware."
+msgstr ""
+
+#: open_research/03/openhardware.md:38
+msgid "  They are the very files that someone will need in order to contribute changes to a given design."
+msgstr ""
+
+#: open_research/03/openhardware.md:39
+# unordered list
+msgid "  - Try to make your design files easy for someone else to understand. In particular, organize them in a logical way, comment complex aspects, and note any unusual manufacturing procedures."
+msgstr ""
+
+#: open_research/03/openhardware.md:40
+# unordered list
+msgid "  - Examples of Original Design Files include 2D drawings and computer-aided design (CAD) files."
+msgstr ""
+
+#: open_research/03/openhardware.md:41
+# unordered list
+msgid "- Auxiliary Design Files: Beyond the original design files, it is often helpful to share your design in additional, more accessible formats."
+msgstr ""
+
+#: open_research/03/openhardware.md:42
+msgid "For example, best practice open sourcing a CAD design is to share the design not just in its native file format, but also in a range of interchange and export formats that can be opened or imported by other CAD programs."
+msgstr ""
+
+#: open_research/03/openhardware.md:43
+# unordered list
+msgid "  - It is also helpful to provide ready-to-view outputs that can easily be viewed by end users who wish to understand (but not necessarily modify) the design."
+msgstr ""
+
+#: open_research/03/openhardware.md:44
+msgid "  For example, a PDF of a circuit board schematic."
+msgstr ""
+
+#: open_research/03/openhardware.md:45
+msgid "  These auxiliary design files allow people to study the design of the hardware, and sometimes even fabricate it, even without access to particular proprietary software packages."
+msgstr ""
+
+#: open_research/03/openhardware.md:46
+msgid "  However, note that auxiliary design files are never recommended as substitutes for original design files."
+msgstr ""
+
+#: open_research/03/openhardware.md:47
+# unordered list
+msgid "- Additional technical drawings: In their original formats, if required for fabrication of the device, in a commonly-readable format such as PDF."
+msgstr ""
+
+#: open_research/03/openhardware.md:48
+# unordered list
+msgid "- Bill Of Materials: While it might be possible to infer from the design files which parts make up a piece of hardware, it is important to provide a separate bill of materials."
+msgstr ""
+
+#: open_research/03/openhardware.md:49
+msgid "This can be a spreadsheet (for example, CSV, XLS, Google Doc) or simply a text file with one part per line."
+msgstr ""
+
+#: open_research/03/openhardware.md:50
+# unordered list
+msgid "  - Useful things to include in the bill of materials are part numbers, suppliers, costs, and a short description of each part."
+msgstr ""
+
+#: open_research/03/openhardware.md:51
+msgid "  Make it easy to tell which item in the bill of materials corresponds to which component in your design files: use matching reference designators in both places, provide a diagram indicating which part goes where, or otherwise explain the correspondence."
+msgstr ""
+
+#: open_research/03/openhardware.md:52
+# unordered list
+msgid "- Software and Firmware: You should share any code or firmware required to operate your hardware."
+msgstr ""
+
+#: open_research/03/openhardware.md:53
+msgid "This will allow others to use it with their hardware or modify it along with their modifications to your hardware."
+msgstr ""
+
+#: open_research/03/openhardware.md:54
+msgid "Document the process required to build your software, including links to any dependencies (for example, third-party libraries or tools). In addition, it is helpful to provide an overview of the state of the software (for example, \"stable\" or \"beta\" or \"barely-working hack\")."
+msgstr ""
+
+#: open_research/03/openhardware.md:55
+# unordered list
+msgid "- Photos: Photos help people understand what your project is and how to put it together."
+msgstr ""
+
+#: open_research/03/openhardware.md:56
+msgid "It is good to publish photographs from multiple viewpoints and at various stages of assembly. If you do not have photos, posting 3D renderings of your design is a good alternative. Either way, it is good to provide captions or text that explain what is shown in each image and why it is useful."
+msgstr ""
+
+#: open_research/03/openhardware.md:57
+# unordered list
+msgid "- Instructions and Other Explanations: In addition to the design files themselves, there are a variety of explanations that are invaluable in helping others to make or modify your hardware:"
+msgstr ""
+
+#: open_research/03/openhardware.md:58
+# unordered list
+msgid "  - Making the hardware: To help others make and modify your hardware design, you should provide instructions for going from your design files to the working physical hardware."
+msgstr ""
+
+#: open_research/03/openhardware.md:59
+msgid "  As part of the instructions, it is helpful to link to datasheets for the components / parts of your hardware and to list the tools required to assemble it."
+msgstr ""
+
+#: open_research/03/openhardware.md:60
+msgid "  If the design requires specialized tools, tell people where to get them."
+msgstr ""
+
+#: open_research/03/openhardware.md:61
+# unordered list
+msgid "  - Using the hardware: Once someone has made the hardware, they need to know how to use it."
+msgstr ""
+
+#: open_research/03/openhardware.md:62
+msgid "  Provide instructions that explain what it does, how to set it up, and how to interact with it."
+msgstr ""
+
+#: open_research/03/openhardware.md:63
+# unordered list
+msgid "  - Design rationale: If someone wants to modify your design, they will want to know why it is the way it is."
+msgstr ""
+
+#: open_research/03/openhardware.md:64
+msgid "  Explain the overall plan of the hardware's design and why you made the specific choices you did."
+msgstr ""
+
+#: open_research/03/openhardware.md:65
+# unordered list
+msgid "  - Limit jargon: Keep in mind that these instructions may be read by someone whose expertise or training is different from yours."
+msgstr ""
+
+#: open_research/03/openhardware.md:66
+msgid "  As much as possible, try to write to a general audience, check your instructions for industry jargon, and be explicit about what you assume the user knows."
+msgstr ""
+
+#: open_research/03/openhardware.md:67
+# unordered list
+msgid "  - Format: The instructions could be in a variety of formats, such as a wiki, text file, Google Doc, or PDF."
+msgstr ""
+
+#: open_research/03/openhardware.md:68
+msgid "  Remember, though, that others might want to modify your instructions as they modify your hardware design, so it is good to provide the original editable files for your documentation, not just output formats like PDF."
+msgstr ""
+
+#: open_research/03/openhardware.md:70
+# header
+msgid "### Open source hardware processes and practices"
+msgstr ""
+
+#: open_research/03/openhardware.md:72
+# header
+msgid "#### Designing your hardware"
+msgstr ""
+
+#: open_research/03/openhardware.md:74
+msgid "If you are planning to open source a particular piece of hardware, following certain best practices in its design will make it easier for others to make and modify the hardware:"
+msgstr ""
+
+#: open_research/03/openhardware.md:76
+# unordered list
+msgid "- Use free and open source software design (CAD) tools where possible: If that is not feasible, try to use low-cost and/or widely-used software packages."
+msgstr ""
+
+#: open_research/03/openhardware.md:77
+# unordered list
+msgid "- Use standard and widely-available components, materials, and production processes: Try to avoid parts that are not available to individual customers or processes that require expensive setup costs."
+msgstr ""
+
+#: open_research/03/openhardware.md:79
+# header
+msgid "#### Hosting your design files"
+msgstr ""
+
+#: open_research/03/openhardware.md:81
+msgid "A basic way of sharing your files is with a zip file on your website."
+msgstr ""
+
+#: open_research/03/openhardware.md:82
+msgid "While this is a great start, it makes it difficult for others to follow your progress or to contribute improvements."
+msgstr ""
+
+#: open_research/03/openhardware.md:83
+msgid "Using an online source-code repository (like GitHub, GitLab, or NotaBug) may be a better place to store your open source hardware projects."
+msgstr ""
+
+#: open_research/03/openhardware.md:85
+# header
+msgid "#### Distributing open source hardware"
+msgstr ""
+
+#: open_research/03/openhardware.md:87
+# unordered list
+msgid "- Provide links to the source (original design files) for your hardware on the product itself, its packaging, or its documentation."
+msgstr ""
+
+#: open_research/03/openhardware.md:88
+# unordered list
+msgid "- Make it easy to find the source (original design files) from the website for a product."
+msgstr ""
+
+#: open_research/03/openhardware.md:89
+# unordered list
+msgid "- Label the hardware with a version number or release date so that people can match the physical object with the corresponding version of its design files."
+msgstr ""
+
+#: open_research/03/openhardware.md:90
+# unordered list
+msgid "- In general, clearly indicate which parts of a product are open source (and which are not)."
+msgstr ""
+
+#: open_research/04/openaccess.md:1
+# header
+msgid "## Open access"
+msgstr ""
+
+#: open_research/04/openaccess.md:3
+# header
+msgid "### What is open access?"
+msgstr ""
+
+#: open_research/04/openaccess.md:5
+msgid "One of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public if purchased by means of a subscription fee or individually."
+msgstr ""
+
+#: open_research/04/openaccess.md:6
+msgid "However, new knowledge is built by synthesizing current scholarship and then building upon it."
+msgstr ""
+
+#: open_research/04/openaccess.md:7
+msgid "At the turn of the 21st century a new movement appeared with a clear objective: make all the research results available to anyone interested in reading it, free of charge by any user, with no technical obstacles such as mandatory registration or login to specific platforms."
+msgstr ""
+
+#: open_research/04/openaccess.md:8
+msgid "This movement took the name of Open access and established two initial strategies to achieve its final goal: self-archiving and open access publishing."
+msgstr ""
+
+#: open_research/04/openaccess.md:10
+# header
+msgid "#### Repositories and self-archiving"
+msgstr ""
+
+#: open_research/04/openaccess.md:12
+msgid "The aim of the self-archiving movement is to provide tools and assistance to scholars to deposit their refereed journal articles in open electronic repositories."
+msgstr ""
+
+#: open_research/04/openaccess.md:13
+msgid "As a result of the first strategy we see self-archiving practices: researchers depositing and disseminating papers in institutional or subject based repositories."
+msgstr ""
+
+#: open_research/04/openaccess.md:14
+msgid "There has also been a growth in the publication of preprints through institutional repositories and preprint servers. "
+msgstr ""
+
+#: open_research/04/openaccess.md:15
+msgid "Preprints are widely used in physical sciences and now emerging in life sciences and other fields."
+msgstr ""
+
+#: open_research/04/openaccess.md:16
+msgid "Preprints are documents that have not been peer reviewed but are considered as a complete publication in a first stage."
+msgstr ""
+
+#: open_research/04/openaccess.md:17
+msgid "Some of the preprint servers include open peer review services and the availability to post new versions of the initial paper once reviewed by peers."
+msgstr ""
+
+#: open_research/04/openaccess.md:19
+msgid "At the beginning of 2019 more than 4000 repositories are available for researchers to self-archive their publications according to the [registry of open access repositories](http://roar.eprints.org/)."
+msgstr ""
+
+#: open_research/04/openaccess.md:20
+msgid "In this list there are institutional repositories, subject based or thematic repositories, and harvesters."
+msgstr ""
+
+#: open_research/04/openaccess.md:21
+msgid "Institutional repositories are generally managed by research performing institutions to provide to their community a place to archive and share openly papers and other research outputs."
+msgstr ""
+
+#: open_research/04/openaccess.md:22
+msgid "Subject based repositories are usually managed by research communities and most of the contents are related to a certain discipline."
+msgstr ""
+
+#: open_research/04/openaccess.md:23
+msgid "Finally, harvesters aggregate content from different repositories becoming sites to perform general searches and build other value-added services."
+msgstr ""
+
+#: open_research/04/openaccess.md:25
+msgid "When choosing a journal to publish research results, researchers should take a moment to read the journal policy regarding the transfer of copyright."
+msgstr ""
+
+#: open_research/04/openaccess.md:26
+msgid "Many journals still require for publication that authors transfer full copyright."
+msgstr ""
+
+#: open_research/04/openaccess.md:27
+msgid "This transfer of rights implies that authors must ask for permission to reuse their own work beyond what is allowed by the applicable law, unless there are some uses already granted."
+msgstr ""
+
+#: open_research/04/openaccess.md:28
+msgid "Such granted uses may include teaching purposes, sharing with colleagues, and self-archiving by researchers of their papers in repositories."
+msgstr ""
+
+#: open_research/04/openaccess.md:29
+msgid "Sometimes there a common policy among all the journals published by the same publishers but in general journals have their own policy, especially when they are published on behalf of a scientific society."
+msgstr ""
+
+#: open_research/04/openaccess.md:30
+msgid "When looking at the self-archiving conditions we must identify two key issues: the version of the paper that can be deposited and when it can be made publicly available."
+msgstr ""
+
+#: open_research/04/openaccess.md:32
+msgid "Regarding the version, some journals allow the dissemination of the submitted version, also known as a preprint, and they allow its replacement for a reviewed version once the final paper has been published."
+msgstr ""
+
+#: open_research/04/openaccess.md:33
+msgid "Due to the increase of policies requiring access to research results, most of the journals allow self-archiving of the accepted version of the paper, also known as the author manuscript or postprint."
+msgstr ""
+
+#: open_research/04/openaccess.md:34
+msgid "This version is the final text once the peer review process has ended but it has not the final layout of the publication. "
+msgstr ""
+
+#: open_research/04/openaccess.md:35
+msgid "Finally some journals do allow researchers to deposit the final published version, also known as the version of record."
+msgstr ""
+
+#: open_research/04/openaccess.md:37
+msgid "In relation to the moment to make the paper publicly available, many journals establish a period of time from its original publication - the embargo period, which can range from zero to 60 months - when making the paper publicly available is not permitted."
+msgstr ""
+
+#: open_research/04/openaccess.md:38
+msgid "Some journals include or exclude embargoes depending on the versions."
+msgstr ""
+
+#: open_research/04/openaccess.md:39
+msgid "For instance the accepted version could be made publicly available after publication but the published version must wait 12 months."
+msgstr ""
+
+#: open_research/04/openaccess.md:41
+# header
+msgid "#### Open access publishing"
+msgstr ""
+
+#: open_research/04/openaccess.md:43
+msgid "Open access publishing attempts to ensure permanent open access to all the articles published in journals, and as a result we have seen the creation of the open access journals."
+msgstr ""
+
+#: open_research/04/openaccess.md:44
+msgid "The number of open access journals has increased during the last years, according to the Directory of Open access Journals \\([DOAJ](http://www.doaj.org)\\), currently there are more than 12,000."
+msgstr ""
+
+#: open_research/04/openaccess.md:45
+msgid "Open access journal must provide free access to its contents but it also must licence them to allow reusability."
+msgstr ""
+
+#: open_research/04/openaccess.md:47
+msgid "Currently many paywalled journals offer individual open access options to researchers once the paper is accepted after peer review."
+msgstr ""
+
+#: open_research/04/openaccess.md:48
+msgid "Those options include the publication under a free content licence and free accessibility to anyone since its first publication."
+msgstr ""
+
+#: open_research/04/openaccess.md:49
+msgid "This model is commonly known as the hybrid model because in the same issue of a journal, readers can find open access and paywalled contributions."
+msgstr ""
+
+#: open_research/04/openaccess.md:50
+msgid "Usually publishers ask for a fee to open individual contributions."
+msgstr ""
+
+#: open_research/04/openaccess.md:52
+msgid "Open access publishing has two primary versions — gratis and libre."
+msgstr ""
+
+#: open_research/04/openaccess.md:53
+msgid "Gratis open access is simply making research available for others to read without having to pay for it."
+msgstr ""
+
+#: open_research/04/openaccess.md:54
+msgid "However, it does not grant the user the right to make copies, distribute, or modify the work in any way beyond fair use."
+msgstr ""
+
+#: open_research/04/openaccess.md:55
+msgid "Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users additional rights, usually via a Creative Commons licence, so that people are free to reuse and remix the research."
+msgstr ""
+
+#: open_research/04/openaccess.md:56
+msgid "There are varying degrees of what may be considered libre open access."
+msgstr ""
+
+#: open_research/04/openaccess.md:57
+msgid "For example, some scholarly articles may permit all uses except commercial use, some may permit all uses except derivative works, and some may permit all uses and simply require attribution."
+msgstr ""
+
+#: open_research/04/openaccess.md:58
+msgid "While some would argue that libre open access should be free of any copyright restrictions (except attribution), other scholars consider a work that removes at least some permission barriers to be libre."
+msgstr ""
+
+#: open_research/04/openaccess.md:60
+# header
+msgid "### Why does open access matter?"
+msgstr ""
+
+#: open_research/04/openaccess.md:62
+msgid "Research is useless if it’s not shared; even the best research is ineffectual if others aren’t able to read and build on it. "
+msgstr ""
+
+#: open_research/04/openaccess.md:63
+msgid "When price barriers keep articles locked away, research cannot achieve its full potential."
+msgstr ""
+
+#: open_research/04/openaccess.md:64
+msgid "Open access benefits researchers who can work more effectively with a better understanding of the literature."
+msgstr ""
+
+#: open_research/04/openaccess.md:65
+msgid "It also helps avoid duplication of effort."
+msgstr ""
+
+#: open_research/04/openaccess.md:66
+msgid "No researcher (or funder) wants to waste time and money conducting a study if they know it has been attempted elsewhere."
+msgstr ""
+
+#: open_research/04/openaccess.md:67
+msgid "But, duplication of effort is all-too-possible when researchers can’t effectively communicate with one another and make results known to others in their field and beyond."
+msgstr ""
+
+#: open_research/04/openaccess.md:68
+msgid "It also benefits researchers by providing better visibility and therefore higher impact/citation rate for their scholarship.  "
+msgstr ""
+
+#: open_research/04/openaccess.md:69
+msgid "Numerous publishers, both non-profit and for-profit, voluntarily make their articles openly available at the time of publication or within 6-12 months."
+msgstr ""
+
+#: open_research/04/openaccess.md:70
+msgid "Many have switched from a closed, subscription model to an open one as a strategic business decision to increase their journal's exposure and impact."
+msgstr ""
+
+#: open_research/04/openaccess.md:71
+msgid "Further it can be argued that taxpayers who pay for much of the research published in journals have a right to access the information resulting from that investment without charge."
+msgstr ""
+
+#: open_research/04/openaccess.md:72
+msgid "Finally, if research is available to the widest possible pool of readers then it is more likely/easy for it to be checked and reproduced.  "
+msgstr ""
+
+#: open_research/04/openaccess.md:74
+# header
+msgid "### Best practice for open access"
+msgstr ""
+
+#: open_research/04/openaccess.md:76
+# header
+msgid "#### Self-archiving"
+msgstr ""
+
+#: open_research/04/openaccess.md:78
+msgid "Self-archive a publication in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher, for example an embargo period, or limits on the allowed version to be deposited in such archives."
+msgstr ""
+
+#: open_research/04/openaccess.md:79
+msgid "In doing this it is important to make sure you are aware of the copyright implications of any documents/agreements you make when submitting your manuscript to a journal."
+msgstr ""
+
+#: open_research/04/openaccess.md:80
+msgid "If your institution does not have an institutional repository, advocate for the creation of one."
+msgstr ""
+
+#: open_research/04/openaccess.md:82
+# header
+msgid "#### Publication"
+msgstr ""
+
+#: open_research/04/openaccess.md:84
+msgid "Consider submitting your work to a journal that is open access."
+msgstr ""
+
+#: open_research/04/openaccess.md:85
+msgid "When doing this be aware that there may be funds or discounts available to cover any associated costs."
+msgstr ""
+
+#: open_research/05/opennotebooks.md:1
+# header
+msgid "## Open notebooks"
+msgstr ""
+
+#: open_research/05/opennotebooks.md:3
+msgid "Electronic Lab Notebooks (ELNs) enable researchers to organize and store experimental procedures, protocols, plans, notes, data, and even unfiltered interpretations using their computer or mobile device."
+msgstr ""
+
+#: open_research/05/opennotebooks.md:4
+msgid "They are a digital analogue to the paper notebook most researchers keep."
+msgstr ""
+
+#: open_research/05/opennotebooks.md:5
+msgid "ELNs can offer several advantages over the traditional paper notebook in documenting research during the active phase of a project, including searchability within and across notebooks, secure storage with multiple redundancies, remote access to notebooks, and the ability to easily share notebooks among team members and collaborators."
+msgstr ""
+
+#: open_research/05/opennotebooks.md:7
+msgid "Open notebook research is simply the practice of making such notebooks openly available, usually online."
+msgstr ""
+
+#: open_research/05/opennotebooks.md:8
+msgid "Some researchers choose to keep their notebooks open from the very beginning of their projects."
+msgstr ""
+
+#: open_research/05/opennotebooks.md:9
+msgid "Rather than wait months, even years, to share their research through journal publication as is the current practice, this allows researchers to post their experimental data and protocols online and in real-time."
+msgstr ""
+
+#: open_research/05/opennotebooks.md:10
+msgid "Sharing research in this open and timely manner helps to reduce duplication of work, helps foster new collaborations, and cultivates a more open dialogue with others."
+msgstr ""
+
+#: open_research/05/opennotebooks.md:11
+msgid "It also helps researchers avoid making exploring dead ends and making mistakes that have already been covered by their colleague, but went unpublished because of lack of scientific interest."
+msgstr ""
+
+#: open_research/05/opennotebooks.md:13
+msgid "Open notebooks have the further benefit of increasing the quality of scientific outputs by forcing researchers to be careful, thorough, and explicit."
+msgstr ""
+
+#: open_research/05/opennotebooks.md:14
+msgid "Making research open has the added benefit of increasing the likelihood that any errors made in an investigation will be spotted quickly, instead of down the line."
+msgstr ""
+
+#: open_research/05/opennotebooks.md:15
+msgid "Immediate fixes will have much less impact on a research project, which will save a research time, the lab money, and pride."
+msgstr ""
+
+#: open_research/05/opennotebooks.md:17
+msgid "Ideally, every scientist would maintain an open notebook in real-time which would encompass all aspects of their research."
+msgstr ""
+
+#: open_research/05/opennotebooks.md:18
+msgid "But many fears about dealing with complete open access, conflicts with intellectual property and publications, and online data overload hamper this movement."
+msgstr ""
+
+#: open_research/05/opennotebooks.md:19
+msgid "To combat this, practitioners encourage any form of open notebook research, \"make open what you can\", even if that means uploading some information for a project from many years ago that never saw the light of day."
+msgstr ""
+
+#: open_research/06/openscholarship.md:1
+# header
+msgid "## Open scholarship"
+msgstr ""
+
+#: open_research/06/openscholarship.md:3
+msgid "Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship."
+msgstr ""
+
+#: open_research/06/openscholarship.md:5
+msgid "![open_umbrella](../../figures/open_umbrella.png)"
+msgstr ""
+
+#: open_research/06/openscholarship.md:7
+# header
+msgid "### Open educational resources"
+msgstr ""
+
+#: open_research/06/openscholarship.md:9
+msgid "Open educational resources (OERs) are teaching and learning materials that can be freely used and reused for learning and/or teaching at no cost, and without needing to ask permission. Examples are courses, including Massive Online Open Courses (MOOCs), lectures, teaching materials, assignments, and various other resources. OERs are available in many different formats compatible with online usage, most obviously text, images, audio, and video. Anyone with internet access can access and use OERs; access is not dependent on location or membership of a particular institution."
+msgstr ""
+
+#: open_research/06/openscholarship.md:11
+msgid "Unlike copyrighted resources, OERs have been authored or created by an individual or organization that chooses to retain few, if any, ownership rights. In some cases, that means anyone can download a resource and share it with colleagues and students. In other cases, this may go further and enable people to edit resources and then re-post them as a remixed work. How do you know your options? OERs often have a Creative Commons licence or other permission to let you know how the material may be used, reused, adapted, and shared."
+msgstr ""
+
+#: open_research/06/openscholarship.md:13
+msgid "Fully open OERs comply with the 5 Rs:"
+msgstr ""
+
+#: open_research/06/openscholarship.md:15
+# unordered list
+msgid "- Retain: the right to make, own, and control copies of the content."
+msgstr ""
+
+#: open_research/06/openscholarship.md:16
+# unordered list
+msgid "- Reuse: the right to use the content in a wide range of ways (for example, in a class, in a study group, on a website, in a video)."
+msgstr ""
+
+#: open_research/06/openscholarship.md:17
+# unordered list
+msgid "- Revise: the right to adapt, adjust, modify, or alter the content itself (for example, translate the content into another language)."
+msgstr ""
+
+#: open_research/06/openscholarship.md:18
+# unordered list
+msgid "- Remix: the right to combine the original or revised content with other open content to create something new (for example, incorporate the content into a mashup)."
+msgstr ""
+
+#: open_research/06/openscholarship.md:19
+# unordered list
+msgid "- Redistribute: the right to share copies of the original content, your revisions, or your remixes with others (for example, give a copy of the content to a friend)."
+msgstr ""
+
+#: open_research/06/openscholarship.md:21
+msgid "Researchers generate a great deal of educational resources in the course of teaching students and each other (at workshops, for example)."
+msgstr ""
+
+#: open_research/06/openscholarship.md:22
+msgid "By making these openly available, for example in the [open educational resource commons](https://www.oercommons.org/), the wider community can benefit from them in three main ways:"
+msgstr ""
+
+#: open_research/06/openscholarship.md:24
+# ordered list
+msgid "1. Most obviously, the community can use the materials to learn about the material they cover."
+msgstr ""
+
+#: open_research/06/openscholarship.md:25
+# ordered list
+msgid "2. Sharing resources reduces duplication of effort."
+msgstr ""
+
+#: open_research/06/openscholarship.md:26
+msgid "If an educator needs materials for teaching and such materials already exist openly then they need not make their own from scratch, saving time."
+msgstr ""
+
+#: open_research/06/openscholarship.md:27
+# ordered list
+msgid "3. Making materials openly available helps a community build better resources by improving resources that already exist and combining OERs to take advantage of their different strengths, such as a great diagram or explanation."
+msgstr ""
+
+#: open_research/06/openscholarship.md:29
+msgid "Beyond the raw practical benefits the worldwide OER movement is rooted in the human right to access high-quality education. "
+msgstr ""
+
+#: open_research/06/openscholarship.md:30
+msgid "This shift in educational practice is about participation and co-creation."
+msgstr ""
+
+#: open_research/06/openscholarship.md:31
+msgid "Open Educational Resources (OERs) offer opportunities for systemic change in teaching and learning content through engaging educators in new participatory processes and effective technologies for engaging with learning."
+msgstr ""
+
+#: open_research/06/openscholarship.md:33
+# header
+msgid "### Equity, diversity, inclusion"
+msgstr ""
+
+#: open_research/06/openscholarship.md:35
+msgid "Open scholarship means open to *everyone* without discrimination based on factors such as race, gender, sexual orientation, or any number of other factors."
+msgstr ""
+
+#: open_research/06/openscholarship.md:36
+msgid "As a community we should undertake to ensure equitable opportunities for all."
+msgstr ""
+
+#: open_research/06/openscholarship.md:37
+msgid "We can go about that by deliberately fostering welcoming, inclusive cultures within out communities."
+msgstr ""
+
+#: open_research/06/openscholarship.md:38
+msgid "For example, reasonable accommodations should be made wherever possible to include community members with disabilities to enable them to participate fully, and this can be as simple as choosing colourblind-safe colour schemes when making graphs."
+msgstr ""
+
+#: open_research/06/openscholarship.md:40
+# header
+msgid "### Citizen science"
+msgstr ""
+
+#: open_research/06/openscholarship.md:42
+msgid "Citizen science is the involvement of the public in scientific research – whether community-driven research or global investigations, the Oxford English Dictionary recently defined it as: \"scientific work undertaken by members of the general public, often in collaboration with or under the direction of professional scientists and scientific institutions\"."
+msgstr ""
+
+#: open_research/06/openscholarship.md:43
+msgid "Citizen science offers the power of science to everyone, and the power of everyone to science."
+msgstr ""
+
+#: open_research/06/openscholarship.md:45
+msgid "By allowing members of the public to contribute to scientific research, citizen science helps engage and invest the wider world in science."
+msgstr ""
+
+#: open_research/06/openscholarship.md:46
+msgid "It also benefits researchers by offering manpower that simply would not be accessible otherwise."
+msgstr ""
+
+#: open_research/06/openscholarship.md:47
+msgid "Examples of this include [finding](https://citizensciencegames.com/games/eterna/) ways of folding molecules, and [classifying](https://www.zooniverse.org/) different types of galaxies."
+msgstr ""
+
+#: open_research/06/openscholarship.md:49
+# header
+msgid "### Patient and Public Involvement"
+msgstr ""
+
+#: open_research/06/openscholarship.md:50
+msgid "Whilst citizen science encompasses one way of contributing to scientific research, Patient and Public Involvement (PPI) is a far more specialised form of citizen science which is particularly useful when doing research on health and/or social issues."
+msgstr ""
+
+#: open_research/06/openscholarship.md:52
+msgid "PPI is *not*:"
+msgstr ""
+
+#: open_research/06/openscholarship.md:53
+# unordered list
+msgid "- Participation: Recruitment of participants (such as for a clinical trial or survey) to contribute data to a project."
+msgstr ""
+
+#: open_research/06/openscholarship.md:54
+# unordered list
+msgid "- Engagement: Dissemination, such as presenting at patient interest groups or writing a blog post."
+msgstr ""
+
+#: open_research/06/openscholarship.md:56
+msgid "PPI *is*:"
+msgstr ""
+
+#: open_research/06/openscholarship.md:57
+# unordered list
+msgid "- Involvement: patients and members of the public contribute at *all* stages of the research cycle."
+msgstr ""
+
+#: open_research/06/openscholarship.md:59
+msgid "When incorporating PPI into research, researchers work *with* volunteers, rather than doing work *about* them."
+msgstr ""
+
+#: open_research/06/openscholarship.md:60
+msgid "PPI volunteers are usually patients or members of the public with a particular interest in some area of research which means that the topic is often very personal, and being involved in the research cycle can be an empowering experience."
+msgstr ""
+
+#: open_research/06/openscholarship.md:61
+msgid "For the researcher, PPI often generates unique and invaluable insights from the volunteers' own personal expertise which cannot always be predicted by the researchers themselves."
+msgstr ""
+
+#: open_research/06/openscholarship.md:63
+msgid "It is a good idea to consider PPI very early in a project, ideally before any grant applications or submissions for ethical approval have been written."
+msgstr ""
+
+#: open_research/06/openscholarship.md:64
+msgid "PPI volunteers can help researchers in many ways, such as the following:"
+msgstr ""
+
+#: open_research/06/openscholarship.md:65
+# ordered list
+msgid "1. Generate or shape research questions."
+msgstr ""
+
+#: open_research/06/openscholarship.md:66
+# ordered list
+msgid "2. Contribute to, or review, study design."
+msgstr ""
+
+#: open_research/06/openscholarship.md:67
+# ordered list
+msgid "3. Help with grant applications or submissions to research ethics committees (particularly the lay summary)."
+msgstr ""
+
+#: open_research/06/openscholarship.md:68
+# ordered list
+msgid "4. Collect data."
+msgstr ""
+
+#: open_research/06/openscholarship.md:69
+# ordered list
+msgid "5. Analyse data."
+msgstr ""
+
+#: open_research/06/openscholarship.md:70
+# ordered list
+msgid "6. Contribute to the manuscript and be listed as a co-author."
+msgstr ""
+
+#: open_research/06/openscholarship.md:71
+# ordered list
+msgid "7. Disseminate findings in plain English."
+msgstr ""
+
+#: open_research/06/openscholarship.md:73
+msgid "One of the biggest barriers to PPI is not knowing how to get started."
+msgstr ""
+
+#: open_research/06/openscholarship.md:74
+msgid "The UK National Institute for Health Research have their own site, [INVOLVE](https://www.invo.org.uk/), to help familiarise yourself with the foundations of PPI."
+msgstr ""
+
+#: open_research/06/openscholarship.md:75
+msgid "Additionally, charities related to your specific research field may be able to facilitate or support PPI; for example [Cancer Research UK](https://www.cancerresearchuk.org/funding-for-researchers/patient-involvement-toolkit-for-researchers) and [Parkinson's UK](https://www.parkinsons.org.uk/research/patient-and-public-involvement-ppi) have formal guides in place that provide a comprehensive overview of PPI."
+msgstr ""
+
+#: open_research/07/resources.md:1
+# header
+msgid "## Checklists"
+msgstr ""
+
+#: open_research/07/resources.md:3
+# header
+msgid "### Open data"
+msgstr ""
+
+#: open_research/07/resources.md:5
+# unordered list
+msgid "- [ ] Ensure your data is in a simple, standard format or formats which is machine and human readable."
+msgstr ""
+
+#: open_research/07/resources.md:6
+# unordered list
+msgid "- [ ] Check, reformat or create metadata to clearly describe what the data is, how it was collected, and any associated strengths/weaknesses to someone that finds it."
+msgstr ""
+
+#: open_research/07/resources.md:7
+# unordered list
+msgid "- [ ] Identify a relevant, easily discoverable repository or repositories to host your data, and upload it there."
+msgstr ""
+
+#: open_research/07/resources.md:8
+# unordered list
+msgid "- [ ] Assign your data a persistent identifier such as a DOI."
+msgstr ""
+
+#: open_research/07/resources.md:10
+# header
+msgid "### Open source software"
+msgstr ""
+
+#: open_research/07/resources.md:12
+# unordered list
+msgid "- [ ] Put your code in a freely accessible repository."
+msgstr ""
+
+#: open_research/07/resources.md:13
+#: open_research/07/resources.md:21
+# unordered list
+msgid "- [ ] Include a licence granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate licence for your project."
+msgstr ""
+
+#: open_research/07/resources.md:14
+# unordered list
+msgid "- [ ] Include a readme file containing useful information about a project such as what it is, how to use/install it and how to run any tests."
+msgstr ""
+
+#: open_research/07/resources.md:15
+# unordered list
+msgid "- [ ] If you want others to collaborate on the project include contribution guidelines."
+msgstr ""
+
+#: open_research/07/resources.md:17
+# header
+msgid "### Open hardware"
+msgstr ""
+
+#: open_research/07/resources.md:19
+# unordered list
+msgid "- [ ] Use open hardware where practical."
+msgstr ""
+
+#: open_research/07/resources.md:20
+# unordered list
+msgid "- [ ] Make detailed documentation and designs for any hardware you develop openly available."
+msgstr ""
+
+#: open_research/07/resources.md:22
+# unordered list
+msgid "- [ ] Include a readme file containing useful information about a project (for example, what it is and the materials used)."
+msgstr ""
+
+#: open_research/07/resources.md:24
+# header
+msgid "### Open access"
+msgstr ""
+
+#: open_research/07/resources.md:26
+# unordered list
+msgid "- [ ] Publish your research in an open access journal."
+msgstr ""
+
+#: open_research/07/resources.md:27
+# unordered list
+msgid "- [ ] Store a copy and/or preprint of your work in a freely accessible public repository."
+msgstr ""
+
+#: open_research/07/resources.md:29
+# header
+msgid "### Open notebooks"
+msgstr ""
+
+#: open_research/07/resources.md:31
+# unordered list
+msgid "- [ ] Keep notes in an Electronic Lab Notebook."
+msgstr ""
+
+#: open_research/07/resources.md:32
+# unordered list
+msgid "- [ ] Make your notebooks publicly accessible online."
+msgstr ""
+
+#: open_research/07/resources.md:34
+# header
+msgid "## What to learn next"
+msgstr ""
+
+#: open_research/07/resources.md:36
+msgid "If you haven't had a chance already, take a look at the chapter on [version control](/version_control/version_control), particularly the sections on GitHub in the latter half."
+msgstr ""
+
+#: open_research/07/resources.md:38
+# header
+msgid "## Further reading"
+msgstr ""
+
+#: open_research/07/resources.md:40
+msgid "[This](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) book on open science has a great deal of interesting information."
+msgstr ""
+
+#: open_research/07/resources.md:41
+msgid "For information specific to open source software [this](https://opensource.guide/) is a good place to look."
+msgstr ""
+
+#: open_research/07/resources.md:42
+msgid "For more information on DOIs and citing resources look [here](http://www.doi.org/index.html)."
+msgstr ""
+
+#: open_research/07/resources.md:43
+msgid "If you want to take a look at an active open source project this textbook *is* one."
+msgstr ""
+
+#: open_research/07/resources.md:44
+msgid "The source can be found on GitHub [here](https://github.com/alan-turing-institute/the-turing-way) and for further details related to this project you can take a look at the project [website](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)."
+msgstr ""
+
+#: open_research/07/resources.md:46
+# header
+msgid "## Definitions/glossary"
+msgstr ""
+
+#: open_research/07/resources.md:48
+# unordered list
+msgid "- **Citizen science:** The involvement of members of the public in scientific research."
+msgstr ""
+
+#: open_research/07/resources.md:49
+# unordered list
+msgid "- **Contributing guidelines:** Guidelines outlining how a person should go about contributing to an open source project."
+msgstr ""
+
+#: open_research/07/resources.md:50
+# unordered list
+msgid "- **Contributor:** Someone that has contributed something (not necessarily code) to an open source project."
+msgstr ""
+
+#: open_research/07/resources.md:51
+# unordered list
+msgid "- **DOI:** A widely used type of persistent identifier."
+msgstr ""
+
+#: open_research/07/resources.md:52
+# unordered list
+msgid "- **GitHub:** An online code hosting and version control service. It has a great many features to aid collaboration between users, and hosts a large number of open source projects."
+msgstr ""
+
+#: open_research/07/resources.md:53
+# unordered list
+msgid "- **Maintainer:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. They may also be authors and/or owners of the project."
+msgstr ""
+
+#: open_research/07/resources.md:54
+# unordered list
+msgid "- **Metadata:** Data used to describe other data. For example (35, 33, 27, 30, 33) is data but the units (miles per hour) and the fact these are the speeds of cars on a certain stretch of road is metadata."
+msgstr ""
+
+#: open_research/07/resources.md:55
+# unordered list
+msgid "- **Open access publishing (gratis):** The practice of making research publications available to anyone to read without charge."
+msgstr ""
+
+#: open_research/07/resources.md:56
+# unordered list
+msgid "- **Open access publishing (libre):** Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users the right to copy, reuse, and remix the publication."
+msgstr ""
+
+#: open_research/07/resources.md:57
+# unordered list
+msgid "- **Open data:** Data that is freely available online for reuse without bureaucratic or administrative barriers."
+msgstr ""
+
+#: open_research/07/resources.md:58
+# unordered list
+msgid "- **Open educational resource:** Educational materials available online for anybody to use, remix and distribute."
+msgstr ""
+
+#: open_research/07/resources.md:59
+# unordered list
+msgid "- **Open notebook:** The practise of making research notebooks openly available."
+msgstr ""
+
+#: open_research/07/resources.md:60
+# unordered list
+msgid "- **Open source software:** Software which is available online for anybody to view, use, modify, and distribute."
+msgstr ""
+
+#: open_research/07/resources.md:61
+# unordered list
+msgid "- **Open source hardware:** Hardware with documentation, designs, materials used, and other relevant information freely accessible and available"
+msgstr ""
+
+#: open_research/07/resources.md:62
+# unordered list
+msgid "- **Persistent identifier:** A long-lived method for identifying a resource that is unique, and widely understandable by a community."
+msgstr ""
+
+#: open_research/07/resources.md:63
+# unordered list
+msgid "- **Readme:** A file which contains useful information about a project such as what it is, how to use/install it, how to test it, and how to contribute to it."
+msgstr ""
+
+#: open_research/07/resources.md:64
+# unordered list
+msgid "- **Repository:** A long-lived place on the internet where resources (be they data, software, publications or anything else) can be stored and accessed."
+msgstr ""
+
+#: open_research/07/resources.md:65
+# unordered list
+msgid "- **Self-archive:** To place your research output in a repository."
+msgstr ""
+
+#: open_research/07/resources.md:67
+# header
+msgid "## Bibliography"
+msgstr ""
+
+#: open_research/07/resources.md:68
+# unordered list
+msgid "- [1.](https://www.fosteropenscience.eu/content/what-open-science-introduction) **CC-BY 4.0**"
+msgstr ""
+
+#: open_research/07/resources.md:69
+# unordered list
+msgid "- [2.](https://open-science-training-handbook.gitbook.io/book/introduction) **CC 1.0**"
+msgstr ""
+
+#: open_research/07/resources.md:70
+# unordered list
+msgid "- [3.](https://www.fosteropenscience.eu/content/introduction-open-science-funders-introductory) **Attribution + Noncommercial - CC-BY-NC**"
+msgstr ""
+
+#: open_research/07/resources.md:71
+# unordered list
+msgid "- [4.](https://link.springer.com/chapter/10.1007/978-3-319-00026-8_2) **Creative Commons Attribution Noncommercial Licence**"
+msgstr ""
+
+#: open_research/07/resources.md:72
+# unordered list
+msgid "- [5.](https://elifesciences.org/articles/16800) **Attribution 4.0 International (CC BY 4.0)**"
+msgstr ""
+
+#: open_research/07/resources.md:73
+# unordered list
+msgid "- [6.](https://www.fosteropenscience.eu/content/introduction-open-science-funders-introductory) **Attribution + Noncommercial - CC-BY-NC**"
+msgstr ""
+
+#: open_research/07/resources.md:74
+# unordered list
+msgid "- [7.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/vision/open_research_data.html) **Creative Commons Attribution-NonCommercical**"
+msgstr ""
+
+#: open_research/07/resources.md:75
+# unordered list
+msgid "- [8.](http://opendatahandbook.org/guide/en/what-is-open-data/) **CC Attribution 4.0 International Licence**"
+msgstr ""
+
+#: open_research/07/resources.md:76
+# unordered list
+msgid "- [9.](https://opendatacharter.net/) **Creative Commons Attribution 4.0 International Licence**"
+msgstr ""
+
+#: open_research/07/resources.md:77
+# unordered list
+msgid "- [10.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/making_data_citeable.html) **Creative Commons Attribution-NonCommercical**"
+msgstr ""
+
+#: open_research/07/resources.md:78
+# unordered list
+msgid "- [11.](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/cases_recipes_howtos/challenges_of_open_data_in_medical_research.html) **Creative Commons Attribution-NonCommercical**"
+msgstr ""
+
+#: open_research/07/resources.md:79
+# unordered list
+msgid "- [12.](http://www.dcc.ac.uk/resources/how-guides/cite-datasets) **Creative Commons**"
+msgstr ""
+
+#: open_research/07/resources.md:80
+# unordered list
+msgid "- [13.](https://www.open-contracting.org/2016/09/19/diving-deeper-commercial-confidentiality/) **Creative Commons Attribution 4.0 International Licence**"
+msgstr ""
+
+#: open_research/07/resources.md:81
+# unordered list
+msgid "- [14.](https://ben.balter.com/2015/11/23/why-open-source/) **CC BY 3.0**"
+msgstr ""
+
+#: open_research/07/resources.md:82
+# unordered list
+msgid "- [15.](https://opensource.guide/starting-a-project/) **(CC BY 4.0)**"
+msgstr ""
+
+#: open_research/07/resources.md:83
+# unordered list
+msgid "- [16.](https://opensource.guide/) **(CC BY 4.0)**"
+msgstr ""
+
+#: open_research/07/resources.md:84
+# unordered list
+msgid "- [17.](https://opensource.com/resources/what-open-access) **Attribution-ShareAlike 4.0 International**"
+msgstr ""
+
+#: open_research/07/resources.md:85
+# unordered list
+msgid "- [18.](http://www.righttoresearch.org/learn/whyOA/index.shtml) **Creative Commons Attribution 3.0 Licence**"
+msgstr ""
+
+#: open_research/07/resources.md:86
+# unordered list
+msgid "- [19.](https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-access-to-published-research-results) **CC0 1.0 Universal**"
+msgstr ""
+
+#: open_research/07/resources.md:87
+# unordered list
+msgid "- [20.](https://www.oercommons.org/about) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Licence**"
+msgstr ""
+
+#: open_research/07/resources.md:88
+# unordered list
+msgid "- [21.](https://libguides.ioe.ac.uk/oer)  **Creative CommonsAttribution-NonCommercial-ShareAlike 2.0 UK: England & Wales (CC BY-NC-SA 2.0 UK)**"
+msgstr ""
+
+#: open_research/07/resources.md:89
+# unordered list
+msgid "- [22.](https://opencontent.org/blog/archives/3221) **Creative Commons Attribution licence version 4.0**"
+msgstr ""
+
+#: open_research/07/resources.md:90
+# unordered list
+msgid "- [23.](https://opensource.com/resources/what-open-hardware) **CC BY-SA 4.0**"
+msgstr ""
+
+#: open_research/07/resources.md:91
+# unordered list
+msgid "- [24.](https://opensource.com/article/17/8/enterprise-open-source-advantages) **CC BY-SA 4.0**"
+msgstr ""
+
+#: open_research/07/resources.md:92
+# unordered list
+msgid "- [25.](https://www.oshwa.org/sharing-best-practices/) **Creative Commons Attribution-ShareAlike 4.0 International Licence**"
+msgstr ""
+
+#: open_research/07/resources.md:93
+# unordered list
+msgid "- [26.](https://openlabnotebooks.org/open-science-at-sgc/) **CC BY 4.0**"
+msgstr ""
+
+#: open_research/07/resources.md:94
+# unordered list
+msgid "- [27.](http://onsnetwork.org/) **Attribution 3.0 Unported (CC BY 3.0)**"
+msgstr ""
+
+#: open_research/07/resources.md:95
+# unordered list
+msgid "- [28.](https://libraries.mit.edu/data-management/store/electronic-lab-notebooks/) **CC BY-NC 2.0**"
+msgstr ""
+
+#: open_research/07/resources.md:96
+# unordered list
+msgid "- [29.](https://www.citizenscience.org/) **(CC BY 4.0)**"
+msgstr ""
+
+#: open_research/07/resources.md:98
+# header
+msgid "## Footnotes"
+msgstr ""
+
+#: open_research/07/resources.md:100
+# ordered list
+msgid "1. References by discipline: Agricultural studies (Kousha and Abdoli, 2010); Physics/astronomy (Gentil-Beccot et al., 2010; Harnad and Brody, 2004; Metcalfe, 2006); Medicine (Sahu et al., 2005; Xu et al., 2011); Computer science (Lawrence, 2001); Sociology/social sciences (Hajjem et al., 2006; Norris et al., 2008; Xu et al., 2011); Psychology (Hajjem et al., 2006); Political science (Hajjem et al., 2006; Antelman, 2004; Atchison and Bull, 2015); Management (Hajjem et al., 2006); Law (Donovan et al., 2015; Hajjem et al., 2006); Economics (Hajjem et al., 2006; McCabe and Snyder, 2015; Norris et al., 2008; Wohlrabe, 2014); Mathematics (Antelman, 2004; Davis and Fromerth, 2007; Norris et al., 2008); Health (Hajjem et al., 2006); Engineering (Antelman, 2004; Koler-Povh et al., 2014); Philosophy (Antelman, 2004); Education (Hajjem et al., 2006; Zawacki-Richter et al., 2010); Business (Hajjem et al., 2006; McCabe and Snyder, 2015); Communication studies (Zhang, 2006); Ecology (McCabe and Snyder, 2014; Norris et al., 2008); Biology (Frandsen, 2009b; Hajjem et al., 2006; McCabe and Snyder, 2014)."
+msgstr ""
+
+#: open_research/open_research.md:1
+# header
+msgid "# Open research"
+msgstr ""
+
+#: open_research/open_research.md:3
+# header
+msgid "## Prerequisites / recommended skill level"
+msgstr ""
+
+#: open_research/open_research.md:5
+msgid "| Prerequisite | Importance | Notes |"
+msgstr ""
+
+#: open_research/open_research.md:6
+msgid "| -------------|----------|------|"
+msgstr ""
+
+#: open_research/open_research.md:7
+msgid "| [Experience with version control](/version_control/version_control) | Helpful | Experience with GitHub is particularly useful |"
+msgstr ""
+
+#: open_research/open_research.md:9
+msgid "Recommended skill level: low."
+msgstr ""
+
+#: open_research/open_research.md:11
+# header
+msgid "## Table of contents"
+msgstr ""
+
+#: open_research/open_research.md:13
+# ordered list
+msgid "1. [Summary](#summary)"
+msgstr ""
+
+#: open_research/open_research.md:14
+# ordered list
+msgid "2. [How this will help you/ why this is useful](#how-this-will-help-you--why-this-is-useful)"
+msgstr ""
+
+#: open_research/open_research.md:15
+# ordered list
+msgid "3. [Open data](/open_research/01/opendata#open-data)"
+msgstr ""
+
+#: open_research/open_research.md:16
+msgid "    1. [Steps to make your data open](/open_research/01/opendata#steps-to-make-your-data-open)"
+msgstr ""
+
+#: open_research/open_research.md:17
+msgid "        1. [Step 1: Make your data available](/open_research/01/opendata#step-1-make-your-data-available)"
+msgstr ""
+
+#: open_research/open_research.md:18
+msgid "        2. [Step 2: Make your data easy to understand](/open_research/01/opendata#step-2-make-your-data-easy-to-understand)"
+msgstr ""
+
+#: open_research/open_research.md:19
+msgid "        3. [Step 3: Make your data easy to use](/open_research/01/opendata#step-3-make-your-data-easy-to-use)"
+msgstr ""
+
+#: open_research/open_research.md:20
+msgid "        4. [Step 4: Make your data citeable](/open_research/01/opendata#step-4-make-your-data-citeable)"
+msgstr ""
+
+#: open_research/open_research.md:21
+msgid "    2. [Barriers to data sharing](/open_research/01/opendata#barriers-to-data-sharing)"
+msgstr ""
+
+#: open_research/open_research.md:22
+msgid "        1. [Privacy](/open_research/01/opendata#privacy)"
+msgstr ""
+
+#: open_research/open_research.md:23
+msgid "        2. [National and commercially sensitive data](/open_research/01/opendata#national-and-commercially-sensitive-data)"
+msgstr ""
+
+#: open_research/open_research.md:24
+# ordered list
+msgid "4. [Open source software](/open_research/02/opensourcesoftware#open-source-software)"
+msgstr ""
+
+#: open_research/open_research.md:25
+msgid "    1. [What is open source software?](/open_research/02/opensourcesoftware.html#what-is-open-source-software)"
+msgstr ""
+
+#: open_research/open_research.md:26
+msgid "    2. [How running and contributing to open source software projects benefits you](/open_research/02/opensourcesoftware.html#how-running-and-contributing-to-open-source-software-projects-benefits-you)"
+msgstr ""
+
+#: open_research/open_research.md:27
+msgid "        1. [Making your own work open source](/open_research/02/opensourcesoftware.html#making-your-own-work-open-source)"
+msgstr ""
+
+#: open_research/open_research.md:28
+msgid "        2. [Contributing to others' open source software projects](/open_research/02/opensourcesoftware.html#contributing-to-others-open-source-software-projects)"
+msgstr ""
+
+#: open_research/open_research.md:29
+msgid "    3. [How open source software benefits research](/open_research/02/opensourcesoftware.html#how-open-source-software-benefits-research)"
+msgstr ""
+
+#: open_research/open_research.md:30
+msgid "    4. [How to run your own open source software project](/open_research/02/opensourcesoftware.html#how-to-run-your-own-open-source-software-project)"
+msgstr ""
+
+#: open_research/open_research.md:31
+msgid "        1. [Welcome users by adding information to your README](/open_research/02/opensourcesoftware.html#welcome-users-by-adding-information-to-your-readme)"
+msgstr ""
+
+#: open_research/open_research.md:32
+msgid "        2. [Contributing guidelines](/open_research/02/opensourcesoftware.html#contributing-guidelines)"
+msgstr ""
+
+#: open_research/open_research.md:33
+msgid "        3. [Code of conduct](/open_research/02/opensourcesoftware.html#code-of-conduct)"
+msgstr ""
+
+#: open_research/open_research.md:34
+msgid "    5. [How to contribute to other's open source software projects](/open_research/02/opensourcesoftware.html#how-to-contribute-to-others-open-source-software-projects)"
+msgstr ""
+
+#: open_research/open_research.md:35
+msgid "        1. [Anatomy of an open source software project](/open_research/02/opensourcesoftware.html#anatomy-of-an-open-source-software-project)"
+msgstr ""
+
+#: open_research/open_research.md:36
+msgid "        2. [Contribute your changes](/open_research/02/opensourcesoftware.html#contribute-your-changes)"
+msgstr ""
+
+#: open_research/open_research.md:37
+msgid "        3. [Looking for projects to contribute to and how to contribute to them](/open_research/02/opensourcesoftware.html#looking-for-projects-to-contribute-to-and-how-to-contribute-to-them)"
+msgstr ""
+
+#: open_research/open_research.md:38
+msgid "    6. [Closed software](/open_research/02/opensourcesoftware.html#closed-software)"
+msgstr ""
+
+#: open_research/open_research.md:39
+# ordered list
+msgid "5. [Open hardware](/open_research/03/openhardware#open-hardware)"
+msgstr ""
+
+#: open_research/open_research.md:40
+msgid "    1. [Why open hardware?](/open_research/03/openhardware#why-open-hardware)"
+msgstr ""
+
+#: open_research/open_research.md:41
+msgid "    2. [Elements of an open source hardware project](/open_research/03/openhardware#elements-of-an-open-source-hardware-project)"
+msgstr ""
+
+#: open_research/open_research.md:42
+msgid "    3. [Open source hardware processes and practices](/open_research/03/openhardware#open-source-hardware-processes-and-practices)"
+msgstr ""
+
+#: open_research/open_research.md:43
+msgid "        1. [Designing your hardware](/open_research/03/openhardware#designing-your-hardware)"
+msgstr ""
+
+#: open_research/open_research.md:44
+msgid "        2. [Hosting your design file](/open_research/03/openhardware#hosting-your-design-files)"
+msgstr ""
+
+#: open_research/open_research.md:45
+msgid "        3. [Distributing open source hardware](/open_research/03/openhardware#distributing-open-source-hardware)"
+msgstr ""
+
+#: open_research/open_research.md:46
+# ordered list
+msgid "6. [Open access](/open_research/04/openaccess#open-access)"
+msgstr ""
+
+#: open_research/open_research.md:47
+msgid "    1. [What is open access?](/open_research/04/openaccess#what-is-open-access)"
+msgstr ""
+
+#: open_research/open_research.md:48
+msgid "        1. [Repositories and self-archiving](/open_research/04/openaccess#repositories-and-self-archiving)"
+msgstr ""
+
+#: open_research/open_research.md:49
+msgid "        2. [Open access publishing](/open_research/04/openaccess#open-access-publishing)"
+msgstr ""
+
+#: open_research/open_research.md:50
+msgid "    2. [Why does open access matter?](/open_research/04/openaccess#why-does-open-access-matter)"
+msgstr ""
+
+#: open_research/open_research.md:51
+msgid "    3. [Best practice for open access](/open_research/04/openaccess#best-practice-for-open-access)"
+msgstr ""
+
+#: open_research/open_research.md:52
+msgid "        1. [Self-archiving](/open_research/04/openaccess#self-archiving)"
+msgstr ""
+
+#: open_research/open_research.md:53
+msgid "        2. [Publication](/open_research/04/openaccess#publication)"
+msgstr ""
+
+#: open_research/open_research.md:54
+# ordered list
+msgid "7. [Open notebooks](/open_research/05/opennotebooks#open-notebooks)"
+msgstr ""
+
+#: open_research/open_research.md:55
+# ordered list
+msgid "8. [Open scholarship](/open_research/06/openscholarship#open-scholarship)"
+msgstr ""
+
+#: open_research/open_research.md:56
+msgid "    1. [Open educational resources](/open_research/06/openscholarship#open-educational-resources)"
+msgstr ""
+
+#: open_research/open_research.md:57
+msgid "    2. [Equity, Diversity, Inclusion](/open_research/06/openscholarship#equity-diversity-inclusion)"
+msgstr ""
+
+#: open_research/open_research.md:58
+msgid "    3. [Citizen science](/open_research/06/openscholarship#citizen-science)"
+msgstr ""
+
+#: open_research/open_research.md:59
+# ordered list
+msgid "9. [Checklists](/open_research/07/resources#checklists)"
+msgstr ""
+
+#: open_research/open_research.md:60
+# ordered list
+msgid "10. [What to learn next](/open_research/07/resources#what-to-learn-next)"
+msgstr ""
+
+#: open_research/open_research.md:61
+# ordered list
+msgid "11. [Further reading](/open_research/07/resources#further-reading)"
+msgstr ""
+
+#: open_research/open_research.md:62
+# ordered list
+msgid "12. [Definitions/glossary](/open_research/07/resources#definitionsglossary)"
+msgstr ""
+
+#: open_research/open_research.md:63
+# ordered list
+msgid "13. [Bibliography](/open_research/07/resources#bibliography)"
+msgstr ""
+
+#: open_research/open_research.md:65
+# header
+msgid "## Summary"
+msgstr ""
+
+#: open_research/open_research.md:67
+msgid "Open research aims to transform research by making it more reproducible, transparent, re-usable, collaborative, accountable, and accessible to society. It pushes for change in the way that research is carried out and disseminated by digital tools. One definition of open research, [as given by the Organisation for Economic Co-operation and Development (OECD)](https://www.fct.pt/dsi/docs/Making_Open_Science_a_Reality.pdf \"Making Open Science a Reality, OECD Science, Technology and Industry Policy Papers No. 25\"), is the practice of making \"the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction.\" In order to achieve this openness in research, each element of the research process should:"
+msgstr ""
+
+#: open_research/open_research.md:69
+# unordered list
+msgid "- Be publicly available: It is difficult to use and benefit from knowledge hidden behind barriers such as passwords and paywalls."
+msgstr ""
+
+#: open_research/open_research.md:70
+# unordered list
+msgid "- Be reusable: Research outputs need to be licensed appropriately so that prospective users clearly know any limitations on re-use."
+msgstr ""
+
+#: open_research/open_research.md:71
+# unordered list
+msgid "- Be transparent: With appropriate metadata to provide clear statements of how research output was produced and what it contains."
+msgstr ""
+
+#: open_research/open_research.md:73
+msgid "The research process typically has the following form: data is collected and then analysed (usually using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process it is good practice for researchers to document their working in notebooks. Open research aims to make each of these elements open:"
+msgstr ""
+
+#: open_research/open_research.md:75
+# unordered list
+msgid "- Open data: Documenting and sharing research data openly for re-use."
+msgstr ""
+
+#: open_research/open_research.md:76
+# unordered list
+msgid "- Open source software: Documenting research code and routines, and making them freely accessible and available."
+msgstr ""
+
+#: open_research/open_research.md:77
+# unordered list
+msgid "- Open hardware: Documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available."
+msgstr ""
+
+#: open_research/open_research.md:78
+# unordered list
+msgid "- Open access: Making all published outputs freely accessible for maximum use and impact."
+msgstr ""
+
+#: open_research/open_research.md:79
+# unordered list
+msgid "- Open notebooks: An emerging practice, documenting and sharing the experimental process of trial and error."
+msgstr ""
+
+#: open_research/open_research.md:81
+msgid "These elements are expanded upon in this chapter."
+msgstr ""
+
+#: open_research/open_research.md:83
+msgid "Open scholarship is a concept that extends open research further. It relates to making other aspects of scientific research open to the public, for example:"
+msgstr ""
+
+#: open_research/open_research.md:85
+# unordered list
+msgid "- Open educational resources: Making educational resources publicly available to be re-used and modified."
+msgstr ""
+
+#: open_research/open_research.md:86
+# unordered list
+msgid "- Equity, diversity, inclusion: Ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, and sexual orientation."
+msgstr ""
+
+#: open_research/open_research.md:87
+# unordered list
+msgid "- Citizen science: The inclusion of members of the public in scientific research."
+msgstr ""
+
+#: open_research/open_research.md:89
+msgid "These elements are also discussed in detail in this chapter."
+msgstr ""
+
+#: open_research/open_research.md:91
+# header
+msgid "## How this will help you / why this is useful"
+msgstr ""
+
+#: open_research/open_research.md:93
+msgid "There are five main schools of thought motivating open practices to benefit research:"
+msgstr ""
+
+#: open_research/open_research.md:95
+msgid "| School                     | Belief               | Aim                                               |"
+msgstr ""
+
+#: open_research/open_research.md:96
+msgid "| -------------------------- | -------------------- | ------------------------------------------------- |"
+msgstr ""
+
+#: open_research/open_research.md:97
+msgid "| Infrastructure | Efficient research depends on the available tools and applications. | Creating openly available platforms, tools, and services for researchers. |"
+msgstr ""
+
+#: open_research/open_research.md:98
+msgid "| Pragmatic | Knowledge-creation could be more efficient if researchers worked together. | Opening up the process of knowledge creation. |"
+msgstr ""
+
+#: open_research/open_research.md:99
+msgid "| Measurement | Academic contributions today need alternative impact measurements. | Developing an alternative metric system for research impact. |"
+msgstr ""
+
+#: open_research/open_research.md:100
+msgid "| Democratic | The access to knowledge is unequally distributed. | Making knowledge freely available for everyone. |"
+msgstr ""
+
+#: open_research/open_research.md:101
+msgid "| Public | Research needs to be made accessible to the public. | Making research accessible for citizens. |"
+msgstr ""
+
+#: open_research/open_research.md:103
+msgid "Open practices also benefit the researchers that propagate them. For example there is evidence [(Mckiernan et al. 2016)](https://elifesciences.org/articles/16800) that open access articles are cited more often, as shown by the metastudy presented in the figure below."
+msgstr ""
+
+#: open_research/open_research.md:105
+msgid "| ![open_access_citatations](../figures/open_access_citatations.jpg) |"
+msgstr ""
+
+#: open_research/open_research.md:106
+msgid "| -----------------------------------------------------|"
+msgstr ""
+
+#: open_research/open_research.md:107
+msgid "| The relative citation rate (OA: non-OA) in 19 fields of research. This rate is defined as the mean citation rate of OA articles divided by the mean citation rate of non-OA articles. Multiple points for the same discipline indicate different estimates from the same study, or estimates from several studies. (See footnote 1 for references.) |"
+msgstr ""
+
+#: open_research/open_research.md:109
+msgid "Another benefit of openness is that while research collaborations are essential to advancing knowledge, identifying and connecting with appropriate collaborators is not trivial. Open practices can make it easier for researchers to connect with one another by increasing the discoverability and visibility of one’s work, facilitating rapid access to novel data and software resources, and creating new opportunities to interact with and contribute to ongoing communal projects."
+msgstr ""
+
