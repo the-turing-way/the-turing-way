@@ -8,12 +8,22 @@ Based in London UK, their infrastructure is hosted on [Microsoft Azure](https://
 ## Reproducible and Transparent Science Communication
 
 - what problem is the federation solving?
-- docker, notebooks, cloud computing all work together to solve that problem -> this is what constitutes a binderhub
+
+However, there are a lot of tools available that can make packaging together code and resources a lot easier.
+[Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) are a very popular method of combining code and prose to produce an interactive scientific analysis.
+[Docker](https://docs.docker.com/engine/docker-overview/) is used to bundle together, code, data and the software environment into a "container" in such a way that it is easily reused and portable across different systems.
+Using cloud computing resources, these tools can be made accessible to anyone, anywhere in the world.
+Combining these tools into a computational infrastructure is what makes up a BinderHub.
+
 - bhub coordinates these techs to make it easier for researchers to share reproducible analyses
+
+Turing Research Fellow and lead developer of _The Turing Way_, [Dr Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), had the comment on the BinderHub technology.
 
 > BinderHubs package together really fantastic tools like notebooks, docker, cloud computing resources, corrdination engines, along with clear version control to deliver reproducible research at the click of a button.
 >
 > -- Dr Kirstie Whitaker
+
+![BinderHub](https://zenodo.org/api/iiif/v2/e4125eaf-b456-4097-85fc-6a2e80482d1c:96c70193-2f9e-442d-8cf8-21485d8864e1:1728_TURI_Book%20sprint_45%20repo2docker_040619_v2_MK.jpg/full/750,/0/default.jpg)
 
 ## The Binder Federation
 
@@ -30,6 +40,8 @@ The operators are responsible for the day-to-day operations and maintainance of 
 > I'm so excited that we've successfully merged our resources at the Turing into the mybinder.org infrastructure! This achievement marks Binder's maturity as a federated project and the Turing's commitment to supporting open source tooling and communities.
 >
 > -- Dr Sarah Gibson
+
+![Federation](https://miro.medium.com/max/1666/1*KU35naJhl1LSDxKY8gog4g.png)
 
 ## How Can You Get Involved?
 
@@ -78,3 +90,5 @@ Read more about _The Turing Way_ in this [Turing Impact Story](https://www.turin
 
 [Binder](https://mybinder.readthedocs.io/en/latest/about.html) is a community within Project Jupyter which received the [ACM Software System Award in 2017](https://awards.acm.org/award_winners/perez_9039634) for language agnostic tools which have become "a de facto standard for data analysis in research, education, journalism, and industry".
 Binder is a globally established but still growing project.
+
+_The Turing Way is supported by The UKRI ASG funding under the EPSRC Grant EP/T001569/1, particularly the "Tools, Practices and Systems" theme within that grant, and by The Alan Turing Institute under the EPSRC grant EP/N510129/1_
