@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: content\n"
 "Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
-"POT-Creation-Date: 2020-02-05 19:08:03+0000\n"
+"POT-Creation-Date: 2020-02-07 18:26:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -169,7 +169,7 @@ msgid "A unique URL is generated allowing the interactive code to be easily shar
 msgstr ""
 
 #: binderhub/binderhub.md:46
-msgid "The purpose of these Binder instances is to promote reproducibility in research projects by encouraging researchers to document their software dependencies and produce fun, interactive environments!"
+msgid "The purpose of these Binder instances is to promote reproducibility in research projects by encouraging researchers to document their software dependencies and produce fun, interactive computational environments!"
 msgstr ""
 
 #: binderhub/binderhub.md:48
