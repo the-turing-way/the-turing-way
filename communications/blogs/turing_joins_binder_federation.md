@@ -17,9 +17,9 @@ Combining these tools into a computational infrastructure is what makes up a Bin
 
 - bhub coordinates these techs to make it easier for researchers to share reproducible analyses
 
-Turing Research Fellow and lead developer of _The Turing Way_, [Dr Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), had the comment on the BinderHub technology.
+Turing Research Fellow and lead developer of _The Turing Way_, [Dr Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), had the following comment on the BinderHub technology.
 
-> BinderHubs package together really fantastic tools like notebooks, docker, cloud computing resources, corrdination engines, along with clear version control to deliver reproducible research at the click of a button.
+> BinderHubs package together really fantastic tools like notebooks, docker, cloud computing resources, coordination engines, along with clear version control to deliver reproducible research at the click of a button.
 >
 > -- Dr Kirstie Whitaker
 
@@ -27,17 +27,19 @@ Turing Research Fellow and lead developer of _The Turing Way_, [Dr Kirstie Whita
 
 ## The Binder Federation
 
-- pooling our resources for a sustainable, open source infrastructure
+- pooling our resources for a sustainable, open-source infrastructure
 - it's important for resilience, sustainability and social good
 
 [The Binder Federation](https://blog.jupyter.org/the-international-binder-federation-4f6235c1537e) is an experiment in open infrastructure for data science and beyond.
-It is a community of scientists and open source developers dedicated to scientific reproducibility, communicating ideas through interactive computing, and providing real-time access to results and analyses.
+It is a community of scientists and open-source developers dedicated to scientific reproducibility, communicating ideas through interactive computing, and providing real-time access to results and analyses.
 The Binder Federation provides interactive data analytics environments to roughly 10,000 unique repositories via 300,000 launches a month, and it relies on its team of partner BinderHubs to collaborate in providing this service.
 
 _Turing Way_ contributor [Dr Sarah Gibson](https://www.turing.ac.uk/people/researchers/sarah-gibson) is also a [mybinder.org](https://mybinder.org) operator.
-The operators are responsible for the day-to-day operations and maintainance of the main website. She was therefore perfectly positioned to lead this project bringing the Turing into the Binder Federation.
+The operators are responsible for the day-to-day operations and maintainance of the main website.
+She was therefore perfectly positioned to lead this project and bring the Turing into the Binder Federation.
 
-> I'm so excited that we've successfully merged our resources at the Turing into the mybinder.org infrastructure! This achievement marks Binder's maturity as a federated project and the Turing's commitment to supporting open source tooling and communities.
+> I'm so excited that we've successfully merged our resources at the Turing into the mybinder.org infrastructure!
+> This achievement marks Binder's maturity as a federated project and the Turing's commitment to supporting open-source tooling and communities.
 >
 > -- Dr Sarah Gibson
 
@@ -57,7 +59,7 @@ Your deployment would then be managed from the [mybinder.org-deploy repo](https:
 This is a more high-tech contribution but over a shorter time period.
 
 Lastly rather than joining the federation, you could deploy your own BinderHub for your organisation.
-A BinderHub for an organisation is incredibly valuable for opening the pathway to greater computational resources, access for private data, and other features not provided by the mybinder.org service.
+A BinderHub for an organisation is incredibly valuable for opening the pathway to reproducible research using greater computational resources, access to private data, and other features not offered by the public and free mybinder.org service.
 This is still a beneficial pathway for the Binder community because the more BinderHubs that exist in the world, the more we can learn together around solving implementation issues and the more we decentralise the knowledge required to deploy and run a BinderHub.
 
 There are [documentation](https://binderhub.readthedocs.io) and [tutorials](https://bit.ly/zero-to-binderhub-workshop) on how to deploy BinderHub and the team are happy to [answer any questions](https://gitter.im/jupyterhub/binder).
