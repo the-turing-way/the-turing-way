@@ -45,7 +45,8 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 ## Joining the community
 
 The Turing Way is a community-oriented and -led project.
-We therefore require that all our members and their contributions **adhere to our [Code of Conduct](CODE_OF_CONDUCT.md)**. Please familiarize yourself with the [Code of Conduct](CODE_OF_CONDUCT.md) that lists the expected behaviours and our reporting guidelines.
+We therefore require that all our members and their contributions **adhere to our [Code of Conduct](CODE_OF_CONDUCT.md)**.
+Please familiarize yourself with the [Code of Conduct](CODE_OF_CONDUCT.md) that lists the expected behaviours and our reporting guidelines.
 
 ## Inclusivity
 
