@@ -52,7 +52,8 @@ Please familiarize yourself with the [Code of Conduct](CODE_OF_CONDUCT.md) that 
 
 This should be taken into account in contributions that the Turing Way aims to be inclusive to people from all walks of life and to all research fields.
 
-In addition to the Code of Conduct, we encourage intentional inclusive actions from contributors to the Turing Way. Here are a few examples of such actions:
+In addition to the Code of Conduct, we encourage intentional inclusive actions from contributors to _The Turing Way_.
+Here are a few examples of such actions:
 
 - Refer to "open research" rather than only "open science" so that we do not exclude members of the humanities and social sciences from our community.
 - Make sure colour palettes are accessible to colour-blind readers and contributors.
