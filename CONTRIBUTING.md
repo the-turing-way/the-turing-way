@@ -8,11 +8,11 @@
 
 We hope that this guideline document will make it as easy as possible for you to get involved.
 
-We welcome all contributions in thr form of GitHub issues and pull requests. 
+We welcome all contributions to this project via GitHub issues and pull requests. 
 Please follow these guidelines to make sure your contributions can be easily integrated in the projects. 
-As you start contributing do remember that your ideas are more important than perfect pull requests. :heart:
+As you start contributing to the Turing Way, don't forget that your ideas are more important than perfect pull requests. :heart:
 
-If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch with The Turing Way Team](#get-in-touch).
+If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
 
 ## Table of contents
 
@@ -45,12 +45,11 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 ## Joining the community
 
 The Turing Way is a community-oriented and -led project.
-We therefore require that all our members and their contributions **adhere to our [Code of Conduct](CODE_OF_CONDUCT.md)**.
+We therefore require that all our members and their contributions **adhere to our [Code of Conduct](CODE_OF_CONDUCT.md)**. Please familiarize yourself with the [Code of Conduct](CODE_OF_CONDUCT.md) that lists the expected behaviours and our reporting guidelines.
 
 ## Inclusivity
 
 This should be taken into account in contributions that the Turing Way aims to be inclusive to people from all walks of life and to all research fields.
-Please familiarize yourself with the [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md) that lists the expected behavious and our reporting guidelines.
 
 In addition to the Code of Conduct, we encourage intentional inclusive actions from contributors to the Turing Way. Here are a few examples of such actions:
 
