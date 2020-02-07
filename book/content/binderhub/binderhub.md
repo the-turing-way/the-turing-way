@@ -43,7 +43,7 @@ This chapter also covers reasons why you might build your own BinderHub, rather 
 [BinderHub](https://binderhub.readthedocs.io/en/latest/index.html) is a cloud-based technology that can launch a repository of code (from GitHub, GitLab, and others) in a browser window such that the code can be executed and interacted with.
 A unique URL is generated allowing the interactive code to be easily shared.
 
-The purpose of these Binder instances is to promote reproducibility in research projects by encouraging researchers to document their software dependencies and produce fun, interactive environments!
+The purpose of these Binder instances is to promote reproducibility in research projects by encouraging researchers to document their software dependencies and produce fun, interactive computational environments!
 
 Binder, as a user interface, is useful for reproducibility because the code needs to be version controlled and the computational environment needs to be documented in order to benefit from the functionality of Binder.
 Each change to the code repository also forces a new build of the Binder instance.
