@@ -1,12 +1,10 @@
-# What are the benefits of doing reproducible science
+# Advantages of doing reproducible research
 
-> Papers whose underlying data is available get cited more often (Piwowar, Day & Fridsma, 2007; Piwowar & Vision, 2013).
+**1. Track a complete history of your research**
 
-There are several benefits of doing reproducible science:
+A reproducible research must contain a complete narrative (also known as [Provenance](https://en.wikipedia.org/wiki/Provenance)) and should include complete information of the data, tools, methods, codes, and documentations. By storing a complete track-record of your work, you can ensure sustainability, fair citation/acknowledgement, and usefulness of your work for yourself and others in your field.
 
-**1. Track history of your data and code**
-
-A reproducible science should contain a complete history and narrative of the research (also known as [Provenance](https://en.wikipedia.org/wiki/Provenance)) and should include complete information of the data, tools, methods, codes, and documentations. By storing a complete track-record of your work, you can ensure sustainability, fair citation/acknowledgement, and usefulness of your work for yourself and others in your field.
+> Papers whose underlying data is available get cited more often. (Piwowar, Day & Fridsma, 2007; Piwowar & Vision, 2013)
 
 **2. Facilitate collaboration and review process**
 
