@@ -1,4 +1,4 @@
-# Why reproducibility is important for research and communities
+# Importance of reproducibility in research and communities
 
 > Requirement of reproducibility implies that reliable and comprehensive software platforms and tools should be made available to the scientific community. [1]  
 
