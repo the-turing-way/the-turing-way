@@ -1,11 +1,9 @@
-# What are the values and rewards of doing reproducible science
-
-Reporducible science:
+# Values and rewards of doing reproducible research
 
 **1. Democratises contribution**
 
 - Equal opportunity to enhance your own work and improve others work
-- Combine with Open Science (e.g. GitHub, Open Access journals - JOSS, GitHub, bioRxiv, etc.)
+- Combine with Open Science/Research (e.g. GitHub, Open Access journals - JOSS, GitHub, bioRxiv, etc.)
 - Openly share your work on collaborative platforms (e.g. software, publications, events like hackathons)
 
 **2. Helps gain fair acknowledgments/credits for your work**
