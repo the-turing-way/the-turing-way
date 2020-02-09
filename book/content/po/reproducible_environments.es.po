@@ -1,0 +1,3533 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Place Holder <test@test.com>, 2020.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: content\n"
+"Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
+"POT-Creation-Date: 2020-02-05 19:08:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Place Holder <test@test.com>\n"
+"Language-Team: Spanish <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: reproducible_environments/01/options.md:1
+msgid "<a name=\"Summary_of_ways_to_capture_computational_environments\"></a>"
+msgstr ""
+
+#: reproducible_environments/01/options.md:3
+# header
+msgid "## Summary of ways to capture computational environments"
+msgstr ""
+
+#: reproducible_environments/01/options.md:5
+msgid "There are a number of ways of capturing computational environments. The major ones covered in this chapter will be package management systems, Binder, virtual machines, and containers. Each have their own pros and cons, and which is the most appropriate for you will depend on the nature of your project."
+msgstr ""
+
+#: reproducible_environments/01/options.md:7
+msgid "These can be broadly split into two categories: those that capture only the software and its versions used in an environment (package management systems), and those that replicate an entire computational environment including the operating system and customised settings (virtual machines and containers)."
+msgstr ""
+
+#: reproducible_environments/01/options.md:9
+msgid "Another way these can be split is by how the reproduced research is presented to the reproducer. Using Binder or a virtual machine creates a much more graphical, GUI-type result, whereas the outputs of containers and package management systems are more easily interacted with via the command line."
+msgstr ""
+
+#: reproducible_environments/01/options.md:11
+# inline html
+msgid "<table>\n"
+"  <tr>\n"
+"    <th></th>\n"
+"    <th></th>\n"
+"    <th colspan=\"2\">Interaction style</th>\n"
+"  </tr>\n"
+"  <tr>\n"
+"  <th></th>\n"
+"  	<td></td>\n"
+"    <td>Graphical</td>\n"
+"    <td>Command line</td>\n"
+"  </tr>\n"
+"  <tr>\n"
+"    <th rowspan=\"2\">What is reproduced?</th>\n"
+"    <td>Software and versions</td>\n"
+"    <th>Binder</th>\n"
+"    <th>Conda</th>\n"
+"  </tr>\n"
+"  <td>Entire system</td>    \n"
+"  <th>Virtual Machines</th>\n"
+"  <th>Containers</th>  \n"
+"  <tr>\n"
+"  </tr>\n"
+"</table>"
+msgstr ""
+
+#: reproducible_environments/01/options.md:36
+msgid "Here we give a brief description of each of these tools:"
+msgstr ""
+
+#: reproducible_environments/01/options.md:38
+msgid "<a name=\"Package_management_systems_outline\"></a>"
+msgstr ""
+
+#: reproducible_environments/01/options.md:40
+# header
+msgid "### Package management systems"
+msgstr ""
+
+#: reproducible_environments/01/options.md:42
+msgid "Package management systems are tools used to install and keep track of the software (and critically versions of software) used on a system, and can export files specifying these required software packages/versions. The files can be shared with others who can use them to replicate the environment, either manually or via their own package management systems."
+msgstr ""
+
+#: reproducible_environments/01/options.md:44
+msgid "<a name=\"Binder_outline\"></a>"
+msgstr ""
+
+#: reproducible_environments/01/options.md:46
+# header
+msgid "### Binder"
+msgstr ""
+
+#: reproducible_environments/01/options.md:48
+msgid "Binder is a service which generates fully-functioning versions of projects from a git repository and serves them on the cloud. These \"binderized\" projects can be accessed and interacted with by others via a web browser. In order to do this Binder requires that the software (and optionally versions) required to run the project are specified. Users can make use of package management systems or Dockerfiles (discussed in the [Containers section](#Containers_section)) to do this if they so desire."
+msgstr ""
+
+#: reproducible_environments/01/options.md:50
+msgid "<a name=\"Virtual_machines_outline\"></a>"
+msgstr ""
+
+#: reproducible_environments/01/options.md:52
+# header
+msgid "### Virtual machines"
+msgstr ""
+
+#: reproducible_environments/01/options.md:54
+msgid "Virtual machines are simulated computers. A user can make a \"virtual\" computer very easily, specifying the operating system they want it to have among other features, and run it like any other app. Within the app will be the desktop, file system, default software libraries and other features of the specified machine, which can be interacted with as if it was a real computer. Virtual machines can be easily replicated and shared. This allows researchers to create virtual machines, perform their research on them, and then save their state along with their files, settings and outputs, which they can then distribute as a fully-functioning project."
+msgstr ""
+
+#: reproducible_environments/01/options.md:56
+msgid "<a name=\"Containers_outline\"></a>"
+msgstr ""
+
+#: reproducible_environments/01/options.md:58
+# header
+msgid "### Containers"
+msgstr ""
+
+#: reproducible_environments/01/options.md:60
+msgid "Containers offer many of the same benefits as virtual machines. They essentially act as entirely separate machines which can contain their own files, software and settings."
+msgstr ""
+
+#: reproducible_environments/01/options.md:62
+msgid "The difference is that virtual machines include an entire operating system along with all the associated software. that is typically packaged with it- regardless of whether the project actually makes use of that associated software. Containers only contain the software and files explicitly defined within them in order to run the project they contain. This makes them far more lightweight than virtual machines."
+msgstr ""
+
+#: reproducible_environments/01/options.md:64
+msgid "Containers are particularly useful if projects need to be able to run on high performance computing environments as, since they already _contain_ all the necessary software, they save having to install anything on an unfamiliar system where the researcher may not have the required permissions to do so."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:1
+msgid "<a name=\"Package_management_systems\"></a>"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:3
+# header
+msgid "## Package management systems"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:5
+msgid "Package managers install and keep track of the different software packages (and their versions) that you use within an environment. There are quite a few to choose from, for example Yum, Zypper, dpkg, and Nix (which will be mentioned briefly later in the [Binder](#Binder_section) section). We're going to focus on [Conda](https://conda.io/en/latest/), which has a number of useful functionalities."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:7
+msgid "<a name=\"What_does_Conda_do\"></a>"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:9
+# header
+msgid "### What does Conda do?"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:11
+msgid "Conda allows users to create any number of environments which are entirely separate, and to quickly and easily change between them."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:12
+msgid "For example, say a researcher has a project: Project One, which has its own environment defined by Conda which is made up of a set of packages and versions of those packages:"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:14
+#: reproducible_environments/02/package-management.md:22
+msgid "| Package name | Version |"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:15
+#: reproducible_environments/02/package-management.md:23
+msgid "| ------------ | ------- |"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:16
+msgid "| Package A    | 1.5.2   |"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:17
+#: reproducible_environments/02/package-management.md:24
+msgid "| Package B    | 2.1.10  |"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:18
+msgid "| Package C    | 0.7.9   |"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:20
+msgid "Later the researcher starts Project Two in its own environment:"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:25
+msgid "| Package C    | 1.2.4   |"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:26
+msgid "| Package D    | 1.5.2   |"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:27
+msgid "| Package E    | 3.7.1   |"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:29
+msgid "Note here that the version of package C used in Project Two has been updated from the version used in Project One. If these project environments were not separate then the researcher would have the choice of:"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:31
+# unordered list
+msgid "- A) Using the older version of package C forever and not benefiting from updates and bugfixes in later versions."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:32
+# unordered list
+msgid "- B) Installing the updated version of the package and hoping that it doesn't impact Project One."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:33
+# unordered list
+msgid "- C) Installing the updated version of the package for use in Project Two then uninstalling it and reinstalling the old one whenever they need to do work on Project One. This would be extremely annoying, and is a step that risks being forgotten."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:35
+msgid "All of these options are extremely poor, hence the utility of Conda for creating distinct environments which are easily interchangable."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:37
+msgid "Conda can also be used to easily capture and export computational environments. It can go in the other direction too; it can generate computational environments from configuration files which can be used to recreate someone else's environment."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:39
+msgid "Another benefit of Conda is that it offers much greater flexibility to users who do not have admin privileges on the machines they are working on (as is very common when working with high performance computing facilities). Without Conda it is typically very difficult to install required software onto such machines. However, because Conda creates and changes _new_ environments rather than making changes to a machine's overall system environment, admin privileges are not required."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:41
+msgid "Finally, while Conda is Python-centric to a degree, it is also well integrated for use with other languages, for example the base version of Conda includes the C++ standard library."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:43
+msgid "<a name=\"Installing_Conda\"></a>"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:45
+# header
+msgid "### Installing Conda"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:47
+msgid "Note that these installation instructions are directed towards Linux systems. Instructions for installing Conda on Windows or Mac systems can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:49
+msgid "Go to [https://repo.continuum.io/miniconda/](https://repo.continuum.io/miniconda/) and download the latest Miniconda 3 installer for your system (32 bit or 64 bit), which will have a name like Miniconda_version_number.sh. Run the installer using"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:51
+# code block
+msgid "```\n"
+"bash Miniconda_version_number.sh\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:55
+msgid "You can check that Conda has installed successfully by typing"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:57
+# code block
+msgid "```\n"
+"conda --version\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:61
+msgid "which should output a version number."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:63
+msgid "<a name=\"Making_and_using_environments\"></a>"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:65
+# header
+msgid "### Making and using environments"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:67
+msgid "Conda automatically installs a base environment with some commonly used software packages. It is possible to just work in this base environment, however it is good practise to create a new environment for each project you start."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:69
+msgid "To create an environment use `conda create --name your_project_env_name` followed by a list of packages to include. To include the packages scipy and matplotlib, add them to the end of the command:"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:71
+# code block
+msgid "```\n"
+"conda create --name Project_One scipy matplotlib\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:75
+msgid "You can specify the versions of certain (or all) packages by using `=package_number` after the name. For example, to specify scipy 1.2.1 in the above environment"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:77
+# code block
+msgid "```\n"
+"conda create --name Project_One scipy=1.2.1 matplotlib\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:81
+msgid "When creating environments you can also specify versions of languages to install, for example to use Python 3.7.1 in the Project_One environment:"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:83
+# code block
+msgid "```\n"
+"conda create --name Project_One python=3.7.1 scipy=1.2.1 matplotlib\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:87
+msgid "Now that an environment has been created it's time to activate (start using) it via `conda activate environment_name`, so in this example:"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:89
+# code block
+msgid "```\n"
+"conda activate Project_One\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:93
+msgid "Note that you may need to use `source` instead of `conda` if you're using an old version of conda."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:95
+msgid "Once an environment is activated you should see the environment name before each prompt in your terminal:"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:97
+# code block
+msgid "```\n"
+"(Project_One) $ python --version\n"
+"Python 3.7.1\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:102
+msgid "<a name=\"Deactivating_and_deleting_environments\"></a>"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:104
+# header
+msgid "### Deactivating and deleting environments"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:106
+msgid "You can deactivate (get out of) an environment using"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:108
+# code block
+msgid "```\n"
+"conda deactivate\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:112
+msgid "and remove (delete) an environment as shown here for removing the Project_One environment"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:114
+# code block
+msgid "```\n"
+"conda env remove --name Project_One\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:118
+msgid "To check if an environment has been successfully removed you can look at a list of all the Conda environments on the system using"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:120
+# code block
+msgid "```\n"
+"conda env list\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:124
+msgid "However deleting an environment may not delete package files that were associated with it. This can lead to a lot of memory being wasted on packages that are no longer required. Packages that are no longer referenced by any environments can be deleted using"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:126
+# code block
+msgid "```\n"
+"conda clean -pts\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:130
+msgid "Alternatively you can delete an environment (such as Project_One) along with its associated packages via:"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:132
+# code block
+msgid "```\n"
+"conda remove --name Project_One --all\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:136
+msgid "<a name=\"Installing_and_removing_packages_within_an_environment\"></a>"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:138
+# header
+msgid "### Installing and removing packages within an environment"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:140
+msgid "Within an environment you can install more packages using"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:142
+# code block
+msgid "```\n"
+"conda install package_name\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:146
+msgid "and similarly you can remove them via"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:148
+# code block
+msgid "```\n"
+"conda remove package_name\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:152
+msgid "This is the best way to install packages from within Conda as it will also install a Conda-tailored version of the package. However it is possible to use other methods if a Conda-specific version of a package is not available. For example `pip` is commonly used to install Python packages, so a command like"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:154
+# code block
+msgid "```\n"
+"pip install scipy\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:158
+msgid "still works."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:160
+msgid "Although Python packages have been used in many of the examples given here Conda packages do not have to be Python packages, for example here the R base language is installed along with the R package r-yaml"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:162
+# code block
+msgid "```\n"
+"conda create --name Project_One r-base r-yaml\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:166
+msgid "A Conda channel is where it downloaded a package from. Common channels include Anaconda (a company which provides the `defaults` conda package channel), and conda-forge (a community-driven packaging endeavour). You can explicitly install a package from a certain channel by specifying it like:"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:168
+# code block
+msgid "```\n"
+"conda install -c channel_name package_name\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:172
+msgid "<a name=\"Exporting_and_reproducing_computational_environments\"></a>"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:174
+# header
+msgid "### Exporting and reproducing computational environments"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:176
+msgid "Conda environments can be exported easily to human-readable files in the YAML format. YAML files are discussed in more detail [later](#YAML_files) in this chapter."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:178
+msgid "To export a conda environment to a file called `environment.yml` activate the environment and then run"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:180
+# code block
+msgid "```\n"
+"conda env export > environment.yml\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:184
+msgid "Similarly Conda environments can be created from YAML files via"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:186
+# code block
+msgid "```\n"
+"conda env create -f environment.yml\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:190
+msgid "This allows researchers to easily reproduce one another's computational environments. Note that the list of packages is not just those explicitly installed. It can include OS-specific dependency packages so environment files may require some editing to be portable to different operating systems."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:192
+msgid "Environments can also be cloned. This may be desirable, for example, if a researcher begins a new project and wants to make a new environment to work on it in, but the new project's environment (at least initially) requires the same packages as a previous project's environment."
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:194
+msgid "For example to clone the Project_One environment, and give this new environment the name Project_Two:"
+msgstr ""
+
+#: reproducible_environments/02/package-management.md:196
+# code block
+msgid "```\n"
+"conda create --name Project_Two --clone Project_One\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:1
+msgid "<a name=\"YAML_files\"></a>"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:3
+# header
+msgid "## YAML files"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:5
+msgid "YAML is an indentation-based markup language which aims to be both easy to read and easy to write. Many projects use it for configuration files because of its readability, simplicity and good support for many programming languages. It can be used for a great many things including defining computational environments, and is well integrated with [Travis](https://travis-ci.org/) which is discussed in the chapter on continuous integration."
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:7
+msgid "An a YAML file defining a computational environment might look something like this:"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:9
+# code block
+msgid "```\n"
+"# Define the operating system as Linux\n"
+"os: linux\n"
+"\n"
+"# Use the xenial distribution of Linux\n"
+"dist: xenial\n"
+"\n"
+"# Use the programming language Python\n"
+"language: python\n"
+"\n"
+"# Use version of Python 3.2\n"
+"python: 3.2\n"
+"\n"
+"# Use the Python package numpy and use version 1.16.1\n"
+"packages:\n"
+"  numpy:\n"
+"    version: 1.16.1\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:28
+msgid "Note that as you can see here that comments can be added by preceding them with a `#`."
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:30
+msgid "<a name=\"YAML_syntax\"></a>"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:32
+# header
+msgid "### YAML syntax"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:34
+msgid "A YAML document can consist of the following elements."
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:36
+msgid "<a name=\"Scalars\"></a>"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:38
+# header
+msgid "#### Scalars"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:40
+msgid "Scalars are ordinary values: numbers, strings, booleans."
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:42
+# code block
+msgid "```\n"
+"number-value: 42\n"
+"floating-point-value: 3.141592\n"
+"boolean-value: true\n"
+"\n"
+"# strings can be both 'single-quoted` and \"double-quoted\"\n"
+"string-value: 'Bonjour'\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:51
+msgid "YAML syntax also allows unquoted string values for convenience reasons:"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:53
+# code block
+msgid "```\n"
+"unquoted-string: Hello World\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:57
+msgid "<a name=\"Lists_and_Dictionaries\"></a>"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:59
+# header
+msgid "#### Lists and Dictionaries"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:61
+msgid "Lists are collections of elements:"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:63
+# code block
+msgid "```\n"
+"jedis:\n"
+"  - Yoda\n"
+"  - Qui-Gon Jinn\n"
+"  - Obi-Wan Kenobi\n"
+"  - Luke Skywalker\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:71
+msgid "Every element of the list is indented and starts with a dash and a space."
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:73
+msgid "Dictionaries are collections of `key: value` mappings. All keys are case-sensitive."
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:75
+# code block
+msgid "```\n"
+"jedi:\n"
+"  name: Obi-Wan Kenobi\n"
+"  home-planet: Stewjon\n"
+"  species: human\n"
+"  master: Qui-Gon Jinn\n"
+"  height: 1.82m\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:84
+msgid "Note that a space after the colon is mandatory."
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:86
+msgid "<a name=\"YAML_gotchas\"></a>"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:88
+# header
+msgid "#### YAML gotchas"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:90
+msgid "Due to the format aiming to be easy to write and read, there're some ambiguities in YAML."
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:92
+# unordered list
+msgid "- **Special characters in unquoted strings:** YAML has a number of special characters you cannot use in unquoted strings. For example, parsing the following sample will fail:"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:93
+# code block
+msgid "  ```\n"
+"  unquoted-string: let me put a colon here: oops\n"
+"  ```"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:96
+msgid "  Quote the string value makes this value unambiguous:"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:97
+# code block
+msgid "  ```\n"
+"  unquoted-string: \"let me put a colon here: oops\"\n"
+"  ```"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:100
+msgid "  Generally, you should quote all strings that contain any of the following characters: `[] {} : > |`."
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:101
+# unordered list
+msgid "- **Tabs versus spaces for indentation:** do _not_ use tabs for indentation. While resulting YAML can still be valid, this can be a source of many subtle"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:102
+msgid "  parsing errors. Just use spaces."
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:104
+msgid "<a name=\"How_to_use_YAML_to_define_computational_environments\"></a>"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:106
+# header
+msgid "### How to use YAML to define computational environments"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:108
+msgid "Because of their simplicity YAML files can be hand written. Alternatively they can be automatically generated as discussed [above](#Package_management_systems). From a YAML file a computational environment can be replicated in a few ways."
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:110
+# unordered list
+msgid "- **Manually.** It can be done manually by carefully installing the specified packages. Because YAML files can also specify operating systems and versions that may or may not match that of the person trying to replicate the environment this may require the use of a [virtual machine](#Virtual_machines)."
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:111
+# unordered list
+msgid "- **Via package management systems such as Conda.** As [discussed](#Package_management_systems) as well as being able to generate YAML files from computational environments Conda can also generate computational environments from YAML files."
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:113
+msgid "<a name=\"Security_issues\"></a>"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:115
+# header
+msgid "### Security issues"
+msgstr ""
+
+#: reproducible_environments/03/yaml.md:117
+msgid "There is an inherent risk in downloading/using files you have not written to your computer, and it is possible to include malicious code in YAML files. Do not load YAML files or generate computational environments from them unless you trust their source."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:1
+msgid "<a name=\"Binder_section\"></a>"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:3
+# header
+msgid "## Binder"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:5
+msgid "Now that we've seen how to use and capture the computational environment used in a Python project, it's time to think about how to share that environment."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:7
+msgid "With an `environment.yml` file (or similar from alternative package management systems), it is possible for others to recreate the environment specified by that file. However, this relies on the new user having the same package management system set up, and knowing how to use it. It would be far easier if there was an automated solution to recreate the computational environment - and this is where Binder comes in."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:9
+msgid "Binder uses a tool called repo2docker to create a Docker image of a project based on the configuration files that are included. The resulting image contains the project and the computational environment specified by the original user. Other users can access the image via a cloud-based BinderHub, which allows them to view, edit and run the code from their web browser."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:11
+msgid "Juliette Taka's excellent cartoon below illustrates the steps in creating and sharing a \"binderized\" project."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:13
+msgid "**Step 1:** We start with a researcher who has completed a project and wants to share her work with anyone, regardless of their computational environment. Note that Binder does not only have to be applied to finished projects; it can be used in exactly the same way to share projects that are in progress."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:15
+msgid "**Step 2:** The researcher's project contains many files of different types. In this case the researcher has been working in Jupyter notebooks, but Binder can be used just as effectively with many other file formats and languages which we'll cover in more detail shortly."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:17
+msgid "**Step 3:** The researcher uploads her code to a publicly available repository hosting service, such as GitHub, where it can be accessed by others. She includes a file describing the computational environment required to run the project."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:19
+msgid "**Step 4:** She generates a link at the [mybinder.org](https://mybinder.org) BinderHub. By clicking on this link anyone can access a \"Binderized\" version of her project. The click triggers repo2docker to build an Docker image based on the contents of the repository and its configuration files. This image is then hosted on the cloud. The person who clicked the link will be taken to a copy of her project in their web browser that they can interact with. This copy of the project they interact with is hosted in the environment the researcher specified in step 3, regardless of the computational environment of the person is accessing it from."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:21
+msgid "![binder_comic](../../figures/binder_comic.png)"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:23
+msgid "Figure credit: [Juliette Taka, Logilab and the OpenDreamKit project](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/)"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:25
+msgid "To get an idea of what this looks like here's what a binder of a simple example project looks like. Files are listed and can be clicked on and modified by the person accessing the binder."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:27
+msgid "![binder_home](../../figures/binder_home.png)"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:29
+msgid "Users can also open terminals to run or otherwise interact with the files by clicking on \"New\" and then \"Terminal\" in the top right of the home binder screen shown above. Here this is used to run the analysis script in the example binder which performs a linear regression on some data:"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:31
+msgid "![binder_terminal](../../figures/binder_terminal.png)"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:33
+msgid "As mentioned Binder is well integrated with Jupyter notebooks which can be opened by clicking on \"New\" and then under \"Notebook\" in the same way terminals can be opened. These may be more convenient for those working with graphical outputs, as shown here where one is used to run `make_plot.py` in the example Binder:"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:35
+msgid "![binder_notebook](../../figures/binder_notebook.png)"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:37
+msgid "If R is installed in a Binder the dropdown menu will show the options to open R Jupyter notebooks and RStudio sessions in the Binder."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:39
+msgid "<a name=\"Disambiguation\"></a>"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:41
+# header
+msgid "### Disambiguation"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:43
+msgid "In this section there are a number of related terms, which will be outlined here for clarity:"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:45
+# unordered list
+msgid "- Binder: A sharable version of a project that can be viewed and interacted within a reproducible computational environment via a web browser."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:46
+# unordered list
+msgid "- BinderHub: A service which generates Binders. The most widely-used is [mybinder.org](https://mybinder.org), which is maintained by the Binder team. It is possible to create other BinderHubs which can support more specialised configurations. One such configuration could include authentication to enable private repositories to be shared amongst close collaborators."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:47
+# unordered list
+msgid "- [mybinder.org](https://mybinder.org): A public and free BinderHub. Because it is public you should not use it if your project requires any personal or sensitive information (such as passwords)."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:48
+# unordered list
+msgid "- Binderize: To make a Binder of a project."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:50
+msgid "<a name=\"Creating_a_binder_for_a_project\"></a>"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:52
+# header
+msgid "### Creating a Binder for a project"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:54
+msgid "Creating a Binderized version of a project involves three key steps which will be explained in this section:"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:56
+# ordered list
+msgid "1. Specify the computational environment"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:57
+# ordered list
+msgid "2. Put the project files somewhere publicly available (we will describe how to do this with GitHub)"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:58
+# ordered list
+msgid "3. Generate a link to a Binder of the project"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:60
+msgid "For a list of sample repositories for use with Binder, see the [Sample Binder Repositories](https://mybinder.readthedocs.io/en/latest/sample_repos.html) page."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:62
+msgid "<a name=\"Step_1_Specify_your_computational_environment\"></a>"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:64
+# header
+msgid "#### Step 1: Specify your computational environment"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:66
+msgid "If a project contains no file specifying the computational environment when a Binder is generated the environment will be the Binder default environment, (containing Python 3.6) which may or may not be suitable for the project. However if it does contain a configuration file for the environment then the Binder will be generated with the specified environment. A full list of such files Binder accepts with examples can be found [here](https://mybinder.readthedocs.io/en/latest/config_files.html), but here are some of the key ones, some of which are language-specific:"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:68
+# unordered list
+msgid "- environment.yml"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:69
+# unordered list
+msgid "  - Recall that environment.yml files were discussed in the [Package management systems](#Package_management_systems) section."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:70
+# unordered list
+msgid "- Dockerfile"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:71
+# unordered list
+msgid "  - Dockerfiles will be discussed in the [Containers](#Containers_section) section, so will not be discussed further here."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:72
+# unordered list
+msgid "- apt.txt"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:73
+# unordered list
+msgid "  - Dependencies that would typically installed via commands such as `sudo apt-get install package_name` should be listed in an apt.txt file, and will be automatically installed in the Binder."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:74
+# unordered list
+msgid "  - For example if a project uses Latex the apt.txt file should read"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:75
+# code block
+msgid "  ```\n"
+"  texlive-latex-base\n"
+"  ```"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:78
+msgid "  to install the base Latex package."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:79
+# unordered list
+msgid "- default.nix"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:80
+# unordered list
+msgid "  - For those that use the [package management system](#Package_management_systems) Nix a default.nix file can be a convenient way to capture their environment."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:81
+# unordered list
+msgid "- requirements.txt (Python)"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:82
+# unordered list
+msgid "  - For Python users a requirements.txt file can be used to list dependent packages."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:83
+# unordered list
+msgid "  - For example to have Binder install numpy this file would simply need to read:"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:84
+# code block
+msgid "  ```\n"
+"  numpy\n"
+"  ```"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:87
+# unordered list
+msgid "  - Specific package version can also be specified using an `==`, for example to have Binder install numpy version 1.14.5 then the file would be"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:88
+# code block
+msgid "  ```\n"
+"  numpy==1.14.5\n"
+"  ```"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:91
+# unordered list
+msgid "  - The requirement.txt file does not need to be hand written. Running the command `pip freeze > requirements.txt` will output a requirements.txt file that fully defines the Python environment."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:92
+# unordered list
+msgid "- runtime.txt"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:93
+# unordered list
+msgid "  - Used to specify a particular version of Python of R for the Binder to use."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:94
+# unordered list
+msgid "  - To specify which version of R to use specify find the date it was captured on [MRAN](https://mran.microsoft.com/documents/rro/reproducibility) and include it in the runtime.txt file as"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:95
+# code block
+msgid "  ```\n"
+"  r-<YYYY>-<MM>-<DD>\n"
+"  ```"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:98
+# unordered list
+msgid "  - To specify a version of Python, similarly state the version in this file. For example to use Python 2.7 the file would need to read"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:99
+# code block
+msgid "  ```\n"
+"  python-2.7\n"
+"  ```"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:102
+# unordered list
+msgid "- install.R or DESCRIPTION (R/RStudio)"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:103
+# unordered list
+msgid "  - An install.R file lists the packages to be installed, for example to install the package tibble in the Binder:"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:104
+# code block
+msgid "  ```\n"
+"  install.packages(\"tibble\")\n"
+"  ```"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:107
+# unordered list
+msgid "  - [DESCRIPTION files](https://cran.r-project.org/doc/manuals/r-release/R-exts.html#The-DESCRIPTION-file) are more typically used in the R community for dependency management."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:109
+msgid "<a name=\"Step_2_Put_your_code_on_GitHub\"></a>"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:111
+# header
+msgid "#### Step 2: Put your code on GitHub"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:113
+msgid "GitHub is discussed at length in the chapter on version control, which you should refer to if you wish to understand more about this step. In this chapter we will give the briefest possible explanation. GitHub is a very widely used platform where you can make \"repositories\", and upload code, documentation, or any other files into them. To complete this step:"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:115
+# ordered list
+msgid "1. Make an account on [GitHub](https://github.com/)."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:116
+# ordered list
+msgid "2. Create a repository for the project you wish to make a Binder of."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:117
+# ordered list
+msgid "3. Upload your project files (including the file you have created to specify your computational environment) to the repository and save (\"commit\" in the vocabulary of GitHub) them there."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:119
+msgid "Again, if you are unable to complete these steps refer to the chapter on version control for a fuller explanation."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:121
+msgid "<a name=\"Step_3_Generate_a_link_to_a_Binder_of_your_project\"></a>"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:123
+# header
+msgid "#### Step 3: Generate a link to a Binder of your project"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:125
+msgid "Head to [https://mybinder.org](https://mybinder.org). You'll see a form that asks you to specify a repository for [mybinder.org](https://mybinder.org) to build. In the first field, paste the URL of the project's GitHub repository. It'll look something like this: `https://github.com/<your-username>/<your-repository>`"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:127
+msgid "![mybinder_gen_link](../../figures/mybinder_gen_link.png)"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:129
+msgid "As you can see there are additional fields in this form, but these are optional are will not be discussed here."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:131
+msgid "Once the URL to the project to be Binderized is supplied two fields will be automatically populated on the screen depicted above:"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:133
+# unordered list
+msgid "- The \"Copy the URL below and share your Binder with others\" field, which provides a link to the Binder which can be copied and shared by you."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:134
+# unordered list
+msgid "- The \"Copy the text below, then paste into your README to show a binder badge\" field, which as described can be included by you in GitHub to create a button that allows anyone that accesses your project on GitHub to launch the Binder."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:136
+msgid "Finally, click the launch button. This will ask [mybinder.org](https://mybinder.org) to build the environment needed to run the project, note that this may take several minutes. You can click on the \"Build logs\" button to see the logs generated by the build process. These logs are helpful for resolving any issues that cause the build to fail, such as errors in the file defining the computational environment to be generated."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:138
+msgid "Once it has been built the Binder will be automatically launched, again this may take some time."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:140
+msgid "<a name=\"Including_data_in_a_Binder\"></a>"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:142
+# header
+msgid "### Including data in a Binder"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:144
+msgid "There are a few ways to make data available in your Binder. Which is the best one depends on how big your data is and your preferences for sharing data. Note that the more data that is included include the longer it will take for a Binder to launch. Data also takes up storage space which must be paid for, so it is good to be considerate and minimise the data you include, especially on the publicly provided [mybinder.org](https://mybinder.org)."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:146
+msgid "<a name=\"Small_public_files\"></a>"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:148
+# header
+msgid "#### Small public files"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:150
+msgid "The simplest approach for small data files that are public is to add them directly to your GitHub repository, i.e to include them along with the rest of your project files in the Binder. This works well and is reasonable for files with sizes up to maybe 10MB."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:152
+msgid "<a name=\"Medium_public_files\"></a>"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:154
+# header
+msgid "#### Medium public files"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:156
+msgid "For medium sized files, a few 10s of megabytes to a few hundred megabytes, find some other place online to store them and make sure they are publicly available. Then add a file named postBuild (which is a shell script so the first line must be `#!/bin/bash`) to your project files. In the postBuild file add a single line reading `wget -q -O name_of_your_file link_to_your_file`."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:158
+msgid "The postBuild file is used to execute commands when the files to produce the Binder are being generated. In this case it can be used to download your data into the files used to launch the binder."
+msgstr ""
+
+#: reproducible_environments/04/binder.md:160
+msgid "<a name=\"Large_public_files\"></a>"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:162
+# header
+msgid "#### Large public files"
+msgstr ""
+
+#: reproducible_environments/04/binder.md:164
+msgid "The best option for large files is to use a library specific to the data format to stream the data as you are using it. There are a few restrictions on outgoing traffic from your Binder that are imposed by the team operating [mybinder.org](https://mybinder.org). Currently only connections to HTTP and Git are allowed. This comes up when people want to use FTP sites to fetch data. For security reasons FTP is not allowed on [mybinder.org](https://mybinder.org)."
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:1
+msgid "<a name=\"Virtual_machines\"></a>"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:3
+# header
+msgid "## Virtual machines"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:5
+msgid "<a name=\"What_are_virtual_machines\"></a>"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:7
+# header
+msgid "### What are virtual machines?"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:9
+msgid "Virtual machines (VMs) essentially package a whole computer as an app that can be run. As an example see the figure below which shows a windows laptop (note the windows search button in the lower left corner) running a virtual ubuntu machine (note the terminal outputting the operating system). The machine running the VM is called the \"host machine\". Using software like [VirtualBox](https://www.virtualbox.org/) or [Vagrant](https://www.vagrantup.com/), a user can create and run any number of VMs. As you could probably guess, having several VMs running at once can be a drain on memory, so just because you can run several at once doesn’t mean you should."
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:11
+msgid "![virtual_machine](../../figures/virtual_machine.png)"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:13
+msgid "Users can download, install, backup and destroy VMs at will, which is part of what makes them an attractive tool for sharing reproducible research. Research often requires specific pieces of software or system settings. If a researcher wishes to reproduce another's work on their own computer making the necessary changes to their environment to run the project may impact their own work. For example near the very start of this chapter it was [described](#How_this_will_help_you_why_this_is_useful) how using a different version of Python can lead to unexpected changes in the results of an analysis. Say a researcher installs an updated version of Python to replicate an analysis because the analysis requires features only present in the updated version. By doing so they put their own work at risk. VMs remove that risk; any tools downloaded or settings changed will only impact the VM, keeping the reproducer's research safe. If they do inadvertently break something in the VM, they can just delete it and make another one. They are effectively a quarantined area."
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:15
+msgid "<a name=Using_virtual_machines_for_reproducible_research></a>"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:17
+# header
+msgid "### Using virtual machines for reproducible research"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:19
+msgid "Virtual machines can be shared by exporting them as single files. Another researcher can then import that file using their own virtualisation software like [VirtualBox](https://www.virtualbox.org/) and open up a copy of the VM which will contain all the software files and settings put in place by the person that made the VM. Therefore in practice they will have a working version of the project without the pain of setting it up themselves."
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:21
+msgid "<a name=\"Setting_up_a_virtual_machine\"></a>"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:23
+# header
+msgid "#### Setting up a virtual machine"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:25
+msgid "First choose a tool for generating VMs. Here the widely-used [VirtualBox](https://www.virtualbox.org/) is chosen. Download and install it on your system. To create a new machine click \"New\" in the top left. A window will pop up where you can enter a name for the machine and select what operating system and version of the operating system to use. In the figure below a machine called demo_VM running ubuntu is being created:"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:27
+msgid "![VM_create_machine](../../figures/VM_create_machine.png)"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:29
+msgid "As you click through you can adjust other features of the machine to be created such as how much memory it should have access to. The default options are suitable for most purposes, but this process permits customisation."
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:31
+msgid "<a name=\"Starting_a_virtual_machine\"></a>"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:33
+# header
+msgid "#### Starting a virtual machine"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:35
+msgid "To start a virtual machine simply select the machine from the list of VMs on the left, and click the green \"start\" arrow at the top:"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:37
+msgid "![VM_start_machine](../../figures/VM_start_machine.png)"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:39
+msgid "<a name=\"Sharing_virtual_virtual_machines\"></a>"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:41
+# header
+msgid "#### Sharing virtual virtual machines"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:43
+msgid "A researcher can do work on their VM, and then export the whole thing. To export a virtual machine click \"File\" in the top left and then \"Export\". This will export the VM as a single file which can be shared like any other."
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:45
+msgid "![VM_export_machine](../../figures/VM_export_machine.png)"
+msgstr ""
+
+#: reproducible_environments/05/virtual-machines.md:47
+msgid "Someone that has access to this file and VirtualBox installed just needs to click \"File\" in the top left and then \"Import\" and select that file. Once it is imported they can start the VM as described before by selecting it from the menu clicking the green start arrow at the top."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:1
+msgid "<a name=\"Containers_section\"></a>"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:3
+# header
+msgid "## Containers"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:5
+msgid "<a name=\"What_are_containers\"></a>"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:7
+# header
+msgid "### Why Containers?"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:9
+msgid "Even for moderately complex projects, the size of the software dependency stack can be huge. Take for example a simple"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:10
+msgid "pipeline to build a pdf report for an analysis scripted in R using Rmarkdown. To make this reproducible, not only (i)"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:11
+msgid "the respective R packages need to be installed and (ii) the R version needs to be the same, but also (iii) the versions"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:12
+msgid "of pandoc and LaTeX need to be exaclty the same as during runtime."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:14
+msgid "Instead of trying to resolve these dependencies via a package manager (such as conda) which also depends on all required"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:15
+msgid "software being available in a single package manager, it might be easier to simply create a snapshot of the entire"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:16
+msgid "computing environment including all dependencies. These computing environments are then self-contained, hence the name"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:17
+msgid "'containers'."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:19
+# header
+msgid "### What are containers?"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:21
+msgid "Containers allow a researcher to package up a project with all of the parts it needs, such as libraries, dependencies,"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:22
+msgid "and system settings and ship it all out as one package. Anyone can then open up a container and work within it, viewing"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:23
+msgid "and interacting with the project as if the machine they are accessing it from is identical to the machine specified in"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:24
+msgid "the container - regardless of what their computational environment _actually_ is. They are designed to make it easier to"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:25
+msgid "transfer projects between very different environments."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:27
+msgid "In a way, containers behave like a virtual machine. To the outside world, they look like their own complete system. But"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:28
+msgid "unlike a virtual machine, rather than creating a whole virtual operating system plus all the software and tools"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:29
+msgid "typically packaged with one, containers only contain the individual components they need in order to operate the project"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:30
+msgid "they contain. This gives a significant performance boost and reduces the size of the application."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:32
+msgid "Containers are particularly useful way for reproducing research which relies on software to be configured in a certain"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:33
+msgid "way, and/or which makes use of libraries that vary between (or don't exist on) different systems. In summary containers"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:34
+msgid "are a more robust way of sharing reproducible research than, for instance, package management systems or Binder because"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:35
+msgid "they reproduce the entire system used for the research, not just the packages explicitly used by it. Their major"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:36
+msgid "downside is that due to their greater depth they are conceptually more difficult to grasp and produce than many other"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:37
+msgid "methods of replicating computational environments."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:39
+msgid "Ben Corrie give as reasonably accessible overview on core concepts in"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:40
+msgid "['What is a container?'](https://www.youtube.com/watch?v=EnJ7qX9fkcU)."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:42
+msgid "<a name=\"What_are_images\"></a>"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:44
+# header
+msgid "### What are images?"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:46
+msgid "Images are the files used to generate containers. Humans don't make images, they write the recipes to generate images."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:47
+msgid "Containers are then identical copies instantiated from images."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:49
+msgid "Think of it like this:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:51
+# unordered list
+msgid "- A recipe file a human writes contains all the steps to generate a working version of the project and its computational"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:52
+msgid "  environment, but no actual materials. Think of this as like a blueprint."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:53
+# unordered list
+msgid "- Building an image takes that recipe and using it assembles all the packages, software libraries, and configurations"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:54
+msgid "  needed to make the fully fledged project and environment and bundles them up in a condensed lump. Think of images like"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:55
+msgid "  a bit of flat pack furniture made using the blueprint."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:56
+# unordered list
+msgid "- Containers take that image and assemble a full working version of the project and the environment needed to run it."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:57
+msgid "  Think of this as assembling the bit of flat pack furniture."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:59
+msgid "So if a researcher wants to allow others to reproduce their work they would need to write a recipe file, and use it to"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:60
+msgid "build an image of their project. They can then share this image file with anyone who wants to replicate their work. That"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:61
+msgid "person can then use the image to generate a container containing a working version of the project."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:63
+msgid "<a name=\"What_is_Docker\"></a>"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:65
+# header
+msgid "### What is Docker?"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:67
+msgid "There are a number of different tools available for creating and working with containers. We will focus on Docker, which"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:68
+msgid "is widely used, but be aware that others such as Singularity also exist. Singularity is sometimes preferred for use on"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:69
+msgid "HPC systems as it does not need `sudo` permissions to be run, while Docker does."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:71
+msgid "In Docker the recipe files used to generate images are known as Dockerfiles, and should be named \"Dockerfile\"."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:73
+msgid "[DockerHub](https://hub.docker.com/) hosts a great many pre-made images which can be downloaded and build upon, such as"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:74
+msgid "[images](https://hub.docker.com/_/ubuntu) of Ubuntu machines. This makes the process of writing Dockerfiles relatively"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:75
+msgid "easy since users very rarely need to start from scratch, they can just customise existing images. However, this does"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:76
+msgid "leave a user vulnerable to similar security issues as were described in the section on [YAML files](#Security_issues):"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:78
+# unordered list
+msgid "- It is possible to include malicious code in Docker images"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:79
+# unordered list
+msgid "- It is possible for people producing images to unknowingly include software in them with security vulnerabilities"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:81
+msgid "[This](https://opensource.com/business/14/7/docker-security-selinux) article goes deeper into the potential security"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:82
+msgid "vulnerabilities of containers and here is a"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:83
+msgid "[detailed breakdown](https://opensource.com/business/14/9/security-for-docker) of security features currently within"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:84
+msgid "Docker, and how they function. The best advice for using images built by others is as standard- only download and run"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:85
+msgid "something on your machine if it comes from a trusted source. DockerHub has \"official image\" badges for commonly used,"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:86
+msgid "verified images as shown here:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:88
+msgid "![Docker_official_image](../../figures/docker_official_image.png)"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:90
+msgid "<a name=\"Installing_Docker\"></a>"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:92
+# header
+msgid "### Installing Docker"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:94
+msgid "Installers for Docker on a variety of different systems are available [here](https://docs.docker.com/install/). Detailed"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:95
+msgid "installation instructions are also available for a variety of operating systems such as"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:96
+msgid "[ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/),"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:97
+msgid "[debian](https://docs.docker.com/install/linux/docker-ce/debian/),"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:98
+msgid "[Macs](https://docs.docker.com/docker-for-mac/install/), and"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:99
+msgid "[Windows](https://docs.docker.com/docker-for-windows/install/)."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:101
+msgid "<a name=\"Key_commands\"></a>"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:103
+# header
+msgid "### Key commands"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:105
+msgid "Here are a few key commands for creating and working with containers."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:107
+# unordered list
+msgid "- To build an image from a Dockerfile go to the directory where the Dockerfile is and run:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:108
+# code block
+msgid "  ```\n"
+"  sudo docker build tag=name_to_give_image .\n"
+"  ```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:111
+# unordered list
+msgid "- To list the images on your system use"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:112
+# code block
+msgid "  ```\n"
+"  sudo docker image ls\n"
+"  ```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:115
+# unordered list
+msgid "- To remove an image run"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:116
+# code block
+msgid "  ```\n"
+"  sudo docker rmi image_name\n"
+"  ```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:119
+# unordered list
+msgid "- To open a container from an image run"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:120
+# code block
+msgid "  ```\n"
+"  sudo docker run -i -t image_name\n"
+"  ```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:123
+msgid "  The `-i -t` flags automatically open up an interactive terminal within the container so you can view and interact with"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:124
+msgid "  the project files."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:125
+# unordered list
+msgid "- To exit an interactive terminal use the command `exit`."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:126
+# unordered list
+msgid "- To get a list of active containers with IDs run"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:127
+# code block
+msgid "  ```\n"
+"  sudo docker container ls\n"
+"  ```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:130
+# unordered list
+msgid "- There are also three main commands used for changing the status of containers:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:131
+# unordered list
+msgid "  - Pausing suspends the process running the container."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:132
+# code block
+msgid "    ```\n"
+"    sudo docker container_ID pause\n"
+"    ```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:135
+msgid "    Containers can be unpaused by replacing `pause` with `unpause`."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:136
+# unordered list
+msgid "  - Stopping a container terminates the process running it. A container must be stopped before it can be deleted."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:137
+# code block
+msgid "    ```\n"
+"    sudo docker container_ID stop\n"
+"    ```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:140
+msgid "    A stopped container can be restarted by replacing `stop` with `restart`."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:141
+# unordered list
+msgid "  - If `stop` does not work containers can be killed using"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:142
+# code block
+msgid "    ```\n"
+"    sudo docker container_ID kill\n"
+"    ```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:145
+# unordered list
+msgid "- To remove a container run"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:146
+# code block
+msgid "  ```\n"
+"  sudo docker rm container_ID\n"
+"  ```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:150
+msgid "<a name=\"Writing_Dockerfiles\"></a>"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:152
+# header
+msgid "### Writing Dockerfiles"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:154
+msgid "Let's go through the anatomy of a very simple Dockerfile:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:156
+# code block
+msgid "```\n"
+"# Step 1: Set up the computational environment\n"
+"\n"
+"# Set the base image\n"
+"FROM ubuntu\n"
+"\n"
+"# Install packages needed to run the project\n"
+"RUN apt-get update\n"
+"RUN apt-get install sudo\n"
+"RUN sudo apt-get update\n"
+"RUN sudo apt-get install -y python3.7\n"
+"RUN sudo apt-get install -y python3-pip\n"
+"RUN pip3 install numpy\n"
+"\n"
+"#-----------------------\n"
+"\n"
+"# Step 2: Include the project files in the image\n"
+"\n"
+"# Make a directory called \"project\" to hold the project files\n"
+"RUN mkdir project\n"
+"\n"
+"# Copy files from the project_files directory on the machine building the image\n"
+"# into the \"project\" directory created by the previous line of code\n"
+"COPY project_files/* project/\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:182
+msgid "This looks complicated, but most of the lines in this example are comments (which are preceded by `#`s), There are only"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:183
+msgid "nine lines of actual code. The first of these is a `FROM` statement specifying a base image. All Dockerfiles require a"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:184
+msgid "FROM, even if it's just `FROM SCRATCH`. All the following commands in a Dockerfile build upon the base image to make a"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:185
+msgid "functioning version of the researcher's project."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:187
+msgid "It is worth spending time carefully choosing an appropriate base image as doing do can reduce the amount of work"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:188
+msgid "involved in writing a Dockerfile dramatically. For example a collection of images with the R programming language"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:189
+msgid "included in them can be found [here](https://github.com/rocker-org/rocker-versioned). If a project makes use of R it is"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:190
+msgid "convenient to use one of these as a base image rather than spend time writing commands in your Dockerfile to install R."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:192
+msgid "The biggest block of lines comes next, it's a series of `RUN` statements, which run shell command when building the"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:193
+msgid "image. In this block they are used to install the software necessary to run the project. Run commands can also be"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:194
+msgid "chained as follows if desired:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:196
+# code block
+msgid "```\n"
+"RUN command_to_do_thing_1 \\\n"
+"   && command_to_do_thing_2 \\\n"
+"   && command_to_do_thing_3 \\\n"
+"   && command_to_do_thing_4\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:203
+msgid "Another RUN statement is used to run the shell command `RUN mkdir project` which makes a directory called project in the"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:204
+msgid "container to host the files related to this project."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:206
+msgid "Finally the `COPY` command is used to copy the project files from the machine building the image into the image itself."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:207
+msgid "The syntax of this command is `COPY file_to_copy location_in_container_to_copy_to`. In this example all the files in the"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:208
+msgid "\"project_files\" directory are included in the \"project\" file in the container. Note that you can only copy files from"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:209
+msgid "the directory where the Dockerfile is located, or subdirectories within it (in the example given here the project_files"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:210
+msgid "subdirectory)."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:212
+msgid "The `ADD` command has the same capabilities as `COPY`, but it can also be used to add files not on the machine building"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:213
+msgid "the image. For example it can be used to include files hosted online by following ADD with a URL to the file. It is good"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:214
+msgid "practice to use `COPY` except where `ADD` is specifically required as the term `COPY` is more explicit about what is"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:215
+msgid "being done."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:217
+msgid "Here's what happens if a container is opened from an image called book_example built from the example above:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:219
+msgid "![container_example](../../figures/container_example.png)"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:221
+msgid "As you can see the directory \"project\" has been created, and if we look inside the project files \"analysis.py\" and"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:222
+msgid "\"data.csv\" have been copied into it. Because the software required for the project has already been included by the"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:223
+msgid "Dockerfile in the image the \"analysis.py\" script runs without any further software needing to be installed."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:225
+msgid "<a name=\"WORKDIR\"></a>"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:227
+# header
+msgid "#### WORKDIR"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:229
+msgid "This command can be used in Dockerfiles to change the current working directory. Commands that follow this in the"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:230
+msgid "Dockerfile will be applied within the new working directory unless/until another WORKDIR changes the working directory."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:231
+msgid "When a container is opened with an interactive terminal the terminal will open in the final working directory. Here's a"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:232
+msgid "simple example of a Dockerfile that uses `WORKDIR`, and the container it generates."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:234
+# code block
+msgid "```\n"
+"# Basic setup\n"
+"FROM ubuntu\n"
+"RUN apt-get update\n"
+"\n"
+"# Make a directory called A\n"
+"RUN mkdir A\n"
+"\n"
+"# Make the working directory A\n"
+"WORKDIR A\n"
+"\n"
+"# Make two directories, one called B_1 and one called B_2\n"
+"RUN mkdir B_1\n"
+"RUN mkdir B_2\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:250
+msgid "![workdir_example](../../figures/workdir_example.png)"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:252
+msgid "Directories B_1 and B_2 have been created within directory A."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:254
+msgid "WORKDIR should be used whenever changing directories is necessary when building an image. It may be tempting to use"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:255
+msgid "`RUN cd directory_name` instead as this syntax will be more familiar to those that commonly work via the command line,"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:256
+msgid "but this can lead to errors. After each `RUN` statement in a Dockerfile the image is saved, any following commands are"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:257
+msgid "applied to the image anew. As an example here is what happens in the above example if the `WORKDIR A` line is swapped"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:258
+msgid "for `RUN cd A`"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:260
+msgid "![cd_example](../../figures/cd_example.png)"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:262
+msgid "All the directories have are in the top level in this case, rather than B_1 and B_2 being inside A. This is because the"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:263
+msgid "image was restarted after the `RUN cd A` command and opened at the top (root) level by default, so that is where the"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:264
+msgid "`mkdir B_1` and `mkdir B_2` commands took effect."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:266
+msgid "<a name=\"Other_commands\"></a>"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:268
+# header
+msgid "#### Other commands"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:270
+msgid "Other commands that are sometimes used in Dockerfiles include:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:272
+# unordered list
+msgid "- `CMD`: This is used to run commands as soon as the container is opened. To clarify this is different to RUN commands"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:273
+msgid "  which are commands run as part of _setting up_ a container. For example to have a welcome message when a container is"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:274
+msgid "  opened from the image CMD could be used as follows:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:275
+# code block
+msgid "  ```\n"
+"  CMD [\"echo\",\"Welcome! You just opened this container!\"]\n"
+"  ```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:278
+msgid "  It's good practice to use CMD for any commands that need to be run before someone starts working in the container"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:279
+msgid "  instead of forcing users to run them themselves (and trusting that they will even know that they need to)."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:280
+# unordered list
+msgid "- `VOLUMES`: These will be discussed [later](#Volumes)."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:281
+# unordered list
+msgid "- `MAINTAINER`: information regarding the person that wrote the Dockerfile. Typically included at the top of a"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:282
+msgid "  Dockerfile."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:283
+# unordered list
+msgid "- `EXPOSE`: This includes ports that should be exposed, this is more relevant to people using Docker to share web apps."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:284
+# unordered list
+msgid "- `USER`: Change the user that a command is run as (useful for dropping privileges)."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:286
+msgid "<a name=\"Building_images_and_dockerignore_files\"></a>"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:288
+# header
+msgid "### Building images and .dockerignore files"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:290
+msgid "As mentioned in the [key commands](#Key_commands) section, to build an image open a terminal in the same directory as"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:291
+msgid "the Dockerfile to be used and run"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:293
+# code block
+msgid "```\n"
+"sudo docker build tag=name_to_give_image .\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:297
+msgid "When an image is built everything in the Dockerfile's directory and below (this is called the \"context\") is sent to the"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:298
+msgid "Docker daemon to build the image. The deamon uses the Dockerfile and its context to build the image. If the context"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:299
+msgid "contains many large files which aren't needed for building the image (old datafiles, for example) then it is a waste of"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:300
+msgid "time sending them to the daemon, and doing do can make the process of building an image slow. Files can be excluded from"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:301
+msgid "the context by listing them in a text file called .dockerignore, and it is good practise to do so."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:303
+msgid "The files do not need to be listed individually in the .dockerignore file. Here is an example of the contents of a"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:304
+msgid ".dockerignore file:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:306
+# code block
+msgid "```\n"
+"*.jpg\n"
+"**/*.png\n"
+"data_files/*\n"
+"file_to_exclude.txt\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:313
+msgid "This excludes from the context:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:315
+# unordered list
+msgid "- All jpg files in the same directory as the Dockerfile file"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:316
+# unordered list
+msgid "- All png files in the same directory as the Dockerfile file _or any subdirectories within it_"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:317
+# unordered list
+msgid "- All files within the data_files directory"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:318
+# unordered list
+msgid "- The file named \"file_to_exclude.txt\""
+msgstr ""
+
+#: reproducible_environments/06/containers.md:320
+msgid "<a name=\"Sharing_images\"></a>"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:322
+# header
+msgid "### Sharing images"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:324
+msgid "Docker images can be shared most easily via [DockerHub](https://hub.docker.com/), which requires an account. Say two"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:325
+msgid "researchers, Alice and Bob, are collaborating on a project and Alice wishes to share an image of some of her work with"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:326
+msgid "Bob."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:328
+msgid "To do this Alice must:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:330
+# unordered list
+msgid "- Write a Dockerfile to produce an image of her work"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:331
+# unordered list
+msgid "- Build the image. She (being inventive) calls it image_name"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:332
+# unordered list
+msgid "- Go to DockerHub and sign up for an account. Say Alice (again, being inventive) chooses the username username_Alice"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:333
+# unordered list
+msgid "- Log into DockerHub via the terminal on her machine using `sudo docker login`"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:334
+# unordered list
+msgid "- Tag the image of her project on her machine via the command line by supplying the name of the image and using the"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:335
+msgid "  pattern `username/image_name:version`, so Alice runs the command:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:336
+# code block
+msgid "  ```\n"
+"  sudo docker tag image_name username_Alice/image_name:version_1\n"
+"  ```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:339
+# unordered list
+msgid "- Push the image to her DockerHub account using `sudo docker tag push username_Alice/image_name:version_1`"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:340
+# unordered list
+msgid "- Alice's image is now online and can be downloaded. Over to Bob..."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:342
+msgid "Bob (assuming he already has Docker installed) can open a container from Alice's image simply by running"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:344
+# code block
+msgid "```\n"
+"sudo docker run -i -t username_Alice/image_name:version_1\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:348
+msgid "Initially Docker will search for this image on Bob's machine, and when it doesn't find it it will _automatically_ search"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:349
+msgid "DockerHub, download Alice's image, and open the container with Alice's work and environment on Bob's machine."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:351
+msgid "<a name=\"Copying_files_to_and_from_containers\"></a>"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:353
+# header
+msgid "### Copying files to and from containers"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:355
+msgid "Containers act much like virtual machines, as a result copying files into and out of them is not as trivial as copying"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:356
+msgid "files to different locations within the same computer is."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:358
+msgid "A file can be copied from the machine running a container into the container using:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:360
+# code block
+msgid "```\n"
+"sudo docker cp file_name conteriner_ID:path_to_where_to_put_file/file_name\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:364
+msgid "Recall that container IDs can be obtained using `sudo docker container ls`."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:366
+msgid "A file can be copied from within a container to the machine running the container by running the following command on"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:367
+msgid "the machine running the container:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:369
+# code block
+msgid "```\n"
+"sudo docker cp conteriner_ID:path_to_file/file_name path_to_where_to_put_file/file_name\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:373
+msgid "If the second part (the `path_to_where_to_put_file/file_name`) is substituted for a `.` then the file will be copied to"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:374
+msgid "whatever directory the terminal running the command is in."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:376
+msgid "<a name=\"Volumes\"></a>"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:378
+# header
+msgid "### Volumes"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:380
+msgid "Every time a container is opened from an image that container is completely new. For example say a container is opened"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:381
+msgid "and work is done within it, files created, changed, deleted and so on. If that container is then closed and the image it"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:382
+msgid "came from is again used to start a container none of that work will be in the new one. It will simply have the starting"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:383
+msgid "state described in the image."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:385
+msgid "This can be a problem if a researcher wants to work in a container over a period of time, but there is a way around this"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:386
+msgid "using \"volumes\". These store work done within a container even after it is closed, and can then be used to load that"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:387
+msgid "work into future containers."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:389
+msgid "To create/use a volume run"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:391
+# code block
+msgid "```\n"
+"sudo docker run -i -t --mount source=volume_name,target=/target_dirctory image_name\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:395
+msgid "Hopefully you will give your volume a more descriptive name than volume_name. A \"target\" directory is required, only"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:396
+msgid "work within this directory in the container which will be saved in the volume. Once the researcher is done they can"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:397
+msgid "close the container as normal. When they come back to the project and want to continue their work they just need to use"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:398
+msgid "the exact same command as above, and it will load the work contained in volume_name into the new container. It will save"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:399
+msgid "any new work there too."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:401
+msgid "Volume related commands:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:403
+# unordered list
+msgid "- List volumes: `sudo docker volume ls`"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:404
+# unordered list
+msgid "- Delete a volume: `sudo docker volume rm volume_name`"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:405
+# unordered list
+msgid "- Delete all unattached volumes: `sudo docker volume prune`"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:406
+# unordered list
+msgid "- If, when deleting a container a `-v` is included after `rm` in `sudo docker rm container_ID` any volumes associated"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:407
+msgid "  with the container will also be deleted."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:409
+msgid "<a name=\"Singularity\"></a>"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:411
+# header
+msgid "### Singularity"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:413
+# blockquote, which can be cascaded
+msgid "> Prerequisites: At present, Singularity only runs on linux systems (for example Ubuntu). If you use, macOS,"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:414
+# blockquote, which can be cascaded
+msgid "> [Singularity Desktop for macOS](https://www.sylabs.io/singularity-desktop-macos/) is in \"Alpha Preview\" stage."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:416
+msgid "A major drawback of Docker for reproducible research is that it is not intended as a user-space application but as a"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:417
+msgid "tool for server administrators. As such it requires root access to operate. There is, however, no reason why the"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:418
+msgid "execution of an analysis should require root access for the user. This is especially important when computations are"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:419
+msgid "conducted on shared resource like HPC systems where users will never have root access."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:421
+msgid "The [singularity](https://www.sylabs.io/) container software was introduced to address exactly this issue. Singularity"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:422
+msgid "was created with HPC sytems and reproducible research in mind (see [this](https://www.youtube.com/watch?v=DA87Ba2dpNM)"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:423
+msgid "video). It does not require root access to run (only to build container _images_!) and thus enables HPC users to locally"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:424
+msgid "build container images before running analyses, for example, on a high-performance cluster. As an added benefit, this makes it"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:425
+msgid "possible to use almost any software on an HPC system without having to bother admin staff with installing it. In"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:426
+msgid "recognition of the fact that Docker is _the_ most well known containerization approach, singularity aims at maintaining"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:427
+msgid "compatibility with docker containers as much as possible, meaning that singularity can be used to run normal docker containers"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:428
+msgid "(without requiring root access!)."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:430
+msgid "Singularity can be used to run Docker images or extend them by building new images based on docker containers as base"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:431
+msgid "layer. For instance, we could use singularity to spin up a vanilla ubuntu container and getting a shell in it using the"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:432
+msgid "ubuntu docker image via"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:434
+# code block
+msgid "```\n"
+"singularity shell docker://ubuntu\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:438
+msgid "(type `exit` to leave the interactive shell again)."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:440
+msgid "Just as docker images are built using `Dockerfile` files, singularity containers are built from singularity definition"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:441
+msgid "files. The process and syntax is similar to docker files but there are subtle differences. As a minimal working example,"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:442
+msgid "we can build a 'lolcow' container based on the official ubuntu docker container image. Put the following in a"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:443
+msgid "`lolcow.def` file (based on the"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:444
+msgid "[Singularity documentation](https://www.sylabs.io/guides/3.2/user-guide/build_a_container.html)):"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:446
+# code block
+msgid "```\n"
+"Bootstrap: docker\n"
+"From: ubuntu\n"
+"\n"
+"%post\n"
+"    apt-get -y update\n"
+"    apt-get -y install fortune cowsay lolcat\n"
+"\n"
+"%environment\n"
+"    export LC_ALL=C\n"
+"    export PATH=/usr/games:$PATH\n"
+"\n"
+"%runscript\n"
+"    fortune | cowsay | lolcat\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:462
+msgid "This 'recipe' uses a docker image as basis (here: ubuntu) installs a few apt packages, modifies a few environment"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:463
+msgid "variables, and specifies the runscript (which is executed using the `singularity run` command). Details on the"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:464
+msgid "singularity definition file format can be found in the official [documentation](https://www.sylabs.io/docs/)."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:466
+msgid "A container image can then be built (requiring root!) via"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:468
+# code block
+msgid "```\n"
+"sudo singularity build lolcow.simg lolcow.def\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:472
+msgid "This will pull the ubuntu image from dockerhub, run the steps of the recipe in the definition file and produce a single"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:473
+msgid "output image file (`lolcow.simg`). Finally the runscript is executed as"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:475
+# code block
+msgid "```\n"
+"singularity run lolcow.simg\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:479
+msgid "Ideally, you should see a nice ASCII cow and a few words of wisdom, as in"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:481
+# code block
+msgid "```\n"
+"___________________________________\n"
+"/ You will be called upon to help a \\\n"
+"\\ friend in trouble.                /\n"
+"-----------------------------------\n"
+"       \\   ^__^\n"
+"        \\  (oo)\\_______\n"
+"           (__)\\       )\\/\\\n"
+"               ||----w |\n"
+"               ||     ||\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:493
+msgid "Being HPC compatible, singularity containers are also supported by a wide range of workflow management tools. For"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:494
+msgid "example, both [snakemake](https://snakemake.readthedocs.io/en/stable/) and"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:495
+msgid "[nextflow](https://www.nextflow.io/docs/latest/singularity.html) support job-specific singularity containers. This makes"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:496
+msgid "singularity containers uniquely suited for parallelizing workflows on HPC systems using the widely used"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:497
+msgid "[slurm](https://slurm.schedmd.com/documentation.html) workload manager. Using singularity containers and"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:498
+msgid "snakemake/nextflow is therefore a way of scaling reproducibility to massive scale and - as an added benefit - bringing"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:499
+msgid "workflows from a desktop machine to an HPC system no longer requires writing custom job submission scripts."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:501
+# header
+msgid "#### Long-term storage of container images"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:503
+msgid "It is important to note that a mere container recipe file is not reproducible in itself since the build process depends"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:504
+msgid "on various (online) sources. Thus the same recipe file might lead to different images if the underlying sources were"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:505
+msgid "updated."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:507
+msgid "To achieve true reproducibility, it is therefore important to store the actual container _images_. For singularity"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:508
+msgid "images, this is particularly easy since an image is simply a large file. These can vary in size from a few tens of"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:509
+msgid "megabytes (microcontainers) to several gigabyte and are therefore not suited for being stored in a git repository"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:510
+msgid "themselves. A free, citable, and long-term solution to storing container images is [zenodo.org](https://zenodo.org/)"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:511
+msgid "which allows up to 50 Gb per repository. Since zenodo is minting DOIs for all content uploaded, the images are"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:512
+msgid "immediately citable. In contrast to [dockerhub](https://hub.docker.com/) (which also only accepts docker images)"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:513
+msgid "zenodo.org is also clearly geared towards long-term storage and discoverability via a sophisticated metadata system and"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:514
+msgid "thus ideally suited for storing scientific containers associated with particular analyses since these tend to not change"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:515
+msgid "over time."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:517
+# header
+msgid "#### Words of Warning"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:519
+msgid "Even though singularity and docker might look similar, they are conceptually very different. Besides the obvious fact"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:520
+msgid "that singularity does not require root access to run containers, it also handles the distinction between the host and"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:521
+msgid "container file system differently. For instance, by default singularity includes a few bind points in the container,"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:522
+msgid "namely:"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:524
+# unordered list
+msgid "- `$HOME`"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:525
+# unordered list
+msgid "- `/sys:/sys`"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:526
+# unordered list
+msgid "- `/proc:/proc`"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:527
+# unordered list
+msgid "- `/tmp:/tmp`"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:528
+# unordered list
+msgid "- `/var/tmp:/var/tmp`"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:529
+# unordered list
+msgid "- `/etc/resolv.conf:/etc/resolv.conf`"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:530
+# unordered list
+msgid "- `/etc/passwd:/etc/passwd`"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:531
+# unordered list
+msgid "- `$PWD`"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:533
+msgid "Note, `$PWD` comes in handy since it implies that all files in the working directory are visible within the container."
+msgstr ""
+
+#: reproducible_environments/06/containers.md:534
+msgid "Binding `$HOME` by default, however, also implies that software using configuration files from `$HOME` might behave in"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:535
+msgid "an unexpected way since the image specific configuration files are overwritten with the current users settings in"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:536
+msgid "`$HOME`. While this behaviour is handy in HPC scenarios, it is potentially dangerous for reproducible research. To avoid"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:537
+msgid "potential issues, any software installed in a singularity container should be pointed to a global, user-independent"
+msgstr ""
+
+#: reproducible_environments/06/containers.md:538
+msgid "configuration files."
+msgstr ""
+
+#: reproducible_environments/07/checklist.md:1
+msgid "<a name=\"Checklist\"></a>"
+msgstr ""
+
+#: reproducible_environments/07/checklist.md:3
+# header
+msgid "## Checklist"
+msgstr ""
+
+#: reproducible_environments/07/checklist.md:5
+# unordered list
+msgid "- [ ] Choose the most appropriate method for your project for capturing your computational environment"
+msgstr ""
+
+#: reproducible_environments/07/checklist.md:6
+# unordered list
+msgid "- [ ] Capture your computational environment"
+msgstr ""
+
+#: reproducible_environments/07/checklist.md:7
+# unordered list
+msgid "- [ ] Share your captured computational environment along with your results/analysis"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:1
+msgid "<a name=\"What_to_learn_next\"></a>"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:3
+# header
+msgid "## What to learn next"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:5
+msgid "We recommend reading the chapter on testing, and then the chapter on continuous integration. Note that the chapter on version control is a prerequisite for the chapter on continuous integration. The open research chapter also contains further information on sharing research reproducibly."
+msgstr ""
+
+#: reproducible_environments/08/resources.md:7
+msgid "<a name=\"Further_reading\"></a>"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:9
+# header
+msgid "## Further reading"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:11
+msgid "The [Docker documentation](https://docs.docker.com/get-started/) contains a lot of information about containers in general."
+msgstr ""
+
+#: reproducible_environments/08/resources.md:13
+msgid "<a name=\"Definitions_glossary\"></a>"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:15
+# header
+msgid "## Definitions/glossary"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:17
+msgid "**Binder:** A web-based service which allows users to upload and share fully-functioning versions of their projects in an environment they define."
+msgstr ""
+
+#: reproducible_environments/08/resources.md:19
+msgid "**Computational environment:** Features of a computer which can impact the behaviour of work done on it, such as its operating system, what software it has installed, and what versions of software packages are installed."
+msgstr ""
+
+#: reproducible_environments/08/resources.md:21
+msgid "**Conda:** A commonly used package management system."
+msgstr ""
+
+#: reproducible_environments/08/resources.md:23
+msgid "**Container:** Lightweight files that can encapsulate and entire computational environment including its operating system, customised settings, software and files."
+msgstr ""
+
+#: reproducible_environments/08/resources.md:25
+msgid "**Dockerfile:** A file used for creating Docker images"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:27
+msgid "**Image:** Files used for generating containers."
+msgstr ""
+
+#: reproducible_environments/08/resources.md:29
+msgid "**Package management system:** A tool for installing, managing, and uninstalling software packages including specific versions."
+msgstr ""
+
+#: reproducible_environments/08/resources.md:31
+msgid "**Virtual machine:** A simulated computer that can encapsulate and entire computational environment including its operating system, customised settings, software and files."
+msgstr ""
+
+#: reproducible_environments/08/resources.md:33
+msgid "**YAML:** A human readable/writable markup language which used by many projects for configuration files."
+msgstr ""
+
+#: reproducible_environments/08/resources.md:35
+msgid "<a name=\"Bibliography\"></a>"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:37
+# header
+msgid "## Bibliography"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:39
+# header
+msgid "### Materials in the \"what is a computational environment\" section"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:41
+# unordered list
+msgid "- [semantic versioning](https://semver.org) **Creative Commons - CC BY 3.0**"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:43
+# header
+msgid "### Materials in the \"how this will help you/why this is useful\" section"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:45
+# unordered list
+msgid "- [A. Brinckman, et al., Computing environments for reproducibility: Capturing the \"Whole Tale\", Future Generation Computer Systems (2018), https://doi.org/10.1016/j.future.2017.12.029](https://www.sciencedirect.com/science/article/pii/S0167739X17310695) **Attribution 4.0 International (CC BY 4.0)**"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:46
+#: reproducible_environments/08/resources.md:50
+# unordered list
+msgid "- [Paper presenting singularity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) **CC0 1.0 Universal (CC0 1.0)**"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:48
+# header
+msgid "### Materials in the summary of ways to capture computational environments section"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:52
+# header
+msgid "### Materials in the package management systems section"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:54
+# unordered list
+msgid "- [Package Managers](https://opensource.com/article/18/7/evolution-package-managers) **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:55
+# unordered list
+msgid "- [Talk by Will Furnass on Conda](https://github.com/willfurnass/conda-rses-pres/blob/master/content.md) **Attribution-NonCommercial-ShareAlike 4.0 International**"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:57
+# header
+msgid "### Materials in the YAML files section"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:59
+# unordered list
+msgid "- [YAML tutorial](https://gettaurus.org/docs/YAMLTutorial/) **[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)**"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:61
+# header
+msgid "### Materials in the Binder section"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:63
+# unordered list
+msgid "- [Binder illustration](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/) **Permission to use granted by Juliette Taka, Logilab and the OpenDreamKit project.**"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:64
+# unordered list
+msgid "- [mybinder docs intro](https://github.com/jupyterhub/binder/blob/master/doc/introduction.rst) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:65
+# unordered list
+msgid "- [Original zero to Binder tutorial](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:66
+# unordered list
+msgid "- [Sarah Gibson's zero to Binder](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder.md) **MIT**"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:67
+# unordered list
+msgid "- [Zero to Binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:69
+# header
+msgid "### Materials in the virtual machines section"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:71
+# unordered list
+msgid "- [Bryan Brown LITA blog](https://litablog.org/2014/12/virtual-machines-in-a-nutshell/) **[Copyright granted for educational use](http://www.ala.org/copyright)**"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:73
+# header
+msgid "### Materials in the containers section"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:75
+# unordered list
+msgid "- [What is docker?](https://opensource.com/resources/what-docker) **CC BY-SA 4.0**"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:76
+# unordered list
+msgid "- [What are containers?](https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ) **CC BY-SA 4.0**"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:77
+# unordered list
+msgid "- [Docker carpentry](http://www.manicstreetpreacher.co.uk/docker-carpentry/aio/) **Creative Commons Attribution 4.0**"
+msgstr ""
+
+#: reproducible_environments/08/resources.md:78
+# unordered list
+msgid "- [Geohackweek tutorial](https://geohackweek.github.io/Introductory/docker-tutorial_temp/) **Creative Commons Attribution 3.0 Unported**"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:1
+# header
+msgid "# Reproducible environments"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:3
+# header
+msgid "## Prerequisites / recommended skill level"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:5
+msgid "| Prerequisite                                                                                  | Importance | Notes                                                                                    |"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:6
+msgid "| --------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------- |"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:7
+msgid "| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary  | Experience with downloading software via the command line is particularly useful         |"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:8
+msgid "| [Version control](/version_control/version_control)                                           | Helpful    | Experience using git and GitHub are helpful for the section on [Binder](#Binder_section) |"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:10
+msgid "A tutorial on working via the command line can be found"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:11
+msgid "[here](https://programminghistorian.org/en/lessons/intro-to-bash)."
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:13
+msgid "Recommended skill level: intermediate-advanced."
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:15
+# header
+msgid "## Table of contents"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:17
+# unordered list
+msgid "- [Summary](#Summary)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:18
+# unordered list
+msgid "  - [What is a computational environment?](#What_is_a_computational_environment)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:19
+# unordered list
+msgid "- [How this will help you/why this is useful](#How_this_will_help_you_why_this_is_useful)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:20
+# unordered list
+msgid "- [Summary of ways to capture computational environments](./01/options#Summary_of_ways_to_capture_computational_environments)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:21
+# unordered list
+msgid "  - [Package management systems outline](./01/options#Package_management_systems_outline)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:22
+# unordered list
+msgid "  - [Binder outline](./01/options#Binder_outline)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:23
+# unordered list
+msgid "  - [Virtual machines outline](./01/options#Virtual_machines_outline)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:24
+# unordered list
+msgid "  - [Containers outline](./01/options#Containers_outline)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:25
+# unordered list
+msgid "- [Package management systems](./02/package-management#Package_management_systems)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:26
+# unordered list
+msgid "  - [What does Conda do?](./02/package-management#What_does_Conda_do)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:27
+# unordered list
+msgid "  - [Installing Conda](./02/package-management#Installing_Conda)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:28
+# unordered list
+msgid "  - [Making and using environments](./02/package-management#Making_and_using_environments)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:29
+# unordered list
+msgid "  - [Deactivating and deleting environments](./02/package-management#Deactivating_and_deleting_environments)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:30
+# unordered list
+msgid "  - [Installing and removing packages within an environment](./02/package-management#Installing_and_removing_packages_within_an_environment)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:31
+# unordered list
+msgid "  - [Exporting and reproducing computational environments](./02/package-management#Exporting_and_reproducing_computational_environments)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:32
+# unordered list
+msgid "- [YAML files](./03/yaml#YAML_files)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:33
+# unordered list
+msgid "  - [YAML syntax](./03/yaml#YAML_syntax)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:34
+# unordered list
+msgid "    - [Scalars](./03/yaml#Scalars)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:35
+# unordered list
+msgid "    - [Lists and Dictionaries](./03/yaml#Lists_and_Dictionaries)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:36
+# unordered list
+msgid "    - [YAML gotchas](./03/yaml#YAML_gotchas)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:37
+# unordered list
+msgid "  - [How to use YAML to define computational environments](./03/yaml#How_to_use_YAML_to_define_computational_environments)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:38
+# unordered list
+msgid "  - [Security issues](./03/yaml#Security_issues)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:39
+# unordered list
+msgid "- [Binder](./04/binder#Binder_section)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:40
+# unordered list
+msgid "  - [Disambiguation](./04/binder#Disambiguation)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:41
+# unordered list
+msgid "  - [Creating a Binder for a project](./04/binder#Creating_a_binder_for_a_project)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:42
+# unordered list
+msgid "    - [Step 1: Specify your computational environment](./04/binder#Step_1_Specify_your_computational_environment)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:43
+# unordered list
+msgid "    - [Step 2: Put your code on GitHub](./04/binder#Step_2_Put_your_code_on_GitHub)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:44
+# unordered list
+msgid "    - [Step 3: Generate a link to a Binder of your project](./04/binder#Step_3_Generate_a_link_to_a_Binder_of_your_project)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:45
+# unordered list
+msgid "  - [Including data in a Binder](./04/binder#Including_data_in_a_Binder)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:46
+# unordered list
+msgid "    - [Small public files](./04/binder#Small_public_files)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:47
+# unordered list
+msgid "    - [Medium public files](./04/binder#Medium_public_files)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:48
+# unordered list
+msgid "    - [Large public files](./04/binder#Large_public_files)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:49
+# unordered list
+msgid "- [Virtual machines](./05/virtual-machines#Virtual_machines)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:50
+# unordered list
+msgid "  - [What are virtual machines?](./05/virtual-machines#What_are_virtual_machines)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:51
+# unordered list
+msgid "  - [Using virtual machines for reproducible research](./05/virtual-machines#Using_virtual_machines_for_reproducible_research)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:52
+# unordered list
+msgid "    - [Setting up a virtual machine](./05/virtual-machines#Setting_up_a_virtual_machine)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:53
+# unordered list
+msgid "    - [Starting a virtual machine](./05/virtual-machines#Starting_a_virtual_machine)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:54
+# unordered list
+msgid "    - [Sharing virtual virtual machines](./05/virtual-machines#Sharing_virtual_virtual_machines)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:55
+# unordered list
+msgid "- [Containers](./06/containers#Containers_section)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:56
+# unordered list
+msgid "  - [What are containers?](./06/containers#What_are_containers)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:57
+# unordered list
+msgid "  - [What are images](./06/containers#What_are_images)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:58
+# unordered list
+msgid "  - [What is Docker?](./06/containers#What_is_Docker)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:59
+# unordered list
+msgid "  - [Installing Docker](./06/containers#Installing_Docker)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:60
+# unordered list
+msgid "  - [Key commands](./06/containers#Key_commands)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:61
+# unordered list
+msgid "  - [Writing Dockerfiles](./06/containers#Writing_Dockerfiles)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:62
+# unordered list
+msgid "    - [WORKDIR](./06/containers#WORKDIR)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:63
+# unordered list
+msgid "    - [Other commands](./06/containers#Other_commands)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:64
+# unordered list
+msgid "  - [Building images and .dockerignore files](./06/containers#Building_images_and_dockerignore_files)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:65
+# unordered list
+msgid "  - [Sharing images](./06/containers#Sharing_images)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:66
+# unordered list
+msgid "  - [Singularity](./06/containers#Singularity)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:67
+# unordered list
+msgid "  - [Copying files to and from containers](./06/containers#Copying_files_to_and_from_containers)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:68
+# unordered list
+msgid "  - [Volumes](./06/containers#Volumes)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:69
+# unordered list
+msgid "- [Checklist](./07/checklist#Checklist)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:70
+# unordered list
+msgid "- [What to learn next](./08/resources#What_to_learn_next)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:71
+# unordered list
+msgid "- [Further reading](./08/resources#Further_reading)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:72
+# unordered list
+msgid "- [Definitions/glossary](./08/resources#Definitions_glossary)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:73
+# unordered list
+msgid "- [Bibliography](./08/resources#Bibliography)"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:75
+msgid "<a name=\"Summary\"></a>"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:77
+# header
+msgid "## Summary"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:79
+msgid "Every computer has its own unique computational environment consisting of its operating system, what software it has"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:80
+msgid "installed, what versions of software packages are installed, and other features that we will describe later. If a"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:81
+msgid "research project is carried out on one computer and then that project and all its associated files are transferred to a"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:82
+msgid "different computer, there is no guarantee the analysis will even be able to run, let alone generate the same results, if"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:83
+msgid "the analysis is dependent on any of the considerations listed above."
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:85
+msgid "In order for research to be reproducible, the computational environment that it was conducted in must be captured in"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:86
+msgid "such a way that it can be replicated by others. This chapter describes a variety of methods for capturing computational"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:87
+msgid "environments and gives guidance on their strengths and weaknesses."
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:89
+msgid "<a name=\"What_is_a_computational_environment\"></a>"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:91
+# header
+msgid "### What is a computational environment?"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:93
+msgid "In broad terms, the computational environment is the system where a program is run. This includes features of hardware"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:94
+msgid "(such as the numbers of cores in any CPUs) and features of software (such as the operating system, programming languages,"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:95
+msgid "supporting packages and other pieces of software that are installed, and their versions and configuration)."
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:97
+msgid "Software versions are often defined via [semantic versioning](https://semver.org). In this system three numbers, e.g"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:98
+msgid "2.12.4 are used to define each version of a piece of software. When a change is made to the software its version is"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:99
+msgid "incremented. These three numbers follow the pattern MAJOR.MINOR.PATCH, and are incremented as follows:"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:101
+# unordered list
+msgid "- MAJOR: significant changes"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:102
+# unordered list
+msgid "- MINOR: to add functionality"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:103
+# unordered list
+msgid "- PATCH: for bug fixes"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:105
+msgid "<a name=\"How_this_will_help_you_why_this_is_useful\"></a>"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:107
+# header
+msgid "## How this will help you/ why this is useful"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:109
+msgid "Let's go though an example of why computational environments are important. Say I have a very simple Python script:"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:111
+# code block
+msgid "```\n"
+"a = 1\n"
+"b = 5\n"
+"print(a/b)\n"
+"```"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:117
+msgid "One divided by five is `0.2`, and this is what is printed if the script is run using Python 3. However, if a slightly"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:118
+msgid "older version of Python; Python 2 is used, the result printed is `0`. This is because integer division is applied to"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:119
+msgid "integers in Python 2, but (normal) division is applied to all types, including integers, in Python 3."
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:121
+msgid "Therefore this extremely simple script returns _different_ answers depending on the computational environment in which"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:122
+msgid "it is run. Using the wrong version of Python is easy to do, and demonstrates how a perfectly valid piece of code can"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:123
+msgid "give different results depending on its environment. If such issues can impact a simple script like this, imagine how"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:124
+msgid "many could appear in a complex analysis procedure which may involve thousands of lines of code and dozens of dependent"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:125
+msgid "packages."
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:127
+msgid "It is vital for researchers to understand and capture the computational environments in which they are conducting their"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:128
+msgid "work, as it has the potential to impact three parties:"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:130
+# unordered list
+msgid "- The researcher themselves. The researcher's working environment evolves over time as they update software, install new"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:131
+msgid "  software, and move to different computers. If the project environment is not captured and the researcher needs to"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:132
+msgid "  return to that project after months or years (as is common in research), they will be unable to confidently do so as"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:133
+msgid "  they will have no way of knowing what changes to the environment have occurred and what impact those changes might"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:134
+msgid "  have on their ability to run the code, and on the results."
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:135
+# unordered list
+msgid "- Collaborators. Much research is now collaborative, and conducting research in multiple different computational"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:136
+msgid "  environments opens up a minefield of potential bugs. Trying to fix these kinds of issues is often time consuming and"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:137
+msgid "  frustrating as researchers have to figure out what the differences between computational environments are, and their"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:138
+msgid "  effects. Worse, some bugs may remain undetected, potentially impacting the results."
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:139
+# unordered list
+msgid "- Science itself. Scholarly research has evolved significantly over the past decade, but the same cannot be said for the"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:140
+msgid "  methods by which research processes are captured and disseminated. In fact, the primary method for dissemination - the"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:141
+msgid "  scholarly publication - is largely unchanged since the advent of the scientific journal in the 1660s. This is no"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:142
+msgid "  longer sufficient to verify, reproduce, and extend scientific results. Despite the increasing recognition of the need"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:143
+msgid "  to share all aspects of the research process, scholarly publications today are often disconnected from the underlying"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:144
+msgid "  analysis and, crucially, the computational environment that produced the findings. For research to be reproducible"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:145
+msgid "  researchers must publish and distribute the entire contained analysis, not just its results. The analysis should be"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:146
+msgid "  _mobile_. Mobility of compute is defined as the ability to define, create, and maintain a workflow locally while"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:147
+msgid "  remaining confident that the workflow can be executed elsewhere. In essence, mobility of compute means being able to"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:148
+msgid "  contain the entire software stack, from data files up through the library stack, and reliably move it from system to"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:149
+msgid "  system. Any research that is limited to where it can be deployed is instantly limited in the extent that it can be"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:150
+msgid "  reproduced."
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:152
+msgid "This chapter will describe how to capture, preserve and share computational environments along with code to ensure"
+msgstr ""
+
+#: reproducible_environments/reproducible_environments.md:153
+msgid "research is reproducible."
+msgstr ""
+

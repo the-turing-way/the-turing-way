@@ -152,6 +152,7 @@ exclude:
 keep_files:
 - zh_CN
 - zh-cn
+- es
 
 plugins:
 - jekyll-redirect-from

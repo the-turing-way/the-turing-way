@@ -1,0 +1,1259 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Place Holder <test@test.com>, 2020.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: content\n"
+"Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
+"POT-Creation-Date: 2020-02-05 19:08:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Place Holder <test@test.com>\n"
+"Language-Team: Spanish <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: continuous_integration/continuous_integration.md:1
+# header
+msgid "# Continuous integration"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:3
+msgid "| Prerequisite | Importance | Notes |"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:4
+msgid "| -------------|------------|-------|"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:5
+msgid "| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | Continuous integration will follow command line instructions"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:6
+msgid "| [Version control](/version_control/version_control) | Necessary | Continuous integration runs every time a new _commit_ is made to your project |"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:7
+msgid "| [Reproducible computational environments](/reproducible_environments/reproducible_environments) | Necessary | Continuous integration runs your tests on a separate computer (usually in the cloud) so you need to set it up in the same way. |"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:8
+msgid "| [Testing](/testing/testing) | Very helpful | Continuous integration _tests_ if anything important has changed when you make a change in your project  |"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:10
+# header
+msgid "## Table of contents"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:12
+# unordered list
+msgid "- [Summary](#Summary)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:13
+# unordered list
+msgid "- [How this will help you/ why this is useful](#Why_this_is_useful)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:14
+# unordered list
+msgid "  - [What are continuous delivery and continuous deployment?](#What_are_continuous_delivery_and_continuous_deployment)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:15
+# unordered list
+msgid "- [What is Travis and how does it work?](#What_is_Travis_and_how_does_it_work)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:16
+# unordered list
+msgid "- [Setting up continuous integration with Travis](#Setting_up_continuous_integration_with_Travis)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:17
+# unordered list
+msgid "  - [Basic steps](#Basic_steps)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:18
+# unordered list
+msgid "  - [Setting up the computational environment](#Setting_up_the_computational_environment)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:19
+# unordered list
+msgid "    - [Operating system](#Operating_system)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:20
+# unordered list
+msgid "    - [Programming language](#Programming_language)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:21
+# unordered list
+msgid "    - [Compilers](#Compilers)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:22
+# unordered list
+msgid "    - [Dependencies](#Dependencies)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:23
+# unordered list
+msgid "    - [Containers](#Containers)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:24
+# unordered list
+msgid "  - [The .travis.yml script](#The_travis_yml_script)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:25
+# unordered list
+msgid "  - [After success](#After_success)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:26
+# unordered list
+msgid "  - [Testing a project against multiple versions of a programming language](#Testing_a_project_against_multiple_versions_of_a_programming_language)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:27
+# unordered list
+msgid "  - [Testing a project on multiple operating systems](#Testing_a_project_on_multiple_operating_systems)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:28
+# unordered list
+msgid "    - [Allowing failures](#Allowing_failures)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:29
+# unordered list
+msgid "- [Limitations of CI](#Limitations_of_CI)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:30
+# unordered list
+msgid "- [Best practise for continuous integration](#Best_practise_for_continuous_integration)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:31
+# unordered list
+msgid "  - [Small, iterative changes](#Small_iterative_changes)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:32
+# unordered list
+msgid "  - [Trunk-based development](#Trunk_based_development)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:33
+# unordered list
+msgid "  - [Keep the building and testing phases fast](#Keep_the_building_and_testing_phases_fast)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:34
+# unordered list
+msgid "  - [Computational expense](#Computational_expense)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:35
+# unordered list
+msgid "  - [Dependencies tracking](#Dependencies_tracking)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:36
+# unordered list
+msgid "  - [Consistency throughout the pipeline](#Consistency_throughout_the_pipeline)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:37
+# unordered list
+msgid "- [Checklist](#Checklist)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:38
+# unordered list
+msgid "- [What to learn next](#What_to_learn_next)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:39
+# unordered list
+msgid "- [Further reading](#Further_reading)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:40
+# unordered list
+msgid "- [Definitions/glossary](#Definitions_glossary)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:41
+# unordered list
+msgid "- [Bibliography](#Bibliography)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:43
+msgid "<a name=\"Summary\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:44
+# header
+msgid "## Summary"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:46
+msgid "Continuous integration (CI) is the practice of integrating changes to a project made by individuals into a main, shared version frequently (usually multiple times per day). CI software is also typically used to identify any conflicts and bugs that are introduced by changes, so they are found and fixed early, minimizing the effort required to do so. Running tests regularly also saves humans from needing to do it manually. By making users aware of bugs as early as possible researchers (if the project is a research project) do not waste a lot of time doing work that may need to be thrown away, which may be the case if tests are run infrequently and results are produced using faulty code."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:48
+msgid "<a name=\"Why_this_is_useful\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:49
+# header
+msgid "## How this will help you/ why this is useful"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:51
+msgid "CI has a number of key benefits:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:53
+# unordered list
+msgid "- Helps bugs to be found early, minimizing their damage and making them easier to fix"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:54
+# unordered list
+msgid "- Keeps project contributors up to date with each other's work so they can benefit from it as soon as possible"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:55
+# unordered list
+msgid "- Encourages users to write tests"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:56
+# unordered list
+msgid "- Automates running of tests"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:57
+# unordered list
+msgid "- Ensures tests are run frequently"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:59
+msgid "<a name=\"What_is_continuous_integration\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:60
+# header
+msgid "## What is continuous integration?"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:62
+msgid "This chapter demands a strong understanding of version control. The central concepts you will need to recall are:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:64
+# unordered list
+msgid "- How it can be used to enable people collaborating on a single project to combine their work via merging"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:65
+# unordered list
+msgid "- What merge conflicts are and the difficulties they can present"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:66
+# unordered list
+msgid "- What GitHub is and how to use it"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:68
+msgid "In brief if a group of researchers are collaborating on a project it is good practise for them to use version control to keep track of their changes over time, and combine their work regularly. If they do not combine (integrate) their work regularly then when they come to do so it is likely to be very difficult as different people may have made contradictory changes."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:70
+msgid "Continuous Integration is a software development practice where members of a team integrate their work frequently, rather than doing work in isolation and merging in large changes at infrequent intervals. In CI usually each person integrates at least daily. Each integration is verified by an automated build (usually including tests) to detect integration errors as quickly as possible."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:72
+msgid "The idea is to minimize the cost of integration by making it an early consideration. Researchers can discover conflicts at the boundaries between new and existing code early, while they are still relatively easy to reconcile. Once the conflict is resolved, work can continue with confidence that the new code honours the requirements of the existing codebase. The goal is to build healthier software by developing and testing in smaller increments.  Many teams find that this approach leads to significantly reduced integration problems and allows a team to develop more rapidly."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:74
+msgid "Integrating code frequently does not, by itself, offer any guarantees about the quality of the new code or functionality. This leads us to the second aspect of CI. When a developer merges code into the main repository, automated processes build a working version of the project. Afterwards, test suites are run against the new build to check whether any bugs were introduced. If either the build or the test phase fails, the team is alerted so that they can work to fix the problem. It is easier to fix a bug in something you wrote a few minutes ago than something you wrote yesterday (or last week, or last month)."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:76
+msgid "By ensuring that your code is built and tested regularly CI helps researchers to demonstrate that their code does what it claims to do, and that it does so correctly. Typically, continuous integration servers will also allow build-and-test jobs to run at specific times, so a CRON-like, nightly-build-and-test, can be done, as well as a build-and-test job run on-demand."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:78
+msgid "<a name=\"What_are_continuous_delivery_and_continuous_deployment\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:79
+# header
+msgid "### What are continuous delivery and continuous deployment?"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:81
+msgid "Technically speaking the above explanation conflates three related concepts, continuous integration, continuous deployment, and continuous delivery. In reality:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:83
+# unordered list
+msgid "- Continuous integration focuses on regularly integrating work from individual researchers into a main repository."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:84
+# unordered list
+msgid "- Continuous delivery automates and runs the steps required to build and test the project."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:85
+# unordered list
+msgid "- Continuous deployment takes this one step further by automatically deploying each time a code change is made."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:87
+msgid "In this chapter this entire process is referred to as continuous integration for the sake of simplicity."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:89
+msgid "<a name=\"What_is_Travis_and_how_does_it_work\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:90
+# header
+msgid "## What is Travis and how does it work?"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:92
+msgid "There are a number of CI tools available, such Circle (tutorials [here](https://circleci.com/docs/2.0/project-walkthrough/) and [here](https://circleci.com/docs/2.0/hello-world/)). A list of other CI tools can be found [here](https://www.software.ac.uk/resources/guides/hosted-continuous-integration). In this chapter we will focus on [Travis](https://travis-ci.org/) because it's free (if your code is openly available), widely used, and well integrated with the version control platform [GitHub](https://github.com/)."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:94
+msgid "To use Travis you will need to add a file to your project called `.travis.yml` which describes the computational environment to run the project in, and includes a script to run your tests. See the chapter on reproducible computational environments for more information on them, including writing `.yml` files to specify them. See the chapter on testing for information on writing and automating tests. The .travis.yml file has a number of other capabilities, which will be described [later](#After_success) along with more [detailed instructions](#Setting_up_the_computational_environment) for writing these files."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:96
+msgid "Once Travis has been set up on a project then each time a commit is made it:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:98
+# unordered list
+msgid "- Clones a copy of  project"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:99
+# unordered list
+msgid "- Generates a copy of the computational environment specified in the .travis.yml file in a brand new virtual environment"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:100
+# unordered list
+msgid "- Builds the project within that environment"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:101
+# unordered list
+msgid "- Runs the tests by following the script specified in the .travis.yml file"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:102
+# unordered list
+msgid "- Reports the results"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:103
+# unordered list
+msgid "  - Travis will output the results of every step of building the environment and running the script as a log viewable in your account on the [Travis site](https://travis-ci.org/) (the dark grey box in the figure below)."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:104
+# unordered list
+msgid "  - Travis will attach a badge to the results, green if all steps in the script (which run the tests) pass, red if not. The badge will be yellow whilst Travis is still running. If Travis is unable to generate the computational environment described in the .travis.yml file then it will not proceed further and the badge will be grey. See the figures below which show the passing build badge and failing build badge in the readme of a GitHub repository."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:105
+# unordered list
+msgid "  - Travis will also report the results via email (notification settings can be adjusted)."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:107
+msgid "Here's what the Travis dashboard of a repository looks like:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:109
+msgid "![Travis_build](../figures/Travis_build.png)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:111
+msgid "Everything's green because the build is passing. Note the \"build passing\" badge at the top. If you click that you will get a popup with a dropdown menu where you can select a way of copying the badge. If you select \"markdown\" and copy and paste the code snippet it outputs into a markdown file in the project, then GitHub will display the badge in that file:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:113
+msgid "![Travis_badge_pass](../figures/Travis_badge_pass.png)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:115
+msgid "If I deliberately create a bug and commit it then Travis automatically runs, the tests fail, and this badge automatically updates to \"build failing\":"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:117
+msgid "![Travis_badge_fail](../figures/Travis_badge_fail.png)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:119
+msgid "You can use Travis to test your project in multiple computational environments my specifying them in the .travis.yml file. A quick note on Travis vocabulary:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:121
+# unordered list
+msgid "- Job - an automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code and running tests. A job fails if the return code of the script encounters an error."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:122
+# unordered list
+msgid "- Build - a group of jobs. For example, a build might have two *jobs*, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:124
+msgid "<a name=\"Setting_up_continuous_integration_with_Travis\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:125
+# header
+msgid "## Setting up continuous integration with Travis"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:127
+msgid "<a name=\"Basic_steps\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:128
+# header
+msgid "### Basic steps"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:130
+# unordered list
+msgid "- Write a `.travis.yml` file and add it to your project."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:131
+# unordered list
+msgid "- Upload your project to GitHub if you have not already."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:132
+# unordered list
+msgid "- Go to [Travis-ci.com](https://travis-ci.com) and [Sign up with GitHub](https://travis-ci.com/signin)."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:133
+# unordered list
+msgid "- Accept the Authorization of Travis CI. You'll be redirected to GitHub."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:134
+# unordered list
+msgid "- You will see a list of your GitHub repositories with buttons next to them. Click the button next to your project repository to activate Travis on it."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:135
+# unordered list
+msgid "- Check the build status page to see if your build passes or fails, according to the return status of the build command by visiting the [Travis CI](https://travis-ci.com/auth) and selecting your repository."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:136
+# unordered list
+msgid "- Next time you commit to your repository Travis will run on the updated version of your project and report the results."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:138
+msgid "It's that simple. The rest of this section will describe the different components of the .travis.yml file and how to write them."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:140
+msgid "<a name=\"Setting_up_the_computational_environment\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:141
+# header
+msgid "### Setting up the computational environment"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:143
+msgid "This page on [common build problems](https://docs.travis-ci.com/user/common-build-problems/) is a good place to start troubleshooting if your build is broken."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:145
+msgid "<a name=\"Operating_system\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:146
+# header
+msgid "#### Operating system"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:148
+msgid "Travis CI works with a few different operating systems. In the .travis.yml  file define the operating system to run a project on via the os keyword like:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:149
+# code block
+msgid "```\n"
+"os: linux\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:153
+#: continuous_integration/continuous_integration.md:158
+msgid "or"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:154
+# code block
+msgid "```\n"
+"os: macOS\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:159
+# code block
+msgid "```\n"
+"os: windows\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:163
+msgid "It is possible to build and test a project on multiple operating systems and against multiple versions of a programming language. This will be not be discussed here as this presents and extra level of complexity and will not be needed in most cases for research, but it is discussed [later](#Testing_a_project_against_multiple_versions_of_a_programming_language)."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:165
+msgid "To specify the distribution of an operating system to run the project with use `dist`, for example:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:167
+# code block
+msgid "```\n"
+"os: linux\n"
+"dist: trusty\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:172
+msgid "<a name=\"Programming_language\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:173
+# header
+msgid "#### Programming language"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:175
+msgid "Specify the programming language to run your project with using the language keyword, and specify which version of the language to use. So for python2.7 this would look like:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:176
+# code block
+msgid "```\n"
+"language: python\n"
+"python:\n"
+"- \"2.7\"\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:181
+msgid "Further information on the programming languages that are compatible with Travis can be found [here](https://docs.travis-ci.com/user/languages/)"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:183
+msgid "<a name=\"Compilers\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:184
+# header
+msgid "#### Compilers"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:186
+msgid "If a compiled language is being used which compiler to run can be specified with the compiler keyword:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:187
+# code block
+msgid "```\n"
+"compiler:\n"
+"  - gcc\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:191
+msgid "<a name=\"Dependencies\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:192
+# header
+msgid "#### Dependencies"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:194
+msgid "Not all languages/software are available on all operating systems however they can typically be installed within the .travis.yml file."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:196
+msgid "To install packages that are not included in the standard version of the operating system specified you can include a `before_install` step in your `.travis.yml` along with the necessary code to install them, for example:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:198
+# code block
+msgid "```\n"
+"before_install:\n"
+"  - sudo apt-get install -y libxml2-dev\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:202
+msgid "<a name=\"Containers\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:203
+# header
+msgid "#### Containers"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:205
+msgid "It is possible to use Docker containers (see the reproducible computational environments chapter) to generate the computational environment by pulling and running the image from the .travis.yml file. If you are doing so you should pull or generate the image (preferably pull to save Travis from having to build the image from scratch) in the before_install step (see above section). Then in the .travis.yml file's script ([see next section](#The_travis_yml_script)) you can run a command to run your tests like:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:206
+# code block
+msgid "```\n"
+"script:\n"
+"  - sudo docker run -t image_name command_to_run\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:211
+msgid "So to use pytest to run tests in python files in a container built from an image called a_demo_image"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:212
+# code block
+msgid "```\n"
+"script:\n"
+"  - sudo docker run -t a_demo_image pytest\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:217
+msgid "If you need to run more than one command in your script then you can include a script file within the container which contains those commands. Then the same process shown above can be used  to run it, like:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:218
+# code block
+msgid "```\n"
+"script:\n"
+"  - sudo docker run -t a_demo_image ./a_script.sh\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:223
+msgid "See [here](https://docs.travis-ci.com/user/docker/) for more information on this."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:225
+msgid "<a name=\"The_travis_yml_script\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:226
+# header
+msgid "### The .travis.yml script"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:228
+msgid "Travis will report that the build has failed if any commands in the script section return an error. Technically any commands can be included in the script, but it is mainly used for running tests. A script does not need to be long or complicated, as demonstrated by this example which uses the pytest command to run tests in python scripts:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:229
+# code block
+msgid "```\n"
+"script:\n"
+"- pytest\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:234
+msgid "If there are steps that need to be done before a project to be considered to be \"fully\" working these should also be included in the script too. Lets say some project needs a figure to be converted to a png file for some reason. The script could include"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:235
+# code block
+msgid "```\n"
+"  - convert figure_name.jpg figure_name.png\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:239
+msgid "If for any reason this cannot be done an error will be returned and the build will be marked as having failed."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:241
+msgid "<a name=\"After_success\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:242
+# header
+msgid "### After success"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:244
+msgid "The after success section is much like the script section in that it contains commands to run on the project. The key difference if that the build will not fail if steps in the after success section return errors."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:246
+msgid "The after success section is run after the script, and can be used to automate steps that need to be taken once a build has passed all the tests. Examples of things that can be automated include automatically merging the new version of the project to the master branch in GitHub. Another example is for the code coverage (see testing chapter) to be automatically measured and reported, as shown here:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:247
+# code block
+msgid "```\n"
+"language: python\n"
+"python:\n"
+"  - \"2.7\"\n"
+"\n"
+"before_install:\n"
+"  - pip install coverage\n"
+"\n"
+"script:\n"
+"  - pytest\n"
+"\n"
+"after_success:\n"
+"  - coverage run main.py\n"
+"  - coverage report\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:263
+msgid "<a name=\"Testing_a_project_against_multiple_versions_of_a_programming_language\"></a>  "
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:264
+# header
+msgid "### Testing a project against multiple versions of a programming language"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:266
+msgid "When a project is expected to be run on systems with different versions of a programming language you can set Travis to run the tests on each of these versions. For example to test on a variety of versions of python:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:267
+# code block
+msgid "```\n"
+"language: python\n"
+"python:\n"
+"  - \"2.6\"\n"
+"  - \"2.7\"\n"
+"  - \"3.2\"\n"
+"  - \"3.3\"\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:275
+msgid "<a name=\"Testing_a_project_on_multiple_operating_systems\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:276
+# header
+msgid "### Testing a project on multiple operating systems"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:278
+msgid "If your code is used on multiple operating systems it should be tested on multiple operating systems. To enable testing on multiple operating systems add multiple entries under the `os` key in your `.travis.yml` file, for example:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:279
+# code block
+msgid "```\n"
+"os:\n"
+"  - linux\n"
+"  - osx\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:285
+msgid "When you test your code on multiple operating systems, be aware of differences that can affect your tests, for example not all tools and programming languages are available on all operating systems. This should be taken into account when writing commands for your script file (or other sections of the .travis.yml file). Also file system behaviour may differ between OSs. Your tests may implicitly rely on these behaviours, and could fail because of them. They are different operating systems, after all."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:287
+msgid "When Travis is running a job it sets the `TRAVIS_OS_NAME` variable which describes the operating system being tested. You can use this to run commands only on specified operating systems like this:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:288
+# code block
+msgid "```\n"
+"  - if [[ \"$TRAVIS_OS_NAME\" == \"osx\" ]]; then command_to_run; fi\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:292
+msgid "It is possible to go further and construct a [build matrix](https://docs.travis-ci.com/user/build-matrix/) to test a the project in a range of computational environments."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:294
+msgid "<a name=\"Allowing_failures\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:295
+# header
+msgid "#### Allowing failures"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:297
+msgid "To ignore the results of jobs in certain computational environments you can define rows that are allowed to fail in the build matrix. Do this by adding an `allow_failures` section to the .travis.yml file. Allowed failures are items in your build matrix that are allowed to fail without causing the entire build to fail.  For example to allow the build to pass even if the job(s) using the osx operating system fail you'd add the following to your `.travis.yml`:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:298
+# code block
+msgid "```\n"
+"matrix:\n"
+"  allow_failures:\n"
+"    - os: osx\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:304
+msgid "This is useful if you ideally want the build to be successful in multiple environments, but not all of them are vital."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:306
+msgid "<a name=\"Limitations_of_CI\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:307
+# header
+msgid "## Limitations of CI"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:309
+msgid "CI does have its limitations. Firstly it is only as effective at finding bugs as the tests provided to it. If a project contains few or poor tests then it is entirely possible the project will contain bugs the tests do not catch and Travis will report the build as successful."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:311
+msgid "Secondly, depending on the nature of your project there may be security considerations to think about.     "
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:313
+msgid "Travis CI obfuscates secure environment variables and tokens displayed in by the user interface. The [documentation about encryption keys](https://docs.travis-ci.com/user/encryption-keys/) outlines the build configuration required to set this up. However, if secret information is outputted in the course of running a script (for example in an error message) it may be included in Travis's build logs which may be accessible by others. To prevent leaks like this, secure environment variables and tokens that are longer than three characters are automatically filtered at runtime, effectively removing them from the build log, displaying the string `[secure]` instead. Nevertheless you should rotate your tokens and secrets regularly."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:315
+msgid " However there are still many ways in which secure information can accidentally be exposed. These vary according to what tools you are using and the settings enabled. Some things to look out for are:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:317
+# unordered list
+msgid "- Settings which duplicate commands to standard output, such as `set -x` or `set -v` in your bash scripts"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:318
+# unordered list
+msgid "- Displaying environment variables, by running `env` or `printenv`"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:319
+# unordered list
+msgid "- Printing secrets within the code, for example `echo \"$SECRET_KEY\"`"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:320
+# unordered list
+msgid "- Git commands like `git fetch` or `git push` may expose tokens or other secure environment variables"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:321
+# unordered list
+msgid "- Settings which increase command verbosity"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:323
+msgid "Preventing commands from displaying any output is one way to avoid accidentally displaying any secure information. If there is a particular command that is using secure information you can redirect its output to `/dev/null` to make sure it does not accidentally publish anything, as shown in the following example:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:324
+# code block
+msgid "```\n"
+"git push url-with-secret >/dev/null 2>&1\n"
+"```"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:328
+msgid "If your project is set up such that each time a pull request is made on GitHub Travis tests that pull request there is an additional concern. If your tests require authentication credentials someone could make a pull request with malicious code to expose them. Therefore it is a good idea not to allow pull requests to automatically trigger Travis if you have such authentication requirements."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:330
+msgid "<a name=\"Best_practise_for_continuous_integration\"></a>    "
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:331
+# header
+msgid "## Best practise for continuous integration"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:333
+msgid "<a name=\"Small_iterative_changes\"></a>  "
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:334
+# header
+msgid "### Small, iterative changes"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:336
+msgid "One of the most important practices when adopting continuous integration is to encourage project members to make and commit small changes. Small changes minimize the possibility and impact of problems cropping up when they're integrated, which minimises the time and effort cost of integration."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:338
+msgid "<a name=\"Trunk_based_development\"></a>  "
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:339
+# header
+msgid "### Trunk-based development"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:341
+msgid "With trunk-based development, work is done in the main branch of the repository or merged back into the shared repository at frequent intervals. Short-lived feature branches are permissible as long as they represent small changes and are merged back as soon as possible."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:343
+msgid "The idea behind trunk-based development is to avoid large commits that violate of concept of small, iterative changes discussed above. Code is available to peers early so that conflicts can be resolved when their scope is small."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:345
+msgid "<a name=\"Keep_the_building_and_testing_phases_fast\"></a>  "
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:346
+# header
+msgid "### Keep the building and testing phases fast"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:348
+msgid "Because the build and test steps must be performed frequently, it is essential that these processes be streamlined to minimize the time spent on them. Increases in build time should be treated as a major problem because the impact is compounded by the fact that each commit kicks off a build."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:350
+msgid "When possible, running different sections of the test suite in parallel can help move the build through the pipeline faster. Care should also be taken to make sure the proportion of each type of test makes sense. Unit tests are typically very fast and have minimal maintenance overhead. In contrast, automated system or acceptance testing is often complex and prone to breakage. To account for this, it is often a good idea to rely heavily on unit tests, conduct a fair number of integration tests, and then back off on the number of later, more complex testing."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:352
+# header
+msgid "### Computational expense"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:354
+msgid "Some software will require significant compute resource to build and/or run. Examples include weather and climate models. This can make the use of continuous integration impractical as the tests either take too long or use too much resource. Therefore, a compromise needs to be found to balance the risk of incomplete testing against a usable development process."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:356
+msgid "One approach is to use different levels of testing, with different subgroups being required depending on what is being changed. A common broad subgroup can be used in every case, with additional ones being invoked to test certain areas in more detail. This introduces an element of judgement to the testing process, but can be applied successfully."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:358
+msgid "<a name=\"Dependencies_tracking\"></a>  "
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:359
+# header
+msgid "### Dependencies tracking"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:361
+msgid "Checking for dependency updates should be done regularly. It can save a lot of time, avoiding bugs due to code dependent on deprecated functionality. Services such as [David](https://david-dm.org/) are available for dependency management."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:363
+msgid "<a name=\"Consistency_throughout_the_pipeline\"></a>  "
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:364
+# header
+msgid "### Consistency throughout the pipeline"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:366
+msgid "A project should be built once at the beginning of the pipeline, the resulting software should be stored and accessible to later processes without rebuilding. By using the exact same artefact in each phase, you can be certain that you are not introducing inconsistencies as a result of different build tools."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:368
+msgid "Also, the environment defined by the .travis.yml file should reflect the actual environment the code is run in. If that environment is modified don't forget to update the .travis.yml file, otherwise the results Travis returns will not be trustworthy."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:370
+msgid "<a name=\"Checklist\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:371
+# header
+msgid "## Checklist"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:373
+# unordered list
+msgid "- [ ] Have a project that you collaborate on with at least one other person"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:374
+# unordered list
+msgid "- [ ] Put the project on GitHub"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:375
+# unordered list
+msgid "- [ ] Have project members regularly commit their work to this central repository"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:376
+# unordered list
+msgid "- [ ] That project should have at least some tests"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:377
+# unordered list
+msgid "- [ ] Write a .travis.yml file which:"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:378
+# unordered list
+msgid "  - [ ] Sets out the operating system the project is run on"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:379
+# unordered list
+msgid "  - [ ] Defines the programming language and version of that language to run the project with"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:380
+# unordered list
+msgid "  - [ ] Includes code to install any dependencies required to run the project in a before_install step"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:381
+# unordered list
+msgid "  - [ ] Contains a script to run the project tests"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:382
+# unordered list
+msgid "- [ ] Commit the .travis.yml file to the project's GitHub repository"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:383
+# unordered list
+msgid "- [ ] Go to [travis-ci.com](https://travis-ci.com/) and sign in with GitHub"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:384
+# unordered list
+msgid "- [ ] Activate Travis on your project repository"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:385
+# unordered list
+msgid "- [ ] Each time a new commit is pushed Travis will run the tests and return the results. If these report that a commit causes test/tests to fail then find and fix the problem as soon as possible"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:387
+msgid "<a name=\"What_to_learn_next\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:388
+# header
+msgid "## What to learn next"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:390
+msgid "If you have not already read the testing chapter it is suggested to do so to learn more about the different kinds of tests and their benefits in order to make the most of CI."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:392
+msgid "<a name=\"Further_reading\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:393
+# header
+msgid "## Further reading"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:395
+msgid "Travis offers a great deal of functionality not described here for automating other processes related to the testing and deployment of  projects. Look into these, the Travis [documentation](https://docs.travis-ci.com/user/deployment) offers a good starting point for this."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:397
+msgid "A list of example Travis builds and tests for various languages/frameworks is available [here](https://github.com/softwaresaved/build_and_test_examples)."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:399
+msgid "Travis's official tutorial is [here](https://docs.travis-ci.com/user/tutorial/). A tutorial focussed on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), tutorials geared towards python can be found [here](https://docs.python-guide.org/scenarios/ci/) and [here](https://docs.travis-ci.com/user/languages/python/)."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:401
+msgid "<a name=\"Definitions_glossary\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:402
+# header
+msgid "## Definitions/glossary"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:404
+msgid "**Build:** A group of jobs. For example, a build might have two jobs, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:406
+msgid "**Computational environment:** The environment where a project is run, including the operating system, the software installed on it, and the versions of both."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:408
+msgid "**Continuous integration:** The process of regularly combining the work of project members into a centralised version. Also called CI. CI software typically runs tests on the integrated version of a project to identify conflicts and bugs introduced by the integration."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:410
+msgid "**GitHub:** A widely used version control platform."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:412
+msgid "**Job:** An automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code and running tests. A job fails if the return code of the script encounters an error."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:414
+msgid "**Travis:** A commonly used continuous integration platform."
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:416
+msgid "<a name=\"Bibliography\"></a>"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:417
+# header
+msgid "## Bibliography"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:419
+# header
+msgid "### Materials used: What is continuous integration?"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:421
+# unordered list
+msgid "- [What is CI](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:422
+# unordered list
+msgid "- [SSI blog](https://software.ac.uk/using-continuous-integration-build-and-test-your-software?_ga=2.231776223.1391442519.1547641475-1644026160.1541158284) **Creative Commons Attribution Non-Commercial 2.5 License**"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:423
+# unordered list
+msgid "- [The difference between continuous integration, continuous deployment, and continuous delivery](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:424
+# unordered list
+msgid "- [CI with python](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:426
+# header
+msgid "### Materials used: What is Travis and how does it work?"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:428
+# unordered list
+msgid "- [Info about how Travis works](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:430
+# header
+msgid "### Materials used: Setting up continuous integration with Travis"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:432
+# unordered list
+msgid "- [Light travis tutorial](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/tutorial.md) **MIT**"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:433
+# unordered list
+msgid "- [CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:434
+# unordered list
+msgid "- [Installing dependencies via yaml](https://github.com/travis-ci/docs-travis-ci-com/edit/master/user/installing-dependencies.md) **MIT**"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:435
+# unordered list
+msgid "- [Testing multiple versions of programming languages](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)**"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:436
+# unordered list
+msgid "- [Using Travis with multiple operating systems](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/multi-os.md) **MIT**"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:437
+# unordered list
+msgid "- [Travis docs: customising the build](https://docs.travis-ci.com/user/customizing-the-build/) **MIT**"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:439
+# header
+msgid "### Materials used: Limitations of CI"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:441
+# unordered list
+msgid "- [Security with Travis](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/best-practices-security.md) **MIT**"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:443
+# header
+msgid "### Materials used: Best practise for continuous integration"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:445
+# unordered list
+msgid "- [Continuous integration, continuous deployment and continuous delivery](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:446
+# unordered list
+msgid "- [Netherlands eScience Center guide](https://guide.esciencecenter.nl/best_practices/testing.html) **Creative Commons Attribution 4.0 International**"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:448
+# header
+msgid "## Acknowledgements"
+msgstr ""
+
+#: continuous_integration/continuous_integration.md:450
+msgid "Thanks to David Jones of the University of Sheffield RSE group for useful discussions."
+msgstr ""
+
