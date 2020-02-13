@@ -131,7 +131,6 @@ Times in a few different time zones are shown in the table below.
 | | | | | | | | | |
 | | | | | | | | | |
 
-Please get in touch if you'd like to host/co-host one and we're happy to add an early (UK) session!
 
 #### Schedule for 2019
 
