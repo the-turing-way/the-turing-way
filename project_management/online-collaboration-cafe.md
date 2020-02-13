@@ -117,39 +117,38 @@ Times in a few different time zones are shown in the table below.
 
 ***Video recordings from these calls will be posted on [our YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).***
 
-#### Schedule for 2020
+#### Schedule for 2020 (shown in 24:00 hr format)
 
  Date | Local Time | Brisbane | Shanghai | Kolkata | Paris | London | New York | Vancouver |
 | ---- | ---------- | --------- |-------- | ------- | ----- | ------ | -------- | --------- |
-| 15 January 2020 | [AreWeMeetingYet? 2020-01-15 19:00](https://arewemeetingyet.com/London/2020-01-15/19:00/TuringWay-CollaborationCafe) | 4am | 2am | 11:30pm | 8pm | 7pm | 2pm | 11am |
-| 5 February 2020 | [AreWeMeetingYet? 2020-02-05 15:00](https://arewemeetingyet.com/London/2020-02-05/15:00/TuringWay-CollaborationCafe) | midnight | 10pm | 7:30pm | 4pm | 3pm | 10am | 7am |
-| 19 February 2020 | [AreWeMeetingYet? 2020-02-19 19:00](https://arewemeetingyet.com/London/2020-02-19/19:00/TuringWay-CollaborationCafe) | 4am | 2am | 11:30pm | 8pm | 7pm | 2pm | 11am |
-| 4 March 2019 | [AreWeMeetingYet? 2019-03-04 15:00](https://arewemeetingyet.com/London/2019-03-04/15:00/TuringWay-CollaborationCafe) | midnight | 10pm | 7:30pm | 4pm | 3pm | 10am | 7am |
-| 18 March 2019 | [AreWeMeetingYet? 2019-03-18 19:00](https://arewemeetingyet.com/London/2019-03-18/19:00/TuringWay-CollaborationCafe) | 4am | 2am | 11:30pm | 8pm | 7pm | 2pm | 11am |
+| 15 January 2020 | [AreWeMeetingYet? 2020-01-15 19:00](https://arewemeetingyet.com/London/2020-01-15/19:00/TuringWay-CollaborationCafe) | 05:00 am | 03:00 am | 12:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
+| 5 February 2020 | [AreWeMeetingYet? 2020-02-05 15:00](https://arewemeetingyet.com/London/2020-02-05/15:00/TuringWay-CollaborationCafe) | 01:00 am | 23:00 pm | 20:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
+| 19 February 2020 | [AreWeMeetingYet? 2020-02-19 19:00](https://arewemeetingyet.com/London/2020-02-19/19:00/TuringWay-CollaborationCafe) | 05:00 am | 03:00 am | 12:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
+| 4 March 2019 | [AreWeMeetingYet? 2019-03-04 15:00](https://arewemeetingyet.com/London/2019-03-04/15:00/TuringWay-CollaborationCafe) | 01:00 am | 23:00 pm | 20:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
+| 18 March 2019 | [AreWeMeetingYet? 2019-03-18 19:00](https://arewemeetingyet.com/London/2019-03-18/19:00/TuringWay-CollaborationCafe) | 05:00 am | 03:00 am | 12:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
 | | | | | | | | | |
 | | | | | | | | | |
 | | | | | | | | | |
 | | | | | | | | | |
 
+We don't currently have a regular time that is accessible for collaborators in Australia or New Zealand.
+Please get in touch if you'd like to join one and we're happy to add an early (UK) session!
+(Such as the one [suggested](https://github.com/alan-turing-institute/the-turing-way/issues/684) by [Paula](https://github.com/orchid00) for a session last year! ✨)
 
 #### Schedule for 2019
 
 | Date | Local Time | Brisbane | Shanghai | Kolkata | Paris | London | New York | Vancouver |
 | ---- | ----- | ---------- | --------- |-------- | ------- | ----- | ------ | -------- | 
-| 4 September 2019 | [AreWeMeetingYet? 2019-09-04 15:00](https://arewemeetingyet.com/London/2019-09-04/15:00/TuringWay-CollaborationCafe) | midnight | 10pm | 7:30pm | 4pm | 3pm | 10am | 7am |
-| 18 September 2019 | [AreWeMeetingYet? 2019-09-18 19:00](https://arewemeetingyet.com/London/2019-09-18/19:00/TuringWay-CollaborationCafe) | 4am | 2am | 11:30pm | 8pm | 7pm | 2pm | 11am |
-| 19 September 2019 | [AreWeMeetingYet? 2019-09-19 19:00](https://arewemeetingyet.com/London/2019-09-19/19:00/TuringWay-CollaborationCafe) | 4am | 2am | 11:30pm | 8pm | 7pm | 2pm | 11am |
-| 2 October 2019 | [AreWeMeetingYet? 2019-10-02 15:00](https://arewemeetingyet.com/London/2019-10-02/15:00/TuringWay-CollaborationCafe) | midnight | 10pm | 7:30pm | 4pm | 3pm | 10am | 7am |
-| 16 October 2019 | [AreWeMeetingYet? 2019-10-16 19:00](https://arewemeetingyet.com/London/2019-10-16/19:00/TuringWay-CollaborationCafe) | 4am | 2am | 11:30pm | 8pm | 7pm | 2pm | 11am |
-| 30 October 2019 | [AreWeMeetingYet? 2019-10-30 08:00](https://arewemeetingyet.com/London/2019-10-30/08:00/TuringWay-CollaborationCafe) | 6pm | 4pm | 1:30pm | 9am | 8am | 4am | 1am |
-| 6 November 2019 | [AreWeMeetingYet? 2019-11-06 15:00](https://arewemeetingyet.com/London/2019-11-06/15:00/TuringWay-CollaborationCafe) | 1am | 11pm | 8:30pm | 4pm | 3pm | 10am | 7am |
-| 20 November 2019 | [AreWeMeetingYet? 2019-11-20 19:00](https://arewemeetingyet.com/London/2019-11-20/19:00/TuringWay-CollaborationCafe) | 5am | 3am | 00:30am | 8pm | 7pm | 2pm | 11am |
-| 4 December 2019 | [AreWeMeetingYet? 2019-12-04 15:00](https://arewemeetingyet.com/London/2019-12-04/15:00/TuringWay-CollaborationCafe) | 1am | 11pm | 8:30pm | 4pm | 3pm | 10am | 7am |
-| 18 December 2019 | [AreWeMeetingYet? 2019-12-18 19:00](https://arewemeetingyet.com/London/2019-12-18/19:00/TuringWay-CollaborationCafe) | 5am | 3am | 00:30am | 8pm | 7pm | 2pm | 11am |
-
-We don't currently have a regular time that is accessible for collaborators in Australia or New Zealand.
-Please get in touch if you'd like to join one and we're happy to add an early (UK) session!
-(Such as the one [suggested](https://github.com/alan-turing-institute/the-turing-way/issues/684) by [Paula](https://github.com/orchid00) for October 2019! ✨)
+| 4 September 2019 | [AreWeMeetingYet? 2019-09-04 15:00](https://arewemeetingyet.com/London/2019-09-04/15:00/TuringWay-CollaborationCafe) | 00:00 | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 07:00 am |
+| 18 September 2019 | [AreWeMeetingYet? 2019-09-18 19:00](https://arewemeetingyet.com/London/2019-09-18/19:00/TuringWay-CollaborationCafe) | 04:00 am | 02:00 am | 23:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
+| 19 September 2019 | [AreWeMeetingYet? 2019-09-19 19:00](https://arewemeetingyet.com/London/2019-09-19/19:00/TuringWay-CollaborationCafe) | 04:00 am | 02:00 am | 23:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am 
+| 2 October 2019 | [AreWeMeetingYet? 2019-10-02 15:00](https://arewemeetingyet.com/London/2019-10-02/15:00/TuringWay-CollaborationCafe) | 00:00 | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 07:00 am |
+| 16 October 2019 | [AreWeMeetingYet? 2019-10-16 19:00](https://arewemeetingyet.com/London/2019-10-16/19:00/TuringWay-CollaborationCafe) | 04:00 am | 02:00 am | 23:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am 
+| 30 October 2019 | [AreWeMeetingYet? 2019-10-30 08:00](https://arewemeetingyet.com/London/2019-10-30/08:00/TuringWay-CollaborationCafe) | 18:00 pm | 16:00 pm | 01:30 pm | 09:00 am | 08:00 am | 04:00 am | 01:00 am |
+| 6 November 2019 | [AreWeMeetingYet? 2019-11-06 15:00](https://arewemeetingyet.com/London/2019-11-06/15:00/TuringWay-CollaborationCafe) | 01:00 am | 23:00 pm | 20:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
+| 20 November 2019 | [AreWeMeetingYet? 2019-11-20 19:00](https://arewemeetingyet.com/London/2019-11-20/19:00/TuringWay-CollaborationCafe) | 05:00 am | 03:00 am | 12:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
+| 4 December 2019 | [AreWeMeetingYet? 2019-12-04 15:00](https://arewemeetingyet.com/London/2019-12-04/15:00/TuringWay-CollaborationCafe) | 01:00 am | 23:00 pm | 20:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
+| 18 December 2019 | [AreWeMeetingYet? 2019-12-18 19:00](https://arewemeetingyet.com/London/2019-12-18/19:00/TuringWay-CollaborationCafe) | 05:00 am | 03:00 am | 12:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
 
 ### Timings during the Collaboration Cafe
 
