@@ -1,6 +1,6 @@
-# Feedback report on The Turing Way 'Boost your Research Reproducibility with Binder' workshops
+# Feedback report on The Turing Way 'Boost your Research Reproducibility with Binder' workshops in March 2019
 
-The Turing Way team held two 'Boost your Research Reproducibility with Binder' workshops in March 2019. 
+The Turing Way team held two 'Boost your Research Reproducibility with Binder' workshops in March 2019.
 At the end of each workshop participants were asked to fill in feedback forms rating their understanding and confidence before and after the workshop, what they liked about the workshop, what could be improved and whether they will use Binder in the future.
 
 ## Understanding and Confidence
