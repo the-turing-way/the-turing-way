@@ -91,7 +91,7 @@ Malvika Sharan and Joni Pelham delivered a Software Carpentry Workshop at The Tu
 
 ![](https://i.imgur.com/FAPibQC.jpg)
 
-Tweets by [ADR UK](https://twitter.com/adr_uk), [Louise Corti][https://twitter.com/LouiseCorti], [Fiona Grimm](https://twitter.com/fiona_grimm) and [Ross Markello](https://twitter.com/rossdavism).
+Tweets by [ADR UK](https://twitter.com/adr_uk), [Louise Corti](https://twitter.com/LouiseCorti), [Fiona Grimm](https://twitter.com/fiona_grimm) and [Ross Markello](https://twitter.com/rossdavism).
 
 ## Connect with us!
 
