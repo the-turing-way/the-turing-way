@@ -53,11 +53,12 @@ These young researchers from China are spending a year in The Alan Turing Instit
 *Read the [full thread on Twitter](https://twitter.com/turingway/status/1225719523497697280)*
 
 Tony Yang, who is conducting his PhD research at Imperial College London has set out to develop standardised guidelines and infrastructure for translation efforts in Chinese and other languages within the community. 
-He will be working with Turing Way team members during the book dash in integrating this workflow in the main project pipeline.
+He will be working with _The Turing Way_ team members during the book dash in integrating this workflow in the main project pipeline.
 
 A past book dash attendee, Camila Rangel-Smith and her colleague Reina Camacho Toro have expressed interest in beginning to translate a few existing chapters in Spanish.
 
-We are so grateful for their work so far and invite our Chinese- and Spanish-speaking members to join this effort. Connect with them [on this GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues/767).
+We are so grateful for their work so far and invite our Chinese- and Spanish-speaking members to join this effort. 
+You can join this conversation [on this GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues/767).
 
 ## Relevant Resources
 
