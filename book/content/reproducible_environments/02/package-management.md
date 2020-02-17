@@ -156,7 +156,7 @@ pip install scipy
 ```
 
 will list 'scipy' package explicitely - as long as `pip` is installed inside the currently active conda environment.
-This allows Conda to keep track of the Python packages installed via `pip`.
+Unfortunately, when conda and pip are used together to create an environment, it can lead to a state that can be hard to reproduce. Specifically, running conda after pip may potentially overwrite or break packages installed via pip. One way to avoid this is by installing as many requirements as possible with conda, and then use pip. Detailed information can be read on the post [Using Pip in a Conda Environment](https://www.anaconda.com/using-pip-in-a-conda-environment/).
 
 Although Python packages have been used in many of the examples given here Conda packages do not have to be Python packages, for example here the R base language is installed along with the R package r-yaml
 
