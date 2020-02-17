@@ -3,7 +3,8 @@
 Kirstie Whitaker - representing _The Turing Way_ team - held a 'Boost your Research Reproducibility with Binder' workshop at the [British Antarctic Survey](https://www.bas.ac.uk) in Cambridge on 31 January 2020.
 
 The half day workshop was organised by [Dr Anita Faul](https://www.bas.ac.uk/profile/anfaul/) - a data scientist and machine learning expert at BAS.
-It was a closed event for BAS team members, but Kirstie's talk was recorded and is available for anyone to view at *insert youtube link*.
+It was a closed event for BAS team members, but Kirstie's talk was recorded and is available for anyone to view at https://youtu.be/q_bfyfZGCVY.
+
 The workshop went smoothly all thanks to Anita's hard work - thank you!
 
 The agenda for this [British Antarctic Survey: 31 January 2020](../agenda.md#british-antarctic-survey-31-january-2020) workshop includes with links to PDFs of the presentations and markdown files for the code-along exercises.
@@ -28,7 +29,12 @@ Let's try to make sure that's in all future workshops.
 
 ![](https://raw.githubusercontent.com/scott-hosking/my-first-binder/master/BoostReproducibilityBinder_BAS_2020-01-31.jpg)
 
-*Add Anita's comments here.*
+Anita added the following feedback:
+
+> I was very happy with the workshop and impressed by the efforts trying to fix the example which wasn't working in real time.
+> Kirstie was very engaged and happy to answer all questions.
+> There were also interesting discussions over lunch and at coffee.
+> In hindsight, it would have been useful to highlight the software carpentry lessons (https://software-carpentry.org/lessons/) for people to work through before the workshop. or run one of those workshops before this one.
 
 ## Participant feedback
 
@@ -36,35 +42,45 @@ At the end of each workshop participants were asked to fill in feedback forms ra
 
 ### Understanding and Confidence
 
-*Replace the `X`, `Y`, `Z` values below, and adapt the sentences as needed.*
+All participants reported feeling **Confident** or **Very confident** in their understanding and confidence in using Binder and capturing their computational environment.
 
-On average participants reported an increase of between `X` and `Y`% in their understanding and confidence in using Binder, capturing their computational environment and reproducing their research.
+The biggest increases were in understanding what Binder does and feeling confident that they could use it for their own work.
+And the smallest increases were in participants' confidence in their ability to share reproducible research.
 
-The biggest increases (`Z`%) were in *insert aspect here*.
-
-Participants showed the smallest increase in understanding *insert aspect here*.
-
-*Add sentence interpreting these numbers if relevant.*
+After the workshop everyone **Strongly Agreed** that research reproducibility should be part research culture and 4/5 respondents agreed that BAS should develop institutional guidance for research reproducibility.
 
 ### Positive feedback
 
-*Add sentence summarising positive aspects of the feedback.*
+The positive feedback was focused around the format and pacing of the workshop and the value of having a friendly and approachable instructor.
 
 Some selected comments are included below:
-* *add quote here*
-* *add quote here*
-
-*Add a tweets from participants here if relevant.*
+* I thought the workshop was very well run, with an inclusive code of conduct and was a very good introduction to The Turing Way and BinderHub. I thought the pace was right and the examples were useful.
+* Very useful and very helpful to do it interactively
+* The examples were clear and working through these simple examples together, at a slow pace was *really* helpful.
+* The format worked well - the beginning presentation provided enough information to get started, and it felt like we were able to move on to hands-on examples quite quickly.
+* Good balance between theory and practice, very approachable speaker.
 
 ### Areas for improvement
 
 Whilst the vast majority of feedback was positive there were a couple of areas participants identified could be improved:
 
-* *Add aspect of the workshop that could be changed here*
-* *Add aspect of the workshop that could be changed here*
+* Links to software carpentry.
+* Making it clear what the broad idea was behind each step in the example creation of a binder, with some brief discussion of how you'd approach it for more complex and substantial projects, rather than purely focusing on the simple example in hand would have made me feel a bit more confident about applying the method myself on more realistic examples.
+
+The links to additional materials to support participants before the workshop can easily be added to the information that is sent out when they register.
+
+Adding additional material and real world examples are already part of the longer workshop.
+This feedback emphasises the compromise that has to be made to run a half day rather than full day event.
 
 ### Impact
 
-X out of N participants said that they would use Binder in some capacity in the future.
-Most people intended to use Binder to *insert purpose here*.
+4 out of 5 participants said that they would use Binder in some capacity in the future.
+Most people intended to use Binder to ensure their research works across multiple computational environments and sharing their research.
 
+Some selected comments are included below:
+
+* I think I will absolutely use binder in future. Using the 'docker' aspects to ensure I am replicating my environment is something I have never done before, but see will be hugely useful both now when working on different machines, but also looking further ahead will be great if I move institutions, or spend time working at other places.
+  Also, when publishing work, saving the entire set up, so the work is truly reproducible, and saved in a way I know will work again in future if I wanted to revisit it is really appealing!
+* Possibly.
+  My usual data and code are too large for Binder and I opt for directly using containers instead.
+  It may be useful for small examples of my research, to demonstrate the method without requiring access to an HPC system.
