@@ -6,7 +6,7 @@ Hello Turing Way friends!
 
 We are on Twitter! Follow us for all the updates and relevant information: [https://twitter.com/turingway](https://twitter.com/turingway).
 
-Attend our next Collaboration Cafe on 19 February 2020, at 19:00 GMT (your time zone). Thanks to our friends Naomi Penfold and Stafanie Butland for mentioning this coworking event on their blog post - [Online Co-working Partnerships are Community of Practice in Action](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/#more-3009).
+Attend our next Collaboration Cafe on 19 February 2020, at 19:00 GMT ([your time zone](https://arewemeetingyet.com/London/2020-02-19/19:00/TuringWay-CollaborationCafe)). Thanks to our friends Naomi Penfold and Stafanie Butland for mentioning this coworking event on their blog post - [Online Co-working Partnerships are Community of Practice in Action](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/#more-3009).
 
 Shout out to Ang Li and Yini He for translating 4 chapters of *The Turing Way* in Chinese. Thanks to Tony Yang who is establishing a system within the project to facilitate an effective translation process in Chinese. They invite more members from the community to join them in their effort by translating *The Turing Way* in Chinese or other languages.
 
@@ -16,7 +16,7 @@ We are delighted to announce that we will be welcoming 15 of members at the book
 
 ### Collaborate Cafes
 
-Join us at the next collaboration cafe on 19 February at 19:00 GMT (see in your time zone). Sign up on [this HackMD](https://hackmd.io/@KirstieJane/CollabCafe). These online meetings are held using the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to co-work without distractions to add your contributions to *The Turing Way* project. These contributions can be from fixing bugs to reviewing existing chapters or adding your own content to the book. *The Turing Way* team members will be present to help you troubleshoot and answer your questions. Thanks to the positive response from our past attendees, we will continue to hold these working hours on the first Wednesdays at 15:00 GMT and third Wednesday at 19:00 GMT of each month. You can see the exact date and time for the next few sessions on [this GitHub page](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md).
+Join us at the next collaboration cafe on 19 February at 19:00 GMT ([your time zone](https://arewemeetingyet.com/London/2020-02-19/19:00/TuringWay-CollaborationCafe)). Sign up on [this HackMD](https://hackmd.io/@KirstieJane/CollabCafe). These online meetings are held using the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to co-work without distractions to add your contributions to *The Turing Way* project. These contributions can be from fixing bugs to reviewing existing chapters or adding your own content to the book. *The Turing Way* team members will be present to help you troubleshoot and answer your questions. Thanks to the positive response from our past attendees, we will continue to hold these working hours on the first Wednesdays at 15:00 GMT and third Wednesday at 19:00 GMT of each month. You can see the exact date and time for the next few sessions on [this GitHub page](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md).
 
 ## News from the community
 
