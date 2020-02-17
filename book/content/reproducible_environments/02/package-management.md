@@ -169,7 +169,7 @@ To see all of the installed packages in the current environment
 conda list
 ```
 
-To check if a particular package is installed
+To check if a particular package is installed, for example, `scipy` in this case:
 
 ```
 conda list scipy
