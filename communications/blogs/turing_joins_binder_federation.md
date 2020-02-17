@@ -13,7 +13,7 @@ However, there are a lot of tools available that can make packaging together cod
 [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) are a very popular method of combining code and prose to produce an interactive scientific analysis.
 [Docker](https://docs.docker.com/engine/docker-overview/) is used to bundle together, code, data and the software environment into a "container" in such a way that it is easily reused and portable across different systems.
 Using cloud computing resources, these tools can be made accessible to anyone, anywhere in the world.
-Combining these tools into a computational infrastructure is what makes up a BinderHub.
+However, learning all of these tools individually (let alone combining them together) can be a huge barrier to researchers since they require a lot of time investment to learn and implement properly.
 
 [BinderHub](https://binderhub.readthedocs.io/en/latest/) is the computational infrastructure that coordinates all of these tools to provide an easy method of creating computing environments for scientific analyses that are reproducible and shareable with anyone, anywhere.
 It rewards reproducible data science and software engineering best practices as it requires a version controlled project with documented software dependencies in order to automatically generate the environment.
