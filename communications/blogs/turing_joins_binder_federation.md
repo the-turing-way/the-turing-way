@@ -15,7 +15,8 @@ However, there are a lot of tools available that can make packaging together cod
 Using cloud computing resources, these tools can be made accessible to anyone, anywhere in the world.
 Combining these tools into a computational infrastructure is what makes up a BinderHub.
 
-- bhub coordinates these techs to make it easier for researchers to share reproducible analyses
+[BinderHub](https://binderhub.readthedocs.io/en/latest/) is the computational infrastructure that coordinates all of these tools to provide an easy method of creating computing environments for scientific analyses that are reproducible and shareable with anyone, anywhere.
+It rewards reproducible data science and software engineering best practices as it requires a version controlled project with documented software dependencies in order to automatically generate the environment.
 
 Turing Research Fellow and lead developer of _The Turing Way_, [Dr Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), had the following comment on the BinderHub technology.
 
