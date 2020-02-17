@@ -44,7 +44,7 @@ We are looking forward to welcoming them and working with them in person!
 
 #### Your comments are needed on the rubric for selection
 
-A call for application was opened in December 2019, inviting applications from the interested candidates sharing their ideas for contribution to *The Turing Way* project.
+An open call for applications was opened in December 2019 for the book dash, inviting ideas from the interested candidates for their contributions to *The Turing Way* project.
 They were also asked to justify how they will benefit from their participation at this event.
 We adapted the Mozilla Open Leadership selection rubric for ranking and scoring all the applications.
 This rubric is currently available in [pull request #804](https://github.com/alan-turing-institute/the-turing-way/pull/804).
@@ -71,9 +71,8 @@ Join the discussion [on this GitHub issue](https://github.com/alan-turing-instit
 ### _The Turing Way_ on twitter
 
 We are finally on Twitter and are very happy to connect with many of you there.
-Within hours of its launch 2 weeks ago we gained over 100 followers and delighted to read your tweets about us!
-Connect with us for updates on the project and learn what our members are up to.
-Follow us here: [https://twitter.com/turingway](https://twitter.com/turingway).
+Within hours of its launch 2 weeks ago, we gained over 100 followers and have managed to connect with 400 followers at the time of writing. 
+Please follow the account [turingway](https://twitter.com/turingway) for updates on the project and learn what our members are up to. 
 
 ![Screenshot of Turing Way twitter bio with cartoon drawings and 395 followers](communications/newsletters/images/Twitterbio-TuringWay-Feb2020.png)
 
@@ -192,7 +191,8 @@ Stay in touch through one of the many different pathways below!
 - [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 - [Gitter chat room](https://gitter.im/alan-turing-institute/the-turing-way)
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
-- Twitter: [@turingway](https://twitter.com/turingway) or [#TuringWay](https://twitter.com/hashtag/TuringWay?f=live)
+- [Twitter account](https://twitter.com/turingway)
+  - Hashtag [#TuringWay](https://twitter.com/hashtag/TuringWay?f=live)
 
 You are welcome to contribute content for the next newsletter by emailing [Malvika Sharan](mailto:msharan@turing.ac.uk) or adding links to your updates at this issue: [#832](https://github.com/alan-turing-institute/the-turing-way/issues/832).
 
