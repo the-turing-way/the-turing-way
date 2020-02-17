@@ -62,7 +62,7 @@ Some selected comments are included below:
 
 ### Areas for improvement
 
-Whilst the vast majority of feedback was positive there were a couple of areas participants identified could be improved:
+Whilst the vast majority of feedback was positive, there were a couple of areas participants identified could be improved:
 
 * Links to software carpentry.
 * Making it clear what the broad idea was behind each step in the example creation of a binder, with some brief discussion of how you'd approach it for more complex and substantial projects, rather than purely focusing on the simple example in hand would have made me feel a bit more confident about applying the method myself on more realistic examples.
