@@ -7,7 +7,7 @@ Hello Turing Way friends!
 We are on Twitter! Follow us for all the updates and relevant information: [https://twitter.com/turingway](https://twitter.com/turingway).
 
 Attend our next Collaboration Cafe on 19 February 2020, at 19:00 GMT ([your time zone](https://arewemeetingyet.com/London/2020-02-19/19:00/TuringWay-CollaborationCafe)). 
-Thanks to our friends Naomi Penfold and Stafanie Butland for mentioning this coworking event on their blog post - [Online Co-working Partnerships are Community of Practice in Action](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/#more-3009).
+Thanks to our friends, Naomi Penfold and Stafanie Butland, for mentioning this co-working event on their blog post - [Online Co-working Partnerships are Community of Practice in Action](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/#more-3009).
 
 Shout out to Ang Li and Yini He for translating 4 chapters of *The Turing Way* in Chinese. 
 Thanks to Tony Yang who is establishing a system within the project to facilitate an effective translation process in Chinese. 
