@@ -41,7 +41,7 @@ We are looking forward to welcoming them and working with them in person!
 
 A call for application was opened in December 2019, inviting applications from the interested candidates sharing their ideas for contribution to *The Turing Way* project. 
 They were also asked to justify how they will benefit from their participation at this event. 
-We adapted the Mozilla Open Leadership selection rubric for ranking and scoring all the applications. This rubric is currently available in this pull request (#829). 
+We adapted the Mozilla Open Leadership selection rubric for ranking and scoring all the applications. This rubric is currently available in this [pull request (#804)](https://github.com/alan-turing-institute/the-turing-way/pull/804). 
 We welcome your comments and suggestions on this rubric for the selection process in our future events.
 
 ### Translating *The Turing Way* in Other Languages
