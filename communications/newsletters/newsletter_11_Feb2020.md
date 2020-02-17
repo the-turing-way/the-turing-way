@@ -10,8 +10,8 @@ Follow us for all the updates and relevant information: [https://twitter.com/tur
 Attend our next Collaboration Cafe on 19 February 2020, at 19:00 GMT ([your time zone](https://arewemeetingyet.com/London/2020-02-19/19:00/TuringWay-CollaborationCafe)).
 Thanks to our friends, Naomi Penfold and Stafanie Butland, for mentioning this co-working event on their blog post - [Online Co-working Partnerships are Community of Practice in Action](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/#more-3009).
 
-Shout out to Ang Li and Yini He for translating 4 chapters of *The Turing Way* into Chinese.
-Thanks to Tony Yang who is establishing a system within the project to facilitate an effective translation process in Chinese.
+Shout out to [Ang Li](https://twitter.com/abc782544421) and Yini He for translating 4 chapters of *The Turing Way* into Chinese.
+Thanks to [Tony Yang](https://twitter.com/tony_yzy) who is establishing a system within the project to facilitate an effective translation process in Chinese.
 They invite more members from the community to join them in their effort by translating *The Turing Way* in Chinese or other languages.
 
 We are delighted to announce that we will be welcoming 15 of members at the book dash on 20 and 21 February. 
@@ -19,7 +19,7 @@ Read about them and more details on other topics below 👇
 
 ## Community meetings
 
-### Collaborate Cafes
+### Collaboration Cafes
 
 Join us at the next collaboration cafe on 19 February at 19:00 GMT ([your time zone](https://arewemeetingyet.com/London/2020-02-19/19:00/TuringWay-CollaborationCafe)).
 Sign up on [this HackMD](https://hackmd.io/@KirstieJane/CollabCafe).
@@ -52,18 +52,19 @@ We welcome your comments and suggestions on this rubric for the selection proces
 
 ### Translating *The Turing Way* into additional languages
 
-Ang Li and Yini He have translated four initial chapters of *The Turing Way* in Chinese. 
+[Ang Li](https://twitter.com/abc782544421) and Yini He have translated four initial chapters of *The Turing Way* in Chinese. 
 These researchers from China are spending a year in The Alan Turing Institute in the [Whitaker Lab](https://twitter.com/Whitaker_Lab) and are working on different topics in the neurobiology field while contributing to *The Turing Way* project.
 
 ![Tweet from Turing Way project and Kirstie Whitaker celebrating Tony, Ang & Yini's progress translating the book](/communications/newsletters/images/Tweet-Translation-Feb2020.png)
 *Read the [full thread on Twitter](https://twitter.com/turingway/status/1225719523497697280)*
 
-Tony Yang, who is conducting his PhD research at Imperial College London has set out to develop standardised guidelines and infrastructure for translation efforts in Chinese and other languages within the community.
+[Tony Yang](https://twitter.com/tony_yzy), who is conducting his PhD research at Imperial College London, has set out to develop standardised guidelines and infrastructure for translation efforts in Chinese and other languages within the community.
 He will be working with Turing Way team members during the book dash in integrating this workflow in the main project pipeline.
 
-A past book dash attendee, Camila Rangel-Smith and her colleague Reina Camacho Toro have expressed interest in beginning to translate a few existing chapters in Spanish.
+A past book dash attendee, [Camila Rangel-Smith](https://twitter.com/CamilaRangelS) and her colleague [Reina Camacho Toro](https://twitter.com/rcamachotoro) have expressed interest in beginning to translate a few existing chapters in Spanish.
 
-We are so grateful for their work so far and invite our Chinese- and Spanish-speaking members to join this effort. Connect with them [on this GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues/767).
+We are so grateful for their work so far and invite our Chinese- and Spanish-speaking members to join this effort.
+Join the discussion [on this GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues/767).
 
 ## Relevant Resources
 
@@ -119,7 +120,8 @@ Sarah started by providing technical support to the project for reproducible com
 
 > "By being a visible member of the team at a range of research-based events, I have been able to champion reproducibility, *The Turing Way* and Binder projects throughout the research community and disseminate the lessons I've learned through the workshops I've presented." - **Sarah Gibson**
 
-*We would love to hear from you!*
+***We would love to hear from you!***
+
 *If you are able to share your impact story, please get in touch or send a [pull request](https://github.com/alan-turing-institute/the-turing-way/pulls) for your impact statement to be included [here](https://github.com/alan-turing-institute/the-turing-way/tree/master/project_management/impact_statements).*
 
 ## Acknowledgements and celebrations
