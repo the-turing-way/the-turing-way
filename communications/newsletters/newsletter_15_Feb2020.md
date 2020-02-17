@@ -62,9 +62,9 @@ You can join this conversation [on this GitHub issue](https://github.com/alan-tu
 
 ## Relevant Resources
 
-We are finally on Twitter and are very happy to connect with many of you there. 
-Within hours of its launch 2 weeks ago we gained over 100 followers and delighted to read your tweets about us! Connect with us for updates on the project and learn what our members are upto. 
-Follow us here: https://twitter.com/turingway.
+We are finally on Twitter and have been throughly enjoying reading your tweets about us (previously tagged with #TuringWay). 
+Within hours of its launch 2 weeks ago, we gained over 100 followers and have managed to connect with 400 followers at the time of writing. 
+Please follow the account [turingway](https://twitter.com/turingway) for updates on the project and learn what our members are up to. 
 
 ![](https://i.imgur.com/JvGBYCb.png)
 
