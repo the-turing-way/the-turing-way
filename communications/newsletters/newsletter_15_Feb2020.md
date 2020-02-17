@@ -62,7 +62,7 @@ You can join this conversation [on this GitHub issue](https://github.com/alan-tu
 
 ## Relevant Resources
 
-We are finally on Twitter and have been throughly enjoying reading your tweets about us (previously tagged with #TuringWay). 
+We are finally on Twitter and have been throughly enjoying reading your tweets about us (previously tagged with [#TuringWay](https://twitter.com/hashtag/TuringWay?f=live)). 
 Within hours of its launch 2 weeks ago, we gained over 100 followers and have managed to connect with 400 followers at the time of writing. 
 Please follow the account [turingway](https://twitter.com/turingway) for updates on the project and learn what our members are up to. 
 
@@ -128,7 +128,8 @@ Tweets by [ADR UK](https://twitter.com/adr_uk), [Louise Corti](https://twitter.c
 - [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 - [Gitter chat room](https://gitter.im/alan-turing-institute/the-turing-way)
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
-- Twitter Hashtag [#TuringWay](https://twitter.com/hashtag/TuringWay?f=live)
+- [Twitter account](https://twitter.com/turingway)
+  - Hashtag [#TuringWay](https://twitter.com/hashtag/TuringWay?f=live)
 
 You are welcome to contribute content for the next newsletter by
 emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
