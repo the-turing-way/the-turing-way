@@ -37,7 +37,7 @@ It is a community of scientists and open-source developers dedicated to scientif
 The Binder Federation provides interactive data analytics environments to roughly 10,000 unique repositories via 300,000 launches a month, and it relies on its team of partner BinderHubs to collaborate in providing this service.
 
 GKE, OVH, GESIS and now new members the Turing pool their resources to create a sustainable, open-source infrastructure that allows easy creation, sharing of and access to reproducible computational environments.
-Pooling resources in such a way is an important step for the resilience and sustanability of Project Binder since the dependency between mybinder.org and its funding is now spread across many sources.
+Pooling resources in such a way is an important step for the resilience and sustainability of Project Binder since the dependency between mybinder.org and its funding is now spread across many sources.
 It also facilitates the decentralisation of the knowledge required to deploy and manage a BinderHub.
 
 _Turing Way_ contributor [Dr Sarah Gibson](https://www.turing.ac.uk/people/researchers/sarah-gibson) is also a [mybinder.org](https://mybinder.org) operator.
