@@ -34,7 +34,7 @@ Turing Research Fellow and lead developer of _The Turing Way_, [Dr Kirstie Whita
 
 [The Binder Federation](https://blog.jupyter.org/the-international-binder-federation-4f6235c1537e) is an experiment in open infrastructure for data science and beyond.
 It is a community of scientists and open-source developers dedicated to scientific reproducibility, communicating ideas through interactive computing, and providing real-time access to results and analyses.
-The Binder Federation provides interactive data analytics environments to roughly 10,000 unique repositories via 300,000 launches a month, and it relies on its team of partner BinderHubs to collaborate in providing this service.
+The Binder Federation provides interactive data analytics environments to roughly 10,000 unique repositories via 400,000 launches a month, and it relies on its team of partner BinderHubs to collaborate in providing this service.
 
 GKE, OVH, GESIS and now new members the Turing pool their resources to create a sustainable, open-source infrastructure that allows easy creation, sharing of and access to reproducible computational environments.
 Pooling resources in such a way is an important step for the resilience and sustainability of Project Binder since the dependency between mybinder.org and its funding is now spread across many sources.
