@@ -7,9 +7,13 @@ Based in London UK, their infrastructure is hosted on [Microsoft Azure](https://
 
 ## Reproducible and Transparent Science Communication
 
-- what problem is the federation solving?
+Science moves forward by corroboration and the reproducibility crisis in science is [well known](https://www.nature.com/collections/prbfkwmwvz).
+When a paper is published, there is generally no way for an outsider to verify its results because the underlying data and analysis code are not available for scrutiny.
+This makes the science very difficult to build upon and results in fragile advances and lots of wasted time and money.
+As well as a cultural change in our approach to data science (such as the abolition of 'publish or perish' incentives, secrecy around data, and the drive for novelty), there is also a need for a practical change in the way science is communicated so that it is more transparent regarding the steps that were taken to produce the results.
+This is one of the reasons [funders and publishers are beginning to require that publications include access to the underlying data and analysis code](https://www.data.cam.ac.uk/funders).
 
-However, there are a lot of tools available that can make packaging together code and resources a lot easier.
+There are a lot of tools available that can make packaging together code and resources a lot easier.
 [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) are a very popular method of combining code and prose to produce an interactive scientific analysis.
 [Docker](https://docs.docker.com/engine/docker-overview/) is used to bundle together, code, data and the software environment into a "container" in such a way that it is easily reused and portable across different systems.
 Using cloud computing resources, these tools can be made accessible to anyone, anywhere in the world.
