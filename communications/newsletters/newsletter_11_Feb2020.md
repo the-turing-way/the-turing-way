@@ -14,8 +14,9 @@ Shout out to [Ang Li](https://twitter.com/abc782544421) and Yini He for translat
 Thanks to [Tony Yang](https://twitter.com/tony_yzy) who is establishing a system within the project to facilitate an effective translation process in Chinese.
 They invite more members from the community to join them in their effort by translating *The Turing Way* in Chinese or other languages.
 
-We are delighted to announce that we will be welcoming 15 of members at the book dash on 20 and 21 February. 
-Read about them and more details on other topics below 👇
+We are delighted to announce that we will be welcoming 15 of members at the book dash on 20 and 21 February, and _The Turing Way_ team are looking for a community member to give a short workshop at NeuroDoWo in Cologne, Germany in August.
+
+Read about this great opportunity, meet the book dash participants, and so much more below 👇
 
 ## Community meetings
 
@@ -123,6 +124,23 @@ Sarah started by providing technical support to the project for reproducible com
 
 *If you are able to share your impact story, please get in touch or send a [pull request](https://github.com/alan-turing-institute/the-turing-way/pulls) for your impact statement to be included [here](https://github.com/alan-turing-institute/the-turing-way/tree/master/project_management/impact_statements).*
 
+## Requests for your help
+
+### NeuroDoWo
+
+[NeuroDoWo](https://neurodowo.nwg-info.de/) - the Neurobiology Doctoral Students Workshop - is an annual, student-organized meeting covering a wide range of topics and with a vision to educate and empower fellow young researchers.
+This years meeting is organized in Cologne, Germany and will take place from the 19 to 21 August.
+
+Anna-Maria Jürgensen, on behalf of the organising team, has asked if a member of _The Turing Way_ community could lead a short workshop on the relevance, challenges and opportunities of open and reproducible research.
+
+Kirstie has given lots of talks about _The Turing Way_ and her goal for 2020 is to have twice as many *other* people give talks about the project than herself.
+This is a really great opportunity for any community member who has contributed to the project to get some 1:1 coaching with Kirstie, practice their presentation skills (reusing slides or making their own), travel to Cologne, and meet and influence the next generation of world leading researchers.
+
+There is funding available to support travel and accommodation at the event and you do not need to work in the field of neuroscience to give this talk.
+
+Please reply to [theturingway@gmail.com](mailto:theturingway@gmail.com) before 2 March if you would like to discuss giving this presentation and leading the discussion.
+Thank you in advance for helping grow and promote our community 🙏 ✨
+
 ## Acknowledgements and celebrations
 
 ### Binder Demo at PyData Cambridge
@@ -174,12 +192,18 @@ What a fun way to spend Valentine's Day! 💞 💕 💖
 This workshop was organised by [James Robinson](https://www.turing.ac.uk/people/researchers/james-robinson) and [Mishka Nemes](https://www.turing.ac.uk/people/business-team/mishka-nemes) and covered introductory lessons from Python, Unix and git/version control.
 See [the workshop page](https://alan-turing-institute.github.io/2020-02-10-turing/) for details.
 
-### Impressions from Twitter
+### Impressions on the world wide web
 
 ![Screenshots of tweets linked below from ADR UK, Louise Corti, Fiona Grimm and Ross Markello](communications/newsletters/images/Tweet-combo-Feb2020.jpg)
 
 *Tweets by [ADR UK](https://twitter.com/adr_uk), [Louise Corti](https://twitter.com/LouiseCorti), [Fiona Grimm](https://twitter.com/fiona_grimm) and [Ross Markello](https://twitter.com/rossdavism).*
 
+We were delighted to be acknowledged in this fantastic blog post from [The Health Foundation](https://www.health.org.uk/): ["Towards open health analytics: our guide to sharing code safely on GitHub"](https://towardsdatascience.com/towards-open-health-analytics-our-guide-to-sharing-code-safely-on-github-5d1e018897cb).
+Thank you [Fiona Grimm](https://twitter.com/fiona_grimm ) [Karen Hodgson](https://twitter.com/KarenHodgePodge) and [Sarah Deeny](https://twitter.com/SarahDeeny) of the Foundation's [Data Analytics](https://www.health.org.uk/what-we-do/quality-and-data-analytics/in-house-data-analytics) team.
+
+> As a team, we are lucky to stand on the shoulders of open data science giants.
+> What we've achieved so far has only been possible because we can access an incredible range of open-source tools and the [support of individuals and communities](https://www.bmj.com/content/367/bmj.l6365), who have done lots of hard work already.
+> We owe much of our progress to resources and advice from the [NHS-R community](https://nhsrcommunity.com/), the [Turing Way](https://the-turing-way.netlify.com/introduction/introduction) and the wider open data science community on Twitter and Stack Overflow.
 
 ## Connect with us!
 
