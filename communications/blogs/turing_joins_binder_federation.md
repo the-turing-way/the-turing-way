@@ -93,7 +93,7 @@ Read more about _The Turing Way_ in this [Turing Impact Story](https://www.turin
 
 ## About Project Jupyter
 
-[Project Jupyter](https://jupyter.org) is a non-profit, open-source project supporting interactive data science and scientific computing across all programming languages.
+[Project Jupyter](https://jupyter.org) is a non-profit project releasing 100% open-source software to support interactive data science and scientific computing across all programming languages.
 
 ## About Project Binder
 
