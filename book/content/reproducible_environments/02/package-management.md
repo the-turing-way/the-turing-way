@@ -163,6 +163,18 @@ Although Python packages have been used in many of the examples given here Conda
 conda create --name Project_One r-base r-yaml
 ```
 
+To see all of the installed packages in the current environment
+
+```
+conda list
+```
+
+To check if a particular package is installed, for example, `scipy` in this case:
+
+```
+conda list scipy
+```
+
 A Conda channel is where it downloaded a package from. Common channels include Anaconda (a company which provides the `defaults` conda package channel), and conda-forge (a community-driven packaging endeavour). You can explicitly install a package from a certain channel by specifying it like:
 
 ```
