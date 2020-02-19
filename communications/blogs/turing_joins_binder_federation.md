@@ -14,7 +14,7 @@ As well as a cultural change in our approach to data science (such as the abolit
 This is one of the reasons [funders and publishers are beginning to require that publications include access to the underlying data and analysis code](https://www.data.cam.ac.uk/funders).
 
 There are a lot of tools available that can make packaging code and resources a lot easier.
-[Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) are a very popular method of combining code and prose to produce an interactive scientific analysis.
+[Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) are a very popular method of combining code, its results and prose to produce an interactive scientific analysis.
 [Docker](https://docs.docker.com/engine/docker-overview/) is used to bundle together, code, data and the software environment into a "container" in such a way that it is easily reused and portable across different systems.
 Using cloud computing resources, these tools can be made accessible to anyone, anywhere in the world.
 However, learning all of these tools individually (let alone combining them together) can be a huge barrier to researchers since they require a lot of time investment to learn and implement properly.
