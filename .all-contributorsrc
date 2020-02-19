@@ -1,5 +1,7 @@
 {
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "contributorsPerLine": 7,
   "skipCi": true,
@@ -671,6 +673,23 @@
         "doc",
         "review"
       ]
+    },
+    {
+      "login": "malvikasharan",
+      "name": "Malvika Sharan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5370471?v=4",
+      "profile": "https://github.com/malvikasharan",
+      "contributions": [
+        "doc",
+        "eventOrganizing",
+        "ideas",
+        "projectManagement",
+        "review"
+      ]
     }
-  ]
+  ],
+  "projectName": "the-turing-way",
+  "projectOwner": "alan-turing-institute",
+  "repoType": "github",
+  "repoHost": "https://github.com"
 }
