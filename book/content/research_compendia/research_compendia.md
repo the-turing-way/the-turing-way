@@ -57,6 +57,14 @@ In the future, the research compendium may even be the publication itself which 
 
 ## Checklist
 
+To create a research compendium, follow these steps:
+
+- [ ] Think about a good folder structure (see example above)
+- [ ] Create folderstructure on your computer
+- [ ] Optional: Make the compendium into a git repository
+- [ ] Add all files needed for reproducing the results of the project
+- [ ] Try to have the compendium as clean and easy to use as possible when you advertise it for others to use
+- [ ] Optional: Use Binder for publishing the compenidum in an easy to use way
 
 
 ## What to learn next
@@ -67,11 +75,18 @@ In the future, the research compendium may even be the publication itself which 
 
 - https://research-compendium.science
 
+<!---
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
 > less relevant/favourite resources in case someone wants to dig into this in detail
+-->
+
 
 ## Definitions/glossary
-> Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
+
+See our [glossary](glossary/glossary) for explanations of terms used in the chapter.
+
 
 ## Bibliography
-> Credit/urls for any materials that form part of the chapter's text.
+
+<!--- TODO: add references -->
+
