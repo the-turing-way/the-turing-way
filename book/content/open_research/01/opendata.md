@@ -12,7 +12,7 @@ This lack of data sharing is an obstacle to international research (be it academ
 Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs.
 Open data is crucial to meeting these objectives.
 Open data is freely available on the internet and any user is permitted to download, copy, analyse, re-process, and re-use it for any other purpose with minimal financial, legal, and technical barriers.
-This represents a real shift in how research works.
+This represents a real shift in how research works and funders are starting to require reasearchers to make their data available and submit data management plans as part of project proposals (see also our chapter on [research data management](rdm/rdm.html)).
 At the moment anyone who wishes to use data from a researcher often has to contact that researcher and make a request.
 "Open by default" turns this on its head and says that there should be a presumption of publication for all.
 If access to data is restricted, for instance due to security reasons, the justification for this should be made clear.
@@ -20,6 +20,8 @@ Free access to, and subsequent use of, data is of significant value to society a
 So, how do you go about making your data open?
 
 ### Steps to make your data open
+
+The steps below help you make your data findable, accessible, interoperable and reusable (FAIR). You can learn more about FAIR principles in the chapter on [research data management](rdm/rdm.html).
 
 #### Step 1: Make your data available
 
@@ -74,6 +76,7 @@ This URL should belong to a landing page that contains descriptive information a
 You should also ensure that datasets are made citable and identifiable at an appropriate level of granularity.
 For example, it would be no use citing CERN's entire data repository as someone attempting to reproduce your work would not be able to find the data used in a specific piece of work without considerable difficulty. 
 Where possible you should be able to cite the data used, and only the data used.
+
 
 ### Barriers to data sharing
 
