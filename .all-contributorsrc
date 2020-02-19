@@ -1,14 +1,10 @@
 {
-  "projectName": "the-turing-way",
-  "projectOwner": "alan-turing-institute",
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "files": [
-    "README.md",
-    "contributors.md"
-  ],
+  "files": ["README.md"],
   "imageSize": 100,
-  "commit": false,
+  "contributorsPerLine": 7,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "skipCi": "true",
   "contributors": [
     {
       "login": "rainsworth",
@@ -691,7 +687,5 @@
         "review"
       ]
     }
-  ],
-  "contributorsPerLine": 7,
-  "skipCi": false
+  ]
 }
