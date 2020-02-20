@@ -21,12 +21,19 @@ This chapter has many prerequesites as it takes all components together into a r
 
 ## How this will help you/ why this is useful
 
-This should be the final product of your research project.
+An executable research compendium should be the final product of your research project.
+Publishing a research compendium (rather than just publishing a paper) allows others to redo your computations.
+This not only installs trust in your research but can give you more visibility.
+Others may use your research in unexpected ways.
+Some of those are listed below ([Using a research compendium](#Using_a_research_compendium)).
+
 
 ## Chapter content
 
 Executable research compendia aim to make the computational part of a scientific publication reproducible by providing all the building blocks available and give a description of how the user can execute the containing code.
 
+
+### Structure of a research compendium
 Imagine a research project with the following folder structure:
 
 ```text
@@ -50,21 +57,50 @@ It contains all the digital parts of the research project (code, data, text, fig
 The computing environment is described in the `Dockerfile`, the dependencies of files and how to automatically generate the results are described in the `Makefile`.
 Additionally we have a `README.md` describing what the compendium is about and a `LICENSE` file with info on how it can be used.
 
-We could now consider how to publish this research compendium.
-One option would be to publish it with binder to make it easily reproducible for others. 
-Or we could publish it as supplementary material with the paper.
+
+### Creating a research compendium
+
+If you already use some of the tools in this book - such as version control, Makefiles, and/or reproducible environments -it may come naturally to you to create a research compendium. 
+This is, because a version control repository can be a research compendium; A Makefile makes it executable; A reproducible environment makes it reproducile.
+To create a reseach compendium, we recomend to first think about *what the components of your project are* and create the folder structure accordingly. 
+Use names for files and folders that make it easy for others to understand what they contain.
+It is a good idea to think about this early in the research process and start your project with the mindset that the output in the end is a research compendium rather than just a research paper.
+
+
+### Publishing a research compendium
+
+There are several options to publish a research compendium:
+
+- On a versioning platform such as GitHub or GitLab (potentially with a link to Binder).
+- On a research arxive such as Zenodo or the Open Science Framework (OSF).
+- As supplementary material of a paper publication.
+
+For examples, see the label/tag/community "research-compendium" (applied on GitHub, Zenodo, OSF) or as a fallback the term "research compendium" in the description (used on GitLab).
+
 In the future, the research compendium may even be the publication itself which is being peer reviewed (rather that just peer reviewing the paper, why not review the entire research project).
+
+
+### Using a research compendium
+
+A research compendium can be used in several ways, including (but not limited to):
+
+- Peer review: If peers can check what you have done, they can review it much more thoroughly.
+- Understanding research: If you really want to understand what someone has done in their research project, the research compendium is what you need to look at.
+- Teaching: Research compendia can be great examples to be used in teaching.
+- Reproducibility studies / repro hacks: A research compendium allows other researchers to attempt (and hopefully succeed) to redo your computations.
+
 
 ## Checklist
 
 To create a research compendium, follow these steps:
 
 - [ ] Think about a good folder structure (see example above)
-- [ ] Create folderstructure on your computer
+- [ ] Create folder structure
 - [ ] Optional: Make the compendium into a git repository
 - [ ] Add all files needed for reproducing the results of the project
 - [ ] Try to have the compendium as clean and easy to use as possible when you advertise it for others to use
-- [ ] Optional: Use Binder for publishing the compenidum in an easy to use way
+- [ ] Optional: Have a peer check the compendium and see if it works correctly
+- [ ] Publish your compendium
 
 
 ## What to learn next
