@@ -14,8 +14,8 @@ matrix:
           - sudo -H pip3 install --upgrade pip
           - sudo apt-get install python3-setuptools
       install:
-        - python -m pip3 install --user -r ./book/website/requirements.txt # install things for the book
-        - python -m pip3 install --user -U attrs pytest # the installed versions in Travis are too old!
+        - python -m pip install --user -r ./book/website/requirements.txt # install things for the book
+        - python -m pip install --user -U attrs pytest # the installed versions in Travis are too old!
       script:
         # Below here, "scripts" directory refers to the one in book/website:
         - cd ./book/website
