@@ -263,13 +263,25 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 
 ## Local development
 
-You can host the book website locally. The steps are:
+You can build and host the book website locally. The steps are:
 
-1. Install [docker](https://www.docker.com/): see [Reproducible Environments](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Containers_section) for discussion of docker and containers.
+1. Install the required software to build the book, optionally in a [virtual environment](https://packaging.python.org/tutorials/installing-packages/#creating-virtual-environments):
 
-2. Make sure you have docker-compose installed: [compose installation instructions](https://docs.docker.com/compose/install/)
+   ```
+   pip install -r book/website/requirements.txt
+   ```
 
-3. The website can then be started using:
+2. You can now build or refresh the book using:
+
+   ```
+   jupyter-book build .
+   ```
+
+3. To host the book locally, install [docker](https://www.docker.com/): see [Reproducible Environments](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Containers_section) for discussion of docker and containers.
+
+4. Next, make sure you have docker-compose installed: [compose installation instructions](https://docs.docker.com/compose/install/)
+
+5. The website can then be started using:
 
    ```
    cd book/website
@@ -277,14 +289,6 @@ You can host the book website locally. The steps are:
    ```
 
    This will install all ruby requirements and make the site available at `http://0.0.0.0:4000/introduction/introduction`.
-
-   You can refresh your build using:
-
-   ```
-   jupyter-book build .
-   ```
-
-
 
 
 ## Style Guide
