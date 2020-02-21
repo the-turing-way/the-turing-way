@@ -12,7 +12,6 @@ help:
 
 
 install:
-	pip3 install -r requirements.txt
 	gem install bundler
 	bundle install
 
