@@ -153,7 +153,9 @@ The next section shows some examples of how this is done.
 
 Many of the examples in this section relate to [xtas](http://xtas.net). xtas is a natural language processing toolkit for Python that reuses many third-party libraries, programs and data sets, and therefore provides a variety of nice examples.
 
-![A graphical overview of xtas. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Underneath this there are three side-by-side squares, representing respectively Python libraries, Software, and Data, that are used by xtas. Within the Python libraries square, there are three boxes. The first box contains the words "BSD", "MIT" and "ALv2". The seconds box contains "LGPLv2.1". The third box contains "GPLv2+". Within the Software square, there are four boxes. The first box contains "Web Service". The second box contains "LGPL v2.1+". The third box contains "Research only" and the fourth box contains "GPL 2+/3+". The Data square also contains four boxes. The first box contains "CC BY-SA 3.0". The second box contains "Research Only". The third box contains "No license, US" and the fourth box contains "CoNLL'02 only".](../../figures/license_examples/xtas_overview_96.svg.png)
+| ![A graphical overview of xtas.](../../figures/license_examples/xtas_overview_96.svg.png)         |
+| ------------------------------------------------------------------------------------ |
+| A graphical overview of xtas. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Underneath this there are three side-by-side squares, representing respectively Python libraries, Software, and Data, that are used by xtas. Within the Python libraries square, there are three boxes. The first box contains the words "BSD", "MIT" and "ALv2". The seconds box contains "LGPLv2.1". The third box contains "GPLv2+". Within the Software square, there are four boxes. The first box contains "Web Service". The second box contains "LGPL v2.1+". The third box contains "Research only" and the fourth box contains "GPL 2+/3+". The Data square also contains four boxes. The first box contains "CC BY-SA 3.0". The second box contains "Research Only". The third box contains "No license, US" and the fourth box contains "CoNLL'02 only".  |
 
 xtas itself is written in Python, and it uses a number of Python libraries that are licensed under common Free licenses. These include the simple permissive BSD and MIT licenses, the permissive Apache License version 2.0 (ALv2), the GNU Lesser General Public License version 2.1 (LGPLv2.1), and the GNU General Public License version 2 or later (GPLv2+).
 
@@ -166,7 +168,9 @@ In the following examples, we'll simplify most of this away, and look at one or 
 
 ### Apache vs. BSD
 
-![An illustration of the xtas vs. Snowball example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "Snowball Stemmer" and "Python lib BSD".](../../figures/license_examples/xtas_snowball_96.svg.png)
+| ![An illustration of the xtas vs. Snowball example.](../../figures/license_examples/xtas_snowball_96.svg.png)         |
+| ------------------------------------------------------------------------------------ |
+| An illustration of the xtas vs. Snowball example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "Snowball Stemmer" and "Python lib BSD".  |
 
 xtas uses [Snowball](https://snowballstem.org/), a Python-based stemming library. Snowball is published under the 3-clause BSD license. Considering only xtas and Snowball, we can answer the three questions as follows.
 
@@ -191,7 +195,9 @@ If xtas authors redistribute Snowball, they must do so under the BSD license gra
 
 ### Apache vs. LGPL
 
-![An illustration of the xtas vs. chardet example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "chardet" and "Python lib LGPLv2.1".](../../figures/license_examples/xtas_chardet_96.svg.png)
+| ![An illustration of the xtas vs. chardet example.](../../figures/license_examples/xtas_chardet_96.svg.png)         |
+| ------------------------------------------------------------------------------------ |
+| An illustration of the xtas vs. chardet example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "chardet" and "Python lib LGPLv2.1".  |
 
 xtas uses [chardet](https://pypi.org/project/chardet/), a Python library for detecting the character set used in a string of text. Chardet is published under the GNU Lesser General Public License v2.1. Considering only xtas and chardet, we can answer the three questions as follows.
 
@@ -210,7 +216,9 @@ xtas as a whole, and the xtas Python code, can be licensed in any way the author
 
 ### Apache vs. GPLv2
 
-![An illustration of the xtas vs. unidecode example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "unidecode" and "Python lib GPLv2+".](../../figures/license_examples/xtas_unidecode_96.svg.png)
+| ![An illustration of the xtas vs. unidecode example.](../../figures/license_examples/xtas_unidecode_96.svg.png)         |
+| ------------------------------------------------------------------------------------ |
+| An illustration of the xtas vs. unidecode example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "unidecode" and "Python lib GPLv2+".  |
 
 xtas previously used [unidecode](https://pypi.org/project/Unidecode/), a Python library for converting text encoded according to The Unicode® Standard into an ASCII approximation of it. Unidecode is published under the GNU General Public License version 2 or later (GPLv2+). Considering only xtas and unidecode, we can answer the three questions as follows.
 
@@ -245,7 +253,9 @@ As is probably clear by now, dependencies that are under a strong copyleft licen
 
 ### Apache vs BSD vs LGPL vs GPLv2
 
-![An illustration of the xtas and all Python libraries example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below this, there are three squares. The first square contains the words "Snowball" and "Python lib BSD". The second square contains "chardet" and "Python lib LGPLv2.1". The third square contains the words "unidecode" and "Python lib GPLv2+".](../../figures/license_examples/xtas_all_python_libs_96.svg.png)
+| ![An illustration of the xtas and all Python libraries example.](../../figures/license_examples/xtas_all_python_libs_96.svg.png)         |
+| ------------------------------------------------------------------------------------ |
+| An illustration of the xtas and all Python libraries example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below this, there are three squares. The first square contains the words "Snowball" and "Python lib BSD". The second square contains "chardet" and "Python lib LGPLv2.1". The third square contains the words "unidecode" and "Python lib GPLv2+".  |
 
 Now, we will consider all three of the above examples at the same time.
 
@@ -266,7 +276,9 @@ The xtas Python code should be licensed under the Apache License v2, and the com
 
 xtas can run the [Stanford CoreNLP program](https://stanfordnlp.github.io/CoreNLP/), which is written in Java and distributed under the GNU GPL version 3 or later. When the user calls the corresponding xtas function, CoreNLP is started by xtas, the user's input is sent to it through a pipe, and then the CoreNLP output is handed back to the user or processed further.
 
-![An illustration of the xtas vs. CoreNLP example. A square represents the combined work xtas. Within this square, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "Stanford CoreNLP" and "Java program GPLv3+".](../../figures/license_examples/xtas_corenlp_1_96.svg.png)
+| ![An illustration of the xtas vs. CoreNLP example.](../../figures/license_examples/xtas_corenlp_1_96.svg.png)         |
+| ------------------------------------------------------------------------------------ |
+| An illustration of the xtas vs. CoreNLP example. A square represents the combined work xtas. Within this square, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "Stanford CoreNLP" and "Java program GPLv3+".  |
 
 One interpretation of this situation is that this is no different from calling a function in a library, and that any distribution of xtas as a whole, including CoreNLP, should therefore be under the GPLv3+. Contributing to this interpretation is the fact that xtas will download and install CoreNLP automatically if needed.
 
@@ -316,5 +328,3 @@ Another option would be to replace one of the dependencies by one written by our
 The fundamental issue here is that the GPL tries to make everyone shared stewards of the software we use, while proprietary software tries to keep control over it in the hands of a single owner.
 
 Combining them in a single project is complicated and not without legal risk, and you should avoid it. If that's not possible, you should tread carefully.
-
-
