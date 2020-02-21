@@ -31,7 +31,10 @@ jobs:
     - name: Install prettier
       run: |
         npm install --global prettier
-    # Run prettier on markdown files
-    - name: Check for markdown auto-formatting clashes
+    # Run prettier on markdown files (two steps)
+    - name: Check for markdown auto-formatting clashes with Prettier
       run: |
         prettier --check ./book/content/**/*.md
+    - name: Check with Prettier again and preserve prose wrap
+      run: |
+        prettier --check --prose-wrap preserve ./book/content/**/*.md
