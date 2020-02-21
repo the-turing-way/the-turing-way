@@ -61,18 +61,26 @@ For example you have book chapter folders `01_introduction`, `02_naming_files`, 
 
 
 ## Checklist
-> this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
+
+Make sure, the names of files, folders and other things are:
+
+- [ ] Machine readable
+- [ ] Human readable
+
+And potentially also 
+
+- [ ] Play well with default ordering
+
 
 ## What to learn next
-> recommended next chapters that are a good next step up
+
+Want to build a folder with all the files from your research project? 
+Check out our chapter on [research compendia](research_compendia/research_compendia).
+
 
 ## Further reading
 
 The ideas for this chapter are taken from Jenny Brian's slide deck on [naming things](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf).
 
 
-## Definitions/glossary
-> Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
 
-## Bibliography
-> Credit/urls for any materials that form part of the chapter's text.
