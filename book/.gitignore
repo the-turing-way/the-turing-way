@@ -59,6 +59,7 @@ coverage.xml
 # *.pot
 POTFILES.in
 locale/
+toc.yml.bak
 
 # Django stuff:
 *.log
