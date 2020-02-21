@@ -1,0 +1,2072 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: content\n"
+"Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
+"POT-Creation-Date: 2020-02-05 19:08:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: version_control/version_control.md:1
+# header
+msgid "# Version Control"
+msgstr ""
+
+#: version_control/version_control.md:3
+# header
+msgid "## Prerequisites / recommended skill level"
+msgstr ""
+
+#: version_control/version_control.md:5
+msgid "| Prerequisite | Importance | Notes |"
+msgstr ""
+
+#: version_control/version_control.md:6
+msgid "| -------------|----------|------|"
+msgstr ""
+
+#: version_control/version_control.md:7
+msgid "|[Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Helpful | It is possible to use version control through desktop and web browser based tools. These are discussed towards the end of this chapter, but the general principles and best practice discussed in the preceding sections are relevant regardless of whether the command line or a GUI is used. |"
+msgstr ""
+
+#: version_control/version_control.md:9
+msgid "Recommended skill level: beginner - intermediate. Version control has a great deal of useful features, but total mastery is not necessary to achieve a great deal with it."
+msgstr ""
+
+#: version_control/version_control.md:10
+msgid "Even a beginner utilising a few of the simplest features well can save themselves a great deal of time and drastically improve the reproducibility of their work."
+msgstr ""
+
+#: version_control/version_control.md:11
+msgid "Naturally, we encourage readers to make use of the entire chapter, but readers should not be discouraged from using some tools they feel comfortable with if they are not comfortable with *all* the tools available."
+msgstr ""
+
+#: version_control/version_control.md:13
+# header
+msgid "## Summary"
+msgstr ""
+
+#: version_control/version_control.md:15
+msgid "Version control keeps track of different versions of a project and allows past versions to be accessed easily."
+msgstr ""
+
+#: version_control/version_control.md:16
+msgid "It also allows different versions of a project to be merged with minimal input from the user.  "
+msgstr ""
+
+#: version_control/version_control.md:17
+msgid "Version control is often associated with writing code, but it can also be used with writing projects."
+msgstr ""
+
+#: version_control/version_control.md:18
+msgid "For example, if you are writing a paper with collaborators then version control is really important in helping you to see who has changed what.  "
+msgstr ""
+
+#: version_control/version_control.md:19
+msgid "Version control is used to some extent within many different programs, including ones you are likely to already be familiar with such as Word or Wordpress."
+msgstr ""
+
+#: version_control/version_control.md:20
+msgid "There are numerous tools available for version control such as [Mercurial](https://www.mercurial-scm.org/) and [SVN](https://subversion.apache.org/).  "
+msgstr ""
+
+#: version_control/version_control.md:21
+msgid "The best know one is Git (and its web-based version, [GitHub](https://github.com/), which aids collaboration between researchers) which the instructions given in this chapter will be geared towards."
+msgstr ""
+
+#: version_control/version_control.md:22
+msgid "There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the \"[Further reading](#further-reading)\" section at the end of the chapter)."
+msgstr ""
+
+#: version_control/version_control.md:23
+msgid "This chapter aims to cover the general principles underpinning all version control systems, and best practice which applies for using all such systems."
+msgstr ""
+
+#: version_control/version_control.md:25
+# header
+msgid "## How version control is helpful"
+msgstr ""
+
+#: version_control/version_control.md:27
+msgid "Researchers often have a large array of files (code, data, figures, notes) that they update but that they want to keep past versions of for reference."
+msgstr ""
+
+#: version_control/version_control.md:28
+msgid "This process is often informal and haphazard, where multiple revisions of papers, code, and datasets are saved as duplicate copies with uninformative file names (for example, my_code.py my_code_2.py my_code_2a.py, my_code_2b.py)."
+msgstr ""
+
+#: version_control/version_control.md:29
+msgid "As authors receive new data and feedback from peers and collaborators, maintaining those versions and merging changes can result in an unmanageable proliferation of files."
+msgstr ""
+
+#: version_control/version_control.md:30
+msgid "It is also incredibly error prone."
+msgstr ""
+
+#: version_control/version_control.md:31
+msgid "It is easy to forget what different files contain, or to copy over files you do not mean to."
+msgstr ""
+
+#: version_control/version_control.md:32
+msgid "This leads to a great deal of time wasted on figuring out what files contain and reproducing accidently overwritten files."
+msgstr ""
+
+#: version_control/version_control.md:34
+msgid "One solution to these problems would be to use a formal Version Control System (VCS)."
+msgstr ""
+
+#: version_control/version_control.md:35
+msgid "A formal version is often a better solution than the lightweight version control that is often provided by text editing software packages."
+msgstr ""
+
+#: version_control/version_control.md:36
+msgid "These systems have long been used in the software industry to manage code."
+msgstr ""
+
+#: version_control/version_control.md:37
+msgid "Version control allows you to revert files you select back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified a file, find where and when a bug was introduced, and more. Using a version control system also generally means that if you screw things up or lose files, you can easily recover."
+msgstr ""
+
+#: version_control/version_control.md:38
+msgid "In addition, you get all of this for very little overhead."
+msgstr ""
+
+#: version_control/version_control.md:39
+msgid "Many people have felt the horror of losing days if not weeks of work when changes to a code break it irretrievably and can not be unpicked, and with this lies the key reasons to use version control: **it removes risk and saves time.**"
+msgstr ""
+
+#: version_control/version_control.md:41
+msgid "Keeping past versions of a project stored and accessible makes it possible to track its entire evolution, making the outputs far more reproducible."
+msgstr ""
+
+#: version_control/version_control.md:42
+msgid "Version control software does this in a neat and powerful way, and it often saves researchers a great deal of time on reproducing lost code or analysis."
+msgstr ""
+
+#: version_control/version_control.md:43
+msgid "Further, version control gives researchers more freedom to try things out and experiment."
+msgstr ""
+
+#: version_control/version_control.md:44
+msgid "It does this by eliminating the risk of subsequent changes irrevocably 'breaking' the code as previous working versions will remain accessible regardless of how complex or how many changes are made."
+msgstr ""
+
+#: version_control/version_control.md:46
+msgid "Another benefit of version control is that it makes collaboration easier, safer, and allows what changes have been made, when, why, and by who to be tracked."
+msgstr ""
+
+#: version_control/version_control.md:47
+msgid "It does this by allowing different versions of a project (either two versions written by the same person, or versions from many people) to be worked on separately."
+msgstr ""
+
+#: version_control/version_control.md:48
+msgid "It also has facilities to automatically compare and combine versions of a project, tasks which are often both fiddly and time-consuming when done manually."
+msgstr ""
+
+#: version_control/version_control.md:50
+# header
+msgid "## Version control: What it is and how it can be used to manage an evolving project"
+msgstr ""
+
+#: version_control/version_control.md:52
+# header
+msgid "### What it is"
+msgstr ""
+
+#: version_control/version_control.md:54
+msgid "What is \"version control\" and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later."
+msgstr ""
+
+#: version_control/version_control.md:55
+msgid "It is typically applied to managing changes in code, though in reality you can do this with nearly any type of file on a computer."
+msgstr ""
+
+#: version_control/version_control.md:57
+# header
+msgid "### The basic workflow"
+msgstr ""
+
+#: version_control/version_control.md:59
+msgid "The typical procedure for using version control is as follows:"
+msgstr ""
+
+#: version_control/version_control.md:61
+# ordered list
+msgid "1. Create some files - these may be text or code."
+msgstr ""
+
+#: version_control/version_control.md:62
+# ordered list
+msgid "2. Work on these files, changing, deleting or adding new content."
+msgstr ""
+
+#: version_control/version_control.md:63
+# ordered list
+msgid "3. Create a snapshot of the work at this time."
+msgstr ""
+
+#: version_control/version_control.md:64
+msgid "This will be described differently in different software."
+msgstr ""
+
+#: version_control/version_control.md:65
+msgid "Git will ask you to make a commit, other systems make ask you to make a timepoint or checkpoint or just to save your work."
+msgstr ""
+
+#: version_control/version_control.md:67
+msgid "Keep doing work and making more and more snapshots."
+msgstr ""
+
+#: version_control/version_control.md:68
+msgid "You can think of these as savepoints - if you need to go back to any point in time because of a mistake, or changing your mind about a decision, you can go back to get a file as it was then, or just return your entire project to a past state."
+msgstr ""
+
+#: version_control/version_control.md:69
+msgid "An illustration of this is shown in the figure below.  "
+msgstr ""
+
+#: version_control/version_control.md:71
+msgid "![master_branch](../figures/master_branch.png)"
+msgstr ""
+
+#: version_control/version_control.md:73
+msgid "In lots of version control systems you will be able to add a comment explaining what changes have been made in this version."
+msgstr ""
+
+#: version_control/version_control.md:74
+msgid "These comments should be as clear as possible and make it easy to understand which version is which."
+msgstr ""
+
+#: version_control/version_control.md:75
+msgid "This ensures that it is easy to find what you are looking for when you need to go back to a past version."
+msgstr ""
+
+#: version_control/version_control.md:76
+msgid "Your collaborators will thank you, but so will future versions of yourself."
+msgstr ""
+
+#: version_control/version_control.md:78
+# header
+msgid "### Other facilities offered by version control"
+msgstr ""
+
+#: version_control/version_control.md:80
+msgid "So you have your project and you want to add something new or try something out."
+msgstr ""
+
+#: version_control/version_control.md:81
+msgid "With some of the more advanced version control systems (for example Git) you can make a branch to do this work on."
+msgstr ""
+
+#: version_control/version_control.md:82
+msgid "Any work you do on your branch will not be present on your main project (referred to as your master branch) so it remains nice and safe and you can continue to work on it."
+msgstr ""
+
+#: version_control/version_control.md:83
+msgid "Once you are happy with your New Thing you can 'merge' your branch back into your master copy."
+msgstr ""
+
+#: version_control/version_control.md:85
+msgid "![one_branch](../figures/one_branch.png)"
+msgstr ""
+
+#: version_control/version_control.md:87
+msgid "You can have more than one branch off of your master copy, and if one of your branches ends up not working you can either abandon it or delete it without the master branch of your project ever being impacted."
+msgstr ""
+
+#: version_control/version_control.md:89
+msgid "![two_branches](../figures/two_branches.png)"
+msgstr ""
+
+#: version_control/version_control.md:91
+msgid "If you want you can even have branches off of branches (and branches off of those branches and so on)."
+msgstr ""
+
+#: version_control/version_control.md:93
+#: version_control/version_control.md:368
+msgid "![sub_branch](../figures/sub_branch.png)"
+msgstr ""
+
+#: version_control/version_control.md:95
+msgid "No matter how many branches you have you can access past savepoints you made on any of them."
+msgstr ""
+
+#: version_control/version_control.md:97
+# header
+msgid "## Why should you use version control?"
+msgstr ""
+
+#: version_control/version_control.md:99
+msgid "Version control can help you understand what changes you made in the past or why you did a certain analysis in the way you did it even weeks or months later when you have long since forgotten."
+msgstr ""
+
+#: version_control/version_control.md:100
+msgid "By including comments and commit messages, each version can explain what changes it makes and what the version of the project it contains does."
+msgstr ""
+
+#: version_control/version_control.md:101
+msgid "Commit messages also help others working on the same project to more easily understand what you did."
+msgstr ""
+
+#: version_control/version_control.md:102
+msgid "This is helpful should you want to share your analysis (not only your data), and/or make it auditable -- more generally, **reproducible**, which is good scientific practice."
+msgstr ""
+
+#: version_control/version_control.md:104
+msgid "A version control system stores all your changes neatly away so while it is still easy to access them your working directory is not cluttered by the debris of versions past that it is necessary to keep just in case."
+msgstr ""
+
+#: version_control/version_control.md:105
+msgid "Similarly with version control there is no need to leave chunks of code commented should you ever need to come back to an old version again."
+msgstr ""
+
+#: version_control/version_control.md:107
+msgid "Finally version control is invaluable for collaborative projects where different people work on the same code simultaneously."
+msgstr ""
+
+#: version_control/version_control.md:108
+msgid "It allows the changes made by different people to be tracked, and can automatically combine people's work via merging saving a great deal of painstaking effort to do so manually."
+msgstr ""
+
+#: version_control/version_control.md:109
+msgid "Moreover, version control hosting websites, such as GitHub, provide way to communicate in a more structured way, such as in code reviews, about commits and about issues."
+msgstr ""
+
+#: version_control/version_control.md:111
+# header
+msgid "## Getting Started"
+msgstr ""
+
+#: version_control/version_control.md:113
+msgid "This is important to know, but it is not that exciting."
+msgstr ""
+
+#: version_control/version_control.md:114
+msgid "Instructions for installing Git on linux, windows and mac machines are available [here](https://Git-scm.com/book/en/v2/Getting-Started-Installing-Git)."
+msgstr ""
+
+#: version_control/version_control.md:115
+msgid "Once installation is complete, to start using version control for your project you just go into the directory that contains all of your files (subdirectories will be included) and run:"
+msgstr ""
+
+#: version_control/version_control.md:117
+# code block
+msgid "```\n"
+"git init\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:121
+msgid "in the terminal to create the Git repository (often called \"repo\" for short)."
+msgstr ""
+
+#: version_control/version_control.md:122
+msgid "This only needs to be done once per project."
+msgstr ""
+
+#: version_control/version_control.md:124
+msgid "Think of the repository as a place where the history is being stored."
+msgstr ""
+
+#: version_control/version_control.md:125
+msgid "Each file in your working directory can be in one of two states: tracked or untracked by your repository."
+msgstr ""
+
+#: version_control/version_control.md:126
+msgid "In short, tracked files are files that Git knows about."
+msgstr ""
+
+#: version_control/version_control.md:127
+msgid "Untracked files are everything else — any files in your working directory that were not in your last snapshot."
+msgstr ""
+
+#: version_control/version_control.md:128
+msgid "When you first initialise a repository with `git init` all of your files will be untracked because your repository it does not *have* a previous snapshot yet, so it doesn't know about any of your files."
+msgstr ""
+
+#: version_control/version_control.md:129
+msgid "Therefore your next step is to add your files to the repository using:"
+msgstr ""
+
+#: version_control/version_control.md:131
+# code block
+msgid "```\n"
+"git add .\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:135
+msgid "This puts your changes into what is called the \"staging area\"."
+msgstr ""
+
+#: version_control/version_control.md:136
+msgid "When you next commit any changes stored in your staging area will be recorded in your repository."
+msgstr ""
+
+#: version_control/version_control.md:138
+msgid "![change_stage_repo](../figures/change_stage_repo.png)"
+msgstr ""
+
+#: version_control/version_control.md:140
+msgid "The full stop after `git add` above adds all changes to your staging area. So now all your files are staged commit them using:"
+msgstr ""
+
+#: version_control/version_control.md:142
+#: version_control/version_control.md:183
+#: version_control/version_control.md:255
+# code block
+msgid "```\n"
+"git commit\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:146
+msgid "We will talk in more detail about these commands [later](#commits), but for now just know if you run them then congratulations, you have finished setting up you repository!"
+msgstr ""
+
+#: version_control/version_control.md:148
+# header
+msgid "## Commits"
+msgstr ""
+
+#: version_control/version_control.md:150
+#: version_control/version_control.md:235
+#: version_control/version_control.md:301
+#: version_control/version_control.md:343
+#: version_control/version_control.md:406
+#: version_control/version_control.md:447
+#: version_control/version_control.md:541
+# header
+msgid "### The problem"
+msgstr ""
+
+#: version_control/version_control.md:152
+msgid "When working on a project you will make numerous changes to your files as you progress. Sometimes you may need to undo changes, take another look at past versions, or compare versions."
+msgstr ""
+
+#: version_control/version_control.md:153
+msgid "Saving each version individually (such as `version_1.py` and `version_2.py`) is messy and quickly becomes impractical."
+msgstr ""
+
+#: version_control/version_control.md:155
+#: version_control/version_control.md:241
+#: version_control/version_control.md:305
+#: version_control/version_control.md:352
+#: version_control/version_control.md:410
+#: version_control/version_control.md:473
+#: version_control/version_control.md:546
+# header
+msgid "### The solution"
+msgstr ""
+
+#: version_control/version_control.md:157
+msgid "By making commits you can save versions of your code and switch between them/compare them easily without cluttering up your directory."
+msgstr ""
+
+#: version_control/version_control.md:158
+msgid "Commits serve as checkpoints where individual files or an entire project can be safely reverted to when necessary."
+msgstr ""
+
+#: version_control/version_control.md:160
+#: version_control/version_control.md:251
+#: version_control/version_control.md:313
+#: version_control/version_control.md:370
+#: version_control/version_control.md:415
+#: version_control/version_control.md:493
+#: version_control/version_control.md:561
+# header
+msgid "### How to do it"
+msgstr ""
+
+#: version_control/version_control.md:162
+msgid "When you have made a series of changes and you want to commit them you first add these changes to your staging area using `git add`."
+msgstr ""
+
+#: version_control/version_control.md:163
+msgid "You can add all your changes using:"
+msgstr ""
+
+#: version_control/version_control.md:165
+# code block
+msgid "```  \n"
+"git add .\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:169
+msgid "or you can add the changes to specific files via:"
+msgstr ""
+
+#: version_control/version_control.md:171
+# code block
+msgid "```  \n"
+"git add your_file_name\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:175
+msgid "If you are ever unsure what files have been added, what files have been changed, what files are untracked, you can run the following to find out:"
+msgstr ""
+
+#: version_control/version_control.md:177
+# code block
+msgid "```\n"
+"git status\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:181
+msgid "When you're ready you can commit everything in your staging area by running"
+msgstr ""
+
+#: version_control/version_control.md:187
+msgid "It's that easy."
+msgstr ""
+
+#: version_control/version_control.md:189
+msgid "You can see a log of your previous commits using"
+msgstr ""
+
+#: version_control/version_control.md:191
+# code block
+msgid "```\n"
+"git log\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:195
+msgid "In this log you'll see that each commit is automatically tagged with a unique string of numbers and letters called a SHA which you can use to access and compare them."
+msgstr ""
+
+#: version_control/version_control.md:197
+# header
+msgid "#### Retrieving past versions"
+msgstr ""
+
+#: version_control/version_control.md:199
+msgid "To cancel your latest commit run"
+msgstr ""
+
+#: version_control/version_control.md:200
+# code block
+msgid "```\n"
+"git revert HEAD\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:204
+msgid "which automatically makes a new commit that undoes those changes. You may want to retrieve a version form weeks or months ago. To do this first use `git log` to find the SHA of the version you want to retrieve. To reset your entire project to this version do"
+msgstr ""
+
+#: version_control/version_control.md:206
+# code block
+msgid "```\n"
+"git checkout SHA_of_the_version\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:210
+msgid " You may just want the old version of a single file though, and not the previous version of the whole project. To retrieve this use"
+msgstr ""
+
+#: version_control/version_control.md:212
+# code block
+msgid " ```\n"
+" git checkout SHA_of_the_version -- your_file_name\n"
+" ```"
+msgstr ""
+
+#: version_control/version_control.md:216
+#: version_control/version_control.md:266
+#: version_control/version_control.md:334
+#: version_control/version_control.md:396
+#: version_control/version_control.md:438
+#: version_control/version_control.md:513
+#: version_control/version_control.md:627
+# header
+msgid "### Good practice"
+msgstr ""
+
+#: version_control/version_control.md:218
+msgid "Commits should be 'atomic'. That is, **they should do one simple thing and they should do it completely**. For example, adding a new function or renaming a variable. If a lot of different changes to your project are all committed together then if something goes wrong it can be hard to unpick what in this set of changes if causing the problem, and undoing the whole commit may throw away valid and useful work along with the bug. That said **you do not necessarily need to do per-file commits**. For example if I add a figure to this chapter here, let's choose something to catch the attention of someone skimming through:"
+msgstr ""
+
+#: version_control/version_control.md:220
+msgid "![flipped_taj_mahal](../figures/flipped_taj_mahal.png)"
+msgstr ""
+
+#: version_control/version_control.md:222
+msgid "then when I do this two files are changed:"
+msgstr ""
+
+#: version_control/version_control.md:224
+# ordered list
+msgid "1. The figure file has been added."
+msgstr ""
+
+#: version_control/version_control.md:225
+# ordered list
+msgid "2. I have added a reference to this figure in the chapter so it will be displayed."
+msgstr ""
+
+#: version_control/version_control.md:227
+msgid "So two files are affected, but \"Add figure to version control chapter\" is a single, *atomic* unit of work, so only one commit is necessary."
+msgstr ""
+
+#: version_control/version_control.md:229
+msgid "To aid in making atomic commits it is good practice to **specify the files to be committed**, that is, adding files to the staging area by name (`git add your_file_name`) rather than adding everything (`git add .`). This prevents you from unintentionally bundling different changes together, for example if you have made a change to file A while primarily working on file B you may have forgotten this when you go to commit, and with `git add .` file A would be brought along for the ride."
+msgstr ""
+
+#: version_control/version_control.md:231
+msgid "Finally, **do not commit anything that can be regenerated from other things that were committed unless it is something that would take hours to regenerate**. Generated files just clutter up your repository and may contain features such as timestamps that can cause annoying merge conflicts (see [below](#merge-conflicts)). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct Git to ignore certain files by creating a file called `.Gitignore` and including their names in it."
+msgstr ""
+
+#: version_control/version_control.md:233
+# header
+msgid "## Commit messages"
+msgstr ""
+
+#: version_control/version_control.md:237
+msgid "As you work on you project you will make more and more commits."
+msgstr ""
+
+#: version_control/version_control.md:238
+msgid "Without any other information it can be hard to remember which version of your project is in which."
+msgstr ""
+
+#: version_control/version_control.md:239
+msgid "Storing past versions is useless if you can not understand them, and figuring out what they contain by inspecting the code is frustrating and takes valuable time.  "
+msgstr ""
+
+#: version_control/version_control.md:243
+msgid "When you commit you have the chance to write a commit message describing what the commit is and what it does, and you should always, *always,* **_always_** do so."
+msgstr ""
+
+#: version_control/version_control.md:244
+msgid "A commit message gets attached to the commit so if you look back at it (for example, via `git log`) it will show up."
+msgstr ""
+
+#: version_control/version_control.md:245
+msgid "Creating insightful and descriptive commit messages is one of the best things you can do to get the most out of version control."
+msgstr ""
+
+#: version_control/version_control.md:246
+msgid "It lets people (and your future self when you have long since forgotten what you were doing and why) quickly understand what changes a commit contains without having to carefully read code and waste time figuring it out."
+msgstr ""
+
+#: version_control/version_control.md:247
+msgid "Good commit messages improve your code quality by drastically reducing its WTF/min ratio:"
+msgstr ""
+
+#: version_control/version_control.md:249
+msgid "![wtf_per_min](../figures/wtf_per_min.jpg)"
+msgstr ""
+
+#: version_control/version_control.md:253
+msgid "When you commit via:"
+msgstr ""
+
+#: version_control/version_control.md:259
+msgid "notice that a field appears (either within the terminal or in a text editor) where a commit message can be written. Simply do so and save (and close if writing the message via text editor)."
+msgstr ""
+
+#: version_control/version_control.md:260
+msgid "To set your preferred editor as the default do:"
+msgstr ""
+
+#: version_control/version_control.md:262
+# code block
+msgid "```\n"
+"git config --global core.editor \"your_preferred_editor\"\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:268
+msgid "The number one rule is: **make it meaningful**."
+msgstr ""
+
+#: version_control/version_control.md:269
+msgid "A commit message like \"Fixed a bug\" leaves it entirely up to the person looking at the commit (again, this person may very well be you a few months in the future when you have forgotten what you were doing) to waste time figuring out what the bug was, what changes you actually made, and how they fixed it."
+msgstr ""
+
+#: version_control/version_control.md:270
+msgid "As such a good commit message should **explain what you did, why you did it, and what is impacted by the change**."
+msgstr ""
+
+#: version_control/version_control.md:271
+msgid "As with comments you should **describe what the code is doing rather than the code itself**. For example, it is not obvious what \"Change N_sim to 10\" actually does, but \"Change number of simulations run by the program to 10\" is clear."
+msgstr ""
+
+#: version_control/version_control.md:273
+msgid "**Summarise the change** the commit contains in the first line (50-72 characters), then leave a blank line before you continue with the body of the message. By doing this when shortened versions of `git log` are used just the summary will appear. This makes it much easier to quickly search through a large number of commits."
+msgstr ""
+
+#: version_control/version_control.md:274
+msgid "It is also a good practice to **use the imperative present tense** in these messages. In other words, use commands."
+msgstr ""
+
+#: version_control/version_control.md:275
+msgid "Instead of \"I added tests for\" or \"Adding tests for\", use \"Add tests for\"."
+msgstr ""
+
+#: version_control/version_control.md:277
+msgid "Here is a good example of commit message structure:"
+msgstr ""
+
+#: version_control/version_control.md:279
+# code block
+msgid "```\n"
+"Short (50 chars or less) summary of changes\n"
+"\n"
+"More detailed explanatory text, if necessary. Wrap it to\n"
+"about 72 characters or so. In some contexts, the first\n"
+"line is treated as the subject of an email and the rest of\n"
+"the text as the body. The blank line separating the\n"
+"summary from the body is critical (unless you omit the body\n"
+"entirely); tools like rebase can get confused if you run\n"
+"the two together.\n"
+"\n"
+"Further paragraphs come after blank lines.\n"
+"\n"
+"  - Bullet points are okay, too\n"
+"\n"
+"  - Typically a hyphen or asterisk is used for the bullet,\n"
+"    preceded by a single space, with blank lines in\n"
+"    between, but conventions vary here\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:299
+# header
+msgid "## Comparing versions"
+msgstr ""
+
+#: version_control/version_control.md:303
+msgid "At some point it is likely you will need/want to compare versions of a project, for example to see what version was used to generate a certain result."
+msgstr ""
+
+#: version_control/version_control.md:307
+msgid "In short: `git diff`."
+msgstr ""
+
+#: version_control/version_control.md:309
+msgid "Diffing is a function that takes two input data sets and outputs the changes between them."
+msgstr ""
+
+#: version_control/version_control.md:310
+msgid "`git diff` is a multi-use Git command that when executed runs a diff function on Git data sources."
+msgstr ""
+
+#: version_control/version_control.md:311
+msgid "These data sources can be commits, branches, files and more."
+msgstr ""
+
+#: version_control/version_control.md:315
+msgid "By default `git diff` will show you any uncommitted changes since the last commit."
+msgstr ""
+
+#: version_control/version_control.md:316
+msgid "If you want to compare two specific things the syntax is:"
+msgstr ""
+
+#: version_control/version_control.md:318
+# code block
+msgid "```\n"
+"git diff thing_a thing_b\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:322
+msgid "For example if you want to compare how a file has changed between two commits use `git log` to get the SHAs of those commits and run:"
+msgstr ""
+
+#: version_control/version_control.md:324
+# code block
+msgid "```\n"
+"git diff SHA_a:your_file_name SHA_b:your_file_name\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:328
+msgid "Or if you wanted to compare two branches it would be:"
+msgstr ""
+
+#: version_control/version_control.md:330
+# code block
+msgid "```\n"
+"git diff branch_name other_branch_name\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:336
+msgid "**Use it**."
+msgstr ""
+
+#: version_control/version_control.md:337
+msgid "With a little familiarity `git diff` becomes an extremely powerful tool you can use to track what files have changed and exactly what those changes are."
+msgstr ""
+
+#: version_control/version_control.md:338
+msgid "This is extremely valuable for unpicking bugs and comparing work done by different people."
+msgstr ""
+
+#: version_control/version_control.md:339
+msgid "Be careful to **understand what exactly is being compared** and where possible **only compare the relevant files** for what you are interested in to avoid large amounts of extraneous information."
+msgstr ""
+
+#: version_control/version_control.md:341
+# header
+msgid "## Branches"
+msgstr ""
+
+#: version_control/version_control.md:345
+msgid "If you add a new feature to your project you run the risk of accidentally breaking your working code as you make changes to it."
+msgstr ""
+
+#: version_control/version_control.md:346
+msgid "This would be very bad for active users of your project, even if the only active user is you."
+msgstr ""
+
+#: version_control/version_control.md:347
+msgid "Also version control systems are regularly used for collaboration."
+msgstr ""
+
+#: version_control/version_control.md:348
+msgid "If everyone starts programming on top of the master branch, it will cause a lot of confusion."
+msgstr ""
+
+#: version_control/version_control.md:349
+msgid "Some people may write faulty/buggy code or simply the kind of code/feature others may not want in the project."
+msgstr ""
+
+#: version_control/version_control.md:350
+msgid "There needs to be a way allow new work to be done on a project whilst protecting work that has already been done."
+msgstr ""
+
+#: version_control/version_control.md:354
+msgid "Branches."
+msgstr ""
+
+#: version_control/version_control.md:355
+msgid "At the start of this chapter an [overview](#other-facilities-offered-by-version-control) was given of the concept of branches, but let's recap."
+msgstr ""
+
+#: version_control/version_control.md:356
+msgid "You have a project, and you make commits on it."
+msgstr ""
+
+#: version_control/version_control.md:357
+msgid "By default you have one branch, called 'master'."
+msgstr ""
+
+#: version_control/version_control.md:358
+msgid "Making a branch essentially makes a copy of your code which you can work on and continue to make commits to."
+msgstr ""
+
+#: version_control/version_control.md:359
+msgid "Meanwhile your master branch is untouched by these changes, and you can continue to make commits on it too."
+msgstr ""
+
+#: version_control/version_control.md:360
+msgid "Once you are happy with whatever you were working on on a branch you can merge it into your master branch (or indeed any other branch)."
+msgstr ""
+
+#: version_control/version_control.md:361
+msgid "Merging will be covered in the [next section](#merging)."
+msgstr ""
+
+#: version_control/version_control.md:362
+msgid "If your work on a branch does not work out you can delete or abandon it (for example, Feature B in the diagram below) rather than spending time unpicking your changes if you were doing all your work on the master copy."
+msgstr ""
+
+#: version_control/version_control.md:363
+msgid "You can have as many branches off of branches as you desire (for example, Feature A-1)."
+msgstr ""
+
+#: version_control/version_control.md:365
+msgid "Using branches keeps working code safe, particularly in collaborations."
+msgstr ""
+
+#: version_control/version_control.md:366
+msgid "Each contibuter can have their own branch or branches which are only merged into the main project when they are ready."
+msgstr ""
+
+#: version_control/version_control.md:372
+msgid "You can create a branch and switch to it using:"
+msgstr ""
+
+#: version_control/version_control.md:373
+# code block
+msgid "```\n"
+"git checkout -b name_of_your_new_branch\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:377
+msgid "To change between branches:"
+msgstr ""
+
+#: version_control/version_control.md:378
+# code block
+msgid "```\n"
+"git checkout name_of_the_branch\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:382
+msgid "though you must commit any work you have in progress before you will be able to switch. You can see all branches of your project simply using:"
+msgstr ""
+
+#: version_control/version_control.md:384
+# code block
+msgid "```\n"
+"git branch\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:387
+msgid "which will output a list with an asterix next to the branch you are on."
+msgstr ""
+
+#: version_control/version_control.md:388
+msgid "You can also use `git status` if you have forgotten which branch you are on."
+msgstr ""
+
+#: version_control/version_control.md:390
+msgid "If you decide to get rid of a branch you can delete it with:"
+msgstr ""
+
+#: version_control/version_control.md:392
+# code block
+msgid "```\n"
+"git branch -D name_of_the_branch\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:398
+msgid "Branches should be used to **keep the master branch clean**."
+msgstr ""
+
+#: version_control/version_control.md:399
+msgid "That is, master should only contain work which is complete and tested and so rightfully belongs in the master version of the project."
+msgstr ""
+
+#: version_control/version_control.md:400
+msgid "Similarly you should try to keep individual branches as clean as possible by **only adding one new feature per branch**, because if you are working on several features some may be finished and ready to merge into master while others are still under development."
+msgstr ""
+
+#: version_control/version_control.md:401
+msgid "Keeping your branches clean means only making changes related to the feature on the feature's branch."
+msgstr ""
+
+#: version_control/version_control.md:402
+msgid "Give your branches **sensible names**, \"new_feature\" is all well and good until you start developing a newer feature on another branch."
+msgstr ""
+
+#: version_control/version_control.md:404
+# header
+msgid "## Merging"
+msgstr ""
+
+#: version_control/version_control.md:408
+msgid "Once you've finished up some work on a branch you need to integrate it to your main project (or any other branch)."
+msgstr ""
+
+#: version_control/version_control.md:412
+msgid "Merge the branch with your work on into your target branch."
+msgstr ""
+
+#: version_control/version_control.md:413
+msgid "You can also use merging to combine work that other people have done with your own and vice versa."
+msgstr ""
+
+#: version_control/version_control.md:417
+msgid "To merge some branch, branch_A, into another branch, branch_B, switch to branch_A via `git checkout branch_A` and merge it into branch_B by:"
+msgstr ""
+
+#: version_control/version_control.md:419
+# code block
+msgid "```\n"
+"git merge branch_B\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:423
+msgid "Merging will not be possible if there are changes in either your working directory or staging area that could be written over by the files that you are merging in."
+msgstr ""
+
+#: version_control/version_control.md:424
+msgid "If this happens, there are no merge conflicts in individual files."
+msgstr ""
+
+#: version_control/version_control.md:425
+msgid "You need to commit or stash the files it lists and then try again."
+msgstr ""
+
+#: version_control/version_control.md:426
+msgid "The error messages are as follows:"
+msgstr ""
+
+#: version_control/version_control.md:428
+# code block
+msgid "```\n"
+"error: Entry 'your_file_name' not uptodate. Cannot merge. (Changes in working directory)\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:432
+msgid "or"
+msgstr ""
+
+#: version_control/version_control.md:434
+# code block
+msgid "```\n"
+"error: Entry 'your_file_name' would be overwritten by merge. Cannot merge. (Changes in staging area)\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:440
+msgid "First and foremost your **master branch should always be stable**, only merge work that is finished and tested into it."
+msgstr ""
+
+#: version_control/version_control.md:441
+msgid "If your project is collaborative then it is a good idea to **merge changes that others make into you own work frequently**."
+msgstr ""
+
+#: version_control/version_control.md:442
+msgid "If you do not it is very easy for merge conflicts to arise (next section)."
+msgstr ""
+
+#: version_control/version_control.md:443
+msgid "Similarly, share your own changes with your collaborators often."
+msgstr ""
+
+#: version_control/version_control.md:445
+# header
+msgid "## Merge conflicts"
+msgstr ""
+
+#: version_control/version_control.md:449
+msgid "When changes to made to the same file on different branches sometimes those changes may be incompatible."
+msgstr ""
+
+#: version_control/version_control.md:450
+msgid "This most commonly occurs in collaborative projects, but it happens in solo projects too."
+msgstr ""
+
+#: version_control/version_control.md:451
+msgid "Let's say there's a project and it contains a file with this line of code:"
+msgstr ""
+
+#: version_control/version_control.md:453
+# code block
+msgid "```\n"
+"print('hello world')\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:457
+msgid "Lets say one person, on their branch, decides to pep it up a bit and changes this line to:"
+msgstr ""
+
+#: version_control/version_control.md:459
+# code block
+msgid "```\n"
+"print('hello world!!!')\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:463
+msgid "while someone else on another branch instead decides to change `print('hello world')` to:"
+msgstr ""
+
+#: version_control/version_control.md:465
+# code block
+msgid "```\n"
+"print('Hello World')\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:469
+msgid "They continue doing work on their respective branches and eventually decide to merge."
+msgstr ""
+
+#: version_control/version_control.md:470
+msgid "Their version control software then goes through and combines their changes into a single version of the file, *but* when it gets to the hello world statement it doesn't know which version to use."
+msgstr ""
+
+#: version_control/version_control.md:471
+msgid "This is a merge conflict: incompatible changes have been made to the same file."
+msgstr ""
+
+#: version_control/version_control.md:475
+msgid "When a merge conflict arises it will be flagged during the merge process."
+msgstr ""
+
+#: version_control/version_control.md:476
+msgid "Within the files with conflicts the incompatible changes will be marked so you can fix them:"
+msgstr ""
+
+#: version_control/version_control.md:478
+# code block
+msgid "```\n"
+"<<<<<<< HEAD\n"
+"print('hello world!!!')\n"
+"=======\n"
+"print('Hello World')\n"
+">>>>>>> master\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:485
+msgid "`<<<<<<<`: Indicates the start of the lines that had a merge conflict."
+msgstr ""
+
+#: version_control/version_control.md:486
+msgid "The first set of lines are the lines from the file that you were trying to merge the changes into."
+msgstr ""
+
+#: version_control/version_control.md:488
+msgid "`=======`: Indicates the break point used for comparison."
+msgstr ""
+
+#: version_control/version_control.md:489
+msgid "Breaks up changes that user has committed (above) to changes coming from merge (below) to visually see the differences."
+msgstr ""
+
+#: version_control/version_control.md:491
+msgid "`>>>>>>>`: Indicates the end of the lines that had a merge conflict."
+msgstr ""
+
+#: version_control/version_control.md:495
+msgid "You resolve a conflict by editing the file to manually merge the parts of the file that Git had trouble merging."
+msgstr ""
+
+#: version_control/version_control.md:496
+msgid "This may mean discarding either your changes or someone else's or doing a mix of the two."
+msgstr ""
+
+#: version_control/version_control.md:497
+msgid "You will also need to delete the `<<<<<<<`, `=======`, and `>>>>>>>` in the file."
+msgstr ""
+
+#: version_control/version_control.md:498
+msgid "So in this project the users may decide in favour of one `hello world` over another, or they may decide to replace the conflict with:"
+msgstr ""
+
+#: version_control/version_control.md:500
+# code block
+msgid "```\n"
+"print('Hello World!!!')\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:504
+msgid "Once you have fixed the conflicts commit the new version."
+msgstr ""
+
+#: version_control/version_control.md:505
+msgid "You have now resolved the conflict."
+msgstr ""
+
+#: version_control/version_control.md:506
+msgid "If, during the process, you need a reminder of which files the conflicts are in you can use `git status` to find out."
+msgstr ""
+
+#: version_control/version_control.md:508
+msgid "If you find there are particularly nasty conflicts and you want to abort the merge you can using:"
+msgstr ""
+
+#: version_control/version_control.md:509
+# code block
+msgid "```\n"
+"git merge --abort\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:515
+msgid "Before you start trying to resolve conflicts **make sure you fully understand the changes and how they are incompatible**. If you do not you risk making things more tangled."
+msgstr ""
+
+#: version_control/version_control.md:516
+msgid "Once you do and you go about fixing the problem **be careful, but do not be afraid**; the whole point of version control is your past versions are all safe."
+msgstr ""
+
+#: version_control/version_control.md:517
+msgid "Nevertheless merge conflicts can be intimidating to resolve, especially if you are merging branches that diverged a great many commits ago which may now have many incompatibilities."
+msgstr ""
+
+#: version_control/version_control.md:518
+msgid "This is why it is good practice to **merge other's changes into your work frequently**."
+msgstr ""
+
+#: version_control/version_control.md:520
+msgid "There are **tools** available to assist in resolving merge conflicts, some are free, some are not."
+msgstr ""
+
+#: version_control/version_control.md:521
+msgid "Find and familiarise yourself with one that works for you."
+msgstr ""
+
+#: version_control/version_control.md:522
+msgid "Commonly used merge tools include [KDiff3](http://kdiff3.sourceforge.net/), [Beyond Compare](https://www.scootersoftware.com/), [Meld](http://meldmerge.org/), and [P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge)."
+msgstr ""
+
+#: version_control/version_control.md:523
+msgid "To set a tool as your default do:"
+msgstr ""
+
+#: version_control/version_control.md:525
+# code block
+msgid "```\n"
+"git config --global merge.tool name_of_the_tool\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:529
+msgid "and launch it with:"
+msgstr ""
+
+#: version_control/version_control.md:531
+# code block
+msgid "```\n"
+"git mergetool\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:535
+msgid "Fundamentally the best way to deal with merge conflicts is to, so far as is possible, **ensure they do not happen in the first place**."
+msgstr ""
+
+#: version_control/version_control.md:536
+msgid "You can improve your odds on this by **keeping branches clean and focused on a single issue, and involving as few files as possible**."
+msgstr ""
+
+#: version_control/version_control.md:537
+msgid "Before merging make sure you know what's in both branches, and if you are not the only one that has worked on the branches then **keep the lines of communication open** so you are all aware of what the others are doing."
+msgstr ""
+
+#: version_control/version_control.md:539
+# header
+msgid "## GitHub"
+msgstr ""
+
+#: version_control/version_control.md:543
+msgid "When multiple people work on the same project (which is becoming more and more common as research becomes increasingly collaborative) it becomes difficult to keep track of what changes have been made and by who."
+msgstr ""
+
+#: version_control/version_control.md:544
+msgid "It is also often difficult and time-consuming to manually incorporate the different participant's work into a whole even if all of their changes are compatible.  "
+msgstr ""
+
+#: version_control/version_control.md:548
+msgid "Hosting the project on a distributed version control system such as GitHub."
+msgstr ""
+
+#: version_control/version_control.md:549
+msgid "Collaborators can then clone the project and work on the cloned copy making commits and new branches without impacting the original repository."
+msgstr ""
+
+#: version_control/version_control.md:550
+msgid "Collaborators can then *push* their work to each other, and *pull* other's work into their own copy."
+msgstr ""
+
+#: version_control/version_control.md:551
+msgid "In this way it is easy to keep everyone up to date and to track what has been done and by who."
+msgstr ""
+
+#: version_control/version_control.md:552
+msgid "GitHub also has numerous other handy features such as the ability to raise and assign issues, discuss the project via comments, and review each other's changes."
+msgstr ""
+
+#: version_control/version_control.md:554
+msgid "Making the entire project and its history available online in this was also has two major benefits for research:"
+msgstr ""
+
+#: version_control/version_control.md:556
+# ordered list
+msgid "1. Other researchers can re-use the work more easily."
+msgstr ""
+
+#: version_control/version_control.md:557
+msgid "Rather than writing their own code to do what has already been written they can just use the original, which saves time."
+msgstr ""
+
+#: version_control/version_control.md:558
+msgid "This also benefits the project's original authors as other researchers are much more likely to build on the work (and cite it) if a great deal of the work has already been done.   "
+msgstr ""
+
+#: version_control/version_control.md:559
+# ordered list
+msgid "2. The research will be much more reproducible if the entire history of the project can be tracked. This enables results to be verified more easily, which benefits science."
+msgstr ""
+
+#: version_control/version_control.md:563
+msgid "There are a number of GitHub tutorials available such as [this one](https://guides.GitHub.com/activities/hello-world/), or if you prefer you can follow along here."
+msgstr ""
+
+#: version_control/version_control.md:565
+msgid "First make an account on [GitHub](https://GitHub.com/), and create a repository on it."
+msgstr ""
+
+#: version_control/version_control.md:566
+msgid "To do this click the + sign dropdown menu in the upper right hand of the screen."
+msgstr ""
+
+#: version_control/version_control.md:567
+msgid "Enter a name for the repository (ideally the same name as the project folder on your computer) and click Create Repository."
+msgstr ""
+
+#: version_control/version_control.md:568
+msgid "Now you just need to link the project on your computer to this online repository."
+msgstr ""
+
+#: version_control/version_control.md:569
+msgid "If your project is not already version controlled then make it so by running `git init` and making a commit."
+msgstr ""
+
+#: version_control/version_control.md:570
+msgid "In the terminal on your computer use:"
+msgstr ""
+
+#: version_control/version_control.md:572
+# code block
+msgid "```\n"
+"git remote add origin https://GitHub.com/your_username/repository_name\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:576
+msgid "then *push* all the files on your computer to the online version so they match via:"
+msgstr ""
+
+#: version_control/version_control.md:578
+#: version_control/version_control.md:597
+# code block
+msgid "```\n"
+"git push -u origin master\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:582
+msgid "You can the go on and make more commits on your computer."
+msgstr ""
+
+#: version_control/version_control.md:583
+msgid "When you want to push them to your online version similarly you do:"
+msgstr ""
+
+#: version_control/version_control.md:585
+# code block
+msgid "```\n"
+"git push origin branch_you_want_to_push_to\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:589
+msgid "Others can then clone the repository to their computer by using:"
+msgstr ""
+
+#: version_control/version_control.md:591
+# code block
+msgid "```\n"
+"git clone https://GitHub.com/your_username/repository_name.Git\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:595
+msgid "They can make and commit changes to the code without impacting the original, and push their changes to *their* online GitHub account using:"
+msgstr ""
+
+#: version_control/version_control.md:601
+msgid "Naturally the exact same procedure applies to you if you want to clone someone else's repository."
+msgstr ""
+
+#: version_control/version_control.md:603
+# header
+msgid "#### Pull requests"
+msgstr ""
+
+#: version_control/version_control.md:605
+msgid "So everyone's got a copy of the code and they're merrily working away on it, how do collaborators share their work?"
+msgstr ""
+
+#: version_control/version_control.md:606
+msgid "Pull requests."
+msgstr ""
+
+#: version_control/version_control.md:607
+msgid "A pull request is a request for a person to *pull* someone else's changes into their version on the project."
+msgstr ""
+
+#: version_control/version_control.md:608
+msgid "Say person A has made changes they want to share with person B."
+msgstr ""
+
+#: version_control/version_control.md:609
+msgid "On GitHub Person A needs to go to person B's copy of the project and click the \"New pull request\" button."
+msgstr ""
+
+#: version_control/version_control.md:610
+msgid "From there they can indicate which of their branches they would like person B to pull changes from, and which branch they want the changes pulled to."
+msgstr ""
+
+#: version_control/version_control.md:611
+msgid "If person B accepts then person A's changes will be merged into their repository by GitHub."
+msgstr ""
+
+#: version_control/version_control.md:612
+msgid "They can discuss the request in comments, and make further commits to the request before it is accepted if necessary."
+msgstr ""
+
+#: version_control/version_control.md:614
+msgid "When person B is setting up the pull request GitHub will automatically check whether there would be any merge conflicts if they accept, and highlight them if there are."
+msgstr ""
+
+#: version_control/version_control.md:615
+msgid "These can then be resolved in further commits before the request is accepted, keeping the merge clean and painless."
+msgstr ""
+
+#: version_control/version_control.md:617
+msgid "Once the request is accepted GitHub will merge person A's changes into person B's online copy of the repository."
+msgstr ""
+
+#: version_control/version_control.md:618
+msgid "Person B can the *pull* those changes down to the copy on their computer using:"
+msgstr ""
+
+#: version_control/version_control.md:620
+# code block
+msgid "```\n"
+"git pull origin master\n"
+"```"
+msgstr ""
+
+#: version_control/version_control.md:624
+msgid "It is also possible to make pull requests via the command line."
+msgstr ""
+
+#: version_control/version_control.md:625
+msgid "A guide on how to do so is available [here](https://Git-scm.com/docs/Git-request-pull)."
+msgstr ""
+
+#: version_control/version_control.md:629
+msgid "In your GitHub repository you should **include a license** to allow others to re-use your work legally."
+msgstr ""
+
+#: version_control/version_control.md:630
+msgid "GitHub makes this very easy, simply click the \"Create new file\" button, name it \"License.md\" and a drop down menu will appear offering you a selection to choose from. The legalese can seem intimidating however [this](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project."
+msgstr ""
+
+#: version_control/version_control.md:632
+msgid "You should also **include a readme file** where you include useful information about what the project is, how to use it and how to contribute to it."
+msgstr ""
+
+#: version_control/version_control.md:633
+msgid "Switching between projects in your work is common, let alone that you might need to poke at your own previous projects from time to time."
+msgstr ""
+
+#: version_control/version_control.md:634
+msgid "This information will also assist you collaborators, and your future employer might want to check your existing GitHub projects."
+msgstr ""
+
+#: version_control/version_control.md:636
+msgid "There are plenty of readme templates available online, pick one you like, but here is a list of the main things a readme should include:"
+msgstr ""
+
+#: version_control/version_control.md:638
+# unordered list
+msgid "- The project name and what it is: This will greatly help the random prospective contributor to get an idea of the project."
+msgstr ""
+
+#: version_control/version_control.md:639
+msgid "Include a few key points that describe the main features of the project and what are the main features you are implementing."
+msgstr ""
+
+#: version_control/version_control.md:640
+msgid "This helps to quickly compare other projects with yours and to give an idea that why the project exists in the first place."
+msgstr ""
+
+#: version_control/version_control.md:641
+# unordered list
+msgid "- Instructions on how to install the project: The installer might be a collaborator, someone that comes across and is interested in the project, or even you if you get a new machine and need to re-install your project."
+msgstr ""
+
+#: version_control/version_control.md:642
+msgid "Nevertheless, it's a total waste of both of your resources to start figuring out how to just get started with the project."
+msgstr ""
+
+#: version_control/version_control.md:643
+msgid "This should also include any prerequisites that will be needed to run the project."
+msgstr ""
+
+#: version_control/version_control.md:644
+msgid "The best thing you can do is to just write up the installation instructions when you first do them yourself, and you will quickly save hours of work in the future."
+msgstr ""
+
+#: version_control/version_control.md:645
+# unordered list
+msgid "- Instructions for how to run the project and any associated tests: If you have been working on your project it may seem obvious how to run it, but this will likely not be the case for someone coming across it for the first time."
+msgstr ""
+
+#: version_control/version_control.md:646
+# unordered list
+msgid "- Links to related material."
+msgstr ""
+
+#: version_control/version_control.md:647
+# unordered list
+msgid "- List of authors/contributors to the project, possibly with contact information."
+msgstr ""
+
+#: version_control/version_control.md:648
+# unordered list
+msgid "- Acknowledgements."
+msgstr ""
+
+#: version_control/version_control.md:650
+msgid "It can be a good idea to **include documents outlining a code of conduct, agreed ways of working, and contributing guidelines**, though depending on the level of detail you want to provide the latter two can also work as sections within the readme."
+msgstr ""
+
+#: version_control/version_control.md:651
+msgid "These documents make explicit expectations for those working on/contributing to the project, making life easier for everyone."
+msgstr ""
+
+#: version_control/version_control.md:652
+msgid "Similarly depending on the scope of your project you may wish to **provide templates for how contributors should make pull requests or raise issues**."
+msgstr ""
+
+#: version_control/version_control.md:654
+msgid "You can also **make use of one of GitHub's major features- issues**."
+msgstr ""
+
+#: version_control/version_control.md:655
+msgid "Anyone can raise an issue with the project and discuss it."
+msgstr ""
+
+#: version_control/version_control.md:656
+msgid "By making issues for any significant changes a record can be kept of the history of the project."
+msgstr ""
+
+#: version_control/version_control.md:657
+msgid "GitHub has a myriad of other features such a milestones and project boards which may also be of use."
+msgstr ""
+
+#: version_control/version_control.md:659
+msgid "In pull requests you should **clearly explain what the changes you've made are and why you made them**."
+msgstr ""
+
+#: version_control/version_control.md:660
+msgid "If your changes address and issue that has been raised reference it directly."
+msgstr ""
+
+#: version_control/version_control.md:661
+msgid "If your request fixes and issue and you include \"will fix #the_issue_number >\" in the pull request, if the pull request is merged it will automatically close the referenced issue, keeping the issue queue nice and clean!"
+msgstr ""
+
+#: version_control/version_control.md:662
+msgid "This also works for using commit messages to close issues too."
+msgstr ""
+
+#: version_control/version_control.md:664
+# header
+msgid "## Summary of key Git commands"
+msgstr ""
+
+#: version_control/version_control.md:666
+msgid "| Command                       | Use                                                                      |"
+msgstr ""
+
+#: version_control/version_control.md:667
+msgid "| ----------------------------- | ------------------------------------------------------------------------ |"
+msgstr ""
+
+#: version_control/version_control.md:668
+msgid "| git init                      | Initialises a Git repository in that directory                           |"
+msgstr ""
+
+#: version_control/version_control.md:669
+msgid "| git add .                     | Add all changes to the staging area to be committed                      |"
+msgstr ""
+
+#: version_control/version_control.md:670
+msgid "| git add file_name             | Add changes to the specified file to the staging area to be committed    |"
+msgstr ""
+
+#: version_control/version_control.md:671
+msgid "| git commit                    | Commits staged changes and allows you to write a commit message          |"
+msgstr ""
+
+#: version_control/version_control.md:672
+msgid "| git checkout SHA              | Check out past commit with the given SHA                                 |"
+msgstr ""
+
+#: version_control/version_control.md:673
+msgid "| git checkout SHA -- file_name | Check out past version of a file from the commit with the given SHA      |  "
+msgstr ""
+
+#: version_control/version_control.md:674
+msgid "| git checkout -b branch_name   | Create and switch to a new branch                                        |"
+msgstr ""
+
+#: version_control/version_control.md:675
+msgid "| git checkout branch_name      | Switch to a specified branch                                             |"
+msgstr ""
+
+#: version_control/version_control.md:676
+msgid "| git merge branch_name         | Merge the branch you are on into the specified branch                    |"
+msgstr ""
+
+#: version_control/version_control.md:677
+msgid "| git clone url                 | Makes a clone of the repository at the specified url                     |"
+msgstr ""
+
+#: version_control/version_control.md:678
+msgid "| git remote add origin url     | Links local repository and repository at the specified url               |"
+msgstr ""
+
+#: version_control/version_control.md:679
+msgid "| git push origin branch_name   | Push local changes to the specified branch of the online repository      |"
+msgstr ""
+
+#: version_control/version_control.md:680
+msgid "| git pull origin branch_name   | Pull changes to online repository into local repository                  |"
+msgstr ""
+
+#: version_control/version_control.md:681
+msgid "| git log                       | Output a log of past commits with their commit messages                  |"
+msgstr ""
+
+#: version_control/version_control.md:682
+msgid "| git status                    | Output status including what branch you're on & what changes are staged  |"
+msgstr ""
+
+#: version_control/version_control.md:683
+msgid "| git diff                      | Output difference between working directory and most recent commit       |"
+msgstr ""
+
+#: version_control/version_control.md:684
+msgid "| git diff thing_a thing_b      | Output difference between two things, such as commits and branches       |                     "
+msgstr ""
+
+#: version_control/version_control.md:686
+# header
+msgid "## Checklists"
+msgstr ""
+
+#: version_control/version_control.md:688
+# header
+msgid "### Make use of Git"
+msgstr ""
+
+#: version_control/version_control.md:689
+# unordered list
+msgid "- [ ] Make your project version controlled by initialising a Git repository in its directory using `git init`."
+msgstr ""
+
+#: version_control/version_control.md:690
+# unordered list
+msgid "- [ ] Add and commit all your files to the repository using `git add .` then `git commit`."
+msgstr ""
+
+#: version_control/version_control.md:691
+# unordered list
+msgid "- [ ] Continue to add and commit changes as your project progresses. Stage the changes in specific files to be committed with `git add filename`, and add messages to your commits."
+msgstr ""
+
+#: version_control/version_control.md:692
+# unordered list
+msgid "  - [ ] Each commit should make one simple change."
+msgstr ""
+
+#: version_control/version_control.md:693
+# unordered list
+msgid "  - [ ] No generated files committed."
+msgstr ""
+
+#: version_control/version_control.md:694
+# unordered list
+msgid "  - [ ] Commit messages are meaningful, with a ~50 character summary at the top."
+msgstr ""
+
+#: version_control/version_control.md:695
+# unordered list
+msgid "  - [ ] Commit messages are in the present tense and imperative."
+msgstr ""
+
+#: version_control/version_control.md:696
+# unordered list
+msgid "- [ ] Develop new features on their own branches, which you can create via `git checkout -b branch_name` and switch between via `git checkout branch_name`."
+msgstr ""
+
+#: version_control/version_control.md:697
+# unordered list
+msgid "  - [ ] Branches have informative names."
+msgstr ""
+
+#: version_control/version_control.md:698
+# unordered list
+msgid "  - [ ] Master branch is kept clean."
+msgstr ""
+
+#: version_control/version_control.md:699
+# unordered list
+msgid "  - [ ] Each branch has a single purpose and only changes related to that purpose are made on it."
+msgstr ""
+
+#: version_control/version_control.md:700
+# unordered list
+msgid "- [ ] Once features are complete merge their branches into the master branch by switching to the feature branch and running `git merge master`."
+msgstr ""
+
+#: version_control/version_control.md:701
+# unordered list
+msgid "  - [ ] Merge other's changes into your work frequently."
+msgstr ""
+
+#: version_control/version_control.md:702
+# unordered list
+msgid "  - [ ] When dealing with merge conflicts make sure you fully understand both versions before trying to resolve them."
+msgstr ""
+
+#: version_control/version_control.md:704
+# header
+msgid "### Put your project on GitHub"
+msgstr ""
+
+#: version_control/version_control.md:705
+# unordered list
+msgid "- [ ] Create a GitHub account."
+msgstr ""
+
+#: version_control/version_control.md:706
+# unordered list
+msgid "- [ ] Create a repository on GitHub with the same name as your project."
+msgstr ""
+
+#: version_control/version_control.md:707
+# unordered list
+msgid "- [ ] Attach your local and online repositories via `git remote add origin repository_url`."
+msgstr ""
+
+#: version_control/version_control.md:708
+# unordered list
+msgid "- [ ] Put the files in your local version of the project online via `git push -u origin master`."
+msgstr ""
+
+#: version_control/version_control.md:709
+# unordered list
+msgid "- [ ] Continue to push changes you make on your computer to the GitHub version via `git push origin branch_name`."
+msgstr ""
+
+#: version_control/version_control.md:710
+# unordered list
+msgid "- [ ] Pull any changes made on GitHub to your local version via `git pull origin branch_name`."
+msgstr ""
+
+#: version_control/version_control.md:711
+# unordered list
+msgid "- [ ] Include a license."
+msgstr ""
+
+#: version_control/version_control.md:712
+# unordered list
+msgid "- [ ] Include a readme."
+msgstr ""
+
+#: version_control/version_control.md:713
+# unordered list
+msgid "- [ ] Set expectations for how collaborators are expected to behave via a code of conduct and or ways of working document."
+msgstr ""
+
+#: version_control/version_control.md:714
+# unordered list
+msgid "- [ ] Use issues to track and discuss modifications to the project."
+msgstr ""
+
+#: version_control/version_control.md:716
+# header
+msgid "### Contribute to someone else's project"
+msgstr ""
+
+#: version_control/version_control.md:717
+# unordered list
+msgid "- [ ] Clone their project's repository from GitHub `git clone repository_url`."
+msgstr ""
+
+#: version_control/version_control.md:718
+# unordered list
+msgid "- [ ] Make and commit changes."
+msgstr ""
+
+#: version_control/version_control.md:719
+# unordered list
+msgid "- [ ] Push your changes to you GitHub version of the project."
+msgstr ""
+
+#: version_control/version_control.md:720
+# unordered list
+msgid "- [ ] Make use of issues to discuss possible changes to a project."
+msgstr ""
+
+#: version_control/version_control.md:721
+# unordered list
+msgid "- [ ] Make pull requests on GitHub to share your work."
+msgstr ""
+
+#: version_control/version_control.md:722
+# unordered list
+msgid "  - [ ] Clearly explain the changes you've made and why in your pull request."
+msgstr ""
+
+#: version_control/version_control.md:724
+# header
+msgid "## What to learn next"
+msgstr ""
+
+#: version_control/version_control.md:726
+msgid "Look into best practice for writing good quality code (for example, good naming conventions, informative comments, modular code structure)."
+msgstr ""
+
+#: version_control/version_control.md:727
+msgid "Many such skills are either also applicable for using version control well, for example, for writing good commit messages, or make using version control easier by keeping changes neat and localised."
+msgstr ""
+
+#: version_control/version_control.md:729
+# header
+msgid "## Further reading"
+msgstr ""
+
+#: version_control/version_control.md:731
+# unordered list
+msgid "- A free and very in depth book on Gits myriad of features can be found [here](https://Git-scm.com/book/en/v2)."
+msgstr ""
+
+#: version_control/version_control.md:732
+# unordered list
+msgid "- A useful Git cheat sheet can be found [here](https://services.GitHub.com/on-demand/downloads/GitHub-Git-cheat-sheet.pdf)."
+msgstr ""
+
+#: version_control/version_control.md:733
+# unordered list
+msgid "- Interactive tutorials for familiarising yourself with GitHub can be found at [https://lab.github.com/](https://lab.github.com/)."
+msgstr ""
+
+#: version_control/version_control.md:735
+# header
+msgid "## Definitions/glossary"
+msgstr ""
+
+#: version_control/version_control.md:737
+# unordered list
+msgid "- **Add:** Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit."
+msgstr ""
+
+#: version_control/version_control.md:738
+# unordered list
+msgid "- **Branch:** A parallel version of a repository. Although it is contained within the same repository it allows you to develop it separately and then merge changes back into the 'live' repository or with other branches when appropriate."
+msgstr ""
+
+#: version_control/version_control.md:739
+# unordered list
+msgid "- **Checkout:** Git command to switch to a specific file, branch, or commit. Allows you to activate older versions of files or commits or switch between active branches."
+msgstr ""
+
+#: version_control/version_control.md:740
+# unordered list
+msgid "- **Clone:** Copy of an existing Git repository, normally from some remote location to your local environment. When you clone a repo you copy its entire history as well as all branches."
+msgstr ""
+
+#: version_control/version_control.md:741
+# unordered list
+msgid "- **Commit:** Snapshot of project history. A commit can be made after changes of a single file or a range of files and directories."
+msgstr ""
+
+#: version_control/version_control.md:742
+# unordered list
+msgid "- **Commit message:** A message the user can attach to a commit to explain what it contains."
+msgstr ""
+
+#: version_control/version_control.md:743
+# unordered list
+msgid "- **Git:** Version control system that GitHub is built around. It is a widely used open source distributed version control system developed by the author of Linux."
+msgstr ""
+
+#: version_control/version_control.md:744
+# unordered list
+msgid "- **GitHub:** An online hosting and version control service which centres around the version control software Git. It has a great many features to aid collaboration between users."
+msgstr ""
+
+#: version_control/version_control.md:745
+# unordered list
+msgid "- **HEAD:** the latest commit on the branch which is currently checked out"
+msgstr ""
+
+#: version_control/version_control.md:746
+# unordered list
+msgid "- **Issues:** Bug tracking system for GitHub. Collaborators can use issues to report bugs, request features, or set milestones for projects. Issues are tracked, reported, and closed by collaborators during the development process. They’re a great way of communicating with your team and reporting progress."
+msgstr ""
+
+#: version_control/version_control.md:747
+# unordered list
+msgid "- **Master:** the repository’s main branch. Depending on the work flow it is the one people work on or the one where the integration happens."
+msgstr ""
+
+#: version_control/version_control.md:748
+# unordered list
+msgid "- **Merge:** The process of combining branches. Changes made on one or more branches are applied to another."
+msgstr ""
+
+#: version_control/version_control.md:749
+# unordered list
+msgid "- **Merge conflict:** Incompatibilities between branches being merged."
+msgstr ""
+
+#: version_control/version_control.md:750
+# unordered list
+msgid "- **Pull request:** Proposed changes to a remote repository. Collaborators without write access can send a pull request to the administrator with the changes they've made to the repo. The administrator can then approve and merge or reject the changes to the main repository. For open source projects pull requests can be sent by anyone that has forked a project."
+msgstr ""
+
+#: version_control/version_control.md:751
+# unordered list
+msgid "- **Push:** Sending changes to a remote repo. The remote repository is updated with the changes pushed and now mirrors the local repo."
+msgstr ""
+
+#: version_control/version_control.md:752
+# unordered list
+msgid "- **Repository:** Refers to a project folder that is being tracked by Git and containing project files. Also called 'repo' for short they can be local as well as hosted on GitHub."
+msgstr ""
+
+#: version_control/version_control.md:753
+# unordered list
+msgid "- **SHA:** Unique string of numbers of letters used to identify every commit or node in the repository."
+msgstr ""
+
+#: version_control/version_control.md:754
+# unordered list
+msgid "- **Staged:** Changes that will be included in the next commit."
+msgstr ""
+
+#: version_control/version_control.md:756
+# header
+msgid "## Bibliography"
+msgstr ""
+
+#: version_control/version_control.md:758
+# unordered list
+msgid "- [1.](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Controls) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**"
+msgstr ""
+
+#: version_control/version_control.md:759
+# unordered list
+msgid "- [2.](https://link.springer.com/article/10.1186/1751-0473-8-7) **Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0)** *Other useful stuff in this paper, could use their into as part of the book's intro*"
+msgstr ""
+
+#: version_control/version_control.md:760
+# unordered list
+msgid "- [3.](http://crlionline.net/node/198) **Permission to use given by the author (Peter Reimann) 15/12/18**"
+msgstr ""
+
+#: version_control/version_control.md:761
+# unordered list
+msgid "- [4.](https://tonysyu.github.io/source-control-for-scientists-and-soloists.html#.XA6Q3mj7RPY) **Permission given by the author (Tony Yu) 15/12/18**"
+msgstr ""
+
+#: version_control/version_control.md:762
+# unordered list
+msgid "- [5.](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.**"
+msgstr ""
+
+#: version_control/version_control.md:763
+# unordered list
+msgid "- [6.](https://githowto.com/undoing_committed_changes) **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**"
+msgstr ""
+
+#: version_control/version_control.md:764
+# unordered list
+msgid "- [7.](https://www.atlassian.com/git/tutorials/saving-changes/git-diff) **Creative Commons Attribution 2.5 Australia License.**"
+msgstr ""
+
+#: version_control/version_control.md:765
+# unordered list
+msgid "- [8.](http://sethrobertson.github.io/GitBestPractices/) **Creative Commons Attribution-ShareAlike 3.0 Generic**"
+msgstr ""
+
+#: version_control/version_control.md:766
+# unordered list
+msgid "- [9.](https://guide.esciencecenter.nl/best_practices/version_control.html) **Creative Commons Attribution 4.0 International License**"
+msgstr ""
+
+#: version_control/version_control.md:767
+# unordered list
+msgid "- [10.](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**"
+msgstr ""
+
+#: version_control/version_control.md:768
+# unordered list
+msgid "- [11.](https://opensource.com/article/18/5/git-branching) **Creative Commons license**"
+msgstr ""
+
+#: version_control/version_control.md:769
+# unordered list
+msgid "- [12.](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) **GNU GENERAL PUBLIC LICENSE Version 3**"
+msgstr ""
+
+#: version_control/version_control.md:770
+# unordered list
+msgid "- [13.](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git) **[\"You are granted a limited license to copy anything from this site\"](http://genomewiki.ucsc.edu/index.php/Genomewiki:General_disclaimer)**"
+msgstr ""
+
+#: version_control/version_control.md:771
+# unordered list
+msgid "- [14.](https://githowto.com/resolving_conflicts) **creative commons Attribution-NonCommercial-ShareAlike 4.0 International**"
+msgstr ""
+
+#: version_control/version_control.md:772
+# unordered list
+msgid "- [15.](https://opensource.com/article/18/1/step-step-guide-git) **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**"
+msgstr ""
+
+#: version_control/version_control.md:773
+# unordered list
+msgid "- [16.](https://kbroman.org/github_tutorial/pages/init.html) **Attribution 3.0 Unported (CC BY 3.0)**"
+msgstr ""
+
+#: version_control/version_control.md:774
+# unordered list
+msgid "- [17.](https://opensource.com/article/18/2/how-clone-modify-add-delete-git-files) **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**"
+msgstr ""
+
+#: version_control/version_control.md:775
+# unordered list
+msgid "- [18.](https://thejunkland.com/blog/how-to-write-good-readme.html) **Creative Commons Attribution-NonCommercial 2.5 License**"
+msgstr ""
+
+#: version_control/version_control.md:776
+# unordered list
+msgid "- [19.](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) **MIT**"
+msgstr ""
+
+#: version_control/version_control.md:777
+# unordered list
+msgid "- [20.](https://commons.wikimedia.org/wiki/Taj_Mahal#/media/File:Taj_Mahal_in_March_2004.jpg) **GNU Free Documentation License**"
+msgstr ""
+
+#: version_control/version_control.md:778
+# unordered list
+msgid "- [21.](https://juristr.com/blog/2013/04/git-explained/) **Creative Commons Attribution-ShareAlike 4.0 International License**"
+msgstr ""
+
+#: version_control/version_control.md:779
+# unordered list
+msgid "- [22.](http://simpleprimate.com/github-for-web-designers/glossary.html) **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**"
+msgstr ""
+
