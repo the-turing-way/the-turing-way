@@ -1,7 +1,7 @@
 ## Checklists
 
 ### Make use of Git
-- [ ] Make your project version controlled by initialising a Git repository in its directory using dddddgit init`.
+- [ ] Make your project version controlled by initialising a Git repository in its directory using git init`.
 - [ ] Add and commit all your files to the repository using `git add .` then `git commit`.
 - [ ] Continue to add and commit changes as your project progresses. Stage the changes in specific files to be committed with `git add filename`, and add messages to your commits.
   - [ ] Each commit should make one simple change.
@@ -24,6 +24,10 @@
 - [ ] Make pull requests on GitHub to share your work.
   - [ ] Clearly explain the changes you've made and why in your pull request.
 
+### Make sure that your data is version controlled
+- [ ] If your projects involves data, check whether [Git LFS](), [git-annex](), or [DataLad]() fit your needs for version controlling it.
+- [ ] Share data together with your project to help others reproduce your results.
+
 ## What to learn next
 
 Look into best practice for writing good quality code (for example, good naming conventions, informative comments, modular code structure).
@@ -34,6 +38,7 @@ Many such skills are either also applicable for using version control well, for 
 - A free and very in depth book on Git's myriad of features can be found [here](https://Git-scm.com/book/en/v2).
 - A useful Git cheat sheet can be found [here](https://education.github.com/git-cheat-sheet-education.pdf).
 - Interactive tutorials for familiarising yourself with GitHub can be found at [https://lab.github.com/](https://lab.github.com/).
+- Interactive tutorials for DataLad can be found at [handbook.datalad.org](http://handbook.datalad.org), and a walk-through of git-annex can be found at [git-annex.branchable.com/walkthrough/](https://git-annex.branchable.com/walkthrough/).
 
 ## Definitions/glossary
 
