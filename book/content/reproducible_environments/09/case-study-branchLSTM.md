@@ -1,4 +1,4 @@
-# Case study: branchLSTM
+## Case study: branchLSTM
 
 _This project was part of the Alan Turing Institute's Reproducible Research Champions programme, led by [Kirstie Whitaker](https://orcid.org/0000-0001-8498-4059) and [Martin O'Reilly](https://orcid.org/0000-0002-1191-3492).
 [Elena Kochkina](https://orcid.org/0000-0003-0691-3647) was one of three Champions selected from Turing researchers, and her project was further developed by [Louise Bowler](https://orcid.org/0000-0002-4910-9205), a member of the [Research Engineering Group](https://www.turing.ac.uk/research/research-programmes/research-engineering).
@@ -29,7 +29,7 @@ But the results were also different between the three computers, so before getti
 
 This uncovered some of the most interesting differences in interoperability that I've ever come across!
 
-## My computer is not the same as your computer
+### My computer is not the same as your computer
 
 Each tree of tweets was stored in a separate file, within a folder concerning the theme of those tweets.
 The lists of these files were identified by using Python's `os.listdir()` command to list all the files within the relevant data directories.
@@ -39,7 +39,7 @@ This led to slight differences in model accuracy.
 
 Sorting the list after generating it solved this problem, and it fortunately seemed that the default sort order on the cluster used by Elena had been alphabetical (as it is on many systems), meaning that we could generate the same order used originally.
 
-## How long is a smiley face?
+### How long is a smiley face?
 
 Once loaded, numerical representations of each tweet were generated as 314-element arrays.
 The first 14 elements stored quantifiable features of the tweet, such as the number of negation words and the presence of attachments, and the remaining 300 elements stored a [Word2vec](https://skymind.ai/wiki/word2vec) representation of the tweet's textual content.
@@ -62,7 +62,7 @@ Using the `len()` command to obtain the tweet length then gave consistent result
 Note: As of Python 3.3 and later, there is a single build rather than wide or narrow options and Unicode is handled in the same way on all systems.
 This project used Python 2.7.
 
-## Returning to the package versions
+### Returning to the package versions
 
 With the preprocessing stage now giving consistent representations of the data across all machines, it was time to look at the influences of the package versions on the output.
 At the time Elena was developing this project, neither of the Theano or Lasagne packages had reached version 1.0.
@@ -75,7 +75,7 @@ The results were consistent, but there were very small differences between these
 As we were using slightly different hardware, we chose to call this an acceptable level of reproducibility rather than searching for further issues.
 With the project’s dependencies now pinned down, I was able to start on a set of instructions for setting the project up on a local computer or on Microsoft Azure resources, which can be found in the [README](https://github.com/kochkinaelena/branchLSTM/blob/master/README.md) of the branchLSTM project.
 
-## Tracking down randomness
+### Tracking down randomness
 
 I then moved on to check the remaining part of Elena’s code, the hyperparameter optimisation process.
 Running this stage took around six hours even when using a GPU, so testing this aspect of the project for reproducibility was far more time-consuming than the rest.
@@ -91,7 +91,7 @@ With the seed now fixed, we can regenerate consistent optimal hyperparameters, a
 I added some additional diagnostic output to the optimisation stage that indicates that identical accuracy scores can be achieved through several different hyperparameter combinations, showing that we’re dealing with a difficult search space with many local minima.
 Further tests will hopefully yield a starting point from which we can recover the exact settings from the paper, yet the similarity of the accuracy scores indicates that the method is robust to moderate changes in the model’s hyperparameters.
 
-## Reflections on reproducibility
+### Reflections on reproducibility
 
 I’ve learned a lot from this project - I’d expected some ups and downs as we moved the project away from the original cluster and onto Microsoft Azure, but some of the other challenges, particularly the ‘what length is an emoji?’ problem, came as complete surprises.
 Achieving complete reproducibility in these type of projects is a lot to expect without the resources to re-run the entire analysis across many different platforms, so I am pleased we have been able to use this opportunity through the Reproducible Research Champions programme to identify many points where it is convenient and practical to take steps to check and improve reproducibility.
