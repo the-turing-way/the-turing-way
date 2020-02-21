@@ -12,6 +12,7 @@ help:
 
 
 install:
+	pip install -r requirements.txt
 	gem install bundler
 	bundle install
 
@@ -27,7 +28,7 @@ clean:
 serve:
 	bundle exec guard
 
-site:
+site: install
 	bash scripts/multilingual_make.sh
 	jupyter-book build ./ --overwrite
 	bundle exec jekyll build
