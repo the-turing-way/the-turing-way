@@ -20,6 +20,6 @@ jobs:
       with:
         python-version: 3.7
     - name: Run Python script to check for rogue "Lorem ipsums"
-      working-directory: ./tests
+      working-directory: ./scripts
       run: |
         python lorem-ipsums.py
