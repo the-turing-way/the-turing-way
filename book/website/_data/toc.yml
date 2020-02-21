@@ -57,6 +57,11 @@
     url: open_research/06/openscholarship
   - title: Resources
     url: open_research/07/resources
+- title: Software Quality
+  url: software_quality/software_quality
+  sections:
+  - title: License
+    url: software_quality/01/license
 - title: Version Control
   url: version_control/version_control
 - title: Collaborating on GitHub/GitLab
