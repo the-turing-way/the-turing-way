@@ -24,6 +24,5 @@ jobs:
     - uses: actions/checkout@v2
     # Run the script to check file sizes
     - name: Check for large files
-      working-directory: ./tests
       run: |
-        ./test-file-size.sh
+        ./tests/test-file-size.sh
