@@ -21,9 +21,12 @@ Future work:
 1. [Summary](#summary)
 2. [How this will help you/why this is useful?](#how-this-will-help-you-why-this-is-useful)
 3. [Making it easy to cite your stuff](#making-it-easy-to-cite-your-stuff)
-4. [Checklist](#checklist)
-5. [What to learn next](#what-to-learn-next)
-6. [Further reading](#further-reading)
+4. [How to cite data?](#how-to-cite-data)
+5. [How to make software citeable?](#how-to-make-software-citeable)
+6. [Making sure YOU get cited by using ORCID to increase your visibility](#making-sure-you-get-cited-by-using-orcid-to-increase-your-visibility)
+7. [Checklist](#checklist)
+<!--8. [What to learn next](#what-to-learn-next)-->
+8. [Further reading](#further-reading)
 
 ## Summary
 
@@ -46,8 +49,12 @@ There are many reasons why authors don't cite the data and software that they us
 The first step is to ensure that you have something worth citing. Practising open research isn't essential to get credit for your data or software, but it makes it much easier for others to build on your work in a way that acknowledges your contribution. There is a growing body of evidence that shows open research tends to be cited more than non-open research of equivalent quality and significance.
 
 <!-- TODO: Cite relevant paper for this (Piwowar et al 2013?) -->
+Learn more about:
 
-* [Learn more about making your research open][open research]
+* [Making your research open][open research]
+* [How to make your research FAIR][rdm]
+
+[rdm]: /rdm/rdm.html
 
 ### Show people how to do it
 
@@ -55,9 +62,6 @@ Showing an example reference in the most common referencing format in your disci
 
 1. It demonstrates that software & data are actually things that can be cited;
 2. It gives authors a reference that they can copy and paste directly into their document.
-
-<!-- TODO: insert example citation in suitable format -->
-<!-- TODO: link to DataCite data citation guidance -->
 
 If you use GitHub, GitLab or similar, consider creating a `CITATION` file in each repository containing an example reference.
 
@@ -79,6 +83,50 @@ It's perfectly possible to cite a dataset or software package directly, and most
 [JORS]: https://openresearchsoftware.metajnl.com/
 [JOSS]: https://joss.theoj.org/
 
+## How to cite data?
+
+A dataset citation includes all of the same components as any other citation:
+- Author
+- Title
+- Year of publication
+- Publisher (for data, this is often the data repository where it is housed),
+- Version (if indicated)
+- Access information (a URL or DOI)
+
+**APA citation style:** 
+Author/Rightsholder. (Year). Title of data set (Version number). [Retrieved from https://] ***OR*** [DOI]
+
+See also [this example](https://www.force11.org/node/4771) provided by FORCE11.
+
+### Where to cite data in papers?
+
+You should cite your dataset directly in the paper in places where it is relevant, just like publications, as well as in a **data availability statement** at the end of the paper (similar to the acknowledgement section). You can find examples of these statements in the publishers' (research data) author policies, or below:
+    
+### Data availability statement examples:
+**Using the Digital Object Identifier (DOI):**
+“The data that support the findings of this study are openly available in [repository name] at http://doi.org/[doi].”
+
+**If no DOI is issued:** 
+- “The data that support the findings of this study are openly available in [repository name] at [URL], reference number [reference number].”
+
+**When there is an embargo period you can reserve your DOI and still include a reference to the dataset in your paper:**
+- “The data that support the findings will be available in [repository name] at [URL / DOI] following a [6 month] embargo from the date of publication to allow for commercialisation of research findings.” 
+
+**When data cannot be made available:**
+- “Restrictions apply to the data that support the findings of this study. [Explain nature of restrictions e.g. the data contains information that could compromise the privacy of research participants] Data are available upon reasonable request by contacting [name and contact details] and with permission of [third party name].” 
+-  “The data that support the findings of this study are available upon request. Access conditions and procedures can be found at [URL to restricted access repository such as [EASY](https://easy.dans.knaw.nl/ui/home).]”
+
+## How to make software citeable?
+
+A software citation a lot of the same elements as a data citation, described above. To make your code citeable, you can use the integration between [Zenodo](https://zenodo.org/) and GitHub 
+ 
+- Create a file to tell people how to cite your software. Use this [handy guide](https://citation-file-format.github.io/cff-initializer-javascript/) to format the file. 
+- Link your GitHub account with a Zenodo account. This guide explains [how](https://guides.github.com/activities/citable-code/).  
+- You can tell Zenodo what information or metadata you want to include with your software by adding a `zenodo.json` file, described [here](https://guide.esciencecenter.nl/citable_software/making_software_citable.html). 
+- On Zenodo, flip the swith to the 'on' position for the GitHub repository you want to release
+- On GitHub, click the *Create a new release* button. Zenodo should automatically be notified and should make a snapshot copy of the current state of your repository (just one branch, without any history), and should also assign a persistent identifier (DOI) to that snapshot.
+- Use the DOI in any citations of your software!
+
 ## Making sure YOU get cited by using ORCID to increase your visibility
 
 ### What is ORCID?
@@ -88,11 +136,11 @@ It's perfectly possible to cite a dataset or software package directly, and most
 You can watch this short video for more information https://vimeo.com/97150912
 
 ### Why should you get an ORCID?
-- to distinguish yourself from others with the same or a similar name;
-- to enable others to find all your outputs/related outputs so they can use and cite them
+- To distinguish yourself from others with the same or a similar name;
+- To enable others to find all your outputs/related outputs so they can use and cite them
 - All your outputs will remain linked to your unique identifier even if you change your name or your institute. This way, you only have to enter the information once.
-- to access or sign up to services that utilise ORCID, e.g. publisher requirements, funding management portals (ResearchFish), the CRIS (current research information system) system at your institute, the Zenodo repository, etc.
-- you can add your ORCID to your CV/resume so that anyone can have a look at all your research outputs. 
+- To access or sign up to services that utilise ORCID, e.g. publisher requirements, funding management portals (ResearchFish), the CRIS (current research information system) system at your institute, the [Zenodo](https://zenodo.org/) repository, etc.
+- You can add your ORCID to your CV/resume so that anyone can have a look at all your research outputs. 
 
 ### How do you get an ORCID?
 You can sign up very quickly here: https://orcid.org/login
@@ -131,7 +179,8 @@ You can use your ORCID iD whenever you’re prompted to do so, give your [truste
 
 - Pick out key datasets and software your conclusions rely on
 - Cite data and software just like you would cite a paper
-- Publish your own data/software and cite that too!
+- Publish your own data/software and cite that too
+- Get an ORCID ID!
 
 ### For data creators
 
@@ -149,9 +198,12 @@ You can use your ORCID iD whenever you’re prompted to do so, give your [truste
 
 ## Further reading
 
+- [DataCite Citation Guidance](https://datacite.org/cite-your-data.html)
 - [FAIR data principles](https://www.force11.org/group/fairgroup/fairprinciples)
+- [FORCE11 Data Citation principles](https://www.force11.org/datacitationprinciples)
 - [FORCE11 Software Citation principles](https://www.force11.org/software-citation-principles)
 - [Getting Started with your ORCID record](https://support.orcid.org/hc/en-us/articles/360006896894-Getting-started-with-your-ORCID-record) 
+- [Making sofware citeable](https://guide.esciencecenter.nl/citable_software/making_software_citable.html)
 - [OpenAIRE Guide on Person Identifiers](https://www.openaire.eu/how-can-identifiers-improve-the-dissemination-of-your-research-outputs)
 
 <!-- ## Definitions/glossary -->
