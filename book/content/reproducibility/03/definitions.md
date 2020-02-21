@@ -30,7 +30,19 @@ The Turing Way project will define reproducible research as both data and code b
 | -------------------------------------------------------------------------------------------------------- |
 |  How the Turing Way defines reproducible research  |
 
-However, we recognize that some research will use sensitive data that cannot be shared and this handbook will provide guides on how your research can be reproducible without all parts necessarily being open.
+In the above figure, the different dimensions of reproducible research have the following definitions:
+
+- **Reproducible:** A result is reproducible when the _same_ analysis steps performed on the _same_ dataset consistently produces the _same_ answer
+- **Replicable:** A result is replicable when the _same_ analysis performed on _different_ datasets produces qualitatively similar answers
+- **Robust:** A result is robust when the _same_ dataset is subjected to _different_ analysis pipelines (for example one pipeline written in R and another written in Python) and the same answer is produced.
+  This shows that the result is not dependent on the specificities of the programming language chosen to perform the analysis.
+- **Generalisable:** Combining replicable and robust findings allow us to form generalisable results.
+  This is not _generalised_ as it does not apply to all the people doing the research.
+  This is a step towards saying the result is not dependent on a particular dataset or a particular version of the analysis pipeline.
+
+More information on these definitions can be found in ["Reproducibility vs. Replicability: A Brief History of a Confused Terminology" by Hans E. Plesser](https://www.frontiersin.org/articles/10.3389/fninf.2017.00076/full).
+
+The Turing Way recognises that some research will use sensitive data that cannot be shared and this handbook will provide guides on how your research can be reproducible without all parts necessarily being open.
 
 The handbook will cover:
 * Open research
