@@ -46,10 +46,6 @@ Additional steps depend on the goal of the software (zero or more can apply):
 * [Contribution guideline](documentation.html#contribution-guidelines)
 
 ## Further reading
-
-
-## Definitions/glossary
-> Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
-
-## Bibliography
-> Credit/urls for any materials that form part of the chapter's text.
+- [1. Best Practices for Scientific Computing
+](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+- [2. Four simple recommendations to encourage best practices in research software](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5490478/)
