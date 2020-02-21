@@ -1,4 +1,4 @@
-# Research compenia
+# Research compendia
 
 ## Prerequisites / recommended skill level
 
