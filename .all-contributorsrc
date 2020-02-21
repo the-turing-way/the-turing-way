@@ -686,6 +686,15 @@
         "projectManagement",
         "review"
       ]
+    },
+    {
+      "login": "JimMadge",
+      "name": "Jim Madge",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/23616154?v=4",
+      "profile": "https://github.com/JimMadge",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
