@@ -6,7 +6,7 @@ Here we provide a short checklist for software projects. The rest of this chapte
 ## The list
 
 The __bare minimum__ that every software project should do, from the start, is:
-* [FIX_LINK] Pick & include an [open source license]()
+* Pick & include an [open source license]( /open_research/02/softwarelicenses)
 * Use [version control](/version_control/version_control)
 * Use a [publicly accessible](/open_research/02/opensourcesoftware)
  version control repository
