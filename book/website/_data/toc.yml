@@ -47,6 +47,8 @@
     url: open_research/01/opendata
   - title: Open source software
     url: open_research/02/opensourcesoftware
+  - title: Software licenses
+    url: open_research/02/chooseasoftwarelicense
   - title: Open hardware
     url: open_research/03/openhardware
   - title: Open access
