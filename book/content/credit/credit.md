@@ -92,7 +92,7 @@ You can watch this short video for more information https://vimeo.com/97150912
 - to enable others to find all your outputs/related outputs so they can use and cite them
 - All your outputs will remain linked to your unique identifier even if you change your name or your institute. This way, you only have to enter the information once.
 - to access or sign up to services that utilise ORCID, e.g. publisher requirements, funding management portals (ResearchFish), the CRIS (current research information system) system at your institute, the Zenodo repository, etc.
-- you can add your ORCID to your CV so that anyone can have a look at all your research outputs. 
+- you can add your ORCID to your CV/resume so that anyone can have a look at all your research outputs. 
 
 ### How do you get an ORCID?
 You can sign up very quickly here: https://orcid.org/login
