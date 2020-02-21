@@ -104,7 +104,7 @@ def construct_error_message(files_dict):
 
     for file in files_dict.keys():
         error_message.append(
-            f"{file}:\t{files_dict[file]['latin_type']}\tfound in line\t[{files_dict[file]['line']}]"
+            f"{file}:\t{files_dict[file]['latin_type']}\tfound in line\t[{files_dict[file]['line']}]\n"
         )
 
     return "\n".join(error_message)
