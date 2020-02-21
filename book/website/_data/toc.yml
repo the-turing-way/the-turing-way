@@ -93,6 +93,8 @@
     url: reproducible_environments/07/checklist
   - title: Resources
     url: reproducible_environments/08/resources
+- title: Code quality
+  url: code_quality/code_quality
 - title: Testing
   url: testing/testing
 - title: Reviewing
