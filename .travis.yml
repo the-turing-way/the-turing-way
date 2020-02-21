@@ -22,11 +22,6 @@ matrix:
         - make install # install jekyll etc. for building website
         - bash ./scripts/html-proof.sh # check dead links etc.
 
-    - language: python
-      python: 3.6
-      script:
-        - bash ./scripts/test-file-size.sh # test that we haven't accidentally included any big files
-
     - language: generic
       env: CAN_FAIL_VAR=true # this test is allowed to fail
       install:
