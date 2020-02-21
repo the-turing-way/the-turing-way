@@ -56,9 +56,9 @@ make site && make serve
 
 #### On Netlify
 You'll just need the following settings:
-- Base directory: `website`
+- Base directory: `book/`
 - Build command: `make site`
-- Publish directory: `_site`
+- Publish directory: `book/website/_site`
 
 Netlify is smart and will find your requirements.txt to do the install for you :) (ruby and the jekyll are installed too)
 You can find the build history / logs at - https://app.netlify.com/sites/the-turing-way/deploys
