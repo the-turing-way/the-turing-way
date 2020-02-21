@@ -1,7 +1,7 @@
 # The Turing Way
 
-[![Build Status](https://img.shields.io/travis/alan-turing-institute/the-turing-way/master?logo=travis)](https://travis-ci.org/alan-turing-institute/the-turing-way)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->[![All Contributors](https://img.shields.io/badge/all_contributors-68-orange.svg)](#contributors-)<!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![Build Status](https://img.shields.io/travis/alan-turing-institute/the-turing-way/master?logo=travis)](https://travis-ci.org/alan-turing-institute/the-turing-way) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-68-orange.svg)](#contributors-) <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com)
 [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
 [![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
