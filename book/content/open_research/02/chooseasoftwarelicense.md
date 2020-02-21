@@ -1,6 +1,10 @@
 # Software licenses
 
-There are many software licenses in existence. Many of those allow the licensee to do very little, but some give you more freedom to use and re-use the licensed software. To make some sense of this variety, we can categorize them as follows.
+There are many software licenses in existence. Many of those allow the licensee to do very little, but some give you more freedom to use and re-use the licensed software.
+
+[This](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best licence for your project.
+
+To make some sense of this variety, we can categorize them as follows.
 
 ## License categories
 
