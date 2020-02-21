@@ -85,7 +85,7 @@ It's perfectly possible to cite a dataset or software package directly, and most
 - ORCID is short for ‘Open Researcher and Contributor iD'
 - ORCID is a long lasting unique identifier for you as a researcher, comparable to a personal identification number that your government may issue to you.
 
-You can watch this short video instead https://vimeo.com/97150912
+You can watch this short video for more information https://vimeo.com/97150912
 
 ### Why should you get an ORCID?
 - to distinguish yourself from others with the same or a similar name;
