@@ -29,7 +29,6 @@ There is a lot of crossover here with files to include in open source software p
 #### Overview and introduction
 Your open source hardware project should include a general description of the hardware's identity and purpose, written as much as possible for a general audience.
 That is, explain what the project is and what it is for before you get into the technical details.
-A good photo or rendering can help a lot here.
 
 #### A licence
 An appropriate license on the Open Hardware project and its content grants legal permission to anyone to re-use, modify and distribute the different components of a project according to the terms stated (for example, they must acknowledge your contribution).  
