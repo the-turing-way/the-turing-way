@@ -1,4 +1,4 @@
-# Chapter title
+# Research compenia
 
 ## Prerequisites / recommended skill level
 
@@ -135,5 +135,5 @@ See our [glossary](glossary/glossary) for explanations of terms used in the chap
 
 ## Bibliography
 
-<!--- TODO: add references -->
+{% bibliography --cited %}
 
