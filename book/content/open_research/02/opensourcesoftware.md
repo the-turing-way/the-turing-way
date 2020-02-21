@@ -69,7 +69,7 @@ At the most basic level all you need to do is put your code online somewhere tha
 You can make your code citeable by assigning it a DOI (as discussed in the section on [making data citeable](#citing_data)). 
 This helps ensure that you get proper credit if people use or build upon your work.
 
-A popular place to make your code available is GitHub (see the chapter on [version control](/version_control/version_control)). You must include a licence file stating that anyone has permission to use, copy, and modify your work. Without this no one can legally use your work and so it isn't open source. [Choose a software license](chooseasoftwarelicense) section will help you to pick the best licence for your project. There are also a few other files you should include with your code, as described below.
+A popular place to make your code available is GitHub (see the chapter on [version control](/version_control/version_control)). You must include a licence file stating that anyone has permission to use, copy, and modify your work. Without this no one can legally use your work and so it isn't open source. The [choose a software license](chooseasoftwarelicense) section will help you to pick the best licence for your project. There are also a few other files you should include with your code, as described below.
 
 #### Welcome users by adding information to your README
 
