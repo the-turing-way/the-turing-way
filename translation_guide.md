@@ -55,6 +55,10 @@ When the Markdown files are updated, you will need to update the POT files for t
 
 This will update the POT files to track the modified Markdown files. Since there are timestamps in the POT files, git will always show there is something to commit even all the marterial is the same. To make this CI-able, we can remove the timestamp from the `po4jupyterbook` code. We shall only update the POT files manually when we know for sure there are changes for now.
 
+## When will my translations appear in the book?
+
+Contributed translations will appear in the online book once the `translation` branch will be merged into the `master` branch of `the-turing-way` repository.
+<!-- TODO add more specifics here! -->
 
 ## Implementation details
 
