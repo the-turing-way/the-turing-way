@@ -93,8 +93,17 @@
     url: reproducible_environments/07/checklist
   - title: Resources
     url: reproducible_environments/08/resources
+- title: Error management
+  url: error_management
 - title: Testing
   url: testing/testing
+  sections:
+  - title: Dealing with silent errors
+    url: error_management/01/dealing_with_silent_errors
+  - title: Making sense of unintelligible errors
+    url: error_management/02/understanding_the_unintelligible
+  - title: Writing good error messages
+    url: error_management/03/writing_good_error_messages
 - title: Reviewing
   url: reviewing/reviewing
   sections:
