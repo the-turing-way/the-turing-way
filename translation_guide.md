@@ -12,6 +12,7 @@ Go to [Transifex](https://www.transifex.com/theturingway/theturingway/) and clic
 - In `book/content` the `po` folder contains the POT and PO files. POT files are generated from the Markdown files and contains the original strings of the book; PO files contain the original string and their translations.
 - To start a new language
     - add the language's ISO code to `book/content/po/LINGUAS`
+        - also add the language code to the `keep_files` list of `book/website/_config.yml`
     - Copy all the POT files to make corresponding PO files.  
         `for i in *.pot; do echo $i; cp $i ${i::-4}.<LANG>.po; done`
     - To compile the POs to translated Markdown files, you are required to fill in the header section of the PO files. Please see existing PO files for an example of dummy data. The compilation process will fail if the header information is not filled in. The PO files submitted by Transifex should have these filled in.
