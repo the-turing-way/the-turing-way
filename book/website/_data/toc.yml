@@ -62,6 +62,8 @@
   sections:
   - title: Making software citable
     url: software_quality/01/making_software_citable
+  - title: Releases
+    url: software_quality/02/releases
 - title: Version Control
   url: version_control/version_control
 - title: Collaborating on GitHub/GitLab

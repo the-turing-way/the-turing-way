@@ -14,7 +14,7 @@ The __bare minimum__ that every software project should do, from the start, is:
 
 
 We recommend that you also do the following (from the start of the project):
-* Use [code quality tools](/code_quality/code_quality)
+* [FIX_LINK] Use [code quality tools](/code_quality/code_quality)
 * [Testing](/testing/testing)
 
 
@@ -25,14 +25,14 @@ Additional steps depend on the goal of the software (zero or more can apply):
 
 ## I'm publishing a paper
 
-* [Make your software citable](../citable_software/making_software_citable.html)
-* Add a [CITATION.cff file](documentation.html#software-citation)
+* [Make your software citable](/software_quality/01/making_software_citable)
+* [???] Add a [CITATION.cff file](documentation.html#software-citation)
 * Cite DOI in paper
 
 
 ## I'm expecting users
 
-* [Release](releases.html) your software
+* [Release](/software_quality/02/releases) your software
 * Provide [user documentation](documentation.html)
 * [Easy installation](releases.html#one-command-install)
 * Provide issue tracker
