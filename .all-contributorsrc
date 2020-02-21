@@ -686,6 +686,15 @@
         "projectManagement",
         "review"
       ]
+    },
+    {
+      "login": "nathanbegbie",
+      "name": "nathanbegbie",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7100966?v=4",
+      "profile": "https://github.com/nathanbegbie",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
