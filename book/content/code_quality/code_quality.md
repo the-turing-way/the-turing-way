@@ -6,11 +6,11 @@
 
 ## Table of contents
 
-1.  [Summary](#Summary)
-2.  [Static code analysis](#Static-code-analysis)
-3.  [Coding style](#Coding-style)
-    1.  [Automatic code formatters](#Automatic-code-formatters)
-4.  [Online services providing software quality checks](#Online-services-providing-software-quality-checks)
+1.  [Summary](#summary)
+2.  [Static code analysis](#static-code-analysis)
+3.  [Code style](#code-style)
+    1.  [Automatic code formatters](#automatic-code-formatters)
+4.  [Online services providing software quality checks](#online-services-providing-software-quality-checks)
 
 ## Summary
 
@@ -24,7 +24,7 @@ Static code analysis tools, also known as linters, can analyze source code and f
 In addition to finding bugs, many of these tools can also help maintain a consistent coding style.
 Examples of linter tools include [prospector](https://prospector.readthedocs.io) for Python, [lintr](https://github.com/jimhester/lintr) for R, or [shellcheck](https://www.shellcheck.net) for shell scripts.
 
-## Coding style
+## Code style
 
 A coding style is a set of conventions on how to format code.
 For instance, what do you call your variables? Do you use spaces or tabs for indentation? Where do you put comments?
