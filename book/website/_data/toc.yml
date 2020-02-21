@@ -117,6 +117,25 @@
     url: risk_assessment/01/longreadriskassessment
   - title: Summary
     url: risk_assessment/02/finalsummary
+- title: Outreach and Communication
+  url: outreach/outreach
+  sections: 
+  - title: Summary
+    url: outreach/01/summary
+  - title: Why is Outreach Important?
+    url: outreach/02/why_is_outreach_important
+  - title: Presenting Results
+    url: outreach/03/Presenting_Results
+  - title: Communicating Effectively
+    url: outreach/04/Communicating_Effectively
+  - title: Integrating Outreach Into Research Projects
+    url: outreach/05/Integrating_Outreach_Into_Research_Projects
+  - title: Developing Relationships with Others
+    url: outreach/06/Developing_Relationships_with_Others
+  - title: Advocating for Research and Data Literacy
+    url: outreach/07/BecomingAScienceChampion
+  - title: Checklist
+    url: outreach/08/checklist
 - title: BinderHub
   url: binderhub/binderhub
 - title: Glossary
