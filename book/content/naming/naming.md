@@ -22,7 +22,7 @@ There are three principles to naming things. The first two apply to all kinds of
 3. Optional: Play well with default ordering
 
 
-Before we dive into the details of waht they mean, let's look at some examples of bad and good file names.
+Before we dive into the details of what they mean, let's look at some examples of bad and good file names.
 
 | Bad              | Good             |
 | -----------------|------------------|
@@ -44,14 +44,14 @@ Good file/folder names are easy to search for (also using regular expressions) a
 
 ### Human readable
 
-To achieve human readability, it is helpful to have a name that contains information on the content of the file/folder or other thing. For URLs this consept is called [clean URL](https://en.wikipedia.org/wiki/Clean_URL).
+To achieve human readability, it is helpful to have a name that contains information on the content of the file/folder or other thing. For URLs this concept is called [clean URL](https://en.wikipedia.org/wiki/Clean_URL).
 
 
 
 ### Play well with default ordering
 
 To create a good default ordering, adding number at the beginning of the name, is often a good idea. 
-Imagine you have a folder with als you presentation slides, it would probably be helpful to have them ordered by date. 
+Imagine you have a folder with all your presentation slides, it would probably be helpful to have them ordered by date. 
 So starting the file names with `year-month-day` (for example `2020-02-21`), does that for you.
 We recommend using something like the [ISO 8601 standard](https://en.wikipedia.org/wiki/ISO_8601) for dates. 
 If you use other number, we recommend left padding them with zeros, because your computer will order `003 < 004 < 020 < 100` as opposed to `100 < 20 < 3 < 4`. 
