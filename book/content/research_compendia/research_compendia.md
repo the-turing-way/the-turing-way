@@ -16,13 +16,15 @@ A research compendium is a collection of all digital parts of a research project
 The collection is created in such a way that reproducing all results is straight forward {% cite Nuest2017compendia Gentleman2007statistical %}.
 
 This chapter has many prerequesites as it takes all digital components of a project together into a reproducible research package.
+That said: a research compendium can be constructed with minimal technical knowledge.
+The main purpose is that all elements of a project are published together, so a basic folder structure combining all components can be sufficient.
 
 <!--- TODO: add image of package with code, text, graphs, questionnaires, ... -->
 
 ## How this will help you/ why this is useful
 
-An executable research compendium should be the final product of your research project.
-Publishing a research compendium (rather than just publishing a paper) allows others to redo your computations.
+A research compendium combines all elements of your project, allowing others to reproduce your work, and should be the final product of your research project.
+Publishing a research compendium (rather than just publishing a paper) allows access to your input, the analysis, and, if the compendium can be executed, the resulting output.
 This not only installs trust in your research but can give you more visibility.
 Others may use your research in unexpected ways.
 Some of those are listed below ([Using a research compendium](#Using_a_research_compendium)).
@@ -30,14 +32,48 @@ Some of those are listed below ([Using a research compendium](#Using_a_research_
 
 ## Chapter content
 
+A research compendium at its most basic is a comprehensive set of files that combines all components of a project.
+This compendium can be downloaded and run locally to recreate the work done, or it can contain elements that allow it to be executed on a remote server.
 Executable research compendia aim to make the computational part of a scientific publication reproducible by providing all the building blocks available and give a description of how the user can execute the containing code.
 
 
 ### Structure of a research compendium
-Imagine a research project with the following folder structure:
+
+Three principles should be kept in mind when constructing a research compendium. {% cite Marwick2018compendia %}
+
+- Files should organized in a conventional folder structure;
+- Data, methods, and output should be clearly separated;
+- The computational environment should be specified.
+
+With these principles, a wide variety of compendia are possible.
+Let's start with the most basic version.
+
+
+##### Basic research compendium
+
+A basic compendium follows these three principles.
+It separates data and methods into a conventional folder structure, and describes the computational environment in a designated file.
+Furthermore, any compendium should have a landing page in the form of a README document.
 
 ```text
-research_project/
+compendium/
+├── data
+│   ├── my_data.csv
+├── analysis
+│   └── my_script.R
+├── DESCRIPTION
+└── README.md
+```
+
+#### Executable research compendium
+
+The following folder can be considered an executable research compendium. 
+It contains all the digital parts of the research project (code, data, text, figures) and all the information on how to obtain theresults. 
+The computing environment is described in the `Dockerfile`, the dependencies of files and how to automatically generate the results are described in the `Makefile`.
+Additionally we have a `README.md` describing what the compendium is about and a `LICENSE` file with info on how it can be used.
+
+```text
+compendium/
 ├── CITATION
 ├── code
 │   ├── analyse_data.R
@@ -56,22 +92,22 @@ research_project/
 └── README.md
 ```
 
-The folder `research_project` can be considered an executable research compendium. 
-It contains all the digital parts of the research project (code, data, text, figures) and all the information on how to obtain theresults. 
-The computing environment is described in the `Dockerfile`, the dependencies of files and how to automatically generate the results are described in the `Makefile`.
-Additionally we have a `README.md` describing what the compendium is about and a `LICENSE` file with info on how it can be used.
+#### Separating methods, data, output
 
-In a research compendium we distinguish between three types of files and folders:
+The principles of a research compendium state that it should clearly separate Methods, Data, and Output.
+Phrasesd differently, this means we should distinguish between three types of files and folders:
 
 - **Read-only**: raw data (`data_raw\`), metadata (`datapackage.json`, `CITATION`)
 - **Human-generated**: code (`clean_data.R`, `analyse_data.R`), paper (`paper.Rmd`), documentation (`README.md`)
 - **Project-generated**: clean data (`data_clean\`, figures (`figures\`), other output
 
-The examples mentioned here are not exhaustive and some may first be "human-generated" and at some point become "read-only" (for example a human my generate the data meatadata `datapackage.json`, but once that is done it may become something not to be touched).
+The examples mentioned here are not exhaustive and some may first be "human-generated" and at some point become "read-only" (for example a human may generate the data meatadata `datapackage.json`, but once that is done it may become something not to be touched).
+In other words, whether a folder contains files in either of these categories, may depend on the life cycle of the project.
+
 
 ### Creating a research compendium
 
-If you already use some of the tools in this book - such as version control, Makefiles, and/or reproducible environments -it may come naturally to you to create a research compendium. 
+If you already use some of the tools in this book - such as version control, Makefiles, and/or reproducible environments - it may come naturally to you to create a research compendium. 
 This is, because a version control repository can be a research compendium; A Makefile makes it executable; A reproducible environment makes it reproducile.
 To create a reseach compendium, we recomend to first think about *what the components of your project are* and create the folder structure accordingly. 
 Use names for files and folders that make it easy for others to understand what they contain.
@@ -120,7 +156,7 @@ To create a research compendium, follow these steps:
 
 ## Further reading
 
-The website https://research-compendium.science contains links to further ressources and publications on research compendia as well as links to examples.
+The website https://research-compendium.science contains links to further resources and publications on research compendia as well as links to examples.
 
 <!---
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
