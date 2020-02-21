@@ -1,9 +1,9 @@
-# Software Quality Checklist
+# Checklist
 
 ## Summary
-Here we provide a short checklist for software projects, the rest of this chapter elaborates on the various point in this list.
+Here we provide a short checklist for software projects. The rest of this chapter elaborates on the various point in this list.
 
-## Checklist
+## The list
 
 The __bare minimum__ that every software project should do, from the start, is:
 * [FIX_LINK] Pick & include an [open source license]()
@@ -27,14 +27,14 @@ Additional steps depend on the goal of the software (zero or more can apply):
 
 * [Make your software citable](/software_quality/01/making_software_citable)
 * [???] Add a [CITATION.cff file](documentation.html#software-citation)
-* Cite DOI in paper
+* Cite DOI in paper (see the "[Further reading](#further-reading)" section at the end of the chapter)
 
 
 ## I'm expecting users
 
 * [Release](/software_quality/02/releases) your software
-* Provide [user documentation](documentation.html)
-* [Easy installation](releases.html#one-command-install)
+* [FIX_LINK] Provide [user documentation](documentation.html)
+* Provide [easy installation](/software_quality/02/releases#one-command-install)
 * Provide issue tracker
 
 
@@ -42,10 +42,12 @@ Additional steps depend on the goal of the software (zero or more can apply):
 
 * Provide [development documentation](documentation.html#source-code-documentation)
 * Provide a [means of communication](communication.html#discussion-list)
-* Implement and add a [code of conduct](documentation.html#code-of-conduct)
-* [Contribution guideline](documentation.html#contribution-guidelines)
+* Implement and add a [code of conduct](/collaborating_github/3/getting_contributors#code-of-conduct)
+* [Contribution guideline](collaborating_github/3/getting_contributors#contributor-guidelines)
+
 
 ## Further reading
 - [1. Best Practices for Scientific Computing
 ](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 - [2. Four simple recommendations to encourage best practices in research software](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5490478/)
+- [3. Software citation principles](https://www.force11.org/software-citation-principles)
