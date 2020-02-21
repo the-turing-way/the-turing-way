@@ -55,11 +55,6 @@ When the Markdown files are updated, you will need to update the POT files for t
 
 This will update the POT files to track the modified Markdown files. Since there are timestamps in the POT files, git will always show there is something to commit even all the marterial is the same. To make this CI-able, we can remove the timestamp from the `po4jupyterbook` code. We shall only update the POT files manually when we know for sure there are changes for now.
 
-## When will my translations appear in the book?
-
-Contributed translations will appear in the online book once the `translation` branch will be merged into the `master` branch of `the-turing-way` repository.
-<!-- TODO add more specifics here! -->
-
 ## Implementation details
 
 The philosophy behind the implementation is to make translation work without impacting the existing build process. Jupyterbook builds by copying the Markdown files to the `_build` directory under `book/website` with some parts added. Jekyll builds by compiling the Markdown files to HTML files in the `_site` directory.
@@ -88,3 +83,11 @@ The configuration file for Jupyterbook (`_config.yml`) points to where to find t
 
 We hope that pictures and illustrations can be translated as well. Those pictures can be stored in the same place as the original ones with language code added.
 
+## Commonly asked questions
+
+- When will my translations appear in the book?
+    
+    Contributed translations will appear in the online book once the `translation` branch will be merged into the `master` branch of `the-turing-way` repository.
+    <!-- TODO add more specifics here! -->
+
+TODO: this guide is a work in progress - need to add points about general contributing guidelines such as priority of sections to translate for people willing to translate. 
