@@ -6,8 +6,8 @@ This guide will help you contribute to an existing language translation of The T
 
 Go to [Transifex](https://www.transifex.com/theturingway/theturingway/) and click "Help Translate TheTuringWay" (button in blue). If you don't already have an account, you'll be asked to sign up for a free account. Once signed in, you can then "Join a team" to contribute to an existing translation or start a new language translation by "Request language" and follow the instructions in the section below.
 
-<p align="center"><img src="screenshots/joinTranslate.png" width="650"></p>
-<p align="center"><img src="screenshots/joinRequestTranslate.png" width="650"></p>
+<p align="center"><img src="screenshots/joinTranslate.png" width="700"></p>
+<p align="center"><img src="screenshots/joinRequestTranslate.png" width="700"></p>
 
 ## How to start a new translation?
 
@@ -16,7 +16,7 @@ If there's not a translation for a language you want to add, you can follow the 
 - To start a new language, within the `the-turing-way` repository,
     - In `book/content/po` directory contains POT and PO files. POT files are generated from the Markdown files and contains the original strings of the book; PO files contain the original string and their translations.
     - add the language's ISO code to:
-        - the `LINGUAS` file in `book/content/po`
+        - the `LINGUAS` file in `book/content/po` - and make sure to keep a newline character at the end of the file
         - and to the `keep_files` list in `book/website/_config.yml`
     - From within `book/content`, we then need to copy all the POT files to make corresponding PO files with the following bash command,
 
@@ -32,15 +32,15 @@ Once your request of a new language has been accepted by the maintainer, you'll 
 
 After signing in and joining "TheTuringWay" organisation, you will then be able to start contributing translations by clicking the "Translate" button in the Transifex dashboard (shown below). Remember that in order to start contributing for a particular language, you'll need to "Join the team" first.
 
-<p align="center"><img src="screenshots/dashboard.png" width="650"></p>
+<p align="center"><img src="screenshots/dashboard.png" width="700"></p>
 
 From there, you'll be offered a list of sections of the book to select and can then add your translation for individual lines of the book and save the translation.
 
-<p align="center"><img src="screenshots/saveTranslation.png" width="650"></p>
+<p align="center"><img src="screenshots/saveTranslation.png" width="700"></p>
 
 As shown above the lines to translate also include the Markdown syntax (`#`, for example) and its important to keep these when translating to keep the original structure of the book. You can automatically copy this to the translated version, which is useful when dealing Markdown syntax such as tables.
 
-<p align="center"><img src="screenshots/copyTranslation.png" width="550"></p>
+<p align="center"><img src="screenshots/copyTranslation.png" width="650"></p>
 
 ## What happens when the markdown content of the book changes?
 
