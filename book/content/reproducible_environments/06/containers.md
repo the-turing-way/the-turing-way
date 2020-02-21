@@ -180,7 +180,7 @@ six lines of actual code. The first of these is a `FROM` statement specifying a 
 FROM, even if it's just `FROM SCRATCH`. All the following commands in a Dockerfile build upon the base image to make a
 functioning version of the researcher's project. Specifing a version for the image (`18.04` in this case) is optional
 but is best practice as it ensures that our Dockerfile remains valid after new releases of Ubuntu, which may not
-include packages (or specific versions thereof) that we require later (e.g. `python3.7`).
+include packages (or specific versions thereof) that we require later (for example `python3.7`).
 
 It is worth spending time carefully choosing an appropriate base image as doing do can reduce the amount of work
 involved in writing a Dockerfile dramatically. For example a collection of images with the R programming language
