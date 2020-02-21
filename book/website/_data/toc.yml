@@ -57,13 +57,13 @@
     url: open_research/06/openscholarship
   - title: Resources
     url: open_research/07/resources
-- title: Software Quality Checklist
-  url: software_quality/software_quality
+- title: Software Checklist
+  url: software_checklist/software_checklist
   sections:
   - title: Making software citable
-    url: software_quality/01/making_software_citable
+    url: software_checklist/01/making_software_citable
   - title: Releases
-    url: software_quality/02/releases
+    url: software_checklist/02/releases
 - title: Version Control
   url: version_control/version_control
 - title: Collaborating on GitHub/GitLab

@@ -25,25 +25,25 @@ Additional steps depend on the goal of the software (zero or more can apply):
 
 ## I'm publishing a paper
 
-* [Make your software citable](/software_quality/01/making_software_citable)
+* [Make your software citable](/software_checklist/01/making_software_citable)
 * [???] Add a [CITATION.cff file](documentation.html#software-citation)
 * Cite DOI in paper (see the "[Further reading](#further-reading)" section at the end of the chapter)
 
 
 ## I'm expecting users
 
-* [Release](/software_quality/02/releases) your software
-* [WIP] Provide [user documentation](documentation.html)
-* Provide [easy installation](/software_quality/02/releases#one-command-install)
+* [Release](/software_checklist/02/releases) your software
+* [WIP] Provide [user documentation](/software_documentation/02/project_documentation)
+* Provide [easy installation](/software_checklist/02/releases#one-command-install)
 * Provide issue tracker
 
 
 ## I'm expecting contributors
 
-* Provide [development documentation](documentation.html#source-code-documentation)
-* Provide a [means of communication](communication.html#discussion-list)
+* [WIP] Provide [development documentation](/software_documentation/02/code_documentation)
+* [WIP] Provide a [means of communication](communication.html#discussion-list)
 * Implement and add a [code of conduct](/collaborating_github/3/getting_contributors#code-of-conduct)
-* [Contribution guideline](collaborating_github/3/getting_contributors#contributor-guidelines)
+* Add a [contribution guideline](/collaborating_github/3/getting_contributors#code-of-conduct)
 
 
 ## Further reading
