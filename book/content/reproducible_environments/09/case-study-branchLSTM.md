@@ -15,14 +15,17 @@ Elena used a long short-term memory (LSTM) model which incorporated the branchin
 Parameterising the model was time-consuming, so Elena had made extensive use of the high performance computing resources available at the University of Warwick.
 We knew this would throw several interesting challenges our way: we would have to try to reproduce the computational environment used for the original analysis, and we would also have to deal with the inherent difficulties in reproducing results in multi-threaded computation.
 
-Elena's code can be divided into three main stepsIn the first, the data from Twitter are converted into a numerical form.
+Elena's code can be divided into three main steps.
+In the first, the data from Twitter are converted into a numerical form.
 In the second, the hyperparameters of the branchLSTM model are selected based on training and development datasets.
 In the third, the model with the optimal hyperparameters is applied to the test dataset to obtain predictions of whether each tweet is supporting, denying, querying or commenting on the rumour in the original root tweet.
 Elena had saved the values of the hyperparameters used for her final run of the code, which was incredibly helpful for checking reproducibility as it was easy to isolate the two stages that involved the branchLSTM model itself.
 
-My first task was to run the final stage of the code on resources other than the cluster that Elena had previously usedI ran my first tests on the computers I had available (an iMac and MacBook Pro) and an NC6 virtual machine from Microsoft Azure, all of which yielded different overall accuracy values to those in Elena's paper.
+My first task was to run the final stage of the code on resources other than the cluster that Elena had previously used.
+I ran my first tests on the computers I had available (an iMac and MacBook Pro) and an NC6 virtual machine from Microsoft Azure, all of which yielded different overall accuracy values to those in Elena's paper.
 
-At this stage, such a result wasn't unexpected - I had used the most up-to-date versions of the Python packages used in the project, whereas most of Elena's work on the project had taken place over a year earlierBut the results were also different between the three computers, so before getting stuck into how the package versions affected the model, I decided to check the earlier stages of the script, where the data preprocessing took place.
+At this stage, such a result wasn't unexpected - I had used the most up-to-date versions of the Python packages used in the project, whereas most of Elena's work on the project had taken place over a year earlier.
+But the results were also different between the three computers, so before getting stuck into how the package versions affected the model, I decided to check the earlier stages of the script, where the data preprocessing took place.
 
 This uncovered some of the most interesting differences in interoperability that I've ever come across!
 
