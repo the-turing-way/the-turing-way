@@ -43,7 +43,8 @@ Sorting the list after generating it solved this problem, and it fortunately see
 
 Once loaded, numerical representations of each tweet were generated as 314-element arrays.
 The first 14 elements stored quantifiable features of the tweet, such as the number of negation words and the presence of attachments, and the remaining 300 elements stored a [Word2vec](https://skymind.ai/wiki/word2vec) representation of the tweet's textual content.
-When I compared these features across machines, I noticed something rather odd - the contents of corresponding elements were identical, apart from those which stored the length (to be more precise, the character count) of some of the tweets.
+To check that the inputs we were providing to the model were consistent, I printed the arrays to the screen and saved the output to a file.
+When I compared files generated on different machines, I noticed something rather odd - the contents of corresponding elements were identical, apart from those which stored the length (to be more precise, the character count) of some of the tweets.
 
 Judging the length of a tweet seemed like a very simple task - just count the number of characters.
 So why were the counts different? Further investigation showed that the mismatched counts occurred in tweets containing emoticons, which led me to look into how these characters were represented in Unicode.
@@ -68,6 +69,7 @@ At the time Elena was developing this project, neither of the Theano or Lasagne 
 In [semantic versioning](https://semver.org/), such 0.x.x version numbers indicate that the package may undergo large changes with each release, and so getting the version numbers correct was important if we were to ensure the output of the model was as intended.
 
 I knew roughly when Elena had installed the packages, so I started with the versions released around that time.
+Theano has many releases listed on [PyPI](https://pypi.org/project/Theano/#history), and some of these releases required [manual installations of Lasagne](https://lasagne.readthedocs.io/en/latest/user/installation.html) to achieve compatibility between the two.
 After trying out a few combinations, I was able to get accuracy values very close to those in the publication when using the optimal set of hyperparameters on the NC6 GPU from Microsoft Azure.
 The results were consistent, but there were very small differences between these results and those in Elena’s paper.
 As we were using slightly different hardware, we chose to call this an acceptable level of reproducibility rather than searching for further issues.
