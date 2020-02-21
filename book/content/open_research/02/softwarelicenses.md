@@ -168,7 +168,7 @@ In the following examples, we'll simplify most of this away, and look at one or 
 
 ![An illustration of the xtas vs. Snowball example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "Snowball Stemmer" and "Python lib BSD".](../../figures/license_examples/xtas_snowball_96.svg.png)
 
-xtas uses Snowball, a Python-based stemming library. Snowball is published under the 3-clause BSD license. Considering only xtas and Snowball, we can answer the three questions as follows.
+xtas uses [Snowball](https://snowballstem.org/), a Python-based stemming library. Snowball is published under the 3-clause BSD license. Considering only xtas and Snowball, we can answer the three questions as follows.
 
 #### Which separate works are there, and what is derived from what?
 
@@ -193,7 +193,7 @@ If xtas authors redistribute Snowball, they must do so under the BSD license gra
 
 ![An illustration of the xtas vs. chardet example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "chardet" and "Python lib LGPLv2.1".](../../figures/license_examples/xtas_chardet_96.svg.png)
 
-xtas uses chardet, a Python library for detecting the character set used in a string of text. Chardet is published under the GNU Lesser General Public License v2.1. Considering only xtas and chardet, we can answer the three questions as follows.
+xtas uses [chardet](https://pypi.org/project/chardet/), a Python library for detecting the character set used in a string of text. Chardet is published under the GNU Lesser General Public License v2.1. Considering only xtas and chardet, we can answer the three questions as follows.
 
 #### Which separate works are there, and what is derived from what?
 
@@ -212,7 +212,7 @@ xtas as a whole, and the xtas Python code, can be licensed in any way the author
 
 ![An illustration of the xtas vs. unidecode example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "unidecode" and "Python lib GPLv2+".](../../figures/license_examples/xtas_unidecode_96.svg.png)
 
-xtas previously used unidecode, a Python library for converting text encoded according to The Unicode® Standard into an ASCII approximation of it. Unidecode is published under the GNU General Public License version 2 or later (GPLv2+). Considering only xtas and unidecode, we can answer the three questions as follows.
+xtas previously used [unidecode](https://pypi.org/project/Unidecode/), a Python library for converting text encoded according to The Unicode® Standard into an ASCII approximation of it. Unidecode is published under the GNU General Public License version 2 or later (GPLv2+). Considering only xtas and unidecode, we can answer the three questions as follows.
 
 #### Which separate works are there, and what is derived from what?
 
@@ -264,7 +264,7 @@ The xtas Python code should be licensed under the Apache License v2, and the com
 
 ### Call external program
 
-xtas can run the Stanford CoreNLP program, which is written in Java and distributed under the GNU GPL version 3 or later. When the user calls the corresponding xtas function, CoreNLP is started by xtas, the user's input is sent to it through a pipe, and then the CoreNLP output is handed back to the user or processed further.
+xtas can run the [Stanford CoreNLP program](https://stanfordnlp.github.io/CoreNLP/), which is written in Java and distributed under the GNU GPL version 3 or later. When the user calls the corresponding xtas function, CoreNLP is started by xtas, the user's input is sent to it through a pipe, and then the CoreNLP output is handed back to the user or processed further.
 
 ![An illustration of the xtas vs. CoreNLP example. A square represents the combined work xtas. Within this square, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "Stanford CoreNLP" and "Java program GPLv3+".](../../figures/license_examples/xtas_corenlp_1_96.svg.png)
 
@@ -283,7 +283,7 @@ In practice, the xtas authors do not distribute CoreNLP at all; they only distri
 
 ### GPLv3 vs proprietary license
 
-In this example project we want to combine the OpenIFS global circulation model with the DALES large-eddy simulation model. Both these models are available as libraries, so the project entails combining the OpenIFS and Dales libraries into a single program.
+In this example project we want to combine the [OpenIFS global circulation model](https://confluence.ecmwf.int/display/OIFS) with the [DALES large-eddy simulation model](https://github.com/dalesteam/dales). Both these models are available as libraries, so the project entails combining the OpenIFS and Dales libraries into a single program.
 
 (This is a simplified example, the reality of this project is a notch or two more complicated, and the below is not exactly what we do.)
 
