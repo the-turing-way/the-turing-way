@@ -46,12 +46,12 @@ As shown above the lines to translate also include the Markdown syntax (`#`, for
 
 When the Markdown files are updated, you will need to update the POT files for the new strings to show up in Transifex.
 
- - Clone `po4jupyterbook` to the root directory of the project, at the same level as `the-turing-way` repository,
+ - Clone `po4jupyterbook` to the root directory of the project, within `the-turing-way` repository,
 
     `git clone https://github.com/tonyyzy/po4jupyterbook`
 - Then, from within `the-turing-way/book/content` run,
 
-     `../../po4jupyter/create.sh`
+     `../../po4jupyterbook/create.sh`
 
 This will update the POT files to track the modified Markdown files. Since there are timestamps in the POT files, git will always show there is something to commit even all the marterial is the same. To make this CI-able, we can remove the timestamp from the `po4jupyterbook` code. We shall only update the POT files manually when we know for sure there are changes for now.
 
