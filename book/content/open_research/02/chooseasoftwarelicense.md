@@ -164,7 +164,7 @@ xtas' own Python code is distributed by us under the Apache License version 2.0.
 In the following examples, we'll simplify most of this away, and look at one or a few dependencies in turn.
 
 
-### Libraries: xtas vs. Snowball
+### Apache vs. BSD
 
 ![An illustration of the xtas vs. Snowball example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "Snowball Stemmer" and "Python lib BSD".](../../figures/license_examples/xtas_snowball_96.svg.png)
 
@@ -189,7 +189,7 @@ The xtas Python code, and the xtas combined work, can be licensed under any lice
 If we redistribute Snowball, we must do so under the BSD license granted by its authors. (We cannot give additional permissions for Snowball, since we don't own the copyright, and additional restrictions would be unenforceable for the same reason.)
 
 
-### Libraries: xtas vs. chardet
+### Apache vs. LGPL
 
 ![An illustration of the xtas vs. chardet example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "chardet" and "Python lib LGPLv2.1".](../../figures/license_examples/xtas_chardet_96.svg.png)
 
@@ -208,7 +208,7 @@ Chardet is licensed under a weak copyleft license, so it can be redistributed un
 xtas as a whole, and the xtas Python code, can be licensed in any way we want, so we use the default eScience Center license, which is the Apache License v2.0. If we distribute chardet, we must do so under the LGPL v2.1 license granted by its copyright owners.
 
 
-### Libraries: xtas vs. unidecode
+### Apache vs. GPLv2
 
 ![An illustration of the xtas vs. unidecode example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "unidecode" and "Python lib GPLv2+".](../../figures/license_examples/xtas_unidecode_96.svg.png)
 
@@ -243,7 +243,7 @@ The simplest solution in this case would be to simply license the xtas Python co
 As is probably clear by now, dependencies that are under a strong copyleft license complicate your life if you want people to be able to make proprietary works based on your software. For this reason, we try to avoid them.
 
 
-### Libraries: xtas vs all
+### Apache vs BSD vs LGPL vs GPLv2
 
 ![An illustration of the xtas and all Python libraries example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below this, there are three squares. The first square contains the words "Snowball" and "Python lib BSD". The second square contains "chardet" and "Python lib LGPLv2.1". The third square contains the words "unidecode" and "Python lib GPLv2+".](../../figures/license_examples/xtas_all_python_libs_96.svg.png)
 
@@ -262,7 +262,7 @@ The four components are under Free Software licenses, and/or we own the copyrigh
 The xtas Python code should be licensed under our default Apache License v2, and the combined work under the GPL version 3 or higher. (See the unidecode example above for alternatives.)
 
 
-### In the Clouds: DALES & OpenIFS
+### GPLv3 vs proprietary license
 
 For the project "Towards Large-Scale Cloud-Resolving Climate Simulations", we want to combine the OpenIFS global circulation model with the DALES large-eddy simulation model. Both these models are available as libraries, so the project entails combining the OpenIFS and Dales libraries into a single program.
 
@@ -298,7 +298,7 @@ The fundamental issue here is that the GPL tries to make everyone shared steward
 
 Combining them in a single project is complicated and not without legal risk, and we should avoid it. If that's not possible, we should tread carefully.
 
-### External programs: xtas vs. CoreNLP
+### Call external program
 
 xtas can run the Stanford CoreNLP program, which is written in Java and distributed under the GNU GPL version 3 or later. When the user calls the corresponding xtas function, CoreNLP is started by xtas, the user's input is sent to it through a pipe, and then the CoreNLP output is handed back to the user or processed further.
 
@@ -316,30 +316,3 @@ Under this interpretation, xtas as a whole (not including CoreNLP) can be distri
 
 In practice, we do not distribute CoreNLP at all; we only distribute the xtas Python code, under the Apache License version 2.
 
-
-### Data sets: Movie review emotion
-
-xtas contains a function that detects emotions in movie reviews. It works by fitting a model to a set of training data, and then applying the model to the xtas user's data.
-
-The training data set it uses is available on the Internet from the website of a European university, with a note saying that it can be used for academic research purposes only. xtas automatically downloads this data set the first time the user calls the function.
-
-Since it was created in Europe, the training data set is protected by database rights, which limit copying substantial parts of it. This means that the xtas user needs permission to have xtas download the data set, which they only have if they use the data for research purposes.
-
-Since the download happens automatically this may not be obvious, so it is documented in the function's documentation, and the function will refuse to work  unless a named argument `for_academic_research=True` is used when calling it.
-
-xtas itself is not a database, and therefore cannot be a derivative work of the data set. The same goes for the model that is fit to the data.
-
-An alternative way to provide this functionality would be to fit the model once, and then distribute the model (but not the data set) with xtas. Whether doing so constitutes academic research is debatable however.
-
-
-### Mixed: Download a car?
-
-For an internal research project, we needed annotated images of cars to train a neural network on. Such images can be found easily on car trading web sites, and so the question arose whether we could just grab a big collection of images from such a site.
-
-Dutch database law contains a provision (article 5.b.) that says that retrieval of a substantial part of the contents of a database for scientific research is allowed, as long as the source is acknowledged and the use is non-commercial.
-
-Unfortunately, this is not the only barrier. The photos on the site are also copyrighted works, owned by whoever made them, and making a copy requires their permission.
-
-Furthermore, the web site has a set of general terms and conditions, which forbids retrieving a substantial portion of the database. These apply to anyone using the web site.
-
-Downloading a car? Bad idea.
