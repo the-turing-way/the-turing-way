@@ -57,7 +57,7 @@
     url: open_research/06/openscholarship
   - title: Resources
     url: open_research/07/resources
-- title: Software Quality
+- title: Software Quality Checklist
   url: software_quality/software_quality
   sections:
   - title: Making software citable
