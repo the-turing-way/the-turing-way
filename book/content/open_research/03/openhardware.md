@@ -32,7 +32,7 @@ That is, explain what the project is and what it is for before you get into the 
 A good photo or rendering can help a lot here.
 
 #### A licence
-This grants legal permission to anyone to re-use, modify, and distribute your designs and hardware according to the terms stated (for example, they must acknowledge your contribution).  
+An appropriate license on the Open Hardware project and its content grants legal permission to anyone to re-use, modify and distribute the different components of a project according to the terms stated (for example, they must acknowledge your contribution).  
 
 #### Original design files
 These are the original source files that you would use to make modifications to the hardware's design.
