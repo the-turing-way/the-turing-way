@@ -1,0 +1,35 @@
+# Give your test a name!
+name: lorem-ipsums
+
+# Decide when to run the tests
+#
+# This configuration sets the test to run on pushes to master
+# and on pull requests that are opened to master
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+# Set up the Continuous Integration job
+jobs:
+  lorem-ipsums:
+    runs-on: ubuntu-latest  # Run on the latest Ubuntu distribution
+
+    # This section collects together the steps involved in running the test
+    steps:
+      # Checkout the repository. Relies on another GH-Action.
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+      # Set up the Python version. Relies on another GH-Action.
+      - name: Set up Python 3.7
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
+      # Run a Python script
+      - name: Check book content files for rogue "Lorem "Lorem ipsums"
+        working-directory: ./tests
+        run: |
+          python lorem-ipsums.py
