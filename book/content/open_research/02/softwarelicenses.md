@@ -1,5 +1,7 @@
 # Software licenses
 
+*Disclaimer: Good legal advice is timely, specific, and given by an expert; this chapter is none of these. It was written by an engineer, not by a lawyer, and it's a heavily simplified overview of a very complex field. The intent is to give you an overview of the basics, so that you will know when to check whether something you want to do has potential legal ramifications. Don't make any important decisions based solely on the contents of this chapter.*
+
 There are many software licenses in existence. Many of those allow the licensee to do very little, but some give you more freedom to use and re-use the licensed software.
 
 The [https://choosealicense.com/](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project.
@@ -282,7 +284,11 @@ xtas can run the [Stanford CoreNLP program](https://stanfordnlp.github.io/CoreNL
 
 One interpretation of this situation is that this is no different from calling a function in a library, and that any distribution of xtas as a whole, including CoreNLP, should therefore be under the GPLv3+. Contributing to this interpretation is the fact that xtas will download and install CoreNLP automatically if needed.
 
-![Another illustration of the xtas vs. CoreNLP example. A square on the left represents the combined work xtas. Within this square, there is a rectangle representing the xtas Python code, licensed under the Apache License v2. On the right is a separate square representing CoreNLP, with the text "Stanford CoreNLP" and "Java program GPLv3+". Between the squares are two arrows, one at the top pointing from xtas to CoreNLP, and one at the bottom pointing from CoreNLP to xtas.](../../figures/license_examples/xtas_corenlp_2_96.svg.png)
+| ![Another illustration of the xtas vs. CoreNLP example.](../../figures/license_examples/xtas_corenlp_2_96.svg.png) |
+| ------------------------------------------------------------------------------------ |
+| Another illustration of the xtas vs. CoreNLP example. A square on the left represents the combined work xtas. Within this square, there is a rectangle representing the xtas Python code, licensed under the Apache License v2. On the right is a separate square representing CoreNLP, with the text "Stanford CoreNLP" and "Java program GPLv3+". Between the squares are two arrows, one at the top pointing from xtas to CoreNLP, and one at the bottom pointing from CoreNLP to xtas. |
+
+
 
 Another interpretation is that xtas and CoreNLP are separate works, and that xtas merely communicates with CoreNLP over its standard user interface.
 
