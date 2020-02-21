@@ -1,0 +1,34 @@
+# Give your test a name!
+name: NoBadLatin
+
+# Decide when to run the tests
+#
+# This configuration sets the test to run on pushes to master
+# and on pull requests that are opened to master
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+# Set up the Continuous Integration job
+jobs:
+  nobadlatin:
+    # Run on the latest Ubuntu distribution
+    runs-on: ubuntu-latest
+    # This section collects together the steps involved in running the test
+    steps:
+    # Checkout the repository. Relies on another GH-Action.
+    - uses: actions/checkout@v2
+    # Set up the Python version. Relies on another GH-Action.
+    - name: Setup Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    # Run a Python script
+    - name: Run Python script to check for bad latin phrases
+      working-directory: ./tests
+      run: |
+        python no-bad-latin.py
