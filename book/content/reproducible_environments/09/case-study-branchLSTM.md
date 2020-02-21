@@ -1,7 +1,7 @@
 # Case study: branchLSTM
 
-_This project was part of the Alan Turing Institute's Reproducible Research Champions programme, led by Kirstie Whitaker and Martin O'Reilly.
-Elena Kochkina was one of three Champions selected from Turing researchers, and her project was further developed by Louise Bowler, a member of the [Research Engineering Group](https://www.turing.ac.uk/research/research-programmes/research-engineering).
+_This project was part of the Alan Turing Institute's Reproducible Research Champions programme, led by [Kirstie Whitaker](https://orcid.org/0000-0001-8498-4059) and [Martin O'Reilly](https://orcid.org/0000-0002-1191-3492).
+[Elena Kochkina](https://orcid.org/0000-0003-0691-3647) was one of three Champions selected from Turing researchers, and her project was further developed by [Louise Bowler](https://orcid.org/0000-0002-4910-9205), a member of the [Research Engineering Group](https://www.turing.ac.uk/research/research-programmes/research-engineering).
 Here, Louise writes about her experiences of working on the project._
 
 _The branchLSTM project is available on [GitHub](https://github.com/kochkinaelena/branchLSTM/), and the full paper can be found on the [SemEval 2017 website](https://www.aclweb.org/anthology/S17-2083)._
