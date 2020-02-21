@@ -4,7 +4,7 @@
 Like open source software, the "source code" for open hardware - schematics, blueprints, logic designs, Computer Aided Design (CAD) drawings or files, and the like, is available for modification or enhancement by anyone.
 Users with access to the tools that can read and manipulate these source files can update and improve the physical device and the code that underlies it, and, if they wish, proceed to share such modifications.
 
-Open hardware's source code should be readily accessible, and its components are preferably easy for anyone to obtain. 
+Open hardware's source code should be readily accessible, and its components are preferably easy for anyone to obtain.
 Essentially, open hardware eliminates common roadblocks to the design and manufacture of physical goods; it provides as many people as possible the ability to construct, remix, and share their knowledge of hardware design and function.
 
 It is worth noting that open hardware does not necessary mean free. Units may still be sold (by the original designer or by others), but users *could* build them from scratch. Whether or not they choose to buy the unit, users can still get a full understanding of how the hardware works from open documentation, designs, and similar.  
@@ -26,46 +26,63 @@ Here are some files that you should consider sharing when publishing your open s
 You are not required to post them all, but the more you share the more the community benefits.
 There is a lot of crossover here with files to include in open source software projects.
 
-- Overview / Introduction: Your open source hardware project should include a general description of the hardware's identity and purpose, written as much as possible for a general audience.
+#### Overview and introduction
+Your open source hardware project should include a general description of the hardware's identity and purpose, written as much as possible for a general audience.
 That is, explain what the project is and what it is for before you get into the technical details.
 A good photo or rendering can help a lot here.
-- A licence: This grants legal permission to anyone to re-use, modify, and distribute your designs and hardware according to the terms stated (for example, they must acknowledge your contribution).  
-- Original design files: These are the original source files that you would use to make modifications to the hardware's design.
+
+#### A licence
+This grants legal permission to anyone to re-use, modify, and distribute your designs and hardware according to the terms stated (for example, they must acknowledge your contribution).  
+
+#### Original design files
+These are the original source files that you would use to make modifications to the hardware's design.
 The act of sharing these files is the core practice of open source hardware.
-  - Ideally, your open source hardware project would be designed using a free and open source software application, to maximize the ability of others to view and edit it.
-  For better or worse however, hardware design files are often created in proprietary programs and stored in proprietary formats.
-  It is still essential to share these original design files; they constitute the original "source code" for the hardware.
-  They are the very files that someone will need in order to contribute changes to a given design.
-  - Try to make your design files easy for someone else to understand. In particular, organize them in a logical way, comment complex aspects, and note any unusual manufacturing procedures.
-  - Examples of Original Design Files include 2D drawings and computer-aided design (CAD) files.
-- Auxiliary Design Files: Beyond the original design files, it is often helpful to share your design in additional, more accessible formats.
+- Ideally, your open source hardware project would be designed using a free and open source software application, to maximize the ability of others to view and edit it.
+For better or worse however, hardware design files are often created in proprietary programs and stored in proprietary formats.
+It is still essential to share these original design files; they constitute the original "source code" for the hardware.
+They are the very files that someone will need in order to contribute changes to a given design.
+- Try to make your design files easy for someone else to understand. In particular, organize them in a logical way, comment complex aspects, and note any unusual manufacturing procedures.
+- Examples of Original Design Files include 2D drawings and computer-aided design (CAD) files.
+
+#### Auxiliary design files
+Beyond the original design files, it is often helpful to share your design in additional, more accessible formats.
 For example, best practice open sourcing a CAD design is to share the design not just in its native file format, but also in a range of interchange and export formats that can be opened or imported by other CAD programs.
-  - It is also helpful to provide ready-to-view outputs that can easily be viewed by end users who wish to understand (but not necessarily modify) the design.
-  For example, a PDF of a circuit board schematic.
-  These auxiliary design files allow people to study the design of the hardware, and sometimes even fabricate it, even without access to particular proprietary software packages.
-  However, note that auxiliary design files are never recommended as substitutes for original design files.
-- Additional technical drawings: In their original formats, if required for fabrication of the device, in a commonly-readable format such as PDF.
-- Bill Of Materials: While it might be possible to infer from the design files which parts make up a piece of hardware, it is important to provide a separate bill of materials.
+- It is also helpful to provide ready-to-view outputs that can easily be viewed by end users who wish to understand (but not necessarily modify) the design.
+For example, a PDF of a circuit board schematic.
+These auxiliary design files allow people to study the design of the hardware, and sometimes even fabricate it, even without access to particular proprietary software packages.
+However, note that auxiliary design files are never recommended as substitutes for original design files.
+
+#### Additional technical drawings
+In their original formats, if required for fabrication of the device, in a commonly-readable format such as PDF.
+
+#### Bill of materials
+While it might be possible to infer from the design files which parts make up a piece of hardware, it is important to provide a separate bill of materials.
 This can be a spreadsheet (for example, CSV, XLS, Google Doc) or simply a text file with one part per line.
-  - Useful things to include in the bill of materials are part numbers, suppliers, costs, and a short description of each part.
-  Make it easy to tell which item in the bill of materials corresponds to which component in your design files: use matching reference designators in both places, provide a diagram indicating which part goes where, or otherwise explain the correspondence.
-- Software and Firmware: You should share any code or firmware required to operate your hardware.
+Useful things to include in the bill of materials are part numbers, suppliers, costs, and a short description of each part.
+Make it easy to tell which item in the bill of materials corresponds to which component in your design files: use matching reference designators in both places, provide a diagram indicating which part goes where, or otherwise explain the correspondence.
+
+#### Software and firmware
+You should share any code or firmware required to operate your hardware.
 This will allow others to use it with their hardware or modify it along with their modifications to your hardware.
 Document the process required to build your software, including links to any dependencies (for example, third-party libraries or tools). In addition, it is helpful to provide an overview of the state of the software (for example, "stable" or "beta" or "barely-working hack").
-- Photos: Photos help people understand what your project is and how to put it together.
+
+#### Photos
+Photos help people understand what your project is and how to put it together.
 It is good to publish photographs from multiple viewpoints and at various stages of assembly. If you do not have photos, posting 3D renderings of your design is a good alternative. Either way, it is good to provide captions or text that explain what is shown in each image and why it is useful.
-- Instructions and Other Explanations: In addition to the design files themselves, there are a variety of explanations that are invaluable in helping others to make or modify your hardware:
-  - Making the hardware: To help others make and modify your hardware design, you should provide instructions for going from your design files to the working physical hardware.
-  As part of the instructions, it is helpful to link to datasheets for the components / parts of your hardware and to list the tools required to assemble it.
-  If the design requires specialized tools, tell people where to get them.
-  - Using the hardware: Once someone has made the hardware, they need to know how to use it.
-  Provide instructions that explain what it does, how to set it up, and how to interact with it.
-  - Design rationale: If someone wants to modify your design, they will want to know why it is the way it is.
-  Explain the overall plan of the hardware's design and why you made the specific choices you did.
-  - Limit jargon: Keep in mind that these instructions may be read by someone whose expertise or training is different from yours.
-  As much as possible, try to write to a general audience, check your instructions for industry jargon, and be explicit about what you assume the user knows.
-  - Format: The instructions could be in a variety of formats, such as a wiki, text file, Google Doc, or PDF.
-  Remember, though, that others might want to modify your instructions as they modify your hardware design, so it is good to provide the original editable files for your documentation, not just output formats like PDF.
+
+#### Instructions and other explanations
+In addition to the design files themselves, there are a variety of explanations that are invaluable in helping others to make or modify your hardware:
+- Making the hardware: To help others make and modify your hardware design, you should provide instructions for going from your design files to the working physical hardware.
+As part of the instructions, it is helpful to link to datasheets for the components / parts of your hardware and to list the tools required to assemble it.
+If the design requires specialized tools, tell people where to get them.
+- Using the hardware: Once someone has made the hardware, they need to know how to use it.
+Provide instructions that explain what it does, how to set it up, and how to interact with it.
+- Design rationale: If someone wants to modify your design, they will want to know why it is the way it is.
+Explain the overall plan of the hardware's design and why you made the specific choices you did.
+- Limit jargon: Keep in mind that these instructions may be read by someone whose expertise or training is different from yours.
+As much as possible, try to write to a general audience, check your instructions for industry jargon, and be explicit about what you assume the user knows.
+- Format: The instructions could be in a variety of formats, such as a wiki, text file, Google Doc, or PDF.
+Remember, though, that others might want to modify your instructions as they modify your hardware design, so it is good to provide the original editable files for your documentation, not just output formats like PDF.
 
 ### Open source hardware processes and practices
 
