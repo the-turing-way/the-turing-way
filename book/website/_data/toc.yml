@@ -60,8 +60,8 @@
 - title: Software Quality
   url: software_quality/software_quality
   sections:
-  - title: License
-    url: software_quality/01/license
+  - title: Making software citable
+    url: software_quality/01/making_software_citable
 - title: Version Control
   url: version_control/version_control
 - title: Collaborating on GitHub/GitLab
