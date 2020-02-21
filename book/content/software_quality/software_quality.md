@@ -6,15 +6,15 @@ Here we provide a short checklist for software projects. The rest of this chapte
 ## The list
 
 The __bare minimum__ that every software project should do, from the start, is:
-* [FIX_LINK] Pick & include an [open source license]()
+* Pick & include an [open source license]( /open_research/02/softwarelicenses)
 * Use [version control](/version_control/version_control)
 * Use a [publicly accessible](/open_research/02/opensourcesoftware)
  version control repository
-* [FIX_LINK] Add [documentation describing the project]()
+* [WIP] Add [documentation describing the project]()
 
 
 We recommend that you also do the following (from the start of the project):
-* [FIX_LINK] Use [code quality tools](/code_quality/code_quality)
+* Use [code quality tools](/code_quality/code_quality)
 * [Testing](/testing/testing)
 
 
@@ -33,7 +33,7 @@ Additional steps depend on the goal of the software (zero or more can apply):
 ## I'm expecting users
 
 * [Release](/software_quality/02/releases) your software
-* [FIX_LINK] Provide [user documentation](documentation.html)
+* [WIP] Provide [user documentation](documentation.html)
 * Provide [easy installation](/software_quality/02/releases#one-command-install)
 * Provide issue tracker
 
