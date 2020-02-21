@@ -66,7 +66,7 @@ Different Free software licenses place different constraints on how modified ver
 
 As the name implies, permissive Free software licenses are the least restrictive. They let you distribute the software unchanged under that license, with or without source code. They will also let you distribute a modified version under any license you like, and let you distribute a combined work under any license.
 
-Examples of well-known permissive licenses are the various BSD licenses, the MIT license, and the Apache License 2.0 that we have standardized on.
+Examples of well-known permissive licenses are the various BSD licenses, the MIT license, and the Apache License 2.0.
 
 ## Copyleft
 
@@ -159,7 +159,7 @@ xtas itself is written in Python, and it uses a number of Python libraries that 
 
 (Note that the dependency on the GPLv2+ Python library has now been removed, but for the sake of these examples we will assume it to still be there.)
 
-xtas' own Python code is distributed by us under the Apache License version 2.0. Since we own the copyright, we can license it any way we like (although there's a gray area with respect to GPL dependencies, see below). We do not distribute any combined works or binaries, but in the examples below we'll assume that there is a combined work, so that we can consider how it should be licensed.
+xtas' own Python code is distributed by us under the Apache License version 2.0. Since the xtas authors own the copyright, they can license it any way they like (although there's a gray area with respect to GPL dependencies, see below). The xtas authors do not distribute any combined works or binaries, but in the examples below we'll assume that there is a combined work, so that we can consider how it should be licensed.
 
 In the following examples, we'll simplify most of this away, and look at one or a few dependencies in turn.
 
@@ -180,13 +180,13 @@ As far as I know, there is no case law on this; we will assume it to be the case
 
 #### Can the works be distributed, i.e. do the licenses allow this and are they compatible?
 
-Snowball is licensed under a permissive license, so it can be redistributed under that license, and there are no constraints on the license of derivative works. We own the copyright to the xtas Python code, so we can license it in any way we want.
+Snowball is licensed under a permissive license, so it can be redistributed under that license, and there are no constraints on the license of derivative works. The xtas authors can license it in any way they want.
 
 #### How should the work(s) be licensed?
 
-The xtas Python code, and the xtas combined work, can be licensed under any license we want, so we should use the default eScience Center license, which is the Apache License v2.0.
+The xtas Python code, and the xtas combined work, are licensed under the Apache License v2.0.
 
-If we redistribute Snowball, we must do so under the BSD license granted by its authors. (We cannot give additional permissions for Snowball, since we don't own the copyright, and additional restrictions would be unenforceable for the same reason.)
+If xtas authors redistribute Snowball, they must do so under the BSD license granted by Snowball authors. (They cannot give additional permissions for Snowball, since they don't own the copyright, and additional restrictions would be unenforceable for the same reason.)
 
 
 ### Apache vs. LGPL
@@ -205,7 +205,7 @@ Chardet is licensed under a weak copyleft license, so it can be redistributed un
 
 #### How should the work(s) be licensed?
 
-xtas as a whole, and the xtas Python code, can be licensed in any way we want, so we use the default eScience Center license, which is the Apache License v2.0. If we distribute chardet, we must do so under the LGPL v2.1 license granted by its copyright owners.
+xtas as a whole, and the xtas Python code, can be licensed in any way the authors want, so they used the Apache License v2.0. If they distribute chardet, they must do so under the LGPL v2.1 license granted by its copyright owners.
 
 
 ### Apache vs. GPLv2
@@ -230,17 +230,17 @@ Unidecode is licensed under the GPL version 2 or later. This is known as a _disj
 
 #### How should the work(s) be licensed?
 
-If we distribute unidecode, we should do so under the GPL version 2 or higher, as arbitrarily removing licenses from someone else's code does not make sense. The combined work xtas must be distributed under the same licenses, or a subset of them. The xtas Python code can be licensed in any way we want.
+If the xtas authors distribute unidecode, they should do so under the GPL version 2 or higher, as arbitrarily removing licenses from someone else's code does not make sense. The combined work xtas must be distributed under the same licenses, or a subset of them. The xtas Python code can be licensed in any way they want.
 
-We should choose a license for the xtas Python code that is compatible with at least one of the licenses that unidecode can be distributed under, so that others can assemble and distribute combined works. Our default license, the ALv2, is compatible with the GPLv3 (but not with the GPLv2, for technical reasons), so we can use it here.
+The xtas authors should choose a license for the xtas Python code that is compatible with at least one of the licenses that unidecode can be distributed under, so that others can assemble and distribute combined works. The ALv2, is compatible with the GPLv3 (but not with the GPLv2, for technical reasons), so they can use it here.
 
-The combined work should then be licensed under the GPL version 3 or later. If it is important that it can be used under the GPLv2 as well, then we can license the xtas Python code under both the ALv2 and the GPLv2 (i.e. we offer both licenses, and the user can choose to accept either or both), and the combined work under the GPL version 2 or later.
+The combined work should then be licensed under the GPL version 3 or later. If it is important that it can be used under the GPLv2 as well, then the xtas authors can license the xtas Python code under both the ALv2 and the GPLv2 (i.e. they offer both licenses, and the user can choose to accept either or both), and the combined work under the GPL version 2 or later.
 
-Finally, if it is decided at some point in the future that the xtas Python source code is a derivative work of unidecode because it calls into it, even if none of unidecode is included in the work, then we must distribute the xtas Python code under at least one of the GPL licenses that unidecode is distributed under. In that case, we can offer xtas under the ALv2 and GPLv2+ set of licenses.
+Finally, if it is decided at some point in the future that the xtas Python source code is a derivative work of unidecode because it calls into it, even if none of unidecode is included in the work, then the xtas authors must distribute the xtas Python code under at least one of the GPL licenses that unidecode is distributed under. In that case, they can offer xtas under the ALv2 and GPLv2+ set of licenses.
 
-The simplest solution in this case would be to simply license the xtas Python code and the derived work under the GPLv3. However, we want people to be able to use as much of our software as possible in proprietary software, which is why our preferred license is the permissive ALv2.
+The simplest solution in this case would be to simply license the xtas Python code and the derived work under the GPLv3.
 
-As is probably clear by now, dependencies that are under a strong copyleft license complicate your life if you want people to be able to make proprietary works based on your software. For this reason, we try to avoid them.
+As is probably clear by now, dependencies that are under a strong copyleft license complicate your life if you want people to be able to make proprietary works based on your software.
 
 
 ### Apache vs BSD vs LGPL vs GPLv2
@@ -255,16 +255,35 @@ There are five works: Snowball, chardet, unidecode, the xtas Python code, and xt
 
 #### Can the works be distributed, i.e. do the licenses allow this and are they compatible?
 
-The four components are under Free Software licenses, and/or we own the copyright, so they can be distributed. The BSD, LGPLv2.1 and GPLv2+ all allow licensing the combined work under the GPL version 2 or higher, so there is at least one license that the combined work can be licensed under.
+The four components are under Free Software licenses, and/or the xtas authors own the copyright, so they can be distributed. The BSD, LGPLv2.1 and GPLv2+ all allow licensing the combined work under the GPL version 2 or higher, so there is at least one license that the combined work can be licensed under.
 
 #### How should the work(s) be licensed?
 
-The xtas Python code should be licensed under our default Apache License v2, and the combined work under the GPL version 3 or higher. (See the unidecode example above for alternatives.)
+The xtas Python code should be licensed under the Apache License v2, and the combined work under the GPL version 3 or higher. (See the [unidecode example](#apache-vs-gplv2) above for alternatives.)
+
+
+### Call external program
+
+xtas can run the Stanford CoreNLP program, which is written in Java and distributed under the GNU GPL version 3 or later. When the user calls the corresponding xtas function, CoreNLP is started by xtas, the user's input is sent to it through a pipe, and then the CoreNLP output is handed back to the user or processed further.
+
+![An illustration of the xtas vs. CoreNLP example. A square represents the combined work xtas. Within this square, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "Stanford CoreNLP" and "Java program GPLv3+".](../../figures/license_examples/xtas_corenlp_1_96.svg.png)
+
+One interpretation of this situation is that this is no different from calling a function in a library, and that any distribution of xtas as a whole, including CoreNLP, should therefore be under the GPLv3+. Contributing to this interpretation is the fact that xtas will download and install CoreNLP automatically if needed.
+
+![Another illustration of the xtas vs. CoreNLP example. A square on the left represents the combined work xtas. Within this square, there is a rectangle representing the xtas Python code, licensed under the Apache License v2. On the right is a separate square representing CoreNLP, with the text "Stanford CoreNLP" and "Java program GPLv3+". Between the squares are two arrows, one at the top pointing from xtas to CoreNLP, and one at the bottom pointing from CoreNLP to xtas.](../../figures/license_examples/xtas_corenlp_2_96.svg.png)
+
+Another interpretation is that xtas and CoreNLP are separate works, and that xtas merely communicates with CoreNLP over its standard user interface.
+
+In this interpretation xtas is a separate program that helps a user use the CoreNLP program from the Python language, and not a derivative work of CoreNLP. One can consider xtas analogous to a package installer and a command shell here, which are clearly not derivative works of the packages they install or the programs they start.
+
+Under this interpretation, xtas as a whole (not including CoreNLP) can be distributed under any given license (subject to restrictions imposed by its other dependencies of course).
+
+In practice, the xtas authors do not distribute CoreNLP at all; they only distribute the xtas Python code, under the Apache License version 2.
 
 
 ### GPLv3 vs proprietary license
 
-For the project "Towards Large-Scale Cloud-Resolving Climate Simulations", we want to combine the OpenIFS global circulation model with the DALES large-eddy simulation model. Both these models are available as libraries, so the project entails combining the OpenIFS and Dales libraries into a single program.
+In this example project we want to combine the OpenIFS global circulation model with the DALES large-eddy simulation model. Both these models are available as libraries, so the project entails combining the OpenIFS and Dales libraries into a single program.
 
 (This is a simplified example, the reality of this project is a notch or two more complicated, and the below is not exactly what we do.)
 
@@ -282,37 +301,20 @@ The whole combined work cannot be distributed, since it incorporates OpenIFS. If
 
 #### Can we work on this privately, without distributing anything?
 
-The GPL allows making private modifications of software covered by it, with no restrictions, provided the changed software is not distributed at all. The OpenIFS license also allows making private modifications. So we can work on this project (and prepare and run combined works) within the Netherlands eScience Center without violating the licenses, as long as we do not share the results with anyone.
+The GPL allows making private modifications of software covered by it, with no restrictions, provided the changed software is not distributed at all. The OpenIFS license also allows making private modifications. So we can work on this project (and prepare and run combined works) without violating the licenses, as long as we do not share the results with anyone.
 
-However, as in most of our projects, we work together with a principal investigator outside the eScience Center. This means that we exchange materials between different legal entities, which counts as distribution. We can do that with our own code (which we can even publish openly under the ALv2) and with DALES, but not with OpenIFS or any combined works.
+However, if we want to collaborate with someone outside our organisation, this means that we exchange materials between different legal entities, which counts as distribution. We can do that with our own code (which we can even publish openly under the ALv2) and with DALES, but not with OpenIFS or any combined works.
 
 #### What other options are there in this kind of situation?
 
 We can try to split up the system into independent programs that run in separate processes and communicate with each other over well-documented, generic interfaces. In this way, there would never be a combined work, just a few independent works that exchange information. Exactly how separate the programs have to be to not be considered a single work is, again, a gray area.
 
-We could also ask the OpenIFS and DALES copyright owners for permission to share combined works between the eScience Center and the PI. That would remove all uncertainty, but may not be practical in general.
+We could also ask the OpenIFS and DALES copyright owners for permission to share combined works between our organization and the outsider. That would remove all uncertainty, but may not be practical in general.
 
 Another option would be to replace one of the dependencies by one written by ourselves. This is usually impractical, both due to time constraints and because the new version would not have the scientific pedigree of the existing one.
 
 The fundamental issue here is that the GPL tries to make everyone shared stewards of the software we use, while proprietary software tries to keep control over it in the hands of a single owner.
 
-Combining them in a single project is complicated and not without legal risk, and we should avoid it. If that's not possible, we should tread carefully.
+Combining them in a single project is complicated and not without legal risk, and you should avoid it. If that's not possible, you should tread carefully.
 
-### Call external program
-
-xtas can run the Stanford CoreNLP program, which is written in Java and distributed under the GNU GPL version 3 or later. When the user calls the corresponding xtas function, CoreNLP is started by xtas, the user's input is sent to it through a pipe, and then the CoreNLP output is handed back to the user or processed further.
-
-![An illustration of the xtas vs. CoreNLP example. A square represents the combined work xtas. Within this square, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "Stanford CoreNLP" and "Java program GPLv3+".](../../figures/license_examples/xtas_corenlp_1_96.svg.png)
-
-One interpretation of this situation is that this is no different from calling a function in a library, and that any distribution of xtas as a whole, including CoreNLP, should therefore be under the GPLv3+. Contributing to this interpretation is the fact that xtas will download and install CoreNLP automatically if needed.
-
-![Another illustration of the xtas vs. CoreNLP example. A square on the left represents the combined work xtas. Within this square, there is a rectangle representing the xtas Python code, licensed under the Apache License v2. On the right is a separate square representing CoreNLP, with the text "Stanford CoreNLP" and "Java program GPLv3+". Between the squares are two arrows, one at the top pointing from xtas to CoreNLP, and one at the bottom pointing from CoreNLP to xtas.](../../figures/license_examples/xtas_corenlp_2_96.svg.png)
-
-Another interpretation is that xtas and CoreNLP are separate works, and that xtas merely communicates with CoreNLP over its standard user interface.
-
-In this interpretation xtas is a separate program that helps a user use the CoreNLP program from the Python language, and not a derivative work of CoreNLP. One can consider xtas analogous to a package installer and a command shell here, which are clearly not derivative works of the packages they install or the programs they start.
-
-Under this interpretation, xtas as a whole (not including CoreNLP) can be distributed under any license we choose (subject to restrictions imposed by its other dependencies of course).
-
-In practice, we do not distribute CoreNLP at all; we only distribute the xtas Python code, under the Apache License version 2.
 
