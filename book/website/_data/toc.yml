@@ -93,6 +93,8 @@
     url: reproducible_environments/07/checklist
   - title: Resources
     url: reproducible_environments/08/resources
+  - title: Case Study
+    url: reproducible_environments/09/case-study-branchLSTM
 - title: Testing
   url: testing/testing
 - title: Reviewing
