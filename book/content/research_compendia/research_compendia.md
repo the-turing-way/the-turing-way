@@ -38,10 +38,14 @@ Imagine a research project with the following folder structure:
 
 ```text
 research_project/
+├── CITATION
 ├── code
 │   ├── analyse_data.R
 │   └── clean_data.R
-├── data
+├── data_clean
+│   └── data_clean.csv
+├── data_raw
+│   ├── datapackage.json
 │   └── data_raw.csv
 ├── Dockerfile
 ├── figures
@@ -57,6 +61,13 @@ It contains all the digital parts of the research project (code, data, text, fig
 The computing environment is described in the `Dockerfile`, the dependencies of files and how to automatically generate the results are described in the `Makefile`.
 Additionally we have a `README.md` describing what the compendium is about and a `LICENSE` file with info on how it can be used.
 
+In a research compendium we distinguish between three types of files and folders:
+
+- **Read-only**: raw data (`data_raw\`), metadata (`datapackage.json`, `CITATION`)
+- **Human-generated**: code (`clean_data.R`, `analyse_data.R`), paper (`paper.Rmd`), documentation (`README.md`)
+- **Project-generated**: clean data (`data_clean\`, figures (`figures\`), other output
+
+The examples mentioned here are not exhaustive and some may first be "human-generated" and at some point become "read-only" (for example a human my generate the data meatadata `datapackage.json`, but once that is done it may become something not to be touched).
 
 ### Creating a research compendium
 
