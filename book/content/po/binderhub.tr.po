@@ -1,0 +1,543 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: content\n"
+"Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
+"POT-Creation-Date: 2020-02-05 19:08:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: binderhub/binderhub.md:1
+# header
+msgid "# BinderHub"
+msgstr ""
+
+#: binderhub/binderhub.md:3
+# header
+msgid "## Prerequisites / recommended skill level"
+msgstr ""
+
+#: binderhub/binderhub.md:5
+msgid "| Prerequisite | Importance | Notes |"
+msgstr ""
+
+#: binderhub/binderhub.md:6
+msgid "|---|---|---|"
+msgstr ""
+
+#: binderhub/binderhub.md:7
+msgid "| [Version Control](/version_control/version_control) | Very Important | |"
+msgstr ""
+
+#: binderhub/binderhub.md:8
+msgid "| [Reproducible Environments](/reproducible_environments/reproducible_environments) | Very Important | Particularly read the section on [Binder](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Binder_section). |"
+msgstr ""
+
+#: binderhub/binderhub.md:10
+# header
+msgid "## Table of Contents"
+msgstr ""
+
+#: binderhub/binderhub.md:12
+# unordered list
+msgid "- [Summary](#summary)"
+msgstr ""
+
+#: binderhub/binderhub.md:13
+# unordered list
+msgid "- [How this will help you/ why this is useful](#how-this-will-help-you-why-this-is-useful)"
+msgstr ""
+
+#: binderhub/binderhub.md:14
+# unordered list
+msgid "- [What is BinderHub and why is it good for Reproducibility?](#what-is-binderhub-and-why-is-it-good-for-reproducibility)"
+msgstr ""
+
+#: binderhub/binderhub.md:15
+# unordered list
+msgid "- [How does a BinderHub work?](#how-does-a-binderhub-work)"
+msgstr ""
+
+#: binderhub/binderhub.md:16
+# unordered list
+msgid "  - [Compute Resources](#compute-resources)"
+msgstr ""
+
+#: binderhub/binderhub.md:17
+# unordered list
+msgid "  - [Kubernetes](#kubernetes)"
+msgstr ""
+
+#: binderhub/binderhub.md:18
+# unordered list
+msgid "  - [Helm](#helm)"
+msgstr ""
+
+#: binderhub/binderhub.md:19
+# unordered list
+msgid "  - [JupyterHub](#jupyterhub)"
+msgstr ""
+
+#: binderhub/binderhub.md:20
+# unordered list
+msgid "  - [repo2docker](#repo2docker)"
+msgstr ""
+
+#: binderhub/binderhub.md:21
+# unordered list
+msgid "  - [What happens when a Binder link is clicked?](#what-happens-when-a-binder-link-is-clicked)"
+msgstr ""
+
+#: binderhub/binderhub.md:22
+# unordered list
+msgid "- [Why would you build your own BinderHub?](#why-would-you-build-your-own-binderhub)"
+msgstr ""
+
+#: binderhub/binderhub.md:23
+# unordered list
+msgid "  - [Issues you may face when deploying a BinderHub](#issues-you-may-face-when-deploying-a-binderhub)"
+msgstr ""
+
+#: binderhub/binderhub.md:24
+# unordered list
+msgid "- [Further reading](#further-reading)"
+msgstr ""
+
+#: binderhub/binderhub.md:25
+# unordered list
+msgid "- [Definitions/glossary](#definitionsglossary)"
+msgstr ""
+
+#: binderhub/binderhub.md:26
+# unordered list
+msgid "- [Bibliography](#bibliography)"
+msgstr ""
+
+#: binderhub/binderhub.md:28
+# header
+msgid "## Summary"
+msgstr ""
+
+#: binderhub/binderhub.md:30
+msgid "This chapter will discuss [BinderHub](https://binderhub.readthedocs.io/en/latest/index.html), which is the cloud technology powering [Binder](https://mybinder.readthedocs.io/en/latest/)."
+msgstr ""
+
+#: binderhub/binderhub.md:31
+msgid "We will cover the technologies and tools that BinderHub utilises and the resources you will need to setup your own BinderHub."
+msgstr ""
+
+#: binderhub/binderhub.md:33
+msgid "This chapter is primarily aimed at Research Software Engineers and IT Services who wish to provide a BinderHub as a service to a group of researchers."
+msgstr ""
+
+#: binderhub/binderhub.md:34
+msgid "Though anyone can build a BinderHub."
+msgstr ""
+
+#: binderhub/binderhub.md:36
+# header
+msgid "## How this will help you/ why this is useful"
+msgstr ""
+
+#: binderhub/binderhub.md:38
+msgid "Reading this chapter will give you a clearer picture of how Binder services (such as [mybinder.org](https://mybinder.org)) operate, the technologies powering BinderHub and how they interact with one another."
+msgstr ""
+
+#: binderhub/binderhub.md:39
+msgid "This chapter also covers reasons why you might build your own BinderHub, rather than using the public service at mybinder.org."
+msgstr ""
+
+#: binderhub/binderhub.md:41
+# header
+msgid "## What is BinderHub and why is it good for Reproducibility?"
+msgstr ""
+
+#: binderhub/binderhub.md:43
+msgid "[BinderHub](https://binderhub.readthedocs.io/en/latest/index.html) is a cloud-based technology that can launch a repository of code (from GitHub, GitLab, and others) in a browser window such that the code can be executed and interacted with."
+msgstr ""
+
+#: binderhub/binderhub.md:44
+msgid "A unique URL is generated allowing the interactive code to be easily shared."
+msgstr ""
+
+#: binderhub/binderhub.md:46
+msgid "The purpose of these Binder instances is to promote reproducibility in research projects by encouraging researchers to document their software dependencies and produce fun, interactive environments!"
+msgstr ""
+
+#: binderhub/binderhub.md:48
+msgid "Binder, as a user interface, is useful for reproducibility because the code needs to be version controlled and the computational environment needs to be documented in order to benefit from the functionality of Binder."
+msgstr ""
+
+#: binderhub/binderhub.md:49
+msgid "Each change to the code repository also forces a new build of the Binder instance."
+msgstr ""
+
+#: binderhub/binderhub.md:50
+msgid "This acts as a proxy for continuous integration of the computational environment as the Binder instance will break if the configuration file is not updated."
+msgstr ""
+
+#: binderhub/binderhub.md:52
+msgid "Learn more about Continuous Integration in [this chapter](/continuous_integration/continuous_integration)."
+msgstr ""
+
+#: binderhub/binderhub.md:54
+# header
+msgid "## How does a BinderHub work?"
+msgstr ""
+
+#: binderhub/binderhub.md:56
+msgid "BinderHub relies on different tools and resources in order to create and launch the Binder instances."
+msgstr ""
+
+#: binderhub/binderhub.md:58
+msgid "For more information, see this [high-level explanation of the BinderHub architecture](https://binderhub.readthedocs.io/en/latest/overview.html)."
+msgstr ""
+
+#: binderhub/binderhub.md:60
+msgid "| ![/figures/cloud_neutral_binderhub.png](https://zenodo.org/api/iiif/v2/e4125eaf-b456-4097-85fc-6a2e80482d1c:96c70193-2f9e-442d-8cf8-21485d8864e1:1728_TURI_Book%20sprint_45%20repo2docker_040619_v2_MK.jpg/full/750,/0/default.jpg) |"
+msgstr ""
+
+#: binderhub/binderhub.md:61
+msgid "|:---:|"
+msgstr ""
+
+#: binderhub/binderhub.md:62
+msgid "| A representation of the BinderHub architecture. This image was created by [Scriberia](http://www.scriberia.co.uk/) for The Turing Way community and is used under a CC-BY licence. |"
+msgstr ""
+
+#: binderhub/binderhub.md:64
+# header
+msgid "### Compute Resources"
+msgstr ""
+
+#: binderhub/binderhub.md:66
+msgid "BinderHub is cloud-neutral which means it can be deployed on any cloud platform."
+msgstr ""
+
+#: binderhub/binderhub.md:67
+msgid "Therefore, the minimum requirement is a subscription to a cloud platform of your choosing."
+msgstr ""
+
+#: binderhub/binderhub.md:69
+msgid "In fact, BinderHub is not dependent on cloud-hosting at all and can be deployed onto an on-premise computing system."
+msgstr ""
+
+#: binderhub/binderhub.md:71
+# header
+msgid "### Kubernetes"
+msgstr ""
+
+#: binderhub/binderhub.md:73
+msgid "[Kubernetes](https://kubernetes.io/) is a system for automating deployment, scaling (making more or fewer copies), and management of containers across a compute cluster (it doesn't have to be cloud-based)."
+msgstr ""
+
+#: binderhub/binderhub.md:74
+msgid "BinderHub uses Kubernetes to manage the resources requested by the users of the Binder service, and to support the tools that build the environments."
+msgstr ""
+
+#: binderhub/binderhub.md:76
+# header
+msgid "### Helm"
+msgstr ""
+
+#: binderhub/binderhub.md:78
+msgid "[Helm](https://helm.sh/) is a package manager for Kubernetes."
+msgstr ""
+
+#: binderhub/binderhub.md:79
+msgid "Packages come in the form of *Charts* which are a set of instructions to deploy, upgrade and manage applications running on a Kubernetes cluster."
+msgstr ""
+
+#: binderhub/binderhub.md:80
+msgid "They can make installing and managing Kubernetes applications much easier and specific Charts for projects can be published online."
+msgstr ""
+
+#: binderhub/binderhub.md:81
+msgid "For example, the Helm Chart for BinderHub is available [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub)."
+msgstr ""
+
+#: binderhub/binderhub.md:83
+# header
+msgid "### JupyterHub"
+msgstr ""
+
+#: binderhub/binderhub.md:85
+msgid "[JupyterHub](https://jupyter.org/hub) is a multi-user server for Jupyter Notebooks and containers alike."
+msgstr ""
+
+#: binderhub/binderhub.md:86
+msgid "In the context of Binder, the JupyterHub's main role is to connect the user's browser to the BinderHub instance running on the Kubernetes cluster."
+msgstr ""
+
+#: binderhub/binderhub.md:87
+msgid "However, the JupyterHub can be further customised to provide greater control over the operation of the BinderHub."
+msgstr ""
+
+#: binderhub/binderhub.md:89
+# header
+msgid "### repo2docker"
+msgstr ""
+
+#: binderhub/binderhub.md:91
+msgid "[repo2docker](https://repo2docker.readthedocs.io/en/latest/?badge=latest) is a tool that automatically builds a Docker image from a code repository given a configuration file."
+msgstr ""
+
+#: binderhub/binderhub.md:92
+msgid "This Docker image will contain all of the code, data and resources that are listed in the repository."
+msgstr ""
+
+#: binderhub/binderhub.md:93
+msgid "All the software required to run the code will also be preinstalled from the configuration file."
+msgstr ""
+
+#: binderhub/binderhub.md:95
+msgid "BinderHub can be thought of as thin layer that sits on top of repo2docker and JupyterHub, orchestrating their interactions and resolving URLs."
+msgstr ""
+
+#: binderhub/binderhub.md:97
+# header
+msgid "### What happens when a Binder link is clicked?"
+msgstr ""
+
+#: binderhub/binderhub.md:99
+# ordered list
+msgid "1. The link to the repository is resolved by BinderHub."
+msgstr ""
+
+#: binderhub/binderhub.md:100
+# ordered list
+msgid "2. BinderHub searches for a Docker image relating to the provided reference (for example, git commit hash, branch or tag)."
+msgstr ""
+
+#: binderhub/binderhub.md:101
+# ordered list
+msgid "3. **If a Docker image is not found**, BinderHub requests resources from the Kubernetes cluster to run repo2docker to do the following:"
+msgstr ""
+
+#: binderhub/binderhub.md:102
+# unordered list
+msgid "   - Fetch the repository,"
+msgstr ""
+
+#: binderhub/binderhub.md:103
+# unordered list
+msgid "   - Build a Docker image containing the software requested in the configuration file,"
+msgstr ""
+
+#: binderhub/binderhub.md:104
+# unordered list
+msgid "   - Push that image to the Docker registry."
+msgstr ""
+
+#: binderhub/binderhub.md:105
+# ordered list
+msgid "4. BinderHub sends the Docker image to JupyterHub."
+msgstr ""
+
+#: binderhub/binderhub.md:106
+# ordered list
+msgid "5. JupyterHub requests resources from the Kubernetes cluster to serve the Docker image."
+msgstr ""
+
+#: binderhub/binderhub.md:107
+# ordered list
+msgid "6. JupyterHub connects the user's browser to the running Docker environment."
+msgstr ""
+
+#: binderhub/binderhub.md:108
+# ordered list
+msgid "7. JupyterHub monitors the container for activity and destroys it after a period of inactivity."
+msgstr ""
+
+#: binderhub/binderhub.md:110
+# header
+msgid "## Why would you build your own BinderHub?"
+msgstr ""
+
+#: binderhub/binderhub.md:112
+msgid "[mybinder.org](https://mybinder.org/) is the free, public BinderHub that hosts almost 100k Binder launches per week."
+msgstr ""
+
+#: binderhub/binderhub.md:113
+msgid "Why might you want to build your own?"
+msgstr ""
+
+#: binderhub/binderhub.md:115
+msgid "Binder is an open source project maintained by volunteers and as such they ask that users stay within certain computational limitations in order to keep running costs as low as possible whilst still providing a usable service."
+msgstr ""
+
+#: binderhub/binderhub.md:116
+msgid "By hosting your own BinderHub, you can offer your users much more flexible and tailored resources."
+msgstr ""
+
+#: binderhub/binderhub.md:118
+msgid "These customisations could include:"
+msgstr ""
+
+#: binderhub/binderhub.md:120
+# unordered list
+msgid "- authentication,"
+msgstr ""
+
+#: binderhub/binderhub.md:121
+# unordered list
+msgid "- greater computational resources per user,"
+msgstr ""
+
+#: binderhub/binderhub.md:122
+# unordered list
+msgid "- bespoke library stacks and packages,"
+msgstr ""
+
+#: binderhub/binderhub.md:123
+# unordered list
+msgid "- allowing access to private repos,"
+msgstr ""
+
+#: binderhub/binderhub.md:124
+# unordered list
+msgid "- persistent storage for users,"
+msgstr ""
+
+#: binderhub/binderhub.md:125
+# unordered list
+msgid "- restrict sharing within a certain institution or team."
+msgstr ""
+
+#: binderhub/binderhub.md:127
+# header
+msgid "### Issues you may face when deploying a BinderHub"
+msgstr ""
+
+#: binderhub/binderhub.md:129
+msgid "BinderHubs are becoming increasingly popular amongst universities and research institutes."
+msgstr ""
+
+#: binderhub/binderhub.md:130
+msgid "This is because they can facilitate multiple instances of the same set of notebooks for use in a tutorial or workshop setting."
+msgstr ""
+
+#: binderhub/binderhub.md:132
+msgid "If you are deploying a cloud-hosted BinderHub on behalf of your organisation, you may need specific permissions on your organisation's cloud platform subscription."
+msgstr ""
+
+#: binderhub/binderhub.md:133
+msgid "Which permissions you require will vary based on the cloud platform you have access to and your IT Services policies."
+msgstr ""
+
+#: binderhub/binderhub.md:134
+msgid "At minimum, you'll need to be able to assign [Role Based Access Control (RBAC)](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview) to your resources so they can act autonomously in order to manage user traffic."
+msgstr ""
+
+#: binderhub/binderhub.md:136
+# header
+msgid "## Further reading"
+msgstr ""
+
+#: binderhub/binderhub.md:138
+# unordered list
+msgid "- [Binder documentation](https://mybinder.readthedocs.io/en/latest/)"
+msgstr ""
+
+#: binderhub/binderhub.md:139
+# unordered list
+msgid "- [BinderHub documentation](https://binderhub.readthedocs.io/en/latest/index.html)"
+msgstr ""
+
+#: binderhub/binderhub.md:140
+# unordered list
+msgid "- [Zero-to-JupyterHub with Kubernetes documentation](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html)"
+msgstr ""
+
+#: binderhub/binderhub.md:141
+# unordered list
+msgid "- [JupyterHub documentation](https://jupyterhub.readthedocs.io/en/stable/)"
+msgstr ""
+
+#: binderhub/binderhub.md:142
+# unordered list
+msgid "- [_The Turing Way_ Build a BinderHub Workshop](http://bit.ly/zero-to-binderhub-workshop)"
+msgstr ""
+
+#: binderhub/binderhub.md:144
+# header
+msgid "## Definitions/glossary"
+msgstr ""
+
+#: binderhub/binderhub.md:146
+msgid "| | |"
+msgstr ""
+
+#: binderhub/binderhub.md:147
+msgid "|:---|:---|"
+msgstr ""
+
+#: binderhub/binderhub.md:148
+msgid "| Docker image | A machine-readable set of instructions to create a specified computational environment.|"
+msgstr ""
+
+#: binderhub/binderhub.md:149
+msgid "| Docker container | An active computational environment executed from a Docker image. |"
+msgstr ""
+
+#: binderhub/binderhub.md:150
+msgid "| Docker registry | A storage and distribution system for named Docker images. The registry allows Docker users to pull images locally, as well as push new images to the registry (given adequate access permissions when applicable). Such systems are often hosted in the cloud for ease of access. |"
+msgstr ""
+
+#: binderhub/binderhub.md:151
+msgid "| BinderHub | Technology for hosting reproducible computational environments. |"
+msgstr ""
+
+#: binderhub/binderhub.md:152
+msgid "| Binder | The user-facing service of a BinderHub. |"
+msgstr ""
+
+#: binderhub/binderhub.md:153
+msgid "| Kubernetes | Autonomous computational cluster manager. |"
+msgstr ""
+
+#: binderhub/binderhub.md:154
+msgid "| Helm | A package manager for Kubernetes applications. |"
+msgstr ""
+
+#: binderhub/binderhub.md:155
+msgid "| JupyterHub | A multi-user server for Jupyter Notebook instances. |"
+msgstr ""
+
+#: binderhub/binderhub.md:156
+msgid "| repo2docker | A tool to build Docker images from code repositories. |"
+msgstr ""
+
+#: binderhub/binderhub.md:158
+# header
+msgid "## Bibliography"
+msgstr ""
+
+#: binderhub/binderhub.md:160
+# unordered list
+msgid "- **Kubernetes documentation**: [https://kubernetes.io/](https://kubernetes.io/)"
+msgstr ""
+
+#: binderhub/binderhub.md:161
+# unordered list
+msgid "- **Helm documentation**: [https://helm.sh/](https://helm.sh/)"
+msgstr ""
+
+#: binderhub/binderhub.md:162
+# unordered list
+msgid "- **repo2docker**: [https://repo2docker.readthedocs.io/en/latest/?badge=latest](https://repo2docker.readthedocs.io/en/latest/?badge=latest)"
+msgstr ""
+
+#: binderhub/binderhub.md:163
+# unordered list
+msgid "- **Microsoft Azure documentation on Role Based Access Control**: [https://docs.microsoft.com/en-us/azure/role-based-access-control/overview](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)"
+msgstr ""
+
