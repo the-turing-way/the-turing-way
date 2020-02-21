@@ -26,7 +26,7 @@ Additional steps depend on the goal of the software (zero or more can apply):
 ## I'm publishing a paper
 
 * [Make your software citable](/software_checklist/01/making_software_citable)
-* [???] Add a [CITATION.cff file](documentation.html#software-citation)
+* Add a CITATION.cff file (see the "[Further reading](#further-reading)" section at the end of the chapter)
 * Cite DOI in paper (see the "[Further reading](#further-reading)" section at the end of the chapter)
 
 
@@ -41,7 +41,7 @@ Additional steps depend on the goal of the software (zero or more can apply):
 ## I'm expecting contributors
 
 * [WIP] Provide [development documentation](/software_documentation/02/code_documentation)
-* [WIP] Provide a [means of communication](communication.html#discussion-list)
+* Provide a means of communication: i.e. use Github issues, mailing list, not private email
 * Implement and add a [code of conduct](/collaborating_github/3/getting_contributors#code-of-conduct)
 * Add a [contribution guideline](/collaborating_github/3/getting_contributors#code-of-conduct)
 
@@ -51,3 +51,5 @@ Additional steps depend on the goal of the software (zero or more can apply):
 ](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 - [2. Four simple recommendations to encourage best practices in research software](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5490478/)
 - [3. Software citation principles](https://www.force11.org/software-citation-principles)
+- [4. Citation file format homepage](https://citation-file-format.github.io)
+- [5. A standard format for CITATION files](https://software.ac.uk/blog/2017-12-12-standard-format-citation-files)
