@@ -35,7 +35,7 @@ To make some sense of this variety, we can categorize them as follows.
 
 ## Free software
 
-The main distinction among software licenses is that of Free software versus proprietary software. Free software is software with license terms that give you ([Stallman, 1986](https://www.gnu.org/philosophy/free-sw.html))
+The main distinction among software licenses is that of Free software versus proprietary software. Free software is software with license terms that give you ([as defined by GNU](https://www.gnu.org/philosophy/free-sw.html))
 
 0. The freedom to run the program as you wish, for any purpose (freedom 0).
 1. The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
