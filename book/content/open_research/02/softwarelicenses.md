@@ -159,7 +159,7 @@ xtas itself is written in Python, and it uses a number of Python libraries that 
 
 (Note that the dependency on the GPLv2+ Python library has now been removed, but for the sake of these examples we will assume it to still be there.)
 
-xtas' own Python code is distributed by us under the Apache License version 2.0. Since the xtas authors own the copyright, they can license it any way they like (although there's a gray area with respect to GPL dependencies, see below). The xtas authors do not distribute any combined works or binaries, but in the examples below we'll assume that there is a combined work, so that we can consider how it should be licensed.
+xtas' own Python code is distributed by the authors under the Apache License version 2.0. Since the xtas authors own the copyright, they can license it any way they like (although there's a gray area with respect to GPL dependencies, see below). The xtas authors do not distribute any combined works or binaries, but in the examples below we'll assume that there is a combined work, so that we can consider how it should be licensed.
 
 In the following examples, we'll simplify most of this away, and look at one or a few dependencies in turn.
 
