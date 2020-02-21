@@ -1,5 +1,5 @@
 # Give your test a name!
-name: lorem-ipsums
+name: LoremIpsums
 
 # Decide when to run the tests
 #
@@ -15,21 +15,20 @@ on:
 
 # Set up the Continuous Integration job
 jobs:
-  lorem-ipsums:
-    runs-on: ubuntu-latest  # Run on the latest Ubuntu distribution
-
+  loremipsums:
+    # Run on the latest Ubuntu distribution
+    runs-on: ubuntu-latest
     # This section collects together the steps involved in running the test
     steps:
-      # Checkout the repository. Relies on another GH-Action.
-      - name: Checkout the repository
-        uses: actions/checkout@v2
-      # Set up the Python version. Relies on another GH-Action.
-      - name: Set up Python 3.7
-        uses: actions/setup-python@v1
-        with:
-          python-version: 3.7
-      # Run a Python script
-      - name: Check book content files for rogue "Lorem "Lorem ipsums"
-        working-directory: ./tests
-        run: |
-          python lorem-ipsums.py
+    # Checkout the repository. Relies on another GH-Action.
+    - uses: actions/checkout@v2
+    # Set up the Python version. Relies on another GH-Action.
+    - name: Setup Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    # Run a Python script
+    - name: Run Python script to check for rogue "Lorem ipsums"
+      working-directory: ./tests
+      run: |
+        python lorem-ipsums.py
