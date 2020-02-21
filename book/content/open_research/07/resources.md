@@ -4,78 +4,65 @@
 
 - [ ] Ensure your data is in a simple, standard format or formats which is machine and human readable.
 - [ ] Check, reformat or create metadata to clearly describe what the data is, how it was collected, and any associated strengths/weaknesses to someone that finds it.
-- [ ] Identify a relevant, easily discoverable repository or repositories to host your data, and upload it there
+- [ ] Identify a relevant, easily discoverable repository or repositories to host your data, and upload it there.
 - [ ] Assign your data a persistent identifier such as a DOI.
 
 ### Open source software
 
-- [ ] Put your code in a freely accessible repository
+- [ ] Put your code in a freely accessible repository.
 - [ ] Include a licence granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate licence for your project.
 - [ ] Include a readme file containing useful information about a project such as what it is, how to use/install it and how to run any tests.
 - [ ] If you want others to collaborate on the project include contribution guidelines.
 
 ### Open hardware
 
-- [ ] Use open hardware where practical
-- [ ] Make detailed documentation and designs for any hardware you develop openly available
+- [ ] Use open hardware where practical.
+- [ ] Make detailed documentation and designs for any hardware you develop openly available.
 - [ ] Include a licence granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate licence for your project.
-- [ ] Include a readme file containing useful information about a project such as what it is, materials used, etc.
+- [ ] Include a readme file containing useful information about a project (for example, what it is and the materials used).
 
 ### Open access
 
-- [ ] Publish your research in an open access journal
-- [ ] Store a copy and/or preprint of your work in a freely accessible public repository
+- [ ] Publish your research in an open access journal.
+- [ ] Store a copy and/or preprint of your work in a freely accessible public repository.
 
 ### Open notebooks
 
-- [ ] Keep notes in an Electronic Lab Notebook
+- [ ] Keep notes in an Electronic Lab Notebook.
 - [ ] Make your notebooks publicly accessible online.
 
 ## What to learn next
 
-If you haven't had a chance already, take a look at the chapter on version control, particularly the sections on GitHub in the latter half.
+If you haven't had a chance already, take a look at the chapter on [version control](/version_control/version_control), particularly the sections on GitHub in the latter half.
 
 ## Further reading
 
-[This](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) book on open science has a great deal of interesting information. For information specific to open source software [this](https://opensource.guide/) is a good place to look. For more information on DOIs and citing resources look [here](http://www.doi.org/index.html). If you want to take a look at an active open source project this textbook *is* one. The source can be found on GitHub [here](https://github.com/alan-turing-institute/the-turing-way) and for further details related to this project you can take a look at the project [website](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science).
+[This](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) book on open science has a great deal of interesting information.
+For information specific to open source software [this](https://opensource.guide/) is a good place to look.
+For more information on DOIs and citing resources look [here](http://www.doi.org/index.html).
+If you want to take a look at an active open source project this textbook *is* one.
+The source can be found on GitHub [here](https://github.com/alan-turing-institute/the-turing-way) and for further details related to this project you can take a look at the project [website](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science).
 
 ## Definitions/glossary
 
-**Citizen science:** The involvement of members of the public in scientific research.
-
-**Contributing guidelines:** Guidelines outlining how a person should go about contributing to an open source project.
-
-**Contributor:** Someone that has contributed something (not necessarily code) to an open source project.
-
-**DOI:** A widely used type of persistent identifier.
-
-**GitHub:** An online code hosting and version control service. It has a great many features to aid collaboration between users, and hosts a large number of open source projects.
-
-**Maintainer:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. They may also be authors and/or owners of the project.
-
-**Metadata:** Data used to describe other data. For example (35, 33, 27, 30, 33) is data but the units (miles per hour) and the fact these are the speeds of cars on a certain stretch of road is metadata.
-
-**Open access publishing (gratis):** The practice of making research publications available to anyone to read without charge.
-
-**Open access publishing (libre):** Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users the right to copy, reuse, and remix the publication.
-
-**Open data:** Data that is freely available online for reuse without bureaucratic or administrative barriers.
-
-**Open educational resource:** Educational materials available online for anybody to use, remix and distribute.
-
-**Open notebook:** The practise of making research notebooks openly available.
-
-**Open source software:** Software which is available online for anybody to view, use, modify, and distribute.
-
-**Open source hardware:** Hardware with documentation, designs, materials used, and other relevant information freely accessible and available
-
-**Persistent identifier:** A long-lived method for identifying a resource that is unique, and widely understandable by a community.
-
-**Readme:** A file which contains useful information about a project such as what it is, how to use/install it, how to test it, and how to contribute to it.
-
-**Repository:** A long-lived place on the internet where resources (be they data, software, publications or anything else) can be stored and accessed.
-
-**Self-archive:** To place your research output in a repository.
+- **Citizen science:** The involvement of members of the public in scientific research.
+- **Contributing guidelines:** Guidelines outlining how a person should go about contributing to an open source project.
+- **Contributor:** Someone that has contributed something (not necessarily code) to an open source project.
+- **DOI:** A widely used type of persistent identifier.
+- **GitHub:** An online code hosting and version control service. It has a great many features to aid collaboration between users, and hosts a large number of open source projects.
+- **Maintainer:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. They may also be authors and/or owners of the project.
+- **Metadata:** Data used to describe other data. For example (35, 33, 27, 30, 33) is data but the units (miles per hour) and the fact these are the speeds of cars on a certain stretch of road is metadata.
+- **Open access publishing (gratis):** The practice of making research publications available to anyone to read without charge.
+- **Open access publishing (libre):** Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users the right to copy, reuse, and remix the publication.
+- **Open data:** Data that is freely available online for reuse without bureaucratic or administrative barriers.
+- **Open educational resource:** Educational materials available online for anybody to use, remix and distribute.
+- **Open notebook:** The practise of making research notebooks openly available.
+- **Open source software:** Software which is available online for anybody to view, use, modify, and distribute.
+- **Open source hardware:** Hardware with documentation, designs, materials used, and other relevant information freely accessible and available
+- **Persistent identifier:** A long-lived method for identifying a resource that is unique, and widely understandable by a community.
+- **Readme:** A file which contains useful information about a project such as what it is, how to use/install it, how to test it, and how to contribute to it.
+- **Repository:** A long-lived place on the internet where resources (be they data, software, publications or anything else) can be stored and accessed.
+- **Self-archive:** To place your research output in a repository.
 
 ## Bibliography
 - [1.](https://www.fosteropenscience.eu/content/what-open-science-introduction) **CC-BY 4.0**

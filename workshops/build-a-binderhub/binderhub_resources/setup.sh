@@ -1,8 +1,6 @@
 #!/bin/bash
 
 # Variables
-res_grp=testhub     # Azure Resource Group
-cluster=hubcluster  # AKS cluster name
 prefix=binder-dev   # Docker image prefix
 #jupyter_ip=   # Fill in the IP Address of your JupyterHub here
 
@@ -25,8 +23,8 @@ sed -e "s/<apiToken>/$(cat secrets/apiToken.txt)/" \
 # Populate config.yaml
 sed -e "s/<docker>/${docker_id}/" \
   -e "s/<prefix>/${prefix}/" \
-#  -e "s/<jupyter-ip>/${jupyter_ip}/" \
   config-template.yaml > secrets/config.yaml
+#  -e "s/<jupyter-ip>/${jupyter_ip}/" \
 
 # End script with some outputs
 echo Your BinderHub files have been configured!
