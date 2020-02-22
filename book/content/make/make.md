@@ -24,6 +24,7 @@ Recommended skill level: intermediate
   - [Makefile no. 5 (Wildcards and Path Substitution)](#makefile-no-5-wildcards-and-path-substitution)
   - [Debugging Makefiles](#debugging-makefiles)
 - [A Real Reproducible Paper using Make](#a-real-reproducible-paper-using-make)
+- [Including numerical results and tables](#including-numerical-results-and-tables)
 - [Further Reading](#further-reading)
   - [Manual](#manual)
   - [Discussions](#discussions)
