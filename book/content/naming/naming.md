@@ -85,7 +85,7 @@ Check out our chapter on [research compendia](research_compendia/research_compen
 
 ## Further reading
 
-The ideas for this chapter are taken from Jenny Brian's slide deck on [naming things](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf).
+The ideas for this chapter are taken from Jenny Brian's slide deck on [naming things](https://speakerdeck.com/jennybc/how-to-name-files).
 
 
 
