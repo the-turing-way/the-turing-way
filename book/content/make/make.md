@@ -72,6 +72,7 @@ There are several reasons why Make is a good tool to use for reproducibility:
 
 1. Make is easy to learn
 1. Make is available on many platforms
+1. Make is flexible
 1. Many people are already familiar with Make
 1. Makefiles reduce cognitive load because as long as the common Make targets 
    ``all`` and ``clean`` are present (explained below), you can be up and 
@@ -85,6 +86,15 @@ There are several reasons why Make is a good tool to use for reproducibility:
 1. Because Makefiles are text files they are easy to share and keep in version 
    control.
 1. Using Make doesn't exclude using other tools such as Travis and Docker.
+
+With a clever Makefile, you can share a complete analysis (code, data, and
+computational workflows) and let collaborators or the readers of your paper
+recompute your results.
+By using tools such as LaTeX, you can even generate a complete manuscript that
+includes freshly computed figures and results!
+This can increase the trust in the research output that you generate, it can
+make your research more accessible, and it can make collaborating easier.
+This chapter can show you how to get started:
 
 ## Learn Make by Example
 
