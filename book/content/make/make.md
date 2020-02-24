@@ -715,7 +715,7 @@ After the results are computed, they are written out in the form of a LaTeX
 table.
 Here is how one of these tables looks like right after it was computed:
 
-```
+```latex
 \begin{tabular}{lrrr|rrrr}
 Property & HypoParsr & Sniffer & Suitability & Pattern & Type & No Tie & Full\\
 \hline
@@ -730,7 +730,7 @@ To include this table into your manuscript, you can use LaTeX's `\input{}`
 function. If the file with the table is called `mytable.tex`, this command
 can insert it into your manuscript:
 
-```
+```latex
 \begin{table}
 \input{mytable}
 \end{table}
@@ -743,7 +743,7 @@ The results you compute are associated with the variables, and once your
 manuscript is compiled, variables are exchanged for real numerical results.
 Here is how such a table looks like in your manuscript:
 
-```
+```latex
 \begin{table}
     \begin{tabular*}{ccc}
         \textbf{Variable} & \textbf{Mean}   & \textbf{Std. deviation} \
@@ -760,7 +760,7 @@ How is this done?
 Have your script print the results you compute within a `\newcommand{}{}`
 definition into a file, for example like this (simplified Python example):
 
-```
+```python
 # this loops to data vectors of two variables (data1, data2), compute the
 # mean and standard deviation, and print the results together with the
 # variable name ('var1', 'var2')
@@ -781,7 +781,7 @@ You can capture the definitions and write them to a file using redirection with
 `>`.
 In this example, we write it to a file called `results_def.tex`
 
-```
+```makefile
 results_def.tex: code/make_summary_stats.py
     python code/make_summary_stats.py > results_def.tex
 ```
@@ -798,7 +798,7 @@ during the execution of your script.
 Finally, use the `input{}` command to include the new variables in your
 manuscript and the variables in the tables:
 
-```
+```latex
 \begin{document}
 \input{results_def.tex}
 ```
