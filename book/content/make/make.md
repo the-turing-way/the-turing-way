@@ -95,7 +95,7 @@ By using tools such as LaTeX, you can even generate a complete manuscript that
 includes freshly computed figures and results!
 This can increase the trust in the research output that you generate, it can
 make your research more accessible, and it can make collaborating easier.
-This chapter can show you how to get started:
+This chapter can show you how to get started.
 
 ## Learn Make by Example
 
@@ -736,7 +736,7 @@ can insert it into your manuscript:
 \end{table}
 ```
 
-An alternative is to make use of variables:
+An alternative is to make use of variables.
 Instead of creating a table in a separate file, you can write a table skeleton
 and populate it with variables.
 The results you compute are associated with the variables, and once your
