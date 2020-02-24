@@ -777,15 +777,23 @@ Note that this example uses Python, but you can use any language or method you
 are familiar with to print definitions like this.
 With this definition, LaTeX exchanges the table cell with `\var1mean` with the
 numeric result from the computation.
-You can capture the definitions and write them to a file with a little help of
-Make and the [tee](https://en.wikipedia.org/wiki/Tee_(command)) command that can
-write output your script prints into a file.
+You can capture the definitions and write them to a file using redirection with
+`>`.
 In this example, we write it to a file called `results_def.tex`
 
 ```
 results_def.tex: code/make_summary_stats.py
-    python code/make_summary_stats.py | tee results_def.tex'
+    python code/make_summary_stats.py > results_def.tex
 ```
+
+As an alternative to `>`, you could also redirect the results using the Unix
+[pipe](https://en.wikipedia.org/wiki/Pipeline_(Unix)) and the
+[tee](https://en.wikipedia.org/wiki/Tee_(command)) command
+(`python code/make_summary_stats.py | tee results_def.tex`).
+This will not only redirect the output of the script to a file, but also print
+them into your terminal.
+This helpful trick can help you observe whether everything works as expected
+during the execution of your script.
 
 Finally, use the `input{}` command to include the new variables in your
 manuscript and the variables in the tables:
