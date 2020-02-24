@@ -724,6 +724,7 @@ Quotechar & 82.90 & 92.36 & 44.60 & 95.23 & 90.10 & 93.80 & \textbf{97.36}\\
 Escapechar & 87.96 & 94.37 & 74.85 & 97.95 & 96.26 & 95.44 & \textbf{99.25}\\
 Overall & 80.60 & 85.45 & 38.19 & 90.99 & 83.61 & 90.61 & \textbf{93.75}\\
 \hline
+\end{tabular}
 ```
 
 To include this table into your manuscript, you can use LaTeX's `\input{}`
@@ -783,7 +784,7 @@ In this example, we write it to a file called `results_def.tex`
 
 ```makefile
 results_def.tex: code/make_summary_stats.py
-    python code/make_summary_stats.py > results_def.tex
+	python code/make_summary_stats.py > results_def.tex
 ```
 
 As an alternative to `>`, you could also redirect the results using the Unix
