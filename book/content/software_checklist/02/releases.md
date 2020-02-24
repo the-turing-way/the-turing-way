@@ -1,6 +1,6 @@
 ## Release
 
-Releases are a way to mark or point to a particular milestone in software development. This is useful for users and collaborators, e.g. I found a bug running version x. For publications that refer to software, refering to a specific release enhances the reproducability. 
+Releases are a way to mark or point to a particular milestone in software development. This is useful for users and collaborators, e.g. I found a bug running version x. For publications that refer to software, refering to a specific release enhances the reproducability.
 
 [Apache foundation](http://www.apache.org/) describes their [release policy](http://www.apache.org/dev/release.html).
 
@@ -16,7 +16,7 @@ A version number consists of three numbers: major, minor, and patch, separated b
 After some changes to the code, you would do a new release, and increment the version number.
 Increment the:
 * MAJOR version when you make incompatible API changes,
-* MINOR version when you add functionality in a backwards-compatible manner, and
+* MINOR version when you add functionality in a backwards-compatible manner.
 * PATCH version when you make backwards-compatible bug fixes.
 
 Very often package managers depend on `semver` and will not work as expected otherwise.
@@ -43,14 +43,14 @@ The use of a proper build system is strongly recommended.
 ### Package in package manager
 
 If your software is useful for a wider audience, create a package that can be installed with a package manager. Package managers can also be used to install dependencies quickly and easily.
-* For Python use [pip](https://pypi.python.org/pypi/pip)
-* For Javascript use [npm](https://www.npmjs.com/package/npm)
-* C, C++, Fortran, ... use packages from your distributions official repository. List your actual dependencies in the *INSTALL.md* or *README.md*
+* For Python use [pip](https://pypi.python.org/pypi/pip).
+* For Javascript use [npm](https://www.npmjs.com/package/npm).
+* C, C++, Fortran, ... use packages from your distributions official repository. List your actual dependencies in the *INSTALL.md* or *README.md*.
 
 Some standard solutions for building (compiling) code are:
-* The Autotools: _autoconf_, _automake_, and _libtool_. See the [Autotools Documentation](https://www.gnu.org/software/automake/manual/html_node/Autotools-Introduction.html), or an [introductionary presentation by Thomas Petazzoni](https://elinux.org/images/4/43/Petazzoni.pdf)
-* [CMake](https://cmake.org/)
-* [Make](https://www.gnu.org/software/make/)
+* The Autotools: _autoconf_, _automake_, and _libtool_. See the [Autotools Documentation](https://www.gnu.org/software/automake/manual/html_node/Autotools-Introduction.html), or an [introductionary presentation by Thomas Petazzoni](https://elinux.org/images/4/43/Petazzoni.pdf).
+* [CMake](https://cmake.org/).
+* [Make](https://www.gnu.org/software/make/).
 
 ### Release quick-scan by other engineer
 

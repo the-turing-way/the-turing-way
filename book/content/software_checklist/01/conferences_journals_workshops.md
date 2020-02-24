@@ -28,7 +28,7 @@ There is also a [community page with a list of upcoming events](https://www.esci
 
 * [Journal of Open Research Software](http://openresearchsoftware.metajnl.com/).
 
-* [Journal of Open Source Software](https://joss.theoj.org)
+* [Journal of Open Source Software](https://joss.theoj.org).
 
 See [A list at the Software Suistainability Institute](http://www.software.ac.uk/resources/guides/which-journals-should-i-publish-my-software).
 

@@ -9,13 +9,13 @@ Assuming you have only the software in a (private) git repo, you might want to a
 * If not, make the repo public.
 
 ## Available archival / preprint servers or services
-* [arXiv](http://arxiv.org/) (physics, mathematics, computer science, quantitative biology, quantitative finance, statistics)
-* [bioRxiv](http://biorxiv.org/) (biology)
-* [PeerJ Preprints](https://peerj.com/archives-preprints/) (biological and medical sciences)
-* [CogPrints](http://cogprints.org/) (psychology, neuroscience, linguistics, and other fields related to cognition)
-* [figshare](https://figshare.com/) (all disciplines)
-* [GitHub](https://github.com/) (all disciplines)
-* [Social Science Research Network](http://www.ssrn.com/en/) (cognitive sciences, economics, humanities, law and more)
+* [arXiv](http://arxiv.org/) (physics, mathematics, computer science, quantitative biology, quantitative finance, statistics).
+* [bioRxiv](http://biorxiv.org/) (biology).
+* [PeerJ Preprints](https://peerj.com/archives-preprints/) (biological and medical sciences).
+* [CogPrints](http://cogprints.org/) (psychology, neuroscience, linguistics, and other fields related to cognition).
+* [figshare](https://figshare.com/) (all disciplines).
+* [GitHub](https://github.com/) (all disciplines).
+* [Social Science Research Network](http://www.ssrn.com/en/) (cognitive sciences, economics, humanities, law and more).
 
 ## Data storage and preservation
 
@@ -26,9 +26,9 @@ We strongly advise to store your research data in a secure location where regula
 We recommend that you start as early as possible to think how are you managing your data during and after your project. Some questions you should ask yourself are:
 
  - What data am I using in my project ? Think about measurements coming from experiments (performed by you or by third parties), but also interviews, statistical information, etc.
- - Where is my data coming from ? How is it being collected ?
- - Where and how is this information being stored ?
- - Does my data comply with the required standards applicable ? For example think of the FAIR principles, GDPR, or other ethical restrictions.
+ - Where is my data coming from ? How is it being collected?
+ - Where and how is this information being stored?
+ - Does my data comply with the required standards applicable? For example think of the FAIR principles, GDPR, or other ethical restrictions.
 
 These type of considerations should usually be covered by your data management plan, if your funding agency requires so. And when it is not required by your funding agency, it is probably a good idea to have a data management plan for yourself. If you are writing a data management plan, considering using [DMPOnline](https://dmponline.dcc.ac.uk/).
 

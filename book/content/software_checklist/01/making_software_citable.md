@@ -33,7 +33,7 @@ contents to http://www.yamllint.com/.
     # (in the repository's root directory)
     cffconvert --validate
     ```
-    
+
     If the command does not return anything, that means the CFF is valid.
 
 1. Generate the ``.zenodo.json`` file using ``cffconvert`` as follows:
@@ -54,15 +54,15 @@ should also assign a persistent identifier (DOI) to that snapshot.
     In case the GitHub-Zenodo integration does not work as expected, there are
     two places to go and look for information:
     1. On GitHub:
-        - go to ``https://github.com/<org>/<repo>/``
-        - select ``Settings``
-        - select ``Webhooks``
-        - select select the Zenodo webhook (may require GitHub login)
-        - scroll down to ``Recent deliveries``
+        - go to ``https://github.com/<org>/<repo>/``.
+        - select ``Settings``.
+        - select ``Webhooks``.
+        - select select the Zenodo webhook (may require GitHub login).
+        - scroll down to ``Recent deliveries``.
         - click on one of the listed deliveries for details on the request, the response, and to request redelivery.
     1. On Zenodo:
-        - go to ``https://zenodo.org/account/settings/github/``
-        - select the repository that you want to see the diagnostic information of
+        - go to ``https://zenodo.org/account/settings/github/``.
+        - select the repository whose diagnostic information you want.
         - click on one of the releases to see the _Payload_ Zenodo received from GitHub, as well as the _Metadata_ that Zenodo has associated with your release, or _Errors_ if there were any.
 
 1. Use the DOI whenever you refer to your software, be it in papers, posters, or
