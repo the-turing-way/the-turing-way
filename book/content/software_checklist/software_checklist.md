@@ -26,8 +26,8 @@ Additional steps depend on the goal of the software (zero or more can apply):
 ## I'm publishing a paper
 
 * [Make your software citable](/software_checklist/01/making_software_citable)
-* Add a CITATION.cff file (see the "[Further reading](#further-reading)" section at the end of the chapter)
 * Cite DOI in paper (see the "[Further reading](#further-reading)" section at the end of the chapter)
+* Add a `CITATION.cff` file (see the "[Further reading](#further-reading)" section at the end of the chapter)
 
 
 ## I'm expecting users
