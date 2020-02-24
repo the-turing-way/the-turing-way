@@ -12,11 +12,11 @@ This is a list of Conferences, Journals, and Workshops related to eScience.
 
 * The [European Geosciences Union General Assembly (EGU)](http://www.egu.eu/) has a track by the [Division on Earth and Space Science Informatics (ESSI)](http://www.egu.eu/essi/home/).
 
-* [Free Open Source Software for GeoInformatics](https://2019.foss4g.org/)
+* [Free Open Source Software for GeoInformatics](https://2019.foss4g.org/).
 
-* [International Conference on Computational Science](https://www.iccs-meeting.org/iccs2019/)
+* [International Conference on Computational Science](https://www.iccs-meeting.org/iccs2019/).
 
-* [PASC Conference](https://pasc19.pasc-conference.org)
+* [PASC Conference](https://pasc19.pasc-conference.org).
 
 
 There is also a [community page with a list of upcoming events](https://www.esciencecenter.nl/community) on the eScience Center website.
