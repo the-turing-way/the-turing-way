@@ -1,14 +1,11 @@
 {
-  "projectName": "the-turing-way",
-  "projectOwner": "alan-turing-institute",
-  "repoType": "github",
-  "repoHost": "https://github.com",
   "files": [
-    "README.md",
-    "contributors.md"
+    "README.md"
   ],
   "imageSize": 100,
-  "commit": false,
+  "contributorsPerLine": 7,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg)](#contributors)",
+  "skipCi": true,
   "contributors": [
     {
       "login": "rainsworth",
@@ -577,19 +574,6 @@
       ]
     },
     {
-      "login": "malvikasharan",
-      "name": "Malvika Sharan",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/5370471?v=4",
-      "profile": "https://github.com/malvikasharan",
-      "contributions": [
-        "doc",
-        "eventOrganizing",
-        "ideas",
-        "projectmanagement",
-        "review"
-      ]
-    },
-    {
       "login": "illushka",
       "name": "Chanuki Illushka Seresinhe",
       "avatar_url": "https://avatars1.githubusercontent.com/u/8143964?v=4",
@@ -690,8 +674,32 @@
         "doc",
         "review"
       ]
+    },
+    {
+      "login": "malvikasharan",
+      "name": "Malvika Sharan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5370471?v=4",
+      "profile": "https://github.com/malvikasharan",
+      "contributions": [
+        "doc",
+        "eventOrganizing",
+        "ideas",
+        "projectManagement",
+        "review"
+      ]
+    },
+    {
+      "login": "EstherPlomp",
+      "name": "Esther",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/46314469?v=4",
+      "profile": "https://github.com/EstherPlomp",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
-  "contributorsPerLine": 7,
-  "skipCi": false
+  "projectName": "the-turing-way",
+  "projectOwner": "alan-turing-institute",
+  "repoType": "github",
+  "repoHost": "https://github.com"
 }
