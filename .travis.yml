@@ -4,8 +4,9 @@ language: generic
 dist: xenial # ubuntu 16.04
 cache: bundler
 before_install: # get a reasonably new version of python3 and pip
+  - sudo add-apt-repository ppa:deadsnakes/ppa   
   - sudo apt-get update
-  - sudo apt-get install python3.7
+  - sudo apt install python3.7
   - sudo apt-get install python3-pip
   - sudo -H pip3 install --upgrade pip
   - sudo apt-get install python3-setuptools
