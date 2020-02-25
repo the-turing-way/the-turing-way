@@ -14,7 +14,7 @@ By designing reproducible workflows and sharing them with the different componen
 
 **3. Publish validated research and avoid misinformation**
 
-Lack of reproducibility is one of the major factors that lead to paper retractions (source [Retraction Watch](https://retractionwatch.com/)). The best-known analyses of scientific literatures in psychology {% cite Begley2012 %} and cancer biology {% cite aac47162015 %} found the reproducibility rates of their research output of around 40% and 10%, respectively. By working reproducibly, we can develop validated research work, avoid misinformation that can limit replicability of our work and publish accurate research outputs.
+Lack of reproducibility is one of the major factors that lead to paper retractions (source [Retraction Watch](https://retractionwatch.com/)). The best-known analyses of scientific literatures in psychology {% cite Begley2012 %} and cancer biology {% cite aac47162015 %} found the reproducibility rates of their research output of around 40% and 10%, respectively. By working reproducibly, we can develop validated research work, avoid misinformation that can limit replicability of our work and publish accurate research outputs. This aspect does not only support the validity of the current work, but any future studies that are based on reproducible research {% cite MozillaScienceLab %}.
 
 **4. Write your paper efficiently**
 
@@ -26,14 +26,13 @@ Researchers who use the principles of reproducibility in developing their projec
 
 **6. Ensure continuity of your work**
 
-By following guidelines for reproducibility, we can easily communicate our work with different stakeholders such as our supervisors, funders, reviewers, students, and potential collaborators. They can track the progress, follow up and build upon such work more easily. This ensures the continuity of a research idea and can even lead to applications of such work in different contexts.
+By following guidelines for reproducibility, we can easily communicate our work with different stakeholders such as our supervisors, funders, reviewers, students, and potential collaborators. This aspect of reproducibility increases the usefulness of our research by enabling others to easily build on your results, and re-use your research materials {% cite MozillaScienceLab %}. Progress of such projects can easily be tracked and continued - either by others in your laboratory, or yourself if you want to build on your own work after a longer period {% cite Markowetz2015 %}. This ensures the continuity of a research idea and can even find their applications in different contexts.
 
 To learn about other benefits of working reproducibly on Open Research projects are covered in our [Open Research](../open_research/open_research) chapter.
 
 ### Reference:
 
 * {% cite Markowetz2015 %}
-* {% cite Shokraneh2019 %}
 * {% cite MozillaScienceLab %}
 * {% cite Piwowar2007 %}
 * {% cite Piwowar2013 %}
