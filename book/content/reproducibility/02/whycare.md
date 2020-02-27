@@ -6,7 +6,8 @@ In the last chapter, we discussed the different aspects of reproducible research
 
 **1. Track a complete history of your research**
 
-Reproducible research must contain a complete history and narrative (also known as [Provenance](https://en.wikipedia.org/wiki/Provenance)) of the project planning and development process. This includes information on the data, tools, methods, codes, and documentation used in the research project. By storing a complete track-record of our work, we can ensure research sustainability, fair citation/acknowledgment, and usefulness of our and others' work in our research fields.
+Reproducible research must contain a complete history and narrative (also known as [Provenance](https://en.wikipedia.org/wiki/Provenance)) of the project planning and development process. This includes information on the data, tools, methods, codes, and documentation used in the research project.
+By storing a complete track-record of our work, we can ensure research sustainability, fair citation/acknowledgment, and usefulness of our and others' work in our research fields.
 
 **2. Facilitate collaboration and review process**
 
