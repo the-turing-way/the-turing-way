@@ -1,6 +1,6 @@
 # Added advantages of working reproducibly
 
-In the last chapter, we discussed the different aspects of reproducible research that are beneficial for the scientific community. 
+In the previous chapter, we discussed the different aspects of reproducible research that are beneficial for the scientific community. 
 In this chapter, we will share some less obvious aspects of working reproducibly for individual researchers and teams.
 
 ![Why we should care about working reproducibly](../../figures/reasons_reproducibility.png)
@@ -38,9 +38,9 @@ This fair credit system encourages researchers to further maintain reproducibili
 **6. Ensure continuity of your work**
 
 By following guidelines for reproducibility, we can easily communicate our work with different stakeholders such as our supervisors, funders, reviewers, students, and potential collaborators. 
-This aspect of reproducibility increases the usefulness of our research by enabling others to easily build on your results, and re-use our research materials {% cite MozillaScienceLab %}. 
+This aspect of reproducibility increases the usefulness of our research by enabling others to easily build on our results, and re-use our research materials {% cite MozillaScienceLab %}. 
 This ensures the continuity of a research idea and can even find their applications in different contexts. 
-Progress of such projects can easily be tracked and continued - either by others in our laboratory, or yourself if you want to build on your own work after a longer period {% cite Markowetz2015 %}.
+Progress of such projects can easily be tracked and continued - either by other researchers, or yourself if you want to build on your own work after a longer period {% cite Markowetz2015 %}.
 
 To learn about other benefits of working reproducibly on Open Research projects are covered in our [Open Research](../open_research/open_research) chapter.
 
