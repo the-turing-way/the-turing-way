@@ -3,7 +3,7 @@
 _The Turing Way_ defines reproducibility in data research as data and code being available to fully rerun the analysis.
 
 There are several definitions of reproducibility in use, and we discuss these in more detail in the [definitions](03/definitions) section of this chapter. 
-However, _The Turing Way_'s definition used by _The Turing Way_ Team at the time or writing, will be useful to avoid misunderstandings when reading the rest of the handbook.
+However, _The Turing Way_'s definition used by _The Turing Way_ Team at the time of writing, will be useful to avoid misunderstandings when reading the rest of the handbook.
 
 This chapter will lay out why reproducibility is important for science and scientists, provide an overview of the most common definitions, and define reproducibility in the context of this handbook.
 
