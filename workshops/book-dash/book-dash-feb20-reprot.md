@@ -1,6 +1,3 @@
----
-breaks: False
----
 # Book Dash February 2020 Report
 
 Our first [book dash](LINK) of the year took place on 20 and 21 February 2020 at [The Alan Turing Institute](https://www.turing.ac.uk/) in London.
@@ -53,7 +50,7 @@ Selected from a pool of applications received through [an open call](https://twi
 We were also delighted to welcome Jade Pickering, a previous book dash attendee who returned as a helper along with Louise and Sarah to support other book dash attendees. 
 Those not located in London received travel and accommodation support from _The Turing Way_ project.
 
-![](https://i.imgur.com/gsKXQ9V.jpg)
+![](./figures/book-dash-feb20-group.jpg)
 
 *Front row (left to right):* [Christina Hitrova](https://twitter.com/C_Hitrova), [Tony Yang](https://twitter.com/tony_yzy), [Mateusz Kuzak](https://twitter.com/matkuzak) and [Kirstie Whitaker](https://twitter.com/kirstie_j)
 *Remote participation from [eScience Center netherlands](https://www.esciencecenter.nl)(computer screen):* [Carlos Martinez-Ortiz](https://www.esciencecenter.nl/profile/dr.-carlos-martinez-ortiz), [Stefan Verhoeven](https://www.esciencecenter.nl/profile/stefan-verhoeven-bsc), [Bouwe Andela](https://www.esciencecenter.nl/profile/bouwe-andela-msc), [Faruk Diblen](https://www.esciencecenter.nl/profile/faruk-diblen-msc) and [Pablo Rodríguez-Sánchez](https://www.esciencecenter.nl/profile/pablo-rodriguez-sanchez)
@@ -76,12 +73,12 @@ You can read notes from these calls [here](https://hackmd.io/@malvikasharan/book
 
 Our participants joined us in London on 20 February 2020 at The Alan Turing Institute for an introduction session. 
 
-![](https://i.imgur.com/ep81rJs.jpg)
+![](./figures/book-dash-feb20-intro1.jpg)
 *Heidi, Esther and Adina exchanging local sweets and snacks at the beginning of the event (picture by Kirstie Whitaker)*
 
 To everyone's delight, many participants brought their local sweets and snacks to share with other attendees - which was a huge highlight of the day (and might become a book dash ritual!). Beyond sweets, [Barbara](https://twitter.com/barbaravreede) even gave away a research data landscape themed card games to an attendee - [spreading joy](https://twitter.com/AdinaKrik/status/1231231084626575366?s=20) beyond the book dash!
 
-![](https://i.imgur.com/A30B4jF.png)
+![](./figures/book-dash-feb20-intro2.jpg)
 *Image by Esther Plomp - originally from [her blog on Book Dash](https://openworking.wordpress.com/2020/02/27/the-turing-way-bookdash/)*
 
 Malvika kicked-off the book dash with a presentation on the project and the event ([slides](https://doi.org/10.5281/zenodo.3676448)) followed by a Q&A session addressed by Kirstie. 
@@ -93,27 +90,27 @@ Therefore, we avoided posting tweets on _The Turing Way_, and the Book Dash even
 
 We ended the day with a group dinner, which was a chance for everyone attending the book dash to connect with each other in an informal setting. 
 
-![](https://i.imgur.com/zLQEMzh.jpg)
+![](./figures/book-dash-feb20-dinner.jpg)
 
 In a fun lightning talk round, attendees shared their personal stories and talked about a project that they’re either working on or are excited about.
 The last speaker, Sarah Gibson, talked about her work with the Binder community, and shared about her favorite hobby of cross stitching. 
 She also handed out a goodie bag that she had created on behalf of _The Turing Way_ core development team for each one of us which included a cross stitch starter's kit, a cross stitch design of Binder logo, along with _The Turing Way_ stickers (designed during the last year's book dash events). 🎁🎁
 
-![](https://i.imgur.com/kvv8xO7.jpg)
+![](./figures/book-dash-feb20-sgtweet.jpg)
 
 *See this [Twitter thread](https://twitter.com/drsarahlgibson/status/1229061090560049157?s=20)*
 
 Very thoughtfully, they also sent these as care package to our core contributors who could not join, and were dearly missed at the event!
 
-![](https://i.imgur.com/30bEa0u.png)
+![](./figures/book-dash-feb20-phtweet.jpg)
 *[Tweet by Patricia](https://twitter.com/PHerterich/status/1231190390079881216?s=20)*
 
-![](https://i.imgur.com/d2WiiNI.png)
+![](./figures/book-dash-feb20-ratweet.jpg)
 *[Tweet by Rachael Aisworth](https://twitter.com/rachaelevelyn/status/1232363881596583938?s=20)*
 
 ## The book-dash working day
 
-![](https://i.imgur.com/26E1Ifq.jpg)
+![](./figures/book-dash-feb20-day2.jpg)
 
 *A group of participants working on new chapters on ethics and ethical decision in data science (picture by Malvika Sharan)*
 
@@ -123,7 +120,7 @@ On 21 February, the entire book dash day was distributed into 4 long sessions.
 We had organised 3 rooms for the event: first one for open discussion, second one was semi isolated for quiet working space for groups who did not need active discussions, and the third one was a quiet room for people to have breaks for decompression.
 Throughout the day, everyone was encouraged to ask for help, move around or change room as needed, and offer feedback on other people's work.
 
-![](https://i.imgur.com/uRqOkIQ.jpg)
+![](./figures/book-dash-feb20-louise.jpg)
 *Louise leading the group discussion in the beginning of the day (Picture by Kirstie Whitaker)*
 
 The first session was kicked-off at 9:00 am by Louise Bowler who got all the attendees organised in small groups of collaborators for facilitating a discussion on their road map and plans for their chapters and other contributions. 
@@ -134,7 +131,7 @@ In the third and fourth session, participants worked uninterrupted on their cont
 
 Facilitated by Sarah Gibson, we closed the working hours by celebrating everyone's contributions as listed below topic-wise:
 
-![](https://i.imgur.com/4Nb2i5o.jpg)
+![](./figures/book-dash-feb20-sarah.jpg)
 *Sarah leading the "hand-off-the-key-and-stand-up-to-celebrate", i.e. the final report out! (Picture by Kirstie Whitaker)*
 
 ### Credit for Reproducibility
@@ -146,12 +143,10 @@ Facilitated by Sarah Gibson, we closed the working hours by celebrating everyone
 * Heidi Seibold and Barbara Vreede worked on a new chapter on the topic Research Compendia, an approch to provides data, code, and documentation for reproducing a scientific workflow ([issue 834](https://github.com/alan-turing-institute/the-turing-way/issues/834), [PR #840](https://github.com/alan-turing-institute/the-turing-way/pull/840)).
 * Jade Pickering reviewed some PRs opened by the participants, including the Open Research chapter [issue #888](https://github.com/alan-turing-institute/the-turing-way/issues/888)).
 
-
 ### Tools and methods for reproducible research
 * Barbara Vreede and Alex Chan started to write a new chapter on Error Management ([PR #883](https://github.com/alan-turing-institute/the-turing-way/pull/883)).
 * Adina Wagner restructured the version control chapter by extending it with a section on data version control and a personal impact story ([issue #856](https://github.com/alan-turing-institute/the-turing-way/issues/856), [PR #859](https://github.com/alan-turing-institute/the-turing-way/pull/859)). She also created an issue on extending the "reproducible research with Make" ([issue #854](https://github.com/alan-turing-institute/the-turing-way/issues/854)) which she fixed by adding new demonstrations to the chapter ([PR #915](https://github.com/alan-turing-institute/the-turing-way/pull/915)).
 * Louise Bowler worked on a case study on reproducible environment ([PR #864](https://github.com/alan-turing-institute/the-turing-way/pull/864)) that was reviewed by Nathan Begbie! 
-
 
 ### Bots and resources for creating a welcoming learning and contribution experiences
 * Louise also started to work on at all-contributors bot to make sure all _The Turing Way_ community members are acknowledged appropriately.
@@ -184,7 +179,7 @@ Facilitated by Sarah Gibson, we closed the working hours by celebrating everyone
 At the [Netherlands eScience Center](https://www.esciencecenter.nl/), a group of scientists have been working on developing a "Software Development Guide" (https://nlesc.gitbooks.io/guide/content/). 
 Due to a clear overlap between _The Turing Way_ and the Guide, their members decided to start contributing to _The Turing Way_. This was done in a parallel event organised in Amsterdam, which was coordinated by Carlos Martinez remotely with the help of Mateusz who was present at the book dash in London.
 
-![](https://i.imgur.com/9EYIGMj.jpg)
+![](./figures/book-dash-feb20-remote.jpg)
 
 *Remote participation via zoom from Netherlands eScience Center*
 
@@ -204,7 +199,7 @@ Our attendees discussed their ideas and helped Sam capture important concepts th
 
 We also took this opportunity to co-create a logo, which we are happy to share with you.
 
-![](https://i.imgur.com/11hBs2r.png)
+![](./figures/book-dash-feb20-logo.jpg)
 
 *_The Turing Way_ Community, & Scriberia. Illustrations from the book dash 2020*
 
@@ -236,7 +231,7 @@ We greatly appreciate the work that our attendees have accomplished in the proje
 
 And of course, the cross-stitch gift by Sarah was as popular as the awesome group of people at the event (she even gave a 15 minutes crash course after book-dash on cross stitching).
 
-![](https://i.imgur.com/RMyoNtF.png)
+![](./figures/book-dash-feb20-feedback.jpg)
 
 *Screenshot from the feedback document*
 
@@ -330,24 +325,24 @@ Please feel free to reach out to the team members (theturingway@gmail.com) or di
 
 ### More pictures taken by participants and organisers
 
-![](https://i.imgur.com/y2UKPoF.jpg)
+![](./figures/book-dash-feb20-adina.jpg)
 
 *[Adina Wagner](https://twitter.com/AdinaKrik) getting input from Kirstie on her contributions on the version control chapters (front) (picture by Malvika Sharan)*
 
-![](https://i.imgur.com/oALpxCc.jpg)
+![](./figures/book-dash-feb20-adina2.jpg)
 *Adina pointing to a data resource (DataLad) that she has massively contributed towards (Picture by Kirstie Whitaker)*
 
-![](https://i.imgur.com/0NX5IHX.jpg)
+![](./figures/book-dash-feb20-errmgmt1.jpg)
 *[Barbara Vreede](https://twitter.com/barbaravreede) and [Alex Chan](https://twitter.com/alexwlchan) discussing their chapter on code error handling (Picture by Kirstie Whitaker)*
 
-![](https://i.imgur.com/X3BSAcf.jpg)
+![](./figures/book-dash-feb20-errmgmt2.jpg)
 *...and quoting Jenny Bryan for best coding practices (picture by Malvika Sharan)*
 
-![](https://i.imgur.com/vpMSplp.jpg)
+![](./figures/book-dash-feb20-orcid.jpg)
 
 *[Frances Madden](https://twitter.com/maddenfc) and [Esther Plomp](https://twitter.com/PhDToothFAIRy) working on Orcid and getting credits for research work (picture by Malvika Sharan)*
 
-![](https://i.imgur.com/HxYyIdD.jpg)
+![](./figures/book-dash-feb20-discuss.jpg)
 
 *Right to left - [Mateusz Kuzak](https://twitter.com/matkuzak) coordinating with the remote participants from eScience center in Netherlands, Heidi Siebold discussing her illustration idea on Research Compendium with Sam from [Scriberia](http://www.scriberia.co.uk/), Behind - Adina and Kirstie discussing version control (picture by Malvika Sharan)*
 
