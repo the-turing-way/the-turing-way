@@ -8,7 +8,8 @@ Package managers install and keep track of the different software packages (and 
 
 ### What does Conda do?
 
-Conda allows users to create any number of environments which are entirely separate, and to quickly and easily change between them. For example, say a researcher has a project: Project One, which has its own environment defined by Conda i.e. a set of packages and versions of those packages:
+Conda allows users to create any number of environments which are entirely separate, and to quickly and easily change between them.
+For example, say a researcher has a project: Project One, which has its own environment defined by Conda which is made up of a set of packages and versions of those packages:
 
 | Package name | Version |
 | ------------ | ------- |
@@ -71,7 +72,7 @@ To create an environment use `conda create --name your_project_env_name` followe
 conda create --name Project_One scipy matplotlib
 ```
 
-You can specify the versions of certain (or all) packages by using `=package_number` after the name, e.g. to specify scipy 1.2.1 in the above environment
+You can specify the versions of certain (or all) packages by using `=package_number` after the name. For example, to specify scipy 1.2.1 in the above environment
 
 ```
 conda create --name Project_One scipy=1.2.1 matplotlib
@@ -154,12 +155,25 @@ This is the best way to install packages from within Conda as it will also insta
 pip install scipy
 ```
 
-still works.
+will list 'scipy' package explicitely - as long as `pip` is installed inside the currently active conda environment.
+Unfortunately, when conda and pip are used together to create an environment, it can lead to a state that can be hard to reproduce. Specifically, running conda after pip may potentially overwrite or break packages installed via pip. One way to avoid this is by installing as many requirements as possible with conda, and then use pip. Detailed information can be read on the post [Using Pip in a Conda Environment](https://www.anaconda.com/using-pip-in-a-conda-environment/).
 
 Although Python packages have been used in many of the examples given here Conda packages do not have to be Python packages, for example here the R base language is installed along with the R package r-yaml
 
 ```
 conda create --name Project_One r-base r-yaml
+```
+
+To see all of the installed packages in the current environment
+
+```
+conda list
+```
+
+To check if a particular package is installed, for example, `scipy` in this case:
+
+```
+conda list scipy
 ```
 
 A Conda channel is where it downloaded a package from. Common channels include Anaconda (a company which provides the `defaults` conda package channel), and conda-forge (a community-driven packaging endeavour). You can explicitly install a package from a certain channel by specifying it like:

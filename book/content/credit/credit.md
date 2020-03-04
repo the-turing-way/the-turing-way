@@ -9,7 +9,6 @@ Future work:
 -->
 
 ## Prerequisites / recommended skill level
-> other chapters that should have been read before or content you should be familiar with before you read this
 
 | Prerequisite        | Importance               | Notes  |
 | -------------       | ----------               | ------ |
@@ -27,12 +26,10 @@ Future work:
 6. [Further reading](#further-reading)
 
 ## Summary
-> easy to understand summary - a bit like tl;dr
 
 Reproducible research is great, but spending time on it will reduce the time you have available for activities by which researchers are traditionally measured, such as writing papers. But what if you could get credit for your reproducibility efforts as well?
 
 ## How this will help you/ why this is useful
-> why we think you should read the whole thing
 
 Academic research is a reputation economy, and citations are the currency. Most research institutions' promotion and hiring criteria depend to a greater or lesser extent on your publishing record: how many articles you have published, how "important" the journals were, and how many times each article has been cited.
 
@@ -66,7 +63,9 @@ If you use GitHub, GitLab or similar, consider creating a `CITATION` file in eac
 
 ### Add machine-readable referencing information
 
-You can go one better by allowing people to import information about your research objects into their preferred referencing database. If BibTeX is popular in your field, post a `.bib` file of *all* your outputs, not just your papers; if it's Endnote, make an Endnote export available. If possible, provide several formats: you won't need to update these very often and it will pay off 
+You can go one better by allowing people to import information about your research objects into their preferred referencing database.
+If BibTeX is popular in your field, post a `.bib` file of *all* your outputs, not just your papers; if it's Endnote, make an Endnote export available.
+If possible, provide several formats: you won't need to update these very often and it will pay off.
 
 <!-- TODO: Information about cite.json(?) -->
 
@@ -79,6 +78,29 @@ It's perfectly possible to cite a dataset or software package directly, and most
 
 [JORS]: https://openresearchsoftware.metajnl.com/
 [JOSS]: https://joss.theoj.org/
+
+## Making sure YOU get cited by using ORCID to increase your visibility
+
+### What is ORCID?
+- ORCID is short for ‘Open Researcher and Contributor iD'
+- ORCID is a long lasting unique identifier for you as a researcher, comparable to a personal identification number that your government may issue to you.
+
+You can watch this short video for more information https://vimeo.com/97150912
+
+### Why should you get an ORCID?
+- to distinguish yourself from others with the same or a similar name;
+- to enable others to find all your outputs/related outputs so they can use and cite them
+- All your outputs will remain linked to your unique identifier even if you change your name or your institute. This way, you only have to enter the information once.
+- to access or sign up to services that utilise ORCID, for example publisher requirements, funding management portals (ResearchFish), the CRIS (current research information system) system at your institute, the Zenodo repository, et cetera.
+- you can add your ORCID to your CV/resume so that anyone can have a look at all your research outputs.
+
+### How do you get an ORCID?
+You can sign up very quickly here: https://orcid.org/login
+Once you have signed up and verify your email address you can start adding in your outputs by importing them through [trusted organisations](https://support.orcid.org/hc/en-us/articles/360006973893) and [search and link wizards](https://support.orcid.org/hc/en-us/articles/360006973653-Add-works-by-direct-import-from-other-systems)
+
+
+### When do you use your ORCID?
+You can use your ORCID iD whenever you’re prompted to do so, give your [trusted organisations](https://support.orcid.org/hc/en-us/articles/360006973893) (funders, publishers, institutions) permission to automatically update your ORCID record.
 
 <!-- TODO: more examples, especially data journals -->
 
@@ -123,18 +145,15 @@ It's perfectly possible to cite a dataset or software package directly, and most
 - Get a distinct persistent identifier for each key version
 - Include an example citation in your software manual
 
-## What to learn next
-> recommended next chapters that are a good next step up
+<!-- ## What to learn next -->
 
 ## Further reading
-> top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
-> less relevant/favourite resources in case someone wants to dig into this in detail
 
 - [FAIR data principles](https://www.force11.org/group/fairgroup/fairprinciples)
 - [FORCE11 Software Citation principles](https://www.force11.org/software-citation-principles)
+- [Getting Started with your ORCID record](https://support.orcid.org/hc/en-us/articles/360006896894-Getting-started-with-your-ORCID-record)
+- [OpenAIRE Guide on Person Identifiers](https://www.openaire.eu/how-can-identifiers-improve-the-dissemination-of-your-research-outputs)
 
-## Definitions/glossary
-> Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
+<!-- ## Definitions/glossary -->
 
-## Bibliography
-> Credit/urls for any materials that form part of the chapter's text.
+<!-- ## Bibliography -->

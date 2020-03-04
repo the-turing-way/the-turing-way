@@ -40,7 +40,7 @@ This chapter also covers reasons why you might build your own BinderHub, rather 
 
 ## What is BinderHub and why is it good for Reproducibility?
 
-[BinderHub](https://binderhub.readthedocs.io/en/latest/index.html) is a cloud-based technology that can launch a repository of code (from GitHub, GitLab,...) in a browser window such that the code can be executed and interacted with.
+[BinderHub](https://binderhub.readthedocs.io/en/latest/index.html) is a cloud-based technology that can launch a repository of code (from GitHub, GitLab, and others) in a browser window such that the code can be executed and interacted with.
 A unique URL is generated allowing the interactive code to be easily shared.
 
 The purpose of these Binder instances is to promote reproducibility in research projects by encouraging researchers to document their software dependencies and produce fun, interactive environments!
@@ -57,9 +57,9 @@ BinderHub relies on different tools and resources in order to create and launch 
 
 For more information, see this [high-level explanation of the BinderHub architecture](https://binderhub.readthedocs.io/en/latest/overview.html).
 
-| ![cloud_neutral_binderhub](/figures/cloud_neutral_binderhub.png) |
+| ![/figures/cloud_neutral_binderhub.png](https://zenodo.org/api/iiif/v2/e4125eaf-b456-4097-85fc-6a2e80482d1c:96c70193-2f9e-442d-8cf8-21485d8864e1:1728_TURI_Book%20sprint_45%20repo2docker_040619_v2_MK.jpg/full/750,/0/default.jpg) |
 |:---:|
-| A representation of the BinderHub architecture. |
+| A representation of the BinderHub architecture. This image was created by [Scriberia](http://www.scriberia.co.uk/) for The Turing Way community and is used under a CC-BY licence. |
 
 ### Compute Resources
 
@@ -78,7 +78,7 @@ BinderHub uses Kubernetes to manage the resources requested by the users of the 
 [Helm](https://helm.sh/) is a package manager for Kubernetes.
 Packages come in the form of *Charts* which are a set of instructions to deploy, upgrade and manage applications running on a Kubernetes cluster.
 They can make installing and managing Kubernetes applications much easier and specific Charts for projects can be published online.
-For example, the Helm Chart for BinderHub are available [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub).
+For example, the Helm Chart for BinderHub is available [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub).
 
 ### JupyterHub
 
@@ -89,7 +89,7 @@ However, the JupyterHub can be further customised to provide greater control ove
 ### repo2docker
 
 [repo2docker](https://repo2docker.readthedocs.io/en/latest/?badge=latest) is a tool that automatically builds a Docker image from a code repository given a configuration file.
-This Docker container will contain all of the code, data and resources that are listed in the repository.
+This Docker image will contain all of the code, data and resources that are listed in the repository.
 All the software required to run the code will also be preinstalled from the configuration file.
 
 BinderHub can be thought of as thin layer that sits on top of repo2docker and JupyterHub, orchestrating their interactions and resolving URLs.
@@ -99,12 +99,12 @@ BinderHub can be thought of as thin layer that sits on top of repo2docker and Ju
 1. The link to the repository is resolved by BinderHub.
 2. BinderHub searches for a Docker image relating to the provided reference (for example, git commit hash, branch or tag).
 3. **If a Docker image is not found**, BinderHub requests resources from the Kubernetes cluster to run repo2docker to do the following:
-   * Fetch the repository,
-   * Build a Docker image containing the software requested in the configuration file,
-   * Push that image to the Docker registry.
+   - Fetch the repository,
+   - Build a Docker image containing the software requested in the configuration file,
+   - Push that image to the Docker registry.
 4. BinderHub sends the Docker image to JupyterHub.
 5. JupyterHub requests resources from the Kubernetes cluster to serve the Docker image.
-6. JupyterHub connects the user's browser to the running Docker container.
+6. JupyterHub connects the user's browser to the running Docker environment.
 7. JupyterHub monitors the container for activity and destroys it after a period of inactivity.
 
 ## Why would you build your own BinderHub?
@@ -117,12 +117,12 @@ By hosting your own BinderHub, you can offer your users much more flexible and t
 
 These customisations could include:
 
-* authentication,
-* greater computational resources per user,
-* bespoke library stacks and packages,
-* allowing access to private repos,
-* persistent storage for users,
-* restrict sharing within a certain institution or team.
+- authentication,
+- greater computational resources per user,
+- bespoke library stacks and packages,
+- allowing access to private repos,
+- persistent storage for users,
+- restrict sharing within a certain institution or team.
 
 ### Issues you may face when deploying a BinderHub
 
@@ -135,28 +135,29 @@ At minimum, you'll need to be able to assign [Role Based Access Control (RBAC)](
 
 ## Further reading
 
-* [Binder documentation](https://mybinder.readthedocs.io/en/latest/)
-* [BinderHub documentation](https://binderhub.readthedocs.io/en/latest/index.html)
-* [Zero-to-JupyterHub with Kubernetes documentation](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html)
-* [JupyterHub documentation](https://jupyterhub.readthedocs.io/en/stable/)
-* [_The Turing Way_ Build a BinderHub Workshop](http://bit.ly/zero-to-binderhub-workshop)
+- [Binder documentation](https://mybinder.readthedocs.io/en/latest/)
+- [BinderHub documentation](https://binderhub.readthedocs.io/en/latest/index.html)
+- [Zero-to-JupyterHub with Kubernetes documentation](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html)
+- [JupyterHub documentation](https://jupyterhub.readthedocs.io/en/stable/)
+- [_The Turing Way_ Build a BinderHub Workshop](http://bit.ly/zero-to-binderhub-workshop)
 
 ## Definitions/glossary
 
 | | |
 |:---|:---|
-| Docker image or container | A set of instructions to create a computational environment.|
+| Docker image | A machine-readable set of instructions to create a specified computational environment.|
+| Docker container | An active computational environment executed from a Docker image. |
 | Docker registry | A storage and distribution system for named Docker images. The registry allows Docker users to pull images locally, as well as push new images to the registry (given adequate access permissions when applicable). Such systems are often hosted in the cloud for ease of access. |
 | BinderHub | Technology for hosting reproducible computational environments. |
 | Binder | The user-facing service of a BinderHub. |
 | Kubernetes | Autonomous computational cluster manager. |
 | Helm | A package manager for Kubernetes applications. |
 | JupyterHub | A multi-user server for Jupyter Notebook instances. |
-| repo2docker | A tool to build Docker containers from code repositories. |
+| repo2docker | A tool to build Docker images from code repositories. |
 
 ## Bibliography
 
-* **Kubernetes documentation**: [https://kubernetes.io/](https://kubernetes.io/)
-* **Helm documentation**: [https://helm.sh/](https://helm.sh/)
-* **repo2docker**: [https://repo2docker.readthedocs.io/en/latest/?badge=latest](https://repo2docker.readthedocs.io/en/latest/?badge=latest)
-* **Microsoft Azure documentation on Role Based Access Control**: [https://docs.microsoft.com/en-us/azure/role-based-access-control/overview](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)
+- **Kubernetes documentation**: [https://kubernetes.io/](https://kubernetes.io/)
+- **Helm documentation**: [https://helm.sh/](https://helm.sh/)
+- **repo2docker**: [https://repo2docker.readthedocs.io/en/latest/?badge=latest](https://repo2docker.readthedocs.io/en/latest/?badge=latest)
+- **Microsoft Azure documentation on Role Based Access Control**: [https://docs.microsoft.com/en-us/azure/role-based-access-control/overview](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)

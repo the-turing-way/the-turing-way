@@ -77,7 +77,7 @@ reproducible research project.
 
 Data are all digital objects that you use and produce during your research life cycle, encompassing datasets, software,
 code, workflow, models, figures, tables, images, articles. Data are your research asset. In some fields it's obvious
-what data means - you have observations or results of simulations etc. However, in other fields, particularly in Social
+what data means - you have observations or results of simulations. However, in other fields, particularly in Social
 Sciences, Humanities or Arts, you may be thinking "I don't think I have any data". A good way of thinking about what
 might be classed as data that needs to be managed is to ask yourself the questions "What is the information that I need
 to use and write about in my paper or book?", "What information would I need to back up my conclusions?" and "What
@@ -149,8 +149,8 @@ It is important to stress that making data 'FAIR' is not the same as making it '
 clearly explains). Data should be as open as possible, as closed as necessary.
 
 The FAIR principles refer to three types of entities: data (as any digital object), metadata (information about that
-digital object), and infrastructure (i.e. software, repositories). For instance, the findability principle F4 defines
-that both metadata and data are registered or indexed in a searchable resource (e.g. a data repository). For example,
+digital object), and infrastructure (such as software and repositories). For instance, the findability principle F4 defines
+that both metadata and data are registered or indexed in a searchable resource (such as a data repository). For example,
 the FAIR principles are also being applied to [software](https://doi.org/10.6084/m9.figshare.7449239.v2), and projects
 where the data and software are both FAIR the research is more likely to be reproducible.
 
@@ -167,8 +167,8 @@ should also regularly be updated as the research project progresses or diverge f
 
 Altought started by a community operating in the life science, the FAIR principles have rapidly been adopted by
 publishers, funders, and pan-disciplinary infrastructure programmes and societies, in all disciplines. Many groups and
-organization are working to define guidances and tools to help researchers, as well as other stakeholders (librarians,
-funders, publishers, trainers etc.) to make data FAIR and assess its FAIRness level.
+organization are working to define guidances and tools to help researchers, as well as other stakeholders (such as
+librarians, funders, publishers, and trainers) to make data FAIR and assess its FAIRness level.
 
 This rapid uptake and community involvement, however, has also caused some confusion and ambiguity on what FAIRness is
 and how we can measure it. It is important to say that the FAIR principles are aspirational, in that they do not
@@ -405,12 +405,12 @@ data may be sufficient in some cases, but ensuring that reidentification is not 
 difficult and might be impossible due to technical progress, growing computational power and – ironically – more open
 data. For example reidentification may be possible via data-mining of accessible data and so-called quasi-identifiers, a
 set of (common) properties that are – in their combination – so specific that they can be used to identify. Preserving
-privacy may still be possible if partial or generalised datasets are provided e.g. age bands instead of birth date or
-only the first two digits of postal codes. It may also be possible to provide the data in such a format that researchers
-can query it whist keeping the data itself closed, e.g. a user may be able to send a query to retrieve the mean of a
-dataset, but not be able to access any of the individual datapoints. Another way to provide anonymized data is to
-provide [synthetic data](https://en.wikipedia.org/wiki/Synthetic_data), data generated to reflect the conditions and
-properties of the raw data without including any of the personal information.
+privacy may still be possible if partial or generalised datasets are provided. For example, providing age bands instead
+of birth date or only the first two digits of postal codes. It may also be possible to provide the data in such a format
+that researchers can query it whist keeping the data itself closed. For example, a user may be able to send a query to
+retrieve the mean of a dataset, but not be able to access any of the individual datapoints. Another way to provide
+anonymized data is to provide [synthetic data](https://en.wikipedia.org/wiki/Synthetic_data), data generated to reflect
+the conditions and properties of the raw data without including any of the personal information.
 
 #### National and commercially sensitive data
 
