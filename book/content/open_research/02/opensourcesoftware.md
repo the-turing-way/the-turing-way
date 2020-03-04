@@ -66,10 +66,10 @@ Examples include [Linux](https://www.linux.org/) operating systems, Python packa
 
 You can open source an idea, a work in progress, or after years of being closed source.
 At the most basic level all you need to do is put your code online somewhere that is likely to last a long time.
-You can make your code citeable by assigning it a DOI (as discussed in the section on [making data citeable](#citing_data)). 
+You can make your code citeable by assigning it a DOI (as discussed in the section on [making data citeable](#citing_data)).
 This helps ensure that you get proper credit if people use or build upon your work.
 
-A popular place to make your code available is GitHub (see the chapter on [version control](/version_control/version_control)). You must include a licence file stating that anyone has permission to use, copy, and modify your work. Without this no one can legally use your work and so it isn't open source. The [software license](softwarelicenses) section will help you to pick the best license for your project. There are also a few other files you should include with your code, as described below.
+A popular place to make your code available is GitHub (see the chapter on [version control](/version_control/version_control)). You must include a license file stating that anyone has permission to use, copy, and modify your work. Without this no one can legally use your work and so it isn't open source. The [software license](softwarelicenses) section will help you to pick the best license for your project. There are also a few other files you should include with your code, as described below.
 
 #### Welcome users by adding information to your README
 
@@ -158,7 +158,7 @@ You do not need to overthink what exactly your first contribution will be, or ho
 Instead, start by thinking about the projects you already use, or want to use.
 The projects you will actively contribute to are the ones you find yourself coming back to.
 Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct. You might scan a readme and find a broken link or a typo.
-Or you are a new user and you noticed something is broken, or an issue that you think should really be in the documentation. 
+Or you are a new user and you noticed something is broken, or an issue that you think should really be in the documentation.
 Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That is what open source is all about!
 
 You can also use one of the following resources to help you discover and contribute to new projects:
@@ -189,7 +189,7 @@ Often, it will still be possible to use and contribute but the details of how mi
 The kinds of practices used in 'closed' software are generally the same and the concepts and tools you can learn about in the Turing Way still apply.
 
 Sometimes, however, there might not be good reasons for the closed source approach.
-Different areas of research have different cultures which run against the grain of open principles and feel very frustrating. 
+Different areas of research have different cultures which run against the grain of open principles and feel very frustrating.
 Tackling this barrier can be very tricky as cultures can take years or decades to change.
 
 Working with closed software can offer both opportunities and threats to your research.

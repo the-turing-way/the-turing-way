@@ -47,8 +47,6 @@
     url: open_research/01/opendata
   - title: Open source software
     url: open_research/02/opensourcesoftware
-  - title: Software licenses
-    url: open_research/02/softwarelicenses
   - title: Open hardware
     url: open_research/03/openhardware
   - title: Open access
@@ -59,6 +57,13 @@
     url: open_research/06/openscholarship
   - title: Resources
     url: open_research/07/resources
+- title: Licensing
+  url: licensing/licensing
+  sections:
+  - title: Software licenses
+    url: licensing/01/softwarelicenses
+  - title: Data licenses
+    url: licensing/02/datalicenses
 - title: Version Control
   url: version_control/version_control
 - title: Collaborating on GitHub/GitLab

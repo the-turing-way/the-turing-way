@@ -1,7 +1,5 @@
 # Software licenses
 
-*Disclaimer: Good legal advice is timely, specific, and given by an expert; this chapter is none of these. It was written by an engineer, not by a lawyer, and it's a heavily simplified overview of a very complex field. The intent is to give you an overview of the basics, so that you will know when to check whether something you want to do has potential legal ramifications. Don't make any important decisions based solely on the contents of this chapter.*
-
 There are many software licenses in existence. Many of those allow the licensee to do very little, but some give you more freedom to use and re-use the licensed software.
 
 The [https://choosealicense.com/](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project.
@@ -50,13 +48,13 @@ Note that it's perfectly fine to sell copies of Free software, or warranty, or d
 
 There are two other, similar definitions in use, the Open Source Institute's [Open Source Definition](https://opensource.org/osd-annotated) and the [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines). The Free Software definition above, due to Richard Stallman, is the simplest and most concise, and in practice the categories they define are almost identical.
 
-Software that is not Free is proprietary. Software that you're not allowed to copy or modify falls into this category, as does software with usage restrictions, e.g. "For research use only" or "For non-commercial use only".
+Software that is not Free is proprietary. Software that you're not allowed to copy or modify falls into this category, as does software with usage restrictions, for example "For research use only" or "For non-commercial use only".
 
 There are some confusingly-named subcategories of proprietary software. _Freeware_ is software that can be copied without paying anyone, but comes without source and cannot be modified. _Shared source_ comes with source, but without permission to modify. Neither of these are Free in the above sense.
 
 ## Derivative software
 
-Within the category of Free software, there are several subcategories, which are distinguished by what is allowed when making derivative software. There are two basic ways of making a derivative work of a program or library: modifying it (forking), and combining it with other software (e.g. using a library in your program). Of course, you can modify and then combine as well.
+Within the category of Free software, there are several subcategories, which are distinguished by what is allowed when making derivative software. There are two basic ways of making a derivative work of a program or library: modifying it (forking), and combining it with other software (for example using a library in your program). Of course, you can modify and then combine as well.
 
 Modifying a program leads to a new program that is derived from the original, much like a new edition of a textbook is derived from the original. Both the original and the modified version are works under copyright law, and both of them may be licensed.
 
@@ -334,3 +332,9 @@ Another option would be to replace one of the dependencies by one written by our
 The fundamental issue here is that the GPL tries to make everyone shared stewards of the software we use, while proprietary software tries to keep control over it in the hands of a single owner.
 
 Combining them in a single project is complicated and not without legal risk, and you should avoid it. If that's not possible, you should tread carefully.
+
+## Further reading
+
+This is a list of additional resources you can read to learn more about software licenses.
+
+ - [Open source licenses: What, which, and why](https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license/)
