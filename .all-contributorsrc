@@ -714,6 +714,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "vdda",
+      "name": "Victoria Dominguez del Angel",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/642451?v=4",
+      "profile": "https://github.com/vdda",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
