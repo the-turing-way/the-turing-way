@@ -62,7 +62,7 @@ efficiency in research workflows, and also [greater reach and impact](https://th
 
 - Managing your data allows you to always find your data
 - Storing your data properly prevents data loss 
-- [Recognition](https://the-turing-way.netlify.com/credit/credit.html) for all research outputs
+- It can help with [recognition](https://the-turing-way.netlify.com/credit/credit.html) for all research outputs
 - It stimulates **collaboration** with others, who will find it easier to understand and reuse your data
 - Managing your data properly increases the quality of scientific practice 
 - RDM is cost/time efficient, as you will always be able to find and use your data
