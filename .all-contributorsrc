@@ -714,6 +714,16 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "LauraCarter",
+      "name": "Laura Carter",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16853500?v=4",
+      "profile": "https://github.com/LauraCarter",
+      "contributions": [
+        "review",
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
