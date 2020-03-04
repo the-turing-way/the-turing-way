@@ -228,7 +228,7 @@ provide some practical advice to ensure your data is clearly organised and human
 
 - Be consistent
 - Write dates as YYYY-MM-DD
-- Don't leave any cells empty, if there is no data use NA (Not Available)
+- Don't leave any cells empty, if there is no data use "NA" (Not Available)
 - Put each observation/sample in its own row
 - Put each variable in a column
 - Each cell should contain information on one thing: seperate multiple pieces of information to different cells
