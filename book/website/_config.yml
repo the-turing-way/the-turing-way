@@ -30,8 +30,8 @@ url: https://the-turing-way.netlify.com # the base hostname & protocol for your 
 # Jupyter Book settings
 
 # Main page settings
-footer_text: This page was created by <a href="https://github.com/jupyter/jupyter-book/graphs/contributors">The
-  Jupyter Book Community</a>
+footer_text: This page was created by <a href="https://github.com/alan-turing-institute/the-turing-way#contributors">The
+  Turing Way Community</a>
 
 # Sidebar settings
 show_sidebar: true                # Show the sidebar. Only set to false if your only wish to host a single page.
