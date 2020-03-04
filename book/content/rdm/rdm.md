@@ -54,19 +54,20 @@ The following sections in this handbook provide useful context and complementary
 
 Research Data Management (RDM) covers how research data can be stored, described and reused. Data here is used as a
 generic term to encompass all digital objects. RDM is a key part in enabling reproducible research. RDM ensures
-efficiency in research workflows, and also [greater reach and impact](https://the-turing-way.netlify.com/credit/credit.html). Data should be stored in multiple locations and backed-up regularly to prevent loss or data corruption. Clearly describing data using documentation and metadata ensures that others know how to access, use and re-use your data, and also enable conditions for sharing and publishing data to be outlined.
+efficiency in research workflows, and also greater reach and impact, as data become FAIR (Findable, Accessible,
+Interoperable and Reuseable). Data should be stored in multiple locations and backed-up regularly to prevent loss or
+data corruption. Clearly describing data using documentation and metadata ensures that others know how to access, use
+and re-use your data, and also enable conditions for sharing and publishing data to be outlined.
 
 <a name="Why-useful"></a>
 
-## What are the benefits of Research Data Management?
+## How this will help you/ why this is useful
 
-- Managing your data allows you to always find your data
-- Storing your data properly prevents data loss 
-- It can help with [recognition](https://the-turing-way.netlify.com/credit/credit.html) for all research outputs
-- It stimulates **collaboration** with others, who will find it easier to understand and reuse your data
-- Managing your data properly increases the quality of scientific practice 
-- RDM is cost/time efficient, as you will always be able to find and use your data
-
+To be able to share data that is understandable and re-usable by third parties, research data needs to be managed
+properly. The FAIR principles provide guidance on how to make data discoverable and reusable. FAIR data is a key
+component of reproducing an analysis. However, FAIR data is not a synonym for open data or quality data. This chapter
+lays out good data management practice to allow you to plan your data management activities at the start of your
+reproducible research project.
 
 ## Chapter content
 
@@ -75,11 +76,13 @@ efficiency in research workflows, and also [greater reach and impact](https://th
 ### What Is Data?
 
 Data are all digital objects that you use and produce during your research life cycle, encompassing datasets, software,
-code, workflow, models, figures, tables, images and videos, interviews, articles. Data are your research asset. In some fields it's obvious what data means - you have observations or results of simulations. However, in other fields, particularly in Social
+code, workflow, models, figures, tables, images, articles. Data are your research asset. In some fields it's obvious
+what data means - you have observations or results of simulations. However, in other fields, particularly in Social
 Sciences, Humanities or Arts, you may be thinking "I don't think I have any data". A good way of thinking about what
 might be classed as data that needs to be managed is to ask yourself the questions "What is the information that I need
 to use and write about in my paper or book?", "What information would I need to back up my conclusions?" and "What
-information is needed by others to understand and possibly replicate the research that I've done?". This information is your data.
+information is needed by a third party to understand and possibly replicate the research that I've done?". This
+information is your data.
 
 <a name="Data-Lifecycle"></a>
 
@@ -100,60 +103,128 @@ re-use or destruction. However, data have a longer lifespan than the research pr
 
 The FAIR guiding principles for scientific data management and stewardship {% cite Wilkinson2016fair %} have been
 developed as guidelines to improve the findability, accessibility, interoperability and re-usability of digital assets;
-all of which will support research reproducibility. Importantly, the FAIR principles not only improve the reusability of data by humans, but also allow machines to automatically find and use digital objects. The capacity of computational systems to find, access, interoperate, and reuse data, with none or minimal human intervention, is essential in today's data-driven era, where
-humans increasingly rely on computational support to deal with data as a result of the increase in [volume, velocity and
-variety](https://www.zdnet.com/article/volume-velocity-and-variety-understanding-the-three-vs-of-big-data/).
+all of which will support research reproducibility. Defined and endorsed by a growing community, these principles put a
+specific emphasis on enhancing the ability of machines to automatically find and use digital objects, in addition to
+supporting its reuse by individuals throughout their life cycle. The capacity of computational systems to find, access,
+interoperate, and reuse data, with none or minimal human intervention, is essential in today's data-driven era, where
+humans increasingly rely on computational support to deal with data as a result of the increase in volume, velocity and
+variety and complexity.
 
 <a name="Theory"></a>
 
 #### Theory
 
-Here is an [overview](https://www.go-fair.org/fair-principles) of what the FAIR principles recommend. In brief,
+Here is a [simple overview](https://www.go-fair.org/fair-principles) of what the FAIR principles recommend. In breif,
 data should be:
 
-**Findable:** the first step in (re)using data is to find them, and descriptive metadata is essential. **Metadata** are information and keywords that provide information about your data.
+**Findable:** the first step in (re)using data is to find them, and descriptive metadata is essential.
+
+- F1. (Meta)data are assigned a globally unique and persistent identifier
+- F2. Data are described with rich metadata (defined by R1 below)
+- F3. Metadata clearly and explicitly include the identifier of the data they describe
+- F4. (Meta)data are registered or indexed in a searchable resource
 
 **Accessible:** to get data one needs to know if authentication and authorisation is necessary, or if data is open with
 no restrictions.
 
-**Interoperable:** data need to be integrated with other data and/or interoperate with applications or workflows. This is enabled by using commmon vocabulary and using [metadata standards](https://fairsharing.org/standards/).
+- A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
+- A1.1 The protocol is open, free, and universally implementable
+- A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
+- A2. Metadata are accessible, even when the data are no longer available
 
-**Reusable:** data should be documented so that they can be used or replicated in different settings.
+**Interoperable:** data need to be integrated with other data and/or interoperate with applications or workflows.
 
-It is important to stress that making data 'FAIR' is not the same as making it 'open'. Not all data can be shared openly, and matters of privacy, IP rights and national security should be kept in mind. Data should therefore be as open as possible, as closed as necessary.
+- I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
+- I2. (Meta)data use vocabularies that follow FAIR principles
+- I3. (Meta)data include qualified references to other (meta)data
 
-FAIR is also not the same as reproducible. While data and [software](https://doi.org/10.6084/m9.figshare.7449239.v2) that are compliant with the FAIR principles may be more likely to be reproducible, the FAIR principles are not a standard that improves data and software quality. 
+**Reusable:** data should be well-described so that they can be used or replicated in different settings.
 
-It is much easier to make data FAIR if you plan to do this from the beginning of your research project. One way to do
-this is to create a Data Management Plan (DMP), in [DMPonline](https://dmponline.dcc.ac.uk/) or just as a text file, to
-help you think through how to manage your data. The DMP should include information on data creation (volume,
-formats/types and workflows), data use (where the raw or 'live' data is being stored and backed-up), data publication and data
-archiving at the end of the project (long-term data storage, or data archiving), and any ethical or legal issues that have to be addressed (if applicable). DMPs are not written in stone and serve as a guiding tool that should be regularly updated as the research project progresses or diverge from the initial design.
+- R1. Meta(data) are richly described with a plurality of accurate and relevant attributes
+- R1.1. (Meta)data are released with a clear and accessible data usage license
+- R1.2. (Meta)data are associated with detailed provenance
+- R1.3. (Meta)data meet domain-relevant community standards
+
+It is important to stress that making data 'FAIR' is not the same as making it 'open' (as accessibility principle
+clearly explains). Data should be as open as possible, as closed as necessary.
+
+The FAIR principles refer to three types of entities: data (as any digital object), metadata (information about that
+digital object), and infrastructure (such as software and repositories). For instance, the findability principle F4 defines
+that both metadata and data are registered or indexed in a searchable resource (such as a data repository). For example,
+the FAIR principles are also being applied to [software](https://doi.org/10.6084/m9.figshare.7449239.v2), and projects
+where the data and software are both FAIR the research is more likely to be reproducible.
+
+### Data Management Plans (DMP) 
+
+In a recent report from European community has demonstrated that the minimum cost of not having FAIR research data for the EU is €10.2B per year [EU_publication](https://op.europa.eu/en/publication-detail/-/publication/d375368c-1a0a-11e9-8d04-01aa75ed71a1/language-en).
+
+To face facing the lack of interoperability and reproducibility, external pressure is rising on researchers, in general, to ensure reproducibility of make sure the experiments, the long-term findability, accessibility and reusability of  the  are reproducible and that the resulting data is accessible and reusable for others for a longer time.
+
+To tackle these problems, the European countries are now enforcing both at both the national level and at the European levels the development of Data Management Plans (DMP) by the researchers. DMPs are, formalised in documents detailing how the data produced by from a research project has to be managed with the FAIR principles throughout its life cycle. One way to do this is to create a Data Management Plan (DMP), in [DMPonline](https://dmponline.dcc.ac.uk/), [OPIDOR](https://dmp.opidor.fr/) or just as a text file, to help you think through how to manage your data. The DMP should include information on data creation (volume,formats/types and workflows), data use (where the raw or 'live' data is being stored), data publication and data
+archiving at the end of the project (long-term data storage, or what data is 'kept' at the end of a project). DMPs
+should also regularly be updated as the research project progresses or diverge from the initial design.
+
+Recently, a H2020 project led by the Infrastructure ESFRI [ELIXIR](https://elixir-europe.org/) has been started on this topic [ELIXIR-CONVERGE](https://elixir-europe.org/about-us/how-funded/eu-projects/converge).
+With partners from all 23 Nodes, ELIXIR-CONVERGE will start the work of creating a European data federation where interconnected national operations allow users to extract large, diverse datasets across national boundaries. 
+
 
 <a name="Tools-indicators"></a>
 
-#### FAIR communities
+#### Tools and indicators
 
-If you are interested in following the discussion and/or participate in it, here are two global and international initiatives that act as umbrella organizations and reference points for many discipline specific efforts: [GOFAIR](https://www.go-fair.org) and the [Research Data Alliance (RDA)](https://www.rd-alliance.org). Watch these spaces!
+Altought started by a community operating in the life science, the FAIR principles have rapidly been adopted by
+publishers, funders, and pan-disciplinary infrastructure programmes and societies, in all disciplines. Many groups and
+organization are working to define guidances and tools to help researchers, as well as other stakeholders (such as
+librarians, funders, publishers, and trainers) to make data FAIR and assess its FAIRness level.
+
+This rapid uptake and community involvement, however, has also caused some confusion and ambiguity on what FAIRness is
+and how we can measure it. It is important to say that the FAIR principles are aspirational, in that they do not
+strictly define how to achieve a state of FAIRness, but rather describe a continuum of features, attributes, and
+behaviors that will move a digital resource closer to that goal.
+
+Listing all efforts working in and around FAIRness is practically impossible, as this is a fast moving, disperse and
+diverse field. Nevethless, if you are interested in following the discussion and/or participate in it, here are two
+global and international initiatives that act as umbrella organizations and reference points for many discipline
+specific efforts: [GOFAIR](https://www.go-fair.org) and the [Research Data Alliance (RDA)](https://www.rd-alliance.org).
+Under GOFAIR there are many [Implementation Networks (INs)](https://www.go-fair.org/implementation-networks) committed
+to implementing elements of the Internet of FAIR Data and Services within the three pillars: GO Build (Technology), GO
+Change (Culture) and GO Train (Training). Under the RDA there are several groups tackling different aspects relevant to
+the RDM life cycle, and among these one [group](https://www.rd-alliance.org/groups/fair-data-maturity-model-wg) is
+reviewing existing efforts, building on them to define a common set of common assessment criteria for the evaluation of
+FAIRness. Watch this space!
 
 <a name="Metadata-identifiers"></a>
 
-#### Metadata - community standards
+#### Metadata and identifiers - community standards
 
-The use of community-defined standards for metadata and identified is vital for high-quality, reproducible research and for the integrative analysis and comparison of heterogeneous data from multiple sources, domains and disciplines. 
+Metadata (to describe and report the data) and unique persistent identifiers (to cite and reference data) are the two
+pillars of the FAIR principles. The use of community-defined standards for metadata and identified is vital for
+high-quality, reproducible research and for the integrative analysis and comparison of heterogeneous data from multiple
+sources, domains and disciplines. Although also in this areas there is a lot of work in progress, and expecially
+metadata standards are disciplines specific, or specific to a given digital object, you need to know what these are and
+which one are relevant to your data type in order to mention them in your DMP and use them.
 
-You can use [FAIRsharing](https://fairsharing.org) to identify community-defined standards for metadata and/or identifier schemas, databases or repositories that exist for your data and discipline. You can document these standards and repositories in your data management plan so that you can easily find and use them in your research. 
+You can use [FAIRsharing](https://fairsharing.org) as a lookup resource to identify and cite the metadata and/or
+identifier schemas, databases or repositories that exist for your data and discipline, for example, when creating a data
+management plan for a grant proposal or funded project; or when submitting a manuscript to a journal, to identify the
+recommended databases and repositories, as well as the standards they implement to ensure all relevant information about
+the data is collected at the source. FAIRsharing also operates under GOFAIR and the RDA, and is
+[widely adopted](https://fairsharing.org/communities) by publishers, funders, and other organizations; like any other
+FAIR-enabling resources, it will continue to evolve, better linking to DMP and FAIRness assessment tools, to better help
+you maing data FAIR a reality.
+
 <a name="Storage-backup"></a>
 
 ### Storage and backup
 
-Data loss can be catastrophic for your research project. You can prevent data loss by picking suitable storage solutions and backing your data up frequently.
+Data loss can be catastrophic for your research project and can happen often. You can prevent data loss by picking
+suitable storage solutions and backing your data up frequently.
 
 <a name="Where-store"></a>
 
 #### Where to store data
 
-- Most institutions will provide a _network drive_ that you can use to store data, and this is usually backed-up automatically by the institution.
+- Most institutions will provide a _network drive_ that you can use to store data.
 - _Portable storage media_ such as memory sticks (USB sticks) are more risky and vulnerable to loss and damage.
 - _Cloud storage_ provides a convenient way to store, back and up and retrieve data. You should check terms of use
   before using them for your research data.
@@ -165,11 +236,17 @@ files where needed.
 Your institution might provide local storage solutions and policies or guidelines restricting what you can use. Thus, we
 recommend you familiarise yourself with your local policies anc recommendations.
 
+When you are ready to release the data to the wider community, you can also search for the appropriate
+[databases and repositories](https://fairsharing.org/databases) in FAIRsharing, according to your data type, and type of
+access to the data. Major
+[publishers are progressively defining clearer recommendations for data deposition and sharing](https://fairsharing.org/recommendations),
+endorsing specific generics as well as domain-sepecific databases and repositories.
+
 <a name="Backups"></a>
 
 #### Backups
 
-To avoid loosing your data:
+To avoid loosing your data, you should follow good backup practices.
 
 - You should have 2 or 3 copies of your files, stored on
 - at least 2 different storage media,
@@ -179,31 +256,8 @@ The more important the data and the more often the datasets change, the more fre
 files take up a large amount of space and backing up all of them would be difficult or expensive, you may want to create
 a set of criteria for when you back up the data. This can be part of your data management plan.
 
-### File Naming conventions
-
-Structure your file names and set up a template for this. It is very useful to start with the date (when the file was generated: YYYYMMDD) which will sort your files chronologically and also creates a unique identifier for each file. (It will be immediately clear if there are multiple files generated on the same day that will have to be given a version number –or “A, B”-, because otherwise overwriting would occurs if you store these files in the proper folder). 
-
-Tips for file naming: 
-• Date or date range of experiment: YYYYMMDD
-• File type
-• Researcher name/initials
-• Version number of file (v001, v002) or language used in the document (ENG)
-• Don’t make file names too long (this can complicates file transfers)
-• Avoid special characters (?\!@*%{[<>) and spaces
-
-You can explain the file naming convention in a README.txt file, so that it will also become clear to others what the file names mean. 
-
-
-### Data organisation
-
-To organise your data you can create a folder structure (or re-use a [folder structure](http://nikola.me/folder_structure.html) to ensure that you are able to find your files. 
-
--	Make sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they don’t belong or stored in large quantities in a single folder 
--	Use a clear folder structure: you can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example above), or based on analysis method/equipment/type of data. 
-
-You can also pull/download folder structures using GitHub. [This template](https://github.com/bvreede/good-enough-projec) by Barbara Vreede, based on [cookiecutter](https://github.com/cookiecutter/cookiecutter), follows recommended practices for scientific computing by [Wilson et al. (2017)](https://doi.org/10.1371/journal.pcbi.1005510).
-
 <a name="Spreadsheets"></a>
+
 ### Data organisation in spreadsheets
 
 Spreadsheets, such as Microsoft Excel files, are commonly used to collect, store, manipulate, analyse, and share
@@ -228,17 +282,16 @@ provide some practical advice to ensure your data is clearly organised and human
 
 - Be consistent
 - Write dates as YYYY-MM-DD
-- Don't leave any cells empty, if there is no data use "NA" (Not Available)
-- Put each observation/sample in its own row
-- Put each variable in a column
-- Each cell should contain information on one thing: seperate multiple pieces of information to different cells
-- Don't include calculations in the raw data files: leave the raw data alone!
-- Don’t use font color or highlighting, consider adding another variable/column for this information
-- Choose good/clear names for observations and variables and make sure there are no spaces in names
+- Don't leave any cells empty
+- Put just one thing in a cell
+- Organize the data as a single rectangle
+- Create a data dictionary
+- Don't include calculations in the raw data files
+- Don’t use font color or highlighting as data
+- Choose good names for things
+- Make backups
 - Use data validation to avoid data entry mistakes
-- Save the data in text files (such as .CSV - comma-separated values) to ensure interoperability with other software programmes.
-
-To learn more about spreadsheet organisation, have a look at the Data Carpentry lessions for [Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/) and [Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/). 
+- Save the data in plain text files
 
 <a name="Documentation-Metadata"></a>
 
@@ -258,9 +311,9 @@ weaknesses, and analytical limitations of the data so that they can make informe
   termonologies, and models/schemas) are searchable in FAIRsharing.
 - Variables should be defined and explained using
   [data dictionaries](http://help.osf.io/m/bestpractices/l/618767-how-to-make-a-data-dictionary)
-- Data should be stored in logical and hierarchical folder structures with a README file used to describe the structure.
+- Data should be stored in logical and heirarchical folder structures with a README file used to describe the structure.
   The README file is helpful for others and will also help you find your data in the future
-  {% cite Fuchs2018documentation %}. See [here](https://cornell.app.box.com/v/ReadmeTemplate) for an example. 
+  {% cite Fuchs2018documentation %}.
 
 <a name="Sharing-Archiving"></a>
 
@@ -270,13 +323,28 @@ weaknesses, and analytical limitations of the data so that they can make informe
 
 #### Motivations for sharing data
 
-Sharing your research data is important for several reasons:
+The world is witnessing a significant global transformation, facilitated by technology and digital media, and fueled by
+data and information. This transformation has enormous potential to foster more transparent, accountable, efficient,
+responsive, and effective research. Only a very small proportion of the original data is published in conventional
+scientific journals. Existing policies on data archiving notwithstanding, in today’s practice data are primarily stored
+in private files, not in secure institutional repositories, and effectively are lost to the public. This lack of access
+to scientific data is an obstacle to international research for two main reasons:
 
 1. It is generally difficult or impossible to fully reproduce a scientific study without the original data.
-2. To prevent duplicate efforts: Large amounts of research funds and careers of researchers can be wasted by only sharing a small part of research in the form of publications. Data sharing therefore also speeds up the scientific progress.
-3. It facilitates collaboration and increases the impact and quality of scientific research.
-4. Research is often publically-funded, so the results of this research should be openly available as a public good.
+2. It often causes unnecessary duplication of research efforts; large amounts of research funds are spent every year to
+   recreate already existing data. Furthermore, it inhibits joint research activities on various aspects of the same
+   problem.
 
+Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and
+expansion of effective, efficient research programs. Sharing data openly is crucial to meeting these objectives. Open
+data means that the data is freely available on the internet permitting any user to download, copy, analyse, re-process,
+and re-use it for any other purpose without financial, legal, or technical barriers other than those inseparable from
+gaining access to the internet itself. This represents a real shift in how research works. At the moment anyone who
+wishes to use scientific data from a researcher often has to contact that researcher and make a request. Open by default
+turns this on its head and says that there should be a presumption of publication for all. Researchers need to justify
+data that’s kept closed, for example for security or data protection reasons. Free access to, and subsequent use of,
+data is of significant value to society and the economy, and that data should, therefore, be open by default. Research
+is often publically-funded, so the results of this research should be openly available as a public good.
 <a name="Steps-Share"></a>
 
 ### Steps to share your data
@@ -289,7 +357,9 @@ to reproduce your research.
 
 #### Step 2: Choose a data repository or other sharing platform
 
-Data should be shared in a data repository where possible so that it will be accessible in the long-run. Suitable data repositories by subject, content type or location can be found at [Re3data.org](https://www.re3data.org/) and in [FAIRsharing](https://fairsharing.org/databases) where you can also see
+Data should be shared in a formal, open, and indexed data repository where possible so that it will be accessible in the
+long-run. Suitable data repositories by subject, content type or location can be found at
+[Re3data.org](https://www.re3data.org/) and in [FAIRsharing](https://fairsharing.org/databases) where you can also see
 which standards (metadata and identifier) the repositories implement and which journal/publisher recommend them. If
 possible use a repository which assigns a DOI, a digital object identifier, to make it easier for others to cite your
 data.
@@ -302,9 +372,11 @@ sufficient documentation and metadata that someone else can understand your data
 #### Step 4: Choose a licence and link to your paper and code
 
 So that others know what they can do with your data you need to apply a licence to your data. The most commonly used
-licences are [Creative Commons](https://creativecommons.org/choose/). To get maximum value from data sharing make sure that your paper and code both link to your data, and vice versa, to allow others to best understand and cite your project. For practical guidance on how to do this, see the credit chapter.
-
-<a name="Barriers-Share"></a>
+licences are [Creative Commons](https://creativecommons.org/choose/),
+[Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), or an
+[Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/index.html). To get maximum value from
+data sharing make sure that your paper and code both link to your data, and vice versa, to allow others to best
+understand your project. <a name="Barriers-Share"></a>
 
 ### Barriers to data sharing
 
@@ -328,7 +400,10 @@ and ethics procedures as they are established in most research institutions {% c
 ##### Consent
 
 In order to make sure that anonymised research data can be made available for future reuse, it is important that consent
-forms cover sharing data with other researchers. Participant information sheets and consent forms should include how research data will be stored, preserved and used in the long-term, and how confidentiality will be protected when needed.
+forms cover sharing anonymised data with other researchers. Research so far suggests that study participants are usually
+less concerned about the data being archived and shared than researchers think {% cite Kuula2010archiving %}.
+Participant information sheets and consent forms should include how research data will be stored, preserved and used in
+the long-term, and how confidentiality will be protected when needed.
 
 ##### Anonymisation
 
@@ -351,9 +426,7 @@ commercially sensitive information of a company is disclosed, it will damage the
 undermine competitiveness. This is based on the thinking that in competitive markets, innovation will only occur with
 some protection of information: if a company spends time and money developing something new, the details of which are
 then made public, then its competitors can easily copy it without having to invest the same resources. The result is
-that no-one would innovate in the first place. 
-
-Similarly governments are often unwilling to publish data that relates to
+that no-one would innovate in the first place. Similarly governments are often unwilling to publish data that relates to
 issues such as national security due to public safety concerns. In such cases it may not be possible to make data open,
 or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy.
 
@@ -440,8 +513,8 @@ My advice: be aware, be FAIR!
 
 ## What to learn next
 
-If you haven't read the chapters on Open Research and Credit yet, you might want to read it now for more context on how research
-data management supports Open Research and how these practises can result in getting attribution for your work (Credit). <a name="Further-Reading"></a>
+If you haven't read the chapter on Open Research yet, you might want to read it now for more context on how research
+data management supports Open Research. <a name="Further-Reading"></a>
 
 ## Further reading
 
@@ -457,10 +530,7 @@ data management supports Open Research and how these practises can result in get
 **RDM:** - Research Data Management  
 **DMP:** - Data Management Plan  
 **FAIR:** - Findable, Accessible, Interoperable and Reusable  
-**METADATA:** - Data that describes other data
-**Data Repository** - Online archive or platform that stores and curates your data, ideally issuing a Digital Object Identifier (DOI) so your data is easily findable and citable.
-**DOI** Digital Object Identifier
-
+**METADATA:** - Data that describes other data  
 <a name="Bibliography"></a>
 
 ## Bibliography
