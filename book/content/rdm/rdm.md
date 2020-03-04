@@ -153,7 +153,7 @@ Data loss can be catastrophic for your research project. You can prevent data lo
 
 #### Where to store data
 
-- Most institutions will provide a _network drive_ that you can use to store data, which is generally automatically backed up.
+- Most institutions will provide a _network drive_ that you can use to store data, and this is usually backed-up automatically by the institution.
 - _Portable storage media_ such as memory sticks (USB sticks) are more risky and vulnerable to loss and damage.
 - _Cloud storage_ provides a convenient way to store, back and up and retrieve data. You should check terms of use
   before using them for your research data.
