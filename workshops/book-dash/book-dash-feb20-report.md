@@ -192,7 +192,7 @@ This was a mutually beneficial experience and a wonderful addition to the origin
 
 ## Turing Way Logo and other artworks from Scriberia
 
-During the book dash events last year, we invited an artist (Matt) from [Scriberia](http://www.scriberia.co.uk/) who had created a set of excellent illustrations, shared on Zenodo: https://doi.org/10.5281/zenodo.3332807, which are available under a CC-BY licence. 
+During the book dash events last year, we invited an artist (Matt) from [Scriberia](http://www.scriberia.co.uk/) who had created a set of excellent illustrations, shared on Zenodo: http://doi.org/10.5281/zenodo.3695300, which are available under a CC-BY licence. 
 These artworks have been massively re-used and shared not only by _The Turing Way_ members but other researchers in their projects, online interactions and presentations. 
 Encouraged by such positive responses, we invited another Scriberia artist - Sam, to the last book dash event. 
 Our attendees discussed their ideas and helped Sam capture important concepts they were working on during the book dash and other relevant concepts in general.
@@ -203,9 +203,9 @@ We also took this opportunity to co-create a logo, which we are happy to share w
 
 *_The Turing Way_ Community, & Scriberia. Illustrations from the book dash 2020*
 
-The remaining artwork have been shared on Zenodo: https://doi.org/10.5281/zenodo.3332807 under CC-BY license and will be added in the book going forward.  Please wait to share them on social media as the Turing Way Team will get the attribution sorted.
+The remaining artwork have been shared on Zenodo: http://doi.org/10.5281/zenodo.3695300 under CC-BY license and will be added in the book going forward.  Please wait to share them on social media as the Turing Way Team will get the attribution sorted.
 
-Once published, you are welcome to share, reuse and distribute them by attributing "_The Turing Way_ Community, & Scriberia. Illustrations from _The Turing Way_ book dashes". 
+Once published, you are welcome to share, reuse and distribute them by attributing "The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300".
 
 ## Feedback
 
@@ -348,4 +348,57 @@ Please feel free to reach out to the team members (theturingway@gmail.com) or di
 
 ### More illustrations by Scriberia artist created with the ideas and contributions from the participants
 
-*All the illustrations can be used under CC-By license using the citation: "_The Turing Way_ Community, & Scriberia. Illustrations from _The Turing Way_ book dashes"*
+*All the illustrations can be used under CC-By license using the citation: "The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300".
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:32fbdb89-ae1b-434e-830c-88ade86724cc:BannerCongratulations.jpg/full/750,/0/default.jpg)
+*Congrats banner - for celerate-a-bot*
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:7fbd97cf-283b-480c-b8e1-11866e26245c:BannerThanks.jpg/full/750,/0/default.jpg)
+*Thanks banner - for celerate-a-bot*
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:8ff47a85-7250-4d86-8e48-2f346b48b2c1:BannerWelcome.jpg/full/750,/0/default.jpg)
+*Welcome banner - for celerate-a-bot*
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:1adc0f05-a4e7-461f-a8c9-47c12889e45f:Collaboration.jpg/full/750,/0/default.jpg)
+*There is more to collaboration*
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:8712a2a1-d3fb-4b9a-8207-275cec23e4dc:DistributedCollaboration.jpg/full/750,/0/default.jpg)
+*Distributed collaboration*
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:2b016bab-d7c7-4e42-9143-513e61a11d95:DOI.jpg/full/750,/0/default.jpg)
+*Importance of DOI*
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:4992e509-2a77-4d45-bb57-c8eaa8a5d9fe:OrcidIDs.jpg/full/750,/0/default.jpg)
+*ORCID for recognition*
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:58343423-ccf8-46d6-ae3d-6a760fbb1720:ResearchCompendium.jpg/full/750,/0/default.jpg)
+*Research Compendium*
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:b21a2200-406c-41ee-aee6-70dac4e5ab5b:Jupyter.jpg/full/750,/0/default.jpg)
+*Jupyter Lab - notebook, markdown files, book*
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:b4dea03a-ec70-4b0f-b03b-319de1160462:ErrorManagement.jpg/full/750,/0/default.jpg)
+*Code error handling*
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:df931888-09af-4eac-945f-0c208be0c26b:ProjectHistory.jpg/full/750,/0/default.jpg)
+*Tracking project history*
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:d07eee51-b6da-488d-a436-fc6e6885c1d0:VersionControl.jpg/full/750,/0/default.jpg)
+*Version control*
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:0e2654a7-fe26-4a26-8d81-57b0ee83975d:ProjectDesign.jpg/full/750,/0/default.jpg)
+*Project design aspects of data research*
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:6f6dffbf-774c-450c-9b22-df9f0955e643:Outreach.jpg/full/750,/0/default.jpg)
+*Outreach aspects of data research*
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:e1bece32-51d8-4bc3-a531-8c3ef9edb12b:DataEcosystem.jpg/full/750,/0/default.jpg)
+*Data ecosystem*
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:6a6cd397-f551-4402-92c4-697a4b77dd37:PrivateData.jpg/full/750,/0/default.jpg)
+*Data Privacy*
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:eb712e05-4e8c-4346-bf02-f83bd2c018f8:LegalRestrictions.jpg/full/750,/0/default.jpg)
+*Legal restrictions around sharing data*
+
+
