@@ -12,7 +12,7 @@ Our first [book dash](LINK) of the year took place on 20 and 21 February 2020 at
   + [Credit for Reproducibility](#credit-for-reproducibility)
   + [Data management and publication](#data-management-and-publication)
   + [Tools and methods for reproducible research](#tools-and-methods-for-reproducible-research)
-  + [Bots and resources for creating a welcoming learning and contribution experiences](#bots-and-resources-for-creating-a-welcoming-learning-and-contribution-experiences)
+  + [Bots and resources for positive learning and contributing experiences](#bots-and-resources-for-positive-learning-and-contributing-experiences)
   + [Ethical aspects of data science](#ethical-aspects-of-data-science)
   + [Collaboration and contribution aspects of data science](#collaboration-and-contribution-aspects-of-data-science)
   + [Project planning and designing](#project-planning-and-designing)
@@ -148,7 +148,7 @@ Facilitated by Sarah Gibson, we closed the working hours by celebrating everyone
 * Adina Wagner restructured the version control chapter by extending it with a section on data version control and a personal impact story ([issue #856](https://github.com/alan-turing-institute/the-turing-way/issues/856), [PR #859](https://github.com/alan-turing-institute/the-turing-way/pull/859)). She also created an issue on extending the "reproducible research with Make" ([issue #854](https://github.com/alan-turing-institute/the-turing-way/issues/854)) which she fixed by adding new demonstrations to the chapter ([PR #915](https://github.com/alan-turing-institute/the-turing-way/pull/915)).
 * Louise Bowler worked on a case study on reproducible environment ([PR #864](https://github.com/alan-turing-institute/the-turing-way/pull/864)) that was reviewed by Nathan Begbie! 
 
-### Bots and resources for creating a welcoming learning and contribution experiences
+### Bots and resources for positive learning and contributing experiences
 * Louise also started to work on at all-contributors bot to make sure all _The Turing Way_ community members are acknowledged appropriately.
 * Nathan Begbie started to work on a "celebrate-o-bot" for first-time contributors. He also reviewed the [PR #864](https://github.com/alan-turing-institute/the-turing-way/pull/864) and [PR #857](https://github.com/alan-turing-institute/the-turing-way/pull/857).
 * Heidi also opened an issue to add content of file-naming for new learners ([issue #886](https://github.com/alan-turing-institute/the-turing-way/issues/886), [#PR 904](https://github.com/alan-turing-institute/the-turing-way/pull/904)) few issues for first time contributors.
@@ -347,3 +347,5 @@ Please feel free to reach out to the team members (theturingway@gmail.com) or di
 *Right to left - [Mateusz Kuzak](https://twitter.com/matkuzak) coordinating with the remote participants from eScience center in Netherlands, Heidi Siebold discussing her illustration idea on Research Compendium with Sam from [Scriberia](http://www.scriberia.co.uk/), Behind - Adina and Kirstie discussing version control (picture by Malvika Sharan)*
 
 ### More illustrations by Scriberia artist created with the ideas and contributions from the participants
+
+*All the illustrations can be used under CC-By license using the citation: "_The Turing Way_ Community, & Scriberia. Illustrations from _The Turing Way_ book dashes"*
