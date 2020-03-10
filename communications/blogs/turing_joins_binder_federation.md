@@ -75,7 +75,7 @@ There are [documentation](https://binderhub.readthedocs.io) and [tutorials](http
 ## About The Alan Turing Institute
 
 [The Alan Turing Institute](https://turing.ac.uk), headquartered in the British Library, London, is the UK's national institute for data science and artificial intelligence.
-The Institute acts as a hub, bringing together cutting edge research from it's network of [university and industry partners](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations) to solve real world problems across it's range of [challenge areas](https://www.turing.ac.uk/research/challenges).
+The Institute acts as a hub, bringing together cutting edge research from its network of [university and industry partners](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations) to solve real world problems across its range of [challenge areas](https://www.turing.ac.uk/research/challenges).
 The Institute's mission is to make great leaps in data science and artificial intelligence research in order to change the world for the better.
 Turing researchers collaborate across disciplines to generate impact, both through theoretical development and application to real-world problems.
 
