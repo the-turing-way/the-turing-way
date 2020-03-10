@@ -1,4 +1,4 @@
-# The Turing Institute invests in Open Infrastructure for Reproducible Research
+# The Turing Institute Invests in Open Infrastructure for Reproducible Research
 
 _This is an invited post from The Turing Way and The Alan Turing Institute, collaborators on the Binder project and new members of the Binder Federation._
 
