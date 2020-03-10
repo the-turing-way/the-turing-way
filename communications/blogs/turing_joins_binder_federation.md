@@ -3,30 +3,30 @@
 _This is an invited post from The Turing Way and The Alan Turing Institute, collaborators on the Binder project and new members of the Binder Federation._
 
 We are delighted to announce the fourth member of the Binder Federation: [The Alan Turing Institute](https://www.turing.ac.uk/)!
-Based in London UK, their infrastructure is hosted on [Microsoft Azure](https://azure.microsoft.com/en-gb/) cloud and is supported by [_The Turing Way_](https://github.com/alan-turing-institute/the-turing-way) project.
+Based in London UK, their infrastructure is hosted on [Microsoft Azure](https://azure.microsoft.com/en-gb/) and is supported by [_The Turing Way_](https://github.com/alan-turing-institute/the-turing-way) project.
 
 ## Reproducible and Transparent Science Communication
 
-Science moves forward by corroboration and the reproducibility crisis in science is [well known](https://www.nature.com/collections/prbfkwmwvz).
+Science moves forward by corroboration, yet the [well known](https://www.nature.com/collections/prbfkwmwvz) reproducibility crisis is holding back progress.
 When a paper is published, there is generally no way for an outsider to verify its results because the underlying data and analysis code are not available for scrutiny.
-This makes the science very difficult to build upon and results in fragile advances and lots of wasted time and money.
-As well as a cultural change in our approach to data science (such as the abolition of 'publish or perish' incentives, secrecy around data, and the drive for novelty), there is also a need for a practical change in the way science is communicated so that it is more transparent regarding the steps that were taken to produce the results.
+This makes the science very difficult to build upon and results in fragile advances and a lot of wasted time and money.
+In addition to a cultural change in our approach to data science (such as the abolition of 'publish or perish' incentives, secrecy around data, and the drive for novelty), there is also a need for a practical change in the way science is communicated so that it is more transparent regarding the steps that were taken to produce the results.
 This is one of the reasons [funders and publishers are beginning to require that publications include access to the underlying data and analysis code](https://www.data.cam.ac.uk/funders).
 
-There are a lot of tools available that can make packaging code and resources a lot easier.
+There are  many tools available that can make packaging code and resources easier.
 [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) are a very popular method of combining code, its results and prose to produce an interactive scientific analysis.
 [Docker](https://docs.docker.com/engine/docker-overview/) is used to bundle together, code, data and the software environment into a "container" in such a way that it is easily reused and portable across different systems.
 Using cloud computing resources, these tools can be made accessible to anyone, anywhere in the world.
 However, learning all of these tools individually (let alone combining them together) can be a huge barrier to researchers since they require a lot of time investment to learn and implement properly.
 
 [BinderHub](https://binderhub.readthedocs.io/en/latest/) is the computational infrastructure that coordinates all of these tools to provide an easy method of creating computing environments for scientific analyses that are reproducible and shareable with anyone, anywhere.
-It rewards reproducible data science and software engineering best practices as it requires a version controlled project with documented software dependencies in order to automatically generate the environment.
+It rewards reproducible data science and software engineering best practices, as it requires a version-controlled project with documented software dependencies in order to automatically generate the environment.
 
 Turing Research Fellow and lead developer of _The Turing Way_, [Dr Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), had the following comment on the BinderHub technology.
 
 > BinderHubs package together really fantastic tools like notebooks, docker, cloud computing resources, coordination engines, along with clear version control to deliver reproducible research at the click of a button.
 >
-> -- Dr Kirstie Whitaker
+> -- [Dr Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), Turing Research Fellow and lead developer of _The Turing Way_
 
 ![BinderHub](https://zenodo.org/api/iiif/v2/e4125eaf-b456-4097-85fc-6a2e80482d1c:96c70193-2f9e-442d-8cf8-21485d8864e1:1728_TURI_Book%20sprint_45%20repo2docker_040619_v2_MK.jpg/full/750,/0/default.jpg)
 
@@ -36,7 +36,7 @@ Turing Research Fellow and lead developer of _The Turing Way_, [Dr Kirstie Whita
 It is a community of scientists and open-source developers dedicated to scientific reproducibility, communicating ideas through interactive computing, and providing real-time access to results and analyses.
 The Binder Federation provides interactive data analytics environments to roughly 10,000 unique repositories via 400,000 launches a month, and it relies on its team of partner BinderHubs to collaborate in providing this service.
 
-[GKE](https://jupyterhub-team-compass.readthedocs.io/en/latest/team.html#binder-team), [OVH](https://www.ovh.com/world/), [GESIS](https://notebooks.gesis.org/about/) and now new members the Turing pool their resources to create a sustainable, open-source infrastructure that allows easy creation, sharing of and access to reproducible computational environments.
+[GKE](https://jupyterhub-team-compass.readthedocs.io/en/latest/team.html#binder-team), [OVH](https://www.ovh.com/world/), [GESIS](https://notebooks.gesis.org/about/) and now new member **the Turing Institute** pool their resources to create a sustainable, open-source infrastructure that allows easy creation, sharing of and access to reproducible computational environments.
 Pooling resources in such a way is an important step for the resilience and sustainability of Project Binder since the dependency between mybinder.org and its funding is now spread across many sources.
 It also facilitates the decentralisation of the knowledge required to deploy and manage a BinderHub.
 
@@ -58,13 +58,15 @@ If this has piqued your interest, there are a few ways to get involved in the Bi
 One way is to become a [mybinder.org](https://mybinder.org) operator.
 This is a low-tech contribution which involves hanging out in the project's [gitter room](https://gitter.im/jupyterhub/binder) answering questions, providing constructive input in the [GitHub repo](https://github.com/jupyterhub/binderhub), and being an active member of the community.
 Invitations to join the operating team are extended to outstanding members of our community.
+You can [learn more about how to contribute to Binder and JupyterHub here](https://jupyterhub-team-compass.readthedocs.io/en/latest/contributing.html).
 
-Alternatively, you could join the federation by facilitating the deployment of a  BinderHub!
+Alternatively, you could [join the BinderHub federation](https://binderhub.readthedocs.io/en/latest/federation/federation.html)
+by facilitating the deployment of a  BinderHub!
 You can donate a cluster or cloud credits to the mybinder.org operating team.
 Your deployment would then be managed from the [mybinder.org-deploy repo](https://github.com/jupyterhub/mybinder.org-deploy) with input from the team and community.
 This is a more high-tech contribution but over a shorter time period.
 
-Lastly rather than joining the federation, you could deploy your own BinderHub for your organisation.
+Lastly, rather than joining the Federation, you could deploy your own BinderHub for your organisation.
 A BinderHub for an organisation is incredibly valuable for opening the pathway to reproducible research using greater computational resources, access to private data, and other features not offered by the public and free mybinder.org service.
 This is still a beneficial pathway for the Binder community because the more BinderHubs that exist in the world, the more we can learn together around solving implementation issues and the more we decentralise the knowledge required to deploy and run a BinderHub.
 
@@ -72,9 +74,9 @@ There are [documentation](https://binderhub.readthedocs.io) and [tutorials](http
 
 ## About The Alan Turing Institute
 
-[The Alan Turing Institute](https://turing.ac.uk), headquarterd in the British Library, London, is the UK's national institute for data science and artificial intelligence.
-The Institute acts as a hub bringing together cutting edge research from it's network of [university and industry partners](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations) to solve real world problems across it's range of [challenge areas](https://www.turing.ac.uk/research/challenges).
-This Institute's mission is to make great leaps in data science and artificial intelligence research in order to change the world for the better.
+[The Alan Turing Institute](https://turing.ac.uk), headquartered in the British Library, London, is the UK's national institute for data science and artificial intelligence.
+The Institute acts as a hub, bringing together cutting edge research from it's network of [university and industry partners](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations) to solve real world problems across it's range of [challenge areas](https://www.turing.ac.uk/research/challenges).
+The Institute's mission is to make great leaps in data science and artificial intelligence research in order to change the world for the better.
 Turing researchers collaborate across disciplines to generate impact, both through theoretical development and application to real-world problems.
 
 ## About _The Turing Way_
