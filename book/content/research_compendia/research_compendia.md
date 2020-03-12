@@ -21,7 +21,7 @@ The main purpose is that all elements of a project are published together, so a 
 
 <!--- TODO: add image of package with code, text, graphs, questionnaires, ... -->
 
-## How this will help you/ why this is useful
+## How this will help you/why this is useful
 
 A research compendium combines all elements of your project, allowing others to reproduce your work, and should be the final product of your research project.
 Publishing a research compendium (rather than just publishing a paper) allows access to your input, the analysis, and, if the compendium can be executed, the resulting output.
@@ -172,4 +172,3 @@ See our [glossary](glossary/glossary) for explanations of terms used in the chap
 ## Bibliography
 
 {% bibliography --cited %}
-
