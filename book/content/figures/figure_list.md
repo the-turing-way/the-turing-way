@@ -27,6 +27,7 @@
 | regents_map                | BinderHub workshop        | Map to workshop location                          |
 | reproducibility_kirstie    |                           | Depicts cow code and data relate to good practise |
 | ResearchCompendium         | Research Compendium       | Illustration on research compendium               |
+| risk_matrix                | risk_assessment
 | sub_branch                 | Version control           | Illustrates version control branch + sub branch   |
 | testing_motivation_1       | Testing                   | Example of consequence of not testing code        |
 | testing_motivation_2       | Testing                   | Example of consequence of not testing code        |
@@ -39,4 +40,4 @@
 | VM_export_machine          | Reproducible environments | How to export a virtual machine in virtualbox     |
 | VM_start_machine           | Reproducible environments | How to start a virtual machine in virtualbox      |
 | workdir_example            | Reproducible environments | Example of using workdir in Dockerfiles           |
-| wtf_per_min.jpg            | Version control           | Good quality code = few wtf per min               |
+| wtf_per_min                | Version control           | Good quality code = few wtf per min               |
