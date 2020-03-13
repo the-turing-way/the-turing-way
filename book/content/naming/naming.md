@@ -7,7 +7,7 @@ None.
 ## Summary
 
 By naming your files, folders, and other research components consistently and descriptively, you can make your work findable, understandable and reusable by yourself, your collaborators, and other people interested in your research.
-It allows others to understand what the digital object is about, i.e. what the files contain and where to find them. Moreover, by following simple tips for file naming, you can make your files easy for computers to identify and process.
+It allows others to understand what the digital object is about: What the files contain and where to find them. Moreover, by following simple tips for file naming, you can make your files easy for computers to identify and process.
 
 ## How this will help you/why this is useful
 
@@ -48,7 +48,7 @@ Good file/folder names are easy to search for (also using regular expressions) a
 ### Human readable
 
 To achieve human readability, it is helpful to have short (< 25 characters) but descriptive names that contain information on the content of the file/folder.
-Word boundaries in the file name can be indicated by using medial capitalization called camel case, e.g. FileName, or underscore, e.g. file_name.
+Word boundaries in the file name can be indicated by using medial capitalization called camel case, for example FileName, or underscore, for example file_name.
 File names should not have any spaces or other special characters.
 
 For web links or Uniform Resource Locator (URL), this concept is called [clean URL](https://en.wikipedia.org/wiki/Clean_URL).
@@ -74,7 +74,7 @@ Here are some tips for naming files within a research project, which are both hu
 - [ ] Keep it short but descriptive
 - [ ] Avoid special characters or spaces to keep it machine-compatible
 - [ ] Use capitals or underscores to keep it human-readable
-- [ ] Use consistent date formatting, e.g. ISO 8601: `YYYY-MM-DD` to maintain default order
+- [ ] Use consistent date formatting, for example ISO 8601: `YYYY-MM-DD` to maintain default order
 - [ ] Include a version number when applicable
 - [ ] Share/establish a naming convention when working with collaborators
 - [ ] Record a naming convention in your data management plan
