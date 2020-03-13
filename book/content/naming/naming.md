@@ -15,8 +15,9 @@ Using good names is probably the easiest way to improve reproducibility and reus
 
 ## Chapter content
 
-There are three principles to naming things. The first two apply to all kinds of things. The third is optional and especially valuable for files. Names should be:
+There are three principles to naming things; the first two apply to all kinds of things and the third is optional but valuable for keeping track of your files. 
 
+File names should be:
 1. Machine readable
 2. Human readable
 3. Optional: Play well with default ordering
@@ -46,35 +47,37 @@ Good file/folder names are easy to search for (also using regular expressions) a
 
 ### Human readable
 
-To achieve human readability, it is helpful to have a name that contains information on the content of the file/folder or other thing. For URLs this concept is called [clean URL](https://en.wikipedia.org/wiki/Clean_URL).
+To achieve human readability, it is helpful to have short (< 25 characters) but descriptive names that contain information on the content of the file/folder.
+Word boundaries in the file name can be indicated by using medial capitalization called camel case, e.g. FileName, or underscore ("_"), e.g. file_name.
+File names should not have any spaces or other special characters.
 
-For example, we can probably all agree that `JW7d^(2sl@deletethisandyourcareerisoverWx2*.txt` is worse to understand than `1986-01-28_raw-data-from-challenger-o-rings.txt` in terms of what the file contains.
-
+For web links or Uniform Resource Locator (URL), this concept is called [clean URL](https://en.wikipedia.org/wiki/Clean_URL).
 
 ### Play well with default ordering
 
-To create a good default ordering, adding number at the beginning of the name, is often a good idea. 
-Imagine you have a folder with all your presentation slides, it would probably be helpful to have them ordered by date. 
-So starting the file names with `year-month-day` (for example `2020-02-21`), does that for you.
-We recommend using something like the [ISO 8601 standard](https://en.wikipedia.org/wiki/ISO_8601) for dates.
-File name `2020-06-08_abstract-for-sla.docx` is a nice example.
+To create a good default ordering adding a number or date at the beginning of the name is often a good idea. 
+This keeps our files sorted in ascending order based on file versions or in chronological order. 
+For instance, we often organize all our slide decks created on different dates in the same folder. 
+To sort them by their date of creation, we can start the file names with `year-month-day` (for example `2020-02-21`).
+We recommend using something like the [ISO 8601 standard: YYYY-MM-DD](https://en.wikipedia.org/wiki/ISO_8601) for dates. 
+If you use other numbers, we recommend left padding them with zeros, because your computer will order `003 < 004 < 020 < 100` as opposed to `100 < 20 < 3 < 4`. 
 
-If you use other number, we recommend left padding them with zeros, because your computer will order `003 < 004 < 020 < 100` as opposed to `100 < 20 < 3 < 4`. You can also use words and numbers in combination to get the ordering you want. `Fig01_scatterplot-talk-length-vs-interest.png` and `Fig02_histogram-talk-attendance.png` are a good example.
-From experience we know that naming folders according to logical numbers can lead to a mess if the ordering changes.
-For example if you have book chapter folders `01_introduction`, `02_naming_files`, `03_naming_folders`, and so on and then you decide to change the order or try to squeeze in a folder in between `01_introduction` and `02_naming_files`, this can create a wors situation than not using numbers to enforce ordering.
-
-
+Naming folders according to a logical number can lead to a mess if the ordering changes in the future.
+For example, there is a folder with the book chapters `01_introduction`, `02_naming_files`, and `03_naming_folders`. The author writes a preface of the book and decides to squeeze it before the introduction chapter. This would mean that they will have to rename all the files to maintain the intended order. 
+This happens a lot and clearly, this has more downsides than upsides.
 
 ## Checklist
 
-Make sure, the names of files, folders and other things are:
+Here are some tips for naming files within a research project, which are both human- and machine-readable (taken from [Research Data Management at Princeton](https://libguides.princeton.edu/c.php?g=102546&p=930626))
 
-- [ ] Machine readable
-- [ ] Human readable
-
-And potentially also 
-
-- [ ] Play well with default ordering
+- [ ] Name your files consistently
+- [ ] Keep it short but descriptive
+- [ ] Avoid special characters or spaces to keep it machine-compatible
+- [ ] Use capitals or underscores to keep it human-readable
+- [ ] Use consistent date formatting, e.g. ISO 8601: `YYYY-MM-DD` to maintain default order
+- [ ] Include a version number when applicable
+- [ ] Share/establish a naming convention when working with collaborators
+- [ ] Record a naming convention in your data management plan
 
 
 ## What to learn next
@@ -83,7 +86,7 @@ Want to build a folder with all the files from your research project?
 Check out our chapter on [research compendia](research_compendia/research_compendia).
 
 
-## Further reading
+## Bibliography
 
 - Jenny Brian's slide deck on [naming things](https://speakerdeck.com/jennybc/how-to-name-files).
 - File naming and file structure recommendations by [Research Data Management at Princeton](https://libguides.princeton.edu/c.php?g=102546&p=930626)
