@@ -6,7 +6,7 @@ None.
 
 ## Summary
 
-Good names for files, folders and other things can make your life and the life of collaborators and other people using your research much easier.
+By naming your files, folders, and other research components consistently and descriptively, you can make your work findable, understandable and reusable by yourself, your collaborators, and other people interested in your research.
 It allows others to understand what the digital object is about and at the same time good names are easy for computers to understand and process.
 
 ## How this will help you/ why this is useful
@@ -86,6 +86,5 @@ Check out our chapter on [research compendia](research_compendia/research_compen
 ## Further reading
 
 The ideas for this chapter are taken from Jenny Brian's slide deck on [naming things](https://speakerdeck.com/jennybc/how-to-name-files).
-
 
 
