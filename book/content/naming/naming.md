@@ -9,7 +9,7 @@ None.
 By naming your files, folders, and other research components consistently and descriptively, you can make your work findable, understandable and reusable by yourself, your collaborators, and other people interested in your research.
 It allows others to understand what the digital object is about, i.e. what the files contain and where to find them. Moreover, by following simple tips for file naming, you can make your files easy for computers to identify and process.
 
-## How this will help you/ why this is useful
+## How this will help you/why this is useful
 
 Using good names is probably the easiest way to improve reproducibility and reusability of your research project.
 
@@ -86,4 +86,3 @@ Check out our chapter on [research compendia](research_compendia/research_compen
 ## Further reading
 
 The ideas for this chapter are taken from Jenny Brian's slide deck on [naming things](https://speakerdeck.com/jennybc/how-to-name-files).
-
