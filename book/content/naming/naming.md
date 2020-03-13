@@ -48,7 +48,7 @@ Good file/folder names are easy to search for (also using regular expressions) a
 ### Human readable
 
 To achieve human readability, it is helpful to have short (< 25 characters) but descriptive names that contain information on the content of the file/folder.
-Word boundaries in the file name can be indicated by using medial capitalization called camel case, for example FileName, or underscore, for example file_name.
+Word boundaries in the file name can be indicated by using medial capitalization called camel case, for example "FileName", or underscore, for example "file_name".
 File names should not have any spaces or other special characters.
 
 For web links or Uniform Resource Locator (URL), this concept is called [clean URL](https://en.wikipedia.org/wiki/Clean_URL).
