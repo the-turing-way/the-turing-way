@@ -140,7 +140,7 @@ A research compendium can be used in several ways, including (but not limited to
 To create a research compendium, follow these steps:
 
 - [ ] Think about a good folder structure (see example above)
-- [ ] Create folder structure (i.e. main directory and sub directories)
+- [ ] Create folder structure (main directory and sub directories)
 - [ ] Optional: Make the compendium into a git repository
 - [ ] Add all files needed for reproducing the results of the project
 - [ ] Try to have the compendium as clean and easy to use as possible when you advertise it for others to use
