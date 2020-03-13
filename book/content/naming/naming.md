@@ -85,4 +85,6 @@ Check out our chapter on [research compendia](research_compendia/research_compen
 
 ## Further reading
 
-The ideas for this chapter are taken from Jenny Brian's slide deck on [naming things](https://speakerdeck.com/jennybc/how-to-name-files).
+- Jenny Brian's slide deck on [naming things](https://speakerdeck.com/jennybc/how-to-name-files).
+- File naming and file structure recommendations by [Research Data Management at Princeton](https://libguides.princeton.edu/c.php?g=102546&p=930626)
+- Amy Hodge compiled a set of recommendations as [best practices for file naming](https://library.stanford.edu/research/data-management-services/data-organization/best-practices-file-naming) and [case studies of file naming done well](https://library.stanford.edu/research/data-management-services/case-studies/case-study-file-naming-done-well) at Data Management Services in Stanford Library
