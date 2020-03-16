@@ -124,8 +124,10 @@ Times in a few different time zones are shown in the table below.
 | 15 January 2020 | [AreWeMeetingYet? 2020-01-15 19:00](https://arewemeetingyet.com/London/2020-01-15/19:00/TuringWay-CollaborationCafe) | 05:00 am | 03:00 am | 12:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
 | 5 February 2020 | [AreWeMeetingYet? 2020-02-05 15:00](https://arewemeetingyet.com/London/2020-02-05/15:00/TuringWay-CollaborationCafe) | 01:00 am | 23:00 pm | 20:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
 | 19 February 2020 | [AreWeMeetingYet? 2020-02-19 19:00](https://arewemeetingyet.com/London/2020-02-19/19:00/TuringWay-CollaborationCafe) | 05:00 am | 03:00 am | 12:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
-| 4 March 2019 | [AreWeMeetingYet? 2019-03-04 15:00](https://arewemeetingyet.com/London/2019-03-04/15:00/TuringWay-CollaborationCafe) | 01:00 am | 23:00 pm | 20:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
-| 18 March 2019 | [AreWeMeetingYet? 2019-03-18 19:00](https://arewemeetingyet.com/London/2019-03-18/19:00/TuringWay-CollaborationCafe) | 05:00 am | 03:00 am | 12:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
+| 4 March 2019 | [AreWeMeetingYet? 2020-03-04 15:00](https://arewemeetingyet.com/London/2020-03-04/15:00/TuringWay-CollaborationCafe) | 01:00 am | 23:00 pm | 20:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
+| 18 March 2019 | [AreWeMeetingYet? 2020-03-18 19:00](https://arewemeetingyet.com/London/2020-03-18/19:00/TuringWay-CollaborationCafe) | 05:00 am | 03:00 am | 12:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
+| 1 April 2019 | [AreWeMeetingYet? 2020-04-01 15:00](https://arewemeetingyet.com/London/2020-04-01/15:00/TuringWay-CollaborationCafe) | 00:00 am | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
+| 15 April 2019 | [AreWeMeetingYet? 2020-04-15 19:00](https://arewemeetingyet.com/London/2020-04-15/19:00/TuringWay-CollaborationCafe) | 04:00 am | 02:00 am | 23:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
 | | | | | | | | | |
 | | | | | | | | | |
 | | | | | | | | | |
