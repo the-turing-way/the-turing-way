@@ -16,7 +16,7 @@ Results may become invalid, or scripts that are based on file names that change 
 Especially if original data gets replaced with new data with no version control in place, the original results of the analysis may not reproduce.
 Therefore, version controlling data and other large files in a similar way to version controlling code or manuscripts can help to ensure the reproducibility of projects and help to capture the provenance of results, namely "which precise subset and version of data did this result originate from?".
 
-TODO: Add Sams illustration for data provenance
+![Provenance on which data in which version was underlying which computation is crucial for reproducibility](../../figures/Provenance.jpg)
 
 ### What is difficult about version controlling data?
 
