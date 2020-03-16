@@ -58,16 +58,16 @@
   - title: Resources
     url: /open_research/07/resources
 - title: Version Control
-  url: version_control/version_control
+  url: /version_control/version_control
   sections:
   - title: General version control
-    url: version_control/01/version_control
+    url: /version_control/01/version_control
   - title: Version control for data
-    url: version_control/02/version_control_data
+    url: /version_control/02/version_control_data
   - title: Resources
-    url: version_control/03/resources
+    url: /version_control/03/resources
   - title: Personal stories
-    url: version_control/04/version_control_personalstories
+    url: /version_control/04/version_control_personalstories
 - title: Collaborating on GitHub/GitLab
   url: /collaborating_github/collaborating_github
   sections:
