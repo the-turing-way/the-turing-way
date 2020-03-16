@@ -3,6 +3,9 @@
 language: generic
 dist: xenial # ubuntu 16.04
 cache: bundler
+env:
+  global:
+    - PATH=/opt/python/3.7.1/bin:$PATH
 before_install: # get a reasonably new version of python3 and pip
   - sudo apt-get install python3-pip
   - sudo -H pip3 install --upgrade pip
