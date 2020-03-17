@@ -7,19 +7,18 @@ Hello Turing Way friends!
 We hope that you are well and practising recommended precautions as the COVID19 spreads around the world. 
 
 Our next Collaboration Cafe is tomorrow, on 18 March 2020 at 19:00 GMT ([check your time](https://arewemeetingyet.com/London/2020-03-18/19:00/TuringWay-CollaborationCafe). 
-If you have been working remotely from home already and want to take a break to document your research skills into the Turing Way Project, take advantage of this co-working space.
+If you have been working remotely from home already and want to take a break to document your research skills into _The Turing Way_ Project, take advantage of this co-working space.
 
-Shout out to all our wonderful contributors from the last Book Dash event and the Data Science Perspectives: PhD Conference attendees for contributing chapters to The Turing Way (see their [PRs](https://github.com/alan-turing-institute/the-turing-way/pulls) and [issues](https://github.com/alan-turing-institute/the-turing-way/issues)).
+Shout out to all our wonderful contributors from the last Book Dash event and the Data Science Perspectives: PhD Conference attendees for contributing chapters to _The Turing Way_ (see their [PRs](https://github.com/alan-turing-institute/the-turing-way/pulls) and [issues](https://github.com/alan-turing-institute/the-turing-way/issues)).
 
 The [Collaboration Workshop 2020](https://www.software.ac.uk/cw20) hosted by The [Software Sustainability Institute](https://www.software.ac.uk) has gone completely online in response to the rapidly changing situation with Coronavirus (COVID-19). 
 This meeting will take place from 31 March to 2 April 2020 and would provide an opportunity to participate and collaborate with researchers using virtual solutions.
 
 Stay safe and take care of yourself during this unprecedented time!
 
-Read more details on these topics below 👇
+Spot our logo and more details from the community below 👇
 
 ## Community meetings
-
 
 ### Collaboration Cafe
 
@@ -27,6 +26,10 @@ The next Collaboration Cafe is scheduled this week on 18 March 2020 ([your local
 Through these calls we support contributions to the _The Turing Way_ project and facilitate discussions among the community members. 
 
 Next month’s Collaboration Cafes will take place on 1 April 2020 and 15 April 2020. Check out the [details online](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md).
+
+![](images/collab-cafe-Mar2020.png)
+
+*Screenshots from our previous Collaboration Cafes*
 
 ### _The Turing Way_ at other conferences
 
@@ -40,7 +43,7 @@ Read the full list [here](https://www.software.ac.uk/blog/2020-02-20-announcing-
 
 ## News from the community
 
-### New Chapters, GitHub issues and Pull Requests (PRs) from Book Dash
+### New chapters, GitHub issues and pull requests (PRs) from the Book Dash
 
 ![](images/book-dash-Mar2020)
 *Group picture from out last Book Dash event*
@@ -56,14 +59,14 @@ We will be reviewing the remaining [PRs](https://github.com/alan-turing-institut
 
 *Tweets by [Heidi Siebold](https://twitter.com/HeidiBaya/status/1238460446207873024?s=20) and [Barbara Vreede](https://twitter.com/barbaravreede/status/1238465267304407042?s=20)*
 
-### Remote participation at The Book Dash
+### Remote participation at the Book Dash
 
 A group of researchers from the [Netherlands eScience Center](https://www.esciencecenter.nl/) joined this event remotely to add some relevant content from their [Software Development Guide](https://nlesc.gitbooks.io/guide/content/). 
 This was a mutually beneficial experience and a wonderful addition to the originally planned event that allowed us to explore remote working options beyond the current option of online Collaboration Cafes.
 
 ## Relevant resources
 
-### Brand New Logo and More Turing Way Illustrations
+### Our brand new logo amd more Turing Way illustrations
 
 **We have a logo. Share away!**
 
@@ -72,19 +75,18 @@ This was a mutually beneficial experience and a wonderful addition to the origin
 *The Turing Way Logo, The Turing Way Community, & Scriberia. (2020, March 3). 
 Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300.*
 
-The Turing Way illustrations from last year have been extremely popular in our network, which was shared online under a CC-BY licence. 
+_The Turing Way_ illustrations from last year have been extremely popular in our network, which was shared online under a CC-BY licence. 
 Encouraged by such positive use of these resources, we invited a [Scriberia](http://www.scriberia.co.uk/)  artist - Sam, to the last book dash event. 
-Our attendees discussed their ideas and helped Sam capture important concepts they were working on during the book dash and other relevant concepts in general.
+Our attendees discussed their ideas and helped Sam capture important concepts they were working on during the book dash, the cover images for the various sections, _The Turing Way_ logo and other relevant topics in general.
+You are welcome to share, reuse and distribute them by attributing "_The Turing Way_ Community, & Scriberia. (2020, March 3). 
+Illustrations from _The Turing Way_ book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300".
 
 ![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:8ff47a85-7250-4d86-8e48-2f346b48b2c1:BannerWelcome.jpg/full/750,/0/default.jpg)
 
 *Welcome banner, The Turing Way Community, & Scriberia. (2020, March 3). 
 Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300.*
 
-You are welcome to share, reuse and distribute them by attributing "The Turing Way Community, & Scriberia. (2020, March 3). 
-Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300".
-
-## Tips & Tricks for new contributors
+## Tips & tricks for new contributors
 
 ### How are working remotely during COVID-19 pandemic? Share with us!
 
@@ -114,14 +116,14 @@ We thank them for helping us create new pathways to involve our members in makin
 *Community Translation efforts, The Turing Way Community, & Scriberia. (2020, March 3). 
 Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300.*
 
-### Online Mentions
+### Online mentions
 
 Thanks to the Oleg Lavrovsky for the shout out to _The Turing Way_ project in the Swiss open data community forum post, [4 basic challenges in open data](https://forum.opendata.ch/t/4-basic-challenges-in-open-data/634).
 
 Sarah Gibson wrote a blog post title [Continuous Integration: Fail Fast and Fail First](https://www.software.ac.uk/blog/2020-02-27-continuous-integration-fail-fast-and-fail-first), which was published in the SSI fellows blog series. 
 Her post discusses the main aspects of building an effective continuous integration, delivery and analysis pipeline and features _The Turing Way_ illustrations.
 
-### Tweets
+### Tweets from the community
 
 ![](images/Tweet-combo-Mar2020.png)
 Tweets by [1. Annabel Whipp](https://twitter.com/AnnabelWhipp/status/1237753130714050562?s=20), [2. The Digital Institute at Newcastle University](https://twitter.com/digitalinst/status/1237773081621549060?s=20) [3. Jez Cope](https://twitter.com/jezcope/status/1238102621484875776?s=20), [4. The Alan Turing Institute](https://twitter.com/turinginst/status/1239874239336980481?s=20) sub-tweeting [Sarah Gibson's tweet](https://twitter.com/drsarahlgibson/status/1239826780854390784?s=20)
