@@ -56,11 +56,11 @@ Our attendees contributed to the chapters and issues on Credit for Reproducibili
 A complete [report can be read online](https://hackmd.io/@malvikasharan/rJSSJurEL/edit). 
 
 Thanks to Heidi Siebold and Barbara Vreede, we have a new chapter on [Research Compendia](https://the-turing-way.netlify.com/research_compendia/research_compendia.html).
+We will be reviewing the remaining [PRs](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aopen+label%3Abook-dash-feb20) and [issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3Abook-dash-feb20) from the Book Dash and will be delighted to receive your support in that.
 
 ![](https://i.imgur.com/klwEJm5.png)
 
 *Tweets by [Heidi Siebold](https://twitter.com/HeidiBaya/status/1238460446207873024?s=20) and [Barbara Vreede](https://twitter.com/barbaravreede/status/1238465267304407042?s=20)*
-We will be reviewing the remaining [PRs](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aopen+label%3Abook-dash-feb20) and [issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3Abook-dash-feb20) from the Book Dash and will be delighted to receive your support in that.
 
 ### Remote participation at The Book Dash
 
@@ -71,22 +71,28 @@ This was a mutually beneficial experience and a wonderful addition to the origin
 
 ### Brand New Logo and More Turing Way Illustrations
 
-We have a logo!
-
 ![](https://i.imgur.com/11hBs2r.png)
+*We have a logo. Share away!*
 
-The Turing Way illustrations from last year have been extremely popular in our network, which was shared online under a CC-BY licence. Encouraged by such positive use of these resources, we invited a [Scriberia](http://www.scriberia.co.uk/)  artist - Sam, to the last book dash event. Our attendees discussed their ideas and helped Sam capture important concepts they were working on during the book dash and other relevant concepts in general.
+The Turing Way illustrations from last year have been extremely popular in our network, which was shared online under a CC-BY licence. 
+Encouraged by such positive use of these resources, we invited a [Scriberia](http://www.scriberia.co.uk/)  artist - Sam, to the last book dash event. 
+Our attendees discussed their ideas and helped Sam capture important concepts they were working on during the book dash and other relevant concepts in general.
 
 ![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:8ff47a85-7250-4d86-8e48-2f346b48b2c1:BannerWelcome.jpg/full/750,/0/default.jpg)
 *Welcome banner from The Turing Way Illustration resource*
 
-You are welcome to share, reuse and distribute them by attributing "The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300".
+You are welcome to share, reuse and distribute them by attributing "The Turing Way Community, & Scriberia. (2020, March 3). 
+Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300".
 
 ## Tips & Tricks for new contributors
 
-### How are working remotely during COVID-19 pandemic? Share with us.
+### How are working remotely during COVID-19 pandemic? Share with us!
 
-At the [Data Science Perspectives: PhD Conference](https://www.ncl.ac.uk/nicd/events/event-items/data-science-perspectives-phd-conference/) in the Newcastle University, Malvika ran a workshop title [100 minutes relay on remote collaboration](https://hackmd.io/@malvikasharan/collaboration-nc). Around 50 PhD students came together to discuss the various aspects of distributed collaboration in light of the newly presented challenge associated with working remotely during the COVID-19 pandemic. 
+At the [Data Science Perspectives: PhD Conference](https://www.ncl.ac.uk/nicd/events/event-items/data-science-perspectives-phd-conference/) in the Newcastle University, Malvika ran a workshop title [100 minutes relay on remote collaboration](https://hackmd.io/@malvikasharan/collaboration-nc). 
+Around 50 PhD students came together to discuss the various aspects of distributed collaboration in light of the newly presented challenge associated with working remotely during the COVID-19 pandemic. 
+
+If like most of us, you are working remotely, share your personal challenges and solutions that you think others can benefit from. 
+Check out the issues that we have started [under the label `collaboration-book`](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3Acollaboration-book).
 
 ![](https://i.imgur.com/qPdvsZc.jpg)
 *Tweet about The Turing Way 100 minutes relay from The Digital Institute, Newcastle University*
