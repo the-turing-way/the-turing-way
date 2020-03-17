@@ -28,7 +28,7 @@ Through these calls we support contributions to the _The Turing Way_ project and
 
 Next month’s Collaboration Cafes will take place on 1 April 2020 and 15 April 2020. Check out the [details online](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md).
 
-![](https://i.imgur.com/w04L7Hm.png)
+![](images/collab-cafe-Mar2020.png)
 *Screenshots from our previous Collaboration Cafes*
 
 ### _The Turing Way_ at other conferences
@@ -45,12 +45,12 @@ Read the full list [here](https://www.software.ac.uk/blog/2020-02-20-announcing-
 
 ### New Chapters, GitHub issues and Pull Requests (PRs) from Book Dash
 
-![](https://i.imgur.com/gsKXQ9V.jpg)
+![](images/book-dash-Mar2020)
 *Group picture from out last Book Dash event*
 
 The last Book Dash successfully took place in London from 20 to 21 February 2020. 
 Our attendees contributed to the chapters and issues on Credit for Reproducibility, Data management and publication, Tools and methods for reproducible research, Ethics, collaboration and contributions, and other technical aspects of the book. 
-A complete [report can be read online](https://hackmd.io/@malvikasharan/rJSSJurEL/edit). 
+A complete [report can be read online](https://hackmd.io/@malvikasharan/rJSSJurEL). 
 
 Thanks to Heidi Siebold and Barbara Vreede, we have a new chapter on [Research Compendia](https://the-turing-way.netlify.com/research_compendia/research_compendia.html).
 We will be reviewing the remaining [PRs](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aopen+label%3Abook-dash-feb20) and [issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3Abook-dash-feb20) from the Book Dash and will be delighted to receive your support in that.
