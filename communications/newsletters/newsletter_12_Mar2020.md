@@ -1,7 +1,3 @@
-The Turing Way Newsletter: 
-
-------
-
 The Turing Way Newsletter: 16 March 2020
 
 # Sharing updates from the community, launching our new logo and sending wishes for your well being during COVID-19 situation!
@@ -10,7 +6,8 @@ Hello Turing Way friends!
 
 We hope that you are well and practising recommended precautions as the COVID19 spreads around the world. 
 
-Our next Collaboration Cafe is tomorrow, on 18 March 2020 at 19:00 GMT (check your time). If you have been working remotely from home already and want to take a break to document your research skills into the Turing Way Project, take advantage of this co-working space.
+Our next Collaboration Cafe is tomorrow, on 18 March 2020 at 19:00 GMT (check your time). 
+If you have been working remotely from home already and want to take a break to document your research skills into the Turing Way Project, take advantage of this co-working space.
 
 Shout out to all our wonderful contributors from the last Book Dash event and the Data Science Perspectives: PhD Conference attendees for contributing chapters to The Turing Way (see their [PRs](https://github.com/alan-turing-institute/the-turing-way/pulls) and [issues](https://github.com/alan-turing-institute/the-turing-way/issues)).
 
@@ -58,7 +55,7 @@ A complete [report can be read online](https://hackmd.io/@malvikasharan/rJSSJurE
 Thanks to Heidi Siebold and Barbara Vreede, we have a new chapter on [Research Compendia](https://the-turing-way.netlify.com/research_compendia/research_compendia.html).
 We will be reviewing the remaining [PRs](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aopen+label%3Abook-dash-feb20) and [issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3Abook-dash-feb20) from the Book Dash and will be delighted to receive your support in that.
 
-![](https://i.imgur.com/klwEJm5.png)
+![](images/research-compendia-Mar2020.png)
 
 *Tweets by [Heidi Siebold](https://twitter.com/HeidiBaya/status/1238460446207873024?s=20) and [Barbara Vreede](https://twitter.com/barbaravreede/status/1238465267304407042?s=20)*
 
@@ -71,8 +68,11 @@ This was a mutually beneficial experience and a wonderful addition to the origin
 
 ### Brand New Logo and More Turing Way Illustrations
 
-![](https://i.imgur.com/11hBs2r.png)
-*We have a logo. Share away!*
+**We have a logo. Share away!**
+
+![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:f5a9d40c-01c2-49bc-8fcd-5f7c8a0f8029:LogoDetailWithText.jpg/full/750,/0/default.jpg)
+*The Turing Way Community, & Scriberia. (2020, March 3). 
+Illustrations from the Turing Way book dashes. [Zenodo](http://doi.org/10.5281/zenodo.3695300)*
 
 The Turing Way illustrations from last year have been extremely popular in our network, which was shared online under a CC-BY licence. 
 Encouraged by such positive use of these resources, we invited a [Scriberia](http://www.scriberia.co.uk/)  artist - Sam, to the last book dash event. 
@@ -94,7 +94,7 @@ Around 50 PhD students came together to discuss the various aspects of distribut
 If like most of us, you are working remotely, share your personal challenges and solutions that you think others can benefit from. 
 Check out the issues that we have started [under the label `collaboration-book`](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3Acollaboration-book).
 
-![](https://i.imgur.com/qPdvsZc.jpg)
+![](images/100min-relay-Mar2020.png)
 *Tweet about The Turing Way 100 minutes relay from The Digital Institute, Newcastle University*
 
 ## Acknowledgements and celebrations
@@ -115,14 +115,12 @@ We thank them for helping us create new pathways to involve our members in makin
 
 Thanks to the Oleg Lavrovsky for the shout out to _The Turing Way_ project in the Swiss open data community forum post, [4 basic challenges in open data](https://forum.opendata.ch/t/4-basic-challenges-in-open-data/634).
 
-Sarah Gibson wrote a blog post title [Continuous Integration: Fail Fast and Fail First](https://www.software.ac.uk/blog/2020-02-27-continuous-integration-fail-fast-and-fail-first), which was published in the SSI fellows blog series. Her post discusses the main aspects of building an effective continuous integration, delivery and analysis pipeline and features _The Turing Way_ illustrations.
+Sarah Gibson wrote a blog post title [Continuous Integration: Fail Fast and Fail First](https://www.software.ac.uk/blog/2020-02-27-continuous-integration-fail-fast-and-fail-first), which was published in the SSI fellows blog series. 
+Her post discusses the main aspects of building an effective continuous integration, delivery and analysis pipeline and features _The Turing Way_ illustrations.
 
 ### Tweets
 
-![1](https://i.imgur.com/iPm0hyW.jpg)
-![2](https://i.imgur.com/dvQeAuB.jpg)
-![3](https://i.imgur.com/bW5oArF.png)
-![4](https://i.imgur.com/NeV7F32.png)
+![](images/Tweet-combo-Mar2020.png)
 Tweets by [1. Annabel Whipp](https://twitter.com/AnnabelWhipp/status/1237753130714050562?s=20), [2. The Digital Institute at Newcastle University](https://twitter.com/digitalinst/status/1237773081621549060?s=20) [3. Jez Cope](https://twitter.com/jezcope/status/1238102621484875776?s=20), [4. The Alan Turing Institute](https://twitter.com/turinginst/status/1239874239336980481?s=20) sub-tweeting [Sarah Gibson's tweet](https://twitter.com/drsarahlgibson/status/1239826780854390784?s=20)
 
 ## Connect with us!
