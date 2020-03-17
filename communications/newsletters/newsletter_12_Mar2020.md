@@ -27,7 +27,9 @@ The _Turing Way_ community mostly collaborates online, so there are no changes o
 However, you are likely to need time, space and support as many of us around the world are transitioning to working from home and implementing strong social distancing measures.
 
 We are here to support you as best we can in these challenging and anxious times.
-You are always welcome to chat in our Gitter channel, or attend collaboration cafes if you're looking for some company and moral support.
+You are always welcome to chat in our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way), or attend collaboration cafes if you're looking for some company and moral support.
+Please let us know if you'd like additional co-working support.
+We are happy to arrange ad-hoc collaboration spaces as you need them.
 
 We are proud of how well the people of _The Turing Way_ prioritise their mental and physical wellbeing and the safety of others.
 Thank you for being leaders in your own communities, and take care.
