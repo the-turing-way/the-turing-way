@@ -1,6 +1,6 @@
 The Turing Way Newsletter: 16 March 2020
 
-# Sharing updates from the community, launching our new logo, and sending wishes for your well being during COVID-19 situation
+# Sharing updates from the community, launching our new logo, and sending wishes for your well-being during COVID-19 situation
 
 Hello Turing Way friends!
 
@@ -31,7 +31,7 @@ You are always welcome to chat in our [Gitter channel](https://gitter.im/alan-tu
 Please let us know if you'd like additional co-working support.
 We are happy to arrange ad-hoc collaboration spaces as you need them.
 
-We are proud of how well the people of _The Turing Way_ prioritise their mental and physical wellbeing and the safety of others.
+We are proud of how well the people of _The Turing Way_ prioritise their mental and physical well-being and the safety of others.
 Thank you for being leaders in your own communities, and take care.
 
 ### UCU Industrial Action
