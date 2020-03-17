@@ -1,13 +1,16 @@
 # Online Collaboration Cafe
 
-In autumn 2019, _The Turing Way_ community will host fortnightly online "Collaboration Cafes".
-If they're successful they will continue into 2020.
+_The Turing Way_ community has been hosting the "Collaboration Cafes" since September 2019. 
+These are virtual co-working spaces that are held fortnightly for a duration of 2 hours using online calls.
+We have been hosting these calls every month on the 1st Wednesday from 15:00 to 17:00 GMT and 3rd Wednesday from 19:00 - 21:00 GMT .
 
 The goals of these events are to:
 
 1. Build personal connections between members of the community.
 2. Support contributors as they edit, review, design and write content for the book.
 3. Celebrate the progress of _The Turing Way_ and collaboratively build consensus on next steps and future directions.
+
+Though held for 2 hours, we encourage our members to join for as long as their schedule allows.
 
 This document outlines how to participate and run a Collaboration Cafe event.
 
