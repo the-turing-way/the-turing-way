@@ -36,7 +36,7 @@ Thank you for being leaders in your own communities, and take care.
 
 ### UCU Industrial Action
 
-Many of you will know that _The Turing Way_ has maintained a quieter presence online in support of the [Four Fights](https://www.ucu.org.uk/why-we-are-taking-action) industrial action by the University and College Union.
+Many of you may know that _The Turing Way_ has been maintaining a quieter online presence in support of the [Four Fights](https://www.ucu.org.uk/why-we-are-taking-action) industrial action by the University and College Union.
 
 This action continues for [a few more days](https://www.ucu.org.uk/heaction-institutions).
 [Pickets have been called off](https://www.ucu.org.uk/article/10692/Reballots-postponed-due-to-Covid-19-pickets-cancelled-but-action-continues) to help slow the spread of coronavirus, but that makes our continued online support of the action all the more important.
