@@ -23,7 +23,7 @@ Read more details on these topics below 👇
 
 ### Collaboration Cafe
 
-The next Collaboration Cafe is scheduled this week on 18 March 2020([your local time](https://arewemeetingyet.com/London/2020-03-19/19:00/TuringWay-CollaborationCafe). [Sign up here](https://hackmd.io/@KirstieJane/CollabCafe) to join this coworking space. 
+The next Collaboration Cafe is scheduled this week on 18 March 2020 ([your local time](https://arewemeetingyet.com/London/2020-03-18/19:00/TuringWay-CollaborationCafe)). [Sign up here](https://hackmd.io/@KirstieJane/CollabCafe) to join this coworking space. 
 Through these calls we support contributions to the _The Turing Way_ project and facilitate discussions among the community members. 
 
 Next month’s Collaboration Cafes will take place on 1 April 2020 and 15 April 2020. Check out the [details online](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md).
