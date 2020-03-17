@@ -71,15 +71,18 @@ This was a mutually beneficial experience and a wonderful addition to the origin
 **We have a logo. Share away!**
 
 ![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:f5a9d40c-01c2-49bc-8fcd-5f7c8a0f8029:LogoDetailWithText.jpg/full/750,/0/default.jpg)
-*The Turing Way Community, & Scriberia. (2020, March 3). 
-Illustrations from the Turing Way book dashes. [Zenodo](http://doi.org/10.5281/zenodo.3695300)*
+
+*The Turing Way Logo, The Turing Way Community, & Scriberia. (2020, March 3). 
+Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300.*
 
 The Turing Way illustrations from last year have been extremely popular in our network, which was shared online under a CC-BY licence. 
 Encouraged by such positive use of these resources, we invited a [Scriberia](http://www.scriberia.co.uk/)  artist - Sam, to the last book dash event. 
 Our attendees discussed their ideas and helped Sam capture important concepts they were working on during the book dash and other relevant concepts in general.
 
 ![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:8ff47a85-7250-4d86-8e48-2f346b48b2c1:BannerWelcome.jpg/full/750,/0/default.jpg)
-*Welcome banner from The Turing Way Illustration resource*
+
+*Welcome banner, The Turing Way Community, & Scriberia. (2020, March 3). 
+Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300.*
 
 You are welcome to share, reuse and distribute them by attributing "The Turing Way Community, & Scriberia. (2020, March 3). 
 Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300".
@@ -109,7 +112,10 @@ This was possible only because of the discussion and work led by our internation
 We thank them for helping us create new pathways to involve our members in making _The Turing Way_ accessible for a wider community (join conversations in [these issues](https://github.com/alan-turing-institute/the-turing-way/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+chinese)).
 
 ![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:ef929f89-89e3-45c1-8c62-e2a5cef6f055:Translation.jpg/full/750,/0/default.jpg)
-*The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes on [Zenodo](http://doi.org/10.5281/zenodo.3695300)*
+
+
+*Community Translation efforts, The Turing Way Community, & Scriberia. (2020, March 3). 
+Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300.*
 
 ### Online Mentions
 
