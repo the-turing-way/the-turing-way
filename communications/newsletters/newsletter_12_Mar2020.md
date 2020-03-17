@@ -116,7 +116,7 @@ Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/ze
 
 ## Tips & tricks for new contributors
 
-### How are working remotely during COVID-19 pandemic? Share with us!
+### How are you working remotely during COVID-19 pandemic? Share with us!
 
 At the [Data Science Perspectives: PhD Conference](https://www.ncl.ac.uk/nicd/events/event-items/data-science-perspectives-phd-conference/) in the Newcastle University, Malvika ran a workshop title [100 minutes relay on remote collaboration](https://hackmd.io/@malvikasharan/collaboration-nc).
 Around 50 PhD students came together to discuss the various aspects of distributed collaboration in light of the newly presented challenge associated with working remotely during the COVID-19 pandemic.
