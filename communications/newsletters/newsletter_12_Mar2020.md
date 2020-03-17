@@ -23,7 +23,7 @@ Spot our logo and more details from the community below 👇
 ### Collaboration Cafe
 
 The next Collaboration Cafe is scheduled this week on 18 March 2020 ([your local time](https://arewemeetingyet.com/London/2020-03-18/19:00/TuringWay-CollaborationCafe)). [Sign up here](https://hackmd.io/@KirstieJane/CollabCafe) to join this coworking space. 
-Through these calls we support contributions to the _The Turing Way_ project and facilitate discussions among the community members. 
+Through these calls, we support contributions to _The Turing Way_ project and facilitate discussions among the community members. 
 
 Next month’s Collaboration Cafes will take place on 1 April 2020 and 15 April 2020. Check out the [details online](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md).
 
@@ -45,7 +45,7 @@ Read the full list [here](https://www.software.ac.uk/blog/2020-02-20-announcing-
 
 ### New chapters, GitHub issues and pull requests (PRs) from the Book Dash
 
-![](images/book-dash-Mar2020)
+![](images/book-dash-Mar2020.png)
 *Group picture from out last Book Dash event*
 
 The last Book Dash successfully took place in London from 20 to 21 February 2020. 
@@ -61,8 +61,8 @@ We will be reviewing the remaining [PRs](https://github.com/alan-turing-institut
 
 ### Remote participation at the Book Dash
 
-A group of researchers from the [Netherlands eScience Center](https://www.esciencecenter.nl/) joined this event remotely to add some relevant content from their [Software Development Guide](https://nlesc.gitbooks.io/guide/content/). 
-This was a mutually beneficial experience and a wonderful addition to the originally planned event that allowed us to explore remote working options beyond the current option of online Collaboration Cafes.
+A group of researchers from the [Netherlands eScience Center](https://www.esciencecenter.nl/) joined this event remotely to add relevant content from their [Software Development Guide](https://nlesc.gitbooks.io/guide/content/). 
+This was a mutually beneficial experience and a wonderful addition to the originally planned event that allowed us to explore remote working options beyond online Collaboration Cafes.
 
 ## Relevant resources
 
