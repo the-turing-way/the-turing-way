@@ -714,6 +714,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "mbjoseph",
+      "name": "Max Joseph",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2664564?v=4",
+      "profile": "https://mbjoseph.github.io",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
