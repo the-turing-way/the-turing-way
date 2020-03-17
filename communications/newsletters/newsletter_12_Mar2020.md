@@ -6,7 +6,7 @@ Hello Turing Way friends!
 
 We hope that you are well and practising recommended precautions as the COVID19 spreads around the world. 
 
-Our next Collaboration Cafe is tomorrow, on 18 March 2020 at 19:00 GMT (check your time). 
+Our next Collaboration Cafe is tomorrow, on 18 March 2020 at 19:00 GMT ([check your time](https://arewemeetingyet.com/London/2020-03-18/19:00/TuringWay-CollaborationCafe). 
 If you have been working remotely from home already and want to take a break to document your research skills into the Turing Way Project, take advantage of this co-working space.
 
 Shout out to all our wonderful contributors from the last Book Dash event and the Data Science Perspectives: PhD Conference attendees for contributing chapters to The Turing Way (see their [PRs](https://github.com/alan-turing-institute/the-turing-way/pulls) and [issues](https://github.com/alan-turing-institute/the-turing-way/issues)).
@@ -23,13 +23,10 @@ Read more details on these topics below 👇
 
 ### Collaboration Cafe
 
-The next Collaboration Cafe is scheduled this week on 19 March 2020. [Sign up here](https://hackmd.io/@KirstieJane/CollabCafe) to join this coworking space. 
+The next Collaboration Cafe is scheduled this week on 18 March 2020([your local time](https://arewemeetingyet.com/London/2020-03-19/19:00/TuringWay-CollaborationCafe). [Sign up here](https://hackmd.io/@KirstieJane/CollabCafe) to join this coworking space. 
 Through these calls we support contributions to the _The Turing Way_ project and facilitate discussions among the community members. 
 
 Next month’s Collaboration Cafes will take place on 1 April 2020 and 15 April 2020. Check out the [details online](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md).
-
-![](images/collab-cafe-Mar2020.png)
-*Screenshots from our previous Collaboration Cafes*
 
 ### _The Turing Way_ at other conferences
 
