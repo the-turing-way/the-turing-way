@@ -1,6 +1,6 @@
 The Turing Way Newsletter: 16 March 2020
 
-# Sharing updates from the community, launching our new logo and sending wishes for your well being during COVID-19 situation!
+# Sharing updates from the community, launching our new logo, and sending wishes for your well being during COVID-19 situation
 
 Hello Turing Way friends!
 
@@ -52,7 +52,7 @@ It has been of great support to Kirstie and other community members taking actio
 The next Collaboration Cafe is scheduled this week on 18 March 2020 ([your local time](https://arewemeetingyet.com/London/2020-03-18/19:00/TuringWay-CollaborationCafe)). [Sign up here](https://hackmd.io/@KirstieJane/CollabCafe) to join this coworking space.
 Through these calls, we support contributions to _The Turing Way_ project and facilitate discussions among the community members.
 
-Next month’s Collaboration Cafes will take place on 1 April 2020 and 15 April 2020. Check out the [details online](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md).
+Next month's Collaboration Cafes will take place on 1 April 2020 and 15 April 2020. Check out the [details online](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md).
 
 ![slide from talk with pictures of 10 people working remotely on one video call](images/collab-cafe-Mar2020.png)
 
@@ -75,8 +75,8 @@ Let us know if you'll "be there" (online!) so we can say hello 👋
 
 ### New chapters, GitHub issues and pull requests (PRs) from the Book Dash
 
-![](images/book-dash-Mar2020.png)
-*Group picture from out last Book Dash event*
+![23 people smiling at the camera with cartoons drawn behind them](images/book-dash-Mar2020.png)
+*Group picture from our last Book Dash event*
 
 The last Book Dash successfully took place in London from 20 to 21 February 2020.
 Our attendees contributed to the chapters and issues on Credit for Reproducibility, Data management and publication, Tools and methods for reproducible research, Ethics, collaboration and contributions, and other technical aspects of the book.
@@ -154,7 +154,7 @@ Her post discusses the main aspects of building an effective continuous integrat
 
 ### Tweets from the community
 
-![screenshots of four tweets featuring the Turing Way team](images/Tweet-combo-Mar2020.png)
+![screenshots of four tweets featuring the Turing Way community](images/Tweet-combo-Mar2020.png)
 Tweets by [1. Annabel Whipp](https://twitter.com/AnnabelWhipp/status/1237753130714050562?s=20), [2. The Digital Institute at Newcastle University](https://twitter.com/digitalinst/status/1237773081621549060?s=20) [3. Jez Cope](https://twitter.com/jezcope/status/1238102621484875776?s=20), [4. The Alan Turing Institute](https://twitter.com/turinginst/status/1239874239336980481?s=20) sub-tweeting [Sarah Gibson's tweet](https://twitter.com/drsarahlgibson/status/1239826780854390784?s=20)
 
 ## Connect with us!
