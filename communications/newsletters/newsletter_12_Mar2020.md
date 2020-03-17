@@ -4,7 +4,7 @@ The Turing Way Newsletter: 16 March 2020
 
 Hello Turing Way friends!
 
-We hope that you are well and practising recommended precautions as the COVID19 spreads around the world. 
+We hope that you are well and practising recommended precautions as the COVID-19 spreads around the world. 
 
 Our next Collaboration Cafe is tomorrow, on 18 March 2020 at 19:00 GMT ([check your time](https://arewemeetingyet.com/London/2020-03-18/19:00/TuringWay-CollaborationCafe). 
 If you have been working remotely from home already and want to take a break to document your research skills into _The Turing Way_ Project, take advantage of this co-working space.
@@ -66,7 +66,7 @@ This was a mutually beneficial experience and a wonderful addition to the origin
 
 ## Relevant resources
 
-### Our brand new logo amd more Turing Way illustrations
+### Our brand new logo and more Turing Way illustrations
 
 **We have a logo. Share away!**
 
