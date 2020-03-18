@@ -11,6 +11,7 @@ To follow these instructions on your own machine, follow this link: **<http://bi
 - [Running Code is more complicated than Displaying Code](#running-code-is-more-complicated-than-displaying-code)
 - [What Binder Provides](#what-binder-provides)
 - [1. Creating a repo to Binderize](#1-creating-a-repo-to-binderize)
+  - [Why did the repo have to be public?](#why-did-the-repo-have-to-be-public)
 - [2. Launch your first repo!](#2-launch-your-first-repo)
   - [What's happening in the background?](#whats-happening-in-the-background---part-1)
 - [3. Run `hello.py`](#3-run-hellopy)
@@ -52,11 +53,8 @@ To run code, you need:
 You can create a link to a **live, interactive** version of your code!
 
 - An example binder link:
-
   > **<https://mybinder.org/v2/gh/trekhleb/homemade-machine-learning/master?filepath=notebooks%2Fanomaly_detection%2Fanomaly_detection_gaussian_demo.ipynb>**
-
   From this repo: **<https://github.com/trekhleb/homemade-machine-learning>**
-
   - Notice that the Binder link has a similar structure to the GitHub repo link
   - The "filepath" argument opens a specific notebook in the repo
 
@@ -65,8 +63,15 @@ You can create a link to a **live, interactive** version of your code!
 **TO DO:** :vertical_traffic_light:
 
 1) Create a new repo on GitHub called "my-first-binder".
+   - Make sure the repository is **public**, _not private_!
    - Don't forget to initialise with a README!
 2) Create a file called `hello.py` via the web interface with `print("Hello from Binder!")` on the first line and commit to master
+
+### Why did the repo have to be public?
+
+<mybinder.org> cannot access private repositories as this would require a secret token.
+The Binder team choose not to take on the responsibility of handling secret tokens as <mybinder.org> is a public service and proof of technological concept.
+If accessing private repositories is a feature you/your team need, we advise that you look into building your own [BinderHub](https://binderhub.readthedocs.io).
 
 ## 2. Launch your first repo!
 
@@ -163,17 +168,14 @@ Each language has it's own quirks and a link to the different types of configura
 Binder is all about sharing your work easily and there are two ways to do it:
 
 - Share the **<https://mybinder.org/v2/gh/your-username/my-first-binder/master>** URL directly
-
 - Visit **<https://mybinder.org>**, type in the URL of your repo and copy the Markdown or ReStructured Text snippet into your `README.md` file.
   This snippet will render a badge that people can click, which looks like this: ![Binder](https://mybinder.org/badge_logo.svg)
 
 **TO DO:** :vertical_traffic_light:
 
 1) Add the **Markdown** snippet from **<https://mybinder.org>** to the `README.md` file in your repo
-
    - The grey bar displaying a binder badge will unfold to reveal the snippets.
      Click the clipboard icon next to the box marked with "m" to automatically copy the Markdown snippet.
-
 2) Click the badge to make sure it works!
 
 ## 7. Accessing data in your Binder
