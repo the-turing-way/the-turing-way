@@ -35,6 +35,6 @@ It make take some time but it's important to find a style you're most comfortabl
 
 ## Summary
 
-In short, I think hackathons put a lot of emphasis on the coding aspect of project development (helped along by the [unfortunate naming convention](https://github.com/hackseq/October_2016/issues/24)), but this is not the sole pillar on which a good project stands.
+In short, I think hackathons put a lot of emphasis on the coding aspect of project development (helped along by the [unfortunate naming convention](https://github.com/hackseq/October_2016/issues/24), check out the last paragraph of the [Bio-IT Hackathon blog](https://grp-bio-it.embl-community.io/blogs/posts/2019-08-29-hackathon-report/)), but this is not the sole pillar on which a good project stands.
 
 To read a longer version of this blog, please see the [original post on Medium](https://blog.jupyter.org/diving-into-leadership-to-build-push-button-code-df2a075c9914).
