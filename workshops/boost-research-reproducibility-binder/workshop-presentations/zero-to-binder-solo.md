@@ -7,7 +7,7 @@ Sarah Gibson, _The Alan Turing Institute_
 Based on Tim Head's _Zero-to-Binder_ workshops which can be found here: <http://bit.ly/zero-to-binder> and <http://bit.ly/zero-to-binder-rise>
 
 As you work through this tutorial, you will be launching a lot of Binder windows.
-Binder can take a long time to load, but this doesn'(`.ipynb` file)t necessarily mean that your Binder will fail to launch.
+Binder can take a long time to load, but this doesn't necessarily mean that your Binder will fail to launch.
 You can always refresh the window if you see the "... is taking longer to load, hang tight!" message.
 
 - [Running Code is more complicated than Displaying Code](#running-code-is-more-complicated-than-displaying-code)
