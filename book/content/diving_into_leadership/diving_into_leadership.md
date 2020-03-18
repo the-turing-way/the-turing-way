@@ -1,5 +1,7 @@
 # Diving into Leadership
 
+_The following blog post was written by The Turing Way contributor [Sarah Gibson](https://www.turing.ac.uk/people/researchers/sarah-gibson)._
+
 Hackathons can be quite intimidating scenarios to put yourself into.
 You're probably meeting a whole load of new people and getting to grips with a new project or programming language.
 On top of that, you probably only have a couple of days or less to produce something to show for your time!
