@@ -1,4 +1,4 @@
-# Collaboration
+# Remote Collaboration
 
 ## Prerequisites / recommended skill level
 > other chapters that should have been read before or content you should be familiar with before you read this
