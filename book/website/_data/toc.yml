@@ -121,5 +121,18 @@
     url: /risk_assessment/02/finalsummary
 - title: BinderHub
   url: /binderhub/binderhub
+- title: Remote Collaboration
+url: /remote-collaboration/remote-collaboration
+  sections:
+  - title: Establishing Protocols
+    url: /remote-collaboration/01/protocols
+  - title: Managing Resources
+    url: /remote-collaboration/02/managingresources
+  - title: Leadership and Management
+    url: /remote-collaboration/03/management
+  - title: Case Studies
+    url: /remote-collaboration/04/casestudies
+  - title: Perceived Pros and Cons
+    url: /remote-collaboration/05/prosandcons  
 - title: Glossary
   url: /glossary/glossary
