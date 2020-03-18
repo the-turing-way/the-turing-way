@@ -21,10 +21,16 @@ If you have someone on your team who likes to write, documentation can be kept u
 The largest benefit of having a well documented piece of software at the end of the hackathon is that it will be much easier for your team to continue to contribute to the project after the event.
 The last phase of getting a project into a production ready state takes the most time and effort, but luckily you've already documented your scoping process and pathway to getting there! :wink:
 
-## I found my strength as a leader
+## Find your style of leadership
 
-> You might remember at the beginning of this blog post I mentioned that I’d never led a hack project before, so I also learned a lot about my leadership capabilities.
-> I think I did well. I identified the strengths of each of my team members and gave them a task suited to them whilst letting them explore new concepts, offering my own insight and opinions when required.
-> I also think that it was a good choice for me to not be too involved in the coding aspect of this project. Managing the flow into the repository and updating the documentation as new code came in meant that I managed to maintain an overall perspective of the project and could switch gears as questions came in from different areas. I don’t think I could have maintained such a view if I’d been buried in code, and I can always learn from the scripts that we’ve developed at a later point.
+Given this was my first hackathon as a project lead, I found it very beneficial for me to be operating at quite a high-level on the project, rather than taking a deep dive into the code.
+
+I felt much more able to keep track of the project as a whole and could more easily identify whose skills best suited certain tasks.
+I also found it much easier to mentally switch gears if a team member asked for help or input because I didn't have to disentangle myself from a coding mindset.
+
+Hackathons can also turn GitHub repositories into a the Wild West of version control - so it's not a bad idea to have someone managing issues and pull requests as new work comes in.
+
+Now just because this leadership style worked for me, that's not to say it's right for you.
+It make take some time but it's important to find a style you're most comfortable with.
 
 ## Summary
