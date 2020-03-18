@@ -5,7 +5,7 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
-| None | None | Interest in facilitating or participating in remote collaborations |
+| None | None | Interest in working with others remotely |
 
 ## Summary
 
