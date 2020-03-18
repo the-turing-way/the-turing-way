@@ -79,15 +79,11 @@ If accessing private repositories is a feature you/your team need, we advise tha
 
 1) Go to **https://mybinder.org**
 2) Type the URL of your repo into the "GitHub repo or URL" box.
-
-   Should look like this:
+   It should look like this:
    > **<https://github.com/your-username/my-first-binder>**
-
 3) As you type, the webpage generates a link in the "Copy the URL below..." box
-
-   Should look like this:
+   It should look like this:
    > **<https://mybinder.org/v2/gh/your-username/my-first-binder/master>**
-
 4) Copy it, open a new browser tab and visit that URL.
    - You will see a "spinner" as Binder launches the repo.
 
