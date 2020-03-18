@@ -17,7 +17,7 @@ This chapter will also provide case studies from small and large teams for short
 Finally, this chapter will also produce a comprehensive list of tools that are recommended for different kinds of remote collaborations.
 
 ```
-| ![A dish with Green Eggs and Ham](/figures/distributed-collaboration.jpg)         |
+| ![A person standing on a globe and interacting virtually witj people on different screen in different time zones](/figures/distributed-collaboration.jpg)         |
 | ------------------------------------------------------------------------------------ |
 | Illustration of Distributed Collaboration, The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300. Co-designed by Malvika Sharan and Mateusz Kuzak at the Book Dash Feb 2020|
 ```

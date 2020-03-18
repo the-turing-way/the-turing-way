@@ -122,7 +122,7 @@
 - title: BinderHub
   url: /binderhub/binderhub
 - title: Remote Collaboration
-url: /remote_collaboration/remote_collaboration
+  url: /remote_collaboration/remote_collaboration
   sections:
   - title: Establishing Protocols
     url: /remote_collaboration/protocols/protocols
@@ -132,7 +132,7 @@ url: /remote_collaboration/remote_collaboration
     url: /remote_collaboration/tools/tools
   - title: Leadership and Management
     url: /remote_collaboration/management/management
-  - title: Well-being of your people
+  - title: Well-being of ypeople
     url: /remote_collaboration/wellbeing/wellbeing
   - title: Case Studies
     url: /remote_collaboration/casestudies/casestudies
