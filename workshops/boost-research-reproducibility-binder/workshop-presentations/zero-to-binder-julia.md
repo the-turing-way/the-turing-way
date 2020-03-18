@@ -8,6 +8,28 @@ Based on Tim Head's _Zero-to-Binder_ workshops which can be found here: <http://
 
 To follow these instructions on your own machine, follow this link: **<http://bit.ly/zero-to-binder-tutorial>**
 
+- [Running Code is more complicated than Displaying Code](#running-code-is-more-complicated-than-displaying-code)
+- [What Binder Provides](#what-binder-provides)
+- [1. Creating a repo to Binderize](#1-creating-a-repo-to-binderize)
+- [2. Launch your first repo!](#2-launch-your-first-repo)
+  - [What's happening in the background? - Part 1](#whats-happening-in-the-background---part-1)
+- [3. Run `hello.py`](#3-run-hellopy)
+- [4. Pinning Dependencies](#4-pinning-dependencies)
+  - [What's happening in the background? - Part 2](#whats-happening-in-the-background---part-2)
+  - [More on pinning dependencies](#more-on-pinning-dependencies)
+- [5. Check the Environment](#5-check-the-environment)
+- [6. Sharing your Work](#6-sharing-your-work)
+- [7. Accessing data in your Binder](#7-accessing-data-in-your-binder)
+  - [Small public files](#small-public-files)
+  - [Medium public files](#medium-public-files)
+  - [Large public files](#large-public-files)
+  - [Private files](#private-files)
+- [8. Get data with `postBuild`](#8-get-data-with-postbuild)
+- [Beyond Notebooks...](#beyond-notebooks)
+- [Now over to you!](#now-over-to-you)
+
+---
+
 ## Running Code is more complicated than Displaying Code
 
 GitHub is a great service for sharing code, but the contents are **static**.
@@ -221,7 +243,7 @@ You can access the environment by changing the URL you visit to:
 
 > **<https://mybinder.org/v2/gh/your-username/my-first-binder/master?urlpath=lab>**
 
-**N.B.:** We've already seen how the `?filepath=` argument can link to a specific file in the ["What Binder Provides"](#binder) section at the beginning of this workshop.
+**N.B.:** We've already seen how the `?filepath=` argument can link to a specific file in the ["What Binder Provides"](#what-binder-provides) section at the beginning of this workshop.
 
 Here you can access:
 
