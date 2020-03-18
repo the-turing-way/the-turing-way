@@ -4,7 +4,7 @@
 any digital object, such as a version of a paper, a version of software etc.
 This has the advantage that it is unambigous and standardized. For journal articles, using
 DOIs is commonplace, and a DOI is usually provided by the publisher. For
-software, you can make your own DOI with [Zenodo](https://zenodo.org/):
+software, you can get a DOI by publishing it on [Zenodo](https://zenodo.org/) platform:
 
 1. You can tell people how to cite your software by including a ``CITATION.cff``
 file in the root of your repository (You can read up on the rationale of
