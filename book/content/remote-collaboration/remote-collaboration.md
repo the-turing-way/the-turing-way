@@ -1,4 +1,4 @@
-# Remote Collaboration
+# Collaboration
 
 ## Prerequisites / recommended skill level
 > other chapters that should have been read before or content you should be familiar with before you read this
@@ -16,7 +16,14 @@ This chapter will help you understand the main aspects and the perceived pros an
 This chapter will also provide case studies from small and large teams for short and long collaboration or collaborative events.
 Finally, this chapter will also produce a comprehensive list of tools that are recommended for different kinds of remote collaborations.
 
+```
+| ![A dish with Green Eggs and Ham](/figures/distributed-collaboration.jpg)         |
+| ------------------------------------------------------------------------------------ |
+| Illustration of Distributed Collaboration, The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300. Co-designed by Malvika Sharan and Mateusz Kuzak at the Book Dash Feb 2020|
+```
+
 ## How this will help you/ why this is useful
+
 Remote collaboration has gained popularity over the last years as more and more companies expand their business in areas far from the location of the main office (for example, [Mozilla](https://www.mozilla.org/en-GB/)), or exist entirely as remote company (for example, [RStudio](https://rstudio.com/about/)).
 
 In the early 2020, as we begin to work entirely from home due to [Coronavirus (COVID-19) pandemic](https://www.who.int/emergencies/diseases/novel-coronavirus-2019), we have been experiencing a drastic change in our work culture.
