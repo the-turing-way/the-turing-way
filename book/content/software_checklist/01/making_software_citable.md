@@ -10,7 +10,7 @@ software, you can get a DOI by publishing it on [Zenodo](https://zenodo.org/) pl
 file in the root of your repository (You can read up on the rationale of
 ``CITATION.cff`` files in [this
 blog](https://www.software.ac.uk/blog/2017-12-12-standard-format-citation-files)).
-However, writing ``CITATION.cff`` files by hand is a bit tedious and error-prone. We recommend using [this online application](https://citation-file-format.github.io/cff-initializer-javascript/) and fill in the provided web form.
+Writing ``CITATION.cff`` files by hand is tedious and error-prone. We recommend using [this online application](https://citation-file-format.github.io/cff-initializer-javascript/) and filling in the provided web form.
 1. Make a [Zenodo](https://zenodo.org/) account and link it with your GitHub account as explained on [guides.github.com/activities/citable-code](https://guides.github.com/activities/citable-code/).
 1. You can tell Zenodo what metadata you want to associate with the software by
 including a ``.zenodo.json`` file in the root of your repository, but writing
