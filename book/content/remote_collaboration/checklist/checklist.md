@@ -7,11 +7,14 @@
     + [During the meeting](#during-the-meeting)
       - [Breakout rooms](#breakout-rooms)
     + [After the meeting](#after-the-meeting)
+  * [Checklist for attending a remote meeting or event](#checklist-for-attending-a-remote-meeting-or-event)
+    + [Before participating at the conference](#before-participating-at-the-conference)
+    + [During participating at the conference](#during-participating-at-the-conference)
+    + [After participating at the Conference](#after-participating-at-the-conference)    
   * [Checklist for running a remote conference or event](#checklist-for-running-a-remote-conference-or-event)
     + [Before the conference](#before-the-conference)
     + [During the conference](#during-the-conference)
     + [After the Conference](#after-the-conference)
-  * [Checklist for attending a remote meeting or event](#checklist-for-attending-a-remote-meeting-or-event)
   * [Checklist for managing and participating in a distributed team](#checklist-for-managing-and-participating-in-a-distributed-team)
 
 ## Checklist for organising a remote meeting
@@ -24,10 +27,9 @@
   - [ ] Sharing guidelines and protocols for chairing and note taking
 - [ ] Decide if there will be any designated speaker with presentation
   - [ ] Share speaker's guidelines and protocols with them
-- [ ] Establish a shared document that can be updated online for agenda and note taking, for example, [Google doc](https://docs.google.com/document/u/0/?usp=direct_url), [Etherpad](https://yourpart.eu/) or [HackMD](http://hackmd.io/)
+- [ ] Establish a shared document that can be updated online for agenda and note taking
   - [ ] Create a template for this meeting (that can also be used for future meetings)
-- [ ] Add the exact date, time, location (if any!)
-- [ ] Share the tool that will be used for communication, for example [Zoom](https://zoom.us/)
+- [ ] Add the exact date, time, location (if any!) and choice of tool that will be used for communication
   - [ ] Use an open source software to avoid inaccessibility
   - [ ] If using a tool that is available only upon subscription, make sure that all the members have the access
   - [ ] Share a how-to guide to ensure that everyone knows how to use the tool
@@ -37,7 +39,6 @@
   - [ ] Ask everyone to write their name indicating their participation or absence
 - [ ] Remind everyone to arrange microphone or headsets
   - [ ] If possible, provide any hardware that are preferred by the organisation
-- [ ] Create name badges, with space for people to specify pronouns, and send them to local hosts    
 - [ ] Clearly share the participation guideline, code of conduct and contact information of people who can help with any issues regarding the meeting
 - [ ] Send a reminder with link to the document and other important resources to all the participant a day in advance
 - [ ] Create slides or presentation that might be needed from organiser's side (welcome, wrap up)
@@ -67,6 +68,8 @@
 - [ ] Remind the guidelines for participating in discussions
   - [ ] Raise hand - on chat, or virtually (like in zoom) or physically
   - [ ] Other ways to involve others in the discussion equitably
+- [ ] Start the meeting with an icebreaker question
+  - [ ] Create opportunity for everyone to share something personal (about their hobby, or experiences) on the document or verbally    
 - [ ] Ensure that the discussion is inclusive of everyone
 - [ ] Indicate if the speakers should speed up or slow down, or if there is a technical issue that speaker should check
 - [ ] Facilitate questions and answer or discussion on the agenda points
@@ -86,7 +89,7 @@
 
 #### Breakout rooms
 
-*If using breakout rooms in Zoom (or similar tool), make sure that the organiser helps you create Groups*
+*If using breakout rooms in Zoom (or similar tool), make sure that the organiser for help*
 
 - [ ] Create groups that are more diverse (they will have better discussion)
 - [ ] Remind everyone to give others fair chance to speak
@@ -103,33 +106,58 @@
 - [ ] If the meeting call was recorded, process and share the recorded video with everyone
 - [ ] Send thank you email with the link of the complete notes and other relevant information
 
-## Checklist for running an event (conference/hackathon/sprint)
+## Checklist for attending a remote meeting or event
+
+### Before participating in the meeting
+
+### During participating in the meeting
+
+### After participating in the meeting
+
+## Checklist for running a longer event such as a conference or sprint
 
 *This is a growing list - feel free to correct or add anything thats missing!*
 
 ### Before the event
 
-- [ ] Identify a most suitable slot that is time zone compatible for all the members
-  - [ ] Use a standard time with link to different time zones when communicating
-- [ ] Identify a chair and note taker for the meeting
-  - [ ] Sharing guidelines and protocols for chairing and note taking
-- [ ] Decide if there will be any designated speaker with presentation
-  - [ ] Share speaker's guidelines and protocols with them
-- [ ] Establish a shared document that can be updated online for agenda and note taking
-  - [ ] Create a template for this meeting (that can also be used for future meetings)
-- [ ] Add the exact date, time, location (if any!) and choice of tool that will be used for communication
+- [ ] Design a website for the event, taking accessibility aspects into account (font size, color, background)
+- [ ] Allocate budget for organising this event (for example for the tools, equipment and childcare)
+  - [ ] Ask from your organisation
+  - [ ] Look for sponsorship
+  - [ ] Calculate how much should be the registration fee
+  - [ ] Consider the possibility of waiving it for people from low income organisation/country
+- [ ] Decide a theme and topic for the event
+  - [ ] Invite community members to suggest ideas and collectively choose the most relevant one
+- [ ] Assemble members in the organising committee
+  - [ ] To make it truly inclusive, include different stakeholders from the community, organisation, and of diverse background  
+- [ ] Identify a most suitable time zone and the duration of the event
+  - [ ] If the organising committee have members across different time zones, the event can be in a distributed manner
+  - [ ] Use a standard time with link to different time zones when communicating about the event
+- [ ] Add the exact date, time, location (if any!) and choice of tool that will be used for communication  
+- [ ] Establish a timeline for organising and planning the conference and share on the website
+  - [ ] Deadline for abstract submission
+  - [ ] Deadline for selected abstract and program announcement  
+  - [ ] Deadline for application for support grant (equipments and internet cost)
+  - [ ] Deadline for application for support grant announcement (such as equipments for remote joining, internet cost, childcare)
+  - [ ] Deadline for registration
+  - [ ] Deadline for registration cancellation
+- [ ] Establish a rubric for selection of the talks and sessions
+- [ ] Invite abstracts for talks and sessions and share rubrics for selection
+- [ ] Identify speakers and sessions for the event
+  - [ ] Share speaker's and session guidelines with the selected participants
+- [ ] Share program and agenda with everyone (in the websites)
+- [ ] Invite chairs for the session
+  - [ ] Share chair's guidelines and protocols with the selected participants
+- [ ] Establish a shared document for each session that can be updated online for agenda and note taking during the event
+  - [ ] Create a template that can also be used for all the session with minor adaption
   - [ ] Use an open source software to avoid inaccessibility
-  - [ ] If using a tool that is available only upon subscription, make sure that all the members have the access
+  - [ ] If using a tool that is available only upon subscription, make sure that all the participants have the access
   - [ ] Share a how-to guide to ensure that everyone knows how to use the tool
   - [ ] If possible, offer help with installation and testing of the tool
-- [ ] Distribute the shared document a few days before the meeting
-  - [ ] Ask everyone to add any agenda item that they would like discuss at the meeting
-  - [ ] Ask everyone to write their name indicating their participation or absence
 - [ ] Remind everyone to arrange microphone or headsets
-  - [ ] If possible, provide any hardware that are preferred by the organisation
-- [ ] Create name badges, with space for people to specify pronouns, and send them to local hosts    
+  - [ ] If possible, provide possibility to request for grant to buy simple equipments such as headphones, webcam, and high-speed internet  
 - [ ] Clearly share the participation guideline, code of conduct and contact information of people who can help with any issues regarding the meeting
-- [ ] Send a reminder with link to the document and other important resources to all the participant a day in advance
+- [ ] Send a reminder with link to the document and other important resources to all the participant a week and a day in advance
 - [ ] Create slides or presentation that might be needed from organiser's side (welcome, wrap up)
 
 #### Designated venues to participate from
@@ -148,6 +176,8 @@
 
 ### During the event
 
+*This is still for meeting, need to updated for the conference*
+
 - [ ] Remind of the community participation guideline and the Code of Conduct
 - [ ] Introduce the chair and notetaker, and let the chair take over for the rest of the tasks
 - [ ] Introduce the format of the meeting and when the break is scheduled
@@ -157,6 +187,9 @@
 - [ ] Remind the guidelines for participating in discussions
   - [ ] Raise hand - on chat, or virtually (like in zoom) or physically
   - [ ] Other ways to involve others in the discussion equitably
+- [ ] Ask everyone to write down their name, pronouns, contact (twitter, email) and other relevant information
+- [ ] Start the meeting with an icebreaker question
+  - [ ] Create opportunity for everyone to share something personal (about their hobby, or experiences) on the document or verbally
 - [ ] Ensure that the discussion is inclusive of everyone
 - [ ] Indicate if the speakers should speed up or slow down, or if there is a technical issue that speaker should check
 - [ ] Facilitate questions and answer or discussion on the agenda points
@@ -187,12 +220,12 @@
 
 ### After the event
 
+*This is still for meeting, need to updated for the conference*
+
 - [ ] Create a debrief of what went well and what could be improved
   - [ ] This can also be requested from the participants
 - [ ] Request any additional document or information mentioned by others/speakers during the meeting
 - [ ] If the meeting call was recorded, process and share the recorded video with everyone
 - [ ] Send thank you email with the link of the complete notes and other relevant information
-
-## Checklist for attending a remote meeting or event
 
 ## Checklist for managing and participating in a distributed team
