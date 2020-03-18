@@ -128,11 +128,13 @@ url: /remote-collaboration/remote-collaboration
     url: /remote-collaboration/01/protocols
   - title: Managing Resources
     url: /remote-collaboration/02/managingresources
+  - title: Tool Choices
+    url: /remote-collaboration/03/tools
   - title: Leadership and Management
-    url: /remote-collaboration/03/management
+    url: /remote-collaboration/04/management
   - title: Case Studies
-    url: /remote-collaboration/04/casestudies
+    url: /remote-collaboration/05/casestudies
   - title: Perceived Pros and Cons
-    url: /remote-collaboration/05/prosandcons  
+    url: /remote-collaboration/06/prosandcons  
 - title: Glossary
   url: /glossary/glossary
