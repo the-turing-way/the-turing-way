@@ -13,7 +13,7 @@ blog](https://www.software.ac.uk/blog/2017-12-12-standard-format-citation-files)
 Writing ``CITATION.cff`` files by hand is tedious and error-prone. We recommend using [this online application](https://citation-file-format.github.io/cff-initializer-javascript/) and filling in the provided web form.
 1. Make a [Zenodo](https://zenodo.org/) account and link it with your GitHub account as explained on [guides.github.com/activities/citable-code](https://guides.github.com/activities/citable-code/).
 1. You can tell Zenodo what metadata you want to associate with the software by
-including a ``.zenodo.json`` file in the root of your repository, but writing
+including a ``.zenodo.json`` file in the root of your repository. Writing
 that file by hand is also error-prone. Therefore it is advisable to just generate it
 from the ``CITATION.cff`` file. To do so, you'll need a command line tool
 ``cffconvert`` which you can install [from
