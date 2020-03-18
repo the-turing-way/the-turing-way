@@ -125,16 +125,20 @@
 url: /remote_collaboration/remote_collaboration
   sections:
   - title: Establishing Protocols
-    url: /remote_collaboration/01/protocols
+    url: /remote_collaboration/protocols/protocols
   - title: Managing Resources
-    url: /remote_collaboration/02/managingresources
+    url: /remote_collaboration/resources/resources
   - title: Tool Choices
-    url: /remote_collaboration/03/tools
+    url: /remote_collaboration/tools/tools
   - title: Leadership and Management
-    url: /remote_collaboration/04/management
+    url: /remote_collaboration/management/management
+  - title: Well-being of your people
+    url: /remote_collaboration/wellbeing/wellbeing
   - title: Case Studies
-    url: /remote_collaboration/05/casestudies
+    url: /remote_collaboration/casestudies/casestudies
   - title: Perceived Pros and Cons
-    url: /remote_collaboration/06/prosandcons
+    url: /remote_collaboration/prosandcons/prosandcons
+  - title: Checklists
+    url: /remote_collaboration/checklists/checklists
 - title: Glossary
   url: /glossary/glossary
