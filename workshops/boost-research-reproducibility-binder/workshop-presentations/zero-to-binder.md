@@ -8,12 +8,15 @@ Based on Tim Head's _Zero-to-Binder_ workshops which can be found here: <http://
 
 To follow these instructions on your own machine, follow this link: **<http://bit.ly/zero-to-binder-tutorial>**
 
+Binder can take a long time to load, but this doesn't necessarily mean that you Binder will fail to launch.
+You can always refresh the window if you see the "... is taking longer to load, hang tight!" message.
+
 - [Running Code is more complicated than Displaying Code](#running-code-is-more-complicated-than-displaying-code)
 - [What Binder Provides](#what-binder-provides)
 - [1. Creating a repo to Binderize](#1-creating-a-repo-to-binderize)
   - [Why did the repo have to be public?](#why-did-the-repo-have-to-be-public)
 - [2. Launch your first repo!](#2-launch-your-first-repo)
-  - [What's happening in the background?](#whats-happening-in-the-background---part-1)
+  - [What's happening in the background? - Part 1](#whats-happening-in-the-background---part-1)
 - [3. Run `hello.py`](#3-run-hellopy)
 - [4. Pinning Dependencies](#4-pinning-dependencies)
   - [What's happening in the background? - Part 2](#whats-happening-in-the-background---part-2)
@@ -55,8 +58,8 @@ You can create a link to a **live, interactive** version of your code!
 - An example binder link:
   > **<https://mybinder.org/v2/gh/trekhleb/homemade-machine-learning/master?filepath=notebooks%2Fanomaly_detection%2Fanomaly_detection_gaussian_demo.ipynb>**
   From this repo: **<https://github.com/trekhleb/homemade-machine-learning>**
-  - Notice that the Binder link has a similar structure to the GitHub repo link
-  - The "filepath" argument opens a specific notebook in the repo
+  - Notice that the Binder link has a similar structure to the GitHub repo link (<github-username>/<github-repo-name>)
+  - The "filepath" argument opens a specific notebook (`.ipynb` file) in the repo
 
 ## 1. Creating a repo to Binderize
 
@@ -77,7 +80,7 @@ If accessing private repositories is a feature you/your team need, we advise tha
 
 **TO DO:** :vertical_traffic_light:
 
-1) Go to **https://mybinder.org**
+1) Go to **<https://mybinder.org>**
 2) Type the URL of your repo into the "GitHub repo or URL" box.
    It should look like this:
    > **<https://github.com/your-username/my-first-binder>**
@@ -123,6 +126,9 @@ This time, click on "Build Logs" in the big, horizontal, grey bar.
 This will let you watch the progress of your build.
 It's useful when your build fails or something you think _should_ be installed is missing.
 
+**N.B.:** Sometimes Binder's build logs prints things in red font, such as warnings that `pip` is not up-to-date (`pip` is often out of date because it's regularly updated!) or installation messages, especially if you're using R.
+These red messages don't necessarily mean there's a problem with your build and it will fail - it's just an unfortunate font colour choice!
+
 ### What's happening in the background? - Part 2
 
 This time, BinderHub will read `requirements.txt` and install version `1.14.5` of the `numpy` package.
@@ -159,6 +165,10 @@ Each language has it's own quirks and a link to the different types of configura
 3) Run the cell to see the version number and a random number printed out
    - Press either SHIFT+RETURN or the "Run" button in the Menu bar
 
+**N.B.:** If you save this notebook, it **will not** be saved to the GitHub repo.
+Pushing changes back to the GitHub repo through the container is not possible with Binder.
+**Any changes you have made to files inside the Binder will be lost once you close the browser window.**
+
 ## 6. Sharing your Work
 
 Binder is all about sharing your work easily and there are two ways to do it:
@@ -191,7 +201,10 @@ This is ideal for files up to **10MB**.
 To access medium files **from a few 10s MB up to a few hundred MB**, you can add a file called `postBuild` to your repo.
 A `postBuild` file is a shell script that is executed as part of the image construction and is only executed once when a new image is built, not every time the Binder is launched.
 
+See [Binder's `postBuild` example](https://mybinder.readthedocs.io/en/latest/config_files.html#postbuild-run-code-after-installing-the-environment) for more uses of the `postBuild` script.
+
 **N.B.:** New images are only built when Binder sees a new commit, not every time you click the Binder link.
+Therefore, the data is only downloaded once when the Docker image is built, not every time the Binder is launched.
 
 ### Large public files
 
@@ -220,7 +233,8 @@ However, that is not to say that they are the _only_ groups of people who should
 
 1) Go to your GitHub repo and create a file called `postBuild`
 2) In `postBuild`, add a single line reading: `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
-   - `wget` is a program which retrieves content from web servers. This line extracts the content from the bitly URL and saves it to the file denoted by the `-O` flag (i.e. `gapminder.csv`). The `-q` flag tells `wget` to do this quietly, i.e. don't print anything to the console.
+   - `wget` is a program which retrieves content from web servers. This line extracts the content from the bitly URL and saves it to the filename denoted by the `-O` flag (capital "O", not zero), i.e. `gapminder.csv`.
+     The `-q` flag tells `wget` to do this quietly, i.e. don't print anything to the console.
 3) Update your `requirements.txt` file by adding a new line with `pandas` on it and another new line with `matplotlib` on it
    - These packages aren't necessary to download the data but we will use them to read the CSV file and make a plot
 4) Click the binder badge in your README to launch your Binder
