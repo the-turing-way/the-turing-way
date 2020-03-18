@@ -24,9 +24,10 @@
   - [ ] Sharing guidelines and protocols for chairing and note taking
 - [ ] Decide if there will be any designated speaker with presentation
   - [ ] Share speaker's guidelines and protocols with them
-- [ ] Establish a shared document that can be updated online for agenda and note taking
+- [ ] Establish a shared document that can be updated online for agenda and note taking, for example, [Google doc](https://docs.google.com/document/u/0/?usp=direct_url), [Etherpad](https://yourpart.eu/) or [HackMD](http://hackmd.io/)
   - [ ] Create a template for this meeting (that can also be used for future meetings)
-- [ ] Add the exact date, time, location (if any!) and choice of tool that will be used for communication
+- [ ] Add the exact date, time, location (if any!)
+- [ ] Share the tool that will be used for communication, for example [Zoom](https://zoom.us/)
   - [ ] Use an open source software to avoid inaccessibility
   - [ ] If using a tool that is available only upon subscription, make sure that all the members have the access
   - [ ] Share a how-to guide to ensure that everyone knows how to use the tool
