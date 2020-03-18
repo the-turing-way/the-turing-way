@@ -1,6 +1,6 @@
 # Making software citable
 
-Digital Object Identifiers are globally unique identifiers which can point to
+[Digital Object Identifiers](https://en.wikipedia.org/wiki/Digital_object_identifier)  (DOIs) are globally unique identifiers which can point to
 any digital object, such as a version of a paper, a version of software etc.
 This has the advantage that it is unambigous and standardized. For papers, using
 DOIs is commonplace, and a DOI is usually provided by the publisher. For
