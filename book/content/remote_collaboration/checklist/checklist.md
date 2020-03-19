@@ -204,7 +204,7 @@ A few subsections are marked as "all phases of organisation", as those aspects s
 - [ ] Describe your community participation guidelines
 - [ ] Create possibility for people to ask for support to attend your event
 - [ ] Create a reporting guideline for any question, concern or breach of Code of Conduct
-- [ ] Describe how you intend to create an inclusive event, for e.g. will there be a sign language or live transcription
+- [ ] Describe how you intend to create an inclusive event, for example will there be a sign language interpreter or live transcription
 - [ ] Create one single location for all the information (like A to Z files) regarding the events
 - [ ] Host a few community calls in different stages of planning to involve audience into the planning process
 - [ ] Invite volunteers who can help you troubleshoot some specific issues
@@ -511,7 +511,7 @@ Provide plenty of breaks, and treat those breaks a virtual coffee sessions.*
 <details>
   <summary>Click to expand</summary>
 
-- [ ] Share the link of the gallery where the pre-recorded lightning talks are posted along with the shared notes from the session (see details in [Program (next steps)](#program--next-steps-))
+- [ ] Share the link of the gallery where the pre-recorded lightning talks are posted along with the shared notes from the session (see details in (Program (before the event))
 - [ ] Ask presenters who are attending the session to write down their names so that other attendees can ask questions specific to their talks
 - [ ] Allow enough time for everyone to checkout multiple lightning Talks
 - [ ] Run an open questions and answer where anyone can ask question to any presenters, remind everyone to keep their question and response short
@@ -521,13 +521,12 @@ Provide plenty of breaks, and treat those breaks a virtual coffee sessions.*
 - [ ] If the feedback for the session is available, use the last few minutes to gather those from the participants
 </details>
 
-
 #### Poster sessions
 *Checklist for the designated chair of these sessions*
 <details>
   <summary>Click to expand</summary>
 
-- [ ] Share the link of the gallery where the posters can be browsed (see details in [Program (next steps)](#program--next-steps-))
+- [ ] Share the link of the gallery where the posters can be browsed (see details in (Program (before the event))
   - [ ] If short pre-recorded lightning talks on the posters are available, allow time to watch a few videos
 - [ ] Ask presenters who are attending the session to write down their names so that other attendees can ask questions specific to their talks
 - [ ] Allow enough time for everyone to ask questions on the shared document, dedicated channel (Slack or sli.do) for poster discussions
