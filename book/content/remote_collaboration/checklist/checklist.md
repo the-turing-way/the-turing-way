@@ -34,7 +34,7 @@ The last two checklists are about managing and participating in the distributed 
       - [Kicking off the event](#kicking-off-the-event)
       - [Talks and presentations](#talks-and-presentations)
       - [Short workshops, up-skilling or discussion sessions](#short-workshop--up-skilling-or-discussion-session)
-      - [Lightning talks](#lightning-talks
+      - [Lightning talks](#lightning-talks)
       - [Poster sessions](#poster-sessions)
       - [Social events](#social-events)
       - [Handling breakout rooms](#handling-breakout-rooms)
