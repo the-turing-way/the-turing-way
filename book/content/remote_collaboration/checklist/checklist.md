@@ -1,3 +1,7 @@
+This document lists the various checklists for organising meetings, conferences or similar events online.
+It also includes a checklist for participating in remote meetings and conference.
+The last two checklists are about managing and participating in the distributed teams.
+
 # Table of content
 
 - [Table of content](#table-of-content)
@@ -34,22 +38,17 @@
       - [Social events](#social-events)
       - [Handling breakout rooms](#handling-breakout-rooms)
     + [After the event](#after-the-event)
-  * [Checklist for managing and participating in a distributed team](#checklist-for-managing-and-participating-in-a-distributed-team-1)
-  * [Checklist for attending a remote meeting or event](#checklist-for-attending-a-remote-meeting-or-event)
+  * [Checklist for attending a remote meetings or events](#checklist-for-attending-a-remote-meeting-or-event)
     + [Before participating in the meeting](#before-participating-in-the-meeting)
     + [During participating in the meeting](#during-participating-in-the-meeting)
     + [After participating in the meeting](#after-participating-in-the-meeting)
+  * [Checklist for managing a distributed team](#checklist-for-managing-a-distributed-team)
+  * [Checklist for participating in a distributed team](#checklist-for-participating-in-a-distributed-team)
+
     + [Bibliography](#bibliography)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-
-## Checklist for managing and participating in a distributed team
-
-<details>
-  <summary>Click to expand</summary>
-
-</details>
 
 ## Checklist for organising a remote meeting
 
@@ -555,13 +554,6 @@ Provide plenty of breaks, and treat those breaks a virtual coffee sessions.*
 - [ ] Settle all the invoices from the event
 </details>
 
-## Checklist for managing and participating in a distributed team
-*HELP WANTED*
-<details>
-  <summary>Click to expand</summary>
-
-</details>
-
 ## Checklist for attending a remote meeting or event
 *HELP WANTED*
 
@@ -585,6 +577,20 @@ Provide plenty of breaks, and treat those breaks a virtual coffee sessions.*
   <summary>Click to expand</summary>
 
 </details>  
+
+## Checklist for managing and participating in a distributed team
+*HELP WANTED*
+<details>
+  <summary>Click to expand</summary>
+
+</details>
+
+## Checklist for participating in a distributed team
+*HELP WANTED*
+<details>
+  <summary>Click to expand</summary>
+
+</details>
 
 ### Bibliography
 
