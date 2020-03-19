@@ -34,7 +34,8 @@ The last two checklists are about managing and participating in the distributed 
       - [Kicking off the event](#kicking-off-the-event)
       - [Talks and presentations](#talks-and-presentations)
       - [Short workshops, up-skilling or discussion sessions](#short-workshop--up-skilling-or-discussion-session)
-      - [Lightning talks and poster sessions](#lightning-talks-and-poster-sessions)
+      - [Lightning talks](#lightning-talks
+      - [Poster sessions](#poster-sessions)
       - [Social events](#social-events)
       - [Handling breakout rooms](#handling-breakout-rooms)
     + [After the event](#after-the-event)
@@ -337,9 +338,12 @@ Provide plenty of breaks, and treat those breaks a virtual coffee sessions.*
 - [ ] If the session is supposed to run in parallel, create agenda based on the session topic/theme
 - [ ] In addition to the talks, have plenty of slots for breakout discussions, short workshops and other opportunities to exchange skills
 - [ ] Provide new and interesting topics, that are not selected to long talk or sessions, an opportunity to present their idea in short or lightning talks
-- [ ] Instead of having a live lightning talk, create a gallery of pre-recorded lightning talk from the interested participant that can be accessed by everyone
+- [ ] Instead of having a live lightning talk and poster presentation, invite submission of the pre-recorded lightning talks and talks on posters that can assembled in a gallary (for example, YouTube playlist) that can be accessed by everyone
+  - [ ] For poster sessions, create a gallery of posters online that can be broswed easily
+    - Use F1000 Research, Zenodo, Figshare and osf.io/meetings that gives DOI to each submission, and allows browsable collactions, other options are Flickers, Unsplash and google photos
+    - Share link of each poster with their online video in the shared document
   - [ ] Decide length of these talks (recommended length is 1.5-2 minutes)
-  - [ ] Create a designated slot in the program to ensure that people take time to check out these Talks
+  - [ ] Create a designated slot in the program to ensure that people take time to check out these talks and posters
 - [ ] Invite poster submission and create a browsable gallery (for example on F1000 research or Zenodo)
   - [ ] Create a designated slot in the program to ensure that people take time to check out these posters and interact with the poster presenters
 - [ ] Share program and agenda with everyone (in the websites) on time
@@ -502,17 +506,38 @@ Provide plenty of breaks, and treat those breaks a virtual coffee sessions.*
   - [ ] Ask people to leave some emoji, gifs and testimonial for the workshop
 </details>
 
-#### Lightning talks and poster sessions
-*Checklist for the designated chair of this session*
+#### Lightning talks
+*Checklist for the designated chair of these session*
 <details>
   <summary>Click to expand</summary>
 
-- [ ] Share the link of the gallery where the pre-recorded lightning talks are posted along with the shared notes from the session
+- [ ] Share the link of the gallery where the pre-recorded lightning talks are posted along with the shared notes from the session (see details in [Program (next steps)](#program--next-steps-))
 - [ ] Ask presenters who are attending the session to write down their names so that other attendees can ask questions specific to their talks
 - [ ] Allow enough time for everyone to checkout multiple lightning Talks
 - [ ] Run an open questions and answer where anyone can ask question to any presenters, remind everyone to keep their question and response short
   - [ ] Use shared document or sli-do for taking questions
 - [ ] Keep the format informal and allow flexibility for participation   
+- [ ] Finish the session by thanking all the participants, and ask everyone to leave nice words, gif or emoji to celebrate the session and presenters' work.
+- [ ] If the feedback for the session is available, use the last few minutes to gather those from the participants
+</details>
+
+
+#### Poster sessions
+*Checklist for the designated chair of these sessions*
+<details>
+  <summary>Click to expand</summary>
+
+- [ ] Share the link of the gallery where the posters can be browsed (see details in [Program (next steps)](#program--next-steps-))
+  - [ ] If short pre-recorded lightning talks on the posters are available, allow time to watch a few videos
+- [ ] Ask presenters who are attending the session to write down their names so that other attendees can ask questions specific to their talks
+- [ ] Allow enough time for everyone to ask questions on the shared document, dedicated channel (Slack or sli.do) for poster discussions
+- [ ] Keep an eye on the document to see if everything is going well
+- [ ] Remind every one of the time in a regular interval
+- [ ] At the end run an open questions and answer where anyone can ask question to any presenters, remind everyone to keep their question and response short
+  - [ ] Use shared document or sli-do for taking questions
+- [ ] Keep the format informal and allow flexibility for participation   
+- [ ] Finish the session by thanking all the participants, and ask everyone to leave nice words, gif or emoji to celebrate the session and presenters' work.
+- [ ] If the feedback for the session is available, use the last few minutes to gather those from the participants
 </details>
 
 #### Social events
