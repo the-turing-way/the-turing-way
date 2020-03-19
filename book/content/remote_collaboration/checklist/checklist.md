@@ -3,19 +3,46 @@
 - [Table of content](#table-of-content)
   * [Checklist for managing and participating in a distributed team](#checklist-for-managing-and-participating-in-a-distributed-team)
   * [Checklist for organising a remote meeting](#checklist-for-organising-a-remote-meeting)
-    + [Before the meeting](#before-the-meeting)
       - [Designated venues to participate from](#designated-venues-to-participate-from)
     + [During the meeting](#during-the-meeting)
       - [Breakout rooms](#breakout-rooms)
     + [After the meeting](#after-the-meeting)
-  * [Checklist for running a remote conference or event](#checklist-for-running-a-remote-conference-or-event)
-    + [Before the conference](#before-the-conference)
-    + [During the conference](#during-the-conference)
-    + [After the Conference](#after-the-conference)
+  * [Checklist for running a longer event such as a conference or sprint](#checklist-for-running-a-longer-event-such-as-a-conference-or-sprint)
+    + [Before the event](#before-the-event)
+      - [Organising committee for the event (preplanning)](#organising-committee-for-the-event--preplanning-)
+      - [Website for the event (preplanning)](#website-for-the-event--preplanning-)
+      - [Community participation and accessibility (all phases of organisation)](#community-participation-and-accessibility--all-phases-of-organisation-)
+      - [Communication channel (all phases of organisation)](#communication-channel--all-phases-of-organisation-)
+      - [Storing and sharing information within the organising committee (all phases of organisation)](#storing-and-sharing-information-within-the-organising-committee--all-phases-of-organisation-)
+      - [Budget (immediate steps)](#budget--immediate-steps-)
+      - [Participation support grants (immediate steps)](#participation-support-grants--immediate-steps-)
+      - [Event's theme, target audience and duration (immediate steps)](#event-s-theme--target-audience-and-duration--immediate-steps-)
+      - [Defining timeline, invite applications and set rubrics for session/speaker selection (immediate steps)](#defining-timeline--invite-applications-and-set-rubrics-for-session-speaker-selection--immediate-steps-)
+      - [Create a registration form (immediate steps)](#create-a-registration-form--immediate-steps-)
+      - [Community suggestion and feedback forms (immediate steps)](#community-suggestion-and-feedback-forms--immediate-steps-)
+      - [Program (next steps)](#program--next-steps-)
+      - [Document and tools for participants (next steps)](#document-and-tools-for-participants--next-steps-)
+      - [Organise a pre-event set-up community call/party/fest/coffee-hour (next steps)](#organise-a-pre-event-set-up-community-call-party-fest-coffee-hour--next-steps-)
+      - [Storing and sharing information with the participants (next steps)](#storing-and-sharing-information-with-the-participants--next-steps-)
+      - [Branding and promotional materials (all phases of organisation)](#branding-and-promotional-materials--all-phases-of-organisation-)
+      - [Designated venues to participate from](#designated-venues-to-participate-from-1)
+    + [During the event](#during-the-event)
+      - [Kicking off the event](#kicking-off-the-event)
+      - [Talks and presentations](#talks-and-presentations)
+      - [Short workshops, up-skilling or discussion sessions](#short-workshop--up-skilling-or-discussion-session)
+      - [Lightning talks and poster sessions](#lightning-talks-and-poster-sessions)
+      - [Social events](#social-events)
+      - [Handling breakout rooms](#handling-breakout-rooms)
+    + [After the event](#after-the-event)
+  * [Checklist for managing and participating in a distributed team](#checklist-for-managing-and-participating-in-a-distributed-team-1)
   * [Checklist for attending a remote meeting or event](#checklist-for-attending-a-remote-meeting-or-event)
-    + [Before participating at the conference](#before-participating-at-the-conference)
-    + [During participating at the conference](#during-participating-at-the-conference)
-    + [After participating at the Conference](#after-participating-at-the-conference)      
+    + [Before participating in the meeting](#before-participating-in-the-meeting)
+    + [During participating in the meeting](#during-participating-in-the-meeting)
+    + [After participating in the meeting](#after-participating-in-the-meeting)
+    + [Bibliography](#bibliography)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Checklist for managing and participating in a distributed team
 
@@ -356,7 +383,7 @@ Provide plenty of breaks, and treat those breaks a virtual coffee sessions.*
 - [ ] Keep this meeting informal and have as many helpers as possible who can help individuals in breakout rooms
 </details>
 
-### Storing and sharing information with the participants (next steps)
+#### Storing and sharing information with the participants (next steps)
 <details>
   <summary>Click to expand</summary>  
 
@@ -402,7 +429,7 @@ Provide plenty of breaks, and treat those breaks a virtual coffee sessions.*
 
 ### During the event
 
-### Kicking off the event
+#### Kicking off the event
 *Checklist for the designated chair of the opening session*
 <details>
   <summary>Click to expand</summary>  
@@ -424,7 +451,7 @@ Provide plenty of breaks, and treat those breaks a virtual coffee sessions.*
 - [ ] Request everyone to keep their camera on whenever possible
 </details>
 
-### Talks and presentations
+#### Talks and presentations
 *Checklist for the chair of the designated talk*
 <details>
   <summary>Click to expand</summary>
@@ -447,7 +474,7 @@ Provide plenty of breaks, and treat those breaks a virtual coffee sessions.*
   - [ ] Ask people to leave some emoji or gifs for the speakers
 </details>
 
-### Short workshop, up-skilling or discussion session
+#### Short workshops, up-skilling or discussion sessions
 *Checklist for the session lead, helpers and note takers of the designated session*
 <details>
   <summary>Click to expand</summary>
@@ -476,7 +503,7 @@ Provide plenty of breaks, and treat those breaks a virtual coffee sessions.*
   - [ ] Ask people to leave some emoji, gifs and testimonial for the workshop
 </details>
 
-### Lightning talks and poster sessions
+#### Lightning talks and poster sessions
 *Checklist for the designated chair of this session*
 <details>
   <summary>Click to expand</summary>
@@ -489,7 +516,7 @@ Provide plenty of breaks, and treat those breaks a virtual coffee sessions.*
 - [ ] Keep the format informal and allow flexibility for participation   
 </details>
 
-### Social events
+#### Social events
 *Checklist for the session lead, helpers and note takers of the designated session*
 <details>
   <summary>Click to expand</summary>
