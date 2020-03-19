@@ -1,4 +1,4 @@
-## Choice of tools and security aspects
+## Establishing functional and fail management and leadership for remote collaboration
 
 <!---Add a few sentences capturing the concepts explained below--->
 

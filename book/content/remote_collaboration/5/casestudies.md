@@ -1,4 +1,4 @@
-## Choice of tools and security aspects
+## Case studies from different remote meetings and events
 
 <!---Add a few sentences capturing the concepts explained below--->
 

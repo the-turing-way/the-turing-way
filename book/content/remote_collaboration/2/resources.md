@@ -1,4 +1,4 @@
-## Choice of tools and security aspects
+## Managing and sharing resources across different stakeholders when collaborating remotely
 
 <!---Add a few sentences capturing the concepts explained below--->
 
