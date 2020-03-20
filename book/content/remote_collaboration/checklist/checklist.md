@@ -18,13 +18,13 @@ The last two checklists are about managing and participating in the distributed 
     + [Storing and sharing information within the organising committee](#storing-and-sharing-information-within-the-organising-committee)
     + [Budget](#budget)
     + [Participation support grants](#participation-support-grants)
-    + [Event's theme, target audience and duration](#event-s-theme--target-audience-and-duration)
-    + [Define timeline, invite applications and set rubrics for session/speaker selection](#define-timeline--invite-applications-and-set-rubrics-for-session-speaker-selection)
+    + [Event theme, target audience and duration](#event-theme--target-audience-and-duration)
+    + [Define timeline, invite applications and set rubrics for selection](#define-timeline--invite-applications-and-set-rubrics-for-selection)
     + [Create a registration form](#create-a-registration-form)
     + [Community suggestion and feedback forms](#community-suggestion-and-feedback-forms)
     + [Program](#program)
     + [Document and tools for participants](#document-and-tools-for-participants)
-    + [Organise a pre-event community call/installation party/set-up test fest/coffee-hours](#organise-a-pre-event-community-call-installation-party-set-up-test-fest-coffee-hours)
+    + [Organise a pre-event community call](#organise-a-pre-event-community-call)
     + [Storing and sharing information with the participants](#storing-and-sharing-information-with-the-participants)
     + [Branding and promotional materials](#branding-and-promotional-materials)
     + [Designated venues for participation](#designated-venues-for-participation)
@@ -278,7 +278,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - [ ] Send decision for participation support grant applicants as soon as possible so that they can decide if they can register to attend the event
 </details>
 
-#### Event's theme, target audience and duration 
+#### Event theme, target audience and duration 
 
 ***Mid-phase***
 <details>
@@ -291,7 +291,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - [ ] Add the exact date, time, location (if any!) and choice of tool that will be used for communication  
 </details>
 
-#### Define timeline, invite applications and set rubrics for session/speaker selection
+#### Define timeline, invite applications and set rubrics for selection
 
 ***Mid-phase***
 <details>
@@ -397,7 +397,8 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] Create slides or presentation that might be needed from organiser's side (welcome, wrap up)
 </details>
 
-#### Organise a pre-event community call/installation party/set-up test fest/coffee-hours
+#### Organise a pre-event community call
+(Often referred by different names such as installation party, coffee-hours or set-up test fest)
 
 ***Later-phase***
 <details>
