@@ -41,15 +41,15 @@ These states happen in order and are exclusive.
 | CHANGELOG.md ([Keep a CHANGELOG](http://keepachangelog.com/))                                               |           |             |   X    |
 | one command install ([pip](https://pypi.python.org/pypi/pip), [npm](https://www.npmjs.com/package/npm) etc) |           |             |   X    |
 | package in package manager ([pypi](https://pypi.python.org/pypi), [npm](https://www.npmjs.com/) etc)        |           |             |   X    |
-| discuss release cycle with coordinator                                                                      |           |      X      |        |
-| release quick-scan by other engineer (is documentation understandable, can it be installed, etc)            |           |             |   X    |
-| notify Lode for dissemination (news item on site / annual report, etc)                                      |           |             |   X    |
+| discuss release cycle with other developers                                                                      |           |      X      |        |
+| release quick-scan by other developers (is documentation understandable, can it be installed, etc)            |           |             |   X    |
+| do dissemination (i.e. news item on site)                                      |           |             |   X    |
 
 ## Licensing
 
 | Item / Phase                                                                    | Prototype | Pre-release | Mature |
 |:--------------------------------------------------------------------------------|:---------:|:-----------:|:------:|
-| [Apache 2 license](http://www.apache.org/licenses/LICENSE-2.0)                  |     X     |             |        |
+| A permissive license                  |     X     |             |        |
 | compatible license of all libraries                                             |     X     |             |        |
 | `NOTICE(.txt or .md)` listing licenses, request citation of paper if applicable |     X     |             |        |
 
@@ -69,7 +69,7 @@ These states happen in order and are exclusive.
 |:---------------------------------------------------------------------------------------------------------------------------|:---------:|:-----------:|:------:|
 | [unit tests](https://en.wikipedia.org/wiki/Unit_testing)                                                                   |           |      X      |        |
 | build tests                                                                                                                |           |      X      |        |
-| [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration), public on [Travis](https://travis-ci.org/) |           |      X      |        |
+| [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) |           |      X      |        |
 | continuous code coverage and code quality metrics public, minimum 70% coverage required                                    |           |             |   X    |
 | end2end test for (web) user interfaces                                                                                     |           |             |   X    |
 | track dependencies (with [David](https://david-dm.org/) or other service depending on codebase language)                   |           |             |   X    |
