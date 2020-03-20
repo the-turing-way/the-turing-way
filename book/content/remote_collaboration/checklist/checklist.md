@@ -4,52 +4,48 @@ The last two checklists are about managing and participating in the distributed 
 
 # Table of content
 
-- [Table of content](#table-of-content)
-  * [Checklist for managing and participating in a distributed team](#checklist-for-managing-and-participating-in-a-distributed-team)
-  * [Checklist for organising a remote meeting](#checklist-for-organising-a-remote-meeting)
-      - [Designated venues to participate from](#designated-venues-to-participate-from)
-    + [During the meeting](#during-the-meeting)
-      - [Breakout rooms](#breakout-rooms)
-    + [After the meeting](#after-the-meeting)
-  * [Checklist for running a longer event such as a conference or sprint](#checklist-for-running-a-longer-event-such-as-a-conference-or-sprint)
-    + [Before the event](#before-the-event)
-      - [Organising committee for the event (preplanning)](#organising-committee-for-the-event--preplanning-)
-      - [Website for the event (preplanning)](#website-for-the-event--preplanning-)
-      - [Community participation and accessibility (all phases of organisation)](#community-participation-and-accessibility--all-phases-of-organisation-)
-      - [Communication channel (all phases of organisation)](#communication-channel--all-phases-of-organisation-)
-      - [Storing and sharing information within the organising committee (all phases of organisation)](#storing-and-sharing-information-within-the-organising-committee--all-phases-of-organisation-)
-      - [Budget (immediate steps)](#budget--immediate-steps-)
-      - [Participation support grants (immediate steps)](#participation-support-grants--immediate-steps-)
-      - [Event's theme, target audience and duration (immediate steps)](#event-s-theme--target-audience-and-duration--immediate-steps-)
-      - [Defining timeline, invite applications and set rubrics for session/speaker selection (immediate steps)](#defining-timeline--invite-applications-and-set-rubrics-for-session-speaker-selection--immediate-steps-)
-      - [Create a registration form (immediate steps)](#create-a-registration-form--immediate-steps-)
-      - [Community suggestion and feedback forms (immediate steps)](#community-suggestion-and-feedback-forms--immediate-steps-)
-      - [Program (next steps)](#program--next-steps-)
-      - [Document and tools for participants (next steps)](#document-and-tools-for-participants--next-steps-)
-      - [Organise a pre-event set-up community call/party/fest/coffee-hour (next steps)](#organise-a-pre-event-set-up-community-call-party-fest-coffee-hour--next-steps-)
-      - [Storing and sharing information with the participants (next steps)](#storing-and-sharing-information-with-the-participants--next-steps-)
-      - [Branding and promotional materials (all phases of organisation)](#branding-and-promotional-materials--all-phases-of-organisation-)
-      - [Designated venues to participate from](#designated-venues-to-participate-from-1)
-    + [During the event](#during-the-event)
-      - [Kicking off the event](#kicking-off-the-event)
-      - [Talks and presentations](#talks-and-presentations)
-      - [Short workshops, up-skilling or discussion sessions](#short-workshop--up-skilling-or-discussion-session)
-      - [Lightning talks](#lightning-talks)
-      - [Poster sessions](#poster-sessions)
-      - [Social events](#social-events)
-      - [Handling breakout rooms](#handling-breakout-rooms)
-    + [After the event](#after-the-event)
-  * [Checklist for attending a remote meetings or events](#checklist-for-attending-a-remote-meeting-or-event)
-    + [Before participating in the meeting](#before-participating-in-the-meeting)
-    + [During participating in the meeting](#during-participating-in-the-meeting)
-    + [After participating in the meeting](#after-participating-in-the-meeting)
-  * [Checklist for managing a distributed team](#checklist-for-managing-a-distributed-team)
-  * [Checklist for participating in a distributed team](#checklist-for-participating-in-a-distributed-team)
-
-    + [Bibliography](#bibliography)
+- [Checklist for organising a remote meeting](#checklist-for-organising-a-remote-meeting)
+    + [Designated venues to participate from](#designated-venues-to-participate-from)
+  * [During the meeting](#during-the-meeting)
+    + [Breakout rooms](#breakout-rooms)
+  * [After the meeting](#after-the-meeting)
+- [Checklist for running a longer event such as a conference or sprint](#checklist-for-running-a-longer-event-such-as-a-conference-or-sprint)
+  * [Before the event](#before-the-event)
+    + [The organising committee for the event (preplanning)](#the-organising-committee-for-the-event--preplanning-)
+    + [Website for the event (preplanning)](#website-for-the-event--preplanning-)
+    + [Community participation and accessibility (all phases of the organisation)](#community-participation-and-accessibility--all-phases-of-the-organisation-)
+    + [Communication channel (all phases of the organisation)](#communication-channel--all-phases-of-the-organisation-)
+    + [Storing and sharing information within the organising committee (all phases of the organisation)](#storing-and-sharing-information-within-the-organising-committee--all-phases-of-the-organisation-)
+    + [Budget (immediate steps)](#budget--immediate-steps-)
+    + [Participation support grants (immediate steps)](#participation-support-grants--immediate-steps-)
+    + [Event's theme, target audience and duration (immediate steps)](#event-s-theme--target-audience-and-duration--immediate-steps-)
+    + [Define timeline, invite applications and set rubrics for session/speaker selection (immediate steps)](#define-timeline--invite-applications-and-set-rubrics-for-session-speaker-selection--immediate-steps-)
+    + [Create a registration form (immediate steps)](#create-a-registration-form--immediate-steps-)
+    + [Community suggestion and feedback forms (immediate steps)](#community-suggestion-and-feedback-forms--immediate-steps-)
+    + [Program (next steps)](#program--next-steps-)
+    + [Document and tools for participants (next steps)](#document-and-tools-for-participants--next-steps-)
+    + [Organise a pre-event community call/installation party/set-up test fest/coffee-hours (next steps)](#organise-a-pre-event-community-call-installation-party-set-up-test-fest-coffee-hours--next-steps-)
+    + [Storing and sharing information with the participants (next steps)](#storing-and-sharing-information-with-the-participants--next-steps-)
+    + [Branding and promotional materials (all phases of the organisation)](#branding-and-promotional-materials--all-phases-of-the-organisation-)
+    + [Designated venues for participation](#designated-venues-for-participation)
+  * [During the event](#during-the-event)
+    + [Kicking off the event](#kicking-off-the-event)
+    + [Talks and presentations](#talks-and-presentations)
+    + [Short workshops, up-skilling or discussion sessions](#short-workshops--up-skilling-or-discussion-sessions)
+    + [Lightning talks](#lightning-talks)
+    + [Poster sessions](#poster-sessions)
+    + [Social events](#social-events)
+    + [Handling breakout rooms](#handling-breakout-rooms)
+  * [After the event](#after-the-event)
+- [Checklist for attending a remote meeting or event](#checklist-for-attending-a-remote-meeting-or-event)
+  * [Before participating in the meeting](#before-participating-in-the-meeting)
+  * [During participating in the meeting](#during-participating-in-the-meeting)
+  * [After participating in the meeting](#after-participating-in-the-meeting)
+- [Checklist for managing and participating in a distributed team](#checklist-for-managing-and-participating-in-a-distributed-team)
+- [Checklist for participating in a distributed team](#checklist-for-participating-in-a-distributed-team)
+  * [Bibliography](#bibliography)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## Checklist for organising a remote meeting
 
@@ -411,7 +407,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] Design online posters and flyers to share with your community members who can help you promote the event in their networks
 </details>
 
-#### Designated venues to participate from
+#### Designated venues for participation
 *If there are physical office locations, or co-working spaces accessible for most members*
 
 <details>
