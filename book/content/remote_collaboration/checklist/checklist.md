@@ -11,22 +11,22 @@ The last two checklists are about managing and participating in the distributed 
   * [After the meeting](#after-the-meeting)
 - [Checklist for running a longer event such as a conference or sprint](#checklist-for-running-a-longer-event-such-as-a-conference-or-sprint)
   * [Before the event](#before-the-event)
-    + [The organising committee for the event (preplanning)](#the-organising-committee-for-the-event--preplanning-)
-    + [Website for the event (preplanning)](#website-for-the-event--preplanning-)
-    + [Community participation and accessibility (all phases of the organisation)](#community-participation-and-accessibility--all-phases-of-the-organisation-)
-    + [Communication channel (all phases of the organisation)](#communication-channel--all-phases-of-the-organisation-)
-    + [Storing and sharing information within the organising committee (all phases of the organisation)](#storing-and-sharing-information-within-the-organising-committee--all-phases-of-the-organisation-)
-    + [Budget (immediate steps)](#budget--immediate-steps-)
-    + [Participation support grants (immediate steps)](#participation-support-grants--immediate-steps-)
-    + [Event's theme, target audience and duration (immediate steps)](#event-s-theme--target-audience-and-duration--immediate-steps-)
-    + [Define timeline, invite applications and set rubrics for session/speaker selection (immediate steps)](#define-timeline--invite-applications-and-set-rubrics-for-session-speaker-selection--immediate-steps-)
-    + [Create a registration form (immediate steps)](#create-a-registration-form--immediate-steps-)
-    + [Community suggestion and feedback forms (immediate steps)](#community-suggestion-and-feedback-forms--immediate-steps-)
-    + [Program (next steps)](#program--next-steps-)
-    + [Document and tools for participants (next steps)](#document-and-tools-for-participants--next-steps-)
-    + [Organise a pre-event community call/installation party/set-up test fest/coffee-hours (next steps)](#organise-a-pre-event-community-call-installation-party-set-up-test-fest-coffee-hours--next-steps-)
-    + [Storing and sharing information with the participants (next steps)](#storing-and-sharing-information-with-the-participants--next-steps-)
-    + [Branding and promotional materials (all phases of the organisation)](#branding-and-promotional-materials--all-phases-of-the-organisation-)
+    + [The organising committee for the event](#the-organising-committee-for-the-event)
+    + [Website for the event](#website-for-the-event)
+    + [Community participation and accessibility](#community-participation-and-accessibility)
+    + [Communication channel](#communication-channel)
+    + [Storing and sharing information within the organising committee](#storing-and-sharing-information-within-the-organising-committee)
+    + [Budget](#budget)
+    + [Participation support grants](#participation-support-grants)
+    + [Event's theme, target audience and duration](#event-s-theme--target-audience-and-duration)
+    + [Define timeline, invite applications and set rubrics for session/speaker selection](#define-timeline--invite-applications-and-set-rubrics-for-session-speaker-selection)
+    + [Create a registration form](#create-a-registration-form)
+    + [Community suggestion and feedback forms](#community-suggestion-and-feedback-forms)
+    + [Program](#program)
+    + [Document and tools for participants](#document-and-tools-for-participants)
+    + [Organise a pre-event community call/installation party/set-up test fest/coffee-hours](#organise-a-pre-event-community-call-installation-party-set-up-test-fest-coffee-hours)
+    + [Storing and sharing information with the participants](#storing-and-sharing-information-with-the-participants)
+    + [Branding and promotional materials](#branding-and-promotional-materials)
     + [Designated venues for participation](#designated-venues-for-participation)
   * [During the event](#during-the-event)
     + [Kicking off the event](#kicking-off-the-event)
@@ -46,6 +46,7 @@ The last two checklists are about managing and participating in the distributed 
   * [Bibliography](#bibliography)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Checklist for organising a remote meeting
 
@@ -159,10 +160,12 @@ The last two checklists are about managing and participating in the distributed 
 
 ### Before the event
 
-The different subsections are marked as "preplanning", "immediate steps", and "next steps" (after immediate planning), based on their importance at the different phases of organisation.
-A few subsections are marked as "all phases of the organisation", as those aspects should be taken care of in all stages of event organisation.
+The different subsections are marked as "Earlier-phase", "Mid-phase", and "Later-phase", based on their importance at the different phases of organisation.
+A few subsections are marked as "Relevant for all phases", as those aspects should be taken care of in all stages of event organisation.
 
-#### The organising committee for the event (preplanning)
+#### The organising committee for the event 
+
+***Earlier-phase***
 <details>
   <summary>Click to expand</summary>  
 
@@ -174,7 +177,10 @@ A few subsections are marked as "all phases of the organisation", as those aspec
 - [ ] Have a common place for documentation and interaction channels to keep communication transparent
 </details>
 
-#### Website for the event (preplanning)
+#### Website for the event 
+
+***Earlier-phase***
+
 *If possible, create a subcommittee dedicated for designing the website and maintaining online communication*
 <details>
   <summary>Click to expand</summary>  
@@ -192,7 +198,9 @@ A few subsections are marked as "all phases of the organisation", as those aspec
   - [ ] Registration details and deadline (if already available)  
 </details>
 
-#### Community participation and accessibility (all phases of the organisation)
+#### Community participation and accessibility
+
+***Relevant for all phases***
 <details>
   <summary>Click to expand</summary>  
 
@@ -209,7 +217,9 @@ A few subsections are marked as "all phases of the organisation", as those aspec
   - [ ] Clearly state what are the size limits for the groups that join remotely (or if individual participation is preferred even when joining from the same location)
 </details>
 
-#### Communication channel (all phases of the organisation)
+#### Communication channel
+
+***Relevant for all phases***
 <details>
   <summary>Click to expand</summary>  
 
@@ -224,7 +234,9 @@ A few subsections are marked as "all phases of the organisation", as those aspec
   - [ ] Assign 1-2 volunteers or committee members who can handle social media in agreement with the committee
 </details>
 
-#### Storing and sharing information within the organising committee (all phases of the organisation)
+#### Storing and sharing information within the organising committee
+
+***Relevant for all phases***
 <details>
   <summary>Click to expand</summary>  
 
@@ -234,7 +246,9 @@ A few subsections are marked as "all phases of the organisation", as those aspec
 - [ ] Create a single page summary for the organisers listing the available resources with their links
 </details>
 
-#### Budget (immediate steps)
+#### Budget
+
+***Mid-phase***
 <details>
   <summary>Click to expand</summary>
 
@@ -246,7 +260,9 @@ A few subsections are marked as "all phases of the organisation", as those aspec
 - [ ] Calculate how much should be the registration fee if no sponsorship is gained
 </details>
 
-#### Participation support grants (immediate steps)
+#### Participation support grants
+
+***Mid-phase***
 <details>
   <summary>Click to expand</summary>
 - [ ] Allocate part of your budget for the participation support grant that can be requested by the applicants for the following support
@@ -262,7 +278,9 @@ A few subsections are marked as "all phases of the organisation", as those aspec
 - [ ] Send decision for participation support grant applicants as soon as possible so that they can decide if they can register to attend the event
 </details>
 
-#### Event's theme, target audience and duration (immediate steps)
+#### Event's theme, target audience and duration 
+
+***Mid-phase***
 <details>
   <summary>Click to expand</summary>  
 
@@ -273,7 +291,9 @@ A few subsections are marked as "all phases of the organisation", as those aspec
 - [ ] Add the exact date, time, location (if any!) and choice of tool that will be used for communication  
 </details>
 
-#### Define timeline, invite applications and set rubrics for session/speaker selection (immediate steps)
+#### Define timeline, invite applications and set rubrics for session/speaker selection
+
+***Mid-phase***
 <details>
   <summary>Click to expand</summary>  
 *Establish a timeline for organising and planning the conference and share on the website*
@@ -288,7 +308,9 @@ A few subsections are marked as "all phases of the organisation", as those aspec
 - [ ] Invite abstracts for talks and sessions and share rubrics for selection
 </details>
 
-#### Create a registration form (immediate steps)
+#### Create a registration form
+
+***Mid-phase***
 <details>
   <summary>Click to expand</summary>
 
@@ -305,7 +327,9 @@ A few subsections are marked as "all phases of the organisation", as those aspec
 
 </details>
 
-#### Community suggestion and feedback forms (immediate steps)
+#### Community suggestion and feedback forms
+
+***Mid-phase***
 *Choose a standard platform to manage all your forms, for example, [Surveymonkey](https://www.surveymonkey.com/) or [Google forms](https://www.google.com/forms/about/), with a statement on how do you ensure the security of the data collected*
 <details>
   <summary>Click to expand</summary>  
@@ -322,7 +346,10 @@ A few subsections are marked as "all phases of the organisation", as those aspec
 - [ ] Feedback form for the chairs, helpers, speakers and note-takers (can be created in the later stage before the event)
 </details>
 
-#### Program (next steps)
+#### Program
+
+***Later-phase***
+
 *Agree as a committee, what the rough agenda for the event's program will be. Create slots for keynotes, breakout discussions, workshops, poster and lightning talk session.
 Provide designated time slots for social events in the main program.
 Make sure that after each talk/session there is 5 minutes break to allow people to log in to the right online call link, switch rooms, ask a logistics-related question.
@@ -352,7 +379,9 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
  - [ ] Save all the shared document in the same location (or create a common location with their link) so all the participants can browse them during and after the event
 </details>
 
-#### Document and tools for participants (next steps)
+#### Document and tools for participants
+
+***Later-phase***
 <details>
   <summary>Click to expand</summary>  
 
@@ -368,7 +397,9 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] Create slides or presentation that might be needed from organiser's side (welcome, wrap up)
 </details>
 
-#### Organise a pre-event community call/installation party/set-up test fest/coffee-hours (next steps)
+#### Organise a pre-event community call/installation party/set-up test fest/coffee-hours
+
+***Later-phase***
 <details>
   <summary>Click to expand</summary>
 
@@ -381,7 +412,9 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] Keep this meeting informal and have as many helpers as possible who can help individuals in breakout rooms
 </details>
 
-#### Storing and sharing information with the participants (next steps)
+#### Storing and sharing information with the participants
+
+***Later-phase***
 <details>
   <summary>Click to expand</summary>  
 
@@ -393,8 +426,9 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] Send out short emails with updates and reminders that point the participants to these Resources (as people tend to look for all the information right before the event)
 </details>
 
-#### Branding and promotional materials (all phases of the organisation)
+#### Branding and promotional materials
 
+***Relevant for all phases***
 <details>
   <summary>Click to expand</summary>  
 
@@ -408,8 +442,8 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 </details>
 
 #### Designated venues for participation
-*If there are physical office locations, or co-working spaces accessible for most members*
 
+*If there are physical office locations, or co-working spaces accessible for most members*
 <details>
   <summary>Click to expand</summary>  
 - [ ] Reserve conference room(s) (or similar venues) with high speed internet
@@ -428,6 +462,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 ### During the event
 
 #### Kicking off the event
+
 *Checklist for the designated chair of the opening session*
 <details>
   <summary>Click to expand</summary>  
@@ -450,6 +485,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 </details>
 
 #### Talks and presentations
+
 *Checklist for the chair of the designated talk*
 <details>
   <summary>Click to expand</summary>
@@ -473,6 +509,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 </details>
 
 #### Short workshops, up-skilling or discussion sessions
+
 *Checklist for the session lead, helpers and note-takers of the designated session*
 <details>
   <summary>Click to expand</summary>
@@ -502,6 +539,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 </details>
 
 #### Lightning talks
+
 *Checklist for the designated chair of these sessions*
 <details>
   <summary>Click to expand</summary>
@@ -517,6 +555,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 </details>
 
 #### Poster sessions
+
 *Checklist for the designated chair of these sessions*
 <details>
   <summary>Click to expand</summary>
@@ -535,6 +574,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 </details>
 
 #### Social events
+
 *Checklist for the session lead, helpers and note-takers of the designated session*
 <details>
   <summary>Click to expand</summary>
@@ -550,6 +590,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 </details>  
 
 #### Handling breakout rooms
+
 *If using breakout rooms in Zoom (or similar tool), make sure that the organiser helps you create Groups*
 <details>
   <summary>Click to expand</summary>
@@ -578,6 +619,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 </details>
 
 ## Checklist for attending a remote meeting or event
+
 *HELP WANTED*
 
 ### Before participating in the meeting
