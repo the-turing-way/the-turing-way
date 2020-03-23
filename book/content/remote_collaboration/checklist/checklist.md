@@ -42,8 +42,10 @@ The last two checklists are about managing and participating in the distributed 
   * [During participating in the meeting](#during-participating-in-the-meeting)
   * [After participating in the meeting](#after-participating-in-the-meeting)
 - [Checklist for managing and participating in a distributed team](#checklist-for-managing-and-participating-in-a-distributed-team)
-- [Checklist for participating in a distributed team](#checklist-for-participating-in-a-distributed-team)
-  * [Bibliography](#bibliography)
+  * [Tips for all the members](#tips-for-all-the-members)
+  * [Specific tips for the managers](#specific-tips-for-the-managers)
+  * [Specific tips for the team members](#specific-tips-for-the-team-members)
+- [Bibliography](#bibliography)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -712,19 +714,28 @@ This checklist also aims to help participants support the event organisers by be
 
 ## Checklist for managing and participating in a distributed team
 *HELP WANTED*
+
+### Tips for all the members
 <details>
   <summary>Click to expand</summary>
 
 </details>
 
-## Checklist for participating in a distributed team
-*HELP WANTED*
+### Specific tips for the managers
 <details>
   <summary>Click to expand</summary>
 
 </details>
 
-### Bibliography
+### Specific tips for the team members
+<details>
+  <summary>Click to expand</summary>
+
+</details>
+
+</details>
+
+## Bibliography
 
 - The *Checklist for running a meeting* is a summarised version of the [Gallantries (Galaxy+The Carpentries handbook)](https://galaxy-carpentries.github.io/gallantries/handbook) which is an expanded version of [The Carpentries workshop checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html)
 - The *Checklist for running a longer event such as a conference or sprint* is a summarised version of the debrief document written by the [chairs of the 1st CarpentryCon conference](https://2018.carpentrycon.org/) organisation committee.
