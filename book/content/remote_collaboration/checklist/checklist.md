@@ -18,8 +18,8 @@ The last two checklists are about managing and participating in the distributed 
     + [Storing and sharing information within the organising committee](#storing-and-sharing-information-within-the-organising-committee)
     + [Budget](#budget)
     + [Participation support grants](#participation-support-grants)
-    + [Event theme, target audience and duration](#event-theme--target-audience-and-duration)
-    + [Define timeline, invite applications and set rubrics for selection](#define-timeline--invite-applications-and-set-rubrics-for-selection)
+    + [Event theme and duration](#event-theme-and-duration)
+    + [Define timeline and invite applications](#define-timeline-and-invite-applications)
     + [Create a registration form](#create-a-registration-form)
     + [Community suggestion and feedback forms](#community-suggestion-and-feedback-forms)
     + [Program](#program)
@@ -278,7 +278,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - [ ] Send decision for participation support grant applicants as soon as possible so that they can decide if they can register to attend the event
 </details>
 
-#### Event theme, target audience and duration 
+#### Event theme and duration 
 
 ***Mid-phase***
 <details>
@@ -291,7 +291,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - [ ] Add the exact date, time, location (if any!) and choice of tool that will be used for communication  
 </details>
 
-#### Define timeline, invite applications and set rubrics for selection
+#### Define timeline and invite applications
 
 ***Mid-phase***
 <details>
@@ -382,7 +382,9 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
   - [ ] Save all the shared document in one location (or create a common location with their link) so all the participants can browse them during and after the event
 </details>
 
-#### Documents and tools for participants (next steps)
+#### Documents and tools for participants
+
+
 <details>
   <summary>Click to expand</summary>  
 
@@ -399,7 +401,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 #### Document and tools for participants
 
-***Later-phase***
+***Relevant for all phases***
 <details>
   <summary>Click to expand</summary>  
 
@@ -416,7 +418,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 </details>
 
 #### Organise a pre-event community call
-(Often referred by different names such as installation party, coffee-hours or set-up test fest)
+*Often referred by different names such as installation party, coffee-hours or set-up test fest*
 
 ***Later-phase***
 <details>
@@ -653,6 +655,8 @@ This checklist also aims to help participants support the event organisers by be
 - [ ] Check if there is any other information you need to supply as a participant, like adding or approving agenda items, filling a pre-event survey, signing up for different sessions of a longer event. 
 - [ ] Install software required for you to join the meeting online.
 - [ ] Test your microphone, webcam, internet bandwidth and compatibility of the software used for the online meeting with your system minimum 2 days before the meeting.
+- [ ] Check if the event offers any support that you can use for your participation and you are eligible to apply, such as the participation support grant.
+  - [ ] If the event doesn't offer any support, check if you can seek this support from other resources, for example, as offered by the [Open Bioinformatics Foundation](https://www.open-bio.org/travel-awards/) and [Software Sustainability Institute](https://software.ac.uk/programmes-and-events/fellowship-programme).
 - [ ] Reach out to the organisers if you need any help with installation, or join one of their pre-event setup call.
 - [ ] Ask for the protocols and agenda for the meeting if not supplied already.
 - [ ] Familiarise yourself with the participation guideline and Code of Conduct supplied by the conference organisers.
