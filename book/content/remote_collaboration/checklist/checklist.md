@@ -4,49 +4,46 @@ The last two checklists are about managing and participating in the distributed 
 
 # Table of content
 
-- [Table of content](#table-of-content)
-  * [Checklist for managing and participating in a distributed team](#checklist-for-managing-and-participating-in-a-distributed-team)
-  * [Checklist for organising a remote meeting](#checklist-for-organising-a-remote-meeting)
-      - [Designated venues to participate from](#designated-venues-to-participate-from)
-    + [During the meeting](#during-the-meeting)
-      - [Breakout rooms](#breakout-rooms)
-    + [After the meeting](#after-the-meeting)
-  * [Checklist for running a longer event such as a conference or sprint](#checklist-for-running-a-longer-event-such-as-a-conference-or-sprint)
-    + [Before the event](#before-the-event)
-      - [Organising committee for the event (preplanning)](#organising-committee-for-the-event--preplanning-)
-      - [Website for the event (preplanning)](#website-for-the-event--preplanning-)
-      - [Community participation and accessibility (all phases of organisation)](#community-participation-and-accessibility--all-phases-of-organisation-)
-      - [Communication channel (all phases of organisation)](#communication-channel--all-phases-of-organisation-)
-      - [Storing and sharing information within the organising committee (all phases of organisation)](#storing-and-sharing-information-within-the-organising-committee--all-phases-of-organisation-)
-      - [Budget (immediate steps)](#budget--immediate-steps-)
-      - [Participation support grants (immediate steps)](#participation-support-grants--immediate-steps-)
-      - [Event's theme, target audience and duration (immediate steps)](#event-s-theme--target-audience-and-duration--immediate-steps-)
-      - [Defining timeline, invite applications and set rubrics for session/speaker selection (immediate steps)](#defining-timeline--invite-applications-and-set-rubrics-for-session-speaker-selection--immediate-steps-)
-      - [Create a registration form (immediate steps)](#create-a-registration-form--immediate-steps-)
-      - [Community suggestion and feedback forms (immediate steps)](#community-suggestion-and-feedback-forms--immediate-steps-)
-      - [Program (next steps)](#program--next-steps-)
-      - [Document and tools for participants (next steps)](#document-and-tools-for-participants--next-steps-)
-      - [Organise a pre-event set-up community call/party/fest/coffee-hour (next steps)](#organise-a-pre-event-set-up-community-call-party-fest-coffee-hour--next-steps-)
-      - [Storing and sharing information with the participants (next steps)](#storing-and-sharing-information-with-the-participants--next-steps-)
-      - [Branding and promotional materials (all phases of organisation)](#branding-and-promotional-materials--all-phases-of-organisation-)
-      - [Designated venues to participate from](#designated-venues-to-participate-from-1)
-    + [During the event](#during-the-event)
-      - [Kicking off the event](#kicking-off-the-event)
-      - [Talks and presentations](#talks-and-presentations)
-      - [Short workshops, up-skilling or discussion sessions](#short-workshop--up-skilling-or-discussion-session)
-      - [Lightning talks](#lightning-talks)
-      - [Poster sessions](#poster-sessions)
-      - [Social events](#social-events)
-      - [Handling breakout rooms](#handling-breakout-rooms)
-    + [After the event](#after-the-event)
-  * [Checklist for attending a remote meetings or events](#checklist-for-attending-a-remote-meeting-or-event)
-    + [Before participating in the meeting](#before-participating-in-the-meeting)
-    + [During participating in the meeting](#during-participating-in-the-meeting)
-    + [After participating in the meeting](#after-participating-in-the-meeting)
-  * [Checklist for managing a distributed team](#checklist-for-managing-a-distributed-team)
-  * [Checklist for participating in a distributed team](#checklist-for-participating-in-a-distributed-team)
-
-    + [Bibliography](#bibliography)
+- [Checklist for organising a remote meeting](#checklist-for-organising-a-remote-meeting)
+    + [Designated venues to participate from](#designated-venues-to-participate-from)
+  * [During the meeting](#during-the-meeting)
+    + [Breakout rooms](#breakout-rooms)
+  * [After the meeting](#after-the-meeting)
+- [Checklist for running a longer event such as a conference or sprint](#checklist-for-running-a-longer-event-such-as-a-conference-or-sprint)
+  * [Before the event](#before-the-event)
+    + [The organising committee for the event](#the-organising-committee-for-the-event)
+    + [Website for the event](#website-for-the-event)
+    + [Community participation and accessibility](#community-participation-and-accessibility)
+    + [Communication channel](#communication-channel)
+    + [Storing and sharing information within the organising committee](#storing-and-sharing-information-within-the-organising-committee)
+    + [Budget](#budget)
+    + [Participation support grants](#participation-support-grants)
+    + [Event theme, target audience and duration](#event-theme--target-audience-and-duration)
+    + [Define timeline, invite applications and set rubrics for selection](#define-timeline--invite-applications-and-set-rubrics-for-selection)
+    + [Create a registration form](#create-a-registration-form)
+    + [Community suggestion and feedback forms](#community-suggestion-and-feedback-forms)
+    + [Program](#program)
+    + [Document and tools for participants](#document-and-tools-for-participants)
+    + [Organise a pre-event community call](#organise-a-pre-event-community-call)
+    + [Storing and sharing information with the participants](#storing-and-sharing-information-with-the-participants)
+    + [Branding and promotional materials](#branding-and-promotional-materials)
+    + [Designated venues for participation](#designated-venues-for-participation)
+  * [During the event](#during-the-event)
+    + [Kicking off the event](#kicking-off-the-event)
+    + [Talks and presentations](#talks-and-presentations)
+    + [Short workshops, up-skilling or discussion sessions](#short-workshops--up-skilling-or-discussion-sessions)
+    + [Lightning talks](#lightning-talks)
+    + [Poster sessions](#poster-sessions)
+    + [Social events](#social-events)
+    + [Handling breakout rooms](#handling-breakout-rooms)
+  * [After the event](#after-the-event)
+- [Checklist for attending a remote meeting or event](#checklist-for-attending-a-remote-meeting-or-event)
+  * [Before participating in the meeting](#before-participating-in-the-meeting)
+  * [During participating in the meeting](#during-participating-in-the-meeting)
+  * [After participating in the meeting](#after-participating-in-the-meeting)
+- [Checklist for managing and participating in a distributed team](#checklist-for-managing-and-participating-in-a-distributed-team)
+- [Checklist for participating in a distributed team](#checklist-for-participating-in-a-distributed-team)
+  * [Bibliography](#bibliography)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -57,16 +54,16 @@ The last two checklists are about managing and participating in the distributed 
   <summary>Click to expand</summary>
 
 - [ ] Identify a most suitable slot that is time zone compatible for all the members
-  - [ ] Use a standard time with link to different time zones when communicating
-- [ ] Identify a chair and note taker for the meeting
-  - [ ] Sharing guidelines and protocols for chairing and note taking
-- [ ] Decide if there will be any designated speaker with presentation
+  - [ ] Use a standard time with a link (like [arewemeetingyet](https://arewemeetingyet.com/)) to different time zones when communicating
+- [ ] Identify a chair and note-taker for the meeting
+  - [ ] Sharing guidelines and protocols for chairing and note-taking
+- [ ] Decide if there will be designated speakers with presentations
   - [ ] Share speaker's guidelines and protocols with them
-- [ ] Establish a shared document that can be updated online for agenda and note taking
+- [ ] Establish a shared document that can be updated online for agenda and note-taking
   - [ ] Create a template for this meeting (that can also be used for future meetings)
 - [ ] Add the exact date, time, location (if any!) and choice of tool that will be used for communication
   - [ ] Use an open source tool to avoid inaccessibility
-  - [ ] If using a tool that is available only upon subscription, make sure that all the members have the access info
+  - [ ] If using a tool that is available only upon subscription, make sure that all the members have the access information
   - [ ] Share a how-to guide to ensure that everyone knows how to use the tool
   - [ ] If possible, offer help with installation and testing of the tool
 - [ ] Distribute the shared document a few days before the meeting
@@ -111,9 +108,9 @@ The last two checklists are about managing and participating in the distributed 
   - [ ] Raise hand - on chat, or virtually (like in Zoom) or physically
   - [ ] Other ways to involve others in the discussion equitably
 - [ ] Start the meeting with an icebreaker question
-  - [ ] Create opportunity for everyone to share something personal (about their hobby, or experiences) on the document or verbally    
+  - [ ] Create opportunities for everyone to share something personal (about their hobby, or experiences) on the document or verbally    
 - [ ] Ensure that the discussion is inclusive of everyone
-- [ ] Indicate if the speakers should speed up or slow down, or if there is a technical issue that speaker should check
+- [ ] Indicate if the speakers should speed up or slow down, or if there is a technical issue that the speakers should check
 - [ ] Facilitate questions and answer or discussion on the agenda points
 - [ ] Help answer procedural questions like “where is this button that I should click”
 - [ ] Direct technical questions to the organiser when needed
@@ -136,8 +133,8 @@ The last two checklists are about managing and participating in the distributed 
 <details>
   <summary>Click to expand</summary>
 
-- [ ] Create groups that are more diverse (they will have better discussion)
-- [ ] Remind everyone to give others fair chance to speak
+- [ ] Create groups that are more diverse (they will have better discussions)
+- [ ] Remind everyone to give others a fair chance to speak
 - [ ] Ask them to write notes from their discussion in the shared document
 - [ ] Send message periodically reminding everyone of how much time for discussion is left
   - [ ] Reminding them to move on to next person if only one person has spoken so far in their group
@@ -149,8 +146,8 @@ The last two checklists are about managing and participating in the distributed 
 <details>
   <summary>Click to expand</summary>
 
-- [ ] Create a debrief of what went well and what could be improved
-  - [ ] This can also be requested from the participants
+- [ ] Create a debrief document to capture what went well and what could be improved
+  - [ ] This can also be requested from the participants by circulating a feedback form
 - [ ] Request any additional document or information mentioned by others/speakers during the meeting
 - [ ] If the meeting call was recorded, process and share the recorded video with everyone
 - [ ] Send thank you email with the link to the complete notes and other relevant information
@@ -163,10 +160,12 @@ The last two checklists are about managing and participating in the distributed 
 
 ### Before the event
 
-The different subsections are marked as "preplanning", "immediate steps", and "next steps" (after immediate planning), based on their importance at the different phases of organisation.
-A few subsections are marked as "all phases of organisation", as those aspects should be taken care of in all stages of event organisation.
+The different subsections are marked as "Earlier-phase", "Mid-phase", and "Later-phase", based on their importance at the different phases of organisation.
+A few subsections are marked as "Relevant for all phases", as those aspects should be taken care of in all stages of event organisation.
 
-#### Organising committee for the event (preplanning)
+#### The organising committee for the event 
+
+***Earlier-phase***
 <details>
   <summary>Click to expand</summary>  
 
@@ -179,7 +178,9 @@ A few subsections are marked as "all phases of organisation", as those aspects s
 </details>
 
 #### Website for the event (preplanning)
-*If possible, create a subcommittee dedicated to website and online communication*
+
+***Earlier-phase***
+*If possible, create a subcommittee dedicated for designing the website and maintaining online communication*
 <details>
   <summary>Click to expand</summary>  
 
@@ -196,24 +197,28 @@ A few subsections are marked as "all phases of organisation", as those aspects s
   - [ ] Registration details and deadline (if already available)  
 </details>
 
-#### Community participation and accessibility (all phases of organisation)
+#### Community participation and accessibility
+
+***Relevant for all phases***
 <details>
   <summary>Click to expand</summary>  
 
 - [ ] Choose a Code of Conduct that captures your events' values
 - [ ] Describe your community participation guidelines
-- [ ] Create possibility for people to ask for support to attend your event
+- [ ] Create possibilities for people to ask for support to attend your event
 - [ ] Create a reporting guideline for any question, concern or breach of Code of Conduct
-- [ ] Describe how you intend to create an inclusive event, for example will there be a sign language interpreter or live transcription
+- [ ] Describe how you intend to create an inclusive event, for example, will there be a sign language interpreter or live transcription
 - [ ] Create one single location for all the information (like A to Z files) regarding the events
-- [ ] Host a few community calls in different stages of planning to involve audience into the planning process
+- [ ] Host a few community calls in different stages of planning to involve the audience into the planning process
 - [ ] Invite volunteers who can help you troubleshoot some specific issues
 - [ ] Allow flexibility for the participants to join the call from anywhere
   - [ ] Clearly communicate if the event can be attended with pets or children, when attending from home
   - [ ] Clearly state what are the size limits for the groups that join remotely (or if individual participation is preferred even when joining from the same location)
 </details>
 
-#### Communication channel (all phases of organisation)
+#### Communication channel
+
+***Relevant for all phases***
 <details>
   <summary>Click to expand</summary>  
 
@@ -228,7 +233,9 @@ A few subsections are marked as "all phases of organisation", as those aspects s
   - [ ] Assign 1-2 volunteers or committee members who can handle social media in collaboration with the committee
 </details>
 
-#### Storing and sharing information within the organising committee (all phases of organisation)
+#### Storing and sharing information within the organising committee
+
+***Relevant for all phases***
 <details>
   <summary>Click to expand</summary>  
 
@@ -238,7 +245,9 @@ A few subsections are marked as "all phases of organisation", as those aspects s
 - [ ] Create a single page summary for the organisers listing the available resources with their links
 </details>
 
-#### Budget (immediate steps)
+#### Budget
+
+***Mid-phase***
 <details>
   <summary>Click to expand</summary>
 
@@ -250,9 +259,12 @@ A few subsections are marked as "all phases of organisation", as those aspects s
 - [ ] Calculate how much to make the registration fee if no sponsorship is gained
 </details>
 
-#### Participation support grants (immediate steps)
+#### Participation support grants
+
+***Mid-phase***
 <details>
   <summary>Click to expand</summary>
+  
 - [ ] Allocate part of your budget for the participation support grant that can be requested by the applicants for the following support
   - [ ] Free or subsidized childcare during the event so that the participant can attend the event without worrying about taking care of their children
   - [ ] Software cost or subscription fee if the one being used by the event is not freely available
@@ -266,20 +278,25 @@ A few subsections are marked as "all phases of organisation", as those aspects s
 - [ ] Send decision for participation support grant applicants as soon as possible so that they can decide if they can register to attend the event
 </details>
 
-#### Event's theme, target audience and duration (immediate steps)
+#### Event theme, target audience and duration 
+
+***Mid-phase***
 <details>
   <summary>Click to expand</summary>  
 
 - [ ] Identify your target audience within your community and organisation
 - [ ] Invite community members to suggest ideas and collectively choose the most relevant theme
 - [ ] Identify a most suitable time zone and the duration of the event
-- [ ] Use a standard time with link to different time zones when communicating about the event
+- [ ] Use a standard time with link to different time zones (like [arewemeetingyet](arewemeetingyet.com)) when communicating about the event
 - [ ] Add the exact date, time, location (if any!) and choice of tool that will be used for communication  
 </details>
 
-#### Defining timeline, invite applications and set rubrics for session/speaker selection (immediate steps)
+#### Define timeline, invite applications and set rubrics for selection
+
+***Mid-phase***
 <details>
   <summary>Click to expand</summary>  
+  
 *Establish a timeline for organising and planning the conference and share on the website*
 - [ ] Deadline for abstract submission
 - [ ] Deadline for abstract selection notifcation and program announcement  
@@ -292,11 +309,13 @@ A few subsections are marked as "all phases of organisation", as those aspects s
 - [ ] Invite abstracts for talks and sessions and share rubrics for selection
 </details>
 
-#### Create a registration form (immediate steps)
+#### Create a registration form
+
+***Mid-phase***
 <details>
   <summary>Click to expand</summary>
 
-- [ ] If possible use a registration platform such as EventBrite that stores data centrally, works on most browsers, and enables secure credit card payment
+- [ ] If possible use a registration platform such as [Eventbrite](https://www.eventbrite.com/) that stores data centrally, works on most browsers, and enables secure credit card payment
 - [ ] Collect participant details like their name, email, affiliation, accessibility requirements, motivation for participating, and agreement to privacy statement.
 - [ ] Clearly explain why you’re asking for sensitive information and how will you handle those data
 - [ ] If you ask an optional question, make it clear that it’s optional
@@ -309,7 +328,10 @@ A few subsections are marked as "all phases of organisation", as those aspects s
 
 </details>
 
-#### Community suggestion and feedback forms (immediate steps)
+#### Community suggestion and feedback forms
+
+***Mid-phase***
+*Choose a standard platform to manage all your forms, for example, [Surveymonkey](https://www.surveymonkey.com/) or [Google forms](https://www.google.com/forms/about/), with a statement on how do you ensure the security of the data collected*
 <details>
   <summary>Click to expand</summary>  
 
@@ -325,12 +347,14 @@ A few subsections are marked as "all phases of organisation", as those aspects s
 - [ ] Feedback form for the chairs, helpers, speakers and notetakers (can be created shortly before the event)
 </details>
 
-#### Program (next steps)
-*Agree as a committee what the rough agenda for the event's program will be. Create slots for keynotes, breakout discussions, workshops, poster and lightning talk sessions.
-Provide designated time slots for the social events in the main program.
-Make sure that after each session there is a break of at least 5 minutes to allow people to login to the right online call link, switch rooms, ask logistics related questions, etc.
-In your schedule, plan for brief breaks between speakers to allow the next speaker to get set up.
-Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
+#### Program
+
+***Later-phase***
+
+*Agree as a committee, what the rough agenda for the event's program will be. Create slots for keynotes, breakout discussions, workshops, poster and lightning talk session.
+Provide designated time slots for social events in the main program.
+Make sure that after each talk/session there is 5 minutes break to allow people to log in to the right online call link, switch rooms, ask a logistics-related question.
+Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 <details>
   <summary>Click to expand</summary>  
 
@@ -341,7 +365,7 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - [ ] Provide new and interesting topics that are not selected for long talks an opportunity to present their idea in short or lightning talks
 - [ ] Instead of having a live lightning talk and poster presentation, invite submission of the pre-recorded lightning talks and talks on posters that can assembled in a gallary (for example, YouTube playlist) that can be accessed by everyone
   - [ ] For poster sessions, create a gallery of posters online that can be broswed easily
-    - Use F1000 Research, Zenodo, Figshare and osf.io/meetings that gives DOI to each submission, and allows browsable collactions, other options are Flickers, Unsplash and google photos
+    - Use [F1000 Research](https://f1000research.com/posters/8-400), [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/) and [Open Science Framework (OSF)](osf.io/meetings) that gives DOI to each submission, and allows browsable collections, other options are Flickers, Unsplash and google photos
     - Share link of each poster with their online video in the shared document
   - [ ] Decide length of these talks (recommended length is 1.5-2 minutes)
   - [ ] Create a designated slot in the program to ensure that people take time to check out these talks and posters
@@ -371,14 +395,34 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
   - [ ] If possible, provide possibility to request for grant to buy simple equipments such as headphones, webcam, and high-speed internet  
 - [ ] Clearly share the participation guideline, code of conduct and contact information of people who can help with any issues regarding the meeting
 - [ ] Send a reminder with link to the documents and other important resources to all the participants a week in advance and again a day before the meeting
+</details>
+
+#### Document and tools for participants
+
+***Later-phase***
+<details>
+  <summary>Click to expand</summary>  
+
+- [ ] Establish a dedicated location for all the shared documents for different sessions with participants that they can access and edit online during the event
+  - [ ] Use a standard template that can similar for all the sessions with minor adaption
+- [ ] If using a tool that is available only upon subscription, make sure that all the participants have the access
+- [ ] Share a how-to guide to ensure that everyone knows how to use the tool
+- [ ] If possible, offer help with installation and testing of the tool
+- [ ] Remind everyone to arrange microphone or headsets
+  - [ ] If possible, provide the possibility to request for a grant to buy simple types of equipment such as headphones, webcams, and high-speed internet  
+- [ ] Share the participation guideline, code of conduct and contact information of people who can help with any issues regarding the meeting
+- [ ] Send a reminder with the links to the document and other important resources to all the participant a week and a day in advance
 - [ ] Create slides or presentation that might be needed from organiser's side (welcome, wrap up)
 </details>
 
-#### Organise a pre-event set-up community call/party/fest/coffee-hour (next steps)
+#### Organise a pre-event community call
+(Often referred by different names such as installation party, coffee-hours or set-up test fest)
+
+***Later-phase***
 <details>
   <summary>Click to expand</summary>
 
-- [ ] Organise a pre-event call for the organising committee to cross check if all the materials for the event is sorted and has been made available to everyone
+- [ ] Organise a pre-event call for the organising committee to cross-check if all the materials for the event are sorted and have been made available to everyone
 - [ ] Arrange a conference call(s) with volunteers, speakers, session leads and chairs to communicate the guidelines and discuss their responsibilities during the event
 - [ ] Create the collaborative document to collect questions from participants and document answers, that can be shared with those who can't attend this call
 - [ ] Arrange a separate conference call(s) with the participants to answer their questions related to the event, and also use collaborative note to share the main discussion points
@@ -387,7 +431,9 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - [ ] Keep this meeting informal and have as many helpers as possible who can help individuals in breakout rooms
 </details>
 
-#### Storing and sharing information with the participants (next steps)
+#### Storing and sharing information with the participants
+
+***Later-phase***
 <details>
   <summary>Click to expand</summary>  
 
@@ -397,11 +443,11 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - [ ] If not using a free platform, provide access to the participants
   - [ ] This can be communicated in the registration confirmation email and the pre-event community call
 - [ ] Send out short emails with updates and reminders that point the participants to these resources (as people tend to look for all the information right before the event)
-- [ ]
 </details>
 
-#### Branding and promotional materials (all phases of organisation)
+#### Branding and promotional materials
 
+***Relevant for all phases***
 <details>
   <summary>Click to expand</summary>  
 
@@ -411,11 +457,12 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - [ ] Use online store to sell swag to allow people to buy them before or during the event     
   - [ ] If the overall budget is low, this can be used for inviting small donations from the community
   - [ ] If you have sufficient budget, send these to your organising committees before the event, and to the speakers and volunteers after the event as a *thank you* gift
+- [ ] Design online posters and flyers to share with your community members who can help you promote the event in their networks
 </details>
 
-#### Designated venues to participate from
-*If there are physical office locations, or co-working spaces accessible for most members*
+#### Designated venues for participation
 
+*If there are physical office locations, or co-working spaces accessible for most members*
 <details>
   <summary>Click to expand</summary>  
 - [ ] Reserve conference room(s) (or similar venues) with high speed internet
@@ -425,15 +472,16 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - [ ] Plan the sitting arrangement so that people are facing to the main screen/camera
 - [ ] Test the screen with different light intensity
 - [ ] Arrange all the required materials and equipment, like extension cords or power strips
-- [ ] Create a form to collect dietary requirements, interest in participating on social event, mobility related requirement and other location specific request
-- [ ] Arrange for beverages/snacks for the breaks, and ensure that they catering service will label the food for contents/allergens
-- [ ] If organising  any location specific social event, run that in parallel to the remote social event
+- [ ] Create a form to collect dietary requirements, interest in participating in a social event, mobility-related requirement and other location-specific requests
+- [ ] Arrange for beverages/snacks for the breaks, and ensure that the catering service will label the food for contents/allergens
+- [ ] If organising  any location-specific social event, run that in parallel to the remote social event
   - [ ] Book social event venue, transfer, and catering and communicate them clearly
 </details>
 
 ### During the event
 
 #### Kicking off the event
+
 *Checklist for the designated chair of the opening session*
 <details>
   <summary>Click to expand</summary>  
@@ -445,47 +493,49 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
   - [ ] Muting microphone when not speaking
   - [ ] Using a chat system during the meeting - if there is one
 - [ ] Remind the guidelines for participating in discussions
-  - [ ] Raise hand - on chat, or virtually (like in zoom) or physically
+  - [ ] Raise hand - on chat, or virtually (like in [Zoom](https://zoom.us/)) or physically
   - [ ] Other ways to involve others in the discussion equitably
 - [ ] Ask everyone to write down their name, pronouns, contact (twitter, email) and other relevant information
 - [ ] Start the meeting with an icebreaker question
-  - [ ] Create opportunity for everyone to share something personal (about their hobby, or experiences) on the document or verbally
+  - [ ] Create opportunities for everyone to share something personal (about their hobby, or experiences) on the document or verbally
 - [ ] Communicate the ways to make discussions inclusive of everyone
 - [ ] Remind everyone if the video will be recorded
 - [ ] Request everyone to keep their camera on whenever possible
 </details>
 
 #### Talks and presentations
+
 *Checklist for the chair of the designated talk*
 <details>
   <summary>Click to expand</summary>
 
 - [ ] Chairs share the link to the shared document
-- [ ] Chairs remind of the Code of Conduct contact person in case something needs to be reported
-- [ ] Chairs introduce the speaker and notetakers (and sign language interpreter if available)
+- [ ] Chairs remind everyone of the Code of the Conduct contact person in case something needs to be reported
+- [ ] Chairs introduce the speaker and note-takers (and sign language interpreter if available)
 - [ ] Remind everyone if the video will be recorded
 - [ ] Request everyone to keep their camera on whenever possible
-- [ ] Chairs indicate if the speakers should speed up or slow down, or if there is a technical issue that speaker should check
+- [ ] Chairs indicate if the speakers should speed up or slow down, or if there is a technical issue that the speaker should check
 - [ ] Chairs help answer procedural questions like “where is this button that I should click”
-- [ ] Chairs and notetaker direct technical questions to the organiser when needed
-- [ ] Notetakers take notes to capture main points from the talk
-- [ ] Chairs and note takers gather questions, opinion and response, on the shared document than open discussion
+- [ ] Chairs and note-taker direct technical questions to the organiser when needed
+- [ ] Note-takers take notes to capture main points from the talk
+- [ ] Chairs and note-takers gather questions, opinion and response, on the shared document than open discussion
   - [ ] This can be done on a document or by using interactive tools like [sli.do](https://www.sli.do/)
 - [ ] Chairs ask people to add '+1' next to the points that they like or agree with
 - [ ] Chairs verbalise some of the popular insights, opinion and thoughts
-- [ ] Chairs close session in time by thanking the speakers and notetakers
+- [ ] Chairs close session in time by thanking the speakers and note-takers
 - [ ] Take a moment to celebrate the speakers for their talks
   - [ ] Ask people to leave some emoji or gifs for the speakers
 </details>
 
 #### Short workshops, up-skilling or discussion sessions
-*Checklist for the session lead, helpers and note takers of the designated session*
+
+*Checklist for the session lead, helpers and note-takers of the designated session*
 <details>
   <summary>Click to expand</summary>
 
-- [ ] Session leads share the link to the shared document
-- [ ] Session leads remind of the Code of Conduct contact person in case something needs to be reported
-- [ ] Session leads introduce the helpers and notetakers (and sign language interpreter if available)
+- [ ] Session leads should share the link to the shared document
+- [ ] Session leads remind of the Code of the Conduct contact person in case something needs to be reported
+- [ ] Session leads should introduce the helpers and note-takers (and sign language interpreter if available)
 - [ ] If recording the call, make sure to tell the participants before you hit the record button
 - [ ] Allow them to turn off their video when recording
 - [ ] To allow participation with the video on, don't record general discussions
@@ -494,54 +544,57 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - [ ] Session leads, helpers and note takers help gather questions, opinion and response, on the shared document than open discussion
 - [ ] Session leads ask people to add '+1' next to the points that they like or agree with
 - [ ] Session leads verbalise some of the popular insights, opinion and thoughts
-- [ ] Helpers keeps note on any technical issue that speaker or others come across and help troubleshoot them
+- [ ] Helpers take note of any technical issue that speaker or others come across and help troubleshoot them
 - [ ] Helpers help answer procedural questions like “where is this button that I should click”
 - [ ] Helpers direct technical questions to the organiser when needed
   - [ ] This can be done on a document or by using interactive tools like sli.do
-- [ ] Session lead create breakout rooms  whenever possible to ensure that people can connect with each other while discussing mutually useful question or issues
+- [ ] Session lead create breakout rooms  whenever possible to ensure that people can connect while discussing mutually useful question or issues
 - [ ] Session lead facilitate fair discussion, don’t fixate on one argument
 - [ ] In the last part of the session, take some time to collect feedback from the participants
 - [ ] Ask people to volunteer to write short blogs about their experience
-- [ ] Session leads close session in time by thanking the speakers and notetakers
+- [ ] Session leads will close their sessions in time by thanking the speakers and note-takers
 - [ ] Take a moment to celebrate the session and everyone involved in running those
   - [ ] Ask people to leave some emoji, gifs and testimonial for the workshop
 </details>
 
 #### Lightning talks
+
 *Checklist for the designated chair of these sessions*
 <details>
   <summary>Click to expand</summary>
 
-- [ ] Share the link of the gallery where the pre-recorded lightning talks are posted along with the shared notes from the session (see details in (Program (before the event))
+- [ ] Share the link of the shared notes for the session along with the link to the pre-recorded lightning talks (see details in (Program (before the event))
 - [ ] Ask presenters who are attending the session to write down their names so that other attendees can ask questions specific to their talks
 - [ ] Allow enough time for everyone to check out multiple lightning Talks
 - [ ] Run an open question and answer period where anyone can ask questions to any presenters; remind everyone to keep their question and response short
   - [ ] Use shared document or Slido for taking questions
 - [ ] Keep the format informal and allow flexibility for participation   
-- [ ] Finish the session by thanking all the participants, and ask everyone to leave nice words, gif or emoji to celebrate the session and presenters' work.
+- [ ] Finish the session by thanking all the participants, and ask everyone to leave encouraging words, gifs or emojis to celebrate the session and presenters' work.
 - [ ] If the feedback for the session is available, use the last few minutes to gather those from the participants
 </details>
 
 #### Poster sessions
+
 *Checklist for the designated chair of these sessions*
 <details>
   <summary>Click to expand</summary>
 
-- [ ] Share the link of the gallery where the posters can be browsed (see details in (Program (before the event))
+- [ ] Share the link of the shared notes for the session along with the link to the gallery where the posters can be browsed (see details in (Program (before the event))
   - [ ] If short pre-recorded lightning talks on the posters are available, allow time to watch a few videos
 - [ ] Ask presenters who are attending the session to write down their names so that other attendees can ask questions specific to their talks
 - [ ] Allow enough time for everyone to ask questions on the shared document, dedicated channel (Slack or sli.do) for poster discussions
 - [ ] Keep an eye on the document to see if everything is going well
 - [ ] Remind every one of the time at regular intervals
 - [ ] At the end, run an open question and answer session where anyone can ask question to any presenters in that session. Remind everyone to keep their question and response short
-  - [ ] Use shared document or Slido for taking questions
+  - [ ] Use shared documents or [Slido](https://www.sli.do/) for taking questions
 - [ ] Keep the format informal and allow flexibility for participation   
 - [ ] Finish the session by thanking all the participants, and ask everyone to leave nice words, gif or emoji to celebrate the session and presenters' work.
 - [ ] If the feedback for the session is available, use the last few minutes to gather that from the participants
 </details>
 
 #### Social events
-*Checklist for the session lead, helpers and note takers of the designated session*
+
+*Checklist for the session lead, helpers and note-takers of the designated session*
 <details>
   <summary>Click to expand</summary>
 
@@ -550,15 +603,19 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - [ ] Start with an informal ice breaker - allow everyone to introduce them to everyone on the call
 - [ ] Follow the "show, don't tell", such as visual artifacts in the session format as much as possible
 - [ ]
+  - [ ] This can be run by playing simple games that are not too hard to explain and can be played by multiple people (like Dungeon and Dragons, see [D&D beyond](https://twitter.com/DnDBeyond))
+- [ ] Conference dinners can be hosted in parallel in multiple locations
+  - [ ] Other options could be to host a cooking and dining session (see the [Tweet thread](https://twitter.com/kevin_kunzmann/status/1240921979462520834), add your ideas too!).
 </details>  
 
 #### Handling breakout rooms
+
 *If using breakout rooms in Zoom (or similar tool), make sure that the organiser helps you create Groups*
 <details>
   <summary>Click to expand</summary>
 
-- [ ] Create groups that are more diverse (they will have better discussion)
-- [ ] Remind everyone to give others fair chance to speak
+- [ ] Create groups that are more diverse (they will have a better discussion)
+- [ ] Remind everyone to give others a fair chance to speak
 - [ ] Ask them to write notes from their discussion in the shared document
 - [ ] Send message periodically reminding everyone of how much time for discussion is left
   - [ ] Remind them to move on to next person if only one person has spoken so far in their Groups
@@ -577,9 +634,11 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - [ ] Send thank you email to everyone with the link of the complete notes and all the relevant information
 - [ ] Send a feedback form to all the participants with the thank you email
 - [ ] Settle all the invoices from the event
+- [ ] Host a post-event community call to thank people and share the lessons learned.
 </details>
 
 ## Checklist for attending a remote meeting or event
+
 *HELP WANTED*
 
 ### Before participating in the meeting
