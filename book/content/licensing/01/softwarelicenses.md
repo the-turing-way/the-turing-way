@@ -36,11 +36,11 @@ To make some sense of this variety, we can categorize them as follows.
     </tbody>
 </table>
 
-<sup>1</sup>GNU General Public License 
-<sup>2</sup>CDDL Common Development and Distribution License
-<sup>3</sup>GNU Lesser General Public License
-<sup>4</sup>MPL Mozilla Public License
-<sup>5</sup>BSD MIT Berkeley Software Distribution Massachusetts Institute
+<sup>1</sup>GNU General Public License  
+<sup>2</sup>CDDL Common Development and Distribution License  
+<sup>3</sup>GNU Lesser General Public License  
+<sup>4</sup>MPL Mozilla Public License  
+<sup>5</sup>BSD MIT Berkeley Software Distribution Massachusetts Institute  
 
 ## Free software
 
@@ -159,7 +159,7 @@ They may also require that the recipient of the combined work can re-link the mo
     </tbody>
 </table>
 
-<sup>*</sup>Under any license for the MIT license
+<sup>*</sup>Under any license for the MIT license  
 <sup>**</sup>Relicensing LGPL to GPL is allowed
 
 ## License compatibility
