@@ -124,7 +124,7 @@
 - url: /communication
   not_numbered: true
   sections:
-  - title: File Naming Convension
+  - title: File Naming Convention
     url: /communication/filenaming
 - divider: true
 
