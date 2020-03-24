@@ -32,16 +32,88 @@
   not_numbered: true
 
 - divider: true
-  
+
 - url: /reproducible-research
   not_numbered: true
   sections:
   - url: /reproducible-research/overview
     subsections:
-    - url: /reproducible-research/overview/importantforscience
-    - url: /reproducible-research/overview/whycare
+    - url: /reproducible-research/overview/importance
+    - url: /reproducible-research/overview/benefit
     - url: /reproducible-research/overview/definitions
     - url: /reproducible-research/overview/resources
+  - title: Open Research
+    url: /reproducible-research/open-research
+    subsections:
+    - title: Open data
+      url: /reproducible-research/open-research/opendata
+    - title: Open source software
+      url: /reproducible-research/open-research/opensource
+    - title: Open hardware
+      url: /reproducible-research/open-research/openhardware
+    - title: Open access
+      url: /reproducible-research/open-research/openaccess
+    - title: Open notebooks
+      url: /reproducible-research/open-research/opennotebooks
+    - title: Open scholarship
+      url: /reproducible-research/open-research/openscholarship
+    - title: Resources
+      url: /reproducible-research/open-research/resources
+  - title: Version Control
+    url: /reproducible-research/version-control
+  - title: Research Data Management
+    url: /reproducible-research/rdm
+  - title: Reproducible Environments
+    url: /reproducible-research/reproducible-environments
+    subsections:
+    - title: Choosing a tool
+      url: /reproducible-research/reproducible-environments/options
+    - title: Conda
+      url: /reproducible-research/reproducible-environments/package-management
+    - title: YAML
+      url: /reproducible-research/reproducible-environments/yaml
+    - title: Binder
+      url: /reproducible-research/reproducible-environments/binder
+    - title: Virtual machines
+      url: /reproducible-research/reproducible-environments/virtual-machines
+    - title: Containers
+      url: /reproducible-research/reproducible-environments/containers
+    - title: Resources
+      url: /reproducible-research/reproducible-environments/resources
+    - title: Checklist
+      url: /reproducible-research/reproducible-environments/checklist
+  - title: Testing
+    url: /reproducible-research/testing
+  - title: Reviewing
+    url: /reproducible-research/reviewing
+    subsections:
+    - title: How this will help you and why this is useful
+      url: /reproducible-research/reviewing/motivation
+    - title: Best Practices
+      url: /reproducible-research/reviewing/recommendations
+    - title: Typical Workflows
+      url: /reproducible-research/reviewing/workflows
+    - title: Checklists, what to learn next and bibliography
+      url: /reproducible-research/reviewing/checklist
+  - title: Continuous Integration
+    url: /reproducible-research/continuous-integration
+  - title: Reproducible Research with Make
+    url: /reproducible-research/make
+  - title: Research Compendia
+    url: /reproducible-research/research-compendia
+  - title: Credit for reproducible research
+    url: /reproducible-research/credit
+  - title: Risk Assessment
+    url: /reproducible-research/risk-assessment
+    subsections:
+    - title: Long Read on Risk Assessment
+      url: /reproducible-research/risk-assessment/details
+    - title: Summary
+      url: /reproducible-research/risk-assessment/summary
+  - title: BinderHub
+    url: /reproducible-research/binderhub
+  - title: Glossary
+    url: /reproducible-research/glossary
 
 - divider: true
 
@@ -52,102 +124,35 @@
 
 - url: /communication
   not_numbered: true
-
+  sections:
+  - title: File naming convension
+    url: /communication/filenaming
 - divider: true
 
 - url: /collaboration
   not_numbered: true
+  sections:
+  - title: Collaborating on GitHub/GitLab
+    url: /collaboration/github
+    subsections:
+    - title: README and Project Communication
+      url: /collaboration/github/readme
+    - title: Roadmapping
+      url: /collaboration/github/roadmapping
+    - title: Getting Contributors
+      url: /collaboration/github/contributors
+    - title: Checklist and Bibliography
+      url: /collaboration/github/checklist
 
 - divider: true
 
 - url: /ethical-research
   not_numbered: true
+  sections:
+  - title: Ethical decision and project planning
+    url: /ethical-research/project-planning
 
 - divider: true
 
 - url: /community-handbook
   not_numbered: true
-
-# - title: Open Research
-#   url: /open_research/open_research
-#   sections:
-#   - title: Open data
-#     url: /open_research/01/opendata
-#   - title: Open source software
-#     url: /open_research/02/opensourcesoftware
-#   - title: Open hardware
-#     url: /open_research/03/openhardware
-#   - title: Open access
-#     url: /open_research/04/openaccess
-#   - title: Open notebooks
-#     url: /open_research/05/opennotebooks
-#   - title: Open scholarship
-#     url: /open_research/06/openscholarship
-#   - title: Resources
-#     url: /open_research/07/resources
-# - title: Version Control
-#   url: /version_control/version_control
-# - title: Collaborating on GitHub/GitLab
-#   url: /collaborating_github/collaborating_github
-#   sections:
-#   - title: README and Project Communication
-#     url: /collaborating_github/1/readme_communication
-#   - title: Roadmapping
-#     url: /collaborating_github/2/roadmapping
-#   - title: Getting Contributors
-#     url: /collaborating_github/3/getting_contributors
-#   - title: Checklist and Bibliography
-#     url: /collaborating_github/4/checklist_bibliography
-# - title: Credit for reproducible research
-#   url: /credit/credit
-# - title: Research Data Management
-#   url: /rdm/rdm
-# - title: Reproducible Environments
-#   url: /reproducible_environments/reproducible_environments
-#   sections:
-#   - title: Choosing a tool
-#     url: /reproducible_environments/01/options
-#   - title: Conda
-#     url: /reproducible_environments/02/package-management
-#   - title: YAML
-#     url: /reproducible_environments/03/yaml
-#   - title: Binder
-#     url: /reproducible_environments/04/binder
-#   - title: Virtual machines
-#     url: /reproducible_environments/05/virtual-machines
-#   - title: Containers
-#     url: /reproducible_environments/06/containers
-#   - title: Checklist
-#     url: /reproducible_environments/07/checklist
-#   - title: Resources
-#     url: /reproducible_environments/08/resources
-# - title: Testing
-#   url: /testing/testing
-# - title: Reviewing
-#   url: /reviewing/reviewing
-#   sections:
-#   - title: How this will help you and why this is useful
-#     url: /reviewing/01/how_helpful
-#   - title: Best Practice
-#     url: /reviewing/02/best_practice
-#   - title: Typical Workflows
-#     url: /reviewing/03/typical_workflows
-#   - title: Checklists, what to learn next and bibliography
-#     url: /reviewing/04/checklists_bib
-# - title: Continuous Integration
-#   url: /continuous_integration/continuous_integration
-# - title: Reproducible Research with Make
-#   url: /make/make
-# - title: Research Compendia
-#   url: /research_compendia/research_compendia
-# - title: Risk Assessment
-#   url: /risk_assessment/risk_assessment
-#   sections:
-#   - title: Long Read on Risk Assessment
-#     url: /risk_assessment/01/longreadriskassessment
-#   - title: Summary
-#     url: /risk_assessment/02/finalsummary
-# - title: BinderHub
-#   url: /binderhub/binderhub
-# - title: Glossary
-#   url: /glossary/glossary
