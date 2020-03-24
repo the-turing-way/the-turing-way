@@ -627,7 +627,7 @@ A guide on how to do so is available [here](https://Git-scm.com/docs/Git-request
 ### Good practice
 
 In your GitHub repository you should **include a license** to allow others to re-use your work legally.
-GitHub makes this very easy, simply click the "Create new file" button, name it "License.md" and a drop down menu will appear offering you a selection to choose from. The legalese can seem intimidating however [this](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project.
+GitHub makes this very easy, simply click the "Create new file" button, name it "License.md" and a drop down menu will appear offering you a selection to choose from. The legalese can seem intimidating however the [software licenses](/open_research/02/softwarelicenses) section offers high level overview of the different license types.
 
 You should also **include a readme file** where you include useful information about what the project is, how to use it and how to contribute to it.
 Switching between projects in your work is common, let alone that you might need to poke at your own previous projects from time to time.
