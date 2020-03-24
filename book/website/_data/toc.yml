@@ -29,6 +29,7 @@
 # ===== NEW SECTION ========================================
 
 - url: /reproducibility
+  not_numbered: true
   sections:
   - url: /reproducibility/overview
     subsections:
@@ -36,9 +37,32 @@
     - url: /reproducibility/overview/whycare
     - url: /reproducibility/overview/definitions
     - url: /reproducibility/overview/resources
-    - url: /project-design
 
-#
+- divider: true
+
+- url: /project-design
+  not_numbered: true
+
+- divider: true
+
+- url: /communication
+  not_numbered: true
+
+- divider: true
+
+- url: /collaboration
+  not_numbered: true
+
+- divider: true
+
+- url: /ethics
+  not_numbered: true
+
+- divider: true
+
+- url: /community-handbook
+  not_numbered: true
+
 # - title: Introduction
 #   url: /introduction/introduction
 # - title: Reproducibility
