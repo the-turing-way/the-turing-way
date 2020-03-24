@@ -117,7 +117,7 @@ The last two checklists are about managing and participating in the distributed 
 - [ ] Help answer procedural questions like “where is this button that I should click”
 - [ ] Direct technical questions to the organiser when needed
 - [ ] For gathering opinion and response, use silent writing time rather than open discussion
-- [ ] Use breakout room whenever possible to ensure that people can connect with each other while discussing questions or issues of mutual interest (more tips below)
+- [ ] Use breakout rooms whenever possible to ensure that people can connect with each other while discussing questions or issues of mutual interest (more tips below)
 - [ ] Aim to have a fair discussion, don’t fixate on one argument or speaker
 - [ ] Notetakers should document important outcomes from every discussion
 - [ ] Encourage everyone to help the notetaker in documenting correct information
