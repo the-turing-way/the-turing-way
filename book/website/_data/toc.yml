@@ -44,17 +44,17 @@
   - title: Open Research
     url: /reproducible-research/open-research
     subsections:
-    - title: Open data
+    - title: Open Data
       url: /reproducible-research/open-research/opendata
-    - title: Open source software
+    - title: Open Source
       url: /reproducible-research/open-research/opensource
-    - title: Open hardware
+    - title: Open Hardware
       url: /reproducible-research/open-research/openhardware
-    - title: Open access
+    - title: Open Access
       url: /reproducible-research/open-research/openaccess
-    - title: Open notebooks
+    - title: Open Notebooks
       url: /reproducible-research/open-research/opennotebooks
-    - title: Open scholarship
+    - title: Open Scholarship
       url: /reproducible-research/open-research/openscholarship
     - title: Resources
       url: /reproducible-research/open-research/resources
@@ -86,13 +86,13 @@
   - title: Reviewing
     url: /reproducible-research/reviewing
     subsections:
-    - title: How this will help you and why this is useful
+    - title: Importance and Personal Benefits
       url: /reproducible-research/reviewing/motivation
     - title: Best Practices
       url: /reproducible-research/reviewing/recommendations
     - title: Typical Workflows
       url: /reproducible-research/reviewing/workflows
-    - title: Checklists, what to learn next and bibliography
+    - title: Checklists, Next Steps and Bibliography
       url: /reproducible-research/reviewing/checklist
   - title: Continuous Integration
     url: /reproducible-research/continuous-integration
@@ -100,7 +100,7 @@
     url: /reproducible-research/make
   - title: Research Compendia
     url: /reproducible-research/research-compendia
-  - title: Credit for reproducible research
+  - title: Credit for Reproducible Research
     url: /reproducible-research/credit
   - title: Risk Assessment
     url: /reproducible-research/risk-assessment
@@ -124,7 +124,7 @@
 - url: /communication
   not_numbered: true
   sections:
-  - title: File naming convension
+  - title: File Naming Convension
     url: /communication/filenaming
 - divider: true
 
