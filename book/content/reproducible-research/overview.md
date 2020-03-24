@@ -1,18 +1,13 @@
 # What is reproducible research?
 
-_The Turing Way_ defines reproducibility in data research as data and code being available to fully rerun the analysis.
+Scientific results and evidence are strengthened if they are reproduced and confirmed by several independent researchers.
+With all parts used in an analysis being available and/or documented, valuable time is saved reproducing published results and other researchers can easily build on these resarch results and re-use data or code for their analyses.
 
-There are several definitions of reproducibility in use, and we discuss these in more detail in the [definitions](03/definitions) section of this chapter. 
-However, _The Turing Way_'s definition used by _The Turing Way_ Team at the time of writing, will be useful to avoid misunderstandings when reading the rest of the handbook.
-
-This chapter will lay out why reproducibility is important for science and scientists, provide an overview of the most common definitions, and define reproducibility in the context of this handbook.
+Major media outlets have [reported on](https://www.theguardian.com/science/2018/aug/27/attempt-to-replicate-major-social-scientific-findings-of-past-decade-fails) investigations showing that a significant percentage of scientific studies cannot be reproduced.
+This leads to other academics and society losing trust in scientific results (Baker, 2016).
+However, working reproducibly means others can check your results - even early on in the research process.
+Thus, the full analysis and methodology is transparent.
+In addition, so called "negative results" can be published easily, helping avoid other researchers wasting time repeating analyses that will not return the expected results (Dirnagl & Lauritzen, 2010).
 
 ## Prerequisites / recommended skill level
 No previous knowledge needed.
-
-## Table of contents
-
-1. [Why reproducibility is important for science](01/importantforscience)
-2. [Why you should care about reproducibility](02/whycare)
-3. [Definitions of reproducibility](03/definitions)
-4. [Resources for reproducibility chapter](04/resources)
