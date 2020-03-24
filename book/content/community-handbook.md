@@ -1,1 +1,3 @@
-# Welcome to the "meta book" of The Turing Way
+# Community Handbook
+
+![](figures/community/community.jpg)

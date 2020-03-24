@@ -1,1 +1,3 @@
-# Welcome to the book on communication
+# Guide for Communication
+
+![](figures/communication/communication.jpg)

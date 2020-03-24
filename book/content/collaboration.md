@@ -1,8 +1,8 @@
-# Collaboration
+# Guide for Collaboration
+
+***This book covers topics related to effective and inclusive collaboration.***
 
 ![](figures/collaboration/collaboration.jpg)
-
-This book covers topics related to effective and inclusive collaboration.
 
 Data science is defined by its interdisiplinarity.
 Our work can only reach its greatest potential if there are diverse teams of people involved in designing and delivering the research or product.

@@ -17,10 +17,10 @@
 #######################################################################################
 # Jekyll site settings
 title: The Turing Way
-author: Kirstie Whitaker
-email: kwhitaker@turing.ac.uk
+author: The Turing Way Community
+email: theturingway@gmail.com
 description: >-
-  The Turing Way is a lightly opinionated guide to reproducible data science.
+  The Turing Way is a how to guide for data science.
 
 baseurl: /  # the subpath of your site, e.g. /blog. If there is no subpath for your site, use an empty string ""
 url: https://the-turing-way.netlify.com # the base hostname & protocol for your site, e.g. http://example.com
@@ -37,8 +37,8 @@ footer_text: This page was created by <a href="https://github.com/alan-turing-in
 show_sidebar: true                # Show the sidebar. Only set to false if your only wish to host a single page.
 collapse_inactive_chapters: true  # Whether to collapse the inactive chapters in the sidebar
 collapse_inactive_sections: true  # Whether to collapse the sub-sections within a non-active section in the sidebar
-textbook_logo: ''                                 # A logo to be displayed at the top of your textbook sidebar. Should be square
-textbook_logo_link: https://github.com/alan-turing-institute/the-turing-way/ # A link for the logo.
+textbook_logo: figures/logo/logo.png # A logo to be displayed at the top of your textbook sidebar. Should be square
+textbook_logo_link: '' # A link for the logo.
 sidebar_footer_text: Powered by <a href="https://github.com/jupyter/jupyter-book">Jupyter
   Book</a>
 number_toc_chapters: true         # Whether to add numbers to chapterse in your Table of Contents. If true, you can control this at the Chapter level in _data/toc.yml

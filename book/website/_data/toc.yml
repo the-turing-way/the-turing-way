@@ -28,15 +28,20 @@
 
 # ===== NEW SECTION ========================================
 
-- url: /reproducibility
+- url: /Welcome
+  not_numbered: true
+
+- divider: true
+  
+- url: /reproducible-research
   not_numbered: true
   sections:
-  - url: /reproducibility/overview
+  - url: /reproducible-research/overview
     subsections:
-    - url: /reproducibility/overview/importantforscience
-    - url: /reproducibility/overview/whycare
-    - url: /reproducibility/overview/definitions
-    - url: /reproducibility/overview/resources
+    - url: /reproducible-research/overview/importantforscience
+    - url: /reproducible-research/overview/whycare
+    - url: /reproducible-research/overview/definitions
+    - url: /reproducible-research/overview/resources
 
 - divider: true
 
@@ -55,7 +60,7 @@
 
 - divider: true
 
-- url: /ethics
+- url: /ethical-research
   not_numbered: true
 
 - divider: true
