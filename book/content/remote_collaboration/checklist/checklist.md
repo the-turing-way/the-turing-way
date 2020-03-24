@@ -55,16 +55,21 @@ The last two checklists are about managing and participating in the distributed 
 <details>
   <summary>Click to expand</summary>
 
-- [ ] Identify a most suitable slot that is time zone compatible for all the members
-  - [ ] Use a standard time with a link (like [arewemeetingyet](https://arewemeetingyet.com/)) to different time zones when communicating
+- [ ] Identify a most suitable slot that is time zone compatible for all the members using tools like [Doodle](https://doodle.com/en/) or [when2meet](https://www.when2meet.com/)
+  - [ ] If you are planning a meeting that includes Americas/Oceania (with over 12 hours difference), consider to have two sessions, to avoid holding a meeting in very early or vary late in the day
+- [ ] Use a standard time with a custom link like [arewemeetingyet](https://arewemeetingyet.com/) or [timeanddate.com](https://www.timeanddate.com/worldclock/fixedform.html) to different time zones when communicating
 - [ ] Identify a chair and note-taker for the meeting
-  - [ ] Sharing guidelines and protocols for chairing and note-taking
+  - [ ] Share guidelines and protocols for chairing and note-taking
 - [ ] Decide if there will be designated speakers with presentations
   - [ ] Share speaker's guidelines and protocols with them
 - [ ] Establish a shared document that can be updated online for agenda and note-taking
   - [ ] Create a template for this meeting (that can also be used for future meetings)
-- [ ] Add the exact date, time, location (if any!) and choice of tool that will be used for communication
-  - [ ] Use an open source tool to avoid inaccessibility
+- [ ] Create a shared document to share the following:
+  - [ ] Participation guideline
+  - [ ] Code of Conduct and contact information of people who can help with any issues regarding the meeting  
+  - [ ] The exact date, time, location (if any!) and choice of tool that will be used for communication
+- [ ] Share this document via an email to all the attendees and also add this to a calendar invite so that people have it handy when needed  
+- [ ] The choice of tool should be preferably an open source tool to avoid inaccessibility
   - [ ] If using a tool that is available only upon subscription, make sure that all the members have the access information
   - [ ] Share a how-to guide to ensure that everyone knows how to use the tool
   - [ ] If possible, offer help with installation and testing of the tool
@@ -73,9 +78,10 @@ The last two checklists are about managing and participating in the distributed 
   - [ ] Ask everyone to write their name indicating their participation in or absence from the meeting
 - [ ] Remind everyone to arrange microphone or headsets
   - [ ] If possible, provide any hardware that the organisation prefers to use
-- [ ] Clearly share the participation guideline, code of conduct and contact information of people who can help with any issues regarding the meeting
+  - [ ] Ask people to check before the meeting that their system and headsets are working
 - [ ] Send a reminder with link to the document and other important resources to all the participants a day in advance
 - [ ] Create slides or presentation that might be needed from organiser's side (welcome, wrap up)
+  - [ ] Add contact details, date and location of resources and licence, to make your slides reusable
 </details>
 
 #### Designated venues to participate from
@@ -109,14 +115,15 @@ The last two checklists are about managing and participating in the distributed 
 - [ ] Remind the guidelines for participating in discussions
   - [ ] Raise hand - on chat, or virtually (like in Zoom) or physically
   - [ ] Other ways to involve others in the discussion equitably
-- [ ] Start the meeting with an icebreaker question
-  - [ ] Create opportunities for everyone to share something personal (about their hobby, or experiences) on the document or verbally    
+- [ ] For gathering opinion and response, use silent writing time rather than open discussion
+  - [ ] Give clear instructions of what's expected from the writing exercises and how long it should take and give a reminder in the last minute to wrap up if the exercise is more than 5 minutes
 - [ ] Ensure that the discussion is inclusive of everyone
+- [ ] Start the meeting with an icebreaker question that can be either written down or shared out verbally depending on how many people are on the call 
+  - [ ] Create opportunities for everyone to share something personal (about their hobby, or experiences) on the document or verbally   
 - [ ] Indicate if the speakers should speed up or slow down, or if there is a technical issue that the speakers should check
 - [ ] Facilitate questions and answer or discussion on the agenda points
 - [ ] Help answer procedural questions like “where is this button that I should click”
 - [ ] Direct technical questions to the organiser when needed
-- [ ] For gathering opinion and response, use silent writing time rather than open discussion
 - [ ] Use breakout rooms whenever possible to ensure that people can connect with each other while discussing questions or issues of mutual interest (more tips below)
 - [ ] Aim to have a fair discussion, don’t fixate on one argument or speaker
 - [ ] Notetakers should document important outcomes from every discussion
@@ -652,7 +659,7 @@ This checklist also aims to help participants support the event organisers by be
 <details>
   <summary>Click to expand</summary>
 
-- [ ] Note the date and time of the meeting in your time zone and mark them correctly in your calendar
+- [ ] Note the date and time of the meeting in your time zone and mark them correctly in your calendar using custom links from the websites like [arewemeetingyet.com](https://www.timeanddate.com/worldclock/meeting.html) and [timeanddate.com](https://www.timeanddate.com/worldclock/fixedform.html).
 - [ ] Indicate that you will be participating by completing any formality put in place, like registering through a registration page, signing up on a shared document, or accepting the calendar invite
 - [ ] Check if there is any other information you need to supply as a participant, like adding or approving agenda items, filling a pre-event survey, signing up for different sessions of a longer event
 - [ ] Install software required for you to join the meeting online
@@ -664,7 +671,7 @@ This checklist also aims to help participants support the event organisers by be
 - [ ] Familiarise yourself with the participation guideline and Code of Conduct supplied by the conference organisers
 - [ ] Note the contact person for the organisation committee and the Code of Conduct
 - [ ] Familiarise yourself with other documents like agenda of the meeting, protocols for the participation, etiquette for online attendees (how to raise your hand, or participate in a discussion) and other shared documents that will be used during the meeting
-- [ ] If you are responsible for leading or chairing any agenda item, talk, session, note the slot and duration assigned to you
+- [ ] If you are responsible for leading or chairing any agenda items, talks, or sessions, please note the slot and duration assigned to you
   - [ ] Check if there is a speaker or chair guideline, reach out to the organisers if you have not been given one already
   - [ ] Prepare your notes or presentation that you will use during your slot as per the guideline
 - [ ] Please consider accessibility and inclusivity when designing your talk, [see this for reference](https://www.w3.org/WAI/teach-advocate/accessible-presentations/#preparing-slides-and-projected-material-speakers)
