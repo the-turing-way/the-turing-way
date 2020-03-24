@@ -38,9 +38,8 @@
   sections:
   - url: /reproducible-research/overview
     subsections:
-    - url: /reproducible-research/overview/importance
-    - url: /reproducible-research/overview/benefit
     - url: /reproducible-research/overview/definitions
+    - url: /reproducible-research/overview/benefit
     - url: /reproducible-research/overview/resources
   - title: Open Research
     url: /reproducible-research/open-research
