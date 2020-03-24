@@ -28,7 +28,7 @@
 
 # ===== NEW SECTION ========================================
 
-- url: /Welcome
+- url: /welcome
   not_numbered: true
 
 - divider: true
