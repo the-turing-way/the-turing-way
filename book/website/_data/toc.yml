@@ -56,7 +56,14 @@
   - title: Open scholarship
     url: /open_research/06/openscholarship
   - title: Resources
-    url: /open_research/07/resources
+    url: open_research/07/resources
+- title: Licensing
+  url: licensing/licensing
+  sections:
+  - title: Software licenses
+    url: licensing/01/softwarelicenses
+  - title: Data licenses
+    url: licensing/02/datalicenses
 - title: Version Control
   url: /version_control/version_control
 - title: Collaborating on GitHub/GitLab
