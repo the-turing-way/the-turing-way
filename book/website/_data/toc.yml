@@ -30,7 +30,7 @@
 
 - url: /reproducibility
   sections:
-  - url: /reproducibility/overview/
+  - url: /reproducibility/overview
     subsections:
     - url: /reproducibility/overview/importantforscience
     - url: /reproducibility/overview/whycare
