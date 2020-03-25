@@ -49,8 +49,4 @@ Preserving privacy may still be possible if partial or generalised datasets are 
 For example, providing age bands instead of birth date or only the first two digits of postal codes.
 It may also be possible to provide the data in such a format that researchers can query it whist keeping the data itself closed, for example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints.
 
-#### National and commercially sensitive data
-
-In many cases companies are understandably unwilling to publish much of their data. The reasoning goes that if commercially sensitive information is disclosed, it will damage the company’s commercial interests and undermine competitiveness. This is based on the thinking that in competitive markets, innovation will only occur with some protection of information: if a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources. The result is that no-one would innovate in the first place. Similarly, governments are often unwilling to publish data that relates to issues such as national security due to public safety concerns.
-
-In such cases it may not be possible to make data open, or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy.
+Data privacy is also maintained when dealing with data of national or commercial interest, details for which are listed in the chapter [Researcg Data Management][rdm], in the section: *National and commercially sensitive data*.
