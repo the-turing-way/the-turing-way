@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: futuratrepadeira/changed-files@v3.0.1
+    - name: GetFiles
+      uses: futuratrepadeira/changed-files@v3.0.1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-    - run: echo ${{ outputs.files_updated }}
+    - run: echo ${{ steps.GetFiles.outputs.files_updated }}
