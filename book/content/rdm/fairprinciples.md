@@ -47,7 +47,7 @@ clearly explains). Data should be as open as possible, as closed as necessary.
 
 The FAIR principles refer to three types of entities: data (as any digital object), metadata (information about that
 digital object), and infrastructure (such as software, repositories). For instance, the findability principle F4 defines
-that both metadata and data are registered or indexed in a searchable resource (e.g. a data repository). For example,
+that both metadata and data are registered or indexed in a searchable resource (for example a data repository). For example,
 the FAIR principles are also being applied to [software](https://doi.org/10.6084/m9.figshare.7449239.v2), and projects
 where the data and software are both FAIR the research is more likely to be reproducible.
 
@@ -63,7 +63,7 @@ should also regularly be updated as the research project progresses or diverge f
 Although started by a community operating in the life science, the FAIR principles have rapidly been adopted by
 publishers, funders, and pan-disciplinary infrastructure programmes and societies, in all disciplines. Many groups and
 organization are working to define guidance and tools to help researchers, as well as other stakeholders (librarians,
-funders, publishers, trainers etc.) to make data FAIR and assess its FAIRness level.
+funders, publishers, trainers et cetera) to make data FAIR and assess its FAIRness level.
 
 This rapid uptake and community involvement, however, has also caused some confusion and ambiguity on what FAIRness is
 and how we can measure it. It is important to say that the FAIR principles are aspirational, in that they do not
