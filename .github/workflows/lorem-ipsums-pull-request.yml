@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: lots0logs/gh-action-get-changed-files@2.0.5
+    - uses: futuratrepadeira/changed-files@v3.0.1
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
