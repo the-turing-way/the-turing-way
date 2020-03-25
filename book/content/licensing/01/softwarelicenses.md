@@ -175,7 +175,7 @@ Having a part of the work under a proprietary license is such an additional rest
 When you use different pieces of software together to solve a problem, and want to distribute the result, here are the questions you have to answer:
 
 - Which separate works are there, and what is derived from what?
-- Can the works be distributed, that is do the licenses allow this and are they compatible?
+- Can the derivative works be distributed? Do the licenses allow this and are they compatible?
 - How should the work(s) be licensed?
 
 The next section shows some examples of how this is done.
@@ -220,7 +220,7 @@ Note that the ALv2 and the LGPL v2.1 explicitly state that source code that is i
 
 As far as I know, there is no case law on this; we will assume it to be the case in these examples.
 
-#### Can the works be distributed, that is do the licenses allow this and are they compatible?
+#### Can the derivative works be distributed? Do the licenses allow this and are they compatible?
 
 Snowball is licensed under a permissive license, so it can be redistributed under that license, and there are no constraints on the license of derivative works.
 The xtas authors can license it in any way they want.
@@ -248,7 +248,7 @@ There are three works: chardet, the xtas Python code, and the combined work.
 The combined work derives from chardet and from the xtas Python code.
 The others are independent works.
 
-#### Can the works be distributed, that is do the licenses allow this and are they compatible?
+#### Can the derivative works be distributed? Do the licenses allow this and are they compatible?
 
 Chardet is licensed under a weak copyleft license, so it can be redistributed under the terms of that license.
 Derivative works can be licensed under any license, but the LGPL v2.1 does require that the recipient can (and is allowed to) modify the library and use the modified library with the derivative work.
@@ -278,7 +278,7 @@ The Apache license and the LGPL explicitly state that it is not for the purpose 
 
 As they are developed separately and there is no code from unidecode in the xtas code, we assume here that it is not a derivative work.
 
-#### Can the works be distributed, that is do the licenses allow this and are they compatible?
+#### Can the derivative works be distributed? Do the licenses allow this and are they compatible?
 
 Unidecode is licensed under a strong copyleft license, so it can be redistributed under the terms of that license. Derivative works must be licensed under the same license.
 
@@ -295,8 +295,8 @@ The xtas Python code can be licensed in any way they want.
 The xtas authors should choose a license for the xtas Python code that is compatible with at least one of the licenses that unidecode can be distributed under, so that others can assemble and distribute combined works.
 The ALv2, is compatible with the GPLv3 (but not with the GPLv2, for technical reasons), so they can use it here.
 
-The combined work should then be licensed under the GPL version 3 or later.
-If it is important that it can be used under the GPLv2 as well, then the xtas authors can license the xtas Python code under both the ALv2 and the GPLv2 (that is they offer both licenses, and the user can choose to accept either or both), and the combined work under the GPL version 2 or later.
+The combined work should then be licensed under the GPL version 3 or later. 
+If it is important that it can be used under the GPLv2 as well, then the xtas authors can license the xtas Python code under both the ALv2 and the GPLv2 (meaning, they offer both licenses, and the user can choose to accept either or both), and the combined work under the GPL version 2 or later.
 
 Finally, if it is decided at some point in the future that the xtas Python source code is a derivative work of unidecode because it calls into it.
 Even if none of unidecode is included in the work, then the xtas authors must distribute the xtas Python code under at least one of the GPL licenses that unidecode is distributed under.
@@ -319,7 +319,7 @@ Now, we will consider all three of the above examples at the same time.
 
 There are five works: Snowball, chardet, unidecode, the xtas Python code, and xtas the combined work. The combined work is derived from all its components.
 
-#### Can the works be distributed, that is do the licenses allow this and are they compatible?
+#### Can the derivetive works be distributed? Do the licenses allow this and are they compatible?
 
 The four components are under Free Software licenses, and/or the xtas authors own the copyright, so they can be distributed.
 The BSD, LGPLv2.1 and GPLv2+ all allow licensing the combined work under the GPL version 2 or higher, so there is at least one license that the combined work can be licensed under.
@@ -371,7 +371,7 @@ DALES is published under the GPL version 3.
 
 There are four works: OpenIFS, DALES, the rest of the program written by us, and the combination of them all. The combined work is derived from its components.
 
-#### Can the works be distributed, that is do the licenses allow this and are they compatible?
+#### Can the derivative works be distributed? Do the licenses allow this and are they compatible?
 
 The OpenIFS license does not allow redistribution, so it cannot be distributed. DALES can be distributed, under the GPLv3.
 The rest of the program is written by us and can be licensed by us if we want to.
