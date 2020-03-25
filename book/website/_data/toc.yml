@@ -59,6 +59,13 @@
     url: /open_research/07/resources
 - title: Version Control
   url: /version_control/version_control
+- title: Licensing
+  url: licensing/licensing
+  sections:
+  - title: Software licenses
+    url: licensing/01/softwarelicenses
+  - title: Data licenses
+    url: licensing/02/datalicenses
 - title: Collaborating on GitHub/GitLab
   url: /collaborating_github/collaborating_github
   sections:
