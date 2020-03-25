@@ -12,4 +12,4 @@ jobs:
     - uses: actions/checkout@v2
     - uses: futuratrepadeira/changed-files@v3.0.1
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
