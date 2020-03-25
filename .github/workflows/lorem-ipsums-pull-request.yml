@@ -9,7 +9,7 @@ jobs:
   loremipsums-pr:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2.0.5
+    - uses: actions/checkout@2.0.5
     - uses: lots0logs/gh-action-get-changed-files@2.0.6
       with:
         token: GITHUB_SECRET_TOKEN
