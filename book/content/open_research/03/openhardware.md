@@ -37,7 +37,7 @@ An appropriate license on the Open Hardware project and its content grant legal 
 These are the original source files that you would use to make modifications to the hardware's design.
 The act of sharing these files is the core practice of open source hardware.
 - Ideally, your open source hardware project would be designed using a free and open source software application, to maximize the ability of others to view and edit it.
-For better or worse however, hardware design files are often created in proprietary programs and stored in proprietary formats.
+For better or worse, hardware design files are often created in proprietary programs and stored in proprietary formats.
 It is still essential to share these original design files; they constitute the original "source code" for the hardware.
 They are the very files that someone will need in order to contribute changes to a given design.
 - Try to make your design files easy for someone else to understand. In particular, organize them in a logical way, comment complex aspects, and note any unusual manufacturing procedures.
