@@ -155,12 +155,12 @@ You can watch this short video for more information https://vimeo.com/97150912
 - To distinguish yourself from others with the same or a similar name;
 - To enable others to find all your outputs/related outputs so they can use and cite them
 - All your outputs will remain linked to your unique identifier even if you change your name or your institute. This way, you only have to enter the information once.
-- To access or sign up to services that utilise ORCID, such as publisher requirements, funding management portals (ResearchFish), and the CRIS (current research information system) system at your institute, like the [Zenodo](https://zenodo.org/) repository.
-- You can add your ORCID to your CV/resume so that anyone can have a look at all your research outputs. 
+- to access or sign up to services that utilise ORCID, for example publisher requirements, funding management portals (ResearchFish), the CRIS (current research information system) system at your institute, the Zenodo repository, et cetera.
+- you can add your ORCID to your CV/resume so that anyone can have a look at all your research outputs.
 
 ### How do you get an ORCID?
 You can sign up very quickly here: https://orcid.org/login
-Once you have signed up and verify your email address you can start adding in your outputs by importing them through [trusted organisations](https://support.orcid.org/hc/en-us/articles/360006973893) and [search and link wizards](https://support.orcid.org/hc/en-us/articles/360006973653-Add-works-by-direct-import-from-other-systems) 
+Once you have signed up and verify your email address you can start adding in your outputs by importing them through [trusted organisations](https://support.orcid.org/hc/en-us/articles/360006973893) and [search and link wizards](https://support.orcid.org/hc/en-us/articles/360006973653-Add-works-by-direct-import-from-other-systems)
 
 
 ### When do you use your ORCID?
