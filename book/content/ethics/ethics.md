@@ -14,7 +14,7 @@
 > why we think you should read the whole thing
 
 ## Chapter content
-> depending on the content, this might be more structured, for example, with exercises, gotcha sections etc
+> depending on the content, this might be more structured, for example, with exercises, and gotcha sections
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
