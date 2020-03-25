@@ -60,12 +60,12 @@
 - title: Version Control
   url: /version_control/version_control
 - title: Licensing
-  url: licensing/licensing
+  url: /licensing/licensing
   sections:
   - title: Software licenses
-    url: licensing/01/softwarelicenses
+    url: /licensing/01/softwarelicenses
   - title: Data licenses
-    url: licensing/02/datalicenses
+    url: /licensing/02/datalicenses
 - title: Collaborating on GitHub/GitLab
   url: /collaborating_github/collaborating_github
   sections:
@@ -80,22 +80,22 @@
 - title: Credit for reproducible research
   url: /credit/credit
 - title: Research Data Management
-  url: rdm/rdm
+  url: /rdm/rdm
   sections:
   - title: The FAIR principles and practices
-    url: rdm/fairprinciples
+    url: /rdm/fairprinciples
   - title: Storage and backup
-    url: rdm/storagebackup
+    url: /rdm/storagebackup
   - title: Data organisation in spreadsheets
-    url: rdm/spreadsheets
+    url: /rdm/spreadsheets
   - title: Documentation and metadata
-    url: rdm/docmetadata
+    url: /rdm/docmetadata
   - title: Sharing and archiving data
-    url: rdm/sharingarchiving
+    url: /rdm/sharingarchiving
   - title: Personal Stories
-    url: rdm/personalstories
+    url: /rdm/personalstories
   - title: Resources
-    url: rdm/resources
+    url: /rdm/resources
 - title: Reproducible Environments
   url: /reproducible_environments/reproducible_environments
   sections:
