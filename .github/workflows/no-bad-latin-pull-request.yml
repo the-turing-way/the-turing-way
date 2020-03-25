@@ -1,0 +1,36 @@
+name: No Bad Latin - pull request
+
+on:
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  nobadlatin-pr:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: List files in PR
+      run: |
+        URL="https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files"
+        FILES=$(curl -s -X GET -G $URL | jq -r '.[] | .filename')
+        echo "::set-env name=FILES::${FILES}"
+    - name: Filter files for /book/content/
+      run: |
+        BOOK_FILES=()
+        for FILE in $FILES ; do
+          if grep "^book/content/" "$FILE" ; then
+            BOOK_FILES+=("${FILE}")
+          fi
+        done
+        echo "::set-env name=BOOK_FILES::${BOOK_FILES}"
+    - name: Setup Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Run Python script to check for bad latin phrases
+      working-directory: ./tests
+      run: |
+        if [[ -n "${BOOK_FILES}" ]] ; then
+          python no-bad-latin.py --files "${BOOK_FILES}"
+        fi
