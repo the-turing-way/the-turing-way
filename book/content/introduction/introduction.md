@@ -13,7 +13,7 @@ If you would like to contribute please [get in touch](https://github.com/alan-tu
 
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
 Accordingly, everyone who participates in the _Turing Way_ project is expected to show respect and courtesy to other community members at all times.
-All contributions must abide by our [code of conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md)
+All contributions must abide by our [code of conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md).
 
 ## A little more background
 
@@ -75,5 +75,5 @@ DOIs allow us to archive the repository and they are really valuable to ensure t
 You can also share the human-readable URL to a page in the book, for example: [https://the-turing-way.netlify.com/reproducibility/03/definitions.html](https://the-turing-way.netlify.com/reproducibility/03/definitions.html), but be aware that the project is under development and therefore these links may change over time.
 You might want to include a [web archive link](http://web.archive.org) such as: [https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html](https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html) to make sure that you don't end up with broken links everywhere!
 
-We really appreciate any references that you make to _The Turing Way_ project in your and we hope it is useful.
+We really appreciate any references that you make to _The Turing Way_ project in your work and we hope it is useful.
 If you have any questions please [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch).

@@ -13,13 +13,13 @@ Naturally, we encourage readers to make use of the entire chapter, but readers s
 ## Summary
 
 Version control keeps track of different versions of a project and allows past versions to be accessed easily.
-It also allows different versions of a project to be merged with minimal input from the user.  
+It also allows different versions of a project to be merged with minimal input from the user.
 Version control is often associated with writing code, but it can also be used with writing projects.
-For example, if you are writing a paper with collaborators then version control is really important in helping you to see who has changed what.  
+For example, if you are writing a paper with collaborators then version control is really important in helping you to see who has changed what.
 Version control is used to some extent within many different programs, including ones you are likely to already be familiar with such as Word or Wordpress.
-There are numerous tools available for version control such as [Mercurial](https://www.mercurial-scm.org/) and [SVN](https://subversion.apache.org/).  
+There are numerous tools available for version control such as [Mercurial](https://www.mercurial-scm.org/) and [SVN](https://subversion.apache.org/).
 The best know one is Git (and its web-based version, [GitHub](https://github.com/), which aids collaboration between researchers) which the instructions given in this chapter will be geared towards.
-There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "[Further reading](#further_reading)" section at the end of the chapter).
+There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "[Further reading](#further-reading)" section at the end of the chapter).
 This chapter aims to cover the general principles underpinning all version control systems, and best practice which applies for using all such systems.
 
 ## How version control is helpful
@@ -66,11 +66,11 @@ Git will ask you to make a commit, other systems make ask you to make a timepoin
 
 Keep doing work and making more and more snapshots.
 You can think of these as savepoints - if you need to go back to any point in time because of a mistake, or changing your mind about a decision, you can go back to get a file as it was then, or just return your entire project to a past state.
-An illustration of this is shown in the figure below.  
+An illustration of this is shown in the figure below.
 
 ![master_branch](../figures/master_branch.png)
 
-In lots of version control systems you will be able to add a comment explaining what changes have been made in this version. 
+In lots of version control systems you will be able to add a comment explaining what changes have been made in this version.
 These comments should be as clear as possible and make it easy to understand which version is which.
 This ensures that it is easy to find what you are looking for when you need to go back to a past version.
 Your collaborators will thank you, but so will future versions of yourself.
@@ -104,7 +104,7 @@ This is helpful should you want to share your analysis (not only your data), and
 A version control system stores all your changes neatly away so while it is still easy to access them your working directory is not cluttered by the debris of versions past that it is necessary to keep just in case.
 Similarly with version control there is no need to leave chunks of code commented should you ever need to come back to an old version again.
 
-Finally version control is invaluable for collaborative projects where different people work on the same code simultaneously. 
+Finally version control is invaluable for collaborative projects where different people work on the same code simultaneously.
 It allows the changes made by different people to be tracked, and can automatically combine people's work via merging saving a great deal of painstaking effort to do so manually.
 Moreover, version control hosting websites, such as GitHub, provide way to communicate in a more structured way, such as in code reviews, about commits and about issues.
 
@@ -143,14 +143,14 @@ The full stop after `git add` above adds all changes to your staging area. So no
 git commit
 ```
 
-We will talk in more detail about these commands [later](#adding), but for now just know if you run them then congratulations, you have finished setting up you repository!
+We will talk in more detail about these commands [later](#commits), but for now just know if you run them then congratulations, you have finished setting up you repository!
 
 ## Commits
 
 ### The problem
 
 When working on a project you will make numerous changes to your files as you progress. Sometimes you may need to undo changes, take another look at past versions, or compare versions.
-Saving each version individually (version_1.py, version_2.py etc) is messy and quickly becomes impractical.
+Saving each version individually (such as `version_1.py` and `version_2.py`) is messy and quickly becomes impractical.
 
 ### The solution
 
@@ -159,20 +159,20 @@ Commits serve as checkpoints where individual files or an entire project can be 
 
 ### How to do it
 
-When you have made a series of changes and you want to commit them you fist add these changes to your staging area using `git add`.
+When you have made a series of changes and you want to commit them you first add these changes to your staging area using `git add`.
 You can add all your changes using:
 
-```  
+```
 git add .
 ```
 
 or you can add the changes to specific files via:
 
-```  
+```
 git add your_file_name
 ```
 
-If you are ever unsure what files have been added, what files have been changed, what files are untracked etc you can run the following to find out:
+If you are ever unsure what files have been added, what files have been changed, what files are untracked, you can run the following to find out:
 
 ```
 git status
@@ -228,7 +228,7 @@ So two files are affected, but "Add figure to version control chapter" is a sing
 
 To aid in making atomic commits it is good practice to **specify the files to be committed**, that is, adding files to the staging area by name (`git add your_file_name`) rather than adding everything (`git add .`). This prevents you from unintentionally bundling different changes together, for example if you have made a change to file A while primarily working on file B you may have forgotten this when you go to commit, and with `git add .` file A would be brought along for the ride.
 
-Finally, **do not commit anything that can be regenerated from other things that were committed unless it is something that would take hours to regenerate**. Generated files just clutter up your repository and may contain features such as timestamps that can cause annoying merge conflicts (see [below](#merge_conflicts)). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct Git to ignore certain files by creating a file called `.Gitignore` and including their names in it.
+Finally, **do not commit anything that can be regenerated from other things that were committed unless it is something that would take hours to regenerate**. Generated files just clutter up your repository and may contain features such as timestamps that can cause annoying merge conflicts (see [below](#merge-conflicts)). On a similar note you should not commit configuration files, specifically configuration files that might change from environment to environment. You can instruct Git to ignore certain files by creating a file called `.Gitignore` and including their names in it.
 
 ## Commit messages
 
@@ -236,7 +236,7 @@ Finally, **do not commit anything that can be regenerated from other things that
 
 As you work on you project you will make more and more commits.
 Without any other information it can be hard to remember which version of your project is in which.
-Storing past versions is useless if you ca not understand them, and figuring out what they contain by inspecting the code is frustrating and takes valuable time.  
+Storing past versions is useless if you can not understand them, and figuring out what they contain by inspecting the code is frustrating and takes valuable time.
 
 ### The solution
 
@@ -313,19 +313,19 @@ These data sources can be commits, branches, files and more.
 ### How to do it
 
 By default `git diff` will show you any uncommitted changes since the last commit.
-If you want to compare two specific things the syntax is
+If you want to compare two specific things the syntax is:
 
 ```
 git diff thing_a thing_b
 ```
 
-For example if you want to compare how a file has changed between two commits use `git log` to get the SHAs of those commits and run
+For example if you want to compare how a file has changed between two commits use `git log` to get the SHAs of those commits and run:
 
 ```
 git diff SHA_a:your_file_name SHA_b:your_file_name
 ```
 
-Or if you wanted to compare two branches it would be
+Or if you wanted to compare two branches it would be:
 
 ```
 git diff branch_name other_branch_name
@@ -352,7 +352,7 @@ There needs to be a way allow new work to be done on a project whilst protecting
 ### The solution
 
 Branches.
-At the start of this chapter an [overview](#branches_overview) was given of the concept of branches, but let's recap.
+At the start of this chapter an [overview](#other-facilities-offered-by-version-control) was given of the concept of branches, but let's recap.
 You have a project, and you make commits on it.
 By default you have one branch, called 'master'.
 Making a branch essentially makes a copy of your code which you can work on and continue to make commits to.
@@ -541,12 +541,12 @@ Before merging make sure you know what's in both branches, and if you are not th
 ### The problem
 
 When multiple people work on the same project (which is becoming more and more common as research becomes increasingly collaborative) it becomes difficult to keep track of what changes have been made and by who.
-It is also often difficult and time-consuming to manually incorporate the different participant's work into a whole even if all of their changes are compatible.  
+It is also often difficult and time-consuming to manually incorporate the different participant's work into a whole even if all of their changes are compatible.
 
 ### The solution
 
 Hosting the project on a distributed version control system such as GitHub.
-Collaborators can then clone the project and work on that copy making commits, branches, etc without impacting the original. 
+Collaborators can then clone the project and work on the cloned copy making commits and new branches without impacting the original repository.
 Collaborators can then *push* their work to each other, and *pull* other's work into their own copy.
 In this way it is easy to keep everyone up to date and to track what has been done and by who.
 GitHub also has numerous other handy features such as the ability to raise and assign issues, discuss the project via comments, and review each other's changes.
@@ -555,7 +555,7 @@ Making the entire project and its history available online in this was also has 
 
 1. Other researchers can re-use the work more easily.
 Rather than writing their own code to do what has already been written they can just use the original, which saves time.
-This also benefits the project's original authors as other researchers are much more likely to build on the work (and cite it) if a great deal of the work has already been done.   
+This also benefits the project's original authors as other researchers are much more likely to build on the work (and cite it) if a great deal of the work has already been done.
 2. The research will be much more reproducible if the entire history of the project can be tracked. This enables results to be verified more easily, which benefits science.
 
 ### How to do it
@@ -564,7 +564,7 @@ There are a number of GitHub tutorials available such as [this one](https://guid
 
 First make an account on [GitHub](https://GitHub.com/), and create a repository on it.
 To do this click the + sign dropdown menu in the upper right hand of the screen.
-Enter a name for the repository (ideally the same name as the project folder on your computer) and click Create Repository. 
+Enter a name for the repository (ideally the same name as the project folder on your computer) and click Create Repository.
 Now you just need to link the project on your computer to this online repository.
 If your project is not already version controlled then make it so by running `git init` and making a commit.
 In the terminal on your computer use:
@@ -627,7 +627,7 @@ A guide on how to do so is available [here](https://Git-scm.com/docs/Git-request
 ### Good practice
 
 In your GitHub repository you should **include a license** to allow others to re-use your work legally.
-GitHub makes this very easy, simply click the "Create new file" button, name it "License.md" and a drop down menu will appear offering you a selection to choose from. The legalese can seem intimidating however [this](https://choosealicense.com/) website offers a very simple mechanism to help you pick the best license for your project.
+GitHub makes this very easy, simply click the "Create new file" button, name it "License.md" and a drop down menu will appear offering you a selection to choose from. The legalese can seem intimidating however the [software licenses](/open_research/02/softwarelicenses) section offers high level overview of the different license types.
 
 You should also **include a readme file** where you include useful information about what the project is, how to use it and how to contribute to it.
 Switching between projects in your work is common, let alone that you might need to poke at your own previous projects from time to time.
@@ -635,11 +635,11 @@ This information will also assist you collaborators, and your future employer mi
 
 There are plenty of readme templates available online, pick one you like, but here is a list of the main things a readme should include:
 
-- The project name and what it is: This will greatly help the random prospective contributor to get an idea of the project. 
+- The project name and what it is: This will greatly help the random prospective contributor to get an idea of the project.
 Include a few key points that describe the main features of the project and what are the main features you are implementing.
 This helps to quickly compare other projects with yours and to give an idea that why the project exists in the first place.
 - Instructions on how to install the project: The installer might be a collaborator, someone that comes across and is interested in the project, or even you if you get a new machine and need to re-install your project.
-Nevertheless, it's a total waste of both of your resources to start figuring out how to just get started with the project. 
+Nevertheless, it's a total waste of both of your resources to start figuring out how to just get started with the project.
 This should also include any prerequisites that will be needed to run the project.
 The best thing you can do is to just write up the installation instructions when you first do them yourself, and you will quickly save hours of work in the future.
 - Instructions for how to run the project and any associated tests: If you have been working on your project it may seem obvious how to run it, but this will likely not be the case for someone coming across it for the first time.
@@ -648,7 +648,7 @@ The best thing you can do is to just write up the installation instructions when
 - Acknowledgements.
 
 It can be a good idea to **include documents outlining a code of conduct, agreed ways of working, and contributing guidelines**, though depending on the level of detail you want to provide the latter two can also work as sections within the readme.
-These documents make explicit expectations for those working on/contributing to the project, making life easier for everyone. 
+These documents make explicit expectations for those working on/contributing to the project, making life easier for everyone.
 Similarly depending on the scope of your project you may wish to **provide templates for how contributors should make pull requests or raise issues**.
 
 You can also **make use of one of GitHub's major features- issues**.
@@ -670,7 +670,7 @@ This also works for using commit messages to close issues too.
 | git add file_name             | Add changes to the specified file to the staging area to be committed    |
 | git commit                    | Commits staged changes and allows you to write a commit message          |
 | git checkout SHA              | Check out past commit with the given SHA                                 |
-| git checkout SHA -- file_name | Check out past version of a file from the commit with the given SHA      |  
+| git checkout SHA -- file_name | Check out past version of a file from the commit with the given SHA      |
 | git checkout -b branch_name   | Create and switch to a new branch                                        |
 | git checkout branch_name      | Switch to a specified branch                                             |
 | git merge branch_name         | Merge the branch you are on into the specified branch                    |
@@ -681,7 +681,7 @@ This also works for using commit messages to close issues too.
 | git log                       | Output a log of past commits with their commit messages                  |
 | git status                    | Output status including what branch you're on & what changes are staged  |
 | git diff                      | Output difference between working directory and most recent commit       |
-| git diff thing_a thing_b      | Output difference between two things e.g. commits, branches              |                     
+| git diff thing_a thing_b      | Output difference between two things, such as commits and branches       |
 
 ## Checklists
 
@@ -728,8 +728,8 @@ Many such skills are either also applicable for using version control well, for 
 
 ## Further reading
 
-- A free and very in depth book on Gits myriad of features can be found [here](https://Git-scm.com/book/en/v2).
-- A useful Git cheat sheet can be found [here](https://services.GitHub.com/on-demand/downloads/GitHub-Git-cheat-sheet.pdf).
+- A free and very in depth book on Git's myriad of features can be found [here](https://Git-scm.com/book/en/v2).
+- A useful Git cheat sheet can be found [here](https://education.github.com/git-cheat-sheet-education.pdf).
 - Interactive tutorials for familiarising yourself with GitHub can be found at [https://lab.github.com/](https://lab.github.com/).
 
 ## Definitions/glossary

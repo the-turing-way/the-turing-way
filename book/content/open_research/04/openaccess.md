@@ -78,6 +78,7 @@ Finally, if research is available to the widest possible pool of readers then it
 Self-archive a publication in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher, for example an embargo period, or limits on the allowed version to be deposited in such archives.
 In doing this it is important to make sure you are aware of the copyright implications of any documents/agreements you make when submitting your manuscript to a journal.
 If your institution does not have an institutional repository, advocate for the creation of one.
+You can check journal policies on self-archiving using [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php).
 
 #### Publication
 

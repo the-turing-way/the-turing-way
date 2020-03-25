@@ -4,9 +4,13 @@
 
 :dizzy::hatched_chick::sunny: _We're so excited you're here and want to contribute._ :sunny::hatched_chick::dizzy:
 
-The point of this guide is to **welcome new users and contributors to the Turing Way community**.
-We hope that these guidelines are designed to make it as easy as possible to get involved.
-Don't let trying to be perfect get in the way of being good - we welcome all contributions and would love it if you could follow these guidelines to make sure your contributions can be easily integrated but exciting ideas are more important than perfect pull requests. :heart:
+**We want to ensure that every user and contributor feels welcome and included to the Turing Way community**.
+
+We hope that this guideline document will make it as easy as possible for you to get involved.
+
+We welcome all contributions to this project via GitHub issues and pull requests. 
+Please follow these guidelines to make sure your contributions can be easily integrated in the projects. 
+As you start contributing to the Turing Way, don't forget that your ideas are more important than perfect pull requests. :heart:
 
 If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
 
@@ -41,16 +45,18 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 ## Joining the community
 
 The Turing Way is a community-oriented and -led project.
-We therefore require that all contributions **adhere to our [Code of Conduct](CODE_OF_CONDUCT.md)**.
+We therefore require that all our members and their contributions **adhere to our [Code of Conduct](CODE_OF_CONDUCT.md)**.
+Please familiarize yourself with the [Code of Conduct](CODE_OF_CONDUCT.md) that lists the expected behaviours and our reporting guidelines.
 
 ## Inclusivity
 
-This project aims to be inclusive to people from all walks of life and to all research fields.
-This should be taken into account in contributions.
+_The Turing Way_ aims to be inclusive to people from all walks of life and to all research fields.
+These intentions must be reflected in the contributions that we make to the project.
 
-The following are examples of inclusive actions that we encourage from contributors to the Turing Way:
+In addition to the Code of Conduct, we encourage intentional inclusive actions from contributors to _The Turing Way_.
+Here are a few examples of such actions:
 
-- Refer to "open research" rather than "open science" so that we do not exclude members of the humanities and social sciences from our community.
+- Refer to "open research" rather than only "open science" so that we do not exclude members of the humanities and social sciences from our community.
 - Make sure colour palettes are accessible to colour-blind readers and contributors.
   Here's a useful blog post on [tips for designing scientific figures for color blind readers](http://www.somersault1824.com/tips-for-designing-scientific-figures-for-color-blind-readers) by Luk at [Somersault 1824](http://www.somersault1824.com).
 
@@ -66,9 +72,10 @@ There are many ways to get in touch with the Turing Way team!
     Open a new issue!
     (See our [Where to start: issues](#where-to-start-issues) section below.)
 - Subscribe to our [mailing list](https://tinyletter.com/TuringWay) with which we send monthly project updates.
-- Check out the [#TuringWay](https://twitter.com/search?q=%23TuringWay&src=typed_query) hashtag on Twitter.
-- You can contact the PI of the Turing Way project - Kirstie Whitaker - by email at kwhitaker@turing.ac.uk.
-- You can also contact members of the Turing Way team through their preferred ways of communication [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/ways_of_working.md).
+- Follow [@turingway](https://twitter.com/turingway) on Twitter.
+- You can contact the Project Lead of _The Turing Way_ project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
+- You can contact the Community Manager of _The Turing Way_ project - Malvika Sharan - by email at [masharan@turing.ac.uk](mailto:masharan@turing.ac.uk).
+- You can also contact other members of the Turing Way through their preferred ways of communication [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/ways_of_working.md).
 
 ## Contributing through GitHub
 
