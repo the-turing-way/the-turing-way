@@ -1,0 +1,15 @@
+name: LoremIpsums
+
+on:
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  loremipsums-pr:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: lots0logs/gh-action-get-changed-files@2.0.6
+      with:
+        token: GITHUB_TOKEN
