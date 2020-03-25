@@ -14,4 +14,5 @@ jobs:
       uses: futuratrepadeira/changed-files@v3.0.1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-    - run: echo ${{ steps.GetFiles.outputs.files_updated }}
+    - run: echo "set-env name=FOO::${{ steps.GetFiles.outputs.files_updated }}"
+    - run: echo $FOO
