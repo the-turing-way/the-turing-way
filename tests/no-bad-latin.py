@@ -2,10 +2,26 @@
 import os
 import re
 import sys
+import argparse
 
 
 script_dir = os.path.dirname(__file__)
 directory_to_check = os.path.join(script_dir, "../book/content/")
+
+
+def parse_args():
+    """Parse an optional list of files to check"""
+    parser = argparse.ArgumentParser(
+        description="Parse an optional list of files to check"
+    )
+
+    parser.add_argument(
+        "--files",
+        nargs="+",
+        help="List of individual files to be checked (can be many)",
+    )
+
+    return parser.parse_args()
 
 
 def remove_comments(text_string):
@@ -111,8 +127,14 @@ def construct_error_message(files_dict):
 
 
 def main():
-    files = get_files(directory_to_check)
-    failing_files = read_and_check_files(files)
+    args = parse_args()
+
+    if args.files:
+        files = [os.path.join(os.pardir, file) for file in args.files]
+        failing_files = read_and_check_files(files)
+    else:
+        files = get_files(directory_to_check)
+        failing_files = read_and_check_files(files)
 
     if bool(failing_files):
         error_message = construct_error_message(failing_files)
