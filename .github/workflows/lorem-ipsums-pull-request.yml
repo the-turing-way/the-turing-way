@@ -13,6 +13,6 @@ jobs:
     - name: List files in PR
       run: |
         URL="https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files"
-        echo $URL
         FILES=$(curl -s -X GET -G $URL | jq -r '.[] | .filename')
-        echo $FILES
+        echo "set-env name=MODIFIED_FILES::$FILES"
+    - run: echo $MODIFIED_FILES
