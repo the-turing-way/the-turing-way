@@ -4,6 +4,7 @@
   ],
   "imageSize": 100,
   "contributorsPerLine": 7,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg)](#contributors)",
   "skipCi": true,
   "contributors": [
     {
@@ -685,6 +686,33 @@
         "ideas",
         "projectManagement",
         "review"
+      ]
+    },
+    {
+      "login": "EstherPlomp",
+      "name": "Esther",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/46314469?v=4",
+      "profile": "https://github.com/EstherPlomp",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "annahadji",
+      "name": "Anna Hadjitofi",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/14828356?v=4",
+      "profile": "https://github.com/annahadji",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "m-rivera",
+      "name": "m-rivera",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/22956181?v=4",
+      "profile": "https://github.com/m-rivera",
+      "contributions": [
+        "bug"
       ]
     }
   ],
