@@ -92,10 +92,6 @@ This project is openly developed and any and all questions, comments and recomme
 
 Read more about _The Turing Way_ in this [Turing Impact Story](https://www.turing.ac.uk/research/impact-stories/changing-culture-data-science).
 
-## About Project Jupyter
-
-[Project Jupyter](https://jupyter.org) is a non-profit project releasing 100% open-source software to support interactive data science and scientific computing across all programming languages.
-
 ## About Project Binder
 
 [Binder](https://mybinder.readthedocs.io/en/latest/about.html) is a community within Project Jupyter and received the [ACM Software System Award in 2017](https://awards.acm.org/award_winners/perez_9039634) for language agnostic tools which have become "a de facto standard for data analysis in research, education, journalism, and industry".
@@ -107,5 +103,9 @@ Binder currently serves over 120,000 sessions per week to a global user base.
 The mybinder.org service allows anyone to launch interactive computing environments in the cloud by simply clicking a link in their browser.
 Data scientists and researchers can then write, execute and share notebooks in their browser without having to configure anything.
 Project Binder supports Python, R, Julia and many more programming languages as well as interfaces.
+
+## About Project Jupyter
+
+[Project Jupyter](https://jupyter.org) is a non-profit project releasing 100% open-source software to support interactive data science and scientific computing across all programming languages.
 
 _The Turing Way is supported by The UKRI ASG funding under the EPSRC Grant EP/T001569/1, particularly the "Tools, Practices and Systems" theme within that grant, and by The Alan Turing Institute under the EPSRC grant EP/N510129/1_
