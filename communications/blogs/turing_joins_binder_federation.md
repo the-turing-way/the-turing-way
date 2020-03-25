@@ -22,8 +22,6 @@ However, learning all of these tools individually (let alone combining them toge
 [BinderHub](https://binderhub.readthedocs.io/en/latest/) is the computational infrastructure that coordinates all of these tools to provide an easy method of creating computing environments for scientific analyses that are reproducible and shareable with anyone, anywhere.
 It rewards reproducible data science and software engineering best practices, as it requires a version-controlled project with documented software dependencies in order to automatically generate the environment.
 
-Turing Research Fellow and lead developer of _The Turing Way_, [Dr Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), had the following comment on the BinderHub technology.
-
 > BinderHubs package together really fantastic tools like notebooks, docker, cloud computing resources, coordination engines, along with clear version control to deliver reproducible research at the click of a button.
 >
 > -- [Dr Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), Turing Research Fellow and lead developer of _The Turing Way_
