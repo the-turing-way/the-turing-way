@@ -91,12 +91,12 @@ You can watch this short video for more information https://vimeo.com/97150912
 - to distinguish yourself from others with the same or a similar name;
 - to enable others to find all your outputs/related outputs so they can use and cite them
 - All your outputs will remain linked to your unique identifier even if you change your name or your institute. This way, you only have to enter the information once.
-- to access or sign up to services that utilise ORCID, e.g. publisher requirements, funding management portals (ResearchFish), the CRIS (current research information system) system at your institute, the Zenodo repository, etc.
-- you can add your ORCID to your CV/resume so that anyone can have a look at all your research outputs. 
+- to access or sign up to services that utilise ORCID, for example publisher requirements, funding management portals (ResearchFish), the CRIS (current research information system) system at your institute, the Zenodo repository, et cetera.
+- you can add your ORCID to your CV/resume so that anyone can have a look at all your research outputs.
 
 ### How do you get an ORCID?
 You can sign up very quickly here: https://orcid.org/login
-Once you have signed up and verify your email address you can start adding in your outputs by importing them through [trusted organisations](https://support.orcid.org/hc/en-us/articles/360006973893) and [search and link wizards](https://support.orcid.org/hc/en-us/articles/360006973653-Add-works-by-direct-import-from-other-systems) 
+Once you have signed up and verify your email address you can start adding in your outputs by importing them through [trusted organisations](https://support.orcid.org/hc/en-us/articles/360006973893) and [search and link wizards](https://support.orcid.org/hc/en-us/articles/360006973653-Add-works-by-direct-import-from-other-systems)
 
 
 ### When do you use your ORCID?
@@ -151,7 +151,7 @@ You can use your ORCID iD whenever you’re prompted to do so, give your [truste
 
 - [FAIR data principles](https://www.force11.org/group/fairgroup/fairprinciples)
 - [FORCE11 Software Citation principles](https://www.force11.org/software-citation-principles)
-- [Getting Started with your ORCID record](https://support.orcid.org/hc/en-us/articles/360006896894-Getting-started-with-your-ORCID-record) 
+- [Getting Started with your ORCID record](https://support.orcid.org/hc/en-us/articles/360006896894-Getting-started-with-your-ORCID-record)
 - [OpenAIRE Guide on Person Identifiers](https://www.openaire.eu/how-can-identifiers-improve-the-dissemination-of-your-research-outputs)
 
 <!-- ## Definitions/glossary -->
