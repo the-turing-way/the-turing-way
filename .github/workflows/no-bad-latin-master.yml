@@ -1,21 +1,17 @@
 # Give your test a name!
-name: NoBadLatin
+name: No Bad Latin - master
 
 # Decide when to run the tests
 #
 # This configuration sets the test to run on pushes to master
-# and on pull requests that are opened to master
 on:
   push:
-    branches:
-      - master
-  pull_request:
     branches:
       - master
 
 # Set up the Continuous Integration job
 jobs:
-  nobadlatin:
+  nobadlatin-master:
     # Run on the latest Ubuntu distribution
     runs-on: ubuntu-latest
     # This section collects together the steps involved in running the test
