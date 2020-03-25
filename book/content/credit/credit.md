@@ -113,7 +113,7 @@ You should cite your dataset directly in the paper in places where it is relevan
 - “The data that support the findings will be available in [repository name] at [URL / DOI] following a [6 month] embargo from the date of publication to allow for commercialisation of research findings.” 
 
 **When data cannot be made available:**
-- “Restrictions apply to the data that support the findings of this study. [Explain nature of restrictions e.g. the data contains information that could compromise the privacy of research participants] Data are available upon reasonable request by contacting [name and contact details] and with permission of [third party name].” 
+- “Restrictions apply to the data that support the findings of this study. [Explain nature of restrictions, for example, if the data contains information that could compromise the privacy of research participants] Data are available upon reasonable request by contacting [name and contact details] and with permission of [third party name].” 
 -  “The data that support the findings of this study are available upon request. Access conditions and procedures can be found at [URL to restricted access repository such as [EASY](https://easy.dans.knaw.nl/ui/home).]”
 
 ## How to make software citeable?
@@ -141,7 +141,7 @@ You can watch this short video for more information https://vimeo.com/97150912
 - To distinguish yourself from others with the same or a similar name;
 - To enable others to find all your outputs/related outputs so they can use and cite them
 - All your outputs will remain linked to your unique identifier even if you change your name or your institute. This way, you only have to enter the information once.
-- To access or sign up to services that utilise ORCID, e.g. publisher requirements, funding management portals (ResearchFish), the CRIS (current research information system) system at your institute, the [Zenodo](https://zenodo.org/) repository, etc.
+- To access or sign up to services that utilise ORCID, such as publisher requirements, funding management portals (ResearchFish), and the CRIS (current research information system) system at your institute, like the [Zenodo](https://zenodo.org/) repository.
 - You can add your ORCID to your CV/resume so that anyone can have a look at all your research outputs. 
 
 ### How do you get an ORCID?
@@ -163,7 +163,7 @@ You can use your ORCID iD whenever you’re prompted to do so, give your [truste
     - Deposit it
   - Software
     - Deposit it (github isn't good enough)
-    - Software journals (e.g. [JORS][], [JOSS][])
+    - Software journals (for example, [JORS][], [JOSS][])
 - Citing stuff
   - Importance of using true citations
   - Different ways of citing
