@@ -30,23 +30,30 @@ Future work:
 
 ## Summary
 
-Reproducible research is great, but spending time on it will reduce the time you have available for activities by which researchers are traditionally measured, such as writing papers. But what if you could get credit for your reproducibility efforts as well?
+Reproducible research is great, but spending time on it will reduce the time you have available for activities by which researchers are traditionally measured, such as writing papers. 
+But what if you could get credit for your reproducibility efforts as well?
 
 ## How this will help you/ why this is useful
 
-Academic research is a reputation economy, and citations are the currency. Most research institutions' promotion and hiring criteria depend to a greater or lesser extent on your publishing record: how many articles you have published, how "important" the journals were, and how many times each article has been cited.
+Academic research is a reputation economy, and citations are the currency. 
+Most research institutions' promotion and hiring criteria depend to a greater or lesser extent on your publishing record: how many articles you have published, how "important" the journals were, and how many times each article has been cited.
 
-This is a well established practice, and while it has its problems at least all stakeholders understand what's involved. One of the consequences of this system is that labour which *doesn't* result in published articles tends to be ignored, discouraging researchers from making their data more open or specialising in software development.
+This is a well established practice, and while it has its problems at least all stakeholders understand what's involved. 
+One of the consequences of this system is that labour which *doesn't* result in published articles tends to be ignored, discouraging researchers from making their data more open or specialising in software development.
 
-Establishing good citation practice for non-article content is a step towards recognising this valuable work and encouraging more people to take it up. If you can demonstrate the impact of your reproducible research work in addition to more traditional research outputs, you can justify spending more time on doing things right.
+Establishing good citation practice for non-article content is a step towards recognising this valuable work and encouraging more people to take it up. 
+If you can demonstrate the impact of your reproducible research work in addition to more traditional research outputs, you can justify spending more time on doing things right.
 
 ## Making it easy to cite your stuff
 
-There are many reasons why authors don't cite the data and software that they use, but one of the biggest ones is that it's not clear how. You can go a long way to reducing this barrier by following a few steps to make it as easy as possible.
+There are many reasons why authors don't cite the data and software that they use, but one of the biggest ones is that it's not clear how. 
+You can go a long way to reducing this barrier by following a few steps to make it as easy as possible.
 
 ### Open research
 
-The first step is to ensure that you have something worth citing. Practising open research isn't essential to get credit for your data or software, but it makes it much easier for others to build on your work in a way that acknowledges your contribution. There is a growing body of evidence that shows open research tends to be cited more than non-open research of equivalent quality and significance.
+The first step is to ensure that you have something worth citing. 
+Practising open research isn't essential to get credit for your data or software, but it makes it much easier for others to build on your work in a way that acknowledges your contribution. 
+There is a growing body of evidence that shows open research tends to be cited more than non-open research of equivalent quality and significance.
 
 <!-- TODO: Cite relevant paper for this (Piwowar et al 2013?) -->
 Learn more about:
@@ -75,7 +82,9 @@ If possible, provide several formats: you won't need to update these very often 
 
 ### Publish in software & data journals
 
-It's perfectly possible to cite a dataset or software package directly, and most major publishers now permit this in their style guides. However, it can sometimes help to have a more conventional paper to cite, and this is where software and data journals come in. These journals are similar to methods journals, in that they tend not to include significant results but instead focus on describing data and software in sufficient detail to allow reuse. Some examples include:
+It's perfectly possible to cite a dataset or software package directly, and most major publishers now permit this in their style guides. 
+However, it can sometimes help to have a more conventional paper to cite, and this is where software and data journals come in. 
+These journals are similar to methods journals, in that they tend not to include significant results but instead focus on describing data and software in sufficient detail to allow reuse. Some examples include:
 
 - [Journal of Open Research Software][jors]
 - [Journal of Open Source Software][joss]
@@ -100,7 +109,8 @@ See also [this example](https://www.force11.org/node/4771) provided by FORCE11.
 
 ### Where to cite data in papers?
 
-You should cite your dataset directly in the paper in places where it is relevant, just like publications, as well as in a **data availability statement** at the end of the paper (similar to the acknowledgement section). You can find examples of these statements in the publishers' (research data) author policies, or below:
+You should cite your dataset directly in the paper in places where it is relevant, just like publications, as well as in a **data availability statement** at the end of the paper (similar to the acknowledgement section). 
+You can find examples of these statements in the publishers' (research data) author policies, or below:
     
 ### Data availability statement examples:
 **Using the Digital Object Identifier (DOI):**
@@ -113,12 +123,15 @@ You should cite your dataset directly in the paper in places where it is relevan
 - “The data that support the findings will be available in [repository name] at [URL / DOI] following a [6 month] embargo from the date of publication to allow for commercialisation of research findings.” 
 
 **When data cannot be made available:**
-- “Restrictions apply to the data that support the findings of this study. [Explain nature of restrictions, for example, if the data contains information that could compromise the privacy of research participants] Data are available upon reasonable request by contacting [name and contact details] and with permission of [third party name].” 
--  “The data that support the findings of this study are available upon request. Access conditions and procedures can be found at [URL to restricted access repository such as [EASY](https://easy.dans.knaw.nl/ui/home).]”
+- “Restrictions apply to the data that support the findings of this study. 
+[Explain nature of restrictions, for example, if the data contains information that could compromise the privacy of research participants] Data are available upon reasonable request by contacting [name and contact details] and with permission of [third party name].” 
+-  “The data that support the findings of this study are available upon request. 
+Access conditions and procedures can be found at [URL to restricted access repository such as [EASY](https://easy.dans.knaw.nl/ui/home).]”
 
 ## How to make software citeable?
 
-A software citation has a lot of the same elements as a data citation, described above, and are described in more detail in the [Software Citation Principles](https://www.force11.org/software-citation-principles). When using others software, it is vital to cite and attribute it properly. 
+A software citation has a lot of the same elements as a data citation, described above, and are described in more detail in the [Software Citation Principles](https://www.force11.org/software-citation-principles). 
+When using others software, it is vital to cite and attribute it properly. 
 
 To make your code citeable, you can use the integration between [Zenodo](https://zenodo.org/) and GitHub. 
  
@@ -126,7 +139,8 @@ To make your code citeable, you can use the integration between [Zenodo](https:/
 - Link your GitHub account with a Zenodo account. This guide explains [how](https://guides.github.com/activities/citable-code/).  
 - You can tell Zenodo what information or metadata you want to include with your software by adding a `zenodo.json` file, described [here](https://guide.esciencecenter.nl/citable_software/making_software_citable.html). 
 - On Zenodo, flip the swith to the 'on' position for the GitHub repository you want to release
-- On GitHub, click the *Create a new release* button. Zenodo should automatically be notified and should make a snapshot copy of the current state of your repository (just one branch, without any history), and should also assign a persistent identifier (DOI) to that snapshot.
+- On GitHub, click the *Create a new release* button. 
+Zenodo should automatically be notified and should make a snapshot copy of the current state of your repository (just one branch, without any history), and should also assign a persistent identifier (DOI) to that snapshot.
 - Use the DOI in any citations of your software and tell any collaborators and users to do the same!
 
 ## Making sure YOU get cited by using ORCID to increase your visibility
@@ -179,22 +193,22 @@ You can use your ORCID iD whenever you’re prompted to do so, give your [truste
 
 ### For authors
 
-- Pick out key datasets and software your conclusions rely on
-- Cite data and software just like you would cite a paper
-- Publish your own data/software and cite that too
-- Get an ORCID ID!
+- [ ] Pick out key datasets and software your conclusions rely on
+- [ ] Cite data and software just like you would cite a paper
+- [ ] Publish your own data/software and cite that too
+- [ ] Get an ORCID ID!
 
 ### For data creators
 
-- Deposit your data in a stable repository
-- Get a persistent identifier (DOI) for your data
-- Include an example citation in your dataset's README file
+- [ ] Deposit your data in a stable repository
+- [ ] Get a persistent identifier (DOI) for your data
+- [ ] Include an example citation in your dataset's README file
 
 ### For software developers
 
-- Deposit key version snapshots of your software in a stable repository
-- Get a distinct persistent identifier for each key version
-- Include an example citation in your software manual
+- [ ] Deposit key version snapshots of your software in a stable repository
+- [ ] Get a distinct persistent identifier for each key version
+- [ ] Include an example citation in your software manual
 
 <!-- ## What to learn next -->
 
