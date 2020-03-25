@@ -46,7 +46,7 @@ They are the very files that someone will need in order to contribute changes to
 #### Auxiliary design files
 Beyond the original design files, it is often helpful to share your design in additional, more accessible formats.
 For example, best practice open sourcing a CAD design is to share the design not just in its native file format, but also in a range of interchange and export formats that can be opened or imported by other CAD programs.
-- It is also helpful to provide ready-to-view outputs that can easily be viewed by end users who wish to understand (but not necessarily modify) the design.
+- It is also helpful to provide ready-to-view outputs that can easily be viewed by end-users who wish to understand (but not necessarily modify) the design.
 For example, a PDF of a circuit board schematic.
 These auxiliary design files allow people to study the design of the hardware, and sometimes even fabricate it, even without access to particular proprietary software packages.
 However, note that auxiliary design files are never recommended as substitutes for original design files.
