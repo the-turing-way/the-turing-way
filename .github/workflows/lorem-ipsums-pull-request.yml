@@ -18,6 +18,10 @@ jobs:
         echo ${MODIFIED_FILES}
     - name: Filter modified files for /book/content/
       run: |
+        BOOK_FILES=()
         for FILE in $MODIFIED_FILES ; do
-          echo ${FILE}
+          if grep "^book/content/" "$FILE" ; then
+            BOOK_FILES+=("${FILE}")
+          fi
         done
+        echo "${BOOK_FILES}"
