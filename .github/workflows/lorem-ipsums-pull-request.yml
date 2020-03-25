@@ -13,3 +13,4 @@ jobs:
     - uses: futuratrepadeira/changed-files@v3.0.1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
+    - run: echo ${{ outputs.files_updated }}
