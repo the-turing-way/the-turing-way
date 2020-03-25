@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: GetFiles
-      uses: futuratrepadeira/changed-files@v3.0.1
-      with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-    - run: echo "set-env name=FOO::${{ steps.GetFiles.outputs.files_updated }}"
-    - run: echo $FOO
+    - name: List files in PR
+      run: |
+        URL="https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files"
+        echo $URL
+        FILES=$(curl -s -X GET -G $URL | jq -r '.[] | .filename')
+        echo $FILES
