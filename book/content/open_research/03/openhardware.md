@@ -72,7 +72,7 @@ It is good to publish photographs from multiple viewpoints and at various stages
 #### Instructions and other explanations
 In addition to the design files themselves, there are a variety of explanations that are invaluable in helping others to make or modify your hardware:
 - Making the hardware: To help others make and modify your hardware design, you should provide instructions for going from your design files to the working physical hardware.
-As part of the instructions, it is helpful to link to datasheets for the components / parts of your hardware and to list the tools required to assemble it.
+As part of the instructions, it is helpful to link to datasheets for the components/parts of your hardware and to list the tools required to assemble it.
 If the design requires specialized tools, tell people where to get them.
 - Using the hardware: Once someone has made the hardware, they need to know how to use it.
 Provide instructions that explain what it does, how to set it up, and how to interact with it.
