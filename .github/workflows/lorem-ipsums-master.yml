@@ -1,5 +1,5 @@
 # Give your test a name!
-name: LoremIpsums
+name: Lorem Ipsums - master
 
 # Decide when to run the tests
 #
@@ -11,7 +11,7 @@ on:
 
 # Set up the Continuous Integration job
 jobs:
-  loremipsums:
+  loremipsums-master:
     # Run on the latest Ubuntu distribution
     runs-on: ubuntu-latest
     # This section collects together the steps involved in running the test
