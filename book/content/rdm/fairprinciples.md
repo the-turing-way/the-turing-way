@@ -62,8 +62,8 @@ should also regularly be updated as the research project progresses or diverge f
 
 Although started by a community operating in the life science, the FAIR principles have rapidly been adopted by
 publishers, funders, and pan-disciplinary infrastructure programmes and societies, in all disciplines. Many groups and
-organization are working to define guidance and tools to help researchers, as well as other stakeholders (librarians,
-funders, publishers, trainers et cetera) to make data FAIR and assess its FAIRness level.
+organization are working to define guidance and tools to help researchers, as well as other stakeholders (for example librarians,
+funders, publishers, trainers) to make data FAIR and assess its FAIRness level.
 
 This rapid uptake and community involvement, however, has also caused some confusion and ambiguity on what FAIRness is
 and how we can measure it. It is important to say that the FAIR principles are aspirational, in that they do not
