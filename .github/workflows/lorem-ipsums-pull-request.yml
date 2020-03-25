@@ -15,8 +15,9 @@ jobs:
         URL="https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files"
         FILES=$(curl -s -X GET -G $URL | jq -r '.[] | .filename')
         echo "::set-env name=MODIFIED_FILES::${FILES}"
+        echo ${MODIFIED_FILES}
     - name: Filter modified files for /book/content/
       run: |
-        for FILE in $(MODIFIED_FILES) ; do
+        for FILE in $MODIFIED_FILES ; do
           echo ${FILE}
         done
