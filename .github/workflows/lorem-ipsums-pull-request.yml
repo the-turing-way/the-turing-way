@@ -17,6 +17,6 @@ jobs:
         echo "::set-env name=MODIFIED_FILES::${FILES}"
     - name: Filter modified files for /book/content/
       run: |
-        for FILE in $(FILES) ; do
+        for FILE in $(MODIFIED_FILES) ; do
           echo ${FILE}
         done
