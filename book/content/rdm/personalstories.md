@@ -40,7 +40,7 @@ We need all hands on deck!
 
 There are many community efforts around FAIR; keeping abreast with these is an activity in itself.
 I spend considerable time to bring my group activities (such as [ISA](https://isa-tools.org) and [FAIRsharing](https://fairsharing.org)) in and under larger international umbrella organizations like
-[GOFAIR](https://www.go-fair.org/implementation-networks/overview/fair-strepo) and the [RDA](http://dx.doi.org/10.15497/RDA00030) to interact with others, learn from them, compare and contrast efforts and build new collaborations.
+[GO FAIR](https://www.go-fair.org/implementation-networks/overview/fair-strepo) and the [RDA](http://dx.doi.org/10.15497/RDA00030) to interact with others, learn from them, compare and contrast efforts and build new collaborations.
 I also play leading roles, seating on boards and chairing working groups with colleagues, because you must get your hands dirty and lead by example.
 
 In research data management, the history is the future.
