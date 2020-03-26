@@ -867,6 +867,15 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "FrancesMadden",
+      "name": "FrancesMadden",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/52208466?v=4",
+      "profile": "https://github.com/FrancesMadden",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
