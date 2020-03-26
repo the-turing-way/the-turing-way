@@ -867,6 +867,15 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "PabRod",
+      "name": "Pablo Rodríguez-Sánchez",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7677614?v=4",
+      "profile": "https://pabrod.github.io/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
