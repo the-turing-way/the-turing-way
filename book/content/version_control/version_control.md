@@ -723,7 +723,7 @@ This also works for using commit messages to close issues too.
 
 ## What to learn next
 
-Look into best practice for writing good quality code (for example, good naming conventions, informative comments, modular code structure).
+Look into [best practice for writing good quality code](../code_quality/code_quality) (for example, good naming conventions, informative comments, modular code structure).
 Many such skills are either also applicable for using version control well, for example, for writing good commit messages, or make using version control easier by keeping changes neat and localised.
 
 ## Further reading
