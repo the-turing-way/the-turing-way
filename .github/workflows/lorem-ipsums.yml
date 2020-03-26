@@ -36,5 +36,11 @@ jobs:
     # Run a Python script
     - name: Run Python script to check for rogue "Lorem ipsums"
       working-directory: ./tests
+      if: github.event.pull_request
+      run: |
+        python lorem-ipsums.py --pull-request ${{ github.event.pull_request.number }}
+    - name: Run Python script to check for rogue "Lorem ipsums"
+      working-directory: ./tests
+      if: github.event.push
       run: |
         python lorem-ipsums.py
