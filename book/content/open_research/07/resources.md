@@ -10,7 +10,7 @@
 ### Open source software
 
 - [ ] Put your code in a freely accessible repository.
-- [ ] Include a licence granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate licence for your project.
+- [ ] Include a licence granting others the right to use, copy and modify your work. You can use the [software licenses](/open_research/02/softwarelicenses) section to help you pick the most appropriate licence for your project.
 - [ ] Include a readme file containing useful information about a project such as what it is, how to use/install it and how to run any tests.
 - [ ] If you want others to collaborate on the project include contribution guidelines.
 
