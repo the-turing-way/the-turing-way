@@ -32,4 +32,4 @@ The following principles, provide some practical advice to ensure your data is c
 - Save the data in text files (such as .CSV - comma-separated values) to ensure interoperability with other software programmes.
 
 You can explain the file naming convention in a README.txt file, so that it will also become clear to others what the file names mean.
-To learn more about spreadsheet organisation, have a look at the Data Carpentry lessons for [Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/) and [Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
+To learn more about data organisation in spreadsheets, have a look at the Data Carpentry lessons for [Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/) and [Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
