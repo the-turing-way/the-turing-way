@@ -56,14 +56,16 @@
   - title: Open scholarship
     url: /open_research/06/openscholarship
   - title: Resources
-    url: open_research/07/resources
+    url: /open_research/07/resources
+- title: Version Control
+  url: /version_control/version_control
 - title: Licensing
-  url: licensing/licensing
+  url: /licensing/licensing
   sections:
   - title: Software licenses
-    url: licensing/01/softwarelicenses
+    url: /licensing/01/softwarelicenses
   - title: Data licenses
-    url: licensing/02/datalicenses
+    url: /licensing/02/datalicenses
 - title: Version Control
   url: /version_control/version_control
 - title: Collaborating on GitHub/GitLab
@@ -81,6 +83,21 @@
   url: /credit/credit
 - title: Research Data Management
   url: /rdm/rdm
+  sections:
+  - title: The FAIR principles and practices
+    url: /rdm/fairprinciples
+  - title: Storage and backup
+    url: /rdm/storagebackup
+  - title: Data organisation in spreadsheets
+    url: /rdm/spreadsheets
+  - title: Documentation and metadata
+    url: /rdm/docmetadata
+  - title: Sharing and archiving data
+    url: /rdm/sharingarchiving
+  - title: Personal Stories
+    url: /rdm/personalstories
+  - title: Resources
+    url: /rdm/resources
 - title: Reproducible Environments
   url: /reproducible_environments/reproducible_environments
   sections:
@@ -100,12 +117,14 @@
     url: /reproducible_environments/07/checklist
   - title: Resources
     url: /reproducible_environments/08/resources
+- title: Code quality
+  url: /code_quality/code_quality
 - title: Testing
   url: /testing/testing
 - title: Reviewing
   url: /reviewing/reviewing
   sections:
-  - title: How this will help you and why this is useful
+  - title: Importance of reviewing
     url: /reviewing/01/how_helpful
   - title: Best Practice
     url: /reviewing/02/best_practice
