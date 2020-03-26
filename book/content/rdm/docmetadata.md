@@ -12,4 +12,4 @@ For example, for brain data the [Brain Imaging Data Structure](https://doi.org/1
 - Data should be stored in logical and hierarchical folder structures with a README file used to describe the structure.
 
 The README file is helpful for others and will also help you find your data in the future {% cite Fuchs2018documentation %}.
-See [here](https://cornell.app.box.com/v/ReadmeTemplate) for an example.
+See [README template from Cornell](https://cornell.app.box.com/v/ReadmeTemplate) for an example.
