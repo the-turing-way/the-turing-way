@@ -867,6 +867,15 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "c-martinez",
+      "name": "Carlos Martinez",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7782231?v=4",
+      "profile": "https://github.com/c-martinez",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
