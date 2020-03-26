@@ -42,7 +42,7 @@ Basic tips for file naming:
 • File type
 • Researcher's name/initials
 • Version number of file (v001, v002) or language used in the document (ENG)
-• Don’t make file names too long (this can complicates file transfers)
+• Don’t make file names too long (this can complicate file transfers)
 • Avoid special characters (?\!@\*%{[<>) and spaces
 
 You can explain the file naming convention in a README.txt file, so that it will also become clear to others what the file names mean.
