@@ -70,7 +70,7 @@ def read_and_check_files(files):
 				  containing the offending line.
 	"""
     failing_files = {}
-    bad_latin = ["i.e.", "e.g.", "e.t.c.", " etc", " ie"]
+    bad_latin = ["i.e.", "e.g.", "e.t.c.", " etc", " ie", "et cetera"]
 
     for filename in files:
         with open(filename, encoding="utf8", errors="ignore") as f:
