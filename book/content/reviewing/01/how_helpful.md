@@ -28,7 +28,7 @@ Related to documentation, code review can also help to ensure that code is reada
 <a name="Style_enforcement"></a>
 ### Style enforcement
 
-Many projects enforce certain code style guidelines, be they widely-adopted standards (for example, [PEP8](https://www.python.org/dev/peps/pep-0008/), the [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)) or more project-specific conventions. Code review provides an opportunity to ensure all proposed changes meet the minimum require standards for the project.
+Many projects enforce certain [code style guidelines](../../code_quality/code_quality#coding-style), be they widely-adopted standards (for example, [PEP8](https://www.python.org/dev/peps/pep-0008/), the [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)) or more project-specific conventions. [Automated services](../../code_quality/code_quality#online-services-providing-software-quality-checks) provide a convenient way to enforce a coding style and start the discussion about code quality. Code review provides an opportunity to ensure all proposed changes meet the minimum require standards for the project.
 
 <a name="Group_knowledge_and_cohesion"></a>
 ### Group knowledge and cohesion
