@@ -75,5 +75,5 @@ DOIs allow us to archive the repository and they are really valuable to ensure t
 You can also share the human-readable URL to a page in the book, for example: [https://the-turing-way.netlify.com/reproducibility/03/definitions.html](https://the-turing-way.netlify.com/reproducibility/03/definitions.html), but be aware that the project is under development and therefore these links may change over time.
 You might want to include a [web archive link](http://web.archive.org) such as: [https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html](https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html) to make sure that you don't end up with broken links everywhere!
 
-We really appreciate any references that you make to _The Turing Way_ project in your and we hope it is useful.
+We really appreciate any references that you make to _The Turing Way_ project in your work and we hope it is useful.
 If you have any questions please [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch).
