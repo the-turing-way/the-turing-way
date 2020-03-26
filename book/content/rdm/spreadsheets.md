@@ -26,7 +26,7 @@ The following principles, provide some practical advice to ensure your data is c
 - Create a data dictionary
 - Don't include calculations in the raw data files: make the file with raw data read-only!
 - Don’t use font color or highlighting, consider adding another variable/column for this information
-- Choose good/clear names for observations and variables and make sure there are no spaces in names
+- Choose descriptinve names for observations and variables and make sure there are no spaces or special characters in the names
 - Make backups
 - Use data validation to avoid data entry mistakes
 - Save the data in text files (such as `.csv` - comma-separated values) to ensure interoperability with other software programmes.
