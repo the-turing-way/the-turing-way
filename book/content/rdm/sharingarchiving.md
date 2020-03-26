@@ -74,12 +74,9 @@ Participant information sheets and consent forms should include how research dat
 ## Anonymisation
 
 Individuals must be protected from (re)identification via their personal data used for research.
-Anonymisation of the
-data may be sufficient in some cases, but ensuring that re-identification is not possible is becoming increasingly
-difficult and might be impossible due to technical progress, growing computational power and – ironically – more open
-data.
-For example re-identification may be possible via data-mining of accessible data and so-called quasi-identifiers, a
-set of (common) properties that are – in their combination – so specific that they can be used to identify.
+Anonymisation of the data may be sufficient in some cases, but ensuring that re-identification is not possible is becoming increasingly difficult and might be impossible due to technical progress, growing computational power and – ironically – more open data.
+
+For example re-identification may be possible via data-mining of accessible data and so-called quasi-identifiers, a set of (common) properties that are – in their combination – so specific that they can be used to identify.
 Preserving privacy may still be possible if partial or generalised datasets are provided like age groups instead of birth date or only the first two digits of postal codes.
 It may also be possible to provide the data in such a format that researchers can query it whist keeping the data itself closed, for example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual data points.
 Another way to provide anonymised data is to provide [synthetic data](https://en.wikipedia.org/wiki/Synthetic_data), data generated to reflect the conditions and properties of the raw data without including any of the personal information.
