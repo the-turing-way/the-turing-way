@@ -44,7 +44,7 @@ def get_files_from_pr(pr_num):
         pr_num {str} -- Pull Request number to get modified files from
 
     Returns:
-        {list} -- This of modified filenames
+        {list} -- List of modified filenames
     """
     files = []
     pr_url = f"https://api.github.com/repos/alan-turing-institute/the-turing-way/pulls/{pr_num}/files"
