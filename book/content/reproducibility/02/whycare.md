@@ -15,7 +15,7 @@ By storing a complete track-record of our work, we can ensure research sustainab
 
 By designing reproducible workflows and sharing them with the different components of our research project, we can allow others to develop an in-depth understanding of our work. 
 This encourages them to review our methods, test our code, propose useful changes and make thoughtful contributions to develop our project further. 
-Reproducible workflows facilitate the peer review process tremendously by allowing reviewers access different parts of the projects that is neccessary for validating the research outcomes.
+Reproducible workflows facilitate the peer review process tremendously by allowing reviewers access to the different parts of the projects that are necessary to validate the research outcomes.
 
 **3. Publish validated research and avoid misinformation**
 
