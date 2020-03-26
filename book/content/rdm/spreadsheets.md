@@ -1,7 +1,7 @@
 # Using spreadsheets for research data
 
 Spreadsheets, such as Microsoft Excel files and its Open Source alternative [LibreOffice](www.libreoffice.org), are commonly used to collect, store, manipulate, analyse, and share research data.
-Spreadsheets are convenient and easy-to-use tools for these tasks but are not amenable to reproducibility
+Spreadsheets are convenient and easy-to-use tools for these tasks but are not facilitate reproducibility
 if used as dynamic documents.
 There is a collection of [horror-stories](http://www.eusprig.org/horror-stories.htm) that document the many ways that the use of spreadsheets have scuppered analyses due to unexpected behaviour or error-prone
 editing processes.
