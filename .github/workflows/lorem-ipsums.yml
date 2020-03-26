@@ -20,8 +20,6 @@ jobs:
     runs-on: ubuntu-latest
     # This section collects together the steps involved in running the test
     steps:
-    - run: |
-        echo ${{ github.event.name }}
     # Checkout the repository. Relies on another GH-Action.
     - uses: actions/checkout@v2
     # Set up the Python version. Relies on another GH-Action.
@@ -36,12 +34,13 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install -r requirements.txt
     # Run a Python script
-    - name: Run Python script to check for rogue "Lorem ipsums"
+    - name: Run Python script to check for rogue "Lorem ipsums" - Pull Request
       working-directory: ./tests
       if: github.event.pull_request
       run: |
         python lorem-ipsums.py --pull-request ${{ github.event.pull_request.number }}
-    - name: Run Python script to check for rogue "Lorem ipsums"
+
+    - name: Run Python script to check for rogue "Lorem ipsums" - Master
       working-directory: ./tests
       if: github.event.push
       run: |
