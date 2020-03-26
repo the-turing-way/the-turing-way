@@ -10,7 +10,7 @@ In our case, we will use ‘complexity’ and ‘impact’ as the two axes. Some
 
 Case 1
 
-> Richard needs to submit a 100 small jobs to the department cluster, with the names of the jobs varying according to a simple pattern. This is tedious and he wants to go outside and play. Therefore, Richard decides to write a short shell script to submit all the jobs. He pauses for a few seconds and asks:
+> Richard needs to submit 100 small jobs to the department cluster, with the names of the jobs varying according to a simple pattern. This is tedious and he wants to go outside and play. Therefore, Richard decides to write a short shell script to submit all the jobs. He pauses for a few seconds and asks:
 
 > How complicated is this? It’ll only be about 1 screen of text.
 
