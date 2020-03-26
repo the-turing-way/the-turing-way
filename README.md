@@ -1,12 +1,17 @@
 # The Turing Way
 
-[![Build Status](https://img.shields.io/travis/alan-turing-institute/the-turing-way/master?logo=travis)](https://travis-ci.org/alan-turing-institute/the-turing-way)
 [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com)
 [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
 [![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-70-orange.svg)](#contributors)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section --> [![All Contributors](https://img.shields.io/badge/all_contributors-76-orange.svg?style=flat-square)](#contributors-) <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+| Test | Status |
+| :--- | :--- |
+| Netlify build | [![Build Status](https://img.shields.io/travis/alan-turing-institute/the-turing-way/master?logo=travis)](https://travis-ci.org/alan-turing-institute/the-turing-way) |
+| No Latin Phrases | ![NoBadLatin](https://github.com/alan-turing-institute/the-turing-way/workflows/NoBadLatin/badge.svg) |
+| No Large Files | ![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg) |
+| No "_Lorem Ipsum_"s | ![LoremIpsums](https://github.com/alan-turing-institute/the-turing-way/workflows/LoremIpsums/badge.svg) |
 
 _The Turing Way_ is a lightly opinionated guide to reproducible data science.
 You can read it here: https://the-turing-way.netlify.com.
@@ -174,9 +179,25 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
     <td align="center"><a href="https://github.com/tonyyzy"><img src="https://avatars3.githubusercontent.com/u/38984697?v=4" width="100px;" alt=""/><br /><sub><b>Tony Yang</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=tonyyzy" title="Documentation">📖</a></td>
     <td align="center"><a href="http://yo-yehudi.com"><img src="https://avatars0.githubusercontent.com/u/9271438?v=4" width="100px;" alt=""/><br /><sub><b>Yo Yehudi</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=yochannah" title="Documentation">📖</a> <a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Ayochannah" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/malvikasharan"><img src="https://avatars0.githubusercontent.com/u/5370471?v=4" width="100px;" alt=""/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=malvikasharan" title="Documentation">📖</a> <a href="#eventOrganizing-malvikasharan" title="Event Organizing">📋</a> <a href="#ideas-malvikasharan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-malvikasharan" title="Project Management">📆</a> <a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Amalvikasharan" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/EstherPlomp"><img src="https://avatars1.githubusercontent.com/u/46314469?v=4" width="100px;" alt=""/><br /><sub><b>Esther</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3AEstherPlomp" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/JimMadge"><img src="https://avatars2.githubusercontent.com/u/23616154?v=4" width="100px;" alt=""/><br /><sub><b>Jim Madge</b></sub></a><br /><a href="#content-JimMadge" title="Content">🖋</a></td>
+    <td align="center"><a href="https://federiconanni.com/"><img src="https://avatars2.githubusercontent.com/u/8415204?v=4" width="100px;" alt=""/><br /><sub><b>Federico Nanni</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Afedenanni" title="Bug reports">🐛</a> <a href="#content-fedenanni" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://evelinag.com"><img src="https://avatars2.githubusercontent.com/u/5541162?v=4" width="100px;" alt=""/><br /><sub><b>Evelina Gabasova</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Aevelinag" title="Bug reports">🐛</a> <a href="#content-evelinag" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/nbarlowATI"><img src="https://avatars3.githubusercontent.com/u/33832774?v=4" width="100px;" alt=""/><br /><sub><b>nbarlowATI</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3AnbarlowATI" title="Bug reports">🐛</a> <a href="#content-nbarlowATI" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/radka-j"><img src="https://avatars0.githubusercontent.com/u/29207091?v=4" width="100px;" alt=""/><br /><sub><b>Radka Jersakova</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Aradka-j" title="Bug reports">🐛</a> <a href="#content-radka-j" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/nathanbegbie"><img src="https://avatars0.githubusercontent.com/u/7100966?v=4" width="100px;" alt=""/><br /><sub><b>nathanbegbie</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Anathanbegbie" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/EstherPlomp"><img src="https://avatars0.githubusercontent.com/u/46314469?v=4" width="100px;" alt=""/><br /><sub><b>Esther</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3AEstherPlomp" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/annahadji"><img src="https://avatars0.githubusercontent.com/u/14828356?v=4" width="100px;" alt=""/><br /><sub><b>Anna Hadjitofi</b></sub></a><br /><a href="#content-annahadji" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/m-rivera"><img src="https://avatars1.githubusercontent.com/u/22956181?v=4" width="100px;" alt=""/><br /><sub><b>m-rivera</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Am-rivera" title="Bug reports">🐛</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://twitter.com/HeidiBaya"><img src="https://avatars1.githubusercontent.com/u/14146757?v=4" width="100px;" alt=""/><br /><sub><b>Heidi Seibold</b></sub></a><br /><a href="#ideas-HeidiSeibold" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-HeidiSeibold" title="Content">🖋</a></td>
+    <td align="center"><a href="https://mbjoseph.github.io"><img src="https://avatars3.githubusercontent.com/u/2664564?v=4" width="100px;" alt=""/><br /><sub><b>Max Joseph</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Ambjoseph" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="http://martinagvilas.github.io"><img src="https://avatars2.githubusercontent.com/u/37339384?v=4" width="100px;" alt=""/><br /><sub><b>Martina G. Vilas</b></sub></a><br /><a href="#infra-martinagvilas" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://github.com/LauraCarter"><img src="https://avatars3.githubusercontent.com/u/16853500?v=4" width="100px;" alt=""/><br /><sub><b>Laura Carter</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3ALauraCarter" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3ALauraCarter" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/vdda"><img src="https://avatars1.githubusercontent.com/u/642451?v=4" width="100px;" alt=""/><br /><sub><b>Victoria Dominguez del Angel</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Avdda" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/kir0ul"><img src="https://avatars3.githubusercontent.com/u/6053592?v=4" width="100px;" alt=""/><br /><sub><b>kir0ul</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Akir0ul" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
