@@ -2,7 +2,8 @@
 
 The FAIR guiding principles for scientific data management and stewardship {% cite Wilkinson2016fair %} have been
 developed as guidelines to improve the findability, accessibility, interoperability and re-usability of digital assets;
-all of which will support research reproducibility. Importantly, the FAIR principles not only improve the reusability of data by humans, but also allow machines to automatically find and use digital objects.
+all of which will support research reproducibility. 
+Even though the FAIR principles have been defined to allow machines to automatically find and use digital objects, they improve the reusability of data by humans as well.
 The capacity of computational systems to find, access, interoperate, and reuse data, with none or minimal human intervention, is essential in today's data-driven era, where humans increasingly rely on computational support to deal with data as a result of the increase in [volume, velocity and
 variety](https://www.zdnet.com/article/volume-velocity-and-variety-understanding-the-three-vs-of-big-data/).
 
