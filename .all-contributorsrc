@@ -867,6 +867,15 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "dblana",
+      "name": "Dimitra Blana",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/13907429?v=4",
+      "profile": "https://dblana.github.io/",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
