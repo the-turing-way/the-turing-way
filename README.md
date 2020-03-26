@@ -192,6 +192,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
     <td align="center"><a href="https://github.com/m-rivera"><img src="https://avatars1.githubusercontent.com/u/22956181?v=4" width="100px;" alt=""/><br /><sub><b>m-rivera</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Am-rivera" title="Bug reports">🐛</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/vdda"><img src="https://avatars1.githubusercontent.com/u/642451?v=4" width="100px;" alt=""/><br /><sub><b>Victoria Dominguez del Angel</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Avdda" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/kir0ul"><img src="https://avatars3.githubusercontent.com/u/6053592?v=4" width="100px;" alt=""/><br /><sub><b>kir0ul</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Akir0ul" title="Bug reports">🐛</a></td>
   </tr>
 </table>
