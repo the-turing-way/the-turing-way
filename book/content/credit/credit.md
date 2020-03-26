@@ -113,7 +113,7 @@ You can use your ORCID iD whenever you’re prompted to do so, give your [truste
     - Deposit it
   - Software
     - Deposit it (github isn't good enough)
-    - Software journals (like [JORS][], [JOSS][])
+    - Software journals (like [JORS](https://openresearchsoftware.metajnl.com), [JOSS](https://joss.theoj.org))
 - Citing stuff
   - Importance of using true citations
   - Different ways of citing
