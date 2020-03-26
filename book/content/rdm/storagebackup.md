@@ -40,7 +40,7 @@ Structure your file names and set up a template for this.
 Basic tips for file naming:
 • Date or date range of experiment: YYYYMMDD
 • File type
-• Researcher name/initials
+• Researcher's name/initials
 • Version number of file (v001, v002) or language used in the document (ENG)
 • Don’t make file names too long (this can complicates file transfers)
 • Avoid special characters (?\!@\*%{[<>) and spaces
