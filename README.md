@@ -5,7 +5,7 @@
 [![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-86-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-87-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 | Test | Status |
@@ -150,7 +150,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
     <td align="center"><a href="https://github.com/effigies"><img src="https://avatars0.githubusercontent.com/u/83442?v=4" width="100px;" alt=""/><br /><sub><b>Chris Markiewicz</b></sub></a><br /><a href="#ideas-effigies" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/orchid00"><img src="https://avatars3.githubusercontent.com/u/9795785?v=4" width="100px;" alt=""/><br /><sub><b>Paula Andrea Martinez</b></sub></a><br /><a href="#ideas-orchid00" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/orchid00"><img src="https://avatars3.githubusercontent.com/u/9795785?v=4" width="100px;" alt=""/><br /><sub><b>Paula Andrea Martinez</b></sub></a><br /><a href="#ideas-orchid00" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Aorchid00" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/masonlr"><img src="https://avatars2.githubusercontent.com/u/5828176?v=4" width="100px;" alt=""/><br /><sub><b>Lachlan Mason</b></sub></a><br /><a href="#ideas-masonlr" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=masonlr" title="Documentation">📖</a> <a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=masonlr" title="Code">💻</a></td>
     <td align="center"><a href="http://rohitmidha23.github.io"><img src="https://avatars1.githubusercontent.com/u/38888530?v=4" width="100px;" alt=""/><br /><sub><b>Rohit Midha</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=RohitMidha23" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/jmoldon"><img src="https://avatars2.githubusercontent.com/u/1053066?v=4" width="100px;" alt=""/><br /><sub><b>Javier Moldon</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=jmoldon" title="Documentation">📖</a></td>
