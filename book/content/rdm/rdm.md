@@ -11,68 +11,33 @@ The following sections in this handbook provide useful context and complementary
 
 ## Table of Contents
 
-- [Research Data Management](#research-data-management)
-  - [Prerequisites / recommended skill level](#prerequisites--recommended-skill-level)
-  - [Table of Contents](#table-of-contents)
-  - [Summary](#summary)
-  - [How this will help you/ why this is useful](#how-this-will-help-you-why-this-is-useful)
-  - [Chapter content](#chapter-content)
-    - [What Is Data?](#what-is-data)
-    - [The Research Data Lifecycle - A Model for Data Management](#the-research-data-lifecycle---a-model-for-data-management)
-    - [The FAIR principles and practices](#the-fair-principles-and-practices)
-      - [Theory](#theory)
-      - [Tools and indicators](#tools-and-indicators)
-      - [Metadata and identifiers - community standards](#metadata-and-identifiers---community-standards)
-    - [Storage and backup](#storage-and-backup)
-      - [Where to store data](#where-to-store-data)
-      - [Backups](#backups)
-    - [Data organisation in spreadsheets](#data-organisation-in-spreadsheets)
-    - [Documentation and metadata](#documentation-and-metadata)
-    - [Sharing and archiving data](#sharing-and-archiving-data)
-      - [Motivations for sharing data](#motivations-for-sharing-data)
-    - [Steps to share your data](#steps-to-share-your-data)
-      - [Step 1: Select what data you want to share](#step-1-select-what-data-you-want-to-share)
-      - [Step 2: Choose a data repository or other sharing platform](#step-2-choose-a-data-repository-or-other-sharing-platform)
-      - [Step 3: Upload your data and documentation](#step-3-upload-your-data-and-documentation)
-      - [Step 4: Choose a licence and link to your paper and code](#step-4-choose-a-licence-and-link-to-your-paper-and-code)
-    - [Barriers to data sharing](#barriers-to-data-sharing)
-      - [Privacy and data protection](#privacy-and-data-protection)
-        - [Consent](#consent)
-        - [Anonymisation](#anonymisation)
-      - [National and commercially sensitive data](#national-and-commercially-sensitive-data)
-  - [Personal Stories](#personal-stories)
-    - [Susanna-Assunta Sansone: from FAIR co-author to FAIR doer](#susanna-assunta-sansone-from-fair-co-author-to-fair-doer)
-  - [Checklist](#checklist)
-  - [What to learn next](#what-to-learn-next)
-  - [Further reading](#further-reading)
-  - [Definitions/glossary](#definitionsglossary)
-  - [Bibliography](#bibliography)
+1. [The FAIR principles and practices](fairprinciples)
+2. [Storage and backup](storagebackup)
+3. [Data organisation in spreadsheets](spreadsheets)
+4. [Documentation and metadata](docmetadata)
+5. [Sharing and archiving data](sharingarchiving)
+6. [Personal Stories](personalstories)
+7. [Resources](resources)
 
-<a name="Summary"></a>
 
 ## Summary
 
 Research Data Management (RDM) covers how research data can be stored, described and reused. Data here is used as a
 generic term to encompass all digital objects. RDM is a key part in enabling reproducible research. RDM ensures
-efficiency in research workflows, and also [greater reach and impact](https://the-turing-way.netlify.com/credit/credit.html). Data should be stored in multiple locations and backed-up regularly to prevent loss or data corruption. Clearly describing data using documentation and metadata ensures that others know how to access, use and re-use your data, and also enable conditions for sharing and publishing data to be outlined.
-
-<a name="Why-useful"></a>
+efficiency in research workflows, and also greater reach and impact, as data become FAIR (Findable, Accessible,
+Interoperable and Reusable). Data should be stored in multiple locations and backed-up regularly to prevent loss or
+data corruption. Clearly describing data using documentation and metadata ensures that others know how to access, use
+and re-use your data, and also enable conditions for sharing and publishing data to be outlined.
 
 ## What are the benefits of Research Data Management?
 
-- Managing your data allows you to always find your data
-- Storing your data properly prevents data loss 
+- Managing your data allows you to always find your data and ensure the quality of scientific practice 
+- Storing your data properly and and backing-up regularly prevents data loss 
 - It can help with [recognition](https://the-turing-way.netlify.com/credit/credit.html) for all research outputs
 - It stimulates **collaboration** with others, who will find it easier to understand and reuse your data
-- Managing your data properly increases the quality of scientific practice 
 - RDM is cost/time efficient, as you will always be able to find and use your data
 
-
-## Chapter content
-
-<a name="What-Data"></a>
-
-### What Is Data?
+## What Is Data?
 
 Data are all digital objects that you use and produce during your research life cycle, encompassing datasets, software,
 code, workflow, models, figures, tables, images and videos, interviews, articles. Data are your research asset. In some fields it's obvious what data means - you have observations or results of simulations. However, in other fields, particularly in Social
@@ -81,9 +46,7 @@ might be classed as data that needs to be managed is to ask yourself the questio
 to use and write about in my paper or book?", "What information would I need to back up my conclusions?" and "What
 information is needed by others to understand and possibly replicate the research that I've done?". This information is your data.
 
-<a name="Data-Lifecycle"></a>
-
-### The Research Data Lifecycle - A Model for Data Management
+## The Research Data Lifecycle - A Model for Data Management
 
 Research data often follows a 'lifecycle' which follows the research project as it evolves; here is a
 [video](https://www.ukdataservice.ac.uk/manage-data/lifecycle.aspx) that describes it. This model provides a useful
@@ -93,8 +56,6 @@ future re-use once the project has ended.
 
 The research data lifecycle involves data creation, data use, data publication and sharing, data archiving and data
 re-use or destruction. However, data have a longer lifespan than the research project that creates them.
-
-<a name="FAIR"></a>
 
 ### The FAIR principles and practices
 
@@ -357,7 +318,7 @@ Similarly governments are often unwilling to publish data that relates to
 issues such as national security due to public safety concerns. In such cases it may not be possible to make data open,
 or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy.
 
-<a name="Personal-stories"></a>
+<a name="Personal-Stories"></a>
 
 ## Personal Stories
 
