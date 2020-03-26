@@ -35,7 +35,7 @@ You can also pull/download folder structures using GitHub.
 
 Structure your file names and set up a template for this.
  It is very useful to start with the date (when the file was generated: YYYYMMDD) which will sort your files chronologically and also creates a unique identifier for each file.
- This process will be immediately clear if there are multiple files generated on the same day that will have to be given a version number –or “A, B”-, because otherwise overwriting would occurs if you store these files in the proper folder).
+ This process will be immediately clear if there are multiple files generated on the same day that will have to be given a version number –or “A, B”-, because otherwise overwriting would occur, if you store these files in the proper folder).
 
 Basic tips for file naming:
 • Date or date range of experiment: YYYYMMDD
