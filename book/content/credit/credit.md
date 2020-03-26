@@ -219,7 +219,7 @@ You can use your ORCID iD whenever you’re prompted to do so, give your [truste
 - [FORCE11 Data Citation principles](https://www.force11.org/datacitationprinciples)
 - [FORCE11 Software Citation principles](https://www.force11.org/software-citation-principles)
 - [Getting Started with your ORCID record](https://support.orcid.org/hc/en-us/articles/360006896894-Getting-started-with-your-ORCID-record) 
-- [Making sofware citeable](https://guide.esciencecenter.nl/citable_software/making_software_citable.html)
+- [Making software citeable](https://guide.esciencecenter.nl/citable_software/making_software_citable.html)
 - [OpenAIRE Guide on Person Identifiers](https://www.openaire.eu/how-can-identifiers-improve-the-dissemination-of-your-research-outputs)
 
 <!-- ## Definitions/glossary -->
