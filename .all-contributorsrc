@@ -722,7 +722,7 @@
       "name": "nbarlowATI",
       "avatar_url": "https://avatars3.githubusercontent.com/u/33832774?v=4",
       "profile": "https://github.com/nbarlowATI",
-            "contributions": [
+      "contributions": [
         "bug",
         "content"
       ]
@@ -742,7 +742,7 @@
       "name": "nathanbegbie",
       "avatar_url": "https://avatars0.githubusercontent.com/u/7100966?v=4",
       "profile": "https://github.com/nathanbegbie",
-"contributions": [
+      "contributions": [
         "bug",
         "ideas"
       ]
@@ -827,7 +827,7 @@
       "name": "Victoria Dominguez del Angel",
       "avatar_url": "https://avatars1.githubusercontent.com/u/642451?v=4",
       "profile": "https://github.com/vdda",
-            "contributions": [
+      "contributions": [
         "bug"
       ]
     },
@@ -836,6 +836,15 @@
       "name": "kir0ul",
       "avatar_url": "https://avatars3.githubusercontent.com/u/6053592?v=4",
       "profile": "https://github.com/kir0ul",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "iamleeg",
+      "name": "Graham Lee",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/237254?v=4",
+      "profile": "https://labrary.online",
       "contributions": [
         "bug"
       ]
