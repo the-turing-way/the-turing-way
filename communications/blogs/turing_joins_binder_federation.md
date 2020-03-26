@@ -92,9 +92,7 @@ Read more about _The Turing Way_ in this [Turing Impact Story](https://www.turin
 
 ## About Project Binder
 
-[Binder](https://mybinder.readthedocs.io/en/latest/about.html) is a community within Project Jupyter and received the [ACM Software System Award in 2017](https://awards.acm.org/award_winners/perez_9039634) for language agnostic tools which have become "a de facto standard for data analysis in research, education, journalism, and industry".
-
-Project Binder started in 2015 and has grown ever since.
+[Binder](https://mybinder.readthedocs.io/en/latest/about.html) is a community within Project Jupyter that started in 2015 and has grown ever since.
 It is now a global community that operates [mybinder.org](https://mybinder.org) and develops the open-source software used to run it.
 Binder currently serves over 120,000 sessions per week to a global user base.
 
@@ -105,5 +103,6 @@ Project Binder supports Python, R, Julia and many more programming languages as 
 ## About Project Jupyter
 
 [Project Jupyter](https://jupyter.org) is a non-profit project releasing 100% open-source software to support interactive data science and scientific computing across all programming languages.
+It received the [ACM Software System Award in 2017](https://awards.acm.org/award_winners/perez_9039634) for language agnostic tools which have become "a de facto standard for data analysis in research, education, journalism, and industry".
 
 _The Turing Way is supported by The UKRI ASG funding under the EPSRC Grant EP/T001569/1, particularly the "Tools, Practices and Systems" theme within that grant, and by The Alan Turing Institute under the EPSRC grant EP/N510129/1_
