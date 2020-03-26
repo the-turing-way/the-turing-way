@@ -155,7 +155,7 @@ You can watch this short video for more information https://vimeo.com/97150912
 - To distinguish yourself from others with the same or a similar name;
 - To enable others to find all your outputs/related outputs so they can use and cite them
 - All your outputs will remain linked to your unique identifier even if you change your name or your institute. This way, you only have to enter the information once.
-- to access or sign up to services that utilise ORCID, for example publisher requirements, funding management portals (ResearchFish), the CRIS (current research information system) system at your institute, the Zenodo repository, et cetera.
+- to access or sign up to services that utilise ORCID, for example publisher requirements, funding management portals (ResearchFish), the CRIS (current research information system) system at your institute, the Zenodo repository, and so on.
 - you can add your ORCID to your CV/resume so that anyone can have a look at all your research outputs.
 
 ### How do you get an ORCID?
@@ -177,7 +177,8 @@ You can use your ORCID iD whenever you’re prompted to do so, give your [truste
     - Deposit it
   - Software
     - Deposit it (github isn't good enough)
-    - Software journals (for example, [JORS][], [JOSS][])
+
+    - Software journals (for example [JORS][], [JOSS][])
 - Citing stuff
   - Importance of using true citations
   - Different ways of citing

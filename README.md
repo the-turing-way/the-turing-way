@@ -1,12 +1,18 @@
 # The Turing Way
 
-[![Build Status](https://img.shields.io/travis/alan-turing-institute/the-turing-way/master?logo=travis)](https://travis-ci.org/alan-turing-institute/the-turing-way)
 [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com)
 [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
 [![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-70-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+| Test | Status |
+| :--- | :--- |
+| Netlify build | [![Build Status](https://img.shields.io/travis/alan-turing-institute/the-turing-way/master?logo=travis)](https://travis-ci.org/alan-turing-institute/the-turing-way) |
+| No Latin Phrases | ![NoBadLatin](https://github.com/alan-turing-institute/the-turing-way/workflows/NoBadLatin/badge.svg) |
+| No Large Files | ![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg) |
+| No "_Lorem Ipsum_"s | ![LoremIpsums](https://github.com/alan-turing-institute/the-turing-way/workflows/LoremIpsums/badge.svg) |
 
 _The Turing Way_ is a lightly opinionated guide to reproducible data science.
 You can read it here: https://the-turing-way.netlify.com.
