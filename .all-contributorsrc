@@ -4,6 +4,7 @@
   ],
   "imageSize": 100,
   "contributorsPerLine": 7,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg)](#contributors)",
   "skipCi": true,
   "contributors": [
     {
@@ -694,7 +695,64 @@
       "profile": "http://evelinag.com",
       "contributions": [
         "bug",
+      ]
+    },
+    {
+      "login": "nbarlowATI",
+      "name": "nbarlowATI",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/33832774?v=4",
+      "profile": "https://github.com/nbarlowATI",
+            "contributions": [
+        "bug",
         "content"
+      ]
+    },
+    {
+      "login": "radka-j",
+      "name": "Radka Jersakova",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/29207091?v=4",
+      "profile": "https://github.com/radka-j",
+      "contributions": [
+        "bug",
+        "content"
+      ]
+    },
+    {
+      "login": "nathanbegbie",
+      "name": "nathanbegbie",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7100966?v=4",
+      "profile": "https://github.com/nathanbegbie",
+"contributions": [
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "EstherPlomp",
+      "name": "Esther",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/46314469?v=4",
+      "profile": "https://github.com/EstherPlomp",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "annahadji",
+      "name": "Anna Hadjitofi",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/14828356?v=4",
+      "profile": "https://github.com/annahadji",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "m-rivera",
+      "name": "m-rivera",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/22956181?v=4",
+      "profile": "https://github.com/m-rivera",
+      "contributions": [
+        "bug"
       ]
     }
   ],
