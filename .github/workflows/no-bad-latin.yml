@@ -1,5 +1,5 @@
 # Give your test a name!
-name: No Latin Phrases
+name: Check for Latin Phrases
 
 # Decide when to run the tests
 #
@@ -15,7 +15,7 @@ on:
 
 # Set up the Continuous Integration job
 jobs:
-  no-latin-phrases:
+  latin-phrases:
     # Run on the latest Ubuntu distribution
     runs-on: ubuntu-latest
     # This section collects together the steps involved in running the test
