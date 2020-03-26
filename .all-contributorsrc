@@ -697,6 +697,44 @@
         "bug",
         "content"
       ]
+    },
+    {
+      "login": "nathanbegbie",
+      "name": "nathanbegbie",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7100966?v=4",
+      "profile": "https://github.com/nathanbegbie",
+"contributions": [
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "EstherPlomp",
+      "name": "Esther",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/46314469?v=4",
+      "profile": "https://github.com/EstherPlomp",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "annahadji",
+      "name": "Anna Hadjitofi",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/14828356?v=4",
+      "profile": "https://github.com/annahadji",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "m-rivera",
+      "name": "m-rivera",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/22956181?v=4",
+      "profile": "https://github.com/m-rivera",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
