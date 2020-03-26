@@ -86,5 +86,5 @@ Although also in this areas there is a lot of work in progress, and especially m
 You can use [FAIRsharing](https://fairsharing.org) as a lookup resource to identify and cite the metadata and/or
 identifier schemas, databases or repositories that exist for your data and discipline,
 for example, when creating a data management plan for a grant proposal or funded project;
-or when submitting a manuscript to a journal, to identify the recommended databases and repositories, as well as the standards they implement to ensure all relevant information about the data is collected at the source. FAIRsharing also operates under GOFAIR and the RDA,
+or when submitting a manuscript to a journal, to identify the recommended databases and repositories, as well as the standards they implement to ensure all relevant information about the data is collected at the source. FAIRsharing also operates under GO FAIR and the RDA,
 and is [widely adopted](https://fairsharing.org/communities) by publishers, funders, and other organizations; like any other FAIR-enabling resources, it will continue to evolve, better linking to DMP and FAIRness assessment tools, to better help you making data FAIR a reality.
