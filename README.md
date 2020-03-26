@@ -16,7 +16,7 @@
 | No "_Lorem Ipsum_"s | ![LoremIpsums](https://github.com/alan-turing-institute/the-turing-way/workflows/LoremIpsums/badge.svg) |
 
 _The Turing Way_ is a lightly opinionated guide to reproducible data science.
-You can read it here: https://the-turing-way.netlify.com.
+You can read it here: <https://the-turing-way.netlify.com>
 You're currently viewing the project GitHub repository where all of the bits that make up the guide live, and where the process of writing/building the guide happens.
 
 Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end.
@@ -24,12 +24,13 @@ Our goal is to provide all the information that researchers need at the start of
 This also means making sure PhD students, postdocs, PIs and funding teams know which parts of the "responsibility of reproducibility" they can affect, and what they should do to nudge data science to being more efficient, effective and understandable.
 
 Table of contents:
-* [About the project](#about-the-project)
-* [The team](#the-team)
-* [Contributing](#contributing)
-* [Citing _The Turing Way_](#citing-the-turing-way)
-* [Get in touch](#get-in-touch)
-* [Contributors](#contributors)
+
+- [About the project](#about-the-project)
+- [The team](#the-team)
+- [Contributing](#contributing)
+- [Citing _The Turing Way_](#citing-the-turing-way)
+- [Get in touch](#get-in-touch)
+- [Contributors](#contributors)
 
 🎧 If you prefer an audio introduction to the project, our team member Rachael presented at the [Open Science Fair 2019](https://www.opensciencefair.eu/) in Porto and her demo was recorded by the [Orion podcast](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
 _The Turing Way_ overview starts at minute 5:13.
@@ -43,7 +44,7 @@ This is sometimes easier said than done.
 Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. As these activities are not commonly taught, we recognise that the burden of requirement and new skill acquisition can be intimidating to individuals who are new to this world.
 *The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do" even for people who have never worked in this way before.
 It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
-This project is openly developed and any and all questions, comments and recommendations are welcome at our github repository: https://github.com/alan-turing-institute/the-turing-way.
+This project is openly developed and any and all questions, comments and recommendations are welcome at our github repository: <https://github.com/alan-turing-institute/the-turing-way>.
 
 ### The team
 
@@ -67,21 +68,21 @@ DOIs allow us to archive the repository and they are really valuable to ensure t
 
 The citation will look something like:
 
-> The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. http://doi.org/10.5281/zenodo.3233986
+> The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. <http://doi.org/10.5281/zenodo.3233986>
 
-You can also share the human-readable URL to a page in the book, for example: https://the-turing-way.netlify.com/reproducibility/03/definitions.html, but be aware that the project is under development and therefore these links may change over time.
-You might want to include a web archive link such as: https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html to make sure that you don't end up with broken links everywhere!
+You can also share the human-readable URL to a page in the book, for example: <https://the-turing-way.netlify.com/reproducibility/03/definitions.html>, but be aware that the project is under development and therefore these links may change over time.
+You might want to include a web archive link such as: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> to make sure that you don't end up with broken links everywhere!
 
 We really appreciate any references that you make to _The Turing Way_ project in your and we hope it is useful.
 If you have any questions please [get in touch](#get-in-touch).
 
 ### Get in touch
 
-We have a gitter chat room and we'd love for you to swing by to say hello at https://gitter.im/alan-turing-institute/the-turing-way.
+We have a gitter chat room and we'd love for you to swing by to say hello at <https://gitter.im/alan-turing-institute/the-turing-way>.
 That room is also synchronised with [Matrix](https://matrix.org) at [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) and you're welcome to join us there if you prefer.
 
 We also have a tiny letter mailing list to which we send monthly project updates.
-Subscribe at https://tinyletter.com/TuringWay.
+Subscribe at <https://tinyletter.com/TuringWay>.
 
 You can contact our community manager **Malvika Sharan** by email at [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 Alternatively, you can contact the lead investigator **Kirstie Whitaker** by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
