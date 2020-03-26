@@ -39,7 +39,7 @@ This fair credit system encourages researchers to further maintain reproducibili
 
 By following guidelines for reproducibility, we can easily communicate our work with different stakeholders such as our supervisors, funders, reviewers, students, and potential collaborators. 
 This aspect of reproducibility increases the usefulness of our research by enabling others to easily build on our results, and re-use our research materials {% cite MozillaScienceLab %}. 
-This ensures the continuity of a research idea and can even find their applications in different contexts. 
+This ensures the continuity of a research idea and can even find fresh applications in other contexts. 
 Progress of such projects can easily be tracked and continued - either by other researchers, or yourself if you want to build on your own work after a longer period {% cite Markowetz2015 %}.
 
 To learn about other benefits of working reproducibly on Open Research projects are covered in our [Open Research](../open_research/open_research) chapter.
