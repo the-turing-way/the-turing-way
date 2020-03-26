@@ -689,12 +689,23 @@
       ]
     },
     {
+      "login": "nathanbegbie",
+      "name": "nathanbegbie",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7100966?v=4",
+      "profile": "https://github.com/nathanbegbie",
+"contributions": [
+        "bug",
+        "ideas"
+      ]
+    },
+    {
       "login": "EstherPlomp",
       "name": "Esther",
       "avatar_url": "https://avatars1.githubusercontent.com/u/46314469?v=4",
       "profile": "https://github.com/EstherPlomp",
       "contributions": [
-        "bug"
+        "bug",
+        "ideas"
       ]
     },
     {
