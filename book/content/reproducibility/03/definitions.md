@@ -40,7 +40,7 @@ The different dimensions of reproducible research described in the matrix above 
 - **Generalisable:** Combining replicable and robust findings allow us to form generalisable results.
   Note that running an analysis on a different software implementation and with a different dataset does not provide _generalised_ results.
   There will be many more steps to know how well the work applies to all the different aspects of the research question.
-  Generalised is an important step towards understanding that the result is not dependent on a particular dataset nor a particular version of the analysis pipeline.
+  Generalisation is an important step towards understanding that the result is not dependent on a particular dataset nor a particular version of the analysis pipeline.
 
 More information on these definitions can be found in ["Reproducibility vs. Replicability: A Brief History of a Confused Terminology" by Hans E. Plesser](https://www.frontiersin.org/articles/10.3389/fninf.2017.00076/full).
 
