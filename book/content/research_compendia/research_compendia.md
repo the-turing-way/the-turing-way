@@ -39,7 +39,7 @@ Executable research compendia aim to make the computational part of a scientific
 
 Three principles should be kept in mind when constructing a research compendium. {% cite Marwick2018compendia %}
 
-- Files should organized in a conventional folder structure;
+- Files should be organized in a conventional folder structure;
 - Data, methods, and output should be clearly separated;
 - The computational environment should be specified.
 
@@ -122,7 +122,7 @@ There are several options to publish a research compendium:
 
 For examples, see the label/tag/community "research-compendium" (applied on GitHub, Zenodo, OSF) or as a fallback the term "research compendium" in the description (used on GitLab). For more info, see also https://research-compendium.science.
 
-In the future, the research compendium may even be the publication itself which is being peer reviewed (rather that just peer reviewing the paper, why not review the entire research project).
+In the future, the research compendium may even be the publication itself which is being peer reviewed (rather than just peer reviewing the paper, why not review the entire research project).
 
 
 ### Using a research compendium
