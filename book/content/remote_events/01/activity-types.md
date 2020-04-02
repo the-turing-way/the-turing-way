@@ -4,6 +4,65 @@
 - [Presentation/Talk Sessions](#presentationtalk-sessions)
 - [Prototyping or Ideas Generation Session](#prototyping-or-ideas-generation-session)
 
+## Panel discussion
+
+A panel discussion is an activity where a group of people -- the *panel* -- discuss a topic in front of an audience.
+Panel discussions usually address a specific topic, and the panel will often include people with knowledge on the topic that is discussed.
+
+At in-person events, panel discussions are usually led by a moderator, who has a number of tasks:
+
+- Introducing the topic that is being discussed;
+- introducing the members of the panel;
+- explaining the rules of the discussion to the panel and the audience,
+such as the order in which members are asked to answer a question, or time limits and other rules for giving answers;
+- moderating the discussion, for example by asking specific people specific questions.
+
+After some rounds of questions from the moderator to the panel, the discussion is often opened up to the audience, members of which can then ask the panel further questions.
+It is, agagin, the task of the moderator to pick the people to ask questions, and to moderate answers.
+
+Sometimes, answers are collected during the discussion in a collaboratively edited online document.
+There are also dedicated discussion apps which can be used to collect, rate, and moderate questions during the discussion.
+
+At in-person events, panel discussions usually take place in a lecture theatre or auditorium where technical considerations need to be taken into account, such as:
+
+- Are there enough microphones available to amplify the panel members so the audience can hear clearly and comfortably?
+Ideally, each panelist and the moderator each have their own microphone.
+- Is there a session helper available in case microphones need to be passed between panelists?
+- Are the microphones controlled by the panelists, or can they be switched off by a technical helper?
+This can be important in case of technical difficulties such as feedback, or if panel members do not adhere to the rules set by the moderator.
+- Can the panel be seen from anywhere in the room?
+- Time-tracking. Is there a clock for the moderator to track answer times and the overall time, or is a session chair providing that feedback?
+- How are questions being gathered for the open discussion with the audience (if applicable)?
+
+When we move such panel discussions online, some of the same considerations also apply but may require different solutions, whereas others only apply when running a panel discussion online.
+
+### Requirements
+
+There are certain tools and must-haves to ensure the successful hosting of a remote panel discussion.
+
+- A stable video conferencing service that can either display the moderator and all panelists at once, or that has a function which will show the currently speaking person on the screen. It should also have moderation functionality for muting other participants.
+- A method of collecting questions from the audience.
+- Optionally, a method of letting the audience vote on the most interesting questions which should be answered by the panelists.
+- A process and/or tool for time-keeping.
+- A place to test equipment and features, such as microphones and screen sharing.
+
+### Solutions
+
+- **Most video conferencing solutions** can display more than one speaker at once, or focus the currently speaking participant. The software usually also provides a moderation function (sometimes called "host"), which allows this role to switch of participants' microphones and video.
+- **Collaborative platforms for collating questions:** In a remote scenario, asking the audience to write down their questions in a collaborative document is beneficial as this will make it difficult for one person to dominate the Q&A session. However, typical document processing solutions may quickly become convoluted, and questions may be unwantedly deleted, both on purpose or inadvertently. It is better to use a dedicated tool for collecting questions. These also usually provide a way for the audience to upvote interesting questions, so that the most interesting questions can be answered first. They also make it easy for organisers/chairs to monitor whether questions abide by the Code of Conduct.
+- **Timing tools**, either in-browser software, or other hardware or software timers, make it easy for the moderator to keep track of time.
+- **One or more session helpers** can help the moderator with the evaluation and monitoring of audience questions, make sure that audience microphones stay muted, and assist audience members and panelists with technical difficulties.
+
+#### Available tools
+
+Most video conferencing solutions, such as [Zoom](https://zoom.us), [Jitsi](https://jitsi.org/jitsi-meet/) (open source), [Big Blue Button](https://bigbluebutton.org/) or even [Skype](https://www.skype.com/en/) can potentially be used for running online panel discussion. Make sure that you have a solution/plan in place which will work for the estimated number of participants. Some plans may offer a reduced feature set.
+
+[sli.do](https://www.sli.do/) is a platform for to collect questions for Q&A sessions.
+Users login to their event that can be split into sessions relating to each talk.
+They can then submit questions which can be upvoted by other users.
+A session chair can then moderate these question and pose them to the speaker.
+[Mentimeter](https://www.mentimeter.com/) is a more full-fledged presentation platform which also includes Q&A functionality where the audience can ask questions, and vote on questions.
+
 ## Presentation/Talk Sessions
 
 A presentation or talk is an activity where one person addresses a room on a topic using a slide deck as a means of supporting or expressing their point.
@@ -44,7 +103,7 @@ There are certain tools and must-haves to ensure the successful hosting of a rem
 - **In-browser timers:** An in-browser timer can be a useful way for a speaker/chair to track time during the presentation.
   They are lightweight, do not require installation and can easily be shared with participants and via screen sharing. For example, <http://amazingtimer.com/countdown_timer.php>.
 
-### Available Tools
+#### Available Tools
 
 - [Zoom](https://zoom.us) is a very popular video conferencing platform that includes screen sharing for multiple participants.
 Other benefits include support for a large number of participants, breakout rooms to facilitate discussions between smaller groups, and a chat feature.
@@ -100,4 +159,4 @@ There are several different types of online tools required for this type of even
 - Sharing concept and ideas eg picture boards (piminterest)
 - Navigation tools to allow the chair and participants to co-ordinate their activities easily
 
-### Available tools
+#### Available tools
