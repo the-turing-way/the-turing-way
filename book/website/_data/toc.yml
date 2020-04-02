@@ -145,5 +145,17 @@
     url: /risk_assessment/02/finalsummary
 - title: BinderHub
   url: /binderhub/binderhub
+- title: Collaborating at Online Events
+  url: /remote_events/intro
+  sections:
+  - title: Activity Types
+    url: /remote_events/01/intro
+    sections:
+    - title: Panel Discussion
+      url: /remote_events/01/01/panel-discussion
+    - title: Presentation/Talk Sessions
+      url: /remote_events/01/02/presentation-talk-sessions
+    - title: Prototyping or Ideas Generation Session
+      url: /remote_events/01/03/prototyping-ideas-generation
 - title: Glossary
   url: /glossary/glossary
