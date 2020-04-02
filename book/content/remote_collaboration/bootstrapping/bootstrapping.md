@@ -1,6 +1,3 @@
-<html><head>
-
-
 <!-- Load require.js. Delete this if your page already loads require.js -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js" integrity="sha256-Ae2Vz/4ePdIu6ZyI/5ZGsYnb+m0JlOmKPjt6XZ9JJkA=" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/@jupyter-widgets/html-manager@*/dist/embed-amd.js" crossorigin="anonymous"></script>
@@ -4093,8 +4090,6 @@
     }
 }
 </script>
-</head>
-<body>
 
 <script type="application/vnd.jupyter.widget-view+json">
 {
@@ -4112,5 +4107,3 @@
 }
 </script>
 
-</body>
-</html>
