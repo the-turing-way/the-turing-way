@@ -3,6 +3,7 @@
 - [Panel discussion](#panel-discussion)
 - [Presentation/Talk Sessions](#presentationtalk-sessions)
 - [Prototyping or Ideas Generation Session](#prototyping-or-ideas-generation-session)
+- [Workshops and Tutorials](#workshops-and-tutorials)
 
 ## Panel discussion
 
@@ -160,3 +161,31 @@ There are several different types of online tools required for this type of even
 - Navigation tools to allow the chair and participants to co-ordinate their activities easily
 
 #### Available tools
+
+## Workshops and Tutorials
+
+By a workshop of tutorial we mean a training event on a particular topic that runs typically from 90mins up to several days.
+Normally these will require more than a teacher lecturing but involve hands on work by the participants and so require that the participants understand what level of skills they have to know that they fit the prerequisits for the event.
+If the student is using their own computer then they may need to know information on system requirements and how it should be configured.
+
+### Requirements
+
+Usually at a workshop or tutorial there will be a combination of presentations and exercise sheets for the students to work from.
+Work shop or tutorials provided as a training event at work probably will be delivered using in a work environment will probably use a cluster where a system adminstrator has configured and installed the software and then the teacher tests the set up and makes sure the right versions of the materials and data are available to the students.
+This tends to reduce any problems during the delivery of the event but means that students struggle after as they amy not be able to re-create the required environment.
+For large groups there may be assistants to help the lead and the students students if they get stuck.
+If the workshop uses software with a complicated user interface or grapical views then the teacher will need to project thier screen so that all the students can see it.
+
+But for online events the workshop or tutorial can move into the cloud where the student uses a virtual environment that is configured by the teacher before hand.
+In the best case the student will be able to continue using this virtualised environment online after the event or download the configuration for this environment and install it in a virtual manager system such as VirtualBox.
+The data and other materials can be provided online and/or the students can download so they have a local copy.
+Presentations can be given through online meeting systems while complex unser interface actions can be captured through screen shot videos for the students to reference.
+When a student needs help both the teacher and student may need to share their screen with each other.
+
+### Solutions
+
+There are several different types of tools and environments needed for this type of event.
+Many of them are relevant to other activity types such as meetings and data stores e.g., zenodo to store data in a fully credited manor.
+The main factor here is for workshops and tutorials that teach programming languages of software packages.
+
+#### Available Tools
