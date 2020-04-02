@@ -149,28 +149,8 @@
   url: /remote_events/intro
   sections:
   - title: Activity Types
-    url: /remote_events/01/intro
-    sections:
-    - title: Panel Discussion
-      url: /remote_events/01/01/panel-discussion
-    - title: Presentation/Talk Sessions
-      url: /remote_events/01/02/presentation-talk-sessions
-    - title: Prototyping or Ideas Generation Session
-      url: /remote_events/01/03/prototyping-ideas-generation
+    url: /remote_events/01/activity-types
   - title: Social Interactions
-    url: /remote_events/02/intro
-    sections:
-    - title: Icebreakers
-      url: /remote_events/02/01/icebreakers
-    - title: Break-time chats
-      url: /remote_events/02/02/break-time-chats
-    - title: Cultural trips
-      url: /remote_events/02/03/cultural-trips
-    - title: Conference dinner
-      url: /remote_events/02/04/conference-dinner
-    - title: Only Online
-      url: /remote_events/02/05/only-online
-    - title: Conclusion
-      url: /remote_events/02/06/conclusion
+    url: /remote_events/02/social-interactions
 - title: Glossary
   url: /glossary/glossary
