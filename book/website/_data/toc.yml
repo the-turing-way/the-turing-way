@@ -161,7 +161,7 @@
     url: /remote_events/02/intro
     sections:
     - title: Icebreakers
-      url:/remote_events/02/01/icebreakers
+      url: /remote_events/02/01/icebreakers
     - title: Break-time chats
       url: /remote_events/02/02/break-time-chats
     - title: Cultural trips
