@@ -1,9 +1,34 @@
 # Activity Types
 
+- [Asyncronous Collaboration on a Text Document](#asyncronous-collaboration-on-a-text-document)
 - [Panel discussion](#panel-discussion)
 - [Presentation/Talk Sessions](#presentationtalk-sessions)
 - [Prototyping or Ideas Generation Session](#prototyping-or-ideas-generation-session)
 - [Workshops and Tutorials](#workshops-and-tutorials)
+
+## Asyncronous Collaboration on a Text Document
+
+By asynchronous collaboration on a text document we mean where 2 or more people write a document together such as a paper, technical report, funding application or blog post not simultaneously.
+
+### Requirements
+
+Usually, for asyncronious collaborative document writing the authors will continiuosly add to a document going through phases of brainstorming, planning, writing, spell/grammar checking, proof reading and editing.
+Not all of these phases will actually link to the document but may include meetings, phone calls, emails, mind mapping and diagram/image creating tools.
+The authors will need to keep track of the version that they are working on, who has contributed what and what has been proof read and edited by who and when.
+Some documents such as papers and funding application may also require strick formatting and word/character counts.
+
+But for online asynchronous collaboration on a text document the main focus is on writing and people tend to forget the other related activities.
+For generating text the most important functionality is the formatting and templating whether this fits with the final destination of the document.
+Mathematicians use systems that allow for the good formatting of mathematical notations such as latex while those who do not use matematical notations may prefer a traditional word processor.
+Along with this it is important to have accessibility features such as alter the font, background colour, read aloud as well as spell and grammar checking.
+Then comes versioning, tracking of edits and navigating the document.
+Now we can add features outside of the actual text document such as talking to the other authors, planning and structuring the document (eg mind mapping) and creating graphs/diagrams/figures.
+
+### Solutions
+
+There are several different
+
+#### Available tools
 
 ## Panel discussion
 
