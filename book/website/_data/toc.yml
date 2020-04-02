@@ -124,6 +124,8 @@
 - title: Remote Collaboration
   url: /remote_collaboration/remote_collaboration
   sections:
+  - title: Bootstrapping an Online Community
+    url: /remote_collaboration/bootstrapping/bootstrapping
   - title: Establishing Protocols
     url: /remote_collaboration/protocols/protocols
   - title: Managing Resources
