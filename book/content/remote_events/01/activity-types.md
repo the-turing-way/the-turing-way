@@ -2,6 +2,7 @@
 
 - [Asyncronous Collaboration on a Text Document](#asyncronous-collaboration-on-a-text-document)
 - [Panel discussion](#panel-discussion)
+- [Poster Sessions](#poster-sessions)
 - [Presentation/Talk Sessions](#presentationtalk-sessions)
 - [Prototyping or Ideas Generation Session](#prototyping-or-ideas-generation-session)
 - [Workshops and Tutorials](#workshops-and-tutorials)
@@ -88,6 +89,27 @@ Users login to their event that can be split into sessions relating to each talk
 They can then submit questions which can be upvoted by other users.
 A session chair can then moderate these question and pose them to the speaker.
 [Mentimeter](https://www.mentimeter.com/) is a more full-fledged presentation platform which also includes Q&A functionality where the audience can ask questions, and vote on questions.
+
+## Poster Sessions
+
+By a poster session we mean an event where posters on a similar topic are presented together at a larger event such as a conference.
+To some extent they are a networking activity as one or more authors of the poster stands by the poster during the session to talk to conference participants.
+
+### Requirements
+
+Usually poster sessions are a good way for early career researchers to present their work and become comfortable with their community although researchers of any career stage should publish posters.
+Often a conference will give a call for posters and an abstract for the content of the poster will be provided for review.
+The conference will provide a format which is often one page of A1 paper.
+At some conferences the poster or the abstract will count as a publication and be included in the proceedings.
+It is common for the conference organisers to place the poster session in an area where there is a high footfall so that the posters are seen by a large proportion of those who attend the conference.
+It is becoming popular to give the authors one minute to present the information in their poster to the conference.
+
+But for online events the social elements of psoter session are much more difficult to recreate.
+It is especially difficult to locate the posters somewhere with a hgih foot fall as the conference atendees do not walk and providing a gallery of rotating images does not mimic browsing or riffling and does not allow the author to connect with the audience.
+
+### Solutions
+
+#### Available Tools
 
 ## Presentation/Talk Sessions
 

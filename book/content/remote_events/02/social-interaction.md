@@ -52,6 +52,12 @@ Where can the online exhibits be found?
   - [Cremonese violin making](https://artsandculture.google.com/exhibit/cremonese-violin-making/gQFHhBg4)
   - [Discover 10 of the World's Zaniest Buildings](https://artsandculture.google.com/story/mAUhHW4vOVDErA)
   - [Exploring the Ripley Scroll](https://artsandculture.google.com/story/exploring-the-ripley-scroll/sgLCNEuJqIJzLg)
+  - [Discover 10 of the World's Zaniest Buildings](https://artsandculture.google.com/story/mAUhHW4vOVDErA)
+	- [Exploring the Ripley Scroll](https://artsandculture.google.com/story/exploring-the-ripley-scroll/sgLCNEuJqIJzLg)
+- Larger museums and art galleries often also have their own online collections and exhibition spaces:
+	- [The Louvre Museum](https://www.louvre.fr/en/visites-en-ligne)
+	- [Science Museum](https://collection.sciencemuseumgroup.org.uk/)
+	- [The British Museum](https://www.britishmuseum.org/collection/galleries)
 
 ## Conference dinner / pub trip
 
@@ -63,6 +69,10 @@ Here are some creative ways to have people interacting:
 
 - A "pub quiz" hosted by the event organisers.
   Bring families into the event with a family friendly pub quiz.
+- Pictionary.
+  Dividing into breakout rooms of around eight people, take it in turns to use the [Pictionary generator](https://randomwordgenerator.com/pictionary.php) to draw pictures on an online whiteboard.
+  The first to guess what is being drawn is the next to draw.
+  Count up the number of correct guesses to find a winner.
 
 ## Only online
 
