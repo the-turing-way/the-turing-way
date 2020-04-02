@@ -72,6 +72,13 @@ Some social interactions are best placed online! Here are some examples:
   Ask attendees to post a picture a day to a shared chat.
   Example challenges include: "What is the view out of your window?", "Best pet!" and "What have you been cooking?".
   Attendees could vote on a winner every day.
+- Setting conference software backgrounds.
+  If your chosen conferencing software allows users to choose backgrounds for their video image, let them know about this on the first day.
+  Fun and changing backgrounds often spark conversations.
+
+### Tools
+
+For all of the suggestions above, only your standard conferencing software (such as [Zoom](https://zoom.us/)), a chat facility (such as [Slack](https://slack.com)) and an online whiteboard (such as [Miro](https://miro.com/)) is required.
 
 ## Conclusion
 

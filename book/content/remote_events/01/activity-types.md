@@ -38,10 +38,10 @@ Panel discussions usually address a specific topic, and the panel will often inc
 At in-person events, panel discussions are usually led by a moderator, who has a number of tasks:
 
 - Introducing the topic that is being discussed;
-- introducing the members of the panel;
-- explaining the rules of the discussion to the panel and the audience,
+- Introducing the members of the panel;
+- Explaining the rules of the discussion to the panel and the audience,
 such as the order in which members are asked to answer a question, or time limits and other rules for giving answers;
-- moderating the discussion, for example by asking specific people specific questions.
+- Moderating the discussion, for example by asking specific people specific questions.
 
 After some rounds of questions from the moderator to the panel, the discussion is often opened up to the audience, members of which can then ask the panel further questions.
 It is, agagin, the task of the moderator to pick the people to ask questions, and to moderate answers.
@@ -56,7 +56,7 @@ Ideally, each panelist and the moderator each have their own microphone.
 - Is there a session helper available in case microphones need to be passed between panelists?
 - Are the microphones controlled by the panelists, or can they be switched off by a technical helper?
 This can be important in case of technical difficulties such as feedback, or if panel members do not adhere to the rules set by the moderator.
-- Can the panel be seen from anywhere in the room?
+- Can the panel be seen from everywhere in the room?
 - Time-tracking. Is there a clock for the moderator to track answer times and the overall time, or is a session chair providing that feedback?
 - How are questions being gathered for the open discussion with the audience (if applicable)?
 
@@ -105,7 +105,7 @@ At in-person events, presentations usually take place in a lecture theatre or au
 - Is there a microphone available to amplify the speaker so the audience can hear clearly and comfortably?
 - Does the projector/screen sufficiently display the slides? Is the correct connector provided?
 - Time-tracking. Is there a clock for the speaker to track time or is the session chair providing that feedback?
-- Are there extras the speaker may need, for example, a laser pointer?
+- Is there extra equipment the speaker may need, for example, a laser pointer?
 - How are questions being gathered for a Q&A session (if applicable)?
 
 When we move such talks and presentations online, we can be met with fundamentally similar problems but they may require different solutions given the different environment the presentation is taking place in and the different technologies that are being used.
@@ -114,9 +114,9 @@ When we move such talks and presentations online, we can be met with fundamental
 
 There are certain tools and must-haves to ensure the successful hosting of a remote presentation.
 
-- A stable video conferencing service that allows screen sharing
-- A method of collecting questions from the audience and feeding the answers back from the speaker
-- A process and/or tool for time-keeping
+- A stable video conferencing service that allows screen sharing.
+- A method of collecting questions from the audience and passing them to the speaker.
+- A process and/or tool for time-keeping.
 - A place to test equipment and features, such as microphones and screen sharing.
 
 ### Solutions
@@ -127,7 +127,7 @@ There are certain tools and must-haves to ensure the successful hosting of a rem
   Detailed instructions on how to record their presentation, what format the video should be in and who/where it should be shared are also important points speakers will want to be clear about.
 - **Collaborative platforms for collating questions:** In a remote scenario, asking the audience to write down their questions in a collaborative document is beneficial as this will make it difficult for one person to dominate the Q&A session, other audience members can "upvote" popular questions, and organisers/chairs can monitor whether the questions are abiding by the Code of Conduct.
 - **In-browser timers:** An in-browser timer can be a useful way for a speaker/chair to track time during the presentation.
-  They are lightweight, do not require installation and can easily be shared with participants and via screen sharing. For example, <http://amazingtimer.com/countdown_timer.php>.
+  They are lightweight, do not require installation and can easily be shared with participants and via screen sharing. For example, [Amazing Timer](http://amazingtimer.com/countdown_timer.php).
 
 #### Available Tools
 
