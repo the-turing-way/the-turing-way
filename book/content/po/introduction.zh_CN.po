@@ -30,7 +30,7 @@ msgstr "# 欢迎来到The Turing Way"
 msgid ""
 "_The Turing Way_ is a lightly opinionated guide to reproducible data "
 "science."
-msgstr "_The Turing Way_是一本稍带个人观点的，关于可再现数据科学的指导手册"
+msgstr "_The Turing Way_ 是一本稍带个人观点的，关于可再现数据科学的指导手册"
 
 #: introduction/introduction.md:5
 msgid ""
@@ -319,7 +319,7 @@ msgstr "![项目贡献者的姓名和图片](../figures/contributors-twopanel.pn
 # header
 #: introduction/introduction.md:64
 msgid "## Citing _The Turing Way_"
-msgstr "## 引用_The Turing Way_"
+msgstr "## 引用 _The Turing Way_"
 
 #: introduction/introduction.md:66
 msgid ""
@@ -327,8 +327,8 @@ msgid ""
 "using doi: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853)."
 msgstr ""
 "您可以通过doi: "
-"[10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853)在项目的Zenodo存档中引用_The"
-" Turing Way_。"
+"[10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853)在项目的Zenodo存档中引用"
+" _The Turing Way_。"
 
 #: introduction/introduction.md:68
 msgid "The citation will look something like:"
