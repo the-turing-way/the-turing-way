@@ -113,6 +113,20 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
 - [![binderhub](https://img.shields.io/badge/-binderhub-F37726.svg)](labels-binderhub) _These issues relate to documentation and resources around building a BinderHub._
 
+- [![book-build](https://img.shields.io/badge/-book%20build-8d7aef.svg)](labels-book-build) _These issues are related to the build of the book using jupyter-book. They are also related to the-turing-way-book repo._
+
+- [![book-dash-feb20](https://img.shields.io/badge/-book%20dash%20feb20-006b75.svg)](labels-book-dash-feb20) _These are to be used on issues and PR during/for the book dash in Feb 2020._
+
+- [![book-dash-ldn19](https://img.shields.io/badge/-book%20dash%20ldn19-e0b61f.svg)](labels-book-dash-ldn19) _These are issues related to contributions made during the London Book Dash in 2019._
+
+- [![book-dash-mcr19](https://img.shields.io/badge/-book%20dash%20mcr19-f2a9c1.svg)](labels-book-dash-mcr19) _These are issues related to contributions made during the Manchester Book Dash in 2019._
+
+- [![bug-fixed](https://img.shields.io/badge/-bug%20fixed-cef298.svg)](labels-bug-fixed) _These are bugs that have been fixed and only need approval._
+
+- [![collaboration-book](https://img.shields.io/badge/-collaboration%20book-c877ff.svg)](labels-collaboration-book) _These issues relate to the content of the collaboration book._
+
+- [![communication-book](https://img.shields.io/badge/-communication%20book-52d8d8.svg)](labels-communication-book) _These issues relate to the content of the communication book._
+
 - [![help-wanted](https://img.shields.io/badge/-help%20wanted-159818.svg)][labels-helpwanted] _These issues contain a task that a member of the team has determined we need additional help with._
 
   If you feel that you can contribute to one of these issues, we especially encourage you to do so!
@@ -500,8 +514,15 @@ _These Contributing Guidelines have been adapted from the [Contributing Guidelin
 [labels-link]: https://github.com/alan-turing-institute/the-turing-way/labels
 [labels-approval-request]: https://github.com/alan-turing-institute/the-turing-way/labels/approval%20request
 [labels-binderhub]: https://github.com/alan-turing-institute/the-turing-way/labels/binderhub
+[labels-book-build]: https://github.com/alan-turing-institute/the-turing-way/labels/book%20build
+[labels-book-dash-feb20]: https://github.com/alan-turing-institute/the-turing-way/labels/book%20dash%20feb20
+[labels-book-dash-ldn19]: https://github.com/alan-turing-institute/the-turing-way/labels/book%20dash%20ldn19
+[labels-book-dash-mcr19]: https://github.com/alan-turing-institute/the-turing-way/labels/book%20dash%20mcr19
 [labels-book]: https://github.com/alan-turing-institute/the-turing-way/labels/book
 [labels-bug]: https://github.com/alan-turing-institute/the-turing-way/labels/bug
+[labels-bug-fixed]: https://github.com/alan-turing-institute/the-turing-way/labels/bug%20fixed
+[labels-collaboration-book]: https://github.com/alan-turing-institute/the-turing-way/labels/collaboration%20book
+[labels-communication-book]: https://github.com/alan-turing-institute/the-turing-way/labels/communication%20book
 [labels-community]: https://github.com/alan-turing-institute/the-turing-way/labels/community
 [labels-comms]: https://github.com/alan-turing-institute/the-turing-way/labels/comms
 [labels-enhancement]: https://github.com/alan-turing-institute/the-turing-way/labels/enhancement
