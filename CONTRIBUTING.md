@@ -109,7 +109,9 @@ The issue template will automatically be rendered in the comment section of the 
 
 The list of labels for current issues can be found [here][turing-way-labels] and includes:
 
-- [![approval-request](https://img.shields.io/badge/-approval%20request-8bd82d.svg)][labels-approvalrequest] _When a bug or minor changes have been made, contributors can label their PR along with "bug fixed"._
+- [![approval-request](https://img.shields.io/badge/-approval%20request-8bd82d.svg)](labels-approval-request) _When a bug or minor changes have been made, contributors can label their PR along with "bug fixed"._
+
+- [![binderhub](https://img.shields.io/badge/-binderhub-F37726.svg)](labels-binderhub) _These issues relate to documentation and resources around building a BinderHub._
 
 - [![help-wanted](https://img.shields.io/badge/-help%20wanted-159818.svg)][labels-helpwanted] _These issues contain a task that a member of the team has determined we need additional help with._
 
@@ -496,6 +498,8 @@ _These Contributing Guidelines have been adapted from the [Contributing Guidelin
 [github-syncfork]: https://help.github.com/articles/syncing-a-fork
 [issue-template]: https://github.com/alan-turing-institute/the-turing-way/blob/master/ISSUE_TEMPLATE.md
 [labels-link]: https://github.com/alan-turing-institute/the-turing-way/labels
+[labels-approval-request]: https://github.com/alan-turing-institute/the-turing-way/labels/approval%20request
+[labels-binderhub]: https://github.com/alan-turing-institute/the-turing-way/labels/binderhub
 [labels-book]: https://github.com/alan-turing-institute/the-turing-way/labels/book
 [labels-bug]: https://github.com/alan-turing-institute/the-turing-way/labels/bug
 [labels-community]: https://github.com/alan-turing-institute/the-turing-way/labels/community
