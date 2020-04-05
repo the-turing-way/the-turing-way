@@ -121,19 +121,44 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
 - [![book-dash-mcr19](https://img.shields.io/badge/-book--dash--mcr19-f2a9c1.svg)][labels-book-dash-mcr19] _These are issues related to contributions made during the Manchester Book Dash in 2019._
 
+- [![Bug](https://img.shields.io/badge/-bug-d73a4a.svg)][labels-bug] _These issues are reporting a problem or a mistake in the project._
+
+  The more details you can provide the better!
+  If you know how to fix the bug, please open an issue first and then submit a pull request :sparkles:
+
 - [![bug-fixed](https://img.shields.io/badge/-bug%20fixed-cef298.svg)][labels-bug-fixed] _These are bugs that have been fixed and only need approval._
 
 - [![collaboration-book](https://img.shields.io/badge/-collaboration--book-c877ff.svg)][labels-collaboration-book] _These issues relate to the content of the collaboration book._
 
+- [![Comms](https://img.shields.io/badge/-comms-15c4b2.svg)][labels-comms] _These issues discuss how we as a project interact with other initiatives._
+
 - [![communication-book](https://img.shields.io/badge/-communication--book-52d8d8.svg)][labels-communication-book] _These issues relate to the content of the communication book._
+
+- [![Community](https://img.shields.io/badge/-community-8605c1.svg)][labels-community] _These issues relate to building and supporting the Turing Way community._
+
+  This is all about collaborating, so please let us know how we can best support you as a community member.
 
 - [![conflicting-file-error](https://img.shields.io/badge/-conflicting--file--error-a00819.svg)][labels-conflicting-file-error] _These issues mark issues and pull requests with conflicting files and errors._
 
 - [![dependencies](https://img.shields.io/badge/-dependencies-0366d6.svg)][labels-dependencies] _These issues relate to pull requests that update a depedency file._
 
+- [![Enhancement](https://img.shields.io/badge/-enhancement-84b6eb.svg)][labels-enhancement] _These issues are suggesting new features that can be added to the project._
+
+  If you want to ask for something new, please try to make sure that your request is distinct from any others that are already in the queue (or part of the Turing Way).
+  If you find one that's similar but there are subtle differences please reference the other enhancement in your issue.
+
 - [![ethics-book](https://img.shields.io/badge/-ethics--book-5e6fbc.svg)][labels-ethics-book] _These issues relate to the content of the ethics book._
 
 - [![events](https://img.shields.io/badge/-events-100570.svg)][labels-events] _These issues relate to coordinating workshops, book dashes and any other events._
+
+- [![good-first-issue](https://img.shields.io/badge/-good%20first%20issue-1b3487.svg)][labels-firstissue] _These issues are particularly appropriate if it is your first contribution to the Turing Way, or to GitHub overall._
+
+  If you're not sure about how to go about contributing, these are good places to start. You'll be mentored through the process by the maintainers team.
+  If you're a seasoned contributor, please select a different issue to work from and keep these available for the newer and potentially more anxious team members.
+
+- [![help-wanted](https://img.shields.io/badge/-help%20wanted-159818.svg)][labels-helpwanted] _These issues contain a task that a member of the team has determined we need additional help with._
+
+  If you feel that you can contribute to one of these issues, we especially encourage you to do so!
 
 - [![idea-for-discussion](https://img.shields.io/badge/-idea--for--discussion-a2f29b.svg)][labels-idea-for-discussion] _These issues can be used for inviting discussion from collaborators or community in general._
 
@@ -155,6 +180,13 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
 - [![project-design-book](https://img.shields.io/badge/-project--design--book-3982cc.svg)][labels-project-design-book] _These issues relate to the content of the project design book._
 
+- [![project-management](https://img.shields.io/badge/-project%20management-bfd86c.svg)][labels-project-management] _We like to model best practice, so the Turing Way itself is managed through these issues.
+  These issues help us to coordinate some logistics._
+
+- [![question](https://img.shields.io/badge/-question-cc317c.svg)][labels-question] _These issues contain a question that you'd like to have answered._
+
+  There are [lots of ways to ask questions](#get-in-touch) but opening an issue is a great way to start a conversation and get your answer.
+
 - [![ready-for-merge](https://img.shields.io/badge/-ready%20for%20merge-32a320.svg)][labels-ready-for-merge] _These issues can be used after approving a pull request to let the author know that they can merge it._
 
 - [![reproducibility-book](https://img.shields.io/badge/-reproducibility--book-c5bcff.svg)][labels-reproducibility-book] _These issues relate to the content of the reproducibility book._
@@ -165,49 +197,18 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
 - [![software-skills](https://img.shields.io/badge/-software--skills-ed886f.svg)][labels-software-skills] _These relate to issues and pull requests that may need some software development, design, or troubleshooting skills._
 
+- [![Tools](https://img.shields.io/badge/-tools-a3e07d.svg)][labels-tools] _These issues discuss tools we use for collaboration_
+
+  If you feel that we should try new tools or some aspects of the collaboration could be improved by using tools, please let us know.
+
 - [![translation](https://img.shields.io/badge/-translation-e1ed3d.svg)][labels-translation] _These issues relate to translating the reproducibility book into other languages._
+
+- [![Travel](https://img.shields.io/badge/-travel-0f42fc.svg)][labels-travel] _These issues are mainly for the attention of core project members to plan travel to face to face meetings_
 
 - [![typo-fix](https://img.shields.io/badge/-typo--fix-ff54d4.svg)][labels-typo-fix] _These issues relate to fixing typos and broken links._
 
 - [![work-in-progress](https://img.shields.io/badge/-work--in--progress-e08f72.svg)][labels-work-in-progress] _These issues are work in progress._
 
-- [![help-wanted](https://img.shields.io/badge/-help%20wanted-159818.svg)][labels-helpwanted] _These issues contain a task that a member of the team has determined we need additional help with._
-
-  If you feel that you can contribute to one of these issues, we especially encourage you to do so!
-
-- [![question](https://img.shields.io/badge/-question-cc317c.svg)][labels-question] _These issues contain a question that you'd like to have answered._
-
-  There are [lots of ways to ask questions](#get-in-touch) but opening an issue is a great way to start a conversation and get your answer.
-
-- [![good-first-issue](https://img.shields.io/badge/-good%20first%20issue-1b3487.svg)][labels-firstissue] _These issues are particularly appropriate if it is your first contribution to the Turing Way, or to GitHub overall._
-
-  If you're not sure about how to go about contributing, these are good places to start. You'll be mentored through the process by the maintainers team.
-  If you're a seasoned contributor, please select a different issue to work from and keep these available for the newer and potentially more anxious team members.
-
-- [![Enhancement](https://img.shields.io/badge/-enhancement-84b6eb.svg)][labels-enhancement] _These issues are suggesting new features that can be added to the project._
-
-  If you want to ask for something new, please try to make sure that your request is distinct from any others that are already in the queue (or part of the Turing Way).
-  If you find one that's similar but there are subtle differences please reference the other enhancement in your issue.
-
-- [![Community](https://img.shields.io/badge/-community-8605c1.svg)][labels-community] _These issues relate to building and supporting the Turing Way community._
-
-  This is all about collaborating, so please let us know how we can best support you as a community member.
-
-- [![Bug](https://img.shields.io/badge/-bug-d73a4a.svg)][labels-bug] _These issues are reporting a problem or a mistake in the project._
-
-  The more details you can provide the better!
-  If you know how to fix the bug, please open an issue first and then submit a pull request :sparkles:
-
-- [![project-management](https://img.shields.io/badge/-project%20management-bfd86c.svg)][labels-project-management] _We like to model best practice, so the Turing Way itself is managed through these issues.
-  These issues help us to coordinate some logistics._
-
-- [![Tools](https://img.shields.io/badge/-tools-a3e07d.svg)][labels-tools] _These issues discuss tools we use for collaboration_
-
-  If you feel that we should try new tools or some aspects of the collaboration could be improved by using tools, please let us know.
-
-- [![Travel](https://img.shields.io/badge/-travel-0f42fc.svg)][labels-travel] _These issues are mainly for the attention of core project members to plan travel to face to face meetings_
-
-- [![Comms](https://img.shields.io/badge/-comms-15c4b2.svg)][labels-comms] _These issues discuss how we as a project interact with other initiatives._
 ## Making a change with a pull request
 
 We appreciate all contributions to the Turing Way.
