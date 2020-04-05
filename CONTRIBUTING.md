@@ -573,11 +573,11 @@ _These Contributing Guidelines have been adapted from the [Contributing Guidelin
 [labels-enhancement]: https://github.com/alan-turing-institute/the-turing-way/labels/enhancement
 [labels-ethics-book]: https://github.com/alan-turing-institute/the-turing-way/labels/ethics%2Dbook
 [labels-events]: https://github.com/alan-turing-institute/the-turing-way/labels/events
-[labels-firstissue]: https://github.com/alan-turing-institute/the-turing-way/labels/good%2Dfirst%2Dissue
-[labels-helpwanted]: https://github.com/alan-turing-institute/the-turing-way/labels/help%2Dwanted
+[labels-firstissue]: https://github.com/alan-turing-institute/the-turing-way/labels/good%20first%20issue
+[labels-helpwanted]: https://github.com/alan-turing-institute/the-turing-way/labels/help%20wanted
 [labels-idea-for-discussion]: https://github.com/alan-turing-institute/the-turing-way/labels/idea%2Dfor%2Ddiscussion
 [labels-jupyter]: https://github.com/alan-turing-institute/the-turing-way/labels/jupyter
-[labels-project-management]: https://github.com/alan-turing-institute/the-turing-way/labels/project%2Dmanagement
+[labels-project-management]: https://github.com/alan-turing-institute/the-turing-way/labels/project%20management
 [labels-newsletter]: https://github.com/alan-turing-institute/the-turing-way/labels/newsletter
 [labels-outreach]: https://github.com/alan-turing-institute/the-turing-way/labels/Outreach
 [labels-pr-draft]: https://github.com/alan-turing-institute/the-turing-way/labels/PR%3A%20draft
