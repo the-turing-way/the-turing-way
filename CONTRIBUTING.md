@@ -559,11 +559,11 @@ _These Contributing Guidelines have been adapted from the [Contributing Guidelin
 [labels-binderhub]: https://github.com/alan-turing-institute/the-turing-way/labels/binderhub
 [labels-book-build]: https://github.com/alan-turing-institute/the-turing-way/labels/book%2Dbuild
 [labels-book-dash-feb20]: https://github.com/alan-turing-institute/the-turing-way/labels/book%2Ddash%2Dfeb20
-[labels-book-dash-ldn19]: https://github.com/alan-turing-institute/the-turing-way/labels/book%2Ddash%2Dldn19
-[labels-book-dash-mcr19]: https://github.com/alan-turing-institute/the-turing-way/labels/book%2Ddash%2Dmcr19
+[labels-book-dash-ldn19]: https://github.com/alan-turing-institute/the-turing-way/labels/book%2Ddash%2Dldn2019
+[labels-book-dash-mcr19]: https://github.com/alan-turing-institute/the-turing-way/labels/book%2Ddash%2Dmcr2019
 [labels-book]: https://github.com/alan-turing-institute/the-turing-way/labels/book
 [labels-bug]: https://github.com/alan-turing-institute/the-turing-way/labels/bug
-[labels-bug-fixed]: https://github.com/alan-turing-institute/the-turing-way/labels/bug%2Dfixed
+[labels-bug-fixed]: https://github.com/alan-turing-institute/the-turing-way/labels/bug%20fixed
 [labels-collaboration-book]: https://github.com/alan-turing-institute/the-turing-way/labels/collaboration%2Dbook
 [labels-communication-book]: https://github.com/alan-turing-institute/the-turing-way/labels/communication%2Dbook
 [labels-community]: https://github.com/alan-turing-institute/the-turing-way/labels/community
@@ -583,7 +583,7 @@ _These Contributing Guidelines have been adapted from the [Contributing Guidelin
 [labels-pr-draft]: https://github.com/alan-turing-institute/the-turing-way/labels/PR%3A%20draft
 [labels-pr-merged]: https://github.com/alan-turing-institute/the-turing-way/labels/PR%3A%20merged
 [labels-pr-partially-approved]: https://github.com/alan-turing-institute/the-turing-way/labels/PR%3A%20partially%2Dapproved
-[labels-pr-reviewed-approved]: https://github.com/alan-turing-institute/the-turing-way/labels/PR%3A%20reviewer%2Dapproved
+[labels-pr-reviewed-approved]: https://github.com/alan-turing-institute/the-turing-way/labels/PR%3A%20reviewed%2Dapproved
 [labels-pr-reviewed-changes-requested]: https://github.com/alan-turing-institute/the-turing-way/labels/PR%3A%20reviewed%2Dchanges%2Drequested
 [labels-pr-unreviewed]: https://github.com/alan-turing-institute/the-turing-way/labels/PR%3A%20unreviewed
 [labels-project-design-book]: https://github.com/alan-turing-institute/the-turing-way/labels/project%2Ddesign%2Dbook
