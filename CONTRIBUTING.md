@@ -198,14 +198,8 @@ The list of labels for current issues can be found [here][turing-way-labels] and
   The more details you can provide the better!
   If you know how to fix the bug, please open an issue first and then submit a pull request :sparkles:
 
-- [![Book](https://img.shields.io/badge/-book-c5bcff.svg)][labels-book] _These issues cover everything around the process of writing the book._
-
-- [![workshops](https://img.shields.io/badge/-workshops-c1663c.svg)][labels-workshops] _These issues help us organise our workshops._
-
 - [![project-management](https://img.shields.io/badge/-project%20management-bfd86c.svg)][labels-project-management] _We like to model best practice, so the Turing Way itself is managed through these issues.
   These issues help us to coordinate some logistics._
-
-- [![jupyter](https://img.shields.io/badge/-jupyter-F37726.svg)][labels-jupyter] _Everything related to building a BinderHub_
 
 - [![Tools](https://img.shields.io/badge/-tools-a3e07d.svg)][labels-tools] _These issues discuss tools we use for collaboration_
 
