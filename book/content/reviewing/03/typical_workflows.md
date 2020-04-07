@@ -20,7 +20,7 @@ Before requesting a review, be sure you've met all the obvious quality benchmark
 - you have created [documentation](#Documentation) to the required standards of the project,
 - you have [tested](#Improvements_to_testing) your code to the required standards of the project,
 - your code is not causing the tests in the main project to fail (many [continuous integration](/continuous_integration/continuous_integration) systems will test this automatically for you once you create the PR), and
-- you believe your code meets the declared [style guide](#Style_enforcement) for the project.
+- you believe your code meets the declared [style guide](../../code_quality/code_quality#code-style) for the project.
 
 A reviewer should check these things, but defects on these fronts should be by occasional oversight, rather than systematic.
 

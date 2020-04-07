@@ -59,6 +59,13 @@
     url: /open_research/07/resources
 - title: Version Control
   url: /version_control/version_control
+- title: Licensing
+  url: /licensing/licensing
+  sections:
+  - title: Software licenses
+    url: /licensing/01/softwarelicenses
+  - title: Data licenses
+    url: /licensing/02/datalicenses
 - title: Collaborating on GitHub/GitLab
   url: /collaborating_github/collaborating_github
   sections:
@@ -74,6 +81,21 @@
   url: /credit/credit
 - title: Research Data Management
   url: /rdm/rdm
+  sections:
+  - title: The FAIR principles and practices
+    url: /rdm/fairprinciples
+  - title: Storage and backup
+    url: /rdm/storagebackup
+  - title: Data organisation in spreadsheets
+    url: /rdm/spreadsheets
+  - title: Documentation and metadata
+    url: /rdm/docmetadata
+  - title: Sharing and archiving data
+    url: /rdm/sharingarchiving
+  - title: Personal Stories
+    url: /rdm/personalstories
+  - title: Resources
+    url: /rdm/resources
 - title: Reproducible Environments
   url: /reproducible_environments/reproducible_environments
   sections:
@@ -93,6 +115,8 @@
     url: /reproducible_environments/07/checklist
   - title: Resources
     url: /reproducible_environments/08/resources
+- title: Code quality
+  url: /code_quality/code_quality
 - title: Testing
   url: /testing/testing
 - title: Reviewing
@@ -110,6 +134,8 @@
   url: /continuous_integration/continuous_integration
 - title: Reproducible Research with Make
   url: /make/make
+- title: Research Compendia
+  url: /research_compendia/research_compendia
 - title: Risk Assessment
   url: /risk_assessment/risk_assessment
   sections:
