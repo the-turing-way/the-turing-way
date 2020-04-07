@@ -68,13 +68,13 @@ This may cause community members to believe that the code is no longer being act
 
 | Feature | Single Issue Repo | Issue Tracker per Repo |
 | :--- | :---: | :---: |
-| Global issue search | :white_check_mark: | |
-| Hosted by the same Platform | :question: (not guaranteed) | :white_check_mark: |
-| Filter by repository | :question: (power users*) | :white_check_mark: |
-| Suscribe to relevant updates | :question: (power users) | :white_check_mark: |
-| Easy to Discover | | :white_check_mark: |
-| Connected to the Codebase | | :white_check_mark: |
-| Appears active to community | | :white_check_mark: |
-| Manageable volume | | :white_check_mark: |
+| Global issue search | ✅ | |
+| Hosted by the same Platform | ❓(not guaranteed) | ✅ |
+| Filter by repository | ❓(power users*) | ✅ |
+| Suscribe to relevant updates | ❓(power users) | ✅ |
+| Easy to Discover | | ✅ |
+| Connected to the Codebase | | ✅ |
+| Appears active to community | | ✅ |
+| Manageable volume | | ✅ |
 
 *Power users = These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient
