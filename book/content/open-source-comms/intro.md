@@ -8,7 +8,7 @@ In an Open Source project, a significant amount of collaboration between the cor
 It is therefore really important to plan carefully _how_ and _where_ these interactions take place. 
 Community interactions should maintain transparency and openness of the project to facilitate the growth of your community, and the choice of the platforms should ensure that your project is welcoming, accessible, and secure for its collaborators.
 
-This chapter gives and overview of the most common ways to track, support and maintain community interactions such as by raising issues, reporting bugs and attracting contributions that lead to the improvements in the project.
+This chapter gives an overview of the most common ways to track, support and maintain community interactions such as by raising issues, reporting bugs and attracting contributions that lead to the improvements in the project.
 
 ## How this will help you/ why this is useful
 
