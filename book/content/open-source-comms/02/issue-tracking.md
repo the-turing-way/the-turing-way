@@ -76,4 +76,5 @@ This may cause community members to believe that the code is no longer being act
 | Connected to the Codebase | | :heavy_check_mark: |
 | Appears active to community | | :heavy_check_mark: |
 | Manageable volume | | :heavy_check_mark: |
+
 *Power users = These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient
