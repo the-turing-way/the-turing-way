@@ -1,23 +1,23 @@
 # Issue Tracking
 
-Most projects have some kind of issue board to easily track certain aspects of the project, such as bug fixing, rolling out new features, or community engagement.
-[GitHub](https://github.com) (a very popular collaboration platform) has a built-in [issue tracker](https://guides.github.com/features/issues/).
-Issues can also be collated together into [project boards](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards) to track progress towards a more specific, higher-level goal.
+Most software development projects have some kind of issue board to easily track the current issues in the project, such as bug fixing, rolling out new features, or community engagement plans.
+[GitHub](https://github.com) (a very popular collaboration platform) has a built-in [issue tracker](https://guides.github.com/features/issues/), and [project boards](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards) where issues can be collated together to track progress towards a more specific, higher-level goals.
 
-This section is a discussion around why you may keep issues and where you can store these issues.
+This section is a discussion around why issues tracking is useful and where you can store them.
 
 ## What is the purpose of your issues?
 
-There are many different reasons for keeping/tracking issues related to a project and what your issues are tracking may influence how you present these to the wider community.
+There are many different reasons for keeping/tracking issues related to a project. 
+The platform for issue tracking and the features tracked by those issues can influence how your community interact with your project.
 
-Are you using issues to track a central service?
-Are they tracking personal to-do lists and being used to answer questions like if a task is high priority or if it is assigned to someone already.
-This kind of tracking is best done in a centralised system and does not need to be circulated to your wider community.
-
-If you're using issues to track bug reports, feature requests, opportunities for community members to engage, and so on, then a public issue board will allow your community to get a clear overview of what's coming down the pipeline and how they can get involved.
-
-If your project is split across multiple repositories, then it's a good idea to keep the issues specifically relating to that module within that repository.
+If your project is split across multiple repositories, then it's a good idea to keep the issues specifically relating to that module within that repository (dencentralised system).
 This allows your community to focus their attention on what is important to them.
+
+If you're using issues to track bug reports, feature requests, opportunities for community members to engage, and so on, then a public issue board or a centralised system will allow your community to get a clear overview of what's coming down the pipeline and how they can get involved.
+
+Are you using issues to track a central service? 
+Are they tracking personal to-do lists and being used to answer questions like if a task is high priority or if it is assigned to someone already.
+If the answers to the following questions are in 'yes', then issue tracking in a centralised system is a good option and it does not need to be circulated to your wider community.
 
 Let's look into centralised and decentralised/distributed issue boards and how they might engage your community.
 
@@ -70,11 +70,11 @@ This may cause community members to believe that the code is no longer being act
 | :--- | :---: | :---: |
 | Global issue search | ✅ | |
 | Hosted by the same Platform | ❓(not guaranteed) | ✅ |
-| Filter by repository | ❓(power users*) | ✅ |
+| Filter by repository | ❓(power users [1]) | ✅ |
 | Suscribe to relevant updates | ❓(power users) | ✅ |
 | Easy to Discover | | ✅ |
 | Connected to the Codebase | | ✅ |
 | Appears active to community | | ✅ |
 | Manageable volume | | ✅ |
 
-*Power users = These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient
+[1] Power users = These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient
