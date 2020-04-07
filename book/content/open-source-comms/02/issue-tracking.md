@@ -14,7 +14,7 @@ Are you using issues to track a central service?
 Are they tracking personal to-do lists and being used to answer questions like if a task is high priority or if it is assigned to someone already.
 This kind of tracking is best done in a centralised system and does not need to be circulated to your wider community.
 
-If you're using issues to track bug reports, feature requests, opportunities for community members to engage, et cetera, then a public issue board will allow your community to get a clear overview of what's coming down the pipeline and how they can get involved.
+If you're using issues to track bug reports, feature requests, opportunities for community members to engage, and so on, then a public issue board will allow your community to get a clear overview of what's coming down the pipeline and how they can get involved.
 
 If your project is split across multiple repositories, then it's a good idea to keep the issues specifically relating to that module within that repository.
 This allows your community to focus their attention on what is important to them.
