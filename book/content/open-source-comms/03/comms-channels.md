@@ -9,16 +9,16 @@ Below are some properties of three very common kinds of communication channels u
 
 | Feature | Mailing Lists | Forums | Gitter |
 | :--- | :---: | :---: | :---: |
-| Media sharing | :heavy_check_mark: (cumbersome) | :heavy_check_mark: | :heavy_check_mark: (cumbersome) |
-| Archiveable | :heavy_check_mark: | :heavy_check_mark: | |
-| Persistant | :heavy_check_mark: (up to a limit) | :heavy_check_mark: | |
-| Noisy | :heavy_check_mark: | | :heavy_check_mark: |
-| Open | | :heavy_check_mark: | :heavy_check_mark: |
-| Consistent UX* | | :heavy_check_mark: | :heavy_check_mark: |
-| Threading/Filtering of conversations | | :heavy_check_mark: | :heavy_check_mark: |
-| Social sharing | | :heavy_check_mark: | :heavy_check_mark: |
-| User profiles | | :heavy_check_mark: | :heavy_check_mark: |
-| "Friending"/"Ignoring" capabilities | | :heavy_check_mark: | |
-| Searchable by topic | | :heavy_check_mark: | |
+| Media sharing | :white_check_mark: (cumbersome) | :white_check_mark: | :white_check_mark: (cumbersome) |
+| Archiveable | :white_check_mark: | :white_check_mark: | |
+| Persistant | :white_check_mark: (up to a limit) | :white_check_mark: | |
+| Noisy | :white_check_mark: | | :white_check_mark: |
+| Open | | :white_check_mark: | :white_check_mark: |
+| Consistent UX* | | :white_check_mark: | :white_check_mark: |
+| Threading/Filtering of conversations | | :white_check_mark: | :white_check_mark: |
+| Social sharing | | :white_check_mark: | :white_check_mark: |
+| User profiles | | :white_check_mark: | :white_check_mark: |
+| "Friending"/"Ignoring" capabilities | | :white_check_mark: | |
+| Searchable by topic | | :white_check_mark: | |
 
 *UX = User Experience
