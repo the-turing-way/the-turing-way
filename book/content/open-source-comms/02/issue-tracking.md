@@ -63,3 +63,17 @@ If your issues are elsewhere this can create a lot of barriers to entry for comm
 
 A very large impact on the community of having a separate issue repository is that when people visit your code repository, it looks like an inactive project because there are no issues or conversations going on where the code is hosted.
 This may cause community members to believe that the code is no longer being actively developed/maintained/supported and may choose to use another codebase or software package.
+
+## Comparative Table
+
+| Feature | Single Issue Repo | Issue Tracker per Repo |
+| :--- | :---: | :---: |
+| Global issue search | :heavy_check_mark: | |
+| Hosted by the same Platform | :question: (not guaranteed) | :heavy_check_mark: |
+| Filter by repository | :question: (power users*) | :heavy_check_mark: |
+| Suscribe to relevant updates | :question: (power users) | :heavy_check_mark: |
+| Easy to Discover | | :heavy_check_mark: |
+| Connected to the Codebase | | :heavy_check_mark: |
+| Appears active to community | | :heavy_check_mark: |
+| Manageable volume | | :heavy_check_mark: |
+*Power users = These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient
