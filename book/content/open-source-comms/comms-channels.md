@@ -17,7 +17,7 @@ In the table below, some properties of the first three communication platforms h
 
 ## Features of different Communication Channels
 
-| Feature | Mailing Lists | Forums | Gitter |
+| Feature | Mailing Lists | Forums | Chat |
 | :--- | :---: | :---: | :---: |
 | Media sharing | ✅ (cumbersome) | ✅ | ✅ (cumbersome) |
 | Archiveable | ✅ | ✅ | |
