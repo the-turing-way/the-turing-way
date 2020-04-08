@@ -1,13 +1,16 @@
 # Online Collaboration Cafe
 
-In autumn 2019, _The Turing Way_ community will host fortnightly online "Collaboration Cafes".
-If they're successful they will continue into 2020.
+_The Turing Way_ community has been hosting the "Collaboration Cafes" since September 2019. 
+These are virtual co-working spaces that are held fortnightly for a duration of 2 hours using online calls.
+We have been hosting these calls every month on the 1st Wednesday from 15:00 to 17:00 GMT and 3rd Wednesday from 19:00 - 21:00 GMT .
 
 The goals of these events are to:
 
 1. Build personal connections between members of the community.
 2. Support contributors as they edit, review, design and write content for the book.
 3. Celebrate the progress of _The Turing Way_ and collaboratively build consensus on next steps and future directions.
+
+Though held for 2 hours, we encourage our members to join for as long as their schedule allows.
 
 This document outlines how to participate and run a Collaboration Cafe event.
 
@@ -128,6 +131,10 @@ Times in a few different time zones are shown in the table below.
 | 18 March 2020 | [AreWeMeetingYet? 2020-03-18 19:00](https://arewemeetingyet.com/London/2020-03-18/19:00/TuringWay-CollaborationCafe) | 05:00 am | 03:00 am | 12:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
 | 1 April 2020 | [AreWeMeetingYet? 2020-04-01 15:00](https://arewemeetingyet.com/London/2020-04-01/15:00/TuringWay-CollaborationCafe) | 00:00 am | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
 | 15 April 2020 | [AreWeMeetingYet? 2020-04-15 19:00](https://arewemeetingyet.com/London/2020-04-15/19:00/TuringWay-CollaborationCafe) | 04:00 am | 02:00 am | 23:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
+| 6 May 2020 | [AreWeMeetingYet? 2020-05-06 15:00](https://arewemeetingyet.com/London/2020-05-06/15:00/TuringWay-CollaborationCafe) | 00:00 am | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
+| 20 May 2020 | [AreWeMeetingYet? 2020-05-20 19:00](https://arewemeetingyet.com/London/2020-05-20/19:00/TuringWay-CollaborationCafe) | 04:00 am | 02:00 am | 23:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
+| 3 June 2020 | [AreWeMeetingYet? 2020-06-03 15:00](https://arewemeetingyet.com/London/2020-06-03/15:00/TuringWay-CollaborationCafe) | 00:00 am | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
+| 17 June 2020 | [AreWeMeetingYet? 2020-06-17 19:00](https://arewemeetingyet.com/London/2020-06-17/19:00/TuringWay-CollaborationCafe) | 04:00 am | 02:00 am | 23:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
 | | | | | | | | | |
 | | | | | | | | | |
 | | | | | | | | | |
