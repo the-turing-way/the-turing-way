@@ -5,10 +5,11 @@ The last two checklists are about managing and participating in the distributed 
 # Table of content
 
 - [Checklist for organising a remote meeting](#checklist-for-organising-a-remote-meeting)
-    * [Designated venues to participate from](#designated-venues-to-participate-from)
-  + [During the meeting](#during-the-meeting)
-    * [Breakout rooms](#breakout-rooms)
-  + [After the meeting](#after-the-meeting)
+   + [Before the meeting](#before-the-meeting)
+      * [Designated venues to participate from](#designated-venues-to-participate-from)
+   + [During the meeting](#during-the-meeting)
+      * [Breakout rooms](#breakout-rooms)
+   + [After the meeting](#after-the-meeting)
   
 - [Checklist for running a longer event such as a conference or sprint](#checklist-for-running-a-longer-event-such-as-a-conference-or-sprint)
   + [Before the event](#before-the-event)
@@ -55,8 +56,10 @@ The last two checklists are about managing and participating in the distributed 
 
 ## Checklist for organising a remote meeting
 
-<details>
-  <summary>Click to expand</summary>
+### Before the meeting
+
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Identify a most suitable slot that is time zone compatible for all the members using tools like [Doodle](https://doodle.com/en/) or [when2meet](https://www.when2meet.com/)
   + [ ] If you are planning a meeting that includes Americas/Oceania (with over 12 hours difference), consider to have two sessions, to avoid holding a meeting in very early or vary late in the day
@@ -92,13 +95,13 @@ The last two checklists are about managing and participating in the distributed 
 - [ ] Create slides or presentation that might be needed from organiser's side (welcome, wrap up)
   + [ ] Add contact details, date and location of resources and licence, to make your slides reusable
   
-</details>
+<!---</details>--->
 
 #### Designated venues to participate from
 *If there are physical office locations, or co-working spaces accessible for most members*
 
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Reserve conference room(s) (or similar venues) with high speed internet
 - [ ] Share details on how members can access this venue
@@ -110,12 +113,12 @@ The last two checklists are about managing and participating in the distributed 
   + [ ] Arrange for beverages/snacks for the breaks, and ensure that the catering service will label the food for contents/allergens
 - [ ] Make sure that the protocols are written to favour the remote participants
 
-</details>
+<!---</details>--->
 
 ### During the meeting
 
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Remind of the community participation guideline and the Code of Conduct
 - [ ] Introduce the chair and notetaker, and let the chair take over for the rest of the tasks
@@ -146,13 +149,13 @@ The last two checklists are about managing and participating in the distributed 
   + [ ] Ask people to volunteer to assign themselves to each task, but be inclusive and equitable in this process.
 - [ ] End the meeting on time by thanking everyone and sharing the date for a next call, if any!
 
-</details>
+<!---</details>--->
 
 #### Breakout rooms
 *If using breakout rooms in Zoom (or similar tool), make sure that each breakout has an organiser to help*
 
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Create groups that are more diverse (they will have better discussions)
 - [ ] Remind everyone to give others a fair chance to speak
@@ -161,12 +164,12 @@ The last two checklists are about managing and participating in the distributed 
   + [ ] Reminding them to move on to next person if only one person has spoken so far in their group
 - [ ] When people come back from their breakout rooms, ask them to share main arguments from their discussion
 
-</details>
+<!---</details>--->
 
 ### After the meeting
 
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Create a debrief document to capture what went well and what could be improved
   + [ ] This can also be requested from the participants by circulating a feedback form
@@ -174,7 +177,7 @@ The last two checklists are about managing and participating in the distributed 
 - [ ] If the meeting call was recorded, process and share the recorded video with everyone
 - [ ] Send thank you email with the link to the complete notes and other relevant information
 
-</details>
+<!---</details>--->
 
 
 ## Checklist for running a longer event such as a conference or sprint
@@ -189,8 +192,8 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 #### The organising committee for the event 
 
 ***Earlier-phase***
-<details>
-  <summary>Click to expand</summary>  
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] To make organising truly inclusive, include different stakeholders from the community, organisation, and members from diverse backgrounds in the committee
 - [ ] If the organising committee has members across different time zones, the event can be held in a distributed manner
@@ -199,14 +202,14 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - [ ] Identify chairs for the subcommittees and allow members to join more than one subcommittee
 - [ ] Have a common place for documentation and interaction channels to keep communication transparent
 
-</details>
+<!---</details>--->
 
 #### Website for the event (preplanning)
 
 ***Earlier-phase***
 *If possible, create a subcommittee dedicated for designing the website and maintaining online communication*
-<details>
-  <summary>Click to expand</summary>  
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Take accessibility aspects into account (font size, color, background)
 - [ ] State everything clearly and in simple words
@@ -220,13 +223,13 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
   + [ ] Sponsors (if any)
   + [ ] Registration details and deadline (if already available)  
 
-</details>
+<!---</details>--->
 
 #### Community participation and accessibility
 
 ***Relevant for all phases***
-<details>
-  <summary>Click to expand</summary>  
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Choose a Code of Conduct that captures your events' values
 - [ ] Describe your community participation guidelines
@@ -240,13 +243,13 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
   + [ ] Clearly communicate if the event can be attended with pets or children, when attending from home
   + [ ] Clearly state what are the size limits for the groups that join remotely (or if individual participation is preferred even when joining from the same location)
 
-</details>
+<!---</details>--->
 
 #### Communication channel
 
 ***Relevant for all phases***
-<details>
-  <summary>Click to expand</summary>  
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] A dedicated Slack or Gitter channel within the organisation account for the event
 - [ ] Have a private channel for the organisers
@@ -258,26 +261,26 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - [ ] Create a social media account on Twitter for announcements, branding, improving visibility and wider outreach
   + [ ] Assign 1-2 volunteers or committee members who can handle social media in collaboration with the committee
 
-</details>
+<!---</details>--->
 
 #### Storing and sharing information within the organising committee
 
 ***Relevant for all phases***
-<details>
-  <summary>Click to expand</summary>  
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Use a common, and if possible, single resource management system (like GitHub, Google drive, website) that is easily searchable for storing **organisation related documents**
 - [ ] Establish a common location for storing and sharing documentation
 - [ ] All organisers should have access to all documentation used for planning and organisation
 - [ ] Create a single page summary for the organisers listing the available resources with their links
 
-</details>
+<!---</details>--->
 
 #### Budget
 
 ***Mid-phase***
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Allocate sufficient budget for organising this event (for example for the tools, equipment and childcare)
 - [ ] First place to confirm your budget and support for handling it is your organisation
@@ -286,13 +289,13 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - [ ] Decide how big your event should be based on available resource (such as online communication tools, assigned budget of the event, size of your community)
 - [ ] Calculate how much to make the registration fee if no sponsorship is gained
 
-</details>
+<!---</details>--->
 
 #### Participation support grants
 
 ***Mid-phase***
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
   
 - [ ] Allocate part of your budget for the participation support grant that can be requested by the applicants for the following support
   + [ ] Free or subsidized childcare during the event so that the participant can attend the event without worrying about taking care of their children
@@ -306,13 +309,13 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - [ ] Communicate clearly how many participation support grants are available and what they include
 - [ ] Send decision for participation support grant applicants as soon as possible so that they can decide if they can register to attend the event
 
-</details>
+<!---</details>--->
 
 #### Event theme and duration 
 
 ***Mid-phase***
-<details>
-  <summary>Click to expand</summary>  
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Identify your target audience within your community and organisation
 - [ ] Invite community members to suggest ideas and collectively choose the most relevant theme
@@ -320,13 +323,13 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - [ ] Use a standard time with link to different time zones (like [arewemeetingyet](arewemeetingyet.com)) when communicating about the event
 - [ ] Add the exact date, time, location (if any!) and choice of tool that will be used for communication  
 
-</details>
+<!---</details>--->
 
 #### Define timeline and invite applications
 
 ***Mid-phase***
-<details>
-  <summary>Click to expand</summary>  
+<!---<details>
+  <summary>Click to expand</summary>--->
   
 *Establish a timeline for organising and planning the conference and share on the website*
 - [ ] Deadline for abstract submission
@@ -339,13 +342,13 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - [ ] Establish a rubric for selection of the talks and sessions
 - [ ] Invite abstracts for talks and sessions and share rubrics for selection
 
-</details>
+<!---</details>--->
 
 #### Create a registration form
 
 ***Mid-phase***
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] If possible use a registration platform such as [Eventbrite](https://www.eventbrite.com/) that stores data centrally, works on most browsers, and enables secure credit card payment
 - [ ] Collect participant details like their name, email, affiliation, accessibility requirements, motivation for participating, and agreement to privacy statement.
@@ -358,14 +361,14 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - [ ] Clearly state the next steps upon clicking the submit button
 - [ ] Link the registration form clearly on the webpage and advertise across different community platforms
 
-</details>
+<!---</details>--->
 
 #### Community suggestion and feedback forms
 
 ***Mid-phase***
 *Choose a standard platform to manage all your forms, for example, [Surveymonkey](https://www.surveymonkey.com/) or [Google forms](https://www.google.com/forms/about/), with a statement on how do you ensure the security of the data collected*
-<details>
-  <summary>Click to expand</summary>  
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Theme suggestion form
 - [ ] Speakers suggestion form
@@ -378,7 +381,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - [ ] Final feedback form for participants (can be create in the later stage before the event)
 - [ ] Feedback form for the chairs, helpers, speakers and notetakers (can be created shortly before the event)
 
-</details>
+<!---</details>--->
 
 #### Program
 
@@ -388,8 +391,8 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 Provide designated time slots for social events in the main program.
 Make sure that after each talk/session there is 5 minutes break to allow people to log in to the right online call link, switch rooms, ask a logistics-related question.
 Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
-<details>
-  <summary>Click to expand</summary>  
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Identify speakers and sessions for the event from the selected abstracts for the talks and community voted sessions
 - [ ] Create a well balanced agenda that covers the intended theme of the event
@@ -414,13 +417,12 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] Create shared documents for all the selected talks, sessions and social events to be shared with the participants
   + [ ] Save all the shared document in one location (or create a common location with their link) so all the participants can browse them during and after the event
 
-</details>
+<!---</details>--->
 
 #### Documents and tools for participants
 
-
-<details>
-  <summary>Click to expand</summary>  
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Establish dedicated location for all the shared documents for different sessions so that participants can access and edit online during the event
   + [ ] Use a standard template that can be similar for all the sessions with minor modifications
@@ -432,13 +434,13 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] Clearly share the participation guideline, code of conduct and contact information of people who can help with any issues regarding the meeting
 - [ ] Send a reminder with link to the documents and other important resources to all the participants a week in advance and again a day before the meeting
 
-</details>
+<!---</details>--->
 
 #### Document and tools for participants
 
 ***Relevant for all phases***
-<details>
-  <summary>Click to expand</summary>  
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Establish a dedicated location for all the shared documents for different sessions with participants that they can access and edit online during the event
   + [ ] Use a standard template that can similar for all the sessions with minor adaption
@@ -451,14 +453,14 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] Send a reminder with the links to the document and other important resources to all the participant a week and a day in advance
 - [ ] Create slides or presentation that might be needed from organiser's side (welcome, wrap up)
 
-</details>
+<!---</details>--->
 
 #### Organise a pre-event community call
 *Often referred by different names such as installation party, coffee-hours or set-up test fest*
 
 ***Later-phase***
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Organise a pre-event call for the organising committee to cross-check if all the materials for the event are sorted and have been made available to everyone
 - [ ] Arrange a conference call(s) with volunteers, speakers, session leads and chairs to communicate the guidelines and discuss their responsibilities during the event
@@ -468,13 +470,13 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] Share important contact details (committee chairs, code of conduct contact person) with everyone
 - [ ] Keep this meeting informal and have as many helpers as possible who can help individuals in breakout rooms
 
-</details>
+<!---</details>--->
 
 #### Storing and sharing information with the participants
 
 ***Later-phase***
-<details>
-  <summary>Click to expand</summary>  
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Use a common, and if possible, single resource management system (like GitHub, Google Drive, website) that is easily searchable for sharing **information with the participants**
 - [ ] Create a single page summary for the participants of the available resources with their links
@@ -483,13 +485,13 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
   + [ ] This can be communicated in the registration confirmation email and the pre-event community call
 - [ ] Send out short emails with updates and reminders that point the participants to these resources (as people tend to look for all the information right before the event)
 
-</details>
+<!---</details>--->
 
 #### Branding and promotional materials
 
 ***Relevant for all phases***
-<details>
-  <summary>Click to expand</summary>  
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Use organisation logo for promoting this event only if agreed by the organisation leadership, else invite logo designs from the community
 - [ ] Use social media to engage with the community
@@ -499,13 +501,14 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
   + [ ] If you have sufficient budget, send these to your organising committees before the event, and to the speakers and volunteers after the event as a *thank you* gift
 - [ ] Design online posters and flyers to share with your community members who can help you promote the event in their networks
 
-</details>
+<!---</details>--->
 
 #### Designated venues for participation
 
 *If there are physical office locations, or co-working spaces accessible for most members*
-<details>
-  <summary>Click to expand</summary>  
+<!---<details>
+  <summary>Click to expand</summary>--->
+  
 - [ ] Reserve conference room(s) (or similar venues) with high speed internet
 - [ ] Share details on how members can access this venue
 - [ ] When possible, use individual cameras to simulate remote participation so that others not joining don't feel left out.
@@ -518,15 +521,15 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] If organising  any location-specific social event, run that in parallel to the remote social event
   + [ ] Book social event venue, transfer, and catering and communicate them clearly
 
-</details>
+<!---</details>--->
 
 ### During the event
 
 #### Kicking off the event
 
 *Checklist for the designated chair of the opening session*
-<details>
-  <summary>Click to expand</summary>  
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Remind attendees of the community participation guideline and the Code of Conduct
 - [ ] Introduce the organising committees and the Code of Conduct contact person for the event
@@ -544,13 +547,13 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] Remind everyone if the video will be recorded
 - [ ] Request everyone to keep their camera on whenever possible
 
-</details>
+<!---</details>--->
 
 #### Talks and presentations
 
 *Checklist for the chair of the designated talk*
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Chairs share the link to the shared document
 - [ ] Chairs remind everyone of the Code of the Conduct contact person in case something needs to be reported
@@ -569,13 +572,13 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] Take a moment to celebrate the speakers for their talks
   + [ ] Ask people to leave some emoji or gifs for the speakers
 
-</details>
+<!---</details>--->
 
 #### Short workshops, up-skilling or discussion sessions
 
 *Checklist for the session lead, helpers and note-takers of the designated session*
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Session leads should share the link to the shared document
 - [ ] Session leads remind of the Code of the Conduct contact person in case something needs to be reported
@@ -600,13 +603,13 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] Take a moment to celebrate the session and everyone involved in running those
   - [ ] Ask people to leave some emoji, gifs and testimonial for the workshop
 
-</details>
+<!---</details>--->
 
 #### Lightning talks
 
 *Checklist for the designated chair of these sessions*
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Share the link of the shared notes for the session along with the link to the pre-recorded lightning talks (see details in (Program (before the event))
 - [ ] Ask presenters who are attending the session to write down their names so that other attendees can ask questions specific to their talks
@@ -617,13 +620,13 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] Finish the session by thanking all the participants, and ask everyone to leave encouraging words, gifs or emojis to celebrate the session and presenters' work.
 - [ ] If the feedback for the session is available, use the last few minutes to gather those from the participants
 
-</details>
+<!---</details>--->
 
 #### Poster sessions
 
 *Checklist for the designated chair of these sessions*
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Share the link of the shared notes for the session along with the link to the gallery where the posters can be browsed (see details in (Program (before the event))
   + [ ] If short pre-recorded lightning talks on the posters are available, allow time to watch a few videos
@@ -637,14 +640,14 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] Finish the session by thanking all the participants, and ask everyone to leave nice words, gif or emoji to celebrate the session and presenters' work.
 - [ ] If the feedback for the session is available, use the last few minutes to gather that from the participants
 
-</details>
+<!---</details>--->
 
 #### Social events
 
 *Checklist for the session lead, helpers and note-takers of the designated session*
-<details>
-  <summary>Click to expand</summary>
-
+<!---<details>
+  <summary>Click to expand</summary>--->
+  
 - [ ] Host loosely themed social events so that the participants know what to expect, most importantly keep the themes fun and informal
 - [ ] Keep these sessions longer than what they would be in an in-person event, for example, 2 hours lunch instead of 1 hour
 - [ ] Don't keep these sessions too late in the day, remember that your attendees would not want to sepend extra hours on the online call when they have a family to look after
@@ -657,13 +660,13 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] Conference dinners can be hosted in parallel in multiple locations - maybe a care package with ingrediate can be sent out before the conference!
   + [ ] Other options could be to host a cooking and dining session (see the [Tweet thread](https://twitter.com/kevin_kunzmann/status/1240921979462520834), add your ideas too!).
 
-</details>  
+<!---</details>--->
 
 #### Handling breakout rooms
 
 *If using breakout rooms in Zoom (or similar tool), make sure that the organiser helps you create Groups*
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Create groups that are more diverse (they will have a better discussion)
 - [ ] Remind everyone to give others a fair chance to speak
@@ -672,12 +675,12 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
   + [ ] Remind them to move on to next person if only one person has spoken so far in their Groups
 - [ ] When people come back from their breakout rooms, ask them to share main arguments from their discussion
 
-</details>
+<!---</details>--->
 
 ### After the event
 
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Create a debrief document to capture what went well and what could be improved in the future events
 - [ ] Create a small overview blog post to share the main highlights from the event with community/participants immediately
@@ -688,7 +691,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - [ ] Settle all the invoices from the event
 - [ ] Host a post-event community call to thank people and share the lessons learned
 
-</details>
+<!---</details>--->
 
 ## Checklist for attending a remote meeting or event
 
@@ -698,8 +701,8 @@ This checklist also aims to help participants support the event organisers by be
 
 ### Before participating in the meeting
 
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Note the date and time of the meeting in your time zone and mark them correctly in your calendar using custom links from the websites like [arewemeetingyet.com](https://www.timeanddate.com/worldclock/meeting.html) and [timeanddate.com](https://www.timeanddate.com/worldclock/fixedform.html).
 - [ ] Indicate that you will be participating by completing any formality put in place, like registering through a registration page, signing up on a shared document, or accepting the calendar invite
@@ -721,12 +724,12 @@ This checklist also aims to help participants support the event organisers by be
   + [ ] To get a head start on networking with other attendees, use the social media platform to introduce yourself
 - [ ] Help organisers correct any information that you notice by flagging it, and even better, by supplying the correct information
 
-</details>  
+<!---</details>--->
 
 ### During participating in the meeting
 
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] You must have already tested your system in advance, therefore, log in the online call (using the links supplied by the organisers) minimum 5 minutes in advance so that you can troubleshoot any last-minute software update
 - [ ] The social media platform, especially for the live chat, will be particularly useful to ask for help or information during the meeting that you may have missed
@@ -745,12 +748,13 @@ This checklist also aims to help participants support the event organisers by be
 - [ ] Ask for clarification on any point that you did not understand so that you continue in the meeting effectively and leave the call with the right information
 - [ ] Note any action point assigned to you at the end of the meeting
 - [ ] Leave the call by thanking everyone!
-</details>  
+
+<!---</details>--->
 
 ### After participating in the meeting
 
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
 - [ ] Finish any post-event formality such as by filling out any feedback survey or form requested from the organisers, or claiming any participation support grant if you are one of the awardees
 - [ ] If requested by the organisers, share with them what worked and what did not work for you in the call and if you have any suggestion for their future event
@@ -760,7 +764,8 @@ This checklist also aims to help participants support the event organisers by be
 - [ ] Send a thank you note to the organisers or anyone who might have helped in enhancing your experience as a participant
 - [ ] If you made new connections or established new collaborations during the event, send a follow-up email after the event
 - [ ] Finish any task assigned to you or your team, within the given time limit by coordinating with your collaborators
-</details>  
+
+<!---</details>--->
 
 ## Checklist for managing and participating in a distributed team
 *HELP WANTED*
