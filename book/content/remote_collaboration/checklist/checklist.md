@@ -53,9 +53,10 @@ The last two checklists are about managing and participating in the distributed 
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-
+<a name="checklist-for-organising-a-remote-meeting"></a>
 ## Checklist for organising a remote meeting
 
+<a name="#before-the-meeting"></a>
 ### Before the meeting
 
 <!---<details>
@@ -96,7 +97,7 @@ The last two checklists are about managing and participating in the distributed 
   + [ ] Add contact details, date and location of resources and licence, to make your slides reusable
   
 <!---</details>--->
-
+<a name="#designated-venues-to-participate-from"></a>
 #### Designated venues to participate from
 *If there are physical office locations, or co-working spaces accessible for most members*
 
@@ -114,7 +115,7 @@ The last two checklists are about managing and participating in the distributed 
 - [ ] Make sure that the protocols are written to favour the remote participants
 
 <!---</details>--->
-
+<a name="#during-the-meeting"></a>
 ### During the meeting
 
 <!---<details>
@@ -150,7 +151,7 @@ The last two checklists are about managing and participating in the distributed 
 - [ ] End the meeting on time by thanking everyone and sharing the date for a next call, if any!
 
 <!---</details>--->
-
+<a name="#breakout-rooms"></a>
 #### Breakout rooms
 *If using breakout rooms in Zoom (or similar tool), make sure that each breakout has an organiser to help*
 
@@ -165,7 +166,7 @@ The last two checklists are about managing and participating in the distributed 
 - [ ] When people come back from their breakout rooms, ask them to share main arguments from their discussion
 
 <!---</details>--->
-
+<a name="#after-the-meeting"></a>
 ### After the meeting
 
 <!---<details>
@@ -179,16 +180,18 @@ The last two checklists are about managing and participating in the distributed 
 
 <!---</details>--->
 
-
+<a name="#checklist-for-running-a-longer-event-such-as-a-conference-or-sprint"></a>
 ## Checklist for running a longer event such as a conference or sprint
 
 *This is a growing list - feel free to correct or add anything that's missing!*
 
+<a name="#before-the-event"></a>
 ### Before the event
 
 The different subsections are marked as "Earlier-phase", "Mid-phase", and "Later-phase", based on their importance at the different phases of organisation.
 A few subsections are marked as "Relevant for all phases", as those aspects should be taken care of in all stages of event organisation.
 
+<a name="#the-organising-committee-for-the-event"></a>
 #### The organising committee for the event 
 
 ***Earlier-phase***
@@ -204,6 +207,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
+<a name="#website-for-the-event"></a>
 #### Website for the event (preplanning)
 
 ***Earlier-phase***
@@ -225,6 +229,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
+<a name="#community-participation-and-accessibility"></a>
 #### Community participation and accessibility
 
 ***Relevant for all phases***
@@ -245,6 +250,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
+<a name="#communication-channel"></a>
 #### Communication channel
 
 ***Relevant for all phases***
@@ -263,6 +269,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
+<a name="#storing-and-sharing-information-within-the-organising-committee"></a>
 #### Storing and sharing information within the organising committee
 
 ***Relevant for all phases***
@@ -276,6 +283,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
+<a name="#budget"></a>
 #### Budget
 
 ***Mid-phase***
@@ -291,6 +299,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
+<a name="#participation-support-grants"></a>
 #### Participation support grants
 
 ***Mid-phase***
@@ -311,6 +320,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
+<a name="#event-theme-and-duration"></a>
 #### Event theme and duration 
 
 ***Mid-phase***
@@ -325,6 +335,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
+<a name="#define-timeline-and-invite-applications"></a>
 #### Define timeline and invite applications
 
 ***Mid-phase***
@@ -343,7 +354,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - [ ] Invite abstracts for talks and sessions and share rubrics for selection
 
 <!---</details>--->
-
+<a name="#create-a-registration-form"></a>
 #### Create a registration form
 
 ***Mid-phase***
@@ -363,6 +374,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
+<a name="#community-suggestion-and-feedback-forms"></a>
 #### Community suggestion and feedback forms
 
 ***Mid-phase***
@@ -383,6 +395,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
+<a name="#program"></a>
 #### Program
 
 ***Later-phase***
@@ -419,24 +432,8 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
+<a name="#document-and-tools-for-participants"></a>
 #### Documents and tools for participants
-
-<!---<details>
-  <summary>Click to expand</summary>--->
-
-- [ ] Establish dedicated location for all the shared documents for different sessions so that participants can access and edit online during the event
-  + [ ] Use a standard template that can be similar for all the sessions with minor modifications
-- [ ] If using a tool that is available only on subscription, make sure that all the participants have the access info
-- [ ] Share a how-to guide to ensure that everyone knows how to use the tool
-- [ ] If possible, offer help with installation and testing of the tool
-- [ ] Remind everyone to arrange microphone or headsets
-  + [ ] If possible, provide possibility to request for grant to buy simple equipments such as headphones, webcam, and high-speed internet  
-- [ ] Clearly share the participation guideline, code of conduct and contact information of people who can help with any issues regarding the meeting
-- [ ] Send a reminder with link to the documents and other important resources to all the participants a week in advance and again a day before the meeting
-
-<!---</details>--->
-
-#### Document and tools for participants
 
 ***Relevant for all phases***
 <!---<details>
@@ -455,6 +452,8 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
+
+<a name="#organise-a-pre-event-community-call"></a>
 #### Organise a pre-event community call
 *Often referred by different names such as installation party, coffee-hours or set-up test fest*
 
@@ -472,6 +471,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
+<a name="#storing-and-sharing-information-with-the-participants"></a>
 #### Storing and sharing information with the participants
 
 ***Later-phase***
@@ -487,6 +487,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
+<a name="#branding-and-promotional-materials"></a>
 #### Branding and promotional materials
 
 ***Relevant for all phases***
@@ -503,6 +504,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
+<a name="#designated-venues-for-participation"></a>
 #### Designated venues for participation
 
 *If there are physical office locations, or co-working spaces accessible for most members*
@@ -523,8 +525,10 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
+<a name="#during-the-event"></a>
 ### During the event
 
+<a name="#kicking-off-the-event"></a>
 #### Kicking off the event
 
 *Checklist for the designated chair of the opening session*
@@ -549,6 +553,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
+<a name="#talks-and-presentations"></a>
 #### Talks and presentations
 
 *Checklist for the chair of the designated talk*
@@ -574,6 +579,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
+<a name="#short-workshops--up-skilling-or-discussion-sessions"></a>
 #### Short workshops, up-skilling or discussion sessions
 
 *Checklist for the session lead, helpers and note-takers of the designated session*
@@ -605,6 +611,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
+<a name="#lightning-talks"></a>
 #### Lightning talks
 
 *Checklist for the designated chair of these sessions*
@@ -622,6 +629,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
+<a name="#poster-sessions"></a>
 #### Poster sessions
 
 *Checklist for the designated chair of these sessions*
@@ -642,6 +650,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
+<a name="#social-events"></a>
 #### Social events
 
 *Checklist for the session lead, helpers and note-takers of the designated session*
@@ -662,6 +671,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
+<a name="#handling-breakout-rooms"></a>
 #### Handling breakout rooms
 
 *If using breakout rooms in Zoom (or similar tool), make sure that the organiser helps you create Groups*
@@ -677,6 +687,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
+<a name="#after-the-event"></a>
 ### After the event
 
 <!---<details>
@@ -693,12 +704,14 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
+<a name="#checklist-for-attending-a-remote-meeting-or-event"></a>
 ## Checklist for attending a remote meeting or event
 
 *So you have been invited to attend an online meeting, or have registered to attend an online event. 
 This is the checklist that will help you start preparing for your participation in the meeting/event and make the most of it.
 This checklist also aims to help participants support the event organisers by being proactive and informed about the resources that are available for them.*
 
+<a name="#before-participating-in-the-meeting"></a>
 ### Before participating in the meeting
 
 <!---<details>
@@ -726,6 +739,7 @@ This checklist also aims to help participants support the event organisers by be
 
 <!---</details>--->
 
+<a name="#during-participating-in-the-meeting"></a>
 ### During participating in the meeting
 
 <!---<details>
@@ -751,6 +765,7 @@ This checklist also aims to help participants support the event organisers by be
 
 <!---</details>--->
 
+<a name="#after-participating-in-the-meeting"></a>
 ### After participating in the meeting
 
 <!---<details>
@@ -767,21 +782,25 @@ This checklist also aims to help participants support the event organisers by be
 
 <!---</details>--->
 
+<a name="#checklist-for-managing-and-participating-in-a-distributed-team"></a>
 ## Checklist for managing and participating in a distributed team
 *HELP WANTED*
 
+<a name="#tips-for-all-the-members"></a>
 ### Tips for all the members
 <details>
   <summary>Click to expand</summary>
 
 </details>
 
+<a name="#specific-tips-for-the-managers"></a>
 ### Specific tips for the managers
 <details>
   <summary>Click to expand</summary>
 
 </details>
 
+<a name="#specific-tips-for-the-team-members"></a>
 ### Specific tips for the team members
 <details>
   <summary>Click to expand</summary>
@@ -790,6 +809,7 @@ This checklist also aims to help participants support the event organisers by be
 
 </details>
 
+<a name="#bibliography"></a>
 ## Bibliography
 
 - The *Checklist for running a meeting* is a summarised version of the [Gallantries (Galaxy+The Carpentries handbook)](https://galaxy-carpentries.github.io/gallantries/handbook) which is an expanded version of [The Carpentries workshop checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html)
