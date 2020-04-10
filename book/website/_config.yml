@@ -161,4 +161,4 @@ jupyter_book_version: 0.6.4
 #title: Welcome
 redirect_from:
   - /introduction/introduction
-  - /welcome
+  - /reproducibility/reproducibility
