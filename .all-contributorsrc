@@ -436,7 +436,8 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/9795785?v=4",
       "profile": "https://github.com/orchid00",
       "contributions": [
-        "ideas"
+        "ideas",
+        "review"
       ]
     },
     {
@@ -639,6 +640,15 @@
         "ideas",
         "question"
       ]
+    },
+    {
+       "login": "sverhoeven",
+       "name": "Stefan Verhoeven",
+       "avatar_url": "https://avatars1.githubusercontent.com/u/1713488?v=4",
+       "profile": "https://github.com/sverhoeven",
+       "contributions": [
+         "content"
+       ]
     },
     {
       "login": "KirstieJane",
@@ -865,15 +875,6 @@
       "profile": "https://www.imperial.ac.uk/ict/rcs",
       "contributions": [
         "ideas",
-        "content"
-      ]
-    },
-    {
-      "login": "sverhoeven",
-      "name": "Stefan Verhoeven",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1713488?v=4",
-      "profile": "https://github.com/sverhoeven",
-      "contributions": [
         "content"
       ]
     }
