@@ -60,11 +60,11 @@
       url: /reproducible-research/open-research/resources
   - title: Version Control
     url: /reproducible-research/version-control
-    - title: Licensing
-      url: /reproducible-research/licensing
-      subsections:
-        url: /reproducible-research/licensing/softwarelicenses
-        url: /reproducible-research/licensing/datalicenses
+  - title: Licensing
+    url: /reproducible-research/licensing
+    subsections:
+      url: /reproducible-research/licensing/softwarelicenses
+      url: /reproducible-research/licensing/datalicenses
   - title: Research Data Management
     url: /reproducible-research/rdm
       subsections:
