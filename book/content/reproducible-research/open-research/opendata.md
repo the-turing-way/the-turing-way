@@ -12,12 +12,14 @@ This lack of data sharing is an obstacle to international research (be it academ
 Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs.
 Open data is crucial to meeting these objectives.
 Open data is freely available on the internet and any user is permitted to download, copy, analyse, re-process, and re-use it for any other purpose with minimal financial, legal, and technical barriers.
+
 This represents a real shift in how research works and funders are starting to require reasearchers to make their data available and submit data management plans as part of project proposals (see also our chapter on [research data management](rdm/rdm.html)).
 At the moment anyone who wishes to use data from a researcher often has to contact that researcher and make a request.
 "Open by default" turns this on its head and says that there should be a presumption of publication for all.
 If access to data is restricted, for instance due to security reasons, the justification for this should be made clear.
 Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default.
-So, how do you go about making your data open?
+
+Listed below are the steps to making your data open.
 
 ### Steps to make your data open
 
@@ -53,7 +55,10 @@ In many cases, this will include providing data in multiple, standardized format
 Data should be considered a legitimate, citable product of research. 
 Making data citeable (and citing data yourself) facilitates the giving of scholarly credit; in scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited. 
 Data citations facilitate identification of, access to, and verification of the specific data that support a claim, making it possible to reproduce the underlying analysis. 
-You should ensure that anyone who wishes to cite a dataset that you host has access to a persistent identifier in order to do so.
+
+You should ensure that anyone who wishes to cite a dataset that you host has access to a persistent identifier such as a DOI in order to do so.
+Have a look in the [Credit for reproducible research chapter][credit] to see how to share and cite your data and other outputs.
+[credit]: /credit/credit
 
 A data citation should include a persistent method for identification that is unique, and widely understandable by a community. 
 There are several types of persistent identifier that could be used to identify datasets: examples include Handles, Archival Resource Keys (ARKs) and Persistent URLs (PURLs), all of which can be resolved to an Internet location. 
@@ -77,7 +82,6 @@ You should also ensure that datasets are made citable and identifiable at an app
 For example, it would be no use citing CERN's entire data repository as someone attempting to reproduce your work would not be able to find the data used in a specific piece of work without considerable difficulty. 
 Where possible you should be able to cite the data used, and only the data used.
 
-
 ### Barriers to data sharing
 
 Sometimes it may not be possible to make data publicly available in its entirety or even in part. 
@@ -94,12 +98,5 @@ Preserving privacy may still be possible if partial or generalised datasets are 
 For example, providing age bands instead of birth date or only the first two digits of postal codes.
 It may also be possible to provide the data in such a format that researchers can query it whist keeping the data itself closed, for example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints.
 
-#### National and commercially sensitive data
-
-In many cases companies are understandably unwilling to publish much of their data. 
-The reasoning goes that if commercially sensitive information is disclosed, it will damage the company’s commercial interests and undermine competitiveness. 
-This is based on the thinking that in competitive markets, innovation will only occur with some protection of information: if a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources. 
-The result is that no-one would innovate in the first place. 
-Similarly, governments are often unwilling to publish data that relates to issues such as national security due to public safety concerns.
-
-In such cases it may not be possible to make data open, or it may only be only possible to share partial/obscured datasets as outlined in the section above on privacy.
+Data privacy is also maintained when dealing with data of national or commercial interest, details for which are listed in the chapter [Researcg Data Management][rdm], in the section: *National and commercially sensitive data*.
+[rdm]: /rdm

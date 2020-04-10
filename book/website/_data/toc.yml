@@ -27,6 +27,7 @@
 
 
 # ===== NEW SECTION ========================================
+<<<<<<< HEAD
 
 - url: /welcome
   not_numbered: true
@@ -60,8 +61,28 @@
       url: /reproducible-research/open-research/resources
   - title: Version Control
     url: /reproducible-research/version-control
+    - title: Licensing
+      url: /reproducible-research/licensing
+      subsections:
+        url: /reproducible-research/licensing/softwarelicenses
+        url: /reproducible-research/licensing/datalicenses
   - title: Research Data Management
     url: /reproducible-research/rdm
+      subsections:
+      - title: The FAIR principles and practices
+        url: /reproducible-research/rdm/fairprinciples
+      - title: Storage and backup
+        url: /reproducible-research/rdm/storagebackup
+      - title: Data organisation in spreadsheets
+        url: /reproducible-research/rdm/spreadsheets
+      - title: Documentation and metadata
+        url: /reproducible-research/rdm/docmetadata
+      - title: Sharing and archiving data
+        url: /reproducible-research/rdm/sharingarchiving
+      - title: Personal Stories
+        url: /reproducible-research/rdm/personalstories
+      - title: Resources
+        url: /reproducible-research/rdm/resources
   - title: Reproducible Environments
     url: /reproducible-research/reproducible-environments
     subsections:
@@ -81,6 +102,8 @@
       url: /reproducible-research/reproducible-environments/resources
     - title: Checklist
       url: /reproducible-research/reproducible-environments/checklist
+  - title: Code Quality
+    url: /reproducible-research/code-quality
   - title: Testing
     url: /reproducible-research/testing
   - title: Reviewing
