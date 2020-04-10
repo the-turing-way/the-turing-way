@@ -949,6 +949,18 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "mkuzak",
+      "name": "Mateusz Kuzak",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/208443?v=4",
+      "profile": "https://github.com/mkuzak",
+      "contributions": [
+        "bug",
+        "ideas",
+        "review",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
