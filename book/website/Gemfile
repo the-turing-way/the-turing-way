@@ -21,7 +21,4 @@ gem 'guard-jekyll-plus', '~> 2.0.2'
 gem 'guard-livereload', '~> 2.5.2'
 
 # Adding html-proofer	
-gem 'html-proofer' 
-
-# Adding jekyll-redirect-from
-gem 'jekyll-redirect-from'
+gem 'html-proofer'
