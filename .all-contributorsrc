@@ -237,6 +237,15 @@
       ]
     },
     {
+      "login": "nlharris",
+      "name": "Nomi Harris",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/348704?v=4",
+      "profile": "https://github.com/nlharris",
+      "contributions": [
+        "review"
++      ]
+    },
+    {
       "login": "libertyh",
       "name": "Liberty Hamilton",
       "avatar_url": "https://avatars2.githubusercontent.com/u/3268583?v=4",
@@ -374,6 +383,19 @@
       "contributions": [
         "doc",
         "ideas"
+      ]
+    },
+    {
+      "login": "mkuzak",
+      "name": "Mateusz Kuzak",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/208443?v=4",
+      "profile": "https://github.com/mkuzak",
+      "contributions": [
+        "bug",
+        "eventOrganizing",
+        "ideas",
+        "review",
+        "content"
       ]
     },
     {
@@ -642,13 +664,13 @@
       ]
     },
     {
-       "login": "sverhoeven",
-       "name": "Stefan Verhoeven",
-       "avatar_url": "https://avatars1.githubusercontent.com/u/1713488?v=4",
-       "profile": "https://github.com/sverhoeven",
-       "contributions": [
-         "content"
-       ]
+      "login": "sverhoeven",
+      "name": "Stefan Verhoeven",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1713488?v=4",
+      "profile": "https://github.com/sverhoeven",
+      "contributions": [
+        "content"
+      ]
     },
     {
       "login": "KirstieJane",
