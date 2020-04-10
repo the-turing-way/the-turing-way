@@ -29,152 +29,152 @@
 # ===== NEW SECTION ========================================
 <<<<<<< HEAD
 
-- url: /welcome
+- url: welcome
   not_numbered: true
 
 - divider: true
 
-- url: /reproducible-research
+- url: reproducible-research
   not_numbered: true
   sections:
-  - url: /reproducible-research/overview
+  - url: reproducible-research/overview
     subsections:
-    - url: /reproducible-research/overview/definitions
-    - url: /reproducible-research/overview/benefit
-    - url: /reproducible-research/overview/resources
+    - url: reproducible-research/overview/definitions
+    - url: reproducible-research/overview/benefit
+    - url: reproducible-research/overview/resources
   - title: Open Research
-    url: /reproducible-research/open-research
+    url: reproducible-research/open-research
     subsections:
     - title: Open Data
-      url: /reproducible-research/open-research/opendata
+      url: reproducible-research/open-research/opendata
     - title: Open Source
-      url: /reproducible-research/open-research/opensource
+      url: reproducible-research/open-research/opensource
     - title: Open Hardware
-      url: /reproducible-research/open-research/openhardware
+      url: reproducible-research/open-research/openhardware
     - title: Open Access
-      url: /reproducible-research/open-research/openaccess
+      url: reproducible-research/open-research/openaccess
     - title: Open Notebooks
-      url: /reproducible-research/open-research/opennotebooks
+      url: reproducible-research/open-research/opennotebooks
     - title: Open Scholarship
-      url: /reproducible-research/open-research/openscholarship
+      url: reproducible-research/open-research/openscholarship
     - title: Resources
-      url: /reproducible-research/open-research/resources
+      url: reproducible-research/open-research/resources
   - title: Version Control
-    url: /reproducible-research/version-control
+    url: reproducible-research/version-control
     - title: Licensing
-      url: /reproducible-research/licensing
+      url: reproducible-research/licensing
       subsections:
-        url: /reproducible-research/licensing/softwarelicenses
-        url: /reproducible-research/licensing/datalicenses
+        url: reproducible-research/licensing/softwarelicenses
+        url: reproducible-research/licensing/datalicenses
   - title: Research Data Management
-    url: /reproducible-research/rdm
+    url: reproducible-research/rdm
       subsections:
       - title: The FAIR principles and practices
-        url: /reproducible-research/rdm/fairprinciples
+        url: reproducible-research/rdm/fairprinciples
       - title: Storage and backup
-        url: /reproducible-research/rdm/storagebackup
+        url: reproducible-research/rdm/storagebackup
       - title: Data organisation in spreadsheets
-        url: /reproducible-research/rdm/spreadsheets
+        url: reproducible-research/rdm/spreadsheets
       - title: Documentation and metadata
-        url: /reproducible-research/rdm/docmetadata
+        url: reproducible-research/rdm/docmetadata
       - title: Sharing and archiving data
-        url: /reproducible-research/rdm/sharingarchiving
+        url: reproducible-research/rdm/sharingarchiving
       - title: Personal Stories
-        url: /reproducible-research/rdm/personalstories
+        url: reproducible-research/rdm/personalstories
       - title: Resources
-        url: /reproducible-research/rdm/resources
+        url: reproducible-research/rdm/resources
   - title: Reproducible Environments
-    url: /reproducible-research/reproducible-environments
+    url: reproducible-research/reproducible-environments
     subsections:
     - title: Choosing a tool
-      url: /reproducible-research/reproducible-environments/options
+      url: reproducible-research/reproducible-environments/options
     - title: Conda
-      url: /reproducible-research/reproducible-environments/package-management
+      url: reproducible-research/reproducible-environments/package-management
     - title: YAML
-      url: /reproducible-research/reproducible-environments/yaml
+      url: reproducible-research/reproducible-environments/yaml
     - title: Binder
-      url: /reproducible-research/reproducible-environments/binder
+      url: reproducible-research/reproducible-environments/binder
     - title: Virtual machines
-      url: /reproducible-research/reproducible-environments/virtual-machines
+      url: reproducible-research/reproducible-environments/virtual-machines
     - title: Containers
-      url: /reproducible-research/reproducible-environments/containers
+      url: reproducible-research/reproducible-environments/containers
     - title: Resources
-      url: /reproducible-research/reproducible-environments/resources
+      url: reproducible-research/reproducible-environments/resources
     - title: Checklist
-      url: /reproducible-research/reproducible-environments/checklist
+      url: reproducible-research/reproducible-environments/checklist
   - title: Code Quality
-    url: /reproducible-research/code-quality
+    url: reproducible-research/code-quality
   - title: Testing
-    url: /reproducible-research/testing
+    url: reproducible-research/testing
   - title: Reviewing
-    url: /reproducible-research/reviewing
+    url: reproducible-research/reviewing
     subsections:
     - title: Importance and Personal Benefits
-      url: /reproducible-research/reviewing/motivation
+      url: reproducible-research/reviewing/motivation
     - title: Best Practices
-      url: /reproducible-research/reviewing/recommendations
+      url: reproducible-research/reviewing/recommendations
     - title: Typical Workflows
-      url: /reproducible-research/reviewing/workflows
+      url: reproducible-research/reviewing/workflows
     - title: Checklists, Next Steps and Bibliography
-      url: /reproducible-research/reviewing/checklist
+      url: reproducible-research/reviewing/checklist
   - title: Continuous Integration
-    url: /reproducible-research/continuous-integration
+    url: reproducible-research/continuous-integration
   - title: Reproducible Research with Make
-    url: /reproducible-research/make
+    url: reproducible-research/make
   - title: Research Compendia
-    url: /reproducible-research/research-compendia
+    url: reproducible-research/research-compendia
   - title: Credit for Reproducible Research
-    url: /reproducible-research/credit
+    url: reproducible-research/credit
   - title: Risk Assessment
-    url: /reproducible-research/risk-assessment
+    url: reproducible-research/risk-assessment
     subsections:
     - title: Long Read on Risk Assessment
-      url: /reproducible-research/risk-assessment/details
+      url: reproducible-research/risk-assessment/details
     - title: Summary
-      url: /reproducible-research/risk-assessment/summary
+      url: reproducible-research/risk-assessment/summary
   - title: BinderHub
-    url: /reproducible-research/binderhub
+    url: reproducible-research/binderhub
   - title: Glossary
-    url: /reproducible-research/glossary
+    url: reproducible-research/glossary
 
 - divider: true
 
-- url: /project-design
+- url: project-design
   not_numbered: true
 
 - divider: true
 
-- url: /communication
+- url: communication
   not_numbered: true
   sections:
   - title: File Naming Convention
-    url: /communication/filenaming
+    url: communication/filenaming
 - divider: true
 
-- url: /collaboration
+- url: collaboration
   not_numbered: true
   sections:
   - title: Collaborating on GitHub/GitLab
-    url: /collaboration/github
+    url: collaboration/github
     subsections:
     - title: README and Project Communication
-      url: /collaboration/github/readme
+      url: collaboration/github/readme
     - title: Roadmapping
-      url: /collaboration/github/roadmapping
+      url: collaboration/github/roadmapping
     - title: Getting Contributors
-      url: /collaboration/github/contributors
+      url: collaboration/github/contributors
     - title: Checklist and Bibliography
-      url: /collaboration/github/checklist
+      url: collaboration/github/checklist
 
 - divider: true
 
-- url: /ethical-research
+- url: ethical-research
   not_numbered: true
   sections:
   - title: Ethical Decision in Project Planning
-    url: /ethical-research/project-planning
+    url: ethical-research/project-planning
 
 - divider: true
 
-- url: /community-handbook
+- url: community-handbook
   not_numbered: true
