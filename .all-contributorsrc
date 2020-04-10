@@ -979,6 +979,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "fmcooper",
+      "name": "Frances Cooper",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/14854230?v=4",
+      "profile": "http://francescooper.net",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
