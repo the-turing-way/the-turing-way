@@ -63,25 +63,27 @@
   - title: Licensing
     url: /reproducible-research/licensing
     subsections:
+    - title: Sofware License
       url: /reproducible-research/licensing/softwarelicenses
+    - title: Data License
       url: /reproducible-research/licensing/datalicenses
   - title: Research Data Management
     url: /reproducible-research/rdm
-      subsections:
-      - title: The FAIR principles and practices
-        url: /reproducible-research/rdm/fairprinciples
-      - title: Storage and backup
-        url: /reproducible-research/rdm/storagebackup
-      - title: Data organisation in spreadsheets
-        url: /reproducible-research/rdm/spreadsheets
-      - title: Documentation and metadata
-        url: /reproducible-research/rdm/docmetadata
-      - title: Sharing and archiving data
-        url: /reproducible-research/rdm/sharingarchiving
-      - title: Personal Stories
-        url: /reproducible-research/rdm/personalstories
-      - title: Resources
-        url: /reproducible-research/rdm/resources
+    subsections:
+    - title: The FAIR principles and practices
+      url: /reproducible-research/rdm/fairprinciples
+    - title: Storage and backup
+      url: /reproducible-research/rdm/storagebackup
+    - title: Data organisation in spreadsheets
+      url: /reproducible-research/rdm/spreadsheets
+    - title: Documentation and metadata
+      url: /reproducible-research/rdm/docmetadata
+    - title: Sharing and archiving data
+      url: /reproducible-research/rdm/sharingarchiving
+    - title: Personal Stories
+      url: /reproducible-research/rdm/personalstories
+    - title: Resources
+      url: /reproducible-research/rdm/resources
   - title: Reproducible Environments
     url: /reproducible-research/reproducible-environments
     subsections:
