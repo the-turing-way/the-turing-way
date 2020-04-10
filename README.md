@@ -5,7 +5,7 @@
 [![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-102-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-103-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 | Test | Status |
@@ -226,6 +226,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
     <td align="center"><a href="http://users.aber.ac.uk/cos"><img src="https://avatars3.githubusercontent.com/u/1053628?v=4" width="100px;" alt=""/><br /><sub><b>Colin Sauze</b></sub></a><br /><a href="#ideas-colinsauze" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/Chrisisour"><img src="https://avatars2.githubusercontent.com/u/49248075?v=4" width="100px;" alt=""/><br /><sub><b>Chrisisour</b></sub></a><br /><a href="#ideas-Chrisisour" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/kessonovitch"><img src="https://avatars0.githubusercontent.com/u/23242159?v=4" width="100px;" alt=""/><br /><sub><b>Kesson Magid</b></sub></a><br /><a href="#ideas-kessonovitch" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/ArielleBL"><img src="https://avatars3.githubusercontent.com/u/47155465?v=4" width="100px;" alt=""/><br /><sub><b>ArielleBL</b></sub></a><br /><a href="#ideas-ArielleBL" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
