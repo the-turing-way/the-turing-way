@@ -564,7 +564,7 @@
     },
     {
       "login": "OliJimbo",
-      "name": "OliJimbo",
+      "name": "Oliver Clark",
       "avatar_url": "https://avatars2.githubusercontent.com/u/16899600?v=4",
       "profile": "https://github.com/OliJimbo",
       "contributions": [
@@ -811,7 +811,7 @@
     },
     {
       "login": "nbarlowATI",
-      "name": "nbarlowATI",
+      "name": "Nick Barlow",
       "avatar_url": "https://avatars3.githubusercontent.com/u/33832774?v=4",
       "profile": "https://github.com/nbarlowATI",
       "contributions": [
@@ -831,7 +831,7 @@
     },
     {
       "login": "nathanbegbie",
-      "name": "nathanbegbie",
+      "name": "Nathan Begbie",
       "avatar_url": "https://avatars0.githubusercontent.com/u/7100966?v=4",
       "profile": "https://github.com/nathanbegbie",
       "contributions": [
@@ -860,7 +860,7 @@
     },
     {
       "login": "m-rivera",
-      "name": "m-rivera",
+      "name": "Miguel Rivera",
       "avatar_url": "https://avatars1.githubusercontent.com/u/22956181?v=4",
       "profile": "https://github.com/m-rivera",
       "contributions": [
@@ -925,7 +925,7 @@
     },
     {
       "login": "kir0ul",
-      "name": "kir0ul",
+      "name": "Andrea Pierré",
       "avatar_url": "https://avatars3.githubusercontent.com/u/6053592?v=4",
       "profile": "https://github.com/kir0ul",
       "contributions": [
@@ -943,7 +943,7 @@
     },
     {
       "login": "anilbey",
-      "name": "anilbey",
+      "name": "Mustafa Anil Tuncel",
       "avatar_url": "https://avatars2.githubusercontent.com/u/7026020?v=4",
       "profile": "https://www.linkedin.com/in/aniltuncel/",
       "contributions": [
@@ -998,7 +998,7 @@
     },
     {
       "login": "Chrisisour",
-      "name": "Chrisisour",
+      "name": "Christina Hitrova",
       "avatar_url": "https://avatars2.githubusercontent.com/u/49248075?v=4",
       "profile": "https://github.com/Chrisisour",
       "contributions": [
@@ -1016,7 +1016,7 @@
     },
     {
       "login": "ArielleBL",
-      "name": "ArielleBL",
+      "name": "Arielle Bennett-Lovell",
       "avatar_url": "https://avatars3.githubusercontent.com/u/47155465?v=4",
       "profile": "https://github.com/ArielleBL",
       "contributions": [
@@ -1025,9 +1025,153 @@
     },
     {
       "login": "kdixey",
-      "name": "kdixey",
+      "name": "Katherine Dixey",
       "avatar_url": "https://avatars2.githubusercontent.com/u/59925972?v=4",
       "profile": "https://github.com/kdixey",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "nalessandroni",
+      "name": "Nicolás Alessandroni",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/43151303?v=4",
+      "profile": "https://orcid.org/0000-0002-6595-0969",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "alexwlchan",
+      "name": "Alex Chan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/301220?v=4",
+      "profile": "https://alexwlchan.net",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "npch",
+      "name": "Neil Chue Hong",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1507151?v=4",
+      "profile": "http://www.software.ac.uk",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "Trotts",
+      "name": "Cameron Trotter",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/9531671?v=4",
+      "profile": "http://trotts.io",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "vladoxNCL",
+      "name": "Carlos Vladimiro González Zelaya",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/33488410?v=4",
+      "profile": "https://github.com/vladoxNCL",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "ppintosilva",
+      "name": "Pedro Pinto da Silva",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11331882?v=4",
+      "profile": "https://ppintosilva.com",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "SedarOlmez94",
+      "name": "Sedar Olmez",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/10035934?v=4",
+      "profile": "https://www.turing.ac.uk/people/doctoral-students/sedar-olmez",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "rosesisk",
+      "name": "Rose Sisk",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/52324551?v=4",
+      "profile": "https://github.com/rosesisk",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "mednche",
+      "name": "Natacha Chenevoy",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/24226111?v=4",
+      "profile": "https://mednche.github.io",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "paulbaniqued",
+      "name": "Paul Dominick Baniqued",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/47854500?v=4",
+      "profile": "https://github.com/paulbaniqued",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "GeorgiaA",
+      "name": "Georgia Atkinson",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/33513781?v=4",
+      "profile": "https://github.com/GeorgiaA",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "davehedgehog",
+      "name": "Tess Gough",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/57715289?v=4",
+      "profile": "https://github.com/davehedgehog",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "annabelelizabethwhipp",
+      "name": "Annabel Elizabeth Whipp",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/32568227?v=4",
+      "profile": "https://annabelelizabethwhipp.github.io/homepage",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "sianbladon",
+      "name": "Sian Bladon",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/60200458?v=4",
+      "profile": "https://github.com/sianbladon",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "watson-c",
+      "name": "Charlotte Watson",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48691807?v=4",
+      "profile": "https://github.com/watson-c",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "philipdarke",
+      "name": "Philip Darke",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/43066442?v=4",
+      "profile": "http://philipdarke.com",
       "contributions": [
         "ideas"
       ]
@@ -1036,5 +1180,6 @@
   "projectName": "the-turing-way",
   "projectOwner": "alan-turing-institute",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "commitConvention": "none"
 }
