@@ -74,6 +74,16 @@
       ]
     },
     {
+      "login": "dblana",
+      "name": "Dimitra Blana",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/13907429?v=4",
+      "profile": "https://dblana.github.io/",
+      "contributions": [
+        "review",
+        "content"
+      ]
+    },
+    {
       "login": "LouiseABowler",
       "name": "Louise Bowler",
       "avatar_url": "https://avatars1.githubusercontent.com/u/25640708?v=4",
@@ -708,6 +718,15 @@
       ]
     },
     {
+      "login": "eirini-zormpa",
+      "name": "Eirini Zormpa",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/30151074?v=4",
+      "profile": "https://github.com/eirini-zormpa",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
       "login": "malvikasharan",
       "name": "Malvika Sharan",
       "avatar_url": "https://avatars0.githubusercontent.com/u/5370471?v=4",
@@ -781,7 +800,7 @@
     },
     {
       "login": "EstherPlomp",
-      "name": "Esther",
+      "name": "Esther Plomp",
       "avatar_url": "https://avatars1.githubusercontent.com/u/46314469?v=4",
       "profile": "https://github.com/EstherPlomp",
       "contributions": [
