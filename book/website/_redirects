@@ -1,2 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/inroduction/introduction              /reproducibility/reproducibility
+https://deploy-preview-1023--the-turing-way.netlify.com/introduction/introduction              https://the-turing-way.netlify.com/reproducibility/reproducibility.html
