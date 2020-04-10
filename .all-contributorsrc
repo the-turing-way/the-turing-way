@@ -961,6 +961,15 @@
         "review",
         "content"
       ]
+    },
+    {
+      "login": "bouweandela",
+      "name": "Bouwe Andela",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5430937?v=4",
+      "profile": "https://github.com/bouweandela",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
