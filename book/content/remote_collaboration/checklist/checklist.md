@@ -4,14 +4,14 @@ The last two checklists are about managing and participating in the distributed 
 
 # Table of content
 
-- [Checklist for organising a remote meeting](#checklist-for-organising-a-remote-meeting)
+1. [Checklist for organising a remote meeting](#checklist-for-organising-a-remote-meeting)
    + [Before the meeting](#before-the-meeting)
       * [Designated venues to participate from](#designated-venues-to-participate-from)
    + [During the meeting](#during-the-meeting)
       * [Breakout rooms](#breakout-rooms)
    + [After the meeting](#after-the-meeting)
-  
-- [Checklist for running a longer event such as a conference or sprint](#checklist-for-running-a-longer-event-such-as-a-conference-or-sprint)
+
+2. [Checklist for running a longer event such as a conference or sprint](#checklist-for-running-a-longer-event-such-as-a-conference-or-sprint)
   + [Before the event](#before-the-event)
     * [The organising committee for the event](#the-organising-committee-for-the-event)
     * [Website for the event](#website-for-the-event)
@@ -39,12 +39,13 @@ The last two checklists are about managing and participating in the distributed 
     * [Social events](#social-events)
     * [Handling breakout rooms](#handling-breakout-rooms)
   + [After the event](#after-the-event)
-- [Checklist for attending a remote meeting or event](#checklist-for-attending-a-remote-meeting-or-event)
+
+3. [Checklist for attending a remote meeting or event](#checklist-for-attending-a-remote-meeting-or-event)
   + [Before participating in the meeting](#before-participating-in-the-meeting)
   + [During participating in the meeting](#during-participating-in-the-meeting)
   + [After participating in the meeting](#after-participating-in-the-meeting)
   
-- [Checklist for managing and participating in a distributed team](#checklist-for-managing-and-participating-in-a-distributed-team)
+4. [Checklist for managing and participating in a distributed team](#checklist-for-managing-and-participating-in-a-distributed-team)
   + [Tips for all the members](#tips-for-all-the-members)
   + [Specific tips for the managers](#specific-tips-for-the-managers)
   + [Specific tips for the team members](#specific-tips-for-the-team-members)
@@ -54,23 +55,24 @@ The last two checklists are about managing and participating in the distributed 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 <a name="checklist-for-organising-a-remote-meeting"></a>
-## Checklist for organising a remote meeting
+## 1. Checklist for organising a remote meeting
 
-<a name="#before-the-meeting"></a>
+<a name="before-the-meeting"></a>
 ### Before the meeting
 
 <!---<details>
   <summary>Click to expand</summary>--->
 
 - [ ] Identify a most suitable slot that is time zone compatible for all the members using tools like [Doodle](https://doodle.com/en/) or [when2meet](https://www.when2meet.com/)
-  + [ ] If you are planning a meeting that includes Americas/Oceania (with over 12 hours difference), consider to have two sessions, to avoid holding a meeting in very early or vary late in the day
+  + [ ] If you are planning a meeting that includes Americas/Oceania (with over 12 hours difference), consider to have two sessions to avoid holding a meeting in very early or vary late in the day
+  + [ ] Assign different chairs when holding calls in two different time zones
 - [ ] Use a standard time with a custom link like [arewemeetingyet](https://arewemeetingyet.com/) or [timeanddate.com](https://www.timeanddate.com/worldclock/fixedform.html) to different time zones when communicating
 - [ ] Set a protocol for your meeting participants (if there is not any available already), which should include basic etiquette explaining the following
-  + [ ] Is keeping the webcam and microphone on by default? Can they turn if off? 
-  + [ ] Is there a password needed to join the call? Can they join before the host?
-  + [ ] How can they ensure privacy of their family member - like by blurring their background, or using a virtual background? 
-  + [ ] How will they be able to particiapte in an ongoing discussion? Can they raise their hand of ping the chair personally?
-  + [ ] What kind of challenges can they face while joining the call/meeting and how they can troubleshoot them?
+  + [ ] Is keeping the webcam and microphone on recommended? Can they be turned off during the call? 
+  + [ ] Is there a password needed to join the call? Can attendees join before the host?
+  + [ ] How can attendees ensure privacy of their family member? Provide instructions for blurring their background, or using a virtual background? 
+  + [ ] How will attendees be able to particiapte in an ongoing discussion? How can they raise their hands of ask the chair personally?
+  + [ ] What kind of challenges attendees may face while joining the call/meeting and how can they troubleshoot them?
 - [ ] Identify a chair and note-taker for the meeting
   + [ ] Share guidelines and protocols for chairing and note-taking
 - [ ] Decide if there will be designated speakers with presentations
@@ -81,11 +83,13 @@ The last two checklists are about managing and participating in the distributed 
   + [ ] Participation guideline
   + [ ] Code of Conduct and contact information of people who can help with any issues regarding the meeting  
   + [ ] The exact date, time, location (if any!) and choice of tool that will be used for communication
+  + [ ] Agenda of the meeting
+  + [ ] A place to indicate their participation or absense
 - [ ] Share this document via an email to all the attendees and also add this to a calendar invite so that people have it handy when needed  
 - [ ] The choice of tool should be preferably an open source tool to avoid inaccessibility
   + [ ] If using a tool that is available only upon subscription, make sure that all the members have the access information
   + [ ] Share a how-to guide to ensure that everyone knows how to use the tool
-  + [ ] If possible, offer help with installation and testing of the tool
+  + [ ] If possible, offer help with installation and testing of the tool in advance
 - [ ] Distribute the shared document a few days before the meeting
   + [ ] Ask everyone to add any agenda item that they would like to discuss at the meeting
   + [ ] Ask everyone to write their name indicating their participation in or absence from the meeting
@@ -97,7 +101,7 @@ The last two checklists are about managing and participating in the distributed 
   + [ ] Add contact details, date and location of resources and licence, to make your slides reusable
   
 <!---</details>--->
-<a name="#designated-venues-to-participate-from"></a>
+<a name="designated-venues-to-participate-from"></a>
 #### Designated venues to participate from
 *If there are physical office locations, or co-working spaces accessible for most members*
 
@@ -106,7 +110,7 @@ The last two checklists are about managing and participating in the distributed 
 
 - [ ] Reserve conference room(s) (or similar venues) with high speed internet
 - [ ] Share details on how members can access this venue
-- [ ] When possible, use individual cameras to simulate remote participation so that those who are not attending in person don't feel left out.
+- [ ] When possible, use individual cameras to simulate remote participation so that those who are not attending in person don't feel left out
 - [ ] If the reserved location has a webcam and microphone, check that they work properly
   + [ ] Plan the seating arrangement so that people are facing to the main screen/camera
   + [ ] Test the screen with different light intensities
@@ -115,43 +119,47 @@ The last two checklists are about managing and participating in the distributed 
 - [ ] Make sure that the protocols are written to favour the remote participants
 
 <!---</details>--->
-<a name="#during-the-meeting"></a>
+<a name="during-the-meeting"></a>
 ### During the meeting
 
 <!---<details>
   <summary>Click to expand</summary>--->
 
+- [ ] Re-share the links to the collaborative notes for the meeting in the chat system or email
 - [ ] Remind of the community participation guideline and the Code of Conduct
 - [ ] Introduce the chair and notetaker, and let the chair take over for the rest of the tasks
 - [ ] Introduce the format of the meeting and briefly describe the overall schedule, such as the timing of breaks
+- [ ] If possible, keep the video call separate from chat system to ensure that the speakers are not distracted and the conversations can be recorded on the chat system
 - [ ] Explain the basic protocols for participation
   + [ ] Muting microphone when not speaking
   + [ ] Using a chat system during the meeting - if there is one
+- [ ] Request everyone to keep their camera on whenever possible
+- [ ] If recording the call, make sure that all the participants are aware before you hit the record button
+  + [ ] Allow people to turn their video off when recording
 - [ ] Remind the guidelines for participating in discussions
   + [ ] Raise hand - on chat, or virtually (like in Zoom) or physically
   + [ ] Other ways to involve others in the discussion equitably
-- [ ] For gathering opinion and response, use silent writing time rather than open discussion
-  + [ ] Give clear instructions of what's expected from the writing exercises and how long it should take and give a reminder in the last minute to wrap up if the exercise is more than 5 minutes
-- [ ] Ensure that the discussion is inclusive of everyone
 - [ ] Start the meeting with an icebreaker question that can be either written down or shared out verbally depending on how many people are on the call 
-  + [ ] Create opportunities for everyone to share something personal (about their hobby, or experiences) on the document or verbally   
-- [ ] Indicate if the speakers should speed up or slow down, or if there is a technical issue that the speakers should check
+  + [ ] Create opportunities for everyone to share something personal (about their hobby, or experiences) on the document or verbally  
 - [ ] Facilitate questions and answer or discussion on the agenda points
 - [ ] Help answer procedural questions like “where is this button that I should click”
 - [ ] Direct technical questions to the organiser when needed
 - [ ] Use breakout rooms whenever possible to ensure that people can connect with each other while discussing questions or issues of mutual interest (more tips below)
-- [ ] Aim to have a fair discussion, don’t fixate on one argument or speaker
+- [ ] For gathering opinion and response, use silent writing time rather than open discussion
+  + [ ] Give clear instructions of what's expected from the writing exercises and how long it should take  
+  + [ ] Give reminder in the last minute to wrap up 
+- [ ] Ensure that the discussion is inclusive of everyone, aim to have a fair discussion, don’t fixate on one argument or speaker 
+- [ ] Indicate if the speakers should speed up or slow down, or if there is a technical issue that the speakers should check
 - [ ] Notetakers should document important outcomes from every discussion
 - [ ] Encourage everyone to help the notetaker in documenting correct information
-- [ ] Request everyone to keep their camera on whenever possible
-- [ ] If recording the call, make sure that all the participants are aware before you hit the record button
-  + [ ] Allow people to turn their video off when recording
-- [ ] In the last part of the call, create action points and delegating them to different people on the call
-  + [ ] Ask people to volunteer to assign themselves to each task, but be inclusive and equitable in this process.
+- [ ] In the last part of the call, create action points and delegate them to different people while on the call
+  + [ ] Ask people to volunteer to assign themselves to each task, but be inclusive and equitable in this process
 - [ ] End the meeting on time by thanking everyone and sharing the date for a next call, if any!
+- [ ] If possible, stay a few minutes extra on the call to make sure that people have a chance to clarify their questions after the meetinf
 
 <!---</details>--->
-<a name="#breakout-rooms"></a>
+
+<a name="breakout-rooms"></a>
 #### Breakout rooms
 *If using breakout rooms in Zoom (or similar tool), make sure that each breakout has an organiser to help*
 
@@ -166,7 +174,7 @@ The last two checklists are about managing and participating in the distributed 
 - [ ] When people come back from their breakout rooms, ask them to share main arguments from their discussion
 
 <!---</details>--->
-<a name="#after-the-meeting"></a>
+<a name="after-the-meeting"></a>
 ### After the meeting
 
 <!---<details>
@@ -180,18 +188,18 @@ The last two checklists are about managing and participating in the distributed 
 
 <!---</details>--->
 
-<a name="#checklist-for-running-a-longer-event-such-as-a-conference-or-sprint"></a>
-## Checklist for running a longer event such as a conference or sprint
+<a name="checklist-for-running-a-longer-event-such-as-a-conference-or-sprint"></a>
+## 2. Checklist for running a longer event such as a conference or sprint
 
 *This is a growing list - feel free to correct or add anything that's missing!*
 
-<a name="#before-the-event"></a>
+<a name="before-the-event"></a>
 ### Before the event
 
 The different subsections are marked as "Earlier-phase", "Mid-phase", and "Later-phase", based on their importance at the different phases of organisation.
 A few subsections are marked as "Relevant for all phases", as those aspects should be taken care of in all stages of event organisation.
 
-<a name="#the-organising-committee-for-the-event"></a>
+<a name="the-organising-committee-for-the-event"></a>
 #### The organising committee for the event 
 
 ***Earlier-phase***
@@ -207,7 +215,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
-<a name="#website-for-the-event"></a>
+<a name="website-for-the-event"></a>
 #### Website for the event (preplanning)
 
 ***Earlier-phase***
@@ -229,14 +237,14 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
-<a name="#community-participation-and-accessibility"></a>
+<a name="community-participation-and-accessibility"></a>
 #### Community participation and accessibility
 
 ***Relevant for all phases***
 <!---<details>
   <summary>Click to expand</summary>--->
 
-- [ ] Choose a Code of Conduct that captures your events' values
+- [ ] Choose a Code of Conduct that captures your organisation and community' values
 - [ ] Describe your community participation guidelines
 - [ ] Create possibilities for people to ask for support to attend your event
 - [ ] Create a reporting guideline for any question, concern or breach of Code of Conduct
@@ -250,7 +258,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
-<a name="#communication-channel"></a>
+<a name="communication-channel"></a>
 #### Communication channel
 
 ***Relevant for all phases***
@@ -269,7 +277,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
-<a name="#storing-and-sharing-information-within-the-organising-committee"></a>
+<a name="storing-and-sharing-information-within-the-organising-committee"></a>
 #### Storing and sharing information within the organising committee
 
 ***Relevant for all phases***
@@ -280,10 +288,12 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - [ ] Establish a common location for storing and sharing documentation
 - [ ] All organisers should have access to all documentation used for planning and organisation
 - [ ] Create a single page summary for the organisers listing the available resources with their links
+- [ ] Have meetings periodically to list and create an overview the immediate task, check with people who these tasks are delegated to and plan the next steps till the next meeting
+- [ ] Maintain notes from each call and share with all the members in the organising committee
 
 <!---</details>--->
 
-<a name="#budget"></a>
+<a name="budget"></a>
 #### Budget
 
 ***Mid-phase***
@@ -299,7 +309,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
-<a name="#participation-support-grants"></a>
+<a name="participation-support-grants"></a>
 #### Participation support grants
 
 ***Mid-phase***
@@ -320,7 +330,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
-<a name="#event-theme-and-duration"></a>
+<a name="event-theme-and-duration"></a>
 #### Event theme and duration 
 
 ***Mid-phase***
@@ -335,7 +345,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
-<a name="#define-timeline-and-invite-applications"></a>
+<a name="define-timeline-and-invite-applications"></a>
 #### Define timeline and invite applications
 
 ***Mid-phase***
@@ -354,7 +364,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - [ ] Invite abstracts for talks and sessions and share rubrics for selection
 
 <!---</details>--->
-<a name="#create-a-registration-form"></a>
+<a name="create-a-registration-form"></a>
 #### Create a registration form
 
 ***Mid-phase***
@@ -374,7 +384,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
-<a name="#community-suggestion-and-feedback-forms"></a>
+<a name="community-suggestion-and-feedback-forms"></a>
 #### Community suggestion and feedback forms
 
 ***Mid-phase***
@@ -395,7 +405,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 <!---</details>--->
 
-<a name="#program"></a>
+<a name="program"></a>
 #### Program
 
 ***Later-phase***
@@ -432,7 +442,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
-<a name="#document-and-tools-for-participants"></a>
+<a name="document-and-tools-for-participants"></a>
 #### Documents and tools for participants
 
 ***Relevant for all phases***
@@ -453,7 +463,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 <!---</details>--->
 
 
-<a name="#organise-a-pre-event-community-call"></a>
+<a name="organise-a-pre-event-community-call"></a>
 #### Organise a pre-event community call
 *Often referred by different names such as installation party, coffee-hours or set-up test fest*
 
@@ -471,7 +481,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
-<a name="#storing-and-sharing-information-with-the-participants"></a>
+<a name="storing-and-sharing-information-with-the-participants"></a>
 #### Storing and sharing information with the participants
 
 ***Later-phase***
@@ -487,7 +497,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
-<a name="#branding-and-promotional-materials"></a>
+<a name="branding-and-promotional-materials"></a>
 #### Branding and promotional materials
 
 ***Relevant for all phases***
@@ -504,7 +514,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
-<a name="#designated-venues-for-participation"></a>
+<a name="designated-venues-for-participation"></a>
 #### Designated venues for participation
 
 *If there are physical office locations, or co-working spaces accessible for most members*
@@ -525,16 +535,18 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
-<a name="#during-the-event"></a>
+<a name="during-the-event"></a>
 ### During the event
 
-<a name="#kicking-off-the-event"></a>
+<a name="kicking-off-the-event"></a>
 #### Kicking off the event
 
 *Checklist for the designated chair of the opening session*
 <!---<details>
   <summary>Click to expand</summary>--->
 
+- [ ] Start the video call, or any communication channel 30 minutes before the event to check that everything works
+- [ ] Share links to the documents and other resources for the event on the chat system like Slack
 - [ ] Remind attendees of the community participation guideline and the Code of Conduct
 - [ ] Introduce the organising committees and the Code of Conduct contact person for the event
 - [ ] Introduce the format of the meeting and when the breaks are scheduled
@@ -553,7 +565,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
-<a name="#talks-and-presentations"></a>
+<a name="talks-and-presentations"></a>
 #### Talks and presentations
 
 *Checklist for the chair of the designated talk*
@@ -611,7 +623,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
-<a name="#lightning-talks"></a>
+<a name="lightning-talks"></a>
 #### Lightning talks
 
 *Checklist for the designated chair of these sessions*
@@ -629,7 +641,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
-<a name="#poster-sessions"></a>
+<a name="poster-sessions"></a>
 #### Poster sessions
 
 *Checklist for the designated chair of these sessions*
@@ -650,7 +662,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
-<a name="#social-events"></a>
+<a name="social-events"></a>
 #### Social events
 
 *Checklist for the session lead, helpers and note-takers of the designated session*
@@ -671,7 +683,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
-<a name="#handling-breakout-rooms"></a>
+<a name="handling-breakout-rooms"></a>
 #### Handling breakout rooms
 
 *If using breakout rooms in Zoom (or similar tool), make sure that the organiser helps you create Groups*
@@ -687,7 +699,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
-<a name="#after-the-event"></a>
+<a name="after-the-event"></a>
 ### After the event
 
 <!---<details>
@@ -704,14 +716,14 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 <!---</details>--->
 
-<a name="#checklist-for-attending-a-remote-meeting-or-event"></a>
+<a name="checklist-for-attending-a-remote-meeting-or-event"></a>
 ## Checklist for attending a remote meeting or event
 
 *So you have been invited to attend an online meeting, or have registered to attend an online event. 
 This is the checklist that will help you start preparing for your participation in the meeting/event and make the most of it.
 This checklist also aims to help participants support the event organisers by being proactive and informed about the resources that are available for them.*
 
-<a name="#before-participating-in-the-meeting"></a>
+<a name="before-participating-in-the-meeting"></a>
 ### Before participating in the meeting
 
 <!---<details>
@@ -739,7 +751,7 @@ This checklist also aims to help participants support the event organisers by be
 
 <!---</details>--->
 
-<a name="#during-participating-in-the-meeting"></a>
+<a name="during-participating-in-the-meeting"></a>
 ### During participating in the meeting
 
 <!---<details>
@@ -765,7 +777,7 @@ This checklist also aims to help participants support the event organisers by be
 
 <!---</details>--->
 
-<a name="#after-participating-in-the-meeting"></a>
+<a name="after-participating-in-the-meeting"></a>
 ### After participating in the meeting
 
 <!---<details>
@@ -782,25 +794,25 @@ This checklist also aims to help participants support the event organisers by be
 
 <!---</details>--->
 
-<a name="#checklist-for-managing-and-participating-in-a-distributed-team"></a>
+<a name="checklist-for-managing-and-participating-in-a-distributed-team"></a>
 ## Checklist for managing and participating in a distributed team
 *HELP WANTED*
 
-<a name="#tips-for-all-the-members"></a>
+<a name="tips-for-all-the-members"></a>
 ### Tips for all the members
 <details>
   <summary>Click to expand</summary>
 
 </details>
 
-<a name="#specific-tips-for-the-managers"></a>
+<a name="specific-tips-for-the-managers"></a>
 ### Specific tips for the managers
 <details>
   <summary>Click to expand</summary>
 
 </details>
 
-<a name="#specific-tips-for-the-team-members"></a>
+<a name="specific-tips-for-the-team-members"></a>
 ### Specific tips for the team members
 <details>
   <summary>Click to expand</summary>
@@ -809,7 +821,7 @@ This checklist also aims to help participants support the event organisers by be
 
 </details>
 
-<a name="#bibliography"></a>
+<a name="bibliography"></a>
 ## Bibliography
 
 - The *Checklist for running a meeting* is a summarised version of the [Gallantries (Galaxy+The Carpentries handbook)](https://galaxy-carpentries.github.io/gallantries/handbook) which is an expanded version of [The Carpentries workshop checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html)
