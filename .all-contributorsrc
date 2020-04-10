@@ -1031,10 +1031,20 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "nalessandroni",
+      "name": "Nicolás Alessandroni",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/43151303?v=4",
+      "profile": "https://orcid.org/0000-0002-6595-0969",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "projectName": "the-turing-way",
   "projectOwner": "alan-turing-institute",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "commitConvention": "none"
 }
