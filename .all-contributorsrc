@@ -986,6 +986,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "colinsauze",
+      "name": "Colin Sauze",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1053628?v=4",
+      "profile": "http://users.aber.ac.uk/cos",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "projectName": "the-turing-way",
