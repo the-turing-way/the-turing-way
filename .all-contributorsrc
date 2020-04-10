@@ -74,6 +74,16 @@
       ]
     },
     {
+      "login": "dblana",
+      "name": "Dimitra Blana",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/13907429?v=4",
+      "profile": "https://dblana.github.io/",
+      "contributions": [
+        "review",
+        "content"
+      ]
+    },
+    {
       "login": "LouiseABowler",
       "name": "Louise Bowler",
       "avatar_url": "https://avatars1.githubusercontent.com/u/25640708?v=4",
@@ -121,7 +131,8 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/3007126?v=4",
       "profile": "http://sdruskat.net",
       "contributions": [
-        "doc"
+        "doc",
+        "content"
       ]
     },
     {
@@ -235,6 +246,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "nlharris",
+      "name": "Nomi Harris",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/348704?v=4",
+      "profile": "https://github.com/nlharris",
+      "contributions": [
+        "review"
++      ]
     },
     {
       "login": "libertyh",
@@ -377,6 +397,19 @@
       ]
     },
     {
+      "login": "mkuzak",
+      "name": "Mateusz Kuzak",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/208443?v=4",
+      "profile": "https://github.com/mkuzak",
+      "contributions": [
+        "bug",
+        "eventOrganizing",
+        "ideas",
+        "review",
+        "content"
+      ]
+    },
+    {
       "login": "erictleung",
       "name": "Eric Leung",
       "avatar_url": "https://avatars2.githubusercontent.com/u/2754821?v=4",
@@ -413,6 +446,15 @@
       ]
     },
     {
+      "login": "FrancesMadden",
+      "name": "Frances Madden",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/52208466?v=4",
+      "profile": "https://github.com/FrancesMadden",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
       "login": "rockita",
       "name": "Eirini Malliaraki",
       "avatar_url": "https://avatars3.githubusercontent.com/u/36627260?v=4",
@@ -431,12 +473,24 @@
       ]
     },
     {
+      "login": "c-martinez",
+      "name": "Carlos Martinez",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7782231?v=4",
+      "profile": "https://github.com/c-martinez",
+      "contributions": [
+        "bug",
+        "review",
+        "content"
+      ]
+    },
+    {
       "login": "orchid00",
       "name": "Paula Andrea Martinez",
       "avatar_url": "https://avatars3.githubusercontent.com/u/9795785?v=4",
       "profile": "https://github.com/orchid00",
       "contributions": [
-        "ideas"
+        "ideas",
+        "review"
       ]
     },
     {
@@ -556,6 +610,15 @@
       ]
     },
     {
+      "login": "PabRod",
+      "name": "Pablo Rodríguez-Sánchez",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7677614?v=4",
+      "profile": "https://pabrod.github.io/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
       "login": "SusannaSansone",
       "name": "Susanna-Assunta Sansone",
       "avatar_url": "https://avatars3.githubusercontent.com/u/525719?v=4",
@@ -641,6 +704,15 @@
       ]
     },
     {
+      "login": "sverhoeven",
+      "name": "Stefan Verhoeven",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1713488?v=4",
+      "profile": "https://github.com/sverhoeven",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
       "login": "KirstieJane",
       "name": "Kirstie Whitaker",
       "avatar_url": "https://avatars1.githubusercontent.com/u/3626306?v=4",
@@ -672,6 +744,16 @@
       "profile": "http://yo-yehudi.com",
       "contributions": [
         "doc",
+        "review"
+      ]
+    },
+    {
+      "login": "eirini-zormpa",
+      "name": "Eirini Zormpa",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/30151074?v=4",
+      "profile": "https://github.com/eirini-zormpa",
+      "contributions": [
+        "bug",
         "review"
       ]
     },
@@ -749,7 +831,7 @@
     },
     {
       "login": "EstherPlomp",
-      "name": "Esther",
+      "name": "Esther Plomp",
       "avatar_url": "https://avatars1.githubusercontent.com/u/46314469?v=4",
       "profile": "https://github.com/EstherPlomp",
       "contributions": [
