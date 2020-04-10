@@ -158,7 +158,7 @@ jupyter_book_version: 0.6.4
 
 ### Test redirection of old link to new multi-book-view
 
-title: Welcome
+#title: Welcome
 redirect_from:
   - /introduction/introduction
   - /welcome
