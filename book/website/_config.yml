@@ -156,9 +156,9 @@ plugins:
 # Jupyter Book version - DO NOT CHANGE THIS. It is generated when a new book is created
 jupyter_book_version: 0.6.4
 
-### Test redirection of old link to new ,ulti-book-view
+### Test redirection of old link to new multi-book-view
 
-title: multi-book-view
+#title: Welcome
 redirect_from:
   - /introduction/introduction
-  - /welcome
+  - /reproducibility/reproducibility
