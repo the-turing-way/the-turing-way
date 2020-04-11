@@ -1,12 +1,19 @@
-<a name="Package_management_systems"></a>
-
-## Package management systems
+# Package management systems
 
 Package managers install and keep track of the different software packages (and their versions) that you use within an environment. There are quite a few to choose from, for example Yum, Zypper, dpkg, and Nix (which will be mentioned briefly later in the [Binder](#Binder_section) section). We're going to focus on [Conda](https://conda.io/en/latest/), which has a number of useful functionalities.
 
-<a name="What_does_Conda_do"></a>
+## Table of contents
 
-### What does Conda do?
+- [Package management systems](#Package_management_systems)
+  - [What does Conda do?](#What_does_Conda_do)
+  - [Installing Conda](#Installing_Conda)
+  - [Making and using environments](#Making_and_using_environments)
+  - [Deactivating and deleting environments](#Deactivating_and_deleting_environments)
+  - [Installing and removing packages within an environment](#Installing_and_removing_packages_within_an_environment)
+  - [Exporting and reproducing computational environments](#Exporting_and_reproducing_computational_environments)
+
+<a name="What_does_Conda_do"></a>
+## What does Conda do?
 
 Conda allows users to create any number of environments which are entirely separate, and to quickly and easily change between them.
 For example, say a researcher has a project: Project One, which has its own environment defined by Conda which is made up of a set of packages and versions of those packages:
@@ -41,8 +48,7 @@ Another benefit of Conda is that it offers much greater flexibility to users who
 Finally, while Conda is Python-centric to a degree, it is also well integrated for use with other languages, for example the base version of Conda includes the C++ standard library.
 
 <a name="Installing_Conda"></a>
-
-### Installing Conda
+## Installing Conda
 
 Note that these installation instructions are directed towards Linux systems. Instructions for installing Conda on Windows or Mac systems can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
 
@@ -61,8 +67,7 @@ conda --version
 which should output a version number.
 
 <a name="Making_and_using_environments"></a>
-
-### Making and using environments
+## Making and using environments
 
 Conda automatically installs a base environment with some commonly used software packages. It is possible to just work in this base environment, however it is good practise to create a new environment for each project you start.
 
@@ -100,8 +105,7 @@ Python 3.7.1
 ```
 
 <a name="Deactivating_and_deleting_environments"></a>
-
-### Deactivating and deleting environments
+## Deactivating and deleting environments
 
 You can deactivate (get out of) an environment using
 
@@ -134,8 +138,7 @@ conda remove --name Project_One --all
 ```
 
 <a name="Installing_and_removing_packages_within_an_environment"></a>
-
-### Installing and removing packages within an environment
+## Installing and removing packages within an environment
 
 Within an environment you can install more packages using
 
@@ -183,8 +186,7 @@ conda install -c channel_name package_name
 ```
 
 <a name="Exporting_and_reproducing_computational_environments"></a>
-
-### Exporting and reproducing computational environments
+## Exporting and reproducing computational environments
 
 Conda environments can be exported easily to human-readable files in the YAML format. YAML files are discussed in more detail [later](#YAML_files) in this chapter.
 

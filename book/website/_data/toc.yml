@@ -36,59 +36,61 @@
 - url: /reproducible-research
   not_numbered: true
   sections:
-  - url: /reproducible-research/overview
+  - title: Overview
+  - url: /reproducible-research/reproducibility-overview
     subsections:
     - url: /reproducible-research/overview/definitions
     - url: /reproducible-research/overview/benefit
+    - title: Resources
     - url: /reproducible-research/overview/resources
   - title: Open Research
     url: /reproducible-research/open-research
     subsections:
     - title: Open Data
-      url: /reproducible-research/open-research/opendata
+      url: /reproducible-research/open-research/open-data
     - title: Open Source
-      url: /reproducible-research/open-research/opensource
+      url: /reproducible-research/open-research/open-source
     - title: Open Hardware
-      url: /reproducible-research/open-research/openhardware
+      url: /reproducible-research/open-research/open-hardware
     - title: Open Access
-      url: /reproducible-research/open-research/openaccess
+      url: /reproducible-research/open-research/open-access
     - title: Open Notebooks
-      url: /reproducible-research/open-research/opennotebooks
+      url: /reproducible-research/open-research/open-notebooks
     - title: Open Scholarship
-      url: /reproducible-research/open-research/openscholarship
+      url: /reproducible-research/open-research/open-scholarship
     - title: Resources
-      url: /reproducible-research/open-research/resources
+      url: /reproducible-research/open-research/open-resources
   - title: Version Control
     url: /reproducible-research/version-control
   - title: Licensing
     url: /reproducible-research/licensing
     subsections:
     - title: Sofware License
-      url: /reproducible-research/licensing/softwarelicenses
+      url: /reproducible-research/licensing/licensing-software
     - title: Data License
-      url: /reproducible-research/licensing/datalicenses
+      url: /reproducible-research/licensing/licensing-data
   - title: Research Data Management
     url: /reproducible-research/rdm
     subsections:
     - title: The FAIR principles and practices
-      url: /reproducible-research/rdm/fairprinciples
+      url: /reproducible-research/rdm/data-fair
     - title: Storage and backup
-      url: /reproducible-research/rdm/storagebackup
+      url: /reproducible-research/rdm/data-storage
     - title: Data organisation in spreadsheets
-      url: /reproducible-research/rdm/spreadsheets
+      url: /reproducible-research/rdm/data-spreadsheets
     - title: Documentation and metadata
-      url: /reproducible-research/rdm/docmetadata
+      url: /reproducible-research/rdm/data-metadata
     - title: Sharing and archiving data
-      url: /reproducible-research/rdm/sharingarchiving
+      url: /reproducible-research/rdm/data-sharing
     - title: Personal Stories
-      url: /reproducible-research/rdm/personalstories
+      url: /reproducible-research/rdm/data-stories
     - title: Resources
-      url: /reproducible-research/rdm/resources
+      url: /reproducible-research/rdm/data-resources
   - title: Reproducible Environments
     url: /reproducible-research/reproducible-environments
     subsections:
     - title: Choosing a tool
-      url: /reproducible-research/reproducible-environments/options
+      url: /reproducible-research/reproducible-environments/env-options
     - title: Conda
       url: /reproducible-research/reproducible-environments/package-management
     - title: YAML
@@ -100,28 +102,42 @@
     - title: Containers
       url: /reproducible-research/reproducible-environments/containers
     - title: Resources
-      url: /reproducible-research/reproducible-environments/resources
+      url: /reproducible-research/reproducible-environments/env-resources
     - title: Checklist
-      url: /reproducible-research/reproducible-environments/checklist
+      url: /reproducible-research/reproducible-environments/env-checklist
   - title: Code Quality
     url: /reproducible-research/code-quality
   - title: Testing
     url: /reproducible-research/testing
+    subsections:
+      url: /reproducible-research/testing/testing-guidance
+      url: /reproducible-research/testing/testing-types
+      url: /reproducible-research/testing/testing-exceptions
+      url: /reproducible-research/testing/testing-checklist
+      url: /reproducible-research/testing/testing-resources
   - title: Reviewing
     url: /reproducible-research/reviewing
     subsections:
-    - title: Importance and Personal Benefits
-      url: /reproducible-research/reviewing/motivation
-    - title: Best Practices
-      url: /reproducible-research/reviewing/recommendations
-    - title: Typical Workflows
-      url: /reproducible-research/reviewing/workflows
-    - title: Checklists, Next Steps and Bibliography
-      url: /reproducible-research/reviewing/checklist
+      url: /reproducible-research/reviewing/review-motivation
+      url: /reproducible-research/reviewing/review-practices
+      url: /reproducible-research/reviewing/review-workflows
+      url: /reproducible-research/reviewing/review-checklist
+      url: /reproducible-research/reviewing/review-resources
   - title: Continuous Integration
     url: /reproducible-research/continuous-integration
+    subsections:
+      url: /reproducible-research/continuous-integration/ci-travis
+      url: /reproducible-research/continuous-integration/ci-practices
+      url: /reproducible-research/continuous-integration/ci-checklist
+      url: /reproducible-research/continuous-integration/ci-resources
   - title: Reproducible Research with Make
     url: /reproducible-research/make
+        subsections:
+          url: /reproducible-research/make/make-examples
+          url: /reproducible-research/make/make-debugging
+          url: /reproducible-research/make/make-casestudy
+          url: /reproducible-research/make/make-results
+          url: /reproducible-research/make/make-resources
   - title: Research Compendia
     url: /reproducible-research/research-compendia
   - title: Credit for Reproducible Research
@@ -130,9 +146,9 @@
     url: /reproducible-research/risk-assessment
     subsections:
     - title: Long Read on Risk Assessment
-      url: /reproducible-research/risk-assessment/details
+      url: /reproducible-research/risk-assessment/risk-details
     - title: Summary
-      url: /reproducible-research/risk-assessment/summary
+      url: /reproducible-research/risk-assessment/risk-resources
   - title: BinderHub
     url: /reproducible-research/binderhub
   - title: Glossary
@@ -161,11 +177,11 @@
     - title: README and Project Communication
       url: /collaboration/github/readme
     - title: Roadmapping
-      url: /collaboration/github/roadmapping
+      url: /collaboration/github/github-roadmapping
     - title: Getting Contributors
-      url: /collaboration/github/contributors
-    - title: Checklist and Bibliography
-      url: /collaboration/github/checklist
+      url: /collaboration/github/github-contributors
+    - title: Checklist and resources
+      url: /collaboration/github/github-resources
 
 - divider: true
 

@@ -1,8 +1,19 @@
-<a name="YAML_files"></a>
-
-## YAML files
+# YAML files
 
 YAML is an indentation-based markup language which aims to be both easy to read and easy to write. Many projects use it for configuration files because of its readability, simplicity and good support for many programming languages. It can be used for a great many things including defining computational environments, and is well integrated with [Travis](https://travis-ci.org/) which is discussed in the chapter on continuous integration.
+
+## Table of contents
+
+- [YAML files](#YAML_files)
+- [YAML syntax](./03/yaml#YAML_syntax)
+  - [Scalars](./03/yaml#Scalars)
+  - [Lists and Dictionaries](./03/yaml#Lists_and_Dictionaries)
+  - [YAML gotchas](./03/yaml#YAML_gotchas)
+- [How to use YAML to define computational environments](./03/yaml#How_to_use_YAML_to_define_computational_environments)
+- [Security issues](./03/yaml#Security_issues)
+
+<a name="YAML_files"></a>
+## YAML files
 
 An a YAML file defining a computational environment might look something like this:
 
@@ -28,14 +39,12 @@ packages:
 Note that as you can see here that comments can be added by preceding them with a `#`.
 
 <a name="YAML_syntax"></a>
-
-### YAML syntax
+## YAML syntax
 
 A YAML document can consist of the following elements.
 
 <a name="Scalars"></a>
-
-#### Scalars
+### Scalars
 
 Scalars are ordinary values: numbers, strings, booleans.
 
@@ -55,8 +64,7 @@ unquoted-string: Hello World
 ```
 
 <a name="Lists_and_Dictionaries"></a>
-
-#### Lists and Dictionaries
+### Lists and Dictionaries
 
 Lists are collections of elements:
 
@@ -84,8 +92,7 @@ jedi:
 Note that a space after the colon is mandatory.
 
 <a name="YAML_gotchas"></a>
-
-#### YAML gotchas
+### YAML gotchas
 
 Due to the format aiming to be easy to write and read, there're some ambiguities in YAML.
 
@@ -102,8 +109,7 @@ Due to the format aiming to be easy to write and read, there're some ambiguities
   parsing errors. Just use spaces.
 
 <a name="How_to_use_YAML_to_define_computational_environments"></a>
-
-### How to use YAML to define computational environments
+## How to use YAML to define computational environments
 
 Because of their simplicity YAML files can be hand written. Alternatively they can be automatically generated as discussed [above](#Package_management_systems). From a YAML file a computational environment can be replicated in a few ways.
 
@@ -111,7 +117,6 @@ Because of their simplicity YAML files can be hand written. Alternatively they c
 - **Via package management systems such as Conda.** As [discussed](#Package_management_systems) as well as being able to generate YAML files from computational environments Conda can also generate computational environments from YAML files.
 
 <a name="Security_issues"></a>
-
-### Security issues
+## Security issues
 
 There is an inherent risk in downloading/using files you have not written to your computer, and it is possible to include malicious code in YAML files. Do not load YAML files or generate computational environments from them unless you trust their source.

@@ -1,4 +1,6 @@
-## Typical workflows (with particular reference to Github)
+## Typical workflows
+
+*This chapter has particular reference to Github*
 
 <a name="Formal_vs_informal_reviews"></a>
 ### Formal vs informal reviews

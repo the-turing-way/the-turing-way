@@ -2,7 +2,7 @@
 
 Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship.
 
-![open_umbrella](../../figures/open_umbrella.png)
+![open_umbrella](../../figures/reproducibility/open_umbrella.png)
 
 ### Open educational resources
 
@@ -26,7 +26,7 @@ By making these openly available, for example in the [open educational resource 
 If an educator needs materials for teaching and such materials already exist openly then they need not make their own from scratch, saving time.
 3. Making materials openly available helps a community build better resources by improving resources that already exist and combining OERs to take advantage of their different strengths, such as a great diagram or explanation.
 
-Beyond the raw practical benefits the worldwide OER movement is rooted in the human right to access high-quality education. 
+Beyond the raw practical benefits the worldwide OER movement is rooted in the human right to access high-quality education.
 This shift in educational practice is about participation and co-creation.
 Open Educational Resources (OERs) offer opportunities for systemic change in teaching and learning content through engaging educators in new participatory processes and effective technologies for engaging with learning.
 

@@ -1,10 +1,25 @@
-<a name="Containers_section"></a>
+# Containers
 
-## Containers
+## Table of contents
 
-<a name="What_are_containers"></a>
+- [Why containers](#Why_containers)
+- [What are containers?](#What_are_containers)
+- [What are images](#What_are_images)
+- [What is Docker?](#What_is_Docker)
+- [Installing Docker](#Installing_Docker)
+- [Key commands](#Key_commands)
+- [Writing Dockerfiles](#Writing_Dockerfiles)
+ - [WORKDIR](#WORKDIR)
+ - [Other commands](#Other_commands)
+- [Building images and .dockerignore files](#Building_images_and_dockerignore_files)
+- [Sharing images](#Sharing_images)
+- [Singularity](#Singularity)
+- [Words of Warning](#Words_of_warning)
+- [Copying files to and from containers](#Copying_files_to_and_from_containers)
+- [Volumes](#Volumes)
 
-### Why Containers?
+<a name="Why_containers"></a>
+## Why Containers?
 
 Even for moderately complex projects, the size of the software dependency stack can be huge. Take for example a simple
 pipeline to build a pdf report for an analysis scripted in R using Rmarkdown. To make this reproducible, not only (i)
@@ -16,7 +31,8 @@ software being available in a single package manager, it might be easier to simp
 computing environment including all dependencies. These computing environments are then self-contained, hence the name
 'containers'.
 
-### What are containers?
+<a name="What_are_containers"></a>
+## What are containers?
 
 Containers allow a researcher to package up a project with all of the parts it needs, such as libraries, dependencies,
 and system settings and ship it all out as one package. Anyone can then open up a container and work within it, viewing
@@ -40,8 +56,7 @@ Ben Corrie give as reasonably accessible overview on core concepts in
 ['What is a container?'](https://www.youtube.com/watch?v=EnJ7qX9fkcU).
 
 <a name="What_are_images"></a>
-
-### What are images?
+## What are images?
 
 Images are the files used to generate containers. Humans don't make images, they write the recipes to generate images.
 Containers are then identical copies instantiated from images.
@@ -61,8 +76,7 @@ build an image of their project. They can then share this image file with anyone
 person can then use the image to generate a container containing a working version of the project.
 
 <a name="What_is_Docker"></a>
-
-### What is Docker?
+## What is Docker?
 
 There are a number of different tools available for creating and working with containers. We will focus on Docker, which
 is widely used, but be aware that others such as Singularity also exist. Singularity is sometimes preferred for use on
@@ -85,11 +99,10 @@ Docker, and how they function. The best advice for using images built by others 
 something on your machine if it comes from a trusted source. Docker Hub has "official image" badges for commonly used,
 verified images as shown here:
 
-![Docker_official_image](../../figures/docker_official_image.png)
+![Docker_official_image](../../figures/reproducibility/docker_official_image.png)
 
 <a name="Installing_Docker"></a>
-
-### Installing Docker
+## Installing Docker
 
 Installers for Docker on a variety of different systems are available [here](https://docs.docker.com/install/). Detailed
 installation instructions are also available for a variety of operating systems such as
@@ -99,8 +112,7 @@ installation instructions are also available for a variety of operating systems 
 [Windows](https://docs.docker.com/docker-for-windows/install/).
 
 <a name="Key_commands"></a>
-
-### Key commands
+## Key commands
 
 Here are a few key commands for creating and working with containers.
 
@@ -148,8 +160,7 @@ Here are a few key commands for creating and working with containers.
   ```
 
 <a name="Writing_Dockerfiles"></a>
-
-### Writing Dockerfiles
+## Writing Dockerfiles
 
 Let's go through the anatomy of a very simple Dockerfile:
 
@@ -220,15 +231,14 @@ being done.
 
 Here's what happens if a container is opened from an image called book_example built from the example above:
 
-![container_example](../../figures/container_example.png)
+![container_example](../../figures/reproducibility/container_example.png)
 
 As you can see the directory "project" has been created, and if we look inside the project files "analysis.py" and
 "data.csv" have been copied into it. Because the software required for the project has already been included by the
 Dockerfile in the image the "analysis.py" script runs without any further software needing to be installed.
 
 <a name="WORKDIR"></a>
-
-#### WORKDIR
+### WORKDIR
 
 This command can be used in Dockerfiles to change the current working directory. Commands that follow this in the
 Dockerfile will be applied within the new working directory unless/until another WORKDIR changes the working directory.
@@ -251,7 +261,7 @@ RUN mkdir B_1
 RUN mkdir B_2
 ```
 
-![workdir_example](../../figures/workdir_example.png)
+![workdir_example](../../figures/reproducibility/workdir_example.png)
 
 Directories B_1 and B_2 have been created within directory A.
 
@@ -261,15 +271,14 @@ but this can lead to errors. After each `RUN` statement in a Dockerfile the imag
 applied to the image anew. As an example here is what happens in the above example if the `WORKDIR A` line is swapped
 for `RUN cd A`
 
-![cd_example](../../figures/cd_example.png)
+![cd_example](../../figures/reproducibility/cd_example.png)
 
 All the directories have are in the top level in this case, rather than B_1 and B_2 being inside A. This is because the
 image was restarted after the `RUN cd A` command and opened at the top (root) level by default, so that is where the
 `mkdir B_1` and `mkdir B_2` commands took effect.
 
 <a name="Other_commands"></a>
-
-#### Other commands
+### Other commands
 
 Other commands that are sometimes used in Dockerfiles include:
 
@@ -288,8 +297,7 @@ Other commands that are sometimes used in Dockerfiles include:
 - `USER`: Change the user that a command is run as (useful for dropping privileges).
 
 <a name="Building_images_and_dockerignore_files"></a>
-
-### Building images and .dockerignore files
+## Building images and .dockerignore files
 
 As mentioned in the [key commands](#Key_commands) section, to build an image open a terminal in the same directory as
 the Dockerfile to be used and run
@@ -322,8 +330,7 @@ This excludes from the context:
 - The file named "file_to_exclude.txt"
 
 <a name="Sharing_images"></a>
-
-### Sharing images
+## Sharing images
 
 Docker images can be shared most easily via [Docker Hub](https://hub.docker.com/), which requires an account. Say two
 researchers, Alice and Bob, are collaborating on a project and Alice wishes to share an image of some of her work with
@@ -353,8 +360,7 @@ Initially Docker will search for this image on Bob's machine, and when it doesn'
 Docker Hub, download Alice's image, and open the container with Alice's work and environment on Bob's machine.
 
 <a name="Copying_files_to_and_from_containers"></a>
-
-### Copying files to and from containers
+## Copying files to and from containers
 
 Containers act much like virtual machines, as a result copying files into and out of them is not as trivial as copying
 files to different locations within the same computer is.
@@ -378,8 +384,7 @@ If the second part (the `path_to_where_to_put_file/file_name`) is substituted fo
 whatever directory the terminal running the command is in.
 
 <a name="Volumes"></a>
-
-### Volumes
+## Volumes
 
 Every time a container is opened from an image that container is completely new. For example say a container is opened
 and work is done within it, files created, changed, deleted and so on. If that container is then closed and the image it
@@ -411,8 +416,7 @@ Volume related commands:
   with the container will also be deleted.
 
 <a name="Singularity"></a>
-
-### Singularity
+## Singularity
 
 > Prerequisites: At present, Singularity only runs on linux systems (for example Ubuntu). If you use, macOS,
 > [Singularity Desktop for macOS](https://www.sylabs.io/singularity-desktop-macos/) is in "Alpha Preview" stage.
@@ -502,7 +506,7 @@ singularity containers uniquely suited for parallelizing workflows on HPC system
 snakemake/nextflow is therefore a way of scaling reproducibility to massive scale and - as an added benefit - bringing
 workflows from a desktop machine to an HPC system no longer requires writing custom job submission scripts.
 
-#### Long-term storage of container images
+### Long-term storage of container images
 
 It is important to note that a mere container recipe file is not reproducible in itself since the build process depends
 on various (online) sources. Thus the same recipe file might lead to different images if the underlying sources were
@@ -518,7 +522,8 @@ zenodo.org is also clearly geared towards long-term storage and discoverability 
 thus ideally suited for storing scientific containers associated with particular analyses since these tend to not change
 over time.
 
-#### Words of Warning
+<a name="Words_of_warning"></a>
+## Words of Warning
 
 Even though singularity and docker might look similar, they are conceptually very different. Besides the obvious fact
 that singularity does not require root access to run containers, it also handles the distinction between the host and

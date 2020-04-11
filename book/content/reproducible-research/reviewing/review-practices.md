@@ -1,4 +1,4 @@
-## Best practice
+## Recommendations and best practices
 
 <a name="Be_nice"></a>
 ### Be nice!
@@ -6,7 +6,7 @@
 As with all open-source and collaborative enterprises, good internet etiquette makes the whole process go more smoothly. Perhaps most importantly, always assume good faith on both sides of the review interaction, and always be constructive. These principles are true for the review process beyond almost any other project aspect, since it necessarily involves criticism, potentially between two complete strangers. If you're the coder, don't waste your reviewer's time. If you're the reviewer, listen to what the coder is telling you in reply, and work collaboratively with them to make the code better.
 
 ### Avoid being subjective
-Code reviews should strive to be as objective as possible. Of course, subjective coding preferences may come up in any project. However, such preferences wherever possible should be decided at the project level beforehand. Thus, one can avoid the situation where an opinion might be passed of as fact. Instead suggestions can be supported by pointing to documented preferences that have been set up in advance. If you do come across undocumented preferences, discuss them with the team again and agree if you would like to add the preference to the checklist of your code review process. 
+Code reviews should strive to be as objective as possible. Of course, subjective coding preferences may come up in any project. However, such preferences wherever possible should be decided at the project level beforehand. Thus, one can avoid the situation where an opinion might be passed of as fact. Instead suggestions can be supported by pointing to documented preferences that have been set up in advance. If you do come across undocumented preferences, discuss them with the team again and agree if you would like to add the preference to the checklist of your code review process.
 
 ### Specify crucial versus optional changes
 You might want to differentiate between changes that are crucial and changes that are nice to have. For example, comments that begin "You might..." could be used to express suggestions the reviewers want the coder to consider but are not essential. These can be particularly useful to guide inexperienced coders to write better code while not being too nitpicky. The coder can then decide to ignore these non-crucial comments if they don't agree. Reviewers could use comments that begin "You must..." to specify those that are not optional.

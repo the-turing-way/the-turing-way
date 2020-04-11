@@ -1,6 +1,20 @@
-<a name="Binder_section"></a>
+# Binder
 
-## Binder
+## Table of contents
+
+- [Overview of Binder](#Overview_of_Binder)
+- [Disambiguation](#Disambiguation)
+- [Creating a Binder for a project](#Creating_a_binder_for_a_project)
+  - [Step 1: Specify your computational environment](#Step_1_Specify_your_computational_environment)
+  - [Step 2: Put your code on GitHub](#Step_2_Put_your_code_on_GitHub)
+  - [Step 3: Generate a link to a Binder of your project](#Step_3_Generate_a_link_to_a_Binder_of_your_project)
+- [Including data in a Binder](#Including_data_in_a_Binder)
+  - [Small public files](#Small_public_files)
+  - [Medium public files](#Medium_public_files)
+  - [Large public files](#Large_public_files)
+
+<a name="Overview_of_Binder"></a>
+## Overview of Binder
 
 Now that we've seen how to use and capture the computational environment used in a Python project, it's time to think about how to share that environment.
 
@@ -18,27 +32,27 @@ Juliette Taka's excellent cartoon below illustrates the steps in creating and sh
 
 **Step 4:** She generates a link at the [mybinder.org](https://mybinder.org) BinderHub. By clicking on this link anyone can access a "Binderized" version of her project. The click triggers repo2docker to build an Docker image based on the contents of the repository and its configuration files. This image is then hosted on the cloud. The person who clicked the link will be taken to a copy of her project in their web browser that they can interact with. This copy of the project they interact with is hosted in the environment the researcher specified in step 3, regardless of the computational environment of the person is accessing it from.
 
-![binder_comic](../../figures/binder_comic.png)
+![binder_comic](../../figures/reproducibility//binder_comic.png)
 
 Figure credit: [Juliette Taka, Logilab and the OpenDreamKit project](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/)
 
 To get an idea of what this looks like here's what a binder of a simple example project looks like. Files are listed and can be clicked on and modified by the person accessing the binder.
 
-![binder_home](../../figures/binder_home.png)
+![binder_home](../../figures/reproducibility//binder_home.png)
 
 Users can also open terminals to run or otherwise interact with the files by clicking on "New" and then "Terminal" in the top right of the home binder screen shown above. Here this is used to run the analysis script in the example binder which performs a linear regression on some data:
 
-![binder_terminal](../../figures/binder_terminal.png)
+![binder_terminal](../../figures/reproducibility//binder_terminal.png)
 
 As mentioned Binder is well integrated with Jupyter notebooks which can be opened by clicking on "New" and then under "Notebook" in the same way terminals can be opened. These may be more convenient for those working with graphical outputs, as shown here where one is used to run `make_plot.py` in the example Binder:
 
-![binder_notebook](../../figures/binder_notebook.png)
+![binder_notebook](../../figures/reproducibility//binder_notebook.png)
 
 If R is installed in a Binder the dropdown menu will show the options to open R Jupyter notebooks and RStudio sessions in the Binder.
 
 <a name="Disambiguation"></a>
 
-### Disambiguation
+## Disambiguation
 
 In this section there are a number of related terms, which will be outlined here for clarity:
 
@@ -49,7 +63,7 @@ In this section there are a number of related terms, which will be outlined here
 
 <a name="Creating_a_binder_for_a_project"></a>
 
-### Creating a Binder for a project
+## Creating a Binder for a project
 
 Creating a Binderized version of a project involves three key steps which will be explained in this section:
 
@@ -61,7 +75,7 @@ For a list of sample repositories for use with Binder, see the [Sample Binder Re
 
 <a name="Step_1_Specify_your_computational_environment"></a>
 
-#### Step 1: Specify your computational environment
+### Step 1: Specify your computational environment
 
 If a project contains no file specifying the computational environment when a Binder is generated the environment will be the Binder default environment, (containing Python 3.6) which may or may not be suitable for the project. However if it does contain a configuration file for the environment then the Binder will be generated with the specified environment. A full list of such files Binder accepts with examples can be found [here](https://mybinder.readthedocs.io/en/latest/config_files.html), but here are some of the key ones, some of which are language-specific:
 
@@ -108,7 +122,7 @@ If a project contains no file specifying the computational environment when a Bi
 
 <a name="Step_2_Put_your_code_on_GitHub"></a>
 
-#### Step 2: Put your code on GitHub
+### Step 2: Put your code on GitHub
 
 GitHub is discussed at length in the chapter on version control, which you should refer to if you wish to understand more about this step. In this chapter we will give the briefest possible explanation. GitHub is a very widely used platform where you can make "repositories", and upload code, documentation, or any other files into them. To complete this step:
 
@@ -120,11 +134,11 @@ Again, if you are unable to complete these steps refer to the chapter on version
 
 <a name="Step_3_Generate_a_link_to_a_Binder_of_your_project"></a>
 
-#### Step 3: Generate a link to a Binder of your project
+### Step 3: Generate a link to a Binder of your project
 
 Head to [https://mybinder.org](https://mybinder.org). You'll see a form that asks you to specify a repository for [mybinder.org](https://mybinder.org) to build. In the first field, paste the URL of the project's GitHub repository. It'll look something like this: `https://github.com/<your-username>/<your-repository>`
 
-![mybinder_gen_link](../../figures/mybinder_gen_link.png)
+![mybinder_gen_link](../../figures/reproducibility/mybinder_gen_link.png)
 
 As you can see there are additional fields in this form, but these are optional are will not be discussed here.
 
@@ -139,19 +153,19 @@ Once it has been built the Binder will be automatically launched, again this may
 
 <a name="Including_data_in_a_Binder"></a>
 
-### Including data in a Binder
+## Including data in a Binder
 
 There are a few ways to make data available in your Binder. Which is the best one depends on how big your data is and your preferences for sharing data. Note that the more data that is included include the longer it will take for a Binder to launch. Data also takes up storage space which must be paid for, so it is good to be considerate and minimise the data you include, especially on the publicly provided [mybinder.org](https://mybinder.org).
 
 <a name="Small_public_files"></a>
 
-#### Small public files
+### Small public files
 
 The simplest approach for small data files that are public is to add them directly to your GitHub repository, i.e to include them along with the rest of your project files in the Binder. This works well and is reasonable for files with sizes up to maybe 10MB.
 
 <a name="Medium_public_files"></a>
 
-#### Medium public files
+### Medium public files
 
 For medium sized files, a few 10s of megabytes to a few hundred megabytes, find some other place online to store them and make sure they are publicly available. Then add a file named postBuild (which is a shell script so the first line must be `#!/bin/bash`) to your project files. In the postBuild file add a single line reading `wget -q -O name_of_your_file link_to_your_file`.
 
@@ -159,6 +173,6 @@ The postBuild file is used to execute commands when the files to produce the Bin
 
 <a name="Large_public_files"></a>
 
-#### Large public files
+### Large public files
 
 The best option for large files is to use a library specific to the data format to stream the data as you are using it. There are a few restrictions on outgoing traffic from your Binder that are imposed by the team operating [mybinder.org](https://mybinder.org). Currently only connections to HTTP and Git are allowed. This comes up when people want to use FTP sites to fetch data. For security reasons FTP is not allowed on [mybinder.org](https://mybinder.org).

@@ -1,6 +1,15 @@
-<a name="Summary_of_ways_to_capture_computational_environments"></a>
+# Ways to capture computational environments
 
-## Summary of ways to capture computational environments
+## Table of contents
+
+  - [Overview](#Overview)
+  - [Package management systems outline](#Package_management_systems_outline)
+  - [Binder outline](#Binder_outline)
+  - [Virtual machines outline](#Virtual_machines_outline)
+  - [Containers outline](#Containers_outline)
+
+<a name="Overview"></a>
+## Overview
 
 There are a number of ways of capturing computational environments. The major ones covered in this chapter will be package management systems, Binder, virtual machines, and containers. Each have their own pros and cons, and which is the most appropriate for you will depend on the nature of your project.
 
@@ -26,9 +35,9 @@ Another way these can be split is by how the reproduced research is presented to
     <th>Binder</th>
     <th>Conda</th>
   </tr>
-  <td>Entire system</td>    
+  <td>Entire system</td>
   <th>Virtual Machines</th>
-  <th>Containers</th>  
+  <th>Containers</th>
   <tr>
   </tr>
 </table>
@@ -36,26 +45,22 @@ Another way these can be split is by how the reproduced research is presented to
 Here we give a brief description of each of these tools:
 
 <a name="Package_management_systems_outline"></a>
-
-### Package management systems
+## Package management systems
 
 Package management systems are tools used to install and keep track of the software (and critically versions of software) used on a system, and can export files specifying these required software packages/versions. The files can be shared with others who can use them to replicate the environment, either manually or via their own package management systems.
 
 <a name="Binder_outline"></a>
-
-### Binder
+## Binder
 
 Binder is a service which generates fully-functioning versions of projects from a git repository and serves them on the cloud. These "binderized" projects can be accessed and interacted with by others via a web browser. In order to do this Binder requires that the software (and optionally versions) required to run the project are specified. Users can make use of package management systems or Dockerfiles (discussed in the [Containers section](#Containers_section)) to do this if they so desire.
 
 <a name="Virtual_machines_outline"></a>
-
-### Virtual machines
+## Virtual machines
 
 Virtual machines are simulated computers. A user can make a "virtual" computer very easily, specifying the operating system they want it to have among other features, and run it like any other app. Within the app will be the desktop, file system, default software libraries and other features of the specified machine, which can be interacted with as if it was a real computer. Virtual machines can be easily replicated and shared. This allows researchers to create virtual machines, perform their research on them, and then save their state along with their files, settings and outputs, which they can then distribute as a fully-functioning project.
 
 <a name="Containers_outline"></a>
-
-### Containers
+## Containers
 
 Containers offer many of the same benefits as virtual machines. They essentially act as entirely separate machines which can contain their own files, software and settings.
 

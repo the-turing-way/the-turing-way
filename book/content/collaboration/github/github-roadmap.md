@@ -6,4 +6,4 @@ A roadmap is also a great tool to highlight dependencies among tasks, helping yo
 
 Milestones can be really helpful to get to your main goal.
 Milestones can be organised around project goals, dates, events, or timeframes.
-If you work on GitHub, you can use [GitHub's Project board](https://help.github.com/en/articles/tracking-the-progress-of-your-work-with-project-boards) to manage tasks and issues. 
+If you work on GitHub, you can use [GitHub's Project board](https://help.github.com/en/articles/tracking-the-progress-of-your-work-with-project-boards) to manage tasks and issues.

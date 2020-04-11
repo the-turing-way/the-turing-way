@@ -1,17 +1,23 @@
-<a name="What_to_learn_next"></a>
+# Resources
 
+## Table of contents
+
+- [What to learn next](#What_to_learn_next)
+- [Further reading](#Further_reading)
+- [Definitions/glossary](#Definitions_glossary)
+- [Bibliography](#Bibliography)
+
+<a name="What_to_learn_next"></a>
 ## What to learn next
 
 We recommend reading the chapter on testing, and then the chapter on continuous integration. Note that the chapter on version control is a prerequisite for the chapter on continuous integration. The open research chapter also contains further information on sharing research reproducibly.
 
 <a name="Further_reading"></a>
-
 ## Further reading
 
 The [Docker documentation](https://docs.docker.com/get-started/) contains a lot of information about containers in general.
 
 <a name="Definitions_glossary"></a>
-
 ## Definitions/glossary
 
 **Binder:** A web-based service which allows users to upload and share fully-functioning versions of their projects in an environment they define.
@@ -33,7 +39,6 @@ The [Docker documentation](https://docs.docker.com/get-started/) contains a lot 
 **YAML:** A human readable/writable markup language which used by many projects for configuration files.
 
 <a name="Bibliography"></a>
-
 ## Bibliography
 
 ### Materials in the "what is a computational environment" section

@@ -68,7 +68,7 @@ Keep doing work and making more and more snapshots.
 You can think of these as savepoints - if you need to go back to any point in time because of a mistake, or changing your mind about a decision, you can go back to get a file as it was then, or just return your entire project to a past state.
 An illustration of this is shown in the figure below.
 
-![master_branch](../figures/master_branch.png)
+![master_branch](../../figures/reproducibility/master_branch.png)
 
 In lots of version control systems you will be able to add a comment explaining what changes have been made in this version.
 These comments should be as clear as possible and make it easy to understand which version is which.
@@ -82,15 +82,15 @@ With some of the more advanced version control systems (for example Git) you can
 Any work you do on your branch will not be present on your main project (referred to as your master branch) so it remains nice and safe and you can continue to work on it.
 Once you are happy with your New Thing you can 'merge' your branch back into your master copy.
 
-![one_branch](../figures/one_branch.png)
+![one_branch](../../figures/reproducibility/one_branch.png)
 
 You can have more than one branch off of your master copy, and if one of your branches ends up not working you can either abandon it or delete it without the master branch of your project ever being impacted.
 
-![two_branches](../figures/two_branches.png)
+![two_branches](../../figures/reproducibility/two_branches.png)
 
 If you want you can even have branches off of branches (and branches off of those branches and so on).
 
-![sub_branch](../figures/sub_branch.png)
+![sub_branch](../../figures/reproducibility/sub_branch.png)
 
 No matter how many branches you have you can access past savepoints you made on any of them.
 
@@ -135,7 +135,7 @@ git add .
 This puts your changes into what is called the "staging area".
 When you next commit any changes stored in your staging area will be recorded in your repository.
 
-![change_stage_repo](../figures/change_stage_repo.png)
+![change_stage_repo](../../figures/reproducibility/change_stage_repo.png)
 
 The full stop after `git add` above adds all changes to your staging area. So now all your files are staged commit them using:
 
@@ -217,7 +217,7 @@ git checkout SHA_of_the_version
 
 Commits should be 'atomic'. That is, **they should do one simple thing and they should do it completely**. For example, adding a new function or renaming a variable. If a lot of different changes to your project are all committed together then if something goes wrong it can be hard to unpick what in this set of changes if causing the problem, and undoing the whole commit may throw away valid and useful work along with the bug. That said **you do not necessarily need to do per-file commits**. For example if I add a figure to this chapter here, let's choose something to catch the attention of someone skimming through:
 
-![flipped_taj_mahal](../figures/flipped_taj_mahal.png)
+![flipped_taj_mahal](../../figures/reproducibility/flipped_taj_mahal.png)
 
 then when I do this two files are changed:
 
@@ -246,7 +246,7 @@ Creating insightful and descriptive commit messages is one of the best things yo
 It lets people (and your future self when you have long since forgotten what you were doing and why) quickly understand what changes a commit contains without having to carefully read code and waste time figuring it out.
 Good commit messages improve your code quality by drastically reducing its WTF/min ratio:
 
-![wtf_per_min](../figures/wtf_per_min.jpg)
+![wtf_per_min](../../figures/reproducibility/wtf_per_min.jpg)
 
 ### How to do it
 
@@ -365,7 +365,7 @@ You can have as many branches off of branches as you desire (for example, Featur
 Using branches keeps working code safe, particularly in collaborations.
 Each contibuter can have their own branch or branches which are only merged into the main project when they are ready.
 
-![sub_branch](../figures/sub_branch.png)
+![sub_branch](../../figures/reproducibility/sub_branch.png)
 
 ### How to do it
 

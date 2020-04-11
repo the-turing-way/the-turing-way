@@ -1,8 +1,13 @@
-## Checklists
+## Checklist of checklists
 
 The following presents some possible checklists for both the coder and the reviewer, as part of a formal review process.
 
-<a name="for_the_coder"></a>
+## Tabke of contents
+
+- [For the coder](#For_the_coder)
+- [For the reviewer](#For_the_reviewer)
+
+<a name="For_the_coder"></a>
 ### For the coder
 
 - [ ] Does the new code meet project standards? In particular,
@@ -18,7 +23,7 @@ The following presents some possible checklists for both the coder and the revie
 - [ ] Make the changes, and record the changes made against appropriate comments.
 - [ ] Check that the reviewer knows you believe you have fully addressed the review.
 
-<a name="for_the_reviewer"></a>
+<a name="For_the_reviewer"></a>
 ### For the reviewer
 
 - [ ] Check the code meets basic project style, if this is not automatically checked by CI.
@@ -33,34 +38,3 @@ The following presents some possible checklists for both the coder and the revie
 - [ ] As needed, engage constructively with the coder if they disagree on certain points in order to come to a consensus.
 - [ ] Once the coder believes changes are complete, check that they do indeed address all of the initial comments.
 - [ ] Approve the changes, and if it is your responsibility, make the merge.
-
-<a name="What_to_learn_next"></a>
-## What to learn next
-
-The thorough checking of tests, coverage, and code style by hand can be tedious, so this might be a good time to learn more about [continuous integration (CI)](/continuous_integration/continuous_integration).
-
-<a name="Further_reading"></a>
-## Further reading
-
-<a name="Definitions_glossary"></a>
-## Definitions/glossary
-
-<!-- Format for definitions:
-**Lorem ipsum:** Lorem ipsum.-->
-
-<!--SiccarPoint is struggling to find Open License references for a lot of this (just closed). Help meeeeeeeeeee-->
-
-<a name="Bibliography"></a>
-## Bibliography
-
-### Materials used: How this will help you/ why this is useful
-
-<!-- Format for materials used:
-- [Lorem ipsum]() **Licensing details here** 
--->
-
-### Materials used: General guidance and good practice for reviewing
-
-<!-- Format for materials used:
-- [Lorem ipsum]() **Licensing details here**
--->

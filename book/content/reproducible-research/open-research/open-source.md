@@ -60,7 +60,7 @@ This frees researchers up to work on yet-unsolved challenges.
 This reduces duplication of effort and allows researchers to focus on the work they're actually interested in.
 
 Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups.
-Examples include [Linux](https://www.linux.org/) operating systems, Python packages such as [scipy](https://www.scipy.org/) and [numpy](http://www.numpy.org/), and the machine learning library [TensorFlow](https://www.tensorflow.org/).    
+Examples include [Linux](https://www.linux.org/) operating systems, Python packages such as [scipy](https://www.scipy.org/) and [numpy](http://www.numpy.org/), and the machine learning library [TensorFlow](https://www.tensorflow.org/).
 
 ### How to run your own open source software project
 
