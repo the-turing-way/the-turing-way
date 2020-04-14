@@ -13,7 +13,7 @@ Want to start contributing to The Turing Way, or would like to continue on your 
 We are super delighted to announce that our contributors community has grown to 120 people. As of today, we have 17 chapters in the book and many more are being developed by you. So, a huge thank you for supporting this project, and making it such a beautiful community to work with. See all our members in the [contributors section](https://github.com/alan-turing-institute/the-turing-way#contributors).
 
 Many members from the core team attended the Collaboration Workshop 2020 from 31 March to 2 April 2020, which was hosted virtually by the Software Sustainability Institute.
-Below, we share highlights from the event and celebrate the winning teams from the final day collaborative projects, 2 if which worked to create chapters on The Turing Way. 🎉
+Below, we share highlights from the event and celebrate the winning teams from the final day collaborative projects, 2 of which worked to create chapters on The Turing Way. 🎉
 
 Find more news and fantastic work from our community below. 👇
 
@@ -21,28 +21,30 @@ Find more news and fantastic work from our community below. 👇
 
 ### Collaboration Cafe
 
-We continue to hold our co-working hours on the 1st and third Wednesdays of each month.
+We continue to hold our co-working hours on the first and third Wednesdays of each month.
 The next Collaboration Cafe is on 15 April 2020 at 19:00 BST ([check your local time](https://arewemeetingyet.com/London/2020-04-15/19:00/TuringWay-CollaborationCafe)).
 Dates until June have been [added on our repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md), HackMD link for which will remain the same: https://hackmd.io/sTZZwnYdS3umVWHHHLc6Mw.
 
 ### Want to see more of these meetings?
 
-Do you want to see more of these meetings hosted by us, or do you want to lead these co-working hours on different dates or time zones?
-Get in touch with the team by emailing theturingway@gmail.com, or ping of the community Gitter channel: https://gitter.im/alan-turing-institute/the-turing-way.
+Do you want to see more of such meetings hosted by us, or do you want to lead these co-working hours on different dates or time zones?
+Get in touch with the team by emailing theturingway@gmail.com, or head over to the community Gitter channel to share your idea with everyone: https://gitter.im/alan-turing-institute/the-turing-way.
 
 ## News from the community
 
 ### Resources on remote collaboration
 
-On 11 March, The Turing Way team started to build resources on the currently relevant topic of [Remote Collaboration](https://github.com/alan-turing-institute/the-turing-way/issues/960).
-Thanks to the attendees from the Collaboration Cafe in March and Collaboration Workshop 2020, we have now [11 issues](https://github.com/alan-turing-institute/the-turing-way/labels/collaboration-book) and multiple chapters on remote participation and collaboration in projects, events and teams.
-You are welcome to review these contributions and add your own content that we can add to the book for others in the community to benefit from.
+On 11 March, The Turing Way team started to build resources on the topical issue of [Remote Collaboration](https://github.com/alan-turing-institute/the-turing-way/issues/960).
+Thanks to the attendees from the Collaboration Cafe in March, workshop at the Data Perspective PhD conference in Newcastle and Collaboration Workshop 2020, we have now [11 issues](https://github.com/alan-turing-institute/the-turing-way/labels/collaboration-book) and multiple chapters on remote participation and collaboration in projects, events and teams.
+You are welcome to review these chapters or contribute contents that you think others in the community can benefit from.
 
 ### New chapters and new book design under development
 
-Carlos Martinez and Stefan Verhoeven added [a chapter on software licensing](https://the-turing-way.netlify.com/licensing/licensing.html). You contribution regarding data licensing will be extremely useful for extending their work and offering a wider understaning of licenses in Data Research.
+Carlos Martinez Ortiz and Stefan Verhoeven from Netherlands eScience Center started [a chapter on licensing](https://the-turing-way.netlify.com/licensing/licensing.html). 
+They have written a subsection on software licencing comprehensively.
+To build on their work, we invite your contribution regarding data licensing that will be extremely useful for enhancing our understaning of licenses in Data Research.
 
-We are also working on the new design of the book ([see this preview](https://deploy-preview-977--the-turing-way.netlify.com/welcome)), which aims to provide easier access to the book and its different sections.
+We are currently working on the new design of the book ([see this preview](https://deploy-preview-977--the-turing-way.netlify.com/welcome)), which aims to provide easier access to the different volumes of the book and their subsections.
 
 ![](images/preview-Apr2020.png)
 
@@ -51,10 +53,10 @@ We are also working on the new design of the book ([see this preview](https://de
 ### Translation efforts and 3 issues
 
 Anna Hadjitofi has written [a guide to using the Transifex’s interface](https://github.com/alan-turing-institute/the-turing-way/blob/translation/translation_guide.md) that Tony Yang is currently coordinating for The Turing Way Translation efforts.
-They recommend at least 2 people work on translating so that they can review each other's translations.
-Transifex also allows you to raise issues and browse the past translations.
-
-Tony has opened the [GitHub issues with the label “Translation”](https://github.com/alan-turing-institute/the-turing-way/labels/translation) to track the progress and discussions, start with [this meta-issue](https://github.com/alan-turing-institute/the-turing-way/issues/967) to get an overview of all the discussions around translation.
+They recommend that it's more effective when 2 people work on the translation process together so that they can review each other's translations.
+Transifex will also allows you to raise issues and browse all the past translations.
+Tony has opened the [GitHub issues with the label “Translation”](https://github.com/alan-turing-institute/the-turing-way/labels/translation) to keep record of the progress of different translator's groups. 
+You can start with [this meta-issue](https://github.com/alan-turing-institute/the-turing-way/issues/967) to get an overview of all the discussions around translation.
 He has also set up a netlify build on the translation branch that can be previewed for [Chinese version here](https://competent-nightingale-4c1d36.netlify.com/zh_cn/introduction/introduction) and [the Spanish version here](https://competent-nightingale-4c1d36.netlify.com/es/introduction/introduction).
 
 ### The Hidden REF announces new categories
@@ -99,7 +101,7 @@ Meanwhile, here are some notable mentions from the event:
 
 ### Tweets and other online mentions
 
-![](tweets/preview-Apr2020.png)
+![](images/tweets-Apr2020.png)
 
 * Tweet [1.]((https://twitter.com/drsarahlgibson/status/1245748006332268545?s=20) and [2.]((https://twitter.com/PHerterich/status/1245744686507180033?s=20) by Sarah Gibson and Patricia Herterich about their winning project from the Collaboration Workshop.*
 *Tweet [3.](https://twitter.com/fmcooper87/status/1248686680900603908?s=20
