@@ -132,12 +132,12 @@
       url: /reproducible-research/continuous-integration/ci-resources
   - title: Reproducible Research with Make
     url: /reproducible-research/make
-        subsections:
-          url: /reproducible-research/make/make-examples
-          url: /reproducible-research/make/make-debugging
-          url: /reproducible-research/make/make-casestudy
-          url: /reproducible-research/make/make-results
-          url: /reproducible-research/make/make-resources
+    subsections:
+        url: /reproducible-research/make/make-examples
+        url: /reproducible-research/make/make-debugging
+        url: /reproducible-research/make/make-casestudy
+        url: /reproducible-research/make/make-results
+        url: /reproducible-research/make/make-resources
   - title: Research Compendia
     url: /reproducible-research/research-compendia
   - title: Credit for Reproducible Research
