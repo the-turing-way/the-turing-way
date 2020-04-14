@@ -38,7 +38,7 @@ On 11 March 2020, The Turing Way team started to build resources on the topical 
 Thanks to the attendees from the Collaboration Cafe in March, workshop at the Data Perspective PhD conference in Newcastle and Collaboration Workshop 2020, we have now [11 issues](https://github.com/alan-turing-institute/the-turing-way/labels/collaboration-book) and multiple chapters on remote participation and collaboration in projects, events and teams.
 You are welcome to review these chapters or contribute contents that you think others in the community can benefit from.
 
-<img src="images/scriberia-Apr2020.png" alt="A person talking to people through different screen in different time zones" width="200"/>
+<img src="images/scriberia-Apr2020.png" alt="A person talking to people through different screen in different time zones" width="500"/>
 *The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300*
 
 ### New chapters and new book design under development
@@ -59,9 +59,9 @@ We are currently working on the new design of the book ([see this preview](https
 Anna Hadjitofi has written [a guide to using the Transifex’s interface](https://github.com/alan-turing-institute/the-turing-way/blob/translation/translation_guide.md) that Tony Yang is currently coordinating for The Turing Way Translation efforts.
 They recommend that it's more effective when 2 people work on the translation process together so that they can review each other's translations.
 Transifex will also allows you to raise issues and browse all the past translations.
-Tony has opened the [GitHub issues with the label “Translation”](https://github.com/alan-turing-institute/the-turing-way/labels/translation) to keep record of the progress of different translator's groups. 
+Tony has opened the [GitHub issues with the label “Translation”](https://github.com/alan-turing-institute/the-turing-way/labels/translation) to keep record of the contributions made by the different translator's groups. 
 You can start with [this meta-issue](https://github.com/alan-turing-institute/the-turing-way/issues/967) to get an overview of all the discussions around translation.
-He has also set up a netlify build on the translation branch that can be previewed for [Chinese version here](https://competent-nightingale-4c1d36.netlify.com/zh_cn/introduction/introduction) and [the Spanish version here](https://competent-nightingale-4c1d36.netlify.com/es/introduction/introduction).
+Tony has also set up a netlify build on the translation branch that can be previewed for [Chinese version here](https://competent-nightingale-4c1d36.netlify.com/zh_cn/introduction/introduction) and [the Spanish version here](https://competent-nightingale-4c1d36.netlify.com/es/introduction/introduction).
 
 ### The Hidden REF announces new categories
 
@@ -82,11 +82,12 @@ You can also read [this post](https://sgibson91.github.io/cross-stitch-carpentry
 
 ## Tips & Tricks for new contributors
 
-If you are new to GitHub or The Turing Way or both, here are a few resources to orient yourself with our project repository:
+If you are new to GitHub or The Turing Way, or both, here are a few resources to orient yourself with our project repository:
 * Start by reading our [contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md), that lists the different pathways for the new and existing contributors to interact with this project.
-* [GitHub issues](https://github.com/alan-turing-institute/the-turing-way/issues) are opened by different contributors on the issues of topics they are interested in flagging, fixing or working on.
-* You can browse them by labels (see [contributing through GitHub section](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#contributing-through-github), participate in a conversation by adding your comment under the respective issues or open a new issue on the topic where you would like to gather feedback from others.
+* [GitHub issues](https://github.com/alan-turing-institute/the-turing-way/issues) are opened by different contributors on the topics they are interested in discussing, fixing or working on in the future.
+* You can browse these issues by labels (see [contributing through GitHub section](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#contributing-through-github) and participate in a conversation by adding your comment under the respective issues. 
 * We also have [good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to help our new contributors start by contributing little because every little bit helps.
+* You can also open a new issue on a topic where you would like to gather feedback from others.
 * You are welcome to introduce yourself to others on [our Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way), or reach out to Malvika, The Turing Way community manager, by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
 
 ## Acknowledgements and celebrations
@@ -94,15 +95,16 @@ If you are new to GitHub or The Turing Way or both, here are a few resources to 
 ### Highlights from the Collaboration Workshop 2020
 
 Several members from The Turing Way community participated at the [Virtual Collaboration Workshop 2020](https://software.ac.uk/events/2019-11-20-collaborations-workshop-2020), that was organised by Rachael Ainsworth, Community Manager of the Software Sustainability Institute (SSI), from 31 March to 2 April 2020.
-Look out for recordings and blog posts on [SSI homepage](https://software.ac.uk) soon.
+Recordings and blog posts will be published on [SSI homepage](https://software.ac.uk) soon.
 Meanwhile, here are some notable mentions from the event:
-* Andrew J. Steward in his keynote on Open Research discussed the existing challenges around reproducibility in Open research in psychology and ways we can improve them ([slides](https://drive.google.com/file/d/1sN8xdUYD9flusHxR0SfTFy7EpLaGiDAK/view?usp=sharing)).
+* Andrew J. Stewart in his keynote on Open Research discussed the existing challenges around reproducibility in Open research in psychology and ways we can improve them ([slides](https://drive.google.com/file/d/1sN8xdUYD9flusHxR0SfTFy7EpLaGiDAK/view?usp=sharing)).
 * Becca Wilson in her keynote gave us a thorough overview of Data Privacy, different policies across different countries, pseudonymisation to replace identifiable information from the public data, and safe infrastructures to ensure data security ([slides](http://bit.ly/2020cw-data-privacy)).
 * Malvika Sharan gave a perspective talk on building a culture of collaboration in online communities with The Turing Way as an example for the community of practices ([slides](https://zenodo.org/record/3745008#.XpWxaTJKjOQ)).
-* On the final day, a few teams with many members from The Turing Way worked under a common umbrella topic of Remote Collaboration.
+* On the final day, several teams with many members from The Turing Way worked under a common umbrella topic of Remote Collaboration.
 * Sarah Gibson, Frances Cooper, Joanna Lang and Stephan Druskat wrote a [chapter on facilitating collaborations at remote events](https://github.com/alan-turing-institute/the-turing-way/issues/1005) that won 2nd place among the winning team.
 * Patricia Herterich, Ben Krikler, Bezaye Tesfaye, Emmy Tsang, Jez Cope, Mateusz Kuzak, and Neil Chue Hong worked on [Persona and Pathways for organising hybrid events](https://github.com/softwaresaved/hybrid-event-guide) that secured 3rd place.
 * The first place was secured by Yo Yehudi, Blair Archibald, David Perez-Suarez, Alison Clarke, and Marion Weinzierl who developed a Twitter bot called [RSE2-D2](https://github.com/yochannah/RSE2-D2) that provides helpful advice for research software.
+Congratulation to all the winners, and the organisers for this successful event!
 
 ### Tweets and other online mentions
 
