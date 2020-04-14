@@ -175,7 +175,7 @@
     url: /collaboration/github
     subsections:
     - title: README and Project Communication
-      url: /collaboration/github/readme
+      url: /collaboration/github/github-readme
     - title: Roadmapping
       url: /collaboration/github/github-roadmapping
     - title: Getting Contributors
