@@ -21,25 +21,25 @@ Find more news and fantastic work from our community below. 👇
 
 ### Collaboration Cafe
 
-We continue to hold our co-working hours on the first and third Wednesdays of each month.
+We continue to hold our co-working hours through collaboration workshop on the first and third Wednesdays of each month.
 The next Collaboration Cafe is on 15 April 2020 at 19:00 BST ([check your local time](https://arewemeetingyet.com/London/2020-04-15/19:00/TuringWay-CollaborationCafe)).
-Dates until June have been [added on our repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md), HackMD link for which will remain the same: https://hackmd.io/sTZZwnYdS3umVWHHHLc6Mw.
+Dates until June have been [added on our repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md), and the collaborative HackMD notes will be updated regularly: https://hackmd.io/sTZZwnYdS3umVWHHHLc6Mw.
 
-### Want to see more of these meetings?
+### Want to see more opportunities to work together?
 
 Do you want to see more of such meetings hosted by us, or do you want to lead these co-working hours on different dates or time zones?
 Get in touch with the team by emailing theturingway@gmail.com, or head over to the community Gitter channel to share your idea with everyone: https://gitter.im/alan-turing-institute/the-turing-way.
 
 ## News from the community
 
-![](images/scriberia-Apr2020.png)
-*The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300*
-
 ### Resources on remote collaboration
 
-On 11 March, The Turing Way team started to build resources on the topical issue of [Remote Collaboration](https://github.com/alan-turing-institute/the-turing-way/issues/960).
+On 11 March 2020, The Turing Way team started to build resources on the topical issue of [Remote Collaboration](https://github.com/alan-turing-institute/the-turing-way/issues/960).
 Thanks to the attendees from the Collaboration Cafe in March, workshop at the Data Perspective PhD conference in Newcastle and Collaboration Workshop 2020, we have now [11 issues](https://github.com/alan-turing-institute/the-turing-way/labels/collaboration-book) and multiple chapters on remote participation and collaboration in projects, events and teams.
 You are welcome to review these chapters or contribute contents that you think others in the community can benefit from.
+
+<img src="images/scriberia-Apr2020.png" alt="A person talking to people through different screen in different time zones" width="200"/>
+*The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300*
 
 ### New chapters and new book design under development
 
