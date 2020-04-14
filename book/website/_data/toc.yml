@@ -37,12 +37,12 @@
   not_numbered: true
   sections:
   - title: Overview
-  - url: /reproducible-research/reproducibility-overview
+    url: /reproducible-research/reproducibility-overview
     subsections:
     - url: /reproducible-research/overview/definitions
     - url: /reproducible-research/overview/benefit
     - title: Resources
-    - url: /reproducible-research/overview/resources
+      url: /reproducible-research/overview/resources
   - title: Open Research
     url: /reproducible-research/open-research
     subsections:
@@ -110,34 +110,34 @@
   - title: Testing
     url: /reproducible-research/testing
     subsections:
-      url: /reproducible-research/testing/testing-guidance
-      url: /reproducible-research/testing/testing-types
-      url: /reproducible-research/testing/testing-exceptions
-      url: /reproducible-research/testing/testing-checklist
-      url: /reproducible-research/testing/testing-resources
+    - url: /reproducible-research/testing/testing-guidance
+    - url: /reproducible-research/testing/testing-types
+    - url: /reproducible-research/testing/testing-exceptions
+    - url: /reproducible-research/testing/testing-checklist
+    - url: /reproducible-research/testing/testing-resources
   - title: Reviewing
     url: /reproducible-research/reviewing
     subsections:
-      url: /reproducible-research/reviewing/review-motivation
-      url: /reproducible-research/reviewing/review-practices
-      url: /reproducible-research/reviewing/review-workflows
-      url: /reproducible-research/reviewing/review-checklist
-      url: /reproducible-research/reviewing/review-resources
+    - url: /reproducible-research/reviewing/review-motivation
+    - url: /reproducible-research/reviewing/review-practices
+    - url: /reproducible-research/reviewing/review-workflows
+    - url: /reproducible-research/reviewing/review-checklist
+    - url: /reproducible-research/reviewing/review-resources
   - title: Continuous Integration
     url: /reproducible-research/continuous-integration
     subsections:
-      url: /reproducible-research/continuous-integration/ci-travis
-      url: /reproducible-research/continuous-integration/ci-practices
-      url: /reproducible-research/continuous-integration/ci-checklist
-      url: /reproducible-research/continuous-integration/ci-resources
+    - url: /reproducible-research/continuous-integration/ci-travis
+    - url: /reproducible-research/continuous-integration/ci-practices
+    - url: /reproducible-research/continuous-integration/ci-checklist
+    - url: /reproducible-research/continuous-integration/ci-resources
   - title: Reproducible Research with Make
     url: /reproducible-research/make
     subsections:
-        url: /reproducible-research/make/make-examples
-        url: /reproducible-research/make/make-debugging
-        url: /reproducible-research/make/make-casestudy
-        url: /reproducible-research/make/make-results
-        url: /reproducible-research/make/make-resources
+    - url: /reproducible-research/make/make-examples
+    - url: /reproducible-research/make/make-debugging
+    - url: /reproducible-research/make/make-casestudy
+    - url: /reproducible-research/make/make-results
+    - url: /reproducible-research/make/make-resources
   - title: Research Compendia
     url: /reproducible-research/research-compendia
   - title: Credit for Reproducible Research
