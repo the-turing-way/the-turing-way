@@ -70,7 +70,7 @@ We are currently working on the new design of the book ([see this preview](https
 Anna Hadjitofi has written [a guide to using the Transifex interface](https://github.com/alan-turing-institute/the-turing-way/blob/translation/translation_guide.md) that Tony Yang is currently coordinating for _The Turing Way_ translation efforts.
 They recommend that it's more effective when 2 people work on the translation process together so that they can review each other's translations.
 
-Transifex will also allows you to raise issues and browse all the past translations.
+Transifex will also allow you to raise issues and browse all the past translations.
 Tony has opened the [GitHub issues with the label "Translation"](https://github.com/alan-turing-institute/the-turing-way/labels/translation) to keep record of the contributions made by the different translator's groups. 
 
 You can start with [this meta-issue](https://github.com/alan-turing-institute/the-turing-way/issues/967) to get an overview of all the discussions around translation.
@@ -88,7 +88,7 @@ To keep up to date with the Hidden REF, follow the initiative [on Twitter](https
 
 Are you looking for some non-digital time after spending the entire day working online and attending virtual meetings?
 Check this [Carpentries-style lesson on cross stitching](https://sgibson91.github.io/cross-stitch-carpentry/index.html) that Sarah Gibson recently launched to get beginners started with this mindful hobby.
-You can also read [this post](https://sgibson91.github.io/cross-stitch-carpentry/motivation/index.html) where Sarah and Malvika give more reasons for computer programmers and _The Turing Way_ community members to take time for mindful activities that can have positive impact on your mental health and well-being.
+You can also read [this post](https://sgibson91.github.io/cross-stitch-carpentry/motivation/index.html) where Sarah and Malvika give more reasons for computer programmers and _The Turing Way_ community members to take time for mindful activities that can have a positive impact on our mental health and well-being.
 
 ![A lesson with links to different chapters to learn cross stitching for beginners](images/cross-Apr2020.png)
 *Screenshot from the Carpentry Style lesson on Cross Stitching*
@@ -99,7 +99,7 @@ If you are new to GitHub or _The Turing Way_, or both, here are a few resources 
 
 * Start by reading our [contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md), that lists the different pathways for the new and existing contributors to interact with this project.
 * [GitHub issues](https://github.com/alan-turing-institute/the-turing-way/issues) are opened by different contributors on the topics they are interested in discussing, fixing or working on in the future.
-* You can browse these issues by labels (see [contributing through GitHub section](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#contributing-through-github) and participate in a conversation by adding your comment under the respective issues. 
+* You can browse these issues by labels (see [contributing through GitHub section](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#contributing-through-github)) and participate in a conversation by adding your comment under the respective issues. 
 * We have [good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to help our new contributors start by contributing little because every little bit helps.
 * You can open a new issue on a topic where you would like to gather feedback from others.
 * You are invited to introduce yourself to others on [our Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way), or reach out to Malvika, _The Turing Way's_ community manager, by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
@@ -114,7 +114,7 @@ Recordings and blog posts will be published on [SSI homepage](https://software.a
 
 Meanwhile, here are some notable mentions from the event:
 
-* Andrew J. Stewart in his keynote on Open Research discussed the existing challenges around reproducibility in Open research in psychology and ways we can improve them ([slides](https://drive.google.com/file/d/1sN8xdUYD9flusHxR0SfTFy7EpLaGiDAK/view?usp=sharing)).
+* Andrew J. Stewart in his keynote on Open Research discussed the existing challenges around reproducibility in open research in psychology and ways we can improve them ([slides](https://drive.google.com/file/d/1sN8xdUYD9flusHxR0SfTFy7EpLaGiDAK/view?usp=sharing)).
 * Becca Wilson in her keynote gave us a thorough overview of Data Privacy, different policies across different countries, pseudonymisation to replace identifiable information from the public data, and safe infrastructures to ensure data security ([slides](http://bit.ly/2020cw-data-privacy)).
 * Malvika Sharan gave a perspective talk on building a culture of collaboration in online communities with _The Turing Way_ as an example for the community of practices ([slides](https://zenodo.org/record/3745008#.XpWxaTJKjOQ)).
 * On the final day, several teams with many members from _The Turing Way_ worked under a common umbrella topic of Remote Collaboration.
