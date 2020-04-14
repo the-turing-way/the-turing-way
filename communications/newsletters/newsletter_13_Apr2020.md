@@ -71,7 +71,7 @@ Until the end of June, the research community can suggest and comment on categor
 [Latest suggestions](https://www.software.ac.uk/blog/2020-04-06-first-look-new-categories-hidden-ref) include training material such as the Turing Way resources or carpentry lessons, data and metadata standards, colleagues working in professional services and others.
 To keep up to date with the Hidden REF, follow the initiative [on Twitter](https://twitter.com/HiddenRef).
 
-### Mindful activities and Cross-Stich Carpentry
+### Mindful activities and Cross-Stitch Carpentry
 
 Are you looking for some non-digital time after spending the entire day working online and attending virtual meetings?
 Check this [Carpentries-style lesson on cross stitching](https://sgibson91.github.io/cross-stitch-carpentry/index.html) that Sarah Gibson recently launched to get beginners started with this mindful hobby.
