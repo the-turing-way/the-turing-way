@@ -37,7 +37,7 @@
   not_numbered: true
   sections:
   - title: Overview
-    url: /reproducible-research/reproducibility-overview
+    url: /reproducible-research/overview
     subsections:
     - url: /reproducible-research/overview/definitions
     - url: /reproducible-research/overview/benefit
