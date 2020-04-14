@@ -23,7 +23,7 @@ Find more news and fantastic work from our community below. 👇
 
 We continue to hold our co-working hours through collaboration workshop on the first and third Wednesdays of each month.
 The next Collaboration Cafe is on 15 April 2020 at 19:00 BST ([check your local time](https://arewemeetingyet.com/London/2020-04-15/19:00/TuringWay-CollaborationCafe)).
-Dates until June have been [added on our repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md), and the collaborative HackMD notes will be updated regularly: https://hackmd.io/sTZZwnYdS3umVWHHHLc6Mw.
+We have announced the dates till Jun [on our repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md). Sign up on the [collaborative HackMD notes](https://hackmd.io/sTZZwnYdS3umVWHHHLc6Mw) to let us know that you will join us on the call.
 
 ### Want to see more opportunities to work together?
 
