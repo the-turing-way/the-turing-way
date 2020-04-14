@@ -32,6 +32,9 @@ Get in touch with the team by emailing theturingway@gmail.com, or head over to t
 
 ## News from the community
 
+![](images/scriberia-Apr2020.png)
+*The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300*
+
 ### Resources on remote collaboration
 
 On 11 March, The Turing Way team started to build resources on the topical issue of [Remote Collaboration](https://github.com/alan-turing-institute/the-turing-way/issues/960).
@@ -46,7 +49,8 @@ To build on their work, we invite your contribution regarding data licensing tha
 
 We are currently working on the new design of the book ([see this preview](https://deploy-preview-977--the-turing-way.netlify.com/welcome)), which aims to provide easier access to the different volumes of the book and their subsections.
 
-![](images/preview-Apr2020.png)
+![An alternative landing page that displays a new browsing options for new volumes in The Turing Way](images/preview-Apr2020.png)
+*Screenshot from the new proposed design of The Turing Way Book*
 
 ## Relevant resources
 
@@ -73,7 +77,8 @@ Are you looking for some non-digital time after spending the entire day working 
 Check this [Carpentries-style lesson on cross stitching](https://sgibson91.github.io/cross-stitch-carpentry/index.html) that Sarah Gibson recently launched to get beginners started with this mindful hobby.
 You can also read [this post](https://sgibson91.github.io/cross-stitch-carpentry/motivation/index.html) where Sarah and Malvika give more reasons for computer programmers and The Turing Way community members to take time for mindful activities that can have positive impact on your mental health and well-being.
 
-![](images/cross-Apr2020.png)
+![A lesson with links to different chapters to learn cross stitching for beginners](images/cross-Apr2020.png)
+*Screenshot from the Carpentry Style lesson on Cross Stitching*
 
 ## Tips & Tricks for new contributors
 
@@ -101,9 +106,9 @@ Meanwhile, here are some notable mentions from the event:
 
 ### Tweets and other online mentions
 
-![](images/tweets-Apr2020.png)
+![Screenshot from 4 separate tweets from Sarah Gibson, Patricia Herterich, Frances Cooper and Yo Yehudi](images/tweets-Apr2020.png)
 
-* Tweet [1.]((https://twitter.com/drsarahlgibson/status/1245748006332268545?s=20) and [2.]((https://twitter.com/PHerterich/status/1245744686507180033?s=20) by Sarah Gibson and Patricia Herterich about their winning project from the Collaboration Workshop.*
+* Tweet [1.](https://twitter.com/drsarahlgibson/status/1245748006332268545?s=20) and [2.](https://twitter.com/PHerterich/status/1245744686507180033?s=20) by Sarah Gibson and Patricia Herterich about their winning project from the Collaboration Workshop.*
 *Tweet [3.](https://twitter.com/fmcooper87/status/1248686680900603908?s=20
 ) by Frances Cooper, subtweeting [Kirstie Whitaker](https://twitter.com/kirstie_j)'s tweet about contributors list update.*
 *In the Tweet [4.](https://twitter.com/yoyehudi/status/1245281982667460608?s=20
