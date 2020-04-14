@@ -54,7 +54,7 @@ We are currently working on the new design of the book ([see this preview](https
 
 ## Relevant resources
 
-### Translation efforts and 3 issues
+### Translation efforts in The Turing Way
 
 Anna Hadjitofi has written [a guide to using the Transifex’s interface](https://github.com/alan-turing-institute/the-turing-way/blob/translation/translation_guide.md) that Tony Yang is currently coordinating for The Turing Way Translation efforts.
 They recommend that it's more effective when 2 people work on the translation process together so that they can review each other's translations.
