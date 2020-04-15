@@ -20,7 +20,7 @@ do
     # This will use the figures from the English version
     # Should a translated figure exist, it will reside in a folder different
     # from the sed match here
-    find _build/${lang}/ -name *.md -exec sed -ie "s+\.\./figures+../../figures+g" {} +
+    find _build/${lang}/ -name *.md -exec sed -ie "s+\.\./figures+../../figures+g" {} \;
     bundle exec jekyll build
     # Remove the translated Markdown from the _build directory otherwise jekyll 
     # will build those files again
