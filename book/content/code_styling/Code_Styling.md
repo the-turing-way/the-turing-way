@@ -5,12 +5,12 @@
 Have you ever opened a syntax or script file two years after running an analysis only find that you have no memory of the code?
 On top of this you may have lots of variables being passed to arcane functions, which are in turn passed back to themselves:
 
-```
+```r
 x <- thisDoesAThing(doToThis,DoToThat)
 x <- thisDoesAnotherThing(doToThat,DoToThis,thenThis)
 print(x)
 ```
-Or you may have meaningless file names such as "analysis_1final_FINAL.R, or "onlyusethisoneforanalysis_onamonday2a.py".
+Or you may have meaningless file names such as `analysis_1final_FINAL.R`, or `onlyusethisoneforanalysis_onamonday2a.py`.
 
 If you have not - then you are one of the lucky few!
 For everyone else, this is frustrating enough on personal projects.
@@ -46,16 +46,16 @@ The following are links to existing style guide that may be of use when deciding
 * [Microsoft's](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) style guide for C#.
 * [PEP7](https://www.python.org/dev/peps/pep-0007/) for C.
 
-However, to get started quickly, the following sections with present some advice for code style.
+However, to get started quickly, the following sections present some advice for code style.
 
 ## File Naming
-The [Centre for Open Science](http://help.osf.io/m/bestpractices/l/609932-file-naming) has some useful suggestions for naming of files, particularly ensuring that they readable for both humans and machines.
+The [Centre for Open Science](http://help.osf.io/m/bestpractices/l/609932-file-naming) has some useful suggestions for naming of files, particularly ensuring that they are readable for both humans and machines.
 This includes avoiding the use of wildcard characters (@£$%) and using underscores ("\_") to delimit information, and dashes ("\-") to conjunct information or spaces.
 They also suggest dating or numbering files, and avoiding words like FINAL (or FINAL-FINAL).
 The dating suggestion is the long format `YYYY-MM-DD`, followed by the name of the file, and the version number.
 This results in an automatic, chronological order. For example:
 
-```
+```r
 data <- read.csv("2019-05-17_Turing-Way_Book-Dash.csv")
 
 ```
@@ -64,7 +64,7 @@ This might be appropriate for small compact projects, however over larger projec
 
 ### Versioning
 An extra consideration to file-naming is versioning your software.
-Using versioning guidelines will help avoid using words like "FINAL.R".
+Using versioning guidelines will help avoid using words like `_FINAL.R`.
 A typical convention is the MajorMinorPatch (or MajorMinorRevision) approach.
 In this, your first attempt at a package or library might look like this:
 ```
@@ -91,12 +91,12 @@ These include:
 - lowerCamelCase
 - Underscore_Methods
 - Kebab-Case^[The Kebab case will not work with some languages, such as R and Python since this will be interpreted as a subtraction sign.]
-_ Mixed_Case_With_Underscores
+- Mixed_Case_With_Underscores
 - lowercase
 
 For example:
 
-```{r}
+```r
 raw_data <- read.csv("data.csv") # Not very creative
 rawData <- read.csv("data.csv")  #lowerCamelCase
 ```
@@ -104,7 +104,7 @@ rawData <- read.csv("data.csv")  #lowerCamelCase
 OK, `raw_data` is not very creative, but it could easily have been `spam` or `eggs` if that makes sense in your script.
 You may also have a function that recodes a variable:
 
-```
+```r
 rawDat <- recode(rawDat)
 ```
 
@@ -139,7 +139,7 @@ This means that the lines can easily fit on a screen, and multiple coding window
 It is argued that if your line is any longer than this then your function is too complex and should be separated!
 This is the crux of the Tidy method of R programming, which even has a special operator `%>%` which passes the previous object to the next function, so fewer characters are required:
 
-```
+```r
 recoded_melt_dat <- read_csv('~/files/2019-05-17_dat.csv') %>%
 recode() %>%
 melt() #We now have a recoded, melted dataframe called recoded_melt_dat
@@ -155,14 +155,14 @@ The syntax for comments varies with programming languages.
 In R and Python, a hashtag is used, whereas in C and Java the brackets `/* /*` are used, and in C++/C# a double slash `//` comments single lines.
 
 In Python:
-```{python}
+```python
 times = 10 # Set integer
 my_variable = "my variable is %s times better than yours" %times #Set my_variable to a string
 print(my_variable) #print the value
 ```
 
 In R:
-```{r}
+```r
 my_func = function(number){ #R function
 
 (number * 5) - 2
@@ -170,7 +170,7 @@ my_func = function(number){ #R function
 print(my_func(2))
 ```
 In C:
-```{c}
+```c
 static int
 {
 int my_int = 57 ; /* C for completion */
@@ -179,7 +179,7 @@ int my_int = 57 ; /* C for completion */
 For longer comments, information can be included above the code block. In Python you can use triple speech marks as parenthesis.
 This will comment out anything in between.
 
-```{python}
+```python
 """
 The following function takes a number, multiplies it be 5, and subtracts 2.
 This may seem pointless, but is simple for the purpose of demonstration.
@@ -193,7 +193,7 @@ print(myfunc(8))
 Longer blocks of comments are not available in R.
 There are ways around this, such as setting up a string, or an if(false) statement:
 
-```
+```r
 
 "1 - This is a string. It will not be evaluated by R, and will not raise
 and exception"
@@ -208,7 +208,7 @@ line number of the if statement.
 
 Or commenting out individual lines:
 
-```{r}
+```r
 #This is also a very long comment
 #covering many lines.
 ```
@@ -216,12 +216,12 @@ Your IDE will probably have a keyboard shortcut for commenting out blocks though
 
 ## Indentation
 The R style guide suggests that lines should be separated:
-```
+```r
 by
   two spaces
 ```
 And not
-```
+```r
  a mixture 
    of 
    	tabs 
@@ -231,7 +231,7 @@ And not
 Obviously, sometimes the arguments of a function can far expand 80 characters.
 In this case, it is recommended that the second line be indented to the start of the arguments:
 
-```
+```r
 my_variable <- a_really_long_function(data = "2019-05-17_Long_File_Name_2",
                                       header = TRUE, verbose = TRUE)
 
@@ -272,6 +272,13 @@ Autopep8 is a Python module that can be run from the terminal and automatically 
 
 To some extent, the module can also be used on R scripts!
 ![](pep8_R.png)
+
+## Black
+[Black](https://black.readthedocs.io/en/stable/) is an auto-formatter for Python.
+This means that it will automatically change your code to adhere to certain guidelines, like spaces around operators and removing unnecessary whitespace.
+It is also consistent, so that the code that you and your collaborators work on, will look the same once black formats it.
+It does not change what the code does.
+This can reduce the time spent making the above changes to the code.
 
 # Summary
 In summary, writing clear, well commented, and re-usable code benefits not only you, but the community (or audience) that you are developing it for.
