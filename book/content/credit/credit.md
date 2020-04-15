@@ -72,6 +72,12 @@ Showing an example reference in the most common referencing format in your disci
 
 If you use GitHub, GitLab or similar, consider creating a `CITATION` file in each repository containing an example reference.
 
+### Make your research identifiable
+
+As part of the citation for your software and data it is important to give people a persistent link to it, this will usually be a DOI.
+DOIs (or more formally Digital Object Identifiers) are unique, persistent identifiers which are attached to a digital object such as a journal article, dataset or piece of software.
+Using DOIs makes it much easier for others to cite your data, reduces the risk of linkrot and means you can track how your research is being used and cited.
+
 ### Add machine-readable referencing information
 
 You can go one better by allowing people to import information about your research objects into their preferred referencing database.
@@ -222,6 +228,8 @@ You can use your ORCID iD whenever you’re prompted to do so, give your [truste
 - [Making software citeable](https://guide.esciencecenter.nl/citable_software/making_software_citable.html)
 - [OpenAIRE Guide on Person Identifiers](https://www.openaire.eu/how-can-identifiers-improve-the-dissemination-of-your-research-outputs)
 
-<!-- ## Definitions/glossary -->
+## Definitions/glossary
+
+Digital Object Identifiers (DOIs) - an alpha-numeric string which acts as a unique, persistent identifier for a digital object (journal article, data, software and so on). 
 
 <!-- ## Bibliography -->
