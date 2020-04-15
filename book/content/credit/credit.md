@@ -135,6 +135,6 @@ It's perfectly possible to cite a dataset or software package directly, and most
 
 ## Definitions/glossary
 
-Digital Object Identifiers (DOIs) - an alpha-numeric string which acts as a unique, persistent identifier for a digital object (journal article, data, software etc). 
+Digital Object Identifiers (DOIs) - an alpha-numeric string which acts as a unique, persistent identifier for a digital object (journal article, data, software and so on). 
 
 <!-- ## Bibliography -->
