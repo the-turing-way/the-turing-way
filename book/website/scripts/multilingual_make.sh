@@ -8,14 +8,14 @@ cd ../website
 # the translated Markdown files will be
 sed 's+content_folder_name: ../content+content_folder_name: ../content/locale/+g' _config.yml > _config-locale.yml
 # Make backup of the original table of content
-cp ../content/po/toc.yml ../content/po/toc.yml.bak
+cp _data/toc.yml _data/toc.yml.bak
 cat ../content/po/LINGUAS | while read lang;
 do
     echo ${lang}
     # Make language specific table of content
-    sed "s/url: /url: ${lang}\//g" ../content/po/toc.yml.bak > ../content/po/toc.yml
+    sed "s/url: /url: \/${lang}\//g" ../content/po/toc.yml > _data/toc.yml
     # Use the locale config to build each language version of the book
-    jupyter-book build ./ --overwrite --config _config-locale.yml --toc ../content/po/toc.yml
+    jupyter-book build ./ --overwrite --config _config-locale.yml
     # Change the path to figures directory one level higher
     # This will use the figures from the English version
     # Should a translated figure exist, it will reside in a folder different
@@ -27,4 +27,4 @@ do
     rm -r _build/${lang}
 done
 # Restore the table of content to the oiginal version
-cp ../content/po/toc.yml.bak ../content/po/toc.yml
+cp _data/toc.yml.bak _data/toc.yml
