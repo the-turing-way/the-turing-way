@@ -270,7 +270,7 @@ msgstr ""
 
 #: credit/credit.md:93
 # unordered list
-msgid "    - Software journals (e.g. [JORS][], [JOSS][])"
+msgid "    - Software journals (such as [JORS][] and [JOSS][])"
 msgstr ""
 
 #: credit/credit.md:94
