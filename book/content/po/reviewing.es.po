@@ -478,13 +478,7 @@ msgstr ""
 msgid "## Definitions/glossary"
 msgstr ""
 
-#: reviewing/04/checklists_bib.md:48
-msgid "<!-- Format for definitions:"
-msgstr ""
 
-#: reviewing/04/checklists_bib.md:49
-msgid "**Lorem ipsum:** Lorem ipsum.-->"
-msgstr ""
 
 #: reviewing/04/checklists_bib.md:51
 msgid "<!--SiccarPoint is struggling to find Open License references for a lot of this (just closed). Help meeeeeeeeeee-->"
@@ -504,30 +498,14 @@ msgstr ""
 msgid "### Materials used: How this will help you/ why this is useful"
 msgstr ""
 
-#: reviewing/04/checklists_bib.md:58
-#: reviewing/04/checklists_bib.md:64
-msgid "<!-- Format for materials used:"
-msgstr ""
 
-#: reviewing/04/checklists_bib.md:59
-# unordered list
-msgid "- [Lorem ipsum]() **Licensing details here** "
-msgstr ""
-
-#: reviewing/04/checklists_bib.md:60
-#: reviewing/04/checklists_bib.md:66
-msgid "-->"
-msgstr ""
 
 #: reviewing/04/checklists_bib.md:62
 # header
 msgid "### Materials used: General guidance and good practice for reviewing"
 msgstr ""
 
-#: reviewing/04/checklists_bib.md:65
-# unordered list
-msgid "- [Lorem ipsum]() **Licensing details here**"
-msgstr ""
+
 
 #: reviewing/reviewing.md:1
 # header

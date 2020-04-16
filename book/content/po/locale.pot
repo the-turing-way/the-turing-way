@@ -13964,13 +13964,7 @@ msgstr ""
 msgid "The thorough checking of tests, coverage, and code style by hand can be tedious, so this might be a good time to learn more about [continuous integration (CI)](/continuous_integration/continuous_integration)."
 msgstr ""
 
-#: locale/zh_CN/reviewing/04/checklists_bib.md:48
-msgid "<!-- Format for definitions:"
-msgstr ""
 
-#: locale/zh_CN/reviewing/04/checklists_bib.md:49
-msgid "**Lorem ipsum:** Lorem ipsum.-->"
-msgstr ""
 
 #: locale/zh_CN/reviewing/04/checklists_bib.md:51
 msgid "<!--SiccarPoint is struggling to find Open License references for a lot of this (just closed). Help meeeeeeeeeee-->"
@@ -13982,25 +13976,14 @@ msgstr ""
 msgid "### Materials used: How this will help you/ why this is useful"
 msgstr ""
 
-#: locale/zh_CN/reviewing/04/checklists_bib.md:58
-#: locale/zh_CN/reviewing/04/checklists_bib.md:64
-msgid "<!-- Format for materials used:"
-msgstr ""
 
-#: locale/zh_CN/reviewing/04/checklists_bib.md:59
-# unordered list
-msgid "- [Lorem ipsum]() **Licensing details here** "
-msgstr ""
 
 #: locale/zh_CN/reviewing/04/checklists_bib.md:62
 # header
 msgid "### Materials used: General guidance and good practice for reviewing"
 msgstr ""
 
-#: locale/zh_CN/reviewing/04/checklists_bib.md:65
-# unordered list
-msgid "- [Lorem ipsum]() **Licensing details here**"
-msgstr ""
+
 
 #: locale/zh_CN/reviewing/reviewing.md:1
 # header
