@@ -4,7 +4,6 @@
 #   url: /myurl  # URL of section relative to the /content/ folder.
 #   sections:  # Contains a list of more entries that make up the chapter's sections
 #   not_numbered: true  # if the section shouldn't have a number in the sidebar
-#     (e.g. Introduction or appendices)
 #   expand_sections: true  # if you'd like the sections of this chapter to always
 #     be expanded in the sidebar.
 #   external: true  # Whether the URL is an external link or points to content in the book
