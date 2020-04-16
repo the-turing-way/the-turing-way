@@ -744,7 +744,9 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/38984697?v=4",
       "profile": "https://github.com/tonyyzy",
       "contributions": [
-        "doc"
+        "doc",
+        "translation",
+        "infra"
       ]
     },
     {
