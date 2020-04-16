@@ -103,6 +103,7 @@ The last two checklists are about managing and participating in the distributed 
 <!---</details>--->
 <a name="designated-venues-to-participate-from"></a>
 #### Designated venues to participate from
+
 *If there are physical office locations, or co-working spaces accessible for most members*
 
 <!---<details>
@@ -161,6 +162,7 @@ The last two checklists are about managing and participating in the distributed 
 
 <a name="breakout-rooms"></a>
 #### Breakout rooms
+
 *If using breakout rooms in Zoom (or similar tool), make sure that each breakout has an organiser to help*
 
 <!---<details>
