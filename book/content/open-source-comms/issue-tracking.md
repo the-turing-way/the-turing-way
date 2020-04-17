@@ -64,15 +64,17 @@ This may cause community members to believe that the code is no longer being act
 
 ## Comparative Table
 
-| Feature | Single Issue Repo | Issue Tracker per Repo |
+The table below compares features of distributed and centralised issue repositories for a multi-repository project.
+
+| Feature | Centralised Issue Repo | Distributed Issue Repos |
 | :--- | :---: | :---: |
 | Global issue search | ✅ | |
-| Hosted by the same Platform | ❓(not guaranteed) | ✅ |
-| Filter by repository | ❓(power users [1]) | ✅ |
+| Hosted by the same platform as the code | ❓(not guaranteed) | ✅ |
+| Filter by repository | ❓(power users*) | ✅ |
 | Suscribe to relevant updates | ❓(power users) | ✅ |
 | Easy to Discover | | ✅ |
 | Connected to the Codebase | | ✅ |
 | Appears active to community | | ✅ |
 | Manageable volume | | ✅ |
 
-[1] Power users = These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient
+*Power users = These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient
