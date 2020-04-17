@@ -37,6 +37,10 @@ These are:
 - [JupyterHub for Kubernetes](https://github.com/jupyterhub/zero-to-jupyterhub-k8s),
 - [BinderHub](https://github.com/jupyterhub/binderhub).
 
+There are also some tools in the Jupyter ecosystem that are only weakly associated with Binder.
+Tools which Project Binder uses and people associated with Binder contribute to, but so do other unrelated communities.
+Such tools are [JupyterHub](https://github.com/jupyterhub/jupyterhub) and [KubeSpawner](https://github.com/jupyterhub/kubespawner).
+
 Each of these repositories contains hundreds of issues tracking on-going work being performed by the community and scoping future directions for each project to take.
 
 Can you imagine trying to combine all of these issues into one place?
