@@ -22,7 +22,7 @@ In the table below, some properties of the first three communication platforms h
 | :--- | :---: | :---: | :---: |
 | Media sharing | ✅ (cumbersome) | ✅ | ✅ (cumbersome) |
 | Archiveable | ✅ | ✅ | |
-| Persistant | ✅ (up to a limit) | ✅ | |
+| Persistant | ✅ | ✅ | |
 | Noisy | ✅ | | ✅ |
 | Open | | ✅ | ✅ |
 | Consistent UX* | | ✅ | ✅ |
@@ -31,5 +31,6 @@ In the table below, some properties of the first three communication platforms h
 | User profiles | | ✅ | ✅ |
 | "Friending"/"Ignoring" capabilities | | ✅ | |
 | Searchable by topic | | ✅ | |
+| Easily Exportable | ✅ | ❓ |
 
 *UX = User Experience
