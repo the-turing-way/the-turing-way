@@ -18,19 +18,33 @@ In the table below, some properties of the first three communication platforms h
 
 ## Features of different Communication Channels
 
+The table below compares features of mailing lists, forums and chats.
+Here are the questions we are asking when thinking about each feature.
+
+- **Media Sharing:** Can media, such as screenshots, be easily shared on this platform?
+- **Archiveable:** Is the history of the conversations easily accessible?
+- **Persistent:** Do the conversations remain available and accessible on the platform? If not "forever", how long for? If not all conversations, what proportion?
+- **Noisy:** How many notifications will people receive and can they be managed?
+- **Open:** Can anyone join the platform or is there an invitation/approval process?
+- **Consistent User Experience (UX):** Does the platform appear consistent despite a user's browser, email client, and such?
+- **Threading/Filtering of conversations:** Is it apparent who is replying to who and what topic a thread is addressing?
+- **Social sharing:** Can conversations easily be shared on social media platforms for promotion or community engagement?
+- **User profiles:** Is it easy to tell who is participating in the conversation and how they might relate to the project?
+- **"Friending"/"Ignoring" capabilities:** Can users choose which opinions they are alerted to?
+- **Searchable by topic:** Can the conversations by categorised and searched by that category?
+- **Easily Exportable:** Are the conversations stored in a consistent format? Are tools available to export the conversations (to an archive, for example)?
+
 | Feature | Mailing Lists | Forums | Chat |
 | :--- | :---: | :---: | :---: |
-| Media sharing | ✅ (cumbersome) | ✅ | ✅ (cumbersome) |
+| Media sharing | ✅ | ✅ | ✅ (cumbersome) |
 | Archiveable | ✅ | ✅ | |
 | Persistant | ✅ | ✅ | |
 | Noisy | ✅ | | ✅ |
 | Open | | ✅ | ✅ |
-| Consistent UX* | | ✅ | ✅ |
+| Consistent UX | | ✅ | ✅ |
 | Threading/Filtering of conversations | | ✅ | ✅ |
 | Social sharing | | ✅ | ✅ |
 | User profiles | | ✅ | ✅ |
 | "Friending"/"Ignoring" capabilities | | ✅ | |
 | Searchable by topic | | ✅ | |
-| Easily Exportable | ✅ | ❓ |
-
-*UX = User Experience
+| Easily Exportable | ✅ | ❓ | |
