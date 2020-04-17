@@ -1,27 +1,23 @@
 # Issue Tracking
 
 Most software development projects have some kind of issue board to easily track the current issues in the project, such as bug fixing, rolling out new features, or community engagement plans.
-[GitHub](https://github.com) (a very popular collaboration platform) has a built-in [issue tracker](https://guides.github.com/features/issues/), and [project boards](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards) where issues can be collated together to track progress towards a more specific, higher-level goals.
+[GitHub](https://github.com) (a very popular collaboration platform) has a built-in [issue tracker](https://guides.github.com/features/issues/) and [project boards](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards) where issues can be collated together to track progress towards a more specific, higher-level goal.
 
-This section is a discussion around why issues tracking is useful and where you can store them.
+This section is a discussion around why issue tracking is useful and where you can store them.
 
 ## What is the purpose of your issues?
 
-There are many different reasons for keeping/tracking issues related to a project. 
+There are many different reasons for keeping/tracking issues related to a project.
 The platform for issue tracking and the features tracked by those issues can influence how your community interact with your project.
 
-If your project is split across multiple repositories, then it's a good idea to keep the issues specifically relating to that module within that repository (dencentralised system).
-This allows your community to focus their attention on what is important to them.
-
-If you're using issues to track bug reports, feature requests, opportunities for community members to engage, and so on, then a public issue board or a centralised system will allow your community to get a clear overview of what's coming down the pipeline and how they can get involved.
-
-Are you using issues to track a central service? 
-Are they tracking personal to-do lists and being used to answer questions like if a task is high priority or if it is assigned to someone already.
-If the answers to the following questions are in 'yes', then issue tracking in a centralised system is a good option and it does not need to be circulated to your wider community.
+Mostly, issues are used to track bug reports, feature requests, opportunities for community members to engage, and so on, then a public issue board  will allow your community to get a clear overview of what's coming down the pipeline and how they can get involved.
 
 Let's look into centralised and decentralised/distributed issue boards and how they might engage your community.
 
 ### Issues per Repository (Decentralised/Distributed)
+
+If your project is split across multiple repositories, then it's a good idea to keep the issues specifically relating to that module within that repository: a dencentralised system.
+This allows your community to focus their attention on what is important to them.
 
 This approach has several smaller issue boards for each repository (or module) within your codebase.
 This method has a lot of positive outcomes, such as:
@@ -53,15 +49,17 @@ They find that having distributed issue tracking allows those members of the com
 
 ### Centralised Issue Repository
 
-With a big project, it can be tempting to collate all your issues into one place for the sake of easier management.
-However in terms of engaging your community, this can be problematic.
+With a big project, it can be tempting to collate all your issues into one place for the sake of easier management: a centralised system.
+If you are using issues to track a central service, personal to-do lists, and answering questions like if a task is high priority or if it is assigned to someone already, then issue tracking in a centralised system is a good option and it does not necessarily need to be circulated to your wider community.
+
+However in terms of engaging your community, such a centralised system can be problematic.
 If your issues are elsewhere this can create a lot of barriers to entry for community members, such as:
 
 - Issues are more difficult to discover;
-- If they are hosted on another platform, that's another thing community members need to learn how to use;
-- Issues are separate to the code they are referencing.
+- If they are hosted on another platform (for example, code is on GitHub but issues are on [Asana](https://asana.com/)), that's another tool community members need to learn how to use;
+- Issues are separated from the code they are referencing.
 
-A very large impact on the community of having a separate issue repository is that when people visit your code repository, it looks like an inactive project because there are no issues or conversations going on where the code is hosted.
+A very large impact on the community of having a separate issue board is that when people visit your code repository, it looks like an inactive project because there are no issues or conversations going on where the code is hosted.
 This may cause community members to believe that the code is no longer being actively developed/maintained/supported and may choose to use another codebase or software package.
 
 ## Comparative Table
