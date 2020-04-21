@@ -1197,6 +1197,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "adswa",
+      "name": "Adina Wagner",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29738718?v=4",
+      "profile": "http://www.adina-wagner.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
