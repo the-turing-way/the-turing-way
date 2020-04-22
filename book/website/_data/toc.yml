@@ -77,6 +77,15 @@
     url: /collaborating_github/3/getting_contributors
   - title: Checklist and Bibliography
     url: /collaborating_github/4/checklist_bibliography
+- title: Community Communications for Open Source Projects
+  url: /open-source-comms/intro
+  sections:
+  - title: Issue Tracking
+    url: /open-source-comms/issue-tracking
+  - title: Communication Channels
+    url: /open-source-comms/comms-channels
+  - title: Further Reading
+    url: /open-source-comms/further-reading
 - title: Credit for reproducible research
   url: /credit/credit
 - title: Research Data Management
