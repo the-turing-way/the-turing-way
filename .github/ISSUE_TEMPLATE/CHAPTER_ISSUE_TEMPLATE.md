@@ -1,5 +1,5 @@
 ---
-name: "U+1F4D6 New Chapter Template"
+name: "\U0001F4D6 New Chapter Template"
 about: Template for proposing a new chapter
 title:
 labels:
