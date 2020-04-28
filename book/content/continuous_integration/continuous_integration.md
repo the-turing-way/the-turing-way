@@ -303,7 +303,7 @@ matrix:
     - os: osx
 ```
 
-This is useful if you ideally want the build to be successful in multiple environments, but not all of them are vital.
+This is useful if you ideally want the build to be successful in multiple environments, but not all of them are vital. Beware of allowing failures to "get back to green" by ignoring failures as they get introduced. In the short term you may seem to get faster progress, but in practice all of those failures are still there. They're now going unreported, and may represent genuine problems with your code.
 
 <a name="Limitations_of_CI"></a>
 ## Limitations of CI
@@ -350,6 +350,8 @@ The idea behind trunk-based development is to avoid large commits that violate o
 Because the build and test steps must be performed frequently, it is essential that these processes be streamlined to minimize the time spent on them. Increases in build time should be treated as a major problem because the impact is compounded by the fact that each commit kicks off a build.
 
 When possible, running different sections of the test suite in parallel can help move the build through the pipeline faster. Care should also be taken to make sure the proportion of each type of test makes sense. Unit tests are typically very fast and have minimal maintenance overhead. In contrast, automated system or acceptance testing is often complex and prone to breakage. To account for this, it is often a good idea to rely heavily on unit tests, conduct a fair number of integration tests, and then back off on the number of later, more complex testing.
+
+Where CI steps are run sequentially, organise them so that the most important, or those that give the most valuable feedback, run first. Doing so ensures that if these steps fail the pipeline exits earlier, reducing the latency between pushing a change and receiving useful information.
 
 ### Computational expense
 
