@@ -50,8 +50,8 @@ Continuous integration (CI) is the practice of integrating changes to a project 
 
 CI has a number of key benefits:
 
-- Helps bugs to be found early, minimizing their damage and making them easier to fix
-- Keeps project contributors up to date with each other's work so they can benefit from it as soon as possible
+- Helps the team to find bugs early, minimizing their damage and making them easier to fix
+- Keeps project contributors up to date with each other's work so they can benefit from it as soon as possible, and adapt to any changes
 - Encourages users to write tests
 - Automates running of tests
 - Ensures tests are run frequently
@@ -61,11 +61,11 @@ CI has a number of key benefits:
 
 This chapter demands a strong understanding of version control. The central concepts you will need to recall are:
 
-- How it can be used to enable people collaborating on a single project to combine their work via merging
+- How version control can enable people collaborating on a single project to combine their work via merging
 - What merge conflicts are and the difficulties they can present
 - What GitHub is and how to use it
 
-In brief if a group of researchers are collaborating on a project it is good practice for them to use version control to keep track of their changes over time, and combine their work regularly. If they do not combine (integrate) their work regularly then when they come to do so it is likely to be very difficult as different people may have made contradictory changes.
+In brief if a group of researchers are collaborating on a project it is good practice for them to use version control to keep track of their changes over time, and combine their work regularly. If they do not combine (integrate) their work regularly then when they come to do so there is more opportunity for different people to have made contradictory changes.
 
 Continuous Integration is a software development practice where members of a team integrate their work frequently, rather than doing work in isolation and merging in large changes at infrequent intervals. In CI usually each person integrates at least daily. Each integration is verified by an automated build (usually including tests) to detect integration errors as quickly as possible.
 
@@ -162,9 +162,9 @@ or
 os: windows
 ```
 
-It is possible to build and test a project on multiple operating systems and against multiple versions of a programming language. This will be not be discussed here as this presents and extra level of complexity and will not be needed in most cases for research, but it is discussed [later](#Testing_a_project_against_multiple_versions_of_a_programming_language).
+It is possible to build and test a project on multiple operating systems and against multiple versions of a programming language. This presents an extra level of complexity and will not be needed in most cases for research, but it is discussed [later](#Testing_a_project_against_multiple_versions_of_a_programming_language).
 
-To specify the distribution of an operating system to run the project with use `dist`, for example:
+To specify the distribution of an operating system to build the project on use `dist`, for example:
 
 ```
 os: linux
