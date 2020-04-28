@@ -1206,6 +1206,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "GeorgianaElena",
+      "name": "Georgiana Elena",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7579677?v=4",
+      "profile": "https://github.com/GeorgianaElena",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
