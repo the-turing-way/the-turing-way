@@ -39,6 +39,11 @@ It make take some time but it's important to find a style you're most comfortabl
 
 In short, I think hackathons put a lot of emphasis on the coding aspect of project development (helped along by the [unfortunate naming convention](https://github.com/hackseq/October_2016/issues/24), check out the last paragraph of the [Bio-IT Hackathon blog](https://grp-bio-it.embl-community.io/blogs/posts/2019-08-29-hackathon-report/)), but this is not the sole pillar on which a good project stands.
 
-> Break the mould - don't do what you think a hackathon is
+So my advice to you if you feel nervous about leading a hackathon project is: break the mould.
+Your project doesn't have to follow the rules of a typical hack event!
+Work on and in whatever manner is most suited to your teammates and the task at hand.
+And most importantly, _have fun!_
 
-To read a longer version of this blog, please see the [original post on Medium](https://blog.jupyter.org/diving-into-leadership-to-build-push-button-code-df2a075c9914).
+Happy hacking! (Or not!)
+
+_To read a longer version of this blog, please see the [original post on Medium](https://blog.jupyter.org/diving-into-leadership-to-build-push-button-code-df2a075c9914)._
