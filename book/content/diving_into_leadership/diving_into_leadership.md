@@ -1,4 +1,4 @@
-# Diving into Leadership
+# Personal Experience: Diving into Leadership
 
 _The following blog post was written by The Turing Way contributor [Sarah Gibson](https://www.turing.ac.uk/people/researchers/sarah-gibson)._
 
