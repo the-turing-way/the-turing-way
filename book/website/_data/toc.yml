@@ -60,8 +60,8 @@
 - title: Version Control
   url: /version_control/version_control
   sections:
-  - title: General version control
-    url: /version_control/01/version_control
+  - title: General Workflow of Version Control
+    url: /version_control/01/vcs_workflow
   - title: Version control for data
     url: /version_control/02/version_control_data
   - title: Resources
