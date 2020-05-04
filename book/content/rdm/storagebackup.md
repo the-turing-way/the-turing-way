@@ -23,7 +23,7 @@ Learn more about this in the 'sharing and archiving section' of this chapter.
 
 ## Data organisation
 
-To organise your data you can create a folder structure (or re-use - see below) to ensure that you are able to find your files.
+To organise your data you can create a folder structure or re-use a previous structure (see an example below) to ensure that you are able to find your files.
 
 -	Make sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they don’t belong or stored in large quantities in a single folder
 -	Use a clear folder structure: you can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example above), or based on analysis method/equipment/type of data.
