@@ -303,7 +303,10 @@ matrix:
     - os: osx
 ```
 
-This is useful if you ideally want the build to be successful in multiple environments, but not all of them are vital. Beware of allowing failures to "get back to green" by ignoring failures as they get introduced. In the short term you may seem to get faster progress, but in practice all of those failures are still there. They're now going unreported, and may represent genuine problems with your code.
+This is useful if you ideally want the build to be successful in multiple environments, but not all of them are vital. 
+Beware of ignoring failures as they get introduced by allowing them to "get back to green". 
+In the short term, you may seem to get faster progress, but in practice, all of those failures are still there. 
+They're now going unreported and may represent genuine problems with your code in the future.
 
 <a name="Limitations_of_CI"></a>
 ## Limitations of CI
