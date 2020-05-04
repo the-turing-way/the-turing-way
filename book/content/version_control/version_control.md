@@ -622,7 +622,7 @@ git pull origin master
 ```
 
 It is also possible to make pull requests via the command line.
-A guide on how to do so is available [here](https://Git-scm.com/docs/Git-request-pull).
+A guide on how to do so is available [here](https://Git-scm.com/docs/git-request-pull).
 
 ### Good practice
 
