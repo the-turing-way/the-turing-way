@@ -1,4 +1,4 @@
-# Storage and backup
+# Data storage and organisation
 
 Data loss can be catastrophic for your research project and can happen often. You can prevent data loss by picking
 suitable storage solutions and backing your data up frequently.
@@ -18,20 +18,25 @@ files where needed.
 Your institution might provide local storage solutions and policies or guidelines restricting what you can use.
 Thus, we recommend you familiarise yourself with your local policies and recommendations.
 
-When you are ready to release the data to the wider community, you can also search for the appropriate [databases and repositories](https://fairsharing.org/databases) in FAIRsharing, according to your data type, and type of access to the data.
-Major [publishers are progressively defining clearer recommendations for data deposition and sharing](https://fairsharing.org/recommendations), endorsing specific generics as well as domain-specific databases and repositories.
+When you are ready to release the data to the wider community, you can also search for the appropriate databases and repositories in [FAIRsharing](https://fairsharing.org/databases), according to your data type, and type of access to the data.
+Learn more about this in the 'sharing and archiving section' of this chapter. 
 
-### Data organisation
+## Data organisation
 
-To organise your data you can create a folder structure (or re-use a [folder structure](http://nikola.me/folder_structure.html) to ensure that you are able to find your files.
+To organise your data you can create a folder structure or re-use a previous structure (see an example below) to ensure that you are able to find your files.
 
 -	Make sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they don’t belong or stored in large quantities in a single folder
 -	Use a clear folder structure: you can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example above), or based on analysis method/equipment/type of data.
 
-You can also pull/download folder structures using GitHub.
-[This template](https://github.com/bvreede/good-enough-projec) by Barbara Vreede, based on [cookiecutter](https://github.com/cookiecutter/cookiecutter), follows recommended practices for scientific computing by [Wilson et al. (2017)](https://doi.org/10.1371/journal.pcbi.1005510).
+### Data organisation examples
 
-### File Naming conventions
+- Download [this](http://nikola.me/folder_structure.html) folder structure by Nikola Vukovic
+- You can pull/download folder structures using GitHub: 
+[This template](https://github.com/bvreede/good-enough-projec) by Barbara Vreede, based on [cookiecutter](https://github.com/cookiecutter/cookiecutter), follows recommended practices for scientific computing by [Wilson et al. (2017)](https://doi.org/10.1371/journal.pcbi.1005510).
+- See [this template](https://osf.io/4sdn3/) by Chris Hartgerink for file organisation on the [Open Science Framework](https://osf.io/)
+
+
+## File Naming conventions
 
 Structure your file names and set up a template for this.
  It is very useful to start with the date (when the file was generated: YYYYMMDD) which will sort your files chronologically and also creates a unique identifier for each file.
@@ -56,4 +61,4 @@ To avoid loosing your data, you should follow good backup practices.
 - in different locations.
 
 The more important the data and the more often the datasets change, the more frequently you should back them up.
-If your files take up a large amount of space and backing up all of them would be difficult or expensive, you may want to create a set of criteria for when you back up the data. This can be part of your data management plan.
+If your files take up a large amount of space and backing up all of them would be difficult or expensive, you may want to create a set of criteria for when you back up the data. This can be part of your data management plan (DMP).
