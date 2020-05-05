@@ -5,7 +5,7 @@
 [![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-124-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-125-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 | Test | Status |
@@ -254,6 +254,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
     <td align="center"><a href="https://github.com/minnieho1115"><img src="https://avatars1.githubusercontent.com/u/35134464?v=4" width="100px;" alt=""/><br /><sub><b>Yini</b></sub></a><br /><a href="#translation-minnieho1115" title="Translation">🌍</a></td>
     <td align="center"><a href="http://www.adina-wagner.com"><img src="https://avatars1.githubusercontent.com/u/29738718?v=4" width="100px;" alt=""/><br /><sub><b>Adina Wagner</b></sub></a><br /><a href="#content-adswa" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/GeorgianaElena"><img src="https://avatars0.githubusercontent.com/u/7579677?v=4" width="100px;" alt=""/><br /><sub><b>Georgiana Elena</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3AGeorgianaElena" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="http://www.glerean.com"><img src="https://avatars1.githubusercontent.com/u/8993301?v=4" width="100px;" alt=""/><br /><sub><b>Enrico Glerean</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Aeglerean" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
