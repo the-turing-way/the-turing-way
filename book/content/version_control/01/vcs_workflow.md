@@ -183,10 +183,8 @@ Storing past versions is useless if you can not understand them, and figuring ou
 When you commit you have the chance to write a commit message describing what the commit is and what it does, and you should always, *always,* **_always_** do so.
 A commit message gets attached to the commit so if you look back at it (for example, via `git log`) it will show up.
 Creating insightful and descriptive commit messages is one of the best things you can do to get the most out of version control.
-It lets people (and your future self when you have long since forgotten what you were doing and why) quickly understand what changes a commit contains without having to carefully read code and waste time figuring it out.
-Good commit messages improve your code quality by drastically reducing its WTF/min ratio:
-
-![wtf_per_min](../../figures/wtf_per_min.jpg)
+It lets people (and your future self when you have long since forgotten what you were doing and why) quickly understand what updates a commit contains without having to carefully read code and waste time figuring it out.
+Good commit messages improve your code quality by drastically reducing wrong assumptions by people on why certain changes were made.
 
 When you commit via `git commit`, a field appears (either within the terminal or in a text editor) where a commit message can be written. 
 You can write a meaningful statement and save (and close if writing the message via text editor).
