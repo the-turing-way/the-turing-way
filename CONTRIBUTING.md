@@ -283,7 +283,7 @@ You can build and host the book website locally. The steps are:
 
 1. Install [docker](https://www.docker.com/): see [Reproducible Environments](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Containers_section) for discussion of docker and containers.
 
-4. Next, make sure you have docker-compose installed: [compose installation instructions](https://docs.docker.com/compose/install/)
+2. Make sure you have docker-compose installed: [compose installation instructions](https://docs.docker.com/compose/install/)
 
 5. The website can then be started using:
 
