@@ -285,7 +285,7 @@ You can build and host the book website locally. The steps are:
 
 2. Make sure you have docker-compose installed: [compose installation instructions](https://docs.docker.com/compose/install/)
 
-5. The website can then be started using:
+Start the website locally using the following commands:
 
    ```
    cd book/website
