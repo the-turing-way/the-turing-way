@@ -277,7 +277,9 @@ You can build and host the book website locally. The steps are:
    jupyter-book build .
    ```
 
-3. To host the book locally, install [docker](https://www.docker.com/): see [Reproducible Environments](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Containers_section) for discussion of docker and containers.
+### To host the book locally
+
+1. Install [docker](https://www.docker.com/): see [Reproducible Environments](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Containers_section) for discussion of docker and containers.
 
 4. Next, make sure you have docker-compose installed: [compose installation instructions](https://docs.docker.com/compose/install/)
 
