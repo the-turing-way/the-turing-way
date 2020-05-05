@@ -265,6 +265,8 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 
 You can build and host the book website locally. The steps are:
 
+### To build book locally
+
 1. Install the required software to build the book, optionally in a [virtual environment](https://packaging.python.org/tutorials/installing-packages/#creating-virtual-environments):
 
    ```
