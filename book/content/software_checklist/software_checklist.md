@@ -6,16 +6,14 @@ Here we provide a short checklist for software projects. The rest of this chapte
 ## The list
 
 The __bare minimum__ that every software project should do, from the start, is:
-* Pick and include an [open source license]( /open_research/02/softwarelicenses).
+* Pick and include an [open source license](/licensing/01/softwarelicenses).
 * Use [version control](/version_control/version_control).
 * Use a [publicly accessible](/open_research/02/opensourcesoftware) version control repository.
-* [WIP] Add [documentation describing the project]().
-
+* Add [documentation describing the project](/documentation/documenation#Project_Documentation).
 
 We recommend that you also do the following (from the start of the project):
 * Use [code quality tools](/code_quality/code_quality).
 * [Testing](/testing/testing).
-
 
 Additional steps depend on the goal of the software (zero or more can apply):
 * [I'm publishing a paper](#im-publishing-a-paper).
@@ -32,13 +30,13 @@ Additional steps depend on the goal of the software (zero or more can apply):
 ## I'm expecting users
 
 * [Release](/software_checklist/02/releases) your software.
-* [WIP] Provide [user documentation](/software_documentation/02/project_documentation).
+* Provide [user documentation](/documentation/documenation#Project_Documentation).
 * Provide [easy installation](/software_checklist/02/releases#one-command-install).
 * Provide issue tracker.
 
 ## I'm expecting contributors
 
-* [WIP] Provide [development documentation](/software_documentation/02/code_documentation).
+* Provide [contributor guidelines](/documentation/documenation#CONTRIBUTING) and [development documentation](/documentation/documenation#Code_Documentation).
 * Provide a means of communication: i.e. use Github issues, mailing list, not private email.
 * Implement and add a [code of conduct](/collaborating_github/3/getting_contributors#code-of-conduct).
 * Add a [contribution guideline](/collaborating_github/3/getting_contributors#code-of-conduct).
