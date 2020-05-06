@@ -50,8 +50,8 @@ Continuous integration (CI) is the practice of integrating changes to a project 
 
 CI has a number of key benefits:
 
-- Helps bugs to be found early, minimizing their damage and making them easier to fix
-- Keeps project contributors up to date with each other's work so they can benefit from it as soon as possible
+- Helps the team to find bugs early, minimizing their damage and making them easier to fix
+- Keeps project contributors up to date with each other's work so they can benefit from it as soon as possible, and adapt to any changes
 - Encourages users to write tests
 - Automates running of tests
 - Ensures tests are run frequently
@@ -61,11 +61,11 @@ CI has a number of key benefits:
 
 This chapter demands a strong understanding of version control. The central concepts you will need to recall are:
 
-- How it can be used to enable people collaborating on a single project to combine their work via merging
+- How version control can enable people collaborating on a single project to combine their work via merging
 - What merge conflicts are and the difficulties they can present
 - What GitHub is and how to use it
 
-In brief if a group of researchers are collaborating on a project it is good practice for them to use version control to keep track of their changes over time, and combine their work regularly. If they do not combine (integrate) their work regularly then when they come to do so it is likely to be very difficult as different people may have made contradictory changes.
+In brief if a group of researchers are collaborating on a project it is good practice for them to use version control to keep track of their changes over time, and combine their work regularly. If they do not combine (integrate) their work regularly then when they come to do so there is more opportunity for different people to have made contradictory changes.
 
 Continuous Integration is a software development practice where members of a team integrate their work frequently, rather than doing work in isolation and merging in large changes at infrequent intervals. In CI usually each person integrates at least daily. Each integration is verified by an automated build (usually including tests) to detect integration errors as quickly as possible.
 
@@ -162,9 +162,9 @@ or
 os: windows
 ```
 
-It is possible to build and test a project on multiple operating systems and against multiple versions of a programming language. This will be not be discussed here as this presents and extra level of complexity and will not be needed in most cases for research, but it is discussed [later](#Testing_a_project_against_multiple_versions_of_a_programming_language).
+It is possible to build and test a project on multiple operating systems and against multiple versions of a programming language. This presents an extra level of complexity and will not be needed in most cases for research, but it is discussed [later](#Testing_a_project_against_multiple_versions_of_a_programming_language).
 
-To specify the distribution of an operating system to run the project with use `dist`, for example:
+To specify the distribution of an operating system to build the project on use `dist`, for example:
 
 ```
 os: linux
@@ -303,7 +303,10 @@ matrix:
     - os: osx
 ```
 
-This is useful if you ideally want the build to be successful in multiple environments, but not all of them are vital.
+This is useful if you ideally want the build to be successful in multiple environments, but not all of them are vital. 
+Beware of ignoring failures as they get introduced by allowing them to "get back to green". 
+In the short term, you may seem to get faster progress, but in practice, all of those failures are still there. 
+They're now going unreported and may represent genuine problems with your code in the future.
 
 <a name="Limitations_of_CI"></a>
 ## Limitations of CI
@@ -350,6 +353,9 @@ The idea behind trunk-based development is to avoid large commits that violate o
 Because the build and test steps must be performed frequently, it is essential that these processes be streamlined to minimize the time spent on them. Increases in build time should be treated as a major problem because the impact is compounded by the fact that each commit kicks off a build.
 
 When possible, running different sections of the test suite in parallel can help move the build through the pipeline faster. Care should also be taken to make sure the proportion of each type of test makes sense. Unit tests are typically very fast and have minimal maintenance overhead. In contrast, automated system or acceptance testing is often complex and prone to breakage. To account for this, it is often a good idea to rely heavily on unit tests, conduct a fair number of integration tests, and then back off on the number of later, more complex testing.
+
+Where CI steps are run sequentially, organise them so that the most important, or those that give the most valuable feedback, run first. 
+Doing so ensures that if these steps fail, the pipeline exits earlier that reduces the latency between pushing a change and receiving useful information.
 
 ### Computational expense
 
