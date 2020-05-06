@@ -16,16 +16,18 @@ We recommend that you also do the following (from the start of the project):
 * [Testing](/testing/testing).
 
 Additional steps depend on the goal of the software (zero or more can apply):
-* [I'm publishing a paper](#im-publishing-a-paper).
-* [I'm expecting users](#im-expecting-users).
-* [I'm expecting contributors](#im-expecting-contributors).
+- [Checklist](#checklist)
+  - [Summary](#summary)
+  - [The list](#the-list)
+  - [I'm publishing a paper](#im-publishing-a-paper)
+  - [I'm expecting users](#im-expecting-users)
+  - [I'm expecting contributors](#im-expecting-contributors)
+  - [Further reading](#further-reading)
 
 ## I'm publishing a paper
 
 * [Make your software citable](/software_checklist/01/making_software_citable).
 * Cite DOI in paper (see the "[Further reading](#further-reading)" section at the end of the chapter).
-* Add a `CITATION.cff` file (see the "[Further reading](#further-reading)" section at the end of the chapter).
-
 
 ## I'm expecting users
 
@@ -39,7 +41,6 @@ Additional steps depend on the goal of the software (zero or more can apply):
 * Provide [contributor guidelines](/documentation/documenation#CONTRIBUTING) and [development documentation](/documentation/documenation#Code_Documentation).
 * Provide a means of communication: i.e. use Github issues, mailing list, not private email.
 * Implement and add a [code of conduct](/collaborating_github/3/getting_contributors#code-of-conduct).
-* Add a [contribution guideline](/collaborating_github/3/getting_contributors#code-of-conduct).
 
 
 ## Further reading

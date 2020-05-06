@@ -1,6 +1,6 @@
-# [WIP] Checkmatrix software projects
+# Checklist matrix software projects
 
-This matrix shows what parts of the software sustainability checklist should be taken care of at (perhaps slightly before) what state of a project.
+This matrix shows which parts of the software sustainability checklist should be taken care of at (perhaps slightly before) which state of a project.
 
 ## Explanation of project states
 
@@ -9,15 +9,15 @@ This matrix shows what parts of the software sustainability checklist should be 
   - You throw away all of your code once in a while.
   - You work on the code by yourself.
   - You are waiting with showing other people your code until you "clean it up a bit first".
-- [*Pre-release phase*](checklist/checklist_prerelease.md). Eventually you get software you intend to keep. Signs you could be in this phase:
+- [*Pre-release phase*](checklist/checklist_prerelease.md). Eventually, you get the software you intend to keep. Signs you could be in this phase:
   - You have multiple developers.
   - You have external contributors.
   - You are working up to a release.
   - Users ask you if the software is done yet.
-- [*Maturity phase*](checklist/checklist_mature.md): Software that has reached maturity, has a clear function and scope, and is used. Signs you could be in this phase:
+- [*Maturity phase*](checklist/checklist_mature.md): Software that has reached maturity has a clear function and scope and is used. Signs you could be in this phase:
   - The software has a release.
-  - The software has users: people actually using your software/code.
-  - You have external contributor.
+  - The software has users: people using your software/code.
+  - You have an external contributor.
   - The software is actively used and contributed to by so many people that it becomes a community project rather than only your project.
 
 These states happen in order and are exclusive.
