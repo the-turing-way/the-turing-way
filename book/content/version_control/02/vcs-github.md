@@ -17,7 +17,7 @@ GitHub can help maintain transparency and effective communication among the vari
 
 First, let's create an account (if your don't have one already) by signing up on [GitHub](https://GitHub.com/).
 
-| ![a screengrab of the GitHub home page for creating an account](../figures/github-account.png)         |
+| ![a screengrab of the GitHub home page for creating an account](../../figures/github-account.png)         |
 | ------------------------------------------------------------------------------------ |
 | A screenshot of the GitHub home page, that shows how you can create or sign into your account  |
 
@@ -26,7 +26,7 @@ Enter a name for your project repository, check box for "Initialize this reposit
 
 In this chapter we will create a test repo called "friendly-github-lesson", as shown in th image below.
 
-| ![screengrab showing how to create a new repo](../figures/github-repo.png) |
+| ![screengrab showing how to create a new repo](../../figures/github-repo.png) |
 | ------------------------------------------------------------------------------------ |
 | A screenshot from the GitHub profile, showing how a new repository can be created for a project called "friendly-github-lesson" |
 
@@ -36,7 +36,7 @@ A README file in a landing page for the repo which should give information about
 We will discuss in detail how to write a good README file later, but for now, let's start by adding a couple of sentences about your project.
 Open the file by clicking on the file name, click on the edit (pen symbol) button to start writing and scroll down to save your file, which is called "commit" in Git and GitHub (see the image below).
 
-| ![screengrab showing how to edit a file on GitHub](../figures/github-readme.png) |
+| ![screengrab showing how to edit a file on GitHub](../../figures/github-readme.png) |
 | ------------------------------------------------------------------------------------ |
 | An illustration showing how to edit files on GitHub and "commit" changes |
 
