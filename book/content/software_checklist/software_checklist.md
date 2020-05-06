@@ -36,7 +36,6 @@ Additional steps depend on the goal of the software (zero or more can apply):
 * Provide [easy installation](/software_checklist/02/releases#one-command-install).
 * Provide issue tracker.
 
-
 ## I'm expecting contributors
 
 * [WIP] Provide [development documentation](/software_documentation/02/code_documentation).

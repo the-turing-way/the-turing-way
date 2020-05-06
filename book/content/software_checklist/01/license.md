@@ -1,3 +1,0 @@
-# License test
-
-## Subsection

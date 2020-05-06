@@ -60,12 +60,8 @@
 - title: Software Checklist
   url: software_checklist/software_checklist
   sections:
-  - title: Making software citable
-    url: software_checklist/01/making_software_citable
-  - title: Releases
-    url: software_checklist/02/releases
   - title: Checklist Matrix
-    url: software_checklist/03/checklist_matrix
+    url: software_checklist/01/checklist_matrix
 - title: Version Control
   url: version_control/version_control
 - title: Collaborating on GitHub/GitLab
