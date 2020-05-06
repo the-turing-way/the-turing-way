@@ -1,6 +1,6 @@
 ## Version Control for data
 
-We discussed that the version controlling the components of evolving projects 
+We discussed that version controlling the components of evolving projects 
 can help to make work more organized, efficient, collaborative, and reproducible. 
 Many scientific projects, however, do not only contain code, manuscripts, or 
 other small-sized files. 
