@@ -32,4 +32,8 @@ newPRWelcomeComment: >
 
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >
-  Congrats on merging your first pull request! We here at behaviorbot are proud of you!
+  ![Congratulations Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:32fbdb89-ae1b-434e-830c-88ade86724cc:BannerCongratulations.jpg/full/750,/0/default.jpg)
+
+  Congrats on merging your first pull request! :tada:
+  We here at _The Turing Way_ are proud of you! :sparkling_heart:
+  Thank you so much for your contribution :gift:
