@@ -12,7 +12,7 @@
 - [Summary](#Summary)
 - [How this will help you/ why this is useful](#Why_this_is_useful)
   - [What are continuous delivery and continuous deployment?](#What_are_continuous_delivery_and_continuous_deployment)
-  - [What alternatives are available?](#What_alternatives_are_available)
+  - [What options are available?](#What_options_are_available)
 - [What is Travis and how does it work?](#What_is_Travis_and_how_does_it_work)
 - [Setting up continuous integration with Travis](#Setting_up_continuous_integration_with_Travis)
   - [Basic steps](#Basic_steps)
@@ -87,10 +87,10 @@ Technically speaking the above explanation conflates three related concepts, con
 
 In this chapter this entire process is referred to as continuous integration for the sake of simplicity.
 
-<a name="What_alternatives_are_available"></a>
-### What alternatives are available?
+<a name="What_options_are_available"></a>
+### What are the options for CI service providers?
 
-There are many service providers which provide CI services, such as Travis, Circle CI, GitHub Actions, GitLab CI. Each of these services has its own advantages and disadvantages. In this section we provide a brief overview to help you select the most suitable one for you.
+There are many CI service providers, such as Travis, Circle CI, GitHub Actions, GitLab CI. Each of these services has its own advantages and disadvantages. In this section we provide a brief overview to help you select the most suitable one for you.
 
  - [Travis CI](https://travis-ci.org/), is free for open source packages, has good integration with GitHub and supports multiple languages. For more details see [the next section](#What_is_Travis_and_how_does_it_work) and the [Travis tutorial](https://docs.travis-ci.com/user/tutorial/).
  - [Circle CI](https://circleci.com/), has easy integration with GitHub an BitBucket, flexible [pricing](https://circleci.com/pricing/). For more details see [here](https://circleci.com/docs/2.0/project-walkthrough/) and [here](https://circleci.com/docs/2.0/hello-world/).
@@ -98,7 +98,7 @@ There are many service providers which provide CI services, such as Travis, Circ
  - [GitLab CI](https://docs.gitlab.com/ee/ci/README.html), is built into GitLab . For more details see the [documentation of GitLab CI tool](https://docs.gitlab.com/ee/ci/) and [this tutorial](https://github.com/NLESC-JCER/ci_for_science#-gitlab-ci).
  - [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/), has deep integration with GitHub, [flexible pricing](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/) with some free options. For more details see the [Azure Pipelines documentation](https://azure.microsoft.com/en-us/services/devops/pipelines/) and [this tutorial](https://github.com/trallard/ci-research).
 
-A more extensive list of CI tools can be found [here](https://www.software.ac.uk/resources/guides/hosted-continuous-integration).
+A more extensive list of CI service providers can be found [here](https://www.software.ac.uk/resources/guides/hosted-continuous-integration).
 
 <a name="What_is_Travis_and_how_does_it_work"></a>
 ## What is Travis and how does it work?
