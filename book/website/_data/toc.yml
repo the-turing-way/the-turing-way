@@ -61,11 +61,11 @@
   url: /version_control/version_control
   sections:
   - title: General Workflow of Version Control
-    url: /version_control/01/vcs_workflow
+    url: /version_control/01/vcs-workflow
   - title: Version control using GitHub
     url: /version_control/02/vcs-github
   - title: Version control for data
-    url: /version_control/03/vcs_data
+    url: /version_control/03/vcs-data
   - title: Personal stories and case studies
     url: /version_control/04/vcs-personal-stories
   - title: Checklist and resources
