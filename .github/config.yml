@@ -13,7 +13,8 @@ newPRWelcomeComment: >
   ![Thank You Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:7fbd97cf-283b-480c-b8e1-11866e26245c:BannerThanks.jpg/full/750,/0/default.jpg)
 
   :sparkling_heart: Thanks for opening this pull request! :sparkling_heart:
-  Please make sure you have read our [Contributing Guidelines](../CONTRIBUTING.md).
+  _The Turing Way_ Community really appreciates your time and effort to contribute to the project.
+  Please make sure you have read our [Contributing Guidelines](../CONTRIBUTING.md) and filled in our pull request template to the best of your ability.
 
   If you are submitting a new chapter, here are some things that will help get your pull request across the finish line! :checkered_flag:
 
@@ -23,6 +24,9 @@ newPRWelcomeComment: >
 
   We have Continuous Integration tests that check the writing style and will help you track down any slip-ups :recycle:
   The Netlify bot will also comment with a preview of the book with your additions so you can see how it will look once it's merged! :tada:
+
+  We get a lot of pull requests on this repo, so please be patient and we will get back to you as soon as we can.
+  If we don't acknowledge this pull request after 7 days, feel free to chat to us about it in our [gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
