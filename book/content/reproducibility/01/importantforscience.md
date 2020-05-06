@@ -6,4 +6,6 @@ Working reproducibly means others can check your results - even early on in the 
 Thus, the full analysis and methodology is transparent.
 Scientific results and evidence are strengthened if they are reproduced and confirmed by several independent researchers.
 With all parts used in an analysis being available and/or documented, valuable time is saved reproducing published results and other researchers can easily build on these research results and re-use data or code for their analyses.
-In addition, so called "negative results" can be published easily, helping avoid other researchers wasting time repeating analyses that will not return the expected results (Dirnagl & Lauritzen, 2010).
+In addition, so called "negative results" can be published easily, helping avoid other researchers wasting time repeating analyses that will not return the expected results {% cite Dirnagl2010bias %}.
+
+{% bibliography --cited %}
