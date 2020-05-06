@@ -11,7 +11,7 @@ This process of creating a snapshot, which is described differently in different
 For example, Git describes it as "a commit", a few systems call it "a timepoint" or "a checkpoint", and this is simply referred to as "saving your work" in other cases such as in [Google docs](https://docs.google.com/) or [HackMD](http://hackmd.io/).
 
 As you keep saving your work by adding changes, you make more and more snapshots.
-You can think of these as saving versions of these files while documenting their history. 
+You can think of these as saving versions of these files while documenting their history.
 If you need to go back to the version of a file in a specific point in time because of a mistake, or if you changed your mind about a previous update, you can access the file in your preferred version, or return your entire project to a past state.
 
 An illustration of this is shown below.
@@ -27,7 +27,7 @@ Your collaborators will thank you, but so will future versions of yourself.
 
 So you have your project and you want to add something new or try something out before reflecting the changes in the main project folder.
 To add something new, you can continue editing your files and save changes with the proposed changes.
-If you want to try something without reflecting the changes in the main repository first, you can use the "branching" feature of more advanced version control systems such as Git. 
+If you want to try something without reflecting the changes in the main repository first, you can use the "branching" feature of more advanced version control systems such as Git.
 A branch creates a local copy of the main repository where you can work and try new changes.
 Any work you do on your branch will not be reflected on your main project (referred to as your master branch) so it remains secure and error-free while you test your ideas and troubleshoot in a local branch.
 
@@ -64,9 +64,9 @@ Moreover, version control hosting websites, such as GitHub, provides a way to co
 To get started, please make sure that your have Git installed on your computer.
 Instructions for installing Git on Linux, windows and mac machines are available [here](https://Git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 Once the installation is complete, go to your project directory via terminal or command-line interface (for example, `cd my-project-folder`).
-Your project folder contains all of your files including subdirectories. 
+Your project folder contains all of your files including subdirectories.
 
-When working on a project you will make numerous changes to your files as you progress. 
+When working on a project you will make numerous changes to your files as you progress.
 Sometimes you may need to undo changes, take another look at past versions, or compare versions.
 Saving each version individually (such as `version_1.py` and `version_2.py`) is messy and quickly becomes impractical.
 
@@ -81,7 +81,7 @@ git init
 
 This only needs to be done once per project.
 
-Think of the repository as a place where the history is being stored. 
+Think of the repository as a place where the history is being stored.
 When you first initialise a repository with `git init` all of your files in your project would not be added to the Git repository as they are by default untracked by Git.
 Therefore your next step is to add your files to the Git repository and allow Git to track them.
 
@@ -94,7 +94,7 @@ OR run the following command to add only the files ('your_file_name' in this exa
 git add your_file_name
 ```
 
-This command puts your newly added files or any other changes into what is called the "staging" state. 
+This command puts your newly added files or any other changes into what is called the "staging" state.
 
 ![change_stage_repo](../../figures/change_stage_repo.png)
 
@@ -135,8 +135,8 @@ To cancel your latest commit (revert to the previous version), run the following
 git revert HEAD
 ```
 
-This command creates a new commit that reverts the changes made in the last version. 
-If you want to retrieve a version from weeks or months ago, start by using `git log` to find the SHA of the version you want to retrieve. 
+This command creates a new commit that reverts the changes made in the last version.
+If you want to retrieve a version from weeks or months ago, start by using `git log` to find the SHA of the version you want to retrieve.
 To reset your entire project to this version run the following commands:
 
 ```
@@ -152,12 +152,12 @@ If you want the old version of a single file and not the previous version of the
 ### Good practice
 
 Commits should be 'atomic', meaning, **they should do one simple thing and they should do it completely**, for example, adding a new function or renaming a variable.
-If a lot of different changes to your project are all committed together, it can be hard to troubleshoot if any error appears in that version and undoing the whole commit may throw away valid and useful work. 
+If a lot of different changes to your project are all committed together, it can be hard to troubleshoot if any error appears in that version and undoing the whole commit may throw away valid and useful work.
 
-It is good practice to **specify the files to be committed**, that is, adding files to the staging area by name (`git add your_file_name`) rather than adding everything (`git add .`). 
+It is good practice to **specify the files to be committed**, that is, adding files to the staging area by name (`git add your_file_name`) rather than adding everything (`git add .`).
 This prevents you from unintentionally bundling different changes together, for example, if you have made a change to file A while primarily working on file B you may have forgotten this when you go to commit, and with `git add .` file A would be brought along for the ride.
 
-That said, **you do not necessarily need to do per-file commits** when working on multiple files but for one single problem. 
+That said, **you do not necessarily need to do per-file commits** when working on multiple files but for one single problem.
 For example, if we add a figure to this chapter here, let's choose something to catch the attention of someone skimming through:
 
 ![flipped_taj_mahal](../../figures/flipped_taj_mahal.png)
@@ -169,10 +169,10 @@ then when I do this two files are changed:
 
 So two files are affected, but "Add figure to version control chapter" is a single, *atomic* unit of work, so only one commit is necessary.
 
-Finally, do not commit anything that is regenerated from other files, such as a script, committed in a version (unless it is something that would take hours to regenerate). 
-Generated files just clutter up your repository and may contain features such as timestamps that can cause annoying file conflicts (see [below](#merge-conflicts)). 
+Finally, do not commit anything that is regenerated from other files, such as a script, committed in a version (unless it is something that would take hours to regenerate).
+Generated files just clutter up your repository and may contain features such as timestamps that can cause annoying file conflicts (see [below](#merge-conflicts)).
 You can instruct Git to ignore certain files by creating a file called `.Gitignore` and including names of the file that you don't need to store in your Git repository.
-For example, configuration files should be ignored that might change from environment to environment. 
+For example, configuration files should be ignored that might change from environment to environment.
 
 ## More on the commit messages
 
@@ -186,7 +186,7 @@ Creating insightful and descriptive commit messages is one of the best things yo
 It lets people (and your future self when you have long since forgotten what you were doing and why) quickly understand what updates a commit contains without having to carefully read code and waste time figuring it out.
 Good commit messages improve your code quality by drastically reducing wrong assumptions by people on why certain changes were made.
 
-When you commit via `git commit`, a field appears (either within the terminal or in a text editor) where a commit message can be written. 
+When you commit via `git commit`, a field appears (either within the terminal or in a text editor) where a commit message can be written.
 You can write a meaningful statement and save (and close if writing the message via text editor).
 You can set your preferred editor as the default by running a statement like this:
 
@@ -199,14 +199,14 @@ To avoid writing this commit message in an editor, you can use the command `git 
 ### Good practice
 
 The number one rule is: **make it meaningful**.
-A commit message like "Fixed a bug" leaves it entirely up to the person to understand what that means (again, this person may very well be you a few months in the future when you have forgotten what you were doing). 
+A commit message like "Fixed a bug" leaves it entirely up to the person to understand what that means (again, this person may very well be you a few months in the future when you have forgotten what you were doing).
 This can end up wasting your or others time figuring out what the bug was, what changes were actually made, and how a bug was fixed.
 As such a good commit message should *explain what you did, why you did it, and what is impacted by the changes*.
 As with comments you should describe what the code is "doing" rather than the code itself. For example, it is not obvious what "Change N_sim to 10" actually does, but "Change number of simulations run by the program to 10" is clear.
 
-**Summarise the change** the commit contains in the first line (50-72 characters), then leave a blank line before you continue with the body of the message. By doing this when shortened versions of `git log` are used just the summary will appear. 
+**Summarise the change** the commit contains in the first line (50-72 characters), then leave a blank line before you continue with the body of the message. By doing this when shortened versions of `git log` are used just the summary will appear.
 This makes it much easier to quickly search through a large number of commits.
-It is also a good practice to **use the imperative present tense** in these messages. 
+It is also a good practice to **use the imperative present tense** in these messages.
 For example, instead of "I added tests for" or "Adding tests for", use "Add tests for".
 
 Here is a good example of a commit message structure:
@@ -296,7 +296,7 @@ To change between branches, use the following command:
 git checkout name_of_the_branch
 ```
 
-You must commit any work you have in progress before you can to switch to another branch. 
+You must commit any work you have in progress before you can to switch to another branch.
 
 You can see all branches of your project using:
 
@@ -327,10 +327,10 @@ Once you've finished up some work on a branch and you're are ready to integrate 
 Merge the branch that you worked on into the master branch or any other target branch of your interest.
 You can also use merging to combine work that other people have done with your own and vice versa.
 
-To merge a branch, branch_A, into another branch, branch_B, switch to branch_A via: 
+To merge a branch, branch_A, into another branch, branch_B, switch to branch_A via:
 ```
 git checkout branch_A
-``` 
+```
 Merge it into branch_B by:
 
 ```
@@ -354,7 +354,7 @@ error: Entry 'your_file_name' would be overwritten by merge. Cannot merge. (Chan
 
 ### Good practice
 
-First and foremost your **master branch should always be stable**. 
+First and foremost your **master branch should always be stable**.
 Only merge work that is finished and tested (for example, on a different branch).
 If your project is collaborative then it is a good idea to merge changes that others make into your own work frequently or share your changes with your collaborators.
 If you do not do it often, it is very easy to merge conflicts to arise (next section).
