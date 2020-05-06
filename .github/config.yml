@@ -1,0 +1,31 @@
+# Configuration for welcome - https://github.com/behaviorbot/welcome
+
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
+  Thanks for opening your first issue here! Be sure to follow the issue template!
+
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+# Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: >
+  ![Thank You Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:7fbd97cf-283b-480c-b8e1-11866e26245c:BannerThanks.jpg/full/750,/0/default.jpg)
+
+  :sparkling_heart: Thanks for opening this pull request! :sparkling_heart:
+  Please make sure you have read our [Contributing Guidelines](../CONTRIBUTING.md).
+
+  If you are submitting a new chapter, here are some things that will help get your pull request across the finish line! :checkered_flag:
+
+  - Check you have removed all _lorem ipsums_ from the chapter template (if you used it)
+  - Check for any abbreviations or latin phrases (such as "e.g." or "i.e.") in your writing. See our [style guide](../CONTRIBUTING.md#writing-style) for more information on this topic.
+  - Make sure you have added your new chapter to the [Table of Contents](../book/website/_data/.toc.yml)
+
+  We have Continuous Integration tests that check the writing style and will help you track down any slip-ups :recycle:
+  The Netlify bot will also comment with a preview of the book with your additions so you can see how it will look once it's merged! :tada:
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+
+# Comment to be posted to on pull requests merged by a first time user
+firstPRMergeComment: >
+  Congrats on merging your first pull request! We here at behaviorbot are proud of you!
