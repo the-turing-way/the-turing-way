@@ -21,7 +21,7 @@ Reproducible research is necessary to ensure that scientific work can be trusted
 Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
 The goal is to ensure that all results can be independently verified and built upon in future work.
 This is sometimes easier said than done.
-Sharing these research outputs means understanding data management, library sciences, sofware development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists.
+Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists.
 
 The Turing Way is a handbook to support students, their supervisors, funders, and journal editors in ensuring that reproducible data science is "too easy not to do".
 It will include training material on version control, analysis testing, open and transparent communication with future users, and build on Turing Institute case studies and workshops.
@@ -75,5 +75,5 @@ DOIs allow us to archive the repository and they are really valuable to ensure t
 You can also share the human-readable URL to a page in the book, for example: [https://the-turing-way.netlify.com/reproducibility/03/definitions.html](https://the-turing-way.netlify.com/reproducibility/03/definitions.html), but be aware that the project is under development and therefore these links may change over time.
 You might want to include a [web archive link](http://web.archive.org) such as: [https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html](https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html) to make sure that you don't end up with broken links everywhere!
 
-We really appreciate any references that you make to _The Turing Way_ project in your and we hope it is useful.
+We really appreciate any references that you make to _The Turing Way_ project in your work and we hope it is useful.
 If you have any questions please [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch).

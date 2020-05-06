@@ -1,0 +1,7 @@
+contact_links:
+  - name: "\u2615 Collaboration Cafe"
+    url: https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md
+    about: Sign up for mentored sprints and co-working sessions with Turing Way community members
+  - name: "\U0001F5E3 All other questions and general chat"
+    url: https://gitter.im/alan-turing-institute/the-turing-way
+    about: Chat with the Turing Way community on Gitter
