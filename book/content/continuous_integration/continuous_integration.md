@@ -12,6 +12,7 @@
 - [Summary](#Summary)
 - [How this will help you/ why this is useful](#Why_this_is_useful)
   - [What are continuous delivery and continuous deployment?](#What_are_continuous_delivery_and_continuous_deployment)
+  - [What alternatives are available?](#What_alternatives_are_available)
 - [What is Travis and how does it work?](#What_is_Travis_and_how_does_it_work)
 - [Setting up continuous integration with Travis](#Setting_up_continuous_integration_with_Travis)
   - [Basic steps](#Basic_steps)
@@ -86,11 +87,22 @@ Technically speaking the above explanation conflates three related concepts, con
 
 In this chapter this entire process is referred to as continuous integration for the sake of simplicity.
 
+<a name="What_alternatives_are_available"></a>
+### What alternatives are available?
+
+There are many service providers which provide CI services, such as Travis, Circle CI, GitHub Actions, GitLab CI. Each of these services has its own advantages and disadvantages. In this section we provide a brief overview to help you select the most suitable one for you.
+
+ - [Travis CI](https://travis-ci.org/), is free for open source packages, has good integration with GitHub and supports multiple languages. For more details see [the next section](#What_is_Travis_and_how_does_it_work) and the [Travis tutorial](https://docs.travis-ci.com/user/tutorial/).
+ - [Circle CI](https://circleci.com/), has easy integration with GitHub an BitBucket, flexible [pricing](https://circleci.com/pricing/). For more details see [here](https://circleci.com/docs/2.0/project-walkthrough/) and [here](https://circleci.com/docs/2.0/hello-world/).
+ - [GitHub Actions](https://help.github.com/en/actions), has direct integration with GitHub, a [marketplace](https://help.github.com/en/actions/getting-started-with-github-actions/using-actions-from-github-marketplace) of ready to use actions. For more details see the [documentation of what GitHub actions are and how to use them](https://help.github.com/en/actions/automating-your-workflow-with-github-actions) and [this tutorial](https://github.com/NLESC-JCER/ci_for_science#-github-actions).
+ - [GitLab CI](https://docs.gitlab.com/ee/ci/README.html), is built into GitLab . For more details see the [documentation of GitLab CI tool](https://docs.gitlab.com/ee/ci/) and [this tutorial](https://github.com/NLESC-JCER/ci_for_science#-gitlab-ci).
+ - [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/), has deep integration with GitHub, [flexible pricing](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/) with some free options. For more details see the [Azure Pipelines documentation](https://azure.microsoft.com/en-us/services/devops/pipelines/) and [this tutorial](https://github.com/trallard/ci-research).
+
+A more extensive list of CI tools can be found [here](https://www.software.ac.uk/resources/guides/hosted-continuous-integration).
+
 <a name="What_is_Travis_and_how_does_it_work"></a>
 ## What is Travis and how does it work?
 
-There are a number of CI tools available, such as Circle (tutorials [here](https://circleci.com/docs/2.0/project-walkthrough/) and [here](https://circleci.com/docs/2.0/hello-world/)).
-A list of other CI tools can be found [here](https://www.software.ac.uk/resources/guides/hosted-continuous-integration).
 In this chapter we will focus on [Travis](https://travis-ci.org/) because it's free (if your code is openly available), widely used, and well integrated with the version control platform [GitHub](https://github.com/).
 
 To use Travis you will need to add a file to your project called `.travis.yml` which describes the computational environment to run the project in, and includes a script to run your tests. See the chapter on reproducible computational environments for more information on them, including writing `.yml` files to specify them. See the chapter on testing for information on writing and automating tests. The `.travis.yml` file has a number of other capabilities, which will be described [later](#After_success) along with more [detailed instructions](#Setting_up_the_computational_environment) for writing these files.
@@ -303,9 +315,9 @@ matrix:
     - os: osx
 ```
 
-This is useful if you ideally want the build to be successful in multiple environments, but not all of them are vital. 
-Beware of ignoring failures as they get introduced by allowing them to "get back to green". 
-In the short term, you may seem to get faster progress, but in practice, all of those failures are still there. 
+This is useful if you ideally want the build to be successful in multiple environments, but not all of them are vital.
+Beware of ignoring failures as they get introduced by allowing them to "get back to green".
+In the short term, you may seem to get faster progress, but in practice, all of those failures are still there.
 They're now going unreported and may represent genuine problems with your code in the future.
 
 <a name="Limitations_of_CI"></a>
@@ -354,7 +366,7 @@ Because the build and test steps must be performed frequently, it is essential t
 
 When possible, running different sections of the test suite in parallel can help move the build through the pipeline faster. Care should also be taken to make sure the proportion of each type of test makes sense. Unit tests are typically very fast and have minimal maintenance overhead. In contrast, automated system or acceptance testing is often complex and prone to breakage. To account for this, it is often a good idea to rely heavily on unit tests, conduct a fair number of integration tests, and then back off on the number of later, more complex testing.
 
-Where CI steps are run sequentially, organise them so that the most important, or those that give the most valuable feedback, run first. 
+Where CI steps are run sequentially, organise them so that the most important, or those that give the most valuable feedback, run first.
 Doing so ensures that if these steps fail, the pipeline exits earlier that reduces the latency between pushing a change and receiving useful information.
 
 ### Computational expense
