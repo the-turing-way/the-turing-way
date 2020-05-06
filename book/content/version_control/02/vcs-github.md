@@ -44,8 +44,13 @@ Every time you save your file you "commit" the proposed changes and create a new
 A "commit message" allows you to add a comprehensive description on what is being updates.
 You can learn more about commit and commit message in the [version control chapter](/version_control/01/vcs_workflow).
 
-To create a new file, you can go to your repository and click on 
+To create a new file, click on "create new file" button on your repository.
+Similarly, to open a new file inside a new folder, start by writing the folder name followed by a forward slash, followed by the file name as shown in the image below.
 
+
+| ![screengrab showing how to create files on GitHub](../../figures/github-readme.png) |
+|:------------------------------------------------------------------------------------ |
+| An illustration showing how to create new files and folders on GitHub                |
 
 ### Styling with markdown
 
