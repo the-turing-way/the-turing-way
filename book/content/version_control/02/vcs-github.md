@@ -50,6 +50,7 @@ To create a new file, you can go to your repository and click on
 ### Styling with markdown
 
 The '.md' stands for Markdown. 
+
 <!---Add MarkDown tutorial here--->
 
 ### Create a local copy of an online repository
