@@ -1,0 +1,152 @@
+# Each entry has the following schema:
+#
+# - title: mytitle   # Title of chapter or section
+#   file: content/myfile  # file of section relative to the content/content/ folder.
+#   sections:  # Contains a list of more entries that make up the chapter's sections
+#
+# Below are some special values that trigger specific behavior:
+# - header: My Header  # Will insert a header with no link in the sidebar
+#
+# Jupyter-book expects the first two lines to reference to the landing page. If the
+# landing page is also a section of the book, create a copy of the section file and rename 
+# it as the index and add it at the beginning of the document (but don't link the 
+# same file as landing page and section, this will create trouble with the structure of the
+# subections)
+
+# ===== NEW SECTION ========================================
+- title: Introduction
+  file: content/index  # this is a copy of the introduction section
+
+- title: Introduction
+  file: content/introduction/introduction
+- title: Reproducibility
+  file: content/reproducibility/reproducibility
+  sections:
+  - title: Why reproducibility is important
+    file: content/reproducibility/01/importantforscience
+  - title: Why you should care
+    file: content/reproducibility/02/whycare
+  - title: Definitions
+    file: content/reproducibility/03/definitions
+  - title: Resources
+    file: content/reproducibility/04/resources
+- title: Open Research
+  file: content/open_research/open_research
+  sections:
+  - title: Open data
+    file: content/open_research/01/opendata
+  - title: Open source software
+    file: content/open_research/02/opensourcesoftware
+  - title: Open hardware
+    file: content/open_research/03/openhardware
+  - title: Open access
+    file: content/open_research/04/openaccess
+  - title: Open notebooks
+    file: content/open_research/05/opennotebooks
+  - title: Open scholarship
+    file: content/open_research/06/openscholarship
+  - title: Resources
+    file: content/open_research/07/resources
+- title: Version Control
+  file: content/version_control/version_control
+- title: Licensing
+  file: content/licensing/licensing
+  sections:
+  - title: Software licenses
+    file: content/licensing/01/softwarelicenses
+  - title: Data licenses
+    file: content/licensing/02/datalicenses
+- title: Collaborating on GitHub/GitLab
+  file: content/collaborating_github/collaborating_github
+  sections:
+  - title: README and Project Communication
+    file: content/collaborating_github/1/readme_communication
+  - title: Roadmapping
+    file: content/collaborating_github/2/roadmapping
+  - title: Getting Contributors
+    file: content/collaborating_github/3/getting_contributors
+  - title: Checklist and Bibliography
+    file: content/collaborating_github/4/checklist_bibliography
+- title: Community Communications for Open Source Projects
+  file: content/open-source-comms/intro
+  sections:
+  - title: Issue Tracking
+    file: content/open-source-comms/issue-tracking
+  - title: Communication Channels
+    file: content/open-source-comms/comms-channels
+  - title: Further Reading
+    file: content/open-source-comms/further-reading
+- title: Credit for reproducible research
+  file: content/credit/credit
+- title: Research Data Management
+  file: content/rdm/rdm
+  sections:
+  - title: The FAIR principles and practices
+    file: content/rdm/fairprinciples
+  - title: Storage and backup
+    file: content/rdm/storagebackup
+  - title: Data organisation in spreadsheets
+    file: content/rdm/spreadsheets
+  - title: Documentation and metadata
+    file: content/rdm/docmetadata
+  - title: Sharing and archiving data
+    file: content/rdm/sharingarchiving
+  - title: Personal Stories
+    file: content/rdm/personalstories
+  - title: Resources
+    file: content/rdm/resources
+- title: Reproducible Environments
+  file: content/reproducible_environments/reproducible_environments
+  sections:
+  - title: Choosing a tool
+    file: content/reproducible_environments/01/options
+  - title: Conda
+    file: content/reproducible_environments/02/package-management
+  - title: YAML
+    file: content/reproducible_environments/03/yaml
+  - title: Binder
+    file: content/reproducible_environments/04/binder
+  - title: Virtual machines
+    file: content/reproducible_environments/05/virtual-machines
+  - title: Containers
+    file: content/reproducible_environments/06/containers
+  - title: Checklist
+    file: content/reproducible_environments/07/checklist
+  - title: Resources
+    file: content/reproducible_environments/08/resources
+- title: Code quality
+  file: content/code_quality/code_quality
+- title: Testing
+  file: content/testing/testing
+- title: Reviewing
+  file: content/reviewing/reviewing
+  sections:
+  - title: How this will help you and why this is useful
+    file: content/reviewing/01/how_helpful
+  - title: Best Practice
+    file: content/reviewing/02/best_practice
+  - title: Typical Workflows
+    file: content/reviewing/03/typical_workflows
+  - title: Checklists, what to learn next and bibliography
+    file: content/reviewing/04/checklists_bib
+- title: Continuous Integration
+  file: content/continuous_integration/continuous_integration
+- title: Reproducible Research with Make
+  file: content/make/make
+- title: Research Compendia
+  file: content/research_compendia/research_compendia
+- title: Risk Assessment
+  file: content/risk_assessment/risk_assessment
+  sections:
+  - title: Long Read on Risk Assessment
+    file: content/risk_assessment/01/longreadriskassessment
+  - title: Summary
+    file: content/risk_assessment/02/finalsummary
+- title: BinderHub
+  file: content/binderhub/binderhub
+- title: "Personal Experience: Diving into Leadership"
+  file: content/diving_into_leadership/diving_into_leadership
+- title: Glossary
+  file: content/glossary/glossary
+- title: Five book preview
+  file: content/5-book-preview/5-book-preview
