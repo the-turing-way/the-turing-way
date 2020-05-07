@@ -450,7 +450,7 @@ def adult_or_child(age):
 ```
 
 go ahead and write a test to ensure that future changes in the code can't cause it to happen again:
-```  
+```
 def test_adult_or_child():
 
   #Test that an adult is correctly classified as an adult
