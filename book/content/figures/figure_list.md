@@ -10,6 +10,7 @@
 | binder_terminal            | Reproducible environments | Interacting with an example binder via a terminal |
 | cd_example                 | Reproducible environments | Example of result of using cd in a Dockerfile     |
 | change_stage_repo          | Version control           | Cartoon showing staging and committing changes    |
+| community                  | Introduction              | Illustration depicting Turing Way community       |
 | container_example          | Reproducible environments | Demo of a simple container in terminal            |
 | docker_official_image      | Reproducible environments | The official ubuntu docker image with badge       |
 | eyeball_test_1             | Testing                   | Results tested by seeing if they 'look right'     |
@@ -22,8 +23,11 @@
 | one_branch                 | Version control           | Illustrates version control master + one branch   |
 | open_access_citatations    | Open research             | Impact of openness on citation count              |
 | open_umbrella              | Open research             | Terms under the umbrella of open scholarship      |
+| reasons_reproducibility    | reproducibility           | Added advantages of working reproducibly          |
 | regents_map                | BinderHub workshop        | Map to workshop location                          |
 | reproducibility_kirstie    |                           | Depicts cow code and data relate to good practise |
+| ResearchCompendium         | Research Compendium       | Illustration on research compendium               |
+| risk_matrix                | risk_assessment
 | sub_branch                 | Version control           | Illustrates version control branch + sub branch   |
 | testing_motivation_1       | Testing                   | Example of consequence of not testing code        |
 | testing_motivation_2       | Testing                   | Example of consequence of not testing code        |
@@ -36,4 +40,4 @@
 | VM_export_machine          | Reproducible environments | How to export a virtual machine in virtualbox     |
 | VM_start_machine           | Reproducible environments | How to start a virtual machine in virtualbox      |
 | workdir_example            | Reproducible environments | Example of using workdir in Dockerfiles           |
-| wtf_per_min.jpg            | Version control           | Good quality code = few wtf per min               |
+| wtf_per_min                | Version control           | Good quality code = few wtf per min               |
