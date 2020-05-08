@@ -6,17 +6,8 @@
 #
 # Below are some special values that trigger specific behavior:
 # - header: My Header  # Will insert a header with no link in the sidebar
-#
-# Jupyter-book expects the first two lines to reference to the landing page. If the
-# landing page is also a section of the book, create a copy of the section file and rename 
-# it as the index and add it at the beginning of the document (but don't link the 
-# same file as landing page and section, this will create trouble with the structure of the
-# subections)
 
 # ===== NEW SECTION ========================================
-- title: Introduction
-  file: content/index  # this is a copy of the introduction section
-
 - title: Introduction
   file: content/introduction/introduction
 - title: Reproducibility
