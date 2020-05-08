@@ -6,3 +6,4 @@ datascience
 folium
 matplotlib
 jupyter-book>=0.7.0b.
+sphinx<3
