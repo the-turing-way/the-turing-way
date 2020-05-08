@@ -29,5 +29,5 @@
 # build:
 # 	jupyter-book build ./ --overwrite
 
-site: build
+site:
 	pip install -r requirements.txt && jupyter-book build .
