@@ -76,6 +76,20 @@ You might want to include a web archive link such as: <https://web.archive.org/w
 We really appreciate any references that you make to _The Turing Way_ project in your and we hope it is useful.
 If you have any questions please [get in touch](#get-in-touch).
 
+### Citing _The Turing Way_ illustrations
+
+_The Turing Way_ illustrations are created by artists from [Scriberia](https://www.scriberia.co.uk/) as part of [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) in Manchester on 17 May 2019, and London on 28 May 2019 and 21 February 2020. 
+They depict a variety of content from the handbook, collaborative efforts in the community and _The Turing Way_ project in general. 
+These illustrations are available on Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) under a CC-BY license.
+
+When using any of the images, please include the following attribution:
+> This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence.
+
+The latest version from Zenodo can be cited as:
+> The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300
+
+We have used a few of these illustrations in the [Welcome Bot](https://github.com/apps/welcome)'s responses to new members' contributions in this GitHub repository.
+
 ### Get in touch
 
 We have a gitter chat room and we'd love for you to swing by to say hello at <https://gitter.im/alan-turing-institute/the-turing-way>.
