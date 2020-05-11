@@ -88,7 +88,7 @@ When using any of the images, please include the following attribution:
 The latest version from Zenodo can be cited as:
 > The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300
 
-We have used a few of these illustrations in [Welcome Bot](https://github.com/apps/welcome) responses to the new members' contributions on this GitHub.
+We have used a few of these illustrations in the [Welcome Bot](https://github.com/apps/welcome)'s responses to new members' contributions in this GitHub repository.
 
 ### Get in touch
 
