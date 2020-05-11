@@ -80,7 +80,7 @@ If you have any questions please [get in touch](#get-in-touch).
 
 _The Turing Way_ llustrations are created by Scriberia artists as part of [_The Turing Way book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) in Manchester on 17 May 2019, and London on 28 May 2019 and 21 February 2020. 
 They depict a variety of content of the handbook, collaborative efforts in the community and The Turing Way project in general. 
-These illustrations are available on Zenodo: https://zenodo.org/record/3695300 under CC-By license.
+These illustrations are available on Zenodo: https://zenodo.org/record/3695300 under a CC-BY license.
 
 When using any of the images, please include the following attribution:
 > This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence.
