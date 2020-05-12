@@ -1,4 +1,4 @@
-  This document lists the various checklists for organising meetings, conferences or similar events online.
+This document lists the various checklists for organising meetings, conferences or similar events online.
 It also includes a checklist for participating in remote meetings and conference.
 The last two checklists are about managing and participating in the distributed teams.
 
