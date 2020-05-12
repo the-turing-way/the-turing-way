@@ -164,7 +164,7 @@ The website https://research-compendium.science contains links to further resour
 
 ## Definitions/glossary
 
-See our [glossary](glossary/glossary) for explanations of terms used in the chapter.
+See our [glossary](/glossary/glossary) for explanations of terms used in the chapter.
 
 
 ## Bibliography
