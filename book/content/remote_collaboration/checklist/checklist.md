@@ -1,4 +1,4 @@
-This document lists the various checklists for organising meetings, conferences or similar events online.
+  This document lists the various checklists for organising meetings, conferences or similar events online.
 It also includes a checklist for participating in remote meetings and conference.
 The last two checklists are about managing and participating in the distributed teams.
 
@@ -798,30 +798,58 @@ This checklist also aims to help participants support the event organisers by be
 
 <a name="checklist-for-managing-and-participating-in-a-distributed-team"></a>
 ## Checklist for managing and participating in a distributed team
-*HELP WANTED*
+Managing and participating in a distributed team can be difficult. This is the magic spell for increasing productivity and team happiness for a distributed team. 
 
 <a name="tips-for-all-the-members"></a>
 ### Tips for all the members
-<details>
-  <summary>Click to expand</summary>
-
-</details>
+- [ ] Be courteous and have realistic exceptations from your colleagues  
+- [ ] Complete the tasks assigned to you
+- [ ] Always speak up your doubt to have a clear perspective on the team goals
+- [ ] If not able to attend a corresponding online meeting, send regards prior to the manager
+- [ ] Read meeting minutes prior and after the online meeting
+- [ ] Help fellow struggling colleagues 
+- [ ] Be transparent with ideas, take and share appropriate credits
 
 <a name="specific-tips-for-the-managers"></a>
 ### Specific tips for the managers
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
-</details>
+- [ ] Clarify all Rules of Communication by relying on Right Remote Work Tools according to the demands of the team:
+  + [ ] Online Chatting Platforms like [Slack](https://slack.com/intl/en-in/),[Gitter](https://gitter.im),[Discord](https://discord.com/) or [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
+  + [ ] Video Chatting Platforms like [Zoom](https://zoom.us/), [Google Meet](https://meet.google.com/), [Microsoft Teams](https://www.microsoft.com/en-in/microsoft-365/microsoft-teams/group-chat-software), [Skype](https://www.skype.com/en/) or the open source alternative [Jitsi](https://jitsi.org/)
+- [ ] Maintain a meeting minutes and video recording of every online-meeting. 
+- [ ] Respect time differences and assign tasks accordingly
+- [ ] Maintain a central information repository for the whole team
+- [ ] Instill a culture of constructive criticism, be open to new and bold ideas
+- [ ] Encourage and Embrace Diversity. Keep cultural differences in mind to better relate with participants
+- [ ] Set Expectations Early and Clearly to set up clear project roles and responsibilities
+- [ ] Discuss with team members their specific goals in the project to keep everyone accountable
+- [ ] Write down working schedule, holidays, meeting and other ground rules of teams
+- [ ] Have a regular One-on-One and work on team bonding, and track hours worked, attendance and other basic measures of productivity
+- [ ] Allow a degree of flexible work but also keep some consistency and also track work output
+- [ ] Maintain a consistent team direction 
+
+
+<!---</details>--->
 
 <a name="specific-tips-for-the-team-members"></a>
 ### Specific tips for the team members
-<details>
-  <summary>Click to expand</summary>
+<!---<details>
+  <summary>Click to expand</summary>--->
 
-</details>
+- [ ] Don’t conflate brief communications and clear communications
+- [ ] Don’t bombard your team with messages, use communication channels professionally
+- [ ] Establish a structured way of completing tasks, ask for help, if needed
+- [ ] Act diligintly and responsibly, giving benefit of doubt to colleagues
+- [ ] Avoid unintentional “tone” in your postings. If you have any doubt read your message out loud or have someone else read your message before you post
+- [ ] Follow [Netiquette](https://en.wikipedia.org/wiki/Etiquette_in_technology#Netiquette)
 
-</details>
+
+
+<!---</details>--->
+
+
 
 <a name="bibliography"></a>
 ## Bibliography
