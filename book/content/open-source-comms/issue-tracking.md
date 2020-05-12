@@ -72,7 +72,7 @@ The table below compares features of distributed and centralised issue repositor
 
 | Feature | Centralised Issue Repo | Distributed Issue Repos |
 | :--- | :---: | :---: |
-| Global issue search | ✅ | |
+| Global issue search | ✅ | ✅ |
 | Hosted by the same platform as the code | ❓(not guaranteed) | ✅ |
 | Filter by repository | ❓(power users*) | ✅ |
 | Suscribe to relevant updates | ❓(power users) | ✅ |
