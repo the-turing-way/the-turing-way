@@ -6,9 +6,9 @@
 | -------------|----------|------|
 | [Version Control](/version_control/version_control) | Helpful | Can be used to version the compendium|
 | [Open Research](/open_research/open_research)       | Helpful | Components are part of the compendium |
-| [Reproducible Environments](reproducible_environments/reproducible_environments) | Helpful | Can be used to make the compendium reproducible |
-| [Binder Hub](binderhub/binderhub) | Helpful | Can be used to publish the compendium |
-| [Reproducibility with Make](make/make) | Helpful | Can be used for automation in the compendium |
+| [Reproducible Environments](/reproducible_environments/reproducible_environments) | Helpful | Can be used to make the compendium reproducible |
+| [Binder Hub](/binderhub/binderhub) | Helpful | Can be used to publish the compendium |
+| [Reproducibility with Make](/make/make) | Helpful | Can be used for automation in the compendium |
 
 ## Summary
 
