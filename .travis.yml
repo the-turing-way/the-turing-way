@@ -17,4 +17,4 @@ script:
   # Below here, "scripts" directory refers to the one in book/website:
   - cd ./book/website
   - jupyter-book build .
-  - bash ./scripts/linkcheck.sh # check dead links etc.
+#  - bash ./scripts/linkcheck.sh # check dead links etc.
