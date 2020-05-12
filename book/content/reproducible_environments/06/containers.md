@@ -66,7 +66,7 @@ person can then use the image to generate a container containing a working versi
 
 There are a number of different tools available for creating and working with containers. We will focus on Docker, which
 is widely used, but be aware that others such as Singularity also exist. Singularity is sometimes preferred for use on
-HPC systems as it does not need `sudo` permissions to be run, while Docker does.
+high-performance computing systems as it does not need `sudo` permissions to be run, while Docker does.
 
 In Docker the recipe files used to generate images are known as Dockerfiles, and should be named "Dockerfile".
 
