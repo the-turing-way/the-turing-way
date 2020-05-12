@@ -10,7 +10,7 @@ The following table contrasts both definitions following Heroux et al. (2018).
 | Replicable |  A study that arrives at the same scientific findings as another study, collecting new data (possibly with different methods) and completing new analyses. | (Different team, same experimental setup.) The measurement can be obtained with stated precision by a different team using the same measurement procedure, the same measuring system, under the same operating conditions, in the same or a different location on multiple trials. For computational experiments, this means that an independent group can obtain the same result using the author's own artifacts. |
 
 Barba (2018) conducted a detailed literature review on the usage of reproducible/replicable covering several disciplines.
-Most papers and disciplines use the terminology as defined by Claerbout and Karrenbach, whereas mircobiology, immunology and computer science tend to follow the ACM use of reproducibility and replication.
+Most papers and disciplines use the terminology as defined by Claerbout and Karrenbach, whereas microbiology, immunology and computer science tend to follow the ACM use of reproducibility and replication.
 In political science and economics literature, both terms are used interchangeably.
 
 In addition to these high level definitions of reproducibility, some authors provide more detailed disctinctions.
@@ -25,7 +25,7 @@ Victoria Stodden [(2014)](http://edge.org/response-detail/25340), a prominent sc
 ## The Turing Way definition of reproducibility
 
 At _The Turing Way_ we define **reproducible research** as work that can be independently recreated from the same data and the same code that the original team used.
-Reproducible is distinct from replicable, robust and generalised as described in the figure below.
+Reproducible is distinct from replicable, robust and generalisable as described in the figure below.
 
 | ![Kirstie's definition of reproducible research](../../figures/reproducibility/ReproducibleMatrix.jpg) |
 | -------------------------------------------------------------------------------------------------------- |
@@ -40,7 +40,7 @@ The different dimensions of reproducible research described in the matrix above 
 - **Generalisable:** Combining replicable and robust findings allow us to form generalisable results.
   Note that running an analysis on a different software implementation and with a different dataset does not provide _generalised_ results.
   There will be many more steps to know how well the work applies to all the different aspects of the research question.
-  Generalised is an important step towards understanding that the result is not dependent on a particular dataset nor a particular version of the analysis pipeline.
+  Generalisation is an important step towards understanding that the result is not dependent on a particular dataset nor a particular version of the analysis pipeline.
 
 More information on these definitions can be found in ["Reproducibility vs. Replicability: A Brief History of a Confused Terminology" by Hans E. Plesser](https://www.frontiersin.org/articles/10.3389/fninf.2017.00076/full).
 
