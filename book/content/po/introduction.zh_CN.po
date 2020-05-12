@@ -1,0 +1,404 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Yini He <heyini1989@163.com>, 2020
+# Tony Yang <tony@tony.tc>, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: content\n"
+"Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
+"POT-Creation-Date: 2020-02-05 19:08:03+0000\n"
+"PO-Revision-Date: 2020-02-12 14:41+0000\n"
+"Last-Translator: Tony Yang <tony@tony.tc>, 2020\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/theturingway/teams/107194/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# header
+#: introduction/introduction.md:1
+msgid "# Welcome to the Turing Way"
+msgstr "# 欢迎来到The Turing Way"
+
+#: introduction/introduction.md:3
+msgid ""
+"_The Turing Way_ is a lightly opinionated guide to reproducible data "
+"science."
+msgstr "_The Turing Way_ 是一本稍带个人观点的，关于可再现数据科学的指导手册"
+
+#: introduction/introduction.md:5
+msgid ""
+"Our goal is to provide all the information that researchers need at the "
+"start of their projects to ensure that they are easy to reproduce at the "
+"end."
+msgstr "我们的目标是在研究人员开始项目时，就提供他们关于可再现性的所以知识，以确保在项目完成之后，这些研究易于被重现。"
+
+#: introduction/introduction.md:7
+msgid ""
+"This also means making sure PhD students, postdocs, PIs, and funding teams "
+"know which parts of the \"responsibility of reproducibility\" they can "
+"affect, and what they should do to nudge data science to being more "
+"efficient, effective, and understandable."
+msgstr ""
+"这也意味着我们需要确保博士生、博士后、导师和资助团队知道他们分别可以做到“实现可重复性”的哪些部分，以及他们应该采取哪些行动，来推动数据科学变得更加高效，有效及易于理解。"
+
+#: introduction/introduction.md:9
+msgid ""
+"![Cartoon of multiple people tending a garden - caption \"our "
+"community\"](../figures/community.jpg)"
+msgstr "![关于我们社区的卡通绘画](../figures/community.jpg)"
+
+#: introduction/introduction.md:11
+msgid "The book is collaboratively written and open from the start."
+msgstr "这本书由整个社区协作编写，开放合作是我们的主旨。"
+
+#: introduction/introduction.md:12
+msgid ""
+"If you would like to contribute please [get in touch](https://github.com"
+"/alan-turing-institute/the-turing-way#get-in-touch) or visit our "
+"[contributing guidelines](https://github.com/alan-turing-institute/the-"
+"turing-way/blob/master/CONTRIBUTING.md) to learn how to start."
+msgstr ""
+"如果您想贡献自己的力量，请与我们[联系](https://github.com/alan-turing-institute/the-turing-way"
+"#get-in-touch)或访问我们的[贡献须知](https://github.com/alan-turing-institute/the-"
+"turing-way/blob/master/CONTRIBUTING.md)以了解如何开始。"
+
+#: introduction/introduction.md:14
+msgid ""
+"We value the participation of every member of our community and want to "
+"ensure that every contributor has an enjoyable and fulfilling experience."
+msgstr "我们重视社区中每个成员的参与，并希望确保每个贡献者都将拥有愉快而充实的体验。"
+
+#: introduction/introduction.md:15
+msgid ""
+"Accordingly, everyone who participates in the _Turing Way_ project is "
+"expected to show respect and courtesy to other community members at all "
+"times."
+msgstr "因此，每一个参与_The Turing Way_项目的人都应始终展现出对其他成员的尊重和礼貌。"
+
+#: introduction/introduction.md:16
+msgid ""
+"All contributions must abide by our [code of conduct](https://github.com"
+"/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md)."
+msgstr ""
+"所有贡献都必须遵守我们的[行为准则](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/CODE_OF_CONDUCT.md)。"
+
+# header
+#: introduction/introduction.md:18
+msgid "## A little more background"
+msgstr "## 一点点背景介绍"
+
+#: introduction/introduction.md:20
+msgid ""
+"Reproducible research is necessary to ensure that scientific work can be "
+"trusted."
+msgstr "可重复研究的必要性在于确保科学工作的结果是值得信赖的。"
+
+#: introduction/introduction.md:21
+msgid ""
+"Funders and publishers are beginning to require that publications include "
+"access to the underlying data and the analysis code."
+msgstr "拨款方和出版商已经开始要求出版物应当包括原始数据及代码。"
+
+#: introduction/introduction.md:22
+msgid ""
+"The goal is to ensure that all results can be independently verified and "
+"built upon in future work."
+msgstr "其目的是为了确保所有结果可以被第三方独立验证，并给未来的研究提供支持。"
+
+#: introduction/introduction.md:23
+msgid "This is sometimes easier said than done."
+msgstr "但是有时候说起来容易做起来难。"
+
+#: introduction/introduction.md:24
+msgid ""
+"Sharing these research outputs means understanding data management, library "
+"sciences, sofware development, and continuous integration techniques: skills"
+" that are not widely taught or expected of academic researchers and data "
+"scientists."
+msgstr "共享这些研究成果意味着理解数据管理、图书馆学、软件开发和持续集合技术，而这些能力却不是学术研究者和数据科学家广泛学习和掌握的技能。"
+
+#: introduction/introduction.md:26
+msgid ""
+"The Turing Way is a handbook to support students, their supervisors, "
+"funders, and journal editors in ensuring that reproducible data science is "
+"\"too easy not to do\"."
+msgstr "The Turing Way是一本手册，旨在支持学生、他们的导师、拨款方和期刊编辑，以确保可重现科学简单到不能不做。"
+
+#: introduction/introduction.md:27
+msgid ""
+"It will include training material on version control, analysis testing, open"
+" and transparent communication with future users, and build on Turing "
+"Institute case studies and workshops."
+msgstr "它将包括有关版本控制、分析测试、与潜在用户的公开透明沟通的培训材料，并会组织以Turing Institute为基础的个案研究和研讨会。"
+
+#: introduction/introduction.md:28
+msgid ""
+"This project is openly developed and any and all questions, comments and "
+"recommendations are welcome at our GitHub repository: [https://github.com"
+"/alan-turing-institute/the-turing-way](https://github.com/alan-turing-"
+"institute/the-turing-way)."
+msgstr ""
+"这个项目由社区共同开发，有任何问题、建议和推荐都欢迎来我们的GitHub仓库：[https://github.com/alan-turing-"
+"institute/the-turing-way](https://github.com/alan-turing-institute/the-"
+"turing-way)。"
+
+# header
+#: introduction/introduction.md:30
+msgid "## The book itself"
+msgstr "## 这本书本身"
+
+#: introduction/introduction.md:32
+msgid ""
+"The book that you are reading is a [jupyter book](https://github.com/jupyter"
+"/jupyter-book/)."
+msgstr "您正在阅读的是一本[Jupyter Book](https://github.com/jupyter/jupyter-book/)。"
+
+#: introduction/introduction.md:33
+msgid ""
+"Jupyter books render markdown documents and jupyter notebooks as static html"
+" web pages."
+msgstr "Jupyter Book可以将Markdown文档和Jupyter Notebook以静态HTML网页呈现。"
+
+#: introduction/introduction.md:34
+msgid "They are easy to read and navigate...but also easy to edit and extend!"
+msgstr "它们易于阅读和导航，也易于编辑和扩展！"
+
+#: introduction/introduction.md:35
+msgid ""
+"There are some great example books at "
+"[https://jupyterbook.org](https://jupyterbook.org)."
+msgstr "[https://jupyterbook.org](https://jupyterbook.org)上有一些很棒的示例书。"
+
+#: introduction/introduction.md:37
+msgid ""
+"Check out our [contributing guidelines](https://github.com/alan-turing-"
+"institute/the-turing-way/blob/master/CONTRIBUTING.md) on how you can help us"
+" build the most useful book we can!"
+msgstr ""
+"查看我们的[贡献准则](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/CONTRIBUTING.md)来了解你该如何帮助我们构建我们竭尽所能开发的最有用的书！"
+
+# header
+#: introduction/introduction.md:39
+msgid "## The Turing Way Community"
+msgstr "##  The Turing Way社区"
+
+#: introduction/introduction.md:41
+msgid "_The Turing Way_ is built by an incredible team.....and you!"
+msgstr "The Turing Way是由一支不可思议的团队创造的……还有您！"
+
+#: introduction/introduction.md:43
+msgid "![](../figures/TuringWayTeam.jpg)"
+msgstr "![](../figures/TuringWayTeam.jpg)"
+
+#: introduction/introduction.md:45
+msgid ""
+"The lead investigator for this project is [Dr Kirstie "
+"Whitaker](https://whitakerlab.github.io/about)."
+msgstr "该项目的首席研究员是[Kirstie Whitaker博士](https://whitakerlab.github.io/about)。"
+
+#: introduction/introduction.md:46
+msgid ""
+"She is a research fellow at the [Alan Turing Institute](http://turing.ac.uk)"
+" and senior research associate in the [Department of "
+"Psychiatry](https://www.psychiatry.cam.ac.uk) at the University of "
+"Cambridge."
+msgstr ""
+"她是[The Alan Turing "
+"Institute](http://turing.ac.uk)的研究员，也是剑桥大学[精神病学系](https://www.psychiatry.cam.ac.uk)的高级研究员"
+" 。"
+
+#: introduction/introduction.md:48
+msgid "Our core contributors are, in alphabetical order:"
+msgstr "我们的核心贡献者按字母顺序排列："
+
+# unordered list
+#: introduction/introduction.md:50
+msgid ""
+"* [Rachael Ainsworth](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#rachael-ainsworth)"
+msgstr ""
+"* [Rachael Ainsworth](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#rachael-ainsworth)"
+
+# unordered list
+#: introduction/introduction.md:51
+msgid ""
+"* [Becky Arnold](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#becky-arnold)"
+msgstr ""
+"* [Becky Arnold](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#becky-arnold)"
+
+# unordered list
+#: introduction/introduction.md:52
+msgid ""
+"* [Louise Bowler](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#louise-bowler)"
+msgstr ""
+"* [Louise Bowler](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#louise-bowler)"
+
+# unordered list
+#: introduction/introduction.md:53
+msgid ""
+"* [Sarah Gibson](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#sarah-gibson)"
+msgstr ""
+"* [Sarah Gibson](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#sarah-gibson)"
+
+# unordered list
+#: introduction/introduction.md:54
+msgid ""
+"* [Patricia Herterich](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#patricia-herterich)"
+msgstr ""
+"* [Patricia Herterich](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#patricia-herterich)"
+
+# unordered list
+#: introduction/introduction.md:55
+msgid ""
+"* [Rosie Higman](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#rosie-higman)"
+msgstr ""
+"* [Rosie Higman](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#rosie-higman)"
+
+# unordered list
+#: introduction/introduction.md:56
+msgid ""
+"* [Anna Krystalli](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#anna-krystalli)"
+msgstr ""
+"* [Anna Krystalli](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#anna-krystalli)"
+
+# unordered list
+#: introduction/introduction.md:57
+msgid ""
+"* [Alexander Morley](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#alexander-morley)"
+msgstr ""
+"* [Alexander Morley](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#alexander-morley)"
+
+# unordered list
+#: introduction/introduction.md:58
+msgid ""
+"* [Martin O'Reilly](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#martin-oreilly)"
+msgstr ""
+"* [Martin O'Reilly](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#martin-oreilly)"
+
+#: introduction/introduction.md:60
+msgid ""
+"You can see all of our incredible contributors in our "
+"[README](https://github.com/alan-turing-institute/the-turing-"
+"way#contributors) file, and screengrabbed below."
+msgstr ""
+"你可以在[README](https://github.com/alan-turing-institute/the-turing-"
+"way#contributors)和下面的截屏中看到我们所有的贡献者"
+
+#: introduction/introduction.md:62
+msgid ""
+"![Grid of pictures and names of project contributors](../figures"
+"/contributors-twopanel.png)"
+msgstr "![项目贡献者的姓名和图片](../figures/contributors-twopanel.png)"
+
+# header
+#: introduction/introduction.md:64
+msgid "## Citing _The Turing Way_"
+msgstr "## 引用 _The Turing Way_"
+
+#: introduction/introduction.md:66
+msgid ""
+"You can reference _The Turing Way_ through the project's Zenodo archive "
+"using doi: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853)."
+msgstr ""
+"您可以通过doi: "
+"[10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853)在项目的Zenodo存档中引用"
+" _The Turing Way_。"
+
+#: introduction/introduction.md:68
+msgid "The citation will look something like:"
+msgstr "引用格式为："
+
+# blockquote, which can be cascaded
+#: introduction/introduction.md:70
+msgid ""
+"> The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, "
+"Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The "
+"Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). "
+"Zenodo. http://doi.org/10.5281/zenodo.3233986"
+msgstr ""
+"> The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, "
+"Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The "
+"Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). "
+"Zenodo. http://doi.org/10.5281/zenodo.3233986"
+
+#: introduction/introduction.md:72
+msgid ""
+"Please visit the [DOI link](https://doi.org/10.5281/zenodo.3233853) though "
+"to get the most recent version - the one above is not automatically "
+"generated and therefore may be out of date."
+msgstr ""
+"请访问DOI链接以获得最新版本-上述版本不会自动更新，因此可能已经过时[DOI "
+"link](https://doi.org/10.5281/zenodo.3233853) "
+
+#: introduction/introduction.md:73
+msgid ""
+"DOIs allow us to archive the repository and they are really valuable to "
+"ensure that the work is tracked in academic publications."
+msgstr "DOI让我们可以对资源库进行存档，它们对于追踪学术出版物中的贡献非常有价值。"
+
+#: introduction/introduction.md:75
+msgid ""
+"You can also share the human-readable URL to a page in the book, for "
+"example: [https://the-turing-"
+"way.netlify.com/reproducibility/03/definitions.html](https://the-turing-"
+"way.netlify.com/reproducibility/03/definitions.html), but be aware that the "
+"project is under development and therefore these links may change over time."
+msgstr ""
+"您还可以分享书中特定页面的URL链接，例如：[https://the-turing-"
+"way.netlify.com/reproducibility/03/definitions.html](https://the-turing-"
+"way.netlify.com/reproducibility/03/definitions.html)，但请注意，该项目正在开发中，因此这些链接可能会随着时间而改变。"
+
+#: introduction/introduction.md:76
+msgid ""
+"You might want to include a [web archive link](http://web.archive.org) such "
+"as: [https://web.archive.org/web/20191030093753/https://the-turing-"
+"way.netlify.com/reproducibility/03/definitions.html](https://web.archive.org/web/20191030093753/https"
+"://the-turing-way.netlify.com/reproducibility/03/definitions.html) to make "
+"sure that you don't end up with broken links everywhere!"
+msgstr ""
+"您也可以提供一个[Web "
+"Archive链接](http://web.archive.org)，例如：[https://web.archive.org/web/20191030093753/https"
+"://the-turing-"
+"way.netlify.com/reproducibility/03/definitions.html](https://web.archive.org/web/20191030093753/https"
+"://the-turing-"
+"way.netlify.com/reproducibility/03/definitions.html)以确保您不会遇到已经消失的链接！"
+
+#: introduction/introduction.md:78
+msgid ""
+"We really appreciate any references that you make to _The Turing Way_ "
+"project in your and we hope it is useful."
+msgstr "我们非常感谢您在工作中引用The Turing Way，我们更希望它对您有所帮助。"
+
+#: introduction/introduction.md:79
+msgid ""
+"If you have any questions please [get in touch](https://github.com/alan-"
+"turing-institute/the-turing-way#get-in-touch)."
+msgstr ""
+"如果您有任何问题，请[联系我们](https://github.com/alan-turing-institute/the-turing-way"
+"#get-in-touch)."

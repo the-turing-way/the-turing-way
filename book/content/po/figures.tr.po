@@ -1,0 +1,166 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: content\n"
+"Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
+"POT-Creation-Date: 2020-02-05 19:08:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: figures/figure_list.md:1
+# header
+msgid "### This is a list of figures in the book"
+msgstr ""
+
+#: figures/figure_list.md:3
+msgid "**To be kept in alphabetical order**"
+msgstr ""
+
+#: figures/figure_list.md:5
+msgid "| Filename                   | Chapter                   | Description                                       |"
+msgstr ""
+
+#: figures/figure_list.md:6
+msgid "| -------------------------- | ------------------------- | ------------------------------------------------- |"
+msgstr ""
+
+#: figures/figure_list.md:7
+msgid "| binder_comic               | Reproducible environments | Cartoon showing using binder to share research    |"
+msgstr ""
+
+#: figures/figure_list.md:8
+msgid "| binder_home                | Reproducible environments | Home screen of an example binder                  |"
+msgstr ""
+
+#: figures/figure_list.md:9
+msgid "| binder_notebook            | Reproducible environments | Interacting with an example binder via a notebook |"
+msgstr ""
+
+#: figures/figure_list.md:10
+msgid "| binder_terminal            | Reproducible environments | Interacting with an example binder via a terminal |"
+msgstr ""
+
+#: figures/figure_list.md:11
+msgid "| cd_example                 | Reproducible environments | Example of result of using cd in a Dockerfile     |"
+msgstr ""
+
+#: figures/figure_list.md:12
+msgid "| change_stage_repo          | Version control           | Cartoon showing staging and committing changes    |"
+msgstr ""
+
+#: figures/figure_list.md:13
+msgid "| container_example          | Reproducible environments | Demo of a simple container in terminal            |"
+msgstr ""
+
+#: figures/figure_list.md:14
+msgid "| docker_official_image      | Reproducible environments | The official ubuntu docker image with badge       |"
+msgstr ""
+
+#: figures/figure_list.md:15
+msgid "| eyeball_test_1             | Testing                   | Results tested by seeing if they 'look right'     |"
+msgstr ""
+
+#: figures/figure_list.md:16
+msgid "| eyeball_test_2             | Testing                   | Results tested by seeing if they 'look right'     |"
+msgstr ""
+
+#: figures/figure_list.md:17
+msgid "| eyeball_test_3             | Testing                   | Results tested by seeing if they 'look right'     |"
+msgstr ""
+
+#: figures/figure_list.md:18
+msgid "| eyeball_test_error         | Testing                   | Bug detected by result 'looking wrong'            |"
+msgstr ""
+
+#: figures/figure_list.md:19
+msgid "| flipped_taj_mahal          | Version control           | Upside down taj mahal to confuse people           |"
+msgstr ""
+
+#: figures/figure_list.md:20
+msgid "| master_branch              | Version control           | Illustrates commits on master branch              |"
+msgstr ""
+
+#: figures/figure_list.md:21
+msgid "| mybinder_gen_link          | Reproducible environments | What the page to generate binder links looks like |"
+msgstr ""
+
+#: figures/figure_list.md:22
+msgid "| one_branch                 | Version control           | Illustrates version control master + one branch   |"
+msgstr ""
+
+#: figures/figure_list.md:23
+msgid "| open_access_citatations    | Open research             | Impact of openness on citation count              |"
+msgstr ""
+
+#: figures/figure_list.md:24
+msgid "| open_umbrella              | Open research             | Terms under the umbrella of open scholarship      |"
+msgstr ""
+
+#: figures/figure_list.md:25
+msgid "| regents_map                | BinderHub workshop        | Map to workshop location                          |"
+msgstr ""
+
+#: figures/figure_list.md:26
+msgid "| reproducibility_kirstie    |                           | Depicts cow code and data relate to good practise |"
+msgstr ""
+
+#: figures/figure_list.md:27
+msgid "| sub_branch                 | Version control           | Illustrates version control branch + sub branch   |"
+msgstr ""
+
+#: figures/figure_list.md:28
+msgid "| testing_motivation_1       | Testing                   | Example of consequence of not testing code        |"
+msgstr ""
+
+#: figures/figure_list.md:29
+msgid "| testing_motivation_2       | Testing                   | Example of consequence of not testing code        |"
+msgstr ""
+
+#: figures/figure_list.md:30
+msgid "| Travis_badge_fail          | Continuous integration    | A readme with a failing Travis badge              |"
+msgstr ""
+
+#: figures/figure_list.md:31
+msgid "| Travis_badge_pass          | Continuous integration    | A readme with a passing Travis badge              |"
+msgstr ""
+
+#: figures/figure_list.md:32
+msgid "| Travis_build               | Continuous integration    | What the Travis dashboard looks like              |"
+msgstr ""
+
+#: figures/figure_list.md:33
+msgid "| two_branches               | Version control           | Illustrates version control master + two branches |"
+msgstr ""
+
+#: figures/figure_list.md:34
+msgid "| virtual_machine            | Reproducible environments | Example of a virtual ubuntu machine on windows    |"
+msgstr ""
+
+#: figures/figure_list.md:35
+msgid "| VM_create_machine          | Reproducible environments | How to create a virtual machine in virtualbox     |"
+msgstr ""
+
+#: figures/figure_list.md:36
+msgid "| VM_export_machine          | Reproducible environments | How to export a virtual machine in virtualbox     |"
+msgstr ""
+
+#: figures/figure_list.md:37
+msgid "| VM_start_machine           | Reproducible environments | How to start a virtual machine in virtualbox      |"
+msgstr ""
+
+#: figures/figure_list.md:38
+msgid "| workdir_example            | Reproducible environments | Example of using workdir in Dockerfiles           |"
+msgstr ""
+
+#: figures/figure_list.md:39
+msgid "| wtf_per_min.jpg            | Version control           | Good quality code = few wtf per min               |"
+msgstr ""
+
