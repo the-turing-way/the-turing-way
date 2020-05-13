@@ -8,7 +8,7 @@ This requires that all documentation accompanying data is written in clear, plai
   be understood by
 - It is best practice to use recognised community metadata standards to make it easier for datasets to be combined.
 For example, for brain data the [Brain Imaging Data Structure](https://doi.org/10.25504/FAIRsharing.rd1j6t) is the standards to use; other [metadata standards](https://fairsharing.org/standards)(reporting requirements, terminologies, and models/schemas) are searchable in FAIRsharing.
-- Variables should be defined and explained using [data dictionaries](http://help.osf.io/m/bestpractices/l/618767-how-to-make-a-data-dictionary)
+- Variables should be defined and explained using [data dictionaries](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary)
 - Data should be stored in logical and hierarchical folder structures with a README file used to describe the structure.
 
 The README file is helpful for others and will also help you find your data in the future {% cite Fuchs2018documentation %}.
