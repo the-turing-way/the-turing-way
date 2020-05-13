@@ -32,7 +32,7 @@ To organise your data you can create a folder structure or re-use a previous str
 
 - Download [this](http://nikola.me/folder_structure.html) folder structure by Nikola Vukovic
 - You can pull/download folder structures using GitHub: 
-[This template](https://github.com/bvreede/good-enough-projec) by Barbara Vreede, based on [cookiecutter](https://github.com/cookiecutter/cookiecutter), follows recommended practices for scientific computing by [Wilson et al. (2017)](https://doi.org/10.1371/journal.pcbi.1005510).
+[This template](https://github.com/bvreede/good-enough-project) by Barbara Vreede, based on [cookiecutter](https://github.com/cookiecutter/cookiecutter), follows recommended practices for scientific computing by [Wilson et al. (2017)](https://doi.org/10.1371/journal.pcbi.1005510).
 - See [this template](https://osf.io/4sdn3/) by Chris Hartgerink for file organisation on the [Open Science Framework](https://osf.io/)
 
 
