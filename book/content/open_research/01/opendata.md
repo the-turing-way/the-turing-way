@@ -98,5 +98,5 @@ Preserving privacy may still be possible if partial or generalised datasets are 
 For example, providing age bands instead of birth date or only the first two digits of postal codes.
 It may also be possible to provide the data in such a format that researchers can query it whist keeping the data itself closed, for example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints.
 
-Data privacy is also maintained when dealing with data of national or commercial interest, details for which are listed in the chapter [Research Data Management][/rdm/rdm], in the section: *National and commercially sensitive data*.
+Data privacy is also maintained when dealing with data of national or commercial interest, details for which are listed in the chapter [Research Data Management](/rdm/rdm), in the section: *National and commercially sensitive data*.
 [rdm]: /rdm
