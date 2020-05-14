@@ -85,3 +85,4 @@ Many such skills are either also applicable for using version control well, for 
 - [20.](https://commons.wikimedia.org/wiki/Taj_Mahal#/media/File:Taj_Mahal_in_March_2004.jpg) **GNU Free Documentation License**
 - [21.](https://juristr.com/blog/2013/04/git-explained/) **Creative Commons Attribution-ShareAlike 4.0 International License**
 - [22.](http://simpleprimate.com/github-for-web-designers/glossary.html) **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+- [23.](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)**Creative Commons Attribution 2.5 Australia License.**
