@@ -10,7 +10,8 @@ Everything else is in the `website/` folder.
 - The table of contents (TOC) defines the order of the chapters as they appear in the book.
 To change the TOC, please edit the `website/_data/toc.yml` file with correct information on the location of chapters, their corresponding file names and the relative location of the files. 
 Documentation on controlling the TOC structure can be found on the [jupyter book website](https://jupyterbook.org/customize/toc.html).
-- Same applies for more general configuration using `website/_config.yml` whose documentation can be viewed on [Configure book settings](https://jupyterbook.org/customize/config.html)
+- Same applies for more general configuration using `website/_config.yml`. 
+Documentation on configuring book settings can be found on the [jupyter book website](https://jupyterbook.org/customize/config.html).
 
 ### Deploying
 The site is built automatically using these two directories. All of the requirements are specificied in `website/requirements.txt`.
