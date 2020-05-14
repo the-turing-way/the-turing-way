@@ -3,11 +3,11 @@
 
 All the text for each chapter lives inside its own folder in the `content/` directory.
 
-Everything else is in the `website/`. Importantly this includes the figures, which are in the `website/assets/figures/` directory.
+Everything else is in the `website/`. The figures are present in the `book/content/figures/` directory.
 
 ### Configuration
-- To change the table of contents (order of the chapters) see the `website/_data/toc.yml` file. Documentation can be found on the [jupyter book website](https://jupyter.org/jupyter-book/intro.html).
-- Same applies for more general configuration using `website/_config.yml`
+- To change the table of contents (order of the chapters) see the `website/_data/toc.yml` file. Documentation can be found on the [TOC structure](https://jupyterbook.org/customize/toc.html).
+- Same applies for more general configuration using `website/_config.yml` whose documentation can be viewed on [Configure book settings](https://jupyterbook.org/customize/config.html)
 
 ### Deploying
 The site is built automatically using these two directories. All of the requirements are specificied in `website/requirements.txt`.
