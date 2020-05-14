@@ -3,7 +3,8 @@
 
 All the text for each chapter lives inside its own folder in the `content/` directory.
 
-Everything else is in the `website/`. The figures are present in the `book/content/figures/` directory.
+All figures associated to the chapters are stored in and linked from the `book/content/figures/` directory.
+Everything else is in the `website/` folder.
 
 ### Configuration
 - To change the table of contents (order of the chapters) see the `website/_data/toc.yml` file. Documentation can be found on the [TOC structure](https://jupyterbook.org/customize/toc.html).
