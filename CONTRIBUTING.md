@@ -102,7 +102,12 @@ While this formats in the same way as if the new line wasn't included, it makes 
 ## Where to start: issues
 
 Before you open a new issue, please check if any of our [open issues](https://github.com/alan-turing-institute/the-turing-way/issues) covers your idea already.
-If you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/ISSUE_TEMPLATE.md).
+If you open a new issue, please follow our basic guidelines laid out in our [issue templates](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose). 
+There are 3 issues templates to choose from.: 
+1. New Chapter Template ([preview here](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&template=CHAPTER_ISSUE_TEMPLATE.md)):  This issue is a place to discuss matters relating to the writing a new chapter on a new topic or adding a subchapter in an already existing chapter.
+2. General ([preview here]((https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&template=ISSUE_TEMPLATE.md)):  Use this template for a general issue related to the book, community, process or ideas. 
+3. Bug Report ([preview here]((https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)): With this template, create an issue report that can help others repair something that is currently broken. 
+This can be used for reporting errors like typos and broken links.
 The issue template will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the "_Lorem ipsum_" sections.
 
 ### Issue labels
