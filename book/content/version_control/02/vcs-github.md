@@ -87,6 +87,98 @@ However, if you can not directly edit the repository (when you are not an owner 
 A pull request allows a contributor get their proposed changes from their personal branch or repository integrated in their master branch of the project.
 It is also possible to make pull requests via the command line (see the GitLab documentation [here](https://git-scm.com/docs/git-request-pull)), but we have discussed this in detail in the collaborating with GitHub chapter in this book.
 
+### Contributing to other projects
+
+When you create a local copy of a repository, you only keep the versions of the files that are in the repository at the time of creating that copy.
+If there are any changes made in the original repository afterwards, your copy will get out of sync out of sync.
+This can lead to problems like conflicting file contents when making a pull request or merging changes from your branch to the main repository.
+Therefore, when working on different branches or forks of a repository, it's a good practice to keep them updated frequently with the master repository and keep them in sync with the original repository.
+
+#### A workflow to contribute to projects: 
+
+Using the fork botton on the GitHub repository you wish to contribute, create a personal copy of the repository in your account.
+The master repository that you forked will be referred as "upstream" repository.
+
+You can now work on your personal copy using commandline using following steps.
+
+1. clone it to your local machine:
+
+```
+git clone git@github.com/your_username/forked_repository.git
+```
+
+2. Add the 'upstream' repository to list of remote repositories using a similar command as below (replace the upstream repository's users id and original repository name)
+
+```
+git remote add upstream https://github.com/upstream_user's_username/original_repository.git
+```
+
+3. Verify the new remote 'upstream' repository
+
+```
+git remote -v
+```
+
+4. Whenever you want to update your fork with the latest upstream changes, you'll need to first fetch the upstream repository's branches and latest commits to bring them into your repository:
+
+```
+git fetch upstream
+```
+
+5. View all branches, including those from upstream
+
+```
+git branch -va
+```
+
+Make sure that you are on your master branch locally, if not, then checkout your master branch using the command `git checkout master`
+
+6. Now you can keep your fork update by merging those commits (fetched from the upstream) to your own local master branch.
+
+```
+git merge upstream/master
+```
+
+Now, your local master branch is up-to-date with everything modified upstream.
+If there are no unique commits on the local master branch, git will simply perform a fast-forward. 
+
+*Note: The upstream/master is the original repository's master which you wish to contribute to, whereas origin/master refers to the repository you cloned in your local machine after it was forked on GitHub.*
+
+Once your fork is in sync with upstream master repository, you can always keep your local cloned repository in sync with origin (fork in this case) by using:
+
+```
+git checkout master
+git pull origin master
+```
+
+The git pull command combines two other commands, git fetch and git merge. 
+When using fetch, the resulting commits are stored as the remote branch allows you to review the changes before merging.
+
+Similarly, if you have created more branches other than master, you can also keep them in sync with your master, once it is in sync with the upstream repository.
+
+```
+git checkout my-other-branch
+git pull origin my-other-branch
+```
+
+When everything is  up-to-date, you can work on your branch and commit changes. 
+
+When you are ready to push your local commits to your forked repository (origin), use the following command.
+
+```
+git push origin forked_repository
+```
+
+Now you can make a pull request!
+
+### Good practice
+
+Before you create a branch, make sure you have all the upstream changes from the origin/master branch.
+
+Word of caution on `rebase` command: While trying to keep your branches in sync, you may come across `rebase` command.
+It tends to rewrite history and could be troublesome if not communicated with others working on the same branch, therefore try to avoid using `rebase` command, and instead use `pull` or `fetch`+`merge` as discussed in this sectoon.
+You can find more details about Merging vs Rebasing [here](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
 ## Summary of key Git commands specific to GitHub
 
 | Command                       | Use                                                                      |
