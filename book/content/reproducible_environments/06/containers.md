@@ -66,7 +66,7 @@ person can then use the image to generate a container containing a working versi
 
 There are a number of different tools available for creating and working with containers. We will focus on Docker, which
 is widely used, but be aware that others such as Singularity also exist. Singularity is sometimes preferred for use on
-HPC systems as it does not need `sudo` permissions to be run, while Docker does.
+high-performance computing systems as it does not need `sudo` permissions to be run, while Docker does.
 
 In Docker the recipe files used to generate images are known as Dockerfiles, and should be named `Dockerfile`.
 
@@ -180,7 +180,7 @@ six lines of actual code. The first of these is a `FROM` statement specifying a 
 FROM, even if it's just `FROM SCRATCH`. All the following commands in a Dockerfile build upon the base image to make a
 functioning version of the researcher's project. Specifing a version for the image (`18.04` in this case) is optional
 but is best practice as it ensures that our Dockerfile remains valid after new releases of Ubuntu, which may not
-include packages (or specific versions thereof) that we require later (e.g. `python3.7`).
+include packages (or specific versions thereof) that we require later (for example `python3.7`).
 
 It is worth spending time carefully choosing an appropriate base image as doing do can reduce the amount of work
 involved in writing a Dockerfile dramatically. For example a collection of images with the R programming language
