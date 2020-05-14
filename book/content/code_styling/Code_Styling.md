@@ -22,7 +22,7 @@ Not only would you have no memory the code, but you would have never known it in
 This chapter aims to introduce some principals of 'code hygiene', otherwise known as *linting*.
 Linting includes code formatting, naming conventions, and writing useful comments.  
 Some integrated development environments (IDEs) include automatic linting.
-There are also packages in Python that will lint code for you (e.g. [autopep8](https://pypi.org/project/autopep8/).
+There are also packages in Python that will lint code for you (for example, [autopep8](https://pypi.org/project/autopep8/).
 
 By keeping the following advice in mind while coding, your code will be more resuable, adaptable, and clear.
   
