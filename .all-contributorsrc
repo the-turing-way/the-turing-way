@@ -1280,6 +1280,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "PranavMahajan25",
+      "name": "Pranav Mahajan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/33349653?v=4",
+      "profile": "https://pranavmahajan25.github.io/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
