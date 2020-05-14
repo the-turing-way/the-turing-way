@@ -171,13 +171,17 @@ git push origin forked_repository
 
 Now you can make a pull request!
 
-### Good practice
+#### Good practice
 
 Before you create a branch, make sure you have all the upstream changes from the origin/master branch.
 
 Word of caution on `rebase` command: While trying to keep your branches in sync, you may come across `rebase` command.
 It tends to rewrite history and could be troublesome if not communicated with others working on the same branch, therefore try to avoid using `rebase` command, and instead use `pull` or `fetch`+`merge` as discussed in this sectoon.
 You can find more details about Merging vs Rebasing [here](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
+#### Further reading
+- An article on syncing a fork of a repository to keep it up-to-date with the upstream repository can be found [here](https://help.github.com/en/articles/syncing-a-fork).
+- If you wish to do it all in the browser itself, instructions to do so can be found [here](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser).
 
 ## Summary of key Git commands specific to GitHub
 
