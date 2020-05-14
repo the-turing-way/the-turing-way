@@ -1,18 +1,25 @@
 ## The Turing Way Book
+
 *For the main repo (where most of the issues live) please [follow this link](https://github.com/alan-turing-institute/the-turing-way).*
 
 All the text for each chapter lives inside its own folder in the `content/` directory.
-
-Everything else is in the `website/`. Importantly this includes the figures, which are in the `website/assets/figures/` directory.
+All figures associated to the chapters are stored in and linked from the `book/content/figures/` directory.
+Everything else is in the `website/` directory.
 
 ### Configuration
-- To change the table of contents (order of the chapters) see the `website/_data/toc.yml` file. Documentation can be found on the [jupyter book website](https://jupyter.org/jupyter-book/intro.html).
-- Same applies for more general configuration using `website/_config.yml`
+
+- The table of contents (TOC) defines the order of chapters as they appear in the book.
+To change the TOC, please edit the `website/_data/toc.yml` file with correct information on file names and their relative locations in this repository. 
+Documentation on controlling the TOC structure can be found on the [jupyter book website](https://jupyterbook.org/customize/toc.html).
+- Same applies for more general configuration using `website/_config.yml`. 
+Documentation on configuring book settings can be found on the [jupyter book website](https://jupyterbook.org/customize/config.html).
 
 ### Deploying
+
 The site is built automatically using these two directories. All of the requirements are specificied in `website/requirements.txt`.
 
 #### Locally (Mac / Linux Only)
+
 To install jupyter-book etc.
 ```
 cd book/website
@@ -55,6 +62,7 @@ make site && make serve
 ```
 
 #### On Netlify
+
 You'll just need the following settings:
 - Base directory: `website`
 - Build command: `make site`
