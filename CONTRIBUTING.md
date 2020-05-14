@@ -102,7 +102,7 @@ While this formats in the same way as if the new line wasn't included, it makes 
 ## Where to start: issues
 
 Before you open a new issue, please check if any of our [open issues](https://github.com/alan-turing-institute/the-turing-way/issues) covers your idea already.
-If you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/ISSUE_TEMPLATE.md).
+If you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/tree/master/.github/ISSUE_TEMPLATE/) which are further classified into [New Chapter Template](https://github.com/alan-turing-institute/the-turing-way/tree/master/.github/ISSUE_TEMPLATE/CHAPTER_ISSUE_TEMPLATE.md) , [General](https://github.com/alan-turing-institute/the-turing-way/tree/master/.github/ISSUE_TEMPLATE/ISSUE_TEMPLATE.md) and [Bug Report](https://github.com/alan-turing-institute/the-turing-way/tree/master/.github/ISSUE_TEMPLATE/bug_report.md).
 The issue template will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the "_Lorem ipsum_" sections.
 
 ### Issue labels
