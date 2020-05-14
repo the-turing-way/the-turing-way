@@ -26,7 +26,7 @@ The main purpose is that all elements of a project are published together, so a 
 A research compendium combines all elements of your project, allowing others to reproduce your work, and should be the final product of your research project.
 Publishing your research paper along with a research compendia allows others to access your input, test your analysis, and, if the compendium can be executed, rerun to assess the resulting output.
 This does not only instill trust in your research but can give you more visibility.
-Others may use your research in unexpected ways, some of which are discussed below (refer section: [Using a research compendium].
+Others may use your research in unexpected ways, some of which are discussed below (refer section: [Using a research compendium](#using-a-research-compendium).
 
 ## Chapter content
 
