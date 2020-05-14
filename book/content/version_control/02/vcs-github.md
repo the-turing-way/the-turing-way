@@ -94,7 +94,7 @@ If there are any changes made in the original repository afterwards, your copy w
 This can lead to problems like conflicting file contents when making a pull request or merging changes from your branch to the main repository.
 Therefore, when working on different branches or forks of a repository, it's a good practice to keep them updated frequently with the master repository and keep them in sync with the original repository.
 
-#### A workflow to contribute to projects: 
+#### A workflow to contribute to others GitHub projects via `git`: 
 
 Using the fork botton on the GitHub repository you wish to contribute, create a personal copy of the repository in your account.
 The master repository that you forked will be referred as "upstream" repository.
