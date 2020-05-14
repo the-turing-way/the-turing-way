@@ -4,13 +4,13 @@ We all use risk assessments all the time. Sometimes they’re formal procedures 
 ### The risk matrix
 A risk matrix is a very popular way of quantifying what’s going on with the thing you’re interested in. One axis measures exposure in some way, and the other the impact of a mishap. The further from the origin, the more safeguards are needed to make the risk acceptable.
 
-![Impact vs complexity risk matrix](/assets/figures/risk_matrix.png)
+![Impact vs complexity risk matrix](../../figures/risk_matrix.png)
 
 In our case, we will use ‘complexity’ and ‘impact’ as the two axes. Some case studies illustrate how it works…
 
 Case 1
 
-> Richard needs to submit a 100 small jobs to the department cluster, with the names of the jobs varying according to a simple pattern. This is tedious and he wants to go outside and play. Therefore, Richard decides to write a short shell script to submit all the jobs. He pauses for a few seconds and asks:
+> Richard needs to submit 100 small jobs to the department cluster, with the names of the jobs varying according to a simple pattern. This is tedious and he wants to go outside and play. Therefore, Richard decides to write a short shell script to submit all the jobs. He pauses for a few seconds and asks:
 
 > How complicated is this? It’ll only be about 1 screen of text.
 
