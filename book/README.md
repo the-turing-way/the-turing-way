@@ -7,7 +7,9 @@ All figures associated to the chapters are stored in and linked from the `book/c
 Everything else is in the `website/` folder.
 
 ### Configuration
-- To change the table of contents (order of the chapters) see the `website/_data/toc.yml` file. Documentation can be found on the [TOC structure](https://jupyterbook.org/customize/toc.html).
+- The table of contents (TOC) defines the order of the chapters as they appear in the book.
+To change the TOC, please edit the `website/_data/toc.yml` file with correct information on the location of chapters, their corresponding file names and the relative location of the files. 
+Documentation on controlling the TOC structure can be found on the [jupyter book website](https://jupyterbook.org/customize/toc.html).
 - Same applies for more general configuration using `website/_config.yml` whose documentation can be viewed on [Configure book settings](https://jupyterbook.org/customize/config.html)
 
 ### Deploying
