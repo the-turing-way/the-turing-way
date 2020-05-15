@@ -2,7 +2,8 @@
 
 * Name: **Camila Rangel Smith**
 * Pronouns: she/her
-* Contribution Date: 15 May 2020
+* Date: 15 May 2020
+* Current involvement: Translation in Spanish
 
 ### Bio (taken from The Alan Turing Institue)
 
@@ -34,3 +35,8 @@ In this project I’m helping to build a data science module that will be though
 I think The Turing Way is an excellent resource that can change the way science is done (I wish I had it when I started my PhD!). 
 Although the international language of science is English, I know for a fact that not everyone in places like Latin-American have the time and resources to learn it, so I think we must do everything we can to break those barriers and improve the accessibility of knowledge for everyone. 
 This is my motivation to translate the book to Spanish, and I hope that the Spanish version will be used as an important resource on the master course we are developing in  LA-CoNGA physics project.
+
+## Support Camila's efforts in _The Turing Way_
+
+If you are interested in supporting Camila's effort to translate _The Turing Way_ resources into Spanish, do get in touch by joining the conversation in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/767).
+More information about the translation process can be read in [these issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+translation+label%3Atranslation) labeled with 'Translation' tag.
