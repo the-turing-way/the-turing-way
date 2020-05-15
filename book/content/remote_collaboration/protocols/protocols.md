@@ -5,7 +5,6 @@ Protocols in this context refers to a set of rules and guidelines that set a com
 The main idea is to set a clear protocols around expectations on communication tools, etiquettes for online meetings, tasks, timelines and schedule in advance for the remote and distributed collaborative working arrangement in a team or community.
 
 ### Tools for communication and collaboration
-<!---Add details and more points point to other chapters for details--->
 - Tools for online calls and data exchange
 - Equipments recommended or used by organisations
 - Tools for keeping interactions and exchange secure
