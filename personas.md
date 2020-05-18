@@ -24,6 +24,7 @@ If you do not relate to any of the personas described and are struggling to figu
 2. Alex, someone who has a lot of GitHub experience
 3. Amal, someone who knows they want to contribute, and does
 4. Noor, someone who doesn't know they want to contribute, but does
+5. Robin, someone who can only contribute outside of their normal working hours
 
 ### 1. Sam, a PhD student with no GitHub experience
 
@@ -86,40 +87,20 @@ They are confident that their research has taught them some particular considera
 6. **Leadership** - After submitting their PhD, and unsure what they want to do next, Noor volunteers to co-ordinate further research into the chapter by reaching out to experts in the space.
 
 
-## User personas
 
-### Early career researcher
+### 5. Robin, a Data Scientist in industry
+ 
+Robin is a Data Scientist working at the Co-operative Bank in London. 
+They have lots of meetings throughout the workday, so are looking for ways to make their workflow more efficient and sustainable.
+They attend online webinars and watch videos on Youtube in their spare time to learn more about reproducibility and collaboration. 
 
-> Still to write.
+1. **Discovery** - Robin attended the [Women in Data Science webinar hosted by IBM Code Bristol](https://www.bigmarker.com/ibm-developer-uki/Women-in-Data-Science-IBM-Code-Bristol?bmid=2581093331c4), where they heard Malvika Sharan's talk *The Turing Way: A community built on a culture of collaboration*. 
+2. **First Contact** - Robin was so inspired by the talk that they followed the [Turing Way on Twitter](https://twitter.com/turingway) and starred the [GitHub repository](https://github.com/alan-turing-institute/the-turing-way), to come back and learn more when they had time. 
+3. **Participation** - When they find time at the weekend, Robin reads the chapter on Continous Integration in order to pick up some tips and tricks - however they see that there isn't yet information on using GitHub Actions. Robyn would like to know more about this topic, so reads tutorials on how to incorporate them into their workflow and opens a [WIP] pull request to add a subsection to the chapter based on what they learn.
+4. **Sustained Participation** - As their contributions are made outside of working hours, the process of learning, writing the subsection, and iterating on feedback from the Turing Way team moves at a [relatively] slower pace than someone who can contribute during working hours. Robin appreciates the assistance and communication from the team through the pull request conversation.
+5. **Networked Participation** - Robin mentions the Turing Way and what she learned about using GitHub Actions during one of her team's stand-ups, promoting their use to her colleagues.
+6. **Leadership** - Robin gives a lightning talk at a London tech event about GitHub Actions and her contributions to The Turing Way. She praises the inclusiveness of the project, and invites more industry experts to check out the resource and open issues on topics that they are able to contribute to or would like to learn more about.
 
-1. **Discovery** -
-2. **First Contact** -
-3. **Participation** -
-4. **Sustained Participation** -
-5. **Networked Participation** -
-6. **Leadership** -
-
-### Supervisor / PI
-
-> Still to write.
-
-1. **Discovery** -
-2. **First Contact** -
-3. **Participation** -
-4. **Sustained Participation** -
-5. **Networked Participation** -
-6. **Leadership** -
-
-### Funder / publisher / admin
-
-> Still to write.
-
-1. **Discovery** -
-2. **First Contact** -
-3. **Participation** -
-4. **Sustained Participation** -
-5. **Networked Participation** -
-6. **Leadership** -
 
 ---
 
