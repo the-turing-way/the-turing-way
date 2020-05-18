@@ -40,6 +40,7 @@ I'm delighted that I have the opportunity to support our national responsibility
 Read more in [this announcement](https://www.turing.ac.uk/news/dr-kirstie-whitaker-named-institutes-programme-lead-open-source-tools-practices-and-systems).
 
 ![Tweet about Kirstie's new position](images/kw-May2020.png)
+
 *Tweet by [The Turing Institute](https://twitter.com/turinginst/status/1255054249807024128?s=20)*
 
 ## Upcoming workshops and events
@@ -93,7 +94,7 @@ Are you new to _The Turing Way_ and would like to learn more about the project? 
 ### Community Persona: Camila Rangel Smith
 
 Camila is a Research Data Scientist at The Alan Turing Institute.
-She is also a co-founder of the CEVALE2VE project (http://www.cevale2ve.org/en/home/) that has become consolidated into LA-CoNGA physics (http://laconga.redclara.net/), an EU Erasmus+ funded project with a mission to create a Latin American and European Community for Advanced Physics.
+She is also a co-founder of the [CEVALE2VE project](http://www.cevale2ve.org/en/home/) that has become consolidated into LA-[CoNGA physics](http://laconga.redclara.net/), an EU Erasmus+ funded project with a mission to create a Latin American and European Community for Advanced Physics.
 She is translating _The Turing Way_ resources into Spanish in collaboration with her friends and colleagues from Venezuela and Mexico. 
 In her words: *“I think The Turing Way is an excellent resource that can change the way science is done (I wish I had it when I started my PhD). 
 Although the international language of science is English, I know for a fact that not everyone in places like Latin-American has the time and resources to learn it, so I think we must do everything we can to break those barriers and improve the accessibility of knowledge for everyone. 
@@ -104,6 +105,7 @@ This is my motivation to translate the book to Spanish, and I hope that the Span
 This week, the Mental Health Foundation is campaigning around the theme “Kindness” for Mental Health Awareness Week. They share [resources online](https://www.mentalhealth.org.uk/our-work) on practical ways to look after your mental health and promote awareness in your network.
 
 ![Image about the mental health awareness week](images/mhaw-May2020.png)
+
 *From the resources of the Mental Health Foundation*
 
 As a community based on a culture of collaboration, we strive to maintain a foundation of inclusion and kindness in _The Turing Way_ project.
@@ -139,13 +141,13 @@ The citation advantage of linking publications to research data, Colavizza G, Hr
 
 The eLife Innovation Sprint is taking place online from 2 to 3 September 2020. 
 eLife is a non-profit organisation with the mission to accelerate research communication and discovery, and the Innovation Sprint is a collaborative event where developers, designers, technologists, researchers, etc work together to develop technological solutions and prototypes to change the ways scientific research is done and shared. 
-Apply here by June 7: www.elifesci.org/sprint.
+[Apply here by 7 June 2020](www.elifesci.org/sprint).
 
 ### CarpentryCon @ home
 
 [The Carpentries](https://carpentries.org/) is a volunteer-driven organisation that teaches programming and technical teaching skills to their global community of learners and educators.
 They are hosting the “CarpentryCon @ Home” online event series in July and August, and invite you to present talks, lead breakout discussion sessions, share skills through short workshops or host social events in your time zone.
-Find more details in this blog post](https://carpentries.org/blog/2020/05/2020-carpentrycon-at-home-proposals/).
+Find more details in [this blog post](https://carpentries.org/blog/2020/05/2020-carpentrycon-at-home-proposals/).
 
 ## Acknowledgments and celebrations 
 
@@ -155,19 +157,21 @@ We congratulate Rachael Ainsworth for being named a Rising Star in the education
 Rachael is the Research Software Community Manager of The Software Sustainability Institute, who worked with the core team of _The Turing Way_ in 2019 and continues to be one of the key collaborators.
 
 ![Tweet by Rachael about her Risting Stars award](images/ra-May2020.png)
+
 *Tweet by [Rachael Ainsworth](https://twitter.com/rachaelevelyn/status/1259796328135176192?s=20)*
 
 On a more personal note, we are overjoyed to share a personal tweet by Rosie Higman and congratulate her on her wedding that took place in their back garden on 6 May 2020.
 Rosie Higman is a Research Data Manager and a PhD student at Sheffield iSchool & British Library who also worked with the core team of _The Turing Way_ in 2019.
 
 ![Tweet by Rosie about her wedding](images/rh-May2020.png)
+
 *Tweet by [Rosie Higman](https://twitter.com/RosieHLib/status/1257964110165299200?s=20)*
 
 ### Tweets from the community
 
 ![4 Tweets to highlight in May from the community members](images/tweets-May2020.png)
 
-*1. [Kate Simpson’s tweet]() from the Women in Data Science organised by IBM code Bristol, 2. [Neil Chung’s tweet](https://twitter.com/npch/status/1258387097930653702?s=20) from this [Twitter thread on software code quality](https://twitter.com/npch/status/1258381963620204545?s=20), 3. Malvika [subtweeting Rudo Kemper’s tweet](https://twitter.com/MalvikaSharan/status/1260954742093643777?s=20) from the CSV Conference 2020, 4. Natalie Thurlby’s tweet on JGI Bristol’s co-working calls, which was inspired by _The Turing Way_’s Collaboration Café.*
+*1. [Kate Simpson’s tweet](https://twitter.com/Dr_KateSimpson/status/1260269247948902405?s=20) from the Women in Data Science organised by IBM code Bristol, 2. [Neil Chung’s tweet](https://twitter.com/npch/status/1258387097930653702?s=20) from this [Twitter thread on software code quality](https://twitter.com/npch/status/1258381963620204545?s=20), 3. Malvika [subtweeting Rudo Kemper’s tweet](https://twitter.com/MalvikaSharan/status/1260954742093643777?s=20) from the CSV Conference 2020, 4. Natalie Thurlby’s tweet on JGI Bristol’s co-working calls, which was inspired by _The Turing Way_’s Collaboration Café.*
 
 ## Connect with us!
 
