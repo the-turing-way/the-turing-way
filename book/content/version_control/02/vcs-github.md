@@ -148,7 +148,7 @@ Once your fork is in sync with upstream master repository, you can always keep y
 
 ```
 git checkout master
-git pull origin master
+git pull
 ```
 
 The git pull command combines two other commands, git fetch and git merge. 
@@ -158,7 +158,7 @@ Similarly, if you have created more branches other than master, you can also kee
 
 ```
 git checkout my-other-branch
-git pull origin my-other-branch
+git pull origin master
 ```
 
 When everything is  up-to-date, you can work on your branch and commit changes. 
