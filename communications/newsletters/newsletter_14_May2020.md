@@ -3,11 +3,12 @@
 Hello Turing Way friends!
 
 This month as we continue to adjust to the current norm, we wish you good health and hope that you and your loved ones are keeping well. 
-It’s not easy keeping morale up with the current state of the pandemic, therefore, in this newsletter, we highlight the importance of self-care and share online resources by the Mental Health Foundation who are hosting [Mental Health Awareness Week](https://www.awarenessdays.com/awareness-days-calendar/mental-health-awareness-week-2020/) from 18 to 24 May 2020. 🌻
+It’s not easy keeping morale up with the current state of the pandemic, therefore, in this newsletter, we talk about the importance of self-care and highlight the Mental Health Foundation who are hosting [Mental Health Awareness Week](https://www.awarenessdays.com/awareness-days-calendar/mental-health-awareness-week-2020/) from 18 to 24 May 2020. 🌻
 
 We congratulate Kirstie Whitaker, the founder of the Turing Way for starting her new role as the [lead of Tools, Practices and Systems research programme](https://www.turing.ac.uk/news/dr-kirstie-whitaker-named-institutes-programme-lead-open-source-tools-practices-and-systems) at The Alan Turing Institute, London. 🎊
 
-🗓 Join us at our upcoming Collaboration Café this week on 20 May 2020 at 19:00 ([check your local time](https://arewemeetingyet.com/London/2020-05-20/19:00/TuringWay-CollaborationCafe)). More details are available on [this HackMD](https://hackmd.io/@KirstieJane/CollabCafe).
+🗓 Join us at our upcoming Collaboration Café this week on 20 May 2020 at 19:00 ([check your local time](https://arewemeetingyet.com/London/2020-05-20/19:00/TuringWay-CollaborationCafe)). 
+More details are available on [this HackMD](https://hackmd.io/@KirstieJane/CollabCafe).
 
 📢 [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org/blog/call-mentors-join-us-gsod-2020) is participating at the [Google Seasons of Docs](https://developers.google.com/season-of-docs/docs/participants).
 As one of their projects, we invite interested technical writers to connect with us to discuss their project ideas during the exploration phase until 8 June 2020. 
@@ -17,11 +18,14 @@ Stay safe and find more news from the community below 👇
 ## Community meetings
 
 ### Collaboration Café
-Our next Collaboration Café is scheduled tomorrow, 20 May 2020, from 19:00 - 21:00 BST ([check your local time](https://arewemeetingyet.com/London/2020-05-20/19:00/TuringWay-CollaborationCafe)). Join us to get to learn more about the project if you are new to the community or work on something that you would like to add to the project. You can join for as long as your schedule allows. Sign up on [this HackMD
+Our next Collaboration Café is scheduled tomorrow, 20 May 2020, from 19:00 - 21:00 BST ([check your local time](https://arewemeetingyet.com/London/2020-05-20/19:00/TuringWay-CollaborationCafe)). 
+Join us to learn more about our work or discuss something that you would like to add to the project. 
+You can join for as long as your schedule allows. 
+Sign up on [this HackMD
 ](https://hackmd.io/@KirstieJane/CollabCafe) to indicate your participation.
 
 ### Co-working Calls
-If you are looking for more opportunities to connect with the community, get onboarded as a member or co-work on your ideas for the project, participate in the coworking calls hosted by the community manager, Malvika Sharan, during the week. 
+If you are looking for more opportunities to connect with the community, get on-boarded as a new member or co-work on your ideas for the project, participate in the co-working calls hosted by the community manager, Malvika Sharan at 11:00 AM BST everyday. 
 More information can be found on [this HackMD](https://hackmd.io/@malvikasharan/TW-coworking).
 
 ## News from the community
@@ -134,8 +138,7 @@ The citation advantage of linking publications to research data, Colavizza G, Hr
 ### eLife sprint
 
 The eLife Innovation Sprint is taking place online from 2 to 3 September 2020. 
-eLife is a non-profit organisation with the mission to accelerate research communication and discovery, and the Innovation 
-Sprint is a collaborative event where developers, designers, technologists, researchers, etc work together to develop technological solutions and prototypes to change the ways scientific research is done and shared. 
+eLife is a non-profit organisation with the mission to accelerate research communication and discovery, and the Innovation Sprint is a collaborative event where developers, designers, technologists, researchers, etc work together to develop technological solutions and prototypes to change the ways scientific research is done and shared. 
 Apply here by June 7: www.elifesci.org/sprint.
 
 ### CarpentryCon @ home
