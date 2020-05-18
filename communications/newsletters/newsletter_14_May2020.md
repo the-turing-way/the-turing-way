@@ -75,7 +75,7 @@ The Authors have been running a weekly reading group that can be attended online
 
 Malvika Sharan was invited to the Women in Data Science (WiDS) event hosted by IBM Code Bristol to speak about _The Turing Way_ and its collaborative aspects.
 This event involved an all-women lineup of speakers who gave Tech Talks related to their work and participated in a panel discussion.
-You can watch the (recordings online](https://www.bigmarker.com/ibm-developer-uki/Women-in-Data-Science-IBM-Code-Bristol?bmid=2581093331c4).
+You can watch the [recordings online](https://www.bigmarker.com/ibm-developer-uki/Women-in-Data-Science-IBM-Code-Bristol?bmid=2581093331c4).
 This was the first WiDs event at Bristol to coincide with the annual Global WiDS Conference held at Stanford University.
 WiDS initiative aims to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field.
 
