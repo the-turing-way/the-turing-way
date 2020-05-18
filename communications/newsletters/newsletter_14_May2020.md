@@ -21,8 +21,7 @@ Stay safe and find more news from the community below 👇
 Our next Collaboration Café is scheduled tomorrow, 20 May 2020, from 19:00 - 21:00 BST ([check your local time](https://arewemeetingyet.com/London/2020-05-20/19:00/TuringWay-CollaborationCafe)). 
 Join us to learn more about our work or discuss something that you would like to add to the project. 
 You can join for as long as your schedule allows. 
-Sign up on [this HackMD
-](https://hackmd.io/@KirstieJane/CollabCafe) to indicate your participation.
+Sign up on [this HackMD](https://hackmd.io/@KirstieJane/CollabCafe) to indicate your participation.
 
 ### Co-working Calls
 If you are looking for more opportunities to connect with the community, get on-boarded as a new member or co-work on your ideas for the project, participate in the co-working calls hosted by the community manager, Malvika Sharan at 11:00 AM BST everyday. 
@@ -65,14 +64,14 @@ Please find details on [this issue](https://github.com/alan-turing-institute/the
 
 ### Data Feminism Book and “Challenging Power in Data Science” seminar 
 
-[Data Feminism](https://mitpress.mit.edu/books/data-feminism) is a recent book by Catherine D'Ignazio and Lauren F. Klein that discussed data feminism as a way of thinking about data science and its communication informed by decades of intersectional feminist activism and critical thought. 
+[Data Feminism](https://mitpress.mit.edu/books/data-feminism) is a recent book by Catherine D'Ignazio and Lauren F. Klein that explains the concept of data feminism as a way of thinking about data science and its communication informed by decades of intersectional feminist activism and critical thought. 
 They will be giving a talk hosted by The Alan Turing Institute to discuss how challenges to the male/female binary can challenge other hierarchical classification systems; how an understanding of emotion can expand our ideas about effective data visualization; and how the concept of “invisible labor” can expose the significant human efforts required by our automated systems. 
 You can read more about the event and register for free online using [this Eventbrite link](https://www.eventbrite.co.uk/e/challenging-power-in-data-science-tickets-105238272506?aff=erelexpmlt).
 The Authors have been running a weekly reading group that can be attended online ([see details](http://datafeminism.io/blog/book/data-feminism-reading-group/)).
 
 ## Past workshops and events
 
-### Women in Science IBM Code Bristol
+### Women in Science - IBM Code Bristol
 
 Malvika Sharan was invited to the Women in Data Science (WiDS) event hosted by IBM Code Bristol to speak about _The Turing Way_ and its collaborative aspects.
 This event involved an all-women lineup of speakers who gave Tech Talks related to their work and participated in a panel discussion.
@@ -94,35 +93,38 @@ Are you new to _The Turing Way_ and would like to learn more about the project? 
 ### Community Persona: Camila Rangel Smith
 
 Camila is a Research Data Scientist at The Alan Turing Institute.
-She is also a co-founder of the [CEVALE2VE project](http://www.cevale2ve.org/en/home/) that has become consolidated into LA-[CoNGA physics](http://laconga.redclara.net/), an EU Erasmus+ funded project with a mission to create a Latin American and European Community for Advanced Physics.
+She is also a co-founder of the [CEVALE2VE project](http://www.cevale2ve.org/en/home/) that has become consolidated into [LA-CoNGA physics](http://laconga.redclara.net/), an EU Erasmus+ funded project with a mission to create a Latin American and European Community for Advanced Physics.
 She is translating _The Turing Way_ resources into Spanish in collaboration with her friends and colleagues from Venezuela and Mexico. 
 In her words: *“I think The Turing Way is an excellent resource that can change the way science is done (I wish I had it when I started my PhD). 
 Although the international language of science is English, I know for a fact that not everyone in places like Latin-American has the time and resources to learn it, so I think we must do everything we can to break those barriers and improve the accessibility of knowledge for everyone. 
-This is my motivation to translate the book to Spanish, and I hope that the Spanish version will be used as an important resource on the master course we are developing in LA-CoNGA physics project.”*
+This is my motivation to translate the book to Spanish." She hopes that the Spanish version will be used as an important resource widely and invites the Spanish speaking members to support their efforts.
+
+*We are currently collecting community personas of our contributing members through [this issue](https://github.com/alan-turing-institute/the-turing-way/pull/1106).*
 
 ## Mental Health Awareness Week
 
-This week, the Mental Health Foundation is campaigning around the theme “Kindness” for Mental Health Awareness Week. They share [resources online](https://www.mentalhealth.org.uk/our-work) on practical ways to look after your mental health and promote awareness in your network.
+This week, Mental Health Foundation is campaigning around the theme “Kindness” for Mental Health Awareness Week. 
+They have shared [online resources](https://www.mentalhealth.org.uk/our-work) on practical ways to look after your mental health and promote awareness in your network.
 
 ![Image about the mental health awareness week](images/mhaw-May2020.png)
 
-*From the resources of the Mental Health Foundation*
+*Illustration taken from the resources of the Mental Health Foundation*
 
-As a community based on a culture of collaboration, we strive to maintain a foundation of inclusion and kindness in _The Turing Way_ project.
-If you are new to the community, come and say hello on [our Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way), explore our resources on [GitHub](https://github.com/alan-turing-institute/the-turing-way/) and learn the pathways to get involved in our [contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).
-
-### Staying connected with others
-
-To avoid feeling disconnected while you work from home, you can join others for online coffee breaks or co-working calls. 
-These short informal calls can help you stay connected with others in your network, create opportunities to exchange ideas, keep each other motivated and show kindness. 
-Kirstie has shared her thoughts and ideas on running effective virtual coffee calls on [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/965).
+_The Turing Way_ is a community of collaboration that built upon a strong foundation of inclusion and kindness.
+If you are new to the community, come and say hello on [our Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way), explore our resources on [GitHub](https://github.com/alan-turing-institute/the-turing-way/) and get involved by using our [contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).
 
 ### Self-care when volunteering
 
-Our community members volunteer their time and effort to develop resources that others can learn from. 
-Several of our members have been a part of this community from the beginning of the projects, and several of you might have joined just a few weeks or months ago but have taken significant roles of developers and maintainers of our resources. 
-We acknowledge that during this unprecedented time, you may experience increased responsibility at work or home, and in those moments It is ok to unplug.
-We, in fact, encourage you to take time for yourself and when you have regained the time and energy we will be happy to welcome you back.
+Our community members volunteer their time and effort to develop resources that others can benefit from. 
+Several of our members have been an important part of this community from the beginning of the projects and several of you might have joined only a few months ago but have taken significant roles of developers and maintainers of our resources. 
+We acknowledge that during this unprecedented time, you may experience increased responsibility at work or home, and in those moments it is OK to unplug.
+We, in fact, encourage you to take a break and return to your volunteer work in your own time.
+
+### Staying connected with others
+
+To avoid feeling disconnected while you work from home, you can join others over online coffee breaks or co-working calls. 
+These are short informal calls that can help you stay connected with others in your workplace and social network, create opportunities to exchange ideas, stay motivated and show kindness towards each other. 
+Kirstie has shared her thoughts and ideas on running effective virtual coffee calls on [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/965).
 
 ### Share your tips on self-care
 
