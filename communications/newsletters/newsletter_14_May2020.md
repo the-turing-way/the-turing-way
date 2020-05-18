@@ -53,7 +53,7 @@ At the end of the workshop, you will be able to take some of your own content (i
 More information is available on the [registration page online](https://www.eventbrite.co.uk/e/workshop-boost-research-reproducibility-with-binder-registration-105228216428).
 If you have previous experience with Binder and would like to join as a helper, please reach out to us by emailing theturingway@gmail.com.
 
-## Google Seasons of Docs
+### Google Seasons of Docs
 
 INCF is taking part in this year's [Google Seasons of Docs](https://developers.google.com/season-of-docs/docs/participants) as an open source organisation and _The Turing Way_ is listed as one of its projects.
 During its exploration phase from May 11 to June 8, we invite the professional technical writers to connect with us and discuss the project ideas that can allow them to bring in their perspectives and unique skill set.
@@ -122,9 +122,9 @@ Several of our members have been a part of this community from the beginning of 
 We acknowledge that during this unprecedented time, you may experience increased responsibility at work or home, and in those moments It is ok to unplug.
 We, in fact, encourage you to take time for yourself and when you have regained the time and energy we will be happy to welcome you back.
 
-### Share your tips on ensuring the well-being
+### Share your tips on self-care
 
-We would love to hear your tips and recommendations for ensuring the well being of your team members that you can add as a comment on [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/965).
+We would love to hear your tips and recommendations on self-care and ensuring the well being of your team members that you can add as a comment on [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/965).
 These recommendations will be added to the chapter on remote collaboration ([see details](https://github.com/alan-turing-institute/the-turing-way/pull/962)].
 
 Have ideas for other ways to improve accessibility in our community? Reach out to us by emailing theturingway@gmail.com.
