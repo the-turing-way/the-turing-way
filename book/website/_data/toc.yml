@@ -28,35 +28,135 @@
 
 # ===== NEW SECTION ========================================
 - title: Introduction
-  url: introduction/introduction
+  url: /introduction/introduction
 - title: Reproducibility
-  url: reproducibility/reproducibility
+  url: /reproducibility/reproducibility
   sections:
   - title: Why reproducibility is important
-    url: reproducibility/01/importantforscience
+    url: /reproducibility/01/importantforscience
   - title: Why you should care
-    url: reproducibility/02/whycare
+    url: /reproducibility/02/whycare
   - title: Definitions
-    url: reproducibility/03/definitions
+    url: /reproducibility/03/definitions
   - title: Resources
-    url: reproducibility/04/resources
+    url: /reproducibility/04/resources
 - title: Open Research
-  url: open_research/open_research
+  url: /open_research/open_research
+  sections:
+  - title: Open data
+    url: /open_research/01/opendata
+  - title: Open source software
+    url: /open_research/02/opensourcesoftware
+  - title: Open hardware
+    url: /open_research/03/openhardware
+  - title: Open access
+    url: /open_research/04/openaccess
+  - title: Open notebooks
+    url: /open_research/05/opennotebooks
+  - title: Open scholarship
+    url: /open_research/06/openscholarship
+  - title: Resources
+    url: /open_research/07/resources
 - title: Version Control
-  url: version_control/version_control
+  url: /version_control/version_control
+- title: Licensing
+  url: /licensing/licensing
+  sections:
+  - title: Software licenses
+    url: /licensing/01/softwarelicenses
+  - title: Data licenses
+    url: /licensing/02/datalicenses
 - title: Collaborating on GitHub/GitLab
-  url: collaborating_github/collaborating_github
+  url: /collaborating_github/collaborating_github
+  sections:
+  - title: README and Project Communication
+    url: /collaborating_github/1/readme_communication
+  - title: Roadmapping
+    url: /collaborating_github/2/roadmapping
+  - title: Getting Contributors
+    url: /collaborating_github/3/getting_contributors
+  - title: Checklist and Bibliography
+    url: /collaborating_github/4/checklist_bibliography
+- title: Community Communications for Open Source Projects
+  url: /open-source-comms/intro
+  sections:
+  - title: Issue Tracking
+    url: /open-source-comms/issue-tracking
+  - title: Communication Channels
+    url: /open-source-comms/comms-channels
+  - title: Further Reading
+    url: /open-source-comms/further-reading
+- title: Credit for reproducible research
+  url: /credit/credit
 - title: Research Data Management
-  url: rdm/rdm
+  url: /rdm/rdm
+  sections:
+  - title: The FAIR principles and practices
+    url: /rdm/fairprinciples
+  - title: Storage and backup
+    url: /rdm/storagebackup
+  - title: Data organisation in spreadsheets
+    url: /rdm/spreadsheets
+  - title: Documentation and metadata
+    url: /rdm/docmetadata
+  - title: Sharing and archiving data
+    url: /rdm/sharingarchiving
+  - title: Personal Stories
+    url: /rdm/personalstories
+  - title: Resources
+    url: /rdm/resources
 - title: Reproducible Environments
-  url: reproducible_environments/reproducible_environments
+  url: /reproducible_environments/reproducible_environments
+  sections:
+  - title: Choosing a tool
+    url: /reproducible_environments/01/options
+  - title: Conda
+    url: /reproducible_environments/02/package-management
+  - title: YAML
+    url: /reproducible_environments/03/yaml
+  - title: Binder
+    url: /reproducible_environments/04/binder
+  - title: Virtual machines
+    url: /reproducible_environments/05/virtual-machines
+  - title: Containers
+    url: /reproducible_environments/06/containers
+  - title: Checklist
+    url: /reproducible_environments/07/checklist
+  - title: Resources
+    url: /reproducible_environments/08/resources
+- title: Code quality
+  url: /code_quality/code_quality
 - title: Testing
-  url: testing/testing
+  url: /testing/testing
 - title: Reviewing
-  url: reviewing/reviewing
-- title: Continous Integration
-  url: continuous_integration/continuous_integration
+  url: /reviewing/reviewing
+  sections:
+  - title: How this will help you and why this is useful
+    url: /reviewing/01/how_helpful
+  - title: Best Practice
+    url: /reviewing/02/best_practice
+  - title: Typical Workflows
+    url: /reviewing/03/typical_workflows
+  - title: Checklists, what to learn next and bibliography
+    url: /reviewing/04/checklists_bib
+- title: Continuous Integration
+  url: /continuous_integration/continuous_integration
 - title: Reproducible Research with Make
-  url: make/make
+  url: /make/make
+- title: Research Compendia
+  url: /research_compendia/research_compendia
 - title: Risk Assessment
-  url: risk_assessment/risk_assessment
+  url: /risk_assessment/risk_assessment
+  sections:
+  - title: Long Read on Risk Assessment
+    url: /risk_assessment/01/longreadriskassessment
+  - title: Summary
+    url: /risk_assessment/02/finalsummary
+- title: BinderHub
+  url: /binderhub/binderhub
+- title: "Personal Experience: Diving into Leadership"
+  url: /diving_into_leadership/diving_into_leadership
+- title: Glossary
+  url: /glossary/glossary
+- title: Five book preview
+  url: /5-book-preview/5-book-preview

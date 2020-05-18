@@ -33,6 +33,7 @@ If you contributed to the Turing Way and your name is not listed, please add it.
 - Becky Arnold 💬💻📖👀
 - Lorena A. Barba 🤔 
 - Louise Bowler 💬💻📖💡📋👀
+- Jez Cope 📖
 - Sarah Gibson 💬💻📖🔧👀📢
 - Tim Head 💬🤔
 - Patricia Herterich 💬📖👀

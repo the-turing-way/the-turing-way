@@ -1,8 +1,8 @@
 # Testing
 
-| Prerequisite | Importance | Notes |
-| -------------|------------|-------|
-| Experience with the command line | Necessary | A tutorial on working via the command line can be found [here](https://programminghistorian.org/en/lessons/intro-to-bash) |
+| Prerequisite | Importance |
+| -------------|------------|
+| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary |
 
 ## Table of contents
 
@@ -59,9 +59,9 @@ Researcher-written code now forms a part of a huge portion of research, and if t
 
 Here's a couple of examples of why should write tests:
 
-![testing_motivation_1](/assets/figures/testing_motivation_1.png)
+![testing_motivation_1](../figures/testing_motivation_1.png)
 
-![testing_motivation_2](/assets/figures/testing_motivation_2.png)
+![testing_motivation_2](../figures/testing_motivation_2.png)
 
 It is very, very easy to make mistakes when coding. A single misplaced character can cause a program's output to be entirely wrong. One of the examples above was caused by a plus sign which should have been a minus. Another was caused by one piece of code working in meters while a piece of code written by another researcher worked in feet. *Everyone* makes mistakes, and in research the results can be catastrophic. Careers can be damaged/ended, vast sums of research funds can be wasted, and valuable time may be lost to exploring incorrect avenues. This is why tests are vital.
 
@@ -71,7 +71,7 @@ As researchers write code they generally do some tests as they go along, often b
 
 Testing also affords researchers much more peace of mind when working on/improving a project. After changing their code a researcher will want to check that their changes or fixes have not broken anything. Providing researchers with a fail-fast environment allows the rapid identification of failures introduced by changes to the code. The alternative, of the researcher writing and running whatever small tests they have time for is far inferior to a good testing suite which can thoroughly check the code.
 
-Another benefit of writing tests is that it typically forces a researcher to write cleaner, more modular code as such code is far easier to write tests for, leading to an improvement in code quality. Good quality code is far easier (and altogether more pleasant) to work with than tangled rat's nests of code I'm sure we've all come across (and, let's be honest, written). This point is expanded upon in the section on [unit tests](#Unit_tests).
+Another benefit of writing tests is that it typically forces a researcher to write cleaner, more modular code as such code is far easier to write tests for, leading to an improvement in code quality. [Good quality code](../code_quality/code_quality) is far easier (and altogether more pleasant) to work with than tangled rat's nests of code I'm sure we've all come across (and, let's be honest, written). This point is expanded upon in the section on [unit tests](#Unit_tests).
 
 <a name="The_advantages_of_testing_for_research"></a>
 ### The advantages of testing for research
@@ -113,7 +113,7 @@ Some tests, like [unit tests](#Unit_tests) only test a small piece of code and s
 
 It is important to provide documentation that describes how to run the tests, both for yourself in case you come back to a project in the future, and for anyone else that may wish to build upon or reproduce your work. This documentation should also cover subjects such as
 
-- Any resources e.g. test dataset files that are required
+- Any resources, such as test dataset files that are required
 - Any configuration/settings adjustments needed to run the tests
 - What software (such as [testing frameworks](#Use_a_testing_framework)) need to be installed
 
@@ -130,7 +130,7 @@ Make the cases you test as realistic as possible. If for example, you have dummy
 There are tools available to make writing and running tests easier, these are known as testing frameworks. Find one you like, learn about the features it offers, and make use of them. Common testing frameworks (and the languages they apply to) include:
 
 - Language agnostic
-  - CTest, test runner for executables, bash scripts, etc, great for legacy code hardening
+  - CTest, test runner for executables, bash scripts, and more. Great for legacy code hardening
 - C++
   - Catch
   - CppTest
@@ -144,7 +144,8 @@ There are tools available to make writing and running tests easier, these are kn
   - pytest (recommended)
   - unittest comes with standard Python library
 - R unit-tests
-  - RUnit
+  - testthat
+  - tinytest
   - svUnit (works with SciViews GUI)
 - Fortran unit-tests:
   - funit
@@ -166,7 +167,7 @@ Most programming languages have tools either built into them, or that can be imp
 
 If a test fails it should be constructed such that is as easy to trace the source of the failure as possible. This becomes problematic if a piece of code you want to test unavoidably depends on other things. For example if a test for a piece of code that interacts with the web fails that could be because the code has a bug *or* there is a problem with the internet connection. Similarly if a test for a piece of code that uses an object fails it could be because there is a bug in the code being tested, or a problem with the object (which should be tested by its own, separate tests). These dependencies should be eliminated from tests, if possible. This can be done via using test replacements (test doubles) in the place of the real dependencies. Test doubles can be classified as follows:
 
-- A dummy object is passed around but never used i.e. its methods are never called. Such an object can for example be used to fill the parameter list of a method.
+- A dummy object is passed around but never used, meaning its methods are never called. Such an object can for example be used to fill the parameter list of a method.
 - Fake objects have working implementations, but are usually simplified. For example, they use an in memory database and not a real database.
 - A stub is an partial implementation for an interface or class with the purpose of using an instance of this stub during testing. Stubs usually don’t respond to anything outside what’s programmed in for the test. Stubs may also record information about calls.
 - A mock object is a dummy implementation for an interface or a class in which you define the output of certain method calls. Mock objects are configured to perform a certain behaviour during a test. They typically record the interaction with the system and tests can validate that.
@@ -247,19 +248,19 @@ Both of these approaches to testing stochastic code can still be very useful, bu
 
 Sometimes (particularly in research) the outputs of code are tested according to whether they "look" right. For example say we have a code modelling the water levels in a reservoir over time. The result may look like this:
 
-![eyeball_test_1](/assets/figures/eyeball_test_1.jpg)
+![eyeball_test_1](../figures/eyeball_test_1.jpg)
 
 On a day with rain it might look like this:
 
-![eyeball_test_2](/assets/figures/eyeball_test_2.jpg)
+![eyeball_test_2](../figures/eyeball_test_2.jpg)
 
 and on a dry day it might look like this:
 
-![eyeball_test_3](/assets/figures/eyeball_test_3.jpg)
+![eyeball_test_3](../figures/eyeball_test_3.jpg)
 
 All of these outputs look very different but are valid. However, if a researcher sees a result like this:
 
-![eyeball_test_error](/assets/figures/eyeball_test_error.jpg)
+![eyeball_test_error](../figures/eyeball_test_error.jpg)
 
 they could easily conclude there is a bug as a lake is unlikely to triple it's volume and then lose it again in the space of a few hours. "Eyeballing" tests like these are time consuming as they must be done by a human. However the process can be partially or fully automated by creating basic "sanity checks". For example the water level at one time should be within, say, 10% of the water level at the previous time step. Another check could be that there are no negative values, as a lake can't be -30% full. These sort of tests can't cover every way something can be visibly wrong, but they are much easier to automate and will suffice for most cases.
 
@@ -359,7 +360,7 @@ The idea behind this type of test is to help to catch big red flags in an implem
 <a name="Unit_tests"></a>
 ## Unit tests
 
-Unit tests are responsible for testing individual elements of code in an isolated and highly targeted way. The functionality of individual functions and classes are tested on their own. The purpose is to validate that each unit of the software performs as designed. A unit is the smallest testable part of any software. In procedural programming, a unit may be an individual program, function, procedure, etc. In object-oriented programming the smallest unit is typically a method. It usually has one or a few inputs and usually a single output. Any external dependencies should be replaced with [stub or mock implementations](#Use_test_doubles_stubs_mocking_where_appropriate) to focus the test completely on the code in question.
+Unit tests are responsible for testing individual elements of code in an isolated and highly targeted way. The functionality of individual functions and classes are tested on their own. The purpose is to validate that each unit of the software performs as designed. A unit is the smallest testable part of any software. In procedural programming, a unit may be an individual program, function or procedure. In object-oriented programming the smallest unit is typically a method. It usually has one or a few inputs and usually a single output. Any external dependencies should be replaced with [stub or mock implementations](#Use_test_doubles_stubs_mocking_where_appropriate) to focus the test completely on the code in question.
 
 Unit tests are essential to test the correctness of individual code components for internal consistency and correctness before they are placed in more complex contexts. The limited extent of the tests and the removal of dependencies makes it easier to hunt down the cause of any defects. It also is the best time to test a variety of inputs and code branches that might be difficult to hit later on. For example system tests are often time consuming to run and it will likely be impractical to have system tests for every possible path through a code that has more than a few conditional statements. Unit tests are smaller, faster, and so it is more practical to cover all possible cases with them.
 
@@ -474,7 +475,7 @@ An example of an integration test for this case could be to supply a test data f
 
 Integration testing is particularly important in collaborative projects where different people work on different parts of the code. If two different people complete separate units and then need to integrate then integration issues are more likely as neither may understand the other's code. A famous example of this is a multi-million dollar satellite which [crashed](https://en.wikipedia.org/wiki/Mars_Climate_Orbiter) because one piece of code outputted distance data in feet, while another assumed data in meters. This is another example of an integration issue.
 
-A sub type of integration testing is system integration testing. This tests the integration of systems, packages and any interfaces to external organizations (e.g. Electronic Data Interchange, Internet). Depending on the nature of a project system integration testing may or may not be applicable.
+A sub type of integration testing is system integration testing. This tests the integration of systems, packages and any interfaces to external organizations (such as Electronic Data Interchange, Internet). Depending on the nature of a project system integration testing may or may not be applicable.
 
 <a name="Approaches"></a>
 ### Approaches
@@ -504,7 +505,7 @@ Top Down is an approach to integration testing where top-level sections of the c
     - C.2.1
     - C.2.2
 
-So in the top down approach the integration between sections at the top level (A, B and C) are tested, then integration between sections at the next level (e.g. A.1 -> A.2) and so on. Testing upper level units by running all the code they contain including running lower level ones can lead to upper level tests breaking due to bugs in low level units. This is undesirable, so to prevent this the lower level sections should not be run, but [test stubs](#Use_test_doubles_stubs_mocking_where_appropriate) should be used to simulate the outputs from them.
+So in the top down approach the integration between sections at the top level (A, B and C) are tested, then integration between sections at the next level (for example, A.1 -> A.2) and so on. Testing upper level units by running all the code they contain including running lower level ones can lead to upper level tests breaking due to bugs in low level units. This is undesirable, so to prevent this the lower level sections should not be run, but [test stubs](#Use_test_doubles_stubs_mocking_where_appropriate) should be used to simulate the outputs from them.
 
 Bottom Up is an approach to integration testing where integration between bottom level sections are tested first and upper-level sections step by step after that. Again test stubs should be used, in this case to simulate inputs from higher level sections.
 
@@ -529,7 +530,7 @@ System testing can also test features of the system other than correctness. Exam
 
 - Performance testing: does the program performance meet the minimum requirements? A performance test may measure how long the system takes to run in a given case.
 - Migration testing: does the program work when transferred to another computational environment?
-- Stress/scale/load testing: testing how the program behaves when under stress, e.g. when required to process very large volumes of data.
+- Stress/scale/load testing: testing how the program behaves when under stress, for example, when required to process very large volumes of data.
 - Usability testing: how user-friendly is the program (more common in commercial software, tests typically conducted by humans rather than automated).
 - Recovery testing: Can the program continue if errors occur (again, more common in commercial software).
 
@@ -541,7 +542,7 @@ System tests, also called end-to-end tests, run the program, well, from end to e
 Because of their time-consuming nature it will also often be impractical to have enough system tests to trace every possible route through a program, especially is there are a significant number of conditional statements. Therefore you should consider the system test cases you run carefully and prioritise:
 
 - The most common routes through a program.
-- The most important routes for a program, e.g. the LIGO detector aims to find gravitational wave events, which are extremely rare. If there's a bug in that path through the program which monitors the detector then it's a *huge* problem.
+- The most important routes for a program. For example, the LIGO detector aims to find gravitational wave events, which are extremely rare. If there's a bug in that path through the program which monitors the detector then it's a *huge* problem.
 - Cases that are prone to breakage due to structural problems within the program. Though ideally it's better to just fix those problems, but cases exist where this may not be feasible.
 
 Because system tests can be time consuming it may be impractical to run them very regularly (such as multiple times a day after small changes in the code). Therefore it can be a good idea to run them each night (and to automate this process) so that if errors are introduced that only system testing can detect the programmer will be made of them relatively quickly.
@@ -578,7 +579,7 @@ Regression tests are not guaranteed to test all parts of the code. Most importan
 <a name="Runtime_testing"></a>
 ## Runtime testing
 
-Runtime tests are tests that run as part of the program itself. They may take the form of checks within the code, e.g.:
+Runtime tests are tests that run as part of the program itself. They may take the form of checks within the code, as shown below:
 ```
 population = population + people_born - people_died
 
@@ -587,7 +588,7 @@ if (population < 0):
   error( 'The number of people can never be negative' )
 ```
 
-Another example of a use of runtime tests is internal checks within functions that verify that their inputs and outputs are valid, e.g.:
+Another example of a use of runtime tests is internal checks within functions that verify that their inputs and outputs are valid, as shown below:
 ```
 function add_arrays( array1, array2 ):
 

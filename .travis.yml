@@ -1,4 +1,20 @@
-language: minimal
-script: 
-    - bash ./scripts/test-file-size.sh
-    
+# refer to https://docs.travis-ci.com/user/languages/minimal-and-generic/#generic
+# for the rationale behind choosing the generic lang
+language: generic
+dist: xenial # ubuntu 16.04
+cache: bundler
+env:
+  global:
+    - PATH=/opt/python/3.7.1/bin:$PATH
+before_install: # get a reasonably new version of python3 and pip
+  - sudo apt-get install python3-pip
+  - sudo -H pip3 install --upgrade pip
+  - sudo apt-get install python3-setuptools
+install:
+  - pip3 install --user -r ./book/website/requirements.txt # install things for the book
+  - pip3 install --user -U attrs pytest # the installed versions in Travis are too old!
+script:
+  # Below here, "scripts" directory refers to the one in book/website:
+  - cd ./book/website
+  - make install # install jekyll etc. for building website
+  - bash ./scripts/html-proof.sh # check dead links etc.

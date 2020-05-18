@@ -1,11 +1,11 @@
 # Resources for reproducibility chapter
 
-## Checklist/Exercise
-- [ ] define reproducibility for yourself
+## Checklist / Exercise
+- [ ] Define reproducibility for yourself.
 
 ## What to learn next?
-Open Science will be a good chapter to read next.
-If you want to start learning hands-on practices, we recommend learning about version control next.
+Open Research would be a good chapter to read next.
+If you want to start learning hands-on practices, we recommend reading the Version Control chapter next.
 
 ## Bibliography
 
@@ -36,4 +36,7 @@ If you want to start learning hands-on practices, we recommend learning about ve
 * Barba, L. (2017): Barba-group Reproducibility Syllabus. figshare. Paper. https://doi.org/10.6084/m9.figshare.4879928.v1
 
 ### Other useful links
+
 * Markowetz, F. (2018). 5 selfish reasons to work reproducibly. Slides available at https://osf.io/a8wq4/
+
+* Leipzig, J (2020). Awesome Reproducible Research: A curated list of reproducible research case studies, projects, tutorials, and media. Github repo. https://github.com/leipzig/awesome-reproducible-research
