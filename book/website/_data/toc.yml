@@ -129,16 +129,16 @@
 - title: Testing
   url: /testing/testing
   sections:
-  -title: General guidance and good practice for testing
+  - title: General guidance and good practice for testing
     url: /testing/01/testing-guidance
-  -title: Types of Tests
+  - title: Types of Tests
     url: /testing/02/testing-types
-  -title: Testing challenging or Exceptional cases
+  - title: Testing challenging or Exceptional cases
     url: /testing/03/testing-exception
-  -title: Checklist
+  - title: Checklist
     url: /testing/04/testing-checklist
-  -title: Resources
-    url: testing/05/testing-resources
+  - title: Resources
+    url: /testing/05/testing-resources
 - title: Reviewing
   url: /reviewing/reviewing
   sections:
