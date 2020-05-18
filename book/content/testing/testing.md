@@ -9,7 +9,7 @@
 1. [Summary](#Summary)
 2. [How this will help you/ why this is useful](#How_this_will_help_you_why_this_is_useful)
     1. [The advantages of testing for research](#The_advantages_of_testing_for_research)
-3. [General guidance and good practice for testing](/testing/01/testing-guidance#General_guidance_and_good_practice_for_testing)</summary>
+3. [General guidance and good practice for testing](/testing/01/testing-guidance#General_guidance_and_good_practice_for_testing)
     1. [Write tests. Any tests.](/testing/01/testing-guidance#Write_tests_any_tests)
     2. [Run the tests](#Run_the_tests)
     3. [Consider how long it takes your tests to run](#Consider_how_long_it_takes_your_tests_to_run)
