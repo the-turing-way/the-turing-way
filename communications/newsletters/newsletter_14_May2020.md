@@ -35,7 +35,7 @@ In her own words:
 I'm delighted that I have the opportunity to support our national responsibility to maintain the open source tools, practices and systems that underpin and enable the ethical and responsible use of data to solve the biggest challenges around the world."* 
 Read more in [this announcement](https://www.turing.ac.uk/news/dr-kirstie-whitaker-named-institutes-programme-lead-open-source-tools-practices-and-systems).
 
-![Tweet about Kirstie's new position](figures/kw-May2020.png)
+![Tweet about Kirstie's new position](images/kw-May2020.png)
 *Tweet by [The Turing Institute](https://twitter.com/turinginst/status/1255054249807024128?s=20)*
 
 ## Upcoming workshops and events
@@ -99,7 +99,7 @@ This is my motivation to translate the book to Spanish, and I hope that the Span
 
 This week, the Mental Health Foundation is campaigning around the theme “Kindness” for Mental Health Awareness Week. They share [resources online](https://www.mentalhealth.org.uk/our-work) on practical ways to look after your mental health and promote awareness in your network.
 
-![Image about the mental health awareness week](figures/mhaw-May2020.png)
+![Image about the mental health awareness week](images/mhaw-May2020.png)
 *From the resources of the Mental Health Foundation*
 
 As a community based on a culture of collaboration, we strive to maintain a foundation of inclusion and kindness in _The Turing Way_ project.
@@ -151,17 +151,18 @@ Find more details in this blog post](https://carpentries.org/blog/2020/05/2020-c
 We congratulate Rachael Ainsworth for being named a Rising Star in the education and academia category of the [2020 Rising Star awards](https://risingstars.wearethecity.com/rachael-ainsworth-university-of-manchester/). 
 Rachael is the Research Software Community Manager of The Software Sustainability Institute, who worked with the core team of _The Turing Way_ in 2019 and continues to be one of the key collaborators.
 
-![Tweet by Rachael about her Risting Stars award](figures/ra-May2020.png)
+![Tweet by Rachael about her Risting Stars award](images/ra-May2020.png)
 *Tweet by [Rachael Ainsworth](https://twitter.com/rachaelevelyn/status/1259796328135176192?s=20)*
 
-On a more personal note, we are overjoyed to share a personal tweet by Rosie Higman and congratulate her on her wedding that took place in their back garden on 6 May 2020. ❤️️Rosie Higman is a Research Data Manager and a PhD student at Sheffield iSchool & British Library who also worked with the core team of _The Turing Way_ in 2019.
+On a more personal note, we are overjoyed to share a personal tweet by Rosie Higman and congratulate her on her wedding that took place in their back garden on 6 May 2020.
+Rosie Higman is a Research Data Manager and a PhD student at Sheffield iSchool & British Library who also worked with the core team of _The Turing Way_ in 2019.
 
-![Tweet by Rosie about her wedding](figures/rh-May2020.png)
+![Tweet by Rosie about her wedding](images/rh-May2020.png)
 *Tweet by [Rosie Higman](https://twitter.com/RosieHLib/status/1257964110165299200?s=20)*
 
 ### Tweets from the community
 
-![4 Tweets to highlight in May from the community members](figures/tweets-May2020.png)
+![4 Tweets to highlight in May from the community members](images/tweets-May2020.png)
 
 *1. [Kate Simpson’s tweet]() from the Women in Data Science organised by IBM code Bristol, 2. [Neil Chung’s tweet](https://twitter.com/npch/status/1258387097930653702?s=20) from this [Twitter thread on software code quality](https://twitter.com/npch/status/1258381963620204545?s=20), 3. Malvika [subtweeting Rudo Kemper’s tweet](https://twitter.com/MalvikaSharan/status/1260954742093643777?s=20) from the CSV Conference 2020, 4. Natalie Thurlby’s tweet on JGI Bristol’s co-working calls, which was inspired by _The Turing Way_’s Collaboration Café.*
 
