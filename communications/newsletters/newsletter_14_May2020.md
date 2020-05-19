@@ -55,7 +55,7 @@ If you have previous experience with Binder and would like to join as a helper, 
 
 ### Google Seasons of Docs
 
-INCF is taking part in this year's [Google Seasons of Docs](https://developers.google.com/season-of-docs/docs/participants) as an open source organisation and _The Turing Way_ is listed as one of its projects.
+INCF is taking part in this year's [Google Seasons of Docs](https://developers.google.com/season-of-docs/docs/participants) (GSOD) as an open source organisation and _The Turing Way_ is listed as one of its projects.
 During its exploration phase from May 11 to June 8, we invite the professional technical writers to connect with us and discuss the project ideas that can allow them to bring in their perspectives and unique skill set.
 _The Turing Way_ involves a large community of volunteers who edit, review and maintain its resources online on GitHub.
 As a book project, we can benefit tremendously from the support of experienced individuals who can provide editorial support and related guidance in our project.
