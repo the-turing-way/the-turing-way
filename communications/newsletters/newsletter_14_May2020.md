@@ -10,7 +10,7 @@ We congratulate Kirstie Whitaker, the project lead of _The Turing Way_ for start
 🗓 Join us at our upcoming Collaboration Café this week on 20 May 2020 at 19:00 BST ([check your local time](https://arewemeetingyet.com/London/2020-05-20/19:00/TuringWay-CollaborationCafe)). 
 More details are available on [this HackMD](https://hackmd.io/@KirstieJane/CollabCafe).
 
-📢 [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org/blog/call-mentors-join-us-gsod-2020) is participating at the [Google Seasons of Docs](https://developers.google.com/season-of-docs/docs/participants).
+📢 [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org/blog/call-mentors-join-us-gsod-2020) is participating in the [Google Seasons of Docs](https://developers.google.com/season-of-docs/docs/participants).
 As one of their projects, we invite interested technical writers to connect with us to discuss their project ideas during the exploration phase until 8 June 2020. 
 
 Stay safe and find more updates from the community below 👇
