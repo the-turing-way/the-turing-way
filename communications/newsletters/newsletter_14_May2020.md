@@ -190,3 +190,4 @@ emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
 
 *Did you miss the last newsletters?*
 *Check them out [here](https://tinyletter.com/TuringWay/archive).*
+
