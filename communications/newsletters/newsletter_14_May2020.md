@@ -24,7 +24,7 @@ You can join for as long as your schedule allows.
 Sign up on [this HackMD](https://hackmd.io/@KirstieJane/CollabCafe) to indicate your participation.
 
 ### Co-working Calls
-If you are looking for more opportunities to connect with the community, get on-boarded as a new member or co-work on your ideas for the project, participate in the co-working calls hosted by the community manager, Malvika Sharan at 11:00 AM BST everyday. 
+If you are looking for more opportunities to connect with the community, get on-boarded to the project or co-work on your ideas for the project, participate in the co-working calls hosted by the community manager, Malvika Sharan at 11:00 AM BST everyday. 
 More information can be found on [this HackMD](https://hackmd.io/@malvikasharan/TW-coworking).
 
 ## News from the community
@@ -88,7 +88,7 @@ See [the workshop page](https://n8cir.org.uk/events/remote-reprohack/) for detai
 
 ## Tips & Tricks for new contributors
 
-Are you new to _The Turing Way_ and would like to learn more about the project? Listen to the insightful talk by Kirstie Whitaker, project lead from one of her recent talks at [OpenMR Benelux 2020](https://openmrbenelux.github.io/products/product08/) recording from which is available [online on YouTube](https://www.youtube.com/watch?v=dlycvMU45ek&feature=youtu.be).
+Are you new to _The Turing Way_ and would like to learn more about the project? Listen to the insightful talk delivered by the project lead, Kirstie Whitaker, at [OpenMR Benelux 2020](https://openmrbenelux.github.io/products/product08/) recording from which is available [online on YouTube](https://www.youtube.com/watch?v=dlycvMU45ek&feature=youtu.be).
 
 ### Contributor in focus: Camila Rangel Smith
 
@@ -129,8 +129,8 @@ Kirstie has shared her thoughts and ideas on running effective virtual coffee ca
 
 ### Share your tips on self-care
 
-We would love to hear your tips and recommendations on self-care and ensuring the well being of your team members that you can add as a comment on [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/965).
-These recommendations will be added to the chapter on remote collaboration ([see details](https://github.com/alan-turing-institute/the-turing-way/pull/962)).
+We would love to hear your tips and recommendations on self-care and ensuring the well being of your team members. Please comment under [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/965) on the GitHub repository.
+Your recommendations will be included to the chapter on remote collaboration ([see details](https://github.com/alan-turing-institute/the-turing-way/pull/962)).
 
 Have suggestions to improve accessibility in our community? Reach out to us by emailing theturingway@gmail.com.
 
@@ -138,7 +138,7 @@ Have suggestions to improve accessibility in our community? Reach out to us by e
 
 ### Publications
 
-The citation advantage of linking publications to research data, Colavizza G, Hrynaszkiewicz I, Staden I, Whitaker K, McGillivray B (2020). PLOS ONE 15(4): e0230416. https://doi.org/10.1371/journal.pone.0230416 
+*The citation advantage of linking publications to research data*, Colavizza G, Hrynaszkiewicz I, Staden I, Whitaker K, McGillivray B (2020). PLOS ONE 15(4): e0230416. https://doi.org/10.1371/journal.pone.0230416 
 
 ### eLife sprint
 
@@ -149,7 +149,7 @@ eLife is a non-profit organisation with the mission to accelerate research commu
 ### CarpentryCon @ home
 
 [The Carpentries](https://carpentries.org/) is a volunteer-driven organisation that teaches programming and technical teaching skills to their global community of learners and educators.
-They are hosting the “CarpentryCon @ Home” online event series in July and August, and invite you to present talks, lead breakout discussion sessions, share skills through short workshops or host social events in your time zone.
+They are hosting the “CarpentryCon @ Home” online event series in July and August 2020, and invite you to present talks, lead breakout discussion sessions, share skills through short workshops or host social events in your time zone.
 Find more details in [this blog post](https://carpentries.org/blog/2020/05/2020-carpentrycon-at-home-proposals/).
 
 ## Acknowledgments and celebrations 
