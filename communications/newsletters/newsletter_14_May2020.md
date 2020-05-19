@@ -7,7 +7,7 @@ It’s not easy keeping morale up with the current state of the pandemic, theref
 
 We congratulate Kirstie Whitaker, the project lead of _The Turing Way_ for starting her new role as the [lead of Tools, Practices and Systems research programme](https://www.turing.ac.uk/news/dr-kirstie-whitaker-named-institutes-programme-lead-open-source-tools-practices-and-systems) at The Alan Turing Institute, London. 🎊
 
-🗓 Join us at our upcoming Collaboration Café this week on 20 May 2020 at 19:00 ([check your local time](https://arewemeetingyet.com/London/2020-05-20/19:00/TuringWay-CollaborationCafe)). 
+🗓 Join us at our upcoming Collaboration Café this week on 20 May 2020 at 19:00 BST ([check your local time](https://arewemeetingyet.com/London/2020-05-20/19:00/TuringWay-CollaborationCafe)). 
 More details are available on [this HackMD](https://hackmd.io/@KirstieJane/CollabCafe).
 
 📢 [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org/blog/call-mentors-join-us-gsod-2020) is participating at the [Google Seasons of Docs](https://developers.google.com/season-of-docs/docs/participants).
