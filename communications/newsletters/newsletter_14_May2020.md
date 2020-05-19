@@ -1,4 +1,4 @@
-# This week’s Collaboration Café, Mental Health Awareness Week and other updates from the community!
+# Attend this week’s Collaboration Café, learn about Mental Health Awareness Week and find other updates from the community!
 
 Hello Turing Way friends!
 
@@ -13,7 +13,7 @@ More details are available on [this HackMD](https://hackmd.io/@KirstieJane/Colla
 📢 [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org/blog/call-mentors-join-us-gsod-2020) is participating at the [Google Seasons of Docs](https://developers.google.com/season-of-docs/docs/participants).
 As one of their projects, we invite interested technical writers to connect with us to discuss their project ideas during the exploration phase until 8 June 2020. 
 
-Stay safe and find more news from the community below 👇
+Stay safe and find news from the community below 👇
 
 ## Community meetings
 
@@ -90,14 +90,15 @@ See [the workshop page](https://n8cir.org.uk/events/remote-reprohack/) for detai
 
 Are you new to _The Turing Way_ and would like to learn more about the project? Listen to the insightful talk by Kirstie Whitaker, project lead from one of her recent talks at [OpenMR Benelux 2020](https://openmrbenelux.github.io/products/product08/) recording from which is available [online on YouTube](https://www.youtube.com/watch?v=dlycvMU45ek&feature=youtu.be).
 
-### Community Persona: Camila Rangel Smith
+### Contributor in focus: Camila Rangel Smith
 
-Camila is a Research Data Scientist at The Alan Turing Institute.
+Camila Rangel Smith is a Research Data Scientist at The Alan Turing Institute.
 She is also a co-founder of the [CEVALE2VE project](http://www.cevale2ve.org/en/home/) that has become consolidated into [LA-CoNGA physics](http://laconga.redclara.net/), an EU Erasmus+ funded project with a mission to create a Latin American and European Community for Advanced Physics.
 She is translating _The Turing Way_ resources into Spanish in collaboration with her friends and colleagues from Venezuela and Mexico. 
 In her words: *“I think The Turing Way is an excellent resource that can change the way science is done (I wish I had it when I started my PhD). 
 Although the international language of science is English, I know for a fact that not everyone in places like Latin-American has the time and resources to learn it, so I think we must do everything we can to break those barriers and improve the accessibility of knowledge for everyone. 
-This is my motivation to translate the book to Spanish." She hopes that the Spanish version will be used as an important resource widely and invites the Spanish speaking members to support their efforts.
+This is my motivation to translate the book to Spanish."* 
+She hopes that the Spanish version will be used as an important resource widely and invites the Spanish speaking members to support their efforts.
 
 *We are currently collecting community personas of our contributing members through [this issue](https://github.com/alan-turing-institute/the-turing-way/pull/1106).*
 
@@ -118,7 +119,7 @@ If you are new to the community, come and say hello on [our Gitter channel](http
 Our community members volunteer their time and effort to develop resources that others can benefit from. 
 Several of our members have been an important part of this community from the beginning of the projects and several of you might have joined only a few months ago but have taken significant roles of developers and maintainers of our resources. 
 We acknowledge that during this unprecedented time, you may experience increased responsibility at work or home, and in those moments it is OK to unplug.
-We, in fact, encourage you to take a break and return to your volunteer work in your own time.
+We, in fact, encourage you to take a break whenever needed and return to your project ideas in your own time.
 
 ### Staying connected with others
 
@@ -129,9 +130,9 @@ Kirstie has shared her thoughts and ideas on running effective virtual coffee ca
 ### Share your tips on self-care
 
 We would love to hear your tips and recommendations on self-care and ensuring the well being of your team members that you can add as a comment on [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/965).
-These recommendations will be added to the chapter on remote collaboration ([see details](https://github.com/alan-turing-institute/the-turing-way/pull/962)].
+These recommendations will be added to the chapter on remote collaboration ([see details](https://github.com/alan-turing-institute/the-turing-way/pull/962)).
 
-Have ideas for other ways to improve accessibility in our community? Reach out to us by emailing theturingway@gmail.com.
+Have suggestions to improve accessibility in our community? Reach out to us by emailing theturingway@gmail.com.
 
 ## Relevant resources
 
@@ -173,7 +174,7 @@ Rosie Higman is a Research Data Manager and a PhD student at Sheffield iSchool &
 
 ![4 Tweets to highlight in May from the community members](images/tweets-May2020.png)
 
-*1. [Kate Simpson’s tweet](https://twitter.com/Dr_KateSimpson/status/1260269247948902405?s=20) from the Women in Data Science organised by IBM code Bristol, 2. [Neil Chung’s tweet](https://twitter.com/npch/status/1258387097930653702?s=20) from this [Twitter thread on software code quality](https://twitter.com/npch/status/1258381963620204545?s=20), 3. Malvika [subtweeting Rudo Kemper’s tweet](https://twitter.com/MalvikaSharan/status/1260954742093643777?s=20) from the CSV Conference 2020, 4. Natalie Thurlby’s tweet on JGI Bristol’s co-working calls, which was inspired by _The Turing Way_’s Collaboration Café.*
+*1. [Kate Simpson’s tweet](https://twitter.com/Dr_KateSimpson/status/1260269247948902405?s=20) from the Women in Data Science organised by IBM code Bristol, 2. [Neil Chung’s tweet](https://twitter.com/npch/status/1258387097930653702?s=20) from this [Twitter thread on software code quality](https://twitter.com/npch/status/1258381963620204545?s=20), 3. Malvika [subtweeting Rudo Kemper’s tweet](https://twitter.com/MalvikaSharan/status/1260954742093643777?s=20) from the CSV Conference 2020, 4. [Natalie Thurlby’s tweet](https://twitter.com/StatalieT/status/1260227892988063745?s=20) on JGI Bristol’s co-working calls, which was inspired by _The Turing Way_’s Collaboration Café.*
 
 ## Connect with us!
 
