@@ -5,7 +5,7 @@ Hello Turing Way friends!
 This month as we continue to adjust to the current norm, we wish you good health and hope that you and your loved ones are keeping well. 
 It’s not easy keeping morale up with the current state of the pandemic, therefore, in this newsletter, we talk about the importance of self-care and highlight the Mental Health Foundation who are hosting [Mental Health Awareness Week](https://www.awarenessdays.com/awareness-days-calendar/mental-health-awareness-week-2020/) from 18 to 24 May 2020. 🌻
 
-We congratulate Kirstie Whitaker, the founder of the Turing Way for starting her new role as the [lead of Tools, Practices and Systems research programme](https://www.turing.ac.uk/news/dr-kirstie-whitaker-named-institutes-programme-lead-open-source-tools-practices-and-systems) at The Alan Turing Institute, London. 🎊
+We congratulate Kirstie Whitaker, the project lead of _The Turing Way_ for starting her new role as the [lead of Tools, Practices and Systems research programme](https://www.turing.ac.uk/news/dr-kirstie-whitaker-named-institutes-programme-lead-open-source-tools-practices-and-systems) at The Alan Turing Institute, London. 🎊
 
 🗓 Join us at our upcoming Collaboration Café this week on 20 May 2020 at 19:00 ([check your local time](https://arewemeetingyet.com/London/2020-05-20/19:00/TuringWay-CollaborationCafe)). 
 More details are available on [this HackMD](https://hackmd.io/@KirstieJane/CollabCafe).
@@ -46,7 +46,7 @@ Read more in [this announcement](https://www.turing.ac.uk/news/dr-kirstie-whitak
 
 ### Boost Research Reproducibility with Binder Workshop
 
-In collaboration with [UK DRI](https://ukdri.ac.uk/), The Turing Way is hosting a half-day workshop on Binder on 11 June 2020, from 13:00 to 17:00.
+In collaboration with [UK DRI](https://ukdri.ac.uk/), _The Turing Way_ is hosting a half-day workshop on Binder on 11 June 2020, from 13:00 to 17:00.
 Binder allows you to share your software from GitHub in a single clickable link, making it easier for users to not worry about the computational environments, dependencies and platforms.
 In this workshop, we will discuss reproducible computing environments, show examples of others’ projects in myBinder.org and help you learn how to prepare a binder-ready project. 
 At the end of the workshop, you will be able to take some of your own content (in Jupyter notebook or scripts) and prepare it so that it can be used by others on myBinder.org.
