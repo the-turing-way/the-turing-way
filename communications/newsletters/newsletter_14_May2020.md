@@ -46,7 +46,7 @@ Read more in [this announcement](https://www.turing.ac.uk/news/dr-kirstie-whitak
 
 ### Boost Research Reproducibility with Binder Workshop
 
-In collaboration with [UK DRI](https://ukdri.ac.uk/), _The Turing Way_ is hosting a half-day workshop on Binder on 11 June 2020, from 13:00 to 17:00.
+In collaboration with [UK DRI](https://ukdri.ac.uk/), _The Turing Way_ is hosting a half-day workshop on Binder on 11 June 2020, from 13:00 to 17:00 BST.
 Binder allows you to share your software from GitHub in a single clickable link, making it easier for users to not worry about the computational environments, dependencies and platforms.
 In this workshop, we will discuss reproducible computing environments, show examples of others’ projects in myBinder.org and help you learn how to prepare a binder-ready project. 
 At the end of the workshop, you will be able to take some of your own content (in Jupyter notebook or scripts) and prepare it so that it can be used by others on myBinder.org.
