@@ -1,4 +1,4 @@
-# Attend this week’s Collaboration Café, learn about Mental Health Awareness Week and find other updates from the community!
+# Attend this week’s Collaboration Café, learn about Mental Health Awareness Week and find other updates!
 
 Hello Turing Way friends!
 
@@ -13,7 +13,7 @@ More details are available on [this HackMD](https://hackmd.io/@KirstieJane/Colla
 📢 [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org/blog/call-mentors-join-us-gsod-2020) is participating at the [Google Seasons of Docs](https://developers.google.com/season-of-docs/docs/participants).
 As one of their projects, we invite interested technical writers to connect with us to discuss their project ideas during the exploration phase until 8 June 2020. 
 
-Stay safe and find news from the community below 👇
+Stay safe and find more updates from the community below 👇
 
 ## Community meetings
 
