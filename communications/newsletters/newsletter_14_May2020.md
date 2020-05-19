@@ -51,7 +51,7 @@ Binder allows you to share your software from GitHub in a single clickable link,
 In this workshop, we will discuss reproducible computing environments, show examples of others’ projects in myBinder.org and help you learn how to prepare a binder-ready project. 
 At the end of the workshop, you will be able to take some of your own content (in Jupyter notebook or scripts) and prepare it so that it can be used by others on myBinder.org.
 More information is available on the [registration page online](https://www.eventbrite.co.uk/e/workshop-boost-research-reproducibility-with-binder-registration-105228216428).
-If you have previous experience with Binder and would like to join as a helper, please reach out to us by emailing theturingway@gmail.com.
+If you have previous experience with Binder and would like to join as a helper, please reach out to us by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
 
 ### Google Seasons of Docs
 
