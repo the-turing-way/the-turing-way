@@ -176,6 +176,10 @@ Rosie Higman is a Research Data Manager and a PhD student at Sheffield iSchool &
 
 *1. [Kate Simpson’s tweet](https://twitter.com/Dr_KateSimpson/status/1260269247948902405?s=20) from the Women in Data Science organised by IBM code Bristol, 2. [Neil Chung’s tweet](https://twitter.com/npch/status/1258387097930653702?s=20) from this [Twitter thread on software code quality](https://twitter.com/npch/status/1258381963620204545?s=20), 3. Malvika [subtweeting Rudo Kemper’s tweet](https://twitter.com/MalvikaSharan/status/1260954742093643777?s=20) from the CSV Conference 2020, 4. [Natalie Thurlby’s tweet](https://twitter.com/StatalieT/status/1260227892988063745?s=20) on JGI Bristol’s co-working calls, which was inspired by _The Turing Way_’s Collaboration Café.*
 
+### Special mentions
+
+Thanks to Sarah Gibson, Camila Rangel Smith, Heidi Siebold and Kirstie whitaker for reviewing this week's newsletter!
+
 ## Connect with us!
 
 - [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
