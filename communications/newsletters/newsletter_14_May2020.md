@@ -163,7 +163,7 @@ Rachael is the Research Software Community Manager of The Software Sustainabilit
 
 *Tweet by [Rachael Ainsworth](https://twitter.com/rachaelevelyn/status/1259796328135176192?s=20)*
 
-On a more personal note, we are overjoyed to share a personal tweet by Rosie Higman and congratulate her on her wedding that took place in their back garden on 6 May 2020.
+On a more personal note, we are overjoyed to share a personal tweet by Rosie Higman and congratulate her on her wedding that took place in their back garden. 💖
 Rosie Higman is a Research Data Manager and a PhD student at Sheffield iSchool & British Library who also worked with the core team of _The Turing Way_ in 2019.
 
 ![Tweet by Rosie about her wedding](images/rh-May2020.png)
