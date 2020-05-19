@@ -132,7 +132,7 @@ Kirstie has shared her thoughts and ideas on running effective virtual coffee ca
 We would love to hear your tips and recommendations on self-care and ensuring the well being of your team members. Please comment under [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/965) on the GitHub repository.
 Your recommendations will be included to the chapter on remote collaboration ([see details](https://github.com/alan-turing-institute/the-turing-way/pull/962)).
 
-Have suggestions to improve accessibility in our community? Reach out to us by emailing theturingway@gmail.com.
+Have suggestions to improve accessibility in our community? Reach out to us by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
 
 ## Relevant resources
 
