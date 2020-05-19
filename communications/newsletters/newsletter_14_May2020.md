@@ -65,7 +65,7 @@ Please find details on [this issue](https://github.com/alan-turing-institute/the
 ### Data Feminism Book and “Challenging Power in Data Science” seminar 
 
 [Data Feminism](https://mitpress.mit.edu/books/data-feminism) is a recent book by Catherine D'Ignazio and Lauren F. Klein that explains the concept of data feminism as a way of thinking about data science and its communication informed by decades of intersectional feminist activism and critical thought. 
-They will be giving a talk hosted by The Alan Turing Institute to discuss how challenges to the male/female binary can challenge other hierarchical classification systems; how an understanding of emotion can expand our ideas about effective data visualization; and how the concept of “invisible labor” can expose the significant human efforts required by our automated systems. 
+They will be giving a talk hosted by The Alan Turing Institute to discuss how challenging the male/female binary system can help investigate other hierarchical classification systems; how an understanding of emotion can expand our ideas about effective data visualization; and how the concept of “invisible labor” can expose the significant human efforts required by our automated systems. 
 You can read more about the event and register for free online using [this Eventbrite link](https://www.eventbrite.co.uk/e/challenging-power-in-data-science-tickets-105238272506?aff=erelexpmlt).
 The Authors have been running a weekly reading group that can be attended online ([see details](http://datafeminism.io/blog/book/data-feminism-reading-group/)).
 
