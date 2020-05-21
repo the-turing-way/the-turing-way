@@ -1,0 +1,27 @@
+name: check-links
+
+# run on pushes and pull requests to master
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+# run job
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+    # checkout repository
+    - name: checkout-repository
+      uses: actions/checkout@v2
+    # check links in html folder
+    - name: check html links
+      uses: chabad360/htmlproofer@master
+      with:
+        directory: "./book/website/_build/html"
+        arguments: '--allow-hash-href \
+                    --disable-external \
+                    --only_4xx '
