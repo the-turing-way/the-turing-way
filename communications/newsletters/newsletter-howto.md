@@ -69,11 +69,12 @@ emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
     - To reflect a range, use "from DD to DD Month YYYY" format.
     - Even if the sentences have reference to a day in "yesterday", "today" or "tomorrow", provide the exact data inside parenthesis so that it still makes sense if someone reads a newsletter in the future.
 - **Time**: Use time in [Greenwich Mean Time](https://greenwichmeantime.com/what-is-gmt/) (GMT) or [British Summer Time](https://greenwichmeantime.com/uk/time/british-summer-time/) (BST), followed by a link from [arewemeetingyet.com](https://arewemeetingyet.com/#form) to check time in relative time zones
-- **Links**: Use the Markdown formatting for link like this, [text that needs to be linked](full http link)
+- **Links**: Use the Markdown formatting for link like this, `[text that needs to be linked](full http link)`
     - Provide links wherever useful, for example [HackMD for Collaboration Café](https://hackmd.io/@KirstieJane/CollabCafe), [GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues), [registration pages](https://www.eventbrite.co.uk/) and [see details](https://github.com/alan-turing-institute/the-turing-way).
-    - Create link for email ids using this Markdown syntax - [real-email-id](mailto:real-email-id)
+    - Create link for email ids using this Markdown syntax - ``[real-email-id](mailto:real-email-id)``
 - **Quoting others**: Use smaller than (>) symbol followed by a space before the quoted sentence. For example:
-    > This is my legendary quote. 
+    `> This is my legendary quote.` will appear as:
+    > This is my legendary quote.
 - **Header and writing style**: The newsletter title is the top header and the project name _The Turing Way_ should be italicised.
     - Use line break for each line consistent with _The Turing Way_ format.
     - Different sections as suggested in the newsletters are second-level headers and the sub-sections are third-level headers.
@@ -81,20 +82,20 @@ emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
     - Leave at least one line space after each section and subsection.
 - **Use of language**: Keep the overall language simple and jargon-free. 
     - The tone should be welcoming, friendly and preferably informal. This can be personal to the author's writing style. 
-    - Ask more than one person to review your draft to make sure that its content is not misinterpreted. 
-    - If using content from a language or culture different from your own, ask people with that language or culture to review your draft to make sure that contents are not misused.
-- **Use of emojis**: It is encouraged to use emojis. 
-    - Be aware that the emojis can be misinterpreted by people from different cultures, hence keep it simple, neutral and positive. 
+    - Ask more than one person to review your draft to make sure that its content is clearly written. 
+    - If using content from a language or culture different from your own, ask people with that language or culture to review your draft to make sure that contents are not misrepresented.
+- **Use of emoji**: It is highly encouraged to use emoji! :smile: 
+    - Be aware that the emoji can be misinterpreted by people from different cultures, hence keep it simple, neutral and positive. 
     - When in doubt, ask someone to review your draft.
 - **Use of images**: Only use relevant images linked to the news item in the newsletter.
     - Make sure that the images are available under CC-BY license or approved to be reused by the owners. 
-    - Avoid using memes, images with political or sexual innuendo, or anything that is not directly linked to the community.
+    - Avoid using memes, images with political or sexual innuendo, or anything that is not directly related to the community.
     - When drafting the newsletter in a HackMD, drag-n-drop an image into the editor or copy-paste an image to automatically upload the image to [imgur](https://en.wikipedia.org/wiki/Imgur).
     - When drafting the newsletter on the GitHub, upload the images in the folder "the-turing-way/communications/newsletters/".
     - File naming convention for the images is "short-name-monthYYYY.png", where the short-name should be replaced with the identifiable short name of the image, the month should be replaced by the short name of the month and YYYY should be replaced by the year.
     - File extension can be '.jpg', '.png' or other with compatible image file type. 
     - Use Markdown syntax to link them in the newsletter. Example syntax, `![Alt: Description of the image - this is not the title but actual explanation of the image](image/path)` 
-    - Below the image, write a short descriptive title for the image followed by an empty line. Link title to the source such as a tweet or an event.
+    - Below the image, write a short descriptive title for the image followed by an empty line. Link title to the source such as a tweet or related event.
     - When using multiple images as panels in one collective image, number each image clearly (this can be done in any photo or text editor) and provide a numbered title for each image. See example [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_14_May2020.md#tweets-from-the-community).
     
 :pencil: Process of drafting newsletter
@@ -102,15 +103,15 @@ emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
 
 1. **Creating a draft**
 
-    - You can start drafting the newsletter on a branch of _The Turing Way_ [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/) within the appropriate directory (see the style guide)
-    - You can create the draft in a draft mode of your PR and the [WIP] (work in progress) tag in your PR
-    - Alternatively, you can use this HackMD (with the copy of template) to write your draft before you transfer them on a GitHub PR: https://hackmd.io/@malvikasharan/tw-newsletter
+    - You can start drafting the newsletter on a branch of _The Turing Way_ [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/) within the appropriate directory (see the style guide).
+    - You can work on your branch with the draft mode on and the [WIP] (work in progress) tag in your issue or pull request title.
+    - Alternatively, you can use this HackMD (with the copy of template) to write your draft before you transfer them on a GitHub branch: https://hackmd.io/@malvikasharan/tw-newsletter
     
-2. **Collect items for the newsletter as bullet points**
+2. **Start collecting items for the newsletter as bullet points**
 
-    - For community meetings, scan community calendar for Collaboration Café, book dash, workshops or other meetings.
-    - For news from the community, scan the Twitter account, recently merged pull requests for chapters, ask in the Gitter chat room if someone would like to share something in the newsletter or highlight any milestone for the project that was either established or achieved over the last month.
-    - For relevant resources, scan the Twitter channel for any recent publication from the community members, resources for training or skill-building or any other materials like blog posts or articles published in the network.
+    - For community meetings, scan community calendar and GitHub issue (for newsletter item) for Collaboration Café, book dash, workshops or other meetings.
+    - For news from the community, scan the Twitter account, recently merged pull requests for chapters, issue for newsletter item, or ask in the Gitter chat room if someone would like to share something in the newsletter. This is also the place to highlight any milestone for the project that was either established or achieved over the last month.
+    - To collect relevant resources, scan the Twitter channel for any recent publication from the community members, resources for training or skill-building or any other materials like blog posts or articles published in the network.
     - Tips & Tricks for new contributors should include any resource from the project that can make new members learn ways to engage, identify ways to get started as contributors and find relatable contents like impact stories of other members, contributor's profiles or other community-related aspects.
     - Acknowledgments and celebrations section gives a shout-out to our members, celebrates news from members, and highlight tweets, other online mentions or post from recent meetings where someone talked about _The Turing Way_.
     - The newsletter should highlight only noteworthy content from _The Turing Way_ core members and focus more on the contributing and new members.
@@ -123,8 +124,8 @@ emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
     
 4. **Write about each news item**
 
-    - Create a small paragraph(s) for each news item using the recommendations in the style guide for the language.
-    - Provide links when useful, give credit to the community members who might be associated with the news item and end with a sentence and link to more information.
+    - Based on the bullet point collected for each header, create a small paragraph(s) for each news item using the recommendations in the style guide for the language and format.
+    - Provide links when useful, give credit to the community members who might be associated with the news item and end the paragraph with a sentence and link to more information.
 
 5. **Create a pull request (PR)**
 
