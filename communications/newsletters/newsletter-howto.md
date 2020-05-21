@@ -145,3 +145,4 @@ emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
     - _The Turing Way_ account in the TinyLetter is accessible by the project lead, who sends a preview version to _The Turing Way_ email (theturingway@gmail.com) to check if everything looks OK and that the errors are fixed.
     - Once confirmed for its format and content, the newsletter is sent to the registered members.
     - The [online newsletters](https://tinyletter.com/TuringWay/) are shareable by links and can be read by non-subscribed members as well.
+    - Update the index table in the [README.md file](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/README.md) with the details of the newly published newsletter.
