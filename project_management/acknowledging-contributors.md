@@ -40,7 +40,9 @@ Text fields should be replaced for each contributors with specific information a
 
 There are multiple pathways to contribute to _The Turing Way_.
 Each contributor is acknowledged with their specific contributions using [all-contributors bot](https://github.com/all-contributors/all-contributors)'s [emoji keys](https://allcontributors.org/docs/en/emoji-key).
-These specifications are further added to the details of contributors in the [CONTRIBUTORS file](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) next to the "Pathways of contributions" text field, examples and personas for which have been discussed below.
+These specifications are further added to the details of contributors in the [CONTRIBUTORS file](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) after their <Contributor's detail>.
+
+Examples and personas for different types of contributions have been discussed below.
 
 ### Bug fixes
 
@@ -66,7 +68,7 @@ The `CONTRIBUTORS` file will be updated for the contributors with a similar stat
 
 ### Reviewing chapters and other pull requests
 
-**Overview:** Review process of a newly contributed chapter or a subsection of an existing chapter involves approving the language and structure of a chapter/section, flagging errors or typos, asking for clarifications if certain parts of the content or statements are unclear, suggesting modifications and improving the overall quality of someone's contribution.
+**Overview:** Review process of a newly contributed chapter or a subsection of an existing chapter involves approving the language and structure of a chapter or a section of a chapter, flagging errors or typos, asking for clarifications if certain parts of the content or statements are unclear, suggesting modifications and improving the overall quality of someone's contribution.
 
 **Personas:** 
 1. Tashan has reviewed a pull request that contributed one additional paragraph to an already existing chapter. 
@@ -185,8 +187,8 @@ They have translated the complete chapter <chapter name> into Turkish.
 ### Organisational support
 
 **Overview:** 
-When members participate in _The Turing Way_ community with the in-kind support of their funders and organisation, we acknowledge them with their organisational support.
-Such organisational supports are applicable when multiple members from a project or community collaborate to build resources to be centrally hosted in _The Turing Way_.
+When members participate in _The Turing Way_ community with the in-kind support of their funders and organisation, we acknowledge each member individually and list their organisations as "Collaborating organisations".
+Such organisational supports are applicable when one or multiple members from a project or community collaborate to build resources in _The Turing Way_.
 These efforts are highly encouraged to ensure the sustainability of their resources that can benefit a much wider community.
 
 **Personas:**
