@@ -2,29 +2,29 @@
 
 
 _The Turing Way_ is a _lightly opinionated_ handbook for data science that is collaboratively developed by its diverse community of researchers, learners, educators and other stakeholders.
-We are grateful to all our members for their contributions and want to recognise them fairly.
+We are grateful to all our members for their contributions and are committed to recognising them fairly.
 
-In this document, we provide an overview of different kinds of contributions made within this the project and how we acknowledge them.
-We explain each of them with the help of different personas and examples.
+In this document, we provide an overview of different kinds of contributions made within this project and how we acknowledge them.
+We further explain each of them with the help of different personas and examples.
 
-This file in the current form is open for discussion and we will do as best as we can to acknowledge all kinds of contributions to this project.
+This file in the current state is open for discussion and we will do as best as we can to acknowledge all kinds of contributions to this project and _The Turing Way_ community.
 
 ### Creating opportunities for shared ownership
 
 As a community-led project, we encourage a collaborative approach to develop a chapter, an iterative process that involves designing, outlining, writing, reviewing and editing its contents. 
-This form of collaboration aims to avoid individual authorship in favour of developing shared ownership and agency in the project. 
-This also lowers the psychological barriers for the new contributors who can propose improvements in the book by editing, moving and adapting its content as the book grows.
-
 Everyone who contributes substantially is named as authors on the book as a whole.
+This format of collaboration aims to avoid individual authorship in favour of establishing shared ownership and agency in this project. 
+Such collaborative efforts also lower the psychological barriers for the new contributors who can propose improvements in the book by editing, moving and adapting its content as the book grows.
+
 Since this document has been recently developed, in the past we have missed capturing the important work around answering questions, representing the project, developing and maintaining the infrastructure and all other nurturing roles that make The Turing Way community so special. 
 
 We hope that the [records of contributions](#Records-of-contributions), where individuals can identify the work they've done will allow them to show the work that they have completed, without trying to fit _The Turing Way_ into a traditional credit system. 
 
 ## Records of contributions
 
-The [Contributors](https://github.com/alan-turing-institute/the-turing-way#contributors) section in [README](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file will be updated with every contributor's name using [all contributors bot](https://allcontributors.org/) with emoji keys as explained in this document.
+The [Contributors](https://github.com/alan-turing-institute/the-turing-way#contributors) section in [README](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file will be updated with every contributor's name using [all contributors bot](https://allcontributors.org/) with their [emoji keys](https://allcontributors.org/docs/en/emoji-key).
 
-The details for each contributor will be listed in the [CONTRIBUTORS](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file with the following contributor's details, which will be referred with "<Contributor's detail>" in the rest of the chapter):
+The details for each contributor will be listed in the [CONTRIBUTORS](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file with the following contributor's details, which will be referred as "<Contributor's detail>" in the rest of the chapter:
 
 > * Name: <Contributor's name>
 > * GitHub id: <GitHub id>
