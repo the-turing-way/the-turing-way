@@ -22,11 +22,6 @@ jobs:
       id: lc
       uses: peter-evans/link-checker@v1
       with:
-        args: book_skeleton.md
+        args: -r book/website/_build/html
     - name: Fail if there were link errors
       run: exit ${{ steps.lc.outputs.exit_code }}
-      # with:
-      #   directory: "/book/website/_build/html"
-      #   arguments: '--allow-hash-href \
-      #               --disable-external \
-      #               --only_4xx '
