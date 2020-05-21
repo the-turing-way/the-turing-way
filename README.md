@@ -4,8 +4,9 @@
 [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
 [![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
+[![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-126-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-136-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 | Test | Status |
@@ -76,6 +77,20 @@ You might want to include a web archive link such as: <https://web.archive.org/w
 We really appreciate any references that you make to _The Turing Way_ project in your and we hope it is useful.
 If you have any questions please [get in touch](#get-in-touch).
 
+### Citing _The Turing Way_ illustrations
+
+_The Turing Way_ illustrations are created by artists from [Scriberia](https://www.scriberia.co.uk/) as part of [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) in Manchester on 17 May 2019, and London on 28 May 2019 and 21 February 2020. 
+They depict a variety of content from the handbook, collaborative efforts in the community and _The Turing Way_ project in general. 
+These illustrations are available on Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) under a CC-BY license.
+
+When using any of the images, please include the following attribution:
+> This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence.
+
+The latest version from Zenodo can be cited as:
+> The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300
+
+We have used a few of these illustrations in the [Welcome Bot](https://github.com/apps/welcome)'s responses to new members' contributions in this GitHub repository.
+
 ### Get in touch
 
 We have a gitter chat room and we'd love for you to swing by to say hello at <https://gitter.im/alan-turing-institute/the-turing-way>.
@@ -89,7 +104,7 @@ Alternatively, you can contact the lead investigator **Kirstie Whitaker** by ema
 
 ## Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -256,6 +271,20 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
     <td align="center"><a href="https://github.com/GeorgianaElena"><img src="https://avatars0.githubusercontent.com/u/7579677?v=4" width="100px;" alt=""/><br /><sub><b>Georgiana Elena</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3AGeorgianaElena" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="http://www.glerean.com"><img src="https://avatars1.githubusercontent.com/u/8993301?v=4" width="100px;" alt=""/><br /><sub><b>Enrico Glerean</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Aeglerean" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://wiebketoussaint.com"><img src="https://avatars3.githubusercontent.com/u/11086407?v=4" width="100px;" alt=""/><br /><sub><b>Wiebke Toussaint</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Awiebket" title="Bug reports">🐛</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://dannygarside.co.uk"><img src="https://avatars3.githubusercontent.com/u/3739866?v=4" width="100px;" alt=""/><br /><sub><b>Danny Garside</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Ada5nsy" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://growupboron.github.io"><img src="https://avatars3.githubusercontent.com/u/41593068?v=4" width="100px;" alt=""/><br /><sub><b>Shankho Boron Ghosh</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Agrowupboron" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://www.twinreality.blog"><img src="https://avatars0.githubusercontent.com/u/44135465?v=4" width="100px;" alt=""/><br /><sub><b>Yash Varshney</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3AYash-Varshney" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/IIITM-Jay"><img src="https://avatars2.githubusercontent.com/u/65283880?v=4" width="100px;" alt=""/><br /><sub><b>Jay Dev Jha</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3AIIITM-Jay" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://twitter.com/jermdemo"><img src="https://avatars3.githubusercontent.com/u/147991?v=4" width="100px;" alt=""/><br /><sub><b>Jeremy Leipzig</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Aleipzig" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://pranavmahajan25.github.io/"><img src="https://avatars0.githubusercontent.com/u/33349653?v=4" width="100px;" alt=""/><br /><sub><b>Pranav Mahajan</b></sub></a><br /><a href="#content-PranavMahajan25" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/augustinas1"><img src="https://avatars1.githubusercontent.com/u/10000223?v=4" width="100px;" alt=""/><br /><sub><b>Augustinas Sukys</b></sub></a><br /><a href="#ideas-augustinas1" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/DerienFe"><img src="https://avatars3.githubusercontent.com/u/55786232?v=4" width="100px;" alt=""/><br /><sub><b>DerienFe</b></sub></a><br /><a href="#ideas-DerienFe" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/xc308"><img src="https://avatars1.githubusercontent.com/u/55785985?v=4" width="100px;" alt=""/><br /><sub><b>Xiaoqing Chen</b></sub></a><br /><a href="#ideas-xc308" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/takuover"><img src="https://avatars2.githubusercontent.com/u/52206060?v=4" width="100px;" alt=""/><br /><sub><b>takuover</b></sub></a><br /><a href="#ideas-takuover" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 

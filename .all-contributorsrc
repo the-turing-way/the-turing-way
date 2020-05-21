@@ -1235,6 +1235,96 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "da5nsy",
+      "name": "Danny Garside",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3739866?v=4",
+      "profile": "http://dannygarside.co.uk",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "growupboron",
+      "name": "Shankho Boron Ghosh",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/41593068?v=4",
+      "profile": "http://growupboron.github.io",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Yash-Varshney",
+      "name": "Yash Varshney",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/44135465?v=4",
+      "profile": "http://www.twinreality.blog",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "IIITM-Jay",
+      "name": "Jay Dev Jha",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/65283880?v=4",
+      "profile": "https://github.com/IIITM-Jay",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "leipzig",
+      "name": "Jeremy Leipzig",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/147991?v=4",
+      "profile": "https://twitter.com/jermdemo",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "PranavMahajan25",
+      "name": "Pranav Mahajan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/33349653?v=4",
+      "profile": "https://pranavmahajan25.github.io/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "augustinas1",
+      "name": "Augustinas Sukys",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/10000223?v=4",
+      "profile": "https://github.com/augustinas1",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "DerienFe",
+      "name": "DerienFe",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/55786232?v=4",
+      "profile": "https://github.com/DerienFe",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "xc308",
+      "name": "Xiaoqing Chen",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/55785985?v=4",
+      "profile": "https://github.com/xc308",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "takuover",
+      "name": "takuover",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/52206060?v=4",
+      "profile": "https://github.com/takuover",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "projectName": "the-turing-way",

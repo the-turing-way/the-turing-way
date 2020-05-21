@@ -6,9 +6,9 @@
 | -------------|----------|------|
 | [Version Control](/version_control/version_control) | Helpful | Can be used to version the compendium|
 | [Open Research](/open_research/open_research)       | Helpful | Components are part of the compendium |
-| [Reproducible Environments](reproducible_environments/reproducible_environments) | Helpful | Can be used to make the compendium reproducible |
-| [Binder Hub](binderhub/binderhub) | Helpful | Can be used to publish the compendium |
-| [Reproducibility with Make](make/make) | Helpful | Can be used for automation in the compendium |
+| [Reproducible Environments](/reproducible_environments/reproducible_environments) | Helpful | Can be used to make the compendium reproducible |
+| [Binder Hub](/binderhub/binderhub) | Helpful | Can be used to publish the compendium |
+| [Reproducibility with Make](/make/make) | Helpful | Can be used for automation in the compendium |
 
 ## Summary
 
@@ -26,7 +26,7 @@ The main purpose is that all elements of a project are published together, so a 
 A research compendium combines all elements of your project, allowing others to reproduce your work, and should be the final product of your research project.
 Publishing your research paper along with a research compendia allows others to access your input, test your analysis, and, if the compendium can be executed, rerun to assess the resulting output.
 This does not only instill trust in your research but can give you more visibility.
-Others may use your research in unexpected ways, some of which are discussed below (refer section: [Using a research compendium].
+Others may use your research in unexpected ways, some of which are discussed below (refer section: [Using a research compendium](#using-a-research-compendium).
 
 ## Chapter content
 
@@ -164,7 +164,7 @@ The website https://research-compendium.science contains links to further resour
 
 ## Definitions/glossary
 
-See our [glossary](glossary/glossary) for explanations of terms used in the chapter.
+See our [glossary](/glossary/glossary) for explanations of terms used in the chapter.
 
 
 ## Bibliography

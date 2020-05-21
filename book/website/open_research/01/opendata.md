@@ -13,7 +13,7 @@ Accordingly, there is an ongoing global data revolution that seeks to advance co
 Open data is crucial to meeting these objectives.
 Open data is freely available on the internet and any user is permitted to download, copy, analyse, re-process, and re-use it for any other purpose with minimal financial, legal, and technical barriers.
 
-This represents a real shift in how research works and funders are starting to require reasearchers to make their data available and submit data management plans as part of project proposals (see also our chapter on [research data management](rdm/rdm.html)).
+This represents a real shift in how research works and funders are starting to require reasearchers to make their data available and submit data management plans as part of project proposals (see also our chapter on [research data management](/rdm/rdm).
 At the moment anyone who wishes to use data from a researcher often has to contact that researcher and make a request.
 "Open by default" turns this on its head and says that there should be a presumption of publication for all.
 If access to data is restricted, for instance due to security reasons, the justification for this should be made clear.
@@ -23,7 +23,7 @@ Listed below are the steps to making your data open.
 
 ### Steps to make your data open
 
-The steps below help you make your data findable, accessible, interoperable and reusable (FAIR). You can learn more about FAIR principles in the chapter on [research data management](rdm/rdm.html).
+The steps below help you make your data findable, accessible, interoperable and reusable (FAIR). You can learn more about FAIR principles in the chapter on [research data management](/rdm/rdm).
 
 #### Step 1: Make your data available
 
@@ -98,5 +98,5 @@ Preserving privacy may still be possible if partial or generalised datasets are 
 For example, providing age bands instead of birth date or only the first two digits of postal codes.
 It may also be possible to provide the data in such a format that researchers can query it whist keeping the data itself closed, for example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints.
 
-Data privacy is also maintained when dealing with data of national or commercial interest, details for which are listed in the chapter [Researcg Data Management][rdm], in the section: *National and commercially sensitive data*.
+Data privacy is also maintained when dealing with data of national or commercial interest, details for which are listed in the chapter [Research Data Management](/rdm/rdm), in the section: *National and commercially sensitive data*.
 [rdm]: /rdm

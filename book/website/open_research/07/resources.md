@@ -65,7 +65,7 @@ The source can be found on GitHub [here](https://github.com/alan-turing-institut
 - **Self-archive:** To place your research output in a repository.
 
 ## Bibliography
-- [1.](https://www.fosteropenscience.eu/content/what-open-science-introduction) **CC-BY 4.0**
+- [1.](https://www.fosteropenscience.eu/node/1420) **CC-BY 4.0**
 - [2.](https://open-science-training-handbook.gitbook.io/book/introduction) **CC 1.0**
 - [3.](https://www.fosteropenscience.eu/content/introduction-open-science-funders-introductory) **Attribution + Noncommercial - CC-BY-NC**
 - [4.](https://link.springer.com/chapter/10.1007/978-3-319-00026-8_2) **Creative Commons Attribution Noncommercial Licence**
