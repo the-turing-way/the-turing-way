@@ -15,13 +15,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     # checkout repository
-    - name: checkout-repository
+    - name: Checkout-repository
       uses: actions/checkout@v2
     # check links in html folder
-    - name: check html links
-      uses: chabad360/htmlproofer@master
-      with:
-        directory: "/book/website/_build/html"
-        arguments: '--allow-hash-href \
-                    --disable-external \
-                    --only_4xx '
+    - name: Check links
+      uses: peter-evans/link-checker@v1
+      # with:
+      #   directory: "/book/website/_build/html"
+      #   arguments: '--allow-hash-href \
+      #               --disable-external \
+      #               --only_4xx '
