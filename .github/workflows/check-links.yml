@@ -1,4 +1,4 @@
-name: check-links
+name: CheckLinks
 
 # run on pushes and pull requests to master
 on:
@@ -21,7 +21,7 @@ jobs:
     - name: check html links
       uses: chabad360/htmlproofer@master
       with:
-        directory: "./book/website/_build/html"
+        directory: "/book/website/_build/html"
         arguments: '--allow-hash-href \
                     --disable-external \
                     --only_4xx '
