@@ -19,6 +19,7 @@ jobs:
       uses: actions/checkout@v2
     # check links in html folder
     - name: Link checker
+      id: lc
       uses: peter-evans/link-checker@v1
       with:
         args: book_skeleton.md
