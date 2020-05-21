@@ -40,7 +40,6 @@ Find more details on these topics below 👇
 
     <Shout out to the reviewers for this newsletter other than the team members>
 
-
 ## Connect with us!
 
 - [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
@@ -56,7 +55,7 @@ emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
 *Did you miss the last newsletters?*
 *Check them out [here](https://tinyletter.com/TuringWay/archive).*
 
-
+---
 :construction: Style guide
 ---
 
@@ -101,7 +100,13 @@ emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
 :pencil: Process of drafting newsletter
 ---
 
-1. **Collect items for the newsletter as bullet points**
+1. **Creating a draft**
+
+    - You can start drafting the newsletter on a branch of _The Turing Way_ [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/) within the appropriate directory (see the style guide)
+    - You can create the draft in a draft mode of your PR and the [WIP] (work in progress) tag in your PR
+    - Alternatively, you can use this HackMD (with the copy of template) to write your draft before you transfer them on a GitHub PR: https://hackmd.io/@malvikasharan/tw-newsletter
+    
+2. **Collect items for the newsletter as bullet points**
 
     - For community meetings, scan community calendar for Collaboration Café, book dash, workshops or other meetings.
     - For news from the community, scan the Twitter account, recently merged pull requests for chapters, ask in the Gitter chat room if someone would like to share something in the newsletter or highlight any milestone for the project that was either established or achieved over the last month.
@@ -110,35 +115,33 @@ emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
     - Acknowledgments and celebrations section gives a shout-out to our members, celebrates news from members, and highlight tweets, other online mentions or post from recent meetings where someone talked about _The Turing Way_.
     - The newsletter should highlight only noteworthy content from _The Turing Way_ core members and focus more on the contributing and new members.
     
-2. **Collect images associated with the news item**
+3. **Collect images associated with the news item**
 
     - Following the recommendations on style guide for using images, collect a few (zero to maximum 2 per section) images.
     - For the twitter mention, there is no set number limit but recommended to use unto 6 tweets in different panels of the same image (explained in the style guide).
     - Make sure that these images are available under a free license (like CC-BY), collected with the link of their sources, and named clearly as suggested in the style guide.
     
-3. **Write about each news item**
+4. **Write about each news item**
 
     - Create a small paragraph(s) for each news item using the recommendations in the style guide for the language.
     - Provide links when useful, give credit to the community members who might be associated with the news item and end with a sentence and link to more information.
 
-4. **Create a pull request (PR)**
+5. **Create a pull request (PR)**
 
-    - You can start drafting the newsletter on a branch on _The Turing Way_ [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/) in a draft mode and [WIP] (work in progress) tag in your PR.
-    - Before opening your PR for review, make sure you have uploaded the linked images on GitHub in your branch (see the style guide for detail).
+    - Before opening your PR on the GitHub for review, make sure you have uploaded the linked images on GitHub repository in the appropriate folder within your branch (see the style guide for detail).
     - Run a quick grammar or typo check by an app like [Grammarly](https://app.grammarly.com) and double-check that the links are not broken.
     - When ready, open the PR and tag a few contributing members, preferably those who have been mentioned in the draft so that they can review and approve your text.
     
-5. **Review process**
+6. **Review process**
 
     - The reviewers for the newsletter can review for language, typos, the relevance of the contents, appropriateness of the use of images and emojis, and the tone.
     - They can add constructive suggestions in the newsletter draft, add any missing item that they would like to highlight and approve the PR.
     - After the review process, each reviewer's name will be added under the special mentions section by the author.
     
-5. **Publication process**
+7. **Publication process**
 
     - Convert Markdown file to HTML for TinyLetter using  [browserling.com](https://www.browserling.com/tools/markdown-to-html) by copy-pasting the Markdown content to the text box in the web application and pressing "Convert to HTML button".
     - The HTML content of the _The Turing Way_ newsletter is published online via [TinyLetter](https://tinyletter.com/TuringWay/). 
     - _The Turing Way_ account in the TinyLetter is accessible by the project lead, who sends a preview version to _The Turing Way_ email (theturingway@gmail.com) to check if everything looks OK and that the errors are fixed.
     - Once confirmed for its format and content, the newsletter is sent to the registered members.
     - The [online newsletters](https://tinyletter.com/TuringWay/) are shareable by links and can be read by non-subscribed members as well.
-
