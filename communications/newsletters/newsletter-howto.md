@@ -98,19 +98,20 @@ emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
     - Below the image, write a short descriptive title for the image followed by an empty line. Link title to the source such as a tweet or related event.
     - When using multiple images as panels in one collective image, number each image clearly (this can be done in any photo or text editor) and provide a numbered title for each image. See example [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_14_May2020.md#tweets-from-the-community).
     
-:pencil: Process of drafting newsletter
+:pencil: Process of drafting a newsletter
 ---
 
-1. **Creating a draft**
+1. **Starting a document for the newsletter**
 
     - You can start drafting the newsletter on a branch of _The Turing Way_ [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/) within the appropriate directory (see the style guide).
-    - You can work on your branch with the draft mode on and the [WIP] (work in progress) tag in your issue or pull request title.
+    - You can work on your GitHub branch with the draft mode on and the [WIP] (work in progress) tag in your issue or pull request title.
     - Alternatively, you can use this HackMD (with the copy of template) to write your draft before you transfer them on a GitHub branch: https://hackmd.io/@malvikasharan/tw-newsletter
     
 2. **Start collecting items for the newsletter as bullet points**
 
-    - For community meetings, scan community calendar and GitHub issue (for newsletter item) for Collaboration Café, book dash, workshops or other meetings.
-    - For news from the community, scan the Twitter account, recently merged pull requests for chapters, issue for newsletter item, or ask in the Gitter chat room if someone would like to share something in the newsletter. This is also the place to highlight any milestone for the project that was either established or achieved over the last month.
+    - For community meetings, scan community calendar and GitHub issues for Collaboration Café, book dash, workshops or other meetings.
+    - For news from the community, scan the Twitter account, recently merged pull requests for chapters, issue for newsletter item or ask in the Gitter chat room if someone would like to share something in the newsletter. 
+    - This is also the place to highlight any milestone for the project that was either established or achieved over the last month.
     - To collect relevant resources, scan the Twitter channel for any recent publication from the community members, resources for training or skill-building or any other materials like blog posts or articles published in the network.
     - Tips & Tricks for new contributors should include any resource from the project that can make new members learn ways to engage, identify ways to get started as contributors and find relatable contents like impact stories of other members, contributor's profiles or other community-related aspects.
     - Acknowledgments and celebrations section gives a shout-out to our members, celebrates news from members, and highlight tweets, other online mentions or post from recent meetings where someone talked about _The Turing Way_.
