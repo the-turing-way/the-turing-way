@@ -1,9 +1,9 @@
 # Personas & Pathways
 
-Personas are character sketches of fictional contributors and users who might do something with the Turing Way.
-Following the [Mozilla Open Leadership training](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/), we created personas for contributors to the Turing Way based on participants in past trainings and events, and have created personas for users based on our target audiences.
-This will help us in our development of the Turing Way community such as through the [README](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) and [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).
+Personas are character sketches of fictional contributors and users based on real-world observations and understandings of actual potential. 
+Persona is useful when paired with pathways, which captures how those contributors or users might interact with our project.
 
+In this document, we have created personas for _The Turing Way_ contributors and users based on their engagements with the project as a reader, learner, resource developer, reviewer and maintainer.
 We have also imagined how our personas might interact with our project – the "pathway" they take to get involved and to sustain involvement which comprises a few key phases:
 
 1. Discovery - How they first hear about the project or group.
@@ -16,12 +16,14 @@ We have also imagined how our personas might interact with our project – the "
 Below you'll find a range of personas and pathways, showing how their interactions with the Turing Way can improve and enrich the project.
 Each example is meant to suggest ways you might interact with, learn from, and contribute to the Turing Way so hopefully one resonates with you and empowers you to get involved!
 
-If you do not relate to any of the personas described and are struggling to figure out how to get involved or use this resource, please open an issue or get in contact on our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) letting us know what the barriers are!
+If you do not relate to any of the personas described and are struggling to figure out how to get involved or use this resource, please open an issue or get in contact on our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) letting us know what your persona or pathway might look like!
+
+This process will not only help our users, but will help the _The Turing Way_ team members in improving the community documents for the _The Turing Way_ such as [README](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) and [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).
 
 ## Contributor personas
 
 1. Sam, someone who has no GitHub experience
-2. Alex, someone who has a lot of GitHub experience
+2. Alia, someone who has a lot of GitHub experience
 3. Amal, someone who knows they want to contribute, and does
 4. Noor, someone who doesn't know they want to contribute, but does
 5. Robin, someone who can only contribute outside of their normal working hours
@@ -40,21 +42,19 @@ They're really interested in learning how to use open notebooks such as Jupyter 
 6. **Leadership** - Sam submits one of their research projects as a case study for the Turing Way.
 
 
+###  2. Alia, a researcher with Git/GitHub experience and book topic expertise
 
-###  2. Alex, a researcher with Git/GitHub experience and book topic expertise
-
-Alex is a postdoc in Manchester who programs in R.
+Alia is a postdoc in Morocco who programs in R.
 They are passionate about open data and using data for good, but also understand it can be more complex than that.
 They attend data science meetups in the city, but are interested in finding a community working towards improving how research is conducted.
 They have experience with GitHub and contributing to open projects.
 
-1. **Discovery** - Alex first hears about the Turing Way via Twitter ([#TuringWay](https://twitter.com/search?q=%23TuringWay&src=typed_query)).
+1. **Discovery** - Alia first hears about the Turing Way via Twitter ([#TuringWay](https://twitter.com/search?q=%23TuringWay&src=typed_query)).
 2. **First Contact** - They land on the project's README and look for the contributing guidelines to see where their skills can be applied.
 3. **Participation** - They find an issue asking for help on writing the Credit for Reproducible Research chapter and add a few paragraphs on how to properly cite research software.
-4. **Sustained Participation** - After constructive feedback and collaboration with the Turing Way team, Alex follows the community on social media and applies to attend the Manchester Book Dash.
+4. **Sustained Participation** - After constructive feedback and collaboration with the Turing Way team, Alia follows the community on social media and attenda the online Collaboration Cafe.
 5. **Networked Participation** - They invite other friends and colleagues from the Rstats community to get involved, who have expertise on some of the book topics.
-6. **Leadership** - Alex volunteers to write the chapter on "Scoping a data project for RSEs" that they found requested in the [Book Skeleton](https://github.com/alan-turing-institute/the-turing-way/blob/master/book_skeleton.md).
-
+6. **Leadership** - Alia volunteers to write the chapter on "Scoping a data project for RSEs" that they found requested in the [Book Skeleton](https://github.com/alan-turing-institute/the-turing-way/blob/master/book_skeleton.md).
 
 
 ### 3. Amal, a PhD supervisor who is an expert in an aspect of reproducible research
@@ -72,7 +72,6 @@ They like seeing their work make an impact and are keen to know about the eventu
 6. **Leadership** - Amal promotes the Turing Way at their own institution, suggesting to other academics that they get involved with its creation and adopt it as best practice.
 
 
-
 ###  4. Noor, a PhD student who is trying to finish their dissertation
 
 Noor is a final-year PhD student who has their dissertation deadline coming up. 
@@ -87,10 +86,9 @@ They are confident that their research has taught them some particular considera
 6. **Leadership** - After submitting their PhD, and unsure what they want to do next, Noor volunteers to co-ordinate further research into the chapter by reaching out to experts in the space.
 
 
-
 ### 5. Robin, a Data Scientist in industry
  
-Robin is a Data Scientist working at the Co-operative Bank in London. 
+Robin is a Data Scientist working at the Co-operative Bank in Lahore. 
 They have lots of meetings throughout the workday, so are looking for ways to make their workflow more efficient and sustainable.
 They attend online webinars and watch videos on Youtube in their spare time to learn more about reproducibility and collaboration. 
 
@@ -104,5 +102,8 @@ They attend online webinars and watch videos on Youtube in their spare time to l
 
 ---
 
-We have created these personas and pathways for contributors and users to guide the development of the Turing Way following [Mozilla Open Leadership training](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/).
-This personas.md file has remixed and reused material from the [Open Leadership Framework GitHub repository](https://github.com/mozilla/open-leadership-framework/blob/master/personas.md) (License: [CC-BY-SA](https://creativecommons.org/licenses/by/4.0/)).
+We have created these personas and pathways for contributors and users to help them relate to a persona that vaguely matches to their own, and guide the development of the Turing Way using the related pathway.
+
+## Reference:
+
+- This personas.md file has remixed and reused material from the [Open Leadership Framework GitHub repository](https://github.com/mozilla/open-leadership-framework/blob/master/personas.md) shared at the [Mozilla Open Leadership training](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/), License: [CC-BY-SA](https://creativecommons.org/licenses/by/4.0/).
