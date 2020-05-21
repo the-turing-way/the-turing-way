@@ -58,14 +58,14 @@
   - title: Resources
     url: /open_research/07/resources
 - title: Version Control
-  url: /version_control/version_control
+  url: /version_control/version-control
   sections:
   - title: General Workflow of Version Control
     url: /version_control/vcs-workflow
   - title: Getting Started with Git
     url: /version_control/vcs-git
-  - title: Retrieving past versions and comparing them in Git     
-    url: /version_control/vcs-git-compare 
+  - title: Retrieving past versions and comparing them in Git
+    url: /version_control/vcs-git-compare
   - title: Git branches
     url: /version_control/vcs-git-branches
   - title: Merging branches in Git
