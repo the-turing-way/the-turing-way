@@ -1,4 +1,4 @@
-#### Retrieving past versions
+## Retrieving past versions
 
 To cancel your latest commit (revert to the previous version), run the following command:
 ```

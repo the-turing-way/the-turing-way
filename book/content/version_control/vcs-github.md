@@ -1,4 +1,4 @@
-## Version control using GitHub
+## Using Git commands to work on GitHub
 
 As research becomes increasingly collaborative and multiple people work on the same project, it becomes difficult to keep track of changes made by others if not done systematically.
 Moreover, it is time-consuming to manually incorporate the work of different participants in a project, even when all of their changes are compatible.
