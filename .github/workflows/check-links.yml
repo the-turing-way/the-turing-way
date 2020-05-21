@@ -20,6 +20,8 @@ jobs:
     # check links in html folder
     - name: Check links
       uses: peter-evans/link-checker@v1
+      with:
+        args: book_skeleton.md
       # with:
       #   directory: "/book/website/_build/html"
       #   arguments: '--allow-hash-href \
