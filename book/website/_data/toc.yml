@@ -61,15 +61,25 @@
   url: /version_control/version_control
   sections:
   - title: General Workflow of Version Control
-    url: /version_control/01/vcs-workflow
+    url: /version_control/vcs-workflow
+  - title: Getting Started with Git
+    url: /version_control/vcs-git
+  - title: Retrieving past versions and comparing them in Git     
+    url: /version_control/vcs-git-compare 
+  - title: Git branches
+    url: /version_control/vcs-git-branches
+  - title: Merging branches in Git
+    url: /version_control/vcs-git-merge
   - title: Version control using GitHub
-    url: /version_control/02/vcs-github
+    url: /version_control/vcs-github
+  - title: Summary table of Git commands
+    url: /version_control/vcs-git-summary
   - title: Version control for data
-    url: /version_control/03/vcs-data
+    url: /version_control/vcs-data
   - title: Personal stories and case studies
-    url: /version_control/04/vcs-personal-stories
+    url: /version_control/vcs-personal-stories
   - title: Checklist and resources
-    url: /version_control/05/vcs-checklist
+    url: /version_control/vcs-checklist
 - title: Licensing
   url: /licensing/licensing
   sections:
