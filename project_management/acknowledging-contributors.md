@@ -11,7 +11,7 @@ This file in the current state is open for discussion and we will do as best as 
 
 ### Creating opportunities for shared ownership
 
-As a community-led project, we encourage a collaborative approach to develop a chapter, an iterative process that involves designing, outlining, writing, reviewing and editing its contents. 
+As a community-led project, we encourage a collaborative approach to develop a chapter -- an iterative process that involves designing, outlining, writing, reviewing and editing its contents. 
 Everyone who contributes substantially is named as authors on the book as a whole.
 This format of collaboration aims to avoid individual authorship in favour of establishing shared ownership and agency in this project. 
 Such collaborative efforts also lower the psychological barriers for the new contributors who can propose improvements in the book by editing, moving and adapting its content as the book grows.
@@ -36,7 +36,7 @@ The details for each contributor will be listed in the [CONTRIBUTORS](https://gi
 *Text fields are indicated by less than (<) and greater than (>) symbols with the prompt texts inside.
 Text fields should be replaced for each contributors with specific information about the contributors and their contributions.*
 
-## Pathway of contributions
+## Pathways of contributions
 
 There are multiple pathways to contribute to _The Turing Way_.
 Each contributor is acknowledged with their specific contributions using [all-contributors bot](https://github.com/all-contributors/all-contributors)'s [emoji keys](https://allcontributors.org/docs/en/emoji-key).
