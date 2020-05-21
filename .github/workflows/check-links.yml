@@ -18,10 +18,12 @@ jobs:
     - name: Checkout-repository
       uses: actions/checkout@v2
     # check links in html folder
-    - name: Check links
+    - name: Link checker
       uses: peter-evans/link-checker@v1
       with:
         args: book_skeleton.md
+    - name: Fail if there were link errors
+      run: exit ${{ steps.lc.outputs.exit_code }}
       # with:
       #   directory: "/book/website/_build/html"
       #   arguments: '--allow-hash-href \
