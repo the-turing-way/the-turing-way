@@ -798,22 +798,23 @@ This checklist also aims to help participants support the event organisers by be
 
 <a name="checklist-for-managing-and-participating-in-a-distributed-team"></a>
 ## Checklist for managing and participating in a distributed team
-Managing and participating in a distributed team can be difficult. This is the magic spell for increasing productivity and team happiness for a distributed team. 
 
 <a name="tips-for-all-the-members"></a>
 ### Tips for all the members
-- [ ] Be courteous and have realistic exceptations from your colleagues  
-- [ ] Complete the tasks assigned to you
-- [ ] Always speak up your doubt to have a clear perspective on the team goals
-- [ ] If not able to attend a corresponding online meeting, send apologies prior to the manager
-- [ ] Read meeting minutes prior and after the online meeting
-- [ ] Offer to help colleagues who you think might be struggling
+- [ ] Maintain regular and transparent communication with your managers and peers
+  - [ ] Learn about the communication platforms and opportunities in your team to get to know other members, their projects and expertise
+- [ ] Be considerate and flexible by setting realistic expectations when working with people in different time zones and personal situation such as caring responsibilities, health situations or physical ability
+- [ ] Send apologies beforehand if you are not able to attend an online or in-person team meeting
+- [ ] Review the meeting agenda and protocol before a meeting takes place and add any agenda point you need to discuss with your team
+- [ ] Review the meeting minutes afterwards to catch up on the discussions or clarify if something was misrecorded
+- [ ] Whenever you lack context (which is likely to happen), ask for clarification on a team chat system so others can fill you in and help you have a clear perspective on the team goals
+- [ ] Use the feedback and development process and workflow set by your team or organisation, or participate in developing them if they don't exist already
+- [ ] Hold accountability for the task assigned to you individually or as a team member
+- [ ] Engage with your team members regularly on communication channels formally and informally and offer support to your colleagues
 - [ ] Be transparent with ideas, take and share appropriate credits
 
 <a name="specific-tips-for-the-managers"></a>
 ### Specific tips for the managers
-<!---<details>
-  <summary>Click to expand</summary>--->
 
 - [ ] Clarify all Rules of Communication by relying on the Right Remote Work Tools according to the demands of the team:
   + [ ] Online Chatting Platforms like [Slack](https://slack.com/intl/en-in/),[Gitter](https://gitter.im),[Discord](https://discord.com/) or [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
@@ -845,14 +846,11 @@ Managing and participating in a distributed team can be difficult. This is the m
 - [ ] Avoid unintentional “tone” in your postings. If you have any doubt read your message out loud or have someone else read your message before you post
 - [ ] Follow [Netiquette](https://en.wikipedia.org/wiki/Etiquette_in_technology#Netiquette)
 
-
-
 <!---</details>--->
-
-
 
 <a name="bibliography"></a>
 ## Bibliography
 
 - The *Checklist for running a meeting* is a summarised version of the [Gallantries (Galaxy+The Carpentries handbook)](https://galaxy-carpentries.github.io/gallantries/handbook) which is an expanded version of [The Carpentries workshop checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html)
 - The *Checklist for running a longer event such as a conference or sprint* is a summarised version of the debrief document written by the [chairs of the 1st CarpentryCon conference](https://2018.carpentrycon.org/) organisation committee.
+- The checklist for the distributed team management is being developed using [Zapier's guide to working remotely](https://zapier.com/learn/remote-work)
