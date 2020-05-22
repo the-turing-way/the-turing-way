@@ -1,4 +1,4 @@
-name: CheckLinks
+name: CI
 
 # run on pushes and pull requests to master
 on:
@@ -14,14 +14,47 @@ jobs:
   check-links:
     runs-on: ubuntu-latest
     steps:
-    # checkout repository
     - name: Checkout-repository
       uses: actions/checkout@v2
-    # check links in html folder
-    - name: Link checker
-      id: lc
-      uses: peter-evans/link-checker@v1
+    - name: Setup Python 3.7
+      uses: actions/setup-python@v1
       with:
-        args: -d book/website -r book/website
-    - name: Fail if there were link errors
-      run: exit ${{ steps.lc.outputs.exit_code }}
+        python-version: 3.7
+    - name: Build Jupyter-Book
+      run: |
+        pip3 install --user -r ./book/website/requirements.txt
+        cd ./book/website
+        jupyter-book build .
+    - name: Run html proofer
+      uses: chabad360/htmlproofer@master
+      with: 
+        directory: ".book/website/_build/html/"
+        arguments: "
+        --allow-hash-href \
+        --assume-extension ./_site \
+        --url-ignore "/\/apple-touch*.*/,/\/images/logo/favicon.ico/,/#*/" \
+        --disable-external \
+        --only_4xx "
+
+      
+    # - name: Set up Node.js
+    #   uses: actions/setup-node@v1
+    # - name: Install remark-validate-links
+    #   run: npm install remark-validate-links
+    # - name: Run remark-validate-links
+    #   run: remark -u validate-links book/website/
+    
+    # check links in markdown folder
+    # - name: Markdown-link-check
+    #   uses: gaurav-nelson/github-action-markdown-link-check@v1
+    #   with:
+    #     use-quiet-mode: 'yes'
+    #     folder-path: book/website
+    #     file-extension
+    # - name: Link checker
+    #   id: lc
+    #   uses: peter-evans/link-checker@v1
+    #   with:
+    #     args: -d book/website -r book/website
+    # - name: Fail if there were link errors
+    #   run: exit ${{ steps.lc.outputs.exit_code }}
