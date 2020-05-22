@@ -171,6 +171,10 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
 - [![outreach](https://img.shields.io/badge/-Outreach-fcbae8.svg)][labels-outreach] _These issues relate to topics to reach out to the community._
 
+- [![good-first-PR-review](https://img.shields.io/badge/-good%20first%20PR%20review-C992E0.svg)](https://github.com/alan-turing-institute/the-turing-way/labels/good%20first%20PR%20reviews) _These pull requests are for the new maintainers of The Turing Way to start with reviewing and merging tasks_
+
+  If you are a new maintainer of The Turing way and are anxious about how to start reviewing and merging various contributions, these pull requests act as a great starting point for you to begin. Issues like small modifications, typo errors and minor bug fixes are resolved by these PRs which are easy to review as a beginner.
+
 - [![pr-draft](https://img.shields.io/badge/-PR%3A%20draft-6a737d.svg)][labels-pr-draft] _These issues relate to draft pull requests._
 
 - [![pr-merged](https://img.shields.io/badge/-PR%3A%20merged-6f42c1.svg)][labels-pr-merged] _These issues relate to pull requests that have been merged._
@@ -230,7 +234,7 @@ This allows other members of the Turing Way team to confirm that you aren't over
 
 [This blog](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/) is a nice explanation of why putting this work in up front is so useful to everyone involved.
 
-Remember, if you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/ISSUE_TEMPLATE.md).
+Remember, if you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/ISSUE_TEMPLATE/ISSUE_TEMPLATE.md).
 The issue template will automatically be rendered in the comment section of the new issue page so all you need to do is edit the "_Lorem ipsum_" sections.
 
 ### 2. [Fork][github-fork] the [Turing Way repository][turing-way-repo] to your profile
