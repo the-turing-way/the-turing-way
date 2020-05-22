@@ -1327,6 +1327,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "srishti-nema",
+      "name": "Srishti Nema",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/42498900?v=4",
+      "profile": "https://srishti-nema.github.io/",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
