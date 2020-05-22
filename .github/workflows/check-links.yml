@@ -29,9 +29,8 @@ jobs:
       uses: chabad360/htmlproofer@master
       with: 
         directory: ".book/website/_build/html/"
-        arguments: "
-        --allow-hash-href \
-        --assume-extension ./_site \
+        arguments: "--allow-hash-href \
+        --assume-extension \
         --url-ignore "/\/apple-touch*.*/,/\/images/logo/favicon.ico/,/#*/" \
         --disable-external \
         --only_4xx "
