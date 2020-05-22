@@ -141,11 +141,22 @@ emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
     - They can add constructive suggestions in the newsletter draft, add any missing item that they would like to highlight and approve the PR.
     - After the review process, each reviewer's name will be added under the special mentions section by the author.
     
-7. **Publication process**
+:mailbox_with_mail: Publication process
+---
+
+We are currently using [Tinyletter](tinyletter.com/) to publish our newsletters.
+TinyLetter is a subsidiary of [MailChimp](https://mailchimp.com/), that offers a simplified interface based free service for setting up an email newsletter and sharing newsltters with subscribers. 
+*(Learn to make your own newsletter [here](https://www.sitepoint.com/how-start-a-newsletter-in-minutes-with-tinyletter/).)*
 
     - Convert Markdown file to HTML for TinyLetter using  [browserling.com](https://www.browserling.com/tools/markdown-to-html) by copy-pasting the Markdown content to the text box in the web application and pressing "Convert to HTML button".
     - The HTML content of the _The Turing Way_ newsletter is published online via [TinyLetter](https://tinyletter.com/TuringWay/). 
     - _The Turing Way_ account in the TinyLetter is accessible by the project lead, who sends a preview version to _The Turing Way_ email (theturingway@gmail.com) to check if everything looks OK and that the errors are fixed.
     - Once confirmed for its format and content, the newsletter is sent to the registered members.
     - The [online newsletters](https://tinyletter.com/TuringWay/) are shareable by links and can be read by non-subscribed members as well.
+    
+ **It's published, now what?**:   
+ 
     - Update the index table in the [README.md file](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/README.md) with the details of the newly published newsletter.
+    - Tweet about it, tag [@turingway](https://twitter.com/turingway).
+    - Send a notification on [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
+    - Do a celebratory dance! (This is mandatory!) :dancers:
