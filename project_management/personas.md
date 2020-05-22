@@ -109,4 +109,4 @@ We have created these personas and pathways for contributors and users to help t
 - This personas.md file has remixed and reused material from the [Open Leadership Framework GitHub repository](https://github.com/mozilla/open-leadership-framework/blob/master/personas.md) shared at the [Mozilla Open Leadership training](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/), License: [CC-BY-SA](https://creativecommons.org/licenses/by/4.0/).
 
 *Git Log History*
-- The original draft was written by Rachael Ainsworth reviewed by Kirstie Whitaker and Malvika Sharan (the log history was lost/discontinued on GitHub in moving this file from one directory to other) - to see the full log please see the 'blame button' or use this git command `git log --follow -p -- project_management/personas.md`
+- The log history was lost/discontinued on GitHub in moving this file from one directory to other - to see the full log please see the 'blame button' or use this git command `git log --follow -p -- project_management/personas.md`
