@@ -81,7 +81,7 @@ emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
     - The project name, _The Turing Way_, should be italicised.
     - Use line breaks for each line consistent with _The Turing Way_ writing format.
     - Leave at least one line space after each section and subsection.
-- **Use of language**: Keep the overall language simple and jargon-free. 
+- **Language and tone**: Keep the overall language simple and jargon-free, see [_The Turing Way_ style guide](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#style-guide) for reference. 
     - The tone should be welcoming, friendly and preferably informal. 
     This can be personal to the author's writing style. 
     - Ask more than one person to review your draft to make sure that its content is clearly written. 
