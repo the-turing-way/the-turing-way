@@ -76,3 +76,4 @@ The [Docker documentation](https://docs.docker.com/get-started/) contains a lot 
 - [What are containers?](https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ) **CC BY-SA 4.0**
 - [Docker carpentry](http://www.manicstreetpreacher.co.uk/docker-carpentry/aio/) **Creative Commons Attribution 4.0**
 - [Geohackweek tutorial](https://geohackweek.github.io/Introductory/docker-tutorial_temp/) **Creative Commons Attribution 3.0 Unported**
+- [Nüst, D., Sochat, V., Marwick, B., Eglen, S., Head, T., & Hirst, T. (2020, April 17). Ten Simple Rules for Writing Dockerfiles for Reproducible Data Science, https://doi.org/10.31219/osf.io/fsd7t](https://github.com/nuest/ten-simple-rules-dockerfiles) **Creative Commons Attribution 4.0 International**
