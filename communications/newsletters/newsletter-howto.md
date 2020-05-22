@@ -67,7 +67,7 @@ emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
 - **Dates**: "DD Month YYYY" format
     - use it consistently in the entire document
     - To reflect a range, use "from DD to DD Month YYYY" format.
-    - Even if the sentences have reference to a day in "yesterday", "today" or "tomorrow", provide the exact data inside parenthesis so that it still makes sense if someone reads a newsletter in the future.
+    - Even if the sentences have reference to a day in "yesterday", "today" or "tomorrow", provide the exact date inside parenthesis so that it still makes sense if someone reads a newsletter in the future.
 - **Time**: Use time in [Greenwich Mean Time](https://greenwichmeantime.com/what-is-gmt/) (GMT) or [British Summer Time](https://greenwichmeantime.com/uk/time/british-summer-time/) (BST), followed by a link from [arewemeetingyet.com](https://arewemeetingyet.com/#form) to check time in relative time zones
 - **Links**: Use the Markdown formatting for link like this, `[text that needs to be linked](full http link)`
     - Provide links wherever useful, for example [HackMD for Collaboration Café](https://hackmd.io/@KirstieJane/CollabCafe), [GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues), [registration pages](https://www.eventbrite.co.uk/) and [see details](https://github.com/alan-turing-institute/the-turing-way).
@@ -75,10 +75,11 @@ emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
 - **Quoting others**: Use smaller than (>) symbol followed by a space before the quoted sentence. For example:
     `> This is my legendary quote.` will appear as:
     > This is my legendary quote.
-- **Header and writing style**: The newsletter title is the top header and the project name _The Turing Way_ should be italicised.
-    - Use line break for each line consistent with _The Turing Way_ format.
+- **Header and styling**: The newsletter title is the top header. 
     - Different sections as suggested in the newsletters are second-level headers and the sub-sections are third-level headers.
     - Use bold letters, italics, hyperlinked texts and quotations wherever applicable
+    - The project name, _The Turing Way_, should be italicised.
+    - Use line breaks for each line consistent with _The Turing Way_ writing format.
     - Leave at least one line space after each section and subsection.
 - **Use of language**: Keep the overall language simple and jargon-free. 
     - The tone should be welcoming, friendly and preferably informal. This can be personal to the author's writing style. 
