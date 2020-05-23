@@ -11,7 +11,7 @@ on:
 
 # run job
 jobs:
-  build jb and check-links:
+  build-jb-and-check-links:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout-repository
