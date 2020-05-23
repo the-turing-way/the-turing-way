@@ -11,7 +11,7 @@ on:
 
 # run job
 jobs:
-  check-links:
+  build jb and check-links:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout-repository
@@ -30,12 +30,12 @@ jobs:
         jupyter-book build .
     - name: Print directory (TEST)
       run: |
-        cd home/runner/work/the-turing-way/the-turing-way/book/website/_build/html
+        cd ./book/website/_build/html
         ls
     - name: Run html proofer
       uses: chabad360/htmlproofer@master
       with: 
-        directory: "home/runner/work/the-turing-way/the-turing-way/book/website/_build/html"
+        directory: ./book/website/_build/html
         arguments: --allow-hash-href --assume-extension --disable-external --only_4xx
 
       
