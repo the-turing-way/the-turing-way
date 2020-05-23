@@ -31,5 +31,5 @@ jobs:
     - name: Run html proofer
       uses: chabad360/htmlproofer@master
       with: 
-        directory: ./book/website/_build/html
-        arguments: --assume-extension --disable-external --only_4xx --allow-hash-href true
+        directory: "./book/website/_build/html"
+        arguments: --assume-extension --disable-external --only_4xx --allow-hash-href
