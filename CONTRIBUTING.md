@@ -171,7 +171,7 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
 - [![outreach](https://img.shields.io/badge/-Outreach-fcbae8.svg)][labels-outreach] _These issues relate to topics to reach out to the community._
 
-- [![good-first-PR-review](https://img.shields.io/badge/-good%20first%20PR%20review-C992E0.svg)](https://github.com/alan-turing-institute/the-turing-way/labels/good%20first%20PR%20reviews) _These pull requests are for the new maintainers of The Turing Way to start with reviewing and merging tasks_
+- [![good-first-PR-review](https://img.shields.io/badge/-good%20first%20PR%20review-C992E0.svg)] These pull requests are for the new members of The Turing Way community who want to start with reviewing and approving some simple pull requests._
 
   If you are a new member of The Turing way and are looking for opportunities to start as a reviewer of contributions made on our Github repository, these pull requests are a great starting point for you. Issues like small modifications, typo errors and minor bug fixes are resolved by these PRs which are easy to review as a beginner.
 
