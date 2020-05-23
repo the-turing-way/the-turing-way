@@ -29,6 +29,7 @@ jobs:
         cd ./book/website
         jupyter-book build .
     - name: Print directory (TEST)
+      run: |
         cd home/runner/work/the-turing-way/the-turing-way/book/website/_build/html
         ls
     - name: Run html proofer
