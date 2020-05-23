@@ -33,4 +33,3 @@ jobs:
       with: 
         directory: "./book/website/_build/html"
         arguments: --assume-extension --disable-external --only_4xx
-#--allow-hash-href
