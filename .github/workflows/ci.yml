@@ -28,10 +28,13 @@ jobs:
       run: |
         cd ./book/website
         jupyter-book build .
+    - name: Print directory (TEST)
+        cd home/runner/work/the-turing-way/the-turing-way/book/website/_build/html
+        ls
     - name: Run html proofer
       uses: chabad360/htmlproofer@master
       with: 
-        directory: ".book/website/_build/html/"
+        directory: "home/runner/work/the-turing-way/the-turing-way/book/website/_build/html"
         arguments: --allow-hash-href --assume-extension --disable-external --only_4xx
 
       
