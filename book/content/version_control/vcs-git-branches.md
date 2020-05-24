@@ -8,7 +8,7 @@ If everyone starts to work on the master branch simultaneously, it will cause a 
 
 Git branches are extremely valuable when addressing any of those issues.
 For every Git project, by default, you have one branch called 'master' where all commits are recorded.
-Branching feature in Git allows us to create a copy of a project that we can work on and continue to make commits to without reflecting them on the master branch.
+The branching feature of Git allows us to create a copy of a project that we can work on and continue to make commits to without integrating them into the master branch right away.
 Meanwhile, one can continue to make commits on the master branch, which is untouched by the changes made on other branches.
 Once you are happy with whatever you were working on on a branch you can merge it into your master branch (or indeed any other branch).
 Merging will be covered in the [next section](#merging).
