@@ -1,8 +1,6 @@
 ## The Git Merge command
 
-Once you've finished up some work on a branch and you're are ready to integrate it to your main project (or any other branch).
-
-Merge the branch that you worked on into the master branch or any other target branch of your interest.
+Once you've finished up some work on a branch and you're are ready to integrate it to your main project (or any other branch) you can merge the branch that you worked on into the master branch or any other target branch of your interest.
 You can also use merging to combine work that other people have done with your own and vice versa.
 
 To merge a branch, branch_A, into another branch, branch_B, switch to branch_A via:
@@ -90,7 +88,7 @@ So in this project, the users may decide in favour of one `hello world` over ano
 print('Hello World!!!')
 ```
 
-Once you have fixed the conflicts commit the new version.
+Once you have fixed the conflicts, commit the new version.
 You have now resolved the conflict.
 If, during the process, you need a reminder of which files the conflicts are in you can use `git status` to find out.
 
@@ -121,6 +119,6 @@ and launch it with:
 git mergetool
 ```
 
-Fundamentally the best way to deal with merge conflicts is to, so far as is possible, try to avoid them in the first place.
+Fundamentally, the best way to deal with merge conflicts is, as far as it is possible, to try to avoid them in the first place.
 You can improve your odds on this by keeping branches clean and focused on a single issue and involving as few files as possible.
 Before merging make sure you know what's in both branches, and if you are not the only one that has worked on the branches then keep the lines of communication open so you are all aware of what the others are doing.

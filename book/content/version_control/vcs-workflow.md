@@ -7,7 +7,7 @@ A typical procedure for using version control is as follows:
 2. Work on these files, by changing, deleting or adding new content.
 3. Create a snapshot of the file status (also known as version) at this time.
 
-This process of creating a snapshot, which is described differently in different version control software.
+This process of creating a snapshot is described differently in different version control software.
 For example, Git describes it as "a commit", a few systems call it "a timepoint" or "a checkpoint", and this is simply referred to as "saving your work" in other cases such as in [Google docs](https://docs.google.com/) or [HackMD](http://hackmd.io/).
 
 As you keep saving your work by adding changes, you make more and more snapshots.
@@ -23,7 +23,7 @@ These comments should be clear and concise to make it easy to understand what ch
 This ensures that it is easy to find what you are looking for when you need to go back to a past version.
 Your collaborators will thank you, but so will future versions of yourself.
 
-### Other features offered by version control
+### Non-linear development of your project with "branches"
 
 So you have your project and you want to add something new or try something out before reflecting the changes in the main project folder.
 To add something new, you can continue editing your files and save changes with the proposed changes.
@@ -45,6 +45,7 @@ If you want you can even create branches off of branches (and branches off of th
 ![sub_branch](../../figures/sub_branch.png)
 
 No matter how many branches you have you can access past versions you made on any of them.
+If you are curious to know how to use this feature in practice, you will find more details a few sections ahead.
 
 ## Why should you use version control?
 
@@ -57,4 +58,4 @@ Similarly, with version control there is no need to leave chunks of code comment
 
 Finally, version control is invaluable for collaborative projects where different people work on the same code simultaneously and build on our work.
 It allows the changes made by different people to be tracked, and can automatically combine people's work while saving a great deal of painstaking effort to do so manually.
-Moreover, version control hosting websites, such as GitHub, provides a way to communicate in a more structured way, such as in code reviews, about commits and about issues.
+Moreover, version control hosting services such as GitHub provide a way to communicate and collaborate in a more structured way, such as in pull requests, code reviews, and issues.

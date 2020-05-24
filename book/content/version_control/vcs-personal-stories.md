@@ -52,8 +52,7 @@ I can share my analysis on GitHub and can have data, code, and even software
 environments all together, to allow others to reproduce my results, and I find
 that to be a very powerful feature.
 
-**Kirstie**: And as a part of the DataLad team, how do you contribute to the s
-oftware?
+**Kirstie**: And as a part of the DataLad team, how do you contribute to the software?
 
 **Adina**: My main motivation is to make the software accessible for users of all
 backgrounds.
@@ -95,4 +94,3 @@ where people can find out more, if they want?
 Its meant to be an accessible, code-along tutorial, that is suitable to
 researchers independent of background - I think you shouldn't have to be a
 Linux-crank or computer scientist to version control data.
-

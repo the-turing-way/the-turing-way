@@ -2,14 +2,19 @@
 
 As research becomes increasingly collaborative and multiple people work on the same project, it becomes difficult to keep track of changes made by others if not done systematically.
 Moreover, it is time-consuming to manually incorporate the work of different participants in a project, even when all of their changes are compatible.
-Hosting the project on an online distributed version control system like GitHub is beneficial to make collaborations open and effective.
+Hosting the project on an online repository hosting service like GitHub is beneficial to make collaborations open and effective.
 If you are new to collaboration through [GitHub](https://github.com), please follow a comprehensive guide in the collaboration section.
 
 In this section we will discuss how to use Git commands to work on GitHub repository.
 
 ### Create a local copy of an online repository
 
-There are some GitHub features that can be accessed via command-line Git tool.
+So far, all Git commands introduced in this chapter concerned local, unconnected Git repositories.
+In order to collaborate with others, hosting services such as GitHub can store a *clone* (i.e., copy) of your local repository and expose it to others. 
+Usually, you will have a local repository and a *remote*, web-hosted repository. 
+Your local repository is connected to the web-based clone. 
+In technical terms, the web-based clone is a `remote` of the local repository. Usually, this remote is called "origin".
+Having a web-based remote allows you to *push* changes of your project online, allows others to obtain their own clone of your repository (i.e., copy your repository to their local computer), make changes, and submit a *pull request* that allows you to integrate their changes.
 For example, one can create an independent local copy of the project using the following Git command:
 
 ```
@@ -35,7 +40,7 @@ git init
 git add .
 git commit
 ```
-Assuming that you have a GitHub repository that you want want to commect with this project, run the following command
+Assuming that you have a GitHub repository that you want want to connect with this project, run the following command
 
 ```
 git remote add origin <GitHub repository link for your project>
@@ -47,7 +52,7 @@ Then, *push* all the files on your computer to the online version so they match 
 git push -u origin master
 ```
 
-You can the go on and make more commits on your computer.
+You can then go on and make more commits on your computer.
 When you want to push them to your online version similarly you do:
 
 ```
@@ -77,7 +82,7 @@ If you are working on a personal branch and meanwhile if some other changes were
 git pull origin master
 ```
 
-When everyone's has a copy of the project on their personal branch (checkout to your branch with `git checkout branch-name`), they can *push* their changes to their branch by using the following command:
+When everyone has a copy of the project on their personal branch (checkout your branch with `git checkout branch-name`), they can *push* their changes to their branch by using the following command:
 
 ```
 git push origin branch-name
@@ -175,8 +180,8 @@ Now you can make a pull request!
 
 Before you create a branch, make sure you have all the upstream changes from the origin/master branch.
 
-Word of caution on `rebase` command: While trying to keep your branches in sync, you may come across `rebase` command.
-It tends to rewrite history and could be troublesome if not communicated with others working on the same branch, therefore try to avoid using `rebase` command, and instead use `pull` or `fetch`+`merge` as discussed in this sectoon.
+A word of caution on the `rebase` command: While trying to keep your branches in sync, you may come across `rebase` command.
+It tends to rewrite history and could be troublesome if not communicated with others working on the same branch, therefore try to avoid using `rebase` command, and instead use `pull` or `fetch`+`merge` as discussed in this section.
 You can find more details about Merging vs Rebasing [here](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
 #### Further reading

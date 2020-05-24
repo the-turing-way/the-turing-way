@@ -1,6 +1,6 @@
 ## Git commit command and commit messages
 
-Every time you 'add' files (new files or existing files with some changes) and 'commit' those in your Git repository, you create a version of your project that are stored in your project history that can be accessed any time.
+Every time you 'add' changes (new files or existing files with some changes) and 'commit' those in your Git repository, you create a version of your project that is stored in your project history and can be accessed any time.
 
 To commit changes with a meaning statement about changes made in a version, use `git commit` with a `-m` (m for message) flag:
 
@@ -39,7 +39,7 @@ Creating insightful and descriptive commit messages is one of the best things yo
 It lets people (and your future self when you have long since forgotten what you were doing and why) quickly understand what updates a commit contains without having to carefully read code and waste time figuring it out.
 Good commit messages improve your code quality by drastically reducing wrong assumptions by people on why certain changes were made.
 
-When you commit via `git commit`, a field appears (either within the terminal or in a text editor) where a commit message can be written.
+When you commit via `git commit` (i.e., without the `-m`/`--message` option), a field appears (either within the terminal or in a text editor) where a commit message can be written.
 You can write a meaningful statement and save (and close if writing the message via text editor).
 You can set your preferred editor as the default by running a statement like this:
 
