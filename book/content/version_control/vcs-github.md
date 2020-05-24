@@ -77,7 +77,7 @@ If you are working on a personal branch and meanwhile if some other changes were
 git pull origin master
 ```
 
-When everyone's has a copy of the project on their personal branch (checkout to your branch with `git checkout branch-name`), they can *push* their changes to their branch by using the following command:
+When everyone has a copy of the project on their personal branch (checkout your branch with `git checkout branch-name`), they can *push* their changes to their branch by using the following command:
 
 ```
 git push origin branch-name
