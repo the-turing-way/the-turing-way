@@ -9,7 +9,12 @@ In this section we will discuss how to use Git commands to work on GitHub reposi
 
 ### Create a local copy of an online repository
 
-There are some GitHub features that can be accessed via command-line Git tool.
+So far, all Git commands introduced in this chapter concerned local, unconnected Git repositories.
+In order to collaborate with others, hosting services such as GitHub can store a *clone* (i.e., copy) of your local repository and expose it to others. 
+Usually, you will have a local repository and a *remote*, web-hosted repository. 
+Your local repository is connected to the web-based clone. 
+In technical terms, the web-based clone is a `remote` of the local repository. Usually, this remote is called "origin".
+Having a web-based remote allows you to *push* changes of your project online, allows others to obtain their own clone of your repository (i.e., copy your repository to their local computer), make changes, and submit a *pull request* that allows you to integrate their changes.
 For example, one can create an independent local copy of the project using the following Git command:
 
 ```
