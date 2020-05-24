@@ -1,6 +1,6 @@
 ## Git commit command and commit messages
 
-Every time you 'add' files (new files or existing files with some changes) and 'commit' those in your Git repository, you create a version of your project that are stored in your project history that can be accessed any time.
+Every time you 'add' changes (new files or existing files with some changes) and 'commit' those in your Git repository, you create a version of your project that is stored in your project history and can be accessed any time.
 
 To commit changes with a meaning statement about changes made in a version, use `git commit` with a `-m` (m for message) flag:
 
