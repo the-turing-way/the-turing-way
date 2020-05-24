@@ -305,6 +305,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.turing.ac.uk/people/doctoral-students/ferran-gonzalez-hernandez"><img src="https://avatars0.githubusercontent.com/u/43019129?v=4" width="100px;" alt=""/><br /><sub><b>Ferran Gonzalez Hernandez</b></sub></a><br /><a href="#ideas-fgh95" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/alessandroragano"><img src="https://avatars3.githubusercontent.com/u/44505487?v=4" width="100px;" alt=""/><br /><sub><b>alessandroragano</b></sub></a><br /><a href="#ideas-alessandroragano" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/daniguariso"><img src="https://avatars3.githubusercontent.com/u/40636435?v=4" width="100px;" alt=""/><br /><sub><b>daniguariso</b></sub></a><br /><a href="#ideas-daniguariso" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/kgrieman"><img src="https://avatars0.githubusercontent.com/u/55785990?v=4" width="100px;" alt=""/><br /><sub><b>kgrieman</b></sub></a><br /><a href="#ideas-kgrieman" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
