@@ -90,3 +90,7 @@ Further paragraphs come after blank lines.
     preceded by a single space, with blank lines in
     between, but conventions vary here
 ```
+### Git commit: Summary
+
+By committing your changes throughout the development of your project in meaningful units with descriptive and clear commit messages, you can create an easily understandable history.
+This will help you and others to understand the progress of your work, and, as the next section will demonstrate, it will also make it easy to view past versions of your history or revert changes you have made.
