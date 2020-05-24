@@ -3,7 +3,7 @@
 - If you add a new feature to your project you run the risk of accidentally breaking your working code as you test the feature.
 This would cause unexpected issues for active users of your project, even if the only active user is you.
 - The other problem can appear when you collaborate with others.
-If everyone starts to work on the master branch simultaneously, it will cause a lot of confusion.
+If everyone starts to work on the master branch simultaneously, it will cause a lot of confusion or conflicting changes.
 - Some code/feature might not be interesting for everyone and there needs to be a way to allow new work to be done on a project whilst protecting work that has already been done.
 
 Git branches as extremely valuable when addressing any of those issues.
