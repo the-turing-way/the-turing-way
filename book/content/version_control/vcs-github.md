@@ -2,7 +2,7 @@
 
 As research becomes increasingly collaborative and multiple people work on the same project, it becomes difficult to keep track of changes made by others if not done systematically.
 Moreover, it is time-consuming to manually incorporate the work of different participants in a project, even when all of their changes are compatible.
-Hosting the project on an online distributed version control system like GitHub is beneficial to make collaborations open and effective.
+Hosting the project on an online repository hosting service like GitHub is beneficial to make collaborations open and effective.
 If you are new to collaboration through [GitHub](https://github.com), please follow a comprehensive guide in the collaboration section.
 
 In this section we will discuss how to use Git commands to work on GitHub repository.
