@@ -181,7 +181,7 @@ Now you can make a pull request!
 Before you create a branch, make sure you have all the upstream changes from the origin/master branch.
 
 A word of caution on the `rebase` command: While trying to keep your branches in sync, you may come across `rebase` command.
-It tends to rewrite history and could be troublesome if not communicated with others working on the same branch, therefore try to avoid using `rebase` command, and instead use `pull` or `fetch`+`merge` as discussed in this sectoon.
+It tends to rewrite history and could be troublesome if not communicated with others working on the same branch, therefore try to avoid using `rebase` command, and instead use `pull` or `fetch`+`merge` as discussed in this section.
 You can find more details about Merging vs Rebasing [here](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
 #### Further reading
