@@ -40,7 +40,7 @@ git init
 git add .
 git commit
 ```
-Assuming that you have a GitHub repository that you want want to commect with this project, run the following command
+Assuming that you have a GitHub repository that you want want to connect with this project, run the following command
 
 ```
 git remote add origin <GitHub repository link for your project>
