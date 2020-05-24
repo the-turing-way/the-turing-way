@@ -57,4 +57,4 @@ Similarly, with version control there is no need to leave chunks of code comment
 
 Finally, version control is invaluable for collaborative projects where different people work on the same code simultaneously and build on our work.
 It allows the changes made by different people to be tracked, and can automatically combine people's work while saving a great deal of painstaking effort to do so manually.
-Moreover, version control hosting websites, such as GitHub, provides a way to communicate in a more structured way, such as in code reviews, about commits and about issues.
+Moreover, version control hosting services such as GitHub provide a way to communicate and collaborate in a more structured way, such as in pull requests, code reviews, and issues.
