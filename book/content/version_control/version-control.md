@@ -24,7 +24,7 @@ Advanced version control systems (VCS) such as [Git](https://en.wikipedia.org/wi
 
 This chapter aims to cover the general principles underpinning all the advanced version control systems and best practice which applies for all such systems.
 We discuss many tools and features, however, we encourage readers to use features that are useful for their work and tools they are comfortable with.
-Most instructions given in this chapter will also be geared towards Git, which is most commonly used by researchers, and its web-based version, [GitHub](https://github.com/), which facilitate online collaborations.
+Most instructions given in this chapter will also be geared towards Git, which is most commonly used by researchers, and a web-based Git repository hosting service, [GitHub](https://github.com/), which facilitates online collaborations.
 
 Later in this chapter, we also discuss version control for data, which is applied to keep track of revisions of large amounts of data, especially when working collaboratively.
 It is useful to know that data can be volatile and versioning them can improve the reproducibility of your scientific analyses.
