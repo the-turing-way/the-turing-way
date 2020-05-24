@@ -15,7 +15,7 @@ git log
 ```
 
 In the log report on your terminal, you'll see that each version is automatically tagged with a unique string of numbers and letters, called an SHA.
-You can access and compare different version by using their corresponding SHA.
+You can access and compare different versions by using their corresponding SHA.
 
 ## More on the commit messages
 
