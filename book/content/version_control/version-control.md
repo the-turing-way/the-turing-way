@@ -19,7 +19,7 @@ For example, when writing a paper with multiple collaborators, version control c
 Different version control systems can be used through a desktop, web browser-based applications or command-line tools.
 We have all seen a simple file versioning approach where different versions of a file are stored with a different name.
 Tools such as Google Drive and Dropbox offer platform to collaboratively update files and share them with others in real-time.
-More sophisticated version control system exists within the tools like [Google docs](https://docs.google.com/) or [HackMD](http://hackmd.io/) which allows collaborators to update files simultaneously while storing each version in its version history (we will discuss this in detail).
+More sophisticated version control system exists within tools like [Google docs](https://docs.google.com/) or [HackMD](http://hackmd.io/) which allow collaborators to update files simultaneously while storing each version in its version history (we will discuss this in detail).
 Advanced version control systems (VCS) such as [Git](https://en.wikipedia.org/wiki/Git), [Mercurial](https://www.mercurial-scm.org/) and [SVN](https://subversion.apache.org/) provide much more powerful tools.
 
 This chapter aims to cover the general principles underpinning all the advanced version control systems and best practice which applies for all such systems.
