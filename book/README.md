@@ -60,7 +60,7 @@ Now you can use the `jupyter-book build .` command inside `book/website` directo
 
 _The Turing Way_ book is built and deployed online using [Netlify](https://www.netlify.com/).
 
-If you want to deploy the book on Netlify, you'll just need the following settings:
+If you want to deploy the book on Netlify, you'll need the following settings:
 
 - Base directory: `book/website`
 - Build command: `pip install -r requirements.txt && jupyter-book build .`
@@ -74,7 +74,7 @@ You can find the build history or logs for _The Turing Way_ at https://app.netli
 
 Templates for different types of content can be created in the `templates` directory.
 
-Templates include:
+As of now, the template section includes:
 * `case-study-template.ipynb` a template for including interactive case studies in the book
 
 The template can be copied to create content relevant to a chapter in the `content` directory.
