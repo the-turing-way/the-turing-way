@@ -23,7 +23,7 @@ These comments should be clear and concise to make it easy to understand what ch
 This ensures that it is easy to find what you are looking for when you need to go back to a past version.
 Your collaborators will thank you, but so will future versions of yourself.
 
-### Other features offered by version control
+### Non-linear development of your project with "branches"
 
 So you have your project and you want to add something new or try something out before reflecting the changes in the main project folder.
 To add something new, you can continue editing your files and save changes with the proposed changes.
