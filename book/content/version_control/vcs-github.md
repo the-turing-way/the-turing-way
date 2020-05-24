@@ -1,11 +1,16 @@
-## Using Git commands to work on GitHub
+## Using Git commands to work on Git repositories online
 
 As research becomes increasingly collaborative and multiple people work on the same project, it becomes difficult to keep track of changes made by others if not done systematically.
 Moreover, it is time-consuming to manually incorporate the work of different participants in a project, even when all of their changes are compatible.
 Hosting the project on an online repository hosting service like GitHub is beneficial to make collaborations open and effective.
 If you are new to collaboration through [GitHub](https://github.com), please follow a comprehensive guide in the collaboration section.
 
-In this section we will discuss how to use Git commands to work on GitHub repository.
+In this section we will discuss how to use Git commands to work with online Git repository.
+
+Please note that the commands listed in this chapter (both in the previous and this subchapter) are NOT specific to GitHub. 
+They are used for collaborative work on any Git repositories and to interact with any repository hosting site/servers, which can be [GitHub](https://github.com/), but also [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) or a [self-set-up bare Git repository on a web server](https://opensource.com/life/16/8/how-construct-your-own-git-server-part-6). 
+
+For simplicity purpose, we will use GitHub as an example to explain commands that are used for interacting with Git repositories.
 
 ### Create a local copy of an online repository
 
