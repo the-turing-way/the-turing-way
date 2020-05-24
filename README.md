@@ -11,7 +11,7 @@
 
 | Test | Status |
 | :--- | :--- |
-| Netlify build | [![Build Status](https://img.shields.io/travis/alan-turing-institute/the-turing-way/master?logo=travis)](https://travis-ci.org/alan-turing-institute/the-turing-way) |
+| Netlify build | ![CI](https://github.com/alan-turing-institute/the-turing-way/workflows/CI/badge.svg) |
 | No Latin Phrases | ![NoBadLatin](https://github.com/alan-turing-institute/the-turing-way/workflows/NoBadLatin/badge.svg) |
 | No Large Files | ![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg) |
 | No "_Lorem Ipsum_"s | ![LoremIpsums](https://github.com/alan-turing-institute/the-turing-way/workflows/LoremIpsums/badge.svg) |
