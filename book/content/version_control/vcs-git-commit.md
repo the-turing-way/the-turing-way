@@ -15,8 +15,18 @@ git log
 ```
 
 In the log report on your terminal, you'll see that each version is automatically tagged with a unique string of numbers and letters, called an SHA.
-You can access and compare different version by using their corresponding SHA.
+You can identify, access and compare different versions by using their corresponding SHA.
+Here is an example of a commit in the Git log:
+The SHA is in the very first line, and apart from this SHA, the log also contains information on the date, time, and author of the change as well as the commit message ("minor typo fix").
 
+```
+commit 0346c937d0c451f6c622c5800a46f9e9e1c2b035
+Author: Malvika Sharan <some@email.com>
+Date:   Wed May 6 18:22:40 2020 +0100
+
+    minor typo fix
+
+```
 ## More on the commit messages
 
 As you work on your project you will make more and more commits.
