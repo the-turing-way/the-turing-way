@@ -16,7 +16,7 @@ In this chapter, we discuss the best practices that are relevant regardless of t
 This practice mainly comes from managing changes in the code repositories, but in reality, you can use version control for nearly any type of file on a computer.
 For example, when writing a paper with multiple collaborators, version control can help track what changed, who changed them and what updates were made.
 
-Different version control systems can be used through a desktop, web browser-based applications or command-line tools.
+Different version control systems can be used through a program with a graphical user interface, web browser-based applications or command-line tools.
 We have all seen a simple file versioning approach where different versions of a file are stored with a different name.
 Tools such as Google Drive and Dropbox offer platform to collaboratively update files and share them with others in real-time.
 More sophisticated version control system exists within tools like [Google docs](https://docs.google.com/) or [HackMD](http://hackmd.io/) which allow collaborators to update files simultaneously while storing each version in its version history (we will discuss this in detail).
