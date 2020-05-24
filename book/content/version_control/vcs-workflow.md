@@ -45,6 +45,7 @@ If you want you can even create branches off of branches (and branches off of th
 ![sub_branch](../../figures/sub_branch.png)
 
 No matter how many branches you have you can access past versions you made on any of them.
+If you are curious to know how to use this feature in practice, you will find more details a few sections ahead.
 
 ## Why should you use version control?
 
