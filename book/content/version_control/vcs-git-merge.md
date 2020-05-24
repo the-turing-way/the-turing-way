@@ -88,7 +88,7 @@ So in this project, the users may decide in favour of one `hello world` over ano
 print('Hello World!!!')
 ```
 
-Once you have fixed the conflicts commit the new version.
+Once you have fixed the conflicts, commit the new version.
 You have now resolved the conflict.
 If, during the process, you need a reminder of which files the conflicts are in you can use `git status` to find out.
 
