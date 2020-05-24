@@ -6,7 +6,7 @@ This would cause unexpected issues for active users of your project, even if the
 If everyone starts to work on the master branch simultaneously, it will cause a lot of confusion or conflicting changes.
 - Some code/feature might not be interesting for everyone and there needs to be a way to allow new work to be done on a project whilst protecting work that has already been done.
 
-Git branches as extremely valuable when addressing any of those issues.
+Git branches are extremely valuable when addressing any of those issues.
 For every Git project, by default, you have one branch called 'master' where all commits are recorded.
 Branching feature in Git allows us to create a copy of a project that we can work on and continue to make commits to without reflecting them on the master branch.
 Meanwhile, one can continue to make commits on the master branch, which is untouched by the changes made on other branches.
