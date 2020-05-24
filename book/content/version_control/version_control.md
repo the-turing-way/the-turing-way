@@ -29,7 +29,7 @@ This process is often informal and haphazard, where multiple revisions of papers
 As authors receive new data and feedback from peers and collaborators, maintaining those versions and merging changes can result in an unmanageable proliferation of files.
 It is also incredibly error prone.
 It is easy to forget what different files contain, or to copy over files you do not mean to.
-This leads to a great deal of time wasted on figuring out what files contain and reproducing accidently overwritten files.
+This leads to a great deal of time wasted on figuring out what files contain and reproducing accidentally overwritten files.
 
 One solution to these problems would be to use a formal Version Control System (VCS).
 A formal version is often a better solution than the lightweight version control that is often provided by text editing software packages.

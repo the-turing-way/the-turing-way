@@ -58,7 +58,7 @@ Using a code quality service that integrates with a GitHub/GitLab repository is 
 
 Code quality analysis services are websites that often offer the following features:
 
-- Automaticly analyse your code after pushing it to GitHub/GitLab
+- Automatically analyse your code after pushing it to GitHub/GitLab
 - Usually free for open source projects
 - Support multiple programming languages, but not every language will have the same level of features
 - Grade or score for the quality of all of the code in the repository
