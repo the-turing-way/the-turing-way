@@ -58,7 +58,30 @@
   - title: Resources
     url: /open_research/07/resources
 - title: Version Control
-  url: /version_control/version_control
+  url: /version_control/version-control
+  sections:
+  - title: General Workflow
+    url: /version_control/vcs-workflow
+  - title: Getting Started with Git
+    url: /version_control/vcs-git
+  - title: Git commit command
+    url: /version_control/vcs-git-commit
+  - title: Retrieving and comparing versions
+    url: /version_control/vcs-git-compare
+  - title: Git branches
+    url: /version_control/vcs-git-branches
+  - title: Merging branches in Git
+    url: /version_control/vcs-git-merge
+  - title: Git commands to work on GitHub
+    url: /version_control/vcs-github
+  - title: Summary table of Git commands
+    url: /version_control/vcs-git-summary
+  - title: Version control for data
+    url: /version_control/vcs-data
+  - title: Personal stories
+    url: /version_control/vcs-personal-stories
+  - title: Checklist and resources
+    url: /version_control/vcs-checklist
 - title: Licensing
   url: /licensing/licensing
   sections:
