@@ -52,7 +52,7 @@ Then, *push* all the files on your computer to the online version so they match 
 git push -u origin master
 ```
 
-You can the go on and make more commits on your computer.
+You can then go on and make more commits on your computer.
 When you want to push them to your online version similarly you do:
 
 ```
