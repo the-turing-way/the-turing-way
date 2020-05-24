@@ -26,7 +26,7 @@ If a lot of different changes to your project are all committed together, it can
 
 It is good practice to **specify the files to be committed**, that is, adding files to the staging area by name (`git add your_file_name`) rather than adding everything (`git add .`).
 This prevents you from unintentionally bundling different changes together, for example, if you have made a change to file A while primarily working on file B you may have forgotten this when you go to commit, and with `git add .` file A would be brought along for the ride.
-
+If there are several *unrelated* changes that should not be added together in a *single* file, `git add -p your_file_name` will let you interactively chose which changes to add.
 That said, **you do not necessarily need to do per-file commits** when working on multiple files but for one single problem.
 For example, if we add a figure to this chapter here, let's choose something to catch the attention of someone skimming through:
 
