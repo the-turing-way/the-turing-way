@@ -12,6 +12,7 @@
 | change_stage_repo          | Version control           | Cartoon showing staging and committing changes    |
 | community                  | Introduction              | Illustration depicting Turing Way community       |
 | container_example          | Reproducible environments | Demo of a simple container in terminal            |
+| distributed-collaboration  | Remote Collaboration      | Illustration on distributed collaboration         |
 | docker_official_image      | Reproducible environments | The official ubuntu docker image with badge       |
 | eyeball_test_1             | Testing                   | Results tested by seeing if they 'look right'     |
 | eyeball_test_2             | Testing                   | Results tested by seeing if they 'look right'     |

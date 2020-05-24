@@ -154,6 +154,27 @@
     url: /risk_assessment/02/finalsummary
 - title: BinderHub
   url: /binderhub/binderhub
+- title: Remote Collaboration
+  url: /remote_collaboration/remote_collaboration
+  sections:
+  - title: Bootstrapping an Online Community
+    url: /remote_collaboration/bootstrapping/bootstrapping
+  - title: Establishing Protocols
+    url: /remote_collaboration/protocols/protocols
+  - title: Managing Resources
+    url: /remote_collaboration/resources/resources
+  - title: Tool Choices
+    url: /remote_collaboration/tools/tools
+  - title: Leadership and Management
+    url: /remote_collaboration/management/management
+  - title: Well-being of your members 
+    url: /remote_collaboration/wellbeing/wellbeing
+  - title: Case Studies
+    url: /remote_collaboration/casestudies/casestudies
+  - title: Perceived Pros and Cons
+    url: /remote_collaboration/prosandcons/prosandcons
+  - title: Checklist of checklists
+    url: /remote_collaboration/checklist/checklist
 - title: "Personal Experience: Diving into Leadership"
   url: /diving_into_leadership/diving_into_leadership
 - title: Glossary
