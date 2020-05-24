@@ -13,7 +13,7 @@ Meanwhile, one can continue to make commits on the master branch, which is untou
 Once you are happy with whatever you were working on on a branch you can merge it into your master branch (or indeed any other branch).
 Merging will be covered in the [next section](#merging).
 
-If you test a feature on a branch that does not work out, you can delete or abandon it (for example, Feature B in the diagram below) rather than spending time unpicking your changes if you were doing all your work on the master copy.
+If you test a feature on a branch that does not work out, you can delete or abandon it (for example, Feature B in the diagram below) rather than spending time unpicking your changes if you were doing all your work on the master branch.
 You can have as many branches off of branches as you desire (for example, Feature A-1).
 
 Using branches keeps working code safe, particularly in collaborations.
