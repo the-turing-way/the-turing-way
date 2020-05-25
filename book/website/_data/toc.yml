@@ -131,8 +131,12 @@
   sections:
   - title: General guidance and good practice for testing
     url: /testing/01/testing-guidance
-  - title: Types of Tests
+  - title: Overview of types of Tests
     url: /testing/02/testing-types
+  - title: Description of types of Tests
+    url: /testing/02(b)/description
+  - title: More types of Tests
+    url: /testing/02(c)/description_cont
   - title: Testing challenging or Exceptional cases
     url: /testing/03/testing-exception
   - title: Checklist
