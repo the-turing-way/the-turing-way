@@ -40,6 +40,29 @@
     file: open_research/07/resources
 - title: Version Control
   file: version_control/version_control
+  sections:
+  - title: General Workflow
+    file: version_control/vcs-workflow
+  - title: Getting Started with Git
+    file: version_control/vcs-git
+  - title: Git commit command
+    file: version_control/vcs-git-commit
+  - title: Retrieving and comparing versions
+    file: version_control/vcs-git-compare
+  - title: Git branches
+    file: version_control/vcs-git-branches
+  - title: Merging branches in Git
+    file: version_control/vcs-git-merge
+  - title: Git commands to work on GitHub
+    file: version_control/vcs-github
+  - title: Summary table of Git commands
+    file: version_control/vcs-git-summary
+  - title: Version control for data
+    file: version_control/vcs-data
+  - title: Personal stories
+    file: version_control/vcs-personal-stories
+  - title: Checklist and resources
+    file: version_control/vcs-checklist
 - title: Licensing
   file: licensing/licensing
   sections:
