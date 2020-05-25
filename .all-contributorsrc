@@ -552,7 +552,9 @@
         "question",
         "review",
         "ideas",
-        "test"
+        "test",
+        "infra",
+        "maintenance"
       ]
     },
     {
