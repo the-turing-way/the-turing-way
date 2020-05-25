@@ -28,8 +28,8 @@ jobs:
       run: |
         cd ./book/website
         jupyter-book build .
-    - name: Run html proofer
-      uses: chabad360/htmlproofer@master
-      with: 
-        directory: "./book/website/_build/html"
-        arguments: --assume-extension --disable-external --only_4xx
+    # - name: Run html proofer
+    #   uses: chabad360/htmlproofer@master
+    #   with: 
+    #     directory: "./book/website/_build/html"
+    #     arguments: --assume-extension --disable-external --only_4xx

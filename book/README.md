@@ -3,14 +3,14 @@
 This is the README file for _The Turing Way_ book hosted online at https://the-turing-way.netlify.app/.
 For the README file of the main repository please [follow this link](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md).
 
-All the text for each chapter of the `book` lives inside the folder `./content` directory.
-All figures associated to the chapters are stored in and linked from the `./content/figures` directory.
+All the text for each chapter of the `book` lives inside the folder `./website` directory.
+All figures associated to the chapters are stored in and linked from the `./website/figures` directory.
 Everything else is in the `website/` directory.
 
 ### Configuration
 
 - The table of contents (TOC) defines the order of chapters as they appear in the book.
-To change the TOC, please edit the `website/data/_toc.yml` file with correct information on filenames and their relative locations in this repository. 
+To change the TOC, please edit the `website/_toc.yml` file with correct information on filenames and their relative locations in this repository. 
 Documentation on controlling the TOC structure can be found on the [jupyter book website](https://jupyterbook.org/customize/toc.html).
 - Same applies for more general configuration using `website/_config.yml`. 
 Documentation on configuring book settings can be found on the [jupyter book website](https://jupyterbook.org/customize/config.html).
@@ -69,6 +69,11 @@ If you want to deploy the book on Netlify, you'll need the following settings:
 Netlify is smart and will find your requirements.txt to do the install for you. :slightly_smiling_face: 
 
 You can find the build history or logs for _The Turing Way_ at https://app.netlify.com/sites/the-turing-way/deploys.
+
+## Bibliography
+
+In the directory `./website/_bibliography` a collection of bibliography from all the chapters exist in the `references.bib` file.
+More details can be read on th [CONTRIBUTING.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#referencing-and-citing) file.
 
 ## Content Templates
 
