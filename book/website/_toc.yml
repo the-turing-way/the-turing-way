@@ -185,8 +185,9 @@
 - title: Guide to Project Design
   file: project-design/project-design
   #not_numbered: true
+  sections:
   - title: File Naming Convention
-      file: project-design/filenaming/filenaming
+    file: project-design/filenaming/filenaming
 
 - divider: true
 
