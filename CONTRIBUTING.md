@@ -102,7 +102,12 @@ While this formats in the same way as if the new line wasn't included, it makes 
 ## Where to start: issues
 
 Before you open a new issue, please check if any of our [open issues](https://github.com/alan-turing-institute/the-turing-way/issues) covers your idea already.
-If you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/ISSUE_TEMPLATE.md).
+If you open a new issue, please follow our basic guidelines laid out in our [issue templates](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose). 
+There are 3 issues templates to choose from.: 
+1. New Chapter Template ([preview here](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&template=CHAPTER_ISSUE_TEMPLATE.md)):  This issue is a place to discuss matters relating to the writing a new chapter on a new topic or adding a subchapter in an already existing chapter.
+2. General ([preview here](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&template=ISSUE_TEMPLATE.md)):  Use this template for a general issue related to the book, community, process or ideas. 
+3. Bug Report ([preview here](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)): With this template, create an issue report that can help others repair something that is currently broken. 
+This can be used for reporting errors like typos and broken links.
 The issue template will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the "_Lorem ipsum_" sections.
 
 ### Issue labels
@@ -166,6 +171,10 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 
 - [![outreach](https://img.shields.io/badge/-Outreach-fcbae8.svg)][labels-outreach] _These issues relate to topics to reach out to the community._
 
+- [![good-first-PR-review](https://img.shields.io/badge/-good%20first%20PR%20review-C992E0.svg)] These pull requests are for the new members of The Turing Way community who want to start with reviewing and approving some simple pull requests._
+
+  If you are a new member of The Turing way and are looking for opportunities to start as a reviewer of contributions made on our Github repository, these pull requests are a great starting point for you. Issues like small modifications, typo errors and minor bug fixes are resolved by these PRs which are easy to review as a beginner.
+
 - [![pr-draft](https://img.shields.io/badge/-PR%3A%20draft-6a737d.svg)][labels-pr-draft] _These issues relate to draft pull requests._
 
 - [![pr-merged](https://img.shields.io/badge/-PR%3A%20merged-6f42c1.svg)][labels-pr-merged] _These issues relate to pull requests that have been merged._
@@ -225,7 +234,7 @@ This allows other members of the Turing Way team to confirm that you aren't over
 
 [This blog](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/) is a nice explanation of why putting this work in up front is so useful to everyone involved.
 
-Remember, if you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/ISSUE_TEMPLATE.md).
+Remember, if you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/ISSUE_TEMPLATE/ISSUE_TEMPLATE.md).
 The issue template will automatically be rendered in the comment section of the new issue page so all you need to do is edit the "_Lorem ipsum_" sections.
 
 ### 2. [Fork][github-fork] the [Turing Way repository][turing-way-repo] to your profile
@@ -319,29 +328,21 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 
 ## Local development
 
-You can host the book website locally. The steps are:
+You can build and host the book website locally. The steps are:
 
-1. Install [docker](https://www.docker.com/): see [Reproducible Environments](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Containers_section) for discussion of docker and containers.
+### To build book locally
 
-2. Make sure you have docker-compose installed: [compose installation instructions](https://docs.docker.com/compose/install/)
-
-3. The website can then be started using:
+1. Install the required software to build the book, optionally in a [virtual environment](https://packaging.python.org/tutorials/installing-packages/#creating-virtual-environments):
 
    ```
-   cd book/website
-   docker-compose up
+   pip install -r book/website/requirements.txt
    ```
 
-   This will install all ruby requirements and make the site available at `http://0.0.0.0:4000/introduction/introduction`.
-
-   You can refresh your build using:
+2. You can now build or refresh the book using:
 
    ```
    jupyter-book build .
    ```
-
-
-
 
 ## Style Guide
 
