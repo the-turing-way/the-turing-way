@@ -144,7 +144,7 @@ This time, BinderHub will run `install.R` and install package `readr` into our p
 
 ### More on pinning dependencies
 
-In the above example, we included a date along with the specification of the R version in `runtime.txt`. This tells Binder which MRAN snapshot to source packages from. [MRAN](https://mran.microsoft.com/) hosts a "CRAN Time Machine" of daily snapshots of the CRAN R packages and R releases as far back as Sept. 17, 2014. In the above example, the MRAN snapshot dated `r-2020-05-26` is used and the version of `readr` available at that date is installed. For the workflow to work correctly, please ensure you do not supply a date earlier than this example date.
+In the above example, we specified that we want to use R in our project included a date in `runtime.txt`. The date tells Binder which MRAN snapshot to source R and packages from. [MRAN](https://mran.microsoft.com/) hosts a "CRAN Time Machine" of daily snapshots of the CRAN R packages and R releases as far back as Sept. 17, 2014. In the above example, the MRAN snapshot dated `r-2020-05-26` is used and the version of R and `readr` available at that date and installed. For the workflow to work correctly, please ensure you do not supply a date earlier than this example date.
 
 This provides some rudimentary package versioning for R Users but is not as robust as pinning versions in a `requirements.txt` in python. For more robust and specific version pinning in R, have a look at package [`renv`](https://rstudio.github.io/renv/)
 
@@ -259,11 +259,11 @@ library(tidyr)
 library(ggplot2)
 
 data <- read_csv("gapminder.csv") %>%
-    tidyr::pivot_longer(-country, 
-                        names_to = "year", 
-                        values_to = "gdpPercap", 
-                        names_prefix = "gdpPercap_",
-                        names_transform = list(year = as.integer)) 
+    pivot_longer(-country, 
+                 names_to = "year", 
+                 values_to = "gdpPercap", 
+                 names_prefix = "gdpPercap_",
+                 names_transform = list(year = as.integer)) 
 
 data[data$country == "Australia", ] %>%
     ggplot(aes(x = year, y = gdpPercap)) +
