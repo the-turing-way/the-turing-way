@@ -1,6 +1,6 @@
-# From Zero to Binder!
+# From Zero to Binder in R!
 
-Sarah Gibson, _The Alan Turing Institute_
+Sarah Gibson, _The Alan Turing Institute_ & Anna Krystalli, _University of Sheffield_
 
 [**The Turing Way**](https://github.com/alan-turing-institute/the-turing-way) - making reproducible Data Science "too easy not to do"
 
@@ -17,7 +17,7 @@ You can always refresh the window if you see the "... is taking longer to load, 
   - [Why did the repo have to be public?](#why-did-the-repo-have-to-be-public)
 - [2. Launch your first repo!](#2-launch-your-first-repo)
   - [What's happening in the background? - Part 1](#whats-happening-in-the-background---part-1)
-- [3. Run `hello.py`](#3-run-hellopy)
+- [3. Run `hello.R`](#3-run-hellor)
 - [4. Pinning Dependencies](#4-pinning-dependencies)
   - [What's happening in the background? - Part 2](#whats-happening-in-the-background---part-2)
   - [More on pinning dependencies](#more-on-pinning-dependencies)
@@ -61,6 +61,8 @@ You can create a link to a **live, interactive** version of your code!
   - Notice that the Binder link has a similar structure to the GitHub repo link (<github-username>/<github-repo-name>)
   - The "filepath" argument opens a specific notebook (`.ipynb` file) in the repo
 
+> In R, we can use package [`holepunch`](https://github.com/karthik/holepunch) to **binderise** our projects! The package provides functionality to create the necessary files and automatically configure them with the required information. All files created with `holepunch` are store in a hidden `.binder/` directory and Binder knows to use those files to build your environment.
+
 ## 1. Creating a repo to Binderize
 
 **TO DO:** :vertical_traffic_light:
@@ -68,7 +70,9 @@ You can create a link to a **live, interactive** version of your code!
 1) Create a new repo on GitHub called "my-first-binder".
    - Make sure the repository is **public**, _not private_!
    - Don't forget to initialise with a README!
-2) Create a file called `hello.py` via the web interface with `print("Hello from Binder!")` on the first line and commit to master
+2) Create a file called `hello.R` via the web interface with `print("Hello from Binder!")` on the first line and commit to master.
+3) Create a file called `runtime.txt` with `r-YYYY-MM-DD` on the first line, where `YYYY-MM-DD` is today's date (eg `r-2020-05-26`). Commit to master.
+    + _In R you can use `holepunch::write_runtime()` to create a `runtime.txt` in the `.binder/` directory, configured with today's date._
 
 ### Why did the repo have to be public?
 
@@ -84,13 +88,16 @@ If accessing private repositories is a feature you/your team need, we advise tha
 2) Type the URL of your repo into the "GitHub repo or URL" box.
    It should look like this:
    > **<https://github.com/your-username/my-first-binder>**
+
 3) As you type, the webpage generates a link in the "Copy the URL below..." box
    It should look like this:
    > **<https://mybinder.org/v2/gh/your-username/my-first-binder/master>**
+
 4) Copy it, open a new browser tab and visit that URL.
    - You will see a "spinner" as Binder launches the repo.
 
 If everything ran smoothly, you'll see a Jupyter Notebook interface.
+
 
 ### What's happening in the background? - Part 1
 
@@ -102,12 +109,12 @@ While you wait, BinderHub (the backend of Binder) is:
 - Launching that Docker image in the Cloud
 - Connecting you to it via your browser
 
-## 3. Run `hello.py`
+## 3. Run `hello.R`
 
 **TO DO:** :vertical_traffic_light:
 
-1. In the top right corner, click "New" :arrow_right: "Terminal"
-2. In the new tab with the terminal, type `python hello.py` and press return
+1. In the top right corner, click "New" :arrow_right: "Rstudio"
+2. In the console (the left-side panel) in Rstudio, type `source("hello.R")` and press return
 
 `Hello from Binder!` should be printed to the terminal.
 
@@ -117,10 +124,12 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 
 **TO DO:** :vertical_traffic_light:
 
-1) In your repo, create a file called `requirements.txt`
-2) Add a line that says: `numpy==1.14.5`
+1) In your repo, create a file called `install.R`
+2) Add a line that says: `install.packages("readr")`
+   - _In R you can create an `install.R` file and automatically add the code to install all dependencies in your project using `holepunch::write_install()`._
 3) Check for typos! Then commit to master.
 4) Visit **<https://mybinder.org/v2/gh/your-username/my-first-binder/master>** again in a new tab
+
 
 This time, click on "Build Logs" in the big, horizontal, grey bar.
 This will let you watch the progress of your build.
@@ -131,39 +140,37 @@ These red messages don't necessarily mean there's a problem with your build and 
 
 ### What's happening in the background? - Part 2
 
-This time, BinderHub will read `requirements.txt` and install version `1.14.5` of the `numpy` package.
+This time, BinderHub will run `install.R` and install package `readr` into our project.
 
 ### More on pinning dependencies
 
-In the above example, we used two equals signs (`==`) to pin the version of `numpy`.
-This tells Binder to install that _specific_ version.
+In the above example, we included a date along with the specification of the R version in `runtime.txt`. This tells Binder which MRAN snapshot to source packages from. [MRAN](https://mran.microsoft.com/) hosts a "CRAN Time Machine" of daily snapshots of the CRAN R packages and R releases as far back as Sept. 17, 2014. In the above example, the MRAN snapshot dated `r-2020-05-26` is used and the version of `readr` available at that date is installed. For the workflow to work correctly, please ensure you do not supply a date earlier than this example date.
 
-Another way to pin a version number is to use the greater than or equal to sign (`>=`) to allow any version above a particular one to be installed.
-This is useful when you have a lot of dependencies that may have dependencies on each other and allows Binder to find a configuration of your dependencies that do not conflict with one another whilst avoiding any earlier versions which may break or change your code.
+This provides some rudimentary package versioning for R Users but is not as robust as pinning versions in a `requirements.txt` in python. For more robust and specific version pinning in R, have a look at package [`renv`](https://rstudio.github.io/renv/)
 
-Finally, you could not provide a version number at all (just the name of the library/package) and Binder will install the latest version of that package.
-
-**N.B.:** These operations to pin dependencies are most likely specific to Python.
-Each language has it's own quirks and a link to the different types of configuration files (which is what `requirements.txt` is) is given at the bottom of this document.
 
 ## 5. Check the Environment
 
 **TO DO:** :vertical_traffic_light:
 
-1) In the top right corner, click "New" :arrow_right: "Python 3" to open a new notebook
+1) In the top right corner, click "New" :arrow_right: "R" (under _Notebook_) to open a new R notebook
 
 2) Type the following into a new cell:
 
-   ```python
-   import numpy
-   print(numpy.__version__)
-   numpy.random.randn()
+   ```r
+   library(readr)
+   packageVersion("readr")
+   read_csv(system.file("extdata/mtcars.csv", package = "readr"))
    ```
 
-   **Note the two underscores either side of `version`!**
 
-3) Run the cell to see the version number and a random number printed out
-   - Press either SHIFT+RETURN or the "Run" button in the Menu bar
+3) Run the cell. 
+  - Press either SHIFT+RETURN or the "Run" button in the Menu bar. 
+  You should see the following output:
+    - the version number of the installed version of `readr`.
+    - a tibble of the contents of the `mtcars.csv` which is a csv file included in package `readr`. 
+
+   
 
 **N.B.:** If you save this notebook, it **will not** be saved to the GitHub repo.
 Pushing changes back to the GitHub repo through the container is not possible with Binder.
@@ -235,25 +242,32 @@ However, that is not to say that they are the _only_ groups of people who should
 2) In `postBuild`, add a single line reading: `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
    - `wget` is a program which retrieves content from web servers. This line extracts the content from the bitly URL and saves it to the filename denoted by the `-O` flag (capital "O", not zero), i.e. `gapminder.csv`.
      The `-q` flag tells `wget` to do this quietly, i.e. don't print anything to the console.
-3) Update your `requirements.txt` file by adding a new line with `pandas` on it and another new line with `matplotlib` on it
-   - These packages aren't necessary to download the data but we will use them to read the CSV file and make a plot
+3) Update your `install.R` file to install two additional dependencies, `"tidyr"` and `"ggplot2"`. To do so, supply a character vector of the required packages to `install.packages()` instead of a single character string. The installation command should now look like this:
+   ```r
+   install.packages(c("readr", "tidyr", "ggplot2"))
+   ```
+    - These packages aren't necessary to download the data but we will use them to read the CSV file, process it and make a plot
 4) Click the binder badge in your README to launch your Binder
 
 Once the Binder has launched, you should see a new file has appeared that was not part of your repo when you clicked the badge.
 
-Now visualise the data by creating a new notebook ("New" :arrow_right: "Python 3") and run the following code in a cell.
+Now visualise the data by creating a new notebook ("New" :arrow_right: "R") and running the following code in a cell.
 
-```python
-%matplotlib inline
+```r
+library(readr)
+library(tidyr)
+library(ggplot2)
 
-import pandas
+data <- read_csv("gapminder.csv") %>%
+    tidyr::pivot_longer(-country, 
+                        names_to = "year", 
+                        values_to = "gdpPercap", 
+                        names_prefix = "gdpPercap_",
+                        names_transform = list(year = as.integer)) 
 
-data = pandas.read_csv("gapminder.csv", index_col="country")
-
-years = data.columns.str.strip("gdpPercap_")  # Extract year from last 4 characters of each column name
-data.columns = years.astype(int)              # Convert year values to integers, saving results back to dataframe
-
-data.loc["Australia"].plot()
+data[data$country == "Australia", ] %>%
+    ggplot(aes(x = year, y = gdpPercap)) +
+    geom_line()
 ```
 
 See this [Software Carpentry lesson](https://swcarpentry.github.io/python-novice-gapminder/09-plotting/index.html) for more info.
