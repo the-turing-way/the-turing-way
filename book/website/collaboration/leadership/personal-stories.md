@@ -1,4 +1,6 @@
-# Personal Experience: Diving into Leadership
+# Personal Stories of Leadership
+
+## Diving into Leadership: lessons from leading a hacktahon project
 
 _The following blog post was written by The Turing Way contributor [Sarah Gibson](https://www.turing.ac.uk/people/researchers/sarah-gibson)._
 

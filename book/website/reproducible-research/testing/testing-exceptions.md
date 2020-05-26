@@ -1,4 +1,4 @@
-# Testing challenging or exceptional cases
+# Challenges and exceptional cases in testing
 
 ## Table of contents
 

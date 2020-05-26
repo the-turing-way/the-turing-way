@@ -2,7 +2,6 @@
 
 ## Table of contents
 
-- [Checklist](#Checklist)
 - [What to learn next](#What_to_learn_next)
 - [Further reading](#Further_reading)
 - [Definitions/glossary](#Definitions_glossary)

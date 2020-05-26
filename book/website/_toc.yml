@@ -9,171 +9,240 @@
 
 # ===== NEW SECTION ========================================
 
-- url: /welcome
-  not_numbered: true
+- title: Welcome to The Turng Way
+  file: welcome
+  #not_numbered: true
 - divider: true
 
-- url: /reproducible-research/reproducible-research
-  not_numbered: true
+- Title: Guide to Reproducible Research
+  file: reproducible-research/reproducible-research
+  #not_numbered: true
   sections:
   - title: Overview
-    url: /reproducible-research/overview
+    file: reproducible-research/overview
     subsections:
-    - url: /reproducible-research/overview/definitions
-    - url: /reproducible-research/overview/benefit
+    - title: Definitions
+      file: reproducible-research/overview/definitions
+    - title: Advantages of working reproducibly
+      file: reproducible-research/overview/benefit
+    - title: Resources for reproducibility  overview
+      file: reproducible-research/overview/resources
+  - title: Open Research
+    file: reproducible-research/open-research/open-research
+    subsections:
+    - title: Open Data
+      file: reproducible-research/open-research/open-data
+    - title: Open Source
+      file: reproducible-research/open-research/open-source
+    - title: Open Hardware
+      file: reproducible-research/open-research/open-hardware
+    - title: Open Access
+      file: reproducible-research/open-research/open-access
+    - title: Open Notebooks
+      file: reproducible-research/open-research/open-notebooks
+    - title: Open Scholarship
+      file: reproducible-research/open-research/open-scholarship
+    - title: Resources of Open Research
+      file: reproducible-research/open-research/open-resources
+  - title: Version Control
+    file: reproducible-research/version-control/version-control
+    subsections:
+    - title: General Workflow
+      file: reproducible-research/version-control/vcs-workflow
+    - title: Getting Started with Git
+      file: reproducible-research/version-control/vcs-git
+    - title: Git Commit Command
+      file: reproducible-research/version-control/vcs-git-commit
+    - title: Retrieving and Comparing Versions
+      file: reproducible-research/version-control/vcs-git-compare
+    - title: Git Branches
+      file: reproducible-research/version-control/vcs-git-branches
+    - title: Merging Branches in Git
+      file: reproducible-research/version-control/vcs-git-merge
+    - title: Git Commands to Work on GitHub
+      file: reproducible-research/version-control/vcs-github
+    - title: Summary Table of Git Commands
+      file: reproducible-research/version-control/vcs-git-summary
+    - title: Version Control for Data
+      file: reproducible-research/version-control/vcs-data
+    - title: Personal Stories
+      file: reproducible-research/version-control/vcs-personal-stories
+    - title: Checklist for Version Control
+      file: reproducible-research/version-control/vcs-checklist
+    - title: Resources for Version Control
+      file: reproducible-research/version-control/vcs-checklist
+  - title: Licensing
+    file: reproducible-research/licensing/licensing
+    subsections:
+    - title: Software licenses
+      file: reproducible-research/licensing/licensing-software
+    - title: Data licenses
+      file: reproducible-research/licensing/licensing-data
+  - title: Research Data Management
+    file: reproducible-research/rdm/rdm
+    subsections:
+    - title: The FAIR principles and practices
+      file: reproducible-research/rdm/data-fair
+    - title: Storage and backup
+      file: reproducible-research/rdm/data-storage
+    - title: Data organisation in spreadsheets
+      file: reproducible-research/rdm/data-spreadsheets
+    - title: Documentation and metadata
+      file: reproducible-research/rdm/data-metadata
+    - title: Sharing and archiving data
+      file: reproducible-research/rdm/data-sharing
+    - title: Personal Stories
+      file: reproducible-research/rdm/data-stories
     - title: Resources
+      file: reproducible-research/rdm/data-resources
+  - title: Reproducible Environments
+    file: reproducible-research/reproducible-environments/reproducible-environments
+    subsections:
+    - title: Choosing a tool
+      file: reproducible-research/reproducible-environments/env-options
+    - title: Conda
+      file: reproducible-research/reproducible-environments/package-management
+    - title: YAML
+      file: reproducible-research/reproducible-environments/yaml
+    - title: Binder
+      file: reproducible-research/reproducible-environments/binder
+    - title: Virtual machines
+      file: reproducible-research/reproducible-environments/virtual-machines
+    - title: Containers
+      file: reproducible-research/reproducible-environments/containers
+    - title: Resources for Reproducible Environments
+      file: reproducible-research/reproducible-environments/env-resources
+    - title: Checklist for Reproducible Environments
+      file: reproducible-research/reproducible-environments/env-checklist
+  - title: Code quality
+    file: reproducible-research/code_quality/code_quality
+  - title: Code Testing
+    file: reproducible-research/testing/testing
+    subsections:
+    - title: General guidance for testing
+      file: reproducible-research/testing/testing-guidance
+    - title: Types of tests
+      file: reproducible-research/testing/testing-types
+    - title: Challenges and exceptional cases
+      file: reproducible-research/testing/testing-exceptions
+    - title: Checklist for code testing
+      file: reproducible-research/testing/testing-checklist
+    - title: Resources for code testing
+      file: reproducible-research/testing/testing-resources
+- title: Code Reviewing Process
+  url: /reproducible-research/reviewing
+  subsections:
+  - title: Motivation for code reviewing
+    file: reproducible-research/reviewing/review-motivation
+  - title: Recommendations for code reviewing
+    file: reproducible-research/reviewing/review-recommendations
+  - title: Code review workflow
+    file: reproducible-research/reviewing/review-workflows
+  - title: Checklist for code reviewing
+    file: reproducible-research/reviewing/review-checklist
+  - title: Resources for code reviewing
+    file: reproducible-research/reviewing/review-resources
+  - title: Continuous Integration
+    url: reproducible-research/continuous-integration/continuous-integration
+    subsections:
+    - title: Continuous integration with Travis
+      file: reproducible-research/continuous-integration/ci-travis
+    - title: Best practices and recommendations
+      file: reproducible-research/continuous-integration/ci-practices
+    - title: Motivation for code review
+      file: reproducible-research/continuous-integration/ci-checklist
+    - title: Motivation for code review
+      file: reproducible-research/continuous-integration/ci-resources
+  - title: Reproducible Research with Make
+    url: reproducible-research/make/make
+    subsections:
+    - title: Learn "Make" by examples
+      file: reproducible-research/make/make-examples
+    - title: Debugging Makefiles
+      file: reproducible-research/make/make-debugging
+    - title: Case Study: Reproducible Paper using Make
+      file: reproducible-research/make/make-casestudy
+    - title: Including numerical results and tables
+      file: reproducible-research/make/make-results
+    - title: Resources for "Make"
+      file: reproducible-research/make/make-resources
+  - title: Research Compendia
+    file: reproducible-research/research-compendia/research-compendia
+  - title: Credit for Reproducible Research
+    file: reproducible-research/credit/credit
+  - title: Risk Assessment
+    file: reproducible-research/risk-assessment/risk-assessment
+    subsections:
+    - title: Complexity and Impact of Risk Assessment
+      url: /reproducible-research/risk-assessment/risk-details
+    - title: Summary of Risk Assessment
+      url: /reproducible-research/risk-assessment/risk-resources
+  - title: BinderHub
+    file: reproducible-research/binderhub/binderhub
 
-- title: Reproducibility
-  file: reproducibility/reproducibility
+- divider: true
+
+- title: Guide to Project Design
+  file: project-design/project-design
+  #not_numbered: true
+  - title: File Naming Convention
+      file: project-design/filenaming/filenaming
+
+- divider: true
+
+- title: Guide to Communication
+  file: communication/communication
+  #not_numbered: true
   sections:
-  - title: Why reproducibility is important
-    file: reproducibility/01/importantforscience
-  - title: Why you should care
-    file: reproducibility/02/whycare
-  - title: Definitions
-    file: reproducibility/03/definitions
-  - title: Resources
-    file: reproducibility/04/resources
-- title: Open Research
-  file: open_research/open_research
+  - title: Community Communications for Open Source Projects
+    file: communication/open-source-comms/open-source-comms
+    subsections:
+    - title: Issue Tracking
+      file: communication/open-source-comms/comms-issue-tracking
+    - title: Communication Channels
+      file: communication/open-source-comms/comms-channels
+    - title: Further Reading
+      file: communication/open-source-comms/comms-resources
+
+- divider: true
+
+- title: Guide to Collaboration
+  file: collaboration
+  #not_numbered: true
   sections:
-  - title: Open data
-    file: open_research/01/opendata
-  - title: Open source software
-    file: open_research/02/opensourcesoftware
-  - title: Open hardware
-    file: open_research/03/openhardware
-  - title: Open access
-    file: open_research/04/openaccess
-  - title: Open notebooks
-    file: open_research/05/opennotebooks
-  - title: Open scholarship
-    file: open_research/06/openscholarship
-  - title: Resources
-    file: open_research/07/resources
-- title: Version Control
-  file: version_control/version_control
+  - title: Collaborating on GitHub/GitLab
+    file: collaboration/github
+    subsections:
+    - title: README and Project Communication
+      file: collaboration/github/github-readme
+    - title: Roadmapping
+      file: collaboration/github/github-roadmap
+    - title: Getting Contributors
+      file: collaboration/github/github-contributors
+    - title: Checklist and resources
+      file: collaboration/github/github-resources
+  - title: Leadership in Data Science
+    file: collaboration/leadership/leadership
+    subsections:
+      - title: Personal Stories of Leadership
+        file: collaboration/leadership/personal-stories
+
+- divider: true
+
+- title: Guide to Ethical Research
+  file: ethical-research/ethical-research
+  #not_numbered: true
   sections:
-  - title: General Workflow
-    file: version_control/vcs-workflow
-  - title: Getting Started with Git
-    file: version_control/vcs-git
-  - title: Git commit command
-    file: version_control/vcs-git-commit
-  - title: Retrieving and comparing versions
-    file: version_control/vcs-git-compare
-  - title: Git branches
-    file: version_control/vcs-git-branches
-  - title: Merging branches in Git
-    file: version_control/vcs-git-merge
-  - title: Git commands to work on GitHub
-    file: version_control/vcs-github
-  - title: Summary table of Git commands
-    file: version_control/vcs-git-summary
-  - title: Version control for data
-    file: version_control/vcs-data
-  - title: Personal stories
-    file: version_control/vcs-personal-stories
-  - title: Checklist and resources
-    file: version_control/vcs-checklist
-- title: Licensing
-  file: licensing/licensing
-  sections:
-  - title: Software licenses
-    file: licensing/01/softwarelicenses
-  - title: Data licenses
-    file: licensing/02/datalicenses
-- title: Collaborating on GitHub/GitLab
-  file: collaborating_github/collaborating_github
-  sections:
-  - title: README and Project Communication
-    file: collaborating_github/1/readme_communication
-  - title: Roadmapping
-    file: collaborating_github/2/roadmapping
-  - title: Getting Contributors
-    file: collaborating_github/3/getting_contributors
-  - title: Checklist and Bibliography
-    file: collaborating_github/4/checklist_bibliography
-- title: Community Communications for Open Source Projects
-  file: open-source-comms/intro
-  sections:
-  - title: Issue Tracking
-    file: open-source-comms/issue-tracking
-  - title: Communication Channels
-    file: open-source-comms/comms-channels
-  - title: Further Reading
-    file: open-source-comms/further-reading
-- title: Credit for reproducible research
-  file: credit/credit
-- title: Research Data Management
-  file: rdm/rdm
-  sections:
-  - title: The FAIR principles and practices
-    file: rdm/fairprinciples
-  - title: Storage and backup
-    file: rdm/storagebackup
-  - title: Data organisation in spreadsheets
-    file: rdm/spreadsheets
-  - title: Documentation and metadata
-    file: rdm/docmetadata
-  - title: Sharing and archiving data
-    file: rdm/sharingarchiving
-  - title: Personal Stories
-    file: rdm/personalstories
-  - title: Resources
-    file: rdm/resources
-- title: Reproducible Environments
-  file: reproducible_environments/reproducible_environments
-  sections:
-  - title: Choosing a tool
-    file: reproducible_environments/01/options
-  - title: Conda
-    file: reproducible_environments/02/package-management
-  - title: YAML
-    file: reproducible_environments/03/yaml
-  - title: Binder
-    file: reproducible_environments/04/binder
-  - title: Virtual machines
-    file: reproducible_environments/05/virtual-machines
-  - title: Containers
-    file: reproducible_environments/06/containers
-  - title: Checklist
-    file: reproducible_environments/07/checklist
-  - title: Resources
-    file: reproducible_environments/08/resources
-- title: Code quality
-  file: code_quality/code_quality
-- title: Testing
-  file: testing/testing
-- title: Reviewing
-  file: reviewing/reviewing
-  sections:
-  - title: How this will help you and why this is useful
-    file: reviewing/01/how_helpful
-  - title: Best Practice
-    file: reviewing/02/best_practice
-  - title: Typical Workflows
-    file: reviewing/03/typical_workflows
-  - title: Checklists, what to learn next and bibliography
-    file: reviewing/04/checklists_bib
-- title: Continuous Integration
-  file: continuous_integration/continuous_integration
-- title: Reproducible Research with Make
-  file: make/make
-- title: Research Compendia
-  file: research_compendia/research_compendia
-- title: Risk Assessment
-  file: risk_assessment/risk_assessment
-  sections:
-  - title: Long Read on Risk Assessment
-    file: risk_assessment/01/longreadriskassessment
-  - title: Summary
-    file: risk_assessment/02/finalsummary
-- title: BinderHub
-  file: binderhub/binderhub
-- title: "Personal Experience: Diving into Leadership"
-  file: diving_into_leadership/diving_into_leadership
+  - title: Ethical Decisions in Planning Research
+    file: ethical-research/planning-research/planning-research
+
+- divider: true
+
+- file: community-handbook/community-handbook
+  #not_numbered: true
+
+- divider: true
+
 - title: Glossary
   file: glossary/glossary
-- title: Five book preview
-  file: 5-book-preview/5-book-preview
+  #not_numbered: true

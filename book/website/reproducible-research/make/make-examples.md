@@ -1,4 +1,4 @@
-# Learn Make by Example
+# Learn "Make" by Examples
 
 ## Table of contents
 
@@ -10,12 +10,14 @@
 - [Makefile no. 5 (Wildcards and Path Substitution)](#makefile-no-5-wildcards-and-path-substitution)
 - [Debugging Makefiles](#debugging-makefiles)
 
-## Learn Make by Example
+## Makefiles
 
-One of the things that might scare people off from using Make is that existing
+One of the things that might discourahe off from using Make is that existing
 Makefiles can seem daunting and it may seem difficult to tailor to your own
-needs.  In this hands-on tutorial we will iteratively construct a Makefile for
-a real data analysis project. The idea is to explain different features of
+needs.  
+In this hands-on tutorial we will iteratively construct a Makefile for
+a real data analysis project.
+The idea is to explain different features of
 Make by iterating through several versions of a Makefile for this project.
 Hopefully the experience that you gain from this tutorial allows you to create
 Makefiles for your own projects.

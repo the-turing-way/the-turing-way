@@ -1,4 +1,4 @@
-# Reviewing
+# Code reviewing process
 
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|

@@ -1,8 +1,8 @@
-## Checklist of checklists
+## Checklist for code review process
 
 The following presents some possible checklists for both the coder and the reviewer, as part of a formal review process.
 
-## Tabke of contents
+## Table of contents
 
 - [For the coder](#For_the_coder)
 - [For the reviewer](#For_the_reviewer)

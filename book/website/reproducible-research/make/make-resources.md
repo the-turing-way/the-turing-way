@@ -1,4 +1,4 @@
-# resources
+# Resources for "Make"
 
 ## Table of contents
 

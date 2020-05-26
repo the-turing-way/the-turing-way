@@ -1,4 +1,4 @@
-# A Real Reproducible Paper using Make
+# Case Study: Reproducible Paper using Make
 
 In the tutorial above we used IMDB movie ratings for different genres as
 example data. This data was obtained from a dataset [shared on
