@@ -6,7 +6,7 @@
 #######################################################################################
 # Book settings
 title                       : The Turing Way  # The title of the book. Will be placed in the left navbar.
-author                      : [The Turing Way Community](https://github.com/alan-turing-institute/the-turing-way)  # The author of the book
+author                      : `<a href="https://github.com/alan-turing-institute/the-turing-way">The Turing Way Community</a>  # The author of the book
 copyright                   : "2020"  # Copyright year to be placed in the footer
 logo                        : "./figures/logo/logo.png"  # A path to the book logo
 exclude_patterns            : []  # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
