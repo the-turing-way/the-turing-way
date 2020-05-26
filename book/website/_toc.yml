@@ -160,7 +160,7 @@
       file: reproducible-research/make/make-examples
     - title: Debugging Makefiles
       file: reproducible-research/make/make-debugging
-    - title: Case Study: Reproducible Paper using Make
+    - title: Case Study of a Reproducible Paper
       file: reproducible-research/make/make-casestudy
     - title: Including numerical results and tables
       file: reproducible-research/make/make-results
