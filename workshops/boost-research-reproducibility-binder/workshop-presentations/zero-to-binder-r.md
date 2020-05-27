@@ -46,7 +46,7 @@ To run code, you need:
 - Hardware on which to run the code
 - Software, including:
   - The code itself
-  - The programming language (e.g. Python, R)
+  - The programming language (e.g. Python, R, Julia, and so on)
   - Relevant packages (e.g. pandas, matplotlib, tidyverse, ggplot)
 
 ## What Binder Provides
