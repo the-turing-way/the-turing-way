@@ -76,8 +76,8 @@ You can create a link to a **live, interactive** version of your code!
 
 ### Why did the repo have to be public?
 
-<mybinder.org> cannot access private repositories as this would require a secret token.
-The Binder team choose not to take on the responsibility of handling secret tokens as <mybinder.org> is a public service and proof of technological concept.
+mybinder.org cannot access private repositories as this would require a secret token.
+The Binder team choose not to take on the responsibility of handling secret tokens as mybinder.org is a public service and proof of technological concept.
 If accessing private repositories is a feature you/your team need, we advise that you look into building your own [BinderHub](https://binderhub.readthedocs.io).
 
 ## 2. Launch your first repo!
