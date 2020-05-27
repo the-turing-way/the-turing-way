@@ -6,7 +6,7 @@ Sarah Gibson, _The Alan Turing Institute_ & Anna Krystalli, _University of Sheff
 
 Based on Tim Head's _Zero-to-Binder_ workshops which can be found here: <http://bit.ly/zero-to-binder> and <http://bit.ly/zero-to-binder-rise>
 
-To follow these instructions on your own machine, follow this link: **<http://bit.ly/zero-to-binder-tutorial>**
+To follow these instructions on your own machine, follow this link: **<http://bit.ly/zero-to-binder-r>**
 
 Binder can take a long time to load, but this doesn't necessarily mean that you Binder will fail to launch.
 You can always refresh the window if you see the "... is taking longer to load, hang tight!" message.
