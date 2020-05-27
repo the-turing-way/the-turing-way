@@ -90,7 +90,7 @@ In this chapter this entire process is referred to as continuous integration for
 <a name="What_options_are_available"></a>
 ### What are the options for CI service providers?
 
-There are many CI service providers, such as Travis, Circle CI, GitHub Actions, GitLab CI. Each of these services has its own advantages and disadvantages. In this section we provide a brief overview with links to examples to help you select the most suitable one for you.
+There are many CI service providers, such as GitHub Actions and GitLab CI. Each of these services has its own advantages and disadvantages. In this section we provide a brief overview with links to examples to help you select the most suitable one for you.
 
  - [Travis CI](https://travis-ci.com/), for some examples see [the next section](#What_is_Travis_and_how_does_it_work) and the [Travis tutorial](https://docs.travis-ci.com/user/tutorial/).
  - [GitHub Actions](https://help.github.com/en/actions), for some examples see the [language and framework guides](https://help.github.com/en/actions/language-and-framework-guides) and [this tutorial](https://github.com/NLESC-JCER/ci_for_science#-github-actions).
