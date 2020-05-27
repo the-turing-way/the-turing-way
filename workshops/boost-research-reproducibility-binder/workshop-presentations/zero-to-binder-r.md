@@ -58,7 +58,7 @@ You can create a link to a **live, interactive** version of your code!
 - An example binder link:
   > **<https://mybinder.org/v2/gh/trekhleb/homemade-machine-learning/master?filepath=notebooks%2Fanomaly_detection%2Fanomaly_detection_gaussian_demo.ipynb>**
   From this repo: **<https://github.com/trekhleb/homemade-machine-learning>**
-  - Notice that the Binder link has a similar structure to the GitHub repo link (<github-username>/<github-repo-name>)
+  - Notice that the Binder link has a similar structure to the GitHub repo link (`<github-username>/<github-repo-name>`)
   - The "filepath" argument opens a specific notebook (`.ipynb` file) in the repo
 
 > In R, we can use package [`holepunch`](https://github.com/karthik/holepunch) to **binderise** our projects! The package provides functionality to create the necessary files and automatically configure them with the required information. All files created with `holepunch` are store in a hidden `.binder/` directory and Binder knows to use those files to build your environment.
