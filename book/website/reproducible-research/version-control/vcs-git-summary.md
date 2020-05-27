@@ -1,4 +1,4 @@
-## Summary table of Git commands
+# Summary table of Git commands
 
 | Command                       | Use                                                                      |
 | ----------------------------- | ------------------------------------------------------------------------ |
@@ -15,11 +15,6 @@
 | git status                    | Output status including what branch you're on & what changes are staged  |
 | git diff                      | Output difference between the working directory and most recent commit       |
 | git diff thing_a thing_b      | Output difference between two things, such as commits and branches       |
-
-## Summary of key Git commands specific to GitHub
-
-| Command                       | Use                                                                      |
-| ----------------------------- | ------------------------------------------------------------------------ |
 | git clone URL                 | Makes a clone of the repository at the specified URL                     |
 | git remote add origin URL     | Links local repository and repository at the specified URL               |
 | git push origin branch_name   | Push local changes to the specified branch of the online repository      |

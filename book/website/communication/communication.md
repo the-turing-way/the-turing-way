@@ -1,3 +1,3 @@
 # Guide for Communication
 
-![](figures/communication/communication.jpg)
+![](../figures/communication.jpg)

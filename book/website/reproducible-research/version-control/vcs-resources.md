@@ -1,4 +1,4 @@
-## What to learn next
+# What to learn next
 
 Look into best practice for writing good quality code (for example, good naming conventions, informative comments, modular code structure).
 Many such skills are either also applicable for using version control well, for example, for writing good commit messages, or make using version control easier by keeping changes neat and localised.

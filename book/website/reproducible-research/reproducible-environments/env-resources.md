@@ -10,7 +10,8 @@
 <a name="What_to_learn_next"></a>
 ## What to learn next
 
-We recommend reading the chapter on testing, and then the chapter on continuous integration. Note that the chapter on version control is a prerequisite for the chapter on continuous integration. The open research chapter also contains further information on sharing research reproducibly.
+We recommend reading the chapter on testing, and then the chapter on continuous integration.
+Note that the chapter on version control is a prerequisite for the chapter on continuous integration. The open research chapter also contains further information on sharing research reproducibly.
 
 <a name="Further_reading"></a>
 ## Further reading

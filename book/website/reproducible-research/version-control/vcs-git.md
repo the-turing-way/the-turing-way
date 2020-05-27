@@ -1,4 +1,4 @@
-## Getting Started with Git
+# Getting Started with Git
 
 To get started, please make sure that your have Git installed on your computer.
 Instructions for installing Git on Linux, Windows and mac machines are available [here](https://Git-scm.com/book/en/v2/Getting-Started-Installing-Git).

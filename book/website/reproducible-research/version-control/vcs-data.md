@@ -1,7 +1,7 @@
-## Version Control for data
+# Version Control for data
 
 We discussed that version controlling the components of evolving projects
-can help to make work more organized, efficient, collaborative, and reproducible.
+can help to make work more organised, efficient, collaborative, and reproducible.
 Many scientific projects, however, do not only contain code, manuscripts, or
 other small-sized files.
 Many projects contain larger files such as (input) data or analysis results,
@@ -10,7 +10,7 @@ and manuscripts.
 The reproducibility aspect of a scientific project can improve a lot if we can
 track the subset or version of data certain analysis or result is based on.
 
-### Importance of version controlling data
+## Importance of version controlling data
 
 We should not hold the notion that the data used for analysis is static --
 once it is acquired, it does not change but serves as input for a given
@@ -38,7 +38,7 @@ in precise versions is part of the of a research outcome.
 
 ![Provenance on which data in which version was underlying which computation is crucial for reproducibility](../../figures/Provenance.jpg)
 
-### Challenges in version controlling data
+## Challenges in version controlling data
 
 Depending on the size of the data and the modifications it undergoes, version
 control tools such as Git may not be suitable for data.
@@ -50,7 +50,7 @@ character separated files, Git and similar tools can handle them well.
 When you work, share, and collaborate on large, potentially
 [binary](https://en.wikipedia.org/wiki/Binary_file) files (such as many
 scientific data formats), you need to think about ways to version control this
-data with specialized tools.
+data with specialised tools.
 This is because most version control tools - among them Git - are not well
 suited to handle large binary data.
 As Git repository stores every version of every file that is added to it,
@@ -71,27 +71,27 @@ These shortcomings can make version controlling files tedious and slow, impede
 collaborations on repositories with large data, and prevent data or projects
 with data from being shared on platforms like GitHub.
 
-### Tools for version controlling data
+## Tools for version controlling data
 
 Several tools are available to handle version controlling and sharing large
 files.
-Most of them integrate very well with Git and extend Gits functionality or the
+Most of them integrate very well with Git and extend Git functionality or the
 repository's capabilities to version control large files.
 With these tools, large data can be added to a repository, version controlled,
 reverted to previous states, or updated and modified collaboratively, and even
 shared via GitHub as small-sized files.
 
-#### Git LFS
+### Git LFS
 
 One of these tools is [Git LFS](https://git-lfs.github.com/).
 It comes with a command-line extension to Git and allows you to treat files of
 any size alike, using standard Git commands.
-A major shortcoming, however, is that Git LFS is a _centralized_ solution.
+A major shortcoming, however, is that Git LFS is a _centralised_ solution.
 Large files are not distributed but stored on a remote server.
 This usually requires setting up your server or paying for a service - which
 can make it very inaccessible.
 
-#### git-annex
+### git-annex
 
 The [git-annex](https://git-annex.branchable.com/) tool is an alternative.
 This is a distributed system that can manage and share large files independent
@@ -112,7 +112,7 @@ external storage solutions.
 On-demand, any file content can then be obtained with a `git-annex get` command
 from the external file storage.
 
-#### DataLad
+### DataLad
 
 Yet another tool, [DataLad](https://www.datalad.org/), builds upon Git and
 git-annex.

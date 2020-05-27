@@ -27,7 +27,7 @@ Victoria Stodden [(2014)](http://edge.org/response-detail/25340), a prominent sc
 At _The Turing Way_ we define **reproducible research** as work that can be independently recreated from the same data and the same code that the original team used.
 Reproducible is distinct from replicable, robust and generalisable as described in the figure below.
 
-| ![Kirstie's definition of reproducible research](../../figures/reproducibility/ReproducibleMatrix.jpg) |
+| ![Kirstie's definition of reproducible research](../../figures/ReproducibleMatrix.jpg) |
 | -------------------------------------------------------------------------------------------------------- |
 |  How the Turing Way defines reproducible research  |
 

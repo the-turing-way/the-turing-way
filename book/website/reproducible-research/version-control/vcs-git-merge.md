@@ -1,4 +1,4 @@
-## The Git Merge command
+# The Git Merge command
 
 Once you've finished up some work on a branch and you're are ready to integrate it to your main project (or any other branch) you can merge the branch that you worked on into the master branch or any other target branch of your interest.
 You can also use merging to combine work that other people have done with your own and vice versa.

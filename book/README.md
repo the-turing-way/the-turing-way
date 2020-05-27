@@ -10,9 +10,9 @@ Everything else is in the `website/` directory.
 ### Configuration
 
 - The table of contents (TOC) defines the order of chapters as they appear in the book.
-To change the TOC, please edit the `website/_toc.yml` file with correct information on filenames and their relative locations in this repository. 
+To change the TOC, please edit the `website/_toc.yml` file with correct information on filenames and their relative locations in this repository.
 Documentation on controlling the TOC structure can be found on the [jupyter book website](https://jupyterbook.org/customize/toc.html).
-- Same applies for more general configuration using `website/_config.yml`. 
+- Same applies for more general configuration using `website/_config.yml`.
 Documentation on configuring book settings can be found on the [jupyter book website](https://jupyterbook.org/customize/config.html).
 
 ### Deploying
@@ -32,8 +32,30 @@ Finally, to build the book and preview your changes locally you can run the foll
 cd book/website
 jupyter-book build .
 ```
-
 Now you can open the path provided by jupyter-book as output in your terminal.
+
+#### Clean up the recent build
+
+When you test your edits by building the book multiple times, it is better to clean up the last build before generating a new one.
+You can either manually delete the `book/website/_build` folder every time, or run this command:
+```
+cd book/website
+jupyter-book clean .
+```
+More details on this process can be read on the [JupyterBook's GitHub repository](https://github.com/executablebooks/jupyter-book/blob/master/docs/advanced/advanced.md#clean-your-books-generated-files).
+
+#### Check external links in the book
+
+When editing or reviewing this book locally, you can run the Sphinx link checker with Jupyter Book to check if the external links mentioned in the book are valid.
+To run the link checker, use the following command:
+
+```
+cd book/website
+jupyter-book build . --builder linkcheck
+```
+
+The link checker checks if the each link resolves and prints the status on your terminal so that you can check and resolve any incorrect links.
+Read more about this on the [JupyterBook's GitHub repository](https://github.com/executablebooks/jupyter-book/blob/master/docs/advanced/advanced.md#check-external-links-in-your-book)
 
 #### Installing Dependencies in  a  virtual environment
 
@@ -66,7 +88,7 @@ If you want to deploy the book on Netlify, you'll need the following settings:
 - Build command: `pip install -r requirements.txt && jupyter-book build .`
 - Publish directory: `book/website/_build/html`
 
-Netlify is smart and will find your requirements.txt to do the install for you. :slightly_smiling_face: 
+Netlify is smart and will find your requirements.txt to do the install for you. :slightly_smiling_face:
 
 You can find the build history or logs for _The Turing Way_ at https://app.netlify.com/sites/the-turing-way/deploys.
 

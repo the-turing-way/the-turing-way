@@ -2,11 +2,11 @@
 
 _The Turing Way_ is an Open Access community-driven guide to reproducible, ethical, inclusive and collaborative data science.
 
-![The Turing Way project as a street of shops to different data science skills, and people are going in and out with their shopping cart](figures/welcome/welcome.jpg)
-
 Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end.
 
 This also means making sure PhD students, postdocs, PIs, and funding teams know which parts of the "responsibility of reproducibility" they can affect, and what they should do to nudge data science to being more efficient, effective, and understandable.
+
+![The Turing Way project as a street of shops to different data science skills, and people are going in and out with their shopping cart](figures/welcome.jpg)
 
 The book is collaboratively written and open from the start.
 If you would like to contribute please [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch) or visit our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) to learn how to start.
@@ -40,7 +40,7 @@ Check out our [contributing guidelines](https://github.com/alan-turing-institute
 
 _The Turing Way_ is built by an incredible team.....and you!
 
-![](../figures/TuringWayTeam.jpg)
+![](figures/TuringWayTeam.jpg)
 
 The lead investigator for this project is [Dr Kirstie Whitaker](https://whitakerlab.github.io/about).
 She is a research fellow at the [Alan Turing Institute](http://turing.ac.uk) and senior research associate in the [Department of Psychiatry](https://www.psychiatry.cam.ac.uk) at the University of Cambridge.
@@ -61,7 +61,7 @@ Our core contributors are, in alphabetical order:
 
 You can see all of our incredible contributors in our [README](https://github.com/alan-turing-institute/the-turing-way#contributors) file, and screengrabbed below.
 
-![Grid of pictures and names of project contributors](../figures/contributors-twopanel.png)
+![Grid of pictures and names of project contributors](figures/contributors-twopanel.png)
 
 ## Citing _The Turing Way_
 

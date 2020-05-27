@@ -1,6 +1,6 @@
-## Personal stories
+# Personal stories
 
-### An interview with Adina on DataLad
+## An interview with Adina on DataLad
 
 Version controlling data can be really hard. Adina knows this because she is part
 of a team that develops DataLad and uses it to solve data management challenges.

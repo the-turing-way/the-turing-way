@@ -99,7 +99,7 @@ Docker, and how they function. The best advice for using images built by others 
 something on your machine if it comes from a trusted source. Docker Hub has "official image" badges for commonly used,
 verified images as shown here:
 
-![Docker_official_image](../../figures/reproducibility/docker_official_image.png)
+![Docker_official_image](../../figures/docker_official_image.png)
 
 <a name="Installing_Docker"></a>
 ## Installing Docker
@@ -231,7 +231,7 @@ being done.
 
 Here's what happens if a container is opened from an image called book_example built from the example above:
 
-![container_example](../../figures/reproducibility/container_example.png)
+![container_example](../../figures/container_example.png)
 
 As you can see the directory "project" has been created, and if we look inside the project files "analysis.py" and
 "data.csv" have been copied into it. Because the software required for the project has already been included by the
@@ -261,7 +261,7 @@ RUN mkdir B_1
 RUN mkdir B_2
 ```
 
-![workdir_example](../../figures/reproducibility/workdir_example.png)
+![workdir_example](../../figures/workdir_example.png)
 
 Directories B_1 and B_2 have been created within directory A.
 
@@ -271,7 +271,7 @@ but this can lead to errors. After each `RUN` statement in a Dockerfile the imag
 applied to the image anew. As an example here is what happens in the above example if the `WORKDIR A` line is swapped
 for `RUN cd A`
 
-![cd_example](../../figures/reproducibility/cd_example.png)
+![cd_example](../../figures/cd_example.png)
 
 All the directories have are in the top level in this case, rather than B_1 and B_2 being inside A. This is because the
 image was restarted after the `RUN cd A` command and opened at the top (root) level by default, so that is where the

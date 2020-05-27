@@ -1,4 +1,4 @@
-# Risk assessment: complexity and impact 
+# Risk assessment: complexity and impact
 
 We all use risk assessments all the time. Sometimes they’re formal procedures to ensure an activity is safe, but most of the time they’re the thought of a moment- Is this coffee too hot?
 Is there a bus coming? Software is no different, and using a risk assessment approach like the one described below can really help make your work successful and sustainable.
@@ -8,7 +8,7 @@ Is there a bus coming? Software is no different, and using a risk assessment app
 A risk matrix is a very popular way of quantifying what’s going on with the thing you’re interested in. One axis measures exposure in some way, and the other the impact of a mishap.
 The further from the origin, the more safeguards are needed to make the risk acceptable.
 
-![Impact vs complexity risk matrix](../../figures/reproducibility/risk_matrix.png)
+![Impact vs complexity risk matrix](../../figures/risk_matrix.png)
 
 In our case, we will use ‘complexity’ and ‘impact’ as the two axes. Some case studies illustrate how it works…
 
@@ -37,12 +37,23 @@ The risk assessment approach helps you find the right balance for now. Revisit t
 
 <a name="More_about_measuring_complexity"></a>
 ### More about measuring complexity
-One measure of complexity is line count. The more lines you have the more places there are to make a mistake. However, there are other things one might care about. How many libraries do you depend on? How many functions are there? All of these measure the complexity of the codebase.
-Complexity can take other forms too. How many use cases are there? Does your blob counting software only get used for counting blobs in the biosciences? Are there people using it to count blobs in CCTV images? What types of computer are people using it on? CPU? GPU? Raspberry Pi?
+One measure of complexity is line count.
+The more lines you have the more places there are to make a mistake. However, there are other things one might care about.
+How many libraries do you depend on? How many functions are there? All of these measure the complexity of the codebase.
+Complexity can take other forms too.
+How many use cases are there?
+Does your blob counting software only get used for counting blobs in the biosciences?
+Are there people using it to count blobs in CCTV images?
+What types of computer are people using it on?
+CPU? GPU? Raspberry Pi?
 Take a broad view of your software.
 
 <a name="More_about_measuring_impact"></a>
 ### More about measuring impact
-What happens when (not if) your software doesn’t work? Sometimes, it just annoys you for a few minutes. However, other software going wrong can have huge consequences- the retraction of your seminal paper or even lives being lost.
-Measuring the impact requires good knowledge of what your software is being used for. It can sometimes be difficult to keep track of this until things go wrong. However, one can try to head this off at the pass by asking questions like ‘is this piece of software I use for the analysis in my paper any good?’.
+What happens when (not if) your software doesn’t work?
+Sometimes, it just annoys you for a few minutes.
+However, other software going wrong can have huge consequences- the retraction of your seminal paper or even lives being lost.
+Measuring the impact requires good knowledge of what your software is being used for.
+It can sometimes be difficult to keep track of this until things go wrong.
+ However, one can try to head this off at the pass by asking questions like ‘is this piece of software I use for the analysis in my paper any good?’.
 Again, take a broad view of your software.

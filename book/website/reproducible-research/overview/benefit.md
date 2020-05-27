@@ -3,7 +3,7 @@
 In the previous chapter, we discussed the different aspects of reproducible research that are beneficial for the scientific community.
 In this chapter, we will share some less obvious aspects of working reproducibly for individual researchers and teams.
 
-![Why we should care about working reproducibly](../../figures/reproducibility/reasons_reproducibility.png)
+![Why we should care about working reproducibly](../../figures/reasons_reproducibility.png)
 
 **1. Track a complete history of your research**
 

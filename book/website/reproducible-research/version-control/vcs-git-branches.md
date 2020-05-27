@@ -1,4 +1,4 @@
-## The Git Branches
+# The Git Branches
 
 - If you add a new feature to your project you run the risk of accidentally breaking your working code as you test the feature.
 This would cause unexpected issues for active users of your project, even if the only active user is you.
@@ -47,7 +47,7 @@ If you decide to get rid of a branch you can delete it with:
 git branch -D name_of_the_branch
 ```
 
-### Good practice
+## Good practice
 
 Branches should be used to **keep the master branch clean**.
 That is, the master should only contain work which is complete and tested and so rightfully belongs in the master version of the project.

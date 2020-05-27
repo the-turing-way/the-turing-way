@@ -10,7 +10,7 @@ This section focuses on the typical workflows behind a formal review process, as
 <a name="forks_and_branches"></a>
 ### Forks and branches
 
-For a formal review process to work effectively, it's imperative that the project is using good [version control](/version_control/version_control). The review step occurs between the points where the coder believes their contribution is complete and where that contribution is merged into the trunk code for the project, and so it is intimately associated with a single pull request. Creation of the review and discussion between the reviewer and the coder occurs once the pull request is made and before it is merged into the master. In the github system, the review is begun directly from and often accessed through the pull request page.
+For a formal review process to work effectively, it's imperative that the project is using good [version control](/version_control/version_control). The review step occurs between the points where the coder believes their contribution is complete and where that contribution is merged into the trunk code for the project, and so it is intimately associated with a single pull request. Creation of the review and discussion between the reviewer and the coder occurs once the pull request is made and before it is merged into the master. In the GitHub system, the review is begun directly from and often accessed through the pull request page.
 
 Within the Github environment, projects can be configured to *require* a review before a given pull request can be merged. Even if this option hasn't been selected, it's still possible (and indeed best practice) to manually request a review on a pending PR.
 
@@ -29,11 +29,17 @@ A reviewer should check these things, but defects on these fronts should be by o
 <a name="create_discuss_change"></a>
 ### Create and discuss the review; make the changes
 
-At this point, the review process can begin. In Github, the reviewer can provide both general comments as well as line-by-line comments. Each comment becomes its own comment thread, permitting back-and-forth discussion about each issue as required. This interaction should allow consensus to be reached on every comment. In most cases, the reviewer has final say if a consensus cannot be found.
+At this point, the review process can begin. In Github, the reviewer can provide both general comments as well as line-by-line comments.
+Each comment becomes its own comment thread, permitting back-and-forth discussion about each issue as required.
+This interaction should allow consensus to be reached on every comment.
+In most cases, the reviewer has final say if a consensus cannot be found.
 
-Once post-review changes have been made to the code, make final updates the comments as needed to complete a papertrail of what has been done and the reasoning behind it.
+Once post-review changes have been made to the code, make final updates the comments as needed to complete a history of what has been done and the reasoning behind it.
 
 <a name="make_the_merge"></a>
 ### Make the merge
 
-Once the review process is complete, the merge can occur. Individual projects typically have rules and/or guidelines for whether the coder or the reviewer actually presses the merge button, so check. In many cases, project workflows make completion of a review and its sign-off by the reviewer a formal precondition of performing the merge. For the avoidance of doubt, adopting this principle even for small or informal projects is probably sensible.
+Once the review process is complete, the merge can occur.
+Individual projects typically have rules and/or guidelines for whether the coder or the reviewer actually presses the merge button, so check.
+In many cases, project workflows make completion of a review and its sign-off by the reviewer a formal precondition of performing the merge.
+For the avoidance of doubt, adopting this principle even for small or informal projects is probably sensible.

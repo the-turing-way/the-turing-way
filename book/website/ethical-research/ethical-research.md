@@ -1,6 +1,6 @@
 # Guide for Ethical Research
 
-![](figures/ethics/ethics.jpg)
+![](../figures/ethics.jpg)
 
 # Ethics
 

@@ -154,7 +154,7 @@ we combine the three commands in a single recipe above.
 
 This is what the dependency tree looks like for this Makefile:
 
-![DAG for Makefile no. 1](../../figures/reproducibility/makefile_no_1.png)
+![DAG for Makefile no. 1](../../figures/makefile_no_1.png)
 <small style="margin: 5pt auto; text-align: center; display: block;">The
 dependency graph for our first Makefile, created using
 [makefile2graph](#tools). Notice the similarity to the figure at the
@@ -499,6 +499,6 @@ many dependencies!
 
 The resulting PDF file should now look like this:
 
-![Report with all genres](../../figures/reproducibility/make_report_all_genres.png)<small
+![Report with all genres](../../figures/make_report_all_genres.png)<small
 style="margin: 5pt auto; text-align: center; display: block;">A compressed
 view of the report with histograms for all genres.</small>

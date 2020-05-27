@@ -29,7 +29,7 @@ analysis pipeline.  We also describe a real-world reproducible research
 project that uses Make to go from the raw input data to the experiments all
 the way to the pdf file of the paper!
 
-![Schematic of a research project](../../figures/reproducibility/make_research_dag.png)
+![Schematic of a research project](../../figures/make_research_dag.png)
 <small style="margin: 5pt auto; text-align: center; display: block;">A
 schematic for a research project that uses LaTeX.</small>
 

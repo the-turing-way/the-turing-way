@@ -1,4 +1,4 @@
-## Retrieving past versions
+# Retrieving past versions
 
 To cancel your latest commit (revert to the previous version), run the following command:
 ```
@@ -19,7 +19,7 @@ If you want the old version of a single file and not the previous version of the
  git checkout SHA_of_the_version -- your_file_name
  ```
 
-### Good practice
+## Good practice
 
 Commits should be 'atomic', meaning, **they should do one simple thing and they should do it completely**, for example, adding a new function or renaming a variable.
 If a lot of different changes to your project are all committed together, it can be hard to troubleshoot if any error appears in that version and undoing the whole commit may throw away valid and useful work.

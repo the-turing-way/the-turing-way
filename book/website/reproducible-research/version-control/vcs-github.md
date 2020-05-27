@@ -1,4 +1,4 @@
-## Using Git commands to work on Git repositories online
+# Using Git commands to work on Git repositories online
 
 As research becomes increasingly collaborative and multiple people work on the same project, it becomes difficult to keep track of changes made by others if not done systematically.
 Moreover, it is time-consuming to manually incorporate the work of different participants in a project, even when all of their changes are compatible.
@@ -7,17 +7,17 @@ If you are new to collaboration through [GitHub](https://github.com), please fol
 
 In this section we will discuss how to use Git commands to work with online Git repository.
 
-Please note that the commands listed in this chapter (both in the previous and this subchapter) are NOT specific to GitHub. 
-They are used for collaborative work on any Git repositories and to interact with any repository hosting site/servers, which can be [GitHub](https://github.com/), but also [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) or a [self-set-up bare Git repository on a web server](https://opensource.com/life/16/8/how-construct-your-own-git-server-part-6). 
+Please note that the commands listed in this chapter (both in the previous and this subchapter) are NOT specific to GitHub.
+They are used for collaborative work on any Git repositories and to interact with any repository hosting site/servers, which can be [GitHub](https://github.com/), but also [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) or a [self-set-up bare Git repository on a web server](https://opensource.com/life/16/8/how-construct-your-own-git-server-part-6).
 
 For simplicity purpose, we will use GitHub as an example to explain commands that are used for interacting with Git repositories.
 
-### Create a local copy of an online repository
+## Create a local copy of an online repository
 
 So far, all Git commands introduced in this chapter concerned local, unconnected Git repositories.
-In order to collaborate with others, hosting services such as GitHub can store a *clone* (a copy) of your local repository and expose it to others. 
-Usually, you will have a local repository and a *remote*, web-hosted repository. 
-Your local repository is connected to the web-based clone. 
+In order to collaborate with others, hosting services such as GitHub can store a *clone* (a copy) of your local repository and expose it to others.
+Usually, you will have a local repository and a *remote*, web-hosted repository.
+Your local repository is connected to the web-based clone.
 In technical terms, the web-based clone is a `remote` of the local repository. Usually, this remote is called "origin".
 Having a web-based remote allows you to *push* changes of your project online, allows others to obtain their own clone of your repository (a copy of your repository to their local computer), make changes, and submit a *pull request* that allows you to integrate their changes.
 For example, one can create an independent local copy of the project using the following Git command:
@@ -35,7 +35,7 @@ Similarly, they can edit files locally and stage their updates (`git add .`), co
 git push
 ```
 
-### Link a local project on your computer to an online repository
+## Link a local project on your computer to an online repository
 
 To link a project on your computer to a new GitHub repository (preferably with the same name) you need to follow the standard workflow for creating a Git repository (described in the [version control chapter](/version_control/01/vcs_workflow)) by using the following set of commands in the terminal one by one:
 
@@ -97,14 +97,14 @@ However, if you can not directly edit the repository (when you are not an owner 
 A pull request allows a contributor get their proposed changes from their personal branch or repository integrated in their master branch of the project.
 It is also possible to make pull requests via the command line (see the GitLab documentation [here](https://git-scm.com/docs/git-request-pull)), but we have discussed this in detail in the collaborating with GitHub chapter in this book.
 
-### Contributing to other projects
+## Contributing to other projects
 
 When you create a local copy of a repository, you only keep the versions of the files that are in the repository at the time of creating that copy.
 If there are any changes made in the original repository afterwards, your copy will get out of sync out of sync.
 This can lead to problems like conflicting file contents when making a pull request or merging changes from your branch to the main repository.
 Therefore, when working on different branches or forks of a repository, it's a good practice to keep them updated frequently with the master repository and keep them in sync with the original repository.
 
-#### A workflow to contribute to others GitHub projects via `git`:
+### A workflow to contribute to others GitHub projects via `git`:
 
 Using the fork botton on the GitHub repository you wish to contribute, create a personal copy of the repository in your account.
 The master repository that you forked will be referred as "upstream" repository.
@@ -181,7 +181,7 @@ git push origin forked_repository
 
 Now you can make a pull request!
 
-#### Good practice
+### Good practice
 
 Before you create a branch, make sure you have all the upstream changes from the origin/master branch.
 
@@ -189,6 +189,6 @@ A word of caution on the `rebase` command: While trying to keep your branches in
 It tends to rewrite history and could be troublesome if not communicated with others working on the same branch, therefore try to avoid using `rebase` command, and instead use `pull` or `fetch`+`merge` as discussed in this section.
 You can find more details about Merging vs Rebasing [here](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
-#### Further reading
+### Further reading
 - An article on syncing a fork of a repository to keep it up-to-date with the upstream repository can be found [here](https://help.github.com/en/articles/syncing-a-fork).
 - If you wish to do it all in the browser itself, instructions to do so can be found [here](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser).

@@ -20,9 +20,9 @@ Researcher-written code now forms a part of a huge portion of research, and if t
 
 Here's a couple of examples of why should write tests:
 
-![testing_motivation_1](../../figures/reproducibility/testing_motivation_1.png)
+![testing_motivation_1](../../figures/testing_motivation_1.png)
 
-![testing_motivation_2](../../figures/reproducibility/testing_motivation_2.png)
+![testing_motivation_2](../../figures/testing_motivation_2.png)
 
 It is very, very easy to make mistakes when coding. A single misplaced character can cause a program's output to be entirely wrong. One of the examples above was caused by a plus sign which should have been a minus. Another was caused by one piece of code working in meters while a piece of code written by another researcher worked in feet. *Everyone* makes mistakes, and in research the results can be catastrophic. Careers can be damaged/ended, vast sums of research funds can be wasted, and valuable time may be lost to exploring incorrect avenues. This is why tests are vital.
 

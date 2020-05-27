@@ -1,4 +1,4 @@
-# Research compendia
+# Research Compendia
 
 ## Prerequisites / recommended skill level
 
@@ -19,7 +19,7 @@ This chapter has many prerequisites as it takes all digital components of a proj
 That said: a research compendium can be constructed with minimal technical knowledge.
 The main purpose is that all elements of a project are published together, so a basic folder structure combining all components can be sufficient.
 
-![Cartoon of a research compendium](../../figures/reproducibility/ResearchCompendium.jpg)
+![Cartoon of a research compendium](../../figures/ResearchCompendium.jpg)
 
 ## How this will help you/why this is useful
 
@@ -47,7 +47,7 @@ With these principles, a wide variety of compendia are possible.
 Let's start with the most basic version.
 
 
-##### Basic research compendium
+#### Basic research compendium
 
 A basic compendium follows these three principles.
 It separates data and methods into a conventional folder structure, and describes the computational environment in a designated file.
