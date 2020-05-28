@@ -20,7 +20,8 @@ Please provide as much context as possible and link to related issues and/or pul
 
 ### What needs to be done?
 
-<!-- We suggest using bullets (indicated by * or -) and filled checkboxes [x] here -->
+<!-- In this section please comment on the overall structure of the file. Your response can cover the following questions: Do sections need clearer headings? Are there any technical terms that might not be understood? Is something missing that is worth discussing before adding?
+We suggest using bullets (indicated by * or -) and filled checkboxes [x] here -->
 
 - [ ] <!-- Do sections need clearer headings? --> Thoughts on structure:
 - [ ] <!-- Are there any technical terms that might not be understood? --> Needed clarifications: 
