@@ -12,7 +12,8 @@ Please complete the following sections when you open an issue. You are encourage
 -->
 ### Summary
 
-<!-- Please provide a detailed description of the change or addition you are proposing, or the question you're asking. Please provide as much context as possible and link to related issues and/or pull requests.
+<!-- Please provide a detailed description of the chapter/subchapter you propose to edit, review or restructure. 
+Please provide as much context as possible and link to related issues and/or pull requests.
 -->
 
 *Lorem ipsum dolor sit amet, consectetur adipiscing.*
