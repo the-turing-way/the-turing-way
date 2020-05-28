@@ -14,6 +14,7 @@ Please complete the following sections when you open an issue. You are encourage
 
 <!-- Please provide a detailed description of the chapter/subchapter you propose to edit, review or restructure. 
 Please provide as much context as possible and link to related issues and/or pull requests.
+Providing links to sections you're referencing for clarity is highly encouraged.
 -->
 
 *Lorem ipsum dolor sit amet, consectetur adipiscing.*
