@@ -1,4 +1,4 @@
-# Naming files, folders and other things 
+# Naming files, folders and other things
 
 ## Prerequisites / recommended skill level
 
@@ -15,7 +15,7 @@ Using good names is probably the easiest way to improve reproducibility and reus
 
 ## Chapter content
 
-There are three principles to naming things; the first two apply to all kinds of things and the third is optional but valuable for keeping track of your files. 
+There are three principles to naming things; the first two apply to all kinds of things and the third is optional but valuable for keeping track of your files {cite}`Bryan2015Filenaming`.
 
 File names should be:
 1. Machine readable
@@ -44,7 +44,6 @@ The file names `Joe´s Filenames Use Spaces and Punctuation.xlsx` and `JW7d^(2sl
 
 Good file/folder names are easy to search for (also using regular expressions) and easy to compute on (for example by splitting on `_` or `-` characters).
 
-
 ### Human readable
 
 To achieve human readability, it is helpful to have short (< 25 characters) but descriptive names that contain information on the content of the file/folder.
@@ -55,20 +54,20 @@ For web links or Uniform Resource Locator (URL), this concept is called [clean U
 
 ### Play well with default ordering
 
-To create a good default ordering adding a number or date at the beginning of the name is often a good idea. 
-This keeps our files sorted in ascending order based on file versions or in chronological order. 
-For instance, we often organize all our slide decks created on different dates in the same folder. 
+To create a good default ordering adding a number or date at the beginning of the name is often a good idea.
+This keeps our files sorted in ascending order based on file versions or in chronological order.
+For instance, we often organize all our slide decks created on different dates in the same folder.
 To sort them by their date of creation, we can start the file names with `year-month-day` (for example `2020-02-21`).
-We recommend using something like the [ISO 8601 standard: YYYY-MM-DD](https://en.wikipedia.org/wiki/ISO_8601) for dates. 
-If you use other numbers, we recommend left padding them with zeros, because your computer will order `003 < 004 < 020 < 100` as opposed to `100 < 20 < 3 < 4`. 
+We recommend using something like the [ISO 8601 standard: YYYY-MM-DD](https://en.wikipedia.org/wiki/ISO_8601) for dates.
+If you use other numbers, we recommend left padding them with zeros, because your computer will order `003 < 004 < 020 < 100` as opposed to `100 < 20 < 3 < 4`.
 
 Naming folders according to a logical number can lead to a mess if the ordering changes in the future.
-For example, there is a folder with the book chapters `01_introduction`, `02_naming_files`, and `03_naming_folders`. The author writes a preface of the book and decides to squeeze it before the introduction chapter. This would mean that they will have to rename all the files to maintain the intended order. 
+For example, there is a folder with the book chapters `01_introduction`, `02_naming_files`, and `03_naming_folders`. The author writes a preface of the book and decides to squeeze it before the introduction chapter. This would mean that they will have to rename all the files to maintain the intended order.
 This happens a lot and clearly, this has more downsides than upsides.
 
 ## Checklist
 
-Here are some tips for naming files within a research project, which are both human- and machine-readable (taken from [Research Data Management at Princeton](https://libguides.princeton.edu/c.php?g=102546&p=930626))
+Here are some tips for naming files within a research project, which are both human- and machine-readable {cite}`Cowles2019Filenaming,Hodge2015Filenaming`:
 
 - [ ] Name your files consistently
 - [ ] Keep it short but descriptive
@@ -82,12 +81,11 @@ Here are some tips for naming files within a research project, which are both hu
 
 ## What to learn next
 
-Want to build a folder with all the files from your research project? 
+Want to build a folder with all the files from your research project?
 Check out our chapter on [research compendia](research_compendia/research_compendia).
 
 
 ## Bibliography
 
-- Jenny Brian's slide deck on [naming things](https://speakerdeck.com/jennybc/how-to-name-files).
-- File naming and file structure recommendations by [Research Data Management at Princeton](https://libguides.princeton.edu/c.php?g=102546&p=930626)
-- Amy Hodge compiled a set of recommendations as [best practices for file naming](https://library.stanford.edu/research/data-management-services/data-organization/best-practices-file-naming) and [case studies of file naming done well](https://library.stanford.edu/research/data-management-services/case-studies/case-study-file-naming-done-well) at Data Management Services in Stanford Library
+```{bibliography} ../../_bibliography/references.bib
+```

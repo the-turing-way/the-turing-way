@@ -6,8 +6,8 @@ The following sections in this handbook provide useful context and complementary
 
 | Prerequisite                                        | Importance |
 | --------------------------------------------------- | ---------- |
-| [Version Control](/version_control/version_control) | Helpful    |
-| [Open Research](/open_research/open_research)       | Helpful    |
+| [Version Control](/version-control) | Helpful    |
+| [Open Research](/open-research)       | Helpful    |
 
 ## Summary
 

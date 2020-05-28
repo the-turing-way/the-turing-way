@@ -41,7 +41,7 @@ If your project is set up such that each time a pull request is made on GitHub T
 <a name="Small_iterative_changes"></a>
 ### Small, iterative changes
 
-One of the most important practices when adopting continuous integration is to encourage project members to make and commit small changes. Small changes minimize the possibility and impact of problems cropping up when they're integrated, which minimises the time and effort cost of integration.
+One of the most important practices when adopting continuous integration is to encourage project members to make and commit small changes. Small changes minimise the possibility and impact of problems cropping up when they're integrated, which minimises the time and effort cost of integration.
 
 <a name="Trunk_based_development"></a>
 ### Trunk-based development
@@ -53,7 +53,7 @@ The idea behind trunk-based development is to avoid large commits that violate o
 <a name="Keep_the_building_and_testing_phases_fast"></a>
 ### Keep the building and testing phases fast
 
-Because the build and test steps must be performed frequently, it is essential that these processes be streamlined to minimize the time spent on them. Increases in build time should be treated as a major problem because the impact is compounded by the fact that each commit kicks off a build.
+Because the build and test steps must be performed frequently, it is essential that these processes be streamlined to minimise the time spent on them. Increases in build time should be treated as a major problem because the impact is compounded by the fact that each commit kicks off a build.
 
 When possible, running different sections of the test suite in parallel can help move the build through the pipeline faster. Care should also be taken to make sure the proportion of each type of test makes sense. Unit tests are typically very fast and have minimal maintenance overhead. In contrast, automated system or acceptance testing is often complex and prone to breakage. To account for this, it is often a good idea to rely heavily on unit tests, conduct a fair number of integration tests, and then back off on the number of later, more complex testing.
 

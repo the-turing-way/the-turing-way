@@ -5,7 +5,7 @@
 | Prerequisite | Importance | Notes |
 | ------------ | ---------- | ----- |
 | [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | |
-| [Version control](/version_control/version_control) | Helpful | Experience using git is useful to follow along with examples |
+| [Version control](./version-control) | Helpful | Experience using git is useful to follow along with examples |
 
 Recommended skill level: intermediate
 

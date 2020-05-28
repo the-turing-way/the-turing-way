@@ -31,10 +31,12 @@ This project is openly developed and any and all questions, comments and recomme
 
 The book that you are reading is a [jupyter book](https://github.com/jupyter/jupyter-book/).
 Jupyter books render markdown documents and jupyter notebooks as static html web pages.
-They are easy to read and navigate...but also easy to edit and extend!
-There are some great example books at [https://jupyterbook.org](https://jupyterbook.org).
+To learn more about JupyterBook, visit [https://jupyterbook.org](https://jupyterbook.org).
+
+They are easy to read and navigate and allow easy access to edit and extend files by using the 'edit this page' :pencil2: on the right top corner of each page!
 
 Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) on how you can help us build the most useful book we can!
+
 
 ## The Turing Way Community
 
@@ -63,6 +65,7 @@ You can see all of our incredible contributors in our [README](https://github.co
 
 ![Grid of pictures and names of project contributors](figures/contributors-twopanel.png)
 
+(cite-tag)=
 ## Citing _The Turing Way_
 
 You can reference _The Turing Way_ through the project's Zenodo archive using doi: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).

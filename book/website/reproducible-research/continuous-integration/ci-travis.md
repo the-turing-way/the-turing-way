@@ -1,23 +1,5 @@
 # Continuous integration with Travis
 
-## Table of contents
-
-- [Overview](#Overview_of_travis)
-- [Setting up continuous integration with Travis](#Setting_up_continuous_integration_with_Travis)
-  - [Basic steps](#Basic_steps)
-  - [Setting up the computational environment](#Setting_up_the_computational_environment)
-    - [Operating system](#Operating_system)
-    - [Programming language](#Programming_language)
-    - [Compilers](#Compilers)
-    - [Dependencies](#Dependencies)
-    - [Containers](#Containers)
-  - [The `.travis.yml` script](#The_travis_yml_script)
-  - [After success](#After_success)
-  - [Testing a project against multiple versions of a programming language](#Testing_a_project_against_multiple_versions_of_a_programming_language)
-  - [Testing a project on multiple operating systems](#Testing_a_project_on_multiple_operating_systems)
-    - [Allowing failures](#Allowing_failures)
-
-<a name="Overview_of_travis"></a>
 ## Overview of Travis
 
 There are a number of CI tools available, such as Circle (tutorials [here](https://circleci.com/docs/2.0/project-walkthrough/) and [here](https://circleci.com/docs/2.0/hello-world/)).
@@ -54,10 +36,8 @@ You can use Travis to test your project in multiple computational environments m
 - Job - an automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code and running tests. A job fails if the return code of the script encounters an error.
 - Build - a group of jobs. For example, a build might have two *jobs*, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
 
-<a name="Setting_up_continuous_integration_with_Travis"></a>
 ## Setting up continuous integration with Travis
 
-<a name="Basic_steps"></a>
 ### Basic steps
 
 - Write a `.travis.yml` file and add it to your project.
@@ -70,12 +50,10 @@ You can use Travis to test your project in multiple computational environments m
 
 It's that simple. The rest of this section will describe the different components of the `.travis.yml` file and how to write them.
 
-<a name="Setting_up_the_computational_environment"></a>
 ### Setting up the computational environment
 
 This page on [common build problems](https://docs.travis-ci.com/user/common-build-problems/) is a good place to start troubleshooting if your build is broken.
 
-<a name="Operating_system"></a>
 #### Operating system
 
 Travis CI works with a few different operating systems. In the `.travis.yml` file define the operating system to run a project on via the os keyword like:
@@ -102,7 +80,6 @@ os: linux
 dist: trusty
 ```
 
-<a name="Programming_language"></a>
 #### Programming language
 
 Specify the programming language to run your project with using the language keyword, and specify which version of the language to use. So for python2.7 this would look like:
@@ -113,7 +90,6 @@ python:
 ```
 Further information on the programming languages that are compatible with Travis can be found [here](https://docs.travis-ci.com/user/languages/)
 
-<a name="Compilers"></a>
 #### Compilers
 
 If a compiled language is being used which compiler to run can be specified with the compiler keyword:
@@ -121,7 +97,7 @@ If a compiled language is being used which compiler to run can be specified with
 compiler:
   - gcc
 ```
-<a name="Dependencies"></a>
+
 #### Dependencies
 
 Not all languages/software are available on all operating systems however they can typically be installed within the `.travis.yml` file.
@@ -132,10 +108,10 @@ To install packages that are not included in the standard version of the operati
 before_install:
   - sudo apt-get install -y libxml2-dev
 ```
-<a name="Containers"></a>
+
 #### Containers
 
-It is possible to use Docker containers (see the reproducible computational environments chapter) to generate the computational environment by pulling and running the image from the `.travis.yml` file. If you are doing so you should pull or generate the image (preferably pull to save Travis from having to build the image from scratch) in the before_install step (see above section). Then in the `.travis.yml` file's script ([see next section](#The_travis_yml_script)) you can run a command to run your tests like:
+It is possible to use Docker containers (see the reproducible computational environments chapter) to generate the computational environment by pulling and running the image from the `.travis.yml` file. If you are doing so you should pull or generate the image (preferably pull to save Travis from having to build the image from scratch) in the before_install step (see above section). Then in the `.travis.yml` file's script ([see the next section](#The_travis_yml_script)) you can run a command to run your tests like:
 ```
 script:
   - sudo docker run -t image_name command_to_run
@@ -155,7 +131,6 @@ script:
 
 See [here](https://docs.travis-ci.com/user/docker/) for more information on this.
 
-<a name="The_travis_yml_script"></a>
 ### The `.travis.yml` script
 
 Travis will report that the build has failed if any commands in the script section return an error. Technically any commands can be included in the script, but it is mainly used for running tests. A script does not need to be long or complicated, as demonstrated by this example which uses the pytest command to run tests in python scripts:
@@ -171,7 +146,6 @@ If there are steps that need to be done before a project to be considered to be 
 
 If for any reason this cannot be done an error will be returned and the build will be marked as having failed.
 
-<a name="After_success"></a>
 ### After success
 
 The after success section is much like the script section in that it contains commands to run on the project. The key difference if that the build will not fail if steps in the after success section return errors.
@@ -193,7 +167,6 @@ after_success:
   - coverage report
 ```
 
-<a name="Testing_a_project_against_multiple_versions_of_a_programming_language"></a>
 ### Testing a project against multiple versions of a programming language
 
 When a project is expected to be run on systems with different versions of a programming language you can set Travis to run the tests on each of these versions. For example to test on a variety of versions of python:
@@ -205,7 +178,7 @@ python:
   - "3.2"
   - "3.3"
 ```
-<a name="Testing_a_project_on_multiple_operating_systems"></a>
+
 ### Testing a project on multiple operating systems
 
 If your code is used on multiple operating systems it should be tested on multiple operating systems. To enable testing on multiple operating systems add multiple entries under the `os` key in your `.travis.yml` file, for example:
@@ -224,7 +197,6 @@ When Travis is running a job it sets the `TRAVIS_OS_NAME` variable which describ
 
 It is possible to go further and construct a [build matrix](https://docs.travis-ci.com/user/build-matrix/) to test a the project in a range of computational environments.
 
-<a name="Allowing_failures"></a>
 #### Allowing failures
 
 To ignore the results of jobs in certain computational environments you can define rows that are allowed to fail in the build matrix. Do this by adding an `allow_failures` section to the `.travis.yml` file. Allowed failures are items in your build matrix that are allowed to fail without causing the entire build to fail.  For example to allow the build to pass even if the job(s) using the osx operating system fail you'd add the following to your `.travis.yml`:

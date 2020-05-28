@@ -9,7 +9,6 @@
 1.  [Summary](#summary)
 2.  [Static code analysis](#static-code-analysis)
 3.  [Code style](#code-style)
-    1.  [Automatic code formatters](#automatic-code-formatters)
 4.  [Online services providing software quality checks](#online-services-providing-software-quality-checks)
 
 ## Summary
@@ -52,13 +51,13 @@ Note that editors often support using these tools directly from the editor.
 
 ## Online services providing software quality checks
 
-There are several web services that analyze code and make the quality of the code visible.
+There are several web services that analyse code and make the quality of the code visible.
 Usually these services run one or more static code analysis tools that can also be used from the command line or integrated into your editor on your own computer.
 Using a code quality service that integrates with a GitHub/GitLab repository is highly recommended, as it will make it spot and communicate about quality issues in pull requests.
 
 Code quality analysis services are websites that often offer the following features:
 
-- Automaticly analyse your code after pushing it to GitHub/GitLab
+- Automatically analyse your code after pushing it to GitHub/GitLab
 - Usually free for open source projects
 - Support multiple programming languages, but not every language will have the same level of features
 - Grade or score for the quality of all of the code in the repository

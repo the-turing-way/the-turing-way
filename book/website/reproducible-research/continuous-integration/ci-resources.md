@@ -1,18 +1,9 @@
 # Resources
 
-## Table of contents
-
-- [What to learn next](#What_to_learn_next)
-- [Further reading](#Further_reading)
-- [Definitions/glossary](#Definitions_glossary)
-- [Bibliography](#Bibliography)
-
-<a name="What_to_learn_next"></a>
 ## What to learn next
 
 If you have not already read the testing chapter it is suggested to do so to learn more about the different kinds of tests and their benefits in order to make the most of CI.
 
-<a name="Further_reading"></a>
 ## Further reading
 
 Travis offers a great deal of functionality not described here for automating other processes related to the testing and deployment of projects. Look into these, the Travis [documentation](https://docs.travis-ci.com/user/deployment) offers a good starting point for this.
@@ -21,7 +12,6 @@ A list of example Travis builds and tests for various languages/frameworks is av
 
 Travis's official tutorial is [here](https://docs.travis-ci.com/user/tutorial/). A tutorial focussed on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), tutorials geared towards python can be found [here](https://docs.python-guide.org/scenarios/ci/) and [here](https://docs.travis-ci.com/user/languages/python/).
 
-<a name="Definitions_glossary"></a>
 ## Definitions/glossary
 
 **Build:** A group of jobs. For example, a build might have two jobs, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
@@ -36,7 +26,6 @@ Travis's official tutorial is [here](https://docs.travis-ci.com/user/tutorial/).
 
 **Travis:** A commonly used continuous integration platform.
 
-<a name="Bibliography"></a>
 ## Bibliography
 
 ### Materials used: What is continuous integration?

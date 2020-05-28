@@ -3,33 +3,24 @@
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
 | [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | Continuous integration will follow command line instructions
-| [Version control](/version_control/version_control) | Necessary | Continuous integration runs every time a new _commit_ is made to your project |
-| [Reproducible computational environments](/reproducible_environments/reproducible_environments) | Necessary | Continuous integration runs your tests on a separate computer (usually in the cloud) so you need to set it up in the same way. |
-| [Testing](/testing/testing) | Very helpful | Continuous integration _tests_ if anything important has changed when you make a change in your project |
+| [Version control](./version-control) | Necessary | Continuous integration runs every time a new _commit_ is made to your project |
+| [Reproducible computational environments](./reproducible-environments) | Necessary | Continuous integration runs your tests on a separate computer (usually in the cloud) so you need to set it up in the same way. |
+| [Testing](./testing) | Very helpful | Continuous integration _tests_ if anything important has changed when you make a change in your project |
 
-## Table of contents
-
-- [Summary](#Summary)
-- [How this will help you/ why this is useful](#Why_this_is_useful)
-- [What are continuous delivery and continuous deployment?](#What_are_continuous_delivery_and_continuous_deployment)
-
-<a name="Summary"></a>
 ## Summary
 
-Continuous integration (CI) is the practice of integrating changes to a project made by individuals into a main, shared version frequently (usually multiple times per day). CI software is also typically used to identify any conflicts and bugs that are introduced by changes, so they are found and fixed early, minimizing the effort required to do so. Running tests regularly also saves humans from needing to do it manually. By making users aware of bugs as early as possible researchers (if the project is a research project) do not waste a lot of time doing work that may need to be thrown away, which may be the case if tests are run infrequently and results are produced using faulty code.
+Continuous integration (CI) is the practice of integrating changes to a project made by individuals into a main, shared version frequently (usually multiple times per day). CI software is also typically used to identify any conflicts and bugs that are introduced by changes, so they are found and fixed early, minimising the effort required to do so. Running tests regularly also saves humans from needing to do it manually. By making users aware of bugs as early as possible researchers (if the project is a research project) do not waste a lot of time doing work that may need to be thrown away, which may be the case if tests are run infrequently and results are produced using faulty code.
 
-<a name="Why_this_is_useful"></a>
 ## How this will help you/ why this is useful
 
 CI has a number of key benefits:
 
-- Helps bugs to be found early, minimizing their damage and making them easier to fix
+- Helps bugs to be found early, minimising their damage and making them easier to fix
 - Keeps project contributors up to date with each other's work so they can benefit from it as soon as possible
 - Encourages users to write tests
 - Automates running of tests
 - Ensures tests are run frequently
 
-<a name="What_is_continuous_integration"></a>
 ## What is continuous integration?
 
 This chapter demands a strong understanding of version control. The central concepts you will need to recall are:
@@ -48,7 +39,6 @@ Integrating code frequently does not, by itself, offer any guarantees about the 
 
 By ensuring that your code is built and tested regularly CI helps researchers to demonstrate that their code does what it claims to do, and that it does so correctly. Typically, continuous integration servers will also allow build-and-test jobs to run at specific times, so a [CRON](https://en.wikipedia.org/wiki/Cron)-like, nightly-build-and-test, can be done, as well as a build-and-test job run on-demand.
 
-<a name="What_are_continuous_delivery_and_continuous_deployment"></a>
 ### What are continuous delivery and continuous deployment?
 
 Technically speaking the above explanation conflates three related concepts, continuous integration, continuous deployment, and continuous delivery. In reality:

@@ -15,16 +15,16 @@
 - file: reproducible-research/reproducible-research
   sections:
   - title: Overview
-    file: reproducible-research/overview/overview
+    file: reproducible-research/overview
     sections:
     - title: Definitions
       file: reproducible-research/overview/definitions
-    - title: Advantages of working reproducibly
+    - title: Added advantages
       file: reproducible-research/overview/benefit
     - title: Resources
       file: reproducible-research/overview/resources
   - title: Open Research
-    file: reproducible-research/open-research/open-research
+    file: reproducible-research/open-research
     sections:
     - title: Open Data
       file: reproducible-research/open-research/open-data
@@ -41,7 +41,7 @@
     - title: Resources of Open Research
       file: reproducible-research/open-research/open-resources
   - title: Version Control
-    file: reproducible-research/version-control/version-control
+    file: reproducible-research/version-control
     sections:
     - title: General Workflow
       file: reproducible-research/version-control/vcs-workflow
@@ -68,14 +68,14 @@
     - title: Resources for Version Control
       file: reproducible-research/version-control/vcs-resources
   - title: Licensing
-    file: reproducible-research/licensing/licensing
+    file: reproducible-research/licensing
     sections:
     - title: Software licenses
       file: reproducible-research/licensing/licensing-software
     - title: Data licenses
       file: reproducible-research/licensing/licensing-data
   - title: Research Data Management
-    file: reproducible-research/rdm/rdm
+    file: reproducible-research/rdm
     sections:
     - title: The FAIR principles and practices
       file: reproducible-research/rdm/data-fair
@@ -92,7 +92,7 @@
     - title: Resources
       file: reproducible-research/rdm/data-resources
   - title: Reproducible Environments
-    file: reproducible-research/reproducible-environments/reproducible-environments
+    file: reproducible-research/reproducible-environments
     sections:
     - title: Choosing a tool
       file: reproducible-research/reproducible-environments/env-options
@@ -111,7 +111,7 @@
     - title: Checklist for Reproducible Environments
       file: reproducible-research/reproducible-environments/env-checklist
   - title: BinderHub
-    file: reproducible-research/binderhub/binderhub
+    file: reproducible-research/binderhub
     sections:
     - title: Introduction to BinderHub
       file: reproducible-research/binderhub/binderhub-introduction
@@ -122,9 +122,9 @@
     - title: Resources for BinderHub
       file: reproducible-research/binderhub/binderhub-resources
   - title: Code quality
-    file: reproducible-research/code_quality/code_quality
+    file: reproducible-research/code_quality
   - title: Code Testing
-    file: reproducible-research/testing/testing
+    file: reproducible-research/testing
     sections:
     - title: General guidance for testing
       file: reproducible-research/testing/testing-guidance
@@ -137,7 +137,7 @@
     - title: Resources for code testing
       file: reproducible-research/testing/testing-resources
   - title: Code Reviewing Process
-    file: reproducible-research/reviewing/reviewing
+    file: reproducible-research/reviewing
     sections:
     - title: Motivation for code reviewing
       file: reproducible-research/reviewing/review-motivation
@@ -150,7 +150,7 @@
     - title: Resources for code reviewing
       file: reproducible-research/reviewing/review-resources
   - title: Continuous Integration
-    file: reproducible-research/continuous-integration/continuous-integration
+    file: reproducible-research/continuous-integration
     sections:
     - title: Continuous integration with Travis
       file: reproducible-research/continuous-integration/ci-travis
@@ -161,7 +161,7 @@
     - title: Motivation for code review
       file: reproducible-research/continuous-integration/ci-resources
   - title: Reproducible Research with Make
-    file: reproducible-research/make/make
+    file: reproducible-research/make
     sections:
     - title: Learn "Make" by examples
       file: reproducible-research/make/make-examples
@@ -174,11 +174,11 @@
     - title: Resources for "Make"
       file: reproducible-research/make/make-resources
   - title: Research Compendia
-    file: reproducible-research/research-compendia/research-compendia
+    file: reproducible-research/research-compendia
   - title: Credit for Reproducible Research
-    file: reproducible-research/credit/credit
+    file: reproducible-research/credit
   - title: Risk Assessment
-    file: reproducible-research/risk-assessment/risk-assessment
+    file: reproducible-research/risk-assessment
     sections:
     - title: Complexity and Impact of Risk Assessment
       file: reproducible-research/risk-assessment/risk-assess-impact
@@ -190,14 +190,14 @@
 - file: project-design/project-design
   sections:
   - title: File Naming Convention
-    file: project-design/filenaming/filenaming
+    file: project-design/filenaming
 
 # ===== Communication Section ========================================
 
 - file: communication/communication
   sections:
   - title: Community Communications for Open Source Projects
-    file: communication/open-source-comms/open-source-comms
+    file: communication/open-source-comms
     sections:
     - title: Issue Tracking
       file: communication/open-source-comms/comms-issue-tracking
@@ -211,7 +211,7 @@
 - file: collaboration/collaboration
   sections:
   - title: Collaborating on GitHub
-    file: collaboration/github-collaboration/github-collaboration
+    file: collaboration/github-collaboration
     sections:
     - title: README and Project Communication
       file: collaboration/github-collaboration/github-readme
@@ -222,7 +222,7 @@
     - title: Checklist and resources
       file: collaboration/github-collaboration/github-resources
   - title: Leadership in Data Science
-    file: collaboration/leadership/leadership
+    file: collaboration/leadership
     sections:
     - title: Personal Stories of Leadership
       file: collaboration/leadership/personal-stories
@@ -232,7 +232,7 @@
 - file: ethical-research/ethical-research
   sections:
   - title: Ethical Decisions in Planning Research
-    file: ethical-research/planning-research/planning-research
+    file: ethical-research/planning-research
 
 # ===== Community Handbook Section ========================================
 

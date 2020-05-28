@@ -5,7 +5,7 @@
 | Prerequisite                                                                                  | Importance | Notes                                                                                    |
 | --------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------- |
 | [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary  | Experience with downloading software via the command line is particularly useful         |
-| [Version control](/version_control/version_control)                                           | Helpful    | Experience using git and GitHub are helpful for the section on [Binder](#Binder_section) |
+| [Version control](./version-control)                                           | Helpful    | Experience using git and GitHub are helpful |
 
 A tutorial on working via the command line can be found
 [here](https://programminghistorian.org/en/lessons/intro-to-bash).

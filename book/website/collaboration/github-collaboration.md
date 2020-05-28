@@ -5,7 +5,7 @@
 
 | Prerequisite | Importance |
 | -------------|----------|
-| [Experience with version control](/version_control/version_control) | Helpful |
+| [Experience with version control](../../reproducible-research/version_control/version_control) | Helpful |
 
 
 ## Summary

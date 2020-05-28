@@ -4,8 +4,8 @@
 
 | Prerequisite | Importance | Notes |
 |---|---|---|
-| [Version Control](/version_control/version_control) | Very Important | |
-| [Reproducible Environments](/reproducible_environments/reproducible_environments) | Very Important | Particularly read the section on [Binder](https://the-turing-way.netlify.com/reproducible_environments/reproducible_environments.html#Binder_section). |
+| [Version Control](./version-control) | Very Important | |
+| [Reproducible Environments](./reproducible-environments) | Very Important | Particularly read the section on [Binder](./reproducible-environments/binder). |
 
 This chapter will discuss [BinderHub](https://binderhub.readthedocs.io/en/latest/index.html), which is the cloud technology powering [Binder](https://mybinder.readthedocs.io/en/latest/).
 We will cover the technologies and tools that BinderHub utilises and the resources you will need to setup your own BinderHub.
