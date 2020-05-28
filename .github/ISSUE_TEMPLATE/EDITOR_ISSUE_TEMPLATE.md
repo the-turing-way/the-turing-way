@@ -30,7 +30,9 @@ We suggest using bullets (indicated by * or -) and filled checkboxes [x] here --
 
 ### Who can help?
 
-<!-- We suggest using bullets (indicated by * or -) and filled checkboxes [x] here -->
+<!-- We suggest using bullets (indicated by * or -) and filled checkboxes [x] here.
+If you know the original author the chapter/section, it may be useful to tag them here for their input.
+-->
 
 * *Lorem ipsum dolor sit amet, consectetur adipiscing.*
 * *Lorem ipsum dolor sit amet, consectetur adipiscing.*
