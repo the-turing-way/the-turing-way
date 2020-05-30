@@ -29,7 +29,7 @@ At last we are going to present some case studies which will make you understand
 
 To put it in a nutshell, ***"Risk Assessement is vital for your project to keep it safe, protective and Risk-free!!!"***
 
-## How this will help you / why this is useful
+## Benefit of using risk assessment process
 Risk assessment is so necessary as it not only identifies and determines the risk, which can cause loss or failure to the project but also helps you to have the prior knowledge of the level of risks and its consequences aftermath.  Its Significance lies in aiding you to deal with the risks and providing you the protective layer against the threats and vulnerability of system's security as well. Making long story short, benefits of risk assessment can be laid down as:
 
 * Enables quantification of risks
@@ -45,4 +45,3 @@ All of these benefits will enable you to have your final target of achieving ris
 Don't be late as ***"Better three hours too soon than a minute too late"*** and enjoy the wonderful tour with us!!!
  
   
-
