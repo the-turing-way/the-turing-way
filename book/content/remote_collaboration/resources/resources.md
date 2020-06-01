@@ -3,7 +3,7 @@
 In this part of the remote collaboration chapter, we will look into managing and sharing the available resources with different stakeholders.
 We will further discuss bow suitable tools can be selected and offered for communication, project management, skill enhancement and collaboration to ensure their accessibility and maximum utilisation by collaborating members.
 
-### Stakeholders
+### Identifying your stakeholders
 ---
 - **Stakeholders** refer to individuals or group of individuals who might affect or be affected by the decisions, actions or policies of an organization.  
 The distribution of the resources takes into account the different stakeholders, and their stakes. 
