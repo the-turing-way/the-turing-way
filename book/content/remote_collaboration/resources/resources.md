@@ -1,6 +1,6 @@
 ## Managing and sharing resources across different stakeholders when collaborating remotely
 
-Since we have gained an insight about setting [**Guidelines to ensure that remote collaborations are successful**](https://deploy-preview-962--the-turing-way.netlify.app/remote_collaboration/protocols/protocols.html#Tools-for-communication-and-collaboration), let us have a look into how to manage and share the available resources in a remote collaboration. 
+In this part of the remote collaboration chapter, we will look into managing and sharing the available resources with different stakeholders.
 This step results in an efficient distribution of the resources and the maximum utilisation of the remotely collaborating members.
 
 ### Stakeholders
