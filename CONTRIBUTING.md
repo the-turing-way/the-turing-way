@@ -344,6 +344,34 @@ You can build and host the book website locally. The steps are:
    jupyter-book build .
    ```
 
+### To build the book in a container
+
+1. Create an image containing all of the dependencies from top level directory:
+
+   ```
+   docker build . --tag the-turing-way
+   ```
+
+   or
+
+   ```
+   podman build . --tag the-turing-way
+   ```
+
+2. Build with `jupyter-book`:
+
+   ```
+   docker run --rm -v $(pwd):/usr/local the-turing-way jupyter-book build
+/usr/local/book/website
+   ```
+
+   or
+
+   ```
+   podman run --rm -v $(pwd):/usr/local localhost/the-turing-way jupyter-book
+build /usr/local/book/website
+   ```
+
 ## Style Guide
 
 
