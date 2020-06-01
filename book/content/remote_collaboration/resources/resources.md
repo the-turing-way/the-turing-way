@@ -12,34 +12,6 @@ The choice of resources that can be offered to different stakeholders will depen
 	1. **Internal Stakeholders** which includes the individuals who have collaborated for the project, including the project manager and also the leaders of smaller teams.
 	2. **External Stakeholders** which includes the customers, the testers, partners, vendors.
 
-### Management and Sharing of Resources
----
-We all know that the teams are the most important part of an organisation. 
-Building a great team is a great leap ahead in work. 
-Thus it is essential to select a great team. 
-Some important factors to consider while selecting a remote team:
-
-- Hire dedicated people, who really want to be a part of remote team
-- Select people who can be trustworthy in long run
-- Try to hire people, who can collaborate in a remote environment.
-
-One important aspect of management and sharing of resources in remote collaboration is regular interaction between the collaboraters.
-Only forming a team is not enough. 
-It is essential to have platform(s), where managers can check the team's progress on how effectively the resources provided are being used. 
-A few suggestions can be having a Slack workspace, having online Zoom or GoToWebinar meetings.
-
-Such meetings have to pre-planned so that the aim of the meeting is achieved, and it does not render to be a waste of valuable time and resources. 
-Some tips for conducting online meetings could be:
-1. Select a **suitable time-zone**, since remote collaborations involve people from different time zones across the world.
-2. Create a list of organizers, facilitators, speakers or any other important roles as per the need. **Assign the roles** to members and inform them in prior.
-3. **Discuss the agenda** of the meeting, and prepare the presentation(s), question and answers well in time. This would help to increase the chances of meeting being a great success.
-4. Select a **suitable online platform** for the meetings. Out of the huge number of such platforms abvailable, study the pros and cons of each, decide which would suit the type of meeting you have to organise and then go for it.
-5. During the meeting, **maintain the etiquettes and protocols** to conduct the meeting in a healthy way. 
-6. **Give breaks** in between meetings and keep the meeting engaging and lively. Allow short discussions, polls and question answers on recent developments.
-7. The meeting should be concluded well, providing meaningful direction to each collaborator on their next work before they meet again. A **minutes of meeting** could be shared with all, to provide an overview of the entire meeting.
-
-Such meetings play an essential role in management of the resources in a remote collaboration.
-
 ### Checklist
 ---
 Few things to keep in mind while sharing and managing resources across different stakeholders in a remote collaboration:
