@@ -1,7 +1,7 @@
 ## Resource management for remote collaboration
 
 In this part of the remote collaboration chapter, we will look into managing and sharing the available resources with different stakeholders.
-This step results in an efficient distribution of the resources and the maximum utilisation of the remotely collaborating members.
+We will further discuss bow suitable tools can be selected and offered for communication, project management, skill enhancement and collaboration to ensure their accessibility and maximum utilisation by collaborating members.
 
 ### Stakeholders
 ---
