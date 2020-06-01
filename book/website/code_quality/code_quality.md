@@ -14,6 +14,11 @@
   - [Code style](#code-style)
     - [Automatic formatting](#automatic-formatting)
   - [Online services providing software quality checks](#online-services-providing-software-quality-checks)
+  - [Checklist](#checklist)
+    - [For code auto-formatting](#for-code-auto-formatting)
+    - [For static code analyis](#for-static-code-analyis)
+  - [Further reading](#further-reading)
+  - [Bibliography](#bibliography)
 
 ## Summary
 
@@ -117,3 +122,34 @@ Code quality analysis services are websites that often offer the following featu
 - Automatically deploy the repository and generates a preview build for review before final release.
 
 For a list of choices see [shields.io](https://shields.io/category/analysis) or [this list of services that are free for open source projects](https://github.com/ripienaar/free-for-dev#code-quality).
+
+## Checklist
+
+### For code auto-formatting
+
+- [ ] Write your development code in your favourite IDE/text-editor.
+- [ ] Enable auto formatting in your editor by tweaking the preferences/settings.
+- [ ] Type `Ctrl + s` (windows, linux) or `⌘ + s` (mac) to save the work to format the code.
+
+### For static code analyis
+
+- [ ] Build the project to enable `linters` to spot the errors/warnings in the code (if any).
+- [ ] Make relevant changes and repeat the above step.
+- [ ] [Commit and push](./../version_control/vcs-git-commit.md) the changes to remote **Github/Gitlab/Bitbucket** repository to run the pre-deployment tests.
+
+
+## Further reading
+
+- [Article by University of Freiburg](https://swt.informatik.uni-freiburg.de/service/coding-conventions)
+- [Coding Conventions - Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
+- [An exhaustive list of static code analysis tools - Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
+- [Excellent compilation of code analysis guidelines - OWASP](https://owasp.org/www-community/controls/Static_Code_Analysis)
+- [ECMA International ES6 guide](http://www.ecma-international.org/ecma-262/6.0/)
+
+## Bibliography
+
+- [Static Tool analysis guide](https://en.wikipedia.org/wiki/Static_program_analysis)
+- [KeyBindings in VSCode](https://code.visualstudio.com/docs/getstarted/keybindings)
+- [Dev.To blog about text-editor customization](https://dev.to/josuerodriguez98/my-vs-code-customization-i4o)
+- [EditorConfig guide](https://editorconfig.org/)
+
