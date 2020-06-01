@@ -1,4 +1,139 @@
 [build]
   base = "book/website"
-  command = "pip install -r requirements.txt && jupyter-book build . && cp _redirects _build/_redirects"
+  command = "pip install -r requirements.txt && jupyter-book build ."
   publish = "book/website/_build/html"
+
+# A redirect rule with all the supported properties
+[[redirects]]
+  from = "https://the-turing-way.netlify.app"
+  to = "https://the-turing-way.netlify.app/welcome"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://the-turing-way.netlify.app/introduction/introduction.html"
+  to = "https://the-turing-way.netlify.app/welcome"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/reproducibility/*"
+  to = "/reproducible-research/reproducible-research"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/open_research/*"
+  to = "/reproducible-research/open-research"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/version_control/*"
+  to = "/reproducible-research/version_control"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/licensing/*"
+  to = "/reproducible-research/licensing"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/credit/*"
+  to = "/reproducible-research/credit"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/rdm/*"
+  to = "/reproducible-research/rdm"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/reproducible_environments/*"
+  to = "/reproducible-research/reproducible-environments"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+[[]]
+[[redirects]]
+  from = "/code_quality/*"
+  to = "/reproducible-research/code-quality"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/testing/*"
+  to = "/reproducible-research/testing"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/reviewing/*"
+  to = "/reproducible-research/reviewing"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/continuous_integration/*"
+  to = "/reproducible-research/continuous-integration"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/make/*"
+  to = "/reproducible-research/make"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/research_compendia/*"
+  to = "/reproducible-research/research-compendia"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/risk_assessment/*"
+  to = "/reproducible-research/risk-assessment"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+[[]]
+
+[[redirects]]
+  from = "/binderhub/*"
+  to = "/reproducible-research/binderhub"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/collaborating_github/*"
+  to = "/communication/communication"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/open-source-comms/* "
+  to = "/communication/open-source-comms"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
