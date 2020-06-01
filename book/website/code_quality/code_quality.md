@@ -32,9 +32,11 @@ In addition to finding bugs, many of these tools can also help maintain a consis
 
 - Write high-quality code: Early detection of possible programming errors help developers to know where they went wrong.
 
-- Achieve regulatory compliance: Achieving software compliance is crucial for the stability and security of products. With this, developers can comprehensively test their code in a non-runtime environment, ensuring all code standards are met and enterprise security is achieved. 
+- Achieve regulatory compliance: Achieving software compliance is crucial for the stability and security of products. 
+With this, developers can comprehensively test their code in a non-runtime environment, ensuring all code standards are met and enterprise security is achieved. 
 
-- Accelerate software development life-cycles: Static code analysis ensures high-quality code reaches testers in lesser time. This means, even testers take much time to test the product, thus accelerating software development life-cycles. 
+- Accelerate software development life-cycles: Static code analysis ensures high-quality code reaches testers in lesser time. 
+This means, even testers take much time to test the product, thus accelerating software development life-cycles. 
 
 Some of the most widely used `linters` are mentioned in the below table:
 
@@ -64,9 +66,12 @@ Google also has a style guide for many languages [google style guide page](https
 
 ### Automatic formatting
 
-Numerous tools exists to automatically format code such that it follows a certain style. Automatic formatting enables higher code quality especially when you are collaborating in a team and other people need to look at the code you've written. Many developers and organisations maintain standards of code formatting like **2-space** or **4-space indentation**. Using these is highly recommended since the probablity of finding bugs(if any) increases multifold.
+Numerous tools exists to automatically format code such that it follows a certain style. Automatic formatting enables higher code quality especially when you are collaborating in a team and other people need to look at the code you've written. 
+Many developers and organisations maintain standards of code formatting like **2-space** or **4-space indentation**. Using these is highly recommended since the probablity of finding bugs(if any) increases multifold.
 
-[EditorConfig](https://editorconfig.org) is a language independent tool that helps maintain consistent whitespace styles for multiple people working on the same project across various editors. Most editors support EditorConfig either natively or through a plugin. Though, almost all widely used IDEs and text-editors support automatic code formatting upon type. For Ex: [JetBrains IDE Suite](https://www.jetbrains.com/products.html#), [VSCode](https://code.visualstudio.com/) and [Atom](https://atom.io/).
+[EditorConfig](https://editorconfig.org) is a language independent tool that helps maintain consistent whitespace styles for multiple people working on the same project across various editors. 
+Most editors support EditorConfig either natively or through a plugin. 
+Though, almost all widely used IDEs and text-editors support automatic code formatting upon type. For Ex: [JetBrains IDE Suite](https://www.jetbrains.com/products.html#), [VSCode](https://code.visualstudio.com/) and [Atom](https://atom.io/).
 
 In addition to that, there are many language specific tools for automatically formatting code according to a particular style.
 Note that editors often support using these tools directly from the editing environment.
