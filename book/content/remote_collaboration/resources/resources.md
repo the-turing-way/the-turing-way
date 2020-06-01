@@ -5,10 +5,9 @@ We will further discuss bow suitable tools can be selected and offered for commu
 
 ### Identifying your stakeholders
 ---
-- **Stakeholders** refer to individuals or group of individuals who might affect or be affected by the decisions, actions or policies of an organization.  
-The distribution of the resources takes into account the different stakeholders, and their stakes. 
-The best practice is to distribute the resources in proportionate to the stakes, various stakeholders hold.
-
+- **Stakeholders** refer to individuals or group of individuals who might affect or be affected by the decisions, actions or policies of a project or an organization.  
+In a data research project, they are typically the members of a project planning team, managers, funders, developers, volunteer contributors and users who can offer their input to impact the overall outcome of the project.
+The choice of resources that can be offered to different stakeholders will depend on first identifying who they are and what processes or tasks they are involved in. 
 - The stakeholders can be categorized mainly into:
 	1. **Internal Stakeholders** which includes the individuals who have collaborated for the project, including the project manager and also the leaders of smaller teams.
 	2. **External Stakeholders** which includes the customers, the testers, partners, vendors.
