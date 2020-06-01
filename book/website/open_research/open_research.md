@@ -20,7 +20,7 @@ Recommended skill level: low.
         4. [Step 4: Make your data citeable](/open_research/01/opendata#step-4-make-your-data-citeable)
     2. [Barriers to data sharing](/open_research/01/opendata#barriers-to-data-sharing)
         1. [Privacy](/open_research/01/opendata#privacy)
-        2. [National and commercially sensitive data](/open_research/01/opendata#national-and-commercially-sensitive-data)
+        2. [National and commercially sensitive data](/rdm/sharingarchiving.html#national-and-commercially-sensitive-data)
 4. [Open source software](/open_research/02/opensourcesoftware#open-source-software)
     1. [What is open source software?](/open_research/02/opensourcesoftware.html#what-is-open-source-software)
     2. [How running and contributing to open source software projects benefits you](/open_research/02/opensourcesoftware.html#how-running-and-contributing-to-open-source-software-projects-benefits-you)
@@ -31,7 +31,7 @@ Recommended skill level: low.
         1. [Welcome users by adding information to your README](/open_research/02/opensourcesoftware.html#welcome-users-by-adding-information-to-your-readme)
         2. [Contributing guidelines](/open_research/02/opensourcesoftware.html#contributing-guidelines)
         3. [Code of conduct](/open_research/02/opensourcesoftware.html#code-of-conduct)
-    5. [How to contribute to other's open source software projects](/open_research/02/opensourcesoftware.html#how-to-contribute-to-others-open-source-software-projects)
+    5. [How to contribute to other's open source software projects](/open_research/02/opensourcesoftware.html#how-to-contribute-to-other-s-open-source-software-projects)
         1. [Anatomy of an open source software project](/open_research/02/opensourcesoftware.html#anatomy-of-an-open-source-software-project)
         2. [Contribute your changes](/open_research/02/opensourcesoftware.html#contribute-your-changes)
         3. [Looking for projects to contribute to and how to contribute to them](/open_research/02/opensourcesoftware.html#looking-for-projects-to-contribute-to-and-how-to-contribute-to-them)
@@ -59,7 +59,7 @@ Recommended skill level: low.
 9. [Checklists](/open_research/07/resources#checklists)
 10. [What to learn next](/open_research/07/resources#what-to-learn-next)
 11. [Further reading](/open_research/07/resources#further-reading)
-12. [Definitions/glossary](/open_research/07/resources#definitionsglossary)
+12. [Definitions/glossary](/open_research/07/resources#definitions-glossary)
 13. [Bibliography](/open_research/07/resources#bibliography)
 
 ## Summary
