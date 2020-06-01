@@ -24,7 +24,9 @@ Tools for static code analysis can report bugs as well as style issues without e
 ## Static code analysis
 
 
-Static code analysis is a method that examines code and detects software vulnerabilities before before your code is executed or project is built and deployed. This analysis is capable of identifying quality issues, including security weaknesses and errors. In addition to finding bugs, many of these tools can also help maintain a consistent coding style.
+Static code analysis is a method that examines code and detects software vulnerabilities before your code is executed or the project is built and deployed. 
+This analysis is capable of identifying quality issues, including security weaknesses and errors. 
+In addition to finding bugs, many of these tools can also help maintain a consistent coding style.
 
 ### Advantages of Static code analysis
 
