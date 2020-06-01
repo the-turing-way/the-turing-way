@@ -1,1 +1,21 @@
 # Redirects from what the browser requests to what we serve
+
+https://the-turing-way.netlify.app              https://the-turing-way.netlify.app/welcome.html
+/reproducibility/*              /reproducible-research/reproducible-research
+/reproducibility/04/resources              /reproducible-research/overview/resources
+/open_research/*              /reproducible-research/open_research
+/version_control/*              /reproducible-research/version-control
+/licensing/*              /reproducible-research/licensing
+/collaborating_github/*              /communication/communication
+/open-source-comms/*              /communication/open-source-comms
+/credit/*              /reproducible-research/credit
+/rdm/*              /reproducible-research/rdm
+/reproducible_environments/*              /reproducible-research/reproducible-environments
+/code_quality/*              /reproducible-research/code-quality
+/testing/*              /reproducible-research/testing
+/reviewing/*              /reproducible-research/reviewing
+/continuous_integration/*              /reproducible-research/continuous-integration
+/make/*              /reproducible-research/make
+/research_compendia/*              /reproducible-research/research-compendia
+/risk_assessment/*              /reproducible-research/risk-assessment
+/binderhub/*              /reproducible-research/binderhub
