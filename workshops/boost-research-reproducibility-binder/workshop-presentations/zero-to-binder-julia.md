@@ -98,12 +98,12 @@ While you wait, BinderHub (the backend of Binder) is:
 - Launching that Docker image in the Cloud
 - Connecting you to it via your browser
 
-## 3. Run `hello.py`
+## 3. Run `hello.jl`
 
 **TO DO:** :vertical_traffic_light:
 
 1. In the top right corner, click "New" :arrow_right: "Terminal"
-2. In the new tab with the terminal, type `python hello.py` and press return
+2. In the new tab with the terminal, type `julia hello.jl` and press return
 
 `Hello from Binder!` should be printed to the terminal.
 
