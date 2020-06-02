@@ -242,16 +242,24 @@ Once the Binder has launched, you should see a new file has appeared that was no
 Now visualise the data by creating a new notebook ("New" :arrow_right: "Julia") and run the following code in a cell.
 
 ```julia
-using CSV
 using DataFrames
+using CSV
+using Plots
 
-df = DataFrame(CSV.File("gapminder.csv"))
-df = df[df.country .== "Australia", :]
+data = CSV.read("gapminder.csv")
 
-# Extract year from last 4 characters of each column name
-data.columns = years.astype(int)              # Convert year values to integers, saving results back to dataframe
+# transpose DataFrame (although can only do with numbers at present) otherwise see https://stackoverflow.com/questions/37668312/transpose-of-julia-dataframe
+numeric_tr = Matrix(data[:,2:end])'
+data_tr = DataFrame(numeric_tr, Symbol.(data[:, :country]))
 
-data.loc["Australia"].plot()
+# Extract Year and add to DataFrame
+column_names = names(data)
+str_years = [String(x)[end-3:end] for x in column_names[2:end]]
+years = parse.(Int, str_years)
+data_tr[:, :Year] = years
+
+# Plot
+plot(data_tr[:, :Year], data_tr[:, :Australia])
 ```
 
 See this [Software Carpentry lesson](https://swcarpentry.github.io/python-novice-gapminder/09-plotting/index.html) for more info.
