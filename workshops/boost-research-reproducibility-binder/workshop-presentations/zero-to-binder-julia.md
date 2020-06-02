@@ -221,7 +221,11 @@ However, that is not to say that they are the _only_ groups of people who should
 1) Go to your GitHub repo and create a file called `postBuild`
 2) In `postBuild`, add a single line reading: `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
    - `wget` is a program which retrieves content from web servers. This line extracts the content from the bitly URL and saves it to the file denoted by the `-O` flag (i.e. `gapminder.csv`). The `-q` flag tells `wget` to do this quietly, i.e. don't print anything to the console.
-3) Update your `requirements.txt` file by adding a new line with `pandas` on it and another new line with `matplotlib` on it
+3) Update your `Project.toml` file by adding new dependencies to `[deps]` with the following lines:
+   ```julia
+   DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+   PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+   ```
    - These packages aren't necessary to download the data but we will use them to read the CSV file and make a plot
 4) Click the binder badge in your README to launch your Binder
 
