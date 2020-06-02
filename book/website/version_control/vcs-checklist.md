@@ -1,7 +1,7 @@
 ## Checklists
 
 ### Make use of Git
-- [ ] Make your project version controlled by initialising a Git repository in its directory using git init`.
+- [ ] Make your project version controlled by initialising a Git repository in its directory using `git init`.
 - [ ] Add and commit all your files to the repository using `git add .` then `git commit`.
 - [ ] Continue to add and commit changes as your project progresses. Stage the changes in specific files to be committed with `git add filename`, and add messages to your commits.
   - [ ] Each commit should make one simple change.
@@ -64,7 +64,7 @@ Many such skills are either also applicable for using version control well, for 
 ## Bibliography
 
 - [1.](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Controls) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
-- [2.](https://link.springer.com/article/10.1186/1751-0473-8-7) **Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0)** *Other useful stuff in this paper, could use their into as part of the book's intro*
+- [2.](https://link.springer.com/article/10.1186/1751-0473-8-7) **[Creative Commons Attribution License](http://creativecommons.org/licenses/by/2.0)** *Other useful stuff in this paper, could use their intro as part of the book's intro*
 - [3.](http://crlionline.net/node/198) **Permission to use given by the author (Peter Reimann) 15/12/18**
 - [4.](https://tonysyu.github.io/source-control-for-scientists-and-soloists.html#.XA6Q3mj7RPY) **Permission given by the author (Tony Yu) 15/12/18**
 - [5.](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.**
