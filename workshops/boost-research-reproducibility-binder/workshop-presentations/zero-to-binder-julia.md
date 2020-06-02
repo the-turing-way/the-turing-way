@@ -63,7 +63,14 @@ You can create a link to a **live, interactive** version of your code!
 
 1) Create a new repo on GitHub called "my-first-binder".
    - Don't forget to initialise with a README!
-2) Create a file called `hello.py` via the web interface with `print("Hello from Binder!")` on the first line and commit to master
+2) Create a file called `hello.jl` via the web interface with `print("Hello from Binder!")` on the first line and commit to master
+3) Create a file called `Project.toml` (:rotating_light: the capitalisation is important!) with the following content and commit it to master.
+   This will install Julia into the Binder environment.
+
+   ```julia
+   [compat]
+   julia = "1.3"
+   ```
 
 ## 2. Launch your first repo!
 
