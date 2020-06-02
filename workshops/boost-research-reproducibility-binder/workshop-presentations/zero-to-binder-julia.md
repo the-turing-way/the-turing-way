@@ -158,6 +158,10 @@ This time, BinderHub will read `requirements.txt` and install version `1.14.5` o
 3) Run the cell to see the version number printed out
    - Press either SHIFT+RETURN or the "Run" button in the Menu bar
 
+**N.B.:** If you save this notebook, it **will not** be saved to the GitHub repo.
+Pushing changes back to the GitHub repo through the container is not possible with Binder.
+**Any changes you have made to files inside the Binder will be lost once you close the browser window.**
+
 ## 6. Sharing your Work
 
 Binder is all about sharing your work easily and there are two ways to do it:
@@ -231,7 +235,7 @@ However, that is not to say that they are the _only_ groups of people who should
 
 Once the Binder has launched, you should see a new file has appeared that was not part of your repo when you clicked the badge.
 
-Now visualise the data by creating a new notebook ("New" :arrow_right: "Python 3") and run the following code in a cell.
+Now visualise the data by creating a new notebook ("New" :arrow_right: "Julia") and run the following code in a cell.
 
 ```python
 %matplotlib inline
