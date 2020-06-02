@@ -694,7 +694,8 @@
       "profile": "https://github.com/ots22",
       "contributions": [
         "question",
-        "doc"
+        "doc",
+        "tutorial"
       ]
     },
     {
@@ -1601,6 +1602,15 @@
       "profile": "https://github.com/Ismael-KG",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "ornithos",
+      "name": "Alex Bird",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8834882?v=4",
+      "profile": "https://ornithos.github.io/",
+      "contributions": [
+        "tutorial"
       ]
     }
   ],
