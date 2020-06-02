@@ -39,4 +39,4 @@ This is my motivation to translate the book to Spanish, and I hope that the Span
 ## Support Camila's efforts in _The Turing Way_
 
 If you are interested in supporting Camila's effort to translate _The Turing Way_ resources into Spanish, do get in touch by joining the conversation in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/767).
-More information about the translation process can be read in [these issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+translation+label%3Atranslation) labeled with 'Translation' tag.
+More information about the translation process can be acessed in [these issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+translation+label%3Atranslation) labeled with the 'Translation' tag.
