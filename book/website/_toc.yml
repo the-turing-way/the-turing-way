@@ -81,6 +81,8 @@
     file: collaborating_github/3/getting_contributors
   - title: Checklist and Bibliography
     file: collaborating_github/4/checklist_bibliography
+  - title: Reviewing Contributions on GitHub
+    file: collaborating_github/reviewing-contributions.md
 - title: Community Communications for Open Source Projects
   file: open-source-comms/intro
   sections:
