@@ -6,7 +6,7 @@ Sarah Gibson & Oliver Strickson, _The Alan Turing Institute_
 
 Based on Tim Head's _Zero-to-Binder_ workshops which can be found here: <http://bit.ly/zero-to-binder> and <http://bit.ly/zero-to-binder-rise>
 
-To follow these instructions on your own machine, follow this link: **<http://bit.ly/zero-to-binder-tutorial>**
+To follow these instructions on your own machine, follow this link: **<http://bit.ly/zero-to-binder-julia>**
 
 - [Running Code is more complicated than Displaying Code](#running-code-is-more-complicated-than-displaying-code)
 - [What Binder Provides](#what-binder-provides)
