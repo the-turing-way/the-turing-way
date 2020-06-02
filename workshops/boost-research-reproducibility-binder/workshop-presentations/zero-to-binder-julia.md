@@ -248,7 +248,7 @@ using Plots
 
 data = CSV.read("gapminder.csv")
 
-# transpose DataFrame (although can only do with numbers at present) otherwise see https://stackoverflow.com/questions/37668312/transpose-of-julia-dataframe
+# Transpose DataFrame
 numeric_tr = Matrix(data[:,2:end])'
 data_tr = DataFrame(numeric_tr, Symbol.(data[:, :country]))
 
