@@ -147,18 +147,15 @@ Each language has it's own quirks and a link to the different types of configura
 
 **TO DO:** :vertical_traffic_light:
 
-1) In the top right corner, click "New" :arrow_right: "Python 3" to open a new notebook
+1) In the top right corner, click "New" :arrow_right: "Julia" to open a new notebook
 2) Type the following into a new cell:
 
-   ```python
-   import numpy
-   print(numpy.__version__)
-   numpy.random.randn()
+   ```julia
+   using Pkg
+   Pkg.status()
    ```
 
-   **Note the two underscores either side of `version`!**
-
-3) Run the cell to see the version number and a random number printed out
+3) Run the cell to see the version number printed out
    - Press either SHIFT+RETURN or the "Run" button in the Menu bar
 
 ## 6. Sharing your Work
