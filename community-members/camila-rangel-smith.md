@@ -34,7 +34,7 @@ In this project I’m helping to build a data science module that will be though
  
 I think The Turing Way is an excellent resource that can change the way science is done (I wish I had it when I started my PhD!). 
 Although the international language of science is English, I know for a fact that not everyone in places like Latin-American have the time and resources to learn it, so I think we must do everything we can to break those barriers and improve the accessibility of knowledge for everyone. 
-This is my motivation to translate the book to Spanish, and I hope that the Spanish version will be used as an important resource on the master course we are developing in  LA-CoNGA physics project.
+This is my motivation to translate the book to Spanish, and I hope that the Spanish version will be used as an important resource on the master course we are developing for a project (the LA-CoNGA physics project).
 
 ## Support Camila's efforts in _The Turing Way_
 
