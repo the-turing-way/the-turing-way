@@ -1,6 +1,6 @@
 # From Zero to Binder!
 
-Sarah Gibson, _The Alan Turing Institute_
+Sarah Gibson & Oliver Strickson, _The Alan Turing Institute_
 
 [**The Turing Way**](https://github.com/alan-turing-institute/the-turing-way) - making reproducible Data Science "too easy not to do"
 
