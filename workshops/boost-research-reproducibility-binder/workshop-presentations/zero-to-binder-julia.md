@@ -42,7 +42,7 @@ To run code, you need:
 - Hardware on which to run the code
 - Software, including:
   - The code itself
-  - The programming language (e.g. Python, R)
+  - The programming language (e.g. Python, R, Julia, and so on)
   - Relevant packages (e.g. pandas, matplotlib, tidyverse, ggplot)
 
 ## What Binder Provides
@@ -54,8 +54,8 @@ You can create a link to a **live, interactive** version of your code!
 - An example binder link:
   > **<https://mybinder.org/v2/gh/trekhleb/homemade-machine-learning/master?filepath=notebooks%2Fanomaly_detection%2Fanomaly_detection_gaussian_demo.ipynb>**
   From this repo: **<https://github.com/trekhleb/homemade-machine-learning>**
-  - Notice that the Binder link has a similar structure to the GitHub repo link
-  - The "filepath" argument opens a specific notebook in the repo
+  - Notice that the Binder link has a similar structure to the GitHub repo link (`<github-username>/<github-repo-name>`)
+  - The "filepath" argument opens a specific notebook (`.ipynb` file) in the repo
 
 ## 1. Creating a repo to Binderize
 
