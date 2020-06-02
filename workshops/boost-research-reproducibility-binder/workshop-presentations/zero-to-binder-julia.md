@@ -113,8 +113,12 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 
 **TO DO:** :vertical_traffic_light:
 
-1) In your repo, create a file called `requirements.txt`
-2) Add a line that says: `numpy==1.14.5`
+1) In your repo, edit the `Project.toml` file
+2) Add a new block that says:
+   ```julia
+   [deps]
+   CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+   ```
 3) Check for typos! Then commit to master.
 4) Visit **<https://mybinder.org/v2/gh/your-username/my-first-binder/master>** again in a new tab
 
