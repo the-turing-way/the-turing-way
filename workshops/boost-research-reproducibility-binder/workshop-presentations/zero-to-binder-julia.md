@@ -241,14 +241,14 @@ Once the Binder has launched, you should see a new file has appeared that was no
 
 Now visualise the data by creating a new notebook ("New" :arrow_right: "Julia") and run the following code in a cell.
 
-```python
-%matplotlib inline
+```julia
+using CSV
+using DataFrames
 
-import pandas
+df = DataFrame(CSV.File("gapminder.csv"))
+df = df[df.country .== "Australia", :]
 
-data = pandas.read_csv("gapminder.csv", index_col="country")
-
-years = data.columns.str.strip("gdpPercap_")  # Extract year from last 4 characters of each column name
+# Extract year from last 4 characters of each column name
 data.columns = years.astype(int)              # Convert year values to integers, saving results back to dataframe
 
 data.loc["Australia"].plot()
