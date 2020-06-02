@@ -115,10 +115,12 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 
 1) In your repo, edit the `Project.toml` file
 2) Add a new block that says:
+
    ```julia
    [deps]
    CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
    ```
+
 3) Check for typos! Then commit to master.
 4) Visit **<https://mybinder.org/v2/gh/your-username/my-first-binder/master>** again in a new tab
 
@@ -131,15 +133,15 @@ It's useful when your build fails or something you think _should_ be installed i
 This time, BinderHub will read `requirements.txt` and install version `1.14.5` of the `numpy` package.
 
 > ### More on pinning dependencies
-
+>
 > In the above example, we used two equals signs (`==`) to pin the version of `numpy`.
 > This tells Binder to install that _specific_ version.
-
+>
 > Another way to pin a version number is to use the greater than or equal to sign (`>=`) to allow any version above a particular one to be installed.
 > This is useful when you have a lot of dependencies that may have dependencies on each other and allows Binder to find a configuration of your dependencies that do not conflict with one another whilst avoiding any earlier versions which may break or change your code.
-
+>
 > Finally, you could not provide a version number at all (just the name of the library/package) and Binder will install the latest version of that package.
-
+>
 > **N.B.:** These operations to pin dependencies are most likely specific to Python.
 > Each language has it's own quirks and a link to the different types of configuration files (which is what `requirements.txt` is) is given at the bottom of this document.
 
@@ -226,10 +228,12 @@ However, that is not to say that they are the _only_ groups of people who should
 2) In `postBuild`, add a single line reading: `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
    - `wget` is a program which retrieves content from web servers. This line extracts the content from the bitly URL and saves it to the file denoted by the `-O` flag (i.e. `gapminder.csv`). The `-q` flag tells `wget` to do this quietly, i.e. don't print anything to the console.
 3) Update your `Project.toml` file by adding new dependencies to `[deps]` with the following lines:
+
    ```julia
    DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
-   PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+   Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
    ```
+
    - These packages aren't necessary to download the data but we will use them to read the CSV file and make a plot
 4) Click the binder badge in your README to launch your Binder
 
