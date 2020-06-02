@@ -5,7 +5,7 @@
 * Date: 15 May 2020
 * Current involvement: Translation in Spanish
 
-### Bio (taken from The Alan Turing Institue)
+### Bio 
 
 > Camila is a Research Data Scientist at The Alan Turing Institute. She holds a PhD in Particle Physics from Université Paris Diderot where she worked on the ATLAS experiment at the Large Hadron Collider at CERN. 
 > During her PhD she participated on the discovery of the Higgs Boson particle announced by CERN in 2012. 
