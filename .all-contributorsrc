@@ -1602,6 +1602,16 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "CapTen101",
+      "name": "Tushar Rohilla",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/45699327?v=4",
+      "profile": "https://tusharrohilla.github.io/resume/",
+      "contributions": [
+        "bug",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
