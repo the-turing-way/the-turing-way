@@ -132,18 +132,14 @@ It's useful when your build fails or something you think _should_ be installed i
 
 This time, BinderHub will read `requirements.txt` and install version `1.14.5` of the `numpy` package.
 
-> ### More on pinning dependencies
->
-> In the above example, we used two equals signs (`==`) to pin the version of `numpy`.
-> This tells Binder to install that _specific_ version.
->
-> Another way to pin a version number is to use the greater than or equal to sign (`>=`) to allow any version above a particular one to be installed.
-> This is useful when you have a lot of dependencies that may have dependencies on each other and allows Binder to find a configuration of your dependencies that do not conflict with one another whilst avoiding any earlier versions which may break or change your code.
->
-> Finally, you could not provide a version number at all (just the name of the library/package) and Binder will install the latest version of that package.
->
-> **N.B.:** These operations to pin dependencies are most likely specific to Python.
-> Each language has it's own quirks and a link to the different types of configuration files (which is what `requirements.txt` is) is given at the bottom of this document.
+### More on pinning dependencies
+
+In the above example, we copied a hash into our `Project.toml` file which is related to the version of the package we'd like to install.
+For a full dependency graph, we would also need to include a `Manifest.toml` file which would document dependencies of dependencies.
+Between these two files, we are able to instantiate an exact replication of a Julia environment.
+
+Of course we can imagine that, as the environment grows and the inter-dependencies become more complex, it would become very taxing to write these files by hand!
+The truth is that you'd never do it manually, the built-in package manager `Pkg` can [generate them automatically](https://julialang.github.io/Pkg.jl/v1/environments/).
 
 ## 5. Check the Environment
 
