@@ -68,7 +68,7 @@ It is ideal for any maintainer to review a contribution in the form of a PR with
 If the project contributors are based in different parts of the world, the maintainers should try to be respectful towards their time and schedule work accordingly. In case someone is not able to discuss ideas because of their schedule, maintainers and contributors should try to cooperate with each other as much as possible. 
 
 ## What to learn next
-> Community communications for open source has some relevant information with respect to getting involved with this community driven project. Read more: [here](https://the-turing-way.netlify.app/open-source-comms/intro.html).
+[Community communications for open source](https://the-turing-way.netlify.app/open-source-comms/intro.html) has some relevant information with respect to getting involved with this community driven project.
 
 ## Further reading
 * [GitHub help](https://help.github.com/en)- a great resource to know about almost everything with respect to collaborating on a GitHub project.
