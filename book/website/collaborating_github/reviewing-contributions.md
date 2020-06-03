@@ -14,7 +14,7 @@ The following chapter throws light on some of the most important tasks of the ad
 **_NOTE_**: It does not show "how to" guides to these tasks and gives an introductory knowledge about what are the major responsibilities of a maintainer and how these responsibilities should ideally be carried out.
 
 ## How this will help you/ why this is useful 
-> The maintenance and review work is important for the people who are interested in maintaining the-turing-way GitHub repository and can review contributions. 
+The maintenance and review work is important for the people who are interested in maintaining _The Turing Way_ GitHub repository and can review contributions. 
 >The Git workflow is difficult to understand, especially when collaborating with a group of contributors for a project. Hence, it is very important that the reviews to all these contributions are properly done.
 
 ## Reviewing and Maintainance- What is it?
@@ -85,4 +85,3 @@ If the project contributors are based in different parts of the world, the maint
 * **Owners and Maintainers**- the project creators, maintainers and owners, who have a higher level of access when compared to all other members or contributors working together on a GitHub project.
 * **Review**- suggesting changes or asking for committing something to an already created PR.
 * **Merging**- merging a PR means merging changes which have been reviewed by a maintainer or an admin to a project for making it better.
-
