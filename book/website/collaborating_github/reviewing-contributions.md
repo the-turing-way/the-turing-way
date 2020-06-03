@@ -63,7 +63,8 @@ Guiding people by making friendly and encouraging conversations can make the onb
 Labelling issues and PRs will help in getting more contributors involved in various tasks with different skill requirements. Labelling seemingly easy issues as ["good first issue"](https://help.github.com/en/github/building-a-strong-community/encouraging-helpful-contributions-to-your-project-with-labels) will help new contributors to pick up easy tasks like minor changes in code and content,bug and typo fixes and small design issues.
 
 4. Maintaining the PRs- The maintenance of already existing PRs on a project involves labelling them, reviewing them, changing their stages, merging and closing them. Maintenance of PRs can be done by giving the right review on the right time.  
-It is ideal for any maintainer to review a contribution in the form of a PR within one week for an active project and provide labels as soon as possible.
+Maintainers may communicate a timescale within which they review and merge PRs for an active project for example, one week.  
+The labelling work is also done as per the time and phases required to build a feature.
 
 5. Being grateful and respecting time- Welcoming people who contribute to a project is one of the keys to make a collaborative project a success. Whenever a meaningful contribution is made and a PR is merged, maintainers should value it.   A small message saying "Thank you" is more than enough, especially for newbies in Open-source. It is always a good gesture to give credit to contributors in open source. Making a page or a file where all the key contributors are mentioned is a great way to do this.  
 If the project contributors are based in different parts of the world, the maintainers should try to be respectful towards their time and schedule work accordingly. In case someone is not able to discuss ideas because of their schedule, maintainers and contributors should try to cooperate with each other as much as possible. 
