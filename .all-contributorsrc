@@ -395,7 +395,8 @@
         "question",
         "example",
         "review",
-        "ideas"
+        "ideas",
+        "tutorial"
       ]
     },
     {
@@ -1591,6 +1592,15 @@
       "profile": "https://github.com/defaultobject",
       "contributions": [
         "ideas"
+      ]
+    },
+    {
+      "login": "Ismael-KG",
+      "name": "Ismael-KG",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/64027166?v=4",
+      "profile": "https://github.com/Ismael-KG",
+      "contributions": [
+        "content"
       ]
     }
   ],
