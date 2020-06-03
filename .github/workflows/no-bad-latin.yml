@@ -36,7 +36,7 @@ jobs:
     # Run a Python script
     - name: Run Python script to check for latin phrases - Master
       working-directory: ./tests
-      if: github.event.push
+      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
       run: |
         python no-bad-latin.py
 
