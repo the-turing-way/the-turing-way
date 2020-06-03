@@ -1,7 +1,7 @@
 import os
 import re
 import argparse
-import requests
+from pull_files import get_files_from_pr
 
 HERE = os.getcwd()
 ABSOLUTE_HERE = os.path.dirname(HERE)
@@ -35,25 +35,6 @@ def remove_comments(text_string):
 	"""
     p = re.sub("(?s)<!--(.*?)-->", "", text_string)
     return p
-
-
-def get_files_from_pr(pr_num):
-    """Return a list of changed files from a GitHub Pull Request
-
-    Arguments:
-        pr_num {str} -- Pull Request number to get modified files from
-
-    Returns:
-        {list} -- List of modified filenames
-    """
-    files = []
-    pr_url = f"https://api.github.com/repos/alan-turing-institute/the-turing-way/pulls/{pr_num}/files"
-    resp = requests.get(pr_url)
-
-    for item in resp.json():
-        files.append(item["filename"])
-
-    return files
 
 
 def filter_files(pr_num, start_phrase="book/content"):
