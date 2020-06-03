@@ -8,7 +8,7 @@
 | [Experience with version control](/version_control/version_control) | Helpful | 
 
 ## Summary
-For any open source project, the most difficulat job is to work on an idea and make suitable changes. There are many tasks which are very well carried out by the project maintainer/owner or the maintaining/owning team. 
+For any open source project, the most difficult job is to work on an idea and make suitable changes. There are many tasks which are very well carried out by the project maintainer/owner or the maintaining/owning team. 
 The following chapter throws light on some of the most important tasks of the admins and maintainers of the project such as carrying on discussions, mentoring contributors, creating, reviewing and merging Pull Requests (PRs) and handling issues on a collaborative GitHub project. It also provides the best practices to be used while contributing to a project as a maintainer.
 
 **_NOTE_**: It does not show "how to" guides to these tasks and gives an introductory knowledge about what are the major responsibilities of a maintainer and how these responsibilities should ideally be carried out.
