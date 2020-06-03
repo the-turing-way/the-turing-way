@@ -9,7 +9,7 @@
 
 ## Summary
 For any open source project, the most difficulat job is to work on an idea and make suitable changes. There are many tasks which are very well carried out by the project maintainer/owner or the maintaining/owning team. 
-The following chapter throws light on some of the most important tasks of the admins and maintainers of the project such as carrying on discussions, mentoring contributors, creating, reviewing and merging PRs and handling issues on a collaborative GitHub project. It also provides the best prctices to be used while contributing to a project as a maintainer.
+The following chapter throws light on some of the most important tasks of the admins and maintainers of the project such as carrying on discussions, mentoring contributors, creating, reviewing and merging Pull Requests (PRs) and handling issues on a collaborative GitHub project. It also provides the best practices to be used while contributing to a project as a maintainer.
 
 **_NOTE_**: It does not show "how to" guides to these tasks and gives an introductory knowledge about what are the major responsibilities of a maintainer and how these responsibilities should ideally be carried out.
 
@@ -85,5 +85,4 @@ If the project contributors are based in different parts of the world, the maint
 * **Owners and Maintainers**- the project creators, maintainers and owners, who have a higher level of access when compared to all other members or contributors working together on a GitHub project.
 * **Review**- suggesting changes or asking for committing something to an already created PR.
 * **Merging**- merging a PR means merging changes which have been reviewed by a maintainer or an admin to a project for making it better.
-
 
