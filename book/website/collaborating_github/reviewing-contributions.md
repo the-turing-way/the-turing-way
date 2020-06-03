@@ -49,7 +49,9 @@ Pull requests created by contributors can be easily merged by maintainers after 
 In the prompt message, the maintainer can provide a merge message along with comments(if any) and then press the “confirm merge” button.
 
 ## Guidelines for Review Process and Maintainance
-For project collaboration on GitHub, it is very important to follow certain guidelines and best practices while maintaining a particular project. These guidelines become extremely important when the collaboration is done remotely on any project where the contributors and the maintainers might experience communication gaps due to various reasons. In such situations, contributing and maintenance can be done smoothly by the help of the following:
+For project collaboration on GitHub, it is very important to follow certain guidelines and best practices while maintaining a particular project. A [Code of Conduct](https://help.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project) is provided in every project which must be followed while collaborating.  
+A good example of the same is the [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md) for _The Turing Way_ project.  
+These guidelines become extremely important when the collaboration is done remotely on any project where the contributors and the maintainers might experience communication gaps due to various reasons. In such situations, contributing and maintenance can be done smoothly by the help of the following:
 
 1. Documenting the process- Writing down a guide on how contributors can get started with the project and how they can make meaningful contributions is the first step to be taken while maintaining any open source project.  
 A project's [README](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes) file should throw light on what the project is all about, why was it created in the first place, who maintains the project and who can provide guidance to new contributors.
