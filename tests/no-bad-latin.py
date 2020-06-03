@@ -104,7 +104,7 @@ def read_and_check_files(files):
     return failing_files
 
 
-def get_all_files(directory=os.path.join(ABSOLUTE_HERE,"book", "content")):
+def get_all_files(directory=os.path.join(ABSOLUTE_HERE,"book", "website")):
     """Get a list of files to be checked. Ignores image files.
 
 	Keyword Arguments:

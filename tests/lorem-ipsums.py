@@ -66,13 +66,13 @@ def check_changed_files(pr_num, bad_phrase=BAD_PHRASE):
 
 def check_all_files(
     bad_phrase=BAD_PHRASE,
-    directory_to_check=os.path.join(ABSOLUTE_HERE, "book", "content"),
+    directory_to_check=os.path.join(ABSOLUTE_HERE, "book", "website"),
 ):
     """Check all files in a given directory for an undesirable phrase
 
     Keyword Arguments:
         bad_phrase {str} -- Phrase to check and warn for (default: {"lorem ipsum"})
-        directory_to_check {str} -- Parent directory of files to be checked (default: {os.path.join(ABSOLUTE_HERE, "book", "content")})
+        directory_to_check {str} -- Parent directory of files to be checked (default: {os.path.join(ABSOLUTE_HERE, "book", "website")})
 
     Returns:
         {list} -- List of filenames that contain the undesirable phrase
