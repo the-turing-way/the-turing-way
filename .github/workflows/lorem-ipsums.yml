@@ -8,7 +8,7 @@ name: Check for Lorem Ipsums
 on:
   push:
     branches:
-      - master
+      - refine-tests
   pull_request:
     branches:
       - master
@@ -42,6 +42,6 @@ jobs:
 
     - name: Run Python script to check for rogue "Lorem ipsums" - Master
       working-directory: ./tests
-      if: github.event.push
+      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
       run: |
         python lorem-ipsums.py
