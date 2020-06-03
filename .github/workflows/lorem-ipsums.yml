@@ -42,6 +42,6 @@ jobs:
 
     - name: Run Python script to check for rogue "Lorem ipsums" - Master
       working-directory: ./tests
-      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+      if: github.event_name == 'push' && github.ref == 'refs/heads/refine-tests'
       run: |
         python lorem-ipsums.py
