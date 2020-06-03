@@ -40,7 +40,30 @@ def get_files_from_pr(pr_num):
     return files
 
 
+def filter_files(pr_num, start_phrase="book/website"):
+    """Filter modified files from a Pull Request by a start phrase
+
+    Arguments:
+        pr_num {str} -- Number of the Pull Request to get modified files from
+
+    Keyword Arguments:
+        start_phrase {str} -- Start phrase to filter changed files by
+                              (default: {"book/website"})
+
+    Returns:
+        {list} -- List of filenames that begin with the desired start phrase
+    """
+    files = get_files_from_pr(pr_num)
+    filtered_files = []
+
+    for filename in files:
+        if filename.startswith(start_phrase):
+            filtered_files.append(filename)
+
+    return filtered_files
+
+
 if __name__ == "__main__":
     args = parse_args()
-    changed_files = get_files_from_pr(args.pull_request)
+    changed_files = filter_files(args.pull_request)
     print(changed_files)

@@ -1,7 +1,7 @@
 import os
 import re
 import argparse
-from pull_files import get_files_from_pr
+from pull_files import filter_files
 
 HERE = os.getcwd()
 ABSOLUTE_HERE = os.path.dirname(HERE)
@@ -35,29 +35,6 @@ def remove_comments(text_string):
 	"""
     p = re.sub("(?s)<!--(.*?)-->", "", text_string)
     return p
-
-
-def filter_files(pr_num, start_phrase="book/content"):
-    """Filter modified files from a Pull Request by a start phrase
-
-    Arguments:
-        pr_num {str} -- Number of the Pull Request to get modified files from
-
-    Keyword Arguments:
-        start_phrase {str} -- Start phrase to filter changed files by
-                              (default: {"book/content"})
-
-    Returns:
-        {list} -- List of filenames that begin with the desired start phrase
-    """
-    files = get_files_from_pr(pr_num)
-    filtered_files = []
-
-    for filename in files:
-        if filename.startswith(start_phrase):
-            filtered_files.append(filename)
-
-    return filtered_files
 
 
 def check_changed_files(pr_num, bad_phrase=BAD_PHRASE):
