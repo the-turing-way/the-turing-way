@@ -1,0 +1,3 @@
+# Redirects from what the browser requests to what we serve
+
+https://the-turing-way.netlify.app/5-book-preview/5-book-preview.html	https://deploy-preview-977--the-turing-way.netlify.com/welcome
