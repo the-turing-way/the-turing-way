@@ -1,6 +1,6 @@
 # Code of Conduct
 
-We value the participation of every member of our community and want to ensure an that every contributor has an enjoyable and fulfilling experience.
+We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
 Accordingly, everyone who participates in the Turing Way project is expected to show respect and courtesy to other community members at all times.
 
 Kirstie Whitaker, as PI of this project, and all project members, are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. **We do not tolerate harassment by and/or of members of our community in any form**.
@@ -92,7 +92,7 @@ Examples of unacceptable behaviour by Turing Way community members at any projec
 
 Participants who are asked to stop any inappropriate behaviour are expected to comply immediately.
 This applies to all Turing Way community events and platforms, either online or in-person.
-If a participant engages in behaviour that violates this Code of Conduct, any member of the core development team may warn the offender, ask them to leave the event or platform (without refund), or impose any other appropriate sanctions (see the [enforcement manual](#enforcement-manual) for details).
+If a participant engages in behaviour that violates this Code of Conduct, any member of the core development team may warn the offender, ask them to leave the event or platform (without refund), or impose any other appropriate sanctions (see the [enforcement manual](#4-enforcement-manual) for details).
 
 ### 2.4 Feedback
 
@@ -147,7 +147,7 @@ In situations where an individual community member acts unilaterally, they must 
 
 ### 4.3 Less-Urgent Situations
 
-Upon receiving a report of an incident, the CoC committee will review the incident and determine, to the best of her ability:
+Upon receiving a report of an incident, the CoC committee will review the incident and determine, to the best of their ability:
 
 - whether this is an ongoing situation
 - whether there is a threat to anyone's physical safety
@@ -195,7 +195,7 @@ However, the CoC committee is not required to act on this feedback.
 
 In the event of any conflict of interest such that Dr Whitaker is not able to evaluate or enforce the reported violation, Ben Murton will take Kirstie's place.
 
-## 5. Acknowledgements
+## 5 Acknowledgements
 
 This code is adapted from the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)  with sections from the [Alan Turing Institute Data Study Group Code of Conduct](https://docs.google.com/document/d/1iv2cizNPUwtEhHqaezAzjIoKkaIX02f7XbYmFMXDTGY/edit).
 Both are used under the creative commons attribution license.
@@ -204,7 +204,7 @@ The Carpentries Code of Conduct was adapted from guidelines written by the [Djan
 Contributors to the Carpentries Code of Conduct were: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
 
 The Turing Institute Data Study Group Code of Conduct was heavily adapted from the [Citizen Lab Summer Institute 2017 Code of Conduct](https://citizenlab.ca/summerinstitute/codeofconduct.html) and used under a CC BY 2.5 CA license.
-Citizen Lab based their Code of Conduct on the [xvzf Code of Conduct](http://xvzf.io/), the [Contributor Covenant](http://contributor-covenant.org/), the [Django Code of Conduct and Reporting Guide](https://www.djangoproject.com/conduct/) and we are also grateful for [this guidance from Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports).
+Citizen Lab based their Code of Conduct on the [xvzf Code of Conduct](http://xvzf.io/#coc), the [Contributor Covenant](http://contributor-covenant.org/), the [Django Code of Conduct and Reporting Guide](https://www.djangoproject.com/conduct/) and we are also grateful for [this guidance from Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports).
 
 We really appreciate the work that all of the communities linked above have put into creating such a well considered process.
 

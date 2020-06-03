@@ -5,4 +5,7 @@ numpy
 datascience
 folium
 matplotlib
-jupyter-book
+jupyter-book>=0.7.0b.
+sphinx<3
+pydata-sphinx-theme>=0.2.2
+sphinx-book-theme>=0.0.12
