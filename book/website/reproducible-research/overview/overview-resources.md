@@ -1,3 +1,4 @@
+(rr-overview-resources)=
 # Resources for reproducibility chapter
 
 ### Checklist / Exercise

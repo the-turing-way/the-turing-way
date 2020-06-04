@@ -23,6 +23,7 @@ Victoria Stodden {cite}`Victoria2014Reproducibility`, a prominent scholar on thi
 
 - _Statistical reproducibility_: When detailed information is provided, for example, about the choice of statistical tests, model parameters, and threshold values. This mostly relates to pre-registration of study design to prevent p-value hacking and other manipulations.
 
+(rr-overview-definitions)=
 ## The Turing Way definition of reproducibility
 
 At _The Turing Way_ we define **reproducible research** as work that can be independently recreated from the same data and the same code that the original team used.
