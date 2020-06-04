@@ -28,8 +28,8 @@ Please use and re-use whatever you need for any purpose.
 
 The book is collaboratively written and open from the start.
 To make this project truly accessible and useful for everyone, we invite you to contribute your skills and bring your perspectives into this project.
-To join this community, please see our [contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and ways to [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch).
-More information about the community and project will be made available in the [Community Handbook](./community-handbook/community-handbook).
+To join this community, please read our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and ways to [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch).
+More information about the community and the project is available in the [Community Handbook](./community-handbook/community-handbook).
 We look forward to expanding and building _The Turing Way_ together.
 
 Although _The Turing Way_ receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/), the project is designed to be a global collaboration.
