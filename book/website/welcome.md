@@ -1,15 +1,41 @@
 # Welcome
 
-_The Turing Way_ is an Open Access community-driven guide to reproducible, ethical, inclusive and collaborative data science.
+_The Turing Way_ is an open source community-driven guide to reproducible, ethical, inclusive and collaborative data science.
 
-Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end.
+Our goal is to provide all the information that data scientists in academia, industry, government and in the third sector need at the start of their projects to ensure that they are easy to reproduce and reuse at the end.
 
-This also means making sure PhD students, postdocs, PIs, and funding teams know which parts of the "responsibility of reproducibility" they can affect, and what they should do to nudge data science to being more efficient, effective, and understandable.
+The book started as a guide for reproducibility, covering version control, testing, and continuous integration.
+But technical skills are just one aspect of making data science research "open for all".
+
+In February 2020, _The Turing Way_ expanded to a series of books covering reproducible research, project design, communication, collaboration, and ethical research.
 
 ![The Turing Way project as a street of shops to different data science skills, and people are going in and out with their shopping cart](figures/welcome.jpg)
 
+## Our community
+
+_The Turing Way_ community is dedicated to making collaborative, reusable and transparent research "too easy not to do".
+That means investing in the socio-technical skills required to work in a team, to build something greater than the any individual person could deliver alone.
+
+_The Turing Way_ is:
+
+* a book
+* a community
+* a global collaboration
+* a whole tonne of work
+
+We hope you find the content in the book helpful.
+Everything here is available for free under a [CC-BY licence](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md).
+Please use and re-use whatever you need for any purpose.
+
 The book is collaboratively written and open from the start.
-If you would like to contribute please [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch) or visit our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) to learn how to start.
+We invite you to join our community.
+To make this project truly accessible and useful for everyone, we invite you to contribute your skills and bring your perspectives into this project.
+[Community Handbook](./community-handbook/community-handbook), including how to [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch) and how to [start contributing](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).
+We look forward to expanding and building _The Turing Way_ together.
+
+Although _The Turing Way_ receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/), the project is designed to be a global collaboration.
+We have contributions from across the UK, and from India, Mexico, Australia, USA, and many European countries.
+Chapters have been written, reviewed and curated by members of research institutes and universities, government departments, and 
 
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
 Accordingly, everyone who participates in the _Turing Way_ project is expected to show respect and courtesy to other community members at all times.
