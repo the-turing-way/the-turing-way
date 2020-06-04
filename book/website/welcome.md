@@ -53,45 +53,10 @@ The Turing Way is a handbook to support students, their supervisors, funders, an
 It will include training material on version control, analysis testing, open and transparent communication with future users, and build on Turing Institute case studies and workshops.
 This project is openly developed and any and all questions, comments and recommendations are welcome at our GitHub repository: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way).
 
-## The book itself
-
-The book that you are reading is a [jupyter book](https://github.com/jupyter/jupyter-book/).
-Jupyter books render markdown documents and jupyter notebooks as static html web pages.
-To learn more about JupyterBook, visit [https://jupyterbook.org](https://jupyterbook.org).
-
-They are easy to read and navigate and allow easy access to edit and extend files by using the 'edit this page' :pencil2: on the right top corner of each page!
-
-Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) on how you can help us build the most useful book we can!
-
-
-## The Turing Way Community
-
-_The Turing Way_ is built by an incredible team.....and you!
-
-![](figures/TuringWayTeam.jpg)
-
-The lead investigator for this project is [Dr Kirstie Whitaker](https://whitakerlab.github.io/about).
-She is a research fellow at the [Alan Turing Institute](http://turing.ac.uk) and senior research associate in the [Department of Psychiatry](https://www.psychiatry.cam.ac.uk) at the University of Cambridge.
-
-The Community Manager is [Malvika Sharan](https://about.me/malvikasharan). She is a research associate at the [Alan Turing Institute](http://turing.ac.uk).
-
-Our core contributors are, in alphabetical order:
-
-* [Rachael Ainsworth](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#rachael-ainsworth)
-* [Becky Arnold](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#becky-arnold)
-* [Louise Bowler](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#louise-bowler)
-* [Sarah Gibson](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#sarah-gibson)
-* [Patricia Herterich](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#patricia-herterich)
-* [Rosie Higman](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#rosie-higman)
-* [Anna Krystalli](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#anna-krystalli)
-* [Alexander Morley](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#alexander-morley)
-* [Martin O'Reilly](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#martin-oreilly)
-
 You can see all of our incredible contributors in our [README](https://github.com/alan-turing-institute/the-turing-way#contributors) file, and screengrabbed below.
 
 ![Grid of pictures and names of project contributors](figures/contributors-twopanel.png)
 
-(cite-tag)=
 ## Citing _The Turing Way_
 
 You can reference _The Turing Way_ through the project's Zenodo archive using doi: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
