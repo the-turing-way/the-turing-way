@@ -18,55 +18,55 @@
     file: reproducible-research/overview
     sections:
     - title: Definitions
-      file: reproducible-research/overview/definitions
+      file: reproducible-research/overview/overview-definitions
     - title: Added advantages
-      file: reproducible-research/overview/benefit
+      file: reproducible-research/overview/overview-benefit
     - title: Resources
-      file: reproducible-research/overview/resources
+      file: reproducible-research/overview/overview-resources
   - title: Open Research
-    file: reproducible-research/open-research
+    file: reproducible-research/open
     sections:
     - title: Open Data
-      file: reproducible-research/open-research/open-data
+      file: reproducible-research/open/open-data
     - title: Open Source
-      file: reproducible-research/open-research/open-source
+      file: reproducible-research/open/open-source
     - title: Open Hardware
-      file: reproducible-research/open-research/open-hardware
+      file: reproducible-research/open/open-hardware
     - title: Open Access
-      file: reproducible-research/open-research/open-access
+      file: reproducible-research/open/open-access
     - title: Open Notebooks
-      file: reproducible-research/open-research/open-notebooks
+      file: reproducible-research/open/open-notebooks
     - title: Open Scholarship
-      file: reproducible-research/open-research/open-scholarship
+      file: reproducible-research/open/open-scholarship
     - title: Resources of Open Research
-      file: reproducible-research/open-research/open-resources
+      file: reproducible-research/open/open-resources
   - title: Version Control
-    file: reproducible-research/version-control
+    file: reproducible-research/vcs
     sections:
     - title: General Workflow
-      file: reproducible-research/version-control/vcs-workflow
+      file: reproducible-research/vcs/vcs-workflow
     - title: Getting Started with Git
-      file: reproducible-research/version-control/vcs-git
+      file: reproducible-research/vcs/vcs-git
     - title: Git Commit Command
-      file: reproducible-research/version-control/vcs-git-commit
+      file: reproducible-research/vcs/vcs-git-commit
     - title: Retrieving and Comparing Versions
-      file: reproducible-research/version-control/vcs-git-compare
+      file: reproducible-research/vcs/vcs-git-compare
     - title: Git Branches
-      file: reproducible-research/version-control/vcs-git-branches
+      file: reproducible-research/vcs/vcs-git-branches
     - title: Merging Branches in Git
-      file: reproducible-research/version-control/vcs-git-merge
+      file: reproducible-research/vcs/vcs-git-merge
     - title: Git Commands to Work on GitHub
-      file: reproducible-research/version-control/vcs-github
+      file: reproducible-research/vcs/vcs-github
     - title: Summary Table of Git Commands
-      file: reproducible-research/version-control/vcs-git-summary
+      file: reproducible-research/vcs/vcs-git-summary
     - title: Version Control for Data
-      file: reproducible-research/version-control/vcs-data
+      file: reproducible-research/vcs/vcs-data
     - title: Personal Stories
-      file: reproducible-research/version-control/vcs-personal-stories
+      file: reproducible-research/vcs/vcs-personal-stories
     - title: Checklist for Version Control
-      file: reproducible-research/version-control/vcs-checklist
+      file: reproducible-research/vcs/vcs-checklist
     - title: Resources for Version Control
-      file: reproducible-research/version-control/vcs-resources
+      file: reproducible-research/vcs/vcs-resources
   - title: Licensing
     file: reproducible-research/licensing
     sections:
@@ -78,38 +78,38 @@
     file: reproducible-research/rdm
     sections:
     - title: The FAIR principles and practices
-      file: reproducible-research/rdm/data-fair
+      file: reproducible-research/rdm/rdm-fair
     - title: Storage and backup
-      file: reproducible-research/rdm/data-storage
+      file: reproducible-research/rdm/rdm-storage
     - title: Data organisation in spreadsheets
-      file: reproducible-research/rdm/data-spreadsheets
+      file: reproducible-research/rdm/rdm-spreadsheets
     - title: Documentation and metadata
-      file: reproducible-research/rdm/data-metadata
+      file: reproducible-research/rdm/rdm-metadata
     - title: Sharing and archiving data
-      file: reproducible-research/rdm/data-sharing
+      file: reproducible-research/rdm/rdm-sharing
     - title: Personal Stories
-      file: reproducible-research/rdm/data-stories
+      file: reproducible-research/rdm/rdm-stories
     - title: Resources
-      file: reproducible-research/rdm/data-resources
+      file: reproducible-research/rdm/rdm-resources
   - title: Reproducible Environments
-    file: reproducible-research/reproducible-environments
+    file: reproducible-research/renv
     sections:
     - title: Choosing a tool
-      file: reproducible-research/reproducible-environments/env-options
+      file: reproducible-research/renv/renv-options
     - title: Conda
-      file: reproducible-research/reproducible-environments/package-management
+      file: reproducible-research/renv/renv-package-management
     - title: YAML
-      file: reproducible-research/reproducible-environments/yaml
+      file: reproducible-research/renv/renv-yaml
     - title: Binder
-      file: reproducible-research/reproducible-environments/binder
+      file: reproducible-research/renv/renv-binder
     - title: Virtual machines
-      file: reproducible-research/reproducible-environments/virtual-machines
+      file: reproducible-research/renv/renv-virtual-machines
     - title: Containers
-      file: reproducible-research/reproducible-environments/containers
+      file: reproducible-research/renv/renv-containers
     - title: Resources for Reproducible Environments
-      file: reproducible-research/reproducible-environments/env-resources
+      file: reproducible-research/renv/renv-resources
     - title: Checklist for Reproducible Environments
-      file: reproducible-research/reproducible-environments/env-checklist
+      file: reproducible-research/renv/renv-checklist
   - title: BinderHub
     file: reproducible-research/binderhub
     sections:
@@ -122,7 +122,7 @@
     - title: Resources for BinderHub
       file: reproducible-research/binderhub/binderhub-resources
   - title: Code quality
-    file: reproducible-research/code_quality
+    file: reproducible-research/code-quality
   - title: Code Testing
     file: reproducible-research/testing
     sections:
@@ -140,26 +140,26 @@
     file: reproducible-research/reviewing
     sections:
     - title: Motivation for code reviewing
-      file: reproducible-research/reviewing/review-motivation
+      file: reproducible-research/reviewing/reviewing-motivation
     - title: Recommendations for code reviewing
-      file: reproducible-research/reviewing/review-recommendations
+      file: reproducible-research/reviewing/reviewing-recommendations
     - title: Code review workflow
-      file: reproducible-research/reviewing/review-workflow
+      file: reproducible-research/reviewing/reviewing-workflow
     - title: Checklist for code reviewing
-      file: reproducible-research/reviewing/review-checklist
+      file: reproducible-research/reviewing/reviewing-checklist
     - title: Resources for code reviewing
-      file: reproducible-research/reviewing/review-resources
+      file: reproducible-research/reviewing/reviewing-resources
   - title: Continuous Integration
-    file: reproducible-research/continuous-integration
+    file: reproducible-research/ci
     sections:
     - title: Continuous integration with Travis
-      file: reproducible-research/continuous-integration/ci-travis
+      file: reproducible-research/ci/ci-travis
     - title: Best practices and recommendations
-      file: reproducible-research/continuous-integration/ci-practices
+      file: reproducible-research/ci/ci-practices
     - title: Motivation for code review
-      file: reproducible-research/continuous-integration/ci-checklist
+      file: reproducible-research/ci/ci-checklist
     - title: Motivation for code review
-      file: reproducible-research/continuous-integration/ci-resources
+      file: reproducible-research/ci/ci-resources
   - title: Reproducible Research with Make
     file: reproducible-research/make
     sections:
@@ -174,16 +174,16 @@
     - title: Resources for "Make"
       file: reproducible-research/make/make-resources
   - title: Research Compendia
-    file: reproducible-research/research-compendia
+    file: reproducible-research/compendia
   - title: Credit for Reproducible Research
     file: reproducible-research/credit
   - title: Risk Assessment
-    file: reproducible-research/risk-assessment
+    file: reproducible-research/risk-assess
     sections:
     - title: Complexity and Impact of Risk Assessment
-      file: reproducible-research/risk-assessment/risk-assess-impact
+      file: reproducible-research/risk-assess/risk-assess-impact
     - title: Summary of Risk Assessment
-      file: reproducible-research/risk-assessment/risk-assess-resources
+      file: reproducible-research/risk-assess/risk-assess-resources
 
 # ===== Project Design Section ========================================
 
@@ -197,14 +197,14 @@
 - file: communication/communication
   sections:
   - title: Community Communications for Open Source Projects
-    file: communication/open-source-comms
+    file: communication/os-comms
     sections:
     - title: Issue Tracking
-      file: communication/open-source-comms/comms-issue-tracking
+      file: communication/os-comms/os-comms-issue-tracking
     - title: Communication Channels
-      file: communication/open-source-comms/comms-channels
+      file: communication/os-comms/os-comms-channels
     - title: Further Reading
-      file: communication/open-source-comms/comms-resources
+      file: communication/os-comms/os-comms-resources
 
 # ===== Collaboration Section ========================================
 
@@ -214,18 +214,18 @@
     file: collaboration/github-collaboration
     sections:
     - title: README and Project Communication
-      file: collaboration/github-collaboration/github-readme
+      file: collaboration/github/github-readme
     - title: Roadmapping
-      file: collaboration/github-collaboration/github-roadmapping
+      file: collaboration/github/github-roadmapping
     - title: Getting Contributors
-      file: collaboration/github-collaboration/github-contributors
+      file: collaboration/github/github-contributors
     - title: Checklist and resources
-      file: collaboration/github-collaboration/github-resources
+      file: collaboration/github/github-resources
   - title: Leadership in Data Science
     file: collaboration/leadership
     sections:
     - title: Personal Stories of Leadership
-      file: collaboration/leadership/personal-stories
+      file: collaboration/leadership/leadership-stories
 
 # ===== Ethical Research Section ========================================
 
