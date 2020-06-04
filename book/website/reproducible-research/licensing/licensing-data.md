@@ -78,9 +78,9 @@ Any use or distribution of your database must also include information on the li
 
 The ODbL adds two more restrictions to the ODC-BY license.
 The first is that any public uses of your data must be shared with the same license, similar to the CC **SA** permission mark.
-The second is that if any version of your data is redistributed in a 'closed' format (for example, with Technological Protection Measures), it is mandatory for this redistribution to also be available free of such closure measure.
+The second is that if any version of your data is redistributed in a 'closed' format (for example, with Technological Protection Measures), it is mandatory for this redistribution to also be available in a version that is free of such closure measures.
 
-## A note on differences between CC and ODC licenses
+## A note on the differences between CC and ODC licenses
 
 Although it can seem like the licensing options offered by Creative Commons and Open Data Commons are exactly the same, there are some important differences.<br>
 
@@ -97,7 +97,7 @@ A comparison between the PDDL and CC0 is provided [here](https://opendatacommons
 
 It is also possible to choose other data licenses that may have been developed with a specific use case or community in mind or that are not in widespread global use.
 These include licenses that were developed by national governments, such as the [Norwegian License for Open Government Data](https://data.norge.no/nlod/en/).
-Often, such licenses are the recommended data licensing option within the corresponding country, especially for data created or owned by public bodies.
+Often, such licenses are the recommended data licensing option within the corresponding country, especially for data created or owned by their public bodies.
 Another example is the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) or OGL, which was developed by The National Archives, UK. <br>
 
 If you would like to read more about the challenges and finer points of licensing, [this article](https://research.okfn.org/avoiding-data-use-silos/) is a great resource to get you started.
