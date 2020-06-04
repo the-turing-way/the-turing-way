@@ -1,23 +1,23 @@
 (rr-licensing-data)=
 # Data licenses
 
-Similar to a software licence, a data licence governs what someone else can do with data that you create or own and that you make accessible to others through, for example, a data repository.
-Data licences vary based on different criteria, such as:
+Similar to a software license, a data license governs what someone else can do with data that you create or own and that you make accessible to others through, for example, a data repository.
+Data licenses vary based on different criteria, such as:
 * Attribution to original owner
 * Permission to redistribute or modify original
-* Inclusion of the same licence with derivatives or redistributions
+* Inclusion of the same license with derivatives or redistributions
 
-As a result, accessibility to your data is affected by the data licence you choose. <br>
+As a result, accessibility to your data is affected by the data license you choose. <br>
 
-## Creative Commons Licences
+## Creative Commons Licenses
 
-Creative Commons or CC provides a number of licences that can be used with a wide variety of creations that might otherwise fall under copyright restrictions, including music, art, books and photographs.
-CC licences can also be used as data licences. 
-Its website includes a [summary page](https://creativecommons.org/about/cclicenses/) outlining all the available licences, explained with simple visual symbols. 
+Creative Commons or CC provides a number of licenses that can be used with a wide variety of creations that might otherwise fall under copyright restrictions, including music, art, books and photographs.
+CC licenses can also be used as data licenses. 
+Its website includes a [summary page](https://creativecommons.org/about/cclicenses/) outlining all the available licenses, explained with simple visual symbols. 
 
 ### Permission Levels
 
-The permission level provided by a Creative Commons data licence can be understood from its name, which is a combination of two-letter "permission marks".
+The permission level provided by a Creative Commons data license can be understood from its name, which is a combination of two-letter "permission marks".
 The only exception to this naming scheme is CC0, which will be introduced in the next section.
 
 <table>
@@ -47,7 +47,7 @@ The only exception to this naming scheme is CC0, which will be introduced in the
     </tbody>
 </table>
 
-For example, the CC BY-ND licence specifies that users must credit the creator of the data and cannot create any derivatives.
+For example, the CC BY-ND license specifies that users must credit the creator of the data and cannot create any derivatives.
 
 ### Dedicating your work to the public with CC0
 
@@ -60,8 +60,8 @@ In many instances, data repositories maintained by universities recommend CC0 as
 
 ## Open Data Commons
 
-Open Data Commons provides three licences that can be applied specifically to data.
-The [webpages](https://opendatacommons.org/licenses/index.html) of each of these licences include human-readable summaries, with the ramifications of the legalese explained in a concise format.
+Open Data Commons provides three licenses that can be applied specifically to data.
+The [webpages](https://opendatacommons.org/licenses/index.html) of each of these licenses include human-readable summaries, with the ramifications of the legalese explained in a concise format.
 
 ### The Public Domain Dedication and License or PDDL
 
@@ -71,13 +71,13 @@ It is also possible to put together a customized set of norms that serve your da
 
 ### The Attribution or ODC-BY License
 
-This licence protects your attribution rights as a data owner or creator, just like the **BY** permission mark of CC licences.
-Any use or distribution of your database must also include information on the licence used with the original.
+This license protects your attribution rights as a data owner or creator, just like the **BY** permission mark of CC licenses.
+Any use or distribution of your database must also include information on the license used with the original.
 
 ### The Open Database License or ODbL
 
-The ODbL adds two more restrictions to the ODC-BY licence.
-The first is that any public uses of your data must be shared with the same licence, similar to the CC **SA** permission mark.
+The ODbL adds two more restrictions to the ODC-BY license.
+The first is that any public uses of your data must be shared with the same license, similar to the CC **SA** permission mark.
 The second is that if any version of your data is redistributed in a 'closed' format (for example, with Technological Protection Measures), it is mandatory for this redistribution to also be available free of such closure measure.
 
 ## A note on differences between CC and ODC licenses
@@ -85,7 +85,7 @@ The second is that if any version of your data is redistributed in a 'closed' fo
 Although it can seem like the licensing options offered by Creative Commons and Open Data Commons are exactly the same, there are some important differences.<br>
 
 One difference is the scope of rights that are covered by the license, which is nicely explained [here](https://wiki.creativecommons.org/wiki/Data#What_is_the_difference_between_the_Open_Data_Commons_licenses_and_the_CC_4.0_licenses.3F).
-The ODC licences were made specifically to be applied to data, and typically cover only database rights.
+The ODC licenses were made specifically to be applied to data, and typically cover only database rights.
 On the other hand, the CC licenses are more general-purpose and can be applied to other materials.
 CC licenses also cover copyrights and other neighbouring rights.<br>
 
@@ -95,8 +95,8 @@ A comparison between the PDDL and CC0 is provided [here](https://opendatacommons
 
 ## Other Licensing Options
 
-It is also possible to choose other data licences that may have been developed with a specific use case or community in mind or that are not in widespread global use.
-These include licences that were developed by national governments, such as the [Norwegian Licence for Open Government Data](https://data.norge.no/nlod/en/).
+It is also possible to choose other data licenses that may have been developed with a specific use case or community in mind or that are not in widespread global use.
+These include licenses that were developed by national governments, such as the [Norwegian License for Open Government Data](https://data.norge.no/nlod/en/).
 Often, such licenses are the recommended data licensing option within the corresponding country, especially for data created or owned by public bodies.
 Another example is the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) or OGL, which was developed by The National Archives, UK. <br>
 
