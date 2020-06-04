@@ -2,7 +2,9 @@
 
 Scientific results and evidence are strengthened if they are reproduced
 and confirmed by several independent researchers (see {ref}`definitions <rr-overview-definitions>`).
-With all parts used in an analysis being available and/or documented, valuable time is saved reproducing published results and other researchers can easily build on these research results and re-use data or code for their analyses. Learn about the less obvious benefits of working reproducibly in the {ref}`added advantages <rr-overview-benefits>` subchapter.
+With all parts used in an analysis being available and/or documented, valuable time is saved reproducing published results and other researchers can easily build on these research results and re-use data or code for their analyses. 
+
+Learn about the less obvious benefits of working reproducibly in the {ref}`added advantages <rr-overview-benefits>` subchapter.
 
 Major media outlets have [reported on](https://www.theguardian.com/science/2018/aug/27/attempt-to-replicate-major-social-scientific-findings-of-past-decade-fails) investigations showing that a significant percentage of scientific studies cannot be reproduced.
 
