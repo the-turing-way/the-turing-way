@@ -1,8 +1,8 @@
 # Community Handbook
 
-_The Turing Way__ is a community-led book project that involves diverse perspectives of researchers, funders, educators, learners and various stakeholders from around the world.
+_The Turing Way_ is a community-led book project that involves diverse perspectives of researchers, funders, educators, learners and various stakeholders from around the world.
 
-The Community handbook section of this book aims to provide information about the project, ways of working, and other aspects that can make community participation equitable for our members.
+The Community Handbook part of this book aims to provide information about the project, ways of working, and other aspects that can make community participation equitable for our members.
 
 We are incredibly grateful to our community members who are the readers, co-authors, contributors, collaborators, maintainers, helper and supporters.
 

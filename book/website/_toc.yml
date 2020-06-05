@@ -1,17 +1,17 @@
 # Each entry has the following schema:
 #
-# - title: mytitle   # Title of chapter or section
-#   file: myfile  # file of section relative to the  folder.
-#   sections:  # Contains a list of more entries that make up the chapter's sections
+# - title: mytitle   # Title of chapter or subchapter
+#   file: myfile  # filename relative to the  folder.
+#   sections:  # Contains a list of more entries that make up the chapter's subchapters
 #
 # Below are some special values that trigger specific behavior:
 # - header: My Header  # Will insert a header with no link in the sidebar
 
-# ===== Landing Page ========================================
+# ===== Main Landing Page ========================================
 
 - file: welcome
 
-# ===== Reproducible Research Section ========================================
+# ===== Reproducible Research Guide ========================================
 - file: reproducible-research/reproducible-research
   sections:
   - title: Overview
@@ -185,14 +185,14 @@
     - title: Summary of Risk Assessment
       file: reproducible-research/risk-assess/risk-assess-resources
 
-# ===== Project Design Section ========================================
+# ===== Project Design Guide ========================================
 
 - file: project-design/project-design
   sections:
   - title: File Naming Convention
     file: project-design/filenaming
 
-# ===== Communication Section ========================================
+# ===== Communication Guide ========================================
 
 - file: communication/communication
   sections:
@@ -206,7 +206,7 @@
     - title: Further Reading
       file: communication/os-comms/os-comms-resources
 
-# ===== Collaboration Section ========================================
+# ===== Collaboration Guide ========================================
 
 - file: collaboration/collaboration
   sections:
@@ -227,42 +227,40 @@
     - title: Personal Stories of Leadership
       file: collaboration/leadership/leadership-stories
 
-# ===== Ethical Research Section ========================================
-
+# ===== Ethical Research Guide ========================================
 - file: ethical-research/ethical-research
   sections:
-  - title: Ethical Decisions in Planning Research
-    file: ethical-research/planning-research
+  - title: Ethical Decisions in Planning Preclinical Research
+    file: ethical-research/preclinical-research
 
-# ===== Community Handbook Section ========================================
+# ===== Community Handbook Guide ========================================
 
 - file: community-handbook/community-handbook
   sections:
-  - titie: Code of Conduct
+  - title: Code of Conduct
     file: community-handbook/coc
-    subsections:
+    sections:
     - title: Code of Conduct in Detail
       file: community-handbook/coc/coc-details
-    - titie: Incident Reporting Guideline
+    - title: Incident Reporting Guideline
       file: community-handbook/coc/coc-reporting
     - title: Enforcement manual
       file: community-handbook/coc/coc-enforcement
     - title: Acnowledgements
-      file: community-handbook/coc/coc-acknowledgements
-  - titie: The Turing Way Style Guide
+      file: community-handbook/coc/coc-acknowledgement
+  - title: The Turing Way Style Guide
     file: community-handbook/style
-    subsections:
+    sections:
     - title: Citing and Referencing External Resources
       file: community-handbook/style/style-citing
-    - titie: Cross-referencing Sections and Chapters
+    - title: Cross-referencing Sections and Chapters
       file: community-handbook/style/style-crossref
     - title: Using figures
       file: community-handbook/style/style-figures
 
 # ===== Afterward Section ========================================
 
-- title: Afterword
-  file: afterword/afterword
+- file: afterword/afterword
   sections:
   - title: Glossary
     file: afterword/glossary
