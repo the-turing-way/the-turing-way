@@ -1,0 +1,72 @@
+# Style Guide
+
+To ensure that the book can be read easily by everyone, including screen readers and non-native english speakers, we have compiled a set of guideline to keep a consistent style across all chapters of the book.
+
+You follow the [Gov.uk guidance](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) to improve accessibility of the resources in _The Turing Way_.
+
+### Write each sentences in a new line (line breaks)
+
+When writing all sentences should go on a new line.
+This will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph. Consider the example below.
+
+ ```
+Today you are you, that is truer than true. There is no one alive who is youer than you. - Dr Seuss
+```
+
+ A pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph.
+Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.
+
+ ```
+Today you are you, that is truer than true.
+There is no one alive who is youer than you.
+- Dr Seuss
+```
+
+### Opinions are welcome, but ...
+
+The Turing Way book is intended to be only lightly opinionated.
+Whilst more opinionated content is allowed, such content should be clearly marked.
+The best way to do this is by displaying it in a quote box.
+This can be done by either prefixing every line with the greater than symbol `>`.
+Note, that the formatting will be retained, so we can split each sentence to a new line as recommended before.
+
+```
+> I will not eat them in a house,
+> i will not eat them with a mouse,
+> i will not eat them in a box i will not eat them with a fox,
+> i will not eat them here of there i will not eat them anywhere,
+> I do not like green eggs and ham i do not like them sam i am
+```
+
+### Avoid Latin Abbreviation
+
+Please do not use latin abbreviations like `e.g., i.e. or etc.`.
+See the [Gov.uk recommendations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#eg-etc-and-ie) for details.
+
+Instead of `eg.`, which can sometimes read aloud as ‘egg’ by screen reading software, please use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.
+
+Instead of `etc.` at the end of a list, please start the list name with words like ‘for example’ or ‘such as’ or ‘like’ or ‘including’.
+
+Instead of `ie.` that is often used to clarify a sentence, try (re)writing sentences to avoid the need to use it.
+If that is not possible, use an alternative such as ‘meaning’ or ‘that is’.
+
+### Auto-formatting
+
+The Travis continuous-integration tests will check for formatting errors using [prettier.io](https://prettier.io). You can see a list of all files with style issues by looking at the Travis build logs, for example:
+
+```
+Checking formatting...
+book/content/introduction/introduction.md
+book/content/open_research/open_research.md
+Code style issues found in the above file(s). Forgot to run Prettier?
+The command "prettier --check ./book/website/**/*.md" exited with 1.
+```
+
+*Optional:* If you would like to apply auto-formatting when editing locally, we recommend [pre-commit](https://pre-commit.com/). To get started, run the following from your shell:
+
+```
+pip install pre-commit
+pre-commit install
+```
+
+Each time you attempt to commit a change with git, pre-commit will run the prettier auto-formatter and automagically fix any style issues.

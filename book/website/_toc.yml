@@ -237,7 +237,43 @@
 # ===== Community Handbook Section ========================================
 
 - file: community-handbook/community-handbook
+  sections:
+  - titie: Code of Conduct
+    file: community-handbook/coc
+    subsections:
+    - title: Code of Conduct in Detail
+      file: community-handbook/coc/coc-details
+    - titie: Incident Reporting Guideline
+      file: community-handbook/coc/coc-reporting
+    - title: Enforcement manual
+      file: community-handbook/coc/coc-enforcement
+    - title: Acnowledgements
+      file: community-handbook/coc/coc-acknowledgements
+  - titie: The Turing Way Style Guide
+    file: community-handbook/style
+    subsections:
+    - title: Citing and Referencing External Resources
+      file: community-handbook/style/style-citing
+    - titie: Cross-referencing Sections and Chapters
+      file: community-handbook/style/style-crossref
+    - title: Using figures
+      file: community-handbook/style/style-figures
+  - titie: The Turing Way Coworking Events
+    file: community-handbook/coworking
+    subsections:
+    - title: Citing and Referencing External Resources
+      file: community-handbook/style/style-citing
+    - titie: Cross-referencing Sections and Chapters
+      file: community-handbook/style/style-crossref
+    - title: Using figures
+      file: community-handbook/style/style-figures
 
-# ===== Glossary Section ========================================
+# ===== Afterward Section ========================================
 
-- file: glossary/glossary
+- title: Afterword
+  file: afterword/afterword
+  sections:
+  - title: Glossary
+    file: afterword/glossary
+  - title: Bibliography
+    file: afterword/bibliography

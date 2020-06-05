@@ -9,7 +9,10 @@ But technical skills are just one aspect of making data science research "open f
 
 In February 2020, _The Turing Way_ expanded to a series of books covering reproducible research, project design, communication, collaboration, and ethical research.
 
-![The Turing Way project as a street of shops to different data science skills, and people are going in and out with their shopping cart](figures/welcome.jpg)
+```
+| ![The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need](./figures/welcome.jpg) |
+| ---------------|
+| _The Turing Way_ project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3695300 |
 
 ## Our community
 
@@ -62,4 +65,3 @@ You might want to include a [web archive link](http://web.archive.org) such as: 
 
 We really appreciate any references that you make to _The Turing Way_ project in your work and we hope it is useful.
 If you have any questions please [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch).
-
