@@ -43,7 +43,7 @@ This aspect of reproducibility increases the usefulness of our research by enabl
 This ensures the continuity of a research idea and can even find fresh applications in other contexts.
 Progress of such projects can easily be tracked and continued - either by other researchers, or yourself if you want to build on your own work after a longer period {cite}`Markowetz2015`.
 
-To learn about other benefits of working reproducibly on Open Research projects are covered in our [Open Research](../open-research/open-research) chapter.
+To learn about other benefits of working reproducibly on Open Research projects are covered in our {ref}`rr-open` chapter.
 
 ## Reference:
 
