@@ -258,15 +258,6 @@
       file: community-handbook/style/style-crossref
     - title: Using figures
       file: community-handbook/style/style-figures
-  - titie: The Turing Way Coworking Events
-    file: community-handbook/coworking
-    subsections:
-    - title: Citing and Referencing External Resources
-      file: community-handbook/style/style-citing
-    - titie: Cross-referencing Sections and Chapters
-      file: community-handbook/style/style-crossref
-    - title: Using figures
-      file: community-handbook/style/style-figures
 
 # ===== Afterward Section ========================================
 
