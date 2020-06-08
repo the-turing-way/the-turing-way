@@ -1,5 +1,6 @@
 (rr-overview-resources)=
 # Resources for reproducibility chapter
+For additional resources like videos and reference papers on reproducibility, see the {ref}`rr-overview-resources-reading` and {ref}`rr-overview-resources-addmaterial` sections.
 
 ### Checklist / Exercise
 - [ ] Define reproducibility for yourself.
@@ -8,6 +9,7 @@
 {ref}`rr-open` would be a good chapter to read next.
 If you want to start learning hands-on practices, we recommend reading the {ref}`rr-vcs` chapter next.
 
+(rr-overview-resources-reading)=
 ## Further Reading
 
 * Baker, M. (2016). 1,500 scientists lift the lid on reproducibility. Nature, 533(7604), 452–454. https://doi.org/10.1038/533452a
@@ -18,6 +20,8 @@ If you want to start learning hands-on practices, we recommend reading the {ref}
 
 * Whitaker, Kirstie (2018): Barriers to reproducible research (and how to overcome them). figshare. Paper. https://doi.org/10.6084/m9.figshare.7140050.v2
 
+
+(rr-overview-resources-addmaterial)=
 ## Additional material
 
 ### Videos
