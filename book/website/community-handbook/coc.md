@@ -1,3 +1,4 @@
+(ch-coc)=
 # Code of Conduct
 
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.

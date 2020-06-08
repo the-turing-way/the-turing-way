@@ -230,9 +230,9 @@
 # ===== Ethical Research Guide ========================================
 - file: ethical-research/ethical-research
   sections:
-  - title: Ethical Decisions in Planning Preclinical Research
+  - title: Ethical Decisions in Preclinical Research
     file: ethical-research/preclinical-research
-
+    
 # ===== Community Handbook Guide ========================================
 
 - file: community-handbook/community-handbook

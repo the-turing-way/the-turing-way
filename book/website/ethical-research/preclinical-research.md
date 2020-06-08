@@ -1,4 +1,4 @@
-# Ethical Decisions in Planning Research for Preclinical Scientists
+# Ethical Decisions in Preclinical Research
 
 ## Prerequisites / recommended skill level
 For preclinical scientists – no previous knowledge needed

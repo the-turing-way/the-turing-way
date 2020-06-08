@@ -45,21 +45,15 @@ Here are a few suggestions for a good first contributions:
 - Write your personal experience of reproducible research in this [google form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
 - See more info on the GitHub: https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md
 
-## The Turing Way Core Team
+## The Turing Way Contact Points
 
 The lead investigator for this project is [Dr Kirstie Whitaker](https://whitakerlab.github.io/about).
 She is a research fellow at the [Alan Turing Institute](http://turing.ac.uk) and senior research associate in the [Department of Psychiatry](https://www.psychiatry.cam.ac.uk) at the University of Cambridge.
 
 The Community Manager is [Malvika Sharan](https://about.me/malvikasharan). She is a research associate at the [Alan Turing Institute](http://turing.ac.uk).
 
-Some of our core contributors who have been involved in the project from the beginning are following (in alphabetical order):
+You can contact them on the community Gitter Channel [https://gitter.im/alan-turing-institute/the-turing-way](https://gitter.im/alan-turing-institute/the-turing-way).
+You can write an email to Malvika Sharan for any question of query by using the community email [theturingway@gmail.com](mailto:theturingway@gmail.com) or contact her directly by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+In case you want to directly reach Kirstie, email her at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 
-* [Rachael Ainsworth](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#rachael-ainsworth)
-* [Becky Arnold](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#becky-arnold)
-* [Louise Bowler](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#louise-bowler)
-* [Sarah Gibson](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#sarah-gibson)
-* [Patricia Herterich](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#patricia-herterich)
-* [Rosie Higman](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#rosie-higman)
-* [Anna Krystalli](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#anna-krystalli)
-* [Alexander Morley](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#alexander-morley)
-* [Martin O'Reilly](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#martin-oreilly)
+For contact details for Code of Conduct related query and reporting, please see the {ref}`ch-coc` of this Community Handbook.

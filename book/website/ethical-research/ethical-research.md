@@ -1,9 +1,5 @@
 # Guide for Ethical Research
 
-![](../figures/ethics.jpg)
-
-# Ethics
-
 ## Prerequisites / recommended skill level
 > other chapters that should have been read before or content you should be familiar with before you read this
 
@@ -11,26 +7,12 @@
 | -------------|----------|------|
 | Chapter/topic | How important it is | Any notes |
 
+Data scientists make data-driven decisions that requires collection of data and model building approaches that can have serious implications for health, security, politics, society and everything associated with them.
+Researchers or any kind of stakeholders in data science have an obligation to consider the ethical standards and their impact of people's lives {cite}`BibEntry2020Ethics`.
+
+In this guide, we will discuss different aspects of ethics that a data scientist must consider to ensure high level of research integrity of their work.
+
+![An illustration of a wooden judge hammer labeled with law is hitting a plank labeled with ethics with a quotation "consider necessary restriction around sharing different types of data"](../figures/ethics.jpg)
+
 ## Summary
 > easy to understand summary - a bit like tl;dr
-
-## How this will help you/ why this is useful
-> why we think you should read the whole thing
-
-## Chapter content
-
-## Checklist
-> this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
-
-## What to learn next
-> recommended next chapters that are a good next step up
-
-## Further reading
-> top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
-> less relevant/favourite resources in case someone wants to dig into this in detail
-
-## Definitions/glossary
-> Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
-
-## Bibliography
-> Credit/urls for any materials that form part of the chapter's text.
