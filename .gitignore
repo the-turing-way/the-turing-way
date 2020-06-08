@@ -11,4 +11,4 @@ book/website/Pipfile\.lock
 workshops/boost-research-reproducibility-binder/workshop-presentations/*pptx
 .Rproj.user
 
-*.pyc
+**/__pycache__/
