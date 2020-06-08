@@ -1,5 +1,7 @@
 # Community Handbook
 
+***This is a community handbook that discusses aspects of The Turing Way project that one can use for participating in this community.***
+
 _The Turing Way_ is a community-led book project that involves diverse perspectives of researchers, funders, educators, learners and various stakeholders from around the world.
 
 The Community Handbook part of this book aims to provide information about the project, ways of working, and other aspects that can make community participation equitable for our members.
@@ -8,9 +10,9 @@ We are incredibly grateful to our community members who are the readers, co-auth
 
 Thank you for joining the incredible journey of _The Turing Way_!
 
-![A garden full of folks working on different parts of the garden. Someone is welcoking others, someone is teaching the basics, someone is writing best practices and someone is helping this community grow.](../figures/community.jpg)
-
-*This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence. Available online on [Zenodo](http://doi.org/10.5281/zenodo.3695300)*
+| ![A garden full of folks working on different parts of the garden. Someone is welcoking others, someone is teaching the basics, someone is writing best practices and someone is helping this community grow.](../figures/community.jpg) |
+| ---------------|
+| _The Turing Way_ project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3695300 |
 
 ## License for The Turing Way book series
 
