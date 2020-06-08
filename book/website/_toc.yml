@@ -97,13 +97,13 @@
     - title: Choosing a tool
       file: reproducible-research/renv/renv-options
     - title: Conda
-      file: reproducible-research/renv/renv-package-management
+      file: reproducible-research/renv/renv-package
     - title: YAML
       file: reproducible-research/renv/renv-yaml
     - title: Binder
       file: reproducible-research/renv/renv-binder
     - title: Virtual machines
-      file: reproducible-research/renv/renv-virtual-machines
+      file: reproducible-research/renv/renv-vm
     - title: Containers
       file: reproducible-research/renv/renv-containers
     - title: Resources for Reproducible Environments
@@ -123,6 +123,7 @@
       file: reproducible-research/binderhub/binderhub-resources
   - title: Code quality
     file: reproducible-research/code-quality
+    sections:
     - title: Code Style and Formatting
       file: reproducible-research/code-quality/code-quality-style
     - title: Checklist and Resources
@@ -146,7 +147,7 @@
     - title: Motivation for code reviewing
       file: reproducible-research/reviewing/reviewing-motivation
     - title: Recommendations for code reviewing
-      file: reproducible-research/reviewing/reviewing-recommendations
+      file: reproducible-research/reviewing/reviewing-recommend
     - title: Code review workflow
       file: reproducible-research/reviewing/reviewing-workflow
     - title: Checklist for code reviewing

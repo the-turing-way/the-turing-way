@@ -44,8 +44,3 @@ This ensures the continuity of a research idea and can even find fresh applicati
 Progress of such projects can easily be tracked and continued - either by other researchers, or yourself if you want to build on your own work after a longer period {cite}`Markowetz2015`.
 
 To learn about other benefits of working reproducibly on Open Research projects are covered in our {ref}`rr-open` chapter.
-
-## Reference:
-
-```{bibliography} ../../_bibliography/references.bib
-```

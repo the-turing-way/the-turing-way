@@ -22,7 +22,7 @@
 - [Excellent compilation of code analysis guidelines - OWASP](https://owasp.org/www-community/controls/Static_Code_Analysis)
 - [ECMA International ES6 guide](http://www.ecma-international.org/ecma-262/6.0/)
 
-## Bibliography
+## References specific for this chapter
 
 - [Static Tool analysis guide](https://en.wikipedia.org/wiki/Static_program_analysis)
 - [KeyBindings in VSCode](https://code.visualstudio.com/docs/getstarted/keybindings)

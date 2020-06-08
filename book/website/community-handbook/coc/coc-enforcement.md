@@ -1,10 +1,10 @@
+(ch-coc-enforcement=)
 ## 4 Enforcement Manual
 
 This is the enforcement manual followed by the Turing Way project research team.
 It's used when we respond to an issue to make sure we're consistent and fair.
 Enforcement of the Code of Conduct should be respectful and not include any harassing behaviours.
 
-(ch-coc-enforcement=)
 ### 4.1 The Code of Conduct Committee
 
 The Code of Conduct committee is:

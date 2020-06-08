@@ -56,4 +56,4 @@ You can contact them on the community Gitter Channel [https://gitter.im/alan-tur
 You can write an email to Malvika Sharan for any question of query by using the community email [theturingway@gmail.com](mailto:theturingway@gmail.com) or contact her directly by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 In case you want to directly reach Kirstie, email her at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 
-For contact details for Code of Conduct related query and reporting, please see the {ref}`ch-coc` of this Community Handbook.
+For contact details for Code of Conduct related query and reporting, please see the {ref}`Code of Conduct file <ch-coc>` in this Community Handbook.

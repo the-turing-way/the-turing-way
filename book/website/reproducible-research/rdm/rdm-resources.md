@@ -41,9 +41,3 @@ data management supports Open Research and how these practises can result in get
 **METADATA:** - Data that describes other data
 **Data Repository** - Online archive or platform that stores and curates your data, ideally issuing a Digital Object Identifier (DOI) so your data is easily findable and citable.
 **DOI** Digital Object Identifier
-
-<a name="Bibliography"></a>
-
-## Bibliography
-
-{% bibliography --cited %}

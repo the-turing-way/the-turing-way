@@ -1,3 +1,4 @@
+(rr-overview-definitions)=
 # Definitions of Reproducibility
 
 The most common definition of reproducibility (and replication) was first noted by Claerbout and Karrenbach in 1992 {cite}'ClaerboutKarrenbach1992Reproducibility' and has been used in computational science literature since then.
@@ -23,8 +24,8 @@ Victoria Stodden {cite}`Victoria2014Reproducibility`, a prominent scholar on thi
 
 - _Statistical reproducibility_: When detailed information is provided, for example, about the choice of statistical tests, model parameters, and threshold values. This mostly relates to pre-registration of study design to prevent p-value hacking and other manipulations.
 
-(rr-overview-definitions)=
-## The Turing Way definition of reproducibility
+(rr-overview-definitions-table)=
+## Table of definitions for reproducibility
 
 At _The Turing Way_ we define **reproducible research** as work that can be independently recreated from the same data and the same code that the original team used.
 Reproducible is distinct from replicable, robust and generalisable as described in the figure below.
@@ -49,8 +50,3 @@ More information on these definitions can be found in "Reproducibility vs. Repli
 ## Reproducible but not open
 
 _The Turing Way_ recognises that some research will use sensitive data that cannot be shared and this handbook will provide guides on how your research can be reproducible without all parts necessarily being open.
-
-## References
-
-```{bibliography} ../../_bibliography/references.bib
-```

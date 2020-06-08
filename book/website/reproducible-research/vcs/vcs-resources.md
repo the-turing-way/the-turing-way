@@ -61,7 +61,7 @@ Many such skills are either also applicable for using version control well, for 
 - **SHA:** Unique string of numbers of letters used to identify every commit or node in the repository.
 - **Staged:** Changes that will be included in the next commit.
 
-## Bibliography
+## References specific for this chapter
 
 - [1.](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Controls) **Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**
 - [2.](https://link.springer.com/article/10.1186/1751-0473-8-7) **[Creative Commons Attribution License](http://creativecommons.org/licenses/by/2.0)** *Other useful stuff in this paper, could use their intro as part of the book's intro*

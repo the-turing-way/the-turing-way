@@ -20,7 +20,6 @@ If you want to start learning hands-on practices, we recommend reading the {ref}
 
 * Whitaker, Kirstie (2018): Barriers to reproducible research (and how to overcome them). figshare. Paper. https://doi.org/10.6084/m9.figshare.7140050.v2
 
-
 (rr-overview-resources-addmaterial)=
 ## Additional material
 

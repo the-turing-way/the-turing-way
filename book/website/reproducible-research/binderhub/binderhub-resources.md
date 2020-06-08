@@ -22,7 +22,7 @@
 | JupyterHub | A multi-user server for Jupyter Notebook instances. |
 | repo2docker | A tool to build Docker images from code repositories. |
 
-## Bibliography
+## References specific for this chapter
 
 - **Kubernetes documentation**: [https://kubernetes.io/](https://kubernetes.io/)
 - **Helm documentation**: [https://helm.sh/](https://helm.sh/)

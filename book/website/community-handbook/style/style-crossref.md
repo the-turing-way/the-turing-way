@@ -43,13 +43,29 @@ For the different sections of the book, we will use the following `sectioninitia
 - Ethical Research: `er`
 - Community Handbook: `ch`
 
-For example, `rr-overview` will be the label name for the `overview` chapter in the section `reproducible research`.
+For example, in the guide `Reproducible Research`, we have a chapter called `Overview`.
+We have created a label for that chapter called `rr-overview` by adding the label on the top of the header by using the following directive
+```
+(rr-overview=)
+# Overview
+```
+Similarly, for different subchapters we recommend extending the label name with another placeholder for subchapter's name.
+For example, `rr-overview-resources` is a label in the guide "Reproducible Research" (rr) for the subchapter "Resources" for the "Overview" chapter (overview-resources).
+This label can be created by using the following directive in the corresponding file:
+```
+(sectioninitials-filename)=
+# Resources
+```
 
-Similarly, for different sections we recommend extending the label name with a third placeholder for `section` which should be replaced with a short yet sensible name for the section where the label is being created:
+In the same manner, for different sections in a subchapters we recommend extending the label name with another placeholder.
+This can be chosen by the authors, which should be a short yet sensible name for the section where the label is being created.
+For example, `rr-overview-resources-addmaterial` is a label in the guide "Reproducible Research" (rr) for the subchapter "Resources" for the "Overview" chapter (overview-resources) for the section for "Additional Materials" (addmaterails).
+This label can be created in the corresponding file for the suggested section name using the following directive:
+
 ```
 (sectioninitials-filename-section)=
+## Additional Material
 ```
-For example, `rr-overview-definitions` will be the label name for the section `Definitions` within the `Overview` chapter in the section `Reproducible Research`.
 
 **After a label is created, please update the information in the central table called [labels.md](../../crossref/labels.md) file located in `book/website/crossref/` directory.**
 
@@ -61,13 +77,8 @@ We will use examples for the chapters in "Reproducible Research" guide located i
 
 ***Case 1***: When you cross-reference a section of the chapter within the same file *before* a label has been created.
 
-In the subchapter "Resources" of the "Overview" chapter, we have created a label `rr-overview-resources-addmaterial` for the section "Additional Material" by using the following directive:
-
-```
-(rr-overview-resources-addmaterial)=
-## Additional Material
-```
-We can cross-reference it in an earlier section within the same file using the following:
+Taking the previous example of `rr-overview-resources-addmaterial`, we can use this label to cross-reference
+it in an earlier section within the same file using the following:
 ```
 {ref}`rr-overview-resources-addmaterial`
 ```
@@ -85,7 +96,7 @@ It will appear in your chapter like this: {ref}`rr-overview-resources-reading`.
 ***Case 3***: When you cross-reference a section of a chapter in a different file (chapter) before or after a label has been created.
 
 In the subchapter "Definitions" of the "Overview" chapter, we have created a label
-`(rr-overview-definitions)` for the section "The Turing Way definition of reproducibility".
+`rr-overview-definitions` for the section "Table of definitions for reproducibility".
 
 We can cross-reference it in a different subchapter or chapter.
 In this case, let's cross-reference it in the landing (main) page of the "Overview" chapter by using the following:
@@ -111,3 +122,12 @@ We can cross-reference it in the section "What to learn next?" in a different su
 It will appear in your chapter like this: {ref}`rr-open`.
 
 Though we are demonstrating this example for cross-referencing chapters and subchapters across the book, the same syntax can be used for cross-referencing subchapters within the same chapter.
+
+### Providing an alternative title for the references
+
+For any of the above mentioned references, you can provide an alternative title while cross referencing by adding the title before the label as shown in this example:
+```
+{ref}`Chapter on Open Research<rr-open>`
+```
+
+here we are giving an alternative title to the 'Open Research chapter', which will appear in your file like this: {ref}`Chapter on Open Research <rr-open>`

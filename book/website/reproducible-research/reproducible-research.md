@@ -9,5 +9,4 @@ In this guide, we start with defining reproducibility in the context of this han
 
 ![A person showing another person what steps to take to make your data research reproducible](../figures/reproducibility.jpg)
 
-
 Since the start of this project in 2019, several crucial chapters were cowritten by over 100 contributors, covering important concepts in reproducible research and how to ensure them in our research.

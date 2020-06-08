@@ -1,3 +1,4 @@
+(ch-coc-details=)
 # 2 Code of Conduct: Details
 
 The Turing Way team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity.
@@ -8,7 +9,6 @@ Everyone who participates in the Turing Way project activities is required to co
 This Code of Conduct applies to all spaces managed by the Turing Way project including, but not limited to, in person focus groups and workshops, and communications online via GitHub.
 By participating, contributors indicate their acceptance of the procedures by which the Turing Way project core development team resolves any Code of Conduct incidents, which may include storage and processing of their personal information.
 
-(ch-coc-details=)
 ## 2.1 Expected Behaviour
 
 We are confident that our community members will together build a supportive and collaborative atmosphere at our events and during online communications.

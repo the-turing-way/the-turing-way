@@ -64,7 +64,8 @@ The source can be found on GitHub [here](https://github.com/alan-turing-institut
 - **Repository:** A long-lived place on the internet where resources (be they data, software, publications or anything else) can be stored and accessed.
 - **Self-archive:** To place your research output in a repository.
 
-## Bibliography
+## References specific for this chapter
+
 - [1.](https://www.fosteropenscience.eu/node/1420) **CC-BY 4.0**
 - [2.](https://open-science-training-handbook.gitbook.io/book/introduction) **CC 1.0**
 - [3.](https://www.fosteropenscience.eu/content/introduction-open-science-funders-introductory) **Attribution + Noncommercial - CC-BY-NC**
