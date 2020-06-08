@@ -15,7 +15,7 @@ To add a label for a section or a chapter/subchapter, use a syntax of the follow
 You can insert cross-references to the labels of sections in your file with the following syntax:
 
 ```
-{ref}`my-label-name`.
+{ref}`my-label-name`
 
 ```
 
@@ -30,7 +30,7 @@ We recommend using the following naming standard for labels, which will allow di
 The following naming convention for the labels for different chapters:
 
 ```
-(sectioninitials-filename=)
+(sectioninitials-filename)=
 ```
  Here, the first placeholder `sectioninitials` should be replaced by the initials for different sections in the book and the second placeholder `filename` should be replaced by the name of file where the label is being created.
 
@@ -45,9 +45,9 @@ For the different sections of the book, we will use the following `sectioninitia
 
 For example, `rr-overview` will be the label name for the `overview` chapter in the section `reproducible research`.
 
-Similarly, for different sections we recommend extending the label name with a third placeholder for `section` which should be replaced with a short yet sensible name for the section where the label is being creates:
+Similarly, for different sections we recommend extending the label name with a third placeholder for `section` which should be replaced with a short yet sensible name for the section where the label is being created:
 ```
-(sectioninitials-filename-section=)
+(sectioninitials-filename-section)=
 ```
 For example, `rr-overview-definitions` will be the label name for the section `Definitions` within the `Overview` chapter in the section `Reproducible Research`.
 
@@ -67,7 +67,7 @@ In the subchapter "Resources" of the "Overview" chapter, we have created a label
 (rr-overview-resources-addmaterial)=
 ## Additional Material
 ```
-We can cross-reference it in an earlier section "Further Reading" within the same file using the following:
+We can cross-reference it in an earlier section within the same file using the following:
 ```
 {ref}`rr-overview-resources-addmaterial`
 ```
@@ -76,7 +76,7 @@ We can cross-reference it in an earlier section "Further Reading" within the sam
 ***Case 2***: When you cross-reference a section of the chapter within the same file *after* a label has been created.
 
 In the same subchapter "Resources", we have created a label `rr-overview-resources-reading` for the section "Further Reading". 
-We can cross-reference it in a later section "Additional Material" within the same file using the following:
+We can cross-reference it in a later section within the same file using the following:
 ```
 {ref}`rr-overview-resources-reading`
 ```
