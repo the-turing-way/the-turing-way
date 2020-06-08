@@ -123,6 +123,10 @@
       file: reproducible-research/binderhub/binderhub-resources
   - title: Code quality
     file: reproducible-research/code-quality
+    - title: Code Style and Formatting
+      file: reproducible-research/code-quality/code-quality-style
+    - title: Checklist and Resources
+      file: reproducible-research/code-quality/code-quality-resources
   - title: Code Testing
     file: reproducible-research/testing
     sections:
@@ -232,7 +236,7 @@
   sections:
   - title: Ethical Decisions in Preclinical Research
     file: ethical-research/preclinical-research
-    
+
 # ===== Community Handbook Guide ========================================
 
 - file: community-handbook/community-handbook

@@ -8,7 +8,7 @@ Data science is defined by its interdisciplinarity.
 Our work can only reach its greatest potential if there are diverse teams of people involved in designing and delivering the research or product.
 
 There are many different skills required to work well in groups with a range of expertise.
-This book will contain guidance on:
+In this guide, we welcome contributions for developing guidance on:
 
 * Distributed collaboration on GitHub
 * Reviewing team member's contributions
@@ -18,7 +18,3 @@ This book will contain guidance on:
 * Defining explicit expectations
 * Participatory co-creation
 * Codes of conduct
-
-We are very keen to welcome your contribution to _The Turing Way's_ resources for collaboration.
-
-If the chapter you're looking for does not yet exist, please get in touch to see if it is in production, or if you can start writing it.

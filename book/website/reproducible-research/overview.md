@@ -2,7 +2,7 @@
 
 Scientific results and evidence are strengthened if they are reproduced
 and confirmed by several independent researchers (see {ref}`definitions <rr-overview-definitions>`).
-With all parts used in an analysis being available and/or documented, valuable time is saved reproducing published results and other researchers can easily build on these research results and re-use data or code for their analyses. 
+With all parts used in an analysis being available and/or documented, valuable time is saved reproducing published results and other researchers can easily build on these research results and re-use data or code for their analyses.
 
 Learn about the less obvious benefits of working reproducibly in the {ref}`added advantages <rr-overview-benefits>` subchapter.
 
@@ -17,8 +17,3 @@ For further reading resources on reproducibility, please checkout the {ref}`reso
 
 ## Prerequisites / recommended skill level
 No previous knowledge needed.
-
-## References
-
-```{bibliography} ../../_bibliography/references.bib
-```
