@@ -1,4 +1,4 @@
-(ch-coc-details=)
+(ch-coc-details)=
 # 2 Code of Conduct: Details
 
 The Turing Way team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity.

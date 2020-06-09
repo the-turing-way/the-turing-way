@@ -1,4 +1,4 @@
-(ch-coc-enforcement=)
+(ch-coc-enforcement)=
 ## 4 Enforcement Manual
 
 This is the enforcement manual followed by the Turing Way project research team.

@@ -10,11 +10,11 @@ We are particularly motivated to support new and/or anxious collaborators, peopl
 
 To make clear what is expected, we ask all members of the community to conform to the following Code of Conduct.
 
-The Code of Conduct document has been written in 4 parts: {ref}`Overview <ch-coc-overview>`, {ref}`Details <ch-coc-details>`. {ref}`Reporting <ch-coc-reporting>` and {ref}`Enforcement <ch-coc-enforcement>`.
+The Code of Conduct document has been written in 4 parts: {ref}`Overview <ch-coc-overview>`, {ref}`Details <ch-coc-details>`, {ref}`Reporting <ch-coc-reporting>` and {ref}`Enforcement <ch-coc-enforcement>`.
 
 The last part acknowledges all sources that this Code of Conduct has been built upon.
 
-(ch-coc-overview=)
+(ch-coc-overview)=
 ## 1 Code of Conduct: Overview
 
 The Turing Way is a community-oriented and -led project.
