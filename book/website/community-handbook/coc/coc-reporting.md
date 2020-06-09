@@ -1,6 +1,6 @@
 # 3 Incident Reporting Guidelines
 
-(ch-coc-reporting=)
+(ch-coc-reporting)=
 ### 3.1 Contact points
 
 If you feel able to, please contact Kirstie Whitaker by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
