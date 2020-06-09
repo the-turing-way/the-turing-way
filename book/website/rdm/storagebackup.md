@@ -54,7 +54,7 @@ You can explain the file naming convention in a README.txt file, so that it will
 
 ## Backups
 
-To avoid loosing your data, you should follow good backup practices.
+To avoid losing your data, you should follow good backup practices.
 
 - You should have 2 or 3 copies of your files, stored on
 - at least 2 different storage media,
