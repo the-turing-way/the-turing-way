@@ -59,7 +59,7 @@ The citation will look something like:
 Please visit the [DOI link](https://doi.org/10.5281/zenodo.3233853) though to get the most recent version - the one above is not automatically generated and therefore may be out of date.
 DOIs allow us to archive the repository and they are really valuable to ensure that the work is tracked in academic publications.
 
-You can also share the human-readable URL to a page in the book, for example: [https://the-turing-way.netlify.app/reproducible-research/overview/overview-definitions.html](/reproducible-research/overview/definitions), but be aware that the project is under development and therefore these links may change over time.
+You can also share the human-readable URL to a page in the book, for example: [https://the-turing-way.netlify.app/reproducible-research/overview/overview-definitions.html](./reproducible-research/overview/definitions), but be aware that the project is under development and therefore these links may change over time.
 You might want to include a [web archive link](http://web.archive.org) such as: [https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html](https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html) to make sure that you don't end up with broken links everywhere!
 
 We really appreciate any references that you make to _The Turing Way_ project in your work and we hope it is useful.

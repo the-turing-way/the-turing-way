@@ -20,3 +20,5 @@ In this guide, we welcome contributions for developing guidance on following (bu
 * Chairing a meeting
 * Defining explicit expectations
 * Participatory co-creation
+
+Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) to get involved.

@@ -15,3 +15,4 @@ In this guide, we start with defining reproducibility in the context of this han
 
 Since the start of this project in 2019, several crucial chapters have been written, edited, reviewed, read and promoted by over 100 contributors.
 We welcome you contributions on topics covering important concepts in reproducibility and how to ensure them in our research.
+Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) to get involved.
