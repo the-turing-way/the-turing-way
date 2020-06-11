@@ -8,8 +8,9 @@
 title                       : The Turing Way  # The title of the book. Will be placed in the left navbar.
 author                      : The Turing Way Community  # The author of the book
 copyright                   : "2020"  # Copyright year to be placed in the footer
-logo                        : ""  # A path to the book logo
-exclude_patterns            : []  # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
+logo                        : "./figures/logo/logo.png"  # A path to the book logo
+email                       : "theturingway@gmail.com"
+exclude_patterns            : ["LICENSE.md"]  # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 
 #######################################################################################
 # Execution settings
@@ -21,13 +22,17 @@ execute:
 #######################################################################################
 # HTML-specific settings
 html:
-  favicon                   : ""  # A path to a favicon image
-  navbar_number_sections    : True  # Add a number to each section in your left navbar
-  navbar_footer_text        : 'Powered by <a href="https://jupyterbook.org">Jupyter Book</a>'  # Will be displayed underneath the left navbar.
-  google_analytics_id       : ""  # A GA id that can be used to track book views.
+  favicon                   : "./figures/logo/favicon-32x32.png"  # A path to a favicon image
+  navbar_number_sections    : False  # Add a number to each section in your left navbar
+  google_analytics_id       : "UA-167881009-1"  # A GA id that can be used to track book views.
   home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
-  use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
+  use_edit_page_button      : true  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   baseurl                   : "https://the-turing-way.netlify.com"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  navbar_footer_text        :
+    'Visit our <a href="https://github.com/alan-turing-institute/the-turing-way">GitHub Repository</a>
+    <div>
+    This book is powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+    </div>'  # Will be displayed underneath the left navbar.
 
 #######################################################################################
 # Launch button settings
@@ -38,12 +43,14 @@ launch_buttons:
   thebelab                  : false  # Add a thebelab button to pages (requires the repository to run on Binder)
 
 repository:
-  url                       : https://github.com/executablebooks/jupyter-book  # The URL to your book's repository
-  path_to_book              : ""  # A path to your book's folder, relative to the repository root.
+  url                       : https://github.com/alan-turing-institute/the-turing-way  # The URL to your book's repository
+  path_to_book              : "book/website"  # A path to your book's folder, relative to the repository root.
   branch                    : master  # Which branch of the repository should be used when creating links
 
 #######################################################################################
 # Advanced and power-user settings
 sphinx:
-  extra_extensions          : ""  # A list of extra extensions to load by Sphinx.
+  extra_extensions          :  # A list of extra extensions to load by Sphinx.
   config                    : ""  # key-value pairs to directly over-ride the Sphinx configuration
+
+#######################################################################################
