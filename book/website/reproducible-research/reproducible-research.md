@@ -1,4 +1,4 @@
-# Guide to Reproducible Research
+# Guide for Reproducible Research
 
 ***This guide covers topics related to skills, tools and best practices for research reproducibility.***
 
