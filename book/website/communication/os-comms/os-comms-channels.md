@@ -38,7 +38,7 @@ Here are the questions we are asking when thinking about each feature.
 | :--- | :---: | :---: | :---: |
 | Media sharing | ✅ | ✅ | ✅ (cumbersome) |
 | Archiveable | ✅ | ✅ | |
-| Persistant | ✅ | ✅ | |
+| Persistent | ✅ | ✅ | |
 | Noisy | ✅ | | ✅ |
 | Open | | ✅ | ✅ |
 | Consistent UX | | ✅ | ✅ |

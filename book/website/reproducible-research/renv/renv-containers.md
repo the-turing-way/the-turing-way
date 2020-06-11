@@ -189,7 +189,7 @@ COPY project_files/ project/
 This looks complicated, but most of the lines in this example are comments (which are preceded by `#`s), There are only
 six lines of actual code. The first of these is a `FROM` statement specifying a base image. All Dockerfiles require a
 FROM, even if it's just `FROM SCRATCH`. All the following commands in a Dockerfile build upon the base image to make a
-functioning version of the researcher's project. Specifing a version for the image (`18.04` in this case) is optional
+functioning version of the researcher's project. Specifying a version for the image (`18.04` in this case) is optional
 but is best practice as it ensures that our Dockerfile remains valid after new releases of Ubuntu, which may not
 include packages (or specific versions thereof) that we require later (for example `python3.7`).
 
@@ -427,7 +427,7 @@ execution of an analysis should require root access for the user. This is especi
 conducted on shared resource like HPC systems where users will never have root access.
 
 The [singularity](https://www.sylabs.io/) container software was introduced to address exactly this issue. Singularity
-was created with HPC sytems and reproducible research in mind (see [this](https://www.youtube.com/watch?v=DA87Ba2dpNM)
+was created with HPC systems and reproducible research in mind (see [this](https://www.youtube.com/watch?v=DA87Ba2dpNM)
 video). It does not require root access to run (only to build container _images_!) and thus enables HPC users to locally
 build container images before running analyses, for example, on a high-performance cluster. As an added benefit, this makes it
 possible to use almost any software on an HPC system without having to bother admin staff with installing it. In

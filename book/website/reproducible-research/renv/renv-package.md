@@ -43,7 +43,7 @@ If these project environments were not separate then the researcher would have t
 - C) Installing the updated version of the package for use in Project Two then uninstalling it and reinstalling the old one whenever they need to do work on Project One.
 This would be extremely annoying, and is a step that risks being forgotten.
 
-All of these options are extremely poor, hence the utility of Conda for creating distinct environments which are easily interchangable.
+All of these options are extremely poor, hence the utility of Conda for creating distinct environments which are easily interchangeable.
 
 Conda can also be used to easily capture and export computational environments. It can go in the other direction too; it can generate computational environments from configuration files which can be used to recreate someone else's environment.
 
@@ -168,12 +168,13 @@ For example `pip` is commonly used to install Python packages, so a command like
 pip install scipy
 ```
 
-will list 'scipy' package explicitely - as long as `pip` is installed inside the currently active conda environment.
-Unfortunately, when conda and pip are used together to create an environment, it can lead to a state that can be hard to reproduce. Specifically, running conda after pip may potentially overwrite or break packages installed via pip.
+will list 'scipy' package explicitly - as long as `pip` is installed inside the currently active conda environment.
+Unfortunately, when conda and pip are used together to create an environment, it can lead to a state that can be hard to reproduce.
+Specifically, running conda after pip may potentially overwrite or break packages installed via pip.
 One way to avoid this is by installing as many requirements as possible with conda, and then use pip.
 Detailed information can be read on the post [Using Pip in a Conda Environment](https://www.anaconda.com/using-pip-in-a-conda-environment/).
 
-Although Python packages have been used in many of the examples given here Conda packages do not have to be Python packages, for example here the R base language is installed along with the R package r-yaml
+Although Python packages have been used in many of the examples given here Conda packages do not have to be Python packages, for example here the R base language is installed along with the R package `r-yaml`:
 
 ```
 conda create --name Project_One r-base r-yaml
