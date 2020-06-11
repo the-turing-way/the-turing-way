@@ -7,7 +7,7 @@ Researchers or any kind of stakeholders in data science have an obligation to co
 
 | ![An illustration of a wooden judge hammer labeled with law is hitting a plank labeled with ethics with a quotation "consider necessary restriction around sharing different types of data"](../figures/ethics.jpg) |
 | ---------------|
-| _The Turing Way_ project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3695300 |
+| _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807) |
 
 In this guide, we invite discussions and guidance on the different aspects of ethics that a data scientist must consider to ensure a high level of research integrity in their work.
 Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) to get involved.
