@@ -2,18 +2,19 @@
 
 To ensure that the book can be read easily by everyone, including screen readers and non-native english speakers, we have compiled a set of guideline to keep a consistent style across all chapters of the book.
 
-You follow the [Gov.uk guidance](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) to improve accessibility of the resources in _The Turing Way_.
+We follow the [Gov.uk guidance](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) to improve accessibility of the resources in _The Turing Way_.
 
 ### Write each sentences in a new line (line breaks)
 
-When writing all sentences should go on a new line.
-This will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph. Consider the example below.
+Please write all sentence in the markdown file on separate lines.
+Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph.
+Consider the example below.
 
  ```
 Today you are you, that is truer than true. There is no one alive who is youer than you. - Dr Seuss
 ```
 
- A pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph.
+A pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph.
 Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.
 
  ```
@@ -24,7 +25,7 @@ There is no one alive who is youer than you.
 
 ### Opinions are welcome, but ...
 
-The Turing Way book is intended to be only lightly opinionated.
+_The Turing Way_ book is intended to be only *lightly* opinionated.
 Whilst more opinionated content is allowed, such content should be clearly marked.
 The best way to do this is by displaying it in a quote box.
 This can be done by either prefixing every line with the greater than symbol `>`.

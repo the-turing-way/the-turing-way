@@ -9,4 +9,4 @@ The community collaboration and development aspects of the book has been written
 
 | ![Two folks happily looking in a drawer of documents and looking at different files.](../figures/file-collection.jpg) |
 | ------------------------------------------------------------------------------------ |
-| _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300 |
+| _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807) |
