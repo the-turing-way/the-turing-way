@@ -94,22 +94,14 @@
   - title: Reproducible Environments
     file: reproducible-research/renv
     sections:
-    - title: Choosing a tool
-      file: reproducible-research/renv/renv-options
-    - title: Conda
-      file: reproducible-research/renv/renv-package
-    - title: YAML
-      file: reproducible-research/renv/renv-yaml
-    - title: Binder
-      file: reproducible-research/renv/renv-binder
-    - title: Virtual machines
-      file: reproducible-research/renv/renv-vm
-    - title: Containers
-      file: reproducible-research/renv/renv-containers
-    - title: Resources for Reproducible Environments
-      file: reproducible-research/renv/renv-resources
-    - title: Checklist for Reproducible Environments
-      file: reproducible-research/renv/renv-checklist
+    - file: reproducible-research/renv/renv-options
+    - file: reproducible-research/renv/renv-package
+    - file: reproducible-research/renv/renv-yaml
+    - file: reproducible-research/renv/renv-binder
+    - file: reproducible-research/renv/renv-vm
+    - file: reproducible-research/renv/renv-containers
+    - file: reproducible-research/renv/renv-checklist
+    - file: reproducible-research/renv/renv-resources
   - title: BinderHub
     file: reproducible-research/binderhub
     sections:
