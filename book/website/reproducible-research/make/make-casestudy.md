@@ -57,8 +57,10 @@ of several sections:
    ```
 
    The ``%`` symbol is used to create outputs for both sources of CSV files
-   with a single rule (see [Pattern Rules](#pattern_rules)) and the rule uses
-   [automatic variables](#automatic_var) to extract the input and output
+   with a single rule (see [Pattern 
+   Rules](./make-examples.html#make_pattern_rules)) and the rule uses
+   [automatic variables](./make-examples.html#make_automatic_var) to extract 
+   the input and output
    filenames.
 
 4. Some of the cleaning rules will remove output files that take a while to

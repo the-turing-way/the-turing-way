@@ -14,7 +14,7 @@
 
 One of the things that might discourahe off from using Make is that existing
 Makefiles can seem daunting and it may seem difficult to tailor to your own
-needs.  
+needs. 
 In this hands-on tutorial we will iteratively construct a Makefile for
 a real data analysis project.
 The idea is to explain different features of
@@ -268,7 +268,7 @@ Variables](https://www.gnu.org/software/make/manual/html_node/Automatic-Variable
 and [Pattern
 Rules](https://www.gnu.org/software/make/manual/html_node/Pattern-Rules.html#Pattern-Rules).
 
-<a name="automatic_var">
+<a class="anchor-link" name="make_automatic_var"></a>
 
 **Automatic Variables.** With automatic variables we can use the names of the
 prerequisites and targets in the recipe. Here's how we would do that for the
@@ -305,7 +305,7 @@ the beginning (*first* prerequisite), and you can remember ``$@`` (dollar
 There are more automatic variables that you could use, see [the
 documentation](https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html).
 
-<a name="pattern_rules">
+<a class="anchor-link" name="make_pattern_rules"></a>
 
 **Pattern Rules.** Notice that the recipes for the figures have become
 identical!  Because we don't like to repeat ourselves, we can combine the two
