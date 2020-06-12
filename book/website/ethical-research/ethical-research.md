@@ -9,5 +9,6 @@ Researchers or any kind of stakeholders in data science have an obligation to co
 | ---------------|
 | _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807) |
 
-In this guide, we invite discussions and guidance on the different aspects of ethics that a data scientist must consider to ensure a high level of research integrity in their work.
+In this guide, we invite discussions and guidance on ethical considerations that a data scientist should keep in mind to ensure not only that their work maintains a high level of moral integrity, but also that their work is carried out at the highest scientific standards.
+
 Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) to get involved.
