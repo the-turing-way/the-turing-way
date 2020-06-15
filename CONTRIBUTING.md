@@ -8,8 +8,8 @@
 
 We hope that this guideline document will make it as easy as possible for you to get involved.
 
-We welcome all contributions to this project via GitHub issues and pull requests. 
-Please follow these guidelines to make sure your contributions can be easily integrated in the projects. 
+We welcome all contributions to this project via GitHub issues and pull requests.
+Please follow these guidelines to make sure your contributions can be easily integrated in the projects.
 As you start contributing to the Turing Way, don't forget that your ideas are more important than perfect pull requests. :heart:
 
 If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
@@ -95,18 +95,18 @@ Most of the writing that you'll do will be in [Markdown][markdown].
 You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting.
 For example you could write words as **bold** (`**bold**`), or in _italics_ (`_italics_`), or as a [link][rick-roll] (`[link](https://https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
 
-Also when writing in Markdown, please start each new sentence on a new line.	
+Also when writing in Markdown, please start each new sentence on a new line.
 While this formats in the same way as if the new line wasn't included, it makes the [diffs produced during the pull request](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests) review easier to read! :sparkles:
 
 
 ## Where to start: issues
 
 Before you open a new issue, please check if any of our [open issues](https://github.com/alan-turing-institute/the-turing-way/issues) covers your idea already.
-If you open a new issue, please follow our basic guidelines laid out in our [issue templates](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose). 
-There are 3 issues templates to choose from.: 
+If you open a new issue, please follow our basic guidelines laid out in our [issue templates](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose).
+There are 3 issues templates to choose from.:
 1. New Chapter Template ([preview here](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&template=CHAPTER_ISSUE_TEMPLATE.md)):  This issue is a place to discuss matters relating to the writing a new chapter on a new topic or adding a subchapter in an already existing chapter.
-2. General ([preview here](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&template=ISSUE_TEMPLATE.md)):  Use this template for a general issue related to the book, community, process or ideas. 
-3. Bug Report ([preview here](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)): With this template, create an issue report that can help others repair something that is currently broken. 
+2. General ([preview here](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&template=ISSUE_TEMPLATE.md)):  Use this template for a general issue related to the book, community, process or ideas.
+3. Bug Report ([preview here](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)): With this template, create an issue report that can help others repair something that is currently broken.
 This can be used for reporting errors like typos and broken links.
 The issue template will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the "_Lorem ipsum_" sections.
 
@@ -436,26 +436,31 @@ Each time you attempt to commit a change with git, pre-commit will run the prett
 
 ### Referencing and Citing
 
-We maintain a centralised [bibtex](http://www.bibtex.org/) file containing all references. The file is located at
-
-```
-./book/website/_bibliography/references.bib
-```
+We maintain a centralised [bibtex](http://www.bibtex.org/) file containing all references.
+The file is located within this repository in the file `./book/website/_bibliography/references.bib`.
 
 #### Adding a new reference
+
+To include a citation in your content, follow the guide for [JupyterBook](https://jupyterbook.org/content/citations.html).
+
+The key concepts are:
+
+- Include a reference using {cite}`CITEKEY`, where `CITEKEY` is the corresponding citation key in `references.bib`
+- You can also include multiple citations in one go by separating the CITEKEYs by a comma: {cite}`CITEKEY1,CITEKEY2,CITEKEY3`
+- Add a bibliography entry at the end of your file use the following directive under a reference header:
+
+```{bibliography} ../_bibliography/references.bib
+```
+
+This will generate a bibliography for all the files you have referenced in your file.
+Please note that you will need to edit the relative path (`../_bibliography/references.bib`) of the `references.bib` based on the location of file you edit.
+
+#### Adding a new reference in `references.bib`
 
 You can edit references locally using a method from the following:
 
 - Edit `references.bib` directly using a text editor
 - Edit `references.bib` directly using a managing program such as [JabRef](http://www.jabref.org/) (linux, windows, macOS) or [BibDesk](https://bibdesk.sourceforge.io/) (macOS)
-
-To include a citation in your content, follow the guide for [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar). The key concepts are:
-
-- Include a reference using `{% cite CITEKEY %}`, where `CITEKEY` is the corresponding citation key in `references.bib`
-- Add a bibliography entry to your section using
-  ```
-  {% bibliography --cited %}
-  ```
 
 For example, say we have an entry in the `references.bib` file as:
 
@@ -473,37 +478,54 @@ For example, say we have an entry in the `references.bib` file as:
 	Year = {2010}}
 ```
 
-We could cite this article in the book using `{% cite Kuula2010archiving %}`.
+We could cite this article in the book using {cite}`Kuula2010archiving`.
 
-#### Citation key style guide
+#### Citation key style-guide
 
 We recommend using the following structure for citation keys:
 
 ```
 AuthorYYYYword
 ```
-
-where
-
+Where:
 1. `Author` is the surname of the first author (`Kuula` above)
 2. `YYYY` is the year (`2010` above)
 3. `word` is the first meaningful word in the title (`archiving` above). Note, this is subjective – choose a name that makes it easy to remember the reference when you see the citation key.
 
-### Adding links between pages within the book
+### Cross-referencing chapters
 
-Links between different pages within the book (e.g. [Open Research](https://the-turing-way.netlify.com/open_research/open_research.html) and [Version Control](https://the-turing-way.netlify.com/version_control/version_control.html)) should be added as relative links.
-Relative links are added by inserting the file path in brackets, ( ), where you would usually add a URL as demonstrated below:
+When editing the files (in Markdown format), you can create hyperlinked text by writing texts inside square brackets '[]' followed by inserting the file path (URL) inside the round brackets, '()'.
+For example, `[The Turing Way Book](https://the-turing-way.netlify.com)` will appear as [The Turing Way Book](https://the-turing-way.netlify.com).
+
+To link between different pages within the book, you can use relative paths of the files.
+For example, to cross-reference the "Open Research" chapter in the "Version Control" Chapter (both are in the 'Reproducibile Research' section of the book), instead of writing `[Open Research](https://the-turing-way.netlify.com/reproducible-research/open-research/open-research.html)` you will add the relative link as `[Open Research](../open-research/open-research)`.
+
+Similarly, you can cross reference one chapter from one section to another chapter in another section.
+
+For example, cross referencing the subchapter 'reproducible-research/version-control/vcs-github' (in the 'Reproducible Research' section) chapter in the 'collaboration/github-collaboration/github-collaboration' (in the 'Collaboration' section), we can use the following directive:
 
 ```
-> [Experience with version control](/version_control/version_control)
-> The [next section](../03/definitions.html) of this chapter
+> Learn more about [Git commands for GitHub](../../reproducible-research/version-control/vcs-github)
 ```
 
-The path you add _starts_ from the [`content`](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/content) folder in this github repository.
-Note the difference between starting your path with `/`, which means it will start from the `content` folder vs starting from the location of the file you're writing in.
+The path you add _starts_ from the [`website`](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/website) folder in this GitHub repository.
+Note the difference between starting your path with `/`, which means it will start from the `website` folder vs starting from the location of the file you're writing in.
 
-A nice easy way to find absolute path can be found by looking at the page you would like to link to (for example, https://the-turing-way.netlify.com/testing/testing.html) and then taking everything after https://the-turing-way.netlify.com.
+A nice easy way to find absolute path can be found by looking at the page you would like to link to (for example, https://the-turing-way.netlify.com/welcome.html) and then taking everything after https://the-turing-way.netlify.com.
 Please note that you do not need to include the file extension, for example .html, in your relative path.
+
+#### Using labels for cross referencing sections of a chapter
+
+We recommend using the cross-referencing style as described in the [JupyterBook](https://jupyterbook.org/content/citations.html) for cross referencing sections of different chapters.
+Labels are a way to add tags to parts of your content that you can reference later on.
+This is helpful if you want to quickly insert links to other parts of your book.
+
+To add a label, use the following pattern before the element you wish to label:
+```
+(my-label-name)=
+# The thing that I want to label
+```
+You can insert cross-references to labels in your file with the following syntax: {ref}`my-label-name`.
 
 ## Recognising Contributions
 

@@ -6,7 +6,7 @@ labels: 'bug'
 assignees: ''
 
 ---
-<!-- Thank you for contributing. These HTML commments will not render in the issue, but you can delete them once you've read them if you prefer! -->
+<!-- Thank you for contributing. These HTML comments will not render in the issue, but you can delete them once you've read them if you prefer! -->
 
 ### Bug description
 <!-- Use this section to clearly and concisely describe the bug. 
