@@ -1,5 +1,5 @@
 # Give your test a name!
-name: NoBadLatin
+name: Check for Latin Phrases
 
 # Decide when to run the tests
 #
@@ -15,7 +15,7 @@ on:
 
 # Set up the Continuous Integration job
 jobs:
-  nobadlatin:
+  latin-phrases:
     # Run on the latest Ubuntu distribution
     runs-on: ubuntu-latest
     # This section collects together the steps involved in running the test
@@ -27,8 +27,21 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.7
-    # Run a Python script
-    - name: Run Python script to check for bad latin phrases
+    # Install Python dependencies
+    - name: Install dependencies
       working-directory: ./tests
       run: |
+        python -m pip install --upgrade pip
+        python -m pip install -r requirements.txt
+    # Run a Python script
+    - name: Run Python script to check for latin phrases - Master
+      working-directory: ./tests
+      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+      run: |
         python no-bad-latin.py
+
+    - name: Run Python script to check for latin phrases - Pull Request
+      working-directory: ./tests
+      if: github.event.pull_request
+      run: |
+        python no-bad-latin.py --pull-request ${{ github.event.pull_request.number }}
