@@ -2,13 +2,13 @@
 
 ## Table of contents
 
-- [Setting up](#setting-up)
-- [Makefile no. 1 (The Basics)](#makefile-no-1-the-basics)
-- [Makefile no. 2 (all and clean)](#makefile-no-2-all-and-clean)
-- [Makefile no. 3 (Phony Targets)](#makefile-no-3-phony-targets)
-- [Makefile no. 4 (Automatic Variables and Pattern Rules)](#makefile-no-4-automatic-variables-and-pattern-rules)
-- [Makefile no. 5 (Wildcards and Path Substitution)](#makefile-no-5-wildcards-and-path-substitution)
-- [Debugging Makefiles](#debugging-makefiles)
+- [Makefiles](#makefiles)
+  - [Setting up](#setting-up)
+  - [Makefile no. 1 (The Basics)](#makefile-no-1-the-basics)
+  - [Makefile no. 2 (all and clean)](#makefile-no-2-all-and-clean)
+  - [Makefile no. 3 (Phony Targets)](#makefile-no-3-phony-targets)
+  - [Makefile no. 4 (Automatic Variables and Pattern Rules)](#makefile-no-4-automatic-variables-and-pattern-rules)
+  - [Makefile no. 5 (Wildcards and Path Substitution)](#makefile-no-5-wildcards-and-path-substitution)
 
 ## Makefiles
 
@@ -78,8 +78,8 @@ $ pip install matplotlib numpy
 ```
 
 You will also need a working version of ``pdflatex`` and, of course, ``make``.
-For installation instructions for Make, see [the installation instructions
-below](#installing-make).
+For installation instructions for Make, see 
+{ref}`rr-make-resources-installing`.
 
 ### Makefile no. 1 (The Basics)
 
@@ -157,8 +157,8 @@ This is what the dependency tree looks like for this Makefile:
 ![DAG for Makefile no. 1](../../figures/makefile_no_1.png)
 <small style="margin: 5pt auto; text-align: center; display: block;">The
 dependency graph for our first Makefile, created using
-[makefile2graph](#tools). Notice the similarity to the figure at the
-top!</small>
+[makefile2graph](https://github.com/lindenb/makefile2graph). Notice the 
+similarity to the figure {ref}`in the introduction<rr-make-summary>`!</small>
 
 
 ### Makefile no. 2 (all and clean)
@@ -267,8 +267,6 @@ simplify this by using [Automatic
 Variables](https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html)
 and [Pattern
 Rules](https://www.gnu.org/software/make/manual/html_node/Pattern-Rules.html#Pattern-Rules).
-
-<a class="anchor-link" name="make_automatic_var"></a>
 
 (rr-make-examples-automaticvar)=
 #### Automatic Variables.
