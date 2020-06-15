@@ -1,11 +1,25 @@
-#!/usr/bin/env python3
 import os
 import re
-import sys
+import argparse
+from pull_files import filter_files
+
+HERE = os.getcwd()
+ABSOLUTE_HERE = os.path.dirname(HERE)
 
 
-script_dir = os.path.dirname(__file__)
-directory_to_check = os.path.join(script_dir, "../book/content/")
+def parse_args():
+    """Construct command line interface for parsing Pull Request number"""
+    DESCRIPTION = "Script to check for latin phrases in Markdown files"
+    parser = argparse.ArgumentParser(description=DESCRIPTION)
+
+    parser.add_argument(
+        "--pull-request",
+        type=str,
+        default=None,
+        help="If the script is being run on a Pull Request, parse the PR number",
+    )
+
+    return parser.parse_args()
 
 
 def remove_comments(text_string):
@@ -36,24 +50,25 @@ def get_lines(text_string, sub_string):
     return lines
 
 
-def get_files(directory):
-    """Get a list of files to be checked. Ignores image files.
+def construct_error_message(files_dict):
+    """Function to construct an error message pointing out where bad latin
+	phrases appear in lines of text
 
 	Arguments:
-		directory {string} -- The directory containing the files to check
+		files_dict {dictionary} -- Dictionary of failing files containing the
+		                           bad latin phrases and offending lines
 
 	Returns:
-		{list} -- List of files to check
+		{string} -- The error message to be raised
 	"""
-    files = []
-    filetypes_to_ignore = (".png", ".jpg")
+    error_message = ["Bad latin found in the following files:\n"]
 
-    for rootdir, _, filenames in os.walk(directory):
-        for filename in filenames:
-            if not filename.endswith(filetypes_to_ignore):
-                files.append(os.path.join(rootdir, filename))
+    for file in files_dict.keys():
+        error_message.append(
+            f"{file}:\t{files_dict[file]['latin_type']}\tfound in line\t[{files_dict[file]['line']}]\n"
+        )
 
-    return files
+    return "\n".join(error_message)
 
 
 def read_and_check_files(files):
@@ -89,29 +104,35 @@ def read_and_check_files(files):
     return failing_files
 
 
-def construct_error_message(files_dict):
-    """Function to construct an error message pointing out where bad latin
-	phrases appear in lines of text
+def get_all_files(directory=os.path.join(ABSOLUTE_HERE,"book", "website")):
+    """Get a list of files to be checked. Ignores image files.
 
-	Arguments:
-		files_dict {dictionary} -- Dictionary of failing files containing the
-		                           bad latin phrases and offending lines
+	Keyword Arguments:
+		directory {string} -- The directory containing the files to check
 
 	Returns:
-		{string} -- The error message to be raised
+		{list} -- List of files to check
 	"""
-    error_message = ["Bad latin found in the following files:\n"]
+    files = []
+    filetypes_to_ignore = (".png", ".jpg")
 
-    for file in files_dict.keys():
-        error_message.append(
-            f"{file}:\t{files_dict[file]['latin_type']}\tfound in line\t[{files_dict[file]['line']}]\n"
-        )
+    for rootdir, _, filenames in os.walk(directory):
+        for filename in filenames:
+            if not filename.endswith(filetypes_to_ignore):
+                files.append(os.path.join(rootdir, filename))
 
-    return "\n".join(error_message)
+    return files
 
 
 def main():
-    files = get_files(directory_to_check)
+    """Main function"""
+    args = parse_args()
+
+    if args.pull_request is not None:
+        files = filter_files(args.pull_request)
+    else:
+        files = get_all_files()
+
     failing_files = read_and_check_files(files)
 
     if bool(failing_files):

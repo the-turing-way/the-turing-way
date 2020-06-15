@@ -12,9 +12,9 @@
 | Test | Status |
 | :--- | :--- |
 | Netlify build | ![CI](https://github.com/alan-turing-institute/the-turing-way/workflows/CI/badge.svg) |
-| No Latin Phrases | ![NoBadLatin](https://github.com/alan-turing-institute/the-turing-way/workflows/NoBadLatin/badge.svg) |
+| No Latin Phrases | ![Check for Latin Phrases](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg) |
 | No Large Files | ![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg) |
-| No "_Lorem Ipsum_"s | ![LoremIpsums](https://github.com/alan-turing-institute/the-turing-way/workflows/LoremIpsums/badge.svg) |
+| No "_Lorem Ipsum_"s | ![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg) |
 
 _The Turing Way_ is a lightly opinionated guide to reproducible data science.
 You can read it here: <https://the-turing-way.netlify.com>
