@@ -308,9 +308,10 @@ the beginning (*first* prerequisite), and you can remember ``$@`` (dollar
 There are more automatic variables that you could use, see [the
 documentation](https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html).
 
-<a class="anchor-link" name="make_pattern_rules"></a>
+(rr-make-examples-patternrules)=
+#### Pattern Rules 
 
-**Pattern Rules.** Notice that the recipes for the figures have become
+Notice that the recipes for the figures have become
 identical!  Because we don't like to repeat ourselves, we can combine the two
 rules into a single rule by using *pattern rules*. Pattern rules allow you to
 use the ``%`` symbol as a wildcard and combine the two rules into one:
