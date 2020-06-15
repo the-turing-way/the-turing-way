@@ -52,7 +52,7 @@ This project is openly developed and any and all questions, comments and recomme
 This is (part of) the project team planning work at the Turing Institute.
 For more on how to contact us, see the [ways of working document](ways_of_working.md).
 
-![Team photo](book/content/figures/TuringWayTeam.jpg)
+![Team photo](book/website/figures/TuringWayTeam.jpg)
 
 ### Contributing
 
@@ -79,8 +79,8 @@ If you have any questions please [get in touch](#get-in-touch).
 
 ### Citing _The Turing Way_ illustrations
 
-_The Turing Way_ illustrations are created by artists from [Scriberia](https://www.scriberia.co.uk/) as part of [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) in Manchester on 17 May 2019, and London on 28 May 2019 and 21 February 2020. 
-They depict a variety of content from the handbook, collaborative efforts in the community and _The Turing Way_ project in general. 
+_The Turing Way_ illustrations are created by artists from [Scriberia](https://www.scriberia.co.uk/) as part of [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) in Manchester on 17 May 2019, and London on 28 May 2019 and 21 February 2020.
+They depict a variety of content from the handbook, collaborative efforts in the community and _The Turing Way_ project in general.
 These illustrations are available on Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) under a CC-BY license.
 
 When using any of the images, please include the following attribution:
