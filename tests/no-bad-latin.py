@@ -92,6 +92,21 @@ def read_and_check_files(files):
     bad_latin = ["i.e.", "e.g.", "e.t.c.", " etc", " ie", "et cetera"]
 
     for filename in files:
+        with open(
+            os.path.join(ABSOLUTE_HERE, filename), encoding="utf8", errors="ignore"
+        ) as f:
+            text = f.read()
+        text = remove_comments(text)
+
+        for latin_type in bad_latin:
+            if latin_type in text.lower():
+                lines = get_lines(text.lower(), latin_type)
+                for line in lines:
+                    failing_files[os.path.abspath(filename)] = {
+                        "latin_type": latin_type,
+                        "line": line,
+                    }
+                    
         if filename in IGNORE_LIST:
             pass
         else:
@@ -111,7 +126,7 @@ def read_and_check_files(files):
     return failing_files
 
 
-def get_all_files(directory=os.path.join(ABSOLUTE_HERE,"book", "website")):
+def get_all_files(directory=os.path.join(ABSOLUTE_HERE, "book", "website")):
     """Get a list of files to be checked. Ignores image files.
 
 	Keyword Arguments:

@@ -153,9 +153,9 @@
       file: reproducible-research/ci/ci-travis
     - title: Best practices and recommendations
       file: reproducible-research/ci/ci-practices
-    - title: Motivation for code review
+    - title: Checklist
       file: reproducible-research/ci/ci-checklist
-    - title: Motivation for code review
+    - title: Resources
       file: reproducible-research/ci/ci-resources
   - title: Reproducible Research with Make
     file: reproducible-research/make
