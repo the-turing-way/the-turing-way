@@ -270,7 +270,10 @@ Rules](https://www.gnu.org/software/make/manual/html_node/Pattern-Rules.html#Pat
 
 <a class="anchor-link" name="make_automatic_var"></a>
 
-**Automatic Variables.** With automatic variables we can use the names of the
+(rr-make-examples-automaticvar)=
+#### Automatic Variables.
+
+With automatic variables we can use the names of the
 prerequisites and targets in the recipe. Here's how we would do that for the
 figure rules:
 
