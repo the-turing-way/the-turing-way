@@ -12,15 +12,13 @@
 
 ## Makefiles
 
-One of the things that might discourahe off from using Make is that existing
-Makefiles can seem daunting and it may seem difficult to tailor to your own
-needs. 
-In this hands-on tutorial we will iteratively construct a Makefile for
-a real data analysis project.
-The idea is to explain different features of
-Make by iterating through several versions of a Makefile for this project.
-Hopefully the experience that you gain from this tutorial allows you to create
-Makefiles for your own projects.
+One of the things that might discourage someone from using Make is that 
+existing Makefiles can look quite complex, and it might seem difficult to 
+tailor one to your own needs. In this hands-on tutorial we will create a 
+Makefile from scratch for a real data analysis project. The idea is to explain 
+different features of Make by iterating through several versions of a Makefile 
+for this project. Hopefully the experience that you gain from this tutorial 
+allows you to create Makefiles for your own projects.
 
 We will create a ``Makefile`` for a data analysis pipeline. The task is as
 follows:
