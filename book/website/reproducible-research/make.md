@@ -9,13 +9,6 @@
 
 Recommended skill level: intermediate
 
-## Table of contents
-
-- [Summary](#summary)
-- [An Introduction to Make](#an-introduction-to-make)
-  - [What is Make](#what-is-make)
-  - [Why use Make for Reproducible Research?](#why-use-make-for-reproducible-research)
-
 ## Summary
 
 A data science or research project can be seen as a tree of dependencies: the

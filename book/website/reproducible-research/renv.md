@@ -13,14 +13,6 @@ A tutorial on working via the command line can be found
 
 Recommended skill level: intermediate-advanced.
 
-## Table of contents
-
-- [Summary](#Summary)
-  - [What is a computational environment?](#What_is_a_computational_environment)
-- [How this will help you/why this is useful](#How_this_will_help_you_why_this_is_useful)
-
-<a name="Summary"></a>
-
 ## Summary
 
 Every computer has its own unique computational environment consisting of its operating system, what software it has installed, what versions of software packages are installed, and other features that we will describe later.
@@ -28,8 +20,6 @@ If a research project is carried out on one computer and then that project and a
 
 In order for research to be reproducible, the computational environment that it was conducted in must be captured in such a way that it can be replicated by others.
 This chapter describes a variety of methods for capturing computational environments and gives guidance on their strengths and weaknesses.
-
-<a name="What_is_a_computational_environment"></a>
 
 ### What is a computational environment?
 
@@ -45,8 +35,6 @@ These three numbers follow the pattern MAJOR.MINOR.PATCH, and are incremented as
 - MAJOR: significant changes
 - MINOR: to add functionality
 - PATCH: for bug fixes
-
-<a name="How_this_will_help_you_why_this_is_useful"></a>
 
 ## How this will help you/ why this is useful
 
