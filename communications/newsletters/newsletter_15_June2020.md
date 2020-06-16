@@ -43,7 +43,6 @@ During the lockdown, while many of us are working from home, we have also been h
 Unlike the Collaboration Café, these calls take place almost every day during the week and offer a space to work on ideas for The Turing Way and seek support from the core members of the _The Turing Way_.
 You can sign up every week to indicate your participation in this HackMD: [https://hackmd.io/@malvikasharan/TW-coworking](https://hackmd.io/@malvikasharan/TW-coworking).
 
-### Calendar
 To get notified with the dates for the upcoming community events, click on [this link](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ) to subscribe to _The Turing Way_ community calendar.
 
 ## News from the community
@@ -57,8 +56,8 @@ You can visit the online book at [https://the-turing-way.netlify.app/](https://t
 
 Followed by a recent upgrade of [Jupyter Book](https://github.com/jupyter/jupyter-book/), we have been able to bring about the recent changes while simplifying the backend infrastructure that hosts the book on [Netlify](https://www.netlify.com/).
 Consequently, our [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) have also been updated to include ways to cite and cross-refer chapters within the book.
-Thanks to the support of numerous community members who have helped us achieve this major milestone in the project. 
-We look forward to engaging more members who can help us fix errors and bugs introduced in this massive update and help improve the overall accessibility of this book.
+Thanks to the numerous community members for their support that has helped us achieve this major milestone in the project. 
+If you notice any error or bug that might have been introduced due to this update, please report them under the [issue #1220](https://github.com/alan-turing-institute/the-turing-way/issues/1220).
 
 ![](images/TW-June2020.png)
 *[Tweet by The _Turing Way_](https://twitter.com/turingway/status/1271369319012761602?s=20) with the screenshot of the welcome page of the online book*
