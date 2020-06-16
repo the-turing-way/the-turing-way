@@ -12,7 +12,7 @@ Join this week’s Collaboration Cafe today at 19:00 BST ([your local time](http
 Read our book online in it’s updated format that allows easy navigation of its chapters on research reproducibility and provides dedicated locations for new guides for project design, communication, collaboration and ethical research. 
 Report any bug, issue or idea for the new format in the [issue #1220](https://github.com/alan-turing-institute/the-turing-way/issues/1220).
 
-If you have been reading the Data Feminism book by Catherine D’Ignazio and Lauren Klein, join our effort to capture your perspective and lessons learned in _The Turing Way_’s guide to Ethical Research ([issue #1205](https://github.com/alan-turing-institute/the-turing-way/issues/1205)).
+If you have been reading the Data Feminism book by Catherine D’Ignazio and Lauren Klein, join our effort to capture your perspective and lessons learned in _The Turing Way_’s guide for Ethical Research ([issue #1205](https://github.com/alan-turing-institute/the-turing-way/issues/1205)).
 
 Stay safe!
 
