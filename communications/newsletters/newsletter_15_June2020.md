@@ -5,7 +5,7 @@ The Turing Way Newsletter: 17 June 2020
 Hello Turing Way friends!
 
 The core team of _The Turing Way_ advocates for open and equitable research culture and is committed to supporting efforts against systemic inequality in the science and community at large. 
-to support the ongoing [Black Lives Matter movement](https://blacklivesmatter.com/), we urge our community members to understand the wider context, join calls for action and help each other learn ways to collectively stand in solidarity.
+To support the ongoing [Black Lives Matter movement](https://blacklivesmatter.com/), we urge our community members to understand the wider context, join calls for action and help each other learn ways to collectively stand in solidarity.
 
 Join this week’s Collaboration Cafe today at 19:00 BST ([your local time](https://arewemeetingyet.com/London/2020-06-17/19:00/TuringWay-CollaborationCafe)) and subscribe to the community calendar for future events.
 
