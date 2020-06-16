@@ -244,18 +244,16 @@ using Plots
 
 data = CSV.read("gapminder.csv")
 
-# Transpose DataFrame
-numeric_tr = Matrix(data[:,2:end])'
-data_tr = DataFrame(numeric_tr, Symbol.(data[:, :country]))
+# Extract the row corresponding to Australia
+aus_gdp = data[data[:, :country] .== "Australia", :]
+aus_gdp = Matrix(aus_gdp[:,2:end])[:]  # as vector
 
-# Extract Year and add to DataFrame
-column_names = names(data)
-str_years = [String(x)[end-3:end] for x in column_names[2:end]]
-years = parse.(Int, str_years)
-data_tr[:, :Year] = years
+# Extract the years as Ints from the column names
+years = [x[end-3:end] for x in names(data)[2:end]]
+years = parse.(Int, years)
 
 # Plot
-plot(data_tr[:, :Year], data_tr[:, :Australia])
+plot(years, aus_gdp)
 ```
 
 See this [Software Carpentry lesson](https://swcarpentry.github.io/python-novice-gapminder/09-plotting/index.html) for more info.
