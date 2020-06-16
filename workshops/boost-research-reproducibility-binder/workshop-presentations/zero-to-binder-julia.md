@@ -13,7 +13,7 @@ To follow these instructions on your own machine, follow this link: **<http://bi
 - [1. Creating a repo to Binderize](#1-creating-a-repo-to-binderize)
 - [2. Launch your first repo!](#2-launch-your-first-repo)
   - [What's happening in the background? - Part 1](#whats-happening-in-the-background---part-1)
-- [3. Run `hello.py`](#3-run-hellopy)
+- [3. Run `hello.jl`](#3-run-hellojl)
 - [4. Pinning Dependencies](#4-pinning-dependencies)
   - [What's happening in the background? - Part 2](#whats-happening-in-the-background---part-2)
   - [More on pinning dependencies](#more-on-pinning-dependencies)
@@ -63,7 +63,7 @@ You can create a link to a **live, interactive** version of your code!
 
 1) Create a new repo on GitHub called "my-first-binder".
    - Don't forget to initialise with a README!
-2) Create a file called `hello.jl` via the web interface with `print("Hello from Binder!")` on the first line and commit to master
+2) Create a file called `hello.jl` via the web interface with `println("Hello from Binder!")` on the first line and commit to master
 3) Create a file called `Project.toml` (:rotating_light: the capitalisation is important!) with the following content and commit it to master.
    This will install Julia into the Binder environment.
 
@@ -130,7 +130,7 @@ It's useful when your build fails or something you think _should_ be installed i
 
 ### What's happening in the background? - Part 2
 
-This time, BinderHub will read `requirements.txt` and install version `1.14.5` of the `numpy` package.
+This time, BinderHub will read `Project.toml` and install version `0.6.2` of the `CSV` package.
 
 ### More on pinning dependencies
 
