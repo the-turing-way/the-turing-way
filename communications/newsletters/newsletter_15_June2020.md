@@ -21,10 +21,9 @@ Read more details on these topics below 👇
 ## recommended resources for supporting the Black Lives Matter movement
 
 The [Black Lives Matter movement](https://blacklivesmatter.com/about/) and its ongoing protests demand us to have informed and sensitive discussions on history, race, science and society to take necessary actions as individuals against systemic injustice.
-We are highlighting [this list of curated resources](https://lectureinprogress.com/journal/resources-for-supporting-black-lives-matter-movement) by [lectureinprogress.com](https://lectureinprogress.comt).
-These resources cover range topics like history, philosophy, race, allyship, mentoring and training opportunities.
-They have also listed several educational resources like books, videos, and podcasts, calls for actions, and organisations to support.
-We believe that we can support this movement authentically only when we educate ourselves on these issues, recognise our privilege (or lack thereof) and use our platforms to raise voice against systemic inequality.
+We believe that we can support this movement authentically only when we educate ourselves on these issues more widely.
+Therefore, we are highlighting [this list of curated resources](https://lectureinprogress.com/journal/resources-for-supporting-black-lives-matter-movement) by [lectureinprogress.com](https://lectureinprogress.comt) that covers a range of topics like history, philosophy, race, allyship, mentoring and training opportunities.
+We urge you to learn from and share relevant educational resources (like books, videos, and podcasts, calls for actions, and organisations to support), recognise our privilege (or lack thereof) and use our platforms to raise voice against systemic inequality.
 
 ![](images/BLM-June2020.png)
 *[Tweet by _The Turing Way_](https://twitter.com/turingway/status/1267870724678696961?s=20) in support of Black Lives Matter Movement*
@@ -95,12 +94,12 @@ More information regarding the [roles and benefits for the mentees](https://open
 [Heidi Siebold](https://github.com/HeidiSeibold) is a medical AI researcher, research software engineer and open science expert at LMU Munich, Bielefeld University and the Helmholtz Zentrum Munich.
 She develops machine learning methods to figure out which patients react well to certain treatments and implements these methods in R.
 Her passion for open and reproducible research has led her to join the Turing Way community.
-In her words:
-> I am involved in meta-research projects (research about research), and I spend most of my time identifying ways to improve the way we do research while supporting, teaching and contributing to open projects such as The Turing Way.
-> In the long term, she would like to create an online course on reproducible data science with the Turing Way as a basis.
-
 She co-authored two chapters [Research Compendia]() and [File Naming Convention]() in _The Turing Way_ at the last book dash event.
 Ever since, she has been engaging with other community members through reviewing, editing and participating in community discussions through GitHub.
+In her words:
+> I am involved in meta-research projects (research about research). 
+> I spend most of my time identifying ways to improve the way we do research while supporting, teaching and contributing to open projects such as The Turing Way.
+> In the long term, I would like to create an online course on reproducible data science with the Turing Way as a basis.
 
 ### Learn how to use Binder with “Zero to Binder” tutorials
 
