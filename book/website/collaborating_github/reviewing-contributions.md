@@ -17,7 +17,7 @@ The following chapter throws light on some of the most important tasks of the ad
 The maintenance and review work is important for the people who are interested in maintaining _The Turing Way_ GitHub repository and can review contributions. 
 >The Git workflow is difficult to understand, especially when collaborating with a group of contributors for a project. Hence, it is very important that the reviews to all these contributions are properly done.
 
-## Reviewing and Maintainance- What is it?
+## Reviewing and Maintenance- What is it?
 An open source project allows many people to make contributions in the form of [issues](https://help.github.com/en/github/managing-your-work-on-github/about-issues) and [pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 Community members can also perform [reviews](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews) and provide feedback [comments](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request) on the ideas and changes which they or others have suggested.
 These ideas and discussions lead to better quality code and opens new perspectives regarding a particular feature. The reviews are done to make high quality production level code.  
@@ -35,6 +35,8 @@ They can make other contributors as maintainers, reviewers or members working on
 - Maintainers are involved with creating issues and pull requests whenever required. They keep the codebase updated and help in reviewing contributions. They can merge pull requests.  
 They can also request reviews from someone else. There are various [levels of permissions](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/repository-permission-levels-for-an-organization) for a project in GitHub.
 
+This section talks about ownership and permission levels. For information on communications and discussions please see the [guidelines](#guidelines-for-review-process-and-maintenance).
+
 ## Reviewing process
 - Any code base or set of changes must be reviewed before merging. If the project is co-owned by many people, the review process is done by handling it in the form of a [code review assignment](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-code-review-assignment-for-your-team) in which certain members of the team are chosen for the review.  
 This member subset of team is selected with the help of algorithms after reviewing is enabled and review assignment is configured for a particular project.  
@@ -48,7 +50,7 @@ Pull requests created by contributors can be easily merged by maintainers after 
 - Rebase and merge- Rebases all commits individually to base branch before merging.  
 In the prompt message, the maintainer can provide a merge message along with comments(if any) and then press the “confirm merge” button.
 
-## Guidelines for Review Process and Maintainance
+## Guidelines for Review Process and Maintenance
 For project collaboration on GitHub, it is very important to follow certain guidelines and best practices while maintaining a particular project. A [Code of Conduct](https://help.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project) is provided in every project which must be followed while collaborating.  
 A good example of the same is the [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md) for _The Turing Way_ project.  
 These guidelines become extremely important when the collaboration is done remotely on any project where the contributors and the maintainers might experience communication gaps due to various reasons. In such situations, contributing and maintenance can be done smoothly by the help of the following:
