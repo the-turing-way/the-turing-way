@@ -7,10 +7,10 @@ Hello Turing Way friends!
 The core team of _The Turing Way_ advocates for open and equitable research culture and is committed to supporting efforts against systemic inequality in the science and community at large. 
 To support the ongoing [Black Lives Matter movement](https://blacklivesmatter.com/), we urge our community members to understand the wider context, join calls for action and help each other learn ways to collectively stand in solidarity.
 
-Join this week’s Collaboration Cafe today at 19:00 BST ([your local time](https://arewemeetingyet.com/London/2020-06-17/19:00/TuringWay-CollaborationCafe)) and subscribe to the community calendar for future events.
+Join this week’s Collaboration Cafe today at 19:00 BST ([your local time](https://arewemeetingyet.com/London/2020-06-17/19:00/TuringWay-CollaborationCafe)) and subscribe to the community calendar for the future events.
 
-Read our book online in it’s updated format that allows easy navigation of its chapters on research reproducibility and provides dedicated locations for new guides for project design, communication, collaboration and ethical research. 
-Report any bug, issue or idea for the new format in the [issue #1220](https://github.com/alan-turing-institute/the-turing-way/issues/1220).
+We have recently updated the format of our [online book](https://the-turing-way.netlify.app/) to facilitate easy navigation of its chapters on research reproducibility and provides dedicated locations for new guides for project design, communication, collaboration and ethical research. 
+If You would like to report any bug or error, or suggest useful ideas for improving accessibility, please comment under the [issue #1220](https://github.com/alan-turing-institute/the-turing-way/issues/1220).
 
 If you have been reading the Data Feminism book by Catherine D’Ignazio and Lauren Klein, join our effort to capture your perspective and lessons learned in _The Turing Way_’s guide for Ethical Research ([issue #1205](https://github.com/alan-turing-institute/the-turing-way/issues/1205)).
 
