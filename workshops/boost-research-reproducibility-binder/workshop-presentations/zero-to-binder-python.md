@@ -1,4 +1,4 @@
-# From Zero to Binder!
+# From Zero to Binder in Python!
 
 Sarah Gibson, _The Alan Turing Institute_
 
@@ -6,7 +6,7 @@ Sarah Gibson, _The Alan Turing Institute_
 
 Based on Tim Head's _Zero-to-Binder_ workshops which can be found here: <http://bit.ly/zero-to-binder> and <http://bit.ly/zero-to-binder-rise>
 
-To follow these instructions on your own machine, follow this link: **<http://bit.ly/zero-to-binder-tutorial>**
+To follow these instructions on your own machine, follow this link: **<http://bit.ly/zero-to-binder-python>**
 
 Binder can take a long time to load, but this doesn't necessarily mean that you Binder will fail to launch.
 You can always refresh the window if you see the "... is taking longer to load, hang tight!" message.
@@ -46,7 +46,7 @@ To run code, you need:
 - Hardware on which to run the code
 - Software, including:
   - The code itself
-  - The programming language (e.g. Python, R)
+  - The programming language (e.g. Python, R, Julia, and so on)
   - Relevant packages (e.g. pandas, matplotlib, tidyverse, ggplot)
 
 ## What Binder Provides
@@ -58,7 +58,7 @@ You can create a link to a **live, interactive** version of your code!
 - An example binder link:
   > **<https://mybinder.org/v2/gh/trekhleb/homemade-machine-learning/master?filepath=notebooks%2Fanomaly_detection%2Fanomaly_detection_gaussian_demo.ipynb>**
   From this repo: **<https://github.com/trekhleb/homemade-machine-learning>**
-  - Notice that the Binder link has a similar structure to the GitHub repo link (<github-username>/<github-repo-name>)
+  - Notice that the Binder link has a similar structure to the GitHub repo link (`<github-username>/<github-repo-name>`)
   - The "filepath" argument opens a specific notebook (`.ipynb` file) in the repo
 
 ## 1. Creating a repo to Binderize
@@ -283,12 +283,12 @@ Now you've binderized (bound?) this demo repo, it's time to binderize the exampl
 **Some useful links:**
 
 - Choosing languages:
-  > **<https://mybinder.readthedocs.io/en/latest/howto/languages.html>**
+  - **<https://mybinder.readthedocs.io/en/latest/howto/languages.html>**
 - Configuration files:
-  > **<https://mybinder.readthedocs.io/en/latest/config_files.html>**
+  - **<https://mybinder.readthedocs.io/en/latest/config_files.html>**
 - Example Binder repos:
-  > **<https://mybinder.readthedocs.io/en/latest/sample_repos.html>**
+  - **<https://mybinder.readthedocs.io/en/latest/sample_repos.html>**
 - Getting data:
-  > With `wget`: **<https://github.com/binder-examples/getting-data>**
-  > With `quilt`: **<https://github.com/binder-examples/data-quilt>**
-  > From remote storage: **<https://github.com/binder-examples/remote_storage>**
+  - With `wget`: **<https://github.com/binder-examples/getting-data>**
+  - With `quilt`: **<https://github.com/binder-examples/data-quilt>**
+  - From remote storage: **<https://github.com/binder-examples/remote_storage>**
