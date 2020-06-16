@@ -11,7 +11,7 @@
 > During her PhD she participated on the discovery of the Higgs Boson particle announced by CERN in 2012. 
 > She continued working on ATLAS as a postdoc with Uppsala University where she focused on searches for physics beyond the Standard Model of Particle Physics.
 
-> Right before joining the Turing, she worked as Data Scientist in the EdTech sector developing innovative products focused on the assessment process in education.
+> Right before joining the Turing Institute, she worked on technical ways to improve how we assess learners and what they learned. 
 
 ## Current work
 
