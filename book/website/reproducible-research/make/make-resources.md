@@ -111,6 +111,7 @@ character in the target, which can be used to match a part of a filename.
 
 ## Appendix
 
+(rr-make-resources-dag)=
 ### Directed Acyclic Graph
 
 A Directed Acyclic Graph (DAG) is a *graph* of nodes and edges that is:
@@ -123,6 +124,7 @@ The latter property is of course quite handy for a build system. More
 information on DAGs can be found on
 [Wikipedia](https://en.wikipedia.org/wiki/Directed_acyclic_graph).
 
+(rr-make-resources-installing)=
 ### Installing Make
 
 First, check if you have GNU Make installed already. In a terminal type:
