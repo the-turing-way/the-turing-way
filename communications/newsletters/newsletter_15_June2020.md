@@ -22,7 +22,7 @@ Read more details on these topics below 👇
 
 The [Black Lives Matter movement](https://blacklivesmatter.com/about/) and its ongoing protests demand us to have informed and sensitive discussions on history, race, science and society to take necessary actions as individuals against systemic injustice.
 We believe that we can support this movement authentically only when we educate ourselves on these issues more widely.
-Therefore, we are highlighting [this list of curated resources](https://lectureinprogress.com/journal/resources-for-supporting-black-lives-matter-movement) by [lectureinprogress.com](https://lectureinprogress.comt) that covers a range of topics like history, philosophy, race, allyship, mentoring and training opportunities.
+Therefore, we are highlighting [this list of curated resources](https://lectureinprogress.com/journal/resources-for-supporting-black-lives-matter-movement) by [lectureinprogress.com](https://lectureinprogress.comt) that covers a range of topics from history, philosophy, race, allyship, mentoring and training opportunities.
 We urge you to learn from and share relevant educational resources (like books, videos, and podcasts, calls for actions, and organisations to support), recognise our privilege (or lack thereof) and use our platforms to raise voice against systemic inequality.
 
 ![](images/BLM-June2020.png)
