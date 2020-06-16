@@ -45,8 +45,8 @@ This member subset of team is selected with the help of algorithms after reviewi
 
 ## Merging changes
 Pull requests created by contributors can be easily merged by maintainers after the review. There are different ways of merging a PR:
-- Merge pull request- Merges all commits to base branch. This keeps all commits made separated. 
-- Squash and merge- Squashes all commits into one and then merges the pull request. 
+- Merge pull request- Merges all commits to base branch. This keeps all commits made in the PR as separate and merges them as they are, through a single merge commit to the base branch. 
+- Squash and merge- Squashes all commits created in the PR into one and merges them as a single commit, with the help of a merge commit to the base branch.  
 - Rebase and merge- Rebases all commits individually to base branch before merging.  
 In the prompt message, the maintainer can provide a merge message along with comments(if any) and then press the “confirm merge” button.
 
