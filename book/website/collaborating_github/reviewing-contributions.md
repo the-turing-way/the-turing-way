@@ -29,7 +29,7 @@ Knowing the working of Version control systems, [markdown](https://guides.github
 In any team or organization owned project, there are different contributors. 
 
 - Some start the project and are generally, the owners of the project. The Codeowners who have the rights over who can make reviews and suggest changes to contributions. The individuals or teams who are codeowners for a certain project may be specified at the time of project creation in a file of the project.  
-An example of this could be the [CODEOWNERS file](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners) or the [Ways of Working file](https://github.com/alan-turing-institute/the-turing-way/blob/master/ways_of_working.md) of _The Turing Way_ which provides an insight about the core project team responsible for creating and maintaining the project.   
+An example of this could be a [CODEOWNERS file](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners) or a Ways of Working file (see _The Turing Way_'s [Ways of Working](https://github.com/alan-turing-institute/the-turing-way/blob/master/ways_of_working.md) as an example). These files provide insight into the core project team responsible for creating and maintaining the project.   
 They can make other contributors as maintainers, reviewers or members working on the project. They can also involve other codeowners and are responsible for granting permissions. 
 
 - Maintainers are involved with creating issues and pull requests whenever required. They keep the codebase updated and help in reviewing contributions. They can merge pull requests.  
