@@ -40,6 +40,7 @@ Been here before? Already know what you're looking for in this guide? Jump to th
     - [Adding a new reference](#adding-a-new-reference)
     - [Citation key style guide](#citation-key-style-guide)
   - [Adding links between pages within the book](#adding-links-between-pages-within-the-book)
+- [Representing The Turing Way](#representing-the-turing-way)
 - [Recognising Contributions](#recognising-contributions)
 
 ## Joining the community
