@@ -106,7 +106,7 @@ In her words:
 
 Tim Head from the [BinderHub project](https://binderhub.readthedocs.io/) has written a tutorial called [Zero to Binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md) to help learners get started with using BinderHub (the software behind mybinder.org).
 This tutorial provides a step-by-step guide with examples from Python scripts.
-Recently, our core community member Sarah Gibson has co-written versions of this tutorial with Anna Krystalli called [From Zero to Binder in R!](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-r.md) and with Oliver Strickson called [Zero to Binder in Julia!](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-julia.md) to support new learners who are more comfortable with using R and Julia respectively.
+Recently, our core community member Sarah Gibson has co-written versions of this tutorial with Anna Krystalli called [From Zero to Binder in R!](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-r.md), and with Oliver Strickson and Alex Bird called [Zero to Binder in Julia!](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-julia.md) to support new learners who are more comfortable with using R and Julia respectively.
 
 ## Relevant resources
 
