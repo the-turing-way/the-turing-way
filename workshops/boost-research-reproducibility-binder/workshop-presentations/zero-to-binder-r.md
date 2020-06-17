@@ -72,7 +72,7 @@ You can create a link to a **live, interactive** version of your code!
    - Don't forget to initialise with a README!
 2) Create a file called `hello.R` via the web interface with `print("Hello from Binder!")` on the first line and commit to master.
 3) Create a file called `runtime.txt` with `r-YYYY-MM-DD` on the first line, where `YYYY-MM-DD` is today's date (eg `r-2020-05-26`). Commit to master.
-    + _In R you can use `holepunch::write_runtime()` to create a `runtime.txt` in the `.binder/` directory, configured with today's date._
+   - _In R you can use `holepunch::write_runtime()` to create a `runtime.txt` in the `.binder/` directory, configured with today's date._
 
 ### Why did the repo have to be public?
 
@@ -97,7 +97,6 @@ If accessing private repositories is a feature you/your team need, we advise tha
    - You will see a "spinner" as Binder launches the repo.
 
 If everything ran smoothly, you'll see a Jupyter Notebook interface.
-
 
 ### What's happening in the background? - Part 1
 
@@ -130,7 +129,6 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 3) Check for typos! Then commit to master.
 4) Visit **<https://mybinder.org/v2/gh/your-username/my-first-binder/master>** again in a new tab
 
-
 This time, click on "Build Logs" in the big, horizontal, grey bar.
 This will let you watch the progress of your build.
 It's useful when your build fails or something you think _should_ be installed is missing.
@@ -148,13 +146,11 @@ In the above example, we specified that we want to use R in our project included
 
 This provides some rudimentary package versioning for R Users but is not as robust as pinning versions in a `requirements.txt` in python. For more robust and specific version pinning in R, have a look at package [`renv`](https://rstudio.github.io/renv/)
 
-
 ## 5. Check the Environment
 
 **TO DO:** :vertical_traffic_light:
 
 1) In the top right corner, click "New" :arrow_right: "R" (under _Notebook_) to open a new R notebook
-
 2) Type the following into a new cell:
 
    ```r
@@ -163,14 +159,11 @@ This provides some rudimentary package versioning for R Users but is not as robu
    read_csv(system.file("extdata/mtcars.csv", package = "readr"))
    ```
 
-
-3) Run the cell. 
-  - Press either SHIFT+RETURN or the "Run" button in the Menu bar. 
-  You should see the following output:
-    - the version number of the installed version of `readr`.
-    - a tibble of the contents of the `mtcars.csv` which is a csv file included in package `readr`. 
-
-   
+3) Run the cell.
+    - Press either SHIFT+RETURN or the "Run" button in the Menu bar.
+    You should see the following output:
+      - the version number of the installed version of `readr`.
+      - a tibble of the contents of the `mtcars.csv` which is a csv file included in package `readr`.
 
 **N.B.:** If you save this notebook, it **will not** be saved to the GitHub repo.
 Pushing changes back to the GitHub repo through the container is not possible with Binder.
@@ -243,9 +236,11 @@ However, that is not to say that they are the _only_ groups of people who should
    - `wget` is a program which retrieves content from web servers. This line extracts the content from the bitly URL and saves it to the filename denoted by the `-O` flag (capital "O", not zero), i.e. `gapminder.csv`.
      The `-q` flag tells `wget` to do this quietly, i.e. don't print anything to the console.
 3) Update your `install.R` file to install two additional dependencies, `"tidyr"` and `"ggplot2"`. To do so, supply a character vector of the required packages to `install.packages()` instead of a single character string. The installation command should now look like this:
+
    ```r
    install.packages(c("readr", "tidyr", "ggplot2"))
    ```
+
     - These packages aren't necessary to download the data but we will use them to read the CSV file, process it and make a plot
 4) Click the binder badge in your README to launch your Binder
 
@@ -259,11 +254,11 @@ library(tidyr)
 library(ggplot2)
 
 data <- read_csv("gapminder.csv") %>%
-    pivot_longer(-country, 
-                 names_to = "year", 
-                 values_to = "gdpPercap", 
+    pivot_longer(-country,
+                 names_to = "year",
+                 values_to = "gdpPercap",
                  names_prefix = "gdpPercap_",
-                 names_transform = list(year = as.integer)) 
+                 names_transform = list(year = as.integer))
 
 data[data$country == "Australia", ] %>%
     ggplot(aes(x = year, y = gdpPercap)) +
@@ -297,12 +292,12 @@ Now you've binderized (bound?) this demo repo, it's time to binderize the exampl
 **Some useful links:**
 
 - Choosing languages:
-  > **<https://mybinder.readthedocs.io/en/latest/howto/languages.html>**
+  - **<https://mybinder.readthedocs.io/en/latest/howto/languages.html>**
 - Configuration files:
-  > **<https://mybinder.readthedocs.io/en/latest/config_files.html>**
+  - **<https://mybinder.readthedocs.io/en/latest/config_files.html>**
 - Example Binder repos:
-  > **<https://mybinder.readthedocs.io/en/latest/sample_repos.html>**
+  - **<https://mybinder.readthedocs.io/en/latest/sample_repos.html>**
 - Getting data:
-  > With `wget`: **<https://github.com/binder-examples/getting-data>**
-  > With `quilt`: **<https://github.com/binder-examples/data-quilt>**
-  > From remote storage: **<https://github.com/binder-examples/remote_storage>**
+  - With `wget`: **<https://github.com/binder-examples/getting-data>**
+  - With `quilt`: **<https://github.com/binder-examples/data-quilt>**
+  - From remote storage: **<https://github.com/binder-examples/remote_storage>**
