@@ -170,7 +170,7 @@ The Reproducible, Interpretable, Open, & Transparent Science (also called [Riots
 **2.** *Tweet by [Wiebke Toussaint](https://twitter.com/wiebketous/status/1258636770629083141?s=20) expressing the joy of contributing to an Open Source project and getting the first Pull Request merged in _The Turing Way_.*
 **3.** *Tweet by [Fiona Grimm](https://twitter.com/fiona_grimm/status/1271109919652155393?s=20) from the Binder workshop with _The Turing Way_ team.*
 **4.** *Tweet by [Kate Simpsons](https://twitter.com/Dr_KateSimpson/status/1271492883330318336?s=20) inviting case studies from Data Feminism to _The Turing Way_.*
-**5.** *Tweet by [Christine Foster](https://twitter.com/cybfoster/status/1264486354072862721?s=20) in the context of [this post](https://thecritic.co.uk/a-series-of-tubes/) oncreating reproducible code and research pipeline.*
+**5.** *Tweet by [Christine Foster](https://twitter.com/cybfoster/status/1264486354072862721?s=20) in the context of [this post](https://thecritic.co.uk/a-series-of-tubes/) on creating reproducible code and research pipeline.*
 **6.** *Tweet from [The Alan Turing Institute](https://twitter.com/turinginst/status/1270350063487909889?s=20) from the CogX 2020 talk on _The Turing Way_ with illustrations developed by _The Turing Way_ and Scriberia.*
 
 ## Connect with us!
