@@ -219,7 +219,7 @@
     - title: Getting Contributors
       file: collaboration/github/github-contributors
     - title:  Reviweing GitHub Contributions
-      file: collaboration/github/reviewing-contributions.md
+      file: collaboration/github/github-maintainers.md
     - title: Checklist and resources
       file: collaboration/github/github-resources
   - title: Leadership in Data Science
