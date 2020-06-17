@@ -9,7 +9,7 @@ To support the ongoing [Black Lives Matter movement](https://blacklivesmatter.co
 
 Join this week’s Collaboration Cafe today at 19:00 BST ([your local time](https://arewemeetingyet.com/London/2020-06-17/19:00/TuringWay-CollaborationCafe)) and subscribe to the community calendar for the future events.
 
-We have recently updated the format of our [online book](https://the-turing-way.netlify.app/) to facilitate easy navigation of its chapters on research reproducibility and provides dedicated locations for new guides for project design, communication, collaboration and ethical research. 
+We have recently updated the format of our [online book](https://the-turing-way.netlify.app/) to facilitate easy navigation of its chapters on research reproducibility and provide dedicated locations for new guides for project design, communication, collaboration and ethical research. 
 If You would like to report any bug or error, or suggest useful ideas for improving accessibility, please comment under the [issue #1220](https://github.com/alan-turing-institute/the-turing-way/issues/1220).
 
 If you have been reading the Data Feminism book by Catherine D’Ignazio and Lauren Klein, join our effort to capture your perspective and lessons learned in _The Turing Way_’s guide for Ethical Research ([issue #1205](https://github.com/alan-turing-institute/the-turing-way/issues/1205)).
@@ -38,7 +38,7 @@ You can sign up on this HackMD to indicate your participation: [https://hackmd.i
 In this coworking call, we would love to onboard new members who have recently joined the community and would like to know where they can get involved.
 We would also like to discuss how we can continue hosting these calls in the future to accommodate the need from the community and the team members.
 
-### Weekly coworking calls
+### Daily coworking calls
 During the lockdown, while many of us are working from home, we have also been hosting 1-hour short coworking calls. 
 Unlike the Collaboration Café, these calls take place almost every day during the week and offer a space to work on ideas for The Turing Way and seek support from the core members of the _The Turing Way_.
 You can sign up every week to indicate your participation in this HackMD: [https://hackmd.io/@malvikasharan/TW-coworking](https://hackmd.io/@malvikasharan/TW-coworking).
