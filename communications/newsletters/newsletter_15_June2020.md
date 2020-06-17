@@ -4,13 +4,13 @@ The Turing Way Newsletter: 17 June 2020
 
 Hello Turing Way friends!
 
-The core team of _The Turing Way_ advocates for open and equitable research culture and is committed to supporting efforts against systemic inequality in the science and community at large. 
+The core team of _The Turing Way_ advocates for open and equitable research culture and is committed to supporting efforts against systemic inequality in the science and community at large.
 To support the ongoing [Black Lives Matter movement](https://blacklivesmatter.com/), we urge our community members to understand the wider context, join calls for action and help each other learn ways to collectively stand in solidarity.
 
 Join this week’s Collaboration Cafe today at 19:00 BST ([your local time](https://arewemeetingyet.com/London/2020-06-17/19:00/TuringWay-CollaborationCafe)) and subscribe to the community calendar for the future events.
 
-We have recently updated the format of our [online book](https://the-turing-way.netlify.app/) to facilitate easy navigation of its chapters on research reproducibility and provide dedicated locations for new guides for project design, communication, collaboration and ethical research. 
-If You would like to report any bug or error, or suggest useful ideas for improving accessibility, please comment under the [issue #1220](https://github.com/alan-turing-institute/the-turing-way/issues/1220).
+We have recently updated the format of our [online book](https://the-turing-way.netlify.app/) to facilitate easy navigation of its chapters on research reproducibility and provide dedicated locations for new guides for project design, communication, collaboration and ethical research.
+If you would like to report any bug or error, or suggest useful ideas for improving accessibility, please comment under the [issue #1220](https://github.com/alan-turing-institute/the-turing-way/issues/1220).
 
 If you have been reading the Data Feminism book by Catherine D’Ignazio and Lauren Klein, join our effort to capture your perspective and lessons learned in _The Turing Way_’s guide for Ethical Research ([issue #1205](https://github.com/alan-turing-institute/the-turing-way/issues/1205)).
 
@@ -18,7 +18,7 @@ Stay safe!
 
 Read more details on these topics below 👇
 
-## recommended resources for supporting the Black Lives Matter movement
+## Recommended resources for supporting the Black Lives Matter movement
 
 The [Black Lives Matter movement](https://blacklivesmatter.com/about/) and its ongoing protests demand us to have informed and sensitive discussions on history, race, science and society to take necessary actions as individuals against systemic injustice.
 We believe that we can support this movement authentically only when we educate ourselves on these issues more widely.
@@ -32,14 +32,14 @@ We urge you to learn from and share relevant educational resources (like books, 
 
 ### Collaboration Café
 
-We have a Collaboration Café today at 19:00 BST ([your local time](https://arewemeetingyet.com/London/2020-06-17/19:00/TuringWay-CollaborationCafe)). 
+We have a Collaboration Café today at 19:00 BST ([your local time](https://arewemeetingyet.com/London/2020-06-17/19:00/TuringWay-CollaborationCafe)).
 You can sign up on this HackMD to indicate your participation: [https://hackmd.io/@KirstieJane/CollabCafe](https://hackmd.io/@KirstieJane/CollabCafe).
 
 In this coworking call, we would love to onboard new members who have recently joined the community and would like to know where they can get involved.
 We would also like to discuss how we can continue hosting these calls in the future to accommodate the need from the community and the team members.
 
 ### Daily coworking calls
-During the lockdown, while many of us are working from home, we have also been hosting 1-hour short coworking calls. 
+During the lockdown, while many of us are working from home, we have also been hosting 1-hour short coworking calls.
 Unlike the Collaboration Café, these calls take place almost every day during the week and offer a space to work on ideas for The Turing Way and seek support from the core members of the _The Turing Way_.
 You can sign up every week to indicate your participation in this HackMD: [https://hackmd.io/@malvikasharan/TW-coworking](https://hackmd.io/@malvikasharan/TW-coworking).
 
@@ -56,7 +56,7 @@ You can visit the online book at [https://the-turing-way.netlify.app/](https://t
 
 Followed by a recent upgrade of [Jupyter Book](https://github.com/jupyter/jupyter-book/), we have been able to bring about the recent changes while simplifying the backend infrastructure that hosts the book on [Netlify](https://www.netlify.com/).
 Consequently, our [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) have also been updated to include ways to cite and cross-refer chapters within the book.
-Thanks to the numerous community members for their support that has helped us achieve this major milestone in the project. 
+Thanks to the numerous community members for their support that has helped us achieve this major milestone in the project.
 If you notice any error or bug that might have been introduced due to this update, please report them under the [issue #1220](https://github.com/alan-turing-institute/the-turing-way/issues/1220).
 
 ![](images/TW-June2020.png)
@@ -64,7 +64,7 @@ If you notice any error or bug that might have been introduced due to this updat
 
 ### Data Feminism meets _The Turing Way_
 
-[Data Feminism](https://mitpress.mit.edu/books/data-feminism) explores current practices within data science and asks us to recognise and act on the role that power plays throughout research processes, from data collection and storage to communication and visualisation. 
+[Data Feminism](https://mitpress.mit.edu/books/data-feminism) explores current practices within data science and asks us to recognise and act on the role that power plays throughout research processes, from data collection and storage to communication and visualisation.
 On 4 June, The Alan Turing Institute hosted a webinar with the authors of [Data Feminism](https://mitpress.mit.edu/books/data-feminism), Catherine D’Ignazio and Lauren Klein, which was attended by around 700 attendees.
 Through seminars like this, their weekly reading group and community engagements over the last months, the authors have not only shed light on imbalanced power structures underlying data science but have started active and timely discussions around research ethics.
 
@@ -77,12 +77,12 @@ You can join the discussion but comment on [the Github Issue #1205](https://gith
 
 ### OLS-2 for Turing
 
-[Open Life Science](https://openlifesci.org/) program mentors and trains individuals and stakeholders working in research organisations who want to promote Open Science practice in their communities. 
+[Open Life Science](https://openlifesci.org/) program mentors and trains individuals and stakeholders working in research organisations who want to promote Open Science practice in their communities.
 After successfully concluding their first cohort, they have announced the call for application, deadline for which  is 30 June 2020
-The application can be submitted via https://easychair.org/conferences/?conf=ols2. 
+The application can be submitted via https://easychair.org/conferences/?conf=ols2.
 
 Under the [Turing’s Tools, Practices and Systems Research Program](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems), Open Life Science has collaborated with [_The Turing Way_](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science) to offer training and mentoring to interested members from the community.
-You can reach out to Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) for advice to write your proposal to join this program individually or in team. 
+You can reach out to Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) for advice to write your proposal to join this program individually or in team.
 More information regarding the [roles and benefits for the mentees](https://openlifesci.org/about#mentees) and [eligibility of a proposed project](https://openlifesci.org/index#projects) can be found on their website.
 
 ![](images/OLS-June2020.png)
@@ -98,7 +98,7 @@ Her passion for open and reproducible research has led her to join the Turing Wa
 She co-authored two chapters [Research Compendia](https://the-turing-way.netlify.app/reproducible-research/compendia.html) and [File Naming Convention](https://the-turing-way.netlify.app/project-design/filenaming.html) in _The Turing Way_ during and after her participation at the Book Dash in February 2020.
 Ever since, she has been engaging with other community members through reviewing and editing new contributions, and participating in community discussions through GitHub.
 In her words:
-> I am involved in meta-research projects (research about research). 
+> I am involved in meta-research projects (research about research).
 > I spend most of my time identifying ways to improve the way we do research while supporting, teaching and contributing to open projects such as _The Turing Way_.
 > In the long term, I would like to create an online course on reproducible data science with _The Turing Way_ as a basis.
 
@@ -112,13 +112,15 @@ Recently, our core community member Sarah Gibson has co-written versions of this
 
 ### Publications
 
-Van Lissa, C. J., Brandmaier, A. M., Brinkman, L., Lamprecht, A., Peikert, A., Struiksma, M., & Vreede, B. (2020, May 31). WORCS: A Workflow for Open Reproducible Code in Science. [https://doi.org/10.31234/osf.io/k4wde](https://psyarxiv.com/k4wde)
+We are delighted to recommend this new preprint by community member Barbara Vreede and her colleagues:
+
+> Van Lissa, C. J., Brandmaier, A. M., Brinkman, L., Lamprecht, A., Peikert, A., Struiksma, M., & Vreede, B. (2020, May 31). WORCS: A Workflow for Open Reproducible Code in Science. [https://doi.org/10.31234/osf.io/k4wde](https://psyarxiv.com/k4wde)
 
 ### Recommendations for starting a new community online
 
 From the beginning of the COVID-19 pandemic, computational communities have been asynchronously organising hackathons, data modelling projects, task forces, and working groups.
 Even though this is a unique chance to establish new collaborations and start a meaningful project, it is equally important to ensure that the teams and communities around these projects are built on the foundation of excellent science and community practices.
-Here is [a post on 10 community practices](https://software.ac.uk/blog/2020-05-26-cw20-speed-blog-bootstrapping-development-team-during-time-crisis) that can help build an effective online team or community, especially to ensure that a positive culture of collaboration is fostered. 
+Here is [a post on 10 community practices](https://software.ac.uk/blog/2020-05-26-cw20-speed-blog-bootstrapping-development-team-during-time-crisis) that can help build an effective online team or community, especially to ensure that a positive culture of collaboration is fostered.
 This blog was posted on [The Software Sustainability Institute](https://software.ac.uk), and co-authored by Malvika Sharan, Yo Yehudi, Colin Sauze, Raniere Silva, Robert Haines and Claire Wyatt, under the mini-blog series.
 
 ### Lessons from remote meeting to take back to the office
@@ -165,7 +167,7 @@ The Reproducible, Interpretable, Open, & Transparent Science (also called [Riots
 
 ### Twitter shoutouts
 
-![](images/tweets-June2020.png)
+![screenshots of tweets](images/tweets-June2020.png)
 **1.** *Tweet by [Sarah Gibson](https://twitter.com/drsarahlgibson/status/1265553718096920577?s=20) about her interview on Research Software Hour where she talked about life as a Research Software Engineer, and a core contributor of the Binder and _The Turing Way_ projects.*
 **2.** *Tweet by [Wiebke Toussaint](https://twitter.com/wiebketous/status/1258636770629083141?s=20) expressing the joy of contributing to an Open Source project and getting the first Pull Request merged in _The Turing Way_.*
 **3.** *Tweet by [Fiona Grimm](https://twitter.com/fiona_grimm/status/1271109919652155393?s=20) from the Binder workshop with _The Turing Way_ team.*
