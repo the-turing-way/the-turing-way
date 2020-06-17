@@ -527,6 +527,19 @@ To add a label, use the following pattern before the element you wish to label:
 ```
 You can insert cross-references to labels in your file with the following syntax: {ref}`my-label-name`.
 
+
+## Representing The Turing Way
+
+We would LOVE people to give talks about the project or represent The Turing Way in other ways! 
+
+If you would like to do that please open an issue and ping @malvikasharan and @KirstieJane so
+that they can do their best to support you.
+
+We would appreciate if you could share your slides by adding them to the
+[conferences folder](/conferences) and some info in the [conferences README.md](/conferences/README.md).
+
+
+
 ## Recognising Contributions
 
 The Turing Way follows the [all-contributors][all-contributors] specification, so we welcome and recognise all contributions from documentation to testing to writing chapters.
