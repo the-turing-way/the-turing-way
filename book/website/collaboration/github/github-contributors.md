@@ -1,3 +1,4 @@
+(rr-github-contributors)=
 # Getting contributors
 
 Your project is likely to be better if what you create is used by others and they feed back their ideas for additional features or improvements.
