@@ -1,0 +1,19 @@
+name: Spellcheck
+
+on:
+  push:
+    paths:
+      - '**.md'
+  pull_request:
+    paths:
+      - '**.md'
+
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      name: Checkout repo
+
+    - name: Perform spellcheck
+      uses: UnicornGlobal/spellcheck-github-actions@master
