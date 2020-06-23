@@ -3,7 +3,7 @@
 With no intention of doing justice to the vast literature that there is on moral philosophy, we can take ethics to be the branch of philosophy that seeks to distinguish right behaviours from wrong behaviours, by defining is good and evil. 
 Any discussion about ethics can be long and complex. 
 Nowadays, philosophers speak of three levels of discussion ([Fieser, IEP](https://www.iep.utm.edu/ethics/)): metaethics, normative ethics and applied ethics. 
-Respectively, these refer to discussions about how different ethical theories compare, how one arrives to ethical principles, and how applies ethical considerations to specific situations. This chapter introduces the concept of ethics as applied to scientific research. 
+Respectively, these refer to discussions about how different ethical theories compare, how one arrives to ethical principles, and how one applies ethical considerations to specific situations. This chapter introduces the concept of ethics as applied to scientific research. 
 We will begin with why ethics matters to science. Then we discuss how ethical questions may come up throughout a project's life-cycle. 
 Finally, we share real examples of ethical dilemmas in research.
 
