@@ -34,7 +34,7 @@ Consider the following stages of a scientific project:
 5. Communication of results
 
 At each of these stages, one must make decisions. 
-The most intuitively driven by values might be the stage of idea generation: why does one specialise in a specific science? Why are certain questions more interesting to us? 
+Values may most intuitively play a role at the stage of idea generation. After all, why does one specialise in a specific science? And why are certain questions more interesting to us? 
 When possible, we try to carry out research based on our own experiences and curiosities. Idea generation may also be bound to the values of a funding body: what do they want to know and why?
 
 At the stage of data collection, we must choose what data and how to collect it: is it readily available? 
@@ -42,7 +42,7 @@ Might we need permission to use it? What assumptions underlie the collection met
 And then we must plan how to store it: who will have access? How will security be managed in the case of personal or otherwise sensitive information? 
 At the stage of analysis, assumptions can come into play again: how accurate and methodical do we need to be? 
 Which methodolgy works best given timescales and other resourcing constraints? 
-And then we communicate our results in ways which rely on others interpreting our own interpretations of the data.
+And then we must communicate our results, relying on others to interpret us correctly.
 
 Science is complex and heavily reliant on the knowledge and values of scientific communities. 
-We will elaborate on this later in section 4.
+We will elaborate on the role of values later in chapter 4.
