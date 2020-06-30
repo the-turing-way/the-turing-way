@@ -1,0 +1,269 @@
+# Each entry has the following schema:
+#
+# - title: mytitle   # Title of chapter or subchapter
+#   file: myfile  # filename relative to the  folder.
+#   sections:  # Contains a list of more entries that make up the chapter's subchapters
+#
+# Below are some special values that trigger specific behavior:
+# - header: My Header  # Will insert a header with no link in the sidebar
+
+# ===== Main Landing Page ========================================
+
+- file: welcome
+
+# ===== Reproducible Research Guide ========================================
+- file: reproducible-research/reproducible-research
+  sections:
+  - title: Overview
+    file: reproducible-research/overview
+    sections:
+    - title: Definitions
+      file: reproducible-research/overview/overview-definitions
+    - title: Added advantages
+      file: reproducible-research/overview/overview-benefit
+    - title: Resources
+      file: reproducible-research/overview/overview-resources
+  - title: Open Research
+    file: reproducible-research/open
+    sections:
+    - title: Open Data
+      file: reproducible-research/open/open-data
+    - title: Open Source
+      file: reproducible-research/open/open-source
+    - title: Open Hardware
+      file: reproducible-research/open/open-hardware
+    - title: Open Access
+      file: reproducible-research/open/open-access
+    - title: Open Notebooks
+      file: reproducible-research/open/open-notebooks
+    - title: Open Scholarship
+      file: reproducible-research/open/open-scholarship
+    - title: Resources of Open Research
+      file: reproducible-research/open/open-resources
+  - title: Version Control
+    file: reproducible-research/vcs
+    sections:
+    - title: General Workflow
+      file: reproducible-research/vcs/vcs-workflow
+    - title: Getting Started with Git
+      file: reproducible-research/vcs/vcs-git
+    - title: Git Commit Command
+      file: reproducible-research/vcs/vcs-git-commit
+    - title: Retrieving and Comparing Versions
+      file: reproducible-research/vcs/vcs-git-compare
+    - title: Git Branches
+      file: reproducible-research/vcs/vcs-git-branches
+    - title: Merging Branches in Git
+      file: reproducible-research/vcs/vcs-git-merge
+    - title: Git Commands to Work on GitHub
+      file: reproducible-research/vcs/vcs-github
+    - title: Summary Table of Git Commands
+      file: reproducible-research/vcs/vcs-git-summary
+    - title: Version Control for Data
+      file: reproducible-research/vcs/vcs-data
+    - title: Personal Stories
+      file: reproducible-research/vcs/vcs-personal-stories
+    - title: Checklist for Version Control
+      file: reproducible-research/vcs/vcs-checklist
+    - title: Resources for Version Control
+      file: reproducible-research/vcs/vcs-resources
+  - title: Licensing
+    file: reproducible-research/licensing
+    sections:
+    - title: Software licenses
+      file: reproducible-research/licensing/licensing-software
+    - title: Data licenses
+      file: reproducible-research/licensing/licensing-data
+  - title: Research Data Management
+    file: reproducible-research/rdm
+    sections:
+    - title: The FAIR principles and practices
+      file: reproducible-research/rdm/rdm-fair
+    - title: Storage and backup
+      file: reproducible-research/rdm/rdm-storage
+    - title: Data organisation in spreadsheets
+      file: reproducible-research/rdm/rdm-spreadsheets
+    - title: Documentation and metadata
+      file: reproducible-research/rdm/rdm-metadata
+    - title: Sharing and archiving data
+      file: reproducible-research/rdm/rdm-sharing
+    - title: Personal Stories
+      file: reproducible-research/rdm/rdm-stories
+    - title: Resources
+      file: reproducible-research/rdm/rdm-resources
+  - title: Reproducible Environments
+    file: reproducible-research/renv
+    sections:
+    - file: reproducible-research/renv/renv-options
+    - file: reproducible-research/renv/renv-package
+    - file: reproducible-research/renv/renv-yaml
+    - file: reproducible-research/renv/renv-binder
+    - file: reproducible-research/renv/renv-vm
+    - file: reproducible-research/renv/renv-containers
+    - file: reproducible-research/renv/renv-checklist
+    - file: reproducible-research/renv/renv-resources
+  - title: BinderHub
+    file: reproducible-research/binderhub
+    sections:
+    - title: Introduction to BinderHub
+      file: reproducible-research/binderhub/binderhub-introduction
+    - title: Compute Resources
+      file: reproducible-research/binderhub/binderhub-compute
+    - title: Build Your Own BinderHub
+      file: reproducible-research/binderhub/binderhub-build
+    - title: Resources for BinderHub
+      file: reproducible-research/binderhub/binderhub-resources
+  - title: Code quality
+    file: reproducible-research/code-quality
+    sections:
+    - title: Code Style and Formatting
+      file: reproducible-research/code-quality/code-quality-style
+    - title: Checklist and Resources
+      file: reproducible-research/code-quality/code-quality-resources
+  - title: Code Testing
+    file: reproducible-research/testing
+    sections:
+    - title: General guidance for testing
+      file: reproducible-research/testing/testing-guidance
+    - title: Types of tests
+      file: reproducible-research/testing/testing-types
+    - title: Challenges and exceptional cases
+      file: reproducible-research/testing/testing-exceptions
+    - title: Checklist for code testing
+      file: reproducible-research/testing/testing-checklist
+    - title: Resources for code testing
+      file: reproducible-research/testing/testing-resources
+  - title: Code Reviewing Process
+    file: reproducible-research/reviewing
+    sections:
+    - title: Motivation for code reviewing
+      file: reproducible-research/reviewing/reviewing-motivation
+    - title: Recommendations for code reviewing
+      file: reproducible-research/reviewing/reviewing-recommend
+    - title: Code review workflow
+      file: reproducible-research/reviewing/reviewing-workflow
+    - title: Checklist for code reviewing
+      file: reproducible-research/reviewing/reviewing-checklist
+    - title: Resources for code reviewing
+      file: reproducible-research/reviewing/reviewing-resources
+  - title: Continuous Integration
+    file: reproducible-research/ci
+    sections:
+    - title: Continuous integration options
+      file: reproducible-research/ci/ci-options
+    - title: Continuous integration with Travis
+      file: reproducible-research/ci/ci-travis
+    - title: Best practices and recommendations
+      file: reproducible-research/ci/ci-practices
+    - title: Checklist
+      file: reproducible-research/ci/ci-checklist
+    - title: Resources
+      file: reproducible-research/ci/ci-resources
+  - title: Reproducible Research with Make
+    file: reproducible-research/make
+    sections:
+    - title: Learn "Make" by examples
+      file: reproducible-research/make/make-examples
+    - title: Debugging Makefiles
+      file: reproducible-research/make/make-debugging
+    - title: Case Study of a Reproducible Paper
+      file: reproducible-research/make/make-casestudy
+    - title: Including numerical results and tables
+      file: reproducible-research/make/make-results
+    - title: Resources for "Make"
+      file: reproducible-research/make/make-resources
+  - title: Research Compendia
+    file: reproducible-research/compendia
+  - title: Credit for Reproducible Research
+    file: reproducible-research/credit
+  - title: Risk Assessment
+    file: reproducible-research/risk-assess
+    sections:
+    - title: Complexity and Impact of Risk Assessment
+      file: reproducible-research/risk-assess/risk-assess-impact
+    - title: Summary of Risk Assessment
+      file: reproducible-research/risk-assess/risk-assess-resources
+
+# ===== Project Design Guide ========================================
+
+- file: project-design/project-design
+  sections:
+  - title: File Naming Convention
+    file: project-design/filenaming
+
+# ===== Communication Guide ========================================
+
+- file: communication/communication
+  sections:
+  - title: Community Communications for Open Source Projects
+    file: communication/os-comms
+    sections:
+    - title: Issue Tracking
+      file: communication/os-comms/os-comms-issue-tracking
+    - title: Communication Channels
+      file: communication/os-comms/os-comms-channels
+    - title: Further Reading
+      file: communication/os-comms/os-comms-resources
+
+# ===== Collaboration Guide ========================================
+
+- file: collaboration/collaboration
+  sections:
+  - title: Collaborating on GitHub
+    file: collaboration/github-collaboration
+    sections:
+    - title: README and Project Communication
+      file: collaboration/github/github-readme
+    - title: Roadmapping
+      file: collaboration/github/github-roadmapping
+    - title: Getting Contributors
+      file: collaboration/github/github-contributors
+    - title:  Reviweing GitHub Contributions
+      file: collaboration/github/github-maintainers.md
+    - title: Checklist and resources
+      file: collaboration/github/github-resources
+  - title: Leadership in Data Science
+    file: collaboration/leadership
+    sections:
+    - title: Personal Stories of Leadership
+      file: collaboration/leadership/leadership-stories
+
+# ===== Ethical Research Guide ========================================
+- file: ethical-research/ethical-research
+  sections:
+  - title: Ethical Decisions in Preclinical Research
+    file: ethical-research/preclinical-research
+
+# ===== Community Handbook Guide ========================================
+
+- file: community-handbook/community-handbook
+  sections:
+  - title: Code of Conduct
+    file: community-handbook/coc
+    sections:
+    - title: Code of Conduct in Detail
+      file: community-handbook/coc/coc-details
+    - title: Incident Reporting Guideline
+      file: community-handbook/coc/coc-reporting
+    - title: Enforcement manual
+      file: community-handbook/coc/coc-enforcement
+    - title: Acnowledgements
+      file: community-handbook/coc/coc-acknowledgement
+  - title: The Turing Way Style Guide
+    file: community-handbook/style
+    sections:
+    - title: Citing and Referencing External Resources
+      file: community-handbook/style/style-citing
+    - title: Cross-referencing Sections and Chapters
+      file: community-handbook/style/style-crossref
+    - title: Using figures
+      file: community-handbook/style/style-figures
+
+# ===== Afterward Section ========================================
+
+- file: afterword/afterword
+  sections:
+  - title: Glossary
+    file: afterword/glossary
+  - title: Bibliography
+    file: afterword/bibliography
