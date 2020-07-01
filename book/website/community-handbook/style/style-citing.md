@@ -46,7 +46,11 @@ The key concepts are:
 - Include a reference using {cite}`CITEKEY`, where `CITEKEY` is the corresponding citation key in `references.bib`
 - You can also include multiple citations in one go by separating the CITEKEYs by a comma: {cite}`CITEKEY1,CITEKEY2,CITEKEY3`
 
-We will cite the article that we edit earlier in the `reference.bib` file using "{cite}`Kuula2010archiving`" that will appear in your chapter as {cite}`Kuula2010archiving`.
+We will cite the article that we edit earlier in the `reference.bib` file using:
+```
+{cite}`Kuula2010archiving`
+```
+This will appear in your chapter as {cite}`Kuula2010archiving`.
 
 The complete bibliography entry is available at the end of this book (see {ref}`resources <afterword-bibliography>`) using the directives:
 
