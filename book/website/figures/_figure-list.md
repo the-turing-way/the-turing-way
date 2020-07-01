@@ -10,7 +10,8 @@
 | binder_terminal            | Reproducible environments | Interacting with an example binder via a terminal |
 | cd_example                 | Reproducible environments | Example of result of using cd in a Dockerfile     |
 | change_stage_repo          | Version control           | Cartoon showing staging and committing changes    |
-| community                  | Introduction              | Illustration depicting Turing Way community       |
+| communication              | Communication handbook    | Illustration depicting communication network      |
+| community                  | Community Handbook        | Illustration depicting Turing Way community       |
 | container_example          | Reproducible environments | Demo of a simple container in terminal            |
 | docker_official_image      | Reproducible environments | The official ubuntu docker image with badge       |
 | eyeball_test_1             | Testing                   | Results tested by seeing if they 'look right'     |
