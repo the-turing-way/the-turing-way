@@ -342,6 +342,7 @@ You can build and host the book website locally. The steps are:
 2. You can now build or refresh the book using:
 
    ```
+   cd ./book/website
    jupyter-book build .
    ```
 
