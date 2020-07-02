@@ -45,7 +45,6 @@ launch_buttons:
 repository:
   url                       : https://github.com/alan-turing-institute/the-turing-way  # The URL to your book's repository
   path_to_book              : "book/website"  # A path to your book's folder, relative to the repository root.
-  branch                    : master  # Which branch of the repository should be used when creating links
 
 #######################################################################################
 # Advanced and power-user settings
@@ -54,3 +53,7 @@ sphinx:
   config                    : ""  # key-value pairs to directly over-ride the Sphinx configuration
 
 #######################################################################################
+# Interactivity features
+
+launch_buttons:
+  binderhub_url: "https://mybinder.org"

@@ -1,3 +1,4 @@
+(ch-persona-contributions)=
 ## Contribution types and pathways
 
 In the previous chapter, we discussed how someone might come in contact with _The Turing Way_ project.

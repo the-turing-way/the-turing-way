@@ -1,3 +1,4 @@
+(ch-persona)=
 # Personas & Pathways in _The Turing Way_
 
 Persona is a detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members.

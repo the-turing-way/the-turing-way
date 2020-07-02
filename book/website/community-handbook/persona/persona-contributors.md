@@ -1,7 +1,9 @@
-Personas are character sketches of fictional contributors and users based on real-world observations and understandings of actual potential.
-Persona is useful when paired with pathways, which captures how those contributors or users might interact with our project.
+(ch-persona-contributors)=
+## Contributor's personas and pathways
 
-The initial interaction and sustained engagement of personas in a project can be understood in different phases of community membership:
+In this document, we have created personas for _The Turing Way_ contributors and users based on their initial engagements with the project as a reader, learner, resource developer, reviewer and maintainer.
+
+The interaction with the project followed by the sustained engagements of personas in a project can be understood in different phases of community membership:
 
 1. Discovery - How they first hear about the project or group.
 2. First Contact - How they first engage with the project or group, their initial interaction.
@@ -10,10 +12,9 @@ The initial interaction and sustained engagement of personas in a project can be
 5. Networked Participation - How they may network within the community.
 6. Leadership - How they may take on some additional responsibility on the project, or begin to lead.
 
-In this document, we have created personas for _The Turing Way_ contributors and users based on their initial engagements with the project as a reader, learner, resource developer, reviewer and maintainer.
-These personas are outlined based on their GitHub skills and willingness to contribute to the project,
-We have also listed a few examples of how our personas might experience their first interactions with our project – the "pathway" they take to get involved.
-For each persona, we have highlighted how their interactions with the Turing Way can improve and enrich the project and community.
+We have created personas based on GitHub skills and willingness to contribute to the project.
+We have also listed a few examples of how our personas might experience their first interactions with our project and the "pathway" they take to get involved.
+For each persona, we highlight how their involvement with the Turing Way can improve and enrich the project and community.
 
 This document is meant to suggest ways you might interact with, learn from, and contribute to the Turing Way.
 We hope that one of these personas resonates with you and motivates you to get involved!
