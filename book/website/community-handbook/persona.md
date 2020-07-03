@@ -9,7 +9,7 @@ It is meaningful when paired with pathways through which these personas engage w
 
 *“Alone, we can do so little; together, we can do so much” – Helen Keller*
 
-| ![4 people with diverse appearances are talking to each other, sharing ideas directly with each other and also sharing on social media.](../../figures/Personas.png)|
+| ![4 people with diverse appearances are talking to each other, sharing ideas directly with each other and also sharing on social media.](../figures/Personas.png)|
 |--------------------------------|
 | People sharing their ideas through direct conversations and on social media. _The Turing Way_ project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3695300|
 

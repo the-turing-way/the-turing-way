@@ -12,7 +12,7 @@ No contribution is too small.
 These contributions can be (but not limited to) bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
 Please see the subchapter {ref}`ch-persona-contributions` for details.
 
-| ![Table with different emojis that is used by the contributors bot](../figures/allcontributorsbot-emoji.png) |
+| ![Table with different emojis that is used by the contributors bot](../../figures/allcontributorsbot-emoji.png) |
 |----------------------------------------------|
 | Emoji key table of the all contributors bot that _The Turing Way_ uses for acknowledging different contributions from the community members |
 
