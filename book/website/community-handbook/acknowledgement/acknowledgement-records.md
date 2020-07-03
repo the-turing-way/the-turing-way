@@ -107,4 +107,4 @@ The contributor's file will be updated for the contributors with a similar state
 Each contributor who represents _The Turing Way_ at an event is acknowledged in the Contributors table with the 📢 (`Talk`) emoji in the Contributors Table along with other contributions as applicable.
 
 Their contributions will be listed in the contributor's file with a similar statement as below:
-> * Pathways of contributions: `Contributor's name` has presented a talk at _The Turing Way_ at `event's name`. They have also `details like mentored multiple contributors within the community and have given talks at and event on behalf of the community.
+> * Pathways of contributions: `Contributor's name` has presented a talk at _The Turing Way_ at `event's name`. They have also `details like mentored multiple contributors within the community and have given talks at and event on behalf of the community`.
