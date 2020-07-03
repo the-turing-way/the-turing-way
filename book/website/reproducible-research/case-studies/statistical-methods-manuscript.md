@@ -80,7 +80,7 @@ and type
 ```
 snakemake -F --cores 1  manuscript
 ```
-This will execute all required steps in turn, i.e., first create all plots 
+This will execute all required steps in turn, namely: first create all plots 
 and then compiling the actual `latex/main.pdf` file from the LaTeX sources.
 All relevant configurations for binder ate located in `.binder`.
 
