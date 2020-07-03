@@ -1,5 +1,5 @@
 (ch-persona-contributors)=
-## Contributor's personas and pathways
+## Contributor's Personas and Pathways
 
 In this document, we have created personas for _The Turing Way_ contributors and users based on their initial engagements with the project as a reader, learner, resource developer, reviewer and maintainer.
 

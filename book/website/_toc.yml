@@ -246,7 +246,7 @@
       file: community-handbook/coc/coc-details
     - title: Incident Reporting Guideline
       file: community-handbook/coc/coc-reporting
-    - title: Enforcement manual
+    - title: Enforcement Manual
       file: community-handbook/coc/coc-enforcement
     - title: Acnowledgements
       file: community-handbook/coc/coc-acknowledgement
@@ -255,21 +255,21 @@
     sections:
     - title: Citing and Referencing External Resources
       file: community-handbook/style/style-citing
-    - title: Cross-referencing Sections and Chapters
+    - title: Cross-Referencing Sections and Chapters
       file: community-handbook/style/style-crossref
-    - title: Using figures
+    - title: Using Figures
       file: community-handbook/style/style-figures
   - title: The Turing Way Personas and Pathways
     file: community-handbook/persona
     sections:
-    - title: Contributors personas
+    - title: Contributors Personas
       file: community-handbook/persona/persona-contributors
-    - title: Contribution types and pathways
+    - title: Contribution Types and Pathways
       file: community-handbook/persona/persona-contributions
   - title: Acknowledging Contributors
     file: community-handbook/acknowledgement
     sections:
-    - title: Records of contributions
+    - title: Record of Contributions
       file: community-handbook/acknowledgement/acknowledgement-records
 
 # ===== Afterward Section ========================================
