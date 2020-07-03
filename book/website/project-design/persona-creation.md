@@ -47,7 +47,7 @@ Reflect on the age range, gender, location, and living situation of your persona
 
 For this section, you can continue using the random name generator website [behindthename.com](https://www.behindthename.com/random/) with the option "generate life story".
 
-## Section 3: Need
+## Section 3: Needs and Resources
 
 This section will reflect on the resources available to your persona to participate in your project or community online.
 This section defines your persona's needs and decisions they make, which you can sketch out by asking the following questions:
@@ -100,23 +100,24 @@ This section will reflect on the perceived barriers that your persona may face i
 - What could alienate your persona from this project?
 - What improvements can be introduced to help your persona overcome these barriers?
 
-## Section 8: Challenges in the project (headaches)
+## Section 8: Hurdles in the project (headaches)
 
-This section will reflect on the challenges and hurdles that your persona may encounter in regards to this project by asking the following questions:
+This section will reflect on the hurdles and issues that your persona may encounter in regards to this project by asking the following questions:
 
 - What challenges does your persona face when participating in this project?
-- In what situations your persona might encounter difficulties during their participation?
 - What are your persona's hurdles specific to this project?
 - How can your persona be supported in overcoming the challenges?
-- How can we surpass your persona's expectations?  How can we assist your persona in reaching their goals?
+- How can we surpass your persona's expectations?
 
-## Section 9: Challenges and fears
+## Section 9: Fears and personal issues
 
-This section will reflect on the challenges your persona may face while participating in your project or community online by asking the following questions:
+This section will reflect on fears and personal issuesyour persona may face while participating in your project or community online by asking the following questions:
 
 - Would your persona be able to participate for a long period of time?
-- What interruptions might face while participating in this project?
+- In what situations your persona might encounter difficulties during their participation?
+- What interruptions they might face while participating in this project?
 - What are the resources available to support your persona better (like funding or equipment)?
+- How can we assist your persona in reaching their goals?
 
 ## Putting this persona in a canvas
 
