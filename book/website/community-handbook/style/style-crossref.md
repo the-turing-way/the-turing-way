@@ -1,3 +1,4 @@
+(ch-style-crossref)=
 ### Cross-referencing within the book
 
 We recommend using the cross-referencing style as described in the [JupyterBook](https://jupyterbook.org/content/citations.html) for chapters or files, and different contents of chapters such as sections and figures.

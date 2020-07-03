@@ -22,9 +22,20 @@ As an open-source community, the project invites contributions from the experts 
 
 Everyone has a skill that is useful for someone, and therefore anyone can contribute to _The Turing Way_.
 
+<!---
 | ![A sketch of Kirstie saying “That could be a chapter”](../figures/ThatCouldBeAChapter.png) |
 |----------|
 | “That could be a chapter” - Kirstie Whitaker, _The Turing Way_ project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3695300 |
+--->
+
+```{figure} ../figures/ThatCouldBeAChapter.png
+---
+height: 400px
+name: ThatCouldBeAChapter
+alt: A sketch of Kirstie saying “That could be a chapter”
+---
+“That could be a chapter” - Kirstie Whitaker, _The Turing Way_ project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3695300
+```
 
 _The Turing Way_ core team values and promotes a culture of collaboration.
 In contrast to the traditional incentive structures in academia that discourage open collaboration, public engagement, and sharing of data early on, we promote collaborative work culture in _The Turing Way_.

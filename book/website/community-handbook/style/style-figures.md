@@ -52,5 +52,31 @@ All the components of your figure (image, alt text and title) can be encapsulate
 | ------------------------------------------------------------------------------------ |
 | _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. |
 ```
-
 **When you include a figure in a chapter you are writing, please add the details in the `book/content/figures` directory.**
+
+## Using figures that can be referenced
+
+The current version of Jupyterbook uses Markedly Structured Tex (MyST) that allows to include figures, which can be referenced in other chapters in a similar manner as defined in {ref}`ch-style-crossref`.
+
+There is another advantage of resizing your figures using the "height" (takes value in px, for example, 400px) or "scale" (takes value in percentage, for example, 50%) parameters, especially if your original image is large.
+
+To include a figure, use this pattern:
+
+````
+```{figure} ../figures/file-collection.jpg
+---
+height: 500px
+name: file-collection
+alt: Two people happily looking in a drawer of documents and looking at different files.
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
+```
+````
+
+This figure can be referred in other files using the {ref} role like:
+
+```
+{ref}`file-collection`
+```
+
+For more advanced parameters, please see the [JupyterBook Documentation](https://jupyterbook.org/content/figures.html).
