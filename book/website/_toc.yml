@@ -183,6 +183,11 @@
       file: reproducible-research/risk-assess/risk-assess-impact
     - title: Summary of Risk Assessment
       file: reproducible-research/risk-assess/risk-assess-resources
+  - title: Case Studies
+    file: reproducible-research/case-studies
+    sections:
+    - title: A Statistical Methods Manuscript
+      file: reproducible-research/case-studies/statistical-methods-manuscript
 
 # ===== Project Design Guide ========================================
 
