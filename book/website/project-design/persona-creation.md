@@ -1,4 +1,4 @@
-# Persona Development
+# Persona Development for a project
 
 Developing a persona for a project or community is a great way for people to think about who their stakeholders are, what their needs are from associating with a project, and how their needs could be met.
 Persona creation tools can allow team members to collaborate efficiently, develop a common understanding of who their target audience is, bring design principles into the project design, and create an empathetic pathway for engagement.

@@ -1,11 +1,11 @@
 (ch-persona)=
 # Personas & Pathways in _The Turing Way_
 
-Persona is a detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members.
-
-Persona is useful when paired with pathways, which captures how those contributors or users might interact with our project.
-
 As a community-driven and open source project, we are aware that each of our participants will have different backgrounds, different cultures, different time zones, different levels of skills and very different lived experiences.
+
+To understand and share how our contributors or users might interact with the project, we have created this chapter of _The Turing Way_'s persona and Pathway.
+Persona is a detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members.
+It is meaningful when paired with pathways through which these personas engage with a project.
 
 *“Alone, we can do so little; together, we can do so much” – Helen Keller*
 

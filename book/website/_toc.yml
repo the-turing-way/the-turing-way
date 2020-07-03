@@ -188,9 +188,10 @@
 
 - file: project-design/project-design
   sections:
+  - title: Persona Development for a project
+    file: project-design/persona-creation
   - title: File Naming Convention
     file: project-design/filenaming
-
 # ===== Communication Guide ========================================
 
 - file: communication/communication
