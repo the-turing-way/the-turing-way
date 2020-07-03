@@ -126,7 +126,7 @@ environment will change much less often than the contents of the repository.
 The use of CI thus facilitates checking contributions via pull requests for
 technical integrity and makes the respective latest version of the required container 
 available for direct download. 
-I.e., instead of building the container locally via repo2docker you could just 
+Instead of building the container locally via repo2docker you could thus just 
 download it directly and execute the workflow via 
 ```
 docker run -d --name mycontainer kkmann/sample-size-calculation-under-uncertainty
