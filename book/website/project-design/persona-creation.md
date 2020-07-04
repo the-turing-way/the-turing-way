@@ -6,7 +6,7 @@ Persona creation tools can allow team members to collaborate efficiently, develo
 
 | ![](../figures/persona-creation.png) |
 |-----------|
-| Persona Canvas by [DESIGNBETTERBUSINESS.COM](https://www.designabetterbusiness.tools/tools/persona-canvas) available under the CC By SA 4.0 license |
+| Persona Canvas by [DESIGNBETTERBUSINESS.COM](https://www.designabetterbusiness.tools/tools/persona-canvas) available under the CC-BY-SA 4.0 license |
 
 In this chapter, we have provided a simple guide that one can use for creating personas for their communities and projects.
 
@@ -119,11 +119,11 @@ This section will reflect on fears and personal issuesyour persona may face whil
 - What are the resources available to support your persona better (like funding or equipment)?
 - How can we assist your persona in reaching their goals?
 
-## Putting this persona in a canvas
+## Putting this together in a persona canvas
 
 The persona canvas can be used to assemble all your response in one place, share this tangible information of your mental model (abstract concepts from our thoughts) with your colleagues and create a common language to communicate about your community members, users, and contributors.
 
-The [https://www.designabetterbusiness.tools](https://www.designabetterbusiness.tools) have created multiple persona canvas (shown above) which are available for reuse under CC-BY ShareAlike 4.0 License, which can be downloaded [here](https://www.designabetterbusiness.tools/tools/persona-canvas).
+The [https://www.designabetterbusiness.tools](https://www.designabetterbusiness.tools) have created multiple persona canvas (one is shown in the figure above) which are available for reuse under CC-BY ShareAlike 4.0 License, which can be downloaded [here](https://www.designabetterbusiness.tools/tools/persona-canvas).
 
 ## Examples of personas in _The Turing Way_ community
 

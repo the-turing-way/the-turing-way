@@ -1,7 +1,11 @@
 (ch-acknowledgement-records)=
-# Record of Contributions
+# Records of Contributions
 
-Two documents are considered as the record of contributions in _The Turing Way_.
+We invite all our contributors to co-create these records to capture the important work they do around answering questions, representing the project, developing and maintaining the infrastructure, and all other nurturing roles that make The Turing Way community so special.
+These records can be used for highlighting skills that our members have gained and shared through their involvement in _The Turing Way_.
+These records of contributions can be directly translated towards professional development of our community members that can be further used for enhancing their personal or profession portfolio (profile, CV, resume).
+
+Two documents are considered as the records of contributions in _The Turing Way_.
 
 ## 1. Contributors Table
 

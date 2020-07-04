@@ -269,7 +269,9 @@
   - title: Acknowledging Contributors
     file: community-handbook/acknowledgement
     sections:
-    - title: Record of Contributions
+    - title: Community Members and Shared Ownership
+      file: community-handbook/acknowledgement/acknowledgement-members
+    - title: Records of Contributions
       file: community-handbook/acknowledgement/acknowledgement-records
 
 # ===== Afterward Section ========================================
