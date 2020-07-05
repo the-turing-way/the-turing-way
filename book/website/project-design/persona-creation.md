@@ -1,27 +1,30 @@
 (pd-persona-creation)=
 # Persona Development for a Project
 
-Developing a persona for a project or community is a great way for people to think about who their stakeholders are, what their needs are from associating with a project, and how their needs could be met.
-Persona creation tools can allow team members to collaborate efficiently, develop a common understanding of who their target audience is, bring design principles into the project design, and create an empathetic pathway for engagement.
+Persona development for a project or community is a great way for recognising of who the stakeholders of that project are, why would they associate what the project, what their needs are and how those needs could be met.
+Persona creation tools can allow team members to collaborate efficiently with each other other, develop a common understanding of their target audience and bring design principles into their work while ultimately creating an empathetic pathway for engagement.
 
-| ![](../figures/persona-creation.png) |
-|-----------|
-| Persona Canvas by [DESIGNBETTERBUSINESS.COM](https://www.designabetterbusiness.tools/tools/persona-canvas) available under the CC-BY-SA 4.0 license |
+In this chapter, we have provide a simple step by step guide that one can use for creating different personas for their communities and projects.
+Those personas will be then useful in enhancing the pathways those personas engage with your project.
 
-In this chapter, we have provided a simple guide that one can use for creating personas for their communities and projects.
+## Step-by-step guide for building a persona 
 
-## Section 1: Name and Role
+### Section 1: Name and Role
 
 Start by giving your persona a real name and real role with the help of some assumed professional skills.
 This will help you anchor them in reality.
 You can use the random name generator website [behindthename.com](https://www.behindthename.com/random/) to create diverse names.
 
-## Section 2: Background and demography
+| ![](../figures/persona-creation.png) |
+|-----------|
+| Persona Canvas by [DESIGNBETTERBUSINESS.COM](https://www.designabetterbusiness.tools/tools/persona-canvas) available under the CC-BY-SA 4.0 license |
+
+### Section 2: Background and demography
 
 This section is to create an image of your persona.
 Be aware of your own biases in terms of how you imagine your persona looks like based on their name or assumed gender.
 
-### Section 2.1: Background
+#### Section 2.1: Background
 
 Reflect on the job, career, education, and family aspect of your persona by answering the following questions:
 
@@ -32,7 +35,7 @@ Reflect on the job, career, education, and family aspect of your persona by answ
 - What is your persona's social environment like?
   - Some options: neutral, favorable, supportive, non-supportive, financially challenging, distracting, politically challenging.
 
-### Section 2.2: Demography
+#### Section 2.2: Demography
 
 Reflect on the age range, gender, location, and living situation of your persona by answering the following questions:
 
@@ -47,7 +50,7 @@ Reflect on the age range, gender, location, and living situation of your persona
 
 For this section, you can continue using the random name generator website [behindthename.com](https://www.behindthename.com/random/) with the option "generate life story".
 
-## Section 3: Needs and Resources
+### Section 3: Needs and Resources
 
 This section will reflect on the resources available to your persona to participate in your project or community online.
 This section defines your persona's needs and decisions they make, which you can sketch out by asking the following questions:
@@ -60,7 +63,7 @@ This section defines your persona's needs and decisions they make, which you can
   - This may look like a list of tasks with approximate time and skill requirements.
 - What else can influence your persona's decisions on a day-to-day basis?  
 
-## Section 4: Persona Profile (positive trends)
+### Section 4: Persona Profile (positive trends)
 
 This section will reflect on the hobbies, interests, and things your persona enjoys doing on a regular basis.
 This can be approached with an intention to understand what makes your persona's experience positive.
@@ -72,7 +75,7 @@ You can sketch out this information by answering the following questions:
   - Some options: by email, mailing list or forums, Twitter, Facebook, Slack, Gitter, newsletters, website or community repository
 - What keeps your persona motivated on a typical day?
 
-## Section 5: Resources and opportunities
+### Section 5: Resources and opportunities
 
 This section will reflect on the resources available to your persona to participate in this project by asking the following questions:
 
@@ -80,7 +83,7 @@ This section will reflect on the resources available to your persona to particip
 - Are there funding or skill-building opportunity that your persona can share more widely.
 - What other resources does your persona need to fully participate with?
 
-## Section 6: Hopes and dreams
+### Section 6: Hopes and dreams
 
 This section will reflect on the expectations, goals, and emotions of your persona in regards to this project by asking the following questions:
 
@@ -90,7 +93,7 @@ This section will reflect on the expectations, goals, and emotions of your perso
 - What could inspire your persona at the project?
 - How will your persona know that their goal has been achieved?
 
-## Section 7: Perceived Barriers (negative trends)
+### Section 7: Perceived Barriers (negative trends)
 
 This section will reflect on the perceived barriers that your persona may face in regards to this project by asking the following questions:
 
@@ -100,7 +103,7 @@ This section will reflect on the perceived barriers that your persona may face i
 - What could alienate your persona from this project?
 - What improvements can be introduced to help your persona overcome these barriers?
 
-## Section 8: Hurdles in the project (headaches)
+### Section 8: Hurdles in the project (headaches)
 
 This section will reflect on the hurdles and issues that your persona may encounter in regards to this project by asking the following questions:
 
@@ -109,7 +112,7 @@ This section will reflect on the hurdles and issues that your persona may encoun
 - How can your persona be supported in overcoming the challenges?
 - How can we surpass your persona's expectations?
 
-## Section 9: Fears and personal issues
+### Section 9: Fears and personal issues
 
 This section will reflect on fears and personal issuesyour persona may face while participating in your project or community online by asking the following questions:
 
