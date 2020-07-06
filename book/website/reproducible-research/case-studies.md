@@ -17,5 +17,5 @@ to open an issue at [issues].
 ## How this will help you/ why this is useful
 
 Learning by example can be an effective way to learn new concepts. 
-Maybe you can start your personal Turing Way by adapting one of the examples 
+Maybe you can start your personal project by adapting one of the examples 
 to your needs?
