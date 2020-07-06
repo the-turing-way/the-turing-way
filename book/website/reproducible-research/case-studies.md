@@ -4,8 +4,8 @@
 ## Prerequisites / recommended skill level
 
 This chapter assumes familiarity with several topics covered in this [Guide to Reproducible Research]. 
-The actually required skills depend on the case study since not all examples
-make use of all methods covered in the guide to reproducible research.
+Since not all examples will demonstrate the use of the same combinations of methods covered in this guide, the prerequisite and skill level will vary across the case studies.
+Therefore, we recommend the authors to indicate those skills for each case study separately.
 
 ## Summary
 
