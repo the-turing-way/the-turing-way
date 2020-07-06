@@ -108,15 +108,16 @@ to explore the repository locally.
 
 ## Use of cntinuous integration
 
-Although not absolutely necessary from a reproducibility perspective,
-the repository also makes use of continuous integration (CE, see {ref}`rr:ci`)
+Although not absolutely necessary for the reproducibility of this manuscript,
+the repository also makes use of continuous integration ({ref}`CI <rr:ci>`)
 via [GitHub actions](https://github.com/features/actions).
-GitHub actions are similar in sprit to {ref}`rr:ci:travis` but the runners are
+GitHub actions are similar in spirit to {ref}`rr-ci-travis` but the runners are
 provided directly via GitHub.
-The repository defines two workflows in `.github/workflows`.
+
+The repository defines two workflows in `.github/workflows` directory.
 The first one, [`.github/workflows/build_and_run.yml`](https://github.com/kkmann/sample-size-calculation-under-uncertainty/blob/master/.github/workflows/build_and_run.yml),
-is activated whenever the master branch of the repository is updated and the specifications ins `.binder` are changed,
-builds the container, pushes it to a public container repository [docker hub](https://hub.docker.com/repository/docker/kkmann/sample-size-calculation-under-uncertainty) and then checks that the snakemake workflow runs through without problems.
+is activated whenever the master branch of the repository is updated and the specifications in `.binder` is changed.
+This builds the container, pushes it to a public container repository [docker hub](https://hub.docker.com/repository/docker/kkmann/sample-size-calculation-under-uncertainty) and then checks that the snakemake workflow runs through without problems.
 The second one, [`.github/workflows/run.yml`](https://github.com/kkmann/sample-size-calculation-under-uncertainty/blob/master/.github/workflows/run.yml),
 runs when `.binder` was not changed and uses the prebuild docker container
 to run the snakemake workflow.
