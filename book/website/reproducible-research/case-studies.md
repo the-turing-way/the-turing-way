@@ -3,7 +3,7 @@
 
 ## Prerequisites / recommended skill level
 
-This chapter assumes familiarity with several topics covered in this {ref}`rr`. 
+This chapter assumes familiarity with several topics covered in this {ref}`rr`.
 Since not all examples will demonstrate the use of the same combinations of methods covered in this guide, the prerequisite and skill level will vary across the case studies.
 Therefore, we recommend the authors to indicate those skills for each case study separately.
 
@@ -12,7 +12,7 @@ Therefore, we recommend the authors to indicate those skills for each case study
 In this chapter, a selection of case studies is presented that can be used to
 see how reproducible research methods are used in practice and applied across fields.
 If you think that you might have an example to contribute yourself, feel free
-to open an issue at [issues].
+to open an issue at [here](https://github.com/alan-turing-institute/the-turing-way/issues).
 
 ## How this will help you/ why this is useful
 
