@@ -149,6 +149,8 @@
   - title: Continuous Integration
     file: reproducible-research/ci
     sections:
+    - title: Continuous integration options
+      file: reproducible-research/ci/ci-options
     - title: Continuous integration with Travis
       file: reproducible-research/ci/ci-travis
     - title: Best practices and recommendations
@@ -216,6 +218,8 @@
       file: collaboration/github/github-roadmapping
     - title: Getting Contributors
       file: collaboration/github/github-contributors
+    - title:  Reviweing GitHub Contributions
+      file: collaboration/github/github-maintainers.md
     - title: Checklist and resources
       file: collaboration/github/github-resources
   - title: Leadership in Data Science

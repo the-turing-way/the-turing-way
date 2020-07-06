@@ -9,6 +9,7 @@
 
 Recommended skill level: intermediate
 
+(rr-make-summary)=
 ## Summary
 
 A data science or research project can be seen as a tree of dependencies: the
@@ -22,7 +23,7 @@ analysis pipeline.  We also describe a real-world reproducible research
 project that uses Make to go from the raw input data to the experiments all
 the way to the pdf file of the paper!
 
-![Schematic of a research project](../../figures/make_research_dag.png)
+![Schematic of a research project](../figures/make_research_dag.png)
 <small style="margin: 5pt auto; text-align: center; display: block;">A
 schematic for a research project that uses LaTeX.</small>
 
@@ -35,8 +36,8 @@ Makefile that contains the *rules* for what to build. Make builds *targets*
 using *recipes*.  Targets can optionally have *prerequisites*.  Prerequisites
 can be files on your computer or other targets. Make determines what to build
 based on the dependency tree of the targets and prerequisites (technically,
-this is a [directed acyclic graph](#directed-acyclic-graph)).  It uses the
-*modification time* of prerequisites to update targets only when needed.
+this is a {ref}`rr-make-resources-dag`). It uses the *modification time* of 
+prerequisites to update targets only when needed.
 
 ### Why use Make for Reproducibility?
 

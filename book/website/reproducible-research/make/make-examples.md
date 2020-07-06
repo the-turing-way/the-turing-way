@@ -2,25 +2,23 @@
 
 ## Table of contents
 
-- [Setting up](#setting-up)
-- [Makefile no. 1 (The Basics)](#makefile-no-1-the-basics)
-- [Makefile no. 2 (all and clean)](#makefile-no-2-all-and-clean)
-- [Makefile no. 3 (Phony Targets)](#makefile-no-3-phony-targets)
-- [Makefile no. 4 (Automatic Variables and Pattern Rules)](#makefile-no-4-automatic-variables-and-pattern-rules)
-- [Makefile no. 5 (Wildcards and Path Substitution)](#makefile-no-5-wildcards-and-path-substitution)
-- [Debugging Makefiles](#debugging-makefiles)
+- [Makefiles](#makefiles)
+  - [Setting up](#setting-up)
+  - [Makefile no. 1 (The Basics)](#makefile-no-1-the-basics)
+  - [Makefile no. 2 (all and clean)](#makefile-no-2-all-and-clean)
+  - [Makefile no. 3 (Phony Targets)](#makefile-no-3-phony-targets)
+  - [Makefile no. 4 (Automatic Variables and Pattern Rules)](#makefile-no-4-automatic-variables-and-pattern-rules)
+  - [Makefile no. 5 (Wildcards and Path Substitution)](#makefile-no-5-wildcards-and-path-substitution)
 
 ## Makefiles
 
-One of the things that might discourahe off from using Make is that existing
-Makefiles can seem daunting and it may seem difficult to tailor to your own
-needs.  
-In this hands-on tutorial we will iteratively construct a Makefile for
-a real data analysis project.
-The idea is to explain different features of
-Make by iterating through several versions of a Makefile for this project.
-Hopefully the experience that you gain from this tutorial allows you to create
-Makefiles for your own projects.
+One of the things that might discourage someone from using Make is that 
+existing Makefiles can look quite complex, and it might seem difficult to 
+tailor one to your own needs. In this hands-on tutorial we will create a 
+Makefile from scratch for a real data analysis project. The idea is to explain 
+different features of Make by iterating through several versions of a Makefile 
+for this project. Hopefully the experience that you gain from this tutorial 
+allows you to create Makefiles for your own projects.
 
 We will create a ``Makefile`` for a data analysis pipeline. The task is as
 follows:
@@ -78,8 +76,8 @@ $ pip install matplotlib numpy
 ```
 
 You will also need a working version of ``pdflatex`` and, of course, ``make``.
-For installation instructions for Make, see [the installation instructions
-below](#installing-make).
+For installation instructions for Make, see 
+{ref}`rr-make-resources-installing`.
 
 ### Makefile no. 1 (The Basics)
 
@@ -157,8 +155,8 @@ This is what the dependency tree looks like for this Makefile:
 ![DAG for Makefile no. 1](../../figures/makefile_no_1.png)
 <small style="margin: 5pt auto; text-align: center; display: block;">The
 dependency graph for our first Makefile, created using
-[makefile2graph](#tools). Notice the similarity to the figure at the
-top!</small>
+[makefile2graph](https://github.com/lindenb/makefile2graph). Notice the 
+similarity to the figure {ref}`in the introduction<rr-make-summary>`!</small>
 
 
 ### Makefile no. 2 (all and clean)
@@ -268,9 +266,10 @@ Variables](https://www.gnu.org/software/make/manual/html_node/Automatic-Variable
 and [Pattern
 Rules](https://www.gnu.org/software/make/manual/html_node/Pattern-Rules.html#Pattern-Rules).
 
-<a name="automatic_var">
+(rr-make-examples-automaticvar)=
+#### Automatic Variables.
 
-**Automatic Variables.** With automatic variables we can use the names of the
+With automatic variables we can use the names of the
 prerequisites and targets in the recipe. Here's how we would do that for the
 figure rules:
 
@@ -305,9 +304,10 @@ the beginning (*first* prerequisite), and you can remember ``$@`` (dollar
 There are more automatic variables that you could use, see [the
 documentation](https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html).
 
-<a name="pattern_rules">
+(rr-make-examples-patternrules)=
+#### Pattern Rules 
 
-**Pattern Rules.** Notice that the recipes for the figures have become
+Notice that the recipes for the figures have become
 identical!  Because we don't like to repeat ourselves, we can combine the two
 rules into a single rule by using *pattern rules*. Pattern rules allow you to
 use the ``%`` symbol as a wildcard and combine the two rules into one:

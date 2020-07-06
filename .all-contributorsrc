@@ -406,7 +406,8 @@
       "profile": "https://kkmann.github.io/",
       "contributions": [
         "doc",
-        "ideas"
+        "ideas",
+        "bug"
       ]
     },
     {
@@ -1340,7 +1341,8 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/42498900?v=4",
       "profile": "https://srishti-nema.github.io/",
       "contributions": [
-        "bug"
+        "bug",
+        "content"
       ]
     },
     {
@@ -1621,7 +1623,8 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/8834882?v=4",
       "profile": "https://ornithos.github.io/",
       "contributions": [
-        "tutorial"
+        "tutorial",
+        "review"
       ]
     }
   ],

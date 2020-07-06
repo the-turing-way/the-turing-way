@@ -40,6 +40,7 @@ Been here before? Already know what you're looking for in this guide? Jump to th
     - [Adding a new reference](#adding-a-new-reference)
     - [Citation key style guide](#citation-key-style-guide)
   - [Adding links between pages within the book](#adding-links-between-pages-within-the-book)
+- [Representing The Turing Way](#representing-the-turing-way)
 - [Recognising Contributions](#recognising-contributions)
 
 ## Joining the community
@@ -341,6 +342,7 @@ You can build and host the book website locally. The steps are:
 2. You can now build or refresh the book using:
 
    ```
+   cd ./book/website
    jupyter-book build .
    ```
 
@@ -526,6 +528,19 @@ To add a label, use the following pattern before the element you wish to label:
 # The thing that I want to label
 ```
 You can insert cross-references to labels in your file with the following syntax: {ref}`my-label-name`.
+
+
+## Representing The Turing Way
+
+We would LOVE people to give talks about the project or represent The Turing Way in other ways! 
+
+If you would like to do that please open an issue and ping @malvikasharan and @KirstieJane so
+that they can do their best to support you.
+
+We would appreciate if you could share your slides by adding them to the
+[conferences folder](/conferences) and some info in the [conferences README.md](/conferences/README.md).
+
+
 
 ## Recognising Contributions
 
