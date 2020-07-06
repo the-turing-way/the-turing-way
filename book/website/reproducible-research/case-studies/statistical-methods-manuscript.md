@@ -102,7 +102,7 @@ and  build a docker container from the configuration files in `.binder/` via
 jupyter-repo2docker -E .
 ```
 The container is started automatically after the build completes and you can
-use the usual Jupyter interface in you browser (via the link printed by repo2docker)
+use the usual Jupyter interface in your browser (via the link printed by repo2docker)
 to explore the repository locally.
 
 
