@@ -1,8 +1,8 @@
 (rr:cs:statistical-methods-manuscript)=
-## A Statistical Methods Manuscript
+# A Statistical Methods Manuscript
 
 
-### Version control
+## Version control
 
 The git repository 
 [https://github.com/kkmann/sample-size-calculation-under-uncertainty](https://github.com/kkmann/sample-size-calculation-under-uncertainty)
@@ -13,7 +13,7 @@ For an in-depth explanation of the importanc eof version control for
 reproducible research, see {ref}`rr-vcs`.
 
 
-### Research data management
+## Research data management
 
 In this particular case, 
 {ref}`rr-rdm` data management aspects are not an issue since the 
@@ -35,7 +35,7 @@ A dedicated [Jupyter notebook](https://jupyter.org/)
 descriptions is provided to that end. 
 
 
-### Reproducible software environment
+## Reproducible software environment
 
 Although this means that all code required to compile the manuscript from scratch
 is available,
@@ -67,7 +67,7 @@ some of the points discussed in the manuscript and requires no familiarity with
 programming at all.
 
 
-### Workflow management via snakemake
+## Workflow management via snakemake
 
 Since Jupyterlab also allows to open a shell in the repository instance opended
 via a binder link, 
@@ -86,7 +86,7 @@ All relevant configurations for binder ate located in `.binder`.
 
 
 
-### Support for local instantiation of the software environment
+## Support for local instantiation of the software environment
 
 The python package repo2docker can also be used locally to reproduce the exact 
 same computing environment.
@@ -107,7 +107,7 @@ use the usual Jupyter interface in you browser (via the link printed by repo2doc
 to explore the repository locally.
 
 
-### Use of cntinuous integration
+## Use of cntinuous integration
 
 Although not absolutely necessary from a reproducibility perspective,
 the repository also makes use of continuous integration (CE, see {ref}`rr:ci`)
@@ -135,7 +135,7 @@ docker exec --name mycontainer /
 ```
 
 
-### Long term archiving and citeability
+## Long term archiving and citeability
 
 The GitHub repository is also linked with [zenodo.org]() to ensure long-term
 archinving, see {ref}`rr:credit:make-software-citeable`. 
