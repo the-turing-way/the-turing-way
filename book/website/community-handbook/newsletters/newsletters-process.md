@@ -19,7 +19,7 @@ Link to the issue for next month can be published in your most recent newsletter
 
 There are several ways to start a draft:
 
-1. Create a new branch of _The Turing Way_ [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/) within the appropriate directory (explained in the next subchapter on {ref}`newsletter style guide <ch-newsletters-style>``
+1. Create a new branch of _The Turing Way_ [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/) within the appropriate directory (explained in the next subchapter on {ref}`newsletter style guide <ch-newsletters-style>`
 
 You can work on this GitHub branch locally or online through a pull request (PR).
 If working online, please keep the draft mode on for your PR and add "[WIP]" (work in progress) in the title.
@@ -50,7 +50,7 @@ The newsletter should focus more on the contributing and new members, and highli
 
 ### Collect images associated with the news item**
 
-Following the recommendations on `{ref} style guide for community<ch-style-guide>` and `{ref} style guide for newsletters<ch-newsletters-style>` for using images, collect a few (zero to maximum 2 per section) images.
+Following the recommendations on `{ref}style guide for community<ch-style-guide>` and `{ref}style guide for newsletters<ch-newsletters-style>` for using images, collect a few (zero to maximum 2 per section) images.
 Make sure that these images are available under a free license (like CC-BY), collected with the link of their sources, and named clearly as suggested in the style guide.
 
 For the twitter mentions, there is no set number limit but recommended to use maximum 6 tweets, edited together in one image (explained in the newsletter style guide).
