@@ -50,7 +50,7 @@ The newsletter should focus more on the contributing and new members, and highli
 
 ### Collect images associated with the news item**
 
-Following the recommendations on `{ref}style guide for community<ch-style-guide>` and `{ref}style guide for newsletters<ch-newsletters-style>` for using images, collect a few (zero to maximum 2 per section) images.
+Following the recommendations on {ref}`style guide for community<ch-style-guide>` and {ref}`style guide for newsletters<ch-newsletters-style>` for using images, collect a few (zero to maximum 2 per section) images.
 Make sure that these images are available under a free license (like CC-BY), collected with the link of their sources, and named clearly as suggested in the style guide.
 
 For the twitter mentions, there is no set number limit but recommended to use maximum 6 tweets, edited together in one image (explained in the newsletter style guide).
