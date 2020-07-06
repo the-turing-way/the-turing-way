@@ -46,7 +46,7 @@ Find more details on these topics below 👇
 - [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 - [Gitter chat room](https://gitter.im/alan-turing-institute/the-turing-way)
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
-- [Twitter channel](https://twitter.com/turingway)
+- [Twitter account](https://twitter.com/turingway)
 
 You are welcome to contribute content for the next newsletter by
 emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).

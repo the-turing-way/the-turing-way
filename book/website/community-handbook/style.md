@@ -1,3 +1,4 @@
+(ch-style-guide)=
 # Style Guide
 
 To ensure that the book can be read easily by everyone, including screen readers and non-native english speakers, we have compiled a set of guideline to keep a consistent style across all chapters of the book.
