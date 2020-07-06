@@ -42,14 +42,14 @@ Note, that the formatting will be retained, so we can split each sentence to a n
 
 ### Avoid Latin Abbreviation
 
-Please do not use latin abbreviations like `e.g., i.e. or etc.`.
+Please do not use latin abbreviations like ```e.g., i.e. or etc.```.
 See the [Gov.uk recommendations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#eg-etc-and-ie) for details.
 
-Instead of `eg.`, which can sometimes read aloud as ‘egg’ by screen reading software, please use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.
+Instead of ```e.g.```, which can sometimes read aloud as ‘egg’ by screen reading software, please use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.
 
-Instead of `etc.` at the end of a list, please start the list name with words like ‘for example’ or ‘such as’ or ‘like’ or ‘including’.
+Instead of ```etc.``` at the end of a list, please start the list name with words like ‘for example’ or ‘such as’ or ‘like’ or ‘including’.
 
-Instead of `ie.` that is often used to clarify a sentence, try (re)writing sentences to avoid the need to use it.
+Instead of ```i.e.``` that is often used to clarify a sentence, try (re)writing sentences to avoid the need to use it.
 If that is not possible, use an alternative such as ‘meaning’ or ‘that is’.
 
 ### Auto-formatting

@@ -15,12 +15,12 @@ A newsletter illustration. A dpated from the _The Turing Way_ project illustrati
 ```
 
 The main motivations to draft these newsletters are following:
-1. Reflect on our (team and community) project goals and any important milstones achieved in last month
+1. Reflect on the team's and community's project goals and any important milstones achieved in last month
 2. Highlight and celebrate ongoing work and notable efforts of the community members and document them
 3. Share about any upcoming events and opportunities for our members
 4. Maintain ongoing connections with the subscribed members
 
-Currently, Malvika Sharan, community leader, drafts these newsletters that are proofread and published by Kirstie Whitaker.
+Currently, Malvika Sharan, community manager, drafts these newsletters that are proofread and published by Kirstie Whitaker, project lead.
 Some of our earlier newsletters have been written in published by Patricia Heterich and Kirstie Whitaker.
 
 In this chapter, we share the process we have established in _The Turing Way_ for collecting newsletter items, drafting the newsletter, documentating any additional updates supplemented by community members and publishing them through TinyLetter.
