@@ -258,6 +258,15 @@
       file: community-handbook/style/style-crossref
     - title: Using figures
       file: community-handbook/style/style-figures
+  - title: The Turing Way Newsletters
+    file: community-handbook/newsletters
+    sections:
+    - title: A Process of Creating a newsletter
+      file: community-handbook/newsletters/newsletters-process
+    - title: Newsletter Style Guide
+      file: community-handbook/newsletters/newsletters-style
+    - title: The Turing Way Newsletter Template
+      file: community-handbook/newsletters/newsletters-template
 
 # ===== Afterward Section ========================================
 

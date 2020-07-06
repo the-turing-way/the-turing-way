@@ -1,6 +1,6 @@
-# Process of drafting a newsletter
+# A Process of Creating a newsletter
 
-This document provides the process of newsletter drafting and publication in a step-by-step format.
+This document provides the process of newsletter drafting, reviweing and publication in a step-by-step format.
 Though written for _The Turing way_, these steps can be adapted for documenting newsletter for any project.
 
 We only suggest using these recommendations as guides.

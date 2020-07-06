@@ -1,5 +1,5 @@
 (ch-newsletters-style)=
-# Newsletter Style guide
+# Newsletter Style Guide
 
 In the previous subchapter, we described the process of drafting, reviewing and publishing _The Turing Way_'s monthly newsletters.
 
@@ -33,7 +33,7 @@ In this document, we have listed some guidelines to maintain consistency across 
     - Ask more than one person to review your draft to make sure that its content is clearly written.
     - If using content from a language or culture different from your own, ask people with that language or culture to review your draft to make sure that contents are not misrepresented.
 - **Use of emojis**: It is encouraged to use emoji (*show your personality*) 😇, but keep it simple, neutral and positive.
-    - Be aware that that ambiguous emojis can be misinterpreted by different readers. 
+    - Be aware that that ambiguous emojis can be misinterpreted by different readers.
     - When in doubt, ask someone to review your draft.
 - **Use of images**: Only use relevant images linked to the news item in the newsletter.
     - Make sure that the images are available under CC-BY license or approved to be reused by the owners.

@@ -1,4 +1,4 @@
-# Newsletters in _The Turing Way_
+# _The Turing Way_ Newsletters
 
 _The Turing Way_ team release newsletters every month (on the third week) to share monthly update with the community and beyond.
 These newsletter include event announcements, updates from the project, celebrations in the community, useful resources for new and existing contributors, promotion of any ongoing efforts, impact stories of long standing members and shout outs to relevant other online activities.
