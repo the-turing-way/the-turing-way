@@ -60,11 +60,20 @@ Headers names should be chosen with care, and when it is not perfectly clear wha
 
 You do not have to think about the order of the columns for the analysis, as it has no importance for data analysis software. You can therefore completely optimise that parameter for the data collection step.
 
-## Accepted values
 
-Especially if you work with a team on data collection, it is very important to make sure everyone will enter the same information with the same term. If we take the example above, if some people use "bluish" instead of blue, the analysis of the data will be more difficult. Discrpencies might lead to errors, for instance if the same terms could mean different things depending on who is entering the data. Dates are again a very good example as 02-03 will mean Febrary third in the USA, but March third in Europe.
+
+
+### Accepted values
+
+Especially if you work with a team on data collection, it is very important to make sure everyone will enter the same information with the same term. If we take the example above, if some people use "bluish", or "b" instead of blue, the analysis of the data will be more difficult. Discrpencies might lead to errors, expecially if the same terms could mean different things depending on who is entering the data. Dates are again a very good example as 02-03 will mean February the third in the USA, but March the second in Europe.
 
 **Critical: make sure you use dots for decimal.** or make sure to document that you used commas, that all spreadsheets are using the same convention. This is particulary important in Europe where commas are normally used for decimal, meaning .csv export will need quotes for each number cell to be importable. If you are using excel in a team, be sure to all use the same version, as the default decimal value may change.
+
+Finally, restricting values in specific columns (linking spreadsheets with taxonomies or ontologies) can be very useful. There are specific tools to help people fill such columns, as well as tools to validate the spreadsheets before integration in the analysis.
+
+### Standard and versioning
+
+A good spreadsheet design has instructive and intuitive header names, and it facilitate both data collection and analysis. Building such a spreadsheet design is difficult, takes time, iteration and consensus. It is therefore very useful to look for standard spreadsheet before designing your own, and share your design openly once you created yours. One should also use a version history of the spreadsheets (as they will evolve over time) and analysis script should mention the version number of the spreadsheet. A documentation of the spreadsheet, its version history, and the ontologies it is linked to, can be useful for future users. 
 
 ## Data manipulation and analysis
 
@@ -90,11 +99,21 @@ The following principles, provide some practical advice to ensure your data is c
 - Use data validation to avoid data entry mistakes
 - Save the data in text files (such as `.csv` - comma-separated values) to ensure interoperability with other software programmes.
 
+### Working in team wrap-up
+
+If you are working with a team on data collection, make sure:
+- everyone is using the same software (and software version) to enter the data.
+- everyone is using the same version of the spreadsheet template.
+- everyone understand what each column represents, and the unit that should be used.
+- every column has a defined standard on how to enter data in it, or a taxonomy of terms that one can use.
+- One person is responsible to answer putative questions during data collection.
+- every spreadsheet is validated before entering the analysis workflow, and as soon as possible.
+
 ## Summary
 
-While spreadsheet can be a very user friendly way to collect and share data, they can be the source of mistakes if used inappropriately. When aiming at doing reproducible analyses, one should design the spreadsheet for computer-readability and easy data analysis before starting data collection. Data manipulation and analysis in spreadsheets, in particular, is best avoided as it can lead to non-reproducible workflows. Using version control and making the data read-only are two additional data management practices that can prevent accidents.
+While spreadsheet can be a very user friendly way to collect and share data, they can be the source of mistakes if used inappropriately. When aiming at doing reproducible analyses, one should design the spreadsheet for computer-readability and easy data analysis before starting data collection. Data manipulation and analysis in spreadsheets, in particular, is best avoided as it lead to non-reproducible workflows. Using version control and making the data read-only are two additional data management practices that can prevent accidents.
 
 
-You can explain the file (and spreadsheet headers) naming convention in a README texte file, so that it will also become clear to others what the file names mean. If you work in team, you should take particular care to the rules and make sure everyone is following them. 
+Use a README texte file to explain naming conventions on top of the spreadsheet desing choices, so that it will also become clear to others what the file names mean. If you work in team, you should take particular care to the rules and make sure everyone is following them. 
 
-To learn more about data organisation in spreadsheets, have a look at the Data Carpentry lessons for [Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/) and [Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
+To learn more about data organisation in spreadsheets, you may have a look at the Data Carpentry lessons for [Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/) and [Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
