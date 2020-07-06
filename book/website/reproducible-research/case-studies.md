@@ -9,9 +9,9 @@ Therefore, we recommend the authors to indicate those skills for each case study
 
 ## Summary
 
-In this chapter a selection of case studies is presented that can be used to 
-see how reproducible research methods can be used in practice. 
-If you think that you might have an exampel to contribute yourself, feel free
+In this chapter, a selection of case studies is presented that can be used to 
+see how reproducible research methods are used in practice and applied across fields. 
+If you think that you might have an example to contribute yourself, feel free
 to open an issue at [issues].
 
 ## How this will help you/ why this is useful
