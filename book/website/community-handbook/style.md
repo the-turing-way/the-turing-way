@@ -47,9 +47,15 @@ See the [Gov.uk recommendations](https://www.gov.uk/guidance/style-guide/a-to-z-
 
 Some of these abbreviations are:
 
-![an image with a list of 3 latin abbreviations](../figures/latin-abbreviation.png)
+```{figure} ../figures/latin-abbreviation.png
+---
+height: 400px
+name: latin-abbreviation
+alt: an image with a list of 3 latin abbreviations
+---
 A list of latin abbreviations for *exempli gratia* (for example), *et-cetera* (so on), and *id est* (that is).
 Screenshot of part of the [list of Common Latin Abbreviations for APA Style](https://blog.apastyle.org/files/apa-latin-abbreviations-table-2.pdf).
+```
 
 Instead of the first abbreviation in the table for *exempli gratia*, which can sometimes read aloud as ‘egg’ by screen reading software, please use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.
 
