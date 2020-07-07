@@ -1,5 +1,5 @@
 (ch-newsletters-style)=
-# Newsletter Style Guide
+# Newsletter's Style Guide
 
 In the previous subchapter, we described the process of drafting, reviewing and publishing _The Turing Way_'s monthly newsletters.
 
@@ -30,7 +30,7 @@ In this document, we have listed some guidelines to maintain consistency across 
 - **Language and tone**: Keep the overall language simple and jargon-free, see [_The Turing Way_ style guide](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#style-guide) for reference.
     - The tone should be welcoming, friendly and preferably informal.
     This can be personal to the author's writing style.
-    - Ask more than one person to review your draft to make sure that its content is clearly written.
+    - Ask more than one person to review your draft to make sure that its content is easy to understand and written clearly.
     - If using content from a language or culture different from your own, ask people with that language or culture to review your draft to make sure that contents are not misrepresented.
 - **Use of emojis**: It is encouraged to use emoji (*show your personality*) 😇, but keep it simple, neutral and positive.
     - Be aware that that ambiguous emojis can be misinterpreted by different readers.

@@ -44,7 +44,7 @@ Find more details on these topics below 👇
 - [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
 - [_The Turing Way_ book](https://the-turing-way.netlify.com)
 - [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
-- [Gitter chat room](https://gitter.im/alan-turing-institute/the-turing-way)
+- [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way)
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
 - [Twitter account](https://twitter.com/turingway)
 
