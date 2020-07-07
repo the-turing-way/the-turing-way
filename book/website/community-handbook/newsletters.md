@@ -3,7 +3,7 @@
 _The Turing Way_ team releases newsletters every month to share monthly updates with the community and beyond.
 These newsletters include event announcements, updates from the project, highlights from the community, useful resources for new and existing contributors, promotion of any ongoing efforts, impact stories of long-standing members and shout outs to relevant online activities.
 
-While we send our newsletters by email to our subscribed members, we simultaneously publish an archive them [online on TinyLetter](https://tinyletter.com/TuringWay/archive) so that anyone outside the community can also learn about the project.
+While we send our newsletters by email to our subscribed members, we simultaneously publish and archive them [online on TinyLetter](https://tinyletter.com/TuringWay/archive) so that anyone outside the community can also learn about the project.
 
 ```{figure} ../figures/scriberia-newsletter.png
 ---
