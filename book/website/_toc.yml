@@ -257,13 +257,6 @@
       file: community-handbook/style/style-crossref
     - title: Using Figures
       file: community-handbook/style/style-figures
-  - title: The Turing Way Personas and Pathways
-    file: community-handbook/persona
-    sections:
-    - title: Contributors Personas
-      file: community-handbook/persona/persona-contributors
-    - title: Contribution Types and Pathways
-      file: community-handbook/persona/persona-contributions
   - title: Acknowledging Contributors
     file: community-handbook/acknowledgement
     sections:
