@@ -21,5 +21,5 @@ Make sure that you invite perspectives from your members who can help you mainta
 For example, when making recommendations based on the selected dataset for health care related research, think if they will apply to different geographic conditions, such as both developed and developing countries.
 If not, consider what you should change, and who you can invite to help improve your project.
 
-If crucial voices and viewpoints are missing in your project, how can you invite them in? Talk to an expert (clinician, epidemiologist etc) if you are not one yourself.
+If crucial voices and viewpoints are missing in your project, how can you invite them in? Talk to an expert (such as clinician, epidemiologist, community lead, and communication officer) if you are not one yourself.
 Always remember that different stakeholders can introduce new but critical and often unexpected viewpoints and help you avoid incorrect or ineffective assumptions.
