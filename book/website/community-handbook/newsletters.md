@@ -21,6 +21,6 @@ The main motivations to draft these newsletters are the following:
 4. Maintain ongoing connections with the subscribed members
 
 Currently, Malvika Sharan, community manager, drafts these newsletters that are proofread and published by Kirstie Whitaker, project lead.
-Some of our earlier newsletters have been written in published by Patricia Heterich and Kirstie Whitaker.
+Newsletters published before September 2020 have been written by Patricia Heterich and Kirstie Whitaker.
 
 In this chapter, we share the process we have established in _The Turing Way_ for collecting newsletter items, drafting the newsletter, documenting any additional updates supplemented by community members and publishing them through TinyLetter.
