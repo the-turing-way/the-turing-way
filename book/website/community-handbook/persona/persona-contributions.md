@@ -179,7 +179,7 @@ After leaving NNAII, Abby has designed and written a new chapter in her own time
 **Acknowledgement:** She is acknowledged in the Contributors table with the 💵 (`finance`) emoji.
 Kadie was asked if she would like to be an author on the most recent release of _The Turing Way_ book but declined as she did not personally feel that she had contributed enough to be named as an author.
 
-**4.** *Contributing member from the organisation with sustained engagement*: Patty works in a National Library and her employers have approved her to host their resources as chapters in The Turing Way.
+**4.** *Contributing member from the organisation with sustained engagement*: Patty works in a National Library and her employers have approved her to host their resources as chapters in _The Turing Way_.
 Patty has developed materials, contributed to the community discussions and reviewed other's pull requests on the GitHub repository.
 
 **Acknowledgement:** Patty will be listed in the Contributors Table with a 🤔 (`idea`), 🖋  (`content`) and 👀 (`review`) emoji.
