@@ -14,7 +14,7 @@ The interaction with the project followed by the sustained engagements of person
 
 We have created personas based on GitHub skills and willingness to contribute to the project.
 We have also listed a few examples of how our personas might experience their first interactions with our project and the "pathway" they take to get involved.
-For each persona, we highlight how their involvement with the Turing Way can improve and enrich the project and community.
+For each persona, we highlight how their involvement with _The Turing Way_ can improve and enrich the project and community.
 
 This document is meant to suggest ways you might interact with, learn from, and contribute to the Turing Way.
 We hope that one of these personas resonates with you and motivates you to get involved!
