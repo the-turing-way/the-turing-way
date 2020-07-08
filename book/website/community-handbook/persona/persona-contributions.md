@@ -163,7 +163,7 @@ These efforts are highly encouraged to ensure the sustainability of their resour
 #### Personas & Pathways:
 
 **1.** *Organisation*: The Narnia National AI Institute (NNAII) have agreed to share their internal guidance on communicating safe and ethical artificial intelligence to _The Turing Way_.
-The chapters were written by a team of people within NNAII and converted into pull requests that fit The Turing Way style guide.
+The chapters were written by a team of people within NNAII and converted into pull requests that fit _The Turing Way_ style guide.
 Each individual from the team is listed as a contributor in the Contributors Table with a 🖋 (`content`) emoji or other relevant contributions they have made.
 
 **Acknowledgement:** The NNAII is acknowledged as a "Collaborating organisation" in the `CONTRIBUTORS` file with detailed contributions from each of their members involved in this project.
