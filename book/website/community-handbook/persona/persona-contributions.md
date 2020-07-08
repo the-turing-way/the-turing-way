@@ -167,12 +167,12 @@ These efforts are highly encouraged to ensure the sustainability of their resour
 The chapters were written by a team of people within NNAII and converted into pull requests that fit _The Turing Way_ style guide.
 Each individual from the team is listed as a contributor in the Contributors Table with a 🖋 (`content`) emoji or other relevant contributions they have made.
 
-**Acknowledgement:** The NNAII is acknowledged as a "Collaborating organisation" in the `CONTRIBUTORS` file with detailed contributions from each of their members involved in this project.
+**Acknowledgement:** The NNAII is acknowledged as a "Collaborating organisation" in the {ref}`the record of contributions<ch-acknowledgement-records>` with detailed contributions from each of their members involved in this project.
 
 **2.** *Contributing member from the organisation*: Abby is one of the members of the NNAII who contributed to the guidance before she left to join a non-profit last year.
 After leaving NNAII, Abby has designed and written a new chapter in her own time.
 
-**Acknowledgement:** In addition to her previous acknowledgments, she will be acknowledged with a 🖋  (`content`) and 🤔 (`idea`) emoji in the Contributors Table and her list of contributions in the `CONTRIBUTORS` file will develop independently of the NNAII.
+**Acknowledgement:** In addition to her previous acknowledgments, she will be acknowledged with a 🖋  (`content`) and 🤔 (`idea`) emoji in the Contributors Table and her {ref}`the record of contributions<ch-acknowledgement-records>` will develop independently of the NNAII.
 
 **3.** *Supporting (indirect contributor) members from the organisation*: Kadie is a programme director at the NNAII who manages the team that wrote the guidance that has been incorporated into _The Turing Way_.
 
@@ -232,7 +232,6 @@ She worked with Noah to practice his presentation in advance of the talk.
 Noah's slides are available under a CC-BY license and are linked from a page in the community handbook.
 
 **Acknowledgement:** They are acknowledged in the Contributors table with the 🔊 (`Talk`), 🚧 , 👀 (`review`), 🤔 (`idea`) and 💬 (`question`) emoji and they will be named as an author on the next release of the book. 
-There is a section of the `CONTRIBUTORS` file saying:
 
 ### Training, workshops or community events
 
