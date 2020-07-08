@@ -75,11 +75,11 @@ You can sketch out this information by answering the following questions:
   - Some options: by email, mailing list or forums, Twitter, Facebook, Slack, Gitter, newsletters, website or community repository
 - What keeps your persona motivated on a typical day?
 
-### Section 5: Resources and opportunities
+### Section 5: Provisions and opportunities
 
-This section will reflect on the resources available to your persona to participate in this project by asking the following questions:
+This section will reflect on the provisions available to your persona to participate in this project by asking the following questions:
 
-- What resource can you offer your persona to participate in the project?
+- What equipment or support can you offer your persona to participate in the project?
 - Are there funding or skill-building opportunity that your persona can share more widely.
 - What other resources does your persona need to fully participate with?
 
