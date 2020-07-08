@@ -113,7 +113,7 @@ She submitted her contribution as a pull request to the Turing Way and responded
 
 ### Accessibility
 
-**Overview:** Contributors reporting or working on accessibility issues.
+Contributors reporting or working on accessibility issues.
 
 #### Personas & Pathways:
 
