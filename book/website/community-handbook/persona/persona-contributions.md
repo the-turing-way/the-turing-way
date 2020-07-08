@@ -118,6 +118,7 @@ She submitted her contribution as a pull request to the Turing Way and responded
 #### Personas & Pathways:
 
 **1.** Endre wrote a script to make sure that _The Turing Way_ book is properly readable for low vision readers.
+
 **Acknowledgement:** This will be acknowledged with ♿️ (`ally`) emoji  in the Contributors Table along with 💻 (`code`) emoji.
 
 **2.** Rajmund wrote chapters on the community participation in the Collaboration guide that discusses the accessibility aspects of working in a research team.
