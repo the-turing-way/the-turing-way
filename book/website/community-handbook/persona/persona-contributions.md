@@ -190,7 +190,7 @@ Maintenance work in _The Turing Way_ applies to the multiple aspects, some of wh
 - conversations in community spaces such as Gitter, GitHub issues, or Twitter
 - the technical infrastructure of the GitHub repository, associated GitHub bots, scripts and continuous integration pipeline
 - online hosting platforms of Jupyter book and Netlify
-- translation infrastructure of Transifex.
+- translation infrastructure of Transifex
 
 #### Personas & Pathways:
 
