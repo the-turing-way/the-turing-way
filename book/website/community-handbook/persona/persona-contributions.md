@@ -207,7 +207,7 @@ She reviews pull requests from others working to make the process of contributin
 
 **Acknowledgement:** She is acknowledged in the Contributors table with 🚇 (`infra`) and 🚧 (`maintenance`) emoji .
 
-**4.** *Maintaining project infrastructure and mentoring other*: Anthony has set up the infrastructure and process for managing translation of The Turing Way into multiple languages.
+**4.** *Maintaining project infrastructure and mentoring other*: Anthony has set up the infrastructure and process for managing translation of _The Turing Way_ into multiple languages.
 They support new translators by answering their questions related to the translation process.
 
 **Acknowledgement:** They are acknowledged with 🤔 (`idea`), 🚇 (`infra`) and 🚧 (`maintenance`) emoji .
