@@ -3,7 +3,7 @@
 
 *A permanent document exists in the HackMD: [https://hackmd.io/@KirstieJane/CollabCafe](https://hackmd.io/@KirstieJane/CollabCafe) that is regularly updated with the empty template for next event.*
 
-## _Turing Way_ online Collaboration Cafe | DATE MONTH YEAR
+## _The Turing Way_ online Collaboration Cafe | DATE MONTH YEAR
 
 Thank you for joining the _Turing Way_'s online Collaboration Cafe!
 We're delighted to have you here :coffee: :sparkles: :cake:

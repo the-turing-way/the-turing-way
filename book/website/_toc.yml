@@ -267,11 +267,14 @@
       file: community-handbook/coworking/coworking-collabcafe
     - title: Daily Coworking Calls
       file: community-handbook/coworking/coworking-daily
-      sections:
-      - title: Collaboration Cafe Call Template
-        file: community-handbook/coworking/coworking-collabcafe-template
-      - title: Daily Coworking Call Template
-        file: community-handbook/coworking/coworking-daily-template
+  - title: Templates for the Coworking Call Notes
+    file: community-handbook/coworking/coworking-call-templates
+    sections:
+    - title: Online Collaboration Cafe Templates
+      file: community-handbook/coworking/coworking-collabcafe-template
+    - title: Daily Coworking Call Template
+      file: community-handbook/coworking/coworking-daily-template
+
 
 # ===== Afterward Section ========================================
 
