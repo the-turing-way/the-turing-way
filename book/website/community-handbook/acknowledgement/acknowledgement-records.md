@@ -82,7 +82,7 @@ Contributors who participate in the translation process will be acknowledged in 
 The contributor's file will be updated for the contributors with a similar statement as below:
 > * Pathways of contributions: `Contributor's name` has translated part of the chapter `chapter name` into `language`. They have also `details like designed and implemented a process to translate the book into multiple languages, mentored multiple contributors within the community and has translated 3 chapters of The Turing Way into Chinese`.
 
-### Organisational support
+#### Organisational support
 
 *When members participate in _The Turing Way_ community with the in-kind support of their funders and organisation, we acknowledge each member individually and list their organisations as "Collaborating organisations".
 Such organisational supports are applicable when one or multiple members from a project or community collaborate to build resources in _The Turing Way_.*
