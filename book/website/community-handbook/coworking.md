@@ -7,7 +7,7 @@ We bring this practice to _The Turing Way_ online coworking calls intending to d
 
 ```{figure} ../figures/coworking.png
 ---
-height: 400px
+height: 300px
 name: coworking
 alt: An illustration of a group of people who are working together and discussing something
 ---
