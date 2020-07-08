@@ -104,7 +104,7 @@ Contributors will be acknowledged in the Contributors table with the 💬
 The contributor's file will be updated for the contributors with a similar statement as below:
 > * Pathways of contributions: `Contributor's name` has `details like responded to questions in the community's Gitter channel, mentored multiple contributors within the community and has reviewed pull requests to fix typos in the book, maintains the backend infrastructure of the project, provide support and solution regarding Jupyter book and continuous integration, designed and implemented a process to translate the book into multiple languages, helped multiple contributors in facilitating translation efforts`.  
 
-### Representing the Turing Way
+#### Representing the Turing Way
 
 *Anyone who shares _The Turing Way_ resources in any relevant publication, learning material, conference presentations, or community event are acknowledged for representing _The Turing Way_.*
 
