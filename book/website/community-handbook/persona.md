@@ -17,7 +17,7 @@ alt: 4 people with diverse appearances are talking to each other, sharing ideas 
 ---
 People sharing their ideas through direct conversations and on social media. _The Turing Way_ project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3695300
 ```
-Persona is a detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members.
+A persona is a detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members.
 It is meaningful when paired with pathways through which these personas engage with a project.
 
 To understand how our contributors or users might interact with _The Turing Way_, we have developed some personas and pathways that we are sharing in this chapter.
