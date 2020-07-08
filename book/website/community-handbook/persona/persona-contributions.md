@@ -6,7 +6,7 @@ In the previous chapter, we discussed how someone might come in contact with _Th
 Below, we will explore the different types of contributions that exist within _The Turing Way_.
 Those contributions are described with the possible pathways that personas will use to make their contributions.
 
-Each contributor of _The Turing Way_ is a recognised as a community member and their contributions are acknowledged fairly in this project.
+Each contributor of _The Turing Way_ is recognised as a community member and their contributions are acknowledged fairly in this project.
 The [Contributors](https://github.com/alan-turing-institute/the-turing-way#contributors) section in the [README](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file is updated with every contributor's name using [all contributors bot](https://allcontributors.org/) [emoji keys](https://allcontributors.org/docs/en/emoji-key) to reflect the different types of contributions they have made.
 
 In this chapter, we have also discussed this practice by listing how each persona will be acknowledged in _The Turing Way_ for their work.
