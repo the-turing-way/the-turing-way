@@ -9,7 +9,7 @@ Two documents are considered as the records of contributions in _The Turing Way_
 
 ## 1. Contributors Table
 
-The [Contributors](https://github.com/alan-turing-institute/the-turing-way#contributors) section in [README](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file is updated with every contributor's name using [all contributors bot](https://allcontributors.org/) with their [emoji keys](https://allcontributors.org/docs/en/emoji-key).
+The [Contributors](https://github.com/alan-turing-institute/the-turing-way#contributors) section in [README](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file is updated with every contributor's name using the [all contributors bot](https://allcontributors.org/) with their [emoji keys](https://allcontributors.org/docs/en/emoji-key).
 
 This emoji key is used for recording and fairly acknowledging the different types of contributions our community members have made.
 No contribution is too small.
