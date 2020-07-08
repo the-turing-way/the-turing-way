@@ -5,9 +5,14 @@ This allows people, who otherwise may feel isolated while working alone at home,
 
 We bring this practice to _The Turing Way_ online coworking calls intending to develop a sense of energy and inspiration of in-person interactions, without the time and travel commitments.
 
-| ![An illustration of a group of people who are working together and discussing something](../figures/coworking.png) |
-|-----------------------------------|
-|An illustration of a group coworking. [Royalty free image from Many Pixels](https://www.manypixels.co/gallery/)|
+```{figure} ../figures/coworking.png
+---
+height: 400px
+name: coworking
+alt: An illustration of a group of people who are working together and discussing something
+---
+An illustration of a group coworking. [Royalty free image from Many Pixels](https://www.manypixels.co/gallery/)
+```
 
 _The Turing Way_ community is distributed around the world.
 Our members are from diverse backgrounds, different skills and interests, working many different jobs, and contribute to this project for a great variety of reasons.
