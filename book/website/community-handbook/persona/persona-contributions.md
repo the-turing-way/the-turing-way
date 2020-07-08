@@ -94,6 +94,7 @@ He started writing the chapter at a Turing Way Book Dash event, based on an idea
 He responded to review comments and iteratively improved the chapter until the pull request was merged.
 
 **Acknowledgement:** He is acknowledged in the Contributors table with a 👀 (`review`), 🤔 (`idea`) and 🖋 (`content`) emoji.
+He is also named as an author on the last release of the book.
 
 **2.** *Reviewing and making chapter contribution*: Sia recently learned about _The Turing Way_ project and started contributing by reviewing a pull request for the chapter "Setting expectations across academia and industry".
 She offered some critical suggestions and engaged in helpful discussions with the author to help them improve their contribution.
