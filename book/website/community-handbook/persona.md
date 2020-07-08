@@ -20,7 +20,7 @@ People sharing their ideas through direct conversations and on social media. _Th
 Persona is a detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members.
 It is meaningful when paired with pathways through which these personas engage with a project.
 
-To understand how our contributors or users might interact with _The Turing way_, we have developed some personas and Pathways that we are sharing in this chapter.
+To understand how our contributors or users might interact with _The Turing Way_, we have developed some personas and pathways that we are sharing in this chapter.
 They aims to capture different personas of the community members to explore how they come in touch with this project, how they continue to engage and how can we take their experiences and expectations into account when planning our community aspects.
 
 If you would like to use this tool for your project, visit our chapter on {ref}`Persona Creation <pd-persona-creation>`.
