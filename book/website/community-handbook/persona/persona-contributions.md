@@ -194,7 +194,7 @@ Maintenance work in _The Turing Way_ applies to the multiple aspects, some of wh
 
 #### Personas & Pathways:
 
-**1.** *Maintaining community interactions*: Neve has helped two contributors on two individual occasions by responding to a question on the Turing Way Gitter channel and a question on one of the issues in the Turing Way GitHub repository.
+**1.** *Maintaining community interactions*: Neve has helped two contributors on two individual occasions by responding to a question on the Turing Way Gitter channel and a question on one of the issues in _The Turing Way_ GitHub repository.
 
 **Acknowledgement:** He is acknowledged in the Contributors table with the 💬 (`question`) and 🤔 (`idea`) emoji.
 
