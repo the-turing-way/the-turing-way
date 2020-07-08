@@ -231,7 +231,8 @@ In March 2020, Kirstie - lead developer of _The Turing Way_ - recommended Noah a
 She worked with Noah to practice his presentation in advance of the talk.
 Noah's slides are available under a CC-BY license and are linked from a page in the community handbook.
 
-**Acknowledgement:** They are acknowledged in the Contributors table with the 🔊 (`Talk`), 🚧 , 👀 (`review`), 🤔 (`idea`) and 💬 (`question`) emoji and they will be named as an author on the next release of the book. There is a section of the `CONTRIBUTORS` file saying:
+**Acknowledgement:** They are acknowledged in the Contributors table with the 🔊 (`Talk`), 🚧 , 👀 (`review`), 🤔 (`idea`) and 💬 (`question`) emoji and they will be named as an author on the next release of the book. 
+There is a section of the `CONTRIBUTORS` file saying:
 
 ### Training, workshops or community events
 
