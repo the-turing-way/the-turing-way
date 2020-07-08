@@ -274,7 +274,7 @@ Contributors writing about _The Turing Way_ in articles, blogs, or other online 
 
 ### Videos and recordings
 
-**Overview:** We encourage creating video content or animations, record online interactive discussions or link any relevant videos our contributors may have created in the past that can be used as a learning tool and enhance the quality of _The Turing Way_ content.
+We encourage creating video content or animations, record online interactive discussions or link any relevant videos our contributors may have created in the past that can be used as a learning tool and enhance the quality of _The Turing Way_ content.
 
 #### Personas & Pathways:
 
