@@ -74,7 +74,7 @@ Noor is a final-year PhD student who has their dissertation deadline coming up.
 They are feeling the pressure of needing to write up the results of their research but finding it easy to procrastinate.
 They are confident that their research has taught them some particular considerations for reproducible environments, but they are slightly intimidated by the expertise of other people in their field, and they are considering their future after their PhD.
 
-1. **Discovery** - Noor comes across the Turing Way when they're surfing Twitter while trying to write up their research.
+1. **Discovery** - Noor comes across _The Turing Way_ when they're surfing Twitter while trying to write up their research.
 2. **First Contact** - They read the chapter that's relevant to their research and then continue working on their dissertation.
 3. **Participation** - Later, Noor returns to _The Turing Way_ and makes some suggestions and edits to that chapter.
 4. **Sustained Participation** - They return to the repo periodically to read feedback on their commits and make additional comments, restricted to the one chapter they feel they know about.
