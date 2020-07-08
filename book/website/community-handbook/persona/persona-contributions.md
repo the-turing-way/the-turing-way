@@ -137,7 +137,7 @@ The translation infrastructure as of May 2020 is [Trasifex](https://www.transife
 
 #### Personas & Pathways:
 
-**1.** *Translating resources*: Anika has translated 3 paragraphs of the version control chapter into Swedish following the standard process defined in The Turing Way repository.
+**1.** *Translating resources*: Anika has translated 3 paragraphs of the version control chapter into Swedish following the standard process defined in _The Turing Way_ repository.
 
 **Acknowledgement:** She is acknowledged in the Contributors table with the 🌍 (`translation`) emoji.
 
