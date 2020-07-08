@@ -226,7 +226,7 @@ Their slides are available under a CC-BY license and are requested to be linked 
 
 **Acknowledgement:** They are acknowledged in the Contributors table with the 🔊 (`Talk`) emoji.
 
-**2.** *Giving a talk on _The Turing Way_*: Noah is a long time contributor to The Turing Way, they answer questions and review pull requests regularly.
+**2.** *Giving a talk on _The Turing Way_*: Noah is a long time contributor to _The Turing Way_, they answer questions and review pull requests regularly.
 In March 2020, Kirstie - lead developer of _The Turing Way_ - recommended Noah as a suggested speaker to give a talk about the Project Design section of _The Turing Way_ at a conference on open source community management.
 She worked with Noah to practice his presentation in advance of the talk.
 Noah's slides are available under a CC-BY license and are linked from a page in the community handbook.
