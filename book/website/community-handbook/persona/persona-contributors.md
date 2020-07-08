@@ -76,7 +76,7 @@ They are confident that their research has taught them some particular considera
 
 1. **Discovery** - Noor comes across the Turing Way when they're surfing Twitter while trying to write up their research.
 2. **First Contact** - They read the chapter that's relevant to their research and then continue working on their dissertation.
-3. **Participation** - Later, Noor returns to the Turing Way and makes some suggestions and edits to that chapter.
+3. **Participation** - Later, Noor returns to _The Turing Way_ and makes some suggestions and edits to that chapter.
 4. **Sustained Participation** - They return to the repo periodically to read feedback on their commits and make additional comments, restricted to the one chapter they feel they know about.
 5. **Networked Participation** - Noor tweets a link to the Turing Way during a conversation about reproducible research and retweets a response from another expert which leads to a longer conversation.
 6. **Leadership** - After submitting their PhD, and unsure what they want to do next, Noor volunteers to co-ordinate further research into the chapter by reaching out to experts in the space.
