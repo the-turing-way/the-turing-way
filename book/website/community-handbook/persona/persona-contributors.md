@@ -61,7 +61,7 @@ They are always looking for opportunities to share their expertise, particularly
 They are very keen to collaborate with people and to volunteer their time for collaboration projects.
 They like seeing their work make an impact and are keen to know about the eventual result of their collaborations.
 
-1. **Discovery** - Amal finds out about the Turing Way book from the Twitter feed of experts in reproducible research who they follow.
+1. **Discovery** - Amal finds out about _The Turing Way_ book from the Twitter feed of experts in reproducible research who they follow.
 2. **First Contact** - Amal navigates to the GitHub repository and reads the content there over a couple of days. While reading, they make notes on areas they could add to from their research.
 3. **Participation** - They compile their work into a chapter format and submit it to the repo.
 4. **Sustained Participation** - Amal checks back frequently to look at feedback on their chapter and respond to it. In their spare time, they make suggestions and edits on other chapters.
