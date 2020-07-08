@@ -3,7 +3,7 @@
 
 We invite all our contributors to co-create these records to capture the important work they do around answering questions, representing the project, developing and maintaining the infrastructure, and all other nurturing roles that make The Turing Way community so special.
 These records can be used for highlighting skills that our members have gained and shared through their involvement in _The Turing Way_.
-These records of contributions can be directly translated towards professional development of our community members that can be further used for enhancing their personal or profession portfolio (profile, CV, resume).
+These records of contributions can be directly translated towards the professional development of our community members, which can be further used for enhancing their personal or professional portfolio (profile, CV, resume).
 
 Two documents are considered as the records of contributions in _The Turing Way_.
 
