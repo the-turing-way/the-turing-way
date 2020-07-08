@@ -174,7 +174,7 @@ After leaving NNAII, Abby has designed and written a new chapter in her own time
 
 **Acknowledgement:** In addition to her previous acknowledgments, she will be acknowledged with a 🖋  (`content`) and 🤔 (`idea`) emoji in the Contributors Table and her list of contributions in the `CONTRIBUTORS` file will develop independently of the NNAII.
 
-**3.** *Supporting (indirect contributor) members from the organisation*: Kadie is a programme director at the NNAII who manages the team that wrote the guidance that has been incorporated into The Turing Way.
+**3.** *Supporting (indirect contributor) members from the organisation*: Kadie is a programme director at the NNAII who manages the team that wrote the guidance that has been incorporated into _The Turing Way_.
 
 **Acknowledgement:** She is acknowledged in the Contributors table with the 💵 (`finance`) emoji.
 Kadie was asked if she would like to be an author on the most recent release of the Turing Way book but declined as she did not personally feel that she had contributed enough to be named as an author.
