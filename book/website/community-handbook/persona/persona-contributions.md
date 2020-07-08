@@ -177,7 +177,7 @@ After leaving NNAII, Abby has designed and written a new chapter in her own time
 **3.** *Supporting (indirect contributor) members from the organisation*: Kadie is a programme director at the NNAII who manages the team that wrote the guidance that has been incorporated into _The Turing Way_.
 
 **Acknowledgement:** She is acknowledged in the Contributors table with the 💵 (`finance`) emoji.
-Kadie was asked if she would like to be an author on the most recent release of the Turing Way book but declined as she did not personally feel that she had contributed enough to be named as an author.
+Kadie was asked if she would like to be an author on the most recent release of _The Turing Way_ book but declined as she did not personally feel that she had contributed enough to be named as an author.
 
 **4.** *Contributing member from the organisation with sustained engagement*: Patty works in a National Library and her employers have approved her to host their resources as chapters in The Turing Way.
 Patty has developed materials, contributed to the community discussions and reviewed other's pull requests on the GitHub repository.
