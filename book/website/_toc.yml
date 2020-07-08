@@ -258,6 +258,20 @@
       file: community-handbook/style/style-crossref
     - title: Using figures
       file: community-handbook/style/style-figures
+  - title: The Turing Way Coworking Calls
+    file: community-handbook/coworking
+    sections:
+    - title: Background, Motivations, and Techniques
+      file: community-handbook/coworking/coworking-motivation
+    - title: Online Collaboration Cafe
+      file: community-handbook/coworking/coworking-collabcafe
+    - title: Daily Coworking Calls
+      file: community-handbook/coworking/coworking-daily
+      sections:
+      - title: Collaboration Cafe Call Template
+        file: community-handbook/coworking/coworking-collabcafe-template
+      - title: Daily Coworking Call Template
+        file: community-handbook/coworking/coworking-daily-template
 
 # ===== Afterward Section ========================================
 
