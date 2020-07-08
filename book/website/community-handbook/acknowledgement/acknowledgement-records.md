@@ -72,7 +72,7 @@ The designing, writing, and reviewing of a chapter's content are acknowledged wi
 The contributor's file will be updated for the contributors with a similar statement as below:
 > * Pathways of contributions: `Contributor's name` designed and wrote a chapter on `chapter name` and `details on reviewing and structuring new content`.
 
-### Translation
+#### Translation
 
 *The translation process in _The Turing Way_ includes aspects translating _The Turing Way_ chapters into languages other than English and reviewing them.*
 The translation infrastructure as of May 2020 is [Trasifex](https://www.transifex.com/theturingway/theturingway/dashboard/).
