@@ -63,7 +63,7 @@ Anyone who reviews a chapter is listed as reviewers and are acknowledged with ðŸ
 The contributor's file will be updated for the contributors with a similar statement as below:
 > * Pathways of contributions: `Contributor's name` reviewed the chapter `Chapter name`. They made other contributions to the chapter `other details like structuring and adding references`.
 
-### Chapter contribution
+#### Chapter contribution
 
 *The various contributions to a chapter are made towards designing, writing, and reviewing its content through GitHub issues, pull requests, and reviewing processes.*
 
