@@ -130,7 +130,7 @@ The [https://www.designabetterbusiness.tools](https://www.designabetterbusiness.
 
 ## Examples of personas in _The Turing Way_ community
 
-In the Community Handbook, we have provided a chapter on {ref}`Persona and Pathway <ch-persona>` for _The Turing Way_.
+In the Community Handbook, we have provided a chapter on {ref}`Personas and Pathways <ch-persona>` for _The Turing Way_.
 
 You can find examples of personas and pathways for how our members may interact with the project and what pathway they can take to sustain their engagements (see {ref}`Contributor's personas and pathways <ch-persona-contributors>`).
 
