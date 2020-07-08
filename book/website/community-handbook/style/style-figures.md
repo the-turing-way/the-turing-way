@@ -56,7 +56,7 @@ All the components of your figure (image, alt text and title) can be encapsulate
 
 ## Using figures that can be referenced
 
-The current version of Jupyterbook uses Markedly Structured Tex (MyST) that allows to include figures, which can be referenced in other chapters in a similar manner as defined in {ref}`ch-style-crossref`.
+The current version of Jupyterbook uses Markedly Structured Tex (MyST), which allows the inclusion of figures that can be referenced in other chapters in a similar manner as defined in {ref}`ch-style-crossref`.
 
 There is another advantage of resizing your figures using the "height" (takes value in px, for example, 400px) or "scale" (takes value in percentage, for example, 50%) parameters, especially if your original image is large.
 
