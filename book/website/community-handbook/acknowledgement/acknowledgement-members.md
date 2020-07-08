@@ -30,4 +30,4 @@ Furthermore, with our commitment for fair acknowledgement in this project, we cr
 
 In the {ref}`next subchapter <ch-acknowledgement-records>`, we have listed all the documents in this project that are considered "records of contributions" that every contributor can edit to document their work that they want to highlight in _The Turing Way_.
 
-We want our community members to take pride in the valuable work they have done this project and invite their suggestion in improving ways we acknowledge them
+We want our community members to take pride in the valuable work they have done this project and invite their suggestion in improving ways we acknowledge them.
