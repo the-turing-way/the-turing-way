@@ -65,7 +65,7 @@ They like seeing their work make an impact and are keen to know about the eventu
 2. **First Contact** - Amal navigates to the GitHub repository and reads the content there over a couple of days. While reading, they make notes on areas they could add to from their research.
 3. **Participation** - They compile their work into a chapter format and submit it to the repo.
 4. **Sustained Participation** - Amal checks back frequently to look at feedback on their chapter and respond to it. In their spare time, they make suggestions and edits on other chapters.
-5. **Networked Participation** - Amal directs students to their Turing Way chapter when they ask about risk assessments in reproducible research, and begins to direct students to other chapters as part of their teaching.
+5. **Networked Participation** - Amal directs students to their chapter in the _The Turing Way_ when they ask about risk assessments in reproducible research, and begins to direct students to other chapters as part of their teaching.
 6. **Leadership** - Amal promotes the Turing Way at their institution, suggesting to other academics that they get involved with its creation and adopt it as best practice.
 
 ###  4. Noor, a PhD student who is trying to finish their dissertation
