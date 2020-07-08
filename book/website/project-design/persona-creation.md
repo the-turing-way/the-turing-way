@@ -42,7 +42,7 @@ Reflect on the age range, gender, location, and living situation of your persona
 - What age group that your persona belongs to?
   - For example: below 16, 17 - 21, 21 - 30, 31 - 45, 45 - 65, above 65
 - What is your persona's gender?
-  - Some options: cis woman, trans woman, cis man, trans-Man, genderqueer, gender fluid or other
+  - Some options: cis woman, trans woman, cis man, trans man, genderqueer, gender fluid or other
 - Which time zone does your persona live in?
   - Some options: UTC - GMT, EET - GMT+2:00, IST - GMT+5:30, JST - GMT+9:00, NST - GMT+12:00, CST - GMT-6:00, BET - GMT-3:00, CAT - GMT-1:00
 - What is your persona's living situation?
