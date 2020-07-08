@@ -249,7 +249,7 @@
       file: community-handbook/coc/coc-enforcement
     - title: Acnowledgements
       file: community-handbook/coc/coc-acknowledgement
-  - title: The Turing Way Style Guide
+  - title: Style Guide
     file: community-handbook/style
     sections:
     - title: Citing and Referencing External Resources
@@ -258,7 +258,7 @@
       file: community-handbook/style/style-crossref
     - title: Using figures
       file: community-handbook/style/style-figures
-  - title: The Turing Way Coworking Calls
+  - title: Community Coworking Calls
     file: community-handbook/coworking
     sections:
     - title: Background, Motivations, and Techniques
@@ -267,7 +267,7 @@
       file: community-handbook/coworking/coworking-collabcafe
     - title: Daily Coworking Calls
       file: community-handbook/coworking/coworking-daily
-  - title: The Turing Way Template Collection
+  - title: Template Collection
     file: community-handbook/community-templates
     sections:
     - title: Online Collaboration Cafe Templates

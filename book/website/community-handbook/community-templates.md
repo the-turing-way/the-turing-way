@@ -1,4 +1,4 @@
-# _The Turing Way_ Template Collection
+# Template Collection
 
 ***This page serves as an index for all the template resources provided within The Turing Way Community Handbook***
 
