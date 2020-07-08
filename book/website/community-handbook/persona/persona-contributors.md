@@ -50,7 +50,7 @@ They have experience with GitHub and contributing to open projects.
 1. **Discovery** - Alia first hears about _The Turing Way_ via Twitter ([#TuringWay](https://twitter.com/search?q=%23TuringWay&src=typed_query)).
 2. **First Contact** - They land on the project's README and look for the contributing guidelines to see where their skills can be applied.
 3. **Participation** - They find an issue asking for help on writing the Credit for Reproducible Research chapter and add a few paragraphs on how to properly cite research software.
-4. **Sustained Participation** - After constructive feedback and collaboration with the Turing Way team, Alia follows the community on social media and attend the online Collaboration Cafe.
+4. **Sustained Participation** - After constructive feedback and collaboration with _The Turing Way_ team, Alia follows the community on social media and attend the online Collaboration Cafe.
 5. **Networked Participation** - They invite other friends and colleagues from the Rstats community to get involved, who have expertise on some of the book topics.
 6. **Leadership** - Alia volunteers to write the chapter on "Scoping a data project for RSEs" that they found requested in the [Book Skeleton](https://github.com/alan-turing-institute/the-turing-way/blob/master/book_skeleton.md).
 
