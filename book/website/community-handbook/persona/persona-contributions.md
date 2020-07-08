@@ -221,7 +221,7 @@ They either volunteer or are recommended by _The Turing Way_ team members for re
 #### Personas & Pathways:
 
 **1.** *Highlighting project resources*: Yehuda used one of the Scriberia and The Turing Way illustrations in a recent talk they gave at an open source workshop that was hosted by their company.
-They included links to The Turing Way book, GitHub repository and twitter handle.
+They included links to _The Turing Way_ book, GitHub repository and Twitter handle.
 Their slides are available under a CC-BY license and are requested to be linked in a monthly newsletter.
 
 **Acknowledgement:** They are acknowledged in the Contributors table with the 🔊 (`Talk`) emoji.
