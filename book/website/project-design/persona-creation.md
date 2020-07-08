@@ -89,7 +89,7 @@ This section will reflect on the expectations, goals, and emotions of your perso
 
 - What does your persona want to achieve from this project?
 - What information does your persona want to gain from their participation?
-- What fear or anxiety your persona may have regarding the project?
+- What fear or anxiety may your persona have regarding the project?
 - What could inspire your persona at the project?
 - How will your persona know that their goal has been achieved?
 
