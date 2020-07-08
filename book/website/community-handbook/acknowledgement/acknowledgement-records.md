@@ -13,7 +13,7 @@ The [Contributors](https://github.com/alan-turing-institute/the-turing-way#contr
 
 This emoji key is used for recording and fairly acknowledging the different types of contributions our community members have made.
 No contribution is too small.
-They can include (but not limited to) bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
+They can include (but are not limited to) bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
 Please see the subchapter {ref}`Contribution types and pathways <ch-persona-contributions>` for details.
 
 | ![Table with different emojis that is used by the contributors bot](../../figures/allcontributorsbot-emoji.png) |
