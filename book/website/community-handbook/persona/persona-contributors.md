@@ -33,7 +33,7 @@ Sam is a PhD student in biology at University College London.
 They are learning how to code in Python, but have not yet had any training in version control or GitHub.
 They're interested in learning how to use open notebooks such as Jupyter to do their analysis so that they can easily share their work for critique with their very busy supervisor.
 
-1. **Discovery** - Sam hears about the Turing Way Book Dash events through an email from the department's Open Science Champion.
+1. **Discovery** - Sam hears about _The Turing Way_ Book Dash events through an email from the department's Open Science Champion.
 2. **First Contact** - Sam checks out the GitHub repository to learn more about the project and see what skills are needed that they may be able to contribute.
 3. **Participation** - They attend the London Book Dash, accepted for their enthusiasm to learn how to make their PhD research reproducible. They participate in the discussions, read existing chapters, and scroll through issues to see where they can contribute.
 4. **Sustained Participation** - After gaining experience with GitHub through submitting pull requests and issues during the Book Dash, Sam is empowered to continue contributing to the online discussion and suggesting topics for the book, as well as editing and reviewing existing chapters by applying them to his research.
