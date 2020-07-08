@@ -47,7 +47,7 @@ They are passionate about open data and using data for good, but also understand
 They attend data science meetups in the city but are interested in finding a community working towards improving how research is conducted.
 They have experience with GitHub and contributing to open projects.
 
-1. **Discovery** - Alia first hears about the Turing Way via Twitter ([#TuringWay](https://twitter.com/search?q=%23TuringWay&src=typed_query)).
+1. **Discovery** - Alia first hears about _The Turing Way_ via Twitter ([#TuringWay](https://twitter.com/search?q=%23TuringWay&src=typed_query)).
 2. **First Contact** - They land on the project's README and look for the contributing guidelines to see where their skills can be applied.
 3. **Participation** - They find an issue asking for help on writing the Credit for Reproducible Research chapter and add a few paragraphs on how to properly cite research software.
 4. **Sustained Participation** - After constructive feedback and collaboration with the Turing Way team, Alia follows the community on social media and attend the online Collaboration Cafe.
