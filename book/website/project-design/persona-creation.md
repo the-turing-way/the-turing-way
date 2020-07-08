@@ -114,7 +114,7 @@ This section will reflect on the hurdles and issues that your persona may encoun
 
 ### Section 9: Fears and personal issues
 
-This section will reflect on fears and personal issues that your persona may face while participating in your project or community online by asking the following questions:
+This section will reflect on fears and personal issues that your persona may face while participating in this project or community online by asking the following questions:
 
 - Would your persona be able to participate for a long period?
 - In what situations your persona might encounter difficulties during their participation?
