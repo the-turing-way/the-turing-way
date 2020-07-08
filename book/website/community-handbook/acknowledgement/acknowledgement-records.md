@@ -54,7 +54,7 @@ Anyone who raises bugs, related issues or fixes them are listed as contributors 
 The contributor's file will be updated for the contributors with a similar statement as below after the `contributor's detail`:
 > * Pathways of contributions: `Contributor's Name` has fixed typos and made other contributions `other details like identified sections of the book that are unclear`.
 
-### Reviewing chapters and other pull requests
+#### Reviewing chapters and other pull requests
 
 *The review process of a newly contributed chapter or a subsection of an existing chapter involves approving the language and structure of a chapter or a section of a chapter, flagging errors or typos, asking for clarifications if certain parts of the content or statements are unclear, suggesting modifications and improving the overall quality of someone's contribution.*
 
