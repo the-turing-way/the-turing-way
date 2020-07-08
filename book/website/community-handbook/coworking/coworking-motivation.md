@@ -1,6 +1,6 @@
 # Background, Motivations, and Techniques
 
-# Background and Motivation
+## Background and Motivation
 
 When _The Turing Way_ started with around 10 members located in the United Kingdom, they could work in real-time and often together in the same location.
 They shared ideas, helped each other out, got huge amounts of writing, editing and reviewing done, and had lots of fun interacting with each other.
@@ -27,7 +27,7 @@ The _Turing Way_ core team members will be on the call and point you to some sta
 
 ## Techniques
 
-We offer two types of coworking calls, a 1-hour short daily calls to work on ongoing projects in the community and the bimonthly 2-hours long Collaboration Cafe call that offers a mix of community discussion and quiet working slots.
+We offer two types of coworking calls: 1-hour short daily calls to work on ongoing projects in the community, and the bimonthly Collaboration Cafes (2-hours) that offers a mix of community discussion and quiet working slots.
 We encourage our members to join during these designated hours for as long as their schedule allows, even if they can't be present during the entire call.
 
 These calls use a combination of two techniques:
