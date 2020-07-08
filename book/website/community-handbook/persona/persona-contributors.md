@@ -38,7 +38,7 @@ They're interested in learning how to use open notebooks such as Jupyter to do t
 3. **Participation** - They attend the London Book Dash, accepted for their enthusiasm to learn how to make their PhD research reproducible. They participate in the discussions, read existing chapters, and scroll through issues to see where they can contribute.
 4. **Sustained Participation** - After gaining experience with GitHub through submitting pull requests and issues during the Book Dash, Sam is empowered to continue contributing to the online discussion and suggesting topics for the book, as well as editing and reviewing existing chapters by applying them to his research.
 5. **Networked Participation** - They encourage some of their fellow PhD students to read _The Turing Way_ and start using GitHub.
-6. **Leadership** - Sam submits one of their research projects as a case study for the Turing Way.
+6. **Leadership** - Sam submits one of their research projects as a case study for _The Turing Way_.
 
 ###  2. Alia, a researcher with Git/GitHub experience and book topic expertise
 
