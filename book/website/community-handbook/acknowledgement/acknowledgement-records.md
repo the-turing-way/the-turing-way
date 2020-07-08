@@ -94,7 +94,7 @@ Their contributors will be listed under their organisation's name in the contrib
 Every contribution from collaborating organisation will be updated with a similar statement as below:
 > * Pathways of contributions: `Contributor's name` have also made contributions `contribution type` to the chapters `chapter name`. They have also `details on other contributions like managing a team of contributors, writing a chapter`.
 
-### Maintenance
+#### Maintenance
 
 *Maintenance work in _The Turing Way_ applies to the conversations in community spaces, technical infrastructure, online hosting platforms for the book, and translation infrastructure of Transifex.*
 
