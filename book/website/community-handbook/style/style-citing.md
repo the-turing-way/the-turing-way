@@ -44,7 +44,7 @@ To include a citation in your content, we follow the recommendation by [JupyterB
 The key concepts are:
 
 - Include a reference using {cite}`CITEKEY`, where `CITEKEY` is the corresponding citation key in `references.bib`
-- You can also include multiple citations in one go by separating the CITEKEYs by a comma: {cite}`CITEKEY1,CITEKEY2,CITEKEY3`
+- You can also include multiple citations in one go by separating the CITEKEYs by a comma: `{cite}CITEKEY1,CITEKEY2,CITEKEY3`
 
 We will cite the article that we edit earlier in the `reference.bib` file using:
 ```
