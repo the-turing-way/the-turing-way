@@ -186,7 +186,7 @@ Patty has developed materials, contributed to the community discussions and revi
 
 ### Maintenance
 
-Maintenance work in _The Turing Way_ applies to the multiple aspects, some of which are listed below.
+Maintenance work in _The Turing Way_ applies to the multiple aspects, some of which are listed below:
 - conversations in community spaces such as Gitter, GitHub issues, or Twitter.
 - the technical infrastructure of the GitHub repository, associated GitHub bots, scripts and continuous integration pipeline
 - online hosting platforms of Jupyter book and Netlify
