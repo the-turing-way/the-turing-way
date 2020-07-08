@@ -5,7 +5,7 @@ Persona development for a project or community is a great way for recognising wh
 Persona creation tools can allow team members to collaborate efficiently with each other, develop a common understanding of their target audience and bring design principles into their work while ultimately creating an empathetic pathway for engagement.
 
 In this chapter, we provide a simple step by step guide that one can use for creating different personas for their communities and projects.
-Those personas will be then useful in enhancing the pathways those personas engage with your project.
+Those personas will then be useful in enhancing the pathways those personas engage with your project.
 
 ## Step-by-step guide for building a persona
 
