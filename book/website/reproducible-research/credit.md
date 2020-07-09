@@ -131,6 +131,7 @@ You can find examples of these statements in the publishers' (research data) aut
 -  “The data that support the findings of this study are available upon request.
 Access conditions and procedures can be found at [URL to restricted access repository such as [EASY](https://easy.dans.knaw.nl/ui/home).]”
 
+(rr-credit-make-software-citeable)=
 ## How to make software citeable?
 
 A software citation has a lot of the same elements as a data citation, described above, and are described in more detail in the [Software Citation Principles](https://www.force11.org/software-citation-principles).
