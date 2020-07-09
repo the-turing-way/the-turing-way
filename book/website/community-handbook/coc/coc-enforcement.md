@@ -59,11 +59,11 @@ Possible responses may include:
   In this case, the person who has the conversation will provide a written summary for record keeping.
 * A private written reprimand from a member of the research team to the individual(s) involved.
   In this case, the research team member will deliver that reprimand to the individual(s) over email, cc'ing Kirstie Whitaker for record keeping.
-* A public announcement of an incident, ideally in the same venue that the violation occurred (i.e. on the listserv for a listserv violation; GitHub for a GitHub violation, etc.).
+* A public announcement of an incident, ideally in the same venue that the violation occurred (such as on the listserv for a listserv violation; andGitHub for a GitHub violation).
   The committee may choose to publish this message elsewhere for posterity.
 * An imposed "time out" from online spaces.
   Kirstie Whitaker will communicate this "time out" to the individual(s) involved.
-* A permanent or temporary ban from some or all Turing Way project spaces (GitHub, in-person events etc).
+* A permanent or temporary ban from some or all Turing Way project spaces (like on GitHub, online calls or in-person events).
   The research team will maintain records of all such bans so that they may be reviewed in the future, extended to a Code of Conduct safety team as it is built, or otherwise maintained.
   If a member of the community is removed from an event they will not be reimbursed for any part of the event that they miss.
 
