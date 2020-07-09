@@ -4,7 +4,7 @@
 
 ## A short summary of the Manuscript
 
-- **Title:** A review of Bayesian perspectives on sample size derivation for confirmatory trials.
+- **Title:** A review of Bayesian perspectives on sample size derivation for confirmatory trials.{cite}`Kunzmann2020CS` 
 - **Authors:** Kevin Kunzmann, Michael J. Grayling, Kim May Lee, David S. Robertson, Kaspar Rufibach, James M. S. Wason
 - **Publication month & year**: June 2020
 
@@ -12,11 +12,9 @@
 
 The manuscript can be cited in plain text APA format:
 
-
 > Kunzmann, K., Grayling, M. J., Lee, K. M., Robertson, D. S., Rufibach, K., & Wason, J. (2020).
 A review of Bayesian perspectives on sample size derivation for confirmatory trials.
 arXiv preprint arXiv:2006.15715.
-
 
 Bibtex format:
 
@@ -32,8 +30,8 @@ Bibtex format:
 
 ### Overview of the manuscript
 
-The manuscript itself is concerned with the problem of deriving a suitable
-sample size for a clinical trial.
+The manuscript{cite}`Kunzmann2020CS` itself is concerned with the problem of 
+deriving a suitable sample size for a clinical trial.
 This is a classical problem in statistics and particularly important in
 medical statistics where collecting trial data is extremely expensive and
 ethical considerations need to be addressed.
@@ -68,7 +66,8 @@ external, protected data is required.
 
 ### Literate programming
 
-The manuscript itself is written in and built with [LaTeX](https://www.latex-project.org/).
+The manuscript{cite}`Kunzmann2020CS` itself is written in and built with
+[LaTeX](https://www.latex-project.org/).
 The source files are contained in the subfolder `latex/`.
 Plain TeX files were preferred over literate programming solutions like
 [knitr](https://github.com/rstudio/rmarkdown) for [R](https://www.r-project.org/)
