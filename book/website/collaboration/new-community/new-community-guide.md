@@ -17,7 +17,7 @@ While reading this chapter, please be aware that you may need to make adjustment
 
 ### 1. Choose a communication platform
 
-- When leading an open project, use collaborative and open platforms such as [GitHub](http://github.com/).
+- When leading an open project, use collaborative and open platforms such as [GitHub](http://github.com/) or [GitLab](https://about.gitlab.com/).
 - Evaluate the need for any real-time communications such as if a text chat system like [Slack](https://slack.com) or [Riot/Matrix](https://about.riot.im/free) will be useful or a mailing list be sufficient (read details {ref}`Communication Channels <cm-os-comms-channels>`).
   - Consider a separate internal communication platform for your community members and an external one for showing what you’ve done to the rest of the world.
 - A [Twitter account](twitter.com/) or a simple website (such as on [Git pages](https://pages.github.com/)) can be useful external platforms.
