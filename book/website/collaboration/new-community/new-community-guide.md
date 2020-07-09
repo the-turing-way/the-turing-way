@@ -12,7 +12,7 @@ Therefore it’s important to set the right expectations from the beginning for 
 
 The checklist below will help you in making the process of establishing collaboration in your research project thoughtfully in a structured manner.
 
-The practices listed here are derived from and limited by the experiences of the authors who participate in several successful Open Research communities and lead community-driven projects such as [The Carpentries](https://carpentries.org), [Mozilla Open Leaders](https://mozilla.github.io/open-leadership-training-series/), [Open Life Science](openlifesci.org/) and _The Turing Way_.
+The practices listed here are derived from and limited by the experiences of the authors who participate in several successful Open Research communities and lead community-driven projects such as [The Carpentries](https://carpentries.org), [Mozilla Open Leaders](https://mozilla.github.io/open-leadership-training-series/), [Open Life Science](https://openlifesci.org/) and _The Turing Way_.
 While reading this chapter, please be aware that you may need to make adjustments for the projects that may be very different in nature (for example, not entirely open source).
 
 ### 1. Choose a communication platform
