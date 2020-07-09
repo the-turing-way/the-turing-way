@@ -139,5 +139,5 @@ We have then collected a list of contributions our personas can make in _The Tur
 
 We welcome you to add your personas in this chapter to provide more examples from different projects.
 
-*Contribute to this chapter by testing the process described here in creating persona for your project.
+*You are welcome to contribute to this chapter by testing the process described here to create a persona for your project.
 Your feedback will help us improve this process, and your output can be added here under the example section.*
