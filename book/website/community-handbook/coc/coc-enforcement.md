@@ -17,7 +17,7 @@ As the community grows, we will seek to build a larger committee including membe
 
 ### 4.2 Urgent Situations: Acting Unilaterally
 
-If the incident involves physical danger, or involves a threat to anyone's safety (e.g. threats of violence), any member of the community may -- and should -- act unilaterally to protect the safety of any community member.
+If the incident involves physical danger, or involves a threat to anyone's safety (such as threats of violence), any member of the community may -- and should -- act unilaterally to protect the safety of any community member.
 This can include contacting law enforcement (or other local personnel) and speaking on behalf of the Turing Way team.
 
 If the act is ongoing, any community member may act immediately, before reaching consensus, to diffuse the situation.
