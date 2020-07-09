@@ -59,7 +59,7 @@ Possible responses may include:
   In this case, the person who has the conversation will provide a written summary for record keeping.
 * A private written reprimand from a member of the research team to the individual(s) involved.
   In this case, the research team member will deliver that reprimand to the individual(s) over email, cc'ing Kirstie Whitaker for record keeping.
-* A public announcement of an incident, ideally in the same venue that the violation occurred (such as on the listserv for a listserv violation; andGitHub for a GitHub violation).
+* A public announcement of an incident, ideally in the same venue that the violation occurred (such as on the listserv for a listserv violation; and GitHub for a GitHub violation).
   The committee may choose to publish this message elsewhere for posterity.
 * An imposed "time out" from online spaces.
   Kirstie Whitaker will communicate this "time out" to the individual(s) involved.
