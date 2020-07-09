@@ -25,7 +25,7 @@ While reading this chapter, please be aware that you may need to make adjustment
 
 ### 2. Provide a project summary file:
 
-- The first document in your project should be a project summary file, which on GitHub repository will be a [README.md file](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes).
+- The first document in your project should be a project summary file, which in a GitHub repository will be a [README.md file](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes).
 - This will provide basic information about your project so that people can evaluate why your project will be interesting for them.
   - Here is [a template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) by the GitHub user [PurpleBooth](https://gist.github.com/PurpleBooth).
 - In this file, include what your project vision and goals are, why the project is useful, what are the possible milestones in the project, how a contributor or user can get started, who can they reach out for help, and what is currently missing in the project in terms of stakeholders, skills, or scope.
