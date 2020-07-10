@@ -82,7 +82,7 @@ While reading this chapter, please be aware that you may need to make adjustment
 - With new members joining your project, they must be able to find the information they need without asking you.
 - Investing in documentation plans will free you from many communication-related challenges by sharing general information regarding past decisions or the decision making process your project uses.
 - A good place to store the documentation is [wiki](https://en.wikipedia.org/wiki/Wiki) or similar platforms (like GitHub) where information can be shared transparently and updated by your community members democratically.
-- To disseminate outputs of your project, you should use permanent identifiers that can be shared and cited, for example, [digital object identifier (DOI)](https://www.doi.org/).
+- To disseminate outputs of your project, you should use persistent identifiers that can be shared and cited, for example, [digital object identifier (DOI)](https://www.doi.org/).
   - [Figshare](https://figshare.com/) and [Zenodo](http://zenodo.org) are good examples of platforms that can provide you with DOI for all your shareable data.
 
 Two more points are crucial for ensuring the effectiveness of a collaborative project: addressing technical issues and valuing the importance of diversity in team building.
