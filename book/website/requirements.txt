@@ -1,11 +1,11 @@
 # Requirements for the demo notebooks
 # Useful for MyBinder configuration
-pandas
-numpy
-datascience
-folium
-matplotlib
-jupyter-book>=0.7.0b.
-sphinx<3
-pydata-sphinx-theme>=0.2.2
-sphinx-book-theme>=0.0.12
+pandas==1.0.5
+numpy==1.19.0
+datascience==0.15.6
+folium==0.11.0
+matplotlib==3.2.2
+jupyter-book==0.7.1
+sphinx==2.4.4
+pydata-sphinx-theme==0.3.1
+sphinx-book-theme==0.0.30
