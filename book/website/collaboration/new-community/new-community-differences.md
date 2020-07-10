@@ -21,7 +21,7 @@ To create equitable opportunities for everyone, create task lists with varying r
 ## Allow access to resources whenever you can
 
 Aim to provide access to resources to ensure that everyone has the opportunity to gain a common understanding.
-For example, if your project idea is based on a recent peer reviewed paper that is behind the paywall, members from low income institutes who don't hold subscription to that journal will not be able to participate unless given access to the information discussed in that paper.
+For example, if your project idea is based on a recent peer reviewed paper that is behind the paywall, members from low income institutes who don't hold a subscription to that journal will not be able to participate unless given access to the information discussed in that paper.
 
 ## Invite those who can help you expand your viewpoints
 
