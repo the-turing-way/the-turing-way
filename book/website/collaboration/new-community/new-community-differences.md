@@ -1,7 +1,7 @@
 (cm-new-community-differences)=
 # Valuing Diversity and Differences
 
-When people collaborate with others, no matter if already have worked with them or they are complete strangers, you need to take into account that everyone will have different backgrounds, different cultures, different time zones, different levels of skills and very different lived experiences.
+When people collaborate with others, no matter if they have already worked with them or they are complete strangers, you need to take into account that everyone will have different backgrounds, different cultures, different time zones, different levels of skills and very different lived experiences.
 
 ## Welcome diverse perspectives from your members
 
