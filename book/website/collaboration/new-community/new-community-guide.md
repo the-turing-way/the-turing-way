@@ -70,7 +70,7 @@ While reading this chapter, please be aware that you may need to make adjustment
 
 - Development happens in an iterative manner, therefore, revisit your plans and ideas in regular intervals and involve your members in the process.
 - Check if there are parallel developments or multiple approaches that should be merged or changed.
-- Fail fast, fail informatively - recognize what isn’t working for your project and stop them for being continued.
+- Fail fast, fail informatively - recognize what isn’t working for your project and stop it from continuing.
 - Document them and share why you failed and how you change your project or approaches going forward.
 - For Open Research communities you can maintain transparency when discussing failures and successes but refrain from singling out or blaming others.
 - This iterative approach comes from Agile Practices, see these short posts for reference:
