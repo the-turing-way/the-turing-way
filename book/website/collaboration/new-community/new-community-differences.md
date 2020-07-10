@@ -14,7 +14,7 @@ Be prepared to welcome their diverse perspectives into your project.
 ## People have different personal circumstances
 
 As an individual we may think that everyone has the same working conditions as us, such as access to the tools and resources or their work setup, whereas the reality is far from that.
-Our colleagues even in the same city may have different living situations, caring responsibilities, medical conditions and resources available to them.  
+Our colleagues even in the same city may have different living situations, caring responsibilities, medical conditions and resources available to them.
 Don’t assume that everyone will have equal access or capacity to participate in your project.
 To create equitable opportunities for everyone, create task lists with varying requirements of time and resources (like hardware, software, reference materials or internet bandwidth) so that people can choose where to contribute based on resources available to them.
 
