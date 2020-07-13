@@ -1,0 +1,138 @@
+(ch-bookdash-events)=
+# The Book Dash Main Event Plans
+
+This subchapter provides information on the events that are organised for the book dash attendees.
+These events include pre-event drop-in calls, Day-1 brainstorming session and group dinner, and Day-2 working day, which are explained below.
+
+## Pre-Event drop-in calls
+
+The core team members hosts 2 pre-event drop-in calls, minimum one week before the main event to ensure that all the participants are made familiar with project, the format of the book dash, and how they can be contributing through their involvement at the book dash.
+It is an opportunity for the organising team and the selected attendees to get to know each other and discuss any concerns that they may have prior to the book dash.
+
+Several participants often come to these calls with some plans and topics they would like to explore for their contributions in _The Turing Way_.
+These topics can be something that is either missing in the existing chapters or need to be updated in the project.
+We also discuss _The Turing Way_ as a project in general and what the core team is working on to support the development of its guide on reproducibility, ethics, project design, collaboration, communication and a meta-book on the project itself.
+Most importantly, the core team goes through the contribution guideline and explain how attendees can effectively use their time at the book dash.
+
+The template for shared-notes can be accessed in the community handbook {ref}`here<ch-bookdash-precall-template>`.
+You can read notes from the calls from the most recent book dash [here](https://hackmd.io/@malvikasharan/bookdash).
+
+## Day-1 brainstorming and dinner
+
+The invited participants join the core team for an introduction session a day before the book dash event.
+This is a chance to everyone to meet the participants and helpers informally, learn about each other and connect with specific members who plan to work on related topic during the book dash.
+
+![](./figures/book-dash-feb20-intro1.jpg)
+*Three of our participants, Heidi, Esther and Adina, exchanging local sweets and snacks from their home country at the beginning of the event (picture by Kirstie Whitaker)*
+
+In a dedicated hour, the core team members provide an overview of _The Turing way_ project and resources that are available for the participants for their book dash contributions.
+The next hours are dedicated for brainstorming in small groups, organising thoughts and ideas for their contributions the next day, share their plans with each other at the end of the session and identify their collaborators based on the similarity of their topics of interest.
+
+The day ends with a group dinner hosted by the core team to allow participants to relax after an intense discussion session and enjoy meals together in an informal setting.
+In between the meals, participants are invited to give lightning talks where they can share their personal stories and talk about a project that they’re either working on or are excited about.
+
+### Agenda for the Day-1
+
+14:00-15:00 BST: Arrive at the book dash venue for informal networking
+15:00-16:00 BST: Intro to Turing Way and book dash
+17:00-17:30 BST: Brainstorming in groups
+17:30-18:00 BST: Report out
+18:30 BST: Arrive at the dinner venue
+19:00 BST: Dinner begins
+20:30-21:00 BST: Lightning talks*
+21:00-22:00 BST: Dinner continues with networking
+
+## The book-dash working day
+
+The next day of the book dash is a collaboration and working day.
+This day is distributed into 4 sessions of 1 hour 15 minutes each, separated by 15 minutes reflection followed by a break.
+
+The first session facilitates discussions by bringing all the attendees in small groups with their collaborators based on their discussion from the previous day.
+The collaborating groups start working on their road map and plans for their contributions as chapters, subchapters or other types of contents.
+Participants are also encouraged to come up with the main sections of their contributions and collect their thoughts in bullet points on a GitHub issue.
+During the second session, participants work in self-organised groups or individually with the support of organisers and helpers.
+This session ends with a quick report out from each group followed by a lunch break.
+
+During the third and fourth session, participants come back to continue working uninterrupted on their contribution ideas and take break as they need.
+At the end of this session, participants gather all their contributions  on _The Turing Way_ GitHub repository (issues, pull requests and notes) and add that in the shared notes before taking a short break.
+
+The last session is the final report out and celebration of each other's work.
+The book dash closes with anonymous feedback on the {ref}`Pluses and Delta<ch-bookdash-feedback-template>` notes.
+
+### Agenda for Day-2
+
+8:30 BST: Arrive at the dashing venue
+8:45 BST: Intro to the second day of the book dash
+9:00 BST: Group working starts (session-1)
+10:15 BST: Report
+11:00 BST: Group working continues (session-2)
+12:15 BST: Report out
+12:30 BST: Lunch break
+13:30 - 16:30 BST: Group working continues (session-3 and 4)
+16:30 BST: Group share outs and celebrations
+17:00 BST: Event closing and feedback
+
+## Creating an environment for self-paced contributions
+
+We acknowledge that everyone prefer different setting for working.
+Therefore we create environment for self-paced contributions to _The Turing Way_ project.
+
+Some recommendation to achieve that is by managing space by:
+- offering a separate space for open discussion for people who work better by discussing their ideas out loud.
+- providing semi-quiet spaces or headphone for noise cancellation for people who don't need active discussions.
+- setting us a shared notes for everyone to take notes together and draw inspiration from each others work (see {ref}`template for notes<ch-bookdash-notes-template>`).
+
+Throughout the day, everyone is encouraged to ask for help, move around or change their position or group as needed.
+Participants are invited to offer feedback on other people's work during the report out session.
+
+Though there are designated breaks, participants are encouraged to take breaks whenever they need to decompress.
+A quiet room is arranged so that people can step back from crowd as per their need for quiet time.
+
+## After the event
+
+Our book dash attendees begin to introduce their personal voice and skills into the project at the book dash.
+These participants go on to join our global community of contributors.
+
+We invite our attendees to contribute in any capacity that is most suitable for their interests and availability.
+In addition, we share with them some ways they can stay connected and keep contributing to the project.
+
+### Joining the ongoing efforts
+
+With every new effort initiated by our members, we gain new insights to improve our global outreach.
+These work often start in our [GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues) section.
+These are good places to begin new discussions by creating a new issue or join ongoing discussion by commending on the issue.
+If our contributors want to start to get to know the project, or want to return after a long break, they can begin with our good first issues.
+If they have a new idea that they would like to add to the project as a new section in an existing chapter, or as a whole new chapter, they can start by creating a new issue.
+
+### Attend online Collaboration Cafe and coworking call
+
+Our online Collaboration Cafes take place every 1st Wednesdays and 3rd Wednesdays on each month.
+These calls are 2 hours long co-working spaces for The Turing Way community.
+Everyone interested in learning from or developing this project can join us for any duration possible for them. At these calls one can work on their idea for a new contribution or enhancement of existing content in the project.
+
+Participants can sign up on this HackMD to attend the upcoming calls: https://hackmd.io/@KirstieJane/CollabCafe.
+Anyone who would like to host these calls at other times, please get in touch with the team members.
+See more details in the chapter {ref}`Coworking Call<ch-coworking-calls>`
+
+### Reviewing an open pull requests
+
+Our contributors can help us by reviewing one of the several open pull requests based on their interest.
+They can join discussions on these pull requests or help in exploring resources that currently exists in the book.
+
+### Representing The Turing Way in your community/conference
+
+If our attendees would like to represent our community, they can connect with _The Turing Way_ team for support and assistance in drafting an abstract and help them prepare to deliver a short workshop or presentation.
+
+### Connecting through social media
+
+Everyone is welcome to join our Gitter channel for informal discussions: .
+They can also sign up to receive our monthly newsletter: https://tinyletter.com/TuringWay/.
+We are on Twitter as [@turingway](), where we send regular updates.
+
+If you have more ideas or questions about the project, the book dash event or something else related to our community, please feel free to reach out to the team members (theturingway@gmail.com).
+
+## Report and additional materials
+
+- [Report from February 2020](https://hackmd.io/@malvikasharan/rJSSJurEL) (currently on [GitHub PR](https://github.com/alan-turing-institute/the-turing-way/pull/928))
+- [Report from London 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-ldn-report.md)
+- [Report from Manchester 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-mcr-report.md)
