@@ -271,7 +271,7 @@
     - title: Application and Review Process
       file: community-handbook/bookdash/bookdash-application
     - title: Selection and Preparation Process
-      file: community-handbook/bookdash/bookdash-preparation      
+      file: community-handbook/bookdash/bookdash-preparation
     - title: The Book Dash Main Event Plans
       file: community-handbook/bookdash/bookdash-events
   - title: Template Collection
@@ -279,11 +279,11 @@
     sections:
     - title: Issue Template for Planning
       file: community-handbook/templates/bookdash-issue-template
-    - title: HackMD template for pre-event call
+    - title: HackMD Template for Pre-Event Call
       file: community-handbook/templates/bookdash-precall-template
     - title: HackMD Template for Shared Notes
       file: community-handbook/templates/bookdash-notes-template
-    - title: HackMD template for feedback
+    - title: HackMD Template for Feedback
       file: community-handbook/templates/bookdash-feedback-template
 # ===== Afterward Section ========================================
 

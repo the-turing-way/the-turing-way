@@ -23,7 +23,7 @@ Please see more details on the project, book dash events and logistics for the u
 - **Agenda**
 1. Signup and check in `10min`
 2. Introductions by the Turing Way members `5-6min`
-4. Open Q&A on logistics etc. `30min`
+4. Open Q&A on logistics `30min`
 
 - **Hosts:** Kirstie Whitaker, Malvika Sharan
 :::

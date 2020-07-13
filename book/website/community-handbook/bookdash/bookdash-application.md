@@ -41,7 +41,7 @@ The invited reviewers will rate the participants across multiple dimensions with
 * Does the applicant have a clear, feasible, and relevant idea of how they will contribute to the book dash?	This scoring corresponds generally to reviews of "not ready", "enthusiastic" and "clear" respectively:
 * Is the applicant enthusiastic about reproducibility and the aims of the Turing Way?
 1. Applicants who score **mostly 1s** do not have a clear idea/topic ready for contribution or do not have a clear understanding of the overall goals of The Turing Way and book dash in general.
-2. Applicants who score **mostly 2s** are enthusiastic if not wholly suitable for the project/event, for e.g. they may come with some ideas for a contribution that is currently not in the scope of the project/event.
+2. Applicants who score **mostly 2s** are enthusiastic if not wholly suitable for the project/event, for example they may come with some ideas for a contribution that is currently not in the scope of the project/event.
 3. Applicants who score **mostly 3s** are clearly ready, goal-oriented, interested in contributing to the project, and excited to learn from others at the event.
 
 Reviewers are also asked whether they would recommend an applicant. The available answers are "No", "Yes", "Unsure" or "Wild-Card/Red-Flag (request to discuss)".
