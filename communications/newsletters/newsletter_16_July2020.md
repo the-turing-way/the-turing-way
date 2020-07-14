@@ -72,7 +72,7 @@ In the Guide for Project Design, we have added a new chapter on Persona Creation
 Persona creation tools can allow team members to collaborate efficiently with each other, develop a common understanding of their target audience, and bring design principles into their work while ultimately creating an empathetic pathway for engagement.
 Read the chapter in _The Turing Way_ book, hosted online via Netlify: https://the-turing-way.netlify.app/project-design/persona-creation.html.
 
-Kevin Kunzmann has written a case study to discuss the reproducible research strategy employed in their manuscript on statistical methods back to the respective sections discussed in our Guide for Reproducible Research.
+Kevin Kunzmann has written a case study to discuss the reproducible research strategy employed in their manuscript on statistical methods, and reference them back to the respective sections discussed in our Guide for Reproducible Research.
 Read the [case study online](https://the-turing-way.netlify.app/reproducible-research/case-studies/statistical-methods-manuscript.html), which is built upon the following manuscript:
 
 > Kunzmann, K., Grayling, M. J., Lee, K. M., Robertson, D. S., Rufibach, K., & Wason, J. (2020). A review of Bayesian perspectives on sample size derivation for confirmatory trials. arXiv preprint arXiv:2006.15715.
@@ -133,7 +133,7 @@ In her words:
 To ensure that the book can be read easily by everyone, including screen readers and non-native English speakers, we have compiled a set of guidelines to keep a consistent style across all chapters of the book.
 This style guide is available in the Community Handbook as a chapter ([read here](https://the-turing-way.netlify.app/community-handbook/style.html)).
 
-Since the current [Jupyter Book](https://jupyterbook.org/) is built upon [Sphinx](https://jupyterbook.org/reference/glossary.html#term-sphinx), several styling for _The Turing Way_) has also been updated.
+Since the current [Jupyter Book](https://jupyterbook.org/) is built upon [Sphinx](https://jupyterbook.org/reference/glossary.html#term-sphinx), several styling for _The Turing Way_ has also been updated.
 Therefore, we urge you to go through our style guide and help us consistently apply it to the existing and upcoming chapters in our book.
 
 ## Acknowledgements and celebrations
@@ -144,7 +144,7 @@ Kirstie Whitaker gave a talk at the University of Exeter Data Science Week on 27
 If you want to learn more about where the project is currently at, see [her talk on Zenodo](https://doi.org/10.5281/zenodo.3929321).
 More presentations from the community can also be found on [Zenodo's community page](https://zenodo.org/communities/the-turing-way/).
 
-Malvika Sharan and Sarah Gibson ran a Zero to Binder workshop on 10 July at [third Bioinformatics Residential Training](https://github.com/eanbit-rt) Course organised by [the Eastern Africa Network for Bioinformatics Training (EANBiT)](http://eanbit.icipe.org/).
+Malvika Sharan and Sarah Gibson ran a Zero to Binder workshop on 10 July at the [third Bioinformatics Residential Training](https://github.com/eanbit-rt) Course organised by [the Eastern Africa Network for Bioinformatics Training (EANBiT)](http://eanbit.icipe.org/).
 EANBiT works with universities in Kenya, Uganda and Tanzania, to support curriculum development, offer MSc fellowships and provide their placement in research.
 This year's residential training took place online.
 
