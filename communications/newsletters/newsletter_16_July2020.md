@@ -79,7 +79,7 @@ Read the [case study online](https://the-turing-way.netlify.app/reproducible-res
 ### New chapters proposed for the Community Handbook
 
 Many community practices of _The Turing Way_ are derived from Open Source communities such as The Carpentries and Mozilla Foundation and have then further been adapted for our community.
-_The Turing Way_'s [Community Handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html) has been established to capture these practices so others in our members and related communities can learn from them and replicate them in their communities.
+The [Community Handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html) has been established to capture these practices for our members and related communities to learn from them and replicate them in their communities.
 
 The following pull requests (PR) are open for review and suggestions, that propose new chapters for the Community Handbook:
 - A chapter on creating monthly newsletters: [PR #1251](https://github.com/alan-turing-institute/the-turing-way/pull/1251)
