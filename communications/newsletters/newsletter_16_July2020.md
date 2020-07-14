@@ -1,13 +1,13 @@
 The Turing Way Newsletter: 15 July 2020
 
-# Join today’s Collaboration Cafe, learn how you can help develop resources on Ethical research, and join our brand new Slack space before you go on a summer break!
+# Join today’s Collaboration Cafe, learn how you develop chapters on ethical research and connect on Slack before you go on a summer break!
 
 Hello Turing Way friends!
 
-This month we have updates on how our community members have been engaging with the project by collaboratively developing plans for our recently launched Guide for Ethical Research.
+This month we have updates on how our community members have been engaging with the project by collaboratively developing plans for the Guide for Ethical Research.
 Thank you Ismael Kherroubi, Christina Hitrova, Laura Carter, and Sophia Batchelor for all your hard work. 🙌
 
-We are hosting our Collaboration Cafe today (15 July 2020) at 15:00 BST ([in your time zone](https://arewemeetingyet.com/london/2020-07-15/15:00)) to keep it within the work time of or regular contributors.
+We are hosting our Collaboration Cafe today (15 July 2020) at 15:00 BST ([see in your time zone](https://arewemeetingyet.com/london/2020-07-15/15:00)) to keep it within the work time of or regular contributors.
 However, we don't want to leave you and your colleagues out if you are in a different time zone.
 Reach out to us to help us by hosting these coworking calls in your time zones. 🗓
 
@@ -25,9 +25,9 @@ Find more details on these topics below 👇
 Our second Collaboration Café is today at 15:00 BST ([see in your local time](https://arewemeetingyet.com/london/2020-07-15/15:00)).
 Find details in this [shared HackMD](https://hackmd.io/@KirstieJane/CollabCafe) and sign up to indicate your participation.
 
-Since many of our regular attendees are in European time zones, our later time for the third Wednesday (19:00 BST) is very late for them especially as we all have been working from home over the last 4 months.
-
-Since we want to support our contributors from different time zones, we invite you to host Collaboration Cafes in your time zones especially if our current calendar has not been compatible with your location.
+This change in schedule is to make sure that our regular attendees can still attend it during their work hour while they are working from home.
+Nevertheless, we want to support our contributors from different time zones.
+Therefore, we invite you to host Collaboration Cafes in your time zones especially if our coworking calls and events have not been compatible with your location.
 Please reach out to the core team for more details by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
 
 ### Community Coworking Call
@@ -43,7 +43,7 @@ You are welcome to review this chapter while learning about the techniques for d
 
 ![A person talking to others online across multiple screens](images/distributed-July2020.png)
 
-*Review new pull requests on [our GitHub repository](https://github.com/alan-turing-institute/the-turing-way), The Turing Way Community, & Scriberia. (2019, July 11)*
+*Image: Online discussions with our online community, The Turing Way Community, & Scriberia. (2019, July 11)*
 
 ## News from the community
 
@@ -88,7 +88,7 @@ _The Turing Way_ book dash events: [PR #1262](https://github.com/alan-turing-ins
 _The Turing Way_ community personas and pathways: [PR #1254](https://github.com/alan-turing-institute/the-turing-way/pull/1254)
 More open PRs can be read and reviewed [on the GitHub](https://github.com/alan-turing-institute/the-turing-way/pull).
 
-![A person (Kirstie) reading something carefully](images/ReviewScriberia-July2020.png)
+![A person (Kirstie) reading and reviewing something carefully](images/ReviewScriberia-July2020.png)
 
 *Review new pull requests on [our GitHub repository](https://github.com/alan-turing-institute/the-turing-way), The Turing Way Community, & Scriberia. (2019, July 11)*
 
