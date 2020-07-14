@@ -1,5 +1,6 @@
 # The Turing Way Newsletter Template
 
+```
 Date: DD Month YYYY
 
 # title
@@ -46,10 +47,11 @@ Find more details on these topics below 👇
 - [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 - [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way)
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
-- [Twitter account](https://twitter.com/turingway)
+- [Twitter Channel](https://twitter.com/turingway)
 
 You are welcome to contribute content for the next newsletter by
 emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
 
 *Did you miss the last newsletters?*
 *Check them out [here](https://tinyletter.com/TuringWay/archive).*
+```

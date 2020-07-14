@@ -258,7 +258,7 @@
       file: community-handbook/style/style-crossref
     - title: Using figures
       file: community-handbook/style/style-figures
-  - title: The Turing Way Newsletters
+  - title: Monthly Newsletters
     file: community-handbook/newsletters
     sections:
     - title: A Process of Creating a newsletter
