@@ -21,7 +21,7 @@ Find more details on these topics below 👇
 
 ### Collaboration Café
 
-Our second Collaboration Café is today at 15:00 BST ([see in your local time](https://arewemeetingyet.com/london/2020-07-15/15:00)).
+Our second July Collaboration Café is today at 15:00 BST ([see in your local time](https://arewemeetingyet.com/london/2020-07-15/15:00)).
 Find details in this [shared HackMD](https://hackmd.io/@KirstieJane/CollabCafe) and sign up to indicate your participation.
 
 This change in schedule is to make sure that our regular attendees can still attend it during their work hour while they are working from home.
@@ -38,7 +38,7 @@ See the available dates and times in this [shared HackMD](https://hackmd.io/@mal
 You can also subscribe to [our community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon) to get notified with future events.
 
 Malvika Sharan has also proposed a chapter in the [PR #1257](https://github.com/alan-turing-institute/the-turing-way/pull/1257) that explains why we hold these calls and how you can reproduce such events in your community space.
-You are welcome to review this chapter while learning about the techniques for designing coworking calls.
+We would love for you to review this chapter while learning about the techniques for designing coworking calls.
 
 ![A person talking to others online across multiple screens](images/distributed-July2020.png)
 
@@ -55,10 +55,10 @@ Join the Slack space [using this link](https://join.slack.com/t/theturingway/sha
 ### Proposed Chapters for the Guide for Ethical Research
 
 Earlier this year, _The Turing Way_ team announced that the scope of the project will now include recommendations and best practices for ethical considerations in reproducible research.
-Ismael Kherroubi, Ethics Research Associate at The Alan Turing Institute has been helping gather support and co-develop plans for _The Turing Way_’s guide for Ethical Research.
+Ismael Kherroubi, Ethics Research Associate at The Alan Turing Institute has been helping gather support and co-develop plans for _The Turing Way_'s guide for Ethical Research.
 
 Ismael and Malvika, with the support and input from our colleagues Christina Hitrova, Laura Carter, Sophia Batchelor, and the previous contributors (see the [PR #913 ](https://github.com/alan-turing-institute/the-turing-way/pull/913)) have come up with a plan to develop this guide in 7 chapters: Introduction, Benefit and Challenges, Philosophy and Science, Ethical Consideration by Research Stages, Suggested Workflows, Case Studies and Law and Policy.
-Read this [Twitter Thread](https://twitter.com/turingway/status/1275843984015982592?s=20) (online [post version](https://threader.app/thread/1275843984015982592)) for a quick overview, and explore the [issues with details on the GitHub](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aopen+is%3Aissue+label%3Aethics-book+).
+Read this [Twitter Thread](https://twitter.com/turingway/status/1275843984015982592?s=20) (online [post version](https://threader.app/thread/1275843984015982592)) for a quick overview, and explore the [issues with details on GitHub](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aopen+is%3Aissue+label%3Aethics-book+).
 
 We invite your contributions in developing this guide by providing support in ideation, writing, editing, reviewing, reference collection or developing illustrations.
 
@@ -74,6 +74,7 @@ Read the chapter in _The Turing Way_ book, hosted online via Netlify: https://th
 
 Kevin Kunzmann has written a case study to discuss the reproducible research strategy employed in their manuscript on statistical methods back to the respective sections discussed in our Guide for Reproducible Research.
 Read the [case study online](https://the-turing-way.netlify.app/reproducible-research/case-studies/statistical-methods-manuscript.html), which is built upon the following manuscript:
+
 > Kunzmann, K., Grayling, M. J., Lee, K. M., Robertson, D. S., Rufibach, K., & Wason, J. (2020). A review of Bayesian perspectives on sample size derivation for confirmatory trials. arXiv preprint arXiv:2006.15715.
 
 ### New chapters proposed for the Community Handbook
@@ -82,15 +83,17 @@ Many community practices of _The Turing Way_ are derived from Open Source commun
 The [Community Handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html) has been established to capture these practices for our members and related communities to learn from them and replicate them in their communities.
 
 The following pull requests (PR) are open for review and suggestions, that propose new chapters for the Community Handbook:
+
 - A chapter on creating monthly newsletters: [PR #1251](https://github.com/alan-turing-institute/the-turing-way/pull/1251)
 - Hosting _The Turing Way_ coworking calls and Collaboration Cafe: [PR #1257](https://github.com/alan-turing-institute/the-turing-way/pull/1257)
 - _The Turing Way_ book dash events: [PR #1262](https://github.com/alan-turing-institute/the-turing-way/pull/1262)
 - _The Turing Way_ community personas and pathways: [PR #1254](https://github.com/alan-turing-institute/the-turing-way/pull/1254)
-More open PRs can be read and reviewed [on the GitHub](https://github.com/alan-turing-institute/the-turing-way/pull).
+
+More open PRs can be read and reviewed [on GitHub](https://github.com/alan-turing-institute/the-turing-way/pull).
 
 ![A person (Kirstie) reading and reviewing something carefully](images/ReviewScriberia-July2020.png)
 
-*More open PRs can be read and reviewed [on the GitHub](https://github.com/alan-turing-institute/the-turing-way/pull), The Turing Way Community, & Scriberia.*
+*More open PRs can be read and reviewed [on GitHub](https://github.com/alan-turing-institute/the-turing-way/pull), The Turing Way Community, & Scriberia.*
 
 ## Relevant resources
 
@@ -103,25 +106,26 @@ This effort was coordinated by Sarah Gibson, who is giving a talk and running se
 
 As we move all our meetings and conferences online due to the ongoing pandemic and lockdown, it is extremely beneficial to learn from others what best practices we can integrate into our events.
 Recently, Rachael Ainsworth and Shoaib Sufi, the hosts of Software Sustainability Institute’s Collaborations Workshop 2020 (CW20), have published their lessons learned and resources for facilitating virtual unconference.
-An overview can be read on [this online post](https://www.software.ac.uk/news/collaborations-workshop-2020-resources-now-available) and the entire document can be accessed on Figshare under CC-BY license.
+An overview can be read on [this online post](https://www.software.ac.uk/news/collaborations-workshop-2020-resources-now-available) and the entire document can be accessed on Figshare under CC-BY license at [10.6084/m9.figshare.c.5026400](https://doi.org/10.6084/m9.figshare.c.5026400.v3).
 
 Another resource to look at is [Mentored Sprint Community Handbook](https://www.mentored-sprints.dev/) by Tania Allard and team, who run coding sprints, both in-person and online.
 This community offers mentoring and support for the folks that have faced and continue to face barriers to contributing to open source.
 
 ## Tips & Tricks for new contributors
 
-### Contributor is focus: Martina G. Vilas
+### Contributor in focus: Martina G. Vilas
 
 ![headshot of Martina G. Vilas](images/MartinaContributor-July2020.png)
 
-*Martina G. Vilas, our July’s contributor in focus*
+*Martina G. Vilas, our July's contributor in focus*
 
-[Martina Vilas](https://martinagvilas.github.io/) is doing her PhD in Neuroscience at the Max-Planck-Institute AE in Frankfurt, Germany.
+[Martina Vilas](https://martinagvilas.github.io/) is doing her PhD in Neuroscience at the Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany.
 She studies how the brain processes conceptual knowledge analyzing neural recordings with computational modelling techniques.
 As an advocate of open-research, she also works on improving the reproducibility of neuroscientific-analyses and enjoys contributing to open-source software projects.
 Since the Book Dash in February 2020, she further pursues these interests by helping in the maintenance of _The Turing Way_ infrastructure and its reliance on _Jupyter Book_.
 
 In her words:
+
 > _The Turing Way_ is not only a great guide for conducting reproducible research, but it also provides a wonderful entry point into open-source contribution in general and connects you to a variety of open data-science communities.
 
 ### Applying JupyterBook features to _The Turing Way_
@@ -137,24 +141,26 @@ Therefore, we urge you to go through our style guide and help us consistently ap
 ### _The Turing Way_ seminar and Binder workshop
 
 Kirstie Whitaker gave a talk at the University of Exeter Data Science Week on 27 May 2020 introducing _The Turing Way_.
-If you want to learn more about where the project is currently at, see [her talk on Zenodo](https://zenodo.org/record/3929322#.Xw3r55NKjOQ).
+If you want to learn more about where the project is currently at, see [her talk on Zenodo](https://doi.org/10.5281/zenodo.3929321).
 More presentations from the community can also be found on [Zenodo's community page](https://zenodo.org/communities/the-turing-way/).
 
 ### Blogs and online articles
 
 Arielle Bennett-Lovell, wrote [a blog post on _The Turing Way_ book dash](https://www.cscce.org/2020/07/09/book-dashes-collaborative-community-events/#more-4135) based on her participation in the most recent Book Dash event in February 2020.
-Arielle Bennett-Lovell is the Coordinator for the Institute for Neuroscience at the University of Cambridge and a The CSCCE Community Engagement Fellows Program 2019 Fellow.
+Arielle Bennett-Lovell is the Coordinator for the Institute for Neuroscience at the University of Cambridge and a CSCCE Community Engagement Fellows Program 2019 Fellow.
 
-Heidi Siebold, who also attended the book dash with Arielle, has been involved in the community as one of our sustained contributors. She wrote a post for Generation R blog platform explaining _The Turing Way_, our project vision and how practices from this community can be transferred across to different projects.
+Heidi Siebold, who also attended the book dash with Arielle, has been involved in the community as one of our sustained contributors.
+She wrote a post for Generation R blog platform explaining _The Turing Way_, our project vision and how practices from this community can be transferred across to different projects.
 [Read her blog here](https://genr.eu/wp/a-community-handbook-for-open-data-science/).
 
-Malvika Sharan was recently interviewed for The Alan Turing Institute’s Spotlight series, where she discussed her work as the community manager of _The Turing Way_. You can read her interview [here](https://www.turing.ac.uk/people/spotlights/malvika-sharan).
+Malvika Sharan was recently interviewed for The Alan Turing Institute’s Spotlight series, where she discussed her work as the community manager of _The Turing Way_.
+You can read her interview [here](https://www.turing.ac.uk/people/spotlights/malvika-sharan).
 
 ### Tweets
 
 ![Tweet collection for the July 2020](images/Tweets-July2020.png)
 
-***1.** Tweet by [Kirstie Whitaker](https://twitter.com/kirstie_j/status/1275688758097129481?s=20) inviting a chapter contribution on writing and reviewing papers, **2.** Tweet by [Peter Steinbach](https://twitter.com/psteinb_/status/1278654028373790720?s=20) highlighting resources to be considered in _The Turing Way_, **3.** Tweet by [Christina Hitrova](https://twitter.com/C_Hitrova/status/1280966020082139136?s=20) sharing the recent development in the Guide for Ethical Research, and **4.** Tweet by [Ali Seyhun Saral](https://twitter.com/SeyhunSaral/status/1276276376182624263?s=20) sharing our classic table illustrating what we mean by reproducibility, replicability, robust and generalisable in _The Turing Way_.*
+_**1.** Tweet by [Kirstie Whitaker](https://twitter.com/kirstie_j/status/1275688758097129481?s=20) inviting a chapter contribution on writing and reviewing papers, **2.** Tweet by [Peter Steinbach](https://twitter.com/psteinb_/status/1278654028373790720?s=20) highlighting resources to be considered in The Turing Way, **3.** Tweet by [Christina Hitrova](https://twitter.com/C_Hitrova/status/1280966020082139136?s=20) sharing the recent development in the Guide for Ethical Research, and **4.** Tweet by [Ali Seyhun Saral](https://twitter.com/SeyhunSaral/status/1276276376182624263?s=20) sharing our classic table illustrating what we mean by reproducibility, replicability, robust and generalisable in The Turing Way._
 
 ## Connect with us!
 
@@ -165,8 +171,7 @@ Malvika Sharan was recently interviewed for The Alan Turing Institute’s Spotli
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
 - [Twitter Channel](https://twitter.com/turingway)
 
-You are welcome to contribute content for the next newsletter by
-emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
+You are welcome to contribute content for the next newsletter by emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
 
 *Did you miss the last newsletters?*
 *Check them out [here](https://tinyletter.com/TuringWay/archive).*
