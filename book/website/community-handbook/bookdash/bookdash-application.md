@@ -25,7 +25,7 @@ All these responses are securely handled under the [GDPR (General Data Protectio
 
 ## Reviewing process
 
-Applications for the Turing Way book dashes are reviewed by at least 2 members of the Turing Way core team.
+Applications for _The Turing Way_ book dashes are reviewed by at least 2 members of _The Turing Way_ core team.
 A response form created by the organising members using the rubrics described below, the response from which are shared among all the reviewers during a designated meeting between the panel members.
 Scoring for each criterion is done between 0 to 2, where 2=criteria fully met, 1=criteria partially met, and 0=criteria not met.
 This rubric aims to evaluate the application across multiple aspects and avoid any personal bias panel members may have.
@@ -39,8 +39,8 @@ The invited reviewers will rate the participants across multiple dimensions with
 
 * Has the applicant answered the application questions?
 * Does the applicant have a clear, feasible, and relevant idea of how they will contribute to the book dash?	This scoring corresponds generally to reviews of "not ready", "enthusiastic" and "clear" respectively:
-* Is the applicant enthusiastic about reproducibility and the aims of the Turing Way?
-1. Applicants who score **mostly 1s** do not have a clear idea/topic ready for contribution or do not have a clear understanding of the overall goals of The Turing Way and book dash in general.
+* Is the applicant enthusiastic about reproducibility and the aims of _The Turing Way_?
+1. Applicants who score **mostly 1s** do not have a clear idea/topic ready for contribution or do not have a clear understanding of the overall goals of _The Turing Way_ and book dash in general.
 2. Applicants who score **mostly 2s** are enthusiastic if not wholly suitable for the project/event, for example they may come with some ideas for a contribution that is currently not in the scope of the project/event.
 3. Applicants who score **mostly 3s** are clearly ready, goal-oriented, interested in contributing to the project, and excited to learn from others at the event.
 
@@ -55,26 +55,26 @@ Here are the main areas that we will look into when reviewing an application:
 
 **Readiness for the book dash event:**
 
-- 1 (not ready) Does not provide enough information or seems to misunderstand the nature of the Turing Way project and this event in general
-- 2 (enthusiastic) Seems to have a clear understanding of the Turing Way project and this event and brings along a specific content for contributions
+- 1 (not ready) Does not provide enough information or seems to misunderstand the nature of _The Turing Way_ project and this event in general
+- 2 (enthusiastic) Seems to have a clear understanding of _The Turing Way_ project and this event and brings along a specific content for contributions
 - 3 (clear) Seems to have a clear understanding of the Turing Way project and this event and a clear understanding of how they can contribute and collaborate with each other at this event
 
 **Goals for the project contributions:**
 
-- 1 (not ready) Shares vague or general ideas that are unrelated to Turing Way project and this event, or no goals at all
-- 2 (enthusiastic) Shares clear, overly ambitious ideas for the Turing Way project and this event that can likely be refined in a collaboration cafe, or the day before the event during the brainstorm session
-- 3 (clear) Shares clear, achievable contribution/development ideas for this event that fits the Turing Way project and are likely to be achieved through the applicant’s participation.
+- 1 (not ready) Shares vague or general ideas that are unrelated to _The Turing Way_ project and this event, or no goals at all
+- 2 (enthusiastic) Shares clear, overly ambitious ideas for _The Turing Way_ project and this event that can likely be refined in a collaboration cafe, or the day before the event during the brainstorm session
+- 3 (clear) Shares clear, achievable contribution/development ideas for this event that fits _The Turing Way_ project and are likely to be achieved through the applicant’s participation.
 
 **Purpose of participation and what they will get out of the book dash:**
 
-- 1 (not ready) Purposes for participation at the book dash seem almost entirely self-centered and about the applicant’s status, rather than about participating in the Turing Way community to develop the project.
+- 1 (not ready) Purposes for participation at the book dash seem almost entirely self-centered and about the applicant’s status, rather than about participating in _The Turing Way_ community to develop the project.
 - 2 (enthusiastic) Purposes for the participation at the book dash event are not completely clear from the application or are limited (even though useful), such as typo or bug fixing
-- 3 (clear) Purposes for participation at the book dash event are valuable in many ways and are likely to help the applicant to become an active contributor and take ownership of their work in the Turing Way project and in the broader ecosystem in their own rights.
+- 3 (clear) Purposes for participation at the book dash event are valuable in many ways and are likely to help the applicant to become an active contributor and take ownership of their work in _The Turing Way_ project and in the broader ecosystem in their own rights.
 
 **Willingness to collaborate and contribute after the book dash:**
 - 1 (not ready) Seems closed to collaborative ways of working or more interested in only one aspect of data science, research or related topic
-- 2 (enthusiastic) Seems excited to learn from others and the Turing Way project, but in a general way without much understanding of what those things mean yet
-- 3 (clear) Seems excited to collaborate with others and is motivated to contribute to Turing Way community.
+- 2 (enthusiastic) Seems excited to learn from others and _The Turing Way_ project, but in a general way without much understanding of what those things mean yet
+- 3 (clear) Seems excited to collaborate with others and is motivated to contribute to _The Turing Way_ community.
 
 **Would you recommend this applicant?**
 - No

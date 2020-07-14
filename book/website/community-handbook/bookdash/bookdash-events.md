@@ -17,7 +17,7 @@ Most importantly, the core team goes through the contribution guideline and expl
 The template for shared-notes can be accessed in the community handbook {ref}`here<ch-bookdash-precall-template>`.
 You can read notes from the calls from the most recent book dash [here](https://hackmd.io/@malvikasharan/bookdash).
 
-## Day-1 brainstorming and dinner
+## Day-1: brainstorming and dinner
 
 The invited participants join the core team for an introduction session a day before the book dash event.
 This is a chance to everyone to meet the participants and helpers informally, learn about each other and connect with specific members who plan to work on related topic during the book dash.
@@ -33,18 +33,20 @@ In between the meals, participants are invited to give lightning talks where the
 
 ### Agenda for the Day-1
 
+```
 14:00-15:00 BST: Arrive at the book dash venue for informal networking
-15:00-16:00 BST: Intro to Turing Way and book dash
+15:00-16:00 BST: Intro to _The Turing Way_ and book dash
 17:00-17:30 BST: Brainstorming in groups
 17:30-18:00 BST: Report out
 18:30 BST: Arrive at the dinner venue
 19:00 BST: Dinner begins
 20:30-21:00 BST: Lightning talks*
 21:00-22:00 BST: Dinner continues with networking
+```
 
-## The book-dash working day
+## Day-2: coworking day
 
-The next day of the book dash is a collaboration and working day.
+The next day of the book dash is a collaboration and coworking day.
 This day is distributed into 4 sessions of 1 hour 15 minutes each, separated by 15 minutes reflection followed by a break.
 
 The first session facilitates discussions by bringing all the attendees in small groups with their collaborators based on their discussion from the previous day.
@@ -61,20 +63,22 @@ The book dash closes with anonymous feedback on the {ref}`Pluses and Delta<ch-bo
 
 ### Agenda for Day-2
 
+```
 8:30 BST: Arrive at the dashing venue
 8:45 BST: Intro to the second day of the book dash
-9:00 BST: Group working starts (session-1)
+9:00 BST: Coworking starts (session-1)
 10:15 BST: Report
-11:00 BST: Group working continues (session-2)
+11:00 BST: Coworking continues (session-2)
 12:15 BST: Report out
 12:30 BST: Lunch break
-13:30 - 16:30 BST: Group working continues (session-3 and 4)
+13:30 - 16:30 BST: Coworking continues (session-3 and 4)
 16:30 BST: Group share outs and celebrations
 17:00 BST: Event closing and feedback
+```
 
 ## Creating an environment for self-paced contributions
 
-We acknowledge that everyone prefer different setting for working.
+We acknowledge that everyone prefer different setting to work effectively and attentively.
 Therefore we create environment for self-paced contributions to _The Turing Way_ project.
 
 Some recommendation to achieve that is by managing space by:
@@ -107,7 +111,7 @@ If they have a new idea that they would like to add to the project as a new sect
 ### Attend online Collaboration Cafe and coworking call
 
 Our online Collaboration Cafes take place every 1st Wednesdays and 3rd Wednesdays on each month.
-These calls are 2 hours long co-working spaces for The Turing Way community.
+These calls are 2 hours long coworking spaces for _The Turing Way_ community.
 Everyone interested in learning from or developing this project can join us for any duration possible for them. At these calls one can work on their idea for a new contribution or enhancement of existing content in the project.
 
 Participants can sign up on this HackMD to attend the upcoming calls: https://hackmd.io/@KirstieJane/CollabCafe.
@@ -119,7 +123,7 @@ See more details in the chapter {ref}`Coworking Call<ch-coworking-calls>`
 Our contributors can help us by reviewing one of the several open pull requests based on their interest.
 They can join discussions on these pull requests or help in exploring resources that currently exists in the book.
 
-### Representing The Turing Way in your community/conference
+### Representing _The Turing Way_ in your community/conference
 
 If our attendees would like to represent our community, they can connect with _The Turing Way_ team for support and assistance in drafting an abstract and help them prepare to deliver a short workshop or presentation.
 

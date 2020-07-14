@@ -47,8 +47,8 @@ To overcome this limitation, in the last book dash we experimented with partial 
 Based on the success of this hybrid format and further demand for more remote participation, we intend to organise this as a hybrid (partially remote) and complete remote events in the future.
 
 In the case of hybrid and remote events, financial support will be available to support the accessibility requirements of the participants.
-This will include (but not limited to) temporary access to high-speed internet, childcare grant and live close captioning during the event.
-Bursaries will be made available to rent or purchase small hardware such as headphones or webcam that can enhance to quality of their participation at the book dash.
+This will include (but not limited to) temporary access to high-speed internet, childcare grant and live captioning during the event.
+Bursaries will be made available to rent or purchase small hardware such as headphones or webcam that can enhance the quality of participation at the book dash.
 
 ## More resources on book dash
 
