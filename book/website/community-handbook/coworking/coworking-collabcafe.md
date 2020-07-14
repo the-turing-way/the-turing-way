@@ -51,7 +51,7 @@ The call begins with the team members welcoming the participants, sharing the Co
 The welcome, introductions, breaks, and the open discussion will all happen in the main room.
 We may record the call for the part that involves open discussion so that others who can't attend the call can learn from the conversations we have during the Collaboration Cafes.
 For this part, you do not have to speak or have your video on if you prefer not to be in the video.
-The videos will be uploaded to the _Turing Way_ YouTube channel: [https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
+The videos will be uploaded to _The Turing Way_ YouTube channel: [https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
 
 Pomodoro sessions can happen either in the main zoom room in silence or in [breakout rooms](#breakout-rooms).
 We won't record the Pomodoro parts of the Collaboration Cafe, nor conversations in the breakout rooms.

@@ -22,5 +22,5 @@ Our coworking calls can provide opportunities for those member to allocate time 
 
 In this chapter, you will learn about the motivation behind holding coworking calls, techniques we use for making these calls effective, our call formats, and the two types of coworking calls we host: {ref}`Collaboration Cafes <ch-coworking-collabcafe>` and {ref}`Daily Coworking<ch-coworking-daily>`.
 
-We want to make the Collaboration Cafes as useful as possible for as many people as possible.
+We want to make collaborative events like these as useful as possible for as many people as possible.
 Please [let the team members know](/README.md#get-in-touch) if there are other ways we can make these calls more welcoming and helpful for you.

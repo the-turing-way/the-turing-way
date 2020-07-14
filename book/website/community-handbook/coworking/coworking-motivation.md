@@ -20,15 +20,15 @@ The motivation behind hosting these online calls for _The Turing Way_ community 
 4. Create a sense of accountability and ownership for the goals our members want to accomplish in the project
 5. Celebrate the progress of _The Turing Way_ and collaboratively build consensus on the next steps and future directions.
 
-We aim to create a safe space for shared experience, connection, support and collaboration for the distributed _Turing Way_ community.
+We aim to create a safe space for shared experience, connection, support and collaboration for the distributed community of _The Turing Way_.
 
 If you want to attend these calls but don't know what to work on, don't worry!
-The _Turing Way_ core team members will be on the call and point you to some starting points in the project and other ongoing efforts where you can make a difference.
+_The Turing Way_ core team members will be on the call and point you to some starting points in the project and other ongoing efforts where you can make a difference.
 
 ## Techniques
 
 We offer two types of coworking calls: 1-hour short daily calls to work on ongoing projects in the community, and the bimonthly Collaboration Cafes (2-hours) that offers a mix of community discussion and quiet working slots.
-We encourage our members to join during these designated hours for as long as their schedule allows, even if they can't be present during the entire call.
+We encourage our members to attend for as long during these designated hours as their schedule allows, even if they can't be present during the entire call.
 
 These calls use a combination of two techniques:
 1. Shut up & Write method
@@ -43,12 +43,12 @@ Once they identify their starting point and commit to getting through the next s
 
 They explain that the Shut up & Write! events provide two things:
 
-1. Accountability & Habit Formation:
+**1. Accountability & Habit Formation:**
 
 A new habit becomes a part of the daily routine when we commit to doing them consistently on a specific day, time, and location.
 Their participants yield successful outcomes for their writing assignments by making the commitment to attend the writing event each week at the same time for 1 hour.
 
-2. Social Motivation & Support:
+**2. Social Motivation & Support:**
 
 The *sense of belonging* can increase performance and engagement in tasks.
 In a survey conducted on 2000 participants from different sectors, high belonging was linked to a whopping 56% increase in job performance {cite}`HBR2019Belonging`.

@@ -6,7 +6,7 @@ These calls are similar to the Collaboration Cafes, but only 1-hour long.
 It is not scheduled on the days when there is a Collaboration Cafe already scheduled, the daily coworking call.
 
 Like Collaboration Cafe, we host these calls online using [Zoom](https://www.zoom.us/).
-We use the Shut up & Write! the method by providing allocated time, use two 25 minutes long Pomodoro sessions and take two short breaks to chat about our work and exchange what we got done.
+We use the Shut up & Write! method by providing allocated time for two 25 minutes long Pomodoro sessions and two short breaks to chat about our work and exchange what we got done.
 
 This call is hosted by the community member to allow people who are working on certain issues or PRs in _The Turing Way_ to come along and join the community members in their usual working hours.
 These calls will be also a good place to clarify doubts about the project, get their PRs reviewed, brainstorm on different ideas together, and stay connected with other members in the community.
