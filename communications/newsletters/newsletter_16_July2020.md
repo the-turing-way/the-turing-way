@@ -21,7 +21,7 @@ Find more details on these topics below 👇
 
 ### Collaboration Café
 
-Our second July Collaboration Café is today at 15:00 BST ([see in your local time](https://arewemeetingyet.com/london/2020-07-15/15:00)).
+Our second Collaboration Café of this month is today at 15:00 BST ([see in your local time](https://arewemeetingyet.com/london/2020-07-15/15:00)).
 Find details in this [shared HackMD](https://hackmd.io/@KirstieJane/CollabCafe) and sign up to indicate your participation.
 
 This change in schedule is to make sure that our regular attendees can still attend it during their work hour while they are working from home.
