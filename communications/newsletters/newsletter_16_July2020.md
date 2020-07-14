@@ -64,7 +64,7 @@ We invite your contributions in developing this guide by providing support in id
 
 ![Screenshot of Tweet by Ismael](images/IsmaelEthics-July2020.png)
 
-*Tweet by [Ismael Kherrubi Garcia](https://twitter.com/IsmaelKherGar/status/1275854113184587777?s=20)*
+*Image: Tweet by [Ismael Kherrubi Garcia](https://twitter.com/IsmaelKherGar/status/1275854113184587777?s=20) inviting contributions to the Guide for Ethical Research*
 
 ### New chapters on persona creation and a case study in reproducibility
 
