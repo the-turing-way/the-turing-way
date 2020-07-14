@@ -80,7 +80,7 @@ Read the [case study online](https://the-turing-way.netlify.app/reproducible-res
 ### New chapters proposed for the Community Handbook
 
 Many community practices of _The Turing Way_ are derived from Open Source communities such as The Carpentries and Mozilla Foundation and have then further been adapted for our community.
-The [Community Handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html) has been established to capture these practices for our members and related communities to learn from them and replicate them in their communities.
+The [Community Handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html) has been established to capture these practices for our members and related communities to learn from them and apply in their communities.
 
 The following pull requests (PR) are open for review and suggestions, that propose new chapters for the Community Handbook:
 
@@ -143,6 +143,10 @@ Therefore, we urge you to go through our style guide and help us consistently ap
 Kirstie Whitaker gave a talk at the University of Exeter Data Science Week on 27 May 2020 introducing _The Turing Way_.
 If you want to learn more about where the project is currently at, see [her talk on Zenodo](https://doi.org/10.5281/zenodo.3929321).
 More presentations from the community can also be found on [Zenodo's community page](https://zenodo.org/communities/the-turing-way/).
+
+Malvika Sharan and Sarah Gibson ran a Zero to Binder workshop on 10 July at [third Bioinformatics Residential Training](https://github.com/eanbit-rt) Course organised by [the Eastern Africa Network for Bioinformatics Training (EANBiT)](http://eanbit.icipe.org/).
+EANBiT works with universities in Kenya, Uganda and Tanzania, to support curriculum development, offer MSc fellowships and provide their placement in research.
+This year's residential training took place online.
 
 ### Blogs and online articles
 
