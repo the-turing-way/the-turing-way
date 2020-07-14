@@ -8,7 +8,7 @@ For many attendees, this is also the first time they get to contribute to a comm
 
 ```{figure} ../figures/bookdash.png
 ---
-height: 200px
+height: 400px
 name: bookdash
 alt: A person helping out another person making their first pull request on GitHub
 ---

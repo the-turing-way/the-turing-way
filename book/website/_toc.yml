@@ -265,7 +265,7 @@
       file: community-handbook/style/style-crossref
     - title: Using figures
       file: community-handbook/style/style-figures
-  - title: The Turing Way Book Dashes
+  - title: Book Dash Events
     file: community-handbook/bookdash
     sections:
     - title: Application and Review Process
