@@ -1,10 +1,10 @@
 (ch-bookdash)=
 # _The Turing Way_ Book Dashes
 
-The book dashes are a shorter version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants work on _The Turing Way_ book synchronously on the same day either in person or online.
-Currently, the book dashes are organised for 1.5 days where participants can get to know each other and collaboratively develop and enhance resources in the Turing Way book.
+A book dash is a shorter version of a [Book Sprint](https://en.wikipedia.org/wiki/Book_sprint), where participants work on _The Turing Way_ book synchronously on the same day either in person or online.
+This event is organised for 1 to 1.5 days to allow attendees to learn about the project, meet other contributors, discuss their ideas and experiences, and collaboratively develop and enhance resources in _The Turing Way_ book.
 
-These are often the first occasion for many people to make their first pull request on an Open Source project.
+For many attendees, this is also the first time they get to contribute to a community-developed Open Source project.
 
 ```{figure} ../figures/bookdash.png
 ---
@@ -34,7 +34,7 @@ The skills and contributions that we invite at the book dash include, but are no
 - artistic skills for illustrations, sketch notes, and infographics
 - enhancing online aspects of the book (for example, CSS, layout, interactivity, continuous integration)
 - improving accessibility of the content and sharing accessibility principles in data Science
-- data visualisation skills and best practices for visualisation
+- data visualisation skills and best practices
 - storytelling skills that can help make our content more engaging
 
 ## Support available for in-person, hybrid and remote events
