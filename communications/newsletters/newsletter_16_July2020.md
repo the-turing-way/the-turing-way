@@ -1,6 +1,6 @@
 The Turing Way Newsletter: 15 July 2020
 
-# Join today’s Collaboration Cafe, learn how you develop chapters on ethical research and connect on Slack before you go on a summer break!
+# Join today’s Collaboration Cafe, learn how you can develop chapters on ethical research and connect on Slack before you go on a summer break!
 
 Hello Turing Way friends!
 
