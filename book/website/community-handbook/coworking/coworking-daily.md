@@ -11,7 +11,7 @@ We use the Shut up & Write! the method by providing allocated time, use two 25 m
 This call is hosted by the community member to allow people who are working on certain issues or PRs in _The Turing Way_ to come along and join the community members in their usual working hours.
 These calls will be also a good place to clarify doubts about the project, get their PRs reviewed, brainstorm on different ideas together, and stay connected with other members in the community.
 
-## Attending an online Collaboration Cafe
+## Attending an online coworking call
 
 The schedule for the daily coworking calls is updated weekly [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon) for every month.
 We announce these in our [monthly newsletters](https://tinyletter.com/TuringWay/archive) and send a reminder every Monday on the [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
