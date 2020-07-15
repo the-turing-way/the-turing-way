@@ -73,7 +73,7 @@ If you know in advance that you'd join later, you can let the host of the call k
 
 If you would like to set up similar coworking calls for your community, you can reuse the format, template, and materials described in this chapter.
 
-Practices described is what we use in _The Turing Way_, but there are more ways to run such coworking calls. 
+Practices described here are what we use in _The Turing Way_, but there are more ways to run such coworking calls. 
 For example, Naomi Penfold shared more about her coworking format while reviewing this chapter:
 
 > In the co-working calls I have, it's 1:1 and we often spend 20 minutes at the beginning catching up and taking about our progress since last time.
