@@ -74,7 +74,7 @@ Here are a few example questions (so you know what to expect):
 * what are you most excited about this year?
 * What is your favorite flavor in cake/ice-cream?
 
-*(Do you have another interesting question to ask others?*
+*Do you have another interesting question to ask others?*
 *[Get in touch](/README.md#get-in-touch) and let us know!*
 *We love creative suggestions!*
 
