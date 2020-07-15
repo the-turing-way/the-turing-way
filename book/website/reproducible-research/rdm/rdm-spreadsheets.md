@@ -6,7 +6,14 @@ There is a collection of [horror-stories](http://www.eusprig.org/horror-stories.
 editing processes.
 Some of these mishaps are not unique to spreadsheets, but [many are](https://doi.org/10.1186/s13059-016-104).
 
-Most problems can be avoided with two rules: use spreadsheet in a text only format (.csv or .tsv), avoid manipulating and analysing data in spreadsheet software (this includes copy-paste). Spreadsheets are a powerful tool, if one recognise that computers are not fancy typewriters, but that the data has to be organised in a specific form to be usable by computers (and data scientist).
+Most problems can be avoided with the three rules explained below: 
+- use spreadsheet in a text only format (.csv or .tsv)
+- create tidy spreadsheets
+- and avoid manipulating and analysing data in spreadsheet software (this includes copy-paste). 
+
+Spreadsheets are a powerful tool, if one recognise that computers are not fancy typewriters, but that the data has to be organised in a specific form to be usable by computers (and data scientist).
+
+
 
 ## Avoid Non-data content
 
@@ -30,7 +37,7 @@ Tip: If you want to use color to help with a rapid highlight in your document, c
 If the spreadsheet is poorly organised then it may be [difficult for collaborators](https://luisdva.github.io/pls-don't-do-this/) to easily [read-in and re-use](#FAIR) your
 data for further analysis.
 
-The number one nightmare of data scientists is indeed a researcher coming with a question related to "a couple of spreadsheets to analyse". This is mainly because reading the data will be a very long process. There are very simple rules to facilitate data use, which go into the concept of [**tidy data**](https://en.wikipedia.org/w/index.php?title=Tidy_data&oldid=962241815). In short:
+The number one nightmare of data scientists is indeed a researcher coming with a question related to "a couple of spreadsheets to analyse". This is mainly because reading the data will be a very long process. There are very simple rules to facilitate data use, which go into the concept of [**tidy data**](https://en.wikipedia.org/w/index.php?title=Tidy_data&oldid=962241815). By the way, this specific format also allows for filtering and sorting data easily in spreadsheet software. In short:
 
 - one colum = one variable (no more, no less, this implies that two header names can not be identical)
 - one row = one sample
@@ -38,9 +45,16 @@ The number one nightmare of data scientists is indeed a researcher coming with a
 - **first row and only the first row is the header** 
 - Headers name: do not include special character (including space), do not start with a number
 
+| ![tidy table figure](../../figures/tidy-1.png)         |
+| ------------------------------------------------------------------------------------ |
+|Three rules which make a dataset tidy:|
+|1. Each variable must have its own column.|
+|2. Each observation must have its own row.|
+|3. Each value must have its own cell.  |
+
 There are data validation tools available, like https://goodtables.io, that allows you check automaticall whether your spreadsheets are tidy.
 
-## Other tips
+## 3. Other tips
 
 ### Deal with time information
 
@@ -75,31 +89,7 @@ Finally, restricting values in specific columns (linking spreadsheets with taxon
 
 A good spreadsheet design has instructive and intuitive header names, and it facilitate both data collection and analysis. Building such a spreadsheet design is difficult, takes time, iteration and consensus. It is therefore very useful to look for standard spreadsheet before designing your own, and share your design openly once you created yours. One should also use a version history of the spreadsheets (as they will evolve over time) and analysis script should mention the version number of the spreadsheet. A documentation of the spreadsheet, its version history, and the ontologies it is linked to, can be useful for future users. 
 
-## Data manipulation and analysis
-
-**Do not do data manipulation or analysis in a spreadsheet program.**
-
-In particular, only copy-paste from one spreadsheet to another if the process is used very rarely. It is now very easy to read and combine the different spreadsheets in the analysis software, with the additional advantage that the software will return an error message if the headers do not fit.
-
-## Other tips
-
-The following principles, provide some practical advice to ensure your data is clearly organised and human- and machine-readable {% cite Broman2018data --suppress_author %}, most of them were already mentioned above:
-
-- Be consistent
-- Write dates as YYYY-MM-DD
-- Don't leave any cells empty, if there is no data use "NA" (Not Available)
-- Put each observation/sample in its own cell/row
-- Put each variable in a column
-- Each cell should contain information on one thing: separate multiple pieces of information to different cells
-- Create a data dictionary
-- Don't include calculations in the raw data files: make the file with raw data read-only!
-- Don’t use font, color or highlighting, consider adding another variable/column for this information
-- Choose descriptinve names for observations and variables and make sure there are no spaces or special characters in the names
-- Make backups
-- Use data validation to avoid data entry mistakes
-- Save the data in text files (such as `.csv` - comma-separated values) to ensure interoperability with other software programmes.
-
-### Working in team wrap-up
+### Working in team: wrap-up
 
 If you are working with a team on data collection, make sure:
 - everyone is using the same software (and software version) to enter the data.
@@ -108,6 +98,16 @@ If you are working with a team on data collection, make sure:
 - every column has a defined standard on how to enter data in it, or a taxonomy of terms that one can use.
 - One person is responsible to answer putative questions during data collection.
 - every spreadsheet is validated before entering the analysis workflow, and as soon as possible.
+
+## Data manipulation and analysis
+
+**Do not do data manipulation or analysis in a spreadsheet program.**
+
+In particular, only copy-paste from one spreadsheet to another if the process is used very rarely. It is now very easy to read and combine the different spreadsheets in the analysis software, with the additional advantage that the software will return an error message if the headers do not fit.
+
+
+
+
 
 ## Summary
 
