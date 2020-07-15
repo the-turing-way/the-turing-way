@@ -16,7 +16,7 @@ These calls will be also a good place to clarify doubts about the project, get t
 The schedule for the daily coworking calls is updated weekly [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon) for every month.
 We announce these in our [monthly newsletters](https://tinyletter.com/TuringWay/archive) and send a reminder every Monday on the [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
 
-Though scheduled for 1 hour, you are welcome to join for as long as your schedule allows, however, please let the host of the call know if you can join in the middle of the schedule.
+Though scheduled for 1 hour, you are welcome to join for as long as your schedule allows, however, please let the host of the call know if you plan to join in the middle of the schedule.
 
 ### Resource used for the call
 
