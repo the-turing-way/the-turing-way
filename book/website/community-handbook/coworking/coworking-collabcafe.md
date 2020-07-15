@@ -14,6 +14,10 @@ We also announce calls in our [monthly newsletters](https://tinyletter.com/Turin
 
 Though scheduled for 2 hours, we understand that for many interested participants it might be impossible to commit to the entire 2 hours on one or multiple occasions, therefore, you are welcome to join for as long as your schedule allows.
 
+If the current schedule of the online Collaboration Cafe is not suitable for your time zone, you are welcome to host a separate collaboration cafe for your community/time zone.
+Please open a new issue (see [this example](https://github.com/alan-turing-institute/the-turing-way/issues/684)) or reach out to _The Turing Way_ team members for details.
+We are also currently developing a guide for hosting these calls ([issue #925](https://github.com/alan-turing-institute/the-turing-way/issues/925)).
+
 ### Resource used for the call
 
 Here are the resources we use for these calls:
@@ -46,17 +50,38 @@ We'll run the following schedule during each Collaboration Cafe:
 | 30 mins | Open discussion: celebrations, reflections and future directions |
 | 5 mins | 👋 Close |
 
+#### Beginning
+
 The call begins with the team members welcoming the participants, sharing the Code of Conduct, reminding how to participate in the call, and setting the stage for quick introductions by everyone.
 
+#### Breaks
+
+We will take short breaks after each Pomodoro to discuss what we are working on, ask questions that might help you in your next Pomodoro session, share any error or progress, and celebrate each others successes.
+
+We will use the last 30 minutes for themed discussion, collaborative troubleshooting, or idea exchange for the project and community.
+
 The welcome, introductions, breaks, and the open discussion will all happen in the main room.
-We may record the call for the part that involves open discussion so that others who can't attend the call can learn from the conversations we have during the Collaboration Cafes.
-For this part, you do not have to speak or have your video on if you prefer not to be in the video.
-The videos will be uploaded to _The Turing Way_ YouTube channel: [https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
+
+#### Pomodoro sessions
 
 Pomodoro sessions can happen either in the main zoom room in silence or in [breakout rooms](#breakout-rooms).
 We won't record the Pomodoro parts of the Collaboration Cafe, nor conversations in the breakout rooms.
-You don't need to know in advance what you're going to do in those Pomodoro 🍅 sessions!
+You don't need to know in advance what you're going to do in those Pomodoro sessions!
 There will always be someone who can help you develop a goal, or allocate a task that you can do in a couple of rounds of 20 minutes.
+
+#### If joining this call later
+
+During a typical Pomodoro session, attendees are sent to breakout rooms based on the topic they are working on.
+If you join later, you will be able to check the remaining time in the ongoing Pomodoro by opening the shared clock in your browser (link should be provided in the shared notes).
+You can use that Pomodoro session to sign up, read notes from other attendees in the shared document, and explore what you would like to work on during the next Pomodoro session.
+
+If you know in advance what time you will join the coworking call, you can let the host know before the call or leave a note in the shared document.
+
+#### Recording this call
+
+We may record the call for the part that involves open discussion so that others who can't attend the call can learn from the conversations we have during the Collaboration Cafes.
+For this part, you do not have to speak or have your video on if you prefer not to be in the video.
+The videos will be uploaded to _The Turing Way_ YouTube channel: [https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
 
 ### Sign-up and icebreaker
 
@@ -142,7 +167,3 @@ Breakout room conversation topics might include:
 * Bug squashing - removing barriers (technical and otherwise)
 
 The person chairing the call will put you into the specific breakout rooms for the Pomodoro sessions and then bring you back into the main room for the 5-minute breaks and the broader conversation at the end of the Collaboration Cafe.
-
-If the current schedule of the online Collaboration Cafe is not suitable for your time zone, you are welcome to host a separate collaboration cafe for your community/time zone.
-Please open a new issue (see [this example](https://github.com/alan-turing-institute/the-turing-way/issues/684)) or reach out to _The Turing Way_ team members for details.
-We are also currently developing a guide for hosting these calls ([issue #925](https://github.com/alan-turing-institute/the-turing-way/issues/925)).
