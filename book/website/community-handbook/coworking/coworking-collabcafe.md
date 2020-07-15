@@ -9,7 +9,7 @@ One or two members from the core team are always available on the call to suppor
 
 ## Attending an online Collaboration Cafe
 
-The schedule for the collaboration cafe can be looked upon at the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon) for every month.
+The schedule for the collaboration cafe can be viewed from the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon).
 We also announce calls in our [monthly newsletters](https://tinyletter.com/TuringWay/archive), send a reminder on the [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) and [Twitter](https://twitter.com/turingway).
 
 Though scheduled for 2 hours, we understand that for many interested participants it might be impossible to commit to the entire 2 hours on one or multiple occasions, therefore, you are welcome to join for as long as your schedule allows.
