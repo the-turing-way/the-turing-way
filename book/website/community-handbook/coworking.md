@@ -16,7 +16,7 @@ name: coworking
 alt: An illustration of a group of people who are working together and discussing something
 ---
 An illustration of a group coworking. [Royalty free image from Many Pixels](https://www.manypixels.co/gallery/)
-Our coworking calls can provide opportunities for those member to allocate time to their desired tasks in _The Turing Way_ and get them done, partially or fully, with the support of others in the call who can help discuss their plans, share ideas or hold accountability.
+Our coworking calls provide opportunities for community members to allocate time to their desired tasks in _The Turing Way_ and get them done, partially or fully, with the support of others in the call who can help discuss their plans, share ideas or hold accountability.
 
 In this chapter, you will learn about the motivation behind holding coworking calls, techniques we use for making these calls effective, our call formats, and the two types of coworking calls we host: {ref}`Collaboration Cafes <ch-coworking-collabcafe>` and {ref}`Daily Coworking<ch-coworking-daily>`.
 
