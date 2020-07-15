@@ -26,7 +26,8 @@ The resource requirement for these calls is also very similar to the Collaborati
 2. Online call by [Zoom](https://www.zoom.us/): The Zoom link is provided in the HackMD.
 3. An online Pomodoro clock: [https://cuckoo.team/TW-coworking](https://cuckoo.team/TW-coworking)
 
-We don't record the call or create [breakout rooms](#breakout-rooms) during these call (unless there are multiple people working on same things).
+We don't record these calls.
+We also don't create {ref}`breakout rooms<ch-coworking-collabcafe-breakout>` unless there are multiple people working on same things.
 
 ### Format of the call
 
@@ -43,16 +44,41 @@ We'll run the following schedule during each call:
 | 25 mins | 🍅 2nd Pomodoro session |
 | 5 mins | Open discussion and Close 👋 |
 
-The call begins with the team members welcoming the participants, sharing the Code of Conduct, reminding how to participate in the call, and setting the stage for everyone to share what they will be working on.
-
-If there is no new member, we will directly start the [timer](https://cuckoo.team/TW-coworking) for the first Pomodoro.
-If everyone is working on an independent task, we will remain in the main room and work silently.
-For any discussion or collaborative task that two people of the call are working on, we will create [breakout rooms](#breakout-rooms) for them.
-
-We will take short breaks after each Pomodoro to reflect on what we could get done and what would be the next step.
-
 In contrast to the Collaboration Cafes, the schedule for these daily calls seems more intense with less chance for discussion.
 However, since these calls are attended by fewer participants, it provides more opportunities for informal interactions.
 
+#### Beginning
+
+The call begins with the team members welcoming the participants, sharing the Code of Conduct, reminding how to participate in the call, and setting the stage for everyone to share how they are doing and what they will be working on.
+
+#### Pomodoros
+
+We will start the [timer](https://cuckoo.team/TW-coworking) to keep track of the Pomodoro sessions.
+If everyone plans to work on independent tasks, we will remain in the main room and work silently.
+For any discussion or collaborative task that two people of the call are working on, we will create [breakout rooms](#breakout-rooms) for them.
+
+If there are new members on the call, one of the members (usually host of the call) will take the new member to a breakout room to show around the project repository and share some tips for getting started.
+
+#### Breaks
+
+We will take short breaks after each Pomodoro to reflect on what we could get done, troubleshoot any error that any attendee might have come across, verbalise our progress and celebrate small successes.
+
+#### If joining this call later
+
+If you join later, you might see people quietly working on their tasks.
+You can track the time left before the next break by opening the [shared clock](https://cuckoo.team/TW-coworking) in your browser.
+If you know in advance that you'd join later, you can let the host of the call know by either contacting them before the call or leaving a note in the shared document.
+
+#### Coworking with your colleagues
+
 If you would like to set up similar coworking calls for your community, you can reuse the format, template, and materials described in this chapter.
-Also, check out this post on [Online Co-working Partnerships are Community of Practice in Action](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/#more-3009) by Naomi Penfold and Stefanie Butland.
+
+Practices described is what we use in _The Turing Way_, but there are more ways to run such coworking calls. 
+For example, Naomi Penfold shared more about her coworking format while reviewing this chapter:
+
+> In the co-working calls I have, it's 1:1 and we often spend 20 minutes at the beginning catching up and taking about our progress since last time.
+If there is something we want to discuss more intensely, we allocate 30 minutes of our call time to that, for example, one of us asking the other how to troubleshoot something. 
+For the time in between, we do a few quiet working sessions (sometimes 25 minutes, sometimes longer).
+This is likely a combination of a co-mentoring call and a co-working pomodoro call, and it works well for me.
+
+You can read more this post, [Online Co-working Partnerships are Community of Practice in Action](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/#more-3009), by Naomi Penfold and Stefanie Butland to learn from their 1:1 coworking format.
