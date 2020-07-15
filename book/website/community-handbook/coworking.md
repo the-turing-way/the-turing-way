@@ -1,6 +1,6 @@
 # Community Coworking Calls
 
-The concept of coworking is generally associated with the practice of sharing physical office space with different people who work independently such as the remote employees or freelancers.
+The concept of coworking is generally associated with the practice of sharing physical office space with different people who work independently such as remote employees or freelancers.
 This allows people, who otherwise may feel isolated while working alone at home, to use traditional office setups, create a work routine, and build a sense of companionship with others who they share their office spaces with.
 
 We bring this practice to _The Turing Way_ online coworking calls intending to develop a sense of energy and inspiration of in-person interactions, without the time and travel commitments.
