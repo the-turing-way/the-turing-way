@@ -25,11 +25,11 @@ Here are the resources we use for these calls:
 
 We coordinate our tasks on the shared HackMD and/or _The Turing Way_ GitHub repository, where we can work collaboratively or independently while working on an older GitHub issues/PRs, creating new issues/PRs, taking notes as comments on the GitHub repository or working on a branch locally.
 
-### Format of the call
+## Format of the call
 
 We have a template for the {ref}`Collaboration Cafes<ch-coworking-collabcafe-template>`, which is updated on the [shared HackMD](https://hackmd.io/@KirstieJane/CollabCafe) for each call.
 
-#### Schedule
+### Schedule
 
 We'll run the following schedule during each Collaboration Cafe:
 
@@ -58,7 +58,7 @@ We won't record the Pomodoro parts of the Collaboration Cafe, nor conversations 
 You don't need to know in advance what you're going to do in those Pomodoro 🍅 sessions!
 There will always be someone who can help you develop a goal, or allocate a task that you can do in a couple of rounds of 20 minutes.
 
-#### Sign-up and icebreaker
+### Sign-up and icebreaker
 
 If you're interested in joining the next Collaboration Cafe, please let the organisers know by adding your name to the **Sign Up** section of the [HackMD notes page](https://hackmd.io/@KirstieJane/CollabCafe#Sign-up-below).
 Adding your name is helpful for the organisers so they can prepare for the call.
@@ -89,14 +89,14 @@ Here's an example from the second Collaboration Cafe in September 2019:
 As you can see, there's a reminder in the notes that they are in a public document.
 It's totally fine for you to add as much or as little information as you feel comfortable sharing.
 
-#### Conversation starters
+### Conversation starters
 
 In the **Conversation Starters** section of the [HackMD notes page](https://hackmd.io/@KirstieJane/CollabCafe#Conversation-Starters), we encourage everyone to advertise their events or give an update from their community.
 
 These don't have to be Turing Way "branded"!
 **We want to know about all the cool things you're working on.** ✨
 
-#### Good first contributions
+### Good first contributions
 
 We want the Collaboration Cafes to be a place that welcomes new and old members to _The Turing Way_ community.
 
@@ -112,7 +112,8 @@ Good first contributions might include:
 * Finding an old issue or PR and try to summarize the discussion so it is easy to decide on the next step.
 * Adding your personal experience of reproducible research in the always open google form: [https://goo.gl/forms/akFqZEIy2kxAjfZW2](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
 
-#### Breakout rooms
+(ch-coworking-collabcafe-breakout)=
+### Breakout rooms
 
 Zoom allows groups of collaborators to chat in one "main room" altogether, or to split up - within the same call - and talk with each other in smaller ["breakout rooms"](https://support.zoom.us/hc/en-us/articles/206476093-Getting-Started-with-Breakout-Rooms).
 
