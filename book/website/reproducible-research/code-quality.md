@@ -31,9 +31,9 @@ Some of the most widely used `linters` are mentioned in the below table:
 | Language                  | Static code analysis tool|
 |---------------------------|------------------------|
 | C/C++                     | [Cppcheck](http://cppcheck.sourceforge.net/), [cpplint](https://github.com/cpplintcpplint)|
-| Python                    | [Pylint](https://pypi.org/project/pylint/), [lintr](https://github.com/jimhester/lintr)|
+| Python                    | [Pylint](https://pypi.org/project/pylint/), [prospector](https://prospector.readthedocs.io)|
 | Javascript                | [ESLint](https://eslint.org/), [JSlint](https://jslint.com/), [JSHint](https://jshint.com/)|
 | Java                      | [Checkstyle](https://checkstyle.sourceforge.io/), [FindBugs](http://findbugs.sourceforge.net), [PMD](https://pmd.github.io/)|
 | Perl                      | [PerlTidy](https://metacpan.org/pod/perltidy)|
-| R                         | [prospector](https://prospector.readthedocs.io)|
+| R                         | [lintr](https://github.com/jimhester/lintr)|
 | Shell/Bash                | [shellcheck](https://www.shellcheck.net)|
