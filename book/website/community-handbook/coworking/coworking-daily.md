@@ -6,10 +6,10 @@ These calls are similar to the Collaboration Cafes, but only 1-hour long.
 It is not scheduled on the days when there is a Collaboration Cafe already scheduled, the daily coworking call.
 
 Like Collaboration Cafe, we host these calls online using [Zoom](https://www.zoom.us/).
-We use the Shut up & Write! method by providing allocated time for two 25 minutes long Pomodoro sessions and two short breaks to chat about our work and exchange what we got done.
+We use the Shut up & Write! method by providing allocated time for two 20-25 minutes long Pomodoro sessions and two short breaks to chat about our work and exchange what we got done.
 
-This call is hosted by the community member to allow people who are working on certain issues or PRs in _The Turing Way_ to come along and join the community members in their usual working hours.
-These calls will be also a good place to clarify doubts about the project, get their PRs reviewed, brainstorm on different ideas together, and stay connected with other members in the community.
+These calls are hosted for people who are working on certain issues or PRs in _The Turing Way_ to come along and join other community members in their usual working hours.
+These calls also provide opportunities to clarify doubts about the project, get PRs reviewed, brainstorm different ideas together, and stay connected with other members in the community.
 
 ## Attending an online coworking call
 
@@ -26,7 +26,7 @@ The resource requirement for these calls is also very similar to the Collaborati
 2. Online call by [Zoom](https://www.zoom.us/): The Zoom link is provided in the HackMD.
 3. An online Pomodoro clock: [https://cuckoo.team/TW-coworking](https://cuckoo.team/TW-coworking)
 
-We don't create the [breakout rooms](#breakout-rooms) during the call or record the call.
+We don't record the call or create [breakout rooms](#breakout-rooms) during these call (unless there are multiple people working on same things).
 
 ### Format of the call
 
