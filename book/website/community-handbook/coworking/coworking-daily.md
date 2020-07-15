@@ -81,4 +81,4 @@ If there is something we want to discuss more intensely, we allocate 30 minutes 
 For the time in between, we do a few quiet working sessions (sometimes 25 minutes, sometimes longer).
 This is likely a combination of a co-mentoring call and a co-working pomodoro call, and it works well for me.
 
-You can read more this post, [Online Co-working Partnerships are Community of Practice in Action](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/#more-3009), by Naomi Penfold and Stefanie Butland to learn from their 1:1 coworking format.
+You can read more about Naomi's and Stefanie Butland's 1:1 coworking format in this post: [Online Co-working Partnerships are Community of Practice in Action](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/#more-3009).
