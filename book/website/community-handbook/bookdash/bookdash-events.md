@@ -26,7 +26,9 @@ This is a chance to everyone to meet the participants and helpers informally, le
 *Three of our participants, Heidi, Esther and Adina, exchanging local sweets and snacks from their home country at the beginning of the event (picture by Kirstie Whitaker)*
 
 In a dedicated hour, the core team members provide an overview of _The Turing way_ project and resources that are available for the participants for their book dash contributions.
-The next hours are dedicated for brainstorming in small groups, organising thoughts and ideas for their contributions the next day, share their plans with each other at the end of the session and identify their collaborators based on the similarity of their topics of interest.
+The next hours are dedicated to the participants brainstorming in small groups, organising their thoughts and ideas for contributions the next day, sharing their plans with other participants at the end of the session and identifying their collaborators based on the similarity of their interests.
+
+For participants who are unfamiliar with GitHub or would like a refresher, the core team members and volunteers guide them through the process of making their first pull request.
 
 The day ends with a group dinner hosted by the core team to allow participants to relax after an intense discussion session and enjoy meals together in an informal setting.
 In between the meals, participants are invited to give lightning talks where they can share their personal stories and talk about a project that they’re either working on or are excited about.
