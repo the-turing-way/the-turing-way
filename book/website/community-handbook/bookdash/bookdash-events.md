@@ -81,7 +81,7 @@ The book dash closes with anonymous feedback on the {ref}`Pluses and Delta<ch-bo
 We acknowledge that everyone prefer different setting to work effectively and attentively.
 Therefore we create an environment for self-paced contributions to _The Turing Way_ project.
 
-Some recommendation to achieve that is by managing space by:
+Some recommendations to achieve this by managing the space at the book dash by:
 - offering a separate space for open discussion for people who work better by discussing their ideas out loud.
 - providing semi-quiet spaces or headphone for noise cancellation for people who don't need active discussions.
 - setting us a shared notes for everyone to take notes together and draw inspiration from each others work (see {ref}`template for notes<ch-bookdash-notes-template>`).
