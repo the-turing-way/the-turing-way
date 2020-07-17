@@ -5,7 +5,7 @@ The application, review, and selection process have been developed to provide a 
 
 In this subchapter, we have provided details on the book dash's application and reviewing process.
 
-## Call for application
+## Call for applications
 
 The book dash event is organised for up to 15 participants.
 The reason behind keeping it small is to allow the core team members to offer specific mentorship to the invited participants and make this an interactive, intimate, fun, and productive event.
