@@ -27,7 +27,8 @@ All these responses are securely handled under the [GDPR (General Data Protectio
 
 Applications for _The Turing Way_ book dashes are reviewed by at least 2 members of _The Turing Way_ core team.
 A response form created by the organising members using the rubrics described below, the response from which are shared among all the reviewers during a designated meeting between the panel members.
-Scoring for each criterion is done between 0 to 2, where 2=criteria fully met, 1=criteria partially met, and 0=criteria not met.
+Scoring for each criterion is done between 1 to 3, where 3=criteria fully met, 2=criteria partially met, and 1=criteria not met.
+To avoid personal bias, each of these scores is clearly defined for every question in the review response form, which is explained below.
 This rubric aims to evaluate the application across multiple aspects and avoid any personal bias panel members may have.
 
 *This rubric is adapted from the [Mozilla Open Leadership](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/) and the [Open Life Science](https://openlifesci.org/) programs*
