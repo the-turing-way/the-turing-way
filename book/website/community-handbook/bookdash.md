@@ -33,7 +33,7 @@ The skills and contributions that we invite at the book dash include, but are no
 - developing learning resources and reusable contents on ethics and AI
 - artistic skills for illustrations, sketch notes, and infographics
 - enhancing online aspects of the book (for example, CSS, layout, interactivity, continuous integration)
-- improving accessibility of the content and sharing accessibility principles in data Science
+- improving accessibility of the content and sharing accessibility principles in data science
 - data visualisation skills and best practices
 - storytelling skills that can help make our content more engaging
 
