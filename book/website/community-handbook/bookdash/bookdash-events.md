@@ -79,7 +79,7 @@ The book dash closes with anonymous feedback on the {ref}`Pluses and Delta<ch-bo
 ## Creating an environment for self-paced contributions
 
 We acknowledge that everyone prefer different setting to work effectively and attentively.
-Therefore we create environment for self-paced contributions to _The Turing Way_ project.
+Therefore we create an environment for self-paced contributions to _The Turing Way_ project.
 
 Some recommendation to achieve that is by managing space by:
 - offering a separate space for open discussion for people who work better by discussing their ideas out loud.
