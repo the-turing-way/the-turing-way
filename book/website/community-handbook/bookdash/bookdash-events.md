@@ -32,7 +32,7 @@ For participants who are unfamiliar with GitHub or would like a refresher, the c
 
 The day ends with a group dinner hosted by the core team to allow participants to relax after an intense discussion session and enjoy meals together in an informal setting.
 In between the meals, participants are invited to give lightning talks where they can share their personal stories and talk about a project that they’re either working on or are excited about.
-
+Lightning talks are short (normally 2 minutes long) and are given without slides.
 ### Agenda for the Day-1
 
 ```
