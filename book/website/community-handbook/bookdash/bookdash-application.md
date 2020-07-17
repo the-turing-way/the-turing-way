@@ -10,7 +10,7 @@ In this subchapter, we have provided details on the book dash's application and 
 The book dash event is organised for up to 15 participants.
 The reason behind keeping it small is to allow the core team members to offer specific mentorship to the invited participants and make this an interactive, intimate, fun, and productive event.
 
-To fairly make this selection, a call for application is opened at least 3 months in advance so that interested members can share their skills, interest, and expected outcomes through a short application.
+To fairly make this selection, a call for applications is opened at least 3 months in advance so that interested members can share their skills, interest, and expected outcomes through a short application.
 The applications are kept open for a minimum of 4 weeks and the timeline is communicated clearly through our newsletters, Twitter feed, and application form.
 
 We want to make sure that the selected group of participants brings diverse skills, knowledge, and experience to _The Turing Way_, therefore we request our applicants to answer some demographic questions (on gender, ethnicity, and career stage).
