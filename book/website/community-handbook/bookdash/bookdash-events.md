@@ -57,7 +57,7 @@ Participants are also encouraged to come up with the main sections of their cont
 During the second session, participants work in self-organised groups or individually with the support of organisers and helpers.
 This session ends with a quick report out from each group followed by a lunch break.
 
-During the third and fourth session, participants come back to continue working uninterrupted on their contribution ideas and take break as they need.
+During the third and fourth session, participants come back to continue working uninterrupted on their contribution ideas and take breaks as they need.
 At the end of this session, participants gather all their contributions  on _The Turing Way_ GitHub repository (issues, pull requests and notes) and add that in the shared notes before taking a short break.
 
 The last session is the final report out and celebration of each other's work.
