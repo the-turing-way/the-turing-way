@@ -83,7 +83,10 @@ You do not have to think about the order of the columns for the analysis, as it 
 
 ### Accepted values
 
-Especially if you work with a team on data collection, it is very important to make sure everyone will enter the same information with the same term. If we take the example above, if some people use "bluish", or "b" instead of blue, the analysis of the data will be more difficult. Discrpencies might lead to errors, expecially if the same terms could mean different things depending on who is entering the data. Dates are again a very good example as 02-03 will mean February the third in the USA, but March the second in Europe.
+Especially if you work with a team on data collection, it is very important to make sure everyone will enter the same information with the same term. 
+If we take the example above, if some people use "bluish", or "b" instead of blue, the analysis of the data will be more difficult. 
+Discrepancies might lead to errors, especially if the same terms could mean different things depending on who is entering the data. 
+Dates are again a very good example as 02-03 will mean February the third in the USA, but March the second in Europe.
 
 **Critical: make sure you use dots for decimal.** or make sure to document that you used commas, that all spreadsheets are using the same convention. This is particulary important in Europe where commas are normally used for decimal, meaning .csv export will need quotes for each number cell to be importable. If you are using excel in a team, be sure to all use the same version, as the default decimal value may change.
 
