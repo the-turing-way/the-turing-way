@@ -1626,6 +1626,15 @@
         "tutorial",
         "review"
       ]
+    },
+    {
+      "login": "Aariq",
+      "name": "Eric R Scott",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/25404783?v=4",
+      "profile": "http://www.ericrscott.com",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
