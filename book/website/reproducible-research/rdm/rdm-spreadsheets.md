@@ -91,7 +91,10 @@ Finally, restricting values in specific columns (linking spreadsheets with taxon
 
 ### Standard and versioning
 
-A good spreadsheet design has instructive and intuitive header names, and it facilitate both data collection and analysis. Building such a spreadsheet design is difficult, takes time, iteration and consensus. It is therefore very useful to look for standard spreadsheet before designing your own, and share your design openly once you created yours. One should also use a version history of the spreadsheets (as they will evolve over time) and analysis script should mention the version number of the spreadsheet. A documentation of the spreadsheet, its version history, and the ontologies it is linked to, can be useful for future users. 
+A good spreadsheet design has instructive and intuitive header names, and it facilitates both data collection and analysis. 
+Building such a spreadsheet design is difficult, takes time, iteration and consensus. It is therefore very useful to look for standard spreadsheet before designing your own, and share your design openly once you created yours. 
+One should also use a version history of the spreadsheets (as they will evolve over time) and analysis script should mention the version number of the spreadsheet. 
+Documentation of the spreadsheet, its version history, and the ontologies it is linked to, can be useful for future users. 
 
 ### Working in team: wrap-up
 
