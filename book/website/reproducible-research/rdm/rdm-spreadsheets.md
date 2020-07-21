@@ -37,7 +37,11 @@ Tip: If you want to use color to help with a rapid highlight in your document, c
 If the spreadsheet is poorly organised then it may be [difficult for collaborators](https://luisdva.github.io/pls-don't-do-this/) to easily [read-in and re-use](#FAIR) your
 data for further analysis.
 
-The number one nightmare of data scientists is indeed a researcher coming with a question related to "a couple of spreadsheets to analyse". This is mainly because reading the data will be a very long process. There are very simple rules to facilitate data use, which go into the concept of [**tidy data**](https://en.wikipedia.org/w/index.php?title=Tidy_data&oldid=962241815). By the way, this specific format also allows for filtering and sorting data easily in spreadsheet software. In short:
+The number one nightmare of data scientists is indeed a researcher coming with a question related to "a couple of spreadsheets to analyse". 
+This is mainly because reading the data will be a very long process. 
+There are very simple rules to facilitate data use, which go into the concept of [**tidy data**](https://en.wikipedia.org/w/index.php?title=Tidy_data&oldid=962241815). 
+Furthermore, this specific format also allows for filtering and sorting data easily in spreadsheet software. 
+In short:
 
 - one colum = one variable (no more, no less, this implies that two header names can not be identical)
 - one row = one sample
