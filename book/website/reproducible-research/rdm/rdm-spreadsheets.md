@@ -88,7 +88,9 @@ If we take the example above, if some people use "bluish", or "b" instead of blu
 Discrepancies might lead to errors, especially if the same terms could mean different things depending on who is entering the data. 
 Dates are again a very good example as 02-03 will mean February the third in the USA, but March the second in Europe.
 
-**Critical: make sure you use dots for decimal.** or make sure to document that you used commas, that all spreadsheets are using the same convention. This is particulary important in Europe where commas are normally used for decimal, meaning .csv export will need quotes for each number cell to be importable. If you are using excel in a team, be sure to all use the same version, as the default decimal value may change.
+**Critical: make sure you use dots for decimal.** or make sure to document that you used commas, that all spreadsheets are using the same convention. 
+This is particularly important in Europe where commas are normally used for decimal, meaning .csv export will need quotes for each numbered cell to be importance. 
+If you are using excel in a team, be sure to all use the same version, as the default decimal value may change.
 
 Finally, restricting values in specific columns (linking spreadsheets with taxonomies or ontologies) can be very useful. There are specific tools to help people fill such columns, as well as tools to validate the spreadsheets before integration in the analysis.
 
