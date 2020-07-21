@@ -1,4 +1,4 @@
-# Contributing to the _Turing Way_
+# Contributing to _The Turing Way_
 
 :tada::balloon::cake: **Welcome to _The Turing Way_ repository!** :cake::balloon::tada:
 
