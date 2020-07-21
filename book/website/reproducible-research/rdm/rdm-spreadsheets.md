@@ -76,7 +76,8 @@ The way you enter the information (that is the way you design your headers and c
 
 Headers names should be chosen with care, and when it is not perfectly clear what is meant and what unit is used (you may send the spreadsheet to a colleague to make sure it is), you may want to add some explanation in an external document. An alternative way is to put the headers in the second row, and some explanations in the first, then one can read the file starting from the second raw duting the analysis, while keeping human readable information in the first row. This is not a common practice, though. As for file name, the size of the headers is not an issue (at least until 32 characters) for computers, but will be for human readability, so it might be better to keep it short.
 
-You do not have to think about the order of the columns for the analysis, as it has no importance for data analysis software. You can therefore completely optimise that parameter for the data collection step.
+You do not have to think about the order of the columns for the analysis, as it has no importance for data analysis software. 
+You can therefore completely optimise that parameter for the data collection step.
 
 
 
