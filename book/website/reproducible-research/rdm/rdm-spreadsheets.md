@@ -2,7 +2,7 @@
 
 Spreadsheets, such as Microsoft Excel files, googlesheets, and their Open Source alternative [(for instance) LibreOffice](https://www.libreoffice.org), are commonly used to collect, store, manipulate, analyse, and share research data.
 Spreadsheets are convenient and easy-to-use tools for organising information into an easy to write and easy to read forms for humans. 
-However, one should use them with caution, as inappropriate spreadsheet use is a major cause of mistakes in the data analysis workflow.
+However, one should use them with caution, as the use of inappropriate spreadsheet is a major cause of mistakes in the data analysis workflow.
 There is a collection of [horror-stories](http://www.eusprig.org/horror-stories.htm) that tells how the use of spreadsheets can ruin analysis-based studies due to unexpected behaviour of the spreadsheet or error-prone
 editing processes.
 Some of these mishaps are not unique to spreadsheets, but [many are](https://doi.org/10.1186/s13059-016-104).
@@ -110,7 +110,7 @@ You can therefore completely optimise that parameter for the data collection ste
 ### Accepted values
 
 Especially if you work with a team on data collection, it is very important to make sure everyone will enter the same information with the same term. 
-If we take the example above, if some people use "bluish", or "b" instead of blue, the analysis of the data will be more difficult. 
+If we the example of iris data, if some people use different terms to record information for a specific column, such as naming the column "species" instead of "Species", or using "iris setosa", "set." or "i.setosa" instead of "setosa", the creation of a reproducible workflow  will be more difficult and errors may even be overlooked.  
 Discrepancies often lead to errors, especially when the same terms could mean different things depending on who is entering the data. 
 For example, indicating date as 02-03 will mean February the third in the USA, but March the second in Europe.
 
