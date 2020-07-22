@@ -109,8 +109,8 @@ Documentation of the spreadsheet, its version history, and the ontologies it is 
 If you are working with a team on data collection, make sure:
 - everyone is using the same software (and software version) to enter the data.
 - everyone is using the same version of the spreadsheet template.
-- everyone understand what each column represents, and the unit that should be used.
-- every column has a defined standard on how to enter data in it, or a taxonomy of terms that one can use.
+- everyone understands what each column represents, and the unit that should be used.
+- every column has a defined standard on how to enter data in it or taxonomy of terms that one can use.
 - One person is responsible to answer putative questions during data collection.
 - every spreadsheet is validated before entering the analysis workflow, and as soon as possible.
 
