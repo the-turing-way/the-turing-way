@@ -329,6 +329,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://www.ericrscott.com"><img src="https://avatars2.githubusercontent.com/u/25404783?v=4" width="100px;" alt=""/><br /><sub><b>Eric R Scott</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3AAariq" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/foster999"><img src="https://avatars0.githubusercontent.com/u/31405412?v=4" width="100px;" alt=""/><br /><sub><b>David Foster</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Afoster999" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Afoster999" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/mloning/"><img src="https://avatars3.githubusercontent.com/u/21020482?v=4" width="100px;" alt=""/><br /><sub><b>Markus Löning</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Amloning" title="Reviewed Pull Requests">👀</a> <a href="#content-mloning" title="Content">🖋</a></td>
   </tr>
 </table>
 
