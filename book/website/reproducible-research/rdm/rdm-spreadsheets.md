@@ -92,7 +92,23 @@ You indeed want that information into one column, but you would like to enter it
 One solution is to move these columns on a second (Non-printed) page on the spreadsheet, and playing with the headers and footers to enter the information on the paper version.
 One needs to make sure the information is indeed entered in the column during digitalisation.
 
-The way you enter the information (that is the way you design your headers and cell content) may be different depending on the analysis you want to perform later. One should still always try to be as generic and objective as possible, and think about additional analysis one may want to perform. As an example, let's suppose you are interested in a genetic tree of people with blue eyes. While you may have a column "has_blue_eyes" with the value true or false, it would be better to have a column about the eye colour (brown - blue- green) as it will be easy to create the  "has_blue_eyes" information from it, and allow additional analysis. (In this case, blue and green eyes might be the same gene for eyes, with a different skin color).
+The way you enter the information (that is the way you design your headers and cell content) may be different depending on the analysis you want to perform later.
+One should still always try to be as generic and objective as possible, and think about additional analysis one may want to perform. 
+The way you enter the information (that is the way you design your headers and cell content) may be different depending on the analysis you want to perform later. One should still always try to be as generic and objective as possible, and think about additional analysis one may want to perform. 
+
+As an example, let's suppose you are interested in depicting if the percentage of flowers whose sepal length is longer than 6 mm is different in three iris species.
+You may be inclined to record a true or false column `is-sepal-longer-than-6cm`, but this will restrict the analysis you can perform.
+A better solution is to record the length of the sepal (in mm), and create automatically the categorization later.
+
+If you are using R, you would then plot what you wanted with:
+```
+iris %>% ## the iris dataset is included in R base
+  dplyr::mutate ("is-sepal-longer-than-6cm" = ifelse(Sepal.Length >6, TRUE, FALSE)) %>% ## this create the new column
+  ggplot2::ggplot (aes (x=`is-sepal-longer-than-6cm` , fill= Species)) + ggplot2::geom_bar() ## this plots the data
+```
+  
+
+
 
 Headers names should be chosen with care, and when it is not perfectly clear what is meant and what unit is used, you may want to add some explanation in an external document. 
 You may also share a sample spreadsheet to a colleague to receive feedback on how understandable your sheet is.
