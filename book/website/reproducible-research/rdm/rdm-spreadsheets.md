@@ -17,7 +17,11 @@ Spreadsheets are a powerful tool, if one recognise that computers are not fancy 
 
 ## Avoid Non-data content
 
-Spreadsheets are organising data in a tabular form. The relation between subject, relation and object is transformed into rows, columns, and cells respectively. For example `experiment`, `was perfomed on date`, `2020-06-06` gives one row for each experiment, one column for `date of expeiment`and the value  `2020-06-06` in the cell. Unfortunately for data science, spreadsheets program allows you to add other kind of contents to this, like adding color to specific cells. While it may help the researchers at some point, one needs to remember that this kind of **cell modification should not be considered as data**, especially since they cannot be exported to other software.
+Spreadsheets are used for organising data in a tabular form. 
+The subject, the object and the relationship between them are transformed into rows, cells and columns respectively.
+For example, the subject: `experiment`, relationship: `was performed on the date`, the object: `2020-06-06` gives one row for each experiment, one column for `date of experiment` and the value `2020-06-06` in the cell. 
+Unfortunately for data science, the spreadsheets program allows you to add other kinds of contents to this, like adding color to specific cells. 
+While it may help the researchers at some point, one needs to remember that this kind of **cell modification should not be considered as data**, especially since they cannot be exported to other software.
 
 As a simple rule, what can be exported in a text-only format, comma separated values (CSV) or tab separated values (TSV), can be considered as the data, other functions should be avoided when using these programm for research data. This includes: 
 - changing font, color or borders,
