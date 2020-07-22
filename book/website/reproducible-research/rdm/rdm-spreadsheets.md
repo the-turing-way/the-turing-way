@@ -2,7 +2,7 @@
 
 Spreadsheets, such as Microsoft Excel files, googlesheets, and their Open Source alternative [(for instance) LibreOffice](https://www.libreoffice.org), are commonly used to collect, store, manipulate, analyse, and share research data.
 Spreadsheets are convenient and easy-to-use tools for organising information into an easy to write and easy to read forms for humans. However, one should use them with caution, as inapropriate spreadsheet use is a major cause of mistakes in the data analysis workflow.
-There is a collection of [horror-stories](http://www.eusprig.org/horror-stories.htm) that document the many ways that the use of spreadsheets have scuppered analyses due to unexpected behaviour or error-prone
+There is a collection of [horror-stories](http://www.eusprig.org/horror-stories.htm) that tells how the use of spreadsheets can ruin analysis-based studies due to unexpected behaviour of the spreadsheet or error-prone
 editing processes.
 Some of these mishaps are not unique to spreadsheets, but [many are](https://doi.org/10.1186/s13059-016-104).
 
@@ -11,7 +11,7 @@ Most problems can be avoided with the three rules explained below:
 - create tidy spreadsheets
 - and avoid manipulating and analysing data in spreadsheet software (this includes copy-paste). 
 
-Spreadsheets are a powerful tool, if one recognise that computers are not fancy typewriters, but that the data has to be organised in a specific form to be usable by computers (and data scientist).
+Spreadsheets are a powerful tool only if the dataset is collected and organised in specific formats that are usable for both the computers and researchers.
 
 
 
@@ -23,13 +23,15 @@ For example, the subject: `experiment`, relationship: `was performed on the date
 Unfortunately for data science, the spreadsheets program allows you to add other kinds of contents to this, like adding color to specific cells. 
 While it may help the researchers at some point, one needs to remember that this kind of **cell modification should not be considered as data**, especially since they cannot be exported to other software.
 
-As a simple rule, what can be exported in a text-only format, comma separated values (CSV) or tab separated values (TSV), can be considered as the data, other functions should be avoided when using these programm for research data. This includes: 
+As a simple rule, what can be exported in a text-only format, comma-separated values (CSV) or tab-separated values (TSV), can be considered as the data, other functions should be avoided when using these programs for research data. 
+This includes: 
 - changing font, color or borders,
 - using functions, 
 - merging cells (this one is particularly problematic), 
 - using specific cell formats (especially dates, see below). 
 
-As a test for your spreadsheet compatibility with reproducible research, export it in .csv format and reopen it: if you can still get all the information from that sheet, you are good.
+As a test for your spreadsheet compatibility with reproducible research, export your data from the spreadsheet to the CSV format, and reopen it.
+If you can still get all the information that you stored in your sheet, then your data is fine.
 
 ```
 Tip: If you want to use color to help with a rapid highlight in your document, create a new column to enter that information (then it becomes is data) and use the conditional formatting tool to had color depending on the data entered. On top of the visual feedback, you can now also use that information to filter or sort your data and get faster to the highlighted cells.
@@ -60,7 +62,7 @@ In short:
 |2. Each observation must have its own row.|
 |3. Each value must have its own cell.  |
 
-There are data validation tools available, like https://goodtables.io, that allows you check automaticall whether your spreadsheets are tidy.
+There are data validation tools available, like https://goodtables.io, that allows you to check automatically whether your spreadsheets are tidy.
 
 ## 3. Other tips
 
@@ -71,7 +73,12 @@ The only 100% secure way to deal with this is to make different columns for year
 
 ### Working with several sheets
 
-You often use several sheets for different but related data. It is a very useful tool indeed, expecially when one wants to share the whole data with colleagues. .csv files on the other hand are only saving one sheet at a time. In addition, most data analysis software have ways to import .xlsx files, such that the format is qutie a standard. The practical solution is to work with the .xlsx format, while making sure all the information is avaialble in a .csv export for each sheet. A better solution, especially for long term storage, is to save all sheets separately in a csv file and zip them together. This latter solution allows to contain also extra documenations that could be in a different format (for example a text file explaning the meaning of the headers and the unit chosen)
+We often use several sheets for different but related data. 
+It is a very useful tool indeed, especially when one wants to share the complete dataset with colleagues. 
+On the other hand, csv files only save one sheet at a time. 
+Though most data analysis software has several ways to import xlsx files, the practical solution is to work with the xlsx format while making sure that the information is available in csv format for each sheet. 
+A better solution, especially for long term storage, is to save all sheets separately in a csv file and zip them together. 
+This latter solution allows containing also extra documentations that could be in a different format (for example a text file explaining the meaning of the headers and the unit chosen)
 
 ### Spreadsheet design
 
@@ -79,24 +86,30 @@ In order to avoid mistakes and be most efficient, the same spreadsheet should be
 
 The way you enter the information (that is the way you design your headers and cell content) may be different depending on the analysis you want to perform later. One should still always try to be as generic and objective as possible, and think about additional analysis one may want to perform. As an example, let's suppose you are interested in a genetic tree of people with blue eyes. While you may have a column "has_blue_eyes" with the value true or false, it would be better to have a column about the eye colour (brown - blue- green) as it will be easy to create the  "has_blue_eyes" information from it, and allow additional analysis. (In this case, blue and green eyes might be the same gene for eyes, with a different skin color).
 
-Headers names should be chosen with care, and when it is not perfectly clear what is meant and what unit is used (you may send the spreadsheet to a colleague to make sure it is), you may want to add some explanation in an external document. An alternative way is to put the headers in the second row, and some explanations in the first, then one can read the file starting from the second raw duting the analysis, while keeping human readable information in the first row. This is not a common practice, though. As for file name, the size of the headers is not an issue (at least until 32 characters) for computers, but will be for human readability, so it might be better to keep it short.
+Headers names should be chosen with care, and when it is not perfectly clear what is meant and what unit is used, you may want to add some explanation in an external document. 
+You may also share a sample spreadsheet to a colleague to receive feedback on how understandable your sheet is.
+
+An alternative way is to put some explanations on the top of the sheet in the first rows before the headers.
+By keeping human-readable information at the top of the file, one can better understand the data that starts in a row with the header.
+This information can also help in analysing that data making sure that the scripts ignore the explanation lines and considers the explanation during analysis.
+However, a good file with tidy columns and rows should not need extra explanation.
+
+As for file name, the size of the headers is not an issue for computers, but for human readability it might be better to keep it short (up to 32 characters).
 
 You do not have to think about the order of the columns for the analysis, as it has no importance for data analysis software. 
 You can therefore completely optimise that parameter for the data collection step.
-
-
-
 
 ### Accepted values
 
 Especially if you work with a team on data collection, it is very important to make sure everyone will enter the same information with the same term. 
 If we take the example above, if some people use "bluish", or "b" instead of blue, the analysis of the data will be more difficult. 
-Discrepancies might lead to errors, especially if the same terms could mean different things depending on who is entering the data. 
-Dates are again a very good example as 02-03 will mean February the third in the USA, but March the second in Europe.
+Discrepancies often lead to errors, especially when the same terms could mean different things depending on who is entering the data. 
+For example, indicating date as 02-03 will mean February the third in the USA, but March the second in Europe.
 
-**Critical: make sure you use dots for decimal.** or make sure to document that you used commas, that all spreadsheets are using the same convention. 
-This is particularly important in Europe where commas are normally used for decimal, meaning .csv export will need quotes for each numbered cell to be importance. 
-If you are using excel in a team, be sure to all use the same version, as the default decimal value may change.
+**Critical: make sure you use dots for decimal.** 
+If you are working with data and researchers in countries that follow a different convention, clearly documented those caveats and maintain all your spreadsheets using the same convention. 
+This is particularly important in several European countries (like Germany) where commas are normally used for decimal.
+If you are using excel in a team, be sure to use the same convention, else the default decimal value may end up varying from user to user.
 
 Finally, restricting values in specific columns (linking spreadsheets with taxonomies or ontologies) can be very useful. 
 There are specific tools to help people fill such columns, as well as tools to validate the spreadsheets before integration in the analysis.
@@ -104,8 +117,9 @@ There are specific tools to help people fill such columns, as well as tools to v
 ### Standard and versioning
 
 A good spreadsheet design has instructive and intuitive header names, and it facilitates both data collection and analysis. 
-Building such a spreadsheet design is difficult, takes time, iteration and consensus. It is therefore very useful to look for standard spreadsheet before designing your own, and share your design openly once you created yours. 
-One should also use a version history of the spreadsheets (as they will evolve over time) and analysis script should mention the version number of the spreadsheet. 
+Building such a spreadsheet design is difficult as it takes time, multiple iterations, and consensus. 
+It is therefore very useful to look for a standard spreadsheet before designing your own, and share your design openly once you created yours. 
+One should also use a version history of the spreadsheets (as they will evolve over time) and the analysis script should mention the version number of the spreadsheet. 
 Documentation of the spreadsheet, its version history, and the ontologies it is linked to, can be useful for future users. 
 
 ### Working in team: wrap-up
