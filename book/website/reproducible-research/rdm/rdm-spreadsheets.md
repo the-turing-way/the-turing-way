@@ -34,7 +34,8 @@ As a test for your spreadsheet compatibility with reproducible research, export 
 If you can still get all the information that you stored in your sheet, then your data is fine.
 
 ```
-Tip: If you want to use color to help with a rapid highlight in your document, create a new column to enter that information (then it becomes is data) and use the conditional formatting tool to had color depending on the data entered. On top of the visual feedback, you can now also use that information to filter or sort your data and get faster to the highlighted cells.
+Tip: If you want to use color to help with a rapid highlight in your document, create a new column to indicate which cells are highlighted (it becomes a part of your data).
+In addition to the visual feedback, you can now also use this information to filter or sort your data and get the highlighted cells quickly.
 
 ```
 
