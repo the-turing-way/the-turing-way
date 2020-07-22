@@ -121,10 +121,6 @@ If you are working with a team on data collection, make sure:
 In particular, only copy-paste from one spreadsheet to another if the process is used very rarely. 
 It is now very easy to read and combine the different spreadsheets in the analysis software, with the additional advantage that the software will return an error message if the headers do not fit.
 
-
-
-
-
 ## Summary
 
 While spreadsheet can be a very user friendly way to collect and share data, they can be the source of mistakes if used inappropriately. When aiming at doing reproducible analyses, one should design the spreadsheet for computer-readability and easy data analysis before starting data collection. Data manipulation and analysis in spreadsheets, in particular, is best avoided as it lead to non-reproducible workflows. Using version control and making the data read-only are two additional data management practices that can prevent accidents.
