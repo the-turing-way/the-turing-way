@@ -2,7 +2,7 @@
 
 Spreadsheets, such as Microsoft Excel files, googlesheets, and their Open Source alternative [(for instance) LibreOffice](https://www.libreoffice.org), are commonly used to collect, store, manipulate, analyse, and share research data.
 Spreadsheets are convenient and easy-to-use tools for organising information into an easy to write and easy to read forms for humans. 
-However, one should use them with caution, as the use of inappropriate spreadsheet is a major cause of mistakes in the data analysis workflow.
+However, one should use them with caution, as inappropriate spreadsheet use is a major cause of mistakes in the data analysis workflow.
 There is a collection of [horror-stories](http://www.eusprig.org/horror-stories.htm) that tells how the use of spreadsheets can ruin analysis-based studies due to unexpected behaviour of the spreadsheet or error-prone
 editing processes.
 Some of these mishaps are not unique to spreadsheets, but [many are](https://doi.org/10.1186/s13059-016-104).
@@ -45,8 +45,9 @@ In addition to the visual feedback, you can now also use this information to fil
 If the spreadsheet is poorly organised then it may be [difficult for collaborators](https://luisdva.github.io/pls-don't-do-this/) to easily [read-in and re-use](#FAIR) your
 data for further analysis.
 
-The number one nightmare of data scientists is indeed a researcher coming with a question related to "a couple of spreadsheets to analyse". 
-This is mainly because reading the data will be a very long process. 
+Indeed, a large part of the work of data scientist is to transform the data into a form that the computer can read. 
+This is particularly time consuming when the information is split between several spreadsheets and that no plan were made before data acquisition.
+
 There are very simple rules to facilitate data use, which go into the concept of [**tidy data**](https://en.wikipedia.org/w/index.php?title=Tidy_data&oldid=962241815). 
 Furthermore, this specific format also allows for filtering and sorting data easily in spreadsheet software. 
 In short:
@@ -84,7 +85,12 @@ This latter solution allows containing also extra documentations that could be i
 
 ### Spreadsheet design
 
-In order to avoid mistakes and be most efficient, the same spreadsheet should be used to collect the data (even if this happens on a printed version of the spreadsheet) and analyse the data. The poses some design questions, especially for information which are unique for one experiment but that needs to be included in the data, as it changes between experiments (experimentator, temperature of the room,...). You indeed want that information into one column, but you would like to enter it only once (especially on a printed version). One solution is to move these columns on a second (Non-printed) page on the same spreadsheet, and playing with the headers and footers to enter the information on paper. 
+Data is often collected manually, on paper.
+In order to avoid mistakes and be most efficient in this case, it is best to collect the data in the same format as it will be digitalised, that is one should design the computer-readable spreadsheet to be printed for data collection.
+This poses some design questions, especially for information which are unique for one experiment (one paper), but changes between experiments (experimentator, temperature of the room,...).
+You indeed want that information into one column, but you would like to enter it only once during data acquisition (especially on the paper version).
+One solution is to move these columns on a second (Non-printed) page on the spreadsheet, and playing with the headers and footers to enter the information on the paper version.
+One needs to make sure the information is indeed entered in the column during digitalisation.
 
 The way you enter the information (that is the way you design your headers and cell content) may be different depending on the analysis you want to perform later. One should still always try to be as generic and objective as possible, and think about additional analysis one may want to perform. As an example, let's suppose you are interested in a genetic tree of people with blue eyes. While you may have a column "has_blue_eyes" with the value true or false, it would be better to have a column about the eye colour (brown - blue- green) as it will be easy to create the  "has_blue_eyes" information from it, and allow additional analysis. (In this case, blue and green eyes might be the same gene for eyes, with a different skin color).
 
