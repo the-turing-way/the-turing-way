@@ -2,7 +2,7 @@
 
 Spreadsheets, such as Microsoft Excel files, googlesheets, and their Open Source alternative [(for instance) LibreOffice](https://www.libreoffice.org), are commonly used to collect, store, manipulate, analyse, and share research data.
 Spreadsheets are convenient and easy-to-use tools for organising information into an easy to write and easy to read forms for humans. 
-However, one should use them with caution, as inappropriate spreadsheet use is a major cause of mistakes in the data analysis workflow.
+However, one should use them with caution, as the use of inappropriate spreadsheet is a major cause of mistakes in the data analysis workflow.
 There is a collection of [horror-stories](http://www.eusprig.org/horror-stories.htm) that tells how the use of spreadsheets can ruin analysis-based studies due to unexpected behaviour of the spreadsheet or error-prone
 editing processes.
 Some of these mishaps are not unique to spreadsheets, but [many are](https://doi.org/10.1186/s13059-016-104).
