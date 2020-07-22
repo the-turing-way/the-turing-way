@@ -127,7 +127,10 @@ It is now very easy to read and combine the different spreadsheets in the analys
 
 ## Summary
 
-While spreadsheet can be a very user friendly way to collect and share data, they can be the source of mistakes if used inappropriately. When aiming at doing reproducible analyses, one should design the spreadsheet for computer-readability and easy data analysis before starting data collection. Data manipulation and analysis in spreadsheets, in particular, is best avoided as it lead to non-reproducible workflows. Using version control and making the data read-only are two additional data management practices that can prevent accidents.
+While spreadsheets can be a very user-friendly way to collect and share data, they can also be the source of mistakes if used inappropriately. 
+When aiming at developing a reproducible workflow for analyses, one should design the spreadsheet for both computer and human readability, and even before starting data collection, they should consider what makes their data analysis easy. 
+Data manipulation and analysis in spreadsheets, in particular, is best avoided as it leads to non-reproducible workflows. 
+Using version control and making the data read-only are two additional data management practices that can prevent accidents.
 
 
 Use a README texte file to explain naming conventions on top of the spreadsheet desing choices, so that it will also become clear to others what the file names mean. If you work in team, you should take particular care to the rules and make sure everyone is following them. 
