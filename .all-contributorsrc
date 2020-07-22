@@ -1635,6 +1635,16 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "foster999",
+      "name": "David Foster",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/31405412?v=4",
+      "profile": "https://github.com/foster999",
+      "contributions": [
+        "review",
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
