@@ -133,6 +133,8 @@ Data manipulation and analysis in spreadsheets, in particular, is best avoided a
 Using version control and making the data read-only are two additional data management practices that can prevent accidents.
 
 
-Use a README texte file to explain naming conventions on top of the spreadsheet desing choices, so that it will also become clear to others what the file names mean. If you work in team, you should take particular care to the rules and make sure everyone is following them. 
+Use a README file to explain naming conventions and other design choices on top of the spreadsheet.
+It will make it clear to others what the file names mean and what criteria to consider when designing an analysis workflow. 
+If you work in a team, you should take particular care of the conventions and make sure everyone follows them. 
 
 To learn more about data organisation in spreadsheets, you may have a look at the Data Carpentry lessons for [Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/) and [Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
