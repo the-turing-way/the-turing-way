@@ -60,7 +60,7 @@ Open source software projects allow researchers to take advantage of each others
 This enables researchers to apply their efforts to high-value work. 
 It is sometimes said that “all the easy problems have already been solved”. 
 Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few. 
-While developers could spend their time reinventing wheels that the open source community have already perfected, it is highly preferable to use the world’s best wheel, especially when that wheel comes at no cost to you. 
+While developers could spend their time reinventing wheels that the open source community has already perfected, it is highly preferable to use the world’s best wheel, especially when that wheel comes at no cost to you. 
 This reduces duplication of effort and allows researchers to focus on yet-unsolved challenges.
 
 #### Checkable
