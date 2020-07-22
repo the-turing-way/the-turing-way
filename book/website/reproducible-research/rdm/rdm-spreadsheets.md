@@ -62,7 +62,8 @@ There are data validation tools available, like https://goodtables.io, that allo
 
 ### Deal with time information
 
-While dates should be written as yyyy-mm-dd, excel and other softwares tend to transform this data into their own format for dates (even during data import from a .csv file !). The only 100% secure way to deal with this is to make different columns for years, months and day and recreate the date in the software used for analysis. Time entered with hh:mm:ss normally works.
+While dates should be written as yyyy-mm-dd, excel and other software tend to transform this data into their own format for dates (even during data import from a csv file). 
+The only 100% secure way to deal with this is to make different columns for years, months, and days and recreate the data in the software used for analysis. Time entered with hh:mm:ss normally works.
 
 ### Working with several sheets
 
