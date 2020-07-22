@@ -102,7 +102,7 @@ git merge --abort
 Before you start trying to resolve conflicts make sure you fully understand the changes and how they are incompatible to avoid the risk of making things more tangled.
 Merge conflicts can be intimidating to resolve, especially if you are merging branches that diverged a great many commits ago which may now have many incompatibilities.
 However, it is a good reminder that your previous versions are safe and you can go about fixing this issue without affecting the past versions.
-This is why it is good practice to ** merges other's changes into your work frequently**.
+This is why it is good practice to **merges other's changes into your work frequently**.
 
 There are tools available to assist in resolving merge conflicts, some are free, some are not.
 Find and familiarise yourself with one that works for you.
