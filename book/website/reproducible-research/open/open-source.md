@@ -65,7 +65,8 @@ This reduces duplication of effort and allows researchers to focus on yet-unsolv
 
 #### Checkable
 
-Open-source projects allow the wider research community to read and test each others' code. This way, bugs can be found more quickly and results can be validated by other researchers. 
+Open-source projects allow the wider research community to read and test each others' code. 
+This way, bugs can be found more quickly and results can be validated by other researchers. 
 
 #### Collaborative
 Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups. 
