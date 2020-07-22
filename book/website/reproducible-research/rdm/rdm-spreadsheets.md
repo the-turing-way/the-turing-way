@@ -116,7 +116,7 @@ If you are working with a team on data collection, make sure:
 
 ## Data manipulation and analysis
 
-**Do not do data manipulation or analysis in a spreadsheet program.**
+**Do not manipulate or analyse data in a spreadsheet program.**
 
 In particular, only copy-paste from one spreadsheet to another if the process is used very rarely. 
 It is now very easy to read and combine the different spreadsheets in the analysis software, with the additional advantage that the software will return an error message if the headers do not fit.
