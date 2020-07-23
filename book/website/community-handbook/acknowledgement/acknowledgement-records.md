@@ -102,7 +102,7 @@ Contributors will be acknowledged in the Contributors table with the 💬
 (`question`) emoji for answering questions, 🤔 (`ideas`) emoji for discussions, 🚇 (`infra`) emoji for infrastructure support, and 🚧 (`maintenance`) for community efforts or infrastructure maintenance.
 
 The contributor's file will be updated for the contributors with a similar statement as below:
-> * Pathways of contributions: `Contributor's name` has `details like responded to questions in the community's Gitter channel, mentored multiple contributors within the community and has reviewed pull requests to fix typos in the book, maintains the backend infrastructure of the project, provide support and solution regarding Jupyter book and continuous integration, designed and implemented a process to translate the book into multiple languages, helped multiple contributors in facilitating translation efforts`.  
+> * Pathways of contributions: `Contributor's name` has `details like responded to questions in the community's Gitter channel, mentored multiple contributors within the community and has reviewed pull requests to fix typos in the book, maintains the backend infrastructure of the project, provide support and solution regarding Jupyter book and continuous integration, designed and implemented a process to translate the book into multiple languages, helped multiple contributors in facilitating translation efforts`.
 
 #### Representing the Turing Way
 
