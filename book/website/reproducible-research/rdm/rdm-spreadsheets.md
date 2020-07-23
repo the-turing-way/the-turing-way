@@ -67,7 +67,30 @@ In short:
 |3. Each value must have its own cell.  |
 
 There are data validation tools available, like https://goodtables.io, that allows you to check automatically whether your spreadsheets are tidy.
+## Consistent values
 
+Especially if you work with several spreadsheets or if you work with a team during data collection, it is very important to make sure the same information will be entered with the same term, and a same term always convey the same information. 
+If we take the example of iris data, if some people use different terms to record information for a specific column, such as naming the column `species` instead of `Species`, or using `iris setosa`, `set.` or `i.setosa` instead of `setosa`, the creation of a reproducible workflow  will be more difficult and errors may even be overlooked.  
+Discrepancies often lead to errors, especially when the same terms could mean different things depending on who is entering the data. 
+For example, indicating date as 02-03 will mean February the third in the USA, but March the second in Europe.
+
+
+It is good practice to implement a `data dictionary`or a `taxonomy`of accepted terms and to document the convention used in a readme file.
+Depending on the software you are using, you may be able to restrict the accepted values in specific columns.
+If there is such a taxonomy or ontology available, using it may allow you (or others) to use the data in conjonction with other datasets.
+For example, use the generic `male` and `female` terms for the sex of animal (without capitals, and without using abbreviation), as many ontologies use these terms.
+In addition, you may want to use some extra tools to validate the spreadsheets before its integration in the analysis.
+
+
+In addition, you should have clear rules about missing data points, using `NA`, `NULL` and/or empty cells is not trivial and may have different meanings (impossible data point, not recorded, or lost data point). 
+Let's imagine, one would record the time spent before seeing the first pollinator landing on the iris flower measured previously, and that no pollinator was seen during the 5 minutes experiment.
+If one reports `600` (the duration of the experiment in seconds), there will be no way to distinguish a case where no pollinator was seen, and one when one was seen at the end of the experiment (and you may forget that rule and treat 600 as a normal value).
+If `NA` is reported, one may interpret this value as a non-existing data point (the experiment had not been performed).
+An elegant solution is to have a second column stating whether a pollinator was seen during the experiment, where `TRUE`, `FALSE` and `NA` values are accepted.
+
+Finally, you should also be aware of the default behaviour of your spreadsheet program, as it may be different for different programs, and for different versions of the same program.
+For instance, the decimal is usually indicated with a comma in the French or German version of excel, but while a dot in enlish versions where the comma has no meaning
+(`9,000`  will be translated into 9000 or 9 depending on the version you are using).
 ## 3. Other tips
 
 ### Deal with time information
