@@ -28,4 +28,5 @@ We also described how we acknowledge them in the contributor's table in the [REA
 In this chapter, we provide details on the following aspects:
 - who our contributors and community members are
 - how we create opportunities for a shared ownership of this project
-- how can we use records of contributions to highlight work of our community members
+- how we can use records of contributions to highlight work of our community members
+- what the different types and possible pathways for contributions exist in _The Turing Way_
