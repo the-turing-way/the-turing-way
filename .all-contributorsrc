@@ -406,7 +406,8 @@
       "profile": "https://kkmann.github.io/",
       "contributions": [
         "doc",
-        "ideas"
+        "ideas",
+        "bug"
       ]
     },
     {
@@ -1624,6 +1625,35 @@
       "contributions": [
         "tutorial",
         "review"
+      ]
+    },
+    {
+      "login": "Aariq",
+      "name": "Eric R Scott",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/25404783?v=4",
+      "profile": "http://www.ericrscott.com",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "foster999",
+      "name": "David Foster",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/31405412?v=4",
+      "profile": "https://github.com/foster999",
+      "contributions": [
+        "review",
+        "bug"
+      ]  
+    },
+    {
+      "login": "mloning",
+      "name": "Markus Löning",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/21020482?v=4",
+      "profile": "https://www.linkedin.com/in/mloning/",
+      "contributions": [
+        "review",
+        "content"
       ]
     }
   ],

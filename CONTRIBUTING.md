@@ -94,7 +94,7 @@ GitHub has a helpful page on [getting started with writing and formatting on Git
 
 Most of the writing that you'll do will be in [Markdown][markdown].
 You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting.
-For example you could write words as **bold** (`**bold**`), or in _italics_ (`_italics_`), or as a [link][rick-roll] (`[link](https://https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
+For example you could write words as **bold** (`**bold**`), or in _italics_ (`_italics_`), or as a [link][rick-roll] (`[link](https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
 
 Also when writing in Markdown, please start each new sentence on a new line.
 While this formats in the same way as if the new line wasn't included, it makes the [diffs produced during the pull request](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests) review easier to read! :sparkles:
@@ -342,6 +342,7 @@ You can build and host the book website locally. The steps are:
 2. You can now build or refresh the book using:
 
    ```
+   cd ./book/website
    jupyter-book build .
    ```
 

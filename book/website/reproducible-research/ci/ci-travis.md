@@ -1,3 +1,4 @@
+(rr-ci-travis)=
 # Continuous integration with Travis
 
 ## Overview of Travis
