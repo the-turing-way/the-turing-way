@@ -14,7 +14,7 @@ The [Contributors](https://github.com/alan-turing-institute/the-turing-way#contr
 This emoji key is used for recording and fairly acknowledging the different types of contributions our community members have made.
 No contribution is too small.
 They can include (but are not limited to) bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
-Please see the subchapter {ref}`Contribution types and pathways <ch-persona-contributions>` for details.
+Please see the subchapter {ref}`Acknowledgement Examples <ch-acknowledgement-examples>` for details.
 
 | ![Table with different emojis that is used by the contributors bot](../../figures/allcontributorsbot-emoji.png) |
 |----------------------------------------------|
@@ -22,7 +22,7 @@ Please see the subchapter {ref}`Contribution types and pathways <ch-persona-cont
 
 ## 2. Contributors file
 
-The details for each contributor will be listed in the contributor's file called [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file with the following details, which will be referred as `contributor's detail` in the rest of this document:
+The details for each contributor will be listed in the contributor's file called [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file in the GitHub repository with the following details, which will be referred as `contributor's detail` in the rest of this document:
 
 > * Name: `Contributor's name`
 > * GitHub id: `GitHub id`
@@ -35,14 +35,14 @@ Below, we will discuss how to record different contributions by adding details a
 Additionally, contributors can opt to add more information they think can help them highlight their engagement with _The Turing Way_ project by supplementing information to the following text field:
 > * More information: `personal information provided by the contributors`
 
-*Text fields should be provided with details for each contributor with specific information by replacing the text describing the requested information inside the backticks "``"*
+*Text fields should be provided with details for each contributor with specific information by replacing the text describing the requested information inside the backticks like this: '`[details]`'*
 
 ### Recording different types of contributions
 
 Specifications for all types of contributions can be added in the [contributors file](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) after adding the `contributor's detail` for each contributor.
-In the contribution types discussed below, we revisit some of the most common scenarios that are already outlined in the chapter {ref}`Contribution types and pathways <ch-persona-contributions>`.
+In the contribution types discussed below, we revisit some of the most common scenarios that are already outlined in the chapter {ref}`Acknowledgement Examples <ch-acknowledgement-examples>`.
 
-We recommend using the example statements only as a guide.
+**We recommend using these example statements only as a guide.**
 As a contributor, you will be able to add as many details as useful for your record.
 
 #### Bug fixes
