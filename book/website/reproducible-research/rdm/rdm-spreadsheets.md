@@ -10,6 +10,7 @@ Some of these mishaps are not unique to spreadsheets, but [many are](https://doi
 Most problems can be avoided with the three rules explained below: 
 - use spreadsheet in a text only format (.csv or .tsv)
 - create tidy spreadsheets
+- make spreadsheets consistent (with each other) and implement rules for data entries.
 - and avoid manipulating and analysing data in spreadsheet software (this includes copy-paste). 
 
 Spreadsheets are a powerful tool only if the dataset is collected and organised in specific formats that are usable for both the computers and researchers.
