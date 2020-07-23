@@ -123,20 +123,6 @@ As for file name, the size of the headers is not an issue for computers, but for
 You do not have to think about the order of the columns for the analysis, as it has no importance for data analysis software. 
 You can therefore completely optimise that parameter for the data collection step.
 
-### Accepted values
-
-Especially if you work with a team on data collection, it is very important to make sure everyone will enter the same information with the same term. 
-If we the example of iris data, if some people use different terms to record information for a specific column, such as naming the column "species" instead of "Species", or using "iris setosa", "set." or "i.setosa" instead of "setosa", the creation of a reproducible workflow  will be more difficult and errors may even be overlooked.  
-Discrepancies often lead to errors, especially when the same terms could mean different things depending on who is entering the data. 
-For example, indicating date as 02-03 will mean February the third in the USA, but March the second in Europe.
-
-**Critical: make sure you use dots for decimal.** 
-If you are working with data and researchers in countries that follow a different convention, clearly documented those caveats and maintain all your spreadsheets using the same convention. 
-This is particularly important in several European countries (like Germany) where commas are normally used for decimal.
-If you are using excel in a team, be sure to use the same convention, else the default decimal value may end up varying from user to user.
-
-Finally, restricting values in specific columns (linking spreadsheets with taxonomies or ontologies) can be very useful. 
-There are specific tools to help people fill such columns, as well as tools to validate the spreadsheets before integration in the analysis.
 
 ### Standard and versioning
 
