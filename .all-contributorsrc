@@ -1664,6 +1664,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "snastase",
+      "name": "Samuel Nastase",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3496566?v=4",
+      "profile": "https://snastase.github.io/",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
