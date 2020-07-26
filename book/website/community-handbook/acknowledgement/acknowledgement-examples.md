@@ -8,7 +8,7 @@ In this subchapter, we will explore the different types of contributions that ex
 Furthermore, we describe how each persona will be acknowledged in _The Turing Way_.
 Here we are intentionally leaving out the details on updating `contributors.md`, which has been already described in the previous subchapter.
 
-### Contribution type: Bug fixing
+### Bug fixing
 
 We use the term "bug" for small errors in the text or code like typos formatting issues or broken links, or minor fixes.
 
