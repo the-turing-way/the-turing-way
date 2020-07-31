@@ -1,6 +1,12 @@
-## Sprint proposal for SciPy 2020
+## SciPy 2020: Sprint proposal
 
-*Due to the time zone incompatibility (session was scheduled at 10:00 BST, Malvika did not run this sprint.*
+- Website: https://www.eventbrite.co.uk/e/data-science-perspectives-phd-conference-registration-79365276679
+- Location: Online
+- Date: 08 July 2020
+
+*Due to the time zone incompatibility, Malvika did not run this sprint (the session was scheduled at 10:00 BST)*
+
+## Title: _The Turing Way_: A guide to reproducible, ethical, inclusive and collaborative data science 
 
 **Goal and Tasks Planned**
 
