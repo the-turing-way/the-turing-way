@@ -1,4 +1,4 @@
-# Data Science Perspectives conference
+# Turing Data Science Perspectives conference at Newcastle
 
 * Website: https://www.eventbrite.co.uk/e/data-science-perspectives-phd-conference-registration-79365276679
 * Location: Newcastle, UK
@@ -11,6 +11,7 @@
 ### Authors
 
 - Malvika Sharan, Kirstie Whitaker
+- Presentation: [https://zenodo.org/record/3706577](https://zenodo.org/record/3706577)
 
 ### Institute
 
