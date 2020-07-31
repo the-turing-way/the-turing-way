@@ -12,7 +12,8 @@
 
 - Malvika Sharan, Kirstie Whitaker
 
-##
+## Resources
+
 - Presentation: [https://zenodo.org/record/3706577](https://zenodo.org/record/3706577)
 - Shared HackMd for [100 min relay](https://hackmd.io/@malvikasharan/HkVF1sVuL)
 
