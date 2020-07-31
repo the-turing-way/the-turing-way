@@ -4,16 +4,19 @@
 * Location: Newcastle, UK
 * Date: 10-11 March 2020
 
-### Title
+## Title
 
 * The Turing Way: guide to reproducible, ethical and collaborative data science and research
 
-### Authors
+## Authors
 
 - Malvika Sharan, Kirstie Whitaker
-- Presentation: [https://zenodo.org/record/3706577](https://zenodo.org/record/3706577)
 
-### Institute
+##
+- Presentation: [https://zenodo.org/record/3706577](https://zenodo.org/record/3706577)
+- Shared HackMd for [100 min relay](https://hackmd.io/@malvikasharan/HkVF1sVuL)
+
+## Institute
 
 - The Alan Turing Institute, London, UK
  
