@@ -1,6 +1,6 @@
 ## SciPy 2020: Sprint proposal
 
-- Website: https://www.eventbrite.co.uk/e/data-science-perspectives-phd-conference-registration-79365276679
+- Website: https://www.scipy2020.scipy.org/
 - Location: Online
 - Date: 08 July 2020
 
