@@ -36,4 +36,4 @@ Upon approval, they will be added to the GitHub repository and a Zenodo link wil
 
 **Contact by email: [theturingway@gmail.com](mailto:theturingway@gmail.com)**
 
-***Please see the list of [Frequently Asked Questions](faqs.md)for supporting information***
+***Please see the list of [Frequently Asked Questions](faqs.md) for supporting information***
