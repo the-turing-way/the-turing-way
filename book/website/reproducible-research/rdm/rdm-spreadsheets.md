@@ -59,10 +59,10 @@ In short:
 
 | ![tidy table figure](../../figures/tidy-1.png)         |
 | ------------------------------------------------------------------------------------ |
-|Three rules which make a dataset tidy:|
-|1. Each variable must have its own column.|
-|2. Each observation must have its own row.|
-|3. Each value must have its own cell.  |
+Three rules which make a dataset tidy:
+1. Each variable must have its own column.
+2. Each observation must have its own row.
+3. Each value must have its own cell.
 
 There are data validation tools available, like https://goodtables.io, that allows you to check automatically whether your spreadsheets are tidy.
 
@@ -89,7 +89,7 @@ Finally, you should also be aware of the default behaviour of your spreadsheet p
 For instance, the decimal is usually indicated with a comma in the French or German version of excel, but while a dot in English versions where the comma has no meaning
 (`9,000`  will be translated into 9000 or 9 depending on the version you are using).
 
-## 3. Other tips
+## Other tips
 
 ### Deal with time information
 
