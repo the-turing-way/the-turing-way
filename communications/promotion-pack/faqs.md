@@ -13,14 +13,14 @@ There are also community co-working calls every week and [Online Collaboration C
 With the details provided there, you would be able to identify the best available options for you to get involved in the project.
 In any case, the community members can be contacted via [Gitter](https://gitter.im/alan-turing-institute/the-turing-way) or [Slack](https://tinyurl.com/jointuringwayslack), or the core team can be reached out to by [email](mailto:theturingway@gmail.com).
 
-## How much time commitment do I need to be in the community?
-- You can contribute to the project as per your availability.
+## How much time commitment is needed by its community members?
+- Anyone can contribute to the project as per their availability.
 Many of our contributors regularly collaborate with the project as reviewers and maintainers, by helping other members to contribute to the project.
 Some members also engage with the project as readers and users, occasionally raising errors such as typos and bugs and fixing them.
-Most chapters are developed by a group of contributors who collaboratively design, write, edit, and review their content.
+Most chapters are developed by different groups of contributors who collaboratively design, write, edit, and review their content.
 This collaborative way of working allows several members to share responsibility without burdening one person so that they can engage in their own schedule.
 
-## Why was this project created in a way that its content does not belong to one person or one group?
+## Why the content of _The Turing Way_ does not belong to one person or one group, but to the community?
 - In Kirstie Whitaker's words (the lead of this project)
 > There are three answers to this question. One is that openness is a political act of justice and empowerment. 
 > Disseminating knowledge is not a capitalistic activity: I am not lessened by sharing information whose generation and synthesis was funded by the UK taxpayer. 
