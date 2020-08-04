@@ -8,9 +8,9 @@
 Its moonshot goal is to make reproducible research 'too easy not to do'.*
 
 ## Who are the community members? 
-- Project lead: Dr. Kirstie Whitaker, head of the Tools, Practices and Systems research programme, The Alan Turing Institute
+- Project lead: Dr. Kirstie Whitaker, head of the Tools, Practices, and Systems research programme, The Alan Turing Institute
 - Community Manager: Dr. Malvika Sharan, Research Associate, Whitaker Lab, The Alan Turing Institute
-- Core contributors: Our core members are a group of volunteers who engage with the project in a sustained manner, often taking lead on executing important task related to the project. 
+- Core contributors: Our core members are a group of volunteers who engage with the project in a sustained manner, often taking lead on executing important tasks related to the project. 
   - Our current core members are the following:
     - Sarah Gibson (GitHub actions and CI workflow, maintainer)
     - Martina G. Vilas (Jupyterbook infrastructure, maintainer)
@@ -33,5 +33,5 @@ Its moonshot goal is to make reproducible research 'too easy not to do'.*
 
 ## Slide decks:
 
-All the slide decks (1 slide, lightning talk, and short talks) are currently being developed in a shared GDrive.
-Upom approval they will added to the GitHub repository and a Zenodo link will be created for easy citation.
+All the slide decks (1 slide, lightning talk, and short talks) are currently being developed in a [shared GDrive](https://drive.google.com/drive/folders/1mzGmbJkPnP5q1goQesxDc_E5zAPL0eTF?usp=sharing).
+Upon approval, they will be added to the GitHub repository and a Zenodo link will be created for easy citation.
