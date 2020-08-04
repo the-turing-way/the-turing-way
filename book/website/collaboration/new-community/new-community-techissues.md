@@ -21,6 +21,8 @@ In addition to writing code that solves problems, you should teach and promote t
 
 You can also set up a {ref}`Continuous Integration<rr-ci>` environment to help automate testing in your workflow.
 
+See the {ref}`testing <rr-testing>` section in the Guide for Reproducible Research for more information.
+
 ## Reproducibility is even more important
 
 A great thing for less involved team members to do is constantly test the reproducibility of any code/environment.
@@ -28,6 +30,8 @@ Do this from the start and it won’t be a surprise later when it doesn’t work
 
 Reach out to the experts, especially when dealing with legacy code.
 Reach out to other communities with specific expertise to save effort and time that can be invested in other tasks. For example, a lot of the scientific knowledge is built on top of results from FORTRAN, C, and Java code that isn't maintained any longer and, probably, isn't documented. Finding someone with the knowledge and experience of the legacy code to answer questions that other developers have will be a huge time saver.
+
+See the {ref}`Guide for Reproducible Research <rr>` chapter for more information.
 
 ## Share code (and data) early on
 
