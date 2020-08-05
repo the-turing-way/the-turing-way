@@ -33,7 +33,7 @@ Its moonshot goal is to make reproducible research 'too easy not to do'.*
 
 All the slide decks (1 slide, lightning talk, and short talks) are currently being developed in a [shared GDrive](https://drive.google.com/drive/folders/1mzGmbJkPnP5q1goQesxDc_E5zAPL0eTF?usp=sharing).
 Upon approval, they will be added to the GitHub repository and a Zenodo link will be created for easy citation.
-All the orevious talks by the team membres have been uploaded on Zenodo community page of _The Turing Way_: [https://zenodo.org/communities/the-turing-way/](https://zenodo.org/communities/the-turing-way/).
+All the previous talks by the team members have been uploaded on Zenodo community page of _The Turing Way_: [https://zenodo.org/communities/the-turing-way/](https://zenodo.org/communities/the-turing-way/).
 
 **Contact by email: [theturingway@gmail.com](mailto:theturingway@gmail.com)**
 
