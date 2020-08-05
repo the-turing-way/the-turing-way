@@ -38,59 +38,44 @@ This rubric aims to evaluate the application across multiple aspects and avoid a
 
 The invited reviewers will rate the participants across multiple dimensions with scores of 1, 2, or 3.
 
+We ask our reviewers to consider the following questions:
+
 * Has the applicant answered the application questions?
 * Does the applicant have a clear, feasible, and relevant idea of how they will contribute to the book dash?	This scoring corresponds generally to reviews of "not ready", "enthusiastic" and "clear" respectively:
 * Is the applicant enthusiastic about reproducibility and the aims of _The Turing Way_?
+
+
+Based on their evaluation of the applications they will provide scores for different criteria that will be assessed as following:
 1. Applicants who score **mostly 1s** do not have a clear idea/topic ready for contribution or do not have a clear understanding of the overall goals of _The Turing Way_ and book dash in general.
 2. Applicants who score **mostly 2s** are enthusiastic if not wholly suitable for the project/event, for example they may come with some ideas for a contribution that is currently not in the scope of the project/event.
 3. Applicants who score **mostly 3s** are clearly ready, goal-oriented, interested in contributing to the project, and excited to learn from others at the event.
 
-Reviewers are also asked whether they would recommend an applicant. The available answers are "No", "Yes", "Unsure" or "Wild-Card/Red-Flag (request to discuss)".
+Table summarising the scoring criteria and each score
+
+| Sections                          | Score 1 | Score 2 | Score 3 |
+| --------------------------------- | ------- | ------- | -------:|
+| **Readiness for the book dash event** |   (not ready) Does not provide enough information or seems to misunderstand the nature of _The Turing Way_ project and this event in general | (enthusiastic) Seems to have a clear understanding of _The Turing Way_ project and this event and brings along a specific content for contributions | (clear) Seems to have a clear understanding of the Turing Way project and this event and a clear understanding of how they can contribute and collaborate with each other at this event |
+| **Goals for the project contributions:** | (not ready) Shares vague or general ideas that are unrelated to _The Turing Way_ project and this event, or no goals at all | (enthusiastic) Shares clear, overly ambitious ideas for _The Turing Way_ project and this event that can likely be refined in a collaboration cafe, or the day before the event during the brainstorm session | (clear) Shares clear, achievable contribution/development ideas for this event that fits _The Turing Way_ project and are likely to be achieved through the applicant’s participation |
+| **Purpose of participation and what they will get out of the book dash:** | (not ready) Purposes for participation at the book dash seem almost entirely self-centered and about the applicant’s status, rather than about participating in _The Turing Way_ community to develop the project | (enthusiastic) Purposes for the participation at the book dash event are not completely clear from the application or are limited (even though useful), such as typo or bug fixing | (clear) Purposes for participation at the book dash event are valuable in many ways and are likely to help the applicant to become an active contributor and take ownership of their work in _The Turing Way_ project and in the broader ecosystem in their own rights |
+| **Willingness to collaborate and contribute after the book dash:** | (not ready) Seems closed to collaborative ways of working or more interested in only one aspect of data science, research or related topic | (enthusiastic) Seems excited to learn from others and _The Turing Way_ project, but in a general way without much understanding of what those things mean yet | (clear) Seems excited to collaborate with others and is motivated to contribute to _The Turing Way_ community |
+
+
+The following sections are aimed at collecting open-ended response by the reviewers:
+
+We ask all reviewers to finish the review by describing the application, representation aspects of the applicant and the motivations for their scores to facilitate conversation during the selection panel discussion under these questions.
+
+```
+- Please highlight any diversity/minority groups this applicant belong to, that should be represented at this event
+- Please provide 1-2 summary sentences about this application to facilitate discussion during the selection panel
+```
+
+Reviewers are also asked to disclose if any conflict of interest may have influenced their review leading to any bias in their decision.
+
+```
+- Please state if you have any conflict of interest with the proposal described in this application or do you know this applicant personally that may lead to a biased decision
+```
+
+Finally, reviewers are asked whether they would recommend an applicant. 
+The available answers are "No", "Yes", "Unsure" or "Request for open discussion in the panel".
 Candidates who have ratings of "No" or "Unsure" across all reviewers will be rejected.
 All other candidates will be discussed at the panel selection.
-
-We ask all reviewers to finish the review with a few summary sentences to describe the application and the motivations for their scores to facilitate conversation during the selection panel discussion.
-Finally, reviewers will also disclose if they have any conflict of interest that may influence their review leading to any bias in their decision.
-
-Here are the main areas that we will look into when reviewing an application:
-
-**Readiness for the book dash event:**
-
-- 1 (not ready) Does not provide enough information or seems to misunderstand the nature of _The Turing Way_ project and this event in general
-- 2 (enthusiastic) Seems to have a clear understanding of _The Turing Way_ project and this event and brings along a specific content for contributions
-- 3 (clear) Seems to have a clear understanding of the Turing Way project and this event and a clear understanding of how they can contribute and collaborate with each other at this event
-
-**Goals for the project contributions:**
-
-- 1 (not ready) Shares vague or general ideas that are unrelated to _The Turing Way_ project and this event, or no goals at all
-- 2 (enthusiastic) Shares clear, overly ambitious ideas for _The Turing Way_ project and this event that can likely be refined in a collaboration cafe, or the day before the event during the brainstorm session
-- 3 (clear) Shares clear, achievable contribution/development ideas for this event that fits _The Turing Way_ project and are likely to be achieved through the applicant’s participation.
-
-**Purpose of participation and what they will get out of the book dash:**
-
-- 1 (not ready) Purposes for participation at the book dash seem almost entirely self-centered and about the applicant’s status, rather than about participating in _The Turing Way_ community to develop the project.
-- 2 (enthusiastic) Purposes for the participation at the book dash event are not completely clear from the application or are limited (even though useful), such as typo or bug fixing
-- 3 (clear) Purposes for participation at the book dash event are valuable in many ways and are likely to help the applicant to become an active contributor and take ownership of their work in _The Turing Way_ project and in the broader ecosystem in their own rights.
-
-**Willingness to collaborate and contribute after the book dash:**
-- 1 (not ready) Seems closed to collaborative ways of working or more interested in only one aspect of data science, research or related topic
-- 2 (enthusiastic) Seems excited to learn from others and _The Turing Way_ project, but in a general way without much understanding of what those things mean yet
-- 3 (clear) Seems excited to collaborate with others and is motivated to contribute to _The Turing Way_ community.
-
-**Would you recommend this applicant?**
-- No
-- Yes
-- Unsure
-- Wild-Card/Red-Flag (request to discuss)
-
-**Please highlight any diversity/minority groups this applicant belong to, that should be represented at this event**
-
--  Open-ended response by the reviewers
-
-**Please provide 1-2 summary sentences about this application to facilitate discussion during the selection panel**
-
--  Open-ended response by the reviewers
-
- **Please state if you have any conflict of interest with the proposal described in this application or do you know this applicant personally that may lead to a biased decision**
-
--  Open-ended response by the reviewers
