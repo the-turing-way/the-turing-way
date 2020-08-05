@@ -19,6 +19,22 @@ You can read notes from the calls from the most recent book dash [here](https://
 
 ## Day-1: brainstorming and dinner
 
+
+### Agenda for the Day-1
+
+```
+14:00-15:00 BST: Arrive at the book dash venue for informal networking
+15:00-16:00 BST: Intro to _The Turing Way_ and book dash
+17:00-17:30 BST: Brainstorming in groups
+17:30-18:00 BST: Report out
+18:30 BST: Arrive at the dinner venue
+19:00 BST: Dinner begins
+20:30-21:00 BST: Lightning talks*
+21:00-22:00 BST: Dinner continues with networking
+```
+
+### Details
+
 The invited participants join the core team for an introduction session a day before the book dash event.
 This is a chance to everyone to meet the participants and helpers informally, learn about each other and connect with specific members who plan to work on related topic during the book dash.
 
@@ -33,35 +49,8 @@ For participants who are unfamiliar with GitHub or would like a refresher, the c
 The day ends with a group dinner hosted by the core team to allow participants to relax after an intense discussion session and enjoy meals together in an informal setting.
 In between the meals, participants are invited to give lightning talks where they can share their personal stories and talk about a project that they’re either working on or are excited about.
 Lightning talks are short (normally 2 minutes long) and are given without slides.
-### Agenda for the Day-1
-
-```
-14:00-15:00 BST: Arrive at the book dash venue for informal networking
-15:00-16:00 BST: Intro to _The Turing Way_ and book dash
-17:00-17:30 BST: Brainstorming in groups
-17:30-18:00 BST: Report out
-18:30 BST: Arrive at the dinner venue
-19:00 BST: Dinner begins
-20:30-21:00 BST: Lightning talks*
-21:00-22:00 BST: Dinner continues with networking
-```
 
 ## Day-2: coworking day
-
-The next day of the book dash is a collaboration and coworking day.
-This day is distributed into 4 sessions of 1 hour 15 minutes each, separated by 15 minutes reflection followed by a break.
-
-The first session facilitates discussions by bringing all the attendees in small groups with their collaborators based on their discussion from the previous day.
-The collaborating groups start working on their road map and plans for their contributions as chapters, subchapters or other types of contents.
-Participants are also encouraged to come up with the main sections of their contributions and collect their thoughts in bullet points on a GitHub issue.
-During the second session, participants work in self-organised groups or individually with the support of organisers and helpers.
-This session ends with a quick report out from each group followed by a lunch break.
-
-During the third and fourth session, participants come back to continue working uninterrupted on their contribution ideas and take breaks as they need.
-At the end of this session, participants gather all their contributions  on _The Turing Way_ GitHub repository (issues, pull requests and notes) and add that in the shared notes before taking a short break.
-
-The last session is the final report out and celebration of each other's work.
-The book dash closes with anonymous feedback on the {ref}`Pluses and Delta<ch-bookdash-feedback-template>` notes.
 
 ### Agenda for Day-2
 
@@ -77,6 +66,23 @@ The book dash closes with anonymous feedback on the {ref}`Pluses and Delta<ch-bo
 16:30 BST: Group share outs and celebrations
 17:00 BST: Event closing and feedback
 ```
+
+### Details
+
+The next day of the book dash is a collaboration and coworking day.
+This day is distributed into 4 sessions of 1 hour 15 minutes each, separated by 15 minutes reflection followed by a break.
+
+The first session facilitates discussions by bringing all the attendees in small groups with their collaborators based on their discussion from the previous day.
+The collaborating groups start working on their road map and plans for their contributions as chapters, subchapters or other types of contents.
+Participants are also encouraged to come up with the main sections of their contributions and collect their thoughts in bullet points on a GitHub issue.
+During the second session, participants work in self-organised groups or individually with the support of organisers and helpers.
+This session ends with a quick report out from each group followed by a lunch break.
+
+During the third and fourth session, participants come back to continue working uninterrupted on their contribution ideas and take breaks as they need.
+At the end of this session, participants gather all their contributions  on _The Turing Way_ GitHub repository (issues, pull requests and notes) and add that in the shared notes before taking a short break.
+
+The last session is the final report out and celebration of each other's work.
+The book dash closes with anonymous feedback on the {ref}`Pluses and Delta<ch-bookdash-feedback-template>` notes.
 
 ## Creating an environment for self-paced contributions
 
