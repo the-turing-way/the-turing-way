@@ -13,15 +13,34 @@ The reason behind keeping it small is to allow the core team members to offer sp
 To fairly make this selection, a call for applications is opened at least 3 months in advance so that interested members can share their skills, interest, and expected outcomes through a short application.
 The applications are kept open for a minimum of 4 weeks and the timeline is communicated clearly through our newsletters, Twitter feed, and application form.
 
-We want to make sure that the selected group of participants brings diverse skills, knowledge, and experience to _The Turing Way_, therefore we request our applicants to answer some demographic questions (on gender, ethnicity, and career stage).
-We also ask our applicants to indicate if they consider themselves to be a member of one or multiple historically underrepresented groups.
+These responses to the questions in the application form help us select a group of people who will be able to work effectively together and cover a broad set of possible contributions to the Turing Way. 
+We don't expect that the candidates might have previously contributed to the project or are familiar with our project infrastructure such as GitHub-based contribution. 
+We look more for their ideas on what they think is important and helpful for others doing data science in the current scenario.
+
+
+In 150 words each, applicants respond to the following questions:
+- What could you contribute to the Turing Way?
+- What would you gain from being part of the Turing Way book dash?
+
+We then ask a few demographic questions. 
+We want to make sure that the selected group of participants brings multiple skills, knowledge, and experience to _The Turing Way_.
+We aim to involve members from diverse groups, especially those who are traditionally excluded from data science based on gender, ethnicity, and career stage.
+Therefore, we ask our applicants to indicate if they consider themselves to be a member of one or multiple historically underrepresented groups.
 Here they can add any other information about themselves that they think the core team should know when reviewing their application (such as LGBTQ+, immigrant, disabled, parent, carer, POC members).
 
 We seek to remove any barriers that might prevent our participants from attending the event.
 Hence, we use this form to assess what support we can offer, including funding requirements, to our participants in ensuring that they can comfortably attend the event.
 Applicants can mention their travel, accommodation, childcare, and accessibility requirements for their participation.
 
-All these responses are securely handled under the [GDPR (General Data Protection Regulation) law](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (learn about creating [GDPR-proof surveys](https://www.surveylegend.com/gdpr/how-to-make-gdpr-proof-surveys-or-forms/)).
+We continue to think of ways to ensure privacy and data protection.
+Currently, all these responses are securely handled under the [GDPR (General Data Protection Regulation) law](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (learn about creating [GDPR-proof surveys](https://www.surveylegend.com/gdpr/how-to-make-gdpr-proof-surveys-or-forms/)).
+
+All our applicants must agree with the following GDPR statement when sending their application:
+
+*We need to store your e-mail address to contact you. All the details provided will be stored in a Google Drive that only core members of _The Turing Way_ have access to. 
+The servers are based in the USA. 
+You can ask for your e-mail address and other identifiable information to be removed from our database at any time.
+If you have any questions please contact the team members by emailing turingway@gmail.com.*
 
 ## Reviewing process
 
