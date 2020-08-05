@@ -89,6 +89,13 @@ Finally, you should also be aware of the default behaviour of your spreadsheet p
 For instance, the decimal is usually indicated with a comma in the French or German version of excel, but while a dot in English versions where the comma has no meaning
 (`9,000`  will be translated into 9000 or 9 depending on the version you are using).
 
+## 4. Data manipulation and analysis
+
+***Do not manipulate or analyse data in a spreadsheet program.***
+
+In particular, only copy-paste from one spreadsheet to another if the process is used very rarely. 
+It is now very easy to read and combine the different spreadsheets in the analysis software, with the additional advantage that the software will return an error message if the headers do not fit.
+
 ## Other tips
 
 ### Deal with time information
@@ -160,12 +167,7 @@ If you are working with a team on data collection, make sure:
 - One person is responsible to answer putative questions during data collection.
 - every spreadsheet is validated before entering the analysis workflow, and as soon as possible.
 
-## 4. Data manipulation and analysis
 
-***Do not manipulate or analyse data in a spreadsheet program.***
-
-In particular, only copy-paste from one spreadsheet to another if the process is used very rarely. 
-It is now very easy to read and combine the different spreadsheets in the analysis software, with the additional advantage that the software will return an error message if the headers do not fit.
 
 ## Summary
 
