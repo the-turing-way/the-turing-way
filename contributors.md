@@ -1,72 +1,28 @@
-# Who's who on the Turing Way team
+# Record of Contributions
 
-## Contributors
-Legend (source:
-[https://github.com/kentcdodds/all-contributors](https://github.com/kentcdodds/all-contributors))
+We invite all our contributors to co-develop this record of contribution to capture the important work they do around answering questions, representing the project, developing and maintaining the infrastructure, and all other nurturing roles that make The Turing Way community so special. 
 
-| Emoji | Represents                                                                  |
-|:------|:----------------------------------------------------------------------------|
-| 💬    | Answering Questions (on gitter, GitHub, or in person) |
-| 🐛    | Bug reports                                                                 |
-| 📝    | Blogposts                                                                   |
-| 💻    | Code                                                                        |
-| 📖    | Documentation and specification                                             |
-| 🎨    | Design                                                                      |
-| 💡    | Examples                                                                    |
-| 📋    | Event Organizers                                                            |
-| 💵    | Financial Support                                                           |
-| 🔍    | Funding/Grant Finders                                                       |
-| 🤔    | Ideas & Planning                                                            |
-| 🚇    | Infrastructure (Hosting, Build-Tools, etc)                                  |
-| 🔌    | Plugin/utility libraries                                                    |
-| 👀    | Reviewed Pull Requests                                                      |
-| 🔧    | Tools                                                                       |
-| 🌍    | Translation                                                                 |
-| ⚠️    | Tests                                                                       |
-| ✅     | Tutorials                                                                   |
-| 📢    | Talks                                                                       |
-| 📹    | Videos                                                                      |
+Using emoji keys of [all contributors bot](https://allcontributors.org/), we record the different types of contributions our community members have made. 
+They can include (but are not limited to) bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance. 
 
-The following individuals have contributed to the Turing Way (in alphabetical order by last name). 
-If you contributed to the Turing Way and your name is not listed, please add it.
+This document will be used for highlighting skills that our members have gained and shared through their involvement in The Turing Way and enhancing their personal or professional portfolio (profile, CV, resume). 
+This can also help capture the impact _The Turing Way_ may have on its community members in terms of personal networking, professional development, skill sharing and other relevant activities.
 
-- Becky Arnold 💬💻📖👀
-- Lorena A. Barba 🤔 
-- Louise Bowler 💬💻📖💡📋👀
-- Jez Cope 📖
-- Sarah Gibson 💬💻📖🔧👀📢
-- Tim Head 💬🤔
-- Patricia Herterich 💬📖👀
-- Rosie Higman 💬📋👀
-- Anna Krystalli 💬💡📋 👀
-- Alexander Morley 💬👀⚠️
-- Martin O'Reilly 💬🔧
-- Oliver Strickson 💬📖
-- Kirstie Whitaker 💬🎨🔍🤔👀⚠️📢
+Please see the [community handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html) for details on how we acknowledge our contributors.
 
-## Core team
-This will give you a little introduction to the various members of the Turing Way core development team.
+## Contributors' Profiles
 
-* [Kirstie Whitaker](#kirstie-whitaker) @kirstiejane
-* [Patricia Herterich](#patricia-herterich) @pherterich 
-* [Alexander Morley](#alexander-morley) @alexmorley
-* [Becky Arnold](#becky-arnold) @r-j-arnold
-* [Martin O’Reilly](#martin-oreilly) @martintoreilly
-* [Anna Krystalli](#anna-krystalli) @annakrystalli
-* [Sarah Gibson](#sarah-gibson) @sgibson91
-* [Louise Bowler](#louise-bowler) @LouiseABowler
-* [Rosie Higman](#rosie-higman) @rosiehigman 
-* [Rachael Ainsworth](#rachael-ainsworth) @rainsworth
-
-
-## Contributor biographies
 ### Kirstie Whitaker
 
-**Who are you?**
-
-I'm a research fellow at the Alan Turing Institute and a senior research associate in the Department of Psychiatry at the University of Cambridge.
+- About:
+> I'm the lead of Tools, Practices and Systems research Programme at the Alan Turing Institute.
 I have a PhD in Neuroscience from the University of California at Berkeley and conducted my postdoctoral research at the University of Cambridge in the Brain Mapping Unit.
 I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
+
+- GitHub id: GitHub id
+- ORCID: ORCID id of the contributor
+- List of contributions on GitHub:
+
 
 **What are you passionate about?**
 
