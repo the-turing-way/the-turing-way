@@ -3,7 +3,6 @@
 
 We invite all our contributors to co-create these records to capture the important work they do around answering questions, representing the project, developing and maintaining the infrastructure, and all other nurturing roles that make The Turing Way community so special.
 These records can be used for highlighting skills that our members have gained and shared through their involvement in _The Turing Way_.
-These records of contributions can be directly translated towards the professional development of our community members, which can be further used for enhancing their personal or professional portfolio (profile, CV, resume).
 
 Two documents are considered as the records of contributions in _The Turing Way_.
 
@@ -22,24 +21,32 @@ Please see the subchapter {ref}`Acknowledgement Examples <ch-acknowledgement-exa
 
 ## 2. Contributors file
 
-The details for each contributor will be listed in the contributor's file called [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file in the GitHub repository with the following details, which will be referred as `contributor's detail` in the rest of this document:
+The details for each contributor will be listed in the contributor's file called [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file in the GitHub repository.
+This file will hold the following details, which will be referred as `contributor's detail` in the rest of this document:
 
-> * Name: `Contributor's name`
-> * GitHub id: `GitHub id`
-> * ORCID: `ORCID id of the contributor`
-> * List of contributions on GitHub: `A list of PRs, issues and comments`
+> ## `Contributor's name`
+> * GitHub id: `GitHub id, example: [@kirstiejane](http://github.com/kirstiejane)`
+> * ORCID: `ORCID id of the contributor, example: [0000-0001-8498-4059](https://orcid.org/0000-0001-8498-4059)`
+> * Short Bio: `1-2 sentences about themselves`
 
-Below, we will discuss how to record different contributions by adding details and pathways of contribution to the following text field:
-> * Pathways of contributions: `details discussed below`
+After `contributor's details`, our contributors will add details of their contribution next to the following text field:
+> * Personal highlights: `GitHub contributions, PRs and issues. Further details have been discussed below.`
 
-Additionally, contributors can opt to add more information they think can help them highlight their engagement with _The Turing Way_ project by supplementing information to the following text field:
-> * More information: `personal information provided by the contributors`
+Additionally, contributors can opt to add more information they think can help them highlight their work and engagement with _The Turing Way_ project by supplementing information next to the following text field:
+> * More information: `Additional information provided by the contributors`
 
-*Text fields should be provided with details for each contributor with specific information by replacing the text describing the requested information inside the backticks like this: '`[details]`'*
+### Personal highlights
 
-### Recording different types of contributions
+After adding`contributor's detail`, specifications for all types of contributions can be added in the [contributors file](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) as "Personal highlights".
 
-Specifications for all types of contributions can be added in the [contributors file](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) after adding the `contributor's detail` for each contributor.
+These personal highlights can be individually decided by the contributors to record what they consider to be their significant contributions to the project.
+This can be supplemented with supporting materials such links to chapters, pull request, issues, and blogposts.
+
+As described in the [contributors.md file](https://github.com/alan-turing-institute/the-turing-way/edit/acknowledging-contributors/contributors.md), these records can be directly translated towards the professional development of our community members, which can be further used for enhancing their personal or professional portfolio (profile, CV, resume).
+This will also help us capture the impact _The Turing Way_ may have on its community members in terms of personal networking, professional development, skill sharing and other relevant activities.
+
+### Recording different types of contributions in personal highlights
+
 In the contribution types discussed below, we revisit some of the most common scenarios that are already outlined in the chapter {ref}`Acknowledgement Examples <ch-acknowledgement-examples>`.
 
 **We recommend using these example statements only as a guide.**
@@ -52,7 +59,9 @@ As a contributor, you will be able to add as many details as useful for your rec
 Anyone who raises bugs, related issues or fixes them are listed as contributors in the Contributors table with  🐛 (`bug`) emoji.
 
 The contributor's file will be updated for the contributors with a similar statement as below after the `contributor's detail`:
-> * Pathways of contributions: `Contributor's Name` has fixed typos and made other contributions `other details like identified sections of the book that are unclear`.
+
+* Personal highlights: 
+> I have fixed typos and made other contributions `other details like identified sections of the book that are unclear`.
 
 #### Reviewing chapters and other pull requests
 
@@ -61,7 +70,9 @@ The contributor's file will be updated for the contributors with a similar state
 Anyone who reviews a chapter is listed as reviewers and are acknowledged with 👀 (`review`) emoji in the Contributors table.
 
 The contributor's file will be updated for the contributors with a similar statement as below:
-> * Pathways of contributions: `Contributor's name` reviewed the chapter `Chapter name`. They made other contributions to the chapter `other details like structuring and adding references`.
+
+* Personal highlights: 
+> I have reviewed the chapter `Chapter name`. I made other contributions to the chapter `other details like structuring and adding references`.
 
 #### Chapter contribution
 
@@ -70,7 +81,9 @@ The contributor's file will be updated for the contributors with a similar state
 The designing, writing, and reviewing of a chapter's content are acknowledged with 🤔 (`idea`), 🖋 (`content`) and 👀 (`review`) emojis respectively in the Contributors table.
 
 The contributor's file will be updated for the contributors with a similar statement as below:
-> * Pathways of contributions: `Contributor's name` designed and wrote a chapter on `chapter name` and `details on reviewing and structuring new content`.
+
+* Personal highlights: 
+> I have designed and wrote a chapter on `chapter name` and `details on reviewing and structuring new content`.
 
 #### Translation
 
@@ -80,7 +93,9 @@ The translation infrastructure as of May 2020 is [Trasifex](https://www.transife
 Contributors who participate in the translation process will be acknowledged in the Contributors table with the 🌍 (`translation`) emoji.
 
 The contributor's file will be updated for the contributors with a similar statement as below:
-> * Pathways of contributions: `Contributor's name` has translated part of the chapter `chapter name` into `language`. They have also `details like designed and implemented a process to translate the book into multiple languages, mentored multiple contributors within the community and has translated 3 chapters of The Turing Way into Chinese`.
+
+* Personal highlights: 
+> I have translated part of the chapter `chapter name` into `language`. I have also `details like designed and implemented a process to translate the book into multiple languages, mentored multiple contributors within the community and has translated 3 chapters of The Turing Way into Chinese`.
 
 #### Organisational support
 
@@ -92,7 +107,9 @@ Each contributor from these organisation will be acknowledged individually in th
 Their contributors will be listed under their organisation's name in the contributor's file.
 
 Every contribution from collaborating organisation will be updated with a similar statement as below:
-> * Pathways of contributions: `Contributor's name` have also made contributions `contribution type` to the chapters `chapter name`. They have also `details on other contributions like managing a team of contributors, writing a chapter`.
+
+* Personal highlights: 
+> I have made contributions `contribution type` to the chapters `chapter name`. I have also `details on other contributions like managing a team of contributors, writing a chapter`.
 
 #### Maintenance
 
@@ -102,7 +119,9 @@ Contributors will be acknowledged in the Contributors table with the 💬
 (`question`) emoji for answering questions, 🤔 (`ideas`) emoji for discussions, 🚇 (`infra`) emoji for infrastructure support, and 🚧 (`maintenance`) for community efforts or infrastructure maintenance.
 
 The contributor's file will be updated for the contributors with a similar statement as below:
-> * Pathways of contributions: `Contributor's name` has `details like responded to questions in the community's Gitter channel, mentored multiple contributors within the community and has reviewed pull requests to fix typos in the book, maintains the backend infrastructure of the project, provide support and solution regarding Jupyter book and continuous integration, designed and implemented a process to translate the book into multiple languages, helped multiple contributors in facilitating translation efforts`.
+
+* Personal highlights: 
+> I have `details like responded to questions in the community's Gitter channel, mentored multiple contributors within the community and has reviewed pull requests to fix typos in the book, maintains the backend infrastructure of the project, provide support and solution regarding Jupyter book and continuous integration, designed and implemented a process to translate the book into multiple languages, helped multiple contributors in facilitating translation efforts`.
 
 #### Representing the Turing Way
 
@@ -111,4 +130,6 @@ The contributor's file will be updated for the contributors with a similar state
 Each contributor who represents _The Turing Way_ at an event is acknowledged in the Contributors table with the 📢 (`Talk`) emoji in the Contributors Table along with other contributions as applicable.
 
 Their contributions will be listed in the contributor's file with a similar statement as below:
-> * Pathways of contributions: `Contributor's name` has presented a talk at _The Turing Way_ at `event's name`. They have also `details like mentored multiple contributors within the community and have given talks at and event on behalf of the community`.
+
+* Personal highlights: 
+> I have presented a talk at _The Turing Way_ at `event's name`. They have also `details like mentored multiple contributors within the community and have given talks at and event on behalf of the community`.
