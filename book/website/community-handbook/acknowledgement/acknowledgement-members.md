@@ -10,6 +10,14 @@ Everyone who contributes to this book, no matter how small or big their contribu
 All the substantial contributors are named as co-authors on the book as a whole.
 These contributions include carrying out the larger tasks such as writing a subchapter, maintaining community interactions, setting up infrastructure, helping others in their work and supporting their participation.
 
+As stated in our [Governance document](https://github.com/alan-turing-institute/the-turing-way/blob/master/GOVERNANCE.md), "Substantial" is a subjective term. 
+However, we have tried to add much detail as possible in the next subchapters through personas, contribution types and acknowledgements of those contributions including when a contributor is named as an author.
+
+Authors are listed in alphabetical order by last name. The first author is always The Turing Way Community.
+Authorship is cumulative. 
+If you have been added as an author on one release, you will stay as an author on all future releases.
+If these subchapters do not contain the contribution type that you are interested in or if you would like to know whether you are eligible to be named as an author, please contact the core team by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
+
 ## Creating opportunities for shared ownership
 
 As an open-source community, the project invites contributions from the experts and enthusiasts alike to collectively develop guidance, recommendations, and practical resources that can foster a gold-standard for reproducible research.
