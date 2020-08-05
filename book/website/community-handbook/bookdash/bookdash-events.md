@@ -19,18 +19,19 @@ You can read notes from the calls from the most recent book dash [here](https://
 
 ## Day-1: brainstorming and dinner
 
-
 ### Agenda for the Day-1
 
+*Time is provided in BST/GMT time zones*
+
 ```
-14:00-15:00 BST: Arrive at the book dash venue for informal networking
-15:00-16:00 BST: Intro to _The Turing Way_ and book dash
-17:00-17:30 BST: Brainstorming in groups
-17:30-18:00 BST: Report out
-18:30 BST: Arrive at the dinner venue
-19:00 BST: Dinner begins
-20:30-21:00 BST: Lightning talks*
-21:00-22:00 BST: Dinner continues with networking
+14:00-15:00: Arrive at the book dash venue for informal networking
+15:00-16:00: Intro to _The Turing Way_ and book dash
+17:00-17:30: Brainstorming in groups
+17:30-18:00: Report out
+18:30: Arrive at the dinner venue
+19:00: Dinner begins
+20:30-21:00: Lightning talks*
+21:00-22:00: Dinner continues with networking
 ```
 
 ### Details
@@ -54,17 +55,19 @@ Lightning talks are short (normally 2 minutes long) and are given without slides
 
 ### Agenda for Day-2
 
+*Time is provided in BST/GMT time zones*
+
 ```
-8:30 BST: Arrive at the dashing venue
-8:45 BST: Intro to the second day of the book dash
-9:00 BST: Coworking starts (session-1)
-10:15 BST: Report
-11:00 BST: Coworking continues (session-2)
-12:15 BST: Report out
-12:30 BST: Lunch break
-13:30 - 16:30 BST: Coworking continues (session-3 and 4)
-16:30 BST: Group share outs and celebrations
-17:00 BST: Event closing and feedback
+8:30: Arrive at the dashing venue
+8:45: Intro to the second day of the book dash
+9:00: Coworking starts (session-1)
+10:15: Report
+11:00: Coworking continues (session-2)
+12:15: Report out
+12:30: Lunch break
+13:30 - 16:30: Coworking continues (session-3 and 4)
+16:30: Group share outs and celebrations
+17:00: Event closing and feedback
 ```
 
 ### Details
