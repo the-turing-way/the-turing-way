@@ -8,7 +8,7 @@ research reproducibility implemented in designing and conducting a
 statistical study.
 With the help of their manuscript, the authors provide a catalog of methods
 used in their research and cross-reference them to the respective
-sections discuss in this {ref}`rr`.
+sections discussed in this {ref}`rr`.
 
 ## About of the Manuscript
 
