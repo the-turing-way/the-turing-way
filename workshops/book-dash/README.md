@@ -9,7 +9,7 @@ You can read more about the book dash in our [community handbook](https://the-tu
 Cite as:
 > Malvika Sharan. (2020, February). The Turing Way Book Dash (Version 1). The Turing Way. Zenodo. http://doi.org/10.5281/zenodo.3676553
 
-In the [organisers_files-2020](organisers_files-2020) folder you can find the following materials:
+In the [`organisers_files-2020`](organisers_files-2020) folder you can find the following materials:
 
 * HackMD templates:
   * [Pre-dash calls](organisers_files-2020/pre-dash-call-template.md)
