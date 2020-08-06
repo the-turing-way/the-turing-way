@@ -368,7 +368,7 @@ We would appreciate if you could share a short abstract and your prersentation b
 
 No contribution is small.
 We recognise all kinds of contributions made to this project.
-In out [community handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html) you can read how we acknowledge our community members and what are the records of contributions in _The Turing Way_.
+In our [community handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html) you can read how we acknowledge our community members and what are the records of contributions in _The Turing Way_.
 _The Turing Way_ follows the [all-contributors][all-contributors] specification, so we welcome and recognise all contributions from documentation to testing to writing chapters.
 You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md). 😍
 
