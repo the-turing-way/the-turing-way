@@ -358,7 +358,7 @@ We would LOVE people to give talks about the project or represent _The Turing Wa
 We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) for you to reuse.
 You will find useful details about the project, a list of frequently asked questions, slide decks, and contact details.
 
-If you would like to do that please open an issue and ping @malvikasharan and @KirstieJane so
+If you would like to represent the project in your network, please open an issue and ping @malvikasharan and @KirstieJane so
 that they can do their best to support you.
 
 We would appreciate if you could share your slides by adding them to the
