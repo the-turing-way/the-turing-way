@@ -346,7 +346,7 @@ You can build and host the book website locally. The steps are:
 
 ## Style Guide
 
-In _The Turing Way_'s [Community Handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html), we have developed a [style guide]() for the project.
+In _The Turing Way_'s [Community Handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html), we have developed a style guide for the project.
 
 [_The Turing Way_ style guide](https://the-turing-way.netlify.app/community-handbook/style.html) will provide guide and supporting resources for writing chapters will ensure consistency, readability and accessibility for all our users.
 
