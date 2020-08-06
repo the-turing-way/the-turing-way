@@ -46,7 +46,7 @@ We have also provided details for CoC reporting and enforcement, which can be re
 _The Turing Way_ aims to be inclusive to people from all walks of life and to all research fields.
 These intentions must be reflected in the contributions that we make to the project.
 
-In addition to the CoC, we encourage intentional inclusive actions from contributors to _The Turing Way_.
+In addition to the CoC, we encourage intentional, inclusive actions from contributors to _The Turing Way_.
 Here are a few examples of such actions:
 
 - use respectful, gender-neutral and inclusive language (learn more about [inclusive writing](https://www2.le.ac.uk/offices/ld/all-resources/writing/writing-resources/inclusive), resource by University of Leicester).
