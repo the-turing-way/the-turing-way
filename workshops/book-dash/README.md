@@ -1,11 +1,15 @@
 # The Turing Way Book Dashes
 
+You can read more about the book dash in our [community handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html).
+
 ## Book Dash Events in 2020
 
 * Reports of the [Februray 2020](book-dash-feb20-reprot.md) book dash events summarising the participants, contributions during the event and feedback.
-* Presentation with the introduction to the project and book dash used at this event is available on Zenodo: https://zenodo.org/record/3676553#.Xl-FkUOnzOQ. Cite as "Malvika Sharan. (2020, February). The Turing Way Book Dash (Version 1). The Turing Way. Zenodo. http://doi.org/10.5281/zenodo.3676553"
+* Presentation with the introduction to the project and book dash used at this event is available on Zenodo: [https://zenodo.org/record/3676553](https://zenodo.org/record/3676553). 
+Cite as:
+> Malvika Sharan. (2020, February). The Turing Way Book Dash (Version 1). The Turing Way. Zenodo. http://doi.org/10.5281/zenodo.3676553
 
-In the [`organisers_files-2020`](organisers_files-2020) folder you can find the following materials:
+In the [organisers_files-2020](organisers_files-2020) folder you can find the following materials:
 
 * HackMD templates:
   * [Pre-dash calls](organisers_files-2020/pre-dash-call-template.md)
