@@ -361,7 +361,7 @@ You will find useful details about the project, a list of frequently asked quest
 If you would like to represent the project in your network, please open an issue and ping @malvikasharan and @KirstieJane so
 that they can do their best to support you.
 
-We would appreciate if you could share your slides by adding them to the
+We would appreciate if you could share a short abstract and your prersentation by adding them to the
 [conferences folder](/conferences) and some info in the [conferences README.md](/conferences/README.md).
 
 ## Recognising Contributions
