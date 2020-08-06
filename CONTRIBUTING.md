@@ -367,13 +367,12 @@ We would appreciate if you could share a short abstract and your presentation by
 
 ## Recognising Contributions
 
-No contribution is small.
-We recognise all kinds of contributions made to this project.
-In the [community handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html), you can read how we acknowledge our community members and what are the records of contributions in _The Turing Way_.
-_The Turing Way_ follows the [all-contributors][all-contributors] specification, so we welcome and recognise all contributions from documentation to testing to writing chapters.
+We welcome and recognise all kinds of contributions, from fixing small error, to developing documentation, maintaining the project infrastructure, writing chapters or reviewing existing resources.
+In the [community handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html), you can read how your contributions will be acknowledged and recorded in _The Turing Way_.
+_The Turing Way_ follows the [all-contributors][all-contributors] specifications.
+The all-contributors bot usage is described [here](https://allcontributors.org/docs/en/bot/usage).
 You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md). 😍
 
-The all-contributors bot usage is described [here](https://allcontributors.org/docs/en/bot/usage).
 To add yourself or someone else as a contributor, comment on the relevant Issue or Pull Request with the following:
 
 ```
