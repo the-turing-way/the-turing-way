@@ -367,7 +367,7 @@ We would appreciate if you could share a short abstract and your presentation by
 
 ## Recognising Contributions
 
-We welcome and recognise all kinds of contributions, from fixing small error, to developing documentation, maintaining the project infrastructure, writing chapters or reviewing existing resources.
+We welcome and recognise all kinds of contributions, from fixing small errors, to developing documentation, maintaining the project infrastructure, writing chapters or reviewing existing resources.
 In the [community handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html), you can read how your contributions will be acknowledged and recorded in _The Turing Way_.
 _The Turing Way_ follows the [all-contributors][all-contributors] specifications.
 The all-contributors bot usage is described [here](https://allcontributors.org/docs/en/bot/usage).
