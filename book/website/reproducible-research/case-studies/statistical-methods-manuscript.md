@@ -10,7 +10,7 @@ With the help of their manuscript, the authors provide a catalog of methods
 used in their research and cross-reference them to the respective
 sections discussed in this {ref}`rr`.
 
-## About of the Manuscript
+## About the Manuscript
 
 - **Title:** A review of Bayesian perspectives on sample size derivation 
 for confirmatory trials.{cite}`Kunzmann2020CS` 
