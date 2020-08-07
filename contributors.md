@@ -146,11 +146,12 @@ I also hope that it can convince people that don't consider themselves capable o
 * GitHub id: [sgibson91](http://github.com/sgibson91)
 * ORCID: [0000-0003-0356-2765](https://orcid.org/0000-0003-0356-2765)
 * Short bio: 
-> I'm a new Data Scientist in the Research Engineering team - still exploring what that means on new projects such as the Turing Way! 
-> I completed my PhD in Astrophysics at the University of Leicester this year.
+> I am a Research Software Engineer at The Alan Turing Institute where I implement software best practices to translate academic research into real world solutions through the Turing's collaborative network.
+> I am also an operator and maintainer for the Binder project and runs a BinderHub cluster at the Turing which receives traffic from mybinder.org.
+> In 2020, I am also honoured to be a Software Sustainability Institute Fellow and to continue advocating for reproducible and sustainable research through software.
 
 * Personal highlights:
-> `TBA`
+> Becoming a core member of Project Binder and helping people all around the world launch and share their analyses in the cloud.
 
 * More information:
 > I'm passionate about applying the skills I learnt during my PhD somewhere closer to home and learning new skills along the way. 
