@@ -24,30 +24,32 @@ Please see the subchapter {ref}`Acknowledgement Examples <ch-acknowledgement-exa
 The details for each contributor will be listed in the contributor's file called [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file in the GitHub repository.
 This file will hold the following details, which will be referred as `contributor's detail` in the rest of this document:
 
-> ## `Contributor's name`
+> `Contributor's name`
 > * GitHub id: `GitHub id, example: [@kirstiejane](http://github.com/kirstiejane)`
 > * ORCID: `ORCID id of the contributor, example: [0000-0001-8498-4059](https://orcid.org/0000-0001-8498-4059)`
 > * Short Bio: `1-2 sentences about themselves`
 
-After `contributor's details`, our contributors will add details of their contribution next to the following text field:
+After `contributor's details`, our contributors will add details of their contributions to _The Turing way_ as "Personal highlights":
 > * Personal highlights: `GitHub contributions, PRs and issues. Further details have been discussed below.`
 
-Additionally, contributors can opt to add more information they think can help them highlight their work and engagement with _The Turing Way_ project by supplementing information next to the following text field:
+Additionally, contributors can opt to add more information they think can help them share their work and engagement with _The Turing Way_ project by supplementing "More information":
 > * More information: `Additional information provided by the contributors`
 
 ### Personal highlights
 
-After adding`contributor's detail`, specifications for all types of contributions can be added in the [contributors file](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) as "Personal highlights".
+Specifications for all types of contributions made towards _The Turing Way_ can be added in the [contributors file](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) as personal highlights.
 
-These personal highlights can be individually decided by the contributors to record what they consider to be their significant contributions to the project.
+These highlights can be individually decided by the contributors to record what they consider to be their significant and useful for their personal profile.
 This can be supplemented with supporting materials such links to chapters, pull request, issues, and blogposts.
 
-As described in the [contributors.md file](https://github.com/alan-turing-institute/the-turing-way/edit/acknowledging-contributors/contributors.md), these records can be directly translated towards the professional development of our community members, which can be further used for enhancing their personal or professional portfolio (profile, CV, resume).
-This will also help us capture the impact _The Turing Way_ may have on its community members in terms of personal networking, professional development, skill sharing and other relevant activities.
+These records can be directly translated towards the professional development of our community members, which can be further used for enhancing their personal or professional portfolio (profile, CV, resume) (see [contributors.md file](https://github.com/alan-turing-institute/the-turing-way/edit/acknowledging-contributors/contributors.md)).
+This will also help us capture the impact, _The Turing Way_ may have on its community members in terms of personal networking, professional development, skill sharing and other relevant activities.
 
-### Recording different types of contributions in personal highlights
+### Recording different types of contributions
 
-In the contribution types discussed below, we revisit some of the most common scenarios that are already outlined in the chapter {ref}`Acknowledgement Examples <ch-acknowledgement-examples>`.
+In the contribution types discussed below, we use scenarios from some of the most common contribution types.
+
+These examples are also outlined in the next subchapter {ref}`Acknowledgement Examples <ch-acknowledgement-examples>` along with other types of contributions that are made to _The Turing Way_.
 
 **We recommend using these example statements only as a guide.**
 As a contributor, you will be able to add as many details as useful for your record.
@@ -133,3 +135,5 @@ Their contributions will be listed in the contributor's file with a similar stat
 
 * Personal highlights: 
 > I have presented a talk at _The Turing Way_ at `event's name`. They have also `details like mentored multiple contributors within the community and have given talks at and event on behalf of the community`.
+
+Please read personas and pathways for different contributions in the next subchapter.
