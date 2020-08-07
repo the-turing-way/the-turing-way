@@ -29,11 +29,11 @@ This file will hold the following details, which will be referred as `contributo
 > * ORCID: `ORCID id of the contributor, example: [0000-0001-8498-4059](https://orcid.org/0000-0001-8498-4059)`
 > * Short Bio: `1-2 sentences about themselves`
 
-After `contributor's details`, our contributors will add details of their contributions to _The Turing way_ as "Personal highlights":
+Then, our contributors will add "Personal highlights", which will hold details of their contributions to _The Turing way_:
 > * Personal highlights: `GitHub contributions, PRs and issues. Further details have been discussed below.`
 
 Additionally, contributors can opt to add more information they think can help them share their work and engagement with _The Turing Way_ project by supplementing "More information":
-> * More information: `Additional information provided by the contributors`
+> * More information: `Additional information provided by the contributors. This is optional.`
 
 ### Personal highlights
 
