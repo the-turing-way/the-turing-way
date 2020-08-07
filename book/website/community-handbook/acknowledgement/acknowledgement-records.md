@@ -40,7 +40,7 @@ Additionally, contributors can opt to add more information they think can help t
 Specifications for all types of contributions made towards _The Turing Way_ can be added in the [contributors file](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) as personal highlights.
 
 These highlights can be individually decided by the contributors to record what they consider to be their significant and useful for their personal profile.
-This can be supplemented with supporting materials such links to chapters, pull request, issues, and blogposts.
+This can be supplemented with supporting materials such links to chapters, pull request, issues, and blog posts.
 
 These records can be directly translated towards the professional development of our community members, which can be further used for enhancing their personal or professional portfolio (profile, CV, resume) (see [contributors.md file](https://github.com/alan-turing-institute/the-turing-way/edit/acknowledging-contributors/contributors.md)).
 This will also help us capture the impact, _The Turing Way_ may have on its community members in terms of personal networking, professional development, skill sharing and other relevant activities.
@@ -134,6 +134,6 @@ Each contributor who represents _The Turing Way_ at an event is acknowledged in 
 Their contributions will be listed in the contributor's file with a similar statement as below:
 
 * Personal highlights: 
-> I have presented a talk at _The Turing Way_ at `event's name`. They have also `details like mentored multiple contributors within the community and have given talks at and event on behalf of the community`.
+> I have presented a talk at _The Turing Way_ at `event's name`. I have also `details like mentored multiple contributors within the community and have given talks at and event on behalf of the community`.
 
 Please read personas and pathways for different contributions in the next subchapter.
