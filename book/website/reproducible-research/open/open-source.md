@@ -1,4 +1,4 @@
-(rr-open-open-source)=
+(rr-open-source)=
 ## Open source software
 
 ### What is open source software?
