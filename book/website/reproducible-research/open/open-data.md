@@ -1,4 +1,4 @@
-(rr-open-open-data)=
+(rr-open-data)=
 ## Open data
 
 The world is witnessing a significant global transformation, facilitated by technology and digital media, and fuelled by data and information. 
