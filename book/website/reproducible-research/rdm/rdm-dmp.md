@@ -31,16 +31,16 @@ If you want to share your outputs later on, open file formats that can be opened
     * Check if there are any **costs** associated with your project
         * Preferred storage solution (during and after the project, see below)
         * Personnel costs (if you need a data manager to manage more sensitive or large quantities of data)
-        * Software licenses (such as Electronic Lab Notebooks, see the [Open notebooks section](../../reproducible-research/open/open-notebooks))
+        * Software licenses (such as Electronic Lab Notebooks, see the {ref} Open notebooks section <rr-open-open-notebooks>
         * You can use this [checklist for costs](https://www.ukdataservice.ac.uk/media/622368/costingtool.pdf) as a guidance
     * Keeping track of who changed what in your data/code can be important, particularly for code.
-See the [Version Control chapter](../../reproducible-research/vcs) for more information.
+See the {ref} Version Control chapter <rr-vcs> for more information.
     * Determine who has access to the data. 
 At least one other person should have access to your data, such as your supervisor/PI/head of the department. 
 If you're managing personal/commercially sensitive data, access should only be given to individuals that have to work with the data. 
 4. **Preservation of the research outputs after the project**
     * Consider whether your research outputs can be made publicly available. 
-Personal data or research outputs needed to apply for patents cannot be publicly shared, see the [Open Data section](../../reproducible-research/open/open-data.html)
+Personal data or research outputs needed to apply for patents cannot be publicly shared, see the {ref} Open data section <rr-open-data>
 If data cannot be made publicly available you will still have to preserve it for several years, depending on the policies of your country, institute and funder.
     * You can outsource long term preservation of your data to a data repository. 
 You can find more information on how to select an appropriate repository in the {ref} Sharing and archiving data section <rr-rdm-sharing>
@@ -48,7 +48,7 @@ You can find more information on how to select an appropriate repository in the 
 A repository should have a preservation policy that specifies how long your outputs will be curated. 
 When in doubt, contact your library Research Data Support Team for more information about data repositories. 
 5. **Reuse of your research outputs by others**
-    * Select a license when you make your output available on a repository (see the [Licensing section](../../reproducible-research/licensing) for more information). 
+    * Select a license when you make your output available on a repository (see the Licensing sections on {ref} data <rr-licensing-data> and {ref} software <rr-licensing-software> for more information). 
 By selecting a license you tell others how they can reuse your data. If you do not select a license others will not be able to reuse your data without asking you for permission. 
     * You can put your research outputs into context using a README.txt file
         * See the {ref} Documentation and metadata section <rr-rdm-metadata>
