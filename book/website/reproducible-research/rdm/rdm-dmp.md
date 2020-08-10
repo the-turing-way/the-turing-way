@@ -1,3 +1,4 @@
+(rr-rdm-dmp)=
 # Data Management Plan
 
 A Data Management Plan (DMP), or Output Management Plan, is a document that describes how your research outputs will be generated, stored, used and shared within your project. 
@@ -22,11 +23,11 @@ If you want to share your outputs later on, open file formats that can be opened
     * A distinction can be made between different types of data that can be described in the plan separately: 
         * Raw/primary data: data collected from the source (always keep a read-only version of raw data so you can come back to it later!)
         * Processed data: a version of the data that has been modified for analysis or visualisation
-        * Finalised data: data that is ready to be shared in a publication or data repository (see [Sharing and archiving data section](../../reproducible-research/rdm/rdm-sharing.) for more information)
-    * All of these types of data will have to be described to be placed into context by using metadata (see the [Documentation and metadata section](../../reproducible-research/rdm/rdm-metadata) and adequate documentation which will allow future you, and anyone in your team, to interpret the data. 
+        * Finalised data: data that is ready to be shared in a publication or data repository (see {ref} Sharing and archiving data section <rr-rdm-sharing>) for more information)
+    * All of these types of data will have to be described to be placed into context by using metadata (see the {ref} Documentation and metadata section <rr-rdm-metadata>) and adequate documentation which will allow future you, and anyone in your team, to interpret the data. 
     * It is helpful to know the approximate size (in the range of MB, GB, TB or PB) of the data in these various stages, because this will affect the storage solutions available for you (see below). 
 3. **Type of data storage used and back up procedures that are in place** 
-    * Check the [Data storage and organisation section](../../reproducible-research/rdm/rdm-storage) for storage and back-up solutions and ways to organise your files 
+    * Check the {ref} Data storage and organisation section <rr-rdm-storage> for storage and back-up solutions and ways to organise your files 
     * Check if there are any **costs** associated with your project
         * Preferred storage solution (during and after the project, see below)
         * Personnel costs (if you need a data manager to manage more sensitive or large quantities of data)
@@ -42,7 +43,7 @@ If you're managing personal/commercially sensitive data, access should only be g
 Personal data or research outputs needed to apply for patents cannot be publicly shared, see the [Open Data section](../../reproducible-research/open/open-data.html)
 If data cannot be made publicly available you will still have to preserve it for several years, depending on the policies of your country, institute and funder.
     * You can outsource long term preservation of your data to a data repository. 
-You can find more information on how to select an appropriate repository in the [Sharing and archiving section](../../reproducible-research/rdm/rdm-sharing)
+You can find more information on how to select an appropriate repository in the {ref} Sharing and archiving data section <rr-rdm-sharing>
         * Select repositories (using for example [FAIRsharing](https://fairsharing.org/) or [Nature's recommended repository list](https://www.springernature.com/gp/authors/research-data-policy/repositories/12327124)) that provide a persistent identifier such as a DOI for your research output. 
 A repository should have a preservation policy that specifies how long your outputs will be curated. 
 When in doubt, contact your library Research Data Support Team for more information about data repositories. 
@@ -50,7 +51,7 @@ When in doubt, contact your library Research Data Support Team for more informat
     * Select a license when you make your output available on a repository (see the [Licensing section](../../reproducible-research/licensing) for more information). 
 By selecting a license you tell others how they can reuse your data. If you do not select a license others will not be able to reuse your data without asking you for permission. 
     * You can put your research outputs into context using a README.txt file
-        * See the [Documentation and metadata section](../../reproducible-research/rdm/rdm-metadata) {ref} Documentation and metadata section <ch-rdm-metadata>
+        * See the {ref} Documentation and metadata section <rr-rdm-metadata>
 
 You can use this [checklist](https://www.ukdataservice.ac.uk/manage-data/plan/checklist.aspx) to see if you have everything covered in your Data Management Plan. 
 
