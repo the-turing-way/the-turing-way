@@ -1,4 +1,4 @@
-(rr-open-open-resources)=
+(rr-open-resources)=
 ## Checklists
 
 ### Open data
