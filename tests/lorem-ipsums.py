@@ -55,7 +55,7 @@ def check_changed_files(pr_num, bad_phrase=BAD_PHRASE):
     for filename in filenames:
 	    try:
             f = open(
-                os.path.join(ABSOLUTE_HERE, filename), encoding="utf8", errors="ignore"
+            os.path.join(ABSOLUTE_HERE, filename), encoding="utf8", errors="ignore"
             )
             text = f.read()
             text = remove_comments(text)
