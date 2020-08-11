@@ -110,7 +110,7 @@ def read_and_check_files(files):
                                     "latin_type": latin_type,
                                     "line": line,
                                 }
-	        except FileNotFoundError:
+            except FileNotFoundError:
 		        pass
 
     return failing_files
