@@ -95,7 +95,7 @@ def read_and_check_files(files):
         if filename in IGNORE_LIST:
             pass
         else:
-	    try:
+	        try:
                 with open(os.path.join(ABSOLUTE_HERE, filename), encoding="utf8", errors="ignore") as f:
                     text = f.read()
                 text = remove_comments(text)
@@ -108,8 +108,8 @@ def read_and_check_files(files):
                                 "latin_type": latin_type,
                                 "line": line,
                             }
-	    except FileNotFoundError:
-		pass
+	        except FileNotFoundError:
+		        pass
 
     return failing_files
 

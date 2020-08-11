@@ -53,7 +53,7 @@ def check_changed_files(pr_num, bad_phrase=BAD_PHRASE):
     failed = []
 
     for filename in filenames:
-	try:
+	    try:
             f = open(
                 os.path.join(ABSOLUTE_HERE, filename), encoding="utf8", errors="ignore"
             )
@@ -62,7 +62,8 @@ def check_changed_files(pr_num, bad_phrase=BAD_PHRASE):
             if bad_phrase in text.lower():
                 failed.append(filename.name)
         except FileNotFoundError:
-	    pass
+            pass
+
 
     return failed
 
