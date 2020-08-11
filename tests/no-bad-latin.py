@@ -95,8 +95,10 @@ def read_and_check_files(files):
         if filename in IGNORE_LIST:
             pass
         else:
-	        try:
-                with open(os.path.join(ABSOLUTE_HERE, filename), encoding="utf8", errors="ignore") as f:
+            try:
+                with open(
+                os.path.join(ABSOLUTE_HERE, filename), encoding="utf8",
+                errors="ignore") as f:
                     text = f.read()
                     text = remove_comments(text)
 
