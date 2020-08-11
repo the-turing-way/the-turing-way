@@ -64,7 +64,6 @@ def check_changed_files(pr_num, bad_phrase=BAD_PHRASE):
         except FileNotFoundError:
             pass
 
-
     return failed
 
 
