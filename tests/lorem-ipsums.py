@@ -54,13 +54,13 @@ def check_changed_files(pr_num, bad_phrase=BAD_PHRASE):
 
     for filename in filenames:
 	    try:
-            f = open(
-                os.path.join(ABSOLUTE_HERE, filename), encoding="utf8", errors="ignore"
-            )
-            text = f.read()
-            text = remove_comments(text)
-            if bad_phrase in text.lower():
-                failed.append(filename.name)
+            with open(
+            os.path.join(ABSOLUTE_HERE, filename), encoding="utf8", errors="ignore"
+            ) as f:
+                text = f.read()
+                text = remove_comments(text)
+                if bad_phrase in text.lower():
+                    failed.append(filename.name)
         except FileNotFoundError:
             pass
 
