@@ -111,7 +111,7 @@ def read_and_check_files(files):
                                     "line": line,
                                 }
             except FileNotFoundError:
-		        pass
+                pass
 
     return failing_files
 
