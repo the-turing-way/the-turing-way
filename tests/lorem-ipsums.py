@@ -53,7 +53,7 @@ def check_changed_files(pr_num, bad_phrase=BAD_PHRASE):
     failed = []
 
     for filename in filenames:
-	    try:
+        try:
             with open(
             os.path.join(ABSOLUTE_HERE, filename), encoding="utf8", errors="ignore"
             ) as f:

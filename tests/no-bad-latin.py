@@ -98,16 +98,16 @@ def read_and_check_files(files):
 	        try:
                 with open(os.path.join(ABSOLUTE_HERE, filename), encoding="utf8", errors="ignore") as f:
                     text = f.read()
-                text = remove_comments(text)
+                    text = remove_comments(text)
 
-                for latin_type in bad_latin:
-                    if latin_type in text.lower():
-                        lines = get_lines(text.lower(), latin_type)
-                        for line in lines:
-                            failing_files[os.path.abspath(filename)] = {
-                                "latin_type": latin_type,
-                                "line": line,
-                            }
+                    for latin_type in bad_latin:
+                        if latin_type in text.lower():
+                            lines = get_lines(text.lower(), latin_type)
+                            for line in lines:
+                                failing_files[os.path.abspath(filename)] = {
+                                    "latin_type": latin_type,
+                                    "line": line,
+                                }
 	        except FileNotFoundError:
 		        pass
 
