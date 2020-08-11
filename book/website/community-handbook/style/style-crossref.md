@@ -70,8 +70,6 @@ This label can be created in the corresponding file for the suggested section na
 ## Additional Material
 ```
 
-**After a label is created, please update the information in the central table called [labels.md](../../crossref/labels.md) file located in `book/website/crossref/` directory.**
-
 ### Examples of cross-referencing
 
 **Examples for cross-referencing sections of chapters and subchapters**
