@@ -2,8 +2,11 @@
 
 We recommend using the cross-referencing style as described in the [JupyterBook](https://jupyterbook.org/content/citations.html) for chapters or files, and different contents of chapters such as sections and figures.
 
-Labels are a way to add tags to parts of your content or a file that you can reference later on.
-This is helpful because you can quickly insert labels to other parts of your book.
+In JupyterBook, labels are a way to add tags to parts of your content or a file that you can reference later on.
+This is very helpful because you can insert labels to other parts of your book without worrying about the relative or absolute paths of the file.
+
+In this document, we have provided examples to describe how you can use labels for different chapters or part of chapters within the book.
+We have also defined a naming convention for labels for _The Turing Way_ to ensure that the locations of these labels in the book are identifiable by their name.
 
 #### Labels in JupyterBook
 
