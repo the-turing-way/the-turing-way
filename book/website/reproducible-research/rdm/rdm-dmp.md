@@ -23,7 +23,7 @@ If you want to share your outputs later on, open file formats that can be opened
     * A distinction can be made between different types of data that can be described in the plan separately: 
         * Raw/primary data: data collected from the source (always keep a read-only version of raw data so you can come back to it later!)
         * Processed data: a version of the data that has been modified for analysis or visualisation
-        * Finalised data: data that is ready to be shared in a publication or data repository (see {ref}`Sharing and archiving data section <rr-rdm-sharing>`) for more information)
+        * Finalised data: data that is ready to be shared in a publication or data repository (see {ref}`Sharing and archiving data section <rr-rdm-sharing>` for more information)
     * All of these types of data will have to be described to be placed into context by using metadata (see the {ref}`Documentation and metadata section <rr-rdm-metadata>`) and adequate documentation which will allow future you, and anyone in your team, to interpret the data. 
     * It is helpful to know the approximate size (in the range of MB, GB, TB or PB) of the data in these various stages, because this will affect the storage solutions available for you (see below). 
 3. **Type of data storage used and back up procedures that are in place** 
