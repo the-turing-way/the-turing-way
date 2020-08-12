@@ -31,7 +31,7 @@ If you want to share your outputs later on, open file formats that can be opened
     * Check if there are any **costs** associated with your project
         * Preferred storage solution (during and after the project, see below)
         * Personnel costs (if you need a data manager to manage more sensitive or large quantities of data)
-        * Software licenses (such as Electronic Lab Notebooks, see the {ref}`Open notebooks section <rr-open-open-notebooks>`
+        * Software licenses (such as Electronic Lab Notebooks, see the {ref}`Open notebooks section<rr-open-notebooks>`
         * You can use this [checklist for costs](https://www.ukdataservice.ac.uk/media/622368/costingtool.pdf) as a guidance
     * Keeping track of who changed what in your data/code can be important, particularly for code.
 See the {ref}`Version Control chapter<rr-vcs>` for more information.
