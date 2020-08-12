@@ -50,7 +50,7 @@ Here are a few suggestions for a good first contributions:
 ## The Turing Way Contact Points
 
 The lead investigator for this project is [Dr Kirstie Whitaker](https://whitakerlab.github.io/about).
-She is the lead of the Tools, Practices and Systems Research Programme at [The Alan Turing Institute](http://turing.ac.uk)
+She leads the Tools, Practices and Systems Research Programme at [The Alan Turing Institute](http://turing.ac.uk).
 
 The Community Manager is [Malvika Sharan](https://about.me/malvikasharan). She is a research associate at the [Alan Turing Institute](http://turing.ac.uk).
 
