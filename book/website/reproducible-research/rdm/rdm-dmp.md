@@ -34,7 +34,7 @@ If you want to share your outputs later on, open file formats that can be opened
         * Software licenses (such as Electronic Lab Notebooks, see the {ref}`Open notebooks section <rr-open-open-notebooks>`
         * You can use this [checklist for costs](https://www.ukdataservice.ac.uk/media/622368/costingtool.pdf) as a guidance
     * Keeping track of who changed what in your data/code can be important, particularly for code.
-See the {ref}`Version Control chapter <rr-vcs>` for more information.
+See the {ref}`Version Control chapter<rr-vcs>` for more information.
     * Determine who has access to the data. 
 At least one other person should have access to your data, such as your supervisor/PI/head of the department. 
 If you're managing personal/commercially sensitive data, access should only be given to individuals that have to work with the data. 
