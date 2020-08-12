@@ -1,22 +1,24 @@
-(ch-coworking-daily)=
-# Daily Coworking Calls
+(ch-coworking-weekly)=
+# Weekly Coworking Calls
 
-_The Turing Way_ team has been hosting coworking calls almost every day at 11:00 GMT/BST.
+_The Turing Way_ team has been hosting shorter coworking calls each week. 
 These calls are similar to the Collaboration Cafes, but only 1-hour long.
-It is not scheduled on the days when there is a Collaboration Cafe already scheduled, the daily coworking call.
+Since May 2020, these calls have been taking place multiple days each week at 11:00 GMT/BST.
+It is not hosted on the days when there is a Collaboration Cafe already scheduled.
 
-Like Collaboration Cafe, we host these calls online using [Zoom](https://www.zoom.us/).
+Like Collaboration Cafes, we host these calls online using [Zoom](https://www.zoom.us/).
 We use the Shut up & Write! method by providing allocated time for two 20-25 minutes long Pomodoro sessions and two short breaks to chat about our work and exchange what we got done.
 
-These calls are hosted for people who are working on certain issues or PRs in _The Turing Way_ to come along and join other community members in their usual working hours.
+The primary target of these calls are members who are working on certain issues or PRs in _The Turing Way_ to come along and join other community members in their usual working hours.
 These calls also provide opportunities to clarify doubts about the project, get PRs reviewed, brainstorm different ideas together, and stay connected with other members in the community.
 
 ## Attending an online coworking call
 
-The schedule for the daily coworking calls is updated weekly [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon) for every month.
-We announce these in our [monthly newsletters](https://tinyletter.com/TuringWay/archive) and send a reminder every Monday on the [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
+The schedule for these coworking calls is updated weekly [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon).
+We announce these in our [monthly newsletters](https://tinyletter.com/TuringWay/archive) and send a reminder every Monday on the [Slack channel](https://tinyurl.com/jointuringwayslack).
 
-Though scheduled for 1 hour, you are welcome to join for as long as your schedule allows, however, please let the host of the call know if you plan to join in the middle of the schedule.
+Though scheduled for 1 hour, you are welcome to join for shorter period as your schedule allows, however, please let the host of the call know so that they know who to expect on the call.
+If you are interested in coworking with one of the team members on a day that is not listed on the schedule, please contact them on Slack or by email so that they can find a common slot to work with you. 
 
 ### Resource used for the call
 
@@ -31,7 +33,7 @@ We also don't create {ref}`breakout rooms<ch-coworking-collabcafe-breakout>` unl
 
 ### Format of the call
 
-We have a template for the {ref}`Collaboration Cafes<ch-coworking-daily-template>`, which is updated on the [shared HackMD](https://hackmd.io/@malvikasharan/TW-coworking) for each week.
+We have a template for the {ref}`Collaboration Cafes<ch-coworking-weekly-template>`, which is updated on the [shared HackMD](https://hackmd.io/@malvikasharan/TW-coworking) for each week.
 
 We'll run the following schedule during each call:
 
@@ -44,7 +46,7 @@ We'll run the following schedule during each call:
 | 25 mins | 🍅 2nd Pomodoro session |
 | 5 mins | Open discussion and Close 👋 |
 
-In contrast to the Collaboration Cafes, the schedule for these daily calls seems more intense with less chance for discussion.
+In contrast to the Collaboration Cafes, the schedule for these calls seems more intense with less chance for discussion.
 However, since these calls are attended by fewer participants, it provides more opportunities for informal interactions.
 
 #### Beginning
