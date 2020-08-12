@@ -27,7 +27,7 @@ _The Turing Way_ core team members will be on the call and point you to some sta
 
 ## Techniques
 
-We offer two types of coworking calls: 1-hour short daily calls to work on ongoing projects in the community, and the bimonthly Collaboration Cafes (2-hours) that offers a mix of community discussion and quiet working slots.
+We offer two types of coworking calls: 1-hour short calls every week to work on ongoing projects in the community, and 2-hour long bimonthly Collaboration Cafes that offers a mix of community discussion and quiet working slots.
 We encourage our members to attend for as long during these designated hours as their schedule allows, even if they can't be present during the entire call.
 
 These calls use a combination of two techniques:
@@ -45,25 +45,25 @@ They explain that the Shut up & Write! events provide two things:
 
 **1. Accountability & Habit Formation:**
 
-A new habit becomes a part of the daily routine when we commit to doing them consistently on a specific day, time, and location.
-Their participants yield successful outcomes for their writing assignments by making the commitment to attend the writing event each week at the same time for 1 hour.
+A new habit becomes a part of our routine when we commit to doing them consistently on a specific day, time, and location.
+Based on this principle, Shut up & Write events allow participants to yield successful outcomes for their writing assignments by making the commitment to attend the writing event each week at the same time for 1 hour.
 
 **2. Social Motivation & Support:**
 
 The *sense of belonging* can increase performance and engagement in tasks.
 In a survey conducted on 2000 participants from different sectors, high belonging was linked to a whopping 56% increase in job performance {cite}`HBR2019Belonging`.
-Along the same line, Shut Up & Write events provide a sense of community where attendees feel supported and motivated by everyone else writing around you.
+Along the same line, Shut Up & Write events provide a sense of community where attendees feel supported and motivated by everyone else writing around them.
 
-This circle of 3 experiences: "habit building and progress", "social support and accountability" and "great writing experience", keep people engaged, feel committed and accomplish what they set out to do.
+They create a cycle of 3 experiences: "habit building and progress", "social support and accountability" and "great writing experience", which keep people engaged, feel committed and accomplish what they set out to do.
 
 ### Pomodoro Technique
 
-The [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) uses a timer to break down work into smaller intervals usually of 25 minutes called "Pomodoros", separated by short breaks or 5 minutes.
+The [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) uses a timer to break down work into smaller intervals usually of 25 minutes called "Pomodoros", separated by short breaks of 5 minutes.
 Like the previous technique, the Pomodoro technique allows planning, tracking, recording, processing and visualizing the task at hand.
 
 > Pomodoro, from the Italian word for 'tomato', after the tomato-shaped kitchen timer that Francesco Cirillo used as a university student. {cite}`Lifehack2020pomodoro`
 
-The goal of this technique is to avoid procrastinating and getting things done with the help of the following workflow:
+The goal of this technique is to avoid procrastinating and get things done with the help of the following workflow:
 - identify the task
 - set the Pomodoro timer (25 minutes long)
 - work on the task until the timer rings
@@ -77,4 +77,4 @@ The longer breaks can be used for the following tasks:
 - Reflect on what you learned and what you would do differently going forward
 - Identify the next set of tasks or the next steps in the project you are working on
 
-In the next subchapters, we explain our coworking call formats where we combine these two techniques to host the biweekly Collaboration Cafes and daily coworking calls for our community members.
+In the next subchapters, we explain our coworking call formats where we combine these two techniques to host the biweekly Collaboration Cafes and weekly coworking calls for our community members.
