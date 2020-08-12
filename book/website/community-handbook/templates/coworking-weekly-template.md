@@ -1,11 +1,11 @@
-(ch-coworking-daily-template)=
-# Daily Coworking Call Template
+(ch-coworking-weekly-template)=
+# Weekly Coworking Call Template
 
 *A permanent document exists in the HackMD: [https://hackmd.io/@malvikasharan/TW-coworking](https://hackmd.io/@malvikasharan/TW-coworking) that is updated every Monday with the dates and times for the respective week.*
 
 ## _The Turing Way_ online coworking hours
 
-If you are working from home and want to connect for The Turing Way co-working hour - sign up for a slot provided for this week between 11:00 - 12:00 BST.
+If you would like to join _The Turing Way_ co-working hour - sign up for a slot provided for this week between 11:00 - 12:00 BST.
 
 Join us with a task that you are already working on in _The Turing Way_, an idea that you want to discuss, a pull request that you want to review, or something you started in the past and struggling to finish.
 If you want to get an orientation to the project as a new member or connect with the team members - this would be a good place too!
