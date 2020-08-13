@@ -206,17 +206,18 @@ I also hope that it can convince people that don't consider themselves capable o
 * GitHub id: [rainsworth](http://github.com/rainsworth)
 * ORCID: [0000-0003-2591-9462](https://orcid.org/0000-0003-2591-9462)
 * Short bio: 
-> I am the community manager of Software Sustainability Institute.
+> I am the Research Software Community Manager at the Software Sustainability Institute.
 > Previously, I worked as a Research Associate and Open Science Champion at the Jodrell Bank Centre for Astrophysics at the University of Manchester. 
 > My research involved observing jets from young stars with next-generation radio telescopes to investigate the physical processes that assemble stars like our Sun, and am currently working to make data from the radio telescope facilities at Jodrell Bank more accessible to all. 
-> I am also a FOSTER certified Open Science Trainer, Mozilla Open Leader, Organiser for the women in data meetup group HER+Data MCR and member of the first cohort of Tech Future Female Leaders. 
+> I am also a FOSTER certified Open Science Trainer, Mozilla Open Leader, and Organiser for the women in data meetup group HER+Data MCR.
 
 * Personal highlights:
-> `TBA`
+> I have promoted *The Turing Way* through many presentations, notably at the Open Science Fair 2019 where I presented a poster and delivered 3 demonstrations of the project to attendees, one of which was recorded as part of the [ORION Open Science Podcast](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/). 
+> Through *The Turing Way* project I have gained valuable skills in open project management and met truly inspiring individuals working hard to promote openness and reproducibility in research.
 
 * More information:
 > I am passionate about promoting openness, transparency, reproducibility, wellbeing and inclusion in STEM and facilitating cross-stakeholder conversations in order to change research culture for the better. 
 > I also love space exploration.
-> The Turing Way goal of ensuring that reproducible data science is "too easy not to do" really resonates with me. 
+> *The Turing Way* goal of ensuring that reproducible data science is "too easy not to do" really resonates with me. 
 > I find that it can be difficult to get researchers to engage with reproducibility and sharing their research outputs because they perceive that it will take too much time and effort with very little reward - when the opposite is true! 
 > Ensuring results are reproducible not only benefits research as a whole and increases efficiency, but working this way also offers researchers more opportunities for impact and collaboration.
