@@ -38,17 +38,18 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * ORCID: [0000-0002-4542-9906](https://orcid.org/0000-0002-4542-9906)
 * Short bio: 
 > I am a Research Data Specialist at University of Edinburgh's Digital Curation Centre, UK.
+> I am a 2019 Software Sustainability Institute Fellow and HiddenREF committee member.
 > From 2016 to 2019, I worked as Research Repository Advisor at the University of Birmingham.
-> From 2012 to 2016, I've worked at CERN as a doctoral student supporting Open Research stuff and still have to finish writing up the results in my PhD thesis and submit to the Humboldt-Universitaet in Berlin but tend to spend the time watching Netflix or crocheing :-(
+> From 2012 to 2016, I've worked at CERN as a doctoral student supporting Open Research stuff and then abandoned the PhD and started a real job using all the skills I aquired.
 
 * Personal highlights:
-> `TBA`
+> Working on the Turing Way reminded me about what I value in my work and that I do have more technical skill than I think.
+> Based on the Turing Way work, I have started the product managmement role for DMPonline and I'm trying to take the inspiration from the project into my every day work whenever I can.
 
 * More information:
 > As a librarian, it feels like our influence is often limited, but I try to set up workshops/events to at least get the discussion started and give especially PhD students the feeling that they can challenge the status quo and there will be people in the institution that will support them that might not be their supervisor.
 > I really love how the Turing Way aims to create good examples and I hope we can develop some ideas and resources that can have a positive impact in changing the current system.
-> I really care about collaborating and get really excited about trying new tools if my limited tech skills allow.
-> I'd like to have taken down Elsevier by the end of my career. ;-)
+> I care about collaborating and get really excited about trying new tools if my limited tech skills allow.
 
 ### Alexander Morley
 
