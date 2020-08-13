@@ -18,7 +18,7 @@ If the current schedule of the online Collaboration Cafe is not suitable for you
 Please open a new issue (see [this example](https://github.com/alan-turing-institute/the-turing-way/issues/684)) or reach out to _The Turing Way_ team members for details.
 We are also currently developing a guide for hosting these calls ([issue #925](https://github.com/alan-turing-institute/the-turing-way/issues/925)).
 
-### Resource used for the call
+### Resources used for the call
 
 Here are the resources we use for these calls:
 
