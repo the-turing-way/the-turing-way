@@ -55,17 +55,25 @@ This will be an important work towards improving the user-friendliness of the on
 
 This section explains the project goals in detail, provides examples of tasks that each goal will involve and a description of the process that will be applied to achieve them.
 
-1. Achieving retrospective consistency
+**1. Achieving retrospective consistency**
 
 I will focus on improving the consistency of content that is already in The Turing Way in order to make the book accessible for readers from diverse backgrounds by:
 
-i. Ensuring structural consistency across the entire book: By identifying the points that are inconsistent in the book at the moment I will identify a list of structural consistencies to ensure that the chapters across the book follow a uniform pattern, and thus enhance the readability for the users. I will introduce appropriate changes into each chapter to enhance the overall readability of The Turing Way’s book chapters. These changes will include using correct and consistent heading levels to structure a page. Validated headings allow users to read the book using an assistive technology device like a screen reader. I will also ensure that the citations and references are consistent throughout to appropriately cite and provide access to further reading on the Turing Way chapter content.
+i. Ensuring structural consistency across the entire book: By identifying the points that are inconsistent in the book at the moment I will identify a list of structural consistencies to ensure that the chapters across the book follow a uniform pattern, and thus enhance the readability for the users. 
+I will introduce appropriate changes to each chapter to enhance the overall readability of The Turing Way’s book chapters. 
+These changes will include using correct and consistent heading levels to structure a page. 
+Validated headings allow users to read the book using an assistive technology device like a screen reader. 
+I will also ensure that the citations and references are consistent throughout to appropriately cite and provide access to further reading on the Turing Way chapter content.
 
-ii. Fixing features that are no longer supported: In June 2020 The Turing Way was updated to a new version of JupyterBook that is a complete rewrite of the publishing software. There are many features that are no longer compatible and lead to inconsistencies in the book including broken links and unclear formatting. For example, the previous version of JupyterBook supported HTML tags and a mix of Markdown and HTML formatting, which are no longer supported in the current pure python version. Broken links for cross-referenced chapters or sections make navigating between pages in the book difficult. I will use the new feature of unique labels to define headers and subheaders to make it easier for readers to access information that is available in across The Turing Way chapters.
+ii. Fixing features that are no longer supported: In June 2020 The Turing Way was updated to a new version of JupyterBook that is a complete rewrite of the publishing software. 
+There are many features that are no longer compatible and lead to inconsistencies in the book including broken links and unclear formatting. 
+For example, the previous version of JupyterBook supported HTML tags and a mix of Markdown and HTML formatting, which is no longer supported in the current pure python version. 
+Broken links for cross-referenced chapters or sections make navigating between pages in the book difficult. 
+I will use the new feature of unique labels to define headers and subheaders to make it easier for readers to access information that is available across The Turing Way chapters.
 
-2. Contributing towards the future maintenance 
+**2. Contributing to future maintenance** 
 
-I will focus on maintaining consistency of content in The Turing Way in order to make contributing to the project more accessible for new community members.
+I will focus on maintaining consistency of content in The Turing Way in order to make contributions to the project more accessible for new community members.
 
 i. Ensuring future consistency: I will develop templates to guide authors as they write new content or modify existing chapters. The current template is outdated and does not reflect the style of communication that The Turing Way community has developed over time. The new templates will make improving the book more accessible by helping new contributors write interoperable content from the start. The material will need less effort to edit and review, and will ensure readers benefit from easy searching, smooth navigation, and better understanding of the technical content. The templates will be accompanied by guidelines for authors who want to develop chapter-specific contents or to incorporate assessments for the readers to self-evaluate concepts covered in the chapter. This effort will bolster asynchronous collaboration among authors when writing content for a chapter ensuring that there is a cohesive narrative when it is written by a diverse group of authors from around the world.
 
