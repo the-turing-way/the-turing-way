@@ -161,14 +161,15 @@ I also hope that it can convince people that don't consider themselves capable o
 ### Louise Bowler
 
 * GitHub id: [LouiseABowler](http://github.com/LouiseABowler)
-* ORCID: [TBA](https://orcid.org/TBA)
-* Short bio: 
-> I'm a Research Data Scientist in the Alan Turing Institute's Research Engineering Group. 
+* ORCID: [0000-0002-4910-9205](https://orcid.org/0000-0002-4910-9205)
+* Short bio:
+> I’m a Research Data Scientist in the Alan Turing Institute’s Research Engineering Group. 
 > I have a degree in Physics from Imperial College London, after which I joined the Life Sciences Interface Doctoral Training Centre at the University of Oxford. 
-> My doctoral work at Oxford was highly interdisciplinary, combining mathematical modelling, cardiac electrophysiology and safety pharmacology.
+> I worked on an interdisciplinary PhD project that combined mathematical modelling, cardiac electrophysiology and safety pharmacology, and moved over to the Turing afterwards.
+> Since then, I’ve worked on a range of projects spanning synthetic data, data visualisation, and of course, the Turing Way!
 
 * Personal highlights:
-> `TBA`
+> I got involved with the Turing Way via case studies of reproducibility in academic projects - essentially, I was a reproducibility detective during the initial phase of the project! :female_detective: The Turing Way was my first experience of working with collaborators from so many different institutions, and the community around this project has been a real highlight for me. My official time on the Turing Way has come to an end, but I still enjoy keeping in touch through the Book Dashes and other events.
 
 * More information:
 > As scientists, we share our work via papers and talks, but the intricacies of precisely *how* we implement an analysis pipeline or novel algorithm can be very difficult to convey in those formats. 
