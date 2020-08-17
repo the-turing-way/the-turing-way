@@ -101,7 +101,11 @@ The images in the book will adapt to the screens of mobile devices.
 I will add keyboard navigation support to the book for people who find it hard to use the mouse trackpad and need to navigate the book using a keyboard. 
 These changes will help make the book accessible to a wider audience.
 
-ii. Providing advanced search capacity to present relevant information: Most users visit The Turing Way with a certain question related to data science in mind. I will enhance the current search feature by developing a standardised vocabulary to support the quick discovery of desired content in the book. This feature will facilitate grouping of related content, both in terms of the material that already exists and new content that will be written in the future. The controlled vocabulary will be developed based on the criteria of how relatively popular a search topic or phrase is and how they relate to the different skill levels. Making sure that the work can be quickly accessed by readers as they look for the answers to the question will make The Turing Way as useful as possible around the open source and data science ecosystems.
+ii. Providing advanced search capacity to present relevant information: Most users visit The Turing Way with a certain question related to data science in mind. 
+I will enhance the current search feature by developing a standardised vocabulary to support the quick discovery of desired content in the book. 
+This feature will facilitate grouping of related content, both in terms of the material that already exists and new content that will be written in the future. 
+The controlled vocabulary will be developed based on the criteria of how relatively popular a search topic or phrase is and how they relate to the different skill levels. 
+Making sure that the work can be quickly accessed by readers as they look for the answers to the question will make The Turing Way as useful as possible around the open source and data science ecosystems.
 
 ## Motivation and background for my proposal
 
