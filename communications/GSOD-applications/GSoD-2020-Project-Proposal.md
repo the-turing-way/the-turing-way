@@ -24,12 +24,19 @@ In association with The Turing Way mentors, I have set 3 major technical writing
 
 ## Current State of the project
 
-Since its launch in April 2019, this project has attracted enormous interest from the research community. Over 20 chapters were collaboratively written within a year by more than 150 contributors that cover important research practices, tools and methods for reproducibility. 
-These resources have been developed by different contributors of different domain expertise, from around the world. This has also introduced several inconsistencies in the book in terms of language, chapter structure, cross-referencing, and in general how the chapters appear in the online book. I will focus on improving the consistency of content that is already in The Turing Way in order to make the book accessible for readers from diverse backgrounds.
+Since its launch in April 2019, this project has attracted enormous interest from the research community. 
+Over 20 chapters were collaboratively written within a year by more than 150 contributors that cover important research practices, tools and methods for reproducibility. 
+These resources have been developed by different contributors to different domain expertise, from around the world. This has also introduced several inconsistencies in the book in terms of language, chapter structure, cross-referencing, and in general how the chapters appear in the online book. 
+I will focus on improving the consistency of content that is already in The Turing Way in order to make the book accessible for readers from diverse backgrounds.
 
-Many contributors have also started conducting subprojects such as translation of The Turing Way book, collection of case-studies that applied the skills mentioned in The Turing Way and developing tutorials. These independent efforts also present a need to create detailed guidelines that explain the process and workflow to new contributors. Although the project has more contributor documentation than many projects, there are major sections that are missing or out of date. I will focus on maintaining consistency of content in The Turing Way in order to make contributing to the project more accessible for new community members.
+Many contributors have also started conducting subprojects such as translation of The Turing Way book, collection of case-studies that applied the skills mentioned in The Turing Way and developing tutorials. 
+These independent efforts also present a need to create detailed guidelines that explain the process and workflow to new contributors. 
+Although the project has more contributor documentation than many projects, there are major sections that are missing or out of date. 
+I will focus on maintaining consistency of content in The Turing Way in order to make contributions to the project more accessible for new community members.
 
-The chapters and contents in a Jupyter Book can be browsed online using an index and a simple filtering through the search option. However, filtering of chapters in The Turing Way is not yet possible. This makes the book hard to navigate for new and occasional readers and users of this book: the community members who could benefit the most from The Turing Way material. I will focus on improving the accessibility of the material as it grows by adding an advanced filtering option to allow browsing its content by topics, relevance or skill level.
+The chapters and contents in a Jupyter Book can be browsed online using an index and simple filtering through the search option. However, the filtering of chapters in The Turing Way is not yet possible. 
+This makes the book hard to navigate for new and occasional readers and users of this book: the community members who could benefit the most from The Turing Way material. 
+I will focus on improving the accessibility of the material as it grows by adding an advanced filtering option to allow browsing its content by topics, relevance, or skill level.
 
 ## Project Goals
 
