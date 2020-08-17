@@ -75,15 +75,31 @@ I will use the new feature of unique labels to define headers and subheaders to 
 
 I will focus on maintaining consistency of content in The Turing Way in order to make contributions to the project more accessible for new community members.
 
-i. Ensuring future consistency: I will develop templates to guide authors as they write new content or modify existing chapters. The current template is outdated and does not reflect the style of communication that The Turing Way community has developed over time. The new templates will make improving the book more accessible by helping new contributors write interoperable content from the start. The material will need less effort to edit and review, and will ensure readers benefit from easy searching, smooth navigation, and better understanding of the technical content. The templates will be accompanied by guidelines for authors who want to develop chapter-specific contents or to incorporate assessments for the readers to self-evaluate concepts covered in the chapter. This effort will bolster asynchronous collaboration among authors when writing content for a chapter ensuring that there is a cohesive narrative when it is written by a diverse group of authors from around the world.
+i. Ensuring future consistency: I will develop templates to guide authors as they write new content or modify existing chapters. 
+The current template is outdated and does not reflect the style of communication that The Turing Way community has developed over time. 
+The new templates will make improving the book more accessible by helping new contributors write interoperable content from the start. 
+The material will need less effort to edit and review and will ensure readers benefit from easy searching, smooth navigation, and a better understanding of the technical content. 
+The templates will be accompanied by guidelines for authors who want to develop chapter-specific content or to incorporate assessments for the readers to self-evaluate concepts covered in the chapter. 
+This effort will bolster asynchronous collaboration among authors when writing content for a chapter ensuring that there is a cohesive narrative when it is written by a diverse group of authors from around the world.
 
-ii. Capturing the ongoing process and workflow within the community: As a community-developed project, The Turing Way allows anyone to contribute to their project based on their availability. Volunteers carry out initiatives including creating tutorials, documenting case studies, and translating the book into different languages. These efforts have grown organically and are being led by different individuals in an independent manner. Their processes are not well documented making it difficult for new community members to join their work. I will maintain the accessibility and consistency of the project by supporting core contributors to document their workflows and link to them from the main user documentation and style guide.
+ii. Capturing the ongoing process and workflow within the community: As a community-developed project, The Turing Way allows anyone to contribute to their project based on their availability. 
+Volunteers carry out initiatives including creating tutorials, documenting case studies, and translating the book into different languages. 
+These efforts have grown organically and are being led by different individuals in an independent manner. 
+Their processes are not well documented making it difficult for new community members to join their work. 
+I will maintain the accessibility and consistency of the project by supporting core contributors to document their workflows and link to them from the main user documentation and style guide.
 
-3. Improving an overall accessibility of the online book
+**3. Improving the overall accessibility of the online book**
 
-I will focus on improving the accessibility of the material as it grows by adding an advanced filtering option to allow browsing its content by topics, relevance or skill level by:
+I will focus on improving the accessibility of the material as it grows by adding an advanced filtering option to allow browsing its content by topics, relevance, or skill level by:
 
-i. Enhancing the user-friendliness of the online resource: The goal of The Turing Way is to transform data science practices to be more collaborative and inclusive. This means the information in the book must be accessible to everyone across different skill levels, application domains, and personal characteristics including disabilities such as visual impairment. The guidelines and templates I develop will ensure authors write accessible content from the start. Accessible web content can be read consistently from different digital platforms, can be optimized as per the user’s requirement, and is understood clearly by a broad range of readers. I will improve the accessibility of The Turing Way book by designing and developing a responsive layout for when it is accessed on a smartphone or a tablet. The images in the book will adapt to the screens of mobile devices. I will add keyboard navigation support to the book for people who find it hard to use the mouse trackpad and need to navigate the book using a keyboard. These changes will help make the book accessible to a wider audience.
+i. Enhancing the user-friendliness of the online resource: The goal of The Turing Way is to transform data science practices to be more collaborative and inclusive. 
+This means the information in the book must be accessible to everyone across different skill levels, application domains, and personal characteristics including disabilities such as visual impairment. 
+The guidelines and templates I develop will ensure authors write accessible content from the start.
+Accessible web content can be read consistently from different digital platforms, can be optimized as per the user’s requirement, and is understood clearly by a broad range of readers. 
+I will improve the accessibility of The Turing Way book by designing and developing a responsive layout for when it is accessed on a smartphone or a tablet. 
+The images in the book will adapt to the screens of mobile devices. 
+I will add keyboard navigation support to the book for people who find it hard to use the mouse trackpad and need to navigate the book using a keyboard. 
+These changes will help make the book accessible to a wider audience.
 
 ii. Providing advanced search capacity to present relevant information: Most users visit The Turing Way with a certain question related to data science in mind. I will enhance the current search feature by developing a standardised vocabulary to support the quick discovery of desired content in the book. This feature will facilitate grouping of related content, both in terms of the material that already exists and new content that will be written in the future. The controlled vocabulary will be developed based on the criteria of how relatively popular a search topic or phrase is and how they relate to the different skill levels. Making sure that the work can be quickly accessed by readers as they look for the answers to the question will make The Turing Way as useful as possible around the open source and data science ecosystems.
 
