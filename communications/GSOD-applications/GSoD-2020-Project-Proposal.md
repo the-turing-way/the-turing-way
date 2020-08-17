@@ -33,13 +33,16 @@ The chapters and contents in a Jupyter Book can be browsed online using an index
 
 ## Project Goals
 
-The goals identified for my application to GSoD have been discussed with the mentors Kirstie Whitaker, the project lead of The Turing Way, and Malvika Sharan, the community manager. Based on my interest in improving user experience and accessibility, we narrowed down my focus to the following three goals:
+The goals identified for my application to GSoD have been discussed with the mentors Kirstie Whitaker, the project lead of The Turing Way, and Malvika Sharan, the community manager. 
+Based on my interest in improving user experience and accessibility, we narrowed down my focus to the following three goals:
  
-1. Retrospective consistency: review the previous contributions made in the project to make sure that the book that already exists is internally consistent. This will include updating the style guide to conform to accessibility standards, fixing outdated features caused by the major update (such as broken links, using images, cross-referencing between the chapters, and redirecting to pages that have moved), and bringing coherent feel and style in the book in general.
+**1. Retrospective consistency:** review the previous contributions made in the project to make sure that the book that already exists is internally consistent. 
+This will include updating the style guide to conform to accessibility standards, fixing outdated features caused by the major update (such as broken links, using images, cross-referencing between the chapters, and redirecting to pages that have moved), and bringing coherent feel and style in the book in general.
  
-2. Contributing to future maintenance: build a set of templates for different kinds of contributions in the project, which will ensure that current and future contributors maintain this consistency as the project grows and evolves over time.
+**2. Contributing to future maintenance:** build a set of templates for different kinds of contributions in the project, which will ensure that current and future contributors maintain this consistency as the project grows and evolves over time.
  
-3. Improving the overall accessibility to information: work on the page tags and filters to make it easier for people to find information in the book. This will be an important work towards improving the user-friendliness of the online resources and give easy access to relevant information searched by the readers.
+**3. Improving the overall accessibility to information:** work on the page tags and filters to make it easier for people to find information in the book. 
+This will be an important work towards improving the user-friendliness of the online resources and give easy access to relevant information searched by the readers.
 
 ## Project goals and process in detail
 
