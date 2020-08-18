@@ -5,5 +5,5 @@ Most notably, the Turing-hosted cluster of mybinder.org.
 
 **Contents of folder (with short description):**
 
-- [`turing_binderhub_azure_credit_request_Oct2019.md`](turing_binderhub_azure_credit_request_Oct2019.md)
+- [`turing_binderhub_azure_credit_request_2019-10.md`](turing_binderhub_azure_credit_request_2019-10.md)
   - The first credit request made to setup the Turing's mybinder.org cluster
