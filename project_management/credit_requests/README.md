@@ -7,3 +7,5 @@ Most notably, the Turing-hosted cluster of mybinder.org.
 
 - [`turing_binderhub_azure_credit_request_2019-10.md`](turing_binderhub_azure_credit_request_2019-10.md)
   - The first credit request made to setup the Turing's mybinder.org cluster
+- [`turing_binderhub_azure_credit_request_2020-08.md`](turing_binderhub_azure_credit_request_2020-08.md)
+  - Second credit request to continue providing Turing-hosted infrastructure to mybinder.org
