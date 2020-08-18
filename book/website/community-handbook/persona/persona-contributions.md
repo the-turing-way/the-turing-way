@@ -6,7 +6,7 @@ In the previous chapter, we discussed how someone might come in contact with _Th
 Below, we will explore the different types of contributions that exist within _The Turing Way_.
 Those contributions are described with the possible pathways that personas will use to make their contributions.
 
-Each contributor of _The Turing Way_ is a recognised as a community member and their contributions are acknowledged fairly in this project.
+Each contributor of _The Turing Way_ is recognised as a community member and their contributions are acknowledged fairly in this project.
 The [Contributors](https://github.com/alan-turing-institute/the-turing-way#contributors) section in the [README](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file is updated with every contributor's name using [all contributors bot](https://allcontributors.org/) [emoji keys](https://allcontributors.org/docs/en/emoji-key) to reflect the different types of contributions they have made.
 
 In this chapter, we have also discussed this practice by listing how each persona will be acknowledged in _The Turing Way_ for their work.
@@ -94,6 +94,7 @@ He started writing the chapter at a Turing Way Book Dash event, based on an idea
 He responded to review comments and iteratively improved the chapter until the pull request was merged.
 
 **Acknowledgement:** He is acknowledged in the Contributors table with a 👀 (`review`), 🤔 (`idea`) and 🖋 (`content`) emoji.
+He is also named as an author on the last release of the book.
 
 **2.** *Reviewing and making chapter contribution*: Sia recently learned about _The Turing Way_ project and started contributing by reviewing a pull request for the chapter "Setting expectations across academia and industry".
 She offered some critical suggestions and engaged in helpful discussions with the author to help them improve their contribution.
@@ -113,11 +114,12 @@ She submitted her contribution as a pull request to the Turing Way and responded
 
 ### Accessibility
 
-**Overview:** Contributors reporting or working on accessibility issues.
+Contributors reporting or working on accessibility issues.
 
 #### Personas & Pathways:
 
 **1.** Endre wrote a script to make sure that _The Turing Way_ book is properly readable for low vision readers.
+
 **Acknowledgement:** This will be acknowledged with ♿️ (`ally`) emoji  in the Contributors Table along with 💻 (`code`) emoji.
 
 **2.** Rajmund wrote chapters on the community participation in the Collaboration guide that discusses the accessibility aspects of working in a research team.
@@ -136,7 +138,7 @@ The translation infrastructure as of May 2020 is [Trasifex](https://www.transife
 
 #### Personas & Pathways:
 
-**1.** *Translating resources*: Anika has translated 3 paragraphs of the version control chapter into Swedish following the standard process defined in The Turing Way repository.
+**1.** *Translating resources*: Anika has translated 3 paragraphs of the version control chapter into Swedish following the standard process defined in _The Turing Way_ repository.
 
 **Acknowledgement:** She is acknowledged in the Contributors table with the 🌍 (`translation`) emoji.
 
@@ -161,38 +163,38 @@ These efforts are highly encouraged to ensure the sustainability of their resour
 
 #### Personas & Pathways:
 
-**1.** *Organisation*: The Narnia National AI Institute (NNAII) have agreed to share their internal guidance on communicating safe and ethical artificial intelligence to The Turing Way.
-The chapters were written by a team of people within NNAII and converted into pull requests that fit The Turing Way style guide.
+**1.** *Organisation*: The Narnia National AI Institute (NNAII) have agreed to share their internal guidance on communicating safe and ethical artificial intelligence to _The Turing Way_.
+The chapters were written by a team of people within NNAII and converted into pull requests that fit _The Turing Way_ style guide.
 Each individual from the team is listed as a contributor in the Contributors Table with a 🖋 (`content`) emoji or other relevant contributions they have made.
 
-**Acknowledgement:** The NNAII is acknowledged as a "Collaborating organisation" in the `CONTRIBUTORS` file with detailed contributions from each of their members involved in this project.
+**Acknowledgement:** The NNAII is acknowledged as a "Collaborating organisation" in the {ref}`the record of contributions<ch-acknowledgement-records>` with detailed contributions from each of their members involved in this project.
 
 **2.** *Contributing member from the organisation*: Abby is one of the members of the NNAII who contributed to the guidance before she left to join a non-profit last year.
 After leaving NNAII, Abby has designed and written a new chapter in her own time.
 
-**Acknowledgement:** In addition to her previous acknowledgments, she will be acknowledged with a 🖋  (`content`) and 🤔 (`idea`) emoji in the Contributors Table and her list of contributions in the `CONTRIBUTORS` file will develop independently of the NNAII.
+**Acknowledgement:** In addition to her previous acknowledgments, she will be acknowledged with a 🖋  (`content`) and 🤔 (`idea`) emoji in the Contributors Table and her {ref}`the record of contributions<ch-acknowledgement-records>` will develop independently of the NNAII.
 
-**3.** *Supporting (indirect contributor) members from the organisation*: Kadie is a programme director at the NNAII who manages the team that wrote the guidance that has been incorporated into The Turing Way.
+**3.** *Supporting (indirect contributor) members from the organisation*: Kadie is a programme director at the NNAII who manages the team that wrote the guidance that has been incorporated into _The Turing Way_.
 
 **Acknowledgement:** She is acknowledged in the Contributors table with the 💵 (`finance`) emoji.
-Kadie was asked if she would like to be an author on the most recent release of the Turing Way book but declined as she did not personally feel that she had contributed enough to be named as an author.
+Kadie was asked if she would like to be an author on the most recent release of _The Turing Way_ book but declined as she did not personally feel that she had contributed enough to be named as an author.
 
-**4.** *Contributing member from the organisation with sustained engagement*: Patty works in a National Library and her employers have approved her to host their resources as chapters in The Turing Way.
-Patty has developed materials, contributed to the community discussions and reviewed other's pull requests on the GitHub repository.
+**4.** *Contributing member from the organisation with sustained engagement*: Patty works in a National Library and her employers have approved her to host their resources as chapters in _The Turing Way_.
+Patty has developed materials, contributed to the community discussions and reviewed others' pull requests on the GitHub repository.
 
 **Acknowledgement:** Patty will be listed in the Contributors Table with a 🤔 (`idea`), 🖋  (`content`) and 👀 (`review`) emoji.
 
 ### Maintenance
 
-Maintenance work in _The Turing Way_ applies to the multiple aspects, some of which are listed below.
-- conversations in community spaces such as Gitter, GitHub issues, or Twitter.
+Maintenance work in _The Turing Way_ applies to the multiple aspects, some of which are listed below:
+- conversations in community spaces such as Gitter, GitHub issues, or Twitter
 - the technical infrastructure of the GitHub repository, associated GitHub bots, scripts and continuous integration pipeline
 - online hosting platforms of Jupyter book and Netlify
-- translation infrastructure of Transifex.
+- translation infrastructure of Transifex
 
 #### Personas & Pathways:
 
-**1.** *Maintaining community interactions*: Neve has helped two contributors on two individual occasions by responding to a question on the Turing Way Gitter channel and a question on one of the issues in the Turing Way GitHub repository.
+**1.** *Maintaining community interactions*: Neve has helped two contributors on two individual occasions by responding to a question on the Turing Way Gitter channel and a question on one of the issues in _The Turing Way_ GitHub repository.
 
 **Acknowledgement:** He is acknowledged in the Contributors table with the 💬 (`question`) and 🤔 (`idea`) emoji.
 
@@ -205,7 +207,7 @@ She reviews pull requests from others working to make the process of contributin
 
 **Acknowledgement:** She is acknowledged in the Contributors table with 🚇 (`infra`) and 🚧 (`maintenance`) emoji .
 
-**4.** *Maintaining project infrastructure and mentoring other*: Anthony has set up the infrastructure and process for managing translation of The Turing Way into multiple languages.
+**4.** *Maintaining project infrastructure and mentoring other*: Anthony has set up the infrastructure and process for managing translation of _The Turing Way_ into multiple languages.
 They support new translators by answering their questions related to the translation process.
 
 **Acknowledgement:** They are acknowledged with 🤔 (`idea`), 🚇 (`infra`) and 🚧 (`maintenance`) emoji .
@@ -218,18 +220,18 @@ They either volunteer or are recommended by _The Turing Way_ team members for re
 
 #### Personas & Pathways:
 
-**1.** *Highlighting project resources*: Yehuda used one of the Scriberia and The Turing Way illustrations in a recent talk they gave at an open source workshop that was hosted by their company.
-They included links to The Turing Way book, GitHub repository and twitter handle.
+**1.** *Highlighting project resources*: Yehuda used one of the Scriberia and _The Turing Way_ illustrations in a recent talk they gave at an open source workshop that was hosted by their company.
+They included links to _The Turing Way_ book, GitHub repository and Twitter handle.
 Their slides are available under a CC-BY license and are requested to be linked in a monthly newsletter.
 
 **Acknowledgement:** They are acknowledged in the Contributors table with the 🔊 (`Talk`) emoji.
 
-**2.** *Giving a talk on _The Turing Way_*: Noah is a long time contributor to The Turing Way, they answer questions and review pull requests regularly.
-In March 2020, Kirstie - lead developer of The Turing Way - recommended Noah as a suggested speaker to give a talk about the Project Design section of The Turing Way at a conference on open source community management.
+**2.** *Giving a talk on _The Turing Way_*: Noah is a long time contributor to _The Turing Way_, they answer questions and review pull requests regularly.
+In March 2020, Kirstie - lead developer of _The Turing Way_ - recommended Noah as a suggested speaker to give a talk about the Project Design section of _The Turing Way_ at a conference on open source community management.
 She worked with Noah to practice his presentation in advance of the talk.
 Noah's slides are available under a CC-BY license and are linked from a page in the community handbook.
 
-**Acknowledgement:** They are acknowledged in the Contributors table with the 🔊 (`Talk`), 🚧 , 👀 (`review`), 🤔 (`idea`) and 💬 (`question`) emoji and they will be named as an author on the next release of the book. There is a section of the `CONTRIBUTORS` file saying:
+**Acknowledgement:** They are acknowledged in the Contributors table with the 🔊 (`Talk`), 🚧 , 👀 (`review`), 🤔 (`idea`) and 💬 (`question`) emoji and they will be named as an author on the next release of the book. 
 
 ### Training, workshops or community events
 
@@ -273,7 +275,7 @@ Contributors writing about _The Turing Way_ in articles, blogs, or other online 
 
 ### Videos and recordings
 
-**Overview:** We encourage creating video content or animations, record online interactive discussions or link any relevant videos our contributors may have created in the past that can be used as a learning tool and enhance the quality of _The Turing Way_ content.
+We encourage creating video content or animations, record online interactive discussions or link any relevant videos our contributors may have created in the past that can be used as a learning tool and enhance the quality of _The Turing Way_ content.
 
 #### Personas & Pathways:
 
