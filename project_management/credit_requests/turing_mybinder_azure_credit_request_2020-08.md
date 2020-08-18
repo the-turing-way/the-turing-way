@@ -77,6 +77,6 @@ Response:
 > Internally, we can learn skills from an established community on large-scale project management and deploying/maintaining a service that we can leverage to benefit other Turing projects.
 >
 > Since I am a core contributor to Project Binder, I can still support the sustainability of mybinder.org in terms of day-to-day operations of the Google cluster (which is also currently trying to find credits for the next year!).
-> However, I don't think that's a strong a show of support from the Turing as donating computational resources would be.
+> However, I don't think that's as strong a show of support from the Turing as donating computational resources would be.
 >
 > I hope this helps answer your questions.
