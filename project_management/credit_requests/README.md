@@ -1,0 +1,9 @@
+# Credit Requests
+
+This folder contains Azure credit requests made to the Turing's Research Computing Working Group in order to obtain cloud credits to support computational sub-projects of _The Turing Way_.
+Most notably, the Turing-hosted cluster of mybinder.org.
+
+**Contents of folder (with short description):**
+
+- [`turing_binderhub_azure_credit_request_Oct2019.md`](turing_binderhub_azure_credit_request_Oct2019.md)
+  - The first credit request made to setup the Turing's mybinder.org cluster
