@@ -183,11 +183,18 @@
       file: reproducible-research/risk-assess/risk-assess-impact
     - title: Summary of Risk Assessment
       file: reproducible-research/risk-assess/risk-assess-resources
+  - title: Case Studies
+    file: reproducible-research/case-studies
+    sections:
+    - title: A Statistical Methods Manuscript
+      file: reproducible-research/case-studies/statistical-methods-manuscript
 
 # ===== Project Design Guide ========================================
 
 - file: project-design/project-design
   sections:
+  - title: Persona creation
+    file: project-design/persona-creation
   - title: File Naming Convention
     file: project-design/filenaming
 
@@ -222,6 +229,15 @@
       file: collaboration/github/github-maintainers.md
     - title: Checklist and resources
       file: collaboration/github/github-resources
+  - title: Managing a New Community and Team
+    file: collaboration/new-community
+    sections:
+    - title: Guide to Planning a Community
+      file: collaboration/new-community/new-community-guide
+    - title: Addressing Technical Issues
+      file: collaboration/new-community/new-community-techissues
+    - title: Valuing Diversity and Differences
+      file: collaboration/new-community/new-community-differences
   - title: Leadership in Data Science
     file: collaboration/leadership
     sections:

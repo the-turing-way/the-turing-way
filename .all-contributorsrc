@@ -856,7 +856,9 @@
       "contributions": [
         "bug",
         "ideas",
-        "content"
+        "content",
+        "review",
+        "talk"
       ]
     },
     {
@@ -1008,7 +1010,8 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/1053628?v=4",
       "profile": "http://users.aber.ac.uk/cos",
       "contributions": [
-        "ideas"
+        "ideas",
+        "content"
       ]
     },
     {
@@ -1035,7 +1038,8 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/47155465?v=4",
       "profile": "https://github.com/ArielleBL",
       "contributions": [
-        "ideas"
+        "ideas",
+        "review"
       ]
     },
     {
@@ -1625,6 +1629,72 @@
       "contributions": [
         "tutorial",
         "review"
+      ]
+    },
+    {
+      "login": "Aariq",
+      "name": "Eric R Scott",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/25404783?v=4",
+      "profile": "http://www.ericrscott.com",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "foster999",
+      "name": "David Foster",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/31405412?v=4",
+      "profile": "https://github.com/foster999",
+      "contributions": [
+        "review",
+        "bug"
+      ]
+    },
+    {
+      "login": "mloning",
+      "name": "Markus Löning",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/21020482?v=4",
+      "profile": "https://www.linkedin.com/in/mloning/",
+      "contributions": [
+        "review",
+        "content"
+      ]
+    },
+    {
+      "login": "jcolomb",
+      "name": "Julien Colomb",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1876667?v=4",
+      "profile": "https://orcid.org/0000-0002-3127-5520",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "snastase",
+      "name": "Samuel Nastase",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3496566?v=4",
+      "profile": "https://snastase.github.io/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "rgaiacs",
+      "name": "Raniere Silva",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1506457?v=4",
+      "profile": "http://rgaiacs.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "npscience",
+      "name": "Naomi Penfold",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9406530?v=4",
+      "profile": "http://npscience.github.io",
+      "contributions": [
+        "review",
+        "ideas"
       ]
     }
   ],

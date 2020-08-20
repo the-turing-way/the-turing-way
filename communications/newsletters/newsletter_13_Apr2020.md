@@ -1,4 +1,4 @@
-# The Turing Way Newsletter: 15 April 2020
+The Turing Way Newsletter: 15 April 2020
 
 # Collaboration cafe on 15 April, highlights from the Collaboration Workshop and other news from the community
 
