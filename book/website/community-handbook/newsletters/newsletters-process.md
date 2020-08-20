@@ -20,10 +20,10 @@ Such GitHub issues can be published in the current newsletter inviting contribut
 
 There are several ways to start a draft:
 
-1. Create a new branch of _The Turing Way_ [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/) within the appropriate directory (explained in the next subchapter on {ref}`newsletter's style guide <ch-newsletters-style>`
+1. Create a new branch of _The Turing Way_ [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/) within the appropriate directory (explained in the next subchapter on {ref}`newsletter's style guide <ch-newsletters-style>`).
 
 You can work on this GitHub branch locally or online through a pull request (PR).
-If working online, please keep the draft mode on for your PR and add "[WIP]" (work in progress) in the title.
+If working online, please keep the draft mode on for your PR or add "[WIP]" (work in progress) in the title.
 
 2. Create the first draft on a shared HackMD when working with others to collaboratively write your draft before you transfer them on a GitHub branch.
 
@@ -33,18 +33,17 @@ Here is an example of HackMD where Malvika currently creates the first draft: ht
 
 Based on what we currently publish, collect information from the listed resources for the topics described below:
 
-1. **Community meetings**: scan the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon) and [GitHub issues](https://github.com/alan-turing-institute/the-turing-way/issues) for upcoming events such as Collaboration Café, book dash and workshops.
+1. **Community meetings**: review the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon) for upcoming events such as Collaboration Café, book dash and workshops.
 
-2. **News from the community**: scan the official [Twitter account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click), recently [merged pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) for new chapters, last month's issue for newsletter item or ask in the [Slack channel](theturingway.slack.com) if someone would like to share something in the newsletter.
-
+2. **News from the community**: check the official [Twitter account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click), and the Github repository for recently [merged pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) for new chapters and [issues](https://github.com/alan-turing-institute/the-turing-way/issues) for ongoing discussions.
+You can also ask in the [Slack channel](theturingway.slack.com) if someone would like to share something in the newsletter.
 In this part, also highlight any important milestones in the project that were either established or achieved over the last month.
 
 4. **Relevant resources for the community**: check Twitter and online posts for any recent publication from the community members, resources for training or skill-building or any other materials like blog posts or articles published in the network that could be useful for others.
 
 5. **Tips & Tricks for new contributors**: this includes any resource in the project that can make new members learn ways to engage, identify paths to get started as contributors and find relatable contents like impact stories of existing members, contributor's profiles or other community-related aspects.
 
-6. **Acknowledgments and celebrations section**: this is the place to give shout outs to our members who have helped the project or others in some ways, celebrate personal milestones and highlights from the community members.
-
+6. **Acknowledgments and celebrations section**: this is the place to give shout outs to our members who have helped the project or others in some ways, celebrate personal milestones and highlight any relevant announcements from the community members.
 This is also a place to share tweets from the community or mention other online interactions such as posts from recent meetings where someone talked about _The Turing Way_.
 
 The newsletter should focus more on the contributing and new members, and highlight only noteworthy content from _The Turing Way_ core members.
