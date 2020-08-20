@@ -66,3 +66,5 @@ You can use this [checklist](https://www.ukdataservice.ac.uk/manage-data/plan/ch
 
 Briney, Kristin. Data Management for Researchers : Organize, maintain and share your data for research success, Pelagic
 Publishing, 2015.
+
+Hart EM, Barmby P, LeBauer D, Michonneau F, Mount S, Mulrooney P, et al. (2016) Ten Simple Rules for Digital Data Storage. PLoS Comput Biol 12(10): e1005097. https://doi.org/10.1371/journal.pcbi.1005097
