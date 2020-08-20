@@ -1,7 +1,7 @@
 (ch-coworking-weekly)=
 # Weekly Coworking Calls
 
-_The Turing Way_ team has been hosting shorter coworking calls each week. 
+_The Turing Way_ team has been hosting shorter coworking calls each week.
 These calls are similar to the Collaboration Cafes, but only 1-hour long.
 Since May 2020, these calls have been taking place multiple days each week at 11:00 GMT/BST.
 It is not hosted on the days when there is a Collaboration Cafe already scheduled.
@@ -18,7 +18,7 @@ The schedule for these coworking calls is updated weekly [community calendar](ht
 We announce these in our [monthly newsletters](https://tinyletter.com/TuringWay/archive) and send a reminder every Monday on the [Slack channel](https://tinyurl.com/jointuringwayslack).
 
 Though scheduled for 1 hour, you are welcome to join for shorter period as your schedule allows, however, please let the host of the call know so that they know who to expect on the call.
-If you are interested in coworking with one of the team members on a day that is not listed on the schedule, please contact them on Slack or by email so that they can find a common slot to work with you. 
+If you are interested in coworking with one of the team members on a day that is not listed on the schedule, please contact them on Slack or by email so that they can find a common slot to work with you.
 
 ### Resource used for the call
 
@@ -70,17 +70,3 @@ We will take short breaks after each Pomodoro to reflect on what we could get do
 If you join later, you might see people quietly working on their tasks.
 You can track the time left before the next break by opening the [shared clock](https://cuckoo.team/TW-coworking) in your browser.
 If you know in advance that you'd join later, you can let the host of the call know by either contacting them before the call or leaving a note in the shared document.
-
-#### Coworking with your colleagues
-
-If you would like to set up similar coworking calls for your community, you can reuse the format, template, and materials described in this chapter.
-
-Practices described here are what we use in _The Turing Way_, but there are more ways to run such coworking calls. 
-For example, Naomi Penfold shared about her coworking format while reviewing this chapter:
-
-> In the co-working calls I have, it's 1:1 and we often spend 20 minutes at the beginning catching up and taking about our progress since last time.
-If there is something we want to discuss more intensely, we allocate 30 minutes of our call time to that, for example, one of us asking the other how to troubleshoot something. 
-For the time in between, we do a few quiet working sessions (sometimes 25 minutes, sometimes longer).
-This is likely a combination of a co-mentoring call and a co-working pomodoro call, and it works well for me.
-
-You can read more about Naomi's and Stefanie Butland's 1:1 coworking format in this post: [Online Co-working Partnerships are Community of Practice in Action](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/#more-3009).
