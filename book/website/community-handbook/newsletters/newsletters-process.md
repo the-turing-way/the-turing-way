@@ -13,7 +13,7 @@ After all, these newsletters land in someone's personal mailbox and most likely 
 ### Create a GitHub issue to collect items
 
 Create a new GitHub issue where throughout the month you and other community members can suggest news items as a comment.
-For example, in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1037) several members could suggest news items to include in the next newsletter, in this case for June 2020. 
+For example, in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1037), several members could suggest news items to include in the next newsletter, in this case for June 2020. 
 Such GitHub issues can be published in the current newsletter inviting contributions from the readers and community members for the next month.
 
 ### Start a draft
@@ -35,7 +35,7 @@ Based on what we currently publish, collect information from the listed resource
 
 1. **Community meetings**: review the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon) for upcoming events such as Collaboration Café, book dash and workshops.
 
-2. **News from the community**: check the Twitter for updates on official [Twitter account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click, see the Github repository for [issues](https://github.com/alan-turing-institute/the-turing-way/issues) for ongoing discussions, recently [merged PRs](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) and new chapters.
+2. **News from the community**: check Twitter for updates on the [official account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click, see the Github repository for [issues](https://github.com/alan-turing-institute/the-turing-way/issues) for ongoing discussions, recently [merged PRs](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) and new chapters.
 You can also ask in the [Slack channel](theturingway.slack.com) if someone would like to add something to the newsletter.
 In this part, also highlight any important milestones in the project that were either established or achieved over the last month.
 
@@ -65,10 +65,10 @@ Provide links when useful, give credits fairly to the community members who migh
 ### Proofreading your draft
 
 Before sharing your draft you should do a proofread for grammar and typo.
-Online app like [Ginger Grammar Checker](https://www.gingersoftware.com/grammarcheck), [Grammarly](https://app.grammarly.com) free version, [GrammarCheck](https://www.grammarcheck.net/editor/) or [Reverso Speller](https://www.reverso.net/spell-checker/english-spelling-grammar/) can help correct any grammatical and spelling errors.
+An online app like [Ginger Grammar Checker](https://www.gingersoftware.com/grammarcheck), [Grammarly](https://app.grammarly.com) free version, [GrammarCheck](https://www.grammarcheck.net/editor/) or [Reverso Speller](https://www.reverso.net/spell-checker/english-spelling-grammar/) can help correct any grammatical and spelling errors.
 
 You should also double-check to make sure that the links mentioned in the draft are not broken.
-You can use online tools such as [W3C link checker](https://validator.w3.org/checklink) or free version of [Dr. Link Check](https://www.drlinkcheck.com/).
+You can use online tools such as the [W3C link checker](https://validator.w3.org/checklink) or free version of [Dr. Link Check](https://www.drlinkcheck.com/).
 
 If possible, get your draft reviewed by 1-2 members.
 
