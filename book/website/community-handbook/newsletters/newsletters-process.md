@@ -71,7 +71,8 @@ You can use online tools such as [W3C link checker](https://validator.w3.org/che
 
 ### Updating your draft in the online repository
 
-If you have drafted your newsletter in a local branch, add all the images mentioned in the newsletter and create a PR.
+If you have drafted your newsletter in a local branch, please add all the images mentioned in the newsletter in the file path `the-turing-way/communications/newsletters/images` and create a PR.
+More details about using images have been discussed in the next subchapter on {ref}`style guide<ch-newsletters-style>`
 
 If you are working on a PR on GitHub, upload all the images to be linked properly.
 
