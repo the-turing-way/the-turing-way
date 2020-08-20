@@ -5,7 +5,7 @@ Persona development for a project or community is a great way for recognising wh
 Persona creation tools can allow team members to collaborate efficiently with each other, develop a common understanding of their target audience and bring design principles into their work while ultimately creating an empathetic pathway for engagement.
 
 In this chapter, we provide a simple step by step guide that one can use for creating different personas for their communities and projects.
-Those personas will then be useful in enhancing the pathways those personas engage with your project.
+Your project-specific personas will then be useful in enhancing the pathways your members take to engage with your project.
 
 ## Step-by-step guide for building a persona
 
@@ -31,7 +31,8 @@ Reflect on the job, career, education, and family aspect of your persona by answ
 - Which job does your persona hold?
 - What is your persona's family status?
   - Some options: single, parent, married, pet-owner, parent, or carer.
-- Does your persona have any health issues? yes or no.
+- Does your persona have any health issues? 
+    - You don't need to go in detail (though that would add more value to your planning), but start by answering in 'yes' or 'no'.
 - What is your persona's social environment like?
   - Some options: neutral, favorable, supportive, non-supportive, financially challenging, distracting, politically challenging.
 
@@ -40,15 +41,15 @@ Reflect on the job, career, education, and family aspect of your persona by answ
 Reflect on the age range, gender, location, and living situation of your persona by answering the following questions:
 
 - What age group that your persona belongs to?
-  - For example: below 16, 17 - 21, 21 - 30, 31 - 45, 45 - 65, above 65
+  - Some options: below 16, 17 - 21, 21 - 30, 31 - 45, 45 - 65, above 65
 - What is your persona's gender?
-  - Some options: cis woman, trans woman, cis man, trans man, genderqueer, gender fluid or other
+  - Some options: man, woman, non-binary, cisgender, transgender, gender-queer, gender-fluid or other (learn more [here](http://thepbhscloset.weebly.com/a-list-of-genders--sexualities-and-their-definitions.html))
 - Which time zone does your persona live in?
   - Some options: UTC - GMT, EET - GMT+2:00, IST - GMT+5:30, JST - GMT+9:00, NST - GMT+12:00, CST - GMT-6:00, BET - GMT-3:00, CAT - GMT-1:00
 - What is your persona's living situation?
 - If there is any disability or physical barrier that your persona has to deal with when participating?  
 
-For this section, you can continue using the random name generator website [behindthename.com](https://www.behindthename.com/random/) with the option "generate life story".
+*For this section, you can continue using the random name generator website [behindthename.com](https://www.behindthename.com/random/) with the option "generate life story".*
 
 ### Section 3: Needs and Resources
 
@@ -60,7 +61,7 @@ This section defines your persona's needs and decisions they make, which you can
 - Does your persona have the appropriate resources to collaborate or contribute to your project?
   - Some options: hardware, software, appropriate work arrangement, proper documentation
 - How much time (minimum) your persona needs to dedicate to make contributions to your project by completing different tasks?
-  - This may look like a list of tasks with approximate time and skill requirements.
+  - This can result into a list of tasks that your members are invited to do with approximate time and skill requirements for each of them.
 - What else can influence your persona's decisions on a day-to-day basis?  
 
 ### Section 4: Persona Profile (positive trends)
@@ -137,3 +138,6 @@ You can find examples of personas and pathways for how our members may interact 
 We have then collected a list of contributions our personas can make in _The Turing Way_ and how they are acknowledged (see {ref}`Contribution types and pathways <ch-persona-contributions>`).
 
 We welcome you to add your personas in this chapter to provide more examples from different projects.
+
+*You are welcome to contribute to this chapter by testing the process described here to create a persona for your project.
+Your feedback will help us improve this process, and your output can be added here under the example section.*

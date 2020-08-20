@@ -1,3 +1,4 @@
+(rr-ci)=
 # Continuous integration
 
 | Prerequisite | Importance | Notes |

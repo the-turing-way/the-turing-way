@@ -1,3 +1,4 @@
+(rr-licensing-software)=
 # Software licenses
 
 A software license governs the extent of use or redistribution of software, with or without software documentation.

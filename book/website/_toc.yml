@@ -183,6 +183,11 @@
       file: reproducible-research/risk-assess/risk-assess-impact
     - title: Summary of Risk Assessment
       file: reproducible-research/risk-assess/risk-assess-resources
+  - title: Case Studies
+    file: reproducible-research/case-studies
+    sections:
+    - title: A Statistical Methods Manuscript
+      file: reproducible-research/case-studies/statistical-methods-manuscript
 
 # ===== Project Design Guide ========================================
 
@@ -224,6 +229,15 @@
       file: collaboration/github/github-maintainers.md
     - title: Checklist and resources
       file: collaboration/github/github-resources
+  - title: Managing a New Community and Team
+    file: collaboration/new-community
+    sections:
+    - title: Guide to Planning a Community
+      file: collaboration/new-community/new-community-guide
+    - title: Addressing Technical Issues
+      file: collaboration/new-community/new-community-techissues
+    - title: Valuing Diversity and Differences
+      file: collaboration/new-community/new-community-differences
   - title: Leadership in Data Science
     file: collaboration/leadership
     sections:
@@ -276,6 +290,15 @@
       file: community-handbook/templates/coworking-collabcafe-template
     - title: Weekly Coworking Call Template
       file: community-handbook/templates/coworking-weekly-template
+  - title: Monthly Newsletters
+    file: community-handbook/newsletters
+    sections:
+    - title: A Process of Creating a newsletter
+      file: community-handbook/newsletters/newsletters-process
+    - title: Newsletter's Style Guide
+      file: community-handbook/newsletters/newsletters-style
+    - title: The Turing Way Newsletter Template
+      file: community-handbook/newsletters/newsletters-template
 
 # ===== Afterward Section ========================================
 
