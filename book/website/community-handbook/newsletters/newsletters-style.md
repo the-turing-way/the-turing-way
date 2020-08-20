@@ -14,9 +14,9 @@ In this document, we have listed some guidelines to maintain consistency across 
     - use it consistently in the entire document
     - To reflect a range, use "from DD to DD Month YYYY" format.
     - Even if the sentences have reference to a day in "yesterday", "today" or "tomorrow", provide the exact date inside parenthesis so that it still makes sense if someone reads a newsletter in the future.
-- **Time**: Use time in [Greenwich Mean Time](https://greenwichmeantime.com/what-is-gmt/) (GMT) or [British Summer Time](https://greenwichmeantime.com/uk/time/british-summer-time/) (BST), followed by a link from [arewemeetingyet.com](https://arewemeetingyet.com/#form) to check time in relative time zones
-- **Links**: Use the Markdown formatting for link like this, `[text that needs to be linked](full http link)`
-    - Provide links wherever useful, for example [HackMD for Collaboration Café](https://hackmd.io/@KirstieJane/CollabCafe), [GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues), [registration pages](https://www.eventbrite.co.uk/) and [see details](https://github.com/alan-turing-institute/the-turing-way).
+- **Time**: Use time in [Greenwich Mean Time](https://greenwichmeantime.com/what-is-gmt/) (GMT) or [British Summer Time](https://greenwichmeantime.com/uk/time/british-summer-time/) (BST), followed by a link from [arewemeetingyet.com](https://arewemeetingyet.com/#form) to check the time in relative time zones
+- **Links**: Use the Markdown formatting for link like this, `[text that needs to be linked](full HTTP link)`
+    - Provide links wherever useful, for example, [HackMD for Collaboration Café](https://hackmd.io/@KirstieJane/CollabCafe), [GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues), [registration pages](https://www.eventbrite.co.uk/) and [see details](https://github.com/alan-turing-institute/the-turing-way).
     - Create link for email ids using this Markdown syntax - ``[real-email-id](mailto:real-email-id)``
 - **Quoting others**: Use smaller than (>) symbol followed by a space before the quoted sentence. For example:
     `> This is my legendary quote.` will appear as:
@@ -38,7 +38,7 @@ In this document, we have listed some guidelines to maintain consistency across 
 - **Use of images**: Only use relevant images linked to the news item in the newsletter.
     - Make sure that the images are available under CC-BY license or approved to be reused by the owners.
     - Avoid using memes, images with political or sexual innuendo, or anything that is not directly related to the community.
-    - When drafting the newsletter in a HackMD, drag-n-drop an image into the editor or copy-paste an image to automatically upload the image to [imgur](https://en.wikipedia.org/wiki/Imgur).
+    - When drafting the newsletter in a HackMD, drag-n-drop an image into the editor or copy-paste an image to automatically upload the image to [Imgur](https://en.wikipedia.org/wiki/Imgur).
     - When drafting the newsletter on the GitHub, upload the images in the folder "the-turing-way/communications/newsletters/".
     - File naming convention for the images is "short-name-monthYYYY.png", where the short-name should be replaced with the identifiable short name of the image, the month should be replaced by the short name of the month and YYYY should be replaced by the year.
     - File extension can be '.jpg', '.png' or other with compatible image file type.
@@ -47,4 +47,4 @@ In this document, we have listed some guidelines to maintain consistency across 
     - Below the image, write a short descriptive title for the image followed by an empty line.
     Link title to the source such as a tweet or related event.
     - When using multiple images as panels in one collective image, number each image clearly (this can be done in any photo or text editor) and provide a numbered title for each image.
-    See example [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_14_May2020.md#tweets-from-the-community).
+    See an example [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_14_May2020.md#tweets-from-the-community).
