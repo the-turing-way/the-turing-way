@@ -117,7 +117,7 @@ Very thoughtfully, they also sent these as care package to our core contributors
 ***See additional pictures in the photo gallery below this post.***
 
 On 21 February, the entire book dash day was distributed into 4 long sessions. 
-We had organised 3 rooms for the event: first one for open discussion, second one was semi isolated for quiet working space for groups who did not need active discussions, and the third one was a quiet room for people to have breaks for decompression.
+We had organised 3 rooms for the event: the first one for open discussion, the second a semi-isolated room for quiet working space for groups who did not need active discussions, and the third a quiet room for people to have breaks for decompression.
 Throughout the day, everyone was encouraged to ask for help, move around or change room as needed, and offer feedback on other people's work.
 
 ![](./figures/book-dash-feb20-louise.jpg)
@@ -137,10 +137,10 @@ Facilitated by Sarah Gibson, we closed the working hours by celebrating everyone
 ### Credit for Reproducibility
 * Esther Plomp and Francis Madden added [a section on ORCID](https://hackmd.io/hPnJcWggSgyB7U2lXOhd4w) to the chapter - [Credit for Reproducibility](https://the-turing-way.netlify.com/credit/credit.html) ([PR #902](https://github.com/alan-turing-institute/the-turing-way/pull/902)).
   Frances Madden worked on adding software citation in this chapter as well ([PR #902](https://github.com/alan-turing-institute/the-turing-way/pull/902)).
-* Esther reviewed the chapter on [Research Data Management](https://the-turing-way.netlify.com/rdm/rdm.html) and added some examples and on data citation ([PR #903](https://github.com/alan-turing-institute/the-turing-way/pull/903).
+* Esther reviewed the chapter on [Research Data Management](https://the-turing-way.netlify.com/rdm/rdm.html) and added some examples and on data citation ([PR #903](https://github.com/alan-turing-institute/the-turing-way/pull/903)).
 
 ### Data management and publication
-* Heidi Seibold and Barbara Vreede worked on a new chapter on the topic Research Compendia, an approch to provides data, code, and documentation for reproducing a scientific workflow ([issue 834](https://github.com/alan-turing-institute/the-turing-way/issues/834), [PR #840](https://github.com/alan-turing-institute/the-turing-way/pull/840)).
+* Heidi Seibold and Barbara Vreede worked on a new chapter on the topic Research Compendia, an approach to provide data, code, and documentation for reproducing a scientific workflow ([issue 834](https://github.com/alan-turing-institute/the-turing-way/issues/834), [PR #840](https://github.com/alan-turing-institute/the-turing-way/pull/840)).
 * Jade Pickering reviewed some PRs opened by the participants, including the Open Research chapter [issue #888](https://github.com/alan-turing-institute/the-turing-way/issues/888)).
 
 ### Tools and methods for reproducible research
@@ -149,13 +149,13 @@ Facilitated by Sarah Gibson, we closed the working hours by celebrating everyone
 * Louise Bowler worked on a case study on reproducible environment ([PR #864](https://github.com/alan-turing-institute/the-turing-way/pull/864)) that was reviewed by Nathan Begbie! 
 
 ### Bots and resources for positive learning and contributing experiences
-* Louise also started to work on at all-contributors bot to make sure all _The Turing Way_ community members are acknowledged appropriately.
+* Louise also started to work on an all-contributors bot to make sure all _The Turing Way_ community members are acknowledged appropriately.
 * Nathan Begbie started to work on a "celebrate-o-bot" for first-time contributors. He also reviewed the [PR #864](https://github.com/alan-turing-institute/the-turing-way/pull/864) and [PR #857](https://github.com/alan-turing-institute/the-turing-way/pull/857).
-* Heidi also opened an issue to add content of file-naming for new learners ([issue #886](https://github.com/alan-turing-institute/the-turing-way/issues/886), [#PR 904](https://github.com/alan-turing-institute/the-turing-way/pull/904)) few issues for first time contributors.
+* Heidi also opened an issue to add content on file-naming for new learners ([issue #886](https://github.com/alan-turing-institute/the-turing-way/issues/886), [#PR 904](https://github.com/alan-turing-institute/the-turing-way/pull/904)) few issues for first time contributors.
 
 ### Ethical aspects of data science
 * Christina Hitrova, Nicolas Alessandroni, Kesson Magid, and Arielle Bennett-Lovell collaborated to write different sections in the new ethics chapter ([PR # 913](https://github.com/alan-turing-institute/the-turing-way/pull/913)). 
-  * Christina worked on Ethics chapter - ethics and law, core traditions of ethics, reusing data and webscraping.
+  * Christina worked on the Ethics chapter - ethics and law, core traditions of ethics, reusing data and webscraping.
   * Kesson wrote the section on informed consent and contributed to the ethics chapter.
   * Nicolas provided a basic definition, gave a philosophical background and contributed a case study to the chapter.
   * Arielle wrote a first draft on GDPR ([issue #858](https://github.com/alan-turing-institute/the-turing-way/issues/858)).
@@ -168,11 +168,11 @@ Facilitated by Sarah Gibson, we closed the working hours by celebrating everyone
 ### Project planning and designing
 * Catherine Dixey started to work on project management & funding ([issue #865](https://github.com/alan-turing-institute/the-turing-way/issues/865)).
 
-### The turing Way translation efforts
-* Tony Yang and Anna Hadjitofi Worked on translation documentation ([issue #853](https://github.com/alan-turing-institute/the-turing-way/issues/853)) which is added as a [translation guide](https://github.com/alan-turing-institute/the-turing-way/blob/translation/translation_guide.md) to the repository.
+### The Turing Way translation efforts
+* Tony Yang and Anna Hadjitofi Worked on translation documentation ([issue #853](https://github.com/alan-turing-institute/the-turing-way/issues/853)) which has now been added as a [translation guide](https://github.com/alan-turing-institute/the-turing-way/blob/translation/translation_guide.md) to the repository.
 
 ### Upgrading Jupyter Notebook
-* Martina Vilas worked on fixing the jupyter-book upgrade which is now integrated in the project ([PR #844](https://github.com/alan-turing-institute/the-turing-way/pull/844)).
+* Martina Vilas worked on fixing the jupyter-book upgrade, which is now integrated into the project ([PR #844](https://github.com/alan-turing-institute/the-turing-way/pull/844)).
 
 ## Remote participation from Amsterdam 
 
@@ -187,7 +187,7 @@ During the book dash, they looked into the overlaps and transferred the relevant
 This was a mutually beneficial experience and a wonderful addition to the originally planned event that allowed us to explore remote working options beyond the current option of online Collaboration Cafes. 
 
 * Stefan Verhoeven and Carlos Martinez added a document on choosing license ([PR #880](https://github.com/alan-turing-institute/the-turing-way/pull/880)).
-* Bouwe Andela worked on the code quality chapter ([PR #898](https://github.com/alan-turing-institute/the-turing-way/pull/898)). He also contributed to contributing guideline by adding extra steps with installation instructions for viewing the local build of the book ([PR #881](https://github.com/alan-turing-institute/the-turing-way/pull/881)).
+* Bouwe Andela worked on the code quality chapter ([PR #898](https://github.com/alan-turing-institute/the-turing-way/pull/898)). He also contributed to our contribution guidelines by adding extra steps with installation instructions for viewing the local build of the book ([PR #881](https://github.com/alan-turing-institute/the-turing-way/pull/881)).
 * Faruk Diblen and Pablo Rodríguez-Sánchez wrote a chapter on Software Checklist ([PR #910](https://github.com/alan-turing-institute/the-turing-way/pull/910)).
 
 ## Turing Way Logo and other artworks from Scriberia
@@ -256,11 +256,12 @@ The community provided some helpful suggestions on how to better manage collabor
 
 ## What's next?
 
-Our global community of contributors like these book dash attendees have been helping us develop of a truly community-led guidebook by including their personal perspectives and voice into the project.
+Our global community of contributors like these book dash attendees have been helping us develop a truly community-led guidebook by including their personal perspectives and voice into the project.
 Without a doubt this event was successful at bringing together a diverse set of participants not only from across different research topics but also different backgrounds and interests. 
 Each of them were able bring their personal strengths and skills into this event and ultimately to the project. 
 
-One of the deltas was that our participants would have liked to know how they can be kept involved after the book dash is over. We have shared a few tips with them already, and below we are listing some ways our previous and new contributors can stay connected and keep contributing to the project.
+One of the deltas was that our participants would have liked to know how they can be kept involved after the book dash is over.
+We have shared a few tips with them already, and below we are listing some ways our previous and new contributors can stay connected and keep contributing to the project.
 
 ### Join the translation efforts
 
@@ -288,11 +289,11 @@ The next calls are on [4 March 2020 at 15:00 GMT](https://arewemeetingyet.com/Lo
 If you want to start to get to know the project, or want to return after a long break, you can begin with our [good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). 
 If you have a new idea that you would like to add to the project as a new section in an existing chapter, or as a whole new chapter, you can start by creating a [new issue](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose). 
 We also invite you to contribute in any capacity that's most suitable for your interests and availability. 
-Please help us review one of the several open [Pull-requests](https://github.com/alan-turing-institute/the-turing-way/pulls), join discussions on [these issues](https://github.com/alan-turing-institute/the-turing-way/issues) or get help in exploring resources that currently exists in [the book](https://the-turing-way.netlify.com/).
+Please help us review one of the several open [Pull Requests](https://github.com/alan-turing-institute/the-turing-way/pulls), join discussions on [these issues](https://github.com/alan-turing-institute/the-turing-way/issues) or get help in exploring resources that currently exists in [the book](https://the-turing-way.netlify.com/).
 
 ### Host a Collaboration Cafe or a book dash event
 
-If the current schedule of online Collaboration Cafe is not suitable for your time zone, you are welcome to host a separate collaboration cafe for your community/time zone. 
+If the current schedule of online Collaboration Cafes is not suitable for your time zone, you are welcome to host a separate collaboration cafe for your community/time zone. 
 Please open a new issue (see [this example](https://github.com/alan-turing-institute/the-turing-way/issues/684)) or reach out to _The Turing Way_ team members for details. 
 We are also currently developing a guide for hosting these calls ([issue #925](https://github.com/alan-turing-institute/the-turing-way/issues/925)).
 
@@ -306,7 +307,7 @@ We will be happy to explore interests of researchers in the institutes near you 
 If you are attending an Open Research conference, and would like to represent our community, please get in touch with _The Turing Way_ team. 
 They will be happy to help you connect your work with the project, assist you in drafting an abstract for the event and help you prepare to deliver a short workshop or presentation.
 
-There is one upcoming opportunity of attending [NeuroDoWo - the Neurobiology Doctoral Students Workshop](https://neurodowo.nwg-info.de/) taking place in Cologne, Germany from 19 to 21 August 2020.
+There is one upcoming opportunity to attend [NeuroDoWo - the Neurobiology Doctoral Students Workshop](https://neurodowo.nwg-info.de/) taking place in Cologne, Germany from 19 to 21 August 2020.
 Any community member who has contributed to the project (preferable living in Germany) can lead a short workshop on the relevance, challenges and opportunities of open and reproducible research.
 The interested member will receive some 1:1 coaching with Kirstie, practice their presentation skills (reusing slides or making their own), travel to Cologne, and meet and influence the next generation of world leading researchers. 
 There is funding available to support travel and accommodation at the event and you do not need to work in the field of neuroscience to give this talk. 
