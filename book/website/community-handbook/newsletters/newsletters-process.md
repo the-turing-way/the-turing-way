@@ -34,7 +34,7 @@ Based on what we currently publish, collect information from the listed resource
 
 1. **Community meetings**: scan the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon) and [GitHub issues](https://github.com/alan-turing-institute/the-turing-way/issues) for upcoming events such as Collaboration Café, book dash and workshops.
 
-2. **News from the community**: scan the official [Twitter account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click), recently [merged pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) for new chapters, last month's issue for newsletter item or ask in the [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) if someone would like to share something in the newsletter.
+2. **News from the community**: scan the official [Twitter account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click), recently [merged pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) for new chapters, last month's issue for newsletter item or ask in the [Slack channel](theturingway.slack.com) if someone would like to share something in the newsletter.
 
 In this part, also highlight any important milestones in the project that were either established or achieved over the last month.
 
