@@ -4,8 +4,8 @@ You can read more about the book dash in our [community handbook](https://the-tu
 
 ## Book Dash Events in 2020
 
-* Reports of the [Februray 2020](book-dash-feb20-reprot.md) book dash events summarising the participants, contributions during the event and feedback.
-* Presentation with the introduction to the project and book dash used at this event is available on Zenodo: [https://zenodo.org/record/3676553](https://zenodo.org/record/3676553). 
+* Reports of the [Februray 2020](book-dash-feb20-report.md) book dash events summarising the participants, contributions during the event and feedback.
+* Presentation with the introduction to the project and book dash used at this event is available on Zenodo: [https://zenodo.org/record/3676553](https://zenodo.org/record/3676553).
 Cite as:
 > Malvika Sharan. (2020, February). The Turing Way Book Dash (Version 1). The Turing Way. Zenodo. http://doi.org/10.5281/zenodo.3676553
 
@@ -15,7 +15,7 @@ In the [`organisers_files-2020`](organisers_files-2020) folder you can find the 
   * [Pre-dash calls](organisers_files-2020/pre-dash-call-template.md)
   * [Book dash notes](organisers_files-2020/hackmd-template.md)
   * [Pluses and deltas](organisers_files-2020/pluses-delta-template.md)
-  
+
 * Notes from the [pre-dash drop in calls](organisers_files-2020/pre-dash-call-notes.md)
 * Notes from the [main book dash event](organisers_files-2020/main-hackmd-notes.md)
 * Feedback given by the participants: [Pluses and Deltas](organisers_files-2020/pluses-delta-feedback.md)

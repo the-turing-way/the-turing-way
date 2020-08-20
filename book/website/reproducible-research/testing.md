@@ -5,25 +5,17 @@
 | -------------|------------|
 | [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary |
 
-## Table of contents
-
-1. [Summary](#Summary)
-2. [How this will help you/ why this is useful](#How_this_will_help_you_why_this_is_useful)
-3. [The advantages of testing for research](#The_advantages_of_testing_for_research)
-
-<a name="Summary"></a>
 ## Summary
 
 Researcher-written code now forms a part of a huge portion of research, and if there are mistakes in the code the results may be partly or entirely unreliable. Testing code thoroughly and frequently is vital to ensure reliable, reproducible research. This chapter will cover general guidance for writing tests, and describes a number of different kinds of testing, their uses, and how to go about implementing them.
 
-<a name="How_this_will_help_you_why_this_is_useful"></a>
 ## How this will help you/ why this is useful
 
 Here's a couple of examples of why should write tests:
 
-![testing_motivation_1](../../figures/testing_motivation_1.png)
+![testing_motivation_1](../figures/testing_motivation_1.png)
 
-![testing_motivation_2](../../figures/testing_motivation_2.png)
+![testing_motivation_2](../figures/testing_motivation_2.png)
 
 It is very, very easy to make mistakes when coding. A single misplaced character can cause a program's output to be entirely wrong. One of the examples above was caused by a plus sign which should have been a minus. Another was caused by one piece of code working in meters while a piece of code written by another researcher worked in feet. *Everyone* makes mistakes, and in research the results can be catastrophic. Careers can be damaged/ended, vast sums of research funds can be wasted, and valuable time may be lost to exploring incorrect avenues. This is why tests are vital.
 
@@ -35,7 +27,6 @@ Testing also affords researchers much more peace of mind when working on/improvi
 
 Another benefit of writing tests is that it typically forces a researcher to write cleaner, more modular code as such code is far easier to write tests for, leading to an improvement in code quality. [Good quality code](../code_quality/code_quality) is far easier (and altogether more pleasant) to work with than tangled rat's nests of code I'm sure we've all come across (and, let's be honest, written). This point is expanded upon in the section on [unit tests](#Unit_tests).
 
-<a name="The_advantages_of_testing_for_research"></a>
 ## The advantages of testing for research
 
 As well as advantaging individual researchers testing also benefits research as a whole. It makes research more reproducible by answering the question "how do we even know this code works". If tests are never saved, just done and deleted the proof cannot be reproduced easily.
