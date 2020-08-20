@@ -282,7 +282,6 @@ At these calls you can work on your contributions to project.
 
 You can sign up on this HackMD to attend the [upcoming calls](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md): https://hackmd.io/@KirstieJane/CollabCafe. 
 If you would like to host these calls at other times, please get in touch with the team members. 
-The next calls are on [4 March 2020 at 15:00 GMT](https://arewemeetingyet.com/London/2019-03-04/15:00/TuringWay-CollaborationCafe) and [19 March 2020 at 19:00 GMT](https://arewemeetingyet.com/London/2019-03-19/19:00/TuringWay-CollaborationCafe).
 
 ### Contribute new topics or review open pull requests
 
@@ -400,4 +399,3 @@ Please feel free to reach out to the team members (theturingway@gmail.com) or di
 
 ![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:eb712e05-4e8c-4346-bf02-f83bd2c018f8:LegalRestrictions.jpg/full/750,/0/default.jpg)
 *Legal restrictions around sharing data*
-
