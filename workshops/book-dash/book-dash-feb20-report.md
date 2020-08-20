@@ -307,7 +307,6 @@ We will be happy to explore interests of researchers in the institutes near you 
 If you are attending an Open Research conference, and would like to represent our community, please get in touch with _The Turing Way_ team. 
 They will be happy to help you connect your work with the project, assist you in drafting an abstract for the event and help you prepare to deliver a short workshop or presentation.
 
-There is one upcoming opportunity to attend [NeuroDoWo - the Neurobiology Doctoral Students Workshop](https://neurodowo.nwg-info.de/) taking place in Cologne, Germany from 19 to 21 August 2020.
 Any community member who has contributed to the project (preferable living in Germany) can lead a short workshop on the relevance, challenges and opportunities of open and reproducible research.
 The interested member will receive some 1:1 coaching with Kirstie, practice their presentation skills (reusing slides or making their own), travel to Cologne, and meet and influence the next generation of world leading researchers. 
 There is funding available to support travel and accommodation at the event and you do not need to work in the field of neuroscience to give this talk. 
@@ -401,5 +400,4 @@ Please feel free to reach out to the team members (theturingway@gmail.com) or di
 
 ![](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:eb712e05-4e8c-4346-bf02-f83bd2c018f8:LegalRestrictions.jpg/full/750,/0/default.jpg)
 *Legal restrictions around sharing data*
-
 
