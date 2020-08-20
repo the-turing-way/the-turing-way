@@ -13,7 +13,8 @@ After all, these newsletters land in someone's personal mailbox and most likely 
 ### Create a GitHub issue to collect items
 
 Create a new GitHub issue where throughout the month you and other community members can suggest news items as a comment.
-Link to the issue for next month can be published in your most recent newsletter.
+For example, in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1037) several members could suggest news items to include in the next newsletter, in this case for June 2020. 
+Such GitHub issues can be published in the current newsletter inviting contributions from the readers and community members for the next month.
 
 ### Start a draft
 
