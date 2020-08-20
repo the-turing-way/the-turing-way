@@ -1,3 +1,4 @@
+(cm-os-comms-channels)=
 # Communication Channels
 
 Communication within a community impacts the contributor experience, influences an individual's sense of belonging, and provides a historical record of project decisions.

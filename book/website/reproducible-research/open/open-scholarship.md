@@ -1,3 +1,4 @@
+(rr-open-scholarship)=
 ## Open scholarship
 
 Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship.

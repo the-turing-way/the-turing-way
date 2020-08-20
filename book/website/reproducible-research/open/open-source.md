@@ -1,3 +1,4 @@
+(rr-open-source)=
 ## Open source software
 
 ### What is open source software?
@@ -52,15 +53,26 @@ Open source provides an endless, ever-changing set of Rubix cubes for you to sol
 
 ### How open source software benefits research
 
-Open source software projects primarily benefit research by allowing researchers to take advantage of each others' work. This enables researchers to apply their efforts to high-value work.
-It is sometimes said that "all the easy problems have already been solved".
-Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few.
-While developers could spend their time reinventing wheels that the open source community have already perfected, it is highly preferable to use the world's best wheel, especially when that wheel comes at no cost to you.
-This frees researchers up to work on yet-unsolved challenges.
-This reduces duplication of effort and allows researchers to focus on the work they're actually interested in.
+There are a number of ways in which open-source software benefits research: 
 
-Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups.
+#### Re-usable
+
+Open source software projects allow researchers to take advantage of each others’ work. 
+This enables researchers to apply their efforts to high-value work. 
+It is sometimes said that “all the easy problems have already been solved”. 
+Blogging, content management, and operating systems are all problems with established (and mainstream) open source solutions, to name a few. 
+While developers could spend their time reinventing wheels that the open source community has already perfected, it is highly preferable to use the world’s best wheel, especially when that wheel comes at no cost to you. 
+This reduces duplication of effort and allows researchers to focus on yet-unsolved challenges.
+
+#### Checkable
+
+Open-source projects allow the wider research community to read and test each others' code. 
+This way, bugs can be found more quickly and results can be validated by other researchers. 
+
+#### Collaborative
+Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups. 
 Examples include [Linux](https://www.linux.org/) operating systems, Python packages such as [scipy](https://www.scipy.org/) and [numpy](http://www.numpy.org/), and the machine learning library [TensorFlow](https://www.tensorflow.org/).
+
 
 ### How to run your own open source software project
 
