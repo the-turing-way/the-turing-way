@@ -35,8 +35,8 @@ Based on what we currently publish, collect information from the listed resource
 
 1. **Community meetings**: review the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon) for upcoming events such as Collaboration Café, book dash and workshops.
 
-2. **News from the community**: check the official [Twitter account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click), and the Github repository for recently [merged pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) for new chapters and [issues](https://github.com/alan-turing-institute/the-turing-way/issues) for ongoing discussions.
-You can also ask in the [Slack channel](theturingway.slack.com) if someone would like to share something in the newsletter.
+2. **News from the community**: check the Twitter for updates on official [Twitter account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click, see the Github repository for [issues](https://github.com/alan-turing-institute/the-turing-way/issues) for ongoing discussions, recently [merged PRs](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) and new chapters.
+You can also ask in the [Slack channel](theturingway.slack.com) if someone would like to add something to the newsletter.
 In this part, also highlight any important milestones in the project that were either established or achieved over the last month.
 
 4. **Relevant resources for the community**: check Twitter and online posts for any recent publication from the community members, resources for training or skill-building or any other materials like blog posts or articles published in the network that could be useful for others.
@@ -50,31 +50,34 @@ The newsletter should focus more on the contributing and new members, and highli
 
 ### Collect images associated with the news item**
 
-Following the recommendations on {ref}`style guide for community<ch-style-guide>` and {ref}`style guide for newsletters<ch-newsletters-style>` for using images, collect a few (zero to maximum 2 per section) images.
+Following the recommendations on {ref}`style guide for community<ch-style-guide>` and {ref}`style guide for newsletters<ch-newsletters-style>` for using images, collect a few images (maximum 2 per section).
 Make sure that these images are available under a free license (like CC-BY), collected with the link of their sources, and named clearly as suggested in the style guide.
 
-For the twitter mentions, there is no set number limit but recommended to use maximum 6 tweets, edited together in one image (explained in the newsletter's style guide).
+For the twitter mentions, there is no fixed number of screenshots, but 4-6 tweets look less crowded in the newsletter.
+They can be edited together in one image (explained in the newsletter's style guide).
 
 ### Write about each news item
 
-Based on the bullet points collected for each news item, create 1-2 small paragraphs using the recommendations in the style guide for the language and format described in the next subchapter.
+Based on the bullet points collected for each news item, create 1-2 small paragraphs using the recommendations for the language and format described in the next subchapter.
 
 Provide links when useful, give credits fairly to the community members who might be associated with the news item and end the paragraph with a sentence and link to more information.
 
 ### Proofreading your draft
 
-Before sharing your draft to get it reviewed, you should do a proofread for grammar and typo.
-Online an app like [Ginger Grammar Checker](https://www.gingersoftware.com/grammarcheck), [Grammarly](https://app.grammarly.com) free version, [GrammarCheck](https://www.grammarcheck.net/editor/) or [Reverso Speller](https://www.reverso.net/spell-checker/english-spelling-grammar/) can help creect any grammatical and spelling errors.
+Before sharing your draft you should do a proofread for grammar and typo.
+Online app like [Ginger Grammar Checker](https://www.gingersoftware.com/grammarcheck), [Grammarly](https://app.grammarly.com) free version, [GrammarCheck](https://www.grammarcheck.net/editor/) or [Reverso Speller](https://www.reverso.net/spell-checker/english-spelling-grammar/) can help correct any grammatical and spelling errors.
 
 You should also double-check to make sure that the links mentioned in the draft are not broken.
 You can use online tools such as [W3C link checker](https://validator.w3.org/checklink) or free version of [Dr. Link Check](https://www.drlinkcheck.com/).
 
+If possible, get your draft reviewed by 1-2 members.
+
 ### Updating your draft in the online repository
 
-If you have drafted your newsletter in a local branch, please add all the images mentioned in the newsletter in the file path `the-turing-way/communications/newsletters/images` and create a PR.
-More details about using images have been discussed in the next subchapter on {ref}`style guide<ch-newsletters-style>`
+If you have drafted your newsletter in a local branch, before creating a PR, please add all the images mentioned in the newsletter to the right file location: `the-turing-way/communications/newsletters/images`.
+More details about using images have been discussed in the next subchapter, {ref}`style guide<ch-newsletters-style>`
 
-If you are working on a PR on GitHub, upload all the images to be linked properly.
+If you are working on a PR on GitHub, upload all the images and check if they are linked properly.
 
 If you have created your newsletter draft in a HackMD, then copy-paste the content to create/update your GitHub PR and upload all the linked images.
 
@@ -84,9 +87,9 @@ When ready, mark your PR as "Ready for Review" and tag a few contributing member
 
 The reviewers for the newsletter can review the text for language, relevance, typos, accuracy (fact-check), appropriateness of the use of images and the overall tone.
 
-Reviewers can provide constructive feedback on the newsletter draft, add any missing item that they would like to highlight, suggest appropriate changes and approve the PR when happy for the draft to be published.
+Reviewers can provide constructive feedback on the newsletter draft, add any missing item that they would like to highlight, suggest appropriate changes and approve the PR when ready for the draft to be published.
 
-After the review process, each reviewer's name can be added under the special mentions section by the author.
+After the review process, each reviewer's name can be added under the special mentions section by the author to acknowledge their work.
 
 ### Publication process
 
@@ -110,5 +113,5 @@ Here are the steps for publishing the newsletter draft online and send by email 
 
 - Update the index table in the [README.md file](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/README.md) with the details of the newly published newsletter.
 - Tweet about it from [@turingway](https://twitter.com/turingway).
-- Send a notification on [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
+- Send a notification on [Gitter](https://gitter.im/alan-turing-institute/the-turing-way) and [Slack](theturingway.slack.com) channels.
 - Do a celebratory dance! (This is mandatory! 💃)
