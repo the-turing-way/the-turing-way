@@ -274,7 +274,16 @@
       file: community-handbook/style/style-crossref
     - title: Using figures
       file: community-handbook/style/style-figures
-  - title: Community Coworking Calls
+  - title: Monthly Newsletters
+    file: community-handbook/newsletters
+    sections:
+    - title: A Process of Creating a newsletter
+      file: community-handbook/newsletters/newsletters-process
+    - title: Newsletter's Style Guide
+      file: community-handbook/newsletters/newsletters-style
+    - title: The Turing Way Newsletter Template
+      file: community-handbook/newsletters/newsletters-template
+- title: Community Coworking Calls
     file: community-handbook/coworking
     sections:
     - title: Background, Motivations, and Techniques
@@ -286,19 +295,10 @@
   - title: Template Collection
     file: community-handbook/community-templates
     sections:
-    - title: Online Collaboration Cafe Templates
+    - title: Coworking: Online Collaboration Cafe Templates
       file: community-handbook/templates/coworking-collabcafe-template
-    - title: Weekly Coworking Call Template
+    - title: Coworking: Weekly Coworking Call Template
       file: community-handbook/templates/coworking-weekly-template
-  - title: Monthly Newsletters
-    file: community-handbook/newsletters
-    sections:
-    - title: A Process of Creating a newsletter
-      file: community-handbook/newsletters/newsletters-process
-    - title: Newsletter's Style Guide
-      file: community-handbook/newsletters/newsletters-style
-    - title: The Turing Way Newsletter Template
-      file: community-handbook/newsletters/newsletters-template
 
 # ===== Afterward Section ========================================
 
