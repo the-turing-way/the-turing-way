@@ -283,7 +283,7 @@
       file: community-handbook/newsletters/newsletters-style
     - title: The Turing Way Newsletter Template
       file: community-handbook/newsletters/newsletters-template
-- title: Community Coworking Calls
+  - title: Community Coworking Calls
     file: community-handbook/coworking
     sections:
     - title: Background, Motivations, and Techniques
