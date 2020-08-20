@@ -42,7 +42,8 @@ In this document, we have listed some guidelines to maintain consistency across 
     - When drafting the newsletter on the GitHub, upload the images in the folder "the-turing-way/communications/newsletters/".
     - File naming convention for the images is "short-name-monthYYYY.png", where the short-name should be replaced with the identifiable short name of the image, the month should be replaced by the short name of the month and YYYY should be replaced by the year.
     - File extension can be '.jpg', '.png' or other with compatible image file type.
-    - Use Markdown syntax to link them in the newsletter. Example syntax, `![Alt: Description of the image - this is not the title but actual explanation of the image](image/path)`
+    - Use Markdown syntax to link the images in the newsletter: `![](image/path)`. 
+    - As suggested in [_The Turing Way_ style guide](https://the-turing-way.netlify.app/community-handbook/style/style-figures.html), create an alt text for the image: `![Alt: Description of the image - this is not the title but actual explanation of the image](image/path)`
     - Below the image, write a short descriptive title for the image followed by an empty line.
     Link title to the source such as a tweet or related event.
     - When using multiple images as panels in one collective image, number each image clearly (this can be done in any photo or text editor) and provide a numbered title for each image.
