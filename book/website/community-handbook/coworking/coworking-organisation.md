@@ -6,9 +6,9 @@ If you would like to set up coworking calls for your community, you can repurpos
 Practices described here are what we use in _The Turing Way_, but there are more ways to run such coworking calls.
 Below, I describe different aspects that you should take into consideration when planning or designing your coworking calls.
 
-## Choose the format the works for you
+## Designing a format the works for you
 
-Here are a few organisation and logistics related questions that you should address for yourself for identifying what will be the best format for your coworking calls:
+To identify what could be the best format for your coworking calls, you need to think about the following aspects:
 
 **Purpose of your coworking calls**
 
@@ -21,12 +21,12 @@ A few other scenarios could be:
   - If you are working on multiple projects and struggle to focus on one task at a time, coworking can help you put aside a few hours of your time to work with your colleagues who you share the project with.
   - If there is a task you are struggling to complete, you can invite support from your trusted colleagues through coworking calls.
 
-  **Target audience**
+**Target audience**
 
-  If you already know the purpose of your coworking calls, you will be able to identify who your target audience is.
+If you already know the purpose of your coworking calls, you will be able to identify who your target audience is.
 
-  For example, if you host your coworking calls for an open source project such as _The Turing Way_, you can expect your current members, past contributors or even new members to the project to participate.
-  If you are part of a small project, you would expect the same familiar faces in all your coworking calls.
+For example, if you host your coworking calls for an open source project such as _The Turing Way_, you can expect your current members, past contributors or even new members to the project to participate.
+If you are part of a small project, you would expect the same familiar faces in all your coworking calls.
 
 **Organisers and hosts**
 
@@ -34,28 +34,6 @@ Many tasks go into organising a coworking call (discussed later).
 These tasks can be taken care of by one person like a community manager, project manager, or a volunteer organiser.
 However, it is always a good idea to involve more people as co-organisers so that the coworking call still happens event when the main organiser can't join for any reason.
 To avoid one person to burden themselves with "not so exciting" organisation issues, you can also decide to rotate the role within the members of your project.
-
-**Logistics and tasks**
-
-Like any event, coworking calls will also need someone to take responsibility of organising, hosting and making sure that they happen.
-As organisers of the event, you will be required to:
-- choose the right tools:
-  - hosting the calls: few options are Zoom, Google Hangout, Skype, Jisti
-  - managing registration: few options are via shared notes, Zoom, Eventbrite, Google form
-  - facilitating chats: few options are Slack, Gitter, other web-based or phone applications
-  - maintaining shared notes: few options are Etherpad, HackMD, GitHub, Google doc
-  - sharing timers: few options are cuckoo.team or other web-based timers
-  - finding a common availability: few options are Doodle, when2meet.com, Calendly, shared calendar system
-- schedule the calls on the agreed dates and time, or periodically in a week or month by involving people who would like to participate in coworking calls.
-- update the schedule, agenda and calendar to share them with the attendees (or potential target audience). It is particularly crucial to use meeting links like [arewemeetingyet](arewemeetingyet.com/) when hosting these calls for members from different countries so that they can see the time in their time zones. It is also quite effective when they receive a calendar invite.
-- maintain communication (by email, newsletter, or social media) so that everyone is aware of the next calls and the resources available for them to participate.
-- provide adequate support to the participants during the call so that they can make the best of their time. In _The Turing Way_ coworking calls, we find it useful to use breakout rooms when there are many people working in small groups or if some people need more discussions, while others want to quietly work on their tasks.
-- communicate the notes with participants after the call and share any useful resources or ideas they discussed during the coworking call.
-- most importantly, create a safe and accountable space:
-  - It is important to design these calls to ensure that everyone feels welcome, involved and safe. It's highly recommended to choose a Code of Conduct, share that with everyone in advance and put a reporting guideline in place. See this minimal [CoC from Contributor Covenant](https://www.contributor-covenant.org/) and an expanded version of {ref}`The Turing Way CoC<ch-coc>`.
-  - It is equally important to create an agenda that helps people understand what is expected of them, such as if they should bring their tasks and questions in the call or communicate them beforehand. In _The Turing Way_, we have dedicated slots for both group discussions and quiet working.
-  - You should also communicate the basic etiquettes, such as muting microphones when not speaking or not interrupt others when working in a Pomodoro session unless necessary.
-  - It's useful to let everyone know who they can contact if they need help in troubleshooting during the call or need more time to discuss their ideas.
 
 **Size of the call**
 
@@ -85,6 +63,48 @@ For example:
 - Communication platforms: software like Zoom can allow you to connect with many people at the same time. However, you will need a paid subscription (pro account) to control who joins your call (by activating waiting room to avoid Zoom bombing), manage breakout rooms (to allow multiple small groups and discussions) or host longer calls (>40 minutes).
 - Chat system: If you have a group Slack or Gitter channel, information can be exchanged everyone, including those who can not join the calls but can offer suggestions or carry related tasks asynchronously but in coordination with the group.
 This also allows people to keep each other informed of any last-minute changes such as new call joining link, correct notes, or cancellation of calls.
+
+## Logistics and tasks
+
+Like any event, coworking calls required planning, organising, hosting and making sure that they happen.
+As organisers of the event, you will be required to:
+
+**1. Choose the tools**
+
+The following aspects will require you to make right choices in regards of what tool you will use.
+
+- hosting the calls: few options are Zoom, Google Hangout, Skype, Jisti
+- managing registration: few options are via shared notes, Zoom, Eventbrite, Google form
+- facilitating chats: few options are Slack, Gitter, other web-based or phone applications
+- maintaining shared notes: few options are Etherpad, HackMD, GitHub, Google doc
+- sharing timers: few options are cuckoo.team or other web-based timers
+- finding a common availability: few options are Doodle, when2meet.com, Calendly, shared calendar system
+
+**2. Planning the calls**
+
+As discussed earlier, you will need to agree upon dates and time with people who would like to participate in coworking calls.
+Your calls could be weekly or monthly events that consistently take place on a certain day and time periodically, or it could be organised once in a while by finding a common availability.
+
+Once you have found a schedule (date, time and fequency), the following tasks will go into planning them:
+- update the schedule, agenda and calendar to share them with the attendees (or potential target audience). It is also quite effective when they receive a calendar invite.
+- maintain communication (by email, newsletter, or social media) so that everyone is aware of the next calls and the resources available for them to participate.
+It is particularly crucial to use meeting links like [arewemeetingyet](arewemeetingyet.com/) for communicating these schedules for members from different countries so that they can see the time in their time zones.
+- provide adequate support to the participants during the call so that they can make the best of their time. In _The Turing Way_ coworking calls, we find it useful to use breakout rooms when there are many people working in small groups or if some people need more discussions, while others want to quietly work on their tasks.
+- communicate the notes with participants after the call and share any useful resources or ideas they discussed during the coworking call.
+
+**3. create a safe and accountable space**
+
+Though discussed last, this should be your high priority.
+
+You should design these calls with an intention to make everyone feels welcome, involved and safe.
+It's highly recommended to choose a Code of Conduct, share that with everyone in advance and put a reporting guideline in place.
+See this minimal [CoC from Contributor Covenant](https://www.contributor-covenant.org/) and an expanded version of {ref}`The Turing Way CoC<ch-coc>`.
+Additionally, you should also communicate the basic etiquettes, such as muting microphones when not speaking or not interrupt others when working in a Pomodoro session unless necessary.
+
+It is useful to let everyone know who they can contact if they need help in troubleshooting during the call or need more time to discuss their ideas.
+Create an agenda that states clearly what is expected of them, such as if they should bring their tasks and questions in the call or communicate them beforehand.
+In _The Turing Way_, we have dedicated slots for both group discussions and quiet working.
+
 
 ## Some Examples
 
