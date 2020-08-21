@@ -80,12 +80,12 @@ The following aspects will require you to make right choices in regards of what 
 - sharing timers: few options are cuckoo.team or other web-based timers
 - finding a common availability: few options are Doodle, when2meet.com, Calendly, shared calendar system
 
-**2. Planning the calls**
+**2. Plan the calls**
 
 As discussed earlier, you will need to agree upon dates and time with people who would like to participate in coworking calls.
 Your calls could be weekly or monthly events that consistently take place on a certain day and time periodically, or it could be organised once in a while by finding a common availability.
 
-Once you have found a schedule (date, time and fequency), the following tasks will go into planning them:
+Once you have found a schedule (date, time and frequency), the following tasks will go into planning them:
 - update the schedule, agenda and calendar to share them with the attendees (or potential target audience). It is also quite effective when they receive a calendar invite.
 - maintain communication (by email, newsletter, or social media) so that everyone is aware of the next calls and the resources available for them to participate.
 It is particularly crucial to use meeting links like [arewemeetingyet](arewemeetingyet.com/) for communicating these schedules for members from different countries so that they can see the time in their time zones.
