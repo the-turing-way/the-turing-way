@@ -42,7 +42,7 @@ As organisers of the event, you will be required to:
 - choose the right tools:
   - hosting the calls: few options are Zoom, Google Hangout, Skype, Jisti
   - managing registration: few options are via shared notes, Zoom, Eventbrite, Google form
-  - facilitating chats: few options are Slack, Gitter, phone appearances
+  - facilitating chats: few options are Slack, Gitter, other web-based or phone applications
   - maintaining shared notes: few options are Etherpad, HackMD, GitHub, Google doc
   - sharing timers: few options are cuckoo.team or other web-based timers
   - finding a common availability: few options are Doodle, when2meet.com, Calendly, shared calendar system
