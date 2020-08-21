@@ -73,12 +73,12 @@ As organisers of the event, you will be required to:
 
 The following aspects will require you to make right choices in regards of what tool you will use.
 
-- hosting the calls: few options are Zoom, Google Hangout, Skype, Jisti
-- managing registration: few options are via shared notes, Zoom, Eventbrite, Google form
-- facilitating chats: few options are Slack, Gitter, other web-based or phone applications
-- maintaining shared notes: few options are Etherpad, HackMD, GitHub, Google doc
-- sharing timers: few options are cuckoo.team or other web-based timers
-- finding a common availability: few options are Doodle, when2meet.com, Calendly, shared calendar system
+- hosting the calls: few options are [Zoom](zoom.us), Google Hangout (https://en.wikipedia.org/wiki/Google_Hangouts), [Skype](https://www.skype.com/en/), [Jisti](https://meet.jit.si/)
+- managing registration: few options are via shared notes, Zoom, [Eventbrite](https://www.eventbrite.com/), [Google Form](https://en.wikipedia.org/wiki/Google_Forms)
+- facilitating chats: few options are [Slack](slack.com/), [Gitter](gitter.im/), other [web-based or phone applications](https://www.makeuseof.com/tag/messaging-apps-phone-computer/)
+- maintaining shared notes: few options are [Etherpad](https://etherpad.org/), [HackMD](https://hackmd.io/), [GitHub](github.com/), [Google doc](https://docs.google.com/document/u/0/)
+- sharing timers: few options are [cuckoo.team](cuckoo.team/), [vclock](https://vclock.com/timer/) or other web-based timers
+- finding a common availability: few options are [Doodle](https://doodle.com/poll/), [when2meet.com](https://www.when2meet.com/), or other [meeting schedule apps](https://zapier.com/blog/best-meeting-scheduler-apps/)
 
 **2. Plan the calls**
 
@@ -92,9 +92,9 @@ It is particularly crucial to use meeting links like [arewemeetingyet](arewemeet
 - provide adequate support to the participants during the call so that they can make the best of their time. In _The Turing Way_ coworking calls, we find it useful to use breakout rooms when there are many people working in small groups or if some people need more discussions, while others want to quietly work on their tasks.
 - communicate the notes with participants after the call and share any useful resources or ideas they discussed during the coworking call.
 
-**3. create a safe and accountable space**
+**3. Create a safe and accountable space**
 
-Though discussed last, this should be your high priority.
+Though discussed last, this should be your highest priority.
 
 You should design these calls with an intention to make everyone feels welcome, involved and safe.
 It's highly recommended to choose a Code of Conduct, share that with everyone in advance and put a reporting guideline in place.
