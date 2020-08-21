@@ -73,11 +73,11 @@ As organisers of the event, you will be required to:
 
 The following aspects will require you to make right choices in regards of what tool you will use.
 
-- hosting the calls: few options are [Zoom](zoom.us), Google Hangout (https://en.wikipedia.org/wiki/Google_Hangouts), [Skype](https://www.skype.com/en/), [Jisti](https://meet.jit.si/)
+- maintaining shared notes: few options are [Etherpad](https://etherpad.org/), [HackMD](https://hackmd.io/), [GitHub](https://github.com/), [Google doc](https://docs.google.com/document/)
 - managing registration: few options are via shared notes, Zoom, [Eventbrite](https://www.eventbrite.com/), [Google Form](https://en.wikipedia.org/wiki/Google_Forms)
-- facilitating chats: few options are [Slack](slack.com/), [Gitter](gitter.im/), other [web-based or phone applications](https://www.makeuseof.com/tag/messaging-apps-phone-computer/)
-- maintaining shared notes: few options are [Etherpad](https://etherpad.org/), [HackMD](https://hackmd.io/), [GitHub](github.com/), [Google doc](https://docs.google.com/document/u/0/)
-- sharing timers: few options are [cuckoo.team](cuckoo.team/), [vclock](https://vclock.com/timer/) or other web-based timers
+- hosting the calls: few options are [Zoom](https://zoom.us), [Google Hangout](https://en.wikipedia.org/wiki/Google_Hangouts), [Skype](https://www.skype.com/en/), [Jisti](https://meet.jit.si/)
+- facilitating chats: few options are [Slack](https://slack.com/), [Gitter](https://gitter.im/), other [web-based or phone applications](https://www.makeuseof.com/tag/messaging-apps-phone-computer/)
+- sharing timers: few options are [cuckoo.team](https://cuckoo.team/), [vclock](https://vclock.com/timer/) or other web-based timers
 - finding a common availability: few options are [Doodle](https://doodle.com/poll/), [when2meet.com](https://www.when2meet.com/), or other [meeting schedule apps](https://zapier.com/blog/best-meeting-scheduler-apps/)
 
 **2. Plan the calls**
