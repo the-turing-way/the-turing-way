@@ -193,8 +193,13 @@
 
 - file: project-design/project-design
   sections:
-  - title: Persona creation
-    file: project-design/persona-creation
+  - title: Persona and Pathways with Examples from The Turing Way
+    file: project-design/persona
+    sections:
+    - title: Persona Creation Tool for a Project
+      file: project-design/persona/persona-creation
+    - title: Persona and Pathways of Project Contributors
+      file: project-design/persona/persona-contributors
   - title: File Naming Convention
     file: project-design/filenaming
 
@@ -274,13 +279,6 @@
       file: community-handbook/style/style-crossref
     - title: Using figures
       file: community-handbook/style/style-figures
-  - title: The Turing Way Personas and Pathways
-    file: community-handbook/persona
-    sections:
-    - title: Contributors Personas
-      file: community-handbook/persona/persona-contributors
-    - title: Contribution Types and Pathways
-      file: community-handbook/persona/persona-contributions
   - title: Monthly Newsletters
     file: community-handbook/newsletters
     sections:

@@ -1,11 +1,11 @@
 (pd-persona-creation)=
-# Persona Development for a Project
+# Persona Creation Tool for a Project
 
 Persona development for a project or community is a great way for recognising who the stakeholders of that project are, why they would associate with the project, what their needs are and how those needs could be met.
 Persona creation tools can allow team members to collaborate efficiently with each other, develop a common understanding of their target audience and bring design principles into their work while ultimately creating an empathetic pathway for engagement.
 
 In this chapter, we provide a simple step by step guide that one can use for creating different personas for their communities and projects.
-Your project-specific personas will then be useful in enhancing the pathways your members take to engage with your project.
+Your project-specific personas will then be useful in enhancing the pathways your members take to engage with your project, examples for which has been provided in the next subchapter.
 
 ## Step-by-step guide for building a persona
 
@@ -31,7 +31,7 @@ Reflect on the job, career, education, and family aspect of your persona by answ
 - Which job does your persona hold?
 - What is your persona's family status?
   - Some options: single, parent, married, pet-owner, parent, or carer.
-- Does your persona have any health issues? 
+- Does your persona have any health issues?
     - You don't need to go in detail (though that would add more value to your planning), but start by answering in 'yes' or 'no'.
 - What is your persona's social environment like?
   - Some options: neutral, favorable, supportive, non-supportive, financially challenging, distracting, politically challenging.
@@ -131,13 +131,8 @@ The [https://www.designabetterbusiness.tools](https://www.designabetterbusiness.
 
 ## Examples of personas in _The Turing Way_ community
 
-In the Community Handbook, we have provided a chapter on {ref}`Personas and Pathways <ch-persona>` for _The Turing Way_.
-
-You can find examples of personas and pathways for how our members may interact with the project and what pathway they can take to sustain their engagements (see {ref}`Contributor's personas and pathways <ch-persona-contributors>`).
-
-We have then collected a list of contributions our personas can make in _The Turing Way_ and how they are acknowledged (see {ref}`Contribution types and pathways <ch-persona-contributions>`).
-
-We welcome you to add your personas in this chapter to provide more examples from different projects.
+In the next subchapter, you will find examples of personas and pathways in _The Turing Way_ community.
+With the help of different personas, we have also collected a list of contribution pathways in _The Turing Way_ and how they are acknowledged (see {ref}`Contribution types and pathways <ch-persona-contributions>`).
 
 *You are welcome to contribute to this chapter by testing the process described here to create a persona for your project.
 Your feedback will help us improve this process, and your output can be added here under the example section.*

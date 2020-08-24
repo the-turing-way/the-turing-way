@@ -1,9 +1,9 @@
-(ch-persona-contributors)=
+(pd-persona-contributors)=
 ## Contributor's Personas and Pathways
 
-In this document, we have created personas for _The Turing Way_ contributors and users based on their initial engagements with the project as a reader, learner, resource developer, reviewer and maintainer.
+In this document, we provide examples of personas to understand how contributors of an online project might experience their first interactions and the "pathway" they are likely to take to get further involved as contributors.
 
-The interaction with the project followed by the sustained engagements of personas in a project can be understood in different phases of community membership:
+The interactions with the project followed by the sustained engagements in a project can be understood in the following different phases of community membership:
 
 1. Discovery - How they first hear about the project or group.
 2. First Contact - How they first engage with the project or group, their initial interaction.
@@ -12,10 +12,10 @@ The interaction with the project followed by the sustained engagements of person
 5. Networked Participation - How they may network within the community.
 6. Leadership - How they may take on some additional responsibility on the project, or begin to lead.
 
-We have created personas based on GitHub skills and willingness to contribute to the project.
-We have also listed a few examples of how our personas might experience their first interactions with our project and the "pathway" they take to get involved.
-For each persona, we highlight how their involvement with _The Turing Way_ can improve and enrich the project and community.
+The examples provided below includes personas for _The Turing Way_ contributors and users based on their initial engagements with the project as a reader, learner, resource developer, reviewer and maintainer.
+These personas are created based on GitHub skills and willingness of the community members to contribute to the project.
 
+For each persona, we highlight how their involvement with _The Turing Way_ can improve and enrich the project and community.
 This document is meant to suggest ways you might interact with, learn from, and contribute to _The Turing Way_.
 We hope that one of these personas resonates with you and motivates you to get involved!
 
@@ -102,4 +102,4 @@ This process will not only help the _The Turing Way_ team members in getting you
 - This file has remixed and reused material from the [Open Leadership Framework GitHub repository](https://github.com/mozilla/open-leadership-framework/blob/master/personas.md) shared at the [Mozilla Open Leadership training](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/), License: [CC-BY-SA](https://creativecommons.org/licenses/by/4.0/).
 
 *Git Log History*
-- The log history was lost/discontinued on GitHub in moving this file from one directory to other - to see the full log please see the 'blame button' or use this git command `git log --follow -p -- book/website/community-handbook/persona/persona-contributors.md`
+- The log history was lost/discontinued on GitHub in moving this file from one directory to other - to see the full log please see the 'blame button' or use this git command `git log --follow -p -- persona-contributors.md`
