@@ -193,7 +193,7 @@
 
 - file: project-design/project-design
   sections:
-  - title: Persona and Pathways with Examples from The Turing Way
+  - title: Personas and Pathways
     file: project-design/persona
     sections:
     - title: Persona Creation Tool for a Project
