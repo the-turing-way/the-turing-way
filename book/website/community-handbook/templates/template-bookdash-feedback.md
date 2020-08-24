@@ -1,4 +1,4 @@
-(ch-bookdash-feedback-template)=
+(ch-template-bookdash-feedback)=
 # HackMD template for feedback
 
 *This template can be used for anonymous feedback by the participants on HackMD at the end of the book dash events.

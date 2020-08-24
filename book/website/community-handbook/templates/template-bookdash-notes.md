@@ -1,4 +1,4 @@
-(ch-bookdash-notes-template)=
+(ch-template-bookdash-notes)=
 # HackMD Template for Shared Notes
 
 *This template can be used for shared note-taking and information exchange in HackMD during the book dash events.

@@ -1,4 +1,4 @@
-(ch-coworking-weekly-template)=
+(ch-template-coworking-weekly)=
 # Weekly Coworking Call Template
 
 *A permanent document exists in the HackMD: [https://hackmd.io/@malvikasharan/TW-coworking](https://hackmd.io/@malvikasharan/TW-coworking) that is updated every Monday with the dates and times for the respective week.*

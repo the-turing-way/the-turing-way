@@ -1,4 +1,4 @@
-(ch-bookdash-issue-template)=
+(ch-template-bookdash-issue)=
 # Issue Template for Book Dash Planning
 
 *An issue can be created on the GitHub repository to keep track of the tasks for organising the book dash event.

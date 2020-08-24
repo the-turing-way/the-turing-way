@@ -297,17 +297,6 @@
       file: community-handbook/bookdash/bookdash-preparation
     - title: The Book Dash Main Event Plans
       file: community-handbook/bookdash/bookdash-events
-  - title: Template Collection
-    file: community-handbook/community-templates
-    sections:
-    - title: Book Dash Issue Template for Planning
-      file: community-handbook/templates/bookdash-issue-template
-    - title: Book Dash Template for Pre-event Call
-      file: community-handbook/templates/bookdash-precall-template
-    - title: Book Dash Template for Shared Notes 
-      file: community-handbook/templates/bookdash-notes-template
-    - title: Book Dash Template for Feedback
-      file: community-handbook/templates/bookdash-feedback-template
   - title: Community Coworking Calls
     file: community-handbook/coworking
     sections:
@@ -322,10 +311,20 @@
   - title: Template Collection
     file: community-handbook/community-templates
     sections:
+    - title: Book Dash Issue Template for Planning
+      file: community-handbook/templates/template-bookdash-issue
+    - title: Book Dash Template for Pre-event Call
+      file: community-handbook/templates/template-bookdash-precall
+    - title: Book Dash Template for Shared Notes
+      file: community-handbook/templates/template-bookdash-notes
+    - title: Book Dash Template for Feedback
+      file: community-handbook/templates/template-bookdash-feedback
     - title: Online Collaboration Cafe Templates
-      file: community-handbook/templates/coworking-collabcafe-template
+      file: community-handbook/templates/template-coworking-collabcafe
     - title: Weekly Coworking Call Template
-      file: community-handbook/templates/coworking-weekly-template
+      file: community-handbook/templates/template-coworking-weekly
+    - title: Template for Drafting Newsletters
+      file: community-handbook/templates/template-newsletter-draft
 
 # ===== Afterward Section ========================================
 
