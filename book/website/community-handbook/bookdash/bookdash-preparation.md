@@ -54,7 +54,7 @@ This checklist is also available as a {ref}`GitHub issue template<>` that can be
 - [ ] State the requirement and expectation of the event
   * An active GitHub account
   * Some experience with using GitHub
-  * Familiarity with contribution guideline and Code of conduct
+  * Familiarity with contribution guideline and Code of Conduct
   * A full working day time commitment
   * Willingness to collaborate with others
   * Participation at least one pre-book-dash call or a Collaboration Cafe
