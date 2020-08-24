@@ -82,7 +82,7 @@ This is the moral value that prevailed on this occasion.
 ### England's Grading Algorithm
 
 The global COVID-19 pandemic, amongst many other things, affected the way students around the world conducted their studies and attended school. 
-For the 2019-20 academic year, the UK government decided to go ahead with an algorithm that would "[maintain] standards and ensured that grades were awarded broadly in line with previous years" (Taylor, [2020[(https://www.gov.uk/government/news/statement-from-roger-taylor-chair-ofqual)). 
+For the 2019-20 academic year, the UK government decided to go ahead with an algorithm that would "[maintain] standards and ensured that grades were awarded broadly in line with previous years" (Taylor, [2020](https://www.gov.uk/government/news/statement-from-roger-taylor-chair-ofqual)). 
 As it turned out, this algorithm would result in disproportionate increases to grades for students at private schools versus students from less privileged schools. 
 After days of protests across the country, the government made a critical U-turn, allowing students to have the predicted grades their teachers had given them in the first place. 
 There are numerous analyses online about this case, 
