@@ -1,3 +1,4 @@
+(rr-binderhub)=
 # BinderHub
 
 ## Prerequisites / recommended skill level

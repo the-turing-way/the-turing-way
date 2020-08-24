@@ -15,16 +15,6 @@ Future work:
 | [Overview of Reproducibility](./overview) | Useful but not essential |        |
 | [Open research](./open-research)   | Useful but not essential |        |
 
-1. [Summary](#summary)
-2. [How this will help you/why this is useful?](#how-this-will-help-you-why-this-is-useful)
-3. [Making it easy to cite your stuff](#making-it-easy-to-cite-your-stuff)
-4. [How to cite data?](#how-to-cite-data)
-5. [How to make software citeable?](#how-to-make-software-citeable)
-6. [Making sure YOU get cited by using ORCID to increase your visibility](#making-sure-you-get-cited-by-using-orcid-to-increase-your-visibility)
-7. [Checklist](#checklist)
-<!--8. [What to learn next](#what-to-learn-next)-->
-8. [Further reading](#further-reading)
-
 ## Summary
 
 Reproducible research is great, but spending time on it will reduce the time you have available for activities by which researchers are traditionally measured, such as writing papers.
@@ -131,6 +121,7 @@ You can find examples of these statements in the publishers' (research data) aut
 -  “The data that support the findings of this study are available upon request.
 Access conditions and procedures can be found at [URL to restricted access repository such as [EASY](https://easy.dans.knaw.nl/ui/home).]”
 
+(rr-credit-make-software-citeable)=
 ## How to make software citeable?
 
 A software citation has a lot of the same elements as a data citation, described above, and are described in more detail in the [Software Citation Principles](https://www.force11.org/software-citation-principles).
@@ -139,7 +130,7 @@ When using others software, it is vital to cite and attribute it properly.
 To make your code citeable, you can use the integration between [Zenodo](https://zenodo.org/) and GitHub.
 
 - Create a file to tell people how to cite your software. Use this [handy guide](https://citation-file-format.github.io/cff-initializer-javascript/) to format the file.
-- Link your GitHub account with a Zenodo account. This guide explains [how](https://guides.github.com/activities/citable-code/).  
+- Link your GitHub account with a Zenodo account. This guide explains [how](https://guides.github.com/activities/citable-code/).
 - You can tell Zenodo what information or metadata you want to include with your software by adding a `zenodo.json` file, described [here](https://guide.esciencecenter.nl/citable_software/making_software_citable.html).
 - On Zenodo, flip the swith to the 'on' position for the GitHub repository you want to release
 - On GitHub, click the *Create a new release* button.

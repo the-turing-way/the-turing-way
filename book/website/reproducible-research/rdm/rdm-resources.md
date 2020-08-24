@@ -1,3 +1,4 @@
+(rr-rdm-resources)=
 ## Checklist
 
 <!-- This is a different style than the other chapters, but I really love what Alex provided so I just kept it. -->
