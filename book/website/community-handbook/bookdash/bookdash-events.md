@@ -7,7 +7,7 @@ These events include pre-event drop-in calls, Day-1 brainstorming session and gr
 ## Pre-Event drop-in calls
 
 The core team members hosts 2 pre-event drop-in calls, minimum one week before the main event to ensure that all the participants are made familiar with project, the format of the book dash, and how they can be contributing through their involvement at the book dash.
-It is an opportunity for the organising team and the selected attendees to get to know each other and discuss any concerns that they may have prior to the book dash.
+It is an opportunity for the organising team and the selected attendees to get to know each other and discuss any concerns that they may have before the book dash.
 
 Several participants often come to these calls with some plans and topics they would like to explore for their contributions in _The Turing Way_.
 These topics can be something that is either missing in the existing chapters or need to be updated in the project.
@@ -105,11 +105,11 @@ A quiet room is arranged so that people can step back from crowd as per their ne
 
 ## After the event
 
-Our book dash attendees begin to introduce their personal voice and skills into the project at the book dash.
+Our book dash attendees begin to introduce their perspectives and skills into the project at the book dash.
 These participants go on to join our global community of contributors.
 
 We invite our attendees to contribute in any capacity that is most suitable for their interests and availability.
-In addition, we share with them some ways they can stay connected and keep contributing to the project.
+Also, we share with them some ways they can stay connected and keep contributing to the project.
 
 ### Joining the ongoing efforts
 
@@ -151,4 +151,4 @@ If you have more ideas or questions about the project, the book dash event or so
 - [Report from February 2020](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-feb20-report.md)
 - [Report from London 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-ldn-report.md)
 - [Report from Manchester 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-mcr-report.md)
-- Additional [resources and organisation files](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash)
+- [Templates and organisation files](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash)
