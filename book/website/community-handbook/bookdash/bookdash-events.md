@@ -114,7 +114,7 @@ In addition, we share with them some ways they can stay connected and keep contr
 ### Joining the ongoing efforts
 
 With every new effort initiated by our members, we gain new insights to improve our global outreach.
-These work often start in our [GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues) section.
+These efforts often start in our [GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues) section.
 These are good places to begin new discussions by creating a new issue or join ongoing discussion by commending on the issue.
 If our contributors want to start to get to know the project, or want to return after a long break, they can begin with our good first issues.
 If they have a new idea that they would like to add to the project as a new section in an existing chapter, or as a whole new chapter, they can start by creating a new issue.
