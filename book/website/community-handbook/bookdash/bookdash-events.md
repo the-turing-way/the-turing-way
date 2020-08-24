@@ -148,7 +148,7 @@ If you have more ideas or questions about the project, the book dash event or so
 
 ## Report and additional materials
 
-- [Report from February 2020](https://hackmd.io/@malvikasharan/rJSSJurEL) (currently on [GitHub PR](https://github.com/alan-turing-institute/the-turing-way/pull/928))
+- [Report from February 2020](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-feb20-report.md)
 - [Report from London 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-ldn-report.md)
 - [Report from Manchester 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-mcr-report.md)
 - Additional [resources and organisation files](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash)
