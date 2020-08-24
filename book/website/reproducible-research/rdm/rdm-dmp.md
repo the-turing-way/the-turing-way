@@ -6,7 +6,7 @@ A DMP is a living document, which can be updated throughout the research project
 
 A Data Management Plan is a roadmap for you to manage your data efficiently and securely. 
 This can prevent data loss or breaches. 
-Planning ahead on how to manage your data consistently can save you time later on!
+Planning ahead on how to manage your data consistently can save you time later on! It can also make it easier to {ref}`share<rr-rdm-sharing>` your data with others and therefore make the data more {ref}`FAIR<rr-rdm-fair>`
 
 ## A Data Management Plan should provide information on five main topics:
 
