@@ -48,7 +48,7 @@ This is also a place to share tweets from the community or mention other online 
 
 The newsletter should focus more on the contributing and new members, and highlight only noteworthy content from _The Turing Way_ core members.
 
-### Collect images associated with the news item**
+### Collect images associated with the news item
 
 Following the recommendations on {ref}`style guide for community<ch-style-guide>` and {ref}`style guide for newsletters<ch-newsletters-style>` for using images, collect a few images (maximum 2 per section).
 Make sure that these images are available under a free license (like CC-BY), collected with the link of their sources, and named clearly as suggested in the style guide.
@@ -75,7 +75,7 @@ If possible, get your draft reviewed by 1-2 members.
 ### Updating your draft in the online repository
 
 If you have drafted your newsletter in a local branch, before creating a PR, please add all the images mentioned in the newsletter to the right file location: `the-turing-way/communications/newsletters/images`.
-More details about using images have been discussed in the next subchapter, {ref}`style guide<ch-newsletters-style>`
+More details about using images have been discussed in the next subchapter, {ref}`style guide<ch-newsletters-style>`.
 
 If you are working on a PR on GitHub, upload all the images and check if they are linked properly.
 
