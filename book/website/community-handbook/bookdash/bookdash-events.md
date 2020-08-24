@@ -95,7 +95,7 @@ Therefore we create an environment for self-paced contributions to _The Turing W
 Some recommendations to achieve this by managing the space at the book dash by:
 - offering a separate space for open discussion for people who work better by discussing their ideas out loud.
 - providing semi-quiet spaces or headphone for noise cancellation for people who don't need active discussions.
-- setting us a shared notes for everyone to take notes together and draw inspiration from each others work (see {ref}`template for notes<ch-bookdash-notes-template>`).
+- setting up shared notes for everyone to take notes together and draw inspiration from each other's work (see {ref}`template for notes<ch-bookdash-notes-template>`).
 
 Throughout the day, everyone is encouraged to ask for help, move around or change their position or group as needed.
 Participants are invited to offer feedback on other people's work during the report out session.
