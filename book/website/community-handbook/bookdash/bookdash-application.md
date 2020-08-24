@@ -65,12 +65,12 @@ We ask our reviewers to consider the following questions:
 * Is the applicant enthusiastic about reproducibility and the aims of _The Turing Way_?
 
 
-Based on their evaluation of the applications they will provide scores for different criteria that will be assessed as following:
+Based on their evaluation of the applications they will provide scores for different criteria that will be assessed as follows:
 1. Applicants who score **mostly 1s** do not have a clear idea/topic ready for contribution or do not have a clear understanding of the overall goals of _The Turing Way_ and book dash in general.
-2. Applicants who score **mostly 2s** are enthusiastic if not wholly suitable for the project/event, for example they may come with some ideas for a contribution that is currently not in the scope of the project/event.
+2. Applicants who score **mostly 2s** are enthusiastic if not wholly suitable for the project/event, for example, they may come with some ideas for a contribution that is currently not in the scope of the project/event.
 3. Applicants who score **mostly 3s** are clearly ready, goal-oriented, interested in contributing to the project, and excited to learn from others at the event.
 
-Table summarising the scoring criteria and each score
+The following table summarises the scoring criteria and rationale behind the selection each score:
 
 | Sections                          | Score 1 | Score 2 | Score 3 |
 | --------------------------------- | ------- | ------- | -------:|
