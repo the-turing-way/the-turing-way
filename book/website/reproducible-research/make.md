@@ -9,13 +9,6 @@
 
 Recommended skill level: intermediate
 
-## Table of contents
-
-- [Summary](#summary)
-- [An Introduction to Make](#an-introduction-to-make)
-  - [What is Make](#what-is-make)
-  - [Why use Make for Reproducibility?](#why-use-make-for-reproducibility)
-
 (rr-make-summary)=
 ## Summary
 

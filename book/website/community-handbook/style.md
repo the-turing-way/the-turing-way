@@ -1,3 +1,4 @@
+(ch-style-guide)=
 # Style Guide
 
 To ensure that the book can be read easily by everyone, including screen readers and non-native english speakers, we have compiled a set of guideline to keep a consistent style across all chapters of the book.
@@ -41,15 +42,31 @@ Note, that the formatting will be retained, so we can split each sentence to a n
 
 ### Avoid Latin Abbreviation
 
-Please do not use latin abbreviations like `e.g., i.e. or etc.`.
-See the [Gov.uk recommendations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#eg-etc-and-ie) for details.
+Please do not use Latin abbreviations.
+See the [Gov.uk recommendations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) for details.
 
-Instead of `eg.`, which can sometimes read aloud as ‘egg’ by screen reading software, please use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.
+Some of these abbreviations are:
 
-Instead of `etc.` at the end of a list, please start the list name with words like ‘for example’ or ‘such as’ or ‘like’ or ‘including’.
+```{figure} ../figures/latin-abbreviation.png
+---
+height: 400px
+name: latin-abbreviation
+alt: an image with a list of 3 latin abbreviations
+---
+A list of latin abbreviations for *exempli gratia* (for example), *et-cetera* (so on), and *id est* (that is).
+Screenshot of part of the [list of Common Latin Abbreviations for APA Style](https://blog.apastyle.org/files/apa-latin-abbreviations-table-2.pdf).
+```
 
-Instead of `ie.` that is often used to clarify a sentence, try (re)writing sentences to avoid the need to use it.
+Instead of the first abbreviation in the table for *exempli gratia*, which can sometimes read aloud as ‘egg’ by screen reading software, please use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.
+
+Instead of the second abbreviation in the table for *et-cetera* to indicate open ended list, please start the list with words like ‘for example’ or ‘such as’ or ‘like’ or ‘including’.
+
+Instead of third abbreviation in the table for *id est* that is often used to clarify a sentence, try (re)writing sentences to avoid the need to use it.
 If that is not possible, use an alternative such as ‘meaning’ or ‘that is’.
+
+Any text containing a Latin abbreviation will fail the continuos integration (CI) workflow of the _The Turing Way_ GitHub repository from passing successfully.
+
+*To avoid CI from failing, even in this chapter we have avoided to write those abbreviations and instead used an image to illustrate the above examples.*
 
 ### Auto-formatting
 

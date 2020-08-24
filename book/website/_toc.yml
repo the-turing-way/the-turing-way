@@ -281,6 +281,16 @@
       file: community-handbook/persona/persona-contributors
     - title: Contribution Types and Pathways
       file: community-handbook/persona/persona-contributions
+  - title: Monthly Newsletters
+    file: community-handbook/newsletters
+    sections:
+    - title: A Process of Creating a newsletter
+      file: community-handbook/newsletters/newsletters-process
+    - title: Newsletter's Style Guide
+      file: community-handbook/newsletters/newsletters-style
+    - title: The Turing Way Newsletter Template
+      file: community-handbook/newsletters/newsletters-template
+
 # ===== Afterward Section ========================================
 
 - file: afterword/afterword
