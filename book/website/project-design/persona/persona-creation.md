@@ -61,7 +61,7 @@ This section defines your persona's needs and decisions they make, which you can
 - Does your persona have the appropriate resources to collaborate or contribute to your project?
   - Some options: hardware, software, appropriate work arrangement, proper documentation
 - How much time (minimum) your persona needs to dedicate to make contributions to your project by completing different tasks?
-  - This can result into a list of tasks that your members are invited to do with approximate time and skill requirements for each of them.
+  - This can result in a list of tasks that your members are invited to do with approximate time and skill requirements for each of them.
 - What else can influence your persona's decisions on a day-to-day basis?  
 
 ### Section 4: Persona Profile (positive trends)

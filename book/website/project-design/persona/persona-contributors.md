@@ -1,7 +1,7 @@
 (pd-persona-contributors)=
-## Contributor's Personas and Pathways
+## Contributor Pathways
 
-In this document, we provide examples of personas to understand how contributors of an online project might experience their first interactions and the "pathway" they are likely to take to get further involved as contributors.
+In this subchapter, we develop personas in order to understand how contributors to an online project might experience their first interactions and the "pathway" they are likely to take to get further involved as contributors.
 
 The interactions with the project followed by the sustained engagements in a project can be understood in the following different phases of community membership:
 
@@ -12,7 +12,7 @@ The interactions with the project followed by the sustained engagements in a pro
 5. Networked Participation - How they may network within the community.
 6. Leadership - How they may take on some additional responsibility on the project, or begin to lead.
 
-The examples provided below includes personas for _The Turing Way_ contributors and users based on their initial engagements with the project as a reader, learner, resource developer, reviewer and maintainer.
+The examples provided below include personas for _The Turing Way_ contributors and users based on their initial engagements with the project as a reader, learner, resource developer, reviewer and maintainer.
 These personas are created based on GitHub skills and willingness of the community members to contribute to the project.
 
 For each persona, we highlight how their involvement with _The Turing Way_ can improve and enrich the project and community.
