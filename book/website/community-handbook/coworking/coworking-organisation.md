@@ -73,7 +73,7 @@ As organisers of the event, you will be required to:
 
 The following aspects will require you to make right choices in regards of what tool you will use.
 
-- maintaining shared notes: few options are [Etherpad](https://etherpad.org/), [HackMD](https://hackmd.io/), [GitHub](https://github.com/), [Google doc](https://docs.google.com/document/)
+- maintaining shared notes: few options are [Etherpad](https://etherpad.org/), [HackMD](https://hackmd.io/), [GitHub](https://github.com/), [Google doc](https://en.wikipedia.org/wiki/Google_Docs)
 - managing registration: few options are via shared notes, Zoom, [Eventbrite](https://www.eventbrite.com/), [Google Form](https://en.wikipedia.org/wiki/Google_Forms)
 - hosting the calls: few options are [Zoom](https://zoom.us), [Google Hangout](https://en.wikipedia.org/wiki/Google_Hangouts), [Skype](https://www.skype.com/en/), [Jisti](https://meet.jit.si/)
 - facilitating chats: few options are [Slack](https://slack.com/), [Gitter](https://gitter.im/), other [web-based or phone applications](https://www.makeuseof.com/tag/messaging-apps-phone-computer/)
