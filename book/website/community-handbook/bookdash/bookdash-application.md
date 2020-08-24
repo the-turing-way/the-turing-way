@@ -18,9 +18,6 @@ We don't expect that the candidates might have previously contributed to the pro
 We look more for their ideas on what they think is important and helpful for others doing data science in the current scenario.
 
 
-In 150 words each, applicants respond to the following questions:
-- What could you contribute to the Turing Way?
-- What would you gain from being part of the Turing Way book dash?
 
 We then ask a few demographic questions. 
 We want to make sure that the selected group of participants brings multiple skills, knowledge, and experience to _The Turing Way_.
