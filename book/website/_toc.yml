@@ -196,9 +196,9 @@
   - title: Personas and Pathways
     file: project-design/persona
     sections:
-    - title: Persona Creation Tool for a Project
+    - title: Persona Creation Tool
       file: project-design/persona/persona-creation
-    - title: Persona and Pathways of Project Contributors
+    - title: Contributor Pathways
       file: project-design/persona/persona-contributors
   - title: File Naming Convention
     file: project-design/filenaming

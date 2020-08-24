@@ -1,5 +1,5 @@
 (pd-persona-creation)=
-# Persona Creation Tool for a Project
+# Persona Creation Tool
 
 Persona development for a project or community is a great way for recognising who the stakeholders of that project are, why they would associate with the project, what their needs are and how those needs could be met.
 Persona creation tools can allow team members to collaborate efficiently with each other, develop a common understanding of their target audience and bring design principles into their work while ultimately creating an empathetic pathway for engagement.
