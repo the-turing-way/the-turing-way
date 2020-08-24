@@ -49,7 +49,7 @@ This checklist is also available as a {ref}`GitHub issue template<>` that can be
 - [ ] Provide details on Code of Conduct, contribution guideline and ways to get involved in an ongoing discussion
 - [ ] Prepare a care-package as a token of thanks for everyone involved
 
-**Additional task for an online Event**
+**Additional task for an online event**
 
 - [ ] State the requirement and expectation of the event
   * An active GitHub account
@@ -67,9 +67,9 @@ This checklist is also available as a {ref}`GitHub issue template<>` that can be
 - [ ] Send an email to the participants regarding their travel, accommodation, schedule, and meal
 - [ ] Book dinner for people for day-1
 - [ ] Book hotels rooms for people who requested accommodation
-  - [ ] Double check with each participant if their plan as given on their registration hasn't changed
+  - [ ] Double-check with each participant if their plan as given on their registration hasn't changed
 - [ ] Book travel for those who requested
-  - [ ] Double check with each participant if their plan as given on their registration hasn't changed
+  - [ ] Double-check with each participant if their plan as given on their registration hasn't changed
 - [ ] Book catering for lunch and coffee breaks
 - [ ] Mention that the event will offer a vegetarian meal as default - and ask participants to get in touch if another meal-type is required
 
