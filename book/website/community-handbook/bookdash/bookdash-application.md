@@ -13,6 +13,10 @@ The reason behind keeping it small is to allow the core team members to offer sp
 To fairly make this selection, a call for applications is opened at least 3 months in advance so that interested members can share their skills, interest, and expected outcomes through a short application.
 The applications are kept open for a minimum of 4 weeks and the timeline is communicated clearly through our newsletters, Twitter feed, and application form.
 
+In 150 words each, applicants respond to the following questions:
+- What could you contribute to the Turing Way?
+- What would you gain from being part of the Turing Way book dash?
+
 These responses to the questions in the application form help us select a group of people who will be able to work effectively together and cover a broad set of possible contributions to the Turing Way. 
 We don't expect that the candidates might have previously contributed to the project or are familiar with our project infrastructure such as GitHub-based contribution. 
 We look more for their ideas on what they think is important and helpful for others doing data science in the current scenario.
