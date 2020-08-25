@@ -25,6 +25,6 @@ People sharing their ideas through direct conversations and on social media. _Th
 ```
 
 In the first subchapter, we provide a {ref}`persona creation tool<pd-persona-creation>`.
-Subsequently, we discuss how one can identify pathways in the second subchapter called {ref}`Contributor's Personas and Pathways <pd-persona-contributors>`, using examples from _The Turing Way_ community.
+In the second subchapter, {ref}`Contributors Personas and Pathways <pd-persona-contributors>`, we discuss how one can identify pathways using examples from _The Turing Way_ community.
 
 *We welcome you to add your personas and pathways in this chapter to provide more examples from different projects.*
