@@ -70,15 +70,16 @@ Based on their evaluation of the applications they will provide scores for diffe
 2. Applicants who score **mostly 2s** are enthusiastic if not wholly suitable for the project/event, for example, they may come with some ideas for a contribution that is currently not in the scope of the project/event.
 3. Applicants who score **mostly 3s** are clearly ready, goal-oriented, interested in contributing to the project, and excited to learn from others at the event.
 
-The following table summarises the scoring criteria and rationale behind the selection each score:
+**Table summarising our scoring rubric and criteria for each score:**
 
-| Sections                          | Score 1 | Score 2 | Score 3 |
-| --------------------------------- | ------- | ------- | -------:|
+(This scoring rubric is based on the Mozilla Open Leaders and Open Life Science selection criteria)
+
+| Sections | Score 1 | Score 2 | Score 3 |
+| -------- | ------- | ------- | -------:|
 | **Readiness for the book dash event** |   (not ready) Does not provide enough information or seems to misunderstand the nature of _The Turing Way_ project and this event in general | (enthusiastic) Seems to have a clear understanding of _The Turing Way_ project and this event and brings along a specific content for contributions | (clear) Seems to have a clear understanding of the Turing Way project and this event and a clear understanding of how they can contribute and collaborate with each other at this event |
 | **Goals for the project contributions:** | (not ready) Shares vague or general ideas that are unrelated to _The Turing Way_ project and this event, or no goals at all | (enthusiastic) Shares clear, overly ambitious ideas for _The Turing Way_ project and this event that can likely be refined in a collaboration cafe, or the day before the event during the brainstorm session | (clear) Shares clear, achievable contribution/development ideas for this event that fits _The Turing Way_ project and are likely to be achieved through the applicant’s participation |
 | **Purpose of participation and what they will get out of the book dash:** | (not ready) Purposes for participation at the book dash seem almost entirely self-centered and about the applicant’s status, rather than about participating in _The Turing Way_ community to develop the project | (enthusiastic) Purposes for the participation at the book dash event are not completely clear from the application or are limited (even though useful), such as typo or bug fixing | (clear) Purposes for participation at the book dash event are valuable in many ways and are likely to help the applicant to become an active contributor and take ownership of their work in _The Turing Way_ project and in the broader ecosystem in their own rights |
 | **Willingness to collaborate and contribute after the book dash:** | (not ready) Seems closed to collaborative ways of working or more interested in only one aspect of data science, research or related topic | (enthusiastic) Seems excited to learn from others and _The Turing Way_ project, but in a general way without much understanding of what those things mean yet | (clear) Seems excited to collaborate with others and is motivated to contribute to _The Turing Way_ community |
-
 
 The following sections are aimed at collecting open-ended response by the reviewers:
 
