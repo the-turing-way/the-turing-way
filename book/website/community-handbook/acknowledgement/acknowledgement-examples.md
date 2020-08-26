@@ -1,8 +1,8 @@
 (ch-acknowledgement-examples)=
 ## Different Contributions and their Acknowledgements
 
-In the previous subchapters, we discussed how we acknowledge our contributors for their work in _The Turing Way_. 
-We also described the two records of the contributions, the [Contributors section](https://github.com/alan-turing-institute/the-turing-way#contributors) in the [README](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file and the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file, which are updated regularly to reflect the contribution types and personal highlights of the contributors.
+In the previous subchapters, we discussed how we acknowledge our contributors for their work in _The Turing Way_.
+We also describe the [Contributors section](https://github.com/alan-turing-institute/the-turing-way#contributors) in the [README](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file and the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file as {ref}`Record of Contributions<ch-acknowledgement-record>`, which are updated regularly to reflect the contribution types and personal highlights of the contributors.
 
 In this subchapter, we will explore the different types of contributions that exist within _The Turing Way_, and describe those with the help of {ref}`personas and pathways<pd-persona-creation>` our contributors may take to make their contributions.
 Furthermore, we describe how each persona will be acknowledged in _The Turing Way_.
@@ -111,10 +111,10 @@ These efforts are highly encouraged to ensure the sustainability of their resour
 - *Persona of a collaborating organisation*: The Narnia National AI Institute (NNAII) have agreed to share their internal guidance on communicating safe and ethical artificial intelligence to _The Turing Way_.
 The chapters were written by a team of people within NNAII and converted into pull requests that fit _The Turing Way_ style guide.
 Each individual from the team is listed as a contributor in the Contributors Table with a 🖋 (`content`) emoji or other relevant contributions they have made.
-  - **Acknowledgement:** The NNAII is acknowledged as a "Collaborating organisation" in the {ref}`the record of contributions<ch-acknowledgement-records>` with detailed contributions from each of their members involved in this project.
+  - **Acknowledgement:** The NNAII is acknowledged as a "Collaborating organisation" in the {ref}`the record of contributions<ch-acknowledgement-record>` with detailed contributions from each of their members involved in this project.
 - *Persona for a contributing member from the organisation*: Abby is one of the members of the NNAII who contributed to the guidance before she left to join a non-profit last year.
 After leaving NNAII, Abby has designed and written a new chapter in her own time.
-  - **Acknowledgement:** In addition to her previous acknowledgments, she will be acknowledged with a 🖋  (`content`) and 🤔 (`idea`) emoji in the Contributors Table and her {ref}`the record of contributions<ch-acknowledgement-records>` will develop independently of the NNAII.
+  - **Acknowledgement:** In addition to her previous acknowledgments, she will be acknowledged with a 🖋  (`content`) and 🤔 (`idea`) emoji in the Contributors Table and her {ref}`the record of contributions<ch-acknowledgement-record>` will develop independently of the NNAII.
 - *Persona for the supporting (indirect contributor) members from the organisation*: Kadie is a programme director at the NNAII who manages the team that wrote the guidance that has been incorporated into _The Turing Way_.
   - **Acknowledgement:** She is acknowledged in the Contributors table with the 💵 (`finance`) emoji.
 Kadie was asked if she would like to be an author on the most recent release of _The Turing Way_ book but declined as she did not personally feel that she had contributed enough to be named as an author.

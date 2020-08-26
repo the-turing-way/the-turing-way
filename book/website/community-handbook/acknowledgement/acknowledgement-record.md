@@ -1,13 +1,13 @@
-(ch-acknowledgement-records)=
-# Records of Contributions
+(ch-acknowledgement-record)=
+# Record of Contributions
 
-Two documents are considered as the records of contributions in _The Turing Way_, Contributors Table in the README file and contributors.md in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way).
-The contributor records are also available in the afterword of this book as {ref}`Contributors<aw-contributor-records-contributors>` and {ref}`Personal Highlights<aw-contributor-records-highlights>`.
+Two documents are considered as the record of contributions in _The Turing Way_, Contributors Table in the README file and contributors.md in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way).
+This record is also available in the afterword of this book as {ref}`Contributors<aw-contributors-record-contributors>` and {ref}`Personal Highlights<aw-contributors-record-highlights>`.
 
-We invite all our members to co-create these records to capture the important work they do around answering questions, representing the project, developing and maintaining the infrastructure, and all other nurturing roles that make The Turing Way community so special.
+We invite all our members to co-create this record to capture the important work they do around answering questions, representing the project, developing and maintaining the infrastructure, and all other nurturing roles that make The Turing Way community so special.
 
-The process of developing these records are described below in detail.
-These records can be used for highlighting skills that our members have gained and shared through their involvement in _The Turing Way_.
+The process of developing this record is described below in detail.
+This document can be used for highlighting skills that our members have gained and shared through their involvement in _The Turing Way_.
 
 ## 1. Contributors Table
 
@@ -45,7 +45,7 @@ Specifications for all types of contributions made towards _The Turing Way_ can 
 These highlights can be individually decided by the contributors to record what they consider to be their significant and useful for their personal profile.
 This can be supplemented with supporting materials such links to chapters, pull request, issues, and blog posts.
 
-These records can be directly translated towards the professional development of our community members, which can be further used for enhancing their personal or professional portfolio (profile, CV, resume) (see [contributors.md file](https://github.com/alan-turing-institute/the-turing-way/edit/acknowledging-contributors/contributors.md)).
+This record can be directly translated towards the professional development of our community members, which can be further used for enhancing their personal or professional portfolio (profile, CV, resume) (see [contributors.md file](https://github.com/alan-turing-institute/the-turing-way/edit/acknowledging-contributors/contributors.md)).
 This will also help us capture the impact, _The Turing Way_ may have on its community members in terms of personal networking, professional development, skill sharing and other relevant activities.
 
 ### Recording different types of contributions
