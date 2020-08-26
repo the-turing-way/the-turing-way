@@ -335,5 +335,5 @@
     file: afterword/glossary
   - title: Bibliography
     file: afterword/bibliography
-  - title: Contributors Record
-    file: afterword/contributors-record
+  # - title: Contributors Record
+  #   file: afterword/contributors-record
