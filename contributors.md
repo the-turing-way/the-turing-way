@@ -5,7 +5,7 @@ This document is a record of contributions that captures the important work _The
 Using [all contributors bot](https://allcontributors.org), we recognise the different types of contributions made to this project, which may include (but are not limited to) bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
 Please see the [community handbook](https://the-turing-way.netlify.app/community-handbook/acknowledgement) for details on how we can fairly acknowledge your work.
 
-## Personal Highlights of _The Turing Way_ Contributors
+## Personal Highlights from _The Turing Way_ Contributors
 
 This section highlights personal achievements and skills that our members have achieved and shared through their involvement in _The Turing Way_ and enhancing their personal or professional portfolio (profile, CV, resume).
 This also reflects impact _The Turing Way_ may have on its community members in terms of personal networking, professional development, skill sharing and other relevant activities.
