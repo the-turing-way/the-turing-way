@@ -228,6 +228,15 @@
       file: collaboration/github/github-maintainers.md
     - title: Checklist and resources
       file: collaboration/github/github-resources
+  - title: Managing a New Community and Team
+    file: collaboration/new-community
+    sections:
+    - title: Guide to Planning a Community
+      file: collaboration/new-community/new-community-guide
+    - title: Addressing Technical Issues
+      file: collaboration/new-community/new-community-techissues
+    - title: Valuing Diversity and Differences
+      file: collaboration/new-community/new-community-differences
   - title: Leadership in Data Science
     file: collaboration/leadership
     sections:
@@ -255,7 +264,7 @@
       file: community-handbook/coc/coc-enforcement
     - title: Acnowledgements
       file: community-handbook/coc/coc-acknowledgement
-  - title: The Turing Way Style Guide
+  - title: Style Guide
     file: community-handbook/style
     sections:
     - title: Citing and Referencing External Resources
@@ -273,6 +282,50 @@
       file: community-handbook/acknowledgement/acknowledgement-records
     - title: Different Contributions and Acknowledgements
       file: community-handbook/acknowledgement/acknowledgement-examples
+  - title: Monthly Newsletters
+    file: community-handbook/newsletters
+    sections:
+    - title: A Process of Creating a newsletter
+      file: community-handbook/newsletters/newsletters-process
+    - title: Newsletter's Style Guide
+      file: community-handbook/newsletters/newsletters-style
+    - title: The Turing Way Newsletter Template
+      file: community-handbook/newsletters/newsletters-template
+  - title: Book Dash Events
+    file: community-handbook/bookdash
+    sections:
+    - title: Application and Review Process
+      file: community-handbook/bookdash/bookdash-application
+    - title: Selection and Preparation Process
+      file: community-handbook/bookdash/bookdash-preparation
+    - title: The Book Dash Main Event Plans
+      file: community-handbook/bookdash/bookdash-events
+  - title: Community Coworking Calls
+    file: community-handbook/coworking
+    sections:
+    - title: Background, Motivations, and Techniques
+      file: community-handbook/coworking/coworking-motivation
+    - title: Online Collaboration Cafe
+      file: community-handbook/coworking/coworking-collabcafe
+    - title: Weekly Coworking Calls
+      file: community-handbook/coworking/coworking-weekly
+    - title: Organising coworking calls
+      file: community-handbook/coworking/coworking-organisation
+  - title: Template Collection
+    file: community-handbook/community-templates
+    sections:
+    - title: Book Dash Issue Template for Planning
+      file: community-handbook/templates/bookdash-issue-template
+    - title: Book Dash Template for Pre-event Call
+      file: community-handbook/templates/bookdash-precall-template
+    - title: Book Dash Template for Shared Notes
+      file: community-handbook/templates/bookdash-notes-template
+    - title: Book Dash Template for Feedback
+      file: community-handbook/templates/bookdash-feedback-template
+    - title: Online Collaboration Cafe Templates
+      file: community-handbook/templates/coworking-collabcafe-template
+    - title: Weekly Coworking Call Template
+      file: community-handbook/templates/coworking-weekly-template
 
 # ===== Afterward Section ========================================
 
@@ -282,3 +335,5 @@
     file: afterword/glossary
   - title: Bibliography
     file: afterword/bibliography
+  - title: Contributors' Highlights
+    file: afterword/contributors

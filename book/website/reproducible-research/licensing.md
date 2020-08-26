@@ -8,13 +8,6 @@
 
 Recommended skill level: low.
 
-## Table of contents
-
-1. [Summary](#summary)
-2. [How this will help you/ why this is useful](#how-this-will-help-you--why-this-is-useful)
-3. [Software licensing](/licensing/01/softwarelicenses)
-4. [Data licensing](/licensing/02/datalicenses)
-
 ## Summary
 
 As with anything else in society, some of what you can and cannot do in software development is determined by the law.

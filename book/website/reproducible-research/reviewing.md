@@ -4,7 +4,6 @@
 | -------------|------------|-------|
 | [Version control](/version-control) | Necessary | Understanding the way that [Github](https://github.com) arranges its branches, forks, and pull requests within repositories is needed. |
 
-<a name="Summary"></a>
 ## Summary
 
 Code review provides an additional way of testing code quality.

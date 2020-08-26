@@ -1,3 +1,4 @@
+(rr-rdm-fair)=
 # The FAIR principles and practices
 
 The FAIR guiding principles for scientific data management and stewardship {% cite Wilkinson2016fair %} have been
