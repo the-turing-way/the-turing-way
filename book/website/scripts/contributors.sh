@@ -17,9 +17,3 @@ tail -n +"$line_num" "$all_contributors" | while read line;
 do
   echo $line >> $contributor_record
 done
-
-# Remove bad latin - this should be removed
-# when the bad-latin bot is fixed for ignored files
-# sed -i '' 's/ etc/.../g' $contributor_record
-# sed -i '' 's/i\.e\./like/g' $contributor_record
-# sed -i '' 's/e\.g\./example/g' $contributor_record
