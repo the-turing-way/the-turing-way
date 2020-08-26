@@ -42,9 +42,10 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > I am also a fellow of the Software Sustainability Institute and a board member of the Open Bioinformatics Foundation.
 
 * Personal highlights:
-> As a community manager, I enjoy supporting our contributors while learning new skills and ideas from them.
-> Through my talks, panels, and workshops, I like to interact with members across different research domains, who I otherwise will never get a chance to meet.
-> My personal highlights in _The Turing Way_ are community resources in the community handbook, designing governance and acknowledgment pathways for our members, co-developing workshops around leadership in research (in collaboration with [Open Life Science](openlifesci.org/)) and connecting with members from diverse perspectives and skills.
+> As a community manager, I appreciate the opportunities for facilitating the work our contributors carry out in this community space while learning new skills and ideas from them.
+> Through my talks, panel sessions, and workshops, I like to interact with members across different research domains, who I otherwise will never get a chance to meet.
+> Besides connecting with members from diverse perspectives, my highlights in _The Turing Way_ are co-developing community governance, acknowledgment pathways, and community resources in the [Community Handbook](https://the-turing-way.netlify.app/community-handbook) for our members.
+> I enjoy designing training resources around leadership in research in collaboration with [Open Life Science](https://openlifesci.org/).
 
 ### Alexander Morley
 

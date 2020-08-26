@@ -1,10 +1,13 @@
 (ch-acknowledgement-records)=
 # Records of Contributions
 
-We invite all our contributors to co-create these records to capture the important work they do around answering questions, representing the project, developing and maintaining the infrastructure, and all other nurturing roles that make The Turing Way community so special.
-These records can be used for highlighting skills that our members have gained and shared through their involvement in _The Turing Way_.
+Two documents are considered as the records of contributions in _The Turing Way_, Contributors Table in the README file and contributors.md in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way).
+The contributor records are also available in the afterword of this book as {ref}`Contributors<aw-contributor-records-contributors>` and {ref}`Personal Highlights<aw-contributor-records-highlights>`.
 
-Two documents are considered as the records of contributions in _The Turing Way_.
+We invite all our members to co-create these records to capture the important work they do around answering questions, representing the project, developing and maintaining the infrastructure, and all other nurturing roles that make The Turing Way community so special.
+
+The process of developing these records are described below in detail.
+These records can be used for highlighting skills that our members have gained and shared through their involvement in _The Turing Way_.
 
 ## 1. Contributors Table
 
@@ -62,7 +65,7 @@ Anyone who raises bugs, related issues or fixes them are listed as contributors 
 
 The contributor's file will be updated for the contributors with a similar statement as below after the `contributor's detail`:
 
-* Personal highlights: 
+* Personal highlights:
 > I have fixed typos and made other contributions `other details like identified sections of the book that are unclear`.
 
 #### Reviewing chapters and other pull requests
@@ -73,7 +76,7 @@ Anyone who reviews a chapter is listed as reviewers and are acknowledged with ðŸ
 
 The contributor's file will be updated for the contributors with a similar statement as below:
 
-* Personal highlights: 
+* Personal highlights:
 > I have reviewed the chapter `Chapter name`. I made other contributions to the chapter `other details like structuring and adding references`.
 
 #### Chapter contribution
@@ -84,7 +87,7 @@ The designing, writing, and reviewing of a chapter's content are acknowledged wi
 
 The contributor's file will be updated for the contributors with a similar statement as below:
 
-* Personal highlights: 
+* Personal highlights:
 > I have designed and wrote a chapter on `chapter name` and `details on reviewing and structuring new content`.
 
 #### Translation
@@ -96,7 +99,7 @@ Contributors who participate in the translation process will be acknowledged in 
 
 The contributor's file will be updated for the contributors with a similar statement as below:
 
-* Personal highlights: 
+* Personal highlights:
 > I have translated part of the chapter `chapter name` into `language`. I have also `details like designed and implemented a process to translate the book into multiple languages, mentored multiple contributors within the community and has translated 3 chapters of The Turing Way into Chinese`.
 
 #### Organisational support
@@ -110,7 +113,7 @@ Their contributors will be listed under their organisation's name in the contrib
 
 Every contribution from collaborating organisation will be updated with a similar statement as below:
 
-* Personal highlights: 
+* Personal highlights:
 > I have made contributions `contribution type` to the chapters `chapter name`. I have also `details on other contributions like managing a team of contributors, writing a chapter`.
 
 #### Maintenance
@@ -122,7 +125,7 @@ Contributors will be acknowledged in the Contributors table with the ðŸ’¬
 
 The contributor's file will be updated for the contributors with a similar statement as below:
 
-* Personal highlights: 
+* Personal highlights:
 > I have `details like responded to questions in the community's Gitter channel, mentored multiple contributors within the community and has reviewed pull requests to fix typos in the book, maintains the backend infrastructure of the project, provide support and solution regarding Jupyter book and continuous integration, designed and implemented a process to translate the book into multiple languages, helped multiple contributors in facilitating translation efforts`.
 
 #### Representing the Turing Way
@@ -133,7 +136,7 @@ Each contributor who represents _The Turing Way_ at an event is acknowledged in 
 
 Their contributions will be listed in the contributor's file with a similar statement as below:
 
-* Personal highlights: 
+* Personal highlights:
 > I have presented a talk at _The Turing Way_ at `event's name`. I have also `details like mentored multiple contributors within the community and have given talks at and event on behalf of the community`.
 
 Please read personas and pathways for different contributions in the next subchapter.

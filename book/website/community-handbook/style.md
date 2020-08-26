@@ -42,7 +42,7 @@ Note, that the formatting will be retained, so we can split each sentence to a n
 
 ### Avoid Latin Abbreviation
 
-Please do not use Latin words like `e.g., etc., i.e.` or other abbreviations.
+Please do not use Latin abbreviations.
 See the [Gov.uk recommendations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) for details.
 
 Some of these abbreviations are:
