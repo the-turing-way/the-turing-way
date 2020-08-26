@@ -21,6 +21,7 @@ do
   echo $line >> $contributor_records
 done
 
+# Remove bad latin
 sed -i '' 's/etc/.../g' $contributor_records
 sed -i '' 's/i.e./like/g' $contributor_records
 sed -i '' 's/ie/like/g' $contributor_records
