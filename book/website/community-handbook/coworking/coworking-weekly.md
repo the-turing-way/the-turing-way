@@ -33,7 +33,7 @@ We also don't create {ref}`breakout rooms<ch-coworking-collabcafe-breakout>` unl
 
 ### Format of the call
 
-We have a template for the {ref}`Collaboration Cafes<ch-coworking-weekly-template>`, which is updated on the [shared HackMD](https://hackmd.io/@malvikasharan/TW-coworking) for each week.
+We have a template for the {ref}`Collaboration Cafes<ch-template-coworking-weekly>`, which is updated on the [shared HackMD](https://hackmd.io/@malvikasharan/TW-coworking) for each week.
 
 We'll run the following schedule during each call:
 

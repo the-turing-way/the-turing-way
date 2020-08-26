@@ -21,7 +21,7 @@ The names of the selected participants are announced in _The Turing Way_ newslet
 ## Logistics for organising book dash
 
 We have created the following checklists, which is chronologically structured to help organise book dash online or in-person.
-This checklist is also available as a {ref}`GitHub issue template<>` that can be reused.
+This checklist is also available as a {ref}`GitHub issue for planning<ch-template-bookdash-issue>` that can be reused.
 
 - [ ] Finalise dates based on the location and organisers' availability
 - [ ] Book location for in-person events
@@ -45,7 +45,7 @@ This checklist is also available as a {ref}`GitHub issue template<>` that can be
 - [ ] Send an email to the selected attendees with registration
 - [ ] Send an email to the unselected attendees with feedback
 - [ ] Update presentation for introducing the project to the participants on day-1 of the book dash
-- [ ] Update shared HackMD for `pre-event calls<ch-bookdash-precall-template>`, {ref}`book dash event<ch-bookdash-notes-template>` and {ref}`feedback<ch-bookdash-feedback-template>`
+- [ ] Update shared HackMD for `pre-event calls<ch-template-bookdash-precall>`, {ref}`book dash event<ch-template-bookdash-notes>` and {ref}`feedback<ch-template-bookdash-feedback>`
 - [ ] Provide details on Code of Conduct, contribution guideline and ways to get involved in an ongoing discussion
 - [ ] Prepare a care-package as a token of thanks for everyone involved
 
@@ -77,4 +77,4 @@ This checklist is also available as a {ref}`GitHub issue template<>` that can be
 ## Additional materials
 
 - [Template for the application form](https://docs.google.com/forms/d/14JbI_Xqr8vRWAidzcVFhB-5iITA6n9BOZ0RX_aSDauU/edit?usp=sharing)
-- {ref}`Issue for planning<ch-bookdash-issue-template>`, also see [the issue #806](https://github.com/alan-turing-institute/the-turing-way/issues/806) for example from the book dash
+- {ref}`Issue for planning<ch-template-bookdash-issue>`, also see [the issue #806](https://github.com/alan-turing-institute/the-turing-way/issues/806) for example from the book dash

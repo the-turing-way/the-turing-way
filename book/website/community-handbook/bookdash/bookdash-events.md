@@ -14,7 +14,7 @@ These topics can be something that is either missing in the existing chapters or
 We also discuss _The Turing Way_ as a project in general and what the core team is working on to support the development of its guide on reproducibility, ethics, project design, collaboration, communication and a meta-book on the project itself.
 Most importantly, the core team goes through the contribution guideline and explain how attendees can effectively use their time at the book dash.
 
-The template for shared-notes can be accessed in the community handbook {ref}`here<ch-bookdash-precall-template>`.
+The template for shared-notes can be accessed in the community handbook {ref}`here<ch-template-bookdash-precall>`.
 You can read notes from the calls from the most recent book dash [here](https://hackmd.io/@malvikasharan/bookdash).
 
 ## Day-1: brainstorming and dinner
@@ -85,7 +85,7 @@ During the third and fourth session, participants come back to continue working 
 At the end of this session, participants gather all their contributions  on _The Turing Way_ GitHub repository (issues, pull requests and notes) and add that in the shared notes before taking a short break.
 
 The last session is the final report out and celebration of each other's work.
-The book dash closes with anonymous feedback on the {ref}`Pluses and Delta<ch-bookdash-feedback-template>` notes.
+The book dash closes with anonymous feedback on the {ref}`Pluses and Delta<ch-template-bookdash-feedback>` notes.
 
 ## Creating an environment for self-paced contributions
 
@@ -95,7 +95,7 @@ Therefore we create an environment for self-paced contributions to _The Turing W
 Some recommendations to achieve this by managing the space at the book dash by:
 - offering a separate space for open discussion for people who work better by discussing their ideas out loud.
 - providing semi-quiet spaces or headphone for noise cancellation for people who don't need active discussions.
-- setting up shared notes for everyone to take notes together and draw inspiration from each other's work (see {ref}`template for notes<ch-bookdash-notes-template>`).
+- setting up shared notes for everyone to take notes together and draw inspiration from each other's work (see {ref}`template for notes<ch-template-bookdash-notes>`).
 
 Throughout the day, everyone is encouraged to ask for help, move around or change their position or group as needed.
 Participants are invited to offer feedback on other people's work during the report out session.
@@ -141,14 +141,16 @@ If our attendees would like to represent our community, they can connect with _T
 ### Connecting through social media
 
 Everyone is welcome to join our Gitter channel for informal discussions: .
-They can also sign up to receive our monthly newsletter: https://tinyletter.com/TuringWay/.
+They can also sign up to receive our monthly newsletter: [https://tinyletter.com/TuringWay/](https://tinyletter.com/TuringWay/).
 We are on Twitter as [@turingway](https://twitter.com/turingway), where we send regular updates.
 
-If you have more ideas or questions about the project, the book dash event or something else related to our community, please feel free to reach out to the team members (theturingway@gmail.com).
+If you have more ideas or questions about the project, the book dash event or something else related to our community, please feel free to reach out to the team members [theturingway@gmail.com](mailto:theturingway@gmail.com).
 
-## Report and additional materials
+## Reports and additional materials
 
-- [Report from February 2020](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-feb20-report.md)
-- [Report from London 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-ldn-report.md)
-- [Report from Manchester 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-mcr-report.md)
-- [Templates and organisation files](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash)
+- All the templates related to book dash is provided in the {ref}`community template collection<ch-templates>`
+- CSCCE blog post by Arielle Bennett, July 2020: [Book Dashes: Collaborative Community Events](https://www.cscce.org/2020/07/09/book-dashes-collaborative-community-events/)
+- Open Working blog post by Esther Plomp, Februray 2020: [The Turing Way Bookdash](https://openworking.wordpress.com/2020/02/27/the-turing-way-bookdash/)
+- [_The Turing Way_ Report By Malvika Sharan with team members from February 2020](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-feb20-report.md)
+- [_The Turing Way_ Report By Rachael Ainsworth with team members from London 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-ldn-report.md)
+- [_The Turing Way_ Report By Rachael Ainsworth with team members from Manchester 2019](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-mcr-report.md)
