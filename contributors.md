@@ -32,25 +32,6 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > But it also includes making those outputs FAIR - findable, accessible, interoperable and reusable. I am an advocate for greater diversity in STEM and in data science and particularly passionate about improving the ways we reward collaborative and supportive working.
 > Finally, I'd like to pivot to having data science project be developed in the open from the beginning and with a decision making governance processs that is inclusive and community-lead.
 
-### Patricia Herterich
-
-* GitHub id: [pherterich](http://github.com/pherterich)
-* ORCID: [0000-0002-4542-9906](https://orcid.org/0000-0002-4542-9906)
-* Short bio: 
-> I am a Research Data Specialist at University of Edinburgh's Digital Curation Centre, UK.
-> I am a 2019 Software Sustainability Institute Fellow and HiddenREF committee member.
-> From 2016 to 2019, I worked as Research Repository Advisor at the University of Birmingham.
-> From 2012 to 2016, I've worked at CERN as a doctoral student supporting Open Research stuff and then abandoned the PhD and started a real job using all the skills I aquired.
-
-* Personal highlights:
-> Working on the Turing Way reminded me about what I value in my work and that I do have more technical skill than I think.
-> Based on the Turing Way work, I have started the product managmement role for DMPonline and I'm trying to take the inspiration from the project into my every day work whenever I can.
-
-* More information:
-> As a librarian, it feels like our influence is often limited, but I try to set up workshops/events to at least get the discussion started and give especially PhD students the feeling that they can challenge the status quo and there will be people in the institution that will support them that might not be their supervisor.
-> I really love how the Turing Way aims to create good examples and I hope we can develop some ideas and resources that can have a positive impact in changing the current system.
-> I care about collaborating and get really excited about trying new tools if my limited tech skills allow.
-
 ### Alexander Morley
 
 * GitHub id: [alexmorley](http://github.com/alexmorley)
@@ -75,6 +56,24 @@ When people don't use best practices in data science its almost always because t
 By providing concrete, incremental, but authoratitve, guidance I believe the Turing Way could provide the nudge that allows people to realise the benefits for themselves, and lowers the barrier for more researchers to acquire these highly valued skills.
 
 
+### Anna Krystalli
+
+* GitHub id: [annakrystalli](http://github.com/annakrystalli)
+* ORCID: [0000-0002-2378-4915](https://orcid.org/0000-0002-2378-4915)
+* Short bio: 
+> I’m a Research Software Engineer at the University of Sheffield helping researchers do more with their code and data. 
+> I’m also an editor for rOpenSci, a community of users and developers, Creating technical infrastructure of peer-reviewed R software tools for working with scientific data sources on the web.
+
+* Personal highlights:
+> `TBA`
+
+* More information:
+> I care about reproducible research in R!
+> I learnt to code during my PhD in Marine Macroecology and was instantly hooked. 
+> Building on past experience as a quality assurance auditor, my experiences made me interested in how we practice science and specifically how we can do more out of the real workhorses of modern research, our code and data. 
+> Working in _The Turing Way_ is a fantastic opportunity to take stock of the great work that has already been done in this space, aggregate and distill it to templates, checklists and  best practices guidelines that are immediately useful to researchers.  
+> It’s an opportunity to set standards and harness the power of convention, especially with ECRs that have an opportunity to set up good practices from the start! Indeed, I hope the Turing Way will very much become the “Sheffield Way” too!
+
 ### Becky Arnold
 
 * GitHub id: [r-j-arnold](http://github.com/r-j-arnold)
@@ -96,6 +95,26 @@ By providing concrete, incremental, but authoratitve, guidance I believe the Tur
 > While there are lots of fantastic resources out there they're often scattered and _The Turing Way_ can improve that. 
 I also hope that it can convince people that don't consider themselves capable of being good programmers that there are steps they can take to drastically improve their coding.
 
+### Louise Bowler
+
+* GitHub id: [LouiseABowler](http://github.com/LouiseABowler)
+* ORCID: [0000-0002-4910-9205](https://orcid.org/0000-0002-4910-9205)
+* Short bio:
+> I’m a Research Data Scientist in the Alan Turing Institute’s Research Engineering Group. 
+> I have a degree in Physics from Imperial College London, after which I joined the Life Sciences Interface Doctoral Training Centre at the University of Oxford. 
+> I worked on an interdisciplinary PhD project that combined mathematical modelling, cardiac electrophysiology and safety pharmacology, and moved over to the Turing afterwards.
+> Since then, I’ve worked on a range of projects spanning synthetic data, data visualisation, and of course, the Turing Way!
+
+* Personal highlights:
+> I got involved with _The Turing Way_ via case studies of reproducibility in academic projects - essentially, I was a reproducibility detective during the initial phase of the project! :female_detective: The Turing Way was my first experience of working with collaborators from so many different institutions, and the community around this project has been a real highlight for me. My official time on the Turing Way has come to an end, but I still enjoy keeping in touch through the Book Dashes and other events.
+
+* More information:
+> As scientists, we share our work via papers and talks, but the intricacies of precisely *how* we implement an analysis pipeline or novel algorithm can be very difficult to convey in those formats. 
+> We're currently seeing changes in the default way we want to publish our papers through the open access movement, and I'd love to see a similar change in mindset happen about the data that we collect and the code that we develop so that others can reproduce, learn from and build upon our work. 
+> I want to ensure that the route to sharing these types of research output is open to everyone, regardless of their level of programming experience - the route might not always be straightforward, but it's a great opportunity to share and learn from our experiences!
+> So many research projects now contain computational elements, yet it is easy to forget that not everyone has access to training in software engineering, or has a group of colleagues with such interests. 
+> If we say that we want people to make their research open and reproducible, we need to give them the tools they need to be confident in doing so. 
+> I see the Turing Way as the means of bridging that gap, by providing a friendly, practical and helpful guide for researchers at all stages of their careers.
 
 ### Martin O'Reilly
 
@@ -123,62 +142,24 @@ I also hope that it can convince people that don't consider themselves capable o
 > By providing recommended working practices and guidance on associated tooling, we can make it easy for researchers to do the right thing.
 > By publishing this with the weight of the Turing brand, we can apply social pressure for the adoption of these practices as new norms in the research communities we operate in.
 
-### Anna Krystalli
+### Patricia Herterich
 
-* GitHub id: [annakrystalli](http://github.com/annakrystalli)
-* ORCID: [0000-0002-2378-4915](https://orcid.org/0000-0002-2378-4915)
+* GitHub id: [pherterich](http://github.com/pherterich)
+* ORCID: [0000-0002-4542-9906](https://orcid.org/0000-0002-4542-9906)
 * Short bio: 
-> I’m a Research Software Engineer at the University of Sheffield helping researchers do more with their code and data. 
-> I’m also an editor for rOpenSci, a community of users and developers, Creating technical infrastructure of peer-reviewed R software tools for working with scientific data sources on the web.
+> I am a Research Data Specialist at University of Edinburgh's Digital Curation Centre, UK.
+> I am a 2019 Software Sustainability Institute Fellow and HiddenREF committee member.
+> From 2016 to 2019, I worked as Research Repository Advisor at the University of Birmingham.
+> From 2012 to 2016, I've worked at CERN as a doctoral student supporting Open Research stuff and then abandoned the PhD and started a real job using all the skills I aquired.
 
 * Personal highlights:
-> `TBA`
+> Working on the Turing Way reminded me about what I value in my work and that I do have more technical skill than I think.
+> Based on the Turing Way work, I have started the product managmement role for DMPonline and I'm trying to take the inspiration from the project into my every day work whenever I can.
 
 * More information:
-> I care about reproducible research in R!
-> I learnt to code during my PhD in Marine Macroecology and was instantly hooked. 
-> Building on past experience as a quality assurance auditor, my experiences made me interested in how we practice science and specifically how we can do more out of the real workhorses of modern research, our code and data. 
-> Working in _The Turing Way_ is a fantastic opportunity to take stock of the great work that has already been done in this space, aggregate and distill it to templates, checklists and  best practices guidelines that are immediately useful to researchers.  
-> It’s an opportunity to set standards and harness the power of convention, especially with ECRs that have an opportunity to set up good practices from the start! Indeed, I hope the Turing Way will very much become the “Sheffield Way” too!
-
-
-### Sarah Gibson
-
-* GitHub id: [sgibson91](http://github.com/sgibson91)
-* ORCID: [0000-0003-0356-2765](https://orcid.org/0000-0003-0356-2765)
-* Short bio: 
-> I am a Research Software Engineer at The Alan Turing Institute where I implement software best practices to translate academic research into real world solutions through the Turing's collaborative network.
-> I am also an operator and maintainer for the Binder project and runs a BinderHub cluster at the Turing which receives traffic from mybinder.org.
-> In 2020, I am also honoured to be a Software Sustainability Institute Fellow and to continue advocating for reproducible and sustainable research through software.
-
-* Personal highlights:
-> Becoming a core member of Project Binder and helping people all around the world launch and share their analyses in the cloud.
-
-* More information:
-> I'm passionate about applying the skills I learnt during my PhD somewhere closer to home and learning new skills along the way. 
-> The Turing Way is an ideal opportunity for me to learn better research practices and widen my horizons from what academia has taught me.
-
-### Louise Bowler
-
-* GitHub id: [LouiseABowler](http://github.com/LouiseABowler)
-* ORCID: [0000-0002-4910-9205](https://orcid.org/0000-0002-4910-9205)
-* Short bio:
-> I’m a Research Data Scientist in the Alan Turing Institute’s Research Engineering Group. 
-> I have a degree in Physics from Imperial College London, after which I joined the Life Sciences Interface Doctoral Training Centre at the University of Oxford. 
-> I worked on an interdisciplinary PhD project that combined mathematical modelling, cardiac electrophysiology and safety pharmacology, and moved over to the Turing afterwards.
-> Since then, I’ve worked on a range of projects spanning synthetic data, data visualisation, and of course, the Turing Way!
-
-* Personal highlights:
-> I got involved with the Turing Way via case studies of reproducibility in academic projects - essentially, I was a reproducibility detective during the initial phase of the project! :female_detective: The Turing Way was my first experience of working with collaborators from so many different institutions, and the community around this project has been a real highlight for me. My official time on the Turing Way has come to an end, but I still enjoy keeping in touch through the Book Dashes and other events.
-
-* More information:
-> As scientists, we share our work via papers and talks, but the intricacies of precisely *how* we implement an analysis pipeline or novel algorithm can be very difficult to convey in those formats. 
-> We're currently seeing changes in the default way we want to publish our papers through the open access movement, and I'd love to see a similar change in mindset happen about the data that we collect and the code that we develop so that others can reproduce, learn from and build upon our work. 
-> I want to ensure that the route to sharing these types of research output is open to everyone, regardless of their level of programming experience - the route might not always be straightforward, but it's a great opportunity to share and learn from our experiences!
-> So many research projects now contain computational elements, yet it is easy to forget that not everyone has access to training in software engineering, or has a group of colleagues with such interests. 
-> If we say that we want people to make their research open and reproducible, we need to give them the tools they need to be confident in doing so. 
-> I see the Turing Way as the means of bridging that gap, by providing a friendly, practical and helpful guide for researchers at all stages of their careers.
-
+> As a librarian, it feels like our influence is often limited, but I try to set up workshops/events to at least get the discussion started and give especially PhD students the feeling that they can challenge the status quo and there will be people in the institution that will support them that might not be their supervisor.
+> I really love how the Turing Way aims to create good examples and I hope we can develop some ideas and resources that can have a positive impact in changing the current system.
+> I care about collaborating and get really excited about trying new tools if my limited tech skills allow.
 
 ### Rosie Higman
 
@@ -222,3 +203,19 @@ I also hope that it can convince people that don't consider themselves capable o
 > *The Turing Way* goal of ensuring that reproducible data science is "too easy not to do" really resonates with me. 
 > I find that it can be difficult to get researchers to engage with reproducibility and sharing their research outputs because they perceive that it will take too much time and effort with very little reward - when the opposite is true! 
 > Ensuring results are reproducible not only benefits research as a whole and increases efficiency, but working this way also offers researchers more opportunities for impact and collaboration.
+
+### Sarah Gibson
+
+* GitHub id: [sgibson91](http://github.com/sgibson91)
+* ORCID: [0000-0003-0356-2765](https://orcid.org/0000-0003-0356-2765)
+* Short bio: 
+> I am a Research Software Engineer at The Alan Turing Institute where I implement software best practices to translate academic research into real world solutions through the Turing's collaborative network.
+> I am also an operator and maintainer for the Binder project and runs a BinderHub cluster at the Turing which receives traffic from mybinder.org.
+> In 2020, I am also honoured to be a Software Sustainability Institute Fellow and to continue advocating for reproducible and sustainable research through software.
+
+* Personal highlights:
+> Becoming a core member of _The Turing Way_ and Project Binder, and helping people all around the world launch and share their analyses in the cloud.
+
+* More information:
+> I'm passionate about applying the skills I learnt during my PhD somewhere closer to home and learning new skills along the way. 
+> The Turing Way is an ideal opportunity for me to learn better research practices and widen my horizons from what academia has taught me.
