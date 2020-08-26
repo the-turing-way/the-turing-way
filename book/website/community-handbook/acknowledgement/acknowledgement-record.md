@@ -1,21 +1,20 @@
 (ch-acknowledgement-record)=
 # Record of Contributions
 
-Two documents are considered as the record of contributions in _The Turing Way_, Contributors Table in the README file and contributors.md in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way).
-This record is also available in the afterword of this book as {ref}`Contributors<aw-contributors-record-contributors>` and {ref}`Personal Highlights<aw-contributors-record-highlights>`.
+Two documents in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way) are used for creating a record of contributions in _The Turing Way_: Contributors Table in the README file, and contributors.md file.
+This record is made available in the afterword of this book as {ref}`Contributors<aw-contributors-record-contributors>` and {ref}`Personal Highlights<aw-contributors-record-highlights>`.
+These documents can be used for highlighting skills that our members have gained and shared through their involvement in _The Turing Way_.
 
 We invite all our members to co-create this record to capture the important work they do around answering questions, representing the project, developing and maintaining the infrastructure, and all other nurturing roles that make The Turing Way community so special.
 
 The process of developing this record is described below in detail.
-This document can be used for highlighting skills that our members have gained and shared through their involvement in _The Turing Way_.
 
 ## 1. Contributors Table
 
-The [Contributors](https://github.com/alan-turing-institute/the-turing-way#contributors) section in [README](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file is updated with every contributor's name using the [all contributors bot](https://allcontributors.org/) with their [emoji keys](https://allcontributors.org/docs/en/emoji-key).
+The [Contributors](https://github.com/alan-turing-institute/the-turing-way#contributors) table in [README](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file is updated with every contributor's name using [all contributors bot](https://allcontributors.org/)'s [emoji keys](https://allcontributors.org/docs/en/emoji-key).
 
-This emoji key is used for recording and fairly acknowledging the different types of contributions our community members have made.
-No contribution is too small.
-They can include (but are not limited to) bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
+No contribution is too small, and these emoji keys allow us to recognise and fairly acknowledging all kinds of contributions our community members make to the project.
+Those contributions can include (but are not limited to) bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
 Please see the subchapter {ref}`Acknowledgement Examples <ch-acknowledgement-examples>` for details.
 
 | ![Table with different emojis that is used by the contributors bot](../../figures/allcontributorsbot-emoji.png) |
@@ -24,8 +23,8 @@ Please see the subchapter {ref}`Acknowledgement Examples <ch-acknowledgement-exa
 
 ## 2. Contributors file
 
-The details for each contributor will be listed in the contributor's file called [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file in the GitHub repository.
-This file will hold the following details, which will be referred as `contributor's detail` in the rest of this document:
+The contributor's file, called [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) in the GitHub repository, will hold specific details provided by community members regarding their involvements in the project.
+This will be referred to as `contributor's detail` in the rest of this document:
 
 > `Contributor's name`
 > * GitHub id: `GitHub id, example: [@kirstiejane](http://github.com/kirstiejane)`
