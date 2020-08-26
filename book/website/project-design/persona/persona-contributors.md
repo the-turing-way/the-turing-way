@@ -1,7 +1,7 @@
 (pd-persona-contributors)=
 ## Contributor Pathways
 
-In this subchapter, we develop personas in order to understand how contributors to an online project might experience their first interactions and the "pathway" they are likely to take to get further involved as contributors.
+In this subchapter, we have developed personas in order to understand how new members might experience their first interactions with an online project and what "pathways" they are likely to take to get further involved as contributors.
 
 The interactions with the project followed by the sustained engagements in a project can be understood in the following different phases of community membership:
 
