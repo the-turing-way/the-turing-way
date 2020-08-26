@@ -1,7 +1,6 @@
 #! /bin/bash
 # Copy the latest contributors.md file content to afterword
 # this will publish the contributors file online in The Turing Way book
-dir=$(PWD)
 all_contributors='README.md' # Path to the main README file of The Turing Way
 contributor_highlights='contributors.md'
 contributor_records='book/website/afterword/contributor-records.md'
