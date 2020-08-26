@@ -15,7 +15,7 @@ Every image used in this book is located in the file `_figure-list.md` in the di
 If you use a new image in any chapter, please add the file in the `figures` directory, and add details in the `_figure-list.md`.
 
 All our chapters are written in markdown files.
-You can use the following Markdown syntax, where the relative path of the image is provided inside thew round brackets '()':
+You can use the following Markdown syntax, where the relative path of the image is provided inside the round brackets '()':
 
 `![](../../figures/file-collection.jpg)`
 

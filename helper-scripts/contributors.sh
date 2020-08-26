@@ -22,3 +22,6 @@ do
 done
 
 sed -i '' 's/etc/.../g' $contributor_records
+sed -i '' 's/i.e./like/g' $contributor_records
+sed -i '' 's/ie/like/g' $contributor_records
+sed -i '' 's/e.g./such as/g' $contributor_records
