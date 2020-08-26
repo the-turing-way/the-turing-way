@@ -11,8 +11,6 @@ cat $contributor_highlights >> $contributor_record
 
 # # Get linenumber where all contributors list starts
 line_num=$(grep -n '## Contributors' $all_contributors | cut -d: -f1)
-#echo $line_num
-#echo '\n## Contributors\n' >> $contributor_record
 echo '\n(aw-contributors-record-contributors)=' >> $contributor_record
 
 tail -n +"$line_num" "$all_contributors" | while read line;
@@ -20,7 +18,8 @@ do
   echo $line >> $contributor_record
 done
 
-# Remove bad latin
+# Remove bad latin - this should be removed
+# when the bad-latin bot is fixed for ignored files
 sed -i '' 's/ etc/.../g' $contributor_record
 sed -i '' 's/i\.e\./like/g' $contributor_record
 sed -i '' 's/e\.g\./example/g' $contributor_record
