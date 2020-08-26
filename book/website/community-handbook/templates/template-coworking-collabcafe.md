@@ -1,4 +1,4 @@
-(ch-coworking-collabcafe-template)=
+(ch-template-coworking-collabcafe)=
 # Collaboration Cafe Call Template
 
 *A permanent document exists in the HackMD: [https://hackmd.io/@KirstieJane/CollabCafe](https://hackmd.io/@KirstieJane/CollabCafe) that is regularly updated with the empty template for next event.*

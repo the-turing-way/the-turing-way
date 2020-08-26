@@ -197,7 +197,6 @@
     file: project-design/persona-creation
   - title: File Naming Convention
     file: project-design/filenaming
-
 # ===== Communication Guide ========================================
 
 - file: communication/communication
@@ -261,7 +260,7 @@
       file: community-handbook/coc/coc-details
     - title: Incident Reporting Guideline
       file: community-handbook/coc/coc-reporting
-    - title: Enforcement manual
+    - title: Enforcement Manual
       file: community-handbook/coc/coc-enforcement
     - title: Acnowledgements
       file: community-handbook/coc/coc-acknowledgement
@@ -270,10 +269,19 @@
     sections:
     - title: Citing and Referencing External Resources
       file: community-handbook/style/style-citing
-    - title: Cross-referencing Sections and Chapters
+    - title: Cross-Referencing Sections and Chapters
       file: community-handbook/style/style-crossref
-    - title: Using figures
+    - title: Using Figures
       file: community-handbook/style/style-figures
+  - title: Acknowledging Contributors
+    file: community-handbook/acknowledgement
+    sections:
+    - title: Community Members and Shared Ownership
+      file: community-handbook/acknowledgement/acknowledgement-members
+    - title: Record of Contributions
+      file: community-handbook/acknowledgement/acknowledgement-record
+    - title: Different Contributions and Acknowledgements
+      file: community-handbook/acknowledgement/acknowledgement-examples
   - title: Monthly Newsletters
     file: community-handbook/newsletters
     sections:
@@ -292,17 +300,6 @@
       file: community-handbook/bookdash/bookdash-preparation
     - title: The Book Dash Main Event Plans
       file: community-handbook/bookdash/bookdash-events
-  - title: Template Collection
-    file: community-handbook/community-templates
-    sections:
-    - title: Book Dash Issue Template for Planning
-      file: community-handbook/templates/bookdash-issue-template
-    - title: Book Dash Template for Pre-event Call
-      file: community-handbook/templates/bookdash-precall-template
-    - title: Book Dash Template for Shared Notes 
-      file: community-handbook/templates/bookdash-notes-template
-    - title: Book Dash Template for Feedback
-      file: community-handbook/templates/bookdash-feedback-template
   - title: Community Coworking Calls
     file: community-handbook/coworking
     sections:
@@ -315,12 +312,20 @@
     - title: Organising coworking calls
       file: community-handbook/coworking/coworking-organisation
   - title: Template Collection
-    file: community-handbook/community-templates
+    file: community-handbook/templates
     sections:
+    - title: Book Dash Issue Template for Planning
+      file: community-handbook/templates/template-bookdash-issue
+    - title: Book Dash Template for Pre-event Call
+      file: community-handbook/templates/template-bookdash-precall
+    - title: Book Dash Template for Shared Notes
+      file: community-handbook/templates/template-bookdash-notes
+    - title: Book Dash Template for Feedback
+      file: community-handbook/templates/template-bookdash-feedback
     - title: Online Collaboration Cafe Templates
-      file: community-handbook/templates/coworking-collabcafe-template
+      file: community-handbook/templates/template-coworking-collabcafe
     - title: Weekly Coworking Call Template
-      file: community-handbook/templates/coworking-weekly-template
+      file: community-handbook/templates/template-coworking-weekly
 
 # ===== Afterward Section ========================================
 
@@ -330,3 +335,5 @@
     file: afterword/glossary
   - title: Bibliography
     file: afterword/bibliography
+  - title: Contributors Record
+    file: afterword/contributors-record

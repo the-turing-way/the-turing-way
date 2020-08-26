@@ -17,13 +17,13 @@ In 150 words each, applicants respond to the following questions:
 - What could you contribute to the Turing Way?
 - What would you gain from being part of the Turing Way book dash?
 
-These responses to the questions in the application form help us select a group of people who will be able to work effectively together and cover a broad set of possible contributions to the Turing Way. 
-We don't expect that the candidates might have previously contributed to the project or are familiar with our project infrastructure such as GitHub-based contribution. 
+These responses to the questions in the application form help us select a group of people who will be able to work effectively together and cover a broad set of possible contributions to the Turing Way.
+We don't expect that the candidates might have previously contributed to the project or are familiar with our project infrastructure such as GitHub-based contribution.
 We look more for their ideas on what they think is important and helpful for others doing data science in the current scenario.
 
 
 
-We then ask a few demographic questions. 
+We then ask a few demographic questions.
 We want to make sure that the selected group of participants brings multiple skills, knowledge, and experience to _The Turing Way_.
 We aim to involve members from diverse groups, especially those who are traditionally excluded from data science based on gender, ethnicity, and career stage.
 Therefore, we ask our applicants to indicate if they consider themselves to be a member of one or multiple historically underrepresented groups.
@@ -38,8 +38,8 @@ Currently, all these responses are securely handled under the [GDPR (General Dat
 
 All our applicants must agree with the following GDPR statement when sending their application:
 
-*We need to store your e-mail address to contact you. All the details provided will be stored in a Google Drive that only core members of _The Turing Way_ have access to. 
-The servers are based in the USA. 
+*We need to store your e-mail address to contact you. All the details provided will be stored in a Google Drive that only core members of _The Turing Way_ have access to.
+The servers are based in the USA.
 You can ask for your e-mail address and other identifiable information to be removed from our database at any time.
 If you have any questions please contact the team members by emailing turingway@gmail.com.*
 
@@ -70,15 +70,16 @@ Based on their evaluation of the applications they will provide scores for diffe
 2. Applicants who score **mostly 2s** are enthusiastic if not wholly suitable for the project/event, for example, they may come with some ideas for a contribution that is currently not in the scope of the project/event.
 3. Applicants who score **mostly 3s** are clearly ready, goal-oriented, interested in contributing to the project, and excited to learn from others at the event.
 
-The following table summarises the scoring criteria and rationale behind the selection each score:
+**Table summarising our scoring rubric and criteria for each score:**
 
-| Sections                          | Score 1 | Score 2 | Score 3 |
-| --------------------------------- | ------- | ------- | -------:|
+(This scoring rubric is based on the Mozilla Open Leaders and Open Life Science selection criteria)
+
+| Sections | Score 1 | Score 2 | Score 3 |
+| -------- | ------- | ------- | -------:|
 | **Readiness for the book dash event** |   (not ready) Does not provide enough information or seems to misunderstand the nature of _The Turing Way_ project and this event in general | (enthusiastic) Seems to have a clear understanding of _The Turing Way_ project and this event and brings along a specific content for contributions | (clear) Seems to have a clear understanding of the Turing Way project and this event and a clear understanding of how they can contribute and collaborate with each other at this event |
 | **Goals for the project contributions:** | (not ready) Shares vague or general ideas that are unrelated to _The Turing Way_ project and this event, or no goals at all | (enthusiastic) Shares clear, overly ambitious ideas for _The Turing Way_ project and this event that can likely be refined in a collaboration cafe, or the day before the event during the brainstorm session | (clear) Shares clear, achievable contribution/development ideas for this event that fits _The Turing Way_ project and are likely to be achieved through the applicant’s participation |
 | **Purpose of participation and what they will get out of the book dash:** | (not ready) Purposes for participation at the book dash seem almost entirely self-centered and about the applicant’s status, rather than about participating in _The Turing Way_ community to develop the project | (enthusiastic) Purposes for the participation at the book dash event are not completely clear from the application or are limited (even though useful), such as typo or bug fixing | (clear) Purposes for participation at the book dash event are valuable in many ways and are likely to help the applicant to become an active contributor and take ownership of their work in _The Turing Way_ project and in the broader ecosystem in their own rights |
 | **Willingness to collaborate and contribute after the book dash:** | (not ready) Seems closed to collaborative ways of working or more interested in only one aspect of data science, research or related topic | (enthusiastic) Seems excited to learn from others and _The Turing Way_ project, but in a general way without much understanding of what those things mean yet | (clear) Seems excited to collaborate with others and is motivated to contribute to _The Turing Way_ community |
-
 
 The following sections are aimed at collecting open-ended response by the reviewers:
 
@@ -95,7 +96,7 @@ Reviewers are also asked to disclose if any conflict of interest may have influe
 - Please state if you have any conflict of interest with the proposal described in this application or do you know this applicant personally that may lead to a biased decision
 ```
 
-Finally, reviewers are asked whether they would recommend an applicant. 
+Finally, reviewers are asked whether they would recommend an applicant.
 The available answers are "No", "Yes", "Unsure" or "Request for open discussion in the panel".
 Candidates who have ratings of "No" or "Unsure" across all reviewers will be rejected.
 All other candidates will be discussed at the panel selection.
