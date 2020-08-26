@@ -4,7 +4,6 @@
 all_contributors='README.md' # Path to the main README file of The Turing Way
 contributor_highlights='contributors.md'
 contributor_records='book/website/afterword/contributor-records.md'
-
 # Copy everything from the contributors highlight
 cp $contributor_highlights $contributor_records
 
