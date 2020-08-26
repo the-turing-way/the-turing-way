@@ -94,7 +94,7 @@ def read_and_check_files(files):
 
     for filename in files:
         if filename in IGNORE_LIST:
-            pass
+            print("Ignore the latin check in {}".format(filename))
         else:
             try:
                 with open(
