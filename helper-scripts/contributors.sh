@@ -4,7 +4,6 @@
 all_contributors='README.md' # Path to the main README file of The Turing Way
 contributor_highlights='contributors.md'
 contributor_records='book/website/afterword/contributor-records.md'
-latin_list=
 
 # Copy everything from the contributors highlight
 echo '(aw-contributor-records-highlights)=' > $contributor_records
@@ -23,5 +22,5 @@ done
 
 # Remove bad latin
 sed -i '' 's/ etc/.../g' $contributor_records
-sed -i '' 's/"i.e."/like/g' $contributor_records
-sed -i '' 's/"e.g."/such as/g' $contributor_records
+sed -i '' 's/i\.e\./like/g' $contributor_records
+sed -i '' 's/e\.g\./example/g' $contributor_records

@@ -1,4 +1,4 @@
-(aw-contributors-record-highlights)=
+(aw-contributor-records-highlights)=
 # Record of Contributions
 
 This document is a record of contributions that captures the important work _The Turing Way_ community members do around developing resources, writing chapters, reviewing contributions, answering questions, representing the project, developing and maintaining the infrastructure, and all other nurturing roles that make The Turing Way community so special.
@@ -150,7 +150,7 @@ I also hope that it can convince people that don't consider themselves capable o
 > This seems extremely wasteful and I'm convinced we can and should do better.
 > In particular, I feel a lot can be done to improve the effective re-use of data produced by research projects.
 > While there has been significant progress in recent years in the amount of data published alongside research articles, there is still a wide gulf between open data and re-usable data.
-> In terms of research areas, I'm fascinated by the brain and especially the approach of understanding the brain by "faking it" (i.e. modelling and simulation).
+> In terms of research areas, I'm fascinated by the brain and especially the approach of understanding the brain by "faking it" (like modelling and simulation).
 > I'm particularly interested in robots as a way of embodying these models in the real world.
 > I believe the Turing Way can impact positively in both these areas.
 > By providing recommended working practices and guidance on associated tooling, we can make it easy for researchers to do the right thing.
@@ -234,7 +234,7 @@ I also hope that it can convince people that don't consider themselves capable o
 > I'm passionate about applying the skills I learnt during my PhD somewhere closer to home and learning new skills along the way.
 > The Turing Way is an ideal opportunity for me to learn better research practices and widen my horizons from what academia has taught me.
 
-(aw-contributors-record-contributors)=
+(aw-contributor-records-contributors)=
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
