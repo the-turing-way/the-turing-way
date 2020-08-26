@@ -20,7 +20,7 @@ These templates can be reused and adapted for different events within and outsid
 
 - {ref}`Issue Template for Planning Book Dashes<ch-template-bookdash-issue>`
 - {ref}`HackMD Template for Pre-Event Calls<ch-template-bookdash-precall>`
-- {ref}`HackMD Template for Shared Note-Taking<ch-template--bookdash-notes>`
+- {ref}`HackMD Template for Shared Note-Taking<ch-template-bookdash-notes>`
 - {ref}`HackMD Template for Post-Event Feedback<ch-template-bookdash-issue>`
 
 (ch-template-coworking)=
