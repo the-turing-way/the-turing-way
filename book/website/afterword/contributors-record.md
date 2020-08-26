@@ -1,4 +1,4 @@
-(aw-contributor-records-highlights)=
+(aw-contributors-record-highlights)=
 # Record of Contributions
 
 This document is a record of contributions that captures the important work _The Turing Way_ community members do around developing resources, writing chapters, reviewing contributions, answering questions, representing the project, developing and maintaining the infrastructure, and all other nurturing roles that make The Turing Way community so special.
@@ -234,7 +234,7 @@ I also hope that it can convince people that don't consider themselves capable o
 > I'm passionate about applying the skills I learnt during my PhD somewhere closer to home and learning new skills along the way.
 > The Turing Way is an ideal opportunity for me to learn better research practices and widen my horizons from what academia has taught me.
 
-(aw-contributor-records-contributors)=
+(aw-contributors-record-contributors)=
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):

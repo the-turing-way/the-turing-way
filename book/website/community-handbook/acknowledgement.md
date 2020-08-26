@@ -23,7 +23,7 @@ alt: A sketch of Kirstie saying “That could be a chapter”
 ```
 
 We recognise all kinds of contributions that are possible in this project.
-We update our {ref}`Contributors table<aw-contributors-record-contributors>` by appropriately acknowledging our contributors' work within _The Turing Way_.
+We update our {ref}`Contributors Table<aw-contributors-record-contributors>` by appropriately acknowledging our contributors' work within _The Turing Way_.
 Furthermore, we invite every contributor to update the {ref}`Record of Contributions<aw-contributors-record-highlights>` with their personal highlights.
 
 In this chapter, we provide details on the following aspects:
