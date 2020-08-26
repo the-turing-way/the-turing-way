@@ -15,7 +15,7 @@ on:
 
 # Set up the Continuous Integration job
 jobs:
-  testfilesizes:
+  ContributorRecords:
     # Run on the latest Ubuntu distribution
     runs-on: ubuntu-latest
     # This section collects together the steps involved in running the test
