@@ -135,7 +135,10 @@ Times in a few different time zones are shown in the table below.
 | 20 May 2020 | [AreWeMeetingYet? 2020-05-20 19:00](https://arewemeetingyet.com/London/2020-05-20/19:00/TuringWay-CollaborationCafe) | 04:00 am | 02:00 am | 23:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
 | 3 June 2020 | [AreWeMeetingYet? 2020-06-03 15:00](https://arewemeetingyet.com/London/2020-06-03/15:00/TuringWay-CollaborationCafe) | 00:00 am | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
 | 17 June 2020 | [AreWeMeetingYet? 2020-06-17 19:00](https://arewemeetingyet.com/London/2020-06-17/19:00/TuringWay-CollaborationCafe) | 04:00 am | 02:00 am | 23:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
-| | | | | | | | | |
+| 2 July 2020 | [AreWeMeetingYet? 2020-07-02 15:00](https://arewemeetingyet.com/London/2020-06-03/15:00/TuringWay-CollaborationCafe) | 00:00 am | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
+| 16 July 2020 | [AreWeMeetingYet? 2020-07-16 15:00](https://arewemeetingyet.com/London/2020-06-03/15:00/TuringWay-CollaborationCafe) | 00:00 am | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
+| 2 September 2020 | [AreWeMeetingYet? 2020-09-02 15:00](https://arewemeetingyet.com/London/2020-06-03/15:00/TuringWay-CollaborationCafe) | 00:00 am | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
+| 16 September 2020 | [AreWeMeetingYet? 2020-09-16 15:00](https://arewemeetingyet.com/London/2020-06-03/15:00/TuringWay-CollaborationCafe) | 00:00 am | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
 | | | | | | | | | |
 | | | | | | | | | |
 | | | | | | | | | |
