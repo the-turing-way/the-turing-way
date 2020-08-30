@@ -3,9 +3,9 @@
 
 _The Turing Way_ is collaboratively developed by its diverse community of researchers, learners, educators, and other stakeholders.
 This project can simply not exist without the collaborative nature of this project and the willingness of our community members to work cooperatively in this book.
-We value all kinds of contributions in this project and are committed to recognising each of them fairly.
 
 Everyone has a skill that is useful for someone, and therefore anyone can contribute to _The Turing Way_.
+We value all kinds of contributions in this project and are committed to recognising each of them fairly.
 
 <!---
 | ![A sketch of Kirstie saying “That could be a chapter”](../figures/ThatCouldBeAChapter.png) |
@@ -24,7 +24,7 @@ alt: A sketch of Kirstie saying “That could be a chapter”
 
 We recognise all kinds of contributions that are possible in this project.
 We update our {ref}`Contributors Table<aw-contributors-record-contributors>` by appropriately acknowledging our contributors' work within _The Turing Way_.
-Furthermore, we invite every contributor to update the {ref}`Record of Contributions<aw-contributors-record-highlights>` with their personal highlights.
+Furthermore, we invite every community member to update the {ref}`Record of Contributions<aw-contributors-record-highlights>` with their personal highlights in _The Turing Way_ and use it for promoting their contributions to open science in general.
 
 In this chapter, we provide details on the following aspects:
 - who our contributors and community members are
