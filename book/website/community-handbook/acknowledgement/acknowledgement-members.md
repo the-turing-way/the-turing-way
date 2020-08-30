@@ -9,13 +9,14 @@ Similarly, community-oriented processes evolve over time with the help and feedb
 
 Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member.
 
-Their contributions may include carrying out small tasks such as reporting bugs, correcting factual errors, adding references, opening issues to discuss an idea, commenting on an ongoing discussions, exchanging idea with other members and citing _The Turing Way_.
-As discussed in the next subchapter, these contributors are highlighted in our Contributors Table.
+Their contributions may include carrying out small tasks such as reporting bugs, correcting factual errors, adding references, opening issues to discuss an idea, commenting on an ongoing discussion, exchanging ideas with other members or citing and promoting _The Turing Way_.
+As discussed in the next subchapter, these contributors are highlighted in the Contributors Table.
 
-Many contributors will also make substantial contributions such as writing a subchapter, maintaining community interactions, setting up infrastructure, helping others in their work and supporting their participation.
-All the substantial contributors will be highlighted in the Contributors Table and are named as co-authors on the book as a whole.
+Many contributors will also make substantial contributions such as writing a subchapter, maintaining community interactions, setting up or maintaining project's infrastructure, helping others in their work and supporting their participation.
+All the substantial contributors are also highlighted in the Contributors Table and named as co-authors on the book as a whole.
 As stated in our [Governance document](https://github.com/alan-turing-institute/the-turing-way/blob/master/GOVERNANCE.md), "substantial contribution" is a subjective term.
 Therefore, we have tried to add much detail as possible in the next subchapters through personas, contribution types and acknowledgements of those contributions including when a contributor is named as an author.
+
 Authors are listed in alphabetical order by last name. 
 The first author is always The Turing Way Community.
 Authorship is cumulative.
@@ -39,7 +40,7 @@ Such collaborative efforts also lower the psychological barriers for the new con
 
 Furthermore, with our commitment for fair acknowledgement in this project, we create opportunities to highlight the work of every contributor without trying to fit _The Turing Way_ into a traditional credit system.
 
-This is an opportunity for us to promote a culture change in research assessment system that recognises individual's contributions to open science like exchanging skills, sharing research components for reuse, and offering other academic services (such as leading collaborative efforts, organising events, offering consulting, maintaining community resources, teaching and mentoring) for the benefit of the scientific communities.
+This is also an opportunity for us to promote a culture change in research assessment system that recognises individual's contributions to open science like exchanging skills, sharing research components for reuse and offering other academic services (such as leading collaborative efforts, organising events, offering consulting, maintaining community resources, teaching and mentoring) for the benefit of the scientific communities.
 
 ## Highlight your contributions!
 
