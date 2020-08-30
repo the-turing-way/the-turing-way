@@ -14,7 +14,7 @@ These topics can be something that is either missing in the existing chapters or
 We also discuss _The Turing Way_ as a project in general and what the core team is working on to support the development of its guide on reproducibility, ethics, project design, collaboration, communication and a meta-book on the project itself.
 Most importantly, the core team goes through the contribution guideline and explain how attendees can effectively use their time at the book dash.
 
-The template for shared-notes can be accessed in the community handbook {ref}`here<ch-bookdash-precall-template>`.
+The template for shared-notes can be accessed in the community handbook {ref}`here<ch-template-bookdash-precall>`.
 You can read notes from the calls from the most recent book dash [here](https://hackmd.io/@malvikasharan/bookdash).
 
 ## Day-1: brainstorming and dinner
@@ -85,7 +85,7 @@ During the third and fourth session, participants come back to continue working 
 At the end of this session, participants gather all their contributions  on _The Turing Way_ GitHub repository (issues, pull requests and notes) and add that in the shared notes before taking a short break.
 
 The last session is the final report out and celebration of each other's work.
-The book dash closes with anonymous feedback on the {ref}`Pluses and Delta<ch-bookdash-feedback-template>` notes.
+The book dash closes with anonymous feedback on the {ref}`Pluses and Delta<ch-template-bookdash-feedback>` notes.
 
 ## Creating an environment for self-paced contributions
 
@@ -95,7 +95,7 @@ Therefore we create an environment for self-paced contributions to _The Turing W
 Some recommendations to achieve this by managing the space at the book dash by:
 - offering a separate space for open discussion for people who work better by discussing their ideas out loud.
 - providing semi-quiet spaces or headphone for noise cancellation for people who don't need active discussions.
-- setting up shared notes for everyone to take notes together and draw inspiration from each other's work (see {ref}`template for notes<ch-bookdash-notes-template>`).
+- setting up shared notes for everyone to take notes together and draw inspiration from each other's work (see {ref}`template for notes<ch-template-bookdash-notes>`).
 
 Throughout the day, everyone is encouraged to ask for help, move around or change their position or group as needed.
 Participants are invited to offer feedback on other people's work during the report out session.

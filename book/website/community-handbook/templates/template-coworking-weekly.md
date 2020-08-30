@@ -15,6 +15,8 @@ _The Turing Way_ team hosts 1-hr long coworking calls each week for the communit
 * Join us with a task that you are already working on in _The Turing Way_, an idea that you want to discuss, a pull request that you want to review, or something you started in the past and struggling to finish.
 * If you want to get an orientation to the project as a new member or connect with the team members - this would be a good place too!
 
+If you would like to join _The Turing Way_ co-working hour - sign up for a slot provided for this week between 11:00 - 12:00 BST.
+
 **Host:** Malvika Sharan (msharan@turing.ac.uk)
 
 *If you can't join from the beginning of the hour, please let the host know by contacting on [Gitter](https://gitter.im/alan-turing-institute/the-turing-way) or via email.*
@@ -24,6 +26,8 @@ _The Turing Way_ team hosts 1-hr long coworking calls each week for the communit
 * [Take a moment to read this](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md)
 
 :hourglass_flowing_sand: **Schedule:**
+
+**Schedule:**
 
 | Duration | Activity |
 | ---- | -------- |

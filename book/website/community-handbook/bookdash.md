@@ -53,4 +53,5 @@ Bursaries will be made available to rent or purchase small hardware such as head
 ## More resources on book dash
 
 In this chapter, we discuss the {ref}`application<ch-bookdash-application>`, {ref}`participant selection<ch-bookdash-selection>` and {ref}`event preparation<ch-bookdash-events>` processes.
+
 All the templates related to book dash is provided in the {ref}`community template collection<ch-templates>`.

@@ -21,7 +21,7 @@ These templates can be reused and adapted for different events within and outsid
 - {ref}`Issue Template for Planning Book Dashes<ch-template-bookdash-issue>`
 - {ref}`HackMD Template for Pre-Event Calls<ch-template-bookdash-precall>`
 - {ref}`HackMD Template for Shared Note-Taking<ch-template-bookdash-notes>`
-- {ref}`HackMD Template for Post-Event Feedback<ch-template-bookdash-issue>`
+- {ref}`HackMD Template for Post-Event Feedback<ch-template-bookdash-feedback>`
 
 (ch-template-coworking)=
 ## Coworking calls
@@ -29,7 +29,7 @@ These templates can be reused and adapted for different events within and outsid
 There are two MarkDown templates for the shared notes (HackMD) during the coworking calls hosted for _The Turing Way_ community:
 
 - {ref}`Template for the Collaboration Cafes<ch-template-coworking-collabcafe>`
-- {ref}`Template for the Daily Coworking Calls<ch-template-coworking-daily>`
+- {ref}`Template for the Daily Coworking Calls<ch-template-coworking-weekly>`
 
 (ch-template-newsletter)=
 ## Newsletter Draft

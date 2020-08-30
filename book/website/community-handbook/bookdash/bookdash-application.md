@@ -17,13 +17,13 @@ In 150 words each, applicants respond to the following questions:
 - What could you contribute to the Turing Way?
 - What would you gain from being part of the Turing Way book dash?
 
-These responses to the questions in the application form help us select a group of people who will be able to work effectively together and cover a broad set of possible contributions to the Turing Way. 
-We don't expect that the candidates might have previously contributed to the project or are familiar with our project infrastructure such as GitHub-based contribution. 
+These responses to the questions in the application form help us select a group of people who will be able to work effectively together and cover a broad set of possible contributions to the Turing Way.
+We don't expect that the candidates might have previously contributed to the project or are familiar with our project infrastructure such as GitHub-based contribution.
 We look more for their ideas on what they think is important and helpful for others doing data science in the current scenario.
 
 
 
-We then ask a few demographic questions. 
+We then ask a few demographic questions.
 We want to make sure that the selected group of participants brings multiple skills, knowledge, and experience to _The Turing Way_.
 We aim to involve members from diverse groups, especially those who are traditionally excluded from data science based on gender, ethnicity, and career stage.
 Therefore, we ask our applicants to indicate if they consider themselves to be a member of one or multiple historically underrepresented groups.
@@ -38,8 +38,8 @@ Currently, all these responses are securely handled under the [GDPR (General Dat
 
 All our applicants must agree with the following GDPR statement when sending their application:
 
-*We need to store your e-mail address to contact you. All the details provided will be stored in a Google Drive that only core members of _The Turing Way_ have access to. 
-The servers are based in the USA. 
+*We need to store your e-mail address to contact you. All the details provided will be stored in a Google Drive that only core members of _The Turing Way_ have access to.
+The servers are based in the USA.
 You can ask for your e-mail address and other identifiable information to be removed from our database at any time.
 If you have any questions please contact the team members by emailing turingway@gmail.com.*
 
@@ -96,7 +96,7 @@ Reviewers are also asked to disclose if any conflict of interest may have influe
 - Please state if you have any conflict of interest with the proposal described in this application or do you know this applicant personally that may lead to a biased decision
 ```
 
-Finally, reviewers are asked whether they would recommend an applicant. 
+Finally, reviewers are asked whether they would recommend an applicant.
 The available answers are "No", "Yes", "Unsure" or "Request for open discussion in the panel".
 Candidates who have ratings of "No" or "Unsure" across all reviewers will be rejected.
 All other candidates will be discussed at the panel selection.

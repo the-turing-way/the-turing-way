@@ -10,8 +10,10 @@ We're delighted to have you here :coffee: :sparkles: :cake:
 
 (*We do recommend bringing your actual tea, coffee, water or your favorite beverage to this cafe! :smile:*)
 
-**What?** *The Turing Way is a **lightly opinionated guide to reproducible data science and research**.
-This [Collaboration Cafe](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html) aims to engage with researchers interested in learning and sharing more about this topic in an **online book**: https://the-turing-way.netlify.com* aims to engage with researchers interested in learning and sharing more about this topic in an **online book**: https://the-turing-way.netlify.com*
+**What?** *The Turing Way is a **lightly opinionated guide to reproducible data science and research**. 
+This collaboration cafe aims to engage with researchers interested in learning and sharing more about this topic in an **online book**: https://the-turing-way.netlify.com*
+
+*Read more about it here: https://the-turing-way.netlify.app/community-handbook/coworking.html*
 
 **Who?** ***Everyone** interested in reproducible, ethical, and inclusive data science and research are welcome to join the full or any part of The Turing Way project, community, and/or this call.*
 

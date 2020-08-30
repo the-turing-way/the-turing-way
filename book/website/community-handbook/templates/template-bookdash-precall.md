@@ -1,4 +1,4 @@
-(ch-bookdash-precall-template)=
+(ch-template-bookdash-precall)=
 # HackMD template for pre-event call
 
 *At least 1 week before the event, the core team organises the pre-event calls to share details about the program and clarify what other questions participants may have.

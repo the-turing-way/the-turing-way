@@ -31,7 +31,7 @@ We coordinate our tasks on the shared HackMD and/or _The Turing Way_ GitHub repo
 
 ## Format of the call
 
-We have a template for the {ref}`Collaboration Cafes<ch-coworking-collabcafe-template>`, which is updated on the [shared HackMD](https://hackmd.io/@KirstieJane/CollabCafe) for each call.
+We have a template for the {ref}`Collaboration Cafes<ch-template-coworking-collabcafe>`, which is updated on the [shared HackMD](https://hackmd.io/@KirstieJane/CollabCafe) for each call.
 
 ### Schedule
 
