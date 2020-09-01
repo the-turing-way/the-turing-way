@@ -79,7 +79,7 @@ The following aspects will require you to make choices in regards of what tools 
 - sharing timers: few options are [cuckoo.team](https://cuckoo.team/), [vclock](https://vclock.com/timer/) or other web-based timers
 - finding a common availability: few options are [Doodle](https://doodle.com/poll/), [when2meet.com](https://www.when2meet.com/), or other [meeting schedule apps](https://zapier.com/blog/best-meeting-scheduler-apps/)
 
-**2. Plan the calls**
+**2. Plan and host the calls**
 
 As discussed earlier, you will need to agree upon dates and time with people who would like to participate in coworking calls.
 Your calls could be organised on a weekly or monthly basis that consistently take place on a certain day and time periodically, or it could be organised once in a while by finding a common availability.
@@ -88,14 +88,18 @@ Once you have found a schedule (date, time and frequency), the following tasks w
 - update the schedule, agenda and calendar to share them with the attendees (or potential target audience). It is also quite effective when they receive a calendar invite.
 - maintain communication (by email, newsletter, or social media) so that everyone is aware of the next calls and the resources available for them to participate.
 It is particularly crucial to use meeting links like [arewemeetingyet](arewemeetingyet.com/) for communicating these schedules for members from different countries so that they can see the time in their time zones.
-- provide adequate support to the participants during the call so that they can make the best of their time. In _The Turing Way_ coworking calls, we find it useful to use breakout rooms when there are many people working in small groups or if some people need more discussions, while others want to quietly work on their tasks.
-- communicate the notes with participants after the call and share any useful resources or ideas they discussed during the coworking call.
+
+For hosting these calls, you can reuse and adapt the agenda, techniques and templates described in the earlier chapters.
+You main tasks as a host will be to:
+- provide adequate support to the participants so that they can make the best of their time.
+In _The Turing Way_ coworking calls, we find it useful to use breakout rooms when there are many people working in small groups or if some people need more discussions, while others want to quietly work on their tasks.
+- facilitate shared notes with participants before, during and after the call, so that they can keep track of useful resources or ideas they discuss during the coworking call.
 
 **3. Create a safe and accountable space**
 
 Though discussed last, this should be your highest priority.
 
-You should design these calls with an intention to make everyone feels welcome, involved and safe.
+You should design these calls with an intention to make everyone feel welcome, involved and safe.
 It's highly recommended to choose a Code of Conduct and put reporting guideline in place to share with everyone in advance.
 See this minimal [CoC from Contributor Covenant](https://www.contributor-covenant.org/) and an expanded version of {ref}`The Turing Way CoC<ch-coc>`.
 Additionally, you should also communicate the basic etiquettes, such as muting microphones when not speaking or not interrupting others when working in a Pomodoro session unless necessary.

@@ -193,8 +193,13 @@
 
 - file: project-design/project-design
   sections:
-  - title: Persona creation
-    file: project-design/persona-creation
+  - title: Personas and Pathways
+    file: project-design/persona
+    sections:
+    - title: Persona Creation Tool
+      file: project-design/persona/persona-creation
+    - title: Contributor Pathways
+      file: project-design/persona/persona-contributors
   - title: File Naming Convention
     file: project-design/filenaming
 # ===== Communication Guide ========================================
@@ -273,15 +278,6 @@
       file: community-handbook/style/style-crossref
     - title: Using Figures
       file: community-handbook/style/style-figures
-  # - title: Acknowledging Contributors
-  #   file: community-handbook/acknowledgement
-  #   sections:
-  #   - title: Community Members and Shared Ownership
-  #     file: community-handbook/acknowledgement/acknowledgement-members
-  #   - title: Record of Contributions
-  #     file: community-handbook/acknowledgement/acknowledgement-record
-  #   - title: Different Contributions and Acknowledgements
-  #     file: community-handbook/acknowledgement/acknowledgement-examples
   - title: Monthly Newsletters
     file: community-handbook/newsletters
     sections:
@@ -326,6 +322,8 @@
       file: community-handbook/templates/template-coworking-collabcafe
     - title: Weekly Coworking Call Template
       file: community-handbook/templates/template-coworking-weekly
+    - title: Template for Drafting Newsletters
+      file: community-handbook/templates/template-newsletter-draft
 
 # ===== Afterward Section ========================================
 
@@ -335,5 +333,3 @@
     file: afterword/glossary
   - title: Bibliography
     file: afterword/bibliography
-  # - title: Contributors Record
-  #   file: afterword/contributors-record
