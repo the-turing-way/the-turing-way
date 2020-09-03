@@ -193,8 +193,13 @@
 
 - file: project-design/project-design
   sections:
-  - title: Persona creation
-    file: project-design/persona-creation
+  - title: Personas and Pathways
+    file: project-design/persona
+    sections:
+    - title: Persona Creation Tool
+      file: project-design/persona/persona-creation
+    - title: Contributor Pathways
+      file: project-design/persona/persona-contributors
   - title: File Naming Convention
     file: project-design/filenaming
 # ===== Communication Guide ========================================
@@ -326,6 +331,8 @@
       file: community-handbook/templates/template-coworking-collabcafe
     - title: Weekly Coworking Call Template
       file: community-handbook/templates/template-coworking-weekly
+    - title: Template for Drafting Newsletters
+      file: community-handbook/templates/template-newsletter-draft
 
 # ===== Afterward Section ========================================
 
