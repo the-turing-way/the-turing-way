@@ -17,9 +17,14 @@ No contribution is too small, and these emojis allow us to recognise and fairly 
 Those contributions can include (but are not limited to) bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
 Please see the subchapter {ref}`Acknowledgement Examples <ch-acknowledgement-examples>` for details.
 
-| ![Table with different emojis that is used by the contributors bot](../../figures/allcontributorsbot-emoji.png) |
-|----------------------------------------------|
-| Emoji key table of the all contributors bot that _The Turing Way_ uses for acknowledging different contributions from the community members |
+```{figure} ../../figures/allcontributorsbot-emoji.png
+---
+height: 400px
+name: AllContributorsEmojiKey
+alt: Table with different emojis that is used by the contributors bot
+---
+[Emoji key table](https://allcontributors.org/docs/en/emoji-key) of the all contributors bot that _The Turing Way_ uses for acknowledging different contributions from the community members.
+```
 
 ## 2. Contributors file
 
