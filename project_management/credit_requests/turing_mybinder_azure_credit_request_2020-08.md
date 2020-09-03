@@ -69,14 +69,14 @@ The RCWG asked for clarification as follows:
 
 Response:
 
-> To clarify, without these credits we cannot continue to run the infrastructure I've set up as part of the Binder Federation.
+> To clarify, without these credits we cannot continue to run the infrastructure set up as part of the Binder Federation.
 > I think the important nuance that may have been lost in the application is that the Turing's donation of these credits/infrastructure is acknowledged on the mybinder.org homepage and the Federation page (https://binderhub.readthedocs.io/en/latest/federation/federation.html#members-of-the-binderhub-federation) which in turn grants us certain privileges both internally and externally.
 >
 > Externally, the Turing will be seen as a major contributor to open infrastructure, reproducible research and decentralisation of knowledge.
-> We also gain ourself a seat at the table in terms of making decisions regarding the future roadmap of mybinder.org.
-> Internally, we can learn skills from an established community on large-scale project management and deploying/maintaining a service that we can leverage to benefit other Turing projects.
+> We also gain ourself a seat at the table in terms of involvement in decision-making regarding the roadmap of mybinder.org.
+> Internally, we can learn skills from an established community on large-scale project management and workflows for reproducible research that we can leverage to benefit other Turing projects.
 >
-> Since I am a core contributor to Project Binder, I can still support the sustainability of mybinder.org in terms of day-to-day operations of the Google cluster (which is also currently trying to find credits for the next year!).
+> Since Kirstie and I are core contributors to Project Binder, we can still support the sustainability of mybinder.org in terms of day-to-day operations of the Google cluster (which is also currently trying to find credits for the next year!) and leadership roles within the project.
 > However, I don't think that's as strong a show of support from the Turing as donating computational resources would be.
 >
 > I hope this helps answer your questions.
