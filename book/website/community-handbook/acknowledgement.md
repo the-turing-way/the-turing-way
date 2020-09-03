@@ -2,16 +2,10 @@
 # Acknowledging Contributors
 
 _The Turing Way_ is collaboratively developed by its diverse community of researchers, learners, educators, and other stakeholders.
-This project can simply not exist without the collaborative nature of this project and the willingness of our community members to work cooperatively in this book.
+This project can simply not exist without the collaborative nature of this project and the willingness of our community members to work cooperatively to create this book.
 
 Everyone has a skill that is useful for someone, and therefore anyone can contribute to _The Turing Way_.
 We value all kinds of contributions in this project and are committed to recognising each of them fairly.
-
-<!---
-| ![A sketch of Kirstie saying “That could be a chapter”](../figures/ThatCouldBeAChapter.png) |
-|----------|
-| “That could be a chapter” - Kirstie Whitaker, _The Turing Way_ project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3695300 |
---->
 
 ```{figure} ../figures/ThatCouldBeAChapter.png
 ---
@@ -19,7 +13,7 @@ height: 400px
 name: ThatCouldBeAChapter
 alt: A sketch of Kirstie saying “That could be a chapter”
 ---
-“That could be a chapter” - Kirstie Whitaker, _The Turing Way_ project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3695300
+"That could be a chapter" - Kirstie Whitaker, _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
 ```
 
 We recognise all kinds of contributions that are possible in this project.

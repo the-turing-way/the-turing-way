@@ -1,7 +1,7 @@
 (ch-acknowledgement-record)=
 # Record of Contributions
 
-Two documents in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way) are used for creating a record of contributions in _The Turing Way_: Contributors Table in the README file, and contributors.md file.
+Two documents in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way) are used for creating a record of contributions in _The Turing Way_: Contributors Table in the [`README`](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file, and [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file.
 This record is made available in the afterword of this book as {ref}`Contributors<aw-contributors-record-contributors>` and {ref}`Personal Highlights<aw-contributors-record-highlights>`.
 These documents can be used for highlighting skills that our members have gained and shared through their involvement in _The Turing Way_.
 
@@ -11,9 +11,9 @@ The process of developing this record is described below in detail.
 
 ## 1. Contributors Table
 
-The [Contributors](https://github.com/alan-turing-institute/the-turing-way#contributors) table in [README](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file is updated with every contributor's name using [all contributors bot](https://allcontributors.org/)'s [emoji keys](https://allcontributors.org/docs/en/emoji-key).
+The [Contributors](https://github.com/alan-turing-institute/the-turing-way#contributors) table in [`README`](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file is updated with every contributor's name using the [all contributors bot](https://allcontributors.org/)'s [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
-No contribution is too small, and these emoji keys allow us to recognise and fairly acknowledging all kinds of contributions our community members make to the project.
+No contribution is too small, and these emojis allow us to recognise and fairly acknowledging all kinds of contributions our community members make to the project.
 Those contributions can include (but are not limited to) bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
 Please see the subchapter {ref}`Acknowledgement Examples <ch-acknowledgement-examples>` for details.
 
@@ -23,7 +23,7 @@ Please see the subchapter {ref}`Acknowledgement Examples <ch-acknowledgement-exa
 
 ## 2. Contributors file
 
-The contributor's file, called [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) in the GitHub repository, will hold specific details provided by community members regarding their involvements in the project.
+The contributors file, called [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) in the GitHub repository, will hold specific details provided by community members regarding their involvements in the project.
 This will be referred to as `contributor's detail` in the rest of this document:
 
 > `Contributor's name`
@@ -44,8 +44,10 @@ Specifications for all types of contributions made towards _The Turing Way_ can 
 These highlights can be individually decided by the contributors to record what they consider to be their significant and useful for their personal profile.
 This can be supplemented with supporting materials such links to chapters, pull request, issues, and blog posts.
 
-This record can be directly translated towards the professional development of our community members, which can be further used for enhancing their personal or professional portfolio (profile, CV, resume) (see [contributors.md file](https://github.com/alan-turing-institute/the-turing-way/edit/acknowledging-contributors/contributors.md)).
-This will also help us capture the impact, _The Turing Way_ may have on its community members in terms of personal networking, professional development, skill sharing and other relevant activities.
+This record can be directly translated towards the professional development of our community members, which can be further used for enhancing their personal or professional portfolio (profile, CV, resume) (see the [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/edit/acknowledging-contributors/contributors.md) file).
+
+_The Turing Way_ was originally funded by a [Strategic Priority Fund](https://www.ukri.org/research/themes-and-programmes/strategic-priorities-fund/) investment to the Alan Turing Institute to support [AI For Science and Government](https://www.turing.ac.uk/research/asg).
+The personal highlights are very valuable for capturing the impact that _The Turing Way_ has for its community members in terms of personal networking, professional development, skill sharing and other relevant activities, and how they have made positive impacts around transparency, reproducibility and ethical collaboration in their organisation.
 
 ### Recording different types of contributions
 
@@ -76,7 +78,8 @@ Anyone who reviews a chapter is listed as reviewers and are acknowledged with ðŸ
 The contributor's file will be updated for the contributors with a similar statement as below:
 
 * Personal highlights:
-> I have reviewed the chapter `Chapter name`. I made other contributions to the chapter `other details like structuring and adding references`.
+> I have reviewed the chapter `Chapter name`.
+> I made other contributions to the chapter `other details like structuring and adding references`.
 
 #### Chapter contribution
 
@@ -87,7 +90,7 @@ The designing, writing, and reviewing of a chapter's content are acknowledged wi
 The contributor's file will be updated for the contributors with a similar statement as below:
 
 * Personal highlights:
-> I have designed and wrote a chapter on `chapter name` and `details on reviewing and structuring new content`.
+> I have designed and written a chapter on `chapter name` and `details on reviewing and structuring new content`.
 
 #### Translation
 
@@ -136,6 +139,7 @@ Each contributor who represents _The Turing Way_ at an event is acknowledged in 
 Their contributions will be listed in the contributor's file with a similar statement as below:
 
 * Personal highlights:
-> I have presented a talk at _The Turing Way_ at `event's name`. I have also `details like mentored multiple contributors within the community and have given talks at and event on behalf of the community`.
+> I have presented a talk at _The Turing Way_ at `event's name`.
+> I have also `details like mentored multiple contributors within the community and have given talks at and event on behalf of the community`.
 
 Please read personas and pathways for different contributions in the next subchapter.

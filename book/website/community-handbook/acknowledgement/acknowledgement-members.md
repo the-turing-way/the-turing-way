@@ -4,7 +4,6 @@ As a community-led project, we believe in and promote a collaborative approach t
 For example, writing _The Turing Way_ chapter is an iterative process that involves designing, outlining, writing, reviewing, and editing its contents.
 Similarly, community-oriented processes evolve over time with the help and feedback from the community members.
 
-
 ## Community members, contributors and co-authors
 
 Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member.
@@ -17,8 +16,9 @@ All the substantial contributors are also highlighted in the Contributors Table 
 As stated in our [Governance document](https://github.com/alan-turing-institute/the-turing-way/blob/master/GOVERNANCE.md), "substantial contribution" is a subjective term.
 Therefore, we have tried to add much detail as possible in the next subchapters through personas, contribution types and acknowledgements of those contributions including when a contributor is named as an author.
 
-Authors are listed in alphabetical order by last name. 
-The first author is always The Turing Way Community.
+Authors are listed in alphabetical order by last name.
+The first author is always **The Turing Way Community**.
+
 Authorship is cumulative.
 If you have been added as an author on one release, you will stay as an author on all future releases.
 
@@ -29,18 +29,19 @@ If these subchapters do not contain the contribution type that you are intereste
 As an open-source community, the project invites contributions from the experts and enthusiasts alike to collectively develop guidance, recommendations, and practical resources that can foster a gold-standard for reproducible research.
 
 _The Turing Way_ core team values and promotes a culture of collaboration.
-In contrast to the traditional incentive structure in academia, which often discourages open collaboration, public engagements in project advancement and sharing data early on, we promote collaborative work culture in _The Turing Way_.
+In contrast to the traditional incentive structure in academia, which often discourages open collaboration, public engagements in project advancement and sharing data early on, we promote a collaborative working culture in _The Turing Way_.
 
 We intentionally avoid individual authorship in favor of establishing shared ownership and agency in this project.
-This means that no single person or organisation owns the book or any of it's chapters.
+This means that no single person or organisation owns the book or any of its chapters.
 The book belongs to the community and the chapters are always considered 'work in progress' so that they can evolve over time with newer contributions.
 We encourage authors to actively involve others in reviewing their work, providing missing information and adding diverse examples, which are impossible to be written by a single person.
 
-Such collaborative efforts also lower the psychological barriers for the new contributors who can propose improvements in the book by editing, moving, and adapting its content as the book grows.
+We hope that such collaborative efforts lower the psychological barriers for the new contributors who can propose improvements in the book by editing, moving, and adapting its content as the book grows.
 
-Furthermore, with our commitment for fair acknowledgement in this project, we create opportunities to highlight the work of every contributor without trying to fit _The Turing Way_ into a traditional credit system.
+Furthermore, with our commitment to fair acknowledgement in this project, we create opportunities to highlight the work of every contributor without trying to fit _The Turing Way_ into a traditional credit system.
 
-This is also an opportunity for us to promote a culture change in research assessment system that recognises individual's contributions to open science like exchanging skills, sharing research components for reuse and offering other academic services (such as leading collaborative efforts, organising events, offering consulting, maintaining community resources, teaching and mentoring) for the benefit of the scientific communities.
+This is also an opportunity for us to promote a cultural change in the research assessment system to better recognise an individual's contributions to open science.
+These contributions include exchanging skills, sharing research components for reuse, and offering other academic services such as leading collaborative efforts, organising events, offering consulting, maintaining community resources, teaching and mentoring for the benefit of the broader scientific community.
 
 ## Highlight your contributions!
 
