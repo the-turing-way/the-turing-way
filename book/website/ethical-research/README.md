@@ -2,6 +2,8 @@
 
 We are people <Ismael, Laura, Sophia> currently developing the Ethical Research Chapter of The Turing Way and are super excited to have you here. 
 
+Laura is a PhD student at the University of Essex, UK. 
+
 ## Vision and Goal 
 Our Vision is to create a framework that supports an ethical research mindset and its practical application within a researcher-driven data science community. 
 The goal is to build a community (that's you!) that feels volitionally empowered to feed forward into the further development of these ethical science practices in a virtuous cycle. 
