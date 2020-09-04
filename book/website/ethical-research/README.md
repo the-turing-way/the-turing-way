@@ -3,6 +3,7 @@
 We are people <Ismael, Laura, Sophia> currently developing the Ethical Research Chapter of The Turing Way and are super excited to have you here. 
 
 Laura is a PhD student at the University of Essex, UK. 
+Ismael is Ethics Research Assistant at the Alan Turing Institute.
 
 ## Vision and Goal 
 Our Vision is to create a framework that supports an ethical research mindset and its practical application within a researcher-driven data science community. 
