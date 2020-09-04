@@ -2,7 +2,7 @@
 
 We are people <Ismael, Laura, Sophia> currently developing the Ethical Research Chapter of The Turing Way and are super excited to have you here. 
 
-Laura is a PhD student at the University of Essex, UK. 
+Laura is a PhD student in the Human Rights Centre at the University of Essex, UK. She is researching the human rights implications of the use of data-driven technologies in the UK public sector, focusing on gender stereotyping and gender discrimination. Her background is in human rights research and gender: you can read more about her here: https://lauracarter.github.io/.
 
 ## Vision and Goal 
 Our Vision is to create a framework that supports an ethical research mindset and its practical application within a researcher-driven data science community. 
