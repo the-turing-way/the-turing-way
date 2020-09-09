@@ -9,6 +9,7 @@ These principles are true for the review process beyond almost any other project
 If you're the reviewer, listen to what the coder is telling you in reply, and work collaboratively with them to make the code better.
 
 ### Avoid being subjective
+
 Code reviews should strive to be as objective as possible.
 Of course, subjective coding preferences may come up in any project.
 However, such preferences wherever possible should be decided at the project level beforehand.
@@ -17,6 +18,7 @@ Instead suggestions can be supported by pointing to documented preferences that 
 If you do come across undocumented preferences, discuss them with the team again and agree if you would like to add the preference to the checklist of your code review process.
 
 ### Specify crucial versus optional changes
+
 You might want to differentiate between changes that are crucial and changes that are nice to have.
 For example, comments that begin "You might..." could be used to express suggestions the reviewers want the coder to consider but are not essential.
 These can be particularly useful to guide inexperienced coders to write better code while not being too picky.
@@ -25,6 +27,7 @@ Reviewers could use comments that begin "You must..." to specify those that are 
 
 <a name="Keep_it_collaborative"></a>
 ### Keep it collaborative
+
 Unlike traditional, "academic-style" peer review, most code review systems have a number of advantages: they're rarely anonymous, they're public-facing, and without the middleman of an editor, contact between reviewer and reviewee can be direct and rapid.
 This means code review is typically a fast, flexible, and interactive process.
 Good peer review will be fully collaborative, where once a potential query has been flagged by a reviewer, the two involved parties can work forward together to find a solution.
@@ -32,11 +35,21 @@ It's also not atypical for third parties to chime in during the discussion threa
 This is all to the good.
 
 ### Review code in small chunks and quickly
+
 Reviewing code in small chunks incrementally as the project is developing can help make the code review process a lot more efficient.
 It is a lot more difficult to review an enormous codebase once significant mistakes have been introduced.
 If mistakes can be spotted early in the process, they are much easier to fix and this will help with the overall code development process.
 
+Here is some general advice on how to integrate code reviews into our working process:
+
+- Take the time, read carefully. Review everything, nothing is too short or simple.
+- Try to have something else to do, and spread the load throughout your
+working day. Don't review for more than an hour at a time, after that the success rate drops quite quickly.
+- Don't review more than 400 lines of code (LOC) at a time, less than 200
+LOC is better. Don't review more than 500 LOC/hour.
+
 ### Be okay with taking the discussion offline
+
 Sometimes, with more complex code reviews, online communication can lead to unproductive conversations.
 Setting up an in-person meeting can help to resolve some of the trickier issues in a more collaborative and friendly manner.
 

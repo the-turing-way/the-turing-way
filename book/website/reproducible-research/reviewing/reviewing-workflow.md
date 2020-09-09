@@ -17,14 +17,9 @@ Within the Github environment, projects can be configured to *require* a review 
 <a name="prepare_the_code"></a>
 ### Prepare the code
 
-Before requesting a review, be sure you've met all the obvious quality benchmarks for the project you are contributing to. This means making sure:
+Before requesting a review, be sure you've met all the obvious quality benchmarks for the project you are contributing to. This means making sure you have check the review list (see [checklist for the coder](/reviewing_checklists.md#for_the_coder)).
 
-- you have created [documentation](#Documentation) to the required standards of the project,
-- you have [tested](#Improvements_to_testing) your code to the required standards of the project,
-- your code is not causing the tests in the main project to fail (many [continuous integration](/continuous_integration/continuous_integration) systems will test this automatically for you once you create the PR), and
-- you believe your code meets the declared [style guide](../../code_quality/code_quality#code-style) for the project.
-
-A reviewer should check these things, but defects on these fronts should be by occasional oversight, rather than systematic.
+A reviewer should check these things (see [checklist for the reviewer](/reviewing_checklists.md#for_the_reviewer)), but defects on these fronts should be by occasional oversight, rather than systematic.
 
 <a name="create_discuss_change"></a>
 ### Create and discuss the review; make the changes
@@ -32,14 +27,27 @@ A reviewer should check these things, but defects on these fronts should be by o
 At this point, the review process can begin. In Github, the reviewer can provide both general comments as well as line-by-line comments.
 Each comment becomes its own comment thread, permitting back-and-forth discussion about each issue as required.
 This interaction should allow consensus to be reached on every comment.
-In most cases, the reviewer has final say if a consensus cannot be found.
+
+Once the review is complete, you can discuss any comments necessary. Then you make the changes, and record the changes made against appropriate comments. Also, you check that the reviewer knows you believe you have fully addressed the review.
+
+Once you believe changes are complete, the reviewer check that they do indeed address all of the initial comments. As needed, the reviewer engages constructively with you if they disagree on certain points in order to come to a consensus. In most cases, the reviewer has final say if a consensus cannot be found.
 
 Once post-review changes have been made to the code, make final updates the comments as needed to complete a history of what has been done and the reasoning behind it.
+
+#### Communicating results through GitHub
+
+If you are reviewing a pull request on Github, comments should be added in the `Files changed` section, so they can be attached to a particular line of code. Make many small comments this way, rather than a big ball of text with everything in it, so that different issues can be kept separate. Where relevant, refer to existing Issues and documentation.
+
+If you're reviewing existing code rather than changes, it is still handy to use pull requests. If you find an issue that has an obvious fix, you can submit a pull request with a patch in the usual way.
+
+If you don't have a fix, you can add an empty comment to the relevant line, and create a pull request from that as a patch. The relevant line(s) will then light up in the pull request's `Files changed` overview, and you can add your comments there. In this case, either the pull request is never merged (but the comments processed some other way, or not at all), or the extra comments are reverted and replaced by an agreed-upon fix.
+
+In all cases, file many small pull requests, not one big one, as GitHub's support for code reviews is rather limited. Putting too many issues into a single pull request quickly becomes unwieldy.
 
 <a name="make_the_merge"></a>
 ### Make the merge
 
-Once the review process is complete, the merge can occur.
+Once the review process is complete, the reviewer approves the changes, and the merge can occur.
 Individual projects typically have rules and/or guidelines for whether the coder or the reviewer actually presses the merge button, so check.
 In many cases, project workflows make completion of a review and its sign-off by the reviewer a formal precondition of performing the merge.
 For the avoidance of doubt, adopting this principle even for small or informal projects is probably sensible.
