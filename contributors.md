@@ -108,6 +108,22 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > While there are lots of fantastic resources out there they're often scattered and _The Turing Way_ can improve that.
 I also hope that it can convince people that don't consider themselves capable of being good programmers that there are steps they can take to drastically improve their coding.
 
+### Ismael Kherroubi Garcia
+
+* GitHub id: [Ismael-KG](https://github.com/Ismael-KG)
+* Short bio:
+> I'm Ethics Research Assistant at the Alan Turing Institute.
+I have a BSc in Business Management and Administration and am currently working towards an MSc in Philosophy of the Social Sciences.
+I am an associate member of the Chartered Institute of Personnel and Development (CIPD).
+
+* Personal highlights:
+> Since my undergraduate degree, I have worked in fintech and then in arts organisations within human resources teams, finally reachint the Alan Turing Institute and helping support the Ethics Advisory Group.
+> I think my highlight is that I've got a great background as a generalist!
+> I am currently really thrilled to be working alongside [Laura Carter](https://github.com/LauraCarter) and [Sophia Batchelor](https://github.com/BrainonSilicon) to build a community around the Guide for Ethical Research!
+
+* More information:
+> I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there!
+
 ### Louise Bowler
 
 * GitHub id: [LouiseABowler](http://github.com/LouiseABowler)
