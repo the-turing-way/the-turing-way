@@ -1,19 +1,23 @@
 (aw-contributors-record-highlights)=
 # Record of Contributions
 
-This document is a record of contributions that captures the important work _The Turing Way_ community members do around developing resources, writing chapters, reviewing contributions, answering questions, representing the project, developing and maintaining the infrastructure, and all other nurturing roles that make The Turing Way community so special.
+*The `contributors.md` file and the contributors table in the `README file` together form the record of contributions in _The Turing Way_.*
 
-Using [all contributors bot](https://allcontributors.org), we recognise the different types of contributions made to this project, which may include (but are not limited to) bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
-Please see the [community handbook](https://the-turing-way.netlify.app/community-handbook/acknowledgement) for details on how we can fairly acknowledge your work.
+Contributions to _The Turing Way_ may include, but are not limited to, bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
+Using [all contributors bot](https://allcontributors.org), we recognise all these contributions and attribute our community members fairly in the contributors table (see the [README file](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md#contributors)).
+Different contributions can mean different things to people and might translate differently towards their personal interest, skill development, value exchange and advancement of their career.
+Therefore, we also offer the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/contributors.md) file as a dedicated location to capture personal highlights of _The Turing Way_ community members.
+
+Please see the [community handbook](https://the-turing-way.netlify.app/community-handbook/acknowledgement) for details on how you can be fairly acknowledged for your work.
 
 ## Personal Highlights from _The Turing Way_ Contributors
 
-Please use this section to highlight your personal experience in _The Turing Way_.
+Please use this section to highlight your personal experiences in _The Turing Way_ project and community.
 You can also describe the impact _The Turing Way_ may have on you or your team members such as in promoting reproducible, ethical, collaborative and inclusive research practices.
 
 This record can be used in your personal or professional portfolio (profile, CV, resume) by describing features you have enhanced, goals you have accomplished, skills you gain, opportunities you receive, personal connections you make, individuals you support and values you create through your involvement in _The Turing Way_.
 
-See this post as an example by Kirstie Whitaker, the project lead:
+See this entry as an example by Kirstie Whitaker, the project lead:
 
 ### Kirstie Whitaker (Project lead)
 
@@ -74,7 +78,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > I care about reproducible research in R!
 > I learnt to code during my PhD in Marine Macroecology and was instantly hooked.
 > Building on past experience as a quality assurance auditor, my experiences made me interested in how we practice science and specifically how we can do more out of the real workhorses of modern research, our code and data.
-> Working in _The Turing Way_ is a fantastic opportunity to take stock of the great work that has already been done in this space, aggregate and distill it to templates, checklists and  best practices guidelines that are immediately useful to researchers.  
+> Working in _The Turing Way_ is a fantastic opportunity to take stock of the great work that has already been done in this space, aggregate and distill it to templates, checklists and  best practices guidelines that are immediately useful to researchers.
 > It’s an opportunity to set standards and harness the power of convention, especially with ECRs that have an opportunity to set up good practices from the start! Indeed, I hope the Turing Way will very much become the “Sheffield Way” too!
 
 ### Becky Arnold
@@ -97,6 +101,76 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > I've met so many people that want to code well and follow best practise, which will benefit science enormously, but struggle to know how to do so.
 > While there are lots of fantastic resources out there they're often scattered and _The Turing Way_ can improve that.
 I also hope that it can convince people that don't consider themselves capable of being good programmers that there are steps they can take to drastically improve their coding.
+
+### Camila Rangel Smith
+
+* GitHub id: [crangelsmith](https://github.com/crangelsmith)
+* ORCID id: [0000-0002-0227-836X](https://orcid.org/0000-0002-0227-836X)
+* Short bio:
+> I am a Research Data Scientist at The Alan Turing Institute. I hold a PhD in Particle Physics from Université Paris Diderot where I worked on the ATLAS experiment at the Large Hadron Collider at CERN.
+> During my PhD I participated on the discovery of the Higgs Boson particle announced by CERN in 2012.
+> I continued working on ATLAS as a postdoc with Uppsala University where I focused on searches for physics beyond the Standard Model of Particle Physics.
+> Right before joining the Turing, I worked as Data Scientist in the EdTech sector developing innovative products focused on the assessment process in education.
+> Currently I’m working in collaboration with researchers from the Global Systems Institute at University of Exeter called Data science for Sustainable Development.
+> In this project we are using remote sensing to monitor the resilience of patterned vegetation from semi-arid dryland ecosystems in the Sahel.
+
+* Personal highlights
+
+> I think The Turing Way is an excellent resource that can change the way science is done (I wish I had it when I started my PhD!).
+> Although the international language of science is English, I know for a fact that not everyone in places like Latin-American have the time and resources to learn it, so I think we must do everything we can to break those barriers and improve the accessibility of knowledge for everyone.
+> This is my motivation to translate the book to Spanish, and I hope that the Spanish version will be used as an important resource on the master course we are developing in  LA-CoNGA physics project.
+
+* More information
+
+> I’m from Venezuela, and although I have done most of my career in Europe I’ve been always keen to stay connected to the academic and scientific wold back in Latin-America.
+> I’m the co-founder of the CEVALE2VE project (http://www.cevale2ve.org/en/home/), which of a virtual learning community that aims to tackle the serious issue of brain-drain in some Latin-American countries by bringing back the knowledge in a digital/online platform.
+> More recently that project has become consolidated into LA-CoNGA physics (http://laconga.redclara.net/), an EU Erasmus+ funded project with a mission to create a Latin American and European Community for Advanced Physics.
+> In this project I’m helping to build a data science module that will be thought in an online master course.
+
+### Heidi Seibold
+
+* GitHub id: [HeidiSeibold](https://github.com/HeidiSeibold)
+* ORCID id: [0000-0002-8960-9642](https://orcid.org/0000-0002-8960-9642)
+* Short bio:
+> I am a medical AI researcher, research software engineer and open science expert at LMU Munich, Bielefeld University and the Helmholtz Zentrum Munich.
+I develop machine learning methods to figure out which patients react well to certain treatments and implements these methods in R.
+> My passion for open and reproducible research has led me to join the Turing Way community. I am involved in meta-research projects (research about research), I support, teach and contribute to open projects such as The Turing Way.
+> My work for the *Journal of Statistical Software* includes reproducibility checks. We only publish papers which are fully computationally reproducible. I also work on making our machine-learning software more user-friendly, reusable and extensible. Together with a PhD student I am thinking about how to
+use data from hospitals to help doctors and patients find the right treatment
+for each individual patient.
+
+* Personal highlights:
+
+> I work in data science and open and reproducible research are the things I think and
+care about the most. So to me it only made sense to get involved. Plus: the community seemed
+amazing!
+> To me The Turing Way is a role model when it comes to collaborative,
+distributed work. I learned so much just by participating in the book sprint
+and seeing how Malvika, Kirstie and everyone else contributed to providing an
+extremely welcoming and at the same time productive space. I took what
+I learned and tried to apply it in other contexts such as teaching. I will
+continue to do so.
+> The Turing Way also inspired me to think about new ways we could teach people
+about open and reproducible (data) science. I am currently thinking a lot about
+how we could use the content from The Turing Way and turn it into a course.
+This idea was also part of an application, where I proposed to start a new
+group on *Open AI*.
+> I regularly recommend The Turing Way as a resource. Both for learning more
+about reproducible data science and also when discussing specific topics.
+I think that people are taking it on and reading it :)
+
+* More information:
+> First, I would like to continue to help create content, review others content
+and be helpful in any way I can. Sometimes I like to look at really old issues
+and pull requests for example. Reviving such old, often almost finished bits,
+is very rewarding.
+> Apart from that I also have a bigger, long term idea for The Turing Way.
+I personally am not a huge fan of reading. So books are not my favorite way to
+learn.  In the past years I learned a lot by listening to others in talks,
+podcasts, videos, and of course conversations.  So for me it is only a natural
+next step for The Turing Way to become more than a book. It could be an
+ecosystem, with the book at its basis. And -- if we decide to go that route --
+I would like to be a part of it.
 
 ### Louise Bowler
 
