@@ -1,12 +1,13 @@
 # Record of Contributions
 
-Contributions to _The Turing Way_ may include, but are not limited to, bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
-Using [all contributors bot](https://allcontributors.org), we recognise all these contributions and attribute our contributors fairly in the contributors table (see the [README file](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md#contributors)).
-Different contributions can mean different things to our community members and might translate differently towards their personal growth, skill development, and advancement of their career.
-Therefore, we also offer this ([contributors.md](https://github.com/alan-turing-institute/the-turing-way/contributors.md)) file as a dedicated location to capture personal highlights of _The Turing Way_ community members.
+*The `contributors.md` file and the contributors table in the `README file` together form the record of contributions in _The Turing Way_.*
 
-The `contributors.md` file and the contributors table in the `README file` together form the record of contributions in _The Turing Way_.
-Please see the [community handbook](https://the-turing-way.netlify.app/community-handbook/acknowledgement) for details on how we can fairly acknowledge your work.
+Contributions to _The Turing Way_ may include, but are not limited to, bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
+Using [all contributors bot](https://allcontributors.org), we recognise all these contributions and attribute our community members fairly in the contributors table (see the [README file](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md#contributors)).
+Different contributions can mean different things to people and might translate differently towards their personal interest, skill development, value exchange and advancement of their career.
+Therefore, we also offer the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/contributors.md) file as a dedicated location to capture personal highlights of _The Turing Way_ community members.
+
+Please see the [community handbook](https://the-turing-way.netlify.app/community-handbook/acknowledgement) for details on how you can be fairly acknowledged for your work.
 
 ## Personal Highlights from _The Turing Way_ Contributors
 
