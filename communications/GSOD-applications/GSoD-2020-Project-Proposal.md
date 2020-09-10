@@ -91,7 +91,7 @@ I will maintain the accessibility and consistency of the project by supporting c
 
 I will focus on improving the accessibility of the material as it grows by adding an advanced filtering option to allow browsing its content by topics, relevance, or skill level by:
 
-i. Enhancing the user-friendliness of the online resource: The goal of The Turing Way is to transform data science practices to be more collaborative and inclusive. 
+i. Creating templates for authors that ensures the user-friendliness of online resource they build: The goal of The Turing Way is to transform data science practices to be more collaborative and inclusive. 
 This means the information in the book must be accessible to everyone across different skill levels, application domains, and personal characteristics including disabilities such as visual impairment. 
 The guidelines and templates I develop will ensure authors write accessible content from the start.
 Accessible web content can be read consistently from different digital platforms, can be optimized as per the user’s requirement, and is understood clearly by a broad range of readers. 
@@ -100,7 +100,7 @@ The images in the book will adapt to the screens of mobile devices.
 I will add keyboard navigation support to the book for people who find it hard to use the mouse trackpad and need to navigate the book using a keyboard. 
 These changes will help make the book accessible to a wider audience.
 
-ii. Providing advanced search capacity to present relevant information: Most users visit The Turing Way with a certain question related to data science in mind. 
+ii. Providing advanced search capacity to relevant information: Most users visit The Turing Way with a certain question related to data science in mind. 
 I will enhance the current search feature by developing a standardised vocabulary to support the quick discovery of desired content in the book. 
 This feature will facilitate grouping of related content, both in terms of the material that already exists and new content that will be written in the future. 
 The controlled vocabulary will be developed based on the criteria of how relatively popular a search topic or phrase is and how they relate to the different skill levels. 
