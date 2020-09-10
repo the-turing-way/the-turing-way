@@ -2,7 +2,6 @@
 
 - Title: Embedding accessibility in The Turing Way open source community guidance 
 - Mentors:  Malvika Sharan, Kirstie Whitaker
-- Applicant: Pooja Gadige
 
 ## Abstract
 
@@ -55,7 +54,7 @@ This will be an important work towards improving the user-friendliness of the on
 
 This section explains the project goals in detail, provides examples of tasks that each goal will involve and a description of the process that will be applied to achieve them.
 
-**1. Achieving retrospective consistency**
+### 1. Achieving retrospective consistency
 
 I will focus on improving the consistency of content that is already in The Turing Way in order to make the book accessible for readers from diverse backgrounds by:
 
@@ -71,7 +70,7 @@ For example, the previous version of JupyterBook supported HTML tags and a mix o
 Broken links for cross-referenced chapters or sections make navigating between pages in the book difficult. 
 I will use the new feature of unique labels to define headers and subheaders to make it easier for readers to access information that is available across The Turing Way chapters.
 
-**2. Contributing to future maintenance** 
+### 2. Contributing to future maintenance
 
 I will focus on maintaining consistency of content in The Turing Way in order to make contributions to the project more accessible for new community members.
 
@@ -88,7 +87,7 @@ These efforts have grown organically and are being led by different individuals 
 Their processes are not well documented making it difficult for new community members to join their work. 
 I will maintain the accessibility and consistency of the project by supporting core contributors to document their workflows and link to them from the main user documentation and style guide.
 
-**3. Improving the overall accessibility of the online book**
+### 3. Improving the overall accessibility of the online book
 
 I will focus on improving the accessibility of the material as it grows by adding an advanced filtering option to allow browsing its content by topics, relevance, or skill level by:
 
