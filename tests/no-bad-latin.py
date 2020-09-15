@@ -6,9 +6,9 @@ from pull_files import filter_files
 HERE = os.getcwd()
 ABSOLUTE_HERE = os.path.dirname(HERE)
 IGNORE_LIST = [
-    os.path.join(ABSOLUTE_HERE, "book/website/_config.yml"),
-    os.path.join(ABSOLUTE_HERE, "book/website/community-handbook/style.md"),
-    os.path.join(ABSOLUTE_HERE, "book/website/afterword/contributors-record.md")
+    os.path.join(ABSOLUTE_HERE, "book", "website", "_config.yml"),
+    os.path.join(ABSOLUTE_HERE, "book", "website", "community-handbook", "style.md"),
+    os.path.join(ABSOLUTE_HERE, "book", "website", "afterword", "contributors-record.md")
 ]
 
 
