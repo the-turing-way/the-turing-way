@@ -132,7 +132,7 @@ I also hope that it can convince people that don't consider themselves capable o
 * GitHub id: [HeidiSeibold](https://github.com/HeidiSeibold)
 * ORCID id: [0000-0002-8960-9642](https://orcid.org/0000-0002-8960-9642)
 * Short bio:
-> I am a medical AI researcher, research software engineer and open science expert at LMU Munich, Bielefeld University and the Helmholtz Zentrum Munich.
+> I lead a group on Open AI in Health at the Helmholtz Zentrum Munich.
 I develop machine learning methods to figure out which patients react well to certain treatments and implements these methods in R.
 > My passion for open and reproducible research has led me to join the Turing Way community. I am involved in meta-research projects (research about research), I support, teach and contribute to open projects such as The Turing Way.
 > My work for the *Journal of Statistical Software* includes reproducibility checks. We only publish papers which are fully computationally reproducible. I also work on making our machine-learning software more user-friendly, reusable and extensible. Together with a PhD student I am thinking about how to
