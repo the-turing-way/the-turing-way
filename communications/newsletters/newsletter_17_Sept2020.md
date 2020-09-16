@@ -7,7 +7,7 @@ Hello Turing Way friends!
 We hope you all are keeping well. Here's what you missed in August:
 
 - We published a chapter on Book Dash events in the [Community Handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html) (there will be another event coming in November 🗓)
-- co-authored the [acknowledgement chapter](the-turing-way.netlify.app/community-handbook/acknowledgement.html) on how The Turing Way supports and recognises contributors (Your feedback and suggestions are very welcome on all these resources. 🙌)
+- We released the [acknowledgement chapter](the-turing-way.netlify.app/community-handbook/acknowledgement.html) on how The Turing Way supports and recognises contributors (Your feedback and suggestions are very welcome on all these resources. 🙌)
 - The second cohort of Open Life Science will involve 12 members who are joining the [OLS-2 for Turing Collaboration](https://openlifesci.org/ols-2#collaborators) with 6 projects. Congratulations! 🎉
 - Esther Plomp represented _The Turing Way_ in two conferences by giving lightning talks. Thank you! 💐
 
