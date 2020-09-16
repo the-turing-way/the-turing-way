@@ -172,6 +172,22 @@ next step for The Turing Way to become more than a book. It could be an
 ecosystem, with the book at its basis. And -- if we decide to go that route --
 I would like to be a part of it.
 
+### Ismael Kherroubi Garcia
+
+* GitHub id: [Ismael-KG](https://github.com/Ismael-KG)
+* Short bio:
+> I'm Ethics Research Assistant at the Alan Turing Institute.
+I have a BSc in Business Management and Administration and am currently working towards an MSc in Philosophy of the Social Sciences.
+I am an associate member of the Chartered Institute of Personnel and Development (CIPD).
+
+* Personal highlights:
+> Since my undergraduate degree, I have worked in fintech and then in arts organisations within human resources teams, finally reachint the Alan Turing Institute and helping support the Ethics Advisory Group.
+> I think my highlight is that I've got a great background as a generalist!
+> I am currently really thrilled to be working alongside [Laura Carter](https://github.com/LauraCarter) and [Sophia Batchelor](https://github.com/BrainonSilicon) to build a community around the Guide for Ethical Research!
+
+* More information:
+> I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there!
+
 ### Louise Bowler
 
 * GitHub id: [LouiseABowler](http://github.com/LouiseABowler)
