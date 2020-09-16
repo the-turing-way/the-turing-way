@@ -6,7 +6,7 @@ Hello Turing Way friends!
 
 We hope you all are keeping well.
 
-Here’s what you missed this August while we took a break from hosting Collaboration Cafe and newsletter - we wrote about how we host our [Collaboration Cafes](https://the-turing-way.netlify.app/community-handbook/coworking.html) and draft these [Newsletters](https://the-turing-way.netlify.app/community-handbook/newsletters.html). 😊
+Here’s what you missed this August while we took a break from hosting Collaboration Cafe and sending our newsletter - we wrote about how we host our [Collaboration Cafes](https://the-turing-way.netlify.app/community-handbook/coworking.html) and create our [Newsletters](https://the-turing-way.netlify.app/community-handbook/newsletters.html). 😊
 
 We also published a chapter on [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) events and planned to host the next one online from 9 to 13 November 2020. Save the dates! 🗓
 
@@ -112,10 +112,6 @@ Read the abstract [here](https://github.com/elixir-europe/BioHackathon-projects-
 Hosted by [ELIXIR-EU](https://elixir-europe.org/), BioHackathon is a great opportunity for researchers to work together on different projects and exchange current practices in bioinformatics.
 You can [register by 18 September 2020](https://www.biohackathon-europe.org/registration.html) and join the core team members to work on _The Turing Way_ and/or other projects.
 
-
-![Screenshot of a tweet by Malvika, subtweeting ELIXIR’s tweet about the BioHackathon-EU](images/Tweet-elixir-Sep2020.png)
-*_The Turing Way_ is participating at the Biohackathon-EU this year (see [ELIXIR’s Tweet](https://twitter.com/MalvikaSharan/status/1305580111127871489?s=20))*
-
 ### Book Dash event in November
 
 The next Book Dash will be hosted in November in parallel to the BioHackathon from 9 to 13 November 2020.
@@ -124,9 +120,6 @@ The call for application will be opened soon.
 Look out for notifications on Slack, Twitter and the mailing list in a couple of weeks (links at the end of this newsletter).
 
 Meanwhile, you can read the report from our last Book Dash events [on GitHub](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash).
-
-![Group picture from the last book dash](https://github.com/alan-turing-institute/the-turing-way/raw/master/workshops/book-dash/figures/book-dash-feb20-group.jpg)
-*A group picture of the participants from our last Book Dash that was organised in February 2020*
 
 ### Talks and videos from previous events
 
@@ -161,18 +154,22 @@ If you would like to represent the project in your network, please open an [issu
 [Git or Perish](https://blogs.egu.eu/divisions/sm/2020/08/25/git-or-perish/), Tsekhmistrenko M.. August 25, 2020, The European Geosciences Union (EGU) blogs 
 ## Acknowledgements and celebrations
 
+![Screenshot of a tweet by The Turing Way account, celebrating its 1000th follower](images/Tweet-1000-Sep2020.png)
+*[Subtweeting](https://twitter.com/turingway/status/1302955528738484224?s=20) a [tweet by Dr. Andrew Robinson](https://twitter.com/AndrewR_Physics/status/1302953236056420353?s=20), our 1000th follower on Twitter!*
+
 ### Our community is growing, and we thank you for that!
 
 Thank you for engaging with the project formally and informally on Twitter, Slack and Gitter channels.
 We are grateful to be able to create a collaborative platform where each of your contributions makes a huge difference in sharing best practices for reproducible, ethical and inclusive research more widely.
 A massive thank you for your support towards this project and the members of this growing community.
 
-![SCreenshot of a tweet by The Turing Way account, celebrating its 1000th follower](images/Tweet-1000-Sep2020.png)
-*[Subtweeting](https://twitter.com/turingway/status/1302955528738484224?s=20) a [tweet by Dr. Andrew Robinson](https://twitter.com/AndrewR_Physics/status/1302953236056420353?s=20), our 1000th follower on Twitter!*
-
 ### Online mentions
 
-[Yasemin Turkyilmaz’s Tweet](https://twitter.com/YaseminTurkyilm/status/1305476188379525121?s=20) about her recent publication, 2. [Jez Cope’s Tweet](https://twitter.com/jezcope/status/1301471507785408514?s=20) about his mentoring role for one of the teams leading an OLS project under OLS-2 for Turing, 3. [Arielle Bennett’s Tweet](https://twitter.com/biotechchat/status/1298940206071119873?s=20) about her participation at our last book dash, 4. [Sarah Gibson subtweeting](https://twitter.com/drsarahlgibson/status/1293640024727191552?s=20) Chris Holdgraf who announced the release of a new version of JupyterBook.
+![4 tweets from last weeks, details for which are given in the image description below](images/Tweet-collage-Sep2020.png)
+**1.** [Yasemin Turkyilmaz’s Tweet](https://twitter.com/YaseminTurkyilm/status/1305476188379525121?s=20) about her recent publication.
+**2.** [Jez Cope’s Tweet](https://twitter.com/jezcope/status/1301471507785408514?s=20) about his mentoring role for one of the teams leading an OLS project under OLS-2 for Turing.
+**3.** [Arielle Bennett’s Tweet](https://twitter.com/biotechchat/status/1298940206071119873?s=20) about her participation at our last book dash.
+**4.** [Sarah Gibson subtweeting](https://twitter.com/drsarahlgibson/status/1293640024727191552?s=20) Chris Holdgraf who announced the release of a new version of JupyterBook.
 
 ## Connect with us!
 
