@@ -11,7 +11,7 @@ We hope you all are keeping well. Here's what you missed in August:
 - The second cohort of Open Life Science started with 13 members joining the [OLS-2 for Turing Collaboration](https://openlifesci.org/ols-2#collaborators) with 6 projects. Congratulations! 🎉
 - Esther Plomp represented _The Turing Way_ in two conferences by giving lightning talks. Thank you! 💐
 
-More details on these can be found below the Community Meetings section 👇 
+More details on these can be found below the details on Community Meetings👇 
 
 ## Community meetings
 
@@ -21,15 +21,16 @@ This month we resumed hosting our [Collaboration Café](https://the-turing-way.n
 We will continue hosting these calls on the first and third Wednesdays of each month, details for which are provided below.
 Please sign up to let the core team know that you will join: [https://hackmd.io/@KirstieJane/CollabCafe](https://hackmd.io/@KirstieJane/CollabCafe).
 
-Dates for the upcoming Collaboration Cafés:
+Dates and time for the upcoming Collaboration Cafés:
 - 16 September: 15:00 - 17:00 BST ([see in your time zone](https://arewemeetingyet.com/London/2020-09-16/15:00/TheTuringWay-CollaborationCafe#eyJ1cmwiOiJodHRwczovL2hhY2ttZC5pby9AS2lyc3RpZUphbmUvQ29sbGFiQ2FmZSJ9))
 - 07 October: 15:00 - 17:00 BST ([see in your time zone]())
 
 ### Coworking calls
 
 Since April 2020 we have been hosting the community [coworking calls](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html) where anyone from the community can join the [Pomodoro sessions](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-motivation.html#pomodoro-technique) and discuss their work with the core team members.
-For the rest of this year, we will be hosting these coworking calls on Monday and Thursday each week at 11:00 - 12:00 BST ([time for the next meeting in your time zone](https://arewemeetingyet.com/London/2020-09-17/11:00)). 
+For the rest of this year, we will be hosting these coworking calls each week on Monday and Thursday at 11:00 - 12:00 BST ([time for the next meeting in your time zone](https://arewemeetingyet.com/London/2020-09-17/11:00)). 
 Sign up on this HackMD [https://hackmd.io/@malvikasharan/TW-coworking](https://hackmd.io/@malvikasharan/TW-coworking).
+
 Dates for the upcoming Coworking calls:
   - Dates in September 2020: 17th, 21st, 24th and 28th
   - Dates in October 2020: 1st, 5th, 8th, 12th, and 15th
@@ -78,10 +79,11 @@ Read more details about these and the other 27 projects in [this blog post](http
 
 _The Turing Way_’s application has been accepted to involve a technical writer during this year’s [Google Seasons of Doc](https://developers.google.com/season-of-docs/docs/participants).
 You can read the [full proposal here](https://developers.google.com/season-of-docs/docs/participants/project-incf-pgadige).
-Under this proposal we have set three major technical writing goals: 
+In this proposal we have set three major technical writing goals: 
 1. Retrospective consistency across the entire book to create a coherent feel and style. 
 2. Contributing to future maintenance by developing user documentation and guiding resources to support its contributors and maintainers. 
 3. Improving the overall accessibility of the online book to improve access to information and its user-friendliness.
+
 We will be looking into ways to collaborate with our community members in achieving these goals as our technical writer develops and leads initiatives within _The Turing Way_.
 
 ## Contributor in focus: Ismael Kherroubi Garcia
@@ -116,9 +118,9 @@ If you would like to represent the project in your network, please open an [issu
 
 - [Low availability of code in ecology: A call for urgent action](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7386629/). Culina, A., van den Berg, I., Evans, S., & Sánchez-Tójar, A. (2020). PLoS biology, 18(7), e3000763. https://doi.org/10.1371/journal.pbio.3000763
 - [Reproducibility Starts from You Today](https://www.sciencedirect.com/science/article/pii/S2666389920301331), Turkyilmaz-van der Velden, Y., Dintzner, N., Teperek, M. (2020), Patterns Volume 1, Issue 6, 100099, https://doi.org/10.1016/j.patter.2020.100099
+- [Git or Perish](https://blogs.egu.eu/divisions/sm/2020/08/25/git-or-perish/), Tsekhmistrenko M. August 25, 2020, The European Geosciences Union (EGU) blogs 
 - [Challenging power in data science](https://www.turing.ac.uk/blog/challenging-power-data-science), Kherroubi Garcia, I. 2020, The Alan Turing Institute
 - [Simulation Replication Challenge](https://www.replisims.org/), Lohmann, A., Groenwold, G., Luijken, K. (2020), https://github.com/replisims
-- [Git or Perish](https://blogs.egu.eu/divisions/sm/2020/08/25/git-or-perish/), Tsekhmistrenko M.. August 25, 2020, The European Geosciences Union (EGU) blogs 
 
 ## Upcoming and past events
 
@@ -147,7 +149,7 @@ Thanks to Esther Plomp for presenting two lightning talks in August 2020 about _
 Both the presentations are available on Zenodo ([https://zenodo.org/record/3968454](https://zenodo.org/record/3968454) and [https://zenodo.org/record/3979179](https://zenodo.org/record/3979179)) under CC-BY license for reuse.
 
 I (Malvika Sharan, Community Manager of _The Turing Way_) participated in three different panels Last month. 
-The Open Science Seminar at EANBiT Virtual Training 2020 was organised by Caleb Kibet, a bioinformatics researcher from Kenya and a Mozilla fellow, where I talked about [sharing and learning research skills collaboratively](https://zenodo.org/record/3968440) ([watch the entire seminar](https://www.youtube.com/watch?v=8Hu9g3PmFvA)).
+The Open Science Seminar at EANBiT Virtual Training 2020 was organised by Caleb Kibet, a bioinformatics researcher from Kenya and a Mozilla fellow, where I talked about [sharing and learning research skills collaboratively](https://zenodo.org/record/3968440).
 At the MIT Experiential Ethics Class 2020, I presented [ _The Turing Way_ guide for Ethical Research](https://zenodo.org/record/3968454).
 At the EuroScience Forum 2020, I joined the DORA panel to discuss [challenges in assessing contributions to reproducible research and Open Science](https://zenodo.org/record/4013300).
 
@@ -170,7 +172,7 @@ A massive thank you for your support towards this project and the members of thi
 **3.** [Arielle Bennett’s Tweet](https://twitter.com/biotechchat/status/1298940206071119873?s=20) about her participation at our last book dash.
 **4.** [Sarah Gibson subtweeting](https://twitter.com/drsarahlgibson/status/1293640024727191552?s=20) Chris Holdgraf who announced the release of a new version of JupyterBook.
 
-***Thank you Sophia Batchelor and Ismael K.G. for reviewing this month's newsletter!***
+***Thank you Sophia Batchelor and Ismael K.G. for reviewing this month's newsletter!*** 👏
 
 ## Connect with us!
 
