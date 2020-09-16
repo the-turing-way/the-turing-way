@@ -1,6 +1,6 @@
 The Turing Way Newsletter: 16 September 2020
 
-# We are back with Collaboration Cafés this month and are thrilled to introduce our process of acknowledging all your contributions to The Turing Way!
+# We are back with our coworking calls and welcome you to read the contributor acknowledgment processes
 
 Hello Turing Way friends!
 
