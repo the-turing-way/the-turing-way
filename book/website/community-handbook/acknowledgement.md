@@ -13,7 +13,7 @@ height: 400px
 name: ThatCouldBeAChapter
 alt: A sketch of Kirstie saying “That could be a chapter”
 ---
-"That could be a chapter" - Kirstie Whitaker, _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
+"That could be a chapter in The Turing Way!" - Kirstie Whitaker, _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
 ```
 
 We recognise all kinds of contributions that are possible in this project.
