@@ -6,39 +6,37 @@ Hello Turing Way friends!
 
 We hope you all are keeping well.
 
-Here’s what you missed this August while we took a break from hosting Collaboration Cafe and sending our newsletter - we wrote about how we host our [Collaboration Cafes](https://the-turing-way.netlify.app/community-handbook/coworking.html) and create our [Newsletters](https://the-turing-way.netlify.app/community-handbook/newsletters.html). 😊
+Here's what you missed in August:
 
-We also published a chapter on [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) events and planned to host the next one online from 9 to 13 November 2020. Save the dates! 🗓
+- We published a chapter on Book Dash events in the [Community Handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html) (there will be another event coming in November 🗓)
+- co-authored the [acknowledgement chapter](the-turing-way.netlify.app/community-handbook/acknowledgement.html) on how The Turing Way supports and recognises contributors (Your feedback and suggestions are very welcome on all these resources. 🙌)
+- The second cohort of Open Life Science started with 13 members joining the [OLS-2 for Turing Collaboration](https://openlifesci.org/ols-2#collaborators) with 6 projects. Congratulations! 🎉
+- Esther Plomp represented _The Turing Way_ in two conferences by giving lightning talks. Thank you! 💐
 
-We have also co-authored the [https://the-turing-way.netlify.app/community-handbook/acknowledgement.html) chapter that describes how we can recognise all the contributions you make in the projects and the community.
-Your feedback and suggestions are very welcome on all these resources. 🙌
-
-13 members joined the second cohort of [Open Life Science](https://openlifesci.org/ols-2) under [OLS-2 for Turing](https://openlifesci.org/ols-2#collaborators) Collaboration with 6 projects - Congratulations! 🎉
-
-Esther Plomp represented _The Turing Way_ in two conferences by giving lightning talks. Thank you! 💐
-
-Find more details on these topics below 👇
+More details on these can be found below the Community Meetings section 👇 
 
 ## Community meetings
 
-### Collaboration Cafes
+### Collaboration Cafés
 
-This month we resumed hosting our [Collaboration Cafe](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html) on 2 September 2020.
+This month we resumed hosting our [Collaboration Café](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html) on 2 September 2020.
 We will continue hosting these calls on the first and third Wednesdays of each month, details for which are provided below.
 Please sign up to let the core team know that you will join: [https://hackmd.io/@KirstieJane/CollabCafe](https://hackmd.io/@KirstieJane/CollabCafe).
 
-Dates for the upcoming Collaboration Cafes:
-- 16 Sept (Collaboration Cafe): 15:00 - 17:00 BST ([see in your time zone](https://arewemeetingyet.com/London/2020-09-16/15:00/TheTuringWay-CollaborationCafe#eyJ1cmwiOiJodHRwczovL2hhY2ttZC5pby9AS2lyc3RpZUphbmUvQ29sbGFiQ2FmZSJ9))
-- 07 Oct (Collaboration Cafe): 15:00 - 17:00 BST ([see in your time zone]())
+Dates for the upcoming Collaboration Cafés:
+- 16 September: 15:00 - 17:00 BST ([see in your time zone](https://arewemeetingyet.com/London/2020-09-16/15:00/TheTuringWay-CollaborationCafe#eyJ1cmwiOiJodHRwczovL2hhY2ttZC5pby9AS2lyc3RpZUphbmUvQ29sbGFiQ2FmZSJ9))
+- 07 October: 15:00 - 17:00 BST ([see in your time zone]())
 
 ### Coworking calls
 
-Since April 2020 we have been hosting the community [coworking calls](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html) where anyone from the community can join the [Pomodoro sessions]() and discuss their work with the core team members.
-For the rest of this year, we will be hosting these coworking calls on Monday and Thursday each week at 11:00 - 12:00 BST ([time for the next meeting in your time zone](https://arewemeetingyet.com/London/2020-09-17/11:00)
+Since April 2020 we have been hosting the community [coworking calls](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html) where anyone from the community can join the [Pomodoro sessions](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-motivation.html#pomodoro-technique) and discuss their work with the core team members.
+For the rest of this year, we will be hosting these coworking calls on Monday and Thursday each week at 11:00 - 12:00 BST ([time for the next meeting in your time zone](https://arewemeetingyet.com/London/2020-09-17/11:00)). 
+Sign up on this HackMD [https://hackmd.io/@malvikasharan/TW-coworking](https://hackmd.io/@malvikasharan/TW-coworking).
 Dates for the upcoming Coworking calls:
   - Dates in September 2020: 17th, 21st, 24th and 28th
   - Dates in October 2020: 1st, 5th, 8th, 12th, and 15th
-- Additional time compatible for Latin American Time Zones:
+
+Additional time compatible for Latin American Time Zones, which are co-hosted with [Laura Acion](https://twitter.com/_lacion_):
   - Dates in September 2020: 23rd
   - Dates in October 2020: 14th
 
@@ -68,7 +66,7 @@ Though written for _The Turing Way_ community, these resources will be useful fo
 ### 6 projects to be mentored and trained in Open Life Science
 
 13 members from _The Turing Way_ and The Alan Turing Institute have joined the second cohort of Open Life Science with [6 projects](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring#ols-2-for-turing-projects) under the collaboration [OLS-2 for Turing](https://openlifesci.org/ols-2#collaborators).
-Congratulations [Sophia Batchelor](https://openlifesci.org/ols-2/projects-participants/#BrainonSilicon), [Ismael Kherroubi Garcia](https://openlifesci.org/ols-2/projects-participants/#Ismael-KG), [Laura Carter](https://openlifesci.org/ols-2/projects-participants/#LauraCarter), [Markus Löning](https://openlifesci.org/ols-2/projects-participants/#mloning), [Camila Rangel Smith](https://openlifesci.org/ols-2/projects-participants/#crangelsmith), [David Beavan](https://openlifesci.org/ols-2/projects-participants/#DavidBeavan), [Samuel van Stroud](https://openlifesci.org/ols-2/projects-participants/#samvanstroud), [Kevin Xu](https://openlifesci.org/ols-2/projects-participants/#Kevinxufs), [Neha Moopen](https://openlifesci.org/ols-2/projects-participants/#NehaMoopen), [Kate Simpson](https://openlifesci.org/ols-2/projects-participants/#KateSimpson), [Georgia Aitkenhead](https://openlifesci.org/ols-2/projects-participants/#GeorgiaHCA) and [Katharina Kloppenborg](Aitkenhead](https://openlifesci.org/ols-2/projects-participants/#katoss). 
+Congratulations [Sophia Batchelor](https://openlifesci.org/ols-2/projects-participants/#BrainonSilicon), [Ismael Kherroubi Garcia](https://openlifesci.org/ols-2/projects-participants/#Ismael-KG), [Laura Carter](https://openlifesci.org/ols-2/projects-participants/#LauraCarter), [Markus Löning](https://openlifesci.org/ols-2/projects-participants/#mloning), [Camila Rangel Smith](https://openlifesci.org/ols-2/projects-participants/#crangelsmith), [David Beavan](https://openlifesci.org/ols-2/projects-participants/#DavidBeavan), [Samuel van Stroud](https://openlifesci.org/ols-2/projects-participants/#samvanstroud), [Kevin Xu](https://openlifesci.org/ols-2/projects-participants/#Kevinxufs), [Neha Moopen](https://openlifesci.org/ols-2/projects-participants/#NehaMoopen), [Kate Simpson](https://openlifesci.org/ols-2/projects-participants/#KateSimpson), [Georgia Aitkenhead](https://openlifesci.org/ols-2/projects-participants/#GeorgiaHCA) and [Katharina Kloppenborg](https://openlifesci.org/ols-2/projects-participants/#katoss). 
 They will be mentored by [Jez Cope](https://openlifesci.org/ols-2#jezcope), [Anjali Mazumdar](https://openlifesci.org/ols-2#anjali-mazumder), [Martina Vilas](https://openlifesci.org/ols-2#martinagvilas), [Yo Yehudi](https://openlifesci.org/ols-2#yochannah), [Samuel Guay](https://openlifesci.org/ols-2#SamGuay), [Arielle Bennett](https://openlifesci.org/ols-2#ArielleBL) and [Anelda van der Walt](https://openlifesci.org/ols-2#anelda).
 Two more mentors [Sarah Gibson](https://openlifesci.org/ols-2#sgibson91) and [Markus Löning](https://openlifesci.org/ols-2#mloning) will mentor 1 project each in the program.
 Read more details about these and the other 27 projects in [this blog post](https://openlifesci.org/posts/2020/09/01/ols2-announcement/).
@@ -103,6 +101,27 @@ In his words:
 ![Screenshot of a tweet by Ismael](images/Tweet-Ismael-Sep2020.png)
 [Ismael’s Tweet](https://twitter.com/IsmaelKherGar/status/1297953105183735814?s=20) inviting feedback and collaboration on developing chapters in the guide for Ethical Research.
 
+## Relevant resources
+
+![The promotional slide for _The Turing Way_](images/turingway-singleslide-Sep2020.png)
+*The Turing Way is a book, an open source project and a community that promotes a culture of collaboration*
+
+### Promotion pack for representing _The Turing Way_
+
+We would LOVE for anyone from our community, our past or present contributors to give talks about the project or represent The Turing Way in other ways! 
+We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) for you to reuse, remix and adapt for your use.
+Links to all the presentations along with the abstracts are stored on our GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/conferences).
+We have also created a list of [frequently asked questions](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/promotion-pack/faqs.md) to complement the presentation materials.
+If you would like to represent the project in your network, please open an [issue on GitHub](https://github.com/alan-turing-institute/the-turing-way/issues) and connect with core team members to receive any support that will help you in preparing for your event.
+
+### Articles and blogs
+
+- [Low availability of code in ecology: A call for urgent action](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7386629/). Culina, A., van den Berg, I., Evans, S., & Sánchez-Tójar, A. (2020). PLoS biology, 18(7), e3000763. https://doi.org/10.1371/journal.pbio.3000763
+- [Reproducibility Starts from You Today](https://www.sciencedirect.com/science/article/pii/S2666389920301331), Turkyilmaz-van der Velden, Y., Dintzner, N., Teperek, M. (2020), Patterns Volume 1, Issue 6, 100099, https://doi.org/10.1016/j.patter.2020.100099
+- [Challenging power in data science](https://www.turing.ac.uk/blog/challenging-power-data-science), Kherroubi Garcia, I. 2020, The Alan Turing Institute
+- [Simulation Replication Challenge](https://www.replisims.org/), Lohmann, A., Groenwold, G., Luijken, K. (2020), https://github.com/replisims
+- [Git or Perish](https://blogs.egu.eu/divisions/sm/2020/08/25/git-or-perish/), Tsekhmistrenko M.. August 25, 2020, The European Geosciences Union (EGU) blogs 
+
 ## Upcoming and past events
 
 ### BioHackathon-EU in November
@@ -130,28 +149,10 @@ Thanks to Esther Plomp for presenting two lightning talks in August 2020 about _
 Both the presentations are available on Zenodo ([https://zenodo.org/record/3968454](https://zenodo.org/record/3968454) and [https://zenodo.org/record/3979179](https://zenodo.org/record/3979179)) under CC-BY license for reuse.
 
 I (Malvika Sharan, Community Manager of _The Turing Way_) participated in three different panels Last month. 
-The Open Science Seminar at EANBiT Virtual Training 2020 was organised by Caleb Kibet, a bioinformatics researcher from Kenya and a Mozilla fellow, where I talked about sharing and learning research skills collaboratively](https://zenodo.org/record/3968440) ([watch the entire seminar](https://www.youtube.com/watch?v=8Hu9g3PmFvA)).
+The Open Science Seminar at EANBiT Virtual Training 2020 was organised by Caleb Kibet, a bioinformatics researcher from Kenya and a Mozilla fellow, where I talked about [sharing and learning research skills collaboratively](https://zenodo.org/record/3968440) ([watch the entire seminar](https://www.youtube.com/watch?v=8Hu9g3PmFvA)).
 At the MIT Experiential Ethics Class 2020, I presented [ _The Turing Way_ guide for Ethical Research](https://zenodo.org/record/3968454).
 At the EuroScience Forum 2020, I joined the DORA panel to discuss [challenges in assessing contributions to reproducible research and Open Science](https://zenodo.org/record/4013300).
 
-## Relevant resources
-
-![The promotional slide for _The Turing Way_](images/turingway-singleslide-Sep2020.png)
-*The Turing Way is a book, an open source project and a community that promotes a culture of collaboration*
-
-### Promotion pack for representing _The Turing Way_
-
-We would LOVE for anyone from our community, our past or present contributors to give talks about the project or represent The Turing Way in other ways! 
-We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) for you to reuse, remix and adapt for your use.
-Links to all the presentations along with the abstracts are stored on our GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/conferences).
-We have also created a list of [frequently asked questions](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/promotion-pack/faqs.md) to complement the presentation materials.
-If you would like to represent the project in your network, please open an [issue on GitHub](https://github.com/alan-turing-institute/the-turing-way/issues) and connect with core team members to receive any support that will help you in preparing for your event.
-### Articles and blogs
-[Low availability of code in ecology: A call for urgent action](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7386629/). Culina, A., van den Berg, I., Evans, S., & Sánchez-Tójar, A. (2020). PLoS biology, 18(7), e3000763. https://doi.org/10.1371/journal.pbio.3000763
-[Reproducibility Starts from You Today](https://www.sciencedirect.com/science/article/pii/S2666389920301331), Turkyilmaz-van der Velden, Y., Dintzner, N., Teperek, M. (2020), Patterns Volume 1, Issue 6, 100099, https://doi.org/10.1016/j.patter.2020.100099
-[Challenging power in data science](https://www.turing.ac.uk/blog/challenging-power-data-science), Kherroubi Garcia, I. 2020, The Alan Turing Institute
-[Simulation Replication Challenge](https://www.replisims.org/), Lohmann, A., Groenwold, G., Luijken, K. (2020), https://github.com/replisims
-[Git or Perish](https://blogs.egu.eu/divisions/sm/2020/08/25/git-or-perish/), Tsekhmistrenko M.. August 25, 2020, The European Geosciences Union (EGU) blogs 
 ## Acknowledgements and celebrations
 
 ![Screenshot of a tweet by The Turing Way account, celebrating its 1000th follower](images/Tweet-1000-Sep2020.png)
@@ -170,6 +171,8 @@ A massive thank you for your support towards this project and the members of thi
 **2.** [Jez Cope’s Tweet](https://twitter.com/jezcope/status/1301471507785408514?s=20) about his mentoring role for one of the teams leading an OLS project under OLS-2 for Turing.
 **3.** [Arielle Bennett’s Tweet](https://twitter.com/biotechchat/status/1298940206071119873?s=20) about her participation at our last book dash.
 **4.** [Sarah Gibson subtweeting](https://twitter.com/drsarahlgibson/status/1293640024727191552?s=20) Chris Holdgraf who announced the release of a new version of JupyterBook.
+
+***Thank you Sophia Batchelor and Ismael K.G. for reviewing this month's newsletter!***
 
 ## Connect with us!
 
