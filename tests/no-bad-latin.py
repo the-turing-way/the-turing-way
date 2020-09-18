@@ -5,11 +5,7 @@ from pull_files import filter_files
 
 HERE = os.getcwd()
 ABSOLUTE_HERE = os.path.dirname(HERE)
-IGNORE_LIST = [
-    os.path.join(ABSOLUTE_HERE, "book/website/_config.yml"),
-    os.path.join(ABSOLUTE_HERE, "book/website/community-handbook/style.md"),
-    os.path.join(ABSOLUTE_HERE, "book/website/afterword/contributors-record.md")
-]
+IGNORE_LIST = [ "_config.yml", "style.md", "contributors-record.md"]
 
 
 def parse_args():
@@ -93,7 +89,7 @@ def read_and_check_files(files):
     bad_latin = ["i.e.", "e.g.", "e.t.c.", " etc", " ie ", "et cetera"]
 
     for filename in files:
-        if filename in IGNORE_LIST:
+        if os.path.basename(filename) in IGNORE_LIST:
             pass
         else:
             try:
