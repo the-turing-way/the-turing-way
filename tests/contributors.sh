@@ -3,7 +3,7 @@
 # this will publish the contributors file online in The Turing Way book
 all_contributors='../../README.md' # Path to the main README file of The Turing Way
 contributor_highlights='../../contributors.md'
-contributor_record='afterword/contributors-record.md'
+contributor_records='../book/website/afterword/contributor-records.md'
 
 # Copy everything from the contributors highlight
 echo '(aw-contributors-record-highlights)=' > $contributor_record
