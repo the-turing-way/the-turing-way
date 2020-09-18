@@ -3,8 +3,8 @@ import re
 import argparse
 from pull_files import filter_files
 
-# HERE = os.getcwd()
-#ABSOLUTE_HERE = os.path.dirname(HERE)
+HERE = os.getcwd()
+ABSOLUTE_HERE = os.path.dirname(HERE)
 IGNORE_LIST = [ "_config.yml", "style.md", "contributors-record.md"]
 
 
