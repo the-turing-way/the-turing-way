@@ -278,15 +278,15 @@
       file: community-handbook/style/style-crossref
     - title: Using Figures
       file: community-handbook/style/style-figures
-  # - title: Acknowledging Contributors
-  #   file: community-handbook/acknowledgement
-  #   sections:
-  #   - title: Community Members and Shared Ownership
-  #     file: community-handbook/acknowledgement/acknowledgement-members
-  #   - title: Record of Contributions
-  #     file: community-handbook/acknowledgement/acknowledgement-record
-  #   - title: Different Contributions and Acknowledgements
-  #     file: community-handbook/acknowledgement/acknowledgement-examples
+    - title: Acknowledging Contributors
+      file: community-handbook/acknowledgement
+      sections:
+      - title: Community Members and Shared Ownership
+        file: community-handbook/acknowledgement/acknowledgement-members
+      - title: Record of Contributions
+        file: community-handbook/acknowledgement/acknowledgement-record
+      - title: Different Contributions and Acknowledgements
+        file: community-handbook/acknowledgement/acknowledgement-examples
   - title: Monthly Newsletters
     file: community-handbook/newsletters
     sections:
@@ -342,5 +342,5 @@
     file: afterword/glossary
   - title: Bibliography
     file: afterword/bibliography
-  # - title: Contributors Record
-  #   file: afterword/contributors-record
+  - title: Contributors Record
+    file: afterword/contributors-record
