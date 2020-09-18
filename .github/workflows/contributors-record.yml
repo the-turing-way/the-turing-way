@@ -15,7 +15,7 @@ on:
 
 # Set up the Continuous Integration job
 jobs:
-  ContributorRecords:
+  ContributorsRecord:
     # Run on the latest Ubuntu distribution
     runs-on: ubuntu-latest
     # This section collects together the steps involved in running the test
@@ -23,6 +23,6 @@ jobs:
     # Checkout the repository. Relies on another GH-Action.
     - uses: actions/checkout@v2
     # Run the script to check file sizes
-    - name: Create latest contributor records
+    - name: Create latest contributors record
       run: |
         ./tests/contributors.sh
