@@ -94,6 +94,7 @@ def read_and_check_files(files):
 
     for filename in files:
         if filename in IGNORE_LIST:
+	    print(filename)
             pass
         else:
             try:
