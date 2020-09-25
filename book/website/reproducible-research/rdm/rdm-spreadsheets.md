@@ -8,17 +8,17 @@ There is a collection of [horror-stories](http://www.eusprig.org/horror-stories.
 editing processes.
 Some of these mishaps are not unique to spreadsheets, but [many are](https://doi.org/10.1186/s13059-016-104).
 
-Most problems can be avoided with the three rules explained below: 
-- use spreadsheet in a text only format (.csv or .tsv)
+Most problems can be avoided with the recommendations described below: 
+- use spreadsheet in a text-only format (.csv or .tsv)
 - create tidy spreadsheets
 - make spreadsheets consistent (with each other) and implement rules for data entries.
 - and avoid manipulating and analysing data in spreadsheet software (this includes copy-paste). 
 
 Spreadsheets are a powerful tool only if the dataset is collected and organised in specific formats that are usable for both the computers and researchers.
 
-## Avoid Non-data content
+## 1. Avoid Non-data content
 
-Spreadsheets are used for organizing data in a tabular form. 
+Spreadsheets are used for organising data in a tabular form. 
 The subject, the object and the relationship between them are transformed into rows, cells and columns respectively.
 For example, the subject: `experiment`, relationship: `was performed on the date`, the object: `2020-06-06` gives one row for each experiment, one column for `date of experiment` and the value `2020-06-06` in the cell. 
 Unfortunately for data science, the spreadsheets program allows you to add other kinds of contents to this, like adding color to specific cells. 
@@ -40,7 +40,7 @@ In addition to the visual feedback, you can now also use this information to fil
 
 ```
 
-## Tidy format for spreadsheets
+## 2. Tidy format for spreadsheets
 
 If the spreadsheet is poorly organised then it may be [difficult for collaborators](https://luisdva.github.io/pls-don't-do-this/) to easily [read-in and re-use](#FAIR) your
 data for further analysis.
@@ -55,7 +55,7 @@ In short:
 - one column = one variable (no more, no less, this implies that two header names can not be identical)
 - one row = one sample
 - one cell = one information
-- **first row and only the first row is the header** 
+- **the first row is the header** 
 - Headers name: do not include a special character (including space), do not start with a number
 
 | ![tidy table figure](../../figures/tidy-1.png)         |
@@ -67,7 +67,7 @@ Three rules which make a dataset tidy:
 
 There are data validation tools available, like https://goodtables.io, that allows you to check automatically whether your spreadsheets are tidy.
 
-## Consistent values
+## 3. Consistent values
 
 When you work with several spreadsheets or with a team during data collection, it is very important to make sure the same information will be entered with the same term, and the same term always conveys the same information. 
 In the example of iris data, if some people use different terms to record information for a specific column, such as naming the column `species` instead of `Species` or using `iris setosa`, `set.` or `i.setosa` instead of `setosa`, the creation of a reproducible workflow will be more difficult and errors may even be overlooked.  
@@ -89,6 +89,13 @@ An elegant solution is to have a second column stating whether a pollinator was 
 Finally, you should also be aware of the default behaviour of your spreadsheet program, as it may be different for different programs, and different versions of the same program.
 For instance, the decimal is usually indicated with a comma in the French or German version of excel, but while a dot in English versions where the comma has no meaning
 (`9,000`  will be translated into 9000 or 9 depending on the version you are using).
+
+## 4. Data manipulation and analysis
+
+***Do not manipulate or analyse data in a spreadsheet program.***
+
+In particular, only copy-paste from one spreadsheet to another if the process is used very rarely. 
+It is now very easy to read and combine the different spreadsheets in the analysis software, with the additional advantage that the software will return an error message if the headers do not fit.
 
 ## Other tips
 
@@ -143,7 +150,6 @@ As for file name, the size of the headers is not an issue for computers, but for
 You do not have to think about the order of the columns for the analysis, as it has no importance for data analysis software. 
 You can therefore completely optimise that parameter for the data collection step.
 
-
 ### Standard and versioning
 
 A good spreadsheet design has instructive and intuitive header names, and it facilitates both data collection and analysis. 
@@ -162,12 +168,7 @@ If you are working with a team on data collection, make sure:
 - One person is responsible to answer putative questions during data collection.
 - every spreadsheet is validated before entering the analysis workflow, and as soon as possible.
 
-## Data manipulation and analysis
 
-***Do not manipulate or analyse data in a spreadsheet program.***
-
-In particular, only copy-paste from one spreadsheet to another if the process is used very rarely. 
-It is now very easy to read and combine the different spreadsheets in the analysis software, with the additional advantage that the software will return an error message if the headers do not fit.
 
 ## Summary
 
