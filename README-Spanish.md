@@ -1,3 +1,5 @@
+# README.md SPANISH TRANSLATION
+
 # The Turing Way
 
 [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com)
@@ -16,70 +18,74 @@
 | No Large Files | [![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amaster) |
 | No "_Lorem Ipsum_"s | [![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amaster) |
 
-_The Turing Way_ is a lightly opinionated guide to reproducible data science.
-You can read it here: <https://the-turing-way.netlify.com>
-You're currently viewing the project GitHub repository where all of the bits that make up the guide live, and where the process of writing/building the guide happens.
+_The Turing Way_ es una guía ligeramente testaruda para la ciencia de datos reproducible. 
+Puedes leerla aquí:: <https://the-turing-way.netlify.com>
+Actualmente estás en el repositorio de GitHub del proyecto donde se encuentran todos los fragmentos que componen la guía y donde ocurre el proceso de escritura / construcción de la misma.
 
-Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end.
+Nuestro objetivo es proporcionar toda la información que los investigadores necesitan al inicio de sus proyectos para garantizar que sean fáciles de reproducir al final.
 
-This also means making sure PhD students, postdocs, PIs and funding teams know which parts of the "responsibility of reproducibility" they can affect, and what they should do to nudge data science to being more efficient, effective and understandable.
+Esto también significa asegurarse de que los estudiantes de doctorado, los post-doctorantes, los investigadores principales y los equipos de financiación sepan qué partes de la "responsabilidad de reproducibilidad" poseen y qué deben hacer para impulsar que la ciencia de datos sean más eficiente, efectiva y comprensible.
 
-Table of contents:
+Tabla de contenidos:
 
-- [About the project](#about-the-project)
-- [The team](#the-team)
-- [Contributing](#contributing)
-- [Citing _The Turing Way_](#citing-the-turing-way)
-- [Get in touch](#get-in-touch)
-- [Contributors](#contributors)
+- [Acerca el proyecto](#about-the-project)
+- [El equipo](#the-team)
+- [Cómo contribuir al proyecto](#contributing)
+- [Citando _The Turing Way_](#citing-the-turing-way)
+- [Contáctanos](#get-in-touch)
+- [Colaboradores](#contributors)
 
-🎧 If you prefer an audio introduction to the project, our team member Rachael presented at the [Open Science Fair 2019](https://www.opensciencefair.eu/) in Porto and her demo was recorded by the [Orion podcast](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
-_The Turing Way_ overview starts at minute 5:13.
+🎧 Si prefieres una introducción de audio al proyecto (en inglés) Rachel, una colaboradora del proyecto presentó en el [Open Science Fair 2019](https://www.opensciencefair.eu/) en Oporto y su presentación fue grabada por el [Podcast Orion](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
+la descripción general del _The Turing Way_ comienza en el minuto 5:13. 
 
-### About the project
+### Acerca del proyecto
 
-Reproducible research is necessary to ensure that scientific work can be trusted.
-Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
-The goal is to ensure that all results can be independently verified and built upon in future work.
-This is sometimes easier said than done.
-Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. As these activities are not commonly taught, we recognise that the burden of requirement and new skill acquisition can be intimidating to individuals who are new to this world.
-*The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do" even for people who have never worked in this way before.
-It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
-This project is openly developed and any and all questions, comments and recommendations are welcome at our github repository: <https://github.com/alan-turing-institute/the-turing-way>.
+La investigación reproducible es necesaria para garantizar que se pueda confiar en el trabajo científico.
+Los financiadores y editores científicos están comenzando a exigir que las publicaciones incluyan acceso a los datos subyacentes y al código de análisis.
+El objetivo es garantizar que todos los resultados puedan verificarse de forma independiente y servir como base para trabajos futuros.
+Esto a veces es más fácil decirlo que hacerlo.
+Compartir estos resultados de investigación significa comprender la gestión de datos, las bibliotecas, el desarrollo de software y las técnicas de integración continua: habilidades que no se enseñan ni se esperan de los investigadores académicos y científicos de datos. Como estas actividades no se enseñan comúnmente, reconocemos que la carga de los requisitos y la adquisición de nuevas habilidades puede ser intimidante para las personas que son nuevas en este mundo.
+*The Turing Way* es un manual para ayudar a los estudiantes, sus supervisores, financiadores y editores de revistas a garantizar que la ciencia de datos reproducible sea "demasiado fácil como para no hacerla" incluso para personas que nunca antes han trabajado de esta manera.
+Incluirá material de capacitación sobre control de versiones, *analysis testing* y comunicación abierta y transparente con futuros usuarios, y se basará en los estudios de caso y talleres del Instituto Turing.
+Este proyecto se desarrolla de manera abierta y todas y cada una de tus preguntas, comentarios y recomendaciones son bienvenidos en nuestro repositorio de github: <https://github.com/alan-turing-institute/the-turing-way>.
 
-### The team
+### El equipo
 
-This is (part of) the project team planning work at the Turing Institute.
-For more on how to contact us, see the [ways of working document](ways_of_working.md).
+Este es (parte de) el equipo de planificación del proyecto en el Instituto Turing.
+Para obtener más información sobre cómo contactarnos, consulta el [documento de formas de trabajo] (ways_of_working.md).
 
-![Team photo](book/website/figures/TuringWayTeam.jpg)
+![Foto del equipo](book/website/figures/TuringWayTeam.jpg)
+
 
 ### Contributing
 
-:construction: This repository is always a work in progress and **everyone** is encouraged to help us build something that is useful to the many. :construction:
+:construction: Este repositorio es siempre un trabajo en progreso y **todos** están invitados a ayudarnos a construir algo que sea útil para muchos. :construction:
 
-Everyone is asked to follow our [code of conduct](CODE_OF_CONDUCT.md) and to checkout our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
+Se les solicita a quien colaboren con el proyecto que sigan nuestro [código de conducta] (CODE_OF_CONDUCT.md) y que revisen nuestras [pautas de contribución] (CONTRIBUTING.md) para obtener más información sobre cómo comenzar.
 
-If you are not familiar or confident contributing on GitHub, you can also contribute a case study and your tips and tricks via our [Google submission form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
+Si no conoces o tienes dudas de contribuir en GitHub, puedes también contribuir con un estudio de caso y enviarnos consejos a través de nuestro [formulario de envío de Google] (https://goo.gl/forms/akFqZEIy2kxAjfZW2).
 
-### Citing _The Turing Way_
+### Citando _The Turing Way_
 
-You can reference _The Turing Way_ through the project's Zenodo archive using DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
-DOIs allow us to archive the repository and they are really valuable to ensure that the work is tracked in academic publications.
+Puedes hacer referencia a _The Turing Way_ a través del archivo Zenodo del proyecto usando DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
+Los DOI nos permiten archivar el repositorio y son realmente valiosos para garantizar que el trabajo se rastree en las publicaciones académicas.
 
-The citation will look something like:
+
+La cita tendrá un aspecto similar a (en inglés):
 
 > The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. <http://doi.org/10.5281/zenodo.3233986>
 
-You can also share the human-readable URL to a page in the book, for example: <https://the-turing-way.netlify.com/reproducibility/03/definitions.html>, but be aware that the project is under development and therefore these links may change over time.
-You might want to include a web archive link such as: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> to make sure that you don't end up with broken links everywhere!
+También puedes compartir la URL legible por humanos a una página del libro, por ejemplo: <https://the-turing-way.netlify.com/reproducibility/03/definitions.html>, 
+pero ten en cuenta que el proyecto está en desarrollo y, por lo tanto, estos vínculos pueden cambiar con el tiempo.
+Es posible que desees incluir un enlace de archivo web como: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> para asegurarte de no terminar con enlaces rotos en todas partes.
 
-We really appreciate any references that you make to _The Turing Way_ project in your and we hope it is useful.
-If you have any questions please [get in touch](#get-in-touch).
+Realmente agradecemos cualquier referencia que hagas al proyecto _The Turing Way_ y esperamos que sea de utilidad.
+Si tienes alguna pregunta por favor [contáctanos](#get-in-touch).
 
 ### Citing _The Turing Way_ illustrations
 
-_The Turing Way_ illustrations are created by artists from [Scriberia](https://www.scriberia.co.uk/) as part of [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) in Manchester on 17 May 2019, and London on 28 May 2019 and 21 February 2020.
+
+Las ilustraciones de _The Turing Way_ son creadas por artistas de [Scriberia](https://www.scriberia.co.uk/) as part of [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) in Manchester on 17 May 2019, and London on 28 May 2019 and 21 February 2020.
 They depict a variety of content from the handbook, collaborative efforts in the community and _The Turing Way_ project in general.
 These illustrations are available on Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) under a CC-BY license.
 
@@ -104,7 +110,7 @@ Alternatively, you can contact the lead investigator **Kirstie Whitaker** by ema
 
 ## Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Gracias a estas personas maravillosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -341,5 +347,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
-Contributions of any kind welcome!
+Este proyecto sigue la especificación [all-contributors] (https://github.com/all-contributors/all-contributors).
+¡Contribuciones de todo tipo son bienvenidas!
+
+
