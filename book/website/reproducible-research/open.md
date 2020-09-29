@@ -1,5 +1,5 @@
 (rr-open)=
-# Open research
+# Open Research
 
 ## Prerequisites / recommended skill level
 
