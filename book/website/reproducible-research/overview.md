@@ -1,5 +1,10 @@
-(rr-overview=)
+(rr-overview)=
 # Overview of Reproducible Research
+
+## Prerequisites / recommended skill level
+No previous knowledge needed.
+
+## Summary
 
 Scientific results and evidence are strengthened if they are reproduced
 and confirmed by several independent researchers (see {ref}`definitions <rr-overview-definitions>`).
@@ -11,10 +16,7 @@ Major media outlets have [reported on](https://www.theguardian.com/science/2018/
 
 This leads to other academics and society losing trust in scientific results {cite}`baker2016reproducibility`.
 Working reproducibly means others can check your results - even early on in the research process.
-Thus, the full analysis and methodology is transparent.
+Thus, the full analysis and methodology are transparent.
 
 In addition, so called "negative results" can be published easily, helping avoid other researchers wasting time repeating analyses that will not return the expected results {cite}`Dirnagl2010bias`.
-For further reading resources on reproducibility, please checkout the {ref}`resources <rr-overview-resources>` subchapter.
-
-## Prerequisites / recommended skill level
-No previous knowledge needed.
+For further reading resources on reproducibility, please check out the {ref}`resources <rr-overview-resources>` subchapter.

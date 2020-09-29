@@ -1,5 +1,5 @@
 (rr-overview-resources)=
-# Resources for reproducibility chapter
+# Resources for Reproducibility Chapter
 For additional resources like videos and reference papers on reproducibility, see the {ref}`rr-overview-resources-reading` and {ref}`rr-overview-resources-addmaterial` sections.
 
 ### Checklist / Exercise

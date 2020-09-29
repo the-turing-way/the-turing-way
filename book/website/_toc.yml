@@ -19,7 +19,7 @@
     sections:
     - title: Definitions
       file: reproducible-research/overview/overview-definitions
-    - title: Added advantages
+    - title: Added Advantages
       file: reproducible-research/overview/overview-benefit
     - title: Resources
       file: reproducible-research/overview/overview-resources
