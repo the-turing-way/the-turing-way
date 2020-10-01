@@ -27,7 +27,7 @@ It turns out that the [CompEnv-Ex2](https://github.com/alan-turing-institute/Com
 Taking a team photo was really wonderful!
 Let's try to make sure that's in all future workshops.
 
-![](https://raw.githubusercontent.com/scott-hosking/my-first-binder/master/BoostReproducibilityBinder_BAS_2020-01-31.jpg)
+![](https://raw.githubusercontent.com/scotthosking/my-first-binder/master/BoostReproducibilityBinder_BAS_2020-01-31.jpg)
 
 Anita added the following feedback:
 
