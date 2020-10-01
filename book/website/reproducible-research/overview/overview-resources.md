@@ -1,5 +1,5 @@
 (rr-overview-resources)=
-# Resources for Reproducibility Chapter
+# Resources
 For additional resources like videos and reference papers on reproducibility, see the {ref}`rr-overview-resources-reading` and {ref}`rr-overview-resources-addmaterial` sections.
 
 ### Checklist / Exercise
@@ -27,7 +27,7 @@ If you want to start learning hands-on practices, we recommend reading the {ref}
 
 * Markowetz, F. (2016). 5 selfish reasons to work reproducibly. Talk at scidata 2016. https://www.youtube.com/watch?v=Is15CMVPHas&feature=youtu.be
 
-### Other useful links
+### Other Useful Links
 
 * Markowetz, F. (2018). 5 selfish reasons to work reproducibly. Slides available at https://osf.io/a8wq4/
 
