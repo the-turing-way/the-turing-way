@@ -49,7 +49,7 @@ Bu proje açık bir şekilde geliştirildi ve her türlü soru, yorum ve öneril
 
 ### Ekip
 
-Karşınızda Turing Enstitüsü'nde çalışmayı planlayan proje ekibi. (bir kısmı)
+Karşınızda Turing Enstitüsü'nde çalışan proje ekibi. (bir kısmı)
 Bizimle nasıl iletişime geçeceğiniz hakkında daha fazla bilgi için [çalışma formu belgesi](ways_of_working.md)'ni inceleyin.
 
 ![Ekip fotoğrafı](book/website/figures/TuringWayTeam.jpg)
