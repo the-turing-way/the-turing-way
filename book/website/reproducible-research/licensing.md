@@ -1,3 +1,4 @@
+(rr-licensing)=
 # Licensing
 
 ## Prerequisites / recommended skill level

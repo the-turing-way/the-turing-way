@@ -28,7 +28,7 @@
     sections:
     - title: Open Data
       file: reproducible-research/open/open-data
-    - title: Open Source
+    - title: Open Source Software
       file: reproducible-research/open/open-source
     - title: Open Hardware
       file: reproducible-research/open/open-hardware

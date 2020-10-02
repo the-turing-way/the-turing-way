@@ -1,3 +1,4 @@
+(rr-credit)=
 # Credit for reproducible research
 
 <!--
