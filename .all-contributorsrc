@@ -1696,6 +1696,15 @@
         "review",
         "ideas"
       ]
+    },
+    {
+      "login": "Daniel-Mietchen",
+      "name": "Daniel Mietchen",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/465923?v=4",
+      "profile": "https://orcid.org/0000-0001-9488-1870",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
