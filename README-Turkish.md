@@ -1,26 +1,26 @@
 # The Turing Way
 
-[![Kitabı oku](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com)
-[![Email listemize kaydol](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
+[![Kitabı oku](https://img.shields.io/badge/kitabı-oku-blue.svg)](https://the-turing-way.netlify.com)
+[![Email listemize kaydol](https://img.shields.io/badge/bültene-kaydol%20❤-blueviolet.svg)](https://tinyletter.com/TuringWay)
 [![Sohbete katıl https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
-[![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)
+[![](https://img.shields.io/static/v1?label=TuringWay&message=Katkıda%20bulunmak%20istiyorum!&color=yellow&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k/l95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65/EtLeGc+Yoy5aHf46bX7cThctK+Aw2HQkVAW41wzqHRMjNNRteR+QzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ/0TjCTTjHk+oJl+RtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D/ZhHR5F6DpHc2B3/jF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5/vABTeNje6BCj/xcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff+hZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6+RQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99/x64fH+NAQz0un49nfh+VmspAcKX4lKWUbMbjXOg2cf3Vy+LIoRWqekxc7nhB6/Q0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg==)](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![Katkıda Bulunanlar](https://img.shields.io/badge/all_contributors-175-orange.svg)](#contributors)
+[![Katkıda Bulunanlar](https://img.shields.io/badge/katkıda_bulunanlar-175-orange.svg)](#katkıda-bulunanlar)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-| Test | Status |
+| Test | Durum |
 | :--- | :--- |
-| Netlify build | [![CI](https://github.com/alan-turing-institute/the-turing-way/workflows/CI/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ACI+branch%3Amaster) |
-| No Latin Phrases | [![Check for Latin Phrases](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amaster) |
-| No Large Files | [![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amaster) |
-| No "_Lorem Ipsum_"s | [![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amaster) |
+| Netlify versiyonu | [![CI](https://github.com/alan-turing-institute/the-turing-way/workflows/CI/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ACI+branch%3Amaster) |
+| Latince Kelime Öbeği İçermiyor | [![Check for Latin Phrases](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amaster) |
+| Büyük Dosya İçermiyor | [![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amaster) |
+| "_Lorem Ipsum_" İçermiyor | [![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amaster) |
 
-_The Turing Way_, tekrarlanabilir veri bilimi için özgüveni yüksek bir rehberdir.
+_The Turing Way_, tekrarlanabilir veri bilimi için kendine güvenen bir rehberdir.
 Buradan okuyabilirsiniz: <https://the-turing-way.netlify.com>
 Şu anda, rehberi hayata geçiren tüm bitlerin bulunduğu ve yazma/inşa etme sürecinin gerçekleştiği GitHub deposunu görüntülüyorsunuz.
 
-Amacımız, projelerinin başlangıcında ihtiyaç duydukları tüm bilgileri, sonunda kolayca tekrarlanabilir olmasını sağlamak amacıyla araştırmacılara sunmaktır.
+Amacımız, projelerinin başlangıcında ihtiyaç duydukları tüm bilgileri, sonucun kolayca tekrarlanabilir olmasını sağlamak amacıyla araştırmacılara sunmaktır.
 
 Bu aynı zamanda, doktora öğrencilerinin, postdoc'ların, baş araştırmacıların ve finansman ekiplerinin "tekrarlanabilirlik sorumluluğunun" hangi kısımlarına etkileri olacaklarını ve veri bilimini daha verimli, etkili ve anlaşılır olmaya itmek için ne yapmaları gerektiğini bilmelerini sağlamak anlamına gelir.
 
@@ -64,8 +64,8 @@ GitHub üzerinden katkıda bulunmaya aşina değilseniz, [Google gönderim formu
 
 ### _The Turing Way_'e Atıfta Bulunmak
 
-_The Turing Way_'i projenin Zenodo arşivindeki dijital nesne tanımlayıcısını(DOI) kullanarak referans gösterebilirsiniz: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
-Dijital nesne tanımlayıcıları(DOI) depoyu arşivleyebilmemize yarar ve çalışmanın akademik yayınlarda izlenmesini sağlamak açısından çok değerlidir.
+_The Turing Way_'i projenin Zenodo arşivindeki dijital nesne tanımlayıcısını (DOI) kullanarak referans gösterebilirsiniz: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
+Dijital nesne tanımlayıcıları (DOI) depoyu arşivleyebilmemize yarar ve çalışmanın akademik yayınlarda izlenmesini sağlamak açısından çok değerlidir.
 
 Atıf böyle gözükecek:
 
@@ -84,10 +84,10 @@ Sanatçılar el kitabındaki çeşitli içeriklerin, topluluktaki ortak çabalar
 Bu çizimler Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) üzerinde CC-BY lisansı altında mevcuttur.
 
 Görsellerden herhangi birini kullanırken lütfen aşağıdaki şekilde atıfta bulunun:
-> This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence.
+> Bu görüntü, The Turing Way topluluğu için Scriberia tarafından oluşturulmuştur ve CC-BY lisansı altında kullanılmaktadır.
 
 Zenodo'daki en son versiyona şu şekilde atıf yapılabilir: 
-> The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300
+> The Turing Way Topluluğu, & Scriberia. (2020, Mart 3). Turing Way kitap serisinden çizimler. Zenodo. http://doi.org/10.5281/zenodo.3695300
 
 Bu resimlerden birkaçını, [Hoş Geldiniz Botu](https://github.com/apps/welcome)'nun, GitHub deposundaki yeni üyelerin yaptığı katkılara vereceği yanıtlar için kullandık.
 
@@ -341,5 +341,5 @@ Bu harika insanlara teşekkürler ([emoji key](https://allcontributors.org/docs/
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Bu proje, [tüm-katkıda-bulunanlar](https://github.com/all-contributors/all-contributors) şartnamesine uygundur.
+Bu proje, [all-contributors](https://github.com/all-contributors/all-contributors) şartnamesine uygundur.
 Her türlü katkı memnuniyetle karşılanır!
