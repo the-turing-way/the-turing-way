@@ -188,6 +188,23 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * More information:
 > I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there!
 
+
+### Laura Carter
+
+* GitHub id: TBA
+* ORCID: TBA
+* Short bio:
+> Laura is a PhD student in the Human Rights Centre at the University of Essex, UK. 
+> She is researching the human rights implications of the use of data-driven technologies in the UK public sector, focusing on gender stereotyping and gender discrimination. 
+> Her background is in human rights research and gender: you can read more about her here: https://lauracarter.github.io/.
+
+* Personal highlights:
+TBA
+
+* More information:
+TBA
+
+
 ### Louise Bowler
 
 * GitHub id: [LouiseABowler](http://github.com/LouiseABowler)
@@ -273,6 +290,19 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > I really love how the Turing Way aims to create good examples and I hope we can develop some ideas and resources that can have a positive impact in changing the current system.
 > I care about collaborating and get really excited about trying new tools if my limited tech skills allow.
 
+### Paul Owoicho
+
+* GitHub id: TBA
+* ORCID: TBA
+* Short bio: TBA
+>TBA
+
+* Personal highlights:
+>TBA
+
+* More information:
+>TBA
+
 ### Rosie Higman
 
 * GitHub id: [rosiehigman](http://github.com/rosiehigman)
@@ -331,3 +361,17 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * More information:
 > I'm passionate about applying the skills I learnt during my PhD somewhere closer to home and learning new skills along the way.
 > The Turing Way is an ideal opportunity for me to learn better research practices and widen my horizons from what academia has taught me.
+
+
+### Sophia Batchelor
+
+* GitHub id: TBA
+* ORCID: TBA
+* Short bio: TBA
+>TBA
+
+* Personal highlights:
+>TBA
+
+* More information:
+>TBA
