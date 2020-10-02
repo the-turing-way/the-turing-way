@@ -24,7 +24,8 @@ That data should, therefore, be open by default.
 
 Listed below are the steps to making your data open.
 
-### Steps to make your data open
+(rr-open-data-steps)=
+### Steps to Make Your Data Open
 
 The steps below help you make your data findable, accessible, interoperable and reusable (FAIR). You can learn more about FAIR principles in the chapter on {ref}`rr-rdm`.
 
@@ -85,10 +86,11 @@ You should also ensure that datasets are made citable and identifiable at an app
 For example, it would be no use citing CERN's entire data repository as someone attempting to reproduce your work would not be able to find the data used in a specific piece of work without considerable difficulty. 
 Where possible, you should be able to cite the data used, and only the data used.
 
+(rr-open-data-barriers)=
 ### Barriers to Data Sharing
 
 Sometimes it may not be possible to make data publicly available in its entirety or even in part. 
-There are two main reasons this may be the case:
+Here are some reasons why this may be the case:
 
 #### Privacy
 

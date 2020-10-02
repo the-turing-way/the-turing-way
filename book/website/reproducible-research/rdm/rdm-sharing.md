@@ -83,7 +83,7 @@ It may also be possible to provide the data in such a format that researchers ca
 Another way to provide anonymised data is to provide [synthetic data](https://en.wikipedia.org/wiki/Synthetic_data), data generated to reflect the conditions and properties of the raw data without including any of the personal information.
 
 (rr-rdm-sharing-national)=
-## National and commercially sensitive data
+## National and Commercially Sensitive Data
 
 In many cases companies are understandably unwilling to publish much of their data.
 The reasoning goes that if commercially sensitive information of a company is disclosed, it will damage the company’s commercial interests and undermine competitiveness.
