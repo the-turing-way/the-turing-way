@@ -40,7 +40,7 @@ Open source offers opportunities to practice leadership and management skills, s
 
 - _Re-usability_: Making your work openly available for re-use makes it easier for others to incorporate into their research. 
 If you make your software citeable, via a DOI for example, this can increase your citations.
-- _Conribution_: When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code.
+- _Contribution_: When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code.
 If your project is open, the number of potential contributing developers and thus the potential knowledge pool is orders of magnitude larger.
 - _Feedback_: Making your work open enables you to get feedback and improve your project in a way you may never have thought of alone.
 - _Accountability_: There is an argument that any software developed using government money should be open source by default; if the public has paid for its development they have a right to make use of it.
