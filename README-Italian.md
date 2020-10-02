@@ -19,13 +19,13 @@
 | No Large Files      | [![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amaster)                                           |
 | No "_Lorem Ipsum_"s | [![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amaster)    |
 
-_The Turing Way_ è una guida dettagliata all riproducibilià nella scienza dei dati (data science).
+_The Turing Way_ è una guida dettagliata all riproducibilità nella scienza dei dati (data science).
 Puoi leggerla qui: <https://the-turing-way.netlify.com>
-Stai attualmente esplorando il progetto nella sua repository GitHub dove sono conservati tutti i bit che compongono la guida, e dove avvienve il processo di lettura e creazione della guida stessa.
+Stai attualmente esplorando il progetto nella sua repository GitHub dove sono conservati tutti i bit che compongono la guida, e dove avviene il processo di lettura e creazione della guida stessa.
 
 Il nostro intento è quello di fornire tutte le informazioni di cui i ricercatori hanno bisogno all'avvio dei loro progetti, in modo che questi siano facili da riprodurre una volta terminati.
 
-Questo significa anche far in modo che gli studenti di dottorato, post dottorato, referenti scientifici e team di finanziamento sappiano quali aspetti della "reponsabilità di riproducibilità" possono controllare, e cosa possono fare per contribuire a rendere la scienza dei dati più efficente, efficace e comprensibile.
+Questo significa anche far in modo che gli studenti di dottorato, post dottorato, referenti scientifici e team di finanziamento sappiano quali aspetti della "responsabilità di riproducibilità" possono controllare, e cosa possono fare per contribuire a rendere la scienza dei dati più efficiente, efficace e comprensibile.
 
 Indice:
 
@@ -45,7 +45,7 @@ La riproducibilità della ricerca è necessaria per garantire l'affidabilità de
 Finanziatori ed editori sempre più spesso richiedono che le pubblicazioni includano l'accesso ai dati grezzi ed al codice sorgente.
 L'obiettivo è quello di garantire che tutti i risultati siano verificabili in maniera indipendente e sviluppati nei futuri lavori.
 Tutto questo a volte è più facile a dirsi che a farsi.
-Condividere i risultati della ricerca significa comprendere la gestione dei dati, lo sviluppo del software, le scienze bibliografiche e le tecniche di integrazione continua: comptenze che non sono ben spiegate o richieste ad accademici e data scientist. Non essendo queste materie comunemente insegnate, riconosciamo che il numero di requisiti e nuove competenze richieste possano essere un problema per i neofiti.
+Condividere i risultati della ricerca significa comprendere la gestione dei dati, lo sviluppo del software, le scienze bibliografiche e le tecniche di integrazione continua: competenze che non sono ben spiegate o richieste ad accademici e data scientist. Non essendo queste materie comunemente insegnate, riconosciamo che il numero di requisiti e nuove competenze richieste possano essere un problema per i neofiti.
 _The Turing Way_ è un manuale per aiutare gli studenti, i loro supervisori, finanziatori ed editori a rendere la scienza dei dati "impossibile da non fare", anche per coloro che non hanno mai lavorato secondo questi schemi.
 Il manuale comprende materiale di formazione sul version control, test di analisi e comunicazione aperta e trasparente con i nuovi utenti e si baserà su casi di studio e workshop del Turing Institute.
 Questo progetto è sviluppato in maniera aperta e nella nostra repository github sono benvenuti tutti i suggerimenti, le domande e i commenti: <https://github.com/alan-turing-institute/the-turing-way>.
