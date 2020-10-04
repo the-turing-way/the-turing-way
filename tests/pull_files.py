@@ -31,7 +31,7 @@ def get_files_from_pr(pr_num):
         {list} -- List of modified filenames
     """
     files = []
-    pr_url = f"https://api.github.com/repos/paulowoicho/the-turing-way/pulls/{pr_num}/files"
+    pr_url = f"https://api.github.com/repos/alan-turing-institute/the-turing-way/pulls/{pr_num}/files"
     resp = requests.get(pr_url)
 
     for item in resp.json():
