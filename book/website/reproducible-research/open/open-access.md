@@ -6,23 +6,23 @@
 
 One of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public if purchased through a subscription fee or individually.
 However, new knowledge is built by synthesizing current scholarship and then building upon it.
-At the turn of the 21st century a new movement appeared with a clear objective: make all the research results available to anyone interested in reading it, free of charge by any user, with no technical obstacles such as mandatory registration or login to specific platforms.
-This movement took the name of "open access" and established two initial strategies to achieve its final goal: self-archiving and open-access publishing.
+At the turn of the 21st century, a new movement appeared with a clear objective: make all the research results available to anyone interested in reading it, free of charge by any user, with no technical obstacles such as mandatory registration or login to specific platforms.
+This movement took the name of "open access" and established two initial strategies to achieve its final goal: self-archiving and open access publishing.
 
 #### Repositories and Self-Archiving
 
 The self-archiving movement aims to provide tools and assistance to scholars to deposit their refereed journal articles in open electronic repositories.
-As a result of the first strategy, we see self-archiving practices: researchers depositing and disseminating papers in institutional or subject-based repositories.
+As a result of this strategy, we see self-archiving practices where researchers deposit and disseminate papers in institutional or subject-based repositories.
 There has also been a growth in the publication of preprints through institutional repositories and preprint servers. 
 Preprints are widely used in physical sciences and now emerging in life sciences and other fields.
 Preprints are documents that have not been peer-reviewed but are considered as a complete publication in a first stage.
 Some of the preprint servers include open peer review services and the availability to post new versions of the initial paper once reviewed by peers.
 
-At the beginning of 2019, more than 4000 repositories are available for researchers to self-archive their publications according to the [registry of open access repositories](http://roar.eprints.org/).
+At the beginning of 2019, more than 4000 repositories were available for researchers to self-archive their publications according to the [registry of open access repositories](http://roar.eprints.org/).
 In this list, there are institutional repositories, subject-based or thematic repositories, and harvesters.
 Institutional repositories are generally managed by research performing institutions to provide to their community a place to archive and share papers and other research outputs openly.
 Research communities usually manage subject-based repositories, and most of the contents are related to a specific discipline.
-Finally, harvesters aggregate content from different repositories becoming sites to perform general searches and build other value-added services.
+Finally, harvesters aggregate content from different repositories, becoming sites to perform general searches and build other value-added services.
 
 When choosing a journal to publish research results, researchers should take a moment to read the journal policy regarding the transfer of copyright.
 Many journals still require that authors transfer full copyright for publication.
@@ -30,7 +30,7 @@ This transfer of rights implies that authors must ask for permission to reuse th
 Such granted uses may include teaching, sharing with colleagues, and self-archiving by researchers of their papers in repositories.
 Sometimes, there are standard policies among all the journals published by the same publishers. 
 However, in general, journals have their own policies, especially when they are published on behalf of a scientific society.
-When looking at the self-archiving conditions, we must identify two key issues: the version of the paper that can be deposited and when it can be made publicly available.
+When looking at the self-archiving conditions, we must identify two key issues: the version of the paper that can be deposited, and when it can be made publicly available.
 
 Regarding the version, some journals allow the dissemination of the submitted versions, also known as a preprint. 
 They also allow its replacement for a reviewed version once the final paper has been published.
