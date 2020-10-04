@@ -1,5 +1,5 @@
 (rr-open-checklist)=
-## Checklists
+## Checklist
 
 (rr-open-checklist-data)=
 ### Open Data
