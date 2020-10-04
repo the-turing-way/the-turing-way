@@ -36,7 +36,7 @@ Your open-source hardware project should include a general description of the ha
 That is, explain what the project is and what it is for before you get into the technical details.
 
 #### A Licence
-An appropriate license on the Open Hardware project and its content grants legal permission to anyone to re-use, modify and distribute the different components of a project according to the terms stated (for example, they must acknowledge your contribution).  
+An appropriate license on the open hardware project and its content grants legal permission to anyone to re-use, modify and distribute the different components of a project according to the terms stated (for example, they must acknowledge your contribution).  
 
 #### Original Design Files
 These are the source files that you would use to make modifications to the hardware's design.
