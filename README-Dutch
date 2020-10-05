@@ -18,11 +18,11 @@
 
 _The Turing Way_ is een licht eigenzinnig boek voor reproduceerbare data-analyses.
 Je kan het boek hier lezen: <https://the-turing-way.netlify.com>
-Je bevindt je momenteel op de GitHub repository pagina van het project waar alle onderdelen zich bevinden die samen het boek vormen en waar het proces van het schrijven en constructie van het boek plaatsvind. 
+Je bevindt je momenteel op de GitHub repository pagina van het project waar alle onderdelen zich bevinden die samen het boek vormen en waar het proces van het schrijven en vormen van het boek plaatsvind. 
 
 Ons doel is om onderzoekers te voorzien van alle informatie die zij nodig hebben om reproduceerbare onderzoeksresultaten te produceren op het moment dat zij een onderzoeksproject starten.
 
-Dit betekend dat promovendi, postdocs, PIs en financieringsteams weten wat zij toe kunnen voegen aan de "verantwoordelijkheid van reproduceerbaarheid" en wat zij kunnen doen om data analyses efficienter, effectiever en begrijpbaarder te maken. 
+Dit betekend dat promovendi, postdocs, PIs en financieringsteams weten wat zij toe kunnen voegen aan de "verantwoordelijkheid van reproduceerbaarheid" en wat zij kunnen doen om data analyses efficiënter, effectiever en begrijpelijk te maken. 
 
 Inhoudsopgave:
 
@@ -48,14 +48,14 @@ Sharing these research outputs means understanding data management, library scie
 It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
 This project is openly developed and any and all questions, comments and recommendations are welcome at our github repository: <https://github.com/alan-turing-institute/the-turing-way>.
 
-### The team
+### Het team
 
-This is (part of) the project team planning work at the Turing Institute.
-For more on how to contact us, see the [ways of working document](ways_of_working.md).
+Dit is (een deel) van het project team wat aan he werk is op het Turing Institute.
+Voor meer informatie over hoe je ons kan contacteren, ga naar [ways of working document](ways_of_working.md).
 
 ![Team photo](book/website/figures/TuringWayTeam.jpg)
 
-### Contributing
+### Bijdragen
 
 :construction: This repository is always a work in progress and **everyone** is encouraged to help us build something that is useful to the many. :construction:
 
@@ -63,9 +63,9 @@ Everyone is asked to follow our [code of conduct](CODE_OF_CONDUCT.md) and to che
 
 If you are not familiar or confident contributing on GitHub, you can also contribute a case study and your tips and tricks via our [Google submission form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
 
-### Citing _The Turing Way_
+### Citeren _The Turing Way_
 
-You can reference _The Turing Way_ through the project's Zenodo archive using DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
+Je kan naar de _The Turing Way_ referen via Zenodo met een DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
 DOIs allow us to archive the repository and they are really valuable to ensure that the work is tracked in academic publications.
 
 The citation will look something like:
@@ -78,34 +78,34 @@ You might want to include a web archive link such as: <https://web.archive.org/w
 We really appreciate any references that you make to _The Turing Way_ project in your and we hope it is useful.
 If you have any questions please [get in touch](#get-in-touch).
 
-### Citing _The Turing Way_ illustrations
+### Citeren _The Turing Way_ illustraties
 
-_The Turing Way_ illustrations are created by artists from [Scriberia](https://www.scriberia.co.uk/) as part of [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) in Manchester on 17 May 2019, and London on 28 May 2019 and 21 February 2020.
-They depict a variety of content from the handbook, collaborative efforts in the community and _The Turing Way_ project in general.
-These illustrations are available on Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) under a CC-BY license.
+_The Turing Way_ illustraties zijn gecreerd door kunstenaars van [Scriberia](https://www.scriberia.co.uk/) als onderdeel van [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) in Manchester op 17 Mei 2019 en Londen op 28 Mei 2019 en 21 Februari 2020.
+Ze illustreren bijvoorbeeld de inhoud van het handboek, samenwerking binnen de Community en het _The Turing Way_ project in het algemeen. 
+De illustraties zijn beschikbaar op Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) onder een CC-BY licentie.
 
-When using any of the images, please include the following attribution:
-> This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence.
+Neem alsjeblieft onderstaande licentie over wanneer je een illustratie gebruikt:
+> Deze illustratie is gecreëerd door Scriberia voor The Turing Way Community onder een CC-BY licentie.
 
-The latest version from Zenodo can be cited as:
+De laatste versie van Zenodo kan als volgt geciteerd worden: 
 > The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300
 
-We have used a few of these illustrations in the [Welcome Bot](https://github.com/apps/welcome)'s responses to new members' contributions in this GitHub repository.
+We hebben een aantal van deze illustraties gebruikt in de [Welcome Bot](https://github.com/apps/welcome)'s reacties als een nieuw lid bijdraagt aan de GitHub repository.
 
-### Get in touch
+### Contact
 
-We have a gitter chat room and we'd love for you to swing by to say hello at <https://gitter.im/alan-turing-institute/the-turing-way>.
-That room is also synchronised with [Matrix](https://matrix.org) at [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) and you're welcome to join us there if you prefer.
+We hebben een gitter chat room waar we het leuk zouden vinden als je hallo komt zeggen: <https://gitter.im/alan-turing-institute/the-turing-way>.
+De chat room is gesynchroniseerd met [Matrix](https://matrix.org) via [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) waar je van harte welkom om erbij te komen als je dat liever hebt. 
 
-We also have a tiny letter mailing list to which we send monthly project updates.
-Subscribe at <https://tinyletter.com/TuringWay>.
+We hebben een tiny letter emaillijst waardoor je maandelijkse project updates kan ontvangen. 
+Schrijf je in via <https://tinyletter.com/TuringWay>.
 
-You can contact our community manager **Malvika Sharan** by email at [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
-Alternatively, you can contact the lead investigator **Kirstie Whitaker** by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
+Je kan onze Community Manager **Malvika Sharan** contacteren via email: [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+Of je kan de hoofdonderzoeker van het project, **Kirstie Whitaker**, contacteren via email: [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 
-## Contributors
+## Bijdragers
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Dank gaat uit naar deze geweldige mensen ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -345,5 +345,5 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
-Contributions of any kind welcome!
+Dit project volgt de [all-contributors](https://github.com/all-contributors/all-contributors) specificaties.
+Alle bijdragen zijn welkom!
