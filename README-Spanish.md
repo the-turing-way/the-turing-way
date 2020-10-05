@@ -1,5 +1,3 @@
-# README.md SPANISH TRANSLATION
-
 # The Turing Way
 
 [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com)
@@ -82,33 +80,33 @@ Es posible que desees incluir un enlace de archivo web como: <https://web.archiv
 Realmente agradecemos cualquier referencia que hagas al proyecto _The Turing Way_ y esperamos que sea de utilidad.
 Si tienes alguna pregunta por favor [contáctanos](#get-in-touch).
 
-### Citing _The Turing Way_ illustrations
+### Citando las ilustraciones de _The Turing Way_
 
 
-Las ilustraciones de _The Turing Way_ son creadas por artistas de [Scriberia](https://www.scriberia.co.uk/) as part of [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) in Manchester on 17 May 2019, and London on 28 May 2019 and 21 February 2020.
-They depict a variety of content from the handbook, collaborative efforts in the community and _The Turing Way_ project in general.
-These illustrations are available on Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) under a CC-BY license.
+Las ilustraciones del _The Turing Way_ son creadas por artistas de [Scriberia](https://www.scriberia.co.uk/) como parte de [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) en Manchester el 17 de mayo de 2019, en Londres el 28 de mayo de 2019 y el 21 de febrero de 2020.
+Las mismas representan una variedad de contenidos del manual, de los esfuerzos de colaboración en la comunidad y del proyecto _The Turing Way_ en general.
+Estas ilustraciones están disponibles en Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) bajo una licencia CC-BY.
 
-When using any of the images, please include the following attribution:
-> This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence.
+Cuando utilises cualquiera de las imágenes, por favor incluye la siguiente atribución:
+> Esta imagen fue creada por Scriberia para la comunidad The Turing Way y se usa bajo una licencia CC-BY.
 
-The latest version from Zenodo can be cited as:
+La última versión de Zenodo se puede citar como:
 > The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300
 
-We have used a few of these illustrations in the [Welcome Bot](https://github.com/apps/welcome)'s responses to new members' contributions in this GitHub repository.
+Hemos utilizado algunas de estas ilustraciones en las respuestas a las contribuciones de nuevos miembros en el [Bot de bienvenida](https://github.com/apps/welcome) de este repositorio de GitHub.
 
-### Get in touch
+### Contáctanos
 
-We have a gitter chat room and we'd love for you to swing by to say hello at <https://gitter.im/alan-turing-institute/the-turing-way>.
-That room is also synchronised with [Matrix](https://matrix.org) at [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) and you're welcome to join us there if you prefer.
+Tenemos una sala de chat de gitter y nos encantaría que pasaras a saludar a <https://gitter.im/alan-turing-institute/the-turing-way>.
+Este foro también está sincronizado con [Matrix](https://matrix.org) en [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) y puedes unirte a nosotros allí si lo prefieres.
 
-We also have a tiny letter mailing list to which we send monthly project updates.
-Subscribe at <https://tinyletter.com/TuringWay>.
+También tenemos una lista de correos a las que enviamos actualizaciones mensuales del proyecto. Suscríbete en <https://tinyletter.com/TuringWay>.
 
-You can contact our community manager **Malvika Sharan** by email at [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
-Alternatively, you can contact the lead investigator **Kirstie Whitaker** by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
+Puedes ponerte en contacto con nuestro administrador de la comunidad **Malvika Sharan** por correo electrónico a [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+Alternativamente, puedes comunicarte con la investigadora principal **Kirstie Whitaker** por correo electrónico a [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 
-## Contributors
+
+## Colaboradores
 
 Gracias a estas personas maravillosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
