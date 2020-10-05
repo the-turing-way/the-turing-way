@@ -1,0 +1,47 @@
+# Configuration for welcome - https://github.com/behaviorbot/welcome
+
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
+  [![Welcome Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:8ff47a85-7250-4d86-8e48-2f346b48b2c1:BannerWelcome.jpg/full/750,/0/default.jpg)](https://zenodo.org/record/3695300)
+
+  :tada: Welcome to _The Turing Way_! :tada:
+  We're really excited to have your input into the project! :sparkling_heart:
+
+  <br>If you haven't done so already, please make sure you check out our [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md).
+  If you need to connect more synchronously with members of _The Turing Way_ community, please feel free to chat with us in our [gitter channel](https://gitter.im/alan-turing-institute/the-turing-way), or you can join our [Collaboration Cafe](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md) for mentored contribution or co-working.
+
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+# Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: >
+  [![Thank You Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:7fbd97cf-283b-480c-b8e1-11866e26245c:BannerThanks.jpg/full/750,/0/default.jpg)](https://zenodo.org/record/3695300)
+
+  :sparkling_heart: Thanks for opening this pull request! :sparkling_heart:
+  _The Turing Way_ community really appreciates your time and effort to contribute to the project.
+  Please make sure you have read our [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and filled in our pull request template to the best of your ability.
+
+  If you are submitting a new chapter, here are some things that will help get your pull request across the finish line! :checkered_flag:
+
+  - Check you have removed all _lorem ipsums_ from the chapter template (if you used it)
+
+  - Check for any abbreviations or latin phrases (such as "e.g." or "i.e.") in your writing. See our [style guide](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#writing-style) for more information on this topic.
+
+  - Make sure you have added your new chapter to the [Table of Contents](https://github.com/alan-turing-institute/the-turing-way/blob/master/book/website/_data/toc.yml)
+
+  <br>We have Continuous Integration tests that check the writing style and will help you track down any slip-ups :recycle:
+  The Netlify bot will also comment with a preview of the book with your additions so you can see how it will look once it's merged! :tada:
+
+  <br>We get a lot of pull requests on this repo, so please be patient and we will get back to you as soon as we can.
+  If we don't acknowledge this pull request after 7 days, feel free to chat to us about it in our [gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+
+# Comment to be posted to on pull requests merged by a first time user
+firstPRMergeComment: >
+  [![Congratulations Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:32fbdb89-ae1b-434e-830c-88ade86724cc:BannerCongratulations.jpg/full/750,/0/default.jpg)](https://zenodo.org/record/3695300)
+
+  Congrats on merging your first pull request! :tada:
+  We here at _The Turing Way_ are proud of you! :sparkling_heart:
+  Thank you so much for your contribution :gift:
