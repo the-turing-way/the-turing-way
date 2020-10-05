@@ -39,48 +39,50 @@ De introductie van _The Turing Way_ begint vanaf 5:13.
 
 ### Over het  project
 
-Reproducible research is necessary to ensure that scientific work can be trusted.
-Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
-The goal is to ensure that all results can be independently verified and built upon in future work.
-This is sometimes easier said than done.
-Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. As these activities are not commonly taught, we recognise that the burden of requirement and new skill acquisition can be intimidating to individuals who are new to this world.
-*The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do" even for people who have never worked in this way before.
-It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
-This project is openly developed and any and all questions, comments and recommendations are welcome at our github repository: <https://github.com/alan-turing-institute/the-turing-way>.
+Reproduceerbaar onderzoek is nodig om ervoor te zorgen dat wetenschappelijk werk kan worden vertrouwd.
+Financiers en uitgevers beginnen te eisen dat publicaties de onderliggende data en de analysecode bevatten.
+Het doel van reproduceerbaar onderzoek is om ervoor te zorgen dat alle resultaten onafhankelijk kunnen worden geverifieerd en gebruikt kunnen worden in toekomstig onderzoek.
+Dit is soms makkelijker gezegd dan gedaan.
+Het delen van deze onderzoeksresultaten betekent inzicht in gegevensbeheer, bibliotheekwetenschappen, softwareontwikkeling en continue integratietechnieken: vaardigheden die niet algemeen worden onderwezen of verwacht van academische onderzoekers en datawetenschappers. Aangezien deze activiteiten niet algemeen worden onderwezen, erkennen we dat de last van vereisten en het verwerven van nieuwe vaardigheden intimiderend kan zijn voor personen die nieuw zijn in deze wereld.
+* The Turing Way * is een handboek om studenten, hun supervisors, financiers en tijdschriftenredacteuren te ondersteunen om ervoor te zorgen dat reproduceerbare datawetenschap "te gemakkelijk is om niet te doen", zelfs voor mensen die nog nooit op deze manier hebben gewerkt.
+* The Turing Way * trainingsmateriaal bevat informatie over versiebeheer, analysetesten en open en transparante communicatie met toekomstige gebruikers, en voortbouwen op casestudy's en workshops van het Turing Institute.
+Dit project is openlijk ontwikkeld en alle vragen, opmerkingen en aanbevelingen zijn welkom in onze github repository: <https://github.com/alan-turing-institute/the-turing-way>.
 
 ### Het team
 
-Dit is (een deel) van het project team wat aan he werk is op het Turing Institute.
-Voor meer informatie over hoe je ons kan contacteren, ga naar [ways of working document](ways_of_working.md).
+Dit is (een deel) van het project team wat aan het werk is op het Turing Institute.
+Voor meer informatie over hoe je ons kan contacteren zie [ways of working document](ways_of_working.md).
 
 ![Team photo](book/website/figures/TuringWayTeam.jpg)
 
 ### Bijdragen
 
-:construction: This repository is always a work in progress and **everyone** is encouraged to help us build something that is useful to the many. :construction:
+:construction: Aan deze repository wordt altijd gewerkt en ** iedereen ** wordt aangemoedigd om ons te helpen iets te bouwen dat nuttig is voor velen. :construction:
 
-Everyone is asked to follow our [code of conduct](CODE_OF_CONDUCT.md) and to checkout our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
+Wij vragen iedereen zich te houden aan de [code of conduct](CODE_OF_CONDUCT.md) en onze [contributing guidelines](CONTRIBUTING.md) te lezen voor meer informatie over hoe je kan beginnen met bijdragen. 
 
-If you are not familiar or confident contributing on GitHub, you can also contribute a case study and your tips and tricks via our [Google submission form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
+Als je niet bekend of zelfverzekerd bent met GitHUB kan je ook een case study of je tips en trucs bijdragen via een [Google submission form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
 
 ### Citeren _The Turing Way_
 
-Je kan naar de _The Turing Way_ referen via Zenodo met een DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
-DOIs allow us to archive the repository and they are really valuable to ensure that the work is tracked in academic publications.
+Je kan naar de _The Turing Way_ verwijzen via Zenodo met een DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
+Dankzij DOIs kunnen we een versie van het handboek in de Zenodo repository citeren. 
+Hierdoor kunnen we garanderen dat er naar het handboek kan worden verwezen in academische publicaties. 
 
-The citation will look something like:
+Het citaat ziet er ongeveer zo uit:
 
 > The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. <http://doi.org/10.5281/zenodo.3233986>
 
-You can also share the human-readable URL to a page in the book, for example: <https://the-turing-way.netlify.com/reproducibility/03/definitions.html>, but be aware that the project is under development and therefore these links may change over time.
-You might want to include a web archive link such as: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> to make sure that you don't end up with broken links everywhere!
+Je kan ook een door mensen leesbare URL delen met een pagina in het boek, bijvoorbeeld. : <https://the-turing-way.netlify.com/reproducibility/03/definitions.html>.
+Houd er rekening mee dat het project in ontwikkeling is waardoor deze links in de loop van de tijd kunnen veranderen.
+Als je een webarchieflink toevoegt, zoals: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> voorkom je dat er overal doodlopende links staan.
 
-We really appreciate any references that you make to _The Turing Way_ project in your and we hope it is useful.
-If you have any questions please [get in touch](#get-in-touch).
+We waarderen alle verwijzingen naar de _The Turing Way_ project in jouw werk en we hopen dat de _The Turing Way_ van nut is.
+Als je vragen hebt [neem contact op](#get-in-touch).
 
 ### Citeren _The Turing Way_ illustraties
 
-_The Turing Way_ illustraties zijn gecreerd door kunstenaars van [Scriberia](https://www.scriberia.co.uk/) als onderdeel van [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) in Manchester op 17 Mei 2019 en Londen op 28 Mei 2019 en 21 Februari 2020.
+_The Turing Way_ illustraties zijn gecreëerd door kunstenaars van [Scriberia](https://www.scriberia.co.uk/) als onderdeel van [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) in Manchester op 17 Mei 2019 en Londen op 28 Mei 2019 en 21 Februari 2020.
 Ze illustreren bijvoorbeeld de inhoud van het handboek, samenwerking binnen de Community en het _The Turing Way_ project in het algemeen. 
 De illustraties zijn beschikbaar op Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) onder een CC-BY licentie.
 
