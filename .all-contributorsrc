@@ -1823,6 +1823,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "gustavobecelli",
+      "name": "Gustavo Becelli do Nacimento",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/39573195?v=4",
+      "profile": "https://github.com/gustavobecelli",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "projectName": "the-turing-way",
