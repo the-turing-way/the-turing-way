@@ -46,7 +46,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Alexander Morley
 
-* Role: Previous Infratructure Maintainer
+* Role: Infrastructure Maintainer (2018 - 2019)
 * GitHub id: [alexmorley](http://github.com/alexmorley)
 * ORCID: [TBA](https://orcid.org/TBA)
 * Short bio:
@@ -479,4 +479,3 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 
 <!---Z--->
-
