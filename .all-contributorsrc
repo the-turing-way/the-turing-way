@@ -1850,6 +1850,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "bertinetto",
+      "name": "Luca Bertinetto",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3330489?v=4",
+      "profile": "http://www.robots.ox.ac.uk/~luca",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "projectName": "the-turing-way",
