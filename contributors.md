@@ -447,7 +447,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Sophia Batchelor
 
-* Role: HacktoberFest contribution Facilitator, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework
+* Role: HacktoberFest contribution facilitator (2020), [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework
 * GitHub id: TBA
 * ORCID: TBA
 * Short bio: TBA
