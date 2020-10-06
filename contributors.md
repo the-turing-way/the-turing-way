@@ -88,6 +88,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 <!---B--->
 
+
 ### Becky Arnold
 
 * GitHub id: [r-j-arnold](http://github.com/r-j-arnold)
@@ -110,6 +111,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 I also hope that it can convince people that don't consider themselves capable of being good programmers that there are steps they can take to drastically improve their coding.
 
 <!---C--->
+
 
 ### Camila Rangel Smith
 
@@ -150,6 +152,7 @@ I also hope that it can convince people that don't consider themselves capable o
 
 
 <!---H--->
+
 
 ### Heidi Seibold
 
@@ -199,6 +202,7 @@ I would like to be a part of it.
 
 <!---I--->
 
+
 ### Ismael Kherroubi Garcia
 
 * Role: Core contributor, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework
@@ -223,6 +227,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 
 <!---L--->
+
 
 ### Laura Carter
 
@@ -262,6 +267,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > I see the Turing Way as the means of bridging that gap, by providing a friendly, practical and helpful guide for researchers at all stages of their careers.
 
 <!---M--->
+
 
 ### Malvika Sharan
 
@@ -308,6 +314,32 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > By providing recommended working practices and guidance on associated tooling, we can make it easy for researchers to do the right thing.
 > By publishing this with the weight of the Turing brand, we can apply social pressure for the adoption of these practices as new norms in the research communities we operate in.
 
+
+### Martina G. Vilas
+
+* Role: Core contributor, JupyterBook Infrastructure Maintainer
+* GitHub id: [martinagvilas](http://github.com//martinagvilas)
+* ORCID: [0000-0002-1097-8534](https://orcid.org/0000-0002-1097-8534)
+* Short bio:
+> Martina Vilas is doing her PhD in Neuroscience at the Max-Planck-Institute AE in Frankfurt, Germany. 
+> She studies how the brain processes conceptual knowledge analyzing neural recordings with computational modelling techniques. 
+> As an advocate of open-research, she also works on improving the reproducibility of neuroscientific-analyses and enjoys contributing to open-source software projects. 
+> Since the Book Dash in February 2020, she further pursues these interests by helping in the maintenance of The Turing Way infrastructure and its reliance on Jupyter Book.
+
+* Personal highlights:
+> The Turing Way is not only a great guide for conducting reproducible research, but it also provides a wonderful entry point into open-source contribution in general and connects you to a variety of open data-science communities.
+
+* More information:
+
+<!---N--->
+
+
+<!---O--->
+
+
+<!---P--->
+
+
 ### Patricia Herterich
 
 * Role: Core contributor
@@ -341,6 +373,13 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 * More information:
 >TBA
+
+
+<!---Q--->
+
+
+<!---R--->
+
 
 ### Rosie Higman
 
@@ -385,6 +424,9 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > I find that it can be difficult to get researchers to engage with reproducibility and sharing their research outputs because they perceive that it will take too much time and effort with very little reward - when the opposite is true!
 > Ensuring results are reproducible not only benefits research as a whole and increases efficiency, but working this way also offers researchers more opportunities for impact and collaboration.
 
+<!---S--->
+
+
 ### Sarah Gibson
 
 * Role: Core contributor, Infrastructure Maintainer
@@ -416,3 +458,25 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 * More information:
 >TBA
+
+
+<!---T--->
+
+
+<!---U--->
+
+
+<!---V--->
+
+
+<!---W--->
+
+
+<!---X--->
+
+
+<!---Y--->
+
+
+<!---Z--->
+
