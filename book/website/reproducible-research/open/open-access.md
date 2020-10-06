@@ -30,7 +30,7 @@ This transfer of rights implies that authors must ask for permission to reuse th
 Such granted uses may include teaching, sharing with colleagues, and self-archiving by researchers of their papers in repositories.
 Sometimes, there are standard policies across all journals maintained by the same publishers. 
 However, in general, journals have their own policies, especially when they are published on behalf of a scientific society.
-When looking at the self-archiving conditions, we must identify two key issues: the version of the paper that can be deposited, and when it can be made publicly available.
+When looking at the conditions for self-archiving, we must identify two key issues: the version of the paper that can be deposited, and when it can be made publicly available.
 
 Regarding the version, some journals allow the dissemination of the submitted versions, also known as a preprint. 
 They also allow its replacement for a reviewed version once the final paper has been published.
