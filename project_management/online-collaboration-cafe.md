@@ -120,32 +120,34 @@ Times in a few different time zones are shown in the table below.
 
 ***Video recordings from these calls will be posted on [our YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).***
 
-#### Schedule for 2020 (shown in 24:00 hr format)
+#### Schedule for 2020
 
- Date | Local Time | Brisbane | Shanghai | Kolkata | Paris | London | New York | Vancouver |
-| ---- | ---------- | --------- |-------- | ------- | ----- | ------ | -------- | --------- |
-| 15 January 2020 | [AreWeMeetingYet? 2020-01-15 19:00](https://arewemeetingyet.com/London/2020-01-15/19:00/TuringWay-CollaborationCafe) | 05:00 am | 03:00 am | 12:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
-| 5 February 2020 | [AreWeMeetingYet? 2020-02-05 15:00](https://arewemeetingyet.com/London/2020-02-05/15:00/TuringWay-CollaborationCafe) | 01:00 am | 23:00 pm | 20:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
-| 19 February 2020 | [AreWeMeetingYet? 2020-02-19 19:00](https://arewemeetingyet.com/London/2020-02-19/19:00/TuringWay-CollaborationCafe) | 05:00 am | 03:00 am | 12:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
-| 4 March 2020 | [AreWeMeetingYet? 2020-03-04 15:00](https://arewemeetingyet.com/London/2020-03-04/15:00/TuringWay-CollaborationCafe) | 01:00 am | 23:00 pm | 20:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
-| 18 March 2020 | [AreWeMeetingYet? 2020-03-18 19:00](https://arewemeetingyet.com/London/2020-03-18/19:00/TuringWay-CollaborationCafe) | 05:00 am | 03:00 am | 12:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
-| 1 April 2020 | [AreWeMeetingYet? 2020-04-01 15:00](https://arewemeetingyet.com/London/2020-04-01/15:00/TuringWay-CollaborationCafe) | 00:00 am | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
-| 15 April 2020 | [AreWeMeetingYet? 2020-04-15 19:00](https://arewemeetingyet.com/London/2020-04-15/19:00/TuringWay-CollaborationCafe) | 04:00 am | 02:00 am | 23:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
-| 6 May 2020 | [AreWeMeetingYet? 2020-05-06 15:00](https://arewemeetingyet.com/London/2020-05-06/15:00/TuringWay-CollaborationCafe) | 00:00 am | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
-| 20 May 2020 | [AreWeMeetingYet? 2020-05-20 19:00](https://arewemeetingyet.com/London/2020-05-20/19:00/TuringWay-CollaborationCafe) | 04:00 am | 02:00 am | 23:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
-| 3 June 2020 | [AreWeMeetingYet? 2020-06-03 15:00](https://arewemeetingyet.com/London/2020-06-03/15:00/TuringWay-CollaborationCafe) | 00:00 am | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
-| 17 June 2020 | [AreWeMeetingYet? 2020-06-17 19:00](https://arewemeetingyet.com/London/2020-06-17/19:00/TuringWay-CollaborationCafe) | 04:00 am | 02:00 am | 23:30 pm | 20:00 pm | 19:00 pm | 14:00 pm | 11:00 am |
-| 2 July 2020 | [AreWeMeetingYet? 2020-07-02 15:00](https://arewemeetingyet.com/London/2020-06-03/15:00/TuringWay-CollaborationCafe) | 00:00 am | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
-| 16 July 2020 | [AreWeMeetingYet? 2020-07-16 15:00](https://arewemeetingyet.com/London/2020-06-03/15:00/TuringWay-CollaborationCafe) | 00:00 am | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
-| 2 September 2020 | [AreWeMeetingYet? 2020-09-02 15:00](https://arewemeetingyet.com/London/2020-06-03/15:00/TuringWay-CollaborationCafe) | 00:00 am | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
-| 16 September 2020 | [AreWeMeetingYet? 2020-09-16 15:00](https://arewemeetingyet.com/London/2020-06-03/15:00/TuringWay-CollaborationCafe) | 00:00 am | 22:00 pm | 19:30 pm | 16:00 pm | 15:00 pm | 10:00 am | 7:00 am |
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
+ Date | Time | 
+| ---- | ---------- |
+| 15 January 2020 | 2020-01-15, 19:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-01-15/19:00/TuringWay-CollaborationCafe)) |
+| 5 February 2020 | 2020-02-05, 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-02-05/15:00/TuringWay-CollaborationCafe)) |
+| 19 February 2020 | 2020-02-19, 19:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-02-19/19:00/TuringWay-CollaborationCafe)) |
+| 4 March 2020 | 2020-03-04, 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-03-04/15:00/TuringWay-CollaborationCafe)) |
+| 18 March 2020 | 2020-03-18, 19:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-03-18/19:00/TuringWay-CollaborationCafe)) |
+| 1 April 2020 | 2020-04-01, 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-04-01/15:00/TuringWay-CollaborationCafe)) |
+| 15 April 2020 | 2020-04-15, 19:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-04-15/19:00/TuringWay-CollaborationCafe)) |
+| 6 May 2020 | 2020-05-06, 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-05-06/15:00/TuringWay-CollaborationCafe)) |
+| 20 May 2020 | 2020-05-20, 19:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-05-20/19:00/TuringWay-CollaborationCafe)) |
+| 3 June 2020 | 2020-06-03, 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-06-03/15:00/TuringWay-CollaborationCafe))
+| 17 June 2020 | 2020-06-17, 19:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-06-17/19:00/TuringWay-CollaborationCafe)) |
+| 2 July 2020 | 2020-07-02, 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-07-02/15:00/TuringWay-CollaborationCafe)) |
+| 16 July 2020 | 2020-07-16, 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-07-16/15:00/TuringWay-CollaborationCafe)) |
+| 2 September 2020 | 2020-09-02, 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-09-02/15:00/TuringWay-CollaborationCafe)) |
+| 16 September 2020 | 2020-09-16, 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-09-16/15:00/TuringWay-CollaborationCafe)) |
+| 7 October 2020 | 2020-10-07, 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-10-07/15:00/TuringWay-CollaborationCafe)) |
+| 21 October 2020 | 2020-09-16, 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-10-21/15:00/TuringWay-CollaborationCafe)) |
+| 4 November 2020 | 2020-11-04, 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-11-04/15:00/TuringWay-CollaborationCafe)) |
+| 18 November 2020 | 2020-11-18, 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-11-18/15:00/TuringWay-CollaborationCafe)) |
+| 2 December 2020 | 2020-12-02, 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-12-02/15:00/TuringWay-CollaborationCafe)) |
+| 16 December 2020 | 2020-12-16, 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2020-12-16/15:00/TuringWay-CollaborationCafe)) | 
 
-We don't currently have a regular time that is accessible for collaborators in Australia or New Zealand.
-Please get in touch if you'd like to join one and we're happy to add an early (UK) session!
-(Such as the one [suggested](https://github.com/alan-turing-institute/the-turing-way/issues/684) by [Paula](https://github.com/orchid00) for a session last year! ✨)
+We also host short coworking calls multiple times each month.
+Please check our [community calendar for details](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com).
 
 #### Schedule for 2019
 
