@@ -1859,6 +1859,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "lauracion",
+      "name": "Laura Acion",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/17729900?v=4",
+      "profile": "http://lacion.rbind.io",
+      "contributions": [
+        "a11y"
+      ]
     }
   ],
   "projectName": "the-turing-way",
