@@ -32,6 +32,7 @@ The contributors file, called [`contributors.md`](https://github.com/alan-turing
 This will be referred to as `contributor's detail` in the rest of this document:
 
 > `Contributor's name`
+> * Role: `This is an optional entry for any specific role contributors have assumed in the project like, core contributor, translation lead, or committee members.`
 > * GitHub id: `GitHub id, example: [@kirstiejane](http://github.com/kirstiejane)`
 > * ORCID: `ORCID id of the contributor, example: [0000-0001-8498-4059](https://orcid.org/0000-0001-8498-4059)`
 > * Short Bio: `1-2 sentences about themselves`
