@@ -2,7 +2,7 @@
 ## Open Access
 
 (rr-open-access-whatis)=
-### What Is Open Access?
+### What is Open Access?
 
 One of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public if purchased through a subscription fee or individually.
 However, new knowledge is built by synthesizing current scholarship and then building upon it.
