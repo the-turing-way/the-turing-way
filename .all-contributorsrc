@@ -1760,6 +1760,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "jessyprovencher",
+      "name": "Jessy Provencher",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/70674444?v=4",
+      "profile": "https://github.com/jessyprovencher",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "projectName": "the-turing-way",
