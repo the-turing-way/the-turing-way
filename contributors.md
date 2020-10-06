@@ -69,7 +69,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Anna Krystalli
 
-* Role: [Code of Conduct Committee](https://the-turing-way.netlify.app/community-handbook/coc/coc-enforcement.html) member (2018 - )
+* Role: [Code of Conduct Committee](https://the-turing-way.netlify.app/community-handbook/coc/coc-enforcement.html) member (2018 - present)
 * GitHub id: [annakrystalli](http://github.com/annakrystalli)
 * ORCID: [0000-0002-2378-4915](https://orcid.org/0000-0002-2378-4915)
 * Short bio:
@@ -91,6 +91,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Becky Arnold
 
+* Role: Core Contributor (2018 - 2019)
 * GitHub id: [r-j-arnold](http://github.com/r-j-arnold)
 * ORCID: [0000-0003-0355-0617](https://orcid.org/0000-0003-0355-0617)
 * Short bio:
@@ -115,7 +116,7 @@ I also hope that it can convince people that don't consider themselves capable o
 
 ### Camila Rangel Smith
 
-* Role: Translation Lead - Spanish (2019 - )
+* Role: Translation Lead - Spanish (2020)
 * GitHub id: [crangelsmith](https://github.com/crangelsmith)
 * ORCID id: [0000-0002-0227-836X](https://orcid.org/0000-0002-0227-836X)
 * Short bio:
@@ -156,7 +157,7 @@ I also hope that it can convince people that don't consider themselves capable o
 
 ### Heidi Seibold
 
-* Role: Core contributor
+* Role: Core contributor (2020)
 * GitHub id: [HeidiSeibold](https://github.com/HeidiSeibold)
 * ORCID id: [0000-0002-8960-9642](https://orcid.org/0000-0002-8960-9642)
 * Short bio:
@@ -205,7 +206,7 @@ I would like to be a part of it.
 
 ### Ismael Kherroubi Garcia
 
-* Role: Core contributor, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework
+* Role: Core contributor, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework (2020)
 * GitHub id: [Ismael-KG](https://github.com/Ismael-KG)
 * Short bio:
 > I'm Ethics Research Assistant at the Alan Turing Institute.
@@ -231,7 +232,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Laura Carter
 
-* Role: [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework
+* Role: [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework (2020)
 * GitHub id: [Laura Carter](https://github.com/LauraCarter)
 * ORCID: [0000-0002-4285-1140](https://orcid.org/0000-0002-4285-1140)
 * Short bio:
@@ -247,6 +248,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Louise Bowler
 
+* Role: Core Contributor (2019)
 * GitHub id: [LouiseABowler](http://github.com/LouiseABowler)
 * ORCID: [0000-0002-4910-9205](https://orcid.org/0000-0002-4910-9205)
 * Short bio:
@@ -271,7 +273,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Malvika Sharan
 
-* Role: **Community Manager** (2019 - )
+* Role: **Community Manager** (2019 - present)
 * GitHub id: [malvikasharan](http://github.com/malvikasharan)
 * ORCID: [0000-0001-6619-7369](https://orcid.org/0000-0001-6619-7369)
 * Short bio:
@@ -290,6 +292,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Martin O'Reilly
 
+* Role: Core Contributor (2019)
 * GitHub id: [martintoreilly](http://github.com/martintoreilly)
 * ORCID: [TBA](https://orcid.org/TBA)
 * Short bio:
@@ -317,7 +320,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Martina G. Vilas
 
-* Role: Core contributor, JupyterBook Infrastructure Maintainer
+* Role: Core contributor, JupyterBook Infrastructure Maintainer (2020)
 * GitHub id: [martinagvilas](http://github.com//martinagvilas)
 * ORCID: [0000-0002-1097-8534](https://orcid.org/0000-0002-1097-8534)
 * Short bio:
@@ -342,7 +345,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Patricia Herterich
 
-* Role: Core contributor
+* Role: Core contributor (2019 - present)
 * GitHub id: [pherterich](http://github.com/pherterich)
 * ORCID: [0000-0002-4542-9906](https://orcid.org/0000-0002-4542-9906)
 * Short bio:
@@ -362,7 +365,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Paul Owoicho
 
-* Role: Google Season of Doc: Technical Writer, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Embedding Accessibility in The Turing Wayy
+* Role: Google Season of Doc: Technical Writer, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Embedding Accessibility in The Turing Way (2020)
 * GitHub id: TBA
 * ORCID: TBA
 * Short bio: TBA
@@ -383,6 +386,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Rosie Higman
 
+* Role: Core Contributor (2019)
 * GitHub id: [rosiehigman](http://github.com/rosiehigman)
 * ORCID: [0000-0001-5329-7168](https://orcid.org/0000-0001-5329-7168)
 * Short bio:
@@ -405,6 +409,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Rachael Ainsworth
 
+* Role: Core Contributor (2019)
 * GitHub id: [rainsworth](http://github.com/rainsworth)
 * ORCID: [0000-0003-2591-9462](https://orcid.org/0000-0003-2591-9462)
 * Short bio:
@@ -429,7 +434,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Sarah Gibson
 
-* Role: Core contributor, Infrastructure Maintainer
+* Role: Core contributor, Infrastructure Maintainer (2019 - present)
 * GitHub id: [sgibson91](http://github.com/sgibson91)
 * ORCID: [0000-0003-0356-2765](https://orcid.org/0000-0003-0356-2765)
 * Short bio:
@@ -447,7 +452,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Sophia Batchelor
 
-* Role: HacktoberFest contribution facilitator (2020), [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework
+* Role: HacktoberFest contribution facilitator, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework (2020)
 * GitHub id: TBA
 * ORCID: TBA
 * Short bio: TBA
