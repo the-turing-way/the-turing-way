@@ -19,8 +19,9 @@ This record can be used in your personal or professional portfolio (profile, CV,
 
 See this entry as an example by Kirstie Whitaker, the project lead:
 
-### Kirstie Whitaker (Project lead)
+### Kirstie Whitaker
 
+* Role: **Project lead**
 * GitHub id: [kirstiejane](http://github.com/kirstiejane)
 * ORCID: [0000-0001-8498-4059](https://orcid.org/0000-0001-8498-4059)
 * Short bio:
@@ -41,8 +42,11 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 **Contributors names should be added alphabetically**
 
+<!---A--->
+
 ### Alexander Morley
 
+* Role: Previous Infratructure Maintainer
 * GitHub id: [alexmorley](http://github.com/alexmorley)
 * ORCID: [TBA](https://orcid.org/TBA)
 * Short bio:
@@ -65,6 +69,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Anna Krystalli
 
+* Role: [Code of Conduct Committee member](https://the-turing-way.netlify.app/community-handbook/coc/coc-enforcement.html)
 * GitHub id: [annakrystalli](http://github.com/annakrystalli)
 * ORCID: [0000-0002-2378-4915](https://orcid.org/0000-0002-2378-4915)
 * Short bio:
@@ -80,6 +85,8 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > Building on past experience as a quality assurance auditor, my experiences made me interested in how we practice science and specifically how we can do more out of the real workhorses of modern research, our code and data.
 > Working in _The Turing Way_ is a fantastic opportunity to take stock of the great work that has already been done in this space, aggregate and distill it to templates, checklists and  best practices guidelines that are immediately useful to researchers.
 > It’s an opportunity to set standards and harness the power of convention, especially with ECRs that have an opportunity to set up good practices from the start! Indeed, I hope the Turing Way will very much become the “Sheffield Way” too!
+
+<!---B--->
 
 ### Becky Arnold
 
@@ -102,8 +109,11 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > While there are lots of fantastic resources out there they're often scattered and _The Turing Way_ can improve that.
 I also hope that it can convince people that don't consider themselves capable of being good programmers that there are steps they can take to drastically improve their coding.
 
+<!---C--->
+
 ### Camila Rangel Smith
 
+* Role: Spanish Translation Lead
 * GitHub id: [crangelsmith](https://github.com/crangelsmith)
 * ORCID id: [0000-0002-0227-836X](https://orcid.org/0000-0002-0227-836X)
 * Short bio:
@@ -127,8 +137,23 @@ I also hope that it can convince people that don't consider themselves capable o
 > More recently that project has become consolidated into LA-CoNGA physics (http://laconga.redclara.net/), an EU Erasmus+ funded project with a mission to create a Latin American and European Community for Advanced Physics.
 > In this project I’m helping to build a data science module that will be thought in an online master course.
 
+<!---D--->
+
+
+<!---E--->
+
+
+<!---F--->
+
+
+<!---G--->
+
+
+<!---H--->
+
 ### Heidi Seibold
 
+* Role: Core contributor
 * GitHub id: [HeidiSeibold](https://github.com/HeidiSeibold)
 * ORCID id: [0000-0002-8960-9642](https://orcid.org/0000-0002-8960-9642)
 * Short bio:
@@ -172,8 +197,11 @@ next step for The Turing Way to become more than a book. It could be an
 ecosystem, with the book at its basis. And -- if we decide to go that route --
 I would like to be a part of it.
 
+<!---I--->
+
 ### Ismael Kherroubi Garcia
 
+* Role: Core contributor, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework
 * GitHub id: [Ismael-KG](https://github.com/Ismael-KG)
 * Short bio:
 > I'm Ethics Research Assistant at the Alan Turing Institute.
@@ -188,9 +216,17 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * More information:
 > I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there!
 
+<!---J--->
+
+
+<!---K--->
+
+
+<!---L--->
 
 ### Laura Carter
 
+* Role: [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework
 * GitHub id: [Laura Carter](https://github.com/LauraCarter)
 * ORCID: [0000-0002-4285-1140](https://orcid.org/0000-0002-4285-1140)
 * Short bio:
@@ -225,9 +261,11 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > If we say that we want people to make their research open and reproducible, we need to give them the tools they need to be confident in doing so.
 > I see the Turing Way as the means of bridging that gap, by providing a friendly, practical and helpful guide for researchers at all stages of their careers.
 
+<!---M--->
 
-### Malvika Sharan (Community Manager)
+### Malvika Sharan
 
+* Role: **Community Manager**
 * GitHub id: [malvikasharan](http://github.com/malvikasharan)
 * ORCID: [0000-0001-6619-7369](https://orcid.org/0000-0001-6619-7369)
 * Short bio:
@@ -272,6 +310,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Patricia Herterich
 
+* Role: Core contributor
 * GitHub id: [pherterich](http://github.com/pherterich)
 * ORCID: [0000-0002-4542-9906](https://orcid.org/0000-0002-4542-9906)
 * Short bio:
@@ -291,6 +330,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Paul Owoicho
 
+* Role: Google Season of Doc: Technical Writer, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Embedding Accessibility in The Turing Wayy
 * GitHub id: TBA
 * ORCID: TBA
 * Short bio: TBA
@@ -347,6 +387,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Sarah Gibson
 
+* Role: Core contributor, Infrastructure Maintainer
 * GitHub id: [sgibson91](http://github.com/sgibson91)
 * ORCID: [0000-0003-0356-2765](https://orcid.org/0000-0003-0356-2765)
 * Short bio:
@@ -364,6 +405,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Sophia Batchelor
 
+* Role: HacktoberFest contribution Facilitator, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework
 * GitHub id: TBA
 * ORCID: TBA
 * Short bio: TBA
