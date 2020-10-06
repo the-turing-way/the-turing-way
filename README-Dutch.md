@@ -44,8 +44,8 @@ Financiers en uitgevers beginnen te eisen dat publicaties de onderliggende data 
 Het doel van reproduceerbaar onderzoek is om ervoor te zorgen dat alle resultaten onafhankelijk kunnen worden geverifieerd en gebruikt kunnen worden in toekomstig onderzoek.
 Dit is soms makkelijker gezegd dan gedaan.
 Het delen van deze onderzoeksresultaten betekent inzicht in gegevensbeheer, bibliotheekwetenschappen, softwareontwikkeling en continue integratietechnieken: vaardigheden die niet algemeen worden onderwezen of verwacht van academische onderzoekers en datawetenschappers. Aangezien deze activiteiten niet algemeen worden onderwezen, erkennen we dat de last van vereisten en het verwerven van nieuwe vaardigheden intimiderend kan zijn voor personen die nieuw zijn in deze wereld.
-* The Turing Way * is een handboek om studenten, hun supervisors, financiers en tijdschriftenredacteuren te ondersteunen om ervoor te zorgen dat reproduceerbare datawetenschap "te gemakkelijk is om niet te doen", zelfs voor mensen die nog nooit op deze manier hebben gewerkt.
-* The Turing Way * trainingsmateriaal bevat informatie over versiebeheer, analysetesten en open en transparante communicatie met toekomstige gebruikers, en voortbouwen op casestudy's en workshops van het Turing Institute.
+*The Turing Way* is een handboek om studenten, hun begeleiders, financiers en tijdschriftenredacteuren te ondersteunen om ervoor te zorgen dat reproduceerbare datawetenschap "te gemakkelijk is om niet te doen", zelfs voor mensen die nog nooit op deze manier hebben gewerkt.
+*The Turing Way* trainingsmateriaal bevat informatie over versiebeheer, analysetesten en open en transparante communicatie met toekomstige gebruikers, en voortbouwen op casestudy's en workshops van het Turing Institute.
 Dit project is openlijk ontwikkeld en alle vragen, opmerkingen en aanbevelingen zijn welkom in onze github repository: <https://github.com/alan-turing-institute/the-turing-way>.
 
 ### Het team
@@ -57,11 +57,11 @@ Voor meer informatie over hoe je ons kan contacteren zie [ways of working docume
 
 ### Bijdragen
 
-:construction: Aan deze repository wordt altijd gewerkt en ** iedereen ** wordt aangemoedigd om ons te helpen iets te bouwen dat nuttig is voor velen. :construction:
+:construction: Aan deze repository wordt altijd gewerkt en **iedereen** wordt aangemoedigd om ons te helpen iets te bouwen dat nuttig is voor velen. :construction:
 
 Wij vragen iedereen zich te houden aan de [code of conduct](CODE_OF_CONDUCT.md) en onze [contributing guidelines](CONTRIBUTING.md) te lezen voor meer informatie over hoe je kan beginnen met bijdragen. 
 
-Als je niet bekend of zelfverzekerd bent met GitHUB kan je ook een case study of je tips en trucs bijdragen via een [Google submission form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
+Als je niet bekend of zelfverzekerd bent met GitHub kan je ook een case study of je tips en trucs bijdragen via een [Google submission form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
 
 ### Citeren _The Turing Way_
 
