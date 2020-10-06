@@ -26,7 +26,7 @@ Finally, harvesters aggregate content from different repositories, becoming site
 
 When choosing a journal to publish research results, researchers should take a moment to read the journal policy regarding the transfer of copyright.
 Many journals still require that authors transfer full copyright for publication.
-This transfer of rights implies that authors must ask for permission to reuse their work beyond what is allowed by the applicable law unless there are some uses already granted.
+This transfer of rights implies that authors must ask for permission to reuse their work beyond what is allowed by the applicable law, unless there are some uses already granted.
 Such granted uses may include teaching, sharing with colleagues, and self-archiving by researchers of their papers in repositories.
 Sometimes, there are standard policies among all the journals published by the same publishers. 
 However, in general, journals have their own policies, especially when they are published on behalf of a scientific society.
