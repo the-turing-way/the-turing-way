@@ -115,7 +115,7 @@ I also hope that it can convince people that don't consider themselves capable o
 
 ### Camila Rangel Smith
 
-* Role: Spanish Translation Lead
+* Role: Translation Lead - Spanish (2019 - )
 * GitHub id: [crangelsmith](https://github.com/crangelsmith)
 * ORCID id: [0000-0002-0227-836X](https://orcid.org/0000-0002-0227-836X)
 * Short bio:
