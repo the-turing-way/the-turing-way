@@ -69,7 +69,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Anna Krystalli
 
-* Role: [Code of Conduct Committee member](https://the-turing-way.netlify.app/community-handbook/coc/coc-enforcement.html)
+* Role: [Code of Conduct Committee](https://the-turing-way.netlify.app/community-handbook/coc/coc-enforcement.html) member (2018 - )
 * GitHub id: [annakrystalli](http://github.com/annakrystalli)
 * ORCID: [0000-0002-2378-4915](https://orcid.org/0000-0002-2378-4915)
 * Short bio:
