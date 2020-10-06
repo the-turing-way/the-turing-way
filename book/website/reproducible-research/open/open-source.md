@@ -1,8 +1,8 @@
 (rr-open-source)=
-## Open Source Software
+# Open Source Software
 
 (rr-open-source-whatis)=
-### What Is Open Source Software?
+## What Is Open Source Software?
 
 When a project is open-source, anybody can view, use, modify, and distribute the project for any purpose.
 These permissions are enforced through an open-source licence.
@@ -20,7 +20,7 @@ Researchers that make use of open-source software often make changes to them, su
 They can then contribute these improvements back to the main project so the wider community can take advantage of them.
 
 (rr-open-source-benefitsyou)=
-### How Running and Contributing to Open-Source Software Projects Benefits You
+## How Running and Contributing to Open-Source Software Projects Benefits You
 
 - _Improve existing skills_: Whether it is coding, user interface design, graphic design, writing, or organizing, if you are looking for practice, there is a task for you on an open-source software project.
 Further, open source necessitates cleaner, more maintainable code to enable collaboration between potentially thousands of people who may never meet.
@@ -36,7 +36,7 @@ Open source offers opportunities to practice leadership and management skills, s
 - _Meet people with similar interests_: Open source software projects with warm, welcoming communities keep people coming back for years, and many people form lifelong friendships through their participation in open source.
 - _Find mentors and teach others_: Working with others on a shared project means you will have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
 
-#### Making Your Work Open Source
+### Making Your Work Open Source
 
 - _Re-usability_: Making your work openly available for re-use makes it easier for others to incorporate into their research. 
 If you make your software citeable, via a DOI for example, this can increase your citations.
@@ -46,7 +46,7 @@ If your project is open, the number of potential contributing developers and thu
 - _Accountability_: There is an argument that any software developed using government money should be open source by default; if the public has paid for its development they have a right to make use of it.
 If your work is government-funded, making it open is a step you can take towards government openness and accountability.
 
-#### Contributing to Others' Open Source Software Projects
+### Contributing to Others' Open Source Software Projects
 
 - _It is empowering to be able to make changes, even small ones_: You do not have to become a lifelong contributor to enjoy participating in open source.
 Have you ever seen a typo on a website, and wished someone would fix it?
@@ -56,11 +56,12 @@ Open source helps people feel agency over their lives and how they experience th
 Open source provides an endless, ever-changing set of Rubix cubes for you to solve on weekends. Just like puzzles, both crossword and jigsaw, open source provides bite-sized intellectual escapes.
 
 (rr-open-source-benefitsresearch)=
-### How open source software benefits research
+## How open source software benefits research
 
 There are several in which open-source software benefits research: 
 
-#### Re-usable
+(rr-open-source-benefitsresearch-reusable)=
+### Re-usable
 
 Open source software projects allow researchers to take advantage of each others’ work. 
 This enables researchers to apply their efforts to high-value work. 
@@ -69,17 +70,19 @@ Blogging, content management, and operating systems are all problems with establ
 While developers could spend their time reinventing wheels that the open-source community has already perfected, it is highly preferable to use the world’s best wheel, especially when that wheel comes at no cost to you. 
 This reduces duplication of effort and allows researchers to focus on yet-unsolved challenges.
 
-#### Checkable
+(rr-open-source-benefitsresearch-checkable)=
+### Checkable
 
 Open-source projects allow the broader research community to read and test each others' code. 
 This way, bugs can be found more quickly, and other researchers can validate results. 
 
-#### Collaborative
+(rr-open-source-benefitsresearch-collaborative)=
+### Collaborative
 Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups. 
 Examples include [Linux](https://www.linux.org/) operating systems, Python packages such as [scipy](https://www.scipy.org/) and [numpy](http://www.numpy.org/), and the machine learning library [TensorFlow](https://www.tensorflow.org/).
 
 (rr-open-source-run)=
-### How to Run Your Open Source Software Project
+## How to Run Your Open Source Software Project
 
 You can open source an idea, a work in progress, or after years of being closed source.
 At the most basic level, all you need to do is put your code online somewhere that is likely to last a long time.
@@ -91,7 +94,8 @@ You must include a license file stating that anyone has permission to use, copy,
 The {ref}`rr-licensing` chapter will help you to pick the best license for your project. 
 There are also a few other files you should include with your code, as described below.
 
-#### Welcome Users by Adding Information to Your README
+(rr-open-source-run-readme)=
+### Welcome Users by Adding Information to Your README
 
 You should include a README file where you include useful information about what the project is, how to use it, and how to contribute to it. Here is a list of the main things a README should include:
 
@@ -109,7 +113,8 @@ The best thing you can do is to write up the installation instructions when you 
 Suppose you intend for other people to collaborate on your project (as opposed to just making your code available and considering it complete). 
 In that case, you should include Contributing Guidelines and most likely, a Code of Conduct.
 
-#### Contributing Guidelines
+(rr-open-source-run-guidelines)=
+### Contributing Guidelines
 
 Contributing Guidelines tell your audience how to participate in your project. For example, you might include information on:
 
@@ -127,7 +132,8 @@ Over time, you might add other frequently asked questions here or in your readme
 Writing down this information means fewer people will ask you the same questions over and over again.
 It is also a good idea to link to your contributing guidelines file from your README, so more people see it.
 
-#### Code of Conduct
+(rr-open-source-run-conduct)=
+### Code of Conduct
 
 A Code of Conduct helps set ground rules for behaviour for your project's participants.
 This is especially valuable if you are launching an open-source project for a community or company.
@@ -139,9 +145,10 @@ Much like open source licences, there are also emerging standards for codes of c
 Keep the file in your project's root directory, so it is easy to find, and link to it from your README.
 
 (rr-open-source-contribute)=
-### How to Contribute to Other's Open Source Software Projects
+## How to Contribute to Other's Open Source Software Projects
 
-#### Anatomy of an Open Source Software Project
+(rr-open-source-contribute-anatomy)=
+### Anatomy of an Open Source Software Project
 
 Every open source community is different. That said, many open source software projects follow a similar organizational structure. 
 Understanding the different community roles and the overall process will help you get quickly oriented to any new project.
@@ -163,7 +170,8 @@ A great many open source projects are hosted on GitHub (see the chapter on versi
 - _Discussion forums or mailing lists_: Some projects may use these channels for conversational topics (for example, "How do I..." or "What do you think about..." instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 - _Synchronous chat channel_: Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
 
-#### Contribute your changes
+(rr-open-source-contribute-changes)=
+### Contribute Your Changes
 
 Say you have added a feature or fixed a bug and want to contribute this work to the main project.
 
@@ -181,7 +189,8 @@ Make sure you are testing against an up to date version of the project as it may
 This makes it as easier for someone looking at your work and deciding whether to incorporate it into the main project to do so. 
 In the likely case the main project is hosted on GitHub, you should put this in the pull request (see the chapter {ref}`rr-vcs` for more details).
 
-#### Looking for Projects to Contribute to and How to Contribute to Them
+(rr-open-source-contribute-looking)=
+### Looking for Projects to Contribute to and How to Contribute to Them
 
 You do not need to overthink what exactly your first contribution will be, or how it will look.
 Instead, start by thinking about the projects you already use or want to use.
@@ -211,7 +220,7 @@ A common misconception about contributing to open source is that you need to con
     - Ask clarifying questions on recently opened issues to move the discussion forward.
 
 (rr-open-source-closed)=
-### Closed Software
+## Closed Software
 
 What if you are working with people that do not use the open source model for their software?
 This may initially seem an affront to all the principles discussed so far. However, there are usually very good reasons for why things are the way they are (for example legal, commercial, or security reasons).

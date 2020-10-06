@@ -1,12 +1,12 @@
 (rr-open-scholarship)=
-## Open Scholarship
+# Open Scholarship
 
 Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship.
 
 ![open_umbrella](../../figures/open_umbrella.png)
 
 (rr-open-scholarship-resources)=
-### Open Educational Resources
+## Open Educational Resources
 
 Open educational resources (OERs) are teaching and learning materials that can be freely used and reused for learning or teaching at no cost, and without needing to ask permission. Examples are courses, including Massive Online Open Courses (MOOCs), lectures, teaching materials, assignments, and various other resources. OERs are available in many different formats compatible with online usage, most obviously text, images, audio, and video. Anyone with internet access can access and use OERs; access is not dependent on location or membership of a particular institution.
 
@@ -34,7 +34,7 @@ This shift in educational practice is about participation and co-creation.
 Open Educational Resources (OERs) offer opportunities for systemic change in teaching and learning content by involving educators in new participatory processes and leveraging effective technologies for learning engagement.
 
 (rr-open-scholarship-equity)=
-### Equity, Diversity, Inclusion
+## Equity, Diversity, Inclusion
 
 Open scholarship means open to *everyone* without discrimination based on factors such as race, gender, sexual orientation, or any number of other factors.
 As a community, we should undertake to ensure equitable opportunities for all.
@@ -42,7 +42,7 @@ We can go about that by deliberately fostering welcoming, inclusive cultures wit
 For example, reasonable accommodations should be made wherever possible to include community members with disabilities to enable them to participate fully, and this can be as simple as choosing colourblind-safe colour schemes when making graphs.
 
 (rr-open-scholarship-citizen)=
-### Citizen Science
+## Citizen Science
 
 Citizen science is the involvement of the public in scientific research – whether community-driven research or global investigations. 
 The Oxford English Dictionary recently defined it as: "scientific work undertaken by members of the general public, often in collaboration with or under the direction of professional scientists and scientific institutions".
@@ -53,7 +53,7 @@ It also benefits researchers by offering human resources that would not be acces
 Examples of this include [finding](https://citizensciencegames.com/games/eterna/) ways of folding molecules and [classifying](https://www.zooniverse.org/) different types of galaxies.
 
 (rr-open-scholarship-involvement)=
-### Patient and Public Involvement
+## Patient and Public Involvement
 Whilst citizen science encompasses one way of contributing to scientific research, Patient and Public Involvement (PPI) is a far more specialized form of citizen science which is particularly useful when researching health or social issues.
 
 PPI is *not*:

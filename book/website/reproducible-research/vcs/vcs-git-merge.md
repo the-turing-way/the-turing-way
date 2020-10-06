@@ -1,4 +1,5 @@
-# The Git Merge command
+(rr-vcs-merge)=
+# The Git Merge Command
 
 Once you've finished up some work on a branch and you're are ready to integrate it to your main project (or any other branch) you can merge the branch that you worked on into the master branch or any other target branch of your interest.
 You can also use merging to combine work that other people have done with your own and vice versa.
@@ -28,7 +29,7 @@ or
 error: Entry 'your_file_name' would be overwritten by merge. Cannot merge. (Changes in staging area)
 ```
 
-### Good practice
+## Good practice
 
 First and foremost your **master branch should always be stable**.
 Only merge work that is finished and tested (for example, on a different branch).
