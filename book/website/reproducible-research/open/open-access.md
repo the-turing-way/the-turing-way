@@ -33,7 +33,7 @@ However, in general, journals have their own policies, especially when they are 
 When looking at the conditions for self-archiving, we must identify two key issues: the version of the paper that can be deposited, and when it can be made publicly available.
 
 Regarding the version, some journals allow the dissemination of the submitted versions, also known as a preprint. 
-They also allow its replacement for a reviewed version once the final paper has been published.
+They also allow its replacement with the peer-reviewed version once it has been published.
 Due to the increase of policies requiring access to research results, most of the journals allow self-archiving of the accepted version of the paper, also known as the author manuscript or postprint.
 This version is the final text once the peer review process has ended but does not have the final layout of the publication.
 Finally, some journals do allow researchers to deposit the final published version, also known as the version of record.
