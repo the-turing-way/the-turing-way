@@ -271,7 +271,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Malvika Sharan
 
-* Role: **Community Manager**
+* Role: **Community Manager** (2019 - )
 * GitHub id: [malvikasharan](http://github.com/malvikasharan)
 * ORCID: [0000-0001-6619-7369](https://orcid.org/0000-0001-6619-7369)
 * Short bio:
