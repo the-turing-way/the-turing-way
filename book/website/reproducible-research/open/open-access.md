@@ -19,7 +19,7 @@ Preprints are documents that have not been peer-reviewed but are considered as a
 Some preprint servers include open peer-review services and the option to post new versions of the initial paper once reviewed by peers.
 
 At the beginning of 2019, more than 4000 repositories were available for researchers to self-archive their publications according to the [Registry of Open Access Repositories](http://roar.eprints.org/).
-In this list, there are institutional repositories, subject-based or thematic repositories, and harvesters.
+This list features institutional repositories, subject-based or thematic repositories, and harvesters.
 Institutional repositories are generally managed by research performing institutions to provide to their community a place to archive and share papers and other research outputs openly.
 Research communities usually manage subject-based repositories, and most of the contents are related to a specific discipline.
 Finally, harvesters aggregate content from different repositories, becoming sites to perform general searches and build other value-added services.
