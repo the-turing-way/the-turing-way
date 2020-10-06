@@ -6,7 +6,7 @@
 
 One of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public if purchased individually or through a subscription.
 However, new knowledge is built by synthesizing current scholarship and then building upon it.
-At the turn of the 21st century, a new movement appeared with a clear objective: make all the research results available to anyone interested in reading it, free of charge by any user, with no technical obstacles such as mandatory registration or login to specific platforms.
+At the turn of the 21st century, a new movement appeared with a clear objective: make all the research findings available to anyone interested in reading it, free of charge by any user, with no technical obstacles such as mandatory registration or login to specific platforms.
 This movement took the name of "open access" and established two initial strategies to achieve its final goal: self-archiving and open access publishing.
 
 #### Repositories and Self-Archiving
