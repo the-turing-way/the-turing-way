@@ -1706,6 +1706,17 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "BrainonSilicon",
+      "name": "Sophia Batchelor",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/42813259?v=4",
+      "profile": "https://github.com/BrainonSilicon",
+      "contributions": [
+        "review",
+        "ideas",
+        "maintenance"
+      ]
     }
   ],
   "projectName": "the-turing-way",
