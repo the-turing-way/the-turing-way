@@ -12,7 +12,6 @@ This movement took the name of "open access" and established two initial strateg
 #### Repositories and Self-Archiving
 
 The self-archiving movement aims to provide tools and assistance to scholars to deposit and disseminate their refereed journal articles in open institutional or subject-based repositories.
-As a result of this strategy, we see self-archiving practices where researchers deposit and disseminate papers in institutional or subject-based repositories.
 There has also been a growth in the publication of preprints through institutional repositories and preprint servers. 
 Preprints are widely used in physical sciences and now emerging in life sciences and other fields.
 Preprints are documents that have not been peer-reviewed but are considered as a complete publication in a first stage.
