@@ -1751,6 +1751,15 @@
         "review",
         "bug"
       ]
+    },
+    {
+      "login": "SamGuay",
+      "name": "Samuel Guay",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/30598330?v=4",
+      "profile": "https://github.com/SamGuay",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "projectName": "the-turing-way",
