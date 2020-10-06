@@ -787,7 +787,10 @@
         "eventOrganizing",
         "ideas",
         "projectManagement",
-        "review"
+        "review",
+        "talk",
+        "maintenance",
+        "video"
       ]
     },
     {
