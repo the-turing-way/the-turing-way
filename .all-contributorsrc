@@ -1796,6 +1796,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "StefanJanssen95",
+      "name": "Stefan Janssen",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6250246?v=4",
+      "profile": "https://stefanjanssen.nl",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "projectName": "the-turing-way",
