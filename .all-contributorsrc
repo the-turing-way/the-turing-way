@@ -1832,6 +1832,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "cemulus",
+      "name": "Cem Ulus",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/55829938?v=4",
+      "profile": "https://github.com/cemulus",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "projectName": "the-turing-way",
