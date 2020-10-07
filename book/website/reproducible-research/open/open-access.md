@@ -17,7 +17,7 @@ As a result of this strategy, we see self-archiving practices where researchers 
 There has also been a growth in the publication of preprints through institutional repositories and preprint servers. 
 Preprints are widely used in physical sciences and now emerging in life sciences and other fields.
 Preprints are documents that have not been peer-reviewed but are considered as a complete publication in a first stage.
-Some of the preprint servers include open peer review services and the availability to post new versions of the initial paper once reviewed by peers.
+Some preprint servers include open peer-review services and the option to post new versions of the initial paper once reviewed by peers.
 
 At the beginning of 2019, more than 4000 repositories were available for researchers to self-archive their publications according to the [Registry of Open Access Repositories](http://roar.eprints.org/).
 This list features institutional repositories, subject-based or thematic repositories, and harvesters.
