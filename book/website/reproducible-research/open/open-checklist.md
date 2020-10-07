@@ -1,4 +1,3 @@
-(rr-open-checklist)=
 
 # Checklist
 
