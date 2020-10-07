@@ -41,7 +41,7 @@ Due to the increase of policies requiring access to research results, most of th
 This version is the final text following the peer review process but does not yet have publication formatting or layout applied.
 Finally, some journals do allow researchers to deposit the final published version, also known as the version of record.
 
-Concerning the moment to make the paper publicly available, many journals establish a period from its original publication - the embargo period, which can range from zero to 60 months - when making the paper publicly available is not permitted.
+Concerning the moment to make the paper publicly available, many journals establish a period from its original publication - the embargo period, which can range from zero to 60 months - where making the paper publicly available is not permitted.
 Some journals include or exclude embargoes depending on the versions.
 For instance, the accepted version could be made publicly available after publication, but the published version must wait 12 months.
 
