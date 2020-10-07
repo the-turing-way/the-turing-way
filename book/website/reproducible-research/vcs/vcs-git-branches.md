@@ -1,7 +1,7 @@
 (rr-vcs-branches)=
 # Git Branches
 
-When working on a project, individually or collaboratively, you may encounter the following issues:
+When working on a project, individually or collaboratively, you may encounter the following scenarios:
 
 - If you add a new feature to your project, you run the risk of accidentally breaking your working code as you test the feature. 
 This would cause unexpected issues for active users of your project, even if the only active user is you.
