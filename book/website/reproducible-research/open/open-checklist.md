@@ -11,7 +11,6 @@
 - [ ] Assign your data a persistent identifier such as a DOI.
 
 (rr-open-checklist-software)=
-(rr-open-checklist-software)=
 ## Open Source Software
 
 - [ ] Put your code in a freely accessible repository.
