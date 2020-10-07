@@ -1,7 +1,7 @@
 (rr-overview-benefits)=
 # Added Advantages
 
-In the section, we discussed the different aspects of reproducible research that are beneficial for the scientific community.
+In the {ref}`rr-overview-definitions` section, we discussed the different aspects of reproducible research that are beneficial for the scientific community.
 In this chapter, we will share some less obvious aspects of working reproducibly for individual researchers and teams.
 
 ![Why we should care about working reproducibly](../../figures/reasons_reproducibility.png)
