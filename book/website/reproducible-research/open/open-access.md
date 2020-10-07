@@ -20,13 +20,15 @@ Preprints are documents that have not been peer-reviewed but are considered as a
 Some of the preprint servers include open peer review services and the availability to post new versions of the initial paper once reviewed by peers.
 
 At the beginning of 2019, more than 4000 repositories were available for researchers to self-archive their publications according to the [Registry of Open Access Repositories](http://roar.eprints.org/).
-In this list, there are institutional repositories, subject-based or thematic repositories, and harvesters.
+This list features institutional repositories, subject-based or thematic repositories, and harvesters.
+
 Institutional repositories are generally managed by research performing institutions to provide to their community a place to archive and share papers and other research outputs openly.
 Research communities usually manage subject-based repositories, and most of the contents are related to a specific discipline.
 Finally, harvesters aggregate content from different repositories, becoming sites to perform general searches and build other value-added services.
 
 When choosing a journal to publish research results, researchers should take a moment to read the journal policy regarding the transfer of copyright.
 Many journals still require that authors transfer full copyright for publication.
+
 This transfer of rights implies that authors must ask for permission to reuse their work beyond what is allowed by the applicable law unless there are some uses already granted.
 Such granted uses may include teaching, sharing with colleagues, and self-archiving by researchers of their papers in repositories.
 Sometimes, there are standard policies among all the journals published by the same publishers. 
@@ -45,6 +47,7 @@ For instance, the accepted version could be made publicly available after public
 
 (rr-open-access-whatis-publishing)=
 ### Open Access Publishing
+
 
 Open access publishing attempts to ensure permanent open access to all the articles published in journals and results in the creation of the open access journals.
 The number of open access journals has increased during the last years, according to the Directory of Open Access Journals \([DOAJ](http://www.doaj.org)\). Currently, there are more than 12,000.
@@ -67,6 +70,7 @@ While some would argue that libre open access should be free of any copyright re
 (rr-open-access-why)=
 ## Why Does Open Access Matter?
 
+
 Research is useless if it is not shared; even the best research is ineffectual if others are not able to read and build on it. 
 When price barriers keep articles locked away, research cannot achieve its full potential.
 Open access benefits researchers who can work more effectively with a better understanding of the literature.
@@ -84,6 +88,7 @@ Finally, if research is available to the broadest possible pool of readers, then
 
 (rr-open-access-practice-archiving)=
 ### Self-Archiving
+
 
 Self-archive a publication in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher.
 A restriction could be an embargo period, or limits on the allowed version to be deposited in such archives.

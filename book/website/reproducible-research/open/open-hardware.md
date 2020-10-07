@@ -72,8 +72,10 @@ A bill of materials can be a spreadsheet (for example, CSV, XLS, Google Doc) or 
 Useful things to include in the bill of materials are part numbers, suppliers, costs, and a short description of each part.
 Make it easy to tell which item in the bill of materials corresponds to which component in your design files: use matching reference designators in both places, provide a diagram indicating which part goes where, or otherwise explain the correspondence.
 
+
 (rr-open-hardware-elements-software)=
 ### Software and Firmware
+
 You should share any code or firmware required to operate your hardware.
 This will allow others to use it with their hardware or modify it along with their modifications to your hardware.
 Document the process required to build your software, including links to any dependencies (for example, third-party libraries or tools). It is also helpful to provide an overview of the state of the software (for example, "stable" or "beta" or "barely-working hack").
@@ -82,6 +84,7 @@ Document the process required to build your software, including links to any dep
 ### Photos
 Photos help people understand what your project is and how to put it together.
 It is good to publish photographs from multiple viewpoints and at various stages of assembly. If you do not have photos, posting 3D renderings of your design is a good alternative. Either way, it is good to provide captions or text that explain what is shown in each image and why it is useful.
+
 
 (rr-open-hardware-elements-instructions)=
 ### Instructions and Other Explanations
@@ -104,10 +107,12 @@ Remember, though, that others might want to modify your instructions as they mod
 (rr-open-hardware-processes-designing)=
 ### Designing Your Hardware
 
+
 If you are planning to open source a particular piece of hardware, following certain best practices in its design will make it easier for others to make and modify the hardware:
 
 - Use free and open source software design (CAD) tools where possible: If that is not feasible, try to use low-cost and/or widely-used software packages.
 - Use standard and widely-available components, materials, and production processes: Try to avoid parts that are not available to individual customers or processes that require expensive setup costs.
+
 
 (rr-open-hardware-processes-hosting)=
 ### Hosting Your Design Files

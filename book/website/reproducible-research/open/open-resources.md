@@ -4,6 +4,7 @@
 (rr-open-resources-learn)=
 ## What to Learn Next
 
+
 If you have not had a chance already, take a look at the chapter on {ref}`rr-vcs`, particularly the sections on GitHub in the latter half.
 
 (rr-open-resources-reading)=

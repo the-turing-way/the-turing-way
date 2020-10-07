@@ -1,8 +1,10 @@
 (rr-open-checklist)=
+
 # Checklist
 
 (rr-open-checklist-data)=
 ## Open Data
+
 
 - [ ] Ensure your data is in a simple, standard format or formats which is machine and human-readable.
 - [ ] Check, reformat or create metadata to clearly describe what the data is, how it was collected, and any associated strengths/weaknesses to someone that finds it.
@@ -10,6 +12,7 @@
 - [ ] Assign your data a persistent identifier such as a DOI.
 
 (rr-open-checklist-software)=
+
 ## Open Source Software
 
 - [ ] Put your code in a freely accessible repository.
