@@ -17,23 +17,23 @@
 | Sem "_Lorem Ipsum_"s | [![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amaster) |
 
 O _The Turing Way_ é um guia levemente obstinado para a ciência de dados reproduzível.
-Você pode lê-lo aqui: <https://the-turing-way.netlify.com>
+Você pode lê-lo aqui: <https://the-turing-way.netlify.com>.
 Neste momento, você está visualizando o repositório GitHub do projeto onde se encontra cada pedacinho que compõe o guia e onde o processo de escrita/construção do guia acontece.
 
 Nosso objetivo é prover todas as informações que os pesquisadores precisam no início de seus projetos para assegurar que eles serão facilmente reproduzíveis quando terminados.
 
-Isso também significa garantir que os alunos de doutorado, pós-doutorandos, pesquisadores principais e equipes de financiamento saibam quais partes da "responsabilidade de reprodutibilidade" podem afetar e o que devem fazer para estimular a ciência de dados a ser mais eficiente, eficaz e compreensível.
+Isso também significa garantir que os alunos de doutorado, pós-doutorandos, pesquisadores principais e equipes de financiamento saibam quais partes da "responsabilidade de reprodutibilidade" eles podem afetar, e o que devem fazer para estimular a ciência de dados a ser mais eficiente, eficaz e compreensível.
 
-Tabela de conteúdos:
+Índice de conteúdos:
 
 - [Sobre o projeto](#sobre-o-projeto)
-- [O time](#o-time)
+- [A equipe](#a-equipe)
 - [Como contribuir](#como-contribuir)
 - [Citando o _The Turing Way_](#citando-o-the-turing-way)
 - [Entre em contato](#entre-em-contato)
 - [Contribuidores](#contribuidores)
 
-🎧 Se você preferir uma introdução audível ao projeto, Rachael, que é membra do nosso time, fez uma apresentação no [Open Science Fair 2019](https://www.opensciencefair.eu/) em Porto e sua demo foi gravada pelo [Orion podcast](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
+🎧 Se você preferir uma introdução audível ao projeto, Rachael, que é membra da nossa equipe, fez uma apresentação no [Open Science Fair 2019](https://www.opensciencefair.eu/) em Porto e sua demo foi gravada pelo [Orion podcast](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
 A visão geral do _The Turing Way_ começa em decorridos 5:13.
 
 ### Sobre o projeto
@@ -42,26 +42,26 @@ A pesquisa reproduzível é necessária para garantir que trabalhos científicos
 Financiadores e editores estão começando a exigir que as publicações incluam o acesso aos dados subjacentes e ao código de análise.
 O objetivo é garantir que todos os resultados possam ser verificados de forma independente e aproveitados em trabalhos futuros.
 Às vezes, é mais fácil falar do que fazer.
-Compartilhar esses resultados de pesquisa significa compreender o gerenciamento de dados, o funcionamento das bibliotecas, o desenvolvimento de software e as técnicas de integração contínua: habilidades que não são, de forma ampla, ensinadas ou esperadas de pesquisadores acadêmicos e cientistas de dados.
+Compartilhar esses resultados de pesquisa significa compreender o gerenciamento de dados, o funcionamento das bibliotecas, o desenvolvimento de software e as técnicas de integração contínua: habilidades que geralmente não são ensinadas ou esperadas de pesquisadores acadêmicos e cientistas de dados.
 Como essas atividades não são comumente ensinadas, reconhecemos que a carga da exigência e a aquisição de novas habilidades podem ser intimidantes para pessoas que são novas neste mundo.
 O *The Turing Way* é um manual para apoiar os alunos, seus supervisores, financiadores e editores de periódicos a garantir que a ciência de dados reproduzível seja "fácil demais para não ser feita", mesmo para pessoas que nunca trabalharam dessa forma antes.
-Ele inclui o material de treinamento sobre controle de versão, teste de análise e comunicação aberta e transparente com usuários futuros, além de estudos de caso e workshops do Instituto Turing(*Turing Institute*).  
+Ele inclui o material de treinamento sobre controle de versão, teste de análise e comunicação aberta e transparente com usuários futuros, além de estudos de caso e workshops do Instituto Turing (*Turing Institute*).  
 Este projeto é desenvolvido abertamente e todas e quaisquer perguntas, comentários e recomendações são bem-vindas em nosso repositório do GitHub: <https://github.com/alan-turing-institute/the-turing-way>.
 
-### O time
+### A equipe
 
-Esta é uma parte do trabalho de planejamento da equipe do projeto no Turing Institute.  
-Para mais informações sobre como nos contactar, consulte o [documento com as formas de trabalho](ways_of_working.md).
+Estes são alguns membros do projeto realizando planejamentos no Instituto Turing (*Turing Institute*).
+Para mais informações sobre como nos contatar, consulte o [documento com as formas de trabalho](ways_of_working.md).
 
-![Foto do time](book/website/figures/TuringWayTeam.jpg)
+![Foto da equipe](book/website/figures/TuringWayTeam.jpg)
 
 ### Como contribuir
 
-:construction: Este repositório é sempre um trabalho em andamento e **todos** são incentivados a nos ajudar a construir algo que seja útil para muitos. :construction:
+:construction: Este repositório está em constante desenvolvimento e **todos** são incentivados a nos ajudar a construir algo que seja útil para muitos. :construction:
 
 Todos são convidados a seguir nosso [código de conduta](CODE_OF_CONDUCT.md) e a checar nossas [diretrizes de contribuição](CONTRIBUTING.md) para obter mais informações sobre como começar.
 
-Se você não está familiarizado ou confiante em contribuir com o GitHub, também pode contribuir com um estudo de caso e com suas dicas e truques por meio de nosso [formulário Google](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
+Se você não está familiarizado ou confiante em contribuir com o GitHub, também pode contribuir com um estudo de caso ou quaisquer dicas por meio de nosso [formulário Google](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
 
 ### Citando o _The Turing Way_
 
@@ -75,8 +75,8 @@ A citação consistirá em algo parecido com:
 Você também pode compartilhar um URL mais legível que direciona a uma página do livro, por exemplo: <https://the-turing-way.netlify.com/reproducibility/03/definitions.html>, mas esteja ciente de que o projeto está em desenvolvimento, e dessa forma, esses links podem mudar com o tempo.
 Você pode querer incluir um link arquivado na web, como: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> Assim você se certifica de não acabar com links quebrados por aí!
 
-Nós realmente apreciamos qualquer referência que você fizer ao projeto The Turing Way e esperamos que seja lhes seja útil.
-Se você tiver alguma dúvida, [entre em contato](#entre-em-contato).
+Nós realmente apreciamos qualquer referência que você fizer ao projeto The Turing Way e esperamos que lhe seja útil.
+Se você possuir alguma dúvida, [entre em contato](#entre-em-contato).
 
 ### Citando as ilustrações do _The Turing Way_
 
@@ -94,7 +94,7 @@ Usamos algumas dessas ilustrações nas respostas do [Bot de boas-vindas](https:
 
 ### Entre em contato
 
-Temos uma sala de bate-papo no gitter e adoraríamos que você passasse lá para dizer oi acessando <https://gitter.im/alan-turing-institute/the-turing-way>.
+Temos uma sala de bate-papo no gitter e adoraríamos que você passasse lá para dar um oi! acessando <https://gitter.im/alan-turing-institute/the-turing-way>.
 Essa sala também é sincronizada com o [Matrix](https://matrix.org) em [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) e você também pode se juntar a nós por lá se preferir.
 
 Também temos uma pequena lista de emails para a qual enviamos atualizações mensais do projeto.  
