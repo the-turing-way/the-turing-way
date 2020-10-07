@@ -6,7 +6,7 @@ When working on a project, individually or collaboratively, you may encounter th
 - If you add a new feature to your project, you run the risk of accidentally breaking your working code as you test the feature. 
 This would cause unexpected issues for active users of your project, even if the only active user is you.
 - When you collaborate with others, and everyone works on the master branch simultaneously, there could be a lot of confusion and conflicting changes.
-- Some code/feature might not be interesting for everyone, and there needs to be a way to allow new work to be done on a project whilst protecting work that has already been done.
+- Some code/feature might not be interesting for everyone. There may need to be a way to allow new work to be done on a project whilst protecting work that has already been done.
 
 Git branches are extremely valuable when addressing any of these issues.
 For every Git project, by default, you have one branch called 'master' where all commits are recorded.
