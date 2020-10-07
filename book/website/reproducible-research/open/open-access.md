@@ -38,7 +38,7 @@ When looking at the conditions for self-archiving, we must identify two key issu
 Regarding the version, some journals allow the dissemination of the submitted versions, also known as a preprint. 
 They also allow its replacement with the peer-reviewed version once it has been published.
 Due to the increase of policies requiring access to research results, most of the journals allow self-archiving of the accepted version of the paper, also known as the author manuscript or postprint.
-This version is the final text once the peer review process has ended but does not have the final layout of the publication.
+This version is the final text following the peer review process but does not yet have publication formatting or layout applied.
 Finally, some journals do allow researchers to deposit the final published version, also known as the version of record.
 
 Concerning the moment to make the paper publicly available, many journals establish a period from its original publication - the embargo period, which can range from zero to 60 months - when making the paper publicly available is not permitted.
