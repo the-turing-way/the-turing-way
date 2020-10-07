@@ -2,9 +2,7 @@
 # Resources
 For additional resources like videos and reference papers on reproducibility, see the {ref}`rr-overview-resources-reading` and {ref}`rr-overview-resources-addmaterial` sections.
 
-## Checklist
-- [ ] Define reproducibility for yourself.
-
+(rr-overview-resources-learn)=
 ## What to Learn Next?
 {ref}`rr-open` would be a good chapter to read next.
 If you want to start learning hands-on practices, we recommend reading the {ref}`rr-vcs` chapter next.
