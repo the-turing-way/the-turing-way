@@ -328,23 +328,16 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * GitHub id: [martinagvilas](http://github.com//martinagvilas)
 * ORCID: [0000-0002-1097-8534](https://orcid.org/0000-0002-1097-8534)
 * Short bio:
-> Martina Vilas is doing her PhD in Neuroscience at the Max-Planck-Institute AE in Frankfurt, Germany. 
-> She studies how the brain processes conceptual knowledge analyzing neural recordings with computational modelling techniques. 
-> As an advocate of open-research, she also works on improving the reproducibility of neuroscientific-analyses and enjoys contributing to open-source software projects. 
-> Since the Book Dash in February 2020, she further pursues these interests by helping in the maintenance of The Turing Way infrastructure and its reliance on Jupyter Book.
+> I'm currently finishing my PhD in Neuroscience at the Max-Planck-Institute AE in Frankfurt, Germany. 
+> I study how the brain processes conceptual knowledge analyzing neural recordings with computational modelling techniques. 
+> As an advocate of open-research, I also work on improving the reproducibility of neuroscientific-analyses and enjoy contributing to open-source software projects. 
 
 * Personal highlights:
-> The Turing Way is not only a great guide for conducting reproducible research, but it also provides a wonderful entry point into open-source contribution in general and connects you to a variety of open data-science communities.
+> Since the Book Dash in February 2020, I help with the maintenance of The Turing Way infrastructure and its reliance on Jupyter Book. The Turing Way is not only a great guide for conducting reproducible research, but it also provides a wonderful entry point into open-source contribution in general and connects you to a variety of open data-science communities.
+> I'm a mentor at the [OLS-2](https://openlifesci.org/ols-2) program and I have also worked with the [pandas](https://pandas.pydata.org/) core-contributors in providing guidance to people from underrepresented groups in technology on making their first open-source contribution.
 
 * More information:
-
-<!---N--->
-
-
-<!---O--->
-
-
-<!---P--->
+> More information about me can be read on my [website](https://martinagvilas.github.io/).
 
 
 ### Patricia Herterich
