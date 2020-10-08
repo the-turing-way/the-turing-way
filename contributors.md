@@ -8,6 +8,10 @@ For example, using [all contributors bot](https://allcontributors.org) we update
 We understand that different contributions mean different things to people and may translate differently towards their personal interest, skill development, value exchange and advancement of their careers.
 Therefore, we also offer the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/contributors.md) file as a dedicated location to capture personal highlights from _The Turing Way_ community members.
 
+Individual contributors are welcome to provide their details under the section "Personal Highlights from _The Turing Way_ Contributors". 
+Organisational support and collaborations are listed in the section, "Collaborating Organisations".
+Each organisation name and details will be listed separately followed by contribution details of each individual contributor from that organisation.
+
 Please see the [community handbook](https://the-turing-way.netlify.app/community-handbook/acknowledgement) for details on how you can be fairly acknowledged for your work.
 
 ## Personal Highlights from _The Turing Way_ Contributors
@@ -490,3 +494,51 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 
 <!---Z--->
+
+
+## Collaborating Organisations
+
+*When members participate in The Turing Way community with the in-kind support of their funders and organisation, we acknowledge each member individually and list their organisations as “Collaborating organisations”. 
+Such organisational supports are applicable when one or multiple members from a project or community collaborate to build resources in The Turing Way.*
+
+### [Netherlands eScience Center](https://www.esciencecenter.nl/)
+
+<short description>
+<Motivation and impact of this collaboration>
+  
+Details of each members with their contributions have been listed alphabatically.
+
+#### Carlos Martinez Oritz
+
+* Role: **eScience Team Coordinator**
+* GitHub id: [TBA](http://github.com/TBA)
+* ORCID: [TBA](https://orcid.org/TBA)
+* Short bio:
+> 
+>
+
+* Personal highlights:
+> In _The Turing Way_...
+>
+
+* More information:
+> 
+>
+
+
+#### Mateusz Kuzak
+
+* Role: **eScience Team Coordinator**
+* GitHub id: [TBA](http://github.com/TBA)
+* ORCID: [TBA](https://orcid.org/TBA)
+* Short bio:
+> 
+>
+
+* Personal highlights:
+> In _The Turing Way_...
+>
+
+* More information:
+> 
+>
