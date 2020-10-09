@@ -6,7 +6,7 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
-|[Experience with the command line](https://programminghThe recommended skill level for this chapter is beginner to intermediateistorian.org/en/lessons/intro-to-bash) | Helpful |  |
+|[Experience with the command line]((https://programminghistorian.org/en/lessons/intro-to-bash)) | Helpful |  |
 
 **Recommended Skill Level**: _Beginner-Intermediate_
 
