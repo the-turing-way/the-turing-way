@@ -191,18 +191,17 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Laura Carter
 
-* GitHub id: TBA
-* ORCID: TBA
+* GitHub id: [Laura Carter](https://github.com/LauraCarter)
+* ORCID: [0000-0002-4285-1140](https://orcid.org/0000-0002-4285-1140)
 * Short bio:
-> Laura is a PhD student in the Human Rights Centre at the University of Essex, UK. 
-> She is researching the human rights implications of the use of data-driven technologies in the UK public sector, focusing on gender stereotyping and gender discrimination. 
-> Her background is in human rights research and gender: you can read more about her here: https://lauracarter.github.io/.
+> I'm a PhD candidate in the Human Rights Centre at the University of Essex, UK, researching the human rights implications of the use of data-driven technologies in the UK public sector, focusing on gender stereotyping and gender discrimination. Prior to my PhD, I worked as a human rights researcher for almost a decade, specialising mostly in human rights, sexual orientation and gender identity. I carried out field research in Europe and sub-Saharan Africa covering topics including homophobic and transphobic hate crimes, criminalisation of homosexuality and of sex work, legal gender recognition for trans people, and health rights for intersex people. 
 
 * Personal highlights:
-TBA
+> I'm really enjoying learning more about Open Science practices and communities! I'm excited to be part of an [OLS-2](https://openlifesci.org/) mentee cohort alongside [Ismael Kherroubi Garcia](https://github.com/Ismael-KG) and [Sophia Batchelor](https://github.com/BrainonSilicon), working on the _Guide to Ethical Research_: if you're interested in building a community of thoughtful, reflective, ethical data scientists, please come and join us!
 
 * More information:
-TBA
+> I'm interested in feminist and queer research methodologies and in interrogating structures of power and systems of categorisation. Throughout my career, most of my work has been on understanding these systems, how they work, and how they harm: so that they can be dismantled!
+> More information about me on my [website](https://lauracarter.github.io/).
 
 
 ### Louise Bowler
