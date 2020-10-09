@@ -56,7 +56,7 @@ Open source helps people feel agency over their lives and how they experience th
 Open source provides an endless, ever-changing set of Rubix cubes for you to solve on weekends. Just like puzzles, both crossword and jigsaw, open source provides bite-sized intellectual escapes.
 
 (rr-open-source-benefitsresearch)=
-## How open source software benefits research
+## How Open Source Software Benefits Research
 
 There are several in which open-source software benefits research: 
 
