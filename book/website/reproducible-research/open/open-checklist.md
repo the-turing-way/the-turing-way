@@ -1,8 +1,9 @@
 (rr-open-checklist)=
-## Checklist
+# Checklist
 
 (rr-open-checklist-data)=
-### Open Data
+## Open Data
+
 
 - [ ] Ensure your data is in a simple, standard format or formats which is machine and human-readable.
 - [ ] Check, reformat or create metadata to clearly describe what the data is, how it was collected, and any associated strengths/weaknesses to someone that finds it.
@@ -10,7 +11,7 @@
 - [ ] Assign your data a persistent identifier such as a DOI.
 
 (rr-open-checklist-software)=
-### Open Source Software
+## Open Source Software
 
 - [ ] Put your code in a freely accessible repository.
 - [ ] Include a licence granting others the right to use, copy and modify your work. You can use the {ref}`rr-licensing` chapter to help you pick the most appropriate licence for your project.
@@ -18,7 +19,7 @@
 - [ ] If you want others to collaborate on the project include contribution guidelines.
 
 (rr-open-checklist-hardware)=
-### Open Hardware
+## Open Hardware
 
 - [ ] Use open hardware where practical.
 - [ ] Make detailed documentation and designs for any hardware you develop openly available.
@@ -26,13 +27,13 @@
 - [ ] Include a README file containing useful information about a project (for example, what it is and the materials used).
 
 (rr-open-checklist-access)=
-### Open Access
+## Open Access
 
 - [ ] Publish your research in an open-access journal.
 - [ ] Store a copy or preprint of your work in a freely accessible public repository.
 
 (rr-open-checklist-notebooks)=
-### Open Notebooks
+## Open Notebooks
 
 - [ ] Keep notes in an Electronic Lab Notebook.
 - [ ] Make your notebooks publicly accessible online.
