@@ -1,5 +1,5 @@
 (rr-open-data)=
-## Open Data
+# Open Data
 
 The world is witnessing a significant global transformation, facilitated by technology and digital media, and fuelled by data and information. 
 This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research.
@@ -25,11 +25,13 @@ That data should, therefore, be open by default.
 Listed below are the steps to making your data open.
 
 (rr-open-data-steps)=
-### Steps to Make Your Data Open
+## Steps to Make Your Data Open
+
 
 The steps below help you make your data findable, accessible, interoperable and reusable (FAIR). You can learn more about FAIR principles in the chapter on {ref}`rr-rdm`.
 
-#### Step 1: Make your data available
+(rr-open-data-steps-one)=
+### Step 1: Make your data available
 
 Put your data online. 
 It should be easily discoverable and accessible, and made available without bureaucratic or administrative barriers, which can deter people from accessing the data. 
@@ -40,21 +42,24 @@ Data should be free of charge, under [an open licence](https://fossbytes.com/ope
 The data should be available as a whole and at no more than a reasonable reproduction cost. 
 That is, no expensive piece of software should be required to read the file as this may obstruct researchers who wish to work with the dataset.
 
-#### Step 2: Make your data easy to understand
+(rr-open-data-steps-two)=
+### Step 2: Make your data easy to understand
 
 Having data available is of no use if it cannot be understood. 
 For example, a table of numbers is useless if there are no headings which describe the contents of the rows and columns. 
 Therefore you should ensure that open datasets include consistent core metadata, and that the data is fully described. 
 This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
 
-#### Step 3: Make your data easy to use
+(rr-open-data-steps-three)=
+### Step 3: Make your data easy to use
 
 The data should be made available in a modifiable, machine-readable format so that it can be effectively used and  manipulated.
 It is also essential to think about the file formats in which the information is provided. 
 Data should be presented in structured and standardised formats to support interoperability, traceability, and effective reuse. 
 In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people.
 
-#### Step 4: Make your data citeable
+(rr-open-data-steps-four)=
+### Step 4: Make your data citeable
 
 Data should be considered a legitimate, citable product of research. 
 Making data citeable (and citing data yourself) facilitates the giving of scholarly credit; in scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited. 
@@ -87,12 +92,13 @@ For example, it would be no use citing CERN's entire data repository as someone 
 Where possible, you should be able to cite the data used, and only the data used.
 
 (rr-open-data-barriers)=
-### Barriers to Data Sharing
+## Barriers to Data Sharing
 
 Sometimes it may not be possible to make data publicly available in its entirety or even in part. 
 Here are some reasons why this may be the case:
 
-#### Privacy
+(rr-open-data-barriers-privacy)=
+### Privacy
 
 Many fields of research involve working with sensitive personal data, with medical research being the most obvious example.
 Individuals must be protected from (re)identification via their data used for research. 
