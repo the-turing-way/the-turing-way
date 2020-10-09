@@ -1,13 +1,14 @@
 (rr-open-resources)=
-## Resources
+# Resources
 
 (rr-open-resources-learn)=
-### What to Learn Next
+## What to Learn Next
+
 
 If you have not had a chance already, take a look at the chapter on {ref}`rr-vcs`, particularly the sections on GitHub in the latter half.
 
 (rr-open-resources-reading)=
-### Further Reading
+## Further Reading
 
 [This](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) book on open science has a great deal of interesting information.
 For information specific to open source software, [this](https://opensource.guide/) is a good place to look.
@@ -16,7 +17,7 @@ If you want to take a look at an active open source project, this textbook *is* 
 The source can be found on GitHub [here](https://github.com/alan-turing-institute/the-turing-way), and for further details related to this project, you can take a look at the project [website](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science).
 
 (rr-open-resources-glossary)=
-### Glossary
+## Glossary
 
 - **Citizen science:** The involvement of members of the public in scientific research.
 - **Contributing guidelines:** Guidelines outlining how a person should go about contributing to an open-source project.
@@ -38,7 +39,7 @@ The source can be found on GitHub [here](https://github.com/alan-turing-institut
 - **Self-archive:** To place your research output in a repository.
 
 (rr-open-resources-references)=
-### References
+## References
 
 - [1.](https://www.fosteropenscience.eu/node/1420) **CC-BY 4.0**
 - [2.](https://open-science-training-handbook.gitbook.io/book/introduction) **CC 1.0**
@@ -71,6 +72,6 @@ The source can be found on GitHub [here](https://github.com/alan-turing-institut
 - [29.](https://www.citizenscience.org/) **(CC BY 4.0)**
 
 (rr-open-resources-footnotes)=
-### Footnotes
+## Footnotes
 
 1. References by discipline: Agricultural studies (Kousha and Abdoli, 2010); Physics/astronomy (Gentil-Beccot et al., 2010; Harnad and Brody, 2004; Metcalfe, 2006); Medicine (Sahu et al., 2005; Xu et al., 2011); Computer science (Lawrence, 2001); Sociology/social sciences (Hajjem et al., 2006; Norris et al., 2008; Xu et al., 2011); Psychology (Hajjem et al., 2006); Political science (Hajjem et al., 2006; Antelman, 2004; Atchison and Bull, 2015); Management (Hajjem et al., 2006); Law (Donovan et al., 2015; Hajjem et al., 2006); Economics (Hajjem et al., 2006; McCabe and Snyder, 2015; Norris et al., 2008; Wohlrabe, 2014); Mathematics (Antelman, 2004; Davis and Fromerth, 2007; Norris et al., 2008); Health (Hajjem et al., 2006); Engineering (Antelman, 2004; Koler-Povh et al., 2014); Philosophy (Antelman, 2004); Education (Hajjem et al., 2006; Zawacki-Richter et al., 2010); Business (Hajjem et al., 2006; McCabe and Snyder, 2015); Communication studies (Zhang, 2006); Ecology (McCabe and Snyder, 2014; Norris et al., 2008); Biology (Frandsen, 2009b; Hajjem et al., 2006; McCabe and Snyder, 2014).
