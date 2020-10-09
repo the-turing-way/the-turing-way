@@ -1,17 +1,19 @@
 (rr-open-access)=
-## Open Access
+# Open Access
 
 (rr-open-access-whatis)=
-### What is Open Access?
+## What Is Open Access?
 
-One of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public if purchased individually or through a subscription.
+One of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public if purchased through a subscription fee or individually.
 However, new knowledge is built by synthesizing current scholarship and then building upon it.
-At the turn of the 21st century, a new movement appeared with a clear objective: make all the research findings available to anyone interested in reading it, free of charge by any user, with no technical obstacles such as mandatory registration or login to specific platforms.
+At the turn of the 21st century, a new movement appeared with a clear objective: make all the research results available to anyone interested in reading it, free of charge by any user, with no technical obstacles such as mandatory registration or login to specific platforms.
 This movement took the name of "open access" and established two initial strategies to achieve its final goal: self-archiving and open access publishing.
 
-#### Repositories and Self-Archiving
+(rr-open-access-whatis-repositories)=
+### Repositories and Self-Archiving
 
-The self-archiving movement aims to provide tools and assistance to scholars to deposit and disseminate their refereed journal articles in open institutional or subject-based repositories.
+The self-archiving movement aims to provide tools and assistance to scholars to deposit their refereed journal articles in open electronic repositories.
+As a result of this strategy, we see self-archiving practices where researchers deposit and disseminate papers in institutional or subject-based repositories.
 There has also been a growth in the publication of preprints through institutional repositories and preprint servers. 
 Preprints are widely used in physical sciences and now emerging in life sciences and other fields.
 Preprints are documents that have not been peer-reviewed but are considered as a complete publication in a first stage.
@@ -19,15 +21,17 @@ Some preprint servers include open peer-review services and the option to post n
 
 At the beginning of 2019, more than 4000 repositories were available for researchers to self-archive their publications according to the [Registry of Open Access Repositories](http://roar.eprints.org/).
 This list features institutional repositories, subject-based or thematic repositories, and harvesters.
+
 Institutional repositories are generally managed by research performing institutions to provide to their community a place to archive and share papers and other research outputs openly.
 Research communities usually manage subject-based repositories, and most of the contents are related to a specific discipline.
 Finally, harvesters aggregate content from different repositories, becoming sites to perform general searches and build other value-added services.
 
 When choosing a journal to publish research results, researchers should take a moment to read the journal policy regarding the transfer of copyright.
 Many journals still require that authors transfer full copyright for publication.
+
 This transfer of rights implies that authors must ask for permission to reuse their work beyond what is allowed by the applicable law, unless there are some uses already granted.
 Such granted uses may include teaching, sharing with colleagues, and self-archiving papers in repositories.
-Sometimes, there are standard policies across all journals maintained by the same publishers. 
+Sometimes, there are standard policies across all journals maintained by the same publishers.
 However, in general, journals have their own policies, especially when they are published on behalf of a scientific society.
 When looking at the conditions for self-archiving, we must identify two key issues: the version of the paper that can be deposited, and when it can be made publicly available.
 
@@ -41,7 +45,9 @@ Concerning the moment to make the paper publicly available, many journals establ
 Some journals include or exclude embargoes depending on the versions.
 For instance, the accepted version could be made publicly available after publication, but the published version must wait 12 months.
 
-#### Open Access Publishing
+(rr-open-access-whatis-publishing)=
+### Open Access Publishing
+
 
 Open access publishing attempts to ensure permanent open access to all the articles published in journals and results in the creation of the open access journals.
 The number of open access journals has increased during the last years, according to the Directory of Open Access Journals \([DOAJ](http://www.doaj.org)\). Currently, there are more than 12,000.
@@ -62,7 +68,8 @@ For example, some scholarly articles may permit all uses except commercial use, 
 While some would argue that libre open access should be free of any copyright restrictions (except attribution), other scholars consider a work that removes at least some permission barriers to be libre.
 
 (rr-open-access-why)=
-### Why Does Open Access Matter?
+## Why Does Open Access Matter?
+
 
 Research is useless if it is not shared; even the best research is ineffectual if others are not able to read and build on it. 
 When price barriers keep articles locked away, research cannot achieve its full potential.
@@ -76,10 +83,12 @@ Many have switched from a closed, subscription model to an open one as a strateg
 Further, it can be argued that taxpayers who pay for much of the research published in journals have a right to access the information resulting from that investment without charge.
 Finally, if research is available to the broadest possible pool of readers, then it is more likely to be checked and reproduced.  
 
-(rr-open-access-bestpractice)=
-### Best Practice for Open Access
+(rr-open-access-practice)=
+## Best Practice for Open Access
 
-#### Self-Archiving
+(rr-open-access-practice-archiving)=
+### Self-Archiving
+
 
 Self-archive a publication in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher.
 A restriction could be an embargo period, or limits on the allowed version to be deposited in such archives.
@@ -87,7 +96,8 @@ In doing this, it is crucial to make sure you are aware of the copyright implica
 If your institution does not have an institutional repository, advocate for the creation of one.
 You can check journal policies on self-archiving using [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php).
 
-#### Publication
+(rr-open-access-practice-publication)=
+### Publication
 
 Consider submitting your work to a journal that is open access.
 When doing this, be aware that there may be funds or discounts available to cover any associated costs.
