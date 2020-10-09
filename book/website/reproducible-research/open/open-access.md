@@ -12,8 +12,8 @@ This movement took the name of "open access" and established two initial strateg
 (rr-open-access-whatis-repositories)=
 ### Repositories and Self-Archiving
 
-The self-archiving movement aims to provide tools and assistance to scholars to deposit their refereed journal articles in open electronic repositories.
-As a result of this strategy, we see self-archiving practices where researchers deposit and disseminate papers in institutional or subject-based repositories.
+The self-archiving movement aims to provide tools and assistance to scholars to deposit and disseminate their refereed journal articles in open institutional or subject-based repositories.=======
+
 There has also been a growth in the publication of preprints through institutional repositories and preprint servers. 
 Preprints are widely used in physical sciences and now emerging in life sciences and other fields.
 Preprints are documents that have not been peer-reviewed but are considered as a complete publication in a first stage.
@@ -21,6 +21,7 @@ Some preprint servers include open peer-review services and the option to post n
 
 At the beginning of 2019, more than 4000 repositories were available for researchers to self-archive their publications according to the [Registry of Open Access Repositories](http://roar.eprints.org/).
 This list features institutional repositories, subject-based or thematic repositories, and harvesters.
+
 
 Institutional repositories are generally managed by research performing institutions to provide to their community a place to archive and share papers and other research outputs openly.
 Research communities usually manage subject-based repositories, and most of the contents are related to a specific discipline.
@@ -32,6 +33,7 @@ Many journals still require that authors transfer full copyright for publication
 This transfer of rights implies that authors must ask for permission to reuse their work beyond what is allowed by the applicable law, unless there are some uses already granted.
 Such granted uses may include teaching, sharing with colleagues, and self-archiving papers in repositories.
 Sometimes, there are standard policies across all journals maintained by the same publishers.
+
 However, in general, journals have their own policies, especially when they are published on behalf of a scientific society.
 When looking at the conditions for self-archiving, we must identify two key issues: the version of the paper that can be deposited, and when it can be made publicly available.
 
@@ -47,7 +49,6 @@ For instance, the accepted version could be made publicly available after public
 
 (rr-open-access-whatis-publishing)=
 ### Open Access Publishing
-
 
 Open access publishing attempts to ensure permanent open access to all the articles published in journals and results in the creation of the open access journals.
 The number of open access journals has increased during the last years, according to the Directory of Open Access Journals \([DOAJ](http://www.doaj.org)\). Currently, there are more than 12,000.
@@ -69,7 +70,6 @@ While some would argue that libre open access should be free of any copyright re
 
 (rr-open-access-why)=
 ## Why Does Open Access Matter?
-
 
 Research is useless if it is not shared; even the best research is ineffectual if others are not able to read and build on it. 
 When price barriers keep articles locked away, research cannot achieve its full potential.

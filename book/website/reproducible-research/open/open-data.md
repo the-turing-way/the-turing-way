@@ -27,6 +27,7 @@ Listed below are the steps to making your data open.
 (rr-open-data-steps)=
 ## Steps to Make Your Data Open
 
+
 The steps below help you make your data findable, accessible, interoperable and reusable (FAIR). You can learn more about FAIR principles in the chapter on {ref}`rr-rdm`.
 
 (rr-open-data-steps-one)=

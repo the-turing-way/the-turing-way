@@ -54,6 +54,7 @@ Examples of this include [finding](https://citizensciencegames.com/games/eterna/
 
 (rr-open-scholarship-involvement)=
 ## Patient and Public Involvement
+
 Whilst citizen science encompasses one way of contributing to scientific research, Patient and Public Involvement (PPI) is a far more specialized form of citizen science which is particularly useful when researching health or social issues.
 
 PPI is *not*:
