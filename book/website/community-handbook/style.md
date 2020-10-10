@@ -67,24 +67,3 @@ If that is not possible, use an alternative such as ‘meaning’ or ‘that is�
 Any text containing a Latin abbreviation will fail the continuos integration (CI) workflow of the _The Turing Way_ GitHub repository from passing successfully.
 
 *To avoid CI from failing, even in this chapter we have avoided to write those abbreviations and instead used an image to illustrate the above examples.*
-
-### Auto-formatting
-
-The Travis continuous-integration tests will check for formatting errors using [prettier.io](https://prettier.io). You can see a list of all files with style issues by looking at the Travis build logs, for example:
-
-```
-Checking formatting...
-book/content/introduction/introduction.md
-book/content/open_research/open_research.md
-Code style issues found in the above file(s). Forgot to run Prettier?
-The command "prettier --check ./book/website/**/*.md" exited with 1.
-```
-
-*Optional:* If you would like to apply auto-formatting when editing locally, we recommend [pre-commit](https://pre-commit.com/). To get started, run the following from your shell:
-
-```
-pip install pre-commit
-pre-commit install
-```
-
-Each time you attempt to commit a change with git, pre-commit will run the prettier auto-formatter and automagically fix any style issues.
