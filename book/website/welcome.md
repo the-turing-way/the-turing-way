@@ -15,7 +15,7 @@ In February 2020, _The Turing Way_ expanded to a series of books covering reprod
 | _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807) |
 
 (welcome-community)=
-## Our community
+## Our Community
 
 _The Turing Way_ community is dedicated to making collaborative, reusable and transparent research "too easy not to do".
 That means investing in the socio-technical skills required to work in a team, to build something more significant than any individual could deliver alone.
