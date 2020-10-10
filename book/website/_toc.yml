@@ -76,6 +76,10 @@
     sections:
     - title: Software Licenses
       file: reproducible-research/licensing/licensing-software
+    - title: License Compatibililty
+      file: reproducible-research/licensing/licensing-compatibility
+    - title: Resources
+      file: reproducible-research/licensing/licensing-resources
   - title: Research Data Management
     file: reproducible-research/rdm
     sections:
