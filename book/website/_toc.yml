@@ -81,6 +81,8 @@
   - title: Research Data Management
     file: reproducible-research/rdm
     sections:
+    - title: Research Data
+      file: reproducible-research/rdm/rdm-data
     - title: The FAIR principles and practices
       file: reproducible-research/rdm/rdm-fair
     - title: Storage and backup
