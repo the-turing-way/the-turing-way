@@ -49,7 +49,7 @@ Everything below here is from [Issue 1239] (https://github.com/alan-turing-insti
    * Human Rights law discussion
         Brief overview of international human rights framework (who makes it, which are their conventions, who oversees implementation)
         How are scientists impacted by human rights law?
-        Key human rights considerations for scientists (privacy, non-discrimination, etc.)
+        Key human rights considerations for scientists (privacy, non-discrimination,...)
         Respect/Protect/Fulfill model
         Links to other sections of this chapter and book
   *  Other relevant laws
