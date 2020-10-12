@@ -83,9 +83,9 @@
     sections:
     - title: Research Data
       file: reproducible-research/rdm/rdm-data
-    - title: The FAIR principles and practices
+    - title: The FAIR Principles and Practices
       file: reproducible-research/rdm/rdm-fair
-    - title: Storage and backup
+    - title: Data Storage and Organisation
       file: reproducible-research/rdm/rdm-storage
     - title: Data organisation in spreadsheets
       file: reproducible-research/rdm/rdm-spreadsheets
