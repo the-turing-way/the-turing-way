@@ -95,6 +95,8 @@
       file: reproducible-research/rdm/rdm-sharing
     - title: Personal Stories
       file: reproducible-research/rdm/rdm-stories
+    - title: Checklist
+      file: reproducible-research/rdm/rdm-checklist
     - title: Resources
       file: reproducible-research/rdm/rdm-resources
   - title: Reproducible Environments
