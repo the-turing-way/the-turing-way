@@ -375,7 +375,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * Personal highlights:
 > The Turing Way is my first foray into open source and has been a fantastic learning experience.
 > Not only have I gained a deeper understanding and appreciation for how GitHub works, but I am also learning to prioritise sustainability and empowerment in the work that I do.
-> I am also very grateful for the opportunity to work with people (who I may not have met otherwise) from around the world.
+> Soon, I hope to begin a PhD that explores how conversational search can be made more effective with the use of clarifying questions.
 
 * More information:
 > I enjoy browsing through and collecting memes.
