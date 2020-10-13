@@ -456,16 +456,17 @@ I am an associate member of the Chartered Institute of Personnel and Development
 ### Sophia Batchelor
 
 * Role: HacktoberFest contribution facilitator, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework (2020)
-* GitHub id: TBA
-* ORCID: TBA
-* Short bio: TBA
->TBA
+* GitHub id: [BrainonSilicon](https://github.com/BrainonSilicon)
+* ORCID: [0000-0002-8572-2058](https://orcid.org/0000-0002-8572-2058)
+* Short bio: 
+>I am a PhD student at the University of Leeds studying sensorimotor learning with the Center for Immersive Technologies. My research focuses on understanding how how our brains interprets, and responds to both our physical reality, and a constructed reality (AR/VR). I do this through a deep love of the brain and emerging technologies. We will soon be existing in the future that we are creating now; so when we build with a "people first" (or a brain first) philosophy, we end up building a space that allows people to flourish. 
+
 
 * Personal highlights:
->TBA
+> MY FIRST CONTRIBUTION TO THE TURING WAY! It's an absolute honor to join The Turing Way community as we look towards an open, ethical, and accessible future. After having such a mixed STEM and non-STEM background, I'm thrilled to have joined this community as it grows and guides my thinking about how and what it means to do research.
 
 * More information:
->TBA
+> I'm a fierce advocate for ethical and open research, and those beliefs tend to carry into everything I do. I previously worked on Brain Computer Interfaces after finishing my undergrad at UC Berkeley where I saw the incredible work that can be done through collaborative, crossdisciplinary science. I'm now part of Open Life Science's second cohort learning how to implement the teachings of The Turing Way because when good science and good practice meets, great things can happen. 
 
 
 <!---T--->
