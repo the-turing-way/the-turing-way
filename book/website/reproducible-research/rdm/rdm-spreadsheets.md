@@ -1,11 +1,12 @@
 (rr-rdm-spreadsheets)=
 # Data Organisation in Spreadsheets
 
-Spreadsheets, such as Microsoft Excel files, Google Sheets, and open-source alternatives, such as[LibreOffice](https://www.libreoffice.org), are commonly used to collect, store, manipulate, analyse, and share research data.
-Spreadsheets are convenient and easy-to-use tools for organising information in a format that is easy to write to and read from. 
-However, one should use them with caution, as inappropriate spreadsheet use is a significant cause of mistakes in the data analysis workflow.
-There is a collection of [horror-stories](http://www.eusprig.org/horror-stories.htm) that tells how the use of spreadsheets can ruin analysis-based studies due to unexpected behaviour of the spreadsheet or error-prone editing processes.
-Some of these mishaps are not unique to spreadsheets, but [many are](https://doi.org/10.1186/s13059-016-104).
+Spreadsheets, such as Microsoft Excel files, google sheets, and their Open Source alternative [(for instance) LibreOffice](https://www.libreoffice.org), are commonly used to collect, store, manipulate, analyse, and share research data.
+Spreadsheets are convenient and easy-to-use tools for organising information into an easy to write and easy to read forms for humans. 
+However, one should use them with caution, as the use of an inappropriate spreadsheet is a major cause of mistakes in the data analysis workflow.
+There is a collection of [horror-stories](http://www.eusprig.org/horror-stories.htm) that tells how the use of spreadsheets can ruin analysis-based studies due to unexpected behaviour of the spreadsheet or error-prone
+editing processes.
+Some of these mishaps are not unique to spreadsheets, but many, such as [this](https://doi.org/10.1186/s13059-016-1044-7) and [this](https://doi.org/10.1186/1471-2105-5-80), are.
 
 Fortunately, most problems can be avoided with the following recommendations: 
 - Use spreadsheet in a text-only format (.csv or .tsv),
