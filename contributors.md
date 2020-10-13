@@ -377,7 +377,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 * More information:
 > I enjoy browsing through and collecting memes.
-> Not only have I gained a deeper understanding and appreciation for how GitHub works, but I am also learning to prioritise sustainability and empowerment in the work that I do.
+> I am also interested in the intersection of Machine Learning, Information Retrieval, and Natural Language Processing.
 > I am also very grateful for the opportunity to work with people (who I may not have met otherwise) from around the world.
 
 
