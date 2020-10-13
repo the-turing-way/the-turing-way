@@ -3,7 +3,7 @@
 - Title: Embedding accessibility in The Turing Way open source community guidance 
 - Mentors:  Malvika Sharan, Kirstie Whitaker
 
-## Abstract
+## Proposal by _The Turing Way_ Team and GSoD applicant
 
 The Turing Way is an Open Source and community-led book project on research reproducibility and best practices in data science. 
 This project involves contributors from all around the world in developing learning resources, guidance and recommendations that form chapters for the books on reproducible research, project design, collaboration, communication and ethics in data science. 
@@ -170,3 +170,62 @@ November 2020: Improve accessibility of the online contents
 ### Web Accessibility
 - W3c Web Accessibility Initiative. "Accessibility Fundamentals Overview." Web Accessibility Initiative (WAI), 1 July 2020, www.w3.org/WAI/fundamentals. 
 - W3c Web Accessibility Initiative. "Writing for Web Accessibility – Tips for Getting Started." Web Accessibility Initiative (WAI), 1 July 2020, www.w3.org/WAI/tips/writing.
+
+## Proposal by the GSoD applicant: Paul Owoicho
+
+The increasing popularity of Data Science and the versatility of its applications has made it an appealing domain for students, researchers, industry experts, and professionals across various fields and levels of expertise. To foster growth in the field, it is paramount that Data Science research is - and remains - accessible to the wider community of Data Science enthusiasts. One way this goal can be achieved is through guides on conducting reproducible, reusable, and collaborative Data Science research.
+
+The Turing Way is one such guide, with a mission of “ensuring that reproducible data science is ‘too easy not to do’.” Currently, The Turing Way contains content that covers reproducible research, project design, communication, collaboration, and ethical research. However, as the scope of The Turing Way expands, editorial support would be needed to incorporate newly created content into the existing body of work.
+
+### Project Goals
+
+At a high level, my job as a Technical Writer on this project is to make The Turing Way more accessible for the Data Science community by:
+Reviewing existing chapters of The Turing Way, looking for ways to improve its language and structure,
+Incorporating new content into the existing body of work while keeping the overall style and tone of The Turing Way consistent, and
+Contributing new content in the form of new chapters, interactive tutorials, and/or case studies.
+
+### Timeline
+
+If my application is successful, I propose to complete the project in the following manner:
+
+- By August 17: Make contributions to The Turing Way where possible (fixing typos etc.)
+Familiarize myself with the current information contained in The Turing Way
+Improve my writing and editorial skills while getting up to speed with the tools I would be working with
+
+- Community Bonding Phase (August 17 - September 23): Engage proactively with the team/community behind The Turing Way and learn more about the project
+Establish and maintain channels of communication with mentors
+Refine and finalise project goals with input from mentors and the community at large
+
+- Week 1 (September 14 - September 19): The first week will be spent getting the necessary tools set up properly to ensure my productivity.
+Furthermore, I discovered some typos while reading through The Turing Way. Though I intend to rectify these errors before August 17 as I contribute to the project. I propose to spend the first few weeks going through existing chapters of the book to ensure that its grammar, spelling, and tone are correct, consistent, and appealing to the project’s target audience. I will begin the proofreading stage with the chapter titled Guide for Reproducible Research.
+
+- Week 2 (September 20 - September 26): Proofreading and editing the chapter titled Guide for Project Design as well as any new content and recommend changes as needed.
+
+- Week 3 (September 27 - October 3): Proofreading and editing the chapter titled Guide for Communication
+
+- Week 4 (October 4 - October 10): Proofreading and editing the chapter titled Guide for Collaboration, and working on new content.
+
+- Week 5 (October 11 - October 17): Proofreading and editing the chapter titled Guide for Ethical Research, and working on new content.
+
+- Week 6 (October 18 - October 24): Proofreading and editing the chapter titled Guide for Project Design, and working on new content.
+
+- Week 7 (October 25 - October 31): Brainstorm ideas for new content for The Turing Way with input from the mentors of the project. This new content could be in the form of a new chapter, a tutorial, or a case study. For example, I am currently working on developing methods for podcasts retrieval and understanding as part of my dissertation. I could document this experience and my learning outcomes as a case study.
+
+- Weeks 8 to 10 (November 1 - November 28): Write and edit new content contributions while proofreading the new content created by others.
+
+- Week 12 (November 29 - December 5): I will finetune the written content to ensure factuality, accuracy and consistency. I will also create and submit my reflections on the project’s success and an evaluation of my mentors.
+
+### Why The Turing Project
+
+As a current Data Science Master’s student, I appreciate the need for reproducible Data Science. Not only does it help facilitate growth in the field, as one’s work can be built upon, it is also useful in business scenarios where a project might need to be repeated with different parameters or handed off to an engineering team for production.
+
+To bring it home, I would be working on my dissertation over the summer with a focus on ongoing data challenges in NLP, Search, and Dialogue. Part of my work would involve reproducing results from previous projects and building upon them - this would not be possible if these projects were not reproducible, to begin with. Given this, The Turing Way project appeals to me because of its significance to the field of Data Science.
+
+Furthermore, in the near future, I intend to pursue a PhD with a focus in Data Science. As I aspire to become part of the Data Science research community, I would relish any opportunity that allows me to make a contribution ahead of time.
+
+### Why I am the right person
+
+I believe that I am the right candidate for this project because:
+As a budding Data Scientist, I appreciate the need for The Turing Way and foresee the impact it will have on the Data Science community. I will also be able to contribute authentic content to The Turing Way based on my experiences.
+In my previous role as a Research Analyst at Guaranty Trust Bank in Nigeria, I gained significant experience in creating and maintaining documentation for projects my team was responsible for. I created customer-facing user-manuals for an app called Orange Books and another called Zumi the SKS Robot. Though these manuals were distributed in print, the final versions can be accessed here and here.
+I currently freelance (remotely) as a Medical Writer where I write articles and research papers on a wide range of topics, most of which I have no prior knowledge of before starting on the topics. Not only has this experience improved my writing and research skills, but it has also helped me appreciate the value of collaboration and teamwork.
