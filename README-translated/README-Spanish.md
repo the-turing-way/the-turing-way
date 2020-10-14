@@ -101,7 +101,7 @@ Alternativamente, puedes comunicarte con la investigadora principal **Kirstie Wh
 
 ## [Colaboradores](https://github.com/alan-turing-institute/the-turing-way#contributors)
 
-Gracias a estas personas maravillosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)): [lista de colaboradores](https://github.com/alan-turing-institute/the-turing-way#contributors)
+Gracias a estas personas maravillosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)): [lista de personas que han colaborado](https://github.com/alan-turing-institute/the-turing-way#contributors)
 
 Este proyecto sigue la especificación [all-contributors](https://github.com/all-contributors/all-contributors).
 ¡Contribuciones de todo tipo son bienvenidas!
