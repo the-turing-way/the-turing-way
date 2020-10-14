@@ -98,7 +98,8 @@
   - title: Reproducible Environments
     file: reproducible-research/renv
     sections:
-    - file: reproducible-research/renv/renv-options
+    - title: Capturing Computational Environments
+      file: reproducible-research/renv/renv-options
     - file: reproducible-research/renv/renv-package
     - file: reproducible-research/renv/renv-yaml
     - file: reproducible-research/renv/renv-binder
