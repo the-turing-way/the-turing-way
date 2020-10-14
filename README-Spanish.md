@@ -6,17 +6,17 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
 [![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)
 
-_The Turing Way_ es una guía ligeramente testaruda para la ciencia de datos reproducible. 
+_The Turing Way_ es una guía asertiva para la ciencia de datos reproducible. 
 Puedes leerla aquí:: <https://the-turing-way.netlify.com>
-Actualmente estás en el repositorio de GitHub del proyecto donde se encuentran todos los fragmentos que componen la guía y donde ocurre el proceso de escritura / construcción de la misma.
+Actualmente estás en el repositorio de GitHub del proyecto donde se encuentran todos los fragmentos que componen la guía y donde ocurre el proceso de escritura/construcción de la misma.
 
-Nuestro objetivo es proporcionar toda la información que los investigadores necesitan al inicio de sus proyectos para garantizar que sean fáciles de reproducir al final.
+Nuestro objetivo es proporcionar toda la información que las personas que hacen investigación necesitan al inicio de sus proyectos para garantizar que sean fáciles de reproducir al final.
 
-Esto también significa asegurarse de que los estudiantes de doctorado, los post-doctorantes, los investigadores principales y los equipos de financiación sepan qué partes de la "responsabilidad de reproducibilidad" poseen y qué deben hacer para impulsar que la ciencia de datos sean más eficiente, efectiva y comprensible.
+Esto también significa asegurarse de que estudiantes de doctorado, post-doctorantes, investigadoras e investigadores principales y los equipos de financiación sepan qué partes de la "responsabilidad de reproducibilidad" poseen y qué deben hacer para impulsar que la ciencia de datos sean más eficiente, efectiva y comprensible.
 
 Tabla de contenidos:
 
-- [Acerca el proyecto](#about-the-project)
+- [Acerca del proyecto](#about-the-project)
 - [El equipo](#the-team)
 - [Cómo contribuir al proyecto](#contributing)
 - [Citando _The Turing Way_](#citing-the-turing-way)
@@ -29,12 +29,12 @@ la descripción general del _The Turing Way_ comienza en el minuto 5:13.
 ### Acerca del proyecto
 
 La investigación reproducible es necesaria para garantizar que se pueda confiar en el trabajo científico.
-Los financiadores y editores científicos están comenzando a exigir que las publicaciones incluyan acceso a los datos subyacentes y al código de análisis.
+Quienes financian y editan trabajos científicos están comenzando a exigir que las publicaciones incluyan acceso a los datos subyacentes y al código de análisis.
 El objetivo es garantizar que todos los resultados puedan verificarse de forma independiente y servir como base para trabajos futuros.
 Esto a veces es más fácil decirlo que hacerlo.
-Compartir estos resultados de investigación significa comprender la gestión de datos, las bibliotecas, el desarrollo de software y las técnicas de integración continua: habilidades que no se enseñan ni se esperan de los investigadores académicos y científicos de datos. Como estas actividades no se enseñan comúnmente, reconocemos que la carga de los requisitos y la adquisición de nuevas habilidades puede ser intimidante para las personas que son nuevas en este mundo.
-*The Turing Way* es un manual para ayudar a los estudiantes, sus supervisores, financiadores y editores de revistas a garantizar que la ciencia de datos reproducible sea "demasiado fácil como para no hacerla" incluso para personas que nunca antes han trabajado de esta manera.
-Incluirá material de capacitación sobre control de versiones, *analysis testing* y comunicación abierta y transparente con futuros usuarios, y se basará en los estudios de caso y talleres del Instituto Turing.
+Compartir estos resultados de investigación significa comprender la gestión de datos, bibliotecología, el desarrollo de software y las técnicas de integración continua: habilidades que no se enseñan ni se esperan de los investigadores académicos y científicos de datos. Como estas actividades no se enseñan comúnmente, reconocemos que la carga de los requisitos y la adquisición de nuevas habilidades puede ser intimidante para las personas que son nuevas en este mundo.
+*The Turing Way* es un manual para ayudar a quienes estudian, supervisan, financian y editan trabajos científicos a garantizar que la ciencia de datos reproducible sea "demasiado fácil como para no hacerla" incluso para personas que nunca antes han trabajado de esta manera.
+Incluirá material de capacitación sobre control de versiones, testeo de análisis y comunicación abierta y transparente con futuras personas usuarias, y se basará en los estudios de caso y talleres del Instituto Turing.
 Este proyecto se desarrolla de manera abierta y todas y cada una de tus preguntas, comentarios y recomendaciones son bienvenidos en nuestro repositorio de github: <https://github.com/alan-turing-institute/the-turing-way>.
 
 ### El equipo
@@ -47,11 +47,11 @@ Para obtener más información sobre cómo contactarnos, consulta el [documento 
 
 ### Contributing
 
-:construction: Este repositorio es siempre un trabajo en progreso y **todos** están invitados a ayudarnos a construir algo que sea útil para muchos. :construction:
+:construction: Este repositorio es siempre un trabajo en progreso y **todas las personas** están invitadas a ayudarnos a construir algo que sea útil para muchas personas. :construction:
 
-Se les solicita a quien colaboren con el proyecto que sigan nuestro [código de conducta] (CODE_OF_CONDUCT.md) y que revisen nuestras [pautas de contribución] (CONTRIBUTING.md) para obtener más información sobre cómo comenzar.
+Se le socilita a quienes colaboren con el proyecto que sigan nuestro [código de conducta] (CODE_OF_CONDUCT.md) y que revisen nuestras [pautas de contribución] (CONTRIBUTING.md) para obtener más información sobre cómo comenzar.
 
-Si no conoces o tienes dudas de contribuir en GitHub, puedes también contribuir con un estudio de caso y enviarnos consejos a través de nuestro [formulario de envío de Google] (https://goo.gl/forms/akFqZEIy2kxAjfZW2).
+Si no conoces o tienes dudas sobre cómo contribuir en GitHub, puedes también contribuir con un estudio de caso y enviarnos consejos a través de nuestro [formulario de envío de Google] (https://goo.gl/forms/akFqZEIy2kxAjfZW2).
 
 ### Citando _The Turing Way_
 
@@ -83,16 +83,16 @@ Cuando utilises cualquiera de las imágenes, por favor incluye la siguiente atri
 La última versión de Zenodo se puede citar como:
 > The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300
 
-Hemos utilizado algunas de estas ilustraciones en las respuestas a las contribuciones de nuevos miembros en el [Bot de bienvenida](https://github.com/apps/welcome) de este repositorio de GitHub.
+Hemos utilizado algunas de estas ilustraciones en las respuestas a las contribuciones de personas que se integran a esta comunidad en el [Bot de bienvenida](https://github.com/apps/welcome) de este repositorio de GitHub.
 
 ### Contáctanos
 
 Tenemos una sala de chat de gitter y nos encantaría que pasaras a saludar a <https://gitter.im/alan-turing-institute/the-turing-way>.
 Este foro también está sincronizado con [Matrix](https://matrix.org) en [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) y puedes unirte a nosotros allí si lo prefieres.
 
-También tenemos una lista de correos a las que enviamos actualizaciones mensuales del proyecto. Suscríbete en <https://tinyletter.com/TuringWay>.
+También tenemos una lista de correos a la que enviamos actualizaciones mensuales del proyecto. Suscríbete en <https://tinyletter.com/TuringWay>.
 
-Puedes ponerte en contacto con nuestro administrador de la comunidad **Malvika Sharan** por correo electrónico a [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+Puedes ponerte en contacto con nuestra administradora de la comunidad **Malvika Sharan** por correo electrónico a [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 Alternativamente, puedes comunicarte con la investigadora principal **Kirstie Whitaker** por correo electrónico a [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 
 
