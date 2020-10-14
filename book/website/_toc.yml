@@ -100,13 +100,20 @@
     sections:
     - title: Capturing Computational Environments
       file: reproducible-research/renv/renv-options
-    - file: reproducible-research/renv/renv-package
-    - file: reproducible-research/renv/renv-yaml
-    - file: reproducible-research/renv/renv-binder
-    - file: reproducible-research/renv/renv-vm
-    - file: reproducible-research/renv/renv-containers
-    - file: reproducible-research/renv/renv-checklist
-    - file: reproducible-research/renv/renv-resources
+    - title: Package Management Systems
+      file: reproducible-research/renv/renv-package
+    - title: YAML Files
+      file: reproducible-research/renv/renv-yaml
+    - title: Binder
+      file: reproducible-research/renv/renv-binder
+    - title: Virtual Machines
+      file: reproducible-research/renv/renv-vm
+    - title: Containers
+      file: reproducible-research/renv/renv-containers
+    - title: Checklist
+      file: reproducible-research/renv/renv-checklist
+    - title: Resources
+      file: reproducible-research/renv/renv-resources
   - title: BinderHub
     file: reproducible-research/binderhub
     sections:
