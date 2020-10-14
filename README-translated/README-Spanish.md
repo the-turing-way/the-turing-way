@@ -42,7 +42,7 @@ Este proyecto se desarrolla de manera abierta y todas y cada una de tus pregunta
 Este es (parte de) el equipo de planificación del proyecto en el Instituto Turing.
 Para obtener más información sobre cómo contactarnos, consulta el [documento de formas de trabajo] (ways_of_working.md).
 
-![Foto del equipo](book/website/figures/TuringWayTeam.jpg)
+<!---![Foto del equipo](book/website/figures/TuringWayTeam.jpg)--->
 
 
 ### Contributing
