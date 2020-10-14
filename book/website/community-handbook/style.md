@@ -5,7 +5,7 @@ To ensure that the book can be read easily by everyone, including screen readers
 
 We follow the [Gov.uk guidance](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) to improve accessibility of the resources in _The Turing Way_.
 
-### Write each sentences in a new line (line breaks)
+## Write each sentences in a new line (line breaks)
 
 Please write all sentence in the markdown file on separate lines.
 Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph.
@@ -24,7 +24,7 @@ There is no one alive who is youer than you.
 - Dr Seuss
 ```
 
-### Opinions are welcome, but ...
+## Opinions are welcome, but ...
 
 _The Turing Way_ book is intended to be only *lightly* opinionated.
 Whilst more opinionated content is allowed, such content should be clearly marked.
@@ -40,7 +40,7 @@ Note, that the formatting will be retained, so we can split each sentence to a n
 > I do not like green eggs and ham i do not like them sam i am
 ```
 
-### Avoid Latin Abbreviation
+## Avoid Latin Abbreviation
 
 Please do not use Latin abbreviations.
 See the [Gov.uk recommendations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) for details.
@@ -68,7 +68,7 @@ Any text containing a Latin abbreviation will fail the continuos integration (CI
 
 *To avoid CI from failing, even in this chapter we have avoided to write those abbreviations and instead used an image to illustrate the above examples.*
 
-### Auto-formatting
+## Auto-formatting
 
 The Travis continuous-integration tests will check for formatting errors using [prettier.io](https://prettier.io). You can see a list of all files with style issues by looking at the Travis build logs, for example:
 
