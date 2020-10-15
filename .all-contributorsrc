@@ -1896,6 +1896,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "MariaEriksson",
+      "name": "Maria Eriksson",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/43676485?v=4",
+      "profile": "https://github.com/MariaEriksson",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
