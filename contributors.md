@@ -8,7 +8,7 @@ For example, using [all contributors bot](https://allcontributors.org) we update
 We understand that different contributions mean different things to people and may translate differently towards their personal interest, skill development, value exchange and advancement of their careers.
 Therefore, we also offer the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/contributors.md) file as a dedicated location to capture personal highlights from _The Turing Way_ community members.
 
-Individual contributors are welcome to provide their details under the section "Personal Highlights from _The Turing Way_ Contributors". 
+Individual contributors are welcome to provide their details under the section "Personal Highlights from _The Turing Way_ Contributors".
 Organisational support and collaborations are listed in the section, "Collaborating Organisations".
 Each organisation name and details will be listed separately followed by contribution details of each individual contributor from that organisation.
 
@@ -240,7 +240,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * GitHub id: [Laura Carter](https://github.com/LauraCarter)
 * ORCID: [0000-0002-4285-1140](https://orcid.org/0000-0002-4285-1140)
 * Short bio:
-> I'm a PhD candidate in the Human Rights Centre at the University of Essex, UK, researching the human rights implications of the use of data-driven technologies in the UK public sector, focusing on gender stereotyping and gender discrimination. Prior to my PhD, I worked as a human rights researcher for almost a decade, specialising mostly in human rights, sexual orientation and gender identity. I carried out field research in Europe and sub-Saharan Africa covering topics including homophobic and transphobic hate crimes, criminalisation of homosexuality and of sex work, legal gender recognition for trans people, and health rights for intersex people. 
+> I'm a PhD candidate in the Human Rights Centre at the University of Essex, UK, researching the human rights implications of the use of data-driven technologies in the UK public sector, focusing on gender stereotyping and gender discrimination. Prior to my PhD, I worked as a human rights researcher for almost a decade, specialising mostly in human rights, sexual orientation and gender identity. I carried out field research in Europe and sub-Saharan Africa covering topics including homophobic and transphobic hate crimes, criminalisation of homosexuality and of sex work, legal gender recognition for trans people, and health rights for intersex people.
 
 * Personal highlights:
 > I'm really enjoying learning more about Open Science practices and communities! I'm excited to be part of an [OLS-2](https://openlifesci.org/) mentee cohort alongside [Ismael Kherroubi Garcia](https://github.com/Ismael-KG) and [Sophia Batchelor](https://github.com/BrainonSilicon), working on the _Guide to Ethical Research_: if you're interested in building a community of thoughtful, reflective, ethical data scientists, please come and join us!
@@ -328,9 +328,9 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * GitHub id: [martinagvilas](http://github.com//martinagvilas)
 * ORCID: [0000-0002-1097-8534](https://orcid.org/0000-0002-1097-8534)
 * Short bio:
-> I'm currently finishing my PhD in Neuroscience at the Max-Planck-Institute AE in Frankfurt, Germany. 
-> I study how the brain processes conceptual knowledge analyzing neural recordings with computational modelling techniques. 
-> As an advocate of open-research, I also work on improving the reproducibility of neuroscientific-analyses and enjoy contributing to open-source software projects. 
+> I'm currently finishing my PhD in Neuroscience at the Max-Planck-Institute AE in Frankfurt, Germany.
+> I study how the brain processes conceptual knowledge analyzing neural recordings with computational modelling techniques.
+> As an advocate of open-research, I also work on improving the reproducibility of neuroscientific-analyses and enjoy contributing to open-source software projects.
 
 * Personal highlights:
 > Since the Book Dash in February 2020, I help with the maintenance of The Turing Way infrastructure and its reliance on Jupyter Book. The Turing Way is not only a great guide for conducting reproducible research, but it also provides a wonderful entry point into open-source contribution in general and connects you to a variety of open data-science communities.
@@ -365,7 +365,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * Role: Google Season of Doc: Technical Writer, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Embedding Accessibility in The Turing Way (2020)
 * GitHub id: [paulowoicho](http://github.com/paulowoicho)
 * ORCID: TBA
-* Short bio: 
+* Short bio:
 > I am a Technical Writer / Google Season of Docs (GSoD) Participant working to make The Turing Way consistent, sustainable, and accessible.
 > I have a BSc in Software Engineering from the American University of Nigeria, and an MSc in Data Science from the University of Glasgow.
 > Before now, I worked as a Research Analyst in the Fintech & Innovation Division of Guaranty Trust Bank, Nigeria.
@@ -460,15 +460,15 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * Role: HacktoberFest contribution facilitator, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework (2020)
 * GitHub id: [BrainonSilicon](https://github.com/BrainonSilicon)
 * ORCID: [0000-0002-8572-2058](https://orcid.org/0000-0002-8572-2058)
-* Short bio: 
->I am a PhD student at the University of Leeds studying sensorimotor learning with the Center for Immersive Technologies. My research focuses on understanding how how our brains interprets, and responds to both our physical reality, and a constructed reality (AR/VR). I do this through a deep love of the brain and emerging technologies. We will soon be existing in the future that we are creating now; so when we build with a "people first" (or a brain first) philosophy, we end up building a space that allows people to flourish. 
+* Short bio:
+>I am a PhD student at the University of Leeds studying sensorimotor learning with the Center for Immersive Technologies. My research focuses on understanding how how our brains interprets, and responds to both our physical reality, and a constructed reality (AR/VR). I do this through a deep love of the brain and emerging technologies. We will soon be existing in the future that we are creating now; so when we build with a "people first" (or a brain first) philosophy, we end up building a space that allows people to flourish.
 
 
 * Personal highlights:
 > MY FIRST CONTRIBUTION TO THE TURING WAY! It's an absolute honor to join The Turing Way community as we look towards an open, ethical, and accessible future. After having such a mixed STEM and non-STEM background, I'm thrilled to have joined this community as it grows and guides my thinking about how and what it means to do research.
 
 * More information:
-> I'm a fierce advocate for ethical and open research, and those beliefs tend to carry into everything I do. I previously worked on Brain Computer Interfaces after finishing my undergrad at UC Berkeley where I saw the incredible work that can be done through collaborative, crossdisciplinary science. I'm now part of Open Life Science's second cohort learning how to implement the teachings of The Turing Way because when good science and good practice meets, great things can happen. 
+> I'm a fierce advocate for ethical and open research, and those beliefs tend to carry into everything I do. I previously worked on Brain Computer Interfaces after finishing my undergrad at UC Berkeley where I saw the incredible work that can be done through collaborative, crossdisciplinary science. I'm now part of Open Life Science's second cohort learning how to implement the teachings of The Turing Way because when good science and good practice meets, great things can happen.
 
 
 <!---T--->
@@ -494,47 +494,43 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ## Collaborating Organisations
 
-*When members participate in The Turing Way community with the in-kind support of their funders and organisation, we acknowledge each member individually and list their organisations as “Collaborating organisations”. 
+*When members participate in The Turing Way community with the in-kind support of their funders and organisation, we acknowledge each member individually and list their organisations as “Collaborating organisations”.
 Such organisational supports are applicable when one or multiple members from a project or community collaborate to build resources in The Turing Way.*
 
 ### [Netherlands eScience Center](https://www.esciencecenter.nl/)
 
-<short description>
-<Motivation and impact of this collaboration>
-  
-Details of each members with their contributions have been listed alphabatically.
+The Netherlands eScience Center is the Dutch national hub for the development and application of domain overarching software and methods for the scientific community. Their main goal is to enable scientists with varying computing experience to fully utilize the potential of the available e-infrastructure and allow them to achieve otherwise unreachable scientific breakthroughs. The Netherlands eScience Center is primarily funded by the national research council (NWO) and the national e-infrastructure organization (SURF) of the Netherlands.
+
+The Netherlands eScience center maintains [its own guide](https://guide.esciencecenter.nl/) for reproducible software development. The focus of the eScience center guide has a big overlap with _The Turing Way_ and therefore it makes sense to avoid duplicating efforts. The eScience center contributes to _The Turing Way_ in the areas which are relevant for the eScience guide. The eScience guide points to _The Turing Way_ in when information would otherwise be duplicated.
+
+Details of each members with their contributions have been listed alphabetically.
 
 #### Carlos Martinez Oritz
 
-* Role: **eScience Team Coordinator**
-* GitHub id: [TBA](http://github.com/TBA)
-* ORCID: [TBA](https://orcid.org/TBA)
+* Role: **Community manager**
+* GitHub id: [c-martinez](http://github.com/c-martinez)
+* ORCID: [0000-0001-5565-7577](https://orcid.org/0000-0001-5565-7577)
 * Short bio:
-> 
->
+> Carlos obtained his PhD in Computer Science at the University of Exeter. Afterwards he worked on various research projects at the University of Exeter and Plymouth University. At the eScience Center, he has worked as an engineer in diverse projects in digital humanities and life sciences, developing expertise in natural language processing, linked open data and software sustainability. He is also a certified Software Carpentry instructor and is frequently involved in organising trainings.
 
 * Personal highlights:
-> In _The Turing Way_...
->
+> We always advocate for software reuse and collaborative development of software. I love that we can do the same for software development guidelines: reuse content from the eScience guide and collaboratively develop with _The Turing Way_ community!
 
 * More information:
-> 
->
-
+> I am a big advocate of improving software quality. I am really glad that the eScience center is collaborating with _The Turing Way_ in providing guidelines and helping build better research software.
 
 #### Mateusz Kuzak
 
-* Role: **eScience Team Coordinator**
-* GitHub id: [TBA](http://github.com/TBA)
-* ORCID: [TBA](https://orcid.org/TBA)
+* Role: **Community manager**
+* GitHub id: [mkuzak](http://github.com/mkuzak)
+* ORCID: [0000-0003-0087-6021](https://orcid.org/0000-0003-0087-6021)
 * Short bio:
-> 
->
+>Mateusz obtained his master degree in Biotechnology with specialization Biophysics, at the Jagiellonian University, Krakow, Poland. In September 2019 Mateusz joined the Netherlands eScience Center in the role of Community Officer with the focus on communities and training around Research Software Engineering, software best practices and sustainability, and the role of software in open science and reproducible research. Since 2015, Mateusz has been involved in the Carpentries community, first as an instructor, later contributor, mentor, Executive Counsil member and instructor trainer. He is also leading the Dutch chapter of the Carpentries and is on the core team of nl-RSE community.
 
 * Personal highlights:
 > In _The Turing Way_...
 >
 
 * More information:
-> 
+>
 >
