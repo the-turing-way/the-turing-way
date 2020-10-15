@@ -48,7 +48,7 @@ The default options are suitable for most purposes, but this process permits cus
 (rr-renv-vm-research-starting)=
 ### Starting a Virtual Machine
 
-To start a virtual machine, select the machine from the list of VMs on the left, and click the green `start` arrow at the top:
+To start a virtual machine, select the machine from the list of VMs on the left, and click the green `Start` arrow at the top:
 
 ![VM_start_machine](../../figures/VM_start_machine.png)
 
