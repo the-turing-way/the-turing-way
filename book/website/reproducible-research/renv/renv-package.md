@@ -9,7 +9,7 @@ We are going to focus on [Conda](https://conda.io/en/latest/), which has several
 ## What Does Conda Do?
 
 Conda allows users to create any number of entirely separate environments, and quickly and switch between them.
-For example, say a researcher has a project, _Project One_, which has own environment, defined by Conda, that is made up of the following set of packages:
+For example, say a researcher has a project, _Project One_, which has its own environment, defined by Conda, that is made up of the following set of packages:
 
 | **Package Name** | **Version** |
 | ------------ | ------- |
@@ -92,13 +92,14 @@ When creating environments, you can also specify versions of languages to instal
 conda create --name Project_One python=3.7.1 scipy=1.2.1 matplotlib
 ```
 
-Now that an environment has been created, it is time to activate (start using) it via `conda activate environment_name`. So in this example:
+Now that an environment has been created, it is time to activate (start using) it via `conda activate environment_name`. 
+So in this example:
 
 ```
 conda activate Project_One
 ```
 
-Note that you may need to use `source` instead of `conda` if you're using an old version of Conda.
+Note that you may need to use `source` instead of `conda` if you are using an old version of Conda.
 
 Once an environment is activated, you should see the environment name before each prompt in your terminal:
 
@@ -136,7 +137,7 @@ Packages that are no longer referenced by any environments can be deleted using:
 conda clean -pts
 ```
 
-Alternatively you can delete an environment (such as _Project_One_) along with its associated packages via:
+Alternatively, you can delete an environment (such as _Project_One_) along with its associated packages via:
 
 ```
 conda remove --name Project_One --all
@@ -145,28 +146,28 @@ conda remove --name Project_One --all
 (rr-renv-package-removing)=
 ## Installing and Removing Packages Within an Environment
 
-Within an environment you can install more packages using:
+Within an environment, you can install more packages using:
 
 ```
 conda install package_name
 ```
 
-and similarly you can remove them via:
+similarly, you can remove them via:
 
 ```
 conda remove package_name
 ```
 
 This is the best way to install packages from within Conda as it will also install a Conda-tailored version of the package.
-However it is possible to use other methods if a Conda-specific version of a package is not available.
+However, it is possible to use other methods if a Conda-specific version of a package is not available.
 For example, `pip` is commonly used to install Python packages. 
-So a command like:
+So, a command like:
 
 ```
 pip install scipy
 ```
 
-will list `scipy` package explicitly - as long as `pip` is installed inside the currently active Conda environment.
+will install the `scipy` package explicitly - as long as `pip` is installed inside the currently active Conda environment.
 Unfortunately, when Conda and `pip` are used together to create an environment, it can lead to a state that can be hard to reproduce.
 Specifically, running Conda after `pip` may potentially overwrite or break packages installed via `pip`.
 One way to avoid this is by installing as many requirements as possible with Conda, and then use pip.
