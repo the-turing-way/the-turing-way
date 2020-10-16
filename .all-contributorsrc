@@ -1866,7 +1866,8 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/17729900?v=4",
       "profile": "http://lacion.rbind.io",
       "contributions": [
-        "a11y"
+        "a11y",
+        "translation"
       ]
     },
     {
@@ -1894,6 +1895,24 @@
       "profile": "https://github.com/Karvovskaya",
       "contributions": [
         "blog"
+      ]
+    },
+    {
+      "login": "MariaEriksson",
+      "name": "Maria Eriksson",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/43676485?v=4",
+      "profile": "https://github.com/MariaEriksson",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "ChandlerKlein",
+      "name": "Chandler Klein",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/18371945?v=4",
+      "profile": "http://chandlerklein.com",
+      "contributions": [
+        "bug"
       ]
     }
   ],
