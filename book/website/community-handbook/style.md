@@ -64,6 +64,6 @@ Instead of the second abbreviation in the table for *et-cetera* to indicate open
 Instead of third abbreviation in the table for *id est* that is often used to clarify a sentence, try (re)writing sentences to avoid the need to use it.
 If that is not possible, use an alternative such as ‘meaning’ or ‘that is’.
 
-Any text containing a Latin abbreviation will fail the continuos integration (CI) workflow of the _The Turing Way_ GitHub repository from passing successfully.
+Any chapter containing a Latin abbreviation will fail the continuos integration (CI) workflow of the _The Turing Way_ GitHub repository from passing successfully, which is tested by this [Python script](https://github.com/alan-turing-institute/the-turing-way/blob/master/tests/no-bad-latin.py).
 
 *To avoid CI from failing, even in this chapter we have avoided to write those abbreviations and instead used an image to illustrate the above examples.*
