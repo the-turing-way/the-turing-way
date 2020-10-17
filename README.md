@@ -367,6 +367,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://chandlerklein.com"><img src="https://avatars3.githubusercontent.com/u/18371945?v=4" width="100px;" alt=""/><br /><sub><b>Chandler Klein</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3AChandlerKlein" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://krrank.live"><img src="https://avatars0.githubusercontent.com/u/44499991?v=4" width="100px;" alt=""/><br /><sub><b>Krunal Rank</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3AKRHero03" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/dlintott"><img src="https://avatars2.githubusercontent.com/u/4700562?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Lintott</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Adlintott" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/GeorgiaHCA"><img src="https://avatars1.githubusercontent.com/u/46889966?v=4" width="100px;" alt=""/><br /><sub><b>Georgia</b></sub></a><br /><a href="#ideas-GeorgiaHCA" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>

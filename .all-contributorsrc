@@ -1934,6 +1934,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "dlintott",
+      "name": "Daniel Lintott",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4700562?v=4",
+      "profile": "https://github.com/dlintott",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
