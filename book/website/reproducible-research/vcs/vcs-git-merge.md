@@ -3,10 +3,12 @@
 Once you've finished up some work on a branch and you're are ready to integrate it to your main project (or any other branch) you can merge the branch that you worked on into the master branch or any other target branch of your interest.
 You can also use merging to combine work that other people have done with your own and vice versa.
 
-To merge a branch, branch_A, into another branch, branch_B, switch to branch_A via:
+To merge a branch, `branch_A`, into another branch, `branch_B`, switch to `branch_A` via:
+
 ```bash
 git checkout branch_A
 ```
+
 Merge it into branch_B by:
 
 ```bash
@@ -45,17 +47,20 @@ Let's say there's a project and it contains a file with this line of code:
 print('hello world')
 ```
 
+
 Let's say, one person, on their branch, decides to pep it up a bit and changes this line to:
 
 ```python
 print('hello world!!!')
 ```
 
+
 while someone else on another branch instead decides to change `print('hello world')` to:
 
 ```python
 print('Hello World')
 ```
+
 
 They continue doing work on their respective branches and eventually decide to merge.
 Their version control software then goes through and combines their changes into a single version of the file, *but* when it gets to the hello world statement it doesn't know which version to use.
@@ -64,13 +69,14 @@ This is a merge conflict: incompatible changes have been made to the same file.
 When a merge conflict arises it will be flagged during the merge process.
 Within the files with conflicts the incompatible changes will be marked so you can fix them:
 
-```
+```bash
 <<<<<<< HEAD
 print('hello world!!!')
 =======
 print('Hello World')
 >>>>>>> master
 ```
+
 `<<<<<<<`: Indicates the start of the lines that had a merge conflict.
 The first set of lines are the lines from the file that you were trying to merge the changes into.
 
@@ -87,6 +93,7 @@ So in this project, the users may decide in favour of one `hello world` over ano
 ```python
 print('Hello World!!!')
 ```
+
 
 Once you have fixed the conflicts, commit the new version.
 You have now resolved the conflict.
@@ -113,11 +120,13 @@ To set a tool as your default do:
 git config --global merge.tool name_of_the_tool
 ```
 
+
 and launch it with:
 
-```bash
+```git
 git mergetool
 ```
+
 
 Fundamentally, the best way to deal with merge conflicts is, as far as it is possible, to try to avoid them in the first place.
 You can improve your odds on this by keeping branches clean and focused on a single issue and involving as few files as possible.
