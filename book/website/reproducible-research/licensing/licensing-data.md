@@ -7,7 +7,7 @@ Data licenses vary based on different criteria, such as:
 * Permission to redistribute or modify original
 * Inclusion of the same license with derivatives or redistributions
 
-As a result, accessibility to your data is affected by the data license you choose. <br>
+As a result, accessibility to your data is affected by the data license you choose.
 
 ## Creative Commons Licenses
 
