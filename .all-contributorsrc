@@ -1927,21 +1927,21 @@
       ]
     },
     {
-      "login": "GeorgiaHCA",
-      "name": "Georgia",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/46889966?v=4",
-      "profile": "https://github.com/GeorgiaHCA",
-      "contributions": [
-        "ideas"
-      ]
-    },
-    {
       "login": "dlintott",
       "name": "Daniel Lintott",
       "avatar_url": "https://avatars2.githubusercontent.com/u/4700562?v=4",
       "profile": "https://github.com/dlintott",
       "contributions": [
         "bug"
+      ]
+    },
+    {
+      "login": "GeorgiaHCA",
+      "name": "Georgia",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/46889966?v=4",
+      "profile": "https://github.com/GeorgiaHCA",
+      "contributions": [
+        "ideas"
       ]
     }
   ],
