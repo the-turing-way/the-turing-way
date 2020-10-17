@@ -9,6 +9,7 @@ The research communities responded with a sudden surge of hackathons, data model
 ---
 height: 500px
 name: new-community
+alt: An illustration of 2 people who are working together and discussing a data chart.
 ---
 _An illustration of analytic process. [Royalty free image from Many Pixels](https://www.manypixels.co/gallery/)
 ```
