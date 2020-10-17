@@ -58,7 +58,7 @@ Tasks (but also projects) progress from left to right in time, for example:
 
 ## Systems / project "pulse"
 
-Switching between managing and doing - assuming you are a team member yourself. How often do you check in with the whole team, when do you plan things, when do you evaluate results, etc. There are various 
+Switching between managing and doing - assuming you are a team member yourself. How often do you check in with the whole team, when do you plan things, when do you evaluate results. 
 
 ### GTD
 
@@ -105,7 +105,7 @@ Group meetings, time slots, when are people doing what (if you need their help)
 
 ### Shared reference
 
-Don't duplicate the work of saving important documents (templates, reports etc). For example research papers:
+Don't duplicate the work of saving important documents (templates, reports). For example research papers:
 
 https://veronikach.com/habits-productivity/how-to-share-papers-with-your-students-in-evernote/
 
