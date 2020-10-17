@@ -98,7 +98,7 @@ A comparison between the PDDL and CC0 is provided [here](https://opendatacommons
 It is also possible to choose other data licenses that may have been developed with a specific use case or community in mind or that are not in widespread global use.
 These include licenses that were developed by national governments, such as the [Norwegian License for Open Government Data](https://data.norge.no/nlod/en/).
 Often, such licenses are the recommended data licensing option within the corresponding country, especially for data created or owned by their public bodies.
-Another example is the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) or OGL, which was developed by The National Archives, UK. <br>
+Another example is the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) or OGL, which was developed by The National Archives, UK.
 
 If you would like to read more about the challenges and finer points of licensing, [this article](https://research.okfn.org/avoiding-data-use-silos/) is a great resource to get you started.
 
