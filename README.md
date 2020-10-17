@@ -10,7 +10,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-203-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-**_This README.md file in also available in Dutch ([README-Dutch](README-translated/README-Dutch.md)), Portuguese ([README-Portuguese](README-translated/README-Portuguese.md)), Spanish ([README-Spanish](README-translated/README-Spanish.md)) and Italian ([README-Italian](README-translated/README-Italian.md))._**
+**_This README.md file in also available in Dutch ([README-Dutch](README-translated/README-Dutch.md)), Italian ([README-Italian](README-translated/README-Italian.md)), Portuguese ([README-Portuguese](README-translated/README-Portuguese.md)), and Spanish ([README-Spanish](README-translated/README-Spanish.md)) (listed alphabetically)._**
 
 _The Turing Way_ is a lightly opinionated guide to reproducible data science.
 You can read it here: <https://the-turing-way.netlify.com>
