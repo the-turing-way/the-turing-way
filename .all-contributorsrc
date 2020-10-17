@@ -1943,6 +1943,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "oxpeter",
+      "name": "oxpeter",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6393360?v=4",
+      "profile": "https://github.com/oxpeter",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
