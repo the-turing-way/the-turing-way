@@ -12,5 +12,4 @@ workshops/boost-research-reproducibility-binder/workshop-presentations/*pptx
 
 .Rproj.user
 
-.idea
 **/__pycache__/
