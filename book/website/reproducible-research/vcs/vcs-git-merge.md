@@ -1,15 +1,15 @@
-# The Git Merge command
+# The `git merge` command
 
 Once you've finished up some work on a branch and you're are ready to integrate it to your main project (or any other branch) you can merge the branch that you worked on into the master branch or any other target branch of your interest.
 You can also use merging to combine work that other people have done with your own and vice versa.
 
 To merge a branch, branch_A, into another branch, branch_B, switch to branch_A via:
-```
+```bash
 git checkout branch_A
 ```
 Merge it into branch_B by:
 
-```
+```bash
 git merge branch_B
 ```
 
@@ -18,17 +18,17 @@ If this happens, there are no merge conflicts in individual files.
 You need to commit or stash the files it lists and then try again.
 The error messages are as follows:
 
-```
+```bash
 error: Entry 'your_file_name' not update. Cannot merge. (Changes in working directory)
 ```
 
 or
 
-```
+```bash
 error: Entry 'your_file_name' would be overwritten by merge. Cannot merge. (Changes in staging area)
 ```
 
-### Good practice
+## Good practice
 
 First and foremost your **master branch should always be stable**.
 Only merge work that is finished and tested (for example, on a different branch).
@@ -41,19 +41,19 @@ When changes to made to the same file on different branches sometimes those chan
 This most commonly occurs in collaborative projects, but it happens in solo projects too.
 Let's say there's a project and it contains a file with this line of code:
 
-```
+```python
 print('hello world')
 ```
 
 Let's say, one person, on their branch, decides to pep it up a bit and changes this line to:
 
-```
+```python
 print('hello world!!!')
 ```
 
 while someone else on another branch instead decides to change `print('hello world')` to:
 
-```
+```python
 print('Hello World')
 ```
 
@@ -84,7 +84,7 @@ This may mean discarding either your changes or someone else's or doing a mix of
 You will also need to delete the `<<<<<<<`, `=======`, and `>>>>>>>` in the file.
 So in this project, the users may decide in favour of one `hello world` over another, or they may decide to replace the conflict with:
 
-```
+```python
 print('Hello World!!!')
 ```
 
@@ -93,7 +93,7 @@ You have now resolved the conflict.
 If, during the process, you need a reminder of which files the conflicts are in you can use `git status` to find out.
 
 If you find there are particularly nasty conflicts and you want to abort the merge you can use:
-```
+```bash
 git merge --abort
 ```
 
@@ -109,13 +109,13 @@ Find and familiarise yourself with one that works for you.
 Commonly used merge tools include [KDiff3](http://kdiff3.sourceforge.net/), [Beyond Compare](https://www.scootersoftware.com/), [Meld](http://meldmerge.org/), and [P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge).
 To set a tool as your default do:
 
-```
+```bash
 git config --global merge.tool name_of_the_tool
 ```
 
 and launch it with:
 
-```
+```bash
 git mergetool
 ```
 
