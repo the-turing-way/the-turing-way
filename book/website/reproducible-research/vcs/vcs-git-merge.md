@@ -9,7 +9,6 @@ To merge a branch, `branch_A`, into another branch, `branch_B`, switch to `branc
 git checkout branch_A
 ```
 
-<br>
 
 Merge it into branch_B by:
 
