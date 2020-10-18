@@ -30,7 +30,7 @@ The second [Collaboration Café](https://the-turing-way.netlify.app/community-ha
 If you are planning to send your application for the Book Dash, this will be a good chance to get your questions answered by one of the team members.
 
 Please sign up to let us know that you will join: hackmd.io/@turingway/collaboration-cafe.
-* Save the **dates for November**: 4 ([in your time zone](https://arewemeetingyet.com/London/2020-11-04/15:00)) and 18 November ([in your time zone](https://arewemeetingyet.com/London/2020-11-18/15:00)).
+* **Save the dates for November**: 4 ([in your time zone](https://arewemeetingyet.com/London/2020-11-04/15:00)) and 18 November ([in your time zone](https://arewemeetingyet.com/London/2020-11-18/15:00)).
 
 ### Weekly Coworking Calls: 
 
@@ -58,14 +58,14 @@ Translation in more languages including **French, German, Indonesian and Turkish
 Malvika Sharan, Martina Vilas and Sarah Gibson have put together a tutorial on creating Jupyter Book using chapters from _The Turing Way_.
 This tutorial was developed and launched at the JupyterCon 2020, and is available on [GitHub](https://github.com/jupytercon/2020-jupyterbook-with-turing-way) under a CC-BY 4.0 and MIT license.
 Through a step-by-step guide in 7 modules, you will learn about the collaborative nature of both projects and create your own Jupyter Book using files and chapters from The Turing Way as examples.
-Each module comes with a Jupyter Notebook ([notebooks](https://github.com/jupytercon/2020-jupyterbook-with-turing-way/blob/master/notebooks)) and an introductory video available in this [YouTube playlist](https://www.youtube.com/playlist?list=PLBxcQEfGu3Dmdo6oKg6o9V7Q_e7WSX-vu).
+These modules are paired with [Jupyter Notebook](https://github.com/jupytercon/2020-jupyterbook-with-turing-way/blob/master/notebooks)) and introductory videos available in this [YouTube playlist](https://www.youtube.com/playlist?list=PLBxcQEfGu3Dmdo6oKg6o9V7Q_e7WSX-vu).
 Thanks to Chris Holdgraf and Kirstie Whitaker for supporting this project and contributing introductory video for the tutorial.
 Please **test this tutorial, and share your feedback** with us so that we can improve and further develop this resource.
  
 
 ![Martina quote Tweeting Kirstie’s tweet about their Jupyter Book tutorial](images/Tweet-MGV-Oct2020.png)
 
-[Martina quote Tweeting Kirstie’s tweet](https://twitter.com/martinagvilas/status/1314497921455357952?s=20 about their Jupyter Book tutorial at JupyterCon 2020
+[Martina quote Tweeting Kirstie’s tweet](https://twitter.com/martinagvilas/status/1314497921455357952?s=20) about their Jupyter Book tutorial at JupyterCon 2020
  
 ### Contributors record with collaborating organisations
 
