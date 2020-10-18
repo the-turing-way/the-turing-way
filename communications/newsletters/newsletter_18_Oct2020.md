@@ -39,8 +39,8 @@ Please sign up to let us know that you will join.
 We are continuing to host multiple coworking calls (1 hour each) weekly.
 Bookmark this document, and sign up to join one or multiple of these sessions: https://hackmd.io/@turingway/coworking-call.
 * Dates in October: 22, 26 and 29 from 11:00 - 12:00 London time ([first meeting in your time zone](https://arewemeetingyet.com/London/2020-10-22/11:00))
-  * Additional slot in Latin American time: 28 October, 15:00 - 16:00 London ([first meeting in * your time zone](https://arewemeetingyet.com/London/2020-10-28/15:00))
-Dates in November 2, 5, 16 and 19 November from 11:00 - 12:00 London time ([first meeting in your time zone](https://arewemeetingyet.com/London/2020-11-02/11:00))
+  * Additional slot in Latin American time: 28 October, 15:00 - 16:00 London ([first meeting in your time zone](https://arewemeetingyet.com/London/2020-10-28/15:00))
+* Dates in November 2, 5, 16 and 19 November from 11:00 - 12:00 London time ([first meeting in your time zone](https://arewemeetingyet.com/London/2020-11-02/11:00))
 
 ## News from the community
 
@@ -48,6 +48,7 @@ Dates in November 2, 5, 16 and 19 November from 11:00 - 12:00 London time ([firs
 
 
 ![Screenshot of a tweet from The Turing Way Twitter account with a globe image](images/Tweet-readme-Oct2020.png)
+
 *[The Turing Way](https://twitter.com/turingway/status/1316750745228713984?s=20) announces the newly translated README files in Dutch, Italian, Spanish and Portuguese*
 
 Thanks to our HackberFest contributors for translating and reviewing _The Turing Way_ README.md file in multiple languages.
@@ -64,6 +65,7 @@ Please test this tutorial, and share your feedback with us so that we can improv
  
 
 ![Martina quote Tweeting Kirstie’s tweet about their Jupyter Book tutorial](images/Tweet-MGV-Oct2020.png)
+
 [Martina quote Tweeting Kirstie’s tweet](https://twitter.com/martinagvilas/status/1314497921455357952?s=20 about their Jupyter Book tutorial at JupyterCon 2020
  
 ### Contributors record with collaborating organisations
@@ -105,6 +107,7 @@ Ed Chalstrey invited Sarah Gibson and Kirstie Whitaker to be featured on [The Tu
 This episode was published under the title “Reproducible Data science: How hard can it be?”, where both Kirstie and Sarah discuss how they facilitate research reproducibility through their work.
  
 ![Screenshot of a tweet by Sarah Gibson](images/Tweet-SG-Oct2020.png) 
+
 *[Sarah Gibson Tweets](https://twitter.com/drsarahlgibson/status/1309489395175751690?s=20) about the Turing Podcast episode where Ed invited her and Kirstie to talk about the reproducibility of scientific research.*
 
 ## Upcoming and past events
@@ -128,6 +131,7 @@ Thanks to Peter Oxley, Reshama Shaikh, Mariam Ahmed, Martina Vilas, Veronika Che
 
 
 ![Screenshot of _The Turing Way_ tweet about the wrap-up session hosted by Christian where Kirstie thanked all the participants](images/Tweet-tw-Oct2020.png)
+
 *Kirstie Whitaker presented the Sprint plan for _The Turing Way at the JupyterCon 2020, [Tweet from @turingway](_https://twitter.com/turingway/status/1317482918399311873?s=20).*
 
 ### More from our friends and community members
@@ -155,6 +159,7 @@ Sign up for updates and to be notified when registration opens: https://software
 ### 2 more weeks of Hacktoberfest: Sophia Batchelor
 
 ![Screenshot of a tweet by Sophia Batchelor, quote tweeting Turing Way](images/Tweet-SB-Oct2020.png)
+
 *Sophia Batchelor's [Tweet](https://twitter.com/brainonsilicon/status/1313589151258882048?s=20) inviting new open source contributors to contribute _The Turing Way_ as a part of Hacktoberfest*
 
 Sophia Batchelor has been facilitating this year’s Hacktoberfest contributions with the support of Paul Owoicho and Malvika Sharan.
@@ -175,6 +180,7 @@ She lists [Docker](https://www.docker.com/use-cases) and [Jupyter Book](https://
 Read the complete post on [The Alan Turing Institute’s website](https://www.turing.ac.uk/people/spotlights/louise-bowler).
 
 ![Screenshot of a tweet by Martin O’Reilly](images/Tweet-MOR-Oct2020.png)
+
 *Martin O’Reilly [Tweets](https://twitter.com/martinoreilly/status/1314272638445985794?s=20) highlights Louise’s interview with news on upcoming recruitment in his Research Engineering Group*
 
 ### Online mentions
@@ -182,6 +188,7 @@ Read the complete post on [The Alan Turing Institute’s website](https://www.tu
 
 
 ![Screenshot of 4 Tweets combined in an image](images/Tweet-collage-Oct2020.png)
+
 **1** [Chris Holdgraf’s Tweet](https://twitter.com/choldgraf/status/1316888102858706946?s=20) about the Zero to Binder guide maintained by _The Turing Way_ team.
 **2** [Aleksandra Lazic’s Tweet](https://twitter.com/alelazic/status/1311736198801620992?s=20) about the illustration of _The Turing Way_ recommendation on ‘Nice and Readable code’ by Scriberia.
 **3** [Reshama Shaikh’s Tweet](https://twitter.com/reshamas/status/1317550956666564613?s=20) about her Pull Request merged in _The Turing Way_ during her participation at the JupyterCon 2020 Sprint.
