@@ -29,13 +29,13 @@ The Turing Way Book Dash is a collaborative event where you’ll work with other
 The second [Collaboration Café](https://the-turing-way.netlify.app/community-handbook/coworking.html) of this month is **21 October 2020** from 15:00 - 17:00 BST ([see in your time zone](https://arewemeetingyet.com/London/2020-10-21/15:00/TheTuringWay-CollaborationCafe)).
 If you are planning to send your application for the Book Dash, this will be a good chance to get your questions answered by one of the team members.
 
-Please sign up to let us know that you will join: hackmd.io/@turingway/collaboration-cafe.
+Please sign up to let us know that you will join: https://hackmd.io/@turingway/collaboration-cafe.
 * **Save the dates for November**: 4 ([in your time zone](https://arewemeetingyet.com/London/2020-11-04/15:00)) and 18 November ([in your time zone](https://arewemeetingyet.com/London/2020-11-18/15:00)).
 
 ### Weekly Coworking Calls: 
 
 We host two coworking calls (1 hour each) every week.
-Bookmark this document, and sign up to join one or multiple of these sessions this month: hackmd.io/@turingway/coworking-call.
+Bookmark this document, and sign up to join one or multiple of these sessions this month: https://hackmd.io/@turingway/coworking-call.
 * Dates in **October: 22, 26 and 29** from 11:00 - 12:00 London time ([first meeting in your time zone](https://arewemeetingyet.com/London/2020-10-22/11:00))
   * Additional slot in Latin American time: **28 October**, 15:00 - 16:00 London ([first meeting in your time zone](https://arewemeetingyet.com/London/2020-10-28/15:00))
 * Dates in **November 2, 5, 16 and 19** from 11:00 - 12:00 London time ([first meeting in your time zone](https://arewemeetingyet.com/London/2020-11-02/11:00))
