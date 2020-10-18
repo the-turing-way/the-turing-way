@@ -67,7 +67,7 @@ Check out this tutorial, and share your feedback with us so that we can improve 
 
 [Martina quote Tweeting Kirstie’s tweet](https://twitter.com/martinagvilas/status/1314497921455357952?s=20) about their Jupyter Book tutorial at JupyterCon 2020
  
-### Contributors record with collaborating organisations
+### Contributors record for collaborating organisations
 
 Last month, we announced the publication of our Contributors Record online in the [Afterword section of _The Turing Way_](https://the-turing-way.netlify.app/afterword/contributors-record.html).
 As described in our [acknowledgement chapter](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-examples.html#organisational-support), we also want to use this document to highlight collaborative efforts made by our contributors with the help of their organisations.
@@ -134,9 +134,9 @@ Thanks to Peter Oxley, Reshama Shaikh, Mariam Ahmed, Martina Vilas, Veronika Che
 
 ### More from our friends and community members
 
-#### Ally Skills workshop: 4 December 2020
+#### Register for the Ally Skills workshops
 
-The Open Life Science team members will offer virtual Ally Skills workshops on December 4 2020. 
+The Open Life Science team members will offer **virtual Ally Skills workshops on December 4 2020**. 
 Participants of this workshop will learn about and practice simple daily techniques to make their workplace and communities more inclusive. 
 Read more about the workshop in [this blog post](https://openlifesci.org/posts/2020/10/05/ally-skills-training/).
 
@@ -144,9 +144,9 @@ Two training sessions are scheduled to accommodate participants in different tim
 * Workshop 1: 09:00 UTC - 12:00 UTC [Check your time](https://arewemeetingyet.com/UTC/2020-12-04/09:00/Ally%20Skills%20Training%20by%20OLS) - [Register on Eventbrite](https://www.eventbrite.co.uk/e/ally-skills-training-by-open-life-science-tickets-123254606847)
 * Workshop 2: 17:00 UTC - 20:00 UTC [Check your time](https://arewemeetingyet.com/UTC/2020-12-04/17:00/Ally%20Skills%20Training%20by%20OLS) - [Register on Eventbrite](https://www.eventbrite.co.uk/e/ally-skills-training-by-open-life-science-tickets-124094438807).
 
-#### Software Sustainability Institute Fellow 2021 announcement
+#### Software Sustainability Institute Fellowhip 2021
 
-Applications for the [Software Sustainability Institute’s Fellowship Programme 2021](https://software.ac.uk/news/ssi-fellowship-programme-2021) will open on Monday 7 December 2020.
+Applications for the [Software Sustainability Institute’s Fellowship Programme 2021](https://software.ac.uk/news/ssi-fellowship-programme-2021) will **open on Monday 7 December 2020**.
 The Fellowship Programme provides funding for individuals who want to improve how research software is done in their domains and/or area of work. 
 Each Fellow will be allocated £3,000 to spend over 15 months beginning 1 May 2021.
 The funding is flexible to support activities that are beneficial to both the Fellow and the Institute.
