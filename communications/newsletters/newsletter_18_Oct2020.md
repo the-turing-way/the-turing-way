@@ -26,19 +26,19 @@ The Turing Way Book Dash is a collaborative event where you’ll work with other
 
 ### Collaboration Café
 
-The second [Collaboration Café](https://the-turing-way.netlify.app/community-handbook/coworking.html) of this month is 21 October 2020 from 15:00 - 17:00 BST ([see in your time zone](https://arewemeetingyet.com/London/2020-10-21/15:00/TheTuringWay-CollaborationCafe)).
+The second [Collaboration Café](https://the-turing-way.netlify.app/community-handbook/coworking.html) of this month is **21 October 2020** from 15:00 - 17:00 BST ([see in your time zone](https://arewemeetingyet.com/London/2020-10-21/15:00/TheTuringWay-CollaborationCafe)).
 If you are planning to send your application for the Book Dash, this will be a good chance to get your questions answered by one of the team members.
 
 Please sign up to let us know that you will join: hackmd.io/@turingway/collaboration-cafe.
-* Next Collaboration Cafes will take place on 4 November ([in your time zone](https://arewemeetingyet.com/London/2020-11-04/15:00)) and 18 November ([in your time zone](https://arewemeetingyet.com/London/2020-11-18/15:00)).
+* Save the date for the next call: **4 November** ([in your time zone](https://arewemeetingyet.com/London/2020-11-04/15:00)) and 18 November ([in your time zone](https://arewemeetingyet.com/London/2020-11-18/15:00)).
 
 ### Weekly Coworking Calls: 
 
 We host two coworking calls (1 hour each) every week.
 Bookmark this document, and sign up to join one or multiple of these sessions this month: hackmd.io/@turingway/coworking-call.
-* Dates in October: 22, 26 and 29 from 11:00 - 12:00 London time ([first meeting in your time zone](https://arewemeetingyet.com/London/2020-10-22/11:00))
-  * Additional slot in Latin American time: 28 October, 15:00 - 16:00 London ([first meeting in your time zone](https://arewemeetingyet.com/London/2020-10-28/15:00))
-* Dates in November 2, 5, 16 and 19 November from 11:00 - 12:00 London time ([first meeting in your time zone](https://arewemeetingyet.com/London/2020-11-02/11:00))
+* Dates in **October: 22, 26 and 29** from 11:00 - 12:00 London time ([first meeting in your time zone](https://arewemeetingyet.com/London/2020-10-22/11:00))
+  * Additional slot in Latin American time: **28 October**, 15:00 - 16:00 London ([first meeting in your time zone](https://arewemeetingyet.com/London/2020-10-28/15:00))
+* Dates in **November 2, 5, 16 and 19** from 11:00 - 12:00 London time ([first meeting in your time zone](https://arewemeetingyet.com/London/2020-11-02/11:00))
 
 ## News from the community
 
@@ -49,7 +49,7 @@ Bookmark this document, and sign up to join one or multiple of these sessions th
 
 *[The Turing Way](https://twitter.com/turingway/status/1316750745228713984?s=20) announces the newly translated README files in Dutch, Italian, Spanish and Portuguese*
 
-Thanks to our HackberFest contributors for translating and reviewing _The Turing Way_ README.md file in multiple languages.
+Thanks to our Hacktoberfest contributors for translating and reviewing _The Turing Way_ README.md file in multiple languages.
 The file has been translated in **Dutch** (by Esther Plomp and Stefan Janssen), **Italian** (by Angelo Varlotta and Luca Bertinetto), **Spanish** (by Camila Rangel-Smith, Reina Camacho Toro and Laura Acion) and **Portuguese** (by Romero Silva and Gustavo Becelli do Nacimento), which are available in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/README-translated).
 Translation in more languages including **French, German, Indonesian and Turkish** are ongoing with the help of different contributors (see [GitHub issue #1335](https://github.com/alan-turing-institute/the-turing-way/issues/1335)). 
 
