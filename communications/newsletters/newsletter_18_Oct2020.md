@@ -1,6 +1,6 @@
 The Turing Way Newsletter: 19 October 2020
 
-# Send your application for the Book Dash event and read updates from our fabulous community!
+# Call for application for the Book Dash, plans for community share-out event and more updates about our fabulous community!
 
 Hello Turing Way friends!
 
