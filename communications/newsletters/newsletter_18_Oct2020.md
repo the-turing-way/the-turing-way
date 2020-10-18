@@ -30,7 +30,7 @@ The second [Collaboration Café](https://the-turing-way.netlify.app/community-ha
 If you are planning to send your application for the Book Dash, this will be a good chance to get your questions answered by one of the team members.
 
 Please sign up to let us know that you will join: hackmd.io/@turingway/collaboration-cafe.
-* Save the date for the next call: **4 November** ([in your time zone](https://arewemeetingyet.com/London/2020-11-04/15:00)) and 18 November ([in your time zone](https://arewemeetingyet.com/London/2020-11-18/15:00)).
+* Save the **dates for November**: 4 ([in your time zone](https://arewemeetingyet.com/London/2020-11-04/15:00)) and 18 November ([in your time zone](https://arewemeetingyet.com/London/2020-11-18/15:00)).
 
 ### Weekly Coworking Calls: 
 
