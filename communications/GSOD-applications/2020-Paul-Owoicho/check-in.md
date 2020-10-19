@@ -2,7 +2,7 @@
 
 * [19 October 2020](#date-19-October-2020)
 
-### Date: 09 October 2020
+### Date: 19 October 2020
 
 #### Who did you help this week?
 
