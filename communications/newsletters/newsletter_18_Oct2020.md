@@ -8,7 +8,7 @@ This month has been busy! Here is what we have been up to:
 
 * 📢 Call for application is open for the upcoming [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html), application **deadline is 22 October 2020**. Participation support grant will be available for the the attendees.
 * 🌍 **Hacktoberfest contributions are welcome**. Help us fix bugs and translate our README.md files in your language. Thanks Sophia Batchelor and Paul Owoicho for facilitating these contributions.
-* 📖 We have developed a **tutorial on creating Jupyter Book with _The Turing Way_**. Thanks Martina G. Vilas, Sarah Gibson and Christ Holdgraf for your contributions.
+* 📖 We have developed a **tutorial on creating Jupyter Book with _The Turing Way_**. Thanks, Martina G. Vilas, Sarah Gibson and Chris Holdgraf for your contributions.
 * 🗓 We are planning a **community share-out event on 13 November 2020**. Have an idea to make this event truly inclusive for you? Connect with us.
 
 See you at one of the community meetings in November!
