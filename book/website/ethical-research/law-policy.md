@@ -14,6 +14,52 @@
 > why we think you should read the whole thing
 
 ## Chapter content
+
+### Introduction
+<!--- TO ADD What is law? What is policy? How do they relate to ethics? How are they similar and different? -->
+
+### Law
+
+
+
+#### Domestic and regional law
+
+<!--- GDPR and privacy laws (and how privacy and data protection are different) [@malvikasharan - did we think it would be a good idea to have discussions about other nations'/regions' laws?]
+        Definitions: privacy and data protection (as distinct concepts)
+        How are scientists affected by data protection and privacy?
+        General principles of data protection (see: articles 5-6 of GDPR)
+        Privacy as an ethical (link)/legal right -->
+        
+        
+   <!---             IP law (e.g.: discussions on ownership of datasets and databases; commentary about terms and conditions of websites when webscraping)
+            Intro: IP law for you and others
+            IP for datasets and databases
+            IP and webscraping
+            IP of your results
+            Other relevant IP considerations -->
+ <!---   *    Tort law: introducing the idea of liability following from one's negligence/recklessness
+            General principles (@Chrisisour, can you share the general principles you were discussing?) -->
+
+
+
+#### International human rights Law
+
+<!--- Human Rights law discussion
+        Brief overview of international human rights framework (who makes it, which are their conventions, who oversees implementation)
+        How are scientists impacted by human rights law?
+        Key human rights considerations for scientists (privacy, non-discrimination,...)
+        Respect/Protect/Fulfill model
+        Links to other sections of this chapter and book -->
+
+### Policy
+<!--- Policy on responsible research and innovation (RRI)
+
+    Governments and international organisations' policies (e.g. European Commission guidance for RRI)
+    Voluntary commitments
+    Professional bodies' initiatives and statements (e.g. IEEE Ethically-aligned design initiative, ACM explainability and transparency statement)
+    A list of resources of Codes of Conduct for ethical research and frameworks -->
+
+
 > depending on the content, this might be more structured, e.g. with exercises, gotcha sections etc
 
 ## Checklist
@@ -32,39 +78,3 @@
 ## Bibliography
 > Credit/urls for any materials that form part of the chapter's text.
 
-
-
-
-Everything below here is from [Issue 1239] (https://github.com/alan-turing-institute/the-turing-way/issues/1239) and needs to be incorporated into the chapter template above
-
-
-    1. Definitions: law, policy, and ethics; discussion about their relationships, similarities and differences
-    2. Law
-
-   * GDPR and privacy laws (and how privacy and data protection are different) [@malvikasharan - did we think it would be a good idea to have discussions about other nations'/regions' laws?]
-        Definitions: privacy and data protection (as distinct concepts)
-        How are scientists affected by data protection and privacy?
-        General principles of data protection (see: articles 5-6 of GDPR)
-        Privacy as an ethical (link)/legal right
-   * Human Rights law discussion
-        Brief overview of international human rights framework (who makes it, which are their conventions, who oversees implementation)
-        How are scientists impacted by human rights law?
-        Key human rights considerations for scientists (privacy, non-discrimination,...)
-        Respect/Protect/Fulfill model
-        Links to other sections of this chapter and book
-  *  Other relevant laws
-        IP law (e.g.: discussions on ownership of datasets and databases; commentary about terms and conditions of websites when webscraping)
-            Intro: IP law for you and others
-            IP for datasets and databases
-            IP and webscraping
-            IP of your results
-            Other relevant IP considerations
-    *    Tort law: introducing the idea of liability following from one's negligence/recklessness
-            General principles (@Chrisisour, can you share the general principles you were discussing?)
-
-    3. Policy on responsible research and innovation (RRI)
-
-    Governments and international organisations' policies (e.g. European Commission guidance for RRI)
-    Voluntary commitments
-    Professional bodies' initiatives and statements (e.g. IEEE Ethically-aligned design initiative, ACM explainability and transparency statement)
-    A list of resources of Codes of Conduct for ethical research and frameworks
