@@ -173,7 +173,7 @@ You can see her talk on Zenodo: [http://doi.org/10.5281/zenodo.4075439](https://
 ### The Alan Turing Spotlight Series interview: Louise Bowler
 
 Louise Bowler, a Research Data Scientist and a core contributor of _The Turing Way_ was recently interviewed as a part of the Turing Spotlight Series.
-In this post, she discussed her career including her current involvement in the [DECOVID project], which aims to address research questions using clinical data about patient care during the COVID-19 pandemic.
+In this post, she discussed her career including her current involvement in the [DECOVID project](https://www.turing.ac.uk/research/research-projects/decovid), which aims to address research questions using clinical data about patient care during the COVID-19 pandemic.
 She lists [Docker](https://www.docker.com/use-cases) and [Jupyter Book](https://jupyterbook.org/intro.html) with an example of _The Turing Way_ as two of her favorite software.
 Read the complete post on [The Alan Turing Institute’s website](https://www.turing.ac.uk/people/spotlights/louise-bowler).
 
@@ -183,15 +183,13 @@ Read the complete post on [The Alan Turing Institute’s website](https://www.tu
 
 ### Online mentions
 
-
-
 ![Screenshot of 4 Tweets combined in an image](images/Tweet-collage-Oct2020.png)
 
 **1.** [Chris Holdgraf’s Tweet](https://twitter.com/choldgraf/status/1316888102858706946?s=20) about the Zero to Binder guide maintained by _The Turing Way_ team.
 **2.** [Aleksandra Lazic’s Tweet](https://twitter.com/alelazic/status/1311736198801620992?s=20) about the illustration of _The Turing Way_ recommendation on ‘Nice and Readable code’ by Scriberia.
 **3.** [Reshama Shaikh’s Tweet](https://twitter.com/reshamas/status/1317550956666564613?s=20) about her Pull Request merged in _The Turing Way_ during her participation at the JupyterCon 2020 Sprint.
 **4.** [Peter Oxley’s Tweet](https://twitter.com/oxpeter/status/1317451377015140353?s=20) about his interaction with _The Turing Way_ project and team during the JupyterCon 2020 sprint.
-**5.** [The Alan Turing institute’sTweet](https://twitter.com/turinginst/status/1314122071388106752?s=20) highlighting _The Turing Way_ project’s impact report highlighting Kirstie’s work on research reproducibility.
+**5.** [The Alan Turing institute’s Tweet](https://twitter.com/turinginst/status/1314122071388106752?s=20) highlighting _The Turing Way_ project’s impact report highlighting Kirstie’s work on research reproducibility.
 
 ## Connect with us!
 
