@@ -6,7 +6,7 @@ Spreadsheets are convenient and easy-to-use tools for organising information int
 However, one should use them with caution, as the use of an inappropriate spreadsheet is a major cause of mistakes in the data analysis workflow.
 There is a collection of [horror-stories](http://www.eusprig.org/horror-stories.htm) that tells how the use of spreadsheets can ruin analysis-based studies due to unexpected behaviour of the spreadsheet or error-prone
 editing processes.
-Some of these mishaps are not unique to spreadsheets, but [many are](https://doi.org/10.1186/s13059-016-104).
+Some of these mishaps are not unique to spreadsheets, but many, such as [this](https://doi.org/10.1186/s13059-016-1044-7) and [this](https://doi.org/10.1186/1471-2105-5-80), are.
 
 Most problems can be avoided with the recommendations described below: 
 - use spreadsheet in a text-only format (.csv or .tsv)
