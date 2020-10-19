@@ -6,8 +6,8 @@ Hello Turing Way friends!
 
 This month has been busy! Here is what we have been up to:
 
-* 📢 Call for application is open for the upcoming [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html), application **deadline is 22 October 2020**. Participation support grant will be available for the the attendees.
-* 🌍 **Hacktoberfest contributions are welcome**. Help us fix bugs and translate our README.md files in your language. Thanks Sophia Batchelor and Paul Owoicho for facilitating these contributions.
+* 📢 Call for application is open for the upcoming [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html), the application **deadline is 22 October 2020**. Participation support grants will be available for the attendees.
+* 🌍 **Hacktoberfest contributions are welcome**. Help us fix bugs and translate our README.md files in your language. Thanks, Sophia Batchelor and Paul Owoicho for facilitating these contributions.
 * 📖 We have developed a **tutorial on creating Jupyter Book with _The Turing Way_**. Thanks, Martina G. Vilas, Sarah Gibson and Chris Holdgraf for your contributions.
 * 🗓 We are planning a **community share-out event on 13 November 2020**. Have an idea to make this event truly inclusive for you? Connect with us.
 
@@ -50,8 +50,8 @@ Bookmark this document, and sign up to join one or multiple of these sessions th
 *[The Turing Way](https://twitter.com/turingway/status/1316750745228713984?s=20) announces the newly translated README files in Dutch, Italian, Spanish and Portuguese*
 
 Thanks to our Hacktoberfest contributors for translating and reviewing _The Turing Way_ README.md file in multiple languages.
-The file has been translated in **Dutch** (by Esther Plomp and Stefan Janssen), **Italian** (by Angelo Varlotta and Luca Bertinetto), **Spanish** (by Camila Rangel-Smith, Reina Camacho Toro and Laura Acion) and **Portuguese** (by Romero Silva and Gustavo Becelli do Nacimento), which are available in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/README-translated).
-Translation in more languages including **French, German, Indonesian and Turkish** are ongoing with the help of different contributors (see [GitHub issue #1335](https://github.com/alan-turing-institute/the-turing-way/issues/1335)). 
+The file has been translated into **Dutch** (by Esther Plomp and Stefan Janssen), **Italian** (by Angelo Varlotta and Luca Bertinetto), **Spanish** (by Camila Rangel-Smith, Reina Camacho Toro and Laura Acion) and **Portuguese** (by Romero Silva and Gustavo Becelli do Nacimento), which are available in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/README-translated).
+Translation in more languages including **French, German, Indonesian and Turkish** is ongoing with the help of different contributors (see [GitHub issue #1335](https://github.com/alan-turing-institute/the-turing-way/issues/1335)). 
 
 ### Tutorial on creating Jupyter Book with _The Turing Way_
 
@@ -144,7 +144,7 @@ Two training sessions are scheduled to accommodate participants in different tim
 * Workshop 1: 09:00 UTC - 12:00 UTC [Check your time](https://arewemeetingyet.com/UTC/2020-12-04/09:00/Ally%20Skills%20Training%20by%20OLS) - [Register on Eventbrite](https://www.eventbrite.co.uk/e/ally-skills-training-by-open-life-science-tickets-123254606847)
 * Workshop 2: 17:00 UTC - 20:00 UTC [Check your time](https://arewemeetingyet.com/UTC/2020-12-04/17:00/Ally%20Skills%20Training%20by%20OLS) - [Register on Eventbrite](https://www.eventbrite.co.uk/e/ally-skills-training-by-open-life-science-tickets-124094438807).
 
-#### Software Sustainability Institute Fellowhip 2021
+#### Software Sustainability Institute Fellowship 2021
 
 Applications for the [Software Sustainability Institute’s Fellowship Programme 2021](https://software.ac.uk/news/ssi-fellowship-programme-2021) will **open on Monday 7 December 2020**.
 The Fellowship Programme provides funding for individuals who want to improve how research software is done in their domains and/or area of work. 
