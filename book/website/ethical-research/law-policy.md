@@ -31,7 +31,7 @@
         Privacy as an ethical (link)/legal right -->
         
         
-   <!---             IP law (e.g.: discussions on ownership of datasets and databases; commentary about terms and conditions of websites when webscraping)
+   <!---             IP law (for example: discussions on ownership of datasets and databases; commentary about terms and conditions of websites when webscraping)
             Intro: IP law for you and others
             IP for datasets and databases
             IP and webscraping
@@ -58,9 +58,9 @@
 ### Policy
 <!--- Policy on responsible research and innovation (RRI)
 
-    Governments and international organisations' policies (e.g. European Commission guidance for RRI)
+    Governments and international organisations' policies (for example European Commission guidance for RRI)
     Voluntary commitments
-    Professional bodies' initiatives and statements (e.g. IEEE Ethically-aligned design initiative, ACM explainability and transparency statement)
+    Professional bodies' initiatives and statements (for example IEEE Ethically-aligned design initiative, ACM explainability and transparency statement)
     A list of resources of Codes of Conduct for ethical research and frameworks -->
 
 
