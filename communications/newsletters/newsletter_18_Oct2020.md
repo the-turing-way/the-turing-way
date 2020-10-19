@@ -11,7 +11,7 @@ This month has been busy! Here is what we have been up to:
 * 📖 We have developed a **tutorial on creating Jupyter Book with _The Turing Way_**. Thanks, Martina G. Vilas, Sarah Gibson and Chris Holdgraf for your contributions.
 * 🗓 We are planning a **community share-out event on 13 November 2020**. Have an idea to make this event truly inclusive for you? Connect with us.
 
-See you at one of the community meetings in November!
+See you at one of the community meetings soon!
 
 Find more details on these topics below 👇
 
