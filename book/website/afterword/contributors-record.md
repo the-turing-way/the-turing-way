@@ -371,17 +371,16 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > I have a BSc in Software Engineering from the American University of Nigeria, and an MSc in Data Science from the University of Glasgow.
 > Before now, I worked as a Research Analyst in the Fintech & Innovation Division of Guaranty Trust Bank, Nigeria.
 > While there, I helped to drive the Bank's push to become a platform by creating innovative digital products.
->TBA
 
 * Personal highlights:
 > The Turing Way is my first foray into open source and has been a fantastic learning experience.
 > Not only have I gained a deeper understanding and appreciation for how GitHub works, but I am also learning to prioritise sustainability and empowerment in the work that I do.
-> Soon, I hope to begin a PhD that explores how conversational search can be made more effective with the use of clarifying questions.
+> I am also very grateful for the opportunity to work with people (whom I may not have met otherwise) from around the world.
 
 * More information:
 > I enjoy browsing through and collecting memes.
 > I am also interested in the intersection of Machine Learning, Information Retrieval, and Natural Language Processing.
-> I am also very grateful for the opportunity to work with people (who I may not have met otherwise) from around the world.
+> With these interests, soon, I hope to begin a PhD that explores how conversational search can be made more effective with the use of clarifying questions.
 
 
 <!---Q--->
