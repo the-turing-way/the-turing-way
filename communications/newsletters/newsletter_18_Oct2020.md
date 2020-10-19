@@ -95,9 +95,9 @@ Read more about him in our [Contributors Record online](https://the-turing-way.n
 
 ### Papers and manuscripts
 
-* Yasemin Turkyilmaz-van der Velden, Nicolas Dintzner, Marta Teperek, (2020, September). Reproducibility Starts from You Today. PATTER, 1(6). doi: 10.1016/j.patter.2020.100099
+* Yasemin Turkyilmaz-van der Velden, Nicolas Dintzner, Marta Teperek, (2020, September). [Reproducibility Starts from You Today](https://www.sciencedirect.com/science/article/pii/S2666389920301331). PATTER, 1(6). doi: 10.1016/j.patter.2020.100099
 
-* Kirstie J. Whitaker, Olivia Guest, (2020, October), #bropenscience is broken science. The Psychologist. [November 2020Vol.33 (pp.34-37)](https://thepsychologist.bps.org.uk/volume-33/november-2020/bropenscience-broken-science
+* Kirstie J. Whitaker, Olivia Guest, (2020, October), [#bropenscience is broken science. The Psychologist](https://thepsychologist.bps.org.uk/volume-33/november-2020/bropenscience-broken-science). November 2020Vol.33 (pp.34-37)
   * Kirstie Whitaker shared a [Tweet thread](https://twitter.com/kirstie_j/status/1316295588296753152?s=20) with a background on how this article was developed by the authors.
 
 ### Podcast recommendation
