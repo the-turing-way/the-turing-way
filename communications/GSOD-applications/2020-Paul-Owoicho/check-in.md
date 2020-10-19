@@ -24,7 +24,7 @@
 
 - 
 
-#### Where do you need help from Kirstie?
+#### Where do you need help from Malvika and Kirstie?
 
 - 
 
@@ -40,4 +40,4 @@
 
 #### What would you like to work on next week?
 
-#### Where do you need help from Kirstie?
+#### Where do you need help from Malvika and Kirstie?
