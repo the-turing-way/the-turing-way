@@ -113,7 +113,7 @@ In this episode, Kirstie and Sarah discuss how they facilitate research reproduc
 
 ### Community share-out event on 13 November 2020
 
-On the last day of the Book Dash event, 13 November, we will host community share-out events, which will be multiple open calls to celebrate contributions made by our community members.
+On the last day of the Book Dash event, 13 November, we will host community share-out events, which will be a series of open calls to celebrate contributions made by our community members and add your highlights to our [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html).
 These contributions won’t only include the content developed by our Book Dash attendees, but everyone is invited to join us on the day to share their work in _The Turing Way_ and get to know each other.
 More information will be shared on the GitHub repository - follow the [issue #1450](https://github.com/alan-turing-institute/the-turing-way/issues/1450) for updates.
 Your comments and suggestions are very welcome to help us make this event truly inclusive and useful for you.
