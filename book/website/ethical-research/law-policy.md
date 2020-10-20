@@ -64,7 +64,7 @@
     A list of resources of Codes of Conduct for ethical research and frameworks -->
 
 
-> depending on the content, this might be more structured, e.g. with exercises, gotcha sections etc
+> depending on the content, this might be more structured, for example with exercises, gotcha sections etc
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
