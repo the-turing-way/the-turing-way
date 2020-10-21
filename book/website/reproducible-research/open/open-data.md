@@ -111,3 +111,4 @@ It may also be possible to provide the data in such a format that researchers ca
 For example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints.
 
 Data privacy is also maintained when dealing with data of national or commercial interest, details for which are listed in the {ref}`rr-rdm-sharing-barriers-national` section of the {ref}`rr-rdm` chapter.
+
