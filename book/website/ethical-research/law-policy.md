@@ -49,7 +49,9 @@
 Human rights are the rights and freedoms that are inherent to every human being.
 Human rights are universal: they apply to every human being, without exception.
 Human rights are inalienable: they cannot be taken away or limited, except under very specific and defined circumstances.
-Human rights are indivisible and interdependent: we cannot have some rights without others
+Human rights are indivisible and interdependent: we cannot have some rights without others.
+
+
 
 ##### What is human rights law?
 
@@ -82,7 +84,7 @@ Human rights law is made by international organisations. GLobally, this means th
     A list of resources of Codes of Conduct for ethical research and frameworks -->
 
 
-> depending on the content, this might be more structured, for example with exercises, gotcha sections etc
+> depending on the content, this might be more structured, for example with exercises, gotcha sections
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
