@@ -2,4 +2,4 @@
 # Checklist
 
 ## Understand Reproducibility
-- [ ] Define reproducibility for yourself.
+- Define reproducibility for yourself.
