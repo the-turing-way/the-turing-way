@@ -1,4 +1,8 @@
 (rr-rdm-resources)=
+
+# Resources
+In this subchapter, we have provided a simple checklist to help you with managing your research data. We have also listed suggested chapters to read next that build on the research data management chapter, external links for further reading on specific topics, and a glossary of terms in this chapter.
+
 ## Checklist
 
 <!-- This is a different style than the other chapters, but I really love what Alex provided so I just kept it. -->
