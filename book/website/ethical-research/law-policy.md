@@ -40,32 +40,38 @@
  <!---   *    Tort law: introducing the idea of liability following from one's negligence/recklessness
             General principles (@Chrisisour, can you share the general principles you were discussing?) -->
 
+### Human rights
 
+#### What are human rights?
 
-#### International human rights Law
-
-##### What are human rights?
+_All human beings are born free and equal in dignity and rights_ (Universal Declaration of Human Rights, Article 1.)
 
 Human rights are the rights and freedoms that are inherent to every human being.
+They include rights like the rights to life, to equality before the law, to freedom from discrimination, to education, and to health. 
+
 Human rights are universal: they apply to every human being, without exception.
 Human rights are inalienable: they cannot be taken away or limited, except under very specific and defined circumstances.
 Human rights are indivisible and interdependent: we cannot have some rights without others.
 
+#### What is human rights law?
+
+Human rights law is made up of conventions and covenants - legal instruments - that are signed by countries. 
+These instruments are legally binding: this means that all countries who sign up to them take on legal duties and obligations.
+These include the obligations to: 
+- respect: to not do anything that violates human rights; 
+- protect: to ensure that individuals and groups do not have their human rights abused or violated;
+- fulfil: to take action to make sure that individuals and groups are able to enjoy their human rights.
+
+Some human rights law is made at global level, by the United Nations.
+There are nine [core human rights instruments](https://www.ohchr.org/EN/ProfessionalInterest/Pages/CoreInstruments.aspx). 
+They include general instruments on civil and political rights, and on economic, social and cultural rights, as well as instruments that cover specific people, such as children or people with disabilities, or specific topics, such as torture or racial discrimination.
+Each of these instruments is overseen by a committee of experts: a 'treaty body.'
+Every few years, each country who has signed a human rights instrument has to report to the treaty body.
+
+There are also regional human rights bodies
 
 
-##### What is human rights law?
-
-Human rights law is made up of treaties that are signed by countries. 
-These treaties are legally binding: this means that all countries who sign up to them have to abide by them.
-
-
-
-##### Who makes human rights law?
-
-Human rights law is made by international organisations. GLobally, this means the UN, but some regions
-
-
-##### Who is responsible for implementing human rights law?
+#### Who is responsible for implementing human rights law?
 
 
 <!--- Human Rights law discussion
