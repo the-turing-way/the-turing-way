@@ -44,8 +44,26 @@
 
 #### International human rights Law
 
+##### What are human rights?
+
+Human rights are the rights and freedoms that are inherent to every human being.
+Human rights are universal: they apply to every human being, without exception.
+Human rights are inalienable: they cannot be taken away or limited, except under very specific and defined circumstances.
+Human rights are indivisible and interdependent: we cannot have some rights without others
+
 ##### What is human rights law?
 
+Human rights law is made up of treaties that are signed by countries. 
+These treaties are legally binding: this means that all countries who sign up to them have to abide by them.
+
+
+
+##### Who makes human rights law?
+
+Human rights law is made by international organisations. GLobally, this means the UN, but some regions
+
+
+##### Who is responsible for implementing human rights law?
 
 
 <!--- Human Rights law discussion
