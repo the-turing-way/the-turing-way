@@ -296,6 +296,9 @@
       file: community-handbook/style/style-crossref
     - title: Using Figures
       file: community-handbook/style/style-figures
+  - title: Achieving Consistency
+    file: community-handbook/consistency
+    
   - title: Acknowledging Contributors
     file: community-handbook/acknowledgement
     sections:
