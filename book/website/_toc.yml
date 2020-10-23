@@ -298,11 +298,11 @@
       file: community-handbook/style/style-figures
   - title: Achieving Retrospective Consistency
     file: community-handbook/consistency
-    - title: Hard Requirements - Formatting
+    - title: Hard Requirements (Formatting)
       file: community-handbook/consistency/consistency-hr-fomatting
-    - title: Hard Requirements - Structure
+    - title: Hard Requirements (Structure)
       file: community-handbook/consistency/consistency-hr-structure
-    - title: Hard Requirements - Language
+    - title: Hard Requirements (Language)
       file: community-handbook/consistency/consistency-hr-language
     - title: Soft Requirements
       file: community-handbook/consistency/consistency-sr
