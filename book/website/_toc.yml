@@ -298,7 +298,10 @@
       file: community-handbook/style/style-figures
   - title: Achieving Retrospective Consistency
     file: community-handbook/consistency
-    
+    - title: Hard Requirements
+      file: community-handbook/consistency/consistency-hardreqs
+    - title: Soft Requirements
+      file: community-handbook/consistency/consistency-softreqs
   - title: Acknowledging Contributors
     file: community-handbook/acknowledgement
     sections:
