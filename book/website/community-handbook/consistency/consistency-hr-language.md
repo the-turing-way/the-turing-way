@@ -1,9 +1,10 @@
 (ch-consistency-hr-language)=
 # Hard Requirements - Language
 
-The hard requirements in the consistency checklist ensure that _The Turing Way_ prioritises accessibility, collaboration, readability and ease of use. The requirement that deal with language include: 
+The hard requirements in the consistency checklist ensure that _The Turing Way_ prioritises accessibility, collaboration, readability and ease of use. 
+The requirements that deal with _The Turing Way's_ language include: 
 
-(ch-consistency-hardreqs-checkseven)=
+(ch-consistency-hr-language-one)=
 ## Check 1: Ensure correct grammar and a consistent tone across the book
 
 For readers of all backgrounds, knowledge, and skill level to understand _The Turing Way_, correct grammar and a consistent tone is necessary.
@@ -16,7 +17,7 @@ These tools can be used to assess the content of _The Turing Way_ chapters.
 With regards tone, ensure that chapters adhere to a formal level of writing and that sentences are easy to digest.
 One rule of thumb to think about is, if a sentence needs to be read more than once to be understood, then it needs to be rephrased.
 
-(ch-consistency-hardreqs-checkeight)=
+(ch-consistency-hr-language-two)=
 ## Check 2: Ensure chapters use a consistent language
 
 > Language in this context refers to the American and British variants of the English language.

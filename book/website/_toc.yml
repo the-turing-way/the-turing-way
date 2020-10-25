@@ -305,8 +305,10 @@
       file: community-handbook/consistency/consistency-hr-structure
     - title: Hard Requirements - Language
       file: community-handbook/consistency/consistency-hr-language
-    - title: Soft Requirements
-      file: community-handbook/consistency/consistency-sr
+    - title: Soft Requirements - Formatting
+      file: community-handbook/consistency/consistency-sr-formatting
+    - title: Soft Requirements - Structure
+      file: community-handbook/consistency/consistency-sr-structure
   - title: Acknowledging Contributors
     file: community-handbook/acknowledgement
     sections:

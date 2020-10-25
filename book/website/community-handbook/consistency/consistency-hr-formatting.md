@@ -1,9 +1,10 @@
 (ch-consistency-hr-formatting)=
 # Hard Requirements - Formatting
 
-The hard requirements in the consistency checklist ensure that _The Turing Way_ prioritises accessibility, collaboration, readability and ease of use. The requirement that deal with formatting include: 
+The hard requirements in the consistency checklist ensure that _The Turing Way_ prioritises accessibility, collaboration, readability and ease of use. 
+The requirements that deal with the _The Turing Way's_ formatting include: 
 
-(ch-consistency-hardreqs-checkone)=
+(ch-consistency-hr-formatting-one)=
 ## Check 1: Add labels to chapters, subchapters, sections and images to enable cross-referencing
 
 Often, a chapter might refer to content from another chapter to explain a concept or expand on a point.
@@ -12,7 +13,7 @@ This contributes to making _The Turing Way_ easily navigable and accessible.
 
 {ref}`Cross-Referencing <ch-style-crossref>` is discussed in detail in the {ref}`ch-style-guide`. The subchapter explains what labels are, provides a naming convention for labels in _The Turing Way_, and gives several useful examples for how cross-referencing is done.
 
-(ch-consistency-hardreqs-checktwo)=
+(ch-consistency-hr-formatting-two)=
 ## Check 2: Convert `HTML` formatting to Markdown
 
 _The Turing Way_ is a [`jupyter-book`](https://jupyterbook.org/intro.html) and should be written in [Markdown](https://en.wikipedia.org/wiki/Markdown), where possible, so that it renders as intended. 
@@ -49,7 +50,7 @@ In this case, it is acceptable to leave the formatting as it is if the content c
 For example, superscripts and subscripts can not be written in Markdown.
 They must be written in `HTML` with their [corresponding tags](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript).
 
-(ch-consistency-hardreqs-checkthree)=
+(ch-consistency-hr-formatting-three)=
 ## Check 3: Convert image formatting from Markdown to `MyST`
 
 Some figures and images in _The Turing Way_ are written using Markdown syntax.
@@ -59,12 +60,12 @@ Markedly Structured Text (`MyST`) is a flavour of Markdown that addresses this a
 
 Converting images from Markdown to `MyST` is explained in {ref}`this <ch-style-figures>` subchapter of the {ref}`ch-style-guide`.
 
-(ch-consistency-hardreqs-checksix)=
+(ch-consistency-hr-formatting-four)=
 ## Check 4: Ensure chapters are consistent with the Turing Way Style Guide
 
 Although the {ref}`ch-style-guide` contains suggestions to help keep _The Turing Way_ accessible and consistent, not all chapters follow these suggestions.
 
-As _The Turing Way_ evolves and improves, the {ref}`Style Guide's <ch-style-guide>` recommendations will remain an essentia point of reference. 
+As _The Turing Way_ evolves and improves, the {ref}`Style Guide's <ch-style-guide>` recommendations will remain an essential point of reference. 
 To ensure that accessibility and consistency in _The Turing Way_ can be retrospectively achieved, a suggestion is to read through the book keeping its recommendations in mind. 
 
 An overview of these recommendations are itemised below, and detailed information about each suggestion can be found in the {ref}`ch-style-guide`.
@@ -77,7 +78,7 @@ An overview of these recommendations are itemised below, and detailed informatio
     -  Follow _The Turing Way_'s convention for adding images to chapters
 
 
-(ch-consistency-hardreqs-checknine)=
+(ch-consistency-hr-formatting-five)=
 ## Check 5: Add ALT text to images
 
 Alternative text (ALT text) are the invisible description of images that are read aloud to readers of _The Turing Way_ who use a screen reader.
@@ -88,7 +89,7 @@ To maintain and promote accessibility in _The Turing Way_, ensure that all image
 
 Adding ALT text to an image is discussed in {ref}`this <ch-style-figures>` subchapter of the {ref}`ch-style-guide`.
 
-(ch-consistency-hardreqs-checkten)=
+(ch-consistency-hr-formatting-six)=
 ## Check 6: Fix Markdown formatting of non-consecutive headers
 
 Non-consecutive headers refer to an increase in header levels of more than one. 
