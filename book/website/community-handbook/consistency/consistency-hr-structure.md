@@ -13,7 +13,7 @@ This negatively impacts the reader's experience as they go through the book.
 
 ```{figure} ../../figures/empty_toc_file.png
 ---
-height: 373px
+height: 500px
 name: empty_toc_file
 alt: A screenshot of an empty file that was included in the Turing Way's Table of Contents.
 ---
@@ -33,7 +33,7 @@ However, these chapters do not follow a uniform structure, taking away from the 
 
 ```{figure} ../../figures/recommended_chapter_structure.png
 ---
-height: 174px
+height: 500px
 name: recommended_chapter_structure
 alt: A screenshot of the recommeded structure for chapters in the Turing Way.
 ---
@@ -59,7 +59,7 @@ This makes a manually written ToC unnecessary, and it may negatively impact a re
 
 ```{figure} ../../figures/many_table_of_contents.png
 ---
-height: 610px
+height: 500px
 name: many_table_of_contents
 alt: A depiction of a subchapter in The Turing Way with too many Table of Contents.
 ---

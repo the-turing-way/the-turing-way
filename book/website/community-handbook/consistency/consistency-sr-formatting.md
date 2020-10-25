@@ -13,7 +13,7 @@ This may be confusing for some users, especially when the chapter\subchapter's r
 
 ```{figure} ../../figures/mismatched_title_toc.png
 ---
-height: 610px
+height: 500px
 name: mismatched_title_toc
 alt: A depiction of a subchapter whose title differs from its reference in the Table of Contents.
 ---

@@ -21,10 +21,10 @@ _The Turing Way_ is a [`jupyter-book`](https://jupyterbook.org/intro.html) and s
 Some chapters in _The Turing Way_ are not entirely written in Markdown, making some of its content hard to read.
 For example, in the {ref}`Licencing <rr-licensing>` chapter of the {ref}`rr`, the {ref}`Software Licences <rr-licensing-software>` subchapter contains a table that is written in `HTML`.
 
-```{figure} ../../figures/html_to_markdown1.png
+```{figure} ../../figures/html_to_markdown.png
 ---
-height: 189px
-name: html_to_markdown1
+height: 500px
+name: html_to_markdown
 alt: A screenshot of a poorly formatted table written in HTML.
 ---
 Figure 1: A screenshot of a table converted to Markdown from HTML.
@@ -34,7 +34,7 @@ However, when converted to Markdown, the table becomes cleaner and easier to rea
 
 ```{figure} ../../figures/html_to_markdown2.png
 ---
-height: 319px
+height: 500px
 name: html_to_markdown2
 alt: A screenshot of a table converted to Markdown from HTML.
 ---
