@@ -10,12 +10,12 @@ The [https://choosealicense.com/](https://choosealicense.com/) website offers a 
 
 To make some sense of this variety, we can categorize them as follows.
 
-| **Free**      |      |            | **Proprietary**     |
-|----------|------|------------|-----------------|
-| **Copyleft** |      | **Permissive** |                 |
-| **Strong**   | **Weak** |            |                 |
-| GPL <sup>1</sup>     | LGPL <sup>3</sup> | BSD MIT <sup>5</sup>    | Research Only   |
-| CDDL <sup>2</sup>    | MPL <sup>4</sup>  | Apache     | No Modification |
+| **Free**     |      |            | **Proprietary**                                |
+|----------|------|------------|--------------------------------------------|
+| **CopyLeft** |      | **Permissive** |                                            |
+| **Strong**   | **Weak** |            |                                            |
+| GPL<sup>1</sup>     | LGPL<sup>3</sup> | BSD MIT<sup>5</sup> | Research Only: No Copying, No Modification |
+| CDDL<sup>2</sup>    | MPL<sup>4</sup>   |  Apache     |                                            |
 
 
 <sup>1</sup>GNU General Public License
