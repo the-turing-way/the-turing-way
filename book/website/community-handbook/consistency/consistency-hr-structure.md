@@ -2,7 +2,7 @@
 # Hard Requirements - Structure
 
 The hard requirements in the consistency checklist ensure that _The Turing Way_ prioritises accessibility, collaboration, readability and ease of use. 
-The requirements that deal with _The Turing Way's_ structure include: 
+The checks that deal with _The Turing Way's_ structure include: 
 
 (ch-consistency-hr-structure-one)=
 ## Check 1: Remove empty files from the `_toc.yml`
@@ -13,17 +13,17 @@ This negatively impacts the reader's experience as they go through the book.
 
 ```{figure} ../../figures/empty_toc_file.png
 ---
-height: 500px
 name: empty_toc_file
 alt: A screenshot of an empty file that was included in the Turing Way's Table of Contents.
 ---
-Figure 1: A screenshot of an empty file that was included in the Turing Way's Table of Contents.
+Empty files included Turing Way's Table of Contents can still be accessed by readers.
 ```
 
-A general suggestion is to remove references to such files from the ToC and raise an issue in _The Turing Way_ Github [repo](https://github.com/alan-turing-institute/the-turing-way) for content to be written for those files. When content is written for them, they can then be added to the ToC.
+A general suggestion is to remove references to such files from the ToC and raise an issue in _The Turing Way_ Github [repo](https://github.com/alan-turing-institute/the-turing-way) for content to be written for those files. 
+When the content is written, the files can then be added to the ToC.
 
 For example, [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1391) curates a list of empty and incomplete files currently in _The Turing Way_, and 
-[this PR](https://github.com/alan-turing-institute/the-turing-way/pull/1448) will write content for the `Data Licences` subchapter shown in the {ref}`image <empty_toc_file>`.
+[this PR](https://github.com/alan-turing-institute/the-turing-way/pull/1448) writes content for the `Data Licences` subchapter shown in the {ref}`image <empty_toc_file>`.
 
 (ch-consistency-hr-structure-two)=
 ## Check 2: Ensure chapters follow a consistent structure
@@ -33,11 +33,10 @@ However, these chapters do not follow a uniform structure, taking away from the 
 
 ```{figure} ../../figures/recommended_chapter_structure.png
 ---
-height: 500px
 name: recommended_chapter_structure
-alt: A screenshot of the recommeded structure for chapters in the Turing Way.
+alt: A screenshot of the recommended structure for chapters in the Turing Way.
 ---
-Figure 2: A screenshot of an empty file that was included in the Turing Way's Table of Contents.
+Recommended structure for chapters in The Turing Way.
 ```
 
 The recommended structure for chapters is shown in the {ref}`image <recommended_chapter_structure>`.
@@ -47,7 +46,7 @@ The checklist section itemises action points for the reader to take based on the
 The resources section points the reader to other sources where they can learn more about the concepts discussed in the chapter and shows them related topics to explore.
 
 > Please note that making chapters follow this structure may require splitting some of the existing content into new files.
-> These files should be updated in the Table of Contents in the `_toc.yml` file.
+> References to these files should be updated in the Table of Contents in the `_toc.yml` file.
 
 
 (ch-consistency-hr-structure-three)=
@@ -59,9 +58,8 @@ This makes a manually written ToC unnecessary, and it may negatively impact a re
 
 ```{figure} ../../figures/many_table_of_contents.png
 ---
-height: 500px
 name: many_table_of_contents
 alt: A depiction of a subchapter in The Turing Way with too many Table of Contents.
 ---
-Figure 3: The manually written ToC is unnecessary as jupyter-books auto-generates two ToCs.
+The manually written ToC is unnecessary as jupyter-books auto-generates two ToCs.
 ```

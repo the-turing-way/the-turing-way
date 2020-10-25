@@ -9,7 +9,7 @@ Soft requirements that deal with _The Turing Way's_ structure include:
 ## Check 1: Ensure each chapter has a good summary in their landing page
 
 A chapter with a good summary gives the reader an overview of the content that follows.
-Ideally, summaries should communicate the main idea of the chapter, identify supporting detail, but be brief and precise.
+Ideally, summaries should communicate the main idea of the chapter and any identify supporting detail, but be brief and precise.
 Chapters in _The Turing Way_ that contain summaries that do not fit these criteria may need to be reworded or rewritten.
 
 
@@ -18,4 +18,4 @@ Chapters in _The Turing Way_ that contain summaries that do not fit these criter
 
 Long subchapters may be difficult for some readers to go through.
 Furthermore, very long content can be intimidating for some readers, who may only be interested in the main ideas the subchapter talks about.
-To make  _The Turing Way_ easier to read, subchapters should be modularised.
+To make  _The Turing Way_ easier to read, such subchapters should be appropriately modularised.
