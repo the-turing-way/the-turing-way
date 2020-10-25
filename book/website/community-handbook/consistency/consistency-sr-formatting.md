@@ -11,13 +11,13 @@ Soft requirements that deal with _The Turing Way's_ formatting include:
 The titles of some chapters and subchapters in _The Turing Way_ do not match their corresponding references in the ToC on the left of the webpage.
 This may be confusing for some users, especially when the chapter\subchapter's reference in ToC significantly varies from the chapter\subchater's title.
 
-```{figure} ..\..\figures\mismatched_title_toc.png
+```{figure} ../../figures/mismatched_title_toc.png
 ---
 height: 610px
 name: mismatched_title_toc
 alt: A depiction of a subchapter whose title differs from its reference in the Table of Contents.
 ---
-Figure 1: The title of this subchapter is 'Using Spreadsheets for Research Data', however the TOC refers to the same file as 'Data Organisation in Spreadsheets'.
+The title of this subchapter is 'Using Spreadsheets for Research Data', however the TOC refers to the same file as 'Data Organisation in Spreadsheets'.
 ```
 
 In ensuring that _The Turing Way_ passes this check, one recommendation to follow is to keep the titles short.

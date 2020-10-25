@@ -11,7 +11,7 @@ The `_toc.yml` file is where _The Turing Way's_ Table of Contents (ToC) lives.
 Some files included in the ToC are empty, and their inclusion means that readers are able to navigate to them while reading _The Turing Way_.
 This negatively impacts the reader's experience as they go through the book.
 
-```{figure} ..\..\figures\empty_toc_file.png
+```{figure} ../../figures/empty_toc_file.png
 ---
 height: 373px
 name: empty_toc_file
@@ -31,7 +31,7 @@ For example, [this issue](https://github.com/alan-turing-institute/the-turing-wa
 _The Turing Way_ is made up of five guides that contain several chapters and subchapters. 
 However, these chapters do not follow a uniform structure, taking away from the reader's experience.
 
-```{figure} ..\..\figures\recommended_chapter_structure.png
+```{figure} ../../figures/recommended_chapter_structure.png
 ---
 height: 174px
 name: recommended_chapter_structure
@@ -57,7 +57,7 @@ Some chapters in _The Turing Way_ were written with a hand-crafted Table of Cont
 However, `jupyter-books` auto-generates a permanent ToC that can be found on the left side of the webpage, and a dynamic, page-specific ToC located at the top right of each webpage.
 This makes a manually written ToC unnecessary, and it may negatively impact a reader's experience with _The Turing Way_.
 
-```{figure} ..\..\figures\many_table_of_contents.png
+```{figure} ../../figures/many_table_of_contents.png
 ---
 height: 610px
 name: many_table_of_contents
