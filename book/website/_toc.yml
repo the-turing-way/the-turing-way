@@ -300,7 +300,7 @@
     file: community-handbook/consistency
     sections:
     - title: Hard Requirements - Formatting
-      file: community-handbook/consistency/consistency-hr-fomatting
+      file: community-handbook/consistency/consistency-hr-formatting
     - title: Hard Requirements - Structure
       file: community-handbook/consistency/consistency-hr-structure
     - title: Hard Requirements - Language
