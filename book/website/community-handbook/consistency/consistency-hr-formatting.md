@@ -106,4 +106,4 @@ Ideally, all Markdown files should start with a level 1 heading and increase seq
 ```
 
 Several files in _The Turing Way_ do not follow this convention. 
-A list of such files can be found in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1321) and [here](https://github.com/alan-turing-institute/the-turing-way/pull/1451) is a good PR that addresses it. 
+A list of such files can be found in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1321), and [this PR](https://github.com/alan-turing-institute/the-turing-way/pull/1451) demonstrates how to fix a file with non-consecutive headers. 
