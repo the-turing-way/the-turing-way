@@ -14,7 +14,7 @@ To make some sense of this variety, we can categorize them as follows.
 |----------|------|------------|--------------------------------------------|
 | **CopyLeft** |      | **Permissive** |                                            |
 | **Strong**   | **Weak** |            |                                            |
-| GPL<sup>1</sup>     | LGPL<sup>3</sup> | BSD MIT<sup>5</sup> | Research Only: No Copying, No Modification |
+| GPL<sup>1</sup>     | LGPL<sup>3</sup> | BSD<sup>5</sup> / MIT<sup>6</sup> | Research Only: No Copying, No Modification |
 | CDDL<sup>2</sup>    | MPL<sup>4</sup>   |  Apache     |                                            |
 
 
