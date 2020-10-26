@@ -10,37 +10,13 @@ The [https://choosealicense.com/](https://choosealicense.com/) website offers a 
 
 To make some sense of this variety, we can categorize them as follows.
 
-<table style="text-align: center">
-    <thead>
-        <tr>
-            <th colspan="3" style="border: 1px solid #cccccc">Free</th>
-            <th rowspan="3" style="border: 1px solid #cccccc">Proprietary</th>
-        </tr>
-        <tr>
-            <th colspan="2" style="border: 1px solid #cccccc">Copyleft</th>
-            <th rowspan="2" style="border: 1px solid #cccccc">Permissive</th>
-        </tr>
-        <tr>
-            <th style="border: 1px solid #cccccc;align:center">Strong</th>
-            <th style="border: 1px solid #cccccc">Weak</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-        <td style="border: 1px solid #cccccc">GPL<sup>1</sup> CDDL<sup>2</sup></td>
-        <td style="border: 1px solid #cccccc">LGPL<sup>3</sup> MPL<sup>4</sup></td>
-        <td style="border: 1px solid #cccccc">BSD / MIT<sup>5</sup> Apache</td>
-            <td style="border: 1px solid #cccccc">Research-only No&nbsp;copying No&nbsp;modification</td>
-        </tr>
-    </tbody>
-</table>
-
-<sup>1</sup>GNU General Public License
-<sup>2</sup>CDDL Common Development and Distribution License
-<sup>3</sup>GNU Lesser General Public License
-<sup>4</sup>MPL Mozilla Public License
-<sup>5</sup>Berkeley Software Distribution
-<sup>6</sup>Massachusetts Institute of Technology
+```{figure} ../../figures/license_categories.jpg
+---
+name: license_categories
+alt: A classification of different types of licenses. Licenses can either be Free or Propietary. Free Licenses can be classed as Copyleft or Permissive, and Copyleft licenses are either Strong or Weak.
+---
+Licenses can either be Free or Propietary, with Free Licenses further classified as shown.
+```
 
 (rr-licensing-software-free)=
 ## Free Software
@@ -118,11 +94,11 @@ They may also require that the recipient of the combined work can re-link the mo
 |                     | **CopyLeft**                  |                               | **Permissive**                     | **Proprietary** |
 |---------------------|---------------------------|-------------------------------|--------------------------------|-------------|
 |                     | **Strong**                    | **Weak**                          |                                |             |
-| Use for Anything    | Yes                       | Yes                           | Yes                            | Sometimes   |
-| Private Changes     | Yes                       | Yes                           | Yes                            | Rarely      |
-| Distribute Original | Same license, with source | Same license, with source     | Same license, also binary-only<sup>*</sup> | Rarely      |
-| Distribute Modified | Same license, with source | Same license, with source<sup>**</sup>     | Any license, also binary-only  | Rarely      |
-| Distribute Combined | Same license, with source | Any license, binary additions | Any license, also binary-only  | Rarely      |
+| **Use for Anything**    | Yes                       | Yes                           | Yes                            | Sometimes   |
+| **Private Changes**     | Yes                       | Yes                           | Yes                            | Rarely      |
+| **Distribute Original** | Same license, with source | Same license, with source     | Same license, also binary-only<sup>*</sup> | Rarely      |
+| **Distribute Modified** | Same license, with source | Same license, with source<sup>**</sup>     | Any license, also binary-only  | Rarely      |
+| **Distribute Combined** | Same license, with source | Any license, binary additions | Any license, also binary-only  | Rarely      |
 
 <sup>*</sup>Under any license for the MIT license
 
