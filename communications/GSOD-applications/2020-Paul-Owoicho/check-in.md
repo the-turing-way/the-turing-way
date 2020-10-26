@@ -35,16 +35,33 @@ This is the first check-in, so it refers to my activities since Sep. 28th.
 
 - Feedback on PRs and overall direction so that I can know that my work is on the right track. This is already in place. 
 
-### Template: Date: DD Month YYYY
+* [26 October 2020](#date-26-October-2020)
+
+### Date: 26 October 2020
 
 #### Who did you help this week?
 
+- Continued supporting new contributors and reviewing PRs
+
 #### Who helped you this week?
+
+- Malvika, Neha both gave helpful ideas for how to empower others to contribute to the project
+- @martintoreilly opened an issue for something I worked on in one of my PRs, so I got him to review the PR and give me feedback
 
 #### What did you achieve?
 
+- Wrote a chapter on Achieving Consistency based on the consistency checklist I curated. Malvika will review this shortly
+- Modularised old PRs so they are easy to review
+
 #### What did you struggle with?
+
+- One item on the consistency checklist is to convert HTML to markdown so that content renders properly on Netlify, this might not always be worthwhile
 
 #### What would you like to work on next week?
 
+- This week, I will be creating issues for chapters that do pass the consistency checklist
+- Next week, I will begin working on developing templates for new chapters/case studies etc
+
 #### Where do you need help from Malvika and Kirstie?
+
+- reviews and feedback
