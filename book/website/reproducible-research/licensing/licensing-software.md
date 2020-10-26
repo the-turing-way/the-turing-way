@@ -10,24 +10,36 @@ The [https://choosealicense.com/](https://choosealicense.com/) website offers a 
 
 To make some sense of this variety, we can categorize them as follows.
 
-| **Free**     |      |            | **Proprietary**                                |
-|----------|------|------------|--------------------------------------------|
-| **CopyLeft** |      | **Permissive** |                                            |
-| **Strong**   | **Weak** |            |                                            |
-| GPL<sup>1</sup>     | LGPL<sup>3</sup> | BSD<sup>5</sup> / MIT<sup>6</sup> | Research Only: No Copying, No Modification |
-| CDDL<sup>2</sup>    | MPL<sup>4</sup>   |  Apache     |                                            |
-
+<table style="text-align: center">
+    <thead>
+        <tr>
+            <th colspan="3" style="border: 1px solid #cccccc">Free</th>
+            <th rowspan="3" style="border: 1px solid #cccccc">Proprietary</th>
+        </tr>
+        <tr>
+            <th colspan="2" style="border: 1px solid #cccccc">Copyleft</th>
+            <th rowspan="2" style="border: 1px solid #cccccc">Permissive</th>
+        </tr>
+        <tr>
+            <th style="border: 1px solid #cccccc;align:center">Strong</th>
+            <th style="border: 1px solid #cccccc">Weak</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <td style="border: 1px solid #cccccc">GPL<sup>1</sup> CDDL<sup>2</sup></td>
+        <td style="border: 1px solid #cccccc">LGPL<sup>3</sup> MPL<sup>4</sup></td>
+        <td style="border: 1px solid #cccccc">BSD / MIT<sup>5</sup> Apache</td>
+            <td style="border: 1px solid #cccccc">Research-only No&nbsp;copying No&nbsp;modification</td>
+        </tr>
+    </tbody>
+</table>
 
 <sup>1</sup>GNU General Public License
-
 <sup>2</sup>CDDL Common Development and Distribution License
-
 <sup>3</sup>GNU Lesser General Public License
-
 <sup>4</sup>MPL Mozilla Public License
-
 <sup>5</sup>Berkeley Software Distribution
-
 <sup>6</sup>Massachusetts Institute of Technology
 
 (rr-licensing-software-free)=
