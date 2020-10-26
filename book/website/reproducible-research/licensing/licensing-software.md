@@ -10,12 +10,12 @@ The [https://choosealicense.com/](https://choosealicense.com/) website offers a 
 
 To make some sense of this variety, we can categorize them as follows.
 
-```{figure} ..\..\figures\license_categories.PNG
+```{figure} ../../figures/license_categories.png
 ---
 name: license_categories
-alt: A classification of different types of licenses. Licenses can either be Free or Propietary. Free Licenses can be classed as Copyleft or Permissive, and Copyleft licenses are either Strong or Weak.
+alt: A table illustrating the different categories of licenses. Licenses can either be Free or Proprietary. Free Licenses can be classed as Copyleft or Permissive, and Copyleft licenses are either Strong or Weak.
 ---
-Licenses can either be Free or Propietary, with Free Licenses further classified as shown.
+Licenses can either be Free or Propietary, with Free Licenses further classified as Copyleft or Permissive.
 ```
 
 (rr-licensing-software-free)=
