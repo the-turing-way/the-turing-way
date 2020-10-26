@@ -296,19 +296,15 @@
       file: community-handbook/style/style-crossref
     - title: Using Figures
       file: community-handbook/style/style-figures
-  - title: Achieving Retrospective Consistency
+  - title: Achieving Consistency
     file: community-handbook/consistency
     sections:
-    - title: Hard Requirements - Formatting
-      file: community-handbook/consistency/consistency-hr-formatting
-    - title: Hard Requirements - Structure
-      file: community-handbook/consistency/consistency-hr-structure
-    - title: Hard Requirements - Language
-      file: community-handbook/consistency/consistency-hr-language
-    - title: Soft Requirements - Formatting
-      file: community-handbook/consistency/consistency-sr-formatting
-    - title: Soft Requirements - Structure
-      file: community-handbook/consistency/consistency-sr-structure
+    - title: Formatting
+      file: community-handbook/consistency/consistency-formatting
+    - title: Structure
+      file: community-handbook/consistency/consistency-structure
+    - title: Language
+      file: community-handbook/consistency/consistency-language
   - title: Acknowledging Contributors
     file: community-handbook/acknowledgement
     sections:

@@ -1,11 +1,18 @@
-(ch-consistency-hr-formatting)=
-# Hard Requirements - Formatting
+(ch-consistency-formatting)=
+# Formatting
+
+Formatting refers to how _The Turing Way_ is written, and directly affects the book's appearance and presentation.
+Proper formatting ensures that _The Turing Way_ is readable, accessible, and resembles a polished piece of work.
+
+
+(ch-consistency-formatting-hr)=
+## Hard Requirements
 
 The hard requirements in the consistency checklist ensure that _The Turing Way_ prioritises accessibility, collaboration, readability and ease of use. 
 The checks that deal with the _The Turing Way's_ formatting include: 
 
-(ch-consistency-hr-formatting-one)=
-## Check 1: Add labels to chapters, subchapters, sections and images to enable cross-referencing
+(ch-consistency-formatting-hr-one)=
+### Check 1: Add labels to chapters, subchapters, sections and images to enable cross-referencing
 
 Often, a chapter might refer to content from another chapter to explain a concept or expand on a point.
 Cross-Referencing facilitates this by ensuring that the referred content is easy to find with a simple click.
@@ -13,8 +20,8 @@ Cross-Referencing helps make _The Turing Way_ easily navigable and accessible.
 
 {ref}`Cross-Referencing <ch-style-crossref>` is discussed in detail in the {ref}`ch-style-guide`. The subchapter explains what labels are, provides a naming convention for labels in _The Turing Way_, and gives several useful examples for how cross-referencing should be done.
 
-(ch-consistency-hr-formatting-two)=
-## Check 2: Convert `HTML` formatting to Markdown
+(ch-consistency-formatting-hr-two)=
+### Check 2: Convert `HTML` formatting to Markdown
 
 _The Turing Way_ is a [`jupyter-book`](https://jupyterbook.org/intro.html) and should be written in [Markdown](https://en.wikipedia.org/wiki/Markdown), where possible, so that it renders as intended. 
 
@@ -24,7 +31,7 @@ For example, in the {ref}`Licencing <rr-licensing>` chapter of the {ref}`rr`, th
 ```{figure} ../../figures/html_to_markdown.png
 ---
 name: html_to_markdown
-alt: A screenshot of a poorly formatted table written in HTML.
+alt: A screenshot of a poorly formatted table written in HTML. The table is squished together making it hard to decipher its meaning.
 ---
 Content written in HTML may not render properly.
 ```
@@ -34,7 +41,7 @@ However, when converted to Markdown, the table becomes cleaner and easier to rea
 ```{figure} ../../figures/html_to_markdown2.png
 ---
 name: html_to_markdown2
-alt: A screenshot of a table converted to Markdown from HTML.
+alt: A screenshot of a table converted to Markdown from HTML. The table becomes easier to read and understand when converted to Markdown.
 ---
 Converting HTML to Markdown makes The Turing Way easier to read.
 ```
@@ -48,8 +55,8 @@ In such cases, it is acceptable to leave the formatting as it is, if the content
 For example, superscripts and subscripts can not be written in Markdown.
 They must be written in `HTML` with their [corresponding tags](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript).
 
-(ch-consistency-hr-formatting-three)=
-## Check 3: Convert image formatting from Markdown to `MyST`
+(ch-consistency-formatting-hr-three)=
+### Check 3: Convert image formatting from Markdown to `MyST`
 
 Some figures and images in _The Turing Way_ are written using Markdown syntax.
 While this works, it does not allow the images to adapt to the screen size of the device the book is read from. 
@@ -58,8 +65,8 @@ Markedly Structured Text (`MyST`) is a flavour of Markdown that addresses this a
 
 Converting images from Markdown to `MyST` is explained in {ref}`this <ch-style-figures>` subchapter of the {ref}`ch-style-guide`.
 
-(ch-consistency-hr-formatting-four)=
-## Check 4: Ensure chapters are consistent with the Turing Way Style Guide
+(ch-consistency-formatting-hr-four)=
+### Check 4: Ensure chapters are consistent with the Turing Way Style Guide
 
 Although the {ref}`ch-style-guide` contains suggestions to help keep _The Turing Way_ accessible and consistent, not all chapters follow these suggestions.
 
@@ -76,8 +83,8 @@ An overview of these recommendations are itemised below, and detailed explanatio
     - Follow _The Turing Way_'s convention for adding images to chapters
 
 
-(ch-consistency-hr-formatting-five)=
-## Check 5: Add ALT text to images
+(ch-consistency-formatting-hr-five)=
+### Check 5: Add ALT text to images
 
 Alternative text (ALT text) are the invisible image descriptions that are read aloud to readers of _The Turing Way_ who use a screen reader.
 
@@ -87,8 +94,8 @@ To maintain and promote accessibility in _The Turing Way_, ensure that all image
 
 Adding ALT text to an image is discussed in {ref}`this <ch-style-figures>` subchapter of the {ref}`ch-style-guide`.
 
-(ch-consistency-hr-formatting-six)=
-## Check 6: Fix Markdown formatting of non-consecutive headers
+(ch-consistency-formatting-hr-six)=
+### Check 6: Fix Markdown formatting of non-consecutive headers
 
 Non-consecutive headers refer to an increase in header levels of more than one. 
 For example:
@@ -106,4 +113,51 @@ Ideally, all Markdown files should start with a level 1 heading and increase seq
 ```
 
 Several files in _The Turing Way_ do not follow this convention. 
-A list of such files can be found in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1321), and [this PR](https://github.com/alan-turing-institute/the-turing-way/pull/1451) demonstrates how to fix a file with non-consecutive headers. 
+A list of such files can be found in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1321), and [this PR](https://github.com/alan-turing-institute/the-turing-way/pull/1451) demonstrates how to fix a file with non-consecutive headers.
+
+(ch-consistency-formatting-sr)=
+## Soft Requirements
+
+Soft requirements help improve the overall look and feel of _The Turing Way_.
+When effected, these checks may go unnoticed, but they also make _The Turing Way_ a polished piece of work.
+Soft requirements that deal with _The Turing Way's_ formatting include: 
+
+(ch-consistency-formatting-sr-one)=
+### Check 1: Ensure the titles of chapters\subchapters match the left ToC
+
+The titles of some chapters and subchapters in _The Turing Way_ do not match their corresponding references in the ToC on the left of the webpage.
+This may be confusing for some users, especially when the chapter\subchapter's reference in ToC significantly varies from the chapter\subchater's title.
+
+```{figure} ../../figures/mismatched_title_toc.png
+---
+name: mismatched_title_toc
+alt: A depiction of a subchapter whose title differs from its reference in the Table of Contents. The title of the subchapter is 'Using Spreadsheets for Research Data', however in the Table of Contents, it is referred as 'Data Organisation in Spreadsheets'.
+---
+The title of this subchapter is 'Using Spreadsheets for Research Data', however the TOC refers to the same file as 'Data Organisation in Spreadsheets'.
+```
+
+In ensuring that _The Turing Way_ passes this check, one recommendation to follow is to keep the titles short.
+If a chapter's title and ToC reference differ, make the shorter of the two the chapter's title, and update the `.toc.yml` if necessary. 
+However, remember that the final title should adequately tell readers what to expect from a chapter.
+
+
+(ch-consistency-formatting-sr-two)=
+### Check 2: Ensure proper title-casing for headers
+
+The titles of some chapters in _The Turing Way_ do not follow proper title-casing.
+[Wikipedia](https://en.wikipedia.org/wiki/Title_case) describes title-casing as a capitalisation style used to format the titles and headings of published works.
+Being a citeable reference for individuals seeking to carry out reproducible data science, titles and headings in _The Turing Way_ should be title-cased.
+
+Although _The Turing Way_ does not follow a specific title capitalisation style, some general (non-exhaustive) rules to consider, include:
+- Capitalise principal or important words
+- Lowercase articles, conjunctions, and prepositions (unless when these are stressed)
+- Capitalise the first and last words
+
+There are helpful tools, such as [CapitalizeMyTitle](https://capitalizemytitle.com/), that help with title-casing.
+Headers in _The Turing Way_ can be run through these tools to check if they follow title-casing conventions.
+They can then be replaced within chapters and in the `_toc.yml` as appropriate.
+
+For example, In {ref}`<mismatched_title_toc>` above, **Using spreadsheets for research data** should be title-cased to **Using Spreadsheets for Research Data**.
+
+Certain headers may not need to be title-cased depending on the context in which they are used.
+For example, because some of the headers in this chapter make up a checklist, they do not need to be title-cased.
