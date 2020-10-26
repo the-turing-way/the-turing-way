@@ -100,9 +100,13 @@ Contact you research data, privacy or IT support teams.
 **6. Anonymisation**
 Anonymisation is a process by which identifying information in a dataset is removed. 
 It is used primarily to enable data to be shared or published without revealing the confidential information it contains, while limiting the loss of information.
-* Where possible, direct identifiers (e.g. names, addresses, telephone numbers, account numbers, etc.) should be removed as soon as the identifying information is no longer needed. You can delete the data or replace it with pseudonyms. For qualitative data you should replace or generalise identifying characteristics when transcribing interviews.
-* De-identified data that can be re-identified using a linkage file (i.e. information linking data subjects to identifiable individuals) is known as pseudonymised data. NOTE: In this instance, the linkage file should be encrypted and stored securely and separately from the de-identified research data.
-o	Identification of individuals in pseudonymised or de-identified data may still be possible using combinations of indirect identifiers (e.g. age, education, employment, geographic area, medical conditions, etc). Further, data and outputs (e.g. tables of results) containing small cell counts may be potentially disclosive, particularly where samples are drawn from small populations or include cases with extreme values or relatively rare characteristics.
+* Where possible, direct identifiers (e.g. names, addresses, telephone numbers, account numbers, etc.) should be removed as soon as the identifying information is no longer needed. 
+You can delete the data or replace it with pseudonyms. 
+For qualitative data you should replace or generalise identifying characteristics when transcribing interviews.
+* De-identified data that can be re-identified using a linkage file (i.e. information linking data subjects to identifiable individuals) is known as pseudonymised data. 
+NOTE: In this instance, the linkage file should be encrypted and stored securely and separately from the de-identified research data.
+o	Identification of individuals in pseudonymised or de-identified data may still be possible using combinations of indirect identifiers (e.g. age, education, employment, geographic area, medical conditions, etc). 
+Further, data and outputs (e.g. tables of results) containing small cell counts may be potentially disclosive, particularly where samples are drawn from small populations or include cases with extreme values or relatively rare characteristics.
 o	As such, when intending to share potentially identifiable data or the outputs generated from the data, you may need to consider more advanced anonymisation techniques such as statistical disclosure control (SDC, see this handbook for more information).
 
 **7. Sharing sensitive data**
