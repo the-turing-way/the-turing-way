@@ -26,7 +26,9 @@ To make some sense of this variety, we can categorize them as follows.
 
 <sup>4</sup>MPL Mozilla Public License
 
-<sup>5</sup>BSD MIT Berkeley Software Distribution Massachusetts Institute
+<sup>5</sup>Berkeley Software Distribution
+
+<sup>6</sup>Massachusetts Institute of Technology
 
 (rr-licensing-software-free)=
 ## Free Software
