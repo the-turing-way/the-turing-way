@@ -10,7 +10,7 @@ The [https://choosealicense.com/](https://choosealicense.com/) website offers a 
 
 To make some sense of this variety, we can categorize them as follows.
 
-```{figure} ../../figures/license_categories.jpg
+```{figure} ..\..\figures\license_categories.jpg
 ---
 name: license_categories
 alt: A classification of different types of licenses. Licenses can either be Free or Propietary. Free Licenses can be classed as Copyleft or Permissive, and Copyleft licenses are either Strong or Weak.
