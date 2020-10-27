@@ -1,3 +1,21 @@
+<style type="text/css" rel="stylesheet">
+th, td {
+  border: 1px solid #999999; text-align: center; padding: 10px
+}
+th {
+  font-weight: bold; background-color: #EEEEEE
+}
+tr:nth-child(even) td {
+  background-color: #EEEEEE;
+}
+table caption {
+  color: black; text-align: center
+}
+table caption .footnote {
+  color: #999999; text-align: left; font-size: smaller;
+}
+</style>
+
 (rr-licensing-software)=
 # Software Licenses
 
@@ -10,13 +28,39 @@ The [https://choosealicense.com/](https://choosealicense.com/) website offers a 
 
 To make some sense of this variety, we can categorize them as follows.
 
-```{figure} ../../figures/license-categories.jpg
----
-name: license-categories
-alt: A table illustrating the different categories of licenses. The table shows two main categories of licenses, namely Free and Propietary. Free licenses are broken down into CopyLeft and Permissive Licenses. Copyleft Licenses are further broken down into Strong or Weak Licenses. Proprietary Licenses only allow work to be resused for research. Examples of strong, free copyleft licenses shown in the table include GPL (General Public License) and CDDL (Common Development and Distribution License). Weak, free copyleft licenses shown include LGPL (Lesser General Public License) and MPL (Mozilla Public License). The free, permissive licenses shown include BSD (Bekeley Software Distribution), MIT (Massachusetts Institute of Technology), and Apache. 
----
-Licenses can either be Free or Propietary, with Free Licenses further classified as Copyleft or Permissive.
-```
+## License Categories
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="3">Free</th>
+            <th rowspan="3">Proprietary</th>
+        </tr>
+        <tr>
+            <th colspan="2">Copyleft</th>
+            <th rowspan="2">Permissive</th>
+        </tr>
+        <tr>
+            <th>Strong</th>
+            <th>Weak</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <td>GPL<sup>1</sup> CDDL<sup>2</sup></td>
+        <td>LGPL<sup>3</sup> MPL<sup>4</sup></td>
+        <td>BSD<sup>5</sup> MIT<sup>6</sup> Apache</td>
+            <td>Research Only: No&nbsp;copying, No&nbsp;modification</td>
+        </tr>
+    </tbody>
+    <caption>
+      <div class="footnote">
+        <sup>1</sup>GPL: GNU General Public License <sup>2</sup>CDDL: Common Development and Distribution License <sup>3</sup>LGPL: GNU Lesser General Public License <sup>4</sup> MPL: Mozilla Public License <sup>5</sup> BSD: Berkley Software Distribution <sup>6</sup> MIT: Massachusetts Instititue of Technology
+      </div>
+      <br/>
+      Licenses can either be Free or Propietary, with Free Licenses further classified as Copyleft or Permissive.
+    </caption>
+</table>
 
 (rr-licensing-software-free)=
 ## Free Software
@@ -91,13 +135,63 @@ They may also require that the recipient of the combined work can re-link the mo
 (rr-licensing-software-overview)=
 ## Permission Overview
 
-|                     | **CopyLeft**                  |                               | **Permissive**                     | **Proprietary** |
-|---------------------|---------------------------|-------------------------------|--------------------------------|-------------|
-|                     | **Strong**                    | **Weak**                          |                                |             |
-| **Use for Anything**    | Yes                       | Yes                           | Yes                            | Sometimes   |
-| **Private Changes**     | Yes                       | Yes                           | Yes                            | Rarely      |
-| **Distribute Original** | Same license, with source | Same license, with source     | Same license, also binary-only<sup>*</sup> | Rarely      |
-| **Distribute Modified** | Same license, with source | Same license, with source<sup>**</sup>     | Any license, also binary-only  | Rarely      |
-| **Distribute Combined** | Same license, with source | Any license, binary additions | Any license, also binary-only  | Rarely      |
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2"></th>
+            <th colspan="2">Copyleft</th>
+            <th rowspan="2">Permissive</th>
+            <th rowspan="2">Proprietary</th>
+        </tr>
+        <tr>
+            <th>Strong</th>
+            <th>Weak</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Use for anything</th>
+            <td>Yes</td>
+            <td>Yes</td>
+            <td>Yes</td>
+            <td>Sometimes</td>
+        </tr>
+        <tr>
+            <th>Private changes</th>
+            <td>Yes</td>
+            <td>Yes</td>
+            <td>Yes</td>
+            <td>Rarely</td>
+        </tr>
+        <tr>
+            <th>Distribute original</th>
+            <td>Same license, with source</td>
+            <td>Same license, with source</td>
+            <td>Same license, also binary-only<sup>1</sup></td>
+            <td>Rarely</td>
+        </tr>
+        <tr>
+            <th>Distribute modified</th>
+            <td>Same license, with source</td>
+            <td>Same license, with source<sup>2</sup></td>
+            <td>Any license, also binary-only</td>
+            <td>Rarely</td>
+        </tr>
+        <tr>
+            <th>Distribute combined</th>
+            <td>Same license, with source</td>
+            <td>Any license, binary additions</td>
+            <td>Any license, also binary-only</td>
+            <td>Rarely</td>
+        </tr>
+    </tbody>
+    <caption>
+      <div class="footnote">
+        <sup>2</sup>Under any license for the MIT license <sup>2</sup>Relicensing LGPL to GPL is allowed
+      </div>
+      <br/>
+      Permissive licenses grant the largest set of permissions to users. Copyleft licenses require redistribution of the original or modified source to use the same license, with weak copyleft licences allowing a different choice of license for the combined work. Proprietary licenses rarely provide any permissions beyond the right to use the software.
+    </caption>
+</table>
 
-<sup>*</sup>Under any license for the MIT license  <sup>**</sup>Relicensing LGPL to GPL is allowed
+
