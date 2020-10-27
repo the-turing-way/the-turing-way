@@ -72,7 +72,7 @@
     sections:
     - title: Software licenses
       file: reproducible-research/licensing/licensing-software
-    - title: Data licenses
+    - title: Data Licenses
       file: reproducible-research/licensing/licensing-data
   - title: Research Data Management
     file: reproducible-research/rdm

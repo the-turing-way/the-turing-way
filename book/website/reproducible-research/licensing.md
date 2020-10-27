@@ -10,6 +10,9 @@ Recommended skill level: low.
 
 ## Summary
 
+> This chapter was written using American English, in which the word **license** is a noun **_and_** a verb.
+> With British English, however, **licence** is a noun (as in, _to issue a licence_), while **license** is a verb (as in, _they licensed the event_).  
+
 As with anything else in society, some of what you can and cannot do in software development is determined by the law.
 Most of the constraints in this particular domain stem from intellectual property laws: laws that make abstract things like designs, stories, or computer programs resemble physical objects by allowing them to be owned.
 
