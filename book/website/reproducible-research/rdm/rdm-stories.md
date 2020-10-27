@@ -17,7 +17,7 @@ Let us start with my digital footprints so that you can discover my activities:
 I have worked on research data management since 2001, yes, way before this area was even considered a 'thing'.
 I was also told that there is no career to make in research data management.
 Well, how wrong that comment was!
-Formerly seen as an intersection between service provision and IT, data management has become a first-class citizen, recognized as a research and development subject, as it should be.
+Formerly seen as an intersection between service provision and IT, data management has become a first-class citizen, recognised as a research and development subject, as it should be.
 A lot of the credit for this change goes to the FAIR principles.
 Love it or hate it, FAIR is now an internationally-known lighthouse brand.
 Since we published the first article on the [FAIR principles](https://doi.org/10.1038/sdata.2016.18), enabling FAIR has been my focus.
