@@ -62,7 +62,6 @@ In short:
 
 ```{figure} ../../figures/tidy-1.png
 ---
-height: 500px
 name: tidy-1
 alt: The image depicts tidy data. One column represents a variable, one row represents a sample, and one cell represents a piece of information.
 ---
