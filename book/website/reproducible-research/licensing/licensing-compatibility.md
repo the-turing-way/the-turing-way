@@ -25,7 +25,6 @@ xtas is a natural language processing toolkit for Python that reuses many third-
 
 ```{figure} ../../figures/xtas_overview_96.svg.png
 ---
-height: 500px
 name: xtas_overview_96
 alt: A graphical overview of xtas. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Underneath this, there are three side-by-side squares, representing respectively Python libraries, software, and data, that are used by xtas. Within the Python libraries square, there are three boxes. The first box contains the words "BSD", "MIT" and "ALv2". The second box contains "LGPLv2.1". The third box contains "GPLv2+". Within the Software square, there are four boxes. The first box contains "Web Service". The second box contains "LGPL v2.1+". The third box contains "Research only", and the fourth box contains "GPL 2+/3+". The Data square also contains four boxes. The first box contains "CC BY-SA 3.0". The second box contains "Research Only". The third box contains "No license, US" and the fourth box contains "CoNLL'02 only".
 ---
@@ -48,7 +47,6 @@ In the following examples, we will simplify most of this away and look at one or
 
 ```{figure} ../../figures/xtas_snowball_96.svg.png
 ---
-height: 500px
 name: xtas_snowball_96
 alt: An illustration of the xtas vs. Snowball example.  A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "Snowball Stemmer" and "Python lib BSD". 
 ---
@@ -86,7 +84,6 @@ If xtas authors redistribute Snowball, they must do so under the BSD license gra
 
 ```{figure} ../../figures/xtas_chardet_96.svg.png
 ---
-height: 500px
 name: xtas_chardet_96
 alt: An illustration of the xtas vs. chardet example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "chardet" and "Python lib LGPLv2.1". 
 ---
@@ -118,7 +115,6 @@ If they distribute chardet, they must do so under the LGPL v2.1 license granted 
 
 ```{figure} ../../figures/xtas_unidecode_96.svg.png
 ---
-height: 500px
 name: xtas_chardet_96
 alt: An illustration of the xtas vs. unidecode example. The large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "unidecode" and "Python lib GPLv2+".
 ---
@@ -171,7 +167,6 @@ As is probably clear by now, dependencies that are under a strong copyleft licen
 
 ```{figure} ../../figures/xtas_all_python_libs_96.svg.png
 ---
-height: 500px
 name: xtas_all_python_libs_96
 alt: An illustration of the xtas and all Python libraries example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below this, there are three squares. The first square contains the words "Snowball" and "Python lib BSD". The second square contains "chardet" and "Python lib LGPLv2.1". The third square contains the words "unidecode" and "Python lib GPLv2+".
 ---
@@ -201,7 +196,6 @@ xtas can run the [Stanford CoreNLP program](https://stanfordnlp.github.io/CoreNL
 
 ```{figure} ../../figures/xtas_corenlp_1_96.svg.png
 ---
-height: 500px
 name: xtas_corenlp_1_96
 alt: An illustration of the xtas vs. CoreNLP example. The square represents the combined work xtas. Within this square, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "Stanford CoreNLP" and "Java program GPLv3+".
 ---
@@ -213,7 +207,6 @@ Contributing to this interpretation is the fact that xtas will download and inst
 
 ```{figure} ../../figures/xtas_corenlp_2_96.svg.png
 ---
-height: 500px
 name: xtas_corenlp_1_96
 alt: Another illustration of the xtas vs. CoreNLP example. The square on the left represents the combined work xtas. Within this square, there is a rectangle representing the xtas Python code, licensed under the Apache License v2. On the right is a separate square representing CoreNLP, with the text "Stanford CoreNLP" and "Java program GPLv3+". Between the squares are two arrows, one at the top pointing from xtas to CoreNLP, and one at the bottom pointing from CoreNLP to xtas.
 ---
