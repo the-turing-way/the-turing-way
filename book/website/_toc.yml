@@ -19,10 +19,8 @@
     sections:
     - title: Definitions
       file: reproducible-research/overview/overview-definitions
-    - title: Added Advantages
+    - title: Added advantages
       file: reproducible-research/overview/overview-benefit
-    - title: Checklist
-      file: reproducible-research/overview/overview-checklist
     - title: Resources
       file: reproducible-research/overview/overview-resources
   - title: Open Research
@@ -30,7 +28,7 @@
     sections:
     - title: Open Data
       file: reproducible-research/open/open-data
-    - title: Open Source Software
+    - title: Open Source
       file: reproducible-research/open/open-source
     - title: Open Hardware
       file: reproducible-research/open/open-hardware
@@ -40,9 +38,7 @@
       file: reproducible-research/open/open-notebooks
     - title: Open Scholarship
       file: reproducible-research/open/open-scholarship
-    - title: Checklist
-      file: reproducible-research/open/open-checklist
-    - title: Resources
+    - title: Resources of Open Research
       file: reproducible-research/open/open-resources
   - title: Version Control
     file: reproducible-research/vcs
@@ -67,59 +63,45 @@
       file: reproducible-research/vcs/vcs-data
     - title: Personal Stories
       file: reproducible-research/vcs/vcs-personal-stories
-    - title: Checklist
+    - title: Checklist for Version Control
       file: reproducible-research/vcs/vcs-checklist
-    - title: Resources
+    - title: Resources for Version Control
       file: reproducible-research/vcs/vcs-resources
   - title: Licensing
     file: reproducible-research/licensing
     sections:
-    - title: Software Licenses
+    - title: Software licenses
       file: reproducible-research/licensing/licensing-software
-    - title: License Compatibililty
-      file: reproducible-research/licensing/licensing-compatibility
-    - title: Resources
-      file: reproducible-research/licensing/licensing-resources
+    - title: Data licenses
+      file: reproducible-research/licensing/licensing-data
   - title: Research Data Management
     file: reproducible-research/rdm
     sections:
-    - title: Research Data
-      file: reproducible-research/rdm/rdm-data
-    - title: The FAIR Principles and Practices
+    - title: The FAIR principles and practices
       file: reproducible-research/rdm/rdm-fair
-    - title: Data Storage and Organisation
+    - title: Storage and backup
       file: reproducible-research/rdm/rdm-storage
-    - title: Data Organisation in Spreadsheets
+    - title: Data organisation in spreadsheets
       file: reproducible-research/rdm/rdm-spreadsheets
-    - title: Documentation and Metadata
+    - title: Documentation and metadata
       file: reproducible-research/rdm/rdm-metadata
-    - title: Sharing and Archiving Data
+    - title: Sharing and archiving data
       file: reproducible-research/rdm/rdm-sharing
     - title: Personal Stories
       file: reproducible-research/rdm/rdm-stories
-    - title: Checklist
-      file: reproducible-research/rdm/rdm-checklist
     - title: Resources
       file: reproducible-research/rdm/rdm-resources
   - title: Reproducible Environments
     file: reproducible-research/renv
     sections:
-    - title: Capturing Computational Environments
-      file: reproducible-research/renv/renv-options
-    - title: Package Management Systems
-      file: reproducible-research/renv/renv-package
-    - title: YAML
-      file: reproducible-research/renv/renv-yaml
-    - title: Binder
-      file: reproducible-research/renv/renv-binder
-    - title: Virtual Machines
-      file: reproducible-research/renv/renv-vm
-    - title: Containers
-      file: reproducible-research/renv/renv-containers
-    - title: Checklist
-      file: reproducible-research/renv/renv-checklist
-    - title: Resources
-      file: reproducible-research/renv/renv-resources
+    - file: reproducible-research/renv/renv-options
+    - file: reproducible-research/renv/renv-package
+    - file: reproducible-research/renv/renv-yaml
+    - file: reproducible-research/renv/renv-binder
+    - file: reproducible-research/renv/renv-vm
+    - file: reproducible-research/renv/renv-containers
+    - file: reproducible-research/renv/renv-checklist
+    - file: reproducible-research/renv/renv-resources
   - title: BinderHub
     file: reproducible-research/binderhub
     sections:
@@ -296,7 +278,7 @@
       file: community-handbook/style/style-crossref
     - title: Using Figures
       file: community-handbook/style/style-figures
-  - title: Achieving Consistency
+  - title: Maintaining Consistency
     file: community-handbook/consistency
     sections:
     - title: Formatting
