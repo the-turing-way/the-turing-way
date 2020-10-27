@@ -74,7 +74,6 @@ Docker Hub has "official image" badges for commonly used, verified images as sho
 
 ```{figure} ../../figures/docker_official_image.png
 ---
-height: 500px
 name: Docker_official_image
 alt: A screenshot of official image badges
 ---
@@ -207,7 +206,6 @@ Here is what happens if a container is opened from an image called `book_example
 
 ```{figure} ../../figures/container_example.png
 ---
-height: 500px
 name: container_example
 alt: A screenshot of what happens when a container is opened from an image
 ---
@@ -242,11 +240,9 @@ RUN mkdir B_2
 
 ```{figure} ../../figures/workdir_example.png
 ---
-height: 500px
 name: workdir_example
 alt: Screenshot of container generated using WORKDIR command
 ---
-Container
 ```
 
 Directories `B_1` and `B_2` have been created within directory `A`.
@@ -260,7 +256,6 @@ for `RUN cd A`.
 
 ```{figure} ../../figures/cd_example.png
 ---
-height: 500px
 name: cd_example
 alt: A screenshot of what happens when the WORKDIR command is swapped with RUN cd
 ---

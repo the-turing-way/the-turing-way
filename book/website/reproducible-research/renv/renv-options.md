@@ -1,9 +1,6 @@
 (rr-renv-options)=
 # Capturing Computational Environments
 
-(rr-renv-options-overview)=
-## Overview
-
 There are several ways of capturing computational environments.
 The major ones covered in this chapter will be Package Management Systems, Binder, Virtual Machines, and Containers. 
 Each has its pros and cons, and the most appropriate option for you will depend on the nature of your project.
@@ -14,14 +11,15 @@ Another way these can be split is by how the reproduced research is presented to
 Using Binder or a Virtual Machine creates a much more graphical, GUI-type result. 
 In contrast, the outputs of Containers and Package Management Systems are more easily interacted with via the command line.
 
-|                     |                       | Interaction Style |              |
-|---------------------|-----------------------|-------------------|--------------|
-|                     |                       | Graphical         | Command Line |
-| What is reproduced? | Software and Versions | Binder            | Conda        |
-|                     | Entire System         | Virtual Machines  | Containers   |
+```{figure} ../../figures/computational_environments.jpg
+---
+name: computational_environments
+alt: A depiction of the various tools used to capture computational environments
+---
+Ways of capturing computational environments
+```
 
-
-A brief description of each of these tools is given below:
+A brief description of each of these tools is given below
 
 
 (rr-renv-options-pms)=

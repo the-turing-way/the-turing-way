@@ -34,7 +34,6 @@ This copy of the project is hosted in the environment the researcher specified i
 
 ```{figure} ../../figures/binder_comic.png
 ---
-height: 500px
 name: binder_comic
 alt: An illustration of the steps a person can take to create a binderized project.
 ---
@@ -46,7 +45,6 @@ Files are listed and can be clicked on and modified by the person accessing the 
 
 ```{figure} ../../figures/binder_home.png
 ---
-height: 500px
 name: binder_home
 alt: A screenshot of a binder of a sample project
 ---
@@ -57,7 +55,6 @@ Users can also open terminals to run or otherwise interact with the files by cli
 
 ```{figure} ../../figures/binder_terminal.png
 ---
-height: 500px
 name: binder_terminal
 alt: A screenshot of a terminal where users can run or interact with project files
 ---
@@ -70,7 +67,6 @@ These may be more convenient for those working with graphical outputs, as shown 
 
 ```{figure} ../../figures/binder_notebook.png
 ---
-height: 500px
 name: binder_notebook
 alt: A screenshot of a Jupyter Notebook integrated with Binder
 ---
@@ -177,7 +173,6 @@ It will look something like this: `https://github.com/<your-username>/<your-repo
 
 ```{figure} ../../figures/mybinder_gen_link.png
 ---
-height: 500px
 name: mybinder_gen_link
 alt: A screenshot of the webpage used to generate a Binder link for your project
 ---

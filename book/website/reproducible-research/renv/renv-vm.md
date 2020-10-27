@@ -13,7 +13,6 @@ So just because you can run several VMs does not mean you should.
 
 ```{figure} ../../figures/virtual_machine.png
 ---
-height: 500px
 name: virtual_machine
 alt: A screenshot of a Virtual Machine.
 ---
@@ -49,7 +48,6 @@ In the figure below, a machine called `demo_VM` running Ubuntu is being created:
 
 ```{figure} ../../figures/VM_create_machine.png
 ---
-height: 500px
 name: VM_create_machine
 alt: A screenshot showing a Virtual Machine is created.
 ---
@@ -66,7 +64,6 @@ To start a virtual machine, select the machine from the list of VMs on the left,
 
 ```{figure} ../../figures/VM_start_machine.png
 ---
-height: 500px
 name: VM_start_machine
 alt: A screenshot showing how to start a Virtual Machine.
 ---
@@ -82,7 +79,6 @@ This will export the VM as a single file which can be shared.
 
 ```{figure} ../../figures/VM_export_machine.png
 ---
-height: 500px
 name: VM_export_machine
 alt: A screenshot showing how to export a Virtual Machine.
 ---
