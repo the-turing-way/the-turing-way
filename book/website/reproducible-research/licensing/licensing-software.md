@@ -13,7 +13,7 @@ To make some sense of this variety, we can categorize them as follows.
 ```{figure} ../../figures/license-categories.jpg
 ---
 name: license-categories
-alt: A table illustrating the different categories of licenses. Licenses can either be Free or Proprietary. Free Licenses can be classed as Copyleft or Permissive, and Copyleft licenses are either Strong or Weak.
+alt: A table illustrating the different categories of licenses. The table shows two main categories of licenses, namely Free and Propietary. Free licenses are broken down into CopyLeft and Permissive Licenses. Copyleft Licenses are further broken down into Strong or Weak Licenses. Proprietary Licenses only allow work to be resused for research. Examples of strong, free copyleft licenses shown in the table include GPL (General Public License) and CDDL (Common Development and Distribution License). Weak, free copyleft licenses shown include LGPL (Lesser General Public License) and MPL (Mozilla Public License). The free, permissive licenses shown include BSD (Bekeley Software Distribution), MIT (Massachusetts Institute of Technology), and Apache. 
 ---
 Licenses can either be Free or Propietary, with Free Licenses further classified as Copyleft or Permissive.
 ```
