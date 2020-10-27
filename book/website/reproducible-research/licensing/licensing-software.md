@@ -10,9 +10,9 @@ The [https://choosealicense.com/](https://choosealicense.com/) website offers a 
 
 To make some sense of this variety, we can categorize them as follows.
 
-```{figure} ../../figures/license_categories.png
+```{figure} ../../figures/license-categories.jpg
 ---
-name: license_categories
+name: license-categories
 alt: A table illustrating the different categories of licenses. Licenses can either be Free or Proprietary. Free Licenses can be classed as Copyleft or Permissive, and Copyleft licenses are either Strong or Weak.
 ---
 Licenses can either be Free or Propietary, with Free Licenses further classified as Copyleft or Permissive.
@@ -100,6 +100,4 @@ They may also require that the recipient of the combined work can re-link the mo
 | **Distribute Modified** | Same license, with source | Same license, with source<sup>**</sup>     | Any license, also binary-only  | Rarely      |
 | **Distribute Combined** | Same license, with source | Any license, binary additions | Any license, also binary-only  | Rarely      |
 
-<sup>*</sup>Under any license for the MIT license
-
-<sup>**</sup>Relicensing LGPL to GPL is allowed
+<sup>*</sup>Under any license for the MIT license  <sup>**</sup>Relicensing LGPL to GPL is allowed
