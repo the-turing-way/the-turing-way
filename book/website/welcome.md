@@ -1,7 +1,7 @@
 (welcome)=
 # Welcome
 
-_The Turing Way_ is an open-source community-driven guide to reproducible, ethical, inclusive and collaborative data science.
+_The Turing Way_ is an open source community-driven guide to reproducible, ethical, inclusive and collaborative data science.
 
 Our goal is to provide all the information that data scientists in academia, industry, government and the third sector need at the start of their projects to ensure that they are easy to reproduce and reuse at the end.
 
