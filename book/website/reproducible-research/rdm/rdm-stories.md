@@ -1,5 +1,5 @@
 (rr-rdm-stories)=
-# Case studies and personal impact stories
+# Personal Impact Stories
 
 ## Susanna-Assunta Sansone: From FAIR Co-Author to FAIR Doer
 
