@@ -60,22 +60,20 @@ If one of your branches ends up not working, you can either abandon it or delete
 
 ```{figure} ../../figures/two_branches.png
 ---
-height: 500px
 name: two_branches
-alt: An illustration of two development and one master branch in git
+alt: An illustration of two development branches and one master branch in git
 ---
-An illustration of two development and one master branch in git.
+Two development branches and one master branch in git.
 ```
 
 If you want, you can create branches from branches (and branches off of those branches and so on).
 
 ```{figure} ../../figures/sub_branch.png
 ---
-height: 500px
 name: sub_branch
-alt: An illustration of a branch of a development branch in git.
+alt: An illustration of a development branch in git.
 ---
-An illustration of a branch of a development branch in git.
+A development branch in git.
 ```
 
 No matter how many branches you have, you can access the past versions you made on any of them.

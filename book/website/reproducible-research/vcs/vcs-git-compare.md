@@ -39,7 +39,13 @@ If there are several *unrelated* changes that should not be added together in a 
 That said, **you do not necessarily need to do per-file commits** when working on multiple files, but for one single problem.
 For example, if we add a figure to this chapter here, choosing one to catch the attention of someone skimming through:
 
-![flipped_taj_mahal](../../figures/flipped_taj_mahal.png)
+```{figure} ../../figures/flipped_taj_mahal.png
+---
+name: flipped_taj_mahal
+alt: A flipped photograph of the Taj Mahal to grab the reader's attention.
+---
+Flipped Taj Mahal
+```
 
 two files are changed:
 
