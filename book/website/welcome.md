@@ -10,7 +10,7 @@ However, technical skills are just one aspect of making data science research "o
 
 In February 2020, _The Turing Way_ expanded to a series of books covering reproducible research, project design, communication, collaboration, and ethical research.
 
-```{figure} figures\welcome.jpg
+```{figure} figures/welcome.jpg
 ---
 name: welcome
 alt: The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.
@@ -65,7 +65,7 @@ The citation will look something like:
 Please visit the [DOI link](https://doi.org/10.5281/zenodo.3233853) though to get the most recent version - the one above is not automatically generated and may be out of date.
 DOIs allow us to archive the repository and are useful for tracking the work in academic publications.
 
-You can also share the human-readable URL to a page in the book, for example, [https://the-turing-way.netlify.app/reproducible-research/overview/overview-definitions.html](./reproducible-research/overview/definitions), but be aware that the project is under development and these links may change over time.
+You can also share the human-readable URL to a page in the book, for example, {ref}`https://the-turing-way.netlify.app/reproducible-research/overview/overview-definitions.html <rr-overview-definitions>`, but be aware that the project is under development and these links may change over time.
 You might want to include a [web archive link](http://web.archive.org), such as: [https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html](https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html), to make sure that you do not end up with broken links everywhere!
 
 We really appreciate any references that you make to _The Turing Way_ project in your work, and we hope it is useful.
