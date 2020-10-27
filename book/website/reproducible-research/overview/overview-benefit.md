@@ -7,7 +7,6 @@ In this chapter, we will share some less obvious aspects of working reproducibly
 
 ```{figure} ../../figures/reasons_reproducibility.png
 ---
-height: 500px
 name: reasons_reproducibility
 alt: Why we should care about working reproducibly.
 ---

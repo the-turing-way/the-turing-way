@@ -33,7 +33,6 @@ Reproducible is distinct from replicable, robust and generalisable as described 
 
 ```{figure} ../../figures/ReproducibleMatrix.jpg
 ---
-height: 500px
 name: ReproducibleMatrix
 alt: Kirstie's definition of reproducible research.
 ---
