@@ -1,5 +1,5 @@
 (ch-consistency)=
-# Achieving Retrospective Consistency
+# Maintaining Consistency
 
 _The Turing Way_ project is an open-source endeavour that empowers contributors from around the world to leverage their skills, knowledge and expertise to build and expand its content.
 With over 200 contributors, _The Turing Way_ was created (and evolving!) based on the efforts of individuals from varied backgrounds who are all passionate about open science.
@@ -7,7 +7,7 @@ To sustain and support this vibrant community, _The Turing Way_ must remain cons
 Although the {ref}`ch-style-guide` chapter already outlines guidelines for keeping a consistent style across the book, not all chapters follow these suggestions. 
 This calls for a need to encouage and achieve retrospective consistency throughout _The Turing Way_. 
 Achieving this goal is reasonably challenging. 
-However, this chapter provides support by curating and introducing a consistency checklist to point contributors towards what consistency checks to look for as they help make _The Turing Way_ retrospectively consistent.
+However, this chapter provides support by curating and introducing a consistency checklist to point contributors towards what consistency checks to look for as they help make _The Turing Way_ consistent.
 
 (ch-consistency-requirements)=
 ## Hard vs Soft Requirements
@@ -28,6 +28,10 @@ An overview of these requirements is itemised in {ref}`below <ch-consistency-req
 (ch-consistency-requirements-checklist)=
 ### Consistency Checklist
 
+> This checklist was developed based on the insights gained from _The Turing Way's_ participation in 2020's [Google Season of Docs](https://developers.google.com/season-of-docs) (GSoD) Programme.
+> The [Technical Writer](https://github.com/paulowoicho) selected to work on _The Turing Way_ helped make the book retrospectively consistent by creating guidelines, templates, and issues to facilitate new contributions.
+> The PRs and issues raised by the Technical Writer are tagged with the `gsod2020` label in _The Turing Way_ Github repo.
+
 - Hard Requirements
   - Add labels to chapters, subchapters and images to enable cross-referencing.
   - Convert all HTML formatting to Markdown.
@@ -46,4 +50,4 @@ An overview of these requirements is itemised in {ref}`below <ch-consistency-req
   - Ensure the names of chapters/subchapters map exactly to the left ToC.
   - Ensure proper title-casing for headers.
 
-These requirements can be classed into three more categories: Formatting, Structure, and Language.
+These checks are further categorised into the following classes: Formatting, Structure, and Language.
