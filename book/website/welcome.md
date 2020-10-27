@@ -10,9 +10,8 @@ However, technical skills are just one aspect of making data science research "o
 
 In February 2020, _The Turing Way_ expanded to a series of books covering reproducible research, project design, communication, collaboration, and ethical research.
 
-```{figure} ../figures/new-community.png
+```{figure} ..\figures\new-community.png
 ---
-height: 500px
 name: welcome
 alt: The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.
 ---
