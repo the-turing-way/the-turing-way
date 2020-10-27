@@ -20,7 +20,6 @@ An illustration of this is shown below.
 
 ```{figure} ../../figures/master_branch.png
 ---
-height: 500px
 name: master_branch
 alt: An illustration of a master branch
 ---
@@ -48,7 +47,6 @@ The merge feature in Git allows the independent lines of development in a local 
 
 ```{figure} ../../figures/one_branch.png
 ---
-height: 500px
 name: one_branch
 alt: An illustration of a development and master branch in git
 ---
