@@ -4,7 +4,7 @@
 (rr-rdm-data-definition)=
 ## What is Data?
 
-Data are all digital objects that you use and produce during your research life cycle, encompassing datasets, software, code, workflow, models, figures, tables, images and videos, interviews, articles. 
+Data are objects that you use and produce during your research life cycle, encompassing datasets, software, code, workflow, models, figures, tables, images and videos, interviews, articles. 
 Data are your research asset. 
 In some fields, it is obvious what data means - you have observations or results of simulations. 
 However, in other fields, particularly in Social Sciences, Humanities or Arts, you may be thinking "I do not think I have any data". 
