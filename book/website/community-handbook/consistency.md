@@ -41,7 +41,7 @@ An overview of these requirements is itemised {ref}`below <ch-consistency-requir
   - Remove empty files from the `_toc.yml`.
   - Ensure chapters follow a consistent structure.
   - Ensure chapters are consistent with the Turing Way Style Guide.
-  - Ensure correct grammar and a consistent tone across the book.
+  - Ensure correct grammar and a consistent tone across the book with the help of 1-2 reviewers
   - Ensure chapters use a consistent language.
   - Add ALT text to images.
   - Fix Markdown formatting of non-consecutive headers
