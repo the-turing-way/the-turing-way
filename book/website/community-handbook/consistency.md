@@ -49,7 +49,7 @@ An overview of these requirements is itemised {ref}`below <ch-consistency-requir
 - Soft Requirements
   - Ensure each subchapter has a good summary in their landing page.
   - Split long chapters into smaller subchapters so they are modular.
-  - Ensure the names of chapters/subchapters map exactly to the left ToC.
+  - Ensure that the names of chapters/subchapters are short and map exactly to how they are titled in the `_toc.yml`.
   - Ensure proper title-casing for headers.
 
 These checks are further categorised into the following classes: Formatting, Structure, and Language.
