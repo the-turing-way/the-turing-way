@@ -5,7 +5,7 @@ _The Turing Way_ project is an open-source endeavour that empowers contributors 
 _The Turing Way_ guides are evolving with multiple chapters co-developed by individuals from varied backgrounds, who are all passionate about sharing knowledge around data science and research.
 To sustain and support this vibrant community, _The Turing Way_ book must remain consistent and accessible as it evolves. 
 Although the {ref}`ch-style-guide` chapter already outlines guidelines for keeping a consistent style across the book, not all chapters follow these suggestions as they have been written asynchronously by different authors. 
-This calls for a need to encouage and achieve retrospective consistency throughout _The Turing Way_. 
+This calls for a need to encourage and support our contributors to maintain consistency throughout the chapters in _The Turing Way_ guides. 
 Achieving this goal is reasonably challenging. 
 However, this chapter provides support by curating and introducing a consistency checklist to point contributors towards what consistency checks to look for as they help make _The Turing Way_ consistent.
 
