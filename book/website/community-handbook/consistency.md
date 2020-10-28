@@ -31,7 +31,7 @@ An overview of these requirements is itemised {ref}`below <ch-consistency-requir
 ### Consistency Checklist
 
 > This checklist was developed based on the insights gained from _The Turing Way's_ participation in 2020's [Google Season of Docs](https://developers.google.com/season-of-docs) (GSoD) Programme.
-> The [Technical Writer](https://github.com/paulowoicho) selected to work on _The Turing Way_ helped make the book retrospectively consistent by creating guidelines, templates, and issues to facilitate new contributions.
+> The Technical Writer selected to work on _The Turing Way_ helped make the book retrospectively consistent by creating guidelines, templates, and issues to facilitate new contributions.
 > The PRs and issues raised by the Technical Writer are tagged with the `gsod2020` label in _The Turing Way_ Github repo.
 
 - Hard Requirements
