@@ -2,7 +2,7 @@
 # Formatting
 
 Formatting refers to how _The Turing Way_ is written, and directly affects the book's appearance and presentation.
-Proper formatting ensures that _The Turing Way_ is readable, accessible, and resembles a polished piece of work.
+Proper formatting ensures that _The Turing Way_ is readable, accessible, and resembles a modular piece of work.
 
 
 (ch-consistency-formatting-hr)=
