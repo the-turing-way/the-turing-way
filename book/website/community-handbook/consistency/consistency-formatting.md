@@ -1,7 +1,9 @@
 (ch-consistency-formatting)=
 # Formatting
 
-Formatting refers to how _The Turing Way_ is written, and directly affects the book's appearance and presentation.
+Formatting refers to how _The Turing Way_ book is written and directly affects the book's appearance and presentation.
+
+_The Turing Way_ is hosted online as a Jupyter Book and uses the formatting recommendations as described in their [documentation](https://jupyterbook.org/intro.html).
 Proper formatting ensures that _The Turing Way_ is readable, accessible, and resembles a modular piece of work.
 
 
