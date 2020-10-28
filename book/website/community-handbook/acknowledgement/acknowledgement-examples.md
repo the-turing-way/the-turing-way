@@ -1,5 +1,5 @@
 (ch-acknowledgement-examples)=
-## Different Contributions and their Acknowledgements
+# Different Contributions and their Acknowledgements
 
 In the previous subchapters, we discussed how we acknowledge our contributors for their work in _The Turing Way_.
 We also describe the [Contributors section](https://github.com/alan-turing-institute/the-turing-way#contributors) of the [`README`](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file and the [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file as {ref}`Record of Contributions<ch-acknowledgement-record>`, which are updated regularly to reflect the contribution types and personal highlights of the contributors.
@@ -7,7 +7,7 @@ We also describe the [Contributors section](https://github.com/alan-turing-insti
 In this subchapter, we will explore the different types of contributions that exist within _The Turing Way_, and describe those with the help of {ref}`personas and pathways<pd-persona-creation>` our contributors may take to make their contributions.
 Furthermore, we describe how each persona will be acknowledged in _The Turing Way_.
 
-### Bug fixing
+## Bug fixing
 
 We use the term "bug" for small errors in the text or code like typos formatting issues or broken links, or minor fixes.
 
@@ -17,7 +17,7 @@ We use the term "bug" for small errors in the text or code like typos formatting
   Amal has had a sustained engagement with the community.
   - **Acknowledgement:** Amal is acknowledged in the Contributors table with a 🐛 (`bug`) and a 🤔 (`idea`) emoji and named as an author on the last 2 releases of the book.
 
-### Providing examples
+## Providing examples
 
 Contributors can also provide examples that can make _The Turing Way_ chapters comprehensible for the readers.
 
@@ -26,7 +26,7 @@ Contributors can also provide examples that can make _The Turing Way_ chapters c
 - *Persona for adding examples*: Pawel wrote a subchapter and added it through a pull request to add a detailed example that demonstrated the content of the chapter being used in a real world example.
   - **Acknowledgement:** Pawel is acknowledged with 💡(`example`) emoji in the Contributors table and named as an author on the last 3 releases of the book.
 
-### Code and scripts
+## Code and scripts
 
 We encourage our contributors to write a piece of code, bots or scripts to help improve the project workflow.
 
@@ -36,7 +36,7 @@ We encourage our contributors to write a piece of code, bots or scripts to help 
   They further wrote a Python script to make the error report easy to understand and fix.
   - **Acknowledgement:** Serena is acknowledged with 💻 (`code`) emoji in the Contributors table along with the 🚧 (`maintenance`) emoji and named as an author in the most recent release of the book.
 
-### Dataset
+## Dataset
 
 Contributors can provide test data for a test or to link with a chapter to improve the overall content.
 
@@ -46,7 +46,7 @@ Contributors can provide test data for a test or to link with a chapter to impro
   - **Acknowledgement:** Xenia is acknowledged with 🔣 (`data`) emoji in the Contributors table along with 🖋 (`content`) emoji for writing a chapter.
     They are named as an author in the most recent version of the book.
 
-### Reviewing chapters and other pull requests
+## Reviewing chapters and other pull requests
 
 Review process of a newly contributed chapter or a subsection of an existing chapter involves approving the language and structure of a chapter or a section of a chapter, flagging errors or typos, asking for clarifications if certain parts of the content or statements are unclear, suggesting modifications and improving the overall quality of someone's contribution.
 
@@ -58,7 +58,7 @@ They approved the pull request after catching two typos and giving a suggestion 
   She was engaged for multiple reviews of the same pull request and engaged closely with the community member who wrote the chapter.
   - **Acknowledgement:** Sadaf is acknowledged in the Contributors table with the 👀 (`review`) and 🤔 (`idea`) emojis, and she is named as an author on the last release of the book.
 
-### Chapter contribution
+## Chapter contribution
 
 The various contributions to a chapter are made towards designing, writing, and reviewing its content through GitHub issues, pull requests and reviewing processes.
 
@@ -78,7 +78,7 @@ The various contributions to a chapter are made towards designing, writing, and 
   She submitted her contribution as a pull request to the Turing Way and responded to the review comments.
   - **Acknowledgement:** She is acknowledged in the Contributors table with 🤔 (`idea`) and 🖋 (`content`) emoji and is named as an author in the last release of the book.
 
-### Accessibility
+## Accessibility
 
 Contributors reporting or working on accessibility issues.
 
@@ -90,7 +90,7 @@ Contributors reporting or working on accessibility issues.
   They also wrote a subchapter in the community handbook's chapter on a style guide to help others follow a guideline to avoid gendered language from future contributions.
   - **Acknowledgement:** They are acknowledged with ♿️ (`ally`) emoji  in the Contributors Table along with 🖋 (`content`) emoji for chapter contributions and named as an author in the last 2 releases of the book.
 
-### Translation
+## Translation
 
 Translation process in _The Turing Way_ includes aspects translating _The Turing Way_ chapters into languages other than English and reviewing them.
 The translation infrastructure as of May 2020 is [Trasifex](https://www.transifex.com/theturingway/theturingway/dashboard/).
@@ -105,7 +105,7 @@ The translation infrastructure as of May 2020 is [Trasifex](https://www.transife
   They have translated 3 chapters into Chinese and worked closely with the core team to get mentored contributions by other members in multiple languages.
   - **Acknowledgement:** They are acknowledged with 🌍 (`translation`), 🤔 (`idea`), 🚇(`infra`) and 🚧 (`maintenance`) emoji, and named as an author on the last release of the book.
 
-### Organisational support
+## Organisational support
 
 When members participate in _The Turing Way_ community with the in-kind support of their funders and organisation, we acknowledge each member individually and list their organisations as "Collaborating organisations".
 Such organisational supports are applicable when one or multiple members from a project or community collaborate to build resources in _The Turing Way_.
@@ -125,7 +125,7 @@ These efforts are highly encouraged to ensure the sustainability of their resour
   Patty has developed materials, contributed to the community discussions and reviewed others' pull requests on the GitHub repository.
   - **Acknowledgement:** Patty will be listed in the Contributors Table with a 🤔 (`idea`), 🖋  (`content`) and 👀 (`review`) emoji and named as an author on the last release of the book..
 
-### Maintenance
+## Maintenance
 
 Maintenance work in _The Turing Way_ applies to the multiple aspects, some of which are: responding to the questions in community spaces such as Gitter, GitHub issues, or Twitter; the technical infrastructure of the GitHub repository, associated GitHub bots, scripts and continuous integration pipeline; online hosting platforms of Jupyter book and Netlify; and translation infrastructure of Transifex.
 
@@ -140,7 +140,7 @@ Maintenance work in _The Turing Way_ applies to the multiple aspects, some of wh
   They support new translators by answering their questions related to the translation process.
   - **Acknowledgement:** They are acknowledged with 🤔 (`idea`), 🚇 (`infra`) and 🚧 (`maintenance`) emoji, and named as an author on the last release of the book.
 
-### Representing the Turing Way
+## Representing the Turing Way
 
 Anyone who shares _The Turing Way_ resources in any relevant publication, learning material, conference presentations or community event are acknowledged for representing _The Turing Way_.
 These members may or may not have previously contributed to the project.
@@ -156,7 +156,7 @@ They either volunteer or are recommended by _The Turing Way_ team members for re
   Noah's slides are available under a CC-BY license and are linked from a page in the community handbook.
   - **Acknowledgement:** They are acknowledged in the Contributors table with the 🔊 (`Talk`), 🚧 , 👀 (`review`), 🤔 (`idea`) and 💬 (`question`) emoji and named as an author on the last release of the book.
 
-### Training, workshops or community events
+## Training, workshops or community events
 
 Members can help in organising a training session, host a workshop delivered by the team members, or help in delivering a community event.
 
@@ -167,7 +167,7 @@ Members can help in organising a training session, host a workshop delivered by 
 
 **Acknowledgement:** All these contributors will be acknowledged with 📋 (`eventOrganizing`) emoji in the Contributors Table.
 
-### Tutorial and training material
+## Tutorial and training material
 
 We invite our members to create tutorials or share their training materials that can be supplemented with the existing chapters in _The Turing Way_.
 
@@ -177,7 +177,7 @@ We invite our members to create tutorials or share their training materials that
   They have added this material with a new chapter they authored in the book for reproducibility in _The Turing Way_.
   - **Acknowledgement:** They are acknowledged with ✅ (`tutorial`) emoji in the Contributors table along with 🖋 (`content`) emoji and named as an author on the last release of the book.
 
-### Blog posts and articles
+## Blog posts and articles
 
 Contributors writing about _The Turing Way_ in articles, blogs, or other online publication platforms.
 
@@ -186,7 +186,7 @@ Contributors writing about _The Turing Way_ in articles, blogs, or other online 
 
 **Acknowledgement:** These contributors are acknowledged with 📝 (`blog`) emoji in the Contributors Table.
 
-### Videos and recordings
+## Videos and recordings
 
 We encourage creating video content or animations, record online interactive discussions or link any relevant videos our contributors may have created in the past that can be used as a learning tool and enhance the quality of _The Turing Way_ content.
 
@@ -195,7 +195,7 @@ We encourage creating video content or animations, record online interactive dis
 - *Persona for creating training videos*: Rene created 3 short videos to guide step by step learning of git-based version control and linked them to an existing chapter on git and GitHub.
   - **Acknowledgement:** Rene is acknowledged with 📹 (`video`) emoji in the Contributors table and named as an author on the last release of the book.
 
-### Financial support
+## Financial support
 
 Researchers and support staff from a collaborating organisation can help with searching for funding, help with writing a grant proposal or providing financial support directly or indirectly for the development of the project.
 
@@ -205,7 +205,7 @@ Researchers and support staff from a collaborating organisation can help with se
   They also helped in editing a grant proposal.
   - **Acknowledgement:** Ismael is acknowledged with 🔍 (`fundingFinding`) emoji in the Contributors table and 💵 (`financial`) emoji for their support and work and named as an author on the last release of the book.
 
-### Project Management
+## Project Management
 
 Team members, core contributors and community members with sustained engagements often take on project management tasks and support _The Turing Way_ community and project as a whole.
 

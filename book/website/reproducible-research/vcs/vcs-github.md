@@ -80,7 +80,7 @@ git push -u origin master
 
 The exact same procedure applies to you if you want to clone someone else's repository.
 
-#### Pull requests
+### Pull requests
 
 If you are working on a personal branch and meanwhile if some other changes were made in the master branch, you can *pull* those changes down to your branch using the Git command:
 ```
@@ -181,7 +181,7 @@ git push origin forked_repository
 
 Now you can make a pull request!
 
-### Good practice
+## Good practice
 
 Before you create a branch, make sure you have all the upstream changes from the origin/master branch.
 
@@ -189,6 +189,6 @@ A word of caution on the `rebase` command: While trying to keep your branches in
 It tends to rewrite history and could be troublesome if not communicated with others working on the same branch, therefore try to avoid using `rebase` command, and instead use `pull` or `fetch`+`merge` as discussed in this section.
 You can find more details about Merging vs Rebasing [here](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
-### Further reading
+## Further reading
 - An article on syncing a fork of a repository to keep it up-to-date with the upstream repository can be found [here](https://help.github.com/en/articles/syncing-a-fork).
 - If you wish to do it all in the browser itself, instructions to do so can be found [here](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser).

@@ -801,7 +801,8 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/23616154?v=4",
       "profile": "https://github.com/JimMadge",
       "contributions": [
-        "content"
+        "content",
+        "doc"
       ]
     },
     {
@@ -1749,7 +1750,8 @@
       "contributions": [
         "ideas",
         "review",
-        "bug"
+        "bug",
+        "doc"
       ]
     },
     {
@@ -1885,7 +1887,8 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/45484225?v=4",
       "profile": "https://github.com/yaseminturkyilmaz",
       "contributions": [
-        "blog"
+        "blog",
+        "ideas"
       ]
     },
     {
@@ -1895,6 +1898,105 @@
       "profile": "https://github.com/Karvovskaya",
       "contributions": [
         "blog"
+      ]
+    },
+    {
+      "login": "MariaEriksson",
+      "name": "Maria Eriksson",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/43676485?v=4",
+      "profile": "https://github.com/MariaEriksson",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "ChandlerKlein",
+      "name": "Chandler Klein",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/18371945?v=4",
+      "profile": "http://chandlerklein.com",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "KRHero03",
+      "name": "Krunal Rank",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/44499991?v=4",
+      "profile": "https://krrank.live",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "dlintott",
+      "name": "Daniel Lintott",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4700562?v=4",
+      "profile": "https://github.com/dlintott",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "GeorgiaHCA",
+      "name": "Georgia",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/46889966?v=4",
+      "profile": "https://github.com/GeorgiaHCA",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "oxpeter",
+      "name": "oxpeter",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6393360?v=4",
+      "profile": "https://github.com/oxpeter",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "vcheplygina",
+      "name": "Veronika Cheplygina",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/10584818?v=4",
+      "profile": "http://www.veronikach.com",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "NZR",
+      "name": "Nico",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2925086?v=4",
+      "profile": "https://github.com/NZR",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "reshamas",
+      "name": "Reshama Shaikh",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2507232?v=4",
+      "profile": "https://reshamas.github.io",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Mariam-ke",
+      "name": "Mariam-ke",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/39956740?v=4",
+      "profile": "https://github.com/Mariam-ke",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "blee1710",
+      "name": "Brandon Lee",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/39078797?v=4",
+      "profile": "https://brndnlee.me/",
+      "contributions": [
+        "bug"
       ]
     }
   ],
