@@ -17,7 +17,8 @@ Items in the consistency checklist are categorised into hard and soft requiremen
 Hard requirements are essential consistency checks that a chapter must pass so that _The Turing Way_ builds without errors, and is readable and accessible by everyone.
 
 Soft requirements, on the other hand, are nice-to-have consistency checks that a chapter should pass. 
-These checks greatly enhance the overall look and feel of the book but can be safely ignored.
+These checks greatly enhance the overall look and feel of the book but can be safely ignored if you can't manage to integrate them into your contribution.
+You can always return to review your past contributions and enhance their content.
 
 An overview of these requirements is itemised in {ref}`below <ch-consistency-requirements-checklist>`. The rest of this chapter explains them in more detail and describes how they can be achieved.
 
