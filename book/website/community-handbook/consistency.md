@@ -2,7 +2,7 @@
 # Maintaining Consistency
 
 _The Turing Way_ project is an open-source endeavour that empowers contributors from around the world to leverage their skills, knowledge and expertise to build and expand its content.
-With over 200 contributors, _The Turing Way_ was created (and evolving!) based on the efforts of individuals from varied backgrounds who are all passionate about open science.
+_The Turing Way_ guides are evolving with multiple chapters co-developed by individuals from varied backgrounds, who are all passionate about sharing knowledge around data science and research.
 To sustain and support this vibrant community, _The Turing Way_ must remain consistent and accessible. 
 Although the {ref}`ch-style-guide` chapter already outlines guidelines for keeping a consistent style across the book, not all chapters follow these suggestions. 
 This calls for a need to encouage and achieve retrospective consistency throughout _The Turing Way_. 
