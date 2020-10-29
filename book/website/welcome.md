@@ -16,7 +16,7 @@ In February 2020, _The Turing Way_ expanded to a series of books covering reprod
 ## Our community
 
 _The Turing Way_ community is dedicated to making collaborative, reusable and transparent research "too easy not to do".
-That means investing in the socio-technical skills required to work in a team, to build something greater than the any individual person could deliver alone.
+That means investing in the socio-technical skills required to work in a team, to build something greater than what any individual person could deliver alone.
 
 _The Turing Way_ is:
 
