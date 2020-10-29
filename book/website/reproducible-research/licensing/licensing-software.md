@@ -71,8 +71,8 @@ Access to the source code is a precondition for this.
 * _Freedom 3_: The freedom to distribute copies of your modified versions to others.
 By doing this, you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
 
-These four freedoms together effectively neutralize copyright; *Freedoms 1* and *3* let you use the original software and share it with others. 
-*Freedoms 2* and *3* let you create derivative works based on the software and share these with others.
+These four freedoms together effectively neutralize copyright; *Freedoms 0* and *2* let you use the original software and share it with others. 
+*Freedoms 1* and *3* let you create derivative works based on the software and share these with others.
 
 Note that it is perfectly acceptable to sell copies of free software, warranty, or development services; this is about the freedom to do things with the software, not about its price.
 
@@ -189,5 +189,4 @@ They may also require that the recipient of the combined work can re-link the mo
       Permissive licenses grant the largest set of permissions to users. Copyleft licenses require redistribution of the original or modified source to use the same license, with weak copyleft licences allowing a different choice of license for the combined work. Proprietary licenses rarely provide any permissions beyond the right to use the software.
     </caption>
 </table>
-
 
