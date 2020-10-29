@@ -68,14 +68,15 @@ To make some sense of this variety, we can categorize them as follows.
 Software licenses are either free or proprietary. 
 Free software comes with license terms that give you ([as defined by GNU](https://www.gnu.org/philosophy/free-sw.html)):
 
-* _Freedom 1_: The freedom to run the program as you wish, for any purpose.
-* _Freedom 2_: The freedom to study how the program works, and change it, so it does your computing as you wish.
+* _Freedom 0_: The freedom to run the program as you wish, for any purpose.
+* _Freedom 1_: The freedom to study how the program works, and change it, so it does your computing as you wish.
 Access to the source code is a precondition for this.
-* _Freedom 3_: The freedom to redistribute copies so you can help others in your community.
-* _Freedom 4_: The freedom to distribute copies of your modified versions to others.
+* _Freedom 2_: The freedom to redistribute copies so you can help others in your community.
+* _Freedom 3_: The freedom to distribute copies of your modified versions to others.
 By doing this, you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
 
-These four freedoms together effectively neutralize copyright: **freedoms 1 and 3** let you create derivative works, and **freedoms 2 and 4** let you make copies.
+These four freedoms together effectively neutralize copyright: Freedoms 1 and 3 let you use the original software and share it with others. 
+Freedoms 2 and 3 let you create derivative works based on the software and share these with others.
 
 Note that it is perfectly acceptable to sell copies of free software, warranty, or development services; this is about the freedom to do things with the software, not about its price.
 
