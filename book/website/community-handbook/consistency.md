@@ -43,7 +43,7 @@ An overview of these requirements is itemised {ref}`below <ch-consistency-requir
     - Use public domain images that are less than 1MB in size and cite appropriately
     - Add a descriptive ALT text to images to allow screen reading software to describe images well to its users
   - Do not add any empty files in the `_toc.yml`, instead create an issue for new chapters
-  - Ensure chapters follow a consistent structure.
+  - Ensure chapters follow a structure as described in this [chapter template](https://github.com/alan-turing-institute/the-turing-way/blob/master/templates/CHAPTER_TEMPLATE.md)
   - Ensure chapters do not use any Latin abbreviation as discussed in the {ref}`style guide<ch-style-guide>`
   - Ensure correct grammar and a consistent tone across the book with the help of 1-2 reviewers
   - Ensure chapters use a consistent language, for example, if you choose to write in British English, maintain that throughout
