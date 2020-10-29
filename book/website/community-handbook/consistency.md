@@ -42,7 +42,7 @@ An overview of these requirements is itemised {ref}`below <ch-consistency-requir
   - Use image formatting from Markdown to `MyST` as described in the {ref}`style guide<ch-style-figures>`
     - Use public domain images that are less than 1MB in size and cite appropriately
     - Add a descriptive ALT text to images to allow screen reading software to describe images well to its users
-  - Remove empty files from the `_toc.yml`.
+  - Do not add any empty files in the `_toc.yml`, instead create an issue for new chapters
   - Ensure chapters follow a consistent structure.
   - Ensure chapters are consistent with the Turing Way Style Guide.
   - Ensure correct grammar and a consistent tone across the book with the help of 1-2 reviewers
