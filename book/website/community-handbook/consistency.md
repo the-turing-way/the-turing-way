@@ -39,7 +39,9 @@ An overview of these requirements is itemised {ref}`below <ch-consistency-requir
   - Use the headers in sequential order (for example, starting the top level with h1 tag `#`, second-level header with h2 tag `##` and so on)
   - Add labels to chapters, subchapters and images to enable cross-referencing as described in the {ref}`style guide<ch-style-crossref>`
   - Convert all HTML formatting to Markdown.
-  - Convert image formatting from Markdown to `MyST`.
+  - Use image formatting from Markdown to `MyST` as described in the {ref}`style guide<ch-style-figures>`
+    - Use public domain images that are less than 1MB in size and cite appropriately
+    - Add a descriptive ALT text to images to allow screen reading software to describe images well to its users
   - Remove empty files from the `_toc.yml`.
   - Ensure chapters follow a consistent structure.
   - Ensure chapters are consistent with the Turing Way Style Guide.
