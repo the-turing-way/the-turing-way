@@ -35,7 +35,9 @@ An overview of these requirements is itemised {ref}`below <ch-consistency-requir
 > The PRs and issues raised by the Technical Writer are tagged with the `gsod2020` label in _The Turing Way_ Github repo.
 
 #### Hard Requirements
-  - Add labels to chapters, subchapters and images to enable cross-referencing.
+  - Use MarkDown for creating your content (see this [cheatsheet from WordPress](https://wordpress.com/support/markdown-quick-reference/))
+  - Use the headers in sequential order (for example, starting the top level with h1 tag `#`, second-level header with h2 tag `##` and so on)
+  - Add labels to chapters, subchapters and images to enable cross-referencing as described in the {ref}`style guide<ch-style-crossref>`
   - Convert all HTML formatting to Markdown.
   - Convert image formatting from Markdown to `MyST`.
   - Remove empty files from the `_toc.yml`.
