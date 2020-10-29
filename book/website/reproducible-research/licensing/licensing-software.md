@@ -5,14 +5,11 @@ th, td {
 th {
   font-weight: bold; background-color: #EEEEEE
 }
-tr:nth-child(even) td {
-  background-color: #EEEEEE;
-}
 table caption {
-  color: black; text-align: center
+  color: black; text-align: center;
 }
 table caption .footnote {
-  color: #999999; text-align: left; font-size: smaller;
+  color: #666666; text-align: left; font-size: smaller;
 }
 </style>
 
@@ -57,7 +54,6 @@ To make some sense of this variety, we can categorize them as follows.
       <div class="footnote">
         <sup>1</sup>GPL: GNU General Public License <sup>2</sup>CDDL: Common Development and Distribution License <sup>3</sup>LGPL: GNU Lesser General Public License <sup>4</sup> MPL: Mozilla Public License <sup>5</sup> BSD: Berkley Software Distribution <sup>6</sup> MIT: Massachusetts Instititue of Technology
       </div>
-      <br/>
       Licenses can either be Free or Propietary, with Free Licenses further classified as Copyleft or Permissive.
     </caption>
 </table>
@@ -188,9 +184,8 @@ They may also require that the recipient of the combined work can re-link the mo
     </tbody>
     <caption>
       <div class="footnote">
-        <sup>2</sup>Under any license for the MIT license <sup>2</sup>Relicensing LGPL to GPL is allowed
+        <sup>1</sup>Under any license for the MIT license <sup>2</sup>Relicensing LGPL to GPL is allowed
       </div>
-      <br/>
       Permissive licenses grant the largest set of permissions to users. Copyleft licenses require redistribution of the original or modified source to use the same license, with weak copyleft licences allowing a different choice of license for the combined work. Proprietary licenses rarely provide any permissions beyond the right to use the software.
     </caption>
 </table>
