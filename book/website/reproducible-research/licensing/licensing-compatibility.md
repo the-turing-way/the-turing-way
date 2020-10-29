@@ -181,7 +181,7 @@ There are five works: Snowball, chardet, unidecode, the xtas Python code, and xt
 
 #### Can the derivative works be distributed? Do the licenses allow this, and are they compatible?
 
-The four components are under free software licenses, and the xtas authors own the copyright, so they can be distributed.
+The four non-xtas components are under free software licenses, and the xtas authors own the copyright to the xtas Python code, so all five components can be distributed by the xtas authors.
 The BSD, LGPLv2.1 and GPLv2+ all allow licensing the combined work under the GPL version 2 or higher, so there is at least one license that the combined work can be licensed under.
 
 #### How should the work(s) be licensed?
