@@ -13,7 +13,7 @@ Proper formatting ensures that _The Turing Way_ is readable, accessible, and res
 The hard requirements in the consistency checklist ensure that _The Turing Way_ prioritises accessibility, collaboration, readability and ease of use. 
 The checks that deal with the _The Turing Way's_ formatting include: 
 
-(ch-consistency-formatting-hr-one)=
+(ch-consistency-formatting-hr-labels)=
 ### Check 1: Add labels to chapters, subchapters, sections and images to enable cross-referencing
 
 Often, a chapter might refer to content from another chapter to explain a concept or expand on a point.
