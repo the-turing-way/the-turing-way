@@ -30,9 +30,6 @@ An overview of these requirements is itemised {ref}`below <ch-consistency-requir
 (ch-consistency-requirements-checklist)=
 ### Consistency Checklist
 
-> This checklist was developed based on the insights gained from _The Turing Way's_ participation in 2020's [Google Season of Docs](https://developers.google.com/season-of-docs) (GSoD) Programme.
-> The PRs and issues related to this Programme are tagged with the `gsod2020` label in _The Turing Way's_ Github repo.
-
 #### Hard Requirements
   - Use MarkDown for creating your content (see this [cheatsheet from WordPress](https://wordpress.com/support/markdown-quick-reference/))
   - Use the headers in sequential order (for example, starting the top level with h1 tag `#`, second-level header with h2 tag `##` and so on)
