@@ -18,20 +18,13 @@
 
 ***Dieses README.md gibt es auch auf Holländisch ([README-Dutch](README-translated/README-Dutch.md)), Portugiesisch ([README-Portuguese](README-translated/README-Portuguese.md)), Spanisch ([README-Spanish](README-translated/README-Spanish.md)) und Englisch ([README-English](README.md)).***
 
-_The Turing Way_  ist ein Guide zur reproduzierbaren Data Science.
-Sie finden den Guide hier: <https://the-turing-way.netlify.com>
-Momentan befinden Sie sich im GitHub Repositorie des Projektes. Hier werden
-alle Teile des Guides gesammelt und weiter an dem Guide gearbeitet.
+_The Turing Way_  ist ein Handbuch zur reproduzierbaren Data Science, das sie hier finden können: <https://the-turing-way.netlify.com>.
+Momentan befinden Sie sich im GitHub Repository des Projektes. Hier werden
+alle Teile des Handbuchs gesammelt und gemeinsam weiterentwickelt.
 
-Unser Ziel ist es, Forschern (und allen Interessierten) alle Informaationen bereitzustellen, die sie
-brauchen, um ein reproduzierbares Projekt durchzuführen.
+Unser Ziel ist es, Forschern (und allen Interessierten) die notwendigen Informationen zugänglich zu machen, die es ihnen ermöglichen ein Projekt reproduzierbar durchzuführen.
 
-Reproduzierbarkeit eines Projektes bedeutet auch, dass alle Doktoranden, PhD Studenten, Postdocs, PIs
-und andere wissenschaftliche Mitarbeitende und Team wissen müssen, welche
-Aufgaben sie beim Thema "Verantwortungsvoller Umgang mit Reproduzierbarkeit"
-sie übernehmen und wie ihre Arbeit das Thema beeinflusst und auch wie diese
-verbessert werden kann. Somit soll Data Science effizienter und leichter zu
-verstehen werden.
+Alle Beteiligten, z.B. Doktoranden, PhD Studenten, Postdocs, PIs und wissenschaftliche Mitarbeiter, können zum verantwortungsvollen Umgang mit Reproduzierbarkeit beitragen. Dieses Handbuch zeigt auf, welche Aufgaben sie übernehmen können um Data Science effizienter, effektiver und leichter verständlich zu machen.
 
 Inhaltsverzeichnis:
 
@@ -42,72 +35,66 @@ Inhaltsverzeichnis:
 - [Kontakt](#kontakt)
 - [Beitragende](#beitragende)
 
-Wenn Sie eine Audio-Version der Einführung in das Projekt bevorzugen, so finden
-Sie hier eine Aufnahme von Rachel [Open Science Fair 2019](https://www.opensciencefair.eu/) in Port.
-Aufgenommen wurde von [Orion podcast](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
-Die Audio-Version ist aktuell leider nur auf Englisch verfügbar.
+Wenn Sie eine Audio-Version als Einführung in das Projekt bevorzugen, finden
+Sie [hier](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/) ein Interview mit Rachael Ainsworth, das im Rahmen der [Open Science Fair 2019](https://www.opensciencefair.eu/) in Porto aufgenommen wurde. Die Audio-Version ist aktuell leider nur auf Englisch verfügbar.
 
-Der Part über _The Turing Way_ startet bei Minute 5:13.
+Der Beitrag über _The Turing Way_ beginnt bei Minute 5:13.
 
 ### Über das Projekt
 
-Reproduzierbare Forschung ist unerlässlich um das Vertrauen in die Wissenschaft
+Reproduzierbare Forschung ist unerlässlich um das Vertrauen in Wissenschaft
 und die geleistete Arbeit zu sichern.
 Verlage und Geldgeber verlangen mittlerweise auch häufig, dass die genutzen
-Daten, sowie der Code für die Leser von Publikationen verfügbar sind.
+Daten und der Quellcode für die Leser von Publikationen verfügbar sind.
 
-Das Ziel ist, dass dadurch alle Ergebnise unabhängig verifiziert werden können
-und weitere Arbeit somit darauf aufbauen kann.
+Ziel ist es, dass alle Ergebnisse unabhängig verifiziert werden können
+und weitere Arbeit auf ihnen aufbauen kann.
 Das ist oft aber leichter gesagt als getan.
 
-Die Ergebnisse der Forschung teilen zu können, braucht Verständnis von Data
-Management, Library Sciences, Software Development und Continuous Integration
-Techniken. Alles Dinge, die nicht breit unterrichtet werden und auch häufig
+Um Forschungsergebnisse zugänglich zu machen, braucht man Kenntnisse in den Bereichen Datenverwaltung, Bibliothekswissenschaften, Software Entwicklung und Kontinuierliche Integration. Alles Dinge, die selten unterrichtet werden und häufig
 nicht von akademischen Forschern und Data Scientists erwartet werden.
-Da diese Skills nicht allgemein unterrischtet werden, ist es für Anfänger
-häufig schwierig in diese neue Welt einzusteigen und einen Beitrag zur
-Reproduzierbarkeit zu leisten.
-*The Turing Way* ist ein Handbuch, was Studierende, ihre Betreuenden,
-Förderer von Projekten oder auch Verleger unterstützen soll, sodass
-verantwortungsvoller Umgang mit der Reproduzierbarkeit für jeden einfach
-zugänglich wird. Egal, ob man vorher schon mal in dem Feld gearbeitet hat.
 
-Das Handbuch enthält Material zu Version Control, Analysis Testing und offener
-und transparenter Kommunikation mit zukünftigen Nutzern. 
-Das Projekt wird offen entwickelt und alle Fragen, Anmerkungen und Empfehlungen
-können gerne an das GitHub Repository <https://github.com/alan-turing-institute/the-turing-way> gerichtet werden.
+Deshalb ist es für Anfänger
+häufig schwierig einen Einstieg in das Thema Reproduzierbarkeit zu finden und ihren Teil dazu beizutragen.
+
+*The Turing Way* ist ein Handbuch, das Studierenden, ihren Betreuenden,
+Förderern von Projekten oder Verlegern den verantwortungsvollen Umgang mit Reproduzierbarkeit erleichtert - selbst wenn sie keine Vorkenntnise auf diesem Gebiet haben.
+
+Das Handbuch enthält Material zu den Themen Versionsverwaltung, Testen von Analysen und offener und transparenter Kommunikation mit zukünftigen Nutzern.
+
+Das Projekt wird öffentlich entwickelt. Fragen, Anmerkungen und Empfehlungen
+sind herzlich willkommen und können über das GitHub Repository <https://github.com/alan-turing-institute/the-turing-way> eingesandt werden.
 
 ### Das Team
 
-Dies ist ein Teil des Teams, das am Turing Institure mitarbeitet.
-Für weitere Informationen, wie man uns kontaktiert, lesen Sie bitte die [Dokumentation der Arbeitsweise](ways_of_working.md).
+Dies ist ein Teil des Teams, das am Turing Institut mitarbeitet.
+Für Informationen darüber, wie man uns kontaktiert, lesen Sie bitte die [Dokumentation der Arbeitsweise](ways_of_working.md).
 
 ![Team photo](book/website/figures/TuringWayTeam.jpg)
 
 ### Mitarbeiten
 
-:construction: An diesem Repository wir dauerhaft gearbeitet und **jeder** ist
-willkommen mitzuhelfen, Dinge hinzuzufügen, die hilfreich für viele sind.
+:construction: An diesem Repository wird kontinuierlich gearbeitet. Wir laden **alle** ein dabei mitzuhelfen, so dass das Projekt für möglichst viele hilfreich ist.
 :construction:
 
-Jeder wird gebeten den [Hinweisen zur Verhaltensweise](CODE_OF_CONDUCT.md) zu folgen und die [contributing Guidelines](CONTRIBUTING.md) zu lesen
+Alle Beitragenden werden gebeten den [Verhaltenskodex](CODE_OF_CONDUCT.md) einzuhalten und die [Hinweise für Beitragende](CONTRIBUTING.md) zu lesen.
 
-Wenn Sie noch neu sind, was die Mitarbeit an Projekten auf GitHub angeht, können Sie hier auch eine Fallstudie und weitere Tipps und Tricks finden [Google submission form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
+Wenn Sie noch wenig Erfahrung mit der Zusammenarbeit über GitHub Projekte haben, können sie Fallstudien und ihre Tipps und Tricks auch über unser [Google Formular](https://goo.gl/forms/akFqZEIy2kxAjfZW2) einreichen.
 
 ### _The Turing Way_ zitieren
 
 Sie können _The Turing Way_ über das Zenodo Archiv mit der DOI:
 [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853) zitieren.
-DOIs geben und die Möglichkeit, das Repository zu archivieren und fördern die
+DOIs geben uns die Möglichkeit, das Repository zu archivieren und fördern die
 Nachverfolgbarkeit der Nutzung in akademischen Veröffenlichungen.
 
 Das Zitat wird ungefähr folgendermaßen aussehen:
 
 > The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. <http://doi.org/10.5281/zenodo.3233986>
 
-Es kann auch eine normale URL so einer Seite des Buches zitiert werden, zum Beispiel: <https://the-turing-way.netlify.com/reproducibility/03/definitions.html>, aber da das Projekt regelmäßig bearbeitet wird, kann es sein, dass sich die Links mit der Zeit verändern und eventuell irgendwann nicht mehr funktionieren oder auf eine andere Seite leiten.
+Man kann eine Seite des Buches auch als normale Internetadresse (URL) zitieren, zum Beispiel: <https://the-turing-way.netlify.com/reproducibility/03/definitions.html>. Da das Projekt allerdings regelmäßig weiterentwickelt wird, kann es sein, dass sich die Links mit der Zeit verändern und eventuell irgendwann nicht mehr funktionieren oder auf eine andere Seite leiten.
 
-Es gibt die Möglichkeit einen Link zum Web-Archiv einzubinden: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html>, um sicherzugehen, dass man nicht überall falsche oder nicht-funktionierende Links hat.
+Es gibt die Möglichkeit einen Link zum Web-Archiv einzubinden: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html>, um sicherzugehen, dass man nicht überall falsche oder defekte Links hat.
 
 Wir freuen uns über jede Referenz auf _The Turing Way_ und hoffen, dass Ihnen
 das Projekt genutzt hat.
@@ -116,7 +103,7 @@ Wenn Sie irgendwelche Fragen haben, dann melden Sie sich bitte! [Kontakt](#konta
 
 ### Zitieren der _The Turing Way_ Abbildungen
 
-_The Turing Way_ Abbildungen wurden von einem Künstler von [Scriberia](https://www.scriberia.co.uk/) als Teil des [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) in Manchester am 17 Mai 2019, und in London am 28 Mai 2019 and 21 Februar 2020 erstellt.
+_The Turing Way_ Abbildungen wurden von einem Künstler von [Scriberia](https://www.scriberia.co.uk/) als Teil des [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) in Manchester am 17 Mai 2019, und am 28 Mai 2019 and 21 Februar 2020 in London erstellt.
 
 Die Abbildungen sind über Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) unter einer CC-BY Lizenz verfügbar.
 
@@ -411,5 +398,5 @@ Ein großer Dank geht an alle, die mitgearbeitet haben ([emoji key](https://allc
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Das Projekt folgt den [alle Mitarbeitende](https://github.com/all-contributors/all-contributors) Spezifikationen.
+Das Projekt folgt den [alle-Beitragenden](https://github.com/all-contributors/all-contributors) Spezifikationen.
 Mitarbeit jeder Art ist immer willkommen!
