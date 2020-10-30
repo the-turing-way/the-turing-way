@@ -35,7 +35,7 @@ An overview of these requirements is itemised {ref}`below <ch-consistency-requir
   - Use the headers in sequential order (for example, starting the top level with h1 tag `#`, second-level header with h2 tag `##` and so on)
   - Add labels to chapters, subchapters and images to enable cross-referencing as described in the {ref}`style guide<ch-style-crossref>`
   - Avoid any HTML formatting, or remove all HTML tags when reviewing existing chapters
-  - Use image formatting from Markdown to `MyST` as described in the {ref}`style guide<ch-style-figures>`
+  - Use `MyST` for image formatting as described in the {ref}`style guide<ch-style-figures>`
     - Use public domain images that are less than 1MB in size and cite appropriately
     - Add a descriptive ALT text to images to allow screen reading software to describe images well to its users
   - Ensure chapters follow a structure as described in this [chapter template](https://github.com/alan-turing-institute/the-turing-way/blob/master/templates/CHAPTER_TEMPLATE.md)

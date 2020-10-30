@@ -22,7 +22,7 @@ Cross-Referencing helps make _The Turing Way_ easily navigable and accessible.
 
 {ref}`Cross-Referencing <ch-style-crossref>` is discussed in detail in the {ref}`ch-style-guide`. The subchapter explains what labels are, provides a naming convention for labels in _The Turing Way_, and gives several useful examples for how cross-referencing should be done.
 
-(ch-consistency-formatting-hr-two)=
+(ch-consistency-formatting-hr-markdown)=
 ### Check 2: Convert `HTML` formatting to Markdown
 
 _The Turing Way_ is a [`jupyter-book`](https://jupyterbook.org/intro.html) and should be written in [Markdown](https://en.wikipedia.org/wiki/Markdown), where possible, so that it renders as intended. 
