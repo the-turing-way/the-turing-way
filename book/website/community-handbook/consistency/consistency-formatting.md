@@ -11,29 +11,20 @@ Proper formatting ensures that _The Turing Way_ is readable, accessible, and res
 ## Hard Requirements
 
 The hard requirements in the consistency checklist ensure that _The Turing Way_ prioritises accessibility, collaboration, readability and ease of use. 
-The checks that deal with the _The Turing Way's_ formatting include: 
-
-(ch-consistency-formatting-hr-labels)=
-### Check 1: Add labels to chapters, subchapters, sections and images to enable cross-referencing
-
-Often, a chapter might refer to content from another chapter to explain a concept or expand on a point.
-Cross-Referencing facilitates this by ensuring that the referred content is easy to find with a simple click.
-Cross-Referencing helps make _The Turing Way_ easily navigable and accessible.
-
-{ref}`Cross-Referencing <ch-style-crossref>` is discussed in detail in the {ref}`ch-style-guide`. The subchapter explains what labels are, provides a naming convention for labels in _The Turing Way_, and gives several useful examples for how cross-referencing should be done.
+The checks that deal with the _The Turing Way's_ formatting include:
 
 (ch-consistency-formatting-hr-markdown)=
-### Check 2: Convert `HTML` formatting to Markdown
+### Check 1:  Use Markdown for creating your content
 
-_The Turing Way_ is a [`jupyter-book`](https://jupyterbook.org/intro.html) and should be written in [Markdown](https://en.wikipedia.org/wiki/Markdown), where possible, so that it renders as intended. 
+_The Turing Way_ is a Jupyter Book and should be written in [Markdown](https://en.wikipedia.org/wiki/Markdown), where possible, so that it renders as intended. 
 
 Some chapters in _The Turing Way_ are not entirely written in Markdown, making some of its content hard to read.
-For example, in the {ref}`Licencing <rr-licensing>` chapter of the {ref}`rr`, the {ref}`Software Licences <rr-licensing-software>` subchapter contains a table that is written in `HTML`.
+For example, {ref}`html_to_markdown` depicts a table that is written in `HTML`.
 
 ```{figure} ../../figures/html_to_markdown.png
 ---
 name: html_to_markdown
-alt: A screenshot of a poorly formatted table written in HTML. The table is squished together making it hard to decipher its meaning.
+alt: A screenshot of a poorly formatted table written in HTML. The table is squished together and does not have column or row borders. This makes it hard for a reader to decipher its meaning.
 ---
 Content written in HTML may not render properly.
 ```
@@ -45,59 +36,20 @@ However, when converted to Markdown, the table becomes cleaner and easier to rea
 name: html_to_markdown2
 alt: A screenshot of a table converted to Markdown from HTML. The table becomes easier to read and understand when converted to Markdown.
 ---
-Converting HTML to Markdown makes The Turing Way easier to read.
+Converting HTML to Markdown makes The Turing Way book easier to read.
 ```
 > A PR that addresses this check can be found [here](https://github.com/alan-turing-institute/the-turing-way/pull/1460).
 
 Chapter content written in `HTML` are usually enclosed in tags which begin and end with angle brackets `<>`. [W3Schools](https://www.w3schools.com/html/html_elements.asp) is an excellent resource for understanding what these tags mean, and Markdown reference guides, such as [this](https://www.markdownguide.org/cheat-sheet/), can help in translating `HTML` formatting to Markdown.
-There are also helpful [tools](https://jmalarcon.github.io/markdowntables/) that convert HTML to Markdown with a single click.
+There are also helpful [tools](https://jmalarcon.github.io/markdowntables/) that convert `HTML` to Markdown with a single click.
 
 Please note that it may not always be possible to convert `HTML` to Markdown. 
 In such cases, it is acceptable to leave the formatting as it is, if the content can still be read and understood. 
 For example, superscripts and subscripts can not be written in Markdown.
 They must be written in `HTML` with their [corresponding tags](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript).
 
-(ch-consistency-formatting-hr-three)=
-### Check 3: Convert image formatting from Markdown to `MyST`
-
-Some figures and images in _The Turing Way_ are written using Markdown syntax.
-While this works, it does not allow the images to adapt to the screen size of the device the book is read from. 
-
-Markedly Structured Text (`MyST`) is a flavour of Markdown that addresses this and allows the inclusion of responsive images in the _The Turing Way_.
-
-Converting images from Markdown to `MyST` is explained in {ref}`this <ch-style-figures>` subchapter of the {ref}`ch-style-guide`.
-
-(ch-consistency-formatting-hr-four)=
-### Check 4: Ensure chapters are consistent with the Turing Way Style Guide
-
-Although the {ref}`ch-style-guide` contains suggestions to help keep _The Turing Way_ accessible and consistent, not all chapters follow these suggestions.
-
-As _The Turing Way_ evolves and improves, the {ref}`Style Guide's <ch-style-guide>` recommendations will remain an essential point of reference. 
-To ensure that accessibility and consistency in _The Turing Way_ can be retrospectively achieved, a suggestion is to read through the book keeping while keeping the {ref}`Style Guide's <ch-style-guide>` recommendations in mind. 
-
-An overview of these recommendations are itemised below, and detailed explanations about each suggestion can be found in the {ref}`ch-style-guide`.
-
-- Recommendations
-    - Write each sentence in a new line
-    - Avoid Latin abbreviation
-    - Cite and reference external resources appropriately
-    - Follow _The Turing Way_'s convention for cross-referencing
-    - Follow _The Turing Way_'s convention for adding images to chapters
-
-
-(ch-consistency-formatting-hr-five)=
-### Check 5: Add ALT text to images
-
-Alternative text (ALT text) are the invisible image descriptions that are read aloud to readers of _The Turing Way_ who use a screen reader.
-
-If no ALT text is provided with an image, these users will be unable to understand the intended message of the image.
-
-To maintain and promote accessibility in _The Turing Way_, ensure that all images in a chapter contain ALT text.
-
-Adding ALT text to an image is discussed in {ref}`this <ch-style-figures>` subchapter of the {ref}`ch-style-guide`.
-
 (ch-consistency-formatting-hr-six)=
-### Check 6: Fix Markdown formatting of non-consecutive headers
+### Check 2: Use the headers in sequential order
 
 Non-consecutive headers refer to an increase in header levels of more than one. 
 For example:
@@ -114,8 +66,40 @@ Ideally, all Markdown files should start with a level 1 heading and increase seq
 ## Another Heading
 ```
 
-Several files in _The Turing Way_ do not follow this convention. 
-A list of such files can be found in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1321), and [this PR](https://github.com/alan-turing-institute/the-turing-way/pull/1451) demonstrates how to fix a file with non-consecutive headers.
+Several files in _The Turing Way_ book do not follow this convention. 
+A list of such files can be found in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1321), and [this PR](https://github.com/alan-turing-institute/the-turing-way/pull/1451) is a great example of how to fix a file with non-consecutive headers.
+
+
+(ch-consistency-formatting-hr-labels)=
+### Check 3: Add labels to chapters, subchapters, sections and images to enable cross-referencing
+
+Often, a chapter might refer to content from another chapter to explain a concept or expand on a point.
+Cross-Referencing facilitates this by ensuring that the referred content is easy to find with a simple click.
+As a result, cross-referencing helps make _The Turing Way_ easily navigable and accessible.
+
+{ref}`Cross-Referencing <ch-style-crossref>` is discussed in detail in the {ref}`ch-style-guide`. The subchapter explains what labels are, provides a naming convention for labels in _The Turing Way_, and gives several useful examples for how cross-referencing should be done.
+
+
+(ch-consistency-formatting-hr-images)=
+### Check 4: Use `MyST` for image formatting
+
+Some figures and images in _The Turing Way_ are written using Markdown syntax.
+While this works, it does not allow the images to adapt to the screen size of the device the book is read from. 
+
+Markedly Structured Text (`MyST`) is a flavour of Markdown that addresses this and enables the inclusion of responsive images in the _The Turing Way_.
+
+It also allows the use of captions and alternative text (ALT text), which are the invisible image descriptions that are read aloud to readers of the _The Turing Way_ book that use a screen reader.
+If no ALT text is provided with an image, these users will be unable to understand the intent of the image.
+
+When writing ALT text, remember to:
+- **Be descriptive** - Adequately describe the image using the its content and the context in which it is used for guidance. 
+In doing so, there is no need to "announce" an image in the description (for example, using "illustration of" or "picture of") since screen readers will already do this.
+- **Keep it as short as possible** - Although a long description may be necessary for some images, it is often better to keep them as short as possible. This ensures that the descriptions are easy to understand.
+
+Please note that images included in _The Turing Way_ book should be less than 1MB.
+This allow the book load faster, especially for readers who may have slow internat connections.
+
+Please refer to the {ref}`style guide <ch-style-figures>` for examples on formatting images using `MyST` and adding ALT text to images.
 
 (ch-consistency-formatting-sr)=
 ## Soft Requirements
@@ -125,22 +109,25 @@ When effected, these checks may go unnoticed, but they also make _The Turing Way
 Soft requirements that deal with _The Turing Way's_ formatting include: 
 
 (ch-consistency-formatting-sr-one)=
-### Check 1: Ensure the titles of chapters\subchapters match the left ToC
+### Check 1: Ensure that the names of chapters/subchapters are short and map exactly to how they are titled in the `_toc.yml`
 
-The titles of some chapters and subchapters in _The Turing Way_ do not match their corresponding references in the ToC on the left of the webpage.
-This may be confusing for some users, especially when the chapter\subchapter's reference in ToC significantly varies from the chapter\subchater's title.
+Some chapters and subchapters in _The Turing Way_ do not match their corresponding references in the book-wide table of contents that appears on the left of the webpage.
+This may be confusing for some users, especially when the chapter/subchapter's reference in the table of content significantly varies from the chapter/subchater's name.
 
 ```{figure} ../../figures/mismatched_title_toc.png
 ---
 name: mismatched_title_toc
-alt: A depiction of a subchapter whose title differs from its reference in the Table of Contents. The title of the subchapter is 'Using Spreadsheets for Research Data', however in the Table of Contents, it is referred as 'Data Organisation in Spreadsheets'.
+alt: A subchapter whose title differs from its reference in the table of contents. The title of the subchapter is 'Using Spreadsheets for Research Data', however in the table of contents, it is referred as 'Data Organisation in Spreadsheets'.
 ---
 The title of this subchapter is 'Using Spreadsheets for Research Data', however the TOC refers to the same file as 'Data Organisation in Spreadsheets'.
 ```
 
-In ensuring that _The Turing Way_ passes this check, one recommendation to follow is to keep the titles short.
-If a chapter's title and ToC reference differ, make the shorter of the two the chapter's title, and update the `.toc.yml` if necessary. 
-However, remember that the final title should adequately tell readers what to expect from a chapter.
+In ensuring that _The Turing Way's_ content passes this check, one recommendation to follow is to keep the titles short.
+If a chapter's title and its reference in the table of contents differ, make the shorter of the two the chapter's title, and update the `_toc.yml` if necessary. 
+
+> The `_toc.yml` is the file where the book-wide table of contents for _The Turing Way_ lives.
+
+However, remember that the final title should adequately tell readers what to expect from a chapter or subchapter.
 
 
 (ch-consistency-formatting-sr-two)=
@@ -155,7 +142,7 @@ Although _The Turing Way_ does not follow a specific title capitalisation style,
 - Lowercase articles, conjunctions, and prepositions (unless when these are stressed)
 - Capitalise the first and last words
 
-There are helpful tools, such as [CapitalizeMyTitle](https://capitalizemytitle.com/), that help with title-casing.
+There are helpful tools, such as [CapitalizeMyTitle](https://capitalizemytitle.com/), that can be used to title-case headers.
 Headers in _The Turing Way_ can be run through these tools to check if they follow title-casing conventions.
 They can then be replaced within chapters and in the `_toc.yml` as appropriate.
 

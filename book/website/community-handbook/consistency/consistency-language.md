@@ -7,7 +7,6 @@ A consistent language ensures that _The Turing Way_ is clear and understandable.
 (ch-consistency-language-hr)=
 ## Hard Requirements
 
-The hard requirements in the consistency checklist ensure that _The Turing Way_ prioritises accessibility, collaboration, readability and ease of use. 
 The checks that deal with _The Turing Way's_ language include: 
 
 (ch-consistency-language-hr-one)=

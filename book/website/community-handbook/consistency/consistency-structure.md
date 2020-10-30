@@ -7,7 +7,6 @@ A good structural framework ensures that _The Turing Way's_ content is presented
 (ch-consistency-structure-hr)=
 ## Hard Requirements
 
-The hard requirements in the consistency checklist ensure that _The Turing Way_ prioritises accessibility, collaboration, readability and ease of use. 
 The checks that deal with _The Turing Way's_ structure include: 
 
 (ch-consistency-structure-hr-one)=
@@ -73,8 +72,6 @@ The manually written ToC is unnecessary as jupyter-books auto-generates two ToCs
 (ch-consistency-structure)=
 ## Soft Requirements
 
-Soft requirements help improve the overall look and feel of _The Turing Way_.
-When effected, these checks may go unnoticed, but they also make _The Turing Way_ a polished piece of work.
 Soft requirements that deal with _The Turing Way's_ structure include: 
 
 (ch-consistency-structure-sr-one)=
