@@ -21,7 +21,7 @@ In order to collaborate with others, hosting services, such as GitHub, can store
 Usually, you will have a local repository and a *remote*, web-hosted repository.
 Your local repository is connected to the web-based clone.
 In technical terms, the web-based clone is a `remote` of the local repository. Usually, this remote is called "origin".
-Having a web-based remote allows you to *push* changes to your project online. 
+Having a web-based remote allows you to *push* changes to your project online.
 It enables others to obtain their own clone of your repository (a copy of your repository to their local computer), make changes, and submit a *pull request* that allows you to integrate their changes.
 For example, one can create an independent local copy of a project using the following Git command:
 
@@ -72,7 +72,7 @@ You can also make changes directly on the GitHub by editing the online repositor
 Others can also clone the repository to their computer by using:
 
 ```
-git clone https://GitHub.com/your_username/repository_name.Git
+git clone git@github.com:your-github-username/repository_name
 ```
 
 They can make and commit changes to the code without impacting the original, and push their changes to *their* online GitHub account using:
@@ -99,7 +99,7 @@ git push origin branch-name
 
 However, if you can not directly edit the repository (when you are not an owner or admin of the project), you will be able to share your work with the help of *pull requests*.
 A pull request allows a contributor to get the proposed changes from their branch or repository integrated into the master branch of the project.
-It is also possible to make pull requests via the command line (see the GitLab documentation [here](https://git-scm.com/docs/git-request-pull)). 
+It is also possible to make pull requests via the command line (see the GitLab documentation [here](https://git-scm.com/docs/git-request-pull)).
 
 (rr-vcs-github-contributing)=
 ## Contributing to Other Projects
@@ -115,18 +115,18 @@ Therefore, when working on different branches or forks of a repository, it is a 
 Using the fork button on the GitHub repository you wish to contribute to, create a copy of the repository in your account.
 The master repository that you forked will be referred to as the "upstream" repository.
 
-You can now work on your copy using the command line, via the following steps:
+You can now work on your copy using the command line, via the following steps (make sure you replace the placeholder user and repository names):
 
 1. Clone it to your local machine:
 
     ```
-    git clone git@github.com/your_username/forked_repository.git
+    git clone git@github.com:your-github-username/repository_name
     ```
 
-2. Add the 'upstream' repository to the list of remote repositories using a similar command as below (replace the upstream repository's users id and original repository name):
+2. Add the 'upstream' repository to the list of remote repositories using the ``git remote`` command:
 
     ```
-    git remote add upstream https://github.com/upstream_user's_username/original_repository.git
+    git remote add upstream git@github.com:upstream-github-username/repository_name
     ```
 
 3. Verify the new remote 'upstream' repository:
