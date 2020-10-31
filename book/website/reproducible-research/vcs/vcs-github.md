@@ -192,6 +192,12 @@ Now you can make a pull request!
 
 Before you create a branch, make sure you have all the upstream changes from the origin/master branch.
 
+
 **A word of caution on the `rebase` command**: While trying to keep your branches in sync, you may come across the `rebase` command.
 It tends to rewrite history and could be troublesome if not communicated with others working on the same branch. Try to avoid using the `rebase` command, and instead use `pull` or `fetch`+`merge`, as discussed in this section.
-You can find more details about Merging vs Rebasing [here](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+You can find more details about [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing).
+
+
+## Further reading
+- An [article on syncing a fork of a repository](https://help.github.com/en/articles/syncing-a-fork) to keep it up-to-date with the upstream repository.
+- Instructions if you wish to do it all [in the browser itself](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser).
