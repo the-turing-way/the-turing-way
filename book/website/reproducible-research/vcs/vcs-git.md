@@ -51,3 +51,37 @@ git commit
 Congratulations, you have finished setting up your repository!
 
 You will learn more about `git commit` in the next chapter.
+
+## Example
+
+For the examples of version control, we will use an example of tracking changes to recipes.
+To follow along, make a directory called `recipes`.
+Enter it and create a single file, `water.txt`, that just says `Water` at the top.
+When you've finished, run `git init` as described above.
+It should respond back with something like
+```
+Initialized empty Git repository in /Users/joshuateves/recipes/.git/
+```
+and you'll have your first repository! :tada:
+Now if you run
+```
+git add water.txt
+```
+You'll be ready to make your first commit, which we'll do in the next section.
+You can verify that these changes are "staged" (ready for commit) with `git status` as indicated above.
+You should see the following:
+```
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   water.txt
+```
+Much of the information above will be more useful as we describe more of git's features, but for a quick overview:
+- We're told which "branch" we're on
+- Git tells us we have no commits yet
+- Git tells us how to "unstage" our changes (undo what we just did)
+- Summarizes the changes that we're prepared to commit (adding a file, `water.txt`)

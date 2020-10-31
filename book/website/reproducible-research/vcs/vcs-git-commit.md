@@ -94,3 +94,38 @@ Further paragraphs come after blank lines.
 
 By committing your changes throughout the development of your project in meaningful units with descriptive and clear commit messages, you can create an easily understandable history.
 This will help you and others to understand the progress of your work, and, as the next section will demonstrate, it will also make it easy to view past versions of your history or revert changes you have made.
+
+### Examples
+
+#### Committing water.txt
+In the previous section, we staged the changes for adding water.txt, and saw that the status was that there were no commits.
+Now, we'll commit the file with
+```
+git commit -m "Add water recipe start"
+```
+and we'll see git announce the changes that were committed:
+```
+[master (root-commit) df9cba7] Add water recipe start
+ 1 file changed, 1 insertion(+)
+ create mode 100644 water.txt
+```
+There's a lot happening at once!
+We'll break it down:
+- `master` is the  branch that we've committed on
+- `(root-commit)` indicates that this is the very first commit
+- `df9cba7` is the commit SHA (yours is almost certainly different), which  provides a convenient short reference to this snapshot in the repository.
+- `Add water recipe start` is the message we provided for the commit
+- `1 file changed, 1 insertion(+)` lets us know that this commit changed one file by adding one line
+- `create mode 100644 water.txt` tells us that we created a new file,`water.txt`, with the file permissions 100644.
+If you're confused about the file permissions, you can read more [here](https://en.wikipedia.org/wiki/File_system_permissions#Traditional_Unix_permissions).
+Mostly, files in git repositories will be readable and writeable.
+Now that we've made the commit, run `git status`.
+It should look like this:
+```
+On branch master
+nothing to commit, working tree clean
+```
+So we're on the master branch.
+We haven't staged anything, so there's nothing to commit.
+"Working tree clean" lets us know there are no chnages to any files, either.
+In essence, git is letting us know that it's our turn to do work and its turn to relax.
