@@ -16,9 +16,9 @@ The checks that deal with the _The Turing Way's_ formatting include:
 (ch-consistency-formatting-hr-markdown)=
 ### Check 1:  Use Markdown for creating your content
 
-_The Turing Way_ is a Jupyter Book and should be written in [Markdown](https://en.wikipedia.org/wiki/Markdown), where possible, so that it renders as intended. 
+As a Jupyter Book, _The Turing Way_ should be written in [Markdown](https://en.wikipedia.org/wiki/Markdown), where possible, so that it renders as intended. 
 
-Some earlier chapters in _The Turing Way_ were not entirely written in Markdown, which coule make some of its content hard to read.
+Some earlier chapters in _The Turing Way_ were not entirely written in Markdown, which could make some of its content hard to read.
 For example, {ref}`html_to_markdown` depicts a table that is written in `HTML`.
 
 ```{figure} ../../figures/html_to_markdown.png
@@ -44,10 +44,10 @@ Chapter content written in `HTML` are usually enclosed in tags which begin and e
 [W3Schools](https://www.w3schools.com/html/html_elements.asp) is an excellent resource for understanding what these tags mean, and Markdown reference guides, such as [this](https://www.markdownguide.org/cheat-sheet/), can help in translating `HTML` formatting to Markdown.
 There are also helpful [tools](https://jmalarcon.github.io/markdowntables/) that convert `HTML` to Markdown with a single click.
 
-Please note that if converting from `HTML` to Markdown is the only option for the desirable formatting of your text, you can use them only if the content in the online book can still be read and understood (use the Netlify preview in your PR to test). 
+Please note that if using `HTML` is the only option for the desirable formatting of your text, you can use them only if the content in the online book can still be read and understood (use the Netlify preview in your PR to test). 
 For example, for superscripts and subscripts, `HTML` with their [corresponding tags](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be used.
 
-(ch-consistency-formatting-hr-six)=
+(ch-consistency-formatting-hr-headers)=
 ### Check 2: Use the headers in sequential order
 
 Non-consecutive headers refer to an increase in header levels of more than one. 
@@ -73,7 +73,7 @@ A list of such files can be found in [this issue](https://github.com/alan-turing
 ### Check 3: Add labels to chapters, subchapters, sections and images to enable cross-referencing
 
 Often, a chapter might refer to content from another chapter to explain a concept or expand on a point.
-Cross-Referencing facilitates this by ensuring that the referred content is easy to find with a simple click.
+Cross-referencing facilitates this by ensuring that the referred content is easy to find with a simple click.
 As a result, cross-referencing helps make _The Turing Way_ easily navigable and accessible.
 
 {ref}`Cross-referencing <ch-style-crossref>` is discussed in detail in the {ref}`ch-style-guide`. The subchapter explains what labels are, provides a naming convention for labels in _The Turing Way_, and gives several useful examples for how cross-referencing should be done.
@@ -132,17 +132,17 @@ However, remember that the final title should adequately tell readers what to ex
 (ch-consistency-formatting-sr-two)=
 ### Check 2: Ensure proper title-casing for headers
 
-The titles of some chapters in _The Turing Way_ do not follow proper title-casing.
+The titles of some chapters in _The Turing Way_ do not use title-casing.
 [Wikipedia](https://en.wikipedia.org/wiki/Title_case) describes title-casing as a capitalisation style used to format the titles and headings of published works.
 Being a citeable reference for individuals seeking to carry out reproducible data science, titles and headings in _The Turing Way_ should be title-cased.
 
-Although _The Turing Way_ does not follow a specific title capitalisation style, some general (non-exhaustive) rules to consider, include:
+Although _The Turing Way_ does not follow a specific title capitalisation style, some general, non-exhaustive rules to consider include:
 - Capitalise principal or important words
 - Lowercase articles, conjunctions, and prepositions (unless when these are stressed)
 - Capitalise the first and last words
 
-There are helpful tools, such as [CapitalizeMyTitle](https://capitalizemytitle.com/), that can be used to title-case headers.
-Headers in _The Turing Way_ can be run through these tools to check if they follow title-casing conventions.
+There are helpful tools, such as [CapitalizeMyTitle](https://capitalizemytitle.com/), that can be used to title-case headers when writing your content.
+Furthermore, headers in _The Turing Way_ can be run through these tools to ensure they follow title-casing conventions.
 They can then be replaced within chapters and in the `_toc.yml` as appropriate.
 
 For example, In {ref}`<mismatched_title_toc>` above, **Using spreadsheets for research data** should be title-cased to **Using Spreadsheets for Research Data**.

@@ -7,7 +7,7 @@ A good structural framework ensures that _The Turing Way's_ content is presented
 (ch-consistency-structure-hr)=
 ## Hard Requirements
 
-The checks that deal with _The Turing Way's_ structure include: 
+The hard checks that deal with _The Turing Way's_ structure include: 
 
 (ch-consistency-structure-hr-emptyfiles)=
 ### Check 1: Do not add any empty files in the `_toc.yml`

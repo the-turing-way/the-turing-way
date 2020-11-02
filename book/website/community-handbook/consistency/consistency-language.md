@@ -7,7 +7,7 @@ A consistent language ensures that _The Turing Way_ is clear and understandable.
 (ch-consistency-language-hr)=
 ## Hard Requirements
 
-The checks that deal with _The Turing Way's_ language include: 
+The hard checks that deal with _The Turing Way's_ language include: 
 
 (ch-consistency-language-hr-grammar)=
 ### Check 1: Ensure correct grammar and a consistent tone across the book
