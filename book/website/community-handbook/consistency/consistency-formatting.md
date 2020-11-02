@@ -18,7 +18,7 @@ The checks that deal with the _The Turing Way's_ formatting include:
 
 _The Turing Way_ is a Jupyter Book and should be written in [Markdown](https://en.wikipedia.org/wiki/Markdown), where possible, so that it renders as intended. 
 
-Some chapters in _The Turing Way_ are not entirely written in Markdown, making some of its content hard to read.
+Some earlier chapters in _The Turing Way_ were not entirely written in Markdown, which coule make some of its content hard to read.
 For example, {ref}`html_to_markdown` depicts a table that is written in `HTML`.
 
 ```{figure} ../../figures/html_to_markdown.png
@@ -29,7 +29,7 @@ alt: A screenshot of a poorly formatted table written in HTML. The table is squi
 Content written in HTML may not render properly.
 ```
 
-However, when converted to Markdown, the table becomes cleaner and easier to read.
+When converted to Markdown, the table became cleaner and easier to read.
 
 ```{figure} ../../figures/html_to_markdown2.png
 ---
@@ -40,13 +40,12 @@ Converting HTML to Markdown makes The Turing Way book easier to read.
 ```
 > A PR that addresses this check can be found [here](https://github.com/alan-turing-institute/the-turing-way/pull/1460).
 
-Chapter content written in `HTML` are usually enclosed in tags which begin and end with angle brackets `<>`. [W3Schools](https://www.w3schools.com/html/html_elements.asp) is an excellent resource for understanding what these tags mean, and Markdown reference guides, such as [this](https://www.markdownguide.org/cheat-sheet/), can help in translating `HTML` formatting to Markdown.
+Chapter content written in `HTML` are usually enclosed in tags which begin and end with angle brackets `<>`. 
+[W3Schools](https://www.w3schools.com/html/html_elements.asp) is an excellent resource for understanding what these tags mean, and Markdown reference guides, such as [this](https://www.markdownguide.org/cheat-sheet/), can help in translating `HTML` formatting to Markdown.
 There are also helpful [tools](https://jmalarcon.github.io/markdowntables/) that convert `HTML` to Markdown with a single click.
 
-Please note that it may not always be possible to convert `HTML` to Markdown. 
-In such cases, it is acceptable to leave the formatting as it is, if the content can still be read and understood. 
-For example, superscripts and subscripts can not be written in Markdown.
-They must be written in `HTML` with their [corresponding tags](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript).
+Please note that if converting from `HTML` to Markdown is the only option for the desirable formatting of your text, you can use them only if the content in the online book can still be read and understood (use the Netlify preview in your PR to test). 
+For example, for superscripts and subscripts, `HTML` with their [corresponding tags](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be used.
 
 (ch-consistency-formatting-hr-six)=
 ### Check 2: Use the headers in sequential order
