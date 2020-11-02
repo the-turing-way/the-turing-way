@@ -40,7 +40,8 @@ Converting HTML to Markdown makes The Turing Way book easier to read.
 ```
 > A PR that addresses this check can be found [here](https://github.com/alan-turing-institute/the-turing-way/pull/1460).
 
-Chapter content written in `HTML` are usually enclosed in tags which begin and end with angle brackets `<>`. [W3Schools](https://www.w3schools.com/html/html_elements.asp) is an excellent resource for understanding what these tags mean, and Markdown reference guides, such as [this](https://www.markdownguide.org/cheat-sheet/), can help in translating `HTML` formatting to Markdown.
+Chapter content written in `HTML` are usually enclosed in tags which begin and end with angle brackets `<>`. 
+[W3Schools](https://www.w3schools.com/html/html_elements.asp) is an excellent resource for understanding what these tags mean, and Markdown reference guides, such as [this](https://www.markdownguide.org/cheat-sheet/), can help in translating `HTML` formatting to Markdown.
 There are also helpful [tools](https://jmalarcon.github.io/markdowntables/) that convert `HTML` to Markdown with a single click.
 
 Please note that it may not always be possible to convert `HTML` to Markdown. 
