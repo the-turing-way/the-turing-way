@@ -16,7 +16,7 @@ The Turing Way is not written to be a source of legal expertise. When laws and r
 Don’t make any important decisions based solely on information about laws and regulations in this book..
 
 ### Finding legal expertise
-If you are part of an institution (e.g. a university) or an organisation (e.g. a non-profit), it is very likely that you can access legal advice either in-house or from a specialist firm that already works with your institution or organisation. You should check with them first if you have any concerns.
+If you are part of an institution (for example, a university) or an organisation (for example, a non-profit), it is very likely that you can access legal advice either in-house or from a specialist firm that already works with your institution or organisation. You should check with them first if you have any concerns.
 
 If you are not part of an institution or organisation: 
 - There are law firms that specialise in data and technology who can provide advice in many jurisdictions (see below).
