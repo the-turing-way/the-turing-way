@@ -54,3 +54,6 @@ An overview of these requirements is itemised {ref}`below <ch-consistency-requir
     - Capitalise the first, last and 'important' words of every title; for example, 'Snow White and the Seven Dwarves'.
 
 These checks are further explained in the following subchapters: {ref}`Formatting<ch-consistency-formatting>`, {ref}`Structure<ch-consistency-structure>`, and {ref}`Language<ch-consistency-language>`.
+
+Please note that the classification of our consistency checklist into these subchapters is only to make it easy for us to describe them in the context of format, structure, and language.
+They may not follow the exact order as listed in the checklist on this page.
