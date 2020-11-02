@@ -1,7 +1,7 @@
 (ch-consistency)=
 # Maintaining Consistency
 
-_The Turing Way_ project is an open-source endeavour that empowers contributors from around the world to leverage their skills, knowledge and expertise to build and expand its content.
+_The Turing Way_ is an open-source project that empowers contributors around the world to leverage their skills, knowledge, and expertise to build and expand its content.
 _The Turing Way_ guides are evolving with multiple chapters co-developed by individuals from varied backgrounds, who are all passionate about sharing knowledge around data science and research.
 To sustain and support this vibrant community, _The Turing Way_ book must remain consistent and accessible as it evolves. 
 Although the {ref}`ch-style-guide` chapter already outlines guidelines for keeping a consistent style across the book, not all chapters follow these suggestions as they have been written asynchronously by different authors. 
