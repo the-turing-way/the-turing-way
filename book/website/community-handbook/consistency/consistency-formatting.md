@@ -77,7 +77,7 @@ Often, a chapter might refer to content from another chapter to explain a concep
 Cross-Referencing facilitates this by ensuring that the referred content is easy to find with a simple click.
 As a result, cross-referencing helps make _The Turing Way_ easily navigable and accessible.
 
-{ref}`Cross-Referencing <ch-style-crossref>` is discussed in detail in the {ref}`ch-style-guide`. The subchapter explains what labels are, provides a naming convention for labels in _The Turing Way_, and gives several useful examples for how cross-referencing should be done.
+{ref}`Cross-referencing <ch-style-crossref>` is discussed in detail in the {ref}`ch-style-guide`. The subchapter explains what labels are, provides a naming convention for labels in _The Turing Way_, and gives several useful examples for how cross-referencing should be done.
 
 
 (ch-consistency-formatting-hr-images)=
