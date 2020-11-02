@@ -18,7 +18,7 @@ The checks that deal with the _The Turing Way's_ formatting include:
 
 _The Turing Way_ is a Jupyter Book and should be written in [Markdown](https://en.wikipedia.org/wiki/Markdown), where possible, so that it renders as intended. 
 
-Some chapters in _The Turing Way_ are not entirely written in Markdown, making some of its content hard to read.
+Some earlier chapters in _The Turing Way_ were not entirely written in Markdown, which coule make some of its content hard to read.
 For example, {ref}`html_to_markdown` depicts a table that is written in `HTML`.
 
 ```{figure} ../../figures/html_to_markdown.png
