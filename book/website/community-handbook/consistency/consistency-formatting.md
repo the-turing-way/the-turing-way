@@ -29,7 +29,7 @@ alt: A screenshot of a poorly formatted table written in HTML. The table is squi
 Content written in HTML may not render properly.
 ```
 
-However, when converted to Markdown, the table becomes cleaner and easier to read.
+When converted to Markdown, the table became cleaner and easier to read.
 
 ```{figure} ../../figures/html_to_markdown2.png
 ---
