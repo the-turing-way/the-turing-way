@@ -44,10 +44,8 @@ Chapter content written in `HTML` are usually enclosed in tags which begin and e
 [W3Schools](https://www.w3schools.com/html/html_elements.asp) is an excellent resource for understanding what these tags mean, and Markdown reference guides, such as [this](https://www.markdownguide.org/cheat-sheet/), can help in translating `HTML` formatting to Markdown.
 There are also helpful [tools](https://jmalarcon.github.io/markdowntables/) that convert `HTML` to Markdown with a single click.
 
-Please note that it may not always be possible to convert `HTML` to Markdown. 
-In such cases, it is acceptable to leave the formatting as it is, if the content can still be read and understood. 
-For example, superscripts and subscripts can not be written in Markdown.
-They must be written in `HTML` with their [corresponding tags](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript).
+Please note that if converting from `HTML` to Markdown is the only option for the desirable formatting of your text, you can use them only if the content in the online book can still be read and understood (use the Netlify preview in your PR to test). 
+For example, for superscripts and subscripts, `HTML` with their [corresponding tags](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be used.
 
 (ch-consistency-formatting-hr-six)=
 ### Check 2: Use the headers in sequential order
