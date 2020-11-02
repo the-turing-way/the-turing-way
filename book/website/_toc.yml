@@ -70,25 +70,33 @@
   - title: Licensing
     file: reproducible-research/licensing
     sections:
-    - title: Software licenses
+    - title: Software Licenses
       file: reproducible-research/licensing/licensing-software
+    - title: License Compatibililty
+      file: reproducible-research/licensing/licensing-compatibility
     - title: Data licenses
       file: reproducible-research/licensing/licensing-data
+    - title: Resources
+      file: reproducible-research/licensing/licensing-resources
   - title: Research Data Management
     file: reproducible-research/rdm
     sections:
-    - title: The FAIR principles and practices
+    - title: Research Data
+      file: reproducible-research/rdm/rdm-data
+    - title: The FAIR Principles and Practices
       file: reproducible-research/rdm/rdm-fair
-    - title: Storage and backup
+    - title: Data Storage and Organisation
       file: reproducible-research/rdm/rdm-storage
-    - title: Data organisation in spreadsheets
+    - title: Data Organisation in Spreadsheets
       file: reproducible-research/rdm/rdm-spreadsheets
-    - title: Documentation and metadata
+    - title: Documentation and Metadata
       file: reproducible-research/rdm/rdm-metadata
-    - title: Sharing and archiving data
+    - title: Sharing and Archiving Data
       file: reproducible-research/rdm/rdm-sharing
-    - title: Personal Stories
+    - title: Personal Impact Stories
       file: reproducible-research/rdm/rdm-stories
+    - title: Checklist
+      file: reproducible-research/rdm/rdm-checklist
     - title: Resources
       file: reproducible-research/rdm/rdm-resources
   - title: Reproducible Environments

@@ -18,9 +18,9 @@ alt: A person showing another person what steps to take to make your data resear
 _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```
 
-_The Turing Way_ started by defining reproducibility in the context of this handbook, lay out its importance for science and scientists, and provide an overview of the common concepts, tools and resources.
+_The Turing Way_ started by defining reproducibility in the context of this handbook, laying out its importance for science and scientists, and providing an overview of the common concepts, tools and resources.
 The first few chapters were on {ref}`version control<rr-vcs>`, {ref}`testing<rr-testing>`, and {ref}`reproducible computational environments<rr-renv>`.
 Since the start of this project in 2019, many additional chapters have been written, edited, reviewed, read and promoted by over 100 contributors.
 
-We welcome your contributions to improve these chapters and to add other important concepts in reproducibility and how to empower researchers to work reproducibly from the start.
+We welcome your contributions to improve these chapters, add other important concepts in reproducibility, and empower researchers to work reproducibly from the start.
 Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) to get involved.
