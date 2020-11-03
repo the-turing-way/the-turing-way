@@ -1,5 +1,5 @@
 (rr-renv)=
-# Reproducible environments
+# Reproducible Environments
 
 (rr-renv-prerequisites)=
 ## Prerequisites
@@ -80,4 +80,4 @@ Researchers need to understand and capture the computational environments in whi
   In essence, mobility of compute means being able to contain the entire software stack, from data files up through the library stack, and reliably move it from system to system.
   Any research that is limited to where it can be deployed is instantly limited in the extent that it can be reproduced.
 
-This chapter will describe how to capture, preserve and share computational environments along with code to ensure research is reproducible.
+This chapter will describe how to capture, preserve and share computational environments and code to ensure research is reproducible.
