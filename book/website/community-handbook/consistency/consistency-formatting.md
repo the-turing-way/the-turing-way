@@ -154,7 +154,7 @@ This may be confusing for some users, especially when the chapter/subchapter's r
 name: mismatched_title_toc
 alt: A subchapter whose title differs from its reference in the table of contents. The title of the subchapter is 'Using Spreadsheets for Research Data', however in the table of contents, it is referred as 'Data Organisation in Spreadsheets'.
 ---
-The title of this subchapter is 'Using Spreadsheets for Research Data', however the TOC refers to the same file as 'Data Organisation in Spreadsheets'.
+The title of this subchapter is 'Using Spreadsheets for Research Data', however the table of content refers to the same file as 'Data Organisation in Spreadsheets'.
 ```
 
 In ensuring that _The Turing Way's_ content passes this check, one recommendation to follow is to keep the titles short.
