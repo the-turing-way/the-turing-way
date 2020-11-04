@@ -18,8 +18,8 @@ The checks that deal with the _The Turing Way's_ formatting include:
 
 As a Jupyter Book, _The Turing Way_ should be written in [Markdown](https://en.wikipedia.org/wiki/Markdown), where possible, so that it renders as intended. 
 
-Some earlier chapters in _The Turing Way_ were not entirely written in Markdown, which could make some of its content hard to read.
-For example, {ref}`html_to_markdown` depicts a table that is written in `HTML`.
+Some earlier chapters in _The Turing Way_ were not entirely written in Markdown, making some of its content hard to read.
+For example, {ref}`html_to_markdown` depicts a table that was written in `HTML`.
 
 ```{figure} ../../figures/html_to_markdown.png
 ---
@@ -29,7 +29,7 @@ alt: A screenshot of a poorly formatted table written in HTML. The table is squi
 Content written in HTML may not render properly.
 ```
 
-When converted to Markdown, the table became cleaner and easier to read.
+However, when reformatted to Markdown, the table became cleaner and easier to read:
 
 ```{figure} ../../figures/html_to_markdown2.png
 ---
@@ -44,8 +44,42 @@ Chapter content written in `HTML` are usually enclosed in tags which begin and e
 [W3Schools](https://www.w3schools.com/html/html_elements.asp) is an excellent resource for understanding what these tags mean, and Markdown reference guides, such as [this](https://www.markdownguide.org/cheat-sheet/), can help in translating `HTML` formatting to Markdown.
 There are also helpful [tools](https://jmalarcon.github.io/markdowntables/) that convert `HTML` to Markdown with a single click.
 
-Please note that if using `HTML` is the only option for the desirable formatting of your text, you can use them only if the content in the online book can still be read and understood (use the Netlify preview in your PR to test). 
-For example, for superscripts and subscripts, `HTML` with their [corresponding tags](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be used.
+Please note that if using `HTML` is the only option for the desirable formatting of your text, you can use it only if the content in the online book can still be read and understood (use the Netlify preview in your PR to test). 
+For example, [superscripts and subscripts](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be written in `HTML` because they appear as desired.
+
+#### A Note on Checklists
+
+When writing a new chapter for _The Turing Way_, you may include a Checklist subchapter that itemises key action points you want readers to take based on the content you have written about.
+For earlier chapters in _The Turing Way_, this subchapter is written in Markdown as a Task List with checkboxes:
+
+```
+# Checklist
+- [ ] Item One
+- [ ] Item Two
+- [ ] Item Three
+
+```
+
+However, the checkboxes do not display as intended in the online version of the book, for example:
+
+```{figure} ../../figures/checklist-formatting.png
+---
+name: checklist-formatting
+alt: When the Checklist subchapter of any chapter is written in Markdown as a Task List with checkboxes, square brackets are displayed rather than checkboxes in the web version of the book.
+---
+Checkboxes are displayed as square brackets in the web version of the book.
+```
+
+Thus, we recommend that you format your Checklist subchapters as unordered lists in your future contributions, and edit earlier chapters that follow the other convention:
+
+```
+# Checklist
+- Item One
+- Item Two
+- Item Three
+
+```
+
 
 (ch-consistency-formatting-hr-headers)=
 ### Check 2: Use the headers in sequential order
@@ -87,18 +121,20 @@ While this works, it does not allow the images to adapt to the screen size of th
 
 Markedly Structured Text (`MyST`) is a flavour of Markdown that addresses this and enables the inclusion of responsive images in the _The Turing Way_.
 
-It also allows the use of captions and alternative text (ALT text), which are the invisible image descriptions that are read aloud to readers of the _The Turing Way_ book that use a screen reader.
-If no ALT text is provided with an image, these users will be unable to understand the intent of the image.
+It also allows the use of captions and alternative text (ALT text), which are the invisible image descriptions that are read aloud to readers of the _The Turing Way_ book who use a screen reader.
+If no ALT text is provided with an image, these users will be unable to understand the purpose of the image.
 
 When writing ALT text, remember to:
-- **Be descriptive** - Adequately describe the image using the its content and the context in which it is used for guidance. 
-In doing so, there is no need to "announce" an image in the description (for example, using "illustration of" or "picture of") since screen readers will already do this.
-- **Keep it as short as possible** - Although a long description may be necessary for some images, it is often better to keep them as short as possible. This ensures that the descriptions are easy to understand.
+- **Be descriptive** - Adequately describe the image using its content and context in which for guidance. 
+In doing so, there is no need to "announce" an image in your description (for example, using "illustration of" or "picture of") since screen readers will already do this.
+- **Keep it as short as possible** - Although a long description may be necessary for some images, it is better to keep them as short as possible. This ensures that the descriptions are easy to understand.
 
 Please note that images included in _The Turing Way_ book should be less than 1MB.
 This allow the book load faster, especially for readers who may have slow internat connections.
 
-Please refer to the {ref}`style guide <ch-style-figures>` for examples on formatting images using `MyST` and adding ALT text to images.
+Please refer to the {ref}`style guide <ch-style-figures>` for examples on formatting images using `MyST` and adding ALT text to them.
+When including images in your contributions, it may be better to avoid the height parameter as the wrong value could make your image appear distorted on mobile devices.
+Always ensure to checkout how your image looks in the Netlify preview of the book when you make a PR.
 
 (ch-consistency-formatting-sr)=
 ## Soft Requirements
