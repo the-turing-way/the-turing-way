@@ -50,6 +50,7 @@ When adding your chapter to _The Turing Way_ book, your landing page should live
 ### `chapter-content.md`:
 
 Inside the `chapter-content` folder, you will find the [`chapter-content.md`](templates\chapter-template\chapter-content\chapter-content.md) file where you can write about the individual topics that make up your chapter.
+This can be referred to as subchapters.
 
 For example, if you were writing a chapter on [Open Science](https://en.wikipedia.org/wiki/Open_science) with a focus on its different interpretations, this file is where you would individually write about the various schools of thought in Open Science (one of which could be The Infrastructure School of Thought, for example).
 Feel free to make as many copies of this file as necessary.
