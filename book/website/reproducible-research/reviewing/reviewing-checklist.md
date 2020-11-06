@@ -39,11 +39,11 @@ In all cases, the goal is to use your programming experience to figure out how t
 - [ ] Check the code meets basic project {ref}`style guide<rr-code-quality>`, if this is not automatically checked by {ref}`continuous integration (CI)<rr-ci>`.
 - [ ] Are the [tests](#tests) and [documentation](#documentation) conform to the standards.
 - [ ] Is all the code easily understood? Depending on the language, files may contain interfaces, classes or other type definitions, and functions (see [Architecture](#architecture)).
-    The essential architectural concepts can be checked as follows:
-  - [ ] [Interfaces](#interfaces)
-  - [ ] [Classes and types](#classes-and-types)
-  - [ ] [Function/Method declarations](#function/method-declarations)
-  - [ ] [Function/Method definitions](#function/method-definitions)
+    The essential architectural concepts can be reviewed as follows:
+  - [ ] Check the [interfaces](#interfaces) lists.
+  - [ ] Check the [classes and types](#classes-and-types) lists.
+  - [ ] Check the [function/method declarations](#function/method-declarations) lists.
+  - [ ] Check the [function/method definitions](#function/method-definitions) lists.
 - [ ] Do the [tests](#tests) actually ensure the code is robust in its intended use?
   - [ ] Are there any bugs or other defects?
 - [ ] Are [security](#security) issues handled correctly?
