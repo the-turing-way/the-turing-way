@@ -1,4 +1,4 @@
-## Importance and Personal Benefits
+## Importance and personal benefits
 
 *How this will help you/ why this is useful*
 
@@ -31,7 +31,7 @@ So in principle, this function of code review should be restricted to trivial ch
 <a name="Improvements_to_testing"></a>
 ## Improvements to testing
 
-As noted above, review should, and often does, catch actual bugs in proposed code changes. This, of course, is a sign that the proposed changes were not well-tested enough in the first place.
+As noted above, a review should, and often does, catch actual bugs in proposed code changes. This, of course, is a sign that the proposed changes were not well-tested enough in the first place.
 A major aim of code review is to highlight places in the code where existing or newly developed testing processes are inadequate.
 In this way, code review helps to ensure the future health of the code base by providing a second perspective on what kinds of tests are needed - not only now, but also under hypothetical scenarios that could arise in the future as the code evolves.
 
@@ -54,7 +54,7 @@ The more readable your code is, the easier it will be for other developers to re
 <a name="Style_enforcement"></a>
 ## Style enforcement
 
-Many projects enforce certain [code style guidelines](../../code_quality/code_quality#coding-style), be they widely-adopted standards (for example, [PEP8](https://www.python.org/dev/peps/pep-0008/), the [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)) or more project-specific conventions. [Automated services](../../code_quality/code_quality#online-services-providing-software-quality-checks) provide a convenient way to enforce a coding style and start the discussion about code quality.
+Many projects enforce certain {ref}`code style guidelines<rr-code-quality>`, be they widely-adopted standards (for example, [PEP8](https://www.python.org/dev/peps/pep-0008/), the [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)) or more project-specific conventions. [Automated services](../../code_quality/code_quality#online-services-providing-software-quality-checks) provide a convenient way to enforce a coding style and start the discussion about code quality.
 Code review provides an opportunity to ensure all proposed changes meet the minimum require standards for the project.
 
 <a name="Group_knowledge_and_cohesion"></a>
