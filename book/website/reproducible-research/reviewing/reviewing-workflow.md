@@ -14,16 +14,16 @@
 <a name="Formal_vs_informal_reviews"></a>
 ### Formal vs informal reviews
 
-For a formal review process to work effectively, it's imperative that the project is using good [version control](../vcs.md). However, it bears stating that **all review of code is very valuable**, including informal or ad-hoc approaches. Indeed, this kind of informal "over the shoulder" peer review can form a key preliminary component even in highly formalised review pipelines, saving a lot of stress and arguing once the formal stage begins.
+For a formal review process to work effectively, it's imperative that the project is using good {ref}`version control<rr-vcs>`. However, it bears stating that **all review of code is very valuable**, including informal or ad-hoc approaches. Indeed, this kind of informal "over the shoulder" peer review can form a key preliminary component even in highly formalised review pipelines, saving a lot of stress and arguing once the formal stage begins.
 
 This section focuses on the typical workflows behind a formal review process, as commonly implemented within a social coding environment like Github.
 
 <a name="prepare_the_code"></a>
 ### Prepare the code
 
-Before requesting a review, make sure you've met all the obvious quality benchmarks for the project you are contributing to. This means making sure you have check the review list (see [checklist for the coder](/reviewing_checklists.md#for_the_coder)).
+Before requesting a review, make sure you've met all the obvious quality benchmarks for the project you are contributing to. This means making sure you have check the review list (see {ref}`checklist for the coder<rr-checklist-for-code-review>`).
 
-A reviewer should check these things (see [checklist for the reviewer](/reviewing_checklists.md#for_the_reviewer)), but defects on these fronts should be by occasional oversight, rather than systematic.
+A reviewer should check these things (see {ref}`checklist for the coder<rr-checklist-for-code-review>`), but defects on these fronts should be by occasional oversight, rather than systematic.
 
 <a name="forks_and_branches"></a>
 ### Propose changes
@@ -43,7 +43,7 @@ This interaction should allow consensus to be reached on every comment.
 
 Once the review is complete, you can discuss any comments necessary. Then you make the changes, and record the changes made against appropriate comments. Also, you check that the reviewer knows you believe you have fully addressed the review.
 
-Once you believe changes are complete, the reviewer check that they do indeed address all of the initial comments. As needed, the reviewer engages constructively with you if they disagree on certain points in order to come to a consensus. In most cases, the reviewer has final say if a consensus cannot be found.
+Once you believe changes are complete, the reviewer check that they do indeed address all of the initial comments. As needed, the reviewer engages constructively with you if they disagree on certain points in order to come to a consensus. In most cases, the reviewer has a final say if a consensus cannot be found.
 
 Once post-review changes have been made to the code, make final updates the comments as needed to complete a history of what has been done and the reasoning behind it.
 
