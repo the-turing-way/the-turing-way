@@ -27,7 +27,8 @@ One rule of thumb to think about is, if a sentence needs to be read more than on
 (ch-consistency-language-hr-language)=
 ### Check 2: Ensure chapters use a consistent language
 
-> Language, in this context, refers to the American and British variants of the English language.
+```{note} Language, in this context, refers to the American and British variants of the English language.
+```
 
 With contributors from around the world, _The Turing Way_ does not restrict the language used to write chapters.
 This makes it easier for contributors to bring in their perspectives as they write content for _The Turing Way_.

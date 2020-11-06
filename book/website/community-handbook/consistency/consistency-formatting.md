@@ -38,7 +38,8 @@ alt: A screenshot of a table converted to Markdown from HTML. The table becomes 
 ---
 Converting HTML to Markdown makes The Turing Way book easier to read.
 ```
-> A PR that addresses this check can be found [here](https://github.com/alan-turing-institute/the-turing-way/pull/1460).
+```{note} A PR that addresses this check can be found [here](https://github.com/alan-turing-institute/the-turing-way/pull/1460).
+```
 
 Chapter content written in `HTML` are usually enclosed in tags which begin and end with angle brackets `<>`. 
 [W3Schools](https://www.w3schools.com/html/html_elements.asp) is an excellent resource for understanding what these tags mean, and Markdown reference guides, such as [this](https://www.markdownguide.org/cheat-sheet/), can help in translating `HTML` formatting to Markdown.
@@ -160,7 +161,9 @@ The title of this subchapter is 'Using Spreadsheets for Research Data', however 
 In ensuring that _The Turing Way's_ content passes this check, one recommendation to follow is to keep the titles short.
 If a chapter's title and its reference in the table of contents differ, make the shorter of the two the chapter's title, and update the `_toc.yml` if necessary. 
 
-> The `_toc.yml` is the file where the book-wide table of contents for _The Turing Way_ lives.
+```{note} 
+The `_toc.yml` is the file where the book-wide table of contents for _The Turing Way_ lives.
+```
 
 However, remember that the final title should adequately tell readers what to expect from a chapter or subchapter.
 

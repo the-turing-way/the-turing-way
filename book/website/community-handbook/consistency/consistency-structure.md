@@ -50,8 +50,9 @@ While a chapter can contain as many or as little subchapters as necessary, it sh
 The checklist subchapter itemises action points for the reader to take based on the concepts introduced in the chapter.
 The resources subchapter, on the other hand, points the reader to other sources where they can learn more about the concepts discussed in the chapter and what other related topics to explore.
 
-> Please note that making chapters follow this structure may require splitting some of the existing content into new files.
-> References to these files should be updated in the table of contents in the `_toc.yml` file.
+```{attention} Please note that making chapters follow this structure may require splitting some of the existing content into new files.
+References to these files should be updated in the table of contents in the `_toc.yml` file.
+```
 
 Refer to the [chapter template](https://github.com/alan-turing-institute/the-turing-way/blob/master/templates/CHAPTER_TEMPLATE.md) to structure new chapter contributions, and use it to assess current chapters in _The Turing Way_.
 For chapters that do not fit this structure, please raise a PR.
