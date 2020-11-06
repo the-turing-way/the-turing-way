@@ -1,6 +1,14 @@
+(rr-checklist-for-code-review)=
 ## Checklist for code review process
 
-The following presents some possible checklists for both the coder and the reviewer, as part of a formal review process.
+This section presents some checklists for both the coder and the reviewer, as part of a formal review process.
+The reviewer checklists are split into two categories: one for the whole program, and one for individual files or proposed changes.
+
+The lists are created with a focus on good software engineering practice and are intended to be a source of inspiration.
+When assessing the checklists, it is recommended to consider to what extent the item mentioned is implemented.
+Some items on the lists may not apply to your project or programming language, in which case they should be disregarded.
+
+In all cases, the goal is to use your programming experience to figure out how to make the code better.
 
 ## Table of contents
 
@@ -12,31 +20,35 @@ The following presents some possible checklists for both the coder and the revie
 <a name="For_the_coder"></a>
 ### For the coder
 
-- [ ] Does the new code meets the required standards of the project? In particular, see [Program level checklist](#program_level_checklist).
-- [ ] Is the new code easy to understand? (see [File/Change level checklist](#file/change_level_checklist)).
+- [ ] Does the new code meets the required standards of the project?
+  The standards are typically written under `contributing guidelines` by the project you are contributing to.
 - [ ] Is there [documentation](#documentation) to the required standards of the project?
-- [ ] Are there new [tests](#tests) for the new material, based on required standards of the project?
-- [ ] Do these tests pass locally?
-- [ ] Are you following any declared [style guide](../../code_quality/code_quality#code-style) for the project?
-- [ ] Are the tests in the rest of the code base still passing locally?
-- [ ] Create the pull request; wait for any [continuous integration](/continuous_integration/continuous_integration) checks to complete.
+- [ ] Are you following any declared {ref}`style guide<rr-code-quality>` for the project?
+- [ ] Are there new [tests](#tests) for the new material, based on the required standards of the project?
+  - [ ] Do these tests pass locally?
+  - [ ] Are the tests in the rest of the code base still passing locally?
+- [ ] Create the pull request; wait for any {ref}`continuous integration (CI)<rr-ci>` checks to complete.
 - [ ] Consult the CI reports. Did all builds and tests complete? your code is not causing the tests in the main project to fail. Many CI systems will test this automatically for you once you create the PR.
 - [ ] If necessary, now formally request a review.
 
 <a name="For_the_reviewer"></a>
 ### For the reviewer
 
-- [ ] Check the required standards of the project, in particular, see [Program level checklist](#rogram_level_checklist).
-- [ ] Check the code meets basic project [style guide](../../code_quality/code_quality#code-style), if this is not automatically checked by CI.
-- [ ] Check there are [tests](#tests) and [documentation](#documentation) to necessary standards.
-- [ ] Read the code, carefully, see [File/Change level checklist](#ile/change_level_checklist).
-  - [ ] Is all the code easily understood? <!-- Chanuki notes that this has been  added to emphaise the importance of readbilty in code-->
-  - [ ] Is it clear what all sections of the code do?
-  - [ ] Are the logic and approach in the proposed changes clear?
-  - [ ] Are the logic and the approach both sound?
-  - [ ] Can any of the code be replaced by library functions?
-  - [ ] Do the tests actually ensure the code is robust in its intended use?
+- [ ] Check the required standards of the project. The standards are typically written under
+`contributing guidelines` by the project you are contributing to.
+- [ ] Check the code meets basic project {ref}`style guide<rr-code-quality>`, if this is not automatically checked by {ref}`continuous integration (CI)<rr-ci>`.
+- [ ] Are the [tests](#tests) and [documentation](#documentation) conform to the standards.
+- [ ] Is all the code easily understood? Depending on the language, files may contain interfaces, classes or other type definitions, and functions (see [Architecture](#architecture)).
+    The essential architectural concepts can be checked as follows:
+  - [ ] [Interfaces](#interfaces)
+  - [ ] [Classes and types](#classes-and-types)
+  - [ ] [Function/Method declarations](#function/method-declarations)
+  - [ ] [Function/Method definitions](#function/method-definitions)
+- [ ] Do the [tests](#tests) actually ensure the code is robust in its intended use?
   - [ ] Are there any bugs or other defects?
+- [ ] Are [security](#security) issues handled correctly?
+  - [ ] Check the [security of new codes](#security-of-new-codes).
+- [ ] Does the new code meets the [legal requirements](#legal)?
 
 <a name="Program level checklist"></a>
 ### Program level checklist
@@ -70,13 +82,13 @@ to consider for small ones as well.
 - [ ] Are these modules as small as they can be?
 - [ ] Is there a clear, hierarchical or layered, dependency structure between
   these modules?
-  - [ ] If not, functionality should be rearranged, or perhaps heavily
-    interdependent modules should be combined
+  - [ ] If not, the functionality should be rearranged, or perhaps heavily
+    interdependent modules should be combined.
 - [ ] Can the design be simplified?
 
 #### Security
 
-If you're making software that is accessible to the outside world (e.g. a web
+If you're making software that is accessible to the outside world (for example a web
 application), then security becomes important. Security issues are defects,
 but not all defects are security issues. A security-conscious design can help
 mitigate the security impact of defects.
@@ -85,12 +97,12 @@ mitigate the security impact of defects.
 - [ ] Which modules generate output?
 - [ ] Are input and output compartmentalized?
   - [ ] If not, consider making separate modules that manage all input
-    and output, so validation can happen in one place
+    and output, so validation can happen in one place.
 - [ ] In which modules is untrusted data present?
-  - [ ] The fewer the better
+  - [ ] The fewer the better.
 - [ ] Is untrusted data compartmentalized?
   - [ ] Ideally, validate in the input module and pass only
-    validated data to other parts
+    validated data to other parts.
 
 #### Legal
 
@@ -109,7 +121,7 @@ doubt, ask your licensing person for advice.
 <a name="File/Change level checklist"></a>
 ### File/Change level checklist
 
-When you're checking individual changes (e.g. pull requests) or files, the
+When you're checking individual changes or files in a pull request, the
 code itself becomes the subject of scrutiny. Depending on the language, files
 may contain interfaces, classes or other type definitions, and functions. All
 these should be checked.
@@ -128,7 +140,7 @@ style, which may not be relevant to the code you're looking at.
 - [ ] Is the class documented?
 - [ ] Does it have a single responsibility? Can it be split?
 - [ ] If it's designed to be extended, can it be?
-- [ ] If it's not designed to be extended, is it protected against that? (e.g. final declarations)
+- [ ] If it's not designed to be extended, is it protected against that?
 - [ ] If it's derived from another class, can you substitute an object of this class for one of its parent class(es)?
 - [ ] Is the class testable?
   - [ ] Are the dependencies clear and explicit?
