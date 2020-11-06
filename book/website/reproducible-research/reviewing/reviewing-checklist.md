@@ -46,8 +46,9 @@ rather than when looking at an individual file or change.
 
 #### Documentation
 
-Documentation is a prerequisite for using, developing and reviewing the
-program. Here are some things to check for.
+Documentation is a prerequisite for using, developing, and reviewing the program.
+Someone who isn’t involved with your project should understand what your code does,
+and what approach you’re taking. Here are some things to check for.
 
 - [ ] Is there a description of the purpose of the program or library?
 - [ ] Are detailed requirements listed?
