@@ -1,4 +1,4 @@
-(ch-consistencylanguage)=
+(ch-consistency-language)=
 # Language
 
 Language is concerned with the style with which _The Turing Way_ is written.
