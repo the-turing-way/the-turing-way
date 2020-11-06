@@ -22,10 +22,12 @@ You can always return to review your past contributions and enhance their conten
 
 An overview of these requirements is itemised {ref}`below <ch-consistency-requirements-checklist>`. The rest of this chapter explains them in more detail and describes how they can be achieved.
 
-> Please note that these requirements are not exhaustive or definitive, and neither are their classifications rigid. 
-> If you identify more consistency issues that need to be addressed, join the conversation [here](https://github.com/alan-turing-institute/the-turing-way/issues/1174). 
-> There is also no order to the items in the checklist. 
-> No item is inherently more important than the other.
+```{important} Please note that these requirements are not exhaustive or definitive, and neither are their classifications rigid.
+
+If you identify more consistency issues that need to be addressed, join the conversation [here](https://github.com/alan-turing-institute/the-turing-way/issues/1174).
+
+No item is inherently more important than the other.
+```
 
 (ch-consistency-requirements-checklist)=
 ### Consistency Checklist
