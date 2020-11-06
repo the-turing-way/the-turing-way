@@ -52,6 +52,8 @@ LOC is better. Don't review more than 500 LOC/hour.
 
 Sometimes, with more complex code reviews, online communication can lead to unproductive conversations.
 Setting up an in-person meeting can help to resolve some of the trickier issues in a more collaborative and friendly manner.
+As an alternative, the development/research team can set regular meetings for doing code reviews with all of the team members.
+For example, see the approach taken by a professor organizing [lab meetings for code](http://fperez.org/py4science/code_reviews.html).
 
 <a name="Who_reviews"></a>
 ### Who reviews?
