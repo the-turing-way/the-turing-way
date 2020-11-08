@@ -7,7 +7,7 @@
 (sectioninitials-filename-prerequisites)=
 ## Prerequisites
 
-> Itemise other chapters in _The Turing Way_ or topics that readers should be familiar with to understand your chapter better.
+>**Itemise other chapters in _The Turing Way_ or topics that readers should be familiar with to understand your chapter better.**
 > Ensure that you link to those chapters using the [Style Guide's](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) cross referencing recommendations.
 > If the topics are only available on the web, appropriately link to them too.
 > Importance should either be `Helpful` or `Necessary`
@@ -24,7 +24,7 @@
 (sectioninitials-filename-summary)=
 ## Summary
 
-> Write a brief overview of the content of your chapter.
+> **Write a brief overview of the content of your chapter.**
 > Summaries should be concise, but also introduce all the sub-topics that your chapter will talk about.
 > When you mention a sub-topic, link to the subchapter where you expand on the topic.
 > See the Summary in the Open Research [chapter](https://the-turing-way.netlify.app/reproducible-research/open.html) for inspiration  
@@ -32,7 +32,7 @@
 (sectioninitials-filename-useful)=
 ## Why This is Useful
 
-> Explain why readers should pay attention to this chapter.
+> **Explain why readers should pay attention to this chapter.**
 > For example, how can your chapter's content have a positive impact on your reader's data science project?
 > Think about the reader demographic that would be interested in your chapter and tailor this section appropriately.
 

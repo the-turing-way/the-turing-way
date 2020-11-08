@@ -115,6 +115,11 @@ To add the chapter on Open Science to Guide 1 in the table of contents, you coul
       file: path/to/open-science-resources
 ```
 
+### Cross check your PR
+
+The content of the templates are meant to guide and structure your writing.
+Please remove all of the template's placeholders, tips, and suggestions from your chapter before you submit your PR for review.
+
 ### Follow the style and consistency guidelines
 
 As you write your chapter, keep _The Turing Way's_ [style](https://the-turing-way.netlify.app/community-handbook/style.html) and [consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html) recommendations in mind.
