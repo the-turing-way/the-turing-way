@@ -16,7 +16,7 @@ TODO some text here on why this is important for reproducible data science teams
 
 There are some similarities here to creating Github issues, but this idea is more general and focuses more on conventions/agreements with team members, than on working with specific tools.
 
-Most of the text below is from Veronika's blog and will need to be edited / reorganized.
+__Most of the text below is needs to be reorganized__.
 
 
 ## What is a task 
@@ -50,16 +50,19 @@ Tasks progress from left to right in time, for example:
 * Next - tasks you will do the next day, or the next week
 * Doing - tasks you have started - this column needs to have as few tasks as possible! 
 * Done - tasks that are done
-* "Won't fix" - tasks which you decide do not need to be done
+* Dropped / "won't fix" - tasks which you decide do not need to be done
 
 The same principle can be applied on the level of projects. For example if you are involved in co-authoring multiple papers, you might want to focus on two papers first and submitting them before moving onto others, rather than contributing to five in parallel. 
 
+__TODO more on not urgent & important__
+
 ### Doing tasks
 
-* Put the task on your calendar
-* Pomodoro
-* "Eat The Frog"
+Now you should have a clearer picture of what needs to be done next. In a scrum setting, you could pick several tasks to do in the next sprint. You could also plan the tasks as appointments on your calendar. Next to already blocking out the time you need to do the task, this can help you get better at estimating how long each task should take. An alternative to planning each individual task on your calendar, is having some themed days or time blocks. For example you can block every Wednesday morning for writing tasks, and spend that time period on any "next" writing tasks that need to be done. 
 
+In a team, likely everybody will have tasks they need to work on individually, vs meetings with with others. It might be efficient to designate different days or times as "meeting times" vs "deep work" times, so that everybody can have uninterrupted blocks of time. 
+
+"Deep work" times can be done in a group too - shared pomodoro?
 
 ## Systems / project "pulse"
 
