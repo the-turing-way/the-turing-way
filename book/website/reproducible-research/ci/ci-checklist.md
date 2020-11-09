@@ -1,7 +1,5 @@
 # Checklist
 
-## Checklist
-
 - Have a project that you collaborate on with at least one other person
 - Put the project on GitHub
 - Have project members regularly commit their work to this central repository
