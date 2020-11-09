@@ -2007,6 +2007,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "KimDeRuyck",
+      "name": "Kim De Ruyck",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/26715049?v=4",
+      "profile": "https://github.com/KimDeRuyck",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
