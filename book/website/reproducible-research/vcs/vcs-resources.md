@@ -1,4 +1,21 @@
+# Resources
+This chapter covered a lot. Below you'll find:
+
+**Checklists** 
+- the Git [Checklist](https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-checklist.html) for setting up and enabling [Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html) 
+- How to contribute to someone else's git project
+- How to ensure that your data is version controlled
+
+**More Information**
+- What to learn next
+- Further Reading 
+- Definitions and Glossary
+- References for this chapter
+
+
 ## Checklists
+
+Before you dive in to your Version Control project, run through the set-up check list below (and check out the Further reading resources!) to set up and support your project. 
 
 ### Make use of Git
 - [ ] Make your project version controlled by initialising a Git repository in its directory using `git init`.
