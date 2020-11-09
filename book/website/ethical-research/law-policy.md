@@ -63,30 +63,44 @@ Human rights are indivisible and interdependent: we cannot have some rights with
 Human rights law is made up of conventions and covenants - legal instruments - that are signed by countries. 
 These instruments are legally binding: this means that all countries who sign up to them take on legal duties and obligations.
 These include the obligations to: 
-- respect: to not do anything that violates human rights; 
-- protect: to ensure that individuals and groups do not have their human rights abused or violated;
-- fulfil: to take action to make sure that individuals and groups are able to enjoy their human rights.
+- **respect**: to not do anything that violates human rights; 
+- **protect**: to ensure that individuals and groups do not have their human rights abused or violated;
+- **fulfil**: to take action to make sure that individuals and groups are able to enjoy their human rights.
 
 Some human rights law is made at global level, by the United Nations.
 There are nine [core human rights instruments](https://www.ohchr.org/EN/ProfessionalInterest/Pages/CoreInstruments.aspx). 
 They include general instruments on civil and political rights, and on economic, social and cultural rights, as well as instruments that cover specific people, such as children or people with disabilities, or specific topics, such as torture or racial discrimination.
 Each of these instruments is overseen by a committee of experts: a 'treaty body.'
-Every few years, each country who has signed a human rights instrument has to report to the treaty body.
+Every few years, each country who has signed a human rights instrument has to report to the treaty body on how well they are implementing the treaty.
+The treaty body makes recommendations on how the country can continue to improve its implementation.
+The treaty bodies also periodically issue more detailed guidance on how to interpret different articles of their treaty, to help countries understand better what their obligations.
 
 There are also regional human rights instruments:
-- African Charter on Human and People's Rights;
-- American Convention on Human Rights;
-- European Convention on Human Rights.
+- African Charter on Human and People's Rights, which covers 54 of the 55 members of the African Union.
+- American Convention on Human Rights, which covers 23 of the 35 members of the Organization of American States.
+- European Convention on Human Rights, which covers 47 members of the Council of Europe.
 
-#### Who is responsible for implementing human rights law?
+Some countries have ratified some of the treaties that apply to them: this means that they have incorporated the content of the the treaties into their national law.
+
+#### How do human rights apply to data science and research?
+
+Human rights treaties are signed by countries: that means that ultimately, it is countries that are held responsible for violations of human rights. 
+Because they are defined in law, 
+
+Researchers and data scientists  ensure that they **respect** human rights. This means not taking actions that in themselves 
+
+
+Business and human rights principles
+
+
+Principles for AI
 
 
 <!--- Human Rights law discussion
-        Brief overview of international human rights framework (who makes it, which are their conventions, who oversees implementation)
+
         How are scientists impacted by human rights law?
         Key human rights considerations for scientists (privacy, non-discrimination,...)
-        Respect/Protect/Fulfill model
-        Links to other sections of this chapter and book -->
+              Links to other sections of this chapter and book -->
 
 ### Policy
 <!--- Policy on responsible research and innovation (RRI)
