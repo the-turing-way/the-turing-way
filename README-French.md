@@ -94,7 +94,7 @@ Nous avons utilisé quelques-unes de ces illustrations dans les réponses de [We
 Nous avons une salle de chat gitter et nous aimerions que vous passiez pour dire bonjour à <https://gitter.im/alan-turing-institute/the-turing-way>.
 Cette salle est également synchronisée avec [Matrix](https://matrix.org) à [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) et vous êtes invités à nous rejoindre si vous préférez.
 
-Nous avons également une petite infolettre à laquelle nous envoyons des mises à jour mensuelles du projet.
+Nous avons également une infolettre à laquelle nous envoyons des mises à jour mensuelles du projet.
 Abonnez-vous à <https://tinyletter.com/TuringWay>.
 
 Vous pouvez contacter notre gestionnaire de communauté **Malvika Sharan** par courriel à [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
