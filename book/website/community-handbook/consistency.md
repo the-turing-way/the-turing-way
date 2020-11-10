@@ -61,7 +61,6 @@ Language | Hard | Ensure correct grammar and a consistent tone across the book w
 Language | Hard | Ensure chapters use a consistent language, for example, if you choose to write in British English, maintain that throughout
 - Ensure chapters use a consistent language, for example, if you choose to write in British English, maintain that throughout
 
-#### Soft Requirements
 
 ##### Formatting
 
