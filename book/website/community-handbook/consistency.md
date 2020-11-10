@@ -45,7 +45,6 @@ Formatting | Hard | Use `MyST` for image formatting as described in the {ref}`st
 Formatting | Soft | Ensure that the names of chapters/subchapters are short and map exactly to how they are titled in the `_toc.yml` 
 Formatting | Soft | Ensure proper title-casing for headers | Capitalise the first, last and 'important' words of every title; for example, 'Snow White and the Seven Dwarves'. 
 
-  - Use public domain images that are less than 1MB in size and cite appropriately
   - Add a descriptive ALT text to images to allow screen reading software to describe images well to its users
 
 ##### Structure
