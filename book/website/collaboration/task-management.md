@@ -1,25 +1,46 @@
-### Task management
+# Task management with teams
 
 Content/draft for issue https://github.com/alan-turing-institute/the-turing-way/issues/1436
 
 TODO some text here on why this is important for reproducible data science teams. 
 
-
 ## Contents
 
-* What is a task - levels of abstraction
-* What is a good format and size of a task
-* Where should tasks "live"
-* Systems like GTD, Kanban
-* Planning, setting priorities (and avoiding overwhelm)
-* How to communicate this with team members
-
+* Project pulse - some systems to keep a project going
+* Tasks - planning and setting prioerities
+* Tools - what you need to set this up
 There are some similarities here to creating Github issues, but this idea is more general and focuses more on conventions/agreements with team members, than on working with specific tools.
 
-__Most of the text below is needs to be reorganized__.
+
+## Systems & project "pulse"
+
+* Myths about project planning? (4 weeks on milestone 1, 4 weeks on milestone 2...) - pulse more important? 
+* Setting clear expectations - having a system helps with this 
+* Switching between managing and doing - assuming you are a team member yourself. How often do you check in with the whole team, when do you plan things, when do you evaluate results. 
 
 
-## What is a task 
+### Scrum
+
+Type of process frequently used in software development (more background here). Traditionally in this process, a team is working on the same project. Sprint every two weeks, plan tasks, do tasks using scrum board. Every day stand-up to see if there are any issues, who needs to help whom, 15 minutes. Retrospectives to evaluate. 
+
+In a research setting this might be less applicable if each person is working on their own project, and the timing might be slower due to experiments, for example. However principles can still be adapted to a research setting, examples:  
+
+* http://www.cs.umd.edu/~mwh/papers/score.pdf
+* https://psyarxiv.com/zg4ub
+* https://veronikach.com/phd-advice/organizing-student-projects-with-scrum/
+
+
+### GTD
+
+Getting Things Done by David Allen, approach to task management initially intended for individuals, although the principles can be applied more broadly. Overall it comes down to two steps:
+
+* Capture - as soon as something comes up, put it inside your system 
+* Process - sort and organize your tasks so that you know what you need to focus on next. This can be done at different levels, but an important one is every week, also called weekly review, during which you sit down and go through a checklist.  
+
+
+
+
+## Tasks
 
 There are different levels at which tasks exist - at the lowest level tasks can be done in a few minutes, and at the highest level tasks are actually projects, which again have tasks. Some good ways to think about tasks are:
 
@@ -64,27 +85,6 @@ In a team, likely everybody will have tasks they need to work on individually, v
 
 "Deep work" times can be done in a group too - shared pomodoro? With cuckoo clock
 
-## Systems / project "pulse"
-
-Switching between managing and doing - assuming you are a team member yourself. How often do you check in with the whole team, when do you plan things, when do you evaluate results. 
-
-### GTD
-
-Getting Things Done by David Allen, approach to task management initially intended for individuals, although the principles can be applied more broadly. Overall it comes down to two steps:
-
-* Capture - as soon as something comes up, put it inside your system 
-* Process - sort and organize your tasks so that you know what you need to focus on next. This can be done at different levels, but an important one is every week, also called weekly review, during which you sit down and go through a checklist.  
-
-
-### Scrum
-
-Type of process frequently used in software development (more background here). Traditionally in this process, a team is working on the same project. Sprint every two weeks, plan tasks, do tasks using scrum board. Every day stand-up to see if there are any issues, who needs to help whom, 15 minutes. Retrospectives to evaluate. 
-
-In a research setting this might be less applicable if each person is working on their own project, and the timing might be slower due to experiments, for example. However principles can still be adapted to a research setting, examples:  
-
-* http://www.cs.umd.edu/~mwh/papers/score.pdf
-* https://psyarxiv.com/zg4ub
-* https://veronikach.com/phd-advice/organizing-student-projects-with-scrum/
 
 
 
@@ -139,5 +139,5 @@ Again, there are a lot of places you could keep such information. In Github you 
 
 ### Tool conflicts
 
-Various apps integrate one of more of these functionalities. However different team members might already be using other systems, which can cause forgetting tasks or calendar conflicts. To circumvent this problem, it is good to know that many apps allow integrations with others. For example, if the shared system is in Todoist, but somebody prefers Google Tasks, an integration to sync these can be set up. If there is no "ready made" integration, often it is possible to set up via IFTTT (IF This Than That https://ifttt.com/home) or Zapier (https://zapier.com/). 
+Various apps integrate one of more of these functionalities. However different team members might already be using other systems, which can cause forgetting tasks or calendar conflicts. To circumvent this problem, it is good to know that many apps allow integrations with others. For example, if the shared system is in Todoist, but somebody prefers Google Tasks, an integration to sync these can be set up. If there is no "ready made" integration, often it is possible to set up via IFTTT (IF This Then That https://ifttt.com/home) or Zapier (https://zapier.com/). 
 
