@@ -59,3 +59,10 @@ sphinx:
 
 launch_buttons:
   binderhub_url: "https://mybinder.org"
+
+#######################################################################################
+# Activate Hypothesis
+
+html:
+  comments:
+    hypothesis: true 
