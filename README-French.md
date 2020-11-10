@@ -69,7 +69,7 @@ La citation ressemblera à quelque chose comme:
 > The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. <http://doi.org/10.5281/zenodo.3233986>
 
 Vous pouvez également partager les liens lisibles par les humains vers une page du livre, par exemple: <https://the-turing-way.netlify.com/reproducibility/03/definitions.html>, mais sachez que le projet est en cours de développement et que ces liens peuvent changer avec le temps.
-Vous souhaiterez peut-être inclure un lien d'archive Web tel que: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> pour vous assurer que vous ne vous retrouvez pas avec des liens rompus partout!
+Pour cette raison, vous voudrez peut-être inclure un lien d'archive Web tel que: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> pour vous assurer que vous ne vous retrouvez pas avec des liens brisés partout!
 
 Nous apprécions vraiment toutes les références que vous faites au projet _The Turing Way_ et nous espérons qu'il sera utile.
 Si vous avez des questions, veuillez [entrer en contact](#entrer-en-contact).
