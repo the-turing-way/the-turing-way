@@ -5,74 +5,70 @@ _The Turing Way_ is an open-source project that empowers contributors around the
 _The Turing Way_ guides are continually evolving, with multiple chapters co-developed by individuals from varied backgrounds - who are all passionate about sharing knowledge around data science and research.
 To sustain and support this vibrant community, _The Turing Way_ book should remain consistent and accessible as it evolves. 
 The {ref}`ch-style-guide` chapter already provides guidelines for maintaining a consistent style across the book. However, not all chapters follow these suggestions since they're often written asynchronously by different authors. 
-This calls for a need to encourage and support our contributors to maintain consistency throughout the chapters in _The Turing Way_ guides. 
-Achieving this goal alone is reasonably challenging. 
-Therefore, this chapter will guide our contributors by outlining a step-by-step checklist for consistency.
-Each step will point them towards what consistency checks to look for as they design and develop chapters in _The Turing Way_ or bring consistency across the existing chapters.
+Reviewing consistency across _The Turing Way_ alone is reasonably challenging. This points towards a need to encourage and support our contributors to maintain consistency throughout the chapters in _The Turing Way_ guides. 
+Therefore, this chapter will outline a step-by-step consistency checklist that will guide our contributors.
+Each step will emphasize a consistency check to look out for as they design and develop chapters in _The Turing Way_ or bring consistency to existing chapters.
 
 (ch-consistency-requirements)=
 ## Hard vs Soft Requirements
 
 Items in the consistency checklist are categorised into hard and soft requirements. 
-Hard requirements are essential consistency checks that a chapter must pass so that _The Turing Way_ builds without errors, and is readable and accessible by everyone.
+Hard requirements are essential consistency checks that a chapter must pass so that _The Turing Way_ builds without errors.
+Moreover, they make the chapter readable and accessible to everyone.
 
 Soft requirements, on the other hand, are nice-to-have consistency checks that a chapter should pass. 
-These checks greatly enhance the overall look and feel of the book but can be safely ignored if they cannot be integrated into your contribution.
+These checks greatly enhance the overall look and feel of the book, but can be safely ignored if they cannot be integrated into your contribution.
 You can always return to review your past contributions and enhance their content.
 
-An overview of these requirements is itemised {ref}`below <ch-consistency-requirements-checklist>`. The rest of this chapter explains them in more detail and describes how they can be achieved.
+An overview of these requirements is itemised {ref}`below <ch-consistency-requirements-checklist>`. 
+For easy description, these consistency checks are classified by format, structure, and language. The subchapters explain these in more detail and describe how they can be achieved. 
 
 ```{important} Please note that these requirements are not exhaustive or definitive, and neither are their classifications rigid.
+Moreover, no items are inherently more important than the other.
 
 If you identify more consistency issues that need to be addressed, join the conversation [here](https://github.com/alan-turing-institute/the-turing-way/issues/1174).
 
-No item is inherently more important than the other.
 ```
 
 (ch-consistency-requirements-checklist)=
 ### Consistency Checklist
 
-#### Hard Requirements
+#### Formatting
 
-##### Formatting
+TYPE | REQUIREMENT | CHECK  
+---- | ----------- | ----- 
+Formatting | Hard | Use Markdown for creating your content (see this [WordPress cheatsheet](https://wordpress.com/support/markdown-quick-reference/)).
+Formatting | Hard | Use the headers in sequential order. For example, starting the top level with h1 tag `#`, second-level header with h2 tag `##` and so on.
+Formatting | Hard | Add labels to chapters, subchapters and images to enable cross-referencing as described in the {ref}`style guide<ch-style-crossref>` 
+Formatting | Hard | Use `MyST` for image formatting as described in the {ref}`style guide<ch-style-figures>` 
+Formatting | Soft | Ensure that the names of chapters/subchapters are short and map exactly to how they are titled in the `_toc.yml` 
+Formatting | Soft | Ensure proper title-casing for headers | Capitalise the first, last and 'important' words of every title; for example, 'Snow White and the Seven Dwarves'. 
 
-- Use Markdown for creating your content (see this [cheatsheet from WordPress](https://wordpress.com/support/markdown-quick-reference/))
-  - Avoid any HTML formatting, or remove all HTML tags when reviewing existing chapters
-- Use the headers in sequential order (for example, starting the top level with h1 tag `#`, second-level header with h2 tag `##` and so on)
-- Add labels to chapters, subchapters and images to enable cross-referencing as described in the {ref}`style guide<ch-style-crossref>`
-- Use `MyST` for image formatting as described in the {ref}`style guide<ch-style-figures>`
-  - Use public domain images that are less than 1MB in size and cite appropriately
-  - Add a descriptive ALT text to images to allow screen reading software to describe images well to its users
 
 ##### Structure
 
-  - Ensure chapters follow a structure as described in this [chapter template](https://github.com/alan-turing-institute/the-turing-way/blob/master/templates/CHAPTER_TEMPLATE.md)
+TYPE | REQUIREMENT | CHECK 
+---- | ----------- | ----- 
+Structure | Hard | Ensure chapters follow a structure as described in this [chapter template](https://github.com/alan-turing-institute/the-turing-way/blob/master/templates/CHAPTER_TEMPLATE.md)
+Structure | Hard | Do not add a 'table of contents' in chapters or subchapters as it is auto-generated by the Jupyter Book
+Structure | Hard | Ensure external sources are properly referenced and included in the centralised bibtex file as recommended in the {ref}`style guide<ch-style-citing>`
+Structure | Hard | Do not add any empty files in the `_toc.yml`, instead create an issue for new chapters
+Structure | Soft | Ensure each chapter has a good summary on its landing page along with links to its subchapters.
+Structure | Soft | Split long chapters into smaller subchapters so they are modular.
   
-  - Do not add a 'table of content' in chapters or subchapters as it is auto-generated by the Jupyter Book
-  - Ensure external sources are properly referenced and included in the centralised bibtex file as recommended in the {ref}`style guide<ch-style-citing>`
-  - Do not add any empty files in the `_toc.yml`, instead create an issue for new chapters
 
 ##### Language
 
-- Ensure chapters do not use any Latin abbreviation as discussed in the {ref}`style guide<ch-style-guide>`
-- Ensure correct grammar and a consistent tone across the book with the help of 1-2 reviewers
-- Ensure chapters use a consistent language, for example, if you choose to write in British English, maintain that throughout
+TYPE | REQUIREMENT | CHECK 
+---- | ----------- | ----- 
+Language | Hard | Ensure chapters do not use any Latin abbreviation as discussed in the {ref}`style guide<ch-style-guide>`
+Language | Hard | Ensure correct grammar and a consistent tone across the book with the help of 1-2 reviewers
+Language | Hard | Ensure chapters use a consistent language, for example, if you choose to write in British English, maintain that throughout
 
-#### Soft Requirements
 
-##### Formatting
 
-- Ensure that the names of chapters/subchapters are short and map exactly to how they are titled in the `_toc.yml`
-- Ensure proper title-casing for headers
-  - Capitalise the first, last and 'important' words of every title; for example, 'Snow White and the Seven Dwarves'.
 
-##### Structure
 
-  - Ensure each chapter has a good summary on its landing page along with links to its subchapters.
-  - Split long chapters into smaller subchapters so they are modular
   
 
 These checks are further explained in the following subchapters: {ref}`Formatting<ch-consistency-formatting>`, {ref}`Structure<ch-consistency-structure>`, and {ref}`Language<ch-consistency-language>`.
-
-Please note that the classification of our consistency checklist into these subchapters is only to make it easy for us to describe them in the context of format, structure, and language.
-They may not follow the exact order as listed in the checklist on this page.
