@@ -18,7 +18,7 @@ Vous consultez actuellement le dépôt GitHub du projet où tous les éléments 
 
 Notre objectif est de fournir toutes les informations dont les chercheurs ont besoin au début de leurs projets pour s'assurer qu'ils soient faciles à reproduire à la fin.
 
-Cela signifie également s'assurer que les doctorants, les post-doctorants, les chercheurs principaux et les équipes de financement savent quelles parties de la "responsabilité de reproductibilité" ils peuvent affecter et ce qu'ils doivent faire pour pousser la science des données à être plus efficace et plus compréhensible.
+Cela signifie également de s'assurer que les doctorants et les doctorantes, les stagiaires postdoctoraux, les équipes de recherche et les équipes de financement savent quelles parties de la «responsabilité de reproductibilité» ils et elles peuvent affecter et ce qu'il doit être fait pour pousser la science des données à être plus efficace et plus compréhensible.
 
 Table des matières:
 
