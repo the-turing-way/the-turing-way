@@ -33,14 +33,12 @@ You should also be aware what steps you should take to ensure that you are compl
 This section is not exhaustive!
 It is designed to give you some ideas for the kinds of laws you should be aware of.
 
-
-
 ##### Data protection law
 
 Data protection laws cover what is permitted by law when collecting and processing data. 
 The aim of data protection laws is to protect the privacy of individuals when collecting and using information about them.
 
-
+Data protection laws are 
 
 Data protection laws are sometimes confused with privacy laws, but they are not the same thing. 
 
