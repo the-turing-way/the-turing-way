@@ -25,7 +25,7 @@ File names should be:
 
 Before we dive into the details of what they mean, let's look at some examples of bad and good file names.
 
-| :x: Bad          | :heavy_check_mark: Good |
+| {fa}`exclamation-triangle,text-error mr-1` Bad          | {fa}`check,text-success mr-1` Good |
 | -----------------|-------------------------|
 |`Myabstract.docx` | `2020-06-08_abstract-for-sla.docx` |
 |`Joe’s Filenames Use Spaces and Punctuation.xlsx` | `Joes-filenames-are-getting-better.xlsx` |
