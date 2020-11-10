@@ -96,26 +96,41 @@ You need:
 * Task list
 * Calendar
 * Reference
-* Communication channel
+* Communication channel __TODO:__ check with communication chapter to reduce overlap
 
-Having specific places you use for each of these, is helpful in getting everybody up to speed on what is happening, and to avoid any confusions. It also helps to avoid duplication of effort. For example, a shared task list can help to avoid questions like "I thought you were supposed to do that". A shared reference folder can help you to avoid reading the same documents twice, or asking the same "frequently asked questions". Finally, a designated communication channel can reduce the time spent searching for various bits of information, for example in your email. 
+Having specific places you use for each of these, is helpful in getting everybody up to speed on what is happening, and to avoid any confusions. It also helps to avoid duplication of effort. For example, a shared task list can help to avoid questions like "I thought you were supposed to do that". A shared reference folder can help you to avoid reading the same documents twice, or asking the same "frequently asked questions". Finally, a designated communication channel can reduce the time spent searching for various bits of information.  
 
-Various apps integrate one of more of these. 
+###  Shared task list
 
-* Task list - Todoist, Notion, many others. Some have Kanban functionality like Trello, Todoist, Github Boards, Notion. 
-* Calendar - many choices, Google Calendar is popular
-* Reference - Github (via Issues), Notion, Evernote, Google Drive, Dropbox
-* Communication - Slack, Todoist (via comments), Github (via Issues), Evernote (via chat) (there is already a chapter on this, link to it for more details) 
+Everybody knows what is needed to complete the project (or even individual projects!) and thus what is everybody working on. This can be managed via a variety of apps such as Todoist, Notion, Trello or Github.
 
-Some apps allow integrations with others, if not it is often possible to set up via IFTTT or Zapier. 
+For software projects, a natural way to manage the todo list might be via Github issues. This set of slides gives more background on how to do this: https://merely-useful.github.io/mrsp/02-workflow.html#1
+
+If you prefer a Kanban-like todo list, Github issues can be imported as cards under the Projects tab in Github. Here you can add both existing issues, and "simple" cards. You can use these simple cards (which do not have functionality like milestones, tags etc) for tasks which do not have to do with the software part of your project, for example buying beans for the coffee machine. 
 
 ### Shared calendar
 
-Group meetings, time slots, when are people doing what (if you need their help) 
+Calendar - many choices, Google Calendar is popular. Good for group meetings, time slots, when are people doing what (if you need their help), "may be of interest" calendar, "away" calendar. Slots for scheduling one-on-ones (do not do it if not needed). 
 
-### Shared reference
 
-Don't duplicate the work of saving important documents (templates, reports). For example research papers:
+### Shared reference / knowledge base
 
-https://veronikach.com/habits-productivity/how-to-share-papers-with-your-students-in-evernote/
+The idea of a shared reference system is to give everybody access to the same information, and to avoid duplication. Things you might want to have in such a system:
+
+* Code of conduct
+* Safety guidelines
+* Onboarding, how to setup various software
+* A guide how to use the shared systems 
+* Manuals for any hardware
+* (Summaries of) important papers to read in your field
+* Technical reports produced by the lab
+* ... 
+
+An example of using Evernote to share research papers (and notes) with a team of students can be found here: https://veronikach.com/habits-productivity/how-to-share-papers-with-your-students-in-evernote/
+
+Again, there are a lot of places you could keep such information. In Github you could do this via markdown documents or the Wiki tab. Storing notes or PDFs in Evernote, Notion, Google Drive and others could also work depending on your project. 
+
+### Tool conflicts
+
+Various apps integrate one of more of these functionalities. However different team members might already be using other systems, which can cause forgetting tasks or calendar conflicts. To circumvent this problem, it is good to know that many apps allow integrations with others. For example, if the shared system is in Todoist, but somebody prefers Google Tasks, an integration to sync these can be set up. If there is no "ready made" integration, often it is possible to set up via IFTTT (IF This Than That https://ifttt.com/home) or Zapier (https://zapier.com/). 
 
