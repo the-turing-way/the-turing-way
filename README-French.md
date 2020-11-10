@@ -40,7 +40,7 @@ Le but est de garantir que tous les résultats peuvent être vérifiés indépen
 C'est parfois plus facile à dire qu'à faire.
 Partager l'ensemble des intrants et extrants (par ex., données, résultats, etc.) de recherche signifie comprendre la gestion des données, les sciences de l'information et des bibliothèques, le développement de logiciels et les techniques d'intégration continue: des compétences qui ne sont pas largement enseignées ou attendues de la communauté de recherche universitaire et des scientifiques des données. Comme ces activités ne sont pas couramment enseignées, nous reconnaissons que le fardeau des exigences et l'acquisition de nouvelles compétences peuvent intimider les personnes qui sont nouvelles dans ce monde.
 *The Turing Way* est un manuel destiné à aider les étudiants, leurs superviseurs, les bailleurs de fonds et les éditeurs de revues afin que la science des données reproductibles soit «trop facile à ne pas faire» même pour les personnes qui n'ont jamais travaillé de cette manière auparavant.
-Il comprendra du matériel de formation sur le contrôle de version, les tests d'analyse et une communication ouverte et transparente avec les futurs utilisateurs, et s'appuiera sur des études de cas et des ateliers de l'Institut Turing.
+Il comprend, entre autres, du matériel de formation sur la gestion de version, les tests d'analyse et une communication ouverte et transparente avec les novices et s'appuie sur des études de cas et des ateliers du Turing Institute.
 
 Ce projet est développé de façon ouverte et toutes les questions, commentaires et recommandations sont les bienvenus dans notre dépôt GitHub: <https://github.com/alan-turing-institute/the-turing-way>.
 
