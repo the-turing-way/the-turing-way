@@ -104,5 +104,5 @@ Vous pouvez également contacter la chercheuse principale **Kirstie Whitaker** p
 
 Merci à ces gens merveilleux ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-Ce projet suit la [all-contributors](https://github.com/all-contributors/all-contributors) spécification.
+Ce projet suit la [spécification _all-contributors_](https://github.com/all-contributors/all-contributors)
 Contributions de toute nature bienvenues!
