@@ -32,7 +32,7 @@ Everything's green because the build is passing. Note the "build passing" badge 
 
 ```{figure} ../../figures/Travis_badge_pass.png
 ---
-height: 350px
+name: travis_badge_pass
 alt: Travis badge showing a passed build.
 ---
 The Travis badge is used as an indicator when the all the tests have passed.
