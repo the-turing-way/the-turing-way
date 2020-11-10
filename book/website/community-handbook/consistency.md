@@ -29,7 +29,6 @@ Moreover, no items are inherently more important than the other.
 
 If you identify more consistency issues that need to be addressed, join the conversation [here](https://github.com/alan-turing-institute/the-turing-way/issues/1174).
 
-No item is inherently more important than the other.
 ```
 
 (ch-consistency-requirements-checklist)=
