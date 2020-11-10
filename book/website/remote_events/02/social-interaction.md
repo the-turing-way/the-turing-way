@@ -20,7 +20,7 @@ Throughout all of these it is important to consider whether resources would be a
 ## Icebreakers
 
 Icebreakers are a great way of creating first links between attendees.
-This is especially important at an online workshops and conferences where spontaneous interactions occur less often.
+This is especially important at online workshops and conferences where spontaneous interactions occur less often.
 Additionally, having a well run icebreaker at the beginning of each day can set a more open and collaborative tone for your event.
 Depending on the number of attendees it is likely that you will want to divide the group into breakout rooms using your conferencing software.
 Here are some suggestions:
