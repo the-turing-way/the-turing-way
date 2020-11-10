@@ -29,7 +29,7 @@ Table des matières:
 - [Entrer en contact](#entrer-en-contact)
 - [Personnes qui ont contribué](#contribution)
 
-🎧 Si vous préférez une introduction audio au projet, notre membre de l'équipe Rachael a présenté au [Open Science Fair 2019](https://www.opensciencefair.eu/) à Porto et sa démo a été enregistrée par le [Orion podcast](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
+🎧 Si vous préférez une introduction audio au projet (en anglais seulement), Rachael, membre de l'équipe,  a présenté à l'[Open Science Fair 2019](https://www.opensciencefair.eu/) à Porto et sa démo a été enregistrée par l'[Orion podcast](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
 La vue d'ensemble de _The Turing Way_ commence à la minute 5:13.
 
 ### À propos du projet
