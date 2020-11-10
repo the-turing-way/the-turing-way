@@ -259,8 +259,12 @@
       file: collaboration/leadership/leadership-building
     - title: Creating Structure in Leadership
       file: collaboration/leadership/leadership-structure
-    - title: Personal Stories of Leadership
-      file: collaboration/leadership/leadership-stories
+    - title: Diversity
+      file: collaboration/leadership/leadership-diversity
+    - title: Creating Leadership Opportunities
+      file: collaboration/leadership/leadership-opportunities
+    - title: What to Avoid in Leadership
+      file: collaboration/leadership/leadership-avoid
 
 # ===== Ethical Research Guide ========================================
 - file: ethical-research/ethical-research
