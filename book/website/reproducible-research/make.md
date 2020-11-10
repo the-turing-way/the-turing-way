@@ -1,6 +1,6 @@
 # Reproducibility with Make
 
-## Prerequisites / recommended skill level
+## Prerequisites
 
 | Prerequisite | Importance | Notes |
 | ------------ | ---------- | ----- |
@@ -27,7 +27,7 @@ the way to the pdf file of the paper!
 <small style="margin: 5pt auto; text-align: center; display: block;">A
 schematic for a research project that uses LaTeX.</small>
 
-## An Introduction to Make
+## Why This is Useful
 
 ### What is Make
 
