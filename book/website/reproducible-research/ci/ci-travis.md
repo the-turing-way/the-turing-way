@@ -23,7 +23,7 @@ Here's what the Travis dashboard of a repository looks like:
 ```{figure} ../../figures/Travis_build.png
 ---
 name: travis_build
-alt: Travis_build.
+alt: A screenshot of what a Travis dashboard looks like when Travis has been set up on a project.
 ---
 An example of a Travis dashboard.
 ```
