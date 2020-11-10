@@ -85,7 +85,7 @@ Lorsque vous utilisez l'une des images, veuillez inclure l'attribution suivante:
 > Cette image a été créée par Scriberia pour la communauté The Turing Way et est utilisée sous licence CC-BY.
 
 La dernière version de Zenodo peut être citée comme:
-> La communauté Turing Way, & Scriberia. (2020, Mars 3). Illustrations tirées du livre Turing Way. Zenodo. http://doi.org/10.5281/zenodo.3695300
+> The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300
 
 Nous avons utilisé quelques-unes de ces illustrations dans les réponses de [Welcome Bot](https://github.com/apps/welcome) aux contributions des nouveaux membres dans ce dépôt GitHub.
 
