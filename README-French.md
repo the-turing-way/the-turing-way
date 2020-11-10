@@ -55,7 +55,7 @@ Pour plus d'informations sur la manière de nous contacter, consultez le [docume
 
 :construction: Ce projet est un travail en développement continu et **tout le monde** est encouragé à nous aider à construire quelque chose qui soit utile au plus grand nombre. :construction:
 
-Tout le monde est invité à suivre notre [code de conduite](CODE_OF_CONDUCT.md) et à consulter nos [consignes de contribution](CONTRIBUTING.md)
+Tout le monde est invité à suivre notre [code de conduite](CODE_OF_CONDUCT.md) et à consulter nos [consignes pour contribuer](CONTRIBUTING.md) pour plus d'informations sur la façon de commencer.
 pour plus d'informations sur la façon de commencer.
 
 Si vous n'êtes pas à l'aise de contribuer directement sur GitHub, vous pouvez également contribuer une étude de cas et vos conseils et astuces via notre [formulaire de soumission Google](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
