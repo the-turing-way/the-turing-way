@@ -7,7 +7,7 @@ To sustain and support this vibrant community, _The Turing Way_ book should rema
 The {ref}`ch-style-guide` chapter already provides guidelines for maintaining a consistent style across the book. However, not all chapters follow these suggestions since they're often written asynchronously by different authors. 
 This pointed towards a need to encourage and support our contributors to maintain consistency throughout the chapters in _The Turing Way_ guides. 
 Achieving this goal alone is reasonably challenging. 
-Therefore, this chapter will guide our contributors by outlining a step-by-step checklist for consistency.
+Therefore, this chapter will outline a step-by-step consistency checklist that will guide our contributors.
 Each step will point them towards what consistency checks to look for as they design and develop chapters in _The Turing Way_ or bring consistency across the existing chapters.
 
 (ch-consistency-requirements)=
