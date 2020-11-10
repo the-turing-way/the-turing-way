@@ -20,13 +20,55 @@
 
 ### Law
 
-Link to central page on 'this book is not a lawyer'
-<!--- not written yet, but there is an issue open here: https://github.com/alan-turing-institute/the-turing-way/issues/1469) -->
+This is not legal advice. Please read for information only! 
+<!--- Link to central page on 'this book is not a lawyer' - not written yet, but there is an issue open here: https://github.com/alan-turing-institute/the-turing-way/issues/1469) -->
 
 #### Domestic and regional law
 
+You should be aware of what laws cover your work.
+This will depend on which jurisdictions you work in: usually the geographical area covered by a law.
+You should be aware of the laws that cover you at local, state or regional, national, and international levels. 
+
+You should also be aware what steps you should take to ensure that you are compliant with all relevant laws. 
+This section is not exhaustive!
+It is designed to give you some ideas for the kinds of laws you should be aware of.
+
+##### Privacy law
 
 
+
+##### Data protection law
+
+
+
+##### Intellectual property law
+
+
+
+##### Tort law
+
+
+
+##### Contract law
+
+
+
+##### How to change laws
+
+Law is not static and unchanging. 
+The law is made by humans and it can be changed by humans.
+If you feel that the law in your jurisdiction works in a way that is unhelpful or damaging, consider joining efforts to change it!
+Changing laws is a long-term project and can take decades. 
+This section is not intended to explain how to do this: a good place to start is to find a campaigning organisation who is working on the issue, and ask them how to get involved. 
+
+
+
+<!--- @LauraCarter one thing that is being discussed over and over is "what am I allowed to do as researcher in terms of making my work openly available?"
+
+A lot of times people tell me things like "But my institution own all software I create. I am not allowed to publish it under an open licence.". I personally decide to ignore this, but they do have a point. Not sure if it is a Germany-specific discussion maybe? -->
+
+
+<!--- Sounds like something we should definitely cover in a book dedicated to open science, but maybe we need to seek out an expert in IP law for that? And that is just part of the answer of when can you publish code - the many different parts being does it belong to you (IP law, contract law), is there some private data in there (privacy, data protection), will it harm people if it is reused (I guess general tort law might apply, human rights law and ethics could be useful in thinking through things generally though). It is a bit tricky, this law and research chapter. --->
 
 
 <!--- GDPR and privacy laws (and how privacy and data protection are different) [@malvikasharan - did we think it would be a good idea to have discussions about other nations'/regions' laws?]
