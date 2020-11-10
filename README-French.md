@@ -98,7 +98,7 @@ Nous avons également une petite infolettre à laquelle nous envoyons des mises 
 Abonnez-vous à <https://tinyletter.com/TuringWay>.
 
 Vous pouvez contacter notre gestionnaire de communauté **Malvika Sharan** par courriel à [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
-Vous pouvez également contacter l'enquêteuse principale **Kirstie Whitaker** par courriel à [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
+Vous pouvez également contacter la chercheuse principale **Kirstie Whitaker** par courriel à [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 
 ## [Contributeurs](https://github.com/alan-turing-institute/the-turing-way#contributors)
 
