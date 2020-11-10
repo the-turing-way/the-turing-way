@@ -68,7 +68,6 @@ Language | Hard | Ensure chapters use a consistent language, for example, if you
 
 
 
-  - Capitalise the first, last and 'important' words of every title; for example, 'Snow White and the Seven Dwarves'.
 
 ##### Structure
 
