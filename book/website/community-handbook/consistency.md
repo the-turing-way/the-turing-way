@@ -54,7 +54,11 @@ No item is inherently more important than the other.
 
 ##### Language
 
-- Ensure chapters do not use any Latin abbreviation as discussed in the {ref}`style guide<ch-style-guide>`
+TYPE | REQUIREMENT | CHECK 
+---- | ----------- | ----- 
+Language | Hard | Ensure chapters do not use any Latin abbreviation as discussed in the {ref}`style guide<ch-style-guide>`
+Language | Hard | Ensure correct grammar and a consistent tone across the book with the help of 1-2 reviewers
+Language | Hard | Ensure chapters use a consistent language, for example, if you choose to write in British English, maintain that throughout
 - Ensure correct grammar and a consistent tone across the book with the help of 1-2 reviewers
 - Ensure chapters use a consistent language, for example, if you choose to write in British English, maintain that throughout
 
