@@ -4,11 +4,9 @@
 Both the project and the source code should be documentated in order for others to understand what the project is about, how they can use it and how they can contribute to it.
 
 ### Markdown
-[Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+[Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight markup language with plain-text-formatting syntax. GitHub and other project and code hosting services automatically render markdown files for humans to read.
 
-GitHub and other project and code hosting services automatically render markdown files for humans to read. 
-
-You can learn about markdown syntax and how to master this language in an excellent GitHug [Mastering markdown Guide](https://guides.github.com/features/mastering-markdown/). Try it out with an [online editor](https://markdown-it.github.io)
+You can learn [CommonMark syntax](https://commonmark.org/help/) use online editors to practice, for example [commonmark.js dingus](https://spec.commonmark.org/dingus/) or [markdown-it demo](https://markdown-it.github.io).
 
 ## Project Documentation
 Describe your project for others to understand what it is about, what is the audience, how others can contribute to it. The [Mozilla Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) [Opening Your Project Chapter](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/) is a good starting point to learn about how to efectively communicate information abou your project.
@@ -36,8 +34,12 @@ https://keepachangelog.com/en/1.0.0/
 ### code comments
 
 ### API documentation
+For a library the API documentation is the same as the code documentation such as description of classes/functions/constants etc.
+
+For a web service there are standards that like [OpenAPI](https://www.openapis.org/) or [Graphql](https://graphql.org/).
 
 ### usage documentation
+For a command line interface you could make a [man page](https://en.wikipedia.org/wiki/Man_page) with examples.
 
 ### development setup
 
