@@ -96,4 +96,6 @@ It has a text file for your LICENSE.md file and also a shield that you can put a
 
 You can find information about licenses in the [Licensing](../licensing) chapter of The Turing Way.
 
+<Add diagram 4 here>
+
 
