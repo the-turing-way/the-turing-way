@@ -22,7 +22,7 @@ Here's what the Travis dashboard of a repository looks like:
 
 ```{figure} ../../figures/Travis_build.png
 ---
-height: 350px
+name: travis_build
 alt: Travis_build.
 ---
 An example of a Travis dashboard.
