@@ -21,7 +21,7 @@
 ### Law
 
 This is not legal advice. Please read for information only! 
-<!--- Link to central page on 'this book is not a lawyer' - not written yet, but there is an issue open here: https://github.com/alan-turing-institute/the-turing-way/issues/1469) -->
+[Link to central page on 'this book is not a lawyer' - not written yet, but there is an issue open here: https://github.com/alan-turing-institute/the-turing-way/issues/1469)]
 
 #### Domestic and regional law
 
