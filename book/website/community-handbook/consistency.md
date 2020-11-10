@@ -45,7 +45,6 @@ Formatting | Hard | Use `MyST` for image formatting as described in the {ref}`st
 Formatting | Soft | Ensure that the names of chapters/subchapters are short and map exactly to how they are titled in the `_toc.yml` 
 Formatting | Soft | Ensure proper title-casing for headers | Capitalise the first, last and 'important' words of every title; for example, 'Snow White and the Seven Dwarves'. 
 
-  - Avoid any HTML formatting, or remove all HTML tags when reviewing existing chapters
 - Use the headers in sequential order (for example, starting the top level with h1 tag `#`, second-level header with h2 tag `##` and so on)
 - Add labels to chapters, subchapters and images to enable cross-referencing as described in the {ref}`style guide<ch-style-crossref>`
 - Use `MyST` for image formatting as described in the {ref}`style guide<ch-style-figures>`
