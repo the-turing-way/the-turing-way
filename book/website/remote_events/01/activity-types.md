@@ -162,7 +162,7 @@ A session chair can then moderate these question and pose them to the speaker.
 
 ## Prototyping or Ideas Generation Session
 
-By a prototyping or an ideas generation session, which in UK academia can also be termed a sandbox, we mean a group activity focused on brain storming around a theme which can a particular problem or set of problems or on how to get the most of a new technology, technique or material etc.
+By a prototyping or an ideas generation session, which in UK academia can also be termed a sandbox, we mean a group activity focused on brain storming around a theme which can a particular problem or set of problems or on how to get the most of a new technology, technique or material, and so on.
 These activities tend to also act as a way to introduce people who have shared concerns but will not previously have met as they are from different disciplines or communities.
 
 ### Requirements
