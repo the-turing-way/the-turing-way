@@ -32,7 +32,7 @@ Everything's green because the build is passing. Note the "build passing" badge 
 
 ```{figure} ../../figures/Travis_badge_pass.png
 ---
-height: 400px
+height: 350px
 alt: Travis badge showing a passed build.
 ---
 The Travis badge is used as an indicator when the all the tests have passed.
@@ -42,7 +42,7 @@ If I deliberately create a bug and commit it then Travis automatically runs, the
 
 ```{figure} ../../figures/Travis_badge_fail.png
 ---
-height: 400px
+height: 350px
 alt: Travis badge showing a failed build.
 ---
 The Travis badge shows build error when any of the tests has failed.
