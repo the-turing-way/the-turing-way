@@ -33,13 +33,29 @@ You should also be aware what steps you should take to ensure that you are compl
 This section is not exhaustive!
 It is designed to give you some ideas for the kinds of laws you should be aware of.
 
-##### Privacy law
-
 
 
 ##### Data protection law
 
+Data protection laws cover what is permitted by law when collecting and processing data. 
+The aim of data protection laws is to protect the privacy of individuals when collecting and using information about them.
 
+
+
+Data protection laws are sometimes confused with privacy laws, but they are not the same thing. 
+
+##### Privacy law
+
+Privacy laws protect people's ability to keep themselves, or information about themselves, away from public view. 
+The specific content of privacy laws varies between jurisdictions.
+Laws may be general, or they may only cover certain kinds of information, sometimes referred to as 'sensitive information' or 'personally identifiable information.'
+This might include, for example, medical or financial information about a person.
+
+Privacy laws have periodically been updated to take into account new technologies, which have offered new ways for privacy to be invaded and for information about people to be shared. 
+This started in the 19th century when newspapers became widespread, and is still happening as legislators try to keep up with developments in the internet and in data collection.
+
+Privacy is sometimes confused with data protection, but it is much broader. 
+Privacy is also a human right (see below).
 
 ##### Intellectual property law
 
