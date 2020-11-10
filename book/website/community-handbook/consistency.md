@@ -73,7 +73,6 @@ Language | Hard | Ensure chapters use a consistent language, for example, if you
 ##### Structure
 
   - Ensure each chapter has a good summary on its landing page along with links to its subchapters.
-  - Split long chapters into smaller subchapters so they are modular
   
 
 These checks are further explained in the following subchapters: {ref}`Formatting<ch-consistency-formatting>`, {ref}`Structure<ch-consistency-structure>`, and {ref}`Language<ch-consistency-language>`.
