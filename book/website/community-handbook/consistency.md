@@ -79,4 +79,3 @@ Language | Hard | Ensure chapters use a consistent language, for example, if you
 These checks are further explained in the following subchapters: {ref}`Formatting<ch-consistency-formatting>`, {ref}`Structure<ch-consistency-structure>`, and {ref}`Language<ch-consistency-language>`.
 
 Please note that the classification of our consistency checklist into these subchapters is only to make it easy for us to describe them in the context of format, structure, and language.
-They may not follow the exact order as listed in the checklist on this page.
