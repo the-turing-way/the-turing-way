@@ -19,7 +19,12 @@ A repository or repo is the online space where you store all of the documents, d
 
 This is what you should see now. The diagram below explains what all the buttons, tabs and other things do!
 
-<Add diagram 1 here>
+```{figure} ../../figures/easyway1_basic_diagram.jpg
+---
+height: 500px
+name: easyway1_basic_diagram
+---
+```
 
 **3. Edit your README.md file**
 
@@ -40,9 +45,19 @@ In the top right of this box is a pencil symbol that you can click to make any c
 
 You can now edit it.
 
-<Add diagram 2 here>
+```{figure} ../../figures/easy2_readme_before_edit.jpg
+---
+height: 500px
+name: easyway2_readme_before_edit
+---
+```
 
-<Add diagram 3 here>
+```{figure} ../../figures/easyway3_readme_after_edit.jpg
+---
+height: 500px
+name: easyway3_readme_after_edit
+---
+```
 
 * Keep it simple! When you’re working in any field, whether it’s software engineering or astrophysics, you’ll learn and use jargon – terms that have a special meaning to your field but likely won’t make sense to anyone who isn’t part of that field. Too much jargon can confuse newcomers, so use simple language and define all potentially confusing terms here.
 * Share your project with others.
@@ -96,6 +111,11 @@ It has a text file for your LICENSE.md file and also a shield that you can put a
 
 You can find information about licenses in the [Licensing](../licensing) chapter of The Turing Way.
 
-<Add diagram 4 here>
+```{figure} ../../figures/easyway4_edited_readme.jpg
+---
+height: 500px
+name: easyway4_edited_readme
+---
+```
 
 
