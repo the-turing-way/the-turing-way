@@ -62,7 +62,6 @@ Language | Hard | Ensure chapters use a consistent language, for example, if you
 - Ensure chapters use a consistent language, for example, if you choose to write in British English, maintain that throughout
 
 
-##### Formatting
 
 - Ensure that the names of chapters/subchapters are short and map exactly to how they are titled in the `_toc.yml`
 - Ensure proper title-casing for headers
