@@ -14,6 +14,11 @@
 | community                  | Community Handbook        | Illustration depicting Turing Way community       |
 | container_example          | Reproducible environments | Demo of a simple container in terminal            |
 | docker_official_image      | Reproducible environments | The official ubuntu docker image with badge       |
+| easyway1_basic_diagram     | The easy way with Github  | Basic repo after intial creation                  |
+| easyway2_readme_before_edit| The easy way with Github  | Annotated diagram of Readme file before edit      |
+| easyway3_readme_after_edit | The easy way with Github  | Annotated diagram of Readme file after edit       |
+| easyway4_edited_readme     | The easy way with Github  | Annotated diagram of Readme file + license        |
+| easyway5_project           | The easy way with Github  | Annotated diagram of collaborative project page   |
 | eyeball_test_1             | Testing                   | Results tested by seeing if they 'look right'     |
 | eyeball_test_2             | Testing                   | Results tested by seeing if they 'look right'     |
 | eyeball_test_3             | Testing                   | Results tested by seeing if they 'look right'     |
