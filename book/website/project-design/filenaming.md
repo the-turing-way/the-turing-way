@@ -69,14 +69,14 @@ This happens a lot and clearly, this has more downsides than upsides.
 
 Here are some tips for naming files within a research project, which are both human- and machine-readable {cite}`Cowles2019Filenaming,Hodge2015Filenaming`:
 
-- [ ] Name your files consistently
-- [ ] Keep it short but descriptive
-- [ ] Avoid special characters or spaces to keep it machine-compatible
-- [ ] Use capitals or underscores to keep it human-readable
-- [ ] Use consistent date formatting, for example ISO 8601: `YYYY-MM-DD` to maintain default order
-- [ ] Include a version number when applicable
-- [ ] Share/establish a naming convention when working with collaborators
-- [ ] Record a naming convention in your data management plan
+- Name your files consistently
+- Keep it short but descriptive
+- Avoid special characters or spaces to keep it machine-compatible
+- Use capitals or underscores to keep it human-readable
+- Use consistent date formatting, for example ISO 8601: `YYYY-MM-DD` to maintain default order
+- Include a version number when applicable
+- Share/establish a naming convention when working with collaborators
+- Record a naming convention in your data management plan
 
 
 ## What to learn next
