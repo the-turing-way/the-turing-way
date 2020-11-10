@@ -69,7 +69,6 @@ Language | Hard | Ensure chapters use a consistent language, for example, if you
 
 
 
-##### Structure
 
   
 
