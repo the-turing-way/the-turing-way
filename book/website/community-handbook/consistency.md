@@ -18,7 +18,7 @@ Hard requirements are essential consistency checks that a chapter must pass so t
 Moreover, they make the chapter readable and accessible to everyone.
 
 Soft requirements, on the other hand, are nice-to-have consistency checks that a chapter should pass. 
-These checks greatly enhance the overall look and feel of the book but can be safely ignored if they cannot be integrated into your contribution.
+These checks greatly enhance the overall look and feel of the book, but can be safely ignored if they cannot be integrated into your contribution.
 You can always return to review your past contributions and enhance their content.
 
 An overview of these requirements is itemised {ref}`below <ch-consistency-requirements-checklist>`. The rest of this chapter explains them in more detail and describes how they can be achieved.
