@@ -62,7 +62,7 @@ Now you should have a clearer picture of what needs to be done next. In a scrum 
 
 In a team, likely everybody will have tasks they need to work on individually, vs meetings with with others. It might be efficient to designate different days or times as "meeting times" vs "deep work" times, so that everybody can have uninterrupted blocks of time. 
 
-"Deep work" times can be done in a group too - shared pomodoro?
+"Deep work" times can be done in a group too - shared pomodoro? With cuckoo clock
 
 ## Systems / project "pulse"
 
@@ -110,7 +110,14 @@ If you prefer a Kanban-like todo list, Github issues can be imported as cards un
 
 ### Shared calendar
 
-Calendar - many choices, Google Calendar is popular. Good for group meetings, time slots, when are people doing what (if you need their help), "may be of interest" calendar, "away" calendar. Slots for scheduling one-on-ones (do not do it if not needed). 
+Similar to the task list, it can be helpful to have one or more shared calendars:
+
+* Group meetings - rather than inviting everyone each time, have people subscribe to a shared calendar. It should be clear from the calendar, or the how-to guide to use it, which meetings are required for whom. 
+* "Maybe" calendar - events which might be interesting to the team, but presence is not expected. For example, webinars people can sign up for. 
+* "Away" calendar - when you are NOT available (deadline, conference), add a whole day event so you are not disturbed. This should not be done in the same calendar as group events, so these can be toggled on and off. 
+* Time slot reservations. People who have multiple one-on-one meetings can have recurrent time slot meetings, which others can edit to sign up for a meeting. 
+
+Outlook and Google Calendar are popular choices for calendars, but notoriously difficult to combine together. Tools like Calendly can facilitate time slot reservations in a calendar, and integrate with either system. 
 
 
 ### Shared reference / knowledge base
