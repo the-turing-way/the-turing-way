@@ -10,7 +10,7 @@
 [![Tous les contributeurs et contributrices](https://img.shields.io/badge/tous_les_contributeurs_et_contributrices-206-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-**_Ce fichier README.md est également disponible en anglais ([README-English](https://github.com/alan-turing-institute/the-turing-way), espagnol ([README-Spanish](/README-translated/README-Spanish.md)), italien ([README-Italian](/README-translated/README-Italian.md)), néerlandais ([README-Dutch](/README-translated/README-Dutch.md)) et portuguais ([README-Portuguese](/README-translated/README-Portuguese.md)) (ordonnés alphabétiquement)._**
+**_Ce fichier README.md est également disponible en anglais ([README-English](https://github.com/alan-turing-institute/the-turing-way)), espagnol ([README-Spanish](/README-translated/README-Spanish.md)), italien ([README-Italian](/README-translated/README-Italian.md)), néerlandais ([README-Dutch](/README-translated/README-Dutch.md)) et portuguais ([README-Portuguese](/README-translated/README-Portuguese.md)) (ordonnés alphabétiquement)._**
 
 _The Turing Way_ est un guide légèrement avisé de la science des données reproductibles.
 Vous pouvez le lire ici: <https://the-turing-way.netlify.com>
