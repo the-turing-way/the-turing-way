@@ -27,7 +27,7 @@ the way to the pdf file of the paper!
 <small style="margin: 5pt auto; text-align: center; display: block;">A
 schematic for a research project that uses LaTeX.</small>
 
-## Why This is Useful
+## An Introduction to Make
 
 ### What is Make
 
