@@ -76,7 +76,7 @@ Si vous avez des questions, veuillez [entrer en contact](#entrer-en-contact).
 
 ### Citer les illustrations de _The Turing Way_
 
-Les illustrations de _The Turing Way_ sont créées par des artistes de chez [Scriberia](https://www.scriberia.co.uk/) dans le cadre des [tirets du livre _The Turing Way_](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) à Manchester le 17 mai 2019 et à Londres les 28 mai 2019 et 21 février 2020.
+Les illustrations de _The Turing Way_ sont créées par des artistes de chez [Scriberia](https://www.scriberia.co.uk/) dans le cadre des [_book dashes_ pour _The Turing Way_](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) à Manchester le 17 mai 2019 et à Londres les 28 mai 2019 et 21 février 2020.
 Elles décrivent une variété de contenu qui se trouve dans le guide, les efforts de collaboration dans la communauté et le projet _The Turing Way_ en général.
 Ces illustrations sont disponibles sur Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) sous une licence CC-BY.
 
