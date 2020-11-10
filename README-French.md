@@ -53,7 +53,7 @@ Pour plus d'informations sur la manière de nous contacter, consultez le [docume
 
 ### Contribuer
 
-:construction: Ce dépôt est toujours un travail en cours et **tout le monde** est encouragé à nous aider à construire quelque chose qui soit utile au plus grand nombre. :construction:
+:construction: Ce projet est un travail en développement continu et **tout le monde** est encouragé à nous aider à construire quelque chose qui soit utile au plus grand nombre. :construction:
 
 Tout le monde est invité à suivre notre [code de conduite](CODE_OF_CONDUCT.md) et à consulter nos [consignes de contribution](CONTRIBUTING.md)
 pour plus d'informations sur la façon de commencer.
