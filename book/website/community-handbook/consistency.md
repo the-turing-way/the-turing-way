@@ -36,7 +36,14 @@ If you identify more consistency issues that need to be addressed, join the conv
 
 #### Formatting
 
-##### Formatting
+TYPE | REQUIREMENT | CHECK  
+---- | ----------- | ----- 
+Formatting | Hard | Use Markdown for creating your content (see this [WordPress cheatsheet](https://wordpress.com/support/markdown-quick-reference/)).
+Formatting | Hard | Use the headers in sequential order. For example, starting the top level with h1 tag `#`, second-level header with h2 tag `##` and so on.
+Formatting | Hard | Add labels to chapters, subchapters and images to enable cross-referencing as described in the {ref}`style guide<ch-style-crossref>` 
+Formatting | Hard | Use `MyST` for image formatting as described in the {ref}`style guide<ch-style-figures>` 
+Formatting | Soft | Ensure that the names of chapters/subchapters are short and map exactly to how they are titled in the `_toc.yml` 
+Formatting | Soft | Ensure proper title-casing for headers | Capitalise the first, last and 'important' words of every title; for example, 'Snow White and the Seven Dwarves'. 
 
 - Use Markdown for creating your content (see this [cheatsheet from WordPress](https://wordpress.com/support/markdown-quick-reference/))
   - Avoid any HTML formatting, or remove all HTML tags when reviewing existing chapters
