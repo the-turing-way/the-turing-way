@@ -38,7 +38,12 @@ It is designed to give you some ideas for the kinds of laws you should be aware 
 Data protection laws cover what is permitted by law when collecting and processing data. 
 The aim of data protection laws is to protect the privacy of individuals when collecting and using information about them.
 
-Data protection laws are 
+Data protection laws need to be updated frequently in order to make sure they cover all the ways that different actors are using new forms of technology to collect and use data in new ways. 
+Because data protection laws sit at the limits of what companies - especially big tech giants - are able to do, the process of making, updating and enforcing data protection laws has become increasingly newsworthy.
+New pieces of legislation such as the General Data Protection Regulation (GDPR) in the EU have attracted a lot of attention.
+
+Many countries have a national data protection authority, which is tasked with protecting data.
+They often produce guidance on how to comply with data protection laws. 
 
 Data protection laws are sometimes confused with privacy laws, but they are not the same thing. 
 
@@ -56,6 +61,24 @@ Privacy is sometimes confused with data protection, but it is much broader.
 Privacy is also a human right (see below).
 
 ##### Intellectual property law
+
+Intellectual property refers to creations that have been made by humans. 
+These can include literary and artistic works, as well as inventions.
+They can also include scientific works and discoveries
+
+Intellectual property rights aim to protect the interests of the creators of these works.
+
+Intellectual property laws aim to balance 
+
+These can include: 
+- copyright: covers creative works, and gives the owner the right to make copies.
+- trademark: covers goods or services, and identifies them as coming from a particular provider.
+- patent: covers inventions, and gives the owner the right to stop other actors from making or selling that invention.
+
+The extent to which any intellectual property is protected in law varies by jursidiction, and is often time-limited.
+Enforcement of intellectual property law also varies by jurisdiction. 
+In general, it is the owner of the intellectual property who is responsible for enforcing their rights, for example by sueing another person in court. 
+
 
 
 
@@ -139,6 +162,7 @@ There are also regional human rights instruments:
 - European Convention on Human Rights, which covers 47 members of the Council of Europe.
 
 Some countries have ratified some of the treaties that apply to them: this means that they have incorporated the content of the the treaties into their national law.
+Many countries also have a national human rights institution, which independently monitors and investigates human rights violations in that country, and advises the government on implementing their obligations. 
 
 Countries that have signed treaties have committed to implementing them.
 However, the process of implementing treaties in full, so that every person in a country can enjoy all the rights in a treaty, is very long and requires lots of actions from states.
