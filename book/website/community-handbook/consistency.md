@@ -68,7 +68,6 @@ Language | Hard | Ensure chapters use a consistent language, for example, if you
 
 
 
-- Ensure that the names of chapters/subchapters are short and map exactly to how they are titled in the `_toc.yml`
 - Ensure proper title-casing for headers
   - Capitalise the first, last and 'important' words of every title; for example, 'Snow White and the Seven Dwarves'.
 
