@@ -58,7 +58,7 @@ Pour plus d'informations sur la manière de nous contacter, consultez le [docume
 Tout le monde est invité à suivre notre [code de conduite](CODE_OF_CONDUCT.md) et à consulter nos [consignes de contribution](CONTRIBUTING.md)
 pour plus d'informations sur la façon de commencer.
 
-Si vous n'êtes pas familier ou confiant en contribuant sur GitHub, vous pouvez également contribuer à une étude de cas et vos conseils et astuces via notre [formulaire de soumission Google](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
+Si vous n'êtes pas à l'aise de contribuer directement sur GitHub, vous pouvez également contribuer une étude de cas et vos conseils et astuces via notre [formulaire de soumission Google](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
 
 ### Citer _The Turing Way_
 
