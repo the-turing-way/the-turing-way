@@ -21,7 +21,8 @@ Soft requirements, on the other hand, are nice-to-have consistency checks that a
 These checks greatly enhance the overall look and feel of the book, but can be safely ignored if they cannot be integrated into your contribution.
 You can always return to review your past contributions and enhance their content.
 
-An overview of these requirements is itemised {ref}`below <ch-consistency-requirements-checklist>`. The rest of this chapter explains them in more detail and describes how they can be achieved.
+An overview of these requirements is itemised {ref}`below <ch-consistency-requirements-checklist>`. 
+For easy description, these consistency checks are classified by format, structure, and language. The subchapters explain these in more detail and describe how they can be achieved. 
 
 ```{important} Please note that these requirements are not exhaustive or definitive, and neither are their classifications rigid.
 Moreover, no items are inherently more important than the other.
