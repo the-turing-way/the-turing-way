@@ -106,7 +106,7 @@ Everybody knows what is needed to complete the project (or even individual proje
 
 For software projects, a natural way to manage the todo list might be via Github issues. This set of slides gives more background on how to do this: https://merely-useful.github.io/mrsp/02-workflow.html#1
 
-If you prefer a Kanban-like todo list, Github issues can be imported as cards under the Projects tab in Github. Here you can add both existing issues, and "simple" cards. You can use these simple cards (which do not have functionality like milestones, tags etc) for tasks which do not have to do with the software part of your project, for example buying beans for the coffee machine. 
+If you prefer a Kanban-like todo list, Github issues can be imported as cards under the Projects tab in Github. Here you can add both existing issues, and "simple" cards. You can use these simple cards (which do not have functionality like milestones, tags and so forth) for tasks which do not have to do with the software part of your project, for example buying beans for the coffee machine. 
 
 ### Shared calendar
 
