@@ -28,6 +28,7 @@ In a research setting this might be less applicable if each person is working on
 * http://www.cs.umd.edu/~mwh/papers/score.pdf
 * https://psyarxiv.com/zg4ub
 * https://veronikach.com/phd-advice/organizing-student-projects-with-scrum/
+* Weekly meetings with Github https://github.com/WhitakerLab/WhitakerLabProjectManagement/ 
 
 
 ### GTD
@@ -36,6 +37,15 @@ Getting Things Done by David Allen, approach to task management initially intend
 
 * Capture - as soon as something comes up, put it inside your system 
 * Process - sort and organize your tasks so that you know what you need to focus on next. This can be done at different levels, but an important one is every week, also called weekly review, during which you sit down and go through a checklist.  
+
+Examples:
+
+* Week review template: https://ihavesomanyideas.com/art-week-review-free-template/
+* GTD with Evernote: https://medium.com/@sandoche/how-to-build-a-productive-system-with-evernote-to-get-things-done-7b3305ad4be3
+* GTD with Evernote and Todoist: https://veronikach.com/habits-productivity/how-im-implementing-gtd-with-todoist-evernote-and-google-calendar-part-1/
+* GTD for academics: http://rtalbert.org/gtd-for-academics-weekly-review/
+
+* A different opinion on GTD for creative work: https://heydave.org/post/24286720323/gtd-sucks-for-creative-work-heres-an-alternative
 
 
 
@@ -56,10 +66,15 @@ If you are creating tasks for yourself, it is tempting to skip some of these ste
 If you are good at capturing tasks that need to be done, you will probably end up with a lot of tasks. To avoid getting overwhelmed and doing everything at the same time, you will need to decide if, and when, to do the tasks you have captured. There are several ways to help you think about this, but most of of them can be seen as assigning different tags to each task. These tags can be related to:
 
 * A specific date that the task must be complete
-* A priority. The Einsenhower matrix is a tool to categorize each task into four categories: urgent & important, not urgent & important, urgent & not important, not urgent & not important. The caveat is to only end up doing the urgent tasks, but not creating time for the "not urgent & important ones". 
+* A priority. Urgent/important, deep work
 * How long you estimate the task will take (minutes/hours/...) 
 * Context-dependent things you need to do the task, such as being at the office.  
 * How much energy you need to do the task. 
+
+The Einsenhower matrix is a tool to categorize each task into four categories: urgent & important, not urgent & important, urgent & not important, not urgent & not important. The caveat is to only end up doing the urgent tasks, but not creating time for the "not urgent & important ones". 
+
+Todoist filters for tasks: https://marcjenkins.co.uk/todoist-the-filters-i-use/ 
+
 
 ### Kanban
 
@@ -75,6 +90,11 @@ Tasks progress from left to right in time, for example:
 
 The same principle can be applied on the level of projects. For example if you are involved in co-authoring multiple papers, you might want to focus on two papers first and submitting them before moving onto others, rather than contributing to five in parallel. 
 
+* Kanban project management for PhD: https://www.linkedin.com/pulse/kanban-project-management-stem-phd-research-part-2-how-duc-phan/
+* Kanban for research projects overall: https://veronikach.com/habits-productivity/keeping-track-of-your-research-projects-with-kanban/
+* Kanban for research projects 2: https://md.ekstrandom.net/blog/2017/02/productivity-the-wall 
+* 
+
 __TODO more on not urgent & important__
 
 ### Doing tasks
@@ -83,9 +103,16 @@ Now you should have a clearer picture of what needs to be done next. In a scrum 
 
 In a team, likely everybody will have tasks they need to work on individually, vs meetings with with others. It might be efficient to designate different days or times as "meeting times" vs "deep work" times, so that everybody can have uninterrupted blocks of time. 
 
-"Deep work" times can be done in a group too - shared pomodoro? With cuckoo clock
+"Deep work" times can be done in a group too, ideas:
 
+* Shared pomodoro / cuckoo clock
+* Background noise like https://purrli.com/ or Coffitivity
+* Shared Spotify playlist (via Discord, any others?) 
 
+Examples:
+* Planning tasks on calendar: https://www.macsparky.com/blog/2018/2/hyper-scheduling-mechanics
+* Planning on calendar: https://blog.usejournal.com/calendar-in-stead-of-to-do-lists-9ada86a512dd?gi=ffa2a66947a4 
+* 
 
 
 
@@ -107,6 +134,10 @@ Everybody knows what is needed to complete the project (or even individual proje
 For software projects, a natural way to manage the todo list might be via Github issues. This set of slides gives more background on how to do this: https://merely-useful.github.io/mrsp/02-workflow.html#1
 
 If you prefer a Kanban-like todo list, Github issues can be imported as cards under the Projects tab in Github. Here you can add both existing issues, and "simple" cards. You can use these simple cards (which do not have functionality like milestones, tags and so forth) for tasks which do not have to do with the software part of your project, for example buying beans for the coffee machine. 
+
+Examples:
+* Github for project management: https://everhour.com/blog/project-management-using-github/
+
 
 ### Shared calendar
 
@@ -135,9 +166,24 @@ The idea of a shared reference system is to give everybody access to the same in
 
 An example of using Evernote to share research papers (and notes) with a team of students can be found here: https://veronikach.com/habits-productivity/how-to-share-papers-with-your-students-in-evernote/
 
+Onboarding for new team members with Todoist: https://blog.doist.com/how-to-onboard-new-hires-using-todoist-and-twist-b2011753ad0f 
+
 Again, there are a lot of places you could keep such information. In Github you could do this via markdown documents or the Wiki tab. Storing notes or PDFs in Evernote, Notion, Google Drive and others could also work depending on your project. 
 
 ### Tool conflicts
 
 Various apps integrate one of more of these functionalities. However different team members might already be using other systems, which can cause forgetting tasks or calendar conflicts. To circumvent this problem, it is good to know that many apps allow integrations with others. For example, if the shared system is in Todoist, but somebody prefers Google Tasks, an integration to sync these can be set up. If there is no "ready made" integration, often it is possible to set up via IFTTT (IF This Then That https://ifttt.com/home) or Zapier (https://zapier.com/). 
 
+Integrations for Evernote: 
+* https://computers.tutsplus.com/tutorials/taming-the-elephant-awesome-evernote-tips-and-tricks--mac-45629
+* https://evernote.com/blog/speed-up-evernote-workflows-with-zapier/ 
+
+
+## Avoiding overwhelm
+
+* This may seem like a lot of information.
+* Goal is to create a system that is easy to trust, both for yourself and team mates
+* If everybody knows where to find information, who to contact, meeting schedule - you CAN take time off and nothing will burn down
+
+Some blog posts:
+* http://amrhaps.net/english/post/2018/08/06/So-many-people-turn-me-one-way
