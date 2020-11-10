@@ -5,10 +5,7 @@ from pull_files import filter_files
 
 HERE = os.getcwd()
 ABSOLUTE_HERE = os.path.dirname(HERE)
-IGNORE_LIST = [
-    os.path.join(ABSOLUTE_HERE, "book/website/_config.yml"),
-    os.path.join(ABSOLUTE_HERE, "book/website/community-handbook/style.md"),
-]
+IGNORE_LIST = [ "_config.yml", "style.md", "contributors-record.md"]
 
 
 def parse_args():
@@ -92,21 +89,26 @@ def read_and_check_files(files):
     bad_latin = ["i.e.", "e.g.", "e.t.c.", " etc", " ie ", "et cetera"]
 
     for filename in files:
-        if filename in IGNORE_LIST:
+        if os.path.basename(filename) in IGNORE_LIST:
             pass
         else:
-            with open(os.path.join(ABSOLUTE_HERE, filename), encoding="utf8", errors="ignore") as f:
-                text = f.read()
-            text = remove_comments(text)
+            try:
+                with open(
+                os.path.join(ABSOLUTE_HERE, filename), encoding="utf8",
+                errors="ignore") as f:
+                    text = f.read()
+                    text = remove_comments(text)
 
-            for latin_type in bad_latin:
-                if latin_type in text.lower():
-                    lines = get_lines(text.lower(), latin_type)
-                    for line in lines:
-                        failing_files[os.path.abspath(filename)] = {
-                            "latin_type": latin_type,
-                            "line": line,
-                        }
+                    for latin_type in bad_latin:
+                        if latin_type in text.lower():
+                            lines = get_lines(text.lower(), latin_type)
+                            for line in lines:
+                                failing_files[os.path.abspath(filename)] = {
+                                    "latin_type": latin_type,
+                                    "line": line,
+                                }
+            except FileNotFoundError:
+                pass
 
     return failing_files
 

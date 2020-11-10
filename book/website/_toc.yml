@@ -70,27 +70,33 @@
   - title: Licensing
     file: reproducible-research/licensing
     sections:
-    - title: Software licenses
+    - title: Software Licenses
       file: reproducible-research/licensing/licensing-software
+    - title: License Compatibililty
+      file: reproducible-research/licensing/licensing-compatibility
     - title: Data licenses
       file: reproducible-research/licensing/licensing-data
+    - title: Resources
+      file: reproducible-research/licensing/licensing-resources
   - title: Research Data Management
     file: reproducible-research/rdm
     sections:
-    - title: Data Management Plan
-      file: reproducible-research/rdm/rdm-dmp
-    - title: The FAIR principles and practices
+    - title: Research Data
+      file: reproducible-research/rdm/rdm-data
+    - title: The FAIR Principles and Practices
       file: reproducible-research/rdm/rdm-fair
-    - title: Storage and backup
+    - title: Data Storage and Organisation
       file: reproducible-research/rdm/rdm-storage
-    - title: Data organisation in spreadsheets
+    - title: Data Organisation in Spreadsheets
       file: reproducible-research/rdm/rdm-spreadsheets
-    - title: Documentation and metadata
+    - title: Documentation and Metadata
       file: reproducible-research/rdm/rdm-metadata
-    - title: Sharing and archiving data
+    - title: Sharing and Archiving Data
       file: reproducible-research/rdm/rdm-sharing
-    - title: Personal Stories
+    - title: Personal Impact Stories
       file: reproducible-research/rdm/rdm-stories
+    - title: Checklist
+      file: reproducible-research/rdm/rdm-checklist
     - title: Resources
       file: reproducible-research/rdm/rdm-resources
   - title: Reproducible Environments
@@ -195,11 +201,15 @@
 
 - file: project-design/project-design
   sections:
-  - title: Persona creation
-    file: project-design/persona-creation
+  - title: Personas and Pathways
+    file: project-design/persona
+    sections:
+    - title: Persona Creation Tool
+      file: project-design/persona/persona-creation
+    - title: Contributor Pathways
+      file: project-design/persona/persona-contributors
   - title: File Naming Convention
     file: project-design/filenaming
-
 # ===== Communication Guide ========================================
 
 - file: communication/communication
@@ -263,19 +273,74 @@
       file: community-handbook/coc/coc-details
     - title: Incident Reporting Guideline
       file: community-handbook/coc/coc-reporting
-    - title: Enforcement manual
+    - title: Enforcement Manual
       file: community-handbook/coc/coc-enforcement
     - title: Acnowledgements
       file: community-handbook/coc/coc-acknowledgement
-  - title: The Turing Way Style Guide
+  - title: Style Guide
     file: community-handbook/style
     sections:
     - title: Citing and Referencing External Resources
       file: community-handbook/style/style-citing
-    - title: Cross-referencing Sections and Chapters
+    - title: Cross-Referencing Sections and Chapters
       file: community-handbook/style/style-crossref
-    - title: Using figures
+    - title: Using Figures
       file: community-handbook/style/style-figures
+  - title: Acknowledging Contributors
+    file: community-handbook/acknowledgement
+    sections:
+    - title: Community Members and Shared Ownership
+      file: community-handbook/acknowledgement/acknowledgement-members
+    - title: Record of Contributions
+      file: community-handbook/acknowledgement/acknowledgement-record
+    - title: Different Contributions and Acknowledgements
+      file: community-handbook/acknowledgement/acknowledgement-examples
+  - title: Monthly Newsletters
+    file: community-handbook/newsletters
+    sections:
+    - title: A Process of Creating a newsletter
+      file: community-handbook/newsletters/newsletters-process
+    - title: Newsletter's Style Guide
+      file: community-handbook/newsletters/newsletters-style
+    - title: The Turing Way Newsletter Template
+      file: community-handbook/newsletters/newsletters-template
+  - title: Book Dash Events
+    file: community-handbook/bookdash
+    sections:
+    - title: Application and Review Process
+      file: community-handbook/bookdash/bookdash-application
+    - title: Selection and Preparation Process
+      file: community-handbook/bookdash/bookdash-preparation
+    - title: The Book Dash Main Event Plans
+      file: community-handbook/bookdash/bookdash-events
+  - title: Community Coworking Calls
+    file: community-handbook/coworking
+    sections:
+    - title: Background, Motivations, and Techniques
+      file: community-handbook/coworking/coworking-motivation
+    - title: Online Collaboration Cafe
+      file: community-handbook/coworking/coworking-collabcafe
+    - title: Weekly Coworking Calls
+      file: community-handbook/coworking/coworking-weekly
+    - title: Organising coworking calls
+      file: community-handbook/coworking/coworking-organisation
+  - title: Template Collection
+    file: community-handbook/templates
+    sections:
+    - title: Book Dash Issue Template for Planning
+      file: community-handbook/templates/template-bookdash-issue
+    - title: Book Dash Template for Pre-event Call
+      file: community-handbook/templates/template-bookdash-precall
+    - title: Book Dash Template for Shared Notes
+      file: community-handbook/templates/template-bookdash-notes
+    - title: Book Dash Template for Feedback
+      file: community-handbook/templates/template-bookdash-feedback
+    - title: Online Collaboration Cafe Templates
+      file: community-handbook/templates/template-coworking-collabcafe
+    - title: Weekly Coworking Call Template
+      file: community-handbook/templates/template-coworking-weekly
+    - title: Template for Drafting Newsletters
+      file: community-handbook/templates/template-newsletter-draft
 
 # ===== Afterward Section ========================================
 
@@ -285,3 +350,5 @@
     file: afterword/glossary
   - title: Bibliography
     file: afterword/bibliography
+  - title: Contributors Record
+    file: afterword/contributors-record

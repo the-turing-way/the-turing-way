@@ -1,10 +1,11 @@
+(ch-style-guide)=
 # Style Guide
 
 To ensure that the book can be read easily by everyone, including screen readers and non-native english speakers, we have compiled a set of guideline to keep a consistent style across all chapters of the book.
 
 We follow the [Gov.uk guidance](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) to improve accessibility of the resources in _The Turing Way_.
 
-### Write each sentences in a new line (line breaks)
+## Write each sentences in a new line (line breaks)
 
 Please write all sentence in the markdown file on separate lines.
 Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph.
@@ -23,7 +24,7 @@ There is no one alive who is youer than you.
 - Dr Seuss
 ```
 
-### Opinions are welcome, but ...
+## Opinions are welcome, but ...
 
 _The Turing Way_ book is intended to be only *lightly* opinionated.
 Whilst more opinionated content is allowed, such content should be clearly marked.
@@ -39,35 +40,30 @@ Note, that the formatting will be retained, so we can split each sentence to a n
 > I do not like green eggs and ham i do not like them sam i am
 ```
 
-### Avoid Latin Abbreviation
+## Avoid Latin Abbreviation
 
-Please do not use latin abbreviations like `e.g., i.e. or etc.`.
-See the [Gov.uk recommendations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#eg-etc-and-ie) for details.
+Please do not use Latin abbreviations.
+See the [Gov.uk recommendations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) for details.
 
-Instead of `eg.`, which can sometimes read aloud as ‘egg’ by screen reading software, please use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.
+Some of these abbreviations are:
 
-Instead of `etc.` at the end of a list, please start the list name with words like ‘for example’ or ‘such as’ or ‘like’ or ‘including’.
+```{figure} ../figures/latin-abbreviation.png
+---
+height: 400px
+name: latin-abbreviation
+alt: an image with a list of 3 latin abbreviations
+---
+A list of latin abbreviations for *exempli gratia* (for example), *et-cetera* (so on), and *id est* (that is).
+Screenshot of part of the [list of Common Latin Abbreviations for APA Style](https://blog.apastyle.org/files/apa-latin-abbreviations-table-2.pdf).
+```
 
-Instead of `ie.` that is often used to clarify a sentence, try (re)writing sentences to avoid the need to use it.
+Instead of the first abbreviation in the table for *exempli gratia*, which can sometimes read aloud as ‘egg’ by screen reading software, please use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.
+
+Instead of the second abbreviation in the table for *et-cetera* to indicate open ended list, please start the list with words like ‘for example’ or ‘such as’ or ‘like’ or ‘including’.
+
+Instead of third abbreviation in the table for *id est* that is often used to clarify a sentence, try (re)writing sentences to avoid the need to use it.
 If that is not possible, use an alternative such as ‘meaning’ or ‘that is’.
 
-### Auto-formatting
+Any chapter containing a Latin abbreviation will fail the continuos integration (CI) workflow of the _The Turing Way_ GitHub repository from passing successfully, which is tested by this [Python script](https://github.com/alan-turing-institute/the-turing-way/blob/master/tests/no-bad-latin.py).
 
-The Travis continuous-integration tests will check for formatting errors using [prettier.io](https://prettier.io). You can see a list of all files with style issues by looking at the Travis build logs, for example:
-
-```
-Checking formatting...
-book/content/introduction/introduction.md
-book/content/open_research/open_research.md
-Code style issues found in the above file(s). Forgot to run Prettier?
-The command "prettier --check ./book/website/**/*.md" exited with 1.
-```
-
-*Optional:* If you would like to apply auto-formatting when editing locally, we recommend [pre-commit](https://pre-commit.com/). To get started, run the following from your shell:
-
-```
-pip install pre-commit
-pre-commit install
-```
-
-Each time you attempt to commit a change with git, pre-commit will run the prettier auto-formatter and automagically fix any style issues.
+*To avoid CI from failing, even in this chapter we have avoided to write those abbreviations and instead used an image to illustrate the above examples.*

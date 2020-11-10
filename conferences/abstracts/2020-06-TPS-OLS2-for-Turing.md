@@ -1,4 +1,4 @@
-# Collaboration Workshop 2020
+# The Turing Tools, Practices and Systems Research programme's seminar, June 2020
 
 - Website: https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems
 - Location: Online

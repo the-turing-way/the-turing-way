@@ -1,9 +1,7 @@
 # Afterword
 
-In a standard book design, the last part of book is known as afterword, supplement, appendix or [end matter](https://en.wikipedia.org/wiki/Book_design#Back_matter_(end_matter))).
-This part consists of components like glossary, index, bibliography and postscripts.
-
-Following this design principle, we have included [glossary](./glossary) and [bibliography](./bibliography) of the book as the end matter of _The Turing Way_.
+The last part of _The Turing Way_ book is called **Afterword**.
+Following this design principle of standard books, we have so far included [glossary](./glossary), [bibliography](./bibliography) and [contributor records](./contributor-records) of the book as the supplementary materials of _The Turing Way_.
 
 The community collaboration and development aspects of the book has been written into the [Community Handbook](../community-handbook/community-handbook) section of this book.
 

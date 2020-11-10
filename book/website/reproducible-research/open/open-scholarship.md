@@ -1,10 +1,11 @@
-## Open scholarship
+(rr-open-scholarship)=
+# Open scholarship
 
 Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship.
 
 ![open_umbrella](../../figures/open_umbrella.png)
 
-### Open educational resources
+## Open educational resources
 
 Open educational resources (OERs) are teaching and learning materials that can be freely used and reused for learning and/or teaching at no cost, and without needing to ask permission. Examples are courses, including Massive Online Open Courses (MOOCs), lectures, teaching materials, assignments, and various other resources. OERs are available in many different formats compatible with online usage, most obviously text, images, audio, and video. Anyone with internet access can access and use OERs; access is not dependent on location or membership of a particular institution.
 
@@ -30,14 +31,14 @@ Beyond the raw practical benefits the worldwide OER movement is rooted in the hu
 This shift in educational practice is about participation and co-creation.
 Open Educational Resources (OERs) offer opportunities for systemic change in teaching and learning content through engaging educators in new participatory processes and effective technologies for engaging with learning.
 
-### Equity, diversity, inclusion
+## Equity, diversity, inclusion
 
 Open scholarship means open to *everyone* without discrimination based on factors such as race, gender, sexual orientation, or any number of other factors.
 As a community we should undertake to ensure equitable opportunities for all.
 We can go about that by deliberately fostering welcoming, inclusive cultures within out communities.
 For example, reasonable accommodations should be made wherever possible to include community members with disabilities to enable them to participate fully, and this can be as simple as choosing colourblind-safe colour schemes when making graphs.
 
-### Citizen science
+## Citizen science
 
 Citizen science is the involvement of the public in scientific research – whether community-driven research or global investigations, the Oxford English Dictionary recently defined it as: "scientific work undertaken by members of the general public, often in collaboration with or under the direction of professional scientists and scientific institutions".
 Citizen science offers the power of science to everyone, and the power of everyone to science.
@@ -46,7 +47,7 @@ By allowing members of the public to contribute to scientific research, citizen 
 It also benefits researchers by offering manpower that simply would not be accessible otherwise.
 Examples of this include [finding](https://citizensciencegames.com/games/eterna/) ways of folding molecules, and [classifying](https://www.zooniverse.org/) different types of galaxies.
 
-### Patient and Public Involvement
+## Patient and Public Involvement
 Whilst citizen science encompasses one way of contributing to scientific research, Patient and Public Involvement (PPI) is a far more specialised form of citizen science which is particularly useful when doing research on health and/or social issues.
 
 PPI is *not*:

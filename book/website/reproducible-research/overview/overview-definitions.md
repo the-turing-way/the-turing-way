@@ -1,7 +1,7 @@
 (rr-overview-definitions)=
 # Definitions of Reproducibility
 
-The most common definition of reproducibility (and replication) was first noted by Claerbout and Karrenbach in 1992 {cite}'ClaerboutKarrenbach1992Reproducibility' and has been used in computational science literature since then.
+The most common definition of reproducibility (and replication) was first noted by Claerbout and Karrenbach in 1992 {cite}`ClaerboutKarrenbach1992Reproducibility` and has been used in computational science literature since then.
 Another popular definition has been introduced in 2013 by the Association for Computing Machinery (ACM) {cite}`Ivie2018SciComp`, which swapped the meaning of the terms 'reproducible' and 'replicable' compared to Claerbout and Karrenbach.
 
 The following table contrasts both definitions {cite}`Heroux2018Reproducibility`.
