@@ -57,7 +57,6 @@ Structure | Hard | Do not add any empty files in the `_toc.yml`, instead create 
 Structure | Soft | Ensure each chapter has a good summary on its landing page along with links to its subchapters.
 Structure | Soft | Split long chapters into smaller subchapters so they are modular.
   
-  - Ensure external sources are properly referenced and included in the centralised bibtex file as recommended in the {ref}`style guide<ch-style-citing>`
   - Do not add any empty files in the `_toc.yml`, instead create an issue for new chapters
 
 ##### Language
