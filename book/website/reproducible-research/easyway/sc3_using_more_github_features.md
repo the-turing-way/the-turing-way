@@ -33,5 +33,10 @@ It is a kanban feature to track your tasks with to-do, in progress, and done col
 
 This is what a repository looks like when it is set up as a collaborative project workspace with a website.
 
-<Add diagram 4>
+```{figure} ../../figures/easyway5_project.jpg
+---
+height: 500px
+name: easyway5_project
+---
+```
 
