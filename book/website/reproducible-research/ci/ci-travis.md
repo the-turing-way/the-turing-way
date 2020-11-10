@@ -20,15 +20,33 @@ Once Travis has been set up on a project then each time a commit is made it:
 
 Here's what the Travis dashboard of a repository looks like:
 
-![Travis_build](../../figures/Travis_build.png)
+```{figure} ../../figures/Travis_build.png
+---
+height: 400px
+alt: Travis_build.
+---
+An example of a Travis dashboard.
+```
 
 Everything's green because the build is passing. Note the "build passing" badge at the top. If you click that you will get a popup with a dropdown menu where you can select a way of copying the badge. If you select "markdown" and copy and paste the code snippet it outputs into a markdown file in the project, then GitHub will display the badge in that file:
 
-![Travis_badge_pass](../../figures/Travis_badge_pass.png)
+```{figure} ../../figures/Travis_badge_pass.png
+---
+height: 400px
+alt: Travis badge showing a passed build.
+---
+The Travis badge is used as an indicator when the all the tests have passed.
+```
 
 If I deliberately create a bug and commit it then Travis automatically runs, the tests fail, and this badge automatically updates to "build failing":
 
-![Travis_badge_fail](../../figures/Travis_badge_fail.png)
+```{figure} ../../figures/Travis_badge_fail.png
+---
+height: 400px
+alt: Travis badge showing a failed build.
+---
+The Travis badge shows build error when any of the tests has failed.
+```
 
 You can use Travis to test your project in multiple computational environments my specifying them in the `.travis.yml` file. A quick note on Travis vocabulary:
 
