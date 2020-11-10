@@ -232,7 +232,7 @@ When a student needs help both the teacher and student may need to share their s
 ### Solutions
 
 There are several different types of tools and environments needed for this type of event.
-Many of them are relevant to other activity types such as meetings and data stores e.g., zenodo to store data in a fully credited manor.
+Many of them are relevant to other activity types such as meetings and data stores (zenodo, for example) to store data in a fully credited manor.
 The main factor here is for workshops and tutorials that teach programming languages of software packages.
 
 #### Available Tools
