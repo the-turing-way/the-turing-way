@@ -42,7 +42,7 @@ If I deliberately create a bug and commit it then Travis automatically runs, the
 
 ```{figure} ../../figures/Travis_badge_fail.png
 ---
-height: 350px
+name: travis_badge_fail
 alt: Travis badge showing a failed build.
 ---
 The Travis badge shows build error when any of the tests has failed.
