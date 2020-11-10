@@ -2037,6 +2037,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "jmfernandez",
+      "name": "José María Fernández",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2072150?v=4",
+      "profile": "http://www.madrimasd.org/blogs/bioinformatica",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
