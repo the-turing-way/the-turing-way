@@ -46,7 +46,7 @@ Ce projet est développé de façon ouverte et toutes les questions, commentaire
 
 ### L'équipe
 
-Cela fait partie du travail de planification de l'équipe de projet à l'Institut Turing.
+_Voici une photo d'une partie de l'équipe lors de la phase planification du projet au Turing Institute.
 Pour plus d'informations sur la manière de nous contacter, consultez le [document sur les méthodes de travail](ways_of_working.md).
 
 ![Photo d'équipe](book/website/figures/TuringWayTeam.jpg)
