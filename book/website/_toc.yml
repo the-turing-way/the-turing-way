@@ -74,7 +74,7 @@
       file: reproducible-research/licensing/licensing-software
     - title: License Compatibililty
       file: reproducible-research/licensing/licensing-compatibility
-    - title: Data licenses
+    - title: Data Licenses
       file: reproducible-research/licensing/licensing-data
     - title: Resources
       file: reproducible-research/licensing/licensing-resources
