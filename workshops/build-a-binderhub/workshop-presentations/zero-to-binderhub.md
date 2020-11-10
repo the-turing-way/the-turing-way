@@ -365,102 +365,39 @@ aks-nodepool1-97000712-0   Ready    agent   19m   v1.9.11
 
 ### Setting up Helm
 
-Adapted from [Zero-to-JupyterHub: Setting up and Securing Helm](https://zero-to-jupyterhub.readthedocs.io/en/latest/setup-helm.html).
+Adapted from [Zero-to-JupyterHub: Setting up Helm](https://zero-to-jupyterhub.readthedocs.io/en/latest/kubernetes/setup-helm.html).
 
-Helm is the package manager for Kubernetes and is used for: installing, upgrading and managing applications on a Kubernetes cluster.
+Helm is the package manager for Kubernetes and is used for installing, upgrading and managing applications on a Kubernetes cluster.
 Helm packages are called _charts_.
-
-Helm has two parts: a client (`helm`) and a server (`tiller`).
-Tiller runs inside your Kubernetes cluster as a pod in the `kube-system` namespace.
-Tiller manages _releases_ (installations) and _revisions_ (versions) of charts deployed on the cluster.
-When you run a `helm` command, the local Helm client sends instructions to `tiller` in the cluster which in turn makes the requested changes.
+Helm manages _releases_ (installations) and _revisions_ (versions) of charts deployed on the cluster.
 
 > **Did you know?:** Kubernetes is Greek for "captain" or "helmsman".
 > In case you haven't noticed the nautical theme!
 
-#### 1. Setup a `ServiceAccount` for `tiller`
+#### 1. Verify Helm
 
-When you (a human) accesses your Kubernetes cluster, you are authenticated as a particular **User Account**.
-Processes in containers running in _pods_ are authenticated as a particular **Service Account**.
-[More details](https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/).
+To verify you have access to the correct version, run the following command.
 
 ```bash
-kubectl create serviceaccount tiller --namespace kube-system
+helm version --short
 ```
-
-:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
-
-#### 2. Give the `ServiceAccount` full permissions to manage the cluster
-
-This step enables Role Based Access Control (RBAC) so Kubernetes can secure which pods/users can perform what kind of actions on the cluster.
-If RBAC is disabled, **all pods are given `root` equivalent permission on all the Kubernetes nodes and the cluster itself.**
-This can leave the cluster vulnerable to attacks.
-See [Project Jupyter's docs](https://zero-to-jupyterhub.readthedocs.io/en/latest/security.html#use-role-based-access-control-rbac) for more details.
-
-```bash
-kubectl create clusterrolebinding tiller --clusterrole cluster-admin --serviceaccount=kube-system:tiller
-```
-
-:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
-
-:question: :question: :question: :question: :question:
-
-#### 3. Initialise `helm` and `tiller`
-
-This step will create a `tiller` deployment in the `kube-system` namespace and set-up your local `helm` client.
-This is the command that connects your remote Kubernetes cluster to the commands you execute in your local terminal and only needs to be run once per Kubernetes cluster.
-
-```bash
-helm init --service-account tiller --wait
-```
-
-:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
-
-#### 4. Secure Helm
-
-Secure `tiller` from access inside the cluster.
-
-`tiller`s port is exposed in the cluster without authentication and if you probe this port _directly_ (i.e. by bypassing `helm`) then `tiller`s permissions can be exploited.
-This step forces `tiller` to listen to commands from `localhost` (i.e. `helm`) _only_ so that e.g. other pods inside the cluster cannot ask `tiller` to install a new chart. For example, this could give other pods arbitrary, elevated privileges to exploit.
-[More details](https://engineering.bitnami.com/articles/helm-security.html).
-
-```bash
-kubectl patch deployment tiller-deploy \
-    --namespace=kube-system \
-    --type=json \
-    --patch='[{
-        "op": "add",
-        "path": "/spec/template/spec/containers/0/command",
-        "value": ["/tiller", "--listen=localhost:44134"]
-    }]'
-```
-
-:vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
-
-:question: :question: :question: :question: :question:
-
-#### 5. Verify the installation
-
-To verify the correct versions have been installed properly, run the following command.
-
-```bash
-helm version
-```
-
-You must have at least version 2.11.0 and the client (`helm`) and server (`tiller`) versions must match.
-It may take a few moments for the client to appear - keep trying.
 
 Example output:
 
 ```bash
-Client: &version.Version{SemVer:"v2.12.3", GitCommit:"eecf22f77df5f65c823aacd2dbd30ae6c65f186e", GitTreeState:"clean"}
-Server: &version.Version{SemVer:"v2.12.3", GitCommit:"eecf22f77df5f65c823aacd2dbd30ae6c65f186e", GitTreeState:"clean"}
+v3.3.4+ga61ce56
 ```
 
-If the versions do not match, run:
+Then check it has been installed properly by running the following command.
 
 ```bash
-helm init --upgrade
+helm list
+```
+
+Example output:
+
+```bash
+NAME    NAMESPACE       REVISION        UPDATED STATUS  CHART   APP VERSION
 ```
 
 :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
@@ -512,19 +449,21 @@ helm repo update
 Next, install the required Helm chart using the config files we created in [Step 2: Run `setup.sh`](#2-run-setupsh).
 
 ```bash
-helm install jupyterhub/binderhub \
+helm install binderhub jupyterhub/binderhub \
     --version=0.2.0-f565958 \
-    --name=binderhub \
     --namespace=binderhub \
     -f secrets/secret.yaml \
-    -f secrets/config.yaml
+    -f secrets/config.yaml \
+    --create-namespace
 ```
 
 * `--version` refers to the version of the BinderHub Helm Chart.
   Available versions can be found [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub).
   We have used the version released on 11 August 2019.
-* `--name` and `--namespace` may be different, but it's recommended they be the same to avoid confusion.
+* It is recommended that `--namespace` be the same as the provided `NAME` in order to avoid confusion.
   It should be something short and descriptive.
+* `--create-namespace`: In Helm v3, the namespace is no longer automatically created it if doesn't already exist.
+  We use this flag to replicate that behaviour.
 
 This step will deploy both a JupyterHub and a BinderHub but they are not yet configured to communicate with one another.
 You may need to wait a few moments before moving on as the resources may take a while to be set up.
@@ -575,8 +514,12 @@ Now upgrade the Helm chart to deploy the change.
 helm upgrade binderhub jupyterhub/binderhub \
     --version=0.2.0-f565958 \
     -f secrets/secret.yaml \
-    -f secrets/config.yaml
+    -f secrets/config.yaml \
+    --cleanup-on-fail
 ```
+
+* If there was an error during the upgrade process, `--cleanup-on-fail` will remove any created resources.
+  This will make the next deployment cleaner.
 
 :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
@@ -707,7 +650,8 @@ To deploy the changes, upgrade the helm chart.
 helm upgrade binderhub jupyterhub/binderhub \
     --version=0.2.0-f565958 \
     -f secrets/secret.yaml \
-    -f secrets/config.yaml
+    -f secrets/config.yaml \
+    --cleanup-on-fail
 ```
 
 Visit your Binder page to see your new logo!
@@ -785,7 +729,8 @@ To apply the config changes, we need to upgrade the deployed Helm chart using th
 helm upgrade binderhub jupyterhub/binderhub \
     --version=0.2.0-f565958 \
     -f secrets/secret.yaml \
-    -f secrets/config.yaml
+    -f secrets/config.yaml \
+    --cleanup-on-fail
 ```
 
 Now reload your Binder page, you should see a sign in button and will be asked for your GitHub sign in information!
@@ -804,7 +749,7 @@ This involves deleting the Helm release and all of the computing resources in Az
 First we delete the Helm release that installed the JupyterHub and BinderHub and any resources that it created.
 
 ```bash
-helm delete binderhub --purge
+helm delete binderhub
 ```
 
 **NOTE:** `binderhub` is the release name we defined in [Step 3: Install BinderHub](#3-install-binderhub).
@@ -848,7 +793,7 @@ az group delete --name NetworkWatcherRG --no-wait
 
 #### 4. GitHub OAuth App
 
-If you enabled GitHub authentication on your BinderHub, don't forget to delete the OAuth Application in "Developer Settings" as well.
+If you enabled GitHub authentication on your BinderHub, don't forget to delete the OAuth Application in "Developer Settings" on github.com as well.
 
 ---
 
@@ -940,6 +885,5 @@ echo
 ## Reference Documentation
 
 * [Step Zero: Setting up a Kubernetes Cluster](https://zero-to-jupyterhub.readthedocs.io/en/latest/create-k8s-cluster.html)
-* [Step Zero: Setting up an Autoscaling Kubernetes Cluster](https://zero-to-jupyterhub.readthedocs.io/en/latest/microsoft/step-zero-azure-autoscale.html)
 * [Setup JupyterHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/#setup-jupyterhub)
 * [Setup BinderHub](https://binderhub.readthedocs.io/en/latest/setup-registry.html#set-up-the-container-registry)
