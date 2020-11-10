@@ -57,7 +57,6 @@ Structure | Hard | Do not add any empty files in the `_toc.yml`, instead create 
 Structure | Soft | Ensure each chapter has a good summary on its landing page along with links to its subchapters.
 Structure | Soft | Split long chapters into smaller subchapters so they are modular.
   
-  - Do not add any empty files in the `_toc.yml`, instead create an issue for new chapters
 
 ##### Language
 
