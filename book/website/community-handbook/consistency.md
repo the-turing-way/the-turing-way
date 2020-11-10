@@ -34,7 +34,7 @@ If you identify more consistency issues that need to be addressed, join the conv
 (ch-consistency-requirements-checklist)=
 ### Consistency Checklist
 
-#### Hard Requirements
+#### Formatting
 
 ##### Formatting
 
