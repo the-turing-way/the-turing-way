@@ -24,3 +24,5 @@ How do you qualify what you produce in terms of data visualisation?
 ### Possible negative effects of data collection?
 ### Sense.us case study <!--does anyone know more about them?-->
 "Our goal was to realize the potential beauty of data by fostering collective data analysis".
+Source: IPUMS-USA
+Importance of effective visual encodings
