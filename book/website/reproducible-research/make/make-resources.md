@@ -1,24 +1,14 @@
+(rr-make-resources)=
 # Resources for "Make"
 
-## Table of contents
-
-  - [Manual](#manual)
-  - [Discussions](#discussions)
-  - [Blogs](#blogs)
-  - [Tools](#tools)
-  - [Alternatives to Make](#alternatives-to-make)
-- [Glossary](#glossary)
-- [Appendix](#appendix)
-  - [Directed Acyclic Graph](#directed-acyclic-graph)
-  - [Installing Make](#installing-make)
-  - [Advanced: Generating Rules using Call](#advanced-generating-rules-using-call)
-
-### Manual
+(rr-make-resources-manual)=
+## Manual
 
 - [The Official Make Reference
   manual](https://www.gnu.org/software/make/manual/make.html).
 
-### Discussions
+(rr-make-resources-discussions)=
+## Discussions
 
 - [Discussion on Make on
   HackerNews](https://news.ycombinator.com/item?id=15041986).
@@ -33,7 +23,8 @@
   This is a research paper describing the failings of Make for large and
   complex builds.
 
-### Blogs
+(rr-make-resources-blogs)=
+## Blogs
 
 Of course we are not the first to suggest the use of Make for reproducibility!
 The blog posts cited below were found after the above tutorial was written,
@@ -58,12 +49,14 @@ but can add further information and examples.
   A similar tutorial with Python using variables to populate tables in the
   manuscript.
 
-### Tools
+(rr-make-resources-tools)=
+## Tools
 
 - Plot the DAG of the Makefile with
   [makefile2graph](https://github.com/lindenb/makefile2graph).
 
-### Alternatives to Make
+(rr-make-resources-alternatives)=
+## Alternatives to Make
 
 There are [many alternatives to
 Make](https://en.wikipedia.org/wiki/List_of_build_automation_software). Below
@@ -85,6 +78,7 @@ are some that caught our eye and that might be worth a look.
 
 - [Buck](https://buckbuild.com/). Facebook's build system.
 
+(rr-make-resources-glossary)=
 ## Glossary
 
 **Makefile:** a text file that contains the configuration for the build
@@ -109,6 +103,7 @@ filesystem. A target is marked as phony by making it a prerequisite of the
 **Pattern:** A pattern rule is a rule that contains exactly one ``%``
 character in the target, which can be used to match a part of a filename.
 
+(rr-make-resources-appendix)=
 ## Appendix
 
 (rr-make-resources-dag)=
@@ -170,6 +165,7 @@ To install GNU Make, please follow these instructions:
   If you have a builtin Make implementation, please ensure that it's GNU Make
   by checking ``make --version``.
 
+(rr-make-resources-advanced-gr)=
 ### Advanced: Generating Rules using Call
 
 *This section continues the tutorial above and demonstrates a feature of Make
