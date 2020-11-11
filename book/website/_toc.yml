@@ -255,7 +255,30 @@
     sections:
     - title: Personal Stories of Leadership
       file: collaboration/leadership/leadership-stories
-
+  - title: Remote Collaboration
+    file: collaboration/remote-collab
+    sections:
+    - title: Remote Meetings
+      file: collaboration/remote-collab/remote-collab-meetings.md
+    - title: Guidelines for Remote Collaboration
+      file: collaboration/remote-collab/remote-collab-guidelines.md
+    - title: Tools for Remote Collaboration
+      file: collaboration/remote-collab/remote-collab-tools.md
+    - title: Organising Online Coworking Calls
+      file: collaboration/remote-collab/remote-collab-coworking.md
+    - title: Organising Remote Conferences
+      file: collaboration/remote-collab/remote-collab-conferences.md
+    - title: Chairing Remote Events
+      file: collaboration/remote-collab/remote-collab-chairs.md
+    - title: Participating in Remote Events
+      file: collaboration/remote-collab/remote-collab-participation.md
+    - title: Managing Distributed Teams
+      file: collaboration/remote-collab/remote-collab-management.md
+    - title: Informal Coffee Chats
+      file: collaboration/remote-collab/remote-collab-informal.md
+    - title: Perceived Pros and Cons
+      file: collaboration/remote-collab/remote-collab-prosandcons.md
+      
 # ===== Ethical Research Guide ========================================
 - file: ethical-research/ethical-research
   sections:
