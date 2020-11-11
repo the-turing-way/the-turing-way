@@ -5,7 +5,7 @@
 
 | Prerequisite | Importance |
 | -------------|----------|
-| {ref}`rr-open` | Helpful |
+| {ref}`Chapter on Open Research<rr-open>` | Helpful |
 | {ref}`rr-rdm` | Helpful |
 ## Summary
 > easy to understand summary - a bit like tl;dr
