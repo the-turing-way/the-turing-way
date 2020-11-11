@@ -1,35 +1,39 @@
-# Ethics: Law and Policy
+# Ethics and Law, Policy and Human Rights
 
 ## Prerequisites / recommended skill level
-> other chapters that should have been read before or content you should be familiar with before you read this
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
-| Chapter/topic | How important it is | Any notes |
+| none | n/a | n/a |
 
 ## Summary
-> easy to understand summary - a bit like tl;dr
+Law, human rights and policy all relate to ethics, but they are not the same thing.
+
+You should be aware of the laws and policies that apply to you and your work.
+However, this is not sufficient to ensure that your work is ethical. 
+
+Human rights provide a legal framework for protecting individuals. 
+However, it operates at national and international level.
+Ethical work should be grounded in human rights, but sometimes require more guidance to operationalise for particular contexts.
+
+Laws and policies are made by people, and they are subject to negotiations and exercises of power: they can also be changed.
 
 ## How this will help you/ why this is useful
-> why we think you should read the whole thing
+It's useful to know how the ethics that guide your work are underpinned by other frameworks, including law, policy, and human rights. 
+As well as giving you a deeper understanding, it can also help you advocate for ethical work with colleagues and collaborators.
 
-## Chapter content
-
-### Introduction
-<!--- TO ADD What is law? What is policy? How do they relate to ethics? How are they similar and different? -->
-
-### Law
+## Law
 
 This is not legal advice. Please read for information only! 
 [Link to central page on 'this book is not a lawyer' - not written yet, but there is an issue open here: https://github.com/alan-turing-institute/the-turing-way/issues/1469)]
 
-#### Ethics and law
+### Ethics and law
 
 Laws have been made by humans.
 They reflect the outcomes of negotiations between different people, with different interests and different amounts of power.
 Complying with laws is usually necessary, but rarely sufficient, to ensure that you are acting ethically.
 
-#### Domestic and regional law
+### Domestic and regional law
 
 You should be aware of what laws cover your work.
 This will depend on which jurisdictions you work in: usually the geographical area covered by a law.
@@ -39,7 +43,7 @@ You should also be aware what steps you should take to ensure that you are compl
 This section is not exhaustive!
 It is designed to give you some ideas for the kinds of laws you should be aware of.
 
-##### Data protection law
+#### Data protection law
 
 Data protection laws cover what is permitted by law when collecting and processing data. 
 The aim of data protection laws is to protect the privacy of individuals when collecting and using information about them.
@@ -53,7 +57,7 @@ They often produce guidance on how to comply with data protection laws.
 
 Data protection laws are sometimes confused with privacy laws, but they are not the same thing. 
 
-##### Privacy law
+#### Privacy law
 
 Privacy laws protect people's ability to keep themselves, or information about themselves, away from public view. 
 The specific content of privacy laws varies between jurisdictions.
@@ -66,7 +70,7 @@ This started in the 19th century when newspapers became widespread, and is still
 Privacy is sometimes confused with data protection, but it is much broader. 
 Privacy is also a human right (see below).
 
-##### Intellectual property law
+#### Intellectual property law
 
 Intellectual property refers to creations that have been made by humans. 
 These can include literary and artistic works, as well as inventions.
@@ -92,7 +96,7 @@ This may impact what you are able to do with the intellectual property you creat
 The relationship between intellectual property law and open source is complicated but it is not necessarily incompatible. 
 <!--- Perhaps spin off a page on how to advocate for open source practices? -->
 
-##### Tort law
+#### Tort law
 
 Tort law is the branch of law which allows people who have been harmed to sue for compensation or other remedy for that harm.
 Tort law varies by jurisdiction. 
@@ -102,7 +106,7 @@ If you harm someone, either intentionally or negligently, you may be legally lia
 Acting ethically, however, usually means going beyond thinking only about legal liability. 
 You should be aware of all the possible harm that your work could cause, not only what you might be legally liable for. 
 
-##### Contract law
+#### Contract law
 
 Contract law is the branch of law which handles how contracts - legal agreements between parties - are enforced.
 You should know the terms of contracts you have signed, and what those terms mean.
@@ -111,7 +115,7 @@ Ethical work can also include thinking critically about contracts.
 You should think about what obligations you are signing up for when you sign a contract.
 You should also think about what contractual obligations you are imposing on other people, when you form a contract with them.
 
-#### How to change laws
+### How to change laws
 
 Law is not static and unchanging. 
 The law is made by humans and it can be changed by humans.
@@ -119,11 +123,30 @@ If you feel that the law in your jurisdiction works in a way that is unhelpful o
 Changing laws is a long-term project and can take decades. 
 This section is not intended to explain how to do this: a good place to start is to find a campaigning organisation who is working on the issue, and ask them how to get involved. 
 
-### Human rights
+## Policy
+
+Policy is a general term for a set of ideas or principles that guide actions in particular situations.
+Policies are not legally binding, but they are designed to encourage certain kinds of behaviours and discourage others.
+
+Policies are agreed between groups of people: this can be at organisational, intra-organisational, or governmental level. 
+It is useful to be aware, for example, of policies on ethical research and innovation that are set by your government, or your funding organisation.
+
+Policies can also be set by national or international organisations.
+If you are a member of a professional or academic organisation, you should be aware of the policies that cover ethical research for your profession.
+
+Many ethical guidelines that have been produced are in the form of policy.
+These can provide useful guidance. 
+
+Because policies are the result of negotiation and agreement, they can be influenced. 
+If you don't think your professional organisation's policies are strong or effective enough, you can lobby for changes as a member of that organisation.
+The process for doing this will depend on the organisation.
+Many companies and organisations have advocacy and lobbying staff who argue for changes in government policy that will benefit their organisation. 
+
+## Human rights
 
 Human rights and ethics have a close relationship, but they are defined and implemented differently.
 
-#### What are human rights?
+### What are human rights?
 
 _All human beings are born free and equal in dignity and rights_ (Universal Declaration of Human Rights, Article 1.)
 
@@ -134,7 +157,7 @@ Human rights are universal: they apply to every human being, without exception.
 Human rights are inalienable: they cannot be taken away or limited, except under very specific and defined circumstances.
 Human rights are indivisible and interdependent: we cannot have some rights without others.
 
-#### What is human rights law?
+### What is human rights law?
 
 Human rights law is made up of conventions and covenants - legal instruments - that are signed by countries. 
 These instruments are legally binding: this means that all countries who sign up to them take on legal duties and obligations.
@@ -165,7 +188,7 @@ Campaigning groups, including non-governmental organisations, work to narrow the
 Some campaigning groups are international and work on lots of different human rights issues. 
 Some work only on a small number of issues, or in a small area of the world.
 
-#### How do human rights apply to data science and research ethics?
+### How do human rights apply to data science and research ethics?
 
 Human rights are more concrete than ethics, because they are defined in law. 
 There is a wider shared understanding of what human rights means across different countries, cultures and groups of people.
@@ -189,40 +212,31 @@ Researchers and data scientists should, in general ensure that they:
 - **protect** human rights: this means trying to ensure that their work cannot be used by other to abuse human rights
 - **fulfil** human rights: this means doing work that actively helps other people be able to enjoy all their human rights
 
-### Policy
-
-Policy is a general term for a 
-
-
-<!--- Policy on responsible research and innovation (RRI)
-
-    Governments and international organisations' policies (for example European Commission guidance for RRI)
-    Voluntary commitments
-    Professional bodies' initiatives and statements (for example IEEE Ethically-aligned design initiative, ACM explainability and transparency statement)
-    A list of resources of Codes of Conduct for ethical research and frameworks -->
-
-
-> depending on the content, this might be more structured, for example with exercises, gotcha sections
-
 ## Checklist
-> this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
+- [ ] Do I know what laws apply to my work? 
+- [ ] Do I know what policies apply to my work?
+- [ ] Have I read relevant policies on ethical research?
+- [ ] Does my work respect and protect human rights?
+- [ ] Does my work fulfil human rights?
 
+<!---
 ## What to learn next
 > recommended next chapters that are a good next step up
+-->
 
 ## Further reading
-- [Artificial Intelligence: What’s Human Rights Got To Do With It?](https://points.datasociety.net/artificial-intelligence-whats-human-rights-got-to-do-with-it-4622ec1566d5) (_Blog post by Christiaan van Veen and Corinne Cath)
+- [Artificial Intelligence: What’s Human Rights Got To Do With It?](https://points.datasociety.net/artificial-intelligence-whats-human-rights-got-to-do-with-it-4622ec1566d5)  (_Blog post by Christiaan van Veen and Corinne Cath_)
 - [The Universal Declaration of Human Rights at 70: Putting Human Rights at the Heart of the Design, Development and Deployment of Artificial Intelligence](https://hrbdt.ac.uk/the-universal-declaration-of-human-rights-at-70-putting-human-rights-at-the-heart-of-the-design-development-and-deployment-of-artificial-intelligence/) (_The Human Rights, Big Data and Technology Project, University of Essex, UK)
 - [Algorithms and Human Rights - Study on the human rights dimension of automated data processing techniques and possible regulatory implications](https://rm.coe.int/algorithms-and-human-rights-en-rev/16807956b5) (_Council of Europe_)
-- [Data Feminism]()(_book by Catherine D'Ignazio and Lauren Klein_)
+- [Data Feminism] (_book by Catherine D'Ignazio and Lauren Klein_)
 
-
+<!---
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
 > less relevant/favourite resources in case someone wants to dig into this in detail
+-->
 
-## Definitions/glossary
-> Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
-
+<!---
 ## Bibliography
 > Credit/urls for any materials that form part of the chapter's text.
+-->
 
