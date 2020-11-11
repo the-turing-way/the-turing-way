@@ -258,7 +258,7 @@
   - title: Remote Collaboration
     file: collaboration/remote-collab
     sections:
-    - title: Remote Meetings
+    - title: Organising Remote Meetings
       file: collaboration/remote-collab/remote-collab-meetings.md
     - title: Guidelines for Remote Collaboration
       file: collaboration/remote-collab/remote-collab-guidelines.md
