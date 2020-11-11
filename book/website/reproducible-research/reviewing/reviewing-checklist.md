@@ -26,8 +26,10 @@ In all cases, the goal is to use your programming experience to figure out how t
 - [ ] Are there new [tests](#tests) for the new material, based on the required standards of the project?
   - [ ] Do these tests pass locally?
   - [ ] Are the tests in the rest of the code base still passing locally?
-- [ ] Create the pull request; wait for any {ref}`continuous integration (CI)<rr-ci>` checks to complete.
-- [ ] Consult the CI reports. Did all builds and tests complete? your code is not causing the tests in the main project to fail. Many CI systems will test this automatically for you once you create the PR.
+- [ ] Create the pull request.
+- [ ] Many {ref}`continuous integration (CI)<rr-ci>` systems will check if the tests in the main project pass automatically
+once you create a pull request. If the repository is using a CI, make sure all builds and tests complete.
+Consult the CI reports to see if your code is causing the tests in the main project to fail.
 - [ ] If necessary, now formally request a review.
 
 ## For the reviewer
