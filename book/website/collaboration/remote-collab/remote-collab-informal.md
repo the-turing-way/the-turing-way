@@ -21,16 +21,12 @@ Different people joined at 7:40am every morning to match her early morning chats
 The purpose of these calls was to have social contact with anyone else who was up early and looking for motivation to get started.
 It didn't matter who came along, everyone was invited to join for 20 minutes.
 
-![image](https://user-images.githubusercontent.com/3626306/77004742-87d25080-6957-11ea-8ac9-626956cccd84.png)
-
 If the purpose of the coffee chat is to build connections with a team, you may want to consider restricting the invitation to the specific group members.
 Although this appears less *open* it may be more *inclusive*.
 Joining a conversation where anyone can join is quite a daunting proposition for some people.
 Knowing who is going to be at the coffee chat on a regular basis makes attending the call more appealing and introverted and less confident members are more likely to participate in the conversation.
 You are more likely to build trust within a group if they can make accurate predictions about who they will be interacting with during the break.
 A good example of this purpose are coffee chats for members of a research group.
-
-![image](https://user-images.githubusercontent.com/3626306/77004966-e1d31600-6957-11ea-8920-ac245f643167.png)
 
 Finally, the safest spaces are 1:1 conversations.
 If the purpose of your cofffee chat is to check in with a friend or colleague, particularly if you are worried about how they are doing, consider organising an individual and private coffee chat.
