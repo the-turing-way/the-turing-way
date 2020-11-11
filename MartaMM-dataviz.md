@@ -1,27 +1,26 @@
-## Detailed description
+### choosing the right visual representations for the data and task at hand
+### Anscombe's quartet
+### visual analysis as individual/social process
 
- * This issue is a place to discuss matters relating to the writing of the chapter on _chapter_topic_.
- * This chapter is being written in _pull_request_number_
- * This chapter is being developed on the _chapter_topic_ branch.
+In a sea of data, data visualisation represents a time-constrained activity which offers options to represent data analysis, making users/people aware of the different options they have. Dataviz can be considered an *informed list of possibilities* that empowers people instead of overwhelming them.
+tradeoff between having a large amount of information and knowing what to do with it 
+PEIR (personal environmental impact report)
+YFD (your flowing data): "to make personal data understandable to nonprofessional" ("Beautiful Data", Segaran and Hammerbacher, 2009).
+color schemes and other visual cues significantly help to convey the message behind the data representation.
+When collecting data through a form, it is crucial to tailor the form itself to the specific population it refers to (for example, using bigger font for older people).
+it is also crucial to design for _accurate_ data collection and maximise data quality. 
+test everything!
+different concerns with observational vs experimental data
+dataviz can, and should, help "data finds data" processes (see "Beautiful Data"). 
 
-### Table of contents
+### Importance of considering gender issues when approaching data and data visualisation
+"Users" are not all white men from a medium-high socioeconomic background, in a USA setting. 
+Male should *not* be the 'default' option, this attitude limits data accessibility, applicability, and generalizability. 
+As thoroughly described and argued by Caroline Criado Perez ("Invisible Women", 2019), taking gender data into account in (city/transport/local plan) planning requires changes and solutions that have a ripple effect with broader consequences on the general society.
 
-### Resources
+### Data accessibility
+How do you qualify what you produce in terms of data visualisation?
 
-### Discussion points/related issues
-
-## Current status
-
-This chapter is empty. If anyone would like to make a start they are more than welcome to do so.
-
- - [ ] Write chapter outline
- - [ ] Add material to the chapter
- - [ ] Combine materials into a readable chapter
- - [ ] Proofread
- - [ ] Request reviews
- - [ ] Address reviews
- - [ ] Merge to master branch.
-
-## Updates
-
-<!-- To avoid that others have to read through the full thread of comments, update the initial issue with important updates (e.g. decisions taken) regularly so that all the important information is available at one glance. -->
+### Possible negative effects of data collection?
+### Sense.us case study <!--does anyone know more about them?-->
+"Our goal was to realize the potential beauty of data by fostering collective data analysis".
