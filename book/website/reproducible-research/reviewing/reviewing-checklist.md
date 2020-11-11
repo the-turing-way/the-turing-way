@@ -1,5 +1,5 @@
 (rr-checklist-for-code-review)=
-## Checklist for code review process
+# Checklist for code review process
 
 This section presents some checklists for both the coder and the reviewer, as part of a formal review process.
 The reviewer checklists are split into two categories: one for the whole program, and one for individual files or proposed changes.
@@ -12,13 +12,12 @@ In all cases, the goal is to use your programming experience to figure out how t
 
 ## Table of contents
 
-- [For the coder](#For_the_coder)
-- [For the reviewer](#For_the_reviewer)
-- [Program level checklist](#Program_level_checklist)
-- [File/Change level checklist](#File/Change_level_checklist)
+- [For the coder](#for-the-coder)
+- [For the reviewer](#for-the-reviewer)
+- [Program level checklist](#program-level-checklist)
+- [File/Change level checklist](#file-change-level-checklist)
 
-<a name="For_the_coder"></a>
-### For the coder
+## For the coder
 
 - [ ] Does the new code meets the required standards of the project?
   The standards are typically written under `contributing guidelines` by the project you are contributing to.
@@ -31,8 +30,7 @@ In all cases, the goal is to use your programming experience to figure out how t
 - [ ] Consult the CI reports. Did all builds and tests complete? your code is not causing the tests in the main project to fail. Many CI systems will test this automatically for you once you create the PR.
 - [ ] If necessary, now formally request a review.
 
-<a name="For_the_reviewer"></a>
-### For the reviewer
+## For the reviewer
 
 - [ ] Check the required standards of the project. The standards are typically written under
 `contributing guidelines` by the project you are contributing to.
@@ -42,21 +40,20 @@ In all cases, the goal is to use your programming experience to figure out how t
     The essential architectural concepts can be reviewed as follows:
   - [ ] Check the [interfaces](#interfaces) lists.
   - [ ] Check the [classes and types](#classes-and-types) lists.
-  - [ ] Check the [function/method declarations](#function/method-declarations) lists.
-  - [ ] Check the [function/method definitions](#function/method-definitions) lists.
+  - [ ] Check the [function/method declarations](#function-method-declarations) lists.
+  - [ ] Check the [function/method definitions](#function-method-definitions) lists.
 - [ ] Do the [tests](#tests) actually ensure the code is robust in its intended use?
   - [ ] Are there any bugs or other defects?
 - [ ] Are [security](#security) issues handled correctly?
   - [ ] Check the [security of new codes](#security-of-new-codes).
 - [ ] Does the new code meets the [legal requirements](#legal)?
 
-<a name="Program level checklist"></a>
-### Program level checklist
+## Program level checklist
 
 Here is a list of things to consider when looking at the program as a whole,
 rather than when looking at an individual file or change.
 
-#### Documentation
+### Documentation
 
 Documentation is a prerequisite for using, developing, and reviewing the program.
 Someone who isn’t involved with your project should understand what your code does,
@@ -73,7 +70,7 @@ and what approach you’re taking. Here are some things to check for.
   - [ ] Including how to submit changes
   - [ ] Including how to document your changes
 
-#### Architecture
+### Architecture
 
 These items are mainly important for larger programs, but may still be good
 to consider for small ones as well.
@@ -86,7 +83,7 @@ to consider for small ones as well.
     interdependent modules should be combined.
 - [ ] Can the design be simplified?
 
-#### Security
+### Security
 
 If you're making software that is accessible to the outside world (for example a web
 application), then security becomes important. Security issues are defects,
@@ -104,7 +101,7 @@ mitigate the security impact of defects.
   - [ ] Ideally, validate in the input module and pass only
     validated data to other parts.
 
-#### Legal
+### Legal
 
 As a developer, you should pay attention to the legal rights of the
 creators of the code you're using. Here are some things to check. When in
@@ -118,15 +115,14 @@ doubt, ask your licensing person for advice.
 - [ ] Are the licenses of all the parts compatible with each other?
 - [ ] Is the project license compatible with all libraries?
 
-<a name="File/Change level checklist"></a>
-### File/Change level checklist
+## File/Change level checklist
 
 When you're checking individual changes or files in a pull request, the
 code itself becomes the subject of scrutiny. Depending on the language, files
 may contain interfaces, classes or other type definitions, and functions. All
 these should be checked.
 
-#### Interfaces
+### Interfaces
 
 - [ ] Is the interface documented?
 - [ ] Does the concept it models make sense?
@@ -135,7 +131,7 @@ these should be checked.
 Note that most of the following items assume an object-oriented programming
 style, which may not be relevant to the code you're looking at.
 
-#### Classes and types
+### Classes and types
 
 - [ ] Is the class documented?
 - [ ] Does it have a single responsibility? Can it be split?
@@ -147,14 +143,14 @@ style, which may not be relevant to the code you're looking at.
   - [ ] Does it have a small number of dependencies?
   - [ ] Does it depend on interfaces, rather than on classes?
 
-#### Function/Method declarations
+### Function/Method declarations
 
 - [ ] Are there comments that describe the intent of the function or method?
 - [ ] Are input and output documented? Including units?
 - [ ] Are pre- and postconditions documented?
 - [ ] Are edge cases and unusual things commented?
 
-#### Function/Method definitions
+### Function/Method definitions
 
 - [ ] Are edge cases and unusual things commented?
 - [ ] Is there any incomplete code?
@@ -166,14 +162,14 @@ style, which may not be relevant to the code you're looking at.
 - [ ] Can debugging or logging code be removed?
 - [ ] Can any of the code be replaced by library functions?
 
-#### Security of new codes
+### Security of new codes
 
 - [ ] If you're using a library, do you check errors it returns?
 - [ ] Are all data inputs checked?
 - [ ] Are output values checked and encoded properly?
 - [ ] Are invalid parameters handled correctly?
 
-#### Tests
+### Tests
 
 - [ ] Do unit tests actually test what they are supposed to?
 - [ ] Is bounds checking being done?
