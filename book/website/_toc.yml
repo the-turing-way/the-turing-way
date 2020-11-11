@@ -253,6 +253,7 @@
   - title: Leadership in Data Science
     file: collaboration/leadership
     sections:
+<<<<<<< HEAD
     - title: Important Features of Leadership
       file: collaboration/leadership/leadership-features
     - title: Open and Healthy Leadership
@@ -267,7 +268,6 @@
       file: collaboration/leadership/leadership-avoid
     - title: Personal Stories of Leadership
       file: collaboration/leadership/leadership-stories
-
 
 # ===== Ethical Research Guide ========================================
 - file: ethical-research/ethical-research
