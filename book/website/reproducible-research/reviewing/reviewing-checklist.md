@@ -136,6 +136,7 @@ style, which may not be relevant to the code you're looking at.
 ### Classes and types
 
 - [ ] Is the class documented?
+  -[ ] Are external programs needed by the class documented?
 - [ ] Does it have a single responsibility? Can it be split?
 - [ ] If it's designed to be extended, can it be?
 - [ ] If it's not designed to be extended, is it protected against that?
