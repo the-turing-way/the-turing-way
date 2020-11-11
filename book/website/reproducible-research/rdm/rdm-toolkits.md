@@ -23,6 +23,4 @@ A wide variety of research data management toolkits are available. Here, we list
 * [ELIXIR research data management toolkit](https://rdm.elixir-europe.org/index.html)
 * [University of New Hampshire data management toolkit](https://libraryguides.unh.edu/datamanagement)
 
-
-Notes
-*Many more toolkits are available: lots of them are however rather guides than toolkits. One could argue about the definition of a RDM toolkit*
+*Many more toolkits are available: lots of them are rather guides than toolkits. One could argue about the definition of a RDM toolkit*
