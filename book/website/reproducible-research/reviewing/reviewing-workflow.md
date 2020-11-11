@@ -15,7 +15,8 @@
 
 For a formal review process to work effectively, it's imperative that the project is using good {ref}`version control<rr-vcs>`. However, it bears stating that **all review of code is very valuable**, including informal or ad-hoc approaches. Indeed, this kind of informal "over the shoulder" peer review can form a key preliminary component even in highly formalised review pipelines, saving a lot of stress and arguing once the formal stage begins.
 
-This section focuses on the typical workflows behind a formal review process, as commonly implemented within a social coding environment like Github.
+This section focuses on the typical workflows behind a formal review process, as commonly implemented within [Github](https://github.com/).
+Other coding environments like [BitBucket](https://bitbucket.org/) or [GitLab](https://about.gitlab.com/) could have conceptually similar mechanisms but they are not explained here.
 
 ## Prepare the code
 
