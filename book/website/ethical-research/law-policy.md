@@ -23,6 +23,12 @@
 This is not legal advice. Please read for information only! 
 [Link to central page on 'this book is not a lawyer' - not written yet, but there is an issue open here: https://github.com/alan-turing-institute/the-turing-way/issues/1469)]
 
+#### Ethics and law
+
+Laws have been made by humans.
+They reflect the outcomes of negotiations between different people, with different interests and different amounts of power.
+Complying with laws is usually necessary, but rarely sufficient, to ensure that you are acting ethically.
+
 #### Domestic and regional law
 
 You should be aware of what laws cover your work.
@@ -64,7 +70,7 @@ Privacy is also a human right (see below).
 
 Intellectual property refers to creations that have been made by humans. 
 These can include literary and artistic works, as well as inventions.
-They can also include scientific works and discoveries
+They can also include scientific works and discoveries.
 
 Intellectual property rights aim to protect the interests of the creators of these works.
 
@@ -79,50 +85,39 @@ The extent to which any intellectual property is protected in law varies by jurs
 Enforcement of intellectual property law also varies by jurisdiction. 
 In general, it is the owner of the intellectual property who is responsible for enforcing their rights, for example by sueing another person in court. 
 
-
-
+You should know who owns the intellectual property you create.
+In some situations, it will be you personally.
+If you are employed, depending on the terms of your employment, your employer may own the intellectual property you create while you work for them. 
+This may impact what you are able to do with the intellectual property you create, including the terms under which you can license it.
+The relationship between intellectual property law and open source is complicated but it is not necessarily incompatible. 
+<!--- Perhaps spin off a page on how to advocate for open source practices? -->
 
 ##### Tort law
 
+Tort law is the branch of law which allows people who have been harmed to sue for compensation or other remedy for that harm.
+Tort law varies by jurisdiction. 
+It can include both harm that arises from negligence, and intentional harm. 
+If you harm someone, either intentionally or negligently, you may be legally liable for the harm caused.
 
+Acting ethically, however, usually means going beyond thinking only about legal liability. 
+You should be aware of all the possible harm that your work could cause, not only what you might be legally liable for. 
 
 ##### Contract law
 
+Contract law is the branch of law which handles how contracts - legal agreements between parties - are enforced.
+You should know the terms of contracts you have signed, and what those terms mean.
 
+Ethical work can also include thinking critically about contracts.
+You should think about what obligations you are signing up for when you sign a contract.
+You should also think about what contractual obligations you are imposing on other people, when you form a contract with them.
 
-##### How to change laws
+#### How to change laws
 
 Law is not static and unchanging. 
 The law is made by humans and it can be changed by humans.
 If you feel that the law in your jurisdiction works in a way that is unhelpful or damaging, consider joining efforts to change it!
 Changing laws is a long-term project and can take decades. 
 This section is not intended to explain how to do this: a good place to start is to find a campaigning organisation who is working on the issue, and ask them how to get involved. 
-
-
-
-<!--- @LauraCarter one thing that is being discussed over and over is "what am I allowed to do as researcher in terms of making my work openly available?"
-
-A lot of times people tell me things like "But my institution own all software I create. I am not allowed to publish it under an open licence.". I personally decide to ignore this, but they do have a point. Not sure if it is a Germany-specific discussion maybe? -->
-
-
-<!--- Sounds like something we should definitely cover in a book dedicated to open science, but maybe we need to seek out an expert in IP law for that? And that is just part of the answer of when can you publish code - the many different parts being does it belong to you (IP law, contract law), is there some private data in there (privacy, data protection), will it harm people if it is reused (I guess general tort law might apply, human rights law and ethics could be useful in thinking through things generally though). It is a bit tricky, this law and research chapter. --->
-
-
-<!--- GDPR and privacy laws (and how privacy and data protection are different) [@malvikasharan - did we think it would be a good idea to have discussions about other nations'/regions' laws?]
-        Definitions: privacy and data protection (as distinct concepts)
-        How are scientists affected by data protection and privacy?
-        General principles of data protection (see: articles 5-6 of GDPR)
-        Privacy as an ethical (link)/legal right -->
-        
-        
-   <!---             IP law (for example: discussions on ownership of datasets and databases; commentary about terms and conditions of websites when webscraping)
-            Intro: IP law for you and others
-            IP for datasets and databases
-            IP and webscraping
-            IP of your results
-            Other relevant IP considerations -->
- <!---   *    Tort law: introducing the idea of liability following from one's negligence/recklessness
-            General principles (@Chrisisour, can you share the general principles you were discussing?) -->
 
 ### Human rights
 
@@ -195,6 +190,10 @@ Researchers and data scientists should, in general ensure that they:
 - **fulfil** human rights: this means doing work that actively helps other people be able to enjoy all their human rights
 
 ### Policy
+
+Policy is a general term for a 
+
+
 <!--- Policy on responsible research and innovation (RRI)
 
     Governments and international organisations' policies (for example European Commission guidance for RRI)
