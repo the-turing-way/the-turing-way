@@ -28,7 +28,7 @@
 
 <!-- IMPORTANT!
 
-- Use this template to create for your chapter's checklist. This file should after the main content of your chapter, but before the resources section.
+- Use this template to create your chapter's checklist. This file should come after the main content of your chapter, but before the resources section.
 
 BEFORE YOU GO
 
@@ -37,9 +37,9 @@ BEFORE YOU GO
   - Consecutive headers
   - Labels and cross referencing
   - Using images
-  - latin abbreviations
+  - Latin abbreviations
   - References and citations
-  - title casing
-  - matching headers with reference in table of content
+  - Title casing
+  - Matching headers with reference in table of content
 
 -->

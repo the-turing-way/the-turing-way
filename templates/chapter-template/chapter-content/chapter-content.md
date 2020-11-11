@@ -29,7 +29,7 @@ In the label, replace `keyidea1` with a word that best describes the section or 
 ## Key Idea 1
 
 > **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
-> You may break the section down into subsections if you wish, however, remember to add labels to the additional headers you create.
+> You may break the section down into subsections if you wish, however, remember to add [labels](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) to any additional headers you create to facilitate cross-referencing.
 
 > Remember to use the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) and Jupyter Book's [Cheat Sheet](https://jupyterbook.org/reference/cheatsheet.html) to guide your writing.
 > The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
@@ -94,9 +94,9 @@ BEFORE YOU GO
   - Consecutive headers
   - Labels and cross referencing
   - Using images
-  - latin abbreviations
+  - Latin abbreviations
   - References and citations
-  - title casing
-  - matching headers with reference in table of content
+  - Title casing
+  - Matching headers with reference in table of content
 
 -->

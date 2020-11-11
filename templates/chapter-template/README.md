@@ -69,11 +69,10 @@ Add this file to your chapter's sub-folder as well.
 
 This [file](templates\chapter-template\chapter-content\chapter-resources.md) can be found in the `chapter-content` folder.
 Use `chapter-resources.md` to tell readers what topics to explore next and where to find more information about the concepts covered in your chapter.
-You should also include a chapter-wide bibliography and provide a glossary of all the key terms introduced in the chapter.
 
 `chapter-resources.md` should also be located in the sub-folder named after your chapter.
 
-## Remember..
+## Remember to..
 
 ### Name files/folders appropriately
 
@@ -87,7 +86,7 @@ For a chapter on Open-Science, the landing page could be named `open-science.md`
 - **Chapter Folder**: The subfolder where your chapter's content goes should have the same name as the chapter's Landing Page, for example `open-science`.
 
 - **Chapter Content**: Every sub-topic in your chapter should have its own file.
-These should named by combining the landing page's name with a word that best describes the sub-topic.
+These should be named by combining the landing page's name with a word that best describes the sub-topic.
 For example, if a sub-topic of the Open Science chapter is about the Infrastructure School of Thought, then its file name could be `open-science-infrastructure.md`
 
 - **Chapter Checklist and Resources**: Like the files that make up the chapter's content, name your chapter's Checklist and Resources files by combining the Landing Page's name with a word that best describes the file.
@@ -114,6 +113,17 @@ To add the chapter on Open Science to Guide 1 in the table of contents, you coul
     - title: Resources
       file: path/to/open-science-resources
 ```
+
+### Reference external sources appropriately
+
+Ensure external sources are properly referenced and included in _The Turing Way's_ centralised bibtex file as recommended in the [style guide](https://deploy-preview-1459--the-turing-way.netlify.app/community-handbook/style/style-citing.html#ch-style-citing)
+
+### Update the book-wide glossary
+
+_The Turing Way_ maintains a book-wide glossary located in its [Afterword](https://the-turing-way.netlify.app/afterword/glossary.html).
+When writing your chapter, update the book-wide glossary with the key terms in your chapter that readers should remember.
+For each term, cross-reference to the subchapter/section where you explained it.
+
 
 ### Cross check your PR
 
