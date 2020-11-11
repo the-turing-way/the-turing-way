@@ -46,9 +46,8 @@ BEFORE YOU GO
 - Have a look at the Style Guide and the Maintaining Consistency chapters to ensure that you have followed the relevant recommendations on
   - Labels and cross referencing
   - Using images
-  - latin abbreviations
+  - Latin abbreviations
   - References and citations
 
 -->
-
 
