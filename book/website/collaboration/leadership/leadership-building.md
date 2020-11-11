@@ -8,7 +8,7 @@ By healthy leadership, we mean guidance that stewards a community, project, or o
 ## Open Leadership Framework
 
 Mozilla's Open Leadership Framework states that leadership is about involving members and mobilizing communities to solve problems and achieve goals that are beneficial for everyone. 
-Individuals who lead their work (e.g., project, organization, communication, resources) openly design different aspects of their work to promote openness and social good throughout their work life cycle.
+Individuals who lead their work (project, organization, communication, resources) openly design different aspects of their work to promote openness and social good throughout their work life cycle.
 
 The key principles of openness are: **design**, **build**, and **empower** for **understanding**, **sharing**, and **participation and inclusion**.
 
