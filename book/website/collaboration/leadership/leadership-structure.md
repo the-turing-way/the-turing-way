@@ -1,5 +1,5 @@
 (cl-leadership-structure)=
-## Creating Structure in Leadership
+# Creating Structure in Leadership
 
 Projects without structure require some basic form of rules or governance to avoid what Jo Freeman calls [the tyranny of structurelessness](https://www.jofreeman.com/joreen/tyranny.htm).
 
