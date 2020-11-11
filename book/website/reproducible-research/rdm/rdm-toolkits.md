@@ -1,4 +1,3 @@
-# RDM Toolkits
 ## Research data management toolkits
 
 ### What is a research data management toolkit?
