@@ -15,7 +15,7 @@ A research data management toolkit will help you to maximize the efficiency and 
 
 ### How to choose a research data management toolkit?
 
-Information and materials are often sorted by topic and audience. Materials can be found relevant to your role (researcher, research support, IT specialist), your research domain (e.g.for life sciences: plant phenotyping, human data,...) or your problem (e.g. storage, data transfer).  
+Information and materials are often sorted by topic and audience. Materials can be found relevant to your role (researcher, research support, IT specialist), your research domain (for life sciences: plant phenotyping, human data,...) or your problem (such as storage, data transfer).  
 
 
 A wide variety of research data management toolkits are available. Here, we list a number of toolkits:
