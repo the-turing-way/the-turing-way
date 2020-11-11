@@ -45,3 +45,27 @@ To avoid arbitrary decision making, one must be familiar with the whole system.
 - **Open mindset**: Healthy leadership keeps an open mind to avoid personal biases and listens to everyone to learn about changes and transformations as time goes by. Mainly when they necessarily grew apart from some aspects of an organization or project.
 
 - **Trust**: Healthy leadership trusts people around them and is very good at identifying the best fit for different roles, sometimes even before the person themselves.
+
+- **Diversity**: Globally-diverse teams hugely strengthen data science projects. The most empathic and effective leaders are often people from marginalized communities.
+
+Good leaders have an open mind to cultural differences and are welcoming and inclusive to everyone in their team. Being welcoming and inclusive is challenging because it varies a lot by culture and personality. 
+
+Being kind, examining assumptions, and keeping an open mind to learn from the variability that enriches teams are essential to be a good leader. 
+
+None in a team, group, organization, or event should have to speak too loudly to get their message across. 
+
+- **Delegating** and trusting others. Leaders are to lead by example, but they will be unable to do everything and should not do everything either. 
+
+It is easy to become a bottleneck if a leader is in charge of too many aspects of a project you lead. 
+
+Developing trust and delegating crucial and meaningful tasks allows leaders to nurture healthy leadership.
+
+- **Renewal**: The same person leading the same project for long periods is the source of several problems. 
+
+Human relationships are complicated, and leaders must make consensual decisions with which not everyone will agree. 
+
+Governance mandating for good leadership renewal results in the long-term health of projects.
+
+- **Allyship**: A leading position comes with some dimensions of privilege. Privileged persons can be allies to those without those privileges. 
+
+Thus, healthy leadership will have a vital component of allyship work. Read more about allyship skills here (needs a reference).
