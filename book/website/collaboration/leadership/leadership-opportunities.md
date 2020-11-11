@@ -3,7 +3,6 @@
 
 <!---need to add content--->
 
-
 ## Onboarding new leaders
 
 <!---[this video](https://www.youtube.com/watch?v=HQjRnWVmL28) and these notes https://github.com/jupytercon/2020-willingc/tree/master/notebooks
@@ -13,39 +12,47 @@ Increasing responsibility over time.--->
 
 ## Nurturing the next leaders
 
-Nurture a group of people from different backgrounds and level around you that will lead the same project after a reasonable period of time.
+Leaders ought to nurture a group of people from diverse backgrounds and levels around them. This group will become the next leaders after some reasonable time. 
 
-They will also be a trusted source of changes and updates in all domains of data science.
+Such a group will also be a trusted source of changes and updates in data science domains. 
 
-When you are too busy leading, you may run out of time to learn about the newest thing around both at a technical and human level.
+When too busy leading, leaders will run out of time to learn about the latest advances both at technical and human levels.  This team keeps leaders from different blind spots and allows the projects led to transform accordingly.
 
-Your team will keep you from different types of blind spots and allow the projects you lead to transform accordingly.
-
-Blind spots are particularly challenging in multicultural, sometimes even globally distributed, teams.
+Blind spots are particularly challenging in multicultural, sometimes even globally-distributed teams.
 
 ## Offboarding gracefully
 
-Offboarding leaders gracefully, maybe with a guide, so they can step down if needed.
-Give the opportunity to leaders to step down before they burn out.
+Offboarding leaders gracefully, maybe using a guide, so they can step down if needed. Allow leaders to step down before they burn out.
 
-## Some examples of leaderships in community projects
+## Some examples of leadership in data science and data science-related community projects
 
 ### The Turing Way
 
-<!---need to add content - Malvika--->
+* Lead of translation effort at The Turing Way
+* Lead of maintenance
+* Gove
 
-### Open Life Science
+<!---need to add content--->
 
-<!---need to add content - Malvika--->
+### Open Life Science and Mozilla Life Science
+
+<!---need to add content--->
 
 ### The Carpentries
 
-<!---need to add content - Malvika/ Laura Acion--->
+* Champions
+* Executive committees
+
+<!---need to add content--->
+
+### PyLadies
+
+<!---need to add content--->
 
 ### R-Ladies
 
-<!---need to add content - Laura Acion--->
+<!---need to add content--->
 
 ### MetaDocencia
 
-<!---need to add content - Laura Acion--->
+<!---need to add content--->
