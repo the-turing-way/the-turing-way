@@ -9,4 +9,4 @@ jupyter-book==0.7.1
 sphinx==2.4.4
 pydata-sphinx-theme==0.3.1
 sphinx-book-theme==0.0.30
-node
+nodejs
