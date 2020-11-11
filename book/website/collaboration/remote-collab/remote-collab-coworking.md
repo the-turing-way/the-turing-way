@@ -1,10 +1,14 @@
-(ch-coworking-organisation)=
-# Organising coworking call for your community
+(cl-remote-collab-coworking)=
+# Organising Online Coworking Calls
 
-If you would like to set up coworking calls for your community, you can repurpose and adapt the format, templates, and materials discussed in this chapter to support your teams and communities.
+> The concept of coworking is generally associated with the practice of sharing physical office space with different people who work independently such as remote employees or freelancers.
+> This allows people, who otherwise may feel isolated while working alone at home, to use traditional office setups, create a work routine, and build a sense of companionship with others who they share their office spaces with.
+- {ref}`The Turing Way Coworking Calls<ch-coworking>`
 
-Practices described here are what we use in _The Turing Way_, but there are more ways to run such coworking calls.
 Below, I describe different aspects that you should take into consideration when planning or designing your coworking calls.
+
+In our Community Handbook, we discuss coworking calls hosted for _The Turing Way__ community.
+To set up coworking calls for your community, you can repurpose and adapt the format, templates, and materials discussed in our chapter on {ref}`Coworking Calls<ch-coworking>` to support your teams and communities.
 
 ## Designing a format the works for you
 
@@ -12,7 +16,7 @@ To identify what could be the best format for your coworking calls, you need to 
 
 **Purpose of your coworking calls**
 
-In _The Turing Way_, as described in the {ref}`motivation <ch-coworking-motivation>` subchapter, we host these calls for building connections, supporting our contributors, onboarding new members and celebrating their work.
+As described in the {ref}`motivation <ch-coworking-motivation>` subchapter, we host online calls for our community members for building connections, supporting our contributors, onboarding new members and celebrating their work.
 
 Your purpose for hosting coworking calls could be completely different and identifying that is important for you to plan the remaining logistics.
 A few other scenarios could be:
@@ -70,14 +74,8 @@ As the organisers of the event, you will be required to:
 
 **1. Choose the tools**
 
-The following aspects will require you to make choices in regards of what tools you will use.
-
-- maintaining shared notes: few options are [Etherpad](https://etherpad.org/), [HackMD](https://hackmd.io/), [GitHub](https://github.com/), [Google doc](https://en.wikipedia.org/wiki/Google_Docs)
-- managing registration: few options are via shared notes, [Zoom](https://zoom.us), [Eventbrite](https://www.eventbrite.com/), [Google Form](https://en.wikipedia.org/wiki/Google_Forms)
-- hosting the calls: few options are [Zoom](https://zoom.us), [Google Hangout](https://en.wikipedia.org/wiki/Google_Hangouts), [Skype](https://www.skype.com/en/), [Jisti](https://meet.jit.si/)
-- facilitating chats: few options are [Slack](https://slack.com/), [Gitter](https://gitter.im/), other [web-based or phone applications](https://www.makeuseof.com/tag/messaging-apps-phone-computer/)
-- sharing timers: few options are [cuckoo.team](https://cuckoo.team/), [vclock](https://vclock.com/timer/) or other web-based timers
-- finding a common availability: few options are [Doodle](https://doodle.com/poll/), [when2meet.com](https://www.when2meet.com/), or other [meeting schedule apps](https://zapier.com/blog/best-meeting-scheduler-apps/)
+The choices in regards of what tools you will use will depend on the purpose and scope of your calls.
+Please see the subchapter {ref}`Tools for Remote Collaboration<cl-remote-collab-tools>` to identify which tools will be most appropriate for communication, chats, shared documentation and scheduling.
 
 **2. Plan and host the calls**
 

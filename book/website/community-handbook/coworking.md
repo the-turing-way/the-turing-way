@@ -1,3 +1,4 @@
+(ch-coworking)=
 # Community Coworking Calls
 
 The concept of coworking is generally associated with the practice of sharing physical office space with different people who work independently such as remote employees or freelancers.
@@ -20,6 +21,8 @@ Our coworking calls provide opportunities for community members to allocate time
 ```
 
 In this chapter, you will learn about the motivation behind holding coworking calls, techniques we use for making effective use of the allocated time, the two types of calls we host: {ref}`Collaboration Cafes <ch-coworking-collabcafe>` and {ref}`Weekly Coworking<ch-coworking-weekly>` and their formats.
+Practices described here are what we use in _The Turing Way_, but there are more ways to run such coworking calls.
+If you would like to host similar coworking calls or other remote collaboration, please see the chapter on {ref}`Remote collaboration<cl-remote-collab>` in _The Turing Way_ Guide for Collaboration.
 
 We want to make collaborative events like these as useful as possible for as many people as possible.
 Please [let the team members know](/README.md#get-in-touch) if there are other ways we can make these calls more welcoming and helpful for you.
