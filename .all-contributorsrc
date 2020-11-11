@@ -142,7 +142,8 @@
       "profile": "http://sdruskat.net",
       "contributions": [
         "doc",
-        "content"
+        "content",
+        "ideas"
       ]
     },
     {
@@ -1005,7 +1006,8 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/14854230?v=4",
       "profile": "http://francescooper.net",
       "contributions": [
-        "content"
+        "content",
+        "ideas"
       ]
     },
     {
@@ -1014,7 +1016,8 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/23033397?v=4",
       "profile": "https://github.com/JoannaLeng",
       "contributions": [
-        "content"
+        "content",
+        "ideas"
       ]
     },
     {
@@ -1997,6 +2000,60 @@
       "profile": "https://brndnlee.me/",
       "contributions": [
         "bug"
+      ]
+    },
+    {
+      "login": "ashatitus",
+      "name": "ashatitus",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/32542663?v=4",
+      "profile": "https://www.lse.ac.uk/media-and-communications/people/research-staff/asha-titus",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "KimDeRuyck",
+      "name": "Kim De Ruyck",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/26715049?v=4",
+      "profile": "https://github.com/KimDeRuyck",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Marta-MM",
+      "name": "Marta-MM",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/67780317?v=4",
+      "profile": "https://github.com/Marta-MM",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "ahornos",
+      "name": "Albert Hornos Vidal",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9551786?v=4",
+      "profile": "https://github.com/ahornos",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "jmfernandez",
+      "name": "José María Fernández",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2072150?v=4",
+      "profile": "http://www.madrimasd.org/blogs/bioinformatica",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "SarahAlidoost",
+      "name": "SarahAlidoost",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/55081872?v=4",
+      "profile": "https://nl.linkedin.com/in/fakhereh-sarah-alidoost-11a24a89",
+      "contributions": [
+        "content"
       ]
     }
   ],

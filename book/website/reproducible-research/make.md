@@ -1,6 +1,6 @@
 # Reproducibility with Make
 
-## Prerequisites / recommended skill level
+## Prerequisites
 
 | Prerequisite | Importance | Notes |
 | ------------ | ---------- | ----- |
