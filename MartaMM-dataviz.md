@@ -1,8 +1,8 @@
 ## Various issues in data visualisation
 
 Data visualisation can be defined as _the visual representation and presentation of data to facilitate understanding_.
-It involves seeing data using _marks_ (for example, shapes) and _attributes_
- such as size, position, and colours.
+It involves seeing data using _marks_ (for example, shapes) and _attributes_ such as size, position, and colours.
+Good data visualisation helps us to show vast amounts of numbers and relations between them at a glance, using 
  
 The understanding process involves three steps:
 - Perceiving (what do I see?)
@@ -15,6 +15,15 @@ Three points of effective and efficient design process:
 - accessible: is it usable?
 - elegant: is it aesthetics?
  
+ Data visualisation is not a "one size fits all/most" tool. 
+ It involves choices and decisions which vary depending on one's goals (informing? convincing? persuading? supporting an argument?)
+ 
+the classical text "The visual display of quantitative information" by Tufte and Graves-Morris (1983) is a goldmine of resources and suggestions but, because it was published in 1983, it did not (and could not, for obvious reasons) address all the data visualisation opportunities that state of the art platforms and software offer nowadays. 
+
+### Storytelling
+Data visualisation and infographics are essential tools for _storytelling_
+
+
 ### choosing the right visual representations for the data and task at hand
 ### Anscombe's quartet
 ### visual analysis as individual/social process
@@ -36,7 +45,11 @@ Male should *not* be the 'default' option, this attitude limits data accessibili
 As thoroughly described and argued by Caroline Criado Perez ("Invisible Women", 2019), taking gender data into account in (city/transport/local plan) planning requires changes and solutions that have a ripple effect with broader consequences on the general society.
 
 ### Data accessibility
+
 How do you qualify what you produce in terms of data visualisation?
+<!--need to check what you wrote in the notes-->
+Use of colours and accessibility: [colororacle](www.colororacle.org) is a colour blindness simulator, allowing data scientists to consider colour branding and output restrictions when working on their charts.
+
 
 ### Possible negative effects of data collection?
 ### Sense.us case study <!--does anyone know more about them?-->
@@ -48,13 +61,14 @@ Importance of effective visual encodings
 
 [The chartmaker territory](https://chartmaker.visualisingdata.com/) provides a valuable resource for deciding what type of chart you shoud use depending on the type of data you are working with and, even more relevantly(?), the relation between data that you want to highlight.
 
-Use of colours and accessibility: [colororacle](www.colororacle.org) is a colour blindness simulator, allowing data scientists to consider colour branding and output restrictions when working on their charts.
 
 ## UK data service!
 
 ### References
 
+- Lankow, J., Ritchie, J., & Crooks, R. (2012). Infographics: The power of visual storytelling. John Wiley & Sons.
 - Perez, C. C. (2019). _Invisible women: Exposing data bias in a world designed for men._ Random House.
 - Segaran, T., & Hammerbacher, J. (2009). _Beautiful data: the stories behind elegant data solutions._ " O'Reilly Media, Inc.".
 - Spiegelhalter, D. (2019). _The art of statistics: learning from data._ Penguin UK.
+- Tufte, E. R., & Graves-Morris, P. R. (1983). The visual display of quantitative information (Vol. 2, No. 9). Cheshire, CT: Graphics press.
 
