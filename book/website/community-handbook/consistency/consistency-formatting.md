@@ -17,10 +17,11 @@ The checks that deal with the _The Turing Way's_ formatting include:
 ### Check 1:  Use Markdown for creating your content
 
 _The Turing Way_ should be written in [Markdown](https://en.wikipedia.org/wiki/Markdown) where possible, so that the Jupyter Book renders as intended. 
-
-Some earlier chapters in _The Turing Way_ were not entirely written in Markdown, thereby making some of its content hard to read. 
+ 
 
 #### Markdown x HTML
+
+Parts of earlier chapters in _The Turing Way_ were written in `HTML`, making some of their content hard to read.
 
 For example, {ref}`html_to_markdown` depicts a table that was written in `HTML`.
 
@@ -46,7 +47,7 @@ Converting HTML to Markdown makes The Turing Way book easier to read.
 
 Chapter content written in `HTML` are usually enclosed in tags which begin and end with angle brackets `<>`. 
 [W3Schools](https://www.w3schools.com/html/html_elements.asp) is an excellent resource for understanding what these tags mean, and Markdown reference guides, such as [this cheatsheet](https://www.markdownguide.org/cheat-sheet/), can help translate `HTML` formatting to Markdown.
-There are also helpful [tools](https://jmalarcon.github.io/markdowntables/) that convert `HTML` to Markdown with a single click.
+There are also helpful tools on the web, such as [Turndown](https://domchristie.github.io/turndown/) and [CloudConvert](https://cloudconvert.com/html-to-md), that convert `HTML` to Markdown with a single click.
 
 Please note that if `HTML` seems the only option for you to format your text the way you desire, you can only use it if the content in the online book can still be read and understood (use the Netlify preview in your PR to test). 
 For example, [superscripts and subscripts](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be written in `HTML` because they always appear as intended.
@@ -145,7 +146,7 @@ You should always check how your image looks in the Netlify preview of the book 
 ## Soft Requirements
 
 Soft requirements help improve the overall look and feel of _The Turing Way_.
-When effected, these checks may go unnoticed, but they also make _The Turing Way_ a polished piece of work.
+When effected, these checks may go unnoticed, but they also contribute to making _The Turing Way_ a polished piece of work.
 Soft requirements that deal with _The Turing Way's_ formatting include: 
 
 (ch-consistency-formatting-sr-one)=
@@ -163,7 +164,8 @@ The title of this subchapter is 'Using Spreadsheets for Research Data', however 
 ```
 
 In ensuring that _The Turing Way's_ content passes this check, one recommendation to follow is to keep the titles short.
-If a chapter's title and its reference in the table of contents differ, make the shorter of the two the chapter's title, and update the `_toc.yml` if necessary. 
+When writing a new chapter, ensure that its title is short and has the same name in the table of contents. 
+Similarly, when reviewing existing chapters, if its title and reference in the table of contents differ, make the shorter of the two the chapter's title, and update the `_toc.yml` if necessary. 
 
 ```{note} 
 The `_toc.yml` is the file where the book-wide table of contents for _The Turing Way_ lives.
@@ -184,7 +186,7 @@ Although _The Turing Way_ does not follow a specific title capitalisation style,
 - Lowercase articles, conjunctions, and prepositions (unless when these are stressed)
 - Capitalise the first and last words
 
-There are helpful tools, such as [CapitalizeMyTitle](https://capitalizemytitle.com/), that can be used to title-case headers when writing your content.
+There are helpful tools, such as [CapitalizeMyTitle](https://capitalizemytitle.com/) and [Title Case Converter](https://titlecaseconverter.com/), that can be used to title-case headers when writing your content.
 Furthermore, headers in _The Turing Way_ can be run through these tools to ensure they follow title-casing conventions.
 They can then be replaced within chapters and in the `_toc.yml` as appropriate.
 
