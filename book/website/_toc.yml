@@ -228,6 +228,17 @@
 
 - file: collaboration/collaboration
   sections:
+  - title: Getting starting on GitHub
+    file: collaboration/easyway
+    sections:
+    - title: Why learn how to use GitHub?
+      file: collaboration/easyway/sc1_why_learn_how
+    - title: Getting started with Github
+      file: collaboration/easyway/sc2_getting_started_with_github
+    - title: Using more Github features
+      file: collaboration/easyway/sc3_using_more_github_features
+    - title: Advanced Github features
+      file: collaboration/easyway/sc4_advanced_github_features
   - title: Collaborating on GitHub
     file: collaboration/github-collaboration
     sections:
@@ -237,7 +248,7 @@
       file: collaboration/github/github-roadmapping
     - title: Getting Contributors
       file: collaboration/github/github-contributors
-    - title:  Reviweing GitHub Contributions
+    - title:  Reviewing GitHub Contributions
       file: collaboration/github/github-maintainers.md
     - title: Checklist and resources
       file: collaboration/github/github-resources
