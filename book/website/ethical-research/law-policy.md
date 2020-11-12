@@ -87,7 +87,7 @@ The World Intellectual Property Organisation (the UN agency which oversees intel
 
 The extent to which any intellectual property is protected in law varies by jursidiction, and is often time-limited.
 Enforcement of intellectual property law also varies by jurisdiction. 
-In general, it is the owner of the intellectual property who is responsible for enforcing their rights, for example by sueing another person in court. 
+In general, it is the owner of the intellectual property who is responsible for enforcing their rights, for example by suing another person in court. 
 
 You should know who owns the intellectual property you create.
 In some situations, it will be you personally.
@@ -95,6 +95,14 @@ If you are employed, depending on the terms of your employment, your employer ma
 This may impact what you are able to do with the intellectual property you create, including the terms under which you can license it.
 The relationship between intellectual property law and open source is complicated but it is not necessarily incompatible. 
 <!--- Perhaps spin off a page on how to advocate for open source practices? -->
+
+If you own the intellectual property that you create, you should think carefully about how to license it. 
+If you do not explicitly license your content differently, it generally falls under copyright and technically cannot be remixed without your permission. 
+This can present problems for working openly!
+
+You may use an open license to share code, or content, or both. 
+There are lots of licenses designed especially for sharing broadly, and organizations like Creative Commons and the Free Software Foundation have created tools and resources to facilitate sharing of content, data and code. 
+[choosealicense.com](https://choosealicense.com/) is a useful resource to help you choose how to license your work.
 
 #### Tort law
 
@@ -235,8 +243,7 @@ Researchers and data scientists should, in general ensure that they:
 > less relevant/favourite resources in case someone wants to dig into this in detail
 -->
 
-<!---
+
 ## Bibliography
-> Credit/urls for any materials that form part of the chapter's text.
--->
+https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/
 
