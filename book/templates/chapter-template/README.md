@@ -12,25 +12,25 @@ This means that when your chapter is added to the book, it will belong to one of
 Structurally, a Guide in _The Turing Way_ Github repository is a folder and your chapter is a sub-folder within it.
 All Guides in _The Turing Way_ live in the `book/website` directory.
 
-If your chapter belonged to Guide 1, for example, then the file structure could resemble the following:
+For example, if you wrote the [Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html) Chapter in the Guide to Reproducible Research the file structure will resemble the following:
 
 ```
 book\website
 │
-└───Guide 1
-│   │   Guide 1's Landing Page.md
-│   │   Your Chapter's Landing Page.md
+└───reproducible-research <---- (folder for the Guide to Reproducible Research)
+│   │   reproducible-research.md ---- (Guide's Landing Page)
+│   │   vcs.md <---- (Landing page for the Version Control chapter)
 │   │
-│   └───Your Chapter
-│       │   Your Chapter's Topic (1).md
-|       |   Your Chapter's Topic (2).md
-|       |   Your Chapter's Topic (3).md
+│   └───vcs (chapter folder)
+│       │   vcs-workflow.md
+|       |   vcs-git.md
+|       |   vcs-git-commit.md
 |       |   ...
-│       │   Your Chapter Checklist.md
-│       │   Your Chapter Resources.md
+│       │   vcs-checklist.md
+│       │   vcs-resources.md
 │   
-└───Guide 2
-    │   Guide 2's Landing page.md
+└───project-design <---- (folder for the Guide for Project Design) 
+    │   project-design.md
     │   ...
 ```
 
@@ -74,6 +74,11 @@ Use `chapter-resources.md` to tell readers what topics to explore next and where
 
 ## Remember to..
 
+### Follow the style and consistency guidelines
+
+As you write your chapter, keep _The Turing Way's_ [style](https://the-turing-way.netlify.app/community-handbook/style.html) and [consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html) recommendations in mind.
+This ensures that your new content is accessible, and fits the overall style, structure, and formatting of _The Turing Way_ book.
+
 ### Name files/folders appropriately
 
 Please follow _The Turing Way's_ conventions for naming files. 
@@ -98,20 +103,22 @@ The book-wide table of contents lives in the `_toc.yml` [file](book\website\_toc
 This file structures _The Turing Way_ and defines the order in which chapters appear.
 Your chapter's files should be added to the `_toc.yml` as appropriate.
 
-To add the chapter on Open Science to Guide 1 in the table of contents, you could do the following:
+For example, the Version Control chapter in the Guide for Reproducible Research was added to the `_toc.yml` file like this:
 
 ```
-- file: path/to/Guide 1
+- reproducible-research/reproducible-research
   sections:
-  - title: Open Science
-    file: path/to/open-science
+  ...
+  - title: Version Control
+    file: reproducible-research/vcs
     sections:
-    - title: Infrastructure School of Thought
-      file: path/to/open-science-infrastructure
-    - title: Checklist
-      file: path/to/open-science-checklist
-    - title: Resources
-      file: path/to/open-science-resources
+    - title: General Workflow
+      file: reproducible-research/vcs/vcs-workflow
+    - title: Getting Started with Git
+      file: reproducible-research/vcs/vcs-git
+    - title: Git Commit Command
+      file: reproducible-research/vcs/vcs-git-commit
+    - title: Retrieving and Comparing Versions
 ```
 
 ### Reference external sources appropriately
