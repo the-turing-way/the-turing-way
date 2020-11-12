@@ -73,7 +73,8 @@ In addition to considering the variety of disclosure risks, it is also important
 
 > not sure where this subheading fits(?) -irenekp
 ### Privacy Models 
-Evaluation of reidentification risks is a non-trivial problem and today, is mainly done through qualitative methods. However, there exists a class of privacy models that act both as techniques of anonymization as well as measures for the risk levels of the data. These mainly focus on expressing the uniqueness of a record in a database as most risk evaluations today are focused on determining record uniqueness [8].
+Evaluation of reidentification risks is a non-trivial problem and today, is mainly done through qualitative methods that focus on the characteristics of the source data like sampling size. However, there exists a class of privacy models that act both as techniques of anonymization as well as measures for the risk levels of the data. These mainly focus on expressing the uniqueness of a record in a database as most risk evaluations today are focused on determining record uniqueness [8]. This privacy class includes, among others:
+* **k-anonymity**: A measure that expresses 
 
 ### When to evaluate re-identification risks?
 Evaluation of re-identification risks is not intended to be a one-time process that takes place at the time of release of data. Before releasing the data, the researcher has to account for the possibility of technological advancements in the future being able to re-identify data that seems entirely anonymous in the current technological landscape. Further, the researcher must periodically test and re-evaluate the identifiability of their data over time with consideration to the newly available tools and methods.
@@ -102,8 +103,12 @@ There are several open source tools that aid the process of anonymizing data.
 > recommended next chapters that are a good next step up
 
 ## Further reading
-> top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
-> less relevant/favourite resources in case someone wants to dig into this in detail
+> I don't fully understand licenses (?) so not sure which of my references are ineligible -irenekp
+[The Anonymization Code by the Information Commissioner's Office, UK](https://ico.org.uk/media/1061/anonymisation-code.pdf) \
+[Privacy and data anonymization from a data scientist’s point of view](https://blog.concurlabs.com/privacy-and-data-anonymization-from-a-data-scientists-point-of-view-956226888d6b)\
+[Evaluation of Re-identification Risk for Anonymized Clinical Documents](https://www.phusewiki.org/docs/Conference%202017%20RG%20Papers/RG02.pdf) \
+[Protecting Privacy when Disclosing Information: k-Anonymity and Its Enforcement through Generalization and Suppression](https://epic.org/privacy/reidentification/Samarati_Sweeney_paper.pdf) \
+
 
 ## Definitions/glossary
 > Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
@@ -116,5 +121,6 @@ There are several open source tools that aid the process of anonymizing data.
 [4] https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-12-66 \
 [5] https://www.oreilly.com/radar/podcast/how-privacy-preserving-techniques-can-lead-to-more-robust-machine-learning-models/ \
 [6] https://arxiv.org/abs/cs/0610105 \
-[7] http://www.ehealthinformation.ca/wp-content/uploads/2014/08/2009-De-identification-PA-whitepaper1.pdf
+[7] http://www.ehealthinformation.ca/wp-content/uploads/2014/08/2009-De-identification-PA-whitepaper1.pdf \
+[8] https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-12-66
   
