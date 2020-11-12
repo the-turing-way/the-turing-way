@@ -8,16 +8,13 @@ The following sections that are part of the Reproducible Research book will bett
 | {ref}`rr-open`| Helpful |
 | {ref}`rr-rdm` | Helpful |
 ## Summary
-The Data Anonymization chapter is intended to provide a comprehensive overview into the privacy considerations involved in contributing to open data and in extension, open research. It outlines the current motivations to anonymize data and aims to delineate the different terminologies, techniques and tools surrounding the process of anonymization data today. It also presents the data-driven considerations that need to be taken before choosing an anonymization technique and closes with an acknowledgment of the re-identification risks that remain despite the use of anonymization. 
+The Data Anonymization chapter is intended to provide a comprehensive overview into the privacy considerations involved in contributing to open data and in extension, open research. It outlines the current motivations to anonymize data and aims to delineate the different terminologies, techniques and tools surrounding the process of anonymizing data today. It also presents the data-driven considerations that need to be taken before choosing an anonymization technique and closes with an acknowledgment of the re-identification risks that remain despite the use of anonymization. 
 
 ## Why This is Useful
-Sharing Data is an important prerequisite in facilitating Open Research that is reproducible, re-usable, accountable, and accessible. However, when this data is extremely personal or sensitive in nature, it is often difficult or even impossible to make the data sets publicly available in their original form. There is a wide array of ethical concerns about individual privacy as well as a number of data protection laws that rightfully hinder this free sharing of personal data. However, there exist methods that aim to fully anonymize data sets while preserving their statistical utility. And it is imperative for any researcher who intends to share data to apply all relevant anonymization techniques and beyond that, identify any re-identification risks that could ensue from release of this anonymized data.   
-
-## Chapter content
-> depending on the content, this might be more structured, e.g. with exercises, gotcha sections etc
+Sharing Data is an important prerequisite in facilitating Open Research that is reproducible, re-usable, accountable, and accessible. However, when this data is extremely personal or sensitive in nature, it is often difficult or even impossible to make the data sets publicly available in their original form. There is a wide array of ethical concerns about individual privacy as well as a number of data protection laws that rightfully hinder this free sharing of personal data. However, there exist methods that aim to fully anonymize data sets while preserving their statistical utility. And it is imperative for any researcher who intends to share data to apply all relevant anonymization techniques and beyond that, identify any re-identification risks that could ensue from the release of this anonymized data.   
 
 ## What is Anonymization?
-Data Anonymization is the process of protecting private and sensitive information of individuals by erasing, encrypting or translating a variety of attributes in the database such that the people who are described by the data remain anonymous. It is most strictly outlined in the General Data Protection Regulation (GDPR) in the European Union as:
+Data Anonymization is the process of protecting private and sensitive information of individuals by erasing, encrypting or translating a variety of attributes in the database such that the people who are described by the data remain anonymous. It is most strictly outlined in the General Data Protection Regulation (GDPR) of the European Union as:
 >_“…information which does not relate to an identified or identifiable natural person or to personal data rendered anonymous in such a manner that the data subject is not or no longer identifiable.”_ - GDPR Recital (26)
 
 While strict, the GDPR provides for data that meets these standards to be collected without consent, used and stored indefinitely.
@@ -65,19 +62,21 @@ Combinations of these techniques and more can be used in accordance to the speci
 ## Reidentification Risks
 
 In 2007, Netflix released anonymized movie ratings of almost 500K users. Despite the non-availability of usernames, some Texas researchers were able to reidentify users by using the Internet Movie Database as a base source[6]. This highlights the importance of considering the potential re-identification risks before releasing insufficiently anonymized data. There are three key types of reidentification risks that the researcher has to account for when anonymizing their data. 
-* **Identity Disclosure**: This form of disclosure takes place when an individual is re-identified from their record with a high confidence due to either insufficient anonymization or identification through linking with external databases among other methods.
-* **Attribute Disclosure**: Attribute Disclosure takes place when an intruder is able to ascertain that an entry in a database belongs to a specific user with a great degree of certainty. Having outliers in the database increases the possibility of this form of disclosure. 
+* **Identity Disclosure**: This form of disclosure takes place when an individual is re-identified with a high degree of confidence due to either insufficient anonymization or identification through linking with external databases among other methods.
+* **Attribute Disclosure**: Attribute Disclosure takes place when an intruder is able to ascertain that an attribute in a database belongs to a specific user with a great degree of certainty. Having outliers in the database increases the possibility of this form of disclosure. 
 * **Inference Disclosure**: Inference Disclosure occurs when an inference can be made about an individual with a high level of confidence irrespective of whether or not they belong to the dataset. Demographical statistics like 82% of millennials use this social media would help make inferences about people who weren't polled as well.
 
-In addition to considering the variety of disclosure risks, it is also important to consider the variety of motivations and competencies a hypothetical intruder might possess. The attackers can be generalized into three main types [7]:
+In addition to considering the variety of disclosure risks, it is also important to consider the various motivations and competencies a hypothetical intruder might possess. Potential intruders can be generalized into three main categories [7]:
 * **Prosecutor**: here, the intruder is interested in finding a specific person in a specific database. Risks pertaining to this intruder can be measured by determining the uniqueness of quasi-identifiers in a database. 
-* **Journalist**: While they still want to re-identify individuals, this type of attacker doesn't usually focus on which records are re-identified. As this intruder depends on other pre-existing public databases (like voter registration lists) to re-identify individuals, the statistical risk analysis for this type of intruders will rely heavily on the nature of public databases available.
+* **Journalist**: While they still want to re-identify individuals, this type of attacker doesn't usually focus on which records are re-identified. As this intruder depends on other pre-existing public databases (like voter registration lists) to re-identify individuals, the statistical risk analysis for this type of intruder will rely heavily on the nature of public databases available.
 * **Marketer**: this type of intruder wants to maximise the number of individuals that they intend to reidentify at the cost of mis-identifying some of the records. They too, try to map the de-identified data with available databases.
 
-> add more about privacy models/measurement paradigms like k-anonymity? -irenekp
+> not sure where this subheading fits(?) -irenekp
+### Privacy Models 
+Evaluation of reidentification risks is a non-trivial problem and today, is mainly done through qualitative methods. However, there exists a class of privacy models that act both as techniques of anonymization as well as measures for the risk levels of the data. These mainly focus on expressing the uniqueness of a record in a database as most risk evaluations today are focused on determining record uniqueness [8].
 
 ### When to evaluate re-identification risks?
-Further, re-identification risk evaluation is not intended to be a one-time process that takes place at the time of release of data. Before releasing the data, the researcher has to account for the possibility of technological advancements in the future being able to re-identify data that seems entirely anonymous in the current technological landscape. Further, the researcher must periodically test and re-evaluate the identifiability of their data over time with consideration to the newly available tools and methods.
+Evaluation of re-identification risks is not intended to be a one-time process that takes place at the time of release of data. Before releasing the data, the researcher has to account for the possibility of technological advancements in the future being able to re-identify data that seems entirely anonymous in the current technological landscape. Further, the researcher must periodically test and re-evaluate the identifiability of their data over time with consideration to the newly available tools and methods.
 
 
 ## Common Misconceptions
@@ -110,7 +109,6 @@ There are several open source tools that aid the process of anonymizing data.
 > Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
 
 ## Bibliography
-> Credit/urls for any materials that form part of the chapter's text.
 
 [1] https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-23.pdf [Appendix]\
 [2] https://dataprivacylab.org/projects/identifiability/paper1.pdf \
