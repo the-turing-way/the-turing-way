@@ -52,15 +52,35 @@ Further, the choice of anonymization techniques may vary depending on the whethe
 ## Existing Techniques
 There exist a variety of anonymization techniques that vary in the level of data loss they cause and also vary in terms of the amount of statistical and relationship data that they preserve. The following section provides a quick overview of a variety of anonymization techniques:
 
-* Attribute/Record Supression: involves deleting an entire column/row of sensitive data that cannot be anonymized.
-* Character Masking: replacing actual text with a constant symbol (like x, * and so on) , care should be taken to see whether length of the replaced data is also sensitive and should be hidden.
-* Generalization: Decrease the granularity of the data. For example, make the pin code less specific, zoom out in terms of geographical location, convert birthdays to ages, ages to age ranges and so on. 
-* Aggregation: Decrease granularity of the data by converting the listed records into summative statistical measures like average, sum and so on.
-* Query systems: provide access to the data only through a set of specialized queries that can obtain statistical information about the data but not any individual level data.
-* Data Preturbation: involves adding noise to the data to prevent identification. If not done taking into consideration the probability distribution, it affects data accuracy adversely.
-* Swapping: involves rearranging the data such that all individual values are still reflected in the final dataset. It can be used when analysis is on an intra-attribute and doesnt depend on record level attribute relationships.
+* **Attribute/Record Supression**: involves deleting an entire column/row of sensitive data that cannot be anonymized.
+* **Character Masking**: replacing actual text with a constant symbol (like x, * and so on) , care should be taken to see whether length of the replaced data is also sensitive and should be hidden.
+* **Generalization**: Decrease the granularity of the data. For example, make the pin code less specific, zoom out in terms of geographical location, convert birthdays to ages, ages to age ranges and so on. 
+* **Aggregation**: Decrease granularity of the data by converting the listed records into summative statistical measures like average, sum and so on.
+* **Query systems**: provide access to the data only through a set of specialized queries that can obtain statistical information about the data but not any individual level data.
+* **Data Preturbation**: involves adding noise to the data to prevent identification. If not done taking into consideration the probability distribution, it affects data accuracy adversely.
+* **Swapping**: involves rearranging the data such that all individual values are still reflected in the final dataset. It can be used when analysis is on an intra-attribute and doesnt depend on record level attribute relationships.
 
 Combinations of these techniques and more can be used in accordance to the specific needs of a dataset and its expected utility.
+
+## Reidentification Risks
+
+In 2007, Netflix released anonymized user ratings of movies for almost 500K users. However, some Texas researchers were able to reidentify users by using the Internet Movie Database as a base source[6]. This highlights the importance of considering the potential re-identification risks when releasing anonymous data. There are three key types of reidentification risks that the researcher has to account for when anonymizing their data. 
+* **Identity Disclosure**: takes place when an individual can be re-identified from their record with a high confidence due to either insufficient anonymization, identification through linking with other databases and so on.
+* **Attribute Disclosure**: happens when an intruder is able to ascertain that an entry in a database belongs to a specific user with a great degree of certainty. Having outliers in the database increases this possibility. 
+* **Inference Disclosure**: when an inference can be made about an individual with a high level of confidence irrespective of whether or not they belong to the dataset. Demographical statistics like 82% of millenials use this social media would help make inferences about people who weren't polled as well.
+
+In addition to considering the variety of disclosure risks, it is also important to consider the variety of motivations and competencies a hypothetical intruder might possess. The attackers can be generalized into three main types [7]:
+* **Prosecutor**: here, the intruder is interested in finding a specific person in a specific database. Risks pertaining to this intruder can be measured by determining the uniqueness of quasi-identifiers in a database. 
+* **Journalist**: While they still want to re-identify individuals, this type of attacker doesn't usually focus on which records are re-identified. As this intruder depends on other pre-existing public databases (like voter registration lists) to re-identify individuals, the statistical risk analysis for this type of intruders will rely heavily on the nature of public databases available.
+* **Marketer**: this type of intruder wants to maximise the number of individuals that they intend to reidentify at the cost of mis-identifying some of the records. They too, try to map the de-identified data with available databases.
+
+> add more about privacy models/measurement paradigms like k-anonymity -irenekp
+
+### When to evaluate re-identification risks?
+Further, re-identification risk evaluation is not intended to be a one-time process that takes place at the time of release of data. Before releasing the data, the researcher has to account for the possibility of technological advancements in the future being able to re-identify data that seems entirely anonymous in the current technological landscape. Further, the researcher must periodically test and re-evaluate the identifiability of their data over time with consideration to the newly available tools and methods.
+
+
+
 
 ## Common Misconceptions
 There are many data privacy related terms that occur in close relation to anonymization in common use. These however, are often not part of anonymization techniques and might not have similar goals. Hence it is important to distinguish them from data anonymization. 
@@ -92,4 +112,6 @@ There are many data privacy related terms that occur in close relation to anonym
 [3] https://iapp.org/media/pdf/resource_center/Guide_to_Anonymisation.pdf \
 [4] https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-12-66 \
 [5] https://www.oreilly.com/radar/podcast/how-privacy-preserving-techniques-can-lead-to-more-robust-machine-learning-models/ \
+[6] https://arxiv.org/abs/cs/0610105 \
+[7] http://www.ehealthinformation.ca/wp-content/uploads/2014/08/2009-De-identification-PA-whitepaper1.pdf
   
