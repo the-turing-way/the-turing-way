@@ -53,7 +53,8 @@ Because data protection laws sit at the limits of what companies - especially bi
 New pieces of legislation such as the General Data Protection Regulation ([GDPR](https://gdpr-info.eu/)) in the EU have attracted a lot of attention.
 
 Many countries have a national data protection authority, which is tasked with protecting data.
-They often produce guidance on how to comply with data protection laws. 
+They often produce guidance on how to comply with data protection laws in their country.
+Wikipedia has a [list of data protection authorities](https://en.wikipedia.org/wiki/National_data_protection_authority) covering lots of countries.
 
 Data protection laws are sometimes confused with privacy laws, but they are not the same thing. 
 
