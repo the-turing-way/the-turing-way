@@ -82,6 +82,7 @@ These can include:
 - copyright: covers creative works, and gives the owner the right to make copies.
 - trademark: covers goods or services, and identifies them as coming from a particular provider.
 - patent: covers inventions, and gives the owner the right to stop other actors from making or selling that invention.
+The World Intellectual Property Organisation (the UN agency which oversees intellectual property issues) has produced FAQs on [copyright](https://www.wipo.int/copyright/en/faq_copyright.html), [trademarks](https://www.wipo.int/trademarks/en/), and [patents](https://www.wipo.int/patents/en/faq_patents.html).
 
 The extent to which any intellectual property is protected in law varies by jursidiction, and is often time-limited.
 Enforcement of intellectual property law also varies by jurisdiction. 
