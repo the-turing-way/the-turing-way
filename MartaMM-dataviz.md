@@ -1,6 +1,8 @@
-### choosing the right visual representations for the data and task at hand
-### Anscombe's quartet
-### visual analysis as individual/social process
+### Various issues in data visualisation
+
+## choosing the right visual representations for the data and task at hand
+## Anscombe's quartet
+## visual analysis as individual/social process
 
 In a sea of data, data visualisation represents a time-constrained activity which offers options to represent data analysis, making users/people aware of the different options they have. Dataviz can be considered an *informed list of possibilities* that empowers people instead of overwhelming them.
 tradeoff between having a large amount of information and knowing what to do with it 
@@ -26,3 +28,14 @@ How do you qualify what you produce in terms of data visualisation?
 "Our goal was to realize the potential beauty of data by fostering collective data analysis".
 Source: IPUMS-USA
 Importance of effective visual encodings
+
+## tendency to create a story out of noise!
+
+# References
+
+- Perez, C. C. (2019). _Invisible women: Exposing data bias in a world designed for men._ Random House.
+- Segaran, T., & Hammerbacher, J. (2009). _Beautiful data: the stories behind elegant data solutions._ " O'Reilly Media, Inc.".
+- Spiegelhalter, D. (2019). _The art of statistics: learning from data._ Penguin UK.
+
+
+
