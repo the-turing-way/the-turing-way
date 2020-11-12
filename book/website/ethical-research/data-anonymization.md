@@ -3,7 +3,7 @@
 
 ## Prerequisites / recommended skill level
 The following sections of the Reproducible Research book will better help understand the motivation for this chapter:
-
+<!--would appreciate some help with linking the sections to this table-->
 | Prerequisite | Importance |
 | -------------|----------|
 | {ref}`rr-open`| Helpful |
@@ -40,7 +40,7 @@ In terms of need for anonymization, a specific attribute of the dataset may fall
 
 The application of anonymization techniques will also vary depending on whether the target data is static or streaming[3]. Static data is data that is entirely available before the anonymization process while streaming continuously provides new data with time. An example for streaming data would be website user analytics data. In case of streaming data, relationships are not fully established as new data keeps streaming, hence it requires special considerations when anonymizing. Further, the choice of anonymization techniques may vary depending on whether the data is textual or a different form of multimedia as the needs of the different forms vary widely. While textual data may require deletion or replacement of words, video data might require blurring whereas audio data may require bleeping and so on.
 
-> Not sure if this below section is necessary -irenekp
+<!--Not sure if this below section is necessary -irenekp-->
 
 There exists a variety of anonymization techniques that vary in the level of data loss they cause and also vary in terms of the amount of statistical and relationship data that they preserve.
 ### Existing Techniques
@@ -68,7 +68,7 @@ In addition to considering the variety of disclosure risks, it is also important
 * **Journalist**: While they still want to re-identify individuals, this type of attacker doesn't usually focus on which records are re-identified. As this intruder depends on other pre-existing public databases (like voter registration lists) to re-identify individuals, the statistical risk analysis for this type of intruder will rely heavily on the nature of public databases available.
 * **Marketer**: this type of intruder wants to maximise the number of individuals that they intend to reidentify at the cost of mis-identifying some of the records. They too, try to map the de-identified data with available databases.
 
-> not sure where this subheading fits(?), also not sure if this section is necessary for the book(?) -irenekp
+<!--not sure where this subheading fits(?), also not sure if this section is necessary for the book(?) -irenekp -->
 ### Privacy Models 
 Measurement of reidentification risks is a non-trivial problem, however, there exists a class of helpful privacy models that act both as techniques of anonymization as well as measures for the risk levels of the data. These mainly focus on expressing the uniqueness of a record in a database as most risk evaluations today are focused on determining record uniqueness [8]. This privacy class includes, among others:
 * **k-anonymity**: Released data is said to have k-anonymity when an individual cannot be distinguished from k-1 others who have similar properties.
@@ -83,13 +83,13 @@ When releasing anonymized data, while it may appear that none of the current day
 ## Common Misconceptions
 There are many data-privacy related terms that are often used interchangeably in ordinary language. Below, some of these concepts are introduced for the purpose of clarifying how they differ from traditional data anonymization.
   * Synthetic Data - is fake information that is artificially generated to closely resemble the original data.
-  > (ambiguous: wikipedia calls it a subset of anonymized data) - irenekp
+  <!-- (ambiguous: wikipedia calls it a subset of anonymized data) - irenekp -->
   * Pseudonymization - here, Personally Identifiable fields are replaced by an unrelated and randomized reference number. However, if there exists a database that maps the Personally Identifiable fields with the reference number, the process becomes reversible and identifiable.
   * Storing unedited source data after anonymization invalidates the anonymization process and results in the new data being pseudo-anonymized data instead, which does not meet the same legal requirements.
   ### Does Anonymization render data useless for analytics?
   Anonymizing data doesn't necessarily destroy the quality of the data or make it ineligible for data analytics purposes. Depending on the technique used and the level of data required, it is possible to retain key relationships and statistical properties required for analytics. This requires the researcher to pick their anonymization techniques with greater care. In fact, many anonymization techniques provide a generalized trend instead of individual data, if the loss of an individual's data makes a huge difference to the researcher's machine learning/data science models, there is a possibility that the model was overfit initially[5]. In general for statistical uses, the researcher should be careful if they are picking perturbative data anonymization techniques that add noise to, and change the distribution characteristics of the data.
 
-> Not sure if this below section is necessary -irenekp
+<!-- Not sure if this below section is necessary -irenekp -->
 ## Anonymization Tools
 There are several open source tools that aid the process of anonymizing data. 
 * [Cornell's Anonymization Toolkit](https://sourceforge.net/projects/anony-toolkit/)
@@ -104,7 +104,7 @@ There are several open source tools that aid the process of anonymizing data.
 > recommended next chapters that are a good next step up
 
 ## Further reading
-> I don't fully understand licenses (?) so not sure which of my references are ineligible -irenekp
+<!--I don't fully understand licenses (?) so not sure which of my references are ineligible -irenekp-->
 
 [The Anonymization Code by the Information Commissioner's Office, UK](https://ico.org.uk/media/1061/anonymisation-code.pdf) \
 [Privacy and data anonymization from a data scientist’s point of view](https://blog.concurlabs.com/privacy-and-data-anonymization-from-a-data-scientists-point-of-view-956226888d6b)\
