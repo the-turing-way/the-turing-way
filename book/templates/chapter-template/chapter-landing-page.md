@@ -20,7 +20,6 @@
 | {ref}`Chapter <chapter-label>` | Helpful/Necessary | Beginner/Intermediate/Advanced | Any useful notes the reader should know |
 
 
-
 (sectioninitials-filename-summary)=
 ## Summary
 
@@ -29,13 +28,18 @@
 > When you mention a sub-topic, link to the subchapter where you expand on the topic.
 > See the Summary in the Open Research [chapter](https://the-turing-way.netlify.app/reproducible-research/open.html) for inspiration  
 
-(sectioninitials-filename-useful)=
-## Why This is Useful
+> Optionally add an image that captures the gist of your chapter
+> See our illustrations in Zenodo for reference that you can reuse: https://zenodo.org/record/3332808, https://zenodo.org/record/3695300
+> You can also use this collection of royalty free images: https://www.manypixels.co/gallery/
+> Please see more about how to use figures in _The Turing Way_ in our {ref}`Style<ch-style-guide>`
+
+(sectioninitials-filename-motivation)=
+## Motivation and background
 
 > **Explain why readers should pay attention to this chapter.**
 > For example, how can your chapter's content have a positive impact on your reader's data science project?
 > Think about the reader demographic that would be interested in your chapter and tailor this section appropriately.
-
+> Provide a cross-referencing link to different subchapters using this directive: `{ref}`Chapter <sectioninitials-filename-subchaptername>``
 
 <!-- IMPORTANT!
 
