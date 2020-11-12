@@ -125,7 +125,7 @@ When writing your chapter, update the book-wide glossary with the key terms in y
 For each term, cross-reference to the subchapter/section where you explained it.
 
 
-### Cross check your PR
+### Cross check your Pull Requests (PR)
 
 The content of the templates are meant to guide and structure your writing.
 Please remove all of the template's placeholders, tips, and suggestions from your chapter before you submit your PR for review.
