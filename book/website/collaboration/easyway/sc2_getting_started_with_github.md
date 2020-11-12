@@ -109,7 +109,7 @@ To add a license to your repository, the first thing to do is create a LICENSE.m
 * You can also add the license to the bottom of your README.md file. Here is a link to a repo that you can copy to add in a [CC BY 4.0 license](https://github.com/santisoler/cc-licenses).
 It has a text file for your LICENSE.md file and also a shield that you can put at the bottom of your README.md file.
 
-You can find more information about licenses in the [Licensing](../licensing) chapter of The Turing Way.
+You can find more information about licenses in the {ref}`licensing<rr-licensing>` chapter of The Turing Way. 
 
 ```{figure} ../../figures/easyway4_edited_readme.jpg
 ---
