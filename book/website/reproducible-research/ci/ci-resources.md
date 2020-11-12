@@ -6,7 +6,7 @@ If you have not already read the testing chapter it is suggested to do so to lea
 
 ## Further reading
 
-Travis offers a great deal of functionality <!--functionalities?--> not described here for automating other processes related to the testing and deployment of projects. Look into these, the Travis [documentation](https://docs.travis-ci.com/user/deployment) offers a good starting point for this.
+Travis offers many functionalities not described here for automating other processes related to the testing and deployment of projects. Look into these, the Travis [documentation](https://docs.travis-ci.com/user/deployment) offers a good starting point for this.
 
 A list of example Travis builds and tests for various languages/frameworks is available [here](https://github.com/softwaresaved/build_and_test_examples).
 
