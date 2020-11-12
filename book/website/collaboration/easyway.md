@@ -1,10 +1,13 @@
-# The easy way with Github
+# Getting started on Github
 
 ## Prerequisites / recommended skill level
 
 | Prerequisite |  Importance  |  Notes  |
 | ---------------- |------------------ | --------- |
 | [Open Research]({ref}`rr-open`) | Helpful | Components are part of the open workflow |
+|                                                                    |
+| Recommended skill level | Beginner   | To help a complete beginner |
+|                                                                    |
 
 ## Summary
 
