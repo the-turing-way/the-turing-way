@@ -1,5 +1,20 @@
 ## Various issues in data visualisation
 
+Data visualisation can be defined as _the visual representation and presentation of data to facilitate understanding_.
+It involves seeing data using _marks_ (for example, shapes) and _attributes_
+ such as size, position, and colours.
+ 
+The understanding process involves three steps:
+- Perceiving (what do I see?)
+- Interpreting (what does it mean for the subject?)
+- Comprehending (what does it mean to me?)
+These three processes are intrinsically uncertain, we cannot be sure that understanding happens for everyone in the way we expect or want it to happen. Therefore, data visualisation can be seen as a game of decisions. To make the best decisions, you need to be familiar with all your options (things you could do) and aware of the things that will influence your choices (things you will do).
+
+Three points of effective and efficient design process:
+- trustworthy: is it reliable?
+- accessible: is it usable?
+- elegant: is it aesthetics?
+ 
 ### choosing the right visual representations for the data and task at hand
 ### Anscombe's quartet
 ### visual analysis as individual/social process
@@ -31,11 +46,13 @@ Importance of effective visual encodings
 
 ### tendency to create a story out of noise!
 
+[The chartmaker territory](https://chartmaker.visualisingdata.com/) provides a valuable resource for deciding what type of chart you shoud use depending on the type of data you are working with and, even more relevantly(?), the relation between data that you want to highlight.
+
+Use of colours and accessibility: [colororacle](www.colororacle.org) is a colour blindness simulator, allowing data scientists to consider colour branding and output restrictions when working on their charts.
+
 ### References
 
 - Perez, C. C. (2019). _Invisible women: Exposing data bias in a world designed for men._ Random House.
 - Segaran, T., & Hammerbacher, J. (2009). _Beautiful data: the stories behind elegant data solutions._ " O'Reilly Media, Inc.".
 - Spiegelhalter, D. (2019). _The art of statistics: learning from data._ Penguin UK.
-
-
 
