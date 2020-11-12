@@ -2,7 +2,8 @@
 # Checklist
 
 > List out the action points you want the readers to take based on the key ideas in your chapter.
-> The action points should be categorised according to your subchapters (the key topics of your chapter), and may have sub-action points if necessary.
+> The action points can be categorised according to your subchapters (the key topics of your chapter), and may have sub-action points if necessary.
+> Alternatively, you can have a single checklist chronologically ordered to guide your readers to understanding or applying the skills discussed in your subchapter in a step-by-step manner.
 > Aim for three action points for each topic, however, you can have more than this threshold.
 
 (sectioninitials-filename-subchapter1)=
