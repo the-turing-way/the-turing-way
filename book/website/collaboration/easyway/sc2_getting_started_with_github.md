@@ -1,4 +1,4 @@
-# Getting started with Github
+# First steps on Github
 
 Here, we provide step-by-step instructions to get started with GitHub.
 
@@ -14,7 +14,7 @@ A repository or repo is the online space where you store all of the documents, d
 
 * To create the new repository, you need to click on the + sign in the top right corner (in the black band at the top of your window) and then click New repository. This will take you to a page that looks like a form.
 * You will see the name of your account and you need to fill in a repository name next to it.
-* Also - leave the box ticked for “public” (so it is open to all) and then tick the box to create a “README file”.
+* Also, leave the box ticked for “public” (so your repository is open to all) and then tick the box to create a “README file”.
 * Then click the green create repository button at the bottom.
 
 This is what you should see now. The diagram below explains what all the buttons, tabs and other things do!
@@ -37,11 +37,15 @@ This file is a Markdown file and you can see this because it has “.md” after
 
 Whatever you write in this file will be shown on the landing (top) page of your project on Github so you need to tell people all about your project.
 
-This is where you start to use the markdown formatting.
+This is where you start to use the Markdown formatting.
 
-You should see a box with README.md in the top left of it and then under that the name of your repo (see the diagram above labelled landing page or README.md file).
+To edit your README.md file:
 
-In the top right of this box is a pencil symbol that you can click to make any changes  to this file.
+* You can click on the pencil symbol in the top right of the central box on your landing page.
+
+**Or**
+
+* Click on the README.md file in the blue box and then click the pencil.
 
 You can now edit it.
 
@@ -60,8 +64,8 @@ name: easyway3_readme_after_edit
 ```
 
 * Keep it simple! When you’re working in any field, whether it’s software engineering or astrophysics, you’ll learn and use jargon – terms that have a special meaning to your field but likely won’t make sense to anyone who isn’t part of that field. Too much jargon can confuse newcomers, so use simple language and define all potentially confusing terms here.
-* Share your project with others.
-* Tell people how you can be contacted.
+* Share your project with others - describe what you are doing now and what you want to do in the future.
+* Tell people who you are and how you can be contacted.
 
 **NOTE: If you’re having trouble getting started, it’s a good idea to look at other peoples README.md files.**
 
@@ -96,16 +100,16 @@ This means that the licenses offered on Github won’t really be the right kind 
 
 [Creative commons](https://creativecommons.org/licenses/) licenses are the best to use for this purpose and the most open of these is the CC BY 4.0.
 
-* To add a license to your repository, the first thing to do is create a LICENSE.md file.*
+To add a license to your repository, the first thing to do is create a LICENSE.md file:
 
 * To do this, click on the Add file button, and click create file. This will give you a blank file.
-* First, you need to name the file, so call it LICENSE.md. This makes it into a markdown file.
+* Then, you need to name the file, so call it LICENSE.md. This makes it into a markdown file.
 * You can find all the creative commons licenses in the link above so copy the text of the license you want and then paste it into this file.
-* Don’t forget to press the green commit new file button at the bottom and label what you have done to describe the commit.
+* Don’t forget to press the green commit new file button at the bottom and write a commit message to describe what you have done.
 * You can also add the license to the bottom of your README.md file. Here is a link to a repo that you can copy to add in a [CC BY 4.0 license](https://github.com/santisoler/cc-licenses).
 It has a text file for your LICENSE.md file and also a shield that you can put at the bottom of your README.md file.
 
-You can find information about licenses in the [Licensing](../licensing) chapter of The Turing Way.
+You can find more information about licenses in the [Licensing](../licensing) chapter of The Turing Way.
 
 ```{figure} ../../figures/easyway4_edited_readme.jpg
 ---
