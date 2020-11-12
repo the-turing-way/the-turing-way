@@ -14,7 +14,7 @@ Write the name in this format - ‘folder-name/file-name’.
 * Save your changes using the commit button and remember to type a commit message to help you remember what changes you made.
 
 This file will appear in the folder that you named. 
-You will be able to see the folder on your landing page and if you click on the blue folder symbol, it brings you to the files within that folder.
+You will be able to see the folder on your landing page. If you click on the blue folder symbol, it brings you to the files within that folder.
  
 ## Explore the ‘Insight’ features of Github
 
@@ -24,8 +24,8 @@ You will be able to see the folder on your landing page and if you click on the 
 * Here you will find other file recommendations that you can add in your repo.
 These files are useful when working with collaborators or members in your community.
 Specifically, look at ‘contributing’ and ‘description’.
-* Whenever possible, add a few lines as ‘code of conduct’ to make your project welcoming and inclusive for others
-Other interesting things to look at are “Contributors” (those who contribute to your project), “Traffic” (who and when visits your project page), and “Commits” (a timeline and number of commits made on your project).
+* Whenever possible, add a few lines as ‘code of conduct’ to make your project welcoming and inclusive for others.
+* Other interesting things to look at are “Contributors” (those who contribute to your project), “Traffic” (who and when visits your project page), and “Commits” (a timeline and number of commits made on your project).
  
 ## Explore ‘Projects’ features of Github
 Project boards on GitHub help you organize and prioritize your work.
