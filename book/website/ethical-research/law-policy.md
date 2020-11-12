@@ -50,7 +50,7 @@ The aim of data protection laws is to protect the privacy of individuals when co
 
 Data protection laws need to be updated frequently in order to make sure they cover all the ways that different actors are using new forms of technology to collect and use data in new ways. 
 Because data protection laws sit at the limits of what companies - especially big tech giants - are able to do, the process of making, updating and enforcing data protection laws has become increasingly newsworthy.
-New pieces of legislation such as the General Data Protection Regulation (GDPR) in the EU have attracted a lot of attention.
+New pieces of legislation such as the General Data Protection Regulation ([GDPR](https://gdpr-info.eu/)) in the EU have attracted a lot of attention.
 
 Many countries have a national data protection authority, which is tasked with protecting data.
 They often produce guidance on how to comply with data protection laws. 
