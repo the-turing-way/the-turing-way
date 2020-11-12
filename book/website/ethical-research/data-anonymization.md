@@ -87,9 +87,9 @@ There are many data privacy related terms that occur in close relation to anonym
 ## Bibliography
 > Credit/urls for any materials that form part of the chapter's text.
 
-[1] https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-23.pdf [Appendix]
-[2] https://dataprivacylab.org/projects/identifiability/paper1.pdf
-[3] https://iapp.org/media/pdf/resource_center/Guide_to_Anonymisation.pdf
-[4] https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-12-66
-[5] https://www.oreilly.com/radar/podcast/how-privacy-preserving-techniques-can-lead-to-more-robust-machine-learning-models/
+[1] https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-23.pdf [Appendix]\
+[2] https://dataprivacylab.org/projects/identifiability/paper1.pdf \
+[3] https://iapp.org/media/pdf/resource_center/Guide_to_Anonymisation.pdf \
+[4] https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-12-66 \
+[5] https://www.oreilly.com/radar/podcast/how-privacy-preserving-techniques-can-lead-to-more-robust-machine-learning-models/ \
   
