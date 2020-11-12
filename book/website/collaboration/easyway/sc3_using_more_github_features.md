@@ -35,7 +35,6 @@ This is what a repository looks like when it is set up as a collaborative projec
 
 ```{figure} ../../figures/easyway5_project.jpg
 ---
-height: 500px
 name: easyway5_project
 ---
 ```
