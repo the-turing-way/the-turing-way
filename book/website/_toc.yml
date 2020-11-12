@@ -233,8 +233,8 @@
     sections:
     - title: Why learn how to use GitHub?
       file: collaboration/easyway/sc1_why_learn_how
-    - title: Getting started with Github
-      file: collaboration/easyway/sc2_getting_started_with_github
+    - title: First steps in Github
+      file: collaboration/easyway/sc2_first_steps_on_github
     - title: Using more Github features
       file: collaboration/easyway/sc3_using_more_github_features
     - title: Advanced Github features
