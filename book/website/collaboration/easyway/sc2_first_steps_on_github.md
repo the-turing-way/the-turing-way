@@ -21,7 +21,6 @@ This is what you should see now. The diagram below explains what all the buttons
 
 ```{figure} ../../figures/easyway1_basic_diagram.jpg
 ---
-height: 500px
 name: easyway1_basic_diagram
 ---
 ```
@@ -49,16 +48,14 @@ To edit your README.md file:
 
 You can now edit it.
 
-```{figure} ../../figures/easy2_readme_before_edit.jpg
+```{figure} ../../figures/easyway2_readme_before_edit.jpg
 ---
-height: 500px
 name: easyway2_readme_before_edit
 ---
 ```
 
 ```{figure} ../../figures/easyway3_readme_after_edit.jpg
 ---
-height: 500px
 name: easyway3_readme_after_edit
 ---
 ```
@@ -113,7 +110,6 @@ You can find more information about licenses in the {ref}`licensing<rr-licensing
 
 ```{figure} ../../figures/easyway4_edited_readme.jpg
 ---
-height: 500px
 name: easyway4_edited_readme
 ---
 ```
