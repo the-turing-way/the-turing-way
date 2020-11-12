@@ -64,22 +64,20 @@ Combinations of these techniques and more can be used in accordance to the speci
 
 ## Reidentification Risks
 
-In 2007, Netflix released anonymized user ratings of movies for almost 500K users. However, some Texas researchers were able to reidentify users by using the Internet Movie Database as a base source[6]. This highlights the importance of considering the potential re-identification risks when releasing anonymous data. There are three key types of reidentification risks that the researcher has to account for when anonymizing their data. 
-* **Identity Disclosure**: takes place when an individual can be re-identified from their record with a high confidence due to either insufficient anonymization, identification through linking with other databases and so on.
-* **Attribute Disclosure**: happens when an intruder is able to ascertain that an entry in a database belongs to a specific user with a great degree of certainty. Having outliers in the database increases this possibility. 
-* **Inference Disclosure**: when an inference can be made about an individual with a high level of confidence irrespective of whether or not they belong to the dataset. Demographical statistics like 82% of millenials use this social media would help make inferences about people who weren't polled as well.
+In 2007, Netflix released anonymized movie ratings of almost 500K users. Despite the non-availability of usernames, some Texas researchers were able to reidentify users by using the Internet Movie Database as a base source[6]. This highlights the importance of considering the potential re-identification risks before releasing insufficiently anonymized data. There are three key types of reidentification risks that the researcher has to account for when anonymizing their data. 
+* **Identity Disclosure**: This form of disclosure takes place when an individual is re-identified from their record with a high confidence due to either insufficient anonymization or identification through linking with external databases among other methods.
+* **Attribute Disclosure**: Attribute Disclosure takes place when an intruder is able to ascertain that an entry in a database belongs to a specific user with a great degree of certainty. Having outliers in the database increases the possibility of this form of disclosure. 
+* **Inference Disclosure**: Inference Disclosure occurs when an inference can be made about an individual with a high level of confidence irrespective of whether or not they belong to the dataset. Demographical statistics like 82% of millenials use this social media would help make inferences about people who weren't polled as well.
 
 In addition to considering the variety of disclosure risks, it is also important to consider the variety of motivations and competencies a hypothetical intruder might possess. The attackers can be generalized into three main types [7]:
 * **Prosecutor**: here, the intruder is interested in finding a specific person in a specific database. Risks pertaining to this intruder can be measured by determining the uniqueness of quasi-identifiers in a database. 
 * **Journalist**: While they still want to re-identify individuals, this type of attacker doesn't usually focus on which records are re-identified. As this intruder depends on other pre-existing public databases (like voter registration lists) to re-identify individuals, the statistical risk analysis for this type of intruders will rely heavily on the nature of public databases available.
 * **Marketer**: this type of intruder wants to maximise the number of individuals that they intend to reidentify at the cost of mis-identifying some of the records. They too, try to map the de-identified data with available databases.
 
-> add more about privacy models/measurement paradigms like k-anonymity -irenekp
+> add more about privacy models/measurement paradigms like k-anonymity? -irenekp
 
 ### When to evaluate re-identification risks?
 Further, re-identification risk evaluation is not intended to be a one-time process that takes place at the time of release of data. Before releasing the data, the researcher has to account for the possibility of technological advancements in the future being able to re-identify data that seems entirely anonymous in the current technological landscape. Further, the researcher must periodically test and re-evaluate the identifiability of their data over time with consideration to the newly available tools and methods.
-
-
 
 
 ## Common Misconceptions
@@ -90,6 +88,13 @@ There are many data privacy related terms that occur in close relation to anonym
   * Storing unedited source data after anonymization invalidates the anonymization process and results in the new data being pseudoanonymized data instead which does not meet the same legal requirements.
   ### Does Anonymization render data useless for analytics?
   Anonymizing data doesn't necessarily destroy the quality of the data or make it ineligible for data analytics purposes. Depending on the technique used and the level of data required, it is possible to retain key relationships and statistical properties required for analytics. This requires the researcher to pick their anonymization techniques with greater care. In fact, many anonymization techniques provide a generalized trend instead of individual data, if the loss of an individual's data makes a huge difference to the researcher's machine learning/data science models, there is a possibility that the model was overfit initially[5]. In general for statistical uses,the researcher should be careful if they are picking preturbative data anonymization techniques that add noise to, and change the distribution characteristics of the data.
+  
+## Anonymization Tools
+There are several open source tools that aid the process of anonymizing data. 
+* [Cornell's Anonymization Toolkit](https://sourceforge.net/projects/anony-toolkit/)
+* [sdcMicro: Statistical Disclosure Control Methods for Anonymization of Data and Risk Estimation](https://cran.r-project.org/web/packages/sdcMicro/) - an R library
+* [IQDA Qualitative Data Anonymizer](https://sourceforge.net/projects/datatool/)
+* [Amnesia](https://amnesia.openaire.eu/) by Openaire
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
