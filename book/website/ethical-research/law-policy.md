@@ -75,10 +75,7 @@ Privacy is also a human right (see below).
 Intellectual property refers to creations that have been made by humans. 
 These can include literary and artistic works, as well as inventions.
 They can also include scientific works and discoveries.
-
 Intellectual property rights aim to protect the interests of the creators of these works.
-
-Intellectual property laws aim to balance 
 
 These can include: 
 - copyright: covers creative works, and gives the owner the right to make copies.
