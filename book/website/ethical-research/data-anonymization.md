@@ -74,7 +74,10 @@ In addition to considering the variety of disclosure risks, it is also important
 > not sure where this subheading fits(?) -irenekp
 ### Privacy Models 
 Evaluation of reidentification risks is a non-trivial problem and today, is mainly done through qualitative methods that focus on the characteristics of the source data like sampling size. However, there exists a class of privacy models that act both as techniques of anonymization as well as measures for the risk levels of the data. These mainly focus on expressing the uniqueness of a record in a database as most risk evaluations today are focused on determining record uniqueness [8]. This privacy class includes, among others:
-* **k-anonymity**: A measure that expresses 
+* **k-anonymity**: Released data is said to have k-anonymity when an individual cannot be distinguished from k-1 others who have similar properties.
+* **ℓ-diversity**: Is an extention of k-anonymity that protects data against attribute disclosure by ensuring that each sensitive attribute has at least ℓ "well represented" values in each equivalence class. 
+* **t-closeness**: As an extension of ℓ-diversity, this privacy model prevents attribute disclosure by treating the values of an attribute distinctly by taking into account the distribution of data values for that attribute.
+There are a variety of similar measures that extend these privacy models by focusing on obscuring different statistical properties that could otherwise act as loopholes by facilitating re-identification. 
 
 ### When to evaluate re-identification risks?
 Evaluation of re-identification risks is not intended to be a one-time process that takes place at the time of release of data. Before releasing the data, the researcher has to account for the possibility of technological advancements in the future being able to re-identify data that seems entirely anonymous in the current technological landscape. Further, the researcher must periodically test and re-evaluate the identifiability of their data over time with consideration to the newly available tools and methods.
@@ -104,10 +107,11 @@ There are several open source tools that aid the process of anonymizing data.
 
 ## Further reading
 > I don't fully understand licenses (?) so not sure which of my references are ineligible -irenekp
+
 [The Anonymization Code by the Information Commissioner's Office, UK](https://ico.org.uk/media/1061/anonymisation-code.pdf) \
 [Privacy and data anonymization from a data scientist’s point of view](https://blog.concurlabs.com/privacy-and-data-anonymization-from-a-data-scientists-point-of-view-956226888d6b)\
 [Evaluation of Re-identification Risk for Anonymized Clinical Documents](https://www.phusewiki.org/docs/Conference%202017%20RG%20Papers/RG02.pdf) \
-[Protecting Privacy when Disclosing Information: k-Anonymity and Its Enforcement through Generalization and Suppression](https://epic.org/privacy/reidentification/Samarati_Sweeney_paper.pdf) \
+[Protecting Privacy when Disclosing Information: k-Anonymity and Its Enforcement through Generalization and Suppression](https://epic.org/privacy/reidentification/Samarati_Sweeney_paper.pdf) 
 
 
 ## Definitions/glossary
