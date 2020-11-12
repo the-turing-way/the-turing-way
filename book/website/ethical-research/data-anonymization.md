@@ -25,6 +25,7 @@ In order to facilitate Open Research, the researcher needs to have the ability t
   * The General Data Protection Regulation (GDPR), in the European Union
   * A collection of state and federal laws like Health Insurance Portability and Accountability Act (HIPAA) and California Consumer Privacy Act (CCPA), in the United States,
   * The Personal Data Protection Act, in Singapore, \
+  
 Further, the willingness of volunteers to provide data for research appears dependent on their trust in the researcher as well as on an early de-identification process [4]. Retaining volunteer trust and protecting their privacy makes for a healthy and sustainable data science process. Since some of these techniques might be as easy as not collecting/deleting unimportant, sensitive data, a preliminary data anonymization process seems too easy to not do. 
 
 ## Considerations When Anonymizing Data
