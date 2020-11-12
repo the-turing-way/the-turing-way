@@ -65,8 +65,8 @@ Importance of effective visual encodings
 ## UK data service!
 
 ### References
-
-- Lankow, J., Ritchie, J., & Crooks, R. (2012). Infographics: The power of visual storytelling. John Wiley & Sons.
+- Kirk, A. (2016). _Data visualisation: A handbook for data driven design._ Sage.
+- Lankow, J., Ritchie, J., & Crooks, R. (2012). _Infographics: The power of visual storytelling._ John Wiley & Sons.
 - Perez, C. C. (2019). _Invisible women: Exposing data bias in a world designed for men._ Random House.
 - Segaran, T., & Hammerbacher, J. (2009). _Beautiful data: the stories behind elegant data solutions._ " O'Reilly Media, Inc.".
 - Spiegelhalter, D. (2019). _The art of statistics: learning from data._ Penguin UK.
