@@ -1,3 +1,4 @@
+
 # Data Anonymization
 
 ## Prerequisites / recommended skill level
@@ -26,36 +27,37 @@ In order to facilitate Open Research, the researcher needs to have the ability t
   * The Personal Data Protection Act, in Singapore, \
 Further, the willingness of volunteers to provide data for research appears dependent on their trust in the researcher as well as on an early de-identification process [4]. Retaining volunteer trust and protecting their privacy makes for a healthy and sustainable data science process. Since some of these techniques might be as easy as not collecting/deleting unimportant, sensitive data, a preliminary data anonymization process seems too easy to not do. 
 
-## Understanding Your Data
+## Considerations When Anonymizing Data
 Determinations regarding the need for anonymization as well as choice of the most effective anonymization techniques that can be applied both depend intimately on the kind of data the researcher possesses.
-
+### Understanding Your Data
 In terms of need for anonymization, a specific attribute of the dataset may fall under any of the following umbrellas:
 * **Personally Identifiable Information (PII)**[1]: data of this nature can be used independently or in conjunction with other data to distinguish or identify the individual. 
-  * **Direct Identifiers**: are able to unambiguously trace back to the individual independently. This includes information like Social Security Number or passport number and must be treated with the highest care and preferably removed if not strongly encrypted.
+  * **Direct Identifiers**: are able to unambiguously trace back to the individual independently. This includes information like Social Security Number or passport number and must be treated with the highest care and preferably removed if not strongly encrypted or necessary.
   * **Quasi-Identifiers**: while data of this nature may not uniquely identify the source by themselves, in combination with other quasi-identifiers, it may result in a unique identifier. For example, it was proven in 2000, that 87% of Americans could be found simply with the help of their Date of Birth, Gender and Postal Code[2]. Determining what is a quasi-identifier is non-trivial and care must be taken in anonymising these unassuming attributes as well.
-* **Confidential Attributes**: Include information like salaries and health conditions, these are sometimes the focus of the dataset and often important for analytics. Microdata protection techniques are often applied here to prevent access to this data on an individual level.
-* **Non confidential Attributes**: is data that doesn't belong to any of the above groups and as such can be spared from the more rigorous anonymization techniques.
+* **Confidential Attributes**: Include information like salaries and health conditions, these are sometimes the focus of the dataset and often important for analytics. Microdata protection techniques, that hide the individual data while preserving the statistical properties of the database, are often applied to protect these attributes.
+* **Non Confidential Attributes**: this constitutes data that doesn't belong to any of the above groups and as such can be spared from the more rigorous anonymization techniques.
 
-The application of anonymization techniques will also vary depending on whether the target data is static or streaming[3]. Static data is data that is entirely available before the anonymization process while streaming data continuously provides new data. Further, the choice of anonymization techniques may vary depending on the whether the data is textual or a different form of multimedia.
+The application of anonymization techniques will also vary depending on whether the target data is static or streaming[3]. Static data is data that is entirely available before the anonymization process while streaming data continuously provides new data with time, an example for this would be website user analytics data. In case of streaming data, relationships are not fully established as new data keeps streaming, hence it requires special considerations when anonymizing. Further, the choice of anonymization techniques may vary depending on the whether the data is textual or a different form of multimedia as the needs of the different forms vary widely. While textual data may require deletion or replacement of words, video data might require blurring whereas audio data may require bleeping and so on.
 
 > Not sure if this below section is necessary -irenekp
 
-## Existing Techniques
-There exist a variety of anonymization techniques that vary in the level of data loss they cause and also vary in terms of the amount of statistical and relationship data that they preserve. The following section provides a quick overview of a variety of anonymization techniques:
+There exist a variety of anonymization techniques that vary in the level of data loss they cause and also vary in terms of the amount of statistical and relationship data that they preserve.
+### Existing Techniques
+
+This section provides a quick overview of a variety of anonymization techniques. Combinations of these anonymization techniques can be used in accordance to the specific needs of a dataset and its expected utility.
 
 * **Attribute/Record Suppression**: involves deleting an entire column/row of sensitive data that cannot be anonymized.
 * **Character Masking**: replacing actual text with a constant symbol (like x, * and so on) , care should be taken to see whether length of the replaced data is also sensitive and should be hidden.
-* **Generalization**: Decrease the granularity of the data. For example, make the pin code less specific, zoom out in terms of geographical location, convert birthdays to ages, ages to age ranges and so on. 
+* **Generalization**: Decrease the granularity of the data. For example, make the postal code less specific, zoom out in terms of geographical location, convert birthdays to ages, ages to age ranges and so on. 
 * **Aggregation**: Decrease granularity of the data by converting the listed records into summative statistical measures like average, sum and so on.
 * **Query systems**: provide access to the data only through a set of specialized queries that can obtain statistical information about the data but not any individual level data.
 * **Data Perturbation**: involves adding noise to the data to prevent identification. If not done taking into consideration the probability distribution, it affects data accuracy adversely.
-* **Swapping**: involves rearranging the data such that all individual values are still reflected in the final dataset. It can be used when analysis is on an intra-attribute and doesn’t depend on record level attribute relationships.
+* **Swapping**: involves rearranging the data across records such that all individual values are still reflected in the final dataset. This method can be used when analysis is on an intra-attribute level and doesn’t depend on record level attribute relationships.
 
-Combinations of these techniques and more can be used in accordance to the specific needs of a dataset and its expected utility.
 
 ## Reidentification Risks
 
-In 2007, Netflix released anonymized movie ratings of almost 500K users. Despite the non-availability of usernames, some Texas researchers were able to reidentify users by using the Internet Movie Database as a base source[6]. This highlights the importance of considering the potential re-identification risks before releasing insufficiently anonymized data. There are three key types of reidentification risks that the researcher has to account for when anonymizing their data. 
+In 2007, Netflix released anonymized movie ratings of almost 500K users. Despite the non-availability of usernames, some University of Texas researchers were able to reidentify users by using the Internet Movie Database as a base source[6]. This highlights the importance of considering the potential re-identification risks before releasing insufficiently anonymized data. There are three key types of reidentification risks that the researcher has to account for when anonymizing their data. 
 * **Identity Disclosure**: This form of disclosure takes place when an individual is re-identified with a high degree of confidence due to either insufficient anonymization or identification through linking with external databases among other methods.
 * **Attribute Disclosure**: Attribute Disclosure takes place when an intruder is able to ascertain that an attribute in a database belongs to a specific user with a great degree of certainty. Having outliers in the database increases the possibility of this form of disclosure. 
 * **Inference Disclosure**: Inference Disclosure occurs when an inference can be made about an individual with a high level of confidence irrespective of whether or not they belong to the dataset. Demographical statistics like 82% of millennials use this social media would help make inferences about people who weren't polled as well.
@@ -67,22 +69,21 @@ In addition to considering the variety of disclosure risks, it is also important
 
 > not sure where this subheading fits(?), also not sure if this section is necessary for the book(?) -irenekp
 ### Privacy Models 
-Evaluation of reidentification risks is a non-trivial problem and today, is mainly done through qualitative methods that focus on the characteristics of the source data like sampling size. However, there exists a class of privacy models that act both as techniques of anonymization as well as measures for the risk levels of the data. These mainly focus on expressing the uniqueness of a record in a database as most risk evaluations today are focused on determining record uniqueness [8]. This privacy class includes, among others:
+Measurement of reidentification risks is a non-trivial problem, however, there exists a class of helpful privacy models that act both as techniques of anonymization as well as measures for the risk levels of the data. These mainly focus on expressing the uniqueness of a record in a database as most risk evaluations today are focused on determining record uniqueness [8]. This privacy class includes, among others:
 * **k-anonymity**: Released data is said to have k-anonymity when an individual cannot be distinguished from k-1 others who have similar properties.
-* **ℓ-diversity**: Is an extention of k-anonymity that protects data against attribute disclosure by ensuring that each sensitive attribute has at least ℓ "well represented" values in each equivalence class. 
+* **ℓ-diversity**: Is an extension of k-anonymity that protects data against attribute disclosure by ensuring that each sensitive attribute has at least ℓ "well represented" values in each equivalence class. 
 * **t-closeness**: As an extension of ℓ-diversity, this privacy model prevents attribute disclosure by treating the values of an attribute distinctly by taking into account the distribution of data values for that attribute.
 There are a variety of similar measures that extend these privacy models by focusing on obscuring different statistical properties that could otherwise act as loopholes by facilitating re-identification. 
 
 ### When to evaluate re-identification risks?
-Evaluation of re-identification risks is not intended to be a one-time process that takes place at the time of release of data. Before releasing the data, the researcher has to account for the possibility of technological advancements in the future being able to re-identify data that seems entirely anonymous in the current technological landscape. Further, the researcher must periodically test and re-evaluate the identifiability of their data over time with consideration to the newly available tools and methods.
-
+When releasing anonymized data, while it may appear that none of the current day tools might be able to re-identify it, the researcher should account for technological advancements in the future. Evaluation of re-identification risks is not intended to be a one-time process that takes place at the time of release of data. The researcher should periodically test and re-evaluate the identifiability of their data over time with consideration to the newly available tools and methods.
 
 ## Common Misconceptions
-There are many data privacy related terms that occur in close relation to anonymization in common use. These however, are often not part of anonymization techniques and might not have similar goals. Hence it is important to distinguish them from data anonymization. 
+There are many data-privacy related terms that are often used interchangeably in ordinary language. Below, some of these concepts are introduced for the purpose of clarifying how they are differ from traditional data anonymization.
+  * Synthetic Data: is fake information that is artificially generated to closely resemble the original data.
   > (ambiguous: wikipedia calls it a subset of anonymized data) - irenekp
-  * Synthetic Data: is fake information that is artificially generated too closely resemble the original data. 
-  * Pseudonymization: here, PII fields are replaced by an unrelated and randomized reference number. However, if there exists a database that maps the PII with the reference number, the process becomes reversible and identifiable.
-  * Storing unedited source data after anonymization invalidates the anonymization process and results in the new data being pseudo-anonymized data instead which does not meet the same legal requirements.
+  * Pseudonymization: here, Personally Identifiable fields are replaced by an unrelated and randomized reference number. However, if there exists a database that maps the Personally Identifiable fields with the reference number, the process becomes reversible and identifiable.
+  * Storing unedited source data after anonymization invalidates the anonymization process and results in the new data being pseudo-anonymized data instead, which does not meet the same legal requirements.
   ### Does Anonymization render data useless for analytics?
   Anonymizing data doesn't necessarily destroy the quality of the data or make it ineligible for data analytics purposes. Depending on the technique used and the level of data required, it is possible to retain key relationships and statistical properties required for analytics. This requires the researcher to pick their anonymization techniques with greater care. In fact, many anonymization techniques provide a generalized trend instead of individual data, if the loss of an individual's data makes a huge difference to the researcher's machine learning/data science models, there is a possibility that the model was overfit initially[5]. In general for statistical uses, the researcher should be careful if they are picking perturbative data anonymization techniques that add noise to, and change the distribution characteristics of the data.
 
@@ -106,6 +107,7 @@ There are several open source tools that aid the process of anonymizing data.
 [The Anonymization Code by the Information Commissioner's Office, UK](https://ico.org.uk/media/1061/anonymisation-code.pdf) \
 [Privacy and data anonymization from a data scientist’s point of view](https://blog.concurlabs.com/privacy-and-data-anonymization-from-a-data-scientists-point-of-view-956226888d6b)\
 [Evaluation of Re-identification Risk for Anonymized Clinical Documents](https://www.phusewiki.org/docs/Conference%202017%20RG%20Papers/RG02.pdf) \
+[Privacy models](https://arx.deidentifier.org/overview/privacy-criteria/)\
 [Protecting Privacy when Disclosing Information: k-Anonymity and Its Enforcement through Generalization and Suppression](https://epic.org/privacy/reidentification/Samarati_Sweeney_paper.pdf) 
 
 
