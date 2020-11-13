@@ -47,7 +47,7 @@ Recommended structure for chapters in The Turing Way.
 - **Landing page:** The chapter's landing page should include information about any prerequisites required to understand the chapter, a summary of the chapter's content, and an explanation of why the chapter is useful.
 - **Subchapters:** A chapter can contain any number of subchapters or none at all. However, please note the next requirement about the checklist and resources subchapters.
 - **Checklist subchapter:** The checklist subchapter itemizes action points for the reader to take based on the concepts introduced in the chapter.
-The resources subchapter, on the other hand, points the reader to other sources where they can learn more about the concepts discussed in the chapter and what other related topics to explore.
+- **Resources subchapter:** The resources subchapter points the reader to other sources where they can learn more about the concepts discussed in the chapter, as well as related topics to explore.
 
 ```{attention} Please note that making chapters follow this structure may require splitting some of the existing content into new files.
 References to these files should be updated in the table of contents in the `_toc.yml` file.
