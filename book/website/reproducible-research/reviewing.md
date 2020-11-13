@@ -1,16 +1,18 @@
 (rr-reviewing)=
 # Code Reviewing Process
 
+(rr-reviewing-prerequisites)=
 ## Prerequisites
 
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
-| [Version control](/version-control) | Necessary | Understanding the way that [Github](https://github.com) arranges its branches, forks, and pull requests within repositories is needed. |
+| {ref}`Version Control<rr-vcs>` | Necessary | Understanding the way that [Github](https://github.com) arranges its branches, forks, and pull requests within repositories is needed. |
 
+(rr-reviewing-summary)=
 ## Summary
 
 Code review provides an additional way of testing code quality.
-Instead of relying simply on [tests](/testing/testing) which the original author puts together themselves, code review gets another programmer to look over the new code and assess it. 
+Instead of relying simply on {ref}`tests<rr-testing>` which the original author puts together themselves, code review gets another programmer to look over the new code and assess it. 
 The goal is to point out strengths and also potential areas of improvement.
 
 Code review is often done in pairs, with each reviewer also having some of their code reviewed by their partner.
