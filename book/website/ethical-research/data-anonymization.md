@@ -36,7 +36,7 @@ Examples of such legislation are:
   * A collection of state and federal laws like Health Insurance Portability and Accountability Act (HIPAA) and California Consumer Privacy Act (CCPA), in the United States,
   * The Personal Data Protection Act, in Singapore,
   
-Further, the willingness of volunteers to provide data for research appears dependent on their trust in the researcher as well as on an early de-identification process {cite}`dankar2012reidentify` [4]. 
+Further, the willingness of volunteers to provide data for research appears dependent on their trust in the researcher as well as on an early de-identification process {cite}`dankar2012reidentify`. 
 Retaining volunteer trust and protecting their privacy makes for a healthy and sustainable data science process. 
 Since some of these techniques might be as easy as not collecting/deleting unimportant, sensitive data, a preliminary data anonymization process seems too easy to not do. 
 
@@ -44,17 +44,17 @@ Since some of these techniques might be as easy as not collecting/deleting unimp
 Determinations regarding the need for anonymization as well as choice of the most effective anonymization techniques that can be applied both depend intimately on the kind of data the researcher possesses.
 ### Understanding Your Data
 In terms of need for anonymization, a specific attribute of the dataset may fall under any of the following umbrellas:
-* **Personally Identifiable Information (PII)** {cite}`Orzag2010DataAnon`[1]: data of this nature can be used independently or in conjunction with other data to distinguish or identify the individual. 
+* **Personally Identifiable Information (PII)** {cite}`Orzag2010DataAnon`: data of this nature can be used independently or in conjunction with other data to distinguish or identify the individual. 
   * **Direct Identifiers**: are able to unambiguously trace back to the individual independently. 
   This includes information like Social Security Number or passport number and must be treated with the highest care and preferably removed if not necessary or at the very least they must be strongly encrypted.
   * **Quasi-Identifiers**: while data of this nature may not uniquely identify the source by themselves, in combination with other quasi-identifiers, it may result in a unique identifier. 
-  For example, it was proven in 2000, that 87% of Americans could be found simply with the help of their Date of Birth, Gender and Postal Code {cite}`sweeney2000identify`[2]. 
+  For example, it was proven in 2000, that 87% of Americans could be found simply with the help of their Date of Birth, Gender and Postal Code {cite}`sweeney2000identify`. 
   Determining what is a quasi-identifier is non-trivial and care must be taken in anonymising these unassuming attributes as well.
 * **Confidential Attributes**: Include information like salaries and health conditions, these are sometimes the focus of the dataset and often important for analytics. 
 Microdata protection techniques, that hide the individual data while preserving the statistical properties of the database, are often applied to protect these attributes.
 * **Non Confidential Attributes**: this constitutes data that doesn't belong to any of the above groups and as such can be spared from the more rigorous anonymization techniques.
 
-The application of anonymization techniques will also vary depending on whether the target data is static or streaming {cite}`PDPC2018Anonymization`[3]. 
+The application of anonymization techniques will also vary depending on whether the target data is static or streaming {cite}`PDPC2018Anonymization`. 
 Static data is data that is entirely available before the anonymization process while streaming continuously provides new data with time. 
 An example for streaming data would be website user analytics data. 
 In case of streaming data, relationships are not fully established as new data keeps streaming, hence it requires special considerations when anonymizing. 
@@ -81,7 +81,7 @@ This method can be used when analysis is on an intra-attribute level and doesn�
 ## Reidentification Risks
 
 In 2007, Netflix released anonymized movie ratings of almost 500K users. 
-Despite the non-availability of usernames, some University of Texas researchers were able to reidentify users by using the Internet Movie Database as a base source {cite}`narayanan2006break` [6]. 
+Despite the non-availability of usernames, some University of Texas researchers were able to reidentify users by using the Internet Movie Database as a base source {cite}`narayanan2006break`. 
 This highlights the importance of considering the potential re-identification risks before releasing insufficiently anonymized data. 
 There are three key types of reidentification risks that the researcher has to account for when anonymizing their data. 
 * **Identity Disclosure**: This form of disclosure takes place when an individual is re-identified with a high degree of confidence due to either insufficient anonymization or identification through linking with external databases among other methods.
@@ -91,7 +91,7 @@ Having outliers in the database increases the possibility of this form of disclo
 Demographical statistics like "82% of millennials use this social media" would help make inferences about people who weren't polled as well.
 
 In addition to considering the variety of disclosure risks, it is also important to consider the various motivations and competencies a hypothetical intruder might possess. 
-Potential intruders can be generalized into three main categories {cite}`EHIL2008PrivacyRisks` [7]:
+Potential intruders can be generalized into three main categories {cite}`EHIL2008PrivacyRisks`:
 * **Prosecutor**: here, the intruder is interested in finding a specific person in a specific database. 
 Risks pertaining to this intruder can be measured by determining the uniqueness of quasi-identifiers in a database. 
 * **Journalist**: While they still want to re-identify individuals, this type of attacker doesn't usually focus on which records are re-identified. 
@@ -102,7 +102,7 @@ They too, try to map the de-identified data with available databases.
 <!--not sure where this subheading fits(?), also not sure if this section is necessary for the book(?) -irenekp -->
 ### Privacy Models 
 Measurement of reidentification risks is a non-trivial problem, however, there exists a class of helpful privacy models that act both as techniques of anonymization as well as measures for the risk levels of the data. 
-These mainly focus on expressing the uniqueness of a record in a database as most risk evaluations today are focused on determining record uniqueness {cite}`dankar2012reidentify`[4]. 
+These mainly focus on expressing the uniqueness of a record in a database as most risk evaluations today are focused on determining record uniqueness {cite}`dankar2012reidentify`. 
 This privacy class includes, among others:
 * **k-anonymity**: Released data is said to have k-anonymity when an individual cannot be distinguished from k-1 others who have similar properties.
 * **ℓ-diversity**: Is an extension of k-anonymity that protects data against attribute disclosure by ensuring that each sensitive attribute has at least ℓ "well represented" values in each equivalence class. 
@@ -127,7 +127,7 @@ Below, some of these concepts are introduced for the purpose of clarifying how t
   Anonymizing data doesn't necessarily destroy the quality of the data or make it ineligible for data analytics purposes. 
   Depending on the technique used and the level of data required, it is possible to retain key relationships and statistical properties required for analytics. 
   This requires the researcher to pick their anonymization techniques with greater care. 
-  In fact, many anonymization techniques provide a generalized trend instead of individual data, if the loss of an individual's data makes a huge difference to the researcher's machine learning/data science models, there is a possibility that the model was overfit initially {cite}`Lorica2018AnonymizeML` [5]. 
+  In fact, many anonymization techniques provide a generalized trend instead of individual data, if the loss of an individual's data makes a huge difference to the researcher's machine learning/data science models, there is a possibility that the model was overfit initially {cite}`Lorica2018AnonymizeML`. 
   In general for statistical uses, the researcher should be careful if they are picking perturbative data anonymization techniques that add noise to, and change the distribution characteristics of the data.
 
 <!-- Not sure if this below section is necessary -irenekp -->
