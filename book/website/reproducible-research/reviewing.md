@@ -1,4 +1,7 @@
-# Code reviewing process
+(rr-reviewing)=
+# Code Reviewing Process
+
+## Prerequisites
 
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
@@ -19,5 +22,3 @@ Because of their nature, code reviews act as qualitative - rather than quantitat
 
 This section will provide an overview of rationales, best practices, and some possible workflows for code review.
 Some details refer specifically to GitHub's code review functionality as a powerful and widely-used example of a formal code review system; however, equivalent and very similar systems are available elsewhere (for example, [Gitlab](https://about.gitlab.com)), and even informal code review practices can also be very beneficial to a project.
-
-## Prerequisites <!--"add a level two header to the prerequisites section: i didn't find it so i created it-->
