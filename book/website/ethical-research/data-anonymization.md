@@ -6,8 +6,8 @@ The following sections of the Reproducible Research book will better help unders
 
 | Prerequisite | Importance | 
 | -------------|----------|
-| [Open Research] (/book/website/reproducible-research/open.md)| Helpful |
-| [Research Data Management] (/book/website/reproducible-research/rdm.md) | Helpful |
+| [Open Research](/book/website/reproducible-research/open.md)| Helpful |
+| [Research Data Management](/book/website/reproducible-research/rdm.md) | Helpful |
 ## Summary
 The Data Anonymization chapter intends to provide an overview into the privacy considerations involved in contributing to open data and in extension, open research.
 It outlines some current motivations to anonymize data and aims to delineate a few different terminologies, techniques and tools surrounding the process of anonymizing data today.
