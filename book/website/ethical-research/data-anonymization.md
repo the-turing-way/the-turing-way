@@ -86,7 +86,7 @@ There are many data-privacy related terms that are often used interchangeably in
   <!-- (ambiguous: wikipedia calls it a subset of anonymized data) - irenekp -->
   * Pseudonymization - here, Personally Identifiable fields are replaced by an unrelated and randomized reference number. However, if there exists a database that maps the Personally Identifiable fields with the reference number, the process becomes reversible and identifiable.
   * Storing unedited source data after anonymization invalidates the anonymization process and results in the new data being pseudo-anonymized data instead, which does not meet the same legal requirements.
-  ### Does Anonymization render data useless for analytics?
+### Does Anonymization render data useless for analytics?
   Anonymizing data doesn't necessarily destroy the quality of the data or make it ineligible for data analytics purposes. Depending on the technique used and the level of data required, it is possible to retain key relationships and statistical properties required for analytics. This requires the researcher to pick their anonymization techniques with greater care. In fact, many anonymization techniques provide a generalized trend instead of individual data, if the loss of an individual's data makes a huge difference to the researcher's machine learning/data science models, there is a possibility that the model was overfit initially[5]. In general for statistical uses, the researcher should be careful if they are picking perturbative data anonymization techniques that add noise to, and change the distribution characteristics of the data.
 
 <!-- Not sure if this below section is necessary -irenekp -->
