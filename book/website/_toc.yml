@@ -261,6 +261,8 @@
   sections:
   - title: Ethical Decisions in Preclinical Research
     file: ethical-research/preclinical-research
+  - title: Data Anonymization
+    file: ethical-research/data-anonymization
 
 # ===== Community Handbook Guide ========================================
 
