@@ -26,5 +26,7 @@ jobs:
     - name: Create latest contributors record
       run: |
         ./tests/contributors.sh
-    - name: Add contributors-record.md in Book's Afterword
-      add: "./book/website/contributors-record.md --force"
+    - uses: actions/upload-artifact@v2
+      with:
+        name: Add contributors-record.md to Afterword
+        path: ./book/website/contributors-record.md --force
