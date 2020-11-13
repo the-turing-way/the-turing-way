@@ -32,7 +32,7 @@ One rule of thumb to consider is that if a sentence needs to be read more than o
 
 With contributors from around the world, _The Turing Way_ does not restrict the language used to write chapters.
 This makes it easier for contributors to bring in their perspectives as they write content for _The Turing Way_.
-Rather, the recommendation is that if a chapter is written in one style (for example, British English), then it should stay consistent throughout. 
+Rather, the recommendation is that if a chapter is written in one style (for example, British English), then it should remain consistent throughout. 
 This makes _The Turing Way_ less distracting and easier to read.
 
 (ch-consistency-language-hr-abbreviations)=
