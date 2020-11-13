@@ -5,9 +5,9 @@ echo "============Testing location==========="
 ls -l
 echo "============End Testing location==========="
 
-all_contributors='../../README.md' # Path to the main README file of The Turing Way
-contributors_highlight='../../contributors.md'
-contributors_record='../book/website/afterword/contributors-record.md'
+all_contributors='./README.md' # Path to the main README file of The Turing Way
+contributors_highlight='./contributors.md'
+contributors_record='./book/website/afterword/contributors-record.md'
 
 # Copy everything from the contributors highlight
 echo '(aw-contributors-record-highlights)=' > $contributors_record
