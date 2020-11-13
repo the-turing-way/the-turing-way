@@ -31,7 +31,7 @@ This is not legal advice. Please read for information only!
 
 Laws have been made by humans.
 They reflect the outcomes of negotiations between different people, with different interests and different amounts of power.
-Complying with laws is usually necessary, but rarely sufficient, to ensure that you are acting ethically.
+Complying with laws is usually necessary, but *rarely sufficient*, to ensure that you are acting ethically.
 
 ### Domestic and regional law
 
@@ -41,7 +41,7 @@ You should be aware of the laws that cover you at local, state or regional, nati
 
 You should also be aware what steps you should take to ensure that you are compliant with all relevant laws. 
 This section is not exhaustive!
-It is designed to give you some ideas for the kinds of laws you should be aware of.
+It is designed to give you some idea of the kinds of laws you should be aware of.
 
 #### Data protection law
 
@@ -85,7 +85,7 @@ These can include:
 
 The World Intellectual Property Organisation (the UN agency which oversees intellectual property issues) has produced FAQs on [copyright](https://www.wipo.int/copyright/en/faq_copyright.html), [trademarks](https://www.wipo.int/trademarks/en/), and [patents](https://www.wipo.int/patents/en/faq_patents.html).
 
-The extent to which any intellectual property is protected in law varies by jursidiction, and is often time-limited.
+The extent to which any intellectual property is protected in law varies by jurisdiction, and is often time-limited.
 Enforcement of intellectual property law also varies by jurisdiction. 
 In general, it is the owner of the intellectual property who is responsible for enforcing their rights, for example by suing another person in court. 
 
@@ -94,7 +94,7 @@ In some situations, it will be you personally.
 If you are employed, depending on the terms of your employment, your employer may own the intellectual property you create while you work for them. 
 This may impact what you are able to do with the intellectual property you create, including the terms under which you can license it.
 The relationship between intellectual property law and open source is complicated but it is not necessarily incompatible. 
-<!--- Perhaps spin off a page on how to advocate for open source practices? -->
+<!--- Link to the activism chapter, section on advocating for open practice, when we've written it -->
 
 If you own the intellectual property that you create, you should think carefully about how to license it. 
 If you do not explicitly license your content differently, it generally falls under copyright and technically cannot be remixed without your permission. 
@@ -102,7 +102,7 @@ This can present problems for working openly!
 
 You may use an open license to share code, or content, or both. 
 There are lots of licenses designed especially for sharing broadly, and organizations like Creative Commons and the Free Software Foundation have created tools and resources to facilitate sharing of content, data and code. 
-[choosealicense.com](https://choosealicense.com/) is a useful resource to help you choose how to license your work.
+There is more information in the [Licensing](https://the-turing-way.netlify.app/reproducible-research/licensing.html) chapter.
 
 #### Tort law
 
@@ -118,10 +118,11 @@ You should be aware of all the possible harm that your work could cause, not onl
 
 Contract law is the branch of law which handles how contracts - legal agreements between parties - are enforced.
 You should know the terms of contracts you have signed, and what those terms mean.
+You should also know under which jurisdiction covers the contract you have signed (this should be in the contract). 
 
 Ethical work can also include thinking critically about contracts.
 You should think about what obligations you are signing up for when you sign a contract.
-You should also think about what contractual obligations you are imposing on other people, when you form a contract with them.
+You should also think about what contractual obligations you are imposing on other people when you form a contract with them.
 
 ### How to change laws
 
@@ -130,6 +131,7 @@ The law is made by humans and it can be changed by humans.
 If you feel that the law in your jurisdiction works in a way that is unhelpful or damaging, consider joining efforts to change it!
 Changing laws is a long-term project and can take decades. 
 This section is not intended to explain how to do this: a good place to start is to find a campaigning organisation who is working on the issue, and ask them how to get involved. 
+<!--- edit this to refer to the activism chapter, when we have written it --> 
 
 ## Policy
 
@@ -149,6 +151,7 @@ Because policies are the result of negotiation and agreement, they can be influe
 If you don't think your professional organisation's policies are strong or effective enough, you can lobby for changes as a member of that organisation.
 The process for doing this will depend on the organisation.
 Many companies and organisations have advocacy and lobbying staff who argue for changes in government policy that will benefit their organisation. 
+<!--- link to activism chapter -->
 
 ## Human rights
 
@@ -159,11 +162,11 @@ Human rights and ethics have a close relationship, but they are defined and impl
 _All human beings are born free and equal in dignity and rights_ (Universal Declaration of Human Rights, Article 1.)
 
 Human rights are the rights and freedoms that are inherent to every human being.
-They include rights like the rights to life, to equality before the law, to freedom from discrimination, to education, and to health. 
+They include rights like the rights to life, to equality before the law, to freedom from discrimination, to privacy, to education, and to health. 
 
-Human rights are universal: they apply to every human being, without exception.
-Human rights are inalienable: they cannot be taken away or limited, except under very specific and defined circumstances.
-Human rights are indivisible and interdependent: we cannot have some rights without others.
+Human rights are _universal_: they apply to every human being, without exception.
+Human rights are _inalienable_: they cannot be taken away or limited, except under very specific and defined circumstances.
+Human rights are _indivisible and interdependent_: we cannot have some rights without others.
 
 ### What is human rights law?
 
@@ -174,6 +177,8 @@ These include the obligations to:
 - **protect**: to ensure that individuals and groups do not have their human rights abused or violated;
 - **fulfil**: to take action to make sure that individuals and groups are able to enjoy their human rights.
 
+<!--- add Scriberia human rights illustration here -->
+
 Some human rights law is made at global level, by the United Nations.
 There are nine [core human rights instruments](https://www.ohchr.org/EN/ProfessionalInterest/Pages/CoreInstruments.aspx). 
 They include general instruments on civil and political rights, and on economic, social and cultural rights, as well as instruments that cover specific people, such as children or people with disabilities, or specific topics, such as torture or racial discrimination.
@@ -183,9 +188,10 @@ The treaty body makes recommendations on how the country can continue to improve
 The treaty bodies also periodically issue more detailed guidance on how to interpret different articles of their treaty, to help countries understand better what their obligations.
 
 There are also regional human rights instruments:
-- African Charter on Human and People's Rights, which covers 54 of the 55 members of the African Union.
-- American Convention on Human Rights, which covers 23 of the 35 members of the Organization of American States.
-- European Convention on Human Rights, which covers 47 members of the Council of Europe.
+- [African Charter on Human and People's Rights](https://au.int/en/treaties/african-charter-human-and-peoples-rights), which covers 54 of the 55 members of the [African Union](https://au.int/en/member_states/countryprofiles2).
+- [American Convention on Human Rights](http://cidh.oas.org/Basicos/English/Basic3.American%20Convention.htm), which covers 23 of the 35 members of the [Organization of American States](http://www.oas.org/en/about/member_states.asp).
+- [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list/-/conventions/treaty/005), which covers the 47 members of the [Council of Europe](https://www.coe.int/en/web/about-us/our-member-states).
+- [Charter of Fundamental Rights of the European Union](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012P/TXT), which covers the 27 members of the [European Union](https://europa.eu/european-union/about-eu/countries_en)
 
 Some countries have ratified some of the treaties that apply to them: this means that they have incorporated the content of the the treaties into their national law.
 Many countries also have a national human rights institution, which independently monitors and investigates human rights violations in that country, and advises the government on implementing their obligations. 
@@ -243,7 +249,6 @@ Researchers and data scientists should, in general ensure that they:
 > less relevant/favourite resources in case someone wants to dig into this in detail
 -->
 
-
+<!---
 ## Bibliography
-https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/
-
+-->
