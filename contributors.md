@@ -228,23 +228,35 @@ I would like to be a part of it.
 
 <!---I--->
 
+### Irene K
+
+* GitHub id: [irenekp](http://github.com/irenekp)
+* Short bio:
+> I'm an undergraduate student majoring in Information Science and Engineering. While short, my journey with Data Science and Data Management has been varied and I've loved watching how a single concept can mould into so many different disciplines! I have been able to work with data science as an RA for a couple of projects that focused on different aspects of Social Network Analysis. I've also been able to follow data management and related practices during my internships at a fintech and a telecom company.
+
+* Personal highlights:
+> Turing Way was my first foray into Open Source, and I have found it extremely helpful in learning both about general github and open source practices as well as being part of a moving and collaborative community. I especially loved being part of an extremely multidisciplinary group of people, really shows me the real span of Data Science!
+> The ethics book has been a great source of interest for me as it encompasses many of the issues I both grappled with, debated and deliberated upon extensively during my own data science projects. 
+> During my time working on the Data Anonymization Chapter (Issue: #1578 , Pull Request: #1579 ) I managed to read more extensively about anonymization and I found answers to many of the questions that had previously bothered me.
+> I really hope that the work we've done here to consolidate all these ethical guidelines will help make practicing data science with a strong ethical basis and clear moral conscience more easy and accessible.
+
+* More information:
+> In line with my contributions so far, I am extremely passionate about working on an ethical framework for Data Science, seeing as a lot of it focuses on exposing patterns that could easily be invasive, I really think an ethical approach to it is the only way to keep practising it sustainably in the long term.
+> Science Communication is another one of my key areas of interest, I've been combining it with my love for sustainable practices (be it data science or water resource management) so far to research upon and write articles that I hope would inform and educate more people! I hope to add Data Visualization to this combination soon!
+> I intend to keep working at the crossroads of Data Science and Sci-Comm for the foreseeable future!
 
 ### Ismael Kherroubi Garcia
 
 * Role: Core contributor, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework (2020)
 * GitHub id: [Ismael-KG](https://github.com/Ismael-KG)
 * Short bio:
-> I'm Ethics Research Assistant at the Alan Turing Institute.
-I have a BSc in Business Management and Administration and am currently working towards an MSc in Philosophy of the Social Sciences.
-I am an associate member of the Chartered Institute of Personnel and Development (CIPD).
+> I’m Ethics Research Assistant at the Alan Turing Institute. I have a BSc in Business Management and Administration and am currently working towards an MSc in Philosophy of the Social Sciences. I am also an associate member of the Chartered Institute of Personnel and Development (CIPD).
 
-* Personal highlights:
-> Since my undergraduate degree, I have worked in fintech and then in arts organisations within human resources teams, finally reachint the Alan Turing Institute and helping support the Ethics Advisory Group.
-> I think my highlight is that I've got a great background as a generalist!
-> I am currently really thrilled to be working alongside [Laura Carter](https://github.com/LauraCarter) and [Sophia Batchelor](https://github.com/BrainonSilicon) to build a community around the Guide for Ethical Research!
+*Personal highlights:
+>Since my undergraduate degree, I have worked in fintech and then in arts organisations within human resources teams, finally reaching the Alan Turing Institute and helping support the Ethics Advisory Group since April 2020. I think my highlight is that I’ve got a great background as a generalist! I am currently really thrilled to be working alongside Laura Carter and Sophia Batchelor to build a community around the Guide for Ethical Research! And I am proud to introduce the concept of Steampunk Ethical Research.
 
-* More information:
-> I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there!
+*More information:
+>I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there. 
 
 <!---J--->
 
@@ -264,11 +276,15 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > I'm a PhD candidate in the Human Rights Centre at the University of Essex, UK, researching the human rights implications of the use of data-driven technologies in the UK public sector, focusing on gender stereotyping and gender discrimination. Prior to my PhD, I worked as a human rights researcher for almost a decade, specialising mostly in human rights, sexual orientation and gender identity. I carried out field research in Europe and sub-Saharan Africa covering topics including homophobic and transphobic hate crimes, criminalisation of homosexuality and of sex work, legal gender recognition for trans people, and health rights for intersex people.
 
 * Personal highlights:
-> I'm really enjoying learning more about Open Science practices and communities! I'm excited to be part of an [OLS-2](https://openlifesci.org/) mentee cohort alongside [Ismael Kherroubi Garcia](https://github.com/Ismael-KG) and [Sophia Batchelor](https://github.com/BrainonSilicon), working on the _Guide to Ethical Research_: if you're interested in building a community of thoughtful, reflective, ethical data scientists, please come and join us!
+> I'm excited to be part of an [OLS-2](https://openlifesci.org/) mentee cohort alongside [Ismael Kherroubi Garcia](https://github.com/Ismael-KG) and [Sophia Batchelor](https://github.com/BrainonSilicon), working on the _Guide to Ethical Research_: if you're interested in building a community of thoughtful, reflective, ethical data scientists, please come and join us!
+> I was part of the November 2020 Book Dash: I worked on a chapter of the Ethics book on relating ethics to law, policy and human rights, and reviewed @irenekp's chapter on data anonymisation and @EKaroune's chapters on getting up and running on github. I also got to have lots of interesting conversations about ethics in data science: watch this space for more chapters!
 
 * More information:
 > I'm interested in feminist and queer research methodologies and in interrogating structures of power and systems of categorisation. Throughout my career, most of my work has been on understanding these systems, how they work, and how they harm: so that they can be dismantled!
 > More information about me on my [website](https://lauracarter.github.io/).
+
+* Quotes:
+> "I'm not from a tech field but I've learned so much about github as a tool for collaborative working: thanks so much for everyone who was part of the November 2020 book dash for all your useful advice!"
 
 
 ### Louise Bowler
