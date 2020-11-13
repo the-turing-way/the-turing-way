@@ -21,8 +21,10 @@ A web-based service which allows users to upload and share fully-functioning ver
 A service which generates Binders. The most widely-used is mybinder.org, which is maintained by the Binder team. It is possible to create other BinderHubs which can support more specialised configurations. One such configuration could include authentication to enable private repositories to be shared amongst close collaborators.
 
 #### Binderize 
+
 To make a Binder of a project.
-### Branch 
+
+#### Branch 
 
 A parallel version of a repository. Although it is contained within the same repository it allows you to develop it separately and then merge changes back into the ‘live’ repository or with other branches when appropriate.
 
@@ -85,7 +87,6 @@ It automates and runs the steps required to build and test a project.
  
 #### Continuous deployment
 It automatically deploys each time a code change is made.
-
 
 #### Continuous integration
 
@@ -152,7 +153,7 @@ An online code hosting and version control service. It has a great many features
 
 #### Gitlab
 
-
+GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
 
 #### Head 
 
@@ -186,7 +187,7 @@ A multi-user server for Jupyter Notebook instances.
 
 Autonomous computational cluster manager.
 
-### License 
+#### License 
 
 This is a legal document that sets out the permissions for creative and academic work. It explains copyright, ensures proper attribution and sets out how others can copy, distribute and make use of the works. 
 
@@ -202,7 +203,7 @@ Contributors who are responsible for driving the vision and managing the organiz
 
 A text file that contains the configuration for the build.
 
-##### Merge 
+#### Merge 
 
 The process of combining branches. Changes made on one or more branches are applied to another.
  
@@ -263,7 +264,6 @@ Open Researchers and Contibutor iD. It is a long lasting unique identifier for y
 
 The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
 
-
 #### Package management system
 
 A tool for installing, managing, and uninstalling software packages including specific versions.
@@ -290,6 +290,7 @@ Proposed changes to a remote repository. Collaborators without write access can 
  
 #### Push 
 Sending changes to a remote repo. The remote repository is updated with the changes pushed and now mirrors the local repo.
+
 #### RDM
 
 Research data management
@@ -301,7 +302,6 @@ A file which contains useful information about a project such as what it is, how
 #### Recipe
 
 One or more shell commands that are executed by Make. Usually these commands update the target of the rule.
-
 
 #### Regression test
 
