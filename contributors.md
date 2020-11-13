@@ -25,20 +25,41 @@ See this entry as an example by Kirstie Whitaker, the project lead:
 
 ### Kirstie Whitaker
 
-* Role: **Project lead**
-* GitHub id: [kirstiejane](http://github.com/kirstiejane)
-* ORCID: [0000-0001-8498-4059](https://orcid.org/0000-0001-8498-4059)
-* Short bio:
-> I'm the lead of Tools, Practices and Systems research Programme at the Alan Turing Institute.
-I have a PhD in Neuroscience from the University of California at Berkeley and conducted my postdoctoral research at the University of Cambridge in the Brain Mapping Unit.
-I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
+#### Contact details
 
-* Personal highlights:
-> I am the lead of _The Turing Way_.
-> I've done a lot of advocacy for changing research culture to make our work more efficient and effective, and I've noticed that we need to address the power structures in academia if we are to truly make research reproducible by default.
-> I'm excited to build the Turing Way to both inspire the people who DO the research to make all their outputs as accessible as possible, and to nudge everyone else in the ecosystem to care about the work required to do so.
+* Role: **Project lead**
+* GitHub id: [KirstieJane](http://github.com/kirstiejane)
+* ORCID: [0000-0001-8498-4059](https://orcid.org/0000-0001-8498-4059)
+
+#### Biography
+
+> Kirstie Whitaker leads the [Tools, Practices and Systems](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) Research Programme at [The Alan Turing Institute](https://www.turing.ac.uk) (London, UK).
+> Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of neurodivergent people and people with mental health conditions.
+> Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and participatory citizen science to educate non-autistic people about how they can better support autistic friends and colleagues.
+> She is the lead developer of The Turing Way, an openly developed educational resource to enable more reproducible data science.
+> Kirstie is a passionate advocate for making science "open for all" by promoting equity and inclusion for people from diverse backgrounds, and by changing the academic incentive structure to reward collaborative working.
+> She is the chair of the Turing Institute's [Ethics Advisory Group](https://www.turing.ac.uk/research/data-ethics/ethics-advisory-group), a Fulbright scholarship alumna and was a 2016/17 Mozilla Fellow for Science.
+Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+> You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io).
+
+#### Personal highlights
+
+> _The Turing Way_ is the project I would never have dreamed could have been possible for me to lead.
+> Seeing the community grow and consistently hearing that everyone considers us to be friendly and welcoming is the best feeling and makes my job truly worth while.
+> I've done a lot of advocacy for changing research culture to make our work more efficient and effective, and I'm really committed to our collective need to address the power structures in academia if we are to truly make research reproducible by default.
+> I'm excited that _The Turing Way_ inspires both the people who DO the research to make all their outputs as accessible as possible by giving them examples and skills to help them get started, and the decision makers to care about and commit to the changes we hae to make.
+
+#### Issues and pull requests
+
+Highlighted contributions to _The Turing Way_ include:
+
+> * Governance and decision making policies: [#384](https://github.com/alan-turing-institute/the-turing-way/pull/384)
+> * Guidance on how to acknowledge our contributors: [#1121](https://github.com/alan-turing-institute/the-turing-way/pull/1121)
+> * Design of Collaboration Cafe events: [#675](https://github.com/alan-turing-institute/the-turing-way/pull/675)
+> * Refactoring the book in to separate volumes: [#977](https://github.com/alan-turing-institute/the-turing-way/pull/977)
 
 * More information:
+
 > I'm really passionate about the concept of making science "open for all".
 > I take that to mean we should share all of our outputs - the data, code and protocols that we develop - whether they're "significant" or not.
 > But it also includes making those outputs FAIR - findable, accessible, interoperable and reusable. I am an advocate for greater diversity in STEM and in data science and particularly passionate about improving the ways we reward collaborative and supportive working.
