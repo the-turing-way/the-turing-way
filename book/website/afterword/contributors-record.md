@@ -3,10 +3,11 @@
 
 *The `contributors.md` file and the contributors table in the `README file` together form the record of contributions in _The Turing Way_.*
 
-Contributions to _The Turing Way_ may include, but are not limited to, bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
-Using [all contributors bot](https://allcontributors.org), we recognise all these contributions and attribute our community members fairly in the contributors table (see the [README file](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md#contributors)).
-Different contributions can mean different things to people and might translate differently towards their personal interest, skill development, value exchange and advancement of their career.
-Therefore, we also offer the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/contributors.md) file as a dedicated location to capture personal highlights of _The Turing Way_ community members.
+Contributions to _The Turing Way_ may include but are not limited to, bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
+We recognise all these contributions and acknowledge our community members fairly.
+For example, using [all contributors bot](https://allcontributors.org) we update the contributors table with each person's name, where the emoji keys indicate the different tasks they have done (see the [README file](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md#contributors)).
+We understand that different contributions mean different things to people and may translate differently towards their personal interest, skill development, value exchange and advancement of their careers.
+Therefore, we also offer the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/contributors.md) file as a dedicated location to capture personal highlights from _The Turing Way_ community members.
 
 Please see the [community handbook](https://the-turing-way.netlify.app/community-handbook/acknowledgement) for details on how you can be fairly acknowledged for your work.
 
@@ -171,6 +172,22 @@ podcasts, videos, and of course conversations.  So for me it is only a natural
 next step for The Turing Way to become more than a book. It could be an
 ecosystem, with the book at its basis. And -- if we decide to go that route --
 I would like to be a part of it.
+
+### Ismael Kherroubi Garcia
+
+* GitHub id: [Ismael-KG](https://github.com/Ismael-KG)
+* Short bio:
+> I'm Ethics Research Assistant at the Alan Turing Institute.
+I have a BSc in Business Management and Administration and am currently working towards an MSc in Philosophy of the Social Sciences.
+I am an associate member of the Chartered Institute of Personnel and Development (CIPD).
+
+* Personal highlights:
+> Since my undergraduate degree, I have worked in fintech and then in arts organisations within human resources teams, finally reachint the Alan Turing Institute and helping support the Ethics Advisory Group.
+> I think my highlight is that I've got a great background as a generalist!
+> I am currently really thrilled to be working alongside [Laura Carter](https://github.com/LauraCarter) and [Sophia Batchelor](https://github.com/BrainonSilicon) to build a community around the Guide for Ethical Research!
+
+* More information:
+> I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there!
 
 ### Louise Bowler
 

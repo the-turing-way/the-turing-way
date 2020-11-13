@@ -26,3 +26,7 @@ jobs:
     - name: Create latest contributors record
       run: |
         ./tests/contributors.sh
+    - uses: EndBug/add-and-commit@v5
+        with:
+          message: "Add the latest contributors-record.md in afterword"
+          add: "./book/website/contributors-record.md --force"
