@@ -10,7 +10,7 @@ A good structural framework ensures that _The Turing Way's_ content is presented
 The hard checks that deal with _The Turing Way's_ structure include: 
 
 (ch-consistency-structure-hr-emptyfiles)=
-### Check 1: Do not add any empty files in the `_toc.yml`
+### Check 1: Do not add empty files in the `_toc.yml`
 
 The `_toc.yml` file is where _The Turing Way's_ table of contents (ToC) lives.
 Some files referenced in the ToC are empty, and their inclusion means that readers are able to navigate to them while reading _The Turing Way_.
