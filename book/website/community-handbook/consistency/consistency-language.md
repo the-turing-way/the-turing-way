@@ -2,7 +2,7 @@
 # Language
 
 Language is concerned with the style with which _The Turing Way_ is written.
-A consistent language ensures that _The Turing Way_ is clear and understandable.
+Consistency in language ensures _The Turing Way_ is clear and understandable.
 
 (ch-consistency-language-hr)=
 ## Hard Requirements
