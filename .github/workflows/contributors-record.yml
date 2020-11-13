@@ -26,7 +26,7 @@ jobs:
     - name: Create latest contributors record
       run: |
         ./tests/contributors.sh
-    - uses: actions/upload-artifact@v2
+    - uses: EndBug/add-and-commit@v5
       with:
-        name: Add contributors-record.md to Afterword
-        path: ./book/website/afterword/contributors-record.md --force
+        add: ./book/website/afterword/contributors-record.md
+        message: 'Add contributors-record.md to Afterword'
