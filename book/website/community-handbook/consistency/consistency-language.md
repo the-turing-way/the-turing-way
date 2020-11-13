@@ -21,7 +21,7 @@ These tools can be used to assess grammar in new contributions and existing cont
 Furthermore, when raising PRs for new content, invite reviewers to check for grammar as well.
 This could help minimize the number of grammatical errors that make it to the final version of _The Turing Way_.
 
-With regards tone, ensure that chapters adhere to a formal level of writing and that sentences are easy to digest.
+With respect to tone, ensure that chapters adhere to a formal style of writing and that sentences are easy to digest.
 One rule of thumb to think about is, if a sentence needs to be read more than once to be understood, then it needs to be rephrased.
 
 (ch-consistency-language-hr-language)=
