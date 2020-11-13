@@ -1,10 +1,7 @@
 # Ethics and Law, Policy and Human Rights
 
 ## Prerequisites / recommended skill level
-
-| Prerequisite | Importance | Notes |
-| -------------|----------|------|
-| none | n/a | n/a |
+None
 
 ## Summary
 Law, human rights and policy all relate to ethics, but they are not the same thing.
