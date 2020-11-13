@@ -18,7 +18,7 @@ The intent is to give you an overview of the basics, so that you will know when 
 Don’t make any important decisions based solely on information about laws and regulations in this book..
 
 ### Finding legal expertise
-If you are part of an institution (for example, a university) or an organisation (for example, a non-profit), it is very likely that you can access legal advice either in-house or from a specialist firm that already works with your institution or organisation. 
+If you are part of an organisation such as a university, a non-profit or a company, it is very likely that you can access legal advice either in-house or from a specialist firm that already works with your institution or organisation. 
 You should check with them first if you have any concerns.
 
 If you are not part of an institution or organisation: 
