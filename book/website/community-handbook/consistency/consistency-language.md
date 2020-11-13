@@ -36,7 +36,7 @@ Rather, the recommendation is that if a chapter is written in one style (for exa
 This makes _The Turing Way_ less distracting and easier to read.
 
 (ch-consistency-language-hr-abbreviations)=
-### Check 3: Ensure chapters do not use any Latin abbreviation
+### Check 3: Ensure that chapters do not use any Latin abbreviations
 
 When writing content for _The Turing Way_, the use of Latin abbreviations is discouraged. 
 This is because screen readers may read them aloud in a manner that is confusing to those who rely on such devices.
