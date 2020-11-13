@@ -290,6 +290,9 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > Besides connecting with members from diverse perspectives, my highlights in _The Turing Way_ are co-developing community governance, acknowledgment pathways, and community resources in the [Community Handbook](https://the-turing-way.netlify.app/community-handbook) for our members.
 > I enjoy designing training resources around leadership in research in collaboration with [Open Life Science](https://openlifesci.org/).
 
+* More information:
+
+> On a broader scale, I work at the intersection of community building and computation research and brings expertise in technical training development, event design and evidence-based pedagogical practices in data science. 
 
 ### Martin O'Reilly
 
