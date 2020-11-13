@@ -14,7 +14,7 @@ The hard checks that deal with _The Turing Way's_ language include:
 
 Correct grammar and consistent tone would help readers of all backgrounds, knowledge, and skill levels to better understand _The Turing Way_'s content.
 
-Asides from being distracting, incorrect grammar may take away from the message a piece of text tries to communicate.
+Aside from being distracting, incorrect grammar might take away what a piece of text is trying to communicate.
 
 Tools such as [Grammarly](www.grammarly.com), [Ginger Grammar](https://www.gingersoftware.com/grammarcheck), and [Reverso Speller](https://www.reverso.net/spell-checker/english-spelling-grammar/) can help to catch any grammatical errors present in a piece of text. 
 These tools can be used to grammatically assess new contributions and existing content of _The Turing Way_ chapters.
