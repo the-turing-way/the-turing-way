@@ -13,7 +13,7 @@ The hard checks that deal with _The Turing Way's_ structure include:
 ### Check 1: Do not add empty files in the `_toc.yml`
 
 The `_toc.yml` file is where _The Turing Way's_ table of contents (ToC) lives.
-Some files referenced in the ToC are empty, and their inclusion means that readers are able to navigate to them while reading _The Turing Way_.
+Some files referenced in the ToC are empty, and their inclusion means that readers can navigate to an empty (sub)chapter while reading _The Turing Way_.
 This negatively impacts the reader's experience as they go through the book.
 
 ```{figure} ../../figures/empty_toc_file.png
