@@ -2,7 +2,7 @@
 
 Data visualisation can be defined as _the visual representation and presentation of data to facilitate understanding_.
 It involves seeing data using _marks_ (for example, shapes) and _attributes_ such as size, position, and colours.
-Good data visualisation helps us to show vast amounts of numbers and relations between them at a glance, using 
+Good data visualisation helps us to show vast amounts of numbers and relations between them at a glance, using images and visual features.
  
 The understanding process involves three steps:
 - Perceiving (what do I see?)
@@ -15,13 +15,15 @@ Three points of effective and efficient design process:
 - accessible: is it usable?
 - elegant: is it aesthetics?
  
- Data visualisation is not a "one size fits all/most" tool. 
- It involves choices and decisions which vary depending on one's goals (informing? convincing? persuading? supporting an argument?)
+Data visualisation is not a "one size fits all/most" tool. 
+It involves choices and decisions which vary depending on one's goals (informing? convincing? persuading? supporting an argument?)
+As it employs a visual/graphic medium to convey quantitative as well as qualitative information, data visualisation is intrinsically multidisciplinary and relies on a variety of skills working in sinergy. 
+A data scientist provides the quantitative information to be represented, graphic designers devise the most appropriate visual representation for it, and psychologists raise awareness on perceptual and cognitive constraints which can affect people's understanding and interpretation of the visualisation.
  
 the classical text "The visual display of quantitative information" by Tufte and Graves-Morris (1983) is a goldmine of resources and suggestions but, because it was published in 1983, it did not (and could not, for obvious reasons) address all the data visualisation opportunities that state of the art platforms and software offer nowadays. 
 
-### Storytelling
-Data visualisation and infographics are essential tools for _storytelling_
+<!--### Storytelling
+Data visualisation and infographics are essential tools for _storytelling_-->
 
 
 ### choosing the right visual representations for the data and task at hand
@@ -50,12 +52,12 @@ How do you qualify what you produce in terms of data visualisation?
 <!--need to check what you wrote in the notes-->
 Use of colours and accessibility: [colororacle](www.colororacle.org) is a colour blindness simulator, allowing data scientists to consider colour branding and output restrictions when working on their charts.
 
-
 ### Possible negative effects of data collection?
 ### Sense.us case study <!--does anyone know more about them?-->
 "Our goal was to realize the potential beauty of data by fostering collective data analysis".
 Source: IPUMS-USA
 Importance of effective visual encodings
+### Case study: the Bakery project (
 
 ### tendency to create a story out of noise!
 
