@@ -293,7 +293,7 @@ Sending changes to a remote repo. The remote repository is updated with the chan
 
 #### RDM
 
-Research data management
+Abbreviation for research data management - see research data management for definition.
 
 #### Readme 
 
