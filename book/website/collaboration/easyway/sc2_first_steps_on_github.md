@@ -48,7 +48,7 @@ To edit your README.md file:
 
 You can now edit it.
 
-```{figure} ../../figures/easyway2_readme _before_edit.jpg
+```{figure} ../../figures/easyway2_readme_before_edit.jpg
 ---
 name: easyway2_readme_before_edit
 ---
