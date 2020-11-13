@@ -48,7 +48,7 @@ Recommended structure for chapters in The Turing Way.
 - **Subchapters:** A chapter can contain any number of subchapters or none at all. However, please note the next requirement about the checklist and resources subchapters.
 - **Checklist subchapter:** The checklist subchapter itemizes action points for the reader to take based on the concepts introduced in the chapter.
 - **Resources subchapter:** The resources subchapter points the reader to other sources where they can learn more about the concepts discussed in the chapter, as well as related topics to explore.
-
+More information about these recommendations can be found in {ref}<recommended_chapter_structure>.
 ```{attention} Please note that making chapters follow this structure may require splitting some of the existing content into new files.
 References to these files should be updated in the table of contents in the `_toc.yml` file.
 ```
