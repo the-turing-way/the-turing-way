@@ -14,7 +14,7 @@
 
 _The Turing Way_ est un guide légèrement avisé de la science des données reproductibles.
 Vous pouvez le lire ici: <https://the-turing-way.netlify.com>
-Vous consultez actuellement le dépôt GitHub du projet où tous les éléments qui composent le guide sont en ligne et où se déroule le processus d'écriture / de construction du guide.
+Vous consultez actuellement le dépôt GitHub du projet dans lequel se trouvent tous les éléments qui composent le guide et se déroule le processus d'écriture / de construction du guide.
 
 Notre objectif est de fournir toutes les informations dont les chercheurs ont besoin au début de leurs projets pour s'assurer qu'ils soient faciles à reproduire à la fin.
 
