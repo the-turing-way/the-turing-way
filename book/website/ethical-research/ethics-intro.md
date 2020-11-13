@@ -1,6 +1,5 @@
 ## Prerequisites / recommended skill level
-> other chapters that should have been read before or content you should be familiar with before you read this
-> 
+
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
 | None needed | N/A | --- |
@@ -11,9 +10,9 @@ This section briefly introduces the key concepts of *Responsible Research and In
 
 | Factor | RRI | Research Integrity |
 | -------- | -------- | -------- |
-| **Perception of ethical questions** | Outward (e.g.: how does the public perceive scientific output?) | Inward (e.g.: how do researchers conduct themselves?) |
-| **Who researchers interact with** | With research subjects (e.g.: do we treat them with respect?) | With fellow researchers (e.g.: do we adhere to a code of conduct?) |
-| **What shapes research** | Shaped by society (e.g.: how is AI as a solution generally understood?) | Shaped by institutional norms (e.g.: what research questions are being funded?) |
+| **Perception of ethical questions** | Outward (for example: how does the public perceive scientific output?) | Inward (for example: how do researchers conduct themselves?) |
+| **Who researchers interact with** | With research subjects (for example: do we treat them with respect?) | With fellow researchers (for example: do we adhere to a code of conduct?) |
+| **What shapes research** | Shaped by society (for example: how is AI as a solution generally understood?) | Shaped by institutional norms (for example: what research questions are being funded?) |
 
 ## How this will help you/ why this is useful
 > why we think you should read the whole thing
@@ -121,9 +120,9 @@ This section briefly introduces the key concepts of *Responsible Research and In
 
 | Factor | RRI | Research Integrity |
 | -------- | -------- | -------- |
-| **Perception of ethical questions** | Outward (e.g.: how does the public perceive scientific output?) | Inward (e.g.: how do researchers conduct themselves?) |
-| **Who researchers interact with** | With research subjects (e.g.: do we treat them with respect?) | With fellow researchers (e.g.: do we adhere to a code of conduct?) |
-| **What shapes research** | Shaped by society (e.g.: how is AI as a solution generally understood?) | Shaped by institutional norms (e.g.: what research questions are being funded?) |
+| **Perception of ethical questions** | Outward (for example: how does the public perceive scientific output?) | Inward (for example: how do researchers conduct themselves?) |
+| **Who researchers interact with** | With research subjects (for example: do we treat them with respect?) | With fellow researchers (for example: do we adhere to a code of conduct?) |
+| **What shapes research** | Shaped by society (for example: how is AI as a solution generally understood?) | Shaped by institutional norms (for example: what research questions are being funded?) |
 
 
 ## What to learn next
