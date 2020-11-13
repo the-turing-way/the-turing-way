@@ -6,7 +6,6 @@
 | None needed | N/A | --- |
 
 ## Summary
-> easy to understand summary - a bit like tl;dr
 
 This section briefly introduces the key concepts of *Responsible Research and Innovation* (RRI) and *Research Integrity*. Both refer to different questions within the field of research ethics. Below is a table summarising these questions.
 
@@ -24,7 +23,7 @@ This section briefly introduces the key concepts of *Responsible Research and In
  This chapter introduces some of these questions within the broad field of research ethics. 
 
 ## Chapter content
-> depending on the content, this might be more structured, e.g. with exercises, gotcha sections etc
+
 
 ## Introducing Ethics
 
@@ -128,16 +127,13 @@ This section briefly introduces the key concepts of *Responsible Research and In
 
 
 ## What to learn next
-> recommended next chapters that are a good next step up
 
 There are plenty of ways to navigate the realm of Ethics at large and Research Ethics in particular. And there are many reasons why Research Ethics is important to science. We invite you to keep learning about RRI and research integrity, but also to reach out and support the building of this book!
 
 ## Further reading
-> top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
-> less relevant/favourite resources in case someone wants to dig into this in detail
+
 
 ## Definitions/glossary
-> Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
 
 * Applied ethics: the subfield of ethics that examines specific moral questions.
 * Ethics: moral principles that govern a person's behaviour or the conducting of an activity
