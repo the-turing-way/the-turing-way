@@ -54,7 +54,7 @@ The resources subchapter, on the other hand, points the reader to other sources 
 References to these files should be updated in the table of contents in the `_toc.yml` file.
 ```
 
-Refer to the [chapter template](https://github.com/alan-turing-institute/the-turing-way/blob/master/templates/CHAPTER_TEMPLATE.md) to structure new chapter contributions, and use it to assess current chapters in _The Turing Way_.
+Refer to the [chapter template](https://github.com/alan-turing-institute/the-turing-way/blob/master/templates/) to structure new chapter contributions, and use it to assess current chapters in _The Turing Way_.
 For chapters that do not fit this structure, please raise a PR.
 
 

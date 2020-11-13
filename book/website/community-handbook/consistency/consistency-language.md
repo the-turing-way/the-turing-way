@@ -1,7 +1,7 @@
 (ch-consistency-language)=
 # Language
 
-Language is concerned with the style with which _The Turing Way_ is written.
+Language is concerned with the way concepts and ideas in _The Turing Way_ are expressed.
 A consistent language ensures that _The Turing Way_ is clear and understandable.
 
 (ch-consistency-language-hr)=
@@ -36,7 +36,7 @@ Rather, the recommendation is that if a chapter is written in one style (for exa
 This makes _The Turing Way_ less distracting and easier to read.
 
 (ch-consistency-language-hr-abbreviations)=
-### Check 3: Ensure chapters do not use any Latin abbreviation
+### Check 3: Ensure Latin abbreviations are not used in writing chapters
 
 When writing content for _The Turing Way_, the use of Latin abbreviations is discouraged. 
 This is because screen readers may read them aloud in a manner that is confusing to readers who rely on such devices.
