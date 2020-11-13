@@ -12,7 +12,7 @@ The hard checks that deal with _The Turing Way's_ language include:
 (ch-consistency-language-hr-grammar)=
 ### Check 1: Ensure correct grammar and a consistent tone across the book
 
-For readers of all backgrounds, knowledge, and skill level to understand _The Turing Way_, correct grammar and a consistent tone is necessary.
+Correct grammar and consistent tone would help readers of all backgrounds, knowledge, and skill levels to better understand _The Turing Way_'s content.
 
 Asides from being distracting, incorrect grammar may take away from the message a piece of text tries to communicate.
 
