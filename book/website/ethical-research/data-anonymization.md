@@ -1,13 +1,13 @@
-(er-datanonymization)=
 # Data Anonymization
 
 ## Prerequisites / recommended skill level
 The following sections of the Reproducible Research book will better help understand the motivation for this chapter:
 <!--would appreciate some help with linking the sections to this table-->
-| Prerequisite | Importance |
+
+| Prerequisite | Importance | 
 | -------------|----------|
-| [Open Research](book/website/reproducible-research/open.md)| Helpful |
-| {ref}`rr-rdm` | Helpful |
+| [Open Research](/book/website/reproducible-research/open)| Helpful |
+| [Research Data Management](../../website/reproducible-research/rdm)  | Helpful |
 ## Summary
 The Data Anonymization chapter intends to provide an overview into the privacy considerations involved in contributing to open data and in extension, open research.
 It outlines some current motivations to anonymize data and aims to delineate a few different terminologies, techniques and tools surrounding the process of anonymizing data today.
