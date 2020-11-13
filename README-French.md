@@ -16,7 +16,7 @@ _The Turing Way_ est un guide légèrement avisé de la science des données rep
 Vous pouvez le lire ici: <https://the-turing-way.netlify.com>
 Vous consultez actuellement le dépôt GitHub du projet dans lequel se trouvent tous les éléments qui composent le guide et se déroule le processus d'écriture / de construction du guide.
 
-Notre objectif est de fournir toutes les informations dont les chercheurs ont besoin au début de leurs projets pour s'assurer qu'ils soient faciles à reproduire à la fin.
+Notre objectif est de fournir toutes les informations dont les scientifiques ont besoin au début de leurs projets pour s'assurer qu'ils soient faciles à reproduire à la fin.
 
 Cela signifie également de s'assurer que les doctorants et les doctorantes, les stagiaires postdoctoraux, les équipes de recherche et les équipes de financement savent quelles parties de la «responsabilité de reproductibilité» ils et elles peuvent affecter et ce qu'il doit être fait pour pousser la science des données à être plus efficace et plus compréhensible.
 
