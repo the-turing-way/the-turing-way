@@ -2035,7 +2035,8 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/9551786?v=4",
       "profile": "https://github.com/ahornos",
       "contributions": [
-        "review"
+        "review",
+        "bug"
       ]
     },
     {
@@ -2052,6 +2053,15 @@
       "name": "SarahAlidoost",
       "avatar_url": "https://avatars3.githubusercontent.com/u/55081872?v=4",
       "profile": "https://nl.linkedin.com/in/fakhereh-sarah-alidoost-11a24a89",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "kderuyck",
+      "name": "Kim De Ruyck",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/74196557?v=4",
+      "profile": "https://github.com/kderuyck",
       "contributions": [
         "content"
       ]
