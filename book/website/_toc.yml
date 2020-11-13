@@ -257,6 +257,13 @@
     sections:
     - title: Personal Stories of Leadership
       file: collaboration/leadership/leadership-stories
+  - title: Collaborating at Online Events
+    url: collaboration/remote_events/intro
+    sections:
+    - title: Activity Types
+      url: collaboration//remote_events/01/activity-types
+    - title: Social Interactions
+      url: collaboration//remote_events/02/social-interaction
 
 # ===== Ethical Research Guide ========================================
 - file: ethical-research/ethical-research
