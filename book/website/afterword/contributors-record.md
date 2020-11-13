@@ -292,7 +292,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 * More information:
 
-> On a broader scale, I work at the intersection of community building and computation research and brings expertise in technical training development, event design and evidence-based pedagogical practices in data science. 
+> On a broader scale, I work at the intersection of community building and computation research and brings expertise in technical training development, event design and evidence-based pedagogical practices in data science.
 
 ### Martin O'Reilly
 
