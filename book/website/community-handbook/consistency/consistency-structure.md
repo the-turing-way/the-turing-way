@@ -44,7 +44,6 @@ alt: The recommended structure for chapters in The Turing Way. Chapters should h
 Recommended structure for chapters in The Turing Way.
 ```
 
-The recommended structure for chapters is shown in the {ref}`<recommended_chapter_structure>`.
 The landing page of the chapter should include information about any prerequisites required to understand the chapter, a summary of the chapter's content, and an explanation of why the chapter is useful.
 While a chapter can contain as many or as little subchapters as necessary, it should also contain a separate checklist and resources subchapter.
 The checklist subchapter itemises action points for the reader to take based on the concepts introduced in the chapter.
