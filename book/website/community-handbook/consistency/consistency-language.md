@@ -22,7 +22,7 @@ Furthermore, when raising PRs for new content, invite reviewers to check for gra
 This could help minimize the number of grammatical errors that make it to the final version of _The Turing Way_.
 
 With respect to tone, ensure that chapters adhere to a formal style of writing and that sentences are easy to digest.
-One rule of thumb to think about is, if a sentence needs to be read more than once to be understood, then it needs to be rephrased.
+One rule of thumb to consider is that if a sentence needs to be read more than once to be understood, then it likely needs to be rephrased.
 
 (ch-consistency-language-hr-language)=
 ### Check 2: Ensure chapters use a consistent language
