@@ -39,7 +39,7 @@ This makes _The Turing Way_ less distracting and easier to read.
 ### Check 3: Ensure chapters do not use any Latin abbreviation
 
 When writing content for _The Turing Way_, the use of Latin abbreviations is discouraged. 
-This is because screen readers may read them aloud in a manner that is confusing to readers who rely on such devices.
+This is because screen readers may read them aloud in a manner that is confusing to those who rely on such devices.
 
 Furthermore, as described in the {ref}`style guide<ch-style-guide>`, contributions that contain Latin abbreviations will fail the _The Turing Way_ repository's continuous integration workflow.
 
