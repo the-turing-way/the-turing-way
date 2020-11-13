@@ -29,4 +29,4 @@ jobs:
     - uses: actions/upload-artifact@v2
       with:
         name: Add contributors-record.md to Afterword
-        path: ./book/website/contributors-record.md --force
+        path: ./book/website/afterword/contributors-record.md --force
