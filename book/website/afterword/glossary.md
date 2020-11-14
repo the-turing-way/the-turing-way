@@ -2,6 +2,10 @@
 
 ## **A**
 
+
+---
+
+
 ### Acceptance testing	
 
 A level of the software testing process where a system is tested for acceptability. The purpose of this test is to evaluate the system's compliance with the project requirements and assess whether it is acceptable for the purpose.
