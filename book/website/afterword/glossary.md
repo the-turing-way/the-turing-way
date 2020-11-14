@@ -1,10 +1,10 @@
 # Glossary
 
+
+
 ## **A**
 
-
 ---
-
 
 ### Acceptance testing	
 
@@ -19,6 +19,9 @@ Command used to add files to the staging area. Allows the user to specify which 
 The person/s or organization that created the project.
 
 ## **B**
+
+---
+
 
 ### Binder
 
@@ -47,6 +50,7 @@ A group of jobs. For example, a build might have two jobs, each of which tests a
 
 ## **C**
 
+---
 
 ### Checkout 
 
@@ -112,6 +116,9 @@ Everyone who has contributed something back to the project.
 
 ## **D**
 
+---
+
+
 ### Data repository
 
 See repository. 
@@ -142,6 +149,9 @@ A digital object identifier (DOI) is a persistent identifier or handle used to i
 
 ## **E**
 
+---
+
+
 ### Equitable, diverse and inclusive practice 
 
 Ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, and sexual orientation.
@@ -151,11 +161,16 @@ A test that runs the program from beginning to end and verifies that the output 
 
 ## **F**
 
+---
+
+
 ### FAIR
 
 Findable, Accessible, Interoperable and Reusable.
 
 ## **G**
+
+---
 
 ### Generalisable 
 
@@ -175,6 +190,10 @@ GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manag
 
 ## **H**
 
+---
+
+
+
 ### Head 
 
 The latest commit on the branch which is currently checked out.
@@ -184,6 +203,8 @@ The latest commit on the branch which is currently checked out.
 A package manager for Kubernetes applications.
 
 ## **I**
+
+---
 
 ### Image
 
@@ -199,6 +220,8 @@ Bug tracking system for GitHub. Collaborators can use issues to report bugs, req
 
 ## **J**
 
+---
+
 ### Job
 
 An automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code and running tests. A job fails if the return code of the script encounters an error.
@@ -209,17 +232,23 @@ A multi-user server for Jupyter Notebook instances.
 
 ## **K**
 
+---
+
 ### Kubernetes
 
 Autonomous computational cluster manager.
 
 ## **L**
 
+---
+
 ### License 
 
 This is a legal document that sets out the permissions for creative and academic work. It explains copyright, ensures proper attribution and sets out how others can copy, distribute and make use of the works. 
 
 ## **M**
+
+---
 
 ### Main
 
@@ -249,6 +278,9 @@ Data used to describe other data. For example (35, 33, 27, 30, 33) is data but t
 Replace a real object with a pretend one to use when running tests.
 
 ## **O**
+
+---
+
 
 ### Open access 
 
@@ -299,6 +331,8 @@ The person/s who has administrative ownership over the organization or repositor
 
 ## **P**
 
+---
+
 ### Package management system
 
 A tool for installing, managing, and uninstalling software packages including specific versions.
@@ -327,6 +361,8 @@ Proposed changes to a remote repository. Collaborators without write access can 
 Sending changes to a remote repo. The remote repository is updated with the changes pushed and now mirrors the local repo.
 
 ## **R**
+
+---
 
 ### RDM
 
@@ -394,6 +430,8 @@ Tests embedded within the program which are run as part of it.
 
 ## **S**
 
+---
+
 ### Self-archiving
 
 Placing a publication or other research outputs in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher, for example an embargo period, or limits on the allowed version to be deposited in such archives. 
@@ -424,6 +462,8 @@ A level of the software testing process where a complete, integrated system is t
 
 ## **T**
 
+---
+
 ### Target 
 
 The outcome of a rule in a Makefile. It is usually a file. If it is not a file, it’s a phony target.
@@ -450,6 +490,8 @@ A commonly used continuous integration platform.
 
 ## **U**
 
+---
+
 ### Unit
 
 A small piece of code that does one simple thing. It usually has one or a few inputs and usually a single output.
@@ -460,11 +502,15 @@ A level of the software testing process where individual units of a software are
 
 ## **V**
 
+---
+
 ### Virtual machine
 
 A simulated computer that can encapsulate and entire computational environment including its operating system, customised settings, software and files.
 
 ## **Y**
+
+---
 
 ### YAML
 
