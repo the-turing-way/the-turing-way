@@ -1,6 +1,6 @@
 # Glossary
 
-## A
+## **A**
 
 ### Acceptance testing	
 
@@ -14,7 +14,7 @@ Command used to add files to the staging area. Allows the user to specify which 
 
 The person/s or organization that created the project.
 
-## B
+## **B**
 
 ### Binder
 
@@ -41,7 +41,7 @@ This is an error, flaw or fault in a computer program or system that causes it t
 
 A group of jobs. For example, a build might have two jobs, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
 
-## C
+## **C**
 
 
 ### Checkout 
@@ -106,7 +106,7 @@ Guidelines outlining how a person should go about contributing to an open source
 
 Everyone who has contributed something back to the project.
 
-## D
+## **D**
 
 ### Data repository
 
@@ -136,7 +136,7 @@ A storage and distribution system for named Docker images. The registry allows D
 
 A digital object identifier (DOI) is a persistent identifier or handle used to identify objects uniquely, standardized by the International Organization for Standardization (ISO). An implementation of the Handle System, DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports, data sets, and official publications. However, they also have been used to identify other types of information resources, such as commercial videos.
 
-## E
+## **E**
 
 ### Equitable, diverse and inclusive practice 
 
@@ -145,13 +145,13 @@ Ensuring scholarship is open to anyone without barriers based on factors such as
 ### End to end test
 A test that runs the program from beginning to end and verifies that the output is correct.
 
-## F
+## **F**
 
 ### FAIR
 
 Findable, Accessible, Interoperable and Reusable.
 
-## G
+## **G**
 
 ### Generalisable 
 
@@ -169,7 +169,7 @@ An online code hosting and version control service. It has a great many features
 
 GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
 
-## H
+## **H**
 
 ### Head 
 
@@ -179,7 +179,7 @@ The latest commit on the branch which is currently checked out.
 
 A package manager for Kubernetes applications.
 
-## I
+## **I**
 
 ### Image
 
@@ -193,7 +193,7 @@ A level of software testing where individual units are combined and tested as a 
 
 Bug tracking system for GitHub. Collaborators can use issues to report bugs, request features, or set milestones for projects. Issues are tracked, reported, and closed by collaborators during the development process. They’re a great way of communicating with your team and reporting progress.
 
-## J
+## **J**
 
 ### Job
 
@@ -203,19 +203,19 @@ An automated process that clones your repository into a virtual environment and 
 
 A multi-user server for Jupyter Notebook instances.
 
-## K
+## **K**
 
 ### Kubernetes
 
 Autonomous computational cluster manager.
 
-## L
+## **L**
 
 ### License 
 
 This is a legal document that sets out the permissions for creative and academic work. It explains copyright, ensures proper attribution and sets out how others can copy, distribute and make use of the works. 
 
-## M
+## **M**
 
 ### Main
 
@@ -244,7 +244,7 @@ Data used to describe other data. For example (35, 33, 27, 30, 33) is data but t
 
 Replace a real object with a pretend one to use when running tests.
 
-## O
+## **O**
 
 ### Open access 
 
@@ -293,7 +293,7 @@ Open Researchers and Contibutor iD. It is a long lasting unique identifier for y
 
 The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
 
-## P
+## **P**
 
 ### Package management system
 
@@ -322,7 +322,7 @@ Proposed changes to a remote repository. Collaborators without write access can 
 ### Push 
 Sending changes to a remote repo. The remote repository is updated with the changes pushed and now mirrors the local repo.
 
-## R
+## **R**
 
 ### RDM
 
@@ -388,7 +388,7 @@ An element of the Makefile that defines something that must be built, usually co
 
 Tests embedded within the program which are run as part of it.
 
-## S
+## **S**
 
 ### Self-archiving
 
@@ -418,7 +418,7 @@ The structure of statements in a computer language.
 
 A level of the software testing process where a complete, integrated system is tested. The purpose of this test is to evaluate whether the system as a whole gives the correct outputs for given inputs. Also see end to end test.
 
-## T
+## **T**
 
 ### Target 
 
@@ -444,7 +444,7 @@ Tools that make writing and running tests less labour intensive.
  
 A commonly used continuous integration platform.
 
-## U
+## **U**
 
 ### Unit
 
@@ -454,13 +454,13 @@ A small piece of code that does one simple thing. It usually has one or a few in
 
 A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
 
-## V
+## **V**
 
 ### Virtual machine
 
 A simulated computer that can encapsulate and entire computational environment including its operating system, customised settings, software and files.
 
-## Y
+## **Y**
 
 ### YAML
 
