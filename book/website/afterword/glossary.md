@@ -192,8 +192,6 @@ GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manag
 
 ---
 
-
-
 ### Head 
 
 The latest commit on the branch which is currently checked out.
@@ -201,6 +199,10 @@ The latest commit on the branch which is currently checked out.
 ### Helm
 
 A package manager for Kubernetes applications.
+
+### Human readable 
+
+A human readable medium or human readable format is any encoding of data or information that can be naturally read by humans. Some human readable formats, such as PDF, are not machine readable as they are not structured data, i.e. the representation of the data on disk does not represent the actual relationships present in the data.
 
 ## **I**
 
@@ -249,6 +251,9 @@ This is a legal document that sets out the permissions for creative and academic
 ## **M**
 
 ---
+
+### Machine readable
+Machine readable refers to documents, data or other digital outputs whose content can be readily processed by computers. Such documents are distinguished from machine readable data by virtue of having sufficient structure to provide the necessary context to support the business processes for which they are created. Machine readable data can be defined as data in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost.
 
 ### Main
 
@@ -345,6 +350,14 @@ A long-lived method for identifying a resource that is unique, and widely unders
 
 A pattern rule is a rule that contains exactly one % character in the target, which can be used to match a part of a filename.
  
+### Persona
+
+A persona is the detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members. 
+
+### Persona canvas
+
+The persona canvas can be used to assemble all your responses in one place, share this tangible information of your mental model (abstract concepts from our thoughts) with your colleagues and create a common language to communicate about your community members, users, and contributors.
+
 ### Phony 
 
 A phony target is one that doesn’t correspond to a file on the filesystem. A target is marked as phony by making it a prerequisite of the .PHONY target.
@@ -352,6 +365,10 @@ A phony target is one that doesn’t correspond to a file on the filesystem. A t
 ### Prerequisite 
 
 The prerequisite(s) of a rule correspond to files or other targets in the Makefile that must be up to date before the rule is run.
+
+### Project design
+
+An early phase of the project where a project's key features, structure, criteria for success, and major deliverables are all planned out.
 
 ### Pull request 
 
