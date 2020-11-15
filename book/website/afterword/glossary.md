@@ -68,6 +68,10 @@ Copy of an existing Git repository, normally from some remote location to your l
 
 A measure which describes how much of the source code is exercised by the test suite.
 
+### Code of conduct
+
+Guidelines that establish the kind of behaviour encouraged in the community, an outline the process by which problems or violations of the guidelines will be address and who will be in charge of enforcing them.
+
 ### Code review
 
 An additional way of testing code quality. Code review gets another programmer to look over the new code and assess it. The goal is to point out strengths and also potential areas of improvement.
@@ -441,6 +445,10 @@ This is a collection of all digital parts of a research project including data, 
 
 Refers to the organisation, storage and preservation of data created during a research project. It covers initial planning, day-to-day processes and long-term archiving and sharing. Shortened to RDM.
 
+### Review
+
+Suggesting changes or asking for committing something to an already created pull request.
+
 ### Risk assessment 
 
 This is used to help choose the appropriate sustainable software concepts for your project.
@@ -448,6 +456,11 @@ This is used to help choose the appropriate sustainable software concepts for yo
 ### Risk matrix
 
 A risk matrix is a way of quantifying what’s going on with the thing you’re interested in. One axis measures exposure in some way, and the other the impact of a mishap. The further from the origin, the more safeguards are needed to make the risk acceptable.
+
+### Roadmapping
+
+This is the creation of a roadmap for your project. It is an outline for the work you need to do. It covers your goals, vision and a timeline for tasks. 
+
 
 ### Robust 
 
