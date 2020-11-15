@@ -3,7 +3,7 @@
 
 ## Overview
 
-On the one hand, data science is **broadly and inclusively** considered as any research-driven by or conducted using data. 
+On the one hand, data science is **broadly and inclusively** considered as any research driven by or conducted using data. 
 
 On the other hand, leadership is defined as **specific skills** "encompassing the ability of **an individual or organization to lead** or guide other individuals, teams, or entire organizations." (source: [Wikipedia](https://en.wikipedia.org/wiki/Leadership)).
 
