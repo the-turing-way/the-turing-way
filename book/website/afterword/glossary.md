@@ -80,6 +80,10 @@ Snapshot of project history. A commit can be made after changes of a single file
 
 A message the user can attach to a commit to explain what it contains.
 
+### Communication channel
+
+The method of communication established for projects that might include mailing lists, community forums, chats and/or social media.
+
 ### Community member
 
 People who use the project. They might be active in conversations or express their opinion on the project’s direction.
@@ -220,6 +224,10 @@ A level of software testing where individual units are combined and tested as a 
 
 Bug tracking system for GitHub. Collaborators can use issues to report bugs, request features, or set milestones for projects. Issues are tracked, reported, and closed by collaborators during the development process. They’re a great way of communicating with your team and reporting progress.
 
+### Issue tracking
+
+The process of tracking current issues on the project, such as bug fixing, rolling out new features or community engagement plans.
+
 ## **J**
 
 ---
@@ -322,6 +330,10 @@ An emerging practice, documenting and sharing the experimental process of trial 
 
 This is a concept that extends open research further. It relates to making other aspects of scientific research open to the public such as open educational resources, having inclusive practice and citizen science.
 
+### Open source project
+
+A project in which a significant amount of collaboration between the core or leadership team and the wider community takes place in the form of online interactions. Community interactions should maintain transparency and openness of the project to facilitate the growth of your community.
+
 ### Open source software 
 
 Documenting research code and routines, and making them freely accessible and available.
@@ -361,6 +373,10 @@ The persona canvas can be used to assemble all your responses in one place, shar
 ### Phony 
 
 A phony target is one that doesn’t correspond to a file on the filesystem. A target is marked as phony by making it a prerequisite of the .PHONY target.
+
+### Power users
+
+These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient.
 
 ### Prerequisite 
 
