@@ -445,6 +445,10 @@ This is a collection of all digital parts of a research project including data, 
 
 Refers to the organisation, storage and preservation of data created during a research project. It covers initial planning, day-to-day processes and long-term archiving and sharing. Shortened to RDM.
 
+### Research ethics
+
+Research ethics are the moral principles that govern how researchers should carry out their work. These principles are used to shape research regulations agreed by groups such as university governing bodies, communities or governments. All researchers should follow any regulations that apply to their work.
+
 ### Review
 
 Suggesting changes or asking for committing something to an already created pull request.
