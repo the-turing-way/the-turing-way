@@ -105,9 +105,11 @@ A commonly used package management system.
 Lightweight files that can encapsulate an entire computational environment including its operating system, customised settings, software and files.
 
 ### Continuous delivery 
+
 It automates and runs the steps required to build and test a project.
  
 ### Continuous deployment
+
 It automatically deploys each time a code change is made.
 
 ### Continuous integration
@@ -165,6 +167,7 @@ A digital object identifier (DOI) is a persistent identifier or handle used to i
 Ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, and sexual orientation.
 
 ### End to end test
+
 A test that runs the program from beginning to end and verifies that the output is correct.
 
 ## **F**
@@ -210,7 +213,7 @@ A package manager for Kubernetes applications.
 
 ### Human readable 
 
-A human readable medium or human readable format is any encoding of data or information that can be naturally read by humans. Some human readable formats, such as PDF, are not machine readable as they are not structured data, i.e. the representation of the data on disk does not represent the actual relationships present in the data.
+A human readable medium or human readable format is any encoding of data or information that can be naturally read by humans. Some human readable formats, such as PDF, are not machine readable as they are not structured data, such as the representation of the data on disk does not represent the actual relationships present in the data.
 
 ## **I**
 
