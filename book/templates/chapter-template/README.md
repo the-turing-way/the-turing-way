@@ -40,7 +40,7 @@ We encourage you to use them to structure your content.
 
 ### `chapter-landing-page.md`:
 
-At the top-level of the `chapter-template` folder, you will find the [`chapter-landing-page.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/book/templates/chapter-template/chapter-landing-page.md) file where you can write content for your chapter's landing page.
+At the top-level of the `chapter-template` folder, you will find the [`chapter-landing-page.md`](/book/templates/chapter-template/chapter-landing-page.md) file where you can write content for your chapter's landing page.
 
 The landing page is where your chapter begins, and where you should introduce and summarise the rest of your chapter's content.
 The landing page should also inform readers why the chapter may be useful to them and what prior knowledge they should have to understand the chapter better.
@@ -49,7 +49,7 @@ When adding your chapter to _The Turing Way_ book, your landing page should live
 
 ### `chapter-content.md`:
 
-Inside the `chapter-content` folder, you will find the [`chapter-content.md`](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/templates/chapter-template/chapter-content) file where you can write about the individual topics that make up your chapter.
+Inside the `chapter-content` folder, you will find the [`chapter-content.md`](/book/templates/chapter-template/chapter-content) file where you can write about the individual topics that make up your chapter.
 This can be referred to as subchapters.
 
 For example, if you were writing a chapter on [Open Science](https://en.wikipedia.org/wiki/Open_science) with a focus on its different interpretations, this file is where you would individually write about the various schools of thought in Open Science (one of which could be The Infrastructure School of Thought, for example).
@@ -59,7 +59,7 @@ This file should be included in the sub-folder named after your chapter.
 
 ### `chapter-checklist.md`:
 
-You will find the [`chapter-checklist.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/book/templates/chapter-template/chapter-content/chapter-checklist.md) file in the `chapter-content` folder.
+You will find the [`chapter-checklist.md`](/book/templates/chapter-template/chapter-content/chapter-checklist.md) file in the `chapter-content` folder.
 This file should contain action points you want your readers to take based on the chapter's content.
 Ideally, these action points should reinforce the key concepts of your chapter in a practical way.
 
@@ -67,7 +67,7 @@ Add this file to your chapter's sub-folder as well.
 
 ### `chapter-resources.md`:
 
-This [file](https://github.com/alan-turing-institute/the-turing-way/blob/master/book/templates/chapter-template/chapter-content/chapter-resources.md) can be found in the `chapter-content` folder.
+This [file](/book/templates/chapter-template/chapter-content/chapter-resources.md) can be found in the `chapter-content` folder.
 Use `chapter-resources.md` to tell readers what topics to explore next and where to find more information about the concepts covered in your chapter.
 
 `chapter-resources.md` should also be located in the sub-folder named after your chapter.
