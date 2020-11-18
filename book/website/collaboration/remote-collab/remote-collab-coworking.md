@@ -51,7 +51,7 @@ In _The Turing Way_, we use dedicated HackMD notes that can be updated before ea
 
 **Frequency of these calls**
 
-Once you have identifies the purpose, target audience and size of your calls, you can decide how often you would like to host them.
+Once you have identified the purpose, target audience and size of your calls, you can decide how often you would like to host them.
 If you work with the same group of people, you can host it as per your common availability and a mutually agreed time on a weekly or monthly basis.
 
 If the expected participants of your call also work on multiple projects, you might consider regularly hosting it on the same day and time each week or each month.
