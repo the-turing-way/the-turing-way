@@ -86,7 +86,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 - Allocate sufficient budget for organising this event (for example for the tools, equipment and childcare)
 - First place to confirm your budget and support for handling it is your organisation
-- Look for sponsorship early on is always a good idea
+- Looking for sponsorship early on is always a good idea
   - In the early phase, even though not all the information is sorted, use website to attract sponsors
 - Decide how big your event should be based on available resource (such as online communication tools, assigned budget of the event, size of your community)
 - Calculate how much to make the registration fee if no sponsorship is gained
