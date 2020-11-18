@@ -43,7 +43,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 ***Relevant for all phases***
 
-- Choose a Code of Conduct that captures your organisation and community' values
+- Choose a Code of Conduct that captures your organisation and community values
 - Describe your community participation guidelines
 - Create possibilities for people to ask for support to attend your event
 - Create a reporting guideline for any question, concern or breach of Code of Conduct
