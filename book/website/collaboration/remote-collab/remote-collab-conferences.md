@@ -253,7 +253,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 - Reserve conference room(s) (or similar venues) with high speed internet
 - Share details on how members can access this venue
-- When possible, use individual cameras to simulate remote participation so that others not joining don't feel left out.
+- When possible, use individual cameras to simulate remote participation so that others joining remotely don't feel left out
 - If the reserved location has a webcam and microphone, check that they work properly
 - Plan the sitting arrangement so that people are facing to the main screen/camera
 - Test the screen with different light intensity
