@@ -160,7 +160,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Abstract submission form for workshop, up-skilling or breakout session (options for the different lengths of the session)
 - Ideas and leaders for social events
 - Form to collect community vote on the submitted sessions and social activities
-- Final feedback form for participants (can be create in the later stage before the event)
+- Final feedback form for participants (can be created in the later stage before the event)
 - Feedback form for the chairs, helpers, speakers and notetakers (can be created shortly before the event)
 
 ### Program
