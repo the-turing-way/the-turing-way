@@ -88,7 +88,8 @@
 - Follow the "show, don't tell" format, such as visual artifacts in the session format as much as possible
 - Host online games that are not too hard to explain and can be played by multiple people (like Dungeon and Dragons, see [D&D beyond](https://twitter.com/DnDBeyond))
 - Other parallel activities such as online treasure hunt, virtual museum or movie viewing can be organised
-- Conference dinners can be hosted in parallel in multiple locations - maybe a care package with ingrediate can be sent out before the conference!
+- Conference dinners can be hosted in parallel in multiple locations.
+  Perhaps a care package with ingredients can be sent out before the conference, or provide a budget so participants can order their favourite meal.
   - Other options could be to host a cooking and dining session (see the [Tweet thread](https://twitter.com/kevin_kunzmann/status/1240921979462520834), add your ideas too!).
 
 ## Handling breakout rooms
