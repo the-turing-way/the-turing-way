@@ -37,6 +37,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
   - Details on the tools that will be used for connecting
   - Sponsors (if any)
   - Registration details and deadline (if already available)
+  - Call for Proposals and guidelines for submitting content
 
 ### Community participation and accessibility
 
