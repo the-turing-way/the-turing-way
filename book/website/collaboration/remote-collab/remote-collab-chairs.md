@@ -51,7 +51,7 @@
 
 *Checklist for the designated chair of these sessions*
 
-- Share the link of the shared notes for the session along with the link to the pre-recorded lightning talks (see details in the subchapter on {ref}`organising conference<cl-remote-collab-conferences>`)
+- Share the link of the shared notes for the session along with the link to the pre-recorded lightning talks (see details in the subchapter on {ref}`organising conference<cl-remote-collab-conferences>`
 - Ask presenters who are attending the session to write down their names so that other attendees can ask questions specific to their talks
 - Allow enough time for everyone to check out multiple Lightning Talks
 - Run an open question and answer period where anyone can ask questions to any presenters; remind everyone to keep their question and response short
@@ -64,7 +64,7 @@
 
 *Checklist for the designated chair of these sessions*
 
-- Share the link of the shared notes for the session along with the link to the gallery where the posters can be browsed (see details in ({ref}`organising conference<cl-remote-collab-conferences>`)
+- Share the link of the shared notes for the session along with the link to the gallery where the posters can be browsed (see details in {ref}`organising conference<cl-remote-collab-conferences>`)
   - If short pre-recorded lightning talks on the posters are available, allow time to watch a few videos
 - Ask presenters who are attending the session to write down their names so that other attendees can ask questions specific to their talks
 - Allow enough time for everyone to ask questions on the shared document, dedicated channel (Slack or sli.do) for poster discussions
