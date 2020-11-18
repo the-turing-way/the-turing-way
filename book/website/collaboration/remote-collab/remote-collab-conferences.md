@@ -202,7 +202,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 - Establish a dedicated location for all the shared documents for different sessions with participants that they can access and edit online during the event
   - Use a standard template that can similar for all the sessions with minor adaption
-- If using a tool that is available only upon subscription, make sure that all the participants have the access
+- If using a tool that is available only upon subscription, make sure that all the participants have access
 - Share a how-to guide to ensure that everyone knows how to use the tool
 - If possible, offer help with installation and testing of the tool
 - Remind everyone to arrange microphone or headsets
