@@ -37,7 +37,7 @@ The tasks and responsibilities are listed in a chronological order and have been
   - You can use the blurring options to take your background out of focus
 - Always mute your microphone when not speaking.
 - Follow the etiquette for online meeting that should have been shared by the organisers in their protocol
-- Introduce yourself on the shared notes or verbally in short and clear sentences if a slot it assigned for that
+- Introduce yourself on the shared notes or verbally in short and clear sentences if a slot is assigned for that
 - Note the Code of Conduct facilitator's contact during the meeting, so that you can directly contact them to report any breach or issue that may occur during the call
 - When participating in a group discussion, for example, during a breakout session, be mindful that you don't use up a lot of time and give everyone a fair chance to speak and share their thoughts
 - If someone else raised their hand before you, give them a chance to speak first
