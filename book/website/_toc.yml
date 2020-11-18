@@ -182,6 +182,8 @@
       file: reproducible-research/make/make-results
     - title: Resources for "Make"
       file: reproducible-research/make/make-resources
+    - title: Appendix
+      file: reproducible-research/make/make-appendix
   - title: Research Compendia
     file: reproducible-research/compendia
   - title: Credit for Reproducible Research
