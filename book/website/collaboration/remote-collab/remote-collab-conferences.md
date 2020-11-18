@@ -3,7 +3,7 @@
 
 This document lists the various tasks for organising a longer event such as a conference or a sprint.
 The tasks and responsibilities are listed in a chronological order and have been divided into "before", "during" and "after" the meeting.
-Though created for longer events, these detailed task list can be used for planning smaller events that have less logistical requirements.
+Though created for longer events, these detailed task lists can be used for planning smaller events that have fewer logistical requirements.
 
 ## Before the event
 
