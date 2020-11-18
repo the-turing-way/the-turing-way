@@ -98,7 +98,7 @@ In _The Turing Way_ coworking calls, we find it useful to use breakout rooms whe
 Though discussed last, this should be your highest priority.
 
 You should design these calls with an intention to make everyone feel welcome, involved and safe.
-It's highly recommended to choose a Code of Conduct and put reporting guideline in place to share with everyone in advance.
+It's highly recommended to choose a Code of Conduct and put reporting guidelines in place to share with everyone in advance.
 See this minimal [CoC from Contributor Covenant](https://www.contributor-covenant.org/) and an expanded version of {ref}`The Turing Way CoC<ch-coc>`.
 Additionally, you should also communicate the basic etiquettes, such as muting microphones when not speaking or not interrupting others when working in a Pomodoro session unless necessary.
 
