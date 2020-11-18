@@ -5,7 +5,7 @@
 > This allows people - who may otherwise feel isolated while working alone at home - to use traditional office setups, create a work routine, and build a sense of companionship with others who they share their office spaces with.
 - {ref}`The Turing Way Coworking Calls<ch-coworking>`
 
-Below, I describe different aspects that you should take into consideration when planning or designing your coworking calls.
+Below are descriptions of different aspects that you should take into consideration when planning or designing your coworking calls.
 
 In our Community Handbook, we discuss coworking calls hosted for _The Turing Way__ community.
 To set up coworking calls for your community, you can repurpose and adapt the format, templates, and materials discussed in our chapter on {ref}`Coworking Calls<ch-coworking>` to support your teams and communities.
