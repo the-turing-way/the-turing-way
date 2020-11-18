@@ -99,7 +99,7 @@ If the key concept was Research Data Management, a good label could be `sectioni
 > You are encouraged to improve on them in a pull request.
 
 > End your case study by highlighting the aspect of this case that you are the most proud of, and why.
-> You may also wish to point your readers to other resources where they can learn more about your case or other relevant insights.
+> You may also wish to point your readers to other resources where they can learn more about your case or gain other relevant insights.
 
 
 <!-- IMPORTANT!
