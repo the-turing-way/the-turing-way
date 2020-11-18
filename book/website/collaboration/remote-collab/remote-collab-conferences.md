@@ -123,7 +123,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 *Establish a timeline for organising and planning the conference and share on the website*
 - Deadline for abstract submission
-- Deadline for abstract selection notifcation and program announcement
+- Deadline for abstract selection notification and program announcement
 - Deadline for application for participation support grant (equipment and internet cost)
   - Include application for participation support grant in the registration (such as equipment for remote joining, internet cost, childcare)
 - Deadline for registration
