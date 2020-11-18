@@ -89,7 +89,7 @@ The tasks and responsibilities are listed in a chronological order and have been
 - In the last part of the call, create action points and delegate them to different people while on the call
   - Ask people to volunteer to assign themselves to each task, but be inclusive and equitable in this process
 - End the meeting on time by thanking everyone and sharing the date for a next call, if any!
-- If possible, stay a few minutes extra on the call to make sure that people have a chance to clarify their questions after the meetinf
+- If possible, stay a few minutes extra on the call to make sure that people have a chance to clarify their questions after the meeting
 
 ### Breakout rooms
 
