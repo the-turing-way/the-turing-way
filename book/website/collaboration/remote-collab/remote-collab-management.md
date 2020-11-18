@@ -1,18 +1,19 @@
 (cl-remote-collab-manage-teams)=
 # Managing Distributed Teams
 
-- Clarify all Rules of Communication by relying on the Right Remote Work Tools according to the demands of the team
-- Maintain a meeting minutes and video recording of every online-meeting. 
-- Respect time differences and assign tasks accordingly
-- Maintain a central information repository for the whole team
-- Instill a culture of constructive criticism, be open to new and bold ideas
-- Encourage and embrace diversity. Keep cultural differences in mind to better relate with participants
-- Set expectations early and clearly to set up clear project roles and responsibilities
-- Discuss with team members their specific goals in the project to keep everyone accountable
-- Write down working schedule, holidays, meeting and other ground rules of teams
-- Have regular one-on-one meetings and work on team bonding, and track hours worked, attendance and other basic measures of productivity
-- Allow a degree of flexible work but also keep some consistency and also track work output
-- Maintain a consistent team direction
+In the {ref}`cl-leadership` and {ref}`cl-new-community` chapter, we discuss in detail how we can build leadership and manage a new online community.
+Those skills apply to managing distributed teams as well.
+In this subchapter, we discuss and highlight a few aspects that are specifically important for managing distributed teams.
+
+- Set clear expectations for the team members about the project and their roles and responsibilities
+- Establish all modes of communication and resources according to the team's requirements
+- Develop and maintain all the required documentation such as organisation's policies, participation guideline, project's charter and information of other team members 
+- Make all these resources available for all members through a central information repository 
+- Respect time differences when dealing with members across different time zones when assigning tasks and allow a degree of flexibility
+- Schedule team meetings to allow everyone to share what they are working on, invite contribution and support and connect with each other
+- Provide an agenda with a shared note before the meeting and share minutes (and video recording when possible) to make sure that everyone is up-to-date, even those who couldn't attend the meeting
+- Schedule regular one-on-one meetings to ensure that your team members can check-in, align ideas as per the project's requirement and get acknowledged for their work
+- Encourage and embrace diversity and a culture of collaboration
 
 ## Further reading
 
