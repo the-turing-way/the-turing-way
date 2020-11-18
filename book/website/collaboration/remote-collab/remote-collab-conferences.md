@@ -177,7 +177,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - If the session is supposed to run in parallel, create agenda based on the session topic/theme
 - In addition to the talks, have plenty of slots for breakout discussions, short workshops and other opportunities to exchange skills
 - Provide new and interesting topics that are not selected for long talks an opportunity to present their idea in short or lightning talks
-- Instead of having a live lightning talk and poster presentation, invite submission of the pre-recorded lightning talks and talks on posters that can assembled in a gallary (for example, YouTube playlist) that can be accessed by everyone
+- Instead of having a live lightning talk and poster presentation, invite submission of the pre-recorded lightning talks and talks on posters that can assembled in a gallery (for example, a YouTube playlist) that can be accessed by everyone
   - For poster sessions, create a gallery of posters online that can be broswed easily
     * Use [F1000 Research](https://f1000research.com/posters/8-400), [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/) and [Open Science Framework (OSF)](osf.io/meetings) that gives DOI to each submission, and allows browsable collections, other options are Flickers, Unsplash and google photos
     * Share link of each poster with their online video in the shared document
