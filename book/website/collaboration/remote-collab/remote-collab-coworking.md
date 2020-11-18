@@ -37,7 +37,7 @@ If you are part of a small project, you would expect the same familiar faces in 
 Many tasks go into organising a coworking call (discussed later).
 These tasks can be taken care of by one person like a community manager, project manager, or a volunteer organiser.
 However, it is always a good idea to involve more people as co-organisers so that the coworking call still happens even when the main organiser can't join for any reason.
-To avoid one person to burden themselves with "not so exciting" organisation issues, you can also decide to rotate the role within the members of your project.
+To avoid one person burdening themselves with "not so exciting" organisation issues, you can also decide to rotate the role within the members of your project.
 
 **Size of the call**
 
