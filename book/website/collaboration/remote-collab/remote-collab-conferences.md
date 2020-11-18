@@ -1,4 +1,4 @@
-(cl-remote-collab-comferences)=
+(cl-remote-collab-conferences)=
 # Organising a Conference or Sprint
 
 This document lists the various tasks for organising a longer event such as a conference or a sprint.
