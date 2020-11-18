@@ -2,6 +2,7 @@
 # Tools for Remote Collaboration
 
 <!---Add a few sentences capturing the concepts explained below--->
+Here is a list of recommended tools for facilitating different aspects of remote collaboration:
 
 - maintaining shared notes: few options are [Etherpad](https://etherpad.org/), [HackMD](https://hackmd.io/), [GitHub](https://github.com/), [Google doc](https://en.wikipedia.org/wiki/Google_Docs)
 - managing registration: few options are via shared notes, [Zoom](https://zoom.us), [Eventbrite](https://www.eventbrite.com/), [Google Form](https://en.wikipedia.org/wiki/Google_Forms)
