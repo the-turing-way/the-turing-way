@@ -100,7 +100,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
   - Software cost or subscription fee if the one being used by the event is not freely available
   - Hardware or equipment for facilitating participation, such as headset, microphone, webcam (create a list of hardware that can be funded by the support grant)
   - High speed internet for the duration of the event
-  - Other aspect that may improve the quality of participation of the applicants
+  - Other aspects that may improve the quality of participation of the applicants
 - Consider the possibility of waiving registration fee for people from low income organisation/country
 - Create a rubric for selection
 - Share the application form before the registration deadline
