@@ -17,11 +17,11 @@
 
 ## Cons
 
-- Developing camaraderie might be a bit challenging - as we are used to developing those within in-person relationships.
-- It would be hard to separating working hours from the time that should be used for personal life and relationships.
-- If running an online meeting, allocated time might not be enough for arriving to a conclusion and may sometime lead to misinterpretation of decisions made by the team.
-- Conflict resolution maybe difficult if most interactions happen in an allocated time slot.
-- Sometimes such interactions may lack body language, or tone (online chat) and may lead to misunderstanding or unnecessary conflict.
-- May lose the possibility of chanced interaction or water-cooler-effects and innovative ideas that they results.
-- People will have different working condition, for example, limited access to hardware, that can lead to wrong assumptions regarding replication of certain task
-- May lead to distractions if working from a busy co-working space or home with not sufficient arrangement for work that can make it difficult for some people to focus and have disciplined work practices.
+- Developing camaraderie may be challenging as we are used to developing this in-person
+- The boundaries between working life and personal life become more blurred
+- If running an online meeting, the allocated time might not be enough to arrive at a conclusion and may sometime lead to misinterpretation of decisions made by the team
+- Conflict resolution maybe difficult if most interactions happen in an allocated time slot
+- Sometimes such interactions may lack body language or tone (online chat) and may lead to misunderstanding or unnecessary conflict
+- May lose the possibility of chanced interaction or water-cooler-effects and innovative ideas that they produce
+- People will have different working conditions, for example, limited access to hardware that can lead to wrong assumptions regarding replication of certain task
+- May be distracting if working from a busy co-working space or home without a sufficient arrangement for work that can make it difficult for some people to focus and have disciplined work practices
