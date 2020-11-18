@@ -5,7 +5,7 @@
 *Checklist for the chair of the designated talk*
 
 - Coordinate with the organisers regarding the schedule, exact responsibilities and other people involved in the event they'll chair
-- Coordinate witha  designated note-taker, or be ready to assign one in the beginning of the event
+- Coordinate with a  designated note-taker, or be ready to assign one in the beginning of the event
 - Share the link to the notes or shared document with all the attendees
 - Remind everyone of the Code of the Conduct contact person in case something needs to be reported
 - Introduce the speaker and note-takers (and sign language interpreter if available)
