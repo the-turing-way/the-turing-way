@@ -194,7 +194,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - Treat social events in your program as seriously as any other session; discuss this with the organising committee and agree on social events that are good fits for your community
   - Confirm leaders for these social activities
 - Create shared documents for all the selected talks, sessions and social events to be shared with the participants
-  - Save all the shared document in one location (or create a common location with their link) so all the participants can browse them during and after the event
+  - Save all the shared documents in one location (or create a common location with their link) so all the participants can browse them during and after the event
 
 ### Documents and tools for participants
 
