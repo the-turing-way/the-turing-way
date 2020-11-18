@@ -150,7 +150,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 ### Community suggestion and feedback forms
 
 ***Mid-phase***
-*Choose a standard platform to manage all your forms, for example, [Surveymonkey](https://www.surveymonkey.com/) or [Google forms](https://www.google.com/forms/about/), with a statement on how do you ensure the security of the data collected*
+*Choose a standard platform to manage all your forms, for example, [Surveymonkey](https://www.surveymonkey.com/) or [Google forms](https://www.google.com/forms/about/), with a statement on how you ensure the security of the data collected*
 
 - Theme suggestion form
 - Speakers suggestion form
