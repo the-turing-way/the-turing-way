@@ -49,7 +49,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Create a reporting guideline for any question, concern or breach of Code of Conduct
 - Describe how you intend to create an inclusive event, for example, will there be a sign language interpreter or live transcription
 - Create one single location for all the information (like an A-to-Z) regarding the events
-- Host a few community calls in different stages of planning to involve the audience into the planning process
+- Host a few community calls in different stages of planning to involve the audience in the process
 - Invite volunteers who can help you troubleshoot some specific issues
 - Allow flexibility for the participants to join the call from anywhere
   - Clearly communicate if the event can be attended with pets or children, when attending from home
