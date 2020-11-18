@@ -115,7 +115,7 @@ You should be aware of all the possible harm that your work could cause, not onl
 
 Contract law is the branch of law which handles how contracts - legal agreements between parties - are enforced.
 You should know the terms of contracts you have signed, and what those terms mean.
-You should also know under which jurisdiction covers the contract you have signed (this should be in the contract). 
+You should also know which jurisdiction covers the contract you have signed (this should be in the contract). 
 
 Ethical work can also include thinking critically about contracts.
 You should think about what obligations you are signing up for when you sign a contract.
