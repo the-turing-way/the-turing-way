@@ -218,8 +218,8 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 - Organise a pre-event call for the organising committee to cross-check if all the materials for the event are sorted and have been made available to everyone
 - Arrange a conference call(s) with volunteers, speakers, session leads and chairs to communicate the guidelines and discuss their responsibilities during the event
-- Create the collaborative document to collect questions from participants and document answers, that can be shared with those who can't attend this call
-- Arrange a separate conference call(s) with the participants to answer their questions related to the event, and also use collaborative note to share the main discussion points
+- Create a collaborative document to collect questions from participants and document answers and share it with those who can't attend the call
+- Arrange a separate conference call(s) with the participants to answer their questions related to the event and also use collaborative notes to share the main discussion points
 - Test the technical infrastructure with everyone and help set up any software that is needed during the event
 - Share important contact details (committee chairs, code of conduct contact person) with everyone
 - Keep this meeting informal and have as many helpers as possible who can help individuals in breakout rooms
