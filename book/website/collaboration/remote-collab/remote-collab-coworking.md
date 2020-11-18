@@ -7,7 +7,7 @@
 
 Below are descriptions of different aspects that you should take into consideration when planning or designing your coworking calls.
 
-In our Community Handbook, we discuss coworking calls hosted for _The Turing Way__ community.
+In our Community Handbook, we discuss coworking calls hosted for _The Turing Way_ community.
 To set up coworking calls for your community, you can repurpose and adapt the format, templates, and materials discussed in our chapter on {ref}`Coworking Calls<ch-coworking>` to support your teams and communities.
 
 ## Designing a format the works for you
