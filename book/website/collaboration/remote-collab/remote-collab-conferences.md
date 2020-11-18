@@ -206,7 +206,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - Share a how-to guide to ensure that everyone knows how to use the tool
 - If possible, offer help with installation and testing of the tool
 - Remind everyone to arrange microphone or headsets
-  - If possible, provide the possibility to request for a grant to buy simple types of equipment such as headphones, webcams, and high-speed internet
+  - If possible, provide a grant to buy necessary equipment such as headphones, webcams, and/or high-speed internet
 - Share the participation guideline, code of conduct and contact information of people who can help with any issues regarding the meeting
 - Send a reminder with the links to the document and other important resources to all the participant a week and a day in advance
 - Create slides or presentation that might be needed from organiser's side (welcome, wrap up)
