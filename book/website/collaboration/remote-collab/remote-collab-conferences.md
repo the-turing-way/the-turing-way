@@ -77,7 +77,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Establish a common location for storing and sharing documentation
 - All organisers should have access to all documentation used for planning and organisation
 - Create a single page summary for the organisers listing the available resources with their links
-- Have meetings periodically to list and create an overview the immediate task, check with people who these tasks are delegated to and plan the next steps till the next meeting
+- Have meetings periodically to list and create an overview of the immediate task(s), check with people who these tasks are delegated to and plan the next steps to take before the next meeting
 - Maintain notes from each call and share with all the members in the organising committee
 
 ### Budget
