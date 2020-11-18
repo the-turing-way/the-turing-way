@@ -141,7 +141,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Clearly explain why you’re asking for sensitive information and how will you handle those data
 - If you ask an optional question, make it clear that it’s optional
 - Do not rely on colour to communicate your questions
-- Provide clear explanations for complicated questions to guide people to choose the correct answer/option
+- Provide clear explanations for complicated questions to guide people towards choosing the correct answer/option
 - Sequence your questions logically after each other
 - Provide contact information of the committee member who can be contacted regarding any error or question related to registration
 - Clearly state the next steps upon clicking the submit button
