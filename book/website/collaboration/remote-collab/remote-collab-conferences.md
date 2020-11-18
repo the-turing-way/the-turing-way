@@ -29,7 +29,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Take accessibility aspects into account (font size, color, background)
 - State everything clearly and in simple words
 - Provide contact details of people with clearly stated roles and responsibilities
-- Grant edit rights to more than one member in the committee members across different time zones
+- Grant edit rights to more than one member in the committee (or subcommittee) across different time zones
 - Have clearly defined sections for different information
   - General information and format of the event
   - Draft schedule
