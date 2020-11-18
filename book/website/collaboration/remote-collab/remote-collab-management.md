@@ -13,3 +13,7 @@
 - Have regular one-on-one meetings and work on team bonding, and track hours worked, attendance and other basic measures of productivity
 - Allow a degree of flexible work but also keep some consistency and also track work output
 - Maintain a consistent team direction
+
+## Further reading
+
+- Read this post by Zapier on [How to Manage a Remote Team](https://zapier.com/learn/remote-work/how-manage-remote-team/)
