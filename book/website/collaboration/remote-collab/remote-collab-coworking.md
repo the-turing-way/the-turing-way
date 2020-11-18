@@ -2,7 +2,7 @@
 # Organising Online Coworking Calls
 
 > The concept of coworking is generally associated with the practice of sharing physical office space with different people who work independently such as remote employees or freelancers.
-> This allows people, who otherwise may feel isolated while working alone at home, to use traditional office setups, create a work routine, and build a sense of companionship with others who they share their office spaces with.
+> This allows people - who may otherwise feel isolated while working alone at home - to use traditional office setups, create a work routine, and build a sense of companionship with others who they share their office spaces with.
 - {ref}`The Turing Way Coworking Calls<ch-coworking>`
 
 Below, I describe different aspects that you should take into consideration when planning or designing your coworking calls.
