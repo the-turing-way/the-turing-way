@@ -13,6 +13,8 @@ The main idea is to set a clear guideline around expectations on communication t
 - How to gain access to these resources and tool
 - Improving visibility and accessibility for these tools
 
+For a list of collaborative tools see {ref}`this subchapter<cl-remote-collab-tools>`.
+
 ## Different ways for informal interactions
 <!---Add details and more points point to other chapters for details--->
 - Encouraging casual team conversations between meetings
