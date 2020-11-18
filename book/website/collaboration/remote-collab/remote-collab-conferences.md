@@ -5,6 +5,7 @@ This document lists the various tasks for organising a longer event such as a co
 The tasks and responsibilities are listed in a chronological order and have been divided into "before", "during" and "after" the meeting.
 Though created for longer events, these detailed task lists can be used for planning smaller events that have fewer logistical requirements.
 
+(cl-remote-collab-conferences-before)=
 ## Before the event
 
 The different subsections are marked as "Earlier-phase", "Mid-phase", and "Later-phase", based on their importance at the different phases of organisation.
