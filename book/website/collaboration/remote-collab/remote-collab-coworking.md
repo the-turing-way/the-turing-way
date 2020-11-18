@@ -88,7 +88,7 @@ Once you have found a schedule (date, time and frequency), the following tasks w
 It is particularly crucial to use meeting links like [arewemeetingyet](arewemeetingyet.com/) for communicating these schedules for members from different countries so that they can see the time in their time zones.
 
 For hosting these calls, you can reuse and adapt the agenda, techniques and templates described in the earlier chapters.
-You main tasks as a host will be to:
+Your main tasks as a host will be to:
 - provide adequate support to the participants so that they can make the best of their time.
 In _The Turing Way_ coworking calls, we find it useful to use breakout rooms when there are many people working in small groups or if some people need more discussions, while others want to quietly work on their tasks.
 - facilitate shared notes with participants before, during and after the call, so that they can keep track of useful resources or ideas they discuss during the coworking call.
