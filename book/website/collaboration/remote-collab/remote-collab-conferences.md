@@ -239,7 +239,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 ***Relevant for all phases***
 
-- Use organisation logo for promoting this event only if agreed by the organisation leadership, else invite logo designs from the community
+- Use organisation logo for promoting this event only if agreed by the organisation leadership, otherwise invite logo designs from the community
 - Use social media to engage with the community
   - Reach out to them as frequently as possible during decision making
 - Use online store to sell swag to allow people to buy them before or during the event
