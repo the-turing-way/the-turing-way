@@ -7,7 +7,7 @@
 
 - Remote collaboration dramatically improves the life quality of those who cannot comfortably travel or afford to live close to their office.
   - It has a positive impact on the environment by reducing travel related CO2 emissions
-- A well established format work well equally for low resource environment as the overall organisational cost can be reduced by not having to deal with on site expense
+- A well established format works equally well for low resource environments as the overall organisational cost can be reduced by not having to deal with on site expense
 - Distributed team format attracts people from different time zones, different workplace requirements or those who work best with flexible working hour arrangement.
 - This can lead to innovative way to establish social interactions and social dynamics in general
 - It will help us learn about more colleagues from different parts of the world and make us more educated about our cultural differences and how to accommodate in our work environment
