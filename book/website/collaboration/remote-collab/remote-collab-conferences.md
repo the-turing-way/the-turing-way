@@ -14,167 +14,169 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 ### The organising committee for the event
 
 ***Earlier-phase***
-- To make organising truly inclusive, include different stakeholders from the community, organisation, and members from diverse backgrounds in the committee
-- If the organising committee has members across different time zones, the event can be held in a distributed manner
-- Have 1-2 committee chairs who can capture the overview of the entire team's work
-- Divide the full committee into smaller subcommittees by different tasks and responsibilities
-- Identify chairs for the subcommittees and allow members to join more than one subcommittee
-- Have a common place for documentation and interaction channels to keep communication transparent
+- To make organising truly inclusive, include different stakeholders from the community, organisation, and members from diverse backgrounds in the committee.
+- If the organising committee has members across different time zones, the event can be held in a distributed manner.
+- Have 1-2 committee chairs who can capture the overview of the entire team's work.
+- Divide the full committee into smaller subcommittees by different tasks and responsibilities.
+- Identify chairs for the subcommittees and allow members to join more than one subcommittee.
+- Have a common place for documentation and interaction channels to keep communication transparent.
 
 ### Website for the event (preplanning)
 
 ***Earlier-phase***
+
 *If possible, create a subcommittee dedicated for designing the website and maintaining online communication*
 
-- Take accessibility aspects into account (font size, colour, background)
-- State everything clearly and in simple words
-- Provide contact details of people with clearly stated roles and responsibilities
-- Grant edit rights to more than one member in the committee (or subcommittee) across different time zones
-- Have clearly defined sections for different information
-  - General information and format of the event
-  - Draft schedule
-  - Theme and target audience
-  - Details on the tools that will be used for connecting
-  - Sponsors (if any)
-  - Registration details and deadline (if already available)
-  - Call for Proposals and guidelines for submitting content
+- Take accessibility aspects into account (font size, colour, background).
+- State everything clearly and in simple words.
+- Provide contact details of people with clearly stated roles and responsibilities.
+- Grant edit rights to more than one member in the committee (or subcommittee) across different time zones.
+- Have clearly defined sections for different information, such as:
+  - General information and format of the event.
+  - Draft schedule.
+  - Theme and target audience.
+  - Details about the tools that will be used for connecting.
+  - Sponsors (if any).
+  - Registration details and deadline (if already available).
+  - Call for proposals and guidelines for submitting content.
 
 ### Community participation and accessibility
 
 ***Relevant for all phases***
 
-- Choose a Code of Conduct that captures your organisation and community values
-- Describe your community participation guidelines
-- Create possibilities for people to ask for support to attend your event
-- Create a reporting guideline for any question, concern or breach of Code of Conduct
-- Describe how you intend to create an inclusive event, for example, will there be a sign language interpreter or live transcription
-- Create one single location for all the information (like an A-to-Z) regarding the events
-- Host a few communities calls in different stages of planning to involve the audience in the process
-- Invite volunteers who can help you troubleshoot some specific issues
-- Allow flexibility for the participants to join the call from anywhere (including from home)
-  - Clearly state what are the size limits for the groups that join remotely (or if individual participation is preferred even when joining from the same location)
+- Choose a Code of Conduct that captures your organisation and community values.
+- Describe your community participation guidelines.
+- Create possibilities for people to ask for support to attend your event.
+- Create a reporting guideline for any questions, concerns or breaches of the Code of Conduct.
+- Describe how you intend to create an inclusive event, for example, will there be a sign language interpreter or live transcription.
+- Create one single location for all the information (like an A-to-Z) regarding the events.
+- Host a few community calls in different stages of planning to involve the audience in the process.
+- Invite volunteers who can help you troubleshoot some specific issues.
+- Allow flexibility for the participants to join the call from anywhere (including from home).
+  - Clearly state what are the size limits for the groups that join remotely (or if individual participation is preferred even when joining from the same location).
 
 ### Communication channel
 
 ***Relevant for all phases***
 
-- A dedicated Slack or Gitter channel within the organisation account for the event
-- Have a private channel for the organisers
-- If working in subcommittees, create channels for the subcommittees to post relevant progress
-- Create a channel for the community where they can receive updates and engage with each other regarding the event
-- Create appropriate channels for the registered participants (general, introduction, social, program)
-- Have an announcement channel that can be used for announcing important information by the committee members
-- If the organisation account is not open for others to join, then create an open channel for participants
-- Create a social media account on Twitter for announcements, branding, improving visibility and wider outreach
-  - Assign 1-2 volunteers or committee members who can handle social media in collaboration with the committee
+- A dedicated Slack or Gitter channel within the organisation account for the event.
+- Have a private channel for the organisers.
+- If working in subcommittees, create channels for the subcommittees to post relevant progress.
+- Create a channel for the community where they can receive updates and engage with each other regarding the event.
+- Create appropriate channels for the registered participants (general, introduction, social, program).
+- Have an announcement channel that can be used for announcing important information by the committee members.
+- If the organisation account is not open for others to join, then create an open channel for participants.
+- Create a social media account on Twitter for announcements, branding, improving visibility and wider outreach.
+  - Assign 1-2 volunteers or committee members who can handle social media in collaboration with the committee.
 
 ### Storing and sharing information within the organising committee
 
 ***Relevant for all phases***
 
-- Use a common, and if possible, single resource management system (like GitHub, Google drive, website) that is easily searchable for storing **organisation related documents**
-- Establish a common location for storing and sharing documentation
-- All organisers should have access to all documentation used for planning and organisation
-- Create a single page summary for the organisers listing the available resources with their links
-- Have meetings periodically to list and create an overview of the immediate task(s), check with people who these tasks are delegated to and plan the next steps to take before the next meeting
-- Maintain notes from each call and share with all the members in the organising committee
+- Use a common, and if possible, single resource management system (like GitHub, Google drive, website) that is easily searchable for storing **organisation related documents**.
+- Establish a common location for storing and sharing documentation.
+- All organisers should have access to all documentation used for planning and organisation.
+- Create a single page summary for the organisers listing the available resources with their links.
+- Have meetings periodically to list and create an overview of the immediate task(s), check with people who these tasks are delegated to and plan the next steps to take before the next meeting.
+- Maintain notes from each call and share with all the members in the organising committee.
 
 ### Budget
 
 ***Mid-phase***
 
-- Allocate sufficient budget for organising this event (for example for the tools, equipment and childcare)
-- First place to confirm your budget and support for handling it is your organisation
-- Looking for sponsorship early on is always a good idea
-  - In the early phase, even though not all the information is sorted, use the website to attract sponsors
-- Decide how big your event should be based on the available resource (such as online communication tools, assigned budget of the event, size of your community)
-- Calculate how much to make the registration fee if no sponsorship is gained
+- Allocate sufficient budget for organising this event (for example for the tools, equipment and childcare).
+- First place to confirm your budget and support for handling it is your organisation.
+- Looking for sponsorship early on is always a good idea.
+  - In the early phase, even though not all the information is sorted, use the website to attract sponsors.
+- Decide how big your event should be based on the available resource (such as online communication tools, assigned budget of the event, size of your community).
+- Calculate how much to make the registration fee if no sponsorship is gained.
 
 ### Participation support grants
 
 ***Mid-phase***
 
-- Allocate part of your budget for the participation support grant that can be requested by the applicants for the following support
-  - Free or subsidized childcare during the event so that the participant can attend the event without worrying about taking care of their children
-  - Software cost or subscription fee if the one being used by the event is not freely available
-  - Hardware or equipment for facilitating participation, such as headsets, microphone, webcam (create a list of hardware that can be funded by the support grant)
-  - High-speed internet for the duration of the event
-  - Other aspects that may improve the quality of participation of the applicants
-- Consider the possibility of waiving the registration fee for people from low-income organisation/country
-- Create a rubric for selection
-- Share the application form before the registration deadline
-- Communicate clearly how many participation support grants are available and what they include
-- Send decision for participation support grant applicants as soon as possible so that they can decide if they can register to attend the event
+- Allocate part of your budget for the participation support grant that can be requested by the applicants for the following support:
+  - Free or subsidized childcare during the event so that the participant can attend the event without worrying about taking care of their children.
+  - Software cost or subscription fee if the one being used by the event is not freely available.
+  - Hardware or equipment for facilitating participation, such as headsets, microphone, webcam (create a list of hardware that can be funded by the support grant).
+  - High-speed internet for the duration of the event.
+  - Other aspects that may improve the quality of participation of the applicants.
+- Consider the possibility of waiving the registration fee for people from low-income organisation/country.
+- Create a rubric for selection.
+- Share the application form before the registration deadline.
+- Communicate clearly how many participation support grants are available and what they include.
+- Send decision for participation support grant applicants as soon as possible so that they can decide if they can register to attend the event.
 
 ### Event theme and duration
 
 ***Mid-phase***
 
-- Identify your target audience within your community and organisation
-- Invite community members to suggest ideas and collectively choose the most relevant theme
-- Identify the most suitable time zone and the duration of the event
-- Use a standard time with a link to different time zones (like [arewemeetingyet](arewemeetingyet.com)) when communicating about the event
-- Add the exact date, time, location (if any!) and choice of tool that will be used for communication
+- Identify your target audience within your community and organisation.
+- Invite community members to suggest ideas and collectively choose the most relevant theme.
+- Identify the most suitable time zone and the duration of the event.
+- Use a standard time with a link to different time zones (like [arewemeetingyet](arewemeetingyet.com)) when communicating about the event.
+- Add the exact date, time, location (if any!) and choice of tool that will be used for communication.
 
 ### Define timeline and invite applications
 
 ***Mid-phase***
 
 *Establish a timeline for organising and planning the conference and share on the website*
-- Deadline for abstract submission
-- Deadline for abstract selection notification and program announcement
-- Deadline for application for participation support grant (equipment and internet cost)
-  - Include application for participation support grant in the registration (such as equipment for remote joining, internet cost, childcare)
-- Deadline for registration
-- Deadline for announcing the selected participation support grant awardees
-- Deadline for registration cancellation
-- Establish a rubric for selection of the talks and sessions
-- Invite abstracts for talks and sessions and share rubrics for selection
+- Deadline for abstract submission.
+- Deadline for abstract selection notification and program announcement.
+- Deadline for application for participation support grant (equipment and internet cost).
+  - Include application for participation support grant in the registration (such as equipment for remote joining, internet cost, childcare).
+- Deadline for registration.
+- Deadline for announcing the selected participation support grant awardees.
+- Deadline for registration cancellation.
+- Establish a rubric for selection of the talks and sessions.
+- Invite abstracts for talks and sessions and share rubrics for selection.
 
 ### Create a registration form
 
 ***Mid-phase***
 
-- If possible use a registration platform such as [Eventbrite](https://www.eventbrite.com/) that stores data centrally, works on most browsers, and enables secure credit card payment
+- If possible use a registration platform such as [Eventbrite](https://www.eventbrite.com/) that stores data centrally, works on most browsers, and enables secure credit card payment.
 - Collect participant details like their name, email, affiliation, accessibility requirements, motivation for participating, and agreement to the privacy statement.
-- Clearly explain why you’re asking for sensitive information and how will you handle those data
-- If you ask an optional question, make it clear that it’s optional
-- Do not rely on colour to communicate your questions
-- Provide clear explanations for complicated questions to guide people towards choosing the correct answer/option
-- Sequence your questions logically after each other
-- Provide contact information of the committee member who can be contacted regarding any error or question related to registration
-- Clearly state the next steps upon clicking the submit button
-- Link the registration form clearly on the webpage and advertise across different community platforms
+- Clearly explain why you’re asking for sensitive information and how will you handle those data.
+- If you ask an optional question, make it clear that it’s optional.
+- Do not rely on colour to communicate your questions.
+- Provide clear explanations for complicated questions to guide people towards choosing the correct answer/option.
+- Sequence your questions logically after each other.
+- Provide contact information of the committee member who can be contacted regarding any errors or questions related to registration.
+- Clearly state the next steps upon clicking the submit button.
+- Link the registration form clearly on the webpage and advertise across different community platforms.
 
 ### Community suggestion and feedback forms
 
 ***Mid-phase***
-*Choose a standard platform to manage all your forms, for example, [Surveymonkey](https://www.surveymonkey.com/) or [Google forms](https://www.google.com/forms/about/), with a statement on how you ensure the security of the data collected*
 
-- Theme suggestion form
-- Speakers suggestion form
-- Participation support application form
-- Sponsorship interest form for those who need grants to facilitate their participation
-- Abstract submission form for talks (options for the keynote, long, short, lightning talks)
-- Abstract submission form for workshop, up-skilling or breakout session (options for the different lengths of the session)
-- Ideas and leaders for social events
-- Form to collect community vote on the submitted sessions and social activities
-- Final feedback form for participants (can be created in the later stage before the event)
-- Feedback form for the chairs, helpers, speakers and notetakers (can be created shortly before the event)
+*Choose a standard platform to manage all your forms, for example, [Surveymonkey](https://www.surveymonkey.com/) or [Google forms](https://www.google.com/forms/about/), with a statement on how you ensure the security of the data collected*.
+
+- Theme suggestion form.
+- Speakers suggestion form.
+- Participation support application form.
+- Sponsorship interest form for those who need grants to facilitate their participation.
+- Abstract submission form for talks (options for the keynote, long, short, lightning talks).
+- Abstract submission form for workshop, up-skilling or breakout session (options for the different lengths of the session).
+- Ideas and leaders for social events.
+- Form to collect community vote on the submitted sessions and social activities.
+- Final feedback form for participants (can be created in the later stage before the event).
+- Feedback form for the chairs, helpers, speakers and notetakers (can be created shortly before the event).
 
 ### Program
 
 ***Later-phase***
 
-*Agree as a committee, what the rough agenda for the event's program will be. Create slots for keynotes, breakout discussions, workshops, poster and lightning talk session.
+*Agree as a committee and what the rough agenda for the event's program will be. Create slots for keynotes, breakout discussions, workshops, poster and lightning talk session.
 Provide designated time slots for social events in the main program.
 Make sure that after each talk/session there is 5 minutes break to allow people to log in to the right online call link, switch rooms, ask a logistics-related question.
-Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
+Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 
-- Identify speakers and sessions for the event from the selected abstracts for the talks and community voted sessions
-- Create a well-balanced agenda that covers the intended theme of the event
-- If the session is supposed to run in parallel, create an agenda based on the session topic/theme
-- In addition to the talks, have plenty of slots for breakout discussions, short workshops and other opportunities to exchange skills
+- Identify speakers and sessions for the event from the selected abstracts for the talks and community voted sessions.
+- Create a well-balanced agenda that covers the intended theme of the event.
+- If the session is supposed to run in parallel, create an agenda based on the session topic/theme.
+- In addition to the talks, have plenty of slots for breakout discussions, short workshops and other opportunities to exchange skills.
 - Provide new and interesting topics that are not selected for long talks an opportunity to present their idea in short or lightning talks
 - Instead of having a live lightning talk and poster presentation, invite submission of the pre-recorded lightning talks and talks on posters that can be assembled in a gallery (for example, a YouTube playlist) that can be accessed by everyone
   - For poster sessions, create a gallery of posters online that can be browsed easily
