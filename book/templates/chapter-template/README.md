@@ -39,6 +39,8 @@ This new chapter template will guide you in creating content for all the files y
 Below, we explain what each file is and where they are located. 
 We encourage you to use them to structure your content.
 
+> **NOTE:** The order in which we introduce these files is the order they should appear in the table of contents.
+
 ### `chapter-landing-page.md`:
 
 At the top-level of the `chapter-template` folder, you will find the [`chapter-landing-page.md`](templates/chapter-template/chapter-landing-page.md) file where you can write content for your chapter's landing page.
@@ -66,7 +68,7 @@ Much like a Guide-wide [case study](book/templates/case-study-template/case-stud
 
 Including a personal story in your chapter is optional; However, readers will greatly benefit from a real world application of the key ideas your chapter introduces.
 
-Structure-wise, personal stories come before a chapter's checklist and resources in the table of contents. 
+Structure-wise, personal stories come right before a chapter's checklist and resources in the table of contents. 
 It should also be added to the chapter's sub-folder
 
 
