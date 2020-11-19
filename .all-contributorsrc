@@ -2092,6 +2092,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "wna-se",
+      "name": "Wolmar Nyberg Åkerström",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1221165?v=4",
+      "profile": "https://github.com/wna-se",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
