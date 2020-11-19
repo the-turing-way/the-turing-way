@@ -1,7 +1,21 @@
 # Citing and Referencing
 
-We maintain a centralised [bibtex](http://www.bibtex.org/) file containing all references.
-The file is located within this repository in the file [`./book/website/_bibliography/references.bib`][turingbib].
+We maintain a centralised [BibTeX](http://www.bibtex.org/) file containing all references.
+The file is located within this repository in the file
+[`./book/website/_bibliography/references.bib`][turingbib].
+
+## BibTeX file basics
+
+BibTeX files are a way to format lists of references in a structured way.
+Basic elements of an entry include a reference type, a unique citation key, and a series of key-value pairs that describe the reference (for example, author or title).
+
+There are a number of keywords for different references types in BibTeX.
+Luckily, there are tools to help format references into BibTeX syntax.
+If you know the DOI for your reference, you can use [doi2bib](https://doi2bib.org/) to help populate a good enough BibTeX entry.
+For example, [here](https://doi2bib.org/bib/https://doi.org/10.5281/zenodo.3233853) is a good enough BibTeX entry for The Turing Way handbook itself.
+Another good tool is [Google Scholar](https://scholar.google.com/), where you search for a reference, click on the large double quotes `"`, and then click on "BibTeX" near the bottom.
+
+Examples of listing a BibTeX-formatted reference are shown below.
 
 ## Adding a new reference in `references.bib`
 
