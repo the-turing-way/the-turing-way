@@ -2065,6 +2065,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "glumand",
+      "name": "glumand",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/55833875?v=4",
+      "profile": "https://github.com/glumand",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "projectName": "the-turing-way",
