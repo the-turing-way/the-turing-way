@@ -1,16 +1,16 @@
 # Citing and Referencing
 
 We maintain a centralised [bibtex](http://www.bibtex.org/) file containing all references.
-The file is located within this repository in the file `./book/website/_bibliography/references.bib`.
+The file is located within this repository in the file [`./book/website/_bibliography/references.bib`][turingbib].
 
 ## Adding a new reference in `references.bib`
 
 You can edit references locally using a method from the following:
 
-- Edit `references.bib` directly using a text editor
-- Edit `references.bib` directly using a managing program such as [JabRef](http://www.jabref.org/) (linux, windows, macOS) or [BibDesk](https://bibdesk.sourceforge.io/) (macOS)
+- Edit [`references.bib`][turingbib] directly using a text editor
+- Edit [`references.bib`][turingbib] directly using a managing program such as [JabRef](http://www.jabref.org/) (Linux, Windows, macOS) or [BibDesk](https://bibdesk.sourceforge.io/) (macOS)
 
-For example, say we have an entry in the `references.bib` file as:
+For example, say we have an entry in the [`references.bib`][turingbib] file as:
 
 ```
 @article{Kuula2010archiving,
@@ -46,10 +46,10 @@ To include a citation in your content, we follow the recommendation by [JupyterB
 
 The key concepts are:
 
-- Include a reference using {cite}`CITEKEY`, where `CITEKEY` is the corresponding citation key in `references.bib`
+- Include a reference using {cite}`CITEKEY`, where `CITEKEY` is the corresponding citation key in [`references.bib`][turingbib]
 - You can also include multiple citations in one go by separating the CITEKEYs by a comma: `{cite}CITEKEY1,CITEKEY2,CITEKEY3`
 
-We will cite the article that we edit earlier in the `reference.bib` file using:
+We will cite the article that we edit earlier in the [`reference.bib`][turingbib] file using:
 
 ```
 {cite}`Kuula2010archiving`
@@ -64,3 +64,5 @@ The complete bibliography entry is available at the end of this book (see {ref}`
 ```
 
 For the advanced usage, see the the [documentation by sphinxcontrib-bibtex](https://sphinxcontrib-bibtex.readthedocs.io/en/latest/usage.html), which is a Sphinx extension for BibTeX style citations.
+
+[turingbib]: https://github.com/alan-turing-institute/the-turing-way/blob/master/book/website/_bibliography/references.bib
