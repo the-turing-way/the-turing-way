@@ -82,7 +82,7 @@
 - Host loosely themed social events so that the participants know what to expect, most importantly keep the theme and format informal
 - Keep these sessions longer than what they would be in an in-person event, for example, 2 hours lunch instead of 1 hour
 - Don't keep these sessions too late in the day, remember that your attendees may not want to spend extra hours on the online call for a variety of reasons
-- Start the online call 30 minutes before the actual event starts, and keep the call running for 30 minutes after the main event is over
+- Start the online call at least 15 minutes before the actual event starts, and keep the call running for 5-15 minutes after the main event is over
 - Share the collaborative notes with an agenda or a plan, links to join the call from the session or a social event chat system (for example, Slack) - an agenda will help attendees to be prepared of what to expect at the event
 - Start with an informal ice breaker - allow everyone to introduce them to everyone on the call
 - Follow the "show, don't tell" format, such as visual artefacts in the session format as much as possible
