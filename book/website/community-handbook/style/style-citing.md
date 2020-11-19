@@ -38,7 +38,7 @@ Where:
 
 1. `Author` is the surname of the first author (`Kuula` above)
 2. `YYYY` is the year (`2010` above)
-3. `word` is the first meaningful word in the title (`archiving` above). Note, this is subjective – choose a name that makes it easy to remember the reference when you see the citation key.
+3. `word` is the first meaningful word in the title (`archiving` above). Note, this is subjective―choose a name that makes it easy to remember the reference when you see the citation key.
 
 ## Adding a new reference
 
