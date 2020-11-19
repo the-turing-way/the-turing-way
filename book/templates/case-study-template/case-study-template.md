@@ -1,12 +1,11 @@
-<!-- 
-
-> Each guide has a case studies chapter contains multiple case studies. 
-A case study should be a modular subchapter, but it can have more than one example.
-
--->
-
 (sectioninitials-filename)=
 # Case Study Title
+
+***Please remove all the Blockquotes (sentences that start with ">")***
+
+> Each guide has a case studies chapter contains multiple case studies. 
+> A case study should be a modular subchapter, but it can have more than one example.
+
 **By Author 1, Author 2, ...**
 
 > Try to keep your title short and concise.
@@ -37,15 +36,9 @@ A case study should be a modular subchapter, but it can have more than one examp
 (sectioninitials-filename-elements)=
 ## Elements of {Guide Name}
 
-<!--
-
-Title this section appropriately depending on the Guide your case study is for.
-
-For example, if your case study is for the Guide for Collaboration, the title of this section should be `Elements of Collaboration`.
-
-Similarly, if your case study is for the Guide for Project Design, then the title of this section should be `Elements of Project Design`.
-
--->
+> Title this section appropriately depending on the Guide your case study is for.
+> For example, if your case study is for the Guide for Collaboration, the title of this section should be `Elements of Collaboration`.
+> Similarly, if your case study is for the Guide for Project Design, then the title of this section should be `Elements of Project Design`.
 
 > **Highlight the main concepts from the Guide that are relevant to your case study.**
 > For example, if your case study is for the Guide for Reproducible Research, you may want to briefly emphasise how Version Control was (or was not) integral for making your work reproducible.
@@ -58,13 +51,8 @@ Similarly, if your case study is for the Guide for Project Design, then the titl
 (sectioninitials-filename-elements-concept1)=
 ### Relevant Concept 1
 
-<!-- 
-
-Replace the `concept1` portion of the label at the top of the header with a word (or acronym) that describes the concept you are focusing on in this section.
-
-If the key concept was Research Data Management, a good label could be `sectioninitials-filename-elements-rdm`. 
-
--->
+> Replace the `concept1` portion of the label at the top of the header with a word (or acronym) that describes the concept you are focusing on in this section.
+> If the key concept was Research Data Management, a good label could be `sectioninitials-filename-elements-rdm`. 
 
 > Use this section to expatiate on the importance of the key concept in your case, explaining _how_ and _why_ it helped (or did not help).
 
@@ -72,7 +60,6 @@ If the key concept was Research Data Management, a good label could be `sectioni
 > Remember to refer to the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) for relevant recommendations as you write.
 
 > **NOTE**: If your case study relied on several concepts expressed in the Guide, be sure to explain each one in its own section
-
 
 (sectioninitials-filename-challenges)=
 ## Challenges
@@ -101,25 +88,18 @@ If the key concept was Research Data Management, a good label could be `sectioni
 > End your case study by highlighting the aspect of this case that you are the most proud of, and why.
 > You may also wish to point your readers to other resources where they can learn more about your case or gain other relevant insights.
 
+## BEFORE YOU GO
 
-<!-- IMPORTANT!
+> - Use this template to create your case study.
+> - Refrain from writing very long content as readers may be unwilling to read them. Rather, make your case studies as modular possible. You may even make them a series if necessary.
+> - Have a look at the Style Guide and the Maintaining Consistency chapters to ensure that you have followed the relevant recommendations on
+>  - Avoiding HTML
+> - Consecutive headers
+> - Labels and cross referencing
+> - Using images
+> - Latin abbreviations
+> - References and citations
+> - Title casing
+> - Matching headers with reference in table of content
 
-- Use this template to create your case study.
-- Refrain from writing very long content as readers may be unwilling to read them. Rather, make your case studies as modular possible. You may even make them a series if necessary.
-
-
-
-BEFORE YOU GO
-
-- Have a look at the Style Guide and the Maintaining Consistency chapters to ensure that you have followed the relevant recommendations on
-  - Avoiding HTML
-  - Consecutive headers
-  - Labels and cross referencing
-  - Using images
-  - Latin abbreviations
-  - References and citations
-  - Title casing
-  - Matching headers with reference in table of content
-
--->
 
