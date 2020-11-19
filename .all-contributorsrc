@@ -2065,6 +2065,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "tomsing1",
+      "name": "Thomas Sandmann",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10490984?v=4",
+      "profile": "http://www.linkedin.com/pub/thomas-sandmann/21/61b/410/",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "projectName": "the-turing-way",
