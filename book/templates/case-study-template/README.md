@@ -23,14 +23,17 @@ For example, if you wrote the case study about the [Statistical Methods Manuscri
 book/website
 │
 └───reproducible-research <---- (Folder for the Guide to Reproducible Research)
-│   │   reproducible-research.md <---- (Guide's landing page)
-|   |   vcs.md <---- (Landing page for the Version Control chapter)
-│   │   case-studies.md <---- (Landing page for Case Studies chapter)
 │   │
-│   └───case-studies
-│       │   statistical-methods-manuscript.md <---- (Statistical Manuscripts Case Study)
-|       |   Case Study 2.md
-|       |   ...
+│   └───binderhub
+│   │
+│   └───case-studies <---- (folder containing subchapter for case studies the Guide to Reproducible Research)
+│   |   │   statistical-methods-manuscript.md <---- (Statistical Manuscripts Case Study)
+|   |   |   example-case-study.md
+|   |   |   ...
+|   |
+|   |   ...
+|   |   case-studies.md <---- (Landing page for Case Studies chapter)
+|   |   ...
 │   
 └───project-design <---- (Folder for the Guide for Project Design)
     │   project-design.md
