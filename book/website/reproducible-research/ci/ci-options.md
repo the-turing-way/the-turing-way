@@ -1,4 +1,4 @@
-### What are the options for CI service providers?
+# What are the options for CI service providers?
 
 There are many CI service providers, such as GitHub Actions and Travis CI. Each of these services has its own advantages and disadvantages. In this section we provide a brief overview with links to examples to help you select the most suitable one for you.
 

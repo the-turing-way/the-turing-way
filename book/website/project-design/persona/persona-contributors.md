@@ -1,5 +1,5 @@
 (pd-persona-contributors)=
-## Contributor Pathways
+# Contributor Pathways
 
 In this subchapter, we have developed personas in order to understand how new members might experience their first interactions with an online project and what "pathways" they are likely to take to get further involved as contributors.
 
