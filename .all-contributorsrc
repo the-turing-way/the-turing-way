@@ -2101,6 +2101,18 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "BatoolMM",
+      "name": "Batool",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/53487593?v=4",
+      "profile": "http://medium.com/@batool664",
+      "contributions": [
+        "ideas",
+        "content",
+        "translation",
+        "infra"
+      ]
     }
   ],
   "projectName": "the-turing-way",
