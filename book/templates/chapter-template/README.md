@@ -66,7 +66,7 @@ The [`chapter-personal-stories.md`](book/templates/chapter-template/chapter-cont
 
 Much like a Guide-wide [case study](book/templates/case-study-template/case-study-template.md), a personal story is a space where the subject of the case study provides their perspectives on how the concepts in this chapter has affected their workflow.
 
-Including a personal story in your chapter is optional; However, readers will greatly benefit from a real world application of the key ideas your chapter introduces.
+_**Including a personal story in your chapter is optional; However, readers will greatly benefit from a real world application of the key ideas your chapter introduces.**_
 
 Structure-wise, personal stories come right before a chapter's checklist and resources in the table of contents. 
 It should also be added to the chapter's sub-folder
