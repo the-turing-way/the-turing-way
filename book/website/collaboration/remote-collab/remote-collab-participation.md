@@ -4,7 +4,7 @@
 Now that you have been invited to attend an online meeting, or have registered to attend an online event, this checklist will help you start preparing for your participation and make the most of it.
 This checklist also aims to help participants support the event organisers by being proactive and informed about the resources that are available for them.
 
-The tasks and responsibilities are listed in a chronological order and have been divided into "before", "during" and "after" the meeting.
+The tasks and responsibilities are listed in chronological order and have been divided into "before", "during" and "after" the meeting.
 
 ## Before participating in the meeting
 
@@ -15,7 +15,7 @@ The tasks and responsibilities are listed in a chronological order and have been
 - Test your microphone, webcam, internet bandwidth and compatibility of the software used for the online meeting with your system minimum 2 days before the meeting
 - Check if the event offers any support that you can use for your participation and you are eligible to apply, such as the participation support grant
   - If the event doesn't offer any support, check if you can seek this support from other resources, for example, as offered by the [Open Bioinformatics Foundation](https://www.open-bio.org/travel-awards/) and [Software Sustainability Institute](https://software.ac.uk/programmes-and-events/fellowship-programme)
-- Reach out to the organisers if you need any help with installation, or join one of their pre-event set up calls
+- Reach out to the organisers if you need any help with installation, or join one of their pre-event setup calls
 - Ask for the protocols and agenda for the meeting if not supplied already
 - Familiarise yourself with the participation guideline and Code of Conduct supplied by the conference organisers
 - Note the contact person for the organisation committee and the Code of Conduct
@@ -54,7 +54,7 @@ The tasks and responsibilities are listed in a chronological order and have been
 - If requested by the organisers, share with them what worked and what did not work for you in the call and if you have any suggestion for their future event
   - This can help them see the impact of their event, and continue doing their work by bringing any change that will be helpful in the future
 - If you write blogs on your experience from a meeting or event, share them with the organisers so that they can promote and highlight those in their final report
-- When the notes from the meeting are circulated for approval, make sure that information supplied by you are correctly captured
-- Send a thank you note to the organisers or anyone who might have helped in enhancing your experience as a participant
+- When the notes from the meeting are circulated for approval, make sure that information supplied by you is correctly captured
+- If you would like to, or if you have the opportunity to send a thank-you note to the organisers or anyone who might have helped in enhancing your experience as a participant
 - If you made new connections or established new collaborations during the event, send a follow-up email after the event
 - Finish any task assigned to you or your team, within the given time limit by coordinating with your collaborators
