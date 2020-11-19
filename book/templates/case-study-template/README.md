@@ -1,6 +1,11 @@
 # Welcome
 
-Thank you for deciding to write a case study for _The Turing Way_ book!
+Thank you for contributing to _The Turing Way_ book by writing a case study!
+
+_The Turing Way_ chapters are co-authored by people from different research backgrounds and domain expertise.
+ We do not aim to create domain-specific resources but provide a central collection of best practices, tools and recommendations in data science that are transferable across different disciplines.
+ Nevertheless, we recognise that to allow readers to gain an in-depth understanding of new topics we need to provide some examples and case studies that they can identify with.
+Therefore, community-contributed case studies are highly beneficial for our community members who would like to see some relatable examples where these skills are applied.
 
 To standardise the book's content and maintain consistency throughout, we have created this template to guide you as you write your case study.
 
@@ -85,4 +90,3 @@ The content of the templates are meant to guide and structure your writing.
 Please remove all of the template's placeholders, tips, and suggestions from your chapter before you submit your PR for review.
 
 Happy Writing!
-
