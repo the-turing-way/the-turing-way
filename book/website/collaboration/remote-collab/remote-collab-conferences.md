@@ -2,7 +2,7 @@
 # Organising a Conference or Sprint
 
 This document lists the various tasks for organising a longer event such as a conference or a sprint.
-The tasks and responsibilities are listed in a chronological order and have been divided into "before", "during" and "after" the meeting.
+The tasks and responsibilities are listed in chronological order and have been divided into "before", "during" and "after" the meeting.
 Though created for longer events, these detailed task lists can be used for planning smaller events that have fewer logistical requirements.
 
 (cl-remote-collab-conferences-before)=
@@ -26,7 +26,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 ***Earlier-phase***
 *If possible, create a subcommittee dedicated for designing the website and maintaining online communication*
 
-- Take accessibility aspects into account (font size, color, background)
+- Take accessibility aspects into account (font size, colour, background)
 - State everything clearly and in simple words
 - Provide contact details of people with clearly stated roles and responsibilities
 - Grant edit rights to more than one member in the committee (or subcommittee) across different time zones
@@ -49,10 +49,9 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Create a reporting guideline for any question, concern or breach of Code of Conduct
 - Describe how you intend to create an inclusive event, for example, will there be a sign language interpreter or live transcription
 - Create one single location for all the information (like an A-to-Z) regarding the events
-- Host a few community calls in different stages of planning to involve the audience in the process
+- Host a few communities calls in different stages of planning to involve the audience in the process
 - Invite volunteers who can help you troubleshoot some specific issues
-- Allow flexibility for the participants to join the call from anywhere
-  - Clearly communicate if the event can be attended with pets or children, when attending from home
+- Allow flexibility for the participants to join the call from anywhere (including from home)
   - Clearly state what are the size limits for the groups that join remotely (or if individual participation is preferred even when joining from the same location)
 
 ### Communication channel
@@ -87,8 +86,8 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Allocate sufficient budget for organising this event (for example for the tools, equipment and childcare)
 - First place to confirm your budget and support for handling it is your organisation
 - Looking for sponsorship early on is always a good idea
-  - In the early phase, even though not all the information is sorted, use website to attract sponsors
-- Decide how big your event should be based on available resource (such as online communication tools, assigned budget of the event, size of your community)
+  - In the early phase, even though not all the information is sorted, use the website to attract sponsors
+- Decide how big your event should be based on the available resource (such as online communication tools, assigned budget of the event, size of your community)
 - Calculate how much to make the registration fee if no sponsorship is gained
 
 ### Participation support grants
@@ -98,10 +97,10 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Allocate part of your budget for the participation support grant that can be requested by the applicants for the following support
   - Free or subsidized childcare during the event so that the participant can attend the event without worrying about taking care of their children
   - Software cost or subscription fee if the one being used by the event is not freely available
-  - Hardware or equipment for facilitating participation, such as headset, microphone, webcam (create a list of hardware that can be funded by the support grant)
-  - High speed internet for the duration of the event
+  - Hardware or equipment for facilitating participation, such as headsets, microphone, webcam (create a list of hardware that can be funded by the support grant)
+  - High-speed internet for the duration of the event
   - Other aspects that may improve the quality of participation of the applicants
-- Consider the possibility of waiving registration fee for people from low income organisation/country
+- Consider the possibility of waiving the registration fee for people from low-income organisation/country
 - Create a rubric for selection
 - Share the application form before the registration deadline
 - Communicate clearly how many participation support grants are available and what they include
@@ -113,8 +112,8 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 - Identify your target audience within your community and organisation
 - Invite community members to suggest ideas and collectively choose the most relevant theme
-- Identify a most suitable time zone and the duration of the event
-- Use a standard time with link to different time zones (like [arewemeetingyet](arewemeetingyet.com)) when communicating about the event
+- Identify the most suitable time zone and the duration of the event
+- Use a standard time with a link to different time zones (like [arewemeetingyet](arewemeetingyet.com)) when communicating about the event
 - Add the exact date, time, location (if any!) and choice of tool that will be used for communication
 
 ### Define timeline and invite applications
@@ -137,7 +136,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 ***Mid-phase***
 
 - If possible use a registration platform such as [Eventbrite](https://www.eventbrite.com/) that stores data centrally, works on most browsers, and enables secure credit card payment
-- Collect participant details like their name, email, affiliation, accessibility requirements, motivation for participating, and agreement to privacy statement.
+- Collect participant details like their name, email, affiliation, accessibility requirements, motivation for participating, and agreement to the privacy statement.
 - Clearly explain why you’re asking for sensitive information and how will you handle those data
 - If you ask an optional question, make it clear that it’s optional
 - Do not rely on colour to communicate your questions
@@ -173,16 +172,16 @@ Make sure that after each talk/session there is 5 minutes break to allow people 
 Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 - Identify speakers and sessions for the event from the selected abstracts for the talks and community voted sessions
-- Create a well balanced agenda that covers the intended theme of the event
-- If the session is supposed to run in parallel, create agenda based on the session topic/theme
+- Create a well-balanced agenda that covers the intended theme of the event
+- If the session is supposed to run in parallel, create an agenda based on the session topic/theme
 - In addition to the talks, have plenty of slots for breakout discussions, short workshops and other opportunities to exchange skills
 - Provide new and interesting topics that are not selected for long talks an opportunity to present their idea in short or lightning talks
-- Instead of having a live lightning talk and poster presentation, invite submission of the pre-recorded lightning talks and talks on posters that can assembled in a gallery (for example, a YouTube playlist) that can be accessed by everyone
-  - For poster sessions, create a gallery of posters online that can be broswed easily
+- Instead of having a live lightning talk and poster presentation, invite submission of the pre-recorded lightning talks and talks on posters that can be assembled in a gallery (for example, a YouTube playlist) that can be accessed by everyone
+  - For poster sessions, create a gallery of posters online that can be browsed easily
     * Use [F1000 Research](https://f1000research.com/posters/8-400), [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/) and [Open Science Framework (OSF)](osf.io/meetings) that assigns a DOI to each submission and allows browsable collections.
       Other options are Flicker, Unsplash and Google photos.
     * Share link of each poster with their online video in the shared document
-  - Decide length of these talks (recommended length is 1.5-2 minutes)
+  - Decide the length of these talks (recommended length is 1.5-2 minutes)
   - Create a designated slot in the program to ensure that people take time to check out these talks and posters
 - Invite poster submission and create a browsable gallery (for example on F1000 research or Zenodo)
   - Create a designated slot in the program to ensure that people take time to check out these posters and interact with the poster presenters
@@ -190,7 +189,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - Make sure that your online program is kept up to date
 - Invite volunteers from the community to chair sessions
 - Share speaker's and session guidelines with the selected participants
-- Share chair's guidelines and protocols with the selected participants
+- Share the chair's guidelines and protocols with the selected participants
 - Treat social events in your program as seriously as any other session; discuss this with the organising committee and agree on social events that are good fits for your community
   - Confirm leaders for these social activities
 - Create shared documents for all the selected talks, sessions and social events to be shared with the participants
@@ -205,7 +204,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - If using a tool that is available only upon subscription, make sure that all the participants have access
 - Share a how-to guide to ensure that everyone knows how to use the tool
 - If possible, offer help with installation and testing of the tool
-- Remind everyone to arrange microphone or headsets
+- Remind everyone to arrange a microphone or headsets
   - If possible, provide a grant to buy necessary equipment such as headphones, webcams, and/or high-speed internet
 - Share the participation guidelines, code of conduct and contact information of people who can help with any issues regarding the meeting
 - Send a reminder with the links to the document(s) and other important resources to all the participants a week and a day in advance
@@ -239,9 +238,9 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 ***Relevant for all phases***
 
-- Use organisation logo for promoting this event only if agreed by the organisation leadership, otherwise invite logo designs from the community
+- Use the organisation logo for promoting this event only if agreed by the organisation leadership, otherwise invite logo designs from the community
 - Use social media to engage with the community
-  - Reach out to them as frequently as possible during decision making
+  - Reach out to them as frequently as possible during the decision making
 - Use online store to sell swag to allow people to buy them before or during the event
   - If the overall budget is low, this can be used for inviting small donations from the community
   - If you have sufficient budget, send these to your organising committees before the event, and to the speakers and volunteers after the event as a *thank you* gift
@@ -251,7 +250,7 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 
 *If there are physical office locations, or co-working spaces accessible for most members*
 
-- Reserve conference room(s) (or similar venues) with high speed internet
+- Reserve conference room(s) (or similar venues) with high-speed internet
 - Share details on how members can access this venue
 - When possible, use individual cameras to simulate remote participation so that others joining remotely don't feel left out
 - If the reserved location has a webcam and microphone, check that they work properly
@@ -280,20 +279,20 @@ Provide plenty of breaks, and treat those breaks virtual coffee sessions.*
 - Remind the guidelines for participating in discussions
   - Raise hand - on chat, or virtually (like in [Zoom](https://zoom.us/)) or physically
   - Other ways to involve others in the discussion equitably
-- Ask everyone to write down their name, contact (twitter, email) and other relevant information
+- Ask everyone to write down their name, contact (Twitter, email) and other relevant information
   - Provide a place to write down pronouns, but keep that optional
 - Start the meeting with an icebreaker question
   - Create opportunities for everyone to share something personal (about their hobby, or experiences) on the document or verbally
 - Communicate the ways to have inclusive discussions
 - Remind everyone if the video will be recorded
-- Provide agenda with the names and contact information of the session chairs
+- Provide an agenda with the names and contact information of the session chairs
 - Remind session chairs of their guidelines in private and make sure that they have all the information and support they need
-- Provide everyone a way to keep track of sessions and time, for example, a shared link to [cuckoo.team](https://cuckoo.team) clock
+- Provide everyone with a way to keep track of sessions and time, for example, a shared link to [cuckoo.team](https://cuckoo.team) clock
 - Share how participants can ask for help with troubleshooting, event information or feedback about the event
 
 ## After the event
 
-- Create a debrief document to capture what went well and what could be improved in the future events
+- Create a debrief document to capture what went well and what could be improved in future events
 - Create a small overview blog post to share the main highlights from the event with community/participants immediately
 - Collect any additional document or information mentioned by others/speakers during the events
 - If the event sessions and talks were recorded, process and publish the recorded videos within a defined time frame
