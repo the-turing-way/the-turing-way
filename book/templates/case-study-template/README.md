@@ -37,6 +37,7 @@ book/website
     │   ...
 ```
 
+More case studies (such as `example-case-study-file.md`) for the Guide for Reproducible Research can be added in the same location as `statistical-methods-manuscript.md`.
 This case study template will guide you in writing the content for your case study.
 We encourage you to use it to structure and format your content.
 
