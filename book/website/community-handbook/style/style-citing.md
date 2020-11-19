@@ -40,7 +40,7 @@ Where:
 2. `YYYY` is the year (`2010` above)
 3. `word` is the first meaningful word in the title (`archiving` above). Note, this is subjective―choose a name that makes it easy to remember the reference when you see the citation key.
 
-## Adding a new reference
+## Adding a new reference in text
 
 To include a citation in your content, we follow the recommendation by [JupyterBook](https://jupyterbook.org/content/citations.html) that uses sphinxcontrib-bibtex extension.
 
