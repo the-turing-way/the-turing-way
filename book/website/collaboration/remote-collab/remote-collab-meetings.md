@@ -7,7 +7,7 @@ The tasks and responsibilities are listed in chronological order and have been d
 ## Before the meeting
 
 - Identify a most suitable slot that is time zone compatible for all the members using tools like [Doodle](https://doodle.com/en/) or [when2meet](https://www.when2meet.com/)
-  - If you are planning a meeting that includes time zones with over 12 hours difference, consider having two sessions to avoid holding a meeting in very early or vary late in the day
+  - If you are planning a meeting that includes time zones with over 12 hours difference, consider having two sessions to avoid holding a meeting in very early or very late in the day
   - Assign different chairs when holding calls in two different time zones
 - Use a standard time with a custom link like [arewemeetingyet](https://arewemeetingyet.com/) or [timeanddate.com](https://www.timeanddate.com/worldclock/fixedform.html) to different time zones when communicating
 - Set a protocol for your meeting participants (if there is not any available already), which should include basic etiquette explaining the following
