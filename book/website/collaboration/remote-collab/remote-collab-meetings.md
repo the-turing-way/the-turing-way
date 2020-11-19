@@ -2,24 +2,24 @@
 # Organising a Remote Meetings
 
 This document lists the various tasks for organising remote meetings.
-The tasks and responsibilities are listed in a chronological order and have been divided into "before", "during" and "after" the meeting.
+The tasks and responsibilities are listed in chronological order and have been divided into "before", "during" and "after" the meeting.
 
 ## Before the meeting
 
 - Identify a most suitable slot that is time zone compatible for all the members using tools like [Doodle](https://doodle.com/en/) or [when2meet](https://www.when2meet.com/)
-  - If you are planning a meeting that includes Americas/Oceania (with over 12 hours difference), consider to have two sessions to avoid holding a meeting in very early or vary late in the day
+  - If you are planning a meeting that includes time zones with over 12 hours difference, consider having two sessions to avoid holding a meeting in very early or vary late in the day
   - Assign different chairs when holding calls in two different time zones
 - Use a standard time with a custom link like [arewemeetingyet](https://arewemeetingyet.com/) or [timeanddate.com](https://www.timeanddate.com/worldclock/fixedform.html) to different time zones when communicating
 - Set a protocol for your meeting participants (if there is not any available already), which should include basic etiquette explaining the following
   - Is keeping the webcam and microphone on recommended? Can they be turned off during the call?
   - Is there a password needed to join the call? Can attendees join before the host?
-  - How can attendees ensure privacy of their family member? Provide instructions for blurring their background, or using a virtual background?
-  - How will attendees be able to particiapte in an ongoing discussion? How can they raise their hands of ask the chair personally?
+  - How can attendees ensure the privacy of their family member? Provide instructions for blurring their background, or using a virtual background?
+  - How will attendees be able to participate in an ongoing discussion? How can they raise their hands to ask the chair personally?
   - What kind of challenges attendees may face while joining the call/meeting and how can they troubleshoot them?
 - Identify a chair and note-taker for the meeting
   - Share guidelines and protocols for chairing and note-taking
 - Decide if there will be designated speakers with presentations
-  - Share speaker's guidelines and protocols with them
+  - Share the speaker's guidelines and protocols with them
 - Establish a shared document that can be updated online for agenda and note-taking
   - Create a template for this meeting (that can also be used for future meetings)
 - Create a shared document to share the following:
@@ -27,7 +27,7 @@ The tasks and responsibilities are listed in a chronological order and have been
   - Code of Conduct and contact information of people who can help with any issues regarding the meeting
   - The exact date, time, location (if any!) and choice of tool that will be used for communication
   - Agenda of the meeting
-  - A place to indicate their participation or absense
+  - A place to indicate their participation or absence
 - Share this document via an email to all the attendees and also add this to a calendar invite so that people have it handy when needed
 - The choice of tool should be preferably an open source tool to avoid inaccessibility
   - If using a tool that is available only upon subscription, make sure that all the members have the access information
@@ -36,10 +36,10 @@ The tasks and responsibilities are listed in a chronological order and have been
 - Distribute the shared document a few days before the meeting
   - Ask everyone to add any agenda item that they would like to discuss at the meeting
   - Ask everyone to write their name indicating their participation in or absence from the meeting
-- Remind everyone to arrange microphone or headsets
+- Remind everyone to arrange a microphone or headsets
   - If possible, provide any hardware that the organisation prefers to use
   - Ask people to check before the meeting that their system and headsets are working
-- Send a reminder with link to the document and other important resources to all the participants a day in advance
+- Send a reminder with a link to the document and other important resources to all the participants a day in advance
 - Create slides or presentation that might be needed from organiser's side (welcome, wrap up)
   - Add contact details, date and location of resources and licence, to make your slides reusable
 
@@ -47,7 +47,7 @@ The tasks and responsibilities are listed in a chronological order and have been
 
 *If there are physical office locations, or co-working spaces accessible for most members*
 
-- Reserve conference room(s) (or similar venues) with high speed internet
+- Reserve conference room(s) (or similar venues) with high-speed internet
 - Share details on how members can access this venue
 - When possible, use individual cameras to simulate remote participation so that those who are not attending in person don't feel left out
 - If the reserved location has a webcam and microphone, check that they work properly
@@ -98,7 +98,7 @@ The tasks and responsibilities are listed in a chronological order and have been
 - Remind everyone to give others a fair chance to speak
 - Ask them to write notes from their discussion in the shared document
 - Send message periodically reminding everyone of how much time for discussion is left
-  - Reminding them to move on to next person if only one person has spoken so far in their group
+  - Reminding them to move on to the next person if only one person has spoken so far in their group
 - When people come back from their breakout rooms, ask them to share main arguments from their discussion
 
 ## After the meeting
