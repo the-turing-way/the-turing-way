@@ -389,6 +389,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://www.madrimasd.org/blogs/bioinformatica"><img src="https://avatars1.githubusercontent.com/u/2072150?v=4" width="100px;" alt=""/><br /><sub><b>José María Fernández</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Ajmfernandez" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://nl.linkedin.com/in/fakhereh-sarah-alidoost-11a24a89"><img src="https://avatars3.githubusercontent.com/u/55081872?v=4" width="100px;" alt=""/><br /><sub><b>SarahAlidoost</b></sub></a><br /><a href="#content-SarahAlidoost" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/kderuyck"><img src="https://avatars3.githubusercontent.com/u/74196557?v=4" width="100px;" alt=""/><br /><sub><b>Kim De Ruyck</b></sub></a><br /><a href="#content-kderuyck" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/glumand"><img src="https://avatars3.githubusercontent.com/u/55833875?v=4" width="100px;" alt=""/><br /><sub><b>glumand</b></sub></a><br /><a href="#translation-glumand" title="Translation">🌍</a></td>
     <td align="center"><a href="http://www.linkedin.com/pub/thomas-sandmann/21/61b/410/"><img src="https://avatars0.githubusercontent.com/u/10490984?v=4" width="100px;" alt=""/><br /><sub><b>Thomas Sandmann</b></sub></a><br /><a href="#translation-tomsing1" title="Translation">🌍</a></td>
   </tr>
 </table>
