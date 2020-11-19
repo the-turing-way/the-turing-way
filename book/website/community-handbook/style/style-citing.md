@@ -54,7 +54,7 @@ Where:
 2. `YYYY` is the year (`2010` above)
 3. `word` is the first meaningful word in the title (`archiving` above). Note, this is subjective―choose a name that makes it easy to remember the reference when you see the citation key.
 
-## Adding a new reference in text
+## Adding a new reference in the text
 
 To include a citation in your content, we follow the recommendation by [JupyterBook](https://jupyterbook.org/content/citations.html) that uses [`sphinxcontrib-bibtex`](https://sphinxcontrib-bibtex.readthedocs.io/en/latest/) extension.
 
@@ -77,6 +77,6 @@ The complete bibliography entry is available at the end of this book (see {ref}`
 
     ```
 
-For the advanced usage, see the the [documentation by sphinxcontrib-bibtex](https://sphinxcontrib-bibtex.readthedocs.io/en/latest/usage.html), which is a Sphinx extension for BibTeX style citations.
+For the advanced usage, see the [documentation by sphinxcontrib-bibtex](https://sphinxcontrib-bibtex.readthedocs.io/en/latest/usage.html), which is a Sphinx extension for BibTeX style citations.
 
 [turingbib]: https://github.com/alan-turing-institute/the-turing-way/blob/master/book/website/_bibliography/references.bib
