@@ -8,16 +8,16 @@ If all of your group's conversations revolve around work and are scheduled as me
 It isn't just fun, their productivity will be higher if they take regular breaks and socialise with others! (see [this post](https://buffer.com/resources/science-taking-breaks-at-work/))
 
 When a team is working remotely, they can get together at specific times for online "coffee chats".
-These are scheduled in advance, so that everyone can plan their work and other meetings around them as needed, and specifically have no agenda.
+These are scheduled in advance so that everyone can plan their work and other meetings around them as needed and specifically have no agenda.
 The purpose is to share a social break together.
 
 ## Design the coffee chat
 
 The first step in running a remote coffee chat is considering the purpose of the social break, who will be invited and to set the time for the conversation.
 
-Converstations where *anyone* can join may be what you want.
-In March 2020, during the COVID-19 pandemic, Kirstie Whitaker hosted [online morning coffee chats on Zoom](https://twitter.com/kirstie_j/status/1239455513080926208?s=20) which she promoted on twitter.
-Different people joined at 7:40am every morning to match her early morning chats at the Turing Institute between when her train arrived and when she usually started working.
+Conversations, where *anyone* can join, may be what you want.
+In March 2020, during the COVID-19 pandemic, Kirstie Whitaker hosted [online morning coffee chats on Zoom](https://twitter.com/kirstie_j/status/1239455513080926208?s=20) which she promoted on Twitter.
+Different people joined at 7:40 am every morning to match her early morning chats at the Turing Institute between when her train arrived and when she usually started working.
 The purpose of these calls was to have social contact with anyone else who was up early and looking for motivation to get started.
 It didn't matter who came along, everyone was invited to join for 20 minutes.
 
@@ -26,12 +26,12 @@ Although this appears less *open* it may be more *inclusive*.
 Joining a conversation where anyone can join is quite a daunting proposition for some people.
 Knowing who is going to be at the coffee chat on a regular basis makes attending the call more appealing and introverted and less confident members are more likely to participate in the conversation.
 You are more likely to build trust within a group if they can make accurate predictions about who they will be interacting with during the break.
-A good example of this purpose are coffee chats for members of a research group.
+A good example of this purpose is coffee chats for members of a research group.
 
 Finally, the safest spaces are 1:1 conversations.
-If the purpose of your cofffee chat is to check in with a friend or colleague, particularly if you are worried about how they are doing, consider organising an individual and private coffee chat.
+If the purpose of your coffee chat is to check in with a friend or colleague, particularly if you are worried about how they are doing, consider organising an individual and private coffee chat.
 Remember that the purpose is not to talk about work or to progress an ongoing collaborations.
-The purpose of individual coffee chats are to make each other feel supported and heard in ways that can be difficult to replicate in an online space.
+The purpose of individual coffee chats is to make each other feel supported and heard in ways that can be difficult to replicate in an online space.
 
 ## Schedule the coffee chat
 
