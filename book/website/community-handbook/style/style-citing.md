@@ -59,9 +59,9 @@ This will appear in your chapter as {cite}`Kuula2010archiving`.
 
 The complete bibliography entry is available at the end of this book (see {ref}`resources <afterword-bibliography>`) using the directives:
 
-```{bibliography} ../_bibliography/references.bib
+    ```{bibliography} ../_bibliography/references.bib
 
-```
+    ```
 
 For the advanced usage, see the the [documentation by sphinxcontrib-bibtex](https://sphinxcontrib-bibtex.readthedocs.io/en/latest/usage.html), which is a Sphinx extension for BibTeX style citations.
 
