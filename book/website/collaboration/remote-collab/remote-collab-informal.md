@@ -16,7 +16,7 @@ The purpose is to share a social break together.
 The first step in running a remote coffee chat is considering the purpose of the social break, who will be invited and to set the time for the conversation.
 
 Conversations, where *anyone* can join, may be what you want.
-In March 2020, during the COVID-19 pandemic, Kirstie Whitaker hosted [online morning coffee chats on Zoom](https://twitter.com/kirstie_j/status/1239455513080926208?s=20) which she promoted on Twitter.
+In March 2020, during the COVID-19 pandemic, Kirstie Whitaker hosted [online morning coffee chats on Zoom](https://twitter.com/kirstie_j/status/1239455513080926208?s=20), which she promoted on Twitter.
 Different people joined at 7:40 am every morning to match her early morning chats at the Turing Institute between when her train arrived and when she usually started working.
 The purpose of these calls was to have social contact with anyone else who was up early and looking for motivation to get started.
 It didn't matter who came along, everyone was invited to join for 20 minutes.
@@ -24,7 +24,7 @@ It didn't matter who came along, everyone was invited to join for 20 minutes.
 If the purpose of the coffee chat is to build connections with a team, you may want to consider restricting the invitation to the specific group members.
 Although this appears less *open* it may be more *inclusive*.
 Joining a conversation where anyone can join is quite a daunting proposition for some people.
-Knowing who is going to be at the coffee chat on a regular basis makes attending the call more appealing and introverted and less confident members are more likely to participate in the conversation.
+Knowing who is going to be at the coffee chat on a regular basis makes attending the call more appealing. Therefore, introverted and less confident members are more likely to participate in the conversation.
 You are more likely to build trust within a group if they can make accurate predictions about who they will be interacting with during the break.
 A good example of this purpose is coffee chats for members of a research group.
 
@@ -37,7 +37,6 @@ The purpose of individual coffee chats is to make each other feel supported and 
 
 Once you know what you want the purpose of the coffee chat to be, you can schedule it.
 
-- **Identify the online medium**: There are many online tools that allow you to have online face to face conversations with others, such as Zoom, Google hangouts
-and Facetime.
+- **Identify the online medium**: There are many online tools that allow you to have online face to face conversations with others, such as Zoom, Google meet and Facetime.
 - **Maintain consistency**: Try to ensure that the times are predictable if not always identical across different days.
 - **Invite people**: Send a calendar invitation to the invited participants so they are reminded to take the break at that time.
