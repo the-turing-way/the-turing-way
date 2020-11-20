@@ -6,7 +6,7 @@
 ## Pros
 
 - Remote collaboration dramatically improves the life quality of those who cannot comfortably travel or afford to live close to their office.
-  - It has a positive impact on the environment by reducing travel-related CO2 emissions.
+- It has a positive impact on the environment by reducing travel-related CO2 emissions.
 - A well-established format works equally well for low resource environments as the overall organisational cost can be reduced by not having to deal with the on-site expense.
 - Distributed team format attracts people from different time zones, different workplace requirements or those who work best with flexible working hour arrangements.
 - This can lead to innovative ways to establish social interactions and social dynamics in general.
