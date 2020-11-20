@@ -209,7 +209,7 @@ But because they are a legal framework, they are more difficult to understand an
 Human rights treaties are signed by countries: that means that ultimately, it is countries that are held responsible for violations of human rights. 
 However, that does not mean that researchers and data scientists are exempt from thinking about the human rights impact of their work!
 
-The UN has produced specific guidance for companies on how to ensure that they respect human rights: the [UN Guiding Principles on Business and Human Rights](https://www.business-humanrights.org/en/big-issues/un-guiding-principles-on-business-human-rights/)
+The UN has produced specific guidance for companies on how to ensure that they respect human rights: the [UN Guiding Principles on Business and Human Rights](https://www.business-humanrights.org/en/big-issues/un-guiding-principles-on-business-human-rights/).
 Companies should comply with these Guiding Principles.
 
 NGOs and other campaigning organisations also produce guidance on specific areas:
@@ -219,8 +219,8 @@ Making sure that research complies with human rights is not just about ensuring 
 It can also be about doing work that is actively pro-rights. 
 
 Researchers and data scientists should, in general ensure that they:
-- **respect** human rights: this means not doing work that itself abuses human rights. 
-- **protect** human rights: this means trying to ensure that their work cannot be used by other to abuse human rights
+- **respect** human rights: this means not doing work that itself abuses human rights 
+- **protect** human rights: this means trying to ensure that their work cannot be used by others to abuse human rights
 - **fulfil** human rights: this means doing work that actively helps other people be able to enjoy all their human rights
 
 ## Checklist
