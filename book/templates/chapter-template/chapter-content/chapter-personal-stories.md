@@ -32,24 +32,16 @@
 >   - What did the subject learn from practicing the chapter's ideas in their project? What would they have done differently? What are they most proud of?
 
 
-<!-- IMPORTANT!
+## BEFORE YOU GO
 
-- Use this template to create a personal story.
-- Refrain from writing very long content as readers may be unwilling to read them. Rather, you should split long content into smaller subchapters if necessary.
-
-
-
-BEFORE YOU GO
-
-- Have a look at the Style Guide and the Maintaining Consistency chapters to ensure that you have followed the relevant recommendations on
-  - Avoiding HTML
-  - Consecutive headers
-  - Labels and cross referencing
-  - Using images
-  - Latin abbreviations
-  - References and citations
-  - Title casing
-  - Matching headers with reference in table of content
-
--->
-
+> - Use this template to create a personal story.
+> - Refrain from writing very long content as readers may be unwilling to read them. Rather, you should split long content into smaller subchapters if necessary.
+> - Have a look at the Style Guide and the Maintaining Consistency chapters to ensure that you have followed the relevant recommendations on
+>   - Avoiding HTML
+>   - Consecutive headers
+>   - Labels and cross referencing
+>   - Using images
+>   - Latin abbreviations
+>   - References and citations
+>   - Title casing
+>   - Matching headers with reference in table of content
