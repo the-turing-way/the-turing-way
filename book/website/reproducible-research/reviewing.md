@@ -1,9 +1,14 @@
-# Code reviewing process
+(rr-reviewing)=
+# Code Reviewing Process
+
+(rr-reviewing-prerequisites)=
+## Prerequisites
 
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
-| {ref}`Version control<rr-vcs>` | Necessary | Understanding the way that [Github](https://github.com) arranges its branches, forks, and pull requests within repositories is needed. |
+| {ref}`Version Control<rr-vcs>` | Necessary | Understanding the way that [Github](https://github.com) arranges its branches, forks, and pull requests within repositories is needed. |
 
+(rr-reviewing-summary)=
 ## Summary
 
 Code review provides an additional way of testing code quality.
@@ -14,7 +19,7 @@ Doing this can help programmers to see and discuss issues and alternative approa
 This also means code review practices are particularly well-suited to projects with more than one contributor making changes, where each is working on different parts of the code.
 Nonetheless, even the smallest scale projects can harness these approaches with some creative project management.
 
-Because of their nature code reviews act a qualitative rather than quantitive tests, but are no less valuable for that.
+Because of their nature, code reviews act as qualitative - rather than quantitative - tests but are no less valuable for that.
 
-This section will provide an overview of rationales, best practice, and some possible workflows for code review.
+This section will provide an overview of rationales, best practices, and some possible workflows for code review.
 Some details refer specifically to GitHub's code review functionality as a powerful and widely-used example of a formal code review system; however, equivalent and very similar systems are available elsewhere (for example, [Gitlab](https://about.gitlab.com)), and even informal code review practices can also be very beneficial to a project.

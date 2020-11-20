@@ -1,17 +1,31 @@
 # Record of Contributions
 
-This document is a record of contributions that captures the important work _The Turing Way_ community members do around developing resources, writing chapters, reviewing contributions, answering questions, representing the project, developing and maintaining the infrastructure, and all other nurturing roles that make The Turing Way community so special.
+*The `contributors.md` file and the contributors table in the `README file` together form the record of contributions in _The Turing Way_.*
 
-Using [all contributors bot](https://allcontributors.org), we recognise the different types of contributions made to this project, which may include (but are not limited to) bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
-Please see the [community handbook](https://the-turing-way.netlify.app/community-handbook/acknowledgement) for details on how we can fairly acknowledge your work.
+Contributions to _The Turing Way_ may include but are not limited to, bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
+We recognise all these contributions and acknowledge our community members fairly.
+For example, using [all contributors bot](https://allcontributors.org) we update the contributors table with each person's name, where the emoji keys indicate the different tasks they have done (see the [README file](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md#contributors)).
+We understand that different contributions mean different things to people and may translate differently towards their personal interest, skill development, value exchange and advancement of their careers.
+Therefore, we also offer the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/contributors.md) file as a dedicated location to capture personal highlights from _The Turing Way_ community members.
+
+Individual contributors are welcome to provide their details under the section "Personal Highlights from _The Turing Way_ Contributors".
+Organisational support and collaborations are listed in the section, "Collaborating Organisations".
+Each organisation name and details will be listed separately followed by contribution details of each individual contributor from that organisation.
+
+Please see the [community handbook](https://the-turing-way.netlify.app/community-handbook/acknowledgement) for details on how you can be fairly acknowledged for your work.
 
 ## Personal Highlights from _The Turing Way_ Contributors
 
-This section highlights personal achievements and skills that our members have achieved and shared through their involvement in _The Turing Way_ and enhancing their personal or professional portfolio (profile, CV, resume).
-This also reflects impact _The Turing Way_ may have on its community members in terms of personal networking, professional development, skill sharing and other relevant activities.
+Please use this section to highlight your personal experiences in _The Turing Way_ project and community.
+You can also describe the impact _The Turing Way_ may have on you or your team members such as in promoting reproducible, ethical, collaborative and inclusive research practices.
+
+This record can be used in your personal or professional portfolio (profile, CV, resume) by describing features you have enhanced, goals you have accomplished, skills you gain, opportunities you receive, personal connections you make, individuals you support and values you create through your involvement in _The Turing Way_.
+
+See this entry as an example by Kirstie Whitaker, the project lead:
 
 ### Kirstie Whitaker
 
+* Role: **Project lead**
 * GitHub id: [kirstiejane](http://github.com/kirstiejane)
 * ORCID: [0000-0001-8498-4059](https://orcid.org/0000-0001-8498-4059)
 * Short bio:
@@ -30,25 +44,13 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > But it also includes making those outputs FAIR - findable, accessible, interoperable and reusable. I am an advocate for greater diversity in STEM and in data science and particularly passionate about improving the ways we reward collaborative and supportive working.
 > Finally, I'd like to pivot to having data science project be developed in the open from the beginning and with a decision making governance processs that is inclusive and community-lead.
 
-### Malvika Sharan
+**Contributors names should be added alphabetically**
 
-* GitHub id: [malvikasharan](http://github.com/malvikasharan)
-* ORCID: [0000-0001-6619-7369](https://orcid.org/0000-0001-6619-7369)
-* Short bio:
-> I am the community manager of _The Turing Way_ at The Alan Turing Institute.
-> I work with the community of diverse members to develop resources and ways that can make data science accessible for a wider audience.
-> After receiving my Ph.D. in Bioinformatics and I worked at  European Molecular Biology Laboratory, Germany, that helped me solidify my values as an Open Researcher and community builder.
-> I co-founded the Open Life Science mentoring program in 2019 to help enhance access to Open Leadership tools for individuals interested in building communities around their work.
-> I am also a fellow of the Software Sustainability Institute and a board member of the Open Bioinformatics Foundation.
-
-* Personal highlights:
-> As a community manager, I appreciate the opportunities for facilitating the work our contributors carry out in this community space while learning new skills and ideas from them.
-> Through my talks, panel sessions, and workshops, I like to interact with members across different research domains, who I otherwise will never get a chance to meet.
-> Besides connecting with members from diverse perspectives, my highlights in _The Turing Way_ are co-developing community governance, acknowledgment pathways, and community resources in the [Community Handbook](https://the-turing-way.netlify.app/community-handbook) for our members.
-> I enjoy designing training resources around leadership in research in collaboration with [Open Life Science](https://openlifesci.org/).
+<!---A--->
 
 ### Alexander Morley
 
+* Role: Infrastructure Maintainer (2018 - 2019)
 * GitHub id: [alexmorley](http://github.com/alexmorley)
 * ORCID: [TBA](https://orcid.org/TBA)
 * Short bio:
@@ -71,6 +73,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Anna Krystalli
 
+* Role: [Code of Conduct Committee](https://the-turing-way.netlify.app/community-handbook/coc/coc-enforcement.html) member (2018 - present)
 * GitHub id: [annakrystalli](http://github.com/annakrystalli)
 * ORCID: [0000-0002-2378-4915](https://orcid.org/0000-0002-2378-4915)
 * Short bio:
@@ -84,11 +87,15 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > I care about reproducible research in R!
 > I learnt to code during my PhD in Marine Macroecology and was instantly hooked.
 > Building on past experience as a quality assurance auditor, my experiences made me interested in how we practice science and specifically how we can do more out of the real workhorses of modern research, our code and data.
-> Working in _The Turing Way_ is a fantastic opportunity to take stock of the great work that has already been done in this space, aggregate and distill it to templates, checklists and  best practices guidelines that are immediately useful to researchers.  
+> Working in _The Turing Way_ is a fantastic opportunity to take stock of the great work that has already been done in this space, aggregate and distill it to templates, checklists and  best practices guidelines that are immediately useful to researchers.
 > It’s an opportunity to set standards and harness the power of convention, especially with ECRs that have an opportunity to set up good practices from the start! Indeed, I hope the Turing Way will very much become the “Sheffield Way” too!
+
+<!---B--->
+
 
 ### Becky Arnold
 
+* Role: Core Contributor (2018 - 2019)
 * GitHub id: [r-j-arnold](http://github.com/r-j-arnold)
 * ORCID: [0000-0003-0355-0617](https://orcid.org/0000-0003-0355-0617)
 * Short bio:
@@ -108,8 +115,144 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > While there are lots of fantastic resources out there they're often scattered and _The Turing Way_ can improve that.
 I also hope that it can convince people that don't consider themselves capable of being good programmers that there are steps they can take to drastically improve their coding.
 
+<!---C--->
+
+
+### Camila Rangel Smith
+
+* Role: Translation Lead - Spanish (2020)
+* GitHub id: [crangelsmith](https://github.com/crangelsmith)
+* ORCID id: [0000-0002-0227-836X](https://orcid.org/0000-0002-0227-836X)
+* Short bio:
+> I am a Research Data Scientist at The Alan Turing Institute. I hold a PhD in Particle Physics from Université Paris Diderot where I worked on the ATLAS experiment at the Large Hadron Collider at CERN.
+> During my PhD I participated on the discovery of the Higgs Boson particle announced by CERN in 2012.
+> I continued working on ATLAS as a postdoc with Uppsala University where I focused on searches for physics beyond the Standard Model of Particle Physics.
+> Right before joining the Turing, I worked as Data Scientist in the EdTech sector developing innovative products focused on the assessment process in education.
+> Currently I’m working in collaboration with researchers from the Global Systems Institute at University of Exeter called Data science for Sustainable Development.
+> In this project we are using remote sensing to monitor the resilience of patterned vegetation from semi-arid dryland ecosystems in the Sahel.
+
+* Personal highlights
+
+> I think The Turing Way is an excellent resource that can change the way science is done (I wish I had it when I started my PhD!).
+> Although the international language of science is English, I know for a fact that not everyone in places like Latin-American have the time and resources to learn it, so I think we must do everything we can to break those barriers and improve the accessibility of knowledge for everyone.
+> This is my motivation to translate the book to Spanish, and I hope that the Spanish version will be used as an important resource on the master course we are developing in  LA-CoNGA physics project.
+
+* More information
+
+> I’m from Venezuela, and although I have done most of my career in Europe I’ve been always keen to stay connected to the academic and scientific wold back in Latin-America.
+> I’m the co-founder of the CEVALE2VE project (http://www.cevale2ve.org/en/home/), which of a virtual learning community that aims to tackle the serious issue of brain-drain in some Latin-American countries by bringing back the knowledge in a digital/online platform.
+> More recently that project has become consolidated into LA-CoNGA physics (http://laconga.redclara.net/), an EU Erasmus+ funded project with a mission to create a Latin American and European Community for Advanced Physics.
+> In this project I’m helping to build a data science module that will be thought in an online master course.
+
+<!---D--->
+
+
+<!---E--->
+
+
+<!---F--->
+
+
+<!---G--->
+
+
+<!---H--->
+
+
+### Heidi Seibold
+
+* Role: Core contributor (2020)
+* GitHub id: [HeidiSeibold](https://github.com/HeidiSeibold)
+* ORCID id: [0000-0002-8960-9642](https://orcid.org/0000-0002-8960-9642)
+* Short bio:
+> I lead a group on Open AI in Health at the Helmholtz Zentrum Munich.
+I develop machine learning methods to figure out which patients react well to certain treatments and implements these methods in R.
+> My passion for open and reproducible research has led me to join the Turing Way community. I am involved in meta-research projects (research about research), I support, teach and contribute to open projects such as The Turing Way.
+> My work for the *Journal of Statistical Software* includes reproducibility checks. We only publish papers which are fully computationally reproducible. I also work on making our machine-learning software more user-friendly, reusable and extensible. Together with a PhD student I am thinking about how to
+use data from hospitals to help doctors and patients find the right treatment
+for each individual patient.
+
+* Personal highlights:
+
+> I work in data science and open and reproducible research are the things I think and
+care about the most. So to me it only made sense to get involved. Plus: the community seemed
+amazing!
+> To me The Turing Way is a role model when it comes to collaborative,
+distributed work. I learned so much just by participating in the book sprint
+and seeing how Malvika, Kirstie and everyone else contributed to providing an
+extremely welcoming and at the same time productive space. I took what
+I learned and tried to apply it in other contexts such as teaching. I will
+continue to do so.
+> The Turing Way also inspired me to think about new ways we could teach people
+about open and reproducible (data) science. I am currently thinking a lot about
+how we could use the content from The Turing Way and turn it into a course.
+This idea was also part of an application, where I proposed to start a new
+group on *Open AI*.
+> I regularly recommend The Turing Way as a resource. Both for learning more
+about reproducible data science and also when discussing specific topics.
+I think that people are taking it on and reading it :)
+
+* More information:
+> First, I would like to continue to help create content, review others content
+and be helpful in any way I can. Sometimes I like to look at really old issues
+and pull requests for example. Reviving such old, often almost finished bits,
+is very rewarding.
+> Apart from that I also have a bigger, long term idea for The Turing Way.
+I personally am not a huge fan of reading. So books are not my favorite way to
+learn.  In the past years I learned a lot by listening to others in talks,
+podcasts, videos, and of course conversations.  So for me it is only a natural
+next step for The Turing Way to become more than a book. It could be an
+ecosystem, with the book at its basis. And -- if we decide to go that route --
+I would like to be a part of it.
+
+<!---I--->
+
+
+### Ismael Kherroubi Garcia
+
+* Role: Core contributor, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework (2020)
+* GitHub id: [Ismael-KG](https://github.com/Ismael-KG)
+* Short bio:
+> I'm Ethics Research Assistant at the Alan Turing Institute.
+I have a BSc in Business Management and Administration and am currently working towards an MSc in Philosophy of the Social Sciences.
+I am an associate member of the Chartered Institute of Personnel and Development (CIPD).
+
+* Personal highlights:
+> Since my undergraduate degree, I have worked in fintech and then in arts organisations within human resources teams, finally reachint the Alan Turing Institute and helping support the Ethics Advisory Group.
+> I think my highlight is that I've got a great background as a generalist!
+> I am currently really thrilled to be working alongside [Laura Carter](https://github.com/LauraCarter) and [Sophia Batchelor](https://github.com/BrainonSilicon) to build a community around the Guide for Ethical Research!
+
+* More information:
+> I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there!
+
+<!---J--->
+
+
+<!---K--->
+
+
+<!---L--->
+
+
+### Laura Carter
+
+* Role: [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework (2020)
+* GitHub id: [Laura Carter](https://github.com/LauraCarter)
+* ORCID: [0000-0002-4285-1140](https://orcid.org/0000-0002-4285-1140)
+* Short bio:
+> I'm a PhD candidate in the Human Rights Centre at the University of Essex, UK, researching the human rights implications of the use of data-driven technologies in the UK public sector, focusing on gender stereotyping and gender discrimination. Prior to my PhD, I worked as a human rights researcher for almost a decade, specialising mostly in human rights, sexual orientation and gender identity. I carried out field research in Europe and sub-Saharan Africa covering topics including homophobic and transphobic hate crimes, criminalisation of homosexuality and of sex work, legal gender recognition for trans people, and health rights for intersex people.
+
+* Personal highlights:
+> I'm really enjoying learning more about Open Science practices and communities! I'm excited to be part of an [OLS-2](https://openlifesci.org/) mentee cohort alongside [Ismael Kherroubi Garcia](https://github.com/Ismael-KG) and [Sophia Batchelor](https://github.com/BrainonSilicon), working on the _Guide to Ethical Research_: if you're interested in building a community of thoughtful, reflective, ethical data scientists, please come and join us!
+
+* More information:
+> I'm interested in feminist and queer research methodologies and in interrogating structures of power and systems of categorisation. Throughout my career, most of my work has been on understanding these systems, how they work, and how they harm: so that they can be dismantled!
+> More information about me on my [website](https://lauracarter.github.io/).
+
+
 ### Louise Bowler
 
+* Role: Core Contributor (2019)
 * GitHub id: [LouiseABowler](http://github.com/LouiseABowler)
 * ORCID: [0000-0002-4910-9205](https://orcid.org/0000-0002-4910-9205)
 * Short bio:
@@ -129,8 +272,31 @@ I also hope that it can convince people that don't consider themselves capable o
 > If we say that we want people to make their research open and reproducible, we need to give them the tools they need to be confident in doing so.
 > I see the Turing Way as the means of bridging that gap, by providing a friendly, practical and helpful guide for researchers at all stages of their careers.
 
+<!---M--->
+
+
+### Malvika Sharan
+
+* Role: **Community Manager** (2019 - present)
+* GitHub id: [malvikasharan](http://github.com/malvikasharan)
+* ORCID: [0000-0001-6619-7369](https://orcid.org/0000-0001-6619-7369)
+* Short bio:
+> I am the community manager of _The Turing Way_ at The Alan Turing Institute.
+> I work with the community of diverse members to develop resources and ways that can make data science accessible for a wider audience.
+> After receiving my Ph.D. in Bioinformatics and I worked at  European Molecular Biology Laboratory, Germany, that helped me solidify my values as an Open Researcher and community builder.
+> I co-founded the Open Life Science mentoring program in 2019 to help enhance access to Open Leadership tools for individuals interested in building communities around their work.
+> I am also a fellow of the Software Sustainability Institute and a board member of the Open Bioinformatics Foundation.
+
+* Personal highlights:
+> As a community manager, I appreciate the opportunities for facilitating the work our contributors carry out in this community space while learning new skills and ideas from them.
+> Through my talks, panel sessions, and workshops, I like to interact with members across different research domains, who I otherwise will never get a chance to meet.
+> Besides connecting with members from diverse perspectives, my highlights in _The Turing Way_ are co-developing community governance, acknowledgment pathways, and community resources in the [Community Handbook](https://the-turing-way.netlify.app/community-handbook) for our members.
+> I enjoy designing training resources around leadership in research in collaboration with [Open Life Science](https://openlifesci.org/).
+
+
 ### Martin O'Reilly
 
+* Role: Core Contributor (2019)
 * GitHub id: [martintoreilly](http://github.com/martintoreilly)
 * ORCID: [TBA](https://orcid.org/TBA)
 * Short bio:
@@ -155,8 +321,28 @@ I also hope that it can convince people that don't consider themselves capable o
 > By providing recommended working practices and guidance on associated tooling, we can make it easy for researchers to do the right thing.
 > By publishing this with the weight of the Turing brand, we can apply social pressure for the adoption of these practices as new norms in the research communities we operate in.
 
+
+### Martina G. Vilas
+
+* Role: Core contributor, JupyterBook Infrastructure Maintainer (2020)
+* GitHub id: [martinagvilas](http://github.com//martinagvilas)
+* ORCID: [0000-0002-1097-8534](https://orcid.org/0000-0002-1097-8534)
+* Short bio:
+> I'm currently finishing my PhD in Neuroscience at the Max-Planck-Institute AE in Frankfurt, Germany.
+> I study how the brain processes conceptual knowledge analyzing neural recordings with computational modelling techniques.
+> As an advocate of open-research, I also work on improving the reproducibility of neuroscientific-analyses and enjoy contributing to open-source software projects.
+
+* Personal highlights:
+> Since the Book Dash in February 2020, I help with the maintenance of The Turing Way infrastructure and its reliance on Jupyter Book. The Turing Way is not only a great guide for conducting reproducible research, but it also provides a wonderful entry point into open-source contribution in general and connects you to a variety of open data-science communities.
+> I'm also a mentor at the [OLS-2](https://openlifesci.org/ols-2) program and I have also worked with the [pandas](https://pandas.pydata.org/) core-contributors in providing guidance to people from underrepresented groups in technology on making their first open-source contribution.
+
+* More information:
+> More information about me can be read on my [website](https://martinagvilas.github.io/).
+
+
 ### Patricia Herterich
 
+* Role: Core contributor (2019 - present)
 * GitHub id: [pherterich](http://github.com/pherterich)
 * ORCID: [0000-0002-4542-9906](https://orcid.org/0000-0002-4542-9906)
 * Short bio:
@@ -174,8 +360,38 @@ I also hope that it can convince people that don't consider themselves capable o
 > I really love how the Turing Way aims to create good examples and I hope we can develop some ideas and resources that can have a positive impact in changing the current system.
 > I care about collaborating and get really excited about trying new tools if my limited tech skills allow.
 
+### Paul Owoicho
+
+* Role: Google Season of Doc: Technical Writer, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Embedding Accessibility in The Turing Way (2020)
+* GitHub id: [paulowoicho](http://github.com/paulowoicho)
+* ORCID: TBA
+* Short bio:
+> I am a Technical Writer / Google Season of Docs (GSoD) Participant working to make The Turing Way consistent, sustainable, and accessible.
+> I have a BSc in Software Engineering from the American University of Nigeria, and an MSc in Data Science from the University of Glasgow.
+> Before now, I worked as a Research Analyst in the Fintech & Innovation Division of Guaranty Trust Bank, Nigeria.
+> While there, I helped to drive the Bank's push to become a platform by creating innovative digital products.
+>TBA
+
+* Personal highlights:
+> The Turing Way is my first foray into open source and has been a fantastic learning experience.
+> Not only have I gained a deeper understanding and appreciation for how GitHub works, but I am also learning to prioritise sustainability and empowerment in the work that I do.
+> Soon, I hope to begin a PhD that explores how conversational search can be made more effective with the use of clarifying questions.
+
+* More information:
+> I enjoy browsing through and collecting memes.
+> I am also interested in the intersection of Machine Learning, Information Retrieval, and Natural Language Processing.
+> I am also very grateful for the opportunity to work with people (who I may not have met otherwise) from around the world.
+
+
+<!---Q--->
+
+
+<!---R--->
+
+
 ### Rosie Higman
 
+* Role: Core Contributor (2019)
 * GitHub id: [rosiehigman](http://github.com/rosiehigman)
 * ORCID: [0000-0001-5329-7168](https://orcid.org/0000-0001-5329-7168)
 * Short bio:
@@ -198,6 +414,7 @@ I also hope that it can convince people that don't consider themselves capable o
 
 ### Rachael Ainsworth
 
+* Role: Core Contributor (2019)
 * GitHub id: [rainsworth](http://github.com/rainsworth)
 * ORCID: [0000-0003-2591-9462](https://orcid.org/0000-0003-2591-9462)
 * Short bio:
@@ -217,8 +434,12 @@ I also hope that it can convince people that don't consider themselves capable o
 > I find that it can be difficult to get researchers to engage with reproducibility and sharing their research outputs because they perceive that it will take too much time and effort with very little reward - when the opposite is true!
 > Ensuring results are reproducible not only benefits research as a whole and increases efficiency, but working this way also offers researchers more opportunities for impact and collaboration.
 
+<!---S--->
+
+
 ### Sarah Gibson
 
+* Role: Core contributor, Infrastructure Maintainer (2019 - present)
 * GitHub id: [sgibson91](http://github.com/sgibson91)
 * ORCID: [0000-0003-0356-2765](https://orcid.org/0000-0003-0356-2765)
 * Short bio:
@@ -232,3 +453,84 @@ I also hope that it can convince people that don't consider themselves capable o
 * More information:
 > I'm passionate about applying the skills I learnt during my PhD somewhere closer to home and learning new skills along the way.
 > The Turing Way is an ideal opportunity for me to learn better research practices and widen my horizons from what academia has taught me.
+
+
+### Sophia Batchelor
+
+* Role: HacktoberFest contribution facilitator, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring): Ethics Research Framework (2020)
+* GitHub id: [BrainonSilicon](https://github.com/BrainonSilicon)
+* ORCID: [0000-0002-8572-2058](https://orcid.org/0000-0002-8572-2058)
+* Short bio:
+>I am a PhD student at the University of Leeds studying sensorimotor learning with the Center for Immersive Technologies. My research focuses on understanding how how our brains interprets, and responds to both our physical reality, and a constructed reality (AR/VR). I do this through a deep love of the brain and emerging technologies. We will soon be existing in the future that we are creating now; so when we build with a "people first" (or a brain first) philosophy, we end up building a space that allows people to flourish.
+
+
+* Personal highlights:
+> MY FIRST CONTRIBUTION TO THE TURING WAY! It's an absolute honor to join The Turing Way community as we look towards an open, ethical, and accessible future. After having such a mixed STEM and non-STEM background, I'm thrilled to have joined this community as it grows and guides my thinking about how and what it means to do research.
+
+* More information:
+> I'm a fierce advocate for ethical and open research, and those beliefs tend to carry into everything I do. I previously worked on Brain Computer Interfaces after finishing my undergrad at UC Berkeley where I saw the incredible work that can be done through collaborative, crossdisciplinary science. I'm now part of Open Life Science's second cohort learning how to implement the teachings of The Turing Way because when good science and good practice meets, great things can happen.
+
+
+<!---T--->
+
+
+<!---U--->
+
+
+<!---V--->
+
+
+<!---W--->
+
+
+<!---X--->
+
+
+<!---Y--->
+
+
+<!---Z--->
+
+
+## Collaborating Organisations
+
+*When members participate in The Turing Way community with the in-kind support of their funders and organisation, we acknowledge each member individually and list their organisations as “Collaborating organisations”.
+Such organisational supports are applicable when one or multiple members from a project or community collaborate to build resources in The Turing Way.*
+
+### [Netherlands eScience Center](https://www.esciencecenter.nl/)
+
+The Netherlands eScience Center is the Dutch national hub for the development and application of domain overarching software and methods for the scientific community. Their main goal is to enable scientists with varying computing experience to fully utilize the potential of the available e-infrastructure and allow them to achieve otherwise unreachable scientific breakthroughs. The Netherlands eScience Center is primarily funded by the national research council (NWO) and the national e-infrastructure organization (SURF) of the Netherlands.
+
+The Netherlands eScience center maintains [its own guide](https://guide.esciencecenter.nl/) for reproducible software development. The focus of the eScience center guide has a big overlap with _The Turing Way_ and therefore it makes sense to avoid duplicating efforts. The eScience center contributes to _The Turing Way_ in the areas which are relevant for the eScience guide. The eScience guide points to _The Turing Way_ in when information would otherwise be duplicated.
+
+Details of each members with their contributions have been listed alphabetically.
+
+#### Carlos Martinez Oritz
+
+* Role: **Community manager**
+* GitHub id: [c-martinez](http://github.com/c-martinez)
+* ORCID: [0000-0001-5565-7577](https://orcid.org/0000-0001-5565-7577)
+* Short bio:
+> Carlos obtained his PhD in Computer Science at the University of Exeter. Afterwards he worked on various research projects at the University of Exeter and Plymouth University. At the eScience Center, he has worked as an engineer in diverse projects in digital humanities and life sciences, developing expertise in natural language processing, linked open data and software sustainability. He is also a certified Software Carpentry instructor and is frequently involved in organising trainings.
+
+* Personal highlights:
+> We always advocate for software reuse and collaborative development of software. I love that we can do the same for software development guidelines: reuse content from the eScience guide and collaboratively develop with _The Turing Way_ community!
+
+* More information:
+> I am a big advocate of improving software quality. I am really glad that the eScience center is collaborating with _The Turing Way_ in providing guidelines and helping build better research software.
+
+#### Mateusz Kuzak
+
+* Role: **Community manager**
+* GitHub id: [mkuzak](http://github.com/mkuzak)
+* ORCID: [0000-0003-0087-6021](https://orcid.org/0000-0003-0087-6021)
+* Short bio:
+>Mateusz obtained his master degree in Biotechnology with specialization Biophysics, at the Jagiellonian University, Krakow, Poland. In September 2019 Mateusz joined the Netherlands eScience Center in the role of Community Officer with the focus on communities and training around Research Software Engineering, software best practices and sustainability, and the role of software in open science and reproducible research. Since 2015, Mateusz has been involved in the Carpentries community, first as an instructor, later contributor, mentor, Executive Counsil member and instructor trainer. He is also leading the Dutch chapter of the Carpentries and is on the core team of nl-RSE community.
+
+* Personal highlights:
+> In _The Turing Way_...
+>
+
+* More information:
+>
+>
