@@ -93,13 +93,13 @@
 > - Use this template to create your case study.
 > - Refrain from writing very long content as readers may be unwilling to read them. Rather, make your case studies as modular possible. You may even make them a series if necessary.
 > - Have a look at the Style Guide and the Maintaining Consistency chapters to ensure that you have followed the relevant recommendations on
->  - Avoiding HTML
-> - Consecutive headers
-> - Labels and cross referencing
-> - Using images
-> - Latin abbreviations
-> - References and citations
-> - Title casing
-> - Matching headers with reference in table of content
+>   - Avoiding HTML
+>   - Consecutive headers
+>   - Labels and cross referencing
+>   - Using images
+>   - Latin abbreviations
+>   - References and citations
+>   - Title casing
+>   - Matching headers with reference in table of content
 
 
