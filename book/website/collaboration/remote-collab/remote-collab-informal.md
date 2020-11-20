@@ -5,7 +5,7 @@
 
 All work and no play makes teams anxious and sad.
 If all of your group's conversations revolve around work and are scheduled as meetings, the team will lose both the serendipity of informal knowledge sharing and the enjoyment of taking a break away from their work.
-It isn't just fun, their productivity will be higher if they take regular breaks and socialise with others! (see [this post](https://buffer.com/resources/science-taking-breaks-at-work/))
+It isn't just fun, their productivity will be higher if they take regular breaks and socialise with others! See [this post](https://buffer.com/resources/science-taking-breaks-at-work/) to discover some reasons why it is good to take breaks.
 
 When a team is working remotely, they can get together at specific times for online "coffee chats".
 These are scheduled in advance so that everyone can plan their work and other meetings around them as needed and specifically have no agenda.
