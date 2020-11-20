@@ -134,12 +134,12 @@ There are plenty of ways to navigate the realm of Ethics at large and Research E
 
 ## Definitions/glossary
 
-* Applied ethics: the subfield of ethics that examines specific moral questions.
+* Applied ethics: the subfield of ethics that examines specific moral questions
 * Ethics: moral principles that govern a person's behaviour or the conducting of an activity
 * Ethics Committee: a body within a wider research institution that is responsible for ensuring that research is carried out in an ethical manner in accordance with the law and some ethical principles or framwork
 * Metaethics: the subfield of ethics that investigates where our ethical principles come from, and what they mean
 * Moral philosophy: the branch of philosophy concerned with ethics
-* Normative ethics: the subfielf of ethics that seeks to arrive at moral standards that regulate right and wrong conduct
+* Normative ethics: the subfield of ethics that seeks to arrive at moral standards that regulate right and wrong conduct
 * P-hacking: the misreporting of true effect sizes in published studies
 * Research integrity: active adherence to the ethical principles and professional standards essential for the responsible practice of research
 * Responsible research and innovation (RRI): an approach that anticipates and assesses potential implications and societal expectations with regard to research and innovation, with the aim to foster the design of inclusive and sustainable research and innovation
