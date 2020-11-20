@@ -81,7 +81,7 @@
 > For example, if you wrote your case study for the Guide for Reproducible Research, you may use this section to talk about anything new you learned about producing work that is reproducible.
 
 > To help with writing this section, we have curated some questions to get you thinking.
-> You can find the questions in the [reflection-questions.md](book/templates/case-study-template/reflection-questions.md) file.
+> You can find the questions in the [reflection-questions.md](./reflection-questions.md) file.
 > Please note that these questions are not exhaustive or definititve. 
 > You are encouraged to improve on them in a pull request.
 
