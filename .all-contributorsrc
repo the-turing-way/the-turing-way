@@ -1872,7 +1872,8 @@
       "profile": "http://lacion.rbind.io",
       "contributions": [
         "a11y",
-        "translation"
+        "translation",
+        "content"
       ]
     },
     {
@@ -2063,6 +2064,73 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/74196557?v=4",
       "profile": "https://github.com/kderuyck",
       "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "glumand",
+      "name": "glumand",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/55833875?v=4",
+      "profile": "https://github.com/glumand",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "tomsing1",
+      "name": "Thomas Sandmann",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10490984?v=4",
+      "profile": "http://www.linkedin.com/pub/thomas-sandmann/21/61b/410/",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "EKaroune",
+      "name": "Em K",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/58147174?v=4",
+      "profile": "https://github.com/EKaroune",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "wna-se",
+      "name": "Wolmar Nyberg Åkerström",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1221165?v=4",
+      "profile": "https://github.com/wna-se",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "BatoolMM",
+      "name": "Batool",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/53487593?v=4",
+      "profile": "http://medium.com/@batool664",
+      "contributions": [
+        "ideas",
+        "content",
+        "translation",
+        "infra"
+      ]
+    },
+    {
+      "login": "irenekp",
+      "name": "irenekp",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/53008913?v=4",
+      "profile": "https://github.com/irenekp",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "nehamoopen",
+      "name": "Neha Moopen",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/37183829?v=4",
+      "profile": "https://github.com/nehamoopen",
+      "contributions": [
+        "review",
         "content"
       ]
     }
