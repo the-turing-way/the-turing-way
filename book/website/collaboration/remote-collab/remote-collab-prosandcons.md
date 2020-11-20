@@ -13,7 +13,7 @@
 - It will help us learn about more colleagues from different parts of the world and educate us more about our cultural differences and accommodations to make in our work environment.
 - Decision making will become more efficient by involving all stakeholders irrespective of their locations, given the meeting is done at a mutually convenient time.
 
-> As someone who used to commute 4 hours per day for 12 years, I can sum my experiences in two words: remote working reduces inequality. Pablo Rodríguez-Sánchez (GitHub: PabRod)
+> As someone who used to commute 4 hours per day for 12 years, I can sum my experiences in two words: remote working reduces inequality.  Pablo Rodríguez-Sánchez (GitHub: PabRod).
 
 ## Cons
 
