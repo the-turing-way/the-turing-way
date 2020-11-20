@@ -182,7 +182,7 @@ They include general instruments on civil and political rights, and on economic,
 Each of these instruments is overseen by a committee of experts: a 'treaty body.'
 Every few years, each country who has signed a human rights instrument has to report to the treaty body on how well they are implementing the treaty.
 The treaty body makes recommendations on how the country can continue to improve its implementation.
-The treaty bodies also periodically issue more detailed guidance on how to interpret different articles of their treaty, to help countries understand better what their obligations.
+The treaty bodies also periodically issue more detailed guidance on how to interpret different articles of their treaty, to help countries understand better what their obligations are.
 
 There are also regional human rights instruments:
 - [African Charter on Human and People's Rights](https://au.int/en/treaties/african-charter-human-and-peoples-rights), which covers 54 of the 55 members of the [African Union](https://au.int/en/member_states/countryprofiles2).
