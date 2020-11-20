@@ -1,3 +1,4 @@
+(ch-style-figures)=
 # Using figures in _The Turing Way_
 
 You are welcome to add relevant figures in the book chapters, however, please ensure that you attribute the image files fairly and avoid files that are either restricted from reuse or lack reproduction permissions.
