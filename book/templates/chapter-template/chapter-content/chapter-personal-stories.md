@@ -1,6 +1,8 @@
 (sectioninitials-filename)=
 # Personal Stories
 
+***Please remove all the Blockquotes (sentences that start with ">")***
+
 > A personal story is a case study about an individual who practices the main ideas from your chapter in their work.
 > Personal stories should give readers a first-hand perspective and insight about how they may go about introducing your chapter's concepts in their own work.
 
