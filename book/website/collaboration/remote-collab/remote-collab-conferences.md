@@ -175,94 +175,92 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 
 - Identify speakers and sessions for the event from the selected abstracts for the talks and community voted sessions.
 - Create a well-balanced agenda that covers the intended theme of the event.
-- If the session is supposed to run in parallel, create an agenda based on the session topic/theme.
+- If the sessions are supposed to run in parallel, create an agenda based on the session topic/theme.
 - In addition to the talks, have plenty of slots for breakout discussions, short workshops and other opportunities to exchange skills.
-- Provide new and interesting topics that are not selected for long talks an opportunity to present their idea in short or lightning talks
-- Instead of having a live lightning talk and poster presentation, invite submission of the pre-recorded lightning talks and talks on posters that can be assembled in a gallery (for example, a YouTube playlist) that can be accessed by everyone
-  - For poster sessions, create a gallery of posters online that can be browsed easily
-    * Use [F1000 Research](https://f1000research.com/posters/8-400), [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/) and [Open Science Framework (OSF)](osf.io/meetings) that assigns a DOI to each submission and allows browsable collections.
+- Provide new and interesting topics that are not selected for long talks as an opportunity to present their idea in short or lightning talks.
+- Instead of having a live lightning talk and poster presentation, invite submission of pre-recorded lightning talks and talks on posters that can be assembled in a gallery (for example, a YouTube playlist) that can be accessed by everyone.
+  - For poster sessions, create a gallery of posters online that can be browsed easily.
+    * Use [F1000 Research](https://f1000research.com/posters/8-400), [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/) or [Open Science Framework (OSF)](osf.io/meetings) to ensure that a DOI is assigned to each submission and allows browsable collections.
       Other options are Flicker, Unsplash and Google photos.
-    * Share link of each poster with their online video in the shared document
-  - Decide the length of these talks (recommended length is 1.5-2 minutes)
-  - Create a designated slot in the program to ensure that people take time to check out these talks and posters
-- Invite poster submission and create a browsable gallery (for example on F1000 research or Zenodo)
-  - Create a designated slot in the program to ensure that people take time to check out these posters and interact with the poster presenters
-- Share program and agenda with everyone (via the website) on time
-- Make sure that your online program is kept up to date
-- Invite volunteers from the community to chair sessions
-- Share speaker's and session guidelines with the selected participants
-- Share the chair's guidelines and protocols with the selected participants
-- Treat social events in your program as seriously as any other session; discuss this with the organising committee and agree on social events that are good fits for your community
-  - Confirm leaders for these social activities
-- Create shared documents for all the selected talks, sessions and social events to be shared with the participants
-  - Save all the shared documents in one location (or create a common location with their link) so all the participants can browse them during and after the event
+    * Share link of each poster with their online video in the shared document.
+  - Decide the length of these talks (recommended length is 1.5-2 minutes),
+  - Create a designated slot in the program to ensure that people take time to check out these talks and posters.
+- Share program and agenda with everyone (via the website) on time.
+- Make sure that your online program is kept up to date.
+- Invite volunteers from the community to chair sessions.
+- Share speaker's and session guidelines with the selected participants.
+- Share the chair's guidelines and protocols with the selected participants.
+- Treat social events in your program as seriously as any other session; discuss this with the organising committee and agree on social events that are good fits for your community.
+  - Confirm leaders for these social activities.
+- Create shared documents for all the selected talks, sessions and social events to be shared with the participants.
+  - Save all the shared documents in one location (or create a common location with their link) so all the participants can browse them during and after the event.
 
 ### Documents and tools for participants
 
 ***Relevant for all phases***
 
-- Establish a dedicated location for all the shared documents for different sessions with participants that they can access and edit online during the event
-  - Use a standard template that can similar for all the sessions with minor adaption
-- If using a tool that is available only upon subscription, make sure that all the participants have access
-- Share a how-to guide to ensure that everyone knows how to use the tool
-- If possible, offer help with installation and testing of the tool
-- Remind everyone to arrange a microphone or headsets
-  - If possible, provide a grant to buy necessary equipment such as headphones, webcams, and/or high-speed internet
-- Share the participation guidelines, code of conduct and contact information of people who can help with any issues regarding the meeting
-- Send a reminder with the links to the document(s) and other important resources to all the participants a week and a day in advance
-- Create slides or presentations that might be needed from organisers side (welcome, wrap up)
+- Establish a dedicated location for all the shared documents for different sessions with participants so that they can access and edit online during the event.
+  - Use a standard template that can be similar for all the sessions with minor adaption.
+- If using a tool that is available only upon subscription, make sure that all the participants have access.
+- Share a how-to guide to ensure that everyone knows how to use the tool.
+- If possible, offer help with installation and testing of the tool.
+- Remind everyone to arrange a microphone or headsets.
+  - If possible, provide a grant to buy necessary equipment such as headphones, webcams, and/or high-speed internet.
+- Share the participation guidelines, code of conduct and contact information of people who can help with any issues regarding the meeting.
+- Send a reminder with the links to the document(s) and other important resources to all the participants a week and a day in advance.
+- Create slides or presentations that might be needed from the organisers side (welcome, wrap up).
 
 ### Organise a pre-event community call
-*Often referred by different names such as installation party, coffee-hours or set-up test fest*
+*Often referred to by different names such as installation party, coffee-hours or set-up test fest*
 
 ***Later-phase***
 
-- Organise a pre-event call for the organising committee to cross-check if all the materials for the event are sorted and have been made available to everyone
-- Arrange a conference call(s) with volunteers, speakers, session leads and chairs to communicate the guidelines and discuss their responsibilities during the event
-- Create a collaborative document to collect questions from participants and document answers and share it with those who can't attend the call
-- Arrange a separate conference call(s) with the participants to answer their questions related to the event and also use collaborative notes to share the main discussion points
-- Test the technical infrastructure with everyone and help set up any software that is needed during the event
-- Share important contact details (committee chairs, code of conduct contact person) with everyone
-- Keep this meeting informal and have as many helpers as possible who can help individuals in breakout rooms
+- Organise a pre-event call for the organising committee to cross-check if all the materials for the event are sorted and have been made available to everyone.
+- Arrange a conference call(s) with volunteers, speakers, session leads and chairs to communicate the guidelines and discuss their responsibilities during the event.
+- Create a collaborative document to collect questions from participants, document answers and share it with those who can't attend the call.
+- Arrange a separate conference call(s) with the participants to answer their questions related to the event and also use collaborative notes to share the main discussion points.
+- Test the technical infrastructure with everyone and help set up any software that is needed during the event.
+- Share important contact details (committee chairs, code of conduct contact person) with everyone.
+- Keep this meeting informal and have as many helpers as possible who can help individuals in breakout rooms.
 
 ### Storing and sharing information with the participants
 
 ***Later-phase***
 
-- Use a common, and if possible, single resource management system (like GitHub, Google Drive, website) that is easily searchable for sharing **information with the participants**
-- Create a single page summary for the participants of the available resources with their links
-- Clearly communicate where and how participants can access information and documents
-- If not using a free platform, provide access to the participants
-  - This can be communicated in the registration confirmation email and the pre-event community call
-- Send out short emails with updates and reminders that point the participants to these resources (as people tend to look for all the information right before the event)
+- Use a common, and if possible, single resource management system (like GitHub, Google Drive, or a website) that is easily searchable for sharing **information with the participants**.
+- Create a single page summary for the participants of the available resources with their links.
+- Clearly communicate where and how participants can access information and documents.
+- If not using a free platform, provide access to the participants.
+  - This can be communicated in the registration confirmation email and the pre-event community call.
+- Send out short emails with updates and reminders that point the participants to these resources (as people tend to look for all the information right before the event).
 
 ### Branding and promotional materials
 
 ***Relevant for all phases***
 
-- Use the organisation logo for promoting this event only if agreed by the organisation leadership, otherwise invite logo designs from the community
-- Use social media to engage with the community
-  - Reach out to them as frequently as possible during the decision making
-- Use online store to sell swag to allow people to buy them before or during the event
-  - If the overall budget is low, this can be used for inviting small donations from the community
-  - If you have sufficient budget, send these to your organising committees before the event, and to the speakers and volunteers after the event as a *thank you* gift
-- Design online posters and flyers to share with your community members who can help you promote the event in their networks
+- Use the organisation logo for promoting this event only if agreed by the organisation leadership, otherwise invite logo designs from the community.
+- Use social media to engage with the community.
+  - Reach out to them as frequently as possible during the decision making.
+- Use online store to sell swag to allow people to buy them before or during the event.
+  - If the overall budget is low, this can be used for inviting small donations from the community.
+  - If you have sufficient budget, send these to your organising committees before the event, and to the speakers and volunteers after the event as a *thank you* gift.
+- Design online posters and flyers to share with your community members who can help you promote the event in their networks.
 
 ### Designated venues for participation
 
 *If there are physical office locations, or co-working spaces accessible for most members*
 
-- Reserve conference room(s) (or similar venues) with high-speed internet
-- Share details on how members can access this venue
-- When possible, use individual cameras to simulate remote participation so that others joining remotely don't feel left out
-- If the reserved location has a webcam and microphone, check that they work properly
-- Plan the sitting arrangement so that people are facing to the main screen/camera
-- Test the screen with different light intensity
-- Arrange all the required materials and equipment, like extension cords or power strips
-- Create a form to collect dietary requirements, interest in participating in a social event, mobility-related requirement and other location-specific requests
-- Arrange for beverages/snacks for the breaks, and ensure that the catering service will label the food for contents/allergens
-- If organising  any location-specific social event, run that in parallel to the remote social event
-  - Book social event venue, transfer, and catering and communicate them clearly
+- Reserve conference room(s) (or similar venues) with high-speed internet.
+- Share details on how members can access this venue.
+- When possible, use individual cameras to simulate remote participation so that others joining remotely don't feel left out.
+- If the reserved location has a webcam and microphone, check that they work properly.
+- Plan the seating arrangement so that people are facing to the main screen/camera.
+- Test the screen with different light intensity.
+- Arrange all the required materials and equipment, like extension cords or power strips.
+- Create a form to collect dietary requirements, interest in participating in a social event, mobility-related requirement and other location-specific requests.
+- Arrange for beverages/snacks for the breaks, and ensure that the catering service will label the food for contents/allergens.
+- If organising any location-specific social event, run that in parallel to the remote social event.
+  - Book social event venue, transfer, and catering and communicate them clearly.
 
 ## During the event
 
@@ -270,40 +268,40 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 
 *Checklist for the designated chair of the opening session*
 
-- Start the video call, or any communication channel 30 minutes before the event to check that everything works
-- Share links to the documents and other resources for the event on the chat system like Slack
-- Remind attendees of the community participation guideline and the Code of Conduct
-- Introduce the organising committees and the Code of Conduct contact person for the event
-- Introduce the format of the meeting and when the breaks are scheduled
-- Explain the basic protocols for participation
-  - Muting microphone when not speaking
-  - Using a chat system during the meeting - if there is one
-- Remind the guidelines for participating in discussions
-  - Raise hand - on chat, or virtually (like in [Zoom](https://zoom.us/)) or physically
-  - Other ways to involve others in the discussion equitably
-- Ask everyone to write down their name, contact (Twitter, email) and other relevant information
-  - Provide a place to write down pronouns, but keep that optional
-- Start the meeting with an icebreaker question
-  - Create opportunities for everyone to share something personal (about their hobby, or experiences) on the document or verbally
-- Communicate the ways to have inclusive discussions
-- Remind everyone if the video will be recorded
-- Provide an agenda with the names and contact information of the session chairs
-- Remind session chairs of their guidelines in private and make sure that they have all the information and support they need
-- Provide everyone with a way to keep track of sessions and time, for example, a shared link to [cuckoo.team](https://cuckoo.team) clock
-- Share how participants can ask for help with troubleshooting, event information or feedback about the event
+- Start the video call, or any communication channel 30 minutes before the event to check that everything works.
+- Share links to the documents and other resources for the event on the chat system like Slack.
+- Remind attendees of the community participation guideline and the Code of Conduct.
+- Introduce the organising committees and the Code of Conduct contact person for the event.
+- Introduce the format of the meeting and when the breaks are scheduled.
+- Explain the basic protocols for participation.
+  - Muting microphone when not speaking.
+  - Using a chat system during the meeting - if there is one.
+- Remind the guidelines for participating in discussions.
+  - Raise hand - on chat, or virtually (like in [Zoom](https://zoom.us/)) or physically.
+  - Other ways to involve others in the discussion equitably.
+- Ask everyone to write down their name, contact (Twitter, email) and other relevant information.
+  - Provide a place to write down pronouns, but keep that optional.
+- Start the meeting with an icebreaker question.
+  - Create opportunities for everyone to share something personal (about their hobby, or experiences) on the document or verbally.
+- Communicate the ways to have inclusive discussions.
+- Remind everyone if the video will be recorded.
+- Provide an agenda with the names and contact information of the session chairs.
+- Remind session chairs of their guidelines in private and make sure that they have all the information and support they need.
+- Provide everyone with a way to keep track of sessions and time, for example, a shared link to [cuckoo.team](https://cuckoo.team) clock.
+- Share how participants can ask for help with troubleshooting, event information or feedback about the event.
 
 ## After the event
 
-- Create a debrief document to capture what went well and what could be improved in future events
-- Create a small overview blog post to share the main highlights from the event with community/participants immediately
-- Collect any additional document or information mentioned by others/speakers during the events
-- If the event sessions and talks were recorded, process and publish the recorded videos within a defined time frame
-- Send thank you email to everyone with the link of the complete notes and all the relevant information
-- Send a feedback form to all the participants with the thank you email
-- Settle all the invoices from the event
-- Host a post-event community call to thank people and share the lessons learned
+- Create a debrief document to capture what went well and what could be improved in future events.
+- Create a small overview blog post to share the main highlights from the event with community/participants immediately.
+- Collect any additional documents or information mentioned by others/speakers during the events.
+- If the event sessions and talks were recorded, process and publish the recorded videos within a defined time frame.
+- Send thank you emails to everyone with the link of the complete notes and all the relevant information.
+- Send a feedback form to all the participants with the thank you email.
+- Settle all the invoices from the event.
+- Host a post-event community call to thank people and share the lessons learned.
 
 ## Bibliography
 
-- The *Checklist for running a meeting* is a summarised version of the [Gallantries (Galaxy+The Carpentries handbook)](https://galaxy-carpentries.github.io/gallantries/handbook) which is an expanded version of [The Carpentries workshop checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html)
+- The *Checklist for running a meeting* is a summarised version of the [Gallantries (Galaxy+The Carpentries handbook)](https://galaxy-carpentries.github.io/gallantries/handbook) which is an expanded version of [The Carpentries workshop checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html).
 - The *Checklist for running a longer event such as a conference or sprint* is a summarised version of the debrief document written by the [chairs of the 1st CarpentryCon conference](https://2018.carpentrycon.org/) organisation committee.
