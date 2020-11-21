@@ -1,10 +1,10 @@
 (cl-remote-collab-meetings)=
 # Organising Remote Meetings
 
-A successful online event is planned by defining goals of events, tools for collaboration, stakeholders engagement and tasks involved in their organisation and management.
+A successful online event is organised by defining goals of the event, setting up tools for collaboration, identifying effective approaches for stakeholder-engagement and successfully managing all the associated tasks.
 An online meeting is such an event.
 A 1:1 meeting may be organised by simply sharing a link to join the call on an agreed date and time.
-However, when such meetings involve multiple participants including team members, speakers and guests, and collaborative activities like breakout discussions and documentation there is more to organising such meetings than just sharing a call joining link.
+However, when such meetings involve multiple participants including team members, speakers and guests, and collaborative activities like breakout discussions and documentation, there is more to organising such meetings than just sharing a joining link.
 
 This subchapter provides a structured list of tasks that go into organising remote meetings.
 We have listed them in chronological order and divided into sections for "before", "during" and "after" the meeting.
