@@ -1,8 +1,13 @@
 (cl-remote-collab-meetings)=
 # Organising Remote Meetings
 
-This document lists the various tasks for organising remote meetings.
-The tasks and responsibilities are listed in chronological order and have been divided into sections for "before", "during" and "after" the meeting.
+A successful online event is planned by defining goals of events, tools for collaboration, stakeholders engagement and tasks involved in their organisation and management.
+An online meeting is such an event.
+A 1:1 meeting may be organised by simply sharing a link to join the call on an agreed date and time.
+However, when such meetings involve multiple participants including team members, speakers and guests, and collaborative activities like breakout discussions and documentation there is more to organising such meetings than just sharing a call joining link.
+
+This subchapter provides a structured list of tasks that go into organising remote meetings.
+We have listed them in chronological order and divided into sections for "before", "during" and "after" the meeting.
 
 ## Before the meeting
 

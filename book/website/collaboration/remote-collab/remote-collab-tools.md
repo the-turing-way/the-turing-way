@@ -1,23 +1,39 @@
 (cl-remote-collab-tools)=
 # Tools for Remote Collaboration
 
+Many free and commercial tools exist to improve people's experience of planning, organising, and hosting online and hybrid events.
+
+## Motivation
+
+To effectively run an event, it is important to choose tools that can maximise the overall success and reduce the risk of things going wrong during the event.
+Tools should also be selected based on how easy it is to use them and how they impact the engagement by different stakeholders such as organisers, helpers and attendees.
+
 <!---Add a few sentences capturing the concepts explained below--->
-Here is a list of recommended tools for facilitating different aspects of remote collaboration discussed in the earlier subchapter.
+Here is a list of free and popular tools for facilitating different aspects of remote collaboration discussed in the earlier subchapter.
+
+## Task management tools
+
+Every event has several stages of planning and organising that involve numerous tasks as discussed in earlier subchapters.
+Therefore, it is important to track those tasks in an online event management tool, where the responsible individuals can see their to-dos and deadlines, and collaborate with others.
+
+- [Trello](https://trello.com/): online kanban like tools to assign tasks and checklists to individual users and monitor their progress.
+- [Asana](https://asana.com/): online kanban tool that can be used for creating different teams create tasks, set deadlines and send reminders.
+- [Jira](https://www.atlassian.com/software/jira): useful for large event teams to help them track tasks before, during, and after the event.
+- [GitHub project board](https://github.com/features/project-management/): every repository on GitHub can have a project board where tasks can be issues and Pull Requests that can be coordinated, tracked, and updated transparently by all contributors.
+- [notion.so](https://www.notion.so/): This is a high-level project management tool that allows storing reports, creating documents and integrate different tools.
 
 ## Finding a common availability
 
-Meeting scheduling platforms help find a common availability without having to check multiple times with all the intended participant's. 
+Meeting scheduling platforms help find a common availability without having to check multiple times with all the intended participant's.
 
-Here are some commonly used options:
+Some commonly used options are [Doodle](https://doodle.com/poll/) abd [when2meet.com](https://www.when2meet.com/).
+See more options [here](https://zapier.com/blog/best-meeting-scheduler-apps/).
 
-- [Doodle](https://doodle.com/poll/)
-- [when2meet.com](https://www.when2meet.com/)
+It is particularly crucial to use meeting links like [arewemeetingyet](arewemeetingyet.com/) or create/send calendar invitations to communicate these schedules to invitees from different countries and time zones.
 
-See more options [here](https://zapier.com/blog/best-meeting-scheduler-apps/)
+## Creating shared notes
 
-## Creating shared notes 
-
-A document that can be edited collaboratively in real-time allows all attendees to participate equitably during the online call. 
+A document that can be edited collaboratively in real-time allows all attendees to participate equitably during the online call.
 This is especially important for creating an opportunity for those who can not (or do not feel comfortable to) actively speak up in group meetings.
 
 - [Google doc](https://en.wikipedia.org/wiki/Google_Docs): Google Docs is a word processor included as part of a free, web-based Google Docs suite offered by Google within its Google Workspace service.
@@ -25,13 +41,13 @@ This is especially important for creating an opportunity for those who can not (
 - [HackMD](https://hackmd.io/): HackMD is an online collaborative document that can be written in [Markdown](https://www.markdownguide.org/) format.
 - [HedgeDoc (previously CodiMD)](https://demo.hedgedoc.org/): HedgeDoc is the community-driven fork of CodiMD, which is the open source version of HackMD.
 
-## Maintaining shared notes 
+## Maintaining shared notes
 
-It is important to create shared notes, but also to save them to share with others and to make them avaiable to refer back to later. 
+It is important to create shared notes, but also to save them to share with others and to make them avaiable to refer back to later.
 
-- [Google Drive](https://en.wikipedia.org/wiki/Google_Drive): Google Drive is a file storage and synchronization service developed by Google. 
+- [Google Drive](https://en.wikipedia.org/wiki/Google_Drive): Google Drive is a file storage and synchronization service developed by Google.
 - [DropBox](https://www.dropbox.com/): Dropbox is a file hosting service operated by the American company Dropbox.
-- [owncloud](https://owncloud.com/): ownCloud is a suite of client-server software for creating and using file hosting services. ownCloud functionally has similarities to the widely used Dropbox. 
+- [owncloud](https://owncloud.com/): ownCloud is a suite of client-server software for creating and using file hosting services. ownCloud functionally has similarities to the widely used Dropbox.
 - [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/free-trial/) and [Bitbucket](https://bitbucket.org/product): Platforms for hosting, sharing and collaborating on documents and software with a version control system (see [this post for detail/difference](https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab)).
 
 ## Managing event registration
@@ -39,8 +55,8 @@ It is important to create shared notes, but also to save them to share with othe
 Effective event registration is the first place to get to know who will attend your event.
 It's especially important when the events are intended for a large group of people.
 
-- [Zoom](https://support.zoom.us/hc/en-us/articles/204619915-Scheduling-a-Webinar-with-Registration): Scheduling an online meeting and webinar with registration on Zoom provides an automatic brief form before receiving the link to join your webinar. 
-- [Eventbrite](https://www.eventbrite.com/): An event management and ticketing website. The service allows users to browse, create, and promote local events. The service charges a fee to event organizers in exchange for the online ticketing services, unless the event is free. 
+- [Zoom](https://support.zoom.us/hc/en-us/articles/204619915-Scheduling-a-Webinar-with-Registration): Scheduling an online meeting and webinar with registration on Zoom provides an automatic brief form before receiving the link to join your webinar.
+- [Eventbrite](https://www.eventbrite.com/): An event management and ticketing website. The service allows users to browse, create, and promote local events. The service charges a fee to event organizers in exchange for the online ticketing services, unless the event is free.
 - [Google Form](https://en.wikipedia.org/wiki/Google_Forms): Google Forms is a survey administration software that allows registration/data collection that can be automatically entered into a spreadsheet.
 
 ## Hosting online calls
@@ -63,6 +79,6 @@ A communication platform and chat system is a good way to connect all the attend
 
 ## Web-based timers
 
-An online timer that can be created on a web-browser and shared with a distributed team to have more productive meeting formats. 
+An online timer that can be created on a web-browser and shared with a distributed team to have more productive meeting formats.
 - [cuckoo.team](https://cuckoo.team/)
 - [vclock](https://vclock.com/timer/)

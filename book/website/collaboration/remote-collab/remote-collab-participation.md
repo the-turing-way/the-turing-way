@@ -1,9 +1,11 @@
 (cl-remote-collab-participation)=
-# Remote Participation
+# Participating in Remote Events
+
+## Motivation
 
 Now that you have been invited to attend an online meeting, or have registered to attend an online event, this checklist will help you start preparing for your participation and make the most of it.
-This checklist also aims to help participants support the event organisers by being proactive and informed about the resources that are available for them.
 
+This checklist also aims to help participants support the event organisers by being proactive and informed about the resources that are available for them and make the best of their participation.
 The tasks and responsibilities are listed in chronological order and have been divided into "before", "during" and "after" the meeting.
 
 ## Before participating in the meeting

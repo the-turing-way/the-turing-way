@@ -1,13 +1,14 @@
 (cl-remote-collab-coworking)=
 # Organising Online Coworking Calls
 
-> The concept of coworking is generally associated with the practice of sharing physical office space with different people who work independently such as remote employees or freelancers.
-> This allows people - who may otherwise feel isolated while working alone at home - to use traditional office setups, create a work routine, and build a sense of companionship with others who they share their office spaces with. - {ref}`The Turing Way Coworking Calls<ch-coworking>`.
+The concept of coworking is generally associated with the practice of sharing physical office space with different people who work independently such as remote employees or freelancers.
 
-Below are descriptions of different aspects that you should take into consideration when planning or designing your coworking calls.
+This allows people - who may otherwise feel isolated while working alone at home - to use traditional office setups, create a work routine, and build a sense of companionship with others who they share their office spaces with.
 
-In our Community Handbook, we discuss coworking calls hosted for _The Turing Way_ community.
-To set up coworking calls for your community, you can repurpose and adapt the format, templates, and materials discussed in our chapter on {ref}`Coworking Calls<ch-coworking>` to support your teams and communities.
+In our Community Handbook, we discuss coworking calls hosted for _The Turing Way_ community (see the chapter on {ref}`The Turing Way Coworking Calls<ch-coworking>`).
+It includes our motivation, background, techniques, format, templates, and materials, which can be repurposed and adapted to support your teams and communities by setting up coworking calls for them.
+
+Below are descriptions of different aspects that one should take into consideration when planning or designing your coworking calls.
 
 ## Designing a format the works for you
 
@@ -87,9 +88,6 @@ Your calls could be organised on a weekly or monthly basis that consistently tak
 Once you have found a schedule (date, time and frequency), the following tasks will will go into planning them:
 - Update the schedule, agenda and calendar to share them with the attendees (or potential target audience). It is also effective when they receive a calendar invite.
 - Maintain communication (by email, newsletter, or social media) so that everyone is aware of the next calls and the resources available for them to participate.
-It is particularly crucial to use meeting links like [arewemeetingyet](arewemeetingyet.com/) for communicating these schedules for members from different countries so that they can see the time in their time zones.
-
-For hosting these calls, you can reuse and adapt the agenda, techniques and templates described in the earlier chapters.
 
 Your main tasks as a host will be to:
 - Provide adequate support to the participants so they can make the best of their time.
@@ -108,7 +106,6 @@ Additionally, you should also communicate the basic etiquettes, such as muting m
 It is useful to let everyone know who they can contact if they need help in troubleshooting during the call or need more time to discuss their ideas.
 Create an agenda that states clearly what is expected of them, such as if they should bring their tasks and questions to the call or communicate them beforehand.
 In _The Turing Way_, we have dedicated slots for both group discussions and quiet working.
-
 
 ## Some Examples
 

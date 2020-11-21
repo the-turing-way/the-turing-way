@@ -6,9 +6,9 @@ labels: 'bug'
 assignees: ''
 
 ---
-<!-- Thank you for contributing. These HTML comments will not render in the issue, but you can delete them once you've read them if you prefer! -->
+<!-- Use this template to raise issues about installing or running _The Turing Way_ locally on your computer. If you would like to raise an issue about fixing typos, or formatting issues in chapters, please use the Editor's Issue template. -->
 
-### Bug description
+### Description
 <!-- Use this section to clearly and concisely describe the bug. 
 We suggest using bullets (indicated by * or -) or checkboxes [ ] (filled checkbox [x]) here -->
 
@@ -52,3 +52,14 @@ We suggest using bullets (indicated by * or -) or checkboxes [ ] (filled checkbo
 
 - [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
 - [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
+
+- Dependencies:
+<!-- Such as `jupyter-book` or  `datascience`. You can generate a list of this using `pip freeze` or `conda list` depending on the package manager you are using. YOU MAY SKIP THIS SECTION-->
+
+- [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
+- [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
+
+### Failure Logs
+
+<!-- Please include any relevant log snippets or files here. You may also include screenshots. -->
+
