@@ -1,7 +1,5 @@
 # Paul's biweekly meeting notes.
 
-* [19 October 2020](#date-19-October-2020)
-
 ### Date: 19 October 2020
 
 This is the first check-in, so it refers to my activities since Sep. 28th.
@@ -35,8 +33,6 @@ This is the first check-in, so it refers to my activities since Sep. 28th.
 
 - Feedback on PRs and overall direction so that I can know that my work is on the right track. This is already in place. 
 
-* [26 October 2020](#date-26-October-2020)
-
 ### Date: 26 October 2020
 
 #### Who did you help this week?
@@ -61,6 +57,47 @@ This is the first check-in, so it refers to my activities since Sep. 28th.
 
 - This week, I will be creating issues for chapters that do pass the consistency checklist
 - Next week, I will begin working on developing templates for new chapters/case studies etc
+
+#### Where do you need help from Malvika and Kirstie?
+
+- reviews and feedback
+
+
+### Date: 23 November 2020
+
+This check-in documents my activities since Oct. 26th.
+
+#### Who did you help this week?
+
+My work has been focused on making the Turing Way accessible to new contributors..
+
+- Supported some new contributors during the book dash week in generating ideas and creating their first PRs
+- Revised the consistency chapter to help guide contributors in making The Turing Way consistent
+- Created many good first issues for new contributors to get started contributing to the project
+
+#### Who helped you this week?
+
+- Malvika for reviewing my PRs, plus providing overall direction for my work
+- Neha for reviewing my PRs and providing lots of helpful feedback
+- Kirstie for providing overall direction
+
+#### What did you achieve?
+
+- Participated in the book dash!
+- Made lot of good first issues, more are coming
+- Merged the consistency chapter
+- created templates for: new chapters, case studies, issues
+- Raised an issue on the Jupyter Book repo for the ability to generate PDFs. There's a temporary workaround for now but it means PDFs wont be up to date
+
+#### What did you struggle with?
+
+- I would like to improve the consistency chapter with how-to videos - audio capture on my laptop is not great. 
+  - Maybe it can be how-to tutorials instead
+
+#### What would you like to work on next week?
+
+- Think and implement a way to create explainer videos for items in the consistency checklist (perhaps without voice)
+- Make good first issues for the rest of the book
 
 #### Where do you need help from Malvika and Kirstie?
 
