@@ -78,6 +78,8 @@
       file: reproducible-research/licensing/licensing-data
     - title: Resources
       file: reproducible-research/licensing/licensing-resources
+    - title: Checklist
+      file: reproducible-research/licensing/licensing-checklist
   - title: Research Data Management
     file: reproducible-research/rdm
     sections:
@@ -93,6 +95,8 @@
       file: reproducible-research/rdm/rdm-metadata
     - title: Sharing and Archiving Data
       file: reproducible-research/rdm/rdm-sharing
+    - title: Research Data Management Toolkits
+      file: reproducible-research/rdm/rdm-toolkits
     - title: Personal Impact Stories
       file: reproducible-research/rdm/rdm-stories
     - title: Checklist
@@ -180,6 +184,8 @@
       file: reproducible-research/make/make-results
     - title: Resources for "Make"
       file: reproducible-research/make/make-resources
+    - title: Appendix
+      file: reproducible-research/make/make-appendix
   - title: Research Compendia
     file: reproducible-research/compendia
   - title: Credit for Reproducible Research
@@ -296,6 +302,15 @@
       file: community-handbook/style/style-crossref
     - title: Using Figures
       file: community-handbook/style/style-figures
+  - title: Maintaining Consistency
+    file: community-handbook/consistency
+    sections:
+    - title: Formatting
+      file: community-handbook/consistency/consistency-formatting
+    - title: Structure
+      file: community-handbook/consistency/consistency-structure
+    - title: Language
+      file: community-handbook/consistency/consistency-language
   - title: Acknowledging Contributors
     file: community-handbook/acknowledgement
     sections:

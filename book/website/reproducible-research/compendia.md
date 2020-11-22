@@ -13,7 +13,7 @@
 ## Summary
 
 A research compendium is a collection of all digital parts of a research project including data, code, texts (protocols, reports, questionnaires, meta data).
-The collection is created in such a way that reproducing all results is straight forward {cite}`Nuest2017compendia,Gentleman2007statistical`.
+The collection is created in such a way that reproducing all results is straightforward {cite}`Nuest2017compendia,Gentleman2007statistical`.
 
 This chapter has many prerequisites as it takes all digital components of a project together into a reproducible research package.
 That said: a research compendium can be constructed with minimal technical knowledge.
@@ -24,7 +24,7 @@ The main purpose is that all elements of a project are published together, so a 
 ## How this will help you/why this is useful
 
 A research compendium combines all elements of your project, allowing others to reproduce your work, and should be the final product of your research project.
-Publishing your research paper along with a research compendia allows others to access your input, test your analysis, and, if the compendium can be executed, rerun to assess the resulting output.
+Publishing your research paper along with a research compendium allows others to access your input, test your analysis, and, if the compendium can be executed, rerun to assess the resulting output.
 This does not only instill trust in your research but can give you more visibility.
 Others may use your research in unexpected ways, some of which are discussed below (refer section: [Using a research compendium](#using-a-research-compendium).
 
@@ -32,14 +32,14 @@ Others may use your research in unexpected ways, some of which are discussed bel
 
 A research compendium at its most basic is a comprehensive set of files that combines all components of a project.
 This compendium can be downloaded and run locally to recreate the work done, or it can contain elements that allow it to be executed on a remote server.
-Executable research compendia aim to make the computational part of a scientific publication reproducible by providing all the building blocks available and give a description of how the user can execute the containing code.
+Executable research compendia aim to make the computational part of a scientific publication reproducible by providing all the building blocks available and give a description of how the user can execute the contained code.
 
 
 ### Structure of a research compendium
 
 Three principles should be kept in mind when constructing a research compendium {cite}`Marwick2018compendia`.
 
-- Files should organized in a conventional folder structure;
+- Files should be organized in a conventional folder structure;
 - Data, methods, and output should be clearly separated;
 - The computational environment should be specified.
 
@@ -139,13 +139,13 @@ A research compendium can be used in several ways, including (but not limited to
 
 To create a research compendium, follow these steps:
 
-- [ ] Think about a good folder structure (see example above)
-- [ ] Create folder structure (main directory and sub directories)
-- [ ] Optional: Make the compendium into a git repository
-- [ ] Add all files needed for reproducing the results of the project
-- [ ] Try to have the compendium as clean and easy to use as possible when you advertise it for others to use
-- [ ] Optional: Have a peer check the compendium and see if it works correctly
-- [ ] Publish your compendium
+- Think about a good folder structure (see example above)
+- Create folder structure (main directory and sub directories)
+- Optional: Make the compendium into a git repository
+- Add all files needed for reproducing the results of the project
+- Try to have the compendium as clean and easy to use as possible when you advertise it for others to use
+- Optional: Have a peer check the compendium and see if it works correctly
+- Publish your compendium
 
 
 ## What to learn next
