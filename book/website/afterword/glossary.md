@@ -16,7 +16,8 @@ Command used to add files to the staging area. Allows the user to specify which 
 
 ### Author
 
-The person/s or organization that created the project.
+Authors are considered as any active local or remote contributors to the project at the time of the project developed and finalised,
+ who had a substantial contribution to the project, until the project has been finalised or came to a stage to publish the results.
 
 ## **B**
 
@@ -70,7 +71,7 @@ A measure which describes how much of the source code is exercised by the test s
 
 ### Code of conduct
 
-Guidelines that establish the kind of behaviour encouraged in the community, an outline the process by which problems or violations of the guidelines will be address and who will be in charge of enforcing them.
+Guidelines that establish the kind of behaviour encouraged in the community, outline the process by which problems or violations of the guidelines will be addressed and who will be in charge of enforcing them.
 
 ### Code review
 
