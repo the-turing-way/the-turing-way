@@ -14,9 +14,10 @@ A level of the software testing process where a system is tested for acceptabili
 
 Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
 
-### Author
+### Authors
 
-The person/s or organization that created the project.
+Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions.
+All authors are named co-authors on the book as a whole.
 
 ## **B**
 
@@ -70,7 +71,7 @@ A measure which describes how much of the source code is exercised by the test s
 
 ### Code of conduct
 
-Guidelines that establish the kind of behaviour encouraged in the community, an outline the process by which problems or violations of the guidelines will be address and who will be in charge of enforcing them.
+Guidelines that establish the kind of behaviour encouraged in the community, outline the process by which problems or violations of the guidelines will be addressed and who will be in charge of enforcing them.
 
 ### Code review
 
