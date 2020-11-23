@@ -216,8 +216,4 @@ You can use your ORCID ID whenever you’re prompted to do so, give your [truste
 - [Making software citeable](https://guide.esciencecenter.nl/citable_software/making_software_citable.html)
 - [OpenAIRE Guide on Person Identifiers](https://www.openaire.eu/how-can-identifiers-improve-the-dissemination-of-your-research-outputs)
 
-## Definitions/glossary
-
-Digital Object Identifiers (DOIs) - an alpha-numeric string which acts as a unique, persistent identifier for a digital object (journal article, data, software and so on).
-
 <!-- ## Bibliography -->
