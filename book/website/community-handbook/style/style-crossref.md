@@ -47,7 +47,7 @@ For the different Guides of the book, we will use the following `sectioninitials
 - Reproducible Research: `rr`
 - Project Design: `pd`
 - Collaboration: `cl`
-- Communication: `comm`
+- Communication: `cm`
 - Ethical Research: `er`
 - Community Handbook: `ch`
 
