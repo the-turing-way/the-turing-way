@@ -292,6 +292,8 @@
       file: community-handbook/style/style-crossref
     - title: Using Figures
       file: community-handbook/style/style-figures
+    - title: Glossary, Special Blocks and More Styling  
+      file: community-handbook/style/style-more-styling
   - title: Maintaining Consistency
     file: community-handbook/consistency
     sections:
