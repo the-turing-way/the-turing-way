@@ -99,9 +99,10 @@ More details can be read on th [CONTRIBUTING.md](https://github.com/alan-turing-
 
 ## Content Templates
 
-Templates for different types of content can be created in the `templates` directory.
+Templates for different types of content can be created in the [`templates` directory](./templates).
 
-As of now, the template section includes:
-* `case-study-template.ipynb` a template for including interactive case studies in the book
+As of now, the template directory includes the following:
+* `case-study-template`: a template for writing and/or revising case studies
+* `chapter-template`: a template for writing new chapters or revising old ones
 
 The template can be copied to create content relevant to a chapter in the `content` directory.
