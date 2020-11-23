@@ -44,27 +44,6 @@ For more information on DOIs and citing resources look [here](http://www.doi.org
 If you want to take a look at an active open source project this textbook *is* one.
 The source can be found on GitHub [here](https://github.com/alan-turing-institute/the-turing-way) and for further details related to this project you can take a look at the project [website](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science).
 
-## Definitions/glossary
-
-- **Citizen science:** The involvement of members of the public in scientific research.
-- **Contributing guidelines:** Guidelines outlining how a person should go about contributing to an open source project.
-- **Contributor:** Someone that has contributed something (not necessarily code) to an open source project.
-- **DOI:** A widely used type of persistent identifier.
-- **GitHub:** An online code hosting and version control service. It has a great many features to aid collaboration between users, and hosts a large number of open source projects.
-- **Maintainer:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. They may also be authors and/or owners of the project.
-- **Metadata:** Data used to describe other data. For example (35, 33, 27, 30, 33) is data but the units (miles per hour) and the fact these are the speeds of cars on a certain stretch of road is metadata.
-- **Open access publishing (gratis):** The practice of making research publications available to anyone to read without charge.
-- **Open access publishing (libre):** Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users the right to copy, reuse, and remix the publication.
-- **Open data:** Data that is freely available online for reuse without bureaucratic or administrative barriers.
-- **Open educational resource:** Educational materials available online for anybody to use, remix and distribute.
-- **Open notebook:** The practise of making research notebooks openly available.
-- **Open source software:** Software which is available online for anybody to view, use, modify, and distribute.
-- **Open source hardware:** Hardware with documentation, designs, materials used, and other relevant information freely accessible and available
-- **Persistent identifier:** A long-lived method for identifying a resource that is unique, and widely understandable by a community.
-- **Readme:** A file which contains useful information about a project such as what it is, how to use/install it, how to test it, and how to contribute to it.
-- **Repository:** A long-lived place on the internet where resources (be they data, software, publications or anything else) can be stored and accessed.
-- **Self-archive:** To place your research output in a repository.
-
 ## References specific for this chapter
 
 - [1.](https://www.fosteropenscience.eu/node/1420) **CC-BY 4.0**
