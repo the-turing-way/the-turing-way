@@ -9,6 +9,12 @@ on:
     branches:
       - master
 
+# set the default shell to bash for all jobs
+# this is important for the windows OS!
+defaults:
+  run:
+    shell: bash
+
 # run job
 jobs:
   build-jb-and-check-links:
