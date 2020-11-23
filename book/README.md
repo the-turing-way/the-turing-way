@@ -99,7 +99,7 @@ More details can be read on th [CONTRIBUTING.md](https://github.com/alan-turing-
 
 ## Content Templates
 
-Templates for different types of content can be created in the `templates` directory.
+Templates for different types of content can be created in the [`templates` directory](./templates).
 
 As of now, the template directory includes the following:
 * `case-study-template`: a template for writing and/or revising case studies
