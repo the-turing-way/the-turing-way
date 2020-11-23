@@ -1,3 +1,4 @@
+(glossary)=
 # Glossary
 
 ---
@@ -490,3 +491,4 @@ YAML
 ```{glossary}
 
 ```
+---
