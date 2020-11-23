@@ -10,14 +10,14 @@ You should be aware of the laws and policies that apply to you and your work.
 However, this is not sufficient to ensure that your work is ethical. 
 
 Human rights provide a legal framework for protecting individuals. 
-However, it operates at national and international level.
+However, this framework operates at national and international level.
 Ethical work should be grounded in human rights, but sometimes require more guidance to operationalise for particular contexts.
 
 Laws and policies are made by people, and they are subject to negotiations and exercises of power: they can also be changed.
 
 ## How this will help you/ why this is useful
 It's useful to know how the ethics that guide your work are underpinned by other frameworks, including law, policy, and human rights. 
-As well as giving you a deeper understanding, it can also help you advocate for ethical work with colleagues and collaborators.
+Knowing the law, policy, and human rights that underpin research ethics will give you a deeper understanding of how to conduct ethical research. It can also help you to advocate for ethical work with colleagues and collaborators.
 
 ## Law
 
@@ -26,13 +26,13 @@ This is not legal advice. Please read for information only!
 
 ### Ethics and law
 
-Laws have been made by humans.
+Laws are made by humans.
 They reflect the outcomes of negotiations between different people, with different interests and different amounts of power.
 Complying with laws is usually necessary, but *rarely sufficient*, to ensure that you are acting ethically.
 
 ### Domestic and regional law
 
-You should be aware of what laws cover your work.
+You should be aware of what laws cover the open science work that you are doing.
 This will depend on which jurisdictions you work in: usually the geographical area covered by a law.
 You should be aware of the laws that cover you at local, state or regional, national, and international levels. 
 
@@ -47,7 +47,7 @@ The aim of data protection laws is to protect the privacy of individuals when co
 
 Data protection laws need to be updated frequently in order to make sure they cover all the ways that different actors are using new forms of technology to collect and use data in new ways. 
 Because data protection laws sit at the limits of what companies - especially big tech giants - are able to do, the process of making, updating and enforcing data protection laws has become increasingly newsworthy.
-New pieces of legislation such as the General Data Protection Regulation ([GDPR](https://gdpr-info.eu/)) in the EU have attracted a lot of attention.
+For example, new pieces of legislation such as the General Data Protection Regulation ([GDPR](https://gdpr-info.eu/)) in the EU have attracted a lot of attention.
 
 Many countries have a national data protection authority, which is tasked with protecting data.
 They often produce guidance on how to comply with data protection laws in their country.
@@ -66,6 +66,9 @@ Privacy laws have periodically been updated to take into account new technologie
 This started in the 19th century when newspapers became widespread, and is still happening as legislators try to keep up with developments in the internet and in data collection.
 
 Privacy is sometimes confused with data protection, but it is much broader. 
+For example, the right to privacy protects individuals from having blood samples taken without their permission.
+It means that body searches must be done in a way that preserves the dignity of the person being searched, and that home searches must only be done to search for evidence, not for harassment.
+It also makes laws that criminalise private, consensual sex between adults of the same sex unlawful (nonetheless, these laws have not yet been repealed everywhere). 
 Privacy is also a human right (see below).
 
 #### Intellectual property law
@@ -134,10 +137,11 @@ This section is not intended to explain how to do this: a good place to start is
 
 Policy is a general term for a set of ideas or principles that guide actions in particular situations.
 Policies are not legally binding, but they are designed to encourage certain kinds of behaviours and discourage others.
+For example, the Turing Way community agrees to abide by the policy set out in the [Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc.html).
 
 Policies are agreed between groups of people: this can be at organisational, intra-organisational, or governmental level. 
 It is useful to be aware, for example, of policies on ethical research and innovation that are set by your government, or your funding organisation.
-
+For example, the American Statistical Association has created [ethical guidelines for statistical practice](https://www.amstat.org/ASA/Your-Career/Ethical-Guidelines-for-Statistical-Practice.aspx).
 Policies can also be set by national or international organisations.
 If you are a member of a professional or academic organisation, you should be aware of the policies that cover ethical research for your profession.
 
@@ -201,10 +205,15 @@ Some work only on a small number of issues, or in a small area of the world.
 
 ### How do human rights apply to data science and research ethics?
 
-Human rights are more concrete than ethics, because they are defined in law. 
+Human rights are defined in law. 
+This means in many ways they are less malleable than ethics.
+The letter of human rights, and the ways that they are implemented, are agreed internationally,
+A violation of human rights is a violation wherever it happens. 
+This is not necessarily true of codes of ethics. 
+An action that one group of people sees as ethical, may be seen as unethical by others. 
 There is a wider shared understanding of what human rights means across different countries, cultures and groups of people.
 There are accountability and enforcement mechanisms.
-But because they are a legal framework, they are more difficult to understand and apply to the daily work of data science and research.
+But because they are a legal framework, they are not as easily accessible, and hard to apply to the daily work of data science and research.
 
 Human rights treaties are signed by countries: that means that ultimately, it is countries that are held responsible for violations of human rights. 
 However, that does not mean that researchers and data scientists are exempt from thinking about the human rights impact of their work!
@@ -240,6 +249,9 @@ Researchers and data scientists should, in general ensure that they:
 - [The Universal Declaration of Human Rights at 70: Putting Human Rights at the Heart of the Design, Development and Deployment of Artificial Intelligence](https://hrbdt.ac.uk/the-universal-declaration-of-human-rights-at-70-putting-human-rights-at-the-heart-of-the-design-development-and-deployment-of-artificial-intelligence/) (_The Human Rights, Big Data and Technology Project, University of Essex, UK_)
 - [Algorithms and Human Rights - Study on the human rights dimension of automated data processing techniques and possible regulatory implications](https://rm.coe.int/algorithms-and-human-rights-en-rev/16807956b5) (_Council of Europe_)
 - [Data Feminism](https://data-feminism.mitpress.mit.edu/) (_book by Catherine D'Ignazio and Lauren Klein_)
+[Article 8: Respect for your private and family life](https://www.equalityhumanrights.com/en/human-rights-act/article-8-respect-your-private-and-family-life) (_UK Equality and Human Rights Commission_)
+General Comment No. 16 Article 17 (The right to respect of privacy, family, home and correspondence, and protection of honour and reputation) 1988 (HRI/GEN/1/Rev9) (_UN Human Rights Committee_)
+[Toonen v Australia](https://remedy.org.au/cases/24/) (_Summary of successful case brought by Nicholas Toonen against the criminalisation of homosexual sex in Tasmania in 1994_)
 
 <!---
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
