@@ -1,24 +1,22 @@
 # Glossary
 
 
+```{glossary}
 
-## **A**
+Acceptance testing	
+ A level of the software testing process where a system is tested for acceptability. The purpose of this test is to evaluate the system's compliance with the project requirements and assess whether it is acceptable for the purpose.
 
----
+Add 
+ Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
 
-### Acceptance testing	
-
-A level of the software testing process where a system is tested for acceptability. The purpose of this test is to evaluate the system's compliance with the project requirements and assess whether it is acceptable for the purpose.
-
-### Add 
-
-Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
-
-### Authors
+Authors
 
 Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions.
 All authors are named co-authors on the book as a whole.
 
+```
+
+<!--- ## **A** 
 ## **B**
 
 ---
@@ -569,4 +567,4 @@ A simulated computer that can encapsulate and entire computational environment i
 ### YAML
 
 A human readable/writable markup language which used by many projects for configuration files.
-
+--->
