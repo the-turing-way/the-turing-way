@@ -1,570 +1,492 @@
 # Glossary
 
+---
+## A
 
 ```{glossary}
 
-Acceptance testing	
+Acceptance Testing
  A level of the software testing process where a system is tested for acceptability. The purpose of this test is to evaluate the system's compliance with the project requirements and assess whether it is acceptable for the purpose.
 
-Add 
+Add
  Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
 
 Authors
-
-Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions.
-All authors are named co-authors on the book as a whole.
+  Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions. All authors are named co-authors on the book as a whole.
 
 ```
+---
+## B
 
-<!--- ## **A** 
-## **B**
+```{glossary}
 
+Binder
+  A web-based service which allows users to upload and share fully-functioning versions of their projects in an environment they define.
+
+Binderhub
+  A service which generates Binders. The most widely-used is mybinder.org, which is maintained by the Binder team. It is possible to create other BinderHubs which can support more specialised configurations. One such configuration could include authentication to enable private repositories to be shared amongst close collaborators.
+
+Binderize
+  To make a Binder of a project.
+
+Branch
+  A parallel version of a repository. Although it is contained within the same repository it allows you to develop it separately and then merge changes back into the ‘live’ repository or with other branches when appropriate.
+
+Bug
+  This is an error, flaw or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways.
+
+Build
+  A group of jobs. For example, a build might have two jobs, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
+```
 ---
 
+## C
 
-### Binder
+```{glossary}
 
-A web-based service which allows users to upload and share fully-functioning versions of their projects in an environment they define.
+Checkout
+  Git command to switch to a specific file, branch, or commit. Allows you to activate older versions of files or commits or switch between active branches.
 
-### Binderhub
+Citizen Science
+  The inclusion of members of the public in scientific research.
 
-A service which generates Binders. The most widely-used is mybinder.org, which is maintained by the Binder team. It is possible to create other BinderHubs which can support more specialised configurations. One such configuration could include authentication to enable private repositories to be shared amongst close collaborators.
+Clone
+  Copy of an existing Git repository, normally from some remote location to your local environment. When you clone a repo you copy its entire history as well as all branches.
 
-### Binderize 
+Code Coverage
+  A measure which describes how much of the source code is exercised by the test suite.
 
-To make a Binder of a project.
+Code of Conduct
+  Guidelines that establish the kind of behaviour encouraged in the community, outline the process by which problems or violations of the guidelines will be addressed and who will be in charge of enforcing them.
 
-### Branch 
+Code Review
+  An additional way of testing code quality. Code review gets another programmer to look over the new code and assess it. The goal is to point out strengths and also potential areas of improvement.
 
-A parallel version of a repository. Although it is contained within the same repository it allows you to develop it separately and then merge changes back into the ‘live’ repository or with other branches when appropriate.
+Commit
+  Snapshot of project history. A commit can be made after changes of a single file or a range of files and directories.
 
-### Bug
+Commit Message
+  A message the user can attach to a commit to explain what it contains.
 
-This is an error, flaw or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways.
+Communication Channel
+  The method of communication established for projects that might include mailing lists, community forums, chats and/or social media.
 
+Community Member
+  People who use the project. They might be active in conversations or express their opinion on the project’s direction.
 
-### Build 
+Computational Environment
+  Features of a computer which can impact the behaviour of work done on it, such as its operating system, what software it has installed, and what versions of software packages are installed.
 
-A group of jobs. For example, a build might have two jobs, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
+Conda
+  A commonly used package management system.
 
-## **C**
+Container
+  Lightweight files that can encapsulate an entire computational environment including its operating system, customised settings, software and files.
 
+Continuous Delivery
+  It automates and runs the steps required to build and test a project.
+
+Continuous Deployment
+  It automatically deploys each time a code change is made.
+
+Continuous Integration
+  It is the practice of integrating changes to a project made by individuals into a main, shared version frequently (usually multiple times per day). Also called CI.
+
+Contributing Guidelines
+  Guidelines outlining how a person should go about contributing to an open source project.
+
+Contributors
+  Everyone who has contributed something back to the project.
+
+```
 ---
 
-### Checkout 
+## D
 
-Git command to switch to a specific file, branch, or commit. Allows you to activate older versions of files or commits or switch between active branches.
+```{glossary}
 
-### Citizen science 
+Data repository
+  See repository.
 
-The inclusion of members of the public in scientific research.
+DMP
+  Data management plan.
 
-### Clone 
+Docker Container
+  An active computational environment executed from a Docker image.
 
-Copy of an existing Git repository, normally from some remote location to your local environment. When you clone a repo you copy its entire history as well as all branches.
+Dockerfile
+  A file used for creating Docker images
 
-### Code coverage
+Docker Image
+  A machine-readable set of instructions to create a specified computational environment.
 
-A measure which describes how much of the source code is exercised by the test suite.
+Docker Registry
+  A storage and distribution system for named Docker images. The registry allows Docker users to pull images locally, as well as push new images to the registry (given adequate access permissions when applicable). Such systems are often hosted in the cloud for ease of access.
 
-### Code of conduct
-
-Guidelines that establish the kind of behaviour encouraged in the community, outline the process by which problems or violations of the guidelines will be addressed and who will be in charge of enforcing them.
-
-### Code review
-
-An additional way of testing code quality. Code review gets another programmer to look over the new code and assess it. The goal is to point out strengths and also potential areas of improvement.
-
-### Commit 
-
-Snapshot of project history. A commit can be made after changes of a single file or a range of files and directories.
-
-### Commit message
-
-A message the user can attach to a commit to explain what it contains.
-
-### Communication channel
-
-The method of communication established for projects that might include mailing lists, community forums, chats and/or social media.
-
-### Community member
-
-People who use the project. They might be active in conversations or express their opinion on the project’s direction.
-
-### Computational environment
-
-Features of a computer which can impact the behaviour of work done on it, such as its operating system, what software it has installed, and what versions of software packages are installed.
-
-### Conda
-
-A commonly used package management system.
-
-### Container
-
-Lightweight files that can encapsulate an entire computational environment including its operating system, customised settings, software and files.
-
-### Continuous delivery 
-
-It automates and runs the steps required to build and test a project.
- 
-### Continuous deployment
-
-It automatically deploys each time a code change is made.
-
-### Continuous integration
-
-It is the practice of integrating changes to a project made by individuals into a main, shared version frequently (usually multiple times per day). Also called CI.
-
-### Contributing guidelines 
-
-Guidelines outlining how a person should go about contributing to an open source project.
-
-### Contributors 
-
-Everyone who has contributed something back to the project.
-
-## **D**
-
+Digital Object Identifier
+  A digital object identifier (DOI) is a persistent identifier or handle used to identify objects uniquely, standardized by the International Organization for Standardization (ISO). An implementation of the Handle System, DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports, data sets, and official publications. However, they also have been used to identify other types of information resources, such as commercial videos.
+```
 ---
+## E
 
+```{glossary}
 
-### Data repository
+Equitable, Diverse and Inclusive Practices
+  Ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, and sexual orientation.
 
-See repository. 
+End to End Test
+  A test that runs the program from beginning to end and verifies that the output is correct.
 
-### DMP
-
-Data management plan.
-
-### Docker container
-
-An active computational environment executed from a Docker image.
-
-### Dockerfile
-
-A file used for creating Docker images
-
-### Docker image
-
-A machine-readable set of instructions to create a specified computational environment.
-
-### Docker registry
-
-A storage and distribution system for named Docker images. The registry allows Docker users to pull images locally, as well as push new images to the registry (given adequate access permissions when applicable). Such systems are often hosted in the cloud for ease of access.
-
-### Digital Object Identifier 
-
-A digital object identifier (DOI) is a persistent identifier or handle used to identify objects uniquely, standardized by the International Organization for Standardization (ISO). An implementation of the Handle System, DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports, data sets, and official publications. However, they also have been used to identify other types of information resources, such as commercial videos.
-
-## **E**
-
+```
 ---
+## F
 
+```{glossary}
 
-### Equitable, diverse and inclusive practice 
-
-Ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, and sexual orientation.
-
-### End to end test
-
-A test that runs the program from beginning to end and verifies that the output is correct.
-
-## **F**
-
+FAIR
+  Findable, Accessible, Interoperable and Reusable.
+```
 ---
+## G
 
+```{glossary}
+Generalisable
+  Combining replicable and robust findings allow us to form generalisable results. Note that running an analysis on a different software implementation and with a different dataset does not provide generalised results. There will be many more steps to know how well the work applies to all the different aspects of the research question. Generalisation is an important step towards understanding that the result is not dependent on a particular dataset nor a particular version of the analysis pipeline.
 
-### FAIR
+Git
+  Version control system that GitHub is built around. It is a widely used open source distributed version control system developed by the author of Linux.
 
-Findable, Accessible, Interoperable and Reusable.
+Github
+  An online code hosting and version control service. It has a great many features to aid collaboration between users, and hosts a large number of open source projects.
 
-## **G**
-
+GitLab
+  GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
+```
 ---
+## H
 
-### Generalisable 
+```{glossary}
+Head
+  The latest commit on the branch which is currently checked out.
 
-Combining replicable and robust findings allow us to form generalisable results. Note that running an analysis on a different software implementation and with a different dataset does not provide generalised results. There will be many more steps to know how well the work applies to all the different aspects of the research question. Generalisation is an important step towards understanding that the result is not dependent on a particular dataset nor a particular version of the analysis pipeline.
+Helm
+  A package manager for Kubernetes applications.
 
-### Git
-
-Version control system that GitHub is built around. It is a widely used open source distributed version control system developed by the author of Linux.
-
-### Github
-
-An online code hosting and version control service. It has a great many features to aid collaboration between users, and hosts a large number of open source projects.
-
-### Gitlab
-
-GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
-
-## **H**
-
+Human Readable
+  A human readable medium or human readable format is any encoding of data or information that can be naturally read by humans. Some human readable formats, such as PDF, are not machine readable as they are not structured data, such as the representation of the data on disk does not represent the actual relationships present in the data.
+```
 ---
+## I
 
-### Head 
+```{glossary}
 
-The latest commit on the branch which is currently checked out.
+Image
+  Files used for generating containers.
 
-### Helm
+Integration Testing
+  A level of software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units.
 
-A package manager for Kubernetes applications.
+Issues
+  Bug tracking system for GitHub. Collaborators can use issues to report bugs, request features, or set milestones for projects. Issues are tracked, reported, and closed by collaborators during the development process. They’re a great way of communicating with your team and reporting progress.
 
-### Human readable 
-
-A human readable medium or human readable format is any encoding of data or information that can be naturally read by humans. Some human readable formats, such as PDF, are not machine readable as they are not structured data, such as the representation of the data on disk does not represent the actual relationships present in the data.
-
-## **I**
-
+Issue Tracking
+  The process of tracking current issues on the project, such as bug fixing, rolling out new features or community engagement plans.
+```
 ---
+## J
 
-### Image
+```{glossary}
 
-Files used for generating containers.
+Job
+  An automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code and running tests. A job fails if the return code of the script encounters an error.
 
-### Integration testing
-
-A level of software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units.
-
-### Issues
-
-Bug tracking system for GitHub. Collaborators can use issues to report bugs, request features, or set milestones for projects. Issues are tracked, reported, and closed by collaborators during the development process. They’re a great way of communicating with your team and reporting progress.
-
-### Issue tracking
-
-The process of tracking current issues on the project, such as bug fixing, rolling out new features or community engagement plans.
-
-## **J**
-
+JupyterHub
+  A multi-user server for Jupyter Notebook instances.
+```
 ---
+## K
 
-### Job
+```{glossary}
 
-An automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code and running tests. A job fails if the return code of the script encounters an error.
-
-### JupyterHub
-
-A multi-user server for Jupyter Notebook instances.
-
-## **K**
-
+Kubernetes
+  Autonomous computational cluster manager.
+```
 ---
+## L
 
-### Kubernetes
+```{glossary}
 
-Autonomous computational cluster manager.
-
-## **L**
-
+License
+  This is a legal document that sets out the permissions for creative and academic work. It explains copyright, ensures proper attribution and sets out how others can copy, distribute and make use of the works.
+```
 ---
+## M
 
-### License 
+```{glossary}
 
-This is a legal document that sets out the permissions for creative and academic work. It explains copyright, ensures proper attribution and sets out how others can copy, distribute and make use of the works. 
+Machine Readable
+  Machine readable refers to documents, data or other digital outputs whose content can be readily processed by computers. Such documents are distinguished from machine readable data by virtue of having sufficient structure to provide the necessary context to support the business processes for which they are created. Machine readable data can be defined as data in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost.
 
-## **M**
+Main
+  The repository’s main branch. Depending on the workflow, it is the one people work on or the one where the integration happens. This used to be called ‘Master’ in Github.
 
+Maintainers
+  Contributors who are responsible for driving the vision and managing the organizational aspects of the project. They may also be authors and/or owners of the project.
+
+Makefile
+  A text file that contains the configuration for the build.
+
+Merge
+  The process of combining branches. Changes made on one or more branches are applied to another.
+
+Merge Conflict
+  Incompatibilities between branches being merged.
+
+Metadata
+  Data used to describe other data. For example (35, 33, 27, 30, 33) is data but the units (miles per hour) and the fact these are the speeds of cars on a certain stretch of road is metadata.
+
+Mock Test
+  Replace a real object with a pretend one to use when running tests.
+```
 ---
+## O
 
-### Machine readable
-Machine readable refers to documents, data or other digital outputs whose content can be readily processed by computers. Such documents are distinguished from machine readable data by virtue of having sufficient structure to provide the necessary context to support the business processes for which they are created. Machine readable data can be defined as data in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost.
+```{glossary}
 
-### Main
+Open Access
+  Making all published outputs freely accessible for maximum use and impact.
 
-The repository’s main branch. Depending on the workflow, it is the one people work on or the one where the integration happens. This used to be called ‘Master’ in Github.
+Open Access publishing (gratis)
+  The practice of making research publications available to anyone to read without charge.
 
-### Maintainers 
+Open Access Publishing (libre)
+  Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users the right to copy, reuse, and remix the publication.
 
-Contributors who are responsible for driving the vision and managing the organizational aspects of the project. They may also be authors and/or owners of the project.
+Open data
+  Documenting and sharing research data openly for re-use.
 
-### Makefile
+Open Educational Resources
+  Making educational resources publicly available to be re-used and modified.
 
-A text file that contains the configuration for the build.
+Open Source Hardware
+  Documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available.
 
-### Merge 
+Open License
+  A license is a document that specifies what can and cannot be done with a work. It grants permissions and states restrictions. Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
 
-The process of combining branches. Changes made on one or more branches are applied to another.
- 
-### Merge conflict 
-Incompatibilities between branches being merged.
+Open Notebooks
+  An emerging practice, documenting and sharing the experimental process of trial and error.
 
-### Metadata 
+Open Scholarship
+  This is a concept that extends open research further. It relates to making other aspects of scientific research open to the public such as open educational resources, having inclusive practice and citizen science.
 
-Data used to describe other data. For example (35, 33, 27, 30, 33) is data but the units (miles per hour) and the fact these are the speeds of cars on a certain stretch of road is metadata.
+Open Project
+  *Same as Open Science or Open Research Projects*. A project in which a significant amount of collaboration between the core or leadership team and the wider community takes place in the form of online interactions. Community interactions should maintain transparency and openness of the project to facilitate the growth of your community.
 
-### Mocking 
+Open Source Software
+  Documenting research code and routines, and making them freely accessible and available.
 
-Replace a real object with a pretend one to use when running tests.
+ORCID
+  Open Researchers and Contibutor iD. It is a long lasting unique identifier for you as a researcher.
 
-## **O**
-
+Owner
+  The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
+```
 ---
+## P
 
+```{glossary}
 
-### Open access 
+Package Management System
+  A tool for installing, managing, and uninstalling software packages including specific versions.
 
-Making all published outputs freely accessible for maximum use and impact.
+Persistent Identifier
+  A long-lived method for identifying a resource that is unique, and widely understandable by a community.
 
-### Open access publishing (gratis) 
+Pattern
+  A pattern rule is a rule that contains exactly one % character in the target, which can be used to match a part of a filename.
 
-The practice of making research publications available to anyone to read without charge.
- 
-### Open access publishing (libre) 
-Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users the right to copy, reuse, and remix the publication.
+Persona
+  A persona is the detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members.
 
-### Open data 
+Persona Canvas
+  The persona canvas can be used to assemble all your responses in one place, share this tangible information of your mental model (abstract concepts from our thoughts) with your colleagues and create a common language to communicate about your community members, users, and contributors.
 
-Documenting and sharing research data openly for re-use.
+Phony Target
+  A phony target is one that doesn’t correspond to a file on the filesystem. A target is marked as phony by making it a prerequisite of the .PHONY target.
 
-### Open educational resources 
+Power Users
+  These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient.
 
-Making educational resources publicly available to be re-used and modified.
+Prerequisite
+  The prerequisite(s) of a rule correspond to files or other targets in the Makefile that must be up to date before the rule is run.
 
-### Open source hardware 
+Project Design
+  An early phase of the project where a project's key features, structure, criteria for success, and major deliverables are all planned out.
 
-Documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available.
+Pull Request
+  Proposed changes to a remote repository. Collaborators without write access can send a pull request to the administrator with the changes they’ve made to the repo. The administrator can then approve and merge or reject the changes to the main repository. For open source projects pull requests can be sent by anyone that has forked a project.
 
-### Open license
-
-A license is a document that specifies what can and cannot be done with a work. It grants permissions and states restrictions. Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
-
-### Open notebooks 
-
-An emerging practice, documenting and sharing the experimental process of trial and error.
-
-### Open scholarship
-
-This is a concept that extends open research further. It relates to making other aspects of scientific research open to the public such as open educational resources, having inclusive practice and citizen science.
-
-### Open source project
-
-A project in which a significant amount of collaboration between the core or leadership team and the wider community takes place in the form of online interactions. Community interactions should maintain transparency and openness of the project to facilitate the growth of your community.
-
-### Open source software 
-
-Documenting research code and routines, and making them freely accessible and available.
-
-### ORCID
-
-Open Researchers and Contibutor iD. It is a long lasting unique identifier for you as a researcher. 
-
-### Owner 
-
-The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
-
-## **P**
-
+Push
+  Sending changes to a remote repo. The remote repository is updated with the changes pushed and now mirrors the local repo.
+```
 ---
+## R
 
-### Package management system
+```{glossary}
 
-A tool for installing, managing, and uninstalling software packages including specific versions.
+RDM
+  Abbreviation for research data management - see research data management for definition.
 
-### Persistent identifier 
+README
+  A file which contains useful information about a project such as what it is, how to use/install it, how to test it, and how to contribute to it.
 
-A long-lived method for identifying a resource that is unique, and widely understandable by a community.
+Recipe
+  One or more shell commands that are executed by Make. Usually these commands update the target of the rule.
 
-### Pattern
+Regression Test
+  Comparing the result of a test before and after the code has been altered. If the output has changed a problem has been introduced somewhere in the program, and an error is thrown.
 
-A pattern rule is a rule that contains exactly one % character in the target, which can be used to match a part of a filename.
- 
-### Persona
+Replicable   
+  A result is replicable when the same analysis performed on different datasets produces qualitatively similar answers.
 
-A persona is the detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members. 
+repo2docker
+  A tool to build Docker images from code repositories.
 
-### Persona canvas
+Repository
+  *Same as Data or Code Reprository*. A long-lived place on the internet where resources (be they data, software, publications or anything else) can be stored and accessed. This keyword is often shortened to ‘repo’.
 
-The persona canvas can be used to assemble all your responses in one place, share this tangible information of your mental model (abstract concepts from our thoughts) with your colleagues and create a common language to communicate about your community members, users, and contributors.
+Reproducible  
+  A result is reproducible when the same analysis steps performed on the same dataset consistently produces the same answer.
 
-### Phony 
+Rendered Output
+  This is what the text will look like on an online page in Github or web page
 
-A phony target is one that doesn’t correspond to a file on the filesystem. A target is marked as phony by making it a prerequisite of the .PHONY target.
+Research Compendia
+  This is a collection of all digital parts of a research project including data, code, texts (protocols, reports, questionnaires, metadata). The collection is created in such a way that reproducing all results is straight forward.
 
-### Power users
+Research Data Management
+  *Acronym: RDM*. Refers to the organisation, storage and preservation of data created during a research project. It covers initial planning, day-to-day processes and long-term archiving and sharing. Shortened to RDM.
 
-These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient.
+Research Ethics
+  Research ethics are the moral principles that govern how researchers should carry out their work. These principles are used to shape research regulations agreed by groups such as university governing bodies, communities or governments. All researchers should follow any regulations that apply to their work.
 
-### Prerequisite 
+Review
+  Suggesting changes or asking for committing something to an already created pull request.
 
-The prerequisite(s) of a rule correspond to files or other targets in the Makefile that must be up to date before the rule is run.
+Risk Assessment
+  This is used to help choose the appropriate sustainable software concepts for your project.
 
-### Project design
+Risk Matrix
+  A risk matrix is a way of quantifying what’s going on with the thing you’re interested in. One axis measures exposure in some way, and the other the impact of a mishap. The further from the origin, the more safeguards are needed to make the risk acceptable.
 
-An early phase of the project where a project's key features, structure, criteria for success, and major deliverables are all planned out.
+Roadmapping
+  This is the creation of a roadmap for your project. It is an outline for the work you need to do. It covers your goals, vision and a timeline for tasks.
 
-### Pull request 
 
-Proposed changes to a remote repository. Collaborators without write access can send a pull request to the administrator with the changes they’ve made to the repo. The administrator can then approve and merge or reject the changes to the main repository. For open source projects pull requests can be sent by anyone that has forked a project.
- 
-### Push 
-Sending changes to a remote repo. The remote repository is updated with the changes pushed and now mirrors the local repo.
+Robust
+  A result is robust when the same dataset is subjected to different analysis workflows to answer the same research question (for example one pipeline written in R and another written in Python) and a qualitatively similar or identical answer is produced. Robust results show that the work is not dependent on the specificities of the programming language chosen to perform the analysis.
 
-## **R**
+Rule
+  An element of the Makefile that defines something that must be built, usually consists of targets, recipes, and optionally, prerequisites.
 
+Runtime Test
+  Tests embedded within the program which are run as part of it.
+
+```
 ---
+## S
 
-### RDM
+```{glossary}
 
-Abbreviation for research data management - see research data management for definition.
+Self Archiving
+  Placing a publication or other research outputs in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher, for example an embargo period, or limits on the allowed version to be deposited in such archives.
 
-### Readme 
+SHA
+  Unique string of numbers of letters used to identify every commit or node in the repository.
 
-A file which contains useful information about a project such as what it is, how to use/install it, how to test it, and how to contribute to it.
+Smoke Testing
+  Very brief initial checks that ensures the basic requirements required to run the project hold. If these fail there is no point proceeding to additional levels of testing until they are fixed.
 
-### Recipe
+Staged
+  Staging the changes that will be included in the next git commit.
 
-One or more shell commands that are executed by Make. Usually these commands update the target of the rule.
+Stochastic Code
+  Code which, while correct, does not always output the same result. For example a program that outputs ten random numbers will generate a different result each time, despite being correct.
 
-### Regression test
+Syntax
+  The structure of statements in a computer language.
 
-Comparing the result of a test before and after the code has been altered. If the output has changed a problem has been introduced somewhere in the program, and an error is thrown.
-
-### Replicable   
-
-A result is replicable when the same analysis performed on different datasets produces qualitatively similar answers.
-
-### repo2docker
-
-A tool to build Docker images from code repositories.
-
-### Repository
-
-A long-lived place on the internet where resources (be they data, software, publications or anything else) can be stored and accessed. This keyword is often shortened to ‘repo’.
-
-### Reproducible  
-
-A result is reproducible when the same analysis steps performed on the same dataset consistently produces the same answer.
-
-### Render or rendered output
-
-This is what the text will look like on an online page in Github or web page
-
-### Research compendia
-
-This is a collection of all digital parts of a research project including data, code, texts (protocols, reports, questionnaires, metadata). The collection is created in such a way that reproducing all results is straight forward.
-
-### Research data management
-
-Refers to the organisation, storage and preservation of data created during a research project. It covers initial planning, day-to-day processes and long-term archiving and sharing. Shortened to RDM.
-
-### Research ethics
-
-Research ethics are the moral principles that govern how researchers should carry out their work. These principles are used to shape research regulations agreed by groups such as university governing bodies, communities or governments. All researchers should follow any regulations that apply to their work.
-
-### Review
-
-Suggesting changes or asking for committing something to an already created pull request.
-
-### Risk assessment 
-
-This is used to help choose the appropriate sustainable software concepts for your project.
-
-### Risk matrix
-
-A risk matrix is a way of quantifying what’s going on with the thing you’re interested in. One axis measures exposure in some way, and the other the impact of a mishap. The further from the origin, the more safeguards are needed to make the risk acceptable.
-
-### Roadmapping
-
-This is the creation of a roadmap for your project. It is an outline for the work you need to do. It covers your goals, vision and a timeline for tasks. 
-
-
-### Robust 
-
-A result is robust when the same dataset is subjected to different analysis workflows to answer the same research question (for example one pipeline written in R and another written in Python) and a qualitatively similar or identical answer is produced. Robust results show that the work is not dependent on the specificities of the programming language chosen to perform the analysis.
-
-### Rule 
-
-An element of the Makefile that defines something that must be built, usually consists of targets, recipes, and optionally, prerequisites.
-
-### Runtime test
-
-Tests embedded within the program which are run as part of it.
-
-## **S**
-
----
-
-### Self-archiving
-
-Placing a publication or other research outputs in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher, for example an embargo period, or limits on the allowed version to be deposited in such archives. 
-
-### SHA 
-
-Unique string of numbers of letters used to identify every commit or node in the repository.
-
-### Smoke testing 
-
-Very brief initial checks that ensures the basic requirements required to run the project hold. If these fail there is no point proceeding to additional levels of testing until they are fixed.
-
-### Staged 
-
-Changes that will be included in the next commit.
-
-### Stochastic code
-
-Code which, while correct, does not always output the same result. For example a program that outputs ten random numbers will generate a different result each time, despite being correct.
-
-### Syntax
-
-The structure of statements in a computer language.
-
-### System testing
+System Testing
 
 A level of the software testing process where a complete, integrated system is tested. The purpose of this test is to evaluate whether the system as a whole gives the correct outputs for given inputs. Also see end to end test.
 
-## **T**
-
+```
 ---
+## T
 
-### Target 
+```{glossary}
 
-The outcome of a rule in a Makefile. It is usually a file. If it is not a file, it’s a phony target.
+Target
+  The outcome of a rule in a Makefile. It is usually a file. If it is not a file, it’s a phony target.
 
-### Test driven development 
+Test Driven Development
+  A process of code development where unit tests are written before the units themselves.
 
-A process of code development where unit tests are written before the units themselves.
- 
-### Test stub 
+Test Stub
+  Fake implementations of parts of code which are used in testing to remove dependencies.
 
-Fake implementations of parts of code which are used in testing to remove dependencies.
- 
-### Test suite 
- 
-The tests that have been written for a project.
- 
-### Testing framework 
- 
-Tools that make writing and running tests less labour intensive.
- 
-### Travis 
- 
-A commonly used continuous integration platform.
+Test Suite
+  The tests that have been written for a project.
 
-## **U**
+Testing Framework
+  Tools that make writing and running tests less labour intensive.
 
+Travis
+  A commonly used continuous integration platform.
+```
 ---
+## U
 
-### Unit
+```{glossary}
 
-A small piece of code that does one simple thing. It usually has one or a few inputs and usually a single output.
+Unit
+  A small piece of code that does one simple thing. It usually has one or a few inputs and usually a single output.
 
-### Unit testing
-
-A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
-
-## **V**
-
+Unit Testing
+  A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
+```
 ---
+## V
 
-### Virtual machine
+```{glossary}
 
-A simulated computer that can encapsulate and entire computational environment including its operating system, customised settings, software and files.
+Virtual Machine
+  A simulated computer that can encapsulate and entire computational environment including its operating system, customised settings, software and files.
 
-## **Y**
-
+```
 ---
+## W
 
-### YAML
+```{glossary}
 
-A human readable/writable markup language which used by many projects for configuration files.
---->
+```
+---
+## X
+
+```{glossary}
+
+```
+---
+## Y
+
+```{glossary}
+YAML
+  A human readable/writable markup language which used by many projects for configuration files.
+```
+---
+## Z
+
+```{glossary}
+
+```
