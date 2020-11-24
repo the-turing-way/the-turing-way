@@ -1,12 +1,12 @@
 (cl-remote-collab-conferences)=
 # Organising a Conference
 
-*Recommendations listed in this subchapter applies to longer events like sprints and collaborative events like hackathons.*
+*Recommendations listed in this subchapter also apply to longer collaborative events like sprints and hackathons.*
 
-Event planning and organisation involves many roles, tasks and responsibilities, which can be challenging, especially when organising a large conference or other collaborative events.
+Event planning and organisation involves many roles, tasks and responsibilities, which can be challenging, especially for online conferences or other collaborative events that have a large target audience.
 
-This document lists the various tasks for organising a such events, which will be useful for people who do not have any former experience or professional support available to them.
-The tasks and responsibilities are listed in chronological order and have been divided into "before", "during" and "after" the meeting.
+This document lists the various tasks for organising such events, which will be useful for people who do not have any former experience or professional support available to them.
+In this subchapter, we discuss different aspects of conference organisation, which are listed in chronological order and divided into sets of tasks and responsibilities "before", "during" and "after" the meeting.
 Though created for longer events, these detailed task lists can be used for planning smaller events that have fewer logistical requirements.
 
 (cl-remote-collab-conferences-before)=
