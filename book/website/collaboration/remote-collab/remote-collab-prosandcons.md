@@ -6,7 +6,7 @@ For many, it may not always feel as effective as working in physical offices, fo
 However, for others, remote working may be more enjoyable and productive.
 > "As someone who used to commute 4 hours per day for 12 years, I can sum my experiences in two words: remote working reduces inequality," says one of our contributors, Pablo Rodríguez-Sánchez (GitHub: PabRod).
 
-In this subchapter, we have captured a few *light opinions* of people's on their experience under "pro" and "cons" sections.
+In this subchapter, we have captured a few *light opinions* of people's on their experience of collaborating remotely with others under "pro" and "cons" sections.
 
 ## Pros
 
