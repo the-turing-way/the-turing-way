@@ -21,4 +21,4 @@ Provide a good summary in chapter landing pages | Self-explanatory | Link
 Split long chapters into smaller subchapters | Self-explanatory. This makes the book more modular | Link
 Ensure correct grammar and consistent tone | Use tools such as Grammary and the Hemingway Editor to help with this check | Link
 Ensure chapters use a consistent language | For example, avoid mixing British and American English _within_ a single (sub)chapter, or any other languages. | Link
-Avoid Latin abbreviations such as  | (do the abbreivations need to be removed from the inline code as well for CI to work? ) This includes `e.g.`, `etc.`, and `i.e.` | Link
+Avoid Latin abbreviations such as  |  | Link
