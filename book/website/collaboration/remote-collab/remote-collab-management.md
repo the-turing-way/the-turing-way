@@ -1,14 +1,12 @@
 (cl-remote-collab-manage-teams)=
 # Managing Distributed Teams
 
-In the {ref}`cl-new-community` chapter, we discuss in detail how we can build leadership and manage a new online community.
-Those skills apply to managing distributed teams as well.
-
-In this subchapter, we discuss and highlight a few aspects that are specifically important for managing distributed teams.
+In the {ref}`cl-new-community` and {ref}`cl-leadership` chapters, We have already discussed in-depth on how we can manage a new online community and build healthy leadership for a team.
+Therefore, in this subchapter, we have listed a few reminders of tasks that are specifically important for managing distributed teams.
 
 - Set clear expectations for the team members about the project and their roles and responsibilities.
 - Establish all modes of communication and resources according to the team's requirements.
-- Develop and maintain all the required documentation such as organisation's policies, participation guidelines, project's charter and information of other team members.
+- Develop and maintain all the required documentation such as organisation's policies, participation guidelines, project charter and information of other team members.
 - Make all these resources available for all members through a central information repository.
 - Respect time differences when dealing with members across different time zones when assigning tasks and allow a degree of flexibility.
 - Schedule team meetings to allow everyone to share what they are working on, invite contribution and support and connect with each other.
