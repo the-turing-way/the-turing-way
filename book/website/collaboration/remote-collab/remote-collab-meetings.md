@@ -4,7 +4,9 @@
 A successful online event is organised by defining goals of the event, setting up tools for collaboration, identifying effective approaches for stakeholder-engagement and successfully managing all the associated tasks.
 An online meeting is such an event.
 A 1:1 meeting may be organised by simply sharing a link to join the call on an agreed date and time.
-However, when such meetings involve multiple participants including team members, speakers and guests, and collaborative activities like breakout discussions and documentation, there is more to organising such meetings than just sharing a joining link.
+However, often online meetings involve multiple participants including team members, speakers and guests from different groups, time zones and locations.
+Furthermore, collaborative activities like breakout discussions and documentation are often integral for creating a welcoming space when bringing a diverse group of participants together online.
+Hence, there is more to organising online meetings than just sharing a joining link.
 
 This subchapter provides a structured list of tasks that go into organising remote meetings.
 We have listed them in chronological order and divided into sections for "before", "during" and "after" the meeting.
@@ -47,6 +49,7 @@ We have listed them in chronological order and divided into sections for "before
 - Send a reminder with a link to the document and other important resources to all the participants a day in advance.
 - Create slides or a presentation that might be needed by the organiser's (welcome, wrap up).
   - Add contact details, date and location of resources and licence, to make your slides reusable.
+- Set-up your calls with closed-captioning (cc) such as by using software like otter.ai or cc options in google slides or hangout.
 
 ### Designated venues to participate from
 
@@ -98,7 +101,7 @@ We have listed them in chronological order and divided into sections for "before
 
 ### Breakout rooms
 
-*If using breakout rooms in Zoom, or a similar tool, make sure that each breakout has an organiser to help.*
+*If using breakout rooms in Zoom, or a similar tool, make sure that each breakout has a chair, or someone to help.*
 - Create groups that are more diverse (they will have better discussions).
 - Create some breakout rooms for speaking and some for writing to be more inclusive of those with English as a second language. Remember to ask participants before hand what their preference is.
 - Remind everyone to give others a fair chance to speak.
