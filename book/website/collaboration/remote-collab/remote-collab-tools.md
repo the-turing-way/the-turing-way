@@ -2,14 +2,11 @@
 # Tools for Remote Collaboration
 
 Many free and commercial tools exist to improve people's experience of planning, organising, and hosting online and hybrid events.
-
-## Motivation
-
 To effectively run an event, it is important to choose tools that can maximise the overall success and reduce the risk of things going wrong during the event.
-Tools should also be selected based on how easy it is to use them and how they impact the engagement by different stakeholders such as organisers, helpers and attendees.
+We should also consider how user-friendly they are and how they impact the engagement of different stakeholders such as organisers, helpers and attendees.
 
-<!---Add a few sentences capturing the concepts explained below--->
-Here is a list of free and popular tools for facilitating different aspects of remote collaboration discussed in the earlier subchapter.
+Here is a list of some popular tools for facilitating different aspects of remote collaboration discussed in the earlier subchapter.
+Please note that we are not a listing conference or webinar-related tools, but only providing those tools that allow an interactive (hence, collaborative) format for online events.
 
 ## Task management tools
 
@@ -29,7 +26,7 @@ Meeting scheduling platforms help find a common availability without having to c
 Some commonly used options are [Doodle](https://doodle.com/poll/) abd [when2meet.com](https://www.when2meet.com/).
 See more options [here](https://zapier.com/blog/best-meeting-scheduler-apps/).
 
-It is particularly crucial to use meeting links like [arewemeetingyet](arewemeetingyet.com/) or create/send calendar invitations to communicate these schedules to invitees from different countries and time zones.
+It is particularly crucial to use meeting links like [arewemeetingyet](https://arewemeetingyet.com/#form) or [create/send calendar invitations](https://www.calendar.com/blog/how-to-send-a-google-calendar-invite/) to communicate these schedules to invitees from different countries and time zones.
 
 ## Creating shared notes
 
@@ -70,7 +67,7 @@ An effective software allows the creation of a meeting link or dial-in number th
 - [Jisti](https://meet.jit.si/): Jitsi is a collection of free and open-source multiplatform voice, videoconferencing and instant messaging applications for the web platform.
 - [Webex](https://www.webex.com/): Cisco Webex develops and sells web conferencing and videoconferencing applications.
 
-## Facilitating social interaction
+## Facilitating informal interactions
 
 A communication platform and chat system is a good way to connect all the attendees before, during and after the event.
 - [Slack](https://slack.com/): Slack offers real-time chat features, including persistent chat rooms organized by topic, private groups, and direct messaging.
@@ -82,3 +79,26 @@ A communication platform and chat system is a good way to connect all the attend
 An online timer that can be created on a web-browser and shared with a distributed team to have more productive meeting formats.
 - [cuckoo.team](https://cuckoo.team/)
 - [vclock](https://vclock.com/timer/)
+
+## Online polling
+
+Event Polling tools can be used for asking questions and receiving feedback from attendees in real-time.
+They create an interactive experience for the participants through question and answer (Q&A) sessions during the event.
+A dedicated link can be created for each event to share with the participants who can post their questions to be discussed in the meeting or respond to polls set by the speakers or organisers before the event.
+Such tools not only collect answers but also analyse, summarise and visualise them as word clouds and plots in real-time that can be shared with everyone.
+Two commonly used tools are:
+
+- [sli.do](https://www.sli.do/)
+- [mentimeter](https://www.mentimeter.com/)
+
+Read more about event polling in [this post](https://www.encore-anzpac.com/event-services/live-polling-for-events) and find more apps with feature analysis in [this post](https://www.worksup.com/event-interaction-app-feature-comparison/).
+
+## Pre- and post-event surveys
+
+Pre-event surveys can be used for managing day-to-day work with the organisers, inviting ideas and suggestions from different stakeholders of the event and setting expectations by communicating about your event beforehand with everyone.
+Pos-event surveys are used for gathering feedback from everyone regarding their experience from past events and suggestions to improve future events.
+
+- [Google Form](https://en.wikipedia.org/wiki/Google_Forms): Google Forms is a survey administration software that allows data collection that can be automatically entered into a spreadsheet.
+- [Survey Monkey](https://www.surveymonkey.com/): This is one of the most popular tool, available with limited features (10 questions and 100 respondents for free) and provides many features including templates for the paid version.
+- [Typeform](https://www.typeform.com/surveys/): Allows developing surveys in a more creative manner. The free version can be used only for a small group.
+
