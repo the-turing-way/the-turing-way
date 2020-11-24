@@ -49,14 +49,13 @@ This visually separates the block of text from the rest of the page and ensures 
 
 To add a note, warning or admonition to your page, use the following directive:
 
-```
+````
 ```{note}
 This is a sample note!
 ```
-```
+````
 
 which renders as follows:
-
 
 ```{note}
 This is a sample note!
@@ -65,11 +64,11 @@ This is a sample note!
 You can give admonitions custom titles and styling to reinforce your intended message. 
 For example, if you wanted to warn the reader about something, you may make an admonition using the following directive:
 
-```
+````
 ```{warning}
 This is a stern warning!
 ```
-```
+````
 
 Note the new title, icon, and colour scheme.
 
