@@ -2,7 +2,7 @@
 # Chairing Remote Events
 
 To run an event smoothly, part of planning and preparation is to delegate tasks of leading and chairing different sessions of an event to different individuals.
-Main responsibilities of a chair are to introduce speakers and timekeeping.
+The main duties of a chair are to moderate their session by introducing speakers and keep their sessions as planned - within the time limit by keeping their session on the topic, avoid distractors and help address any challenges that may appear.
 However, their roles may include other tasks depending on the purpose of the event, attendees, format and so on.
 
 In this subchapter, we provide guidelines for the chairs of different types of sessions, which can be adapted and built upon by the event organisers and chairs to prepare ahead of time.
