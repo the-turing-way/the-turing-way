@@ -326,6 +326,8 @@
       file: community-handbook/consistency/consistency-structure
     - title: Language
       file: community-handbook/consistency/consistency-language
+    - title: Consistency Cheatsheet
+      file: community-handbook/consistency/consistency-cheatsheet
   - title: Acknowledging Contributors
     file: community-handbook/acknowledgement
     sections:
