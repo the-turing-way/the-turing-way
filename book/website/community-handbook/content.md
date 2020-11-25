@@ -87,7 +87,7 @@ To add more chapters to the Guide for Reproducible Research,
 use the file locations of `example-chapter`'s constituent files for reference.
 
 (ch-content-checklist)=
-## Writing Checklist
+## Contribution Checklist
 
 ### Follow the style and consistency guidelines
 
