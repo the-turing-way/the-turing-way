@@ -2142,6 +2142,24 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "nuest",
+      "name": "Daniel Nüst",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1325054?v=4",
+      "profile": "https://nordholmen.net",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "leavanh",
+      "name": "leavanh",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/50297755?v=4",
+      "profile": "https://github.com/leavanh",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",

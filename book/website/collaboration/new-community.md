@@ -1,3 +1,4 @@
+(cl-new-community)=
 # Managing a New Community and Team
 
 As researchers, scientists and 'techies' we look for ways to use our skills to solve pressing, current issues.
