@@ -21,7 +21,7 @@ The main purpose is that all elements of a project are published together, so a 
 
 ![Cartoon of a research compendium](../../figures/ResearchCompendium.jpg)
 
-## How This Will Help You/Why This Is Useful
+## Motivation
 
 A research compendium combines all elements of your project, allowing others to reproduce your work, and should be the final product of your research project.
 Publishing your research paper along with a research compendium allows others to access your input, test your analysis, and, if the compendium can be executed, rerun to assess the resulting output.
