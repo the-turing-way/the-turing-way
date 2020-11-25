@@ -1,3 +1,22 @@
+# What is the difference between continuous delivery and continuous deployment?
+
+Technically speaking the above explanation conflates three related concepts, continuous integration, continuous deployment, and continuous delivery. In reality:
+
+- Continuous integration focuses on regularly integrating work from individual researchers into a main repository.
+- Continuous delivery automates and runs the steps required to build and test the project.
+- Continuous deployment takes this one step further by automatically deploying each time a code change is made.
+
+In this chapter this entire process is referred to as continuous integration for the sake of simplicity.
+
+# Continuous integration
+
+| Prerequisite | Importance | Notes |
+| -------------|------------|-------|
+| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | Continuous integration will follow command line instructions
+| [Version control](./version-control) | Necessary | Continuous integration runs every time a new _commit_ is made to your project |
+| [Reproducible computational environments](./reproducible-environments) | Necessary | Continuous integration runs your tests on a separate computer (usually in the cloud) so you need to set it up in the same way. |
+| [Testing](./testing) | Very helpful | Continuous integration _tests_ if anything important has changed when you make a change in your project |
+
 # What are the options for CI service providers?
 
 There are many CI service providers, such as GitHub Actions and Travis CI. Each of these services has its own advantages and disadvantages. In this section we provide a brief overview with links to examples to help you select the most suitable one for you.
