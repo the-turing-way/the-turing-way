@@ -28,7 +28,7 @@ Publishing your research paper along with a research compendium allows others to
 This does not only instill trust in your research but can give you more visibility.
 Others may use your research in unexpected ways, some of which are discussed below (refer section: [Using a research compendium](#using-a-research-compendium).
 
-## Chapter Content
+## Summary
 
 A research compendium at its most basic is a comprehensive set of files that combines all components of a project.
 This compendium can be downloaded and run locally to recreate the work done, or it can contain elements that allow it to be executed on a remote server.
