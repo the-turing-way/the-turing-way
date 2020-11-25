@@ -1,6 +1,6 @@
 # Research Compendia
 
-## Prerequisites / Recommended Skill Level
+## Prerequisite
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
