@@ -326,6 +326,8 @@
       file: community-handbook/consistency/consistency-structure
     - title: Language
       file: community-handbook/consistency/consistency-language
+  - title: Writing Content
+    file: community-handbook/content
   - title: Acknowledging Contributors
     file: community-handbook/acknowledgement
     sections:
