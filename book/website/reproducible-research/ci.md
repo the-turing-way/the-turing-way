@@ -1,36 +1,10 @@
 (rr-ci)=
-# Continuous integration
-
-| Prerequisite | Importance | Notes |
-| -------------|------------|-------|
-| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | Continuous integration will follow command line instructions
-| {ref}`Version control<rr-vcs>` | Necessary | Continuous integration runs every time a new _commit_ is made to your project |
-| {ref}`Reproducible computational environments<rr-renv>` | Necessary | Continuous integration runs your tests on a separate computer (usually in the cloud) so you need to set it up in the same way. |
-| {ref}`Testing<rr-testing>` | Very helpful | Continuous integration _tests_ if anything important has changed when you make a change in your project |
 
 ## Summary
 
-Continuous integration (CI) is the practice of integrating changes to a project made by individuals into a main, shared version frequently (usually multiple times per day). CI software is also typically used to identify any conflicts and bugs that are introduced by changes, so they are found and fixed early, minimising the effort required to do so. Running tests regularly also saves humans from needing to do it manually. By making users aware of bugs as early as possible researchers (if the project is a research project) do not waste a lot of time doing work that may need to be thrown away, which may be the case if tests are run infrequently and results are produced using faulty code.
-
-```{figure} ../figures/continuous-integration-nov20.jpg
----
-name: continuous-integration-nov20
-alt: An illustration on how continuous integration works with multiple jobs and actions working alonside each other to then feed into an illustration of steps to show merging into the main version.
----
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
-```
-
-## How this will help you/ why this is useful
-
-CI has a number of key benefits:
-
-- Helps bugs to be found early, minimising their damage and making them easier to fix
-- Keeps project contributors up to date with each other's work so they can benefit from it as soon as possible
-- Encourages users to write tests
-- Automates running of tests
-- Ensures tests are run frequently
-
 ## What is continuous integration?
+
+Continuous integration (CI) is the practice of integrating changes to a project made by individuals into a main, shared version frequently (usually multiple times per day). CI software is also typically used to identify any conflicts and bugs that are introduced by changes, so they are found and fixed early, minimising the effort required to do so. Running tests regularly also saves humans from needing to do it manually. By making users aware of bugs as early as possible researchers (if the project is a research project) do not waste a lot of time doing work that may need to be thrown away, which may be the case if tests are run infrequently and results are produced using faulty code.
 
 This chapter demands a strong understanding of version control. The central concepts you will need to recall are:
 
@@ -48,12 +22,22 @@ Integrating code frequently does not, by itself, offer any guarantees about the 
 
 By ensuring that your code is built and tested regularly CI helps researchers to demonstrate that their code does what it claims to do, and that it does so correctly. Typically, continuous integration servers will also allow build-and-test jobs to run at specific times, so a [CRON](https://en.wikipedia.org/wiki/Cron)-like, nightly-build-and-test, can be done, as well as a build-and-test job run on-demand.
 
-### What are continuous delivery and continuous deployment?
 
-Technically speaking the above explanation conflates three related concepts, continuous integration, continuous deployment, and continuous delivery. In reality:
+## How this will help you/ why this is useful
 
-- Continuous integration focuses on regularly integrating work from individual researchers into a main repository.
-- Continuous delivery automates and runs the steps required to build and test the project.
-- Continuous deployment takes this one step further by automatically deploying each time a code change is made.
+CI has a number of key benefits:
 
-In this chapter this entire process is referred to as continuous integration for the sake of simplicity.
+- Helps bugs to be found early, minimising their damage and making them easier to fix
+- Keeps project contributors up to date with each other's work so they can benefit from it as soon as possible
+- Encourages users to write tests
+- Automates running of tests
+- Ensures tests are run frequently
+
+# Continuous integration
+
+| Prerequisite | Importance | Notes |
+| -------------|------------|-------|
+| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | Continuous integration will follow command line instructions
+| {ref}`Version control<rr-vcs>` | Necessary | Continuous integration runs every time a new _commit_ is made to your project |
+| {ref}`Reproducible computational environments<rr-renv>` | Necessary | Continuous integration runs your tests on a separate computer (usually in the cloud) so you need to set it up in the same way. |
+| {ref}`Testing<rr-testing>` | Very helpful | Continuous integration _tests_ if anything important has changed when you make a change in your project |
