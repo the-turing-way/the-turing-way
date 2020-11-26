@@ -7,7 +7,7 @@ Check | How to accomplish check | Video Tutorial
 ------|--------|-------
 Use Markdown formatting. | Refer to Markdown guides such as this Wordpress cheatsheet. | ![](https://media.giphy.com/media/3rgXBroGwOuAScNQfm/giphy.gif)
 Remove HTML formatting. | Remove HTML tags and/or convert HTML to Markdown. | ![](https://media.giphy.com/media/lQDLwWUMPaAHvh8pAG/giphy.gif)
-Format Checklist subchapters as unordered lists. | `- [ ] Item One` becomes `- Item One` | ![](https://media.giphy.com/media/lSPlEENLTonvclZP44/giphy.gif)
+Format Checklist subchapters as unordered lists. | `- [ ] Item One` becomes `- Item One` | ![](https://media.giphy.com/media/g1prQM5Ox4AHGip3Mk/giphy.gif)
 Use headers in sequential order. | `# A first-level heading (with one hashtag)` should be followed by `## A second-level heading (with two hashtags.` and so on. | Link  
 Add labels to enable cross-referencing | _how to describe this briefly?_ | Link
 Use `MyST` for image formatting | Apply the `height` or `scale` parameters when embedding images. _again, how to describe the whole check briefly?_ | Link
