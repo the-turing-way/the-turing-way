@@ -5,15 +5,6 @@
 As with [testing](#Testing), a key objective of code review is to remove mistakes and bad practice from changes made to a software project before those changes enter the master code base.
 However, it also has a number of other direct and indirect benefits to projects. These are discussed below.
 
-## Table of contents
-
-- [Group knowledge and cohesion](#Group_knowledge_and_cohesion)
-- [Style enforcement](#Style_enforcement)
-- [Readability](#Readability)
-- [Documentation](#Documentation)
-- [Improvements to testing](#Improvements_to_testing)
-- [Catching bugs and elementary errors](#Catching_bugs_and_elementary_errors)
-
 <a name="Catching_bugs_and_elementary_errors"></a>
 ## Catching bugs and elementary errors
 
