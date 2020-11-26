@@ -6,12 +6,13 @@ Make as many copies of this file as you need for all your subchapters
 -->
 
 (sectioninitials-filename)=
-# Research with ethics in mind
+# 1. Research with ethics in mind
 
 current summary: 
-Why to devote resources to ethical processes and how to justify it? 
-Why it is easiest / most important to already design a research project with ethics in mind? 
-Starting research with ethics in mind already makes project planning and management easier
+
+* Why to devote resources to ethical processes and how to justify it? 
+* Why it is easiest / most important to already design a research project with ethics in mind? 
+* Starting research with ethics in mind already makes project planning and management easier
 
 
 
