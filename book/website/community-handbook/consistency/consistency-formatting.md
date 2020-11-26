@@ -85,6 +85,15 @@ Thus, we recommend that you format your Checklist subchapters as unordered lists
 
 ```
 
+##### Demo
+
+```{figure} https://media.giphy.com/media/g1prQM5Ox4AHGip3Mk/giphy.gif
+---
+name: checklist-formatting
+alt: When the Checklist subchapter of any chapter is written in Markdown as a Task List with checkboxes, square brackets are displayed rather than checkboxes in the web version of the book. We recommend formatting your checklist items as unordered lists.
+---
+How to remove square brackets from checklist items
+```
 
 (ch-consistency-formatting-hr-headers)=
 ### Check 2: Use headers in sequential order.
