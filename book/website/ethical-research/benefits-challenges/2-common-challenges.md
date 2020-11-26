@@ -9,7 +9,9 @@ Make as many copies of this file as you need for all your subchapters
 # 2. Common challenges
 
 current summary: 
-* Standard Q&A about why and how to do ethics, responding to common challenges and criticisms of ethics, misconceptions about ethics and whether it applies to you, e.g.: Q: it costs a lot to do ethics - in terms of researcher time to fill in ethics forms. A: project management-wise you could have 1 person responsible for the form, but ethical thinking should be in the part of decisions, could engage domain ethics experts and bring into discussions, have an Advisory Board, etc.
+* Standard Q&A about why and how to do ethics, 
+* responding to common challenges and criticisms of ethics, misconceptions about ethics and whether it applies to you, 
+** example" Q: it costs a lot to do ethics - in terms of researcher time to fill in ethics forms. A: project management-wise you could have 1 person responsible for the form, but ethical thinking should be in the part of decisions, could engage domain ethics experts and bring into discussions, have an Advisory Board, and so on and so forth.
 
 
 
