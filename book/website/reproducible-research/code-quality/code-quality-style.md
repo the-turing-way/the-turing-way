@@ -1,4 +1,4 @@
-# Code style
+# Code Style and Formatting
 
 A coding style is a set of conventions on how to format code.
 For instance, what do you call your variables? Do you use spaces or tabs for indentation? Where do you put comments?
