@@ -41,7 +41,7 @@ The more readable your code is, the easier it will be for other developers to re
 ## Style Enforcement
 
 Many projects enforce certain [code style guidelines](../../code_quality/code_quality#coding-style), be they widely-adopted standards (for example, [PEP8](https://www.python.org/dev/peps/pep-0008/), the [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)) or more project-specific conventions. [Automated services](../../code_quality/code_quality#online-services-providing-software-quality-checks) provide a convenient way to enforce a coding style and start the discussion about code quality.
-Code review provides an opportunity to ensure all proposed changes meet the minimum require standards for the project.
+Code review provides an opportunity to ensure all proposed changes meet the minimum required standards for the project.
 
 (rr-reviewing-motivation-knowledge)=
 ## Group Knowledge and Cohesion
