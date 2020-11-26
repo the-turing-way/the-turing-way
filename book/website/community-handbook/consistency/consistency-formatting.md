@@ -85,9 +85,11 @@ Thus, we recommend that you format your Checklist subchapters as unordered lists
 
 ```
 
-##### Demo
+#### Demo
 
-<iframe style="display: block; margin:auto;" width="560" height="315" src="https://www.youtube.com/embed/wzbz0xry8dY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vLIGy1OVrUc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ujsasdW1boI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 (ch-consistency-formatting-hr-headers)=
@@ -111,6 +113,10 @@ Ideally, all Markdown files should start with a level 1 heading and increase seq
 Several files in _The Turing Way_ book do not follow this convention. 
 A list of such files can be found in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1321), and [this PR](https://github.com/alan-turing-institute/the-turing-way/pull/1451) is a great example of how to fix a file with non-consecutive headers.
 
+#### Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t-RR-y6fQ5U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 (ch-consistency-formatting-hr-labels)=
 ### Check 3: Add labels to chapters, subchapters, sections, and images to enable cross-referencing.
@@ -120,6 +126,10 @@ Cross-referencing facilitates this by ensuring that the referred content is easy
 This helps make _The Turing Way_ more navigable and accessible.
 
 {ref}`Cross-referencing <ch-style-crossref>` is discussed in detail in the {ref}`ch-style-guide`. The subchapter explains what labels are, provides a naming convention for labels in _The Turing Way_, and gives several useful examples for how cross-referencing should be done.
+
+#### Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZnZdpnzwDZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 (ch-consistency-formatting-hr-images)=
@@ -145,6 +155,10 @@ This allows the book load faster, especially for readers who may have slow inter
 Please refer to the {ref}`style guide <ch-style-figures>` for examples on formatting images using `MyST` and adding ALT text to them.
 When including images in your contributions, it may be better to avoid the height parameter as the wrong value could make your image appear distorted on mobile devices.
 You should always check how your image looks in the Netlify preview of the book when you make a PR.
+
+#### Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P0NFyZ8AaOg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (ch-consistency-formatting-sr)=
 ## Soft Requirements
@@ -177,6 +191,10 @@ The `_toc.yml` is the file where the book-wide table of contents for _The Turing
 
 Nonetheless, remember that the final title should adequately tell readers what to expect from a chapter or subchapter.
 
+#### Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K6lDmd9X6yw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 (ch-consistency-formatting-sr-two)=
 ### Check 2: Ensure proper title-casing for headers
@@ -198,3 +216,7 @@ For example, In {ref}`<mismatched_title_toc>` above, **Using spreadsheets for re
 
 Certain headers may not need to be title-cased depending on the context in which they are used.
 For example, because some of the headers in this chapter make up a checklist - they do not need to be title-cased.
+
+#### Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gKrno6Dev-Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -24,6 +24,10 @@ This could help minimize the number of grammatical errors that make it to the fi
 With respect to tone, ensure that chapters adhere to a formal style of writing and that sentences are easy to digest.
 One rule of thumb to consider is that if a sentence needs to be read more than once to be understood, then it likely needs to be rephrased.
 
+#### Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x6cbUq2vALE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 (ch-consistency-language-hr-language)=
 ### Check 2: Ensure chapters use a consistent language
 
