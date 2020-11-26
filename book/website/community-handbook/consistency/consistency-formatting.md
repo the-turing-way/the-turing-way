@@ -87,7 +87,8 @@ Thus, we recommend that you format your Checklist subchapters as unordered lists
 
 ##### Demo
 
-<video controls src="../../videos/labels.mp4">Test Video</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wzbz0xry8dY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 (ch-consistency-formatting-hr-headers)=
 ### Check 2: Use headers in sequential order.
