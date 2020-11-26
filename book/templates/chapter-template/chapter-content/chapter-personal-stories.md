@@ -8,8 +8,8 @@
 
 > A personal story should be short, engaging, and have a clear call-to-action. 
 > How you format it is up to you, however you may consider one of the following options:
-> - An interview with the subject - for reference, see the [personal story](https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-personal-stories.html) in the Verion Control chapter
-> - A blog-style article about the subject written from their perpective - for reference, see the [personal story](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-stories.html) in the Research Data Management Chapter.
+> - An interview with the subject - for reference, see the [personal story](https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-personal-stories.html) in the Version Control chapter
+> - A blog-style article about the subject written from their perspective - for reference, see the [personal story](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-stories.html) in the Research Data Management Chapter.
 > - A blog-style article written about the subject written from your perspective - in this case, it may be beneficial to include direct quotes from the subject in your article where possible. 
 
 ## `Subject Name`: `Story Caption`
@@ -19,7 +19,7 @@
 
 > Regardless of how you choose to format the personal story, ensure that it contains the elements itemised in list below. 
 > Use the items to structure your content but do not include them in your contribution. 
-> Feel free to use images, external resouces, or code blocks to tell a compelling story.
+> Feel free to use images, external resources, or code blocks to tell a compelling story.
 > Above all, centre the personal story around how readers are expected to benefit from the subject's experiences.
 
 > ### Key Elements of a Personal Story

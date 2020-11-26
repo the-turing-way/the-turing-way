@@ -23,7 +23,7 @@ Therefore, it is important to track those tasks in an online event management to
 
 Meeting scheduling platforms help find a common availability without having to check multiple times with all the intended participant's.
 
-Some commonly used options are [Doodle](https://doodle.com/poll/) abd [when2meet.com](https://www.when2meet.com/).
+Some commonly used options are [Doodle](https://doodle.com/poll/) and [when2meet.com](https://www.when2meet.com/).
 See more options [here](https://zapier.com/blog/best-meeting-scheduler-apps/).
 
 It is particularly crucial to use meeting links like [arewemeetingyet](https://arewemeetingyet.com/#form) or [create/send calendar invitations](https://www.calendar.com/blog/how-to-send-a-google-calendar-invite/) to communicate these schedules to invitees from different countries and time zones.
@@ -40,12 +40,12 @@ This is especially important for creating an opportunity for those who can not (
 
 ## Maintaining shared notes
 
-It is important to create shared notes, but also to save them to share with others and to make them avaiable to refer back to later.
+It is important to create shared notes, but also to save them to share with others and to make them available to refer back to later.
 
 - [Google Drive](https://en.wikipedia.org/wiki/Google_Drive): Google Drive is a file storage and synchronization service developed by Google.
 - [DropBox](https://www.dropbox.com/): Dropbox is a file hosting service operated by the American company Dropbox.
 - [owncloud](https://owncloud.com/): ownCloud is a suite of client-server software for creating and using file hosting services. ownCloud functionally has similarities to the widely used Dropbox.
-- [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/free-trial/) and [Bitbucket](https://bitbucket.org/product): Platforms for hosting, sharing and collaborating on documents and software with a version control system (see [this post for detail/difference](https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab)).
+- [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/free-trial/) and [BitBucket](https://bitbucket.org/product): Platforms for hosting, sharing and collaborating on documents and software with a version control system (see [this post for detail/difference](https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab)).
 
 ## Managing event registration
 
@@ -96,7 +96,7 @@ Read more about event polling in [this post](https://www.encore-anzpac.com/event
 ## Pre- and post-event surveys
 
 Pre-event surveys can be used for managing day-to-day work with the organisers, inviting ideas and suggestions from different stakeholders of the event and setting expectations by communicating about your event beforehand with everyone.
-Pos-event surveys are used for gathering feedback from everyone regarding their experience from past events and suggestions to improve future events.
+Post-event surveys are used for gathering feedback from everyone regarding their experience from past events and suggestions to improve future events.
 
 - [Google Form](https://en.wikipedia.org/wiki/Google_Forms): Google Forms is a survey administration software that allows data collection that can be automatically entered into a spreadsheet.
 - [Survey Monkey](https://www.surveymonkey.com/): This is one of the most popular tool, available with limited features (10 questions and 100 respondents for free) and provides many features including templates for the paid version.

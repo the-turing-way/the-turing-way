@@ -15,7 +15,7 @@ Barba (2018) {cite}`Barba2018Reproducibility` conducted a detailed literature re
 Most papers and disciplines use the terminology as defined by Claerbout and Karrenbach, whereas microbiology, immunology and computer science tend to follow the ACM use of reproducibility and replication.
 In political science and economics literature, both terms are used interchangeably.
 
-In addition to these high level definitions of reproducibility, some authors provide more detailed disctinctions.
+In addition to these high level definitions of reproducibility, some authors provide more detailed distinctions.
 Victoria Stodden {cite}`Victoria2014Reproducibility`, a prominent scholar on this topic, has for example identified the following further distinctions:
 
 - _Computational reproducibility_: When detailed information is provided about code, software, hardware and implementation details.

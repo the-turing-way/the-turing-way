@@ -10,7 +10,7 @@ We are incredibly grateful to our community members who are the readers, co-auth
 
 Thank you for joining the incredible journey of _The Turing Way_!
 
-| ![A garden full of folks working on different parts of the garden. Someone is welcoking others, someone is teaching the basics, someone is writing best practices and someone is helping this community grow.](../figures/community.jpg) |
+| ![A garden full of folks working on different parts of the garden. Someone is welcoming others, someone is teaching the basics, someone is writing best practices and someone is helping this community grow.](../figures/community.jpg) |
 | ---------------|
 | _The Turing Way_ project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3695300 |
 
@@ -23,7 +23,7 @@ The original files can be accessed online on our [GitHub repository](https://git
 ## Useful links
 
 Visit the Turing Way GitHub repository at [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) to find out what we are working on.
-Start contributin to the book by reading our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).
+Start contributing to the book by reading our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).
 
 If you are new and would like to connect with us, join our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
 We also host bimonthly [online Collaboration Cafés](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md) to cowork online with our community members online.

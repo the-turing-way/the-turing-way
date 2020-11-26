@@ -419,7 +419,7 @@ Volume related commands:
 <a name="Singularity"></a>
 ## Singularity
 
-> Prerequisites: At present, Singularity only runs on linux systems (for example Ubuntu). If you use, macOS,
+> Prerequisites: At present, Singularity only runs on Linux systems (for example Ubuntu). If you use, macOS,
 > [Singularity Desktop for macOS](https://www.sylabs.io/singularity-desktop-macos/) is in "Alpha Preview" stage.
 
 A major drawback of Docker for reproducible research is that it is not intended as a user-space application but as a
@@ -437,8 +437,8 @@ compatibility with docker containers as much as possible, meaning that singulari
 (without requiring root access!).
 
 Singularity can be used to run Docker images or extend them by building new images based on docker containers as base
-layer. For instance, we could use singularity to spin up a vanilla ubuntu container and getting a shell in it using the
-ubuntu docker image via
+layer. For instance, we could use singularity to spin up a vanilla Ubuntu container and getting a shell in it using the
+Ubuntu docker image via
 
 ```
 singularity shell docker://ubuntu
@@ -448,7 +448,7 @@ singularity shell docker://ubuntu
 
 Just as docker images are built using `Dockerfile` files, singularity containers are built from singularity definition
 files. The process and syntax is similar to docker files but there are subtle differences. As a minimal working example,
-we can build a 'lolcow' container based on the official ubuntu docker container image. Put the following in a
+we can build a 'lolcow' container based on the official Ubuntu docker container image. Put the following in a
 `lolcow.def` file (based on the
 [Singularity documentation](https://www.sylabs.io/guides/3.2/user-guide/build_a_container.html)):
 
@@ -478,7 +478,7 @@ A container image can then be built (requiring root!) via
 sudo singularity build lolcow.simg lolcow.def
 ```
 
-This will pull the ubuntu image from Docker Hub, run the steps of the recipe in the definition file and produce a single
+This will pull the Ubuntu image from Docker Hub, run the steps of the recipe in the definition file and produce a single
 output image file (`lolcow.simg`). Finally the runscript is executed as
 
 ```
@@ -517,7 +517,7 @@ To achieve true reproducibility, it is therefore important to store the actual c
 images, this is particularly easy since an image is simply a large file. These can vary in size from a few tens of
 megabytes (microcontainers) to several gigabyte and are therefore not suited for being stored in a git repository
 themselves. A free, citable, and long-term solution to storing container images is [zenodo.org](https://zenodo.org/)
-which allows up to 50 Gb per repository. Since zenodo is minting DOIs for all content uploaded, the images are
+which allows up to 50 GB per repository. Since zenodo is minting DOIs for all content uploaded, the images are
 immediately citable. In contrast to [Docker Hub](https://hub.docker.com/) (which also only accepts docker images)
 zenodo.org is also clearly geared towards long-term storage and discoverability via a sophisticated metadata system and
 thus ideally suited for storing scientific containers associated with particular analyses since these tend to not change
