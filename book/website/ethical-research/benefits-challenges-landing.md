@@ -23,6 +23,18 @@
 (sectioninitials-filename-summary)=
 ## Summary
 
+<!-- 
+
+Current draft outline:
+
+1. Why to devote resources to ethical processes and how to justify it? Why it is easiest / most important to already design a research project with ethics in mind? Starting research with ethics in mind already makes project planning and management easier
+1. Standard Q&A about why and how to do ethics, responding to common challenges and criticisms of ethics, misconceptions about ethics and whether it applies to you, e.g.: Q: it costs a lot to do ethics - in terms of researcher time to fill in ethics forms. A: project management-wise you could have 1 person responsible for the form, but ethical thinking should be in the part of decisions, could engage domain ethics experts and bring into discussions, have an Advisory Board, etc.
+1. Impact of making ethical considerations within science vs. not doing so
+
+
+--->
+
+
 > **Write a brief overview of the content of your chapter.**
 > Summaries should be concise, but also introduce all the sub-topics that your chapter will talk about.
 > When you mention a sub-topic, link to the subchapter where you expand on the topic.
