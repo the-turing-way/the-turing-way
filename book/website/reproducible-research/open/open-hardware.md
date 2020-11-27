@@ -46,12 +46,12 @@ An appropriate license on the open hardware project and its content grants legal
 These are the source files that you would use to make modifications to the hardware's design.
 The act of sharing these files is the core practice of open-source hardware.
 - Ideally, your open-source hardware project would be designed using a free and open-source software application to maximize the ability of others to view and edit it.
+
 For better or worse, hardware design files are often created in proprietary programs and stored in proprietary formats.
 It is still essential to share these original design files; they constitute the original "source code" for the hardware.
 They are the same files that someone will need in order to contribute changes to a given design.
 - Try to make your design files easy for someone else to understand. In particular, organize them in a logical way, comment complex aspects, and note any unusual manufacturing procedures.
 - Examples of Original Design Files include 2D drawings and computer-aided design (CAD) files.
-
 
 (rr-open-hardware-elements-auxiliary)=
 ### Auxiliary Design Files
@@ -76,7 +76,6 @@ A bill of materials can be a spreadsheet (for example, CSV, XLS, Google Doc) or 
 Useful things to include in the bill of materials are part numbers, suppliers, costs, and a short description of each part.
 Make it easy to tell which item in the bill of materials corresponds to which component in your design files: use matching reference designators in both places, provide a diagram indicating which part goes where, or otherwise explain the correspondence.
 
-
 (rr-open-hardware-elements-software)=
 ### Software and Firmware
 
@@ -88,7 +87,6 @@ Document the process required to build your software, including links to any dep
 ### Photos
 Photos help people understand what your project is and how to put it together.
 It is good to publish photographs from multiple viewpoints and at various stages of assembly. If you do not have photos, posting 3D renderings of your design is a good alternative. Either way, it is good to provide captions or text that explain what is shown in each image and why it is useful.
-
 
 (rr-open-hardware-elements-instructions)=
 ### Instructions and Other Explanations
@@ -112,12 +110,10 @@ Remember, though, that others might want to modify your instructions as they mod
 (rr-open-hardware-processes-designing)=
 ### Designing Your Hardware
 
-
 If you are planning to open source a particular piece of hardware, following certain best practices in its design will make it easier for others to make and modify the hardware:
 
 - Use free and open source software design (CAD) tools where possible: If that is not feasible, try to use low-cost and/or widely-used software packages.
 - Use standard and widely-available components, materials, and production processes: Try to avoid parts that are not available to individual customers or processes that require expensive setup costs.
-
 
 (rr-open-hardware-processes-hosting)=
 ### Hosting Your Design Files
@@ -128,7 +124,6 @@ Using an online source-code repository (like GitHub, GitLab, or NotaBug) may be 
 
 (rr-open-hardware-processes-distributing)=
 ### Distributing Open-Source Hardware
-
 
 - Provide links to the source (original design files) for your hardware on the product itself, its packaging, or its documentation.
 - Make it easy to find the source (original design files) from the website for a product.

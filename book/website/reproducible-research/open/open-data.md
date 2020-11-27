@@ -1,10 +1,11 @@
 (rr-open-data)=
 # Open Data
 
-The world is witnessing a significant global transformation, facilitated by technology and digital media, and fuelled by data and information. 
+The world is witnessing a significant global transformation, facilitated by technology and digital media, and fuelled by data and information.
 This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research.
 Only a very small proportion of the original data is published in conventional journals. 
 Despite existing policies on archiving data, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public (and often even to the researcher who generated the data).
+
 This lack of data sharing is an obstacle to international research (be it academic, governmental, or commercial) for two main reasons:
 
 1. It is generally difficult or impossible to reproduce a study without the original data.
@@ -27,27 +28,26 @@ Listed below are the steps to making your data open.
 (rr-open-data-steps)=
 ## Steps to Make Your Data Open
 
-
 The steps below help you make your data findable, accessible, interoperable and reusable (FAIR). You can learn more about FAIR principles in the chapter on {ref}`rr-rdm`.
 
 (rr-open-data-steps-one)=
 ### Step 1: Make your data available
 
-Put your data online. 
-It should be easily discoverable and accessible, and made available without bureaucratic or administrative barriers, which can deter people from accessing the data. 
-Choose a location to store the data which will ensure historical copies of datasets are preserved, archived, and kept accessible as long as they retain value. 
+Put your data online.
+It should be easily discoverable and accessible, and made available without bureaucratic or administrative barriers, which can deter people from accessing the data.
+Choose a location to store the data which will ensure historical copies of datasets are preserved, archived, and kept accessible as long as they retain value.
 Whenever possible, researchers should provide data in its original, unmodified form.
 
-Data should be free of charge, under [an open licence](https://fossbytes.com/open-sources-license-type/), (for example, those developed by Creative Commons) so it can be reused and remixed by other researchers. 
-The data should be available as a whole and at no more than a reasonable reproduction cost. 
+Data should be free of charge, under [an open licence](https://fossbytes.com/open-sources-license-type/), (for example, those developed by Creative Commons) so it can be reused and remixed by other researchers.
+The data should be available as a whole and at no more than a reasonable reproduction cost.
 That is, no expensive piece of software should be required to read the file as this may obstruct researchers who wish to work with the dataset.
 
 (rr-open-data-steps-two)=
 ### Step 2: Make your data easy to understand
 
-Having data available is of no use if it cannot be understood. 
-For example, a table of numbers is useless if there are no headings which describe the contents of the rows and columns. 
-Therefore you should ensure that open datasets include consistent core metadata, and that the data is fully described. 
+Having data available is of no use if it cannot be understood.
+For example, a table of numbers is useless if there are no headings which describe the contents of the rows and columns.
+Therefore you should ensure that open datasets include consistent core metadata, and that the data is fully described.
 This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
 
 (rr-open-data-steps-three)=
@@ -81,8 +81,8 @@ DataCite also collects metadata about each dataset it registers so they can be m
 Any repository wishing to register DOIs needs to obtain a username and password from DataCite to gain access to the registration service. 
 While best practices have yet to emerge on some matters, certain conventions are already becoming established.
 
-In particular, when organisations register a DOI for a resource, they should not introduce semantic elements into the suffix, especially not metadata that might change over time (for example, publisher, archive, owner). 
-Assign identifiers to static datasets only when no further changes or corrections are expected (such as after quality control checks are complete). 
+In particular, when organisations register a DOI for a resource, they should not introduce semantic elements into the suffix, especially not metadata that might change over time (for example, publisher, archive, owner).
+Assign identifiers to static datasets only when no further changes or corrections are expected (such as after quality control checks are complete).
 As DOIs are used to cite data as evidence, the resource to which a DOI points should also remain unchanged, with any new version receiving a new DOI.
 
 Furthermore, whichever identifier scheme you pick, make sure it allows the identifier to be resolved to a URL. 
