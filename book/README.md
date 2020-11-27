@@ -95,7 +95,7 @@ You can find the build history or logs for _The Turing Way_ at https://app.netli
 ## Bibliography
 
 In the directory `./website/_bibliography` a collection of bibliography from all the chapters exist in the `references.bib` file.
-More details can be read on th [CONTRIBUTING.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#referencing-and-citing) file.
+More details can be read in the [CONTRIBUTING.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#referencing-and-citing) file.
 
 ## Content Templates
 
