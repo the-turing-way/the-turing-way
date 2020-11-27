@@ -1,3 +1,4 @@
+(ch-style-citing)=
 # Citing and Referencing
 
 We maintain a centralised [BibTeX](http://www.bibtex.org/) file containing all references.

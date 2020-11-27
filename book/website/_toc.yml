@@ -261,7 +261,30 @@
     sections:
     - title: Personal Stories of Leadership
       file: collaboration/leadership/leadership-stories
-
+  - title: Remote Collaboration
+    file: collaboration/remote-collab
+    sections:
+    - title: Organising Remote Meetings
+      file: collaboration/remote-collab/remote-collab-meetings.md
+    - title: Guidelines for Remote Collaboration
+      file: collaboration/remote-collab/remote-collab-guidelines.md
+    - title: Tools for Remote Collaboration
+      file: collaboration/remote-collab/remote-collab-tools.md
+    - title: Organising Online Coworking Calls
+      file: collaboration/remote-collab/remote-collab-coworking.md
+    - title: Organising Remote Conferences
+      file: collaboration/remote-collab/remote-collab-conferences.md
+    - title: Chairing Remote Events
+      file: collaboration/remote-collab/remote-collab-chairs.md
+    - title: Participating in Remote Events
+      file: collaboration/remote-collab/remote-collab-participation.md
+    - title: Managing Distributed Teams
+      file: collaboration/remote-collab/remote-collab-management.md
+    - title: Informal Coffee Chats
+      file: collaboration/remote-collab/remote-collab-informal.md
+    - title: Perceived Pros and Cons
+      file: collaboration/remote-collab/remote-collab-prosandcons.md
+      
 # ===== Ethical Research Guide ========================================
 - file: ethical-research/ethical-research
   sections:
@@ -292,6 +315,17 @@
       file: community-handbook/style/style-crossref
     - title: Using Figures
       file: community-handbook/style/style-figures
+    - title: Glossary, Special Blocks and More Styling  
+      file: community-handbook/style/style-more-styling
+  - title: Maintaining Consistency
+    file: community-handbook/consistency
+    sections:
+    - title: Formatting
+      file: community-handbook/consistency/consistency-formatting
+    - title: Structure
+      file: community-handbook/consistency/consistency-structure
+    - title: Language
+      file: community-handbook/consistency/consistency-language
   - title: Acknowledging Contributors
     file: community-handbook/acknowledgement
     sections:

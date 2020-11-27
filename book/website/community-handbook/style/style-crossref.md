@@ -42,12 +42,12 @@ The following naming convention for the labels for different chapters:
 
 Here, the first placeholder `sectioninitials` should be replaced by the initials for different sections in the book and the second placeholder `filename` should be replaced by the name of file where the label is being created.
 
-For the different sections of the book, we will use the following `sectioninitials`:
+For the different Guides of the book, we will use the following `sectioninitials`:
 
 - Reproducible Research: `rr`
 - Project Design: `pd`
-- Collaboration: `clb`
-- Contribution: `cnt`
+- Collaboration: `cl`
+- Communication: `cm`
 - Ethical Research: `er`
 - Community Handbook: `ch`
 
