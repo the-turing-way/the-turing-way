@@ -79,7 +79,7 @@ Your chapter's files should be added to the `_toc.yml` as appropriate.
 
 For example, because the [Statistical Methods Manuscript](https://the-turing-way.netlify.app/reproducible-research/case-studies/statistical-methods-manuscript.html) case study belongs to the Guide for Reproducible Research, it was added to the table of contents as follows:
 
-````{admonition}
+````{admonition} Updating the book-wide table of contents
 :class: dropdown
 ```
 - file: reproducible-research/reproducible-research
