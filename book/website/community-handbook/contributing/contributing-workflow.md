@@ -1,7 +1,7 @@
 (ch-contributing-workflow)=
 # Contribution Workflow
 
-Contributing to _The Turing Way_ generally encompasses the steps discussed in this section.
+Whether you are writing new content or reviewing existing ones, contributing to _The Turing Way_ generally encompasses the steps discussed in this section.
 You may refer to the recommendations here to ensure that you have adequately prepared your contribution for review.
 Please note that the order of these recommendations are not strict and we encourage you to follow the approach that suits you best.
 
