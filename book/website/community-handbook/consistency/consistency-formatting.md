@@ -52,6 +52,12 @@ There are also helpful tools on the web, such as [Turndown](https://domchristie.
 Please note that if `HTML` seems the only option for you to format your text the way you desire, you can only use it if the content in the online book can still be read and understood (use the Netlify preview in your PR to test). 
 For example, [superscripts and subscripts](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be written in `HTML` because they always appear as intended.
 
+#### Demo
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vLIGy1OVrUc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 #### Writing Checklists
 
 When writing a new chapter for _The Turing Way_, you might include a Checklist subchapter that itemises key action points you want readers to take based on the chapter content.
@@ -86,11 +92,6 @@ Thus, we recommend that you format your Checklist subchapters as unordered lists
 ```
 
 #### Demo
-
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/vLIGy1OVrUc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ujsasdW1boI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
