@@ -87,9 +87,15 @@ Thus, we recommend that you format your Checklist subchapters as unordered lists
 
 #### Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vLIGy1OVrUc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vLIGy1OVrUc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ujsasdW1boI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ujsasdW1boI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 
 (ch-consistency-formatting-hr-headers)=
@@ -115,7 +121,9 @@ A list of such files can be found in [this issue](https://github.com/alan-turing
 
 #### Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t-RR-y6fQ5U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/t-RR-y6fQ5U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 (ch-consistency-formatting-hr-labels)=
@@ -129,7 +137,10 @@ This helps make _The Turing Way_ more navigable and accessible.
 
 #### Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZnZdpnzwDZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnZdpnzwDZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 
 (ch-consistency-formatting-hr-images)=
@@ -158,7 +169,11 @@ You should always check how your image looks in the Netlify preview of the book 
 
 #### Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P0NFyZ8AaOg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/P0NFyZ8AaOg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 
 (ch-consistency-formatting-sr)=
 ## Soft Requirements
@@ -193,7 +208,9 @@ Nonetheless, remember that the final title should adequately tell readers what t
 
 #### Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K6lDmd9X6yw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/K6lDmd9X6yw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 (ch-consistency-formatting-sr-two)=
@@ -219,4 +236,8 @@ For example, because some of the headers in this chapter make up a checklist - t
 
 #### Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gKrno6Dev-Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/gKrno6Dev-Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
