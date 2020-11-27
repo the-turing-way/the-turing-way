@@ -306,6 +306,13 @@
       file: community-handbook/coc/coc-enforcement
     - title: Acnowledgements
       file: community-handbook/coc/coc-acknowledgement
+  - title: Contributing - Templates and Workflow
+    file: community-handbook/contributing
+    sections:
+    - title: Templates
+      file: community-handbook/contributing/contributing-templates
+    - title: Workflow
+      file: community-handbook/contributing/contributing-workflow
   - title: Style Guide
     file: community-handbook/style
     sections:
@@ -326,8 +333,6 @@
       file: community-handbook/consistency/consistency-structure
     - title: Language
       file: community-handbook/consistency/consistency-language
-  - title: Writing Content
-    file: community-handbook/content
   - title: Acknowledging Contributors
     file: community-handbook/acknowledgement
     sections:
