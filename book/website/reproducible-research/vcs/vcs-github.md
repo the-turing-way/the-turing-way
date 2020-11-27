@@ -8,7 +8,7 @@ If you are new to collaboration through [GitHub](https://github.com), please fol
 In this section we will discuss how to use Git commands to work with online Git repository.
 
 Please note that the commands listed in this chapter (both in the previous and this subchapter) are NOT specific to GitHub.
-They are used for collaborative work on any Git repositories and to interact with any repository hosting site/servers, which can be [GitHub](https://github.com/), but also [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) or a [self-set-up bare Git repository on a web server](https://opensource.com/life/16/8/how-construct-your-own-git-server-part-6).
+They are used for collaborative work on any Git repositories and to interact with any repository hosting site/servers, which can be [GitHub](https://github.com/), but also [GitLab](https://about.gitlab.com/), [BitBucket](https://bitbucket.org/) or a [self-set-up bare Git repository on a web server](https://opensource.com/life/16/8/how-construct-your-own-git-server-part-6).
 
 For simplicity purpose, we will use GitHub as an example to explain commands that are used for interacting with Git repositories.
 
@@ -64,7 +64,7 @@ When you want to push them to your online version similarly you do:
 git push origin branch_you_want_to_push_to
 ```
 
-You can also make changes directly on the GitHub by editing the online repository, and *pull* those changes locally by using the Git commans `git pull`
+You can also make changes directly on the GitHub by editing the online repository, and *pull* those changes locally by using the Git command `git pull`
 
 Others can then clone the repository to their computer by using:
 
@@ -106,10 +106,10 @@ Therefore, when working on different branches or forks of a repository, it's a g
 
 ### A workflow to contribute to others GitHub projects via `git`:
 
-Using the fork botton on the GitHub repository you wish to contribute, create a personal copy of the repository in your account.
+Using the fork button on the GitHub repository you wish to contribute, create a personal copy of the repository in your account.
 The master repository that you forked will be referred as "upstream" repository.
 
-You can now work on your personal copy using commandline using following steps.
+You can now work on your personal copy using the command line and the following steps.
 
 1. clone it to your local machine:
 

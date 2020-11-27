@@ -11,7 +11,7 @@
 <a name="What_are_virtual_machines"></a>
 ## What are virtual machines?
 
-Virtual machines (VMs) essentially package a whole computer as an app that can be run. As an example see the figure below which shows a windows laptop (note the windows search button in the lower left corner) running a virtual ubuntu machine (note the terminal outputting the operating system).
+Virtual machines (VMs) essentially package a whole computer as an app that can be run. As an example see the figure below which shows a windows laptop (note the windows search button in the lower left corner) running a virtual Ubuntu machine (note the terminal outputting the operating system).
 The machine running the VM is called the "host machine".
 Using software like [VirtualBox](https://www.virtualbox.org/) or [Vagrant](https://www.vagrantup.com/), a user can create and run any number of VMs.
 As you could probably guess, having several VMs running at once can be a drain on memory, so just because you can run several at once doesn’t mean you should.
@@ -41,7 +41,7 @@ First choose a tool for generating VMs.
 Here the widely-used [VirtualBox](https://www.virtualbox.org/) is chosen. Download and install it on your system.
 To create a new machine click "New" in the top left.
 A window will pop up where you can enter a name for the machine and select what operating system and version of the operating system to use.
-In the figure below a machine called demo_VM running ubuntu is being created:
+In the figure below a machine called demo_VM running Ubuntu is being created:
 
 ![VM_create_machine](../../figures/VM_create_machine.png)
 
