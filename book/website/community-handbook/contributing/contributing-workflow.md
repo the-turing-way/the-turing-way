@@ -27,7 +27,7 @@ When writing new content, ensure that the new files and folders you create are p
 
 For example, the [Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html) chapter in the Guide for Reproducible Research is placed as follows:
 
-````{admonition} File Structure for Version Control chapter
+````{admonition} Adding new files and folders
 :class: dropdown
 ```
 book\website
@@ -79,7 +79,8 @@ Your chapter's files should be added to the `_toc.yml` as appropriate.
 
 For example, because the [Statistical Methods Manuscript](https://the-turing-way.netlify.app/reproducible-research/case-studies/statistical-methods-manuscript.html) case study belongs to the Guide for Reproducible Research, it was added to the table of contents as follows:
 
-
+````{admonition}
+:class: dropdown
 ```
 - file: reproducible-research/reproducible-research
   sections:
@@ -90,6 +91,8 @@ For example, because the [Statistical Methods Manuscript](https://the-turing-way
     - title: A Statistical Methods Manuscript
       file: reproducible-research/case-studies/statistical-methods-manuscript
 ```
+
+````
 
 (ch-contributing-workflow-referencing)=
 ## Reference external sources appropriately
