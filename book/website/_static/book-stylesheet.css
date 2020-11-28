@@ -27,6 +27,7 @@ Styling for Table of Contents
 Styling for Embedded Videos (iframes) 
 
 - Ensures that videos can resize to suit the screen the book is read from.
+- Also ensures that videos are horizontally centered.
 
 \*--------------------------------------------------------------------*/ 
 
@@ -44,6 +45,9 @@ Styling for Embedded Videos (iframes)
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+iframe {
   margin: auto;
   display:block;
 }
