@@ -28,7 +28,7 @@
     sections:
     - title: Open Data
       file: reproducible-research/open/open-data
-    - title: Open Source
+    - title: Open Source Software
       file: reproducible-research/open/open-source
     - title: Open Hardware
       file: reproducible-research/open/open-hardware
@@ -38,7 +38,9 @@
       file: reproducible-research/open/open-notebooks
     - title: Open Scholarship
       file: reproducible-research/open/open-scholarship
-    - title: Resources of Open Research
+    - title: Checklist
+      file: reproducible-research/open/open-checklist
+    - title: Resources
       file: reproducible-research/open/open-resources
   - title: Version Control
     file: reproducible-research/vcs

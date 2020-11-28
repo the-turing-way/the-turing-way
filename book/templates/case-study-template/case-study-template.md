@@ -56,7 +56,7 @@
 
 > Use this section to expatiate on the importance of the key concept in your case, explaining _how_ and _why_ it helped (or did not help).
 
-> To drive home your point, you may also levarage images, external resources, code blocks, or other items you deem fit.
+> To drive home your point, you may also leverage images, external resources, code blocks, or other items you deem fit.
 > Remember to refer to the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) for relevant recommendations as you write.
 
 > **NOTE**: If your case study relied on several concepts expressed in the Guide, be sure to explain each one in its own section
@@ -82,7 +82,7 @@
 
 > To help with writing this section, we have curated some questions to get you thinking.
 > You can find the questions in the [reflection-questions.md](./reflection-questions.md) file.
-> Please note that these questions are not exhaustive or definititve. 
+> Please note that these questions are not exhaustive or definitive.
 > You are encouraged to improve on them in a pull request.
 
 > End your case study by highlighting the aspect of this case that you are the most proud of, and why.
