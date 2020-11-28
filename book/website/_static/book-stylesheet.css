@@ -1,0 +1,51 @@
+/*--------------------------------------------------------------------*\ 
+
+This file contains the CSS that handles styling across the entire book.
+Use the classes defined here to control the look of HTML elements in your contribution.
+
+If you add new styles, remember explain what it does as shown below. 
+
+Index
+  - Styling for Table of Contents
+  - Styling for Embedded Videos
+
+\*--------------------------------------------------------------------*/ 
+
+/*--------------------------------------------------------------------*\ 
+Styling for Table of Contents 
+
+- Ensures that menu items in the table of contents are big enough for readers
+
+\*--------------------------------------------------------------------*/ 
+
+#site-navigation li > a {
+  font-size: 1.1em;
+}
+
+/*--------------------------------------------------------------------*\
+
+Styling for Embedded Videos (iframes) 
+
+- Ensures that videos can resize to suit the screen the book is read from.
+
+\*--------------------------------------------------------------------*/ 
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 35px;
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  display:block;
+}
+
+
