@@ -317,8 +317,10 @@
       file: community-handbook/style/style-crossref
     - title: Using Figures
       file: community-handbook/style/style-figures
-    - title: Glossary, Special Blocks and More Styling  
-      file: community-handbook/style/style-more-styling
+    - title: Glossary and Special Content Blocks 
+      file: community-handbook/style/style-special-content
+    - title: Custom Styling
+      file: community-handbook/style/style-custom-styling
   - title: Maintaining Consistency
     file: community-handbook/consistency
     sections:
