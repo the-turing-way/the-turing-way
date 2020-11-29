@@ -3,7 +3,7 @@
 ## Who reviews?
 
 Within small-scale projects where the developers all typically already know each other,
-typical practice is for the coder to tag someone in the group as the reviewer.
+common practice is for the coder to tag someone in the group as the reviewer.
 When you are tagged as a reviewer, first check if you have enough knowledge about
 the new changes in the code to do a good job in a reasonable amount of time.
 
@@ -15,7 +15,7 @@ Typically, code reviews can only be performed by an authorised subset of contrib
 
 For projects where multiple rounds of review on similar material are likely and long development cycles are anticipated, a degree of strategic thinking on who completes reviews is sensible.
 A single reviewer is likely to be able to make comments on code they have reviewed before much more efficiently.
-However, letting reviewer-coder pairs like this ossify is generally a bad idea, as it can lead to the same kinds of groupthink that the review process is designed to avoid in the first place.
+However, letting reviewer-coder pairs like this persist is generally a bad idea, as it can lead to the same kinds of groupthink that the review process is designed to avoid in the first place.
 
 ## Be nice!
 

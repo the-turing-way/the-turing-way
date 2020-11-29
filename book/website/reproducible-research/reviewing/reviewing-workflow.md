@@ -20,7 +20,7 @@ Other coding environments like [BitBucket](https://bitbucket.org/) or [GitLab](h
 
 ## Prepare The Code
 
-Before requesting a review, make sure you've met all the obvious quality benchmarks for the project you are contributing to. This means making sure you have check the review list (see {ref}`checklist for the coder<rr-checklist-for-code-review>`).
+Before requesting a review, make sure you've met all the obvious quality benchmarks for the project you are contributing to. This means making sure you have checked the review list (see {ref}`checklist for the coder<rr-checklist-for-code-review>`).
 
 A reviewer should check these things (see {ref}`checklist for the coder<rr-checklist-for-code-review>`), but defects on these fronts should be by occasional oversight, rather than systematic.
 
@@ -40,7 +40,7 @@ This interaction should allow consensus to be reached on every comment.
 
 Once the review is complete, you can discuss any comments necessary. Then you make the changes, and record the changes made against appropriate comments. Also, you check that the reviewer knows you believe you have fully addressed the review.
 
-Once you believe changes are complete, the reviewer check that they do indeed address all of the initial comments. As needed, the reviewer engages constructively with you if they disagree on certain points in order to come to a consensus. In most cases, the reviewer has a final say if a consensus cannot be found.
+Once you believe changes are complete, the reviewer checks that they do indeed address all of the initial comments. As needed, the reviewer engages constructively with you if they disagree on certain points in order to come to a consensus. In most cases, the reviewer has a final say if a consensus cannot be found.
 
 Once post-review changes have been made to the code, make final updates the comments as needed to complete a history of what has been done and the reasoning behind it.
 

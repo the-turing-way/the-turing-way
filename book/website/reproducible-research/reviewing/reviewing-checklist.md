@@ -14,15 +14,15 @@ In all cases, the goal is to use your programming experience to figure out how t
 
 - Does the new code meets the required standards of the project?
   The standards are typically written under `contributing guidelines` by the project you are contributing to.
-- Is there [documentation](#documentation) to the required standards of the project?
+- Is there [documentation](#documentation) that meets the required standards of the project?
 - Are you following any declared {ref}`style guide<rr-code-quality>` for the project?
 - Are there new [tests](#tests) for the new material, based on the required standards of the project?
   - Do these tests pass locally?
   - Are the tests in the rest of the code base still passing locally?
 - Create the pull request.
-- Many {ref}`continuous integration (CI)<rr-ci>` systems will check if the tests in the main project pass automatically
-once you create a pull request. If the repository is using a CI, make sure all builds and tests complete.
-Consult the CI reports to see if your code is causing the tests in the main project to fail.
+- Many {ref}`continuous integration (CI)<rr-ci>` systems will check if the tests in the main project pass automatically once you create a pull request.
+  If the repository is using a CI, make sure all builds and tests complete.
+  Consult the CI reports to see if your code is causing the tests in the main project to fail.
 - If necessary, now formally request a review.
 
 ## For the reviewer
@@ -30,7 +30,7 @@ Consult the CI reports to see if your code is causing the tests in the main proj
 - Check the required standards of the project. The standards are typically written under
 `contributing guidelines` by the project you are contributing to.
 - Check the code meets basic project {ref}`style guide<rr-code-quality>`, if this is not automatically checked by {ref}`continuous integration (CI)<rr-ci>`.
-- Are the [tests](#tests) and [documentation](#documentation) conform to the standards.
+- Do the [tests](#tests) and [documentation](#documentation) conform to the standards?
 - Is all the code easily understood? Depending on the language, files may contain interfaces, classes or other type definitions, and functions (see [Architecture](#architecture)).
     The essential architectural concepts can be reviewed as follows:
   - Check the [interfaces](#interfaces) lists.
@@ -41,7 +41,7 @@ Consult the CI reports to see if your code is causing the tests in the main proj
   - Are there any bugs or other defects?
 - Are [security](#security) issues handled correctly?
   - Check the [security of new codes](#security-of-new-codes).
-- Does the new code meets the [legal requirements](#legal)?
+- Does the new code meet the [legal requirements](#legal)?
 
 ## Program level checklist
 
@@ -100,7 +100,7 @@ mitigate the security impact of defects.
 
 As a developer, you should pay attention to the legal rights of the
 creators of the code you're using. Here are some things to check. When in
-doubt, ask your licensing person for advice.
+doubt, ask someone experienced in licensing for advice.
 
 - Are the licenses of all modules/libraries that are used documented?
 - Are the requirements set by those licenses fulfilled?
