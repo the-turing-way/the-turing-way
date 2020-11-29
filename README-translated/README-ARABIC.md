@@ -1,31 +1,18 @@
-# طريقة تورنج
 [![قراءة الكتاب](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com)
 [![أنضم إلى قائمتنا البريدية](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
 [![دردشة وشات على الرابط https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
 [![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)
 
-(The Turing Way)
-طريقة تورنج
+# <div dir="rtl">طريقة تورنج</div>
 
-هي دليل منهجي لعلوم البيانات القابلة لإعادة الإنتاج، يمكنك قراءته والإطلاع عليه
-[هنا](
-https://the-turing-way.netlify.com)
+#### <div dir="rtl">هي دليل منهجي لعلوم البيانات القابلة لإعادة الإنتاج، يمكنك قراءته والإطلاع عليه <a href="https://the-turing-way.netlify.com">هنا.</a></div>
+#### <div dir="rtl">  أنت حاليا تستعرض بوابة جيت هب (GitHub)، و هنا تكمن جميع الوحدات التي يتكون منها الدليل، وحيث تتم عملية كتابة و إنشاءالكتاب هدفنا هو توفير جميع المعلومات التي يحتاجها الباحثون في بداية مشاريعهم لضمان سهولة إعادة إنتاجها في النهاية، ويعني هذا أيضًا التأكد من أن طلاب الدكتوراة، وباحثين ما بعد الدكتوراة، والباحثين الرئيسيين، وفِرق التمويل يعرفون ويدركون جيدا أي جزء من أجزاء  "مسؤولية إعادة الإنتاج" يمكنهم التأثير عليها، وما يجب عليهم فعله للقفز بعلم البيانات إلى أن يكون أكثر كفاءة وفعالية ومفهومًا.
+</div>
 
-أنت حاليا تستعرض بوابة جيت هب، و 
-هنا تكمن
-جميع الوحدات التي يتكون منها الدليل، وحيث تتم عملية كتابة و إنشاء الكتاب
-هدفنا هو توفير جميع المعلومات التي يحتاجها الباحثون في بداية مشاريعهم لضمان سهولة إعادة إنتاجها في النهاية،
-ويعني هذا أيضًا التأكد من أن طلاب الدكتوراة، وباحثين ما بعد الدكتوراة، والباحثين الرئيسيين، وفِرق التمويل يعرفون ويدركون جيدا أي أجزاء من "مسؤولية إعادة الإنتاج" يمكنهم التأثير عليها، وما يجب عليهم فعله للقفز بعلم البيانات إلى أن يكون أكثر كفاءة وفعالية ومفهومًا.
+## <div dir="rtl"> المحتويات:</div>
+#### <div dir="rtl"><ul><li>حول المشروع</li><li>الفريق</li><li>المساهمة</li><li>النقل والأستشهاد بالكتاب</li><li>كيفية التواصل </li><li>المساهمون</li></ul></div>
 
-: المحتويات
-
-- حول المشروع
-- الفريق
-- المساهمة
-- النقل والأستشهاد بالكتاب
-- كيفية التواصل
-- المساهمون
 
 🎧 إذا كنت تفضل مقدمة صوتية للمشروع ،
  فقد قدمت عضوة فريقنا راشيل في معرض
