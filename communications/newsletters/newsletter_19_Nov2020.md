@@ -2,9 +2,9 @@
 
 Hello Turing Way friends!
 
-This month we hosted our fourth Book Dash, worked on the accessibility aspects of our book and prepare to celebrate your engagements with the project in the year 2020.
+This month we hosted our fourth Book Dash event, worked on the accessibility aspects of our book and prepare to celebrate your engagements with the project in the year 2020.
 Here is what we have for you in this newsletter:
-* We highlight the [20 contributors](https://github.com/alan-turing-institute/the-turing-way/issues/1584) who participated in our fourth Book Dash from 9-13 November 2020 and collaborated to work on different aspects of the project. 💐
+* We highlight the [20 contributors](https://github.com/alan-turing-institute/the-turing-way/issues/1584) who participated in the virtual Book Dash event from 9-13 November 2020 and collaborated to work on different aspects of the project. 💐
 * Join the next Collaboration Cafés on 2 December 2020 ([see our community calendar](https://arewemeetingyet.com/London/2020-12-02/15:00)). The last one of this year will take place on 16 December 2020, which will be holiday-themed! 🎄🎁
 * We are completing two years of _The Turing Way_ and invite you to share how this project and community has impacted your work (see [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659)). 📢
 * As we prepare to conclude the year, we invite you to explore our newly developed resources and help tidy-up our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/issues) by reviewing open issues and Pull Requests. 🔍
@@ -67,8 +67,8 @@ We also have [Good first issues for new contributors](https://github.com/alan-tu
 ## Contributors in focus: Book Dash November 2020 Attendees
 
 From 9 to 13 November 2020, we hosted the fourth Book Dash event of _The Turing Way_, which took place entirely online across multiple time zones.
-From a pool of excellent applicants, 20 participants were selected who joined multiple development sessions (2.5 hours each) throughout the week to collaborate with others and work on various aspects of the project.
-We were delighted to get to know them through informal sessions and see their contributions in the different aspects of _The Turing Way_ through development sessions.
+From a pool of excellent applicants, 20 participants were selected to join multiple development sessions (2.5 hours each) throughout the week to collaborate with others and work on various aspects of the project.
+We were delighted to get to know them through informal sessions and facilitate their contributions to diverse aspects of _The Turing Way_ through development sessions.
 
 ![Book Dash attendees and community member joined the Zoom call on 13 November 2020](./images/2020-11-bookdash-3.png)
 
