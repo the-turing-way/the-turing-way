@@ -96,7 +96,7 @@ Note that a space after the colon is mandatory.
 <a name="YAML_gotchas"></a>
 ### YAML gotchas
 
-Due to the format aiming to be easy to write and read, there're some ambiguities in YAML.
+Due to the format aiming to be easy to write and read, there are some ambiguities in YAML.
 
 - **Special characters in unquoted strings:** YAML has a number of special characters you cannot use in unquoted strings.
 For example, parsing the following sample will fail:

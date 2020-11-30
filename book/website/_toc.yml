@@ -28,7 +28,7 @@
     sections:
     - title: Open Data
       file: reproducible-research/open/open-data
-    - title: Open Source
+    - title: Open Source Software
       file: reproducible-research/open/open-source
     - title: Open Hardware
       file: reproducible-research/open/open-hardware
@@ -38,7 +38,9 @@
       file: reproducible-research/open/open-notebooks
     - title: Open Scholarship
       file: reproducible-research/open/open-scholarship
-    - title: Resources of Open Research
+    - title: Checklist
+      file: reproducible-research/open/open-checklist
+    - title: Resources
       file: reproducible-research/open/open-resources
   - title: Version Control
     file: reproducible-research/vcs
@@ -243,7 +245,7 @@
       file: collaboration/github/github-roadmapping
     - title: Getting Contributors
       file: collaboration/github/github-contributors
-    - title:  Reviweing GitHub Contributions
+    - title:  Reviewing GitHub Contributions
       file: collaboration/github/github-maintainers.md
     - title: Checklist and resources
       file: collaboration/github/github-resources
@@ -284,7 +286,7 @@
       file: collaboration/remote-collab/remote-collab-informal.md
     - title: Perceived Pros and Cons
       file: collaboration/remote-collab/remote-collab-prosandcons.md
-      
+
 # ===== Ethical Research Guide ========================================
 - file: ethical-research/ethical-research
   sections:
@@ -315,7 +317,7 @@
       file: community-handbook/style/style-crossref
     - title: Using Figures
       file: community-handbook/style/style-figures
-    - title: Glossary, Special Blocks and More Styling  
+    - title: Glossary, Special Blocks and More Styling
       file: community-handbook/style/style-more-styling
   - title: Maintaining Consistency
     file: community-handbook/consistency
