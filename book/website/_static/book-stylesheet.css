@@ -59,7 +59,7 @@ iframe {
 Styling for Tables
 
 - Improves styling of tables over the default Markdown standard
-- 
+- Adds borders to tables, and allows a rows to be highlighted when hovered
 
 \*--------------------------------------------------------------------*/ 
 
@@ -71,7 +71,8 @@ th, td {
 
 th {
   font-weight: bold; 
-  background-color: #EEEEEE
+  background-color: #EEEEEE;
+  border: 1px solid #999999;
 }
 
 table caption {
@@ -83,4 +84,8 @@ table caption .footnote {
   color: #666666; 
   text-align: left; 
   font-size: smaller;
+}
+
+tr:hover {
+  background-color: #f7f7f7;
 }
