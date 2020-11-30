@@ -1,26 +1,26 @@
-(sectioninitials-filename)=
-# Benefits and Challenges
+(er-benefits-challenges-landing)=
+# Benefits and Challenges of Ethical Research
 
-> Labels (above headers) should follow the cross-referencing conventions described in the [Style Guide](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html).
-> Modify them based on the Guide your chapter belongs to and the name you give file
+<!--- > Labels (above headers) should follow the cross-referencing conventions described in the [Style Guide](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html).
+> Modify them based on the Guide your chapter belongs to and the name you give file -->
 
-(sectioninitials-filename-prerequisites)=
+(er-benefits-challenges-landing-prerequisites)=
 ## Prerequisites
 
 >**Itemise other chapters in _The Turing Way_ or topics that readers should be familiar with to understand your chapter better.**
-> Ensure that you link to those chapters using the [Style Guide's](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) cross referencing recommendations.
+<!--- > Ensure that you link to those chapters using the [Style Guide's](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) cross referencing recommendations.
 > If the topics are only available on the web, appropriately link to them too.
 > Importance should either be `Helpful` or `Necessary`
 
 > For each prerequisite, you should also provide an indication of the skill level readers should have to understand your chapter better
-> Skill level can either be _beginner_, _intermediate_, or _advanced_.
+> Skill level can either be _beginner_, _intermediate_, or _advanced_. -->
 
 | Prerequisite | Importance | Skill Level | Notes |
 | -------------|----------|------|----|
 | {ref}`Chapter <chapter-label>` | Helpful/Necessary | Beginner/Intermediate/Advanced | Any useful notes the reader should know |
 
 
-(sectioninitials-filename-summary)=
+(er-benefits-challenges-landing-summary)=
 ## Summary
 
 <!-- 
@@ -44,6 +44,7 @@ Current draft outline:
 > For reference, you may reuse our images hosted on Zenodo [here](https://zenodo.org/record/3332808) and [here](https://zenodo.org/record/3695300).
 > You may also use this collection of [royalty free images](https://www.manypixels.co/gallery/) hosted on ManyPixels.
 > Recommendations for using figures in _The Turing Way_ can be found in the [Style Guide](https://the-turing-way.netlify.app/community-handbook/style/style-figures.html).
+
 
 (sectioninitials-filename-motivation)=
 ## Motivation and Background
