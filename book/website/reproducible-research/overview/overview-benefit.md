@@ -21,7 +21,7 @@ Reproducible workflows facilitate the peer review process tremendously by allowi
 **3. Publish validated research and avoid misinformation**
 
 Lack of reproducibility is one of the major factors that lead to paper retractions (source [Retraction Watch](https://retractionwatch.com/)).
-The best-known analyses of scientific literatures in psychology {cite}`Begley2012` and cancer biology {cite}`OpenScienceCollaboration2015Reproducibility` found the reproducibility rates of their research output of around 40% and 10%, respectively.
+The best-known analyses of scientific literature in psychology {cite}`Begley2012` and cancer biology {cite}`OpenScienceCollaboration2015Reproducibility` found the reproducibility rates of their research output of around 40% and 10%, respectively.
 By working reproducibly, we can develop validated research work, avoid misinformation that can limit replicability of our work and publish accurate research outputs.
 This aspect does not only support the validity of the current work, but any future studies that are based on reproducible research {cite}`MozillaScienceLab`.
 
