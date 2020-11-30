@@ -56,7 +56,7 @@ The following drafts for the new chapters invite reviews from anyone who may fin
 Based on this [checklist for  maintaining consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html#consistency-checklist), Paul Owoicho has opened a few PR’s fixing consistency issues in existing chapters.
 Help us test this consistency checklist by reviewing [these PRs](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aopen+label%3A%22good+first+PR+review%22).
 
-![Illustration stating “Bugs are features” and “Errors can provide valuable opportunities to learn”](./images/2012-11-scrib-bug-2.png)
+![Illustration stating “Bugs are features” and “Errors can provide valuable opportunities to learn”](./images/2020-11-scrib-bug-2.png)
 
 *In _The Turing Way_, we promote good ideas over perfection and consider small errors an opportunity for new contributors to participate in the project.*
 
