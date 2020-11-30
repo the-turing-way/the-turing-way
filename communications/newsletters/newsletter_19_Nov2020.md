@@ -1,15 +1,17 @@
-# Learn about our Book Dash participants, share your impact stories and join the annual repository tidy-up!
+# Meet our Book Dash attendees, read new chapters, share your impact stories and join the holiday-themed Collaboration Café!
 
 Hello Turing Way friends!
 
 This month we hosted our fourth Book Dash, worked on the accessibility aspects of our book and prepare to celebrate your engagements with the project in the year 2020.
 Here is what we have for you in this newsletter:
-* We highlight our [Book Dash attendees](https://github.com/alan-turing-institute/the-turing-way/issues/1584) and share how you can collaborate with them in their ongoing work.
-* The final two Collaboration Cafés of this year will take place on 2 and 16 December 2020 ([see our community calendar](https://arewemeetingyet.com/London/2020-12-02/15:00)).
-* We are completing two years of _The Turing Way_ and invite you to share how this project and community has impacted your work, see [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659).
-* As we prepare to conclude the year, we invite you to explore our newly developed resources and join the annual [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/issues) tidy-up by reviewing open issues and Pull Requests.
+* We highlight the [20 contributors](https://github.com/alan-turing-institute/the-turing-way/issues/1584) who participated in our fourth Book Dash from 9-13 November 2020 and collaborated to work on different aspects of the project. 💐
+* Join the next Collaboration Cafés on 2 December 2020 ([see our community calendar](https://arewemeetingyet.com/London/2020-12-02/15:00)). The last one of this year will take place on 16 December 2020, which will be holiday-themed! 🎄🎁
+* We are completing two years of _The Turing Way_ and invite you to share how this project and community has impacted your work (see [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659)). 📢
+* As we prepare to conclude the year, we invite you to explore our newly developed resources and help tidy-up our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/issues) by reviewing open issues and Pull Requests. 🔍
 
 Find more details on these topics below!👇
+
+*Thank you Paul Owoicho for reviewing this month's newsletter.*
 
 ## Community meetings
 
