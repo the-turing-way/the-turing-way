@@ -1,4 +1,6 @@
-# Meet our Book Dash attendees, read new chapters, share your impact stories and join the holiday-themed Collaboration Café!
+The Turing Way Newsletter: 30 November 2020
+
+# Meet our Book Dash attendees, read new chapters and join the holiday-themed Collaboration Café!
 
 Hello Turing Way friends!
 
@@ -20,7 +22,7 @@ Find more details on these topics below!👇
 The last two Collaboration Cafés will take place in the first and third week of December 2020. 
 Please save the date and sign up on this shared HackMD to indicate your participation: [https://hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
 * 02 December 2020, 15:00 - 17:00 2020 ([see in your local time](https://arewemeetingyet.com/London/2020-12-02/15:00))
-* 16 December 2020, 15:00 - 17:00 2020 ([see in your local time](https://arewemeetingyet.com/London/2020-12-16/17:00))
+* 16 December 2020, 15:00 - 17:00 2020 ([see in your local time](https://arewemeetingyet.com/London/2020-12-16/17:00)) - this will be **holiday-themed**!
 
 ### Weekly Coworking calls
 
@@ -32,8 +34,8 @@ If this time does not fit your schedule, please ping us on [Slack in the #commun
 ### What impact _The Turing Way_ had on your work?
 
 _The Turing Way_ project is finishing its second year.
-As a community-driven project, often we are not aware who our users are, who is benefitting from the project and what impact we have had in the community practices so far.
-To capture these, we invite your response to this issue: [#1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659).
+As a community-driven project, we are not always aware who our users are (if not already engaged in the community), who benefits from the project and what impact we have had in data science and research culture so far.
+To capture these, we invite you to comment under issue [#1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659).
 You can also directly reply to [Kirstie’s tweet](https://twitter.com/kirstie_j/status/1326126705270984710?s=20).
 
 ![Tweet by Kirstie Whitaker inviting comments from people who have used and benefited from _The Turing Way_ project](images/2020-11-kw-tweet-1.png)
@@ -66,28 +68,25 @@ We also have [Good first issues for new contributors](https://github.com/alan-tu
 
 ## Contributors in focus: Book Dash November 2020 Attendees
 
-From 9 to 13 November 2020, we hosted the fourth Book Dash event of _The Turing Way_, which took place entirely online across multiple time zones.
-From a pool of excellent applicants, 20 participants were selected to join multiple development sessions (2.5 hours each) throughout the week to collaborate with others and work on various aspects of the project.
-We were delighted to get to know them through informal sessions and facilitate their contributions to diverse aspects of _The Turing Way_ through development sessions.
+From 9 to 13 November 2020, we hosted the fourth Book Dash event of The Turing Way, which took place entirely online across multiple time zones. From a pool of excellent applicants, 20 participants were selected to join us during development and social sessions throughout the week. We were delighted to get to know them, as they collaborated with each other to contribute to diverse aspects of The Turing Way.
 
 ![Book Dash attendees and community member joined the Zoom call on 13 November 2020](./images/2020-11-bookdash-3.png)
-
 *Zoom screenshot of our community share-out event on 13 November 2020 at the Book Dash.*
 
 Here are some highlights from the event:
-* The ethics team members, Ismael Kherroubi Garcia, Laura Carter and Sophia Batchelor, were joined by Irene Komal P. (India) and Asha Susan Titus (UK) who managed to work on multiple chapters that will be hosted in the Guide for Ethical Research.
-* Laura Ación (Argentina) and Lupe Canaviri Maydana (Bolivia) mainly worked on the chapter on Leadership in data science.
-* Batool Almarzouq (Saudi Arabia) and Brigitta Sipőcz (USA) together designed a chapter of GitHub actions. Batool also managed to translate the README file in Arabic.
-* Samuel Guay (Canada) started to work on different aspects of French translation and Marilina Santero (Spain) translated our promotional materials in Spanish.
-* Veronika Cheplygina (The Netherlands) started a chapter on project workflow that will be hosted in the Guide for Project Design.
-* Carlos Martinez-Ortiz (The Netherlands) managed community contributions from his team members from Netherlands eScience Centre.
-* Paul Owoicho, Neha Moopen, Emma Karoune (UK) worked on book’s accessibility aspects such as a chapter on maintaining consistency, a chapter on GitHub for beginners, creating glossary and template to facilitate future contributions. 
-* Marta Mangiarulo (UK) worked on a chapter on data visualisation and pre-registration.
+* The ethics team members, **Ismael Kherroubi Garcia, Laura Carter and Sophia Batchelor (UK)** were joined by **Irene Komal P. (India) and Asha Susan Titus (UK)** who managed to work on multiple chapters that will be hosted in the Guide for Ethical Research.
+* **Laura Ación (Argentina) and Lupe Canaviri Maydana (Bolivia)** mainly worked on the chapter on Leadership in data science.
+* **Batool Almarzouq (Saudi Arabia) and Brigitta Sipőcz (USA)** together designed a chapter of GitHub actions. Batool also managed to translate the README file in Arabic.
+* **Samuel Guay (Canada)** started to work on different aspects of French translation and **Marilina Santero (Spain)** translated our promotional materials in Spanish.
+* **Veronika Cheplygina (The Netherlands)** started a chapter on project workflow that will be hosted in the Guide for Project Design.
+* **Carlos Martinez-Ortiz (The Netherlands)** managed community contributions from his team members from Netherlands eScience Centre.
+* **Paul Owoicho, Neha Moopen, Emma Karoune (UK)** worked on book’s accessibility aspects such as a chapter on maintaining consistency, a chapter on GitHub for beginners, creating glossary and template to facilitate future contributions. 
+* **Marta Mangiarulo (UK))) worked on a chapter on data visualisation and pre-registration.
 Sangram Keshari Sahu worked on creating a case study for reproducibility in bioinformatics.
 
-Two core contributors Martina G. Vilas and Sarah Gibson also participated in the Book Dash to facilitate mentored contributions, especially by supporting participants who were new to the projects.
+Two core contributors **Martina G. Vilas and Sarah Gibson** also participated in the Book Dash to facilitate mentored contributions, especially by supporting participants who were new to the projects.
 Additionally, several participants from Biohackathon-EU 2020, which was running in parallel to the Book Dash, also joined us in multiple development and informal sessions.
-Special thanks to Kim De Ruyck, Albert Hornos, Jose Maria Fernandez, Philippe Rocca-Serra, Wolmar Nyberg Åkerström.
+Special thanks to **Kim De Ruyck, Albert Hornos, Jose Maria Fernandez, Philippe Rocca-Serra and Wolmar Nyberg Åkerström**.
 Read more about them in [issue #1584](https://github.com/alan-turing-institute/the-turing-way/issues/1584).
 The full report will be shared in the next newsletter.
 
@@ -158,6 +157,7 @@ She also talked about her participation in _The Turing Way_ and Open Life Scienc
 **3** [Paul Quote Tweeting](https://twitter.com/ogbonokopaul/status/1327227399608602628?s=20) [Kirstie’s Tweet](https://twitter.com/kirstie_j/status/1327217750037716997?s=20) about the community share-out event where our book dash attendees demonstrated their work.
 **4** [Sophia’s Tweet](https://twitter.com/brainonsilicon/status/1327329625467445251?s=20) inviting contributors interested in Open Science to engage with The Turing Way.
 **5 & 6** Esther’s Tweets [from Data horror Story event](https://twitter.com/PhDToothFAIRy/status/1321427571767205890) and [from Open Access Week event](https://twitter.com/PhDToothFAIRy/status/1320022230919749632?s=20) sharing slides about The Turing Way in the presentation by Veronika Cheplygina and Lizzi Gadd.*
+
 
 ## Connect with us!
 
