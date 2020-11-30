@@ -1,5 +1,5 @@
 /**
- * This file contains the tracking code that allows matomo analytics to work on The Turing Way using Matomo
+ * This file contains the tracking code that allows analytics to work on The Turing Way using Matomo
 */
 
 var _paq = window._paq = window._paq || [];
