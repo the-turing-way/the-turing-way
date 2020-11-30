@@ -1,3 +1,7 @@
+The Turing Way Newsletter: 30 November 2020
+
+# Meet our Book Dash attendees, read new chapters and join the holiday-themed Collaboration Café!
+
 _Hello Turing Way friends!_
 This month we hosted our fourth Book Dash event, worked on the accessibility aspects of our book and we are preparing to celebrate your engagements with the project in the year 2020. 
 Here is what we have for you in this newsletter:
@@ -116,12 +120,15 @@ On 24 November 2020, Emma Karoune presented a talk titled "Open Science Practice
 
 ![Screenshots of 6 tweets that mentioned _The Turing Way_ this month](./images/2020-11-tweet-collage-7.png)
 _1 [Raina Quote Tweeting](https://twitter.com/rcamachotoro/status/1327576424279138305?s=20) [Emma’s Tweet](https://twitter.com/ekaroune/status/1326540656060235780?s=20) that highlights the efforts made by the Book Dash attendees and demonstrates a new illustration that will be published soon. 2 [Marta’s Tweet](https://twitter.com/Marta_Mang/status/1326630793985335296?s=20) from the Book Dash week. 3 [Paul Quote Tweeting](https://twitter.com/ogbonokopaul/status/1327227399608602628?s=20) [Kirstie’s Tweet](https://twitter.com/kirstie_j/status/1327217750037716997?s=20) about the community share-out event where our book dash attendees demonstrated their work. 4 [Sophia’s Tweet](https://twitter.com/brainonsilicon/status/1327329625467445251?s=20) inviting contributors interested in Open Science to engage with The Turing Way. 5 & 6 Esther’s Tweets [from Data horror Story event](https://twitter.com/PhDToothFAIRy/status/1321427571767205890) and [from Open Access Week event](https://twitter.com/PhDToothFAIRy/status/1320022230919749632?s=20) sharing slides about The Turing Way in the presentation by Veronika Cheplygina and Lizzi Gadd._
+
 ## **_Connect with us!_**
+
 *  _[About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)_
 *  _[The Turing Way book](https://the-turing-way.netlify.com/)_
 *  _[GitHub repository](https://github.com/alan-turing-institute/the-turing-way)_
 *  _[Gitter chat room](https://gitter.im/alan-turing-institute/the-turing-way)_
 *  _[YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)_
 *  _[Twitter Channel](https://twitter.com/turingway)_
+
 _You are welcome to contribute content for the next newsletter by emailing Malvika Sharan._
 _Did you miss the last newsletters? Check them out [here](https://tinyletter.com/TuringWay/archive)._
