@@ -34,7 +34,8 @@ As a community-driven project, often we are not aware who our users are, who is 
 To capture these, we invite your response to this issue: [#1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659).
 You can also directly reply to [Kirstie’s tweet](https://twitter.com/kirstie_j/status/1326126705270984710?s=20).
 
-![images/2020-11-kw-tweet-1.png](Tweet by Kirstie Whitaker inviting comments from people who have used and benefited from _The Turing Way_ project)
+![Tweet by Kirstie Whitaker inviting comments from people who have used and benefited from _The Turing Way_ project](images/2020-11-kw-tweet-1.png)
+
 *[Kirstie’s Tweet](https://twitter.com/kirstie_j/status/1326126705270984710?s=20) inviting contribution to the impact report of _The Turing Way_*
 
 ### Review README.md’s translated files
@@ -55,7 +56,8 @@ The following drafts for the new chapters invite reviews from anyone who may fin
 Based on this [checklist for  maintaining consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html#consistency-checklist), Paul Owoicho has opened a few PR’s fixing consistency issues in existing chapters.
 Help us test this consistency checklist by reviewing [these PRs](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aopen+label%3A%22good+first+PR+review%22).
 
-![images/2012-11-scrib-bug-2.png](Illustration stating “Bugs are features” and “Errors can provide valuable opportunities to learn”)
+![Illustration stating “Bugs are features” and “Errors can provide valuable opportunities to learn”](./images/2012-11-scrib-bug-2.png)
+
 *In _The Turing Way_, we promote good ideas over perfection and consider small errors an opportunity for new contributors to participate in the project.*
 
 We also have [Good first issues for new contributors](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) that you can address by opening new PRs.
@@ -66,7 +68,8 @@ From 9 to 13 November 2020, we hosted the fourth Book Dash event of _The Turing 
 From a pool of excellent applicants, 20 participants were selected who joined multiple development sessions (2.5 hours each) throughout the week to collaborate with others and work on various aspects of the project.
 We were delighted to get to know them through informal sessions and see their contributions in the different aspects of _The Turing Way_ through development sessions.
 
-![images/2012-11-bookdash-3.png](Book Dash attendees and community member joined the Zoom call on 13 November 2020)
+![Book Dash attendees and community member joined the Zoom call on 13 November 2020](./images/2020-11-bookdash-3.png)
+
 *Zoom screenshot of our community share-out event on 13 November 2020 at the Book Dash.*
 
 Here are some highlights from the event:
@@ -99,7 +102,9 @@ Check them out in our [GitHub repository](https://github.com/alan-turing-institu
 
 ### Web Annotation by hypothes.is
 
-![images/2020-11-annotate-4.png](Screenshot of our [welcome page](https://the-turing-way.netlify.app/welcome.html) showing an annotation added through hypothes.is)
+![Screenshot of our [welcome page](https://the-turing-way.netlify.app/welcome.html) showing an annotation added through hypothes.is](./images/2020-11-annotate-4.png)
+
+*Screenshot of our [welcome page](https://the-turing-way.netlify.app/welcome.html) showing an annotation added through hypothes.is*
 
 Using [Commenting and annotating](https://jupyterbook.org/interactive/comments.html) feature of the Jupyter Book, Martina G. Vilas and Batool Almarzouq have integrated 
 [web.hypothes.is](https://web.hypothes.is/) in _The Turing Way_ book.
@@ -116,7 +121,8 @@ Read and share these content, and help us enhance them by adding examples from y
 
 ## Relevant resources
 
-![images/2020-11-poster-5.png](Poster illustrating the five guides on reproducibility, project design, collaboration, communication and ethical consideration)
+![Poster illustrating the five guides on reproducibility, project design, collaboration, communication and ethical consideration](./images/2020-11-poster-5.png)
+
 *_The Turing Way_ poster designed by Esther Plomp*
 
 * The Turing Way: Reproducible, inclusive, collaborative data science - Poster (Version 1). Esther Plomp, Malvika Sharan, & Kirstie Whitaker. (2020). Zenodo. http://doi.org/10.5281/zenodo.4263403 
@@ -133,7 +139,8 @@ On 12 November 2020, Martina G. Vilas gave a talk at the Brainhack Donostia 2020
 Under the title “A How-To Guide Based on The Turing Way”, she shared useful tips and tools for computational reproducibility! 
 Her talk is also available on Zenodo: [http://doi.org/10.5281/zenodo.4269795](http://doi.org/10.5281/zenodo.4269795).
 
-![images/2020-11-martina-6.png](Screenshot of Eneko Urunuela’s tweet)
+![Screenshot of Eneko Urunuela’s tweet](./images/2020-11-martina-6.png)
+
 *[Eneko Urunuela’s Tweet](https://twitter.com/eurunuela/status/1326899135354707972?s=20) highlighting Martina’s talk on computational reproducibility based on _The Turing Way_*
 
 On 24 November 2020, Emma Karoune presented a talk titled "Open Science Practices in Phytolith Research and Beyond" at PaleoPERC seminar series.
@@ -141,6 +148,8 @@ She shared her research workflow through which she aims to promote open science 
 She also talked about her participation in _The Turing Way_ and Open Life Science communities.
 
 ### Twitter mentions
+
+![Screenshots of 6 tweets that mentioned _The Turing Way_ this month](./images/2020-11-tweet-collage-7.png)
 
 ***1** [Raina Quote Tweeting](https://twitter.com/rcamachotoro/status/1327576424279138305?s=20) [Emma’s Tweet](https://twitter.com/ekaroune/status/1326540656060235780?s=20) that highlights the efforts made by the Book Dash attendees and demonstrates a new illustration that will be published soon.
 **2** [Marta’s Tweet](https://twitter.com/Marta_Mang/status/1326630793985335296?s=20) from the Book Dash week.
