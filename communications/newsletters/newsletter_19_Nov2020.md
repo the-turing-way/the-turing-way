@@ -3,13 +3,16 @@ The Turing Way Newsletter: 30 November 2020
 # Meet our Book Dash attendees, read new chapters and join the holiday-themed Collaboration Café!
 
 _Hello Turing Way friends!_
-This month we hosted our fourth Book Dash event, worked on the accessibility aspects of our book and we are preparing to celebrate your engagements with the project in the year 2020. 
-Here is what we have for you in this newsletter:
+This month, we hosted our fourth Book Dash event, worked on the accessibility aspects of our book and we're preparing to celebrate your contributions to the project in the year 2020. 
+Here is a sneak-peek of what we have for you in this newsletter:
+
 * 💐 We highlight the [20 contributors](https://github.com/alan-turing-institute/the-turing-way/issues/1584) who participated in the virtual Book Dash event from 9-13 November 2020 and collaborated to work on different aspects of the project. 
 * 🎄 Join the next Collaboration Café on 2 December 2020 ([see our community calendar](https://arewemeetingyet.com/London/2020-12-02/15:00)). The last one of this year will take place on 16 December 2020, which will be holiday-themed - we look forward to seeing you there! 🎁
 * 📢 We are completing two years of The Turing Way and invite you to share how this project and community has impacted your work - share with us via [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659). 
-* 🔍 As we prepare to conclude the year, we invite you to explore our new chapters, reuse community resources and help tidy-up our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/issues) by reviewing open issues and Pull Requests. 
+* 🔍 As we conclude the year, we invite you to explore our new chapters, reuse community resources and help tidy-up our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/issues) by reviewing open issues and Pull Requests. 
+
 Find more details on these topics below!👇
+
 _Thank you Paul Owoicho for reviewing this month's newsletter._
 
 ## Community meetings
@@ -25,7 +28,8 @@ Our coworking calls for the rest of this year will take place on 3, 7, 10, 14, a
 If this time does not fit your schedule, please ping us on [Slack in the #community channel](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) to suggest an extra coworking slot.
 
 ## We invite your review and response
-### What impact The Turing Way had on your work?
+
+### What impact The Turing Way has on your work?
 
 As a community-driven project, we are not always aware of who our users are (if not already engaged in the community), who benefits from the project and what impact we have had in the data science community and research culture so far. 
 To capture these, we invite you to comment under issue [#1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659). You can also directly reply to [Kirstie’s tweet](https://twitter.com/kirstie_j/status/1326126705270984710?s=20).
@@ -34,9 +38,11 @@ To capture these, we invite you to comment under issue [#1659](https://github.co
 _[Kirstie’s Tweet](https://twitter.com/kirstie_j/status/1326126705270984710?s=20) inviting contribution to the impact report of The Turing Way._
 
 ### Review README.md’s translated files
+
 Thanks to the Hacktoberfest contributors, our README.md file has been [translated into several languages](https://github.com/alan-turing-institute/the-turing-way/tree/master/README-translated). We invite reviews on the latest Pull Requests (PR) by members who are proficient in Korean ([PR #1650](https://github.com/alan-turing-institute/the-turing-way/pull/1650)), Arabic ([PR #1586](https://app.tinyletter.com/(https://github.com/alan-turing-institute/the-turing-way/pull/1586)), Polish ([PR #1470](https://github.com/alan-turing-institute/the-turing-way/pull/1470)) or Indonesian ([PR #1354](https://github.com/alan-turing-institute/the-turing-way/pull/1354)). You are also welcome to translate this file into a language that is currently missing, and that can help your community members to learn about The Turing Way._
 
 ### Review PRs on new chapters
+
 The following drafts for the new chapters invite reviews from anyone who may find these topics interesting and would like to help in improving them for our online book:
 *  The easy way to work with Github: [PR #1559](https://github.com/alan-turing-institute/the-turing-way/pull/1559)
 *  Leadership in Data Science: [PR #1553](https://github.com/alan-turing-institute/the-turing-way/pull/1553)
@@ -44,14 +50,16 @@ The following drafts for the new chapters invite reviews from anyone who may fin
 *  BinderHub workshop (training material): [PR #1552](https://github.com/alan-turing-institute/the-turing-way/pull/1552)
 
 ### Review minor updates in the existing chapters
+
 Based on this [checklist for maintaining consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html#consistency-checklist), Paul Owoicho has opened a few PR’s fixing consistency issues in existing chapters. 
 Help us test this consistency checklist by reviewing [these PRs](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aopen+label%3A%22good+first+PR+review%22).
 We also have [Good first issues for new contributors](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) that you can address by opening new PRs.
 
 ![Illustration stating “Bugs are features” and “Errors can provide valuable opportunities to learn”](./images/2020-11-scrib-bug-2.png)
-_In The Turing Way, we promote good ideas over perfection and consider small errors an opportunity for new contributors to participate in the project._
+_In The Turing Way, we promote good ideas over perfection and consider small errors an opportunity for new contributors to participate in the project.  Illustration by Scriberia and The Turing way._
 
 ## Contributors in focus: Book Dash November 2020 Attendees
+
 From 9 to 13 November 2020, we hosted the fourth Book Dash event of The Turing Way, which took place entirely online across multiple time zones. 
 From a pool of excellent applicants, 20 participants were selected to join us during development and social sessions throughout the week. 
 We were delighted to get to know them, as they collaborated with each other to contribute to diverse aspects of The Turing Way.
@@ -76,6 +84,7 @@ Read more about them in [issue #1584](https://github.com/alan-turing-institute/t
 ## News from the community
 
 ### Guides and templates to assist new contributors
+
 Our [GSoD](https://github.com/alan-turing-institute/the-turing-way/issues/1075) intern, Paul Owoicho has been working tirelessly to improve the project’s accessibility for our users and contributors. 
 With the support of his Open Life Science (OLS-2) team member, Neha Moopen, he has published a chapter in our community handbook on [Maintaining Consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html). 
 This chapter is a valuable resource to bring cohesiveness and a standard structure across the entire book through retrospective editing of existing chapters and development of new chapters through future contributions.
@@ -83,6 +92,7 @@ Additionally, he has co-developed a set of templates for writing new chapters, c
 Check them out in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/templates).
 
 ### Web Annotation by hypothes.is
+
 ![Screenshot of our [welcome page](https://the-turing-way.netlify.app/welcome.html) showing an annotation added through hypothes.is](./images/2020-11-annotate-4.png)
 _Screenshot of our [welcome page](https://the-turing-way.netlify.app/welcome.html) showing an annotation added through hypothes.is._
 Using [Commenting and annotating](https://jupyterbook.org/interactive/comments.html) feature of the Jupyter Book, Martina G. Vilas and Batool Almarzouq have integrated [web.hypothes.is](https://web.hypothes.is/) in The Turing Way book. 
@@ -96,6 +106,8 @@ This chapter consists of 10 subchapters, which largely aims to provide an action
 A research data management (RDM) toolkit provides information and advice about the data management activities in the whole data lifecycle. 
 Thanks to Kim De Ruyck and Albert Hornos, we have a new subchapter on [RDM Toolkit](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-toolkits.html). 
 Read and share these resources, and help us enhance them by adding examples from your work.
+
+
 ## Relevant resources
 
 ![Poster illustrating the five guides on reproducibility, project design, collaboration, communication and ethical consideration](./images/2020-11-poster-5.png)
