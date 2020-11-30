@@ -64,7 +64,7 @@ Styling for Tables
 \*--------------------------------------------------------------------*/ 
 
 th, td {
-  border: 1px solid #999999; 
+  border: 1px solid #999999 !important; 
   text-align: center; 
   padding: 10px
 }
@@ -72,7 +72,6 @@ th, td {
 th {
   font-weight: bold; 
   background-color: #EEEEEE;
-  border: 1px solid #999999;
 }
 
 table caption {
