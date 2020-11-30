@@ -52,7 +52,7 @@ You are also welcome to translate this file into a language that is currently mi
 The following drafts for the new chapters invite reviews from anyone who may find these topics interesting and would like to help in improving them for our online book:
 * The easy way to work with Github: [PR #1559](https://github.com/alan-turing-institute/the-turing-way/pull/1559)
 * Leadership in Data Science: [PR #1553](https://github.com/alan-turing-institute/the-turing-way/pull/1553)
-* Introduction to Guide for Ethical Research: [PR #1228](https://github.com/alan-turing-institute/the-turing-way/pull/1228
+* Introduction to Guide for Ethical Research: [PR #1228](https://github.com/alan-turing-institute/the-turing-way/pull/1228)
 * BinderHub workshop (training material): [PR #1552](https://github.com/alan-turing-institute/the-turing-way/pull/1552)
 
 ### Review minor updates in the existing chapters
