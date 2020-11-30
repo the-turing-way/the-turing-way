@@ -1,41 +1,56 @@
-<!-- 
-Identify the major themes/topics that make up your chapter. 
-These will be the subchapters of your chapter.
-Write about each one in a different `chapter-content.md` file.
-Make as many copies of this file as you need for all your subchapters
--->
-
-(sectioninitials-filename)=
+(er-1-ethics-in-mind)=
 # 1. Research with ethics in mind
 
-current summary: 
+This chapter explains why it is important to devote resources to ethical processes.
 
-* Why to devote resources to ethical processes and how to justify it? 
-* Why it is easiest / most important to already design a research project with ethics in mind? 
-* Starting research with ethics in mind already makes project planning and management easier
+This chapter also explains how including these resources in your plans from the start will make planning and managing your project easier. 
 
-
-
-> **Write an introduction for your subchapter here**.
-> Your introduction should briefly introduce the topic of your subchapter and highlight its key ideas.
-> Even though your introduction should be short and focused, you should try to explain why and how the subchapter fits the overall context of the chapter and what the reader should expect to learn from it.
+This is part one of {ref}`er-benefits-challenges-landing`.
+<!--- if I have done the links correctly, when deployed using netlify, this {ref} should link to the landing page for this chapter, per the Style guide https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html -->
 
 <!-- 
+> Your introduction should briefly introduce the topic of your subchapter and highlight its key ideas.
+> Even though your introduction should be short and focused, you should try to explain why and how the subchapter fits the overall context of the chapter and what the reader should expect to learn from it.
 > Each of the key ideas you talk about in the introduction should have a section of its own.
 > When you mention a key idea in your introduction, remember to cross reference it to the section of your subchapter where you explain it further.
 > This will be useful for people who may only want to read specific parts of your content.
-> See the [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) for The Turing Way's recommendations on cross referencing.
+> See the [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) for The Turing Way's recommendations on cross referencing. -->
 
-> In this template, we assume that our subchapter has three key ideas, your subchapter may have more or less than this. 
+(er-1-ethics-in-mind-resources)=
+## Why devote resources to ethical processes? 
 
-> It may be beneficial to run your content through a grammar checker (such as Grammarly) to catch grammatical mistakes.
--->
 
-<!-- 
-In the label, replace `keyidea1` with a word that best describes the section or key idea you want to explain -->
-(sectioninitials-filename-keyidea1)=
-## Key Idea 1
+Data science - like most branches of research - is expensive.
+At the same time, many researchers - whether they are at universities, companies, or other institutions - face challenges in funding their research.
+In challenging funding contexts, there can be a lot of pressure to cut costs.
+This pressure can come externally, from the administrators of budgets, grants, and other forms of funding. 
+It can also come internally: researchers can be worried about being seen to be wasting funds or making poor financial decisions in their work.
 
+When there is pressure to cut costs, researchers may feel pressured to minimise - or drop entirely - anything that is not directly related to their direct measures of success. 
+These could be journal articles, or improved performance of commercial products, for example.
+Anything that takes time away from these outputs can be seen as unnecessary. 
+This might include ethical analysis.
+Researchers under pressure of time and resources might reduce their ethical considerations solely to what is required to pass an institutional ethics board. 
+
+
+
+
+
+
+
+<!--- ideas for paragraphs -->
+* potential for unexpected harm
+
+* loss of unexpected benefits
+
+* lack of training for future researchers
+
+* choosing other work over ethical work is a choice: are you sure that it is the choice that you want to be making?
+
+
+
+
+<!---
 > **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
 > You may break the section down into subsections if you wish, however, remember to add [labels](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) to any additional headers you create to facilitate cross-referencing.
 
@@ -65,26 +80,24 @@ def simple_function():
 ```{note}
 Here is a note!
 ```
+-->
+
+
 
 <!-- 
 In the label, replace `keyidea2` with a word that best describes the section or key idea you want to explain -->
-(sectioninitials-filename-keyidea2)=
-## Key Idea 2
+(er-1-ethics-in-mind-projectmanagement)=
+## Starting research with ethics in mind already makes project planning and management easier
 
 > **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
 > You may break the section down into subsections if you wish.
 > Remember to use the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) and Jupyter Book's [Cheat Sheet](https://jupyterbook.org/reference/cheatsheet.html) to guide your writing.
 > The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
 
-<!-- 
-In the label, replace `keyidea3` with a word that best describes the section or key idea you want to explain -->
-(sectioninitials-filename-keyidea3)=
-## Key Idea 3
+* 'ethical debt' (similar to technical debt).
 
-> **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
-> You may break the section down into subsections if you wish.
-> Remember to use the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) and Jupyter Book's [Cheat Sheet](https://jupyterbook.org/reference/cheatsheet.html) to guide your writing.
-> The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
+* avoiding damage - reputational as well as harm
+
 
 (sectioninitials-filename-summary)=
 ## Summary
