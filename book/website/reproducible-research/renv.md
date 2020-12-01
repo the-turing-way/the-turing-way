@@ -59,17 +59,20 @@ If such issues can impact a simple script like this, imagine how many could appe
 
 Researchers need to understand and capture the computational environments in which they are conducting their work, as it has the potential to impact three parties:
 
-- **The Researcher:**
-  The researcher's working environment evolves as they update software, install new software, and move to different computers.
-  If the project environment is not captured and the researcher needs to return to that project after months or years (as is common in research), they will be unable to do so confidently. 
-  They will have no way of knowing what changes to the environment have occurred and what impact those changes might have on their ability to run the code, and on the results.
+### Researchers
 
-- **Collaborators:**
+  Researchers' working environments evolve as they update software, install new software, and move to different computers.
+  If the project environment is not captured and the researchers need to return to their project after months or years (as is common in research), they will be unable to do so confidently. 
+  They will have no way of knowing what changes to a specific research environment have occurred and what impact those changes might have on their ability to run the code, and on the results.
+
+### Collaborators
+
   Much research is now collaborative, and researching multiple different computational environments opens up a minefield of potential bugs.
   Trying to fix these kinds of issues is often time-consuming and frustrating as researchers have to figure out what the differences between computational environments are, and their effects.
   Worse, some bugs may remain undetected, potentially impacting the results.
 
-- **Science:**
+### Science
+
   Scholarly research has evolved significantly over the past decade, but the same cannot be said for the methods by which research processes are captured and disseminated.
   The primary method for dissemination - the scholarly publication - is largely unchanged since the advent of the scientific journal in the 1660s.
   This is no longer sufficient to verify, reproduce, and extend scientific results.
