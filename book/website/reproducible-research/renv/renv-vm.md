@@ -7,6 +7,7 @@
 Virtual Machines (VMs) essentially package a whole computer as an app that can be run. 
 As an example, the figure below shows a windows laptop (note the windows search button in the lower-left corner) running a virtual ubuntu machine (note the terminal outputting the operating system).
 The machine running the VM is called the `host machine`.
+
 Using software like [VirtualBox](https://www.virtualbox.org/) or [Vagrant](https://www.vagrantup.com/), a user can create and run any number of VMs.
 As you could probably guess, having several VMs running at once can be a drain on memory. 
 So just because you can run several VMs does not mean you should.

@@ -23,7 +23,7 @@ The table below compares features of mailing lists, forums and chats.
 Here are the questions we are asking when thinking about each feature.
 
 - **Media Sharing:** Can media, such as screenshots, be easily shared on this platform?
-- **Archiveable:** Is the history of the conversations easily accessible?
+- **Archivable:** Is the history of the conversations easily accessible?
 - **Persistent:** Do the conversations remain available and accessible on the platform? If not "forever", how long for? If not all conversations, what proportion?
 - **Noisy:** How many notifications will people receive and can they be managed?
 - **Open:** Can anyone join the platform or is there an invitation/approval process?
@@ -38,7 +38,7 @@ Here are the questions we are asking when thinking about each feature.
 | Feature | Mailing Lists | Forums | Chat |
 | :--- | :---: | :---: | :---: |
 | Media sharing | ✅ | ✅ | ✅ (cumbersome) |
-| Archiveable | ✅ | ✅ | |
+| Archivable | ✅ | ✅ | |
 | Persistent | ✅ | ✅ | |
 | Noisy | ✅ | | ✅ |
 | Open | | ✅ | ✅ |

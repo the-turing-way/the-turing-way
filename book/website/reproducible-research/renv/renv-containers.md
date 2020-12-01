@@ -408,7 +408,9 @@ If, when deleting a container, a `-v` is included after `rm` in `sudo docker rm 
 (rr-renv-containers-singularity)=
 ## Singularity
 
+
 > **Prerequisites**: At present, Singularity only runs on Linux systems (for example Ubuntu). If you use, macOS,
+
 > [Singularity Desktop for macOS](https://www.sylabs.io/singularity-desktop-macos/) is in "Alpha Preview" stage.
 
 A significant drawback of using Docker for reproducible research is that it is not intended as a user-space application but as a tool for server administrators. 
@@ -435,7 +437,6 @@ Just as docker images are built using `Dockerfile` files, singularity containers
 The process and syntax are similar to docker files, but there are subtle differences. 
 As a minimal working example, we can build a `lolcow` container based on the official ubuntu docker container image. 
 Put the following in a `lolcow.def` file (based on the [Singularity documentation](https://www.sylabs.io/guides/3.2/user-guide/build_a_container.html)):
-
 ```
 Bootstrap: docker
 From: ubuntu
