@@ -12,7 +12,7 @@ Once you have decided on the type of content you want to contribute to _The Turi
 
 ```{note}
 Please note that we welcome new template contributions. 
-If the chapter or case study templates do not suit your needs, please raise a Pull Request with suggestions for improving them.
+If the chapter or case study templates do not suit your needs, please open a Pull Request with suggestions for improving them.
 If you want to contribute content for which there is no corresponding template, you are also encouraged to create the missing template and add it to the template collection.
 ```
 
@@ -62,7 +62,7 @@ New chapters in the Guide for Reproducible Research should be added like `new-ch
 ## Name files/folders appropriately
 
 Please follow _The Turing Way's_ conventions for naming files.
-With proper file names, other contributors can easily identify the purpose of your files and add to or improve them if necessary. 
+With proper file names, other contributors can easily identify the purpose and location of your files and add to or improve them if necessary. 
 
 (ch-contributing-workflow-guidelines)=
 ## Follow the style and consistency guidelines
