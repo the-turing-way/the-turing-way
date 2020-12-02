@@ -95,7 +95,7 @@ Further paragraphs come after blank lines.
     between, but conventions vary here
 ```
 (rr-vcs-commit-summary)=
-## Summary
+## Git commit: Summary
 
 By committing your changes throughout the development of your project in meaningful units with descriptive and clear commit messages, you can create an easily understandable history.
 This will help you and others to understand the progress of your work. 
