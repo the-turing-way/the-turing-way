@@ -3,7 +3,7 @@
 
 Although content contributed to _The Turing Way_ should be written in {ref}`Markdown <ch-consistency-formatting-hr-markdown>` where possible, sometimes, `HTML` syntax may be necessary to format your contribution the way you desire.
 Already, Jupyter Book converts Markdown syntax to `HTML`, making it possible to have a web version of _The Turing Way_ book.
-As a result, writing your own custom `HTML` may introduce some variation in the way your new contribution looks compared to the rest of the book.
+As a result, writing your own custom `HTML` may introduce some variation in the way your new content appears online compared to the rest of the book.
 
 To minimise this disparity, _The Turing Way_ maintains book-wide [stylesheets](https://github.com/alan-turing-institute/the-turing-way/blob/master/book/website/_static/book-stylesheet.css) that control the look and feel of the book's content.
 When including `HTML` in your contributions, please refer to these stylesheets and add the relevant classes and IDs defined there to your `HTML` elements.
