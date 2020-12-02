@@ -19,7 +19,7 @@ If you want to improve the style of the book, this subchapter also provides a br
 ### Videos
 
 While it is possible to embed images and GIFs in your content using Markdown syntax, it is currently only possible to embed videos with `HTML`.
-Moreso, we do not recommend adding videos directly to _The Turing Way's_ Github repository as video files are usually large and will make the book load much slower, especially for readers with slow internet connections.
+More so, we do not recommend adding videos directly to _The Turing Way's_ Github repository as video files are usually large and will make the book load much slower, especially for readers with slow internet connections.
 
 To add a video to your contribution, first upload it to _The Turing Way's_ Youtube channel, then copy/paste the `HTML` code that is generated when you:
 1. Click on the `Share` option underneath the video,
