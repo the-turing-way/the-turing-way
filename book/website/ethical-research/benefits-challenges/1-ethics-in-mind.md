@@ -19,7 +19,6 @@ This is part one of {ref}`er-benefits-challenges-landing`.
 (er-1-ethics-in-mind-resources)=
 ## Why devote resources to ethical processes? 
 
-
 Data science - like most branches of research - is expensive.
 At the same time, many researchers - whether they are at universities, companies, or other institutions - face challenges in funding their research.
 In challenging funding contexts, there can be a lot of pressure to cut costs.
@@ -32,14 +31,30 @@ Anything that takes time away from these outputs can be seen as unnecessary.
 This might include ethical analysis.
 Researchers under pressure of time and resources might reduce their ethical considerations solely to what is required to pass an institutional ethics board. 
 
-
-
-
-
-
-
 <!--- ideas for paragraphs -->
-* potential for unexpected harm
+One strong reason for making sure that research is ethical is to *prevent harm.*
+To understand who could be harmed by their researchers, researchers need to understand who might be impacted.
+For some research, this is very clear. 
+If you are carrying out medical trials, there is clear guidance for how to work with patients. 
+If you are researching controversial subjects, your university may have guidance in place for managing reputational risk.
+<!--- need an example -->
+
+For other research, however, the impacted populations might be less clear.
+If you are working with data about a group of people, what might happen to them as a result of your work? 
+It can be difficult - and time consuming - to make connections between the data you are working with and its real world applications.
+<!--- need an example -->
+
+<!--- put the 'data is people' illustration here? -->
+
+You should also think about the impact of your research on yourself, your colleagues, collaborators and partners.
+If you are working with dangerous chemicals, your laboratory will have rules in place to prevent researchers being hurt.
+But you should also think about other ways that researchers could be harmed.
+This can include ensuring that everyone who is involved with the research is fairly compensated for their labour: even if they are not located in the same workplace (or country) as you.
+It can include creating a environment in your workplace that is actively supportive of workers: including codes of conduct, effective disciplinary procedures, and union representation.
+
+Lots of ethical guidelines for data science work recognise the need to avoid harm. 
+In a 2019 survey of 84 sets of guidelines, 60 included 'non-maleficence' <!--- link to Jobin article -->
+
 
 * loss of unexpected benefits
 
