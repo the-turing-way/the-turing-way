@@ -146,7 +146,7 @@ Overall, my experience on _The Turing Way_ was exciting and insightful.
 One of the outstanding tasks from the original proposal is implementing an enhanced search functionality for _The Turing Way_ book that makes it easier for readers to find information. 
 I will work on this task as part of my future contributions and possibly contribute it upstream to the Jupyter Book project, if successful.
 
-Although, I primariliy worked on _The Turing Way_, I had the opportunity to interact with and learn from other collaborating projects like Jupyter Book and Open Life Science.
+Although, I primariliy worked on _The Turing Way_, I had the opportunity to interact with and learn from other open source projects like Jupyter Book and Open Life Science.
 In addition to all I learned, I particularly enjoyed being able to collaborate with passionate people from around the world through these projects and their communities. 
 In the near future, I intend to build on the skills I have gained during the GSoD program to start an open-source book that teaches practical Data Science to beginners. 
 I also plan to keep contributing to these projects and provide guidance to contributors new to open source wherever possible. 
