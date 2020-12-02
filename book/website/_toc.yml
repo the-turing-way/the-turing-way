@@ -329,6 +329,8 @@
       file: community-handbook/style/style-figures
     - title: Glossary, Special Blocks and More Styling
       file: community-handbook/style/style-more-styling
+    - title: Custom Styling
+      file: community-handbook/style/style-custom-styling
   - title: Maintaining Consistency
     file: community-handbook/consistency
     sections:
