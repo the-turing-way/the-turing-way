@@ -336,6 +336,13 @@
       file: community-handbook/consistency/consistency-structure
     - title: Language
       file: community-handbook/consistency/consistency-language
+  - title: Contributing and Developing Chapters - Templates and Workflow
+    file: community-handbook/contributing
+    sections:
+    - title: Templates
+      file: community-handbook/contributing/contributing-templates
+    - title: Workflow
+      file: community-handbook/contributing/contributing-workflow
   - title: Acknowledging Contributors
     file: community-handbook/acknowledgement
     sections:
