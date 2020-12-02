@@ -19,8 +19,10 @@
     sections:
     - title: Definitions
       file: reproducible-research/overview/overview-definitions
-    - title: Added advantages
+    - title: Added Advantages
       file: reproducible-research/overview/overview-benefit
+    - title: Checklist
+      file: reproducible-research/overview/overview-checklist
     - title: Resources
       file: reproducible-research/overview/overview-resources
   - title: Open Research
