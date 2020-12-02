@@ -121,6 +121,9 @@ This allowed me to share my experience with new contributors by reviewing and su
 
 *Illustration co-designed with Scriberia artist at The Turing Way Book Dash, CC-BY 4.0 Scriberia and The Turing Way*
 
+
+All PRs and Issues related to my activities on The Turing Way project during the Season of Docs program are tagged with the [`gsod2020` label](https://github.com/alan-turing-institute/the-turing-way/labels/gsod2020).
+
 ## Challenges
 
 My only challenge was that I was unable to build _The Turing Way_ book locally on a Windows computer. 
