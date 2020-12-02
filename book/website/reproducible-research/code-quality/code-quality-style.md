@@ -1,4 +1,4 @@
-# Code style
+# Code Style and Formatting
 
 A coding style is a set of conventions on how to format code.
 For instance, what do you call your variables? Do you use spaces or tabs for indentation? Where do you put comments?
@@ -7,7 +7,7 @@ Code that is easy to read, is easier to understand for yourself as well as poten
 Therefore adhering to a coding style reduces the risk of mistakes and makes it easier to work together on software.
 [Improving software quality, why Coding Style Matters](http://coding.smashingmagazine.com/2012/10/25/why-coding-style-matters/) is a nice article on why coding styles matter and how they increase software quality.
 
-For example, [PEP8](https://www.python.org/dev/peps/pep-0008/) is the most widely used Python coding style and [ECMAScript 6](http://es6-features.org/) aka [ES6](http://es6-features.org/) is the scripting-language specification standardized by Ecma International for programming in Javascript.
+For example, [PEP8](https://www.python.org/dev/peps/pep-0008/) is the most widely used Python coding style and [ECMAScript 6](http://es6-features.org/) aka [ES6](http://es6-features.org/) is the scripting-language specification standardized by ECMA International for programming in Javascript.
 
 For commonly used style guides for various programming languages see the [Language Guides](https://guide.esciencecenter.nl/best_practices/language_guides/languages_overview.html).
 Google also has a style guide for many languages [google style guide page](https://code.google.com/p/google-styleguide/) that are used in open source projects originating out of Google.
@@ -15,7 +15,7 @@ Google also has a style guide for many languages [google style guide page](https
 ## Automatic formatting
 
 Numerous tools exists to automatically format code such that it follows a certain style. Automatic formatting enables higher code quality especially when you are collaborating in a team and other people need to look at the code you've written.
-Many developers and organisations maintain standards of code formatting like **2-space** or **4-space indentation**. Using these is highly recommended since the probablity of finding bugs(if any) increases multifold.
+Many developers and organisations maintain standards of code formatting like **2-space** or **4-space indentation**. Using these is highly recommended since the probability of finding bugs (if any) increases multifold.
 
 [EditorConfig](https://editorconfig.org) is a language independent tool that helps maintain consistent whitespace styles for multiple people working on the same project across various editors.
 Most editors support EditorConfig either natively or through a plugin.
@@ -36,7 +36,7 @@ Note that editors often support using these tools directly from the editing envi
 | CSS        | [CSSTidy](http://csstidy.sourceforge.net/)|
 | HTML       | [Tidy](http://tidy.sourceforge.net/)|
 
-**Quick Tip**: If you use VS Code as your primary text editor, you can enable automatic code formatting right into your browser. Open your preferences page in json mode and add the following line:
+**Quick Tip**: If you use VS Code as your primary text editor, you can enable automatic code formatting right into your browser. Open your preferences page in JSON mode and add the following line:
 
 ```json
 "editor.formatOnSave": true,
