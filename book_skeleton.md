@@ -34,7 +34,7 @@ The aim of this file is iterate/decide on:
 
 ## Ideas from the November Sprint
 
-#### Why do reproducbile research
+#### Why do reproducible research
 - For yourself
 - For everyone else
 
@@ -45,7 +45,7 @@ The aim of this file is iterate/decide on:
 - Branches and Merging
 - Semantic Versioning - Tags and releases (and how that fits in with trad publishing DOIs)
 
-#### Collaborating throught Github
+#### Collaborating through Github
 - Commenting and documenting projects
 - How to write a good README
 - How to write good commit messages
@@ -93,7 +93,7 @@ The aim of this file is iterate/decide on:
 #### Ethics
 - Dealing with Sensitive Data
 - Getting Consent for Data Sharing
-- Ethics Approbal @ the Turing
+- Ethics Approval @ the Turing
 
 #### Scoping a data project
 - What makes a good data science project

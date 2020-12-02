@@ -63,7 +63,7 @@ If you use GitHub, GitLab or similar, consider creating a `CITATION` file in eac
 
 As part of the citation for your software and data it is important to give people a persistent link to it, this will usually be a DOI.
 DOIs (or more formally Digital Object Identifiers) are unique, persistent identifiers which are attached to a digital object such as a journal article, dataset or piece of software.
-Using DOIs makes it much easier for others to cite your data, reduces the risk of linkrot and means you can track how your research is being used and cited.
+Using DOIs makes it much easier for others to cite your data, reduces the risk of link rot and means you can track how your research is being used and cited.
 
 ### Add machine-readable referencing information
 

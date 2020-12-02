@@ -1,5 +1,5 @@
 # License for this book
 
-All content in this book (ie, any files and content in the `content/` folder)
-is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-(CC BY-SA 4.0) license.
+All content in this book (located in the `book/website/` folder)
+is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+For more details please see our [README.md](../../README.md) file.

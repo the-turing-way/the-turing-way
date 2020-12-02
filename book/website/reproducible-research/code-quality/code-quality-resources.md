@@ -8,11 +8,11 @@
 - [ ] Enable auto formatting in your editor by tweaking the preferences/settings.
 - [ ] Type `Ctrl + s` (windows, linux) or `⌘ + s` (mac) to save the work to format the code.
 
-### For static code analyis
+### For static code analysis
 
 - [ ] Build the project to enable `linters` to spot the errors/warnings in the code (if any).
 - [ ] Make relevant changes and repeat the above step.
-- [ ] [Commit and push](./../version_control/vcs-git-commit.md) the changes to remote **Github/Gitlab/Bitbucket** repository to run the pre-deployment tests.
+- [ ] [Commit and push](./../version_control/vcs-git-commit.md) the changes to remote **Github/GitLab/BitBucket** repository to run the pre-deployment tests.
 
 ## Further reading
 
