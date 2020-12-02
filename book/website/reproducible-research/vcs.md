@@ -36,7 +36,7 @@ Later in this chapter, we also discuss version control for data, which is applie
 It is useful to know that data can be volatile and versioning them can improve the reproducibility of your scientific analyses.
 
 (rr-vcs-useful)=
-## Why This is Useful
+## Motivation and Background
 
 Version control helps us understand what changes we made in the past or why we did a specific analysis in the way we did it, even weeks or months later.
 With the help of comments and commit messages, each version can explain what changes it contains compared to the previous versions.
