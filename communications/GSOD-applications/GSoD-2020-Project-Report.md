@@ -49,7 +49,7 @@ The following GitHub pull requests and issues, and online content were developed
 
 **Goal**: *Maintaining consistency of content in The Turing Way in order to make contributions to the project more accessible for new community members.*
 
-For this goal, I worked to create clear pathways for future contributions to The Turing Way.
+For this goal, I worked to create clear pathways for future contributions to _The Turing Way_.
 First, I developed templates to guide authors to structure and design new content such as subchapters, case studies and personal stories or modify existing resources. 
 The new templates will make improving the book more accessible by helping new contributors write interoperable content from the start.
 I also documented the community's contribution workflows and processes by engaging with different community members, and used those insights to create guidelines in a short chapter in the Community Handbook.
@@ -116,13 +116,9 @@ This allowed me to share my experience with new contributors by reviewing and su
     
 ![](https://i.imgur.com/Hq8Ww7m.jpg)
 
-8. During the Book Dash, some of the conversations I had with other contributors helped me understand the need for a PDF version of the entire Turing Way book. This feature is currently not possible with Jupyter Book, so I raised an issue so that Jupyter Book's maintainers could be aware of this.
-    - [PDF issue on the Jupyter Book repository](https://github.com/executablebooks/jupyter-book/issues/1106) 
-
 *Illustration co-designed with Scriberia artist at The Turing Way Book Dash, CC-BY 4.0 Scriberia and The Turing Way*
 
-
-All PRs and Issues related to my activities on The Turing Way project during the Season of Docs program are tagged with the [`gsod2020` label](https://github.com/alan-turing-institute/the-turing-way/labels/gsod2020).
+All PRs and Issues related to my activities on _The Turing Way_ project during the Season of Docs program are tagged with the [`gsod2020` label](https://github.com/alan-turing-institute/the-turing-way/labels/gsod2020).
 
 ## Challenges
 
@@ -130,15 +126,27 @@ My only challenge was that I was unable to build _The Turing Way_ book locally o
 Although this did not negatively affect my outputs, it would have been beneficial for me to examine my work locally before making a PR.
 At the time of this report, there is an [open issue](https://github.com/executablebooks/jupyter-book/issues/906#issuecomment-681041319) on building Jupyter Book projects on Windows computers.
 
+During the Book Dash, some of the conversations I had with other contributors also helped me understand the need for a PDF version of the entire online book. 
+This feature is currently not possible with Jupyter Book, so I raised an issue so that Jupyter Book's maintainers could be aware of this.
+    - [PDF issue on the Jupyter Book repository](https://github.com/executablebooks/jupyter-book/issues/1106) 
+
 ## Personal Experiences and Benefits
 
-Although _The Turing Way_ is my first open source project, I thoroughly enjoyed the experience and learned a lot along the way. Before the GSoD program, I only used Github to 'store' my projects. Now, I am much more proficient at using Github for collaborative endeavours and I am more adept at working with tools such as Markdown, Jupyter Book, and Sphinx. In addition, I gained familiarity with setting up and working with web analytics software.
+Although _The Turing Way_ is my first open source project, I thoroughly enjoyed the experience and learned a lot along the way. Before the GSoD program, I only used Github to 'store' my projects. 
+Now, I am much more proficient at using Github for collaborative endeavours and I am more adept at working with tools such as Markdown, Jupyter Book, and Sphinx. 
+In addition, I gained familiarity with setting up and working with web analytics software.
 
-Asides technical skills, I developed a deep appreciation for what working on an open source project entails. My mentors helped me realise that the value I left behind from the GSoD program was not in the amount of work I did, but how I enabled other contributors to also do the work I was doing. As a result, I learned to contribute as a Technical Writer in a manner that was reproducible, sustainable, accessible, and inclusive.
+Asides technical skills, I developed a deep appreciation for what working on an open source project entails. 
+My mentors helped me realise that the value I left behind from the GSoD program was not in the amount of work I did, but how I enabled other contributors to also do the work I was doing. 
+As a result, I learned to contribute as a Technical Writer in a manner that was reproducible, sustainable, accessible, and inclusive.
 
 ## Conclusions and Future Work
 
-Overall, my experience on The Turing Way was exciting and insightful. In addition to all I learned, I particularly enjoyed being able to collaborate with passionate people from around the world. In the near future, I intend to build on the skills I have gained during the GSoD program to start an open-source book project that teaches practical Data Science to beginners. I also plan to keep contributing to The Turing Way and providing guidance to new contributors where necessary. 
+Overall, my experience on _The Turing Way_ was exciting and insightful. 
+One of the outstanding tasks from the original proposal is implementing an enhanced search functionality for _The Turing Way_ book that makes it easier for readers to find information. 
+I will work on this task as part of my future contributions and possibly contribute it upstream to the Jupyter Book project, if successful.
 
-One of the outstanding tasks from the original proposal is implementing an enhanced search functionality for The Turing Way book that makes it easier for readers to find information. I will work on this task as part of my future contributions and possibly contribute it upstream to the Jupyter Book project, if successful.
-
+Although, I primariliy worked on _The Turing Way_, I had the opportunity to interact with and learn from other collaborating projects like Jupyter Book and Open Life Science.
+In addition to all I learned, I particularly enjoyed being able to collaborate with passionate people from around the world through these projects and their communities. 
+In the near future, I intend to build on the skills I have gained during the GSoD program to start an open-source book that teaches practical Data Science to beginners. 
+I also plan to keep contributing to these projects and provide guidance to contributors new to open source wherever possible. 
