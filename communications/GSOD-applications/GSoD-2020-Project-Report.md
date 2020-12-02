@@ -1,7 +1,6 @@
-# The Turing Way: A How-to Guide to Data Science - GSoD Project Report
+# Embedding accessibility in _The Turing Way_ open source community guidance - GSoD Project Report
 
 **Technical Writer:** Paul Owoicho 
-
 **Github ID:** @paulowoicho
 
 ## Introduction
