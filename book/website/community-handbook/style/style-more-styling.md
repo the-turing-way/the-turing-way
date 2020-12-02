@@ -1,5 +1,5 @@
-(ch-style-special-content)=
-# Glossary and Special Content Blocks
+(ch-style-more-features)=
+# Glossary, Special Blocks and More Styling
 
 Jupyter Book offers more options for styling its chapters and create a more comprehensive book.
 In this subchapter, we have discussed a few more features that we recommend using in _The Turing Way_.
