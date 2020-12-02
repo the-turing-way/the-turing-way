@@ -79,10 +79,10 @@ The manually written table of contents is unnecessary as Jupyter Book auto-gener
 (ch-consistency-structure-hr-citing)=
 ### Ensure external sources are properly cited and referenced
 
-As described in the {ref}`style guide<ch-style-citing>`, _The Turing Way_'s book-wide references are stored in a bibtex file called `references.bib`.
-When writing new content, ensure that information culled from external sources are cited using the bibtex format and added to the `references.bib` file as appropriate.
+As described in the {ref}`style guide<ch-style-citing>`, _The Turing Way_'s book-wide references are stored in a BibTeX file called `references.bib`.
+When writing new content, ensure that information culled from external sources are cited using the BibTeX format and added to the `references.bib` file as appropriate.
 
-The {ref}`style guide<ch-style-citing>` demonstrates how to add a new reference to the centralised bibtex file, and shows how this reference can be included in your writing.
+The {ref}`style guide<ch-style-citing>` demonstrates how to add a new reference to the centralised BibTeX file, and shows how this reference can be included in your writing.
 
 
 (ch-consistency-structure)=

@@ -1,50 +1,47 @@
 (rr-open-resources)=
-# Checklists
+# Resources
 
-## Open data
-
-- [ ] Ensure your data is in a simple, standard format or formats which is machine and human readable.
-- [ ] Check, reformat or create metadata to clearly describe what the data is, how it was collected, and any associated strengths/weaknesses to someone that finds it.
-- [ ] Identify a relevant, easily discoverable repository or repositories to host your data, and upload it there.
-- [ ] Assign your data a persistent identifier such as a DOI.
+(rr-open-resources-checklist)=
+## Checklist
 
 ## Open source software
 
-- [ ] Put your code in a freely accessible repository.
-- [ ] Include a licence granting others the right to use, copy and modify your work. You can use the [software licenses](/open_research/02/softwarelicenses) section to help you pick the most appropriate licence for your project.
-- [ ] Include a readme file containing useful information about a project such as what it is, how to use/install it and how to run any tests.
-- [ ] If you want others to collaborate on the project include contribution guidelines.
+- Put your code in a freely accessible repository.
+- Include a licence granting others the right to use, copy and modify your work. You can use the [software licenses](/open_research/02/softwarelicenses) section to help you pick the most appropriate licence for your project.
+- Include a readme file containing useful information about a project such as what it is, how to use/install it and how to run any tests.
+- If you want others to collaborate on the project include contribution guidelines.
 
 ## Open hardware
 
-- [ ] Use open hardware where practical.
-- [ ] Make detailed documentation and designs for any hardware you develop openly available.
-- [ ] Include a licence granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate licence for your project.
-- [ ] Include a readme file containing useful information about a project (for example, what it is and the materials used).
+- Use open hardware where practical.
+- Make detailed documentation and designs for any hardware you develop openly available.
+- Include a licence granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate licence for your project.
+- Include a readme file containing useful information about a project (for example, what it is and the materials used).
 
 ## Open access
 
-- [ ] Publish your research in an open access journal.
-- [ ] Store a copy and/or preprint of your work in a freely accessible public repository.
+- Publish your research in an open access journal.
+- Store a copy and/or preprint of your work in a freely accessible public repository.
 
 ## Open notebooks
 
-- [ ] Keep notes in an Electronic Lab Notebook.
-- [ ] Make your notebooks publicly accessible online.
+- Keep notes in an Electronic Lab Notebook.
+- Make your notebooks publicly accessible online.
 
-## What to learn next
+(rr-open-resources-learn)=
+## What to Learn Next
 
-If you haven't had a chance already, take a look at the chapter on [version control](/version_control/version_control), particularly the sections on GitHub in the latter half.
-
-## Further reading
+If you have not had a chance already, take a look at the chapter on {ref}`rr-vcs`, particularly the sections on GitHub in the latter half.
 
 [This](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) book on open science has a great deal of interesting information.
-For information specific to open source software [this](https://opensource.guide/) is a good place to look.
+For information specific to open source software, [this](https://opensource.guide/) is a good place to look.
 For more information on DOIs and citing resources look [here](http://www.doi.org/index.html).
-If you want to take a look at an active open source project this textbook *is* one.
-The source can be found on GitHub [here](https://github.com/alan-turing-institute/the-turing-way) and for further details related to this project you can take a look at the project [website](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science).
 
-## References specific for this chapter
+If you want to take a look at an active open source project, this textbook *is* one.
+The source can be found on GitHub [here](https://github.com/alan-turing-institute/the-turing-way), and for further details related to this project, you can take a look at the project [website](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science).
+
+(rr-open-resources-references)=
+## References
 
 - [1.](https://www.fosteropenscience.eu/node/1420) **CC-BY 4.0**
 - [2.](https://open-science-training-handbook.gitbook.io/book/introduction) **CC 1.0**
@@ -76,6 +73,7 @@ The source can be found on GitHub [here](https://github.com/alan-turing-institut
 - [28.](https://libraries.mit.edu/data-management/store/electronic-lab-notebooks/) **CC BY-NC 2.0**
 - [29.](https://www.citizenscience.org/) **(CC BY 4.0)**
 
+(rr-open-resources-footnotes)=
 ## Footnotes
 
 1. References by discipline: Agricultural studies (Kousha and Abdoli, 2010); Physics/astronomy (Gentil-Beccot et al., 2010; Harnad and Brody, 2004; Metcalfe, 2006); Medicine (Sahu et al., 2005; Xu et al., 2011); Computer science (Lawrence, 2001); Sociology/social sciences (Hajjem et al., 2006; Norris et al., 2008; Xu et al., 2011); Psychology (Hajjem et al., 2006); Political science (Hajjem et al., 2006; Antelman, 2004; Atchison and Bull, 2015); Management (Hajjem et al., 2006); Law (Donovan et al., 2015; Hajjem et al., 2006); Economics (Hajjem et al., 2006; McCabe and Snyder, 2015; Norris et al., 2008; Wohlrabe, 2014); Mathematics (Antelman, 2004; Davis and Fromerth, 2007; Norris et al., 2008); Health (Hajjem et al., 2006); Engineering (Antelman, 2004; Koler-Povh et al., 2014); Philosophy (Antelman, 2004); Education (Hajjem et al., 2006; Zawacki-Richter et al., 2010); Business (Hajjem et al., 2006; McCabe and Snyder, 2015); Communication studies (Zhang, 2006); Ecology (McCabe and Snyder, 2014; Norris et al., 2008); Biology (Frandsen, 2009b; Hajjem et al., 2006; McCabe and Snyder, 2014).

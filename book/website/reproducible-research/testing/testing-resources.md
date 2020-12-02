@@ -61,7 +61,7 @@ Try reading the chapter on reproducible computational environments and then the 
 ### Materials used: Regression testing
 
 - [Sound software](http://soundsoftware.ac.uk/unit-testing-why-bother/) **Creative Commons Attribution-NonCommercial 3.0 License**
-- [Software testing fundamentalsL regression testing](http://softwaretestingfundamentals.com/regression-testing/) **Copyleft**
+- [Software testing fundamentals regression testing](http://softwaretestingfundamentals.com/regression-testing/) **Copyleft**
 - [Examples of Regression Testing by Cem Karner](http://www.testingeducation.org/k04/RegressionExamples.htm) **Creative Commons Attribution-ShareAlike License 2.0**
 - [Adopting automated testing](https://github.com/softwaresaved/automated_testing/blob/master/README.md) **Apache License 2.0**
 

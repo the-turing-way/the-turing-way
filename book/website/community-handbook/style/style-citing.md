@@ -57,7 +57,7 @@ Where:
 
 ## Adding a new reference in the text
 
-To include a citation in your content, we follow the recommendation by [JupyterBook](https://jupyterbook.org/content/citations.html) that uses [`sphinxcontrib-bibtex`](https://sphinxcontrib-bibtex.readthedocs.io/en/latest/) extension.
+To include a citation in your content, we follow the recommendation by [Jupyter Book](https://jupyterbook.org/content/citations.html) that uses [`sphinxcontrib-bibtex`](https://sphinxcontrib-bibtex.readthedocs.io/en/latest/) extension.
 
 The key concepts are:
 
