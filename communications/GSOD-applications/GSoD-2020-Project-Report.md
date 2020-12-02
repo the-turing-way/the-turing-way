@@ -1,6 +1,7 @@
 # Embedding accessibility in _The Turing Way_ open source community guidance - GSoD Project Report
 
-**Technical Writer:** Paul Owoicho 
+**Technical Writer:** Paul Owoicho
+
 **Github ID:** @paulowoicho
 
 ## Introduction
