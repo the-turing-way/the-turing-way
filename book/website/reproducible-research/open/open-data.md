@@ -12,7 +12,7 @@ This lack of data sharing is an obstacle to international research (be it academ
 2. The data cannot be reused or incorporated into new work by other researchers if they cannot obtain access to it.
 
 Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs.
-Open data is crucial to meeting these objectives.
+Open data [{term}`def<Open data>`] is crucial to meeting these objectives.
 Open data is freely available on the internet. 
 Any user is permitted to download, copy, analyse, re-process, and re-use it for any other purpose with minimal financial, legal, and technical barriers.
 
@@ -38,7 +38,7 @@ It should be easily discoverable and accessible, and made available without bure
 Choose a location to store the data which will ensure historical copies of datasets are preserved, archived, and kept accessible as long as they retain value.
 Whenever possible, researchers should provide data in its original, unmodified form.
 
-Data should be free of charge, under [an open licence](https://fossbytes.com/open-sources-license-type/), (for example, those developed by Creative Commons) so it can be reused and remixed by other researchers.
+Data should be free of charge, under [an open licence](https://fossbytes.com/open-sources-license-type/) [{term}`def<Open License>`], (for example, those developed by Creative Commons) so it can be reused and remixed by other researchers.
 The data should be available as a whole and at no more than a reasonable reproduction cost.
 That is, no expensive piece of software should be required to read the file as this may obstruct researchers who wish to work with the dataset.
 
@@ -47,13 +47,13 @@ That is, no expensive piece of software should be required to read the file as t
 
 Having data available is of no use if it cannot be understood.
 For example, a table of numbers is useless if there are no headings which describe the contents of the rows and columns.
-Therefore you should ensure that open datasets include consistent core metadata, and that the data is fully described.
+Therefore you should ensure that open datasets include consistent core metadata [{term}`def<Metadata>`], and that the data is fully described.
 This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
 
 (rr-open-data-steps-three)=
 ### Step 3: Make your data easy to use
 
-The data should be made available in a modifiable, machine-readable format so that it can be effectively used and  manipulated.
+The data should be made available in a modifiable, machine-readable [{term}`def<Machine Readable>`] format so that it can be effectively used and  manipulated.
 It is also essential to think about the file formats in which the information is provided. 
 Data should be presented in structured and standardised formats to support interoperability, traceability, and effective reuse. 
 In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people.
