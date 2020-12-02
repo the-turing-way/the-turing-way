@@ -102,3 +102,35 @@ My work has been focused on making the Turing Way accessible to new contributors
 #### Where do you need help from Malvika and Kirstie?
 
 - reviews and feedback
+
+### Date: 2 December 2020
+
+The documentation development phase of the Season of Docs officially ended on the 30th of November.
+
+#### Who did you help this week?
+
+I continued reviewing PRs and help out other contributors. In particular, I am also helping Emma who is working to create a book-wide glossary for the Turing Way
+
+#### Who helped you this week?
+
+- Malvika, Neha, and Kirstie 
+
+#### What did you achieve?
+
+- Prototyped Matomo for web analytics on The Turing Way
+- Created demo videos for the consistency chapter
+- Improved the layout and styling of tables and videos in the book
+- Wrote a few more chapters/subchapters about styling for the turing way, the recommended contribution workflow, and the book's content templates
+
+## Final Words
+
+I immensely enjoyed my time on the Turing Way project. I particularly enjoyed Mavika and Kirstie's mentorship, as well as Neha's helpful feedback on my work. For me, this experience was a unique opportunity to grow skill-wise while getting to collaborate with people from around the world. Even though the GSoD program is officially over, I still intend to stay on as a contributor. In sum, I gained the following from participating in the GSoD program:
+
+1. Increased familiarity with Markdown, Jupyter Book, Sphinx, Git/Github (HTML, CSS for book layout)
+2. Increased familiarity with video capture and editing
+3. Ability to set up web analytics software, increased familiarity with web hosting services
+4. Better understanding of the nuances of working on an open source project - its not about doing *all* the work, but also enabling others to contribute as well
+5. Understanding the importance of putting reproducibility and accessibility first in my work
+6. Ability to help new contributors where possible
+
+To future GSoD participants, I would suggest maximising your time during the exploration phase to know the project and the community better. This will help you understand where your contributions are most useful, and will form the basis for your GSoD proposal. An overview of the work I did can be found [here](../GSoD-2020-Project-Report.md). Future participants can also reach out to me if they want to learn more about my experiences.
