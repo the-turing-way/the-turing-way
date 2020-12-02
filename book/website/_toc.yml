@@ -326,7 +326,7 @@
       file: community-handbook/consistency/consistency-structure
     - title: Language
       file: community-handbook/consistency/consistency-language
-  - title: Contributing - Templates and Workflow
+  - title: Contributing and Developing Chapters - Templates and Workflow
     file: community-handbook/contributing
     sections:
     - title: Templates
