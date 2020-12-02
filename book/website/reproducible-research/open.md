@@ -36,7 +36,7 @@ Open scholarship is a concept that extends open research further. It relates to 
 These elements are also discussed in detail in this chapter.
 
 (rr-open-useful)=
-## Why This is Useful
+## Motivation and Background
 
 There are five main schools of thought motivating open practices to benefit research:
 
