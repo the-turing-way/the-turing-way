@@ -5,6 +5,11 @@ Following this design principle of standard books, we have so far included [glos
 
 The community collaboration and development aspects of the book has been written into the [Community Handbook](../community-handbook/community-handbook) section of this book.
 
-| ![Two folks happily looking in a drawer of documents and looking at different files.](../figures/file-collection.jpg) |
-| ------------------------------------------------------------------------------------ |
-| _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807) |
+```{figure} ../figures/file-collection.jpg
+---
+height: 500px
+name: afterword
+alt: Two folks happily looking in a drawer of documents and looking at different files.
+---
+_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+```
