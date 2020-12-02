@@ -2160,6 +2160,33 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "ml-evs",
+      "name": "Matthew Evans",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7916000?v=4",
+      "profile": "http://ml-evs.science",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "bsipocz",
+      "name": "Brigitta Sipőcz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6788290?v=4",
+      "profile": "https://bsipocz.github.io/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "sliaqat3",
+      "name": "sliaqat3",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/56300607?v=4",
+      "profile": "https://github.com/sliaqat3",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
