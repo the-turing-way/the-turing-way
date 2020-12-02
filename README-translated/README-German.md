@@ -116,9 +116,11 @@ Anmeldung unter <https://tinyletter.com/TuringWay>.
 Die Community-Managerin **Malvika Sharan** können Sie unter [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) erreichen.
 Alternativ können Sie **Kirstie Whitaker** per Mail unter [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) erreichen.
 
-## [Beitragende](https://github.com/alan-turing-institute/the-turing-way#contributors)
+## Beitragende
 
 Ein großer Dank geht an alle, die mitgearbeitet haben ([emoji key](https://allcontributors.org/docs/en/emoji-key))
+
+[Liste der Personen, die zusammengearbeitet haben](https://github.com/alan-turing-institute/the-turing-way#contributors)
 
 Das Projekt folgt den [alle-Beitragenden](https://github.com/all-contributors/all-contributors) Spezifikationen.
 Mitarbeit jeder Art ist immer willkommen!
