@@ -32,7 +32,12 @@ This might include ethical analysis.
 Researchers under pressure of time and resources might reduce their ethical considerations solely to what is required to pass an institutional ethics board. 
 
 <!--- ideas for paragraphs -->
-One strong reason for making sure that research is ethical is to *prevent harm.*
+### Avoid harm
+
+One strong reason for making sure that research is ethical is to **prevent harm.**
+Lots of ethical guidelines for data science work recognise the need to avoid harm. 
+In a 2019 [paper](http://arxiv.org/abs/1906.11668) examining 84 sets of guidelines, 60 included provisions that covered safety, security or avoidance of harm.
+
 To understand who could be harmed by their researchers, researchers need to understand who might be impacted.
 For some research, this is very clear. 
 If you are carrying out medical trials, there is clear guidance for how to work with patients. 
@@ -52,11 +57,25 @@ But you should also think about other ways that researchers could be harmed.
 This can include ensuring that everyone who is involved with the research is fairly compensated for their labour: even if they are not located in the same workplace (or country) as you.
 It can include creating a environment in your workplace that is actively supportive of workers: including codes of conduct, effective disciplinary procedures, and union representation.
 
-Lots of ethical guidelines for data science work recognise the need to avoid harm. 
-In a 2019 survey of 84 sets of guidelines, 60 included 'non-maleficence' <!--- link to Jobin article -->
+If you don't spend time considering what harm your project could do, then you risk doing that harm.
+
+### Doing good
+
+A less obvious reason for spending time and resources on the ethical aspects of your work, is that it allows you to understand what opportunities you might miss for doing good things and helping people. 
+
+Spending time to think about the possibilities of your work might uncover new opportunities. 
+This might be the opportunity to include new participants in your work.
+It might be that your work could be used to advocate for positive change in people's lives.
+You might find new collaborators, or new beneficiaries.
+
+<!--- example would be good here -->
 
 
-* loss of unexpected benefits
+### Training future researchers
+
+The practice that you follow in your work influences the practices that others do.
+If you are a PI (principal investigator) then you have a responsibility to train your lab members in how to do good research: if you don't include ethics in that work, it sends a message that it is not important.
+
 
 * lack of training for future researchers
 
