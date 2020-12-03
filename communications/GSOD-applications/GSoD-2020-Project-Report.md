@@ -92,7 +92,7 @@ Beyond my GSoD goals, I contributed to _The Turing Way_ project in other ways.
 (Acronym used PR: Pull Request, OLS: Open Life Science)
 
 1. As part of my mentorship in _The Turing Way_, I had the opportunity to join [Open Life Science (OLS)](https://openlifesci.org) mentoring program to gain practical understanding of open science and leadership that I could integrate in my GSoD project.
-It allowed me to closely work with two members, Neha Moopen (Research Data Manager, TU Delft, The Netherlands) as my project partner and Samuel Guay (PhD researcher, Uni Montreal, Canada) as our OLS mentor, and interact with international participants working on different open science projects.
+It allowed me to closely work with two members, Neha Moopen (Research Data Manager, Utrecht University, The Netherlands) as my project partner and Samuel Guay (PhD researcher,  University of Montreal, Canada) as our OLS mentor, and interact with international participants working on different open science projects.
     - [Issue on OLS issue tracker](https://github.com/open-life-science/ols-2/issues/25)
     - [OLS and _The Turing Way_ projects](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring)
 3. Some of Jupyter Book's powerful styling features are underutilised in _The Turing Way_. 
