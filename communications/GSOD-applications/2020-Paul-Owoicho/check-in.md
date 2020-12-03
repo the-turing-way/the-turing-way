@@ -124,6 +124,8 @@ I continued reviewing PRs and help out other contributors. In particular, I am a
 
 ## Final Words
 
+### Personal Benefits
+
 I immensely enjoyed my time on the Turing Way project. I particularly enjoyed Mavika and Kirstie's mentorship, as well as Neha's helpful feedback on my work. For me, this experience was a unique opportunity to grow skill-wise while getting to collaborate with people from around the world. Even though the GSoD program is officially over, I still intend to stay on as a contributor. In sum, I gained the following from participating in the GSoD program:
 
 1. Increased familiarity with Markdown, Jupyter Book, Sphinx, Git/Github (HTML, CSS for book layout)
@@ -133,4 +135,13 @@ I immensely enjoyed my time on the Turing Way project. I particularly enjoyed Ma
 5. Understanding the importance of putting reproducibility and accessibility first in my work
 6. Ability to help new contributors where possible
 
+### Note to Future GSoDers
+
 To future GSoD participants, I would suggest maximising your time during the exploration phase to know the project and the community better. This will help you understand where your contributions are most useful, and will form the basis for your GSoD proposal. An overview of the work I did can be found [here](../GSoD-2020-Project-Report.md). Future participants can also reach out to me if they want to learn more about my experiences.
+
+
+### Mentor Feedback
+
+Malvika and Kirstie made me feel welcome from the start. I never felt like I was just a technical writer, rather my whole experience felt like I was part of an inclusive team that wanted to see me succeed. My perspectives mattered and were actively sought after. I had autonomy over my work, coupled with lots of support, feedback, direction, and encouragement. In addition, I always felt recognised for my efforts, no matter how small. 
+
+My mentee experience is the reason why I want to stay back on The Turing Way as a contributor. I think this says a lot about my mentors, especially considering that The Turing Way is the first open source project I've participated in. It has been an absolute joy working with Malvika and Kirstie, and they get the credit for getting me started on my open source journey!
