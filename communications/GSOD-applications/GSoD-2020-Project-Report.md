@@ -2,7 +2,7 @@
 
 **Technical Writer:** Paul Owoicho
 
-**Github ID:** @paulowoicho
+**Github ID:** [@paulowoicho](https://github.com/paulowoicho)
 
 ## Introduction
 
