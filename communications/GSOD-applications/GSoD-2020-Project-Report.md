@@ -52,7 +52,7 @@ The following GitHub pull requests and issues, and online content were developed
 For this goal, I worked to create clear pathways for future contributions to _The Turing Way_.
 First, I developed templates to guide authors to structure and design new content such as subchapters, case studies and personal stories or modify existing resources. 
 The new templates will make improving the book more accessible by helping new contributors write interoperable content from the start.
-I also documented the community's contribution workflows and processes by engaging with different community members, and used those insights to create guidelines in a short chapter in the Community Handbook.
+I also documented the community's contribution workflows and processes by engaging with different community members, and used those insights to create guidelines in a [short chapter](https://the-turing-way.netlify.app/community-handbook/contributing.html) in the Community Handbook.
 This chapter explains all the templates, contribution workflows and guidelines to use them in _The Turing Way_.
 This effort will ensure that there is a cohesive narrative when it is written by a diverse group of authors from around the world.
 
