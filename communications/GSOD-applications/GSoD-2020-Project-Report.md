@@ -20,7 +20,7 @@ To address these concerns, my objectives as a GSoD Technical Writer on _The Turi
 
 The project lead, Kirstie Whitaker and community manager, Malvika Sharan from [The Alan Turing Institute, UK](https://www.turing.ac.uk/) were my mentors who supported my GSoD work.
 
-*[Please see our proposal for detail.](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/GSOD-applications/GSoD-2020-Project-Proposal.md)*
+*[Please see our proposal for more details](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/GSOD-applications/GSoD-2020-Project-Proposal.md).*
 
 ## Contribution Overview
 
