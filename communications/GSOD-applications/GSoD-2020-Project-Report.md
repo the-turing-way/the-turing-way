@@ -32,7 +32,7 @@ To achieve this goal, I started by reviewing and editing some of _The Turing Way
 With the insights gained, I worked with my mentors to identify the consistency gaps present in the book and engaged with _The Turing Way_ community to curate a consistency checklist.
 This checklist provided guidance for contributors to review existing chapters and uncover ways to improve them.
 It also served as a basis for many 'good first issues' I created to fix errors and bugs across the entire book and helped Hacktoberfest contributors participate in the project throughout the month of October. 
-Furthermore, with tremendous feedback from my mentors and other core contributors, I authored an extensive consistency chapter to explain each item in the checklist. 
+Furthermore, with tremendous feedback from my mentors and other core contributors, I authored an extensive [consistency chapter](https://the-turing-way.netlify.app/community-handbook/consistency.html) to explain each item in the checklist. 
 This chapter ensures that old and new contributors have sufficient guidance, recommendations and support to continue maintaining consistency in the book. 
 
 The following GitHub pull requests and issues, and online content were developed to facilitate retrospective consistency:
