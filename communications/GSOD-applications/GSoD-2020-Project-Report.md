@@ -102,7 +102,7 @@ I co-authored a subchapter in the Style Guide to make contributors aware of thos
 I raised issues for other contributors to write content for those chapters and also completed a subchapter on Data Licensing that another contributor started.
     - [See GitHub Issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3Agsod2020)
 4. To continue improving _The Turing Way_, the community needs an understanding of how readers interact with the book. 
-I prototyped the use of Matomo Analytics for capturing relevant data and monitoring reader engagement with _The Turing Way_ book.
+I prototyped the use of [Matomo Analytics](https://matomo.org/) for capturing relevant data and monitoring reader engagement with _The Turing Way_ book.
     - [GitHub PR #1660](https://github.com/alan-turing-institute/the-turing-way/pull/1660)
 5. _The Turing Way_ promotes a healthy, collaborative environment where no contribution is too small. 
 I often reviewed PRs and provided helpful feedback where necessary. 
