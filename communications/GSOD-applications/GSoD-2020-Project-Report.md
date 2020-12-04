@@ -76,7 +76,7 @@ Some of these issues also encourage contributors to write descriptive ALT text f
 This ensures that people using screen readers are able to understand the image's intended message. 
 
 Finally, I wrote custom CSS to create a better layout and responsive styling for tables and videos across the book. 
-Most importantly, I documented the use of custom CSS in a chapter in the book's Community Handbook.
+Most importantly, I documented the use of custom CSS in a [chapter](https://the-turing-way.netlify.app/community-handbook/style/style-custom-styling.html) in the book's Community Handbook.
 
 The following GitHub pull requests and issues, and online content were developed to enhance book's accessibility:
 
