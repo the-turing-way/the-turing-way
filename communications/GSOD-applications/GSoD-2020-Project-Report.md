@@ -132,7 +132,8 @@ This feature is currently not possible with Jupyter Book, so I raised an issue s
 
 ## Personal Experiences and Benefits
 
-Although _The Turing Way_ is my first open source project, I thoroughly enjoyed the experience and learned a lot along the way. Before the GSoD program, I only used Github to 'store' my projects. 
+Although _The Turing Way_ is my first open source project, I thoroughly enjoyed the experience and learned a lot along the way.
+Before the GSoD program, I only used Github to 'store' my projects. 
 Now, I am much more proficient at using Github for collaborative endeavours and I am more adept at working with tools such as Markdown, Jupyter Book, and Sphinx. 
 In addition, I gained familiarity with setting up and working with web analytics software.
 
