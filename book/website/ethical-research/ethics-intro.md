@@ -68,7 +68,7 @@ This section briefly introduces the key concepts of *Responsible Research and In
  There are two aspects of this definition worth focusing on for the purpose of this introductory section. 
  Firstly, RRI refers to “potential implications and societal expectations.” 
  Secondly, it is about “the design of inclusive and sustainable research”. 
- These are two traditionally important aspects of the ethics of science: how research is set up or designed, and what societal consequences this set up has. 
+ These are two traditionally important aspects of the ethics of science: how research is set up or designed, and what societal consequences this setup has. 
  What is important here is that we consider these aspects of research when speaking of making it ethical. 
  
 ### Research Integrity
