@@ -1,16 +1,13 @@
 (rr-rdm-personal)=
 
-## Managing sensitive data
-
-Managing sensitive data can mean that you are processing personal data or commercially protected data. 
+## Managing personal data
 
 **Personal data**
+
 There are various policies in place in different countries to protect the rights of individuals over their personal data. 
 For example, in Europe the **GDPR** (General Data Protection Regulation) applies to the processing of personal data. 
 Processing means doing anything with a person's information, including collection, storage, analysis, sharing, deletion, and destruction. 
 Please review your country's/institute's policies on managing personal data to ensure that you are up to date with the requirements of managing sensitive data. 
-* about people residing inside and outside the European Economic Area (EEA), by people within the EEA
-* about people inside the EEA, by people outside the EEA
 
 Personal data is information about **living people** who can be identified using the data that you are processing, either directly or indirectly (for example, a person's name, address, or other unique identifier such as their Social Security number). 
 Indirect identifiers include health, economic, cultural or social characteristics. 
@@ -26,17 +23,20 @@ Especially sensitive data include data relating to a person's:
 
 
 **Human participants – informed consent**
+
 Informed, voluntary and fair consent to participate in a study is very important for any research project that involves human participants. 
 It is through this consent process that research participants can understand what taking part in a specific study will mean for them. 
 Each person can then choose whether to participate using the consent form. 
 See also the {ref}`Guide for Ethical Research<er>`
 
-Note that the informed consent form is considered to be personal data and should therefore be handled with the same care as other personal data. Store consent forms in a different place as the data you collect, for example a locked cabinet. 
+Note that the informed consent form is considered to be personal data and should therefore be handled with the same care as other personal data. Store consent forms in a different place as the data you collect, for example a locked cabinet or an encrypted folder.
 
 In case you cannot use a written consent form, try to make a recording of verbal consent. 
 
 **Consent documentation should include:**
+
 •	a participant information sheet and
+
 •	a consent form signed by the participant
 
 The **participant information sheet** is used to inform participants about the study. The information should be  clear and easy to understand and should cover the following:
@@ -58,16 +58,22 @@ The consent form should cover the following points (but not limited to):
     * understands that participation is voluntarily
     * understands that they may withdraw from the study at any time without giving reasons and without penalty
     * understands how the data will be managed, shared and archived (as detailed in the information sheet)
-        * to increase the chance of your data to be reused, do not promise to delete the data but instead ask for consent to retain and share the data (see Meyer 2018)
+       * to increase the chance of your data to be reused, do not promise to delete the data but instead ask for consent to retain and share the data (see Meyer 2018)
 * Signature and date of signing for the participant and the researcher
 
 Think ahead and plan how you will:
+
 •	collect, store and manage the data (see {ref}`Data storage and organisation<rr-rdm-storage>`)
+
 •	control access permissions
+
 •	prepare data for archiving/sharing at the end of the project if possible (see {ref}`Sharing and archiving data<rr-rdm-sharing>`)
 
+
 There are a number of strategies that you can adopt to safeguard the privacy of your research subjects:
+
 **1. Data minimisation**
+
 * If personal information isn't needed, don't collect it
 * Periodically review whether you are retaining unnecessary identifying information
 * When identifying information is no longer needed, safely remove, delete or destroy it
@@ -81,7 +87,7 @@ There are a number of strategies that you can adopt to safeguard the privacy of 
 For example, can data be de-identified or anonymised? 
 * If data cannot be made unidentifiable then you must ensure you have authority to transfer the personal data, and that there are appropriate safeguards in place to protect the data before, during and after transit.
 * Often your university or institute will provide solutions for secure file transfer. 
-Contact you research data, privacy or IT support teams. 
+Contact you research data, privacy or IT support teams for support. 
 
 **4. Encryption** 
 * Encryption provides protection by ensuring that only someone with the relevant encryption key (password) will be able to access the contents.
@@ -98,6 +104,7 @@ Contact you research data, privacy or IT support teams.
 
 
 **6. Anonymisation**
+
 Anonymisation is a process by which identifying information in a dataset is removed. 
 It is used primarily to enable data to be shared or published without revealing the confidential information it contains, while limiting the loss of information.
 * Where possible, direct identifiers (e.g. names, addresses, telephone numbers, account numbers, etc.) should be removed as soon as the identifying information is no longer needed. 
@@ -105,9 +112,9 @@ You can delete the data or replace it with pseudonyms.
 For qualitative data you should replace or generalise identifying characteristics when transcribing interviews.
 * De-identified data that can be re-identified using a linkage file (i.e. information linking data subjects to identifiable individuals) is known as pseudonymised data. 
 NOTE: In this instance, the linkage file should be encrypted and stored securely and separately from the de-identified research data.
-o	Identification of individuals in pseudonymised or de-identified data may still be possible using combinations of indirect identifiers (e.g. age, education, employment, geographic area, medical conditions, etc). 
+  * Identification of individuals in pseudonymised or de-identified data may still be possible using combinations of indirect identifiers (e.g. age, education, employment, geographic area, medical conditions, etc). 
 Further, data and outputs (e.g. tables of results) containing small cell counts may be potentially disclosive, particularly where samples are drawn from small populations or include cases with extreme values or relatively rare characteristics.
-o	As such, when intending to share potentially identifiable data or the outputs generated from the data, you may need to consider more advanced anonymisation techniques such as statistical disclosure control (SDC, see this handbook for more information).
+   * As such, when intending to share potentially identifiable data or the outputs generated from the data, you may need to consider more advanced anonymisation techniques such as statistical disclosure control (SDC, see this handbook for more information).
 
 **7. Sharing sensitive data**
 If you plan to share or publish your data you must ensure that your data are appropriate and safe to share. 
