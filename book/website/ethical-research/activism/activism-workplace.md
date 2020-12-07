@@ -75,11 +75,27 @@ In the label, replace `keyidea2` with a word that best describes the section or 
 In the label, replace `keyidea3` with a word that best describes the section or key idea you want to explain -->
 (sectioninitials-filename-keyidea3)=
 ## Whistleblowing
-
+<!---
 > **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
 > You may break the section down into subsections if you wish.
 > Remember to use the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) and Jupyter Book's [Cheat Sheet](https://jupyterbook.org/reference/cheatsheet.html) to guide your writing.
 > The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
+-->
+
+A **whistleblower** is a person who reports wrongdoing within an organisation to an authority.
+This can be internal: reporting wrongdoing to a senior person within the organisation.
+It can also be external: reporting wrongdoing to an external agency.
+
+Whistleblowers can report different kinds of wrongdoing: this can include illegal activity, harm (or potential harm) to people inside or outside the organisation, misuse of government funds (for governmental organisations). 
+
+Retaliation against whistleblowers is, unfortunately, common.
+Retaliation can include firing from the organisation, or creation of an unpleasant working environment that means the whistleblower cannot work there any more. 
+
+Some countries have laws to protect whistleblowers from retaliation.
+
+Some companies have policies in place to protect whistleblowers.
+This can include third-party reporting systems. 
+
 
 (sectioninitials-filename-summary)=
 ## Summary
