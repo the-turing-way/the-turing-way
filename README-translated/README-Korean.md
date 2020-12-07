@@ -92,10 +92,10 @@ _The Turing Way_ 삽화는 2019년 5월 17일 맨체스터, 2019년 5월 28일�
 당신은 우리 커뮤니티의 매니저 **Malvika Sharan**와 [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)의 이메일을 통해 연락할 수 있다.
 차선책으로는 수석 연구원인 **Kirstie Whitaker**와 [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)의 이메일을 통해 연락할 수 있다.
 
-## Contributors
+## 기여자
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+이 모든 멋진 사람들에게 감사를 표합니다: ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-[List of contributors](https://github.com/alan-turing-institute/the-turing-way#contributors)
+[기여자들 목록](https://github.com/alan-turing-institute/the-turing-way#contributors)
 
-Contributions of any kind welcome!
+모든 종류의 기여를 환영합니다!
