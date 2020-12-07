@@ -8,9 +8,12 @@ Make as many copies of this file as you need for all your subchapters
 (sectioninitials-filename)=
 # Activism in the workplace
 
-> **Write an introduction for your subchapter here**.
-> Your introduction should briefly introduce the topic of your subchapter and highlight its key ideas.
-> Even though your introduction should be short and focused, you should try to explain why and how the subchapter fits the overall context of the chapter and what the reader should expect to learn from it.
+This sub-chapter covers ways that you can take action in your workplace. 
+
+It covers:
+- unionisation, to protect workers and working conditions
+- internal policy advocacy, to change how your organisation makes internal decisions
+- whistleblowing, to alert people outside your organisation to problems within it.
 
 <!-- 
 > Each of the key ideas you talk about in the introduction should have a section of its own.
@@ -26,7 +29,7 @@ Make as many copies of this file as you need for all your subchapters
 <!-- 
 In the label, replace `keyidea1` with a word that best describes the section or key idea you want to explain -->
 (sectioninitials-filename-keyidea1)=
-## Key Idea 1
+## Unionisation
 
 > **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
 > You may break the section down into subsections if you wish, however, remember to add [labels](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) to any additional headers you create to facilitate cross-referencing.
@@ -61,7 +64,7 @@ Here is a note!
 <!-- 
 In the label, replace `keyidea2` with a word that best describes the section or key idea you want to explain -->
 (sectioninitials-filename-keyidea2)=
-## Key Idea 2
+## Internal policy advocacy
 
 > **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
 > You may break the section down into subsections if you wish.
@@ -71,7 +74,7 @@ In the label, replace `keyidea2` with a word that best describes the section or 
 <!-- 
 In the label, replace `keyidea3` with a word that best describes the section or key idea you want to explain -->
 (sectioninitials-filename-keyidea3)=
-## Key Idea 3
+## Whistleblowing
 
 > **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
 > You may break the section down into subsections if you wish.
