@@ -2242,6 +2242,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "przemekdolata96",
+      "name": "Przemek Dolata",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/26312462?v=4",
+      "profile": "https://github.com/przemekdolata96",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "projectName": "the-turing-way",
