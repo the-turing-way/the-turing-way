@@ -228,6 +228,16 @@
       file: project-design/persona/persona-contributors
   - title: File Naming Convention
     file: project-design/filenaming
+  - title: Code Styling and Linting
+    file: project-design/code-styling
+    sections:
+    - title: Guidelines for Code Styling
+      file: project-design/code-styling/code-styling-guidelines
+    - title: Writing Human Readable Code
+      file: project-design/code-styling/code-styling-readability
+    - title: Code Styling Tools
+      file: project-design/code-styling/code-styling-tools
+        
 # ===== Communication Guide ========================================
 
 - file: communication/communication
