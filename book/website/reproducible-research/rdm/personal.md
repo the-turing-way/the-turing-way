@@ -117,6 +117,7 @@ Further, data and outputs (e.g. tables of results) containing small cell counts 
    * As such, when intending to share potentially identifiable data or the outputs generated from the data, you may need to consider more advanced anonymisation techniques such as statistical disclosure control (SDC, see this handbook for more information).
 
 **7. Sharing sensitive data**
+
 If you plan to share or publish your data you must ensure that your data are appropriate and safe to share. 
 For example, you should consider whether the data can be adequately anonymised, and whether anonymised data will remain useful (see also {ref}`Barriers to data sharing<rr-rdm-sharing>`Open Research Chapter)
 After applying methods to de-identify and anonymise sensitive data, there may still be a risk of re-identification (see Meyer 2018). 
@@ -130,6 +131,6 @@ This may involve finding a data repository which can provide suitable access con
 * Meyer 2018 **link broken**
 * [Presentation](https://www.youtube.com/watch?v=H2mv6q4WwOU&) by Rob Gommans on GDPR and the Processing of (Identifiable) Image, Audio, and Video Data for Scientific Research Purposes
 * [Presentation](https://youtu.be/_3bufely0c0) by Stephan Heunis on Brain research data and personal data privacy: practical tips to share and protect
+* [Presentation](https://youtu.be/eAKhI0qde2w?t=1104) by Walter Scholger on the GDPR with resources such as informed consent templates (18:30 - 38:50)
 
 
-https://www.youtube.com/watch?v=eAKhI0qde2w&feature=emb_title 18:30 - 38:50 GDPR + verwijzing naar informed consent templates
