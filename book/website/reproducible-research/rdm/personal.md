@@ -127,8 +127,8 @@ This may involve finding a data repository which can provide suitable access con
 
 **Resources**
 * [Protecting sensitive data course](https://mantra.edina.ac.uk/protectionrightsandaccess) by [MANTRA](https://mantra.edina.ac.uk)
-* [Presentation](https://aaltofi-my.sharepoint.com/:v:/g/personal/mikhail_kuklin_aalto_fi/EUPL6OVoQnFKldi1-KXYnFUBuNczPPsP3wcDVEv23ZUDoA?e=7NoECy) on handling personal data by Ilari Lähteenmäki from Aalto University. See [here](https://www.aalto.fi/en/services/rdm-training) for the full course.
-* Meyer 2018 **link broken**
+* [Presentation](https://aaltofi-my.sharepoint.com/:v:/g/personal/mikhail_kuklin_aalto_fi/EUPL6OVoQnFKldi1-KXYnFUBuNczPPsP3wcDVEv23ZUDoA?e=7NoECy) on handling personal data by Ilari Lähteenmäki from Aalto University.**link broken** See [here](https://www.aalto.fi/en/services/rdm-training) for the full course.
+* Meyer 2018 (add to https://github.com/alan-turing-institute/the-turing-way/blob/master/book/website/_bibliography/references.bib)
 * [Presentation](https://www.youtube.com/watch?v=H2mv6q4WwOU&) by Rob Gommans on GDPR and the Processing of (Identifiable) Image, Audio, and Video Data for Scientific Research Purposes
 * [Presentation](https://youtu.be/_3bufely0c0) by Stephan Heunis on Brain research data and personal data privacy: practical tips to share and protect
 * [Presentation](https://youtu.be/eAKhI0qde2w?t=1104) by Walter Scholger on the GDPR with resources such as informed consent templates (18:30 - 38:50)
