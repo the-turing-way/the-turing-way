@@ -2215,6 +2215,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "sk-sahu",
+      "name": "Sangram K Sahu",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/23085664?v=4",
+      "profile": "https://sksahu.net",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "projectName": "the-turing-way",
