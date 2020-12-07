@@ -2206,6 +2206,15 @@
         "translation",
         "talk"
       ]
+    },
+    {
+      "login": "luucamay",
+      "name": "Lupe CaMay",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15850514?v=4",
+      "profile": "http://laboratoria.la",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
