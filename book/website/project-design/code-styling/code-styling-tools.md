@@ -11,7 +11,7 @@ The function `lint` takes a filename as an argument, and a list of 'linters' tha
 These range from whitespace conventions to checking that curly brackets do not have their own lines.
 The output provides a list of markers with recommendations for changing the formatting of your code line-by-line, meaning it is best used early and often in your project.
 
-```{figure} ../figures/lintr_output.png
+```{figure} ../../figures/lintr_output.png
 ---
 height: 500px
 name: lintr_output
