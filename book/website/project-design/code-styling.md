@@ -8,15 +8,13 @@ Now imagine that these files are very hard to read, or there are lots of variabl
 If you have not - then you are one of those who have already learned from your previous experience!
 For everyone else, this chapter will highlight ways to avoid frustration of dealing with such challenges in personal projects.
 
-Indeed, point 7 of the [Zen of Python](https://www.python.org/dev/peps/pep-0020/) is "Readability Counts".
-
 ```{figure} ../figures/zen-of-python.png
 ---
 height: 500px
 name: zen-of-python
 alt: The Zen of Python, by Tim Peters. Beautiful is better than ugly. Explicit is better than implicit. Simple is better than complex. Complex is better than complicated. Flat is better than nested. Sparse is better than dense. Readability counts. Special cases aren't special enough to break the rules. Although practicality beats purity. Errors should never pass silently. Unless explicitly silenced. In the face of ambiguity, refuse the temptation to guess. There should be one-- and preferably only one --obvious way to do it. Although that way may not be obvious at first unless you're Dutch. Now is better than never. Although never is often better than *right* now. If the implementation is hard to explain, it's a bad idea. If the implementation is easy to explain, it may be a good idea. Namespaces are one honking great idea -- let's do more of those!
 ---
-*"Long time Pythoneer Tim Peters succinctly channels the BDFL's guiding principles for Python's design into 20 aphorisms, only 19 of which have been written down." (This can be printed with the python command `>>> import this`)*
+*Point 7 of the [Zen of Python](https://www.python.org/dev/peps/pep-0020/) is "Readability Counts". (This can be printed with the python command `>>> import this`)*
 ```
 
 ## Overview
