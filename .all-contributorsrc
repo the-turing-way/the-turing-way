@@ -2187,6 +2187,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "rabbits99",
+      "name": "rabbits99",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/72690233?v=4",
+      "profile": "https://github.com/rabbits99",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "projectName": "the-turing-way",
