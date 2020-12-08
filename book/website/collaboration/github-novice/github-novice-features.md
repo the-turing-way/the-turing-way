@@ -1,3 +1,4 @@
+(cl-github-novice-features)=
 # Using more Github features
 
 You now have your repo set up and you probably want to know how to add more stuff to it and use some of the useful features that it contains.
