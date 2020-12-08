@@ -1,3 +1,4 @@
+(cl-github-novice-motivation)=
 # Motivation for Using GitHub
 
 GitHub is an online web interface - it’s designed to share your work and allows other people to test, modify, remix and reuse it. 
