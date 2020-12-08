@@ -1,9 +1,9 @@
 (pd-code-styling-guidelines)=
 # Guidelines for Code Styling
 
-Style guidelines differ between organisations, languages, and over time ^[The Python style guide Python Enhancement Proposal (PEP) 8 has had numerous revisions since it was released in 2001.].
+Style guidelines differ between organisations, languages, and over time. (The Python style guide Python Enhancement Proposal 8 has had numerous revisions since it was released in 2001).
 It is important that you work to a framework that is best for your purposes: be they for your benefit, or the benefit of others.
-It is also important to remain consistent^[and not consistently inconsistent]!
+It is also important to remain consistent (and not consistently inconsistent)!
 
 Style guidelines include advice for file naming, variable naming, use of comments, and whitespace and bracketing.
 
@@ -56,13 +56,12 @@ Be creative!
 ### Naming conventions
 
 For clarity and readability, choosing a set of naming conventions for your variables is useful.
-There is a large variety, and some people can be quite vocal about which one is 'correct'^[Again, pick one that is right for you!].
+There is a large variety, and some people can be quite vocal about which one is 'correct' (pick one that is right for you!).
 These include:
 
 - CamelCase
 - lowerCamelCase
 - Underscore_Methods
-- Kebab-Case^[The Kebab case will not work with some languages, such as R and Python since this will be interpreted as a subtraction sign.]
 - Mixed_Case_With_Underscores
 - lowercase
 
