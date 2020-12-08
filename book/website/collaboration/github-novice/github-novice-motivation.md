@@ -1,4 +1,5 @@
-# Why learn how to use GitHub?
+(cl-github-novice-motivation)=
+# Motivation for Using GitHub
 
 GitHub is an online web interface - it’s designed to share your work and allows other people to test, modify, remix and reuse it. 
 
@@ -13,7 +14,7 @@ You can use Github directly in your web browser.
 Once you are more used to the interface, you might want to download it to your computer, but this is not required. 
 Most instructions about how to use Github will start with you downloading it to your computer. There is no need to download Github onto your computer; it is much simpler to use it in a web browser.
 
-## What is version control and why do you need it?
+## Version Control
 
 Version control is the task of managing the contributions your group makes to shared working documents.
 No matter how your group is organized, the work of many contributors needs to be wrangled into a single project. 
@@ -35,6 +36,7 @@ For example, if you want to put a heading in markdown you use a ‘#’ (hash sy
 Like this `# heading 1`, this will produce the first level header style for that text.
 
 ### Resources to help you learn markdown: 
+
 * How to write faster, better & longer: [the ultimate guide to Markdown](https://ghost.org/changelog/markdown/)
 * [Markdowncheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * Markdown guide - [Basic syntax](https://www.markdownguide.org/basic-syntax/)
