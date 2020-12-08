@@ -5,8 +5,10 @@ Have you ever opened a syntax or script file two years after running an analysis
 Have you received analysis files from a collaborators, or downloaded them from online repository that you have never used before?
 Now imagine that these files are very hard to read, or there are lots of variables being passed to arcane functions, or worse, you can't find useful code as they are saved with meaningless file names such as `analysis_1final_FINAL.R`, or `onlyusethisoneforanalysis_onamonday2a.py`.
 
-If you have not - then you are one of those who have already learned from your previous experience!
-For everyone else, this chapter will highlight ways to avoid frustration of dealing with such challenges in personal projects.
+If you have not - then you are one of the lucky ones!
+But if you have experienced it then you might know how frustrating it is to work with those files.
+
+This chapter will highlight ways to avoid such challenges in your projects by introducing some principals of 'code hygiene', otherwise known as *linting*.
 
 ```{figure} ../figures/zen-of-python.png
 ---
@@ -19,8 +21,7 @@ alt: The Zen of Python, by Tim Peters. Beautiful is better than ugly. Explicit i
 
 ## Overview
 
-This chapter aims to introduce some principals of 'code hygiene', otherwise known as *linting*.
-Linting includes guidelines for code formatting and naming conventions, and ensuring that code is human readable such as by using useful formatting, writing comments and creating documentation.  
-Some integrated development environments (IDEs) include automatic linting, but there are free packages in Python that will lint code for you (for example, [autopep8](https://pypi.org/project/autopep8/).
+Linting includes {ref}`guidelines for naming<pd-code-styling-guidelines>`, and ensuring that {ref}`code is human readable<pd-code-styling-readability>` such as by using useful formatting, writing comments and creating documentation.  
+Some integrated development environments (IDEs) include automatic linting, but there are free {ref}`packages and tools for linting<pd-code-styling-tools>` that will lint code for you (for example, [autopep8](https://pypi.org/project/autopep8/).
 
 By keeping the following advice in mind while coding, your code will be more reusable, adaptable, and clear.
