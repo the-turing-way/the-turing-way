@@ -36,7 +36,7 @@ This is what a repository looks like when it is set up as a collaborative projec
 
 ```{figure} ../../figures/easyway5_project.jpg
 ---
-size: 500px
+height: 500px
 name: easyway5_project
 alt: Annotated diagram of README.md file on landing page with template added. Explained in title.
 ---
