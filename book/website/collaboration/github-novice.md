@@ -12,12 +12,13 @@
 
 ## Summary
 
-This chapter introduces a simple way to access an online web interface called Github for researchers who are novices when it comes to computer coding. 
+This chapter introduces a step-by-step guide for using an online web interface called Github.
+This platform is popular among researchers to store and share their code, small data and related information.
+However, it has evolved into a collaborative platform for developing documents and communicating them openly and transparently.
 
-Many of the new tools developed for reproducible research can seem daunting to researchers who have little or no experience of computer coding. 
-
+Many of the new tools developed for reproducible research can seem daunting to researchers who have little or no experience with computational tools. 
 However, if researchers have used online tools such as Google workspace and Microsoft office, with a small amount of instruction they should be able to learn to use GitHub online platform fairly easily.
 
-<add overview of all the subchapters>
+In this chapter, we have described the {ref}`Motivation of using GitHub<github-novice-motivation>`, explained the {ref}`important first steps<github-novice-firststeps>`, discussed some {ref}`useful features<github-novice-features>` and listed resources for learn {ref}`advanced GitHub features<github-novice-advanced>`.
 
 Lessons learned in this chapter will enable researchers to work openly, collaboratively and with version control.
