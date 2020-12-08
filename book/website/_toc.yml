@@ -237,7 +237,7 @@
       file: project-design/code-styling/code-styling-readability
     - title: Code Styling Tools
       file: project-design/code-styling/code-styling-tools
-        
+
 # ===== Communication Guide ========================================
 
 - file: communication/communication
@@ -256,7 +256,7 @@
 
 - file: collaboration/collaboration
   sections:
-  - title: Getting started on GitHub
+  - title: Getting Started With GitHub
     file: collaboration/github-novice
     sections:
     - title: Motivation for Using GitHub

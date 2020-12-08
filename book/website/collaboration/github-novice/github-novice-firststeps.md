@@ -60,8 +60,6 @@ alt: Annotated diagram of README.md file, if you click on the file name on your 
 ---
 Title: Annotated diagram of README.md file, if you click on the file name on your landing page. 1. Repository and current file: This tells you that you the repo name and the file name that you are in. 2. Main branch: This tell you that you are in the main repository and can be used to change to different branches of your repo (if there are more branches previously created). 3. Contributors: This shows how many contributors (users) have contributed to your file. 4. README.md file content: The content of your README.md file will appear here when we edit more information. 5. Raw: this shows you the raw markdown text file. 6. Blame: this shows you the last modification made to each line of the file. It can be used to track when and who made changes and go back to older versions of the file to fix bugs. 7. Edit file: Click this pencil to edit your README.md file. 8. Delete file: Click the Bin to delete this file.
 
-```
-
 ```{figure} ../../figures/github-readme-after-edit.jpg
 ---
 height: 500px
