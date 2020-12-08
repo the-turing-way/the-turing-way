@@ -256,7 +256,7 @@
 
 - file: collaboration/collaboration
   sections:
-  - title: Getting starting on GitHub
+  - title: Getting started on GitHub
     file: collaboration/github-novice
     sections:
     - title: Motivation for Using GitHub
