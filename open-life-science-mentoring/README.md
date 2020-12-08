@@ -30,5 +30,7 @@ Three graduation calls will take place on 15, 16 and 17 December 2020, informati
 -   **Group 2**: 16 December at 14:00 GMT: Ismael K. Garcia, Laura Carter and Sophia Batchelor ([Ethical Research Framework: The Turing Way](https://the-turing-way.netlify.app/ethical-research/ethical-research.html)); Markus Löning ([sktime - A Unified Framework for ML with Time Series](https://github.com/alan-turing-institute/sktime))
 -   **Group 3**: 17 December at 17:30 GMT: Georgia Aitkenhead ([Autistica/Turing citizen science project](https://alan-turing-institute.github.io/AutisticaCitizenScience/)); Paul Owoicho and Neha Moopen ([Embedding Accessibility in The Turing Way guidance](https://the-turing-way.netlify.app/community-handbook/consistency.html))
 
+Thanks to Anjali Mazumdar, Arielle Bennett, Kirstie Whitaker, Sarah Gibson, Anelda van der Walt, Jez Cope, Martina Vilas, Samuel Guay and Yo Yehudi for mentoring these projects.
+
  You can find more details (including notes and Zoom link) about the graduation events and call for application for their next cohort in [this blogpost](https://openlifesci.org/posts/2020/11/26/announcing-applications-for-ols-3/). 
   These graduation calls will also be [live-streamed on YouTube](https://www.youtube.com/channel/UCs12-ZgnDJOWIWN3Vo1XHXA/).
