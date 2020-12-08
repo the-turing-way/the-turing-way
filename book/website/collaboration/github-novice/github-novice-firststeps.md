@@ -1,3 +1,4 @@
+(cl-github-novice-firststeps)=
 # First steps on Github
 
 Here, we provide step-by-step instructions to get started with GitHub.
