@@ -228,6 +228,16 @@
       file: project-design/persona/persona-contributors
   - title: File Naming Convention
     file: project-design/filenaming
+  - title: Code Styling and Linting
+    file: project-design/code-styling
+    sections:
+    - title: Guidelines for Code Styling
+      file: project-design/code-styling/code-styling-guidelines
+    - title: Writing Human Readable Code
+      file: project-design/code-styling/code-styling-readability
+    - title: Code Styling Tools
+      file: project-design/code-styling/code-styling-tools
+        
 # ===== Communication Guide ========================================
 
 - file: communication/communication
@@ -246,6 +256,17 @@
 
 - file: collaboration/collaboration
   sections:
+  - title: Getting starting on GitHub
+    file: collaboration/easyway
+    sections:
+    - title: Why learn how to use GitHub?
+      file: collaboration/easyway/sc1_why_learn_how
+    - title: First steps on Github
+      file: collaboration/easyway/sc2_first_steps_on_github
+    - title: Using more Github features
+      file: collaboration/easyway/sc3_using_more_github_features
+    - title: Advanced Github features
+      file: collaboration/easyway/sc4_advanced_github_features
   - title: Collaborating on GitHub
     file: collaboration/github-collaboration
     sections:

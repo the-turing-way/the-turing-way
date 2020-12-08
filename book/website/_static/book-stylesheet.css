@@ -8,7 +8,6 @@ If you add new styles, remember explain what it does as shown below.
 Index
   - Styling for Table of Contents
   - Styling for Embedded Videos
-  - Styling for Tables
 
 \*--------------------------------------------------------------------*/ 
 
@@ -52,7 +51,6 @@ iframe {
   margin: auto;
   display:block;
 }
-
 
 /*--------------------------------------------------------------------*\
 

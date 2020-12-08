@@ -76,6 +76,15 @@ alt: A subchapter in The Turing Way with three table of contents. Two that are g
 ---
 The manually written table of contents is unnecessary as Jupyter Book auto-generates two separate table of contents.
 ```
+#### Demo
+
+<div class="video-content">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zKWrvgCxSB0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+
 (ch-consistency-structure-hr-citing)=
 ### Ensure external sources are properly cited and referenced
 

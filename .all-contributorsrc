@@ -689,7 +689,8 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/17767752?v=4",
       "profile": "https://github.com/Biostew",
       "contributions": [
-        "doc"
+        "doc",
+        "ideas"
       ]
     },
     {
@@ -2186,6 +2187,79 @@
       "profile": "https://github.com/sliaqat3",
       "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "rabbits99",
+      "name": "rabbits99",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/72690233?v=4",
+      "profile": "https://github.com/rabbits99",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "msanter01",
+      "name": "msanter01",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/39199660?v=4",
+      "profile": "https://github.com/msanter01",
+      "contributions": [
+        "translation",
+        "talk"
+      ]
+    },
+    {
+      "login": "luucamay",
+      "name": "Lupe CaMay",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15850514?v=4",
+      "profile": "http://laboratoria.la",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "sk-sahu",
+      "name": "Sangram K Sahu",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/23085664?v=4",
+      "profile": "https://sksahu.net",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "jbteves",
+      "name": "Joshua Teves",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/26722533?v=4",
+      "profile": "https://github.com/jbteves",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "callummole",
+      "name": "Callum Mole",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/22677759?v=4",
+      "profile": "https://github.com/callummole",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "przemekdolata96",
+      "name": "Przemek Dolata",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/26312462?v=4",
+      "profile": "https://github.com/przemekdolata96",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "Kelly-dot",
+      "name": "Kelly-dot",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/59481756?v=4",
+      "profile": "https://github.com/Kelly-dot",
+      "contributions": [
+        "ideas"
       ]
     }
   ],
