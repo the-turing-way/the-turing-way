@@ -1,3 +1,4 @@
+(cl-github-novice)=
 # Getting started on Github
 
 ## Prerequisites / recommended skill level
