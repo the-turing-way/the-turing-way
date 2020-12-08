@@ -257,16 +257,16 @@
 - file: collaboration/collaboration
   sections:
   - title: Getting starting on GitHub
-    file: collaboration/easyway
+    file: collaboration/github-novice
     sections:
-    - title: Why learn how to use GitHub?
-      file: collaboration/easyway/sc1_why_learn_how
+    - title: Motivation for Using GitHub
+      file: collaboration/github-novice/github-novice-motivation
     - title: First steps on Github
-      file: collaboration/easyway/sc2_first_steps_on_github
+      file: collaboration/github-novice/github-novice-firststeps
     - title: Using more Github features
-      file: collaboration/easyway/sc3_using_more_github_features
+      file: collaboration/github-novice/github-novice-features
     - title: Advanced Github features
-      file: collaboration/easyway/sc4_advanced_github_features
+      file: collaboration/github-novice/github-novice-advanced
   - title: Collaborating on GitHub
     file: collaboration/github-collaboration
     sections:
