@@ -22,7 +22,7 @@ This is what you should see now. The diagram below explains what all the buttons
 
 ```{figure} ../../figures/easyway1_basic_diagram.jpg
 ---
-size: 500px
+height: 500px
 name: easyway1_basic_diagram
 alt: Annotated diagram of repository after it’s basic creation – explaining the main features. Explained in the title.
 ---
@@ -54,7 +54,7 @@ You can now edit it.
 
 ```{figure} ../../figures/easyway2_readme_before_edit.jpg
 ---
-size: 500px
+height: 500px
 name: easyway2_readme_before_edit
 alt: Annotated diagram of README.md file, if you click on the file name on your landing page. Explained in the title.
 ---
@@ -64,7 +64,7 @@ Title: Annotated diagram of README.md file, if you click on the file name on you
 
 ```{figure} ../../figures/easyway3_readme_after_edit.jpg
 ---
-size: 500px
+height: 500px
 name: easyway3_readme_after_edit
 alt: Annotated diagram of README.md file in edit mode – before editing. Explained in the title.
 ---
@@ -120,11 +120,11 @@ It has a text file for your LICENSE.md file and also a shield that you can put a
 You can find more information about licenses in the {ref}`licensing<rr-licensing>` chapter of The Turing Way. 
 
 ```{figure} ../../figures/easyway4_edited_readme.jpg
-size: 500px
+height: 500px
 name: easyway4_edited_readme
 alt: Annotated diagram of README.md file in edit mode – with a template added. Explained in the title.
 ---
-Annotated diagram of README.md file in edit mode – with a template added. 1. Using MarkDown to add content to README.md: This shows what you have written Markdown (denoted by ‘.md’ in the file extension) text for your README.md file. This example shows the template file that has different sections (headers are created by using ‘#’ symbol. For more details, see how to use MarkDown content).
+Tilte: Annotated diagram of README.md file in edit mode – with a template added. 1. Using MarkDown to add content to README.md: This shows what you have written Markdown (denoted by ‘.md’ in the file extension) text for your README.md file. This example shows the template file that has different sections (headers are created by using ‘#’ symbol. For more details, see how to use MarkDown content).
 
 ```
 
