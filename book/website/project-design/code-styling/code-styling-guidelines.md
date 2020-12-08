@@ -1,13 +1,14 @@
 (pd-code-styling-guidelines)=
 # Guidelines for Code Styling
 
-Style guidelines differ between organisations, languages, and over time. (The Python style guide Python Enhancement Proposal 8 has had numerous revisions since it was released in 2001).
-It is important that you work to a framework that is best for your purposes: be they for your benefit, or the benefit of others.
+Style guidelines differ between organisations, languages, and over time. 
+Even, the Python style guide Python Enhancement Proposal 8 (PEP 8) has had numerous revisions since it was released in 2001.
+You must choose a framework that is best for your purposes: be they for your benefit or the benefit of others.
 It is also important to remain consistent (and not consistently inconsistent)!
 
 Style guidelines include advice for file naming, variable naming, use of comments, and whitespace and bracketing.
 
-The following are links to existing style guide that may be of use when deciding how to format your code:
+The following are links to existing style guides that may be of use when deciding how to format your code:
 
 * [PEP8](https://www.python.org/dev/peps/pep-0008/) for Python.
 * [Hadley Wickham's](http://adv-r.had.co.nz/Style.html) style guide for R.
@@ -19,11 +20,11 @@ However, to get started quickly, the following sections present some advice for 
 
 ## File Naming
 
-The [Centre for Open Science](http://help.osf.io/m/bestpractices/l/609932-file-naming) has some useful suggestions for naming of files, particularly ensuring that they are readable for both humans and machines.
+The [Centre for Open Science](http://help.osf.io/m/bestpractices/l/609932-file-naming) has some useful suggestions for the naming of files, particularly ensuring that they are readable for both humans and machines.
 This includes avoiding the use of wildcard characters (@£$%) and using underscores ("\_") to delimit information, and dashes ("\-") to conjunct information or spaces.
-They also suggest dating or numbering files, and avoiding words like FINAL (or FINAL-FINAL).
+They also suggest dating or numbering files and avoiding words like FINAL (or FINAL-FINAL).
 The dating suggestion is the long format `YYYY-MM-DD`, followed by the name of the file, and the version number.
-This results in an automatic, chronological order. For example:
+This results in automatic, chronological order. For example:
 
 ```r
 data <- read.csv("2019-05-17_Turing-Way_Book-Dash.csv")
@@ -46,9 +47,9 @@ This indicates that the software is in the unrevised/patched alpha stage (0) of 
 
 ## Variable Naming
 
-In maths projects at school,  variables are often unimaginatively named "x","y", and "z".
+In maths projects at school,  variables are often unimaginatively named "x", "y", and "z".
 This brevity is probably because teachers (understandably) do not want to repeatedly write long variable names on the board.
-In coding however, you have the freedom to name your variables anything you like.
+In coding, however, you have the freedom to name your variables anything you like.
 This can be useful for representing the flow of your script.
 
 Be creative!
@@ -93,7 +94,7 @@ remove(rawDat) #In R
 del(rawDat) # In Python
 ```
 
-It is important to choose ones style and stick to it:
+It is important to choose one style and stick to it:
 
 ```
 ThisIs Because_SwitchingbetweenDifferentformats is.difficult to read.
