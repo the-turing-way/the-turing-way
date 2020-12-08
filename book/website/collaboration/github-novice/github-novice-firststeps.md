@@ -24,9 +24,24 @@ This is what you should see now. The diagram below explains what all the buttons
 ---
 height: 500px
 name: github-basic-diagram
-alt: Annotated diagram of repository after it’s basic creation – explaining the main features. Explained in the title.
+alt: Annotated diagram of repository after it’s basic creation – explaining the main features. Explained in the figure legend.
+align: left
 ---
-Title: Annotated diagram of repository after it’s basic creation – explaining the main features. On the left side of the webpage we have the following features: 1. Username: GitHub user’s name (account). In this example, the username is “EKaroune”.  2. Repository: project directory (also known as repo). In this example, the repository name is “trial repository”. 3. Code: this tab brings you back to your landing page. It shows you the folders that you have made in the repo; 4. Main: this is your default development branch or active branch of your repository. 5. Branch: parallel version(s) of your repository. 6. README.md file: This file contains basic information about your project (in this case it only has the project name: “trial-repo”. When we plan to make a website, this will be rendered as a landing (front) page for your site. On the left side of the webpage we have the following features: 7. Green Code button: click it to download your repository locally. 8. + symbol: where you can create new repository, import repos, and create new issues. 9. Fork: create a personal copy of another user’s repo, here you can see how many forks there are of your repository. 10: Add file: create or upload a file to your repository. 11: Commits/clock symbol: Click to see the history of this file as a list of all the edits (commits) saved in different time points. 12: Edit/Pencil symbol: Click this pencil symbol to edit your README.md file.
+Annotated diagram of repository after it’s basic creation – explaining the main features. On the left side of the webpage we have the following features:
+- **1. Username:** GitHub user’s name (account). In this example, the username is “EKaroune”.
+- **2. Repository:** project directory (also known as repo). In this example, the repository name is “trial repository”.
+- **3. Code:** this tab brings you back to your landing page. It shows you the folders that you have made in the repo.
+- **4. Main:** this is your default development branch or active branch of your repository.
+- **5. Branch:** parallel version(s) of your repository.
+- **6. README.md file:** This file contains basic information about your project (in this case it only has the project name: “trial-repo”. When we plan to make a website, this will be rendered as a landing (front) page for your site.
+
+On the right side of the webpage we have the following features:
+- **7. Green Code button:** click it to download your repository locally.
+- **8. '+' symbol:** where you can create new repository, import repos, and create new issues.
+- **9. Fork:** create a personal copy of another user’s repo, here you can see how many forks there are of your repository.
+- **10: Add file:** create or upload a file to your repository.
+- **11: Commits/clock symbol:** Click to see the history of this file as a list of all the edits (commits) saved in different time points.
+- **12: Edit/Pencil symbol:** Click this pencil symbol to edit your README.md file.
 ```
 
 ## 3. Edit your README.md file
@@ -35,11 +50,8 @@ You will now be in the landing page for your repository.
 There are lots of buttons and features on this page but don’t worry about these at the moment.
 
 You will have one file in your repository now - README.md. So, the first thing you need to do is edit this file.
-
 This file is a Markdown file and you can see this because it has “.md” after the name of the file.
-
 Whatever you write in this file will be shown on the landing (top) page of your project on Github so you need to tell people all about your project.
-
 This is where you start to use the Markdown formatting.
 
 To edit your README.md file:
@@ -56,22 +68,36 @@ You can now edit it.
 ---
 height: 500px
 name: github-readme-before-edit
-alt: Annotated diagram of README.md file, if you click on the file name on your landing page. Explained in the title.
+alt: Annotated diagram of README.md file, if you click on the file name on your landing page. Explained in the figure legend.
+align: left
 ---
-Title: Annotated diagram of README.md file, if you click on the file name on your landing page. 1. Repository and current file: This tells you that you the repo name and the file name that you are in. 2. Main branch: This tell you that you are in the main repository and can be used to change to different branches of your repo (if there are more branches previously created). 3. Contributors: This shows how many contributors (users) have contributed to your file. 4. README.md file content: The content of your README.md file will appear here when we edit more information. 5. Raw: this shows you the raw markdown text file. 6. Blame: this shows you the last modification made to each line of the file. It can be used to track when and who made changes and go back to older versions of the file to fix bugs. 7. Edit file: Click this pencil to edit your README.md file. 8. Delete file: Click the Bin to delete this file.
+Annotated diagram of README.md file, if you click on the file name on your landing page.
+- **1. Repository and current file:** This tells you that you the repo name and the file name that you are in.
+- **2. Main branch:** This tell you that you are in the main repository and can be used to change to different branches of your repo (if there are more branches previously created).
+- **3. Contributors:** This shows how many contributors (users) have contributed to your file.
+- **4. README.md file content:** The content of your README.md file will appear here when we edit more information.
+- **5. Raw file:** this shows you the raw markdown text file.
+- **6. Blame:** this shows you the last modification made to each line of the file. It can be used to track when and who made changes and go back to older versions of the file to fix bugs.
+- **7. Edit file:** Click this pencil to edit your README.md file.
+- **8. Delete file:** Click the Bin to delete this file.
+```
+
+* Keep it simple! When you’re working in any field, whether it’s software engineering or astrophysics, you’ll learn and use jargon – terms that have a special meaning to your field but likely won’t make sense to anyone who isn’t part of that field. Too much jargon can confuse newcomers, so use simple language and define all potentially confusing terms here.
+* Share your project with others - describe what you are doing now and what you want to do in the future.
+* Tell people who you are and how you can be contacted.
 
 ```{figure} ../../figures/github-readme-after-edit.jpg
 ---
 height: 500px
 name: github-readme-after-edit
 alt: Annotated diagram of README.md file in edit mode – before editing. Explained in the title.
+align: left
 ---
-Title: Annotated diagram of README.md file in edit mode – before editing. 1. Preview changes = press to see you text rendered (how it would appear in Github and on a web page). 2. Edit file = press this tab to edit the content of your README.md file. 3. Add content to README.md: This is where you write the Markdown text for your README.md file. You currently only have the repository title.
+Annotated diagram of README.md file in edit mode – before editing.
+- **1. Preview changes:** press to see you text rendered (how it would appear in Github and on a web page).
+- **2. Edit file:** press this tab to edit the content of your README.md file.
+- **3. Add content to README.md:** This is where you write the Markdown text for your README.md file. You currently only have the repository title.
 ```
-
-* Keep it simple! When you’re working in any field, whether it’s software engineering or astrophysics, you’ll learn and use jargon – terms that have a special meaning to your field but likely won’t make sense to anyone who isn’t part of that field. Too much jargon can confuse newcomers, so use simple language and define all potentially confusing terms here.
-* Share your project with others - describe what you are doing now and what you want to do in the future.
-* Tell people who you are and how you can be contacted.
 
 **NOTE: If you’re having trouble getting started, it’s a good idea to look at other peoples README.md files.**
 
@@ -88,7 +114,7 @@ If you click the link above, it will take you to their README.file. You can use 
 * Remember to check what it looks like by clicking on the preview changes tab.
 * When you have finished editing, you need to scroll down to the bottom of the page and press the green commit changes button.
 
-Commit is like a save button.
+Commit is like a "save button" in an online file like Google doc.
 
 Whatever changes you have made in the file will be deposited into your repository.
 
@@ -118,10 +144,12 @@ It has a text file for your LICENSE.md file and also a shield that you can put a
 You can find more information about licenses in the {ref}`licensing<rr-licensing>` chapter of The Turing Way.
 
 ```{figure} ../../figures/github-edited-readme.jpg
+---
 height: 500px
 name: /github-edited-readme
-alt: Annotated diagram of README.md file in edit mode – with a template added. Explained in the title.
+alt: Annotated diagram of README.md file in edit mode – with a template added. Explained in the figure legend.
+align: left
 ---
-Tilte: Annotated diagram of README.md file in edit mode – with a template added. 1. Using MarkDown to add content to README.md: This shows what you have written Markdown (denoted by ‘.md’ in the file extension) text for your README.md file. This example shows the template file that has different sections (headers are created by using ‘#’ symbol. For more details, see how to use MarkDown content).
-
+Annotated diagram of README.md file in edit mode – with a template added.
+- **1. Using MarkDown to add content to README.md:** This shows what you have written Markdown (denoted by ‘.md’ in the file extension) text for your README.md file. This example shows the template file that has different sections (headers are created by using ‘#’ symbol. For more details, see how to use MarkDown content).
 ```

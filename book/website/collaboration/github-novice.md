@@ -1,7 +1,7 @@
 (cl-github-novice)=
 # Getting Started With Github
 
-## Prerequisites / recommended skill level
+## Prerequisites
 
 | Prerequisite |  Importance  |  Notes  |
 | ---------------- |------------------ | --------- |

@@ -38,7 +38,12 @@ This is what a repository looks like when it is set up as a collaborative projec
 ---
 height: 500px
 name: github-project
-alt: Annotated diagram of README.md file on landing page with template added. Explained in title.
+alt: Annotated diagram of README.md file on landing page with template added. Explained in figure legend.
+align: left
 ---
-Title: Annotated diagram of README.md file on landing page with template added. 1. Files in the repo, shows newly added License file: All the files in your repository should be visible when you visit the repo. Here you can see that in addition to the README.md file, we have also added a here are LICENSE.md file containing information about which license we use for this repository. 2. Markdown file rendered (not raw): This shows how the Markdown text in your README.md file is rendered. 3. License details: Your landing page should describe what kind of license your repo uses. 4. License information: Since we have added a license file, the details appear here automatically.
+Annotated diagram of README.md file on landing page with template added.
+- **1. Files in the repo, shows newly added License file:** All the files in your repository should be visible when you visit the repo. Here you can see that in addition to the README.md file, we have also added a here are LICENSE.md file containing information about which license we use for this repository. 
+- **2. Markdown file rendered (not raw):** This shows how the Markdown text in your README.md file is rendered.
+- **3. License details:** Your landing page should describe what kind of license your repo uses.
+- **4. License information:** Since we have added a license file, the details appear here automatically.
 ```
