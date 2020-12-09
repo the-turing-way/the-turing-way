@@ -53,20 +53,19 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * Role: Infrastructure Maintainer (2018 - 2019)
 * GitHub id: [alexmorley](http://github.com/alexmorley)
 * ORCID: [TBA](https://orcid.org/TBA)
+
 * Short bio:
 > I am a Mozilla Fellow (2018-) and a PhD Candidate at the MRC Brain Network Dynamics Unit at the University of Oxford (2015-).
 > I also receive support from the Software Sustainability Institute Fellowship programme (2018) and Microsoft/Research Software England Cloud Computing Fellowship programme (2018).
 > My undergraduate degree was in Medicine at the University of Oxford (2012-2015).
 
+* Personal Highlight:
+> As a core contributros I want to share "Why I care about the Turing Way?: When people don't use best practices in data science its almost always because they either don't know about them, or feel they don't have time. Advocates will tell people that the time is saved in the long-term, but it's a hard sell.
+> By providing concrete, incremental, but authoritative, guidance I believe the Turing Way could provide the nudge that allows people to realise the benefits for themselves, and lowers the barrier for more researchers to acquire these highly valued skills.
+
 * More information:
 > I really want research to be accessible, but in a much broader sense than the word is often used. I would love to see a world where re-mixing research is a common thing, whether that be re-mixing figures to make them easier to understand, re-using data to generate new insights, or testing new methods to see how our theories might need to change.
 > Slightly less on topic, but just as important, I am also passionate about the development and adoption of best-practices in governance. Safe and inclusive spaces are all too rare in academia, and I think some part of that can be solved by doing away with our laissez-faire attitude towards governance and management.
-
-**Why do you care about the Turing Way?**
-
-> When people don't use best practices in data science its almost always because they either don't know about them, or feel they don't have time. Advocates will tell people that the time is saved in the long-term, but it's a hard sell.
-> By providing concrete, incremental, but authoritative, guidance I believe the Turing Way could provide the nudge that allows people to realise the benefits for themselves, and lowers the barrier for more researchers to acquire these highly valued skills.
-
 
 ### Anna Krystalli
 
@@ -88,16 +87,14 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Batool Almarzouq
 
-* Role**: Book Dash November 2020 Attendee
-* ORCID**: [0000-0002-3905-2751](https://orcid.org/my-orcid)
-* Short bio**: 
+* Role: Book Dash November 2020 Attendee
+* ORCID: [0000-0002-3905-2751](https://orcid.org/my-orcid)
+* Short bio: 
 > I'm the founder of R-Ladies in Saudi Arabia (Dammam). I initially majored in pharmacology but quickly developed an interest in biochemistry, structural biology, and bioinformatics. I enjoy applying deep learning to answer biological questions. 
 
 * Personal highlights: 
 > I am currently co-developing a chapter on "CI services". I have helped upgrade the Jupyter Book Infrastructure and add [hypothes.is](https://web.hypothes.is/) to enable collaborative annotation of _The Turing Way_ chapters. I have also translated the README.me chapter in Arabic.
-
-* Quote:
->I find it hard to express my personal thoughts and feelings in words. This was such an amazing experience. It helped me to develop my technical skills. Thank you so much to everyone I met in this Book Dash event :heart:.
+> Personal quote: "I find it hard to express my personal thoughts and feelings in words. This was such an amazing experience. It helped me to develop my technical skills. Thank you so much to everyone I met in this Book Dash event :heart:."
 
 ### Becky Arnold
 
@@ -185,8 +182,7 @@ I'm an independent post-doctoral researcher working in the field of Environmenta
 * GitHub id: [HeidiSeibold](https://github.com/HeidiSeibold)
 * ORCID id: [0000-0002-8960-9642](https://orcid.org/0000-0002-8960-9642)
 * Short bio:
-> I lead a group on Open AI in Health at the Helmholtz Zentrum Munich.
-I develop machine learning methods to figure out which patients react well to certain treatments and implements these methods in R.
+> I lead a group on Open AI in Health at the Helmholtz Zentrum Munich. I develop machine learning methods to figure out which patients react well to certain treatments and implements these methods in R.
 > My passion for open and reproducible research has led me to join the Turing Way community. I am involved in meta-research projects (research about research), I support, teach and contribute to open projects such as The Turing Way.
 > My work for the *Journal of Statistical Software* includes reproducibility checks. We only publish papers which are fully computationally reproducible. I also work on making our machine-learning software more user-friendly, reusable and extensible. Together with a PhD student I am thinking about how to
 use data from hospitals to help doctors and patients find the right treatment
@@ -207,10 +203,10 @@ about open and reproducible (data) science. I am currently thinking a lot about
 how we could use the content from The Turing Way and turn it into a course.
 This idea was also part of an application, where I proposed to start a new
 group on *Open AI*.
+> Specifically, I have co-authored these chapters: [Research Compendia](https://the-turing-way.netlify.app/reproducible-research/compendia.html), [File Naming Convention](https://the-turing-way.netlify.app/project-design/filenaming.html), and reviewed many contributions.
 > I regularly recommend The Turing Way as a resource. Both for learning more
 about reproducible data science and also when discussing specific topics.
 I think that people are taking it on and reading it :)
-> Specifically, I have co-authored these chapters: [Research Compendia](https://the-turing-way.netlify.app/reproducible-research/compendia.html), [File Naming Convention](https://the-turing-way.netlify.app/project-design/filenaming.html), and reviewed many contributions.
 
 * More information:
 > First, I would like to continue to help create content, review others content
@@ -258,6 +254,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > Since my undergraduate degree, I have worked in fintech and then in arts organisations within human resources teams, finally reaching the Alan Turing Institute and helping support the Ethics Advisory Group.
 > I think my highlight is that I've got a great background as a generalist!
 > I am currently really thrilled to be working alongside [Laura Carter](https://github.com/LauraCarter) and [Sophia Batchelor](https://github.com/BrainonSilicon) to build a community around the Guide for Ethical Research!
+> Personal quote: "Research Ethics is complex, and two related concepts are Responsible Research and Innovation (RRI) and Research Integrity. Depending on whether we wear an RRI hat or research integrity goggles, we will encounter different research ethics questions. But it is important to wear the two at all times. I call this Steampunk Research Ethics."
 
 * More information:
 > I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there!
@@ -322,6 +319,9 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * More information:
 > I'm interested in feminist and queer research methodologies and in interrogating structures of power and systems of categorisation. Throughout my career, most of my work has been on understanding these systems, how they work, and how they harm: so that they can be dismantled!
 > More information about me on my [website](https://lauracarter.github.io/).
+
+* Personal Quote:
+> "I'm not from a tech field but I've learned so much about github as a tool for collaborative working: thanks so much for everyone who was part of the November 2020 book dash for all your useful advice!"
 
 
 ### Louise Bowler
@@ -393,9 +393,6 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > My focus is on using good software engineering practices to increase the impact of research software by making it reusable, reliable and robust
 > I also have a strong interest in reproducible research, and am working to improve the tools and working practices at the Turing to make it easier for our researchers to work reproducibly
 > I've moved back and forth between industry and academia over the years, gaining an MSc in Artificial Intelligence and a PhD in Computational Neuroscience along the way.
-
-* Personal highlights:
-> `TBA`
 
 * More information:
 > I feel strongly that researchers have a responsibility to ensure that the outcomes of their research are made available to all - researchers, practitioners and the public.
@@ -469,15 +466,8 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > You can see the full report from GSoD participation [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/GSOD-applications/GSoD-2020-Project-Report.md).
 > The BookDash November 2020 was great! It was awesome to meet, collaborate, and share ideas with people from around the world. Beyond the Book Dash, The Turing Way is the very first open-source project I have ever worked on. The experience has been fantastic, and I intend to stick around as a contributor after the Google Season of Docs program ends. I also see myself getting involved in other open-source projects.
 
-# A Quote:
+# Personal Quote:
 > Asides technical skills, I developed a deep appreciation for what working on an open source project entails. My mentors helped me realise that the value I left behind from the GSoD program was not in the amount of work I did, but how I enabled other contributors to also do the work I was doing. As a result, I learned to contribute as a Technical Writer in a manner that was reproducible, sustainable, accessible, and inclusive.
-
-
-* More information:
-> I enjoy browsing through and collecting memes.
-> I am also interested in the intersection of Machine Learning, Information Retrieval, and Natural Language Processing.
-> I am also very grateful for the opportunity to work with people (who I may not have met otherwise) from around the world.
-
 
 <!---Q--->
 
@@ -494,9 +484,6 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > I am a Research Data Librarian at the University of Manchester, co-leading the research data management support service.
 > My focus is on data sharing, training and encouraging researchers to engage in Open Research.
 > My background is in the social sciences and I have recently started a PhD with the British Library and the University of Sheffield looking at Open Access and the role of the National Library.
-
-* Personal highlights:
-> `TBA`
 
 * More information:
 > I am passionate about Supporting researchers! Making it as easy as possible for researchers to make their research reproducible and open, and for this to be easier than undertaking research in a closed manner.
@@ -537,9 +524,11 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * Role: OLS-2 for Turing mentor, Book Dash November 2020 Attendee
 * GitHub id: [SamGuay](https://github.com/SamGuay)
 * ORCID: [0000-0001-6990-839X](https://orcid.org/0000-0001-6990-839X)
+
 * Short bio:
 > I'm a PhD student in Cognitive Neuroscience at the University of Montreal, Canada, researching the effects of repetitive head impacts inactive and retired athletes with a neuroimaging perspective. In parallel, I've started the [Open Science UMontreal](https://umontreal.openscience.ca) initiative to equip early-career scientists with better knowledge and tools to implement more open science in their workflow. The OSUM community members are really awesome :rocket:.
 > Specifically, I have been working to set a process to translate _The Turing Way_ in French. I contributed to adding [hypothes.is](https://web.hypothes.is/) to _The Turing Way_.
+
 * Personal highlight:
 > The whole November 2020 Book Dash was my highlight. I got to know a welcoming community and amazing humans throughout the week. It was amazing to witness so much progress in that tiny amount of time.
 
@@ -569,7 +558,6 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * ORCID: [0000-0002-8572-2058](https://orcid.org/0000-0002-8572-2058)
 * Short bio:
 >I am a PhD student at the University of Leeds studying sensorimotor learning with the Center for Immersive Technologies. My research focuses on understanding how how our brains interprets, and responds to both our physical reality, and a constructed reality (AR/VR). I do this through a deep love of the brain and emerging technologies. We will soon be existing in the future that we are creating now; so when we build with a "people first" (or a brain first) philosophy, we end up building a space that allows people to flourish.
-
 
 * Personal highlights:
 > MY FIRST CONTRIBUTION TO THE TURING WAY! It's an absolute honor to join The Turing Way community as we look towards an open, ethical, and accessible future. After having such a mixed STEM and non-STEM background, I'm thrilled to have joined this community as it grows and guides my thinking about how and what it means to do research.
