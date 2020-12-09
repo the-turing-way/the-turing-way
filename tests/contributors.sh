@@ -2,8 +2,8 @@
 # Copy the latest contributors.md file content to afterword
 # this will publish the contributors file online in The Turing Way book
 
-all_contributors=$(find . -type f -name README.md) # Path to the main README file of The Turing Way
-contributors_highlight=$(find . -type f -name contributors.md)
+all_contributors="./README.md" # Path to the main README file of The Turing Way
+contributors_highlight="./contributors.md"
 contributors_record="./book/website/afterword/contributors-record.md"
 
 # Copy everything from the contributors highlight
