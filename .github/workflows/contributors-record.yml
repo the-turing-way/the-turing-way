@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     # This section collects together the steps involved in running the test
     steps:
-      - name: Checkout branch for Pull Requesting to GitHub
+      - name: Checkout branch
         uses: actions/checkout@v2
 
       # Run a simple script that combines content from 2 files
@@ -30,3 +30,13 @@ jobs:
           git add ./book/website/afterword/contributors-record.md
           git commit -am 'automated update of Contributors Record'
           git push
+
+      # # Create a PR with changes
+      # - name: pull-request
+      #   uses: repo-sync/pull-request@v2
+      #   with:
+      #     source_branch: "" # If blank, default: triggered branch
+      #     destination_branch: "master" # If blank, default: master
+      #     pr_title: "Update Contributors Record in Afterword" # Title of pull request
+      #     pr_label: "automated-pr"
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}

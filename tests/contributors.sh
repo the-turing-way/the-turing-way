@@ -4,15 +4,15 @@
 
 all_contributors=$(find . -type f -name README.md) # Path to the main README file of The Turing Way
 contributors_highlight=$(find . -type f -name contributors.md)
-contributors_record=$(find ./book/website/afterword/ -type f -name contributors-record.md)
+contributors_record="./book/website/afterword/contributors-record.md"
 
 # Copy everything from the contributors highlight
-echo '(aw-contributors-record-highlights)=' > $contributors_record
+echo '(contributors-record-highlights)=' > $contributors_record
 cat $contributors_highlight >> $contributors_record
 
 # # Get linenumber where all contributors list starts
 line_num=$(grep -n '## Contributors' $all_contributors | cut -d: -f1)
-echo '\n(aw-contributors-record-contributors)=' >> $contributors_record
+echo '\n(contributors-record-contributors)=' >> $contributors_record
 
 tail -n +"$line_num" "$all_contributors" | while read line;
 do

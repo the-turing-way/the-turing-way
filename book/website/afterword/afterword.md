@@ -1,3 +1,4 @@
+(afterword)=
 # Afterword
 
 The last part of _The Turing Way_ book is called **Afterword**.
