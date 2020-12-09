@@ -14,6 +14,7 @@ on:
       - master
     types:
       - opened
+
 # Set up the Continuous Integration job
 jobs:
   ContributorsRecord:
