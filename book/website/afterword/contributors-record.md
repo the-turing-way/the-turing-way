@@ -237,7 +237,7 @@ I would like to be a part of it.
 
 * Personal highlights:
 > Turing Way was my first foray into Open Source, and I have found it extremely helpful in learning both about general github and open source practices as well as being part of a moving and collaborative community. I especially loved being part of an extremely multidisciplinary group of people, really shows me the real span of Data Science!
-> The ethics book has been a great source of interest for me as it encompasses many of the issues I both grappled with, debated and deliberated upon extensively during my own data science projects. 
+> The ethics book has been a great source of interest for me as it encompasses many of the issues I both grappled with, debated and deliberated upon extensively during my own data science projects.
 > During my time working on the Data Anonymization Chapter (Issue: #1578 , Pull Request: #1579 ) I managed to read more extensively about anonymization and I found answers to many of the questions that had previously bothered me.
 > I really hope that the work we've done here to consolidate all these ethical guidelines will help make practicing data science with a strong ethical basis and clear moral conscience more easy and accessible.
 
@@ -253,18 +253,13 @@ I would like to be a part of it.
 * Short bio:
 > I’m Ethics Research Assistant at the Alan Turing Institute. I have a BSc in Business Management and Administration and am currently working towards an MSc in Philosophy of the Social Sciences. I am also an associate member of the Chartered Institute of Personnel and Development (CIPD).
 
-<<<<<<< HEAD
-*Personal highlights:
->Since my undergraduate degree, I have worked in fintech and then in arts organisations within human resources teams, finally reaching the Alan Turing Institute and helping support the Ethics Advisory Group since April 2020. I think my highlight is that I’ve got a great background as a generalist! I am currently really thrilled to be working alongside Laura Carter and Sophia Batchelor to build a community around the Guide for Ethical Research! And I am proud to introduce the concept of Steampunk Ethical Research.
-=======
 * Personal highlights:
 > Since my undergraduate degree, I have worked in fintech and then in arts organisations within human resources teams, finally reaching the Alan Turing Institute and helping support the Ethics Advisory Group.
 > I think my highlight is that I've got a great background as a generalist!
 > I am currently really thrilled to be working alongside [Laura Carter](https://github.com/LauraCarter) and [Sophia Batchelor](https://github.com/BrainonSilicon) to build a community around the Guide for Ethical Research!
->>>>>>> 83b3d92a3618ddc967e8adeac0d763dd747fee11
 
 *More information:
->I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there. 
+>I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there.
 
 <!---J--->
 
@@ -339,7 +334,7 @@ I would like to be a part of it.
 > I enjoy designing training resources around leadership in research in collaboration with [Open Life Science](https://openlifesci.org/).
 
 * More information:
-On a broader scale, I work at the intersection of community building and computation research and brings expertise in technical training development, event design and evidence-based pedagogical practices in data science. 
+On a broader scale, I work at the intersection of community building and computation research and brings expertise in technical training development, event design and evidence-based pedagogical practices in data science.
 
 ### Martin O'Reilly
 
