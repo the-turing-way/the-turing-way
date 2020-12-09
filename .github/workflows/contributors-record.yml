@@ -13,8 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     # This section collects together the steps involved in running the test
     steps:
-    # Checkout the repository. Relies on another GH-Action.
-      - name: Checkout branch for Pull Requesting to GitHub Pages
+      - name: Checkout branch for Pull Requesting to GitHub
         uses: actions/checkout@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
