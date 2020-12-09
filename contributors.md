@@ -63,7 +63,7 @@ Highlighted contributions to _The Turing Way_ include:
 > I'm really passionate about the concept of making science "open for all".
 > I take that to mean we should share all of our outputs - the data, code and protocols that we develop - whether they're "significant" or not.
 > But it also includes making those outputs FAIR - findable, accessible, interoperable and reusable. I am an advocate for greater diversity in STEM and in data science and particularly passionate about improving the ways we reward collaborative and supportive working.
-> Finally, I'd like to pivot to having data science project be developed in the open from the beginning and with a decision making governance processs that is inclusive and community-lead.
+> Finally, I'd like to pivot to having data science project be developed in the open from the beginning and with a decision making governance process that is inclusive and community-lead.
 
 **Contributors names should be added alphabetically**
 
@@ -84,12 +84,12 @@ Highlighted contributions to _The Turing Way_ include:
 
 * More information:
 > I really want research to be accessible, but in a much broader sense than the word is often used. I would love to see a world where re-mixing research is a common thing, whether that be re-mixing figures to make them easier to understand, re-using data to generate new insights, or testing new methods to see how our theories might need to change.
-> Slightly less on topic, but just as important, I am also passionate about the development and adoption of best-practices in governance. Safe and inclusive spaces are all too rare in acedemia, and I think some part of that can be solved by doing away with our laissez-faire attitude towards governance and management.
+> Slightly less on topic, but just as important, I am also passionate about the development and adoption of best-practices in governance. Safe and inclusive spaces are all too rare in academia, and I think some part of that can be solved by doing away with our laissez-faire attitude towards governance and management.
 
 **Why do you care about the Turing Way?**
 
 > When people don't use best practices in data science its almost always because they either don't know about them, or feel they don't have time. Advocates will tell people that the time is saved in the long-term, but it's a hard sell.
-> By providing concrete, incremental, but authoratitve, guidance I believe the Turing Way could provide the nudge that allows people to realise the benefits for themselves, and lowers the barrier for more researchers to acquire these highly valued skills.
+> By providing concrete, incremental, but authoritative, guidance I believe the Turing Way could provide the nudge that allows people to realise the benefits for themselves, and lowers the barrier for more researchers to acquire these highly valued skills.
 
 
 ### Anna Krystalli
@@ -252,8 +252,15 @@ I would like to be a part of it.
 * Short bio:
 > I’m Ethics Research Assistant at the Alan Turing Institute. I have a BSc in Business Management and Administration and am currently working towards an MSc in Philosophy of the Social Sciences. I am also an associate member of the Chartered Institute of Personnel and Development (CIPD).
 
+<<<<<<< HEAD
 *Personal highlights:
 >Since my undergraduate degree, I have worked in fintech and then in arts organisations within human resources teams, finally reaching the Alan Turing Institute and helping support the Ethics Advisory Group since April 2020. I think my highlight is that I’ve got a great background as a generalist! I am currently really thrilled to be working alongside Laura Carter and Sophia Batchelor to build a community around the Guide for Ethical Research! And I am proud to introduce the concept of Steampunk Ethical Research.
+=======
+* Personal highlights:
+> Since my undergraduate degree, I have worked in fintech and then in arts organisations within human resources teams, finally reaching the Alan Turing Institute and helping support the Ethics Advisory Group.
+> I think my highlight is that I've got a great background as a generalist!
+> I am currently really thrilled to be working alongside [Laura Carter](https://github.com/LauraCarter) and [Sophia Batchelor](https://github.com/BrainonSilicon) to build a community around the Guide for Ethical Research!
+>>>>>>> 83b3d92a3618ddc967e8adeac0d763dd747fee11
 
 *More information:
 >I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there. 
@@ -564,7 +571,7 @@ Details of each members with their contributions have been listed alphabetically
 * GitHub id: [mkuzak](http://github.com/mkuzak)
 * ORCID: [0000-0003-0087-6021](https://orcid.org/0000-0003-0087-6021)
 * Short bio:
->Mateusz obtained his master degree in Biotechnology with specialization Biophysics, at the Jagiellonian University, Krakow, Poland. In September 2019 Mateusz joined the Netherlands eScience Center in the role of Community Officer with the focus on communities and training around Research Software Engineering, software best practices and sustainability, and the role of software in open science and reproducible research. Since 2015, Mateusz has been involved in the Carpentries community, first as an instructor, later contributor, mentor, Executive Counsil member and instructor trainer. He is also leading the Dutch chapter of the Carpentries and is on the core team of nl-RSE community.
+>Mateusz obtained his master degree in Biotechnology with specialization Biophysics, at the Jagiellonian University, Krakow, Poland. In September 2019 Mateusz joined the Netherlands eScience Center in the role of Community Officer with the focus on communities and training around Research Software Engineering, software best practices and sustainability, and the role of software in open science and reproducible research. Since 2015, Mateusz has been involved in the Carpentries community, first as an instructor, later contributor, mentor, Executive Council member and instructor trainer. He is also leading the Dutch chapter of the Carpentries and is on the core team of nl-RSE community.
 
 * Personal highlights:
 > In _The Turing Way_...

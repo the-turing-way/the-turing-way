@@ -78,14 +78,12 @@ In the label, replace `keyidea3` with a word that best describes the section or 
 > Remember to use the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) and Jupyter Book's [Cheat Sheet](https://jupyterbook.org/reference/cheatsheet.html) to guide your writing.
 > The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
 
-## Summary for your subchapter
+(sectioninitials-filename-summary)=
+## Summary
 
-> Please add a short summary of this subchapter with key take away
-> Provide link to the next chapter/subchapter you may recommend your readers to go to after reading this subchapter
+> **Add a short summary of this subchapter with key takeaways.**
+> You may also recommend and link to other chapters/subchapters you want your readers to explore after reading this subchapter.
 
-## Further reading
-
-> You may provide links to the detailed document or article that your readers can visit for a deep dive into the topic discussed in this subchapter
 
 <!-- IMPORTANT!
 
