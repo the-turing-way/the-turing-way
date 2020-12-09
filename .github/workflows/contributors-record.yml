@@ -20,8 +20,16 @@ jobs:
           ./tests/contributors.sh
       - name: Add contributors-record.md to Afterword and commit changes
         run: |
-          git add ./book/website/afterword/contributors-record.md
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git add ./book/website/afterword/contributors-record.md
           git commit -am 'authomated update of Contributors Record'
           git push
+      - name: pull-request
+        uses: repo-sync/pull-request@v2
+        with:
+          source_branch: ""                                   # If blank, default: triggered branch
+          destination_branch: "master"                        # If blank, default: master
+          pr_title: "Update Contributors Record in Afterword" # Title of pull request
+          pr_label: "automated-pr,community"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
