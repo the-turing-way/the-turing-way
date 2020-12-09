@@ -1,5 +1,6 @@
+(rr-renv-checklist)=
 # Checklist
 
-- [ ] Choose the most appropriate method for your project for capturing your computational environment
-- [ ] Capture your computational environment
-- [ ] Share your captured computational environment along with your results/analysis
+- Choose the most appropriate method for your project for capturing your computational environment
+- Capture your computational environment
+- Share your captured computational environment along with your results/analysis

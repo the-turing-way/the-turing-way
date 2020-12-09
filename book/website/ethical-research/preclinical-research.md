@@ -8,9 +8,9 @@ Society continually debate the use of animals in scientific research.
 The fundamental questions are whether experiments using animals are morally justifiable and whether the potential benefits outweigh the suffering of those animals?
 These questions have been coupled with increasing concern about the poor reproducibility of findings from animal research, due to the impact this has on translation, scientific progress and the use of resources.
 A question that is not often addressed is how those justified experiments are designed, conducted and analysed.
-Flawed experimental design, inappropriate statistical analysis and inadequate reporting have been flagged as areas for major concern ({cite}`Kilkenny2009AnimalExperiments,Begley2015Reproducibility`).
+Flawed experimental design, inappropriate statistical analysis and inadequate reporting have been flagged as areas for major concern {cite}`Kilkenny2009AnimalExperiments,Begley2015Reproducibility`.
 It is morally incumbent upon us to ensure that animal experiments are appropriately designed, conducted and analysed otherwise the results are at risk of being unreliable.
-If the results are unreliable then the animals used have in effect have been wasted ({cite}`Ioannidis2014IncreasingValue,deVries2014ReviewAnimalExp`)).
+If the results are unreliable then the animals used have in effect have been wasted {cite}`Ioannidis2014IncreasingValue,deVries2014ReviewAnimalExp`.
 
 ## How this will help you/ why this is useful
 Many preclinical researchers do not think of themselves as data scientists.
@@ -41,9 +41,6 @@ The tool ensures that you have a transparent, clear protocol and plan for statis
 ## Further reading
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
 > less relevant/favourite resources in case someone wants to dig into this in detail
-
-## Definitions/glossary
-> Link to the glossary here or copy in key concepts/definitions that readers should be aware of to get the most out of this chapter
 
 ## Bibliography
 

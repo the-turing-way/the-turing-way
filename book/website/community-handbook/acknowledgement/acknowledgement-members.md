@@ -12,7 +12,7 @@ Their contributions may include carrying out small tasks such as reporting bugs,
 As discussed in the next subchapter, these contributors are highlighted in the {ref}`Contributors Table<aw-contributors-record-contributors>`.
 
 Many contributors will also make substantial contributions such as writing a subchapter, maintaining community interactions, setting up or maintaining project's infrastructure, helping others in their work and supporting their participation.
-All the substantial contributors are also highlighted in the Contributors Table and named as co-authors on the book as a whole.
+All the substantial contributors are also highlighted in the Contributors Table and named as co-authors [{term}`def<Authors>`] on the book as a whole.
 As stated in our [Governance document](https://github.com/alan-turing-institute/the-turing-way/blob/master/GOVERNANCE.md), "substantial contribution" is a subjective term.
 Therefore, we have tried to add much detail as possible in the next subchapters through personas, contribution types and acknowledgements of those contributions including when a contributor is named as an author.
 

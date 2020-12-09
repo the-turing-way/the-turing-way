@@ -4,7 +4,6 @@
 
 - [What to learn next](#What_to_learn_next)
 - [Further reading](#Further_reading)
-- [Definitions/glossary](#Definitions_glossary)
 - [Bibliography](#Bibliography)
 
 <a name="What_to_learn_next"></a>
@@ -16,41 +15,6 @@ Try reading the chapter on reproducible computational environments and then the 
 ## Further reading
 
 [TutorialsPoint](https://www.tutorialspoint.com/software_testing/) has a number of useful tutorials related to testing, as does the [Turing Institute](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/01testingbasics.html). It is also worth looking at [softwaretestingfundamentals.com](http://softwaretestingfundamentals.com).
-
-<a name="Definitions_glossary"></a>
-## Definitions/glossary
-
-- **Acceptance test:** A test that the program meets the project's fundamental requirements.
-
-- **Code coverage:** A measure which describes how much of the source code is exercised by the test suite.
-
-- **End to end test:** A test that runs the program from beginning to end and verifies that the output is correct.
-
-- **Integration test:** A test where units of code are combined and run, and the output is verified to check the units have been correctly integrated.
-
-- **Mocking:** Replace a real object with a pretend one to use when running tests.
-
-- **Regression test:** Comparing the result of a test before and after the code has been altered. If the output has changed a problem has been introduced somewhere in the program, and an error is thrown.
-
-- **Runtime test:** Tests embedded within the program which are run as part of it.
-
-- **Smoke test:** Very brief initial checks that ensure the basic requirements needed to run the project hold.
-
-- **Stochastic code:** Code which, while correct, does not always output the same result. For example a program that outputs ten random numbers will generate a different result each time, despite being correct.
-
-- **System test:** See "end to end test".
-
-- **Test driven development:** A process of code development where unit tests are written before the units themselves.
-
-- **Test stub:** Fake implementations of parts of code which are used in testing to remove dependences.
-
-- **Test suite:** The tests that have been written for a project.
-
-- **Testing framework:** Tools that make writing and running tests less labour intensive.
-
-- **Unit:** A small piece of code that does one simple thing. It usually has one or a few inputs and usually a single output.
-
-- **Unit test:** A test that checks the behaviour of a unit.
 
 <a name="Bibliography"></a>
 ## Bibliography
@@ -97,7 +61,7 @@ Try reading the chapter on reproducible computational environments and then the 
 ### Materials used: Regression testing
 
 - [Sound software](http://soundsoftware.ac.uk/unit-testing-why-bother/) **Creative Commons Attribution-NonCommercial 3.0 License**
-- [Software testing fundamentalsL regression testing](http://softwaretestingfundamentals.com/regression-testing/) **Copyleft**
+- [Software testing fundamentals regression testing](http://softwaretestingfundamentals.com/regression-testing/) **Copyleft**
 - [Examples of Regression Testing by Cem Karner](http://www.testingeducation.org/k04/RegressionExamples.htm) **Creative Commons Attribution-ShareAlike License 2.0**
 - [Adopting automated testing](https://github.com/softwaresaved/automated_testing/blob/master/README.md) **Apache License 2.0**
 

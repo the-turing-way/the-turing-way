@@ -1,15 +1,7 @@
+(rr-make-examples-learnmake)=
 # Learn "Make" by Examples
 
-## Table of contents
-
-- [Makefiles](#makefiles)
-  - [Setting up](#setting-up)
-  - [Makefile no. 1 (The Basics)](#makefile-no-1-the-basics)
-  - [Makefile no. 2 (all and clean)](#makefile-no-2-all-and-clean)
-  - [Makefile no. 3 (Phony Targets)](#makefile-no-3-phony-targets)
-  - [Makefile no. 4 (Automatic Variables and Pattern Rules)](#makefile-no-4-automatic-variables-and-pattern-rules)
-  - [Makefile no. 5 (Wildcards and Path Substitution)](#makefile-no-5-wildcards-and-path-substitution)
-
+(rr-make-examples-makefiles)=
 ## Makefiles
 
 One of the things that might discourage someone from using Make is that 
@@ -31,6 +23,7 @@ follows:
 *Throughout the tutorial code blocks that start with a dollar sign (``$``) are
 intended to be typed in the terminal.*
 
+(rr-make-examples-settingup)=
 ### Setting up
 
 We have created a basic repository for this task, that already contains
@@ -79,6 +72,7 @@ You will also need a working version of ``pdflatex`` and, of course, ``make``.
 For installation instructions for Make, see 
 {ref}`rr-make-resources-installing`.
 
+(rr-make-examples-makefile1)=
 ### Makefile no. 1 (The Basics)
 
 Let's create our first Makefile. In the terminal, move into the
@@ -158,7 +152,7 @@ dependency graph for our first Makefile, created using
 [makefile2graph](https://github.com/lindenb/makefile2graph). Notice the 
 similarity to the figure {ref}`in the introduction<rr-make-summary>`!</small>
 
-
+(rr-make-examples-makefile2)=
 ### Makefile no. 2 (all and clean)
 
 In our first Makefile we have the basic rules in place. We could stick with
@@ -215,6 +209,7 @@ $ make
 Make should remove the output and intermediate files after the first command,
 and generate them again after the second.
 
+(rr-make-examples-makefile3)=
 ### Makefile no. 3 (Phony Targets)
 
 Typically, ``all`` and ``clean`` are defined as so-called [Phony
@@ -257,6 +252,7 @@ declared as phony.
 > have a directory of tests called **test** and want to have a target to run
 > them that's also called **test**.
 
+(rr-make-examples-makefile4)=
 ### Makefile no. 4 (Automatic Variables and Pattern Rules)
 
 There's nothing wrong with the Makefile we have now, but it's somewhat verbose
@@ -338,7 +334,7 @@ An advantage of this is that if you now want to add another dataset, say
 ``input_file_3``, then you would only need to add that to the rule for the
 report!
 
-
+(rr-make-examples-makefile5)=
 ### Makefile no. 5 (Wildcards and Path Substitution)
 
 When Makefiles get more complex, you may want to use more advanced features

@@ -130,12 +130,3 @@ It is also a good practice to actively ask contributors who are very busy to tak
 * [How to guide to workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 * [A Blog on Open source and academia](https://opensource.com/article/19/9/how-open-source-academic-work)
 
-## Definitions/glossary
-
-* **Repository or Project**: this is similar to a directory on the local system. Any contributor can put in programs, files, and folders in it so that the project will be safely stored on a GitHub account.
-* **Commit(s)**: these are the changes that are made in a file of a project remotely. The local changes can be pushed to a remote repository with the help of a commit along with a message.
-* **Issues**: GitHub provides the feature of creating issues on a repository. Issues that are hindering the project to work smoothly or an issue that contains an idea to be added on a project can be created with this feature.
-* **Pull request**: after creating changes a request is created for the maintainer or the owner of the organisation or project to review. The owner or maintainer can review it and comment on these pull requests, and then the requests can be merged.
-* **Owners and Maintainers**: the project creators, maintainers, and owners, who have a higher level of access when compared to all other members or contributors working together on a GitHub project.
-* **Review**: suggesting changes or asking for committing something to an already created PR.
-* **Merging**: merging a PR means merging changes that have been reviewed by a maintainer or an admin to a project for making it better.
