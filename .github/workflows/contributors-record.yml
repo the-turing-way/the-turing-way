@@ -31,12 +31,12 @@ jobs:
           git commit -am 'automated update of Contributors Record'
           git push
 
-      # # Create a PR with changes
-      # - name: pull-request
-      #   uses: repo-sync/pull-request@v2
-      #   with:
-      #     source_branch: "" # If blank, default: triggered branch
-      #     destination_branch: "master" # If blank, default: master
-      #     pr_title: "Update Contributors Record in Afterword" # Title of pull request
-      #     pr_label: "automated-pr"
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      # Create a PR with changes
+      - name: pull-request
+        uses: repo-sync/pull-request@v2
+        with:
+          source_branch: "" # If blank, default: triggered branch
+          destination_branch: "master" # If blank, default: master
+          pr_title: "Update Contributors Record in Afterword" # Title of pull request
+          pr_label: "automated-pr"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
