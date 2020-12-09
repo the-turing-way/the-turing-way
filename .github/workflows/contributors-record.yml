@@ -1,0 +1,52 @@
+# Give your test a name!
+name: ContributorsRecord
+
+# Decide when to run the tests
+#
+# This configuration sets the test to run on pushes to master
+# and on pull requests that are opened to master
+on:
+  schedule:
+    - cron:  '*/1 * * * *'
+    # minute (0 - 59), hour (0 - 23), day of month (1 - 31), month(1 - 12 or JAN-DEC), day of week (0 - 6 or SUN-SAT)
+
+# Set up the Continuous Integration job
+jobs:
+  ContributorsRecord:
+    # Run on the latest Ubuntu distribution
+    runs-on: ubuntu-latest
+    # This section collects together the steps involved in running the test
+    steps:
+    # Checkout the repository. Relies on another GH-Action.
+      - name: Checkout branch for Pull Requesting to GitHub Pages
+        uses: actions/checkout@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          ref: pr-pages
+          fetch-depth: 1
+          submodules: true
+      - name: Combine contributors.md and contributors table
+        run: |
+          ./tests/contributors.sh
+      - name: Add contributors-record.md to Afterword
+        run: |
+          git add ./book/website/afterword/contributors-record.md
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m 'Update Contributors Record in Afterword'
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: pr-pages
+      - name: Initialize Pull Request
+        uses: gha-utilities/init-pull-request@v0.2.0
+        with:
+          verbose: true
+          pull_request_token: ${{ secrets.GITHUB_TOKEN }}
+          head: pr-pages
+          base: gh-pages
+          title: 'Update Contributors Record in Afterword weekly'
