@@ -1,2 +1,2 @@
 (contributors-record-highlights)=
-# Contributors Record
+# Record of Contributions
