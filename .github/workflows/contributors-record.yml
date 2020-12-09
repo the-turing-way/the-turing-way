@@ -12,6 +12,8 @@ on:
   pull_request:
     branches:
       - master
+    types:
+      - opened
 
 # Set up the Continuous Integration job
 jobs:
