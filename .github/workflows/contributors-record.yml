@@ -15,8 +15,6 @@ jobs:
     steps:
       - name: Checkout branch for Pull Requesting to GitHub
         uses: actions/checkout@v2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Combine contributors.md and contributors table
         run: |
           ./tests/contributors.sh
