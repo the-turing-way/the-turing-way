@@ -21,11 +21,9 @@ jobs:
       - name: Combine contributors.md and contributors table
         run: |
           ./tests/contributors.sh
-      - name: Add contributors-record.md to Afterword
+      - name: Add contributors-record.md to Afterword and commit changes
         run: |
           git add ./book/website/afterword/contributors-record.md
-      - name: Commit changes
-        run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -am 'authomated update of Contributors Record'
