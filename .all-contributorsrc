@@ -2261,6 +2261,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "fuadreza",
+      "name": "Fuad Reza Pahlevi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25898509?v=4",
+      "profile": "https://www.linkedin.com/in/fuad-reza-pahlevi-531283160/",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "projectName": "the-turing-way",
