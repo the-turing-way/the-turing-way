@@ -42,8 +42,6 @@ Proyek ini dikembangkan secara terbuka dan semua pertanyaan, komentar, dan rekom
 Ini adalah (bagian dari) tim pekerjaan perencanaan proyek di Turing Institute.
 Untuk lebih lanjut tentang cara menghubungi kami, lihat [ways of working document](ways_of_working.md).
 
-![Team photo](book/website/figures/TuringWayTeam.jpg)
-
 ### Berkontribusi
 
 :construction: Repositori ini selalu dalam pengerjaan dan **setiap orang** dianjurkan untuk membantu kami membangun sesuatu yang berguna bagi banyak orang. :construction:
