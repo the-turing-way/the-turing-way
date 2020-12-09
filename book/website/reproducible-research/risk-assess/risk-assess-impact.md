@@ -3,7 +3,7 @@
 We all use risk assessments all the time. Sometimes they’re formal procedures to ensure an activity is safe, but most of the time they’re the thought of a moment- Is this coffee too hot?
 Is there a bus coming? Software is no different, and using a risk assessment approach like the one described below can really help make your work successful and sustainable.
 
-### The risk matrix
+## The risk matrix
 
 A risk matrix is a very popular way of quantifying what’s going on with the thing you’re interested in. One axis measures exposure in some way, and the other the impact of a mishap.
 The further from the origin, the more safeguards are needed to make the risk acceptable.
@@ -35,8 +35,7 @@ Case 2...
 The key point of these case studies is that every piece of software has different needs to be sustainable, and these requirements can change over time. The use of version control, testing, documentation and other sustainability concepts are useful for managing risk. Using none of these tools leaves your software exposed to things going wrong, but using all of them from the outset can get in the way of innovation.
 The risk assessment approach helps you find the right balance for now. Revisit the topic once in a while, or when something circumstances change.
 
-<a name="More_about_measuring_complexity"></a>
-### More about measuring complexity
+## More about measuring complexity
 One measure of complexity is line count.
 The more lines you have the more places there are to make a mistake. However, there are other things one might care about.
 How many libraries do you depend on? How many functions are there? All of these measure the complexity of the codebase.
@@ -48,8 +47,7 @@ What types of computer are people using it on?
 CPU? GPU? Raspberry Pi?
 Take a broad view of your software.
 
-<a name="More_about_measuring_impact"></a>
-### More about measuring impact
+## More about measuring impact
 What happens when (not if) your software doesn’t work?
 Sometimes, it just annoys you for a few minutes.
 However, other software going wrong can have huge consequences- the retraction of your seminal paper or even lives being lost.

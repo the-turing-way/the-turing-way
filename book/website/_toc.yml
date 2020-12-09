@@ -426,7 +426,8 @@
 
 # ===== Afterward Section ========================================
 
-- file: afterword/afterword
+- title: Afterword
+  file: afterword/afterword
   sections:
   - title: Glossary
     file: afterword/glossary
