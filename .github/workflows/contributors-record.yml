@@ -15,9 +15,14 @@ jobs:
     steps:
       - name: Checkout branch for Pull Requesting to GitHub
         uses: actions/checkout@v2
+
+      # Run a simple script that combines content from 2 files
       - name: Combine contributors.md and contributors table
         run: |
+          chmod +x ./tests/contributors.sh
           ./tests/contributors.sh
+
+      # Run git steps for add, commiy, push changes
       - name: Add contributors-record.md to Afterword and commit changes
         run: |
           git config --local user.email "action@github.com"
@@ -25,6 +30,8 @@ jobs:
           git add ./book/website/afterword/contributors-record.md
           git commit -am 'authomated update of Contributors Record'
           git push
+
+      # Create a PR with changes    
       - name: pull-request
         uses: repo-sync/pull-request@v2
         with:
