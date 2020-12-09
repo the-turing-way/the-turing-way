@@ -12,7 +12,8 @@ on:
   pull_request:
     branches:
       - master
-
+    types:
+      - opened
 # Set up the Continuous Integration job
 jobs:
   ContributorsRecord:
@@ -28,5 +29,13 @@ jobs:
         ./tests/contributors.sh
     - uses: EndBug/add-and-commit@v5
       with:
+            - uses: EndBug/add-and-commit@v5
+      if: github.event.pull_request
+      with:
         add: ./book/website/afterword/contributors-record.md
-        message: 'Update book/website/afterword/contributors-record.md'
+        message: 'Add contributors-record.md to Afterword'
+        author_name: CI User
+        author_email: ci-user@github.local
+        branch: ${{ github.head_ref }}  # This can only be used when triggered by a PR
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
