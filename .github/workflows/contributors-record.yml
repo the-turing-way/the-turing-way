@@ -1,10 +1,7 @@
 # Give your test a name!
 name: ContributorsRecord
 
-# Decide when to run the tests
-#
-# This configuration sets the test to run on pushes to master
-# and on pull requests that are opened to master
+# runs weekly - testing for per minute
 on:
   schedule:
     - cron:  '*/1 * * * *'
