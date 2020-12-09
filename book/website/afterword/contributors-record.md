@@ -237,7 +237,7 @@ I would like to be a part of it.
 
 * Personal highlights:
 > Turing Way was my first foray into Open Source, and I have found it extremely helpful in learning both about general github and open source practices as well as being part of a moving and collaborative community. I especially loved being part of an extremely multidisciplinary group of people, really shows me the real span of Data Science!
-> The ethics book has been a great source of interest for me as it encompasses many of the issues I both grappled with, debated and deliberated upon extensively during my own data science projects.
+> The ethics book has been a great source of interest for me as it encompasses many of the issues I both grappled with, debated and deliberated upon extensively during my own data science projects. 
 > During my time working on the Data Anonymization Chapter (Issue: #1578 , Pull Request: #1579 ) I managed to read more extensively about anonymization and I found answers to many of the questions that had previously bothered me.
 > I really hope that the work we've done here to consolidate all these ethical guidelines will help make practicing data science with a strong ethical basis and clear moral conscience more easy and accessible.
 
@@ -253,13 +253,18 @@ I would like to be a part of it.
 * Short bio:
 > I’m Ethics Research Assistant at the Alan Turing Institute. I have a BSc in Business Management and Administration and am currently working towards an MSc in Philosophy of the Social Sciences. I am also an associate member of the Chartered Institute of Personnel and Development (CIPD).
 
+<<<<<<< HEAD
+*Personal highlights:
+>Since my undergraduate degree, I have worked in fintech and then in arts organisations within human resources teams, finally reaching the Alan Turing Institute and helping support the Ethics Advisory Group since April 2020. I think my highlight is that I’ve got a great background as a generalist! I am currently really thrilled to be working alongside Laura Carter and Sophia Batchelor to build a community around the Guide for Ethical Research! And I am proud to introduce the concept of Steampunk Ethical Research.
+=======
 * Personal highlights:
 > Since my undergraduate degree, I have worked in fintech and then in arts organisations within human resources teams, finally reaching the Alan Turing Institute and helping support the Ethics Advisory Group.
 > I think my highlight is that I've got a great background as a generalist!
 > I am currently really thrilled to be working alongside [Laura Carter](https://github.com/LauraCarter) and [Sophia Batchelor](https://github.com/BrainonSilicon) to build a community around the Guide for Ethical Research!
+>>>>>>> 83b3d92a3618ddc967e8adeac0d763dd747fee11
 
 *More information:
->I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there.
+>I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there. 
 
 <!---J--->
 
@@ -334,7 +339,7 @@ I would like to be a part of it.
 > I enjoy designing training resources around leadership in research in collaboration with [Open Life Science](https://openlifesci.org/).
 
 * More information:
-On a broader scale, I work at the intersection of community building and computation research and brings expertise in technical training development, event design and evidence-based pedagogical practices in data science.
+On a broader scale, I work at the intersection of community building and computation research and brings expertise in technical training development, event design and evidence-based pedagogical practices in data science. 
 
 ### Martin O'Reilly
 
@@ -366,7 +371,7 @@ On a broader scale, I work at the intersection of community building and computa
 
 ### Martina G. Vilas
 
-* Role: Core contributor, Jupyter Book Infrastructure Maintainer (2020)
+* Role: Core contributor, JupyterBook Infrastructure Maintainer (2020)
 * GitHub id: [martinagvilas](http://github.com//martinagvilas)
 * ORCID: [0000-0002-1097-8534](https://orcid.org/0000-0002-1097-8534)
 * Short bio:
@@ -567,11 +572,7 @@ Details of each members with their contributions have been listed alphabetically
 * GitHub id: [mkuzak](http://github.com/mkuzak)
 * ORCID: [0000-0003-0087-6021](https://orcid.org/0000-0003-0087-6021)
 * Short bio:
-<<<<<<< HEAD
->Mateusz obtained his master degree in Biotechnology with specialization Biophysics, at the Jagiellonian University, Krakow, Poland. In September 2019 Mateusz joined the Netherlands eScience Center in the role of Community Officer with the focus on communities and training around Research Software Engineering, software best practices and sustainability, and the role of software in open science and reproducible research. Since 2015, Mateusz has been involved in the Carpentries community, first as an instructor, later contributor, mentor, Executive Counsil member and instructor trainer. He is also leading the Dutch chapter of the Carpentries and is on the core team of nl-RSE community.
-=======
-> Mateusz obtained his master degree in Biotechnology with specialization Biophysics, at the Jagiellonian University, Krakow, Poland. In September 2019 Mateusz joined the Netherlands eScience Center in the role of Community Officer with the focus on communities and training around Research Software Engineering, software best practices and sustainability, and the role of software in open science and reproducible research. Since 2015, Mateusz has been involved in the Carpentries community, first as an instructor, later contributor, mentor, Executive Council member and instructor trainer. He is also leading the Dutch chapter of the Carpentries and is on the core team of nl-RSE community.
->>>>>>> 83b3d92a3618ddc967e8adeac0d763dd747fee11
+>Mateusz obtained his master degree in Biotechnology with specialization Biophysics, at the Jagiellonian University, Krakow, Poland. In September 2019 Mateusz joined the Netherlands eScience Center in the role of Community Officer with the focus on communities and training around Research Software Engineering, software best practices and sustainability, and the role of software in open science and reproducible research. Since 2015, Mateusz has been involved in the Carpentries community, first as an instructor, later contributor, mentor, Executive Council member and instructor trainer. He is also leading the Dutch chapter of the Carpentries and is on the core team of nl-RSE community.
 
 * Personal highlights:
 > In _The Turing Way_...
@@ -675,7 +676,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <td align="center"><a href="https://github.com/illushka"><img src="https://avatars1.githubusercontent.com/u/8143964?v=4" width="100px;" alt=""/><br /><sub><b>Chanuki Illushka Seresinhe</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=illushka" title="Documentation">📖</a></td>
 <td align="center"><a href="https://github.com/nadiasoliman"><img src="https://avatars0.githubusercontent.com/u/41086364?v=4" width="100px;" alt=""/><br /><sub><b>Nadia Soliman</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=nadiasoliman" title="Documentation">📖</a></td>
 <td align="center"><a href="https://scholar.google.co.uk/citations?user=o0cD2JgAAAAJ&hl=en"><img src="https://avatars3.githubusercontent.com/u/26226804?v=4" width="100px;" alt=""/><br /><sub><b>Andrew Stewart</b></sub></a><br /><a href="#tutorial-ajstewartlang" title="Tutorials">✅</a></td>
-<td align="center"><a href="https://github.com/Biostew"><img src="https://avatars3.githubusercontent.com/u/17767752?v=4" width="100px;" alt=""/><br /><sub><b>Sarah Stewart</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=BioStew" title="Documentation">📖</a></td>
+<td align="center"><a href="https://github.com/Biostew"><img src="https://avatars3.githubusercontent.com/u/17767752?v=4" width="100px;" alt=""/><br /><sub><b>Sarah Stewart</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=BioStew" title="Documentation">📖</a> <a href="#ideas-BioStew" title="Ideas, Planning, & Feedback">🤔</a></td>
 <td align="center"><a href="https://github.com/ots22"><img src="https://avatars1.githubusercontent.com/u/5434836?v=4" width="100px;" alt=""/><br /><sub><b>Oliver Strickson</b></sub></a><br /><a href="#question-ots22" title="Answering Questions">💬</a> <a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=ots22" title="Documentation">📖</a> <a href="#tutorial-ots22" title="Tutorials">✅</a></td>
 <td align="center"><a href="https://github.com/NatalieThurlby"><img src="https://avatars1.githubusercontent.com/u/17617308?v=4" width="100px;" alt=""/><br /><sub><b>Natalie Thurlby</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=NatalieThurlby" title="Code">💻</a> <a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=NatalieThurlby" title="Tests">⚠️</a></td>
 </tr>
@@ -835,7 +836,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <tr>
 <td align="center"><a href="http://varlotta.xyz"><img src="https://avatars3.githubusercontent.com/u/5478922?v=4" width="100px;" alt=""/><br /><sub><b>Angelo Varlotta</b></sub></a><br /><a href="#translation-varlottaang" title="Translation">🌍</a></td>
 <td align="center"><a href="http://www.robots.ox.ac.uk/~luca"><img src="https://avatars3.githubusercontent.com/u/3330489?v=4" width="100px;" alt=""/><br /><sub><b>Luca Bertinetto</b></sub></a><br /><a href="#translation-bertinetto" title="Translation">🌍</a></td>
-<td align="center"><a href="http://lacion.rbind.io"><img src="https://avatars3.githubusercontent.com/u/17729900?v=4" width="100px;" alt=""/><br /><sub><b>Laura Acion</b></sub></a><br /><a href="#a11y-lauracion" title="Accessibility">️️️️♿️</a> <a href="#translation-lauracion" title="Translation">🌍</a></td>
+<td align="center"><a href="http://lacion.rbind.io"><img src="https://avatars3.githubusercontent.com/u/17729900?v=4" width="100px;" alt=""/><br /><sub><b>Laura Acion</b></sub></a><br /><a href="#a11y-lauracion" title="Accessibility">️️️️♿️</a> <a href="#translation-lauracion" title="Translation">🌍</a> <a href="#content-lauracion" title="Content">🖋</a></td>
 <td align="center"><a href="http://www.drrebeccawilson.co.uk"><img src="https://avatars0.githubusercontent.com/u/5114032?v=4" width="100px;" alt=""/><br /><sub><b>beccawilson</b></sub></a><br /><a href="#a11y-beccawilson" title="Accessibility">️️️️♿️</a></td>
 <td align="center"><a href="https://github.com/yaseminturkyilmaz"><img src="https://avatars3.githubusercontent.com/u/45484225?v=4" width="100px;" alt=""/><br /><sub><b>yaseminturkyilmaz</b></sub></a><br /><a href="#blog-yaseminturkyilmaz" title="Blogposts">📝</a> <a href="#ideas-yaseminturkyilmaz" title="Ideas, Planning, & Feedback">🤔</a></td>
 <td align="center"><a href="https://github.com/Karvovskaya"><img src="https://avatars3.githubusercontent.com/u/44666630?v=4" width="100px;" alt=""/><br /><sub><b>Lenka</b></sub></a><br /><a href="#blog-Karvovskaya" title="Blogposts">📝</a></td>
@@ -863,6 +864,34 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <td align="center"><a href="http://www.madrimasd.org/blogs/bioinformatica"><img src="https://avatars1.githubusercontent.com/u/2072150?v=4" width="100px;" alt=""/><br /><sub><b>José María Fernández</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Ajmfernandez" title="Reviewed Pull Requests">👀</a></td>
 <td align="center"><a href="https://nl.linkedin.com/in/fakhereh-sarah-alidoost-11a24a89"><img src="https://avatars3.githubusercontent.com/u/55081872?v=4" width="100px;" alt=""/><br /><sub><b>SarahAlidoost</b></sub></a><br /><a href="#content-SarahAlidoost" title="Content">🖋</a></td>
 <td align="center"><a href="https://github.com/kderuyck"><img src="https://avatars3.githubusercontent.com/u/74196557?v=4" width="100px;" alt=""/><br /><sub><b>Kim De Ruyck</b></sub></a><br /><a href="#content-kderuyck" title="Content">🖋</a></td>
+<td align="center"><a href="https://github.com/glumand"><img src="https://avatars3.githubusercontent.com/u/55833875?v=4" width="100px;" alt=""/><br /><sub><b>glumand</b></sub></a><br /><a href="#translation-glumand" title="Translation">🌍</a></td>
+<td align="center"><a href="http://www.linkedin.com/pub/thomas-sandmann/21/61b/410/"><img src="https://avatars0.githubusercontent.com/u/10490984?v=4" width="100px;" alt=""/><br /><sub><b>Thomas Sandmann</b></sub></a><br /><a href="#translation-tomsing1" title="Translation">🌍</a></td>
+<td align="center"><a href="https://github.com/EKaroune"><img src="https://avatars2.githubusercontent.com/u/58147174?v=4" width="100px;" alt=""/><br /><sub><b>Em K</b></sub></a><br /><a href="#content-EKaroune" title="Content">🖋</a></td>
+<td align="center"><a href="https://github.com/wna-se"><img src="https://avatars3.githubusercontent.com/u/1221165?v=4" width="100px;" alt=""/><br /><sub><b>Wolmar Nyberg Åkerström</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Awna-se" title="Reviewed Pull Requests">👀</a></td>
+</tr>
+<tr>
+<td align="center"><a href="http://medium.com/@batool664"><img src="https://avatars1.githubusercontent.com/u/53487593?v=4" width="100px;" alt=""/><br /><sub><b>Batool</b></sub></a><br /><a href="#ideas-BatoolMM" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-BatoolMM" title="Content">🖋</a> <a href="#translation-BatoolMM" title="Translation">🌍</a> <a href="#infra-BatoolMM" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+<td align="center"><a href="https://github.com/irenekp"><img src="https://avatars2.githubusercontent.com/u/53008913?v=4" width="100px;" alt=""/><br /><sub><b>irenekp</b></sub></a><br /><a href="#content-irenekp" title="Content">🖋</a></td>
+<td align="center"><a href="https://github.com/nehamoopen"><img src="https://avatars3.githubusercontent.com/u/37183829?v=4" width="100px;" alt=""/><br /><sub><b>Neha Moopen</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Anehamoopen" title="Reviewed Pull Requests">👀</a> <a href="#content-nehamoopen" title="Content">🖋</a></td>
+<td align="center"><a href="https://twitter.com/complexbrains"><img src="https://avatars1.githubusercontent.com/u/45263281?v=4" width="100px;" alt=""/><br /><sub><b>Isil Bilgin</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Acomplexbrains" title="Bug reports">🐛</a></td>
+<td align="center"><a href="https://nordholmen.net"><img src="https://avatars1.githubusercontent.com/u/1325054?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Nüst</b></sub></a><br /><a href="#content-nuest" title="Content">🖋</a></td>
+<td align="center"><a href="https://github.com/leavanh"><img src="https://avatars2.githubusercontent.com/u/50297755?v=4" width="100px;" alt=""/><br /><sub><b>leavanh</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Aleavanh" title="Bug reports">🐛</a></td>
+<td align="center"><a href="http://ml-evs.science"><img src="https://avatars2.githubusercontent.com/u/7916000?v=4" width="100px;" alt=""/><br /><sub><b>Matthew Evans</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Aml-evs" title="Bug reports">🐛</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://bsipocz.github.io/"><img src="https://avatars1.githubusercontent.com/u/6788290?v=4" width="100px;" alt=""/><br /><sub><b>Brigitta Sipőcz</b></sub></a><br /><a href="#content-bsipocz" title="Content">🖋</a></td>
+<td align="center"><a href="https://github.com/sliaqat3"><img src="https://avatars2.githubusercontent.com/u/56300607?v=4" width="100px;" alt=""/><br /><sub><b>sliaqat3</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Asliaqat3" title="Reviewed Pull Requests">👀</a></td>
+<td align="center"><a href="https://github.com/rabbits99"><img src="https://avatars1.githubusercontent.com/u/72690233?v=4" width="100px;" alt=""/><br /><sub><b>rabbits99</b></sub></a><br /><a href="#translation-rabbits99" title="Translation">🌍</a></td>
+<td align="center"><a href="https://github.com/msanter01"><img src="https://avatars0.githubusercontent.com/u/39199660?v=4" width="100px;" alt=""/><br /><sub><b>msanter01</b></sub></a><br /><a href="#translation-msanter01" title="Translation">🌍</a> <a href="#talk-msanter01" title="Talks">📢</a></td>
+<td align="center"><a href="http://laboratoria.la"><img src="https://avatars0.githubusercontent.com/u/15850514?v=4" width="100px;" alt=""/><br /><sub><b>Lupe CaMay</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Aluucamay" title="Reviewed Pull Requests">👀</a></td>
+<td align="center"><a href="https://sksahu.net"><img src="https://avatars1.githubusercontent.com/u/23085664?v=4" width="100px;" alt=""/><br /><sub><b>Sangram K Sahu</b></sub></a><br /><a href="#ideas-sk-sahu" title="Ideas, Planning, & Feedback">🤔</a></td>
+<td align="center"><a href="https://github.com/jbteves"><img src="https://avatars3.githubusercontent.com/u/26722533?v=4" width="100px;" alt=""/><br /><sub><b>Joshua Teves</b></sub></a><br /><a href="#ideas-jbteves" title="Ideas, Planning, & Feedback">🤔</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/callummole"><img src="https://avatars1.githubusercontent.com/u/22677759?v=4" width="100px;" alt=""/><br /><sub><b>Callum Mole</b></sub></a><br /><a href="#ideas-callummole" title="Ideas, Planning, & Feedback">🤔</a></td>
+<td align="center"><a href="https://github.com/przemekdolata96"><img src="https://avatars3.githubusercontent.com/u/26312462?v=4" width="100px;" alt=""/><br /><sub><b>Przemek Dolata</b></sub></a><br /><a href="#translation-przemekdolata96" title="Translation">🌍</a></td>
+<td align="center"><a href="https://github.com/Kelly-dot"><img src="https://avatars0.githubusercontent.com/u/59481756?v=4" width="100px;" alt=""/><br /><sub><b>Kelly-dot</b></sub></a><br /><a href="#ideas-Kelly-dot" title="Ideas, Planning, & Feedback">🤔</a></td>
+<td align="center"><a href="https://www.linkedin.com/in/fuad-reza-pahlevi-531283160/"><img src="https://avatars1.githubusercontent.com/u/25898509?v=4" width="100px;" alt=""/><br /><sub><b>Fuad Reza Pahlevi</b></sub></a><br /><a href="#translation-fuadreza" title="Translation">🌍</a></td>
 </tr>
 </table>
 
