@@ -1,12 +1,10 @@
-## Prerequisites / recommended skill level
-
-| Prerequisite | Importance | Notes |
-| -------------|----------|------|
-| None needed | N/A | --- |
+# Introduction to Research Ethics
 
 ## Summary
 
-This section briefly introduces the key concepts of *Responsible Research and Innovation* (RRI) and *Research Integrity*. Both refer to different questions within the field of research ethics. Below is a table summarising these questions.
+This section briefly introduces the key concepts of *Responsible Research and Innovation* (RRI) and *Research Integrity*.
+Both refer to different questions within the field of research ethics. 
+Below is a table summarising these questions.
 
 | Factor | RRI | Research Integrity |
 | -------- | -------- | -------- |
@@ -14,7 +12,7 @@ This section briefly introduces the key concepts of *Responsible Research and In
 | **Who researchers interact with** | With research subjects (for example: do we treat them with respect?) | With fellow researchers (for example: do we adhere to a code of conduct?) |
 | **What shapes research** | Shaped by society (for example: how is AI as a solution generally understood?) | Shaped by institutional norms (for example: what research questions are being funded?) |
 
-## How this will help you/ why this is useful
+## Motivation
 > why we think you should read the whole thing
 
  In conducting research within academic institutions, it is common to be faced with ethical questions posed by "Ethics Committees". 
@@ -23,8 +21,7 @@ This section briefly introduces the key concepts of *Responsible Research and In
 
 ## Chapter content
 
-
-## Introducing Ethics
+### Introducing Ethics
 
  With no intention of doing justice to the vast literature that there is on the topic, we can take *Ethics* to be the subject of study of moral philosophy, which seeks --amongst other things -- to distinguish right from wrong. 
  Nowadays, philosophers speak of three levels of discussion in ethics (Fieser, IEP): metaethics, normative ethics and applied ethics. 
@@ -36,7 +33,7 @@ This section briefly introduces the key concepts of *Responsible Research and In
  Then we discuss two critical concepts relating with research ethics: *responsible research and innovation* and *research integrity*. 
  We then unpick the ethical questions different questions each concept raises. 
 
- ## Motivating Research Ethics
+ ### Motivating Research Ethics
 
  Taking *ethics* as the study of what behaviours are right and what behaviours are wrong highlights that it refers to *action*. 
  Considering this, ethics is relevant to research insofar that researchers are *acting* and *behaving* in certain ways when conducting their work. 
@@ -80,7 +77,7 @@ This section briefly introduces the key concepts of *Responsible Research and In
  Unlike in RRI, the question is no longer on the ethics of scientific output and its consequences, but on the ethics of how scientists conduct themselves in practice. 
  Research integrity, in a sense, captures the ethics of the work done “behind the scenes”, outside the view of the general public. 
  
-### Comparing RRI to Research Integrity
+#### Comparing RRI to Research Integrity
 
  The two concepts of RRI and research integrity are by no means entirely distinct, as they can overlap in important ways. 
  However, three differences between both concepts are outlined below for the purpose of drawing out more diverse questions pertaining to research ethics at large. 
@@ -128,9 +125,6 @@ This section briefly introduces the key concepts of *Responsible Research and In
 ## What to learn next
 
 There are plenty of ways to navigate the realm of Ethics at large and Research Ethics in particular. And there are many reasons why Research Ethics is important to science. We invite you to keep learning about RRI and research integrity, but also to reach out and support the building of this book!
-
-## Further reading
-
 
 ## Definitions/glossary
 
