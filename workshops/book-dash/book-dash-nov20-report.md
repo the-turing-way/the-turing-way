@@ -1,6 +1,6 @@
 # Book Dash November 2020 Report
 
-The fourth _The Turing Way_ Book Dash was hosted online from 9-13 November 2020.
+The fourth _The Turing Way_ Book Dash was hosted online from 9-13 November 2020 by Malvika Sharan and Kirstie Whitaker.
 
 ## Overview
 
