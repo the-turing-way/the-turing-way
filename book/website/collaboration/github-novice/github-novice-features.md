@@ -37,7 +37,7 @@ This is what a repository looks like when it is set up as a collaborative projec
 ```{figure} ../../figures/github-project.jpg
 ---
 name: github-project
-alt: Annotated diagram of repository after making it into a collaborative project.
+alt: Annotated diagram of the repository after making it into a collaborative project. Explained in the title.
 align: left
 ---
 Annotated diagram of repository after making it into a collaborative project.
