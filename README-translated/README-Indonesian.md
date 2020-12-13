@@ -12,7 +12,7 @@ Anda saat ini sedang melihat repositori proyek GitHub tempat semua bit yang memb
 
 Tujuan kami adalah menyediakan semua informasi yang dibutuhkan para peneliti di awal proyek mereka untuk memastikan bahwa mereka mudah untuk mereproduksi di akhir.
 
-Ini juga berarti memastikan mahasiswa PhD, postdoc, PI dan tim pendanaan mengetahui bagian mana dari "tanggung jawab reproduktifitas" yang dapat mereka pengaruhi, dan apa yang harus mereka lakukan untuk mendorong ilmu data menjadi lebih efisien, efektif, dan dapat dipahami.
+Ini juga berarti memastikan mahasiswa PhD, postdoc, PI dan tim pendanaan mengetahui bagian mana dari "tanggung jawab reproduktifitas" yang dapat mereka pengaruhi, dan apa yang harus mereka lakukan untuk mendorong *data science* menjadi lebih efisien, efektif, dan dapat dipahami.
 
 Daftar Isi:
 
@@ -20,26 +20,26 @@ Daftar Isi:
 - [Tim](#the-team)
 - [Berkontribusi](#contributing)
 - [Mengutip _The Turing Way_](#citing-the-turing-way)
-- [Berhubungan](#get-in-touch)
+- [Kontak](#get-in-touch)
 - [Kontributor](#contributors)
 
-🎧 Jika Anda lebih memilih audio untuk pengenalan proyek, anggota tim kami Rachael hadir di [Open Science Fair 2019](https://www.opensciencefair.eu/) di Porto dan demonya direkam di [Orion podcast](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
-_The Turing Way_ ikhtisar mulai pada menit 5:13.
+🎧 Jika Anda lebih memilih audio untuk pengenalan proyek, anggota tim kami Rachael yang hadir pada [Open Science Fair 2019](https://www.opensciencefair.eu/) di Porto dan demonya direkam di [Orion podcast](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
+Penjelasan _The Turing Way_ mulai pada menit 5:13.
 
 ### Tentang proyek
 
 Penelitian yang dapat direproduksi diperlukan untuk memastikan bahwa karya ilmiah dapat dipercaya.
-Pemberi dana dan penerbit mulai mewajibkan agar publikasi menyertakan akses ke data pokok dan kode analisis.
+Pemberi dana dan penerbit mulai mewajibkan agar publikasi menyertakan akses ke data pokok dan analisis kode.
 Tujuannya adalah untuk memastikan bahwa semua hasil dapat diverifikasi dan dibangun secara independen dalam pekerjaan di masa mendatang.
 Ini terkadang lebih mudah diucapkan daripada dilakukan.
-Berbagi hasil penelitian ini berarti memahami manajemen data, ilmu perpustakaan, pengembangan perangkat lunak, dan teknik integrasi berkelanjutan: keterampilan yang tidak diajarkan atau diharapkan secara luas oleh para peneliti akademis dan ilmuwan data. Karena kegiatan ini tidak diajarkan secara umum, kami menyadari bahwa beban persyaratan dan perolehan keterampilan baru dapat mengintimidasi individu yang baru mengenal dunia ini.
-*The Turing Way* adalah sebuah buku pegangan untuk mendukung pelajar, pengawas pelajar, penyandang dana dan editor jurnal dalam memastikan bahwa ilmu data yang dapat direproduksi "terlalu mudah untuk tidak dilakukan" bahkan untuk orang yang belum pernah bekerja dengan cara ini sebelumnya.
-Ini akan mencakup materi pelatihan tentang kontrol versi, pengujian analisis, dan komunikasi terbuka dan transparan dengan para pengguna di masa mendatang, serta mengembangkan studi kasus dan lokakarya di Turing Institute.
+Berbagi hasil penelitian ini berarti memahami manajemen data, ilmu perpustakaan, pengembangan perangkat lunak, dan teknik integrasi berkelanjutan: keterampilan yang tidak diajarkan atau diharapkan secara luas oleh para peneliti akademis dan *data scientist*. Karena kegiatan ini tidak diajarkan secara umum, kami menyadari bahwa beban persyaratan dan perolehan keterampilan baru dapat mengintimidasi individu yang baru mengenal dunia ini.
+*The Turing Way* adalah sebuah buku pegangan untuk mendukung pelajar, pengawas pelajar, penyandang dana dan editor jurnal dalam memastikan bahwa *data science* yang dapat direproduksi "terlalu mudah untuk tidak dilakukan" bahkan untuk orang yang belum pernah bekerja dengan cara ini sebelumnya.
+Ini akan mencakup materi pelatihan tentang *version control*, pengujian analisis, dan komunikasi terbuka dan transparan dengan para pengguna di masa mendatang, serta mengembangkan studi kasus dan lokakarya di Turing Institute.
 Proyek ini dikembangkan secara terbuka dan semua pertanyaan, komentar, dan rekomendasi diterima di repositori github kami: <https://github.com/alan-turing-institute/the-turing-way>.
 
 ### Tim
 
-Ini adalah (bagian dari) tim pekerjaan perencanaan proyek di Turing Institute.
+Ini adalah (bagian dari) tim proyek yang sedang merencanakan pekerjaan di Turing Institute.
 Untuk lebih lanjut tentang cara menghubungi kami, lihat [ways of working document](ways_of_working.md).
 
 ### Berkontribusi
@@ -77,9 +77,9 @@ Saat menggunakan salah satu gambar, harap sertakan atribusi berikut:
 Versi terbaru dari Zenodo dapat dikutip seperti:
 > The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300
 
-Kami telah menggunakan beberapa ilustrasi ini di [Welcome Bot](https://github.com/apps/welcome)'s tanggapan atas kontribusi anggota baru di repositori GitHub ini.
+Kami telah menggunakan beberapa ilustrasi ini pada tanggapan [Welcome Bot](https://github.com/apps/welcome) terhadap kontribusi anggota baru di repositori GitHub ini.
 
-### Berhubungan
+### Kontak
 
 Kami memiliki ruang obrolan gitter dan kami ingin Anda mampir untuk menyapa di <https://gitter.im/alan-turing-institute/the-turing-way>.
 Ruangan itu juga disinkronkan dengan [Matrix](https://matrix.org) di [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) dan Anda dipersilakan untuk bergabung dengan kami di sana jika Anda suka.
