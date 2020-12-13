@@ -40,10 +40,8 @@ height: 500px
 name: github-project
 alt: Annotated diagram of repository after making it into a collaborative project.
 align: left
-
 ---
 Annotated diagram of repository after making it into a collaborative project.
-
 Labels on the left-hand side of the image:
 - **1. Project:** This shows you the project boards for this repo.
 - **2. Issues:** All the tasks that have been raised on this repo.
