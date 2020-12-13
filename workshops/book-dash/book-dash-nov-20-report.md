@@ -28,9 +28,9 @@ This application was also open for the long term members from the community who 
 
 Applicants were asked to think about the collaborative element of the Book Dash and state how they can engage with other participants.
 To get a sense of the time zones these applicants come from, we asked them to choose their preferred slots during the day that they can join.
-You can see a template of this document [here](LINK).
+You can see a template of this document [here](https://tinyurl.com/tw-bookdash-template).
 
-We used the rubrics (as explained in the [online chapter]()) to score the applications during the review and selection process.
+We used the rubrics (as explained in the [online chapter](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application.html#reviewing-process)) to score the applications during the review and selection process.
 
 ### The book dash participants and event plan
 
