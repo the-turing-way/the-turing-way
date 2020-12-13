@@ -22,7 +22,6 @@ This is what you should see now. The diagram below explains what all the buttons
 
 ```{figure} ../../figures/github-basic-diagram.jpg
 ---
-height: 500px
 name: github-basic-diagram
 alt: Annotated diagram of repository after it’s basic creation – explaining the main features. Explained in the figure legend.
 align: left
@@ -66,7 +65,6 @@ You can now edit it.
 
 ```{figure} ../../figures/github-readme-before-edit.jpg
 ---
-height: 500px
 name: github-readme-before-edit
 alt: Annotated diagram of README.md file, if you click on the file name on your landing page. Explained in the figure legend.
 align: left
@@ -88,7 +86,6 @@ Annotated diagram of README.md file, if you click on the file name on your landi
 
 ```{figure} ../../figures/github-readme-after-edit.jpg
 ---
-height: 500px
 name: github-readme-after-edit
 alt: Annotated diagram of README.md file in edit mode – before editing. Explained in the title.
 align: left
@@ -145,7 +142,6 @@ You can find more information about licenses in the {ref}`licensing<rr-licensing
 
 ```{figure} ../../figures/github-edited-readme.jpg
 ---
-height: 500px
 name: /github-edited-readme
 alt: Annotated diagram of README.md file in edit mode – with a template added. Explained in the figure legend.
 align: left
