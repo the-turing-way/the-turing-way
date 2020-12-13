@@ -36,7 +36,6 @@ This is what a repository looks like when it is set up as a collaborative projec
 
 ```{figure} ../../figures/github-project.jpg
 ---
-height: 500px
 name: github-project
 alt: Annotated diagram of repository after making it into a collaborative project.
 align: left
