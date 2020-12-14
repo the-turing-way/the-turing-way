@@ -92,7 +92,7 @@ You can see the template document: https://hackmd.io/@turingway/template-bookdas
 
 #### Highlights of contributions from the event
 
--   The ethics team members, **Ismael Kherroubi Garcia, Laura Carter and Sophia Batchelor (UK)** were joined by **Irene Komal P. (India), Asha Susan Titus (UK) and Laura Acion (Argentina)** who managed to work on multiple chapters for the Guide for Ethical Research. 
+-  *Contributors to the Guide for Ethical Research*: **Ismael Kherroubi Garcia, Laura Carter and Sophia Batchelor (UK)** were joined by **Irene Komal P. (India), Asha Susan Titus (UK) and Laura Acion (Argentina)** who managed to work on multiple chapters for the Guide for Ethical Research. 
     -   Specifically, Ismael, Laura C. and Sophia managed to complete the chapter on [Introduction to Ethics](https://the-turing-way.netlify.app/ethical-research/ethics-intro.html) and drafted several other chapters in the following Pull Requests (PR): [#1394](https://github.com/alan-turing-institute/the-turing-way/pull/1394), [#1498](https://github.com/alan-turing-institute/the-turing-way/pull/1498) and [#1649](https://github.com/alan-turing-institute/the-turing-way/pull/1649). Laura A. contributed to reviewing a few of these PRs.
     -   Irene wrote a chapter on Data Anonymisation, currently being edited in [PR #1579](https://github.com/alan-turing-institute/the-turing-way/pull/1579).
     -   Asha started a chapter on activism ([PR #1582](https://github.com/alan-turing-institute/the-turing-way/pull/1582), which is currently edited by Laura in this PR: [#1675](https://github.com/alan-turing-institute/the-turing-way/pull/1675). 
