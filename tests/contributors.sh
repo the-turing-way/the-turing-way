@@ -10,7 +10,7 @@ contributors_record="./book/website/afterword/contributors-record.md"
 echo '(contributors-record-highlights)=' > $contributors_record
 cat $contributors_highlight >> $contributors_record
 
-# # Get linenumber where all contributors list starts
+# Get linenumber where all contributors list starts
 line_num=$(grep -n '## Contributors' $all_contributors | cut -d: -f1)
 echo '\n(contributors-record-contributors)=' >> $contributors_record
 
