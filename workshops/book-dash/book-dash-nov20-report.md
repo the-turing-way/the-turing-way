@@ -10,7 +10,26 @@ They also contribute to enhancing the project by improving the ways we work in t
 In the past, we have organised 1-1.5 day long Book Dash events in person or partially remote.
 However, with the COVID-19 pandemic situation this year, we moved the November's Book Dash online and designed them with multiple short co-working sessions spread over 5 days for flexible participation by members in different time zones.
 
-[TOC]
+## Table of Content
+
+-   [Book Dash November 2020 Report](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Book-Dash-November-2020-Report "Book Dash November 2020 Report")
+    -   [Overview](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Overview "Overview")
+        -   [Date and format of the event](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Date-and-format-of-the-event "Date and format of the event")
+        -   [Application, Review and Selection process](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Application-Review-and-Selection-process "Application, Review and Selection process")
+        -   [The book dash participants and event plan](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#The-book-dash-participants-and-event-plan "The book dash participants and event plan")
+    -   [Pre-dash drop-in calls: 4 November 2020](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Pre-dash-drop-in-calls-4-November-2020 "Pre-dash drop-in calls: 4 November 2020")
+    -   [Book Dash Week: 9-13 November 2020](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Book-Dash-Week-9-13-November-2020 "Book Dash Week: 9-13 November 2020")
+        -   [Informal sessions](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Informal-sessions "Informal sessions")
+        -   [Community Share-out](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Community-Share-out "Community Share-out")
+    -   [Illustrations by Scriberia Artist: Jem Milton](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Illustrations-by-Scriberia-Artist-Jem-Milton "Illustrations by Scriberia Artist: Jem Milton")
+    -   [Feedback](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Feedback "Feedback")
+        -   [Pluses](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Pluses "Pluses")
+        -   [Deltas](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Deltas "Deltas")
+    -   [What’s next?](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#What’s-next "What’s next?")
+        -   [Attend online Collaboration Cafes and coworking calls](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Attend-online-Collaboration-Cafes-and-coworking-calls "Attend online Collaboration Cafes and coworking calls")
+        -   [Contribute new topics or review open pull requests](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Contribute-new-topics-or-review-open-pull-requests "Contribute new topics or review open pull requests")
+        -   [Represent The Turing Way in your community/conference](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Represent-The-Turing-Way-in-your-communityconference "Represent The Turing Way in your community/conference")
+        -   [Join us on social media platforms](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Join-us-on-social-media-platforms "Join us on social media platforms")
 
 ### Date and format of the event
 
@@ -36,7 +55,7 @@ We used the rubrics (as explained in the [online chapter](https://the-turing-way
 
 Selected from a pool of applications, 20 candidates including two mentors were invited to attend this in-person event (see their names in the group picture below).
 
-![](https://i.imgur.com/xwDrgrX.png)
+![](figures/Nov20-BookDash.png)
 _Zoom screenshot of our community share-out event on 13 November 2020 at the Book Dash. Our Book Dash participants included Laura Acion (Argentina), Emma Karoune (UK), Marilina Santero (Spain/Argentina), Irene Komal (India), Asha Titus (UK), Ismael Kherroubi Garcia (Spain/UK), Martia Mangiarulo (UK/Italy), Laura Carter (UK), Neha Moopen (The Netherlands), Paul Owoicho (UK/Nigeria), Batool Almarzouq (Saudi Arabia/UK), Samuel Guay (Canada), Martina Vila (Germany), Sarah Gibson (UK), Sophia Batchelor (UK), Carlos Martinez-Oritz (The Netherlands), Lupe Canaviri Maydana (Bolivia) and Sangram Keshari Sahu (India). Several community members joined the share-out call on the last day._
 
 A participation support fund was made available for the participants to purchase small equipment or other resources (such as headphone, webcam, second screen, or software) that can improve the quality of their participation and enhance their overall experience of working with us for the entire week.
