@@ -112,6 +112,8 @@ We would love to hear from you, especially if you're not already involved in the
 For example, many people used the online repository structure, used its resources for developing the reproducibility plan, adapted the Code of Conduct for their projects, cited _The Turing Way_ in their manuscripts or grant proposals, and reused the community practices.
 You can see more responses to Kirstie's [Tweet](https://twitter.com/kirstie_j/status/1326126705270984710?s=20) and share your story with us under [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659). 
 
+All our contributors are invited to add their personal highlights and impact stories in the [Contributors’ file](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) so that we can update our [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html#personal-highlights-from-the-turing-way-contributors) and highlight your work.
+
 ### Presentations
 
 **Kirstie Whitaker** joined the panel and gave a presentation for the NeurIPS 2020 workshop (The pre-registration experiment: an alternative publication model for machine learning research (https://preregister.science)) under the title: “The Turing Way: Transparent research through the scientific lifecycle” on 11 December 2020. 
