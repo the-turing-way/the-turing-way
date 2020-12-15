@@ -6,7 +6,7 @@ Hello Turing Way friends!
 
 This month: 
 - 👋 Attend our end of the year - **holiday-themed Collaboration Café on 16 December** and the very last coworking call of 2020 on 17 December.
-- 🎓 Aided by the Turing Online Training grant, we will continue the **OLS for Turing** Collaboration in 2021, call for application is open until 11 January 2021. Join the *graduation calls this week* to learn about projects that were trained and mentored in their last round.
+- 🎓 Aided by the Turing Online Training grant, we will continue the **OLS for Turing** Collaboration in 2021 with Open Life Science. Call for application for OLS-3 is open until 11 January 2021. Join the *OLS-2 graduation calls this week*.
 - ✨ Check out **new resources**, illustrations, presentations and reports developed and shared by _The Turing Way_ members.
 - 🏆 Learn what we have been able to achieve this year. We are very grateful for your important work and contributions to the project.
 
@@ -39,7 +39,7 @@ This will allow us to continue our collaboration with Open Life Science in 2021 
 
 ### OLS-2 Graduation and OLS-3 call for application!
 Graduations for the second round of OLS participants (OLS-2) are taking place this week.
-12 project leads who joined the program under [OLS-2 for Turing](https://openlifesci.org/ols-2#collaborators) will be graduating with the project leads to 24 more projects from their cohort.
+12 project leads who joined the program under [OLS-2 for Turing](https://openlifesci.org/ols-2#collaborators) will be graduating with their cohort members who together led over 30 projects in OLS-2.
 You can join these graduation calls (see [this blog](https://openlifesci.org/posts/2020/11/26/announcing-applications-for-ols-3/) for details) or watch them online on [YouTube](https://www.youtube.com/openlifesci) to learn more about the projects and the OLS program.
 
 The call for application for the third round (OLS-3) is open until 11 January, please find more details about the call on their website: [https://openlifesci.org/](https://openlifesci.org/).
@@ -144,7 +144,7 @@ To find out more information including registration, agenda, call for submission
 
 - **FOSS-Backstage 2021**: We are delighted to share that Malvika will be presenting a talk about _The Turing Way_ at the [FOSS-Backstage](https://foss-backstage.de) event.
 The conference will take place from 10 to 12 February 2021 covering different topics on governance, collaboration, legal and economics within the scope of Free and Open Source Software. 
-[Register](https://foss-backstage.de/tickets) to hear about open source project leadership best practices, community management, open source project metrics, open source strategy for the enterprise, adopting open source collaboration in corporations, legal matters when dealing with open source and many more.
+[Register](https://foss-backstage.de/tickets) to hear about open source project leadership best practices, community management, open source project metrics, strategy for the enterprise, adopting open source collaboration in corporations, legal matters when dealing with open source and many more.
 
 ### Call for applications
 
@@ -171,8 +171,8 @@ As we complete the second year of _The Turing Way_, we review the year 2020 mont
 
 * **January**: Translation efforts started with Chinese and Spanish translation of _The Turing Way_ chapters on [Transifex system](https://github.com/alan-turing-institute/the-turing-way/blob/translation/translation_guide.md) set up and used by several community members.
 * **February**: The third Book Dash took place in person in London on 11-12 February 2020. Conducted over 1.5 days, this event was attended by 15 new participants and 3 helpers. We also launched our [Twitter account](https://twitter.com/turingway).
-* **March**: As the world wide lockdown started due to the COVID-19 pandemic, we created more ways to stay connected with our members through weekly coworking calls and by hosting Collaboration Cafes twice every month.
-* **April**: The community grew to 120 members and in addition to the Guide for Reproducible Research, _The Turing Way_ launched the guides for Project Design, Communication, Collaboration and Ethics.
+* **March**: As the world wide lockdown started due to the COVID-19 pandemic, we created more ways to stay connected with our members by hosting coworking calls weekly and Collaboration Cafes twice every month.
+* **April**: The community grew to 120 members and in addition to the Guide for Reproducible Research, _The Turing Way_ book was upgraded to include the guides for Project Design, Communication, Collaboration and Ethics.
 * **May**: Collaboration between Open Life Science and _The Turing Way_ was formally established (OLS-2 for Turing) to offer mentorship to its community members in developing Open Science projects.
 * **June**: The Turing Way members delivered several online workshops and participated in conferences relevant for Open Science, reproducibility and Data Science.
 * **July**: The community Slack space was created to facilitate structured discussions online, which was not effective on Gitter. 12 members joined OLS-2 with 6 projects from Turing and _The Turing Way_.
