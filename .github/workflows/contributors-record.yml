@@ -23,12 +23,12 @@ jobs:
           ./tests/contributors.sh
 
       # Run git steps for add, commit, push changes
-#       - name: git commit and push changes
-#         run: |
-#           git config --local user.email "action@github.com"
-#           git config --local user.name "GitHub Action"
-#           git add ./book/website/afterword/contributors-record.md
-#           git commit -am 'automated update of Contributors Record'
+      - name: git commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ./book/website/afterword/contributors-record.md
+          git commit -am 'automated update of Contributors Record'
 #           git push
 
       # Create a PR with changes
