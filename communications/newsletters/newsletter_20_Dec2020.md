@@ -10,19 +10,19 @@ This month:
 - ✨ Check out **new resources**, illustrations, presentations and reports developed and shared by _The Turing Way_ members.
 - 🏆 Learn what we have been able to achieve this year. We are very grateful for your important work and contributions to the project.
 
-Thank you so much for your love, support and positive engagements in _The Turing Way_. we wish you all a wonderful end of the year! 🌺
+Thank you so much for your love, support and positive engagements in _The Turing Way_. We wish you all a wonderful end of the year! 🌺
 
 Find more details on these topics below 👇
 
 ## Community Meetings and Events
 
 - **Collaboration Cafés**: We will be hosting a Holiday Themed Collaboration Cafe on 16 December 2020 from 15:00 to 17:00 GMT ([see in your time zone](https://arewemeetingyet.com/London/2020-12-16/15:00)). 
-Please sign up on this shared document: [https://hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe)
-We will restart these calls in 2021 from 20 January, which will be hosted every 2nd and 4th Wednesdays of each month.
+Please sign up on this shared document: [https://hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
+We will restart these calls in 2021 from 20 January, which will be hosted every 2nd and 3rd Wednesdays of each month.
 
 - **Coworking Calls**: The very last coworking call of the year will take place on 17 December 2020 from 11:00 to 12:00 GMT ([see in your time zone](https://arewemeetingyet.com/London/2020-12-17/11:00)).
 Please find more details here: [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call)
-In 2021, we aim to continue hosting them every Monday and Thursday each week from 11:00 - 12:00 GMT starting from 1 February 2021.
+In 2021, we will continue hosting them every week starting from 1 February 2021.
 
 Please lookout for the next newsletters for updates on Book Dash and Training Workshops for 2021.
 
