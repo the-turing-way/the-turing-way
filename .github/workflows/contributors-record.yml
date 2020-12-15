@@ -31,7 +31,6 @@ jobs:
 #           git commit -am 'automated update of Contributors Record'
 
       # Create a PR with changes
-        - 
       - name: pull-request
         #uses: repo-sync/pull-request@v2
         uses: peter-evans/create-pull-request@v3
@@ -42,9 +41,8 @@ jobs:
 #           pr_body: ":crown: *An automated PR*"
 #           pr_label: "automated-pr"
 #           github_token: ${{ secrets.GITHUB_TOKEN }}
-          committer: GitHub <noreply@github.com>
           token: ${{ secrets.PAT }}
-          commit-message: Update report
+          commit-message: Update Contributors Record
           committer: GitHub <noreply@github.com>
           author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
           signoff: false
