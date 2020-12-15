@@ -12,24 +12,27 @@ However, with the COVID-19 pandemic situation this year, we moved the November's
 
 ## Table of Content
 
--   [Book Dash November 2020 Report](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Book-Dash-November-2020-Report "Book Dash November 2020 Report")
-    -   [Overview](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Overview "Overview")
-        -   [Date and format of the event](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Date-and-format-of-the-event "Date and format of the event")
-        -   [Application, Review and Selection process](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Application-Review-and-Selection-process "Application, Review and Selection process")
-        -   [The book dash participants and event plan](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#The-book-dash-participants-and-event-plan "The book dash participants and event plan")
-    -   [Pre-dash drop-in calls: 4 November 2020](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Pre-dash-drop-in-calls-4-November-2020 "Pre-dash drop-in calls: 4 November 2020")
-    -   [Book Dash Week: 9-13 November 2020](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Book-Dash-Week-9-13-November-2020 "Book Dash Week: 9-13 November 2020")
-        -   [Informal sessions](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Informal-sessions "Informal sessions")
-        -   [Community Share-out](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Community-Share-out "Community Share-out")
-    -   [Illustrations by Scriberia Artist: Jem Milton](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Illustrations-by-Scriberia-Artist-Jem-Milton "Illustrations by Scriberia Artist: Jem Milton")
-    -   [Feedback](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Feedback "Feedback")
-        -   [Pluses](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Pluses "Pluses")
-        -   [Deltas](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Deltas "Deltas")
-    -   [What’s next?](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#What’s-next "What’s next?")
-        -   [Attend online Collaboration Cafes and coworking calls](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Attend-online-Collaboration-Cafes-and-coworking-calls "Attend online Collaboration Cafes and coworking calls")
-        -   [Contribute new topics or review open pull requests](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Contribute-new-topics-or-review-open-pull-requests "Contribute new topics or review open pull requests")
-        -   [Represent The Turing Way in your community/conference](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Represent-The-Turing-Way-in-your-communityconference "Represent The Turing Way in your community/conference")
-        -   [Join us on social media platforms](https://hackmd.io/6FHLGlTxQdKkKNm_OOZiJA?both#Join-us-on-social-media-platforms "Join us on social media platforms")
+- [Book Dash November 2020 Report](#book-dash-november-2020-report)
+  * [Overview](#overview)
+  * [Table of Content](#table-of-content)
+    + [Date and format of the event](#date-and-format-of-the-event)
+    + [Application, Review and Selection process](#application--review-and-selection-process)
+    + [The book dash participants and event plan](#the-book-dash-participants-and-event-plan)
+  * [Pre-dash drop-in calls: 4 November 2020](#pre-dash-drop-in-calls--4-november-2020)
+  * [Book Dash Week: 9-13 November 2020](#book-dash-week--9-13-november-2020)
+      - [Highlights of contributions from the event](#highlights-of-contributions-from-the-event)
+      - [Participants from the BioHackathon-EU event](#participants-from-the-biohackathon-eu-event)
+    + [Informal sessions](#informal-sessions)
+    + [Community Share-out](#community-share-out)
+  * [Illustrations by Scriberia Artist: Jem Milton](#illustrations-by-scriberia-artist--jem-milton)
+  * [Feedback](#feedback)
+    + [Pluses](#pluses)
+    + [Deltas](#deltas)
+  * [What's next?](#what-s-next-)
+    + [Attend online Collaboration Cafes and coworking calls](#attend-online-collaboration-cafes-and-coworking-calls)
+    + [Contribute new topics or review open pull requests](#contribute-new-topics-or-review-open-pull-requests)
+    + [Represent _The Turing Way_ in your community/conference](#represent--the-turing-way--in-your-community-conference)
+    + [Join us on social media platforms](#join-us-on-social-media-platforms)
 
 ### Date and format of the event
 
@@ -153,12 +156,12 @@ We continued this tradition by inviting Jem Milton this time, who spent 3 days, 
 Our attendees discussed their ideas with Jem and captured important concepts they were working on during the book dash or something that they are interested to work on in the future.
 
 We took this opportunity to co-create images to describe some of the community process and the general concepts used in the project.
-The artwork has been shared on Zenodo: <zenodo link> under CC-BY license and will be added in the book going forward.
-You are welcome to share, reuse and distribute them by attributing "The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. <DOI>".
+The artwork has been shared on Zenodo under CC-BY 4.0 license and will be added in the book going forward.
+You are welcome to share, reuse and distribute them by attributing "The Turing Way Community, & Scriberia. (2020, March 3). This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence. Zenodo. http://doi.org/10.5281/zenodo.4323154".
 
 ## Feedback
 
-At the end of the event, we asked our participants to share feedback anonymously in the [" Pluses and Deltas" HackMD](https://hackmd.io/@turingway/bookdash-nov2020-feedback-day5).
+At the end of the event, we asked our participants to share feedback anonymously in the ["Pluses and Deltas" HackMD](https://hackmd.io/@turingway/bookdash-nov2020-feedback-day5).
 We greatly appreciate the work that our attendees have accomplished in the project during this short event and thank them for their feedback, a few of which have been highlighted below.
 
 ### Pluses
