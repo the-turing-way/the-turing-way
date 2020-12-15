@@ -181,7 +181,7 @@ I'm an independent post-doctoral researcher working in the field of Environmenta
 The book dash was a great kick start to actually practise and directly apply these skills, which now allows me to contribute more confidently to other projects as well!
 > I primarily contributed to the Reproducible Research Chapter, to the Research Data Management section. I reviewed existing content and I'm working on adding a section on Data Management Plans and how to handle personal data. 
 > I also made a [The Turing Way poster](https://doi.org/10.5281/zenodo.4263403) that I presented during a conference. 
-> I hope to pay it forward and facilitate others in learning how to work with GitHub through The Turing Way or Carpentry workshops.
+> I hope to pay it forward and facilitate others in learning how to work with GitHub through The Turing Way or The Carpentries workshops.
 > I'm very grateful to be part of this great and inclusive community!
 
 * More information:
