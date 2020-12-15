@@ -4,7 +4,7 @@ name: ContributorsRecord
 # runs daily
 on:
   schedule:
-    - cron:  '59 23 * * *'
+    - cron:  '30 15 * * *'
     # minute (0 - 59), hour (0 - 23), day of month (1 - 31), month(1 - 12 or JAN-DEC), day of week (0 - 6 or SUN-SAT)
 
 # Set up the Continuous Integration job
@@ -17,19 +17,19 @@ jobs:
         uses: actions/checkout@v2
 
       # Run a simple script that combines content from 2 files
-      - name: Combine contributors.md and contributors table
+      - name: Combine contributors information
         run: |
           chmod +x ./tests/contributors.sh
           ./tests/contributors.sh
 
       # Run git steps for add, commit, push changes
-      - name: git commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add ./book/website/afterword/contributors-record.md
-          git commit -am 'automated update of Contributors Record'
-          git push
+#       - name: git commit and push changes
+#         run: |
+#           git config --local user.email "action@github.com"
+#           git config --local user.name "GitHub Action"
+#           git add ./book/website/afterword/contributors-record.md
+#           git commit -am 'automated update of Contributors Record'
+#           git push
 
       # Create a PR with changes
       - name: pull-request
