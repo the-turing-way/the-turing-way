@@ -494,7 +494,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > You can see the full report from GSoD participation [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/GSOD-applications/GSoD-2020-Project-Report.md).
 > The BookDash November 2020 was great! It was awesome to meet, collaborate, and share ideas with people from around the world. Beyond the Book Dash, The Turing Way is the very first open-source project I have ever worked on. The experience has been fantastic, and I intend to stick around as a contributor after the Google Season of Docs program ends. I also see myself getting involved in other open-source projects.
 
-# Personal Quote:
+* Personal Quote:
 > Asides technical skills, I developed a deep appreciation for what working on an open source project entails. My mentors helped me realise that the value I left behind from the GSoD program was not in the amount of work I did, but how I enabled other contributors to also do the work I was doing. As a result, I learned to contribute as a Technical Writer in a manner that was reproducible, sustainable, accessible, and inclusive.
 
 <!---Q--->
