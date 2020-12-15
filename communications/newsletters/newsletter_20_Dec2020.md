@@ -6,11 +6,11 @@ Hello Turing Way friends!
 
 This month: 
 - 👋 Attend our end of the year - **holiday-themed Collaboration Café on 16 December** and the very last coworking call of 2020 on 17 December.
-- 🎓 Aided by the Turing Online Training grant, we will continue the **OLS-3 for Turing Collaboration**, call for application is open until 11 January 2021. Join the *graduation calls this week* to learn about projects that were trained and mentored in their last round.
+- 🎓 Aided by the Turing Online Training grant, we will continue the **OLS for Turing** Collaboration in 2021, call for application is open until 11 January 2021. Join the *graduation calls this week* to learn about projects that were trained and mentored in their last round.
 - ✨ Check out **new resources**, illustrations, presentations and reports developed and shared by _The Turing Way_ members.
 - 🏆 Learn what we have been able to achieve this year. We are very grateful for your important work and contributions to the project.
 
-Thank you so much for your love, support and positive engagements in _The Turing Way_. We wish you all a wonderful end of the year! 🌺
+**Thank you so much for your love, support and positive engagements** in _The Turing Way_. We wish you all a wonderful end of the year! 🌺
 
 Find more details on these topics below 👇
 
@@ -21,10 +21,10 @@ Please sign up on this shared document: [https://hackmd.io/@turingway/collaborat
 We will restart these calls in 2021 from 20 January, which will be hosted every 2nd and 3rd Wednesdays of each month.
 
 - **Coworking Calls**: The very last coworking call of the year will take place on 17 December 2020 from 11:00 to 12:00 GMT ([see in your time zone](https://arewemeetingyet.com/London/2020-12-17/11:00)).
-Please find more details here: [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call)
+Please find more details here: [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call).
 In 2021, we will continue hosting them every week starting from 1 February 2021.
 
-Please lookout for the next newsletters for updates on Book Dash and Training Workshops for 2021.
+Please subscribe to our [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon) for updates on Book Dash and Training Workshops for 2021.
 
 
 ## News from the community
@@ -33,9 +33,9 @@ Please lookout for the next newsletters for updates on Book Dash and Training Wo
 
 *Open Life Science Flyer for the OLS-3 call for application*
 
-### Turing Online Training Grant to continue The Turing Way collaboration with OLS
-We are excited to share that our application with [Open Life Science (OLS)](https://openlifesci.org/) has been successful for the [Turing Online Training Grant](https://www.applieddatascience.qmul.ac.uk/news/3817/the-turing-online-training-call-funding-opportunity) (up to £10,000).
-This grant will allow us to continue our collaboration with Open Life Science in 2021 and offer its training and mentoring program to the Turing and _The Turing Way_ community members.
+### We received the Turing Online Training Grant
+We are excited to share that our application with [Open Life Science (OLS)](https://openlifesci.org/) has been successful for the [Turing Online Training Grant](https://www.applieddatascience.qmul.ac.uk/news/3817/the-turing-online-training-call-funding-opportunity).
+This will allow us to continue our collaboration with Open Life Science in 2021 and offer its training and mentoring program to the Turing and _The Turing Way_ community members.
 
 ### OLS-2 Graduation and OLS-3 call for application!
 Graduations for the second round of OLS participants (OLS-2) are taking place this week.
@@ -54,23 +54,23 @@ Please see this [promotion pack](https://docs.google.com/document/d/e/2PACX-1vRE
 
 ![This illustration shows two people, one is a new contributor and another one is an experienced contributor. The experienced contributor takes the mentoring role and helps new contributor learn about the project so they feel empowered to contribute to the project](images/2020-12-mentored-contri-2.png)
 
-*One of the illustration from Scriberia that was developed in November’s Book Dash*
+*One of the illustrations from Scriberia that was developed in November’s Book Dash*
 
 We ran the third Book Dash event from 9 to 13 November completely online with 20 participants.
 In the last newsletter, we highlighted the impressive work carried out by our attendees.
 In this newsletter, we are happy to share the full report that can be read [here](https://hackmd.io/@turingway/bookdash-nov2020-report).
 
 In the previous Book Dash events, illustrations by Scriberia artists had added enormously to the productivity, enthusiasm and outcome of the events.
-We continued this tradition by inviting Scriberia artist Jem Milton, who spent 3 days, from 10 to 12 November, interacting with the participants and developing new sets of illustration for _The Turing Way_ community.
+We continued this tradition by inviting a Scriberia artist, Jem Milton, who spent 3 days during the Book Dash interacting with the participants and developing new sets of illustration for _The Turing Way_ community.
 The artwork has been shared on Zenodo: <zenodo link> under CC-BY license and will be added in the book going forward.
 You are welcome to share, reuse and distribute them by attributing "The Turing Way Community, & Scriberia. (2020, December 15). Illustrations from the Turing Way book dashes. Zenodo. <DOI>".
 
 ### New Resources in _The Turing Way_
 
 - **The Turing Way - GSoD 2020**: We thank Paul Owoicho for providing editorial support while working during his Google Season of Doc (GSoD) technical writing period in _The Turing Way_.
-Paul has done extremely valuable work to ensure accessibility on our guidance by co-authoring chapters on [Maintaining Consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html), integrating [videos to demonstrate editing work](https://the-turing-way.netlify.app/community-handbook/consistency/consistency-formatting.html#demo), adding [new subchapters in the Style guide](https://the-turing-way.netlify.app/community-handbook/style/style-more-styling.html), creating a [series of templates](https://the-turing-way.netlify.app/community-handbook/contributing.html) for new content and [improving the default style of the book](https://the-turing-way.netlify.app/community-handbook/style/style-custom-styling.html) to make it more accessible to screen reader apps.
+Paul has done extremely valuable work to ensure accessibility in our online resources by co-authoring chapters on [Maintaining Consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html), integrating [videos to demonstrate editing work](https://the-turing-way.netlify.app/community-handbook/consistency/consistency-formatting.html#demo), adding [new subchapters in the Style guide](https://the-turing-way.netlify.app/community-handbook/style/style-more-styling.html), creating a [series of templates](https://the-turing-way.netlify.app/community-handbook/contributing.html) for developing new content and [improving the default style of the book](https://the-turing-way.netlify.app/community-handbook/style/style-custom-styling.html) to make it more accessible for screen reader apps.
 We are extremely grateful for his work and excited to see him move on to pursue his PhD in Glasgow.
-We are also very delighted to see him graduate from Open Life Science this week along with Neha Moopen who supported his accessibility project that was mentored by Samuel Guay.
+We are also very proud to see him graduate from Open Life Science this week along with Neha Moopen who supported his accessibility project that was mentored by Samuel Guay.
 You can read a complete report from his engagement [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/GSOD-applications/GSoD-2020-Project-Report.md).
 
 ![Thanks to Christina Hitrova for your early work on this and Laura Carter and Sophia Batchelor for your support during this Open Life Science cohort (and, just, so many other people in OLS-2!)](images/2020-12-ismael-ethics-3.png)
@@ -78,14 +78,14 @@ You can read a complete report from his engagement [here](https://github.com/ala
 *[Tweet by Ismael](https://twitter.com/IsmaelKherGar/status/1337116565184143360?s=20) announcing the release of the Introduction to Research Ethics Chapter*
 
 - **A new set of chapters and subchapters**:
-The [Introduction to Research Ethics](https://the-turing-way.netlify.app/ethical-research/ethics-intro.html) chapter has been written by the Ethics team members, Ismael Kherroubi Garcia, Laura Carter and Sophia Batchelor. 
+  - The [Introduction to Research Ethics](https://the-turing-way.netlify.app/ethical-research/ethics-intro.html) chapter has been written by the Ethics team members, Ismael Kherroubi Garcia, Laura Carter and Sophia Batchelor. 
 Thanks to Christina Hithrova and Laura Acion for further comments and review. 
-The Ethics team members are also graduating from OLS this week for working on the Guide for Ethical Research that was mentored by Jez Cope and Anjali Mazumdar.
+  - The Ethics team members are also graduating from OLS this week for working on the Guide for Ethical Research that was mentored by Jez Cope and Anjali Mazumdar.
 Emma Karoune wrote a chapter for [getting started with GitHub](https://the-turing-way.netlify.app/collaboration/github-novice.html).
 Thanks to Kirstie Whitaker, Laura Carter and Paul Owoicho for reviewing and contributing to this chapter. 
-Carlos Martinez and Sarah Alidoost from the Netherlands eScience Center have updated the [Code Reviewing](https://the-turing-way.netlify.app/reproducible-research/reviewing.html) chapter. 
+  - Carlos Martinez and Sarah Alidoost from the Netherlands eScience Center have updated the [Code Reviewing](https://the-turing-way.netlify.app/reproducible-research/reviewing.html) chapter. 
 Thanks, José Maria Fernandez and Sarah Gibson for reviewing them.
-One of the oldest pending PR on the [Code styling and linting](https://the-turing-way.netlify.app/project-design/code-styling.html) have finally been merged. 
+  - One of the oldest pending PR on the [Code styling and linting](https://the-turing-way.netlify.app/project-design/code-styling.html) have finally been merged. 
 Thanks to Oliver Clark, Yo Yehudi and Nathan Begbie for editing and reviewing the chapter.
 
 ## Acknowledgements and celebrations
@@ -142,7 +142,7 @@ Collaborations Workshop 2021 (CW21) will take place online from Tuesday, 30 Marc
 The themes of the CW21 keynote presentations, discussion groups, mini-workshops, collaborative ideas, and hack day will be around the following areas of research software: FAIR Research Software, Diversity & Inclusion and Software Sustainability. 
 To find out more information including registration, agenda, call for submissions and how to sponsor the unconference, please visit the CW21 website: http://bit.ly/ssi-cw21
 
-- **FOSS-Backstage 2021**: We are delighted to share that Malvika will be presenting a talk about_The Turing Way_ at the [FOSS-Backstage](https://foss-backstage.de) event.
+- **FOSS-Backstage 2021**: We are delighted to share that Malvika will be presenting a talk about _The Turing Way_ at the [FOSS-Backstage](https://foss-backstage.de) event.
 The conference will take place from 10 to 12 February 2021 covering different topics on governance, collaboration, legal and economics within the scope of Free and Open Source Software. 
 [Register](https://foss-backstage.de/tickets) to hear about open source project leadership best practices, community management, open source project metrics, open source strategy for the enterprise, adopting open source collaboration in corporations, legal matters when dealing with open source and many more.
 
@@ -184,7 +184,7 @@ As we complete the second year of _The Turing Way_, we review the year 2020 mont
 
 ### Thank you! & News year wishes
 
-![A GIF with a statement 'Thank you very much' with the silhouette of snow and a calmly flowing water source](images/2020-12-thank-you-7.gif)
+![A GIF with a statement 'Thank you very much' with the silhouette of snow and a calmly flowing river](images/2020-12-thank-you-7.gif)
 
 We want to express our gratitude towards all of you - our community members. 
 Thank you for collaborating on GitHub and contributing to _The Turing Way_ book by thoughtfully developing, reviewing and maintaining its chapters and infrastructure that are used by researchers globally. 
