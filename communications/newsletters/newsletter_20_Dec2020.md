@@ -105,7 +105,12 @@ In her words:
 > I also made a [The Turing Way poster](https://doi.org/10.5281/zenodo.4263403) that I presented during a conference.
 > I hope to pay it forward and facilitate others in learning how to work with GitHub through The Turing Way or Carpentry workshops.
 
-*If you are a contributing member of The Turing Way, we invite you to add your details in the [Contributors’ file](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) so that we can update our [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html#personal-highlights-from-the-turing-way-contributors) and highlight your work.*
+### Share your impact story
+
+Kirstie Whitaker, the lead of _The Turing Way_ is writing an impact report where she would like to capture who is using and benefiting from the book and our community.
+We would love to hear from you, especially if you're not already involved in the community as contributors and you've used, shared or built upon the project, book or community in any way!
+For example, many people used the online repository structure, used its resources for developing the reproducibility plan, adapted the Code of Conduct for their projects, cited _The Turing Way_ in their manuscripts or grant proposals, and reused the community practices.
+You can see more responses to Kirstie's [Tweet](https://twitter.com/kirstie_j/status/1326126705270984710?s=20) and share your story with us under [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659). 
 
 ### Presentations
 
@@ -139,13 +144,16 @@ To find out more information including registration, agenda, call for submission
 The conference will take place from 10 to 12 February 2021 covering different topics on governance, collaboration, legal and economics within the scope of Free and Open Source Software. 
 [Register](https://foss-backstage.de/tickets) to hear about open source project leadership best practices, community management, open source project metrics, open source strategy for the enterprise, adopting open source collaboration in corporations, legal matters when dealing with open source and many more.
 
-### SSI Fellowship 2021
+### Call for applications
 
-The call for applications to the SSI’s Fellowship Programme 2021 is now open! The Fellowship Programme provides funding for individuals who want to improve how research software is done in their domains and/or area of work. Being a Fellow also helps individuals develop skills and knowledge in their area around software sustainability, empowers them to speak about software sustainability issues and network with like-minded individuals from a wide variety of research areas. The Institute will be running a Fellows 2021 Launch Webinar on Thursday, 14 January 2021 to explain the programme in more detail and answer your questions. The deadline for applications is Friday, 5 February 2021. To find out more information including how to apply, schedule, example applications from successful Fellows, and words of encouragement, please visit the programme website: http://bit.ly/ssi-fellows2021
+- **SSI Fellowship 2021**: The call for applications to the SSI’s Fellowship Programme 2021 is now open! 
+The Fellowship Programme provides funding for individuals who want to improve how research software is done in their domains and/or area of work. 
+Being a Fellow also helps individuals develop skills and knowledge in their area around software sustainability, empowers them to speak about software sustainability issues and network with like-minded individuals from a wide variety of research areas. 
+The Institute will be running a Fellows 2021 Launch Webinar on Thursday, 14 January 2021 to explain the programme in more detail and answer your questions. 
+The deadline for applications is Friday, 5 February 2021. 
+To find out more information including how to apply, schedule, example applications from successful Fellows, and words of encouragement, please visit the programme website: http://bit.ly/ssi-fellows2021
 
-### HiddenRef Submissions are Open
-
-The hidden REF is a competition that recognises all research outputs and every role that makes research possible. 
+- **HiddenRef Submissions are Open**: The hidden REF is a competition that recognises all research outputs and every role that makes research possible. 
 If you would like to enter your work or nominate a person who has been vital to your research, please [complete a submission (300 words)](https://hidden-ref.org/submissions/) by 26th February 2021. 
 Submissions will be reviewed by panels drawn from across the research community and winners will be announced in April 2021.
 
@@ -153,7 +161,7 @@ Submissions will be reviewed by panels drawn from across the research community 
 
 *[Tweet by Hiddenref](https://twitter.com/HiddenRef/status/1338426180035338241?s=20) about their call for submission.*
 
-## 2020 Years in Review and Wishes for 2021
+## 2020 Year in Review & Wishes for 2021
 
 As we complete the second year of _The Turing Way_, we review the year 2020 month-by-month to highlight some of the important milestones we have achieved in the project together with our community members.
 
