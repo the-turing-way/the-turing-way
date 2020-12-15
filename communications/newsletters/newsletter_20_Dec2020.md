@@ -163,24 +163,26 @@ Submissions will be reviewed by panels drawn from across the research community 
 
 *[Tweet by Hiddenref](https://twitter.com/HiddenRef/status/1338426180035338241?s=20) about their call for submission.*
 
-## 2020 Year in Review & Wishes for 2021
+## Highlights from 2020 & Happy New Year 2021
+
+### 2020: Year in Review
 
 As we complete the second year of _The Turing Way_, we review the year 2020 month-by-month to highlight some of the important milestones we have achieved in the project together with our community members.
 
-* January: Translation efforts started with Chinese and Spanish translation of _The Turing Way_ chapters on [Transifex system](https://github.com/alan-turing-institute/the-turing-way/blob/translation/translation_guide.md) set up and used by several community members.
-* February: The third Book Dash took place in person in London on 11-12 February 2020. Conducted over 1.5 days, this event was attended by 15 new participants and 3 helpers. We also launched our [Twitter account](https://twitter.com/turingway).
-* March: As the world wide lockdown started due to the COVID-19 pandemic, we created more ways to stay connected with our members through weekly coworking calls and by hosting Collaboration Cafes twice every month.
-* April: The community grew to 120 members and in addition to the Guide for Reproducible Research, _The Turing Way_ launched the guides for Project Design, Communication, Collaboration and Ethics.
-* May: Collaboration between Open Life Science and _The Turing Way_ was formally established (OLS-2 for Turing) to offer mentorship to its community members in developing Open Science projects.
-* June: The Turing Way members delivered several online workshops and participated in conferences relevant for Open Science, reproducibility and Data Science.
-* July: The community Slack space was created to facilitate structured discussions online, which was not effective on Gitter. 12 members joined OLS-2 with 6 projects from Turing and _The Turing Way_.
-* August: To allow a proper break for our community and team members amidst this busy year, we declared a break in the project August.
-* September: The [community handbook[(https://the-turing-way.netlify.app/community-handbook/community-handbook.htm) started to expand by including chapters on concepts, practices and workflow used by the community members. Particularly, we shared a document detailing how we acknowledge everyone in _The Turing Way_. We also hosted a technical writer upon the successful selection of our Google Season of Doc application.
-* October: We hosted the HacktoberFest and facilitated the translation of the READMEmd file in multiple languages. The first good first label was used to onboard members new to Open Source projects,
-* November: Malvika and Kirstie hosted the fourth Book Dash event from 9-13 November and connected with 18 new members who worked collaboratively on the project and 2 core members who provided mentorship support. We also received the Turing online Training grant to continue our collaboration with the OLS mentoring program in 2021.
-* December: We are ending the year with over 235 contributors, 500 subscribers of our monthly newsletters and 1500 followers on Twitter. So far they all have together developed 30 chapters, 134 subchapters and several supporting resources within our 5 guides and a community handbook.
+* **January**: Translation efforts started with Chinese and Spanish translation of _The Turing Way_ chapters on [Transifex system](https://github.com/alan-turing-institute/the-turing-way/blob/translation/translation_guide.md) set up and used by several community members.
+* **February**: The third Book Dash took place in person in London on 11-12 February 2020. Conducted over 1.5 days, this event was attended by 15 new participants and 3 helpers. We also launched our [Twitter account](https://twitter.com/turingway).
+* **March**: As the world wide lockdown started due to the COVID-19 pandemic, we created more ways to stay connected with our members through weekly coworking calls and by hosting Collaboration Cafes twice every month.
+* **April**: The community grew to 120 members and in addition to the Guide for Reproducible Research, _The Turing Way_ launched the guides for Project Design, Communication, Collaboration and Ethics.
+* **May**: Collaboration between Open Life Science and _The Turing Way_ was formally established (OLS-2 for Turing) to offer mentorship to its community members in developing Open Science projects.
+* **June**: The Turing Way members delivered several online workshops and participated in conferences relevant for Open Science, reproducibility and Data Science.
+* **July**: The community Slack space was created to facilitate structured discussions online, which was not effective on Gitter. 12 members joined OLS-2 with 6 projects from Turing and _The Turing Way_.
+* **August**: To allow a proper break for our community and team members amidst this busy year, we declared a break in the project August.
+* **September**: The [community handbook[(https://the-turing-way.netlify.app/community-handbook/community-handbook.htm) started to expand by including chapters on concepts, practices and workflow used by the community members. Particularly, we shared a document detailing how we acknowledge everyone in _The Turing Way_. We also hosted a technical writer upon the successful selection of our Google Season of Doc application.
+* **October**: We hosted the HacktoberFest and facilitated the translation of the READMEmd file in multiple languages. The first good first label was used to onboard members new to Open Source projects,
+* **November**: Malvika and Kirstie hosted the fourth Book Dash event from 9-13 November and connected with 18 new members who worked collaboratively on the project and 2 core members who provided mentorship support. We also received the Turing online Training grant to continue our collaboration with the OLS mentoring program in 2021.
+* **December**: We are ending the year with over 235 contributors, 500 subscribers of our monthly newsletters and 1500 followers on Twitter. So far they all have together developed 30 chapters, 134 subchapters and several supporting resources within our 5 guides and a community handbook.
 
-### Thank you!
+### Thank you! & News year wishes
 
 ![A GIF with a statement 'Thank you very much' with the silhouette of snow and a calmly flowing water source](images/2020-12-thank-you-7.gif)
 
@@ -191,7 +193,8 @@ Your participation in the online Collaboration Cafés, coworking calls, Book Das
 2020 has not been an easy year for most and therefore it is even more important for us to acknowledge that we value your participation in the projects immensely. 
 It is only by involving the diverse community of individuals from different backgrounds, domain knowledge, skill levels and experiences from all around the world, can we make “reproducibility too easy not to do”.
 We hope that you can take a break and enjoy the end of the year. We wish you a happy new year 2021!
-Malvika, Kirstie and all the team!
+
+Malvika, Kirstie and all the team! 💙
 
 ## Connect with us!
 
