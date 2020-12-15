@@ -7,10 +7,10 @@ Hello Turing Way friends!
 This month: 
 - 👋 Attend our end of the year - **holiday-themed Collaboration Café on 16 December** and the very last coworking call of 2020 on 17 December.
 - 🎓 Aided by the Turing Online Training grant, we will continue the **OLS-3 for Turing Collaboration**, call for application is open until 11 January 2021. Join the *graduation calls this week* to learn about projects that were trained and mentored in their last round.
-- ✨ Check out new resources, illustrations, presentations and reports developed and shared by _The Turing Way_ members.
-- 🏆 Learn what we have been able to achieve this year with your support, engagement and contributions. We are very grateful for your hard and intentional work in the project.
+- ✨ Check out **new resources**, illustrations, presentations and reports developed and shared by _The Turing Way_ members.
+- 🏆 Learn what we have been able to achieve this year with your support, engagement and contributions. We are very grateful for your important work and contributions to the project.
 
-We thank all our community members and wish you all a wonderful end of the year! 🌺
+Thank you so much for your love, support and positive engagements in _The Turing Way_. we wish you all a wonderful end of the year! 🌺
 
 Find more details on these topics below 👇
 
