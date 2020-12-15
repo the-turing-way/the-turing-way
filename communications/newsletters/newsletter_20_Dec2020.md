@@ -192,6 +192,7 @@ Your participation in the online Collaboration Cafés, coworking calls, Book Das
 It is only by involving the diverse community of individuals from different backgrounds, domain knowledge, skill levels and experiences from all around the world, can we make “reproducibility too easy not to do”.
 We hope that you can take a break and enjoy the end of the year. We wish you a happy new year 2021!
 Malvika, Kirstie and all the team!
+
 ## Connect with us!
 
 - [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
