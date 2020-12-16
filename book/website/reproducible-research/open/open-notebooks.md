@@ -5,7 +5,7 @@ Electronic Lab Notebooks (ELNs) enable researchers to organize and store experim
 They are a digital analogue to the paper notebook most researchers keep.
 ELNs can offer several advantages over the traditional paper notebook in documenting research during the active phase of a project, including; searchability within and across notebooks, secure storage with multiple redundancies, remote access to notebooks, and the ability to easily share notebooks among team members and collaborators.
 
-Open notebook research is simply the practice of making such notebooks openly available, usually online.
+Open notebook [{term}`def<Open Notebooks>`] research is simply the practice of making such notebooks openly available, usually online.
 Some researchers choose to keep their notebooks open from the very beginning of their projects.
 Rather than wait months, or years, to share their research through journal publication as is the current practice, this allows researchers to post their experimental data and protocols online and in real-time.
 Sharing research in this open and timely manner helps to reduce duplication of work, helps foster new collaborations, and cultivates a more open dialogue with others.
