@@ -1,15 +1,15 @@
 # Give your test a name!
-name: ContributorsRecord
+name: UpdateContributorsRecord
 
 # runs daily
 on:
   schedule:
-    - cron:  '*/2 * * * *'
+    - cron: '*/2 * * * *'
     # minute (0 - 59), hour (0 - 23), day of month (1 - 31), month(1 - 12 or JAN-DEC), day of week (0 - 6 or SUN-SAT)
 
 # Set up the Continuous Integration job
 jobs:
-  ContributorsRecord:
+  UpdateContributorsRecord:
     runs-on: ubuntu-latest
     # This section collects together the steps involved in running the test
     steps:
