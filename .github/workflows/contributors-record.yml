@@ -4,7 +4,7 @@ name: UpdateContributorsRecord
 # runs daily
 on:
   schedule:
-    - cron: '*/2 * * * *'
+    - cron: '30 9 * * *'
     # minute (0 - 59), hour (0 - 23), day of month (1 - 31), month(1 - 12 or JAN-DEC), day of week (0 - 6 or SUN-SAT)
 
 # Set up the Continuous Integration job
@@ -22,30 +22,12 @@ jobs:
           chmod +x ./tests/contributors.sh
           ./tests/contributors.sh
 
-      # Run git steps for add, commit, push changes
-#       - name: git commit and push changes
-#         run: |
-#           git config --local user.email "action@github.com"
-#           git config --local user.name "GitHub Action"
-#           git add ./book/website/afterword/contributors-record.md
-#           git commit -am 'automated update of Contributors Record'
-
       # Create a PR with changes
       - name: pull-request
         #uses: repo-sync/pull-request@v2
         uses: peter-evans/create-pull-request@v3
         with:
-#           source_branch: "" # If blank, default: triggered branch
-#           destination_branch: "master" # If blank, default: master
-#           pr_title: "Update Contributors Record in Afterword" # Title of pull request
-#           pr_body: ":crown: *An automated PR*"
-#           pr_label: "automated-pr"
-#           github_token: ${{ secrets.GITHUB_TOKEN }}
-#          token: ${{ secrets.PAT }}
           commit-message: Update Contributors Record
-#          committer: GitHub <noreply@github.com>
-#          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
-#          signoff: false
           branch: contributors-bot-patches
           delete-branch: true
           title: '[automated-pr] Update Contributors Record in Afterword'
