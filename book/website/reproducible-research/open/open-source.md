@@ -4,7 +4,7 @@
 (rr-open-source-whatis)=
 ## What Is Open Source Software?
 
-When a project is open-source, anybody can view, use, modify, and distribute the project for any purpose.
+When a project is open-source [{term}`def<Open Source Software>`], anybody can view, use, modify, and distribute the project for any purpose.
 These permissions are enforced through an open-source licence.
 Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
 In its most basic form, open-sourcing your software means putting your code online where it can be viewed and reused by others.
@@ -39,7 +39,7 @@ Open source offers opportunities to practice leadership and management skills, s
 ### Making Your Work Open Source
 
 - _Re-usability_: Making your work openly available for re-use makes it easier for others to incorporate into their research. 
-If you make your software citeable, via a DOI for example, this can increase your citations.
+If you make your software citeable, via a DOI [{term}`def<Digital Object Identifier>`] for example, this can increase your citations.
 - _Contribution_: When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code.
 If your project is open, the number of potential contributing developers and thus the potential knowledge pool is orders of magnitude larger.
 - _Feedback_: Making your work open enables you to get feedback and improve your project in a way you may never have thought of alone.
