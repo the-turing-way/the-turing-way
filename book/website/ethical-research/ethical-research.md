@@ -1,3 +1,4 @@
+(er)=
 # Guide for Ethical Research
 
 ***This guide covers topics related to ethical aspects in data science.***
