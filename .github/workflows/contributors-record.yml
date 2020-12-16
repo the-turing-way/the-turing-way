@@ -4,7 +4,7 @@ name: ContributorsRecord
 # runs daily
 on:
   schedule:
-    - cron:  '/1 * * * *'
+    - cron:  '*/2 * * * *'
     # minute (0 - 59), hour (0 - 23), day of month (1 - 31), month(1 - 12 or JAN-DEC), day of week (0 - 6 or SUN-SAT)
 
 # Set up the Continuous Integration job
@@ -41,11 +41,11 @@ jobs:
 #           pr_body: ":crown: *An automated PR*"
 #           pr_label: "automated-pr"
 #           github_token: ${{ secrets.GITHUB_TOKEN }}
-          token: ${{ secrets.PAT }}
+#          token: ${{ secrets.PAT }}
           commit-message: Update Contributors Record
-          committer: GitHub <noreply@github.com>
-          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
-          signoff: false
+#          committer: GitHub <noreply@github.com>
+#          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+#          signoff: false
           branch: contributors-bot-patches
           delete-branch: true
           title: '[automated-pr] Update Contributors Record in Afterword'
