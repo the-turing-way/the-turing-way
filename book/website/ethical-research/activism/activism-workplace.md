@@ -70,7 +70,7 @@ In the label, replace `keyidea2` with a word that best describes the section or 
 > You may break the section down into subsections if you wish.
 > Remember to use the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) and Jupyter Book's [Cheat Sheet](https://jupyterbook.org/reference/cheatsheet.html) to guide your writing.
 > The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
-Internal policy advocacy is when individuals or groups associated with an organisation campaign for a change in the way that the organisation makes decisions, runs projects, chooses collaborators, develops products, etc.
+Internal policy advocacy is when individuals or groups associated with an organisation campaign for a change in the way that the organisation makes decisions, runs projects, chooses collaborators, develops products, or in other areas. 
 It can be a really powerful tool for change, regardless of whether or not the group of people campaigning are in a union.
 ### Example: Google Workers & Project Maven
 One example of this is Google workers campaigning against Project Maven, a contract with the US Pentagon to use AI to develop more effective drone guidance.
