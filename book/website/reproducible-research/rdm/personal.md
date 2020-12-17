@@ -112,7 +112,7 @@ You can delete the data or replace it with pseudonyms.
 For qualitative data you should replace or generalise identifying characteristics when transcribing interviews.
 * De-identified data that can be re-identified using a linkage file (i.e. information linking data subjects to identifiable individuals) is known as pseudonymised data. 
 NOTE: In this instance, the linkage file should be encrypted and stored securely and separately from the de-identified research data.
-  * Identification of individuals in pseudonymised or de-identified data may still be possible using combinations of indirect identifiers (e.g. age, education, employment, geographic area, medical conditions, etc). 
+  * Identification of individuals in pseudonymised or de-identified data may still be possible using combinations of indirect identifiers (such as age, education, employment, geographic area, and medical conditions). 
 Further, data and outputs (e.g. tables of results) containing small cell counts may be potentially disclosive, particularly where samples are drawn from small populations or include cases with extreme values or relatively rare characteristics.
    * As such, when intending to share potentially identifiable data or the outputs generated from the data, you may need to consider more advanced anonymisation techniques such as statistical disclosure control (SDC, see this handbook for more information).
 
@@ -132,4 +132,3 @@ This may involve finding a data repository which can provide suitable access con
 * [Presentation](https://www.youtube.com/watch?v=H2mv6q4WwOU&) by Rob Gommans on GDPR and the Processing of (Identifiable) Image, Audio, and Video Data for Scientific Research Purposes
 * [Presentation](https://youtu.be/_3bufely0c0) by Stephan Heunis on Brain research data and personal data privacy: practical tips to share and protect
 * [Presentation](https://youtu.be/eAKhI0qde2w?t=1104) by Walter Scholger on the GDPR with resources such as informed consent templates (18:30 - 38:50)
-
