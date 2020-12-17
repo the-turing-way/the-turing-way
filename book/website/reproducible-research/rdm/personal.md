@@ -107,7 +107,7 @@ Contact you research data, privacy or IT support teams for support.
 
 Anonymisation is a process by which identifying information in a dataset is removed. 
 It is used primarily to enable data to be shared or published without revealing the confidential information it contains, while limiting the loss of information.
-* Where possible, direct identifiers (e.g. names, addresses, telephone numbers, account numbers, etc.) should be removed as soon as the identifying information is no longer needed. 
+* Where possible, direct identifiers (such as names, addresses, telephone numbers and account numbers) should be removed as soon as the identifying information is no longer needed. 
 You can delete the data or replace it with pseudonyms. 
 For qualitative data you should replace or generalise identifying characteristics when transcribing interviews.
 * De-identified data that can be re-identified using a linkage file (i.e. information linking data subjects to identifiable individuals) is known as pseudonymised data. 
@@ -132,5 +132,4 @@ This may involve finding a data repository which can provide suitable access con
 * [Presentation](https://www.youtube.com/watch?v=H2mv6q4WwOU&) by Rob Gommans on GDPR and the Processing of (Identifiable) Image, Audio, and Video Data for Scientific Research Purposes
 * [Presentation](https://youtu.be/_3bufely0c0) by Stephan Heunis on Brain research data and personal data privacy: practical tips to share and protect
 * [Presentation](https://youtu.be/eAKhI0qde2w?t=1104) by Walter Scholger on the GDPR with resources such as informed consent templates (18:30 - 38:50)
-
 
