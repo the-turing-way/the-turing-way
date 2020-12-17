@@ -58,7 +58,7 @@ The consent form should cover the following points (but not limited to):
     * understands that participation is voluntarily
     * understands that they may withdraw from the study at any time without giving reasons and without penalty
     * understands how the data will be managed, shared and archived (as detailed in the information sheet)
-       * to increase the chance of your data to be reused, do not promise to delete the data but instead ask for consent to retain and share the data (see Meyer 2018)
+       * to increase the chance of your data to be reused, do not promise to delete the data but instead ask for consent to retain and share the data (see {cite}`Meyer2018personaldata`)
 * Signature and date of signing for the participant and the researcher
 
 Think ahead and plan how you will:
@@ -114,21 +114,23 @@ For qualitative data you should replace or generalise identifying characteristic
 NOTE: In this instance, the linkage file should be encrypted and stored securely and separately from the de-identified research data.
   * Identification of individuals in pseudonymised or de-identified data may still be possible using combinations of indirect identifiers (such as age, education, employment, geographic area, and medical conditions). 
 Further, data and outputs (e.g. tables of results) containing small cell counts may be potentially disclosive, particularly where samples are drawn from small populations or include cases with extreme values or relatively rare characteristics.
-   * As such, when intending to share potentially identifiable data or the outputs generated from the data, you may need to consider more advanced anonymisation techniques such as statistical disclosure control (SDC, see this handbook for more information).
+   * As such, when intending to share potentially identifiable data or the outputs generated from the data, you may need to consider more advanced anonymisation techniques such as statistical disclosure control (SDC, see [this handbook](https://securedatagroup.org/sdc-handbook/) for more information).
 
 **7. Sharing sensitive data**
 
 If you plan to share or publish your data you must ensure that your data are appropriate and safe to share. 
 For example, you should consider whether the data can be adequately anonymised, and whether anonymised data will remain useful (see also {ref}`Barriers to data sharing<rr-rdm-sharing>`Open Research Chapter)
-After applying methods to de-identify and anonymise sensitive data, there may still be a risk of re-identification (see Meyer 2018). 
+After applying methods to de-identify and anonymise sensitive data, there may still be a risk of re-identification (see {cite}`Meyer2018personaldata`
+). 
 Consider applying access controls to ensure the data are shared appropriately and securely. 
 This may involve finding a data repository which can provide suitable access controls (see [here](https://osf.io/tvyxz/wiki/8.%20Approved%20Protected%20Access%20Repositories/) for a list of protected Access Repositories).
 
 
 **Resources**
 * [Protecting sensitive data course](https://mantra.edina.ac.uk/protectionrightsandaccess) by [MANTRA](https://mantra.edina.ac.uk)
-* [Presentation](https://www.youtube.com/watch?v=PSe2V1KTQ8w&) on handling personal data by Enrico Glerean and Päivi Lindström from Aalto University. See [here](https://www.aalto.fi/en/services/rdm-training) for the full course.
-* Meyer 2018 (add to https://github.com/alan-turing-institute/the-turing-way/blob/master/book/website/_bibliography/references.bib)
+* {cite}`Meyer2018personaldata`
+* [Presentations](https://www.youtube.com/watch?v=J9kWkzK83i4&list=PLyeHH3bEQqIbgbw75gheV27nFF2ctPPpR&index=1) by [Zosia Beckles](https://youtu.be/J9kWkzK83i4), [Michele Voznick](https://youtu.be/w5v5d6r6irs) and [Tessa Darbyshire](https://youtu.be/jEFu1ykVI_I) on Responsible Data Management: Legal & Ethical Aspects as part of the [Fail to Nail it sessions](https://www.youtube.com/c/AI4ScientificDiscovery).
 * [Presentation](https://www.youtube.com/watch?v=H2mv6q4WwOU&) by Rob Gommans on GDPR and the Processing of (Identifiable) Image, Audio, and Video Data for Scientific Research Purposes
 * [Presentation](https://youtu.be/_3bufely0c0) by Stephan Heunis on Brain research data and personal data privacy: practical tips to share and protect
 * [Presentation](https://youtu.be/eAKhI0qde2w?t=1104) by Walter Scholger on the GDPR with resources such as informed consent templates (18:30 - 38:50)
+* [Presentation](https://www.youtube.com/watch?v=PSe2V1KTQ8w&) on handling personal data by Enrico Glerean and Päivi Lindström from Aalto University. See [here](https://www.aalto.fi/en/services/rdm-training) for the full course.
