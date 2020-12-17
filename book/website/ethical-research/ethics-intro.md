@@ -15,7 +15,7 @@ Below is a table summarising these questions.
 ```{figure} ../figures/EthicalResearch.jpg
 ---
 height: 500px
-name: Ethical Research 
+name: EthicalResearch 
 alt: One person looks for research integrity and another person holds up a map and looks for the research consequences.
 ---
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
