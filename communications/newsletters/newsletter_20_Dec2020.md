@@ -81,7 +81,7 @@ You can read a complete report from his engagement [here](https://github.com/ala
   - The [Introduction to Research Ethics](https://the-turing-way.netlify.app/ethical-research/ethics-intro.html) chapter has been written by the Ethics team members, Ismael Kherroubi Garcia, Laura Carter and Sophia Batchelor. 
 Thanks to Christina Hithrova and Laura Acion for further comments and review. 
   - The Ethics team members are also graduating from OLS this week for working on the Guide for Ethical Research that was mentored by Jez Cope and Anjali Mazumdar.
-Emma Karoune wrote a chapter for [getting started with GitHub](https://the-turing-way.netlify.app/collaboration/github-novice.html).
+  - Emma Karoune wrote a chapter for [getting started with GitHub](https://the-turing-way.netlify.app/collaboration/github-novice.html).
 Thanks to Kirstie Whitaker, Laura Carter and Paul Owoicho for reviewing and contributing to this chapter. 
   - Carlos Martinez and Sarah Alidoost from the Netherlands eScience Center have updated the [Code Reviewing](https://the-turing-way.netlify.app/reproducible-research/reviewing.html) chapter. 
 Thanks, José Maria Fernandez and Sarah Gibson for reviewing them.
@@ -140,7 +140,7 @@ Similarly, [Open Research Handbook: Reproducibility](https://libguides.reading.a
 - **Collaborations Workshop: CW21**: The Software Sustainability Institute’s (SSI) Collaborations Workshop series brings together researchers, developers, innovators, managers, funders, publishers, policymakers, leaders and educators to explore best practices and the future of research software. 
 Collaborations Workshop 2021 (CW21) will take place online from Tuesday, 30 March to Thursday, 1 April 2021 and registration is now open! 
 The themes of the CW21 keynote presentations, discussion groups, mini-workshops, collaborative ideas, and hack day will be around the following areas of research software: FAIR Research Software, Diversity & Inclusion and Software Sustainability. 
-To find out more information including registration, agenda, call for submissions and how to sponsor the unconference, please visit the CW21 website: http://bit.ly/ssi-cw21
+To find out more information including registration, agenda, call for submissions and how to sponsor the unconference, please visit the CW21 website: [http://bit.ly/ssi-cw21](http://bit.ly/ssi-cw21)
 
 - **FOSS-Backstage 2021**: We are delighted to share that Malvika will be presenting a talk about _The Turing Way_ at the [FOSS-Backstage](https://foss-backstage.de) event.
 The conference will take place from 10 to 12 February 2021 covering different topics on governance, collaboration, legal and economics within the scope of Free and Open Source Software. 
@@ -177,7 +177,7 @@ As we complete the second year of _The Turing Way_, we review the year 2020 mont
 * **June**: The Turing Way members delivered several online workshops and participated in conferences relevant for Open Science, reproducibility and Data Science.
 * **July**: The community Slack space was created to facilitate structured discussions online, which was not effective on Gitter. 12 members joined OLS-2 with 6 projects from Turing and _The Turing Way_.
 * **August**: To allow a proper break for our community and team members amidst this busy year, we declared a break in the project August.
-* **September**: The [community handbook[(https://the-turing-way.netlify.app/community-handbook/community-handbook.htm) started to expand by including chapters on concepts, practices and workflow used by the community members. Particularly, we shared a document detailing how we acknowledge everyone in _The Turing Way_. We also hosted a technical writer upon the successful selection of our Google Season of Doc application.
+* **September**: The [community handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook) started to expand by including chapters on concepts, practices and workflow used by the community members. Particularly, we shared a document detailing how we acknowledge everyone in _The Turing Way_. We also hosted a technical writer upon the successful selection of our Google Season of Doc application.
 * **October**: We hosted the HacktoberFest and facilitated the translation of the READMEmd file in multiple languages. The first good first label was used to onboard members new to Open Source projects,
 * **November**: Malvika and Kirstie hosted the fourth Book Dash event from 9-13 November and connected with 18 new members who worked collaboratively on the project and 2 core members who provided mentorship support. We also received the Turing online Training grant to continue our collaboration with the OLS mentoring program in 2021.
 * **December**: We are ending the year with over 235 contributors, 500 subscribers of our monthly newsletters and 1500 followers on Twitter. So far they all have together developed 30 chapters, 134 subchapters and several supporting resources within our 5 guides and a community handbook.
