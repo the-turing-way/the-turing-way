@@ -1,4 +1,4 @@
-### This is a list of figures in the book
+# This is a list of figures in the book
 
 **To be kept in alphabetical order**
 
@@ -46,4 +46,3 @@
 | VM_export_machine          | Reproducible environments | How to export a virtual machine in VirtualBox     |
 | VM_start_machine           | Reproducible environments | How to start a virtual machine in VirtualBox      |
 | workdir_example            | Reproducible environments | Example of using workdir in Dockerfiles           |
-| wtf_per_min                | Version control           | Good quality code = few wtf per min               |
