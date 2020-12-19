@@ -169,7 +169,7 @@ I'm an independent post-doctoral researcher working in the field of Environmenta
 
 ### Esther Plomp
 
-* Role: Book Dash February 2020 Attendee, semi regular co-working call crasher
+* Role: Book Dash February 2020 Attendee, Regular co-working call Attendee
 * GitHub id: [EstherPlomp](https://github.com/estherplomp)
 * ORCID: [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
 * Twitter: [@PhDToothFAIRy](https://twitter.com/PhDToothFAIRy/)
@@ -207,7 +207,7 @@ Visit us at the [Open Research Calendar Website](https://openresearchcalendar.gi
 
 ### Heidi Seibold
 
-* Role: Core contributor (2020), Book Dash February 2020 Attendee
+* Role: Book Dash February 2020 Attendee
 * GitHub id: [HeidiSeibold](https://github.com/HeidiSeibold)
 * ORCID id: [0000-0002-8960-9642](https://orcid.org/0000-0002-8960-9642)
 * Short bio:
@@ -480,7 +480,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Paul Owoicho
 
-* Role: Google Season of Doc: Technical Writer, [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring)(2020)
+* Role: Google Season of Doc 2020: Technical Writer, [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring)
 * GitHub id: [paulowoicho](http://github.com/paulowoicho)
 * ORCID: TBA
 * Short bio:
