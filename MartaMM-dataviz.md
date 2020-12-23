@@ -99,4 +99,5 @@ Importance of effective visual encodings
 - Segaran, T., & Hammerbacher, J. (2009). _Beautiful data: the stories behind elegant data solutions._ " O'Reilly Media, Inc.".
 - Spiegelhalter, D. (2019). _The art of statistics: learning from data._ Penguin UK.
 - Tufte, E. R., & Graves-Morris, P. R. (1983). The visual display of quantitative information (Vol. 2, No. 9). Cheshire, CT: Graphics press.
-
+- [We all count](https://weallcount.com/the-data-process/)
+- For R users: [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke, [Data Visualization, A practical introduction](https://socviz.co/) by Kieran Healy and [The Data Validation Cookbook](https://data-cleaning.github.io/validate/) by Mark P.J. van der Loo
