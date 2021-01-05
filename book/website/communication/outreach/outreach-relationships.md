@@ -5,7 +5,8 @@ We should develop a thoughtful and mutually beneficial relationship with people 
 This can be further enriched by providing training, effective collaboration and transparent coordination.
 
 ![xkcd comic showing one person sitting in front of their computer and saying "ugh people are mad at me again because they don't read carefully. I'm being perfectly clear. It's not my fault if everyone misinterprets what I say." Someone from next room sarcastically comments "wow, sounds like you're great at communicating, an activity that famously involves just one person."](https://imgs.xkcd.com/comics/misinterpretation_2x.png)
-Munroe, R. *XKCD #1984 "Misinterpretation"* [https://xkcd.com/1984/](https://xkcd.com/1984/)
+
+*Munroe, R. *XKCD #1984 "Misinterpretation"* [https://xkcd.com/1984/](https://xkcd.com/1984/)*
 
 In many cases, there are three significant barriers to entry when it comes to communicating research work:
 1. Not knowing how to express the information in a way that is suitable for a wider audience
