@@ -28,7 +28,7 @@ Some might think that research is a serious business and results should be treat
 However, all that we do is a story, it is a story of a team of researchers, who are driven by a specific motivation, who apply a series of intricate methods or conduct a set of experiments, who make observations and interpretations all in the search of new knowledge. This is the story you want to tell.
 This gives weight to the knowledge you are imparting, it gives reason for the knowledge to exist, and it gives authenticity that proper due process was taken to deliver the research.
 
-## Know the audience
+## Know your audience
 
 Before designing our presentation, we should identify who our audience group is, what knowledge they may or may not have and what kind of presentation would be interesting for them.
 In any case, we should avoid jargon and acronyms to avoid alienating our audience and creating a welcoming atmosphere.
