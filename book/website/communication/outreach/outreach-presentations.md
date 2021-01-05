@@ -86,7 +86,7 @@ Include links to more detail.
 This can be a good way to have communication with people directly.
 Chance to develop a discussion but also can encounter trolls.
 * Personal blogs: Generally not a wide reach but can have good reception to our local community.
-Good place for items that don't naturally fit in anywhere else (i.e. personal projects).
+Good place for items that don't naturally fit in anywhere else, like personal projects.
 * Institutional blogs: Potential for a wide reach and lead to talks or funding opportunities.
 The audience will more likely have domain-specific knowledge.
 
