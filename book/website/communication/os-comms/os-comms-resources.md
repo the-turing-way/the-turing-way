@@ -1,3 +1,4 @@
+(cm-os-resources)=
 # Further Reading
 
 - The Mozilla Open Leadership training series: <https://mozilla.github.io/open-leadership-training-series/articles/readme/>

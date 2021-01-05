@@ -2,7 +2,7 @@
 
 This checklist contains a lot of items. As [mentioned](#Write_tests_any_tests) it is far better to do some of the items than none of them. Do not be discouraged if this list of tasks seems insurmountable.
 
-### Writing tests
+## Writing tests
 
 - [ ] Write a few smoke tests.
 - [ ] Write unit tests for all your code units.
@@ -12,7 +12,7 @@ This checklist contains a lot of items. As [mentioned](#Write_tests_any_tests) i
 - [ ] If appropriate for your project write acceptance tests.
 - [ ] Add runtime tests into your project.
 
-### Good practice checks
+## Good practice checks
 
 - [ ] Document the tests and how to run them.
 - [ ] Write scripts to set up and configure any resources that are needed to run the tests.

@@ -69,7 +69,7 @@ If you want, you can create branches from branches (and branches off of those br
 
 ```{figure} ../../figures/sub_branch.png
 ---
-name: sub_branch
+name: sub_branch1
 alt: An illustration of a development branch in git.
 ---
 A development branch in git.
