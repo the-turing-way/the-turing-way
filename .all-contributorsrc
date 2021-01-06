@@ -2297,6 +2297,16 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "teapowell",
+      "name": "Tim Powell",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/35264355?v=4",
+      "profile": "https://github.com/teapowell",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
