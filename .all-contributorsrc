@@ -2307,6 +2307,16 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "BenjaminMummery",
+      "name": "Benjamin Mummery",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/46931690?v=4",
+      "profile": "https://github.com/BenjaminMummery",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
