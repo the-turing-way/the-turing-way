@@ -21,3 +21,12 @@ CI has a number of key benefits:
 - Encourages users to write tests
 - Automates running of tests
 - Ensures tests are run frequently
+
+```{figure} ../figures/Continuous_Integration.png
+---
+height: 500px
+name: Continuous Integration
+alt: A sketch showing how continuous integration helps developers plan, design, integrate code into a shared repository, and then observe the influence of any changes.
+---
+_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
+```
