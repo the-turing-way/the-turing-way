@@ -189,8 +189,8 @@
     sections:
     - title: Continuous integration options
       file: reproducible-research/ci/ci-options
-    - title: Continuous integration with Travis
-      file: reproducible-research/ci/ci-travis
+    - title: Getting started with GitHub action
+      file: reproducible-research/ci/ci-github-actions
     - title: Best practices and recommendations
       file: reproducible-research/ci/ci-practices
     - title: Checklist
