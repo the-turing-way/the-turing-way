@@ -1,11 +1,14 @@
 (rr-ci-ghactions)=
 # Continuous Integration with GitHub Actions
 
-First, take a moment to examine the image below. It shows the relationship between **continuous integration**, **continuous delivery** and **continuous deployment**.
+**GitHub Actions** is a task automation system fully integrated with GitHub. In other words, it is an API that orchestrates any workflow, based on any event. It can make makes it easier than ever to incorporate CI into the repositories. It is a flexible way to automate nearly every aspect of your software workflow. Here are just a few use cases of GitHub Actions:
 
-![](https://i.imgur.com/xZCkjmU.png)
-
-**Continuous integration** (CI) is a practice where developers  integrate code into a shared branch several times per day.  The shared branch is sometimes referred to as **trunk**, but on Git, it's named **main**. To integrate code, developers **commit** on other Git branches, **push** their changes, and **merge** to main through **pull requests**. 
+- Automated testing (CI)
+- Continuous delivery and deployment
+- Responding to workflow triggers using issues, `@` mentions, labels, and more
+- Triggering code reviews
+- Managing branches
+- Triaging issues and pull requests
 
 Automated events take place throughout this process. These events can range from running tests or deployments to cross-linking to relevant threads. Here's an example that we will use:
 
@@ -13,20 +16,16 @@ Automated events take place throughout this process. These events can range from
 - Automated testing of the software takes place
 - Reports are generated and sent back to the developers with the status of their changes
 
-**GitHub Actions** is a task automation system fully integrated with GitHub. In other words, it is an API that orchestrates any workflow, based on any event. It can make makes it easier than ever to incorporate CI into the repositories. It is a flexible way to automate nearly every aspect of your software workflow. Here are just a few use cases of GitHub Actions:
-
-- Automated testing (CI)
-- Continuous delivery and deployment
-- Responding to workflow triggers using issues, @ mentions, labels, and more
-- Triggering code reviews
-- Managing branches
-- Triaging issues and pull requests
-
 ## Getting started with GitHub Action
-If you want to get started with GitHub Actions, you can start by clicking the "Actions" tab in the repository where you want to create a workflow as shown in Fig 1.
 
-You can either use a templated workflow or create your own. 
-<!--needs to create gifs-->
+GitHub Actions uses YAML syntax and stored in a directory called `.github/workflows` in the repository. You can either use a templated workflow or create your own.
+1- Using GitHub Actions template
+
+If you want to get started with GitHub Actions, you can start by clicking the "Actions" tab in the repository where you want to create a workflow as shown below.
+
+2- Using libraries-specific templates. 
+ 
+
 
 ## GitHub-related Vocabulary
 <!-- (I'll explain each vocab separately using diagrams made with adobe illustrator) -->
