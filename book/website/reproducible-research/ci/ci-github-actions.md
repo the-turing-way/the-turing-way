@@ -1,4 +1,4 @@
-(rr-ci-github-actions)=
+(rr-ci-ghactions)=
 # Continuous Integration with GitHub Actions
 
 First, take a moment to examine the image below. It shows the relationship between **continuous integration**, **continuous delivery** and **continuous deployment**.
