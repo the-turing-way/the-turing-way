@@ -189,7 +189,7 @@
     sections:
     - title: Continuous integration options
       file: reproducible-research/ci/ci-options
-    - title: Getting started with GitHub action
+    - title: Getting started with GitHub actions
       file: reproducible-research/ci/ci-github-actions
     - title: Best practices and recommendations
       file: reproducible-research/ci/ci-practices
