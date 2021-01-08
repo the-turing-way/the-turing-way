@@ -19,11 +19,17 @@ Automated events take place throughout this process. These events can range from
 ## Getting started with GitHub Action
 
 GitHub Actions uses YAML syntax and stored in a directory called `.github/workflows` in the repository. You can either use a templated workflow or create your own.
-1- Using GitHub Actions template
+
+#### 1- Using GitHub Actions template
 
 If you want to get started with GitHub Actions, you can start by clicking the "Actions" tab in the repository where you want to create a workflow as shown below.
 
-2- Using libraries-specific templates. 
+
+<p align="center">
+  <img src="../../figures/gifs/start_ghactions.gif" width="600">
+</p>
+
+#### 2- Using libraries-specific templates. 
  
 
 
