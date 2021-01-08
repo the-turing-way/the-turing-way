@@ -482,7 +482,6 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 * Role: Google Season of Doc: Technical Writer, [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring)(2020)
 * GitHub id: [paulowoicho](http://github.com/paulowoicho)
-* ORCID: TBA
 * Short bio:
 > I am a Technical Writer / Google Season of Docs (GSoD) Participant working to make The Turing Way consistent, sustainable, and accessible.
 > I have a BSc in Software Engineering from the American University of Nigeria. Thereafter, I worked as a Research Analyst in the Fintech & Innovation Division of Guaranty Trust Bank, Nigeria and helped to drive the Bank's push to become a platform by creating innovative digital products.
