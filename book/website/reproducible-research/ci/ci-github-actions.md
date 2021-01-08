@@ -10,11 +10,15 @@ In this section, we walk you through a basic setup of continuous integration usi
 - Managing branches
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 GitHub Actions are event-driven, meaning it responds to an event (e.g., PR created, issue created, etc.) and triggers an action (e.g., label, test, sort, ..).
 =======
 GitHub Actions are event-driven, meaning it responds ti an event (PR created, issue created, ...) and trigger an action (label, test, sort, ...). A collection of jobs are called a workflow.
 
 >>>>>>> divide to sub-chapters
+=======
+GitHub Actions are event-driven, meaning it responds to an event (e.g., PR created, issue created, etc.) and triggers an action (e.g., label, test, sort, ..).
+>>>>>>> add more describtion to the vocab sec
 
 ```{figure} ../../figures/gih_action_diagrame.png
 ---
@@ -45,6 +49,7 @@ alt: A gif showing where you can find GitHub Actions template in your Github rep
 #### 2- Using libraries-specific templates.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## GitHub-related Vocabulary
 =======
 
@@ -52,6 +57,19 @@ alt: A gif showing where you can find GitHub Actions template in your Github rep
 # GitHub-related Vocabulary
 >>>>>>> divide to sub-chapters
 <!-- (I'll explain each vocab separately using diagrams made with adobe illustrator) -->
+=======
+## GitHub-related Vocabulary
+
+
+```{figure} ../../figures/gh_actions_structure.png
+---
+width: 600px
+align: center
+name: GitHub action Structure
+alt: a diagrame showing how the workflow is divided into jobs and steps.
+---
+```
+>>>>>>> add more describtion to the vocab sec
 
 **1. WorkFlow**
 
@@ -63,7 +81,7 @@ A job is a section of the workflow, and is made up of one or more steps. In this
 
 **3. Step**
 
-A step represents one effect of the automation. A step could be defined as a GitHub Action, or another unit, like printing something to the console.
+Step: A step represents one effect of the automation. A step could be defined as a GitHub Action, or another unit, like printing something to the console.
 
 **4. Actions**
 
