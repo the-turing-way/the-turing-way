@@ -191,6 +191,8 @@
       file: reproducible-research/ci/ci-options
     - title: Getting started with GitHub actions
       file: reproducible-research/ci/ci-github-actions
+    - title: Building a Block of a Github actions
+      file: reproducible-research/ci/ci-building-gh-actions.md
     - title: Best practices and recommendations
       file: reproducible-research/ci/ci-practices
     - title: Checklist
