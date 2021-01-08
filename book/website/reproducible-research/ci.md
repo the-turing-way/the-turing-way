@@ -12,6 +12,15 @@
 
 Continuous integration (CI) is the practice of integrating changes to a project made by individuals into a main, shared version frequently (usually multiple times per day). CI software is also typically used to identify any conflicts and bugs that are introduced by changes, so they are found and fixed early, minimising the effort required to do so. Running tests regularly also saves humans from needing to do it manually. By making users aware of bugs as early as possible researchers (if the project is a research project) do not waste a lot of time doing work that may need to be thrown away, which may be the case if tests are run infrequently and results are produced using faulty code.
 
+```{figure} ../figures/Continuous_Integration.png
+---
+height: 500px
+name: Continuous Integration
+alt: A sketch showing how continuous integration helps developers plan, design, integrate code into a shared repository, and then observe the influence of any changes.
+---
+_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
+```
+
 ## How this will help you/ why this is useful
 
 CI has a number of key benefits:
@@ -22,11 +31,3 @@ CI has a number of key benefits:
 - Automates running of tests
 - Ensures tests are run frequently
 
-```{figure} ../figures/Continuous_Integration.png
----
-height: 500px
-name: Continuous Integration
-alt: A sketch showing how continuous integration helps developers plan, design, integrate code into a shared repository, and then observe the influence of any changes.
----
-_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
-```
