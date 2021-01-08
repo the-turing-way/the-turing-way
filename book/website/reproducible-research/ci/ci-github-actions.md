@@ -1,7 +1,7 @@
 (rr-ci-ghactions)=
 # Continuous Integration with GitHub Actions
 
-In this section we walk you through a basic setup of continuous integration using GitHub Actions. **GitHub Actions** is a task automation system fully integrated with GitHub. In other words, it is an API that orchestrates any workflow, based on any event. It can make makes it easier than ever to incorporate CI into the repositories. It is a flexible way to automate nearly every aspect of your software workflow. Here are just a few examples of use cases of GitHub Actions:
+In this section, we walk you through a basic setup of continuous integration using GitHub Actions. **GitHub Actions** is a task automation system fully integrated with GitHub. In other words, it is an API that orchestrates any workflow based on any event. It can make makes it easier than ever to incorporate CI into the repositories. It is a flexible way to automate nearly every aspect of your software workflow. Here are just a few examples of use cases of GitHub Actions:
 
 - Automated testing of the software
 - Generate reports of the status of any changes in the repository
@@ -9,7 +9,7 @@ In this section we walk you through a basic setup of continuous integration usin
 - Triggering code reviews and pull requests
 - Managing branches
 
-GitHub Actions are event-driven, meaning it responds ti an event (e.g. PR created, issue created, ..) and trigger an action (e.g. label, test, sort, ..).
+GitHub Actions are event-driven, meaning it responds to an event (e.g., PR created, issue created, etc.) and triggers an action (e.g., label, test, sort, ..).
 
 ```{figure} ../../figures/gih_action_diagrame.png
 ---
@@ -26,8 +26,7 @@ GitHub Actions uses YAML syntax and stored in a directory called `.github/workfl
 
 #### 1- Using GitHub Actions template
 
-If you want to get started with GitHub Actions, you can start by clicking the "Actions" tab in the repository where you want to create a workflow as shown below.
-
+If you want to get started with GitHub Actions, you can start by clicking the "Actions" tab in the repository where you want to create a workflow, as shown below.
 
 ```{figure} ../../figures/gifs/start_ghactions.gif
 ---
