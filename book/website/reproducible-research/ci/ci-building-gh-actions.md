@@ -1,11 +1,12 @@
-# Building a Block of a Github Actions WorkFlow
+# Building a Block of a Github Actions
 
 **1. name**
 This is the name of the workflow. GitHub will use this name to be displayed on the repository's actions page.
 ```
 name:
-    CI package
+     test package
 ```
+
 **3. on**
 The `on` field tells GitHub Actions when to run. For exmple, we can run the workflow anytime there's a `push` or a `pull`.
 ```
@@ -55,5 +56,4 @@ It is the linear sequence of operations that make up a job.
 
 Always remember that the goal is to have fewer bugs in production and faster feedback while developing.
 
-Providing a comprehensive guide of all the available options is beyond the scope of this overview, and instead we would urge you to study the CI configuration
-of well established open source projects.
+Providing a comprehensive guide of all the available options is beyond the scope of this overview, and instead we would urge you to study the CI configuration of well established open source projects.

@@ -11,6 +11,7 @@ In this section, we walk you through a basic setup of continuous integration usi
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 GitHub Actions are event-driven, meaning it responds to an event (e.g., PR created, issue created, etc.) and triggers an action (e.g., label, test, sort, ..).
 =======
 GitHub Actions are event-driven, meaning it responds ti an event (PR created, issue created, ...) and trigger an action (label, test, sort, ...). A collection of jobs are called a workflow.
@@ -19,6 +20,9 @@ GitHub Actions are event-driven, meaning it responds ti an event (PR created, is
 =======
 GitHub Actions are event-driven, meaning it responds to an event (e.g., PR created, issue created, etc.) and triggers an action (e.g., label, test, sort, ..).
 >>>>>>> add more describtion to the vocab sec
+=======
+GitHub Actions are event-driven, meaning it responds to an event (`PR` created, issue created, etc.) and triggers an action (label, test, sort, ..). A collection of actions is called a workflow.
+>>>>>>> minor changes
 
 ```{figure} ../../figures/gih_action_diagrame.png
 ---
