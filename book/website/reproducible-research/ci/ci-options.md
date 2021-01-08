@@ -19,17 +19,7 @@ Integrating code frequently does not, by itself, offer any guarantees about the 
 By ensuring that your code is built and tested regularly CI helps researchers to demonstrate that their code does what it claims to do, and that it does so correctly. Typically, continuous integration servers will also allow build-and-test jobs to run at specific times, so a [CRON](https://en.wikipedia.org/wiki/Cron)-like, nightly-build-and-test, can be done, as well as a build-and-test job run on-demand.
 
 
-## How this will help you/ why this is useful
-
-CI has a number of key benefits:
-
-- Helps bugs to be found early, minimising their damage and making them easier to fix
-- Keeps project contributors up to date with each other's work so they can benefit from it as soon as possible
-- Encourages users to write tests
-- Automates running of tests
-- Ensures tests are run frequently
-
-# What are the options for CI service providers?
+## What are the options for CI service providers?
 
 There are many CI service providers, such as GitHub Actions and Travis CI. Each of these services has its own advantages and disadvantages. In this section we provide a brief overview with links to examples to help you select the most suitable one for you.
 
