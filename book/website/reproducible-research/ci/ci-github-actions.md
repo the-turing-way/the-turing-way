@@ -13,10 +13,10 @@ GitHub Actions are event-driven, meaning it responds ti an event (e.g. PR create
 
 ```{figure} ../../figures/gih_action_diagrame.png
 ---
-width: 600px
+width: 400px
 align: center
-name: example
-alt: Github actions diagrame
+name: Github actions
+alt: a diagrame showing how events can trigger a job, and a collection of jobs called a workflow.
 ---
 ```
 
@@ -33,15 +33,12 @@ If you want to get started with GitHub Actions, you can start by clicking the "A
 ---
 width: 600px
 align: center
-name: example
-alt: example of gif
+name: GitHub action template
+alt: A gif showing where you can find GitHub Actions template in your Github repo.
 ---
 ```
 
-
 #### 2- Using libraries-specific templates.
-
-
 
 ## GitHub-related Vocabulary
 <!-- (I'll explain each vocab separately using diagrams made with adobe illustrator) -->
