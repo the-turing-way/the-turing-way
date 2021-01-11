@@ -25,14 +25,14 @@ A brief description of each of these tools is given below
 (rr-renv-options-pms)=
 ## Package Management Systems
 
-Package Management Systems are tools used to install and keep track of the software (and critically versions of software) used on a system and can export files specifying these required software packages/versions.
+Package Management Systems [{term}`def<Package Management System>`] are tools used to install and keep track of the software (and critically versions of software) used on a system and can export files specifying these required software packages/versions.
 The files can be shared with others who can use them to replicate the environment, either manually or via their Package Management Systems.
 
 
 (rr-renv-options-binder)=
 ## Binder
 
-Binder is a service which generates fully-functioning versions of projects from a git repository and serves them on the cloud. 
+Binder [{term}`def<Binder>`] is a service which generates fully-functioning versions of projects from a git repository and serves them on the cloud. 
 These "binderized" projects can be accessed and interacted with by others via a web browser.
 In order to do this, Binder requires that the software (and, optionally, versions) required to run the project are specified. 
 Users can make use of Package Management Systems or Dockerfiles (discussed in the {ref}`rr-renv-options-containers` sections) to do this if they so desire.
@@ -41,7 +41,7 @@ Users can make use of Package Management Systems or Dockerfiles (discussed in th
 (rr-renv-options-vm)=
 ## Virtual Machines
 
-Virtual Machines are simulated computers.
+Virtual Machines [{term}`def<Virtual machine>`] are simulated computers.
 A user can make a "virtual" computer very easily, specifying the operating system they want it to have, among other features, and run it like any other app.
 Within the app will be the desktop, file system, default software libraries, and other features of the specified machine. 
 These can be interacted with as if it was a real computer.
@@ -53,7 +53,7 @@ They can then distribute these as a fully-functioning project.
 (rr-renv-options-containers)=
 ## Containers
 
-Containers offer many of the same benefits as Virtual Machines.
+Containers [{term}`def<Container>`] offer many of the same benefits as Virtual Machines.
 They essentially act as entirely separate machines which can contain their own files, software and settings.
 
 The difference is that Virtual Machines include an entire operating system along with all the associated software that is typically packaged with it - regardless of whether the project makes use of that associated software.
