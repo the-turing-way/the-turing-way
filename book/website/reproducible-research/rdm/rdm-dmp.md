@@ -25,15 +25,15 @@ If you want to share your outputs later on, open file formats that can be opened
         * Processed data: a version of the data that has been modified for analysis or visualisation
         * Finalised data: data that is ready to be shared in a publication or data repository (see {ref}`Sharing and archiving data section <rr-rdm-sharing>` for more information)
     * All of these types of data will have to be described to be placed into context by using metadata (see the {ref}`Documentation and metadata section<rr-rdm-metadata>`) and adequate documentation which will allow future you, and anyone in your team, to interpret the data. 
-    * It is helpful to know the approximate size (in the range of MB, GB, TB or PB) of the data in these various stages, because this will affect the storage solutions available for you (see below). 
+    * It is helpful to know the approximate size (in the range of MB, GB, TB or PB) of the data in these various stages because this will affect the storage solutions available for you (discussed in the next point). 
 3. **Type of data storage used and back up procedures that are in place** 
-    * Check the {ref}`Data storage and organisation section<rr-rdm-storage>` for storage and back-up solutions and ways to organise your files 
+    * Check the {ref}`data storage and organisation section<rr-rdm-storage>` for storage and back-up solutions and ways to organise your files 
     * Check if there are any **costs** associated with your project
         * Preferred storage solution (during and after the project, see below)
         * Personnel costs (if you need a data manager to manage more sensitive or large quantities of data)
         * Software licenses (such as Electronic Lab Notebooks, see the {ref}`Open notebooks section<rr-open-notebooks>`
         * You can use this [checklist for costs](https://www.ukdataservice.ac.uk/media/622368/costingtool.pdf) as a guidance
-    * Keeping track of who changed what in your data/code can be important, particularly for code.
+    * Keeping track of who made specific changes in your data/code will be important, particularly for code.
 See the {ref}`Version Control chapter<rr-vcs>` for more information.
     * Determine who has access to the data and who grants access. 
 At least one other person should have access to your data, such as your supervisor/PI/head of the department. 
@@ -43,7 +43,7 @@ If you're managing personal/commercially sensitive data, access should only be g
 Personal data or research outputs needed to apply for patents cannot be publicly shared, see the {ref}`Open data section<rr-open-data>`
 If data cannot be made publicly available you will still have to preserve it for several years, depending on the policies of your country, institute and funder.
     * You can outsource long term preservation of your data to a data repository. 
-You can find more information on how to select an appropriate repository in the {ref}`Sharing and archiving data section<rr-rdm-sharing>`
+You can find more information on how to select an appropriate repository in {ref}`sharing and archiving data<rr-rdm-sharing>` section
         * Select repositories using, for example, [FAIRsharing](https://fairsharing.org/) or [Nature's recommended repository list](https://www.springernature.com/gp/authors/research-data-policy/repositories/12327124), that provide a persistent identifier such as a DOI for your research output. 
 A repository should have a preservation policy that specifies how long your outputs will be curated. 
 When in doubt, contact your library Research Data Support Team for more information about data repositories. 
