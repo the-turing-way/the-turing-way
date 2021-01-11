@@ -18,7 +18,7 @@ The library research support team of your institute and the website of your fund
 Some of the funders require you to use their Data Management Plan template. 
 You can check if your funder or institute has a Data Management Plan template using [DMPonline](https://dmponline.dcc.ac.uk/).
 2. **Type and size of data collected and documentation/metadata generated**
-    * You can list the file formats you will be using to collect, process and present your data. 
+    * Here, you can list the file formats you will use to collect, process and present your data. 
 If you want to share your outputs later on, open file formats that can be opened and used without a particular license for a software programme are preferred, so you may have to convert your files or start working in these formats early on. 
     * A distinction can be made between different types of data that can be described in the plan separately: 
         * Raw/primary data: data collected from the source (always keep a read-only version of raw data so you can come back to it later!)
