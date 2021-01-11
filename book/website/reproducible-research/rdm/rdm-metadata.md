@@ -6,7 +6,7 @@ For example, a table of numbers is useless if there are no headings that describ
 Therefore you should ensure that open datasets include consistent core metadata and that the data is fully described.
 This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
 
-- The level of documentation and metadata will vary according to the project, and the range of people the data needs to be understood by.
+- The level of documentation and metadata [{term}`def<Metadata>`] will vary according to the project, and the range of people the data needs to be understood by.
 - It is best practice to use recognised community metadata standards to make it easier for datasets to be combined.
 For example, for brain data, the [Brain Imaging Data Structure](https://doi.org/10.25504/FAIRsharing.rd1j6t) is the standard to use. 
 Other [metadata standards](https://fairsharing.org/standards)(reporting requirements, terminologies, and models/schemas) are searchable in [FAIRsharing](https://fairsharing.org/).
