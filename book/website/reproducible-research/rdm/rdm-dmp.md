@@ -27,7 +27,7 @@ If you want to share your outputs later on, open file formats that can be opened
     * All of these types of data will have to be described to be placed into context by using metadata (see the {ref}`Documentation and metadata section<rr-rdm-metadata>`) and adequate documentation which will allow future you, and anyone in your team, to interpret the data. 
     * It is helpful to know the approximate size (in the range of MB, GB, TB or PB) of the data in these various stages because this will affect the storage solutions available for you (discussed in the next point). 
 3. **Type of data storage used and back up procedures that are in place** 
-    * Check the {ref}`Data storage and organisation section<rr-rdm-storage>` for storage and back-up solutions and ways to organise your files 
+    * Check the {ref}`data storage and organisation section<rr-rdm-storage>` for storage and back-up solutions and ways to organise your files 
     * Check if there are any **costs** associated with your project
         * Preferred storage solution (during and after the project, see below)
         * Personnel costs (if you need a data manager to manage more sensitive or large quantities of data)
