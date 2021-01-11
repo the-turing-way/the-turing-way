@@ -51,7 +51,7 @@ When in doubt, contact your library Research Data Support Team for more informat
     * Select a license when you make your output available on a repository (see the Licensing sections on {ref}`data<rr-licensing-data>` and {ref}`software<rr-licensing-software>` for more information). 
 By selecting a license you tell others how they can reuse your data. If you do not select a license others will not be able to reuse your data without asking you for permission. 
     * You can put your research outputs into context using a README.txt file
-        * See the {ref}`Documentation and metadata section<rr-rdm-metadata>`
+        * See the {ref}`documentation and metadata section<rr-rdm-metadata>`
 
 You can use this [checklist](https://www.ukdataservice.ac.uk/manage-data/plan/checklist.aspx) to see if you have everything covered in your Data Management Plan. 
 
