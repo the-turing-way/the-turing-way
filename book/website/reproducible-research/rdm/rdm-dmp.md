@@ -33,7 +33,7 @@ If you want to share your outputs later on, open file formats that can be opened
         * Personnel costs (if you need a data manager to manage more sensitive or large quantities of data)
         * Software licenses (such as Electronic Lab Notebooks, see the {ref}`Open notebooks section<rr-open-notebooks>`
         * You can use this [checklist for costs](https://www.ukdataservice.ac.uk/media/622368/costingtool.pdf) as a guidance
-    * Keeping track of who changed what in your data/code can be important, particularly for code.
+    * Keeping track of who made specific changes in your data/code will be important, particularly for code.
 See the {ref}`Version Control chapter<rr-vcs>` for more information.
     * Determine who has access to the data and who grants access. 
 At least one other person should have access to your data, such as your supervisor/PI/head of the department. 
