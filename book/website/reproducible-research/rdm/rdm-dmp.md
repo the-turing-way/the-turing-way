@@ -44,7 +44,7 @@ Personal data or research outputs needed to apply for patents cannot be publicly
 If data cannot be made publicly available you will still have to preserve it for several years, depending on the policies of your country, institute and funder.
     * You can outsource long term preservation of your data to a data repository. 
 You can find more information on how to select an appropriate repository in the {ref}`Sharing and archiving data section<rr-rdm-sharing>`
-        * Select repositories (using for example [FAIRsharing](https://fairsharing.org/) or [Nature's recommended repository list](https://www.springernature.com/gp/authors/research-data-policy/repositories/12327124)) that provide a persistent identifier such as a DOI for your research output. 
+        * Select repositories using, for example, [FAIRsharing](https://fairsharing.org/) or [Nature's recommended repository list](https://www.springernature.com/gp/authors/research-data-policy/repositories/12327124), that provide a persistent identifier such as a DOI for your research output. 
 A repository should have a preservation policy that specifies how long your outputs will be curated. 
 When in doubt, contact your library Research Data Support Team for more information about data repositories. 
 5. **Reuse of your research outputs by others**
