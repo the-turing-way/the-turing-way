@@ -16,7 +16,7 @@ Defining who is responsible for the management of the data and code can prevent 
     * You should check the DMP recommendations and requirements of your institute and funder. 
 The library research support team of your institute and the website of your funder are usually good places to find information and help. 
 Some of the funders require you to use their DMP template. 
-You can check if your funder or institute has a Data Management Plan template using [DMPonline](https://dmponline.dcc.ac.uk/).
+You can check if your funder or institute has a DMP using [DMPonline](https://dmponline.dcc.ac.uk/).
 2. **Type and size of data collected and documentation/metadata generated**
     * Here, you can list the file formats you will use to collect, process and present your data. 
 If you want to share your research outputs later, standard file formats that can be openly used without a particular license for a software programme are preferred.
