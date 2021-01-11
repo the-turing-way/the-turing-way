@@ -35,7 +35,7 @@ If you want to share your outputs later on, open file formats that can be opened
         * You can use this [checklist for costs](https://www.ukdataservice.ac.uk/media/622368/costingtool.pdf) as a guidance
     * Keeping track of who changed what in your data/code can be important, particularly for code.
 See the {ref}`Version Control chapter<rr-vcs>` for more information.
-    * Determine who has access to the data. 
+    * Determine who has access to the data and who grants access. 
 At least one other person should have access to your data, such as your supervisor/PI/head of the department. 
 If you're managing personal/commercially sensitive data, access should only be given to individuals that have to work with the data. 
 4. **Preservation of the research outputs after the project**
@@ -51,7 +51,7 @@ When in doubt, contact your library Research Data Support Team for more informat
     * Select a license when you make your output available on a repository (see the Licensing subchapters on {ref}`data<rr-licensing-data>` and {ref}`software<rr-licensing-software>` for more information). 
 By selecting a license you tell others how they can reuse your data. 
 If you do not select a license others will not be able to reuse your data without asking you for permission. 
-    * You can put your research outputs into context using a README.txt file
+    * You can put your research outputs into context using and introduction text, such as a README.txt file
         * See the {ref}`documentation and metadata section<rr-rdm-metadata>`
 
 You can use this [checklist](https://www.ukdataservice.ac.uk/manage-data/plan/checklist.aspx) to see if you have everything covered in your Data Management Plan. 
