@@ -14,7 +14,7 @@ The following sections in this handbook provide useful context and complementary
 (rr-rdm-summary)=
 ## Summary
 
-Research Data Management (RDM) covers how research data can be stored, described and reused. 
+Research Data Management (RDM) [{term}`def<Research Data Management>`] covers how research data can be stored, described and reused. 
 Data here is used as a generic term to encompass all digital objects. 
 RDM is a vital part of enabling reproducible research. 
 RDM ensures efficiency in research workflows, and also greater reach and impact, as data become FAIR (Findable, Accessible, Interoperable and Reusable). 
