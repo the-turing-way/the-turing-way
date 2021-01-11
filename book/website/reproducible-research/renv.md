@@ -14,7 +14,7 @@
 (rr-renv-summary)=
 ## Summary
 
-Every computer has its unique computational environment consisting of its operating system, installed software, versions of installed software packages, and other features that we will describe later.
+Every computer has its unique computational environment [{term}`def<Computational Environment>`] consisting of its operating system, installed software, versions of installed software packages, and other features that we will describe later.
 Suppose a research project is carried out on one computer but transferred to a different computer. 
 There is no guarantee that the analysis will be able to run or generate the same results if the analysis is dependent on any of the considerations listed above.
 
