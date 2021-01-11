@@ -15,7 +15,7 @@ Planning ahead on how to manage your data consistently can save you time later o
 Defining who is responsible for the management of the data and code can prevent confusion/miscommunication later in the project.
     * You should check the requirements of your institute and funder. 
 The library research support team of your institute and the website of your funder are usually good places to find information and help. 
-Some of the funders require you to use their Data Management Plan template. 
+Some of the funders require you to use their DMP template. 
 You can check if your funder or institute has a Data Management Plan template using [DMPonline](https://dmponline.dcc.ac.uk/).
 2. **Type and size of data collected and documentation/metadata generated**
     * Here, you can list the file formats you will use to collect, process and present your data. 
