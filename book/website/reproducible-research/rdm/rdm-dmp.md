@@ -44,12 +44,12 @@ At least one other person should have access to your data, such as your supervis
 If you're managing personal/commercially sensitive data, access should only be given to individuals that have to work with the data. 
 
 ### 4. Preservation of the research outputs after the project
-    * Consider whether your research outputs can be made publicly available. 
+* Consider whether your research outputs can be made publicly available. 
 Personal data or research outputs needed to apply for patents cannot be publicly shared, see the {ref}`Open data section<rr-open-data>`
 If data cannot be made publicly available you will still have to preserve it for several years, depending on the policies of your country, institute and funder.
-    * You can outsource long term preservation of your data to a data repository. 
+* You can outsource long term preservation of your data to a data repository. 
 You can find more information on how to select an appropriate repository in {ref}`sharing and archiving data<rr-rdm-sharing>` section
-        * Select repositories using, for example, [FAIRsharing](https://fairsharing.org/) or [Nature's recommended repository list](https://www.springernature.com/gp/authors/research-data-policy/repositories/12327124), that provide a persistent identifier such as a DOI for your research output. 
+    * Select repositories using, for example, [FAIRsharing](https://fairsharing.org/) or [Nature's recommended repository list](https://www.springernature.com/gp/authors/research-data-policy/repositories/12327124), that provide a persistent identifier such as a DOI for your research output. 
 A repository should have a preservation policy that specifies how long your outputs will be curated. 
 When in doubt, contact your library Research Data Support Team for more information about data repositories. 
 
