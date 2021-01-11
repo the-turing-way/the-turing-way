@@ -13,7 +13,7 @@ Planning ahead on how to manage your data consistently can save you time later o
 1. **Roles and Responsibilities**
     * It is important to discuss who is responsible for different tasks during the life-cycle of a research project. 
 Defining who is responsible for the management of the data and code can prevent confusion/miscommunication later in the project.
-    * You should check the requirements of your institute and funder. 
+    * You should check the DMP recommendations and requirements of your institute and funder. 
 The library research support team of your institute and the website of your funder are usually good places to find information and help. 
 Some of the funders require you to use their DMP template. 
 You can check if your funder or institute has a Data Management Plan template using [DMPonline](https://dmponline.dcc.ac.uk/).
