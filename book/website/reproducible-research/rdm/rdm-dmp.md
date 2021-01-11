@@ -49,7 +49,8 @@ A repository should have a preservation policy that specifies how long your outp
 When in doubt, contact your library Research Data Support Team for more information about data repositories. 
 5. **Reuse of your research outputs by others**
     * Select a license when you make your output available on a repository (see the Licensing sections on {ref}`data<rr-licensing-data>` and {ref}`software<rr-licensing-software>` for more information). 
-By selecting a license you tell others how they can reuse your data. If you do not select a license others will not be able to reuse your data without asking you for permission. 
+By selecting a license you tell others how they can reuse your data. 
+If you do not select a license others will not be able to reuse your data without asking you for permission. 
     * You can put your research outputs into context using a README.txt file
         * See the {ref}`documentation and metadata section<rr-rdm-metadata>`
 
