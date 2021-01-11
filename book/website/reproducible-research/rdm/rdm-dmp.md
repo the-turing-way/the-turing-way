@@ -11,7 +11,7 @@ Planning ahead on how to manage your data consistently can save you time later o
 ## A Data Management Plan should provide information on five main topics:
 
 1. **Roles and Responsibilities**
-    * It is important to discuss who is responsible for what during the research project. 
+    * It is important to discuss who is responsible for different tasks during the life-cycle of a research project. 
 Defining who is responsible for the management of the data and code can prevent confusion/miscommunication later in the project.
     * You should check the requirements of your institute and funder. 
 The library research support team of your institute and the website of your funder are usually good places to find information and help. 
