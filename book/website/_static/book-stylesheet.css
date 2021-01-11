@@ -1,0 +1,88 @@
+/*--------------------------------------------------------------------*\ 
+
+This file contains the CSS that handles styling across the entire book.
+Use the classes defined here to control the look of HTML elements in your contribution.
+
+If you add new styles, remember explain what it does as shown below. 
+
+Index
+  - Styling for Table of Contents
+  - Styling for Embedded Videos
+
+\*--------------------------------------------------------------------*/ 
+
+/*--------------------------------------------------------------------*\ 
+Styling for Table of Contents 
+
+- Ensures that menu items in the table of contents are big enough for readers
+
+\*--------------------------------------------------------------------*/ 
+
+#site-navigation li > a {
+  font-size: 1.1em;
+}
+
+/*--------------------------------------------------------------------*\
+
+Styling for Embedded Videos (iframes) 
+
+- Ensures that videos can resize to suit the screen the book is read from.
+- Also ensures that videos are horizontally centered.
+
+\*--------------------------------------------------------------------*/ 
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 35px;
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+iframe {
+  margin: auto;
+  display:block;
+}
+
+/*--------------------------------------------------------------------*\
+
+Styling for Tables
+
+- Improves styling of tables over the default Markdown standard
+- Adds borders to tables, and allows a rows to be highlighted when hovered
+
+\*--------------------------------------------------------------------*/ 
+
+th, td {
+  border: 1px solid #999999 !important; 
+  text-align: center; 
+  padding: 10px
+}
+
+th {
+  font-weight: bold; 
+  background-color: #EEEEEE;
+}
+
+table caption {
+  color: black; 
+  text-align: center;
+}
+
+table caption .footnote {
+  color: #666666; 
+  text-align: left; 
+  font-size: smaller;
+}
+
+tr:hover {
+  background-color: #f7f7f7;
+}

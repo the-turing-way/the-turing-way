@@ -305,7 +305,7 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 - Fork the repository from [`alan-turing-institute/the-turing-way`](https://github.com/alan-turing-institute/the-turing-way) if you have not done so already.
   - On your fork create a branch with the name as the chapter to be written and create a markdown file on it.
 - If you are a contributor to the project repository, you can also create a branch on the main repository with the same name as the chapter to be written without creating a fork (or a local copy).
-- Copy the chapter template in the templates directory into the markdown file, and commit.
+- Copy the relevant part of the [chapter template](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/templates/chapter-template) into the markdown file, and commit.
 - Make a pull request to _The Turing Way_ version of the chapter branch.
   The title of this request should have the form "[WIP] Write Chapter_name chapter".
   WIP indicates the chapter is a Work In Progress and not yet ready for review.

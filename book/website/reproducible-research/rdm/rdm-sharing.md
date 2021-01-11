@@ -15,7 +15,7 @@ Large amounts of research funds and careers of researchers can be wasted by only
 3. To facilitate collaboration and increase the impact and quality of scientific research.
 4. To make results of research openly available as a public good, since research is often publicly-funded.
 
-Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs. 
+Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs.
 Sharing data openly is crucial to meeting these objectives.
 Open data means that the data is freely available on the internet permitting any user to download, copy, analyse, re-process, and re-use it for any other purpose without financial, legal, or technical barriers, other than those inseparable from gaining access to the internet itself.
 This represents a real shift in how research works.
@@ -40,15 +40,17 @@ Data should be shared in a formal, open, and indexed data repository where possi
 Suitable data repositories by subject, content type or location can be found at [Re3data.org](https://www.re3data.org/), and in [FAIRsharing](https://fairsharing.org/databases) where you can also see which standards (metadata and identifier) the repositories implement and which journal/publisher recommend them.
 If possible use a repository which assigns a DOI, a digital object identifier, to make it easier for others to cite your data.
 
-### Step 3: Upload your data and documentation
+A few public data repositories are [4TU.ResearchData](https://data.4tu.nl/info/en), [Data Dryad](https://datadryad.org/stash), [Figshare](https://figshare.com/) and [Zenodo](zenodo.org/).
 
-In line with the FAIR principles outlined above, upload the data in open formats as much as possible and include sufficient documentation and metadata so that someone else can understand your data.
-
-### Step 4: Choose a licence and link to your paper and code
+### Step 3: Choose a licence and link to your paper and code
 
 So that others know what they can do with your data, you need to apply a licence to your data.
 The most commonly used licences are [Creative Commons](https://creativecommons.org/choose/), [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), or an [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/index.html).
 To get maximum value from data sharing, make sure that your paper and code both link to your data, and vice versa, to allow others understand your project better.
+
+### Step 4: Upload your data and documentation
+
+In line with the FAIR principles outlined above, upload the data in open formats as much as possible and include sufficient documentation and metadata so that someone else can understand your data.
 
 (rr-rdm-sharing-barriers)=
 ## Barriers To Data Sharing
@@ -97,7 +99,7 @@ Another way to provide anonymised data is to provide [synthetic data](https://en
 
 In many cases, companies are understandably unwilling to publish much of their data.
 The reasoning goes that if commercially sensitive information of a company is disclosed, it will damage the company’s commercial interests and undermine competitiveness.
-This is based on the thinking that in competitive markets, innovation will only occur with some protection of information. 
+This is based on the thinking that in competitive markets, innovation will only occur with some protection of information.
 If a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources.
 The result is that no-one would innovate in the first place.
 Similarly, for public safety concerns, governments are often unwilling to publish data that relates to issues such as national security.
