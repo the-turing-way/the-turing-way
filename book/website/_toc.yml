@@ -89,12 +89,12 @@
     sections:
     - title: Research Data
       file: reproducible-research/rdm/rdm-data
+    - title: Data Management Plan
+      file: reproducible-research/rdm/rdm-dmp    
     - title: The FAIR Principles and Practices
       file: reproducible-research/rdm/rdm-fair
     - title: Data Storage and Organisation
       file: reproducible-research/rdm/rdm-storage
-    - title: Data Management Plan
-      file: reproducible-research/rdm/rdm-dmp
     - title: Data Organisation in Spreadsheets
       file: reproducible-research/rdm/rdm-spreadsheets
     - title: Documentation and Metadata
