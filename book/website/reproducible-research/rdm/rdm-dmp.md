@@ -62,7 +62,7 @@ If you do not select a license others will not be able to reuse your data withou
 
 You can use this [checklist](https://www.ukdataservice.ac.uk/manage-data/plan/checklist.aspx) to see if you have everything covered in your Data Management Plan. 
 
-## Further Reading Reccomendations
+## Further Reading Recommendations
 
 - [DataOne education modules](https://www.dataone.org/education-modules)
 - [UK Data Services data management information](https://www.ukdataservice.ac.uk/manage-data.aspx)
