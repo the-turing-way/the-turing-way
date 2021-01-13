@@ -63,7 +63,7 @@ If you use GitHub, GitLab or similar, consider creating a `CITATION` file in eac
 
 As part of the citation for your software and data it is important to give people a persistent link to it, this will usually be a DOI.
 DOIs (or more formally Digital Object Identifiers) are unique, persistent identifiers which are attached to a digital object such as a journal article, dataset or piece of software.
-Using DOIs makes it much easier for others to cite your data, reduces the risk of linkrot and means you can track how your research is being used and cited.
+Using DOIs makes it much easier for others to cite your data, reduces the risk of link rot and means you can track how your research is being used and cited.
 
 ### Add machine-readable referencing information
 
@@ -151,6 +151,7 @@ You can watch this short video for more information https://vimeo.com/97150912
 - All your outputs will remain linked to your unique identifier even if you change your name or your institute. This way, you only have to enter the information once.
 - To access or sign up to services that utilise ORCID, for example publisher requirements, funding management portals ([ResearchFish](ResearchFish)), the [CRIS (current research information system)](https://en.wikipedia.org/wiki/Current_research_information_system) system at your institute, like the [Zenodo](https://zenodo.org) repository.
 - You can add your ORCID to your CV/resume so that anyone can have a look at all your research outputs.
+- You can also use your ORCID profile to create a CV using [ROpenSci package rorcid](rorcid: https://github.com/ropensci/rorcid) as described [here](https://discuss.ropensci.org/t/using-rorcid-to-generate-a-website-cv/1806). 
 
 ### How do you get an ORCID?
 You can sign up very quickly here: https://orcid.org/login
@@ -215,9 +216,5 @@ You can use your ORCID ID whenever you’re prompted to do so, give your [truste
 - [Getting Started with your ORCID record](https://support.orcid.org/hc/en-us/articles/360006896894-Getting-started-with-your-ORCID-record)
 - [Making software citeable](https://guide.esciencecenter.nl/citable_software/making_software_citable.html)
 - [OpenAIRE Guide on Person Identifiers](https://www.openaire.eu/how-can-identifiers-improve-the-dissemination-of-your-research-outputs)
-
-## Definitions/glossary
-
-Digital Object Identifiers (DOIs) - an alpha-numeric string which acts as a unique, persistent identifier for a digital object (journal article, data, software and so on).
 
 <!-- ## Bibliography -->

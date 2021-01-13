@@ -1,12 +1,13 @@
 (ch-style-more-features)=
 # Glossary, Special Blocks and More Styling
 
-Jupyter Book offers more options for styling its chapters and create a more comprehensive book.
-In this subchapter, we have discussed a few more features that we recommend using in _The Turing Way_.
+Jupyter Book offers more options for styling its chapters and creating a more comprehensive book.
+In this subchapter, we discuss a few more features that we recommend using in _The Turing Way_.
 
+(ch-style-more-features-glossary)=
 ## Glossary
 
-_The Turing Way_ has a {ref}`glossary` file located in the Afterwork of the book, which comprises of definitions of different terms in alphabetical order.
+_The Turing Way_ has a {ref}`glossary` file located in the Afterword of the book, which comprises of definitions of different terms in alphabetical order.
 This file can be updated with the definitions of new terms, which can then be linked to any chapter in the book where this term occurs.
 
 To add an entry for a new term, please jump to the right alphabetical section of the {ref}`glossary` file and use the following syntax:
@@ -37,3 +38,43 @@ Authors
 To reference terms in your glossary, use the syntax ```[{term}`def<Term>`]```.
 
 For example, to link the term 'Authors' to its definition in the glossary file, please use the syntax ```[{term}`def<Authors>`]``` next to where this term appears, which should render online like this: "*Authors [{term}`def<Authors>`] has been referenced here.*"
+
+(ch-style-more-features-blocks)=
+## Special Content Blocks
+
+When writing a new chapter or revising an existing one, you may wish to add notes that do not fit in with the rest of the chapter's narrative but may be useful to the readers and help them understand the chapter better.
+
+Jupyter Book allows the use of special content blocks to highlight a piece of text that needs to stand out from the rest the content on a page. 
+This visually separates the block of text from the rest of the page, and ensures that it easily captures the reader's attention.
+
+To add a special content block (note, warning or admonition) to your page, use the following directive:
+
+````
+```{note}
+This is a sample note!
+```
+````
+
+which renders as follows:
+
+```{note}
+This is a sample note!
+```
+
+You can give content blocks custom titles and styling to reinforce your intended message. 
+For example, if you wanted to warn the reader about something, you may make a warning block using the following directive:
+
+````
+```{warning}
+This is a stern warning!
+```
+````
+
+Note the new title, icon, and colour scheme.
+
+```{warning}
+This is a stern warning!
+```
+
+There are many more ways to customise content blocks to suit your writing needs. 
+Refer to the [Jupyter Book documentation](https://jupyterbook.org/content/content-blocks.html#notes-warnings-and-other-admonitions) and the [Admonition Demo page](https://sphinx-book-theme.readthedocs.io/en/latest/reference/demo.html#admonitions) for more recommendations.

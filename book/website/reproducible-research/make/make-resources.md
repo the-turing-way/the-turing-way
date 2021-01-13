@@ -78,27 +78,4 @@ are some that caught our eye and that might be worth a look.
 
 - [Buck](https://buckbuild.com/). Facebook's build system.
 
-(rr-make-resources-glossary)=
-## Glossary
 
-**Makefile:** a text file that contains the configuration for the build
-
-**Rule:** an element of the Makefile that defines something that must be
-built, usually consists of *targets*, *recipes*, and optionally,
-*prerequisites*.
-
-**Target:** the outcome of a *rule* in a Makefile. It is usually a file. If it
-is not a file, it's a *phony* target.
-
-**Recipe:** one or more shell commands that are executed by Make. Usually
-these commands update the *target* of the *rule*.
-
-**Prerequisite:** the prerequisite(s) of a rule correspond to files or other
-targets in the Makefile that must be up to date before the rule is run.
-
-**Phony:** a phony target is one that doesn't correspond to a file on the
-filesystem. A target is marked as phony by making it a prerequisite of the
-``.PHONY`` target.
-
-**Pattern:** A pattern rule is a rule that contains exactly one ``%``
-character in the target, which can be used to match a part of a filename.
