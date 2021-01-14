@@ -2,58 +2,56 @@
 # Designing Presentations
 
 There are multiple ways to present research for outreach, for example, PowerPoint presentations, posters and interactive demos.
-Each of these has different appropriate audiences and some of them are not always suitable.
-It is up to us as the presenter to consider the different approaches of presenting and our audience.
-The practical tips outlined here will help us decide how to best approach our outreach.
+Each of these has different impacts on different audience groups, therefore one method of presentation may not always be suitable.
+It is up to us as the presenters to consider the approach that could be most effective for our audience.
 
-Here are a few practical tips for the presentation of research outcomes:
+Here are a few practical tips for the presentation of research outcomes, which will help us decide how to best approach our outreach activities:
 
 ## Share the main take away
 
-When starting to prepare some research or a project for outreach, we should start by defining the main take away.
-This should be 1 or 2 sentences that we want our audience to leave knowing and understanding.
-Starting and finishing with the same conclusion re-enforces our main point and allows for early leavers, late arrivals, and distracted people to understand our presentation.
-
-We can think about scientific presentations in three phases:
+Start your outreach plan by defining the main take away.
+This should be 1 or 2 sentences that you want our audience to know and understand from our presentation.
+This can be used for advertising the event and reiterated in the presentation.
+This is relevant for scientific presentations in all three phases:
   * Starting by introducing what we are going to tell them.
   * Telling them the story that we brought for them and describe the main lessons.
   * Ending by revisiting the main lessons we told them.
 
+Starting and finishing with the same conclusion re-enforces the main take-away message and allows early leavers, late arrivals, and distracted people to still follow our presentation.
+
 ## Tell a story
 
-Nobody wants to be bored and everything has a story.
-To get the most impact your presentation needs to be memorable to be able to retell again and again without being distorted.
-Building the research into a story helps this to happen.
-Some might think that research is a serious business and results should be treated with the gravitas that a story cannot deliver.
-However, all that we do is a story, it is a story of a team of researchers, who are driven by a specific motivation, who apply a series of intricate methods or conduct a set of experiments, who make observations and interpretations all in the search of new knowledge. This is the story you want to tell.
-This gives weight to the knowledge you are imparting, it gives reason for the knowledge to exist, and it gives authenticity that proper due process was taken to deliver the research.
+Nobody wants to be bored and storytelling is a powerful tool to engage everyone.
+To make the most impact, a presentation needs to be memorable and be able to convey the information over and over without distorting the accuracy.
+Building a research project into a coherent story can help this happen.
+Some might disagree that serious research work and results should be treated with the gravitas that a story cannot deliver.
+However, all that we do is a story that involves teams and researchers, their specific motivation and hopes, a series of intricate methods and experiments they conduct, observations and interpretations they make - all in the search of new knowledge. This is the story you should be telling more widely so that more people can relate to what you do, give importance to the knowledge you are imparting, learn from your knowledge and understand the process that you take to deliver the research.
 
 ## Know your audience
 
 Before designing our presentation, we should identify who our audience group is, what knowledge they may or may not have and what kind of presentation would be interesting for them.
-In any case, we should avoid jargon and acronyms to avoid alienating our audience and creating a welcoming atmosphere.
-When interacting with people from different research backgrounds, we should not assume that everyone will have an equal level of understanding and hence introducing common terminology will be useful.
-Contrary to this, a room full of domain experts would find a discussion on basic concepts rather boring.
+In any case, we should avoid jargon and acronyms to avoid alienating our audience and creating a welcoming atmosphere that invites questions.
+When interacting with people from different research backgrounds, we should not assume that everyone will have an equal level of understanding and hence introducing common terminology is always useful.
+Contrary to this, a room full of domain experts would find a discussion on fundamental concepts probably too 'basic' and may appreciate if you check their prior knowledge beforehand, for example, using a pre-event survey.
 
-We should also consider the age group of our audience and what information is relevant in their life.
+We should also consider the age group of our audience and what information is appropriate or relevant in their life.
 Children aren't going to be enthralled by how a machine learning implementation could save money on household bills but will be captivated by literally anything involving dinosaurs.
 
 ## Experiment with different communication styles
 
 There are a number of different models describing how we can communicate new information to ensure engagement from our audience.
 For example, the [VARK model](https://vark-learn.com) was developed by Neil Fleming that identifies 4 learning style "preference": Visual, Aural, Read/Write and Kinesthetic.
-We can learn about these styles to help us design engaging presentations for our audience.
-We want to point out that the preference of learning style does not correlate with the quality of communication.
-In Fleming's word, "VARK tells you about the preference of communication. It tells you nothing about the quality of that communication."
+It is important to note (in Fleming's word), "VARK tells you about the preference of communication. It tells you nothing about the quality of that communication."
+We can learn about these styles to design engaging presentations for our audience.
 
 * Visual: Making our audience see the information so that they can visualise the relationships between ideas.
-For this, we can use infographics, charts, video or pictures on our slides to help our audience connect a visual element with what we are saying.
+For this, we can use infographics, charts, video or pictures on our slides to help them connect a visual element with what we are saying.
 
 * Auditory: Communicating information that our audience can hear rather than just read it.
-To help our audience cement what we have told them, we can get them to recite it out loud, this can be done in form of a Q&A session.
-For example, if we are teaching a group a new concept we can ask them "Can you tell me in your own words what I have just taught you?".
+To help our audience to capture the key messages, we can get them to recite it out loud, this can be done in form of a Q&A session.
+For example, after teaching a group a new concept ask them "Can you tell me in your own words what we just learned?".
 
-* Reading/Writing: Interacting with text is a powerful way to digest information, whether this be reading from a document or writing notes during a seminar/lecture.
+* Reading/Writing: Interacting with text is a powerful way to digest information, whether this is reading from a document or writing notes during a seminar/lecture or anonymously responding to a poll.
 Giving our audience annotated handouts at the start of a talk can help them follow our presentation well.
 
 * Kinesthetic: A hands-on approach to get our audience interact with a demo can enhance their learning experience of our presentation.
@@ -61,13 +59,12 @@ This can be done by interactive visualisation, which is quite useful for online 
 
 ## Encourage audience interaction
 
-We always hope to present our research in a way that leaves our audience excited and curious with questions they have.
+We always hope to present our research in a way that leaves our audience excited and curious about new ideas.
 It is common for presentations to be followed by a Q&A session.
 Traditionally, this would mean raising hands or coming to the front of the auditorium situation. However, this classical approach does not always encourage inclusivity and diversity.
-
-A solution to this is to use online Q&A toolkits such as [sli.do](https://www.sli.do) or [Mentimeter](https://www.mentimeter.com/), where audience members can ask questions, vote in polls, and be part of the discussion without having to race to a microphone or be left to the random chance of being picked with their hand up.
+A solution to this is to use online apps such as [sli.do](https://www.sli.do) or [Mentimeter](https://www.mentimeter.com/), where the audience can ask questions, vote in polls, and be part of the discussion without having to race to a microphone or be left to the random chance of being picked with their hand up.
 This type of tool creates a more inclusive environment, people are less afraid of asking questions, and it generates a more diverse and relevant pool of questions.
-It also encourages discussion to be continued past our presenting time slot as we can continue to answer questions through a web interface.
+It also encourages discussion to be continued past our presenting time slot as we can answer questions through a web interface.
 
 ## Consider multiple channels
 
@@ -92,7 +89,7 @@ The audience will more likely have domain-specific knowledge.
 
 ## Use a wide range of formats
 
-Even the most interesting person can't make a "death by PowerPoint" presentation exciting.
+Even the most interesting person can't make a long non-interactive PowerPoint presentation exciting.
 Avoid becoming monotonous by varying how you are presenting.
 Consider using:
 
