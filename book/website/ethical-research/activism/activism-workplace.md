@@ -110,7 +110,10 @@ A basic set of steps you can take for internal policy advocacy (adapted from [gu
     - BUT... try a little more creativity - what would make your campaign stand out and get people talking?
     - Don't forget to assess how you're doing (number of signatures on a petition, number of times the issue is raised at an all-hands meeting
 
-
+You should also think about the potential risks to you and your colleagues for speaking up. 
+Many people are reluctant to engage in advocacy or lobbying in their workplace, because they risk losing their livelihoods if there is retaliation against them.
+Union membership can offer some protection against this: campaigning can be done by the union as a collective, rather than by individual workers. 
+Think about other things that might go wrong, or that might dissuade your colleagues from speaking up, and see if you can find a way to mitigate them. 
 
 <!-- 
 In the label, replace `keyidea3` with a word that best describes the section or key idea you want to explain -->
