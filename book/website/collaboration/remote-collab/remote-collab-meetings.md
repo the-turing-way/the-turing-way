@@ -27,7 +27,7 @@ We have listed them in chronological order and divided into sections for "before
   - Share guidelines and protocols for chairing and note-taking.
 - Decide if there will be designated speakers with presentations.
   - Share the speaker's guidelines and protocols with them.
-- Establish a shared document that can be updated online for agenda and note-taking. For example, using Google docs or Hackmd.
+- Establish a shared document that can be updated online for agenda and note-taking. For example, using [Google Docs](https://docs.google.com) or [HackMD](https://hackmd.io).
   - Create a template for this meeting (that can also be used for future meetings).
 - Create a shared document to share the following:
   - Participation guidelines.

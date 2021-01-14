@@ -10,7 +10,7 @@
 Since inception, the book has widened in scope to not only cover topics in Reproducible Research, but also Project Design, Communication, Collaboration, and Ethical Research.
 While this increased scope enhanced the book's impact, the fact that multiple authors contributed to its content introduced aesthetic, structural, and formatting differences across the book. 
 For new contributors, this made it challenging to follow the book's style recommendations when existing chapters did not consistently follow them. 
-For casual readers, it made _The Turing Way_ somewhat inaccessible as some chapters were long, hard to read, lacked a consistent well-defined content structure or were not compatible to read on different devices.
+For casual readers, it made _The Turing Way_ somewhat inaccessible as some chapters were long, hard to read, lacked a consistent, well-defined content structure or were not compatible to read on different devices.
 
 To address these concerns, my objectives as a GSoD Technical Writer on _The Turing Way_ project were:
 
@@ -47,18 +47,18 @@ The following GitHub pull requests and issues, and online content were developed
 
 ### 2. Contributing to Future Maintenance
 
-**Goal**: *Maintaining consistency of content in The Turing Way in order to make contributions to the project more accessible for new community members.*
+**Goal**: *Maintaining consistency of content in The Turing Way to make contributions to the project more accessible for new community members.*
 
 For this goal, I worked to create clear pathways for future contributions to _The Turing Way_.
 First, I developed templates to guide authors to structure and design new content such as subchapters, case studies and personal stories or modify existing resources. 
 The new templates will make improving the book more accessible by helping new contributors write interoperable content from the start.
 I also documented the community's contribution workflows and processes by engaging with different community members, and used those insights to create guidelines in a [short chapter](https://the-turing-way.netlify.app/community-handbook/contributing.html) in the Community Handbook.
 This chapter explains all the templates, contribution workflows and guidelines to use them in _The Turing Way_.
-This effort will ensure that there is a cohesive narrative when it is written by a diverse group of authors from around the world.
+This effort will ensure that the book has a cohesive narrative despite being written by a diverse group of authors from around the world.
 
 The following GitHub pull requests and issues, and online content were developed to ensure support for the future contributions and maintenance:
 
-| Task | PRs/Issues/online content |
+| Task | PRs/Issues/Online Content |
 | -------- | -------- | 
 | Designing templates     | [#1507](https://github.com/alan-turing-institute/the-turing-way/pull/1507), [#1571](https://github.com/alan-turing-institute/the-turing-way/pull/1571), [#1601](https://github.com/alan-turing-institute/the-turing-way/pull/1601)     |
 |Writing a contribution workflow Chapter| [#1646](https://github.com/alan-turing-institute/the-turing-way/pull/1646)|
@@ -80,7 +80,7 @@ Most importantly, I documented the use of custom CSS in a [chapter](https://the-
 
 The following GitHub pull requests and issues, and online content were developed to enhance book's accessibility:
 
-| Task | PRs/Issues/online content |
+| Task | PRs/Issues/Online Content |
 | -------- | -------- | 
 | Responsive styling for tables     | [#1656](https://github.com/alan-turing-institute/the-turing-way/pull/1656)     |
 |Responsive styling for videos|[#1651](https://github.com/alan-turing-institute/the-turing-way/pull/1651)|
@@ -91,7 +91,7 @@ The following GitHub pull requests and issues, and online content were developed
 Beyond my GSoD goals, I contributed to _The Turing Way_ project in other ways.
 (Acronym used PR: Pull Request, OLS: Open Life Science)
 
-1. As part of my mentorship in _The Turing Way_, I had the opportunity to join [Open Life Science (OLS)](https://openlifesci.org) mentoring program to gain practical understanding of open science and leadership that I could integrate in my GSoD project.
+1. As part of my mentorship in _The Turing Way_, I had the opportunity to join [Open Life Science (OLS)](https://openlifesci.org) mentoring program to gain a practical understanding of open science and leadership that I could integrate into my GSoD project.
 It allowed me to closely work with two members, Neha Moopen (Research Data Manager, Utrecht University, The Netherlands) as my project partner and Samuel Guay (PhD researcher,  University of Montreal, Canada) as our OLS mentor, and interact with international participants working on different open science projects.
     - [Issue on OLS issue tracker](https://github.com/open-life-science/ols-2/issues/25)
     - [OLS and _The Turing Way_ projects](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring)
@@ -108,7 +108,7 @@ I prototyped the use of [Matomo Analytics](https://matomo.org/) for capturing re
 I often reviewed PRs and provided helpful feedback where necessary. 
 I also helped some new contributors make their first PRs.
     - [Contributions to GitHub PR's](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+commenter%3Apaulowoicho)
-6. Facilitated Hacktoberfest contributions and mentored new contributors who were participating in the Open Source project for the first time via _The Turing Way_.
+6. I facilitated Hacktoberfest contributions and mentored new contributors who were participating in an Open Source project for the first time via _The Turing Way_.
 This allowed me to share my experience with new contributors by reviewing and supporting their contributions.
     - [HacktoberFest issues on _The Turing Way_ repository](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+hacktober+label%3AHacktoberfest)
 7. I participated in the November 2020 edition of the _The Turing Way's_ Book Dash event where I closely collaborated with other contributors to improve the book over the course of a week. During this time, I had the opportunity to help some contributors plan their contributions and make their first PRs. Together with Neha Moopen, I also worked on two illustrations that capture my experience on _The Turing Way_ project. 
@@ -126,7 +126,7 @@ My only challenge was that I was unable to build _The Turing Way_ book locally o
 Although this did not negatively affect my outputs, it would have been beneficial for me to examine my work locally before making a PR.
 At the time of this report, there is an [open issue](https://github.com/executablebooks/jupyter-book/issues/906#issuecomment-681041319) on building Jupyter Book projects on Windows computers.
 
-During the Book Dash, some of the conversations I had with other contributors also helped me understand the need for a PDF version of the entire online book. 
+During the Book Dash, some of the conversations I had with other contributors helped me understand the need for an up-to-date, on-demand PDF version of the entire online book. 
 This feature is currently not possible with Jupyter Book, so I raised an issue so that Jupyter Book's maintainers could be aware of this.
     - [PDF issue on the Jupyter Book repository](https://github.com/executablebooks/jupyter-book/issues/1106) 
 
@@ -150,4 +150,4 @@ I will work on this task as part of my future contributions and possibly contrib
 Although, I primariliy worked on _The Turing Way_, I had the opportunity to interact with and learn from other open source projects like [Jupyter Book](https://jupyterbook.org/intro.html) and [Open Life Science](https://openlifesci.org/).
 In addition to all I learned, I particularly enjoyed being able to collaborate with passionate people from around the world through these projects and their communities. 
 In the near future, I intend to build on the skills I have gained during the GSoD program to start an open-source book that teaches practical Data Science to beginners. 
-I also plan to keep contributing to these projects and provide guidance to contributors new to open source wherever possible. 
+I also plan to keep contributing to these projects and providing guidance to contributors new to open source wherever possible. 
