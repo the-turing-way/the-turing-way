@@ -119,7 +119,7 @@ You can see the template document: https://hackmd.io/@turingway/template-bookdas
 All the participants were very supportive of each other's work and reviewed PRs beyond their contributions.
 Two core contributors **Martina G. Vilas and Sarah Gibson** also participated in the Book Dash to facilitate mentored contributions, especially by supporting participants who were new to the projects.
 Additionally, Sarah reviewed several Pull Requests and helped Malvika merge the chapter on [Remote Collaboration](https://the-turing-way.netlify.app/collaboration/remote-collab.html).
-Martina onboarded Lupe and Laura by offering mentorship in Spanish and helped Batool ingrate [web.hypothes.is](https://web.hypothes.is/) to enable [web-annotation and commenting](https://jupyterbook.org/interactive/comments.html) on _The Turing Way_ content.
+Martina onboarded Lupe and Laura by offering mentorship in Spanish and helped Batool integrate [web.hypothes.is](https://web.hypothes.is/) to enable [web-annotation and commenting](https://jupyterbook.org/interactive/comments.html) on _The Turing Way_ content.
 On 12 November 2020, Martina also gave a talk at the Brainhack Donostia 2020 on Computational Reproducibility. 
 Under the title “A How-To Guide Based on The Turing Way”, she shared useful tips and tools for computational reproducibility. Her talk is also available on Zenodo: [http://doi.org/10.5281/zenodo.4269795](http://doi.org/10.5281/zenodo.4269795).
 
