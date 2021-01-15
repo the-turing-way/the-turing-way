@@ -1,8 +1,5 @@
-# Google Summer of Code (GSoC) 2021
+# Google Summer of Code (GSoC) 2021 Application to INCF
 - Website: https://summerofcode.withgoogle.com/ and https://google.github.io/gsocguides 
-- Context: Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 10-week programming project during their break from school.
-- INCF call for the organisation partners: https://neurostars.org/t/incf-call-for-community-project-proposals-and-mentors-for-gsoc-2021-deadline-for-expressions-of-interest-january-15/17865 
-- Supporting document with details: https://docs.google.com/document/d/1T7QCv5WDxqUt1FNHiAhbE74c7e7eutzFuv3wrqToVyo/edit 
 - Submission date: 15 January 2021
 
 ## Title
