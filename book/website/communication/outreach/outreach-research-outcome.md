@@ -7,7 +7,7 @@ Based on the type of audience we engage with, we can use different strategies to
 
 ## Consequences of Poor Outreach Efforts
 
-We can publish our results on the most viewed website or highest renowned print media, but failing to communicate effectively or when we can't convey our message accurately, the consequence can be catastrophic.
+We can publish our results on the most viewed website or highest renowned print media, but if we fail to communicate effectively or when we can't convey our message accurately, the consequence can be catastrophic.
 For example, genuine breakthroughs should follow an enthusiastic exploration of published data and interest in collaboration. However, when we don't communicate them well, they fail to attract public attention, investors' interests, or lose funding and organisational support.
 
 Over-hyped reporting of results is also damaging for science.
