@@ -36,7 +36,7 @@ We hope that by writing about leadership, we will:
 In this chapter, we will introduce and discuss (somewhat in an unorderly manner): 
 - {ref}`important features<cl-leadership-features>` of leadership when experiencing and exercising them in data science,
 - what we mean by {ref}`"healthy" leadership<cl-leadership-building>` and a path towards it,
-- why {ref}`structure is leadership<cl-leadership-structure>` matters and how to build it,
+- why {ref}`structure in leadership<cl-leadership-structure>` matters and how to build it,
 - how to bring {ref}`diversity<cl-leadership-diversity>` in leadership,
 - how we can create {ref}`leadership opportunities <cl-leadership-opportunities>` in our projects,
 - what critical aspects should be {ref}`avoided in leadership<cl-leadership-avoid>`, 
