@@ -30,15 +30,20 @@ Such emergent leadership opportunities allow individuals to explore, learn, and 
 ## Others grant leadership
 
 Outstanding leadership is often sought and studied because teams, organizations, and people work at their highest potential, building extraordinary results when following good leaders.
+
 Yet, one main characteristic of leadership is that it is granted by others who decide to follow someone as a leader in a specific setting.
 
 ## Leaders are made, not born
 
 As with any other human aspect, leadership can be built and learned.
 
-There is no fixed formula for leadership that works in all scenarios with the same effectiveness. However, individuals can learn some specific traits and adapt these traits as needed in a given situation.
+There is no fixed formula for leadership that works in all scenarios with the same effectiveness. 
+
+However, individuals can learn some specific traits and adapt these traits as needed in a given situation.
 
 Great leaders in one project or one environment, say a data science reading club, may not be leaders in other contexts such as leading a research project or the families' group at their kids' school.
+
+Indeed, trying to become the leader of too many projects or in all contexts is often one of the aspects to avoid in healthy leadership as we mention in another subchapter {ref}(reference)<cl-leadership-avoid>.
 
 No matter how many books about leadership a person reads or how many (often expensive) workshops a person attends to learn how to become a leader, no method will guarantee leadership at all times in all contexts.
 
