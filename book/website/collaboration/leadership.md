@@ -13,17 +13,10 @@ The abundance of theoretical frameworks, research schools, and books that have t
 
 However, it is also widely considered that there is no such thing as a fixed set of leadership skills as not all great leaders share the same traits or strengths {cite}`HayesLeadership`.
 
-![](https://i.imgur.com/bayeOl8.png)
-
-```{figure} ../../figures/leadership-wordcloud.png
-
-height: 500px
-name: leadership-word cloud
-alt: Word cloud from Wikipedia article about leadership
+```{figure} ../../figures/leadership-wordcloud.jpg
 
 Words that stand out in a word cloud from [the Wikipedia entry](https://en.wikipedia.org/wiki/Leadership) about leadership
 ```
-<!---(Upload this file as leadership-wordcloud.jpg: https://i.imgur.com/bayeOl8.png)--->
 
 In the context of data science, where we strive to advance our knowledge through validated scientific methods based on data, talking about leadership, a fuzzy concept, is challenging and a rare finding. 
 
