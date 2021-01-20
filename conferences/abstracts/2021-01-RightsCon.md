@@ -1,5 +1,6 @@
-RightsCon2021 uses a platform for submissions - here are editable versions of the answer!
+RightsCon2021 uses a platform for submissions - these are the questions!
 
+## About You
 Primary contact: Laura Carter
 Secondary contact: Malvika Sharan
 
@@ -20,18 +21,17 @@ Racial justice,
 Gender justice,
 Youth and children's rights,
 Migration)_
-
 No
 
 ### Session title (in English)
 _20 words_ 
 _Pique the audience's interest while also explainining the 'big idea' of your session_
-
-
+The Turing Way: Making reproducible, ethical and inclusive data science too easy not to do
 
 ### Which institution(s) will host your session?
 _Write the full name of the institution(s) that should be credited publicly as the host of the session._
 _If you have more than one host, separate them using a semicolon (e.g. "Access Now; RightsCon"). If your session is not affiliated with an institution, you can write “Independent.”_
+The Alan Turing Insitute
 
 ## Format and Goal
 
@@ -41,18 +41,24 @@ Tech Demo - A brief (8-10 minute), prepared presentation on a new technology, to
 ## Session Concept 
 ### What’s your product, initiative, or innovation?  (150 words)
 _In a few sentences, tell us what you plan to demo. (Yes, we know it’s not much space – make it count!)_
+The Turing Way is a book, a community and a global collaboration. 
+This presentation will demonstrate one of the five open source volumes that form the project: the Guide to Ethical Research.
+(The other four guides cover Reproducible Research, Project Design, Communication, and Collaboration).
+We will talk about the aims of the project, the community we are building, and most importantly - how you can get involved!
 
 ### What makes you the right person to speak about this product, initiative, or innovation? (150 words)
 _Now’s the time to sell yourself as a speaker. Don’t hold back._
 
+Laura is a human rights researcher who is one of the Ethics Guide collaborators: as well as developing content that is practical and accessible for data researchers, she also guides new contributors as a new open science contributor herself!
+
+Malvika is the Community Manager of the project: based at the Alan Turing Institute in the UK, she brings her extensive experience in open science and collaboration to a global community spanning 6 continents. 
 
 ### Do you have a link to whatever product, project, or innovation that you want to demo? We want to see it!
-
+The Turing Way: https://the-turing-way.netlify.app/welcome
 
 ### My session will primarily be conducted in:
 _If you intend to host the session in more than one language, choose the language in which the majority of your speakers and/or facilitators will present._
 English
-
 
 ### Would you like to submit a selection of your answers in another language?
 No
@@ -60,6 +66,7 @@ No
 ## Speakers
 _We recommend that lightning talks and tech demos feature one or two speakers, due to time constraints and other limitations on a recorded presentation.
 Who will speak in your session?_ 
+Laura Carter, Malvika Sharan
 
 ## Final Questions
 ### Can we list your session publicly?
