@@ -100,7 +100,7 @@ This year’s launch Webinar was hosted by Rachael Ainsworth on 14 January 2021 
 The deadline for application is on 5 February 2020. 
 You can read [this blog](https://www.software.ac.uk/blog/2021-01-21-highlights-fellowship-programme-2021-launch-webinar) for details.
 
-- **Collaboration Workshop 2020: Call for Abstract and application for Financial Aid**: Software Sustainability Institute’s Collaborations Workshop 2021 (CW21) will take place online from Tuesday, 30 March to Thursday, 1 April 2021.
+- **Collaboration Workshop 2020 - Call for abstract and application for financial aid**: Software Sustainability Institute’s Collaborations Workshop 2021 (CW21) will take place online from Tuesday, 30 March to Thursday, 1 April 2021.
 The themes of CW21 are FAIR Research Software, Diversity and Inclusion. 
 The deadline for proposals for participant-led mini-workshops and social activities at Collaborations Workshop 2021 (CW21) is 23:59 GMT on 31 January. 
 Financial assistance is available for members of underrepresented groups, students/early career stages, and others who may not be able to attend or fully participate in the event otherwise.
