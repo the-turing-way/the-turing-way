@@ -43,7 +43,7 @@ Connect with them on the Slack channel #traducción-español ([Slack invitation 
 
 ## News from the community
 
-### Represent _The Turing Way_ at Conferences in 2021!
+### Support for Representing _The Turing Way_ at Conferences
 
 Thanks to Emma Karoune, Esther Plomp, Ismael Kherroubi-Garcia, Laura Ación, Laura Carter, Marilina Santero, Martina Vilas, Paul Owoicho, Sarah Gibson and Sophia Batchelor for representing _The Turing Way_ in 2020 through talks and presentations! 
 To keep this tradition going and further build a sense of ‘shared ownership', we welcome you to suggest 2021 events that you would like to attend and where you can share about your work in _The Turing Way_.
@@ -52,7 +52,7 @@ You can reply in the GitHub [issue #1717](https://github.com/alan-turing-institu
 We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) linked with frequently asked questions and presentations that you can adapt for your use (and in your preferred language). 
 We would be happy to give 1:1 feedback on your talk and will be able to provide support towards paying the conference registration fee.
 
-### Lead Small Projects Within the Community
+### Opportunities to Lead Small Projects Within the Community
 
 We have collected a set of project ideas beyond co-authoring chapters in the book that new and existing contributors can lead in _The Turing Way_. 
 These ideas include small-scale tasks such as guest-authoring newsletters or assessing _The Turing Way_’s community health and topics that are at the meta-study level such bringing Data Feminism Perspective to the project or creating reproducible translation pipeline to support community’s translation efforts.
