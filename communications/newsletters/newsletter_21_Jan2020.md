@@ -7,9 +7,9 @@ Happy New Year Turing Way friends! 🌸
 Needless to say that 2020 was a tough year and did not exactly go as we had planned. 
 But, that should not stop us from planning (hoping and dreaming) for 2021. 
 
-This year, we want to strengthen and provide additional support for our network of contributors who are instrumental in guiding projects within the community.
-To facilitate their collaborative efforts, we will continue to host our online coworking calls, Collaboration Cafes and Book Dash events.
-We also invite you to represent _The Turing Way_ in different conferences this year and highlight your work and resources on data science and research through its chapters.
+This year, as most of us continue to work from home during the pandemic, we want to strengthen and provide additional support for our network of contributors who have been instrumental in guiding important projects within the community. 
+To facilitate their collaborative efforts, we will keep hosting our online coworking calls, Collaboration Cafes and Book Dash events. 
+We also invite you to represent The Turing Way in different conferences this year and highlight your work and resources on data science and research through its chapters.
 
 We welcome your thoughts and ideas on how we as a community project can support you and create more opportunities to listen to new voices and bring in their perspectives.
 Feel free to open an [issue on GitHub](https://github.com/alan-turing-institute/the-turing-way/issues), reach out to the team by emailing theturingway@gmail.com, or directly contact Kirstie and Malvika on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
