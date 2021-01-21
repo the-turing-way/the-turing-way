@@ -8,7 +8,7 @@ Needless to say that 2020 was a tough year and did not exactly go as we had plan
 But, that should not stop us from planning (dreaming and hoping) for 2021. 
 
 This year, we want to strengthen and provide additional support for our network of contributors who are instrumental in guiding projects within the community.
-To facilitate their collaborative efforts, we continue to host our online coworking calls, Collaboration Cafes and Book Dash events.
+To facilitate their collaborative efforts, we will continue to host our online coworking calls, Collaboration Cafes and Book Dash events.
 We also invite you to represent _The Turing Way_ in different conferences this year and highlight your work and resources on data science and research through its chapters.
 
 We welcome your thoughts and ideas on how we as a community project can support you and create more opportunities to listen to new voices and bring in their perspectives.
@@ -16,7 +16,7 @@ Feel free to open an [issue on GitHub](https://github.com/alan-turing-institute/
 
 Read more details on these topics below! 👇
 
-## Community meetings
+## Community Meetings
 
 ![This illustration shows a person working on their computer and talking to multiple people through an online video call, a dog is sitting next to them](images/2021-01-RemoteBookDash1.jpg)
 
@@ -30,16 +30,16 @@ Find more details on this shared notes: [https://hackmd.io/@turingway/collaborat
 
 ### Weekly Coworking Calls
 We have also been hosting Coworking Calls every Monday and Thursday from 11:00 - 12:00 UTC. 
-To stay connected with people in Eastern Time Zones, we have also been hosting one call on Wednesdays from 15:00 - 16:00 UTC (weeks when Collaboration Cafes are not planned). 
+To stay connected with people in Eastern Time Zones, we have added one more session on Wednesdays from 15:00 - 16:00 UTC (weeks when Collaboration Cafes are not planned). 
 Find the dates for the upcoming coworking calls on this shared note: [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call). 
 
 ### Join the Spanish Translation Team on Mondays
-Camila Rangel-Smith and Raina Camacho Toro are hosting coworking sessions every Monday at 17:00 UTC to work on the Spanish translation of the book.
-Connect with them on the slack channel #traducción-español ([Slack invitation link](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)) to receive rolling invites to join in their effort.
+Camila Rangel-Smith and Raina Camacho Toro are hosting coworking sessions every Monday at 17:00 UTC to work on the [Spanish translation of the book](https://www.transifex.com/theturingway/theturingway/).
+Connect with them on the Slack channel #traducción-español ([Slack invitation link](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)) to receive rolling invites to join in their effort.
 
 ## News from the community
 
-### Represent The Turing Way at conferences in 2021!
+### Represent The Turing Way at Conferences in 2021!
 
 Thanks to Emma Karoune, Esther Plomp, Ismael Kherroubi-Garcia, Laura Acion, Laura Carter, Marilina Santero, Martina Vilas, Paul Owoicho, Sarah Gibson and Sophia Batchelor for representing The Turing Way in 2020 through talks and presentations! 
 To keep this tradition going and further build a sense of ‘shared ownership', we welcome you to suggest 2021 events that you would like to attend and where you can share about your work in _The Turing Way_.
@@ -47,11 +47,11 @@ You can reply in the GitHub [issue #1717](https://github.com/alan-turing-institu
 We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) linked with frequently asked questions and presentations that you can adapt for your use (and in your preferred language). 
 We would be happy to give 1:1 feedback on your talk and will be able to provide support towards paying the conference registration fee.
 
-### Join to lead small projects within the community
+### Join to Lead Small Projects Within the Community
 
-We have collected a set of project ideas that new and existing contributors can lead in _The Turing Way_ beyond co-authoring chapters in the book. 
+We have collected a set of project ideas beyond co-authoring chapters in the book that new and existing contributors can lead in _The Turing Way_. 
 These ideas include small-scale tasks such as guest-authoring newsletters or assessing The Turing Way’s community health and topics that are at the meta-study level such bringing Data Feminism Perspective to the project or creating reproducible translation pipeline to support community’s translation efforts.
-We have proposed these projects to provide leadership opportunities for the community members can use while developing a new skill or idea that they haven't yet had a chance to work on.
+We have proposed these projects to provide leadership opportunities that our community members can use while developing a new skill or idea that they haven't yet had a chance to explore.
 Even though these projects can be carried out independently, we encourage and promote collaboration with other members and connect with ongoing projects in the community.
 Please see [issue #1712](https://github.com/alan-turing-institute/the-turing-way/issues/1712) for details and add more ideas.
 
@@ -61,14 +61,16 @@ Please see [issue #1712](https://github.com/alan-turing-institute/the-turing-way
 
 ### A GitHub Action for Contributors Record
 The Turing Way maintains a contributors record in the [book’s Afterword](https://the-turing-way.netlify.app/afterword/contributors-record.html). 
-This record combines the contributors' table and the personal impact statements of our community members as described in the [acknowledgement chapter](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html).
-We have now added a [GitHub action](https://github.com/features/actions) in our workflow that automatically updates this record every week (see [the workflow](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/workflows/contributors-record.yml)).
+This record combines the contributors' table and the personal impact statements of our contributors as described in the [acknowledgement chapter](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html).
+We have now added a [GitHub Action](https://github.com/features/actions) in our workflow that automatically updates this record every week (see [the workflow](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/workflows/contributors-record.yml)).
 Thanks to Martina G. Vilas and Sarah  Gibson for their support in setting this up.
-*This is a good chance to remind you to add your bio and impact statement in the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file if you have not done that already.*
+
+*This is a good chance to remind you to add your bio and impact statement in the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file if you have not done that already.
+We would be delighted if you can pass this information to previous contributors in your network who might want to share their personal highlights in the project.*
 
 ## Relevant Resources
 
-### Contribute to writing and reviewing chapters
+### Contribute to Writing and Reviewing Chapters
 We have a few chapters currently being written or waiting to be reviewed that can use some extra support.
 Particularly we invite you to review subchapters on scientific outreach ([PR #1709](https://github.com/alan-turing-institute/the-turing-way/pull/1709), preview [on Netlify](https://deploy-preview-1709--the-turing-way.netlify.app)), contribute to the leadership chapter ([PR #1553](https://github.com/alan-turing-institute/the-turing-way/pull/1709), preview [on Netlify](https://deploy-preview-1553--the-turing-way.netlify.app)) or review the translated versions of README file (see PRs [#1586 for Arabic](https://github.com/alan-turing-institute/the-turing-way/pull/1586) and [#1470 for Polish](https://github.com/alan-turing-institute/the-turing-way/pull/1470) translations).
 If you are new to the project and don’t know where to start, have a look at the [issue section](https://github.com/alan-turing-institute/the-turing-way/issues) for 'Good first issue' labels.
@@ -92,7 +94,7 @@ This year’s launch Webinar was hosted by Rachael Ainsworth on 14 January 2021 
 The deadline for application is on 5 February 2020. 
 You can watch the [webinar on Youtube](https://youtu.be/aceXqDJSoxY) and read [this blog](https://www.software.ac.uk/blog/2021-01-21-highlights-fellowship-programme-2021-launch-webinar) for details.
 
-- **Collaboration Workshop 2020 call for abstract and financial aid**: Software Sustainability Institute’s Collaborations Workshop 2021 (CW21) will take place online from Tuesday, 30 March to Thursday, 1 April 2021.
+- **Collaboration Workshop 2020: Call for Abstract and application for Financial Aid**: Software Sustainability Institute’s Collaborations Workshop 2021 (CW21) will take place online from Tuesday, 30 March to Thursday, 1 April 2021.
 The themes of CW21 are FAIR Research Software, Diversity and Inclusion. 
 The deadline for proposals for participant-led mini-workshops and social activities at Collaborations Workshop 2021 (CW21) is 23:59 GMT on 31 January. 
 Financial assistance is available for members of underrepresented groups, students/early career stages, and others who may not be able to attend or fully participate in the event otherwise.
@@ -110,14 +112,14 @@ You are invited to submit proposals for papers, lightning talks and posters.
 You are also invited to submit topics for discussion at the Unconference. 
 Find more details on their website: https://www.dcc.ac.uk/events/idcc2021.
 
-- **Hidden REF call for submission is extended**: The Hidden REF committee wants to encourage debate about how research is evaluated, about the people who contribute to research, and the outputs they produce. 
+- **Hidden REF Call for Submission is Extended**: The Hidden REF committee wants to encourage debate about how research is evaluated, about the people who contribute to research, and the outputs they produce. 
 To avoid adding significant extra work to people’s workloads during the latest UK lockdown, the committee has decided to extend the Hidden REF submission deadline to 14th May 2021.
 They hope that the new deadline will allow people the time needed to deal with their commitments under lockdown, to take part in the vitally important REF exercise in March 2021 and then to contribute their equally important submissions to the Hidden REF in May! 
 See more details on their website: [https://hidden-ref.org/timeline/](https://hidden-ref.org/timeline/).
 
-## Acknowledgements and celebrations
+## Acknowledgements and Celebrations
 
-### Contributor in focus: Emma Karoune
+### Contributor in Focus: Emma Karoune
 
 ![Emma's headshot - A woman wearing a headscarf.](images/2021-01-emma4.png)
 
