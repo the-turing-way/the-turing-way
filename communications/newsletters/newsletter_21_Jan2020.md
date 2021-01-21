@@ -17,8 +17,9 @@ This year, as most of us continue to work from home during the pandemic, we want
 We look forward to seeing and welcoming you to our community spaces and events.
 You can reach out to the team by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com), open an [issue on GitHub](https://github.com/alan-turing-institute/the-turing-way/issues), or directly contact Malvika Sharan and Kirstie Whitaker on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw). 
 
-
 Read more details on these topics below! 👇
+
+*Thanks to Arielle Bennett and Emma Karoune for reviewing the earlier draft of this month's newsletter.* 💪
 
 ## Community Meetings
 
