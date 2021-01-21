@@ -127,7 +127,8 @@ See more details on their website: [https://hidden-ref.org/timeline/](https://hi
 
 ### Contributor in Focus: Emma Karoune
 
-![Emma Karounes's headshot - A woman wearing a headscarf.](images/2021-01-emma4.png)
+<img src="images/2021-01-emma4.png" alt="Emma Karounes's headshot - A woman wearing a headscarf."
+	title="A cute kitten" width="150" />
 
 [Emma Karoune](https://the-turing-way.netlify.app/afterword/contributors-record.html#emma-karoune) is an independent post-doctoral researcher working in the field of Environmental Archaeology and Palaeoecology. 
 She has a PhD in Palaeoecology from the Institute of Archaeology, University College London.
