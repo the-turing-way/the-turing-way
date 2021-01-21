@@ -50,7 +50,7 @@ You can reply in the GitHub [issue #1717](https://github.com/alan-turing-institu
 We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) linked with frequently asked questions and presentations that you can adapt for your use (and in your preferred language). 
 We would be happy to give 1:1 feedback on your talk and will be able to provide support towards paying the conference registration fee.
 
-### Join to Lead Small Projects Within the Community
+### Lead Small Projects Within the Community
 
 We have collected a set of project ideas beyond co-authoring chapters in the book that new and existing contributors can lead in _The Turing Way_. 
 These ideas include small-scale tasks such as guest-authoring newsletters or assessing _The Turing Way_’s community health and topics that are at the meta-study level such bringing Data Feminism Perspective to the project or creating reproducible translation pipeline to support community’s translation efforts.
@@ -82,7 +82,7 @@ If you are new to the project and don’t know where to start, have a look at th
 ### Publications, Books and Blog Posts
 
 - Katz DS, Chue Hong NP, Clark T et al. Recognizing the value of software: a software citation guide [version 2; peer review: 2 approved]. F1000Research 2021, 9:1257 (https://doi.org/10.12688/f1000research.26932.2) 
-- D'Ignazio, C., & F. Klein, L. (2020). Seven intersectional feminist principles for equitable and actionable COVID-19 data. Big Data & Society, 7(2), 2053951720942544. doi: 10.1177/2053951720942544 
+- D'Ignazio, C., & F. Klein, L. (2020). Seven intersectional feminist principles for equitable and actionable COVID-19 data. Big Data & Society, 7(2), 2053951720942544. [doi: 10.1177/2053951720942544](https://journals.sagepub.com/doi/10.1177/2053951720942544)
 - Kraemer-Mbula E, Tijssen R, Wallace ML & McLean R, Transforming Research Excellence: New Ideas from the Global South – African Minds. (2021, January 20). [Book](https://www.africanminds.co.za/transforming-research-excellence-new-ideas-from-the-global-south).
 - 2020 in review: DORA's list of new developments in research assessment | DORA. (2020, December 18). [Blog post](https://sfdora.org/2020/12/18/2020-in-review-doras-list-of-new-developments-in-research-assessment)
 - Sharan M., (2020) Ten arguments against Open Science that you can win | Software Sustainability Institute. [Blog Post](https://www.software.ac.uk/blog/2020-12-17-ten-arguments-against-open-science-you-can-win).
