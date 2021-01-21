@@ -1,20 +1,20 @@
 The Turing Way Newsletter: 21 January 2021
 
-# New year wishes and plans for 2021!
+# New year wishes from The Turing Way and plans for 2021!
 
-Happy New Year Turing Way friends! 🌸 
+Happy New Year Turing Way friends!  
 
-Needless to say that 2020 was a tough year and did not exactly go as we had planned. 
-But, that should not stop us from planning (hoping and dreaming) for 2021. 
+Needless to say that 2020 was a tough year and did not exactly go as we had planned. But, that should not stop us from planning (hoping and dreaming) for 2021. 🌻
 
-This year, as most of us continue to work from home during the pandemic, we want to strengthen and provide additional support for our network of contributors who have been instrumental in guiding important projects within the community. 
-To facilitate their collaborative efforts, we will keep hosting our online coworking calls, Collaboration Cafes and Book Dash events. 
-We also invite you to represent _The Turing Way_ in different conferences this year and highlight your work and resources on data science and research through its chapters.
+This year, as most of us continue to work from home during the pandemic, we want to:
 
-We welcome your thoughts and ideas on how we as a community project can support you and create more opportunities to listen to new voices and bring in their perspectives.
-Feel free to open an [issue on GitHub](https://github.com/alan-turing-institute/the-turing-way/issues), reach out to the team by emailing theturingway@gmail.com, or directly contact Kirstie and Malvika on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
+-   🌍 **Strengthen and provide additional support** for our network of contributors.
+-   ☕️ **Facilitate collaborative efforts** in the community by hosting coworking calls and events.
+-   🏆 Support you in representing _The Turing Way_ to **highlight your work and resources**.
+-   🌸 **Welcome your thoughts and ideas** on how we as a community project can support you.
+-   🗣 **Create more opportunities to listen** to new voices and bring in their perspectives.
 
-We look forward to seeing and welcoming you to our community spaces and events.
+Feel free to reach out to the team by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com), open an [issue on GitHub](https://github.com/alan-turing-institute/the-turing-way/issues), or directly contact Kirstie and Malvika on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw). We look forward to seeing and welcoming you to our community spaces and events.
 
 Read more details on these topics below! 👇
 
