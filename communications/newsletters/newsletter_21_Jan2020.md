@@ -83,11 +83,11 @@ If you are new to the project and don’t know where to start, have a look at th
 
 ### Publications, Books and Blog Posts
 
-- Katz DS, Chue Hong NP, Clark T et al. Recognizing the value of software: a software citation guide [version 2; peer review: 2 approved]. F1000Research 2021, 9:1257 (https://doi.org/10.12688/f1000research.26932.2) 
-- D'Ignazio, C., & F. Klein, L. (2020). Seven intersectional feminist principles for equitable and actionable COVID-19 data. Big Data & Society, 7(2), 2053951720942544. [doi: 10.1177/2053951720942544](https://journals.sagepub.com/doi/10.1177/2053951720942544)
-- Kraemer-Mbula E, Tijssen R, Wallace ML & McLean R, Transforming Research Excellence: New Ideas from the Global South – African Minds. (2021, January 20). [Book](https://www.africanminds.co.za/transforming-research-excellence-new-ideas-from-the-global-south).
-- 2020 in review: DORA's list of new developments in research assessment | DORA. (2020, December 18). [Blog post](https://sfdora.org/2020/12/18/2020-in-review-doras-list-of-new-developments-in-research-assessment)
-- Sharan M., (2020) Ten arguments against Open Science that you can win | Software Sustainability Institute. [Blog Post](https://www.software.ac.uk/blog/2020-12-17-ten-arguments-against-open-science-you-can-win).
+- Katz DS, Chue Hong NP, Clark T et al. Recognizing the value of software: a software citation guide [version 2; peer review: 2 approved]. F1000Research 2021, 9:1257, (2021). (https://doi.org/10.12688/f1000research.26932.2) 
+- D'Ignazio, C., & F. Klein, L. Seven intersectional feminist principles for equitable and actionable COVID-19 data. Big Data & Society, 7(2), 2053951720942544, (2020). [doi: 10.1177/2053951720942544](https://journals.sagepub.com/doi/10.1177/2053951720942544)
+- Kraemer-Mbula E, Tijssen R, Wallace ML & McLean R, Transforming Research Excellence: New Ideas from the Global South – African Minds, (2020). [Book](https://www.africanminds.co.za/transforming-research-excellence-new-ideas-from-the-global-south).
+- 2020 in review: DORA's list of new developments in research assessment | DORA, (2020). [Blog post](https://sfdora.org/2020/12/18/2020-in-review-doras-list-of-new-developments-in-research-assessment)
+- Sharan M., Ten arguments against Open Science that you can win | Software Sustainability Institute, (2020). [Blog Post](https://www.software.ac.uk/blog/2020-12-17-ten-arguments-against-open-science-you-can-win).
 
 ### Events and Call for Submissions
 
