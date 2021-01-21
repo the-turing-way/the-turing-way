@@ -45,6 +45,7 @@ Connect with them on the Slack channel #traducción-español ([Slack invitation 
 
 Thanks to Emma Karoune, Esther Plomp, Ismael Kherroubi-Garcia, Laura Ación, Laura Carter, Marilina Santero, Martina Vilas, Paul Owoicho, Sarah Gibson and Sophia Batchelor for representing _The Turing Way_ in 2020 through talks and presentations! 
 To keep this tradition going and further build a sense of ‘shared ownership', we welcome you to suggest 2021 events that you would like to attend and where you can share about your work in _The Turing Way_.
+
 You can reply in the GitHub [issue #1717](https://github.com/alan-turing-institute/the-turing-way/issues/1717) or reach out to Malvika by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) linked with frequently asked questions and presentations that you can adapt for your use (and in your preferred language). 
 We would be happy to give 1:1 feedback on your talk and will be able to provide support towards paying the conference registration fee.
@@ -53,6 +54,7 @@ We would be happy to give 1:1 feedback on your talk and will be able to provide 
 
 We have collected a set of project ideas beyond co-authoring chapters in the book that new and existing contributors can lead in _The Turing Way_. 
 These ideas include small-scale tasks such as guest-authoring newsletters or assessing _The Turing Way_’s community health and topics that are at the meta-study level such bringing Data Feminism Perspective to the project or creating reproducible translation pipeline to support community’s translation efforts.
+
 We have proposed these projects to provide leadership opportunities that our community members can use while developing a new skill or idea that they haven't yet had a chance to explore.
 Even though these projects can be carried out independently, we encourage and promote collaboration with other members and connect with ongoing projects in the community.
 Please see [issue #1712](https://github.com/alan-turing-institute/the-turing-way/issues/1712) for details and add more ideas.
@@ -131,6 +133,7 @@ She is currently working on a project with Historic England concerning the devel
 She is also working on a project to improve the FAIRness of phytolith data.
 In her words:
 > I try to work as openly as possible and a large part of my current research is developing easy and accessible to all collaborative and open ways of working. I am also working hard to bring together specialists in my field into a working group for Open Science so that we can work collaboratively towards subject-specific FAIR guidelines for phytolith data. 
+
 > I have really enjoyed working in such a collaborative way [in _The Turing Way_] during the November 2020 Book Dash. I have had interesting discussions concerning the accessibility of this project and research in general with other contributors. 
 >I have further developed my Github skills by working in collaboration with others while drafting a chapter on [Getting Started with GitHub](https://the-turing-way.netlify.app/collaboration/github-novice.html) and enhance the [online Glossary](https://the-turing-way.netlify.app/afterword/glossary.html) that now maintains a list of all definitions in Afterword.
 
