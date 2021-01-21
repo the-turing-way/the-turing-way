@@ -5,7 +5,7 @@ The Turing Way Newsletter: 21 January 2021
 Happy New Year Turing Way friends! 🌸 
 
 Needless to say that 2020 was a tough year and did not exactly go as we had planned. 
-But, that should not stop us from planning (dreaming and hoping) for 2021. 
+But, that should not stop us from planning (hoping and dreaming) for 2021. 
 
 This year, we want to strengthen and provide additional support for our network of contributors who are instrumental in guiding projects within the community.
 To facilitate their collaborative efforts, we will continue to host our online coworking calls, Collaboration Cafes and Book Dash events.
@@ -55,7 +55,7 @@ We have proposed these projects to provide leadership opportunities that our com
 Even though these projects can be carried out independently, we encourage and promote collaboration with other members and connect with ongoing projects in the community.
 Please see [issue #1712](https://github.com/alan-turing-institute/the-turing-way/issues/1712) for details and add more ideas.
 
-![This illustration shows on the left-hand side that the traditional acknowledgement system is broken that can unfairly treat people. On the right-hand side, we show how we try to acknowledge them fairly. We have a contributors bot that catches all the contributors information and stores them in contributors record](images/2021-01-Acknowledgement2.jpg)
+![This illustration shows on the left-hand side that the traditional acknowledgement system is broken that can unfairly treat people. On the right-hand side, it shows how we try to acknowledge them fairly in _The Turing Way_. We have a contributors bot that catches all the contributors information and stores them in contributors record](images/2021-01-Acknowledgement2.jpg)
 
 *The Turing Way Community, & Scriberia. (2020, November). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.4323154*
 
@@ -121,7 +121,7 @@ See more details on their website: [https://hidden-ref.org/timeline/](https://hi
 
 ### Contributor in Focus: Emma Karoune
 
-![Emma's headshot - A woman wearing a headscarf.](images/2021-01-emma4.png)
+![Emma Karounes's headshot - A woman wearing a headscarf.](images/2021-01-emma4.png)
 
 [Emma Karoune](https://the-turing-way.netlify.app/afterword/contributors-record.html#emma-karoune) is an independent post-doctoral researcher working in the field of Environmental Archaeology and Palaeoecology. 
 She has a PhD in Palaeoecology from the Institute of Archaeology, University College London.
