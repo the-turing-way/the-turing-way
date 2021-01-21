@@ -89,7 +89,7 @@ If you are new to the project and don’t know where to start, have a look at th
 - 2020 in review: DORA's list of new developments in research assessment | DORA, (2020). [Blog post](https://sfdora.org/2020/12/18/2020-in-review-doras-list-of-new-developments-in-research-assessment)
 - Sharan M., Ten arguments against Open Science that you can win | Software Sustainability Institute, (2020). [Blog Post](https://www.software.ac.uk/blog/2020-12-17-ten-arguments-against-open-science-you-can-win).
 
-### Events and Call for Submissions
+### Events and Calls for Submissions
 
 ![A SSI Fellow statement: "The opportunities this has given me is huge in terms of connections and invitations to speak at international conferences and to participate in workshops, review panels and so on. All these external works have been particularly noted in my performance reviews and I believe it was crucial at helping me secure a recent promotion."](images/2021-01-ssi3.png)
 
@@ -98,7 +98,7 @@ If you are new to the project and don’t know where to start, have a look at th
 - **Apply for SSI Fellowship Program**: The SSI Fellowship Programme funds researchers, software engineers and advocates who want to improve computational practice in their areas of work. 
 This year’s launch Webinar was hosted by Rachael Ainsworth on 14 January 2021 that provided an opportunity to present more about the Institute, the programme and the application process and hear from the existing Fellows about their experiences. 
 The deadline for application is on 5 February 2020. 
-You can watch the [webinar on Youtube](https://youtu.be/aceXqDJSoxY) and read [this blog](https://www.software.ac.uk/blog/2021-01-21-highlights-fellowship-programme-2021-launch-webinar) for details.
+You can read [this blog](https://www.software.ac.uk/blog/2021-01-21-highlights-fellowship-programme-2021-launch-webinar) for details.
 
 - **Collaboration Workshop 2020: Call for Abstract and application for Financial Aid**: Software Sustainability Institute’s Collaborations Workshop 2021 (CW21) will take place online from Tuesday, 30 March to Thursday, 1 April 2021.
 The themes of CW21 are FAIR Research Software, Diversity and Inclusion. 
