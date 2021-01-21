@@ -9,7 +9,7 @@ But, that should not stop us from planning (hoping and dreaming) for 2021.
 
 This year, as most of us continue to work from home during the pandemic, we want to strengthen and provide additional support for our network of contributors who have been instrumental in guiding important projects within the community. 
 To facilitate their collaborative efforts, we will keep hosting our online coworking calls, Collaboration Cafes and Book Dash events. 
-We also invite you to represent The Turing Way in different conferences this year and highlight your work and resources on data science and research through its chapters.
+We also invite you to represent _The Turing Way_ in different conferences this year and highlight your work and resources on data science and research through its chapters.
 
 We welcome your thoughts and ideas on how we as a community project can support you and create more opportunities to listen to new voices and bring in their perspectives.
 Feel free to open an [issue on GitHub](https://github.com/alan-turing-institute/the-turing-way/issues), reach out to the team by emailing theturingway@gmail.com, or directly contact Kirstie and Malvika on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
@@ -22,7 +22,7 @@ Read more details on these topics below! 👇
 
 ![This illustration shows a person working on their computer and talking to multiple people through an online video call, a dog is sitting next to them](images/2021-01-RemoteBookDash1.jpg)
 
-*The Turing Way Community, & Scriberia. (2020, November). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.4323154*
+*The Turing Way Community, & Scriberia. (2020, November). Illustrations from The Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.4323154*
 
 ### Bimonthly Collaboration Cafes
 The first Collaboration Cafe of this year took place on 20 January 2021. 
@@ -41,9 +41,9 @@ Connect with them on the Slack channel #traducción-español ([Slack invitation 
 
 ## News from the community
 
-### Represent The Turing Way at Conferences in 2021!
+### Represent _The Turing Way_ at Conferences in 2021!
 
-Thanks to Emma Karoune, Esther Plomp, Ismael Kherroubi-Garcia, Laura Acion, Laura Carter, Marilina Santero, Martina Vilas, Paul Owoicho, Sarah Gibson and Sophia Batchelor for representing The Turing Way in 2020 through talks and presentations! 
+Thanks to Emma Karoune, Esther Plomp, Ismael Kherroubi-Garcia, Laura Ación, Laura Carter, Marilina Santero, Martina Vilas, Paul Owoicho, Sarah Gibson and Sophia Batchelor for representing _The Turing Way_ in 2020 through talks and presentations! 
 To keep this tradition going and further build a sense of ‘shared ownership', we welcome you to suggest 2021 events that you would like to attend and where you can share about your work in _The Turing Way_.
 You can reply in the GitHub [issue #1717](https://github.com/alan-turing-institute/the-turing-way/issues/1717) or reach out to Malvika by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) linked with frequently asked questions and presentations that you can adapt for your use (and in your preferred language). 
@@ -52,17 +52,17 @@ We would be happy to give 1:1 feedback on your talk and will be able to provide 
 ### Join to Lead Small Projects Within the Community
 
 We have collected a set of project ideas beyond co-authoring chapters in the book that new and existing contributors can lead in _The Turing Way_. 
-These ideas include small-scale tasks such as guest-authoring newsletters or assessing The Turing Way’s community health and topics that are at the meta-study level such bringing Data Feminism Perspective to the project or creating reproducible translation pipeline to support community’s translation efforts.
+These ideas include small-scale tasks such as guest-authoring newsletters or assessing _The Turing Way_’s community health and topics that are at the meta-study level such bringing Data Feminism Perspective to the project or creating reproducible translation pipeline to support community’s translation efforts.
 We have proposed these projects to provide leadership opportunities that our community members can use while developing a new skill or idea that they haven't yet had a chance to explore.
 Even though these projects can be carried out independently, we encourage and promote collaboration with other members and connect with ongoing projects in the community.
 Please see [issue #1712](https://github.com/alan-turing-institute/the-turing-way/issues/1712) for details and add more ideas.
 
 ![This illustration shows on the left-hand side that the traditional acknowledgement system is broken that can unfairly treat people. On the right-hand side, it shows how we try to acknowledge them fairly in _The Turing Way_. We have a contributors bot that catches all the contributors information and stores them in contributors record](images/2021-01-Acknowledgement2.jpg)
 
-*The Turing Way Community, & Scriberia. (2020, November). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.4323154*
+*The Turing Way Community, & Scriberia. (2020, November). Illustrations from The Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.4323154*
 
 ### A GitHub Action for Contributors Record
-The Turing Way maintains a contributors record in the [book’s Afterword](https://the-turing-way.netlify.app/afterword/contributors-record.html). 
+_The Turing Way_ maintains a contributors record in the [book’s Afterword](https://the-turing-way.netlify.app/afterword/contributors-record.html). 
 This record combines the contributors' table and the personal impact statements of our contributors as described in the [acknowledgement chapter](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html).
 We have now added a [GitHub Action](https://github.com/features/actions) in our workflow that automatically updates this record every week (see [the workflow](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/workflows/contributors-record.yml)).
 Thanks to Martina G. Vilas and Sarah  Gibson for their support in setting this up.
@@ -131,12 +131,12 @@ She is currently working on a project with Historic England concerning the devel
 She is also working on a project to improve the FAIRness of phytolith data.
 In her words:
 > I try to work as openly as possible and a large part of my current research is developing easy and accessible to all collaborative and open ways of working. I am also working hard to bring together specialists in my field into a working group for Open Science so that we can work collaboratively towards subject-specific FAIR guidelines for phytolith data. 
-> I have really enjoyed working in such a collaborative way [in The Turing Way] during the November 2020 Book Dash. I have had interesting discussions concerning the accessibility of this project and research in general with other contributors. 
+> I have really enjoyed working in such a collaborative way [in _The Turing Way_] during the November 2020 Book Dash. I have had interesting discussions concerning the accessibility of this project and research in general with other contributors. 
 >I have further developed my Github skills by working in collaboration with others while drafting a chapter on [Getting Started with GitHub](https://the-turing-way.netlify.app/collaboration/github-novice.html) and enhance the [online Glossary](https://the-turing-way.netlify.app/afterword/glossary.html) that now maintains a list of all definitions in Afterword.
 
 ### Talks and Presentations
 
-- Hosted by Basque Center On Cognition, Brain and Language, **Martina Vilas** had presented a talk at BrainHack Donostia on 12 November 2020 under the title “Computational reproducibility: A how-to guide based on The Turing Way” ([slides on Zeondo](http://doi.org/10.5281/zenodo.4269795)). 
+- Hosted by Basque Center On Cognition, Brain and Language, **Martina Vilas** had presented a talk at BrainHack Donostia on 12 November 2020 under the title “Computational reproducibility: A how-to guide based on _The Turing Way_” ([slides on Zeondo](http://doi.org/10.5281/zenodo.4269795)). 
 You can now watch the talk on YouTube ([link to the video](https://www.youtube.com/watch?v=BQh0A1raBI8)).
 - Watch this 6 minutes [video on YouTube](https://www.youtube.com/watch?v=etHzozIhPNY) to get an update on _The Turing Way_.
 This talk was recorded by **Malvika Sharan** as a part of a report for the Tools, Practices and System Research Programme at The Alan Turing Institute.
@@ -147,8 +147,8 @@ This talk was recorded by **Malvika Sharan** as a part of a report for the Tools
 
 *1. [Tweet by Laura Carter](https://twitter.com/LauraC_rter/status/1347183419906785282) inviting new members to participate.
 2. [Tweet by Camila Rangel-Smith](https://twitter.com/ResearcHersCode/status/1351514662454571009) about her involvement in the project. Learn more about her on [ResearcHersCode](https://twitter.com/ResearcHersCode) Twitter account this week.
-3. [The Turing Way Tweet](https://twitter.com/turingway/status/1346041839162433538) wishing all of you a happy new year and inviting you to share ideas for 2021.
-4. [Tweet by Malin Sanfstörm](https://twitter.com/msandstr/status/1350081612713758722) announcing INCF’s Google Summer of Code projects including The Turing Way.
+3. [_The Turing Way_ Tweet](https://twitter.com/turingway/status/1346041839162433538) wishing all of you a happy new year and inviting you to share ideas for 2021.
+4. [Tweet by Malin Sanfstörm](https://twitter.com/msandstr/status/1350081612713758722) announcing INCF’s Google Summer of Code projects including _The Turing Way_.
 5. The Alan Turing Institute is hiring Research Software Engineers. Find details in [this Twitter thread](https://twitter.com/turinghut23/status/1339511543046746112)*
 
 
