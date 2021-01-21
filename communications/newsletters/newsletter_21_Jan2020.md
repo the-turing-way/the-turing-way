@@ -34,7 +34,7 @@ Find more details on this shared notes: [https://hackmd.io/@turingway/collaborat
 
 ### Weekly Coworking Calls
 We have also been hosting Coworking Calls every Monday and Thursday from 11:00 - 12:00 UTC. 
-To stay connected with people in Eastern Time Zones, we have added one more session on Wednesdays from 15:00 - 16:00 UTC (weeks when Collaboration Cafes are not planned). 
+To stay connected with people in Eastern Time Zones, we have added one more session on Wednesdays from 15:00 - 16:00 UTC, except when Collaboration Cafes are planned.
 Find the dates for the upcoming coworking calls on this shared note: [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call). 
 
 ### Join the Spanish Translation Team on Mondays
