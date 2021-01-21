@@ -138,7 +138,7 @@ In her words:
 
 - Hosted by Basque Center On Cognition, Brain and Language, **Martina Vilas** had presented a talk at BrainHack Donostia on 12 November 2020 under the title “Computational reproducibility: A how-to guide based on The Turing Way” ([slides on Zeondo](http://doi.org/10.5281/zenodo.4269795)). 
 You can now watch the talk on YouTube ([link to the video](https://www.youtube.com/watch?v=BQh0A1raBI8)).
-- Watch this 6 minutes [video on YouTube] to get an update on _The Turing Way_.
+- Watch this 6 minutes [video on YouTube](https://www.youtube.com/watch?v=etHzozIhPNY) to get an update on _The Turing Way_.
 This talk was recorded by **Malvika Sharan** as a part of a report for the Tools, Practices and System Research Programme at The Alan Turing Institute.
 
 ### Tweets and Online Mentions
