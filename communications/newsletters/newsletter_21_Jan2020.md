@@ -14,6 +14,8 @@ We also invite you to represent The Turing Way in different conferences this yea
 We welcome your thoughts and ideas on how we as a community project can support you and create more opportunities to listen to new voices and bring in their perspectives.
 Feel free to open an [issue on GitHub](https://github.com/alan-turing-institute/the-turing-way/issues), reach out to the team by emailing theturingway@gmail.com, or directly contact Kirstie and Malvika on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
 
+We look forward to seeing and welcoming you to our community spaces and events.
+
 Read more details on these topics below! 👇
 
 ## Community Meetings
