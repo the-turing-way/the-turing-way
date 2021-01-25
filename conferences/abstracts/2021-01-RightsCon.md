@@ -51,7 +51,7 @@ _Now’s the time to sell yourself as a speaker. Don’t hold back._
 
 Laura is a human rights researcher who is one of the Ethics Guide collaborators: as well as developing content that is practical and accessible for data researchers, she also guides new contributors as a new open science contributor herself!
 
-Malvika is the Community Manager of the project: based at the Alan Turing Institute in the UK, she brings her extensive experience in open science and collaboration to a global community spanning 6 continents. 
+Malvika is the Community Manager of The Turing Way. She is based at The Alan Turing Institute in the United Kingdom and brings her extensive experience in open science and collaboration to a global community spanning 6 continents. 
 
 ### Do you have a link to whatever product, project, or innovation that you want to demo? We want to see it!
 The Turing Way: https://the-turing-way.netlify.app/welcome
