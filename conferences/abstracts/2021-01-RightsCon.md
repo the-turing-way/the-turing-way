@@ -44,7 +44,7 @@ _In a few sentences, tell us what you plan to demo. (Yes, we know it’s not muc
 The Turing Way is a book, a community, and a global collaboration. 
 This presentation will demonstrate one of the five open-source, online, collaborative books that form the project: the Guide to Ethical Research.
 The other four guides cover Reproducible Research, Project Design, Communication, and Collaboration.
-We will talk about the aims of the project, the community we are building, and most importantly - how you can get involved!
+We will talk about the aims of the project, the community we are building, and, most importantly, how you can get involved!
 
 ### What makes you the right person to speak about this product, initiative, or innovation? (150 words)
 _Now’s the time to sell yourself as a speaker. Don’t hold back._
