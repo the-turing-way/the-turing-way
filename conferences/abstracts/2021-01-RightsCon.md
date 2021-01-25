@@ -47,10 +47,11 @@ _If you have more than one host, separate them using a semicolon (e.g. "Access N
 ### What’s your product, initiative, or innovation?  (150 words)
 _In a few sentences, tell us what you plan to demo. (Yes, we know it’s not much space – make it count!)_
 
-The Turing Way is a community, and a global collaboration.
-This presentation will demonstrate one of the five open-source, online, collaborative books that form the project: the Guide to Ethical Research.
-The other four guides cover Reproducible Research, Project Design, Communication, and Collaboration.
-We will talk about the aims of the project, the community we are building, and, most importantly: how you can get involved!
+Data scientists make data-driven decisions throughout the lifecycle of their projects. 
+It is their duty to ensure that their work maintains a high level of moral integrity as well as the highest scientific standards, especially, when it impacts people’s lives.
+In this presentation, we will introduce The Turing Way, an open source book project that involves and supports its diverse community in developing and sharing resources that make data science reproducible, ethical, collaborative and inclusive. 
+In particular, we will demonstrate the Turing Way guide for Ethical Research, the community behind its development, and its human rights-centred approach to data science ethics as a practice that includes activism for change. 
+Most importantly, we will demonstrate how RightsCon attendees can get involved! 
 
 
 ### What makes you the right person to speak about this product, initiative, or innovation? (150 words)
