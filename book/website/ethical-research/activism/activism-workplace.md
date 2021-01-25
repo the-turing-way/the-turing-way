@@ -66,8 +66,8 @@ In the label, replace `keyidea2` with a word that best describes the section or 
 (sectioninitials-filename-keyidea2)=
 ## Internal policy advocacy
 
-> **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
-<!-- > You may break the section down into subsections if you wish.
+<!-- > **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
+> You may break the section down into subsections if you wish.
 > Remember to use the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) and Jupyter Book's [Cheat Sheet](https://jupyterbook.org/reference/cheatsheet.html) to guide your writing.
 > The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
 -->
