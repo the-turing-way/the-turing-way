@@ -8,7 +8,7 @@ Secondary contact: Malvika Sharan
 
 ### Which program category does your session fall under? (select from drop-down menu)
 
-Human Rights-centred Design: 
+**Human Rights-centred Design**: 
 This category fosters discussion on technology design, tool development, and user education and experience. 
 It also covers openness and accessibility, community-driven innovation, co-design processes, and user research that supports and prioritizes human rights principles. 
 
@@ -21,30 +21,37 @@ Racial justice,
 Gender justice,
 Youth and children's rights,
 Migration)_
-No
+
+- No
 
 ### Session title (in English)
 _20 words_ 
 _Pique the audience's interest while also explainining the 'big idea' of your session_
-The Turing Way: Building a collaborative guide to ethical data science
+
+**The Turing Way: Building a collaborative guide to ethical data science**
 
 ### Which institution(s) will host your session?
 _Write the full name of the institution(s) that should be credited publicly as the host of the session._
 _If you have more than one host, separate them using a semicolon (e.g. "Access Now; RightsCon"). If your session is not affiliated with an institution, you can write “Independent.”_
-The Alan Turing Insitute
+
+**The Alan Turing Insitute**
 
 ## Format and Goal
 
 ### Session format (choose from drop-down)
-Tech Demo - A brief (8-10 minute), prepared presentation on a new technology, tool, or technical project. Demos are recorded in advance of the summit.
+
+**Tech Demo** - A brief (8-10 minute), prepared presentation on a new technology, tool, or technical project. Demos are recorded in advance of the summit.
 
 ## Session Concept 
+
 ### What’s your product, initiative, or innovation?  (150 words)
 _In a few sentences, tell us what you plan to demo. (Yes, we know it’s not much space – make it count!)_
-The Turing Way is a book, a community, and a global collaboration. 
+
+The Turing Way is a community, and a global collaboration.
 This presentation will demonstrate one of the five open-source, online, collaborative books that form the project: the Guide to Ethical Research.
 The other four guides cover Reproducible Research, Project Design, Communication, and Collaboration.
 We will talk about the aims of the project, the community we are building, and, most importantly: how you can get involved!
+
 
 ### What makes you the right person to speak about this product, initiative, or innovation? (150 words)
 _Now’s the time to sell yourself as a speaker. Don’t hold back._
