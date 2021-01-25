@@ -67,9 +67,10 @@ In the label, replace `keyidea2` with a word that best describes the section or 
 ## Internal policy advocacy
 
 > **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
-> You may break the section down into subsections if you wish.
+<!-- > You may break the section down into subsections if you wish.
 > Remember to use the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) and Jupyter Book's [Cheat Sheet](https://jupyterbook.org/reference/cheatsheet.html) to guide your writing.
 > The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
+-->
 
 Internal policy advocacy is when individuals or groups associated with an organisation campaign for a change in the way that the organisation makes decisions, runs projects, chooses collaborators, develops products, or in other areas. 
 It can be a really powerful tool for change, regardless of whether or not the group of people campaigning are in a union.
@@ -81,6 +82,7 @@ Some employees even resigned.
 Eventually, the leadership at Google agreed not to seek further contracts with the US Pentagon.
 [Source, accessed 8 December 2020](https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers)
 
+### How to advocate internally
 A basic set of steps you can take for internal policy advocacy (adapted from [guidelines](https://knowhow.ncvo.org.uk/how-to/how-to-run-effective-campaigns) produced by the NCVO in the UK, used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license):
 1. Define the issue
     - What is the problem that you are concerned about? 
@@ -132,14 +134,20 @@ It can also be external: reporting wrongdoing to an external agency.
 
 Whistleblowers can report different kinds of wrongdoing: this can include illegal activity, harm (or potential harm) to people inside or outside the organisation, misuse of government funds (for governmental organisations). 
 
+<!--- I'd like to have an example here that isn't Edward Snowdon, but I can't think of an accessible case - any ideas? -->
+
 Retaliation against whistleblowers is, unfortunately, common.
-Retaliation can include firing from the organisation, or creation of an unpleasant working environment that means the whistleblower cannot work there any more. 
+Retaliation can include firing from the organisation, or creation of an unpleasant working environment that means the whistleblower can no longer work there. 
 
 Some countries have laws to protect whistleblowers from retaliation.
+For example, the EU [Whistleblower Protection Directive](https://www.cliffordchance.com/insights/resources/blogs/regulatory-investigations-financial-crime-insights/the-new-eu-whistleblower-protection-directive-are-the-member.html) requires EU countries to have prohibitions on retaliation, as well as to ensure that companies with more than 50 workers have confidential internal reporting channels. 
 
 Some companies have policies in place to protect whistleblowers.
 This can include third-party reporting systems. 
 
+### Blowing the whistle
+If you are considering whistleblowing, make sure you are aware of what protections are - and are not - in place in your country, and in your organisation.
+You may want to seek legal advice about what procedures you should follow and what measures you should take to protect yourself. (Link to legal advice disclaimer)
 
 (sectioninitials-filename-summary)=
 ## Summary
