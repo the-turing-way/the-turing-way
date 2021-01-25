@@ -26,7 +26,7 @@ No
 ### Session title (in English)
 _20 words_ 
 _Pique the audience's interest while also explainining the 'big idea' of your session_
-The Turing Way: Making reproducible, ethical, and inclusive data science too easy not to do
+The Turing Way: Building a collaborative guide to ethical data science
 
 ### Which institution(s) will host your session?
 _Write the full name of the institution(s) that should be credited publicly as the host of the session._
