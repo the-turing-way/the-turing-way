@@ -1,18 +1,3 @@
-<style type="text/css" rel="stylesheet">
-th, td {
-  border: 1px solid #999999; text-align: center; padding: 10px
-}
-th {
-  font-weight: bold; background-color: #EEEEEE
-}
-table caption {
-  color: black; text-align: center;
-}
-table caption .footnote {
-  color: #666666; text-align: left; font-size: smaller;
-}
-</style>
-
 (rr-licensing-software)=
 # Software Licenses
 

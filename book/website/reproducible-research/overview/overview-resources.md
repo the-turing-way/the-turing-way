@@ -1,11 +1,9 @@
 (rr-overview-resources)=
-# Resources for reproducibility chapter
+# Resources
 For additional resources like videos and reference papers on reproducibility, see the {ref}`rr-overview-resources-reading` and {ref}`rr-overview-resources-addmaterial` sections.
 
-## Checklist / Exercise
-- [ ] Define reproducibility for yourself.
-
-## What to learn next?
+(rr-overview-resources-learn)=
+## What to Learn Next?
 {ref}`rr-open` would be a good chapter to read next.
 If you want to start learning hands-on practices, we recommend reading the {ref}`rr-vcs` chapter next.
 
@@ -21,13 +19,13 @@ If you want to start learning hands-on practices, we recommend reading the {ref}
 * Whitaker, Kirstie (2018): Barriers to reproducible research (and how to overcome them). figshare. Paper. https://doi.org/10.6084/m9.figshare.7140050.v2
 
 (rr-overview-resources-addmaterial)=
-## Additional material
+## Additional Material
 
 ### Videos
 
 * Markowetz, F. (2016). 5 selfish reasons to work reproducibly. Talk at scidata 2016. https://www.youtube.com/watch?v=Is15CMVPHas&feature=youtu.be
 
-### Other useful links
+### Other Useful Links
 
 * Markowetz, F. (2018). 5 selfish reasons to work reproducibly. Slides available at https://osf.io/a8wq4/
 

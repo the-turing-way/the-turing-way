@@ -689,7 +689,8 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/17767752?v=4",
       "profile": "https://github.com/Biostew",
       "contributions": [
-        "doc"
+        "doc",
+        "ideas"
       ]
     },
     {
@@ -2168,6 +2169,153 @@
       "profile": "http://ml-evs.science",
       "contributions": [
         "bug"
+      ]
+    },
+    {
+      "login": "bsipocz",
+      "name": "Brigitta Sipőcz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6788290?v=4",
+      "profile": "https://bsipocz.github.io/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "sliaqat3",
+      "name": "sliaqat3",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/56300607?v=4",
+      "profile": "https://github.com/sliaqat3",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "rabbits99",
+      "name": "rabbits99",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/72690233?v=4",
+      "profile": "https://github.com/rabbits99",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "msanter01",
+      "name": "msanter01",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/39199660?v=4",
+      "profile": "https://github.com/msanter01",
+      "contributions": [
+        "translation",
+        "talk"
+      ]
+    },
+    {
+      "login": "luucamay",
+      "name": "Lupe CaMay",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15850514?v=4",
+      "profile": "http://laboratoria.la",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "sk-sahu",
+      "name": "Sangram K Sahu",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/23085664?v=4",
+      "profile": "https://sksahu.net",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "jbteves",
+      "name": "Joshua Teves",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/26722533?v=4",
+      "profile": "https://github.com/jbteves",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "callummole",
+      "name": "Callum Mole",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/22677759?v=4",
+      "profile": "https://github.com/callummole",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "przemekdolata96",
+      "name": "Przemek Dolata",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/26312462?v=4",
+      "profile": "https://github.com/przemekdolata96",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "Kelly-dot",
+      "name": "Kelly-dot",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/59481756?v=4",
+      "profile": "https://github.com/Kelly-dot",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "fuadreza",
+      "name": "Fuad Reza Pahlevi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25898509?v=4",
+      "profile": "https://www.linkedin.com/in/fuad-reza-pahlevi-531283160/",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "JKasmire",
+      "name": "JKasmire",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1334163?v=4",
+      "profile": "https://sites.google.com/view/drjkasmireresearch/home",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "ufangYang",
+      "name": "Yu-Fang Yang",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/33165978?v=4",
+      "profile": "https://github.com/ufangYang",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "dstansby",
+      "name": "David Stansby",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6197628?v=4",
+      "profile": "https://www.davidstansby.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "teapowell",
+      "name": "Tim Powell",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/35264355?v=4",
+      "profile": "https://github.com/teapowell",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "BenjaminMummery",
+      "name": "Benjamin Mummery",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/46931690?v=4",
+      "profile": "https://github.com/BenjaminMummery",
+      "contributions": [
+        "ideas",
+        "content"
       ]
     }
   ],

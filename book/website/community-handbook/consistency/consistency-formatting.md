@@ -49,8 +49,32 @@ Chapter content written in `HTML` are usually enclosed in tags which begin and e
 [W3Schools](https://www.w3schools.com/html/html_elements.asp) is an excellent resource for understanding what these tags mean, and Markdown reference guides, such as [this cheatsheet](https://www.markdownguide.org/cheat-sheet/), can help translate `HTML` formatting to Markdown.
 There are also helpful tools on the web, such as [Turndown](https://domchristie.github.io/turndown/) and [CloudConvert](https://cloudconvert.com/html-to-md), that convert `HTML` to Markdown with a single click.
 
-Please note that if `HTML` seems the only option for you to format your text the way you desire, you can only use it if the content in the online book can still be read and understood (use the Netlify preview in your PR to test). 
+Please note that if `HTML` is the only option for you to format your text the way you desire, you can use it only if the content in the online book can still be read and understood (use the Netlify preview in your PR to test). 
 For example, [superscripts and subscripts](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be written in `HTML` because they always appear as intended.
+In addition, content like Youtube videos and tables with headers that span multiple columns or rows can be written in `HTML`.
+
+
+````{attention} A Note About Styling
+:class: tip
+
+_The Turing Way_ has a [book-wide stylesheet](https://github.com/alan-turing-institute/the-turing-way/blob/master/book/website/_static/book-stylesheet.css) that controls the look of content written in `HTML`. 
+If you include `HTML` in your contribution, ensure that your formatting includes the relevant classes and IDs from the stylesheet.
+For example, if you want to add a Youtube video to your content using the `<iframe>` tag, wrap the `<iframe>` in a `<div>` tag, and give the `div` a `video-container` class as shown below.
+
+```
+<div class="video-container">
+    <iframe>....</iframe>
+</div>
+
+```
+
+````
+
+#### Demo
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/tv0HlVgxDdI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 #### Writing Checklists
 
@@ -84,7 +108,11 @@ Thus, we recommend that you format your Checklist subchapters as unordered lists
 - Item Three
 
 ```
+#### Demo
 
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oe2Up1pU5DY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 (ch-consistency-formatting-hr-headers)=
 ### Check 2: Use headers in sequential order.
@@ -107,6 +135,12 @@ Ideally, all Markdown files should start with a level 1 heading and increase seq
 Several files in _The Turing Way_ book do not follow this convention. 
 A list of such files can be found in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1321), and [this PR](https://github.com/alan-turing-institute/the-turing-way/pull/1451) is a great example of how to fix a file with non-consecutive headers.
 
+#### Demo
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/qq9QCrykdbw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 (ch-consistency-formatting-hr-labels)=
 ### Check 3: Add labels to chapters, subchapters, sections, and images to enable cross-referencing.
@@ -116,6 +150,13 @@ Cross-referencing facilitates this by ensuring that the referred content is easy
 This helps make _The Turing Way_ more navigable and accessible.
 
 {ref}`Cross-referencing <ch-style-crossref>` is discussed in detail in the {ref}`ch-style-guide`. The subchapter explains what labels are, provides a naming convention for labels in _The Turing Way_, and gives several useful examples for how cross-referencing should be done.
+
+#### Demo
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ikcjxjklLVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 
 (ch-consistency-formatting-hr-images)=
@@ -141,6 +182,14 @@ This allows the book load faster, especially for readers who may have slow inter
 Please refer to the {ref}`style guide <ch-style-figures>` for examples on formatting images using `MyST` and adding ALT text to them.
 When including images in your contributions, it may be better to avoid the height parameter as the wrong value could make your image appear distorted on mobile devices.
 You should always check how your image looks in the Netlify preview of the book when you make a PR.
+
+#### Demo
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/upBiKLR_A5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 
 (ch-consistency-formatting-sr)=
 ## Soft Requirements
@@ -173,6 +222,12 @@ The `_toc.yml` is the file where the book-wide table of contents for _The Turing
 
 Nonetheless, remember that the final title should adequately tell readers what to expect from a chapter or subchapter.
 
+#### Demo
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HxcdqKJbCE4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 (ch-consistency-formatting-sr-two)=
 ### Check 2: Ensure proper title-casing for headers
@@ -194,3 +249,9 @@ For example, In {ref}`<mismatched_title_toc>` above, **Using spreadsheets for re
 
 Certain headers may not need to be title-cased depending on the context in which they are used.
 For example, because some of the headers in this chapter make up a checklist - they do not need to be title-cased.
+
+#### Demo
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ET_LI5dwP9M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
