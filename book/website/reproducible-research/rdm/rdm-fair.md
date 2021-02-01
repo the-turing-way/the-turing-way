@@ -51,8 +51,8 @@ One way to do this is to create a Data Management Plan (DMP), in [DMPonline](htt
 The DMP should include information on data creation (volume, formats/types and workflows), data use (where the raw or 'live' data is being stored), data publication, and data archiving at the end of the project (long-term data storage, or what data is 'kept' at the end of a project).
 DMPs should also regularly be updated as the research project progresses or diverge from the initial design.
 
-(rr-rdm-fair-tools)=
-## Tools and Indicators
+(rr-rdm-fair-community)=
+## Community involvement
 
 Although started by a community operating in the life science, the FAIR principles have rapidly been adopted by publishers, funders, and pan-disciplinary infrastructure programmes and societies.
 Many groups and organisation are working to define guidance and tools to help researchers, and other stakeholders (like librarians, funders, publishers, and trainers) make data FAIR and assess its FAIRness level.
@@ -67,7 +67,7 @@ Under GOFAIR, there are many [Implementation Networks (INs)](https://www.go-fair
 Under the RDA, there are several groups tackling different aspects relevant to the RDM life cycle. Among these, one [group](https://www.rd-alliance.org/groups/fair-data-maturity-model-wg) is reviewing existing efforts, building on them to define a standard set of common assessment criteria for the evaluation of FAIRness.
 
 (rr-rdm-fair-standards)=
-## Metadata and Identifiers - Community Standards
+## Community Standards - Metadata and Identifiers
 
 Metadata (to describe and report the data) and unique persistent identifiers (to cite and reference data) are the two pillars of the FAIR principles.
 The use of community-defined standards for metadata and identifiers is vital for high-quality, reproducible research, and integrative analysis and comparison of heterogeneous data from multiple sources, domains and disciplines.
