@@ -7,6 +7,14 @@ Open leadership is "a set of principles, practices, and skills people can use to
 
 By healthy leadership, we mean guidance that stewards a community, project, or organization where everyone feels safe, welcome, and valued.
 
+```{figure} figures/HealthyLeadership.jpg
+---
+name: healthy-leadership-image
+alt: Healthy leadership is illustrated as a fractal where persons water growing flowers. The image includes the quotes by Adrienne Maree Brown "transform yourself to transform the world", "the large is a reflection of the small", and "strong values can spread to other organisations."
+---
+_The Turing Way_ project illustration by Scriberia. Zenodo. [https://doi.org/10.5281/zenodo.4323154](https://doi.org/10.5281/zenodo.4323154)
+```
+
 ## Open Leadership Framework
 
 Mozilla's Open Leadership Framework states that leadership is about involving members and mobilizing communities to solve problems and achieve goals that are beneficial for everyone. 
