@@ -1,10 +1,19 @@
 (ch-contributing)=
-# Contributing and Developing Chapters - Templates and Workflow
+# Chapter Templates and Contribution Workflow
 
 As _The Turing Way_ project grows and evolves, we actively welcome and encourage continuous contributions from community members in the form of new chapters and case studies. 
 However, these new contributions need to be consistent with the overall theme, purpose, format, and style of the book's existing content.
 
 Since _The Turing Way_ is written asynchronously by multiple authors around the world, we created a series of templates to guide different kinds of content development while maintaining a consistent format of the book.
+
+```{figure} ../figures/templates.png
+---
+height: 200px
+name: templates
+alt: An illustration of a persona, probably an architect making a sketch
+---
+Illustration of a process of sketching. [Royalty free image from Many Pixels](https://www.manypixels.co/gallery/)
+```
 
 This chapter provides a brief overview of the workflow for writing chapters and case studies for _The Turing Way_.
 We encourage you to read through and follow the recommendations if you wish to make a contribution. 
