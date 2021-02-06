@@ -343,6 +343,8 @@
       file: community-handbook/coc/coc-enforcement
     - title: Acnowledgements
       file: community-handbook/coc/coc-acknowledgement
+  - title: Ways to Enter the Project
+    file: community-handbook/enter-the-project
   - title: Style Guide
     file: community-handbook/style
     sections:
@@ -365,7 +367,7 @@
       file: community-handbook/consistency/consistency-structure
     - title: Language
       file: community-handbook/consistency/consistency-language
-  - title: Contributing and Developing Chapters - Templates and Workflow
+  - title: Chapter Templates and Contribution Workflow
     file: community-handbook/contributing
     sections:
     - title: Templates
