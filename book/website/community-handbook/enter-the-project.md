@@ -15,7 +15,7 @@ Simultaneously, multiple pathways have evolved that interested members can take 
 Though most of these pathways have been mentioned in various chapters, we have also noticed that often it is hard for people to enter an ongoing project when they don't know what their role in the community would look like.
 
 (ch-overview)=
-# Overview of Resources You Can Use to Enter the Project
+# Overview of Resources You Can Use
 
 First, we provide an overview of different platforms, community-led efforts, possible roles and opportunities for collaboration in the community.
 
@@ -23,10 +23,10 @@ In the next subchapters, you will find descriptions of different resources menti
 Then we describe other ongoing efforts in the project that you can use to join and ideas for the kind of initiatives you can lead while collaborating with others in continuing your journey within *The Turing Way*.
 Finally, we share some personal motivations of our current members for participating in this project and aspects of their work they find meaningful and beneficial.
 
-## 1. Let's start by getting to know the project
+## 1. Get to Know the Project
 
 | You might be wondering | You can learn about that here |
-|:----------------------- | ---------------------------------|
+|:----------------------- |:---------------------------------|
 | Where can I browse its resources and chapters? | Check out the [Online Book](https://the-turing-way.netlify.app) |
 | Where are these chapters stored? | Online on [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/) |
 | How Can I get updates daily? | Follow the [Twitter account](https://twitter.com/turingway). |
@@ -41,7 +41,7 @@ Finally, we share some personal motivations of our current members for participa
 ## 2. Read Helpful Documents and Guidelines
 
 | You might be wondering | You can learn about that here |
-|:---------------------- | ------------------------------|
+|:----------------------- |:---------------------------------|
 | Can I use its resources without being a part of this project? | The book is available for free under [CC-BY License](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md). |
 | What is expected of me if I participate in the community? | Please read and abide by the {ref}`Code of Conduct<ch-coc>`. |
 | Is there a guideline for people to contribute on the GitHub repository? | We have a [Contribution Guideline](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md). |
@@ -50,10 +50,10 @@ Finally, we share some personal motivations of our current members for participa
 | Are there any template and supporting materials for people writing chapters? | Here are some templates and workflows for {ref}`Contributing and Developing Chapters<ch-contributing>` |
 
 
-## 3. See What Others Get Involved
+## 3. See Ways to Contribute
 
 | You might be wondering | You can learn about that here |
-|:----------------------- | --------------------------------|
+|:----------------------- |:---------------------------------|
 | What kind of topics are in the scope for *The Turing Way*? | Any topic in research and data science practices that fit in these guides: [Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html), [Project Design](https://the-turing-way.netlify.app/project-design/project-design.html), [Communication](https://the-turing-way.netlify.app/communication/communication.html), [Collaboration](https://the-turing-way.netlify.app/collaboration/collaboration.html), [Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethical-research.html) |
 | Where can I learn more about the community? | We have [Community Handbook](https://the-turing-way.netlify.app/community-handbook) describing these aspects. |
 | What ideas, resources or improvements in the book are being suggested by others? | Browse open [issues on GitHub](https://github.com/alan-turing-institute/the-turing-way/issues) |
@@ -63,7 +63,7 @@ Finally, we share some personal motivations of our current members for participa
 ## 4. Participate in Meetings
 
 | Types of calls/meetings | When |
-|:----------------------- | --------------------------------|
+|:----------------------- |:---------------------------------|
 | Weekly coworking calls | Every week on Monday, 11:00 - 12:00 UTC, [Shared Notes](https://hackmd.io/@turingway/coworking-call). Read more in [this chapter](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html) |
 | Collaboration cafes | Every first and third Wednesday of each month, 15:00 - 17:00 UTC, [Shared Notes](https://hackmd.io/@turingway/collaboration-cafe) |
 | Coworking calls - West Time Zone | Wednesdays when Collaboration Cafe is not already scheduled, 15:00 - 16:00 UTC, [Shared Notes](https://hackmd.io/@turingway/coworking-call). |
@@ -74,7 +74,7 @@ Finally, we share some personal motivations of our current members for participa
 ## 5. Participate and Contribute Asynchronously
 
 | You might be wondering this | You can learn about that here |
-|:----------------------- | --------------------------------|
+|:----------------------- |:---------------------------------|
 | Can I see what people are discussing about without having to participate right now? | You are welcome to read comments on GitHub and visit Slack channels without joining the conversation. |
 | Oh! But I have some thoughts and feedback on an ongoing discussion. | Great! Why wait? Join the conversation. We would be delighted to welcome your thoughts. | 
 | I read a chapter and want to clarify a minor technical/conceptual thing. Can I simply ask it without opening an issue? | Yes. Please ask away on a suitable Slack channel. |
