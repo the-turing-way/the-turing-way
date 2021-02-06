@@ -15,7 +15,7 @@ Simultaneously, multiple pathways have evolved that interested members can take 
 Though most of these pathways have been mentioned in various chapters, we have also noticed that often it is hard for people to enter an ongoing project when they don't know what their role in the community would look like.
 
 (ch-overview)=
-# Overview of Resources You Can Use
+## Overview of Resources You Can Use
 
 First, we provide an overview of different platforms, community-led efforts, possible roles and opportunities for collaboration in the community.
 
