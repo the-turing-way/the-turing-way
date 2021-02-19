@@ -33,59 +33,128 @@ In the label, replace `keyidea1` with a word that best describes the section or 
 
 ### What is a union?
 
-In some, but not all countries, being a member of a trade union is a protected characteristic. This means organisations are not allowed to fire people for being members (but this has not always been the case)
+A trade union is a formalised way for workers to organise and bargain collectively at an institutional, sectoral or national level. 
+A union is organised into branches which are spread geographically (e.g. North London) or at an institutional level (e.g. labs or departments), depending on the distribution of members and how the union works. Members of unions typically pay a monthly fee, although this is sometimes waived for certain categories of members, for example, the UK union UCU allows graduate students to join for free. 
 
-Under the General Data Protection Regulation (GDPR), the European Union considers union membership to be sensitive data and in the same category as genetic data or data on gender. 
+Some members take up additional responsibilities as "reps" or "shop stewards", helping to organise the running of branches, supporting members with workplace issues, and sometimes representing the branch at a national level. Larger unions often have full-time employees to support reps and workers, who are also responsible for areas such as developing union policy, press relations, and organising any large meetings for example, annual conferences. 
+
+In some, but not all countries, being a member of a trade union is a protected characteristic. This means organisations are not allowed to fire people for being members (but this has not always been the case). Under the General Data Protection Regulation (GDPR), the European Union considers union membership to be sensitive data and in the same category as genetic data or data on gender. 
+
+
+## What can unions do? 
+
+Unions take lots of different actions to improve working conditions for their members. 
+These can be at individual, workplace, or industry level.
+
+At an individual level, unions can:
+* Offer support for individuals who have issues at work: for example, supporting individuals who have been discriminated against or bullied in their workplace
+* Raise health and safety concerns about particular work areas or duties
+
+At a workplace levels, unions can:
+* Negotiate with management on behalf of their members: this is called 'collective bargaining' and can be used to improve working conditions, salaries, pensions
+* Organise members to "work to rule", where no overtime or duties outside those in formal job descriptions are undertaken 
+* Go on strike, where no work is performed and workers instead "picket" their workplaces by meeting outside and encouraging others to join them
+
+At an industry level, unions can: 
+* Input into government policy through consultation responses or lobbying (e.g. speaking to the press on an issue, writing articles, or submitting to formal processes such as hearings)
+* Organise strikes across whole industries
 
 
 ## How does a union help scientists and researchers? 
 
+
+
+* Support for 
 * Specific issues with management or your 
 
-## What can unions do? 
+## I've never been part of a union before: where do I start?
 
-* Offer support for individuals who have issues at work 
-* Negotiate with management on behalf of their members over working conditions, salaries, pensions (known as collective bargaining)
-* Ensure workers have a a safe environment to work in 
+Start by finding out if there is a union already in your workplace.
+If so, there will be a person you can talk to about joining: they might be known as the union rep or steward. 
 
-* Raise health & safety concerns 
-* Organise members to "work to rule", where no overtime or duties outside those in formal job descriptions are undertaken 
-* Go on strike, where no work is performed and workers instead "picket" their workplaces by meeting outside and encouraging others to join them  
-* Input into government policy through consultation responses or lobbying (e.g. speaking to the press on an issue, writing articles, or )
+If there is not a union in your workplace, look into the unions that already exist in your area or country. 
+You might be able to join one that is relevant to your industry or duties: or you might be able to join a general union that represents lots of different workers. 
 
-## Examples of relevant unions 
+To join a union, you might have to pay union fees or dues. 
+These are almost always sliding scale, based on how much you earn: some unions also have free membership for people in certain positions or roles. 
 
-* Unite, United Kingdom (largest professional services union with over 1 million members) [website](https://unitetheunion.org/)
-* University & Collges Union (UCU), United Kingdom (covers researchers, academic staff and higher grades of professional services staff in Higher Education & Further Education institutions) [website](https://www.ucu.org.uk/)
-* Tech Workers Coalition, Global (organisation focused on tech workers in industry)[website](https://techworkerscoalition.org/)
-* Prospect, United Kingdom (union covering scientists & engineers)[website](https://members.prospect.org.uk/our-industries/science/index)
-* Professional Scientists Australia, Australia (union covering industry scientists) https://scientists.professionalsaustralia.org.au/
+Once you are a member, start by attending meetings.
+You can find out what issues the union is working on. 
+You can also find out how to raise issues that you are concerned about.
 
-https://www.pcs.org.uk/about-pcs - civil service union
-https://www.uvwunion.org.uk/en/sectors/charity-sector/
-https://iwgb.org.uk/page/iwgb-charity-workers-branch/
-https://en.wikipedia.org/wiki/Graduate_student_employee_unionization
-https://mlsa.ie/who-we-are
-https://en.wikipedia.org/wiki/List_of_trade_unions_in_Australia
+### Examples of relevant unions 
+
+We recognise that the list below is very UK-centric and would welcome additions for other countries! 
+
+#### Global
+* Tech Workers Coalition, Global (organisation focused on tech workers in industry) [website](https://techworkerscoalition.org/)
+
+
+#### United Kingdom 
+* Unite, United Kingdom,largest professional services union with over 1 million members [website](https://unitetheunion.org/)
+* University & Collges Union (UCU), United Kingdom, covers researchers, academic staff and higher grades of professional services staff in Higher Education & Further Education institutions [website](https://www.ucu.org.uk/)
+* Prospect, United Kingdom, union covering scientists & engineers[website](https://members.prospect.org.uk/our-industries/science/index)
+* PCS, United Kingdom, civil service union [website](https://www.pcs.org.uk/about-pcs)
+* United Voices of the World (UVW), Charity Sector Workers Branch [website](https://www.uvwunion.org.uk/en/sectors/charity-sector/)
+* Independent Workers’ Union of Great Britain (IWGB), Charity Sector Workers Branch [website](https://iwgb.org.uk/page/iwgb-charity-workers-branch/)
+    * IWGB also has a number of branches covering cleaners, receptionists and game industry workers 
+
+#### Ireland 
+* Medical Laboratory Scientists Association (MLSA), Ireland, is the sole trade union representing over 1600 Medical Scientists in Ireland [website](https://mlsa.ie/who-we-are)
+
+#### United States 
+* Graduate Student Unions at multiple universities and colleges are organising [Wikipedia page](https://en.wikipedia.org/wiki/Graduate_student_employee_unionization)
+
+
+#### Australia
+* Professional Scientists Australia, Australia (union covering industry scientists)[website](https://scientists.professionalsaustralia.org.au/)
+* [General list of Trade Unions in Australia](https://en.wikipedia.org/wiki/List_of_trade_unions_in_Australia)
 
 More suited to whistleblowing or policy section 
 * Union of Concerned Scientists https://www.ucsusa.org/
 
-### A Bit of History: The Association of Scientific Workers 
+### A Bit of History: The Association of Scientific Workers (United Kingdom) 
 
 This was an trade union for scientists founded in the early 20th Century, which had a leading role in founding similar unions across the globe. 
+
+![A blue enamel badge with AScW printed on it on a wooden background](https://i.imgur.com/V0Wcgbg.jpg)
+
 
 From the Instagram account [@BadgesofStruggle](https://www.instagram.com/badgesofstruggle/) (text and image reproduced under CC-BY with permission from the account):
 
 >"The union began its history as the National Union of Scientific Workers in 1918, as a result of the rapid and increased class and professional consciousness, as well as politicisation of scientists in the wake of the First World War. 
 >In 1927 the name was changed to the AScW, and it continued as such until 1968 when it merged with the Association of Supervisory Staff, Executives and Technicians (ASSET) to form the Association of Scientific, Technical and Managerial Staffs (ASTMS) a precursor of MSF and ultimately Unite.
-
 > The union was established “with an explicitly socialist platform”, and several of its leading figures were both respected scientists and active socialists and Communist Party members, such as Hyman Levy and John Desmond Bernal. Several Nobel Prize winners were members. 
 > The union organised scientists and technicians in government and private sector research, and became a prominent propagandist for the expansion of publicly funded R&D as well as taking political positions regarding the ethical use of science, against the global threat of fascism, and of guiding scientific research towards peaceful ends. 
 > The AScW went on to found the World Federation of Scientific Workers in 1946, an organisation which during the Cold War was accused of toeing the Soviet line, and being a communist front. 
 > Ironically, in her early years as a practising chemist, Margaret Thatcher was also a AScW member."
 
-The AScW communicated with members via branch bulletins as well as a national paper: The Scientific Worker 
+
+The AScW communicated with members via branch bulletins as well as a national paper: The Scientific Worker [Click here to read a copy on the Wellcome Archive](https://wellcomelibrary.org/item/b19915299#?c=0&m=0&s=0&cv=0&z=-0.8157%2C-0.0826%2C2.6314%2C1.6529)
+
+## What you can do as a union member
+
+Unions are collective projects and they are people-powered!
+
+### Be an active member
+
+
+### Become a representative
+
+Like any community, unions need people to take on organisational roles within the union.
+These roles will vary depending on how big your union is, and what it is working in. 
+
+Some roles might include:
+* supporting other union members: for example, accompanying your colleagues to disciplinary meetings or meetings with management, to provide support and take notes
+* being a union rep for a particular group of workers within your workplace: this might be a team or a department, or a group of workers doing similar roles across the workplace
+* negotiating a particular issue, for example pay, pensions, or holiday entitlements, with management
+* representing your workplace at larger union gatherings, for example a national meeting
+
+The process for becoming a representative will vary depending on how your union operates.
+You might need to stand for election, or be approved by a meeting of union members. 
+
+
+### Lead a campaign
 
 
 > **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
