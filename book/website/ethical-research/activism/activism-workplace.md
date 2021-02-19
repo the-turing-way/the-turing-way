@@ -31,6 +31,63 @@ In the label, replace `keyidea1` with a word that best describes the section or 
 (sectioninitials-filename-keyidea1)=
 ## Unionisation
 
+### What is a union?
+
+In some, but not all countries, being a member of a trade union is a protected characteristic. This means organisations are not allowed to fire people for being members (but this has not always been the case)
+
+Under the General Data Protection Regulation (GDPR), the European Union considers union membership to be sensitive data and in the same category as genetic data or data on gender. 
+
+
+## How does a union help scientists and researchers? 
+
+* Specific issues with management or your 
+
+## What can unions do? 
+
+* Offer support for individuals who have issues at work 
+* Negotiate with management on behalf of their members over working conditions, salaries, pensions (known as collective bargaining)
+* Ensure workers have a a safe environment to work in 
+
+* Raise health & safety concerns 
+* Organise members to "work to rule", where no overtime or duties outside those in formal job descriptions are undertaken 
+* Go on strike, where no work is performed and workers instead "picket" their workplaces by meeting outside and encouraging others to join them  
+* Input into government policy through consultation responses or lobbying (e.g. speaking to the press on an issue, writing articles, or )
+
+## Examples of relevant unions 
+
+* Unite, United Kingdom (largest professional services union with over 1 million members) [website](https://unitetheunion.org/)
+* University & Collges Union (UCU), United Kingdom (covers researchers, academic staff and higher grades of professional services staff in Higher Education & Further Education institutions) [website](https://www.ucu.org.uk/)
+* Tech Workers Coalition, Global (organisation focused on tech workers in industry)[website](https://techworkerscoalition.org/)
+* Prospect, United Kingdom (union covering scientists & engineers)[website](https://members.prospect.org.uk/our-industries/science/index)
+* Professional Scientists Australia, Australia (union covering industry scientists) https://scientists.professionalsaustralia.org.au/
+
+https://www.pcs.org.uk/about-pcs - civil service union
+https://www.uvwunion.org.uk/en/sectors/charity-sector/
+https://iwgb.org.uk/page/iwgb-charity-workers-branch/
+https://en.wikipedia.org/wiki/Graduate_student_employee_unionization
+https://mlsa.ie/who-we-are
+https://en.wikipedia.org/wiki/List_of_trade_unions_in_Australia
+
+More suited to whistleblowing or policy section 
+* Union of Concerned Scientists https://www.ucsusa.org/
+
+### A Bit of History: The Association of Scientific Workers 
+
+This was an trade union for scientists founded in the early 20th Century, which had a leading role in founding similar unions across the globe. 
+
+From the Instagram account [@BadgesofStruggle](https://www.instagram.com/badgesofstruggle/) (text and image reproduced under CC-BY with permission from the account):
+
+>"The union began its history as the National Union of Scientific Workers in 1918, as a result of the rapid and increased class and professional consciousness, as well as politicisation of scientists in the wake of the First World War. 
+>In 1927 the name was changed to the AScW, and it continued as such until 1968 when it merged with the Association of Supervisory Staff, Executives and Technicians (ASSET) to form the Association of Scientific, Technical and Managerial Staffs (ASTMS) a precursor of MSF and ultimately Unite.
+
+> The union was established “with an explicitly socialist platform”, and several of its leading figures were both respected scientists and active socialists and Communist Party members, such as Hyman Levy and John Desmond Bernal. Several Nobel Prize winners were members. 
+> The union organised scientists and technicians in government and private sector research, and became a prominent propagandist for the expansion of publicly funded R&D as well as taking political positions regarding the ethical use of science, against the global threat of fascism, and of guiding scientific research towards peaceful ends. 
+> The AScW went on to found the World Federation of Scientific Workers in 1946, an organisation which during the Cold War was accused of toeing the Soviet line, and being a communist front. 
+> Ironically, in her early years as a practising chemist, Margaret Thatcher was also a AScW member."
+
+The AScW communicated with members via branch bulletins as well as a national paper: The Scientific Worker 
+
+
 > **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
 > You may break the section down into subsections if you wish, however, remember to add [labels](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) to any additional headers you create to facilitate cross-referencing.
 
