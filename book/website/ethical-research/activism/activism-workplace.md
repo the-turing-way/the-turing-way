@@ -34,7 +34,7 @@ In the label, replace `keyidea1` with a word that best describes the section or 
 ### What is a union?
 
 A trade union is a formalised way for workers to organise and bargain collectively at an institutional, sectoral or national level. 
-A union is organised into branches which are spread geographically (e.g. North London) or at an institutional level (e.g. labs or departments), depending on the distribution of members and how the union works. Members of unions typically pay a monthly fee, although this is sometimes waived for certain categories of members, for example, the UK union UCU allows graduate students to join for free. 
+A union is organised into branches which are spread geographically (for example, North London) or at an institutional level (for example, labs or departments), depending on the distribution of members and how the union works. Members of unions typically pay a monthly fee, although this is sometimes waived for certain categories of members, for example, the UK union UCU allows graduate students to join for free. 
 
 Some members take up additional responsibilities as "reps" or "shop stewards", helping to organise the running of branches, supporting members with workplace issues, and sometimes representing the branch at a national level. Larger unions often have full-time employees to support reps and workers, who are also responsible for areas such as developing union policy, press relations, and organising any large meetings for example, annual conferences. 
 
@@ -56,7 +56,7 @@ At a workplace levels, unions can:
 * Go on strike, where no work is performed and workers instead "picket" their workplaces by meeting outside and encouraging others to join them
 
 At an industry level, unions can: 
-* Input into government policy through consultation responses or lobbying (e.g. speaking to the press on an issue, writing articles, or submitting to formal processes such as hearings)
+* Input into government policy through consultation responses or lobbying (for example, speaking to the press on an issue, writing articles, or submitting to formal processes such as hearings)
 * Organise strikes across whole industries
 
 
