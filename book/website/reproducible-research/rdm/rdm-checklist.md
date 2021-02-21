@@ -17,7 +17,7 @@ Keep the documentation with the data!
 
 - Create the data you want to see in the word. 
 Imagine someone was about to give you a dataset that you needed to analyse well in order to get that job you have been dreaming about. 
-What would you want it to look like? That' is how yours should look.
+What would you want it to look like? That is how yours should look.
 
 - Try not to re-invent the wheel. 
 Before you start creating some crazy new schema, storage format or naming protocol, have a quick google or ask your colleagues. 
