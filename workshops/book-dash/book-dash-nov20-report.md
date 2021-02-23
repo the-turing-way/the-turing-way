@@ -191,7 +191,7 @@ We greatly appreciate the work that our attendees have accomplished in the proje
 
 ## What's next?
 
-Our global community of contributors like these book dash attendees have been helping us develop a truly community-led guidebook by including their perspectives and voice into the project.
+Our global community of contributors like these Book Dash attendees have been helping us develop a truly community-led guidebook by including their perspectives and voice into the project.
 Without a doubt, this event was successful at bringing together a diverse set of participants not only from across different research topics but also different backgrounds and interests. 
 Each of them was able to bring their personal strengths and skills into this event and ultimately to the project. 
 
