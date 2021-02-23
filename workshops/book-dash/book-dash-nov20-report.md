@@ -61,7 +61,7 @@ Selected from a pool of applications, 20 candidates including two mentors were i
 ![](figures/Nov20-BookDash.png)
 _Zoom screenshot of our community share-out event on 13 November 2020 at the Book Dash. Our Book Dash participants included Laura Acion (Argentina), Emma Karoune (UK), Marilina Santero (Spain/Argentina), Irene Komal (India), Asha Titus (UK), Ismael Kherroubi Garcia (Spain/UK), Martia Mangiarulo (UK/Italy), Laura Carter (UK), Neha Moopen (The Netherlands), Paul Owoicho (UK/Nigeria), Batool Almarzouq (Saudi Arabia/UK), Samuel Guay (Canada), Martina Vila (Germany), Sarah Gibson (UK), Sophia Batchelor (UK), Carlos Martinez-Oritz (The Netherlands), Lupe Canaviri Maydana (Bolivia) and Sangram Keshari Sahu (India). Several community members joined the share-out call on the last day._
 
-A participation support fund was made available for the participants to purchase small equipment or other resources (such as headphone, webcam, second screen, or software) that can improve the quality of their participation and enhance their overall experience of working with us for the entire week.
+A participation support fund was made available for the participants to purchase small equipment or other resources (such as headphone, webcam, second screen, or software) that could improve the quality of their participation and enhance their overall experience of working with us for the entire week.
 They were asked to select at least one development session from the following slots each day (time given in UTC):
 - Development session 1: 08:00 - 10:30
 - Development session 2: 11:00 - 13:30
