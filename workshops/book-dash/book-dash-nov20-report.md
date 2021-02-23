@@ -81,7 +81,6 @@ You can read notes from these calls [here](https://hackmd.io/@turingway/bookdash
 
 ## Book Dash Week: 9-13 November 2020
 
-Each day we will host 3 development sessions and one open slot where participants could plan their time to interact with others, continue working or take a break as per their need.
 
 Kirstie Whitaker and Malvika Sharan kicked off each of these sessions by welcoming all the participants and sharing an overview of _The Turing Way_, ways of working on the project and resources available for the Book Dash attendees.
 You can watch this presentation by Kirstie during one of the sessions on [YouTube](https://www.youtube.com/watch?v=ihWt-jzuHps&list=PLBxcQEfGu3DlXmOGBN8UKzFYITqKrgCwc).
