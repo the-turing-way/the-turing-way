@@ -143,7 +143,7 @@ This was done to mainly emulate how we would have shared meals and enjoyed speci
 
 On the last day, we hosted only 2 development sessions to document the current status and next steps of the projects started by attendees during the Book Dash.
 
-Each session was followed by a 2-hour long community share-out events that were open for the community members to learn about what our Book Dash attendees have worked on.
+Each session was followed by a 2-hour long community share-out events that were open for the community members to learn about what our Book Dash attendees had worked on.
 Each participant got to demonstrate their work through small presentation and celebrate the collaborative work they got to do together. 
 You can watch recordings from these share-out sessions in [this YouTube playlist](https://www.youtube.com/watch?v=EZl6vgPzlvg&list=PLBxcQEfGu3DlXmOGBN8UKzFYITqKrgCwc&index=2).
 Read more about the contributors in [issue #1584](https://github.com/alan-turing-institute/the-turing-way/issues/1584).
