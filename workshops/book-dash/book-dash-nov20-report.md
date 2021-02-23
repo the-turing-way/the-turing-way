@@ -152,7 +152,7 @@ Read more about the contributors in [issue #1584](https://github.com/alan-turing
 
 Illustration by Scriberia artists had added enormously to the productivity, enthusiasm and outcome of the Book Dash events in the past.
 We continued this tradition by inviting Jem Milton this time, who spent 3 days, from 10 to 12 November, interacting with the participants and developing new sets of illustration for _The Turing Way_ community. 
-Our attendees discussed their ideas with Jem and captured important concepts they were working on during the book dash or something that they are interested to work on in the future.
+Our attendees discussed their ideas with Jem and captured important concepts they were working on during the Book Dash or something that they are interested to work on in the future.
 
 We took this opportunity to co-create images to describe some of the community process and the general concepts used in the project.
 The artwork has been shared on Zenodo under CC-BY 4.0 license and will be added in the book going forward.
