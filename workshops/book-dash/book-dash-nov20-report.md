@@ -150,7 +150,7 @@ Read more about the contributors in [issue #1584](https://github.com/alan-turing
 
 ## Illustrations by Scriberia Artist: Jem Milton
 
-Illustration by Scriberia artists had added enormously to the productivity, enthusiasm and outcome of the Boo Dash events in the past.
+Illustration by Scriberia artists had added enormously to the productivity, enthusiasm and outcome of the Book Dash events in the past.
 We continued this tradition by inviting Jem Milton this time, who spent 3 days, from 10 to 12 November, interacting with the participants and developing new sets of illustration for _The Turing Way_ community. 
 Our attendees discussed their ideas with Jem and captured important concepts they were working on during the book dash or something that they are interested to work on in the future.
 
