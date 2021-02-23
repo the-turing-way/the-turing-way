@@ -71,7 +71,7 @@ A longer break from 13:30 - 17:30 was given to allow people to participate in in
 
 ## Pre-dash drop-in calls: 4 November 2020
 
-We hosted 2 pre-dash drop-in calls on 4 November 2020 to ensure that all our participants were familiar with the project, book dash and how they can get the most out of their participation ([HackMD notes](https://hackmd.io/@turingway/bookdash-nov2020-drop-in)).
+We hosted 2 pre-dash drop-in calls on 4 November 2020 to ensure that all our participants were familiar with the project, Book Dash and how they can get the most out of their participation ([HackMD notes](https://hackmd.io/@turingway/bookdash-nov2020-drop-in)).
 The main aims of this call were to get to know our attendees, connect them with others and address their questions before the book dash.
 
 Using a [SMART goal template](https://freespiritpublishingblog.com/wp-content/uploads/2015/08/setting-smart-goals.pdf) (by Danielle R. Schultz [2015]), we also facilitated goal-setting exercise for all the attendees to get them prepared for their participation during the Book Dash week.
