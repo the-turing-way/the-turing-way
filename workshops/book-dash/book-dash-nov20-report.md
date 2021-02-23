@@ -49,7 +49,7 @@ As in the past, we invited applications through an open call where interested ap
 This application was also open for the long term members from the community who may have attended a Book Dash or Collaboration Cafes in the past to join as a helper and mentor for new contributors.
 
 Applicants were asked to think about the collaborative element of the Book Dash and state how they could engage with other participants.
-To get a sense of the time zones these applicants come from, we asked them to choose their preferred slots during the day that they can join.
+To get a sense of the time zones these applicants came from, we asked them to choose their preferred slots during the day that they can join.
 You can see a template of this document [here](https://tinyurl.com/tw-bookdash-template).
 
 We used the rubrics (as explained in the [online chapter](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application.html#reviewing-process)) to score the applications during the review and selection process.
