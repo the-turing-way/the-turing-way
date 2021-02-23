@@ -56,7 +56,7 @@ We used the rubrics (as explained in the [online chapter](https://the-turing-way
 
 ### The book dash participants and event plan
 
-Selected from a pool of applications, 20 candidates including two mentors were invited to attend this in-person event (see their names in the group picture below).
+Selected from a pool of applications, 20 candidates including two mentors were invited to attend this online event (see their names in the group picture below).
 
 ![](figures/Nov20-BookDash.png)
 _Zoom screenshot of our community share-out event on 13 November 2020 at the Book Dash. Our Book Dash participants included Laura Acion (Argentina), Emma Karoune (UK), Marilina Santero (Spain/Argentina), Irene Komal (India), Asha Titus (UK), Ismael Kherroubi Garcia (Spain/UK), Martia Mangiarulo (UK/Italy), Laura Carter (UK), Neha Moopen (The Netherlands), Paul Owoicho (UK/Nigeria), Batool Almarzouq (Saudi Arabia/UK), Samuel Guay (Canada), Martina Vila (Germany), Sarah Gibson (UK), Sophia Batchelor (UK), Carlos Martinez-Oritz (The Netherlands), Lupe Canaviri Maydana (Bolivia) and Sangram Keshari Sahu (India). Several community members joined the share-out call on the last day._
