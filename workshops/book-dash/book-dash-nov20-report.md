@@ -48,7 +48,7 @@ This involved creating multiple small development sessions throughout the day, a
 As in the past, we invited applications through an open call where interested applicants could state their goals and interest for the Book Dash.
 This application was also open for the long term members from the community who may have attended a Book Dash or Collaboration Cafes in the past to join as a helper and mentor for new contributors.
 
-Applicants were asked to think about the collaborative element of the Book Dash and state how they can engage with other participants.
+Applicants were asked to think about the collaborative element of the Book Dash and state how they could engage with other participants.
 To get a sense of the time zones these applicants come from, we asked them to choose their preferred slots during the day that they can join.
 You can see a template of this document [here](https://tinyurl.com/tw-bookdash-template).
 
