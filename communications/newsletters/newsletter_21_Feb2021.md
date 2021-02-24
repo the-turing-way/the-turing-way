@@ -99,7 +99,7 @@ You can cite her talk using the Zenodo DOI [10.5281/zenodo.4557636](https://zeno
 
 ![Batool: I  am delighted to take part in #WiDS2021 and give a workshop titled "Collaborating on Open Data Science Projects" on the 24th of Feb.”](images/2021-02-batool-tweet-4.png)
 
-*[Tweet by Batool](https://twitter.com/batool664/status/1363550278214160385?s=20) *
+*[Tweet by Batool](https://twitter.com/batool664/status/1363550278214160385?s=20) about her talks.*
 
 ## Relevant Resources
 
@@ -113,7 +113,7 @@ You can cite her talk using the Zenodo DOI [10.5281/zenodo.4557636](https://zeno
 
 ![Note that data can be partially the same and partially different at the same time (say, half the same, and half different). Strictly speaking, in such cases, the difference “absorbs” the classification, leaving the data simply “partially different.” The same can be said about the analysis: if only some procedures are selected, and part of these are different, it is a partially different analysis. Hence, a revised version of The Turing Way definition can be summarized in Table 2.](images/2021-02-scigen-repro-def-5.png)
 
-*Expansion of The Turing Way definitions.*
+*SciGen expansion of The Turing Way definitions.*
 
 ### Relevant Opportunities & Announcements
 
