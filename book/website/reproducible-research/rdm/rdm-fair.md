@@ -22,7 +22,7 @@ In brief, FAIR data should be:
 **Findable:** The first step in (re)using data is to find them! 
 Descriptive metadata (information about the data such as keywords) are essential.
 
-**Accessible:** Once the user finds the data and software they need to know how to acess it. 
+**Accessible:** Once the user finds the data and software they need to know how to access it. 
 Data could be openly available but it is also possible that authentication and authorisation procedures are necessary.
 
 **Interoperable:** Data needs to be integrated with other data and interoperate with applications or workflows.
