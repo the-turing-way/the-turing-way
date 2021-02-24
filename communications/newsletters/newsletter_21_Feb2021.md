@@ -30,11 +30,11 @@ Find more details here: [https://hackmd.io/@turingway/collaboration-cafe](https:
 **Weekly Coworking Calls**: The weekly coworking calls will take place every Monday from [11:00 - 12:00 UTC](http://time.unitarium.com/utc/11) (Western Time Zones) and Wednesdays on weeks when Collaboration Cafe is not scheduled from [15:00 - 16:00 UTC](http://time.unitarium.com/utc/15) (Eastern Time Zones). 
 Find dates and joining details on this HackMD: [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call).
 
-## News from the community
+## News from the Community
 
-### Call for application to participate in the Book Dash, 17 - 24 May 2021
+### Call for Application to Participate in the Book Dash, 17 - 24 May 2021
 We are inviting applications to participate in the next Book Dash event taking place from 17-21 May 2021.
-Applications can be submitted via this Google Form: [https://forms.gle/tsMuQSZMp4tKc3uz5](https://forms.gle/tsMuQSZMp4tKc3uz5). 
+Applications can be submitted via [this Google Form](https://forms.gle/tsMuQSZMp4tKc3uz5). 
 The deadline for submission is **15 April 2021**.
 
 The [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) bring together participants to work on *The Turing Way* book synchronously either in person or online. 
@@ -42,7 +42,16 @@ The upcoming book dash will be organised for online participation using the form
 You can find more details in the application form, which will take up to 30 minutes to complete.
 If you are not sure if your idea fits the event, you are welcome to contact Malvika Sharan to discuss it further by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 
-### Preparation for a new release on Zenodo
+
+### An Emerging Technology Charter for London References *The Turing Way*
+
+*The Turing Way* was listed as one of the selected references in the Charter draft developed to guide emerging technology in London. 
+The Mayor of London had tasked the Chief Digital Officer for London and the Smart London Board to develop this Charter which is based on three key principles to guide discussions between makers and buyers, (1) Establish common, open and trusted ways of working between innovators, public services and Londoners when trialling and deploying new technologies, (2) Respect equality, diversity and human rights and act lawfully in the design and use of emerging technology, (3) Collect, manage, use and share data legally, ethically and securely.
+*The Turing Way* was referenced in the recommendations for principle 1:
+> When designing, developing, trialling and deploying emerging technologies, we aspire to work in the open wherever we can, sharing our plans and experience, working collaboratively with other organisations and reusing good practice.
+> Use of open, robust and reproducible approaches and standards, as illustrated, for example, by *The Turing Way* community materials.
+
+### Preparation to Make a New Release on Zenodo
 
 We are preparing to publish a new release of *The Turing Way* book with the complete GitHub repository on Zenodo.
 One of the most exciting and challenging parts of this process will be to create a list of co-authors out of 241 listed contributors.
@@ -52,7 +61,7 @@ This will allow us to acknowledge your work and include ORCID identifier for co-
 Since this will be a major release, we invite your help and welcome any feedback to enhance the workflow for making new releases.
 Please use [issue #1751](https://github.com/alan-turing-institute/the-turing-way/issues/1751) to share your thoughts and ideas.
 
-### Boost your research reproducibility with Binder workshop
+### Boost your Research Reproducibility with Binder Workshop
 
 Sarah Gibson will lead the workshop “Boost your research reproducibility with Binder” as part of SSI’s [Research Software Camp on Research Accessibility](https://www.software.ac.uk/news/sarah-gibson-host-workshop-boost-your-research-reproducibility-binder-research-software-camp). 
 Supported by Sophia Batchelor, Martina G. Vilas and Emma Karoune, the session will take place on [3 March 2021](https://www.software.ac.uk/RSCamp-research-accessibility-programme).
@@ -63,19 +72,9 @@ Registration is open (and free) via  [this Eventbrite link](https://www.eventbri
 *[Tweet by Sarah Gibson](https://twitter.com/drsarahlgibson/status/1359784963785297921?s=20
 ) sharing registration information about her workshop*
 
-## Relevant resources
-
-### An Emerging Technology Charter for London References *The Turing Way*
-
-*The Turing Way* was listed as one of the selected references in the Charter draft developed to guide emerging technology in London. 
-The Mayor of London had tasked the Chief Digital Officer for London and the Smart London Board to develop this Charter which is based on three key principles to guide discussions between makers and buyers, (1) Establish common, open and trusted ways of working between innovators, public services and Londoners when trialling and deploying new technologies, (2) Respect equality, diversity and human rights and act lawfully in the design and use of emerging technology, (3) Collect, manage, use and share data legally, ethically and securely.
-*The Turing Way* was referenced in the recommendations for principle 1:
-> When designing, developing, trialling and deploying emerging technologies, we aspire to work in the open wherever we can, sharing our plans and experience, working collaboratively with other organisations and reusing good practice.
-> Use of open, robust and reproducible approaches and standards, as illustrated, for example, by *The Turing Way* community materials.
-
 ## Acknowledgements and celebrations
 
-### Contributor in focus: Laura Carter
+### Contributor in Focus: Laura Carter
 
 ![Head shot of Laura Carter](images/2021-02-laura-carter-3.png)
 
@@ -116,7 +115,7 @@ You can cite her talk using the Zenodo DOI [10.5281/zenodo.4557636](https://zeno
 
 *SciGen expansion of The Turing Way definitions.*
 
-### Relevant Opportunities & Announcements
+### Releavnt Opportunities & Announcements
 
 - [Open Science Stories](https://anchor.fm/opensciencestories) is a new podcast series hosted by Heidi Seibold that features Open Science concepts or ideas as part of a story (3-10 minutes). 
 She invites more contributors from the Turing Way community to share about the projects or other relevant concepts such as reproducible data science, collaborative book writing and open licensing.
