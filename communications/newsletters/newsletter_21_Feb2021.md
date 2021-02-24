@@ -78,7 +78,7 @@ The Mayor of London had tasked the Chief Digital Officer for London and the Smar
 
 ![Head shot of Laura Carter](images/2021-02-laura-carter-3.png)
 
-Laura Carter is a PhD candidate in the Human Rights Centre at the University of Essex, UK, researching the human rights implications of the use of data-driven technologies in the UK public sector, focusing on gender stereotyping and gender discrimination. She brings her experience from working as a human rights researcher for almost a decade, specialising mostly in human rights, sexual orientation and gender identity. She has been contributing to the development of *The Turing Way* Guide for Ethical Research and has co-authored chapters including the introduction to ethical research and activism in data science.
+Laura Carter is a PhD candidate in the Human Rights Centre at the University of Essex, UK. She is researching the human rights implications of the use of data-driven technologies in the UK public sector, focusing on gender stereotyping and gender discrimination. She brings her experience from working as a human rights researcher for almost a decade, specialising in gender, sexual orientation and gender identity. She has been contributing to the development of *The Turing Way* Guide for Ethical Research and has co-authored chapters including the introduction to ethical research and activism in data science.
 In her words:
 > I’m not from a tech field but I’ve learned so much about GitHub as a tool for collaborative working: thanks so much to everyone who was part of the November 2020 book dash for all your useful advice!
 
