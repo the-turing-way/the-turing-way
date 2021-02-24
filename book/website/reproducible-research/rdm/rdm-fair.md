@@ -27,7 +27,7 @@ Data could be openly available but it is also possible that authentication and a
 
 **Interoperable:** Data needs to be integrated with other data and interoperate with applications or workflows.
 
-**Reusable:** Data should be well-described so that they can be used, combined and extended in different settings.
+**Reusable:** Data should be well-described so that they can be used, combined, and extended in different settings.
 
 You can find a more detailed [overview of the FAIR principles by GO FAIR](https://www.go-fair.org/fair-principles) of what the FAIR principles recommend. 
 You can also read [A FAIRy tale](https://doi.org/10.5281/zenodo.2248200) for an understandable explanation of each principle.
@@ -49,4 +49,3 @@ Many groups and organisation are working to define guidance and tools to help re
 If you are interested in participating in these communities there are two global initiatives that act as umbrella organizations and reference points for many discipline-specific efforts: [GOFAIR](https://www.go-fair.org) and the [Research Data Alliance (RDA)](https://www.rd-alliance.org).
 * Under GOFAIR, there are many [Implementation Networks (INs)](https://www.go-fair.org/implementation-networks) committed to implementing the FAIR principles.
 * Under the RDA, there are several groups tackling different aspects relevant to the RDM life cycle. Among these, one [group](https://www.rd-alliance.org/groups/fair-data-maturity-model-wg) is reviewing existing efforts, building on them to define a standard set of common assessment criteria for the evaluation of FAIRness.
-
