@@ -6,9 +6,9 @@ Hello Turing Way friends!
 
 This month, we are delighted to share some new opportunities for onboarding, upskilling and networking for *The Turing Way* community members.
 
-* 👋 Every Friday from 15:00 - 16:00 UTC ([see in your local time](http://time.unitarium.com/utc/15)), we will host community catch-up and onboarding call ([shared notes](https://hackmd.io/@turingway/chat-onboard)).
-* 📚 Next Book Dash event will take place from 17 to 24 May 2021. [Submit application](https://forms.gle/tsMuQSZMp4tKc3uz5) until 15 April 2021.
-* 🆕 We are preparing to make a new release of *The Turing Way* book and project repository on [Zenodo](https://zenodo.org/communities/the-turing-way). If you have contributed to the project, please add your details in our [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html). 
+* 👋 Every Friday from 15:00 - 16:00 UTC ([see in your local time](http://time.unitarium.com/utc/15)), we will host community catch-up and onboarding calls ([shared notes](https://hackmd.io/@turingway/chat-onboard)).
+* 📚 The next Book Dash event will take place from 17 to 24 May 2021. [Apply here](https://forms.gle/tsMuQSZMp4tKc3uz5). The deadline is 15 April 2021.
+* 🆕 We are preparing to make a new release of *The Turing Way* book and project repository on [Zenodo](https://zenodo.org/communities/the-turing-way). If you have contributed to the project, please add your details to the [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html). 
 
 In addition to The Turing Way updates, we are sharing relevant announcements and calls for action from other open-source projects in this newsletter.
 
@@ -24,7 +24,7 @@ Find more details on these topics below! 👇
 We will host these calls every Friday from [15:00 - 16:00 UTC](http://time.unitarium.com/utc/15).
 Find dates and joining details on this HackMD: [https://hackmd.io/@turingway/chat-onboard](https://hackmd.io/@turingway/chat-onboard).
 
-**Collaboration Cafe**: Collaboration Cafes in March are scheduled on 3 and 17 March from [15:00 - 17:00 UTC](http://time.unitarium.com/utc/15). 
+**Collaboration Cafe**: Collaboration Cafes in March are scheduled on 3 March and 17 March from [15:00 - 17:00 UTC](http://time.unitarium.com/utc/15). 
 Find more details here: [https://hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
 
 **Weekly Coworking Calls**: The weekly coworking calls will take place every Monday from [11:00 - 12:00 UTC](http://time.unitarium.com/utc/11) (Western Time Zones) and Wednesdays on weeks when Collaboration Cafe is not scheduled from [15:00 - 16:00 UTC](http://time.unitarium.com/utc/15) (Eastern Time Zones). 
@@ -42,26 +42,26 @@ The upcoming book dash will be organised for online participation using the form
 You can find more details in the application form, which will take up to 30 minutes to complete.
 If you are not sure if your idea fits the event, you are welcome to contact Malvika Sharan to discuss it further by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 
+### Preparation for a new release on Zenodo
+
+We are preparing to publish a new release of *The Turing Way* book with the complete GitHub repository on Zenodo.
+One of the most exciting and challenging parts of this process will be to create a list of co-authors out of 241 listed contributors.
+We will be closely following the process as described in the [Acknowledgement](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html) chapter.
+Please add your profile and personal highlights to our [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html), if you have not yet done that already.
+This will allow us to acknowledge your work and include ORCID identifier for co-authors when publishing on Zenodo.
+Since this will be a major release, we invite your help and welcome any feedback to enhance the workflow for making new releases.
+Please use [issue #1751](https://github.com/alan-turing-institute/the-turing-way/issues/1751) to share your thoughts and ideas.
+
 ### Boost your research reproducibility with Binder workshop
 
 Sarah Gibson will lead the workshop “Boost your research reproducibility with Binder” as part of SSI’s [Research Software Camp on Research Accessibility](https://www.software.ac.uk/news/sarah-gibson-host-workshop-boost-your-research-reproducibility-binder-research-software-camp). 
-Supported by Sophia Batchelor, Martina G. Vilas and Emma Karoune, the session will take place on [3 march 2021](https://www.software.ac.uk/RSCamp-research-accessibility-programme).
+Supported by Sophia Batchelor, Martina G. Vilas and Emma Karoune, the session will take place on [3 March 2021](https://www.software.ac.uk/RSCamp-research-accessibility-programme).
 Registration is open (and free) via  [this Eventbrite link](https://www.eventbrite.co.uk/e/research-software-camp-boost-your-research-reproducibility-with-binder-tickets-138852787425).
 
 ![Sarah’s Tweet says “Come and find out more about @turingway and @mybinderteam with my wonderful co-hosts @martinagvilas@ekarouneand @brainonsilicon](images/2021-02-sarah-tweet-2.png)
 
 *[Tweet by Sarah Gibson](https://twitter.com/drsarahlgibson/status/1359784963785297921?s=20
 ) sharing registration information about her workshop*
-
-### Preparation for a new release on Zenodo
-
-We are preparing to publish a new release of *The Turing Way* book with the complete GitHub repository on Zenodo.
-One of the most exciting and challenging part of this process will be to create a list of co-authors out of 241 listed contributors.
-We will be closely following the process as described in the [Acknowledgement](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html) chapter.
-Please add your profile and personal highlights to our [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html), if you have not yet done that already.
-This will allow us to acknowledge your work and include ORCID identifier for co-authors when publishing on Zenodo.
-Since this will be a major release, we invite your help and welcome any feedback to enhance the workflow for making new releases.
-Please use [issue #1751](https://github.com/alan-turing-institute/the-turing-way/issues/1751) to share your thoughts and ideas.
 
 ## Relevant resources
 
@@ -120,7 +120,7 @@ You can cite her talk using the Zenodo DOI [10.5281/zenodo.4557636](https://zeno
 
 - [Open Science Stories](https://anchor.fm/opensciencestories) is a new podcast series hosted by Heidi Seibold that features Open Science concepts or ideas as part of a story (3-10 minutes). 
 She invites more contributors from the Turing Way community to share about the projects or other relevant concepts such as reproducible data science, collaborative book writing and open licensing.
-If you are interested, comment under the [issue #1706](https://github.com/alan-turing-institute/the-turing-way/issues/1706) or email [opensciencestories@gmail.com](maileto:opensciencestories@gmail.com).
+If you are interested, comment under [issue #1706](https://github.com/alan-turing-institute/the-turing-way/issues/1706) or email [opensciencestories@gmail.com](maileto:opensciencestories@gmail.com).
 Heidi is also a contributor to The Turing Way and she had recently given a talk [Practical Steps towards Open and Reproducible Research](https://docs.google.com/presentation/d/1eVcmuqAUCkd9mP2XnD89XIMlu6YhYE-fBqIriag1fqk/edit#slide=id.g9af0d2f885_0_283), where she had launched her podcast.
 
 - [UK Reproducibility Network (UKRN)](https://www.ukrn.org) has recently produced a series of Primers on Open Research that is being developed into 2-3 minute animated videos to engage a wider audience.
@@ -143,13 +143,13 @@ To learn more, read [this post](https://eventfund.codeforscience.org/request-for
 The Open Bioinformatics Foundation (OBF) offers the OBF Event Fellowship program aimed at increasing diverse participation at events promoting open science practices such as source bioinformatics resource development and dissemination in the biological research community. 
 We are inviting applications from individuals seeking financial support to attend or host virtual events. 
 The deadline for this round is 1 April 2021. 
-Find more details in [this blogpost](https://www.open-bio.org/2021/02/19/obf-event-fellowship-round-1-2021/). 
+Find more details in [this blog post](https://www.open-bio.org/2021/02/19/obf-event-fellowship-round-1-2021/). 
 Applications should be submitted via [this Google Form](https://forms.gle/ppExEeJpx8UDMWQB6).
 
 - [UseR! 2021](https://twitter.com/_useRconf/status/1354352011978956806?s=09) conference will take place online from 5 to 9 July 2021.  
 Abstract for talks, elevator pitches, panels and incubators can be submitted until 15 March 2021 and the deadline for videos, blogs and scripts submission is 20 June 2021.
 Registration will open on 15 April 2021.
-See details on call for abstracts [here](https://user2021.r-project.org/participation/call-for-abstracts/).
+See details on the call for abstracts [here](https://user2021.r-project.org/participation/call-for-abstracts/).
 
 ### Tweet Mentions
 
