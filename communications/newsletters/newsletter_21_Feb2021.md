@@ -1,6 +1,6 @@
 *The Turing Way* Newsletter: 24 February 2021
 
-# Next Book Dash event, weekly catch-up calls & new release on Zenodo
+# Next Book Dash event, weekly catch-up calls & preparation for a new release on Zenodo
 
 Hello Turing Way friends!
 
@@ -8,7 +8,7 @@ This month, we are delighted to share some new opportunities for onboarding, ups
 
 * 👋 Every Friday from 15:00 - 16:00 UTC ([see in your local time](http://time.unitarium.com/utc/15)), we will host community catch-up and onboarding call ([shared notes](https://hackmd.io/@turingway/chat-onboard)).
 * 📚 Next Book Dash event will take place from 17 to 24 May 2021. [Submit application](https://forms.gle/tsMuQSZMp4tKc3uz5) until 15 April 2021.
-* 🆕 We have made a new release of *The Turing Way* book and project repository on Zenodo ([DOI](DOI)). Share away! 
+* 🆕 We are preparing to make a new release of *The Turing Way* book and project repository on [Zenodo](https://zenodo.org/communities/the-turing-way). If you have contributed to the project, please add your details in our [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html). 
 
 In addition to The Turing Way updates, we are sharing relevant announcements and calls for action from other open-source projects in this newsletter.
 
@@ -53,14 +53,15 @@ Registration is open (and free) via  [this Eventbrite link](https://www.eventbri
 *[Tweet by Sarah Gibson](https://twitter.com/drsarahlgibson/status/1359784963785297921?s=20
 ) sharing registration information about her workshop*
 
-### New release on Zenodo
+### Preparation for a new release on Zenodo
 
-We are happy to publish a new release of *The Turing Way* book and the complete GitHub repository on Zenodo (DOI). 
-We are very grateful to all our contributors and have listed co-authors as described in our chapter on [Acknowledgement](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html).
-If we missed adding you, please let us know so that we can correct that error soon.
-Additionally, please add your profile and personal highlights to our [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html) so that we can include your ORCID identifier in Zenodo.
-
-Please use this citation to reference any chapter developed since June 2019: <Citation>
+We are preparing to publish a new release of *The Turing Way* book with the complete GitHub repository on Zenodo.
+One of the most exciting and challenging part of this process will be to create a list of co-authors out of 241 listed contributors.
+We will be closely following the process as described in the [Acknowledgement](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html) chapter.
+Please add your profile and personal highlights to our [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html), if you have not yet done that already.
+This will allow us to acknowledge your work and include ORCID identifier for co-authors when publishing on Zenodo.
+Since this will be a major release, we invite your help and welcome any feedback to enhance the workflow for making new releases.
+Please use [issue #1751](https://github.com/alan-turing-institute/the-turing-way/issues/1751) to share your thoughts and ideas.
 
 ## Relevant resources
 
