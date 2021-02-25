@@ -1,18 +1,18 @@
 *The Turing Way* Newsletter: 24 February 2021
 
-# Next Book Dash event, weekly catch-up calls & preparation for a new release on Zenodo
+# Next Book Dash event, weekly onboarding calls & preparation for a new release on Zenodo
 
 Hello Turing Way friends!
 
 This month, we are delighted to share some new opportunities for onboarding, upskilling and networking for *The Turing Way* community members.
 
-* 👋 Every Friday from 15:00 - 16:00 UTC ([see in your local time](http://time.unitarium.com/utc/15)), we will host community catch-up and onboarding calls ([shared notes](https://hackmd.io/@turingway/chat-onboard)).
+* 👋 Every Friday from 15:00 - 16:00 UTC ([see in your local time](http://time.unitarium.com/utc/15)), we will host onboarding calls for new contributors and community members ([shared notes](https://hackmd.io/@turingway/chat-onboard)).
 * 📚 The next Book Dash event will take place from 17 to 24 May 2021. [Apply here](https://forms.gle/tsMuQSZMp4tKc3uz5). The deadline is 15 April 2021.
-* 🆕 We are preparing to make a new release of *The Turing Way* book and project repository on [Zenodo](https://zenodo.org/communities/the-turing-way). If you have contributed to the project, please add your details to the [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html). 
+* 🆕 We are preparing to make a new release of _The Turing Way_ book and project repository on [Zenodo](https://zenodo.org/communities/the-turing-way). If you have contributed to the project, please add your details to the [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html). 
 
 In addition to The Turing Way updates, we are sharing relevant announcements and calls for action from other open-source projects in this newsletter.
 
-Find more details on these topics below! 👇
+Find more details on these topics below!👇
 
 ## Upcoming Events
 
@@ -20,8 +20,7 @@ Find more details on these topics below! 👇
 
 *The Turing Way Community, & Scriberia. (2020, November). Illustrations from The Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.4323154*
 
-**New addition - Community Catch-up and onboarding calls**: Thanks to many of you who suggested to schedule separate onboarding and catch up calls that could be useful for many new and existing members. 
-We will host these calls every Friday from [15:00 - 16:00 UTC](http://time.unitarium.com/utc/15).
+**New addition - Onboarding Calls**: Thanks to many of you who suggested scheduling separate onboarding calls that could be useful for many new and existing members. We will host these calls every Friday from [15:00 - 16:00 UTC](http://time.unitarium.com/utc/15).
 Find dates and joining details on this HackMD: [https://hackmd.io/@turingway/chat-onboard](https://hackmd.io/@turingway/chat-onboard).
 
 **Collaboration Cafe**: Collaboration Cafes in March are scheduled on 3 March and 17 March from [15:00 - 17:00 UTC](http://time.unitarium.com/utc/15). 
@@ -42,14 +41,16 @@ The upcoming book dash will be organised for online participation using the form
 You can find more details in the application form, which will take up to 30 minutes to complete.
 If you are not sure if your idea fits the event, you are welcome to contact Malvika Sharan to discuss it further by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 
+### Boost your Research Reproducibility with Binder Workshop
 
-### An Emerging Technology Charter for London References *The Turing Way*
+Sarah Gibson will lead the workshop “Boost your research reproducibility with Binder” as part of SSI’s [Research Software Camp on Research Accessibility](https://www.software.ac.uk/news/sarah-gibson-host-workshop-boost-your-research-reproducibility-binder-research-software-camp). 
+Supported by Sophia Batchelor, Martina G. Vilas and Emma Karoune, the session will take place on [3 March 2021](https://www.software.ac.uk/RSCamp-research-accessibility-programme).
+Registration is open (and free) via  [this Eventbrite link](https://www.eventbrite.co.uk/e/research-software-camp-boost-your-research-reproducibility-with-binder-tickets-138852787425).
 
-*The Turing Way* was listed as one of the selected references in the Charter draft developed to guide emerging technology in London. 
-The Mayor of London had tasked the Chief Digital Officer for London and the Smart London Board to develop this Charter which is based on three key principles to guide discussions between makers and buyers, (1) Establish common, open and trusted ways of working between innovators, public services and Londoners when trialling and deploying new technologies, (2) Respect equality, diversity and human rights and act lawfully in the design and use of emerging technology, (3) Collect, manage, use and share data legally, ethically and securely.
-*The Turing Way* was referenced in the recommendations for principle 1:
-> When designing, developing, trialling and deploying emerging technologies, we aspire to work in the open wherever we can, sharing our plans and experience, working collaboratively with other organisations and reusing good practice.
-> Use of open, robust and reproducible approaches and standards, as illustrated, for example, by *The Turing Way* community materials.
+![Sarah’s Tweet says “Come and find out more about @turingway and @mybinderteam with my wonderful co-hosts @martinagvilas@ekarouneand @brainonsilicon](images/2021-02-sarah-tweet-2.png)
+
+*[Tweet by Sarah Gibson](https://twitter.com/drsarahlgibson/status/1359784963785297921?s=20
+) sharing registration information about her workshop*
 
 ### Preparation to Make a New Release on Zenodo
 
@@ -61,16 +62,13 @@ This will allow us to acknowledge your work and include ORCID identifier for co-
 Since this will be a major release, we invite your help and welcome any feedback to enhance the workflow for making new releases.
 Please use [issue #1751](https://github.com/alan-turing-institute/the-turing-way/issues/1751) to share your thoughts and ideas.
 
-### Boost your Research Reproducibility with Binder Workshop
+### An Emerging Technology Charter for London References *The Turing Way*
 
-Sarah Gibson will lead the workshop “Boost your research reproducibility with Binder” as part of SSI’s [Research Software Camp on Research Accessibility](https://www.software.ac.uk/news/sarah-gibson-host-workshop-boost-your-research-reproducibility-binder-research-software-camp). 
-Supported by Sophia Batchelor, Martina G. Vilas and Emma Karoune, the session will take place on [3 March 2021](https://www.software.ac.uk/RSCamp-research-accessibility-programme).
-Registration is open (and free) via  [this Eventbrite link](https://www.eventbrite.co.uk/e/research-software-camp-boost-your-research-reproducibility-with-binder-tickets-138852787425).
-
-![Sarah’s Tweet says “Come and find out more about @turingway and @mybinderteam with my wonderful co-hosts @martinagvilas@ekarouneand @brainonsilicon](images/2021-02-sarah-tweet-2.png)
-
-*[Tweet by Sarah Gibson](https://twitter.com/drsarahlgibson/status/1359784963785297921?s=20
-) sharing registration information about her workshop*
+*The Turing Way* was listed as one of the selected references in the Charter draft developed to guide emerging technology in London. 
+The Mayor of London had tasked the Chief Digital Officer for London and the Smart London Board to develop this Charter which is based on three key principles to guide discussions between makers and buyers, (1) Establish common, open and trusted ways of working between innovators, public services and Londoners when trialling and deploying new technologies, (2) Respect equality, diversity and human rights and act lawfully in the design and use of emerging technology, (3) Collect, manage, use and share data legally, ethically and securely.
+*The Turing Way* was referenced in the recommendations for principle 1:
+> When designing, developing, trialling and deploying emerging technologies, we aspire to work in the open wherever we can, sharing our plans and experience, working collaboratively with other organisations and reusing good practice.
+> Use of open, robust and reproducible approaches and standards, as illustrated, for example, by *The Turing Way* community materials.
 
 ## Acknowledgements and celebrations
 
@@ -97,9 +95,11 @@ She had a chance to build her slide decks upon the previous talks delivered by M
 Her presentation is [available online](https://saudi-data-community.netlify.app/#1), source code for which is available on [her GitHub repository](https://github.com/BatoolMM/An-Open-Science-Approach-to-Machine-Learning).
 You can cite her talk using the Zenodo DOI [10.5281/zenodo.4557636](https://zenodo.org/record/4557637). She also gave a workshop as a part of Women in Data Science (WiDS Saudi Arabia) on February 24 on "Collaborating on Open Data Science Projects". In the workshop, she introduced open science practices to data scientists with emphasis on git and version control. You can find the workshop [online](https://batoolmm.github.io/Collaborating-on-Open-Data-Science-Projects/) (Zenodo link: [doi.org/10.5281/zenodo.4561139](https://zenodo.org/badge/latestdoi/337206479)).
 
+-   Batool Almarzouq gave a [talk](https://saudi-data-community.netlify.app/#1) and a [workshop](https://batoolmm.github.io/Collaborating-on-Open-Data-Science-Projects/) back to back on 24 February at the R-Ladies Dammam and Women in Data Science (WiDS) Saudi Arabia respectively. Under the title “An Open Science Approach to Machine Learning in Biomedical Research”, she gave an overview of how ML is used in life sciences with an introduction to Open Sciences (DOI: [10.5281/zenodo.4557637)](https://zenodo.org/record/4557637). The workshop title "Collaborating on Open Data Science Projects" was delivered at WiDS Saudi Arabia (DOI: [10.5281/zenodo.4561139](https://zenodo.org/record/4561139)). 
+
 ![Batool: I  am delighted to take part in #WiDS2021 and give a workshop titled "Collaborating on Open Data Science Projects" on the 24th of Feb.”](images/2021-02-batool-tweet-4.png)
 
-*[Tweet by Batool](https://twitter.com/batool664/status/1363550278214160385?s=20) about her talks.*
+*[Tweet by Batool](https://twitter.com/batool664/status/1363550278214160385?s=20) about her workshop at Women in Data Science Saudi Arabia.*
 
 ## Relevant Resources
 
@@ -117,6 +117,8 @@ You can cite her talk using the Zenodo DOI [10.5281/zenodo.4557636](https://zeno
 
 ### Releavnt Opportunities & Announcements
 
+- [Software Sustainability Institute](https://www.software.ac.uk/) (SSI) hosted Collaboration Workshop 2021 (CW21) will be featuring _The Turing Way_ workshop, [Good Practices for Designing Software Development Projects (The Turing Way)](https://software.ac.uk/cw21/mini-workshops-and-demo-sessions#2.2), on 31 March 2021. Find out more about the calls for proposal and registration on the [CW21 webpage](https://www.software.ac.uk/cw21). SSI has also launched the Lesson Study Groups in collaboration with The Carpentries and members of the Carpentry community. This is a new programme to support community members wishing to develop new lessons in The Carpentries Incubator. Find more details in [this post](https://www.software.ac.uk/news/launch-new-lesson-study-groups-programme)
+
 - [Open Science Stories](https://anchor.fm/opensciencestories) is a new podcast series hosted by Heidi Seibold that features Open Science concepts or ideas as part of a story (3-10 minutes). 
 She invites more contributors from the Turing Way community to share about the projects or other relevant concepts such as reproducible data science, collaborative book writing and open licensing.
 If you are interested, comment under [issue #1706](https://github.com/alan-turing-institute/the-turing-way/issues/1706) or email [opensciencestories@gmail.com](maileto:opensciencestories@gmail.com).
@@ -126,10 +128,6 @@ Heidi is also a contributor to The Turing Way and she had recently given a talk 
 We invite researchers with experience in several areas to help draft the scripts based on the [primer documents](https://www.ukrn.org/primers/). 
 Interested researchers can contact us by replying to Matt Jaquiery (email: matt.jaquiery@psy.ox.ac.uk).
 The topics they are looking to cover are preregistration and registered reports, preprints and Open Access.
-
-- [Software Sustainability Institute](https://www.software.ac.uk) has launched the Lesson Study Groups in collaboration with The Carpentries and members of the Carpentry community.
-This is a new programme to support community members wishing to develop new lessons in The Carpentries Incubator.
-Find more details in [this post](https://www.software.ac.uk/news/launch-new-lesson-study-groups-programme ).
 
 - [Code for Science & Society](https://eventfund.codeforscience.org) has just released its second request for proposals to support research-driven open data science events. 
 Applicants can ask for up to $20K to support virtual events held between July 2021 and January 2022. 
