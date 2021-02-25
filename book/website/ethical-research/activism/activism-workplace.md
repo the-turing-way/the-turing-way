@@ -34,7 +34,7 @@ In the label, replace `keyidea1` with a word that best describes the section or 
 ### What is a union?
 
 A trade union is a formalised way for workers to organise and bargain collectively at an institutional, sectoral or national level. 
-A union is organised into branches which are spread geographically (for example, North London) or at an institutional level (for example, labs or departments), depending on the distribution of members and how the union works. Members of unions typically pay a monthly fee, although this is sometimes waived for certain categories of members, for example, the UK union UCU allows graduate students to join for free. 
+A union is organised into branches which are spread geographically (e.g. North London) or at an institutional level (e.g. labs or departments), depending on the distribution of members and how the union works. Members of unions typically pay a monthly fee, although this is sometimes waived for certain categories of members, for example, the UK union UCU allows graduate students to join for free. 
 
 Some members take up additional responsibilities as "reps" or "shop stewards", helping to organise the running of branches, supporting members with workplace issues, and sometimes representing the branch at a national level. Larger unions often have full-time employees to support reps and workers, who are also responsible for areas such as developing union policy, press relations, and organising any large meetings for example, annual conferences. 
 
@@ -47,11 +47,14 @@ Unions take lots of different actions to improve working conditions for their me
 These can be at individual, workplace, or industry level.
 
 At an individual level, unions can:
-* Offer support for individuals who have issues at work: for example, supporting individuals who have been discriminated against or bullied in their workplace
-* Raise health and safety concerns about particular work areas or duties
+* Offer support for individuals who have issues at work: for example, supporting individuals who have been discriminated against or bullied in their workplace, or whose duties involve unsafe practices
+* Make people aware of their rights at work, how policies affect them, and what the legal obligations of the organisation are
+
 
 At a workplace levels, unions can:
 * Negotiate with management on behalf of their members: this is called 'collective bargaining' and can be used to improve working conditions, salaries, pensions
+* Review existing policies in a workplace and advocate for changes that improve equity, remove patriarchal/societal influences, and increase support for marginalised members of the workforce
+* Raise health and safety concerns about particular work areas or duties
 * Organise members to "work to rule", where no overtime or duties outside those in formal job descriptions are undertaken 
 * Go on strike, where no work is performed and workers instead "picket" their workplaces by meeting outside and encouraging others to join them
 
@@ -62,56 +65,17 @@ At an industry level, unions can:
 
 ## How does a union help scientists and researchers? 
 
+Scientists and researchers do lots of different roles, and there are specific ways that unions can help with those roles.
 
+* Advocating for open research to be actively supported and encouraged by institutions as well as taken into consideration in career progression
+* Demanding legal support in research 
+* Supporting PhDs and post doctoral researchers in their relationships with PIs 
+* Campaigning against casualisation of work, for example, short-term, hourly-paid teaching or research positions 
+* Offering an alternative vision of academic research as a collaborative, open, iterative endeavour rather than a solo, competitive pursuit
+* Providing a forum for sharing other concerns around how scientific research is done and finding other researchers who want to tackle them 
 
-* Support for 
-* Specific issues with management or your 
-
-## I've never been part of a union before: where do I start?
-
-Start by finding out if there is a union already in your workplace.
-If so, there will be a person you can talk to about joining: they might be known as the union rep or steward. 
-
-If there is not a union in your workplace, look into the unions that already exist in your area or country. 
-You might be able to join one that is relevant to your industry or duties: or you might be able to join a general union that represents lots of different workers. 
-
-To join a union, you might have to pay union fees or dues. 
-These are almost always sliding scale, based on how much you earn: some unions also have free membership for people in certain positions or roles. 
-
-Once you are a member, start by attending meetings.
-You can find out what issues the union is working on. 
-You can also find out how to raise issues that you are concerned about.
-
-### Examples of relevant unions 
-
-We recognise that the list below is very UK-centric and would welcome additions for other countries! 
-
-#### Global
-* Tech Workers Coalition, Global (organisation focused on tech workers in industry) [website](https://techworkerscoalition.org/)
-
-
-#### United Kingdom 
-* Unite, United Kingdom,largest professional services union with over 1 million members [website](https://unitetheunion.org/)
-* University & Collges Union (UCU), United Kingdom, covers researchers, academic staff and higher grades of professional services staff in Higher Education & Further Education institutions [website](https://www.ucu.org.uk/)
-* Prospect, United Kingdom, union covering scientists & engineers[website](https://members.prospect.org.uk/our-industries/science/index)
-* PCS, United Kingdom, civil service union [website](https://www.pcs.org.uk/about-pcs)
-* United Voices of the World (UVW), Charity Sector Workers Branch [website](https://www.uvwunion.org.uk/en/sectors/charity-sector/)
-* Independent Workers’ Union of Great Britain (IWGB), Charity Sector Workers Branch [website](https://iwgb.org.uk/page/iwgb-charity-workers-branch/)
-    * IWGB also has a number of branches covering cleaners, receptionists and game industry workers 
-
-#### Ireland 
-* Medical Laboratory Scientists Association (MLSA), Ireland, is the sole trade union representing over 1600 Medical Scientists in Ireland [website](https://mlsa.ie/who-we-are)
-
-#### United States 
-* Graduate Student Unions at multiple universities and colleges are organising [Wikipedia page](https://en.wikipedia.org/wiki/Graduate_student_employee_unionization)
-
-
-#### Australia
-* Professional Scientists Australia, Australia (union covering industry scientists)[website](https://scientists.professionalsaustralia.org.au/)
-* [General list of Trade Unions in Australia](https://en.wikipedia.org/wiki/List_of_trade_unions_in_Australia)
-
-More suited to whistleblowing or policy section 
-* Union of Concerned Scientists https://www.ucsusa.org/
+Scientists and researchers work in universities, research institutions, and nonprofits. 
+These are all workplaces: they have workplace policies, and unions can help create policies and monitor whether they are being enforced.
 
 ### A Bit of History: The Association of Scientific Workers (United Kingdom) 
 
@@ -132,12 +96,43 @@ From the Instagram account [@BadgesofStruggle](https://www.instagram.com/badgeso
 
 The AScW communicated with members via branch bulletins as well as a national paper: The Scientific Worker [Click here to read a copy on the Wellcome Archive](https://wellcomelibrary.org/item/b19915299#?c=0&m=0&s=0&cv=0&z=-0.8157%2C-0.0826%2C2.6314%2C1.6529)
 
+
+
+## I've never been part of a union before: where do I start?
+
+Start by finding out if there is a union already in your workplace.
+If so, there will be a person you can talk to about joining: they might be known as the union rep or steward. 
+
+If there is not a union in your workplace, look into the unions that already exist in your area or country. [link to section on examples of unions]
+You might be able to join one that is relevant to your industry or duties: or you might be able to join a general union that represents lots of different workers.
+
+To join a union, you might have to pay union fees or dues. 
+These are almost always sliding scale, based on how much you earn: some unions also have free membership for people in certain positions or roles. 
+
 ## What you can do as a union member
 
 Unions are collective projects and they are people-powered!
 
 ### Be an active member
 
+Once you are a member, you can attend meetings.
+Attending union meetings in your workplace is also a good way to find out what issues are affecting your colleagues 
+Meetings are a good place to find out what issues the union is working on.
+Attending meetings and keeping up with union communications are good way to find out how to raise issues that you are concerned about.
+Your union may also have regional or national meetings: these are good places to find out more about union work in different areas.
+
+Like any organisations, unions have their own systems of governance and decision-making processes. 
+These are ways for you to have a say in what your union is doing
+You can get involved by voting for people to take on particular roles at workplace or industry level.
+You might also be asked to vote on specific actions that your workplace union will take, including accepting or rejecting a policy proposal made by management.
+
+Your union may ask you for input about issues: these can range from things that are specific to your job or workplace, to issues that affect your whole industry.
+This input is valuable to help unions raise concerns and make changes.
+Your union should have a safe, confidential way for you to share your experiences and opinions (if you're not sure about the channels of communication your union is using, talk about this to the specific people who are asking for input: you can ask to use alternative channels if need be.)
+
+Your union may ask you to take specific actions: for example, to sign a petition, write to an elected official, or take part in a social media campaign. 
+In some cases, your union may decide to consider or take strike action. 
+The process for going on strike differs in different unions, and in some countries there are legal restrictions that cover what kinds of actions are protected. 
 
 ### Become a representative
 
@@ -153,8 +148,55 @@ Some roles might include:
 The process for becoming a representative will vary depending on how your union operates.
 You might need to stand for election, or be approved by a meeting of union members. 
 
-
 ### Lead a campaign
+
+If you have issues in your workplace or industry that you feel strongly about then one way to push for change is by leading a campaign within your union (at either a branch or national level). 
+Campaigns can take almost as many forms as there are issues to campaign on!
+
+As a starting point, it's good to have a clear issue and aim(s) in mind for what you would like to achieve and a a few other people who agree with what you want to change. 
+
+If you think this is what you want to do, your union will usually have resources on how to get started. 
+You can also find more practical steps in the Internal Policy Advocacy Sub-Chapter of the Ethics Book. 
+
+#### More resources
+Most unions will have examples or guides on how to join or start campaigns (for example, UNISON, a UK union has a [webpage with details](https://www.unison.org.uk/get-involved/campaign-for-change/)).
+
+Other organisations that offer training and support on how to campaign effectively include: 
+
+* [The Ella Baker School of Organising](https://www.ellabakerorganising.org.uk/)
+* [The Union of Concerned Scientists](https://www.ucsusa.org/building-skills-science-network)
+
+
+
+
+### Examples of relevant unions 
+
+We recognise that the list below is very UK-centric and would welcome additions for other countries. 
+
+#### Global
+* Tech Workers Coalition, Global (organisation focused on tech workers in industry) [website](https://techworkerscoalition.org/)
+
+
+#### United Kingdom 
+* **Unite**, United Kingdom,largest professional services union with over 1 million members [website](https://unitetheunion.org/)
+* **University & Collges Union (UCU)**, United Kingdom, covers researchers, academic staff and higher grades of professional services staff in Higher Education & Further Education institutions [website](https://www.ucu.org.uk/)
+* **Prospect**, United Kingdom, union covering scientists & engineers[website](https://members.prospect.org.uk/our-industries/science/index)
+* **Public and Commercial Services Union (PCS)**, United Kingdom, civil service union [website](https://www.pcs.org.uk/about-pcs)
+* United Voices of the World (UVW), Charity Sector Workers Branch [website](https://www.uvwunion.org.uk/en/sectors/charity-sector/)
+* Independent Workers’ Union of Great Britain (IWGB), Charity Sector Workers Branch [website](https://iwgb.org.uk/page/iwgb-charity-workers-branch/)
+    * IWGB also has a number of branches covering cleaners, receptionists and game industry workers 
+
+#### Ireland 
+* **Medical Laboratory Scientists Association (MLSA)**, Ireland, is the sole trade union representing over 1600 Medical Scientists in Ireland [website](https://mlsa.ie/who-we-are)
+
+#### United States 
+* **Graduate Student Unions** at multiple universities and colleges are organising [Wikipedia page](https://en.wikipedia.org/wiki/Graduate_student_employee_unionization)
+
+
+#### Australia
+* **Professional Scientists Australia**, Australia (union covering industry scientists)[website](https://scientists.professionalsaustralia.org.au/)
+* [General list of Trade Unions in Australia](https://en.wikipedia.org/wiki/List_of_trade_unions_in_Australia)
+
 
 
 > **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
