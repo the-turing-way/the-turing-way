@@ -18,6 +18,7 @@ Documentation on configuring book settings can be found on the [Jupyter Book web
 ### Deploying
 
 The site is built automatically using these two directories. All of the requirements are specified in `website/requirements.txt`.
+
 #### Locally (Windows)
 
 The following workflow should succeed using a miniconda powershell terminal on Windows 10:
