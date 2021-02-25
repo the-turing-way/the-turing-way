@@ -93,9 +93,9 @@ Under the title “The Turing Way: Empowering researchers in reproducible, ethic
 On 18 February, she also gave a talk “The Turing Way: Open Source and reproducibility aspects of data science” at the EMBL-EBI training workshop on Next Generation Sequencing data analysis.
 She had a chance to build her slide decks upon the previous talks delivered by Martina G.  Vilas and Kirstie Whitaker (Zenodo link: [http://doi.org/10.5281/zenodo.4549447](http://doi.org/10.5281/zenodo.4549447)).
 
-- Batool Almarzouq gave two talks back to back on 24 February at Women in Data Science in Saudi Arabia and the R-Ladies Dammam event. Under the title “An Open Science Approach to Machine Learning in Biomedical Research”, she gave an overview of how ML is used in life sciences with an introduction to Open Sciences. 
+- Batool Almarzouq gave a talk in Saudi Data Community on February 17. Under the title "An Open Science Approach to Machine Learning in Biomedical Research", she gave an overview of how ML is used in life sciences with an introduction to Open Sciences. 
 Her presentation is [available online](https://saudi-data-community.netlify.app/#1), source code for which is available on [her GitHub repository](https://github.com/BatoolMM/An-Open-Science-Approach-to-Machine-Learning).
-You can cite her talk using the Zenodo DOI [10.5281/zenodo.4557636](https://zenodo.org/record/4557637).
+You can cite her talk using the Zenodo DOI [10.5281/zenodo.4557636](https://zenodo.org/record/4557637). She also gave a workshop as a part of Women in Data Science (WiDS Saudi Arabia) on February 24 on "Collaborating on Open Data Science Projects". In the workshop, she introduced open science practices to data scientist with emphasis on version control. You can find the workshop on [her GitHub repository](https://github.com/BatoolMM/Collaborating-on-Open-Data-Science-Projects) and [http://doi.org/10.5281/zenodo.4561139](https://batoolmm.github.io/Collaborating-on-Open-Data-Science-Projects/).
 
 ![Batool: I  am delighted to take part in #WiDS2021 and give a workshop titled "Collaborating on Open Data Science Projects" on the 24th of Feb.”](images/2021-02-batool-tweet-4.png)
 
