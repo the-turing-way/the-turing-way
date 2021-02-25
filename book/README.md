@@ -24,7 +24,7 @@ The site is built automatically using these two directories. All of the requirem
 The following workflow should succeed using a miniconda powershell terminal on Windows 10:
 
 1. conda install git
-2. git clone https://github.com/eoas-ubc/quantecon-mini-example.git
+2. git clone https://github.com/alan-turing-institute/the-turing-way.git
 3. cd quantecon-mini-example
 4. git checkout windows
 5. conda env create -f environment_win.yml
