@@ -20,8 +20,8 @@ Open-Science-Fair-2019
  وتم تسجيل عرضها بواسطة بودكاست، في الدقيقة الخامسة 
 تبدأ التحدث عن نظرة عامة على
 مشروع طريقة تورنج
-
-[Orion podcast](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).</div>
+<a href="https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/">Orion Podcast</a>
+</div>
 
 ### <div dir="RTL">حول المشروع</div>
 <div dir="RTL">
