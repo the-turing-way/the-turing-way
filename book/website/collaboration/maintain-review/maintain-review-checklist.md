@@ -1,7 +1,6 @@
 (cl-maintain-review-resources)=
 # Resources
 
-## Checklist
 
 
 ## Resources
