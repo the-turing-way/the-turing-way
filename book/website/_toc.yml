@@ -282,6 +282,9 @@
       file: collaboration/github/github-resources
   - title: Maintainers and Reviewers on GitHub
     file: collaboration/maintain-review.md
+    sections:
+    - title: Project Maintenance
+      file: collaboration/maintain-review/maintain-review-maintenance
   - title: Managing a New Community and Team
     file: collaboration/new-community
     sections:
