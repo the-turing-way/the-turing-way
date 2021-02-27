@@ -291,8 +291,8 @@
       file: collaboration/maintain-review/maintain-review-review
     - title: Merging Contributions
       file: collaboration/maintain-review/maintain-review-merge
-    - title: Checklist and Resources
-      file: collaboration/maintain-review/maintain-review-checklist
+    - title: Resources
+      file: collaboration/maintain-review/maintain-review-resources
   - title: Managing a New Community and Team
     file: collaboration/new-community
     sections:
