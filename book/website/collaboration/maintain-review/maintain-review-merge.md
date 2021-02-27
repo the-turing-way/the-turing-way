@@ -1,4 +1,4 @@
-(cl-maintain-review-merge)=
+(cl-maintain-review-merging)=
 # Merging Contributions
 Pull requests made by contributors can be approved or merged by maintainers after the review.
 There are different ways of merging a pull request:
