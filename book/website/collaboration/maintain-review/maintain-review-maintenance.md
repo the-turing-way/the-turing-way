@@ -1,4 +1,4 @@
-(cl-maintain-review-maintenance.md)=
+(cl-maintain-review-maintenance)=
 # Project Maintenance
 
 An open source project allows many people to make contributions in the form of [issues](https://help.github.com/en/github/managing-your-work-on-github/about-issues) and [pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
