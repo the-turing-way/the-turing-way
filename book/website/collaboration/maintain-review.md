@@ -26,21 +26,3 @@ Hence, this chapter aims to guide the review processes so that all the contribut
 
 Please note that it is not a "how-to" guide to how to make contributions but lists the major responsibilities of a project maintainer and how these responsibilities should ideally be carried out when working in online and collaborative projects.
 
-
-
-
-
-
-
-## What to learn next
-
-[Community communications for open source](https://the-turing-way.netlify.app/open-source-comms/intro.html) has some relevant information for getting involved with this community-driven project.
-
-## Further reading
-
-* [GitHub help](https://help.github.com/en)- a great resource to know about almost everything concerning collaborating on a GitHub project.
-* [Guide to Open Source](https://opensource.guide/)- Guides available related to Open Source, be it maintaining or contributing- most of the topics have been covered here.
-* [An article on using Open source research tools](https://opensource.com/education/15/11/tools-analyze-collaborate-share-research)
-* [A guide on Pull requests](https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests)
-* [How to guide to workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-* [A Blog on Open source and academia](https://opensource.com/article/19/9/how-open-source-academic-work)
