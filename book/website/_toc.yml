@@ -289,6 +289,8 @@
       file: collaboration/maintain-review/maintain-review-permissions
     - title: Reviewing Contributions
       file: collaboration/maintain-review/maintain-review-review
+    - title: Merging Contributions
+      file: collaboration/maintain-review/maintain-review-merge
   - title: Managing a New Community and Team
     file: collaboration/new-community
     sections:
