@@ -90,7 +90,7 @@
     - title: Research Data
       file: reproducible-research/rdm/rdm-data
     - title: Data Management Plan
-      file: reproducible-research/rdm/rdm-dmp    
+      file: reproducible-research/rdm/rdm-dmp
     - title: The FAIR Principles and Practices
       file: reproducible-research/rdm/rdm-fair
     - title: Data Storage and Organisation
@@ -278,10 +278,21 @@
       file: collaboration/github/github-roadmapping
     - title: Getting Contributors
       file: collaboration/github/github-contributors
-    - title:  Reviewing GitHub Contributions
-      file: collaboration/github/github-maintainers.md
-    - title: Checklist and Resources
+    - title: Checklist and resources
       file: collaboration/github/github-resources
+  - title: Maintainers and Reviewers on GitHub
+    file: collaboration/maintain-review.md
+    sections:
+    - title: Project Maintenance
+      file: collaboration/maintain-review/maintain-review-maintenance
+    - title: Ownership and Permissions
+      file: collaboration/maintain-review/maintain-review-permissions
+    - title: Reviewing Contributions
+      file: collaboration/maintain-review/maintain-review-review
+    - title: Merging Contributions
+      file: collaboration/maintain-review/maintain-review-merge
+    - title: Resources
+      file: collaboration/maintain-review/maintain-review-resources
   - title: Managing a New Community and Team
     file: collaboration/new-community
     sections:
