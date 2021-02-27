@@ -28,13 +28,13 @@ It covers:
 
 <!-- 
 In the label, replace `keyidea1` with a word that best describes the section or key idea you want to explain -->
-(sectioninitials-filename-keyidea1)=
+(sectioninitials-filename-unionisation)=
 ## Unionisation
 
 ### What is a union?
 
 A trade union is a formalised way for workers to organise and bargain collectively at an institutional, sectoral or national level. 
-A union is organised into branches which are spread geographically (e.g. North London) or at an institutional level (e.g. labs or departments), depending on the distribution of members and how the union works. Members of unions typically pay a monthly fee, although this is sometimes waived for certain categories of members, for example, the UK union UCU allows graduate students to join for free. 
+A union is organised into branches which are spread geographically (for example, North London) or at an institutional level (for example, labs or departments), depending on the distribution of members and how the union works. Members of unions typically pay a monthly fee, although this is sometimes waived for certain categories of members, for example, the UK union UCU allows graduate students to join for free. 
 
 Some members take up additional responsibilities as "reps" or "shop stewards", helping to organise the running of branches, supporting members with workplace issues, and sometimes representing the branch at a national level. Larger unions often have full-time employees to support reps and workers, who are also responsible for areas such as developing union policy, press relations, and organising any large meetings for example, annual conferences. 
 
@@ -81,17 +81,20 @@ These are all workplaces: they have workplace policies, and unions can help crea
 
 This was an trade union for scientists founded in the early 20th Century, which had a leading role in founding similar unions across the globe. 
 
+```{figure} ../../figures/image-name.png
 ![A blue enamel badge with AScW printed on it on a wooden background](https://i.imgur.com/V0Wcgbg.jpg)
-
-
-From the Instagram account [@BadgesofStruggle](https://www.instagram.com/badgesofstruggle/) (text and image reproduced under CC-BY with permission from the account):
+---
+name: AScW Badge
+alt: A blue enamel badge with AScW printed on it on a wooden background
+---
+From the Instagram account [@BadgesofStruggle](https://www.instagram.com/badgesofstruggle/) *(text and image reproduced under CC-BY with permission from the account)*
+```
 
 >"The union began its history as the National Union of Scientific Workers in 1918, as a result of the rapid and increased class and professional consciousness, as well as politicisation of scientists in the wake of the First World War. 
 >In 1927 the name was changed to the AScW, and it continued as such until 1968 when it merged with the Association of Supervisory Staff, Executives and Technicians (ASSET) to form the Association of Scientific, Technical and Managerial Staffs (ASTMS) a precursor of MSF and ultimately Unite.
 > The union was established “with an explicitly socialist platform”, and several of its leading figures were both respected scientists and active socialists and Communist Party members, such as Hyman Levy and John Desmond Bernal. Several Nobel Prize winners were members. 
 > The union organised scientists and technicians in government and private sector research, and became a prominent propagandist for the expansion of publicly funded R&D as well as taking political positions regarding the ethical use of science, against the global threat of fascism, and of guiding scientific research towards peaceful ends. 
-> The AScW went on to found the World Federation of Scientific Workers in 1946, an organisation which during the Cold War was accused of toeing the Soviet line, and being a communist front. 
-> Ironically, in her early years as a practising chemist, Margaret Thatcher was also a AScW member."
+> The AScW went on to found the World Federation of Scientific Workers in 1946, an organisation which during the Cold War was accused of toeing the Soviet line, and being a communist front."
 
 
 The AScW communicated with members via branch bulletins as well as a national paper: The Scientific Worker [Click here to read a copy on the Wellcome Archive](https://wellcomelibrary.org/item/b19915299#?c=0&m=0&s=0&cv=0&z=-0.8157%2C-0.0826%2C2.6314%2C1.6529)
@@ -166,9 +169,6 @@ Other organisations that offer training and support on how to campaign effective
 * [The Ella Baker School of Organising](https://www.ellabakerorganising.org.uk/)
 * [The Union of Concerned Scientists](https://www.ucsusa.org/building-skills-science-network)
 
-
-
-
 ### Examples of relevant unions 
 
 We recognise that the list below is very UK-centric and would welcome additions for other countries. 
@@ -176,11 +176,10 @@ We recognise that the list below is very UK-centric and would welcome additions 
 #### Global
 * Tech Workers Coalition, Global (organisation focused on tech workers in industry) [website](https://techworkerscoalition.org/)
 
-
 #### United Kingdom 
-* **Unite**, United Kingdom,largest professional services union with over 1 million members [website](https://unitetheunion.org/)
-* **University & Collges Union (UCU)**, United Kingdom, covers researchers, academic staff and higher grades of professional services staff in Higher Education & Further Education institutions [website](https://www.ucu.org.uk/)
-* **Prospect**, United Kingdom, union covering scientists & engineers[website](https://members.prospect.org.uk/our-industries/science/index)
+* **Unite**, United Kingdom, the largest professional services union with over 1 million members [website](https://unitetheunion.org/)
+* **University & Colleges Union (UCU)**, United Kingdom, covers researchers, academic staff and higher grades of professional services staff in Higher Education & Further Education institutions [website](https://www.ucu.org.uk/)
+* **Prospect**, United Kingdom, union covering scientists & engineers [website](https://members.prospect.org.uk/our-industries/science/index)
 * **Public and Commercial Services Union (PCS)**, United Kingdom, civil service union [website](https://www.pcs.org.uk/about-pcs)
 * United Voices of the World (UVW), Charity Sector Workers Branch [website](https://www.uvwunion.org.uk/en/sectors/charity-sector/)
 * Independent Workers’ Union of Great Britain (IWGB), Charity Sector Workers Branch [website](https://iwgb.org.uk/page/iwgb-charity-workers-branch/)
@@ -192,46 +191,15 @@ We recognise that the list below is very UK-centric and would welcome additions 
 #### United States 
 * **Graduate Student Unions** at multiple universities and colleges are organising [Wikipedia page](https://en.wikipedia.org/wiki/Graduate_student_employee_unionization)
 
-
 #### Australia
 * **Professional Scientists Australia**, Australia (union covering industry scientists)[website](https://scientists.professionalsaustralia.org.au/)
 * [General list of Trade Unions in Australia](https://en.wikipedia.org/wiki/List_of_trade_unions_in_Australia)
 
 
 
-> **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
-> You may break the section down into subsections if you wish, however, remember to add [labels](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) to any additional headers you create to facilitate cross-referencing.
-
-> Remember to use the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) and Jupyter Book's [Cheat Sheet](https://jupyterbook.org/reference/cheatsheet.html) to guide your writing.
-> The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
-
-> To include an image in your writing, use the MyST directive shown below. 
-> Remember to add your image to the `figures` [folder](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/website/figures) and use the correct path, else it will not be displayed.
-
-```{figure} ../../figures/image-name.png
----
-name: image-name
-alt: describe your image for readers who rely on screen readers
----
-Your image caption here
-```
-
-> To include code blocks, simply enclose your code in three sets of backticks shown below.
-
-```
-def simple_function():
-    pass
-```
-
-> To include an admonition or to highlight a block of text that exists slightly apart from the narrative of your section, use the directive shown below. Jupyter Book's [documentation](https://jupyterbook.org/content/content-blocks.html#) has other useful examples.
-
-```{note}
-Here is a note!
-```
-
 <!-- 
 In the label, replace `keyidea2` with a word that best describes the section or key idea you want to explain -->
-(sectioninitials-filename-keyidea2)=
+(sectioninitials-filename-internalpolicyadvocacy)=
 ## Internal policy advocacy
 
 <!-- > **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
@@ -323,24 +291,3 @@ You may want to seek legal advice about what procedures you should follow and wh
 > **Add a short summary of this subchapter with key takeaways.**
 > You may also recommend and link to other chapters/subchapters you want your readers to explore after reading this subchapter.
 
-
-<!-- IMPORTANT!
-
-- Use this template to create your chapter's subchapters.
-- Refrain from writing very long subchapters as readers may be unwilling to read them. Rather, you should split long subchapters into smaller subchapters if necessary.
-
-
-
-BEFORE YOU GO
-
-- Have a look at the Style Guide and the Maintaining Consistency chapters to ensure that you have followed the relevant recommendations on
-  - Avoiding HTML
-  - Consecutive headers
-  - Labels and cross referencing
-  - Using images
-  - Latin abbreviations
-  - References and citations
-  - Title casing
-  - Matching headers with reference in table of content
-
--->
