@@ -1,4 +1,4 @@
-(cl-maintain-review-checklist)=
+(cl-maintain-review-resources)=
 # Resources
 
 ## Checklist
