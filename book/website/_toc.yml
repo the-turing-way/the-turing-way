@@ -285,6 +285,8 @@
     sections:
     - title: Project Maintenance
       file: collaboration/maintain-review/maintain-review-maintenance
+    - title: Ownership and Permissions
+      file: collaboration/maintain-review/maintain-review-permissions
   - title: Managing a New Community and Team
     file: collaboration/new-community
     sections:
