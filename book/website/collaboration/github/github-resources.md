@@ -9,7 +9,6 @@ Those include a README, Code of Conduct, Contributing guidelines, licence, and t
 
 ```{figure} ../../figures/community_profile.png
 ---
-height: 500px
 name: checklist-of-documents
 alt: Image of checklist in Community section of Insights tab of a GitHub project.
 ---
