@@ -1,5 +1,5 @@
 (cl-maintain-review-checklist)=
-# Checklist and Resources
+# Resources
 
 ## Checklist
 
