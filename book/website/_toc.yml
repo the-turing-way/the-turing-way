@@ -287,6 +287,8 @@
       file: collaboration/maintain-review/maintain-review-maintenance
     - title: Ownership and Permissions
       file: collaboration/maintain-review/maintain-review-permissions
+    - title: Reviewing Contributions
+      file: collaboration/maintain-review/maintain-review-review
   - title: Managing a New Community and Team
     file: collaboration/new-community
     sections:
