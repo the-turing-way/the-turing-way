@@ -3,7 +3,6 @@
 
 ## Checklist
 
-To be created. If you are interested, please consider contributing by completing this gap!
 
 ## Resources
 * [Community communications for open source](https://the-turing-way.netlify.app/open-source-comms/intro.html) has some relevant information for getting involved with this community-driven project.
