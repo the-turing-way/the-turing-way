@@ -280,7 +280,7 @@
       file: collaboration/github/github-contributors
     - title:  Reviewing GitHub Contributions
       file: collaboration/github/github-maintainers.md
-    - title: Checklist and resources
+    - title: Checklist and Resources
       file: collaboration/github/github-resources
   - title: Managing a New Community and Team
     file: collaboration/new-community
