@@ -1,7 +1,7 @@
 (cl-maintain-review)=
 # Maintainers and Reviewers on GitHub
 
-## Prerequisites / recommended skill level
+## Prerequisites
 
 | Prerequisite | Importance |
 | -------------|----------|
@@ -25,4 +25,3 @@ Hence, this chapter aims to guide the review processes so that all the contribut
 ### This subchapter does not cover:
 
 Please note that it is not a "how-to" guide to how to make contributions but lists the major responsibilities of a project maintainer and how these responsibilities should ideally be carried out when working in online and collaborative projects.
-
