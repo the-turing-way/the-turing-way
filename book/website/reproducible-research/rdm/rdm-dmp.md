@@ -66,7 +66,7 @@ You can use this [checklist](https://www.ukdataservice.ac.uk/manage-data/plan/ch
 
 - [DataOne education modules](https://www.dataone.org/education-modules)
 - [UK Data Services data management information](https://www.ukdataservice.ac.uk/manage-data.aspx)
-- [TU Delft Research Data Management portal](https://www.tudelft.nl/en/library/current-topics/research-data-management/)
+- [TU Delft Research Data Management portal](https://www.tudelft.nl/en/library/research-data-management)
 - [Videos (3-7 min) on data management by Kristin Briney](https://www.youtube.com/watch?v=K5_ocBG5xek&list=PLEor4jq8YPgK_sgEiAcpHZLw-62mufXus)
 - Briney, Kristin. Data Management for Researchers : Organize, maintain and share your data for research success, Pelagic
 Publishing, 2015.

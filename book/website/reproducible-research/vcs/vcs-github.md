@@ -6,7 +6,7 @@ Moreover, it is time-consuming to manually incorporate the work of different par
 Hosting the project on an online repository hosting service like GitHub is beneficial to make collaborations open and effective.
 If you are new to collaboration through [GitHub](https://github.com), please follow the comprehensive guide in the previous sections.
 
-In this section, we will discuss how to use Git commands to work with online Git repository.
+In this section, we will discuss how to use Git commands to work with an online Git repository.
 
 Please note that the commands listed in this chapter (both in this and previous subchapters) are NOT specific to GitHub.
 They are used for collaborative work on any Git repositories and to interact with any repository hosting site/servers, which can be [GitHub](https://github.com/), but also [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) or a [self-set-up bare Git repository on a web server](https://opensource.com/life/16/8/how-construct-your-own-git-server-part-6).
