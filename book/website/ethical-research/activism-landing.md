@@ -23,13 +23,13 @@ However, it can be difficult to know where to start when you want to make a chan
 > Think about the reader demographic that would be interested in your chapter and tailor this section appropriately.
 > Remember to cross-reference relevant subchapters using this directive: `{ref}Subchapter<sectioninitials-filename-subchaptername>`.
 
-This chapter covers why activism can be an important part of ethical data science practice. <!--- not yet written, to be added! see https://github.com/alan-turing-institute/the-turing-way/issues/1575-->
+This chapter covers why activism can be an [important part of ethical data science practice.](https://the-turing-way.netlify.app/ethical-research/ethical-research/activism/activism-ethics.md)
 It will also cover different kinds of activism and how you can be an activist within your workplace, your field, your country, or the world at large!
 
 Activism in your workplace can include:
-* *Unionisation* collective organisation of workers to improve working conditions 
-* *Internal policy advocacy* campaigning to change the way your institution makes decisions or handles certain situations: this can include, for example, advocating for open data practices!   
-* *Whistleblowing* the act of alerting authorities or the press to problems in your institution 
+* [*Unionisation*](https://the-turing-way.netlify.app/ethical-research/ethical-research/activism/activism-unionisation.md) collective organisation of workers to improve working conditions 
+* [*Internal policy advocacy*](https://the-turing-way.netlify.app/ethical-research/ethical-research/activism/activism-internal-policy.md) campaigning to change the way your institution makes decisions or handles certain situations: this can include, for example, advocating for open data practices!   
+* [*Whistleblowing*](https://the-turing-way.netlify.app/ethical-research/ethical-research/activism/activism-whistleblowing.md) the act of alerting authorities or the press to problems in your institution 
 
 In the future, we would like to expand this chapter to include guides to activism in wider society for scientists, for example, how to engage with government policy-making processes. 
 
