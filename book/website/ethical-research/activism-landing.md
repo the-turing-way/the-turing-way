@@ -29,17 +29,18 @@ It will also cover different kinds of activism and how you can be an activist wi
 Activism in your workplace can include:
 * *Unionisation* collective organisation of workers to improve working conditions 
 * *Internal policy advocacy* campaigning to change the way your institution makes decisions or handles certain situations: this can include, for example, advocating for open data practices!   
-* *Whistleblowing* the act of alerting authorities or the press to problems in your institution  
+* *Whistleblowing* the act of alerting authorities or the press to problems in your institution 
+
+In the future, we would like to expand this chapter to include guides to activism in wider society for scientists, for example, how to engage with government policy-making processes. 
 
 Activism in your field can include 
 * Working to change policies and practices for professional organisations.
 
-Activism can also work towards changing laws: for example, lobbying for better data protection legislation in your country, or for resources to implement existing laws.
+Activism can also work towards changing laws or policies: for example, lobbying for better data protection legislation in your country, or for resources to implement existing laws.
 
 Activism can also be part of changing the world for the better! 
 This can include for example awareness-raising about data literacy.
- 
-In the future, we would like to expand this chapter to include guides to activism in wider society for scientists, for example, how to engage with government policy-making processes. 
+
 
 (sectioninitials-filename-motivation)=
 
