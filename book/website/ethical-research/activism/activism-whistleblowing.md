@@ -84,6 +84,38 @@ In the label, replace `keyidea3` with a word that best describes the section or 
 > **Add a short summary of this subchapter with key takeaways.**
 > You may also recommend and link to other chapters/subchapters you want your readers to explore after reading this subchapter.
 
+<!-- 
+In the label, replace `keyidea3` with a word that best describes the section or key idea you want to explain -->
+(sectioninitials-filename-keyidea3)=
+## Whistleblowing
+<!---
+> **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
+> You may break the section down into subsections if you wish.
+> Remember to use the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) and Jupyter Book's [Cheat Sheet](https://jupyterbook.org/reference/cheatsheet.html) to guide your writing.
+> The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
+-->
+
+A **whistleblower** is a person who reports wrongdoing within an organisation to an authority.
+This can be internal: reporting wrongdoing to a senior person within the organisation.
+It can also be external: reporting wrongdoing to an external agency.
+
+Whistleblowers can report different kinds of wrongdoing: this can include illegal activity, harm (or potential harm) to people inside or outside the organisation, misuse of government funds (for governmental organisations). 
+
+<!--- I'd like to have an example here that isn't Edward Snowdon, but I can't think of an accessible case - any ideas? -->
+
+Retaliation against whistleblowers is, unfortunately, common.
+Retaliation can include firing from the organisation, or creation of an unpleasant working environment that means the whistleblower can no longer work there. 
+
+Some countries have laws to protect whistleblowers from retaliation.
+For example, the EU [Whistleblower Protection Directive](https://www.cliffordchance.com/insights/resources/blogs/regulatory-investigations-financial-crime-insights/the-new-eu-whistleblower-protection-directive-are-the-member.html) requires EU countries to have prohibitions on retaliation, as well as to ensure that companies with more than 50 workers have confidential internal reporting channels. 
+
+Some companies have policies in place to protect whistleblowers.
+This can include third-party reporting systems. 
+
+### Blowing the whistle
+If you are considering whistleblowing, make sure you are aware of what protections are - and are not - in place in your country, and in your organisation.
+You may want to seek legal advice about what procedures you should follow and what measures you should take to protect yourself. (Link to legal advice disclaimer)
+
 
 <!-- IMPORTANT!
 
