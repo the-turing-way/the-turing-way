@@ -12,20 +12,6 @@ A list of example Travis builds and tests for various languages/frameworks is av
 
 Travis's official tutorial is [here](https://docs.travis-ci.com/user/tutorial/). A tutorial focused on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), tutorials geared towards Python can be found [here](https://docs.python-guide.org/scenarios/ci/) and [here](https://docs.travis-ci.com/user/languages/python/).
 
-## Glossary
-
-**Build:** A group of jobs. For example, a build might have two jobs, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
-
-**Computational environment:** The environment where a project is run, including the operating system, the software installed on it, and the versions of both.
-
-**Continuous integration:** The process of regularly combining the work of project members into a centralised version. Also called CI. CI software typically runs tests on the integrated version of a project to identify conflicts and bugs introduced by the integration.
-
-**GitHub:** A widely used version control platform.
-
-**Job:** An automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code and running tests. A job fails if the return code of the script encounters an error.
-
-**Travis:** A commonly used continuous integration platform.
-
 ## Bibliography
 
 - [What is CI](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**

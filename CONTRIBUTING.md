@@ -49,10 +49,10 @@ These intentions must be reflected in the contributions that we make to the proj
 In addition to the CoC, we encourage intentional, inclusive actions from contributors to _The Turing Way_.
 Here are a few examples of such actions:
 
-- use respectful, gender-neutral and inclusive language (learn more about [inclusive writing](https://www2.le.ac.uk/offices/ld/all-resources/writing/writing-resources/inclusive), resource by University of Leicester).
+- use respectful, gender-neutral and inclusive language (learn more about [inclusive writing](https://www.le.ac.uk/oerresources/ssds/studyskills/page_37.htm), resource by University of Leicester).
 - aim to include perspectives of researchers from different research backgrounds such as science, humanities and social sciences by not limiting the scope to only scientific domains.
 - make sure that the colour palettes are accessible to colour-blind readers and contributors.
-Here's a useful blog post on [tips for designing scientific figures for color blind readers](http://www.somersault1824.com/tips-for-designing-scientific-figures-for-color-blind-readers) by Luk at [Somersault 1824](http://www.somersault1824.com).
+See the blogpost [Designing Scientific Figures for Colour Blindness](https://www.lewismackenzie.science/blog-1/2017/2/9/designing-scientific-figures-for-colour-blindness) for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator.
 
 ## Get in touch
 
@@ -63,8 +63,7 @@ There are many ways to get in touch with _The Turing Way_ team!
   - Can't find your idea being discussed anywhere?
     [Open a new issue](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose)! (See our [Where to start: issues](#where-to-start-issues) section below.)
 - [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way)
-  - This will be a good place to start if you are new to the project, or have any quick question.
-  - We'd love for you to swing by to say hello.
+  - We'd love for you to swing by to say hello, if you are new to the project and have any quick question.
 - [Slack Channel](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
   - For structured discussion and sustained engagement with the community members. 
   - We will also provide notification on upcoming events and share useful resources on Slack.

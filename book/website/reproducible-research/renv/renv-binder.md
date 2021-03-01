@@ -80,11 +80,6 @@ If R is installed in a Binder, the dropdown menu will show the options to open R
 
 In this section, there are some related terms, which will be outlined here for clarity:
 
-- Binder: A shareable version of a project that can be viewed and interacted within a reproducible computational environment via a web browser.
-- BinderHub: A service which generates Binders. The most widely-used is [mybinder.org](https://mybinder.org), which is maintained by the Binder team. It is possible to create other BinderHubs which can support more specialised configurations. One such configuration could include authentication to enable private repositories to be shared amongst close collaborators.
-- [mybinder.org](https://mybinder.org): A public and free BinderHub. Because it is public you should not use it if your project requires any personal or sensitive information (such as passwords).
-- Binderize: To make a Binder of a project.
-
 - **Binder**: A sharable version of a project that can be viewed and interacted within a reproducible computational environment via a web browser.
 - **BinderHub**: A service which generates Binders. The most widely-used is [mybinder.org](https://mybinder.org), which is maintained by the Binder team. It is possible to create other BinderHubs which can support more specialised configurations. One such configuration could include authentication to enable private repositories to be shared amongst close collaborators.
 - **[mybinder.org](https://mybinder.org)**: A public and free BinderHub. Because it is public, you should not use it if your project requires any personal or sensitive information (such as passwords).
