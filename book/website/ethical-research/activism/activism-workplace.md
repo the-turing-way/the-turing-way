@@ -6,14 +6,8 @@ Make as many copies of this file as you need for all your subchapters
 -->
 
 (sectioninitials-filename)=
-# Activism in the workplace
+# Unionisation
 
-This sub-chapter covers ways that you can take action in your workplace. 
-
-It covers:
-- unionisation, to protect workers and working conditions
-- internal policy advocacy, to change how your organisation makes internal decisions
-- whistleblowing, to alert people outside your organisation to problems within it.
 
 <!-- 
 > Each of the key ideas you talk about in the introduction should have a section of its own.
@@ -196,96 +190,6 @@ We recognise that the list below is very UK-centric and would welcome additions 
 * [General list of Trade Unions in Australia](https://en.wikipedia.org/wiki/List_of_trade_unions_in_Australia)
 
 
-
-<!-- 
-In the label, replace `keyidea2` with a word that best describes the section or key idea you want to explain -->
-(sectioninitials-filename-internalpolicyadvocacy)=
-## Internal policy advocacy
-
-<!-- > **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
-> You may break the section down into subsections if you wish.
-> Remember to use the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) and Jupyter Book's [Cheat Sheet](https://jupyterbook.org/reference/cheatsheet.html) to guide your writing.
-> The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
--->
-
-Internal policy advocacy is when individuals or groups associated with an organisation campaign for a change in the way that the organisation makes decisions, runs projects, chooses collaborators, develops products, or in other areas. 
-It can be a really powerful tool for change, regardless of whether or not the group of people campaigning are in a union.
-
-### Example: Google Workers & Project Maven
-One example of this is Google workers campaigning against Project Maven, a contract with the US Pentagon to use AI to develop more effective drone guidance.
-Google employees across the globe spoke up in internal meetings, signed petitions, made memes, and shared personal statements about why they disagreed with the contract.
-Some employees even resigned.
-Eventually, the leadership at Google agreed not to seek further contracts with the US Pentagon.
-[Source, accessed 8 December 2020](https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers)
-
-### How to advocate internally
-A basic set of steps you can take for internal policy advocacy (adapted from [guidelines](https://knowhow.ncvo.org.uk/how-to/how-to-run-effective-campaigns) produced by the NCVO in the UK, used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license):
-1. Define the issue
-    - What is the problem that you are concerned about? 
-    - Is it linked to other issues or policies? 
-    Tools like [problem trees](https://www.odi.org/publications/5258-planning-tools-problem-tree-analysis) can be useful to map out what else is contributing to the problem.
-    It might be the case that the policy you are worried about builds on other internal policies or problems.
-    You might want to campaign against those instead.
-    - Can you encapsulate the problem in a short, easy-to-understand message? 
-2. Gather evidence
-    - Research the issue you are campaigning about thoroughly
-    - You might want to collect documentary evidence, testimonials, media coverage, academic work, about the issue
-    - Put together a clear, concise argument about the problems and what you think needs to change
-    - Prepare yourself to answer difficult questions about your issue, why it is real and why it is important
-3. Find useful allies
-    - Target people who understand your cause or have a connection to it.
-    - Get in touch with organisations set up to help causes such as yours (ask for advice, access to experts).
-    - Get endorsement from people who hold power in your field, or in other areas
-    - Find ways to involve your colleagues, inside and outside the organisation: for example, signing a petition can be a first step
-4. Know who to lobby
-    - Identify your routes of influence.
-    Who is in a position to make change?
-    How will you reach them? 
-    - Think about your own contacts: can you reach people in charge directly, or do you need to go via other people
-    - Don't get disheartened at the first hurdle, lobbying is hard work!
-5. Use a range of tactics
-    - Emails, media coverage and a good website are all useful.
-    - BUT... try a little more creativity - what would make your campaign stand out and get people talking?
-    - Don't forget to assess how you're doing (number of signatures on a petition, number of times the issue is raised at an all-hands meeting
-
-You should also think about the potential risks to you and your colleagues for speaking up. 
-Many people are reluctant to engage in advocacy or lobbying in their workplace, because they risk losing their livelihoods if there is retaliation against them.
-Union membership can offer some protection against this: campaigning can be done by the union as a collective, rather than by individual workers. 
-Think about other things that might go wrong, or that might dissuade your colleagues from speaking up, and see if you can find a way to mitigate them. 
-
-<!-- 
-In the label, replace `keyidea3` with a word that best describes the section or key idea you want to explain -->
-(sectioninitials-filename-keyidea3)=
-## Whistleblowing
-<!---
-> **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
-> You may break the section down into subsections if you wish.
-> Remember to use the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) and Jupyter Book's [Cheat Sheet](https://jupyterbook.org/reference/cheatsheet.html) to guide your writing.
-> The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
--->
-
-A **whistleblower** is a person who reports wrongdoing within an organisation to an authority.
-This can be internal: reporting wrongdoing to a senior person within the organisation.
-It can also be external: reporting wrongdoing to an external agency.
-
-Whistleblowers can report different kinds of wrongdoing: this can include illegal activity, harm (or potential harm) to people inside or outside the organisation, misuse of government funds (for governmental organisations). 
-
-<!--- I'd like to have an example here that isn't Edward Snowdon, but I can't think of an accessible case - any ideas? -->
-
-Retaliation against whistleblowers is, unfortunately, common.
-Retaliation can include firing from the organisation, or creation of an unpleasant working environment that means the whistleblower can no longer work there. 
-
-Some countries have laws to protect whistleblowers from retaliation.
-For example, the EU [Whistleblower Protection Directive](https://www.cliffordchance.com/insights/resources/blogs/regulatory-investigations-financial-crime-insights/the-new-eu-whistleblower-protection-directive-are-the-member.html) requires EU countries to have prohibitions on retaliation, as well as to ensure that companies with more than 50 workers have confidential internal reporting channels. 
-
-Some companies have policies in place to protect whistleblowers.
-This can include third-party reporting systems. 
-
-### Blowing the whistle
-If you are considering whistleblowing, make sure you are aware of what protections are - and are not - in place in your country, and in your organisation.
-You may want to seek legal advice about what procedures you should follow and what measures you should take to protect yourself. (Link to legal advice disclaimer)
-
-(sectioninitials-filename-summary)=
 ## Summary
 
 > **Add a short summary of this subchapter with key takeaways.**
