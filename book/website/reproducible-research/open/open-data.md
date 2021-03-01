@@ -93,12 +93,19 @@ Where possible, you should be able to cite the data used, and only the data used
 
 (rr-open-data-barriers)=
 ## Barriers to Data Sharing
+Some academics still find sharing data difficult.
+Recent surveys {cite}`Stuart2018sharing` conducted amongst researchers show that they find sharing data difficult because:
 
-Sometimes it may not be possible to make data publicly available in its entirety or even in part. 
+- Organising data in a presentable and useful way is challenging (mentioned by 46%)
+- They are unsure about copyright and licensing (mentioned by 37%)
+- They do not know which repository to use as (raised by 33%)
+
+These are cultural challenges that might be addressed in changing practice going forward.
+However, there are also legal, ethical or contractual reasons that sometimes prevent making data publicly available in its entirety or even in parts.
 Here are some reasons why this may be the case:
 
 (rr-open-data-barriers-privacy)=
-### Privacy
+### Privacy And Data Protection
 
 Many fields of research involve working with sensitive personal data, with medical research being the most obvious example.
 Individuals must be protected from (re)identification via their data used for research. 
@@ -110,4 +117,36 @@ For example, you may provide age bands instead of birth date or only the first t
 It may also be possible to provide the data in such a format that researchers can query it whilst keeping the data itself closed. 
 For example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints.
 
-Data privacy is also maintained when dealing with data of national or commercial interest, details for which are listed in the {ref}`rr-rdm-sharing-barriers-national` section of the {ref}`rr-rdm` chapter.
+Many fields of scientific disciplines involve working with sensitive personal data.
+Their management is well regulated in data protection legislation (in Europe through national implementations of the General Data Protection Regulation) and ethics procedures as they are established in most research institutions {cite} `EU2016protection`.
+
+(rr-open-data-barriers-consent)=
+### Consent
+
+In order for anonymised research data to be made available for future reuse, consent forms must cover sharing this data with other researchers.
+Research so far suggests that study participants are usually less concerned about the data being archived and shared than researchers think {cite}`Kuula2010archiving`.
+Participant information sheets and consent forms should include how research data will be stored, preserved and used in the long-term, and how confidentiality will be protected when needed.
+
+(rr-open-data-barriers-anonymisation)=
+### Anonymisation
+
+Individuals must be protected from (re)identification through their data
+Anonymisation of the data may be sufficient in some cases, but ensuring that re-identification is not possible is becoming increasingly difficult.
+It might even be impossible due to technical progress, growing computational power and – ironically – more open data.
+
+For example, re-identification may be possible via data-mining of accessible data and so-called quasi-identifiers, a set of (common) properties that are – in their combination – so specific that they can be used to identify an individual.
+Preserving privacy may still be possible if partial or generalised datasets are provided, like age groups instead of birth date, or only the first two digits of postal codes.
+It may also be possible to provide the data in such a format that researchers can query whilst keeping the data itself closed.
+For example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual data points.
+Another way to provide anonymised data is to provide [synthetic data](https://en.wikipedia.org/wiki/Synthetic_data), data generated to reflect the conditions and properties of the raw data, without including any personal information.
+
+(rr-open-data-barriers-national)=
+### National and Commercially Sensitive Data
+
+In many cases, companies are understandably unwilling to publish much of their data.
+The reasoning goes that if commercially sensitive information of a company is disclosed, it will damage the company’s commercial interests and undermine competitiveness.
+This is based on the thinking that in competitive markets, innovation will only occur with some protection of information.
+If a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources.
+The result is that no-one would innovate in the first place.
+Similarly, for public safety concerns, governments are often unwilling to publish data that relates to issues such as national security.
+In such cases, it may not be possible to make data open, or it may only be possible to share partial/obscured datasets as outlined in the {ref}`privacy <rr-rdm-sharing-barriers-privacy>` section.
