@@ -52,6 +52,19 @@ To get maximum value from data sharing, make sure that your paper and code both 
 
 In line with the FAIR principles outlined above, upload the data in open formats as much as possible and include sufficient documentation and metadata so that someone else can understand your data.
 
+
+(rr-rdm-data-availability-statement)=
+## Data Availability Statement
+Once you made your data availability it is important to ensure that people can find it when they read the associated article. 
+You should cite your dataset directly in the paper in places where it is relevant, and include a citation in your reference list, as well as include a Data Availability Statement at the end of the paper (similar to the acknowledgement section). 
+See below for some examples.
+
+* The data that support the findings of this study are openly available in [repository name] at http://doi.org/[doi].
+* The data that support the findings will be available in [repository name] at [URL / DOI] following a [6 month] embargo from the date of publication to allow for commercialisation of research findings.
+* Restrictions apply to the data that support the findings of this study. [Explain nature of restrictions e.g. the data contains information that could compromise the privacy of research participants] Data are available upon reasonable request by contacting [name and contact details] and with permission of [third party name].
+
+You can find more examples on the [Data Access statements page](https://www.library.manchester.ac.uk/using-the-library/staff/research/research-data-management/sharing/data-access-statements/) from the University of Manchester, or Nature's [Tips for writing a dazzling Data Availability Statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement)
+
 (rr-rdm-sharing-barriers)=
 ## Barriers To Data Sharing
 
