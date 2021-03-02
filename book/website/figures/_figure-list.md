@@ -41,6 +41,7 @@
 | Travis_badge_pass          | Continuous integration    | A readme with a passing Travis badge              |
 | Travis_build               | Continuous integration    | What the Travis dashboard looks like              |
 | two_branches               | Version control           | Illustrates version control master + two branches |
+| unionbadge                 | Ethical Research          |  Example of historical union badge                |
 | virtual_machine            | Reproducible environments | Example of a virtual Ubuntu machine on windows    |
 | VM_create_machine          | Reproducible environments | How to create a virtual machine in VirtualBox     |
 | VM_export_machine          | Reproducible environments | How to export a virtual machine in VirtualBox     |
