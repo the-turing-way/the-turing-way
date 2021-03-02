@@ -31,7 +31,7 @@ If you'd like to use this HackMD pad anonymously, that's totally fine! Just sign
 [comment]: <If there are slides accompanying the workshop, link to them here>
 * The intro slides:
 * The Turing Way repo: [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
-* Chat with us on Gitter!
+* Chat with us on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)!
   * The Turing Way team: <https://gitter.im/alan-turing-institute/the-turing-way>
   * The Binder team: <https://gitter.im/jupyterhub/binder>
 * Keep in touch and sign up to our newsletter: <https://tinyletter.com/TuringWay>
