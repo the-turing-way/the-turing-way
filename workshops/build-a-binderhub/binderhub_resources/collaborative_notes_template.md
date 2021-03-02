@@ -27,7 +27,7 @@ If you'd like to use this HackMD pad anonymously, that's totally fine! Just sign
 
 [comment]: <It's useful to create a short bit.ly link for the hackmd pad>
 * This HackMD pad:
-* workshop instructions: [bit.ly/zero-to-binderhub-workshop](https://bit.ly/zero-to-binderhub-workshop)
+* Workshop instructions: [bit.ly/zero-to-binderhub-workshop](https://bit.ly/zero-to-binderhub-workshop)
 [comment]: <If there are slides accompanying the workshop, link to them here>
 * The intro slides:
 * The Turing Way repo: [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
