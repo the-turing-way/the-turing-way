@@ -1,17 +1,30 @@
 # Newsletters
 
 In this folder you can find records of our (approximately) monthly newsletters.
+To learn about how you can edit a newsletter draft, please read this chapter in [our Community Handbook](https://the-turing-way.netlify.app/community-handbook/newsletters.html).
 
-If you're writing them in markdown we recommend using this excellent [Markdown to HTML](https://www.browserling.com/tools/markdown-to-html) tool to make it nice and easy to transfer the content to TinyLetter.
+In this repository, we store the newsletter drafts in markdown format and we recommend using this excellent [Markdown to HTML](https://www.browserling.com/tools/markdown-to-html) tool to make it nice and easy to transfer the content to TinyLetter before publishing.
 
-| Month | Date sent | GitHub link | TinyLetter link |
-| ----- | --------- | ----------- | --------------- |
-| December 2019 | 2019-12-16 | [09_Dec2019](newsletter_09_Dec2019.md) | [One year of the Turing Way project and holiday wishes!](https://tinyletter.com/TuringWay/letters/one-year-of-the-turing-way-project-and-holiday-wishes) |
-| November 2019 | 2019-11-18 | [08_Nov2019](newsletter_08_Nov2019.md) | [The Turing Way project is expanding to a multi-volume book series!](http://tinyletter.com/TuringWay/letters/the-turing-way-project-is-expanding-to-a-multi-volume-book-series) |
-| October 2019 | 2019-10-08 | [07_Oct2019](newsletter_07_Oct2019.md) | [Welcome Malvika, co-work with us at MozFest House, and check out our new #TuringWay impact story!](http://tinyletter.com/TuringWay/letters/welcome-malvika-co-work-with-us-at-mozfest-house-and-check-out-our-new-turingway-impact-story) |
-| September 2019 | 2019-09-03 | [06_Sept2019](newsletter_05_May2019.md) | [The Turing Way - Introducing Online Collaboration Cafes](http://tinyletter.com/TuringWay/letters/the-turing-way-introducing-online-collaboration-cafe) |
-| May 2019 | 2019-05-31 | [05_May2019](newsletter_05_May2019.md) | [The Turing Way - Book dash reports](http://tinyletter.com/TuringWay/letters/the-turing-way-book-dash-reports-1) |
-| April 2019 | 2019-04-05 | [04_Apr2019](newsletter_04_Apr2019.md) | [The Turing Way - Book launch](http://tinyletter.com/TuringWay/letters/the-turing-way-book-launch) |
-| March 2019 | 2019-03-29 | [03_Mar2019](newsletter_03_Mar2019.md) | [The Turing Way - March update](http://tinyletter.com/TuringWay/letters/the-turing-way-march-update) |
-| February 2019 | 2019-02-25 | [02_Feb2019](newsletter_02_Feb2019.md) | [The Turing Way - February update](http://tinyletter.com/TuringWay/letters/the-turing-way-february-update) |
+| Month | Date | GitHub link | TinyLetter link |
+| ----- | ---- |----------- | --------------- |
 | January 2019 |    | [01_Jan2019](newsletter_01_Jan2019.md) | [The Turing Way - project announcement](https://tinyletter.com/TuringWay/letters/the-turing-way-project-announcement) |
+| February 2019 | 2019-02-25 | [02_Feb2019](newsletter_02_Feb2019.md) | [The Turing Way - February update](http://tinyletter.com/TuringWay/letters/the-turing-way-february-update) |
+| March 2019 | 2019-03-29 | [03_Mar2019](newsletter_03_Mar2019.md) | [The Turing Way - March update](http://tinyletter.com/TuringWay/letters/the-turing-way-march-update) |
+| April 2019 | 2019-04-05 | [04_Apr2019](newsletter_04_Apr2019.md) | [The Turing Way - Book launch](http://tinyletter.com/TuringWay/letters/the-turing-way-book-launch) |
+| May 2019 | 2019-05-31 | [05_May2019](newsletter_05_May2019.md) | [The Turing Way - Book dash reports](http://tinyletter.com/TuringWay/letters/the-turing-way-book-dash-reports-1) |
+| September 2019 | 2019-09-03 | [06_Sep2019](newsletter_06_Sep2019.md) | [The Turing Way - Introducing Online Collaboration Cafes](http://tinyletter.com/TuringWay/letters/the-turing-way-introducing-online-collaboration-cafe) |
+| October 2019 | 2019-10-08 | [07_Oct2019](newsletter_07_Oct2019.md) | [Welcome Malvika, co-work with us at MozFest House, and check out our new #TuringWay impact story!](http://tinyletter.com/TuringWay/letters/welcome-malvika-co-work-with-us-at-mozfest-house-and-check-out-our-new-turingway-impact-story) |
+| November 2019 | 2019-11-18 | [08_Nov2019](newsletter_08_Nov2019.md) | [The Turing Way project is expanding to a multi-volume book series!](http://tinyletter.com/TuringWay/letters/the-turing-way-project-is-expanding-to-a-multi-volume-book-series) |
+| December 2019 | 2019-12-16 | [09_Dec2019](newsletter_09_Dec2019.md) | [One year of the Turing Way project and holiday wishes!](https://tinyletter.com/TuringWay/letters/one-year-of-the-turing-way-project-and-holiday-wishes) |
+| January 2020 | 2020-01-15 | [10_Jan2020](newsletter_10_Jan2020.md) | [New year wishes, and deadline reminder for Book Dash (Thursday 16 Jan)!](https://tinyletter.com/TuringWay/letters/new-year-wishes-and-deadline-reminder-for-book-dash-thursday-16-jan) |
+| February 2020 | 2020-02-18 | [11_Feb2020](newsletter_11_Feb2020.md) | [Translating the book into Chinese and expanding our content at this week's Book Dash](https://tinyletter.com/TuringWay/letters/translating-the-book-into-chinese-and-expanding-our-content-at-this-week-s-book-dash) |
+| March 2020 | 2020-03-18 | [12_Mar2020](newsletter_12_Mar2020.md) | [Sharing updates from the community, launching our new logo, and sending wishes for your well-being during the COVID-19 pandemic](https://tinyletter.com/TuringWay/letters/sharing-updates-from-the-community-launching-our-new-logo-and-sending-wishes-for-your-well-being-during-the-covid-19-pandemic) |
+| April 2020 | 2020-04-15 | [13_Apr2020](newsletter_13_Apr2020.md) | [Collaboration cafe on 15 April, highlights from the Collaboration Workshop and other news from the community](https://tinyletter.com/TuringWay/letters/collaboration-cafe-on-15-april-highlights-from-the-collaboration-workshop-and-other-news-from-the-community) |
+| May 2020 | 2020-05-20 | [14_May2020](newsletter_14_May2020.md) | [Attend this week's Collaboration Café, learn about Mental Health Awareness Week and find other updates!](https://tinyletter.com/TuringWay/letters/attend-this-week-s-collaboration-caf-learn-about-mental-health-awareness-week-and-find-other-updates) |
+| June 2020 | 2020-06-17 | [15_Jun2020](newsletter_15_Jun2020.md) | [Join Collaboration Café today, bring Data Feminism perspectives to The Turing Way and learn how we can promote an equitable culture in our community!](https://tinyletter.com/TuringWay/letters/join-collaboration-caf-today-bring-data-feminism-perspectives-to-the-turing-way-and-learn-how-we-can-promote-an-equitable-culture-in-our-community) |
+| July 2020 | 2020-07-15 | [16_Jul2020](newsletter_16_Jul2020.md) | [Join today’s Collaboration Cafe, learn how you can develop chapters on ethical research and connect on Slack before you go on a summer break!](https://tinyletter.com/TuringWay/letters/join-today-s-collaboration-cafe-learn-how-you-can-develop-chapters-on-ethical-research-and-connect-on-slack-before-you-go-on-a-summer-break) |
+| September 2020 | 2020-09-22 | [17_Sep2020](newsletter_17_Sep2020.md) | [We are back with our coworking calls and welcome you to read the contributor acknowledgment processes](https://tinyletter.com/TuringWay/letters/we-are-back-with-our-coworking-calls-and-welcome-you-to-read-the-contributor-acknowledgment-processes) |
+| October 2020 | 2020-10-20 | [18_Oct2020](newsletter_18_Oct2020.md) | [Call for application for the Book Dash, plans for community share-out event and more updates about our fabulous community!](https://tinyletter.com/TuringWay/letters/call-for-application-for-the-book-dash-plans-for-community-share-out-event-and-more-updates-about-our-fabulous-community) |
+| November 2020 | 2020-11-30 | [19_Nov2020](newsletter_19_Nov2020.md) | [Meet our Book Dash attendees, read new chapters and join the holiday-themed Collaboration Café!](https://tinyletter.com/TuringWay/letters/meet-our-book-dash-attendees-read-new-chapters-and-join-the-holiday-themed-collaboration-caf) |
+| December 2020 | 2020-12-14 | [20_Dec2020](newsletter_20_Dec2020.md) | [Two year of The Turing Way project, highlights from our community and holiday wishes!](https://tinyletter.com/TuringWay/letters/two-years-of-the-turing-way-project-highlights-from-our-community-and-holiday-wishes) |
+

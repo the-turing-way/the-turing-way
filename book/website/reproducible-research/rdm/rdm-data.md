@@ -19,4 +19,4 @@ Research data often follows a 'lifecycle' which follows the research project as 
 This model provides a sound basis on which to plan for research data management, from data creation at the start of a research project, through to publishing and sharing research at the end of the project, and archiving any research data for the long-term and future re-use once the project has ended.
 
 The research data lifecycle involves data creation, data use, data publication and sharing, data archiving, and data re-use or destruction. 
-However, data have a longer lifespan than the research project that creates them.
+However, data have a longer lifespan than the research project that creates them. In a  {ref}`Data Management Plan <rr-rdm-dmp>` you can structure how you will manage and share your research data.

@@ -12,7 +12,7 @@ In February 2020, _The Turing Way_ expanded to a series of books covering reprod
 
 ```{figure} figures/welcome.jpg
 ---
-name: welcome
+name: welcome-image
 alt: The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.
 ---
 _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)

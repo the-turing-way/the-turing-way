@@ -63,7 +63,7 @@ If you use GitHub, GitLab or similar, consider creating a `CITATION` file in eac
 
 As part of the citation for your software and data it is important to give people a persistent link to it, this will usually be a DOI.
 DOIs (or more formally Digital Object Identifiers) are unique, persistent identifiers which are attached to a digital object such as a journal article, dataset or piece of software.
-Using DOIs makes it much easier for others to cite your data, reduces the risk of linkrot and means you can track how your research is being used and cited.
+Using DOIs makes it much easier for others to cite your data, reduces the risk of link rot and means you can track how your research is being used and cited.
 
 ### Add machine-readable referencing information
 
@@ -132,7 +132,7 @@ To make your code citeable, you can use the integration between [Zenodo](https:/
 - Create a file to tell people how to cite your software. Use this [handy guide](https://citation-file-format.github.io/cff-initializer-javascript/) to format the file.
 - Link your GitHub account with a Zenodo account. This guide explains [how](https://guides.github.com/activities/citable-code/).
 - You can tell Zenodo what information or metadata you want to include with your software by adding a `zenodo.json` file, described [here](https://guide.esciencecenter.nl/citable_software/making_software_citable.html).
-- On Zenodo, flip the swith to the 'on' position for the GitHub repository you want to release
+- On Zenodo, flip the switch to the 'on' position for the GitHub repository you want to release.
 - On GitHub, click the *Create a new release* button.
 Zenodo should automatically be notified and should make a snapshot copy of the current state of your repository (just one branch, without any history), and should also assign a persistent identifier (DOI) to that snapshot.
 - Use the DOI in any citations of your software and tell any collaborators and users to do the same!
@@ -140,25 +140,26 @@ Zenodo should automatically be notified and should make a snapshot copy of the c
 ## Making sure YOU get cited by using ORCID to increase your visibility
 
 ### What is ORCID?
-- ORCID is short for ‘Open Researcher and Contributor iD'
+- ORCID is short for ‘Open Researcher and Contributor ID'.
 - ORCID is a long lasting unique identifier for you as a researcher, comparable to a personal identification number that your government may issue to you.
 
 You can watch this short video for more information https://vimeo.com/97150912
 
 ### Why should you get an ORCID?
-- To distinguish yourself from others with the same or a similar name;
-- To enable others to find all your outputs/related outputs so they can use and cite them
+- To distinguish yourself from others with the same or a similar name.
+- To enable others to find all your outputs/related outputs so they can use and cite them.
 - All your outputs will remain linked to your unique identifier even if you change your name or your institute. This way, you only have to enter the information once.
-- to access or sign up to services that utilise ORCID, for example publisher requirements, funding management portals ([ResearchFish](ResearchFish)), the [CRIS (current research information system)](https://en.wikipedia.org/wiki/Current_research_information_system) system at your institute, like the [Zenodo](https://zenodo.org) repository.
-- you can add your ORCID to your CV/resume so that anyone can have a look at all your research outputs.
+- To access or sign up to services that utilise ORCID, for example publisher requirements, funding management portals ([ResearchFish](ResearchFish)), the [CRIS (current research information system)](https://en.wikipedia.org/wiki/Current_research_information_system) system at your institute, like the [Zenodo](https://zenodo.org) repository.
+- You can add your ORCID to your CV/resume so that anyone can have a look at all your research outputs.
+- You can also use your ORCID profile to create a CV using [ROpenSci package rorcid](rorcid: https://github.com/ropensci/rorcid) as described [here](https://discuss.ropensci.org/t/using-rorcid-to-generate-a-website-cv/1806). 
 
 ### How do you get an ORCID?
 You can sign up very quickly here: https://orcid.org/login
-Once you have signed up and verify your email address you can start adding in your outputs by importing them through [trusted organisations](https://support.orcid.org/hc/en-us/articles/360006973893) and [search and link wizards](https://support.orcid.org/hc/en-us/articles/360006973653-Add-works-by-direct-import-from-other-systems)
+Once you have signed up and verified your email address you can start adding in your outputs by importing them through [trusted organisations](https://support.orcid.org/hc/en-us/articles/360006973893) and [search and link wizards](https://support.orcid.org/hc/en-us/articles/360006973653-Add-works-by-direct-import-from-other-systems)
 
 
 ### When do you use your ORCID?
-You can use your ORCID iD whenever you’re prompted to do so, give your [trusted organisations](https://support.orcid.org/hc/en-us/articles/360006973893) (funders, publishers, institutions) permission to automatically update your ORCID record.
+You can use your ORCID ID whenever you’re prompted to do so, give your [trusted organisations](https://support.orcid.org/hc/en-us/articles/360006973893) (funders, publishers, institutions) permission to automatically update your ORCID record.
 
 <!-- TODO: more examples, especially data journals -->
 
@@ -187,22 +188,22 @@ You can use your ORCID iD whenever you’re prompted to do so, give your [truste
 
 ### For authors
 
-- [ ] Pick out key datasets and software your conclusions rely on
-- [ ] Cite data and software just like you would cite a paper
-- [ ] Publish your own data/software and cite that too
-- [ ] Get an ORCID ID!
+- Pick out key datasets and software your conclusions rely on
+- Cite data and software just like you would cite a paper
+- Publish your own data/software and cite that too
+- Get an ORCID ID!
 
 ### For data creators
 
-- [ ] Deposit your data in a stable repository
-- [ ] Get a persistent identifier (DOI) for your data
-- [ ] Include an example citation in your dataset's README file
+- Deposit your data in a stable repository
+- Get a persistent identifier (DOI) for your data
+- Include an example citation in your dataset's README file
 
 ### For software developers
 
-- [ ] Deposit key version snapshots of your software in a stable repository
-- [ ] Get a distinct persistent identifier for each key version
-- [ ] Include an example citation in your software manual
+- Deposit key version snapshots of your software in a stable repository
+- Get a distinct persistent identifier for each key version
+- Include an example citation in your software manual
 
 <!-- ## What to learn next -->
 
@@ -215,9 +216,5 @@ You can use your ORCID iD whenever you’re prompted to do so, give your [truste
 - [Getting Started with your ORCID record](https://support.orcid.org/hc/en-us/articles/360006896894-Getting-started-with-your-ORCID-record)
 - [Making software citeable](https://guide.esciencecenter.nl/citable_software/making_software_citable.html)
 - [OpenAIRE Guide on Person Identifiers](https://www.openaire.eu/how-can-identifiers-improve-the-dissemination-of-your-research-outputs)
-
-## Definitions/glossary
-
-Digital Object Identifiers (DOIs) - an alpha-numeric string which acts as a unique, persistent identifier for a digital object (journal article, data, software and so on).
 
 <!-- ## Bibliography -->
