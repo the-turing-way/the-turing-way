@@ -1,4 +1,4 @@
-[comment]: <This is a templatefor taking collaborative notes during a Build a BinderHub workshop. It has been formatted to be Markdown compatible and should "just work" when copy-pasted into HackMD.io>
+[comment]: <This is a template for taking collaborative notes during a Build a BinderHub workshop. It has been formatted to be Markdown compatible and should "just work" when copy-pasted into HackMD.io>
 
 # Notes from Build a BinderHub workshop
 
