@@ -73,7 +73,7 @@ These are all workplaces: they have workplace policies, and unions can help crea
 
 ### A Bit of History: The Association of Scientific Workers (United Kingdom) 
 
-This was an trade union for scientists founded in the early 20th Century, which had a leading role in founding similar unions across the globe. 
+This was a trade union for scientists founded in the early 20th Century, which had a leading role in founding similar unions across the globe. 
 
 ```{figure} ../../figures/scientificunionbadge.png
 ![A blue enamel badge with AScW printed on it on a wooden background](https://i.imgur.com/V0Wcgbg.jpg)
