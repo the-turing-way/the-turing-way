@@ -5,7 +5,7 @@ Write about each one in a different `chapter-content.md` file.
 Make as many copies of this file as you need for all your subchapters
 -->
 
-(sectioninitials-filename)=
+(er-activism-ethics)=
 # Activism as ethical practice
 
 > **Write an introduction for your subchapter here**.
