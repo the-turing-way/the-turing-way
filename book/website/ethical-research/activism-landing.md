@@ -9,27 +9,20 @@ There are no prerequistes for this chapter.
 (er-activism-landing-summary)=
 ## Summary
 
-
+This chapter covers why activism can be an [important part of ethical data science practice.](https://the-turing-way.netlify.app/ethical-research/ethical-research/activism/activism-ethics.md)
+It also covers different kinds of activism and how you can be an activist within your workplace, your field, your country, or the world at large!
 
 (er-activism-landing-motivation)=
 ## Motivation and Background
-
-Activism can take many forms and achieve many different things, but it's most effective when people work together as a community with a shared goal. 
-However, it can be difficult to know where to start when you want to make a change. 
 
 There are many different scenarios where scientists and researchers would engage in activism to achieve change, such as a different institutional policy on open data, increasing ethical standards of research (see the [Ethics Book](https://the-turing-way.netlify.app/ethical-research/ethical-research.html)), or improving working conditions. 
 Scientists may engage in activism across topics related to their work, institutions, fields, or cross-disciplinary issues such as open research, or on topics unrelated to their career. 
 
 The [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/activism) defines activism as "the use of direct and noticeable action to achieve a result, usually a political or social one". 
-You don't have to have a lot of experience
+Activism can take many forms and achieve many different things, but it's most effective when people work together as a community with a shared goal. 
 
-> **Explain why readers should pay attention to this chapter.**
-> For example, how can your chapter's content have a positive impact on your reader's data science project?
-> Think about the reader demographic that would be interested in your chapter and tailor this section appropriately.
-> Remember to cross-reference relevant subchapters using this directive: `{ref}Subchapter<sectioninitials-filename-subchaptername>`.
-
-This chapter covers why activism can be an [important part of ethical data science practice.](https://the-turing-way.netlify.app/ethical-research/ethical-research/activism/activism-ethics.md)
-It will also cover different kinds of activism and how you can be an activist within your workplace, your field, your country, or the world at large!
+You don't have to have a lot of experience in activism - or even call yourself an activist - to put some of these methods into practice. 
+However, it can be difficult to know where to start when you want to make a change. 
 
 Activism in your workplace can include:
 * [*Unionisation*](https://the-turing-way.netlify.app/ethical-research/ethical-research/activism/activism-unionisation.md) collective organisation of workers to improve working conditions 
@@ -40,12 +33,10 @@ In the future, we would like to expand this chapter to include guides to activis
 
 Activism in your field can include 
 * Working to change policies and practices for professional organisations.
+* Outreach to encourage people to work in your field, especially people from backgrounds that are underrepresented 
 
 Activism can also work towards changing laws or policies: for example, lobbying for better data protection legislation in your country, or for resources to implement existing laws.
 
 Activism can also be part of changing the world for the better! 
 This can include for example awareness-raising about data literacy.
-
-
-(sectioninitials-filename-motivation)=
 
