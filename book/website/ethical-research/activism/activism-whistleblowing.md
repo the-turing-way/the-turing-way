@@ -18,7 +18,7 @@ This can include third-party reporting systems.
 
 ## Blowing the whistle
 If you are considering whistleblowing, make sure you are aware of what protections are - and are not - in place in your country, and in your organisation.
-You may want to seek legal advice about what procedures you should follow and what measures you should take to protect yourself. (Link to legal advice disclaimer)
+You may want to seek legal advice about what procedures you should follow and what measures you should take to protect yourself. <!--(Link to legal advice disclaimer)-->
 
 ## Case study: exposing racial and gender discrimination
 In June 2020, Ifeoma Ozoma and Aerica Shimizu Banks went public about the [racial and gender discrimination](https://www.theguardian.com/technology/2020/dec/18/pinterest-gender-discrimination-lawsuit-black-workers) that they faced while working at Pinterest. 
