@@ -342,13 +342,13 @@
     file: ethical-research/activism
     sections:
     - title: Activism as ethical practice
-      file: collaboration/activism/activism-ethics
+      file: ethical-research/activism/activism-ethics
     - title: Unionisation
-      file: collaboration/activism/activism-unionisation
+      file: ethical-research/activism/activism-unionisation
     - title: Internal Policy Advocacy
-      file: collaboration/activism/activism-internal-policy
+      file: ethical-research/activism/activism-internal-policy
     - title: Whistleblowing
-      file: collaboration/activism/activism-whistleblowing
+      file: ethical-research/activism/activism-whistleblowing
 
 # ===== Community Handbook Guide ========================================
 
