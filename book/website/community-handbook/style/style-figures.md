@@ -80,7 +80,6 @@ Another advantage of using alt text is when an image cannot be loaded in a brows
 
 ```{figure} ../../figures/alt-text-demo.png
 ---
-height: 500px
 name: file-broken-link
 alt: Two people happily browsing files in a drawer of documents.
 ---
