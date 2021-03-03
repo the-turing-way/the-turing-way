@@ -193,6 +193,10 @@
       file: reproducible-research/ci/ci-github-actions
     - title: Building a Block of a Github actions
       file: reproducible-research/ci/ci-building-gh-actions.md
+    - title: Adding code coverage to your CI workflow
+      file: reproducible-research/ci/ci-coverage.md
+    - title: Secrets and Containers
+      file: reproducible-research/ci/secrets.md
     - title: Best practices and recommendations
       file: reproducible-research/ci/ci-practices
     - title: Checklist
