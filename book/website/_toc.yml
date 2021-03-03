@@ -340,6 +340,15 @@
     file: ethical-research/preclinical-research
   - title: Activism for Researchers
     file: ethical-research/activism
+    sections:
+    - title: Activism as ethical practice
+      file: collaboration/activism/activism-ethics
+    - title: Unionisation
+      file: collaboration/activism/activism-Unionisation
+    - title: Internal Policy Advocacy
+      file: collaboration/activism/activism-internal-Policy
+    - title: Whistleblowing
+      file: collaboration/activism/activism-whistleblowing
 
 # ===== Community Handbook Guide ========================================
 
