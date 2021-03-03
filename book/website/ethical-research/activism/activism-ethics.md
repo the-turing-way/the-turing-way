@@ -37,13 +37,6 @@ In the label, replace `keyidea1` with a word that best describes the section or 
 > To include an image in your writing, use the MyST directive shown below. 
 > Remember to add your image to the `figures` [folder](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/website/figures) and use the correct path, else it will not be displayed.
 
-```{figure} ../../figures/image-name.png
----
-name: image-name
-alt: describe your image for readers who rely on screen readers
----
-Your image caption here
-```
 
 > To include code blocks, simply enclose your code in three sets of backticks shown below.
 
