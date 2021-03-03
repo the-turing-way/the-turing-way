@@ -24,6 +24,9 @@ Activism can take many forms and achieve many different things, but it's most ef
 You don't have to have a lot of experience in activism - or even call yourself an activist - to put some of these methods into practice.
 However, it can be difficult to know where to start when you want to make a change.
 
+(er-activism-ways)=
+## Ways to make change
+
 Activism in your workplace can include:
 * [*Unionisation*](https://the-turing-way.netlify.app/ethical-research/ethical-research/activism/activism-unionisation.md) collective organisation of workers to improve working conditions
 * [*Internal policy advocacy*](https://the-turing-way.netlify.app/ethical-research/ethical-research/activism/activism-internal-policy.md) campaigning to change the way your institution makes decisions or handles certain situations: this can include, for example, advocating for open data practices!
@@ -36,8 +39,7 @@ Activism in your field can include
 * Outreach to encourage people to work in your field, especially people from backgrounds that are underrepresented
 
 Activism can also work towards changing laws or policies: for example, lobbying for better data protection legislation in your country, or for resources to implement existing laws.
-In Australia, activists collaborated with legal aid groups to set up formal appeals processes against 'Robodebt:' an automated system that told welfare benefits recipients that they owed money.
-
+In Australia, activists collaborated with legal aid groups to [resist 'Robodebt:']() an automated system that told welfare benefits recipients that they owed money.
 
 Activism can also be part of changing the world for the better!
 This can include for example awareness-raising about data literacy.
