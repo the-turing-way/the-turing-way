@@ -1,7 +1,6 @@
-# Case Study: Activism and Resistance
+(er-activism-robodebt)=
+# Case Study: Tackling Robodebt
  
-
-
 The Australian Online Compliance Initiative (OCI - dubbed the 'robodebt' debacle by media) involved a large-scale data matching project between the federal Tax Office and the Dept of Human Services. 
 The automated system sending out debt notices based on this data matching exercise was set up at scale quite quickly resulting in disproportionate impact on those with low socioeconomic status.
 
@@ -15,7 +14,6 @@ The system compiles a formal request for review, prints it off, and sends it by 
 * Submits a Freedom of Information request for the individual's Centrelink file -- so that they have all the necessary information to fight back.
 * The campaign is archived here: [link] (https://fraudstop.com.au/) and here [link] (https://www.getup.org.au/campaigns/income-support/chip-in-to-expand-fraudstop/)
 
-These examples could form a section on activism drawing on legal avenues and referring to institutional capacity to engage with unfair automated systems in place. //@LauraCarter possibly links up to your subsection on law and policy?//
 
 ## Further Reading 
 A September 2020 report by Michele Gilman at the Data and Society Research Institute draws on existing public law frameworks to provide guidance to lawyers on how to challenge automated decision making that disproportionately harms low income communities.
