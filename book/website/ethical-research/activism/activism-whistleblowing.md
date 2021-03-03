@@ -16,7 +16,7 @@ For example, the EU [Whistleblower Protection Directive](https://www.cliffordcha
 Some companies have policies in place to protect whistleblowers.
 This can include third-party reporting systems. 
 
-## Blowing the whistle
+## Protecting yourself
 If you are considering whistleblowing, make sure you are aware of what protections are - and are not - in place in your country, and in your organisation.
 You may want to seek legal advice about what procedures you should follow and what measures you should take to protect yourself. <!--(Link to legal advice disclaimer)-->
 
