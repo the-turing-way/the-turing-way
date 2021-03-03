@@ -1,22 +1,27 @@
-(sectioninitials-filename)=
+(er-activism-landing)=
 # Activism
 
-(sectioninitials-filename-prerequisites)=
+(er-activism-landing-prerequisites)=
 ## Prerequisites
 
 There are no prerequistes for this chapter. 
 
-(sectioninitials-filename-summary)=
+(er-activism-landing-summary)=
 ## Summary
 
-The [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/activism) defines activism as "the use of direct and noticeable action to achieve a result, usually a political or social one". 
-There are many different scenarios where scientists and researchers would engage in activism to achieve change, such as a different institutional policy on open data, increasing ethical standards of research (see the [Ethics Book](https://the-turing-way.netlify.app/ethical-research/ethical-research.html)), or improving working conditions. 
-Scientists may engage in activism across topics related to their work, institutions, fields, or cross-disciplinary issues such as open research, or on topics unrelated to their career. 
 
+
+(er-activism-landing-motivation)=
 ## Motivation and Background
 
 Activism can take many forms and achieve many different things, but it's most effective when people work together as a community with a shared goal. 
 However, it can be difficult to know where to start when you want to make a change. 
+
+There are many different scenarios where scientists and researchers would engage in activism to achieve change, such as a different institutional policy on open data, increasing ethical standards of research (see the [Ethics Book](https://the-turing-way.netlify.app/ethical-research/ethical-research.html)), or improving working conditions. 
+Scientists may engage in activism across topics related to their work, institutions, fields, or cross-disciplinary issues such as open research, or on topics unrelated to their career. 
+
+The [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/activism) defines activism as "the use of direct and noticeable action to achieve a result, usually a political or social one". 
+You don't have to have a lot of experience
 
 > **Explain why readers should pay attention to this chapter.**
 > For example, how can your chapter's content have a positive impact on your reader's data science project?
