@@ -39,7 +39,7 @@ Activism in your field can include
 * Outreach to encourage people to work in your field, especially people from backgrounds that are underrepresented
 
 Activism can also work towards changing laws or policies: for example, lobbying for better data protection legislation in your country, or for resources to implement existing laws.
-In Australia, activists collaborated with legal aid groups to [resist 'Robodebt:']() an automated system that told welfare benefits recipients that they owed money.
+In Australia, activists collaborated with legal aid groups to [resist 'Robodebt:'](https://the-turing-way.netlify.app/ethical-research/ethical-research/activism/activism-robodebt.md) an automated system that told welfare benefits recipients that they owed money.
 
 Activism can also be part of changing the world for the better!
 This can include for example awareness-raising about data literacy.
