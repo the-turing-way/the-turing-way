@@ -201,7 +201,7 @@ This is ideal for files up to **10MB**.
 To access medium files **from a few 10s MB up to a few hundred MB**, you can add a file called `postBuild` to your repo.
 A `postBuild` file is a shell script that is executed as part of the image construction and is only executed once when a new image is built, not every time the Binder is launched.
 
-See [Binder's `postBuild` example](https://mybinder.readthedocs.io/en/latest/config_files.html#postbuild-run-code-after-installing-the-environment) for more uses of the `postBuild` script.
+See [Binder's `postBuild` example](https://mybinder.readthedocs.io/en/latest/using/config_files.html#postbuild-run-code-after-installing-the-environment) for more uses of the `postBuild` script.
 
 **N.B.:** New images are only built when Binder sees a new commit, not every time you click the Binder link.
 Therefore, the data is only downloaded once when the Docker image is built, not every time the Binder is launched.
