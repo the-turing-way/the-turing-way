@@ -10,7 +10,31 @@ Travis offers many functionalities not described here for automating other proce
 
 A list of example Travis builds and tests for various languages/frameworks is available [here](https://github.com/softwaresaved/build_and_test_examples).
 
+<<<<<<< HEAD
 Travis's official tutorial is [here](https://docs.travis-ci.com/user/tutorial/). A tutorial focused on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), tutorials geared towards Python can be found [here](https://docs.python-guide.org/scenarios/ci/) and [here](https://docs.travis-ci.com/user/languages/python/).
+=======
+Travis's official tutorial is [here](https://docs.travis-ci.com/user/tutorial/). A tutorial focussed on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), tutorials geared towards python can be found [here](https://docs.python-guide.org/scenarios/ci/) and [here](https://docs.travis-ci.com/user/languages/python/).
+
+## Definitions/glossary
+
+**Build:** A group of jobs. For example, a build might have two jobs, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
+
+**Computational environment:** The environment where a project is run, including the operating system, the software installed on it, and the versions of both.
+
+**Continuous integration:** The process of regularly combining the work of project members into a centralised version. Also called CI. CI software typically runs tests on the integrated version of a project to identify conflicts and bugs introduced by the integration.
+
+**GitHub:** A widely used version control platform.
+
+**Job:** An automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code and running tests. A job fails if the return code of the script encounters an error.
+
+**GitHub Actions:** It is a CI/CD service that runs on GitHub repos.
+
+**Workflows** They are YAML files stored in the _.github/workflows_ directory of a repository.
+
+**Action** It is a package you can import and use in your **workflow**. GitHub provides an **[Actions Marketplace](https://github.com/marketplace?type=actions)** to find actions to use in workflows.
+
+**Job** It is a virtual machine that runs a series of **steps**. **Jobs** are parallelized by default, but **steps** are sequential by default.
+>>>>>>> add GHA vocabs to the glossary
 
 ## Bibliography
 
