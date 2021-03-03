@@ -5,27 +5,11 @@ Write about each one in a different `chapter-content.md` file.
 Make as many copies of this file as you need for all your subchapters
 -->
 
-(sectioninitials-filename)=
+(er-activism-unionisation)=
 # Unionisation
 
-
-<!-- 
-> Each of the key ideas you talk about in the introduction should have a section of its own.
-> When you mention a key idea in your introduction, remember to cross reference it to the section of your subchapter where you explain it further.
-> This will be useful for people who may only want to read specific parts of your content.
-> See the [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) for The Turing Way's recommendations on cross referencing.
-
-> In this template, we assume that our subchapter has three key ideas, your subchapter may have more or less than this. 
-
-> It may be beneficial to run your content through a grammar checker (such as Grammarly) to catch grammatical mistakes.
--->
-
-<!-- 
-In the label, replace `keyidea1` with a word that best describes the section or key idea you want to explain -->
-(sectioninitials-filename-unionisation)=
-## Unionisation
-
-### What is a union?
+(er-activism-unionisation-what)=
+## What is a union?
 
 A trade union is a formalised way for workers to organise and bargain collectively at an institutional, sectoral or national level. 
 A union is organised into branches which are spread geographically (for example, North London) or at an institutional level (for example, labs or departments), depending on the distribution of members and how the union works. Members of unions typically pay a monthly fee, although this is sometimes waived for certain categories of members, for example, the UK union UCU allows graduate students to join for free. 
@@ -34,7 +18,7 @@ Some members take up additional responsibilities as "reps" or "shop stewards", h
 
 In some, but not all countries, being a member of a trade union is a protected characteristic. This means organisations are not allowed to fire people for being members (but this has not always been the case). Under the General Data Protection Regulation (GDPR), the European Union considers union membership to be sensitive data and in the same category as genetic data or data on gender. 
 
-
+(er-activism-unionisation-unionactivities)=
 ## What can unions do? 
 
 Unions take lots of different actions to improve working conditions for their members. 
@@ -56,7 +40,7 @@ At an industry level, unions can:
 * Input into government policy through consultation responses or lobbying (for example, speaking to the press on an issue, writing articles, or submitting to formal processes such as hearings)
 * Organise strikes across whole industries
 
-
+(er-activism-unionisation-unionhow)=
 ## How does a union help scientists and researchers? 
 
 Scientists and researchers do lots of different roles, and there are specific ways that unions can help with those roles.
@@ -71,6 +55,7 @@ Scientists and researchers do lots of different roles, and there are specific wa
 Scientists and researchers work in universities, research institutions, and nonprofits. 
 These are all workplaces: they have workplace policies, and unions can help create policies and monitor whether they are being enforced.
 
+(er-activism-unionisation-unionhistory)=
 ### A Bit of History: The Association of Scientific Workers (United Kingdom) 
 
 This was a trade union for scientists founded in the early 20th Century, which had a leading role in founding similar unions across the globe. 
@@ -94,7 +79,7 @@ From the Instagram account [@BadgesofStruggle](https://www.instagram.com/badgeso
 The AScW communicated with members via branch bulletins as well as a national paper: The Scientific Worker [Click here to read a copy on the Wellcome Archive](https://wellcomelibrary.org/item/b19915299#?c=0&m=0&s=0&cv=0&z=-0.8157%2C-0.0826%2C2.6314%2C1.6529)
 
 
-
+(er-activism-unionisation-start)=
 ## I've never been part of a union before: where do I start?
 
 Start by finding out if there is a union already in your workplace.
@@ -106,6 +91,7 @@ You might be able to join one that is relevant to your industry or duties: or yo
 To join a union, you might have to pay union fees or dues. 
 These are almost always sliding scale, based on how much you earn: some unions also have free membership for people in certain positions or roles. 
 
+(er-activism-unionisation-unionjoin)=
 ## What you can do as a union member
 
 Unions are collective projects and they are people-powered!
@@ -131,6 +117,7 @@ Your union may ask you to take specific actions: for example, to sign a petition
 In some cases, your union may decide to consider or take strike action. 
 The process for going on strike differs in different unions, and in some countries there are legal restrictions that cover what kinds of actions are protected. 
 
+(er-activism-unionisation-representative)=
 ### Become a representative
 
 Like any community, unions need people to take on organisational roles within the union.
@@ -145,6 +132,7 @@ Some roles might include:
 The process for becoming a representative will vary depending on how your union operates.
 You might need to stand for election, or be approved by a meeting of union members. 
 
+(er-activism-unionisation-campaign)=
 ### Lead a campaign
 
 If you have issues in your workplace or industry that you feel strongly about then one way to push for change is by leading a campaign within your union (at either a branch or national level). 
@@ -155,6 +143,7 @@ As a starting point, it's good to have a clear issue and aim(s) in mind for what
 If you think this is what you want to do, your union will usually have resources on how to get started. 
 You can also find more practical steps in the Internal Policy Advocacy Sub-Chapter of the Ethics Book. 
 
+(er-activism-unionisation-resources)=
 #### More resources
 Most unions will have examples or guides on how to join or start campaigns (for example, UNISON, a UK union has a [webpage with details](https://www.unison.org.uk/get-involved/campaign-for-change/)).
 
@@ -163,6 +152,7 @@ Other organisations that offer training and support on how to campaign effective
 * [The Ella Baker School of Organising](https://www.ellabakerorganising.org.uk/)
 * [The Union of Concerned Scientists](https://www.ucsusa.org/building-skills-science-network)
 
+(er-activism-unionisation-unionexamples)=
 ### Examples of relevant unions 
 
 We recognise that the list below is very UK-centric and would welcome additions for other countries. 
@@ -189,7 +179,7 @@ We recognise that the list below is very UK-centric and would welcome additions 
 * **Professional Scientists Australia**, Australia (union covering industry scientists)[website](https://scientists.professionalsaustralia.org.au/)
 * [General list of Trade Unions in Australia](https://en.wikipedia.org/wiki/List_of_trade_unions_in_Australia)
 
-
+(er-activism-unionisation-summary)=
 ## Summary
 
 Unions offer support for researchers and scientists through many different avenues and there are a variety of ways to get involved in them. 
