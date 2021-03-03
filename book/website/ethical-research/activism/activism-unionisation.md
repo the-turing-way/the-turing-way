@@ -192,6 +192,7 @@ We recognise that the list below is very UK-centric and would welcome additions 
 
 ## Summary
 
-> **Add a short summary of this subchapter with key takeaways.**
-> You may also recommend and link to other chapters/subchapters you want your readers to explore after reading this subchapter.
+Unions offer support for researchers and scientists through many different avenues and there are a variety of ways to get involved in them. 
+The first thing to do is see which unions are active in your instution or field. 
+If your institution does not recognise a union, you can read through Whistleblowing and Internal Advocacy chapters for more ideas on how to work for change.
 
