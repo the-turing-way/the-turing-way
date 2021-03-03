@@ -9,24 +9,7 @@ In this section, we walk you through a basic setup of continuous integration usi
 - Triggering code reviews and pull requests
 - Managing branches
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-GitHub Actions are event-driven, meaning it responds to an event (e.g., PR created, issue created, etc.) and triggers an action (e.g., label, test, sort, ..).
-=======
-GitHub Actions are event-driven, meaning it responds ti an event (PR created, issue created, ...) and trigger an action (label, test, sort, ...). A collection of jobs are called a workflow.
-
->>>>>>> divide to sub-chapters
-=======
-GitHub Actions are event-driven, meaning it responds to an event (e.g., PR created, issue created, etc.) and triggers an action (e.g., label, test, sort, ..).
->>>>>>> add more describtion to the vocab sec
-=======
-GitHub Actions are event-driven, meaning it responds to an event (`PR` created, issue created, etc.) and triggers an action (label, test, sort, ..). A collection of actions is called a workflow.
->>>>>>> minor changes
-=======
 GitHub Actions are event-driven, meaning it responds to an event (`PR` created, issue created, ...) and triggers an action (label, test, sort, ...). A collection of actions is called a workflow.
->>>>>>> remove eg/etc
 
 ```{figure} ../../figures/gih_action_diagrame.png
 ---
@@ -56,16 +39,12 @@ alt: A gif showing where you can find GitHub Actions template in your Github rep
 
 #### 2- Using libraries-specific templates.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## GitHub-related Vocabulary
 =======
 
 
 # GitHub-related Vocabulary
->>>>>>> divide to sub-chapters
 <!-- (I'll explain each vocab separately using diagrams made with adobe illustrator) -->
-=======
 ## GitHub-related Vocabulary
 
 
@@ -77,7 +56,6 @@ name: GitHub action Structure
 alt: a diagrame showing how the workflow is divided into jobs and steps.
 ---
 ```
->>>>>>> add more describtion to the vocab sec
 
 **1. WorkFlow**
 
