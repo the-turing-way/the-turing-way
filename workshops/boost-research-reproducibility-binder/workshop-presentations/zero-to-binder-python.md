@@ -285,7 +285,7 @@ Now you've binderized (bound?) this demo repo, it's time to binderize the exampl
 - Choosing languages:
   - **<https://mybinder.readthedocs.io/en/latest/howto/languages.html>**
 - Configuration files:
-  - **<https://mybinder.readthedocs.io/en/latest/config_files.html>**
+  - **<https://mybinder.readthedocs.io/en/latest/using/config_files.html>**
 - Example Binder repos:
   - **<https://mybinder.readthedocs.io/en/latest/sample_repos.html>**
 - Getting data:
