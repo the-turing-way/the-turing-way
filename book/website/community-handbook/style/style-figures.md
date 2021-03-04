@@ -78,7 +78,7 @@ _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. 
 
 Another advantage of using alt text is when an image cannot be loaded in a browser, or the link to the image breaks, it is displayed in place of an figure like shown below:
 
-```{figure} ./file-collection.jpg
+```{figure} ../../figures/file-collection.jpg
 ---
 height: 500px
 name: file-broken-link
