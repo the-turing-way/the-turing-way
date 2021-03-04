@@ -281,7 +281,7 @@
     - title: Checklist and resources
       file: collaboration/github/github-resources
   - title: Maintainers and Reviewers on GitHub
-    file: collaboration/maintain-review.md
+    file: collaboration/maintain-review
     sections:
     - title: Project Maintenance
       file: collaboration/maintain-review/maintain-review-maintenance
@@ -311,25 +311,25 @@
     file: collaboration/remote-collab
     sections:
     - title: Organising Remote Meetings
-      file: collaboration/remote-collab/remote-collab-meetings.md
+      file: collaboration/remote-collab/remote-collab-meetings
     - title: Guidelines for Remote Collaboration
-      file: collaboration/remote-collab/remote-collab-guidelines.md
+      file: collaboration/remote-collab/remote-collab-guidelines
     - title: Tools for Remote Collaboration
-      file: collaboration/remote-collab/remote-collab-tools.md
+      file: collaboration/remote-collab/remote-collab-tools
     - title: Organising Online Coworking Calls
-      file: collaboration/remote-collab/remote-collab-coworking.md
+      file: collaboration/remote-collab/remote-collab-coworking
     - title: Organising Remote Conferences
-      file: collaboration/remote-collab/remote-collab-conferences.md
+      file: collaboration/remote-collab/remote-collab-conferences
     - title: Chairing Remote Events
-      file: collaboration/remote-collab/remote-collab-chairs.md
+      file: collaboration/remote-collab/remote-collab-chairs
     - title: Participating in Remote Events
-      file: collaboration/remote-collab/remote-collab-participation.md
+      file: collaboration/remote-collab/remote-collab-participation
     - title: Managing Distributed Teams
-      file: collaboration/remote-collab/remote-collab-management.md
+      file: collaboration/remote-collab/remote-collab-management
     - title: Informal Coffee Chats
-      file: collaboration/remote-collab/remote-collab-informal.md
+      file: collaboration/remote-collab/remote-collab-informal
     - title: Perceived Pros and Cons
-      file: collaboration/remote-collab/remote-collab-prosandcons.md
+      file: collaboration/remote-collab/remote-collab-prosandcons
 
 # ===== Ethical Research Guide ========================================
 - file: ethical-research/ethical-research
@@ -338,6 +338,17 @@
     file: ethical-research/ethics-intro
   - title: Ethical Decisions in Preclinical Research
     file: ethical-research/preclinical-research
+  - title: Activism for Researchers
+    file: ethical-research/activism
+    sections:
+    - title: Unionisation
+      file: ethical-research/activism/activism-unionisation
+    - title: Internal Policy Advocacy
+      file: ethical-research/activism/activism-internal-policy
+    - title: Whistleblowing
+      file: ethical-research/activism/activism-whistleblowing
+    - title: Case study - Robodebt
+      file: ethical-research/activism/activism-robodebt
 
 # ===== Community Handbook Guide ========================================
 

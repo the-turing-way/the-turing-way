@@ -1050,16 +1050,6 @@
       ]
     },
     {
-      "login": "ArielleBL",
-      "name": "Arielle Bennett-Lovell",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/47155465?v=4",
-      "profile": "https://github.com/ArielleBL",
-      "contributions": [
-        "ideas",
-        "review"
-      ]
-    },
-    {
       "login": "kdixey",
       "name": "Katherine Dixey",
       "avatar_url": "https://avatars2.githubusercontent.com/u/59925972?v=4",
@@ -2010,7 +2000,8 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/32542663?v=4",
       "profile": "https://www.lse.ac.uk/media-and-communications/people/research-staff/asha-titus",
       "contributions": [
-        "review"
+        "review",
+        "content"
       ]
     },
     {
@@ -2343,6 +2334,17 @@
       "profile": "https://github.com/Lovkush-A",
       "contributions": [
         "bug"
+      ]
+    },
+    {
+      "login": "Arielle-Bennett",
+      "name": "Arielle-Bennett",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74651964?v=4",
+      "profile": "https://github.com/Arielle-Bennett",
+      "contributions": [
+        "ideas",
+        "review",
+        "content"
       ]
     }
   ],
