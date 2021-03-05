@@ -1,4 +1,5 @@
 
+
 [![قراءة الكتاب](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com)
 [![أنضم إلى قائمتنا البريدية](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
 [![دردشة وشات على الرابط https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
@@ -55,11 +56,10 @@ Open-Science-Fair-2019
 هذا المشروع دائمًا في عمل مستمر ويتم تشجيع الجميع على مساعدتنا في بناء شيء مفيد للكثيرين.
 إذا لم تكن واثقًا من المساهمة في بوابة جيت هب،
 فيمكنك أيضًا المساهمة بدراسة حالة وتقديم نصائحك وحيلك عبر نموذج إرسال جوجل
+<a href="https://goo.gl/forms/akFqZEIy2kxAjfZW2">الخاص بنا</a>
+
 </div>
 
-[الخاص بنا
-](
-https://goo.gl/forms/akFqZEIy2kxAjfZW2)
 
 
 ### <div dir="RTL">النقل والإستشهاد بالكتاب</div>
@@ -68,11 +68,10 @@ https://goo.gl/forms/akFqZEIy2kxAjfZW2)
 يمكنك الإسشهاد بالكتاب عن طريق أرشيف الكتاب الموجود في
 Zenodo
 من خلال 
+<a href="10.5281/zenodo.3233853">هذا الرابط</a>
+
 </div>
 
-[10.5281/zenodo.3233853
-](
-https://doi.org/10.5281/)
 
 <div dir="RTL">
 تسمح لنا المعرّفات الرقمية المعرفية بأرشفة الكتاب وهي مفيدة حقًا لضمان تتبع العمل في المنشورات الأكاديمية
@@ -92,52 +91,49 @@ https://doi.org/10.5281/)
 
 <div dir="RTL">
 ولكن كن على علم بأن المشروع قيد التطوير، وبالتالي قد تتغير هذه الروابط بمرور الوقت، قد ترغب في تضمين رابط أرشيف ويب مثل
+<a href="https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html">Web Archive</a>
 </div>
 
- https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html
 
 <div dir="RTL">
 للتأكد و لكي لا ينتهي بك الأمر مع روابط معطلة في كل مكان!
 نحن نقدر حقًا أي أستشهاد أو اقتباس تقدمها إلى المشروع
 (طريقة تورنج)
 ونأمل أن يكون المشروع ذو فائدة قيمة لك، إذا كان لديك أي أسئلة يرجى
+<a href="##get-in-touch">التواصل معنا</a>
+
 </div>
 
 
-[التواصل معنا
-](
-##get-in-touch).
+
 
 <div dir="RTL">
 فيما يخص الرسوم التوضيحية، 
 تم إنشاء الرسوم التوضيحية
  بواسطة فنانين
-
+<a href="https://www.scriberia.co.uk/">Scriberia</a>
 </div>
+<br/>
 
-[
-Scriberia
-](
-https://www.scriberia.co.uk/)
 
 
 <div dir="RTL">
 كجزء من من كتاب طريقة تورنج
 في مانشستر في 17 مايو 2019 ، ولندن في 28 مايو 2019 و 21 فبراير 2020. وهي تصور مجموعة متنوعة من المحتوى ، والجهود التعاونية في المشروع
  هذه الرسوم التوضيحية متاحة على
-
+<a href="https://zenodo.org/record/3695300">Zenodo</a>
 </div>
-
+<br/>
 
 
  
- Zenodo
-[https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300)
+
 
 <div dir="RTL">
 بموجب ترخيص
-</div>
 CC-BY.
+
+</div>
 
 <div dir="RTL">
 عند استخدام أي من الصور ، يرجى تضمين الإحالة التالية
@@ -147,9 +143,11 @@ CC-BY.
 
 <div dir="RTL">
 وأحدث إصدار من
+Zenodo
+
 </div>
 
-Zenodo
+
 <div dir="RTL">
 يمكن الإحالة بهذه الطريقة
 </div>
@@ -159,9 +157,10 @@ Zenodo
 
 <div dir="RTL">
 لقد استخدمنا بعضًا من هذه الرسوم التوضيحية في ردود برنامج
+ <a href="https://github.com/apps/welcome">Welcome Bot</a>
 </div>
 
-[Welcome Bot](https://github.com/apps/welcome)
+
 <div dir="RTL">
 على مساهمات الأعضاء الجدد في بوابة جيت هب.
 </div>
@@ -169,43 +168,57 @@ Zenodo
 ### <div dir="RTL">ابقى على تواصل</div>
 <div dir="RTL">
 لدينا غرفة محادثة رائعة ونود أن نرحب بك على
+ <a href="https://gitter.im/alan-turing-institute/the-turing-way">Gitter</a>
+
  </div>
  
- https://gitter.im/alan-turing-institute/the-turing-way.
  
  <div dir="RTL">
 تتم مزامنة هذه الغرفة أيضًا مع
- </div>
+ <a href="https://matrix.org">Matrix</a>
+</div>
 
-[Matrix](https://matrix.org)
+<br/>
+
  <div dir="RTL">
  في
+ <a href="https://riot.im/app/#/room/#the-turing-way:matrix.org">the-turing-way:matrix.org</a>
+
  </div>
 
-[#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org)
+
  <div dir="RTL">
 فنحن نرحب بك للانضمام إلينا هناك إذا كنت تفضل ذلك.
 لدينا أيضًا قائمة بريدية صغيرة نرسل إليها تحديثات المشروع الشهرية. اشترك على
+<a href="https://tinyletter.com/TuringWay">tinyletter</a>
+
  </div>
- 
-https://tinyletter.com/TuringWay.
+<br/>
+
  <div dir="RTL">
 يمكنك التواصل مع منظمة الكتاب 
 Malvika Sharan
-عبر البريد الإلكتروني على
+عبر 
+<a href="mailto:msharan@turing.ac.uk">البريد الإلكتروني</a>
+
  </div>
  
- msharan@turing.ac.uk.
 
  <div dir="RTL">
 بدلاً من ذلك ، يمكنك الاتصال بالباحث الرئيسي
 Kirstie Whitaker
-عبر البريد الإلكتروني على
+عبر  
+<a href="mailto:kwhitaker@turing.ac.uk">البريد الإلكتروني</a>
  </div>
 
 
-kwhitaker@turing.ac.uk.
 
+ <div dir="RTL">
+ كذلك ، يمكنك الاتصال بالمساعد
+Ahmed Essam
+عبر  
+<a href="mailto:aehanaffi@gmail.com">البريد الإلكتروني</a>
+ </div>
 
 ### <div dir="RTL">المساهمون</div>
 <div dir="RTL">
