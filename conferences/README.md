@@ -43,3 +43,4 @@ THANK YOU to every member of the community who spreads the word! :sparkling_hear
 | [ACM FAccT Conference 2021](https://facctconference.org/2021/cfw.html) | 3-10 March 2021 | [https://zenodo.org/record/4420152#.X_S-VeAaT1w](https://zenodo.org/record/4420152#.X_S-VeAaT1w) | Awaiting acceptance/rejection
 | [RightsCon2021](https://www.rightscon.org/program/) | 7-11 June 2021 | [2021-01-RightsCon.md](./abstracts/2021-01-RightsCon.md) | Not yet submitted (deadline is 26 Jan 2021)
 | [Saudi Data Community](https://www.datacommunitysa.com/home/) | 17 Feb 2021 | ["An Open Science Approach to Machine Learning in Biomedical Research"](https://github.com/BatoolMM/An-Open-Science-Approach-to-Machine-Learning) | [https://zenodo.org/record/4557637](https://zenodo.org/record/4557637) | [https://zenodo.org/record/4557637)](https://zenodo.org/record/4557637)) |
+
