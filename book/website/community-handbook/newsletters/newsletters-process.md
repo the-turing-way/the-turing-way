@@ -36,7 +36,7 @@ Based on what we currently publish, collect information from the listed resource
 1. **Community meetings**: review the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon) for upcoming events such as Collaboration Café, book dash and workshops.
 
 2. **News from the community**: check Twitter for updates on the [official account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click, see the Github repository for [issues](https://github.com/alan-turing-institute/the-turing-way/issues) for ongoing discussions, recently [merged PRs](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) and new chapters.
-You can also ask in the [Slack channel](theturingway.slack.com) if someone would like to add something to the newsletter.
+You can also ask in the [Slack channel](https://theturingway.slack.com) if someone would like to add something to the newsletter.
 In this part, also highlight any important milestones in the project that were either established or achieved over the last month.
 
 4. **Relevant resources for the community**: check Twitter and online posts for any recent publication from the community members, resources for training or skill-building or any other materials like blog posts or articles published in the network that could be useful for others.
@@ -93,7 +93,7 @@ After the review process, each reviewer's name can be added under the special me
 
 ### Publication process
 
-We are currently using [TinyLetter](tinyletter.com/) to publish our newsletters.
+We are currently using [TinyLetter](https://tinyletter.com/) to publish our newsletters.
 TinyLetter is a subsidiary of [MailChimp](https://mailchimp.com/), that offers a simplified interface based free service for setting up an email newsletter and sharing it with subscribers.
 
 Here are the steps for publishing the newsletter draft online and send by email to the subscribed members:
@@ -113,5 +113,5 @@ Here are the steps for publishing the newsletter draft online and send by email 
 
 - Update the index table in the [README.md file](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/README.md) with the details of the newly published newsletter.
 - Tweet about it from [@turingway](https://twitter.com/turingway).
-- Send a notification on [Gitter](https://gitter.im/alan-turing-institute/the-turing-way) and [Slack](theturingway.slack.com) channels.
+- Send a notification on [Gitter](https://gitter.im/alan-turing-institute/the-turing-way) and [Slack](https://theturingway.slack.com) channels.
 - Do a celebratory dance! (This is mandatory! 💃)
