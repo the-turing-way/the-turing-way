@@ -1,5 +1,6 @@
 
 
+
 [![قراءة الكتاب](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com)
 [![أنضم إلى قائمتنا البريدية](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
 [![دردشة وشات على الرابط https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
@@ -13,13 +14,16 @@
 </div>
 
 ## <div dir="rtl"> المحتويات:</div>
-#### <div dir="rtl"><ul>
+#### <div dir="rtl">
+<div dir="rtl"> 
+  <ul>
  <li>حول المشروع</li>
  <li>الفريق</li>
  <li>المساهمة</li>
  <li>النقل والأستشهاد بالكتاب</li>
  <li>كيفية التواصل </li>
- <li>المساهمون</li></ul></div>
+ <li>المساهمون</li></ul>
+ </div>
 
 <div dir="RTL">🎧 إذا كنت تفضل مقدمة صوتية للمشروع ،  فقد قدمت عضوة فريقنا راشيل في معرض
 Open-Science-Fair-2019
