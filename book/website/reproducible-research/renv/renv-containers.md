@@ -409,9 +409,7 @@ If, when deleting a container, a `-v` is included after `rm` in `sudo docker rm 
 ## Singularity
 
 
-> **Prerequisites**: At present, Singularity only runs on Linux systems (for example Ubuntu). If you use, macOS,
-
-> [Singularity Desktop for macOS](https://www.sylabs.io/singularity-desktop-macos/) is in "Alpha Preview" stage.
+> **Prerequisites**: At present, Singularity only runs on Linux systems (for example Ubuntu). If you use macOS, [Singularity Desktop for macOS](https://www.sylabs.io/singularity-desktop-macos/) is in "Beta" release stage.
 
 A significant drawback of using Docker for reproducible research is that it is not intended as a user-space application but as a tool for server administrators. 
 As such, it requires root access to operate. 
