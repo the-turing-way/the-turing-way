@@ -464,8 +464,8 @@ helm install binderhub jupyterhub/binderhub \
   Available versions can be found [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub).
   We have used the version released on 11 August 2019.
 * It is recommended that `--namespace` be the same as the provided `NAME` in order to avoid confusion.
-  In this case, our `NAME` is `binderhub`.
   It should be something short and descriptive.
+  In this case, our `NAME` is `binderhub`, defined immediately after `helm install`.
 * `--create-namespace`: In Helm v3, the namespace is no longer automatically created it if doesn't already exist.
   We use this flag to replicate that behaviour.
 
