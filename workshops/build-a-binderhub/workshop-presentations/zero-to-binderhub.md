@@ -321,6 +321,9 @@ From the left-side menu, select "Activity log".
 #### D. View the logs for Managed Cluster
 
 The logs for deploying the cluster will be under "Managed Cluster".
+The second column contains the status of the deployment.
+This will say "Succeeded" if everything went well.
+If not, opening the logs should provide more detail as to what went wrong.
 
 ![Managed Cluster Logs](../binderhub_resources/activity_log2.png)
 
