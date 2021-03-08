@@ -156,7 +156,7 @@ Accept any prompts you see.
 We're going to download some template YAML files and a shell script that will automatically populate them with information using [`sed`](http://www.grymoire.com/Unix/Sed.html).
 This will make the BinderHub setup less intensive.
 
-Make a folder to store this files and change into it.
+Make a folder to store these files and change into it.
 
 ```bash
 mkdir testhub
@@ -175,7 +175,7 @@ wget -O secret-template.yaml http://bit.ly/secret-template
 
 :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light: :vertical_traffic_light:
 
-Make the shell script executable will the following command.
+Make the shell script executable with the following command.
 
 ```bash
 chmod 700 setup.sh
@@ -255,7 +255,7 @@ az group create --name testhub \
     --output table
 ```
 
-* `--name` specifies the name of your resource group and should be something that uniquely identifies this hub.
+* `--name` specifies the name of your resource group and should be something that uniquely identifies this hub from other hubs you may deploy.
 * `--location` specifies the _region_ of the data centres where your resource will exist.
   A list of data centre regions and locations can be found [here](https://docs.microsoft.com/en-us/azure/aks/container-service-quotas#region-availability).
   We have chosen West Europe for resource availability.
@@ -266,7 +266,7 @@ az group create --name testhub \
 #### 4. Create an Azure Kubernetes Service (AKS) Cluster
 
 This command will request a Kubernetes cluster within the resource group we created.
-It will request one `Standard_D2s_v3` virtual machine which a Kubernetes cluster installed.
+It will request a Kubernetes cluster with one `Standard_D2s_v3` virtual machine as a 'node'.
 [Information on other types of virtual machines is available](https://azure.microsoft.com/en-gb/pricing/details/virtual-machines/series/).
 
 **NOTES:**
@@ -302,7 +302,7 @@ If your Cloud Shell has timed out while the cluster was creating, you can do the
 
 #### A. Locate your Resource Groups
 
-In Azure Portal, select "Resource Groups from the left-most menu panel.
+In Azure Portal, select "Resource Groups" from the left-most menu panel.
 
 ![Find Resource Groups](../binderhub_resources/resource_group1.png)
 
@@ -461,6 +461,7 @@ helm install binderhub jupyterhub/binderhub \
   Available versions can be found [here](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub).
   We have used the version released on 11 August 2019.
 * It is recommended that `--namespace` be the same as the provided `NAME` in order to avoid confusion.
+  In this case, our `NAME` is `binderhub`.
   It should be something short and descriptive.
 * `--create-namespace`: In Helm v3, the namespace is no longer automatically created it if doesn't already exist.
   We use this flag to replicate that behaviour.
