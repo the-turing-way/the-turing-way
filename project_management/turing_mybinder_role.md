@@ -23,7 +23,7 @@ Deployments are managed by CI in the [mybinder.org-deploy repo](https://github.c
 - Be available in the [mybinder.org-deploy gitter chat](https://gitter.im/jupyterhub/mybinder.org-deploy) to liaise with the operating team should the cluster experience any technical difficulties
 - Be willing to co-work/pair programme with the mybinder.org operating teams to debug any issues with the cluster.
   Particularly [Tim Head](https://github.com/betatim) who is the only other person with direct access to the subscription.
-- Monitor the `turingmybinder` subscription credits on Azure (under the Turing's tenancy) and file requests for additional credits using [the template](credit_requests/turing_mybinder_azure_credit_request_template.md)
+- Monitor the `turingmybinder` subscription credits on Azure (under the Turing's tenancy) and [file requests for additional credits](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=fabf0809069f42a5a36c61d677da08fa&openedFromService=true) using [the template](credit_requests/turing_mybinder_azure_credit_request_template.md)
   - **N.B.:** Now that Hub23 and the Turing Federation Hub share the same infrastructure/subscription, this template and further credit requests may need updating.
     For example, there are now 2 key vaults and 2 DNS zones deployed in the subscription, alongside 1 Kubernetes cluster and 1 Azure Container Registry.
 - Merge Pull Requests from [HelmUpgradeBot](https://github.com/HelmUpgradeBot) on the [hub23-deploy repo](https://github.com/alan-turing-institute/hub23-deploy).
