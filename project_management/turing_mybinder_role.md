@@ -38,3 +38,8 @@ Beyond the CLIs for [Azure](https://docs.microsoft.com/en-us/cli/azure/install-a
 - [Lens](https://k8slens.dev/): an IDE for Kubernetes deployments
 - [`kubectx` and `kubens`](https://github.com/ahmetb/kubectx): quickly change Kubernetes contexts and namespaces
 - [`stern`](https://github.com/wercker/stern): concatenate logs from multiple pods/services/etc ([See blog](https://kubernetes.io/blog/2016/10/tail-kubernetes-with-stern/))
+
+## Useful Resources
+
+- [mybinder.org Site Reliability Guide](https://mybinder-sre.readthedocs.io)
+- [Hub23 Deployment Guide](https://alan-turing-institute.github.io/hub23-deploy)
