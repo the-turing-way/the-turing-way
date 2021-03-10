@@ -13,11 +13,11 @@ The abundance of theoretical frameworks, research schools, and books that have t
 
 However, it is also widely considered that there is no such thing as a fixed set of leadership skills as not all great leaders share the same traits or strengths {cite}`HayesLeadership`.
 
-```{figure} ../../figures/leadership-wordcloud.jpg
+```{figure} ../figures/leadership-wordcloud.jpg
 ---
-height: 500px
+width: 500px
 name: leadership-wordcloud
-alt: Workdcloud taken from wikipedia that highlights these words as more prominent than others:
+alt: Workdcloud taken from wikipedia that highlights these words as more prominent than others
 ---
 Words that stand out in a word cloud from [the Wikipedia entry](https://en.wikipedia.org/wiki/Leadership) about leadership
 ```
