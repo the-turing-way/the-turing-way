@@ -118,7 +118,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Identify your target audience within your community and organisation.
 - Invite community members to suggest ideas and collectively choose the most relevant theme.
 - Identify the most suitable time zone and the duration of the event.
-- Use a standard time with a link to different time zones (like [arewemeetingyet](arewemeetingyet.com)) when communicating about the event.
+- Use a standard time with a link to different time zones (like [arewemeetingyet](https://arewemeetingyet.com)) when communicating about the event.
 - Add the exact date, time, location (if any!) and choice of tool that will be used for communication.
 
 ### Define timeline and invite applications
@@ -184,7 +184,7 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - Provide new and interesting topics that are not selected for long talks as an opportunity to present their idea in short or lightning talks.
 - Instead of having a live lightning talk and poster presentation, invite submission of pre-recorded lightning talks and talks on posters that can be assembled in a gallery (for example, a YouTube playlist) that can be accessed by everyone.
   - For poster sessions, create a gallery of posters online that can be browsed easily.
-    * Use [F1000 Research](https://f1000research.com/posters/8-400), [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/) or [Open Science Framework (OSF)](osf.io/meetings) to ensure that a DOI is assigned to each submission and allows browsable collections.
+    * Use [F1000 Research](https://f1000research.com/posters/8-400), [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/) or [Open Science Framework (OSF)](https://osf.io/meetings) to ensure that a DOI is assigned to each submission and allows browsable collections.
       Other options are Flicker, Unsplash and Google photos.
     * Share link of each poster with their online video in the shared document.
   - Decide the length of these talks (recommended length is 1.5-2 minutes),

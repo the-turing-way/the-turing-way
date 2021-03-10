@@ -21,9 +21,10 @@ In the examples with branches (2, 3 and 4) we ask you to see the difference betw
 * https://github.com/alan-turing-institute/CompEnv-Ex3
   * Uses Jupyter Notebooks.
     This one is really quite hard...don't try this one first!
-* https://github.com/alan-turing-institute/CompEnv-Ex4
-  * Uses RStudio.
-    Great if you're an R user, a little idiosyncratic if you don't use R regularly.
+* 🙅‍♀️ ~~https://github.com/alan-turing-institute/CompEnv-Ex4~~ 🙅‍♀️
+  * ~~Uses RStudio.~~
+    ~~Great if you're an R user, a little idiosyncratic if you don't use R regularly.~~
+  * Unfortunately, this example no longer works due to upgrades on mybinder.org.
 
 ***Please ask if you have any questions.***
 This section is to allow you to explore the examples and learn by doing.

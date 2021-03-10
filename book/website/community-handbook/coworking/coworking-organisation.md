@@ -87,7 +87,7 @@ Your calls could be organised on a weekly or monthly basis that consistently tak
 Once you have found a schedule (date, time and frequency), the following tasks will go into planning them:
 - update the schedule, agenda and calendar to share them with the attendees (or potential target audience). It is also quite effective when they receive a calendar invite.
 - maintain communication (by email, newsletter, or social media) so that everyone is aware of the next calls and the resources available for them to participate.
-It is particularly crucial to use meeting links like [arewemeetingyet](arewemeetingyet.com/) for communicating these schedules for members from different countries so that they can see the time in their time zones.
+It is particularly crucial to use meeting links like [arewemeetingyet](https://arewemeetingyet.com/) for communicating these schedules for members from different countries so that they can see the time in their time zones.
 
 For hosting these calls, you can reuse and adapt the agenda, techniques and templates described in the earlier chapters.
 You main tasks as a host will be to:
