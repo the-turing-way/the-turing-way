@@ -10,9 +10,9 @@ By healthy leadership, we mean guidance that stewards a community, project, or o
 ```{figure} ../../figures/HealthyLeadership.jpg
 ---
 name: healthy-image
-alt: Healthy leadership is illustrated as a fractal where persons water growing flowers. The image includes the quotes by Adrienne Maree Brown: transform yourself to transform the world, the large is a reflection of the small, and strong values can spread to other organisations.
+alt: Healthy leadership is illustrated as a fractal where persons water growing flowers. The image includes quotes by Adrienne Maree Brown that state to transform yourself to transform the world, the large is a reflection of the small, and strong values can spread to other organisations.
 ---
-_The Turing Way_ project illustration by Scriberia. Zenodo. [https://doi.org/10.5281/zenodo.4323154](https://doi.org/10.5281/zenodo.4323154)
+Illustration of Health Leadership by Scriberia. Zenodo. [https://doi.org/10.5281/zenodo.4323154](https://doi.org/10.5281/zenodo.4323154)
 ```
 
 ## Open Leadership Framework
