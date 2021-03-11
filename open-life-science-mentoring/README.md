@@ -4,6 +4,11 @@
 
 ## The Turing Way collaborates with OLS: *OLS-2 for Turing*
 
+## OLS-3 for Turing projects
+
+Congratulations to the following 6 projects that will join the second cohort (OLS-3) under the collaboration *OLS-3 for Turing*.
+See [this post for the announcement](https://openlifesci.org/posts/2020/09/01/ols3-announcement/) along with the [details of 31 projects](https://openlifesci.org/ols-3/projects-participants/) that will be trained and mentored in OLS-3.
+
 **Mentoring period: September to December 2020**
 
 To specifically support members at The Alan Turing Institute, they have collaborated with _The Turing Way_ to offer “OLS-2 for Turing” training and mentoring for projects run by individuals or teams to help integrate open research practices in their workflow.
