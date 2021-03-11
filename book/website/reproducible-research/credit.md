@@ -45,10 +45,8 @@ There is a growing body of evidence that shows open research tends to be cited m
 <!-- TODO: Cite relevant paper for this (Piwowar et al 2013?) -->
 Learn more about:
 
-* [Making your research open][open research]
-* [How to make your research FAIR][rdm]
-
-[rdm]: /rdm/rdm.html
+* [Making your research open](./open)
+* [How to make your research FAIR](./rdm)
 
 ### Show people how to do it
 
@@ -79,11 +77,8 @@ It's perfectly possible to cite a dataset or software package directly, and most
 However, it can sometimes help to have a more conventional paper to cite, and this is where software and data journals come in.
 These journals are similar to methods journals, in that they tend not to include significant results but instead focus on describing data and software in sufficient detail to allow reuse. Some examples include:
 
-- [Journal of Open Research Software][jors]
-- [Journal of Open Source Software][joss]
-
-[JORS]: https://openresearchsoftware.metajnl.com/
-[JOSS]: https://joss.theoj.org/
+- [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)
+- [Journal of Open Source Software](https://joss.theoj.org/)
 
 ## How to cite data?
 
@@ -143,7 +138,7 @@ Zenodo should automatically be notified and should make a snapshot copy of the c
 - ORCID is short for ‘Open Researcher and Contributor ID'.
 - ORCID is a long lasting unique identifier for you as a researcher, comparable to a personal identification number that your government may issue to you.
 
-You can watch this short video for more information https://vimeo.com/97150912
+You can watch [this short video](https://vimeo.com/97150912) for more information.
 
 ### Why should you get an ORCID?
 - To distinguish yourself from others with the same or a similar name.
