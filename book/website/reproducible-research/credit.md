@@ -13,7 +13,7 @@ Future work:
 | Prerequisite        | Importance               | Notes  |
 | -------------       | ----------               | ------ |
 | [Overview of Reproducibility](./overview) | Useful but not essential |        |
-| [Open research](./open-research)   | Useful but not essential |        |
+| [Open research](./open)   | Useful but not essential |        |
 
 ## Summary
 
