@@ -156,7 +156,7 @@ To create a research compendium, follow these steps:
 
 ## Further Reading
 
-- The website https://research-compendium.science contains links to further resources and publications on research compendia as well as links to examples.
+- The website [research-compendium.science](https://research-compendium.science) contains links to further resources and publications on research compendia as well as links to examples.
 
 <!---
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
