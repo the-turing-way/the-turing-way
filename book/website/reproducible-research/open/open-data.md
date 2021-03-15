@@ -84,4 +84,4 @@ This is based on the thinking that in competitive markets, innovation will only 
 If a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources.
 The result is that no-one would innovate in the first place.
 Similarly, for public safety concerns, governments are often unwilling to publish data that relates to issues such as national security.
-In such cases, it may not be possible to make data open, or it may only be possible to share partial/obscured datasets as outlined in the {ref}`privacy <rr-rdm-sharing-barriers-privacy>` section.
+In such cases, it may not be possible to make data open, or it may only be possible to share partial/obscured datasets.
