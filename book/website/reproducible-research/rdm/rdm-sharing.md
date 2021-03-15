@@ -42,6 +42,7 @@ It is also essential to think about the file formats in which the information is
 Data should be presented in structured and standardised formats to support interoperability, traceability, and effective reuse. 
 In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people.
 
+## Additional resources on data sharing
 See also the '[How can you make research data accessible?](https://www.software.ac.uk/how-can-you-make-research-data-accessible)' blog that contains five steps to make your data more accessible. 
 
 (rr-rdm-data-availability-statement)=
