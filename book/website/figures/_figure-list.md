@@ -33,7 +33,8 @@
 | regents_map                | BinderHub workshop        | Map to workshop location                          |
 | reproducibility_kirstie    |                           | Depicts cow code and data relate to good practise |
 | ResearchCompendium         | Research Compendium       | Illustration on research compendium               |
-| risk_matrix                | risk_assessment
+| risk_matrix                | risk_assessment           |                                                   |
+| scientificunionbadge       | Ethical Research          | Image of an enamel badge                          |
 | sub_branch                 | Version control           | Illustrates version control branch + sub branch   |
 | testing_motivation_1       | Testing                   | Example of consequence of not testing code        |
 | testing_motivation_2       | Testing                   | Example of consequence of not testing code        |
