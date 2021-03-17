@@ -1,7 +1,7 @@
 (rr-ci-ghactions)=
 # Continuous Integration with GitHub Actions
 
-In this section, we walk you through a basic setup of continuous integration using GitHub Actions. **GitHub Actions** is a task automation system fully integrated with GitHub. In other words, it is an API that orchestrates any workflow based on any event. It can make makes it easier than ever to incorporate CI into the repositories. It is a flexible way to automate nearly every aspect of your software workflow. Here are just a few examples of use cases of GitHub Actions:
+In this section, we walk you through the basic setup of continuous integration (CI) using GitHub Actions. **GitHub Actions** is a task automation system fully integrated with GitHub. In other words, it is an API that orchestrates any workflow based on any event and it also makes it easier than ever to incorporate CI into your repositories. It is a flexible way to automate nearly every aspect of your project workflow. Here are just a few examples of use cases of GitHub Actions:
 
 - Automated testing of the software
 - Generate reports of the status of any changes in the repository
@@ -9,7 +9,7 @@ In this section, we walk you through a basic setup of continuous integration usi
 - Triggering code reviews and pull requests
 - Managing branches
 
-GitHub Actions are event-driven, meaning it responds to an event (`PR` created, issue created, ...) and triggers an action (label, test, sort, ...). A collection of actions is called a workflow.
+GitHub Actions are event-driven which means it responds to any event (`PR` created, issue created, ...) and triggers an action (label, test, sort, ...). A collection of actions is called a workflow.
 
 ```{figure} ../../figures/gih_action_diagrame.png
 ---
