@@ -38,7 +38,14 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 
 ## Support additional users
 
-Generally speaking, the reason that adding additional users would be a barrier is due to software incompatibility among different users. For example, different users may use different software or outdated versions of programming libraries installed which may lead to problems with running the code. The code should be also easy to use for others, which inlcudes proper comments in the code and good documentation of the package.
+Many people worry that by making their analysis reproducible they will be required to answer lots of questions from future users of their code.
+These questions may cover software incompatibility across operating systems and the dependencies changing over time (see the [Big data and complex computational infrastructure](#big-data-and-complex-computational-infrastructure) barrier below).
+They may also include questions about how to adjust the code for a different purpose.
+This barrier is based in part on conflating "reproducible" with "open" research.
+The _Turing Way_ [definition of "reproducible"](../03/definitions) doesn't require authors to support the expansion and re-use of the data and code beyond running the exact analyses that generate the published results in the accompanying manuscript.
+
+In almost all cases, making code and data open source requires better documentation than a researcher would write for themselves.
+This can feel like an additional barrier, although - as discussed in the previous section on reproducible research taking extra time](#takes-time) it is likely that the primary beneficiaries of well commented and tested code with detailed documentation are the research team - particularly the principle investigator of the project - themselves.
 
 ## Barrier 8
 
