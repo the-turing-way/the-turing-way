@@ -27,6 +27,7 @@ There are many CI service providers, such as GitHub Actions and Travis CI. Each 
  - [Circle CI](https://circleci.com/), for some examples see [here](https://circleci.com/docs/2.0/project-walkthrough/) and [here](https://circleci.com/docs/2.0/hello-world/).
  - [GitLab CI](https://docs.gitlab.com/ee/ci/), for some examples the [GitLab CI examples](https://docs.gitlab.com/ee/ci/examples/README.html) and [this tutorial](https://github.com/NLESC-JCER/ci_for_science#-gitlab-ci).
  - [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/), for some examples see the [ecosystem support page](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/?view=azure-devops) and [this tutorial](https://github.com/trallard/ci-research).
- - [Travis CI](https://travis-ci.com/), for some examples see [the next section](#What_is_Travis_and_how_does_it_work) and the [Travis tutorial](https://docs.travis-ci.com/user/tutorial/).
+ - [Jenkins](https://www.jenkins.io/), for some examples the see [this tutorial](https://www.jenkins.io/doc/tutorials/)
+ - [Travis CI](https://travis-ci.com/), for some examples the [Travis tutorial](https://docs.travis-ci.com/user/tutorial/).
 
 A more extensive list of CI service providers can be found [here](https://www.software.ac.uk/resources/guides/hosted-continuous-integration).
