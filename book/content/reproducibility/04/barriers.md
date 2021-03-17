@@ -22,7 +22,10 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 
 ## Held to higher standards than others
 
-A researcher aiming to reproduce someone else's work is held to a higher standard, which may affect their motivation to do so. This is because they are encouraged to have greater attention to detail and put the effort into making the work more accessible and usable for others. This is time-consuming, and any mistakes spotted by others may affect their overall reputation. 
+A researcher who makes their work reproducible by sharing their code and data may be held to a higher standard than other researchers.
+If authors share nothing at all then all readers of a manuscript can do is trust (or not trust) the results.
+If code and data are available, peer reviewers may go looking for differences in the implementation (compared to how they would have analysed the data) and require additional changes from the authors of the submitted manuscript before it is accepted for peer review.
+This problem also relates to readers of a published paper scrutinising the work more carefully as described in the [Plead the Fifth](#plead-the-fifth) section above.
 
 ## Barrier 4
 
