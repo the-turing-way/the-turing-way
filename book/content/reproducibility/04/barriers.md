@@ -36,7 +36,7 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 
 *replace this text with the content of barrier 6*
 
-## Barrier 7
+## Support additional users
 
 Generally speaking, the reason that adding additional users would be a barrier is due to software incompatibility among different users. For example, different users may use different software or outdated versions of programming libraries installed which may lead to problems with running the code. The code should be also easy to use for others, which inlcudes proper comments in the code and good documentation of the package.
 
