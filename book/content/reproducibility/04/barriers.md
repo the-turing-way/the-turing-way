@@ -28,7 +28,7 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 
 *replace this text with the content of barrier 4*
 
-## Barrier 5 : Requires additional skills
+## Requires additional skills
 
 In order to produce reproducable research, the researcher is required to possess organisational skills which allows them to track and document the changes and decisions that are made throughout their project. This may involve using new softwares and tools in order to optimise the transparency of their decisions. However, creating reproducable research may not actually require many additional skills despite the perceieved barrier.
 
