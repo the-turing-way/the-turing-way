@@ -30,7 +30,14 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 
 ## Requires additional skills
 
-In order to produce reproducable research, the researcher is required to possess organisational skills which allows them to track and document the changes and decisions that are made throughout their project. This may involve using new softwares and tools in order to optimise the transparency of their decisions. However, creating reproducable research may not actually require many additional skills despite the perceieved barrier.
+In order to produce reproducible research, the researcher is required to possess organisational skills which allows them to track and document the changes and decisions that are made throughout their project.
+This may involve using new software or tools to optimise the transparency of their decisions.
+Helping data scientists learn these skills is a core goal of _The Turing Way_ project!
+
+It is important to remember that the tools should be calibrated to the needs.
+Capturing a [reproducible computational environment](../../reproducible_environments/reproducible_environments) may not be necessary for an analysis using a standard student's t-test, but particularly important for parallel fitting of deep learning models.
+_The Turing Way_ community recommends making sure that all work is [version controlled](../../version_control/version_control) for everyone and then using the other chapters in the book as needed.
+Don't let "perfect" be the enemy of the "good enough" for reproducible analyses.
 
 ## Barrier 6
 
