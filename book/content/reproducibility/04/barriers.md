@@ -24,7 +24,7 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 
 *replace this text with the content of barrier 3*
 
-## Barrier 4 : Is not considered for promotion
+## Is not considered for promotion
 
 In the current academic system, a primary consideration for promotion is the proven ability to be awarded grants and recruit students.
 Both funding bodies and prospective students value novelty (it is probably part of the human condition!) and this behaviour is reflected in preferentially rewarding papers with a high [journal impact factor](https://en.wikipedia.org/wiki/Impact_factor).
