@@ -34,8 +34,8 @@ Every group or workplace has a different culture, and expectations aren't always
 This can be especially important for people who experience discrimination - do they know that they can approach you and be listened to if they experience harrassment or discrimination?
 
 Group culture sections can include:
-* What members of the group can expect from you - turn around times for feedback, support, etc.
-* What you expect from members of the group - time keeping, communication, etc. This may vary between different roles.
+* What members of the group can expect from you - turn around times for feedback, support.
+* What you expect from members of the group - time keeping, communication. This may vary between different roles.
 * Expectations for working hours.
 * Equality, inclusion and diversity statement.
 * Open science and how you expect the group to practice this.
@@ -52,20 +52,20 @@ Key contacts could include:
 
 #### Communication :mailbox:
 
-- Preferred method of communications, _e.g. email, video call, message_
+- Preferred method of communications, _for example. email, video call, message_
 - Ensure any communication preferences are ..communicated.. from the beginning
 
 
 #### How to access shared documents
 
-- What method of sharing is preferred? _e.g. google docs, RMarkdown, shared documents over email, GitHub, OneDrive_ 
+- What method of sharing is preferred? _for example google docs, RMarkdown, shared documents over email, GitHub, OneDrive_ 
 - Ensure invitations are set up for calendar meetings and access is in place
 
 #### Expectations in meetings
 
-- Individuals may not have adequate access to equipment / internet. Discussions about whether any support is required for home setup (e.g. webcams, microphone, laptop) can allow for any needs to be addressed.
-- Meeting etiquette - learning expectations for different meetings can be overwhelming for a new starter. Clearly outlining expected attendance and contribution can help overcome this, _e.g. are attendees required to read the papers prior to journal club? Are attendees asked to present their work regularly? Are you expecting videos to be on?_
-- Meeting times - consider the circumstances of your group when organising regular meetings - does everyone have the same opportunity to attend? _e.g. some groups try to arrange Athena SWAN meeting times, whereby meetings occur between 10-3, meaning that those with children are more able to attend these_.
+- Individuals may not have adequate access to equipment / internet. Discussions about whether any support is required for home setup (for example webcams, microphone, laptop) can allow for any needs to be addressed.
+- Meeting etiquette - learning expectations for different meetings can be overwhelming for a new starter. Clearly outlining expected attendance and contribution can help overcome this, _for example are attendees required to read the papers prior to journal club? Are attendees asked to present their work regularly? Are you expecting videos to be on?_
+- Meeting times - consider the circumstances of your group when organising regular meetings - does everyone have the same opportunity to attend? _for example some groups try to arrange Athena SWAN meeting times, whereby meetings occur between 10-3, meaning that those with children are more able to attend these_.
 
 
 #### Training
@@ -75,13 +75,13 @@ On tools the group uses often - eg github
 * Use a Youtube channel to store induction & training for people to watch in their own time
 * Consider running training & induction sessions every 2-3 months as new people join
 * Consider a Slack channel for new joiners - for questions and discussion 
-* Consider providing Office Hours to support new joiners using new tools e.g. github
+* Consider providing Office Hours to support new joiners using new tools - for example github
 * Get feedback on your training
-* Try and make your training session as interactive as possible with exercises (e.g. it was really good to do a Binder exercise yesterday) 
+* Try and make your training session as interactive as possible with exercises 
 
 #### Resources 
 
-* Link to the group website, twitter etc
+* Link to the group website/twitter
 * Links to other resource - institution wellbeing services.
 
 #### Glossary
