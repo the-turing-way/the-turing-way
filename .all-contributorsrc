@@ -2382,6 +2382,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "tomlincr",
+      "name": "Chris Tomlinson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46465574?v=4",
+      "profile": "https://ctomlinson.net",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "projectName": "the-turing-way",
