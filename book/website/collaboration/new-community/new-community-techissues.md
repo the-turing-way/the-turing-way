@@ -38,6 +38,17 @@ See the {ref}`Guide for Reproducible Research <rr>` chapter for more information
 Developers must share their code in a public version-controlled repository (like GitHub and GitLab) and coordinate who is working on what feature or fix.
 Especially, when running on urgent projects against the clock, it is crucial not to waste time at the end of your project in compiling the different components of your research when you can practice doing it from the beginning.
 
+
+## Techical issue example: Word or LaTeX write up
+When writing up research either of the final report or for sharing preliminary findings, there should be a conscious decision about what software you are using to write out your result. This decision may lead to barriers to potential collaboration. There are several points to take into considerations:
+* Availability of software does all of the collaborators have access: for example do they have a licence to use word.
+* Are all of the collaborators comfortable using the software: for example are the confident in editing a LaTeX file.
+
+There are many solutions to these issues which will be very context specific depening on the roles within the team.
+
+Main takeaway from this example is to be aware of the potential barriers that the software that you are using may create and to discuss this and work out a solution that works for your collaborators.
+
+
 ## Take note of the privacy issues
 
 Ask yourself, how can people who need to access this data get to it.
@@ -45,3 +56,4 @@ How they can re-use and share the data appropriately.
 Choose an appropriate open source license for your data, scripts, and software.
 Choose a relevant license ensuring the protection of information that is sensitive such as movement and location data, personal health issues, contact information, names, date of birth, and personal addresses.
 Avoid gathering personal information that is not necessary or breaches confidentiality.
+
