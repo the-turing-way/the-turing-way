@@ -10,26 +10,27 @@ You can help to make this experience less overwhelming by having a clear onboard
 
 It can be intimidating to be the first to speak as a new member - consider asking your team to do a "who's who" and introduce themselves first in meetings.
 
-Names and roles are also easy to forget, particulary if we aren't seeing people in the office every day. It can be helpful to store this information somewhere, for example, by sending around an introductory email.
+Names and roles are also easy to forget, particulary if we aren't seeing people in the office every day. 
+It can be helpful to store this information somewhere, for example, by sending around an introductory email.
 
 Also consider organising an online social, such as a video game or escape room to help new members integrate into the group. 
 
 ## Support
 
-Buddy - informal peer support
-Mentor - more formal support
-
-* Helps the new joiner understand group norms by asking any sensitive questions
+You can provide one-on-one support - such as a buddy for informal peer support, or a mentor, for more formal support.
+This elps the new joiner understand group norms, and allows them to ask any sensitive questions they wouldn't like to raise in a group discussion.
 
 ## Onboarding document guidelines :open_book:
 
-Your project can have an onboarding document or manual. This creates a set of shared expectations, and acts as a reference for new members to find information about resources, or who to ask for help if they have a problem.
+Your project can have an onboarding document or manual. 
+This creates a set of shared expectations, and acts as a reference for new members to find information about resources, or who to ask for help if they have a problem.
 
 ### Suggested sections and content:
 
 #### Group culture
 
-Every group or workplace has a different culture, and expectations aren't always clear when a new member joins. You can help them settle in by making the culture clear here. 
+Every group or workplace has a different culture, and expectations aren't always clear when a new member joins. 
+You can help them settle in by making the culture clear here. 
 
 This can be especially important for people who experience discrimination - do they know that they can approach you and be listened to if they experience harrassment or discrimination?
 
@@ -63,8 +64,10 @@ Key contacts could include:
 
 #### Expectations in meetings
 
-- Individuals may not have adequate access to equipment / internet. Discussions about whether any support is required for home setup (for example webcams, microphone, laptop) can allow for any needs to be addressed.
-- Meeting etiquette - learning expectations for different meetings can be overwhelming for a new starter. Clearly outlining expected attendance and contribution can help overcome this, _for example are attendees required to read the papers prior to journal club? Are attendees asked to present their work regularly? Are you expecting videos to be on?_
+- Individuals may not have adequate access to equipment / internet. 
+Discussions about whether any support is required for home setup (for example webcams, microphone, laptop) can allow for any needs to be addressed.
+- Meeting etiquette - learning expectations for different meetings can be overwhelming for a new starter. 
+Clearly outlining expected attendance and contribution can help overcome this, _for example are attendees required to read the papers prior to journal club? Are attendees asked to present their work regularly? Are you expecting videos to be on?_
 - Meeting times - consider the circumstances of your group when organising regular meetings - does everyone have the same opportunity to attend? _for example some groups try to arrange Athena SWAN meeting times, whereby meetings occur between 10-3, meaning that those with children are more able to attend these_.
 
 
@@ -92,7 +95,7 @@ Consider sharing them with new members - then they'll know exactly what obscure 
 ## Further reading
 A [survey from the University of Birmingham](https://www.birmingham.ac.uk/Documents/college-social-sciences/business/research/wirc/epp-working-from-home-COVID-19-lockdown.pdf), conducted between mid-May and mid-June on home and work-life experiences throughout lockdown.
 
-Example lab manuals: *insert link here*
+An [example group manual from the Whelan Lab] (https://fionajanewhelan.wixsite.com/home/manual)
 
 **Reference**
 
