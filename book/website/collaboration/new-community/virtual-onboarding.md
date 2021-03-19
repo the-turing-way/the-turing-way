@@ -96,7 +96,3 @@ Consider sharing them with new members - then they'll know exactly what obscure 
 A [survey from the University of Birmingham](https://www.birmingham.ac.uk/Documents/college-social-sciences/business/research/wirc/epp-working-from-home-COVID-19-lockdown.pdf), conducted between mid-May and mid-June on home and work-life experiences throughout lockdown.
 
 An [example group manual from the Whelan Lab](https://fionajanewhelan.wixsite.com/home/manual).
-
-**Reference**
-
-See [The Turing Way templates](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/templates/chapter-template) for more guidance.
