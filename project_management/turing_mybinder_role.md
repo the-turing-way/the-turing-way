@@ -24,6 +24,8 @@ Please do say hi and [introduce yourself](https://discourse.jupyter.org/t/introd
 
 Deployments are managed by CI in the [mybinder.org-deploy repo](https://github.com/jupyterhub/mybinder.org-deploy) and so day-to-day tasks are minimal and relatively non-disruptive.
 
+- Watch the [team-compass](https://github.com/jupyterhub/team-compass) for any relevant updates or opportunities for participation
+- Attend the [monthly team meetings](https://jupyterhub-team-compass.readthedocs.io/en/latest/meetings.html) when able (does **not** have to be every month)
 - Be available in the [mybinder.org-deploy gitter chat](https://gitter.im/jupyterhub/mybinder.org-deploy) to liaise with the operating team should the cluster experience any technical difficulties
 - Be willing to co-work/pair programme with the mybinder.org operating teams to debug any issues with the cluster.
   Particularly [Tim Head](https://github.com/betatim) who is the only other person with direct access to the subscription.
