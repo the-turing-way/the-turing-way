@@ -10,6 +10,10 @@ _The Turing Way_ supports and maintains a Kubernetes cluster that is part of the
 This cluster also hosts Hub23, a private BinderHub for the Turing research community.
 Maintaining this infrastructure requires technical skill and a small time commitment that are detailed below.
 
+It is important to the Binder Operating team that we are not anonymous GitHub handles to one another.
+Knowing who we are and why we're here helps us support each other and connect those who can help each other.
+Please do say hi and [introduce yourself](https://discourse.jupyter.org/t/introduce-yourself/17)! :smile:
+
 ## Requirements
 
 - An account in the Turing's Azure tenancy
