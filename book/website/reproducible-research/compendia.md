@@ -33,7 +33,7 @@ _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5
 A research compendium [{term}`def<Research Compendia>`] combines all elements of your project, allowing others to reproduce your work, and should be the final product of your research project.
 Publishing your research paper along with a research compendium allows others to access your input, test your analysis, and, if the compendium can be executed, rerun to assess the resulting output.
 This does not only instill trust in your research but can give you more visibility.
-Others may use your research in unexpected ways, some of which are discussed below (refer section: [Using a research compendium](#using-a-research-compendium).
+Others may use your research in unexpected ways, some of which are discussed below (refer to section: [Using a research compendium](#using-a-research-compendium)).
 
 ## Background
 
@@ -129,7 +129,7 @@ There are several options to publish a research compendium:
 
 For examples, see the label/tag/community "research-compendium" (applied on GitHub, Zenodo, OSF) or as a fallback the term "research compendium" in the description (used on GitLab). For more info, see also https://research-compendium.science.
 
-In the future, the research compendium may even be the publication itself which is being peer reviewed (rather that just peer reviewing the paper, why not review the entire research project).
+In the future, the research compendium may even be the publication itself which is being peer reviewed (rather that just peer reviewing the paper, why not review the entire research project?).
 
 
 ### Using a Compendium
