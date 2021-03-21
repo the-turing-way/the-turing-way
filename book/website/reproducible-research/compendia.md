@@ -127,7 +127,7 @@ There are several options to publish a research compendium:
 - On a research archive such as Zenodo or the Open Science Framework (OSF).
 - As supplementary material of a paper publication.
 
-For examples, see the label/tag/community "research-compendium" (applied on GitHub, Zenodo, OSF) or as a fallback the term "research compendium" in the description (used on GitLab). For more info, see also https://research-compendium.science.
+For examples, see the label/tag/community "research-compendium" (applied on GitHub, Zenodo, OSF) or as a fallback the term "research compendium" in the description (used on GitLab). For more info, see also [Research Compendium](https://research-compendium.science).
 
 In the future, the research compendium may even be the publication itself which is being peer reviewed (rather that just peer reviewing the paper, why not review the entire research project).
 
@@ -156,7 +156,7 @@ To create a research compendium, follow these steps:
 
 ## Further Reading
 
-- The website https://research-compendium.science contains links to further resources and publications on research compendia as well as links to examples.
+- The website [Research Compendium](https://research-compendium.science) contains links to further resources and publications on research compendia as well as links to examples.
 
 <!---
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
