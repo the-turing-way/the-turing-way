@@ -1,3 +1,4 @@
+(cl-new-community-guide)=
 # Guide to Planning a Community
 
 What if you started a project with a thought like, “I have this great idea that I want to try on this public data!”?
@@ -5,16 +6,18 @@ There is nothing to worry about if you’re the only one working on it.
 However, if you want to develop this project - you become responsible for making people feel included in your project.
 
 As a 'project lead', you want to set up a welcoming and inclusive environment and create the first set of visions and goals for your collaborators.
-You can not assume that everyone you collaborate with knows what is expected of them when they start to work with others on your project.
-Therefore it’s important to set the right expectations from the beginning for your community, even though you might not have planned on having one (see more details: {cite}`Sharan2020Apr`).
+You cannot assume that everyone you collaborate with knows what is expected of them when they start to work with others on your project.
+Therefore, it’s important to set the right expectations from the beginning for your community, even though you might not have planned on having one (see more details: {cite}`Sharan2020Apr`).
 
+(cl-new-community-checklist)=
 ## A checklist for planning collaboration in your project
 
 The checklist below will help you in making the process of establishing collaboration in your research project thoughtfully in a structured manner.
 
 The practices listed here are derived from and limited by the experiences of the authors who participate in several successful Open Research communities and lead community-driven projects such as [The Carpentries](https://carpentries.org), [Mozilla Open Leaders](https://mozilla.github.io/open-leadership-training-series/), [Open Life Science](https://openlifesci.org/) and _The Turing Way_.
-While reading this chapter, please be aware that you may need to make adjustments for the projects that may be very different in nature (for example, not entirely open source).
+While reading this chapter, please be aware that you may need to make adjustments for projects that may be very different in nature (for example, not entirely open source).
 
+(cl-new-community-comms-platform)=
 ### 1. Choose a communication platform
 
 - When leading an open project, use collaborative and open platforms such as [GitHub](http://github.com/) or [GitLab](https://about.gitlab.com/).
@@ -23,16 +26,18 @@ While reading this chapter, please be aware that you may need to make adjustment
 - A [Twitter account](twitter.com/) or a simple website (such as on [GitHub pages](https://pages.github.com/)) can be useful external platforms.
 - Make sure that the choices of these platforms are made to ensure that there is a low barrier to join them.
 
+(cl-new-community-proj-summary)=
 ### 2. Provide a project summary file:
 
 - The first document in your project should be a project summary file, which in a GitHub repository will be a [README.md file](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes).
 - This will provide basic information about your project so that people can evaluate why your project will be interesting for them.
   - Here is [a template](https://github.com/PurpleBooth/a-good-readme-template) by the GitHub user [PurpleBooth](https://github.com/PurpleBooth).
-- In this file, include what your project vision and goals are, why the project is useful, what are the possible milestones in the project, how a contributor or user can get started, who can they reach out for help, and what is currently missing in the project in terms of stakeholders, skills, or scope.
+- In this file, include what your project vision and goals are, why the project is useful, what the possible milestones are in the project, how a contributor or user can get started, who can they reach out to for help, and what is currently missing in the project in terms of stakeholders, skills, or scope.
 - You can use emojis, GIFs, videos, or your personal narrative to make your project relatable.
   - See [The Atom project](https://github.com/atom/atom) for example.
 
-### 3. Select a Code of conduct:
+(cl-new-community-code-conduct)=
+### 3. Select a Code of Conduct:
 
 - Add an Open Source Project [Codes of Conduct](https://opensourceconduct.com/) to your project.
 - This document should not be used as a token, it is very important to put intentional effort into it.
@@ -41,16 +46,18 @@ While reading this chapter, please be aware that you may need to make adjustment
 - Whenever you update your code of conduct, invite comments from your members to ensure that their concerns are addressed.
   - This can be done on [GitHub issues](https://help.github.com/en/github/managing-your-work-on-github/about-issues), or [Pull Requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
+(cl-new-community-contrib-guidelines)=
 ### 4. Provide contribution guidelines and interaction pathways:
 
-- A thoughtful guideline helps people decide which pathway they can choose to contribute to your project, or if at all they want to be in your community.
+- A thoughtful guideline helps people decide which pathway they can choose to contribute to your project, or if they want to be in your community at all.
 - Make sure that your community interactions and different pathways to contribute are open, inclusive, and clearly stated.
-  - If people can’t figure out how to contribute they will drop off without help.
+  - If people can’t figure out how to contribute they will drop off without helping.
 - Value different types of contributions - coding projects are not only about code, therefore list documentation and other management skills as well.
-- You can use {ref}`Persona Creation Tool<pd-persona-creation>` or [Persona and Pathway exercise](https://mozillascience.github.io/working-open-workshop/personas_pathways/) to brainstorm who could be your possible community members.
+- You can use the {ref}`Persona Creation Tool<pd-persona-creation>` or the [Personas and Pathways exercise](https://mozillascience.github.io/working-open-workshop/personas_pathways/) to brainstorm who could be your possible community members.
 - Here is a [template of community guideline](https://gist.github.com/PurpleBooth/b24679402957c63ec426) provided by the GitHub user [PurpleBooth](https://gist.github.com/PurpleBooth).
   - See [_The Turing Way_'s contributing file](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) for reference.
 
+(cl-new-community-leadership)=
 ### 5. Create a basic management/leadership structure:
 
 - A leadership structure in an open project should aim to empower others and develop agency and accountability in your community.
@@ -60,12 +67,14 @@ While reading this chapter, please be aware that you may need to make adjustment
 - When inviting suggestions and ideas from the community, provide the first set of plans where your community can develop from.
 - See this document from [Open Source Guides](https://opensource.guide/leadership-and-governance/) for reference.
 
+(cl-new-community-contact)=
 ### 6. Provide contact details wherever useful:
 
 - Clarifying responsibilities for different members will allow people to reach out to the right person with any query.
 - Add details of the designated contact persons for technical problems, leadership questions, or any report on the Code of Conduct.
 - This will be particularly useful if something needs immediate resolution.
 
+(cl-new-community-approaches)=
 ### 7. Identify failed approaches, and stop them:
 
 - Development happens in an iterative manner, therefore, revisit your plans and ideas in regular intervals and involve your members in the process.
@@ -77,6 +86,7 @@ While reading this chapter, please be aware that you may need to make adjustment
   - [The agile concept fail fast gets bad press but is misunderstood](https://www.information-age.com/agile-concept-fail-fast-gets-bad-press-misunderstood-123460434/)
   - [The Beginner’s Guide To Scrum And Agile Project Management](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management)
 
+(cl-new-community-documentation)=
 ### 8. Have documentation and dissemination plans for your project:
 
 - With new members joining your project, they must be able to find the information they need without asking you.
