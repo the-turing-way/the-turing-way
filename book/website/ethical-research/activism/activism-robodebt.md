@@ -20,7 +20,7 @@ The system compiles a formal request for review, prints it off, and sends it by 
 * Asks their local MP for assistance — as this could really speed up the process.
 * Sends a complaint to the Human Services Minister — responsible for this automated debt letter debacle.
 * Submits a Freedom of Information request for the individual's Centrelink file — so that they have all the necessary information to fight back.
-* The campaign is archived here: [link] (https://fraudstop.com.au/) and here [link] (https://www.getup.org.au/campaigns/income-support/chip-in-to-expand-fraudstop/)
+* The campaign is archived here: [link](https://fraudstop.com.au/) and here [link](https://www.getup.org.au/campaigns/income-support/chip-in-to-expand-fraudstop/)
 
 
 ## Further Reading 
@@ -28,4 +28,4 @@ A September 2020 report by Michele Gilman at the Data and Society Research Insti
 
 POVERTYLAWGORITHMS: A Poverty Lawyer’s Guide to Fighting Automated Decision-Making Harms on Low-Income Communities
 Refers to rights from Consumer Law, Family Law, Housing, Public Benefits, Schools and Education, Workers’ Rights, Immigration Surveillance
-[link] (https://datasociety.net/library/poverty-lawgorithms)
+[link](https://datasociety.net/library/poverty-lawgorithms)
