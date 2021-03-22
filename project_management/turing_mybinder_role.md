@@ -16,9 +16,12 @@ Please do say hi and [introduce yourself](https://discourse.jupyter.org/t/introd
 
 ## Requirements
 
-- An account in the Turing's Azure tenancy
-- Access to the `turingmybinder` subscription (can be arranged with IT Services through Top Desk)
-- Knowledge of Kubernetes and Helm
+Ideally, the person in this role will be a member of the Turing Institute with an `@turing.ac.uk` domain email.
+This is due to the dependency on Turing internal processes/platforms, such as points 1 and 2 below.
+
+1) An account in the Turing's Azure tenancy
+2) Access to the `turingmybinder` subscription (can be arranged with IT Services through Top Desk)
+3) Knowledge of Kubernetes and Helm
 
 ## Responsibilities
 
