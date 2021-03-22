@@ -18,7 +18,7 @@ Also consider organising an online social, such as a video game or escape room t
 ## Support
 
 You can provide one-on-one support - such as a buddy for informal peer support, or a mentor, for more formal support.
-This elps the new joiner understand group norms, and allows them to ask any sensitive questions they wouldn't like to raise in a group discussion.
+This helps the new joiner understand group norms, and allows them to ask any sensitive questions they wouldn't like to raise in a group discussion.
 
 ## Onboarding document guidelines :open_book:
 
@@ -53,7 +53,7 @@ Key contacts could include:
 
 #### Communication :mailbox:
 
-- Preferred method of communications, _for example. email, video call, message_
+- Preferred method of communications, _for example email video call, message_
 - Ensure any communication preferences are ..communicated.. from the beginning
 
 
@@ -72,7 +72,7 @@ Clearly outlining expected attendance and contribution can help overcome this, _
 
 
 #### Training
-On tools the group uses often - eg github
+On tools the group uses often - for example github
 
 * Use Zenodo or similar to host training materials for easier sharing 
 * Use a Youtube channel to store induction & training for people to watch in their own time
