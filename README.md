@@ -99,7 +99,7 @@ We have used a few of these illustrations in the [Welcome Bot](https://github.co
 ### Get in touch
 
 We have a gitter chat room and we'd love for you to swing by to say hello at <https://gitter.im/alan-turing-institute/the-turing-way>.
-That room is also synchronised with [Matrix](https://matrix.org) at [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) and you're welcome to join us there if you prefer.
+The room is also accessible with a [Matrix](https://matrix.org) account at [#alan-turing-institute_the-turing-way:gitter.im](https://matrix.to/#/#alan-turing-institute_the-turing-way:gitter.im).
 
 We also have a tiny letter mailing list to which we send monthly project updates.
 Subscribe at <https://tinyletter.com/TuringWay>.
