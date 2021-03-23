@@ -17,7 +17,7 @@ The checklist below will help you in making the process of establishing collabor
 The practices listed here are derived from and limited by the experiences of the authors who participate in several successful Open Research communities and lead community-driven projects such as [The Carpentries](https://carpentries.org), [Mozilla Open Leaders](https://mozilla.github.io/open-leadership-training-series/), [Open Life Science](https://openlifesci.org/) and _The Turing Way_.
 While reading this chapter, please be aware that you may need to make adjustments for projects that may be very different in nature (for example, not entirely open source).
 
-(cl-new-community-checklist-comms-platform)=
+(cl-new-community-guide-checklist-comms-platform)=
 ### 1. Choose a Communication Platform
 
 - When leading an open project, use collaborative and open platforms such as [GitHub](http://github.com/) or [GitLab](https://about.gitlab.com/).
