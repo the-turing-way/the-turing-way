@@ -26,7 +26,7 @@ To create equitable opportunities for everyone, create task lists with varying r
 Aim to provide access to resources to ensure that everyone has the opportunity to gain a common understanding.
 For example, if your project idea is based on a recent peer reviewed paper that is behind the paywall, members from low income institutes who don't hold a subscription to that journal will not be able to participate unless given access to the information discussed in that paper.
 
-(cl-new-community-diff-viewpoints)=
+(cl-new-community-differences-viewpoints)=
 ## Invite Those Who Can Help You Expand Your Viewpoints
 
 Make sure that you invite perspectives from your members who can help you maintain heterogeneity and fair distribution in leadership, methods, dataset and solutions that can be reproduced for different scenarios or across different platforms.
