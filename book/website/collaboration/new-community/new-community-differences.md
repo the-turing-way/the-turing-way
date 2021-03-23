@@ -20,7 +20,7 @@ Our colleagues even in the same city may have different living situations, carin
 Don’t assume that everyone will have equal access or capacity to participate in your project.
 To create equitable opportunities for everyone, create task lists with varying requirements of time and resources (like hardware, software, reference materials or internet bandwidth) so that people can choose where to contribute based on resources available to them.
 
-(cl-new-community-diff-resources)=
+(cl-new-community-differences-resources)=
 ## Allow Access to Resources Whenever You Can
 
 Aim to provide access to resources to ensure that everyone has the opportunity to gain a common understanding.
