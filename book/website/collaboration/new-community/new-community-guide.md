@@ -10,7 +10,7 @@ You cannot assume that everyone you collaborate with knows what is expected of t
 Therefore, it’s important to set the right expectations from the beginning for your community, even though you might not have planned on having one (see more details: {cite}`Sharan2020Apr`).
 
 (cl-new-community-guide-checklist)=
-## A checklist for planning collaboration in your project
+## A Checklist for Planning Collaboration in Your Project
 
 The checklist below will help you in making the process of establishing collaboration in your research project thoughtfully in a structured manner.
 
