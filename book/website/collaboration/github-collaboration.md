@@ -8,7 +8,7 @@
 | {ref}`Experience with Version Control<../../reproducible-research/version_control/version_control>` | Helpful |
 
 
-## Summaries
+## Summary
 
 This chapter introduces a step-by-step guide on how to start doing collaboration with other contributors on GitHub. This is mainly focused on team-work among researchers on open environment.
 
