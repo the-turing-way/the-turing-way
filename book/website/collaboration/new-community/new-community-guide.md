@@ -26,7 +26,7 @@ While reading this chapter, please be aware that you may need to make adjustment
 - A [Twitter account](twitter.com/) or a simple website (such as on [GitHub pages](https://pages.github.com/)) can be useful external platforms.
 - Make sure that the choices of these platforms are made to ensure that there is a low barrier to join them.
 
-(cl-new-community-checklist-proj-summary)=
+(cl-new-community-guide-checklist-proj-summary)=
 ### 2. Provide a Project Summary File:
 
 - The first document in your project should be a project summary file, which in a GitHub repository will be a [README.md file](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes).
