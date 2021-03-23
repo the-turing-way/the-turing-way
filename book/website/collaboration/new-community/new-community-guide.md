@@ -36,7 +36,7 @@ While reading this chapter, please be aware that you may need to make adjustment
 - You can use emojis, GIFs, videos, or your personal narrative to make your project relatable.
   - See [The Atom project](https://github.com/atom/atom) for example.
 
-(cl-new-community-code-conduct)=
+(cl-new-community-guide-checklist-code-conduct)=
 ### 3. Select a Code of Conduct:
 
 - Add an Open Source Project [Codes of Conduct](https://opensourceconduct.com/) to your project.
