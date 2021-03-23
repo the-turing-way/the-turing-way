@@ -12,7 +12,7 @@ It is important to be mindful of the varying motivations your members will have 
 For example, in the case of COVID-19 related projects, you can expect that some people will join you because they want to know what kind of data on COVID-19 exist, some will come with an intention to be part of a group while learning some skills, some will simply hang out to watch what you are doing, whereas some people will join you because they have relatives who are suffering from COVID-19 infection and they want to speed up the diagnostic process.
 Be prepared to welcome their diverse perspectives into your project.
 
-(cl-new-community-diff-circumstances)=
+(cl-new-community-differences-circumstances)=
 ## People Have Different Personal Circumstances
 
 As an individual we may think that everyone has the same working conditions as us, such as access to the tools and resources or their work setup, whereas the reality is far from that.
