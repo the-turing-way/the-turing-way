@@ -3,7 +3,7 @@
 
 When people collaborate with others, no matter if they have already worked with them or they are complete strangers, you need to take into account that everyone will have different backgrounds, different cultures, different time zones, different levels of skills and very different lived experiences.
 
-(cl-new-community-diff-perspectives)=
+(cl-new-community-differences-perspectives)=
 ## Welcome Diverse Perspectives From Your Members
 
 Think carefully about who your stakeholders are, if they are given fair opportunities to be heard, if certain groups are less represented than others, and if you have strategy in place to ensure diversity in your community.
