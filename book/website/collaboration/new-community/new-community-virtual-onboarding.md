@@ -8,7 +8,7 @@ You can help to make this experience less overwhelming by having a clear onboard
 
 ## Introducing the team 	:wave:
 
-It can be intimidating to be the first to speak as a new member - consider asking your team to do a "who's who" and introduce themselves first in meetings.
+It can be intimidating to be the first to speak as a new member - consider asking your team to do a "who's who", and to introduce themselves first in meetings.
 
 Names and roles are also easy to forget, particulary if we aren't seeing people in the office every day. 
 It can be helpful to store this information somewhere, for example, by sending around an introductory email.
@@ -53,7 +53,7 @@ Key contacts could include:
 
 #### Communication :mailbox:
 
-- Preferred method of communications, _for example email video call, message_
+- Preferred method of communications, _for example email, video call, slack message_
 - Ensure any communication preferences are ..communicated.. from the beginning
 
 
