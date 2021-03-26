@@ -2436,6 +2436,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "RobPrecious",
+      "name": "Robert Precious",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9133187?v=4",
+      "profile": "https://github.com/RobPrecious",
+      "contributions": [
+        "a11y"
+      ]
     }
   ],
   "projectName": "the-turing-way",
