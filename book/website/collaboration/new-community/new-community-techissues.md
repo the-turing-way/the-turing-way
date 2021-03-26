@@ -6,6 +6,18 @@ If specific skills or practices are required for someone to contribute to your p
 
 Here are some recommendations to prepare your project for addressing technical issues that your team or community members can most likely face.
 
+## Choose tools that enable collaboration
+
+When writing up research either of the final report or for sharing preliminary findings, there should be a conscious decision about what software you are using to write out your result. 
+This decision affects how collaboration will look like in your project. 
+To avoid any potential barriers to collaboration, take the following aspects into considerations:
+* **Availability of software**: Ensure that all of the collaborators have access to the software and platform you are using, for example, paid subscription or licence to use proprietary software.
+* **Technical skills**: Ensure that all of the collaborators are comfortable using the software, for example, they are confident to edit a file written in a programming or mark-up language.
+
+Context-specific issues may appear depending on the roles and responsibilities shared within a team.
+Therefore, potential solutions can be planned to address these issues including providing short tutorials (see the next point). 
+Being aware of the potential barriers that the software we use may create can lead to choosing tools and solution that works for all our collaborators.
+
 ## Provide short and concise tutorials
 
 In most of the research projects, we work on what is urgent right now, which might mean that we may overlook what is important in the long term.
@@ -37,17 +49,6 @@ See the {ref}`Guide for Reproducible Research <rr>` chapter for more information
 
 Developers must share their code in a public version-controlled repository (like GitHub and GitLab) and coordinate who is working on what feature or fix.
 Especially, when running on urgent projects against the clock, it is crucial not to waste time at the end of your project in compiling the different components of your research when you can practice doing it from the beginning.
-
-
-## Techical issue example: Word or LaTeX write up
-When writing up research either of the final report or for sharing preliminary findings, there should be a conscious decision about what software you are using to write out your result. This decision may lead to barriers to potential collaboration. There are several points to take into considerations:
-* Availability of software does all of the collaborators have access: for example do they have a licence to use word.
-* Are all of the collaborators comfortable using the software: for example are the confident in editing a LaTeX file.
-
-There are many solutions to these issues which will be very context specific depening on the roles within the team.
-
-Main takeaway from this example is to be aware of the potential barriers that the software that you are using may create and to discuss this and work out a solution that works for your collaborators.
-
 
 ## Take note of the privacy issues
 
