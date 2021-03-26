@@ -6,16 +6,16 @@ If specific skills or practices are required for someone to contribute to your p
 
 Here are some recommendations to prepare your project for addressing technical issues that your team or community members can most likely face.
 
-## Choose tools that enable collaboration
+## Setup tools to enable collaboration
 
-When writing up research either of the final report or for sharing preliminary findings, there should be a conscious decision about what software you are using to write out your result. 
-This decision affects how collaboration will look like in your project. 
+When writing up research either of the final report or for sharing preliminary findings, there should be a conscious decision about what software you are using to write out your result.
+This decision affects how collaboration will look like in your project.
 To avoid any potential barriers to collaboration, take the following aspects into considerations:
 * **Availability of software**: Ensure that all of the collaborators have access to the software and platform you are using, for example, paid subscription or licence to use proprietary software.
 * **Technical skills**: Ensure that all of the collaborators are comfortable using the software, for example, they are confident to edit a file written in a programming or mark-up language.
 
 Context-specific issues may appear depending on the roles and responsibilities shared within a team.
-Therefore, potential solutions can be planned to address these issues including providing short tutorials (see the next point). 
+Therefore, potential solutions can be planned to address these issues including providing short tutorials (see the next point).
 Being aware of the potential barriers that the software we use may create can lead to choosing tools and solution that works for all our collaborators.
 
 ## Provide short and concise tutorials
@@ -57,4 +57,3 @@ How they can re-use and share the data appropriately.
 Choose an appropriate open source license for your data, scripts, and software.
 Choose a relevant license ensuring the protection of information that is sensitive such as movement and location data, personal health issues, contact information, names, date of birth, and personal addresses.
 Avoid gathering personal information that is not necessary or breaches confidentiality.
-

@@ -31,7 +31,3 @@ If not, consider what you should change, and who you can invite to help improve 
 
 If crucial voices and viewpoints are missing in your project, how can you invite them in? Talk to an expert (such as clinician, epidemiologist, community lead, and communication officer) if you are not one yourself.
 Always remember that different stakeholders can introduce new but critical and often unexpected viewpoints and help you avoid incorrect or ineffective assumptions.
-
-## Determine Assumed Knowledge Between Diverse Team Members
-Working with team members from different disciplines and backgrounds can provid$
-
