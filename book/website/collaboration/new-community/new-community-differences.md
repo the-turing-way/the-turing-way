@@ -18,9 +18,15 @@ Our colleagues even in the same city may have different living situations, carin
 Don’t assume that everyone will have equal access or capacity to participate in your project.
 To create equitable opportunities for everyone, create task lists with varying requirements of time and resources (like hardware, software, reference materials or internet bandwidth) so that people can choose where to contribute based on resources available to them.
 
-## Allow access to resources whenever you can
+## Allow access to assumed knowledge and resources
 
-Aim to provide access to resources to ensure that everyone has the opportunity to gain a common understanding.
+Working with team members from different disciplines and backgrounds can provide a wealth of new perspectives. 
+However, it is important to standardise which concepts all parties should be familiar with for productive collaboration. 
+For example, replacing jargon and acronyms with clearer alternatives will make information accessible to all team members. 
+Where some technical terminology is necessary, it can be useful to have a shared, editable definitions document. 
+Additionally, it is important to create a supportive environment where anyone can ask for clarification without feeling looked down upon.
+
+Additionally, provide access to resources whenever you can to ensure that everyone has the opportunity to gain a common understanding.
 For example, if your project idea is based on a recent peer reviewed paper that is behind the paywall, members from low income institutes who don't hold a subscription to that journal will not be able to participate unless given access to the information discussed in that paper.
 
 ## Invite those who can help you expand your viewpoints
@@ -31,6 +37,3 @@ If not, consider what you should change, and who you can invite to help improve 
 
 If crucial voices and viewpoints are missing in your project, how can you invite them in? Talk to an expert (such as clinician, epidemiologist, community lead, and communication officer) if you are not one yourself.
 Always remember that different stakeholders can introduce new but critical and often unexpected viewpoints and help you avoid incorrect or ineffective assumptions.
-
-## Determine Assumed Knowledge Between Diverse Team Members
-Working with team members from different disciplines and backgrounds can provide a wealth of new perspectives. However, it is important to standardise which concepts all parties should be familiar with for productive collaboration. For example, replacing jargon and acronyms with clearer alternatives will make information accessible to all team members. Where some technical terminology is necessary, it can be useful to have a shared, editable definitions document. Additionally, it is important to create a supportive environment where anyone can ask for clarification without feeling looked down upon.
