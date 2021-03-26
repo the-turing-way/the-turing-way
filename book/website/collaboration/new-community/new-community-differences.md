@@ -31,3 +31,6 @@ If not, consider what you should change, and who you can invite to help improve 
 
 If crucial voices and viewpoints are missing in your project, how can you invite them in? Talk to an expert (such as clinician, epidemiologist, community lead, and communication officer) if you are not one yourself.
 Always remember that different stakeholders can introduce new but critical and often unexpected viewpoints and help you avoid incorrect or ineffective assumptions.
+
+## Determine Assumed Knowledge Between Diverse Team Members
+Working with team members from different disciplines and backgrounds can provide a wealth of new perspectives. However, it is important to standardise which concepts all parties should be familiar with for productive collaboration. For example, replacing jargon and acronyms with clearer alternatives will make information accessible to all team members. Where some technical terminology is necessary, it can be useful to have a shared, editable definitions document. Additionally, it is important to create a supportive environment where anyone can ask for clarification without feeling looked down upon.

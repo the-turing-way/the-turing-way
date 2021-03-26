@@ -2346,6 +2346,105 @@
         "review",
         "content"
       ]
+    },
+    {
+      "login": "Ago3",
+      "name": "Ago3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30800478?v=4",
+      "profile": "https://github.com/Ago3",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "andreabecsek",
+      "name": "andreabecsek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50207436?v=4",
+      "profile": "https://github.com/andreabecsek",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "SYU-NING",
+      "name": "SYU-NING",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71600183?v=4",
+      "profile": "https://github.com/SYU-NING",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "peterrhysstrong",
+      "name": "peterrhysstrong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43751009?v=4",
+      "profile": "https://github.com/peterrhysstrong",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "tomlincr",
+      "name": "Chris Tomlinson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46465574?v=4",
+      "profile": "https://ctomlinson.net",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "andrealuppi",
+      "name": "andrealuppi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50251039?v=4",
+      "profile": "https://github.com/andrealuppi",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "NotActuallyACat",
+      "name": "NotActuallyACat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69468081?v=4",
+      "profile": "https://github.com/NotActuallyACat",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "IsabelBirds",
+      "name": "IsabelBirds",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44876111?v=4",
+      "profile": "https://aspdenlab.weebly.com/isabel-birds.html",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "beckigreen",
+      "name": "Becki Green",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77735779?v=4",
+      "profile": "http://beckigreen.netlify.app",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "AidaMehonic",
+      "name": "Aida Mehonic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45169136?v=4",
+      "profile": "https://github.com/AidaMehonic",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "RobPrecious",
+      "name": "Robert Precious",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9133187?v=4",
+      "profile": "https://github.com/RobPrecious",
+      "contributions": [
+        "a11y"
+      ]
     }
   ],
   "projectName": "the-turing-way",
