@@ -12,10 +12,9 @@ In this newsletter we highlight:
 * 🏗 Learn about open source projects building upon _The Turing Way_.
 * 🥁 Shout out to many community members for delivering talks, workshops and discussion sessions at various events. 
 
-We are sending spring wishes from _The Turing Way_ community. 🌸
-
 *Thanks to Ismael Kherroubi Garcia and Kirstie Whitaker for reviewing this newsletter.*
 
+We are sending spring wishes from _The Turing Way_ community. 🌸
 Find more details on these topics below 👇
 
 ## Community Meetings
@@ -119,7 +118,7 @@ Chaired by Rachael Ainsworth, the Software Sustainability Institute team members
 We especially recommend watching the keynotes by  Michelle Barker and Chonnettia Jones ([video](https://www.youtube.com/watch?v=8viA4y1pz_8&feature=youtu.be)), and panel discussion chaired by Becca Wilson ([video](https://twitter.com/hashtag/CollabW21?src=hashtag_click&f=live)).
  
 You can get the latest update from the event [under Twitter hashtag #CollabW21](https://twitter.com/hashtag/CollabW21?src=hashtag_click&f=live).
-Some of our highlights involving The Turing Way members are the following:
+Some of our highlights involving _The Turing Way_ members are the following:
 
 * Arielle Bennett-Lovell presented a lightning talk inviting contributions to the [Activism chapter](https://the-turing-way.netlify.app/ethical-research/activism.html) in the Guide of Ethical Research.
 * Emma Karoune, Batool Almarzouq and Malvika Sharan hosted a short workshop demonstrating the online book, specifically highlighting our plans for the Guide for Project Design.
@@ -147,9 +146,7 @@ The presentation with discussion prompts are available on Zenodo: [DOI: 10.5281/
 ### Presentations and Talks
 
 * Sarah Gibson presented two talks on Binder at the ReproHack event on 09 March 2021 (Zenodo. http://doi.org/10.5281/zenodo.4581098) and for the COMPUTE research school at Lund University on 22 March 2021 (Zenodo: http://doi.org/10.5281/zenodo.4625924).
-
 * On 2 March 2021, Malvika presented a talk at Open Research - A vision for the future hosted by the RIOT Club, under the title “Ten arguments against open science that you can win”. (http://doi.org/10.5281/zenodo.4572985).
-
 * On 24 March 2021, she discussed the open source community-building aspects of _The Turing Way_ at the [Reproducible Analytical Pipeline champions network](https://gss.civilservice.gov.uk/about-us/champion-networks/reproducible-analytical-pipeline-rap-champions/) meetup (http://doi.org/10.5281/zenodo.4633118) and participated in a [DORA webinar](https://sfdora.org/2021/03/08/dora-community-call-overcoming-obstacles-to-align-research-assessment-with-community-values/) discussing assessment challenges related to contributions to research reproducibility and open science (http://doi.org/10.5281/zenodo.4633185).
 
 ### Twitter Mentions
