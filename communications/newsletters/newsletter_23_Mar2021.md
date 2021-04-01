@@ -4,7 +4,7 @@ The Turing Way Newsletter: 31 March 2021
 
 Hello Turing Way friends!
 
-We hope you all are keeping well as we enter the second quarter of the year! 😇 
+As we enter the second quarter of the year, we hope you are keeping well! 😇 
 
 In this newsletter we highlight:
 * 📚 Call for application to the [upcoming Book Dash](https://forms.gle/nDd5KzQaXQrkZ6Hn8) (17-21 May) - deadline is 15 April 2021.
@@ -12,7 +12,7 @@ In this newsletter we highlight:
 * 🏗 Learn about open source projects building upon _The Turing Way_.
 * 🥁 Shout out to many community members for delivering talks, workshops and discussions at various events. 
 
-Spring wishes from _The Turing Way_ community.  🌸
+We are sending spring wishes from _The Turing Way_ community. 🌸
 
 Find more details on these topics below 👇
 
@@ -25,7 +25,7 @@ Find more details on these topics below 👇
 *[Kirstie Whitaker tweeting ](https://twitter.com/kirstie_j/status/1372105545646276611?s=20
 ) to invite applications, and joining Collaboration Cafes to clarify  questions.*
 
-Applications can be submitted until 15 April 2021 by responding to [this online form](https://forms.gle/nDd5KzQaXQrkZ6Hn8).
+Applications can be submitted until **15 April 2021** by responding to [this online form](https://forms.gle/nDd5KzQaXQrkZ6Hn8).
 We have also provided a [template document](https://tinyurl.com/tw-bookdash-template) to help you work on your draft version locally.
 It will likely take 30-45 minutes to prepare your application.
 Successful participants will be provided with a budget to pay for any accessibility and participation related requirements including subsistence cost. 
