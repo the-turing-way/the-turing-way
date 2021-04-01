@@ -21,6 +21,7 @@ Find more details on these topics below 👇
 ### Join the upcoming Book Dash event: 17 - 21 May 2021
 
 ![Tweet by Kirstie inviting applications](images/2021-03-KW-1.png)
+
 *[Kirstie Whitaker tweeting ](https://twitter.com/kirstie_j/status/1372105545646276611?s=20
 ) to invite applications, and joining Collaboration Cafes to clarify  questions.*
 
@@ -46,6 +47,7 @@ You are also welcome to lead one of these sessions.
 Please get in touch with the team members to express your interest (email: theturingway@gmail.com).
 
 ![Laura Acion tweeting about onboarding call in Spanish](images/2021-03-LA-2.png)
+
 *[Laura Acion tweeting](https://twitter.com/_lacion_/status/1367833771249184774?s=20
 ) about The Turing Way onboarding call in Spanish to invite members to learn about the project.*
 
@@ -62,7 +64,8 @@ You can find details on [GitHub issue](https://github.com/alan-turing-institute/
 
 **Research Activism**: Laura Carter, Arielle Bennett-Lovell and Asha Titus co-wrote the first draft of the chapter [Activism in Research](https://the-turing-way.netlify.app/ethical-research/activism.html), and they invite contributions by adding case studies and examples from your work.
 
-![This illustration shows a mechanical robot called Robo-debt, that has many people working on computers and announcing “you owe us” to a group of disadvantaged and poor people.](images/file)
+![This illustration shows a mechanical robot called Robo-debt, that has many people working on computers and announcing “you owe us” to a group of disadvantaged and poor people.](images/2021-03-robodebt-3.png)
+
 *Image by Scriberia and The Turing Way community from a previous Book Dash, Zenodo. http://doi.org/10.5281/zenodo.4323154.*
 
 **Request for Review**: We have several chapters currently waiting to be reviewed in the [Pull Requests](https://github.com/alan-turing-institute/the-turing-way/pulls).
@@ -100,7 +103,7 @@ Below, we are highlighting some of those projects.
 
 ## Contributor in focus: Batool Almarzouq
 
-![Headshot of Batool. She is a woman, wearing a white hijab.](images/)
+![Headshot of Batool. She is a woman, wearing a white hijab.](images/images/2021-03-BA-4.png)
 
 Batool Almarzouq has a PhD in bioinformatics from University of Liverpool and has extensive experience in pharmacology, biochemistry and structural biology. 
 She is the founder of R-Ladies in Saudi Arabia (Dammam) and is currently developing a local network for increasing open science awareness. 
@@ -129,8 +132,9 @@ They invite your contributions under [issue #1837](https://github.com/alan-turin
 You can find the slides on Zenodo: https://zenodo.org/record/4573146.
 They also wrote a summary that is available online on the [SSI blog page](https://www.software.ac.uk/top-tips-making-most-out-binder)
 
-![Top tips for making the most out of Binder: 1. Learn more about reproducible research, 2. Write articles with research compendia, 3. Get started with GitHub, 4. Make your repository public, 5. Use any coding language you want](images/2021-04-binder-5.png)
-*Illustration by SSI from the Research Software Camps 2021*
+![Top tips for making the most out of Binder: 1. Learn more about reproducible research, 2. Write articles with research compendia, 3. Get started with GitHub, 4. Make your repository public, 5. Use any coding language you want](images/2021-03-binder-5.png)
+
+*Illustration from the SSI blog on Binder capturing the workshop The Turing Way team ran at the Research Software Camps 2021*
 
 * Kirstie, Malvika and Sarah delivered a 2-day workshop on reproducibility, open science, collaboration and communication for the graduate students in The Alan Turing Institute.
 All slides are available on Zenodo: [DOI: 10.5281/zenodo.4623778](Zenodo. http://doi.org/10.5281/zenodo.4623778).
