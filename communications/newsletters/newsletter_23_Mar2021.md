@@ -42,28 +42,26 @@ You can find more details in this shared document: https://hackmd.io/@turingway/
 Please find the dates and connection details for the upcoming calls: https://hackmd.io/@turingway/coworking-call. 
 
 **Onboarding calls** will continue to take place on Fridays from 15:00 to 16:00 GMT ([next call in your timezone](https://arewemeetingyet.com/London/2021-04-09/15:00)). 
-Please read more details on this shared HackMD: https://hackmd.io/@turingway/chat-onboard.
+You can find more details on this shared HackMD: https://hackmd.io/@turingway/chat-onboard.
 Please sign-up to join one of the upcoming calls.
-You are also welcome to lead one of these sessions. 
-Please get in touch with the team members to express your interest (email: theturingway@gmail.com).
+You are also welcome to lead one of these sessions - get in touch with the team members to express your interest (email: [theturingway@gmail.com](mailto:theturingway@gmail.com)).
 
 ![Laura Acion tweeting about onboarding call in Spanish](images/2021-03-LA-2.png)
 
-*[Laura Acion tweeting](https://twitter.com/_lacion_/status/1367833771249184774?s=20
-) about The Turing Way onboarding call in Spanish to invite members to learn about the project.*
+*[Laura Acion tweeting](https://twitter.com/_lacion_/status/1367833771249184774?s=20) about The Turing Way onboarding call in Spanish to invite members to learn about the project.*
 
 ## News from the community
 
 ### Google Summer of Code (GSoC) 2021 participation
 
-_The Turing Way_ is accepting proposals from interested student developers to write their GSoC application to work on the project.
+_The Turing Way_ is accepting proposals from interested student developers (GSoC candidates) to write their application to work on the project.
 You can find details on the [GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues/1787) and [Neurostars](https://neurostars.org/t/gsoc-2021-project-idea-15-1-the-turing-way-a-how-to-guide-to-data-science/18168/6).
 
 ### New chapters
 
 **FAIR principles**: Thanks to Esther Plomp, Emma Karoune and Ismael Kherroubi-Garcia for writing and reviewing the [chapter on FAIR principles](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-fair.html).
 
-**Research Activism**: Laura Carter, Arielle Bennett-Lovell and Asha Titus co-wrote the first draft of the chapter [Activism in Research](https://the-turing-way.netlify.app/ethical-research/activism.html), and they invite contributions by adding case studies and examples from your work.
+**Research Activism**: Laura Carter, Arielle Bennett-Lovell and Asha Titus co-wrote the first draft of the chapter [Activism in Research](https://the-turing-way.netlify.app/ethical-research/activism.html), and they invite you to contribute by adding case studies and examples from your work.
 
 ![This illustration shows a mechanical robot called Robo-debt, that has many people working on computers and announcing “you owe us” to a group of disadvantaged and poor people.](images/2021-03-robodebt-3.png)
 
@@ -77,8 +75,8 @@ Many small edits have been made by new contributors, which are ideal places to s
 
 ### Projects building upon _The Turing Way_
 
-We keep learning about Open Source projects that are built upon the project model of _The Turing Way_.
-Below, we are highlighting some of those projects.
+We are always happy to learn about Open Source projects that are built upon the project model developed and practised within _The Turing Way_.
+Below, we are highlighting some of those projects that might be useful for you.
 
 - UK Government Analytical Community. (2020). Quality assurance of code for analysis and research (version 2021.3). Office for National Statistics, Best Practice and Impact division: https://best-practice-and-impact.github.io/qa-of-code-guidance/
 
@@ -106,16 +104,17 @@ Below, we are highlighting some of those projects.
 
 ![Headshot of Batool. She is a woman, wearing a white hijab.](images/images/2021-03-BA-4.png)
 
-Batool Almarzouq has a PhD in bioinformatics from University of Liverpool and has extensive experience in pharmacology, biochemistry and structural biology. 
-She is the founder of R-Ladies in Saudi Arabia (Dammam) and is currently developing a local network for increasing open science awareness. 
-She enjoys applying deep learning to answer biological questions and supports infrastructure-related aspects in The Turing Way.
+Batool Almarzouq is the founder of R-Ladies in Saudi Arabia (Dammam) and is currently developing a local network for increasing open science awareness. 
+She has a PhD in bioinformatics from the University of Liverpool and has extensive experience in pharmacology, biochemistry and structural biology. 
+She enjoys applying deep learning to answer biological questions and supports the infrastructure-related aspects in The Turing Way.
+
 Batool has become a part of our core contributing team ever since she participated in the Book Dash in November 2020, she shares:
 > “This was such an amazing experience. It helped me to develop my technical skills. Thank you so much to everyone I met in this Book Dash event.”
 
 ### Updates from Collaboration Workshop 2021
 
-Many _The Turing Way_ community members attended the Collaboration Workshop 2021 this week.
-Chaired by Rachael Ainsworth, the Software Sustainability Institute team members managed to create yet another exciting and engaging virtual unconference.
+Several of The Turing Way community members are attending the Collaboration Workshop 2021 this week. 
+Chaired by Rachael Ainsworth, the Software Sustainability Institute team members managed to deliver yet another exciting and engaging virtual unconference.
 We especially recommend watching the keynotes by  Michelle Barker and Chonnettia Jones ([video](https://www.youtube.com/watch?v=8viA4y1pz_8&feature=youtu.be)), and panel discussion chaired by Becca Wilson ([video](https://twitter.com/hashtag/CollabW21?src=hashtag_click&f=live)).
  
 You can get the latest update from the event [under Twitter hashtag #CollabW21](https://twitter.com/hashtag/CollabW21?src=hashtag_click&f=live).
@@ -125,7 +124,8 @@ Some of our highlights involving The Turing Way members are the following:
 * Emma Karoune, Batool Almarzouq and Malvika Sharan hosted a short workshop demonstrating the online book, specifically highlighting our plans for the Guide for Project Design.
 They invite your contributions under [issue #1837](https://github.com/alan-turing-institute/the-turing-way/issues/1837).
 * Yo Yehudi, Arielle Bennett-Lovell, Laura Carter and Malvika Sharan were part of winning teams for scoping Collaborative Ideas for the hack day.
-* Aida Mehonic, Esther Plomp, Jez Cope, Laura Carter, Patricia Herterich and Sarah Gibson contributed to different projects on Hack Day.
+* Emma karoune, Daisy Parry, Jez Cope, Laura Carter, Patricia Herterich, Sarah Gibson and Malvika Sharan are also attending Hack Day as contributors and judge.
+* Aida Mehonic and Esther Plomp also attended the conference and participated in discussion and workshop demo sessions.
 
 ### Recent Workshops
 
