@@ -102,7 +102,7 @@ Below, we are highlighting some of those projects that might be useful for you.
 
 ## Contributor in focus: Batool Almarzouq
 
-![Headshot of Batool. She is a woman, wearing a white hijab.](images/images/2021-03-BA-4.png)
+![Headshot of Batool. She is a woman, wearing a white hijab.](images/2021-03-BA-4.png)
 
 Batool Almarzouq is the founder of R-Ladies in Saudi Arabia (Dammam) and is currently developing a local network for increasing open science awareness. 
 She has a PhD in bioinformatics from the University of Liverpool and has extensive experience in pharmacology, biochemistry and structural biology. 
