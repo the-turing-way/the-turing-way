@@ -157,7 +157,7 @@ The presentation with discussion prompts are available on Zenodo: [DOI: 10.5281/
 ***1** [Tweet by Emily Lewis](https://twitter.com/esllewis/status/1377272258926886914?s=20) about the CW21 workshop about The Turing Way she attended. 
 **2** [Tweet by Batool Almarzouq](https://twitter.com/batool664/status/1377268574381817857?s=20), who was co-facilitator of the CW21 workshop.
 **3** [Tweet by SSI](https://twitter.com/SoftwareSaved/status/1367069862611271681?s=20) about the Binder workshop delivered by The Turing Way team during Research Software Camp 2021.
-**4** [Tweet by Ismael Kherroubi Garcia](https://twitter.com/IsmaelKherGar/status/1372267464537513988?s=20) about a presentation he gave with the [AutSpaces](DOI 10.5281/zenodo.4603091) team.
+**4** [Tweet by Ismael Kherroubi Garcia](https://twitter.com/IsmaelKherGar/status/1372267464537513988?s=20) about a presentation (DOI 10.5281/zenodo.4603091) he gave with the [AutSpaces team](https://twitter.com/AutSpaces).
 **5** [Tweet by Heidi Siebold](https://twitter.com/HeidiBaya/status/1371834579925995521?s=20) highlighting the usefulness of our community handbook.
 **6** [Chris Tomlinson quote Tweeting Isabel Birds tweet](https://twitter.com/tomlincr/status/1372964297928810499?s=20) about The Turing Way workshop they attended.*
 
