@@ -14,6 +14,8 @@ In this newsletter we highlight:
 
 We are sending spring wishes from _The Turing Way_ community. 🌸
 
+*Thanks to Ismael Kherroubi Garcia and Kirstie Whitaker for reviewing this newsletter.*
+
 Find more details on these topics below 👇
 
 ## Community Meetings
@@ -22,8 +24,7 @@ Find more details on these topics below 👇
 
 ![Tweet by Kirstie inviting applications](images/2021-03-KW-1.png)
 
-*[Kirstie Whitaker tweeting](https://twitter.com/kirstie_j/status/1372105545646276611?s=20
-) to invite applications and joining Collaboration Cafes to clarify  questions.*
+*[Kirstie Whitaker tweeting](https://twitter.com/kirstie_j/status/1372105545646276611?s=20) to invite applications and joining Collaboration Cafes to clarify  questions.*
 
 Applications for the upcoming Book Dash can be submitted until **15 April 2021** by responding to [this online form](https://forms.gle/nDd5KzQaXQrkZ6Hn8). A few points to note:
 * It takes an average of 30 minutes to prepare an application. 
