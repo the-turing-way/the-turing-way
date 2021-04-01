@@ -7,10 +7,10 @@ Hello Turing Way friends!
 We hope you all are keeping well as we enter the second quarter of the year! 😇 
 
 In this newsletter we highlight:
-📚 Call for application to the [upcoming Book Dash](https://forms.gle/nDd5KzQaXQrkZ6Hn8) (17-21 May) - deadline is 15 April 2021.
-☀ Proposal ideas from [Google Summer of Code (GSoC)](https://github.com/alan-turing-institute/the-turing-way/issues/1787) candidates are welcome.
-🏗 Learn about open source projects building upon _The Turing Way_.
-🥁 Shout out to many community members for delivering talks, workshops and discussions at various events. 
+* 📚 Call for application to the [upcoming Book Dash](https://forms.gle/nDd5KzQaXQrkZ6Hn8) (17-21 May) - deadline is 15 April 2021.
+* ☀️ Proposal ideas from [Google Summer of Code (GSoC)](https://github.com/alan-turing-institute/the-turing-way/issues/1787) candidates are welcome.
+* 🏗 Learn about open source projects building upon _The Turing Way_.
+* 🥁 Shout out to many community members for delivering talks, workshops and discussions at various events. 
 
 Spring wishes from _The Turing Way_ community.  🌸
 
