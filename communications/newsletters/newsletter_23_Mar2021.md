@@ -10,7 +10,7 @@ In this newsletter we highlight:
 * 📚 Call for application to the [upcoming Book Dash](https://forms.gle/nDd5KzQaXQrkZ6Hn8) (17-21 May) - deadline is 15 April 2021.
 * ☀️ Proposal ideas from [Google Summer of Code (GSoC)](https://github.com/alan-turing-institute/the-turing-way/issues/1787) candidates are welcome.
 * 🏗 Learn about open source projects building upon _The Turing Way_.
-* 🥁 Shout out to many community members for delivering talks, workshops and discussions at various events. 
+* 🥁 Shout out to many community members for delivering talks, workshops and discussion sessions at various events. 
 
 We are sending spring wishes from _The Turing Way_ community. 🌸
 
@@ -25,19 +25,20 @@ Find more details on these topics below 👇
 *[Kirstie Whitaker tweeting](https://twitter.com/kirstie_j/status/1372105545646276611?s=20
 ) to invite applications and joining Collaboration Cafes to clarify  questions.*
 
-Applications can be submitted until **15 April 2021** by responding to [this online form](https://forms.gle/nDd5KzQaXQrkZ6Hn8).
-We have also provided a [template document](https://tinyurl.com/tw-bookdash-template) to help you work on your draft version locally.
-It will likely take 30-45 minutes to prepare your application.
-Successful participants will be provided with a budget to pay for any accessibility and participation related requirements including subsistence cost. 
+Applications for the upcoming Book Dash can be submitted until **15 April 2021** by responding to [this online form](https://forms.gle/nDd5KzQaXQrkZ6Hn8). A few points to note:
+* It takes an average of 30 minutes to prepare an application. 
+Therefore, we have provided a [template document](https://tinyurl.com/tw-bookdash-template) to help you work on your application draft locally before you submit it.
+* **Successful participants will be provided with a budget** to pay for any accessibility and participation related requirements including subsistence cost. 
 You can see details in this [report from the last Book Dash](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-nov20-report.md).
-We invite our previous attendees to join to mentor a new participant at one of the sessions.
+* We invite our previous attendees to join to mentor new participants at one of the sessions.
+Please go ahead and fill the form indicating your interest in co-facilitating the event.
 
 ### Regular community calls
 
-**Collaboration Cafes** are taking place on 07 April (first Wednesday) and 21 April (third Wednesday) 2021 from 15:00 - 17:00 GMT ([See in your timezone](https://arewemeetingyet.com/London/2021-04-07/15:00)). 
+**Collaboration Cafés** are taking place on 07 April (first Wednesday) and 21 April (third Wednesday) 2021 from 15:00 to 17:00 GMT ([See in your timezone](https://arewemeetingyet.com/London/2021-04-07/15:00)). 
 You can find more details in this shared document: https://hackmd.io/@turingway/collaboration-cafe. 
 
-**Co-working Calls** are taking place in East time zones on Monday from 11:00 to 12:00 GMT  ([next call in your timezone](https://arewemeetingyet.com/London/2021-04-05/11:00)) and in West time zones on Wednesdays from 15:00 to 16:00 GMT ([next call in your timezone](https://arewemeetingyet.com/London/2021-04-14/15:00)) when Collaboration Cafés are not scheduled. 
+**Co-working Calls** are taking place in Eastern Time Zones on Monday from 11:00 to 12:00 GMT  ([next call in your timezone](https://arewemeetingyet.com/London/2021-04-05/11:00)) and in West Time Zones on Wednesdays from 15:00 to 16:00 GMT ([next call in your timezone](https://arewemeetingyet.com/London/2021-04-14/15:00)) when Collaboration Cafés are not scheduled. 
 Please find the dates and connection details for the upcoming calls: https://hackmd.io/@turingway/coworking-call. 
 
 **Onboarding calls** will continue to take place on Fridays from 15:00 to 16:00 GMT ([next call in your timezone](https://arewemeetingyet.com/London/2021-04-09/15:00)). 
