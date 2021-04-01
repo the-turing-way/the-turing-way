@@ -22,8 +22,8 @@ Find more details on these topics below 👇
 
 ![Tweet by Kirstie inviting applications](images/2021-03-KW-1.png)
 
-*[Kirstie Whitaker tweeting ](https://twitter.com/kirstie_j/status/1372105545646276611?s=20
-) to invite applications, and joining Collaboration Cafes to clarify  questions.*
+*[Kirstie Whitaker tweeting](https://twitter.com/kirstie_j/status/1372105545646276611?s=20
+) to invite applications and joining Collaboration Cafes to clarify  questions.*
 
 Applications can be submitted until **15 April 2021** by responding to [this online form](https://forms.gle/nDd5KzQaXQrkZ6Hn8).
 We have also provided a [template document](https://tinyurl.com/tw-bookdash-template) to help you work on your draft version locally.
@@ -37,10 +37,10 @@ We invite our previous attendees to join to mentor a new participant at one of t
 **Collaboration Cafes** are taking place on 07 April (first Wednesday) and 21 April (third Wednesday) 2021 from 15:00 - 17:00 GMT ([See in your timezone](https://arewemeetingyet.com/London/2021-04-07/15:00)). 
 You can find more details in this shared document: https://hackmd.io/@turingway/collaboration-cafe. 
 
-**Co-working Calls** are taking place in East time zones on Monday from 11:00 to 12:00 GMT  ([next call in your timezone](https://arewemeetingyet.com/London/2021-04-05/11:00)) and in West time zones on Wednesdays from 15:00 to 16:00 GMT ([next call in your timezone](https://arewemeetingyet.com/London/2021-04-14/15:00)), when Collaboration Cafés are not scheduled. 
+**Co-working Calls** are taking place in East time zones on Monday from 11:00 to 12:00 GMT  ([next call in your timezone](https://arewemeetingyet.com/London/2021-04-05/11:00)) and in West time zones on Wednesdays from 15:00 to 16:00 GMT ([next call in your timezone](https://arewemeetingyet.com/London/2021-04-14/15:00)) when Collaboration Cafés are not scheduled. 
 Please find the dates and connection details for the upcoming calls: https://hackmd.io/@turingway/coworking-call. 
 
-**Onboarding calls** will continue to take place on Fridays from 15:00 to 16:00 GMT ([next call in your timezone](https://arewemeetingyet.com/London/2021-04-09/15:00)) . 
+**Onboarding calls** will continue to take place on Fridays from 15:00 to 16:00 GMT ([next call in your timezone](https://arewemeetingyet.com/London/2021-04-09/15:00)). 
 Please read more details on this shared HackMD: https://hackmd.io/@turingway/chat-onboard.
 Please sign-up to join one of the upcoming calls.
 You are also welcome to lead one of these sessions. 
@@ -56,7 +56,7 @@ Please get in touch with the team members to express your interest (email: thetu
 ### Google Summer of Code (GSoC) 2021 participation
 
 _The Turing Way_ is accepting proposals from interested student developers to write their GSoC application to work on the project.
-You can find details on [GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues/1787) and [Neurostars](https://neurostars.org/t/gsoc-2021-project-idea-15-1-the-turing-way-a-how-to-guide-to-data-science/18168/6).
+You can find details on the [GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues/1787) and [Neurostars](https://neurostars.org/t/gsoc-2021-project-idea-15-1-the-turing-way-a-how-to-guide-to-data-science/18168/6).
 
 ### New chapters
 
@@ -148,13 +148,13 @@ The presentation with discussion prompts are available on Zenodo: [DOI: 10.5281/
 
 * On 2 March 2021, Malvika presented a talk at Open Research - A vision for the future hosted by the RIOT Club, under the title “Ten arguments against open science that you can win”. (http://doi.org/10.5281/zenodo.4572985).
 
-* On 24 March 2021, she discussed the open source community-building aspects of _The Turing Way_ at the [Reproducible Analytical Pipeline champions network](https://gss.civilservice.gov.uk/about-us/champion-networks/reproducible-analytical-pipeline-rap-champions/) meetup (http://doi.org/10.5281/zenodo.4633118), and participated in a [DORA webinar](https://sfdora.org/2021/03/08/dora-community-call-overcoming-obstacles-to-align-research-assessment-with-community-values/) discussing assessment challenges related to contributions to research reproducibility and open science (http://doi.org/10.5281/zenodo.4633185).
+* On 24 March 2021, she discussed the open source community-building aspects of _The Turing Way_ at the [Reproducible Analytical Pipeline champions network](https://gss.civilservice.gov.uk/about-us/champion-networks/reproducible-analytical-pipeline-rap-champions/) meetup (http://doi.org/10.5281/zenodo.4633118) and participated in a [DORA webinar](https://sfdora.org/2021/03/08/dora-community-call-overcoming-obstacles-to-align-research-assessment-with-community-values/) discussing assessment challenges related to contributions to research reproducibility and open science (http://doi.org/10.5281/zenodo.4633185).
 
 ### Twitter Mentions
 
 ![A  for this month.](images/2021-03-tweets-6.png)
 ***1** [Tweet by Emily Lewis](https://twitter.com/esllewis/status/1377272258926886914?s=20) about the CW21 workshop about The Turing Way she attended. 
-**2** [Tweet by Batool Almarzouq](https://twitter.com/batool664/status/1377268574381817857?s=20), who was co-facilitator of CW21 workshop.
+**2** [Tweet by Batool Almarzouq](https://twitter.com/batool664/status/1377268574381817857?s=20), who was co-facilitator of the CW21 workshop.
 **3** [Tweet by SSI](https://twitter.com/SoftwareSaved/status/1367069862611271681?s=20) about the Binder workshop delivered by The Turing Way team during Research Software Camp 2021.
 **4** [Tweet by Ismael Kherroubi Garcia](https://twitter.com/IsmaelKherGar/status/1372267464537513988?s=20) about a presentation he gave with the [AutSpaces](DOI 10.5281/zenodo.4603091) team.
 **5** [Tweet by Heidi Siebold](https://twitter.com/HeidiBaya/status/1371834579925995521?s=20) highlighting the usefulness of our community handbook.
