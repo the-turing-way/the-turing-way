@@ -134,7 +134,7 @@ These roles will vary depending on how big your union is, and what it is working
 Some roles might include:
 * Supporting other union members: for example, accompanying your colleagues to disciplinary meetings or meetings with management, to provide support and take notes
 * Being a union rep for a particular group of workers within your workplace: this might be a team or a department, or a group of workers doing similar roles across the workplace
-* Begotiating a particular issue, for example pay, pensions, or holiday entitlements, with management
+* Negotiating a particular issue, for example pay, pensions, or holiday entitlements, with management
 * Representing your workplace at larger union gatherings, for example a national meeting
 
 The process for becoming a representative will vary depending on how your union operates.
