@@ -1,8 +1,8 @@
 (rr-make-appendix)=
-## Appendix
+# Appendix
 
 (rr-make-appendix-dag)=
-### Directed Acyclic Graph
+## Directed Acyclic Graph
 
 A Directed Acyclic Graph (DAG) is a *graph* of nodes and edges that is:
 
@@ -15,7 +15,7 @@ information on DAGs can be found on
 [Wikipedia](https://en.wikipedia.org/wiki/Directed_acyclic_graph).
 
 (rr-make-appendix-installing)=
-### Installing Make
+## Installing Make
 
 First, check if you have GNU Make installed already. In a terminal type:
 
@@ -61,7 +61,7 @@ To install GNU Make, please follow these instructions:
   by checking ``make --version``.
 
 (rr-make-appendix-advancedgr)=
-### Advanced: Generating Rules using Call
+## Advanced: Generating Rules using Call
 
 *This section continues the tutorial above and demonstrates a feature of Make
 for automatic generation of rules.*

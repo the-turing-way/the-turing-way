@@ -21,9 +21,15 @@ Don’t assume that everyone will have equal access or capacity to participate i
 To create equitable opportunities for everyone, create task lists with varying requirements of time and resources (like hardware, software, reference materials or internet bandwidth) so that people can choose where to contribute based on resources available to them.
 
 (cl-new-community-differences-resources)=
-## Allow Access to Resources Whenever You Can
+## Allow Access to Assumed Knowledge and Resources
 
-Aim to provide access to resources to ensure that everyone has the opportunity to gain a common understanding.
+Working with team members from different disciplines and backgrounds can provide a wealth of new perspectives. 
+However, it is important to standardise which concepts all parties should be familiar with for productive collaboration. 
+For example, replacing jargon and acronyms with clearer alternatives will make information accessible to all team members. 
+Where some technical terminology is necessary, it can be useful to have a shared, editable definitions document. 
+Additionally, it is important to create a supportive environment where anyone can ask for clarification without feeling looked down upon.
+
+Additionally, provide access to resources whenever you can to ensure that everyone has the opportunity to gain a common understanding.
 For example, if your project idea is based on a recent peer reviewed paper that is behind the paywall, members from low income institutes who don't hold a subscription to that journal will not be able to participate unless given access to the information discussed in that paper.
 
 (cl-new-community-differences-viewpoints)=

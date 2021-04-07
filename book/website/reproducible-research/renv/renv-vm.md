@@ -23,7 +23,7 @@ alt: A screenshot of a Virtual Machine.
 Users can download, install, backup and destroy VMs at will, which is why they are an attractive tool for sharing reproducible research. 
 Research often requires specific pieces of software or system settings. 
 If a researcher wishes to reproduce another's work on their computer, making the necessary changes to their environment to run the project may impact their work.
-For example, in the {ref}`rr-renv-useful` section of this chater, we described how using a different version of Python can lead to unexpected changes in the results of an analysis.
+For example, in the {ref}`rr-renv-useful` section of this chapter, we described how using a different version of Python can lead to unexpected changes in the results of an analysis.
 Say a researcher installs an updated version of Python to replicate an analysis because the analysis requires features only present in the updated version.
 By doing so, they put their own work at risk. 
 VMs remove that risk; any tools downloaded or settings changed will only impact the VM, keeping the reproducer's research safe.

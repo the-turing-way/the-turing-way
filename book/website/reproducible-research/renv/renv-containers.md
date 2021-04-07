@@ -409,9 +409,7 @@ If, when deleting a container, a `-v` is included after `rm` in `sudo docker rm 
 ## Singularity
 
 
-> **Prerequisites**: At present, Singularity only runs on Linux systems (for example Ubuntu). If you use, macOS,
-
-> [Singularity Desktop for macOS](https://www.sylabs.io/singularity-desktop-macos/) is in "Alpha Preview" stage.
+> **Prerequisites**: At present, Singularity only runs on Linux systems (for example Ubuntu). If you use macOS, [Singularity Desktop for macOS](https://www.sylabs.io/singularity-desktop-macos/) is in "Beta" release stage.
 
 A significant drawback of using Docker for reproducible research is that it is not intended as a user-space application but as a tool for server administrators. 
 As such, it requires root access to operate. 
@@ -419,7 +417,7 @@ There is, however, no reason why the execution of an analysis should require roo
 This is especially important when computations are conducted on a shared resource like HPC systems where users will never have root access.
 
 The [singularity](https://www.sylabs.io/) container software was introduced to address this issue. 
-Singularity was created with HPC systems and reproducible research in mind (see [this](https://www.youtube.com/watch?v=DA87Ba2dpNM video). 
+Singularity was created with HPC systems and reproducible research in mind (see [this](https://youtu.be/DA87Ba2dpNM) video).
 It does not require root access to run (only to build container _images_!), and thus enables HPC users to locally build container images before running analyses on a high-performance cluster, for example. 
 As an added benefit, this makes it possible to use almost any software on an HPC system without having to bother admin staff with installing it. 
 Furthermore, since Docker is _the_ most well-known containerization approach, singularity aims at maintaining compatibility with docker containers. This means that singularity can be used to run normal docker containers (without requiring root access!).

@@ -10,7 +10,7 @@ newIssueWelcomeComment: >
   We're really excited to have your input into the project! :sparkling_heart:
 
   <br>If you haven't done so already, please make sure you check out our [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md).
-  If you need to connect more synchronously with members of _The Turing Way_ community, please feel free to chat with us in our [gitter channel](https://gitter.im/alan-turing-institute/the-turing-way), or you can join our [Collaboration Cafe](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md) for mentored contribution or co-working.
+  If you need to connect more synchronously with members of _The Turing Way_ community, please feel free to chat with us in our [Slack workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw), or you can join our [Collaboration Cafe](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md) for mentored contribution or co-working.
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
@@ -34,7 +34,7 @@ newPRWelcomeComment: >
   The Netlify bot will also comment with a preview of the book with your additions so you can see how it will look once it's merged! :tada:
 
   <br>We get a lot of pull requests on this repo, so please be patient and we will get back to you as soon as we can.
-  If we don't acknowledge this pull request after 7 days, feel free to chat to us about it in our [gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
+  If we don't acknowledge this pull request after 7 days, feel free to chat to us about it in our [Slack workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 

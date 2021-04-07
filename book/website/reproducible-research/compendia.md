@@ -19,11 +19,11 @@ This chapter has many prerequisites as it takes all digital components of a proj
 That said: a research compendium can be constructed with minimal technical knowledge.
 The main purpose is that all elements of a project are published together, so a basic folder structure combining all components can be sufficient.
 
-```{figure} ../../figures/ResearchCompendium.jpg)
+```{figure} ../figures/ResearchCompendium.jpg
 ---
 height: 500px
 name: ResearchCompendium
-alt: An illustration showing a person chruning a machine that takes scientific information from multiple resources and papers and organises them in a readable format.
+alt: An illustration showing a person chruning a big machine that takes scientific information from multiple papers and gives one output of readable file.
 ---
 _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```

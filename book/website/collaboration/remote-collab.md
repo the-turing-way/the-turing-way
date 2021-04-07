@@ -7,7 +7,7 @@ Remote collaboration is extremely valuable for removing physical barrier in comm
 ```{figure} ../figures/distributed-collaboration.jpg
 ---
 height: 500px
-name: file-collection
+name: distributed-collaboration
 alt: A person standing on a globe and interacting virtually with people in different time zones on different computer screens
 ---
 Illustration of Distributed Collaboration, The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300.
