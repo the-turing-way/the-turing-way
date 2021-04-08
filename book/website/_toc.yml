@@ -336,6 +336,8 @@
   sections:
   - title: Introduction to Research Ethics
     file: ethical-research/ethics-intro
+  - title: Research Ethics Committees Workflows
+    file: ethical-research/ethics-case-study
   - title: Ethical Decisions in Preclinical Research
     file: ethical-research/preclinical-research
   - title: Activism for Researchers
