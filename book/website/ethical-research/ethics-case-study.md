@@ -3,7 +3,7 @@
 Research ethics committees (RECs), also known as institutional review boards (IRBs), exist within institutions to scrutinise the ethical implications of their research projects.
 RECs have historically focused on projects that involve human participants, meaning that they often prioritise the well-being of those involved in research projects.
 RECs are also a useful mechanism for the mitigation of reputational damage for their institutions, as they can ensure that research is conducted within the law.
-RECs are also well-positioned to improve the state of scientific inquiry.
+Further, RECs are well-positioned to improve the state of scientific inquiry.
 This is because they can provide ethical oversight to expert researchers who do not have sufficient bandwidth to deeply reflect on the ethical questions their work raises.
 This is not to liberate the researcher of their ethical responsibilities -- ultimately, they make the decisions as to how to conduct their work -- but to provide support in respect to these questions.
 Whilst there is a great deal of complexity involved in holding individuals accountable in scientific projects, this chapter assumes that RECs seek to improve how science is conducted at large.
@@ -74,13 +74,13 @@ In the General Data Protection Regulation (GDPR), for example, *consent* is defi
 
 **Responding to this question** entails reflection on how data are sourced -- where they come from and who they pertain to.
 Setting the legal discussions aside, this question requires following one of two approaches:
-1. If employing data that is readily available (perhaps online or provided by a third party), it is important we understand the terms and conditions whereby those data are made available. The point here is to confirm that the data will be used following the purpose for which they were collected. In this respect, a useful subchapter in *The Turing Way* is that of *[Data Licenses](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html?highlight=licen)*, which outlines different ways online data might be held.
+1. If employing data that is readily available (perhaps online or provided by a third party), it is important we understand the terms and conditions whereby those data are made available. The point here is to confirm that the data will be used following the purpose for which they were collected. In this respect, a useful subchapter in *The Turing Way* is that of [Data Licenses](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html?highlight=licen), which outlines different ways online data might be held.
 2. If gathering new data through experiments with human research subjects, both personal information sheets and consent forms must be issued. On the one hand, personal information sheets provide research participants with all the information they need to know about taking part in the study. On the other hand, consent forms summarise the personal information sheet and provide a section for the potential participant to record their acceptance of the conditions. The consent form, in particular, should provide contact details for participants to reach out to the research team or institution (depending on internal processes) should they have any queries or concerns about the study in the future. The UK Data Service offer templates of both documents [online](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/consent-data-sharing/consent-forms).
 
 ### Privacy and Security
 >How will you ensure that any sensitive information your project uses is kept secure and made accessible only to pertinent members of the research team?
 
-**Justification.** Privacy is a fundamental human right ([TTW](https://github.com/alan-turing-institute/the-turing-way/pull/1394/files?short_path=b95854e#diff-b95854e17574ab3b68f2f89991e4dddf199e01901dc8e235d87e2b0c8980a4d9)).
+**Justification.** Privacy is a fundamental human right (see this [draft chapte](https://github.com/alan-turing-institute/the-turing-way/pull/1394/files?short_path=b95854e#diff-b95854e17574ab3b68f2f89991e4dddf199e01901dc8e235d87e2b0c8980a4d9) for *The Turing Way* for more on human rights).
 Therefore, it is critical that projects be conducted in a way that respects privacy.
 
 **Responding to this question** might require a review of your institution's internal policies.
