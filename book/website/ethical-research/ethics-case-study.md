@@ -1,7 +1,7 @@
 # Research Ethics Committees Processes
 
 Research ethics committees (RECs), also known as institutional review boards (IRBs), exist within institutions to scrutinise the ethical implications of their research projects.
-RECs have historically focused on projects that involve human participants, meaning that they often prioritis the well-being of those involved in research projects.
+RECs have historically focused on projects that involve human participants, meaning that they often prioritise the well-being of those involved in research projects.
 RECs are also a useful mechanism for the mitigation of reputational damage for their institutions, as they can ensure that research is conducted within the law.
 RECs are also well-positioned to improve the state of scientific inquiry.
 This is because they can provide ethical oversight to expert researchers who do not have sufficient bandwidth to deeply reflect on the ethical questions their work raises.
@@ -131,4 +131,3 @@ Focusing on how to respond to each broad question, we can summarise the advice p
 1. Be detailed in your responses -- the more the REC knows, the easier it is for them to consider a project's ethical implications.
 2. Use other documents about your project to provide information to RECs. Although documentation may need updating, using other relevant documents can make this process more straightforward. Such documents might be grant proposals, data management plans, data protection impact assessments...
 3. Find ethical resources that are relevant to your project. Scientific projects can be diverse in object of study. Numerous ethics frameworks have been made available over the years. A well-established framework in data science is that of the [five safes](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/access-control/five-safes), for example. A comprehensive resource for the governance of articifial intelligence is [*Understanding artificial intelligence ethics and safety*](https://www.turing.ac.uk/sites/default/files/2019-08/understanding_artificial_intelligence_ethics_and_safety.pdf). A much more specific framework has been developed for the wellbeing of researchers exposed to abusive online content: [*Guidelines for researchers working with abusive content*](https://github.com/bvidgen/Challenges-and-frontiers-in-abusive-content-detection/blob/master/Challenges%20and%20frontiers%20in%20abusive%20content%20detection%20Appendix%20-%20researcher%20guidelines.pdf)
-
