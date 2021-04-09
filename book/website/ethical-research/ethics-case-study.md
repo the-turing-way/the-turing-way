@@ -12,7 +12,7 @@ There are many ways a research ethics committee might organise itself.
 One common approach is to provide a form for all projects conducted at their institution to undergo ethical appraisal.
 Below, we propose five headline questions that an ethics committee might want to know about. For each headline question, we provide:
 1. Justification as to why it is important (why we suggest these headline questions to RECs), and
-2. Certain considerations a researcher might make when preparing a response (what applicants shoul consider when reflecting on these points).
+2. Certain considerations a researcher might make when preparing a response (what applicants should consider when reflecting on these points).
 
 The suggestions we provide are by no means exhaustive and each research project is a world of its own, but the below can help embed ethical reasoning in scientific work.
 
