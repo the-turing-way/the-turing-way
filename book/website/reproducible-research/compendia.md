@@ -129,7 +129,7 @@ There are several options to publish a research compendium:
 
 For examples, see the label/tag/community "research-compendium" (applied on GitHub, Zenodo, OSF) or as a fallback the term "research compendium" in the description (used on GitLab). For more info, see also https://research-compendium.science.
 
-In the future, the research compendium may even be the publication itself which is being peer reviewed (rather that just peer reviewing the paper, why not review the entire research project).
+In the future, the research compendium may even be the publication itself which is being peer reviewed (rather than just peer reviewing the paper, why not review the entire research project).
 
 
 ### Using a Compendium
