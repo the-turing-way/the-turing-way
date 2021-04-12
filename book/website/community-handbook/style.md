@@ -71,10 +71,10 @@ Any chapter containing a Latin abbreviation will fail the continuous integration
 ## Tips
 
 ```{note}
-Indent the content following each item of a numbered list.
+Indent the content following each item of a numbered list. If the content is unindented, the list numbering will be reset.
 ```
 
-Please avoid:
+For instance, please avoid:
 1. First list item
 ```
 This content belongs to the first list item.
