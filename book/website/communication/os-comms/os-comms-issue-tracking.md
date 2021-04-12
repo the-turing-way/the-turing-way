@@ -1,6 +1,6 @@
 # Issue Tracking
 
-Most software development projects have some kind of issue board to easily track the current issues in the project, such as bug fixing, rolling out new features, or community engagement plans.
+Most software development projects have some kind of issue boards to easily track current issues in the project, such as bug fixing, rolling out new features, or community engagement plans.
 [GitHub](https://github.com) (a very popular collaboration platform) has a built-in [issue tracker](https://guides.github.com/features/issues/) and [project boards](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards) where issues can be collated together to track progress towards a more specific, higher-level goal.
 
 This section is a discussion around why issue tracking is useful and where you can store them.
@@ -10,13 +10,13 @@ This section is a discussion around why issue tracking is useful and where you c
 There are many different reasons for keeping/tracking issues related to a project.
 The platform for issue tracking and the features tracked by those issues can influence how your community interact with your project.
 
-Mostly, issues are used to track bug reports, feature requests, opportunities for community members to engage, and so on, then a public issue board  will allow your community to get a clear overview of what's coming down the pipeline and how they can get involved.
+Mostly, issues are used to track bug reports, feature requests, opportunities for community members to engage, and so on, then a public issue board will allow your community to get a clear overview of what's coming down the pipeline and how they can get involved.
 
 Let's look into centralised and decentralised/distributed issue boards and how they might engage your community.
 
 ### Issues per Repository (Decentralised/Distributed)
 
-If your project is split across multiple repositories, then it's a good idea to keep the issues specifically relating to that module within that repository: a decentralised system.
+If your project is split across multiple repositories, then it's a good idea to keep the issues specifically related to that module within that repository: a decentralised system.
 This allows your community to focus their attention on what is important to them.
 
 This approach has several smaller issue boards for each repository (or module) within your codebase.
@@ -44,7 +44,7 @@ Such tools are [JupyterHub](https://github.com/jupyterhub/jupyterhub) and [KubeS
 Each of these repositories contains hundreds of issues tracking on-going work being performed by the community and scoping future directions for each project to take.
 
 Can you imagine trying to combine all of these issues into one place?
-It would become very difficult, if not impossible, for someone to find what they are looking for and would require a very clever tagging schema plus instructions for filtering by tag.
+It would become very difficult, if not impossible, for someone to find what they are looking for and would require a very clever tagging schema plus instructions for filtering by tags.
 
 In the Project Binder team's experience, most community members contribute to just one or maybe two of these projects.
 So having consolidated access to all the issues for all the working parts is not a high priority for their community.
