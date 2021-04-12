@@ -23,7 +23,7 @@ If access to data is restricted, for instance, due to security reasons, the just
 Free access to, and subsequent use of, data is of significant value to society and the economy. 
 That data should, therefore, be open by default and only as closed as necessary. 
 
-You can find more about the practical steps to make your data available in the {ref}`Steps to Share your Data <rr-rdm-sharing-steps>` in the {ref}`Sharing and Archiving Data section <rr-rdm-sharing>`
+You can find more about the practical steps to make your data available in the section describing {ref}`Steps to Share your Data <rr-rdm-sharing-steps>` in the subchapter: {ref}`Sharing and Archiving Data<rr-rdm-sharing>`.
 
 
 (rr-open-data-barriers)=
