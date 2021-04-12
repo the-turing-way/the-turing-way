@@ -50,7 +50,7 @@ For example, (re)identification may be possible via data-mining of accessible da
 Preserving privacy may still be possible if partial or generalised datasets are provided.
 For example, you may provide age bands instead of birth date or only the first two digits of postal codes.
 It may also be possible to provide the data in such a format that researchers can query it whilst keeping the data itself closed. 
-For example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints.
+For example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual data points.
 
 Many fields of scientific disciplines involve working with sensitive personal data.
 Their management is well regulated in data protection legislation (in Europe through national implementations of the General Data Protection Regulation) and ethics procedures as they are established in most research institutions {cite} `EU2016protection`.
