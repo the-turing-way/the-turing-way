@@ -21,7 +21,7 @@ At the moment, anyone who wishes to use data from a researcher often has to cont
 "Open by default" remedies this with a presumption of publication for all.
 If access to data is restricted, for instance, due to security reasons, the justification for this should be made clear.
 Free access to, and subsequent use of, data is of significant value to society and the economy. 
-That data should, therefore, be open by default and only as closed as necessairy. 
+That data should, therefore, be open by default and only as closed as necessary. 
 
 You can find more about the practical steps to make your data available in the {ref}`Steps to Share your Data <rr-rdm-sharing-steps>` in the {ref}`Sharing and Archiving Data section <rr-rdm-sharing>`
 
