@@ -47,7 +47,7 @@ See also the '[How can you make research data accessible?](https://www.software.
 
 (rr-rdm-data-availability-statement)=
 ## Data Availability Statement
-Once you made your data availability it is important to ensure that people can find it when they read the associated article. 
+Once you made your data available, it is important to ensure that people can find it when they read the associated article. 
 You should cite your dataset directly in the paper in places where it is relevant, and include a citation in your reference list, as well as include a Data Availability Statement at the end of the paper (similar to the acknowledgement section). 
 See below for some examples.
 
