@@ -1,3 +1,4 @@
+(os-comms-issue-tracking)=
 # Issue Tracking
 
 Most software development projects have some kind of issue boards to easily track current issues in the project, such as bug fixing, rolling out new features, or community engagement plans.
@@ -5,6 +6,7 @@ Most software development projects have some kind of issue boards to easily trac
 
 This section is a discussion around why issue tracking is useful and where you can store them.
 
+(os-comms-issue-tracking-purpose)=
 ## What is the purpose of your issues?
 
 There are many different reasons for keeping/tracking issues related to a project.
@@ -14,6 +16,7 @@ Mostly, issues are used to track bug reports, feature requests, opportunities fo
 
 Let's look into centralised and decentralised/distributed issue boards and how they might engage your community.
 
+(os-comms-issue-tracking-purpose-issues)=
 ### Issues per Repository (Decentralised/Distributed)
 
 If your project is split across multiple repositories, then it's a good idea to keep the issues specifically related to that module within that repository: a decentralised system.
@@ -27,6 +30,7 @@ This method has a lot of positive outcomes, such as:
 - Contributors can subscribe to notifications or updates from only the repositories that interest them;
 - It feels like "divide and conquer", more people are working on more aspects to move the project as a whole forward.
 
+(os-comms-issue-tracking-purpose-issues-case-study)=
 #### Case study: mybinder.org
 
 [mybinder.org](https://mybinder.org) is a platform facilitating users to easily share reproducible analyses and computational environments with one another in [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/) via the cloud.
@@ -51,6 +55,7 @@ So having consolidated access to all the issues for all the working parts is not
 
 They find that having distributed issue tracking allows those members of the community who may only work with JupyterHub to comfortably contribute without needing to be familiar with everything that goes into running [mybinder.org](https://mybinder.org).
 
+(os-comms-issue-tracking-purpose-issues-case-centralised-issue)=
 ### Centralised Issue Repository
 
 With a big project, it can be tempting to collate all your issues into one place for the sake of easier management: a centralised system.
@@ -66,6 +71,7 @@ If your issues are elsewhere this can create a lot of barriers to entry for comm
 A very large impact on the community of having a separate issue board is that when people visit your code repository, it looks like an inactive project because there are no issues or conversations going on where the code is hosted.
 This may cause community members to believe that the code is no longer being actively developed/maintained/supported and may choose to use another codebase or software package.
 
+(os-comms-issue-tracking-comparative-table)=
 ## Comparative Table
 
 The table below compares features of distributed and centralised issue repositories for a multi-repository project.
