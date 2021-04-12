@@ -25,7 +25,7 @@ As such, you first need to decide which data you need to share for others to be 
 
 Data should be shared in a formal, open, and indexed data repository where possible so that it will be accessible in the long-run.
 Suitable data repositories by subject, content type or location can be found at [Re3data.org](https://www.re3data.org/), and in [FAIRsharing](https://fairsharing.org/databases) where you can also see which standards (metadata and identifier) the repositories implement and which journal/publisher recommend them.
-If possible use a repository which assigns a DOI, a digital object identifier, to make it easier for others to cite your data. Have a look in the {ref}`rr-credit` to see how to share and cite your data and other outputs.
+If possible use a repository that assigns a DOI, a digital object identifier, to make it easier for others to cite your data. Have a look in the {ref}`rr-credit` to see how to share and cite your data and other outputs.
 
 A few public data repositories are [Zenodo](zenodo.org/), [Figshare](https://figshare.com/), [4TU.ResearchData](https://data.4tu.nl/info/en), and [Dryad](https://datadryad.org/).
 
