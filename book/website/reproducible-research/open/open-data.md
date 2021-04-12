@@ -37,7 +37,7 @@ Recent surveys {cite}`Stuart2018sharing` conducted amongst researchers list the 
 
 These are cultural challenges that might be addressed in changing practice going forward.
 However, there are also legal, ethical or contractual reasons that sometimes prevent making data publicly available in its entirety or even in parts.
-Here are some reasons why this may be the case:
+Below, we discuss some reasons explaining why this may be the case.
 
 (rr-open-data-barriers-privacy)=
 ### Privacy And Data Protection
