@@ -1,6 +1,6 @@
 # Research Compendia
 
-## Prerequisites / recommended skill level
+## Prerequisite
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
@@ -13,33 +13,40 @@
 ## Summary
 
 A research compendium is a collection of all digital parts of a research project including data, code, texts (protocols, reports, questionnaires, meta data).
-The collection is created in such a way that reproducing all results is straight forward {cite}`Nuest2017compendia,Gentleman2007statistical`.
+The collection is created in such a way that reproducing all results is straightforward {cite}`Nuest2017compendia,Gentleman2007statistical`.
 
 This chapter has many prerequisites as it takes all digital components of a project together into a reproducible research package.
 That said: a research compendium can be constructed with minimal technical knowledge.
 The main purpose is that all elements of a project are published together, so a basic folder structure combining all components can be sufficient.
 
-![Cartoon of a research compendium](../../figures/ResearchCompendium.jpg)
+```{figure} ../figures/ResearchCompendium.jpg
+---
+height: 500px
+name: ResearchCompendium
+alt: An illustration showing a person chruning a big machine that takes scientific information from multiple papers and gives one output of readable file.
+---
+_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+```
 
-## How this will help you/why this is useful
+## Motivation
 
-A research compendium combines all elements of your project, allowing others to reproduce your work, and should be the final product of your research project.
-Publishing your research paper along with a research compendia allows others to access your input, test your analysis, and, if the compendium can be executed, rerun to assess the resulting output.
+A research compendium [{term}`def<Research Compendia>`] combines all elements of your project, allowing others to reproduce your work, and should be the final product of your research project.
+Publishing your research paper along with a research compendium allows others to access your input, test your analysis, and, if the compendium can be executed, rerun to assess the resulting output.
 This does not only instill trust in your research but can give you more visibility.
 Others may use your research in unexpected ways, some of which are discussed below (refer section: [Using a research compendium](#using-a-research-compendium).
 
-## Chapter content
+## Background
 
 A research compendium at its most basic is a comprehensive set of files that combines all components of a project.
 This compendium can be downloaded and run locally to recreate the work done, or it can contain elements that allow it to be executed on a remote server.
-Executable research compendia aim to make the computational part of a scientific publication reproducible by providing all the building blocks available and give a description of how the user can execute the containing code.
+Executable research compendia aim to make the computational part of a scientific publication reproducible by providing all the building blocks available and give a description of how the user can execute the contained code.
 
 
-### Structure of a research compendium
+### Structure of a Research Compendium
 
 Three principles should be kept in mind when constructing a research compendium {cite}`Marwick2018compendia`.
 
-- Files should organized in a conventional folder structure;
+- Files should be organized in a conventional folder structure;
 - Data, methods, and output should be clearly separated;
 - The computational environment should be specified.
 
@@ -47,7 +54,7 @@ With these principles, a wide variety of compendia are possible.
 Let's start with the most basic version.
 
 
-#### Basic research compendium
+#### Basic Compendium
 
 A basic compendium follows these three principles.
 It separates data and methods into a conventional folder structure, and describes the computational environment in a designated file.
@@ -63,7 +70,7 @@ compendium/
 └── README.md
 ```
 
-#### Executable research compendium
+#### Executable Compendium
 
 The following folder can be considered an executable research compendium.
 It contains all the digital parts of the research project (code, data, text, figures) and all the information on how to obtain the results.
@@ -90,7 +97,7 @@ compendium/
 └── README.md
 ```
 
-#### Separating methods, data, output
+#### Separating Methods, Data, Output
 
 The principles of a research compendium state that it should clearly separate Methods, Data, and Output.
 Phrased differently, this means we should distinguish between three types of files and folders:
@@ -103,7 +110,7 @@ The examples mentioned here are not exhaustive and some may first be "human-gene
 In other words, whether a folder contains files in either of these categories, may depend on the life cycle of the project.
 
 
-### Creating a research compendium
+### Creating a Compendium
 
 If you already use some of the tools in this book - such as version control, Makefiles, and/or reproducible environments - it may come naturally to you to create a research compendium.
 This is, because a version control repository can be a research compendium; A Makefile makes it executable; A reproducible environment makes it reproducible.
@@ -112,7 +119,7 @@ Use names for files and folders that make it easy for others to understand what 
 It is a good idea to think about this early in the research process and start your project with the mindset that the output in the end is a research compendium rather than just a research paper.
 
 
-### Publishing a research compendium
+### Publishing a Compendium
 
 There are several options to publish a research compendium:
 
@@ -122,10 +129,10 @@ There are several options to publish a research compendium:
 
 For examples, see the label/tag/community "research-compendium" (applied on GitHub, Zenodo, OSF) or as a fallback the term "research compendium" in the description (used on GitLab). For more info, see also https://research-compendium.science.
 
-In the future, the research compendium may even be the publication itself which is being peer reviewed (rather that just peer reviewing the paper, why not review the entire research project).
+In the future, the research compendium may even be the publication itself which is being peer reviewed (rather than just peer reviewing the paper, why not review the entire research project).
 
 
-### Using a research compendium
+### Using a Compendium
 
 A research compendium can be used in several ways, including (but not limited to):
 
@@ -139,29 +146,19 @@ A research compendium can be used in several ways, including (but not limited to
 
 To create a research compendium, follow these steps:
 
-- [ ] Think about a good folder structure (see example above)
-- [ ] Create folder structure (main directory and sub directories)
-- [ ] Optional: Make the compendium into a git repository
-- [ ] Add all files needed for reproducing the results of the project
-- [ ] Try to have the compendium as clean and easy to use as possible when you advertise it for others to use
-- [ ] Optional: Have a peer check the compendium and see if it works correctly
-- [ ] Publish your compendium
+- Think about a good folder structure (see example above)
+- Create folder structure (main directory and sub directories)
+- Optional: Make the compendium into a git repository
+- Add all files needed for reproducing the results of the project
+- Try to have the compendium as clean and easy to use as possible when you advertise it for others to use
+- Optional: Have a peer check the compendium and see if it works correctly
+- Publish your compendium
 
+## Further Reading
 
-## What to learn next
-
-<!--- TODO: recommended next chapters that are a good next step up -->
-
-## Further reading
-
-The website https://research-compendium.science contains links to further resources and publications on research compendia as well as links to examples.
+- The website [research-compendium.science](https://research-compendium.science) contains links to further resources and publications on research compendia as well as links to examples.
 
 <!---
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
 > less relevant/favourite resources in case someone wants to dig into this in detail
 -->
-
-
-## Definitions/glossary
-
-See our [glossary](/glossary/glossary) for explanations of terms used in the chapter.

@@ -16,7 +16,7 @@ Let's look into centralised and decentralised/distributed issue boards and how t
 
 ### Issues per Repository (Decentralised/Distributed)
 
-If your project is split across multiple repositories, then it's a good idea to keep the issues specifically relating to that module within that repository: a dencentralised system.
+If your project is split across multiple repositories, then it's a good idea to keep the issues specifically relating to that module within that repository: a decentralised system.
 This allows your community to focus their attention on what is important to them.
 
 This approach has several smaller issue boards for each repository (or module) within your codebase.
@@ -75,7 +75,7 @@ The table below compares features of distributed and centralised issue repositor
 | Global issue search | ✅ | |
 | Hosted by the same platform as the code | ❓(not guaranteed) | ✅ |
 | Filter by repository | ❓(power users*) | ✅ |
-| Suscribe to relevant updates | ❓(power users) | ✅ |
+| Subscribe to relevant updates | ❓(power users) | ✅ |
 | Easy to Discover | | ✅ |
 | Connected to the Codebase | | ✅ |
 | Appears active to community | | ✅ |

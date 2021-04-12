@@ -2,15 +2,15 @@
 
 # Cross-Referencing Sections and Chapters
 
-We recommend using the cross-referencing style as described in the [JupyterBook](https://jupyterbook.org/content/citations.html) for chapters or files, and different contents of chapters such as sections and figures.
+We recommend using the cross-referencing style as described in the [Jupyter Book](https://jupyterbook.org/content/citations.html) for chapters or files, and different contents of chapters such as sections and figures.
 
-In JupyterBook, labels are a way to add tags to parts of your content or a file that you can reference later on.
+In Jupyter Book, labels are a way to add tags to parts of your content or a file that you can reference later on.
 This is very helpful because you can insert labels to other parts of your book without worrying about the relative or absolute paths of the file.
 
 In this document, we have provided examples to describe how you can use labels for different chapters or part of chapters within the book.
 We have also defined a naming convention for labels for _The Turing Way_ to ensure that the locations of these labels in the book are identifiable by their name.
 
-## Labels in JupyterBook
+## Labels in Jupyter Book
 
 To add a label for a section or a chapter/subchapter, use a syntax of the following pattern before the element you wish to label:
 
@@ -42,12 +42,12 @@ The following naming convention for the labels for different chapters:
 
 Here, the first placeholder `sectioninitials` should be replaced by the initials for different sections in the book and the second placeholder `filename` should be replaced by the name of file where the label is being created.
 
-For the different sections of the book, we will use the following `sectioninitials`:
+For the different Guides of the book, we will use the following `sectioninitials`:
 
 - Reproducible Research: `rr`
 - Project Design: `pd`
-- Collaboration: `clb`
-- Contribution: `cnt`
+- Collaboration: `cl`
+- Communication: `cm`
 - Ethical Research: `er`
 - Community Handbook: `ch`
 
@@ -55,7 +55,7 @@ For example, in the guide `Reproducible Research`, we have a chapter called `Ove
 We have created a label for that chapter called `rr-overview` by adding the label on the top of the header by using the following directive
 
 ```
-(rr-overview=)
+(rr-overview)=
 # Overview
 ```
 

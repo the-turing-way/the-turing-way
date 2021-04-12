@@ -1,4 +1,4 @@
-# Community Communications for Open Source Proects
+# Community Communications for Open Source Projects
 
 ## Summary
 
@@ -10,7 +10,7 @@ Community interactions should maintain transparency and openness of the project 
 
 This chapter gives an overview of the most common ways to track, support and maintain community interactions such as by raising issues, reporting bugs and attracting contributions that lead to the improvements in the project.
 
-## How this will help you/ why this is useful
+## How this will help you/why this is useful
 
 When trying to build a community around an Open Source project, the content in this chapter will help make sure that your communications are as open, transparent and accessible as possible.
 This will help foster trust between the project team and the wider community and give them the agency to contribute where they can.

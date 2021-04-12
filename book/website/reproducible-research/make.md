@@ -1,11 +1,13 @@
+(rr-make)=
 # Reproducibility with Make
 
-## Prerequisites / recommended skill level
+(rr-make-prerequisites)=
+## Prerequisites
 
 | Prerequisite | Importance | Notes |
 | ------------ | ---------- | ----- |
 | [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | |
-| [Version control](./version-control) | Helpful | Experience using git is useful to follow along with examples |
+| {ref}`Version Control<rr-vcs>` | Helpful | Experience using git is useful to follow along with examples |
 
 Recommended skill level: intermediate
 
@@ -27,8 +29,10 @@ the way to the pdf file of the paper!
 <small style="margin: 5pt auto; text-align: center; display: block;">A
 schematic for a research project that uses LaTeX.</small>
 
+(rr-make-intro)=
 ## An Introduction to Make
 
+(rr-make-whatis)=
 ### What is Make
 
 Make is a build automation tool. It uses a configuration file called a
@@ -39,6 +43,7 @@ based on the dependency tree of the targets and prerequisites (technically,
 this is a {ref}`rr-make-resources-dag`). It uses the *modification time* of 
 prerequisites to update targets only when needed.
 
+(rr-make-why)=
 ### Why use Make for Reproducibility?
 
 There are several reasons why Make is a good tool to use for reproducibility:

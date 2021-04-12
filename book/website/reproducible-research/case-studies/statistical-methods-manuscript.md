@@ -36,7 +36,7 @@ The manuscript can be cited in plain text APA format:
 A review of Bayesian perspectives on sample size derivation for confirmatory trials.
 arXiv preprint arXiv:2006.15715.
 
-Bibtex format:
+BibTeX format:
 
 ```
 @article{
@@ -119,13 +119,13 @@ All relevant configurations for Binder are located in the subfolder `.binder`.
 
 ### Workflow management using Snakemake
 
-Since Jupyterlab also allows to open a shell in the repository instance opened
+Since JupyterLab also allows to open a shell in the repository instance opened
 using a Binder link,
 another feature of the repository can be used to reproduce the *entire manuscript from scratch*.
 The Python workflow manager [Snakemake](https://snakemake.readthedocs.io/en/stable/)
 was used to define all required steps in a `Snakefile`.
 To execute this workflow,
-you can open a shell in the [online version of Jupyterhub](https://mybinder.org/v2/gh/kkmann/sample-size-calculation-under-uncertainty/0.2.1?urlpath=shiny/apps/sample-size-calculation-under-uncertainty/).
+you can open a shell in the [online version of JupyterHub](https://mybinder.org/v2/gh/kkmann/sample-size-calculation-under-uncertainty/0.2.1?urlpath=shiny/apps/sample-size-calculation-under-uncertainty/).
 Once the user interface finished loading, open a new terminal and type
 ```
 snakemake -F --cores 1  manuscript
@@ -190,7 +190,7 @@ docker exec --name mycontainer /
     snakemake -F --cores 1  manuscript
 ```
 
-### Long term archiving and citeability
+### Long term archiving and citability
 
 The GitHub repository is also linked with [zenodo.org](https://zenodo.org/) to ensure long-term
 archiving, see {ref}`rr-credit-make-software-citeable`
