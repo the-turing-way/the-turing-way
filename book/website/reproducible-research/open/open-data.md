@@ -60,7 +60,7 @@ Their management is well regulated in data protection legislation (in Europe thr
 
 In order for anonymised research data to be made available for future reuse, consent forms must cover sharing this data with other researchers.
 Research so far suggests that study participants are usually less concerned about the data being archived and shared than researchers think {cite}`Kuula2010archiving`.
-Participant information sheets and consent forms should include how research data will be stored, preserved and used in the long-term, and how confidentiality will be protected when needed.
+Participant information sheets and consent forms should include how research data will be stored, preserved and used in the long term, and how confidentiality will be protected when needed.
 
 (rr-open-data-barriers-anonymisation)=
 ### Anonymisation
