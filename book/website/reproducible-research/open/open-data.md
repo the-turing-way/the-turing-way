@@ -33,7 +33,7 @@ Recent surveys {cite}`Stuart2018sharing` conducted amongst researchers list the 
 
 - Organising data in a presentable and useful way is challenging (mentioned by 46%)
 - They are unsure about copyright and licensing (mentioned by 37%)
-- They do not know which repository to use as (raised by 33%)
+- Researchers do not know which repository to use for different data types (raised by 33%)
 
 These are cultural challenges that might be addressed in changing practice going forward.
 However, there are also legal, ethical or contractual reasons that sometimes prevent making data publicly available in its entirety or even in parts.
