@@ -32,7 +32,7 @@ Many academics find sharing data difficult.
 Recent surveys {cite}`Stuart2018sharing` conducted amongst researchers list the following reasons:
 
 - Organising data in a presentable and useful way is challenging (mentioned by 46%)
-- They are unsure about copyright and licensing (mentioned by 37%)
+- Researchers are unsure about copyright and licensing (mentioned by 37%)
 - Researchers do not know which repository to use for different data types (raised by 33%)
 
 These are cultural challenges that might be addressed in changing practice going forward.
