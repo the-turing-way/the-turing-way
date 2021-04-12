@@ -9,7 +9,7 @@ There are many reasons to share your research data publicly.
 2. To prevent duplicate efforts and speed up scientific progress.
 Large amounts of research funds and careers of researchers can be wasted by only sharing a small part of research in the form of publications.
 3. To facilitate collaboration and increase the impact and quality of scientific research.
-4. To make results of research openly available as a public good, since research is often publicly-funded.
+4. To make results of research openly available as a public good, since research is often publicly funded.
 
 You can read more about why data should be available, and why some data should remain closed, in the {ref}`Open Data section <rr-open-data>`
 
