@@ -52,8 +52,7 @@ You should cite your dataset directly in the paper in places where it is relevan
 See below for some examples.
 
 * The data that support the findings of this study are openly available in [repository name] at http://doi.org/[doi].
-* The data that support the findings will be available in [repository name] at [URL / DOI] following a [6 month] embargo from the date of publication to allow for commercialisation of research findings.
+* The data that support the findings will be available in [repository name] at [URL / DOI] following a [6 month] embargo from the date of publication to allow for the commercialisation of research findings.
 * Restrictions apply to the data that support the findings of this study. [Explain nature of restrictions, for example, the data contains information that could compromise the privacy of research participants] Data are available upon reasonable request by contacting [name and contact details] and with permission of [third party name].
 
 You can find more examples on the [Data Access statements page](https://www.library.manchester.ac.uk/using-the-library/staff/research/research-data-management/sharing/data-access-statements/) from the University of Manchester, or Nature's [Tips for writing a dazzling Data Availability Statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement)
-
