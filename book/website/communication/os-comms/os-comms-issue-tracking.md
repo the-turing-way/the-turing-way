@@ -1,7 +1,7 @@
 (os-comms-issue-tracking)=
 # Issue Tracking
 
-Most software development projects have some kind of issue boards to easily track current issues in the project, such as bug fixing, rolling out new features, or community engagement plans.
+Most software development projects have some kind of issue board to easily track current issues in the project, such as bug fixing, rolling out new features, or community engagement plans.
 [GitHub](https://github.com) (a very popular collaboration platform) has a built-in [issue tracker](https://guides.github.com/features/issues/) and [project boards](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards) where issues can be collated together to track progress towards a more specific, higher-level goal.
 
 This section is a discussion around why issue tracking is useful and where you can store them.
@@ -48,7 +48,7 @@ Such tools are [JupyterHub](https://github.com/jupyterhub/jupyterhub) and [KubeS
 Each of these repositories contains hundreds of issues tracking on-going work being performed by the community and scoping future directions for each project to take.
 
 Can you imagine trying to combine all of these issues into one place?
-It would become very difficult, if not impossible, for someone to find what they are looking for and would require a very clever tagging schema plus instructions for filtering by tags.
+It would become very difficult, if not impossible, for someone to find what they are looking for and would require a very clever tagging schema plus instructions for filtering by tag.
 
 In the Project Binder team's experience, most community members contribute to just one or maybe two of these projects.
 So having consolidated access to all the issues for all the working parts is not a high priority for their community.
