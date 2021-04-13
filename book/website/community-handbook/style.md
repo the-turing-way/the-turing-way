@@ -70,9 +70,10 @@ Any chapter containing a Latin abbreviation will fail the continuous integration
 
 ## Tips
 
-```{note}
-Indent the content following each item of a numbered list. If the content is unindented, the list numbering will be reset.
-```
+### Indentation
+
+Indent the content following each item of a numbered list. 
+If the content is unindented, the list numbering will be reset.
 
 For instance, please avoid:
 1. First list item
@@ -89,6 +90,8 @@ Instead, the following is recommended:
 
 2. Second list item
 
-```{note}
-Write external links using http:// instead of the www.
-```
+
+### External links
+
+Write external links using "http://" instead of "www". This ensures they are correctly recognised as hyperlinks.
+
