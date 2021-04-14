@@ -13,16 +13,39 @@ You can always refresh the window if you see the "... is taking longer to load, 
 
 **TO DO:** :vertical_traffic_light:
 
-```{tabbed} Python
+````{tabbed} Python
 1) Create a new repo on GitHub called "my-first-binder".
    - Make sure the repository is **public**, _not private_!
    - Don't forget to initialise with a README!
 2) Create a file called `hello.py` via the web interface with `print("Hello from Binder!")` on the first line and commit to the `main` branch
-```
+````
 
-```{tabbed} Other
-More stuff goes here
+````{tabbed} Julia
+1) Create a new repo on GitHub called "my-first-binder".
+   - Make sure the repository is **public**, _not private_!
+   - Don't forget to initialise with a README!
+2) Create a file called `hello.jl` via the web interface with `println("Hello from Binder!")` on the first line and commit to the `main` branch
+3) Create a file called `Project.toml` (:rotating_light: the capitalisation is important!) with the following content and commit it to `main`.
+   This will install Julia into the Binder environment.
+
+   ```julia
+   [compat]
+   julia = "1.3"
+   ```
+
+````
+
+````{tabbed} R
+1) Create a new repo on GitHub called "my-first-binder".
+   - Make sure the repository is **public**, _not private_!
+   - Don't forget to initialise with a README!
+2) Create a file called `hello.R` via the web interface with `print("Hello from Binder!")` on the first line and commit to the `main` branch.
+3) Create a file called `runtime.txt` with `r-3.6-YYYY-MM-DD` on the first line, where `YYYY-MM-DD` is today's date (eg `r-2020-05-26`). Commit to the `main` branch.
+
+```{note}
+In R you can use `holepunch::write_runtime()` to create a `runtime.txt` in the `.binder/` directory, configured with today's date.
 ```
+````
 
 ### Why did the repo have to be public?
 
