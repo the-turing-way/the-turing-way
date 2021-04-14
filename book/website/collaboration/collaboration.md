@@ -1,3 +1,4 @@
+(collab-guide)=
 # Guide for Collaboration
 
 ***This guide covers topics related to effective and inclusive collaboration.***
