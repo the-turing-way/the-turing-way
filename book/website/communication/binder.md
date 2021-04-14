@@ -1,8 +1,7 @@
-(rr-binder)=
+(binder)=
 # Binder
 
-(rr-binder-overview)=
-## Overview 
+(binder-overview)=
 
 Now that we have seen how to use and capture the computational environment used in a Python project, it is time to think about how to share that environment.
 
@@ -32,7 +31,7 @@ This image is then hosted on the cloud.
 The person who clicked the link will be taken to a copy of her project in their web browser where they can interact with it. 
 This copy of the project is hosted in the environment the researcher specified in step 3, regardless of the computational environment it is accessed from.
 
-```{figure} ../../figures/binder_comic.png
+```{figure} ../figures/binder_comic.png
 ---
 name: binder_comic
 alt: An illustration of the steps a person can take to create a binderized project.
@@ -43,7 +42,7 @@ Figure credit: [Juliette Taka, Logilab and the OpenDreamKit project](https://ope
 To get an idea of what this looks like, below is a binder of a simple example project. 
 Files are listed and can be clicked on and modified by the person accessing the Binder.
 
-```{figure} ../../figures/binder_home.png
+```{figure} ../figures/binder_home.png
 ---
 name: binder_home
 alt: A screenshot of a binder of a sample project
@@ -53,7 +52,7 @@ A binder of a sample project.
 
 Users can also open terminals to run or otherwise interact with the files by clicking on "New" and then "Terminal" in the top right of the home Binder screen shown above. Here, this is used to run the analysis script in the example Binder which performs a linear regression on some data:
 
-```{figure} ../../figures/binder_terminal.png
+```{figure} ../figures/binder_terminal.png
 ---
 name: binder_terminal
 alt: A screenshot of a terminal where users can run or interact with project files
@@ -65,7 +64,7 @@ As mentioned, Binder is well integrated with Jupyter notebooks.
 Notebooks can be opened by clicking on "New" and then "Notebook" in the same way terminals can be opened. 
 These may be more convenient for those working with graphical outputs, as shown here where one is used to run `make_plot.py` in the example Binder:
 
-```{figure} ../../figures/binder_notebook.png
+```{figure} ../figures/binder_notebook.png
 ---
 name: binder_notebook
 alt: A screenshot of a Jupyter Notebook integrated with Binder
@@ -75,7 +74,7 @@ A screenshot of a Jupyter Notebook integrated with Binder
 
 If R is installed in a Binder, the dropdown menu will show the options to open R Jupyter notebooks and RStudio sessions in the Binder.
 
-(rr-binder-disambiguation)=
+(binder-disambiguation)=
 ## Disambiguation
 
 In this section, there are some related terms, which will be outlined here for clarity:
@@ -85,7 +84,7 @@ In this section, there are some related terms, which will be outlined here for c
 - **[mybinder.org](https://mybinder.org)**: A public and free BinderHub. Because it is public, you should not use it if your project requires any personal or sensitive information (such as passwords).
 - **Binderize**: To make a Binder of a project.
 
-(rr-binder-creating)=
+(binder-creating)=
 ## Creating a Binder for a Project
 
 Creating a binderized version of a project involves three key steps which will be explained in this section:
@@ -96,7 +95,7 @@ Creating a binderized version of a project involves three key steps which will b
 
 For a list of sample repositories for use with Binder, see the [Sample Binder Repositories](https://mybinder.readthedocs.io/en/latest/sample_repos.html) page.
 
-(rr-binder-creating-stepone)=
+(binder-creating-stepone)=
 ### Step 1: Specify your Computational Environment
 
 Suppose project contains no file specifying the computational environment. When a Binder is generated, the environment will be the Binder default environment, (containing Python 3.6) which may or may not be suitable for the project. 
@@ -149,7 +148,7 @@ Key ones are discussed below, some of which are language-specific:
     ```
   - [DESCRIPTION files](https://cran.r-project.org/doc/manuals/r-release/R-exts.html#The-DESCRIPTION-file) are more typically used in the R community for dependency management.
 
-(rr-binder-creating-steptwo)=
+(binder-creating-steptwo)=
 ### Step 2: Put your Code on GitHub
 
 GitHub is discussed at length in the chapter on {ref}`rr-vcs`, which you should refer to if you wish to understand more about this step. 
@@ -171,7 +170,7 @@ You will see a form that asks you to specify a repository for [mybinder.org](htt
 In the first field, paste the URL of the project's GitHub repository. 
 It will look something like this: `https://github.com/<your-username>/<your-repository>`
 
-```{figure} ../../figures/mybinder_gen_link.png
+```{figure} ../figures/mybinder_gen_link.png
 ---
 name: mybinder_gen_link
 alt: A screenshot of the webpage used to generate a Binder link for your project
@@ -194,7 +193,7 @@ These logs help resolve any issues that cause the build to fail, such as errors 
 
 Once it has been built, the Binder will be automatically launched; again, this may take some time.
 
-(rr-binder-data)=
+(binder-data)=
 ## Including Data in a Binder
 
 There are a few ways to make data available in your Binder. 
@@ -202,13 +201,13 @@ The best one depends on how big your data is and your preferences for sharing da
 Note that the more data that is included, the longer it will take for a Binder to launch. 
 Data also takes up storage space that must be paid for, so it is good to be considerate and minimise the data you include, especially on the publicly provided [mybinder.org](https://mybinder.org).
 
-(rr-binder-data-small)=
+(binder-data-small)=
 ### Small Public Files
 
 The simplest approach for small data files that are public is to add them directly to your GitHub repository or include them along with the rest of your project files in the Binder. 
 This works well and is reasonable for files with sizes up to 10MB.
 
-(rr-binder-data-medium)=
+(binder-data-medium)=
 ### Medium Public Files
 
 For medium-sized files - a few 10s of megabytes to a few hundred megabytes - find some other place online to store them and make sure they are publicly available. 
@@ -221,7 +220,7 @@ wget -q -O name_of_your_file link_to_your_file
 The `postBuild` file is used to execute commands when the files to produce the Binder are being generated. 
 In this case, it can be used to download your data into the files used to launch the binder.
 
-(rr-binder-data-large)=
+(binder-data-large)=
 ### Large Public Files
 
 The best option for large files is to use a library specific to the data format to stream the data as you are using it. 
