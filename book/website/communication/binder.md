@@ -118,6 +118,9 @@ Key ones are discussed below, some of which are language-specific:
   - Recall that `environment.yml` files were discussed in the {ref}`rr-renv-package` section.
 - Dockerfile
   - Dockerfiles will be discussed in the {ref}`rr-renv-containers` section, so will not be discussed further here.
+    ```{warning}
+    Providing a Dockerfile to Binder is considered advanced usage and is not recommended unless specifically required.
+    ```
 - `apt.txt`
   - Dependencies that would typically be installed via commands such as `sudo apt-get install package_name` should be listed in an `apt.txt` file, and will be automatically installed in the Binder.
   - For example if a project uses Latex the `apt.txt` file should read
@@ -140,6 +143,10 @@ Key ones are discussed below, some of which are language-specific:
     ```
   - The `requirement.txt` file does not need to be handwritten.
     Running the command `pip freeze > requirements.txt` will output a `requirements.txt` file that fully defines the Python environment.
+    ```{attention}
+    Providing a fully pinned `requirements.txt` via `pip freeze` often causes issues for Binder during installation, particularly if packages Binder itself uses to run are overwritten.
+    It is recommended to only list the packages your project explicitly depends on in your `requirements.txt` file.
+    ```
 - `runtime.txt`
   - It is used to specify a particular version of Python or R for the Binder to use.
   - To specify which version of R to use, include the major and minor numbers as well as the date it was captured on [MRAN](https://mran.microsoft.com/documents/rro/reproducibility) and include it in the `runtime.txt` file as
@@ -169,6 +176,7 @@ To complete this step:
 
 1. Make an account on [GitHub](https://github.com/).
 2. Create a repository for the project you wish to make a Binder of.
+   Make sure it is publicly available if you are using the [mybinder.org](https://mybinder.org) service.
 3. Upload your project files (including the file you have created to specify your computational environment) to the repository and save ("commit" in the vocabulary of version control) them there.
 
 If you are unable to complete these steps, refer to the chapter on {ref}`version control <rr-vcs>` and the {ref}`collab-guide` for a fuller explanation.
@@ -230,6 +238,8 @@ wget -q -O name_of_your_file link_to_your_file
 
 The `postBuild` file is used to execute commands when the files to produce the Binder are being generated.
 In this case, it can be used to download your data into the files used to launch the binder.
+The `postBuild` file is run after the environment has been installed, but before the Docker image has completed building.
+This means that your data is only downloaded when your Binder is _built_, **not** every time it is _launched_.
 
 (binder-data-large)=
 ### Large Public Files
@@ -239,3 +249,15 @@ There are a few restrictions on outgoing traffic from your Binder that are impos
 Currently only connections to HTTP and Git are allowed.
 This comes up when people want to use FTP sites to fetch data.
 For security reasons FTP is not allowed on [mybinder.org](https://mybinder.org).
+
+(binder-data-private)=
+### Private Files
+
+There is no way to access files which are not public from mybinder.org.
+You should consider all information in your Binder as public, meaning that:
+
+- there should be no passwords, tokens, keys etc in your GitHub repo;
+- you should not type passwords into a Binder running on mybinder.org; and
+- you should not upload your private SSH key or API token to a running Binder.
+
+In order to support access to private files, you would need to deploy a {ref}`rr-binderhub` where you can decide the security trade-offs yourself.
