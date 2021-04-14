@@ -89,6 +89,7 @@ Therefore, it is critical that projects be conducted in a way that respects priv
 
 **Responding to this question** might require a review of your institution's internal policies.
 When handling personal data in particular, your institution might already have a data policy in place, as well as a process to conduct a data protection impact assessment (see [the ICO](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/) for more details).
+Some funders also have policies for handling data collected or used in the course of research that they fund.
 Your institution may also have a secure IT infrastructure for the storage of data, as well as to ensure correct levels of access.
 It is worth asking if there are such policies and processes in your institution.
 
