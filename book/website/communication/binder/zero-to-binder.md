@@ -93,14 +93,30 @@ While you wait, BinderHub (the backend of Binder) is:
 - Launching that Docker image in the cloud
 - Connecting you to it via your browser
 
-## 3. Run `hello.py`
+## 3. Run the script
 
 **TO DO:** :vertical_traffic_light:
 
+````{tabbed} Python
 1. In the top right corner, click "New" :arrow_right: "Terminal"
 2. In the new tab with the terminal, type `python hello.py` and press return
 
 `Hello from Binder!` should be printed to the terminal.
+````
+
+````{tabbed} Julia
+1. In the top right corner, click "New" :arrow_right: "Terminal"
+2. In the new tab with the terminal, type `julia hello.jl` and press return
+
+`Hello from Binder!` should be printed to the terminal.
+````
+
+````{tabbed} R
+1. In the top right corner, click "New" :arrow_right: "Rstudio"
+2. In the console (the left-side panel) in Rstudio, type `source("hello.R")` and press return
+
+`Hello from Binder!` should be printed to the terminal.
+````
 
 ## 4. Pinning Dependencies
 
@@ -108,10 +124,36 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 
 **TO DO:** :vertical_traffic_light:
 
+````{tabbed} Python
 1) In your repo, create a file called `requirements.txt`
 2) Add a line that says: `numpy==1.14.5`
 3) Check for typos! Then commit to the `main` branch.
 4) Visit **https://mybinder.org/v2/gh/YOUR-USERNAME/my-first-binder/HEAD** again in a new tab
+````
+
+````{tabbed} Julia
+1) In your repo, edit the `Project.toml` file
+2) Add a new block that says:
+
+   ```julia
+   [deps]
+   CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+   ```
+
+3) Check for typos! Then commit to `main`.
+4) Visit **<https://mybinder.org/v2/gh/your-username/my-first-binder/HEAD>** again in a new tab
+````
+
+````{tabbed} R
+1) In your repo, create a file called `install.R`
+2) Add a line that says: `install.packages("readr")`
+3) Check for typos! Then commit to the `main` branch.
+4) Visit **<https://mybinder.org/v2/gh/your-username/my-first-binder/HEAD>** again in a new tab
+
+```{note}
+In R you can create an `install.R` file and automatically add the code to install all dependencies in your project using `holepunch::write_install()`.
+```
+````
 
 This time, click on "Build Logs" in the big, horizontal, grey bar.
 This will let you watch the progress of your build.
@@ -124,10 +166,11 @@ These red messages don't necessarily mean there's a problem with your build and 
 
 ### What's happening in the background? - Part 2
 
-This time, BinderHub will read `requirements.txt` and install version `1.14.5` of the `numpy` package.
+This time, BinderHub will read the configuration file you added and install the specific version of the package you requested.
 
 ### More on pinning dependencies
 
+````{tabbed} Python
 In the above example, we used two equals signs (`==`) to pin the version of `numpy`.
 This tells Binder to install that _specific_ version.
 
@@ -135,18 +178,34 @@ Another way to pin a version number is to use the greater than or equal to sign 
 This is useful when you have a lot of dependencies that may have dependencies on each other and allows Binder to find a configuration of your dependencies that do not conflict with one another whilst avoiding any earlier versions which may break or change your code.
 
 Finally, you could not provide a version number at all (just the name of the library/package) and Binder will install the latest version of that package.
+````
 
-```{note}
-These operations to pin dependencies are most likely specific to Python.
-Each language has it's own quirks and a link to the different types of configuration files (which is what `requirements.txt` is) is given at the bottom of this document.
-```
+````{tabbed} Julia
+In the above example, we copied a hash into our `Project.toml` file which is related to the version of the package we'd like to install.
+For a full dependency graph, we would also need to include a `Manifest.toml` file which would document dependencies of dependencies.
+Between these two files, we are able to instantiate an exact replication of a Julia environment.
+
+Of course we can imagine that, as the environment grows and the inter-dependencies become more complex, it would become very taxing to write these files by hand!
+The truth is that you'd never do it manually, the built-in package manager `Pkg` can [generate them automatically](https://julialang.github.io/Pkg.jl/v1/environments/).
+````
+
+````{tabbed} R
+In the above example, we specified that we want to use R in our project by including a date in `runtime.txt`.
+The date tells Binder which MRAN snapshot to source R and packages from.
+[MRAN](https://mran.microsoft.com/) hosts a "CRAN Time Machine" of daily snapshots of the CRAN R packages and R releases as far back as Sept. 17, 2014.
+In the above example, the MRAN snapshot dated `r-2020-05-26` is used and the version of R and `readr` available at that date and installed.
+For the workflow to work correctly, please ensure you do not supply a date earlier than this example date.
+
+This provides some rudimentary package versioning for R users but is not as robust as pinning versions in a `requirements.txt` in Python.
+For more robust and specific version pinning in R, have a look at package [`renv`](https://rstudio.github.io/renv/).
+````
 
 ## 5. Check the Environment
 
 **TO DO:** :vertical_traffic_light:
 
+````{tabbed} Python
 1) In the top right corner, click "New" :arrow_right: "Python 3" to open a new notebook
-
 2) Type the following into a new cell:
 
    ```python
@@ -161,6 +220,37 @@ Each language has it's own quirks and a link to the different types of configura
 
 3) Run the cell to see the version number and a random number printed out
    - Press either SHIFT+RETURN or the "Run" button in the Menu bar
+````
+
+````{tabbed} Julia
+1) In the top right corner, click "New" :arrow_right: "Julia" to open a new notebook
+2) Type the following into a new cell:
+
+   ```julia
+   using Pkg
+   Pkg.status()
+   ```
+
+3) Run the cell to see the version number printed out
+   - Press either SHIFT+RETURN or the "Run" button in the Menu bar
+````
+
+````{tabbed} R
+1) In the top right corner, click "New" :arrow_right: "R" (under _Notebook_) to open a new R notebook
+2) Type the following into a new cell:
+
+   ```r
+   library(readr)
+   packageVersion("readr")
+   read_csv(system.file("extdata/mtcars.csv", package = "readr"))
+   ```
+
+3) Run the cell.
+    - Press either SHIFT+RETURN or the "Run" button in the Menu bar.
+    You should see the following output:
+      - the version number of the installed version of `readr`.
+      - a tibble of the contents of the `mtcars.csv` which is a csv file included in package `readr`.
+````
 
 ```{attention}
 If you save this notebook, it **will not** be saved to the GitHub repo.
@@ -173,12 +263,12 @@ Pushing changes back to the GitHub repo through the container is not possible wi
 Binder is all about sharing your work easily and there are two ways to do it:
 
 - Share the **https://mybinder.org/v2/gh/YOU-USERNAME/my-first-binder/HEAD** URL directly
-- Visit **https://mybinder.org**, type in the URL of your repo and copy the Markdown or ReStructured Text snippet into your `README.md` file.
+- Visit **<https://mybinder.org>**, type in the URL of your repo and copy the Markdown or ReStructured Text snippet into your `README.md` file.
   This snippet will render a badge that people can click, which looks like this: ![Binder](https://mybinder.org/badge_logo.svg)
 
 **TO DO:** :vertical_traffic_light:
 
-1) Add the **Markdown** snippet from **https://mybinder.org** to the `README.md` file in your repo
+1) Add the **Markdown** snippet from **<https://mybinder.org>** to the `README.md` file in your repo
    - The grey bar displaying a binder badge will unfold to reveal the snippets.
      Click the clipboard icon next to the box marked with "m" to automatically copy the Markdown snippet.
 2) Click the badge to make sure it works!
@@ -234,6 +324,7 @@ However, that is not to say that they are the _only_ groups of people who should
 
 **TO DO:** :vertical_traffic_light:
 
+````{tabbed} Python
 1) Go to your GitHub repo and create a file called `postBuild`
 2) In `postBuild`, add a single line reading: `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
    - `wget` is a program which retrieves content from web servers. This line extracts the content from the bitly URL and saves it to the filename denoted by the `-O` flag (capital "O", not zero), i.e. `gapminder.csv`.
@@ -259,7 +350,84 @@ data.columns = years.astype(int)              # Convert year values to integers,
 data.loc["Australia"].plot()
 ```
 
+```{note}
 See this [Software Carpentry lesson](https://swcarpentry.github.io/python-novice-gapminder/09-plotting/index.html) for more info.
+```
+````
+
+````{tabbed} Julia
+1) Go to your GitHub repo and create a file called `postBuild`
+2) In `postBuild`, add a single line reading: `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
+   - `wget` is a program which retrieves content from web servers. This line extracts the content from the bitly URL and saves it to the file denoted by the `-O` flag (i.e. `gapminder.csv`). The `-q` flag tells `wget` to do this quietly, i.e. don't print anything to the console.
+3) Update your `Project.toml` file by adding new dependencies to `[deps]` with the following lines:
+
+   ```julia
+   DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+   Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+   ```
+
+   - These packages aren't necessary to download the data but we will use them to read the CSV file and make a plot
+4) Click the binder badge in your README to launch your Binder
+
+Once the Binder has launched, you should see a new file has appeared that was not part of your repo when you clicked the badge.
+
+Now visualise the data by creating a new notebook ("New" :arrow_right: "Julia") and run the following code in a cell.
+
+```julia
+using DataFrames
+using CSV
+using Plots
+
+data = CSV.read("gapminder.csv")
+
+# Extract the row corresponding to Australia
+aus_gdp = data[data[:, :country] .== "Australia", :]
+aus_gdp = Matrix(aus_gdp[:,2:end])[:]  # as vector
+
+# Extract the years as Ints from the column names
+years = [x[end-3:end] for x in names(data)[2:end]]
+years = parse.(Int, years)
+
+# Plot
+plot(years, aus_gdp)
+```
+````
+
+````{tabbed} R
+1) Go to your GitHub repo and create a file called `postBuild`
+2) In `postBuild`, add a single line reading: `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
+   - `wget` is a program which retrieves content from web servers. This line extracts the content from the bitly URL and saves it to the filename denoted by the `-O` flag (capital "O", not zero), i.e. `gapminder.csv`.
+     The `-q` flag tells `wget` to do this quietly, i.e. don't print anything to the console.
+3) Update your `install.R` file to install two additional dependencies, `"tidyr"` and `"ggplot2"`. To do so, supply a character vector of the required packages to `install.packages()` instead of a single character string. The installation command should now look like this:
+
+   ```r
+   install.packages(c("readr", "tidyr", "ggplot2"))
+   ```
+
+    - These packages aren't necessary to download the data but we will use them to read the CSV file, process it and make a plot
+4) Click the binder badge in your README to launch your Binder
+
+Once the Binder has launched, you should see a new file has appeared that was not part of your repo when you clicked the badge.
+
+Now visualise the data by creating a new notebook ("New" :arrow_right: "R") and running the following code in a cell.
+
+```r
+library(readr)
+library(tidyr)
+library(ggplot2)
+
+data <- read_csv("gapminder.csv") %>%
+    pivot_longer(-country,
+                 names_to = "year",
+                 values_to = "gdpPercap",
+                 names_prefix = "gdpPercap_",
+                 names_transform = list(year = as.integer))
+
+data[data$country == "Australia", ] %>%
+    ggplot(aes(x = year, y = gdpPercap)) +
+    geom_line()
+```
+````
 
 ## Beyond Notebooks...
 
@@ -276,6 +444,10 @@ Here you can access:
 - A text editor
 
 If you use R, you can also open **RStudio** using `?urlpath=rstudio`.
+
+You can also set this using the mybinder.org form (instead of editing the URL directly) as demonstrated in the below gif.
+
+![](https://user-images.githubusercontent.com/1448859/53651127-4dabe900-3c46-11e9-8684-2cfde840d4ce.gif)
 
 ## Now over to you!
 
