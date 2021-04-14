@@ -118,8 +118,6 @@
       file: reproducible-research/renv/renv-package
     - title: YAML
       file: reproducible-research/renv/renv-yaml
-    - title: Binder
-      file: reproducible-research/renv/renv-binder
     - title: Virtual Machines
       file: reproducible-research/renv/renv-vm
     - title: Containers
@@ -244,6 +242,8 @@
 
 - file: communication/communication
   sections:
+  - title: Binder
+    file: communication/binder
   - title: Community Communications for Open Source Projects
     file: communication/os-comms
     sections:
