@@ -244,6 +244,9 @@
   sections:
   - title: Binder
     file: communication/binder
+    sections:
+    - title: Zero-to-Binder
+      file: communication/binder/zero-to-binder
   - title: Community Communications for Open Source Projects
     file: communication/os-comms
     sections:
