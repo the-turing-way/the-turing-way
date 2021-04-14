@@ -1,5 +1,9 @@
 # Zero-to-Binder
 
+In this chapter, we will create a Binder project from a repository we create on GitHub and launch in on mybinder.org.
+Some steps have the option of Python, Julia or R languages - click on the tab of the language you would like to use.
+If you are following R, we have included some alternative steps using the [`holepunch` package](https://github.com/karthik/holepunch) which will build your environment using a [rocker base image](https://github.com/rocker-org/rocker) and should, ultimately, be faster to build and launch.
+
 ```{admonition} Attributions
 This tutorial is based on Tim Head's _Zero-to-Binder_ workshops which can be found here: <http://bit.ly/zero-to-binder> and <http://bit.ly/zero-to-binder-rise>
 ```
@@ -8,6 +12,17 @@ This tutorial is based on Tim Head's _Zero-to-Binder_ workshops which can be fou
 Binder can take a long time to load, but this doesn't necessarily mean that your Binder will fail to launch.
 You can always refresh the window if you see the "... is taking longer to load, hang tight!" message.
 ```
+
+## Requirements
+
+You will need:
+
+- **Some code and some data.**
+  The code should take less than **10 minutes to run**, and the data should be less than **10 MB**.
+  This might mean that you just pick one script from a bigger project, or bring a subset of your data.
+  Note that it's really important that the code and data can be made **public** because we'll be using the public binder instance.
+- **A GitHub account.**
+  Please sign up for one if you don't already have one: <https://github.com/join>
 
 ## 1. Creating a repo to Binderize
 
@@ -32,7 +47,6 @@ You can always refresh the window if you see the "... is taking longer to load, 
    [compat]
    julia = "1.3"
    ```
-
 ````
 
 ````{tabbed} R
@@ -42,9 +56,9 @@ You can always refresh the window if you see the "... is taking longer to load, 
 2) Create a file called `hello.R` via the web interface with `print("Hello from Binder!")` on the first line and commit to the `main` branch.
 3) Create a file called `runtime.txt` with `r-3.6-YYYY-MM-DD` on the first line, where `YYYY-MM-DD` is today's date (eg `r-2020-05-26`). Commit to the `main` branch.
 
-```{note}
-In R you can use `holepunch::write_runtime()` to create a `runtime.txt` in the `.binder/` directory, configured with today's date.
-```
+   ```{note}
+   In R you can use `holepunch::write_runtime()` to create a `runtime.txt` in the `.binder/` directory, configured with today's date.
+   ```
 ````
 
 ### Why did the repo have to be public?
@@ -57,7 +71,7 @@ If accessing private repositories is a feature you/your team need, we advise tha
 
 **TO DO:** :vertical_traffic_light:
 
-1) Go to **https://mybinder.org**
+1) Go to **<https://mybinder.org>**
 2) Type the URL of your repo into the "GitHub repo or URL" box.
    It should look like this:
    > **https://github.com/YOUR-USERNAME/my-first-binder**
