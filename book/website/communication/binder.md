@@ -256,7 +256,7 @@ For security reasons FTP is not allowed on [mybinder.org](https://mybinder.org).
 There is no way to access files which are not public from mybinder.org.
 You should consider all information in your Binder as public, meaning that:
 
-- there should be no passwords, tokens, keys etc in your GitHub repo;
+- there should be no passwords, tokens, keys and such in your GitHub repo;
 - you should not type passwords into a Binder running on mybinder.org; and
 - you should not upload your private SSH key or API token to a running Binder.
 
