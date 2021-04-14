@@ -309,7 +309,7 @@ For security reasons, the outgoing traffic of your Binder is restricted to HTTP 
 There is no way to access files which are not public from mybinder.org.
 You should consider all information in your Binder as public, meaning that:
 
-- there should be no passwords, tokens, keys etc in your GitHub repo;
+- there should be no passwords, tokens, keys and so on in your GitHub repo;
 - you should not type passwords into a Binder running on mybinder.org;
 - you should not upload your private SSH key or API token to a running Binder.
 
