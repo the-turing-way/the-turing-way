@@ -16,7 +16,7 @@ Please do say hi and [introduce yourself](https://discourse.jupyter.org/t/introd
 
 ## Requirements
 
-Ideally, the person in this role will be a member of the Turing Institute with an `@turing.ac.uk` domain email.
+The person in this role must be a member of the Turing Institute with an `@turing.ac.uk` domain email.
 This is due to the dependency on Turing internal processes/platforms, such as points 1 and 2 below.
 
 1) An account in the Turing's Azure tenancy
