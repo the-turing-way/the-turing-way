@@ -11,15 +11,15 @@ The allocation for the Binder Federation falls under _The Turing Way_ project wh
 This cluster also hosts Hub23, a private BinderHub for the Turing research community.
 Maintaining this infrastructure requires technical skill and a small time commitment that are detailed below.
 
-The Turing mybinder Federation administrator will report to Kirstie Whitaker, principle investigator of the Turing Way, and Malvika Sharan as community manager of the Turing Way.
-Kirstie and Malvika will also provide support with any administrative tasks such as applying for credits and capturing impact of the federation membership (see the [Responsibilities](#responsibilities) section for further detail).
+The [Turing mybinder Federation](https://turing.mybinder.org/) administrator will report to Kirstie Whitaker, principal investigator of the Turing Way, and Malvika Sharan as community manager of the Turing Way.
+Kirstie and Malvika will also provide support with any administrative tasks such as applying for credits and capturing the impact of the federation membership (see the [Responsibilities](#responsibilities) section for further detail).
 
 ## Requirements
 
-The person in this role must be a member of the Turing Institute with an `@turing.ac.uk` domain email.
+The person in this role must be a member of the Turing Institute with a `turing.ac.uk` domain email.
 This is due to the dependency on Turing internal processes/platforms, such as points 1 and 2 below.
 
-1) An account in the Turing's Azure tenancy
+1) An account in Turing's Azure tenancy
 2) Access to the `turingmybinder` subscription (can be arranged with IT Services through Top Desk)
 3) Knowledge of Kubernetes and Helm
 
@@ -33,22 +33,22 @@ Deployments are managed by CI in the [mybinder.org-deploy repo](https://github.c
   Knowing who we are and why we're here helps us support each other and connect those who can help each other.
   Please do say hi and [introduce yourself](https://discourse.jupyter.org/t/introduce-yourself/17)! :smile:
 - Watch the [team-compass](https://github.com/jupyterhub/team-compass) for any relevant updates or opportunities for participation
-- Attend the [monthly team meetings](https://jupyterhub-team-compass.readthedocs.io/en/latest/meetings.html) when able.
+- Regularly attend the [monthly team meetings](https://jupyterhub-team-compass.readthedocs.io/en/latest/meetings.html).
   The link above contains a monthly report archive to catch up on missed meetings.
-- Be available in the [mybinder.org-deploy gitter chat](https://gitter.im/jupyterhub/mybinder.org-deploy) to liaise with the operating team should the cluster experience any technical difficulties
+- Be available in the [mybinder.org-deploy Gitter chat](https://gitter.im/jupyterhub/mybinder.org-deploy) to liaise with the operating team should the cluster experience any technical difficulties
 - Be willing to co-work/pair programme with the mybinder.org operating teams to debug any issues with the cluster.
-  Particularly [Tim Head](https://github.com/betatim) who is the only other person with direct access to the subscription.
+  Particularly with [Tim Head](https://github.com/betatim), who is the only other person with direct access to the subscription.
 
 ### Azure Credit Management and Impact Reporting
 
 - Monitor the `turingmybinder` subscription credits on Azure (under the Turing's tenancy) and [file requests for additional credits](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=fabf0809069f42a5a36c61d677da08fa&openedFromService=true) using [the template](credit_requests/turing_mybinder_azure_credit_request_template.md).
-  Credit requests are made to the Turing's Microsoft Sponsorship fund so there shouldn't be a time limit on funding, but of course this is constrained by Microsoft's continuation of the Sponsorship.
+  Credit requests are made to the Turing's Microsoft Sponsorship fund so there shouldn't be a time limit on funding, but of course, this is constrained by Microsoft's continuation of the Sponsorship.
   - The candidate may also be required to fill in surveys on Turing's Azure usage to feedback to Microsoft.
     The Binder Federation Cluster has been showcased in Azure reports previously.
   - **N.B.:** Now that Hub23 and the Turing Federation Hub share the same infrastructure/subscription, this template and further credit requests may need updating.
     For example, there are now 2 key vaults and 2 DNS zones deployed in the subscription, alongside 1 Kubernetes cluster and 1 Azure Container Registry.
 - Provide quarterly usage statistics across mybinder.org and the Turing cluster to Kirstie Whitaker and Malvika Sharan for reporting to the Tools, Practices and Systems research programme
-  - This can be achieved with some community developed tools, such as [bitnik/binder-launches](https://github.com/bitnik/binder-launches) (currently deployed [here](https://notebooks-test.gesis.org/binderlaunches/)) and [betatim/binderlyzer](https://github.com/betatim/binderlyzer)
+  - This can be achieved with some community-developed tools, such as [bitnik/binder-launches](https://github.com/bitnik/binder-launches) (currently deployed [here](https://notebooks-test.gesis.org/binderlaunches/)) and [betatim/binderlyzer](https://github.com/betatim/binderlyzer)
 
 ### Other tasks
 
