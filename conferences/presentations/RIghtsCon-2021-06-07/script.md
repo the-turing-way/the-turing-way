@@ -1,9 +1,10 @@
 # Script for lightning talk at RightsCon2021
 
-8-10 minute recorded talk, in the Human Rights-Centered Design track
+8-10 minute recorded talk, in the Human Rights-Centered Design track - probably about 1500 words
 (possibly also with an AMA during the conference)
 
 ## Original pitch
+([original application](https://github.com/alan-turing-institute/the-turing-way/blob/master/conferences/abstracts/2021-01-RightsCon.md))
 Data scientists make data-driven decisions throughout the lifecycle of their projects. 
 It is their duty to ensure that their work maintains a high level of moral integrity as well as the highest scientific standards, especially, when it impacts people’s lives. 
 In this presentation, we will introduce The Turing Way, an open source book project that involves and supports its diverse community in developing and sharing resources that make data science reproducible, ethical, collaborative and inclusive. 
