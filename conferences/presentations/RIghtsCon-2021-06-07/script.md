@@ -33,10 +33,11 @@ There are five books in the Turing Way: covering collaboration, project design, 
 We're going to focus on the Guide to Ethical Research.
 
 The aim of the Guide to Ethical Research is to support data scientists - and researchers using data science - to work in an ethical way.
+We start from the position that as data science researchers, we have an obligation to consider the impact of our research. 
 So far, contributors to the Guide to Ethical Research have contributed chapters on working with institutional ethics boards, the relationship between ethics and research integrity, and ethics in preclinical research.
 
 But we don't see ethics as a static or one-off part of research.
-Ethical research includes every part of research: including making sure your institution is treating its workers and its research participants well. 
+Ethical research includes every part of research: including making sure your institution is treating its worker, its research participants, and everyone else involved, well. 
 The Guide to Ethical Research also includes information on how to advocate for policy change within your institution: if you don't like how something is done, you can change it!
 It also covers how to be an activist researcher, and how and why unionisation can be important for data scientists to practice ethically.
 
