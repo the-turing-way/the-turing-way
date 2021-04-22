@@ -34,7 +34,7 @@ Deployments are managed by CI in the [mybinder.org-deploy repo](https://github.c
   Please do say hi and [introduce yourself](https://discourse.jupyter.org/t/introduce-yourself/17)! :smile:
 - Watch the [team-compass](https://github.com/jupyterhub/team-compass) for any relevant updates or opportunities for participation
 - Regularly attend the [monthly team meetings](https://jupyterhub-team-compass.readthedocs.io/en/latest/meetings.html).
-  The link above contains a monthly report archive to catch up on missed meetings.
+  The provided link contains a monthly report archive to catch up on missed meetings.
 - Be available in the [mybinder.org-deploy Gitter chat](https://gitter.im/jupyterhub/mybinder.org-deploy) to liaise with the operating team should the cluster experience any technical difficulties
 - Be willing to co-work/pair programme with the mybinder.org operating teams to debug any issues with the cluster.
   Particularly with [Tim Head](https://github.com/betatim), who is the only other person with direct access to the subscription.
