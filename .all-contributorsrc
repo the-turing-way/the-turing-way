@@ -2315,7 +2315,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/8530685?v=4",
       "profile": "http://inwaves.io",
       "contributions": [
-        "bug"
+        "bug",
+        "review"
       ]
     },
     {
@@ -2435,6 +2436,33 @@
       "profile": "https://github.com/AidaMehonic",
       "contributions": [
         "ideas"
+      ]
+    },
+    {
+      "login": "RobPrecious",
+      "name": "Robert Precious",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9133187?v=4",
+      "profile": "https://github.com/RobPrecious",
+      "contributions": [
+        "a11y"
+      ]
+    },
+    {
+      "login": "afzal442",
+      "name": "Afzal Ansari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11625672?v=4",
+      "profile": "https://github.com/afzal442",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "JiaruiWang-Jill",
+      "name": "Jill Wang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41178872?v=4",
+      "profile": "https://github.com/JiaruiWang-Jill",
+      "contributions": [
+        "bug"
       ]
     }
   ],

@@ -119,41 +119,41 @@ You can now work on your copy using the command line, via the following steps:
 
 1. Clone it to your local machine:
 
-```
-git clone git@github.com/your_username/forked_repository.git
-```
+    ```
+    git clone git@github.com/your_username/forked_repository.git
+    ```
 
 2. Add the 'upstream' repository to the list of remote repositories using a similar command as below (replace the upstream repository's users id and original repository name):
 
-```
-git remote add upstream https://github.com/upstream_user's_username/original_repository.git
-```
+    ```
+    git remote add upstream https://github.com/upstream_user's_username/original_repository.git
+    ```
 
 3. Verify the new remote 'upstream' repository:
 
-```
-git remote -v
-```
+    ```
+    git remote -v
+    ```
 
 4. Update your fork with the latest upstream changes, by first fetching the upstream repository's branches and latest commits to bring them into your repository:
 
-```
-git fetch upstream
-```
+    ```
+    git fetch upstream
+    ```
 
 5. View all branches, including those from upstream:
 
-```
-git branch -va
-```
+    ```
+    git branch -va
+    ```
 
 Make sure that you are on your master branch locally, if not, then checkout your master branch using the command `git checkout master`
 
 6. Keep your fork updated by merging those commits (fetched from the upstream) to your own local master branch.
 
-```
-git merge upstream/master
-```
+    ```
+    git merge upstream/master
+    ```
 
 Now, your local master branch is up-to-date with everything modified upstream.
 If there are no unique commits on the local master branch, git will simply perform a fast-forward.
