@@ -1,11 +1,14 @@
 # Zero-to-Binder
 
 In this chapter, we will create a Binder project from a repository we create on GitHub and launch in on mybinder.org.
+Sections where you are expected to complete a task are denoted by three traffic light 🚦 emojis.
 Some steps have the option of Python, Julia or R languages - click on the tab of the language you would like to use.
-If you are following R, we have included some alternative steps using the [`holepunch` package](https://github.com/karthik/holepunch) which will build your environment using a [rocker base image](https://github.com/rocker-org/rocker) and should, ultimately, be faster to build and launch.
+**If you are following R, we have included some alternative steps using the [`holepunch` package](https://github.com/karthik/holepunch) which will build your environment using a [rocker base image](https://github.com/rocker-org/rocker) and should, ultimately, be faster to build and launch.**
 
 ```{admonition} Attributions
 This tutorial is based on Tim Head's _Zero-to-Binder_ workshops which can be found here: <http://bit.ly/zero-to-binder> and <http://bit.ly/zero-to-binder-rise>
+
+Thank you to Anna Krystalli and Oliver Strickson for their help developing the R and Julia content, respectively.
 ```
 
 ```{attention}
@@ -26,7 +29,7 @@ You will need:
 
 ## 1. Creating a repo to Binderize
 
-**TO DO:** :vertical_traffic_light:
+🚦🚦🚦
 
 ````{tabbed} Python
 1) Create a new repo on GitHub called "my-first-binder".
@@ -69,7 +72,7 @@ If accessing private repositories is a feature you/your team need, we advise tha
 
 ## 2. Launch your first repo!
 
-**TO DO:** :vertical_traffic_light:
+🚦🚦🚦
 
 1) Go to **<https://mybinder.org>**
 2) Type the URL of your repo into the "GitHub repo or URL" box.
@@ -95,7 +98,7 @@ While you wait, BinderHub (the backend of Binder) is:
 
 ## 3. Run the script
 
-**TO DO:** :vertical_traffic_light:
+🚦🚦🚦
 
 ````{tabbed} Python
 1. In the top right corner, click "New" :arrow_right: "Terminal"
@@ -122,7 +125,7 @@ While you wait, BinderHub (the backend of Binder) is:
 
 It was easy to get started, but our environment is barebones - let's add a **dependency**!
 
-**TO DO:** :vertical_traffic_light:
+🚦🚦🚦
 
 ````{tabbed} Python
 1) In your repo, create a file called `requirements.txt`
@@ -202,7 +205,7 @@ For more robust and specific version pinning in R, have a look at package [`renv
 
 ## 5. Check the Environment
 
-**TO DO:** :vertical_traffic_light:
+🚦🚦🚦
 
 ````{tabbed} Python
 1) In the top right corner, click "New" :arrow_right: "Python 3" to open a new notebook
@@ -266,7 +269,7 @@ Binder is all about sharing your work easily and there are two ways to do it:
 - Visit **<https://mybinder.org>**, type in the URL of your repo and copy the Markdown or ReStructured Text snippet into your `README.md` file.
   This snippet will render a badge that people can click, which looks like this: ![Binder](https://mybinder.org/badge_logo.svg)
 
-**TO DO:** :vertical_traffic_light:
+🚦🚦🚦
 
 1) Add the **Markdown** snippet from **<https://mybinder.org>** to the `README.md` file in your repo
    - The grey bar displaying a binder badge will unfold to reveal the snippets.
@@ -322,7 +325,7 @@ However, that is not to say that they are the _only_ groups of people who should
 
 ## 8. Get data with `postBuild`
 
-**TO DO:** :vertical_traffic_light:
+🚦🚦🚦
 
 ````{tabbed} Python
 1) Go to your GitHub repo and create a file called `postBuild`
