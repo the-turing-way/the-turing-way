@@ -1,14 +1,15 @@
+(rr-compendia)=
 # Research Compendia
 
 ## Prerequisite
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
-| [Version Control](../version-control) | Helpful | Can be used to version the compendium|
-| [Open Research](../open-research)       | Helpful | Components are part of the compendium |
-| [Reproducible Environments](../reproducible-environments) | Helpful | Can be used to make the compendium reproducible |
-| [Binder Hub](../binderhub) | Helpful | Can be used to publish the compendium |
-| [Reproducibility with Make](../make) | Helpful | Can be used for automation in the compendium |
+| {ref}`Version Control<rr-vcs>` | Helpful | Can be used to version the compendium|
+| {ref}`Open Research<rr-open>`       | Helpful | Components are part of the compendium |
+| {ref}`Reproducible Environments<rr-renv>` | Helpful | Can be used to make the compendium reproducible |
+| {ref}`Binder Hub<rr-binderhub>` | Helpful | Can be used to publish the compendium |
+| {ref}`Make<rr-make>` | Helpful | Can be used for automation in the compendium |
 
 ## Summary
 
@@ -33,7 +34,7 @@ _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5
 A research compendium [{term}`def<Research Compendia>`] combines all elements of your project, allowing others to reproduce your work, and should be the final product of your research project.
 Publishing your research paper along with a research compendium allows others to access your input, test your analysis, and, if the compendium can be executed, rerun to assess the resulting output.
 This does not only instill trust in your research but can give you more visibility.
-Others may use your research in unexpected ways, some of which are discussed below (refer section: [Using a research compendium](#using-a-research-compendium).
+Others may use your research in unexpected ways, some of which are discussed below (refer to section: {ref}`Using a research compendium<rr-compendia-using>`).
 
 ## Background
 
@@ -129,9 +130,9 @@ There are several options to publish a research compendium:
 
 For examples, see the label/tag/community "research-compendium" (applied on GitHub, Zenodo, OSF) or as a fallback the term "research compendium" in the description (used on GitLab). For more info, see also https://research-compendium.science.
 
-In the future, the research compendium may even be the publication itself which is being peer reviewed (rather than just peer reviewing the paper, why not review the entire research project).
+In the future, the research compendium may even be the publication itself allowing peer review of the entire research project.
 
-
+(rr-compendia-using)=
 ### Using a Compendium
 
 A research compendium can be used in several ways, including (but not limited to):
