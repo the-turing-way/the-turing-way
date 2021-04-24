@@ -29,7 +29,7 @@ However, it can be difficult to know where to start when you want to make a chan
 
 Activism in your workplace can include:
 * [*Unionisation*](https://the-turing-way.netlify.app/ethical-research/ethical-research/activism/activism-unionisation.md) collective organisation of workers to improve working conditions
-* [*Internal policy advocacy*](https://the-turing-way.netlify.app/ethical-research/ethical-research/activism/activism-internal-policy.md) campaigning to change the way your institution makes decisions or handles certain situations: this can include, for example, advocating for open data practices!
+* [*Internal policy advocacy*](https://the-turing-way.netlify.app/ethical-research/ethical-research/activism-internal-policy.md) campaigning to change the way your institution makes decisions or handles certain situations: this can include, for example, advocating for open data practices!
 * [*Whistleblowing*](https://the-turing-way.netlify.app/ethical-research/ethical-research/activism/activism-whistleblowing.md) the act of alerting authorities or the press to problems in your institution
 
 In the future, we would like to expand this chapter to include guides to activism in wider society for scientists, for example, how to engage with government policy-making processes.

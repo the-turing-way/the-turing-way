@@ -8,7 +8,6 @@ The research communities responded with a sudden surge of hackathons, data model
 
 ```{figure} ../figures/new-community.png
 ---
-height: 500px
 name: new-community
 alt: An illustration of 2 people who are working together and discussing a data chart.
 ---
