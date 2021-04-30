@@ -6,7 +6,7 @@ The Turing Way Newsletter: 30 April 2021
 Hello Turing Way friends!
 
 The COVID-19 pandemic has impacted our lives in one way or another. 
-*Make sure you extend your kindness to yourself too. It’s a difficult time, so remember to cut yourself some slack!‍* - as quoted in [ZOE COVID Symptom Study](https://covid.joinzoe.com/post/covid-anxiety-tips). 🌸
+*Make sure you extend your kindness to yourself too. It’s a difficult time, so remember to cut yourself some slack!‍* 🌸 (as quoted in [ZOE COVID Symptom Study](https://covid.joinzoe.com/post/covid-anxiety-tips))
 
 In this newsletter we highlight:
 
