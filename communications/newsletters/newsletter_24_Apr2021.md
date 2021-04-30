@@ -19,7 +19,7 @@ Find more details on these topics and more updates from the community below! �
 
 ## Community meetings
 
-![This illustration shows that closed source projects are driven by the needs of the institution or the individuals whereas the open source community allows different people to interact, exchange ideas, collaborate and build resource using “by the community - for the community” principles.](images/2021-04-opensourcecollab-1.png)
+![This illustration shows that closed source projects are driven by the needs of the institution or the individuals whereas the open source community allows different people to interact, exchange ideas, collaborate and build resource using “by the community - for the community” principles.](images/2021-04-opensourcecollab.png)
 
 *The Turing Way Community, & Scriberia. (2020, November). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.4323154*
 
@@ -32,13 +32,16 @@ At these online calls, members of our community like the participants attending 
 This event will be ideal for anyone interested to learn about *The Turing Way*, see what recent updates have made in the project and celebrate the incredible work of our contributors. 
 In the registration form, you can indicate if you would like to showcase your contributions to the project.
 
-### GitHub Session for the Beginners on 13 May 2021: Sign up!
+### GitHub Session for Beginners on 13 May 2021: Sign up!
 
 We will be hosting a 1-hour GitHub session for beginners or new users of GitHub for collaborative projects like *The Turing Way* on 13 May 2021 from [16:00 - 17:00 London time (UTC+1)](https://arewemeetingyet.com/London/2021-05-12/16:00).
 You can [sign up on this HackMD](https://hackmd.io/-3_C0USqRLe-ReQEdBaX3Q?both#Sign-up-below-by-adding-your-name) (you can directly add your name on the left panel).
 
 This event is being organised in preparation for the upcoming Book Dash to ensure that our contributors feel confident about using GitHub.
-Particularly, we want to enhance understanding of Open Source projects, version control for reproducibility and promote collaborative practices as we build *The Turing Way* together.
+Particularly, we want to:
+* enhance the understanding of Open Source projects, 
+* highlight the importance of version control for reproducibility, and
+* promote collaborative practices as we build *The Turing Way* together.
 
 ### Regular community calls
 
@@ -70,7 +73,7 @@ You can read about the Book Dash online in [*The Turing Way* book](https://the-t
 
 ### Open Geospatial Data Science of *The Turing Way* - Brown Bag Seminar
 
-![Announcement poster by the Geographic Data Science Lab Organizer with speaker names (Ana Basiri, Hyesop Shin, Terry Lines) their images with date and time of the event (on 6 May at 03:00 BST)](images/2021-04-bbs-anabasiri-2.png)
+![Announcement poster by the Geographic Data Science Lab Organizer with speaker names (Ana Basiri, Hyesop Shin, Terry Lines) their images with date and time of the event (on 6 May at 03:00 BST)](images/2021-04-bbs-anabasiri.png)
 
 *Announcement of the Brown Bag Seminar by the Geographic Data Science Lab Organizer*
 
@@ -94,7 +97,7 @@ The [submission categories](https://hidden-ref.org/categories/) are crowdsourced
 Submissions will close on 14th May 2021. 
 They will be reviewed by panels drawn from across the research community and winners will be announced in June 2021.
 
-![Submission to the Hidden REF is easy. We are asking for a 300-word summary outlining the contribution to research and there are 21 categories to choose from.](images/2021-04-hiddenref-3.jpg)
+![Submission to the Hidden REF is easy. We are asking for a 300-word summary outlining the contribution to research and there are 21 categories to choose from.](images/2021-04-hiddenref.jpg)
 
 *Tweet by [hidden REF](https://twitter.com/HiddenRef/status/1387429727506423813?s=20) requesting submission outlining the contribution to research. There are 21 categories to choose from.*
 
@@ -109,7 +112,7 @@ Her talk explores reproducibility in terms of what reproducible research is in E
 Zenodo link: [http://doi.org/10.5281/zenodo.4704811](http://doi.org/10.5281/zenodo.4704811). 
 
 On 27 April 2021, she also gave a talk for ReproducibiliTea at the University of Portsmouth. 
-She introduced *The Turing Way* described how people can start to do reproducible research by working transparently and collaboratively using Github. 
+She introduced *The Turing Way*, described how people can start to do reproducible research by working transparently and collaboratively using Github. 
 It also explores the community, open-source and collaborative nature of the project.
 Zenodo link: [http://doi.org/10.5281/zenodo.4719847](http://doi.org/10.5281/zenodo.4719847).
 
@@ -124,7 +127,7 @@ Zenodo link: [https://zenodo.org/record/4729686](https://zenodo.org/record/47296
 
 ### Congratulations to the new Software Sustainability Institute Fellows
 
-![Image of all the 19 Fellows from 2021](images/2021-04-ssifellows2021-4.png)
+![Image of all the 19 Fellows from 2021](images/2021-04-ssifellows2021.png)
 
 *[The 2021 Fellows](https://www.software.ac.uk/news/announcing-2021-software-sustainability-institute-fellows) are Abhishek Dasgupta, Alison Clarke, Chris Jochem, Colin Sauze, Daniele Procida, Dave Horsfall, Dominik Krzemiński, Eli Chadwick, **Emma Karoune** (highlighted with a blue circle), Hannah Williams, Iain Barrass, Katy Brown, Leontien Talboom, Mateusz Malenta, Matthew Bluteau, Michael Berks, Simon Waldman, Thibault Lestang and Yadira Sánchez.*
 
@@ -143,13 +146,13 @@ You can read about the fellowship [here](https://www.software.ac.uk/news/announc
 
 ### Twitter Mentions
 
-![A collage of four tweets that are linked and described below](images/2021-04-tweetcollage-5.png)
+![A collage of four tweets that are linked and described below](images/2021-04-tweetcollage.png)
 
 - **1** [Aleksandra Lazic tweeted](https://twitter.com/AleLazic/status/1384899325352980480?s=20) a sneak peek of her RDA plenary talk, sharing that she loves reusing *The Turing Way* illustrations. 
 Her project resources “Repository of psychological instruments in Serbian” are available online: https://osf.io/5zb8p/.
 - **2** [Sam Leggett tweeted](https://twitter.com/samleggs22/status/1385974288428195842?s=20) some slides from  Emma’s talk on 24 April under the title “Striving for reproducibility in Environmental Archaeology”.
 - **3** [Tweet by Kirstie](https://twitter.com/kirstie_j/status/1385714991618211841?s=20) highlighting that respectful co-creation is important to work with neurodivergent people and heavily related to our goal in *The Turing Way*.
-- **4** [Tweet by 4TU ResearchData](https://twitter.com/4TUResearchData/status/1388057147259371523?s=20) highlighting four principles described by Malvika on building open communities of collaboration as design for collaboration, document processes, create shared ownership and recognise all contributions.
+- **4** [Tweet by 4TU ResearchData](https://twitter.com/4TUResearchData/status/1388057147259371523?s=20) highlighting four principles described by Malvika on building open communities of collaboration as: (1) design for collaboration, (2) document processes, (3) create shared ownership and (4) recognise all contributions.
 
 ## Connect with us!
 
