@@ -606,7 +606,7 @@ In this effort, the contributions from the Faculty of Applied Sciences have main
 * Roles: 
   * Book Dash February 2020 Attendee
   * Book Dash Planning Committee 2021 
-  * Semi regular co-working call attendee
+  * Semi regular co-working call crasher
 * GitHub id: [EstherPlomp](https://github.com/estherplomp)
 * ORCID: [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
 * Twitter: [@PhDToothFAIRy](https://twitter.com/PhDToothFAIRy/)
