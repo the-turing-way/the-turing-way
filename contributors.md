@@ -166,33 +166,6 @@ I'm an independent post-doctoral researcher working in the field of Environmenta
 >I try to work as openly as possible and a large part of my current research is developing easy and accessible to all collaborative and open ways of working. I am also working hard to bring together specialists in my field into a working group for Open Science so that we can work collaboratively towards subject-specific FAIR guidelines for phytolith data. 
 
 
-### Esther Plomp
-
-* Role: Book Dash February 2020 Attendee, semi regular co-working call crasher
-* GitHub id: [EstherPlomp](https://github.com/estherplomp)
-* ORCID: [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
-* Twitter: [@PhDToothFAIRy](https://twitter.com/PhDToothFAIRy/)
-* Short bio:
-> I'm a Data Steward at Delft University of Technology in the Netherlands, where I support researchers with their data management and open science practices. 
-> For my PhD research I analysed human teeth for their isotopic/chemical composition in order to say something about human mobility patterns (fields of forensics, archaeology, osteology).
-
-* Personal highlights:
-> Thanks to the Turing Way I really learned how to work collaboratively using GitHub. 
-The book dash was a great kick start to actually practise and directly apply these skills, which now allows me to contribute more confidently to other projects as well!
-> I primarily contributed to the Reproducible Research Chapter, to the Research Data Management section. I reviewed existing content and I'm working on adding a section on Data Management Plans and how to handle personal data. 
-> I also made a [The Turing Way poster](https://doi.org/10.5281/zenodo.4263403) that I presented during a conference. 
-> I hope to pay it forward and facilitate others in learning how to work with GitHub through The Turing Way or The Carpentries workshops.
-> I'm very grateful to be part of this great and inclusive community!
-
-* More information:
-> I think scientific research should be accessible to anyone that would like to learn and contribute. 
-> I'm hoping to bring together specialists from my research field to establish guidelines for isotopic data from human remains and guidelines for how to handle and document physical samples. 
-I'm a co-chair of the Research Data Alliance group [Physical Samples and Collections in the Research Data Ecosystem IG](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig). 
-Please do get in touch if you work with physical samples and would like to get involved!
-> I'm part of the Open Research Calendar Team. 
-This is a calendar that you can use to stay up to date with open research events, or add your own events to in order to increase visibility. 
-Visit us at the [Open Research Calendar Website](https://openresearchcalendar.github.io/) or follow the calendar on [Twitter](https://twitter.com/OpenResearchCal)!
-
 
 
 <!---F--->
@@ -620,6 +593,44 @@ I am an associate member of the Chartered Institute of Personnel and Development
 *When members participate in The Turing Way community with the in-kind support of their funders and organisation, we acknowledge each member individually and list their organisations as “Collaborating organisations”.
 Such organisational supports are applicable when one or multiple members from a project or community collaborate to build resources in The Turing Way.*
 
+### [Delft University of Technology - Faculty of Applied Sciences](https://www.tudelft.nl/en/faculty-of-applied-sciences)
+
+The Faculty of Applied Sciences is the largest of Delft University of Technology and focuses on finding innovative solutions to some of the problems faced by society. 
+Development of the fundamental knowledge needed to underpin technical developments that can be widely used throughout society. 
+In ensuring that this knowledge can be shared efectively with the wider society, the Faculty values the sharing of data and code and has a [Research Data Management policy](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/) in place since 2020. 
+In this effort, the contributions from the Faculty of Applied Sciences have mainly focused on the Reproducible Research Chapter of _The Turing Way_. 
+
+
+#### Esther Plomp
+
+* Roles: 
+  * Book Dash February 2020 Attendee
+  * Book Dash Planning Committee 2021 
+  * Semi regular co-working call crasher
+* GitHub id: [EstherPlomp](https://github.com/estherplomp)
+* ORCID: [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
+* Twitter: [@PhDToothFAIRy](https://twitter.com/PhDToothFAIRy/)
+* Short bio:
+> I'm a Data Steward at Delft University of Technology in the Netherlands, where I support researchers with their data management and open science practices. 
+> For my PhD research I analysed human teeth for their isotopic/chemical composition in order to say something about human mobility patterns (fields of forensics, archaeology, osteology).
+
+* Personal highlights:
+> Thanks to the Turing Way I really learned how to work collaboratively using GitHub. 
+The book dash was a great kick start to actually practise and directly apply these skills, which now allows me to contribute more confidently to other projects as well!
+> I primarily contributed to the Reproducible Research guide's Research Data Management chapters. I reviewed existing content and I'm working on adding a section on Data Management Plans and how to handle personal data. 
+> I also made a [The Turing Way poster](https://doi.org/10.5281/zenodo.4263403) that I presented during a conference. 
+> I hope to pay it forward and facilitate others in learning how to work with GitHub through The Turing Way or The Carpentries workshops.
+> I'm very grateful to be part of this great and inclusive community!
+
+* More information:
+> I think scientific research should be accessible to anyone that would like to learn and contribute. 
+> I'm hoping to bring together specialists from my research field to establish guidelines for isotopic data from human remains and guidelines for how to handle and document physical samples. 
+I'm a co-chair of the Research Data Alliance group [Physical Samples and Collections in the Research Data Ecosystem IG](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig). 
+Please do get in touch if you work with physical samples and would like to get involved!
+> I'm part of the Open Research Calendar Team. 
+This is a calendar that you can use to stay up to date with open research events, or add your own events to in order to increase visibility. 
+Visit us at the [Open Research Calendar Website](https://openresearchcalendar.github.io/) or follow the calendar on [Twitter](https://twitter.com/OpenResearchCal)!
+
 ### [Netherlands eScience Center](https://www.esciencecenter.nl/)
 
 The Netherlands eScience Center is the Dutch national hub for the development and application of domain overarching software and methods for the scientific community. Their main goal is to enable scientists with varying computing experience to fully utilize the potential of the available e-infrastructure and allow them to achieve otherwise unreachable scientific breakthroughs. The Netherlands eScience Center is primarily funded by the national research council (NWO) and the national e-infrastructure organization (SURF) of the Netherlands.
@@ -652,5 +663,4 @@ Details of each members with their contributions have been listed alphabetically
 
 * Personal highlights:
 > I have personally contributed to _The Turing Way_ by drafting chapters in the guide for Reproducible Research, reviewed other contributor's Pull Requests and mentored contributions from Netherlands eScience Center.
-
 
