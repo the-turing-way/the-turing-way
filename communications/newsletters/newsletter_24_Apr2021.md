@@ -19,7 +19,7 @@ Find more details on these topics and more updates from the community below! �
 
 ## Community meetings
 
-![This illustration shows that closed source projects are driven by the needs of the institution or the individuals whereas the open source community allows different people to interact, exchange ideas, collaborate and build resource using “by the community - for the community” principles.](images/2021-04-opensourcecollab.png)
+![This illustration shows that closed source projects are driven by the needs of the institution or the individuals whereas the open source community allows different people to interact, exchange ideas, collaborate and build resource using “by the community - for the community” principles.](images/2021-04-opensourcecollab-1.png)
 
 *The Turing Way Community, & Scriberia. (2020, November). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.4323154*
 
@@ -73,7 +73,7 @@ You can read about the Book Dash online in [*The Turing Way* book](https://the-t
 
 ### Open Geospatial Data Science of *The Turing Way* - Brown Bag Seminar
 
-![Announcement poster by the Geographic Data Science Lab Organizer with speaker names (Ana Basiri, Hyesop Shin, Terry Lines) their images with date and time of the event (on 6 May at 03:00 BST)](images/2021-04-bbs-anabasiri.png)
+![Announcement poster by the Geographic Data Science Lab Organizer with speaker names (Ana Basiri, Hyesop Shin, Terry Lines) their images with date and time of the event (on 6 May at 03:00 BST)](images/2021-04-bbs-anabasiri-2.png)
 
 *Announcement of the Brown Bag Seminar by the Geographic Data Science Lab Organizer*
 
@@ -97,7 +97,7 @@ The [submission categories](https://hidden-ref.org/categories/) are crowdsourced
 Submissions will close on 14th May 2021. 
 They will be reviewed by panels drawn from across the research community and winners will be announced in June 2021.
 
-![Submission to the Hidden REF is easy. We are asking for a 300-word summary outlining the contribution to research and there are 21 categories to choose from.](images/2021-04-hiddenref.jpg)
+![Submission to the Hidden REF is easy. We are asking for a 300-word summary outlining the contribution to research and there are 21 categories to choose from.](images/2021-04-hiddenref-3.jpg)
 
 *Tweet by [hidden REF](https://twitter.com/HiddenRef/status/1387429727506423813?s=20) requesting submission outlining the contribution to research. There are 21 categories to choose from.*
 
@@ -112,7 +112,7 @@ Her talk explores reproducibility in terms of what reproducible research is in E
 Zenodo link: [http://doi.org/10.5281/zenodo.4704811](http://doi.org/10.5281/zenodo.4704811). 
 
 On 27 April 2021, she also gave a talk for ReproducibiliTea at the University of Portsmouth. 
-She introduced *The Turing Way*, described how people can start to do reproducible research by working transparently and collaboratively using Github. 
+She introduced *The Turing Way* and described how people can start to do reproducible research by working transparently and collaboratively using Github. 
 It also explores the community, open-source and collaborative nature of the project.
 Zenodo link: [http://doi.org/10.5281/zenodo.4719847](http://doi.org/10.5281/zenodo.4719847).
 
@@ -127,7 +127,7 @@ Zenodo link: [https://zenodo.org/record/4729686](https://zenodo.org/record/47296
 
 ### Congratulations to the new Software Sustainability Institute Fellows
 
-![Image of all the 19 Fellows from 2021](images/2021-04-ssifellows2021.png)
+![Image of all the 19 Fellows from 2021](images/2021-04-ssifellows2021-4.png)
 
 *[The 2021 Fellows](https://www.software.ac.uk/news/announcing-2021-software-sustainability-institute-fellows) are Abhishek Dasgupta, Alison Clarke, Chris Jochem, Colin Sauze, Daniele Procida, Dave Horsfall, Dominik Krzemiński, Eli Chadwick, **Emma Karoune** (highlighted with a blue circle), Hannah Williams, Iain Barrass, Katy Brown, Leontien Talboom, Mateusz Malenta, Matthew Bluteau, Michael Berks, Simon Waldman, Thibault Lestang and Yadira Sánchez.*
 
@@ -146,7 +146,7 @@ You can read about the fellowship [here](https://www.software.ac.uk/news/announc
 
 ### Twitter Mentions
 
-![A collage of four tweets that are linked and described below](images/2021-04-tweetcollage.png)
+![A collage of four tweets that are linked and described below](images/2021-04-tweetcollage-5.png)
 
 - **1** [Aleksandra Lazic tweeted](https://twitter.com/AleLazic/status/1384899325352980480?s=20) a sneak peek of her RDA plenary talk, sharing that she loves reusing *The Turing Way* illustrations. 
 Her project resources “Repository of psychological instruments in Serbian” are available online: https://osf.io/5zb8p/.
