@@ -2474,6 +2474,16 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "warrickball",
+      "name": "Warrick Ball",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20858744?v=4",
+      "profile": "http://warrickball.github.io",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
