@@ -23,7 +23,7 @@ Most importantly, we will demonstrate how RightsCon attendees can get involved!
 
 (Introduce speakers)
 
-The Turing Way is a collaborative book project.
+The Turing Way is a collaborative book project that aims to make reproducible, ethical, and inclusive data science 'too easy not to do.'
 It is based at the Alan Turing Institute, the UK's national centre for data science and artificial intelligence. 
 It's an open source, collaborative project: and has contributors from all over the world.
 
@@ -52,4 +52,3 @@ We have a weekly onboarding call, which is open to everyone: come along, say hi,
 We also run Collaboration Cafes every fortnight to work together on the book.
 And twice a year we run Book Dash events, bringing together collaborators from all over the world to work together. 
 We're looking forward to having you join us!
-
