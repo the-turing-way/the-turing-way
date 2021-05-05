@@ -13,7 +13,7 @@ The different access levels define the increasing order of rights and responsibi
 name: github-roles
 alt: This is a screenshot from GitHub user setting, that shows contributor roles by what level of access they have in the repository.
 ---
-A screenshot of the GitHub contributor roles: “Read -> Triage -> Write -> Maintain -> Admin”
+A screenshot of the GitHub contributor roles: “Read, Triage, Write, Maintain, Admin”
 ```
 
 The default minimum permissions to ‘read’ allows reading, forking, creating issues, fixing easy bugs and suggesting minor changes.

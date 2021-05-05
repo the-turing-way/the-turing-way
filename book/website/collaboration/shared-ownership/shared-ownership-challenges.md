@@ -1,5 +1,5 @@
 (cl-shared-ownership-challenges)=
-# Applying Ownership Models Retroactively
+# Challenges with Applying Ownership Models Retroactively
 
 While these project ownership models represent the ideals of open source, there are issues that hinder their universal adoption.
 Specifically, it is difficult to apply shared ownership models retroactively for a few reasons described below.
