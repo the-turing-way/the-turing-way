@@ -24,7 +24,7 @@ Most importantly, we will demonstrate how RightsCon attendees can get involved!
 (Introduce speakers)
 
 The Turing Way is a collaborative book project that aims to make reproducible, ethical, and inclusive data science 'too easy not to do.'
-It is based at the Alan Turing Institute, the UK's national centre for data science and artificial intelligence. 
+The book is based at the Alan Turing Institute, the UK's national centre for data science and artificial intelligence. 
 It's an open source, collaborative project: and has contributors from all over the world.
 
 The aim of the Turing Way is to make reproducible, ethical and inclusive data science 'too easy not to do.'
