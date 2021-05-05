@@ -1,5 +1,5 @@
 (cl-shared-ownership-defaults)=
-# Nudging for a better default
+# Nudging for a Better Default
 
 Research has shown that humans making decisions have a strong tendency to go along with the status quo or default option (See the [Nudge Theory](https://www.imperial.ac.uk/nudgeomics/about/what-is-nudge-theory/) by {cite}`ThalerSunstein2009Nudge`).
 In the absence of an actively defined default, the prevailing cultural or institutional norm becomes the de-facto option of choice.
@@ -10,7 +10,7 @@ i. defining the open source license,
 ii. describing ways to support contributions and acknowledge contributors, and
 iii. visibly sharing ownership with the community of contributors.
 
-## Open Source License by default
+## Open Source License by Default
 
 More awareness around open licensing is required as many researchers who currently own code might not be completely aware of how open source licenses can protect the openness and identity of a project.
 More code might be licensed if researchers were given a basic introduction into how different open licenses work (for example, copyleft vs permissive) and which to choose, although this will only help projects that are maintained enough for a license to be added (see {ref}`rr-licensing`) for reference).
@@ -18,14 +18,14 @@ There should be a push for code to be openly licensed by default.
 This can be applied by many stakeholders in the research ecosystem. Funders can require that code produced by a grant is openly licensed and, similarly, publishers can require that code associated with a publication is openly licensed (open research _data_ is already required by funders for example, [in the UK](https://www.ukri.org/about-us/policies-standards-and-data/good-research-resource-hub/open-research/), this could easily be extended to cover software).
 The companies that host repositories can - as some do - make it easy to add a license, and gently encourage users to do so by adding a license by default.
 
-## Ways to acknowledge contributions:
+## Ways to Acknowledge Contributions
 
 Ownership should be more accurately shared with contributors by ensuring that the ways of working, contributing and recognising contributions are properly defined in the project.
 Details on people and practices should be transparently documented and communicated so that not only existing contributors can build a sense of ownership but new contributors can also identify what pathways they can take in the project.
 There are many ways to acknowledge all contributors, including those who do not code or write documentation.
 For example, we can learn from open source metrics like [CHAOSS](https://chaoss.community/) or [CRediT - Contributor Roles Taxonomy](https://casrai.org/credit/), recognise the hidden labour using frameworks defined by [HiddenREF](https://hidden-ref.org/) or as described in {ref}`The Turing Way Acknowledge chapter<ch-acknowledgement>`, allow people to capture their contributions in a way that is most meaningful for them.
 
-## Sharing project ownership with the community
+## Easy Ways to Share Ownership
 
 In the case of shared ownership, a collective community builds the project and hence should be attributed as such.
 To make it a default we need to make it easy to practice across different open source projects.

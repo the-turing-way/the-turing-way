@@ -3,7 +3,7 @@
 
 At the time of writing this chapter, We have identified the following models of shared code ownership:
 
-## Roles Based on Contributor Access to the Project Repository
+## Roles Based on Level of Access
 
 For the GitHub users, a most familiar set of roles for code ownership includes the following access levels: “Read -> Triage -> Write -> Maintain -> Admin” (see [GitHub page for reference](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/managing-team-access-to-an-organization-repository)).
 The different access levels define the increasing order of rights and responsibilities a contributor has in a project.
