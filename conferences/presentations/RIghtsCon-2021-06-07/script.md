@@ -30,7 +30,7 @@ It's an open source, collaborative project: and has contributors from all over t
 The aim of the Turing Way is to make reproducible, ethical and inclusive data science 'too easy not to do.'
 
 There are five books in the Turing Way: covering collaboration, project design, reproducibility, communication and outreach, and ethics.
-We're going to focus on the Guide to Ethical Research.
+This talk focuses on the Guide to Ethical Research.
 
 The aim of the Guide to Ethical Research is to support data scientists - and researchers using data science - to work in an ethical way.
 We start from the position that as data science researchers, we have an obligation to consider the impact of our research. 
