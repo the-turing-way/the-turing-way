@@ -9,7 +9,7 @@ Data scientists make data-driven decisions throughout the lifecycle of their pro
 It is their duty to ensure that their work maintains a high level of moral integrity as well as the highest scientific standards, especially, when it impacts people’s lives. 
 In this presentation, we will introduce The Turing Way, an open source book project that involves and supports its diverse community in developing and sharing resources that make data science reproducible, ethical, collaborative and inclusive. 
 In particular, we will demonstrate the Turing Way guide for Ethical Research, the community behind its development, and its human rights-centred approach to data science ethics as a practice that includes activism for change. 
-Most importantly, we will demonstrate how RightsCon attendees can get involved!
+Most importantly, we will tell you how you can get involved!
 
 (based heavily on [this talk](https://zenodo.org/record/3968454#.YIA1Vmgo-i5) by Malvika Sharan, which was 10 minutes.
 
