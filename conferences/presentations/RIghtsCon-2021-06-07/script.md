@@ -46,6 +46,8 @@ It also includes information on how to be an activist researcher, and how and wh
 
 The Guide to Ethical Research is a work in progress.
 Current chapters-in-progress include how ethical data science fits into legal, policy and human rights frameworks; how to address and overcome challenges in ethical practice; and participatory science methods.
+We also include case studies, like the successful campaign against Robodebt in Australia.
+And we have written about the history of unionisation by scientific workers - and how you can join and support a union yourself!
 
 We'd like to invite you to become a contributor to the Turing Way, to help us develop these chapters, and many more. 
 We welcome all kinds of contributions 
