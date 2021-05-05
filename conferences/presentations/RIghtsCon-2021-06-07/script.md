@@ -39,7 +39,7 @@ So far, contributors to the Guide to Ethical Research have contributed chapters 
 But we don't see ethics as a static or one-off part of research.
 Ethical research includes every part of research: including making sure your institution is treating its worker, its research participants, and everyone else involved, well. 
 The Guide to Ethical Research also includes information on how to advocate for policy change within your institution: if you don't like how something is done, you can change it!
-It also covers how to be an activist researcher, and how and why unionisation can be important for data scientists to practice ethically.
+It also includes information on how to be an activist researcher, and how and why unionisation can be key for an ethical data science practice.
 
 The Guide to Ethical Research is a work in progress.
 Current chapters-in-progress include how ethical data science fits into legal, policy and human rights frameworks; how to address and overcome challenges in ethical practice; and participatory science methods.
