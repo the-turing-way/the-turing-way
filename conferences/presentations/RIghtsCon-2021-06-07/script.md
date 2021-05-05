@@ -22,12 +22,15 @@ Most importantly, we will tell you how you can get involved!
 ### Presenters: Malvika Sharan and Laura Carter
 
 (Introduce speakers)
-Data scientists make decisions throughout the lifecycle of their data-based projects.
-It is their duty to ensure that their work maintains a high level of moral integrity as well as the highest scientific standards, especially when it impacts people’s lives.
+As data scientists, we make decisions throughout the lifecycle of our data-based projects.
+As scientists, we have a duty to ensure that our work meets the highest scientific standards.
+We also have an obligation to ensure that our work maintains the highest level of moral integrity: especially when it impacts people’s lives.
+This impact on lives can be through the data we collect and use, or through the data products we build.
+It can also be through the policies that we follow at our universities or institutions, and the working conditions that we create in our labs.
+
 The Turing Way is a collaborative book project that aims to make reproducible, ethical, and inclusive data science 'too easy not to do.'
 The book is based at the Alan Turing Institute, the UK's national centre for data science and artificial intelligence. 
 It's an open source, collaborative project: and has contributors from all over the world.
-
 
 There are five books in the Turing Way: covering collaboration, project design, reproducibility, communication and outreach, and ethics.
 This talk focuses on the Guide to Ethical Research.
