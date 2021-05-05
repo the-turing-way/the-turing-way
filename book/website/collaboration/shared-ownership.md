@@ -18,7 +18,7 @@ Illustration showing open source collaborative pathway compared to closed source
 ## Motivation
 
 A shared sense of ownership is important for motivating contributors to collaborate in a project as they align their interests with the project’s goals.
-The concept of shared or collective ownership is widely practiced in open source (see definition for collective ownership: https://www.agilealliance.org/glossary/collective-ownership/), but unfortunately, it is not always described in the projects.
+The concept of shared or collective ownership is widely practiced in open source (see definition for [collective ownership](https://www.agilealliance.org/glossary/collective-ownership/)), but unfortunately, it is not always described in the projects.
 Often it is vaguely communicated or assumed either based on the contributors’ time or the scale of their contributions.
 In the long term, it is not helpful for most contributors who don’t know if their contributors are valued, acknowledged or rewarded in the project.
 

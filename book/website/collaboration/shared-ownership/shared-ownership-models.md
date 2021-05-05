@@ -8,7 +8,7 @@ At the time of writing this chapter, We have identified the following models of 
 For the GitHub users, a most familiar set of roles for code ownership includes the following access levels: “Read -> Triage -> Write -> Maintain -> Admin” (see [GitHub page for reference](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/managing-team-access-to-an-organization-repository)).
 The different access levels define the increasing order of rights and responsibilities a contributor has in a project.
 
-```{figure} ../figures/github-roles.png
+```{figure} ../../figures/github-roles.png
 ---
 name: github-roles
 alt: This is a screenshot from GitHub user setting, that shows contributor roles by what level of access they have in the repository.
@@ -37,7 +37,7 @@ These roles can be developed based on the tasks, responsibilities and skill requ
 Furthermore, these roles can be contractual or informal, taken by paid or non-paid volunteers, and supported by legal or social policies. These roles and pathways for engagement for the contributors can be understood using [Mountain of Engagement](https://docs.google.com/presentation/d/1ipIUc1t6ogOpyK9gU_PPgD-UvW0Gs73pMIAdCLOG72Y/present?token=AC4w5VhpTqbOWqPsxwOsnzqMG_DYvAqvGA%3A1596111012295&includes_info_params=1&eisi=CJfzpO_49OoCFYbTJAodKr0HAQ#slide=id.p) as described by [Mozilla Open Leadership](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/) and [Open Life Science](https://openlifesci.org/) as shown in the image below.
 The purpose is to identify levels of engagement of contributors as they move from their roles as “observers”, “endorsers”, “contributors”, “leaders” and finally, “owners”.
 
-```{figure} ../figures/mountain-of-engagement.png
+```{figure} ../../figures/mountain-of-engagement.png
 ---
 name: mountain-of-engagement
 alt: Five steps for developing a “Mountain of Engagement” for Open Source project contributors described in the figure title.
