@@ -1,3 +1,4 @@
+(cm)=
 # Guide for Communication
 
 ***This guide covers topics related to effective communication in research.***
@@ -6,9 +7,14 @@ Data analysis process, statistics and project development can be overwhelming to
 Therefore, data scientists should not only have a good understanding of data analysis techniques but also develop skills to communicate insights from their work in a clear and accessible format that can help key stakeholders make meaningful decisions.
 There are many ways we can convey our insights responsibly that can resonate with and impact our target audience.
 
-| ![A network of people exchanging and sharing different information with each other](../figures/communication.jpg)|
-| ---------------|
-| _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807) |
+```{figure} ../figures/communication.jpg
+---
+name: communication
+width: 500px
+alt: A network of people exchanging and sharing different information with each other
+---
+_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+```
 
 In this guide, we welcome contributions to developing chapters and guidance on effectively communicating the data-driven outcome to different audience types who may or may not be aware of scientific data analytics.
 We are excited to support data scientists develop skills ranging from interactive visualisation, how to give a talk, writing your first paper, and being interviewed by the media.
