@@ -242,25 +242,6 @@
 
 - file: communication/communication
   sections:
-  - title: Outreach in Data Science and Research
-    file: communication/outreach
-    sections:
-    - title: Motivation and Background
-      file: communication/outreach/outreach-motivation
-    - title: Communicating Research Outcome
-      file: communication/outreach/outreach-research-outcome
-    - title: Designing Presentations
-      file: communication/outreach/outreach-presentations
-    - title: Communicating Effectively
-      file: communication/outreach/outreach-effectively
-    - tite: Integrating Outreach In Research Projects
-      file: communication/outreach/outreach-research-projects
-    - title: Developing Science-Communication Relationships
-      file: communication/outreach/outreach-relationships
-    - title: Becoming a science champion
-      file: communication/outreach/outreach-science-champ
-    - title: Checklist
-      file: communication/outreach/outreach-checklist
   - title: Community Communications for Open Source Projects
     file: communication/os-comms
     sections:
