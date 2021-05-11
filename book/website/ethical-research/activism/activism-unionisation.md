@@ -180,6 +180,26 @@ We recognise that the list below is very UK-centric and would welcome additions 
 #### Ireland
 * **Medical Laboratory Scientists Association (MLSA)**, Ireland, is the sole trade union representing over 1600 Medical Scientists in Ireland [website](https://mlsa.ie/who-we-are)
 
+#### France
+* **Confédération Française Démocratique du Travail (CFDT)** is the largest French trade union confederation by number of members. It originated as a laic branch of the Christian trade union Confédération Française des Travailleurs Chrétiens (CFTC) [website](https://cfdt.fr/)
+* **Confédération Générale du Travail (CGT)** is the second largest French trade union by number of members. The CGT is concentrating its attention to trade-unionism in the private sector [website](https://www.cgt.fr/)
+* **Confédération Générale du Travail-Force Ouvrière (CGT-FO)** was founded by former members of the General Confederation of Labor (CGT) who accused that federation to be influenced by the French Communist Party [website](https://www.force-ouvriere.fr/?lang=fr)
+* **Confédération Française de l’Encadrement-Confédération Générale des Cadres (CFE-CGC)** is solely focused on organising unions for professional employees having higher education or in management or executive positions [website](https://cfecgc.org/)
+
+#### Italy
+* **Confederazione Generale Italiana Lavoratori (CGIL)** is the largest Italian union that counts more than 5 million members [website](http://www.cgil.it/)
+* **Confederazione Italiana Sindacato dei Lavoratori (CISL)** is based on Roman Catholic values groups linked with Christian Democracy [website](https://www.cisl.it/ )
+* **Unione Italiana Lavoratori  (UIL)** is the socialist, social democratic, (republican) and laic split from the CGIL [website](https://www.uil.it/)
+* **Unione Sindacale Professori e Ricercatori (USPUR)** is aimed at university professors and researchers [website](https://www.uspur.it/)
+* **Unione Degli Universitari  (UDU)** is focused on improving the university students experience and future career [website](https://www.unionedegliuniversitari.it/)
+
+#### Spain
+* **Unión General de Trabajadores (UGT)** is a major Spanish trade union, historically affiliated with the Spanish Socialist Workers' Party (PSOE) [website](https://www.ugt.es/)
+* **Confederación Sindical de Comisiones Obreras (CCOO)** is the second largest union in Spain and is the most successful one in labor elections [website](https://www.ccoo.es/)
+* **Federacion de Jovenes Investigadores (FJI-Precarios)** is focused on improving the labour conditions of young researchers, defending the dignity of the research profession, and overall, improving the situation of science in Spain
+[website](http://precarios.org/Qui%C3%A9nes+somos)
+
+
 #### United States
 * **Graduate Student Unions** at multiple universities and colleges are organising [Wikipedia page](https://en.wikipedia.org/wiki/Graduate_student_employee_unionization)
 
