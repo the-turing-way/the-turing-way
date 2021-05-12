@@ -1,7 +1,7 @@
 (cm-outreach)=
 # Outreach in Data Science and Research
 
-Outreach is an umbrella term for a broad range of activities which engage researchers with audiences external to the core research team, including other scientists, the general public, journalists, investors and policy makers.
+Outreach is an umbrella term for a broad range of activities that engage researchers with audiences external to the core research team, including other scientists, the general public, journalists, investors and policymakers.
 Outreach can provide major benefits to both researchers and society, from enhancing the visibility of your work to developing public understanding of science.
 However, as with all research activities, outreach requires careful planning and resourcing, so that researchers can share a collective responsibility to combat the spread of misinformation and provide the public with an accurate representation of science.
 While outreach activities are diverse in scope, we believe that all high quality outreach is underpinned by a set of shared underlying principles.
