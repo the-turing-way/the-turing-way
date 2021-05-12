@@ -89,10 +89,10 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 * Role: Book Dash November 2020 Attendee
 * ORCID: [0000-0002-3905-2751](https://orcid.org/my-orcid)
-* Short bio: 
-> I'm the founder of R-Ladies in Saudi Arabia (Dammam). I initially majored in pharmacology but quickly developed an interest in biochemistry, structural biology, and bioinformatics. I enjoy applying deep learning to answer biological questions. 
+* Short bio:
+> I'm the founder of R-Ladies in Saudi Arabia (Dammam). I initially majored in pharmacology but quickly developed an interest in biochemistry, structural biology, and bioinformatics. I enjoy applying deep learning to answer biological questions.
 
-* Personal highlights: 
+* Personal highlights:
 > I am currently co-developing a chapter on "CI services". I have helped upgrade the Jupyter Book Infrastructure and add [hypothes.is](https://web.hypothes.is/) to enable collaborative annotation of _The Turing Way_ chapters. I have also translated the README.me chapter in Arabic.
 > Personal quote: "I find it hard to express my personal thoughts and feelings in words. This was such an amazing experience. It helped me to develop my technical skills. Thank you so much to everyone I met in this Book Dash event :heart:."
 
@@ -114,6 +114,16 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > I've met so many people that want to code well and follow best practise, which will benefit science enormously, but struggle to know how to do so.
 > While there are lots of fantastic resources out there they're often scattered and _The Turing Way_ can improve that.
 I also hope that it can convince people that don't consider themselves capable of being good programmers that there are steps they can take to drastically improve their coding.
+
+### Benjamin Mummery
+
+* Twitter: [@BenjaminMummery](https://twitter.com/@BenjaminMummery)
+* Short bio:
+>While studying Astrophyics, Benjamin was the first speaker at, and later organizer of, Liverpool PubHD ([Facebook](https://www.facebook.com/pubhdliverpool/), [Twitter](https://twitter.com/pubhd_liverpool?lang=en-gb)) - a monthly cross-discipline event that challenged PhD students to "explain their research in 10 minutes, while enjoying a pint." During this time he also developed and delivered multiple more official outreach events including presenting to both the public and airforce commanders at [RAF Cosford Airshow](https://www.youtube.com/watch?v=KImlYiCO7Vs), and frequent activities for schools. Now a Research Software Engineer at the Hartree Centre, he has continued his engagement with outreach, most recently in collaboration with Tim Powell designing a LEGO version of the Centre's iconic supercomputer [Scafell Pike](https://twitter.com/HartreeCentre/status/1189145621564968963). He can frequently be found banging on about [fictional](https://www.youtube.com/watch?v=zrqfT4aotfE) [time travel](https://inews.co.uk/culture/film/donnie-darko-reviewed-astrophysicist-531742).
+
+* Personal highlights:
+>I collaborated with a group of researchers from The Alan Turing Institute to draft a chapter of scientific outreach.
+
 
 <!---C--->
 
@@ -157,14 +167,22 @@ I'm an independent post-doctoral researcher working in the field of Environmenta
 
 * Personal highlights:
 >I have contributed to the Guide for Collaboration. Specifically, I drafted the chapter on "Getting Started with GitHub" for novice learners.
->I have really enjoyed working in such a collaborative way during the November 2020 Book Dash. I have had interesting discussions concerning the accessibility of The Turing way and research in general with other contributors. 
->I have further developed my Github skills by working in collaboration with @paulowoicho, @malvikasharan and @KirstieJane to develop a chapter on 'Getting started on Github'. 
+>I have really enjoyed working in such a collaborative way during the November 2020 Book Dash. I have had interesting discussions concerning the accessibility of The Turing way and research in general with other contributors.
+>I have further developed my Github skills by working in collaboration with @paulowoicho, @malvikasharan and @KirstieJane to develop a chapter on 'Getting started on Github'.
 >This improvement in my skills will really benefit my own personal research to develop my own collaborative working groups and teach others how to use these research tools.
 > Here are a few links where I have contributed to: [Chapter on "Getting Started with GitHub"](https://the-turing-way.netlify.app/collaboration/github-novice.html). Curating terms for the [online Glossary](https://the-turing-way.netlify.app/afterword/glossary.html) to maintain a list of all definitions in Afterword.
 
 * More information:
->I try to work as openly as possible and a large part of my current research is developing easy and accessible to all collaborative and open ways of working. I am also working hard to bring together specialists in my field into a working group for Open Science so that we can work collaboratively towards subject-specific FAIR guidelines for phytolith data. 
+>I try to work as openly as possible and a large part of my current research is developing easy and accessible to all collaborative and open ways of working. I am also working hard to bring together specialists in my field into a working group for Open Science so that we can work collaboratively towards subject-specific FAIR guidelines for phytolith data.
 
+### Eric Daub
+
+* GitHub id: [edaub](https://github.com/edaub)
+* Short bio:
+>Eric is a data scientist and geophysics researcher, has appeared on several television programs and podcasts to discuss his research on earthquake occurrence in the Central United States. One challenge for presenting earthquake research is the tendency to overhype results on the topic of earthquake prediction. Eric used these media appearances to highlight the difficulties inherent in predicting earthquakes, and explain why no reliable method exists to predict earthquakes accurately enough for societal actions to take place. From that discussion about overhyped results, he transitioned to explaining how his research showed that the chances of an earthquake had not changed due to recent changes in activity, as the fluctuations were *exactly* in line with what would be expected for a simple baseline level of risk. This outreach activity helped improve the understanding of the target audience on a complex, technical subject and debunk some of the commonly held assumptions about earthquake prediction and risk management.
+
+* Personal highlights:
+>I collaborated with a group of researchers from The Alan Turing Institute to draft a chapter of scientific outreach.
 
 ### Esther Plomp
 
@@ -173,26 +191,25 @@ I'm an independent post-doctoral researcher working in the field of Environmenta
 * ORCID: [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
 * Twitter: [@PhDToothFAIRy](https://twitter.com/PhDToothFAIRy/)
 * Short bio:
-> I'm a Data Steward at Delft University of Technology in the Netherlands, where I support researchers with their data management and open science practices. 
+> I'm a Data Steward at Delft University of Technology in the Netherlands, where I support researchers with their data management and open science practices.
 > For my PhD research I analysed human teeth for their isotopic/chemical composition in order to say something about human mobility patterns (fields of forensics, archaeology, osteology).
 
 * Personal highlights:
-> Thanks to the Turing Way I really learned how to work collaboratively using GitHub. 
+> Thanks to the Turing Way I really learned how to work collaboratively using GitHub.
 The book dash was a great kick start to actually practise and directly apply these skills, which now allows me to contribute more confidently to other projects as well!
-> I primarily contributed to the Reproducible Research Chapter, to the Research Data Management section. I reviewed existing content and I'm working on adding a section on Data Management Plans and how to handle personal data. 
-> I also made a [The Turing Way poster](https://doi.org/10.5281/zenodo.4263403) that I presented during a conference. 
+> I primarily contributed to the Reproducible Research Chapter, to the Research Data Management section. I reviewed existing content and I'm working on adding a section on Data Management Plans and how to handle personal data.
+> I also made a [The Turing Way poster](https://doi.org/10.5281/zenodo.4263403) that I presented during a conference.
 > I hope to pay it forward and facilitate others in learning how to work with GitHub through The Turing Way or The Carpentries workshops.
 > I'm very grateful to be part of this great and inclusive community!
 
 * More information:
-> I think scientific research should be accessible to anyone that would like to learn and contribute. 
-> I'm hoping to bring together specialists from my research field to establish guidelines for isotopic data from human remains and guidelines for how to handle and document physical samples. 
-I'm a co-chair of the Research Data Alliance group [Physical Samples and Collections in the Research Data Ecosystem IG](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig). 
+> I think scientific research should be accessible to anyone that would like to learn and contribute.
+> I'm hoping to bring together specialists from my research field to establish guidelines for isotopic data from human remains and guidelines for how to handle and document physical samples.
+I'm a co-chair of the Research Data Alliance group [Physical Samples and Collections in the Research Data Ecosystem IG](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig).
 Please do get in touch if you work with physical samples and would like to get involved!
-> I'm part of the Open Research Calendar Team. 
-This is a calendar that you can use to stay up to date with open research events, or add your own events to in order to increase visibility. 
+> I'm part of the Open Research Calendar Team.
+This is a calendar that you can use to stay up to date with open research events, or add your own events to in order to increase visibility.
 Visit us at the [Open Research Calendar Website](https://openresearchcalendar.github.io/) or follow the calendar on [Twitter](https://twitter.com/OpenResearchCal)!
-
 
 
 <!---F--->
@@ -260,7 +277,7 @@ I would like to be a part of it.
 
 * Personal highlights:
 > Turing Way was my first foray into Open Source, and I have found it extremely helpful in learning both about general github and open source practices as well as being part of a moving and collaborative community. I especially loved being part of an extremely multidisciplinary group of people, really shows me the real span of Data Science!
-> The ethics book has been a great source of interest for me as it encompasses many of the issues I both grappled with, debated and deliberated upon extensively during my own data science projects. 
+> The ethics book has been a great source of interest for me as it encompasses many of the issues I both grappled with, debated and deliberated upon extensively during my own data science projects.
 > During my time working on the Data Anonymization Chapter (Issue: #1578 , Pull Request: #1579 ) I managed to read more extensively about anonymization and I found answers to many of the questions that had previously bothered me.
 > I really hope that the work we've done here to consolidate all these ethical guidelines will help make practicing data science with a strong ethical basis and clear moral conscience more easy and accessible.
 
@@ -311,27 +328,27 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * ORCID: [0000-0001-9921-644X](https://orcid.org/0000-0001-9921-644X)
 
 * Short bio:
-> Since 2016, I am managing the Belgian ELIXIR Node (we pursue FAIRification of research data and facilitating reproducible analysis, through activities in data management and analysis as well as training; we also focus on domain specific services in plant sciences, human health and proteomics). I was trained as a Bioscience engineer, have a PhD in Medical Sciences and performed medical genetics research for many years. 
+> Since 2016, I am managing the Belgian ELIXIR Node (we pursue FAIRification of research data and facilitating reproducible analysis, through activities in data management and analysis as well as training; we also focus on domain specific services in plant sciences, human health and proteomics). I was trained as a Bioscience engineer, have a PhD in Medical Sciences and performed medical genetics research for many years.
 
 * Personal highlights:
->I started familiarizing myself with the GitHub environment and learned how to collaborate through it. It was especially nice to meet the vibrant community working together on the Turing Way! 
+>I started familiarizing myself with the GitHub environment and learned how to collaborate through it. It was especially nice to meet the vibrant community working together on the Turing Way!
 > Specifically, I have authored a subchapter on [Research Data Management Toolkit](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-toolkits.html).
 
 
 <!---L--->
 
-### Laura Acion 
+### Laura Acion
 
 * Role: Book Dash November 2020 Attendee
 * GitHub id: [lauracion](http://github.com/lauracion)
 * ORCID: [0000-0001-5213-6012](https://orcid.org/0000-0001-5213-6012)
-* Short bio: 
-> I am a Biostatistician who transitioned to Data Science. I work at the University of Buenos Aires (Argentina). I specialize in several areas of Health Sciences. 
+* Short bio:
+> I am a Biostatistician who transitioned to Data Science. I work at the University of Buenos Aires (Argentina). I specialize in several areas of Health Sciences.
 > I am passionate about changing the way applied stats is taught and practiced. I have so much to learn and do; it seems I will need extra lives to accomplish all. More about me [here](https://lacion.rbind.io).
 
 * Personal highlights:
 > I am currently co-developing a chapter on "Leadership in Data Science" and supporting Spanish community in translating and getting involved in the project.
-> I hope this is my first of several Book Dashes! It was an outstanding experience. Thank you so much, Malvika and Kirstie, for brilliantly organizing and coordinating this event! ✨ 💖 
+> I hope this is my first of several Book Dashes! It was an outstanding experience. Thank you so much, Malvika and Kirstie, for brilliantly organizing and coordinating this event! ✨ 💖
 
 ### Laura Carter
 
@@ -399,7 +416,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 ### Marta Mangiarulo
 
 * Role: Book Dash November 2020 Attendee
-* Short bio: 
+* Short bio:
 > I am a Research Assistant in the JDM lab at the University of Leicester. At UoL, I am also social media officer for the Post Doc and Research Staff association and ECR representative for my department. I hold an MSc in Social Psychology and a Ph.D. in Cognitive and Brain Sciences and my main research interests involve decision making, social hypothesis testing, and reasoning biases.
 
 * Personal highlights:
@@ -596,6 +613,15 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 <!---T--->
 
+### Tim Powell
+
+* Twitter: [@mrtimpowell](https://twitter.com/mrtimpowell)
+* Short bio:
+>Tim is an Astrophysicist turned Research Software Engineer, who has always had a passion for sharing science. From attending public lectures and getting involved as an attendee at outreach events based around Cambridge as a teenager to building a miniature supercomputer, Tim has a long history of outreach activities. Whilst at university Tim became a STEM Ambassador with the Physics Society, where he used the tools provided to introduce groups of children to scientific concepts. Tim also participated in 4 [British Science Weeks](https://www.britishscienceweek.org/) showcasing many different aspects of Physics and Remote Sensing. When Tim joined STFC's Hartree Centre he built a miniature supercomputer, called [HPiC](https://blog.hartree.ac.uk/wordpress/?p=361). HPiC is the Hartree Centre’s Raspberry Pi Cluster. It was created to demonstrate supercomputing techniques and show some of the expertise of the Hartree Centre. HPiC has been showcased at numerous [technical conferences](https://twitter.com/MrTimPowell/status/1062098668403245058) and [public outreach events](https://twitter.com/HartreeCentre/status/1055029464592273408) not just across the UK but also internationally. As well as presenting technical posters and talks at various conferences Tim also enjoys taking his experience of outreach and presenting what he has learnt and how that is applicable to teaching. Tim presented at the ISC 2019 HPC Education and Training for Emerging Technologies Workshop and was on [SIGHPC](https://sighpceducation.acm.org/) Best Practices for HPC Training and Education Panel at Supercomputing 2019. One of Tim's proudest projects  was collaborating with Benjamin Mummery on a LEGO version of the Hartree Centre's iconic supercomputer [Scafell Pike](https://twitter.com/HartreeCentre/status/1189145621564968963)!
+
+* Personal highlights:
+>I collaborated with a group of researchers from The Alan Turing Institute to draft a chapter of scientific outreach.
+
 
 <!---U--->
 
@@ -619,6 +645,44 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 *When members participate in The Turing Way community with the in-kind support of their funders and organisation, we acknowledge each member individually and list their organisations as “Collaborating organisations”.
 Such organisational supports are applicable when one or multiple members from a project or community collaborate to build resources in The Turing Way.*
+
+### [Delft University of Technology - Faculty of Applied Sciences](https://www.tudelft.nl/en/faculty-of-applied-sciences)
+
+The Faculty of Applied Sciences is the largest of Delft University of Technology and focuses on finding innovative solutions to some of the problems faced by society. 
+Development of the fundamental knowledge needed to underpin technical developments that can be widely used throughout society. 
+In ensuring that this knowledge can be shared efectively with the wider society, the Faculty values the sharing of data and code and has a [Research Data Management policy](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/) in place since 2020. 
+In this effort, the contributions from the Faculty of Applied Sciences have mainly focused on the Reproducible Research Chapter of _The Turing Way_. 
+
+
+#### Esther Plomp
+
+* Roles: 
+  * Book Dash February 2020 Attendee
+  * Book Dash Planning Committee 2021 
+  * Semi regular co-working call crasher
+* GitHub id: [EstherPlomp](https://github.com/estherplomp)
+* ORCID: [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
+* Twitter: [@PhDToothFAIRy](https://twitter.com/PhDToothFAIRy/)
+* Short bio:
+> I'm a Data Steward at Delft University of Technology in the Netherlands, where I support researchers with their data management and open science practices. 
+> For my PhD research I analysed human teeth for their isotopic/chemical composition in order to say something about human mobility patterns (fields of forensics, archaeology, osteology).
+
+* Personal highlights:
+> Thanks to the Turing Way I really learned how to work collaboratively using GitHub. 
+The book dash was a great kick start to actually practise and directly apply these skills, which now allows me to contribute more confidently to other projects as well!
+> I primarily contributed to the Reproducible Research guide's Research Data Management chapters. I reviewed existing content and I'm working on adding a section on Data Management Plans and how to handle personal data. 
+> I also made a [The Turing Way poster](https://doi.org/10.5281/zenodo.4263403) that I presented during a conference. 
+> I hope to pay it forward and facilitate others in learning how to work with GitHub through The Turing Way or The Carpentries workshops.
+> I'm very grateful to be part of this great and inclusive community!
+
+* More information:
+> I think scientific research should be accessible to anyone that would like to learn and contribute. 
+> I'm hoping to bring together specialists from my research field to establish guidelines for isotopic data from human remains and guidelines for how to handle and document physical samples. 
+I'm a co-chair of the Research Data Alliance group [Physical Samples and Collections in the Research Data Ecosystem IG](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig). 
+Please do get in touch if you work with physical samples and would like to get involved!
+> I'm part of the Open Research Calendar Team. 
+This is a calendar that you can use to stay up to date with open research events, or add your own events to in order to increase visibility. 
+Visit us at the [Open Research Calendar Website](https://openresearchcalendar.github.io/) or follow the calendar on [Twitter](https://twitter.com/OpenResearchCal)!
 
 ### [Netherlands eScience Center](https://www.esciencecenter.nl/)
 
@@ -652,5 +716,3 @@ Details of each members with their contributions have been listed alphabetically
 
 * Personal highlights:
 > I have personally contributed to _The Turing Way_ by drafting chapters in the guide for Reproducible Research, reviewed other contributor's Pull Requests and mentored contributions from Netherlands eScience Center.
-
-
