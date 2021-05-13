@@ -1,3 +1,4 @@
+(ch)=
 # Community Handbook
 
 ***This is a community handbook that discusses aspects of The Turing Way project that one can use for participating in this community.***

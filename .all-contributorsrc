@@ -2464,6 +2464,36 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "benkrikler",
+      "name": "benkrikler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4083697?v=4",
+      "profile": "http://benkrikler.github.io",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "warrickball",
+      "name": "Warrick Ball",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20858744?v=4",
+      "profile": "http://warrickball.github.io",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "abrown41",
+      "name": "abrown41",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10060170?v=4",
+      "profile": "https://github.com/abrown41",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
