@@ -30,7 +30,7 @@ Malvika Sharan and Esther Plomp will give you an optional 1 hour GitHub tutorial
 ## Sign up below by adding your details
 
 Name / Institute or affiliation / **What specific aspect of GitHub do you find challenging?**
-* Chilukuri Sai Dharani / Sri venkateswara engineering college / 
+* Chilukuri Sai Dharani / Sri venkateswara engineering college /collaboration at github 
 * Guilherme B Ferreira / Universtiy College London /
 * Dave Kupferschmidt / US National Institutes of Health / 
 * Kunal Verma / Jaypee University Of Information  Technology / 
