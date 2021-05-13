@@ -34,7 +34,7 @@ Name / Institute or affiliation / **What specific aspect of GitHub do you find c
 * Guilherme B Ferreira / Universtiy College London /
 * Dave Kupferschmidt / US National Institutes of Health / 
 * Kunal Verma / Jaypee University Of Information  Technology / 
-* Kendra Phelps / EcoHealth Alliance / 
+* Kendra Phelps / EcoHealth Alliance / I find it challenging to edit others' repositories
 * Mabrouk Boutagouga / University of Batna 1 / 
 * María Nanton / Buenos Aires' Ministry of Health / 
 * Malvika / The Alan Turing Institite / Testing this PR
