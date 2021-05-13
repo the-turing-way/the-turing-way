@@ -36,11 +36,10 @@ Name / Institute or affiliation / **What specific aspect of GitHub do you find c
 * Kunal Verma / Jaypee University Of Information  Technology / 
 * Kendra Phelps / EcoHealth Alliance / 
 * Mabrouk Boutagouga / University of Batna 1 / 
-* María Nanton / Buenos Aires' Ministry of Health / 
-* Malvika / The Alan Turing Institite / I find conflict in files challenging
-* 
-* 
-*
+* María Nanton / Buenos Aires' Ministry of Health / I find the many Github features a litle confusing
+* Malvika / The Alan Turing Institite / Testing this PR
+* Lotty / The Alan Turing Institute / PR review
+* Ali / University College London / Understanding a new platform
 
 🗣️ Welcome!
 
