@@ -38,7 +38,7 @@ Name / Institute or affiliation / **What specific aspect of GitHub do you find c
 * Mabrouk Boutagouga / University of Batna 1 / 
 * María Nanton / Buenos Aires' Ministry of Health / 
 * Malvika / The Alan Turing Institite / Testing this PR
-* 
+* Lotty / The Alan Turing Institute / PR review
 * 
 
 🗣️ Welcome!
