@@ -39,7 +39,7 @@ Name / Institute or affiliation / **What specific aspect of GitHub do you find c
 * María Nanton / Buenos Aires' Ministry of Health / 
 * Malvika / The Alan Turing Institite / Testing this PR
 * 
-* 
+* Ali / University College London / Understanding a new platform
 
 🗣️ Welcome!
 
