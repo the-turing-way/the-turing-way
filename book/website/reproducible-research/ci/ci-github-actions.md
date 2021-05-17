@@ -39,11 +39,10 @@ alt: A gif showing where you can find GitHub Actions template in your Github rep
 
 #### 2- Using libraries-specific templates.
 
+
 ## GitHub-related Vocabulary
-=======
+============================
 
-
-# GitHub-related Vocabulary
 <!-- (I'll explain each vocab separately using diagrams made with adobe illustrator) -->
 ## GitHub-related Vocabulary
 
