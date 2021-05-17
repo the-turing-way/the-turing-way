@@ -11,10 +11,10 @@ The section describing the slide below starts around 5 minutes into the video.
 ```{figure} ../../figures/barriers-reproducibility.png
 ---
 name: reproducibility-barriers
-alt: Slide from presentation showing the different barriers to reproducibility: INSERT LIST HERE.
+alt: Slide from presentation showing the different barriers to reproducibility.
+The text in the center says "Barriers to reproducible research" and the following barriers are arranged clockwise around the slide: Is not considered for promotion, Held to a higher standard than others, Publication bias towards novel findings, Plead the 5th, Takes time, Support additional users, Requires additional skills.
 ---
 A slide outlining some of the barriers to reproducible research.
-The text in the center says "Barriers to reproducible research" and the following barriers are arranged clockwise around the slide: Is not considered for promotion, Held to a higher standard than others, Publication bias towards novel findings, Plead the 5th, Takes time, Support additional users, Requires additional skills.
 ```
 
 This chapter outlines some of those barriers, and a couple of suggestions to get around them.
