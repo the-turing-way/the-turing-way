@@ -19,14 +19,14 @@ A slide outlining some of the barriers to reproducible research.
 
 This chapter outlines some of those barriers, and a couple of suggestions to get around them.
 The barriers fall into three main groups.
-The first, and hardest to overcome are those relating to the current incentive structure in academic research: [Limited incentives to give evidence against yourself](#limited-incentives-to-give-evidence-against-yourself) (or "Plead the fifth"!), the known [publication bias towards novel findings](#publication-bias-towards-novel-findings), the fact that reproducible or open research may be [held to higher standards than others](#held-to-higher-standards-than-others), and that all this effort is [not considered for promotion](#not-considered-for-promotion).
+The first, and hardest to overcome are those relating to the current incentive structure in academic research: [Limited incentives to give evidence against yourself](#limited-incentives-to-give-evidence-against-yourself) (or "Plead the fifth"), the known [publication bias towards novel findings](#publication-bias-towards-novel-findings), the fact that reproducible or open research may be [held to higher standards than others](#held-to-higher-standards-than-others), and that all this effort is [not considered for promotion](#not-considered-for-promotion).
 Then there are the technical and theoretical challenges of working with [big data and complex computational infrastructure](#big-data-and-complex-computational-infrastructure) and remembering that [being reproducible does not mean the answer is right](#being-reproducible-does-not-mean-the-answer-is-right).
 We finish with three barriers considering the pressures on individual data scientists: that this work can be perceived to [take extra time](#takes-time), that you may be required to [support additional users](#support-additional-users) (spoiler: you aren't!), and that you and members of your team might [requires additional skills](#requires-additional-skills).
 The good news is that helping you learn those skills is exactly what _The Turing Way_ is here for!
 
 ## Limited incentives to give evidence against yourself
 
-The Fifth Amendment to the United States Constitution includes a clause that no one "shall be compelled in any criminal case to be a witness against [them]sel[ves]" [REF](https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution).
+The [Fifth Amendment](https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution) to the United States Constitution includes a clause that no one "shall be compelled in any criminal case to be a witness against [them]sel[ves]".
 (Edited to gender neutral language.)
 To "plead the fifth" means that someone chooses not to give evidence that there might have been something wrong in their past behaviour.
 They have the right to remain silent.
