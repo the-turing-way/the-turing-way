@@ -18,16 +18,11 @@ A slide outlining some of the barriers to reproducible research.
 ```
 
 This chapter outlines some of those barriers, and a couple of suggestions to get around them.
-
-- [Plead the fifth](#plead-the-fifth)
-- [Publication bias towards novel findings](#publication-bias-towards-novel-findings)
-- [Held to higher standards than others](#held-to-higher-standards-than-others)
-- [Not considered for promotion](#not-considered-for-promotion)
-- [Big data and complex computational infrastructure](#big-data-and-complex-computational-infrastructure)
-- [Being reproducible does not mean the answer is right](#being-reproducible-does-not-mean-the-answer-is-right)
-- [Takes time](#Takestime)
-- [Support additional users](#support-additional-users)
-- [Requires additional skills](#requires-additional-skills)
+The barriers fall into three main groups.
+The first, and hardest to overcome are those relating to the current incentive structure in academic research: [Limited incentives to give evidence against yourself](#limited-incentives-to-give-evidence-against-yourself) (or "Plead the fifth"!), the known [publication bias towards novel findings](#publication-bias-towards-novel-findings), the fact that reproducible or open research may be [held to higher standards than others](#held-to-higher-standards-than-others), and that all this effort is [not considered for promotion](#not-considered-for-promotion).
+Then there are the technical and theoretical challenges of working with [big data and complex computational infrastructure](#big-data-and-complex-computational-infrastructure) and remembering that [being reproducible does not mean the answer is right](#being-reproducible-does-not-mean-the-answer-is-right).
+We finish with three barriers considering the pressures on individual data scientists: that this work can be perceived to [take extra time](#takes-time), that you may be required to [support additional users](#support-additional-users) (spoiler: you aren't!), and that you and members of your team might [requires additional skills](#requires-additional-skills).
+The good news is that helping you learn those skills is exactly what _The Turing Way_ is here for!
 
 ## Limited incentives to give evidence against yourself
 
@@ -44,7 +39,7 @@ Although there is no _law_ governing the communication of reproducible research 
 ---
 width: 500px
 name: make-ok-to-be-human
-alt: A cartoon of a woman holding a folder of files and looking worried. Thought bubble says: If I share my data people might find mistakes. The caption on the images reads Need to make it ok to be human.
+alt: A cartoon of a woman holding a folder of files and looking worried. Thought bubble says, If I share my data people might find mistakes. The caption on the images reads Need to make it ok to be human.
 ---
 An illustration of the "plead the fifth" barrier where our current culture disincentivises acknowledging and correcting mistakes.
 Illustration by The Ludic Group LLP from Kirstie Whitaker's keynote presentation at Scientific Data in 2017.
