@@ -4,6 +4,7 @@
 
 ```{figure} ../../figures/ReadableCode.jpg
 ---
+height: 500px
 name: ReadableCode
 alt: This image highlights the importance of code readability.
 ---
