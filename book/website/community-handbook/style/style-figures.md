@@ -12,7 +12,7 @@ To ensure that, please follow these simple recommendations:
 
 *Please note that we have used the term 'figure' to refer to an illustration that conveys information in the context of _The Turing Way_ chapters and the term 'image' is used to refer to the file object.*
 
-## Image type, file size and location:
+## Image type, file size and location
 
 Please upload .jpg or .png files that are under 1MB to allow them to load faster in the online book.
 If your file is larger than 1MB, please use a local image editing tools, or online tool like [IMG2GO](https://www.img2go.com/compress-image) to compress your file.
@@ -20,7 +20,7 @@ If your file is larger than 1MB, please use a local image editing tools, or onli
 Every image file used in this book should be located in the file `_figure-list.md` in the directory `book/website/figures` of our [GitHub Repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/website/figures).
 If you use a new image file, please add the file in the `figures` directory, and add details in the `_figure-list.md`.
 
-## Style for including figures in a chapter:
+## Style for including figures in a chapter
 
 All our chapters are written in markdown files.
 Therefore, using Markdown syntax to include a figure in a Markdown file will work fine, for example, `![](../../figures/file-collection.jpg)`, where the relative path of the image file is provided inside the round brackets '()'.
@@ -52,12 +52,12 @@ This figure can be referred in other files using the {ref} role like:
 
 Please note that width of 500px works very well with _The Turing Way_ book, but this is only a suggestion.
 
-## Title:
+## Title
 
 Titles should be short and concise and hold a reference to the source where they are taken from.
 For example, we can write the title *_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300* below the figure.
 
-## Alternative text:
+## Alternative text
 
 Alternative text or Alt text are used for describing the appearance and function of an image on an HTML page.
 Our example figure can be explained with this sentence: *Two people happily browsing files in a drawer of documents.*
@@ -99,4 +99,12 @@ alt: Two people happily browsing files in a drawer of documents.
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
 ```
 
+## Advanced features and "gotchas"
+
 For more advanced parameters, please see the [Jupyter Book Documentation](https://jupyterbook.org/content/figures.html).
+That page includes information on how to [scale and align](https://jupyterbook.org/content/figures.html#figure-scaling-and-aligning) the figures, and how to add the figures or their captions to the [margins](https://jupyterbook.org/content/figures.html#margin-captions-and-figures) of the book.
+
+We've noticed a couple of "gotchas" from contributors to _The Turing Way_ and we'll try to keep this section of the guide up to date for anyone else learning the MyST syntax for figures
+
+* Both `:` and `"` have syntactic meaning for Sphinx.
+  That means it is important that you do not use these characters in your alt text.
