@@ -8,6 +8,15 @@
 | -------------|----------|------|
 | {ref}`rr-vcs` | Helpful | Experience with GitHub is particularly useful |
 
+
+```{figure} ../figures/EvolutionOpenResearch.jpg
+---
+name: EvolutionOpenResearch
+alt: This image shows a researcher evolving their research practices to move towards the era of open research. 
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. ```
+
+
 (rr-open-summary)=
 ## Summary
 
