@@ -1,103 +1,139 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Place Holder <test@test.com>, 2020.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Camila Rangel Smith <camila.rangel.smith@gmail.com>, 2020
+# psubias <paulasubias@gmail.com>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: content\n"
 "Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
 "POT-Creation-Date: 2020-02-05 19:08:03+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Place Holder <test@test.com>\n"
-"Language-Team: Spanish <LL@li.org>\n"
+"PO-Revision-Date: 2020-04-07 14:21+0000\n"
+"Last-Translator: psubias <paulasubias@gmail.com>, 2020\n"
+"Language-Team: Spanish (https://www.transifex.com/theturingway/teams/107194/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# header
 #: glossary/glossary.md:1
-# header
 msgid "# Glossary"
-msgstr ""
+msgstr "# Glosario"
 
-#: glossary/glossary.md:3
 # header
+#: glossary/glossary.md:3
 msgid "#### Binder"
-msgstr ""
+msgstr "#### Binder"
 
 #: glossary/glossary.md:5
-msgid "A web-based service which allows users to upload and share fully-functioning versions of their projects in an environment they define."
+msgid ""
+"A web-based service which allows users to upload and share fully-functioning"
+" versions of their projects in an environment they define."
 msgstr ""
+"Un servicio basado en la web que permite a los usuarios cargar y compartir "
+"versiones totalmente funcionales de sus proyectos en un entorno "
+"computacional que definan."
 
-#: glossary/glossary.md:7
 # header
+#: glossary/glossary.md:7
 msgid "#### Computational environment"
-msgstr ""
+msgstr "#### Entorno computacional"
 
 #: glossary/glossary.md:9
-msgid "Features of a computer which can impact the behaviour of work done on it, such as its operating system, what software it has installed, and what versions of software packages are installed."
+msgid ""
+"Features of a computer which can impact the behaviour of work done on it, "
+"such as its operating system, what software it has installed, and what "
+"versions of software packages are installed."
 msgstr ""
+"Características de una computadora que pueden afectar el comportamiento del "
+"cómputo realizado en ella, como su sistema operativo, qué software ha "
+"instalado, y qué versiones de los paquetes de software están instalados."
 
-#: glossary/glossary.md:11
 # header
+#: glossary/glossary.md:11
 msgid "#### Conda"
-msgstr ""
+msgstr "#### Conda"
 
 #: glossary/glossary.md:13
 msgid "A commonly used package management system."
 msgstr ""
+"Un sistema de gestión de paquetes usado comúnmente en ciencia de datos."
 
-#: glossary/glossary.md:15
 # header
+#: glossary/glossary.md:15
 msgid "#### Container"
-msgstr ""
+msgstr "#### Container"
 
 #: glossary/glossary.md:17
-msgid "Lightweight files that can encapsulate and entire computational environment including its operating system, customised settings, software and files."
+msgid ""
+"Lightweight files that can encapsulate and entire computational environment "
+"including its operating system, customised settings, software and files."
 msgstr ""
+"Archivos livianos que pueden encapsular todo el entorno computacional, "
+"incluido el sistema operativo, configuraciones personalizadas, software y "
+"archivos."
 
-#: glossary/glossary.md:19
 # header
+#: glossary/glossary.md:19
 msgid "#### Dockerfile"
-msgstr ""
+msgstr "#### Dockerfile"
 
 #: glossary/glossary.md:21
 msgid "A file used for creating Docker images"
-msgstr ""
+msgstr "Un archivo usado para crear imágenes de Docker"
 
-#: glossary/glossary.md:23
 # header
+#: glossary/glossary.md:23
 msgid "#### Image"
-msgstr ""
+msgstr "#### Imagen"
 
 #: glossary/glossary.md:25
 msgid "Files used for generating containers."
-msgstr ""
+msgstr "Archivos utilizados para generar contenedores."
 
-#: glossary/glossary.md:27
 # header
+#: glossary/glossary.md:27
 msgid "#### Package management system"
-msgstr ""
+msgstr "#### Sistema de gestión de paquetes"
 
 #: glossary/glossary.md:29
-msgid "A tool for installing, managing, and uninstalling software packages including specific versions."
+msgid ""
+"A tool for installing, managing, and uninstalling software packages "
+"including specific versions."
 msgstr ""
+"Una herramienta para instalar, administrar y desinstalar paquetes de "
+"software que incluyen versiones específicas."
 
-#: glossary/glossary.md:31
 # header
+#: glossary/glossary.md:31
 msgid "#### Virtual machine"
-msgstr ""
+msgstr "#### Máquina virtual"
 
 #: glossary/glossary.md:33
-msgid "A simulated computer that can encapsulate and entire computational environment including its operating system, customised settings, software and files."
+msgid ""
+"A simulated computer that can encapsulate and entire computational "
+"environment including its operating system, customised settings, software "
+"and files."
 msgstr ""
+"Una computadora simulada que puede encapsular todo el entorno computacional,"
+" incluido su sistema operativo, configuraciones personalizadas, software y "
+"archivos."
 
-#: glossary/glossary.md:35
 # header
+#: glossary/glossary.md:35
 msgid "#### YAML"
-msgstr ""
+msgstr "#### YAML"
 
 #: glossary/glossary.md:37
-msgid "A human readable/writable markup language which used by many projects for configuration files."
+msgid ""
+"A human readable/writable markup language which used by many projects for "
+"configuration files."
 msgstr ""
-
+"Un lenguaje de marcado legible/escribible por humanos que utilizan muchos "
+"proyectos para archivos de configuración."
