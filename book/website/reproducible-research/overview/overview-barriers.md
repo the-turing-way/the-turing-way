@@ -29,17 +29,33 @@ This chapter outlines some of those barriers, and a couple of suggestions to get
 - [Support additional users](#support-additional-users)
 - [Requires additional skills](#requires-additional-skills)
 
-## Plead the fifth
+## Limited incentives to give evidence against yourself
 
 The Fifth Amendment to the United States Constitution includes a clause that no one "shall be compelled in any criminal case to be a witness against [them]sel[ves]" [REF](https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution).
 (Edited to gender neutral language.)
+To "plead the fifth" means that someone chooses not to give evidence that there might have been something wrong in their past behaviour.
+They have the right to remain silent.
 
 We know that no one wants to incriminate themselves, and also that no one is infallible.
 Putting your code and data online can be very revealing and intimidating, and it is part of the human condition to be nervous of being judged by others.
+Although there is no _law_ governing the communication of reproducible research - unless you commit explicit fraud in your work - sharing errors that you find in your work is heavily disincentivised.
 
-However, releasing code can help other researchers provide feedback, learn and may help them in their research.
-You may find that publishing your code motivates you to write your code to a higher standard.
-Being careful about what you write down, and documenting your decisions, can even help generate new ideas.
+```{figure} ../../figures/make-ok-to-be-human.jpg
+---
+width: 500px
+name: make-ok-to-be-human
+alt: A cartoon of a woman holding a folder of files and looking worried. Thought bubble says: If I share my data people might find mistakes. The caption on the images reads Need to make it ok to be human.
+---
+An illustration of the "plead the fifth" barrier where our current culture disincentivises acknowledging and correcting mistakes.
+Illustration by The Ludic Group LLP from Kirstie Whitaker's keynote presentation at Scientific Data in 2017.
+Used under a CC-BY 4.0 license.
+https://doi.org/10.6084/m9.figshare.5577340.v1
+```
+
+Giving evidence against yourself, particularly if you find mistakes in published material, is difficult and stressful.
+But we need to balance that individual cost against the fact that releasing code can help other researchers provide feedback, learn and may help them in their research.
+In fact, you will almost certainly find that publishing your code and data documentation motivates you to conduct your analyses to a higher standard.
+Being careful about what you write down, and documenting your decisions, can also help generate new ideas for yourself and for others.
 
 Most importantly, we need to move away from a culture where publishing nothing is safer than publishing _something_.
 _The Turing Way_ is here to help you take little steps towards being more reproducible as your career progresses.
@@ -123,6 +139,18 @@ Throughout the project, time may be required to maintain the reproducible pipeli
 Time may also be spent communicating with collaborators to agree which parts of the project may be open source and when and how these outputs are shared.
 Researchers may find that they need to "upskill" their colleagues to allow the team to benefit from reproducibility tools such as git and GitHub, containers, Jupyter notebooks, or databases.
 
+```{figure} ../../figures/help-you-of-the-future.jpg
+---
+width: 500px
+name: help-you-of-the-future
+alt: A cartoon of a woman passing a folder of documents back to herself. Speech bubble says You're mainly keeping records for you in the future.
+---
+Although making clear documentation may feel like it is taking a lot of time in the moment, you are helping your and your collaborators remember what you have done so it is easy to reuse the work or make changes in the future.
+Illustration by The Ludic Group LLP from Kirstie Whitaker's keynote presentation at Scientific Data in 2017.
+Used under a CC-BY 4.0 license.
+https://doi.org/10.6084/m9.figshare.5577340.v1
+```
+
 However, _The Turing Way_ community advocates that this time is more than made up for by the end of the project.
 Take as a thought experiment a reviewer asking for "just one more analysis" when the publication has been submitted to a journal.
 In many cases this request will come 6 to 12 months after the research team have worked with the raw data.
@@ -151,5 +179,6 @@ That is a major barrier when the current incentive structures are not aligned wi
 However, this is the primary barrier that we at _The Turing Way_ are working to dismantle with you.
 We hope you enjoy learning these skills with us and that you'll help us to improve the book as you do.
 
-"A journey of a thousand miles begins with a single step" (Chinese philosopher [Lao Tzu](https://en.wikipedia.org/wiki/A_journey_of_a_thousand_miles_begins_with_a_single_step)).
+> "A journey of a thousand miles begins with a single step" (Chinese philosopher [Lao Tzu](https://en.wikipedia.org/wiki/A_journey_of_a_thousand_miles_begins_with_a_single_step)).
+
 We hope that by working towards helping you learn some of these valuable skills we also dismantle some of the more structural barriers to reproducible research.
