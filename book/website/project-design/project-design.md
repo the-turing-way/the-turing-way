@@ -17,10 +17,10 @@ alt: A group of people collaboratively developing a project plan by writing on a
 _The Turing Way_ project illustration by Scriberia. Zenodo. <http://doi.org/10.5281/zenodo.3332807>
 ```
 
-In this guide, we compile best practices and guidance on project designing by including different aspects of project management and agile development practices derived from academia, industries and product development fields.
-We hope you will learn from different case studies for small, mid-size, and large projects spanning to both short-term and long-term plans.
+In this guide, we compile best practices and guidance on project designing by including different aspects of project management and agile development practices derived from academia and the industry. 
+We hope you will learn from different case studies for small, mid-size, and large projects spanning both short-term and long-term plans.
 If you are brave enough, your examples of failed projects will be incredibly valuable for understanding how to avoid making the same (totally understandable!) mistakes again.
 
-When designing a team-based project, it is important to think about all the skills required in the project and resources needed to access those skills.
+When designing a team-based project, it is important to think about all the skills required for the project and the resources needed to access those skills.
 With this in mind, we welcome chapters defining the requirements in a project in terms of up-skilling, supporting and improving accessibility of different stakeholders.
 Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) to get involved.
