@@ -8,12 +8,13 @@ You can watch Kirstie Whitaker describe some of them in [her talk about _The Tur
 You can use and re-use her slides under a CC-BY licence via Zenodo (doi: [10.5281/zenodo.2669547](https://doi.org/10.5281/zenodo.2669547)).
 The section describing the slide below starts around 5 minutes into the video.
 
-```{figure} ../../figures/reproducibility/barriers.png
+```{figure} ../../figures/barriers-reproducibility.png
 ---
 name: reproducibility-barriers
 alt: Slide from presentation showing the different barriers to reproducibility: INSERT LIST HERE.
 ---
 A slide outlining some of the barriers to reproducible research.
+The text in the center says "Barriers to reproducible research" and the following barriers are arranged clockwise around the slide: Is not considered for promotion, Held to a higher standard than others, Publication bias towards novel findings, Plead the 5th, Takes time, Support additional users, Requires additional skills.
 ```
 
 This chapter outlines some of those barriers, and a couple of suggestions to get around them.
