@@ -2083,7 +2083,11 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/58147174?v=4",
       "profile": "https://github.com/EKaroune",
       "contributions": [
-        "content"
+        "content",
+        "bug",
+        "blog",
+        "review",
+        "talk"
       ]
     },
     {
