@@ -12,7 +12,7 @@ The section describing the slide below starts around 5 minutes into the video.
 ---
 width: 500px
 name: reproducibility-barriers
-alt: Slide from presentation showing the different barriers to reproducibility. The text in the center says "Barriers to reproducible research" and the following barriers are arranged clockwise around the slide: Is not considered for promotion, Held to a higher standard than others, Publication bias towards novel findings, Plead the 5th, Takes time, Support additional users, Requires additional skills.
+alt: "Slide from presentation showing the different barriers to reproducibility. The text in the center says "Barriers to reproducible research" and the following barriers are arranged clockwise around the slide: Is not considered for promotion, Held to a higher standard than others, Publication bias towards novel findings, Plead the 5th, Takes time, Support additional users, Requires additional skills."
 ---
 A slide outlining some of the barriers to reproducible research.
 ```
