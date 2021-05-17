@@ -1,166 +1,317 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Place Holder <test@test.com>, 2020.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Marilina Santero <marilinasantero@gmail.com>, 2021
+# Camila Rangel Smith <camila.rangel.smith@gmail.com>, 2021
+# Pamela Villar González <pamela.villar.gonzalez@psych.uw.edu.pl>, 2021
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: content\n"
 "Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
 "POT-Creation-Date: 2020-02-05 19:08:03+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Place Holder <test@test.com>\n"
-"Language-Team: Spanish <LL@li.org>\n"
+"PO-Revision-Date: 2020-04-07 14:21+0000\n"
+"Last-Translator: Pamela Villar González <pamela.villar.gonzalez@psych.uw.edu.pl>, 2021\n"
+"Language-Team: Spanish (https://www.transifex.com/theturingway/teams/107194/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: figures/figure_list.md:1
 # header
+#: figures/figure_list.md:1
 msgid "### This is a list of figures in the book"
-msgstr ""
+msgstr "### Esta es una lista de figuras en el libro"
 
 #: figures/figure_list.md:3
 msgid "**To be kept in alphabetical order**"
-msgstr ""
+msgstr "**Mantener en orden alfabético**"
 
 #: figures/figure_list.md:5
-msgid "| Filename                   | Chapter                   | Description                                       |"
+msgid ""
+"| Filename                   | Chapter                   | Description"
+"                                       |"
 msgstr ""
+"| Nombre del archivo             | Capítulo      |\n"
+"Descripción                    |"
 
 #: figures/figure_list.md:6
-msgid "| -------------------------- | ------------------------- | ------------------------------------------------- |"
+msgid ""
+"| -------------------------- | ------------------------- | "
+"------------------------------------------------- |"
 msgstr ""
+"| -------------------------- | ------------------------- | "
+"------------------------------------------------- |"
 
 #: figures/figure_list.md:7
-msgid "| binder_comic               | Reproducible environments | Cartoon showing using binder to share research    |"
+msgid ""
+"| binder_comic               | Reproducible environments | Cartoon showing "
+"using binder to share research    |"
 msgstr ""
+"| binder_comic               | Entornos reproducibles | Caricatura sobre el "
+"uso de binder para compartir resultados de una investigación    |"
 
 #: figures/figure_list.md:8
-msgid "| binder_home                | Reproducible environments | Home screen of an example binder                  |"
+msgid ""
+"| binder_home                | Reproducible environments | Home screen of an"
+" example binder                  |"
 msgstr ""
+"| binder_home                | Entornos reproducibles | Pantalla de inicio "
+"de binder como ejemplo                   |"
 
 #: figures/figure_list.md:9
-msgid "| binder_notebook            | Reproducible environments | Interacting with an example binder via a notebook |"
+msgid ""
+"| binder_notebook            | Reproducible environments | Interacting with "
+"an example binder via a notebook |"
 msgstr ""
+"| binder_notebook            | Entornos reproducibles | Interacción como "
+"ejemplo de binder a traavés de un notebook|"
 
 #: figures/figure_list.md:10
-msgid "| binder_terminal            | Reproducible environments | Interacting with an example binder via a terminal |"
+msgid ""
+"| binder_terminal            | Reproducible environments | Interacting with "
+"an example binder via a terminal |"
 msgstr ""
+"| binder_terminal            | Entornos reproducibles | Interacción como "
+"ejemplo de bindr a través de una terminal |"
 
 #: figures/figure_list.md:11
-msgid "| cd_example                 | Reproducible environments | Example of result of using cd in a Dockerfile     |"
+msgid ""
+"| cd_example                 | Reproducible environments | Example of result"
+" of using cd in a Dockerfile     |"
 msgstr ""
+"| cd_example                 | Entornos reproducbles | Ejemplo del resultado"
+" de usar cd en un Dockerfile     |"
 
 #: figures/figure_list.md:12
-msgid "| change_stage_repo          | Version control           | Cartoon showing staging and committing changes    |"
+msgid ""
+"| change_stage_repo          | Version control           | Cartoon showing "
+"staging and committing changes    |"
 msgstr ""
+"| change_stage_repo          | Control de versiones           | Caricatura "
+"que muestra el montaje y la realización de cambios    |"
 
 #: figures/figure_list.md:13
-msgid "| container_example          | Reproducible environments | Demo of a simple container in terminal            |"
+msgid ""
+"| container_example          | Reproducible environments | Demo of a simple "
+"container in terminal            |"
 msgstr ""
+"| container_example          | Entornos reproducibles | Demo de un "
+"contenedor en terminal            |"
 
 #: figures/figure_list.md:14
-msgid "| docker_official_image      | Reproducible environments | The official ubuntu docker image with badge       |"
+msgid ""
+"| docker_official_image      | Reproducible environments | The official "
+"ubuntu docker image with badge       |"
 msgstr ""
+"| docker_official_image      | Entornos reproducibles | La imagen oficial de ubuntu docker con insignia\n"
+" \n"
+"\n"
+" \n"
+" \n"
+" \n"
+"        |"
 
 #: figures/figure_list.md:15
-msgid "| eyeball_test_1             | Testing                   | Results tested by seeing if they 'look right'     |"
+msgid ""
+"| eyeball_test_1             | Testing                   | Results tested by"
+" seeing if they 'look right'     |"
 msgstr ""
+"| eyeball_test_1             | Prueba                   | Testeo de "
+"resultados viendo si \"se ven bien\"  |"
 
 #: figures/figure_list.md:16
-msgid "| eyeball_test_2             | Testing                   | Results tested by seeing if they 'look right'     |"
+msgid ""
+"| eyeball_test_2             | Testing                   | Results tested by"
+" seeing if they 'look right'     |"
 msgstr ""
+"| eyeball_test_2             | Prueba                   | Testeo de "
+"resultados viendo si \"se ven bien\"   |"
 
 #: figures/figure_list.md:17
-msgid "| eyeball_test_3             | Testing                   | Results tested by seeing if they 'look right'     |"
+msgid ""
+"| eyeball_test_3             | Testing                   | Results tested by"
+" seeing if they 'look right'     |"
 msgstr ""
+"| eyeball_test_3             | Prueba | Testeo de resultados viendo si \"se "
+"ven bien\" |"
 
 #: figures/figure_list.md:18
-msgid "| eyeball_test_error         | Testing                   | Bug detected by result 'looking wrong'            |"
+msgid ""
+"| eyeball_test_error         | Testing                   | Bug detected by "
+"result 'looking wrong'            |"
 msgstr ""
+"| eyeball_test_error         | Prueba\n"
+"                   | Error detectado viendo que el resultado \"parece incorrecto\" |"
 
 #: figures/figure_list.md:19
-msgid "| flipped_taj_mahal          | Version control           | Upside down taj mahal to confuse people           |"
+msgid ""
+"| flipped_taj_mahal          | Version control           | Upside down taj "
+"mahal to confuse people           |"
 msgstr ""
+"| flipped_taj_mahal          | Control de versiones           | Taj mahal al"
+" revés para confundir a la gente           |"
 
 #: figures/figure_list.md:20
-msgid "| master_branch              | Version control           | Illustrates commits on master branch              |"
+msgid ""
+"| master_branch              | Version control           | Illustrates "
+"commits on master branch              |"
 msgstr ""
+"| master_branch | Control de versiones | Ilustra los \"commits\" (cambios) "
+"en la rama master |"
 
 #: figures/figure_list.md:21
-msgid "| mybinder_gen_link          | Reproducible environments | What the page to generate binder links looks like |"
+msgid ""
+"| mybinder_gen_link          | Reproducible environments | What the page to "
+"generate binder links looks like |"
 msgstr ""
+"| mybinder_gen_link          | Entornos reproducibles | Cómo se ve la página"
+" para generar enlaces de carpetas"
 
 #: figures/figure_list.md:22
-msgid "| one_branch                 | Version control           | Illustrates version control master + one branch   |"
+msgid ""
+"| one_branch                 | Version control           | Illustrates "
+"version control master + one branch   |"
 msgstr ""
+"| one_branch | Control de versiones | Ilustra el control de versiones de la "
+"rama \"master\" + otra rama |"
 
 #: figures/figure_list.md:23
-msgid "| open_access_citatations    | Open research             | Impact of openness on citation count              |"
+msgid ""
+"| open_access_citatations    | Open research             | Impact of "
+"openness on citation count              |"
 msgstr ""
+"| open_access_citatations    | Investigación abierta            | Impacto de"
+" la apertura/accesibilidad  en el número de citas         |"
 
 #: figures/figure_list.md:24
-msgid "| open_umbrella              | Open research             | Terms under the umbrella of open scholarship      |"
+msgid ""
+"| open_umbrella              | Open research             | Terms under the "
+"umbrella of open scholarship      |"
 msgstr ""
+"| open_umbrella              | Investigación abierta             | Términos "
+"en el marco de academia de acceso abierto      |"
 
 #: figures/figure_list.md:25
-msgid "| regents_map                | BinderHub workshop        | Map to workshop location                          |"
+msgid ""
+"| regents_map                | BinderHub workshop        | Map to workshop "
+"location                          |"
 msgstr ""
+"| regents_map                | Taller BinderHub        | Mapa de ubicación "
+"del taller                          |"
 
 #: figures/figure_list.md:26
-msgid "| reproducibility_kirstie    |                           | Depicts cow code and data relate to good practise |"
+msgid ""
+"| reproducibility_kirstie    |                           | Depicts cow code "
+"and data relate to good practise |"
 msgstr ""
+"| Reproducibilidad_kirstie | Representa el \"cow code\" y los datos que se "
+"relacionan con las buenas prácticas |"
 
 #: figures/figure_list.md:27
-msgid "| sub_branch                 | Version control           | Illustrates version control branch + sub branch   |"
+msgid ""
+"| sub_branch                 | Version control           | Illustrates "
+"version control branch + sub branch   |"
 msgstr ""
+"| sub_branch | Control de versiones | Ilustra el control de versiones de una"
+" rama + una sub-rama |"
 
 #: figures/figure_list.md:28
-msgid "| testing_motivation_1       | Testing                   | Example of consequence of not testing code        |"
+msgid ""
+"| testing_motivation_1       | Testing                   | Example of "
+"consequence of not testing code        |"
 msgstr ""
+"| testing_motivation_1 | \"Testing\" (pruebas) | Ejemplo de las "
+"consecuencias de no probar el código. | "
 
 #: figures/figure_list.md:29
-msgid "| testing_motivation_2       | Testing                   | Example of consequence of not testing code        |"
+msgid ""
+"| testing_motivation_2       | Testing                   | Example of "
+"consequence of not testing code        |"
 msgstr ""
+"| testing_motivation_2 | \"Testing\" (pruebas) | Ejemplo de las "
+"consecuencias de no probar el código. | "
 
 #: figures/figure_list.md:30
-msgid "| Travis_badge_fail          | Continuous integration    | A readme with a failing Travis badge              |"
+msgid ""
+"| Travis_badge_fail          | Continuous integration    | A readme with a "
+"failing Travis badge              |"
 msgstr ""
+"| Travis_badge_fail | Integración continua |  Un \"readme\" con una insignia"
+" de Travis que falla  |"
 
 #: figures/figure_list.md:31
-msgid "| Travis_badge_pass          | Continuous integration    | A readme with a passing Travis badge              |"
+msgid ""
+"| Travis_badge_pass          | Continuous integration    | A readme with a "
+"passing Travis badge              |"
 msgstr ""
+"| Travis_badge_pass|  Integración continua |  Un readme con una insignia de "
+"Travis que pasa | "
 
 #: figures/figure_list.md:32
-msgid "| Travis_build               | Continuous integration    | What the Travis dashboard looks like              |"
+msgid ""
+"| Travis_build               | Continuous integration    | What the Travis "
+"dashboard looks like              |"
 msgstr ""
+"| Travis_build  | Integración continua  | Cómo se ve el panel de control de "
+"Travis |"
 
 #: figures/figure_list.md:33
-msgid "| two_branches               | Version control           | Illustrates version control master + two branches |"
+msgid ""
+"| two_branches               | Version control           | Illustrates "
+"version control master + two branches |"
 msgstr ""
+"| two_branches | Control de versiones | Ilustra el control de versiones de "
+"una rama \"master\" + dos ramas |"
 
 #: figures/figure_list.md:34
-msgid "| virtual_machine            | Reproducible environments | Example of a virtual ubuntu machine on windows    |"
+msgid ""
+"| virtual_machine            | Reproducible environments | Example of a "
+"virtual ubuntu machine on windows    |"
 msgstr ""
+"| virtual_machine | Entornos reproducibles | Ejemplo de una máquina virtual "
+"de ubuntu en windows |"
 
 #: figures/figure_list.md:35
-msgid "| VM_create_machine          | Reproducible environments | How to create a virtual machine in virtualbox     |"
+msgid ""
+"| VM_create_machine          | Reproducible environments | How to create a "
+"virtual machine in virtualbox     |"
 msgstr ""
+"| VM_create_machine | Entornos reproducibles | Cómo crear una máquina "
+"virtual en virtualbox |"
 
 #: figures/figure_list.md:36
-msgid "| VM_export_machine          | Reproducible environments | How to export a virtual machine in virtualbox     |"
+msgid ""
+"| VM_export_machine          | Reproducible environments | How to export a "
+"virtual machine in virtualbox     |"
 msgstr ""
+"| VM_export_machine | Entornos reproducibles | Cómo exportar una máquina "
+"virtual en virtualbox |"
 
 #: figures/figure_list.md:37
-msgid "| VM_start_machine           | Reproducible environments | How to start a virtual machine in virtualbox      |"
+msgid ""
+"| VM_start_machine           | Reproducible environments | How to start a "
+"virtual machine in virtualbox      |"
 msgstr ""
+"| VM_start_machine | Entornos reproducibles | Cómo arrancar una máquina "
+"virtual en virtualbox |"
 
 #: figures/figure_list.md:38
-msgid "| workdir_example            | Reproducible environments | Example of using workdir in Dockerfiles           |"
+msgid ""
+"| workdir_example            | Reproducible environments | Example of using "
+"workdir in Dockerfiles           |"
 msgstr ""
+"| Workdir_example | Entornos reproducibles | Ejemplo de uso de \"workdir\" "
+"en \"Dockerfiles\" (archivos de Docker) |"
 
 #: figures/figure_list.md:39
-msgid "| wtf_per_min.jpg            | Version control           | Good quality code = few wtf per min               |"
+msgid ""
+"| wtf_per_min.jpg            | Version control           | Good quality code"
+" = few wtf per min               |"
 msgstr ""
-
+"| wtf_per_min.jpg | Control de versiones | Código de buena calidad = pocos "
+"\"wtf\" por minuto |"
