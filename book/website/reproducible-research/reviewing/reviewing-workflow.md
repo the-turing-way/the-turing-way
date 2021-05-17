@@ -2,14 +2,13 @@
 
 *This chapter has particular reference to Github*
 
-## Table of contents
-
-- [Formal vs informal reviews](#formal-vs-informal-reviews)
-- [Prepare the code](#prepare-the-code)
-- [Propose changes](#propose-changes)
-- [Create and discuss the review](#preate-and-discuss-the-review)
-- [Communicating results through GitHub](#communicating-results-through-GitHub)
-- [Merge the changes](#merge-the-changes)
+```{figure} ../../figures/ReadableCode.jpg
+---
+name: ReadableCode
+alt: This image highlights the importance of code readability.
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
+```
 
 ## Formal vs Informal Reviews
 
