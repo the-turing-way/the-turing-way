@@ -12,7 +12,7 @@ This lack of data sharing is an obstacle to international research (be it academ
 2. The data cannot be reused or incorporated into new work by other researchers if they cannot obtain access to it.
 
 Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs.
-Open data is crucial to meeting these objectives.
+Open data [{term}`def<Open data>`] is crucial to meeting these objectives.
 Open data is freely available on the internet. 
 Any user is permitted to download, copy, analyse, re-process, and re-use it for any other purpose with minimal financial, legal, and technical barriers.
 
@@ -24,7 +24,6 @@ Free access to and subsequent use of data is of significant value to society and
 That data should, therefore, be open by default and only as closed as necessary. 
 
 You can find more about the practical steps to make your data available in the section describing {ref}`Steps to Share your Data <rr-rdm-sharing-steps>` in the subchapter: {ref}`Sharing and Archiving Data<rr-rdm-sharing>`.
-
 
 (rr-open-data-barriers)=
 ## Barriers to Data Sharing
@@ -85,3 +84,4 @@ If a company spends time and money developing something new, the details of whic
 The result is that no one would innovate in the first place.
 Similarly, for public safety concerns, governments are often unwilling to publish data that relates to issues such as national security.
 In such cases, it may not be possible to make data open, or it may only be possible to share partial/obscured datasets.
+

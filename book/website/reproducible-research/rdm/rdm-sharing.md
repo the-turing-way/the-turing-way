@@ -23,7 +23,7 @@ As such, you first need to decide which data you need to share for others to be 
 
 ### Step 2: Choose a data repository or other sharing platform
 
-Data should be shared in a formal, open, and indexed data repository where possible so that it will be accessible in the long run.
+Data should be shared in a formal, open, and indexed data repository [{term}`def<Repository>`] where possible so that it will be accessible in the long run.
 Suitable data repositories by subject, content type or location can be found at [Re3data.org](https://www.re3data.org/), and in [FAIRsharing](https://fairsharing.org/databases) where you can also see which standards (metadata and identifier) the repositories implement and which journal/publisher recommend them.
 If possible use a repository that assigns a DOI, a digital object identifier, to make it easier for others to cite your data. Have a look in the {ref}`rr-credit` to see how to share and cite your data and other outputs.
 
@@ -31,7 +31,7 @@ A few public data repositories are [Zenodo](zenodo.org/), [Figshare](https://fig
 
 ### Step 3: Choose a licence and link to your paper and code
 
-So that others know what they can do with your data, you need to apply a licence to your data.
+So that others know what they can do with your data, you need to apply a licence [{term}`def<License>`] to your data.
 The most commonly used licences are [Creative Commons](https://creativecommons.org/choose/), [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), or an [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/index.html).
 To get maximum value from data sharing, make sure that your paper and code both link to your data, and vice versa, to allow others understand your project better.
 
