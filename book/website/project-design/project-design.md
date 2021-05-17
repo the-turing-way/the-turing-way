@@ -17,7 +17,7 @@ alt: A group of people collaboratively developing a project plan by writing on a
 _The Turing Way_ project illustration by Scriberia. Zenodo. <http://doi.org/10.5281/zenodo.3332807>
 ```
 
-In this guide, we compile best practices and guidance on project designing by including different aspects of project management and agile development practices derived from academia and the industry. 
+In this guide, we compile best practices and guidance on project designing by including different aspects of project management and agile development practices derived from academia and industry. 
 We hope you will learn from different case studies for small, mid-size, and large projects spanning both short-term and long-term plans.
 If you are brave enough, your examples of failed projects will be incredibly valuable for understanding how to avoid making the same (totally understandable!) mistakes again.
 
