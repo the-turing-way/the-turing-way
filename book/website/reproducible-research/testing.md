@@ -54,6 +54,6 @@ It makes research more reproducible by answering the question "how do we even kn
 If tests are never saved, just done and deleted the proof cannot be reproduced easily.
 
 Testing also helps prevent valuable grant money being spent on projects that may be partly or wholly flawed due to mistakes in the code.
-Worse if mistakes are not at found and the work is published any subsequent work that builds upon the project will be similarly flawed.
+Worse, if mistakes are not at found and the work is published, any subsequent work that builds upon the project will be similarly flawed.
 
-Perhaps the cleanest expression of why testing is important for research as a whole can be found in the [Software Sustainability Institute](https://www.software.ac.uk/) slogan: better software better research.
+Perhaps the cleanest expression of why testing is important for research as a whole can be found in the [Software Sustainability Institute](https://www.software.ac.uk/) slogan: better software, better research.

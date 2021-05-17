@@ -338,6 +338,8 @@
   sections:
   - title: Introduction to Research Ethics
     file: ethical-research/ethics-intro
+  - title: Research Ethics Committees Workflows
+    file: ethical-research/ethics-case-study
   - title: Ethical Decisions in Preclinical Research
     file: ethical-research/preclinical-research
   - title: Activism for Researchers
@@ -345,12 +347,12 @@
     sections:
     - title: Unionisation
       file: ethical-research/activism/activism-unionisation
-    - title: Internal Policy Advocacy
-      file: ethical-research/activism/activism-internal-policy
     - title: Whistleblowing
       file: ethical-research/activism/activism-whistleblowing
     - title: Case study - Robodebt
       file: ethical-research/activism/activism-robodebt
+  - title: Internal Policy Advocacy
+    file: ethical-research/activism-internal-policy
 
 # ===== Community Handbook Guide ========================================
 

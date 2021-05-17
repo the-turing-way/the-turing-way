@@ -5,32 +5,47 @@
 ## What is a union?
 
 A trade union is a formalised way for workers to organise and bargain collectively at an institutional, sectoral or national level.
-A union is organised into branches which are spread geographically (for example, North London) or at an institutional level (for example, labs or departments), depending on the distribution of members and how the union works. Members of unions typically pay a monthly fee, although this is sometimes waived for certain categories of members, for example, the UK union UCU allows graduate students to join for free.
+A union is organised into branches which are spread geographically (for example, North London) or at an institutional level (for example, labs or departments), depending on the distribution of members and how the union works. 
+Members of unions typically pay a monthly fee, although this is sometimes waived for certain categories of members, for example, the UK union UCU allows graduate students to join for free.
 
-Some members take up additional responsibilities as "reps" or "shop stewards", helping to organise the running of branches, supporting members with workplace issues, and sometimes representing the branch at a national level. Larger unions often have full-time employees to support reps and workers, who are also responsible for areas such as developing union policy, press relations, and organising any large meetings for example, annual conferences.
+Some members take up additional responsibilities as "reps" or "shop stewards", helping to organise the running of branches, supporting members with workplace issues, and sometimes representing the branch at a national level. 
+Larger unions often have full-time employees to support reps and workers, who are also responsible for areas such as developing union policy, press relations, and organising any large meetings for example, annual conferences.
 
-In some, but not all countries, being a member of a trade union is a protected characteristic. This means organisations are not allowed to fire people for being members (but this has not always been the case). Under the General Data Protection Regulation (GDPR), the European Union considers union membership to be sensitive data and in the same category as genetic data or data on gender.
+In some, but not all countries, being a member of a trade union is a protected characteristic. 
+This means organisations are not allowed to fire people for being members (but this has not always been the case). 
+Under the General Data Protection Regulation (GDPR), the European Union considers union membership to be sensitive data and in the same category as genetic data or data on gender.
 
 (er-activism-unionisation-unionactivities)=
 ## What can unions do?
 
+Unions are a vehicle for their members to orgaise together and support each other in their workplace and industry. 
 Unions take lots of different actions to improve working conditions for their members.
+
 These can be at individual, workplace, or industry level.
 
 At an individual level, unions can:
 * Offer support for individuals who have issues at work: for example, supporting individuals who have been discriminated against or bullied in their workplace, or whose duties involve unsafe practices
 * Make people aware of their rights at work, how policies affect them, and what the legal obligations of the organisation are
 
-At a workplace levels, unions can:
+At a workplace level, union branch members can:
 * Negotiate with management on behalf of their members: this is called 'collective bargaining' and can be used to improve working conditions, salaries, pensions
 * Review existing policies in a workplace and advocate for changes that improve equity, remove patriarchal/societal influences, and increase support for marginalised members of the workforce
 * Raise health and safety concerns about particular work areas or duties
 * Organise members to "work to rule", where no overtime or duties outside those in formal job descriptions are undertaken
 * Go on strike, where no work is performed and workers instead "picket" their workplaces by meeting outside and encouraging others to join them
+* Organise other industrial action
+* Discuss policies and positions the members would like to adopt on particular issues 
 
 At an industry level, unions can:
 * Input into government policy through consultation responses or lobbying (for example, speaking to the press on an issue, writing articles, or submitting to formal processes such as hearings)
-* Organise strikes across whole industries
+* Organise strikes and industrial action across whole industries
+
+(er-activism-unionisation-industrialaction)=
+### What is industrial action? 
+
+Industrial action covers a range of different activities that unions members take together to highlight issues in their workplace or industry. 
+The most well-known of these is "striking" or "work stoppages", where members refuse to come into work and form picket lines outside their workplaces. 
+However, there are a lot of other types of activities that fall under industrial action, including: working to rule (or working to contract), mass reporting of health and safety violations, work place occupations, banner drops, or marches. 
 
 (er-activism-unionisation-unionhow)=
 ## How does a union help scientists and researchers?
@@ -74,8 +89,11 @@ The AScW communicated with members via branch bulletins as well as a national pa
 
 Start by finding out if there is a union already in your workplace.
 If so, there will be a person you can talk to about joining: they might be known as the union rep or steward.
+Joining the union that already represents people in your workplace increases its ability to bargain on behalf of everyone and organise the workplace. 
+Some workplaces may have several different unions that represent different types of staff. 
+In these cases, you should join the one you feel best matches the type of work you do. 
 
-If there is not a union in your workplace, look into the unions that already exist in your area or country. [link to section on examples of unions]
+If there is not a union in your workplace, look into the unions that already exist in your area or country. [link to section on examples of unions](er-activism-unionisation-unionexamples)
 You might be able to join one that is relevant to your industry or duties: or you might be able to join a general union that represents lots of different workers.
 
 To join a union, you might have to pay union fees or dues.
@@ -89,14 +107,14 @@ Unions are collective projects and they are people-powered!
 ### Be an active member
 
 Once you are a member, you can attend meetings.
-Attending union meetings in your workplace is also a good way to find out what issues are affecting your colleagues
-Meetings are a good place to find out what issues the union is working on.
+Attending union meetings in your workplace is also a good way to find out what issues are affecting your colleagues.
+Meetings are a good place to find out what issues the union is working on and to discuss them with other members.
 Attending meetings and keeping up with union communications are good way to find out how to raise issues that you are concerned about.
 Your union may also have regional or national meetings: these are good places to find out more about union work in different areas.
 
 Like any organisations, unions have their own systems of governance and decision-making processes.
-These are ways for you to have a say in what your union is doing
-You can get involved by voting for people to take on particular roles at workplace or industry level.
+These are ways for you to have a say in what your union is doing.
+You can get involved by voting for people to take on particular roles at workplace or industry level, proposing topics for debate in meetings, or contributing to ongoing debates.
 You might also be asked to vote on specific actions that your workplace union will take, including accepting or rejecting a policy proposal made by management.
 
 Your union may ask you for input about issues: these can range from things that are specific to your job or workplace, to issues that affect your whole industry.
@@ -114,10 +132,10 @@ Like any community, unions need people to take on organisational roles within th
 These roles will vary depending on how big your union is, and what it is working in.
 
 Some roles might include:
-* supporting other union members: for example, accompanying your colleagues to disciplinary meetings or meetings with management, to provide support and take notes
-* being a union rep for a particular group of workers within your workplace: this might be a team or a department, or a group of workers doing similar roles across the workplace
-* negotiating a particular issue, for example pay, pensions, or holiday entitlements, with management
-* representing your workplace at larger union gatherings, for example a national meeting
+* Supporting other union members: for example, accompanying your colleagues to disciplinary meetings or meetings with management, to provide support and take notes
+* Being a union rep for a particular group of workers within your workplace: this might be a team or a department, or a group of workers doing similar roles across the workplace
+* Negotiating a particular issue, for example pay, pensions, or holiday entitlements, with management
+* Representing your workplace at larger union gatherings, for example a national meeting
 
 The process for becoming a representative will vary depending on how your union operates.
 You might need to stand for election, or be approved by a meeting of union members.
@@ -128,10 +146,10 @@ You might need to stand for election, or be approved by a meeting of union membe
 If you have issues in your workplace or industry that you feel strongly about then one way to push for change is by leading a campaign within your union (at either a branch or national level).
 Campaigns can take almost as many forms as there are issues to campaign on!
 
-As a starting point, it's good to have a clear issue and aim(s) in mind for what you would like to achieve and a a few other people who agree with what you want to change.
+As a starting point, it's good to have a clear issue and aim(s) in mind for what you would like to achieve and a few other people who agree with what you want to change.
 
 If you think this is what you want to do, your union will usually have resources on how to get started.
-You can also find more practical steps in the Internal Policy Advocacy Sub-Chapter of the Ethics Book.
+You can also find more practical steps in the Internal Policy Advocacy Chapter of the Ethics Book.
 
 (er-activism-unionisation-resources)=
 #### More resources

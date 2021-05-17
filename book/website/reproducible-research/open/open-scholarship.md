@@ -1,7 +1,7 @@
 (rr-open-scholarship)=
 # Open Scholarship
 
-Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship.
+Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship [{term}`def<Open Scholarship>`].
 
 ```{figure} ../../figures/open_umbrella.png
 ---
@@ -14,7 +14,7 @@ alt: A depiction of Open Scholarship as an umbrella with other elements of Open 
 (rr-open-scholarship-resources)=
 ## Open Educational Resources
 
-Open educational resources (OERs) are teaching and learning materials that can be freely used and reused for learning or teaching at no cost, and without needing to ask permission. Examples are courses, including Massive Online Open Courses (MOOCs), lectures, teaching materials, assignments, and various other resources. OERs are available in many different formats compatible with online usage, most obviously text, images, audio, and video. Anyone with internet access can access and use OERs; access is not dependent on location or membership of a particular institution.
+Open educational resources (OERs) [{term}`def<Open Educational Resources>`] are teaching and learning materials that can be freely used and reused for learning or teaching at no cost, and without needing to ask permission. Examples are courses, including Massive Online Open Courses (MOOCs), lectures, teaching materials, assignments, and various other resources. OERs are available in many different formats compatible with online usage, most obviously text, images, audio, and video. Anyone with internet access can access and use OERs; access is not dependent on location or membership of a particular institution.
 
 Unlike copyrighted resources, OERs have been authored or created by an individual or organization that chooses to retain few, if any, ownership rights. In some cases, that means anyone can download a resource and share it with colleagues and students. In other cases, this may go further and enable people to edit resources and then re-post them as a remixed work. How do you know your options? OERs often have a Creative Commons licence or other permission to let you know how the material may be used, reused, adapted, and shared.
 
@@ -40,7 +40,7 @@ This shift in educational practice is about participation and co-creation.
 Open Educational Resources (OERs) offer opportunities for systemic change in teaching and learning content by involving educators in new participatory processes and leveraging effective technologies for learning engagement.
 
 (rr-open-scholarship-equity)=
-## Equity, Diversity, Inclusion
+## Equity, Diversity, Inclusion [{term}`def<Equitable, Diverse and Inclusive Practices>`]
 
 Open scholarship means open to *everyone* without discrimination based on factors such as race, gender, sexual orientation, or any number of other factors.
 As a community, we should undertake to ensure equitable opportunities for all.
@@ -50,7 +50,7 @@ For example, reasonable accommodations should be made wherever possible to inclu
 (rr-open-scholarship-citizen)=
 ## Citizen Science
 
-Citizen science is the involvement of the public in scientific research – whether community-driven research or global investigations. 
+Citizen science [{term}`def<Citizen Science>`] is the involvement of the public in scientific research – whether community-driven research or global investigations. 
 The Oxford English Dictionary recently defined it as: "scientific work undertaken by members of the general public, often in collaboration with or under the direction of professional scientists and scientific institutions".
 Citizen science offers the power of science to everyone and the power of everyone to science.
 
