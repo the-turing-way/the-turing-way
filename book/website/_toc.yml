@@ -184,10 +184,10 @@
       file: reproducible-research/reviewing/reviewing-checklist
     - title: Resources for code reviewing
       file: reproducible-research/reviewing/reviewing-resources
-  - title: Continuous Integration
+  - title: Continuous Integration (CI)
     file: reproducible-research/ci
     sections:
-    - title: Continuous integration options
+    - title: Intro to Continuous integration (CI)
       file: reproducible-research/ci/ci-options
     - title: Getting started with GitHub actions
       file: reproducible-research/ci/ci-github-actions
