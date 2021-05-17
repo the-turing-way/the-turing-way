@@ -1,6 +1,14 @@
 (rr-overview)=
 # Overview of Reproducible Research
 
+```{figure} ../../figures/ResearchCycle.jpg
+---
+name: ResearchCycle
+alt: The research process is represented as a perpetual cycle between research ideas, research data planning and desing, data collection, data processing, data study & analysis, data publishing & access, data preservation & data re-use 
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. 
+```
+
 (rr-overview-prerequisites)=
 ## Prerequisites
 No previous knowledge needed.
