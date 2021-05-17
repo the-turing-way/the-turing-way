@@ -41,7 +41,7 @@ However, releasing code can help other researchers provide feedback, learn and m
 You may find that publishing your code motivates you to write your code to a higher standard.
 Being careful about what you write down, and documenting your decisions, can even help generate new ideas.
 
-Most importantly, we need to move from a culture where publishing nothing is safer than publishing _something_.
+Most importantly, we need to move away from a culture where publishing nothing is safer than publishing _something_.
 _The Turing Way_ is here to help you take little steps towards being more reproducible as your career progresses.
 We don't want anyone to feel alone, or "not good enough" as they start and continue their open research journey.
 
@@ -60,12 +60,12 @@ Too many different researchers are asking the same question, not getting the ans
 
 This barrier is not specific to computational reproducibility as we define it in _The Turing Way_.
 However, it is a major cultural barrier to [transparent communication](https://the-turing-way.netlify.app/communication/communication), and affects [project design](https://the-turing-way.netlify.app/project-design/project-design.html).
-_The Turing Way_ community are advocating in all the places we are able, for the systemic culture change that is required to dismatle the current publication and academic credit biases towards novelty over rigour.
+_The Turing Way_ community are advocating in all the places we are able, for the systemic culture change that is required to dismantle the current publication and academic credit biases towards novelty over rigour.
 
 ## Held to higher standards than others
 
 A researcher who makes their work reproducible by sharing their code and data may be held to a higher standard than other researchers.
-If authors share nothing at all then all readers of a manuscript or conference paper can do is trust (or not trust) the results.
+If authors share nothing at all, then all readers of a manuscript or conference paper can do is trust (or not trust) the results.
 
 If code and data are available, peer reviewers may go looking for differences in the implementation.
 They may come back with new ideas on ways to analyse the data because they have been able to experiment with the work.
@@ -101,7 +101,7 @@ The [Apache Hadoop](https://hadoop.apache.org/) framework, for instance, is extr
 
 Even "standard" high performance computing, can be difficult to set up to be perfectly reproducible, particularly across different cloud computing providers or institutional configurations.
 _The Turing Way_ contains chapters to help data scientists learn skills in [reproducible computational environments](../../renv) including [containers](../../revn/renv-containers) such as docker and ways to [version control your software libraries](../../renv/renv-package).
-We are always [open to more contributions](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) as the technology to support reproducible reserach in very large datasets or for complext modelling evolves.
+We are always [open to more contributions](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) as the technology to support reproducible reserach in very large datasets or for complex modelling evolves.
 
 ## Being reproducible does not mean the answer is right
 
@@ -112,7 +112,7 @@ This barrier isn't really a _barrier_ to reproducible research as much as a cave
 You can consider computational reproducibility as being necessary but not sufficient for high quality research.
 A critical approach is needed, rather than naively using existing software or implementing statistical methods without understanding what they do.
 See, for example, [a discussion](https://ryxcommar.com/2019/08/30/scikit-learns-defaults-are-wrong) in August 2019 about whether the default settings for Scikit-learn's implementation of logistic regression are misleading to new users.
-Interperability and interoperability are required to properly evaulate the original research and to strengthen findings.
+Interpretability and interoperability are required to properly evaulate the original research and to strengthen findings.
 
 ## Takes time
 
@@ -145,7 +145,7 @@ This can feel like an additional barrier, although - as discussed in the previou
 
 ## Requires additional skills
 
-As you can tell from the ever growing number of chapters in _The Turing Way_ that working reproducibily requires skills that aren't always taught in training programmes.
+As you can tell from the ever growing number of chapters in _The Turing Way_, working reproducibily requires skills that aren't always taught in training programmes.
 You - or someone in your team - might need to develop expertise in data engineering, research software engineering, technical writing for documentation or project management on GitHub.
 That is a major barrier when the current incentive structures are not aligned with learning these skills (see the barriers on [plead the fifth](#plead-the-fifth), [publication bias towards novel findings](#publication-bias-towards-novel-findings), [held to higher standards than others](#held-to-higher-standards-than-others), and [not considered for promotion](#not-considered-for-promotion)!)
 However, this is the primary barrier that we at _The Turing Way_ are working to dismantle with you.
