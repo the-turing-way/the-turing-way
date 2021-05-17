@@ -3,7 +3,7 @@
 
 ***This guide covers topics related to effective project planning and management.***
 
-Before starting a project data scientists needs to understand what their research questions are, what are the possible outcomes, who are their users and target audience, what resources are available and what possible constraints exist in the project.
+Before starting a project, data scientists need to understand what their research questions are, what are the possible outcomes, who are their users and target audience, what resources are available and what possible constraints exist in the project.
 Project design starts with these crucial questions.
 Then comes the planning.
 The scoping of the project in terms of ethics and usability of their outcome, expected minimum viable product of this project, synergies with other projects, similarities or differences compared to other projects, a measure of success, and the overall impact of this project.
