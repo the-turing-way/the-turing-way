@@ -1,7 +1,7 @@
 (rr-overview)=
 # Overview of Reproducible Research
 
-```{figure} ../../figures/ResearchCycle.jpg
+```{figure} ../figures/ResearchCycle.jpg
 ---
 name: ResearchCycle
 alt: The research process is represented as a perpetual cycle between research ideas, research data planning and desing, data collection, data processing, data study & analysis, data publishing & access, data preservation & data re-use 
