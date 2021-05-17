@@ -40,6 +40,16 @@ To join this community, please read our [contribution guidelines](https://github
 More information about the community and the project is available in the [Community Handbook](./community-handbook/community-handbook).
 We look forward to expanding and building _The Turing Way_ together.
 
+
+```{figure} <./figures/TheTuringWayChapters.jpg>
+---
+name: <TheTuringWayChapters>
+alt: <The Turing Way Guide to reproducible research and it's stucture illustrated to show a set of doors to represent how it's built on chapters and sub chapters of the different areas of the guide>
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
+```
+
+
 Although _The Turing Way_ receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/), the project is designed to be a global collaboration.
 We have contributions from across the UK, and from India, Mexico, Australia, USA, and many European countries.
 Chapters have been written, reviewed and curated by members of research institutes and universities, government departments, and industry.
