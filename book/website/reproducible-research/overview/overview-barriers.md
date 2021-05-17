@@ -44,7 +44,7 @@ alt: A cartoon of a woman holding a folder of files and looking worried. Thought
 An illustration of the "plead the fifth" barrier where our current culture disincentivises acknowledging and correcting mistakes.
 Illustration by The Ludic Group LLP from Kirstie Whitaker's keynote presentation at Scientific Data in 2017.
 Used under a CC-BY 4.0 license.
-https://doi.org/10.6084/m9.figshare.5577340.v1
+DOI: [10.6084/m9.figshare.5577340.v1](https://doi.org/10.6084/m9.figshare.5577340.v1)
 ```
 
 Giving evidence against yourself, particularly if you find mistakes in published material, is difficult and stressful.
@@ -143,7 +143,7 @@ alt: A cartoon of a woman passing a folder of documents back to herself. Speech 
 Although making clear documentation may feel like it is taking a lot of time in the moment, you are helping your and your collaborators remember what you have done so it is easy to reuse the work or make changes in the future.
 Illustration by The Ludic Group LLP from Kirstie Whitaker's keynote presentation at Scientific Data in 2017.
 Used under a CC-BY 4.0 license.
-https://doi.org/10.6084/m9.figshare.5577340.v1
+DOI: [10.6084/m9.figshare.5577340.v1](https://doi.org/10.6084/m9.figshare.5577340.v1)
 ```
 
 However, _The Turing Way_ community advocates that this time is more than made up for by the end of the project.
