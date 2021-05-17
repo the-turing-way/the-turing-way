@@ -18,28 +18,6 @@ They also ease using version control by keeping changes neat and localised.
 - An article on syncing a fork of a repository to keep it up-to-date with the upstream repository can be found [here](https://help.github.com/en/articles/syncing-a-fork).
 - If you wish to do it all in the browser itself, instructions to do so can be found [here](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser).
 
-(rr-vcs-resources-glossary)=
-## Glossary
-
-- **Add:** Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
-- **Branch:** A parallel version of a repository. Although it is contained within the same repository, it allows you to develop it separately and then merge changes back into the 'live' repository or with other branches when appropriate.
-- **Checkout:** Git command to switch to a specific file, branch, or commit. Allows you to activate older versions of files or commits or switch between active branches.
-- **Clone:** Copy of an existing Git repository, normally from some remote location to your local environment. When you clone a repository, you copy its entire history and all it branches.
-- **Commit:** Snapshot of project history. A commit can be made after changes of a single file or a range of files and directories.
-- **Commit message:** A message the user can attach to a commit to explain what it contains.
-- **Git:** Version control system that GitHub is built around. It is a widely-used open-source distributed version control system developed by the author of Linux.
-- **GitHub:** An online hosting and version control service which centres around the version control software Git. It has a great many features to aid collaboration between users.
-- **HEAD:** the latest commit on the branch which is currently checked out
-- **Issues:** Bug tracking system for GitHub. Collaborators can use issues to report bugs, request features, or set milestones for projects. Issues are tracked, reported, and closed by collaborators during the development process. They are a great way of communicating with your team and reporting progress.
-- **Master:** The repository’s main branch. Depending on the workflow, it is the one people work on or the one where the integration happens.
-- **Merge:** The process of combining branches. Changes made on one or more branches are applied to another.
-- **Merge conflict:** Incompatibilities between branches being merged.
-- **Pull request:** Proposed changes to a remote repository. Collaborators without write access can send a pull request to the administrator with the changes they have made to the repo. The administrator can then approve and merge or reject the changes to the main repository. For open-source projects, pull requests can be sent by anyone that has forked a project.
-- **Push:** Sending changes to a remote repo. The remote repository is updated with the changes pushed and now mirrors the local repo.
-- **Repository:** Refers to a project folder that is being tracked by Git and containing project files. Also called 'repo' for short they can be local as well as hosted on GitHub.
-- **SHA:** Unique string of numbers of letters used to identify every commit or node in the repository.
-- **Staged:** Changes that will be included in the next commit.
-
 (rr-vcs-resources-references)=
 ## References
 

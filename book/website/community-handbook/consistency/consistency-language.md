@@ -16,13 +16,19 @@ Correct grammar and consistent tone would help readers of all backgrounds, knowl
 
 Aside from being distracting, incorrect grammar might take away what a piece of text is trying to communicate.
 
-Tools such as [Grammarly](www.grammarly.com), [Ginger Grammar](https://www.gingersoftware.com/grammarcheck), and [Reverso Speller](https://www.reverso.net/spell-checker/english-spelling-grammar/) can help catch grammatical errors present in a piece of text. 
+Tools such as [Grammarly](https://grammarly.com), [Ginger Grammar](https://gingersoftware.com/grammarcheck), and [Reverso Speller](https://reverso.net/spell-checker/english-spelling-grammar/) can help catch grammatical errors present in a piece of text. 
 These tools can be used to assess grammar in new contributions and existing content of _The Turing Way_.
 Furthermore, when raising PRs for new content, invite reviewers to check for grammar as well.
 This could help minimize the number of grammatical errors that make it to the final version of _The Turing Way_.
 
 With respect to tone, ensure that chapters adhere to a formal style of writing and that sentences are easy to digest.
 One rule of thumb to consider is that if a sentence needs to be read more than once to be understood, then it likely needs to be rephrased.
+
+#### Demo
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Prv23kGekVY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 (ch-consistency-language-hr-language)=
 ### Check 2: Ensure chapters use a consistent language

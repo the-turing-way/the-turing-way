@@ -151,6 +151,7 @@ You can watch this short video for more information https://vimeo.com/97150912
 - All your outputs will remain linked to your unique identifier even if you change your name or your institute. This way, you only have to enter the information once.
 - To access or sign up to services that utilise ORCID, for example publisher requirements, funding management portals ([ResearchFish](ResearchFish)), the [CRIS (current research information system)](https://en.wikipedia.org/wiki/Current_research_information_system) system at your institute, like the [Zenodo](https://zenodo.org) repository.
 - You can add your ORCID to your CV/resume so that anyone can have a look at all your research outputs.
+- You can also use your ORCID profile to create a CV using [ROpenSci package rorcid](rorcid: https://github.com/ropensci/rorcid) as described [here](https://discuss.ropensci.org/t/using-rorcid-to-generate-a-website-cv/1806). 
 
 ### How do you get an ORCID?
 You can sign up very quickly here: https://orcid.org/login
@@ -215,9 +216,5 @@ You can use your ORCID ID whenever you’re prompted to do so, give your [truste
 - [Getting Started with your ORCID record](https://support.orcid.org/hc/en-us/articles/360006896894-Getting-started-with-your-ORCID-record)
 - [Making software citeable](https://guide.esciencecenter.nl/citable_software/making_software_citable.html)
 - [OpenAIRE Guide on Person Identifiers](https://www.openaire.eu/how-can-identifiers-improve-the-dissemination-of-your-research-outputs)
-
-## Definitions/glossary
-
-Digital Object Identifiers (DOIs) - an alpha-numeric string which acts as a unique, persistent identifier for a digital object (journal article, data, software and so on).
 
 <!-- ## Bibliography -->

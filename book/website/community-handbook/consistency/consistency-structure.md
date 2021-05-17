@@ -7,7 +7,7 @@ A good structural framework ensures that _The Turing Way's_ content is presented
 (ch-consistency-structure-hr)=
 ## Hard Requirements
 
-The hard checks that deal with _The Turing Way's_ structure include: 
+The hard checks that deal with _The Turing Way's_ structure include:
 
 (ch-consistency-structure-hr-emptyfiles)=
 ### Check 1: Do not add empty files in the `_toc.yml`
@@ -24,16 +24,16 @@ alt: An empty file that was included in the Turing Way's Table of Contents. Read
 Empty files included Turing Way's Table of Contents can still be accessed by readers.
 ```
 
-A general suggestion is to remove references to such files from the ToC and raise an issue in _The Turing Way_ Github [repo](https://github.com/alan-turing-institute/the-turing-way) for content to be written for those files. 
+A general suggestion is to remove references to such files from the ToC and raise an issue in _The Turing Way_ Github [repo](https://github.com/alan-turing-institute/the-turing-way) for content to be written for those files.
 When the content is written, the files can then be added to the ToC.
 
-For example, [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1391) curates a list of empty and incomplete files currently in _The Turing Way_, and 
+For example, [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1391) curates a list of empty and incomplete files currently in _The Turing Way_, and
 [this PR](https://github.com/alan-turing-institute/the-turing-way/pull/1448) writes content for the `Data Licences` subchapter shown in the {ref}`image <empty_toc_file>`.
 
 (ch-consistency-structure-hr-structure)=
 ### Check 2: Ensure chapters follow a consistent structure
 
-_The Turing Way_ is made up of five guides that contain several chapters and subchapters. 
+_The Turing Way_ is made up of five guides that contain several chapters and subchapters.
 However, these chapters do not follow a uniform structure, taking away from the reader's experience.
 
 ```{figure} ../../figures/recommended_chapter_structure.png
@@ -44,13 +44,13 @@ alt: The recommended structure for chapters in The Turing Way. Chapters should h
 Recommended structure for chapters in The Turing Way.
 ```
 
-- **Landing page:** 
+- **Landing page:**
     - The chapter's landing page should include information about any prerequisites required to understand the chapter, a summary of the chapter's content, and an explanation of why the chapter is useful.
-- **Subchapters:** 
+- **Subchapters:**
     - A chapter can contain any number of subchapters or none at all. However, please note the next requirement about the checklist and resources subchapters.
-- **Checklist subchapter:** 
+- **Checklist subchapter:**
     - The checklist subchapter itemizes action points for the reader to take based on the concepts introduced in the chapter.
-- **Resources subchapter:** 
+- **Resources subchapter:**
     - The resources subchapter points the reader to other sources where they can learn more about the concepts discussed in the chapter, as well as related topics to explore.
 
 
@@ -76,6 +76,15 @@ alt: A subchapter in The Turing Way with three table of contents. Two that are g
 ---
 The manually written table of contents is unnecessary as Jupyter Book auto-generates two separate table of contents.
 ```
+#### Demo
+
+<div class="video-content">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zKWrvgCxSB0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+
 (ch-consistency-structure-hr-citing)=
 ### Ensure external sources are properly cited and referenced
 
@@ -85,10 +94,10 @@ When writing new content, ensure that information culled from external sources a
 The {ref}`style guide<ch-style-citing>` demonstrates how to add a new reference to the centralised BibTeX file, and shows how this reference can be included in your writing.
 
 
-(ch-consistency-structure)=
+(ch-consistency-structure-soft-req)=
 ## Soft Requirements
 
-Soft requirements that deal with _The Turing Way's_ structure include: 
+Soft requirements that deal with _The Turing Way's_ structure include:
 
 (ch-consistency-structure-sr-summary)=
 ### Check 1: Ensure each chapter has a good summary in their landing page
@@ -107,4 +116,4 @@ Furthermore, very long content can be intimidating for other readers who may onl
 Therefore, to make  _The Turing Way_ easier to read, long chapters should be appropriately modularised.
 
 When keeping chapters modular, ensure that its subchapters only talk about one aspect of the overall topic.
-For example, if a chapter on Machine Learning was to be written for _The Turing Way_, such a chapter should contain at least three subchapters that each focus Supervised Learning, Unsupervised Learning, and Reinforcement Learning. 
+For example, if a chapter on Machine Learning was to be written for _The Turing Way_, such a chapter should contain at least three subchapters that each focus Supervised Learning, Unsupervised Learning, and Reinforcement Learning.

@@ -1,7 +1,6 @@
 (glossary)=
 # Glossary
 
----
 ## A
 
 ```{glossary}
@@ -14,9 +13,9 @@ Add
 
 Authors
   Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions. All authors are named co-authors on the book as a whole.
-
 ```
 ---
+
 ## B
 
 ```{glossary}
@@ -250,6 +249,12 @@ Mock Test
   Replace a real object with a pretend one to use when running tests.
 ```
 ---
+## N
+
+```{glossary}
+
+```
+---
 ## O
 
 ```{glossary}
@@ -332,6 +337,12 @@ Push
   Sending changes to a remote repo. The remote repository is updated with the changes pushed and now mirrors the local repo.
 ```
 ---
+## Q
+
+```{glossary}
+
+```
+---
 ## R
 
 ```{glossary}
@@ -348,7 +359,7 @@ Recipe
 Regression Test
   Comparing the result of a test before and after the code has been altered. If the output has changed a problem has been introduced somewhere in the program, and an error is thrown.
 
-Replicable   
+Replicable
   A result is replicable when the same analysis performed on different datasets produces qualitatively similar answers.
 
 repo2docker
@@ -357,7 +368,7 @@ repo2docker
 Repository
   *Same as Data or Code Reprository*. A long-lived place on the internet where resources (be they data, software, publications or anything else) can be stored and accessed. This keyword is often shortened to ‘repo’.
 
-Reproducible  
+Reproducible
   A result is reproducible when the same analysis steps performed on the same dataset consistently produces the same answer.
 
 Rendered Output
@@ -490,4 +501,3 @@ YAML
 ```{glossary}
 
 ```
----

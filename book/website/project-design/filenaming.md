@@ -1,3 +1,4 @@
+(pd-filenaming)=
 # Naming files, folders and other things
 
 ## Prerequisites / recommended skill level

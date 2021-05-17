@@ -11,7 +11,7 @@ To make clear what is expected, we ask all members of the community to conform t
 
 * [1 Introduction](#1-introduction)
 * [2 Code of Conduct](#2-code-of-conduct)
-  * [2.1 Expected Behaviour](21-expected-behaviours)
+  * [2.1 Expected Behaviour](#21-expected-behaviour)
   * [2.2 Unacceptable Behaviour](#22-unacceptable-behaviour)
   * [2.3 Consequences of Unacceptable Behaviour](#23-consequences-of-unacceptable-behaviour)
   * [2.4 Feedback](#24-feedback)

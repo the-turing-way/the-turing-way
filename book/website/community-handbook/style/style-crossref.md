@@ -55,7 +55,7 @@ For example, in the guide `Reproducible Research`, we have a chapter called `Ove
 We have created a label for that chapter called `rr-overview` by adding the label on the top of the header by using the following directive
 
 ```
-(rr-overview=)
+(rr-overview)=
 # Overview
 ```
 

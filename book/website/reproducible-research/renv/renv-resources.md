@@ -12,26 +12,6 @@ Note that the chapter on {ref}`rr-vcs` is a prerequisite for the chapter on cont
 
 The [Docker documentation](https://docs.docker.com/get-started/) contains a lot of information about containers in general.
 
-(rr-renv-resources-glossary)=
-## Glossary
-
-**Binder:** A web-based service which allows users to upload and share fully-functioning versions of their projects in an environment they define.
-
-**Computational Environment:** Features of a computer which can impact the behaviour of work done on it, such as its operating system, what software it has installed, and what versions of software packages are installed.
-
-**Conda:** A commonly used package management system.
-
-**Container:** Lightweight files that can encapsulate an entire computational environment including its operating system, customised settings, software and files.
-
-**Dockerfile:** A file used for creating Docker images
-
-**Image:** Files used for generating containers.
-
-**Package Management System:** A tool for installing, managing, and uninstalling software packages, including specific versions.
-
-**Virtual Machine:** A simulated computer that can encapsulate an entire computational environment including its operating system, customised settings, software and files.
-
-**YAML:** A human-readable/writable markup language which used by many projects for configuration files.
 
 (rr-renv-resources-bibliography)=
 ## Bibliography
