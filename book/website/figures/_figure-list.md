@@ -23,8 +23,11 @@
 | eyeball_test_2             | Testing                   | Results tested by seeing if they 'look right'     |
 | eyeball_test_3             | Testing                   | Results tested by seeing if they 'look right'     |
 | eyeball_test_error         | Testing                   | Bug detected by result 'looking wrong'            |
+| first-pull-request         | Style guide               | Two people making a first pull request on GitHub |
 | flipped_taj_mahal          | Version control           | Upside down taj mahal to confuse people           |
+| help-you-of-the-future     | Reproducible research overview | A woman passing documentation to another version of herself |
 | master_branch              | Version control           | Illustrates commits on master branch              |
+| make-ok-to-be-human        | Reproducible research overview | A woman looking worried that she has made a mistake |
 | mybinder_gen_link          | Reproducible environments | What the page to generate binder links looks like |
 | one_branch                 | Version control           | Illustrates version control master + one branch   |
 | open_access_citations      | Open research             | Impact of openness on citation count              |
