@@ -26,11 +26,12 @@ The following recommendations will help you to check that you're using the image
 In general, make sure to always cite the image properly as directed by the image owners.
 "Image from the internet" is not enough.
 
-## Image type, file size and location
+## Image type, file name, size and location
 
 Please upload `.jpg` or `.png` files that are under 1MB to allow them to load faster in the online book.
 If your file is larger than 1MB, please use a local image editing tools, or online tool like [IMG2GO](https://www.img2go.com/compress-image) to compress your file.
 
+To name your image file, please use all-lowercase and separate words with hyphens.
 Every image file used in this book should be located in the file `_figure-list.md` in the directory `book/website/figures` of our [GitHub Repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/website/figures).
 If you use a new image file, please add the file in the `figures` directory, and add details in the `_figure-list.md`.
 
@@ -64,7 +65,7 @@ This figure can be referred in other files using the {ref} role like:
 {ref}`file-collection`
 ```
 
-Please note that width of 500px works very well with _The Turing Way_ book, but this is only a suggestion.
+Please note that a height of 500px works very well with _The Turing Way_ book, but this is only a suggestion.
 
 ## Alternative text
 
@@ -127,7 +128,7 @@ For example, a caption might say:
 > Used under a CC-BY 4.0 licence.
 > DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 
-The syntax for this image is as follows, and the way it appears in the book is below the code extract.
+The syntax for this image is as follows, and the way it appears in the book is below the code snippet.
 
 ````
 ```{figure} ../../figures/first-pull-request.png
@@ -155,7 +156,7 @@ Used under a CC-BY 4.0 licence.
 DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 ```
 
-Please make sure to ensure that the link to the source is the digital object identifier [{term}`def<Digital Object Identifier>`] not the zenodo record.
+Please make sure that the link to the source is the digital object identifier [{term}`def<Digital Object Identifier>`] not the Zenodo record.
 Also ensure that you have created a link to the source using markdown link formatting: `[text](url)`.
 
 ## Advanced features and "gotchas"
