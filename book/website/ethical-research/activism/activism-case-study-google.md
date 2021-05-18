@@ -11,7 +11,7 @@ Google is one example of a large tech company where workers have spoken up on se
 (er-activism-case-study-google-advocacy)=
 ## Advocacy & Workplace Activism by Google Workers 
 ### Project Maven - 2018
-One example of this is Google workers campaigning against Project Maven, a contract with the US Pentagon to use AI to develop more effective drone guidance.
+One project which faced resistance was Google's Project Maven, a contract with the US Pentagon to use AI to develop more effective drone guidance.
 Google employees across the globe spoke up in internal meetings, signed petitions, made memes, and shared personal statements about why they disagreed with the contract.
 Some employees even resigned.
 Eventually, the leadership at Google agreed not to seek further contracts with the US Pentagon and also agreed to adopt ["Ethical AI Principles"](https://blog.google/technology/ai/ai-principles/) including not using its technology for weapons or surveillance.
