@@ -236,6 +236,7 @@ Researchers and data scientists should, in general ensure that they:
 - [ ] Do I know what laws apply to my work? 
 - [ ] Do I know what policies apply to my work?
 - [ ] Have I read relevant policies on ethical research?
+- [ ] Have I asked the Policy and Governance teams at my organisation or institution for advice or support?
 - [ ] Does my work respect and protect human rights?
 - [ ] Does my work fulfil human rights?
 
