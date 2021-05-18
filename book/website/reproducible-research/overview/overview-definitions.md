@@ -52,6 +52,14 @@ The different dimensions of reproducible research described in the matrix above 
 
 More information on these definitions can be found in "Reproducibility vs. Replicability: A Brief History of a Confused Terminology" by Hans E. Plesser {cite}`Plesser2018Reproducibility`.
 
+```{figure} ../../figures/ReproducibleDefinitionGrid.jpg
+---
+name: ReproducibleDefinitionGrid.jpg
+alt: Grid with the characteristics of reproducible, replicable, robust and generalisable research
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. 
+```
+
 (rr-overview-reproducible)=
 ## Reproducible But Not Open
 

@@ -2083,7 +2083,11 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/58147174?v=4",
       "profile": "https://github.com/EKaroune",
       "contributions": [
-        "content"
+        "content",
+        "bug",
+        "blog",
+        "review",
+        "talk"
       ]
     },
     {
@@ -2511,6 +2515,33 @@
       "profile": "https://github.com/mcnanton",
       "contributions": [
         "bug"
+      ]
+    },
+    {
+      "login": "marianaiv",
+      "name": "Mariana V.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53548707?v=4",
+      "profile": "https://github.com/marianaiv",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "griff-rees",
+      "name": "griff-rees",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60181741?v=4",
+      "profile": "https://github.com/griff-rees",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "JessicaS11",
+      "name": "Jessica",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11756442?v=4",
+      "profile": "https://github.com/JessicaS11",
+      "contributions": [
+        "content"
       ]
     }
   ],
