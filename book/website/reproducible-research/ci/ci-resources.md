@@ -10,10 +10,7 @@ Travis offers many functionalities not described here for automating other proce
 
 A list of example Travis builds and tests for various languages/frameworks is available [here](https://github.com/softwaresaved/build_and_test_examples).
 
-<<<<<<< HEAD
 Travis's official tutorial is [here](https://docs.travis-ci.com/user/tutorial/). A tutorial focused on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), tutorials geared towards Python can be found [here](https://docs.python-guide.org/scenarios/ci/) and [here](https://docs.travis-ci.com/user/languages/python/).
-=======
-Travis's official tutorial is [here](https://docs.travis-ci.com/user/tutorial/). A tutorial focussed on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), tutorials geared towards python can be found [here](https://docs.python-guide.org/scenarios/ci/) and [here](https://docs.travis-ci.com/user/languages/python/).
 
 ## Definitions/glossary
 
@@ -34,7 +31,7 @@ Travis's official tutorial is [here](https://docs.travis-ci.com/user/tutorial/).
 **Action** It is a package you can import and use in your **workflow**. GitHub provides an **[Actions Marketplace](https://github.com/marketplace?type=actions)** to find actions to use in workflows.
 
 **Job** It is a virtual machine that runs a series of **steps**. **Jobs** are parallelized by default, but **steps** are sequential by default.
->>>>>>> add GHA vocabs to the glossary
+
 
 ## Bibliography
 
