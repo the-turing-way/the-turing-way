@@ -96,7 +96,8 @@ You can choose any of these starter workflows and customise them further.  An ex
 
 #### 2- Using libraries-specific templates.
 
-Github Action template is not the only starter kit available; there are libraries-specific templates for the language of interest. For example,
+
+Github Action template is not the only starter kit available; there are libraries-specific templates for the language of interest. For example, you can  use `usethis` package in R to create a template for R packages by running `usethis::use_github_action_check_standard()`. In the next section, we will explain building blocks for the workflow which uses YAML syntax.
 
 
 <!-- (I'll explain each vocab separately using diagrams made with adobe illustrator) -->
