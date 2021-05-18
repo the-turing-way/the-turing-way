@@ -1,7 +1,7 @@
 (rr-ci-ghactions)=
 # Continuous Integration with GitHub Actions
 
-In this section, we walk you through the basic setup of continuous integration (CI) using GitHub Actions. **GitHub Actions** is a task automation system fully integrated with GitHub. In other words, it is an API that orchestrates any workflow based on any event and it also makes it easier than ever to incorporate CI into your repositories. It is a flexible way to automate nearly every aspect of your project workflow. Here are just a few examples of use cases of GitHub Actions:
+In this section, we walk you through the basic setup of continuous integration (CI) using GitHub Actions. **GitHub Actions** is a task automation system fully integrated with GitHub. In other words, it is an API that orchestrates any workflow based on any event. Therefore, it makes it easier than ever to incorporate CI into your repositories. It is a flexible way to automate nearly every aspect of your project workflow. Here are just a few examples of use cases of GitHub Actions:
 
 - Automated testing of the software
 - Generate reports of the status of any changes in the repository
@@ -19,6 +19,7 @@ name: Github actions
 alt: a diagrame showing how events can trigger a job, and a collection of jobs called a workflow.
 ---
 ```
+
 
 ## Getting started with GitHub Action
 
@@ -45,6 +46,7 @@ Github Action template is not the only starter kit available, there are librarie
 
 
 <!-- (I'll explain each vocab separately using diagrams made with adobe illustrator) -->
+
 ## GitHub-related Vocabulary
 ============================
 
@@ -60,7 +62,7 @@ alt: a diagrame showing how the workflow is divided into jobs and steps.
 
 **1. WorkFlow**
 
-The workflow is is a unit of automation from start to finish. It consisits of all the aspects which should be taken into account during the atomation including what event can be trigger the automation. The workflow can be used to build, test, package, release, or deploy a project on GitHub.
+The workflow is is a unit of automation from start to finish. It consists of all the aspects which should be taken into account during the automation including what event can be trigger the automation. The workflow can be used to build, test, package, release, or deploy a project on GitHub.
 
 **2. Job**
 
@@ -72,4 +74,29 @@ Step: A step represents one effect of the automation. A step could be defined as
 
 **4. Actions**
 
-A GitHub Action is a piece of automation written in a way that is compatible with workflows. Actions can be written by GitHub, by the open source community, or you can write them yourself!
+A GitHub Action is a piece of automation written in a way that is compatible with workflows. Actions can be written by [GitHub](https://github.com/actions), by the open source [community](https://github.com/sdras/awesome-actions), or you can write them yourself!
+
+## Getting started with GitHub Action
+
+GitHub Actions uses YAML syntax and stored in a directory called `.github/workflows` in the repository. You can either use a templated workflow or create your own.
+
+#### 1- Using GitHub Actions template
+
+If you want to get started with GitHub Actions, you can start by clicking the "Actions" tab in the repository where you want to create a workflow, as shown below. Under the "Actions" tab, you will find popular CI worksflows, or othersto help in deployment or automation of some tasks in the repository.
+
+```{figure} ../../figures/gifs/start_ghactions.gif
+---
+width: 600px
+align: center
+name: GitHub action template
+alt: A gif showing where you can find GitHub Actions template in your Github repo.
+---
+```
+You can chose any of these starter workflows and customise it further.  An explantions for vocabs used within the workflow is described in later section.
+
+
+#### 2- Using libraries-specific templates.
+
+Github Action template is not the only starter kit available, there are libraries-specific templates for the languageof interest. For ecample,
+
+<!-- (I'll explain each vocab separately using diagrams made with adobe illustrator) -->
