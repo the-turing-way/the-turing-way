@@ -202,8 +202,6 @@
       file: reproducible-research/make/make-appendix
   - title: Research Compendia
     file: reproducible-research/compendia
-  - title: Credit for Reproducible Research
-    file: reproducible-research/credit
   - title: Risk Assessment
     file: reproducible-research/risk-assess
     sections:
@@ -244,15 +242,26 @@
 
 - file: communication/communication
   sections:
-  - title: Community Communications for Open Source Projects
-    file: communication/os-comms
-    sections:
-    - title: Issue Tracking
-      file: communication/os-comms/os-comms-issue-tracking
-    - title: Communication Channels
-      file: communication/os-comms/os-comms-channels
-    - title: Further Reading
-      file: communication/os-comms/os-comms-resources
+    - title: Credit for Reproducible Research
+      file: communication/credit
+      sections:
+        - title: Making Research Object Citable
+          file: communication/credit/credit-prepare
+        - title: Citing Research Objects
+          file: communication/credit/credit-cite
+        - title: ORCID to Recognise Researchers
+          file: communication/credit/credit-orcid
+        - title: Checklist and Recommendations
+          file: communication/credit/credit-checklist
+    - title: Community Communications for Open Source Projects
+      file: communication/os-comms
+      sections:
+      - title: Issue Tracking
+        file: communication/os-comms/os-comms-issue-tracking
+      - title: Communication Channels
+        file: communication/os-comms/os-comms-channels
+      - title: Further Reading
+        file: communication/os-comms/os-comms-resources
 
 # ===== Collaboration Guide ========================================
 
