@@ -81,7 +81,7 @@ GitHub Actions uses YAML syntax and stored in a directory called `.github/workfl
 
 #### 1- Using GitHub Actions template
 
-If you want to get started with GitHub Actions, you can start by clicking the "Actions" tab in the repository where you want to create a workflow, as shown below. Under the "Actions" tab, you will find popular CI worksflows, or othersto help in deployment or automation of some tasks in the repository.
+If you want to get started with GitHub Actions, you can start by clicking the "Actions" tab in the repository where you want to create a workflow, as shown below. Under the "Actions" tab, you will find popular CI workflows, which can help deploy or automate some tasks in the repository.
 
 ```{figure} ../../figures/gifs/start_ghactions.gif
 ---
@@ -91,11 +91,12 @@ name: GitHub action template
 alt: A gif showing where you can find GitHub Actions template in your Github repo.
 ---
 ```
-You can chose any of these starter workflows and customise it further.  An explantions for vocabs used within the workflow is described in later section.
+You can choose any of these starter workflows and customise them further.  An explanation for building blocks within the workflow is described in a later section.
 
 
 #### 2- Using libraries-specific templates.
 
-Github Action template is not the only starter kit available, there are libraries-specific templates for the languageof interest. For ecample,
+Github Action template is not the only starter kit available; there are libraries-specific templates for the language of interest. For example,
+
 
 <!-- (I'll explain each vocab separately using diagrams made with adobe illustrator) -->
