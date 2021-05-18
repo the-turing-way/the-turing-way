@@ -2552,6 +2552,16 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "alihumayun",
+      "name": "alihumayun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78482064?v=4",
+      "profile": "https://github.com/alihumayun",
+      "contributions": [
+        "bug",
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
