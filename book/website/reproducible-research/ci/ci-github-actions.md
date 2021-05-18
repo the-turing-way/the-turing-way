@@ -50,6 +50,9 @@ Github Action template is not the only starter kit available, there are librarie
 ## GitHub-related Vocabulary
 ============================
 
+**1. WorkFlow**
+
+The workflow is is a unit of automation from start to finish. It consists of all the aspects which should be taken into account during the automation including what event can be trigger the automation. The workflow can be used to build, test, package, release, or deploy a project on GitHub. It is made of multiple jobs which is formed from steps as shown in the image below.
 
 ```{figure} ../../figures/gh_actions_structure.png
 ---
@@ -59,10 +62,6 @@ name: GitHub action Structure
 alt: a diagrame showing how the workflow is divided into jobs and steps.
 ---
 ```
-
-**1. WorkFlow**
-
-The workflow is is a unit of automation from start to finish. It consists of all the aspects which should be taken into account during the automation including what event can be trigger the automation. The workflow can be used to build, test, package, release, or deploy a project on GitHub.
 
 **2. Job**
 
