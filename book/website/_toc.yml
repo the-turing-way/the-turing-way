@@ -59,6 +59,8 @@
       file: reproducible-research/vcs/vcs-git-branches
     - title: Merging Branches in Git
       file: reproducible-research/vcs/vcs-git-merge
+    - title: Interactive, Visual Git
+      file: reproducible-research/vcs/vcs-git-interactive
     - title: Git Commands to Work on GitHub
       file: reproducible-research/vcs/vcs-github
     - title: Summary Table of Git Commands
