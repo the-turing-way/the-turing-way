@@ -1,3 +1,4 @@
+(er-activism-case-study-google)=
 # Case study: Google Workers & Project Maven
 
 Tech workers have historically had low levels of unionisation for a variety of different reasons. 
@@ -7,6 +8,7 @@ However, more and more people who work in the industry are speaking up and deman
 
 Google is one example of a large tech company where workers have spoken up on several different issues including internal company policy and external contracts. 
 
+(er-activism-case-study-google-advocacy)=
 ## Advocacy & Workplace Activism by Google Workers 
 ### Project Maven - 2018
 One example of this is Google workers campaigning against Project Maven, a contract with the US Pentagon to use AI to develop more effective drone guidance.
@@ -33,6 +35,7 @@ The company insisted that the contracts were in line with its AI Principles.
 
 [Source, CNBC, accessed 18 May 2021](https://www.cnbc.com/2020/06/22/google-employees-petition-company-to-cancel-police-contracts.html)
 
+(er-activism-case-study-google-union)=
 ## Alphabet Worker's Union
 
 The work that went into speaking out against different issues at Google has now transformed into a new union, specifically for people employed at Google or one of the other companies owned by Alphabet.
