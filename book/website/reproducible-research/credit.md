@@ -152,7 +152,7 @@ Zenodo should automatically be notified and should make a snapshot copy of the c
 ```{figure} ../figures/OrcidIDs.jpg
 ---
 name: OrcidIDs
-alt: This image shows a female researcher in the centre with her arms raised. She is surrounded in an orbit by different types of documents. On the top left there is a caption stating 'ORCID IDS', while on the bottom right there is text that says: 'One ring to rule all outputs'.
+alt: This image shows a female researcher in the centre with her arms raised. She is surrounded in an orbit by different types of documents. On the top left, there is a caption stating 'ORCID IDS', while on the bottom right there is the text that says - 'One ring to rule all outputs'.
 ---
 _The Turing Way_ project illustration by Scriberia.
 Used under a CC-BY 4.0 licence.
