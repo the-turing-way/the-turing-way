@@ -36,7 +36,7 @@ If you use a new image file, please add the file in the `figures` directory, and
 
 ## MyST syntax to add a figure to a _Turing Way_ chapter
 
-All our chapters are written in markdown files.
+All our chapters are written in Markdown files.
 Therefore, using Markdown syntax to include a figure in a Markdown file will work fine, for example, `![](../../figures/file-collection.jpg)`, where the relative path of the image file is provided inside the round brackets '()'.
 
 **However**, this formatting does not allow images to be responsive to screen sizes, making them inaccessible to read on small screens and smartphones.
