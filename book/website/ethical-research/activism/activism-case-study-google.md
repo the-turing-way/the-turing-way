@@ -1,9 +1,10 @@
 (er-activism-case-study-google)=
 # Case study: Google Workers & Project Maven
 
-Tech workers have historically had low levels of unionisation for a variety of different reasons. 
-Some have also been ambivalent about the potential impact of the companies and products they work for on systemic inequality and injustice across the globe.
+Tech workers have historically had low levels of unionisation for a variety of different reasons, including comparatively high pay and status, roles that are often short-term, and a concentration in countries where union levels are low overall (for example, the US).  
 
+Workers in tech are also sometimes ambivalent about their employer's products and services. 
+This is because the products and services are developed with limited consideration of their impacts on systemic inequalities and injustices.
 However, more and more people who work in the industry are speaking up and demanding that companies and organisations consider the ethics and impact of the work they do and who they do that work with. 
 
 Google is one example of a large tech company where workers have spoken up on several different issues including internal company policy and external contracts. 
@@ -11,8 +12,8 @@ Google is one example of a large tech company where workers have spoken up on se
 (er-activism-case-study-google-advocacy)=
 ## Advocacy & Workplace Activism by Google Workers 
 ### Project Maven - 2018
-One project which faced resistance was Google's Project Maven, a contract with the US Pentagon to use AI to develop more effective drone guidance.
-Google employees across the globe who opposed this project  spoke up in internal meetings, signed petitions, made memes, and shared personal statements about why they disagreed with the contract.
+One project which faced resistance via workplace activism was Google's Project Maven, a contract with the US Pentagon to use AI to develop more effective drone guidance.
+Google employees across the globe spoke up in internal meetings, signed petitions, made memes, and shared personal statements about why they disagreed with the contract.
 Some employees even resigned.
 Eventually, the leadership at Google agreed not to seek further contracts with the US Pentagon and also agreed to adopt ["Ethical AI Principles"](https://blog.google/technology/ai/ai-principles/) including not using its technology for weapons or surveillance.
 [Source, accessed 8 December 2020](https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers)
@@ -25,7 +26,7 @@ In response to allegations of million dollar exit packages for executives accuse
 * An employee representative on the company board
 * A chief diversity officer who could speak directly to the board
 
-Google agreed to end the use of private arbitration in sexual harassment cases. 
+Google agreed to end the use of private arbitration in sexual harassment cases, but did not agree to the rest of the demands. 
 
 [Source, NYT, accessed 18 May 2021](https://www.nytimes.com/2018/11/01/technology/google-walkout-sexual-harassment.html)
 
@@ -50,4 +51,4 @@ The Alphabet Union is supported by a larger union, [Communications Workers of Am
 
 * [Alphabet Worker's Union](https://alphabetworkersunion.org/)
 * [Communication Worker's Union - a UK-based union with a dedicated tech branch](https://cwu.org) 
-* 
+* [Miller C and Coldicutt R, ‘People, Power and Technology: The Tech Workers’ View’ (doteveryone 2019)](https://doteveryone.org.uk/report/workersview/)
