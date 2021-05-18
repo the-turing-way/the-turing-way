@@ -110,7 +110,7 @@ You can find examples of these statements in the publishers' (research data) aut
 ```{figure} ../figures/DOI.jpg
 ---
 name: DOI
-alt: This image shows three boxes with materials on top. The main box in the middle has "identifiers" written on it with three discs on top of it that are labelled "data sets". Both boxes by its side have journal articles on top of the. An arrow on the top of the image points to these images as being 'Digital Object Identifiers'. There is text at the bottom of the image which says 'Persistent', 'Unique', 'Trusted'.
+alt: This image shows three boxes with materials on top. The main box in the middle has 'identifiers' written on it with three discs on top of it that are labelled 'data sets'. Both boxes by their side have journal articles on top of them. An arrow on the top of the image points to these images as being 'Digital Object Identifiers'. There is text at the bottom of the image which says 'Persistent', 'Unique', 'Trusted'.
 ---
 _The Turing Way_ project illustration by Scriberia.
 Used under a CC-BY 4.0 licence.
