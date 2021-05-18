@@ -40,6 +40,7 @@ Name / Institute or affiliation / **What specific aspect of GitHub do you find c
 * Malvika / The Alan Turing Institite / Testing this PR
 * Lotty / The Alan Turing Institute / PR review
 * Ali / University College London / Understanding a new platform
+* Mariana Vivas / Central University of Venezuela / 
 
 🗣️ Welcome!
 
