@@ -1,5 +1,5 @@
 (rr-credit)=
-# Credit for reproducible research
+# Making Research Objects Citable
 
 ## Prerequisites / recommended skill level
 

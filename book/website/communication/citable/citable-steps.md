@@ -1,5 +1,5 @@
 (rr-credit-make)=
-# Making Research Object Citable
+# Steps for Making Research Objects Citable
 
 There are many reasons why authors don't cite the data and software that they use, but one of the biggest ones is that it's not clear how.
 You can go a long way to reducing this barrier by following a few steps to make it as easy as possible.

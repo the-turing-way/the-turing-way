@@ -242,17 +242,17 @@
 
 - file: communication/communication
   sections:
-    - title: Credit for Reproducible Research
-      file: communication/credit
+    - title: Making Research Objects Citable
+      file: communication/citable
       sections:
-        - title: Making Research Object Citable
-          file: communication/credit/credit-prepare
+        - title: Steps for Making Research Objects Citable
+          file: communication/citable/citable-steps
         - title: Citing Research Objects
-          file: communication/credit/credit-cite
+          file: communication/citable/citable-cite
         - title: ORCID to Recognise Researchers
-          file: communication/credit/credit-orcid
+          file: communication/citable/citable-orcid
         - title: Checklist and Recommendations
-          file: communication/credit/credit-checklist
+          file: communication/citable/citable-checklist
     - title: Community Communications for Open Source Projects
       file: communication/os-comms
       sections:

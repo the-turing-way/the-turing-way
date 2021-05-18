@@ -1,5 +1,5 @@
 (rr-credit-checklist)=
-# Checklist
+# Checklist and Recommendations
 
 (rr-credit-checklist-authors)=
 ## For Authors
