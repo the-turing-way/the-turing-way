@@ -130,7 +130,7 @@ For example, a caption might say:
 The syntax for this image is as follows, and the way it appears in the book is below the code extract.
 
 ````
-```{figure} ../figures/first-pull-request.png
+```{figure} ../../figures/first-pull-request.png
 ---
 height: 400px
 name: first-pull-request
@@ -143,7 +143,7 @@ DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 ```
 ````
 
-```{figure} ../figures/first-pull-request.png
+```{figure} ../../figures/first-pull-request.png
 ---
 height: 400px
 name: first-pull-request
