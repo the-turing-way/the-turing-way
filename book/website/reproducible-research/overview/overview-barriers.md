@@ -1,6 +1,6 @@
 # Barriers to reproducibility
 
-So far we have [explained what we mean](overview-definitions) by reproducible research and explained some of the [additional benefits](overview-benefits).
+So far we have explained {ref}`what we mean<rr-overview-definitions>' by reproducible research and explained some of the {ref}`additional benefits<rr-overview-benefits>`.
 
 But there are many barriers to reproducible research.
 
