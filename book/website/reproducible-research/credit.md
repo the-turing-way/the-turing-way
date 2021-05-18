@@ -110,9 +110,11 @@ You can find examples of these statements in the publishers' (research data) aut
 ```{figure} ../figures/DOI.jpg
 ---
 name: DOI
-alt: <IMAGE-DESCRIPTION>
+alt: This image shows three boxes with materials on top. The main box in the middle has "identifiers" written on it with three discs on top of it that are labelled "data sets". Both boxes by its side have journal articles on top of the. An arrow on the top of the image points to these images as being 'Digital Object Identifiers'. There is text at the bottom of the image which says 'Persistent', 'Unique', 'Trusted'.
 ---
-_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. 
+_The Turing Way_ project illustration by Scriberia.
+Used under a CC-BY 4.0 licence.
+DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 ```
 
 **Using the Digital Object Identifier (DOI):**
@@ -150,9 +152,11 @@ Zenodo should automatically be notified and should make a snapshot copy of the c
 ```{figure} ../figures/OrcidIDs.jpg
 ---
 name: OrcidIDs
-alt: <IMAGE-DESCRIPTION>
+alt: This image shows a female researcher in the centre with her arms raised. She is surrounded in an orbit by different types of documents. On the top left there is a caption stating 'ORCID IDS', while on the bottom right there is text that says: 'One ring to rule all outputs'.
 ---
-_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. 
+_The Turing Way_ project illustration by Scriberia.
+Used under a CC-BY 4.0 licence.
+DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807) 
 ```
 ### What is ORCID?
 - ORCID is short for ‘Open Researcher and Contributor ID'.
