@@ -106,6 +106,15 @@ You should cite your dataset directly in the paper in places where it is relevan
 You can find examples of these statements in the publishers' (research data) author policies, or below:
 
 ### Data availability statement examples:
+
+```{figure} ../figures/DOI.jpg
+---
+name: DOI
+alt: <IMAGE-DESCRIPTION>
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. 
+```
+
 **Using the Digital Object Identifier (DOI):**
 “The data that support the findings of this study are openly available in [repository name] at http://doi.org/[doi].”
 
@@ -138,7 +147,13 @@ Zenodo should automatically be notified and should make a snapshot copy of the c
 - Use the DOI in any citations of your software and tell any collaborators and users to do the same!
 
 ## Making sure YOU get cited by using ORCID to increase your visibility
-
+```{figure} ../figures/OrcidIDs.jpg
+---
+name: OrcidIDs
+alt: <IMAGE-DESCRIPTION>
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. 
+```
 ### What is ORCID?
 - ORCID is short for ‘Open Researcher and Contributor ID'.
 - ORCID is a long lasting unique identifier for you as a researcher, comparable to a personal identification number that your government may issue to you.
