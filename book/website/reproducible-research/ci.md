@@ -15,7 +15,7 @@ Continuous integration (CI) is the practice of integrating changes to a project 
 ```{figure} ../figures/ContinuousIntegration-Nov20.jpg
 ---
 name: ContinuousIntegration-Nov20
-alt: An illustration on how continuous integration works with multiple jobs and actions working alonside eachother to then feed into an illustration of steps to show merging into the main version.
+alt: An illustration on how continuous integration works with multiple jobs and actions working alonside each other to then feed into an illustration of steps to show merging into the main version.
 ---
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. 
 ```
