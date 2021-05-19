@@ -11,6 +11,12 @@ The first step is to ensure that you have something worth citing.
 Practising open research isn't essential to get credit for your data or software, but it makes it much easier for others to build on your work in a way that acknowledges your contribution.
 There is a growing body of evidence that shows open research tends to be cited more than non-open research of equivalent quality and significance.
 
+As part of the citation for your research objects, it is important to publish research objects beyond papers, such as images, data, software, protocols, methods ang workflow associated with your research.
+
+The best way to get started with this will be to look up some examples of what kind of research objects are or should be cited.
+Finding commonly referenced research objects in your discipline serves two purposes:
+1. It demonstrates that software & data are things that can be cited;
+2. It gives authors a reference and format that they can copy and paste directly into their document.
 <!-- TODO: Cite relevant paper for this (Piwowar et al 2013?) -->
 
 ```{note}
@@ -21,13 +27,7 @@ You can learn more about the different types of research objects in the chapters
 ## 2. Publish your work online
 
 Online publications are attached to persistent identifiers that are used for citing them.
-It's important to note that not everything published online gets a unique identifier but it is important that research objects are published online with DOIs.
-As part of the citation for your research objects, it is important to give people a persistent link that is uniquely attached to a digital object not just for the paper, but images, data and software associated with the paper or your research.
-
-The best way to get started with this will be to look up some examples of what kind of research objects are or should be cited.
-Finding commonly referenced research objects in your discipline serves two purposes:
-1. It demonstrates that software & data are things that can be cited;
-2. It gives authors a reference and format that they can copy and paste directly into their document.
+It's important to note that not everything published online gets a unique identifier but it is important that research objects are published online with DOIs as described below.
 
 (rr-credit-make-doi)=
 ### DOIs
