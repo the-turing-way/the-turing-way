@@ -33,6 +33,7 @@ If you are not sure, start by contacting a legal advisor in the place that you a
 
 ## Checklist
 [ ] Do I know who I should ask if I need legal advice or expertise?
+[ ] Do I know what legal advice I should seek?
 
 ## What to learn next
 If you are interested in the ways that law, policy and ethics interact: [forthcoming chapter in the Guide to Ethical Research]
