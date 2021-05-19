@@ -42,7 +42,7 @@ We describe, how you can {ref}`prepare your research object to be citable<rr-cre
 ## Contribute to this Chapter
 
 We invite you to contribute to this chapter by completing the following aspects:
-- Demonstrate impact with various metrics described in this chapter*
+- Demonstrate impact with various metrics described in this chapter
 - Add examples for DOIs from data journals
 - Add information about [citing JSON](http://citebay.com/how-to-cite/json/)
 - How to cite deprecated practices or legacy versions such as citing an early paper or a software manual
