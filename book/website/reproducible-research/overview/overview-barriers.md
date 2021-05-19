@@ -1,6 +1,7 @@
+(rr-overview-barriers)=
 # Barriers to reproducibility
 
-So far we have [explained what we mean](overview-definitions) by reproducible research and explained some of the [additional benefits](overview-benefits).
+So far we have explained {ref}`what we mean<rr-overview-definitions>' by reproducible research and explained some of the {ref}`additional benefits<rr-overview-benefits>`.
 
 But there are many barriers to reproducible research.
 
@@ -17,17 +18,18 @@ alt: Slide from the presentation showing the different barriers to reproducibili
 A slide outlining some of the barriers to reproducible research.
 ```
 
-This chapter outlines some of those barriers, and a couple of suggestions to get around them.
-The barriers fall into three main groups.
-The first, and hardest to overcome are those relating to the current incentive structure in academic research: [Limited incentives to give evidence against yourself](#limited-incentives-to-give-evidence-against-yourself) (or "Plead the fifth"), the known [publication bias towards novel findings](#publication-bias-towards-novel-findings), the fact that reproducible or open research may be [held to higher standards than others](#held-to-higher-standards-than-others), and that all this effort is [not considered for promotion](#not-considered-for-promotion).
+This chapter outlines some of those barriers, and a few suggestions to get around them.
+The barriers to reproducible research can be described in three main groups.
+The first, and hardest to overcome are those relating to the current incentive structure in academic research: ref`Limited incentives to give evidence against yourself<rr-overview-barriers-incentives>` (or "Plead the fifth"), the known {ref}`publication bias towards novel findings<rr-overview-barriers-publication>`, the fact that reproducible or open research may be {ref}`held to higher standards than others<rr-overview-barriers-standards>`, and that all this effort is {ref}`not considered for promotion<rr-overview-barriers-promotion>`.
 Then there are the technical and theoretical challenges of working with [big data and complex computational infrastructure](#big-data-and-complex-computational-infrastructure) and remembering that [being reproducible does not mean the answer is right](#being-reproducible-does-not-mean-the-answer-is-right).
 We finish with three barriers considering the pressures on individual data scientists: that this work can be perceived to [take extra time](#takes-time), that you may be required to [support additional users](#support-additional-users) (spoiler: you aren't!), and that you and members of your team might [require additional skills](#requires-additional-skills).
 The good news is that helping you learn those skills is exactly what _The Turing Way_ is here for!
 
+(rr-overview-barriers-incentives)=
 ## Limited incentives to give evidence against yourself
 
 The [Fifth Amendment](https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution) to the United States Constitution includes a clause that no one "shall be compelled in any criminal case to be a witness against [them]sel[ves]".
-(Edited to gender neutral language.)
+(Edited to gender-neutral language.)
 To "plead the fifth" means that someone chooses not to give evidence that there might have been something wrong in their past behaviour.
 They have the right to remain silent.
 
@@ -37,7 +39,7 @@ Although there is no _law_ governing the communication of reproducible research 
 
 ```{figure} ../../figures/make-ok-to-be-human.jpg
 ---
-width: 500px
+height: 500px
 name: make-ok-to-be-human
 alt: A cartoon of a woman holding a folder of files and looking worried. Thought bubble says, If I share my data people might find mistakes. The caption on the images reads Need to make it ok to be human.
 ---
@@ -56,6 +58,7 @@ Most importantly, we need to move away from a culture where publishing nothing i
 _The Turing Way_ is here to help you take little steps towards being more reproducible as your career progresses.
 We don't want anyone to feel alone, or "not good enough" as they start and continue their open research journey.
 
+(rr-overview-barriers-publication)=
 ## Publication bias towards novel findings
 
 Novel results are not necessarily accurate or interesting but they are rewarded in the academic world!
@@ -73,6 +76,7 @@ This barrier is not specific to computational reproducibility as we define it in
 However, it is a major cultural barrier to [transparent communication](https://the-turing-way.netlify.app/communication/communication), and affects [project design](https://the-turing-way.netlify.app/project-design/project-design.html).
 _The Turing Way_ community are advocating in all the places we are able, for the systemic culture change that is required to dismantle the current publication and academic credit biases towards novelty over rigour.
 
+(rr-overview-barriers-standards)=
 ## Held to higher standards than others
 
 A researcher who makes their work reproducible by sharing their code and data may be held to a higher standard than other researchers.
@@ -84,17 +88,19 @@ There is a risk that they then require additional changes from the authors of th
 
 As we described in the [Plead the Fifth](#plead-the-fifth) section above, the solution to this challenge is to align career incentives so that doing what is best for _science_ also benefits the individuals involved.
 
+(rr-overview-barriers-promotion)=
 ## Not considered for promotion
 
 In the current academic system, a primary consideration for promotion is the proven ability to be awarded grants and recruit students.
 Both funding bodies and prospective students value novelty and this behaviour is reflected in preferentially rewarding papers with a high [journal impact factor](https://en.wikipedia.org/wiki/Impact_factor).
 It is likely part of the human condition to be motivated by things that are new or surprising, but as [discussed above](#publication-bias), this bias towards novelty causes a systematic publication bias.
 
-More broadly, the promotion system in academia tends to reward individuals who have shown themselves to be different than others in their field.
+More broadly, the promotion system in academia tends to reward individuals who have shown themselves to be different from others in their field.
 That means sharing code and data to make it easy for "competitors" to do the same work ends up being discouraged by promotion and funding selection panels.
 A good example of this bias is the Nobel Prize award which only goes to a small number of researchers each year, and as such ["overlooks many of its important contributors"](https://www.theatlantic.com/science/archive/2017/10/the-absurdity-of-the-nobel-prizes-in-science/541863/) (Ed Yong, The Atlantic, 2017).
 One of the goals of _The Turing Way_ is to draw attention to the misalignment of the tenure and promotion process with collaborative and reproducible data science.
 
+(rr-overview-barriers-infrastructure)=
 ## Big data and complex computational infrastructure
 
 Big data is conceptualised in different ways by different researchers.
@@ -112,8 +118,9 @@ The [Apache Hadoop](https://hadoop.apache.org/) framework, for instance, is extr
 
 Even "standard" high performance computing, can be difficult to set up to be perfectly reproducible, particularly across different cloud computing providers or institutional configurations.
 _The Turing Way_ contains chapters to help data scientists learn skills in [reproducible computational environments](../../renv) including [containers](../../revn/renv-containers) such as docker and ways to [version control your software libraries](../../renv/renv-package).
-We are always [open to more contributions](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) as the technology to support reproducible reserach in very large datasets or for complex modelling evolves.
+We are always [open to more contributions](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) as the technology to support reproducible research in very large datasets or for complex modelling evolves.
 
+(rr-overview-barriers-not-mean-right)=
 ## Being reproducible does not mean the answer is right
 
 By making the code and data used to produce a result openly available to others, our results may be **reproduced** but mistakes made by the initial author can be carried through.
@@ -123,15 +130,16 @@ This barrier isn't really a _barrier_ to reproducible research as much as a cave
 You can consider computational reproducibility as being necessary but not sufficient for high quality research.
 A critical approach is needed, rather than naively using existing software or implementing statistical methods without understanding what they do.
 See, for example, [a discussion](https://ryxcommar.com/2019/08/30/scikit-learns-defaults-are-wrong) in August 2019 about whether the default settings for Scikit-learn's implementation of logistic regression are misleading to new users.
-Interpretability and interoperability are required to properly evaulate the original research and to strengthen findings.
+Interpretability and interoperability are required to properly evaluate the original research and to strengthen findings.
 
+(rr-overview-barriers-takes-time)=
 ## Takes time
 
 Making an analysis reproducible takes time and effort, particularly at the start of the project.
 This may include agreeing upon a [testing framework](../../testing/testing), setting up [version control](../../version_control) such as a Github repository and [continuous integration](../../continuous_integration/continuous_integration), and [managing data](../../rdm/rdm.html).
 Throughout the project, time may be required to maintain the reproducible pipeline.
 
-Time may also be spent communicating with collaborators to agree which parts of the project may be open source and when and how these outputs are shared.
+Time may also be spent communicating with collaborators to agree on which parts of the project may be open source and when and how these outputs are shared.
 Researchers may find that they need to "upskill" their colleagues to allow the team to benefit from reproducibility tools such as git and GitHub, containers, Jupyter notebooks, or databases.
 
 ```{figure} ../../figures/help-you-of-the-future.jpg
@@ -140,7 +148,7 @@ width: 500px
 name: help-you-of-the-future
 alt: A cartoon of a woman passing a folder of documents back to herself. Speech bubble says You're mainly keeping records for you in the future.
 ---
-Although making clear documentation may feel like it is taking a lot of time in the moment, you are helping your and your collaborators remember what you have done so it is easy to reuse the work or make changes in the future.
+Although making clear documentation may feel like it is taking a lot of time at the moment, you are helping your and your collaborators remember what you have done so it is easy to reuse the work or make changes in the future.
 Illustration by The Ludic Group LLP from Kirstie Whitaker's keynote presentation at Scientific Data in 2017.
 Used under a CC-BY 4.0 license.
 DOI: [10.6084/m9.figshare.5577340.v1](https://doi.org/10.6084/m9.figshare.5577340.v1)
@@ -148,12 +156,13 @@ DOI: [10.6084/m9.figshare.5577340.v1](https://doi.org/10.6084/m9.figshare.557734
 
 However, _The Turing Way_ community advocates that this time is more than made up for by the end of the project.
 Take as a thought experiment a reviewer asking for "just one more analysis" when the publication has been submitted to a journal.
-In many cases this request will come 6 to 12 months after the research team have worked with the raw data.
-It can be very hard to go back in time to find the one part of the pipline that the reviewer has asked you to change.
-If the work is fully reproducible, including with version controlled data and figure generating code, this analysis will be very fast to run and incorporate into the final research output.
+In many cases, this request will come 6 to 12 months after the research team have worked with the raw data.
+It can be very hard to go back in time to find the one part of the pipeline that the reviewer has asked you to change.
+If the work is fully reproducible, including version-controlled data and figure generating code, this analysis will be very fast to run and incorporate into the final research output.
 The analysis pipeline can be easily adapted as needed in response to co-author and reviewer requests.
 It can also be easily reused for future research projects.
 
+(rr-overview-barriers-support)=
 ## Support additional users
 
 Many people worry that by making their analysis reproducible they will be required to answer lots of questions from future users of their code.
@@ -164,13 +173,14 @@ This barrier is based in part on conflating "reproducible" with "open" research.
 The _Turing Way_ [definition of "reproducible"](../definitions) doesn't require authors to support the expansion and re-use of the data and code beyond running the exact analyses that generate the published results in the accompanying manuscript.
 
 In almost all cases, making code and data open source requires better documentation than a researcher would write for themselves.
-This can feel like an additional barrier, although - as discussed in the previous section on reproducible research [taking extra time](#takes-time) it is likely that the primary beneficiaries of well commented and tested code with detailed documentation are the research team - particularly the principle investigator of the project - themselves.
+This can feel like an additional barrier, although - as discussed in the previous section on reproducible research [taking extra time](#takes-time) it is likely that the primary beneficiaries of well commented and tested code with detailed documentation are the research team - particularly the principal investigator of the project - themselves.
 
+(rr-overview-barriers-skills)=
 ## Requires additional skills
 
-As you can tell from the ever growing number of chapters in _The Turing Way_, working reproducibily requires skills that aren't always taught in training programmes.
+As you can tell from the ever-growing number of chapters in _The Turing Way_, working reproducibly requires skills that aren't always taught in training programmes.
 You - or someone in your team - might need to develop expertise in data engineering, research software engineering, technical writing for documentation or project management on GitHub.
-That is a major barrier when the current incentive structures are not aligned with learning these skills (see the barriers on [plead the fifth](#plead-the-fifth), [publication bias towards novel findings](#publication-bias-towards-novel-findings), [held to higher standards than others](#held-to-higher-standards-than-others), and [not considered for promotion](#not-considered-for-promotion)!)
+That is a major barrier when the current incentive structures are not aligned with learning these skills (see the barriers on {ref}`plead the fifth<rr-overview-barriers-incentives>`, {ref}`publication bias towards novel findings<rr-overview-barriers-publication>`, <ref>`held to higher standards than others<rr-overview-barriers-standards>`, and {ref}`not considered for a promotion<rr-overview-barriers-promotion>`!)
 However, this is the primary barrier that we at _The Turing Way_ are working to dismantle with you.
 We hope you enjoy learning these skills with us and that you'll help us to improve the book as you do.
 
