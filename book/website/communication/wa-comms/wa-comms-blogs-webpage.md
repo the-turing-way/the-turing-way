@@ -1,4 +1,4 @@
-(cm-wa-comms-blogs-webpage)=
+(cm-wa-comms-blogswp)=
 
 # Building a webpage for a blog
 
@@ -9,6 +9,7 @@ You need to consider:
 * **Budget** - there are plenty of free options for websites but you can pay for certain services such as different themes.
 * **Time** - It does take time to initially build the website and get it into the state that you want. Therefore, consider using the tool that will be least time consuming for you to build and maintain.
 
+(cm-wa-comms-blogswp-simple)=
 ## Simple website construction - non-coding options
 * **Wordpress**
     * Very popular site to use for blogs.
@@ -29,11 +30,11 @@ There are other options out there and you can always pay for someone to build it
 
 And it's always worth making the effort to learn a new skill.
 
-
+(cm-wa-comms-blogswp-adv)=
 ## More advanced website building - some programming skills needed
 * **Github pages** 
     * If you know how to set up a Github repository then this is an open source way to create and maintain a webpage.
     * Free to convert your repository into webpages.
-    * You can select from various free themes using [Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
+    * You can select from various free themes using [Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll).
     * This is a good resource to learn how to make github pages - [Collaborative Github Docs](https://cassgvp.github.io/github-for-collaborative-documentation/docs/tut/4-2-Make-your-Pages-site.html). 
     * This blog uses Github pages - [The Open Archaeobotanist](https://ekaroune.github.io/The-Open-Archaeobotanist/).
