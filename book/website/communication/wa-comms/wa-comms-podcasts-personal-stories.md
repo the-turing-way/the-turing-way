@@ -1,10 +1,16 @@
+(cm-wa-comms-podcasts-personal)=
+
 # Personal stories - Podcasts
 
-We would like to thank **Zoe Ingram** and **Emma Harris** for answering our interview questions about their very successful blog series called Orion Open Science.
+## Zoe Ingram and Emma Harris: Orion Open Science Podcast
 
-The Orion Open Science Podcast is also co-hosted and co-produced by **Dr. Luiza Bengtsson**.
+The ORION Open Science podcast is structured around a series of interviews with interesting guests about a variety of topics related to Open Science. 
+
+It is also co-hosted and co-produced by **Dr. Luiza Bengtsson**.
 
 If you want to find out more information about the podcast then look at their [website](https://www.orion-openscience.eu/publications/training-materials/201902/podcasts) and the [podcast on PodBean](https://orionopenscience.podbean.com/). 
+
+We would like to thank **Zoe Ingram** and **Emma Harris** for answering our interview questions about their very successful and enjoyable blog series.
 
 ## 1. Why did you start your podcast?
 
