@@ -1,5 +1,13 @@
 # Limitations and best practices
 
+```{figure} ../../figures/ContinuousIntegration.jpg
+---
+name: ContinuousIntegration
+alt: Illustration of continuous integration showing the lifecycle of continuous integration to plan, create and incorporate changes and updates to data. 
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. 
+```
+
 ## Table of contents
 
 - [Limitations of CI](#Limitations_of_CI)
