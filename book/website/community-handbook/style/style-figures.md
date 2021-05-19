@@ -86,7 +86,7 @@ alt: Two people happily browsing files in a drawer of documents.
 ---
 _The Turing Way_ project illustration by Scriberia.
 Used under a CC-BY 4.0 licence.
-DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
+DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 ````
 
@@ -99,7 +99,7 @@ alt: Two people happily browsing files in a drawer of documents.
 ---
 _The Turing Way_ project illustration by Scriberia.
 Used under a CC-BY 4.0 licence.
-DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
+DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 When all these components are used correctly, a figure included in a file will be rendered in the online book like in this page:
@@ -112,7 +112,7 @@ alt: Two people happily browsing files in a drawer of documents.
 ---
 _The Turing Way_ project illustration by Scriberia.
 Used under a CC-BY 4.0 licence.
-DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
+DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 ## Caption
@@ -126,7 +126,7 @@ For example, a caption might say:
 > Making your first pull request on GitHub.
 > _The Turing Way_ project illustration by Scriberia.
 > Used under a CC-BY 4.0 licence.
-> DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
+> DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 
 The syntax for this image is as follows, and the way it appears in the book is below the code snippet.
 
@@ -140,7 +140,7 @@ alt: A person helping out another person making their first pull request on GitH
 Making your first pull request on GitHub.
 _The Turing Way_ project illustration by Scriberia.
 Used under a CC-BY 4.0 licence.
-DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
+DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 ````
 
@@ -153,7 +153,7 @@ alt: A person helping out another person making their first pull request on GitH
 Making your first pull request on GitHub.
 _The Turing Way_ project illustration by Scriberia.
 Used under a CC-BY 4.0 licence.
-DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
+DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 Please make sure that the link to the source is the digital object identifier [{term}`def<Digital Object Identifier>`] not the Zenodo record.
