@@ -3,8 +3,8 @@
 # Blogs
 
 A blog is a website that contains informal articles usually with a central theme. 
-This could be an academic theme such as open science or be used to report the progress of a project. 
-A blog post or posts are the articles on the website and they are typically displayed in reverse chronological order, so that the most recent post appears first, at the top of the web page.
+This could be an academic topic such as open science or be used to report the progress of a research project. 
+A blog post or posts are the articles on the website and they are typically displayed in reverse chronological order, so that the most recent post appears first at the top of the web page.
 
 Blogs are short, informal pieces of writing. 
 They are meant to be written regularly and can be used to build momentum on a particular issue, event or project. 
