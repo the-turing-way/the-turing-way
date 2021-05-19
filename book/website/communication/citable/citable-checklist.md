@@ -7,7 +7,7 @@
 - Pick out key datasets and software your conclusions rely on
 - Cite data and software just like you would cite a paper
 - Publish your own data/software and cite that too
-- Get an ORCID ID!
+- Get an [ORCID ID!](https://orcid.org/)
 
 (rr-credit-checklist-data)=
 ## For Data Creators
