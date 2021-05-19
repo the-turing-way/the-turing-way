@@ -255,6 +255,33 @@
       file: communication/os-comms/os-comms-channels
     - title: Further Reading
       file: communication/os-comms/os-comms-resources
+  - title: Communicating with wider audiences
+    file: communication/wa-comms
+    sections:
+    - title: Principles of communicating with wider audiences
+      file: communication/wa-comms/wa-comms-principles
+    - title: Blogs
+      file: communication/wa-comms/wa-comms-blogs
+    - title: Building a webpage for a blog
+      file: communicationwas-comms/wa-comms-blogs-webpage
+    - title: Personal stories - Blogs
+      file: communication/wa-comms/wa-comms-blogs-personal-stories
+    - title: Lay summaries
+      file: communication/wa-comms/wa-comms-lay-summaries
+    - title: Podcasts
+      file: communication/wa-comms/wa-comms-podcasts
+    - title: Personal stories - Podcasts
+      file: communication/wa-comms/wa-comms-podcasts-personal-stories
+    - title: Presenting at conferences outside your discipline
+      file: communication/wa-comms/wa-comms-presenting
+    - title: Social media
+      file: communication/wa-comms/wa-comms-social-media
+    - title: Tips for starting with twitter
+      file: communication/wa-comms/wa-comms-twitter-tips
+    - title: Managing multiple twitter accounts
+      file: communication/wa-comms/wa-comms-twitter-multiple
+    - title: Resources
+      file: communication/wa-comms/wa-comms-resources 
 
 # ===== Collaboration Guide ========================================
 
