@@ -41,7 +41,7 @@ We describe, how you can {ref}`prepare your research object to be citable<rr-cre
 (rr-credit-contribute)=
 ## Contribute to this Chapter
 
-We invite you to contribute to this chapter by completing the following aspects:
+We invite you to contribute to this chapter by writing about one or multiple of the following aspects:
 - Demonstrate impact with various metrics described in this chapter
 - Add examples for DOIs from data journals
 - Add information about [citing JSON](http://citebay.com/how-to-cite/json/)
