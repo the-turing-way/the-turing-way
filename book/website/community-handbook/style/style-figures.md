@@ -2,14 +2,15 @@
 # Using figures in _The Turing Way_
 
 We encourage you to add images to _The Turing Way_ book chapters.
-This section of the style guide will explain how to use [Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/) (MyST) format to add them to the book with appropriate [alt text](#alternative-text) and [captions](#caption).
+This section of the style guide will explain how to use [Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/) (MyST) format to add them to the book with appropriate {ref}`alt text<ch-style-figures-alttext>` and {ref}`captions<ch-style-figures-caption>`.
 
-We are very passionate about ensuring that the creators of the original image files (including you!) are [acknowledged appropriately](#open-licence).
+We are very passionate about ensuring that the creators of the original image files (including you!) are {ref}`acknowledged appropriately<ch-style-figures-licence>`.
 Please do not use images that are not licenced for reuse.
 
 In this sub-chapter we have used the term **figure** to refer to an illustration that conveys information in the context of _The Turing Way_ chapters.
 The term **image** is used to refer to the file object itself.
 
+(ch-style-figures-licence)=
 ## Open licence
 
 Please ensure that you attribute the image files fairly and avoid files that are either restricted from reuse or lack reproduction permissions.
@@ -17,15 +18,16 @@ Please ensure that you attribute the image files fairly and avoid files that are
 The following recommendations will help you to check that you're using the images according to their licence permissions:
 
 * If you are using your own images, please add them to the `figures` folder.
-  They will then be made available under a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ast) license as with the rest of the book.
+  They will then be made available under a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ast) licence as with the rest of the book.
 * Alternatively, you can source images in the public domain ([CC0 licence](https://creativecommons.org/share-your-work/public-domain/cc0)) or images licensed through appropriate Creative Commons terms.
-  Images that are also available under CC-BY 4.0 permissions are very easily interoperable with the _The Turing Way_ as this is the same license as the rest of the content for the book.
+  Images that are also available under CC-BY 4.0 permissions are very easily interoperable with the _The Turing Way_ as this is the same licence as the rest of the content for the book.
 * If an image (for example that you have found on the internet), is not available under an open licence please contact the original author of the image and seek permission to reproduce their image.
   Make sure to ask them **how they would like to be credited** in the caption for the figure.
 
 In general, make sure to always cite the image properly as directed by the image owners.
 "Image from the internet" is not enough.
 
+(ch-style-figures-image)=
 ## Image type, file name, size and location
 
 Please upload `.jpg` or `.png` files that are under 1MB to allow them to load faster in the online book.
@@ -35,6 +37,7 @@ To name your image file, please use all-lowercase and separate words with hyphen
 Every image file used in this book should be located in the file `_figure-list.md` in the directory `book/website/figures` of our [GitHub Repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/website/figures).
 If you use a new image file, please add the file in the `figures` directory, and add details in the `_figure-list.md`.
 
+(ch-style-figures-syntax)=
 ## MyST syntax to add a figure to a _Turing Way_ chapter
 
 All our chapters are written in Markdown files.
@@ -53,7 +56,7 @@ All the components of your figure (figures location, size and name) can be encap
 ````
 ```{figure} ../../figures/file-collection.jpg
 ---
-width: 500px
+height: 500px
 name: file-collection
 ---
 ```
@@ -67,6 +70,7 @@ This figure can be referred in other files using the {ref} role like:
 
 Please note that a height of 500px works very well with _The Turing Way_ book, but this is only a suggestion.
 
+(ch-style-figures-alttext)=
 ## Alternative text
 
 Alternative text or alt text are used for describing the appearance and function of an image on an HTML page.
@@ -115,6 +119,7 @@ Used under a CC-BY 4.0 licence.
 DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
+(ch-style-figures-caption)=
 ## Caption
 
 Captions appear below the figure.
@@ -156,9 +161,10 @@ Used under a CC-BY 4.0 licence.
 DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
-Please make sure that the link to the source is the digital object identifier [{term}`def<Digital Object Identifier>`] not the Zenodo record.
+Please make sure that the link to the source is the {term}`digital object identifier <Digital Object Identifier>` not the Zenodo record.
 Also ensure that you have created a link to the source using markdown link formatting: `[text](url)`.
 
+(ch-style-figures-advanced)=
 ## Advanced features and "gotchas"
 
 For more advanced parameters, please see the [Jupyter Book Documentation](https://jupyterbook.org/content/figures.html).
