@@ -20,7 +20,8 @@ You can learn more about the different types of research objects in the chapters
 (rr-credit-make-publish)=
 ## 2. Publish your work online
 
-Every online publication is attached to a unique identifier that is used for citing them.
+Online publications are attached to persistent identifiers that are used for citing them.
+It's important to note that not everything published online gets a unique identifier but it is important that research objects are published online with DOIs.
 As part of the citation for your research objects, it is important to give people a persistent link that is uniquely attached to a digital object not just for the paper, but images, data and software associated with the paper or your research.
 
 The best way to get started with this will be to look up some examples of what kind of research objects are or should be cited.
