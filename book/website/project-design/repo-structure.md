@@ -4,9 +4,9 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
-| [Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html#rr-vcs) | Helpful | Knowledge of using git for version control |
-| [Open Research](https://the-turing-way.netlify.app/reproducible-research/open.html#rr-open) | Helpful | Components are part of the compendium |
-| [Reproducible Environments](https://the-turing-way.netlify.app/reproducible-research/renv.html#rr-renv) | Helpful | Can be used to make the compendium reproducible |
+| {ref}`Version Control<rr-vcs>` | Helpful | Knowledge of using git for version control |
+| {ref}`Open Research<rr-open>` | Helpful | Components are part of the compendium |
+| {ref}`Reproducible Environments<rr-renv>` | Helpful | Can be used to make the compendium reproducible |
 
 
 
@@ -39,7 +39,7 @@ In this section, the benefits and considerations of designing a repository will 
 - Include a README file, detailing _what_ the repository is for and _how_ to navigate it 
 - General structure should separate input (data), methods (scripts) and output (results, figures, manuscript)
 - Specify what shouldn't be tracked in the .gitignore file, such as data
-- Think about whether a [license](https://the-turing-way.netlify.app/reproducible-research/licensing.html#rr-licensing) is needed  :spiral_note_pad: 
+- Think about whether a {ref}license<rr-licensing>  is needed  
 - Include information on your computational environment _link to text_ to ensure reproducibility (this can also be specified in the README)
 
 ## Example Repository Structure 
