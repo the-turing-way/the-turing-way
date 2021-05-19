@@ -1,4 +1,8 @@
+(cm-wa-comms-blogs-personal-stories)=
+
 # Personal stories - Blogs
+
+## Veronika Cheplygina: writing a successful blog series
 
 We would like to thank Dr Veronika Cheplygina for answering our interview questions about her very successful blog series called ['How I fail'](https://veronikach.com/failure/).
 
