@@ -10,7 +10,7 @@
 
 ## Summary
 
-Many researchers may argue that spending time on applying reproducible research practices will reduce the time they have available for activities by which they received credits that are traditionally measured, such as writing papers.
+Many researchers argue that time spent on reproducible research practices reduces the time they have available for activities that are traditionally linked to academic credit, such as writing papers.
 
 What if you could get credit for your reproducibility efforts as well?
 In this chapter, we will describe how working reproducibly will allow you to get most of your research outputs published in a way that can be cited by others (not just your paper)!
