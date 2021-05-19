@@ -41,4 +41,4 @@ It's been on the back burner a bit last year, so first of all I would like to ge
 
 ## 8. Is there anything else that you want to share?
 
-It's like running, it's better to just start and go regularly, instead of waiting until you have professional shoes, etc.
+It's like running, it's better to just start and go regularly, instead of waiting until you have professional shoes.
