@@ -19,7 +19,7 @@ It enables you to collect and others to find all your research work and related 
 All your research objects with different DOIs will remain linked to your unique identifier even if you change your name or your institute.
 This way, you only have to enter the information once.
 
-You can use ORCID to access or sign up to services that utilise ORCID, for example, publisher requirements, funding management portals ([ResearchFish](ResearchFish)), the [CRIS (current research information system)](https://en.wikipedia.org/wiki/Current_research_information_system) at your institute and data repository like [Zenodo](https://zenodo.org).
+You can use ORCID to access or sign up to services that utilise ORCID, for example, publisher requirements, funding management portals ([ResearchFish](https://researchfish.com/)), the [CRIS (current research information system)](https://en.wikipedia.org/wiki/Current_research_information_system) at your institute and data repository like [Zenodo](https://zenodo.org).
 
 You can use your ORCID to your CV/resume so that anyone can have a look at all your research outputs.
 You can also use your ORCID profile to create a CV using [ROpenSci package rorcid](rorcid: https://github.com/ropensci/rorcid) as described [here](https://discuss.ropensci.org/t/using-rorcid-to-generate-a-website-cv/1806).
