@@ -1,13 +1,13 @@
 (ch-style-guide)=
 # Style Guide
 
-To ensure that the book can be read easily by everyone, including screen readers and non-native english speakers, we have compiled a set of guideline to keep a consistent style across all chapters of the book.
+To ensure that the book can be read easily by everyone, including screen readers and non-native English speakers, we have compiled a set of guidelines to keep a consistent style across all chapters of the book.
 
 We follow the [Gov.uk guidance](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) to improve accessibility of the resources in _The Turing Way_.
 
-## Write each sentences in a new line (line breaks)
+## Write each sentence in a new line (line breaks)
 
-Please write all sentence in the markdown file on separate lines.
+Please write all sentences in the markdown file on separate lines.
 Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph.
 Consider the example below.
 
@@ -64,6 +64,34 @@ Instead of the second abbreviation in the table for *et-cetera* to indicate open
 Instead of third abbreviation in the table for *id est* that is often used to clarify a sentence, try (re)writing sentences to avoid the need to use it.
 If that is not possible, use an alternative such as ‘meaning’ or ‘that is’.
 
-Any chapter containing a Latin abbreviation will fail the continuos integration (CI) workflow of the _The Turing Way_ GitHub repository from passing successfully, which is tested by this [Python script](https://github.com/alan-turing-institute/the-turing-way/blob/master/tests/no-bad-latin.py).
+Any chapter containing a Latin abbreviation will fail the continuous integration (CI) workflow of the _The Turing Way_ GitHub repository from passing successfully, which is tested by this [Python script](https://github.com/alan-turing-institute/the-turing-way/blob/master/tests/no-bad-latin.py).
 
 *To avoid CI from failing, even in this chapter we have avoided to write those abbreviations and instead used an image to illustrate the above examples.*
+
+## Tips
+
+### Indentation
+
+Indent the content following each item of a numbered list. 
+If the content is unindented, the list numbering will be reset.
+
+For instance, please avoid:
+1. First list item
+```
+This content belongs to the first list item.
+```
+2. Second list item
+   
+Instead, the following is recommended:
+1. First list item
+   ```
+   This content belongs to the first list item.
+   ```
+
+2. Second list item
+
+
+### External links
+
+Write external links using "http://" instead of "www". This ensures they are correctly recognised as hyperlinks.
+

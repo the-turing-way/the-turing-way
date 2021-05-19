@@ -1,3 +1,4 @@
+(cl-new-community)=
 # Managing a New Community and Team
 
 As researchers, scientists and 'techies' we look for ways to use our skills to solve pressing, current issues.
@@ -7,7 +8,6 @@ The research communities responded with a sudden surge of hackathons, data model
 
 ```{figure} ../figures/new-community.png
 ---
-height: 500px
 name: new-community
 alt: An illustration of 2 people who are working together and discussing a data chart.
 ---

@@ -19,8 +19,10 @@
     sections:
     - title: Definitions
       file: reproducible-research/overview/overview-definitions
-    - title: Added advantages
+    - title: Added Advantages
       file: reproducible-research/overview/overview-benefit
+    - title: Checklist
+      file: reproducible-research/overview/overview-checklist
     - title: Resources
       file: reproducible-research/overview/overview-resources
   - title: Open Research
@@ -28,7 +30,7 @@
     sections:
     - title: Open Data
       file: reproducible-research/open/open-data
-    - title: Open Source
+    - title: Open Source Software
       file: reproducible-research/open/open-source
     - title: Open Hardware
       file: reproducible-research/open/open-hardware
@@ -38,7 +40,9 @@
       file: reproducible-research/open/open-notebooks
     - title: Open Scholarship
       file: reproducible-research/open/open-scholarship
-    - title: Resources of Open Research
+    - title: Checklist
+      file: reproducible-research/open/open-checklist
+    - title: Resources
       file: reproducible-research/open/open-resources
   - title: Version Control
     file: reproducible-research/vcs
@@ -55,6 +59,8 @@
       file: reproducible-research/vcs/vcs-git-branches
     - title: Merging Branches in Git
       file: reproducible-research/vcs/vcs-git-merge
+    - title: Interactive, Visual Git
+      file: reproducible-research/vcs/vcs-git-interactive
     - title: Git Commands to Work on GitHub
       file: reproducible-research/vcs/vcs-github
     - title: Summary Table of Git Commands
@@ -63,9 +69,9 @@
       file: reproducible-research/vcs/vcs-data
     - title: Personal Stories
       file: reproducible-research/vcs/vcs-personal-stories
-    - title: Checklist for Version Control
+    - title: Checklist
       file: reproducible-research/vcs/vcs-checklist
-    - title: Resources for Version Control
+    - title: Resources
       file: reproducible-research/vcs/vcs-resources
   - title: Licensing
     file: reproducible-research/licensing
@@ -74,15 +80,19 @@
       file: reproducible-research/licensing/licensing-software
     - title: License Compatibililty
       file: reproducible-research/licensing/licensing-compatibility
-    - title: Data licenses
+    - title: Data Licenses
       file: reproducible-research/licensing/licensing-data
     - title: Resources
       file: reproducible-research/licensing/licensing-resources
+    - title: Checklist
+      file: reproducible-research/licensing/licensing-checklist
   - title: Research Data Management
     file: reproducible-research/rdm
     sections:
     - title: Research Data
       file: reproducible-research/rdm/rdm-data
+    - title: Data Management Plan
+      file: reproducible-research/rdm/rdm-dmp
     - title: The FAIR Principles and Practices
       file: reproducible-research/rdm/rdm-fair
     - title: Data Storage and Organisation
@@ -93,6 +103,8 @@
       file: reproducible-research/rdm/rdm-metadata
     - title: Sharing and Archiving Data
       file: reproducible-research/rdm/rdm-sharing
+    - title: Research Data Management Toolkits
+      file: reproducible-research/rdm/rdm-toolkits
     - title: Personal Impact Stories
       file: reproducible-research/rdm/rdm-stories
     - title: Checklist
@@ -102,14 +114,22 @@
   - title: Reproducible Environments
     file: reproducible-research/renv
     sections:
-    - file: reproducible-research/renv/renv-options
-    - file: reproducible-research/renv/renv-package
-    - file: reproducible-research/renv/renv-yaml
-    - file: reproducible-research/renv/renv-binder
-    - file: reproducible-research/renv/renv-vm
-    - file: reproducible-research/renv/renv-containers
-    - file: reproducible-research/renv/renv-checklist
-    - file: reproducible-research/renv/renv-resources
+    - title: Capturing Computational Environments
+      file: reproducible-research/renv/renv-options
+    - title: Package Management Systems
+      file: reproducible-research/renv/renv-package
+    - title: YAML
+      file: reproducible-research/renv/renv-yaml
+    - title: Binder
+      file: reproducible-research/renv/renv-binder
+    - title: Virtual Machines
+      file: reproducible-research/renv/renv-vm
+    - title: Containers
+      file: reproducible-research/renv/renv-containers
+    - title: Checklist
+      file: reproducible-research/renv/renv-checklist
+    - title: Resources
+      file: reproducible-research/renv/renv-resources
   - title: BinderHub
     file: reproducible-research/binderhub
     sections:
@@ -180,10 +200,10 @@
       file: reproducible-research/make/make-results
     - title: Resources for "Make"
       file: reproducible-research/make/make-resources
+    - title: Appendix
+      file: reproducible-research/make/make-appendix
   - title: Research Compendia
     file: reproducible-research/compendia
-  - title: Credit for Reproducible Research
-    file: reproducible-research/credit
   - title: Risk Assessment
     file: reproducible-research/risk-assess
     sections:
@@ -210,24 +230,56 @@
       file: project-design/persona/persona-contributors
   - title: File Naming Convention
     file: project-design/filenaming
+  - title: Code Styling and Linting
+    file: project-design/code-styling
+    sections:
+    - title: Guidelines for Code Styling
+      file: project-design/code-styling/code-styling-guidelines
+    - title: Writing Human Readable Code
+      file: project-design/code-styling/code-styling-readability
+    - title: Code Styling Tools
+      file: project-design/code-styling/code-styling-tools
+
 # ===== Communication Guide ========================================
 
 - file: communication/communication
   sections:
-  - title: Community Communications for Open Source Projects
-    file: communication/os-comms
-    sections:
-    - title: Issue Tracking
-      file: communication/os-comms/os-comms-issue-tracking
-    - title: Communication Channels
-      file: communication/os-comms/os-comms-channels
-    - title: Further Reading
-      file: communication/os-comms/os-comms-resources
+    - title: Making Research Objects Citable
+      file: communication/citable
+      sections:
+        - title: Steps for Making Research Objects Citable
+          file: communication/citable/citable-steps
+        - title: Citing Research Objects
+          file: communication/citable/citable-cite
+        - title: ORCID to Collect your Research Objects
+          file: communication/citable/citable-orcid
+        - title: Checklist and Recommendations
+          file: communication/citable/citable-checklist
+    - title: Community Communications for Open Source Projects
+      file: communication/os-comms
+      sections:
+      - title: Issue Tracking
+        file: communication/os-comms/os-comms-issue-tracking
+      - title: Communication Channels
+        file: communication/os-comms/os-comms-channels
+      - title: Further Reading
+        file: communication/os-comms/os-comms-resources
 
 # ===== Collaboration Guide ========================================
 
 - file: collaboration/collaboration
   sections:
+  - title: Getting Started With GitHub
+    file: collaboration/github-novice
+    sections:
+    - title: Motivation for Using GitHub
+      file: collaboration/github-novice/github-novice-motivation
+    - title: First steps on Github
+      file: collaboration/github-novice/github-novice-firststeps
+    - title: Using more Github features
+      file: collaboration/github-novice/github-novice-features
+    - title: Advanced Github features
+      file: collaboration/github-novice/github-novice-advanced
   - title: Collaborating on GitHub
     file: collaboration/github-collaboration
     sections:
@@ -237,10 +289,21 @@
       file: collaboration/github/github-roadmapping
     - title: Getting Contributors
       file: collaboration/github/github-contributors
-    - title:  Reviweing GitHub Contributions
-      file: collaboration/github/github-maintainers.md
     - title: Checklist and resources
       file: collaboration/github/github-resources
+  - title: Maintainers and Reviewers on GitHub
+    file: collaboration/maintain-review
+    sections:
+    - title: Project Maintenance
+      file: collaboration/maintain-review/maintain-review-maintenance
+    - title: Ownership and Permissions
+      file: collaboration/maintain-review/maintain-review-permissions
+    - title: Reviewing Contributions
+      file: collaboration/maintain-review/maintain-review-review
+    - title: Merging Contributions
+      file: collaboration/maintain-review/maintain-review-merge
+    - title: Resources
+      file: collaboration/maintain-review/maintain-review-resources
   - title: Managing a New Community and Team
     file: collaboration/new-community
     sections:
@@ -255,12 +318,52 @@
     sections:
     - title: Personal Stories of Leadership
       file: collaboration/leadership/leadership-stories
+  - title: Remote Collaboration
+    file: collaboration/remote-collab
+    sections:
+    - title: Organising Remote Meetings
+      file: collaboration/remote-collab/remote-collab-meetings
+    - title: Guidelines for Remote Collaboration
+      file: collaboration/remote-collab/remote-collab-guidelines
+    - title: Tools for Remote Collaboration
+      file: collaboration/remote-collab/remote-collab-tools
+    - title: Organising Online Coworking Calls
+      file: collaboration/remote-collab/remote-collab-coworking
+    - title: Organising Remote Conferences
+      file: collaboration/remote-collab/remote-collab-conferences
+    - title: Chairing Remote Events
+      file: collaboration/remote-collab/remote-collab-chairs
+    - title: Participating in Remote Events
+      file: collaboration/remote-collab/remote-collab-participation
+    - title: Managing Distributed Teams
+      file: collaboration/remote-collab/remote-collab-management
+    - title: Informal Coffee Chats
+      file: collaboration/remote-collab/remote-collab-informal
+    - title: Perceived Pros and Cons
+      file: collaboration/remote-collab/remote-collab-prosandcons
 
 # ===== Ethical Research Guide ========================================
 - file: ethical-research/ethical-research
   sections:
+  - title: Introduction to Research Ethics
+    file: ethical-research/ethics-intro
+  - title: Research Ethics Committees Workflows
+    file: ethical-research/ethics-case-study
   - title: Ethical Decisions in Preclinical Research
     file: ethical-research/preclinical-research
+  - title: Activism for Researchers
+    file: ethical-research/activism
+    sections:
+    - title: Unionisation
+      file: ethical-research/activism/activism-unionisation
+    - title: Whistleblowing
+      file: ethical-research/activism/activism-whistleblowing
+    - title: Case study - Robodebt
+      file: ethical-research/activism/activism-robodebt
+    - title: Case study - Google Workers
+      file: ethical-research/activism/activism-case-study-google.md
+  - title: Internal Policy Advocacy
+    file: ethical-research/activism-internal-policy
 
 # ===== Community Handbook Guide ========================================
 
@@ -286,6 +389,26 @@
       file: community-handbook/style/style-crossref
     - title: Using Figures
       file: community-handbook/style/style-figures
+    - title: Glossary, Special Blocks and More Styling
+      file: community-handbook/style/style-more-styling
+    - title: Custom Styling
+      file: community-handbook/style/style-custom-styling
+  - title: Maintaining Consistency
+    file: community-handbook/consistency
+    sections:
+    - title: Formatting
+      file: community-handbook/consistency/consistency-formatting
+    - title: Structure
+      file: community-handbook/consistency/consistency-structure
+    - title: Language
+      file: community-handbook/consistency/consistency-language
+  - title: Contributing and Developing Chapters - Templates and Workflow
+    file: community-handbook/contributing
+    sections:
+    - title: Templates
+      file: community-handbook/contributing/contributing-templates
+    - title: Workflow
+      file: community-handbook/contributing/contributing-workflow
   - title: Acknowledging Contributors
     file: community-handbook/acknowledgement
     sections:
@@ -344,7 +467,8 @@
 
 # ===== Afterward Section ========================================
 
-- file: afterword/afterword
+- title: Afterword
+  file: afterword/afterword
   sections:
   - title: Glossary
     file: afterword/glossary

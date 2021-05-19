@@ -1,4 +1,4 @@
-(ch-persona)=
+(pd-persona)=
 # Personas & Pathways
 
 A persona is a detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members.

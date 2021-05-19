@@ -1,3 +1,4 @@
+(ch-style-figures)=
 # Using figures in _The Turing Way_
 
 You are welcome to add relevant figures in the book chapters, however, please ensure that you attribute the image files fairly and avoid files that are either restricted from reuse or lack reproduction permissions.
@@ -27,9 +28,9 @@ Therefore, using Markdown syntax to include a figure in a Markdown file will wor
 However, this formatting does not allow images to be responsive to screen sizes, making them inaccessible to read on small screens and smartphones.
 Furthermore, this doesn't allow authors to resize figures in their chapters or cross reference them somewhere else in the book.
 
-Therefore, our recommendation is to use Markedly Structured Tex (MyST) format available in the current version of Jupyterbook.
+Therefore, our recommendation is to use Markedly Structured Tex (MyST) format available in the current version of Jupyter Book.
 
-You can resize figures to adjust how they appear in our chapters using the parameters: `height` (takes value in px, for example, 400px) or `scale` (takes value in percentage, for example, 50%), especially if your original figure is large.
+You can resize figures to adjust how they appear in our chapters using the parameters: `width` and `height` (takes value in px, for example, 400px) or `scale` (takes value in percentage, for example, 50%), especially if your original figure is large.
 Using the parameter: `name`, you can reference figures in other chapters in a similar manner as defined in {ref}`ch-style-crossref`.
 
 All the components of your figure (figures location, size and name) can be encapsulated in section within a markdown file using the following directive:
@@ -37,7 +38,7 @@ All the components of your figure (figures location, size and name) can be encap
 ````
 ```{figure} ../../figures/file-collection.jpg
 ---
-height: 500px
+width: 500px
 name: file-collection
 ---
 ```
@@ -48,6 +49,8 @@ This figure can be referred in other files using the {ref} role like:
 ```
 {ref}`file-collection`
 ```
+
+Please note that width of 500px works very well with _The Turing Way_ book, but this is only a suggestion.
 
 ## Title:
 
@@ -77,10 +80,9 @@ _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. 
 
 Another advantage of using alt text is when an image cannot be loaded in a browser, or the link to the image breaks, it is displayed in place of an figure like shown below:
 
-```{figure} ../figures/file-collection.jpg
+```{figure} ../../figures/alt-text-demo.png
 ---
-height: 500px
-name: file-collection
+name: file-broken-link
 alt: Two people happily browsing files in a drawer of documents.
 ---
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
@@ -97,4 +99,4 @@ alt: Two people happily browsing files in a drawer of documents.
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
 ```
 
-For more advanced parameters, please see the [JupyterBook Documentation](https://jupyterbook.org/content/figures.html).
+For more advanced parameters, please see the [Jupyter Book Documentation](https://jupyterbook.org/content/figures.html).

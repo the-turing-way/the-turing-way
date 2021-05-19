@@ -30,11 +30,10 @@ html:
   use_issues_button         : true # Whether to add an "Open issue" button to pages. If `true`, repository information in repository: must be filled in
   use_edit_page_button      : true  # Whether to add an "Suggest edit" button to pages. If `true`, repository information in repository: must be filled in
   baseurl                   : "https://the-turing-way.netlify.com"  # The base URL where your book will be hosted. Used for creating image previews and social links. for example: https://mypage.com/mybook/
-  navbar_footer_text        :
-    'Visit our <a href="https://github.com/alan-turing-institute/the-turing-way">GitHub Repository</a>
-    <div>
-    This book is powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-    </div>'  # Will be displayed underneath the left navbar.
+  extra_navbar              : Visit our <a href="https://github.com/alan-turing-institute/the-turing-way">GitHub Repository</a>
+    <div>This book is powered by <a href="https://jupyterbook.org">Jupyter Book</a></div>
+  comments:
+    hypothesis: true 
 
 #######################################################################################
 # Launch button settings
@@ -52,10 +51,7 @@ repository:
 # Advanced and power-user settings
 sphinx:
   extra_extensions          :  # A list of extra extensions to load by Sphinx.
-  config                    : ""  # key-value pairs to directly over-ride the Sphinx configuration
+  config                    :  # key-value pairs to directly over-ride the Sphinx configuration
+    language                : en
 
-#######################################################################################
-# Interactivity features
 
-launch_buttons:
-  binderhub_url: "https://mybinder.org"

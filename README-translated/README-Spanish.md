@@ -96,9 +96,11 @@ Puedes ponerte en contacto con nuestra administradora de la comunidad **Malvika 
 Alternativamente, puedes comunicarte con la investigadora principal **Kirstie Whitaker** por correo electrónico a [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 
 
-## [Colaboradores](https://github.com/alan-turing-institute/the-turing-way#contributors)
+## Colaboradores
 
-Gracias a estas personas maravillosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)): [lista de personas que han colaborado](https://github.com/alan-turing-institute/the-turing-way#contributors)
+Gracias a estas personas maravillosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+[Lista de personas que han colaborado](https://github.com/alan-turing-institute/the-turing-way#contributors)
 
 Este proyecto sigue la especificación [all-contributors](https://github.com/all-contributors/all-contributors).
 ¡Contribuciones de todo tipo son bienvenidas!
