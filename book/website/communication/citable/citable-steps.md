@@ -7,7 +7,8 @@ You can go a long way to reducing this barrier by following a few steps to make 
 (rr-credit-make-object)=
 ## 1. Identify Your Research Objects
 
-The first step is to ensure that you have something worth citing.
+We want to emphasise that most of our research objects should be shared so that other researchers can reproduce and reuse them.
+ Therefore, the first step is to identify all the research components that you would share online.
 Practising open research isn't essential to get credit for your data or software, but it makes it much easier for others to build on your work in a way that acknowledges your contribution.
 There is a growing body of evidence that shows open research tends to be cited more than non-open research of equivalent quality and significance.
 
