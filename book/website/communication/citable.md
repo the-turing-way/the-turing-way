@@ -43,7 +43,7 @@ We describe, how you can {ref}`prepare your research object to be citable<rr-cre
 
 We invite you to contribute to this chapter by writing about one or multiple of the following aspects:
 - Demonstrate impact with various metrics described in this chapter
-- Add examples for DOIs from data journals
+- Add some tips for peer-reviewed publishing of research components with DOIs (like data journals, JOSS for software)
 - Add information about [citing JSON](http://citebay.com/how-to-cite/json/)
 - How to cite deprecated practices or legacy versions such as citing an early paper or a software manual
 - More thoughts on what does/doesn't need to be cited
