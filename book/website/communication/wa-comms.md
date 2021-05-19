@@ -2,7 +2,7 @@
 
 # Chapter 3 - Communicating with wider audiences
 
-cm-wa-comms-prerequisites)=
+(cm-wa-comms-prerequisites)=
 ## Prerequisites
 
 
