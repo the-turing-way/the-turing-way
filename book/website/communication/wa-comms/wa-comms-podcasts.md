@@ -7,3 +7,7 @@ A podcast is an audio programme that you can subscribe to and listen to on an ap
 * [How to start a podcast](https://www.podcastinsights.com/start-a-podcast/?gclid=CjwKCAiA9vOABhBfEiwATCi7GNV7zJl0tHaVkW-7DCjVdAwGa4q0vbaXB44xsSBHp7YBO8K6pH0syBoCVtUQAvD_BwE)
 
 If you have experience making podcasts and would like to write in more detail about this to help others, then please get in touch with us.
+
+## Here are some of our favourite podcasts:
+* [Orion Open Science](https://www.orion-openscience.eu/publications/training-materials/201902/podcasts)
+* [Open Science talk](https://soundcloud.com/opensciencetalk)
