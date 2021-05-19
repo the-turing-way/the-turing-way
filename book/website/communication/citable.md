@@ -27,7 +27,7 @@ DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 
 ## Background & Motivation
 
-Academic research is a reputation economy, and citations are the currency.
+Academic research has traditionally had a reputation economy, and citations are considered a major metrics of success in academia.
 Most research institutions' promotion and hiring criteria depend to a greater or lesser extent on your publishing record: how many articles you have published, how "important" the journals were, and how many times each article has been cited using the unique identifiers.
 
 This is a well-established practice, and while it has its structural (academic) problems at least all stakeholders understand what's involved.
