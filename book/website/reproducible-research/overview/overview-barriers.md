@@ -1,7 +1,7 @@
 (rr-overview-barriers)=
 # Barriers to reproducibility
 
-So far we have explained {ref}`what we mean<rr-overview-definitions>' by reproducible research and explained some of the {ref}`additional benefits<rr-overview-benefits>`.
+So far we have explained {ref}`what we mean<rr-overview-definitions>` by reproducible research and explained some of the {ref}`additional benefits<rr-overview-benefits>`.
 
 In this section we cover some of the (real and perceived) barriers you may face in making your work reproducible.
 
@@ -13,12 +13,12 @@ alt: Slide from the presentation showing the different barriers to reproducibili
 ---
 A slide outlining some of the barriers to reproducible research from Kirstie Whitaker's [talk about _The Turing Way_](https://youtu.be/wZeoZaIV0VE?t=312) at [csv,conf,v4](https://csvconf.com/2019) in May 2019.
 Used under a CC-BY 4.0 license.
-DOI:[10.5281/zenodo.2669547](https://doi.org/10.5281/zenodo.2669547).
+DOI: [10.5281/zenodo.2669547](https://doi.org/10.5281/zenodo.2669547).
 ```
 
 This chapter outlines some of those barriers, and a few suggestions to get around them.
 The barriers to reproducible research can be described in three main groups.
-The first, and hardest to overcome are those relating to the current incentive structure in academic research: ref`Limited incentives to give evidence against yourself<rr-overview-barriers-incentives>` (or "Plead the fifth"), the known {ref}`publication bias towards novel findings<rr-overview-barriers-publication>`, the fact that reproducible or open research may be {ref}`held to higher standards than others<rr-overview-barriers-standards>`, and that all this effort is {ref}`not considered for promotion<rr-overview-barriers-promotion>`.
+The first, and hardest to overcome are those relating to the current incentive structure in academic research: {ref}`Limited incentives to give evidence against yourself<rr-overview-barriers-incentives>` (or "Plead the fifth"), the known {ref}`publication bias towards novel findings<rr-overview-barriers-publication>`, the fact that reproducible or open research may be {ref}`held to higher standards than others<rr-overview-barriers-standards>`, and that all this effort is {ref}`not considered for promotion<rr-overview-barriers-promotion>`.
 Then there are the technical and theoretical challenges of working with {ref}`big data and complex computational infrastructure<rr-overview-barriers-infrastructure>` and remembering that {ref}`being reproducible does not mean the answer is right<rr-overview-barriers-notright>`.
 We finish with three barriers considering the pressures on individual data scientists: that this work can be perceived to {ref}`take extra time<rr-overview-barriers-time>`, that you may be required to {ref}`support additional users<rr-overview-barriers-support>` (spoiler: you aren't!), and that you and members of your team might {ref}`require additional skills<rr-overview-barriers-skills>`.
 The good news is that helping you learn those skills is exactly what _The Turing Way_ is here for!
