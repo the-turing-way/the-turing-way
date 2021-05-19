@@ -232,6 +232,8 @@
       file: project-design/persona/persona-contributors
   - title: File Naming Convention
     file: project-design/filenaming
+  - title: Designing a Repository
+    file: project-design/repo-structure
   - title: Code Styling and Linting
     file: project-design/code-styling
     sections:
