@@ -15,7 +15,7 @@ When planning out a research study, one crucial and often forgotten component is
 
 In this section, the benefits and considerations of designing a repository will be outlined, along with an example structure and further resources to guide your workflow.
 
-The prerequisites for this chapter can vary depending on the organisational needs of a project. Creating a repository with a simple research project layout can require minimal technical knowledge (e.g. managing only input data and output results). Meanwhile advanced repository layouts can be required for more complicated projects (e.g. projects with dependencies on other projects).
+The prerequisites for this chapter can vary depending on the organisational needs of a project. Creating a repository with a simple research project layout can require minimal technical knowledge (such as managing only input data and output results). Meanwhile advanced repository layouts can be required for more complicated projects (such as projects with dependencies on other projects).
 
 
 ## Background
