@@ -2,7 +2,7 @@
 # Sharing Your Research Work
 Once you are done with your research you want to make sure that your outputs are available to anyone interested in analysing or reusing them.
 Science can only progress from building on top of each other's results.
-A first step is sharing your own work.
+The first step is sharing your work.
 
 But only sharing is not enough.
 You need to make sure that your research is **F**indable, **A**ccesible, **I**noperable and **R**eusable, or **FAIR**.
@@ -13,7 +13,7 @@ You can learn more about this in a chapter on {ref}`making data FAIR<rr-rdm-fair
 (pd-overview-sharing-archive)=
 ## Archive your Outputs
 
-Like your data, your outputs should be archived in an open place, where people can access to them.
+Like your data, your outputs should be archived in an open place, where people can access them.
 A repository is a good place to store your results.
 
 An overview of some repositories available for archiving your data can be found in [re3data.org](https://www.re3data.org/).
@@ -23,7 +23,7 @@ Another good resource where you can read more about this topic is the chapter on
 (pd-overview-sharing-protocols)=
 ## Share your Protocols
 
-One of the reasons to do reproducible research is to provide other with the tools to build on top of it.
+One of the reasons to do reproducible research is to provide others with the tools to build on top of it.
 If the details of the protocols are not shared, researchers can spend months optimizing them before being able to start with their projects.
 
 A tool that can be used to avoid this is [protocols.io](https://www.protocols.io/).
@@ -45,16 +45,16 @@ You can read about DOIs in the chapter on {ref}`Making Research Components Citab
 
 Once you are done with your research you may want to collect all the digital parts of your project in one place.
 This is called a research compendium.
-Publishing your paper along with a research compendium allows the full extend of your research: from the design of the project, through the data recollection and analysis and the resulting outputs.
+Publishing your paper along with a research compendium allows the full extent of your research: from the design of the project, through the data recollection and analysis and the resulting outputs.
 
-This has an infinity of advantage, it makes your work shareable and reproducible, others can built upon it and gives you more visibility.
+This has an infinity of advantage, it makes your work shareable and reproducible, others can build upon it and gives you more visibility.
 
 You can read how to set up your research compendia, {ref}`this chapter<rr-compendia>`.
 
 (pd-overview-sharing-License)=
 ## Add License to Research Outputs
 
-Even if you got a license at the beginning of the project you need think about it again when sharing your outputs and final results - this allows people to have the information about how your research should be reused and shared.
+Even if you got a license at the beginning of the project you need to think about it again when sharing your outputs and final results - this allows people to have the information about how your research should be reused and shared.
 
 If you want more information about how to choose and add a license to your project you can check the {ref}`Licensing Chapter<rr-licensing>`.
 
