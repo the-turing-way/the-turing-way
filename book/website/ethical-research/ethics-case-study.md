@@ -1,3 +1,4 @@
+(er-committees)=
 # Research Ethics Committees Processes
 
 Research ethics committees (RECs), also known as institutional review boards (IRBs), exist within institutions to scrutinise the ethical implications of their research projects.
