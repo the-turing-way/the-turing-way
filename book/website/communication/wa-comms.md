@@ -14,7 +14,7 @@
 ```{figure} ../figures/ADDHEREPATHWAY.jpg
 ---
 name: 
-alt: A person sitting at a computer with different communications methods coming out of the computer including blogs, podcasts, lay summaries and social media. There are also dictionaries for foreign lanuages showing that it is important to translate our research into different
+alt: A person sitting at a computer with different communications methods coming out of the computer including blogs, podcasts, lay summaries and social media. There are also dictionaries for foreign languages showing that it is important to translate our research into different
 ---
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/ - add here zenodo link. 
 ```
