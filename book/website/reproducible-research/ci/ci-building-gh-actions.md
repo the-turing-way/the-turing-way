@@ -60,9 +60,7 @@ Here’s an example of what each of these looks like
 
 ```
 jobs:
-  write-to-console:
-    # ...
-    steps:
+   build:
       - uses: something
       - runs: some-cli-command
       - name: Label for this step
