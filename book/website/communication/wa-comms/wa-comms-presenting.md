@@ -41,7 +41,7 @@ Presenting a talk through a digital medium involves tackling some technical chal
 * For the members of your audience who are not deaf of hard of hearing, sound quality will always be more important than video quality. 
 * Previous to the presentation, record your voice using the same device you will be using in the presentation to check the sound quality and make any adjustments you can to ensure a crisp sound.
 
-### Recording a talk
+#### Recording a talk
 * The simplest way to record the contents of your talk, including your video, voice and presentation, is to record it using a videoconference service (like Zoom) or a recording software like [OBS](https://obsproject.com). See [this guide](https://software.ac.uk/fellowship-programme/2019/application-video-guide) by the Software Sustainability Institute on how to configure OBS for screen recording.
 * If you are recording your talk to present it asynchronously you can use platforms like [Amara](https://amara.org) to generate your subtiles from the video.
 
