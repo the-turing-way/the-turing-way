@@ -2,10 +2,25 @@
 
 As described previously, workflow files use YAML syntax, which has either a `.yml` or `.yaml` file extension. If you're new to YAML and want to learn more, [see our section about YMAL]{ref}`(rr-renv-yaml)`. This workflow must be stored in the `.github/workflows` directory of your repository.
 
+Each workflow is defined in a separate YAML. We will introduce the building block of a workflow using Hello World Example:
+
+```
+name:
+     Hello World package
+on:
+ push:
+     branches: [ master ]
+Jobs:
+    runs-on: ubuntu-latest
+    build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+```  
 
 **1. name**
 
-This is the name of the workflow. GitHub will use this name to be displayed on the repository's actions page.
+This is the name of the workflow and it is optional. GitHub will use this name to be displayed on the repository's actions page.
 ```
 name:
      test package
