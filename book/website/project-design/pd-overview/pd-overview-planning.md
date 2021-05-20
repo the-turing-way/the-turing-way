@@ -33,7 +33,7 @@ In the subsequent chapters, we describe different methods and tools for ensuring
 
 **Top three 'selfish' reasons to use project design practices**
 1. **Saves time**: once the project is designed and all the connections between different parts of research can be organized with little effort.
-2. **Makes your openly research available**: having your research open from the start can help others working in similar subjects or starting research.
+2. **Makes your research openly available**: having your research open from the start can help others working in similar subjects or starting research.
 3. **Get people interested**: you can get people to help you from the start since your project is documented and is easy to share.
 ```
 (pd-overview-planning-ethics)=
