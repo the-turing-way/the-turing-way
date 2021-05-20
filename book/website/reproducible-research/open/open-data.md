@@ -42,7 +42,7 @@ Below, we discuss some reasons explaining why this may be the case.
 ---
 height: 500px
 name: data-privacy
-alt: The image contains points about why private data may be used.
+alt: An image detailing why private data should be used. A person stands next to a well with 'private data' written on it and a padlock around it. It is black and white and blue. The text lists that 'people deserve: dignity, agency, privacy, rights, confirmed consent.'
 ---
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
 ```
@@ -93,4 +93,3 @@ If a company spends time and money developing something new, the details of whic
 The result is that no one would innovate in the first place.
 Similarly, for public safety concerns, governments are often unwilling to publish data that relates to issues such as national security.
 In such cases, it may not be possible to make data open, or it may only be possible to share partial/obscured datasets.
-
