@@ -16,7 +16,7 @@ GitHub Actions are event-driven, which means it responds to any event (`PR` crea
 width: 400px
 align: center
 name: Github actions
-alt: a diagrame describe github action listen to an event (e.g. `PR` created, issue created) and then  trigger a job, which can be testing, labelling, sorting or other tasks .
+alt: a diagrame describe github action listen to an event (for example `PR` created, issue created) and then  trigger a job, which can be testing, labelling, sorting or other tasks .
 ---
 ```
 ### GitHub-related Vocabulary
