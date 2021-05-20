@@ -18,7 +18,7 @@ align: center
 name: Github actions
 alt: a diagram describes GitHub action listen to an event (for example, `PR` created, issue created) and then trigger a job, which can be testing, labelling, sorting or other tasks .
 ---
-_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
+A diagram describing GitHub action listen to an event (for example, `PR` created, issue created) and then trigger a job. It will be replaced with a new _The Turing Way_ project illustration by Scriberia.
 ```
 ### GitHub-related Vocabulary
 #### 1. WorkFlow

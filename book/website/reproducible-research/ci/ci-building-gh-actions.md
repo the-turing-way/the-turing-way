@@ -1,6 +1,6 @@
 # Building a Block of a Github Actions
 
-As described previously, Workflow files use YAML syntax, which has either a `.yml` or `.yaml` file extension. If you're new to YAML and want to learn more, [see our section about YMAL](https://the-turing-way.netlify.app/reproducible-research/renv/renv-yaml.html?highlight=yaml). This workflow must be stored in the `.github/workflows` directory of your repository.
+As described previously, workflow files use YAML syntax, which has either a `.yml` or `.yaml` file extension. If you're new to YAML and want to learn more, [see our section about YMAL]{ref}`(rr-renv-yaml)`. This workflow must be stored in the `.github/workflows` directory of your repository.
 
 
 **1. name**
