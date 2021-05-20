@@ -25,13 +25,12 @@ alt: a diagrame describe github action listen to an event (for example `PR` crea
 
 **The workflow** is a unit of automation from start to finish. It consists of all the aspects which should be taken into account during the automation including what event can trigger the automation. The workflow can be used to build, test, package, release, or deploy a project on GitHub. It is made of multiple jobs which is formed from steps as shown in the image below.
 
-```{figure} ../../figures/gh_actions_structure.png
+```{figure} ../../figures/ci-01.png
 ---
-width: 600px
-align: center
-name: GitHub action Structure
-alt: a diagrame showing how the workflow is divided into jobs and steps.
+name: ContinuousIntegration-Nov20
+alt: An illustration on how continuous integration works with multiple jobs and actions working alongside each other to then feed into an illustration of steps to show merging into the main version.
 ---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
 ```
 
 #### 2. Job
@@ -50,13 +49,6 @@ A GitHub **Action** is a piece of automation written in a way that is compatible
 
 GitHub Actions uses YAML syntax and stored in a directory called `.github/workflows` in the repository. You can either use a templated workflow or create your own.
 
-```{figure} ../figures/ContinuousIntegration1.jpg
----
-name: ContinuousIntegration-Nov20
-alt: An illustration on how continuous integration works with multiple jobs and actions working alongside each other to then feed into an illustration of steps to show merging into the main version.
----
-_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
-```
 
 #### 1- Using GitHub Actions template
 
