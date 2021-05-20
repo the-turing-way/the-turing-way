@@ -50,8 +50,6 @@ After you have decided how to collect your data, analyze it and which tools to u
 
 A Registered Report highlights the importance of the research question and the methods that will be used. They are peer-reviewed before the research, switching the focus of the review from the results to the substance of the research methods.
 
-**NOTE:** More resources should be added here.
-
 (pd-overview-planning-help)=
 ## Collaborating and Asking for Help
 
