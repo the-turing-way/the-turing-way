@@ -1,4 +1,4 @@
-# Designing a repository :file_folder: :computer: 
+# Designing a repository
 
 ## Prerequisites / recommended skill level¶
 
