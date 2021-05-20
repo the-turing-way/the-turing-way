@@ -16,8 +16,6 @@ They also are easy to share among team members and collaborators.
 
 It is important to document and share the methodology, analysis and procedures used, as well as data specific information.
 
-**NOTE**: More resources should be added here.
-
 (pd-overview-version-comp)=
 ## Computational Work
 
