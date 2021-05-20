@@ -11,8 +11,7 @@ on:
  push:
      branches: [ master ]
 Jobs:
-    runs-on: ubuntu-latest
-    build:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
