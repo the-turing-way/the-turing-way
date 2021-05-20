@@ -224,21 +224,20 @@
 - file: project-design/project-design
   sections:
   - title: Overview of Project Design
-    file: project-design/overview
+    file: project-design/pd-overview
     sections:
     - title: Planning for Project Design
-      file: project-design/overview/overview-planning
+      file: project-design/pd-overview/pd-overview-planning
     - title: Communication and Collaboration for Reproducibility
-      file: project-design/overview/overview-repro
+      file: project-design/pd-overview/pd-overview-repro
     - title: Reproducibility Methods
-      file: project-design/overview/overview-methods
+      file: project-design/pd-overview/pd-overview-methods
     - title: Version Control and Documentation
-      file: project-design/overview/overview-version
+      file: project-design/pd-overview/pd-overview-version
     - title: Sharing Your Research Work
-      file: project-design/overview/overview-sharing
-    - title:
-      file: project-design/overview
+      file: project-design/pd-overview/pd-overview-sharing
   - title: File Naming Convention
+    file: project-design/filenaming
   - title: Personas and Pathways
     file: project-design/persona
     sections:

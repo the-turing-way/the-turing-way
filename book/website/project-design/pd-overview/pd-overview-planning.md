@@ -8,17 +8,6 @@ By documenting and sharing project workflows and processes for research and rese
 Design thinking in the context of research project can lead to better development process, maintenance, and future extension of our work.
 Furthermore, it will help improve the quality of future project design as we can learn lessons from what worked and what can be improved.
 
-```{figure} ../ResearchCycle.jpg
----
-height: 500px
-name: research-cycle
-alt: This illustration shows a circle that shows different stages of research in a loop starting from ideation, planning and design, data collection, data processinh, data study and analysis, data publishing and access, data preservation and finishing with data reuse that loops back to research ideas. It also shows multiple people working together at all stages
----
-_The Turing Way_ project illustration by Scriberia.
-Used under a CC-BY 4.0 licence.
-DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
-```
-
 (pd-overview-planning-expectation)=
 ## Setting Expectations Explicitly
 

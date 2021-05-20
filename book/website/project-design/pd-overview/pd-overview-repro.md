@@ -1,7 +1,10 @@
 (pd-overview-repro)=
 # Communication and Collaboration for Reproducibility
 
-It is very hard to completely separate communication from collaboration from research reproducibility, and often from each other.
+Good communication from collaboration practices are complementary to research reproducibility, and often it is hard to separate these concepts from each other.
+In _The Turing Way_, we consider essential for research reproducibility and provide separate guides for {ref}`communication<cm>` and {ref}`collaboration<cl>`.
+You can visit specific chapters to gain in-depth understanding and evaluation which practices meet the specific requirements in your project.
+
 Here, we provide a non-exhaustive list of ways to ensure that you, and everyone else, understands (and communicate about) what the project is about, who the stakeholders are and they can collaborate.
 
 - Document all practices to ensure everyone is on the same page (literally!).
@@ -25,6 +28,7 @@ In the context of software, coding projects are as much about communication as i
 - Describe how your research work is or will be made available and how different stakeholders will be recognised.
   - It helps everyone feel recognised for their contribution to the overall vision.
 
+<!--
 (pd-overview-repro-turingway)=
 ## _The Turing Way_ Chapter for Communication and Collaboration
 
@@ -38,6 +42,7 @@ We recommend reading the following chapters to understand effective communicatio
 ### Advanced Requirements
 - {ref}`<>`
 - {ref}`<>`
+-->
 
 (pd-overview-repro-mistakes)=
 ## Bonus Section: Learning from Mistakes
@@ -80,4 +85,4 @@ However, it helps prepare in advanced for risk management and adapt for changes 
 Learn how agile methodologies help adapt to changes and see “The cost of change curve” in the context of Software Engineering.
 ```
 
-*_Several sections of this chapter is summarises participants' notes from a short workshop called "Good Practices for Designing Software Development Projects (The Turing Way)" at the [Collaboration Workshop 2021](https://www.software.ac.uk/cw21)  hosted by [Software Sustainability Institute](https://www.software.ac.uk). The workshop was delivered by Malvika Sharan, Emma Karouns and Batool Almarzouq on 31 March 2021. You can  Zenodo. [DOI: [10.5281/zenodo.4650221](https://doi.org/10.5281/zenodo.4650221)._
+*_This chapter summarises participants' notes from a short workshop called "Good Practices for Designing Software Development Projects (The Turing Way)" at the [Collaboration Workshop 2021](https://www.software.ac.uk/cw21)  hosted by [Software Sustainability Institute](https://www.software.ac.uk). The workshop was delivered by Malvika Sharan, Emma Karouns and Batool Almarzouq on 31 March 2021. You can  Zenodo. [DOI: [10.5281/zenodo.4650221](https://doi.org/10.5281/zenodo.4650221)._
