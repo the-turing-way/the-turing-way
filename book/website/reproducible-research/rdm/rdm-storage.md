@@ -10,7 +10,7 @@ height: 500px
 name: VersionControl
 alt: This image highlight the benefit of using version control to organize.
 ---
-_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300 
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
 ```
 
 (rr-rdm-storage-where)=
