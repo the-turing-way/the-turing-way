@@ -36,3 +36,22 @@ In the subsequent chapters, we describe different methods and tools for ensuring
 2. **Makes your openly research available**: having your research open from the start can help others working in similar subjects or starting research.
 3. **Get people interested**: you can get people to help you from the start since your project is documented and is easy to share.
 ```
+(pd-overview-planning-ethics)=
+## Getting Ethical and Legal Approval
+
+Every research has the capacity to generate change - these are the basis of discovery and progress. 
+Therefore, is necessary to consider in which way your investigation can generate an impact in other people's life and under which ethical and legal standards is conducted.
+
+A project has to be designed considering legal and ethical issues in every step: from the question formulation, data collection and analysis and the results and interpretation. 
+It's important to ask yourself if your project is designed to be inclusive and sustainable, taking into account the implications an social expectations and following ethical principles and professional standards.
+
+Getting ethical and legal approval is a crucial step of the project, this way you can make sure your research is being conducted in a responsible and ethical manner.
+There are several ways in which a research ethics committee (RECs) proceeds, but there are five principal topics that the ethics committee might want to know about:
+
+1. Project Description
+2. Data and Methodology
+3. Consent
+4. Privacy and Security
+5. Further Societal Consequences
+
+The {ref}`Research Ethics Committees Processes<er-committees>` chapter have more information about each item.
