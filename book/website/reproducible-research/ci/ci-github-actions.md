@@ -1,7 +1,7 @@
 (rr-ci-ghactions)=
 # Continuous Integration with GitHub Actions
 
-This section will walk you through the basic setup of continuous integration (CI) using GitHub Actions. **GitHub Actions** is a task automation system fully integrated with GitHub. In other words, it is an API that orchestrates any workflow based on any event. Although there are many CI service providers, Git Hub action (GHA) makes it easier than ever to incorporate CI into your repositories. It provides a flexible way to automate nearly every aspect of your project workflow. Here are just a few examples of use cases of GitHub Actions:
+This section will walk you through the basic setup of continuous integration (CI) using **GitHub Actions (GHA)**. GHA is a task automation system fully integrated with GitHub. In other words, it is an API that orchestrates any workflow based on any event. Although there are many CI service providers, Git Hub action (GHA) makes it easier than ever to incorporate CI into your repositories. It provides a flexible way to automate nearly every aspect of your project workflow. Here are just a few examples of use cases of GitHub Actions:
 
 - Automated testing of the software
 - Generate reports of the status of any changes in the repository
@@ -23,7 +23,7 @@ alt: a diagrame describe github action listen to an event (e.g. `PR` created, is
 
 #### 1. WorkFlow
 
-The workflow is is a unit of automation from start to finish. It consists of all the aspects which should be taken into account during the automation including what event can be trigger the automation. The workflow can be used to build, test, package, release, or deploy a project on GitHub. It is made of multiple jobs which is formed from steps as shown in the image below.
+**The workflow** is is a unit of automation from start to finish. It consists of all the aspects which should be taken into account during the automation including what event can be trigger the automation. The workflow can be used to build, test, package, release, or deploy a project on GitHub. It is made of multiple jobs which is formed from steps as shown in the image below.
 
 ```{figure} ../../figures/gh_actions_structure.png
 ---
@@ -36,15 +36,15 @@ alt: a diagrame showing how the workflow is divided into jobs and steps.
 
 #### 2. Job
 
-A job is a section of the workflow, and is made up of one or more steps. In this section of our workflow, the template defines the steps that make up the build job.
+**A job** is a section of the workflow, and is made up of one or more steps. In this section of our workflow, the template defines the steps that make up the build job.
 
 #### 3. Step
 
-Step: A step represents one effect of the automation. A step could be defined as a GitHub Action, or another unit, like printing something to the console.
+A **step** represents one effect of the automation. A step could be defined as a GitHub Action, or another unit, like printing something to the console.
 
 #### 4. Actions
 
-A GitHub Action is a piece of automation written in a way that is compatible with workflows. Actions can be written by [GitHub](https://github.com/actions), by the open source [community](https://github.com/sdras/awesome-actions), or you can write them yourself!
+A GitHub **Action** is a piece of automation written in a way that is compatible with workflows. Actions can be written by [GitHub](https://github.com/actions), by the open source [community](https://github.com/sdras/awesome-actions), or you can write them yourself!
 
 ## Getting started with GitHub Action
 
