@@ -27,7 +27,7 @@ name:
 
 **2. on**
 
-The `on` field tells GitHub Actions when to run. For example, we can run the workflow anytime there's a `push` or a `pull`.
+The `on` field tells GHA when to run. For example, we can run the workflow anytime there's a `push` or a `pull`.
 ```
 on:
   push:
@@ -42,11 +42,12 @@ There are many events which can be used to trigger a workflow. You can explore t
 This block defines the core component of an Actions workflow. Workflows are made of `jobs`. Every job also needs a specific host machine on which to run, the `runs-on:` field is how we specify it. The template workflow is running the `build` job in the latest version of Ubuntu, a Linux-based operating system.
 
 ```
-Jobs:
-    runs-on: ubuntu-latest
+jobs:
+  build:
+  runs-on: ubuntu-latest
 ```
 
-We can also separate the `build` and `test` functions of our workflow into more than one job that will run when our workflow is triggered. Jobs may consist of `steps`. These allow you define what to run in each job. There are three ways to define steps.
+We can also separate the `build` and `test` functions of our workflow into more than one job that will run when our workflow is triggered. Jobs are made of `steps`. These allow you define what to run in each job. There are three ways to define steps.
 
 - With `uses`
 - With `run`
@@ -66,6 +67,6 @@ jobs:
         npm test
 ```
 
-`uses: actions/checkout@v1`: This use a community action called [`checkout`](https://github.com/actions/checkout) to allow the workflow to access the contents of the repository and it is the most most basic action. You can also use `uses: ./action-a` which provides the relative path to the action we created in the `action-a` directory of the repository
+The is the most most basic action is `uses: actions/checkout@v2`. This use a community action called [`checkout`](https://github.com/actions/checkout) to allow the workflow to access the contents of the repository. You can also use `uses: ./action-a` which provides the relative path to the action we created in the `action-a` directory of the repository
 
 Providing a comprehensive guide of all the available options is beyond the scope of this overview, and instead we would urge you to study the CI configuration of well established open source projects.
