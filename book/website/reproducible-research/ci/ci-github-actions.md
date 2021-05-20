@@ -9,18 +9,18 @@ This section will walk you through the basic setup of continuous integration (CI
 - Triggering code reviews and pull requests
 - Managing branches
 
-GitHub Actions are event-driven, which means it responds to any event (`PR` created, issue created, ...) and triggers an action (label, test, sort, ...). A collection of actions is called a workflow.
+GitHub Actions are event-driven, which means it responds to any event (`PR` created, issue created, ...) and triggering an action (label, test, sort, etc...). Any collection of these actions is called a workflow. A more detailed description of this GitHub-related Vocabulary is described in the next section.
 
 ```{figure} ../../figures/gih_action_diagrame.png
 ---
 width: 400px
 align: center
 name: Github actions
-alt: a diagrame describe github action listen to an event (for example `PR` created, issue created) and then  trigger a job, which can be testing, labelling, sorting or other tasks .
+alt: a diagram describes GitHub action listen to an event (for example, `PR` created, issue created) and then trigger a job, which can be testing, labelling, sorting or other tasks .
 ---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
 ```
 ### GitHub-related Vocabulary
-
 #### 1. WorkFlow
 
 **The workflow** is a unit of automation from start to finish. It consists of all the aspects which should be taken into account during the automation including what event can trigger the automation. The workflow can be used to build, test, package, release, or deploy a project on GitHub. It is made of multiple jobs which is formed from steps as shown in the image below.
