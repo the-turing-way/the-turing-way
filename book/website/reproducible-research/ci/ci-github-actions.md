@@ -5,7 +5,7 @@ This section will walk you through the basic setup of continuous integration (CI
 
 - Automated testing of the software
 - Generate reports of the status of any changes in the repository
-- Responding to workflow triggers using labels, issues, `@` mentions, and more
+- Responding to workflow triggers using labels, issues, special mentions, and more
 - Triggering code reviews and pull requests
 - Managing branches
 
