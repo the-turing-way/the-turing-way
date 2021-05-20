@@ -49,6 +49,9 @@ the classical text "The visual display of quantitative information" by Tufte and
 
 ### potential applications of interactivity
 
+### use of colour
+<!---use of colour in domain-specific contexts: Christen, M., Brugger, P., & Fabrikant, S. I. (2021). Susceptibility of domain experts to color manipulation indicate a need for design principles in data visualization. PloS one, 16(2), e0246479. -->
+
 <!--### Storytelling
 Data visualisation and infographics are essential tools for _storytelling_-->
 
@@ -71,6 +74,7 @@ dataviz can, and should, help "data finds data" processes (see "Beautiful Data")
 "Users" are not all white men from a medium-high socioeconomic background, in a USA setting. 
 Male should *not* be the 'default' option, this attitude limits data accessibility, applicability, and generalizability. 
 As thoroughly described and argued by Caroline Criado Perez ("Invisible Women", 2019), taking gender data into account in (city/transport/local plan) planning requires changes and solutions that have a ripple effect with broader consequences on the general society.
+Fenwick, Sandell, and Berengueres (2019) in their book on data visualisation suggest a chart checklist to check for bias in data visualisation. This checklist covers aspects such as the type of chart, use of colurs, use of metaphors, and captions. 
 
 ### Data accessibility
 
@@ -91,8 +95,11 @@ Importance of effective visual encodings
 
 
 <!--## UK data service!-->
+<!--further development: use of dashboards-->
 
 ### References
+- Perez, C. C. (2019). Invisible women: _Exposing data bias in a world designed for men._ Random House.
+- Fenwick, A., Berengueres, A. F. J., & Sandell, M. (2019). _Introduction to Data Visualization & Storytelling A Guide For The Data Scientist._
 - Kirk, A. (2016). _Data visualisation: A handbook for data driven design._ Sage.
 - Lankow, J., Ritchie, J., & Crooks, R. (2012). _Infographics: The power of visual storytelling._ John Wiley & Sons.
 - Perez, C. C. (2019). _Invisible women: Exposing data bias in a world designed for men._ Random House.
