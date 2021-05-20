@@ -67,6 +67,6 @@ jobs:
         npm test
 ```
 
-The is the most most basic action is `uses: actions/checkout@v2`. This use a community action called [`checkout`](https://github.com/actions/checkout) to allow the workflow to access the contents of the repository. You can also use `uses: ./action-a` which provides the relative path to the action we created in the `action-a` directory of the repository
+The is the most most basic action is `uses: actions/checkout@v2`. This use a community action called [`checkout`](https://github.com/actions/checkout) to allow the workflow to access the contents of the repository. All the steps of a job run sequentially on the runner associated with the job. By default, if a step fails, the subsequent steps of the job are skipped.
 
 Providing a comprehensive guide of all the available options is beyond the scope of this overview, and instead we would urge you to study the CI configuration of well established open source projects.
