@@ -1,7 +1,7 @@
 (rr-ci-ghactions)=
 # Continuous Integration with GitHub Actions
 
-This section will walk you through the basic setup of continuous integration (CI) using **GitHub Actions (GHA)**. GHA is a task automation system fully integrated with GitHub. In other words, it is an API that orchestrates any workflow based on any event. Although there are many CI service providers, Git Hub action (GHA) makes it easier than ever to incorporate CI into your repositories. It provides a flexible way to automate nearly every aspect of your project workflow. Here are just a few examples of use cases of GitHub Actions:
+This section will walk you through the basic setup of continuous integration (CI) using **GitHub Actions (GHA)**. GHA is a task automation system fully integrated with GitHub. In other words, it is an API that orchestrates any workflow based on any event. Although there are many CI service providers, GHA makes it easier than ever to incorporate CI into your repositories. It provides a flexible way to automate nearly every aspect of your project workflow. Here are just a few examples of use cases of GitHub Actions:
 
 - Automated testing of the software
 - Generate reports of the status of any changes in the repository
@@ -23,7 +23,7 @@ alt: a diagrame describe github action listen to an event (e.g. `PR` created, is
 
 #### 1. WorkFlow
 
-**The workflow** is is a unit of automation from start to finish. It consists of all the aspects which should be taken into account during the automation including what event can be trigger the automation. The workflow can be used to build, test, package, release, or deploy a project on GitHub. It is made of multiple jobs which is formed from steps as shown in the image below.
+**The workflow** is a unit of automation from start to finish. It consists of all the aspects which should be taken into account during the automation including what event can trigger the automation. The workflow can be used to build, test, package, release, or deploy a project on GitHub. It is made of multiple jobs which is formed from steps as shown in the image below.
 
 ```{figure} ../../figures/gh_actions_structure.png
 ---
@@ -49,6 +49,14 @@ A GitHub **Action** is a piece of automation written in a way that is compatible
 ## Getting started with GitHub Action
 
 GitHub Actions uses YAML syntax and stored in a directory called `.github/workflows` in the repository. You can either use a templated workflow or create your own.
+
+```{figure} ../figures/ContinuousIntegration-Nov20.jpg
+---
+name: ContinuousIntegration-Nov20
+alt: An illustration on how continuous integration works with multiple jobs and actions working alonside each other to then feed into an illustration of steps to show merging into the main version.
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
+```
 
 #### 1- Using GitHub Actions template
 
