@@ -44,7 +44,7 @@ height: 500px
 name: data-privacy
 alt: The image contains points about why private data may be used.
 ---
-_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
 ```
 
 (rr-open-data-barriers-privacy)=
