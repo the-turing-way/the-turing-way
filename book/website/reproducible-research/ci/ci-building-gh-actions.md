@@ -39,7 +39,7 @@ There are many events which can be used to trigger a workflow. You can explore t
 
 **3. jobs and steps**
 
-This block defines the core component of an Actions workflow. Workflows are made of `jobs`. Every job also needs a specific host machine on which to run, the `runs-on:` field is how we specify it. The template workflow is running the `build` job in the latest version of Ubuntu, a Linux-based operating system.
+This block defines the core component of an Action workflow. Workflows are made of `jobs`. Every job also needs a specific host machine on which to run, the `runs-on:` field is how we specify it. The template workflow is running the `build` job in the latest version of Ubuntu, a Linux-based operating system.
 
 ```
 jobs:
@@ -67,6 +67,6 @@ jobs:
         npm test
 ```
 
-The most most basic action is `uses: actions/checkout@v2`. This use a community action called [`checkout`](https://github.com/actions/checkout) to allow the workflow to access the contents of the repository. All the steps of a job run sequentially on the runner associated with the job. By default, if a step fails, the subsequent steps of the job are skipped. Each run keyword represents a new process and shell in the runner environment. When you provide multi-line commands, each line runs in the same shell
+The most most basic action is `uses: actions/checkout@v2`. This uses a community action called [`checkout`](https://github.com/actions/checkout) to allow the workflow to access the contents of the repository. All the steps of a job run sequentially on the runner associated with the job. By default, if a step fails, the subsequent steps of the job are skipped. Each run keyword represents a new process and shell in the runner environment. When you provide multi-line commands, each line runs in the same shell
 
 Providing a comprehensive guide of all the available options is beyond the scope of this overview, and instead we would urge you to study the CI configuration of well established open source projects.
