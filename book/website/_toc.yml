@@ -269,6 +269,19 @@
 
 - file: collaboration/collaboration
   sections:
+  - title: Defining Collaboration Style
+    file: collaboration/defining-style
+    sections:
+      - title: Open source or inner source
+        file: collaboration/defining-style/open-inner-source
+      - title: Defining your community or team
+        file: collaboration/defining-style/defining-community
+      - title: Defining the purpose of an individual interaction
+        file: collaboration/defining-style/defining-purpose
+      - title: Asynchronous or synchronous collaboration
+        file: collaboration/defining-style/async-sync
+      - title: Remote, in person and hybrid collaboration
+        file: collaboration/defining-style/remote-inperson-hybrid
   - title: Getting Started With GitHub
     file: collaboration/github-novice
     sections:
