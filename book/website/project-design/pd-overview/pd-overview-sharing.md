@@ -1,12 +1,12 @@
 (pd-overview-sharing)=
 # Sharing Your Research Work
-Once you are done with your research you want to make sure that your outputs are available to anyone interested in analysing or reusing them.
+Now that you are in the last phase of your project, you want to make sure that your outputs are available to anyone interested in analysing or reusing them.
 Science can only progress from building on top of each other's results.
 The first step is sharing your work.
 
 But only sharing is not enough.
 You need to make sure that your research is **F**indable, **A**ccesible, **I**noperable and **R**eusable, or **FAIR**.
-This is already taken into account when developing your Data Management Plan, However, you also need to think about this when making your results available.
+This is already taken into account when developing your Data Management Plan, However, you also need to think about it when making your results available.
 
 You can learn more about this in a chapter on {ref}`making data FAIR<rr-rdm-fair>`).
 
