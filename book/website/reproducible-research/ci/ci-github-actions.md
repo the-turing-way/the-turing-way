@@ -50,10 +50,10 @@ A GitHub **Action** is a piece of automation written in a way that is compatible
 
 GitHub Actions uses YAML syntax and stored in a directory called `.github/workflows` in the repository. You can either use a templated workflow or create your own.
 
-```{figure} ../figures/ContinuousIntegration-Nov20.jpg
+```{figure} ../figures/ContinuousIntegration1.jpg
 ---
 name: ContinuousIntegration-Nov20
-alt: An illustration on how continuous integration works with multiple jobs and actions working alonside each other to then feed into an illustration of steps to show merging into the main version.
+alt: An illustration on how continuous integration works with multiple jobs and actions working alongside each other to then feed into an illustration of steps to show merging into the main version.
 ---
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
 ```
