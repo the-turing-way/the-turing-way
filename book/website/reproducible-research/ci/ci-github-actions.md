@@ -28,9 +28,9 @@ _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. 
 ```{figure} ../../figures/ci-01.png
 ---
 name: ContinuousIntegration-Nov20
-alt: An illustration on how continuous integration works with multiple jobs and actions working alongside each other to then feed into an illustration of steps to show merging into the main version.
+alt: An illustration of how continuous integration works with multiple jobs and actions working alongside each other to feed into an illustration of steps to show merging into the main version.
 ---
-_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
+On the left: _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. On the right: Overview of the most important concepts of GitHub Actions, adapated from [morioh.com](https://morioh.com/p/aadcfe6cac57).
 ```
 
 #### 2. Job
