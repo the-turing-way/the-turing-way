@@ -281,7 +281,7 @@
     - title: Managing multiple twitter accounts
       file: communication/wa-comms/wa-comms-twitter-multiple
     - title: Resources
-      file: communication/wa-comms/wa-comms-resources 
+      file: communication/wa-comms/wa-comms-resources
   - title: Making Research Objects Citable
       file: communication/citable
       sections:
@@ -302,7 +302,6 @@
         file: communication/os-comms/os-comms-channels
       - title: Further Reading
         file: communication/os-comms/os-comms-resources
-
 
 # ===== Collaboration Guide ========================================
 
@@ -514,6 +513,6 @@
   - title: Bibliography
     file: afterword/bibliography
   - title: Contributors Record
-    file: afterword/contributors-record]
+    file: afterword/contributors-record
   - title: Legal Disclaimer
     file: afterword/legal-disclaimer
