@@ -5,7 +5,7 @@ Following this design principle of standard books, we have so far included {ref}
 
 The community collaboration and development aspects of the book has been written into the [Community Handbook](../community-handbook/community-handbook) section of this book.
 
-```{figure} ../figures/file-collection.jpg
+```{figure} ../figures/file_collection.jpg
 ---
 height: 500px
 name: afterword
