@@ -138,7 +138,7 @@ def main():
     args = parse_args()
 
     if args.pull_request is not None:
-        files = filter_files(args.pull_request)
+        files = filter_files(args.pull_request, ignore_suffix=('.jpg', '.png'))
     else:
         files = get_all_files()
 
