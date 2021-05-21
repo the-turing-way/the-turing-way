@@ -42,7 +42,7 @@ In the subsequent chapters, we describe different methods and tools for ensuring
 Every research has the capacity to generate change - this is the basis of discovery and progress. 
 Therefore, is necessary to consider in which way your investigation can generate an impact in other people's life and under which ethical and legal standards is conducted.
 
-A project has to be designed considering legal and ethical issues in every step: from the question formulation, data collection and analysis and the results and interpretation. 
+A project has to be designed considering legal and ethical issues in every step: from the question formulation, data collection and analysis to the results and interpretation. 
 It's important to ask yourself if your project is designed to be inclusive and sustainable, taking into account the implications an social expectations and following ethical principles and professional standards.
 
 Getting ethical and legal approval is a crucial step of the project, this way you can make sure your research is being conducted in a responsible and ethical manner.
