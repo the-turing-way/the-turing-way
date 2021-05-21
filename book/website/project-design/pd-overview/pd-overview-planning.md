@@ -43,7 +43,7 @@ Every research has the capacity to generate change - this is the basis of discov
 Therefore, it is necessary to consider how your investigation could generate an impact on other people's lives and under which ethical and legal standards it should be conducted.
 
 A project has to be designed considering legal and ethical issues in every step: from the question formulation, data collection and analysis to the results and interpretation. 
-It's important to ask yourself if your project is designed to be inclusive and sustainable, taking into account the implications an social expectations and following ethical principles and professional standards.
+It's important to ask yourself if your project is designed to be inclusive and sustainable, taking into account the implications and social expectations and following ethical principles and professional standards.
 
 Getting ethical and legal approval is a crucial step of the project, this way you can make sure your research is being conducted in a responsible and ethical manner.
 There are several ways in which a research ethics committee (RECs) proceeds, but there are five principal topics that the ethics committee might want to know about:
