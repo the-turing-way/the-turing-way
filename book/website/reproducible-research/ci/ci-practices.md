@@ -56,5 +56,3 @@ Checking for dependency updates should be done regularly. It can save a lot of t
 ### Consistency throughout the pipeline
 
 A project should be built once at the beginning of the pipeline, the resulting software should be stored and accessible to later processes without rebuilding. By using the exact same artefact in each phase, you can be certain that you are not introducing inconsistencies as a result of different build tools.
-
-Also, the environment defined by the `.travis.yml` file should reflect the actual environment the code is run in. If that environment is modified don't forget to update the `.travis.yml` file, otherwise the results Travis returns will not be trustworthy.
