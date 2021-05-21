@@ -34,7 +34,7 @@ Comprehensive information on data management is available in the chapter {ref}`R
 
 Thinking about which software, tools and platforms to use will greatly affect how you analyse and process data, as well as how you share your results.
 
-The idea is to facilitate others, and yourself, the set-up process to reproduce your research.
+The idea is to facilitate others, and yourself, recreating the set-up process necessary to reproduce your research.
 Some tools that can be used to enable these are the following:
 - **Dependency managers**: these keep dependencies updated and make sure the same version of dependencies you used in the development environment are used when reproducing a result.
 - **Containers**: are a way to create environments that are isolated from other applications.
