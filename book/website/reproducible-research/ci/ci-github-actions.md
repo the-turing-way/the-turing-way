@@ -13,12 +13,12 @@ GitHub Actions are event-driven, which means it responds to any event (Examples:
 
 ```{figure} ../../figures/Github_Actions.jpg
 ---
-width: 600px
+width: 700px
 align: center
 name: Github actions
-alt: _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
+alt: A diagram describing how GitHub action listen to an event (for example, `PR` created, issue created, PR merged) and then trigger a job which can be testing, sorting, labelling or deployment.
 ---
-A diagram describing GitHub action listen to an event (for example, `PR` created, issue created) and then trigger a job. It will be replaced with a new _The Turing Way_ project illustration by Scriberia.
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
 ```
 ### GitHub-related Vocabulary
 #### 1. WorkFlow
