@@ -347,7 +347,6 @@ where they have more meaningful names. Let's switch over to the ``big_data``
 branch:
 
 ```bash
-$ git stash                     # stash the state of your working directory
 $ git checkout big_data         # checkout the big_data branch
 ```
 
