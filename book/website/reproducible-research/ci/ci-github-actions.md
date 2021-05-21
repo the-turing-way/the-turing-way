@@ -9,14 +9,14 @@ This section will walk you through the basic setup of continuous integration (CI
 - Triggering code reviews and pull requests
 - Managing branches
 
-GitHub Actions are event-driven, which means it responds to any event (for example: pull request (PR) created, issue created) and triggers an action (for example adds a label, runs tests, sort). Any collection of these actions is called a workflow. A more detailed description of this GitHub-related Vocabulary is described in the next section.
+GitHub Actions are event-driven, which means it responds to any event (Examples: pull request (PR) created, issue created) and triggers an action (Examples: adds a label, runs tests, sort). Any collection of these actions is called a workflow. A more detailed description of this GitHub-related Vocabulary is described in the next section.
 
-```{figure} ../../figures/gih_action_diagrame.png
+```{figure} ../../figures/Github_Actions.jpg
 ---
 width: 400px
 align: center
 name: Github actions
-alt: a diagram describes GitHub action listen to an event (for example, `PR` created, issue created) and then trigger a job, which can be testing, labelling, sorting or other tasks .
+alt: _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
 ---
 A diagram describing GitHub action listen to an event (for example, `PR` created, issue created) and then trigger a job. It will be replaced with a new _The Turing Way_ project illustration by Scriberia.
 ```
@@ -35,7 +35,7 @@ On the left: _The Turing Way_ project illustration by Scriberia. Original versio
 
 #### 2. Job
 
-A  *job* is defined as a set of sequential steps run on the same runner. A workflow can build up of one or several jobs, and can be run either parallel (default) or sequentially.
+A **job** is defined as a set of sequential steps run on the same runner. A workflow can build up of one or several jobs, and can be run either parallel (default) or sequentially.
 
 
 #### 3. Step
