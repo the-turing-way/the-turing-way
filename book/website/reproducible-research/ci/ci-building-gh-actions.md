@@ -57,10 +57,11 @@ We can also separate the `build` and `test` functions of our workflow into more 
 
 jobs:
   build:
-  runs-on: ubuntu-latest
-  steps:
+    runs-on: ubuntu-latest
+    steps:
     - uses: actions/checkout@v2
   test:
+    steps:
     - name: npm install
       run: |
         npm install
