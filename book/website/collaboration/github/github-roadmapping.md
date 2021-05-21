@@ -42,7 +42,7 @@ The AutSPACEs project is a Citizen Science and Participatory Research project. T
 
 However, we will adress this technical barrier as our roadmap will include link to issues in the repositoty. To overcome this, we have planned to teach basic skills in GitHub, such as creating an account and accessing our issues list.
 
-**How we will keep it updated?**
+**How will we keep it updated?**
 
 One of the main issues with Roadmaps and similarly project plans, is the risk of them becoming out of date. This puts a strain on the project and it's community as it can cause confusion on where the project is and where it needs to go. 
 
