@@ -21,6 +21,8 @@
       file: reproducible-research/overview/overview-definitions
     - title: Added Advantages
       file: reproducible-research/overview/overview-benefit
+    - title: Barriers
+      file: reproducible-research/overview/overview-barriers
     - title: Checklist
       file: reproducible-research/overview/overview-checklist
     - title: Resources
@@ -204,8 +206,6 @@
       file: reproducible-research/make/make-appendix
   - title: Research Compendia
     file: reproducible-research/compendia
-  - title: Credit for Reproducible Research
-    file: reproducible-research/credit
   - title: Risk Assessment
     file: reproducible-research/risk-assess
     sections:
@@ -261,15 +261,26 @@
 
 - file: communication/communication
   sections:
-  - title: Community Communications for Open Source Projects
-    file: communication/os-comms
-    sections:
-    - title: Issue Tracking
-      file: communication/os-comms/os-comms-issue-tracking
-    - title: Communication Channels
-      file: communication/os-comms/os-comms-channels
-    - title: Further Reading
-      file: communication/os-comms/os-comms-resources
+    - title: Making Research Objects Citable
+      file: communication/citable
+      sections:
+        - title: Steps for Making Research Objects Citable
+          file: communication/citable/citable-steps
+        - title: Citing Research Objects
+          file: communication/citable/citable-cite
+        - title: ORCID to Collect your Research Objects
+          file: communication/citable/citable-orcid
+        - title: Checklist and Recommendations
+          file: communication/citable/citable-checklist
+    - title: Community Communications for Open Source Projects
+      file: communication/os-comms
+      sections:
+      - title: Issue Tracking
+        file: communication/os-comms/os-comms-issue-tracking
+      - title: Communication Channels
+        file: communication/os-comms/os-comms-channels
+      - title: Further Reading
+        file: communication/os-comms/os-comms-resources
 
 # ===== Collaboration Guide ========================================
 
@@ -366,6 +377,8 @@
       file: ethical-research/activism/activism-whistleblowing
     - title: Case study - Robodebt
       file: ethical-research/activism/activism-robodebt
+    - title: Case study - Google Workers
+      file: ethical-research/activism/activism-case-study-google.md
   - title: Internal Policy Advocacy
     file: ethical-research/activism-internal-policy
 
@@ -480,3 +493,5 @@
     file: afterword/bibliography
   - title: Contributors Record
     file: afterword/contributors-record
+  - title: Legal Disclaimer
+    file: afterword/legal-disclaimer

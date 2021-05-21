@@ -6,13 +6,16 @@ This event is organised for 1 to 1.5 days to allow attendees to learn about the 
 
 For many attendees, this is also the first time they get to contribute to a community-developed Open Source project.
 
-```{figure} ../figures/bookdash.png
+```{figure} ../figures/first_pull_request.png
 ---
 height: 400px
-name: bookdash
+name: first-pull-request
 alt: A person helping out another person making their first pull request on GitHub
 ---
-Making first pull request on GitHub. _The Turing Way_ project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3695300
+Making your first pull request on GitHub.
+_The Turing Way_ project illustration by Scriberia.
+Used under a CC-BY 4.0 licence.
+DOI: [10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
 ```
 
 ## Inviting diverse contributions
