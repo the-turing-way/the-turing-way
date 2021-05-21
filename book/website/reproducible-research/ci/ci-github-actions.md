@@ -40,7 +40,7 @@ A  *job* is defined as a set of sequential steps run on the same runner. A workf
 
 #### 3. Step
 
-A **step** represents one effect of the automation. A step could be defined as a GitHub Action, or another unit, like printing something to the console.
+A **step** represents one individual task. A step could be either an action or another command unit, like running a Python script or printing something to the console.
 
 #### 4. Actions
 
