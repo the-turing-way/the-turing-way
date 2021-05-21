@@ -32,7 +32,7 @@ Although publications{cite}`Turkyilmaz-vanderVelden2020projectdesign` and _The T
 In this chapter, we have curated essential practices and recommendations and linked them to individual chapters across different guides.
 
 ```{note}
-There are many chapters that we don't link here to avoid cognition load for readers who are new to reproducible project design.
+There are many chapters that we don't link here to avoid overwhelming readers who are new to reproducible project design.
 We invite you to contribute to this chapter by adding important tools or practices that have not been mentioned here.
 ```
 
