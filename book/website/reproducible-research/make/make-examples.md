@@ -238,7 +238,7 @@ output/report.pdf: report/report.tex output/figure_1.png output/figure_2.png
 
 clean:
 	rm -f output/report.pdf
-	rm -f output/figure_*.pdf
+	rm -f output/figure_*.png
 ```
 
 Phony targets are also useful when you want to use Make recursively. In that
@@ -287,7 +287,7 @@ output/report.pdf: report/report.tex output/figure_1.png output/figure_2.png
 
 clean:
 	rm -f output/report.pdf
-	rm -f output/figure_*.pdf
+	rm -f output/figure_*.png
 ```
 
 We've replaced the input and output filenames in the recipes respectively by
@@ -323,7 +323,7 @@ output/report.pdf: report/report.tex output/figure_1.png output/figure_2.png
 
 clean:
 	rm -f output/report.pdf
-	rm -f output/figure_*.pdf
+	rm -f output/figure_*.png
 ```
 
 The ``%`` symbol is now a wildcard that (in our case) takes the value ``1`` or
