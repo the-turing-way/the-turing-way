@@ -23,7 +23,7 @@ A diagram describing GitHub action listen to an event (for example, `PR` created
 ### GitHub-related Vocabulary
 #### 1. WorkFlow
 
-**The workflow** is a unit of automation from start to finish. It consists of all the aspects which should be taken into account during the automation including what event can trigger the automation. The workflow can be used to build, test, package, release, or deploy a project on GitHub. It is made of multiple jobs which is formed from steps as shown in the image below.
+**The workflow** is a unit of automation from start to finish. It consists of all the aspects which should be taken into account during the automation including what event can trigger the automation. The workflow can be used to build, test, package, release, or deploy a project on GitHub. It is made of multiple jobs which is formed from steps as shown in the overview diagram below.
 
 ```{figure} ../../figures/ci-01.png
 ---
