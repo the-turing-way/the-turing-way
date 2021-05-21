@@ -35,7 +35,8 @@ On the left: _The Turing Way_ project illustration by Scriberia. Original versio
 
 #### 2. Job
 
-**A job** is a section of the workflow, and is made up of one or more steps. In this section of our workflow, the template defines the steps that make up the build job.
+A  *job* is defined as a set of sequential steps run on the same runner. A workflow can build up of one or several jobs, and can be run either parallel (default) or sequentially.
+
 
 #### 3. Step
 
