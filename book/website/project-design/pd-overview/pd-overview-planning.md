@@ -39,7 +39,7 @@ In the subsequent chapters, we describe different methods and tools for ensuring
 (pd-overview-planning-ethics)=
 ## Getting Ethical and Legal Approval
 
-Every research has the capacity to generate change - these are the basis of discovery and progress. 
+Every research has the capacity to generate change - this is the basis of discovery and progress. 
 Therefore, is necessary to consider in which way your investigation can generate an impact in other people's life and under which ethical and legal standards is conducted.
 
 A project has to be designed considering legal and ethical issues in every step: from the question formulation, data collection and analysis and the results and interpretation. 
