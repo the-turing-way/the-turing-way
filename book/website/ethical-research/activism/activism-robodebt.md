@@ -1,7 +1,7 @@
 (er-activism-robodebt)=
 # Case Study: Tackling Robodebt
- 
-```{figure} ../../figures/robodebt.jpg
+
+```{figure} ../../figures/robo_debt.jpg
 ---
 name: robodebt
 alt: Illustration of automated decision-making disproportionately affecting low-income communities.
@@ -9,12 +9,12 @@ alt: Illustration of automated decision-making disproportionately affecting low-
 _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```
 
-The Australian Online Compliance Initiative (OCI - dubbed the 'robodebt' debacle by media) involved a large-scale data matching project between the Federal Tax Office and the Department of Human Services. 
+The Australian Online Compliance Initiative (OCI - dubbed the 'robodebt' debacle by media) involved a large-scale data matching project between the Federal Tax Office and the Department of Human Services.
 The automated system sending out debt notices based on this data matching exercise was set up at scale quite quickly resulting in disproportionate impact on those with low socioeconomic status.
 
 Some of the attempts at resisting these automated debt calls, very cleverly imitated the automated architecture of the Online Compliance Initiative.
-Activist organizations collaborated with legal aid groups to set up formal appeals processes. 
-GetUp! created an automated appeal template through a campaign called FraudStop where someone on welfare benefit can challenge the debt claim raised against them by entering a few details, explaining why they want to appeal, and hitting send. 
+Activist organizations collaborated with legal aid groups to set up formal appeals processes.
+GetUp! created an automated appeal template through a campaign called FraudStop where someone on welfare benefit can challenge the debt claim raised against them by entering a few details, explaining why they want to appeal, and hitting send.
 The system compiles a formal request for review, prints it off, and sends it by post to Centrelink, the frontline social services delivery agency. It also:
 
 * Asks their local MP for assistance — as this could really speed up the process.
@@ -23,7 +23,7 @@ The system compiles a formal request for review, prints it off, and sends it by 
 * The campaign is archived here: [link](https://fraudstop.com.au/) and here [link](https://www.getup.org.au/campaigns/income-support/chip-in-to-expand-fraudstop/)
 
 
-## Further Reading 
+## Further Reading
 A September 2020 report by Michele Gilman at the Data and Society Research Institute draws on existing public law frameworks to provide guidance to lawyers on how to challenge automated decision making that disproportionately harms low income communities.
 
 POVERTYLAWGORITHMS: A Poverty Lawyer’s Guide to Fighting Automated Decision-Making Harms on Low-Income Communities
