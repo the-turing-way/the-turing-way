@@ -5,7 +5,7 @@ Designing a project starts by defining your research question and the methodolog
 When thinking about the methodology is necessary to think about how to make your research {ref}`open<rr-open>` and {ref}`reproducible<rr-overview>`:
 - How you are going to collect the data.
 - What analysis will be used.
-- Which tools and infrastructure is needed.
+- Which tools and infrastructure are needed.
 
 (pd-overview-methods-license)=
 ## Choose a License
