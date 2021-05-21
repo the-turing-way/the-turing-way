@@ -46,7 +46,7 @@ To learn more about how to create a reproducible environment, the chapter on {re
 (pd-overview-methods-docs)=
 ## Documenting the Design of your Study
 
-After you have decided how to collect your data, analyze it and which tools to use, a good way to document is by writing a Registered Report.
+After you have decided how to collect your data, analyze it and which tools to use, a good way to document these decisions is by writing a Registered Report.
 
 A Registered Report highlights the importance of the research question and the methods that will be used. They are peer-reviewed before the research, switching the focus of the review from the results to the substance of the research methods.
 
