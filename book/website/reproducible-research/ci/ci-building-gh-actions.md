@@ -1,6 +1,6 @@
 # Building a Block of a Github Actions
 
-As described previously, workflow files use YAML syntax, which has either a `.yml` or `.yaml` file extension. If you're new to YAML and want to learn more, {ref}`see our section about YMAL<rr-renv-yaml>`. This workflow must be stored in the `.github/workflows` directory of your repository.
+As described previously, workflow files use YAML syntax, which has either a `.yml` or `.yaml` file extension. If you're new to YAML and want to learn more, {ref}`see our section about YMAL<rr-renv-yaml>`. This workflow files must be stored in the `.github/workflows` directory of your repository.
 
 Each workflow is defined in a separate YAML. We will introduce the building block of a workflow using Hello World Example:
 
@@ -27,7 +27,7 @@ name:
 
 **2. on**
 
-The `on` field tells GHA when to run. For example, we can run the workflow anytime there's a `push` or a `pull`.
+The `on` field tells GHA when to run. For example, we can run the workflow anytime there's a `push` or a `pull` on the `master` branch.
 ```
 on:
   push:
