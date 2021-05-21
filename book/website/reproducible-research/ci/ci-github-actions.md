@@ -13,7 +13,7 @@ GitHub Actions are event-driven, which means it responds to any event (Examples:
 
 ```{figure} ../../figures/Github_Actions.jpg
 ---
-width: 400px
+width: 600px
 align: center
 name: Github actions
 alt: _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
