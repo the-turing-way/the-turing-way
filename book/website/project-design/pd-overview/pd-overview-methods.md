@@ -32,7 +32,7 @@ Comprehensive information on data management is available in the chapter {ref}`R
 (pd-overview-methods-comprepro)=
 ## Computational Reproducibility
 
-Thinking about which software, tools and platforms to use will affect greatly how you analyse and process data, as well as how you share your results.
+Thinking about which software, tools and platforms to use will greatly affect how you analyse and process data, as well as how you share your results.
 
 The idea is to facilitate others, and yourself, the set-up process to reproduce your research.
 Some tools that can be used to enable these are the following:
