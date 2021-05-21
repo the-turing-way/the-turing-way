@@ -33,14 +33,14 @@ In this section, the benefits and considerations of designing a repository will 
 - Communication - a means of sharing your work 
 - Others can build on your work! 
 
-= creating an infrastructure for ethical, open and high quality research from the get go :tada: 
+= creating an infrastructure for ethical, open and high quality research from the get go
 
 ## Main considerations
 - Include a README file, detailing _what_ the repository is for and _how_ to navigate it 
 - General structure should separate input (data), methods (scripts) and output (results, figures, manuscript)
 - Specify what shouldn't be tracked in the .gitignore file, such as data
-- Think about whether a {ref}license<rr-licensing>  is needed  
-- Include information on your computational environment _link to text_ to ensure reproducibility (this can also be specified in the README)
+- Think about whether a {ref}`license<rr-licensing>`  is needed  
+- Include information on your computational environment {ref}`Reproducible Environments<rr-renv>` to ensure reproducibility (this can also be specified in the README)
 
 ## Example Repository Structure 
 #### Simple research project example:
