@@ -283,8 +283,8 @@
     - title: Resources
       file: communication/wa-comms/wa-comms-resources
   - title: Making Research Objects Citable
-      file: communication/citable
-      sections:
+    file: communication/citable
+    sections:
       - title: Steps for Making Research Objects Citable
         file: communication/citable/citable-steps
       - title: Citing Research Objects
@@ -293,9 +293,9 @@
         file: communication/citable/citable-orcid
       - title: Checklist and Recommendations
         file: communication/citable/citable-checklist
-    - title: Community Communications for Open Source Projects
-      file: communication/os-comms
-      sections:
+  - title: Community Communications for Open Source Projects
+    file: communication/os-comms
+    sections:
       - title: Issue Tracking
         file: communication/os-comms/os-comms-issue-tracking
       - title: Communication Channels
