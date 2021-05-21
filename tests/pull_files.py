@@ -63,7 +63,7 @@ def filter_files(pr_num, start_phrase="book/website", ignore_suffix=None):
         ignore_suffix = ()
 
     for filename in files:
-        if filename.startswith(start_phrase) and filename.endswith(ignore_suffix):
+        if filename.startswith(start_phrase) and not filename.endswith(ignore_suffix):
             filtered_files.append(filename)
 
     return filtered_files
