@@ -30,7 +30,7 @@ A diagram describing GitHub action listen to an event (for example, `PR` created
 name: ContinuousIntegration-Nov20
 alt: An illustration of how continuous integration works with multiple jobs and actions working alongside each other to feed into an illustration of steps to show merging into the main version.
 ---
-On the left: _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. On the right: Overview of the most important concepts of GitHub Actions, adapated from [morioh.com](https://morioh.com/p/aadcfe6cac57).
+On the left: _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. On the right: Overview diagram of the most important concepts of GitHub Actions, adapated from [morioh.com](https://morioh.com/p/aadcfe6cac57).
 ```
 
 #### 2. Job
