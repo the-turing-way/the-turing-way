@@ -33,7 +33,7 @@ In this chapter, we have curated essential practices and recommendations and lin
 
 ```{note}
 There are many chapters that we don't link here to avoid cognition load for readers who are new to reproducible project design.
-We invite you to contribute to this chapter to add important tools or practices that have not been mentioned here.
+We invite you to contribute to this chapter by adding important tools or practices that have not been mentioned here.
 ```
 
 In the different subchapters we discuss how you can {ref}`start planning<pd-overview-planning>` for project design, the {ref}` communication and collaboration<pd-overview-repro>` aspect for ensuring reproducibilty, {ref}`tools and methods<pd-overview-methods>` for reproducibility, {ref}`version control and documentation<pd-overview-version>` aspects and {ref}`sharing your research<pd-overview-sharing>`.
