@@ -6,7 +6,7 @@ This event is organised for 1 to 1.5 days to allow attendees to learn about the 
 
 For many attendees, this is also the first time they get to contribute to a community-developed Open Source project.
 
-```{figure} ../figures/first-pull-request.png
+```{figure} ../figures/first_pull_request.png
 ---
 height: 400px
 name: first-pull-request

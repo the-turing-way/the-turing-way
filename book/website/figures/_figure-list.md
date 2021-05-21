@@ -4,6 +4,8 @@
 
 | Filename                   | Chapter                   | Description                                       |
 | -------------------------- | ------------------------- | ------------------------------------------------- |
+| alt_text_demo              | Style guide        | Demonstration of alt text showing when figure doesn't render |
+| barriers_reproducibility   | Reproducible research overview | Slide from a presentation highlighting barriers to reproducible research |
 | binder_comic               | Reproducible environments | Cartoon showing using binder to share research    |
 | binder_home                | Reproducible environments | Home screen of an example binder                  |
 | binder_notebook            | Reproducible environments | Interacting with an example binder via a notebook |
@@ -23,11 +25,12 @@
 | eyeball_test_2             | Testing                   | Results tested by seeing if they 'look right'     |
 | eyeball_test_3             | Testing                   | Results tested by seeing if they 'look right'     |
 | eyeball_test_error         | Testing                   | Bug detected by result 'looking wrong'            |
-| first-pull-request         | Style guide               | Two people making a first pull request on GitHub |
+| file_collection            | Style guide               | Two people looking in an organised filing cabinet smiling and giving a thumbs up |
+| first_pull_request         | Style guide               | Two people making a first pull request on GitHub |
 | flipped_taj_mahal          | Version control           | Upside down taj mahal to confuse people           |
-| help-you-of-the-future     | Reproducible research overview | A woman passing documentation to another version of herself |
+| help_you_of_the_future     | Reproducible research overview | A woman passing documentation to another version of herself |
 | master_branch              | Version control           | Illustrates commits on master branch              |
-| make-ok-to-be-human        | Reproducible research overview | A woman looking worried that she has made a mistake |
+| make_ok_to_be_human        | Reproducible research overview | A woman looking worried that she has made a mistake |
 | mybinder_gen_link          | Reproducible environments | What the page to generate binder links looks like |
 | one_branch                 | Version control           | Illustrates version control master + one branch   |
 | open_access_citations      | Open research             | Impact of openness on citation count              |
