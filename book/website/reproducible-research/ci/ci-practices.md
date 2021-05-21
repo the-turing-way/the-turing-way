@@ -1,4 +1,4 @@
-# Best practices
+# Best Practices and Recommendations
 
 ```{figure} ../../figures/continuous-integration-may19.jpg
 ---
@@ -10,17 +10,12 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 ## Table of contents
 
-- [Best practise for continuous integration](#Best_practise_for_continuous_integration)
   - [Small, iterative changes](#Small_iterative_changes)
   - [Trunk-based development](#Trunk_based_development)
   - [Keep the building and testing phases fast](#Keep_the_building_and_testing_phases_fast)
   - [Computational expense](#Computational_expense)
   - [Dependencies tracking](#Dependencies_tracking)
   - [Consistency throughout the pipeline](#Consistency_throughout_the_pipeline)
-
-
-<a name="Best_practise_for_continuous_integration"></a>
-## Best practise for continuous integration
 
 <a name="Small_iterative_changes"></a>
 ### Small, iterative changes
