@@ -36,7 +36,7 @@ Thinking about which software, tools and platforms to use will greatly affect ho
 
 The idea is to facilitate others, and yourself, the set-up process to reproduce your research.
 Some tools that can be used to enable these are the following:
-- **Dependency managers**: it keeps dependencies updated and makes sure the same version of dependencies you used in the developing environment is used when reproducing a result.
+- **Dependency managers**: these keep dependencies updated and make sure the same version of dependencies you used in the development environment are used when reproducing a result.
 - **Containers**: are a way to create environments that are isolated from other applications.
 - **Notebooks**: a useful online environment where you can execute your scripts, and easily add notes and additional information.
 The added advantage is that you won't need to install anything.
