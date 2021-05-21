@@ -81,7 +81,7 @@ Project design will allow you to manage your work well for yourself (see the sec
 
 A little work and time investment early on in project design saves a lot of time later when any circumstances that demand change.
 It is really hard for a project to move from practices that were designed for one person to practices that work for a team.
-Therefore, it is essential to document and use practices that will enable collaboration if an when you have to involve others in your project.
+Therefore, it is essential to document and use practices that will enable collaboration if and when you have to involve others in your project.
 Considering good team practices even for a project run by an individual makes it easy for them to effectively accomplish their goals.
 For example, you can define goals in your project and identify tasks by asking questions like: 
 how can my work be split, how will it be reviewed, how will decisions be made, and so on.
