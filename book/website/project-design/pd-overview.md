@@ -3,8 +3,9 @@
 
 ## Summary
 
-Project design techniques can help researchers clearly communicate their project plan, requirements, available resources and everything else that ensures that they can efficiently work together at all stages of research, apply research principles for reproducibility and communicate their work effectively.
-A project design requires managers and organisers to be deliberate and clear about their plans from the beginning of their projects to ensure successful implementation of their plan at all stages of research.
+Project design techniques can help researchers clearly identify and communicate their project goals, skill requirements and resource available to them.
+It ensures that all stakeholders can work together efficiently, apply reproducibility methods and communicate their work effectively with their target audience.
+A project design requires project leads, managers and organisers to be deliberate and clear about their expectations from the beginning of their projects to ensure successful implementation of their plans at all stages of research.
 
 ```{figure} ../figures/ResearchCycle.jpg
 ---
