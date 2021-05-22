@@ -73,6 +73,8 @@ We asked a group of researchers to share what they consider their project design
 - Defining governance at different stages of the project or potential scenario planning for how governance might change as the project scales up/down/gains new users and so on.
 - Not thinking about community from the start, starting with a Code of Conduct, thinking about a Contributor License Agreement (intellectual property), what processes will be used and how they will work, how they will impact future contributors and the overall project.
 
+### Preparing for Change
+
 ```{note}
 **I work alone, do I need to think about project design?**
 
@@ -80,6 +82,8 @@ The short answer is 'yes'.
 Project design will allow you to manage your work well for yourself (see the section: {ref}`Getting Started<pd-overview-planning-started>`).
 
 A little work and time investment early on in project design saves a lot of time later when any circumstances that demand change.
+```
+
 It is really hard for a project to move from practices that were designed for one person to practices that work for a team.
 Therefore, it is essential to document and use practices that will enable collaboration if and when you have to involve others in your project.
 Considering good team practices even for a project run by an individual makes it easy for them to effectively accomplish their goals.
@@ -90,6 +94,5 @@ Learn how [agile methodologies](http://www.agilenutshell.com/) help adapt to cha
 Project design would not ensure that everything will always go as planned or there will be no unexpected challenges.
 However, it helps prepare in advance for risk management and adapt to changes better.
 Also see [The cost of change curve](http://www.agilemodeling.com/essays/costOfChange.htm) in the context of Software Engineering.
-```
 
 _This chapter summarises participants' notes from a short workshop called "Good Practices for Designing Software Development Projects (The Turing Way)" at the [Collaboration Workshop 2021](https://www.software.ac.uk/cw21)  hosted by [Software Sustainability Institute](https://www.software.ac.uk). The workshop was delivered by Malvika Sharan, Emma Karoune and Batool Almarzouq on 31 March 2021. You can  Zenodo. [DOI: [10.5281/zenodo.4650221](https://doi.org/10.5281/zenodo.4650221)._
