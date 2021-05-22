@@ -1,11 +1,11 @@
 (ch-coc-enforcement)=
-# 4 Enforcement Manual
+# Enforcement Manual
 
 This is the enforcement manual followed by the Turing Way project research team.
 It's used when we respond to an issue to make sure we're consistent and fair.
 Enforcement of the Code of Conduct should be respectful and not include any harassing behaviours.
 
-## 4.1 The Code of Conduct Committee
+## The Code of Conduct Committee
 
 The Code of Conduct committee is:
 
@@ -15,7 +15,7 @@ The Code of Conduct committee is:
 
 As the community grows, we will seek to build a larger committee including members outside of the core development team.
 
-## 4.2 Urgent Situations: Acting Unilaterally
+## Urgent Situations: Acting Unilaterally
 
 If the incident involves physical danger, or involves a threat to anyone's safety (such as threats of violence), any member of the community may -- and should -- act unilaterally to protect the safety of any community member.
 This can include contacting law enforcement (or other local personnel) and speaking on behalf of the Turing Way team.
@@ -25,7 +25,7 @@ In ongoing situations, any member may at their discretion employ any of the tool
 
 In situations where an individual community member acts unilaterally, they must inform Kirstie Whitaker as soon as possible, and report their actions for review within 24 hours.
 
-## 4.3 Less-Urgent Situations
+## Less-Urgent Situations
 
 Upon receiving a report of an incident, the CoC committee will review the incident and determine, to the best of their ability:
 
@@ -43,7 +43,7 @@ The "de-anonymising key" will be kept in a separate file and only accessed to li
 The CoC committee will aim to have a resolution agreed upon within one week.
 In the event that a resolution can't be determined in that time, a member of the CoC committee will respond to the reporter(s) with an update and projected timeline for resolution.
 
-## 4.4 Resolutions
+## Resolutions
 
 The CoC committee will seek to agree on a resolution by consensus of all members investigating the report in question.
 If the committee cannot reach consensus and deadlocks for over a week, Dr Whitaker, as lead investigator of the Turing Way project, will break the tie.
@@ -71,6 +71,6 @@ Once a resolution is agreed upon, but before it is enacted, a member of the CoC 
 The CoC committee member will ask if this resolution is acceptable, and must note feedback for the record.
 However, the CoC committee is not required to act on this feedback.
 
-## 4.5 Conflicts of Interest
+## Conflicts of Interest
 
 In the event of any conflict of interest such that Dr Whitaker is not able to evaluate or enforce the reported violation, Ben Murton will take Kirstie's place.
