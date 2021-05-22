@@ -57,7 +57,7 @@ We asked a group of researchers to share what they consider their project design
 - Not communicating the project vision clearly/often enough to the other team members.
 - Not ensuring that all stakeholders were fully aware of the nature of the project.
 - Not understanding that project design is about people first. Designs motivate stakeholders and allow collaboration and inclusion.
-- I guess I wrote these as actions I wish I had done better - Setting short- and long-term milestones, communicating and enforcing norms for collaborator engagement, delegating work and project management tasks.
+- I guess I wrote these as actions I wish I had done better - Not setting short- and long-term milestones, communicating and enforcing norms for collaborator engagement, delegating work and project management tasks.
 - Not having documentation besides final reports. When being asked the code or dataset (raw and process), step by step process from preparing data to getting the results, lack of documented guidance in one places made it hard to trace the project with all team members (classic problem).
 - Not properly taking into account the degree to which requirements will change throughout a project - which happens a lot in academia - and the effect this has on designs that then also need to change.
 - Trying to plan too much at the beginning and never getting started.
@@ -69,7 +69,7 @@ We asked a group of researchers to share what they consider their project design
 - Not doing code reviews.
 - Not defining use scenarios for the software from the beginning, meaning we didn’t pay enough attention to data input and output.  
 - Agonising too long before switching to objectively better design (particularly translating from a largely functional codebase to more object-oriented)    
-- Going with options that team members are ‘comfortable’ with rather than teaching team members new skill. For example, using outdated languages or platform-dependent compilers  Makes life more difficult in the long run.
+- Going with options that team members are ‘comfortable’ with rather than teaching team members best practices skill. For example, it is not a good idea to use outdated languages or platform-dependent compilers, which makes life more difficult in the long run.
 - Defining governance at different stages of the project or potential scenario planning for how governance might change as the project scales up/down/gains new users and so on.
 - Not thinking about community from the start, starting with a Code of Conduct, thinking about a Contributor License Agreement (intellectual property), what processes will be used and how they will work, how they will impact future contributors and the overall project.
 
