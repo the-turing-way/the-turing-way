@@ -1,6 +1,7 @@
+<a name="General_guidance_and_good_practice_for_testing"></a>
 # General guidance and good practice for testing
 
-There are a number of of testing which each have best practice specific to them. Nevertheless there is some general guidance that applies to all of them, which will be outlined here.
+There are several [different kinds](#Types_of_tests) of testing which each have best practice specific to them. Nevertheless, there is some general guidance that applies to all of them, which will be outlined here.
 
 ## Write Tests - Any Tests!
 
