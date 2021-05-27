@@ -42,7 +42,7 @@ The following is a suggested check-list for meta-data to include when researcher
    - surgical procedures involved, if any
    - if stimuli were used, how were the stimuli generated?
    - how timings of stimuli, recordings, and any other events in the experiment were correlated and/or synchronized
- - Known caveats about the use of the data (i.e. identified artifacts)
+ - Known caveats about the use of the data (for example: identified artifacts)
  - links to publications
  - tools and procedures used to save, archive, transport, process, analyse, and visualize the data (see section on Data Provenance)
 
@@ -52,5 +52,5 @@ The word "[provenance](https://en.wikipedia.org/wiki/Provenance)" refers to the 
 
 **Data provenance** refers to the chronology of origin, ownership, custody, location, and changes made to a dataset. This documentation would ideally involve the following milestones:
  - **"Raw" dataset**: this version of the dataset is what was actually collected during the experiment. Ideally the "raw" dataset can be verified to guarantee that it has not been changed or otherwise tampered with since the date/time of initial data collection. 
- - In some cases, the raw dataset will not be suitable for sharing online (confidential info, videos/photos that can identify individuals, animal research procedures that the general public may find disturbing, etc). In these cases, it would be ideal to include a "nearly raw" dataset that is as close to the "raw" dataset as possible while respecting confidentiality and diverse sensitivities towards invasive research. 
+ - In some cases, the raw dataset will not be suitable for sharing online (for example: confidential info, videos/photos that can identify individuals, animal research procedures that the general public may find disturbing). In these cases, it would be ideal to include a "nearly raw" dataset that is as close to the "raw" dataset as possible while respecting confidentiality and diverse sensitivities towards invasive research. 
  - **Processed datasets**: these next versions of the dataset are filtered for ease of analysis, communication, or specific application. Each processed version of the dataset should describe the tools and procedures used to process the raw dataset and create the processed dataset. The description should be detailed enough to allow any user to recreate the processed datasets from the original raw or "nearly raw" dataset. 
