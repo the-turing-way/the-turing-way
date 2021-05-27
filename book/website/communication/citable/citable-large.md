@@ -36,9 +36,9 @@ The following is a suggested check-list for meta-data to include when researcher
  - Description of experimental conditions, ideally a fully descriptive data collection protocol
    - date and time of data collection
    - researchers involved in data collection
-   - species, age, sex, etc of experiment participants/subjects
+   - species, age, sex, and so on, of experiment participants/subjects
    - housing conditions / home context of experiment participants/subjects
-   - tools and techniques used to collect data (electrode type, video camera model, tissue staining technique, microphone type, etc)
+   - tools and techniques used to collect data (electrode type, video camera model, tissue staining technique, microphone type, and so on)
    - surgical procedures involved, if any
    - if stimuli were used, how were the stimuli generated?
    - how timings of stimuli, recordings, and any other events in the experiment were correlated and/or synchronized
