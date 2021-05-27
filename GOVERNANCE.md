@@ -33,6 +33,8 @@
 Our barrier for entry to the [list of contributors](README#contributors) is very low.
 If you have contributed in any of the ways above then please ask one of the core team to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list.
 
+Please read the chapter on 'Acknowledging Contributors' in the community handbook that provides details on how we acknowledge different contributions made in this project.
+
 ***Thank you for contributing!*** :sparkling_heart::raised_hands::tada:
 
 ### Authorship on the Turing Way
