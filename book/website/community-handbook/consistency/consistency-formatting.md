@@ -59,6 +59,7 @@ In addition, content like YouTube videos and tables with headers that span multi
 
 _The Turing Way_ has a [book-wide stylesheet](https://github.com/alan-turing-institute/the-turing-way/blob/master/book/website/_static/book-stylesheet.css) that controls the look of content written in `HTML`. 
 If you include `HTML` in your contribution, ensure that your formatting includes the relevant classes and IDs from the stylesheet.
+
 For example, if you want to add a YouTube video to your content using the `<iframe>` tag, wrap the `<iframe>` in a `<div>` tag, and give the `div` a `video-container` class as shown below.
 
 ```
@@ -68,7 +69,8 @@ For example, if you want to add a YouTube video to your content using the `<ifra
 
 ```
 
-````
+This is also described in the {ref}`Style Guide<ch-style-custom-styling-videos>.
+
 
 #### Demo
 
