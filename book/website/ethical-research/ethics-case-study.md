@@ -35,7 +35,7 @@ It is just worth making sure that past descriptions of the project are updated w
 
 A more robust response to this question will also explain how the project fits within the wider goals, challenges, and objectives of your institution.
 In the case of charities, reference to your institution's "charitable objects" will be important.
-See [gov.uk](https://www.gov.uk/government/publications/example-charitable-objects) for example charitable objects.
+See [GOV.UK](https://www.gov.uk/government/publications/example-charitable-objects) for example charitable objects.
 
 To respond to this question, provide:
 1. Detailed objectives of your project;
