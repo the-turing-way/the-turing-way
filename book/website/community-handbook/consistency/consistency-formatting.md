@@ -59,14 +59,7 @@ In addition, content like Youtube videos and tables with headers that span multi
 
 _The Turing Way_ has a [book-wide stylesheet](https://github.com/alan-turing-institute/the-turing-way/blob/master/book/website/_static/book-stylesheet.css) that controls the look of content written in `HTML`. 
 If you include `HTML` in your contribution, ensure that your formatting includes the relevant classes and IDs from the stylesheet.
-For example, if you want to add a Youtube video to your content using the `<iframe>` tag, wrap the `<iframe>` in a `<div>` tag, and give the `div` a `video-container` class as shown below.
-
-```
-<div class="video-container">
-    <iframe>....</iframe>
-</div>
-
-```
+For example, if you want to add a Youtube video to your content using the `<iframe>` tag, wrap the `<iframe>` in a `<div>` tag, and give the `div` a `video-container` class, as described in the [Style Guide](https://the-turing-way.netlify.app/community-handbook/style/style-custom-styling.html#videos).
 
 ````
 
