@@ -3,7 +3,7 @@
 ```{figure} ../../figures/ContinuousIntegration.jpg
 ---
 name: ContinuousIntegration
-alt: Illustration of continuous integration showing the lifecycle of continuous integration to plan, create and incorporate changes and updates to data. 
+alt: Illustration of continuous integration showing the lifecycle of continuous integration to plan, create and incorporate changes and updates to data. The image shows these four steps in the lifecycle arranged in a circle and connected by arrows.
 ---
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
 ```
