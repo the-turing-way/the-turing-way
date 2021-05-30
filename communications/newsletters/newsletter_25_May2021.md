@@ -15,7 +15,7 @@ Find more details on these topics and more updates from the community below 👇
 
 ![image shows a hand holding a smartphone with a map that is marked with milestones 1,2 and 3. This phone app analogy is helpful to understand milestones and project roadmaps in research](images/2021-05-roadmap-1.png)
 
-*This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence. DOI [10.5281/zenodo.3332807](10.5281/zenodo.3332807). *
+*This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence. DOI [10.5281/zenodo.3332807](10.5281/zenodo.3332807).*
 
 ### Getting Started with *The Turing Way*
 
@@ -88,12 +88,13 @@ Application review was carried out using the rubrics described [here](https://th
 
 ### Book Dash Planning Committee
 
-This event could not have happened without the valuable work by our first Planning Committee members: Arielle Bennett, Batool Almarzouq, Brigitta Sipőcz, Carlos Martinez-Ortiz, Emma Karoune, Esther Plomp and Laura Carter
+This event could not have happened without the valuable work of our first Planning Committee members: Arielle Bennett, Batool Almarzouq, Brigitta Sipőcz, Carlos Martinez-Ortiz, Emma Karoune, Esther Plomp and Laura Carter
 They provided useful input during the planning and mentored new contributors.
 These members were invited to join the committee as they had attended previous Book Dash events and had sent an application expressing their interests to mentor new contributors.
 Malvika Sharan and Kirstie Whitaker were involved to ensure that everything required for this event to run successfully were in place and attended the event as participants as the committee members took charge of hosting the development and discussion sessions during the Book Dash week.
 
 ![Tweet by The Turing Way account saying “THANK YOU to our wonderful planning committee members Arielle Bennett, Batool Al Marzouq, Brigitta Sipocz, Emma Karoune, Esther Plomp and Laura Carter for their thoughtful inputs & creating a supportive environment for everyone to work - & Carlos Martinez and Pablo Rodriguez Sanchez for representing Netherlands eScience Center.”](images/2021-05-planningcommittee-4.png)
+
 *[Tweet](https://twitter.com/turingway/status/1395817008353120257?s=20) thanking the Book Dash Planning Committee members*
 
 ### Resources from the Book Dash May 2021
@@ -104,11 +105,11 @@ Our Book Dash attendees worked on multiple chapters and project ideas that we ha
   * “[Legal Disclaimer](https://the-turing-way.netlify.app/afterword/legal-disclaimer.html)” by Laura Carter explaining where can readers find legal advice so that they do not consider any part of *The Turing Way* book as a legal guide. 
   * Malvika and Esther reorganised a chapter “[Making Research Objects Citable](https://the-turing-way.netlify.app/communication/citable.html#)”,  previously listed under the Guide for Reproducible Research.
   * Kirstie Whitaker wrote a chapter on “[Barriers to Reproducibility](https://the-turing-way.netlify.app/reproducible-research/overview/overview-barriers.html)” describing what challenges researchers face in their research when planning to apply practices for reproducibility.
-  * Arielle Bennett updated the chapter “[Activism for Researchers](https://the-turing-way.netlify.app/ethical-research/activism.html)” with the contributions from Bruno Camino. 
+  * Arielle Bennett updated the chapter “[Activism for Researchers](https://the-turing-way.netlify.app/ethical-research/activism.html)” with the contributions of Bruno Camino. 
 
-![Image shows a group of researchers holding a banner that says “advocacy”. One person is signing up to join and others are walking/wheeling forward.](images/2021-05-advocacy-05.png)
+![Image shows a group of researchers holding a banner that says “advocacy”. One person is signing up to join and others are walking/wheeling forward.](images/2021-05-advocacy-5.png)
 
-*This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence. DOI [10.5281/zenodo.3332807](10.5281/zenodo.3332807). *
+*This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence. DOI [10.5281/zenodo.3332807](10.5281/zenodo.3332807).*
 
 * Draft for chapters inviting contributions and reviews:
   * Esther wrote a chapter on linking code and data to publication in [PR #1942](https://github.com/alan-turing-institute/the-turing-way/pull/1942/files).
@@ -124,13 +125,14 @@ This is a comprehensive chapter describing different ways for ensuring scientifi
   * Lotty Coupat, community manager of AutSPACEs, added a case study from her project to the subchapter on project road mapping.
 See [PR #1941](https://github.com/alan-turing-institute/the-turing-way/pull/1941). 
   * Andrei is revising the chapter on risk assessment to make sure that it is relatable for researchers beyond software engineers.
-See [PR #]().
- * Prompted by the discussions in the Community Share-outs, Danny Garside is suggesting changes in the landing page to help ensure that the readers can use the book as a knowledge base and not attempt to read it from the beginning to end.
+See [PR #1928](https://github.com/alan-turing-institute/the-turing-way/pull/1928).
+ * Prompted by the discussions in the Community Share-outs, Danny Garside is suggesting changes in the landing page to help ensure that the readers can use the book as a knowledge base and not attempt to read it from beginning to end.
 See [issue #1955](https://github.com/alan-turing-institute/the-turing-way/issues/1955).
   * Nina worked on developing a chapter describing ways to develop skills for self-reflection in data science to maintain ethical integrity in our work.
 See [issue #1919](https://github.com/alan-turing-institute/the-turing-way/issues/1919).
 
 ![Nina di Cara Tweeted on 19 May 2021 saying “Day three of The Turing Way Book Dash today. What a luxury to spend a couple of days thinking deeply about self-reflection & positionality in data science work. Burnham's social 'GRACES' are getting a lot of air time ”](images/2021-05-ninatweet-6.png)
+
 *[Tweet by Nina di Cara](https://twitter.com/ninadicara/status/1394931465205518336?s=20) about self-reflection guide to ethics.*
 
 * Find an overview from the event and links to different resources in this [shared HackMD](https://hackmd.io/@turingway/bookdash-may2021-index).
@@ -146,9 +148,9 @@ These images can be easily adapted to different languages by editing titles via 
 We encourage our readers and community members to reused these images in different languages and contribute them back to  *The Turing Way*. 
 Please reach out to  *The Turing Way* team by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com) for more information.
 
-![An illustration titled “communicating with a wider audience” shows a woman wearing a purple hijab and grey clothes. She is writing something that is meant to be accessible widely via lay summary, blogs, social media and podcast. There are dictionaries to translate them into different languages.](images/2021-05-communicating-07.png)
+![An illustration titled “communicating with a wider audience” shows a woman wearing a purple hijab and grey clothes. She is writing something that is meant to be accessible widely via lay summary, blogs, social media and podcast. There are dictionaries to translate them into different languages.](images/2021-05-communicating-7.png)
 
-*This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence. DOI [10.5281/zenodo.3332807](10.5281/zenodo.3332807). *
+*This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence. DOI [10.5281/zenodo.3332807](10.5281/zenodo.3332807).*
 
 ## Talks and Workshops
 
@@ -174,10 +176,10 @@ See her slides on [Zenodo](https://zenodo.org/record/4818126).
 She had also participated in an [ASAPbio panel](https://asapbio.org/event/asapbio-community-call-may-2021) ‘Bringing culture change to science communication’ on 24 May. 
 Along with the panellists, Clarissa Carneiro and Brian Nosek, Malvika presented her view on culture change as a process "Diversity - Recognition - Amplification" drawing from her discussion with  *The Turing Way* and Open Life Science community members ([see this Tweet](https://twitter.com/MalvikaSharan/status/1398039165837656070)).
 
-![This screenshot of a slide describes: (1) The Turing Way, which is a guide to reproducible, ethical and collaborative research and led by Kirstie Whitaker. (2) Open Life Science, which is a training and mentoring for community-led projects, co-led by Malvika, Yo Yehudi, Berenice Batut and Emmy Tsang. It has two Scriberia images, one showing how hidden labour can be made visible with recognition, opportunity, visibility and rewards and the other showing three groups of people discussing different issues and making decisions in a decentralised manner](images/2021-05-culturepanel-08.png)
+![This screenshot of a slide describes: (1) The Turing Way, which is a guide to reproducible, ethical and collaborative research and led by Kirstie Whitaker. (2) Open Life Science, which is a training and mentoring for community-led projects, co-led by Malvika, Yo Yehudi, Berenice Batut and Emmy Tsang. It has two Scriberia images, one showing how hidden labour can be made visible with recognition, opportunity, visibility and rewards and the other showing three groups of people discussing different issues and making decisions in a decentralised manner](images/2021-05-culturepanel-8.png)
 
 *[Malvika tweeted](https://twitter.com/MalvikaSharan/status/1398039165837656070?s=20) her slide summarising her notes for the culture change as a process that will need efforts to make hidden labour visible and decentralised decision making in research.
-Illustrations used in this slide were created by Scriberia for The Turing Way community and are used under a CC-BY licence. DOI [10.5281/zenodo.3332807](10.5281/zenodo.3332807). **
+Illustrations used in this slide were created by Scriberia for The Turing Way community and are used under a CC-BY licence. DOI [10.5281/zenodo.3332807](10.5281/zenodo.3332807).**
 
 ## Relevant Announcements
 
@@ -208,7 +210,8 @@ You can explore these resources [online](https://think.f1000research.com/open-da
 
 Sarah Gibson is off to a new start as the Open Source Infrastructure Engineers at [2i2c](https://2i2c.org/) where she will focus her efforts on JupyterHub development and operations for the Pangeo community.
 Over the last 2.5 years at The Turing Institute, Sarah worked as a Research Software Engineer, supported The Turing Way project as a core member and worked with the BinderHub team.
-In June, she will be joined by several members of Whitaker lab (also The Turing Way member) to walk for [Crohn's and Colitis UK](https://www.crohnsandcolitis.org.uk/) that you can support by donating any small amount via [My Walk It page](https://www.mywalkit.org.uk/teams/whitaker-lab-walks-it).
+
+In June, Sarah will be joined by several members of Whitaker lab (also The Turing Way member) to walk for [Crohn's and Colitis UK](https://www.crohnsandcolitis.org.uk/) that **you can support by donating any small amount via their [My Walk It page](https://www.mywalkit.org.uk/teams/whitaker-lab-walks-it)**.
 
 Isabel Birds, an ‘Engage @ Turing’ student and DECOVID member at The Alan Turing Institute recently shared that after learning about  *The Turing Way* in a workshop, she has been working on a project using Jupyter Book.
 This project will compile resources that she has gathered for mentoring students who transitioned from wet lab to computational projects due to the COVID pandemic situations.
