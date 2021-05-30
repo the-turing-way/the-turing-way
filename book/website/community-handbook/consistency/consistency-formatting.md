@@ -51,7 +51,7 @@ There are also helpful tools on the web, such as [Turndown](https://domchristie.
 
 Please note that if `HTML` is the only option for you to format your text the way you desire, you can use it only if the content in the online book can still be read and understood (use the Netlify preview in your PR to test). 
 For example, [superscripts and subscripts](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be written in `HTML` because they always appear as intended.
-In addition, content like Youtube videos and tables with headers that span multiple columns or rows can be written in `HTML`.
+In addition, content like YouTube videos and tables with headers that span multiple columns or rows can be written in `HTML`.
 
 
 ````{attention} A Note About Styling
@@ -59,9 +59,18 @@ In addition, content like Youtube videos and tables with headers that span multi
 
 _The Turing Way_ has a [book-wide stylesheet](https://github.com/alan-turing-institute/the-turing-way/blob/master/book/website/_static/book-stylesheet.css) that controls the look of content written in `HTML`. 
 If you include `HTML` in your contribution, ensure that your formatting includes the relevant classes and IDs from the stylesheet.
-For example, if you want to add a Youtube video to your content using the `<iframe>` tag, wrap the `<iframe>` in a `<div>` tag, and give the `div` a `video-container` class, as described in the [Style Guide](https://the-turing-way.netlify.app/community-handbook/style/style-custom-styling.html#videos).
 
-````
+For example, if you want to add a YouTube video to your content using the `<iframe>` tag, wrap the `<iframe>` in a `<div>` tag, and give the `div` a `video-container` class as shown below.
+
+```
+<div class="video-container">
+    <iframe>....</iframe>
+</div>
+
+```
+
+This is also described in the {ref}`Style Guide<ch-style-custom-styling-videos>.
+
 
 #### Demo
 
