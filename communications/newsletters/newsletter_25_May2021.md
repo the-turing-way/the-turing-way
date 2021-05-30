@@ -5,7 +5,7 @@ The Turing Way Newsletter: 31 May 2021
 Hello Turing Way friends!
 
 This month:
-* 📚 We hosted the fifth edition of the Book Dash event from 17 - 21 May. Find out who participated and what they collaborated on.
+* 📚 We hosted the fifth edition of the Book Dash event from 17 - 21 May. Read about out participants and what they worked on.
 * ✍️ There are two job openings at The Alan Turing Institute for the Research Application Manager positions that will work closely with The Turing Way team. The application deadline is 20 June 2021.
 * 🎨 We are releasing a new set of illustrations that are available with a version that can be easily translated into other languages.
 
@@ -92,10 +92,6 @@ This event could not have happened without the valuable work of our first Planni
 They provided useful input during the planning and mentored new contributors.
 These members were invited to join the committee as they had attended previous Book Dash events and had sent an application expressing their interests to mentor new contributors.
 Malvika Sharan and Kirstie Whitaker were involved to ensure that everything required for this event to run successfully were in place and attended the event as participants as the committee members took charge of hosting the development and discussion sessions during the Book Dash week.
-
-![Tweet by The Turing Way account saying “THANK YOU to our wonderful planning committee members Arielle Bennett, Batool Al Marzouq, Brigitta Sipocz, Emma Karoune, Esther Plomp and Laura Carter for their thoughtful inputs & creating a supportive environment for everyone to work - & Carlos Martinez and Pablo Rodriguez Sanchez for representing Netherlands eScience Center.”](images/2021-05-planningcommittee-4.png)
-
-*[Tweet](https://twitter.com/turingway/status/1395817008353120257?s=20) thanking the Book Dash Planning Committee members*
 
 ### Resources from the Book Dash May 2021
 
