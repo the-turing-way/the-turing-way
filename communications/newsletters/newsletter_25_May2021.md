@@ -1,6 +1,6 @@
 The Turing Way Newsletter: 31 May 2021
 
-# Book Dash Updates, Job Announcements, New Illustrations and Community Updates
+# Book Dash Report, Job Announcements, New Illustrations and Community Updates
 
 Hello Turing Way friends!
 
@@ -69,8 +69,7 @@ You can find more information on the website: [https://openlifesci.org/](https:/
 ### Book Dash May 2021 Reports and Resources
 
 From 17 to 21 May 2021, we hosted our fifth Book Dash event. 
-Through the course of five days, we hosted 13 development sessions, four open discussion sessions and a show and tell social call.
-On 21 May, the last day of the event, we also hosted two Community Share-outs to celebrate the work of our contributors, which was opened to the public.
+During this week, we hosted 13 development sessions, four open discussion sessions and a show and tell social call. On 21 May, the last day of the event, we also hosted two Community Share-outs to celebrate the work of our contributors, which was opened to the public. 
 This event was attended by 20 participants who collaborated on [39 Pull Requests (PRs) and 31 issues](https://github.com/alan-turing-institute/the-turing-way/pulls?q=label%3A0-book-dash-may21+) covering various topics and chapters across the five guides in the book.
 We share more about our attendees and their contributions to the project below.
 
@@ -88,10 +87,10 @@ Application review was carried out using the rubrics described [here](https://th
 
 ### Book Dash Planning Committee
 
-This event could not have happened without the valuable work of our first Planning Committee members: Arielle Bennett, Batool Almarzouq, Brigitta Sipőcz, Carlos Martinez-Ortiz, Emma Karoune, Esther Plomp and Laura Carter
-They provided useful input during the planning and mentored new contributors.
-These members were invited to join the committee as they had attended previous Book Dash events and had sent an application expressing their interests to mentor new contributors.
-Malvika Sharan and Kirstie Whitaker were involved to ensure that everything required for this event to run successfully were in place and attended the event as participants as the committee members took charge of hosting the development and discussion sessions during the Book Dash week.
+This event could not have happened without the valuable work of our first Planning Committee members: Arielle Bennett, Batool Almarzouq, Brigitta Sipőcz, Carlos Martinez-Ortiz, Emma Karoune, Esther Plomp and Laura Carter They provided useful input during the planning and mentored new contributors. These members were invited to join the committee as they had attended previous Book Dash events and had sent their applications expressing their interests to mentor new contributors.
+Malvika Sharan and Kirstie Whitaker were involved to ensure that resources required for committee members to lead sessions and run this event were in place. 
+The committee members hosted the development during the Book Dash week and led and discussion sessions on illustrations for visual storytelling, accessibility in communication, time management and activism.
+We also hosted a 'show and tell' social meal and facilitated several icebreakers for social interactions.
 
 ### Resources from the Book Dash May 2021
 
@@ -101,6 +100,7 @@ Our Book Dash attendees worked on multiple chapters and project ideas that we ha
   * “[Legal Disclaimer](https://the-turing-way.netlify.app/afterword/legal-disclaimer.html)” by Laura Carter explaining where can readers find legal advice so that they do not consider any part of *The Turing Way* book as a legal guide. 
   * Malvika and Esther reorganised a chapter “[Making Research Objects Citable](https://the-turing-way.netlify.app/communication/citable.html#)”,  previously listed under the Guide for Reproducible Research.
   * Kirstie Whitaker wrote a chapter on “[Barriers to Reproducibility](https://the-turing-way.netlify.app/reproducible-research/overview/overview-barriers.html)” describing what challenges researchers face in their research when planning to apply practices for reproducibility.
+  * Batool and Brigitta collaborated on the chapters and illustrations for the [Continuous Integration chapter](https://the-turing-way.netlify.app/reproducible-research/ci.html) that they started working on during the previous Book Dash event.
   * Arielle Bennett updated the chapter “[Activism for Researchers](https://the-turing-way.netlify.app/ethical-research/activism.html)” with the contributions of Bruno Camino. 
 
 ![Image shows a group of researchers holding a banner that says “advocacy”. One person is signing up to join and others are walking/wheeling forward.](images/2021-05-advocacy-5.png)
@@ -127,7 +127,7 @@ See [issue #1955](https://github.com/alan-turing-institute/the-turing-way/issues
   * Nina worked on developing a chapter describing ways to develop skills for self-reflection in data science to maintain ethical integrity in our work.
 See [issue #1919](https://github.com/alan-turing-institute/the-turing-way/issues/1919).
 
-![Nina di Cara Tweeted on 19 May 2021 saying “Day three of The Turing Way Book Dash today. What a luxury to spend a couple of days thinking deeply about self-reflection & positionality in data science work. Burnham's social 'GRACES' are getting a lot of air time ”](images/2021-05-ninatweet-6.png)
+![Nina di Cara Tweeted on 19 May 2021 saying “Day three of The Turing Way Book Dash today. What a luxury to spend a couple of days thinking deeply about self-reflection & positionality in data science work. Burnham's social 'GRACES' are getting a lot of air time”](images/2021-05-ninatweet-6.png)
 
 *[Tweet by Nina di Cara](https://twitter.com/ninadicara/status/1394931465205518336?s=20) about self-reflection guide to ethics.*
 
