@@ -1,14 +1,11 @@
 (welcome)=
 # Welcome
 
-_The Turing Way_ is an open source community-driven guide to reproducible, ethical, inclusive and collaborative data science.
+_The Turing Way_ is an open-source community-driven guide to reproducible, ethical, inclusive and collaborative data science.
 
-Our goal is to provide all the information that data scientists in academia, industry, government and the third sector need at the start of their projects to ensure that they are easy to reproduce and reuse at the end.
+Our goal is to provide all the information that data scientists in academia, industry, government and the third sector need to ensure that the projects they work on are easy to reproduce and reuse.
 
-The book started as a guide for reproducibility, covering version control, testing, and continuous integration.
-However, technical skills are just one aspect of making data science research "open for all".
-
-In February 2020, _The Turing Way_ expanded to a series of books covering reproducible research, project design, communication, collaboration, and ethical research.
+Do not try to read the guide from start to finish. Take a [buffet approach](https://mobile.twitter.com/rossdavism/status/1138441421143400453) instead: browse the chapters or [search](https://the-turing-way.netlify.app/search.html) for something you would like to learn about.
 
 ```{figure} figures/welcome.jpg
 ---
@@ -60,6 +57,14 @@ Accordingly, everyone who participates in _The Turing Way_ project is expected t
 All contributions must abide by our [code of conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md).
 
 ![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
+
+(welcome-history)=
+## History
+
+The book started as a guide for reproducibility, covering version control, testing, and continuous integration.
+However, technical skills are just one aspect of making data science research "open for all".
+
+In February 2020, _The Turing Way_ expanded to a series of books covering reproducible research, project design, communication, collaboration, and ethical research.
 
 (welcome-citing)=
 ## Citing _The Turing Way_
