@@ -6,7 +6,7 @@ Hello Turing Way friends!
 
 This month:
 * 📚 We hosted the fifth edition of the Book Dash event from 17 - 21 May. Read about out participants and what they worked on.
-* ✍️ There are two job openings at The Alan Turing Institute for the Research Application Manager positions that will work closely with The Turing Way team. The application deadline is 20 June 2021.
+* ✍️ There are two job openings at The Alan Turing Institute for the Research Application Manager positions who will work closely with The Turing Way team. The application deadline is 20 June 2021.
 * 🎨 We are releasing a new set of illustrations that are available with a version that can be easily translated into other languages.
 
 Find more details on these topics and more updates from the community below 👇
@@ -19,10 +19,10 @@ Find more details on these topics and more updates from the community below 👇
 
 ### Getting Started with *The Turing Way*
 
- *The Turing Way* offers multiple ways to get involved, contribute to or use the project.
+ *The Turing Way* offers multiple ways to get involved or use the project.
 Although this is useful for many people who want to choose different pathways to enter and contribute to the project, it can be confusing for some people who don’t know where to start.
 To address this, we host onboarding calls every Friday from 15:00 - 16:00 London time ([see in your time](http://time.unitarium.com/utc/14)).
-Come along with you tea, coffee and questions for our core contributors, who will guide you to the right resources to help you get started with *The Turing Way*.
+Come along with your coffee and questions to these calls and our core contributors will help you get started with *The Turing Way*.
 
 ### Community calls for Co-Working and Discussion 
 
@@ -33,6 +33,7 @@ Please sign up for the upcoming call, which will be hosted by Emma Karoune: [htt
 Weekly co-working calls in Western Time Zone slots take place on Mondays.
 This June, we will host these calls on 07, 14, 21 and 28 June 2021 from 11:00 to 12:00 London times ([see in your time](http://time.unitarium.com/utc/10)).
 Please note that due to a bank holiday in the UK, we will not be hosting a call on 31 May 2021.
+
 Co-working calls in the Eastern Time Zone slot will take place from 15:00 to 16:00 London time on Wednesdays ([see in your time](http://time.unitarium.com/utc/14)) when a Collaboration Cafe is not already taking place. 
 In June these calls are scheduled on  09, 23 and 30 June 2021.
 Please see details here and join in: [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call). 
@@ -78,8 +79,6 @@ We share more about our attendees and their contributions to the project below.
 ### Contributor in focus: Book Dash May 2021 Attendees
 
 We are very excited to introduce you to our Book Dash participant!.
-These members had sent applications describing what they would like to work on and how they intend to collaborate with other contributors.
-Application review was carried out using the rubrics described [here](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-preparation.html).
 
 ![Screenshot of the Book Dash attendees. Described in the title below.](images/2021-05-bookdashattendees-3.png)
 
@@ -87,10 +86,8 @@ Application review was carried out using the rubrics described [here](https://th
 
 ### Book Dash Planning Committee
 
-This event could not have happened without the valuable work of our first Planning Committee members: Arielle Bennett, Batool Almarzouq, Brigitta Sipőcz, Carlos Martinez-Ortiz, Emma Karoune, Esther Plomp and Laura Carter They provided useful input during the planning and mentored new contributors. These members were invited to join the committee as they had attended previous Book Dash events and had sent their applications expressing their interests to mentor new contributors.
+This event could not have happened without the valuable work of our Planning Committee members: Arielle Bennett, Batool Almarzouq, Brigitta Sipőcz, Carlos Martinez-Ortiz, Emma Karoune, Esther Plomp and Laura Carter. These members had attended previous Book Dash events and had sent their applications expressing their interests to mentor new contributors. They provided useful input during the planning, mentored new contributors, hosted the development during the Book Dash week and led and discussion sessions.
 Malvika Sharan and Kirstie Whitaker were involved to ensure that resources required for committee members to lead sessions and run this event were in place. 
-The committee members hosted the development during the Book Dash week and led and discussion sessions on illustrations for visual storytelling, accessibility in communication, time management and activism.
-We also hosted a 'show and tell' social meal and facilitated several icebreakers for social interactions.
 
 ### Resources from the Book Dash May 2021
 
@@ -108,18 +105,18 @@ Our Book Dash attendees worked on multiple chapters and project ideas that we ha
 *This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence. DOI [10.5281/zenodo.3332807](10.5281/zenodo.3332807).*
 
 * Draft for chapters inviting contributions and reviews:
-  * Esther wrote a chapter on linking code and data to publication in [PR #1942](https://github.com/alan-turing-institute/the-turing-way/pull/1942/files).
+  * Maria, Marta and Emma collaborated on the chapter “Communicating with wider audiences” [PR #1929](https://github.com/alan-turing-institute/the-turing-way/pull/1929).
+This is a comprehensive chapter describing different ways for ensuring scientific communication is accessible to a wider audience.
+  * Andreea, Hannah and Becki collaborated on the chapter describing file organising template for research compendia.
+See [PR #1930](https://github.com/alan-turing-institute/the-turing-way/pull/1930).
+  * Kirstie is restructuring the Guide for Collaboration to ensure that the chapters are organised based on the types of collaboration and are easy to find.
+See [PR #1935](https://github.com/alan-turing-institute/the-turing-way/pull/1935).
   * Martina Vivas and Malvika co-wrote a chapter to provide an overview of project design.
 This chapter provides a curated collection of The Turing Way chapters that are useful for planning project design for a new project.
 See [PR #1936](https://github.com/alan-turing-institute/the-turing-way/pull/1936).
-  * Kirstie is restructuring the Guide for Collaboration to ensure that the chapters are organised based on the types of collaboration and are easy to find.
-See [PR #1935](https://github.com/alan-turing-institute/the-turing-way/pull/1935).
-  * Andreea, Hannah and Becki collaborated on the chapter describing file organising template for research compendia.
-See [PR #1930](https://github.com/alan-turing-institute/the-turing-way/pull/1930).
-  * Maria, Marta and Emma collaborated on the chapter “Communicating with wider audiences” [PR #1929](https://github.com/alan-turing-institute/the-turing-way/pull/1929).
-This is a comprehensive chapter describing different ways for ensuring scientific communication is accessible to a wider audience.
   * Lotty Coupat, community manager of AutSPACEs, added a case study from her project to the subchapter on project road mapping.
 See [PR #1941](https://github.com/alan-turing-institute/the-turing-way/pull/1941). 
+  * Esther wrote a chapter on linking code and data to publication in [PR #1942](https://github.com/alan-turing-institute/the-turing-way/pull/1942/files).
   * Andrei is revising the chapter on risk assessment to make sure that it is relatable for researchers beyond software engineers.
 See [PR #1928](https://github.com/alan-turing-institute/the-turing-way/pull/1928).
  * Prompted by the discussions in the Community Share-outs, Danny Garside is suggesting changes in the landing page to help ensure that the readers can use the book as a knowledge base and not attempt to read it from beginning to end.
@@ -139,9 +136,8 @@ See [issue #1919](https://github.com/alan-turing-institute/the-turing-way/issues
 ### New Illustrations by Scriberia for  *The Turing Way* Community
 
 Illustrations from the event have been made available online, which can be reused using DOI: 10.5281/zenodo.4836940 and cited as described [on Zenodo](https://zenodo.org/record/4836940).
-This latest release contains a version of images without (English) text. 
-These images can be easily adapted to different languages by editing titles via simple image editing tools (see [this example by Canva](https://www.canva.com/features/add-text-to-photo/)). 
-We encourage our readers and community members to reused these images in different languages and contribute them back to  *The Turing Way*. 
+This latest release contains a version of images without the (English) text that can be easily adapted to different languages (see [this example by Canva](https://www.canva.com/features/add-text-to-photo/)). 
+We encourage our readers and community members to reuse these images in different languages and contribute them back to  *The Turing Way*. 
 Please reach out to  *The Turing Way* team by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com) for more information.
 
 ![An illustration titled “communicating with a wider audience” shows a woman wearing a purple hijab and grey clothes. She is writing something that is meant to be accessible widely via lay summary, blogs, social media and podcast. There are dictionaries to translate them into different languages.](images/2021-05-communicating-7.png)
@@ -159,7 +155,7 @@ On 13 May, Esther Plomp and Malvika hosted a short GitHub session for the contri
 They covered basic steps to make contributions on GitHub repositories and facilitated creating a Pull Request on  *The Turing Way*repository.
 You can see details from the event including links to the teaching materials in this [shared HackMD](https://hackmd.io/@turingway/bookdash-may2021-github).
 
-On 26 May, the Tolls Practices and Systems hosted a talk by Kaitlin Thaney, Executive Director of [Invest in Open Infrastructure](https://investinopen.org) (IOI).
+On 26 May, the Tools Practices and Systems hosted a talk by Kaitlin Thaney, Executive Director of [Invest in Open Infrastructure](https://investinopen.org) (IOI).
 IOI is an initiative dedicated to improving funding and resourcing for open technologies and systems supporting research and scholarship. 
 She gave an overview of the work IOI is doing to support open, community-owned infrastructure.
 You can see her slides [here](https://docs.google.com/presentation/d/1h-zII8RSQ6Pib5WV8Cv-0AG6BTCTbSkkRa0glTa1Hj8/edit?usp=sharing).
@@ -169,7 +165,7 @@ This event was organised by Andrew Holding and Ben MacArthur to bring together T
 She talked about The Turing Way highlighting open source and reproducibility best practices in data science.
 See her slides on [Zenodo](https://zenodo.org/record/4818126).
 
-She had also participated in an [ASAPbio panel](https://asapbio.org/event/asapbio-community-call-may-2021) ‘Bringing culture change to science communication’ on 24 May. 
+Malvika also participated in an [ASAPbio panel](https://asapbio.org/event/asapbio-community-call-may-2021) ‘Bringing culture change to science communication’ on 24 May. 
 Along with the panellists, Clarissa Carneiro and Brian Nosek, Malvika presented her view on culture change as a process "Diversity - Recognition - Amplification" drawing from her discussion with  *The Turing Way* and Open Life Science community members ([see this Tweet](https://twitter.com/MalvikaSharan/status/1398039165837656070)).
 
 ![This screenshot of a slide describes: (1) The Turing Way, which is a guide to reproducible, ethical and collaborative research and led by Kirstie Whitaker. (2) Open Life Science, which is a training and mentoring for community-led projects, co-led by Malvika, Yo Yehudi, Berenice Batut and Emmy Tsang. It has two Scriberia images, one showing how hidden labour can be made visible with recognition, opportunity, visibility and rewards and the other showing three groups of people discussing different issues and making decisions in a decentralised manner](images/2021-05-culturepanel-8.png)
@@ -184,10 +180,10 @@ Illustrations used in this slide were created by Scriberia for The Turing Way co
 * **Scoping Workshop by the Turing Ethics Team**: As part of 'Learning at Turing' at The Alan Turing Institute, the Ethics Team (Public Policy Programme) are running scoping workshops to get feedback and co-design upcoming courses on AI Ethics & Governance, Responsible Research and Innovation, and Public Communication of Science.
 Three scoping workshops will run from 23rd–24th June for which attendees will be reimbursed for their time. 
 Registration is open for a limited number of seats that are open for early career researchers and PhD students.
-Please register your interest via this form](https://forms.office.com/r/n8QdXTUUtm).
+Please register your interest via [this form](https://forms.office.com/r/n8QdXTUUtm).
 
 * **Research Software Camp by Software Sustainability Institute**: The Software Sustainability Institute runs the second online Research Software Camps from 1 to 12 November 2021.
-See details here: [https://www.software.ac.uk/research-software-camps](https://www.software.ac.uk/research-software-camps).
+See [details here](https://www.software.ac.uk/research-software-camps).
 This event will introduce and explore topics around research software, thus starting discussions among various research communities. 
 A variety of online resources will be collated, ranging from discussion forums to blog posts and guides discussing different aspects of the chosen topic.
 All sessions and resources can be accessed freely and they’ll be aimed at anyone who’s working in research and research software. 
@@ -207,7 +203,7 @@ You can explore these resources [online](https://think.f1000research.com/open-da
 Sarah Gibson is off to a new start as the Open Source Infrastructure Engineers at [2i2c](https://2i2c.org/) where she will focus her efforts on JupyterHub development and operations for the Pangeo community.
 Over the last 2.5 years at The Turing Institute, Sarah worked as a Research Software Engineer, supported The Turing Way project as a core member and worked with the BinderHub team.
 
-In June, Sarah will be joined by several members of Whitaker lab (also The Turing Way member) to walk for [Crohn's and Colitis UK](https://www.crohnsandcolitis.org.uk/) that **you can support by donating any small amount via their [My Walk It page](https://www.mywalkit.org.uk/teams/whitaker-lab-walks-it)**.
+In June, Sarah will also be joined by several members of Whitaker lab (also The Turing Way member) to walk for [Crohn's and Colitis UK](https://www.crohnsandcolitis.org.uk/) that **you can support by donating any small amount via their [My Walk It page](https://www.mywalkit.org.uk/teams/whitaker-lab-walks-it)**.
 
 Isabel Birds, an ‘Engage @ Turing’ student and DECOVID member at The Alan Turing Institute recently shared that after learning about  *The Turing Way* in a workshop, she has been working on a project using Jupyter Book.
 This project will compile resources that she has gathered for mentoring students who transitioned from wet lab to computational projects due to the COVID pandemic situations.
