@@ -203,7 +203,7 @@ You can explore these resources [online](https://think.f1000research.com/open-da
 Sarah Gibson is off to a new start as the Open Source Infrastructure Engineers at [2i2c](https://2i2c.org/) where she will focus her efforts on JupyterHub development and operations for the Pangeo community.
 Over the last 2.5 years at The Turing Institute, Sarah worked as a Research Software Engineer, supported The Turing Way project as a core member and worked with the BinderHub team.
 
-In June, Sarah will also be joined by several members of Whitaker lab (also The Turing Way member) to walk for [Crohn's and Colitis UK](https://www.crohnsandcolitis.org.uk/) that **you can support by donating any small amount via their [My Walk It page](https://www.mywalkit.org.uk/teams/whitaker-lab-walks-it)**.
+In June, Sarah will also be joined by several members of Kirstie's research group (all Turing Way members!) to walk for [Crohn's and Colitis UK](https://www.crohnsandcolitis.org.uk/) that **you can support by donating any small amount via their [My Walk It page](https://www.mywalkit.org.uk/teams/whitaker-lab-walks-it)**.
 
 Isabel Birds, an ‘Engage @ Turing’ student and DECOVID member at The Alan Turing Institute recently shared that after learning about  *The Turing Way* in a workshop, she has been working on a project using Jupyter Book.
 This project will compile resources that she has gathered for mentoring students who transitioned from wet lab to computational projects due to the COVID pandemic situations.
