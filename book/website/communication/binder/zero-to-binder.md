@@ -1,3 +1,4 @@
+(z2b)=
 # Zero-to-Binder
 
 In this chapter, we will create a Binder project from a repository we create on GitHub and launch in on mybinder.org.
@@ -16,6 +17,7 @@ Binder can take a long time to load, but this doesn't necessarily mean that your
 You can always refresh the window if you see the "... is taking longer to load, hang tight!" message.
 ```
 
+(z2b-reqs)=
 ## Requirements
 
 You will need:
@@ -27,6 +29,7 @@ You will need:
 - **A GitHub account.**
   Please sign up for one if you don't already have one: <https://github.com/join>
 
+(z2b-step-1)=
 ## 1. Creating a repo to Binderize
 
 🚦🚦🚦
@@ -64,12 +67,14 @@ You will need:
    ```
 ````
 
+(z2b-public-repo)=
 ### Why did the repo have to be public?
 
 mybinder.org cannot access private repositories as this would require a secret token.
 The Binder team choose not to take on the responsibility of handling secret tokens as mybinder.org is a public service and proof of technological concept.
 If accessing private repositories is a feature you/your team need, we advise that you look into building your own [BinderHub](https://binderhub.readthedocs.io).
 
+(z2b-step-2)=
 ## 2. Launch your first repo!
 
 🚦🚦🚦
@@ -86,6 +91,7 @@ If accessing private repositories is a feature you/your team need, we advise tha
 
 If everything ran smoothly, you'll see a Jupyter Notebook interface.
 
+(z2b-background-1)=
 ### What's happening in the background? - Part 1
 
 While you wait, BinderHub (the backend of Binder) is:
@@ -96,6 +102,7 @@ While you wait, BinderHub (the backend of Binder) is:
 - Launching that Docker image in the cloud
 - Connecting you to it via your browser
 
+(z2b-step-3)=
 ## 3. Run the script
 
 🚦🚦🚦
@@ -121,6 +128,7 @@ While you wait, BinderHub (the backend of Binder) is:
 `Hello from Binder!` should be printed to the terminal.
 ````
 
+(z2b-step-4)=
 ## 4. Pinning Dependencies
 
 It was easy to get started, but our environment is barebones - let's add a **dependency**!
@@ -167,10 +175,12 @@ Sometimes Binder's build logs prints things in red font, such as warnings that `
 These red messages don't necessarily mean there's a problem with your build and it will fail - it's just an unfortunate font colour choice!
 ```
 
+(z2b-background-2)=
 ### What's happening in the background? - Part 2
 
 This time, BinderHub will read the configuration file you added and install the specific version of the package you requested.
 
+(z2b-dependencies)=
 ### More on pinning dependencies
 
 ````{tabbed} Python
@@ -203,6 +213,7 @@ This provides some rudimentary package versioning for R users but is not as robu
 For more robust and specific version pinning in R, have a look at package [`renv`](https://rstudio.github.io/renv/).
 ````
 
+(z2b-step-5)=
 ## 5. Check the Environment
 
 🚦🚦🚦
@@ -261,6 +272,7 @@ Pushing changes back to the GitHub repo through the container is not possible wi
 **Any changes you have made to files inside the Binder will be lost once you close the browser window.**
 ```
 
+(z2b-step-6)=
 ## 6. Sharing your Work
 
 Binder is all about sharing your work easily and there are two ways to do it:
@@ -276,11 +288,13 @@ Binder is all about sharing your work easily and there are two ways to do it:
      Click the clipboard icon next to the box marked with "m" to automatically copy the Markdown snippet.
 2) Click the badge to make sure it works!
 
+(z2b-step-7)=
 ## 7. Accessing data in your Binder
 
 Another kind of dependency for projects is **data**.
 There are different ways to make data available in your Binder depending on the size of your data and your preferences for sharing it.
 
+(z2b-small-files)=
 ### Small public files
 
 The simplest approach for small, public data files is to add them directly into your GitHub repository.
@@ -288,6 +302,7 @@ They are then directly encapsulated into the environment and versioned along wit
 
 This is ideal for files up to **10MB**.
 
+(z2b-medium-files)=
 ### Medium public files
 
 To access medium files **from a few 10s MB up to a few hundred MB**, you can add a file called `postBuild` to your repo.
@@ -300,6 +315,7 @@ New images are only built when Binder sees a new commit, not every time you clic
 Therefore, the data is only downloaded once when the Docker image is built, not every time the Binder is launched.
 ```
 
+(z2b-large-files)=
 ### Large public files
 
 It is not practical to place large files in your GitHub repo or include them directly in the image that Binder builds.
@@ -307,6 +323,7 @@ The best option for large files is to use a library specific to the data format 
 
 For security reasons, the outgoing traffic of your Binder is restricted to HTTP or GitHub connections only. You will not be able to use FTP sites to fetch data on mybinder.org.
 
+(z2b-private-files)=
 ### Private files
 
 There is no way to access files which are not public from mybinder.org.
@@ -323,6 +340,7 @@ Building a BinderHub is not a simple task and is usually taken on by IT/RSE grou
 However, that is not to say that they are the _only_ groups of people who should/could build a BinderHub.
 ```
 
+(z2b-step-8)=
 ## 8. Get data with `postBuild`
 
 🚦🚦🚦
@@ -436,6 +454,7 @@ data[data$country == "Australia", ] %>%
 ```
 ````
 
+(z2b-beyond-notebooks)=
 ## Beyond Notebooks...
 
 **JupyterLab** is installed into your containerized repo by default.
@@ -456,6 +475,7 @@ You can also set this using the mybinder.org form (instead of editing the URL di
 
 ![](https://user-images.githubusercontent.com/1448859/53651127-4dabe900-3c46-11e9-8684-2cfde840d4ce.gif)
 
+(z2b-over-to-you)=
 ## Now over to you!
 
 Now you've binderized (bound?) this demo repo, it's time to binderize the example script and data you brought along!
