@@ -4,7 +4,7 @@
 (rr-open-source-whatis)=
 ## What Is Open Source Software?
 
-When a project is open-source, anybody can view, use, modify, and distribute the project for any purpose.
+When a project is open-source [{term}`def<Open Source Software>`], anybody can view, use, modify, and distribute the project for any purpose.
 These permissions are enforced through an open-source licence.
 Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
 In its most basic form, open-sourcing your software means putting your code online where it can be viewed and reused by others.
@@ -39,7 +39,7 @@ Open source offers opportunities to practice leadership and management skills, s
 ### Making Your Work Open Source
 
 - _Re-usability_: Making your work openly available for re-use makes it easier for others to incorporate into their research. 
-If you make your software citeable, via a DOI for example, this can increase your citations.
+If you make your software citeable, via a DOI [{term}`def<Digital Object Identifier>`] for example, this can increase your citations.
 - _Contribution_: When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code.
 If your project is open, the number of potential contributing developers and thus the potential knowledge pool is orders of magnitude larger.
 - _Feedback_: Making your work open enables you to get feedback and improve your project in a way you may never have thought of alone.
@@ -86,10 +86,10 @@ Examples include [Linux](https://www.linux.org/) operating systems, Python packa
 
 You can open source an idea, a work in progress, or after years of being closed source.
 At the most basic level, all you need to do is put your code online somewhere that is likely to last a long time.
-You can make your code citeable by assigning it a DOI (as discussed in the section on {ref}`rr-open-data-steps`).
+You can make your code citeable by assigning it a DOI [{term}`def<Digital Object Identifier>`] (as discussed in the section on {ref}`rr-open-data-steps`).
 This helps ensure that you get proper credit if people use or build upon your work.
 
-A popular place to make your code available is GitHub (see the chapter on {ref}`rr-vcs`). 
+A popular place to make your code available is GitHub [{term}`def<Github>`] (see the chapter on {ref}`rr-vcs`). 
 You must include a license file stating that anyone has permission to use, copy, and modify your work. Without this, no one can legally use your work, and so it is not open source. 
 The {ref}`rr-licensing` chapter will help you to pick the best license for your project. 
 There are also a few other files you should include with your code, as described below.
@@ -97,7 +97,7 @@ There are also a few other files you should include with your code, as described
 (rr-open-source-run-readme)=
 ### Welcome Users by Adding Information to Your README
 
-You should include a README file where you include useful information about what the project is, how to use it, and how to contribute to it. Here is a list of the main things a README should include:
+You should include a README [{term}`def<README>`] file where you include useful information about what the project is, how to use it, and how to contribute to it. Here is a list of the main things a README should include:
 
 - _The project name and what it is_: This will significantly help someone that comes across it to get an idea of the project. Include a few key points that describe the main features of the project and what features you are implementing.
 This helps to quickly compare other projects with yours and gives an idea of why the project exists in the first place.
@@ -116,7 +116,7 @@ In that case, you should include Contributing Guidelines and most likely, a Code
 (rr-open-source-run-guidelines)=
 ### Contributing Guidelines
 
-Contributing Guidelines tell your audience how to participate in your project. For example, you might include information on:
+Contributing Guidelines [{term}`def<Contributing Guidelines>`] tell your audience how to participate in your project. For example, you might include information on:
 
 - How to file a bug report
 - How to suggest a new feature
@@ -135,7 +135,7 @@ It is also a good idea to link to your contributing guidelines file from your RE
 (rr-open-source-run-conduct)=
 ### Code of Conduct
 
-A Code of Conduct helps set ground rules for behaviour for your project's participants.
+A Code of Conduct [{term}`def<Code of Conduct>`] helps set ground rules for behaviour for your project's participants.
 This is especially valuable if you are launching an open-source project for a community or company.
 A Code of Conduct empowers you to facilitate healthy, constructive community behaviour, which will reduce your stress as a maintainer.
 It communicates how you expect participants to behave and describes who these expectations apply to, when they apply, and what to do if a violation occurs.
@@ -155,8 +155,8 @@ Understanding the different community roles and the overall process will help yo
 
 A typical open source software project has the following types of people:
 
-- _Author_: The person/s or organization that created the project
-- _Owner_: The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
+- _Author_: The person/s or organization that created the project.
+- _Owner_: The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
 - _Maintainers_: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. They may also be authors and/or owners of the project.
 - _Contributors_: Everyone who has contributed something back to the project.
 - _Community Members_: People who use the project. They might be active in conversations or express their opinion on the project's direction.

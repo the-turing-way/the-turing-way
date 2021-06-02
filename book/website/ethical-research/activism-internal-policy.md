@@ -39,12 +39,7 @@ Many people are reluctant to engage in advocacy or lobbying in their workplace, 
 Union membership can offer some protection against this: campaigning can be done by the union as a collective, rather than by individual workers. 
 Think about other things that might go wrong, or that might dissuade your colleagues from speaking up, and see if you can find a way to mitigate them. 
 
-## Case study: Google Workers & Project Maven
-One example of this is Google workers campaigning against Project Maven, a contract with the US Pentagon to use AI to develop more effective drone guidance.
-Google employees across the globe spoke up in internal meetings, signed petitions, made memes, and shared personal statements about why they disagreed with the contract.
-Some employees even resigned.
-Eventually, the leadership at Google agreed not to seek further contracts with the US Pentagon.
-[Source, accessed 8 December 2020](https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers)
+
 
 
 

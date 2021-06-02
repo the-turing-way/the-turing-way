@@ -4,6 +4,15 @@
 Data loss can be catastrophic for your research project and can happen often. 
 You can prevent data loss by picking suitable storage solutions and backing your data up frequently.
 
+```{figure} ../../figures/VersionControl.jpg
+---
+height: 500px 
+name: VersionControl
+alt: Two images are shown to represent the benefits of using version control. On the left, there is an image of two people rummaging through a blue box on top of a table. The box is full of jumbled documents and the people look confused and frustrated. The documents are named "final 2" and "let this be the final". On the right, the same two people look happy and are searching through files organised clearly in a blue filing cabinet. There are "V1, V2, V3 and V4" separations organising the files.
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
+```
+
 (rr-rdm-storage-where)=
 ## Where to Store Data
 
