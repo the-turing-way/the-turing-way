@@ -62,3 +62,8 @@ That is, the master should only contain work which is complete, tested, and righ
 Similarly, you should try to keep individual branches as clean as possible by **only adding one new feature per branch**. This is because if you are working on several features, some may be finished and ready to merge into master while others are still under development.
 Keeping your branches clean means only making changes related to the feature on the feature's branch.
 Give your branches **sensible names**, "new_feature" is all well and good until you start developing a newer feature on another branch.
+
+## Interactive tutorial
+
+[Learn Git Branching](https://learngitbranching.js.org/) is a project to provide an interactive way to learn Git. Going 
+through their tutorials will provide substantial experience with the most commonly used git commands and branch manipulation techniques. 
