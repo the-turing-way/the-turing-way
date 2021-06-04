@@ -13,5 +13,8 @@ If you have experience making podcasts and would like to write in more detail ab
 
 (cm-wa-comms-podcasts-fav)=
 ## Here are some of our favourite podcasts:
-* [Orion Open Science](https://www.orion-openscience.eu/publications/training-materials/201902/podcasts)
-* [Open Science talk](https://soundcloud.com/opensciencetalk)
+* [Orion Open Science](https://www.orion-openscience.eu/publications/training-materials/201902/podcasts).
+* [Open Science talk](https://soundcloud.com/opensciencetalk).
+* [The Turing Podcast](https://www.turing.ac.uk/news/turing-podcast).
+* [ReproducibiliTea Podcast](https://soundcloud.com/reproducibilitea).
+* [Open science stories](https://podcasts.apple.com/gb/podcast/open-science-stories/id1547403532).
