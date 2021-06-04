@@ -29,8 +29,7 @@
 
 (cm-wa-comms-resources-ls)=
 ## Lay summaries
-* Good example of how an abstract can be changed into a lay summary:
-https://bitesizebio.com/10871/perfecting-that-lay-summary/
+* Good example of how an abstract can be changed into a lay summary - [Perfecting that lay summary](https://bitesizebio.com/10871/perfecting-that-lay-summary/).
 
 Readability tests:
 * http://www.hemingwayapp.com/
