@@ -50,4 +50,25 @@ But when starting with Twitter it is important to first consider what your purpo
 
 Starting to use twitter might involve tweeting about new papers and useful resources in your field, events that you go to such as workshops and conferences, and retweeting other people in your field to highlight their work.
 
-You might also want to start with a series of intro tweets to introduce yourself, your career so far and your current work. You can pin this to your profile so that it is always what people  see first. 
+You might also want to start with a series of intro tweets to introduce yourself, your career so far and your current work. You can pin this to your profile so that it is always what people see first. 
+
+
+## Twitter terms (adapted from ref: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513):
+
+* Confirmation step - Enabling a checking process tweets before posting using Tweetdeck.
+* Direct message (DM) — A private message that is only visible to the sender and the specifically identified recipients. By default, regular Twitter messages are visible to the whole world, including (via search engines such as Google) people who do not have a Twitter account.
+* Hashtag (#) — Used to make it easier to find tweets with a common theme by defining keywords, for example, tweets about an event (#BookDash) or career talks (#PhDChat).
+* Hat Tip or Heard Through (HT) - Used for thanking the source of a tweet.
+* Like (♡) - Used for showing you like a tweet—a fast way to give feedback without replying. There is no similar function for disliking a tweet.
+* List — A list of Twitter users that can be public (followed by anyone) or private. Lists can be used to follow accounts that tweet about specific topics, but which you don’t want to follow yourself.
+* Live-tweeting — Tweeting short summaries of an event, for example of a conference talk, as it is happening.
+* Mentioning (@) — If you mention someone with their account handle (“This paper by @CaAl is great”), your tweet will show up in their notifications.
+* Notifications — Tweets that mention you and replies, retweets and likes for your tweets.
+* Quote-tweet — Sharing a tweet by someone else in a quote, while adding your own comments.
+* Retweet (RT)— Sharing a tweet that was originally made by someone else.
+* Subtweeting — Tweeting about somebody without explicitly mentioning their handle, so that they are not informed of your comment.
+* Thread — A series of tweets on one subject, for instance ten tweets about a new research paper.
+* Timeline — The tweets from the people you follow.
+* Tweetdeck - App that can be used to tweet and run multiple accounts.
+
+
