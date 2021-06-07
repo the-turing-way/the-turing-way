@@ -7,9 +7,9 @@
 
 * [Ability Net](https://abilitynet.org.uk/) for guides to making your documents more accessible.
 
-* https://contrastchecker.com/ is a good website to freely check if you meet the Web Content Accessibility Guidelines (WCAG) ratings.
+* [Contrast calculator](https://contrastchecker.com/) is a good website to freely check if you meet the Web Content Accessibility Guidelines (WCAG) ratings.
 
-* Outlier conf (https://www.outlierconf.com/) is a good example of accessibility in conference participation fees and data experience (vs visualisation).
+* [Outlier conf](https://www.outlierconf.com/) is a good example of accessibility in conference participation fees and data experience (vs visualisation).
 
 * Tips to apply the FAIR principles to training materials by Garcia et al (2020) https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854
 
@@ -31,9 +31,9 @@
 ## Lay summaries
 * Good example of how an abstract can be changed into a lay summary - [Perfecting that lay summary](https://bitesizebio.com/10871/perfecting-that-lay-summary/).
 
-Readability tests:
-* http://www.hemingwayapp.com/
-* http://thefirstword.co.uk/readabilitytest/
+**Readability tests:**
+* [Hemingway app](http://www.hemingwayapp.com/)
+* [The forst word readability test](http://thefirstword.co.uk/readabilitytest/)
 
 
 (cm-wa-comms-resources-podcasts)=
@@ -77,7 +77,7 @@ For recording talks:
  
 * [Buffer](https://buffer.com/)
 
-* This is a good guide to getting set up on twitter: https://www.wired.com/story/how-to-setup-twitter-search-hashtag-and-login-help/
+* This is a good [guide to getting set up on twitter](https://www.wired.com/story/how-to-setup-twitter-search-hashtag-and-login-help/).
 
 * [Ten simple rules to getting started on Twitter as a scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513)
 
