@@ -14,7 +14,7 @@ However, writing lay summaries is a specific form of writing and requires traini
 ## What is a lay summary?
 
 A lay summary is a brief summary of a research project or a research proposal that is usually written for members of the public, rather than researchers or professionals. 
-It should be written in plain English, avoid the use of jargon and explain any technical terms that have to be included (Ref - Duke 2012).
+It should be written in plain English, avoid the use of jargon and explain any technical terms that have to be included {cite}`Duke2012summary`.
 
 (cm-wa-comms-lay-summaries-why)=
 ## Why write lay summaries?
@@ -34,7 +34,7 @@ INVOLVE, a national advisory group funded by the UK National Institute for Healt
 ### The difference between a lay summary and academic writing
 Academic writing is usually not accessible to researchers outside of your own discipline as well as those in non-academic roles. It is therefore a good idea to make all your academic writing more readable as being too ‘academised’ narrows the likelihood of dissemination to wider academic disciplines and the general public. 
 
-Less accessible academic writing has four main characteristics (Dunleavy & Tinkler 2021):
+Less accessible academic writing has four main characteristics {cite}`DunleavyTinkler2021impact`
 * Use of specialised vocabularies.
 * Passive verb use (or passive voice) that is supposed to make the writing more neutral or impersonal.
 * Nouns substituting for verbs to make sentences sound more complicated.
@@ -58,13 +58,8 @@ Therefore, the key to making your writing more accessible is changing this langu
 Have a go at using one of the resources below to test the readability of the lay summary you have written.
 
 Readability tests:
-* http://www.hemingwayapp.com/
-* http://thefirstword.co.uk/readabilitytest/
+* [Hemingway app](http://www.hemingwayapp.com/)
+* [The first word readability test](http://thefirstword.co.uk/readabilitytest/)
 
-Here is a good example of how an abstract can be changed into a lay summary:
-https://bitesizebio.com/10871/perfecting-that-lay-summary/
+Here is a good example of how an abstract can be changed into a lay summary: [Perfecting that lay summary](https://bitesizebio.com/10871/perfecting-that-lay-summary/).
 
-References:
-Duke, M., 2012. ‘How to Write a Lay Summary’. DCC How-to Guides. Edinburgh: Digital Curation Centre. Accessed online at: https://www.dcc.ac.uk/guidance/how-guides/write-lay-summary
-
-Dunleavy, P. and J. Tinkler, 2021. Maximizing the Impacts of Academic Research. Macmillan research skills. Red Globe Press: London.
