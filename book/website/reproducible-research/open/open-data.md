@@ -38,6 +38,15 @@ These are cultural challenges that might be addressed in changing practice going
 However, there are also legal, ethical or contractual reasons that sometimes prevent making data publicly available in its entirety or even in parts.
 Below, we discuss some reasons explaining why this may be the case.
 
+```{figure} ../../figures/data-privacy.jpg
+---
+height: 500px
+name: data-privacy
+alt: An image detailing why private data should be used. A person stands next to a well with 'private data' written on it and a padlock around it. It is black and white and blue. The text lists that 'people deserve: dignity, agency, privacy, rights, confirmed consent.'
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
+```
+
 (rr-open-data-barriers-privacy)=
 ### Privacy And Data Protection
 
@@ -84,4 +93,3 @@ If a company spends time and money developing something new, the details of whic
 The result is that no one would innovate in the first place.
 Similarly, for public safety concerns, governments are often unwilling to publish data that relates to issues such as national security.
 In such cases, it may not be possible to make data open, or it may only be possible to share partial/obscured datasets.
-

@@ -8,6 +8,14 @@
 | -------------|------------|-------|
 | {ref}`Version Control<rr-vcs>` | Necessary | Understanding the way that [Github](https://github.com) arranges its branches, forks, and pull requests within repositories is needed. |
 
+```{figure} ../figures/BugCatching.jpg
+---
+height: 500px
+name: BugCatching
+alt: People catching bugs in different ways.
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300 
+```
 (rr-reviewing-summary)=
 ## Summary
 

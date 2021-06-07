@@ -6,7 +6,7 @@
 | Prerequisite  | Importance |
 | ------------- | ---------- |
 | {ref}`Overview of Reproducibility<rr-overview>` | Useful but not essential |
-| {ref}`Open research<rr-open)>` | Useful but not essential |
+| {ref}`Open research<rr-open>` | Useful but not essential |
 
 ## Summary
 
