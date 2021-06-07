@@ -51,7 +51,7 @@ Often starting a piece of writing is the hardest part, and writing your first bl
 Get your blog noticed.
     
    * It's a good idea to tell your target audience about your blog and again each time you release a post. 
-   * Use any mailing lists from key associations linked to your research.
+   * Use mailing lists from key associations linked to your research.
    * Use social media such as twitter or facebook.
    * Ask colleagues to retweet or send out emails to advertise your blog. 
 
