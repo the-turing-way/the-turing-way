@@ -21,7 +21,7 @@ It should be written in plain English, avoid the use of jargon and explain any t
 
 Apart from fulfilling the transparency and collaborative goals of an open science approach, there are specific reasons why writing lay summaries can benefit scientific progress.
 
-INVOLVE, a national advisory group funded by the UK National Institute for Health Research, reported that involving patients and healthcare professionals helps at all stages of a research project, from developing the research question through to disseminating the results. The benefits of this direct involvement in research have been identified as follows (Duke 2012):
+INVOLVE, a national advisory group funded by the UK National Institute for Health Research, reported that involving patients and healthcare professionals helps at all stages of a research project, from developing the research question through to disseminating the results. The benefits of this direct involvement in research have been identified as follows {cite}`Duke2012summary`:
 * Increasing the relevance of the research.
 * Increasing recruitment to clinical research.
 * Improving the design of the research to address ethical concerns, improve the research tools and make it easier for the people taking part.
