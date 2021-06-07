@@ -266,6 +266,8 @@
       file: communication/wa-comms/wa-comms-blogs-personal-stories
     - title: Lay summaries
       file: communication/wa-comms/wa-comms-lay-summaries
+    - title: Personal stories - Lay summaries
+      file: communication/wa-comms/wa-comms-lay-summaries-personal-stories
     - title: Podcasts
       file: communication/wa-comms/wa-comms-podcasts
     - title: Personal stories - Podcasts
@@ -293,16 +295,7 @@
         file: communication/citable/citable-orcid
       - title: Checklist and Recommendations
         file: communication/citable/citable-checklist
-  - title: Community Communications for Open Source Projects
-    file: communication/os-comms
-    sections:
-      - title: Issue Tracking
-        file: communication/os-comms/os-comms-issue-tracking
-      - title: Communication Channels
-        file: communication/os-comms/os-comms-channels
-      - title: Further Reading
-        file: communication/os-comms/os-comms-resources
-
+ 
 # ===== Collaboration Guide ========================================
 
 - file: collaboration/collaboration
