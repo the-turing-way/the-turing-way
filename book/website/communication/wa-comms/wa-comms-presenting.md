@@ -29,24 +29,19 @@ Some of the websites that offer these resources for free are:
 * [Flaticon](https://www.flaticon.com/free-icons/english) for icons
 * [Canva](https://www.canva.com) for icons
 
-### Working on the technical aspects of the talk
-Presenting a talk through a digital medium involves tackling some technical challenges, including managing video and sound accesibility and quality.
+## Working on the technical aspects of the talk
+Presenting a talk through a digital medium involves tackling some technical challenges, including managing video and sound accessibility and quality.
 
-#### Video
+### Video
 * As mentioned earlier, use captions during the talk to aid accessibility. 
 * A useful step to ensure that people with different devices (and screens) can appreciate the video's content is to develop the presentation using your smallest screen.
-* Even if you are only sharing a slide deck, seeing you on video can help your audience to keep their concentration on the presentation. You dont need the best camera or video post-processing software, but [managing your lighting](https://www.youtube.com/watch?v=rGcAM1CNEU0&ab_channel=Wirecutter) will do wonders for your video quality.
+* Even if you are only sharing a slide deck, seeing you on video can help your audience to keep their concentration on the presentation. You don't need the best camera or video post-processing software, but [managing your lighting](https://www.youtube.com/watch?v=rGcAM1CNEU0&ab_channel=Wirecutter) will do wonders for your video quality.
 
-#### Sound
-* For the members of your audience who are not deaf of hard of hearing, sound quality will always be more important than video quality. 
-* Previous to the presentation, record your voice using the same device you will be using in the presentation to check the sound quality and make any adjustments you can to ensure a crisp sound.
+### Sound
+* For the members of your audience who are hard of hearing, sound quality will always be more important than video quality. 
+* Before the presentation, record your voice using the same device you will be using in the presentation to check the sound quality and make any adjustments you can to ensure a crisp sound.
 
-#### Recording a talk
+### Recording a talk
 * The simplest way to record the contents of your talk, including your video, voice and presentation, is to record it using a videoconference service (like Zoom) or a recording software like [OBS](https://obsproject.com). See [this guide](https://software.ac.uk/fellowship-programme/2019/application-video-guide) by the Software Sustainability Institute on how to configure OBS for screen recording.
-* If you are recording your talk to present it asynchronously you can use platforms like [Amara](https://amara.org) to generate your subtiles from the video.
+* If you are recording your talk to present it asynchronously you can use platforms like [Amara](https://amara.org) to generate your subtitles from the video.
 
-## Resources:
-
-* Many of the technical aspects and tools for giving remote talks (or classes) are covered in [The Carpentries tips for teaching online](https://carpentries.org/blog/2020/03/tips-for-teaching-online/) and the webinar ["Teaching Online on Short Notice"](https://rstd.io/teach-online-2020) by RStudio, a source for several points of this section.
-* The Outlier conference has some excellent tips on [speech development](https://docs.google.com/presentation/d/1VltGZmwfFcqwJ_pMwNx-ECfhgtl0dhxYC99qM5xnV-U/), [structure](https://docs.google.com/presentation/d/1XyFdpqjlvXd_8kIl3dJFHhGTcywX0tayQtHXXYUi9DQ/), and [technical setup](https://https://docs.google.com/presentation/d/1ZLrVBs5Zt9_DDu2TYUN3CzsEr1WiMXbwj-AP5m9Rbhc/). 
-* Author Nancy Duarte offers some insights in her books, articles and [talks](https://://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks?) on how to structure presentations that involve a call to action.
