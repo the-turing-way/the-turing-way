@@ -53,7 +53,7 @@ Starting to use twitter might involve tweeting about new papers and useful resou
 You might also want to start with a series of intro tweets to introduce yourself, your career so far and your current work. You can pin this to your profile so that it is always what people see first. 
 
 
-## Twitter terms (adapted from {cite}`Cheplygina2020twitter`:
+## Twitter terms (adapted from {cite}`Cheplygina2020twitter`):
 
 * Confirmation step - Enabling a checking process tweets before posting using Tweetdeck.
 * Direct message (DM) — A private message that is only visible to the sender and the specifically identified recipients. By default, regular Twitter messages are visible to the whole world, including (via search engines such as Google) people who do not have a Twitter account.
