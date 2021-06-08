@@ -1,6 +1,6 @@
 # Personal stories - Lay summaries
       
-## Emma Karoune - Working with PalaeoSIG to make Palaeoecology more accessible
+## Emma Karoune - Working with Palaeoecology Special Interest Group to make Palaeoecology more accessible
 
 Dr Emma Karoune is a Research Associate at The Alan Turing Institute and Historic England focusing on Open Science and [Phytolith](https://en.wikipedia.org/wiki/Phytolith) Research. She is currently leading a project concerning the FAIRification of phytolith data.
 
@@ -9,13 +9,13 @@ Find out more about her work from the links below:
 * Blog - [The Open Archaeobotanist](https://ekaroune.github.io/The-Open-Archaeobotanist/)
 * Twitter - [ekaroune](https://twitter.com/ekaroune)
 
-We would like to thank Emma for answering our interview questions about her work with [PalaeoSIG](https://www.britishecologicalsociety.org/membership-community/special-interest-groups/palaeoecology-group/), who are the special interest group for palaeoecology at the British Ecological Society. 
+We would like to thank Emma for answering our interview questions about her work with [Palaeoecology Special Interest Group](https://www.britishecologicalsociety.org/membership-community/special-interest-groups/palaeoecology-group/), who are the special interest group for palaeoecology at the British Ecological Society. 
 
-Comments are also made in this case study by Dr Althea Davies and Dr Jane Bunting, who are the Secretaries of the PalaeoSIG and the organisers of this project along with Dr Eileen Tisdall.
+Comments are also made in this case study by Dr Althea Davies and Dr Jane Bunting, who are the Secretaries of the Palaeoecology special interest group and the organisers of this project along with Dr Eileen Tisdall.
 
 **1. Why did you start your work on lay summaries?**
 
-I attended an online workshop that PalaeoSIG organised in spring 2020 about [science writing and communication](https://palaeosigbes.wordpress.com/2020/05/11/testing-testing/). This was run by Althea Davies (University St Andrews), Jane Bunting (University Hull) and Eileen Tisdall (University Stirling). The aim of this workshop was to train palaeoecologists to communicate their research more effectively with non-specialists. As part of the workshop, we were tasked to produce short, accessible summaries of articles that had been suggested as the most influential palaeoecological papers in a recent PalaeoSIG survey and these would then be disseminated in a blog. 
+I attended an online workshop that Palaeoecology special interest group organised in spring 2020 about [science writing and communication](https://palaeosigbes.wordpress.com/2020/05/11/testing-testing/). This was run by Althea Davies (University St Andrews), Jane Bunting (University Hull) and Eileen Tisdall (University Stirling). The aim of this workshop was to train palaeoecologists to communicate their research more effectively with non-specialists. As part of the workshop, we were tasked to produce short, accessible summaries of articles that had been suggested as the most influential palaeoecological papers in a recent Palaeoecology special interest group survey and these would then be disseminated in a blog. 
 
 
 **2. How did you get started?**
@@ -32,7 +32,7 @@ Althea told me that the Wordpress site has between c.80 and 530 views per month,
 
 **4. What tools/software do you use most in your lay summaries?**
 
-PalaeoSIG used Google drive to run the project as Google docs was used to write collaboratively and Google sheets was used to co-ordinate the lay summaries and the editing/publishing progress. This allowed us to work synchronously during the workshop and asynchronously over the whole time of the project. 
+The Palaeoecology special interest group used Google drive to run the project as Google docs was used to write collaboratively and Google sheets was used to co-ordinate the lay summaries and the editing/publishing progress. This allowed us to work synchronously during the workshop and asynchronously over the whole time of the project. 
 
 The blog website uses wordpress. Althea said that she found uploading blogs quite straightforward and this probably reflects Jane's initial setup choices as well as the simplicity of the Wordpress format and templates.
 
