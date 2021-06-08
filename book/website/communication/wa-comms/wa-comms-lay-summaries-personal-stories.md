@@ -31,6 +31,7 @@ Once the workshop was over, we were asked if anyone wanted to help with editing 
 Althea told me that the Wordpress site has between c.80 and 530 views per month, depending on how many posts we have. As to what impact they're having, She is not sure how to measure this. Althea commented that they didn't set out to be an 'influencer' looking for a high hit rate, rather more of a support mechanism, point of connection and community resource for palaeoscientists working in various disciplines and sectors. For instance, providing an opportunity for blogs by Early Career Researchers who might be unsure about offering one to a 'bigger' organisation, like a journal. 
 
 **4. What tools/software do you use most in your lay summaries?**
+
 PalaeoSIG used Google drive to run the project as Google docs was used to write collaboratively and Google sheets was used to co-ordinate the lay summaries and the editing/publishing progress. This allowed us to work synchronously during the workshop and asynchronously over the whole time of the project. 
 
 The blog website uses wordpress. Althea said that she found uploading blogs quite straightforward and this probably reflects Jane's initial setup choices as well as the simplicity of the Wordpress format and templates.
