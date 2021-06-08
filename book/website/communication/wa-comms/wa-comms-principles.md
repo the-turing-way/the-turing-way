@@ -34,12 +34,12 @@ This will allow your content to be accessed by a larger audience and consequentl
    * There are features you can use within most word processing and presentation software that can help you to edit your documents in this manner. These include being able to add alt text to any images, using the specific headings to help a screen reader move to different sections, 
    * Microsoft Office has an accessibility checker so you can easily run this feature when your document or presentation is completed and make adjustments. 
    * For more information about accessibility see [Ability Net](https://abilitynet.org.uk/) and their [guide to creating accessible documents](https://abilitynet.org.uk/factsheets/creating-accessible-documents-0). 
-   * There is also a useful blog about alternative text : https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text
+   * There is also a useful [blog about alternative text](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text)
 
 * **Language translation** - English is considered the academic language but we should be careful to make sure that all our outputs are accessible in this language. Not everyone has the same level of English therefore outputs should be written in a straightforward manner to make them more accessible to those with English as a second language. 
     * However, not all communications should be in English. Researchers need to consider the wider audience of their communications. There may be a specific community with another language that needs to be engaged fully in the research and therefore communications should be translated. 
     * Global research communities should also consider translating key documents into additional languages as has been done for our project [README file](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md).
 
 * **FAIR resources** - It is worth considering applying the FAIR principles to all the science communications that you deposit in open repositories, such as conference presentations and posters, as this will make them more sustainable. 
-    * Tips to apply the FAIR principles to training materials by Garcia et al (2020) can be easily adapted for this purpose and this is discussed in more detail here (guide to collaboration - info about collaborative tools).
-    * Ref: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854
+    * Tips to apply the FAIR principles to training materials by Garcia et al (2020) {cite}`Garcia2020ten` can be easily adapted for this purpose and this is discussed in more detail here (guide to collaboration - info about collaborative tools).
+    
