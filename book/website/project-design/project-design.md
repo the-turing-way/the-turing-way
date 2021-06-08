@@ -14,10 +14,10 @@ Project design also includes aspects such as time, budget, risks, expectations, 
 name: project-design
 alt: A group of people collaboratively developing a project plan by writing on a giant canvas with a giant pencil to signify its importance in our work
 ---
-_The Turing Way_ project illustration by Scriberia. Zenodo. <http://doi.org/10.5281/zenodo.3332807>
+ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
-In this guide, we compile best practices and guidance on project designing by including different aspects of project management and agile development practices derived from academia and industry. 
+In this guide, we compile best practices and guidance on project designing by including different aspects of project management and agile development practices derived from academia and industry.
 We hope you will learn from different case studies for small, mid-size, and large projects spanning both short-term and long-term plans.
 If you are brave enough, your examples of failed projects will be incredibly valuable for understanding how to avoid making the same (totally understandable!) mistakes again.
 

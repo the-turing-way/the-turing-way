@@ -1,13 +1,13 @@
 (rr-rdm-storage)=
 # Data Storage and Organisation
 
-Data loss can be catastrophic for your research project and can happen often. 
+Data loss can be catastrophic for your research project and can happen often.
 You can prevent data loss by picking suitable storage solutions and backing your data up frequently.
 
-```{figure} ../../figures/VersionControl.jpg
+```{figure} ../../figures/version-control.jpg
 ---
-height: 500px 
-name: VersionControl
+height: 500px
+name: version-control
 alt: Two images are shown to represent the benefits of using version control. On the left, there is an image of two people rummaging through a blue box on top of a table. The box is full of jumbled documents and the people look confused and frustrated. The documents are named "final 2" and "let this be the final". On the right, the same two people look happy and are searching through files organised clearly in a blue filing cabinet. There are "V1, V2, V3 and V4" separations organising the files.
 ---
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
@@ -28,7 +28,7 @@ Your institution might provide local storage solutions and policies or guideline
 Thus, we recommend you familiarise yourself with your local policies and recommendations.
 
 When you are ready to release the data to the wider community, you can also search for the appropriate databases and repositories in [FAIRsharing](https://fairsharing.org/databases), according to your data type, and type of access to the data.
-Learn more about this in the {ref}`rr-rdm-sharing` subchapter. 
+Learn more about this in the {ref}`rr-rdm-sharing` subchapter.
 
 (rr-rdm-storage-organisation)=
 ## Data Organisation
@@ -36,14 +36,14 @@ Learn more about this in the {ref}`rr-rdm-sharing` subchapter.
 To organise your data, you can create a folder structure, or re-use a previous structure (see an example below), to ensure that you can find your files.
 
 -	Make sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they do not belong, or stored in large quantities in a single folder.
--	Use a clear folder structure. 
+-	Use a clear folder structure.
 You can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example below), or based on analysis method/equipment or data type.
 
 (rr-rdm-storage-organisation-examples)=
 ### Data Organisation Examples
 
 - Download [this](http://nikola.me/folder_structure.html) folder structure by Nikola Vukovic
-- You can pull/download folder structures using GitHub: 
+- You can pull/download folder structures using GitHub:
 [This template](https://github.com/bvreede/good-enough-project) by Barbara Vreede, based on [cookiecutter](https://github.com/cookiecutter/cookiecutter), follows recommended practices for scientific computing by [Wilson et al. (2017)](https://doi.org/10.1371/journal.pcbi.1005510).
 - See [this template](https://osf.io/4sdn3/) by Chris Hartgerink for file organisation on the [Open Science Framework](https://osf.io/).
 

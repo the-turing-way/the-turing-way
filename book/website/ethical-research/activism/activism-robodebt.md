@@ -1,12 +1,13 @@
 (er-activism-robodebt)=
 # Case Study: Tackling Robodebt
 
-```{figure} ../../figures/robo_debt.jpg
+```{figure} ../../figures/robo-debt.jpg
 ---
-name: robodebt
-alt: Illustration of automated decision-making disproportionately affecting low-income communities.
+name: robo-debt
+alt: This illustration shows a big machine that says 'you owe us'. It has a few people automating debt call, which is impacting the low-income community - there is person on wheelchair, a tired looking mother with an infant and a toddler and a distressed man standing next to her.
 ---
-_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+Illustration of automated decision-making disproportionately affecting low-income communities.
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 The Australian Online Compliance Initiative (OCI - dubbed the 'robodebt' debacle by media) involved a large-scale data matching project between the Federal Tax Office and the Department of Human Services.

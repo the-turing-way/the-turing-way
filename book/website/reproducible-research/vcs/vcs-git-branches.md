@@ -3,7 +3,7 @@
 
 When working on a project, individually or collaboratively, you may encounter the following scenarios:
 
-- If you add a new feature to your project, you run the risk of accidentally breaking your working code as you test the feature. 
+- If you add a new feature to your project, you run the risk of accidentally breaking your working code as you test the feature.
 This would cause unexpected issues for active users of your project, even if the only active user is you.
 - When you collaborate with others, and everyone works on the master branch simultaneously, there could be a lot of confusion and conflicting changes.
 - Some code/feature might not be interesting for everyone. There may need to be a way to allow new work to be done on a project whilst protecting work that has already been done.
@@ -21,9 +21,9 @@ You can have as many branches off of branches as you desire (for example, Featur
 Using branches keeps working code safe, particularly in collaborations.
 Each contributor can have their own branch or branches which are only merged into the main project when they are ready.
 
-```{figure} ../../figures/sub_branch.png
+```{figure} ../../figures/sub-branch.png
 ---
-name: sub_branch
+name: sub-branch
 alt: An illustration of branching in Git. There are four branches shown named master, Feature A, Feature B, and Feature A-1. Feature A and B are branches of the master branch, while Feature A-1 is a branch made from Feature A.
 ---
 An illustration of branching in Git
@@ -65,5 +65,5 @@ Give your branches **sensible names**, "new_feature" is all well and good until 
 
 ## Interactive tutorial
 
-[Learn Git Branching](https://learngitbranching.js.org/) is a project to provide an interactive way to learn Git. Going 
-through their tutorials will provide substantial experience with the most commonly used git commands and branch manipulation techniques. 
+[Learn Git Branching](https://learngitbranching.js.org/) is a project to provide an interactive way to learn Git. Going
+through their tutorials will provide substantial experience with the most commonly used git commands and branch manipulation techniques.
