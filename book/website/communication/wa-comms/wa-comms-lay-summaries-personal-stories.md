@@ -32,7 +32,7 @@ Althea told me that the Wordpress site has between c.80 and 530 views per month,
 
 **4. What tools/software do you use most in your lay summaries?**
 
-The Palaeoecology special interest group used Google drive to run the project as Google docs was used to write collaboratively and Google sheets was used to co-ordinate the lay summaries and the editing/publishing progress. This allowed us to work synchronously during the workshop and asynchronously over the whole time of the project. 
+The Palaeoecology special interest group used Google drive to run the project as Google docs was used to write collaboratively and Google sheets was used to co-ordinate the lay summaries and the editing and publishing progress. This allowed us to work synchronously during the workshop and asynchronously over the whole time of the project. 
 
 The blog website uses wordpress. Althea said that she found uploading blogs quite straightforward and this probably reflects Jane's initial setup choices as well as the simplicity of the Wordpress format and templates.
 
