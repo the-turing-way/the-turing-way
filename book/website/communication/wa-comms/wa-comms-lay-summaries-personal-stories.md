@@ -15,7 +15,7 @@ Comments are also made in this case study by Dr Althea Davies and Dr Jane Buntin
 
 **1. Why did you start your work on lay summaries?**
 
-I attended an online workshop that PalaeoSIG organised in spring 2020 about [science writing and communication](https://palaeosigbes.wordpress.com/2020/05/11/testing-testing/). This was run by Althea Davies (Univ. St Andrews), Jane Bunting (Univ. Hull) and Eileen Tisdall (Univ. Stirling). The aim of this workshop was to train palaeoecologists to communicate their research more effectively with non-specialists. As part of the workshop, we were tasked to produce short, accessible summaries of articles that had been suggested as the most influential palaeoecological papers in a recent PalaeoSIG survey and these would then be disseminated in a blog. 
+I attended an online workshop that PalaeoSIG organised in spring 2020 about [science writing and communication](https://palaeosigbes.wordpress.com/2020/05/11/testing-testing/). This was run by Althea Davies (University St Andrews), Jane Bunting (University Hull) and Eileen Tisdall (University Stirling). The aim of this workshop was to train palaeoecologists to communicate their research more effectively with non-specialists. As part of the workshop, we were tasked to produce short, accessible summaries of articles that had been suggested as the most influential palaeoecological papers in a recent PalaeoSIG survey and these would then be disseminated in a blog. 
 
 
 **2. How did you get started?**
