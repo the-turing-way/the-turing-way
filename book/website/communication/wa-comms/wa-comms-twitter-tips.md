@@ -55,7 +55,7 @@ You might also want to start with a series of intro tweets to introduce yourself
 
 ## Twitter terms 
 
-These terms are adapted from {cite}`Cheplygina2020twitter`).
+These terms are adapted from {cite}`Cheplygina2020twitter`.
 
 * Confirmation step - Enabling a checking process tweets before posting using Tweetdeck.
 * Direct message (DM) — A private message that is only visible to the sender and the specifically identified recipients. By default, regular Twitter messages are visible to the whole world, including (via search engines such as Google) people who do not have a Twitter account.
