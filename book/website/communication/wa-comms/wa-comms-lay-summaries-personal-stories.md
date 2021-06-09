@@ -1,6 +1,6 @@
 # Personal stories - Lay summaries
       
-## Emma Karoune - Working with Palaeoecology Special Interest Group to make Palaeoecology more accessible
+## Emma Karoune - Working with the Palaeoecology Special Interest Group to make Palaeoecology more accessible
 
 Dr Emma Karoune is a Research Associate at The Alan Turing Institute and Historic England focusing on Open Science and [Phytolith](https://en.wikipedia.org/wiki/Phytolith) Research. She is currently leading a project concerning the FAIRification of phytolith data.
 
