@@ -24,7 +24,7 @@ During the workshop, we were put into pairs so that we could work collaborativel
 
 Here is one of the lay summaries I wrote with my workshop partner Nick Loughlin - [New evidence to assess the 5 reasons Elm almost disappeared](https://palaeosigbes.wordpress.com/2020/11/18/new-evidence-to-assess-the-5-reasons-elm-almost-disappeared/).
 
-Once the workshop was over, we were asked if anyone wanted to help with editing and publishing the lay summaries. There were a group of us that then formed a group of copy editors and summary editors, again to work in pairs to finialise each lay summary every week for release on the project website. The aim was to release one lay summary a week for a whole year. 
+Once the workshop was over, we were asked if anyone wanted to help with editing and publishing the lay summaries. Some of us then formed a group of copy editors and summary editors, again to work in pairs to finialise each lay summary every week for release on the project website. The aim was to release one lay summary a week for a whole year. 
 
 **3. What impact do you think your lay summaries are making to your research/project/community?**
 
