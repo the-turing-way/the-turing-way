@@ -1,4 +1,4 @@
-(er-activism-internal-policy)=
+(er-internal-policy)=
 # Internal Policy Advocacy
 
 Internal policy advocacy is when individuals or groups associated with an organisation campaign for a change in the way that the organisation makes decisions, runs projects, chooses collaborators, develops products, or in other areas. 
