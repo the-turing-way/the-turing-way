@@ -253,6 +253,15 @@
   sections:
   - title: Ethical Decisions in Preclinical Research
     file: ethical-research/preclinical-research
+  - title: Ethics and Law, Policy and Human Rights
+    file: ethical-research/law-policy
+    sections:
+    - title: Ethics and law
+      file: ethical-research/law-policy-ethics
+    - title: Human rights
+      file: ethical-research/law-policy-rights
+    - title: Further Recommendations
+      file: ethical-research/law-policy-resources
 
 # ===== Community Handbook Guide ========================================
 
